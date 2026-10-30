@@ -737,7 +737,7 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 | Damage riders & resistances | Element effects; defensive record | Chapter 7 transcription in color order | Riders as filed; entity Resistance percentages convert to damage-taken multipliers, while already-filed multipliers stay verbatim |
 | E.G.O | M.A.W. Weapon / Suit / Stigma, where filed | Chapter 8 field conversion + separated bearer-cost ledgers | Stigma files into the Gift slot by role; no M.A.W. on file means no E.G.O invented at intake |
 | Encyclopedia | Comprehension, Tale, redactions, quote | Chapter 9 build order | Quote verbatim; origin of the quote remains unknown |
-| Department | Risk, work needs, breach class, story scale | Chapter 2 institutions + Chapter 10 roster practice | Department is a staffing decision, never a stat |
+| Department | Housing footprint, event and clerk exposure, work and staffing needs, department functions | Chapter 10 department-assignment order and roster cases | One available housing department after the other conversion fields settle; never a stat or type bonus |
 
 ### Durability Calibration — Facility HP and Sovereign Scale
 
@@ -955,7 +955,7 @@ Subject-column profiles are the R.D. codex's generic Positive/Negative Han-Energ
 In Lobotomy Corporation, agents are accustomed to performing Instinct, Insight, Attachment, and Repression on almost every Abnormality. **With Sorrow Entities, this standard operating procedure will cause immediate fatalities if applied blindly.**
 
 #### 1. Subject Entities (`[S]` — Mobile, Conscious Forms)
-For entities classified with a Subject manifestation (e.g., *The Whispering Confessional* `SE-C-Iα-033 [LS]`, *Marksman of the Seventh Watch* `SE-C-IVδ-069 [GS]`):
+For entities classified with a Subject manifestation (e.g., *Kind Echo* `C-Iα-000 [LS]`, *Double Mouth* `C-IIβ-716 [GS]`):
 - **Insight Work (Viderehan Analog):** Agent monitors the entity's acoustic breathing and posture from within the chamber. The lowest-energy discipline (Pos Low · Neg Low) and the highest Comprehension yield in the codex; outcome and counter movement read from the Behavior table.
 - **Instinct Work (Ferrehan Analog):** Agent endures the chamber's heavy atmospheric pressure and cold (Pos High · Neg Moderate; exhaustion risk) — staff high-Resilience agents; yield reads from the Behavior table.
 - **Attachment Work (Flerehan Analog):** Agent communicates empathetically, weeping with the entity (Pos Moderate · Neg Low; emotional-drain risk). Staff by Composure (primary, §IV.3); where the dossier files polarized Flerehan outcomes or a named failure effect, the filed line binds as written.
@@ -1912,31 +1912,26 @@ Convert in this order. A later step may not supply a missing input to an earlier
 
 ---
 
-*"Give this document and any Somnarak Entity file to an AI. Tell it: 'The Well of Cogito has grabbed this Somnarak Sorrow Entity and is transforming it into a Lobotomy Corporation Abnormality. Use the conversion reference to translate every field. L Corp employees exposed to this entity will develop R.D. Attributes per section IX.' The AI should output a full L Corp Abnormality wiki page."*
-
 ### Section VIII: Departmental Assignment Roster (Facility Case Studies)
 
-Department is assigned by containment need as read in the conversion note: Place-bodies and site-housed entities to Architecture/Extraction adjacency, where the building itself is the instrument; Tool conversions to the department whose work loop consumes them; heavy Lament (WHITE) profiles away from clerk-dense floors. The roster below predates the designation overhaul and shows SECC codes; designations per Section II govern any new assignment.
+Department assignment is the **last housing and staffing decision**, never a stat, Risk input, PE input, or counter derivation. In native facility operation an Abnormality occupies a department-bound Containment Unit made available by department expansion; in a story conversion, choose only among departments and units the filed facility timeline makes available. A department name or an entity's body type does not create a containment bonus.
 
-#### 1. `SE-C-Iα-000` *The Kind Echo* (  친절한 메아리   / *Chinjeolhan Meari*)
-- **Department:** Training Department (Hod)
-- **Assigned Risk:** ZAYIN (Residue) · Max PE: 12 (**14–15 PE-equivalent quota value**) · Qliphoth Counter: None
-- **Containment Note:** Generates continuous SP restoration aura for the entire Training main room. Highly recommended for onboarding fresh Level I employees.
+| Decision input | Filed read | Boundary |
+|---|---|---|
+| **Available unit and housing footprint** | Housing grade, Containment Form, Breach Form, scale band, unit capacity, and whether the body is Whole, Aspect-shifted, Fragment, or Place-as-room | The room does not shrink the body or its stats. If no available unit can file the housing honestly, the assignment is **HOLD** |
+| **Event footprint and clerk exposure** | Filed event-behavior heading, breach class, movement and range, area effects, transformation states, and who stands in adjacent rooms and hallways | Damage color alone never chooses a floor. Architecture's lack of Clerks is a specific exposure fact; every other department's clerk effect depends on the percentage of its Clerks alive and sane |
+| **Work and staffing loop** | Behavior lines, permitted and prohibited disciplines, counter channels, first-three-days exposure, assigned-agent continuous service, and suppression routes | Department functions benefit employees—facility-wide through the clerk effect or individually through continuous service. They do not rewrite favorability, counters, PE, or damage |
+| **Department function and research** | The department's filed employee function and story role—for example Training for employee training and growth, Safety for emergency planning and healing support, Extraction for E.G.O cost and gear performance, or Architecture for its eight late-facility units and all-stat continuous service | Extraction does not require physical adjacency to extract E.G.O from a housed entity, and Architecture's name alone does not house a Place-body. Function must answer a filed staffing or exposure need |
+| **One housing department; support separately** | Name the one department responsible for the Containment Unit, then name extraction, suppression, archive, or other support offices separately | A slash assignment such as “Extraction / Architecture” is not an assignment. If a Place-as-room footprint cannot be bounded under one responsible department in the story's facility, file **HOLD** |
 
-#### 2. `SE-C-IVδ-069` *Marksman of the Seventh Watch* (  칠경의 저격수   / *Chilgyeong-ui Jeogyeoksu*)
-- **Department:** Central Command (Tiphereth)
-- **Assigned Risk:** WAW (Entity) · Max PE: 28 (**32–34 PE-equivalent quota value**) · Qliphoth Counter: 2
-- **Containment Note:** When Qliphoth Meltdown triggers, the entity fires the *Seventh Slate Needle* through three random facility departments, dealing 60 RED damage to every clerk and agent in its straight trajectory. Insight work performed by agents with Temperance V minimizes counter drops.
+The cases below are department reads only. They do not mint Subject Numbers and do not replace the full Appendix B conversion record.
 
-#### 3. `SE-C-IVω-001` *The Maw* (  구라   / *Gura*)
-- **Department:** Extraction Department (Binah) / Architecture
-- **Assigned Risk:** ALEPH (Sovereign) · Max PE: 36 (**41–43 PE-equivalent quota value**) · Qliphoth Counter: 1
-- **Containment Note:** Strictly lock to Instinct and Insight work. Any agent attempting Attachment or Repression work triggers immediate Place-to-Subject breach.
-
-#### 4. `SE-N-IIβ-319` *The Magistrate's Strike-Through* (  판관의 취소선   / *Pangwan-ui Chwisoseon*)
-- **Department:** Safety Department (Netzach)
-- **Assigned Risk:** TETH (A-Relic / Single Use Tool Abnormality)
-- **Containment Note:** Completing the chalk circle is the single discharge: the chalk is ground to powder and cannot be used again. The filed boundary lasts 30 seconds and bars psychic/cognitive targeting; sheltered operatives forget their family names for the shift.
+| Source case | Department read | Assignment basis | Boundary / HOLD |
+|---|---|---|---|
+| `C-Iα-000 [LS]` — **Kind Echo** · Threat Score 1 + 1 = 2 → **ZAYIN** | **Training Team (Hod)** | The home record permanently stations the Echo in the SECTOR-D-01 Training Containment Unit, files Entity role **Subject — Training**, low work difficulty at Comprehension 4 — Mastered, and a recommended response to practice all four Work Types. The native Training Team runs new-employee training and improves employee growth through work | No continuous SP-restoration aura is filed, so none is assigned to the Training Main Room. The dossier's mastered, gentle training record and its harmful Containment Event presentation remain an open source discrepancy; a full conversion carries both as filed instead of resolving them through this department read |
+| `SE-C-IVδ-069 [GS]` — **Marksman of the Seventh Watch** · legacy pairing only | **HOLD — no department** | No current Sorrow Entity dossier files under this designation. The name and profile survive in the archival opposite-direction Der Freischütz case study and in builder provenance for that carried text | Do not file a forward Risk, Max PE, Qliphoth Counter, Central Command assignment, meltdown shot, or 60 RED pattern from the legacy pairing. The archival Guide 1 case remains untouched; a future current dossier would require a new full read |
+| `C-IVω-001 [GP]` — **The Maw** · Threat Score 4 + 5 = 9 → **ALEPH**; Batch 207 designation `T-07-0001` | **Architecture Team (Kether)** where the final department is available; otherwise **HOLD** | The filed body is a district housed as Place-as-room, with expansion that can merge adjacent buildings and absorb residents and no true containment. Architecture files eight Containment Units, **no Clerks**, and all-stat continuous-service benefits for its assigned Agents; Extraction support remains a separate facility function | One responsible housing department replaces the former Extraction/Architecture slash. While the Maw is Place, only Insight and Instinct are workable; Attachment and Repression are N/A under the Two-Work-Type Law and are not, by themselves, the filed collective-sorrow metamorphosis trigger |
+| `N-IIβ-319 [VO]` — **The Magistrate's Strike-Through** · Threat Score 2 + 2 = 4 → **TETH** | **Safety Team (Netzach)** — custody assignment | The A-Relic's filed operation is a one-use sanctuary boundary, and the native Safety Team files emergency planning, safety guidelines, and healing support. That custodian function answers the dossier's certified Tool protocol | Housing department means custody and operator staffing, not a repeat-use work loop. Completing the chalk circle consumes the relic completely, creates the filed 30-second sanctuary, and leaves sheltered operatives unable to recall their family names for the shift |
 
 ### Section X: Worked Conversions (Batch 207 intake series)
 

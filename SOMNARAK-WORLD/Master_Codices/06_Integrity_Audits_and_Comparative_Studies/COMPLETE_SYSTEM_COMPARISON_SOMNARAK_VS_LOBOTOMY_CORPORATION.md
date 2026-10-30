@@ -134,6 +134,8 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 | **Operative Personnel** | **Agents** (armed containment workers) and **Clerks** (office staff providing morale). | **Absolvers (  해원사   )** (containment operatives) and **Salt-Scrubbers (  염초공   )** (sanitation personnel). | Sacrificial corporate employees vs solemn sworn liturgical containment wardens. |
 | **Tactical Rapid Response** | **Rabbit Team** (R Corp 4th Pack mercenaries) summoned for total sector cleansing. | **Cadre Sim-Pan (  심판   / Arbiters)** and **Cadre Gyeo-Tu (  격투   / Duelists)** mobilized for kinetic execution. | Hired private military shock troopers vs dedicated Directorate inquisitors and frontline champions. |
 
+**Department-assignment boundary (conversion):** a converted record names one available housing department only after housing footprint, event/clerk exposure, work and staffing needs, and department functions are filed. The department is never a stat or type bonus: Extraction need not be physically adjacent to extract E.G.O, Architecture's name alone does not house a Place-body, and a slash assignment is a **HOLD**, not a department.
+
 ---
 
 ## 4. Energy Extraction & Production Systems
