@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Whole-band multiplier reference — three dossier reads (2026-10-30)
+
+- **Unified output-band table added (manual Ch. 4, after Arithmetic Filing):** Dossier Gauge input band → fixed HP multiplier → derived LC HP band (**75–150 / 300–500 / 900–1,350 / 6,750–9,000 / 19,000–228,000**), beside the ATK filed-*m* band and the Max PE physical / PE-equivalent quota bands (**12–17 / 16–22 / 21–29 / 27–38 / 36–48**). The table states its **LOGIC** on its face: Gauge bands check inputs, ATK bands bound one filed *m*, and PE-equivalent bands are whole-range envelopes until one `d` is filed.
+- **Three real dossier reads anchor the scale:** **Kind Echo** (`C-Iα-000`, the lowest filed Gauge found in the stat-bearing dossier corpus: 50 → **25 HP**, with the below-band input flag written rather than rescaled; 2–5 Lament at low *m* 0.8 → **2–4 WHITE**); **Learned Your Face** (`C-IIIγ-195`, middle Risk/equilibrium HE: 693 → **1,248 HP**; 15–34 Void at standard *m* 1.6 → **24–55 PALE**, sanity-band crossing flagged, arithmetic standing); **Dawn of Mourning** (`C-Vω-001`, highest filed Gauge: historical/projected 12,000 → **228,000 HP**; 44–111 all-four at reference *m* 1.0 → **44–111 Mixed cycle**, unresolved critical rider not spent). The reads are explicitly multiplier reads, not complete intake records, and no dossier was edited.
+
 ## Owner-ordered Han-density multiplier revision — whole-stat LOGIC (2026-10-30)
 
 - **HP multipliers reshaped as density-weighted conversion factors (manual Ch. 4; CMP §6 filing note synced):** **×0.5 ZAYIN · ×1.0 TETH · ×1.8 HE · ×9 WAW · ×19 ALEPH** replace ×0.2/×0.4/×1.8/×4/×10 in the Conversion Base list, §III derivation, both HP tables, and every computable example. The logical shape is now explicit: the low tiers are no longer compressed as Cogito-light bodies, **HE ×1.8 remains the equilibrium anchor**, and WAW/ALEPH density is read across the **whole** Gauge rather than as a near-parity premium. Calibrated to the owner's 999-Gauge example and filed at clean whole-stat factors, that base derives **8,991 HP at WAW** and **18,981 HP at ALEPH**. Input bands still check the dossier base before multiplication; the derived output stands.

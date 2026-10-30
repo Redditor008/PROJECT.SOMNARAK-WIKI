@@ -810,6 +810,26 @@ Where the dossier files stagger thresholds, translate them as filed behavior: a 
 5. If the dossier files no Gauge or no Pressure, the preferred output is a HOLD. A story that must proceed may file a braced estimate from the tier band — `{est.}` — and the brace travels with the figure wherever it is quoted.
 6. Check finished arithmetic by computing forward again from the dossier base and the filed multiplier. If the record does not match, flag arithmetic drift; never solve for a prettier base to make the sheet agree.
 
+### Whole-Band Reference — Input, Multiplier, Output
+
+Read the band left to right. The Dossier Gauge column is the **input check**; the HP column beside it is what that input band becomes after the fixed density-weighted multiplier. The ATK column is the allowed range for the **one** filed *m*, not a promise that every Pressure base will land inside the Section III sanity band. The PE-equivalent column combines the physical-count endpoints with the full dense-factor range (`d` = ×2.0–×2.5); a finished record files one `d`, so its quota read is narrower than the whole-band envelope below.
+
+| Risk Level (Threat Score) | Dossier Gauge [HP] input band | HP multiplier | Derived LC HP band | ATK filed-*m* band | Max PE-Boxes (physical) | PE-equivalent quota band |
+|---|---|---|---|---|---|---|
+| **ZAYIN** (2–3) | 150–300 | ×0.5 | **75–150** | ×0.8–1.2 | 10–14 | **12–17** |
+| **TETH** (4–5) | 300–500 | ×1.0 | **300–500** | ×1.3–1.5 | 14–18 | **16–22** |
+| **HE** (6) | 500–750 | ×1.8 | **900–1,350** | ×1.4–1.8 | 18–24 | **21–29** |
+| **WAW** (7–8) | 750–1,000 | ×9 | **6,750–9,000** | ×1.2–2.0 | 24–32 | **27–38** |
+| **ALEPH** (9–10) | 1,000–12,000 | ×19 | **19,000–228,000** | ×0.8–1.3 | 32–40 | **36–48** |
+
+Three dossier reads place the ends and the middle. They are multiplier reads, not complete intake records: housing, counters, work tables, skills and equipment still derive through their own chapters, and dossier skill-segment damage is never folded into work damage.
+
+| Reference point | Entity read | HP derivation | Work-damage derivation | PE read |
+|---|---|---|---|---|
+| **Lowest filed Gauge** | **Kind Echo** — `C-Iα-000 [LS]`; Score 2 → **ZAYIN** | Gauge **50** — **below** the 150–300 input check, so the flag is written and the base is not rescaled: `ceil(50 × 0.5)` = **25 HP** | Pressure **2–5 · Lament**; gentle ambient pressure files low *m* = 0.8 → **2–4 WHITE** | Han Yield **2–4** stays worksheet input; roster Max **12 physical PE** → **14–15 PE-equivalent** |
+| **Middle Risk / equilibrium anchor** | **Learned Your Face** — `C-IIIγ-195 [VO]`; Score 6 → **HE** | Gauge **693**, inside 500–750: `ceil(693 × 1.8)` = **1,248 HP** | Pressure **15–34 · Void**; standard *m* = 1.6 → **24–55 PALE**. This crosses the Section III 18–35 sanity band, so it is flagged as a check result — the arithmetic is not rescaled to fit it | Han Yield **16–22** stays worksheet input; HE Max band **18–24 physical PE** → **21–29 PE-equivalent** (this read assigns no single count) |
+| **Highest filed Gauge** | **Dawn of Mourning** — `C-Vω-001 [LS]`; Score 10 → **ALEPH** | Historical/projected Gauge **12,000**, at the top of 1,000–12,000: `ceil(12,000 × 19)` = **228,000 HP** | Pressure **44–111 · all four elements**; standard reference *m* = 1.0 → **44–111 Mixed cycle**. The dossier's unresolved critical rider is not spent to justify a spike filing | Modelled Han Yield **28–40** stays worksheet input; ALEPH Max band **32–40 physical PE** → **36–48 PE-equivalent**. Historical/projected read, not a current-cycle intake |
+
 ### III. HP Conversion
 
 | L Corp Risk Level | HP Multiplier | Formula |
