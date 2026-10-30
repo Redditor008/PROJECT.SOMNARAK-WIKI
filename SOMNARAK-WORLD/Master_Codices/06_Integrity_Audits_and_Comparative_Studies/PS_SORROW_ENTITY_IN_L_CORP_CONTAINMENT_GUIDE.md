@@ -471,20 +471,20 @@ Breach and transformation states do **not** mint new codes. A Place→Subject ev
 | **Origin: C (City)** | **O (Original)** or general | City-born abnormalities; catch-all category |
 | **Origin: N (Inner)** | **T (Trauma)** | Personal trauma, phobias, intense emotions |
 | **Origin: O (Outside)** | **O (Original)** or **M (Mythical)** | Otherworldly, external, unknown cause |
-| **Coherence (I–V)** | — | Used WITH Potency to calculate Risk Level (see §II) |
-| **Potency (α–ω)** | — | Used WITH Coherence to calculate Risk Level (see §II) |
+| **Coherence (I–V)** | — | Used WITH Potency to calculate Risk Level (Chapter 4) |
+| **Potency (α–ω)** | — | Used WITH Coherence to calculate Risk Level (Chapter 4) |
 | **Sorrow Category** | **Classification Code origin letter** | City→O, Inner→T, Outside→O/M (see above) |
 | **Element: Lament (Deep Blue)** | **WHITE Damage** | Attacks Mind / Sanity / emotional stability |
 | **Element: Grudge (Crimson)** | **RED Damage** | Attacks Body / HP / physical form |
 | **Element: Void (White/Pale)** | **PALE Damage** | Attacks Soul / percentage-based / identity erasure |
 | **Element: Weight (Black)** | **BLACK Damage** | Attacks both HP and Sanity (mixed) |
-| **Element: Mixed** | **Multiple Damage Types** | Entity deals 2+ damage types |
+| **Element: Mixed** | **Multiple Damage Types** | Cycles all four pressure types in fixed order (codex cycle: 2 s per type, 8 s total) |
 | **Manifestation: Subject** | **Humanoid / Creature** | Can breach, move, act independently |
 | **Manifestation: Object** | **Inanimate / Tool-type (code 04/09)** | Fixed, can breach via Transform; may activate |
 | **Manifestation: Place** | **Location-type** | The location itself is the abnormality |
-| **R.D. Observation Level (0–4)** | **Observation Level (I–IV)** | Direct 1:1. Somnarak 0=Unknown → L Corp locked. Somnarak 4=Mastered → L Corp IV all unlocked. |
+| **R.D. Comprehension Level (0–4)** | **Observation Level (I–IV)** | Gate-analogue only, not 1:1 mechanics. Comprehension advances on Comprehension Points earned by Work (5 / 25 / 75 / 175 CP): Level 0 Unknown reads as LC locked, Level 4 Mastered as full unlock (Section IX). |
 
-### X. SECC Code System (5 × 5 × 5 × 5)
+### X. SECC Code System (3 × 5 × 5 × 5 × 5)
 
 #### Designation Format
 
@@ -493,7 +493,7 @@ SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]
 Example: SE-C-IVδ-001 [GS]
 ```
 
-| Component | Codes (5 each) |
+| Component | Codes |
 |---|---|
 | **Origin** | `C` City · `N` Inner · `O` Outside |
 | **Coherence** | `I` Residue · `II` Echo · `III` Fragment · `IV` Entity · `V` Sovereign |
@@ -533,8 +533,8 @@ L Corp's second number in the Subject Number (`Letter-XX-YY`) represents the Abn
 |**Format**|`[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]`|`[Letter]-[Number]-[Number]`|Different structures|
 |**Origin**|C (City), N (Inner), O (Outside)|F (Fairy Tale), T (Trauma), O (Original), D (Donation), M (Mythical)|C→O, N→T, O→O/M|
 |**Coherence**|I-V (Residue to Sovereign)|N/A|Used with Potency for Risk Level|
-|**Potency**|α-Ω (Minor to Catastrophic)|N/A|Used with Coherence for Risk Level|
-|**Shape/Form**|Manifestation type (Subject, Object, Place, Time)|01-09 (Humanoid, Animalistic, Otherworldly, Object, Machine, Abstract, Breaching Tool, Sin, Tool)|Subject→01/02, Object→04/05, Place→03/06|
+|**Potency**|α-ω (Minor to Catastrophic)|N/A|Used with Coherence for Risk Level|
+|**Shape/Form**|Manifestation type (Subject, Object, Place, Time, Hybrid)|01-09 (Humanoid, Animalistic, Otherworldly, Object, Machine, Abstract, Breaching Tool, Sin, Tool)|Subject→01/02, Object→04/05, Place→03/06|
 |**Unique Number**|Sequential|Sequential|Same concept|
 |**Element**|Lament, Grudge, Void, Weight, Mixed|N/A (mapped to damage types)|Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK|
 
