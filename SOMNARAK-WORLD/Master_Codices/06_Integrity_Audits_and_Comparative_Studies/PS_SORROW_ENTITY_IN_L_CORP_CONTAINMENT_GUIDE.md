@@ -1286,7 +1286,7 @@ The dossier Behavior table is the only authority for favorability. Translate eac
 
 ## Chapter 6 — Counters, Breach, Transformation & Crisis
 
-Work moves counters; counters open doors. With the Gauge/Threshold channel law already stated in Chapter 4, this chapter follows what happens when a filed channel completes: breach, transformation, meltdown weather, and suppression.
+Work moves counters; counters open doors. With the Gauge/Threshold channel law already stated in Chapter 4, this chapter follows what happens when a filed channel completes: breach, transformation, meltdown response, and suppression.
 
 ### Section VI: Special Transform Breaches: Place-to-Subject Metamorphosis
 
@@ -1319,7 +1319,7 @@ When a **Place-Tale Sorrow Entity** breaches in Lobotomy Corporation (most notab
 #### Phase 2: The Walking Maw Metamorphosis (`C-IVω-001-B [GS]`)
 - The architecture detaches from the subterranean bedrock. The whispering masonry, pipes, and tar coalesce into an enormous, multi-legged stone colossus.
 - Its SECC code shifts from `[GP]` (Place) to `[GS]` (Breaching Subject).
-- It enters the main departmental corridors as an **ALEPH-class mobile sovereign**.
+- It enters the main departmental corridors as an **ALEPH-class mobile colossus**.
 
 #### Phase 3: Suppression Doctrine
 - **Work Rule Shift:** While mobile, the entity can now be engaged with direct kinetic weaponry (Repression / Pugnahan) and empathetic counter-resonance (Attachment / Flerehan).
@@ -1337,10 +1337,11 @@ The phases above are worked on the Maw, but the conversion of *abilities* is gen
 | **Breach Type: Corrupt** | **Corrupting Breach** | Entity damages the facility/containment |
 | **Breach Type: Transform** | **Transformation** | Entity changes form, escalates |
 | **Breach Type: Cascade** | **Cascading Breach** | Triggers other entities to breach |
-| **Activation threshold** (Gauge ≥ X%) | **Qliphoth Counter** reaching 0 | The trigger condition for breach |
-| **Sorrow Tide** (nightly Han surge) | **Qliphoth Meltdown** | Escalation event that pressures containment |
-| **Ordeals** | **Ordeals** | External hostile events (already mapped: 5 Colors × 4 Watches) |
-| **Instant Fracture** | **Instant Death / Instakill** | ω-grade (ALEPH) entity ability that removes a target instantly |
+| **Sorrow Gauge** reaching its filed activation % | **Qliphoth Counter** reaching 0 (Gauge channel) | Entity-codex register: activation threshold is the Gauge % at which the entity activates or breaches — the Gauge channel's completion point |
+| **Activation Threshold** fulfillment (discrete conditions) | **Qliphoth Counter** reaching 0 (Threshold channel) | Dossier register: named counts, states, spreads — a channel distinct from Gauge pressure, never read as a Gauge percentage. An entity may file either channel or both (§9) |
+| **Sorrow Tide** (nightly Han surge) | *(crisis-escalation analogue only)* | Facility-facing pressure reads through the Han-Density Gauge and Ordeal Times (Tide Watch at surge peak), not a countdown meltdown |
+| **Ordeals** | **Timed Ordeals** (crisis-cadence analogue) | Mortal Han manifestations spawning inside Facility 01 (5 Colors × 4 Times; Han-Density thresholds) |
+| **Instant Fracture** (dossier-filed ability outcome) | **Instant Death** (output read) | Converts only where the dossier itself files an instant soul-break; the target is removed by Fracture completion, not by damage. Never a property of Potency grade or Risk Level alone |
 
 ### VII. Breach & Activation Mapping
 
@@ -1350,10 +1351,11 @@ The phases above are worked on the Maw, but the conversion of *abilities* is gen
 | **Breach Type: Corrupt** | **Corrupting Breach** | Entity damages facility/containment |
 | **Breach Type: Transform** | **Transformation** | Entity changes form, escalates |
 | **Breach Type: Cascade** | **Cascading Breach** | Triggers other entities to breach |
-| **Activation threshold** (Gauge ≥ X%) | **Qliphoth Counter** reaching 0 | The trigger condition |
-| **Sorrow Tide** (nightly Han surge) | **Qliphoth Meltdown** | Escalation event |
-| **Ordeals** | **Ordeals** | External hostile events (5 Colors × 4 Watches) |
-| **Instant Fracture** | **Instant Death / Instakill** | ω-grade (ALEPH) entity special |
+| **Sorrow Gauge** reaching its filed activation % | **Qliphoth Counter** reaching 0 (Gauge channel) | Entity-codex register: activation threshold is the Gauge % at which the entity activates or breaches — the Gauge channel's completion point |
+| **Activation Threshold** fulfillment (discrete conditions) | **Qliphoth Counter** reaching 0 (Threshold channel) | Dossier register: named counts, states, spreads — a channel distinct from Gauge pressure, never read as a Gauge percentage. An entity may file either channel or both (§9) |
+| **Sorrow Tide** (nightly Han surge) | *(crisis-escalation analogue only)* | Facility-facing pressure reads through the Han-Density Gauge and Ordeal Times (Tide Watch at surge peak), not a countdown meltdown |
+| **Ordeals** | **Timed Ordeals** (crisis-cadence analogue) | Mortal Han manifestations spawning inside Facility 01 (5 Colors × 4 Times; Han-Density thresholds) |
+| **Instant Fracture** (dossier-filed ability outcome) | **Instant Death** (output read) | Converts only where the dossier itself files an instant soul-break; the target is removed by Fracture completion, not by damage. Never a property of Potency grade or Risk Level alone |
 
 ### 9. Breach Dynamics & Crisis Escalation
 
