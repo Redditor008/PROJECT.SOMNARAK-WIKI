@@ -156,6 +156,8 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 
 **Case-pattern boundary (conversion):** the manual's case patterns are combinable overlays recognized from filed configurations, not a mutually exclusive taxonomy keyed to Risk, body type, or a case name. An anchored event does not become roaming because it has Combat Actions; a Tool's body class does not settle its operation; a Fragment completion and a split-scope counter remain **HOLD** where the evidence is incomplete; and a consumed relic gains no repeat-use loop. A pattern contributes questions and stop rules only—never a code, tier, stat, work value, department, or story fact.
 
+**Sign-off boundary (conversion):** a signature certifies completed source traces; it never supplies evidence or settles a **HOLD**. Functional certificate seats assemble into **SIGNED** only when every controlling operational field traces, into **SIGNED WITH RESTRICTIONS** when an unresolved field is fenced by an express no-use prohibition, and otherwise leave the packet **NOT SIGNED**. Permanent unknowns may remain only where no instruction depends on them. These seats are packet responsibilities, not newly invented L Corp Departments, R.D. posts, or external-contractor authority.
+
 ---
 
 ## 5. Entity Classification & Threat Tiers

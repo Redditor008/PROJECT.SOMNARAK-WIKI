@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: Institutional Sign-Off (2026-10-31)
+
+- **Six generic offices rebuilt as seven functional certificate responsibilities (manual Ch. 10):** source map and housing; designation, danger, and energy; work, people, and counters; event and suppression; equipment and original Tool custody; record and archive; and department and final assembly. A signature now certifies only fields that passed Facility Verification and the Field-Source Check. It cannot backfill a source, resolve a conflict, fill a redaction, or convert a **HOLD** into a fact. The seats are expressly packet responsibilities, not invented L Corp Departments, R.D. posts, Sephirot, Echo-Cores, or external-contractor authority.
+- **Missing controls and false geography retired:** counters and department/final assembly now have their own sign-off gates; extracted E.G.O and the original Tool sign on separate traces; the source chain is no longer reduced to “dossier source or HOLD”; and “room-held body and hallway body” no longer makes every event a roaming hallway breach. The certificate now assembles **SIGNED**, **SIGNED WITH RESTRICTIONS**, or **NOT SIGNED**. A permanent unknown may remain only when no operational instruction depends on it; an unresolved dependent action must be fenced by an express prohibition, and a controlling HOLD leaves the packet unsigned. The Batch 207 precedents and Double Mouth drill remain explicitly unsigned. CMP §4 carries the compact sign-off boundary.
+- **Scope boundary:** Appendices A–B, Guide/CMP §13.2 syndicate descriptions, duplicated carried tables, operation/item-designation conflicts, and Master Codices 02/03/05 whole-structure reads remain pending.
+
 ## Depth audit continued: Protocol Case Patterns (2026-10-31)
 
 - **Four case bullets rebuilt as six combinable overlays (manual Ch. 10):** the patterns now recognize filed configurations rather than sorting entities by Risk, body type, or case resemblance: **Anchored event body**, **Place-as-room with a registered state**, **Fragment at an interface**, **Sustained operator session**, **Irrevocably consumed discharge**, and **Split-scope percentages and conditions**. The worked anchors contribute reasoning and stop rules only; patterns can combine (Double Mouth **A + F**, Learned Your Face **C + D**), and none supplies a designation, tier, stat, work value, operation, counter, or department.
