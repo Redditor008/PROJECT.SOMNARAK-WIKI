@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## SE ↔ M.A.W. contradiction reconciliation pinned WIP (2026-10-31)
+
+- **Owner finding pinned, not disguised as a fix:** created `SOMNARAK-WORLD/MAW_Codex_Sets/PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md` and linked it from the M.A.W. Codex Set master index. A current scan found **83 priority Sorrow Entity dossiers** whose embedded M.A.W. material still carries an explicit contradiction/hold against the exact linked set—66 in `Full-set source review` paragraphs and 17 under named Weapon/Suit/Stigma/material/account holds—plus 14 mostly aligned reviews kept in a verification tail for local omissions and downstream placeholders. No SE dossier or M.A.W. item file was normalized in this pin.
+- **Required future method:** work one exact set at a time; repair demonstrable copy/identity errors inside the M.A.W. set first, reconcile the SE's embedded Weapon/Suit/Stigma blocks to the exact `-B/-C/-D` item dossiers with Side `-A` governing set identity, compare every numeric/form/cost/history field, propagate the settled result downstream, and remove the contradiction note only after the comparison passes. Rewording a hold does not close a row. The active Conversion Guide appendix pass continues; this queue activates only on a later owner order.
+
 ## Depth audit continued: Institutional Sign-Off (2026-10-31)
 
 - **Six generic offices rebuilt as seven functional certificate responsibilities (manual Ch. 10):** source map and housing; designation, danger, and energy; work, people, and counters; event and suppression; equipment and original Tool custody; record and archive; and department and final assembly. A signature now certifies only fields that passed Facility Verification and the Field-Source Check. It cannot backfill a source, resolve a conflict, fill a redaction, or convert a **HOLD** into a fact. The seats are expressly packet responsibilities, not invented L Corp Departments, R.D. posts, Sephirot, Echo-Cores, or external-contractor authority.
