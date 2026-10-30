@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: Chapter 8 bearer-cost ledgers and M.A.W. Corrosion (2026-10-30)
+
+- **Universal Composure Load / Acoustic Meltdown retired (manual Ch. 8 §VII; CMP §10 and both lexicons synced):** the carried first block imposed fixed maximum-SP reductions by tier (-15 WAW / -30 ALEPH), granted every Sorrow E.G.O an every-fourth-strike corridor stagger, and replaced SP-zero Panic with salt crystallization into an Acoustic Echo. A field sweep found no maximum-SP reduction or every-fourth-strike rule in the M.A.W. Codex or dossier equipment records; the M.A.W. Codex's 725 `Cost:` occurrences split into 481 Sorrow Echoes denominations, 243 narrative bearer tolls, and 1 explicit None.
+- **Composure Load narrowed to its logical ledger:** it now files only explicit **SP-pool** drain or maximum-pool change, per piece and with its filed form/trigger. Sorrow Echoes costs remain home resource costs, narrative prices remain named special rules, bond/clearance/attribute conditions remain bearer eligibility, and active pulses or recovery traits enter only with their filed triggers. If no SP-pool burden is filed, the record writes `Composure Load: —` rather than inventing a tier tax.
+- **Corrosion restored as a staged bearer-history process:** Project/R.D. file four cumulative stages — **Whispers → Bleed → Merge → Takeover** — caused by overuse, misuse, neglect/Echo starvation, or emotional conflict over days, weeks, months, and permanence. Ordinary Stage 4 dominates the mind without transforming the body, and SP-zero remains Chapter 7 Panic. Degree I files Corrosion as warning/shift law, Degree II may retain the staged track, and Degree III may run home burden mechanics; singular fused pieces remain named exceptions.
+
 ## Depth audit continued: Chapter 7 damage, panic, movement, and resistance channels (2026-10-30)
 
 - **Damage language consolidated (manual Ch. 7 §V; CMP §8 synced):** the chapter's three overlapping element tables now file as one forward conversion table, including the Mixed four-color cycle. Element fixes color and ledger only; bleed, slow/freeze, burden/work delay, knockback, stagger, memory erasure, silencing, armor/part break, and armor bypass are no longer universal element riders and enter only as named dossier effects with trigger, magnitude, and duration.

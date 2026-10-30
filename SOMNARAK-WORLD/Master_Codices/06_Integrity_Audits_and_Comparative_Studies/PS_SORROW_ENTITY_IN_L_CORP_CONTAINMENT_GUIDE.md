@@ -70,7 +70,7 @@ No single premise in it is mandatory: *how* the entity crosses (ingress) and *ho
 | Work system | Instinct/Insight/Attachment/Repression with favorability from the Behavior table | LC work names over `-han` behavior; dossier management rules bind | Viderehan/Ferrehan/Flerehan/Pugnahan as dossiered (LC names as glosses only) |
 | Damage readout | RED/WHITE/BLACK/PALE | Dual-read: LC colors carrying the filed Han status riders of Section V | Han elements as dossiered |
 | Breach & Qliphoth Counter | Every filed channel live (Gauge and/or Threshold); breaches roam per LC suppression doctrine | Channels live only as the dossier files them — either, both, or neither; transformations per Section VI | No counter; Gauge and Threshold behavior as dossiered |
-| Equipment | E.G.O per Section VII | E.G.O with Composure Load; per-piece bearer costs retained verbatim | M.A.W. unchanged; E.G.O names may gloss |
+| Equipment | E.G.O per Section VII; Composure Load only where a piece files SP-pool burden | E.G.O with retained per-piece bearer tolls and staged Corrosion where named | M.A.W. unchanged; E.G.O names may gloss |
 | Origin & Tale | Encyclopedia lore; SECC code as alias | Dual record; Tale remains the operative truth | Somnarak record operative; LC code as alias |
 | Original in Somnarak | Author must state: transferred, copied, or the SE was never there | Author must state transfer vs. reflection-copy | The original stands; this is a visitation or reading |
 
@@ -787,7 +787,7 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 | Work favorability | Behavior table by discipline | Outcome translation in Chapter 5 | Default Common; High/Low only where Behavior files a reason |
 | Breach movement | Speed, range, skills, body plan | Chapter 7 movement profile | Stats do not scale with presented size |
 | Damage riders & resistances | Element effects; defensive record | Chapter 7 transcription in color order | Riders as filed; entity Resistance percentages convert to damage-taken multipliers, while already-filed multipliers stay verbatim |
-| E.G.O | M.A.W. Weapon / Suit / Stigma, where filed | Chapter 8 field conversion + Composure Load | Stigma files into the Gift slot by role; no M.A.W. on file means no E.G.O invented at intake |
+| E.G.O | M.A.W. Weapon / Suit / Stigma, where filed | Chapter 8 field conversion + separated bearer-cost ledgers | Stigma files into the Gift slot by role; no M.A.W. on file means no E.G.O invented at intake |
 | Encyclopedia | Comprehension, Tale, redactions, quote | Chapter 9 build order | Quote verbatim; origin of the quote remains unknown |
 | Department | Risk, work needs, breach class, story scale | Chapter 2 institutions + Chapter 10 roster practice | Department is a staffing decision, never a stat |
 
@@ -1035,9 +1035,9 @@ Facility work against a transported SE is *also* Han exposure, and Somnarak meas
 | Flerehan / Attachment | Composure · Clarity | Temperance | Emotional breakdown — crying, withdrawal |
 | Pugnahan / Repression | Resolve · Resilience | Justice | Physical collapse — exhaustion, injury |
 
-- **Levels.** Each attribute runs 1–100 in five bands — **I** Fragile (1–20) · **II** Average (21–40) · **III** Trained (41–60) · **IV** Veteran (61–80) · **V** Exceptional (81–100) — displayed `Attribute [Level 0/I–V] [current/20]`, twenty points per level. Civilians average 20–30; trained R.D. personnel 40–60; Echo-Cores exceed 80. E.G.O stat requirements in an item record convert along the pairing above before Composure Load (Section VII) is applied; dossier rules naming a secondary attribute bind as written.
+- **Levels.** Each attribute runs 1–100 in five bands — **I** Fragile (1–20) · **II** Average (21–40) · **III** Trained (41–60) · **IV** Veteran (61–80) · **V** Exceptional (81–100) — displayed `Attribute [Level 0/I–V] [current/20]`, twenty points per level. Civilians average 20–30; trained R.D. personnel 40–60; Echo-Cores exceed 80. E.G.O stat requirements in an item record convert along the pairing above before any separately filed SP-pool Composure Load (Section VII) is entered; dossier rules naming a secondary attribute bind as written.
 - **Acquisition — the Nugget rule.** Every L Corp employee starts at **Level 0 in all four attributes**: LC stats do *not* convert into R.D. levels. An employee who **survives 3+ consecutive days** sustaining an SE's Han Effect begins accumulating points (**~1–3 per day**, scaled by the entity's Potency) toward the attributes keyed to its Element — Lament → Composure · Clarity; Grudge → Resilience · Resolve; Void → Clarity · Composure; Weight → Resolve · Resilience; Mixed → split across all four. At **Level III (41+ points)** the associated work can be performed without its Failure Effect. Until then, staffing high-Pressure entities is spending people to buy attributes, and roster planning files it in those words.
-- **Terminology guard.** *Composure the attribute* (Temperance-paired, this subsection) and the SP pool that Composure Load taxes (Section VII) are two ledgers sharing one word. Wherever a conversion note writes "Composure" beside a number, it states which ledger it means.
+- **Terminology guard.** *Composure the attribute* (Temperance-paired, this subsection) and the SP pool that a filed Composure Load taxes (Section VII) are two ledgers sharing one word. Wherever a conversion note writes "Composure" beside a number, it states which ledger it means.
 
 ### Crossover Add-on: How Somnarak's R.D. Attributes Map to Personnel
 
@@ -1497,7 +1497,7 @@ The Range Band below is the reach filed for an **entity attack pattern**. A weap
 The home **Four P-Framework** is **Passives, Panic, Parry & Protection, and Posture** — four combat domains, not four reaction dice. They translate by function:
 
 - **Passives:** a named entity or weapon passive keeps its trigger and effect. No universal speed, range, bleed, or poise bonus is added from the framework name.
-- **Panic:** SP/Composure collapse follows the panic table above. Generic node-grid panic bookkeeping and equipment burden drain are not imported at Degree I or II; bearer burden files through Chapter 8 Composure Load unless home mechanics are explicitly retained.
+- **Panic:** SP/Composure collapse follows the panic table above. Generic node-grid panic bookkeeping and equipment burden drain are not imported at Degree I or II; only explicitly SP-pool-denominated bearer burden files as Chapter 8 Composure Load unless home mechanics are explicitly retained.
 - **Parry & Protection:** active defense becomes manager positioning — withdraw or kite out of a telegraph, intercept at a chokepoint, focus suppression, and place the employee whose suit answers the incoming color. It does not grant a parry roll, guard shield, evade roll, or riposte unless the extracted gear or filed pattern itself grants that effect.
 - **Posture:** filed stagger or posture thresholds become named HP breakpoints, pattern disables, or interruption windows. The home dual-threshold track and its damage amplification are not added where the dossier's combat record does not carry them; Degree III may retain that track intact.
 
@@ -1517,24 +1517,40 @@ After survival comes use: what Extraction can draw from the entity, what a beare
 
 When an agent extracts equipment from a Sorrow Entity in the Extraction Department, Binah's machinery extracts unique armaments that synthesize Lobotomy Corporation E.G.O technology with Somnarak's **Materialized Agony Wear (M.A.W.)**:
 
-#### 1. Unique E.G.O Trait: Composure Load
-Unlike standard E.G.O suits that only have static agent level requirements (e.g., Fortitude III, Prudence II), Sorrow E.G.O imposes **Active Composure Load**:
-- While an agent is wearing a Sorrow E.G.O Suit or wielding a Sorrow Weapon, their maximum SP is reduced by a fixed amount (e.g., -15 SP for WAW, -30 SP for ALEPH).
-- In exchange, the gear grants **Acoustic Shockwaves**: every 4th strike releases a resonant pulse that staggers all hostiles in the corridor.
+#### 1. Bearer-Cost Ledgers and Composure Load
 
-#### 2. Acoustic Meltdown (Corrosion Dynamic)
-If an agent's SP hits 0 while equipped with Sorrow E.G.O:
-- They do not panic in standard fashion (running, screaming, or wandering).
-- Their body crystallizes into blue-and-black Han salt. They transform into an **Acoustic Echo** of the original Sorrow Entity, attacking both employees and abnormalities with identical damage profiles until put down by suppression teams.
+**Composure Load is a ledger label, not a tier tax.** It names only burden that a piece explicitly places on the **SP pool** — a current-pool drain or maximum-pool change, filed with its trigger and form. It is not Composure the Temperance-paired Attribute, and neither Risk, Potency grade, nor material class supplies a default amount.
+
+| Source-piece entry | Output ledger | Filing rule |
+|---|---|---|
+| `Cost: N Sorrow Echoes` | Sorrow Echoes resource ledger | Stays a home resource cost in its filed function. It is neither bearer SP burden nor an exchange rate into PE-Boxes. |
+| Explicit SP-pool drain or maximum-pool change | **Composure Load** | File the amount, form, trigger, and duration per piece. Where no such burden is filed, write `Composure Load: —`. |
+| Narrative bearer toll — memory, aging, pain, compulsion, weight, dreams, lost capacities, or another named price | Named special rule | Carry the effect and its filed conditions verbatim. Do not translate the price into SP merely to give it a number. |
+| Bond, resonance, clearance, or attribute condition | Bearer eligibility | Convert any named requirement first. Eligibility states who may bear the piece; it does not itself subtract SP. |
+| Pulse, shockwave, stagger, recovery, or other active trait | Piece special effect | Carry trigger, target, cadence, and effect only as filed. No universal every-fourth-strike pulse is granted by source, tier, or material class. |
+
+File Composure Load per piece, never as a pooled set trait. A bearer carrying several SP-pool burdens has each line visible in the equipment record; shared source alone does not merge them. The home battle engine's over-clearance SP drain belongs to the AP ledger: Degree III may run it intact, Degree II only where the conversion note names it retained, and Degree I records the eligibility or management caution instead of importing a ticking passive drain.
+
+#### 2. M.A.W. Corrosion Is Not an SP-Zero Event
+
+An emptied SP pool produces the Chapter 7 Panic state. Equipped Sorrow E.G.O does not replace that outcome with salt crystallization, an Echo body, or the source entity's damage profile. **M.A.W. Corrosion** is a separate cumulative failure across the bearer's history with the piece — driven by overuse beyond shifts, misuse against the piece's nature, neglect or Echo starvation, and emotional conflict between bearer and source sorrow:
+
+| Corrosion stage | Filed progression | Conversion filing |
+|---|---|---|
+| **1 — Whispers** | Days: the bearer begins to hear or feel the source entity's preferences and desires | Management warning; rest, distance, and shift rotation |
+| **2 — Bleed** | Weeks: personality shifts toward the source Element and sorrow | Remove the piece and place the bearer under watch where the retained rule is live |
+| **3 — Merge** | Months: voice, impulses, and memories blur across bearer and entity | Intervention-level story condition, never a routine suppression instruction |
+| **4 — Takeover** | Permanent: the entity's personality dominates while the human mind remains aware inside an untransformed body | Lost-bearer endpoint only where staged Corrosion has actually been retained and run |
+
+At Degree I, Corrosion files as a shift-limit and bearer-history warning unless the individual piece files a more specific effect. At Degree II it may be retained as the staged process above; at Degree III the home burden and Corrosion mechanics may run intact. Singular permanently fused pieces remain singular dossier facts, not the generic endpoint of wearing high-tier gear.
 
 ---
-
 
 #### 3. M.A.W. → E.G.O Field Conversion
 
 | M.A.W. piece | E.G.O form | Conversion |
 |---|---|---|
-| M.A.W. Weapon | E.G.O Weapon | Damage type from the entity's Element (Section V); damage numbers, pattern and falloff carry over unchanged; Speed/Range bands become LC attack-speed and range descriptors; Risk Level = source entity's Risk Level (Section III). Bearer costs convert to Composure Load plus any named special rule — a cost written per-piece in the dossier is never pooled into a set-wide one. |
+| M.A.W. Weapon | E.G.O Weapon | Damage type from the entity's Element (Section V); damage numbers, pattern and falloff carry over unchanged; Speed/Range bands become LC attack-speed and range descriptors; Risk Level = source entity's Risk Level (Section III). Bearer costs file by ledger under subsection 1: SP-pool burden as Composure Load, narrative tolls as named special rules, and Sorrow Echoes costs in their home resource ledger — a cost written per-piece in the dossier is never pooled into a set-wide one. |
 | M.A.W. Suit | E.G.O Suit | The four resistance multipliers carry over in LC color order (RED = Grudge, WHITE = Lament, BLACK = Weight, PALE = Void). Suit appearance follows the linked item record, not the entity's body. |
 | M.A.W. Stigma | E.G.O Gift | Slot carries over (Head, Tail→Brooch-equivalent by department fitting practice, Hand/Arm, etc.); the dossier's acquisition probability is recorded as the observed Gift rate; conferred-not-manufactured Stigmas remain Gift-only and cannot be produced with PE-Boxes. |
 
@@ -1589,7 +1605,7 @@ From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use 
 | **Full Name** | **Extermination of Geas / Manifestation of Ego** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
 | **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
 | **Material Taxonomy** | Categorized primarily by Risk Grade (ZAYIN–ALEPH). | Categorized by **Five Material Weight Classes**: Primal Marrow, Tempered Brass, Resonant Alloy, Woven Thread, Void Glass. | Somnarak adds physical material weight and mobility modifiers. |
-| **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Meltdown** — Gear fuses into the nervous system under Composure Load, turning operative into an Echo. | Overuse or sanity collapse results in irreversible entity fusion. |
+| **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Corrosion** — cumulative four-stage personality takeover from overuse, misuse, neglect, or emotional conflict; ordinary Stage 4 dominates the mind without transforming the body. | Acute SP collapse is Panic; Corrosion is slower bearer-history risk, not its synonym. |
 
 ### 11. Tool Entities: Tool Abnormalities vs. Relic-Entities
 
@@ -1653,7 +1669,7 @@ Where a M.A.W. record files a material weight class, the class becomes the E.G.O
 | Woven Thread | Silk, mourner veils, fine weave | PALE-leaning | Mobility trait text; kinetic vulnerability written plainly, never hidden behind the tier |
 | Void Glass | Brittle black-white crystal | PALE percentage traits | Fragility is part of the record: filed shatter or failure conditions travel with the piece |
 
-Bearer meltdown follows Chapter 8's Composure Load law. At Degree I the filed consequence of an emptied SP pool is panic plus any gear-specific corrosion the dossier files; permanent fusion or transformation of the bearer enters only at Degree II as a retained bearer cost, or at Degree III as home mechanics. Intake never upgrades a cost because the higher version sounds more dramatic.
+Bearer failure follows the ledger that actually failed. At Degree I an emptied SP pool is Chapter 7 Panic plus any explicitly filed gear-specific effect; staged M.A.W. Corrosion remains a bearer-history warning unless a partial conversion names it retained. Retained Corrosion still advances through cumulative overuse, misuse, neglect, or conflict — not because SP reached 0 — and Degree III may run the home track intact. Singular permanently fused pieces remain exceptions on their own records; intake never upgrades an ordinary bearer toll into fusion or transformation because the higher version sounds more dramatic.
 
 ### Converted-Tool and Relic Intake Standard
 
@@ -1662,7 +1678,7 @@ A relic or tool SE does not become a workable subject because its tier is low. H
 | Dossier use-shape | LC Tool housing | Counter / limit | Encyclopedia warning flags |
 |---|---|---|---|
 | Single-use or activation relic | Tool record with consumption intact | Threshold-channel use count, figures verbatim | Benefit, alteration, or instant-death flags exactly as filed |
-| Wearable / carried relic | Equippable Tool record | Continuous bearer cost under Composure Load where filed | Bearer alteration flag mandatory where any alteration is filed |
+| Wearable / carried relic | Equippable Tool record | Bearer cost in its filed ledger; Composure Load only for SP-pool burden | Bearer alteration flag mandatory where any alteration is filed |
 | Stationary or channeled relic | Fixed Tool installation in the unit | Session duration, charge, or day limit from the Threshold channel | Overuse and backfire lines unlocked before story, never after |
 
 Use four warning flags in Basic Info wherever the dossier supports them: **Can benefit the facility**, **Can alter the employee**, **Can cause instant death**, **Can precipitate meltdown**. A flag is a promise to the manager; do not file one for atmosphere, and do not omit one for elegance.
@@ -1880,7 +1896,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 |---|---|---|
 | **Abnormality** | **Sorrow Entity (  비탄의 개체   )** | The supernatural phenomena contained within the facility. |
 | **E.G.O (Equipment)** | **M.A.W. Wear (  물질화 고뇌복   )** | Weapons and protective suits extracted from contained entities. |
-| **E.G.O Corrosion** | **M.A.W. Meltdown (  고뇌복 용해   )** | Catastrophic fusion between equipment and operative's nervous system. |
+| **E.G.O Corrosion** | **M.A.W. Corrosion (부식)** | Four-stage bearer takeover by source sorrow — Whispers, Bleed, Merge, Takeover — driven by cumulative overuse, misuse, neglect, or conflict; not an SP-zero transformation. |
 | **Enkephalin** | **Han-Energy (  한 에너지   )** | Refined energy extracted from entities to power the civilization. |
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
 | **Qliphoth Meltdown / Ordeal Cadence** | **Han-Density Threshold & Watch Time (사경)** | The crisis clock, not the same anatomy: PS files one density gauge whose bands open First → Tide Watch Ordeal manifestations (§9.1). A Watch is an Ordeal severity Time, not an all-day weather state laid over contained entities. |
@@ -2108,8 +2124,8 @@ Flerehan→Attachment (Decrease = High), Pugnahan→Repression (Increase = Low),
 | brine                                                                  |
 | 03. TWO-WORK RULE   : Strictly block Attachment & Repression on O/P/T  |
 | 04. SANITY BUFFER : Assign SP recovery kits for Lament/Weight exposure |
-| 05. E.G.O EXTRACTION: Extract Weapon, Suit, Gift with Composure Load   |
-| 06. CORROSION WATCH : Monitor employees for Acoustic Meltdown symptoms |
+| 05. E.G.O EXTRACTION: Extract only filed pieces; ledger bearer costs   |
+| 06. CORROSION WATCH : Monitor filed tolls and Corrosion stages         |
 | 07. DISCIPLINARY    : Prepare Rabbit Protocol for Place-Metamorphosis  |
 | 08. FORM & TELLS  : Whole, shifted or fragment form housed; breach     |
 |     completes at full scale or Well-attenuated 25-50%; never           |
@@ -2159,7 +2175,7 @@ The worked conversions above are the filed examples. These four patterns state h
 | Containment architect | Housing grade, presented form, breach scale | Room-held body and hallway body are both written |
 | Work supervisor | Disciplines, favorability, staffing, attribute plan | First-three-days exposure budget is explicit |
 | Suppression lead | Breach class, movement profile, return condition | Suppression objective matches the taxonomy in Chapter 6 |
-| Extraction officer | E.G.O pieces, bearer costs, production limits | No unfiled triad completion; Composure Load applied |
+| Extraction officer | E.G.O pieces, bearer costs, production limits | No unfiled triad completion; bearer costs ledgered per piece |
 | Archivist | Encyclopedia gates, aliases, quote, redactions | Gates shown; unknowns filed as unknown |
 
 ---
@@ -2275,7 +2291,7 @@ Copy this worksheet into the conversion note. Leave a cell as HOLD rather than b
 | Transformation state lines under the same code |  |  |
 | Suppression objective and return condition |  |  |
 | E.G.O Weapon / Suit / Gift or HOLD per piece |  |  |
-| Requirements, Composure Load, bearer costs |  |  |
+| Requirements, SP-pool Composure Load, and other bearer-cost ledgers |  |  |
 | Tool use-shape, limits, and warning flags |  |  |
 | Encyclopedia gates, quote verbatim, redactions |  |  |
 | Department assignment and sign-off offices |  |  |

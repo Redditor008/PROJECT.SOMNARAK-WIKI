@@ -271,7 +271,7 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 | **Full Name** | **Extermination of Geas / Manifestation of Ego** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
 | **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
 | **Material Taxonomy** | Categorized primarily by Risk Grade (ZAYIN–ALEPH). | Categorized by **Five Material Weight Classes**: Primal Marrow, Tempered Brass, Resonant Alloy, Woven Thread, Void Glass. | Somnarak adds physical material weight and mobility modifiers. |
-| **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Meltdown** — Gear fuses into the nervous system under Composure Load, turning operative into an Echo. | Overuse or sanity collapse results in irreversible entity fusion. |
+| **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Corrosion** — cumulative four-stage personality takeover from overuse, misuse, neglect, or emotional conflict; ordinary Stage 4 dominates the mind without transforming the body. | Acute SP collapse is Panic; Corrosion is slower bearer-history risk, not its synonym. |
 
 ---
 
@@ -418,7 +418,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 |---|---|---|
 | **Abnormality** | **Sorrow Entity (  비탄의 개체   )** | The supernatural phenomena contained within the facility. |
 | **E.G.O (Equipment)** | **M.A.W. Wear (  물질화 고뇌복   )** | Weapons and protective suits extracted from contained entities. |
-| **E.G.O Corrosion** | **M.A.W. Meltdown (  고뇌복 용해   )** | Catastrophic fusion between equipment and operative's nervous system. |
+| **E.G.O Corrosion** | **M.A.W. Corrosion (부식)** | Four-stage bearer takeover by source sorrow — Whispers, Bleed, Merge, Takeover — driven by cumulative overuse, misuse, neglect, or conflict; not an SP-zero transformation. |
 | **Enkephalin** | **Han-Energy (  한 에너지   )** | Refined energy extracted from entities to power the civilization. |
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
 | **Qliphoth Meltdown / Ordeal Cadence** | **Han-Density Threshold & Watch Time (사경)** | The crisis clock, not the same anatomy: PS files one density gauge whose bands open First → Tide Watch Ordeal manifestations (§9.1). A Watch is an Ordeal severity Time, not an all-day weather state laid over contained entities. |
