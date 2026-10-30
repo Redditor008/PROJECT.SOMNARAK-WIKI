@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Echo-Core Backstory Extended pinned WIP (2026-10-31)
+
+- **New reserved archive:** created `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/` with a **📌 PIN WIP** index for later scene-level histories of Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, Ishall, and Xyan. The index plans one extended record per named Echo-Core, modeled only on the *function* of detailed named-character story treatment; it does not copy L Corp plot or characterization.
+- **Activation boundary:** no extended chapters were written and no canonical Echo-Core dossier was moved, replaced, or edited. The parent `Echo_Cores/README.md` now links the pinned folder. Writing begins only on a later owner activation, one character at a time and after a whole-dossier read; the active Conversion Guide repair sequence continues.
+
 ## Founding Catastrophe plane correction (2026-10-31)
 
 - **Owner rule:** the facility-plane **Founding Catastrophe** no longer pairs Carmen's laboratory/Bucket with the city-scale Cheongula. Read through the Director and Secretary Echo-Core biographies, its Somnarak counterpart is **the Solidification / the Original**: Majin and the Original research beneath the Alpha Tree before the formal R.D.; the Han catastrophe transforms the Tree and kills her; her residual sorrow crystallizes and later catalyzes Seiyon, her fuller memory-continuity remains separate in the Memory Archive, and Majin becomes a Sovereign-class manifestation's deathless living containment before the Echo-Cores/R.D. form around him.
