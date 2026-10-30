@@ -386,25 +386,27 @@ Every transported Sorrow Entity receives **one permanent Abnormality designation
 
 **Decision order:** (1) Tale form — a fable/parable structure takes **F** even when its content is painful; (2) Origin event — a discrete traumatic event takes **T**; (3) constructed/instrumental origin takes **O**. Sorrow Category breaks ties: City Sorrow collective events lean **T**, Inner Sorrow personal parables lean **F**, Outside Sorrow frontier/industrial events lean **T** unless the entity is a made instrument. The intake record must quote the three fields it read; a letter assigned without the Tale read is invalid.
 
-#### 2. Middle segment `YY` — Class Number (read: Entity Type / Tool Type + Physical Form + Appearance)
+#### 2. Middle segment `YY` — Class Number (read: Entity Type / Tool Type + Physical Form + Appearance; Use Mode only at the item-body gate)
 
 | Class | Body read | Notes |
 |---|---|---|
 | `01` | **Humanoid** current body | The *current* body decides. A human origin, name or memorial never certifies `01` by itself. |
 | `02` | **Animal / beast** current body | Includes beast-shaped Subjects of human origin. |
 | `03` | **Otherworldly / abstract** | Phenomenon, presence, voice, shadow, pressure or dream-forms with a nameable mode but no anatomy. |
-| `04` | **Machine / mechanism** body | Operated or self-running constructs whose body is a mechanism. |
+| `04` | **Machine / mechanism** body | Self-running or autonomous mechanism body. A mechanism operated in hand or at a station as the original Tool takes `09` under the decision order. |
 | `05` | **Insect** current body | — |
 | `06` | **Unidentified / amorphic** | Shape unstable, undocumented, or deliberately withheld by the record. |
-| `07` | **Place / structure** body | *PS transport extension.* District, room, wall, ruin-outline and other site-bodies; containment is architectural. |
-| `08` | **Object** body (not operated) | *PS transport extension.* Item-bodied entities that are kept, not used. |
-| `09` | **Tool** | Operated devices and relics (I/O/A-Relic in active use); follows Tool Abnormality handling. L Corp filing habitually writes `T-09-…`; the letter here still follows §II.1. |
+| `07` | **Place / structure** body | *PS transport extension.* District, room, wall, ruin-outline and other bodies whose whole filed form is a site; containment is architectural. A bounded device installed at a station is not a site body merely because it is fixed. |
+| `08` | **Object** body (no operator session) | *PS transport extension.* A bounded item body with no filed operator session. Passive, proximity, or automatic effects do not by themselves make it a Tool output. |
+| `09` | **Operated device / relic** | A bounded device or relic operated in hand or at a station. Class `09` files that body relation only; Single Use, Channeled Use, or Equippable is settled from the operation fields in Chapter 8. The `09` segment never sets `X`, which still follows §II.1. |
 
-**Decision order:** (a) a Place/site body, or a relic operated only as a site from a perimeter, takes `07`; (b) a Tool Type operated in hand or at a station takes `09`; (c) an unoperated item body takes `08`; (d) anatomical forms take `01`/`02`/`05` by the **current** body as written in Physical Form and Appearance; (e) mechanism bodies take `04`; (f) phenomenon forms take `03`, or `06` where the record itself withholds the shape. Where Entity Type and Physical Form disagree, Physical Form governs the class and the disagreement is entered as a management note — containment is built around the body that is actually in the unit.
+**Decision order:** (a) a body whose whole filed form is a Place/site takes `07`, including a site-bodied relic worked from its perimeter; (b) a bounded device or relic body operated in hand or at a station takes `09`; (c) a bounded, non-autonomous item body with no filed operator session takes `08`; (d) anatomical forms take `01`/`02`/`05` by the **current** body as written in Physical Form and Appearance; (e) a self-running or autonomous mechanism body not operated as the original Tool takes `04`; (f) phenomenon forms take `03`, or `06` where the record itself withholds the shape. Where Entity Type and Physical Form disagree, Physical Form and Appearance govern `YY` and the disagreement is entered as a management note — containment is built around the body that is actually in the unit.
+
+**Body/operation split:** Use Mode is read at this gate only to distinguish a site body, an unoperated bounded item, a hand/station device, and a self-running mechanism. It does not settle the LC Tool subtype. Where the operation profile gives the original a body relation that Physical Form and Appearance contradict — bearer-borne use for a fixed site, for example — `YY` follows the coherent dossiered body and the Tool subtype remains **HOLD** in Chapter 8. Where Physical Form and Appearance themselves file incompatible housed bodies with no filed state or transition joining them, `YY` itself is **HOLD**; intake does not choose the portable version to fit a Tool profile.
 
 #### 3. Final segment `0###` — Serial (the SE's own number)
 
-The serial is the Sorrow Entity's **own SECC numerical designation with one extra zero in front**: `SE-C-IIIγ-031` → `…-0031`; `C-IIβ-565` → `…-0565`. SECC numbers repeat across origin prefixes and ranks, so collisions inside one `X-YY` are resolved by intake order (first dredged keeps the serial; later arrivals receive the next free serial in the same class, with the SECC alias making the lineage explicit). Serials are never recycled after an entity is returned, destroyed or reclassified.
+The ordinary serial is the Sorrow Entity's **own SECC numerical designation with one extra zero in front**: `SE-C-IIIγ-031` → `…-0031`; `C-IIβ-565` → `…-0565`. SECC numbers repeat across origin prefixes and ranks, so collisions inside one `X-YY` are resolved by intake order (first dredged keeps the serial; later arrivals receive the next free serial in the same class, with the SECC alias making the lineage explicit). The worksheet files both the source SECC suffix and any collision-assigned serial; the assigned `0###` value is then permanent. Serials are never recycled after an entity is returned, destroyed or reclassified.
 
 #### 4. States, transformations and aliases
 
@@ -414,23 +416,25 @@ Breach and transformation states do **not** mint new codes. A Place→Subject ev
 
 ### I. Core Classification Mapping
 
-| Somnarak Field | L Corp Equivalent | Conversion Notes |
+| Somnarak Field | LC output / filing role | Conversion Notes |
 |---|---|---|
-| **SECC Designation** (`C-IVδ-001 [GS]`) | **Subject Number** (`O-06-20`) | Different format. Origin letter maps loosely (see Origin below). Number stays the same. |
-| **Origin: C (City)** | **O (Original)** or general | City-born abnormalities; catch-all category |
-| **Origin: N (Inner)** | **T (Trauma)** | Personal trauma, phobias, intense emotions |
-| **Origin: O (Outside)** | **O (Original)** or **M (Mythical)** | Otherworldly, external, unknown cause |
+| **SECC Designation** (`C-IVδ-001 [GS]`) | **Transport Subject Number** (`X-YY-0###`) | Derived under Section II and issued with Risk; the SECC string remains the Basic Info alias. `X` is the three-field read, `YY` the body/item gate, and the serial is ordinarily `0` + the SECC suffix subject to the §II.3 collision rule. |
+| **Origin: C (City)** | **Letter input — F / T / O by §II.1** | City Sorrow is evidence, not a transliteration: a discrete collective wound leans **T**, while Tale form and the Origin event decide the letter. |
+| **Origin: N (Inner)** | **Letter input — F / T / O by §II.1** | A personal parable leans **F** and a discrete personal wound **T**; Inner Sorrow does not copy forward as Trauma by label alone. |
+| **Origin: O (Outside)** | **Letter input — F / T / O by §II.1** | A frontier or industrial wound leans **T** unless the entity is a made instrument under the §II.1 decision order. Outside `O` is not the output letter Original by resemblance. |
 | **Coherence (I–V)** | — | Used WITH Potency to calculate Risk Level (Chapter 4) |
 | **Potency (α–ω)** | — | Used WITH Coherence to calculate Risk Level (Chapter 4) |
-| **Sorrow Category** | **Classification Code origin letter** | City→O, Inner→T, Outside→O/M (see above) |
+| **Sorrow Category** | **Input and tie-break for `X`** | Read with Origin and Tale under §II.1; C/N/O are never copied into an output letter by initial resemblance. |
 | **Element: Lament (Deep Blue)** | **WHITE Damage** | Attacks Mind / Sanity / emotional stability |
 | **Element: Grudge (Crimson)** | **RED Damage** | Attacks Body / HP / physical form |
 | **Element: Void (White/Pale)** | **PALE Damage** | Attacks Soul / percentage-based / identity erasure |
 | **Element: Weight (Black)** | **BLACK Damage** | Attacks both HP and Sanity (mixed) |
 | **Element: Mixed** | **Multiple Damage Types** | Cycles all four pressure types in fixed order (codex cycle: 2 s per type, 8 s total) |
-| **Manifestation: Subject** | **Humanoid / Creature** | Can breach, move, act independently |
-| **Manifestation: Object** | **Inanimate / Tool-type (code 04/09)** | Fixed, can breach via Transform; may activate |
-| **Manifestation: Place** | **Location-type** | The location itself is the abnormality |
+| **Manifestation: Subject** | **Transport class by current body** | Humanoid `01`, animal/beast `02`, insect `05`; a Subject-spirit, dream, or other nameable phenomenon body takes `03`, or `06` where the shape is withheld. Movement and event behavior follow the filed body and event sections; Subject alone proves neither roaming nor independent locomotion. |
+| **Manifestation: Object** | **Transport class by body and operation gate** | Self-running mechanism `04`; whole site body `07`; bounded item with no operator session `08`; bounded device/relic operated in hand or at a station `09`. Chapter 8 then settles Single Use, Channeled Use, Equippable, or **HOLD**. The filed event heading governs activation, expansion, or containment event; Object does not impose Transform. |
+| **Manifestation: Place** | **Transport class `07` where the whole body is a site** | The location itself is the body. Perimeter work or a Tool profile is filed on the operation axis and does not turn the site into bearer-borne gear. |
+| **Manifestation: Time** | **Transport class by presented body** | A nameable temporal phenomenon takes `03`; an unstable or withheld form takes `06`. A bounded temporal device follows the item-body gate (`04`/`08`/`09`) instead of the word Time. |
+| **Manifestation: Hybrid** | **Transport class by the true housed body** | Read Physical Form and Appearance for the body the unit must house, then file work and event behavior component by component. `[H]` alone assigns neither `YY` nor a Tool subtype. |
 | **R.D. Comprehension Level (0–4)** | **Observation Level (I–IV)** | Gate-analogue only, not 1:1 mechanics. Comprehension advances on Comprehension Points earned by Work (5 / 25 / 75 / 175 CP): Level 0 Unknown reads as LC locked, Level 4 Mastered as full unlock (Section IX). |
 
 ### X. SECC Code System (3 × 5 × 5 × 5 × 5)
@@ -458,34 +462,34 @@ Example: SE-C-IVδ-001 [GS]
 | **O (Outside)** | 외한 (Oehan) | Wilderness, Desolate, external forces |
 | **N (Inner)** | 내한 (Naehan) | Personal grief, individual trauma |
 
-### XVII. L Corp Shape / Form Codes
+### XVII. Transport Class Crosswalk
 
-L Corp's second number in the Subject Number (`Letter-XX-YY`) represents the Abnormality's shape/form. Somnarak's Manifestation code maps to these:
+The `YY` segment of a transported record is assigned by Section II.2. It reads the housed body and, only at the item-body gate, whether that body is a site, an unoperated bounded item, a hand/station device, or a self-running mechanism. It is not copied from the SECC Manifestation letter and it is not the LC Tool subtype. Native Subject Numbers quoted elsewhere in this manual keep their native middle segment; no native code is re-read through this crosswalk.
 
-| L Corp Code | L Corp Shape | Somnarak Manifestation | Notes |
+| Transport `YY` | Assign when the filed body is | Manifestation evidence | Operation boundary |
 |---|---|---|---|
-| **01** | Humanoid | **Subject** (Subject-Body, Subject-Mind) | Human-like body or appendages |
-| **02** | Animalistic | **Subject** (creature/animal forms) | Non-human living entities |
-| **03** | Otherworldly / Religious | **Subject** (Subject-Spirit, Subject-Dream) or **Hybrid** | Alien, divine, incomprehensible |
-| **04** | Inanimate Object | **Object** (Object-*) | Stationary object entities |
-| **05** | Machine / Artifact | **Object** (mechanical) or **Time** | Autonomous mechanical entities |
-| **06** | Abstract / Phenomenon | **Place** or **Hybrid** | Intangible, perception-dependent |
-| **07** | Breaching Tool | **Object** (Tool-type, code 07) | Conditionally a Tool that can breach (e.g., Yang) |
-| **08** | Sin (Peccatula) | *(no Somnarak equivalent)* | L Corp-specific (Limbus Company) |
-| **09** | Tool-type | **Object** (Tool-type) | Can breach via Transform; interacted with for benefit |
-| **00** | Unknown / Training | **Subject** (training entity) | Special: The Kind Echo = Standard Training-Dummy Rabbit |
+| `01` | Humanoid current body | Subject, or a Hybrid component with humanoid anatomy | A held or carried object is a separate item; it does not reclassify the body |
+| `02` | Animal / beast current body | Subject, or a Hybrid component with beast anatomy | Agency, movement, and reach come from the filed event record, not the animal label |
+| `03` | Nameable phenomenon, presence, voice, shadow, pressure, dream, or temporal form without anatomy | Subject-Spirit/Dream, Time, or a Hybrid phenomenon component | An activation may be filed, but a phenomenon label does not create a device body or Tool subtype |
+| `04` | Self-running or autonomous mechanism body | Object, Time, or Hybrid mechanism component | If the mechanism is operated in hand or at a station as the original Tool, the decision order gives `09`; an autonomous mechanism remains `04` |
+| `05` | Insect current body | Subject, or a Hybrid component with insect anatomy | An attached or carried item is filed separately from the insect body |
+| `06` | Shape unstable, amorphic, undocumented, or deliberately withheld | Any manifestation where the record itself withholds the body | An unknown body supplies neither a station nor a Tool subtype; incompatible concrete bodies are a `YY` **HOLD**, not an automatic `06` |
+| `07` | Whole Place/site/structure body | Place, Object/Place, or Hybrid where the whole housed body is the site | Perimeter operation is filed separately. A site passes the Chapter 8 Carriage test only where a distinct portable original or filed portable state exists |
+| `08` | Bounded item body with no filed operator session | Object, or a Hybrid item component | Passive, proximity, or automatic effects remain activation/event or management facts; the Tool subtype is **HOLD** |
+| `09` | Bounded device or relic body operated in hand or at a station | Object or mechanism body with a filed hand/station operation | Class only. Chapter 8's Completion, Maintenance, and Carriage tests settle Single Use, Channeled Use, Equippable, or **HOLD** |
+
+A fixed mounting does not decide between `07` and `09`: ask what the whole body is. A district, room, wall, ruin outline, bridge span, or other structure that personnel enter, cross, or work from a perimeter is a site body (`07`). A bounded mirror, bell, wedge, frame, or other device worked at its plinth or bay is a station/hand body (`09`) when an operator session is filed, however firmly it is mounted. If no operator session is filed for that bounded device, it takes `08`; if it runs itself as a mechanism rather than being operated as the original Tool, it takes `04`.
 
 ### I. Classification Code Structure
 
-|Component|SOMNARAK (SECC)|Lobotomy Corporation|Mapping|
+| Component | SECC input | Transport output | Assignment rule |
 |---|---|---|---|
-|**Format**|`[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]`|`[Letter]-[Number]-[Number]`|Different structures|
-|**Origin**|C (City), N (Inner), O (Outside)|F (Fairy Tale), T (Trauma), O (Original), D (Donation), M (Mythical)|C→O, N→T, O→O/M|
-|**Coherence**|I-V (Residue to Sovereign)|N/A|Used with Potency for Risk Level|
-|**Potency**|α-ω (Minor to Catastrophic)|N/A|Used with Coherence for Risk Level|
-|**Shape/Form**|Manifestation type (Subject, Object, Place, Time, Hybrid)|01-09 (Humanoid, Animalistic, Otherworldly, Object, Machine, Abstract, Breaching Tool, Sin, Tool)|Subject→01/02, Object→04/05, Place→03/06|
-|**Unique Number**|Sequential|Sequential|Same concept|
-|**Element**|Lament, Grudge, Void, Weight, Mixed|N/A (mapped to damage types)|Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK|
+| **Format** | `[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]` | `X-YY-0###`, issued with Risk Level | The SECC designation remains the Basic Info alias; the Subject Number is derived, never transliterated from the SECC string |
+| **Category letter** | Sorrow Category `C`/`N`/`O`, read with Origin and Tale | `F` Fairy Tale · `T` Trauma · `O` Original (`D` reserved) | Section II.1 three-field decision order; no C→O, N→T, or O→O/M copy |
+| **Threat axes** | Coherence `I–V` + Potency `α–ω` | No segment inside `X-YY-0###` | The two ranks sum to Threat Score and set Risk Level in Chapter 4 |
+| **Body / item class** | Entity/Tool Type, Physical Form, and Appearance; Use Mode only at the item-body gate | `YY` = `01`–`09` under Section II.2 | The current housed body governs. The SECC Manifestation letter is evidence, not a class copy; the LC Tool subtype is settled separately in Chapter 8 |
+| **Serial** | SECC numeric suffix | `0###` | Ordinarily `0` + the SECC suffix. On a collision inside the same `X-YY`, §II.3 assigns the next free serial and both the source suffix and assigned serial are filed; serials are never recycled or renumbered |
+| **Element / Manifestation alias** | `L`/`G`/`V`/`W`/`M` and `S`/`O`/`P`/`T`/`H` | No additional Subject Number segment | Element converts to damage color in Chapter 4. Manifestation remains home classification and work-component evidence; it does not assign `YY` by itself |
 
 ### 5. Entity Classification & Threat Tiers
 
@@ -718,7 +722,7 @@ An SE carries **Gauge-only, Threshold-only, both, or neither** — exactly as na
 - **Direction discipline.** Whatever the channel, the LC read is distance-to-zero and the PS read is pressure or condition-progress; every numeral is re-derived per channel from the dossier's own step sizes, never transcribed. A Gauge at 40% is not a Counter at anything until those steps are read.
 - **Reset.** Termination/return behavior resets **each channel by its own rule**: the Gauge returns to filed baseline; threshold counts reset only where the dossier files them resettable. A permanent count (learned faces) never resets in either archive. Suppression alone resets neither channel mid-event.
 - **Meltdowns.** Converted units enter the facility meltdown rotation like natives; the Heavy Han Density of Section I.3 raises the *global* meltdown rate, priced as a facility cost of housing SEs at all. A meltdown on an inanimate SE does **not** lift the Two-Work-Type Law, and on a Threshold-only unit it is answered by standing watch over its conditions, not by pressure work. Completed meltdown work discharges the meltdown; it moves a channel only where the dossier's own rules say so.
-- **Tool use counters are Threshold-channel mechanisms**: charge counts, charge-up timers (the Train's four lights are the native shape), per-day uses, and single-use consumption (Section X.5) convert one for one with figures verbatim. Read-only dossier **tallies** — counts of things that have already happened, such as the learned-face count of 61 — are Basic-Info statistics and Threshold *evidence*; Extraction does not turn a memorial into a meter.
+- **Tool use counters are Threshold-channel mechanisms**: charge counts, charge-up timers (the Train's four lights are the native shape), per-day uses, and single-use consumption (Chapter 8, Tool Use Shapes and Relic Classes) convert one for one with figures verbatim. Read-only dossier **tallies** — counts of things that have already happened, such as the learned-face count of 61 — are Basic-Info statistics and Threshold *evidence*; Extraction does not turn a memorial into a meter.
 - **Degree read.** Degree I: every filed channel live as derived here. Degree II: channels live only as the dossier files them, under LC names. Degree III: both mechanisms remain Somnarak-side (Preface table).
 
 ### Master Statistical Intake Matrix
@@ -727,7 +731,7 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 
 | LC record field | Dossier input | Operation | Filing rule |
 |---|---|---|---|
-| Subject Number | Sorrow Category + Origin + Tale; Entity/Tool Type + form + appearance; SECC number | Chapter 3 three-field read | Assigned once; aliases never renumber it |
+| Subject Number | Sorrow Category + Origin + Tale; Entity/Tool Type + Physical Form + Appearance, with Use Mode at the item-body gate; SECC number and any same-`X-YY` collision | Chapter 3 letter, body/item, and serial reads | Assigned once with Risk; aliases never renumber it. The serial is ordinarily `0` + the SECC number, or the §II.3 next-free collision serial with both values filed |
 | Risk Level | Coherence rank + Potency rank | Threat Score → tier band | Score decides; diagonal expectation is only a check |
 | HP | Sorrow Gauge [HP] | `ceil(Gauge × tier HP multiplier)` | Base checked against its dossier tier band; flag outside with the arithmetic shown, never rescale silently |
 | Work damage | Han Pressure [ATK] + Element | `ceil(Pressure × filed ATK multiplier)`; Element → color | One multiplier inside the tier range is chosen and filed at intake |
@@ -1525,9 +1529,21 @@ Tool conversion reads **two axes separately**. The source A/O/I letter is the Re
 |---|---|---|---|---|
 | **A-Relic (Arcanum)** | **Single-use / consumable discharge:** one filed trigger completes the interaction, even where the resulting effect lasts longer | **Single Use Tool** | Number-of-Uses unlock axis; charges, use count, consumption, and residue remain in the Threshold channel exactly as filed. An irrevocably consumed relic has one scheduled discharge, never an invented repeat-use routine. | Mirror of Adjustment (O-09-81) |
 | **O-Relic (Offertorium; filed alias Officium)** | **Channeled / sustained use:** the operator maintains touch, gaze, invocation, contact, or another filed channel for a session | **Channeled Use Tool** | Time-of-Use unlock axis; filed duration, deliberate closure, relief rule, and abandonment consequence. A generic cancel order does not replace the dossier's closure condition. | Theresia (T-09-09) |
-| **I-Relic (Indumentum)** | **Equippable / mounting use:** the original is worn, held, or mounted as bearer-borne gear and its effect travels with the bearer | **Equippable Tool** | Interaction amount while equipped; bearer costs by their filed ledgers and the exact removal/return condition. Native end-of-day or bearer-death return does not override a stricter filed detachment rule. | Luminous Bracelet (O-09-95) |
+| **I-Relic (Indumentum)** | **Equippable / mounting use:** the original is worn, mounted, or continuously carried in hand as bearer-borne gear and its effect travels with the bearer | **Equippable Tool** | Interaction amount while equipped; bearer costs by their filed ledgers and the exact removal/return condition. Native end-of-day or bearer-death return does not override a stricter filed detachment rule. | Luminous Bracelet (O-09-95) |
 
-Where the operation fields coherently describe a different LC shape from the letter, **the operation sets the subtype and the letter remains visible as source provenance with the split flagged**. Where those fields contradict one another, or the record files proximity, absence, perimeter observation, or another mode with no operator session, the Tool subtype is **HOLD**. Body housing still follows Section II.2 — site body `07`, unoperated object `08`, operated hand/station body `09` — because body class and use-shape are different axes. “Stationary” and “fixed” are body or mounting facts, never LC subtypes: a fixed station can support a filed Single Use or Channeled Use operation, but it cannot support Equippable unless the original itself is actually taken up. The filed alias **Officium** does not create a fourth class; transcribe the dossier's name and convert by the O-Relic operation.
+#### Operation tests
+
+Read the operation by what the operator must do, not by the A/O/I label or by bespoke Use Mode wording. Apply the three tests to **Activation, Duration, Termination / Return, and Log and Method together**:
+
+| Test | Passes when | LC subtype |
+|---|---|---|
+| **Completion** | One filed trigger completes the Use interaction; the operator need not maintain contact or attended presence for the effect to run | **Single Use** |
+| **Maintenance** | The session continues only while the operator or filed exposed person maintains a filed Use act or channel at the original or its station — touch, grip, directed gaze, invocation, contact reading, or attended exposure. Mere presence inside an effect radius does not pass | **Channeled Use** |
+| **Carriage** | The original itself is taken up and travels with the bearer — worn, mounted, or continuously carried in hand — while its effect and bearer costs attach to that bearer | **Equippable** |
+
+Where exactly one test passes coherently, that test sets the subtype even when it differs from the A/O/I letter; the letter remains visible as source provenance with the split flagged. A test can settle the subtype while a separate closure, relief, limit, or return field remains **HOLD**; passing a test never supplies that missing field. Touching or gripping a fixed original at its station passes Completion or Maintenance by the session structure, not Carriage. A merely held trigger that completes the interaction and is set down is Single Use, not Equippable. Proximity, absence, automatic activation, or perimeter observation with no discrete Use trigger or maintained session passes none of the tests: the Tool subtype is **HOLD**. Where two incompatible tests or body relations are filed for the same state — a fixed site in Physical Form and Appearance but a picked-up, carried original in Log and Method, for example — the subtype is **HOLD** and no portable state is invented. Separate filed states or scopes are tested and filed separately.
+
+Body housing still follows Section II.2 independently — site body `07`, bounded item with no operator session `08`, operated hand/station body `09`, and self-running mechanism `04` — because body class and use-shape are different axes. “Stationary” and “fixed” are body or mounting facts, never LC subtypes: a fixed station can support a filed Single Use or Channeled Use operation, but it cannot support Equippable unless the original itself is actually taken up. The filed alias **Officium** does not create a fourth class; transcribe the dossier's name and convert by the O-Relic operation.
 
 ### 10. Equipment Extraction: E.G.O vs. M.A.W. Wear
 
@@ -1543,7 +1559,7 @@ Where the operation fields coherently describe a different LC shape from the let
 
 | Feature | Lobotomy Corporation Tool Abnormalities | Project Somnarak Relic-Entities |
 |---|---|---|
-| **Sub-Types** | Single Use, Channeled Use, Equippable. | **A-Relics (Arcanum)** — single-use discharge; **O-Relics (Offertorium / filed alias Officium)** — channeled or sustained session; **I-Relics (Indumentum)** — equippable or mounting use. The letter is the home class; conversion tests the filed operation before assigning the LC shape. |
+| **Sub-Types** | Single Use, Channeled Use, Equippable. | **A-Relics (Arcanum)** — single-use discharge; **O-Relics (Offertorium / filed alias Officium)** — channeled or sustained session; **I-Relics (Indumentum)** — equippable or mounting use. The letter is the home class; conversion applies **Completion → Single Use**, **Maintenance → Channeled Use**, and **Carriage → Equippable** to the filed operation. Proximity, absence, no operator session, or incompatible tests/body relations remain **HOLD**. |
 | **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Dossier-specific warning banners — facility benefit, operative or sector alteration, Resilience extraction, channel overload, irrevocable consumption, and other record-specific warnings — transcribed per relic; conversion adds a meltdown-precipitant flag only where the dossier supports it. |
 | **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan strictly N/A. |
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
@@ -1581,14 +1597,14 @@ Home mass ledgers are **context-bound, not interchangeable**. The M.A.W.-W engin
 
 ### Converted-Tool and Relic Intake Standard
 
-A relic or tool SE does not become a workable subject because its tier is low. House it by use-shape:
+A relic or tool SE does not become a workable subject because its tier is low. File the Tool record by the operation test that passes; file body housing separately under Section II.2:
 
-| Dossier use-shape | LC Tool housing | Counter / limit | Encyclopedia warning flags |
+| Dossier operation test | LC Tool record | Counter / limit | Encyclopedia warning flags |
 |---|---|---|---|
-| Discrete activation / discharge (A-Relic operation) | Single Use Tool record | Threshold-channel charges or use count, consumption, and residue verbatim | Benefit, alteration, or instant-death flags exactly as filed |
-| Sustained operator session (O-Relic operation) | Channeled Use Tool record | Filed session duration, closure, relief rule, and abandonment consequence | Overuse and backfire lines unlocked before story, never after |
-| Bearer-borne original (I-Relic operation) | Equippable Tool record | Bearer cost in its filed ledger; Composure Load only for SP-pool burden; removal/return verbatim | Bearer alteration flag mandatory where any alteration is filed |
-| Class/operation conflict, or no operator session | Tool subtype **HOLD**; body housing by Section II.2 | Filed limits remain in the Threshold channel; no use count, duration, or return route is invented | Warning flags exactly as filed, with the conflict visible in Basic Info |
+| **Completion test passes** — discrete activation / discharge | Single Use Tool record | Threshold-channel charges or use count, consumption, and residue verbatim | Benefit, alteration, or instant-death flags exactly as filed |
+| **Maintenance test passes** — sustained operator session | Channeled Use Tool record | Filed session duration, closure, relief rule, and abandonment consequence | Overuse and backfire lines unlocked before story, never after |
+| **Carriage test passes** — original travels with the bearer | Equippable Tool record | Bearer cost in its filed ledger; Composure Load only for SP-pool burden; removal/return verbatim | Bearer alteration flag mandatory where any alteration is filed |
+| No test passes, or incompatible tests/body relations | Tool subtype **HOLD**; body housing by Section II.2 | Filed limits remain in the Threshold channel; no use count, duration, or return route is invented | Warning flags exactly as filed, with the conflict visible in Basic Info |
 
 Use four warning flags in Basic Info wherever the dossier supports them: **Can benefit the facility**, **Can alter the employee**, **Can cause instant death**, **Can precipitate meltdown**. A flag is a promise to the manager; do not file one for atmosphere, and do not omit one for elegance.
 
@@ -1911,7 +1927,7 @@ Convert in this order. A later step may not supply a missing input to an earlier
 | Order | Operation | Filed output | Stop rule |
 |---|---|---|---|
 | 1 | **Read the whole dossier and declare the frame** (Chapters 1–2) | Source map in the dossier's filed order; Ingress route, Degree, retained traits, and every unresolved source conflict | Do not convert from a summary, quick map, or first matching field. Competing source accounts remain parallel **HOLD**s |
-| 2 | **Name and house the body** (Chapter 3; form law in Chapter 1) | SECC and Korean-name aliases; three-field letter read from Sorrow Category, Origin, and Tale; body-class read from Entity/Tool Type, Physical Form, and Appearance; serial read as `0` + SECC number; housing grade, Containment Form, Breach Form, and scale band | The designation is issued only with the Risk Level in Step 3. An undrawn or withheld body portion stays **HOLD**; presented size never completes or shrinks the filed body |
+| 2 | **Name and house the body** (Chapter 3; form law in Chapter 1) | SECC and Korean-name aliases; three-field letter read from Sorrow Category, Origin, and Tale; body-class read from Entity/Tool Type, Physical Form, and Appearance, with Use Mode only at the item-body gate; serial ordinarily read as `0` + SECC number, or the §II.3 next-free collision serial with both values filed; housing grade, Containment Form, Breach Form, and scale band | The designation is issued only with the Risk Level in Step 3. An undrawn or withheld body portion, or incompatible housed-body read, stays **HOLD**; presented size never completes or shrinks the filed body |
 | 3 | **Derive danger and energy** (Chapters 4 and 7) | Threat Score and Risk Level; LC HP by `ceil(Sorrow Gauge base × tier multiplier)`; Work Damage by one filed ATK multiplier; Element color and only dossier-filed riders; resistances; separate breach damage where filed; physical PE count by tier band and PE-equivalent quota value under the 88/12 density split | Show the base, multiplier or factor, and result once. Out-of-band inputs are flagged, never silently rescaled. No finished damage line stands without one filed ATK multiplier; if no density factor `d` is chosen, file the quota band rather than inventing a point value |
 | 4 | **File work, people, and counter channels** (Chapters 5–6) | For a regular output, LC work names, favorability and outcome ranges, prohibited works, backfire, staffing and first-three-days exposure plan; Qliphoth Counter derivation with triggers, reset, return, and permanent tallies kept distinct | Favorability comes only from Behavior lines. Gauge and Threshold remain separate channels; an absent channel stays absent, and a permanent tally is never dressed as a counter |
 | 5 | **File the event and suppression record** (Chapters 6–7) | The dossier's filed event-behavior heading; breach class and state lines; movement, range, Combat Actions, Battle Phases, and Consequences as Ability, Management Tips, and Escape Information; suppression objective and return condition | Keep Work Damage and breach damage in separate ledgers. An escaping body, activation, expansion, and containment event are not interchangeable operations |
@@ -2016,7 +2032,7 @@ Run this checklist after the eight Conversion Order operations and before the Fi
 | # | Verification gate | Passes when | Stop / **HOLD** when |
 |---|---|---|---|
 | 00 | **Frame and source map** | The whole dossier has been read in its filed order; Ingress, Degree, retained traits, aliases, redactions, and unresolved source conflicts are named | The record was built from a summary, quick map, first matching field, or native analogue; competing accounts were silently averaged |
-| 01 | **Designation and housing** | `X` is read from Sorrow Category, Origin, and Tale; `YY` from Entity/Tool Type, Physical Form, and Appearance; the serial is `0` + the SECC number and is never renumbered. Housing grade, Containment Form, Breach Form, original scale, and scale band are declared. Well-attenuated **25–50%** is filed only for the Well-mediated read declared in Chapter 1; full scale is filed for a transported, anchored, or bypassed body; a Fragment completes only into the dossiered body | The code was copied from a legacy map or issued before Risk; presented size completes or shrinks the filed body; the complete Breach Form is undrawn or unattested |
+| 01 | **Designation and housing** | `X` is read from Sorrow Category, Origin, and Tale; `YY` from Entity/Tool Type, Physical Form, and Appearance, with Use Mode only at the item-body gate; the serial is ordinarily `0` + the SECC number, or the §II.3 next-free collision serial with the source suffix and assigned serial both filed, and is never renumbered. Housing grade, Containment Form, Breach Form, original scale, and scale band are declared. Well-attenuated **25–50%** is filed only for the Well-mediated read declared in Chapter 1; full scale is filed for a transported, anchored, or bypassed body; a Fragment completes only into the dossiered body | The code was copied from a legacy map or issued before Risk; incompatible concrete bodies were averaged into a portable or station form; presented size completes or shrinks the filed body; the complete Breach Form is undrawn or unattested |
 | 02 | **Risk and arithmetic** | **Threat Score = Coherence rank + Potency rank** gives 2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH. HP recomputes as `ceil(Gauge base × tier multiplier)`; Work Damage uses one filed ATK multiplier; Element color and riders, resistances, and separate breach damage remain separate ledgers. Derived integer outputs round up, while filed multipliers, factors, percentages, and resistance coefficients may remain decimal | Risk came from the I/α–V/ω diagonal alone, HP, story menace, or an analogue; no ATK multiplier was filed; an out-of-band base was silently rescaled; Work Damage and breach damage were averaged |
 | 03 | **Energy and chamber handling** | Physical PE-Boxes come from the Risk tier band and Behavior outcome range; Han Yield/H-Boxes stay worksheet inputs. Quota value is `ceil(N × (0.88 + 0.12d))`, with one filed `d` in ×2.0–×2.5 or the unfixed-factor envelope shown. Han-brine sanitation is filed only where the declared frame or retained home handling carries it | Han Yield was exchanged 1:1 for physical PE; density was applied to the box count; “filter the brine” was used as a substitute PE formula |
 | 04 | **Work discipline** | Favorability, outcome range, counter consequence, and backfire come from Behavior lines. Subject components use the filed disciplines; every inanimate `[O]`/`[P]`/`[T]` component is locked to Instinct and Insight, and `[H]` is read component by component. A meltdown mark does not lift the Two-Work-Type Law. A Tool output is verified by Ability, Log and Method, and use-shape rather than Work Preferences | Favorability came from temperament prose; Attachment or Repression was ordered or “tested” on an inanimate component; prohibited-work backfire was used as a counter mechanic |
@@ -2034,7 +2050,7 @@ Run this check after the Facility Verification Checklist and before sign-off. Wa
 | Output field | Lawful source or derivation | Reject / **HOLD** when |
 |---|---|---|
 | Frame and source map | The whole dossier read in filed order, with Ingress, Degree, retained traits, aliases, redactions, and unresolved source conflicts declared | The record traces to a summary, quick map, first matching field, or native analogue; competing accounts were silently averaged; the frame was retrofitted to justify an output |
-| Subject Number | `X` from Sorrow Category, Origin, and Tale; `YY` from Entity/Tool Type, Physical Form, and Appearance of the true body; serial as `0` + the SECC number. The designation is issued with Risk | The code was transliterated from a quick map, copied from an analogue, or renumbered; a Tool label or housed fragment overrode the true-body read; the designation was issued before Risk settled |
+| Subject Number | `X` from Sorrow Category, Origin, and Tale; `YY` from Entity/Tool Type, Physical Form, and Appearance of the true body, with Use Mode only at the item-body gate; serial ordinarily as `0` + the SECC number, or the §II.3 next-free collision serial with both values filed. The designation is issued with Risk | The code was transliterated from a quick map, copied from an analogue, or renumbered; a Tool label or housed fragment overrode the true-body read; an incompatible body relation was chosen to fit a Tool profile; a same-`X-YY` serial collision was hidden by copying the suffix; the designation was issued before Risk settled |
 | Housing and scale | The dossiered body under Chapter 1 housing law: housing grade, Containment Form, Breach Form, original measured scale, and declared band—25–50% only for the filed Well-mediated read, 100% for a transported, anchored, or bypassed body. A Fragment completes only into the dossiered body | Presented size shrank stats or reach; the completed body is undrawn or unattested; the scale band changed silently between scenes |
 | Risk Level | Numeric Coherence + Potency → 2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH. Sequential transformation states keep one code and roster the highest attested state's Score | Tier came from the diagonal alone, HP, story menace, a native analogue, or an equipment piece grade; a phase received a separate permanent code without a new-entity intake |
 | LC HP | The exact filed Sorrow Gauge base—normally `base/base`, never rewritten as `/1000`—times the Risk-tier HP multiplier, rounded up: `ceil(Gauge base × tier multiplier)`. An out-of-band base is flagged with the arithmetic shown | The base was silently rescaled; base, multiplier, and result cannot be recomputed forward; presented scale changed HP; an unfiled Gauge was replaced by a clean-looking settled value instead of HOLD or a visibly braced `{est.}` |
@@ -2063,7 +2079,7 @@ The worked practice above supplies partial exercises and a partial drill, not si
 | **A — Anchored event body** (Broken Well; Double Mouth) | The Subject or manifestation remains joined to an anchor, aperture, room, voice, or other fixed interface; the filed event transforms in place or spreads a field rather than roaming | File the anchored body, event footprint, personnel already exposed, and the filed in-place response. Keep Work Damage and Combat Action figures in separate ledgers. A discipline can be class-legal for a Subject and still management-forbidden by its Behavior line | Do not derive pursuit, roaming, or physical contact from the Subject label, damage color, or the existence of Combat Actions. No locomotion enters without a filed movement line |
 | **B — Place-as-room with a registered state** (The Maw) | The Place body is the room, district, perimeter, or ground itself, with expansion behavior and, where filed, a `-B` or other event-state designation | File the actual housing grade, original scale, declared band, perimeter and clerk exposure, and each state under the same Subject Number. Two-Work-Type Law governs while the body is Place; suppression follows the filed expansion, negotiation, state, and return evidence | Hold the state transition or return where unattested, and hold department assignment where no available department can bound the Place honestly. Do not shrink the body to make an ordinary work loop possible, and do not make prohibited work the metamorphosis trigger unless the dossier files it |
 | **C — Fragment at an interface** (Conservatory; Learned Your Face) | The unit can show only a trace, outline, device, glass, aperture, or other portion while the true site, body, or reflection remains undrawn, withheld, or redacted | Read class from the true body; file **Fragment**, what the room actually shows, where the remainder remains, and whether a complete body is dossiered. Management protects the boundary and follows any filed anti-completion discipline | Completion or Breach Form remains **HOLD** where no complete body is attested or the content is forbidden to record. Body class does not settle Tool operation: the Conservatory's fixed-site body can file class `07` while its bearer-borne I-Relic operation remains held |
-| **D — Sustained operator session** (Learned Your Face) | The original relic requires an operator to maintain gaze, touch, invocation, contact, or another filed channel, with session roles, duration, closure, relief, or abandonment consequences | Read body class and operation as separate axes. File Ability and Log and Method, operator and companion roles, duration, deliberate closure, abandonment consequence, warning flags, and limits; name any retained Viderehan/Ferrehan method under its Degree. Permanent tallies remain statistics or Threshold evidence | Tool subtype is **HOLD** when operation fields conflict or no operator session is filed; a fixed station is not Equippable unless the original itself is taken up. A generic cancel, relief, or end-of-day return never overrides the filed closure |
+| **D — Sustained operator session** (Learned Your Face) | The original relic requires an operator to maintain gaze, touch, invocation, contact, or another filed channel, with session roles, duration, closure, relief, or abandonment consequences | Read body class and operation as separate axes. File Ability and Log and Method, operator and companion roles, duration, deliberate closure, abandonment consequence, warning flags, and limits; name any retained Viderehan/Ferrehan method under its Degree. Permanent tallies remain statistics or Threshold evidence | Tool subtype is **HOLD** when no Completion, Maintenance, or Carriage test passes, or when incompatible tests/body relations are filed for the same state; a fixed station passes Carriage only when the original itself is taken up and travels with the bearer. A generic cancel, relief, or end-of-day return never overrides the filed closure |
 | **E — Irrevocably consumed discharge** (The Wedge That Held) | One filed trigger completes the original and leaves inert residue; a separately filed accidental or lesser discharge may exist without proving the main use | File custody and authorization, one scheduled discharge, trigger, effect, bearer consequence, residue, and warnings before any facility benefit. Consumption and charges remain Threshold-channel facts, while any Gauge condition keeps its own name and crosswalk | Invent no repeat-use routine and authorize no impact test to settle the record. Hold the discharge protocol where the Gauge-to-trigger crosswalk is unresolved; a drop or minor tile event does not authorize the full strike unless the dossier joins them |
 | **F — Split-scope percentages and conditions** (Double Mouth) | Starting Gauge, Behavior changes, Combat Record threshold, Ultimate trigger, event Gauge, and named Activation Threshold counts use numbers at different scopes | Label the scope of every percentage and count before deriving a counter. Gauge and Threshold remain separate lines; HP, Work Damage, and PE continue from their own filed bases and do not repair the counter. Quote any filed interlock instead of simplifying it | **Qliphoth Counter: HOLD** when the record establishes one or both channels but not a complete decrement, reset, and return schedule. Do not average percentages, transcribe a Gauge percentage as the counter, or let a Work Damage line change the filed event geometry |
 
@@ -2185,8 +2201,8 @@ Before Section 6, check the exact linked set against the [pinned SE ↔ M.A.W. c
 | Field | Filed value | Source, derivation, or frame-law chain |
 |---|---|---|
 | Subject Number letter `X`: Sorrow Category, Origin, and Tale read |  |  |
-| Subject Number class `YY`: Entity/Tool Type, Physical Form, and Appearance read |  |  |
-| Subject Number serial: `0` + SECC numeric suffix; never-renumber status |  |  |
+| Subject Number class `YY`: Entity/Tool Type, Physical Form, and Appearance read; Use Mode at the item-body gate where applicable |  |  |
+| Subject Number serial: source SECC suffix; ordinarily `0` + suffix, or §II.3 next-free collision serial; never-renumber status |  |  |
 | Housing grade (Whole / Aspect-shifted / Fragment), body portion presented, and unshown remainder |  |  |
 | Containment Form; filed event or Breach Form; original measured scale, declared scale band, and any declared Well attenuation |  |  |
 
@@ -2240,9 +2256,9 @@ Before Section 6, check the exact linked set against the [pinned SE ↔ M.A.W. c
 | M.A.W. Stigma → E.G.O Gift slot: piece name, slot/form, acquisition chance, stat/effect, and filed conditions; no E.G.O Risk *(repeat per piece)* |  |  |
 | Production count and PE cost per extracted piece, including any finite set cap or no-extraction result |  |  |
 | Requirements, SP-pool Composure Load, every other bearer-cost ledger, and Corrosion exactly as filed |  |  |
-| Original housed relic body: Entity/Tool Type, Physical Form, Appearance, and body class `07` / `08` / `09` |  |  |
+| Original housed relic body: Entity/Tool Type, Physical Form, Appearance, and body class `04` / `07` / `08` / `09` |  |  |
 | Original operation as filed: A/O/I source class, Tool Type or Tool Class, Use Mode, Activation, Primary Effect, Duration, Termination / Return, limits, and warning flags |  |  |
-| Converted Tool subtype; Ability and Log and Method; operator/companion roles, closure, relief, abandonment consequence, and return |  |  |
+| Converted Tool subtype and the Completion / Maintenance / Carriage test passed (or **HOLD**); Ability and Log and Method; operator/companion roles, closure, relief, abandonment consequence, and return |  |  |
 
 ### 7. Record and Encyclopedia
 

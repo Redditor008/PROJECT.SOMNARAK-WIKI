@@ -307,7 +307,7 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 
 | Feature | Lobotomy Corporation Tool Abnormalities | Project Somnarak Relic-Entities |
 |---|---|---|
-| **Sub-Types** | Single Use, Channeled Use, Equippable. | **A-Relics (Arcanum)** — single-use discharge; **O-Relics (Offertorium / filed alias Officium)** — channeled or sustained session; **I-Relics (Indumentum)** — equippable or mounting use. The letter is the home class; conversion tests the filed operation before assigning the LC shape. |
+| **Sub-Types** | Single Use, Channeled Use, Equippable. | **A-Relics (Arcanum)** — single-use discharge; **O-Relics (Offertorium / filed alias Officium)** — channeled or sustained session; **I-Relics (Indumentum)** — equippable or mounting use. The letter is the home class; conversion applies **Completion → Single Use**, **Maintenance → Channeled Use**, and **Carriage → Equippable** to the filed operation. Proximity, absence, no operator session, or incompatible tests/body relations remain **HOLD**. |
 | **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Dossier-specific warning banners — facility benefit, operative or sector alteration, Resilience extraction, channel overload, irrevocable consumption, and other record-specific warnings — transcribed per relic; conversion adds a meltdown-precipitant flag only where the dossier supports it. |
 | **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan strictly N/A. |
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
