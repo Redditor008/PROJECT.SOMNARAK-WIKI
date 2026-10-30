@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit resumed: Chapter 5 prompt retirement (2026-10-31)
+
+- **Meta prompt replaced with personnel law (manual Ch. 5, carried §XIV close):** the remaining “give this document to an AI” block presupposed one Well-grab ingress, ordered every dossier field translated, promised that exposed employees “will develop” R.D. Attributes, and treated a full wiki page as the immediate output. It now files an **exposure ledger**: LC governing-stat aptitude remains separate from the employee's Level 0 R.D. Attributes; points begin only after 3+ survived consecutive days sustaining the filed Han Effect; the sustained Element, paid primary/secondary attributes, approximate 1–3 points per day, live Failure Effect, Days 1–3 rotation, and Level III roster transition must be named.
+- **Scope boundary:** Chapter 5's duplicated carried work/attribute tables were not consolidated in this restart unit. Facility Verification Checklist, Field-Source Check, Protocol Case Patterns, Institutional Sign-Off, Appendices A–B, CMP §13.2, operation/item-designation conflicts, and Master Codices 02/03/05 whole-structure reads remain pending.
+
 ## Echo-Core Backstory Extended pinned WIP (2026-10-31)
 
 - **New reserved archive:** created `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/` with a **📌 PIN WIP** index for later scene-level histories of Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, Ishall, and Xyan. The index plans one extended record per named Echo-Core, modeled only on the *function* of detailed named-character story treatment; it does not copy L Corp plot or characterization.

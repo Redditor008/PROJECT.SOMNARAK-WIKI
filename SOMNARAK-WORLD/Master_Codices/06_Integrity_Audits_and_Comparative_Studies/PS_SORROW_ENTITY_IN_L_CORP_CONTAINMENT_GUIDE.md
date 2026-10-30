@@ -1128,7 +1128,7 @@ An L Corp employee works on an imported Somnarak Grudge entity (RED damage) for 
 
 ---
 
-*"Give this document and any Somnarak Entity file to an AI. Tell it: 'The Well of Cogito has grabbed this Somnarak Sorrow Entity and is transforming it into a Lobotomy Corporation Abnormality. Use the conversion reference to translate every field. L Corp employees exposed to this entity will develop R.D. Attributes per section XIV.' The AI should output a full L Corp Abnormality wiki page."*
+**Exposure is a ledger, not a promotion.** Enter every L Corp employee at **R.D. Attribute Level 0**, with LC governing-stat aptitude filed separately. Points begin only after that employee survives **3+ consecutive days** sustaining the entity's filed Han Effect; record the Element sustained, the primary and secondary attributes it pays into, the approximate **1–3 points per day** by Potency, and the Failure Effect that remains live until the primary attribute reaches **Level III**. The personnel filing is incomplete until it names the Days 1–3 exposure rotation and the later transition from expedition staffing to roster staffing (§IV.3; Work-Outcome Translation in Detail).
 
 ### V. Work Type Mapping
 
