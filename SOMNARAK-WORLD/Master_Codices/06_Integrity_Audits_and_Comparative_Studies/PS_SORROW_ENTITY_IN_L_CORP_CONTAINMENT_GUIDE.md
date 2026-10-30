@@ -804,11 +804,11 @@ The same check leaves TETH honest without forcing disjoint tiers: its converted 
 
 **NOTE: Every number must be a whole number — always round UP (ceil). No decimals.**
 
-**Example:** Somnarak entity has 415/1000 Gauge [HP] (inside the TETH dossier band 300–500), Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**, and the derived figure stands as computed.
+**Example:** A Somnarak entity files Sorrow Gauge [HP] `415/415` (base 415, inside the TETH dossier band 300–500), Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**, and the derived figure stands as computed.
 
 ### II. HP Conversion
 
-Somnarak uses **X/X of 1000** for entity HP. L Corp uses absolute HP values. Convert using the multiplier for the entity's Risk Level.
+Somnarak files Sorrow Gauge [HP] as a base value—the standard dossier line is `base/base`, and a historical or projected sovereign record may exceed 1,000. L Corp uses absolute HP values. Convert the filed base using the multiplier for the entity's Risk Level.
 
 | L Corp Risk Level | HP Multiplier | Formula |
 |---|---|---|
@@ -820,7 +820,7 @@ Somnarak uses **X/X of 1000** for entity HP. L Corp uses absolute HP values. Con
 
 **RULE: Every number must be a whole number — always round UP (ceil). No decimals.**
 
-**Example:** Somnarak entity has 415/1000 Gauge [HP] (inside the TETH dossier band 300–500), Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**, and the derived figure stands as computed.
+**Example:** A Somnarak entity files Sorrow Gauge [HP] `415/415` (base 415, inside the TETH dossier band 300–500), Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**, and the derived figure stands as computed.
 
 ### 6. Health Pools (HP) & Durability Scaling (The 10,000 HP Update)
 
@@ -918,7 +918,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 
 ```markdown
 **Han-Energy Yield:** 12 H-Boxes per successful work cycle
-**Sorrow Gauge [HP]:** 415/415 of 1000
+**Sorrow Gauge [HP]:** 415/415
 **Han Pressure [ATK]:** 10–23 per hit · Lament
 ```
 
@@ -1882,40 +1882,33 @@ Finally, the laws become an order of operations. Convert in the sequence below, 
 
 ### XIV. Conversion Order (Somnarak → L Corp)
 
-When the Well of Cogito grabs a Somnarak Entity:
+Convert in this order. A later step may not supply a missing input to an earlier one, and a native analogue may not backfill any step. The order follows Appendix B: identity and housing first, danger second, then work and counters, event behavior, equipment or Tool housing, record, and only then department assignment and sign-off.
 
-| Step | Somnarak Field | L Corp Output |
-|---|---|---|
-| 1 | Potency + Coherence | **Risk Level** (via Score) |
-| 2 | HP (X/1000) | **L Corp HP** (× multiplier, ceil) |
-| 3 | Han Pressure [ATK] | **Work Damage** (× multiplier, ceil) + Damage Type |
-| 4 | Element | **Damage Type** (Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK) |
-| 5 | Origin (C/N/O) | **Subject Number** first letter |
-| 6 | Work Type table | **Work Preferences** (success rates per work) |
-| 7 | Han-Energy yield | **PE-Box count** (tier band) + **PE-equivalent quota value** (88/12 density split) |
-| 8 | Sorrow Gauge % / Activation Thresholds | **Qliphoth Counter derivation** (separate channels) |
-| 9 | M.A.W. Equipment | **E.G.O** (Weapon/Suit/Gift) |
-| 10 | Story Log | **Story entries in filed sequence** |
-| 11 | Final Observation | **Final Observation closing event** (retained event; no standing current-Details slot) |
-| 12 | Flavor Text | **Flavor Text** |
-| 13 | Origin / Narratio | **Story background + final Tale prose** |
-| 14 | Filed event-behavior section | **Ability, Management Tips, and Escape Information as the operation requires** |
-| 15 | Combat Actions | **Special abilities** |
+| Order | Operation | Filed output | Stop rule |
+|---|---|---|---|
+| 1 | **Read the whole dossier and declare the frame** (Chapters 1–2) | Source map in the dossier's filed order; Ingress route, Degree, retained traits, and every unresolved source conflict | Do not convert from a summary, quick map, or first matching field. Competing source accounts remain parallel **HOLD**s |
+| 2 | **Name and house the body** (Chapter 3; form law in Chapter 1) | SECC and Korean-name aliases; three-field letter read from Sorrow Category, Origin, and Tale; body-class read from Entity/Tool Type, Physical Form, and Appearance; serial read as `0` + SECC number; housing grade, Containment Form, Breach Form, and scale band | The designation is issued only with the Risk Level in Step 3. An undrawn or withheld body portion stays **HOLD**; presented size never completes or shrinks the filed body |
+| 3 | **Derive danger and energy** (Chapters 4 and 7) | Threat Score and Risk Level; LC HP by `ceil(Sorrow Gauge base × tier multiplier)`; Work Damage by one filed ATK multiplier; Element color and only dossier-filed riders; resistances; separate breach damage where filed; physical PE count by tier band and PE-equivalent quota value under the 88/12 density split | Show the base, multiplier or factor, and result once. Out-of-band inputs are flagged, never silently rescaled. No finished damage line stands without one filed ATK multiplier; if no density factor `d` is chosen, file the quota band rather than inventing a point value |
+| 4 | **File work, people, and counter channels** (Chapters 5–6) | For a regular output, LC work names, favorability and outcome ranges, prohibited works, backfire, staffing and first-three-days exposure plan; Qliphoth Counter derivation with triggers, reset, return, and permanent tallies kept distinct | Favorability comes only from Behavior lines. Gauge and Threshold remain separate channels; an absent channel stays absent, and a permanent tally is never dressed as a counter |
+| 5 | **File the event and suppression record** (Chapters 6–7) | The dossier's filed event-behavior heading; breach class and state lines; movement, range, Combat Actions, Battle Phases, and Consequences as Ability, Management Tips, and Escape Information; suppression objective and return condition | Keep Work Damage and breach damage in separate ledgers. An escaping body, activation, expansion, and containment event are not interchangeable operations |
+| 6 | **File equipment or Tool housing** (Chapter 8) | Each filed M.A.W. piece separately as E.G.O Weapon, Suit, or Gift-slot output; Weapon/Suit piece Risk from the piece's Greek Grade; requirements and bearer-cost ledgers; Corrosion only as filed. For the original relic, body class, Tool use-shape, Log and Method surface, warning flags, limits, and filed closure or return | Do not complete an unfiled triad. A Stigma's Gift output carries slot, effect, and acquisition, not an E.G.O Risk Level. Missing or conflicting piece grade, operation, or Tool subtype remains **HOLD** |
+| 7 | **Build the record and narrative gates** (Chapters 2 and 9) | Selection name and quote; Basic Info, method, management, Story, and Flavor surfaces; Origin as background, Story Log in filed sequence, Final Observation as the retained closing event, Tale last and whole, Testimony as a witness block, plus interactions, Registrum/Addendum, any named Record, Trivia, and Document Information as Section X files them | **No equivalent** means retain or cross-file explicitly; it never means delete, rename by resemblance, or turn testimony and atmosphere into management law without an operational statement |
+| 8 | **Assign, audit, and sign** (Chapter 10 and Appendix B) | Department assignment after Risk, work, counters, staffing, event behavior, and equipment are settled; completed Appendix B worksheet; Field-Source Check and Institutional Sign-Off | Every output names its dossier source, derivation, frame law, retained home-only status, or **HOLD**. Native analogues may sanity-check a finished record; they never supply its code, stats, work values, or story facts |
 
 ### XXII. Important Rules
 
-1. **Do not treat L Corp Risk Level and SECC as identical systems.** Use the Threat Score to bridge them.
-2. **M.A.W. is Somnarak. E.G.O is L Corp.** Never use one term for the other system's equipment.
-3. **Always round UP (ceil).** No decimal values in any stat.
-4. **HP format in Somnarak is always `X/X of 1000`.**
-5. **Han Pressure [ATK]** is the Somnarak term for damage output per hit.
-6. **H-Boxes** is the Somnarak term for energy units (equivalent to L Corp E-Boxes/PE-Boxes).
-7. Preserve the **5 × 5 × 5** code system: Origin (3+), Coherence (5), Potency (5), Element (5), Manifestation (5).
-8. Preserve **Somnarak Elements**: Lament/Grudge/Void/Weight/Mixed.
-9. **R.D. Attributes** (Composure/Resolve/Clarity/Resilience) are crossover stats for L Corp employees exposed to Han — they start at Level 0.
+1. **Do not treat L Corp Risk Level and SECC as identical systems.** Coherence and Potency are independent axes; the Threat Score is the bridge.
+2. **M.A.W. is Somnarak. E.G.O is L Corp.** Home pieces are Weapon / Suit / **Stigma**; never write “M.A.W. Gift” for the home side of an equipment row.
+3. **Round derived output stats UP (`ceil`).** HP, Work Damage, and PE outputs file as whole numbers; filed multipliers, density factors, percentages, and resistance coefficients remain decimal inputs where the law files them that way.
+4. **Read Sorrow Gauge [HP] as filed.** The standard dossier line is `base/base` (for example, `415/415`), and a historical or projected sovereign record may exceed 1,000. Never rewrite the base as a fraction of 1,000 or rescale it to fit a band.
+5. **Han Pressure [ATK] is the Work Damage source.** File one ATK multiplier for the record; keep separately filed breach damage separate and never average the two ledgers.
+6. **H-Boxes and Han Yield are home-ledger inputs, not PE-Box equivalents.** Physical PE-Boxes assign by Risk tier band; quota value is filed separately under the 88% ordinary / 12% dense split.
+7. Preserve the **3 × 5 × 5 × 5 × 5** SECC system: Origin (3), Coherence (5), Potency (5), Element (5), and Manifestation (5).
+8. Preserve **Somnarak Elements**: Lament / Grudge / Void / Weight / Mixed. Mixed is the filed four-color cycle—RED → WHITE → BLACK → PALE at two seconds per type unless the dossier files another cadence.
+9. **R.D. Attributes** (Composure / Resolve / Clarity / Resilience) are crossover survival stats for L Corp employees exposed to Han. Every such employee starts at Level 0; points begin only after surviving 3+ consecutive days of sustained exposure.
 10. Read every Somnarak entity file in its filed order. The standard spine is SECC Classification → Operational Parameters → Combat Record → Appearance → Origin → Behavior & Work Types → the filed event-behavior heading → M.A.W. Equipment → Observation Log → Story Log → Final Observation → Flavor Text (with interaction pattern/record where nested, or Entity Interactions where separately headed) → Tale → Testimony → Registrum/Addendum → any named additional Record → Trivia → Document Information. Optional profiles and variant event headings are read as filed, never normalized away (Chapter 2 §§X, XXI).
 11. External crossover or parody entities go outside the main canon roster.
-12. Uploaded canon/reference files remain immutable.
+12. **Source dossiers are evidence, not worksheets.** Do not rewrite, rescale, complete, or renumber them to make an output easier; carry conflicts and unknowns in the conversion note as **HOLD**s.
 
 ---
 
@@ -1984,7 +1977,7 @@ Each conversion below shows its three-field reads, so the letter and class can b
 **Somnarak Entity:** The Torn Whisper — `C-IIβ-716 [GS]`
 - Coherence: II (Echo), Potency: β (Moderate)
 - Element: Grudge (Crimson) = **RED Damage**
-- HP: 415/1000
+- Sorrow Gauge [HP]: 415/415
 - Han Pressure [ATK]: 10–23 per hit · Grudge
 
 **Step 1 — Risk Level:**
@@ -2011,7 +2004,7 @@ Flerehan→Attachment (Decrease = High), Pugnahan→Repression (Increase = Low),
 **Entity:** The Torn Whisper — `C-IIβ-716 [GS]`
 - Coherence: II, Potency: β → Score 4 → **TETH**
 - Element: Grudge (Crimson) → **RED Damage**
-- HP: 415/1000 → ceil(415 × 1.0) = **415 HP**
+- Sorrow Gauge [HP]: 415/415 → ceil(415 × 1.0) = **415 HP**
 - Han Pressure [ATK]: 10–23 → one filed *m* = 1.4: ceil(10 × 1.4)–ceil(23 × 1.4) = **14–33 RED**
 - Work Types: Flerehan↓, Pugnahan↑, Viderehan→, Ferrehan↓ → Attachment (High), Repression (Low), Insight (Medium), Instinct (High)
 - Han-Energy: 12–18 H-Boxes (worksheet input) → **12–18 physical PE-Boxes**, filed as the TETH work-outcome range; across the dense-fraction factor (×2.0–×2.5) that is **14–22 PE-equivalent quota value**

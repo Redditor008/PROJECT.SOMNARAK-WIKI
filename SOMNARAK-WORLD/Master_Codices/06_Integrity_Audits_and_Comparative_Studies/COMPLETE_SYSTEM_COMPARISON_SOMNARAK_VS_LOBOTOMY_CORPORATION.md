@@ -199,7 +199,7 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 | **ALEPH / Rank V (ω)** | 2,000 – 12,000 HP (Regular breacher sample; e.g. WhiteNight: 12,000 HP)| **1,000 – 12,000 HP** (e.g. Dawn of Mourning: 12,000 HP) | Multi-phase Sovereign Calamities and departmental Realizations. |
 | **Planetary Geography** | N/A | **N/A (Invulnerable / Unfightable)** | Natural oceans, continental landmasses, and polar tundra are Geography, not combatants. |
 
-**Filing note:** the PS bands above are comparison filing bands for converted/story use, not a replacement for dossier arithmetic. In conversion, HP derives from the dossier Sorrow Gauge by the density-weighted tier multiplier (**×0.4 ZAYIN · ×1.0 TETH · ×1.8 HE · ×9 WAW · ×19 ALEPH**, always rounding up), so a high-Threat output may stand far above the native analogue band; record values already filed in dossiers — e.g. the Dawn of Mourning historical Gauge record of 12,000 — stand as filed.
+**Filing note:** the PS bands above are comparison filing bands for converted/story use, not a replacement for dossier arithmetic. In conversion, HP derives from the dossier Sorrow Gauge by the density-weighted tier multiplier (**×0.4 ZAYIN · ×1.0 TETH · ×1.8 HE · ×9 WAW · ×19 ALEPH**, always rounding up), so a high-Threat output may stand far above the native analogue band; record values already filed in dossiers — e.g. the Dawn of Mourning historical Gauge record of 12,000 — stand as filed. The standard dossier line is `base/base`; it is not rewritten as a fraction of 1,000.
 
 ---
 
