@@ -280,8 +280,8 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 
 | Feature | Lobotomy Corporation Tool Abnormalities | Project Somnarak Relic-Entities |
 |---|---|---|
-| **Sub-Types** | Single-Use, Equippable, Channeled / Continuous. | **A-Relics** (Consumable), **O-Relics** (Wearable), **I-Relics** (Stationary). |
-| **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Files the same three capability warnings in PS dossier terms across all 82 Relic-Entity dossiers; conversion filing adds a meltdown-precipitant flag the LC badge set does not carry. |
+| **Sub-Types** | Single Use, Channeled Use, Equippable. | **A-Relics (Arcanum)** — single-use discharge; **O-Relics (Offertorium / filed alias Officium)** — channeled or sustained session; **I-Relics (Indumentum)** — equippable or mounting use. The letter is the home class; conversion tests the filed operation before assigning the LC shape. |
+| **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Dossier-specific warning banners — facility benefit, operative or sector alteration, Resilience extraction, channel overload, irrevocable consumption, and other record-specific warnings — transcribed per relic; conversion adds a meltdown-precipitant flag only where the dossier supports it. |
 | **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan strictly N/A. |
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
 
@@ -434,7 +434,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Angela (AI Coordinator)** | **Echo-Core Floor Secretaries (서기관)** | Guidance, split at depth: one created coordinator remembering every loop there; nine Echo-Core Floor Secretaries here — archive, liaison, and memory distributed among persons bound to floors, not held in one mind. |
 | **Agent** | **Absolver (  해원사   )** | Sworn elite field operative entering containment cells. |
 | **Clerk** | **Salt-Scrubber (  염초공   )** | Auxiliary personnel maintaining sanitation, brine drainage, and grates. |
-| **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Inanimate or stationary entities operated under strict Two-Work rules. |
+| **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Operated inanimate entities under strict Two-Work rules; body housing and use-shape are filed on separate axes. |
 | **Core Suppression** | **Core Realization (핵 진압)** | Floor-lead Core Crisis duel: suppress, ground, and Reclaim the Echo-Core Lead — no extraction; cleared Realizations persist across cycles (+10 to All Attributes, permanent floor buff). |
 | **The City** | **Somnarak City (  솜나락 도성   )** | The main human metropolitan stronghold. |
 | **Backstreets** | **The Raw (  생경   )** | The unpatrolled, violent undercity surrounding the facility. |

@@ -1511,7 +1511,7 @@ Work damage and breach damage are separate outputs wherever the dossier separate
 
 ## Chapter 8 — Equipment, Tools & Relics
 
-After survival comes use: what Extraction can draw from the entity, what a bearer pays to wear it, and how Tools become relic-entities without losing their limits, charges, or single-use teeth.
+After survival comes use: what Extraction can draw from the entity, what a bearer pays to wear it, and how Relic-Entities are housed as Tools without losing their limits, charges, or single-use teeth.
 
 ### Section VII: E.G.O Extraction via Extraction Department (Binah)
 
@@ -1568,17 +1568,17 @@ The home triad is **M.A.W. Weapon / Suit / Stigma**; the output triad is **E.G.O
 
 The five-step grade read is **piece-to-piece**, not Potency-to-entity: both archives file Weapon/Suit effectiveness on a five-step ordinal, while the entity's own Risk carries the Coherence half of the Threat Score. If a piece's M.A.W. Grade is absent or its linked records disagree, its E.G.O Risk remains **HOLD** under the disagreement rule above; do not fill it from the entity's Risk or Potency. If the filed piece grade differs from the source Potency, transcribe the piece grade as filed and flag the split — do not normalize either channel. M.A.W. Corrosion is filed under Section VII.2, never inferred from grade.
 
-### XVIII. Tool Abnormality Types (Three Types)
+### Tool Use Shapes and Relic Classes
 
-From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use types. Somnarak's Object entities map to these via the **Tool Type** field:
+Tool conversion reads **two axes separately**. The source A/O/I letter is the Relic-Entity's filed home class; Single Use, Channeled Use, and Equippable are LC interaction shapes. The letter gives the starting read, not proof of the output: **Tool Type/Tool Class, Use Mode, Activation, Primary Effect, Duration, Termination / Return, Log and Method, Entity Type, Physical Form, and Appearance** are read together. The `O` in **O-Relic** is a class initial, not Physical Type `[O]`. The original relic is the entity being housed here; any M.A.W. drawn from it converts separately under Field Conversion and does not make the original itself wearable.
 
-| Tool Type | Somnarak Relic | Behavior | Unlock Info | L Corp Examples |
+| Filed source class | Home operation | LC output when the operation agrees | What the output record carries | Native shape example |
 |---|---|---|---|---|
-| **Single Use Tools** | **A-Relic (Arma)** | Give a single instant effect upon use. Consumed or depleted. | **Number of Uses** | Theresia (T-09-09), Old Lady (O-01-12) |
-| **Channeled Use Tools** | **O-Relic (Officium)** | Constant work use that can be cancelled when ordered again. Sustained effect. | **Time of Use** | Don't Touch Me (O-05-47) |
-| **Equippable Tools** | **I-Relic (Indumentum)** | An Agent equips upon use. Effects persist while equipped. Returned by clicking containment or at end of day. | **Equipped state** | Crumbling Armor (O-05-61) |
+| **A-Relic (Arcanum)** | **Single-use / consumable discharge:** one filed trigger completes the interaction, even where the resulting effect lasts longer | **Single Use Tool** | Number-of-Uses unlock axis; charges, use count, consumption, and residue remain in the Threshold channel exactly as filed. An irrevocably consumed relic has one scheduled discharge, never an invented repeat-use routine. | Mirror of Adjustment (O-09-81) |
+| **O-Relic (Offertorium; filed alias Officium)** | **Channeled / sustained use:** the operator maintains touch, gaze, invocation, contact, or another filed channel for a session | **Channeled Use Tool** | Time-of-Use unlock axis; filed duration, deliberate closure, relief rule, and abandonment consequence. A generic cancel order does not replace the dossier's closure condition. | Theresia (T-09-09) |
+| **I-Relic (Indumentum)** | **Equippable / mounting use:** the original is worn, held, or mounted as bearer-borne gear and its effect travels with the bearer | **Equippable Tool** | Interaction amount while equipped; bearer costs by their filed ledgers and the exact removal/return condition. Native end-of-day or bearer-death return does not override a stricter filed detachment rule. | Luminous Bracelet (O-09-95) |
 
-**Note:** The Kind Echo (SE-C-Iα-000) is the Somnarak equivalent of the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations.
+Where the operation fields coherently describe a different LC shape from the letter, **the operation sets the subtype and the letter remains visible as source provenance with the split flagged**. Where those fields contradict one another, or the record files proximity, absence, perimeter observation, or another mode with no operator session, the Tool subtype is **HOLD**. Body housing still follows Section II.2 — site body `07`, unoperated object `08`, operated hand/station body `09` — because body class and use-shape are different axes. “Stationary” and “fixed” are body or mounting facts, never LC subtypes: a fixed station can support a filed Single Use or Channeled Use operation, but it cannot support Equippable unless the original itself is actually taken up. The filed alias **Officium** does not create a fourth class; transcribe the dossier's name and convert by the O-Relic operation.
 
 ### 10. Equipment Extraction: E.G.O vs. M.A.W. Wear
 
@@ -1594,8 +1594,8 @@ From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use 
 
 | Feature | Lobotomy Corporation Tool Abnormalities | Project Somnarak Relic-Entities |
 |---|---|---|
-| **Sub-Types** | Single-Use, Equippable, Channeled / Continuous. | **A-Relics** (Consumable), **O-Relics** (Wearable), **I-Relics** (Stationary). |
-| **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Files the same three capability warnings in PS dossier terms across all 82 Relic-Entity dossiers; conversion filing adds a meltdown-precipitant flag the LC badge set does not carry. |
+| **Sub-Types** | Single Use, Channeled Use, Equippable. | **A-Relics (Arcanum)** — single-use discharge; **O-Relics (Offertorium / filed alias Officium)** — channeled or sustained session; **I-Relics (Indumentum)** — equippable or mounting use. The letter is the home class; conversion tests the filed operation before assigning the LC shape. |
+| **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Dossier-specific warning banners — facility benefit, operative or sector alteration, Resilience extraction, channel overload, irrevocable consumption, and other record-specific warnings — transcribed per relic; conversion adds a meltdown-precipitant flag only where the dossier supports it. |
 | **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan strictly N/A. |
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
 
@@ -1613,18 +1613,6 @@ In Project Moon lore, Fixers purchase specialized weapons and clothing crafted b
 
 #### 15.1 The Legendary Stat & Employment Covenant
 Workshop armaments are governed by the **Workplace Law (노동 소속령 — Affiliation Mandate)**: no artisan weapon is released without active certified workplace, guild, or faction affiliation, and higher grades require documented foundry service — coin alone buys nothing. On dismissal, desertion, or license loss, Grade 3–5 armaments **revert to the workshop armory** under Collector Bureau foreclosure. Grade 5's Legendary Stat is therefore held by tenure, never looted: the covenant is employment itself.
-
-### VI. Tool Abnormalities (Three Types)
-
-From the wiki research, Tool Abnormalities have three distinct types:
-
-|Type|Classification|Behavior|Examples|
-|---|---|---|---|
-|**Single Use Tools**|09 classification|Give a single instant effect upon being worked with. Have a "Number of Uses" to unlock information.|Theresia (T-09-09), Old Lady (O-01-12)|
-|**Channeled Use Tools**|09 classification|Have a constant work use that can be cancelled when ordered again. Have a "Time of Use" to unlock information.|Don't Touch Me (O-05-47)|
-|**Equippable Tools**|09 classification|An Agent equips upon use. When equipped, they grant their effects to the Agent.|Crumbling Armor (O-05-61)|
-
-**Note:** The Kind Echo (SE-C-Iα-000) is the SOMNARAK equivalent of the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations.
 
 ### Material Weight Classes as E.G.O Handling Reads
 
@@ -1646,9 +1634,10 @@ A relic or tool SE does not become a workable subject because its tier is low. H
 
 | Dossier use-shape | LC Tool housing | Counter / limit | Encyclopedia warning flags |
 |---|---|---|---|
-| Single-use or activation relic | Tool record with consumption intact | Threshold-channel use count, figures verbatim | Benefit, alteration, or instant-death flags exactly as filed |
-| Wearable / carried relic | Equippable Tool record | Bearer cost in its filed ledger; Composure Load only for SP-pool burden | Bearer alteration flag mandatory where any alteration is filed |
-| Stationary or channeled relic | Fixed Tool installation in the unit | Session duration, charge, or day limit from the Threshold channel | Overuse and backfire lines unlocked before story, never after |
+| Discrete activation / discharge (A-Relic operation) | Single Use Tool record | Threshold-channel charges or use count, consumption, and residue verbatim | Benefit, alteration, or instant-death flags exactly as filed |
+| Sustained operator session (O-Relic operation) | Channeled Use Tool record | Filed session duration, closure, relief rule, and abandonment consequence | Overuse and backfire lines unlocked before story, never after |
+| Bearer-borne original (I-Relic operation) | Equippable Tool record | Bearer cost in its filed ledger; Composure Load only for SP-pool burden; removal/return verbatim | Bearer alteration flag mandatory where any alteration is filed |
+| Class/operation conflict, or no operator session | Tool subtype **HOLD**; body housing by Section II.2 | Filed limits remain in the Threshold channel; no use count, duration, or return route is invented | Warning flags exactly as filed, with the conflict visible in Basic Info |
 
 Use four warning flags in Basic Info wherever the dossier supports them: **Can benefit the facility**, **Can alter the employee**, **Can cause instant death**, **Can precipitate meltdown**. A flag is a promise to the manager; do not file one for atmosphere, and do not omit one for elegance.
 
@@ -1880,7 +1869,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Angela (AI Coordinator)** | **Echo-Core Floor Secretaries (서기관)** | Guidance, split at depth: one created coordinator remembering every loop there; nine Echo-Core Floor Secretaries here — archive, liaison, and memory distributed among persons bound to floors, not held in one mind. |
 | **Agent** | **Absolver (  해원사   )** | Sworn elite field operative entering containment cells. |
 | **Clerk** | **Salt-Scrubber (  염초공   )** | Auxiliary personnel maintaining sanitation, brine drainage, and grates. |
-| **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Inanimate or stationary entities operated under strict Two-Work rules. |
+| **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Operated inanimate entities under strict Two-Work rules; body housing and use-shape are filed on separate axes. |
 | **Core Suppression** | **Core Realization (핵 진압)** | Floor-lead Core Crisis duel: suppress, ground, and Reclaim the Echo-Core Lead — no extraction; cleared Realizations persist across cycles (+10 to All Attributes, permanent floor buff). |
 | **The City** | **Somnarak City (  솜나락 도성   )** | The main human metropolitan stronghold. |
 | **Backstreets** | **The Raw (  생경   )** | The unpatrolled, violent undercity surrounding the facility. |
@@ -2003,8 +1992,8 @@ Department is assigned by containment need as read in the conversion note: Place
 
 #### 4. `SE-N-IIβ-319` *The Magistrate's Strike-Through* (  판관의 취소선   / *Pangwan-ui Chwisoseon*)
 - **Department:** Safety Department (Netzach)
-- **Assigned Risk:** TETH (O-Relic / Tool Abnormality)
-- **Containment Note:** Agents can interact with the black chalk once per day. Grants 45 seconds of complete PALE damage immunity, but reduces the agent's maximum HP by -20% for the remainder of the working day.
+- **Assigned Risk:** TETH (A-Relic / Single Use Tool Abnormality)
+- **Containment Note:** Completing the chalk circle is the single discharge: the chalk is ground to powder and cannot be used again. The filed boundary lasts 30 seconds and bars psychic/cognitive targeting; sheltered operatives forget their family names for the shift.
 
 ### Section X: Worked Conversions (Batch 207 intake series)
 
