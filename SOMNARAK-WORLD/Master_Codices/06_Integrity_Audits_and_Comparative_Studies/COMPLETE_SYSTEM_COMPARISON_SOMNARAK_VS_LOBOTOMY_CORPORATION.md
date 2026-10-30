@@ -12,7 +12,7 @@
 | EDITION : EXPANDED STORY & NARRATIVE LEXICON // CANONICAL AUDIT        |
 | PURPOSE : COMPREHENSIVE 1-TO-1 MECHANICS, WORLD & STORY TRANSLATION    |
 +------------------------------------------------------------------------+
-| ROADMAP : 1,778 CYCLES // 5 WORKSHOPS // 5 SYNDICATES // 10 CADRES     |
+| ROADMAP : 1,778 CYCLES // 6 WORKSHOPS // 5 SYNDICATES // 10 CADRES     |
 | CALIB   : 10,000 HP REWORK // TWO-WORK LAW // REALIZATION WARS         |
 +========================================================================+
 ```
@@ -44,7 +44,7 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 | Department Awakening | Core Suppressions | Realization Wars |
 | External guilds (world / professional plane) | The City: Fixer Associations | Somnarak: Ten Specialist Cadres |
 | Underworld factions (world plane) | The City: Five Fingers | Somnarak / The Raw: Five Raw Syndicates |
-| Equipment tuning (craft / armory plane) | The City: Fixer Workshops | Somnarak: Five-Grade Forges |
+| Equipment tuning (craft / armory plane) | The City: Fixer Workshops | Somnarak: Six Great Workshops · Grades 1–5 (non-M.A.W.) |
 
 
 ---
@@ -271,7 +271,7 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 | **Full Name** | **Extermination of Geometrical Organ** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
 | **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
 | **Grade Channel** | Each Weapon/Suit carries its own Risk Level, usually the source Abnormality's but not invariably; Gifts file slot, effect, and acquisition instead. | The entity's converted Risk derives from Threat Score, while each M.A.W. piece files its own Greek Grade. | Output Weapon/Suit Risk reads the piece's filed grade on the same ordinal (α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH) and may differ from the entity Risk; Stigma grade gives the Gift output no Risk Level. |
-| **Material Taxonomy** | Categorized primarily by Risk Grade (ZAYIN–ALEPH). | Categorized by **Five Material Weight Classes**: Primal Marrow, Tempered Brass, Resonant Alloy, Woven Thread, Void Glass. | Somnarak adds physical material weight and mobility modifiers. |
+| **Material & Mass Channels** | E.G.O appearance is filed per piece; Risk, attack/resistance profile, requirements, and special effects remain separate record fields. | The entity's **Material / signature** describes its body, while each M.A.W. piece separately files Type/form, Appearance, and profile; workshop construction belongs to non-M.A.W. artisan gear. | Material text travels as appearance only. No resistance, speed, evasion, pulse, or bearer burden is derived from composition; explicit mass/weight-class mechanics remain in their named home AP ledger. |
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Corrosion** — cumulative four-stage personality takeover from overuse, misuse, neglect, or emotional conflict; ordinary Stage 4 dominates the mind without transforming the body. | Acute SP collapse is Panic; Corrosion is slower bearer-history risk, not its synonym. |
 
 ---
@@ -309,7 +309,7 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 | The Head / Wings of the City | Council of Sighs and Somnarak's municipal / Corner authorities |
 | The Five Fingers (Syndicates) | Five Syndicates of The Raw |
 | Fixer Associations (Hana, Zwei, etc) | Ten Specialist Cadres |
-| Fixer Workshops (Zelkova, Mook, etc) | Five Artisan Workshop Grades |
+| Fixer Workshops (Zelkova, Mook, etc) | Six Great Workshops · Grades 1–5 (non-M.A.W.) |
 | Backstreets & Outskirts | The Raw & The Desolate |
 | The Well / Human Unconscious | The Weeping system — liquid Han, Abyssal Well, Deep Vault *(the reservoir comparison proper is §2/§2A; cycle-engram vocabulary is Facility 01-internal and is not the reservoir)* |
 
@@ -373,18 +373,20 @@ On the world/professional plane, The City fields Fixers and Associations (Hana, 
 
 ## 15. Story Expansion: Equipment Tuning & Artisan Workshops
 
-In Project Moon lore, Fixers purchase specialized weapons and clothing crafted by high-end Workshops (Zelkova, Old Boys, Atelier Logic, Mook, Wheels Industry). In Project Somnarak, containment gear is manufactured and refined by **The Six Sovereign Workshops** (Yeoul, Cheol-Gyeong, Chim-Mok, Hwa-Seok, Baek-Gwang, Sim-Yeon), issuing across **Five Equipment Grades** under the Workplace Law:
+On the **world/craft plane**, City Fixer Workshops compare with Somnarak's **Six Great Workshops** — Yeoul (Rapid Flow), Cheol-Gyeong (Iron Mirror), Chim-Mok (Absolute Silence), Hwa-Seok (Vitrified Ember), Baek-Gwang (White Luster), and Sim-Yeon (Deep Marrow). This is not the facility Extraction plane and not another name for M.A.W.: the home codex domain is **Non-M.A.W. Artisan Armaments & Defensive Weaves**, manufactured across Grades 1–5 under the Workplace Law.
 
-| Workshop Grade | Workshop Tier | Access & Procurement | Drop Probability | Legendary Stat Rationale |
-|---|---|---|---|---|
-| **Grade 1 Forge** | Apprentice Workshop | Issued on certified employment under the Workplace Law — no open-counter sale; basic field-issue gear. | Common (100%) | Standard baseline parameters; no special abilities. |
-| **Grade 2 Forge** | Journeyman Workshop | Workplace requisition on certified tenure; reinforced alloys and dampening weave. | Common (requisition) | +10% Resistance to chosen Han damage element. |
-| **Grade 3 Forge** | Master Artisan Atelier | Requires Tier 3 clearance; custom resonant tuning for specific Cadres. | **5.0% Drop** | Grants unique combat passive (e.g. Acoustic Parry). |
-| **Grade 4 Forge** | Grand Foundry Guild | Restricted to Floor Secretaries and high-ranking Absolver squads. | **1.0% Drop** | Active ability; spatial manipulation on the 10-node grid. |
-| **Grade 5 Forge** | Sovereign Master Forge | **Attains Legendary Stat; requires active contracted employment.** | **0.5% Drop** | **Legendary Stat:** Unlocks ultimate signature trait and sovereign damage multiplier. |
+| Workshop Grade | Acquisition / crafting gate | Construction & issue | Filed home performance |
+|---|---|---|---|
+| **Grade 1 — Standard Industrial Issue** | **100%** issue upon employment | Heavy cast iron and unrefined basalt casing; novice sentries, foundry hands, and transit guards | Baseline kinetic impact at Range Band 1–2; pure physical Grudge damage; no elemental affinity |
+| **Grade 2 — Reinforced Artisan Craft** | Common workplace requisition after six months of certified labor | Tempered volcanic basalt alloy and copper hydraulic conduits; frontline wardens and survey/sweep personnel | **+15% Posture stability**; dampening gaskets reduce recoil shock |
+| **Grade 3 — Superior Alloy Craft** | **5.0% crafting success**; Tier 2 Beast carapaces and master-smith attunement | Layered vitrified obsidian, sorrow-sap lining, and precision pneumatic valves | **+35% damage**; specialized Range Band extension; armor gives **25% resistance** to one filed element among Lament, Void, or Weight |
+| **Grade 4 — Masterwork Custom Forge** | **1.0% crafting success**; 100+ hours of Master Wright hand-lapping and Grade-β Beast core fragments | High-purity crystallized quartz, acoustic resonance chambers, and counter-harmonic balance pins | **+75% damage**; **+2** to Skill Clash and Parry rolls; a successful parry refunds **1 AP** once per combat phase |
+| **Grade 5 — Pinnacle Legendary Stat Armament** | **0.5% crafting success** during rare Zone D geothermal alignments | Monolithic single-crystal basalt, silver-copper nerve filaments, and weeping-resin seal | **Legendary Stat:** +125% damage, a unique Non-M.A.W. Sovereign Resonance Art, +4 to Skill Clash rolls, and 40% reduction to incoming elemental damage; filed performance can match or exceed Grade-γ M.A.W. without M.A.W. bearer erosion |
+
+A numeric workshop Grade never sets an extracted piece's E.G.O Risk, M.A.W. Grade, PE-Box cost, or Composure Load. Its percentages, Range Bands, Clash/Parry bonuses, and AP refund are home battle-ledger mechanics: Degree III may run them intact, Degree II only where the conversion note names them retained, and Degree I records the item's provenance, eligibility, and individually filed story effect rather than importing the ledger.
 
 ### 15.1 The Legendary Stat & Employment Covenant
-Workshop armaments are governed by the **Workplace Law (노동 소속령 — Affiliation Mandate)**: no artisan weapon is released without active certified workplace, guild, or faction affiliation, and higher grades require documented foundry service — coin alone buys nothing. On dismissal, desertion, or license loss, Grade 3–5 armaments **revert to the workshop armory** under Collector Bureau foreclosure. Grade 5's Legendary Stat is therefore held by tenure, never looted: the covenant is employment itself.
+Workshop armaments are governed by the **Workplace Law (노동 소속령 — Affiliation Mandate)**: commission, requisition, or blueprint access requires active certification in a workplace, industrial guild, or sovereign faction, and higher grades require documented foundry, material, or field service — coin alone buys nothing. On dismissal, desertion, or license loss, Grade 3–5 armaments **revert to the workshop armory** under Collector Bureau foreclosure. Grade 5's Legendary Stat is therefore held by tenure, never looted: the covenant is employment itself.
 
 ---
 
@@ -441,7 +443,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Outskirts** | **The Desolate (  황무지   )** | The inhabited liminal frontier beyond the walls — warm, living ground where Outside Sorrow runs unstructured and no Veil dampens feeling. |
 | **The Fingers (Syndicates)** | **Five Syndicates of The Raw** | Major criminal syndicates governing The Raw underworld beyond ordinary municipal reach. |
 | **Fixers & Associations** | **Ten Specialist Cadres** | Specialized contractor guilds providing mercenary and tactical services. |
-| **Fixer Workshops** | **Artisan Workshops (Grades 1–5)** | Specialized guilds forging high-tier containment weapons and armor. |
+| **Fixer Workshops** | **Artisan Workshops (Six Great Workshops · Grades 1–5)** | Non-M.A.W. artisan armaments and defensive weaves issued under the Workplace Law. |
 | **The Well / Cogito** | **The Weeping & Liquid Han** | The deep-reservoir comparison in short: a population drawn from by dosage there; a planetary river of sorrow that thinks, remembers, and crystallizes on its own here. Full treatment §2A. |
 | **Seed of Light** | **The Absolvohan / Dawn of Hope** | The engineered end of the age: a cure payload released three of seven days there; a release-and-confession plan answered by a partial dawn (15%, then the Initiative toward 45%) here. See §2. |
 
@@ -471,7 +473,7 @@ The systems compared above are indexed for conversion use in Appendix A of the U
 +------------------------------------------------------------------------+
 | DOCUMENT CLASS   : COMPLETE SYSTEM COMPARISON (EXPANDED STORY EDITION) |
 | VOCABULARY AUDIT : FULL 1-TO-1 CANONICAL & NARRATIVE LEXICON EXPANSION |
-| ROADMAP SYSTEMS : 1,778 CYCLES / 5 WORKSHOPS / 5 SYNDICATES / 10       |
+| ROADMAP SYSTEMS : 1,778 CYCLES / 6 WORKSHOPS / 5 SYNDICATES / 10       |
 | CADRES                                                                 |
 | 10,000 HP REWORK : STANDARD (150-1000 HP) / SOVEREIGN (10,000+ HP)     |
 | TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL INANIMATE TYPES        |
