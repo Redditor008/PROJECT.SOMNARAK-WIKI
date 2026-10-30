@@ -150,6 +150,8 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 
 **Worked-example boundary (conversion):** an intake drill proves only the fields it actually derives. Han Yield remains a home worksheet input and is never copied forward as the physical PE count, which comes from the tier band before quota composition is applied. A case with an unresolved counter, housing, equipment, or department result remains a partial exercise with that field **HOLD**, not a signed conversion record.
 
+**Facility-verification boundary (conversion):** the manual's final checklist verifies rather than re-derives a finished record. Risk is recomputed as Coherence + Potency—never read from the diagonal alone—and HP, Work Damage, and PE must recompute forward from their filed bases and factors. Gauge, Threshold, permanent tallies, and Tool use-limits stay separate; Behavior alone sets work favor, while LC employees remain R.D. Level 0 until the three-day exposure threshold. Rabbit or Cadre help is separately authorized external support, not a default verification pass; any unfiled housing, counter, piece, Tool, narrative, department, or Appendix A result remains **HOLD**.
+
 ---
 
 ## 5. Entity Classification & Threat Tiers

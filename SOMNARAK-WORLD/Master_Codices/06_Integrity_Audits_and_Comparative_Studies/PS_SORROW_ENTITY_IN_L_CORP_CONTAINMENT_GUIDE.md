@@ -1995,31 +1995,21 @@ This is a partial intake drill, not a signed conversion record. It exercises the
 
 ### Section XI: Facility Verification Checklist
 
-```text
-+========================================================================+
-|         SEPHIRAH CONTAINMENT & EXTRACTION DIRECTIVE CHECKLIST          |
-+------------------------------------------------------------------------+
-| 00. DESIGNATION   : Assign X-YY-0### once; quote Sorrow Category,      |
-|     Origin & Tale for X; Entity/Tool Type, Physical Form &             |
-|     Appearance for YY; serial = 0 + SECC number; never renumber        |
-| 01. RISK TIERING    : Map Ranks I-V to ZAYIN, TETH, HE, WAW, ALEPH     |
-| 02. PE-BOX FORMULA : Extract Enkephalin while filtering toxic Han      |
-| brine                                                                  |
-| 03. TWO-WORK RULE   : Strictly block Attachment & Repression on O/P/T  |
-| 04. SANITY BUFFER : Assign SP recovery kits for Lament/Weight exposure |
-| 05. E.G.O EXTRACTION: Extract only filed pieces; ledger bearer costs   |
-| 06. CORROSION WATCH : Monitor filed tolls and Corrosion stages         |
-| 07. DISCIPLINARY    : Prepare Rabbit Protocol for Place-Metamorphosis  |
-| 08. FORM & TELLS  : Whole, shifted or fragment form housed; breach     |
-|     completes at full scale or Well-attenuated 25-50%; never           |
-|     correct the 0### serial or the unattested quote                    |
-| 09. COUNTERS      : Counter value, triggers & reset per S.III;         |
-|     meltdown and Tool use-counters declared; tallies stay              |
-|     statistics, never meters                                           |
-| 10. INTEGRITY     : Appendix A matrix consulted; no system in          |
-|     use unless Appendix A files its SE-to-Abno row                     |
-+========================================================================+
-```
+Run this checklist after the eight Conversion Order operations and before the Field-Source Check. It verifies that the facility can actually **house, work, suppress, extract from, and file** the converted entity; it does not derive a missing value. A gate passes only when Appendix B names the dossier input, frame law, derivation, or retained home-only status behind the result. Anything else remains **HOLD**.
+
+| # | Verification gate | Passes when | Stop / **HOLD** when |
+|---|---|---|---|
+| 00 | **Frame and source map** | The whole dossier has been read in its filed order; Ingress, Degree, retained traits, aliases, redactions, and unresolved source conflicts are named | The record was built from a summary, quick map, first matching field, or native analogue; competing accounts were silently averaged |
+| 01 | **Designation and housing** | `X` is read from Sorrow Category, Origin, and Tale; `YY` from Entity/Tool Type, Physical Form, and Appearance; the serial is `0` + the SECC number and is never renumbered. Housing grade, Containment Form, Breach Form, original scale, and scale band are declared. Well-attenuated **25–50%** is filed only for the Well-mediated read declared in Chapter 1; full scale is filed for a transported, anchored, or bypassed body; a Fragment completes only into the dossiered body | The code was copied from a legacy map or issued before Risk; presented size completes or shrinks the filed body; the complete Breach Form is undrawn or unattested |
+| 02 | **Risk and arithmetic** | **Threat Score = Coherence rank + Potency rank** gives 2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH. HP recomputes as `ceil(Gauge base × tier multiplier)`; Work Damage uses one filed ATK multiplier; Element color and riders, resistances, and separate breach damage remain separate ledgers. Derived integer outputs round up, while filed multipliers, factors, percentages, and resistance coefficients may remain decimal | Risk came from the I/α–V/ω diagonal alone, HP, story menace, or an analogue; no ATK multiplier was filed; an out-of-band base was silently rescaled; Work Damage and breach damage were averaged |
+| 03 | **Energy and chamber handling** | Physical PE-Boxes come from the Risk tier band and Behavior outcome range; Han Yield/H-Boxes stay worksheet inputs. Quota value is `ceil(N × (0.88 + 0.12d))`, with one filed `d` in ×2.0–×2.5 or the unfixed-factor envelope shown. Han-brine sanitation is filed only where the declared frame or retained home handling carries it | Han Yield was exchanged 1:1 for physical PE; density was applied to the box count; “filter the brine” was used as a substitute PE formula |
+| 04 | **Work discipline** | Favorability, outcome range, counter consequence, and backfire come from Behavior lines. Subject components use the filed disciplines; every inanimate `[O]`/`[P]`/`[T]` component is locked to Instinct and Insight, and `[H]` is read component by component. A meltdown mark does not lift the Two-Work-Type Law. A Tool output is verified by Ability, Log and Method, and use-shape rather than Work Preferences | Favorability came from temperament prose; Attachment or Repression was ordered or “tested” on an inanimate component; prohibited-work backfire was used as a counter mechanic |
+| 05 | **People, exposure, and recovery** | LC governing-stat aptitude is filed separately from R.D. Attributes. Every LC employee starts at **R.D. Level 0**; the sustained Element, primary/secondary attributes, live Failure Effect, Days 1–3 rotation, ~1–3 points per day after 3+ survived consecutive days, and Level III roster transition are named. HP/SP recovery uses only systems the facility timeline actually files—such as Main Room regeneration or researched healing bullets—and Panic recovery follows the declared Degree in Chapter 7 | LC stats were treated as R.D. levels; exposure was assumed to qualify staff automatically; a generic “SP recovery kit” or unfiled restoration aura was assigned; the first three days have no exposure budget |
+| 06 | **Counters and meltdown response** | Gauge and Threshold are filed as either, both, or neither, each with its own value, triggers, reset, and return. Permanent tallies remain statistics/evidence, Tool use-limits remain Threshold-channel limits, and a meltdown is answered through the channel actually filed | The channels were merged into one meter; a counter, reset, or condition was invented; a permanent tally became a meter; pressure work was used to answer a Threshold-only condition |
+| 07 | **Event, suppression, and external support** | The dossier's own event heading, breach class (Escape, Corrupt, Transform, or Cascade), state lines, movement, range, Combat Actions, phases, consequences, suppression objective, and return condition are filed. Rabbit Team or Specialist Cadre help appears only as separately authorized external support under the story's facility timeline | Every event was flattened into a roaming breach; Place-to-Subject metamorphosis or Rabbit Protocol was made the default response; the presented form was allowed to shrink filed reach or stats |
+| 08 | **Equipment and original Tool** | Each filed M.A.W. piece is converted separately: Weapon/Suit Risk from that piece's Greek Grade, Stigma into the Gift slot with no E.G.O Risk, requirements and bearer costs in their own ledgers, Corrosion only as filed, and finite production limits honored. The original relic separately files body class, use-shape, Log and Method, warning flags, use limits, closure, and return | An unfiled triad was completed; entity Risk or Potency filled a missing piece grade; extraction proceeded despite a prohibition or record conflict; a missing/conflicting Tool operation or subtype was guessed instead of held |
+| 09 | **Record, narrative gates, and tells** | Selection name and quote are verbatim, with the quote's origin unknown and the `0###` serial uncorrected. Basic Info, work/method, management, escape/event, equipment, Story, and Flavor surfaces follow their gates; Origin, Story Log, Final Observation, Tale, Testimony, interactions, Registrum/Addendum, named Records, Trivia, and Document Information keep their separate functions | A HOLD was written as fact; a home-only layer was deleted for lacking an LC slot; Testimony or atmosphere became management law without an operational statement; the Tale was cut, padded, or moved before the Story Log |
+| 10 | **Department, coverage, and worksheet** | One department and unit actually available in the facility timeline are named last, from housing footprint, event/clerk exposure, work/staffing loop, and department function; support offices stay separate. Every system used is indexed in Appendix A or added before use, and Appendix B is complete enough for the Field-Source Check | A slash department was filed; department identity supplied a stat, PE, counter, or type bonus; an unindexed system was used; a partial drill was treated as a signed record |
 
 ### Field-Source Check for a Finished Record
 

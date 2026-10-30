@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: Facility Verification Checklist (2026-10-31)
+
+- **Directive box rebuilt as eleven pass/HOLD gates (manual Ch. 10 §XI):** the checklist now follows the eight Conversion Order operations and verifies frame/source completeness, designation and housing, forward arithmetic, PE ledgers, Behavior-led work, personnel exposure, counter channels, event/suppression, equipment or Tool housing, narrative gates, and last-step department/coverage. It explicitly does not derive missing values, and Appendix B must name the input, frame law, derivation, or retained home-only status behind every pass.
+- **Critical stale shorthand retired:** Risk no longer “maps Ranks I–V” diagonally to the five LC tiers; it recomputes **Threat Score = Coherence + Potency**. The PE gate replaces “extract while filtering brine” with the tier-band physical count and `ceil(N × (0.88 + 0.12d))` quota ledger. Generic SP recovery kits and a default Rabbit Protocol for Place-Metamorphosis are gone: recovery must use a facility system actually filed for the timeline, and Rabbit/Cadre help is separately authorized external support. Housing scale, Gauge/Threshold channels, permanent tallies, Tool limits, piece grades, department availability, and Appendix A coverage now have separate stop rules. CMP §4 carries the compact facility-verification boundary.
+- **Scope boundary:** the Field-Source Check, Protocol Case Patterns, Institutional Sign-Off, Appendices A–B, CMP §13.2 syndicate descriptions, duplicated carried tables, operation/item-designation conflicts, and Master Codices 02/03/05 whole-structure reads remain pending.
+
 ## Comparison-plane recheck: governance, geography, and economy (2026-10-31)
 
 - **Facility table boundary corrected (Guide/CMP §3):** the Rabbit Team and Specialist Cadres no longer file as either facility's internal “Tactical Rapid Response.” R Corp's 4th Pack is an external force under standing contract, and the Cadres are autonomous Council-chartered contractor bureaus; both are now **external emergency support**, never departments or ordinary facility rosters. The old synthesis calling the Cadres dedicated Directorate inquisitors is retired.
