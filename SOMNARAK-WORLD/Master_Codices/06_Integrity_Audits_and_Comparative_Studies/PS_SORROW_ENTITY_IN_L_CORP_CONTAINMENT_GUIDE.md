@@ -68,7 +68,7 @@ No single premise in it is mandatory: *how* the entity crosses (ingress) and *ho
 | Energy | PE-Boxes per Section III | PE-Boxes with Han-brine handling | Han-Energy yield as dossiered; PE only if the author adds it |
 | HP read | Tier band of Section III | Dossier Sorrow Gauge checked against the band | Sorrow Gauge unchanged |
 | Work system | Instinct/Insight/Attachment/Repression with favorability from the Behavior table | LC work names over `-han` behavior; dossier management rules bind | Viderehan/Ferrehan/Flerehan/Pugnahan as dossiered (LC names as glosses only) |
-| Damage readout | RED/WHITE/BLACK/PALE | Dual-read: LC colors carrying the Han status effects of Section V | Han elements as dossiered |
+| Damage readout | RED/WHITE/BLACK/PALE | Dual-read: LC colors carrying the filed Han status riders of Section V | Han elements as dossiered |
 | Breach & Qliphoth Counter | Every filed channel live (Gauge and/or Threshold); breaches roam per LC suppression doctrine | Channels live only as the dossier files them — either, both, or neither; transformations per Section VI | No counter; Gauge and Threshold behavior as dossiered |
 | Equipment | E.G.O per Section VII | E.G.O with Composure Load; per-piece bearer costs retained verbatim | M.A.W. unchanged; E.G.O names may gloss |
 | Origin & Tale | Encyclopedia lore; SECC code as alias | Dual record; Tale remains the operative truth | Somnarak record operative; LC code as alias |
@@ -786,7 +786,7 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 | Qliphoth Counter | Sorrow Gauge channel and/or Activation Threshold channel | Chapter 4 counter derivation; operations in Chapter 6 | Channel to channel only; absent channel stays absent |
 | Work favorability | Behavior table by discipline | Outcome translation in Chapter 5 | Default Common; High/Low only where Behavior files a reason |
 | Breach movement | Speed, range, skills, body plan | Chapter 7 movement profile | Stats do not scale with presented size |
-| Damage riders & resistances | Element effects; defensive record | Chapter 7 transcription in color order | Values verbatim; neutral only where the dossier files none |
+| Damage riders & resistances | Element effects; defensive record | Chapter 7 transcription in color order | Riders as filed; entity Resistance percentages convert to damage-taken multipliers, while already-filed multipliers stay verbatim |
 | E.G.O | M.A.W. Weapon / Suit / Stigma, where filed | Chapter 8 field conversion + Composure Load | Stigma files into the Gift slot by role; no M.A.W. on file means no E.G.O invented at intake |
 | Encyclopedia | Comprehension, Tale, redactions, quote | Chapter 9 build order | Quote verbatim; origin of the quote remains unknown |
 | Department | Risk, work needs, breach class, story scale | Chapter 2 institutions + Chapter 10 roster practice | Department is a staffing decision, never a stat |
@@ -1444,62 +1444,47 @@ Once an entity is loose or a work goes bad, both archives need the same damage l
 
 ### Section V: Damage Type & Elemental Inter-Translation
 
-When Sorrow Entities inflict damage on Lobotomy Corp employees, damage types translate across the elemental spectrum:
+Element fixes the color and the ledger struck. It does **not** by itself mint a status rider: bleed, slowing, burden, memory loss, armor-breaking, knockback, or any other named effect enters only where the dossiered move files its trigger, magnitude, and duration.
 
-| Somnarak Han Element | Lobotomy Corp Damage Type | Target Attribute | Defense & Protection Rule |
-|---|---|---|---|
-| **Grudge (Crimson /   원한   )** | **RED Damage** | Physical Health (HP) | Protect with high Red-resistant E.G.O suits (e.g., *Red Eyes*, *Mimicry*). Inflicts Laceration bleed. |
-| **Lament (Deep Blue /   탄식   )** | **WHITE Damage** | Sanity Points (SP) | Protect with high White-resistant E.G.O suits (e.g., *Smile*, *Sound of a Star*). Drains SP and freezes movement speed. |
-| **Weight (Black /   무게   )** | **BLACK Damage** | Dual HP & SP Simultaneously | Protect with balanced hybrid suits (e.g., *Justitia*, *Black Swan*). Inflicts gravitational burden that increases work task duration. |
-| **Void (Pale White /   공허   )** | **PALE Damage** | Percentage Max HP (Death Trauma) | Protect strictly with Pale-resistant gear (0.5 or lower, e.g., *Paradise Lost*). Bypasses physical armor. |
-**Entity-side resistances (the suppression profile).** The table above converts damage the SE *deals*; damage the SE *takes* while breaching converts from the dossier's own defensive record — armor, material immunities, element affinities — into LC resistance multipliers in the same color order. Filed values are transcribed, never rebalanced for fairness. Where the dossier files no defensive profile, the Breach Form takes neutral **1.0 across all four colors** and the absence is entered as a management note: Extraction does not invent an armor profile to make a suppression tidy. Place-bodies in their Containment Form are not suppressed through this profile at all — they are worked, per Section VI, until they take a form that can be.
+| Somnarak Han Element | Home pressure ledger | L Corp Damage Type | L Corp ledger | What the color alone carries |
+|---|---|---|---|---|
+| **Grudge (Crimson / 원한)** | Body / HP pressure | **RED** | HP | Physical trauma. Hemorrhage, armor break, or part break only where the move files them. |
+| **Lament (Deep Blue / 탄식)** | Composure pressure | **WHITE** | SP | Grief and Composure drain. Panic follows when SP reaches 0; slowing or freezing only where filed. |
+| **Weight (Black / 무게)** | Accumulated Han expressed as HP + Composure pressure | **BLACK** | HP and SP simultaneously | Crushing burden and debt. Movement burden, work delay, knockback, or stagger buildup only where filed. |
+| **Void (Pale White / 공허)** | Soul / identity percentage pressure | **PALE** | Percentage of max HP | Erasure pressure. PALE still meets the suit's PALE resistance; memory erasure, silencing, or armor bypass only where filed. |
+| **Mixed** | Cycles HP → Composure → both → percentage pressure | **RED → WHITE → BLACK → PALE** | Varies by phase | The four colors cycle in that fixed order at the home standard of 2 seconds per type unless the dossier files another cadence. |
 
-### 8. Elemental Damage Spectrum & Psychological Rupture
+**Entity-side resistances (the suppression profile).** The table above converts damage the SE *deals*. Damage the SE *takes* while breaching starts from the entity's own Core Stat **Resistance** line, which files damage reduction by pressure type. Convert each filed percentage in color order (Grudge→RED, Lament→WHITE, Weight→BLACK, Void→PALE) with `LC damage-taken multiplier = 1.00 − (reduction ÷ 100)`: 35% against Void and 25% against the other types therefore becomes **PALE 0.65** and **0.75** in the other three colors. If a defensive record already files multipliers, transcribe those values verbatim and do not convert them twice. A color with no filed rating remains **1.0**; where the dossier files no defensive profile at all, all four remain 1.0 and the absence is entered as a management note. Place-bodies in their Containment Form are not suppressed through this profile at all — they are worked, per Section VI, until they take a form that can be.
 
-Both systems utilize a four-element damage and defense architecture:
+#### Panic at an Emptied SP / Composure Ledger
 
-| LC Damage Type | Target Attribute | PS Han Element | Color | Target Attribute | Mechanical Identity in Combat |
-|---|---|---|---|---|---|
-| **RED** | Physical HP | **Grudge (  원한   )** | Crimson | Body (Physical HP) | Direct kinetic trauma; lacerations; breaks armor. |
-| **WHITE** | Sanity (SP) | **Lament (  탄식   )** | Deep Blue | Composure (Sanity) | Acoustic weeping; Composure drain; induces panic. |
-| **BLACK** | Dual HP & SP | **Weight (  무게   )** | Black | Body & Composure | Gravitational debt; crushes both physical HP and mental sanity. |
-| **PALE** | % Max HP | **Void (  공허   )** | Pale White | Existential Core (% HP) | True percentage damage; existential erasure; ignores physical armor. |
+When SP or Composure reaches 0, the acute state follows the person's **highest paired stat**, not the Element that emptied the ledger. The Somnarak state is **Pre-Fracture Panic** — reversible before staged Fracture — and its behaviors pair functionally with the native L Corp states:
 
-#### 8.1 Psychological Rupture & Panic States in Narrative
-When an operative's mental fortitude collapses, their behavior breaks down according to the setting's psychological nature. The lists below are narrative registers filed by this comparison for story use; the PS personnel-break system proper in the codices is **Fracture** — staged, sorrow-driven transformation — of which these acute rupture behaviours are scene-level presentations:
+| Highest paired stat | L Corp Panic State | Project Somnarak Pre-Fracture Panic |
+|---|---|---|
+| **Fortitude ↔ Resilience** | **Murder** — seeks other entities to attack with equipped gear; attack speed rises with Agent level | **Grudge Frenzy (Berserk)** — hallucinates colleagues as sorrow phantoms and attacks nearby allies at +50% attack speed |
+| **Prudence ↔ Clarity** | **Suicide** — stands in place for 30–60 seconds, then dies by their own hand instantly | **Void Catatonia (Suicide)** — kneels, tears away the Memory Anchor, and takes rapid self-inflicted Void damage until death |
+| **Temperance ↔ Composure** | **Wander** — roams screaming, dealing WHITE damage to others in the same room | **Lament Weeping (Wandering Echo)** — runs the hallways shrieking, dealing 15 Lament SP damage to personnel in rooms passed through |
+| **Justice ↔ Resolve** | **Shutdown / Open Containment Unit** — heads to counter-bearing units and bashes their doors to lower Qliphoth Counters | **Weight Sabotage (Containment Release)** — marches to containment cells and overrides emergency levers to release contained entities |
 
-- **Lobotomy Corporation (Sanity Collapse / Panic):**
-  * *Murderous Frenzy (High Fortitude):* The employee attacks nearby colleagues with equipped weapons.
-  * *Wandering (High Prudence):* The employee enters a daze, roaming corridors and opening containment doors.
-  * *Panic Suicide (High Temperance):* The employee takes their own life using their E.G.O weapon.
-  * *Catatonia (High Justice):* The employee freezes in terror, unable to act or flee.
-- **Project Somnarak (Composure Rupture /   침착 붕괴  ):**
-  * *Mournful Hysteria (Resilience Rupture):* The operative breaks into uncontrollable wailing, emitting Lament shockwaves that drain nearby allies' Composure.
-  * *Salt Paralysis (Clarity Rupture):* The operative's extremities calcify into brittle salt crust, reducing movement speed to zero and making them vulnerable to kinetic shatter.
-  * *Echo-Possession (Composure Rupture):* The operative's vocal cords mimic the acoustic frequency of the Sorrow Entity, turning them into a thrall.
-  * *Berserk Wrath (Resolve Rupture):* The operative lashes out in blind Grudge strikes, attacking friend and foe alike until subdued.
-
-### III. Damage Type Mapping
-
-|SOMNARAK Element|L Corp Damage Type|What It Attacks|Color|
-|---|---|---|---|
-|**Lament**|**WHITE**|Mind / Sanity / emotional stability|Deep Blue|
-|**Grudge**|**RED**|Body / HP / physical form|Crimson|
-|**Void**|**PALE**|Soul / percentage-based / identity erasure|Pale White|
-|**Weight**|**BLACK**|Both HP and Sanity simultaneously|Black|
+Recovery has the same shape but not the same inputs. In L Corp, WHITE or BLACK damage dealt to a panicking employee restores the SP gauge; at full SP the employee returns to control, while BLACK still carries its HP component. The R.D. protocol strikes the panicked operative with Lament or Void M.A.W. until the mental damage equals their maximum Composure, purging the unvented Han and restoring full Composure before Fracture. Degree I therefore uses the native L Corp state and recovery. A partial conversion may retain the home state and protocol only as a named retained trait; it is not assigned to L Corp employees by the damage color alone.
 
 ### Movement, Range, and Action Economy
 
-Somnarak field records may file Speed, range bands, and an action economy. A facility record does not run on action points, so translate the pattern, not the bookkeeping — except at Degree III, where a story may retain the home mechanics intact as named traits.
+Keep three Speed ledgers apart. The entity Core Stat line's **Speed** is locomotion — metres per second, fixed/N/A, expansion, or a qualitative track — and converts to roam, no-roam, drift, expansion, pursuit, or other filed body behavior without an action-point read. A battle-engine Speed/AP pattern, where a field combat record actually files one, converts pacing only in the table below. A M.A.W. Weapon's numeric Speed is attack cadence for Chapter 8, never the entity's locomotion.
 
-| Dossier movement pattern | LC breach movement profile | Suppression note |
+For Core Stat locomotion, fixed stays fixed unless the Breach Form files movement; measured travel reads by the dossier's behavior words — drift, crawl, walk, pursuit, dash, teleport — rather than by forcing metres per second into Speed Die bands. Unmeasured or disputed movement remains filed as unmeasured or disputed. Except at Degree III, where home mechanics may be retained intact as named traits, the facility record translates the pacing pattern rather than importing AP bookkeeping.
+
+| Filed battle-engine pacing | LC breach movement profile | Suppression note |
 |---|---|---|
-| Speed 1–2 · single move or light strike | Slow roam; short reposition between attacks | Contain by corridor control; do not let a slow profile be read as a safe profile |
-| Speed 3–4 · move + strike or double guard | Standard roam; attacks on the move between adjacent rooms | Focus fire during transit; guard elevators and department doors |
-| Speed 5–6 · rapid reposition, heavy skills queued | Fast roam or multi-room pressure; short warning before pattern skills | Pre-position resistant suits; interrupt at the filed stagger or pattern line |
-| Speed 7+ · multi-node dashes, apex pacing | Teleport-class, phase-class, or facility-pressure movement as filed | Treat distance as no defense; suppression is a department plan, not a chase |
+| Speed 1–2 · 1 AP: one basic strike or one node shift | Slow roam; short reposition between attacks | Contain by corridor control; do not let a slow profile be read as a safe profile |
+| Speed 3–4 · 2 AP: move + strike, or brace + strike | Standard roam; attacks on the move between adjacent rooms | Focus fire during transit; guard elevators and department doors |
+| Speed 5–6 · 3 AP: repositioning with a filed tactical or resonance skill | Fast roam or multi-room pressure; short warning before pattern skills | Pre-position resistant suits; interrupt at the filed stagger or pattern line |
+| Speed 7+ · 4+ AP: multi-action pacing and multi-node dashes | Fast multi-room or facility-pressure movement; blink, teleport, or phase movement only where filed | Treat distance as no defense; suppression is a department plan, not a chase |
 
-| Range band in the dossier | Output reach | Falloff rule |
+The Range Band below is the reach filed for an **entity attack pattern**. A weapon's Range value converts with the equipment in Chapter 8 and does not lengthen the entity's own reach.
+
+| Range band filed for the attack | Output reach | Falloff rule |
 |---|---|---|
 | Band 1 — point-blank | Contact attacks in the same room | Full filed value; the attacker is inside employee reach |
 | Band 2 — short melee | Room-scale melee | Full filed value at melee distance |
@@ -1507,11 +1492,20 @@ Somnarak field records may file Speed, range bands, and an action economy. A fac
 | Band 4 — long ranged | Multi-room / line-of-sight attacks | Minimum-distance or close-range penalties only where filed |
 | Band 5 — artillery / sovereign resonance | Department or facility pattern attacks | Stationary, telegraphed, or state-bound exactly as filed; never a casual work-damage value |
 
-The four home defensive reactions become manager orders, not dice: **Pass** — withdraw or kite the employee out of the pattern; **Pan** — reposition so the filed deflection path empties into safe space; **Par** — concentrate suppression to interrupt at a filed stagger line; **Po** — brace the employee whose suit resistance actually answers the incoming color. An order that no employee stat, suit, or filed rule supports is not a tactic; it is a hope, and it is not filed.
+#### The Four P-Framework in Facility Translation
+
+The home **Four P-Framework** is **Passives, Panic, Parry & Protection, and Posture** — four combat domains, not four reaction dice. They translate by function:
+
+- **Passives:** a named entity or weapon passive keeps its trigger and effect. No universal speed, range, bleed, or poise bonus is added from the framework name.
+- **Panic:** SP/Composure collapse follows the panic table above. Generic node-grid panic bookkeeping and equipment burden drain are not imported at Degree I or II; bearer burden files through Chapter 8 Composure Load unless home mechanics are explicitly retained.
+- **Parry & Protection:** active defense becomes manager positioning — withdraw or kite out of a telegraph, intercept at a chokepoint, focus suppression, and place the employee whose suit answers the incoming color. It does not grant a parry roll, guard shield, evade roll, or riposte unless the extracted gear or filed pattern itself grants that effect.
+- **Posture:** filed stagger or posture thresholds become named HP breakpoints, pattern disables, or interruption windows. The home dual-threshold track and its damage amplification are not added where the dossier's combat record does not carry them; Degree III may retain that track intact.
+
+An order that no employee stat, suit, or filed rule supports is not a tactic; it is a hope, and it is not filed.
 
 ### Pressure Riders and Resistance Transcription
 
-Work damage and breach damage are separate outputs wherever the dossier separates them; never average them into one convenient number. Status riders travel with their Element and trigger exactly as filed — a Lament rider that slows, a Weight rider that burdens movement, a Void rider that reads as percentage trauma — and are written into the LC record as named effects with durations, not as color flavor. Resistances transcribe in color order (Grudge→RED, Lament→WHITE, Weight→BLACK, Void→PALE) with values verbatim. Where the dossier files no resistance line, the output is neutral across all four colors and the absence is noted once.
+Work damage and breach damage are separate outputs wherever the dossier separates them; never average them into one convenient number. Status riders travel with their Element and trigger exactly as filed — a Grudge rider that bleeds, a Lament rider that slows, a Weight rider that burdens movement, or a Void rider that erases memory — and are written into the LC record as named effects with trigger, magnitude, and duration, not as color flavor. Resistance transcription follows the suppression profile above: Core Stat percentage reductions convert by `1.00 − (reduction ÷ 100)`, already-filed multipliers stay verbatim, and unrated colors remain 1.0. Do not borrow a M.A.W. Suit's equipment multipliers for the entity's body; those convert with the suit in Chapter 8.
 
 ---
 
@@ -1854,7 +1848,7 @@ On the world/professional plane, The City fields Fixers and Associations (Hana, 
 | **Cadre Hwa-Yong** |   화용   (*Hwayong*) | **Pyre-Alchemists & Salt-Incinerators** — Deploy chemical flamethrowers to incinerate crystallized salt crusts. | Liu Association (Flames and incineration) |
 | **Cadre Jeong-Bo** | 정보 (*Jeongbo*) | **Signals & Espionage** — intercept courier and vibration-wire traffic, decode it, and run covert action under Chim-Mok silence gear | Seven Association intelligence Fixers (professional analogue only) |
 | **Cadre Un-Song** | 운송 (*Unsong*) | **Overland Heavy Convoy** — armored transport of Han-Energy capacitors, Relic-Entities, and materiel along the Desolate corridors | Devyat Association (Courier and transport) |
-| **Cadre Ui-Ryo** | 의료 (*Uiryo*) | **Mnemonic & Bio-Suture** — treat Composure Rupture, suture Han-torn tissue, and stabilize damaged memory | Doctor Fixers / Biotechnical clinics |
+| **Cadre Ui-Ryo** | 의료 (*Uiryo*) | **Mnemonic & Bio-Suture** — treat Pre-Fracture Panic, suture Han-torn tissue, and stabilize damaged memory | Doctor Fixers / Biotechnical clinics |
 | **Cadre Gyeo-Tu** | 격투 (*Gyeotu*) | **Unarmed Han-Martial Arts** — close combat on the 10-node grid without drawn weapons | Close-combat specialist Fixers (professional analogue only) |
 
 ### 16. Story Expansion: Departmental Awakenings & Realization Wars
@@ -1895,7 +1889,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
 | **Attachment Work** | **Flerehan (  통곡한   / *Tonggokhan*)** | Containment via reciprocal empathetic weeping and emotional dialogue. |
 | **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via wrathful kinetic strikes to suppress entity growth. |
-| **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative suffers Composure Rupture. |
+| **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative enters Pre-Fracture Panic. |
 | **HP (Health Points)** | **Sorrow Gauge / Physical Durability** | Structural or biological integrity of entities and operatives. |
 | **The Manager (X)** | **Director Majin / The Dekan (데칸)** | One managerial chair, split at depth: Majin holds executive sovereignty (Floor 1); the Dekan, Containment Lead, is the seat containment work is dispatched from cycle to cycle. |
 | **Angela (AI Coordinator)** | **Echo-Core Floor Secretaries (서기관)** | Guidance, split at depth: one created coordinator remembering every loop there; nine Echo-Core Floor Secretaries here — archive, liaison, and memory distributed among persons bound to floors, not held in one mind. |

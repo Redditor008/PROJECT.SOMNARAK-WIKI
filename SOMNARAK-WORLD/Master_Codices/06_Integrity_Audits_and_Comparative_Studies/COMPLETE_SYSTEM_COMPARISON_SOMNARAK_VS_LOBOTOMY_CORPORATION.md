@@ -216,28 +216,29 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 
 ## 8. Elemental Damage Spectrum & Psychological Rupture
 
-Both systems utilize a four-element damage and defense architecture:
+Both systems utilize a four-element damage and defense architecture. Element/color determines the ledger struck; it does not automatically attach a status rider.
 
 | LC Damage Type | Target Attribute | PS Han Element | Color | Target Attribute | Mechanical Identity in Combat |
 |---|---|---|---|---|---|
-| **RED** | Physical HP | **Grudge (  원한   )** | Crimson | Body (Physical HP) | Direct kinetic trauma; lacerations; breaks armor. |
-| **WHITE** | Sanity (SP) | **Lament (  탄식   )** | Deep Blue | Composure (Sanity) | Acoustic weeping; Composure drain; induces panic. |
-| **BLACK** | Dual HP & SP | **Weight (  무게   )** | Black | Body & Composure | Gravitational debt; crushes both physical HP and mental sanity. |
-| **PALE** | % Max HP | **Void (  공허   )** | Pale White | Existential Core (% HP) | True percentage damage; existential erasure; ignores physical armor. |
+| **RED** | Physical HP | **Grudge (원한)** | Crimson | Body (Physical HP) | Physical trauma and hemorrhage expression; bleed, armor break, or part break only where a move files it. |
+| **WHITE** | Sanity (SP) | **Lament (탄식)** | Deep Blue | Composure (Sanity) | Grief and Composure drain; panic follows at SP/Composure 0; slowing or freezing only where filed. |
+| **BLACK** | Dual HP & SP | **Weight (무게)** | Black | Body & Composure | Accumulated Han/debt expressed on both ledgers; burden, work delay, knockback, or stagger buildup only where filed. |
+| **PALE** | % Max HP | **Void (공허)** | Pale White | Soul / identity (% pressure) | Percentage erasure pressure; still meets PALE resistance; memory erasure, silencing, or armor bypass only where filed. |
 
-### 8.1 Psychological Rupture & Panic States in Narrative
-When an operative's mental fortitude collapses, their behavior breaks down according to the setting's psychological nature. The lists below are narrative registers filed by this comparison for story use; the PS personnel-break system proper in the codices is **Fracture** — staged, sorrow-driven transformation — of which these acute rupture behaviours are scene-level presentations:
+**Resistance ledgers stay separate.** An entity's Core Stat **Resistance** files percentage damage reduction, so conversion to an LC damage-taken multiplier is `1.00 − (reduction ÷ 100)` in color order. M.A.W. Suit resistances already file multipliers and transcribe verbatim with the equipment; the suit ledger is never borrowed for the entity's suppression body.
 
-- **Lobotomy Corporation (Sanity Collapse / Panic):**
-  * *Murderous Frenzy (High Fortitude):* The employee attacks nearby colleagues with equipped weapons.
-  * *Wandering (High Prudence):* The employee enters a daze, roaming corridors and opening containment doors.
-  * *Panic Suicide (High Temperance):* The employee takes their own life using their E.G.O weapon.
-  * *Catatonia (High Justice):* The employee freezes in terror, unable to act or flee.
-- **Project Somnarak (Composure Rupture /   침착 붕괴  ):**
-  * *Mournful Hysteria (Resilience Rupture):* The operative breaks into uncontrollable wailing, emitting Lament shockwaves that drain nearby allies' Composure.
-  * *Salt Paralysis (Clarity Rupture):* The operative's extremities calcify into brittle salt crust, reducing movement speed to zero and making them vulnerable to kinetic shatter.
-  * *Echo-Possession (Composure Rupture):* The operative's vocal cords mimic the acoustic frequency of the Sorrow Entity, turning them into a thrall.
-  * *Berserk Wrath (Resolve Rupture):* The operative lashes out in blind Grudge strikes, attacking friend and foe alike until subdued.
+### 8.1 Psychological Rupture & Panic States
+
+When SP or Composure reaches 0, the acute state follows the person's **highest paired stat**, not the Element that emptied the ledger. The Somnarak state is **Pre-Fracture Panic** — reversible before staged Fracture — and its behaviors pair functionally with the native L Corp states:
+
+| Highest paired stat | L Corp Panic State | Project Somnarak Pre-Fracture Panic |
+|---|---|---|
+| **Fortitude ↔ Resilience** | **Murder** — seeks other entities to attack with equipped gear; attack speed rises with Agent level | **Grudge Frenzy (Berserk)** — hallucinates colleagues as sorrow phantoms and attacks nearby allies at +50% attack speed |
+| **Prudence ↔ Clarity** | **Suicide** — stands in place for 30–60 seconds, then dies by their own hand instantly | **Void Catatonia (Suicide)** — kneels, tears away the Memory Anchor, and takes rapid self-inflicted Void damage until death |
+| **Temperance ↔ Composure** | **Wander** — roams screaming, dealing WHITE damage to others in the same room | **Lament Weeping (Wandering Echo)** — runs the hallways shrieking, dealing 15 Lament SP damage to personnel in rooms passed through |
+| **Justice ↔ Resolve** | **Shutdown / Open Containment Unit** — heads to counter-bearing units and bashes their doors to lower Qliphoth Counters | **Weight Sabotage (Containment Release)** — marches to containment cells and overrides emergency levers to release contained entities |
+
+Recovery has the same shape but not the same inputs. In L Corp, WHITE or BLACK damage dealt to a panicking employee restores the SP gauge; at full SP the employee returns to control, while BLACK still carries its HP component. The R.D. protocol strikes the panicked operative with Lament or Void M.A.W. until the mental damage equals their maximum Composure, purging the unvented Han and restoring full Composure before Fracture.
 
 ---
 
@@ -364,7 +365,7 @@ On the world/professional plane, The City fields Fixers and Associations (Hana, 
 | **Cadre Hwa-Yong** |   화용   (*Hwayong*) | **Pyre-Alchemists & Salt-Incinerators** — Deploy chemical flamethrowers to incinerate crystallized salt crusts. | Liu Association (Flames and incineration) |
 | **Cadre Jeong-Bo** | 정보 (*Jeongbo*) | **Signals & Espionage** — intercept courier and vibration-wire traffic, decode it, and run covert action under Chim-Mok silence gear | Seven Association intelligence Fixers (professional analogue only) |
 | **Cadre Un-Song** | 운송 (*Unsong*) | **Overland Heavy Convoy** — armored transport of Han-Energy capacitors, Relic-Entities, and materiel along the Desolate corridors | Devyat Association (Courier and transport) |
-| **Cadre Ui-Ryo** | 의료 (*Uiryo*) | **Mnemonic & Bio-Suture** — treat Composure Rupture, suture Han-torn tissue, and stabilize damaged memory | Doctor Fixers / Biotechnical clinics |
+| **Cadre Ui-Ryo** | 의료 (*Uiryo*) | **Mnemonic & Bio-Suture** — treat Pre-Fracture Panic, suture Han-torn tissue, and stabilize damaged memory | Doctor Fixers / Biotechnical clinics |
 | **Cadre Gyeo-Tu** | 격투 (*Gyeotu*) | **Unarmed Han-Martial Arts** — close combat on the 10-node grid without drawn weapons | Close-combat specialist Fixers (professional analogue only) |
 
 ---
@@ -426,7 +427,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
 | **Attachment Work** | **Flerehan (  통곡한   / *Tonggokhan*)** | Containment via reciprocal empathetic weeping and emotional dialogue. |
 | **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via wrathful kinetic strikes to suppress entity growth. |
-| **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative suffers Composure Rupture. |
+| **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative enters Pre-Fracture Panic. |
 | **HP (Health Points)** | **Sorrow Gauge / Physical Durability** | Structural or biological integrity of entities and operatives. |
 | **The Manager (X)** | **Director Majin / The Dekan (데칸)** | One managerial chair, split at depth: Majin holds executive sovereignty (Floor 1); the Dekan, Containment Lead, is the seat containment work is dispatched from cycle to cycle. |
 | **Angela (AI Coordinator)** | **Echo-Core Floor Secretaries (서기관)** | Guidance, split at depth: one created coordinator remembering every loop there; nine Echo-Core Floor Secretaries here — archive, liaison, and memory distributed among persons bound to floors, not held in one mind. |
