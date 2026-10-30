@@ -272,22 +272,25 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 ### For AI-Assisted Entity Transformation (Well of Cogito grabs a Somnarak Entity)
 
 
-> *Give this document to an AI along with a Somnarak Entity file. The AI can use these mappings to transform the Sorrow Entity into a Lobotomy Corporation Abnormality. Every field in the entity file has an L Corp equivalent listed here.*
+> *Give this document to an AI along with a Somnarak Entity file. The AI can use these mappings to transform the Sorrow Entity into a Lobotomy Corporation Abnormality. Each filed surface receives a converted destination, a derivation, a retained home-only filing, or a HOLD; absence of an L Corp equivalent is stated rather than filled by resemblance.*
 
-### X. Narrative Section Mapping
+### X. Narrative and Record-Only Sections
 
-| Somnarak Section | L Corp Equivalent | Notes |
+The dossier's narrative and archival sections are distinct source layers, not interchangeable names for one LC Story box. File each by the work it performs in the source record. Where a layer has no LC record slot, retain it in the conversion record or note; **no equivalent never means delete, average, or promote the nearest-sounding heading**.
+
+| Somnarak section | Converted filing | Boundary |
 |---|---|---|
-| **이야기 보고 (Story Log)** | **Story tab entries** | Numbered lore entries unlocked via Observation Levels |
-| **최종 관찰 (Final Observation)** | **Final Observation** | Choice-based success/fail observation event |
-| **감각 묘사 (Flavor Text)** | **Flavor Text** | In-world sensory descriptions during work |
-| **증언 (Testimonium)** | **(part of Story / Managerial Tips)** | First-person quotes from personnel |
-| **기록 (Registrum)** | **Abnormality Details page** | Classification, containment, threat assessment |
-| **관찰 기록 (Observation Log)** | **Managerial Tips** | Notes on how to handle the entity |
-| **상호작용 (Entity Interactions)** | **(no direct equivalent)** | Somnarak-specific: how entities interact with each other |
-| **이야기 (Narratio)** | **(part of Story / lore)** | The entity's full narrative tale |
-| **Trivia** | **Trivia** | Same concept |
-| **Registry Addendum** | **(no direct equivalent)** | Somnarak-specific: operational interpretation + review requirement |
+| **Origin** | **Designation evidence + Story background** | Formation, the Sorrow, the Event, and the People explain the form and its response to personnel; they support the Chapter 3 category read and the final Story context, but are not chopped into extra numbered Story entries |
+| **관찰 기록 (Observation Log)**, with **Observation Progression** where filed | **Management evidence + Chapter 9 unlock order** | Explicit handling statements may become Management Tips; observations and the Personnel Note remain evidence in their own voice. The whole section is not Management Tips |
+| **이야기 보고 (Story Log) — Observation Entries** | **Story entries, in the filed sequence** | Preserve the Entry order and count (five in the standard dossier shape) under the Chapter 9 gates. For a Tool output, the dossier's filed Tool Use Profile **Log and Method** entries occupy the native Log and Method surface instead; do not rewrite Story entries as Method |
+| **최종 관찰 (Final Observation)** | **Final Observation closing event** | Keep the filed choice and its OBSERVATION SUCCESS / FAIL consequences together. Current native Details records have no standing Final Observation unlock—the named surface is Legacy—so this remains a retained Somnarak event, not a native slot |
+| **감각 묘사 (Flavor Text)** | **Flavor Text** | Preserve the contact order—first contact, continued exposure, activation, and after departure. A filed sensory warning may cross-file to Management Tips only when it states an operational sign |
+| **Interaction Pattern / Entity Interaction Record**, usually nested under Flavor; **상호작용 (Entity Interactions)** where filed as its own heading | **Cross-entity condition or retained relation** | No standalone current LC record slot. A tested mechanical trigger may become an Ability condition or Management Tip exactly as filed; asserted, thematic, or unsettled relations remain relations, not pair bonuses |
+| **이야기 (Narratio) — The Tale** | **Final Story prose, whole** | Converts last, after the Story Log. The standard 350–500+ word shape is a dossier guide, not authority to cut or pad a filed Tale |
+| **증언 (Testimonium) — The Testimony** | **Story witness block** | Quoted voices remain attributed testimony. A quote becomes a Management Tip only when it states a rule that the operational sections also support |
+| **기록 (Registrum) — The Record**, with **Registry Addendum** where filed | **Source cross-check + review note** | Registrum is the formal home summary; the Addendum carries operational interpretation and review requirements. Neither section is, by itself, the whole Abnormality Details record |
+| **Named additional Record**, where filed (Warden Record, Apex Record, Watch Record, Sovereign Chronicle, or another dossier-filed coda) | **Retained source coda; cross-filed passages** | Narrative remains after the Tale in source order. Explicit operational passages may feed Management Tips or Escape Information; the coda is not Trivia and has no native named slot |
+| **Trivia** and **Document Information** | **Record-note detail + provenance** | Canonical details and the Document ID, author, in-world date, and classification stay attached to the conversion packet; archive metadata is not an Encyclopedia unlock |
 
 ### XI. Organization Mapping
 
@@ -302,21 +305,6 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 | **Wardens** | **(Security Team / Captain)** | Municipal order/defense faction incl. border watch vs Outside Sorrow; not Facility 01 Security department |
 | **Keepers** | **(Record Team / Information)** | Civic archive/memory faction recording all Three Sorrows; Facility 01 records sit with its own archive floors |
 | **Collectors** | **(External extraction / Finance)** | Civic debt/Echo enforcement managing Inner Sorrow burdens; external to the Facility 01 extraction chain |
-
-### XI. Narrative Section Mapping
-
-| Somnarak Section | L Corp Equivalent | Notes |
-|---|---|---|
-| **이야기 보고 (Story Log)** | **Story tab entries** | 5 numbered entries unlocked via Observation Levels |
-| **최종 관찰 (Final Observation)** | **Final Observation** | Choice-based success/fail observation |
-| **감각 묘사 (Flavor Text)** | **Flavor Text** | Sensory descriptions during work |
-| **증언 (Testimonium)** | *(part of Story)* | First-person personnel quotes |
-| **기록 (Registrum)** | **Abnormality Details page** | Classification, containment, threat |
-| **관찰 기록 (Observation Log)** | **Managerial Tips** | How to handle the entity |
-| **상호작용 (Entity Interactions)** | *(no direct equivalent)* | How entities interact with each other |
-| **이야기 (Narratio)** | *(part of Story / lore)* | Full narrative tale (350–500 words) |
-| **Trivia** | **Trivia** | Same concept |
-| **Registry Addendum** | *(no direct equivalent)* | Operational interpretation + review |
 
 ### XII. Organization Mapping
 
@@ -333,52 +321,21 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 | **Collectors** | *(External extraction)* | Civic debt/Echo enforcement managing Inner Sorrow burdens; external to the Facility 01 extraction chain |
 | **Facility 01 floors / containment sectors** | **Departments / Floors** | Facility divisions inside the Absolvohan (Zones A–E are Somnarak city zones, world plane) |
 
-### XXI. Document Structure Comparison
+### XXI. Dossier-to-Record Structure
 
-Side-by-side comparison of which sections exist in each system's document:
+A Sorrow Entity dossier is a full home archive; an LC Details/Encyclopedia record is a gated operating surface. The correspondence below therefore states **destination and filing relation**, not renamed one-to-one sections. A regular converted record presents Basic Info, Work Preferences, Management Tips, Escape Information, E.G.O, Story, and Flavor Text. A converted Tool instead presents its Ability and interaction-amount **Log and Method**; its source M.A.W. equipment still follows the separate Chapter 8 equipment path.
 
-| Section | Somnarak SE Document | L Corp Abnormality Document |
+| Dossier surface | LC record surface | Filing relation |
 |---|---|---|
-| **Classification** | SECC Designation table | Subject Number + Risk Level |
-| **Operational Parameters** | Stats, work difficulty, Han-Energy yield, Han Pressure [ATK] | E-Boxes, Qliphoth Counter, Work Damage |
-| **Combat Record** | Core Stat Line, Combat Actions (6), Battle Phases, Consequences | Managerial Works, Escape Information |
-| **Appearance** | Detailed physical description + Detailed Appearance Profile | Portrait, basic description |
-| **Origin** | Formation, Sorrow, Event, People, Expanded context | Origin story (if available) |
-| **Behavior** | Work Type responses (Flerehan/Pugnahan/Viderehan/Ferrehan) | Work Preferences/Favor (Attachment/Repression/Insight/Instinct) |
-| **Breach Behavior** | Detailed breach mechanics + Escalation Notes + Detailed Record | Escape Information + defenses |
-| **Equipment** | M.A.W. (Weapon, Suit, Gift) + Use Notes + Field Use Record | E.G.O (Weapon, Suit, Gift) |
-| **Observation Log** | 관찰 기록 + Observation Progression | Encyclopedia sections (unlockable) |
-| **Story Log** | 이야기 보고 — 5 numbered fragmentary entries | Story tab entries |
-| **Final Observation** | 최종 관찰 — choice-based success/fail event | Final Observation (some abnormalities) |
-| **Flavor Text** | 감각 묘사 — sensory descriptions | In-game flavor text |
-| **Entity Interactions** | 상호작용 — how entities interact with each other | *(no equivalent)* |
-| **Tale** | 이야기 — full narrative story (350–500 words) | *(no equivalent — folded into Story)* |
-| **Testimony** | 증언 — first-person personnel quotes | *(part of Story / Managerial Tips)* |
-| **Record** | 기록 — classification, containment, threat, procedures | Abnormality Details page |
-| **Registry Addendum** | Operational interpretation + review requirement | *(no equivalent)* |
-| **Trivia** | Canon trivia + Registry Trivia | Trivia section |
-
-### IX. Document Structure Comparison
-
-|Section|SOMNARAK SE Document|L Corp Abnormality Document|
-|---|---|---|
-|**Classification**|SECC Designation table|Subject Number + Risk Level|
-|**Operational Parameters**|Stats, work difficulty, energy yield|E-Boxes, Qliphoth Counter|
-|**Combat Record**|Detailed combat actions, phases|Managerial Works, Escape Information|
-|**Appearance**|Detailed physical description|Portrait, basic description|
-|**Origin**|Formation story, sorrow source|Origin story (if available)|
-|**Behavior**|Work Type responses|Work Preferences/Favor|
-|**Breach Behavior**|Detailed breach mechanics|Escape Information|
-|**Equipment**|M.A.W. (Weapon, Suit, Gift)|E.G.O (Weapon, Suit, Gift)|
-|**Observation Log**|Progressive observations|Encyclopedia sections|
-|**Story Log**|Lore entries unlocked by observation|Story tab entries|
-|**Final Observation**|Choice-based event|N/A|
-|**Flavor Text**|Sensory descriptions|In-game text|
-|**Entity Interactions**|How entities interact with each other|N/A|
-|**Tale**|Full narrative story|N/A|
-|**Testimony**|First-person quotes|Managerial Works quotes|
-|**Record**|Classification and handling|Abnormality Details|
-|**Trivia**|Fun facts|Trivia section|
+| **Title, Korean name, and opening quote** | **Selection / Basic Info name and quote** | Carry the names and quote verbatim. The quote's origin remains unknown and the four-digit `0###` serial is not corrected (Chapter 9) |
+| **SECC Classification** | **Basic Info aliases + derivation inputs** | Designation, Entity/Tool Type where filed, Coherence, Potency, Sorrow Category, Element, Manifestation, Physical Form, Movement, Location, and Comprehension stay available for cross-reference; Subject Number and Risk are derived in Chapters 3–4, never copied from the SECC string |
+| **Operational Parameters**, with **Operational Notes** where filed | **Appendix B worksheet; numeric inputs to Basic Info and Management Tips** | Potency-mirrored risk tier, role/pressure where filed, Starting Sorrow Gauge, Han-Energy yield, work difficulty, threshold register, vessel/Han Dust, and recommended response. These field-simulation parameters support the record without replacing SECC Classification; yield and counters derive only through Chapters 4 and 6 |
+| **Combat Record** — Core Stat Line, Combat Actions, Battle Phases, Consequences | **Escape Information + special abilities; derived Basic Info values** | The Core Stat Line supplies the Chapter 4 and Chapter 7 stat derivations. Bespoke Combat Actions in the Debuff / Attack / Heavy / Ultimate categories become filed attack patterns, not a fixed action count; phases and consequences file suppression stages, return conditions, and lasting outcomes. Combat Record does **not** set Work Preferences |
+| **Appearance**, with **Detailed Appearance Profile** where filed | **Presented appearance and form record** | Physical Form, Notable Features, Identification Profile, and the detailed profile distinguish the body as housed from any filed Breach Form; unattested portions remain unwritten rather than completed |
+| **Behavior & Work Types**, with **Operational Work Notes** where filed | **Work Preferences + Management Tips** | The Work Type response table is the source for the Chapter 5 work read. Prohibited works and backfire enter at the method gate, not as late story |
+| **Event-behavior section under its filed heading** — Breach Behavior, Activation Behavior, Expansion Behavior, or Containment Event Behavior; two headings only where the dossier files both | **Ability, Management Tips, and Escape Information as the operation requires** | Keep the filed heading in the worksheet. An escaping body, an activation, an expansion, and a containment event are different operations; Escalation Notes and a Detailed Activation Record where filed are evidence inside that operation, not separate native sections |
+| **M.A.W. Equipment**, with **Tool Use Profile**, **Use Notes**, and **Field Use Record** where filed | **E.G.O Weapon / Suit / Gift output; Tool Ability + Log and Method when the entity itself converts as a Tool** | Home pieces remain Weapon / Suit / **Stigma**; there is no “M.A.W. Gift.” Piece Risk, bearer costs, use-shape, warning flags, and return or closure follow Chapter 8—not the entity's Risk by resemblance |
+| **Narrative and record-only sections** | **Filed by Section X above** | Origin, Observation, Story, Final Observation, Flavor/interactions, Tale, Testimony, Registrum/Addendum, any named additional Record, Trivia, and Document Information retain their separate functions; absence of a native slot is recorded, not normalized away |
 
 ### 3. Facility Architecture & Bureaucratic Hierarchy
 
@@ -1731,7 +1688,7 @@ When a Somnarak Sorrow Entity arrives in the L Corp universe through the Well of
 
 6. **HP Conversion:** the dossier Sorrow Gauge record converts to L Corp HP via the filed tier multiplier (Chapter 4). Always round up; the Gauge is the source value, not a pre-converted HP pool.
 
-7. **Narrative Translation:** The Somnarak Story Log (5 entries) becomes L Corp Story tab entries. The Final Observation becomes a Final Observation event. The Tale and Testimony sections fold into the Story/lore. Entity Interactions and Registry Addendum have no L Corp equivalent and may be dropped or kept as supplementary lore.
+7. **Narrative Translation:** The Story Log becomes Story entries in its filed sequence and count. Final Observation remains the filed closing decision event, not a standing current-Details unlock. The Tale converts last and whole; Testimony remains an attributed witness block. Interactions, Registrum/Addendum, and any named additional Record have no standalone LC slot, so they stay in the conversion record and cross-file only their explicitly operational passages—never drop them merely for lacking a slot (Chapter 2 §X).
 
 8. **The Terminal (S.A.M.S.):** The Somnarak Abnormality Management System would serve as the bridge terminal between the two systems — containing the conversion tables, R.D. Attribute tracking, and real-time Threat Score calculation for any Somnarak entity the Well of Cogito pulls in. L Corp employees would access S.A.M.S. data through their standard terminal interface.
 
@@ -1947,11 +1904,11 @@ When the Well of Cogito grabs a Somnarak Entity:
 | 7 | Han-Energy yield | **PE-Box count** (tier band) + **PE-equivalent quota value** (88/12 density split) |
 | 8 | Sorrow Gauge % / Activation Thresholds | **Qliphoth Counter derivation** (separate channels) |
 | 9 | M.A.W. Equipment | **E.G.O** (Weapon/Suit/Gift) |
-| 10 | Story Log | **Story tab entries** |
-| 11 | Final Observation | **Final Observation** |
+| 10 | Story Log | **Story entries in filed sequence** |
+| 11 | Final Observation | **Final Observation closing event** (retained event; no standing current-Details slot) |
 | 12 | Flavor Text | **Flavor Text** |
-| 13 | Origin / Narratio | **Story / lore** |
-| 14 | Breach Behavior | **Breach mechanics + abilities** |
+| 13 | Origin / Narratio | **Story background + final Tale prose** |
+| 14 | Filed event-behavior section | **Ability, Management Tips, and Escape Information as the operation requires** |
 | 15 | Combat Actions | **Special abilities** |
 
 ### XXII. Important Rules
@@ -1965,7 +1922,7 @@ When the Well of Cogito grabs a Somnarak Entity:
 7. Preserve the **5 × 5 × 5** code system: Origin (3+), Coherence (5), Potency (5), Element (5), Manifestation (5).
 8. Preserve **Somnarak Elements**: Lament/Grudge/Void/Weight/Mixed.
 9. **R.D. Attributes** (Composure/Resolve/Clarity/Resilience) are crossover stats for L Corp employees exposed to Han — they start at Level 0.
-10. Every Somnarak entity file follows the **fixed template structure** (SECC Classification → Operational Parameters → Combat Record → Appearance → Origin → Behavior → Breach → M.A.W. → Observation → Story Log → Final Observation → Flavor → Interactions → Tale → Testimony → Record → Trivia → Document Info).
+10. Read every Somnarak entity file in its filed order. The standard spine is SECC Classification → Operational Parameters → Combat Record → Appearance → Origin → Behavior & Work Types → the filed event-behavior heading → M.A.W. Equipment → Observation Log → Story Log → Final Observation → Flavor Text (with interaction pattern/record where nested, or Entity Interactions where separately headed) → Tale → Testimony → Registrum/Addendum → any named additional Record → Trivia → Document Information. Optional profiles and variant event headings are read as filed, never normalized away (Chapter 2 §§X, XXI).
 11. External crossover or parody entities go outside the main canon roster.
 12. Uploaded canon/reference files remain immutable.
 

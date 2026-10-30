@@ -172,6 +172,18 @@ Lobotomy Corporation ranks Abnormalities through a five-tier Hebrew risk scale. 
 In Lobotomy Corporation, breached entities exit containment and roam corridors while maintaining their physical form. In Project Somnarak, specific apex Place entities undergo structural metamorphosis upon containment failure:
 - Example: *The Maw* (`C-IVω-001 [GP]`), normally a stationary subterranean containment chamber, tears itself free from the surrounding rock stratum during breach, transforming into the mobile walking titan `C-IVω-001-B [GS]`.
 
+### 5.2 Entity Record Structure
+
+The two archives do not have the same shape. A current L Corp record is a gated operating surface—Basic Info, Work Preferences, Management Tips, Escape Information, E.G.O, Story, and Flavor Text, with Tool Abnormalities using Ability plus interaction-amount **Log and Method** instead. A Sorrow Entity dossier is a fuller home archive whose sections must be read by function before any of them are compared:
+
+| Record layer | Lobotomy Corporation | Project Somnarak | Filing relation |
+|---|---|---|---|
+| Identity and operations | Basic Info and derived work values | SECC Classification, Operational Parameters, and Combat Record | Home fields supply aliases and derivation inputs; they are not renamed LC fields |
+| Work and event behavior | Work Preferences, Management Tips, Escape Information, and Abilities | Behavior & Work Types plus the filed Breach / Activation / Expansion / Containment Event heading | The heading states the operation; escaping, activating, expanding, and event behavior are not one generic “breach” surface |
+| Equipment | E.G.O Weapon / Suit / Gift | M.A.W. Weapon / Suit / Stigma, with Tool Use Profile where filed | Piece channels remain separate from entity Risk; “M.A.W. Gift” is not a home class |
+| Narrative disclosure | Gated Story and Flavor Text; no standing Final Observation slot in current Details | Origin, Observation Log, Story Log, Final Observation, Flavor Text, Tale, and Testimony | The layers remain distinct—Story entries, final prose, witness block, sensory record, and retained closing event are not interchangeable |
+| Home-only archive layers | No standing counterpart section | Interaction records, Registrum and Registry Addendum, any named additional Record, Trivia, and Document Information | Retain or cross-file explicitly operational passages; lack of an LC slot is an asymmetry, not permission to erase |
+
 ---
 
 ## 6. Health Pools (HP) & Durability Scaling (The 10,000 HP Update)
