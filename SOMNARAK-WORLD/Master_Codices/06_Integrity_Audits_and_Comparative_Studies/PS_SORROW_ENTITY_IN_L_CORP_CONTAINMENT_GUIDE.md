@@ -947,314 +947,83 @@ A rated entity still has to be worked by people. This chapter pairs the four dis
 
 **Facility Work Protocols // Cogito vs Han Conversion**
 
-| L Corp Work Type | PS Analog | Subject SE | Inanimate SE [O/P/T] |
-|---|---|---|---|
-| Instinct Work | Ferrehan (End) | Pos High · Neg Moderate — exhaustion risk | Permitted — Gravitational Bearing |
-| Insight Work | Viderehan (Obs) | Pos Low · Neg Low — mental-fatigue risk | Permitted — Memory Witnessing |
-| Attachment Work | Flerehan (Cath) | Pos Moderate · Neg Low — emotional-drain risk | **PROHIBITED — filed backfire (0 PE)** |
-| Repression Work | Pugnahan (Clsh) | Pos High · Neg High — physical-damage risk | **PROHIBITED — filed backfire (0 PE)** |
+| L Corp Work Type | PS Analog (Axis · Element) | Method | Subject Discipline Profile | Inanimate Entity `[O/P/T]` Rule |
+|---|---|---|---|---|
+| **Instinct** | **Ferrehan (인내한 / *Innaehan* — Endurance)** — Mental · Weight | Bear the filed ambient burden and presence | Positive *High* / Negative *Moderate* — Risk: *Exhaustion* | **Permitted** — *Gravitational Bearing* |
+| **Insight** | **Viderehan (관조한 / *Gwanjohan* — Observation)** — Mental · Void | Witness and record the filed signs and patterns at the filed observation position | Positive *Low* / Negative *Low* — Risk: *Mental fatigue* | **Permitted** — *Memory Witnessing* |
+| **Attachment** | **Flerehan (통곡한 / *Tonggokhan* — Tears / Catharsis)** — Physical · Lament | Empathic dialogue and reciprocal weeping | Positive *Moderate* / Negative *Low* — Risk: *Emotional drain* | **PROHIBITED** — filed backfire (0 PE) |
+| **Repression** | **Pugnahan (격투한 / *Gyeoktuhan* — Confrontation)** — Physical · Grudge | Confront and resist the filed aggression or contact | Positive *High* / Negative *High* — Risk: *Physical damage* | **PROHIBITED** — filed backfire (0 PE) |
 
-
-Subject-column profiles are the R.D. codex's generic Positive/Negative Han-Energy tendencies per discipline. They profile the *discipline*, never the entity: converted work favor, PE yield, and counter movement read from the entity's Behavior table and filed counter law (Work-Outcome Translation in Detail, this chapter).
+The Subject-column profiles are the R.D. codex's generic Positive/Negative Han-Energy tendencies and discipline risks per discipline. They profile the discipline, never the entity: a converted record's work favor, PE yield, and counter movement read from the entity's Behavior table and filed counter law (Work-Outcome Translation in Detail, this chapter), never from this table. The Axis · Element pair likewise names the Somnarak discipline's form; it does not make that work favorable to every entity of the named Element.
 
 In Lobotomy Corporation, agents are accustomed to performing Instinct, Insight, Attachment, and Repression on almost every Abnormality. **With Sorrow Entities, this standard operating procedure will cause immediate fatalities if applied blindly.**
 
-#### 1. Subject Entities (`[S]` — Mobile, Conscious Forms)
+#### 1. Subject Components (`[S]`)
+
 For entities classified with a Subject manifestation (e.g., *Kind Echo* `C-Iα-000 [LS]`, *Double Mouth* `C-IIβ-716 [GS]`):
-- **Insight Work (Viderehan Analog):** Agent monitors the entity's acoustic breathing and posture from within the chamber. The lowest-energy discipline (Pos Low · Neg Low) and the highest Comprehension yield in the codex; outcome and counter movement read from the Behavior table.
-- **Instinct Work (Ferrehan Analog):** Agent endures the chamber's heavy atmospheric pressure and cold (Pos High · Neg Moderate; exhaustion risk) — staff high-Resilience agents; yield reads from the Behavior table.
-- **Attachment Work (Flerehan Analog):** Agent communicates empathetically, weeping with the entity (Pos Moderate · Neg Low; emotional-drain risk). Staff by Composure (primary, §IV.3); where the dossier files polarized Flerehan outcomes or a named failure effect, the filed line binds as written.
-- **Repression Work (Pugnahan Analog):** Agent deploys suppression batons to strike the entity (Pos High · Neg High; physical-damage risk). Counter movement follows the filed counter law — repeated Repression never substitutes as a counter mechanic.
+
+* **Insight (Viderehan):** The agent witnesses the entity's filed acoustic, postural, and resonance signs from the position its work line files — inside the chamber, at its margin, or through instruments. This method yields the lowest base energy results but the highest Entity Comprehension yield. Work outcomes, counter movement, and the filed risk bind as the entity's Behavior files them.
+* **Instinct (Ferrehan):** The agent bears the entity's ambient pressure, cold, or filed burden in person (Pos: *High* / Neg: *Moderate* profile). Staff high-Resilience agents; yield reads from the Behavior table.
+* **Attachment (Flerehan):** The agent communicates empathetically, weeping with the entity (Pos: *Moderate* / Neg: *Low* profile; emotional-drain risk). Staff by Composure (primary, §IV.3); where the dossier files polarized Flerehan outcomes or a named failure effect, the filed line binds as written.
+* **Repression (Pugnahan):** The agent confronts and withstands the entity's filed aggression or contact (Pos: *High* / Neg: *High* profile). Counter movement follows the filed counter law — repeated Repression never substitutes as a counter mechanic.
 
 #### 2. Inanimate Entities (`[O]`, `[P]`, `[T]` — Relics, Places, Times; `[H]` Hybrids by Component)
+
 **THE MANAGER MUST ENFORCE THE TWO-WORK-TYPE RULE WITHOUT EXCEPTION:**
+
 - **Hybrid (`[H]`) entities** file multiple manifestation types: apply this rule to each inanimate component, and work any filed Subject component under item 1 above. `[H]` reads **Hybrid** in the SECC code list.
-- **Instinct & Insight Work:** The ONLY permitted actions, filed in the codex as **Ferrehan (Gravitational Bearing)** and **Viderehan (Memory Witnessing)** on inanimate entities. The agent witnesses and records energy oscillations (Insight) or bears and reinforces physical isolation seals (Instinct).
-- **Attachment Work — LETHAL PSYCHIC COLLAPSE:**  
-  * *Reason:* An inanimate relic, an empty flooded district, or a temporal rift possesses no personal psyche to comfort.
-  * *Consequence:* The agent attempts to project human empathy into a lifeless void, and the void reflects nothing back. Automatic work failure and severe psychic backfire follow — filed presentations run to full SP collapse, screaming in an unknown tongue, and cerebral hemorrhage — with a Sorrow Gauge surge where a Gauge channel is filed. Zero PE-Boxes produced. The dossier's own backfire line binds where it differs.
-- **Repression Work — KINETIC CONTAINMENT RUPTURE:**  
-  * *Reason:* An inanimate monument or geographic district has no biological anatomy to strike.
-  * *Consequence:* The kinetic energy of the agent's weapon deflects off the entity's indestructible bedrock. The reflected shockwave can shatter the chamber's containment glass, and the filed counter channel is driven exactly as the dossier's backfire line files it — automatic failure, never a usable counter mechanic.
 
-#### 3. R.D. Attributes — Levels, Work Interactions, and Nugget Acquisition (owner's Attribute Levels add-on)
+* **Insight (Viderehan Permitted):** The agent acts as a Memory Witness, observing geometric spaces and recording localized distortions.
+* **Instinct (Ferrehan Permitted):** The agent acts as a Gravitational Bearer, sitting in silent meditation to bear and reinforce physical isolation seals.
+* **Attachment (PROHIBITED):** Inanimate entities possess no psyche to empathize with. Attempting Flerehan is an automatic failure paying **0 PE**, and the dossier's own filed backfire law binds as written — the generic profile runs to full SP collapse, screaming in an unknown tongue, and cerebral hemorrhage; Gauge surges only where the dossier files a Gauge channel. The Manager must enforce absolute work restrictions on all `[O/P/T]` class chambers.
+* **Repression (PROHIBITED):** Inanimate entities cannot be confronted as a Subject opponent. Attempting Pugnahan is an automatic failure paying **0 PE**, and the dossier's own filed backfire law binds as written; a prohibited attempt is never a usable counter mechanic. The Manager must enforce absolute work restrictions on all `[O/P/T]` class chambers.
 
-Facility work against a transported SE is *also* Han exposure, and Somnarak measures the personnel side of that exposure with four **R.D. Attributes** (stated in full in this chapter, immediately below). In-facility work pairs each R.D. Attribute to an LC governing stat **by work function**:
+#### 3. R.D. Attributes — Personnel Statistics & The Han-Exposure Acquisition
 
-| Work pair | R.D. Attribute (primary · secondary) | LC governing stat | Failure effect (primary too low for the entity's Han Pressure) |
-|---|---|---|---|
-| Ferrehan / Instinct | Resilience · Resolve | Fortitude | Total collapse — physical and mental exhaustion |
-| Viderehan / Insight | Clarity · Composure | Prudence | Mental breakdown — confusion, hallucination |
-| Flerehan / Attachment | Composure · Clarity | Temperance | Emotional breakdown — crying, withdrawal |
-| Pugnahan / Repression | Resolve · Resilience | Justice | Physical collapse — exhaustion, injury |
+Facility work is also Han exposure. A converted facility's personnel carry, beside their LC governing stats, the four R.D. Attributes, earned by sustained exposure under the acquisition rule below. The LC stat printed beside an attribute is its governing-stat aptitude analogue by work function; the work test itself is paired, and LC aptitude never substitutes for R.D. Attribute levels in a work-staffing decision.
 
-- **Levels.** Each attribute runs 1–100 in five bands — **I** Fragile (1–20) · **II** Average (21–40) · **III** Trained (41–60) · **IV** Veteran (61–80) · **V** Exceptional (81–100) — displayed `Attribute [Level 0/I–V] [current/20]`, twenty points per level. Civilians average 20–30; trained R.D. personnel 40–60; Echo-Cores exceed 80. E.G.O stat requirements in an item record convert along the pairing above before any separately filed SP-pool Composure Load (Section VII) is entered; dossier rules naming a secondary attribute bind as written.
-- **Acquisition — the Nugget rule.** Every L Corp employee starts at **Level 0 in all four attributes**: LC stats do *not* convert into R.D. levels. An employee who **survives 3+ consecutive days** sustaining an SE's Han Effect begins accumulating points (**~1–3 per day**, scaled by the entity's Potency) toward the attributes keyed to its Element — Lament → Composure · Clarity; Grudge → Resilience · Resolve; Void → Clarity · Composure; Weight → Resolve · Resilience; Mixed → split across all four. At **Level III (41+ points)** the associated work can be performed without its Failure Effect. Until then, staffing high-Pressure entities is spending people to buy attributes, and roster planning files it in those words.
-- **Terminology guard.** *Composure the attribute* (Temperance-paired, this subsection) and the SP pool that a filed Composure Load taxes (Section VII) are two ledgers sharing one word. Wherever a conversion note writes "Composure" beside a number, it states which ledger it means.
+| R.D. Attribute | LC Governing-Stat Analogue | R.D. Governed Metrics | Primary Work | Secondary Work | Failure Effect on the Primary Work |
+|---|---|---|---|---|---|
+| **Resilience (회복력)** | **Fortitude** — Max HP | Max HP, physical damage resistance, heavy M.A.W. carry, long-shift endurance | Ferrehan (Instinct) | Pugnahan (Repression) | Total collapse — physical and mental exhaustion |
+| **Clarity (명징성)** | **Prudence** — Max SP | Max SP, Void resistance, Dream/reality distinction, memory retention | Viderehan (Insight) | Flerehan (Attachment) | Mental breakdown — confusion, hallucination |
+| **Composure (침착성)** | **Temperance** — Work Success & Speed | Work speed, Grudge resistance, Flerehan performance, M.A.W. bonding stability | Flerehan (Attachment) | Viderehan (Insight) | Emotional breakdown — crying, withdrawal |
+| **Resolve (결의)** | **Justice** — Attack Speed & Movement Speed | Movement speed, Weight resistance, Ferrehan endurance, leadership | Pugnahan (Repression) | Ferrehan (Instinct) | Physical collapse — exhaustion, injury |
 
-### Crossover Add-on: How Somnarak's R.D. Attributes Map to Personnel
+In E.G.O conversion, source stat requirements convert along the work pairing before the SP Composure Load is spent (Section VII): an LC Temperance-level requirement is read on Composure (Temperance's paired stat). Where a dossier names a secondary attribute gate, the secondary read binds.
 
+Home personnel file these attributes from 1 to 100: most civilians average 20–30 in each, trained R.D. personnel 40–60, and Echo-Cores exceed 80. **Level 0 is the conversion start state**, not a home personnel band: every L Corp employee enters the crossover at Level 0 in all four attributes, with the LC governing stat recorded separately as aptitude.
 
-> This add-on describes the **R.D. Attribute system** used in the Somnarak ↔ Lobotomy Corporation crossover, and how L Corp employees ("Nuggets") acquire Somnarak attributes through sustained exposure.
+| Level | Cumulative Points | Converted-Personnel Read |
+|---|---:|---|
+| **Level 0** | 0 | No earned attribute — the default L Corp Nugget before Han exposure |
+| **Level I — Fragile** | 1–20 | Below civilian average — vulnerable to Han effects |
+| **Level II — Average** | 21–40 | Civilian level — can survive daily life |
+| **Level III — Trained** | 41–60 | R.D. personnel level — can perform the associated Work Type without its Failure Effect |
+| **Level IV — Veteran** | 61–80 | Experienced personnel — can handle dangerous entities |
+| **Level V — Exceptional** | 81–100 | Echo-Core level — can withstand what breaks others |
 
-### Attribute Levels
+Each attribute displays as `Attribute [Level 0/I–V] [current/20]`, where `[current/20]` is the points entered inside the current 20-point band and the cumulative total determines the level—for example, `Resilience [Level I] [6/20]`.
 
-Each attribute ranges from **1 (lowest)** to **100 (highest)**. Most civilians average **20–30** in each attribute. Trained R.D. personnel average **40–60**. Echo-Cores exceed **80**.
+Sustained exposure pays the attributes keyed to the Element actually sustained in the filed work or exposure line:
 
-| Level | Range | Description |
-|---|---|---|
-| **Fragile** [Lvl I] | 1–20 | Below civilian average — vulnerable to Han effects |
-| **Average** [Lvl II] | 21–40 | Civilian level — can survive daily life |
-| **Trained** [Lvl III] | 41–60 | R.D. personnel level — can perform Work Types safely |
-| **Veteran** [Lvl IV] | 61–80 | Experienced personnel — can handle dangerous entities |
-| **Exceptional** [Lvl V] | 81–100 | Echo-Core level — can withstand what breaks others |
-
-### Attribute Interactions — How Attributes Interact with Work Types
-
-| Work Type | Primary Attribute | Secondary Attribute | Failure Outcome |
-|---|---|---|---|
-| **Flerehan** (Tears) | Composure | Clarity | Emotional breakdown — crying, withdrawal |
-| **Pugnahan** (Confrontation) | Resolve | Resilience | Physical collapse — exhaustion, injury |
-| **Viderehan** (Observation) | Clarity | Composure | Mental breakdown — confusion, hallucination |
-| **Ferrehan** (Endurance) | Resilience | Resolve | Total collapse — physical and mental exhaustion |
-
-### How L Corp Employees (Nuggets) Acquire R.D. Attributes
-
-If an L Corp employee/Nugget **survives for 3 days or more** while sustaining a Sorrow Effect, the employee **gains points (accumulating)** simply for sustaining the effect. The accumulated points unlock **R.D. attributes specific to the entity effect** the employee is sustaining, tracked in this form:
-
-| Slot | Format |
-|---|---|
-| **Composure** | Level [0 / I–V] [0/20] |
-| **Resolve** | Level [0 / I–V] [0/20] |
-| **Clarity** | Level [0 / I–V] [0/20] |
-| **Resilience** | Level [0 / I–V] [0/20] |
-
-An L Corp employee/Nugget **always starts at Lvl 0** in all R.D. Attributes, because they have never had to survive Han effects and entity effects every day the way Somnarak personnel do.
-
-### VI. Work Type Mapping
-
-| Somnarak Work Type | L Corp Work | Axis | Element | What It Does |
+| Sustained Element | Filed Pressure | Primary Attribute Gained | Secondary Attribute Gained | LC Damage Color |
 |---|---|---|---|---|
-| **Flerehan** (Tears) | **Attachment** | Physical + Lament | Empathy / bonding | Approach with emotion; weep alongside the entity |
-| **Pugnahan** (Confrontation) | **Repression** | Physical + Grudge | Force / dominance | Confront, resist, suppress aggression |
-| **Viderehan** (Observation) | **Insight** | Mental + Void | Study / detachment | Observe from distance; analyze without engaging |
-| **Ferrehan** (Endurance) | **Instinct** | Mental + Weight | Patience / presence | Endure the entity's presence; contain through will |
+| **Lament** | Emotional pressure | Composure | Clarity | WHITE |
+| **Grudge** | Physical pressure | Resilience | Resolve | RED |
+| **Void** | Identity / reality pressure | Clarity | Composure | PALE |
+| **Weight** | Burden pressure | Resolve | Resilience | BLACK |
+| **Mixed** | Filed combined pressure | All four attributes; the conversion note files the split | — | By filed component |
 
-**Work Favor / Preference:**
-Somnarak's Work Type table (Response + Gauge Change per type) maps directly to L Corp's **Work Preferences** (success rate percentages per work type per agent level).
+1. **Threshold:** the employee first completes **three consecutive survived days** sustaining the filed Han Effect. Those days open the ledger only; point accrual begins on the next survived exposure day.
+2. **Accrual:** points accrue at approximately **1–3 per day**, scaled by the source entity's Potency (higher Potency: faster gain, higher exposure risk). The conversion note states the filed accrual read and how the points are entered against the primary and secondary attributes; the same full daily amount is never silently paid to both.
+3. **Safe work:** when the attribute that is **primary for a work** reaches **Level III**, that employee can perform that work without its Failure Effect. A secondary attribute reaching Level III clears only a different work for which it is itself primary.
+4. **Display:** roster and work orders name all four attributes in the display format above so the current live Failure Effect, if any, can be checked before assignment.
 
-- Gauge "Decrease" = high success rate work (entity responds well)
-- Gauge "Increase" = low success rate work (entity resists)
-- Gauge "Stable" = moderate success rate
+**Exposure is a ledger, not a promotion.** Enter every L Corp employee at **R.D. Attribute Level 0**, with LC governing-stat aptitude filed separately. Points begin only after that employee survives **3+ consecutive days** sustaining the entity's filed Han Effect; record the Element sustained, the primary and secondary attributes it pays into, the approximate **1–3 points per day** by Potency, and the Failure Effect that remains live until the primary attribute reaches **Level III**. Until then, staffing high-Pressure entities is spending people to buy attributes, and roster planning files it in those words. The personnel filing is incomplete until it names the Days 1–3 exposure rotation and the later transition from expedition staffing to roster staffing (Work-Outcome Translation in Detail, below).
 
-### VIII. Personnel Stats Mapping
+**Fracture** and the **Architect's Mark** are personnel consequence systems, not fifth and sixth R.D. Attributes. Fracture is staged soul-breaking under Han overload, for which Panic is an acute analogue only; the Architect's Mark is physical change from Han exposure and has no direct LC stat equivalent. Neither is bought with attribute points or used as a work test unless the governing dossier or frame files a named effect.
 
-| Somnarak Stat | L Corp Equivalent | What It Measures |
-|---|---|---|
-| **Clarity** | **Prudence / Sanity (SP)** | Max SP (mental health); Void-element (PALE) resistance, memory retention |
-| **Composure** | **Temperance** | Emotional control; Grudge-element resistance, work speed, Flerehan & M.A.W. bonding stability |
-| **Resilience** | **Fortitude / HP** | Physical toughness, ability to resist RED |
-| **Resolve** | **Justice** | Willpower; Weight-element resistance, movement speed, Ferrehan endurance |
-| **Fracture** (Stage 1–4) | **Panic** (acute analogue only) | Staged soul-breaking under Han overload; panic is the acute behaviour at SP 0, Fracture is the breaking itself |
-| **Architect's Mark** | **(no direct equivalent)** | Somnarak-specific: physical changes from Han exposure |
-
-### XIV. R.D. Attribute System (L Corp Crossover Mechanic)
-
-> When a Somnarak Sorrow Entity is imported to L Corp via the Well of Cogito, L Corp Employees (Nuggets) exposed to its Han Effects can develop **R.D. Attributes** — Somnarak-native stats that do not exist in standard L Corp employees. This represents the employee's body and mind adapting to sustained Han exposure.
-
-#### The Four R.D. Attributes
-
-Each attribute ranges from **1 (lowest) to 100 (highest)**. Points accumulate over time through exposure.
-
-| Composure | Resolve | Clarity | Resilience |
-|---|---|---|---|
-| Emotional control — Grudge-element resistance; work speed, bonding stability | Willpower — Weight-element resistance; movement speed | Mental stability — Max SP; Void-element resistance | Physical endurance — Max HP; physical (Grudge/RED) damage resistance |
-
-#### Attribute Levels
-
-| Level | Name | Point Range | Description |
-|---|---|---|---|
-| **Lvl 0** | None | 0 | Default for ALL L Corp employees — they have never been exposed to Han |
-| **Lvl I** | Fragile | 1–20 | Below civilian average — vulnerable to Han effects |
-| **Lvl II** | Average | 21–40 | Civilian level — can survive daily life under Han exposure |
-| **Lvl III** | Trained | 41–60 | R.D. personnel level — can perform Work Types safely |
-| **Lvl IV** | Veteran | 61–80 | Experienced personnel — can handle dangerous entities |
-| **Lvl V** | Exceptional | 81–100 | Echo-Core level — can withstand what breaks others |
-
-#### Attribute Display Format (on L Corp Employee)
-
-| Attribute | Display | Attribute | Display |
-|---|---|---|---|
-| Composure | [Level (0/I/II/III/IV/V)] [current/20] | Resolve | [Level (0/I/II/III/IV/V)] [current/20] |
-| Clarity | [Level (0/I/II/III/IV/V)] [current/20] | Resilience | [Level (0/I/II/III/IV/V)] [current/20] |
-
-Each level requires 20 points. Level 0 = 0 points. Level I = 1–20. Level II = 21–40. Etc.
-
-#### Attribute Interactions with Work Types
-
-When an L Corp employee performs L Corp Works on an imported Somnarak entity, their R.D. Attributes determine resistance to the entity's Han Effects:
-
-| L Corp Work | Somnarak Equivalent | Primary Attribute | Secondary Attribute | Failure Effect |
-|---|---|---|---|---|
-| **Attachment** | Flerehan (Tears) | **Composure** | Clarity | Emotional breakdown — crying, withdrawal |
-| **Repression** | Pugnahan (Confrontation) | **Resolve** | Resilience | Physical collapse — exhaustion, injury |
-| **Insight** | Viderehan (Observation) | **Clarity** | Composure | Mental breakdown — confusion, hallucination |
-| **Instinct** | Ferrehan (Endurance) | **Resilience** | Resolve | Total collapse — physical and mental exhaustion |
-
-**If the Primary Attribute is too low for the entity's Han Pressure [ATK], the employee suffers the Failure Effect.**
-
-#### How L Corp Employees Gain R.D. Attributes
-
-1. **The employee must survive 3+ consecutive days** while sustaining a Somnarak Entity's Han Effect (working on the entity or being in its containment zone).
-2. **Points accumulate automatically** — the employee gains points toward the R.D. Attribute(s) associated with the entity's Element/Work Type they have been sustaining.
-3. **The attribute gained depends on the entity's Element:**
-
-| Entity Element | Han Effect Type | Attribute Gained | L Corp Damage Type Equivalent |
-|---|---|---|---|
-| **Lament (Deep Blue)** | Emotional pressure | **Composure** (primary), Clarity (secondary) | WHITE |
-| **Grudge (Crimson)** | Physical pressure | **Resilience** (primary), Resolve (secondary) | RED |
-| **Void (Pale White)** | Identity/mental pressure | **Clarity** (primary), Composure (secondary) | PALE |
-| **Weight (Black)** | Crushing/burden pressure | **Resolve** (primary), Resilience (secondary) | BLACK |
-| **Mixed** | Multiple pressures | Gains split across all four attributes | Multiple |
-
-4. **All L Corp employees start at Level 0** in every R.D. Attribute — they have never been exposed to Han Effects before. The R.D. Attribute system is entirely new to L Corp personnel.
-5. **Points accumulate at approximately 1–3 points per day** of sustained exposure, depending on the entity's Potency (higher Potency = faster gain but higher risk).
-6. **If an employee's R.D. Attribute reaches Level III (Trained, 41+ points), they can safely perform the associated Work Type on Somnarak entities without the Failure Effect.**
-
-#### Example
-
-An L Corp employee works on an imported Somnarak Grudge entity (RED damage) for 5 days:
-- Days 1–3: No R.D. Attribute gain (minimum 3-day survival threshold not yet met).
-- Day 3: Threshold met. Employee begins accumulating **Resilience** points (primary) and **Resolve** points (secondary).
-- Day 5: Employee has accumulated ~6 Resilience points and ~3 Resolve points.
-- Display: `Resilience [Level I][6/20] | Resolve [Level I][3/20]`
-- The employee is still **Fragile** — vulnerable. They need to reach Level III (41+ points, roughly 20+ more days) to safely handle Grudge entities.
-
----
-
-**Exposure is a ledger, not a promotion.** Enter every L Corp employee at **R.D. Attribute Level 0**, with LC governing-stat aptitude filed separately. Points begin only after that employee survives **3+ consecutive days** sustaining the entity's filed Han Effect; record the Element sustained, the primary and secondary attributes it pays into, the approximate **1–3 points per day** by Potency, and the Failure Effect that remains live until the primary attribute reaches **Level III**. The personnel filing is incomplete until it names the Days 1–3 exposure rotation and the later transition from expedition staffing to roster staffing (§IV.3; Work-Outcome Translation in Detail).
-
-### V. Work Type Mapping
-
-| Somnarak Work Type | L Corp Work | Axis | Element | What It Does |
-|---|---|---|---|---|
-| **Flerehan** (Tears) | **Attachment** | Physical + Lament | Empathy / bonding | Weep alongside the entity; share grief |
-| **Pugnahan** (Confrontation) | **Repression** | Physical + Grudge | Force / dominance | Confront, resist, suppress aggression |
-| **Viderehan** (Observation) | **Insight** | Mental + Void | Study / detachment | Observe without engaging emotionally |
-| **Ferrehan** (Endurance) | **Instinct** | Mental + Weight | Patience / presence | Endure sustained presence; contain through will |
-
-**Gauge Change → Work Success Rate:**
-- **Decrease** = High success rate (entity responds well; best work)
-- **Stable** = Moderate success rate (neutral response)
-- **Increase** = Low success rate (entity resists; worst work)
-
-### VIII. Personnel Stats Mapping
-
-| Somnarak Stat | L Corp Equivalent | What It Measures |
-|---|---|---|
-| **Clarity** | **Prudence** | Max SP (mental health); resist Void/PALE, memory retention |
-| **Composure** | **Temperance** | Emotional control; resist Grudge, work speed, Flerehan & bonding stability |
-| **Resilience** | **Fortitude / HP** | Physical toughness; resist RED |
-| **Resolve** | **Justice** | Willpower; resist Weight, movement speed, Ferrehan endurance |
-| **Fracture** (Stage 1–4) | **Panic** (acute analogue only) | Staged soul-breaking under Han overload; panic is the acute behaviour at SP 0, Fracture is the breaking itself |
-| **Architect's Mark** | *(no direct equivalent)* | Somnarak-specific: physical changes from Han exposure |
-
-### IX. R.D. Attribute System (L Corp Crossover Mechanic)
-
-> When a Somnarak Sorrow Entity is imported to L Corp via the Well of Cogito, L Corp Employees (Nuggets) exposed to its Han Effects can develop **R.D. Attributes** — Somnarak-native stats that do not exist in standard L Corp employees.
-
-#### The Four R.D. Attributes
-
-| Composure | Resolve | Clarity | Resilience |
-|---|---|---|---|
-| Emotional control — resists Grudge; work speed, bonding stability | Willpower — resists Weight; movement speed | Mental stability — Max SP; resists Void | Physical endurance — Max HP; resists physical (Grudge/RED) damage |
-
-Each ranges from **1 (lowest) to 100 (highest)**. Points accumulate through sustained Han exposure.
-
-#### Attribute Levels
-
-| Level | Name | Points | Description |
-|---|---|---|---|
-| **Lvl 0** | None | 0 | **Default for ALL L Corp employees** — never exposed to Han |
-| **Lvl I** | Fragile | 1–20 | Below civilian average — vulnerable |
-| **Lvl II** | Average | 21–40 | Civilian level — can survive daily Han exposure |
-| **Lvl III** | Trained | 41–60 | R.D. personnel level — can perform Work Types safely |
-| **Lvl IV** | Veteran | 61–80 | Experienced — can handle dangerous entities |
-| **Lvl V** | Exceptional | 81–100 | Echo-Core level — withstands what breaks others |
-
-#### Attribute Display Format
-
-| Attribute | Display | Attribute | Display |
-|---|---|---|---|
-| Composure | [Level (0/I/II/III/IV/V)] [current/20] | Resolve | [Level (0/I/II/III/IV/V)] [current/20] |
-| Clarity | [Level (0/I/II/III/IV/V)] [current/20] | Resilience | [Level (0/I/II/III/IV/V)] [current/20] |
-
-#### Attribute ↔ Work Type Interactions
-
-| L Corp Work | Somnarak Equivalent | Primary Attribute | Secondary Attribute | Failure Effect |
-|---|---|---|---|---|
-| **Attachment** | Flerehan (Tears) | **Composure** | Clarity | Emotional breakdown — crying, withdrawal |
-| **Repression** | Pugnahan (Confrontation) | **Resolve** | Resilience | Physical collapse — exhaustion, injury |
-| **Insight** | Viderehan (Observation) | **Clarity** | Composure | Mental breakdown — confusion, hallucination |
-| **Instinct** | Ferrehan (Endurance) | **Resilience** | Resolve | Total collapse — physical and mental exhaustion |
-
-#### How L Corp Employees Gain R.D. Attributes
-
-1. **Survive 3+ consecutive days** sustaining a Somnarak Entity's Han Effect.
-2. **Points accumulate automatically** (~1–3/day based on entity Potency).
-3. **Attribute gained depends on the entity's Element:**
-
-| Entity Element | Attribute Gained (Primary) | Attribute Gained (Secondary) | L Corp Damage |
-|---|---|---|---|
-| **Lament (Deep Blue)** | Composure | Clarity | WHITE |
-| **Grudge (Crimson)** | Resilience | Resolve | RED |
-| **Void (Pale White)** | Clarity | Composure | PALE |
-| **Weight (Black)** | Resolve | Resilience | BLACK |
-| **Mixed** | Split across all four | Split across all four | Multiple |
-
-4. **All L Corp employees start at Level 0.** The R.D. Attribute system is entirely new to them.
-5. **Reach Level III (41+ points)** to safely perform the associated Work Type without Failure Effects.
-
-### 7. Containment Disciplines & The Two-Work-Type Rule
-
-Lobotomy Corporation uses four standardized work types. Somnarak formalizes containment through four Han Work Types under the **Work Type Law** (the R.D. codex filing):
-
-#### 7.1 Direct Work Type Translation
-
-| Lobotomy Corp Work | Somnarak Work Type | Meaning & Method | Tested Employee / Operative Stat |
-|---|---|---|---|
-| **Instinct** (Physical care) | **Ferrehan (  인내한   / *Innaehan*)** | **Endurance** — Entering the unit to physically endure ambient pressure and cold. | Fortitude (LC) / **Resilience** & **Resolve** (PS) |
-| **Insight** (Environment care) | **Viderehan (  관조한   / *Gwanjohan*)** | **Observation** — Monitoring acoustic frequencies and resonance from safety. | Prudence (LC) / **Clarity** & **Composure** (PS) |
-| **Attachment** (Social interaction)| **Flerehan (  통곡한   / *Tonggokhan*)** | **Weeping / Catharsis** — Empathetic emotional dialogue and reciprocal crying. | Temperance (LC) / **Composure** & **Clarity** (PS) |
-| **Repression** (Suppression) | **Pugnahan (  격투한   / *Gyeoktuhan*)** | **Confrontation / Wrath** — Kinetic suppression strikes to beat back growth. | Justice (LC) / **Resolve** & **Resilience** (PS) |
-
-#### 7.2 The Inviolable Two-Work-Type Rule (Non-Subject Entities)
-- **In Lobotomy Corporation:** Employees perform all four work types on almost all Abnormalities.
-- **In Project Somnarak:** All **Object (`[O]`)**, **Place (`[P]`)**, and **Time (`[T]`)** entities can **ONLY** be worked with **Viderehan and Ferrehan**. **Hybrid (`[H]`)** entities file component by component: the lock binds every inanimate component, and a filed Subject component is worked as a Subject.
-- **Flerehan and Pugnahan are strictly `N/A`:**
-  * Inanimate objects, rooms, and temporal phenomena have no emotional consciousness to comfort (invalidating Flerehan).
-  * Inanimate relics and districts have no biological body or anatomical center to strike (invalidating Pugnahan).
-  * Performing Flerehan or Pugnahan on an inanimate SE causes automatic work failure and severe psychic backfire, driving whichever counter channel the dossier files (a Sorrow Gauge surge where a Gauge channel exists).
-
-### 12. Employee / Operative Core Attributes
-
-| Lobotomy Corporation Attribute | Governed Metric | Project Somnarak Attribute | Governed Metric |
-|---|---|---|---|
-| **Fortitude** | Max HP (Physical Durability) | **Resilience (  회복력   )** | Max HP, physical-damage resistance, heavy M.A.W. carry, shift endurance. |
-| **Prudence** | Max SP (Mental Durability) | **Clarity (  명징성   )** | Max SP (mental health), Void-element resistance, Dream/reality distinction, memory retention. |
-| **Temperance** | Work Success Rate & Work Speed | **Composure (  침착성   )** | Work speed, Grudge-element resistance, Flerehan performance, M.A.W. bonding stability. |
-| **Justice** | Attack Speed & Movement Speed | **Resolve (  결의   )** | Movement speed, Weight-element resistance, Ferrehan endurance, leadership under pressure. |
-
-**Filing note:** these are nearest aptitude analogues, printed one-to-one for orientation. Work in both systems actually tests *paired* attributes (§7.1); an LC stat never substitutes for the PS pair it is printed beside, and LC stats show aptitude only — R.D. Attribute levels are earned by exposure.
-
-### IV. Work Type Mapping
-
-|SOMNARAK Work Type|L Corp Work|Axis|Element|What It Does|
-|---|---|---|---|---|
-|**Flerehan** (Tears)|**Attachment**|Physical + Lament|Empathy / bonding|Approach with emotion; weep alongside the entity|
-|**Pugnahan** (Confrontation)|**Repression**|Physical + Grudge|Force / dominance|Confront, resist, suppress aggression|
-|**Viderehan** (Observation)|**Insight**|Mental + Void|Study / detachment|Observe from distance; analyze without engaging|
-|**Ferrehan** (Endurance)|**Instinct**|Mental + Weight|Patience / presence|Endure the entity's presence; contain through will|
+**Terminology guard.** *Composure the attribute* (Temperance-paired, this subsection) and the SP pool that a filed Composure Load taxes (Section VII) are two ledgers sharing one word. Wherever a conversion note writes "Composure" beside a number, it states which ledger it means.
 
 ### Work-Outcome Translation in Detail
 
@@ -1268,7 +1037,7 @@ The dossier Behavior table is the only authority for favorability. Translate eac
 | Named condition met, count reached, timer ends | Not a work result at all | Threshold channel advances or completes exactly as filed; work quality does not substitute | Staff by condition-watch, not by grinding the favored work |
 | Prohibited discipline attempted | Illegal work | Filed backfire only; never use the backfire as a substitute counter mechanic | Record as a management violation in the conversion note and the roster plan |
 
-**Staffing the first days.** Every employee begins at R.D. Attribute Level 0 for conversion purposes, whatever their LC stat aptitude. The first three days against a high-Pressure entity are therefore an exposure budget, not a training montage: rotate before the filed failure effect, pair the work to the employee's governing-stat aptitude, and record which Element is paying points into which attributes. From the fourth survived day the 1–3 points per day begin to matter; at Level III the associated work stops carrying its failure effect and the entity can move from expedition staffing to roster staffing. Write that transition day into the department plan.
+**Staffing the first days.** Every employee begins at R.D. Attribute Level 0 for conversion purposes, whatever their LC stat aptitude. The first three days against a high-Pressure entity are therefore an exposure budget, not a training montage: rotate before the filed failure effect, pair the work to the employee's governing-stat aptitude, and record which Element is paying points into which attributes. From the fourth survived day the 1–3 points per day begin to matter; when the attribute primary for a work reaches Level III, that work stops carrying its Failure Effect and the entity can move from expedition staffing to roster staffing. Write that transition day into the department plan.
 
 ---
 
@@ -1846,10 +1615,10 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
 | **Qliphoth Meltdown / Ordeal Cadence** | **Han-Density Threshold & Watch Time (사경)** | The crisis clock, not the same anatomy: PS files one density gauge whose bands open First → Tide Watch Ordeal manifestations (§9.1). A Watch is an Ordeal severity Time, not an all-day weather state laid over contained entities. |
 | **Qliphoth Counter** | **Sorrow Gauge (  비탄 척도   ) & Activation Thresholds** | Not one mechanism but two: continuous Gauge pressure (0–100%, moved by work outcomes) and discrete threshold conditions (named states, counts, timers). An SE may file either or both; breach fires on Gauge saturation or threshold completion. |
-| **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
+| **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via witness and record at the filed observation position. |
 | **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
 | **Attachment Work** | **Flerehan (  통곡한   / *Tonggokhan*)** | Containment via reciprocal empathetic weeping and emotional dialogue. |
-| **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via wrathful kinetic strikes to suppress entity growth. |
+| **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via filed confrontation and resistance. |
 | **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative enters Pre-Fracture Panic. |
 | **HP (Health Points)** | **Sorrow Gauge / Physical Durability** | Structural or biological integrity of entities and operatives. |
 | **The Manager (X)** | **Distributed R.D. command** | No single chair: Majin holds supreme authority; Seiyon manages administration, schedules, and communications; Echo-Core leads and Field Commanders run floor assignment and response. Dekan is the Floor 2 / Zone B Containment Lead, not a universal dispatch seat. |

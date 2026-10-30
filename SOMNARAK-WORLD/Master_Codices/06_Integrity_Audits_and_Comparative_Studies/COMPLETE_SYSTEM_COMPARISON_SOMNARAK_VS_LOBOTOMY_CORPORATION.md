@@ -224,12 +224,12 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 
 ### 7.1 Direct Work Type Translation
 
-| Lobotomy Corp Work | Somnarak Work Type | Meaning & Method | Tested Employee / Operative Stat |
+| Lobotomy Corp Work | Somnarak Work Type (Axis · Element) | Meaning & Method | Tested Employee / Operative Stat |
 |---|---|---|---|
-| **Instinct** (Physical care) | **Ferrehan (  인내한   / *Innaehan*)** | **Endurance** — Entering the unit to physically endure ambient pressure and cold. | Fortitude (LC) / **Resilience** & **Resolve** (PS) |
-| **Insight** (Environment care) | **Viderehan (  관조한   / *Gwanjohan*)** | **Observation** — Monitoring acoustic frequencies and resonance from safety. | Prudence (LC) / **Clarity** & **Composure** (PS) |
-| **Attachment** (Social interaction)| **Flerehan (  통곡한   / *Tonggokhan*)** | **Weeping / Catharsis** — Empathetic emotional dialogue and reciprocal crying. | Temperance (LC) / **Composure** & **Clarity** (PS) |
-| **Repression** (Suppression) | **Pugnahan (  격투한   / *Gyeoktuhan*)** | **Confrontation / Wrath** — Kinetic suppression strikes to beat back growth. | Justice (LC) / **Resolve** & **Resilience** (PS) |
+| **Instinct** (Physical care) | **Ferrehan (  인내한   / *Innaehan*)** — Mental · Weight | **Endurance** — Bear the filed ambient burden and presence. | Fortitude (LC) / **Resilience** & **Resolve** (PS) |
+| **Insight** (Environment care) | **Viderehan (  관조한   / *Gwanjohan*)** — Mental · Void | **Observation** — Witness and record the filed signs and patterns at the filed observation position. | Prudence (LC) / **Clarity** & **Composure** (PS) |
+| **Attachment** (Social interaction)| **Flerehan (  통곡한   / *Tonggokhan*)** — Physical · Lament | **Weeping / Catharsis** — Empathetic emotional dialogue and reciprocal crying. | Temperance (LC) / **Composure** & **Clarity** (PS) |
+| **Repression** (Suppression) | **Pugnahan (  격투한   / *Gyeoktuhan*)** — Physical · Grudge | **Confrontation / Wrath** — Confront and resist the filed aggression or contact. | Justice (LC) / **Resolve** & **Resilience** (PS) |
 
 ### 7.2 The Inviolable Two-Work-Type Rule (Non-Subject Entities)
 - **In Lobotomy Corporation:** Employees perform all four work types on almost all Abnormalities.
@@ -472,10 +472,10 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
 | **Qliphoth Meltdown / Ordeal Cadence** | **Han-Density Threshold & Watch Time (사경)** | The crisis clock, not the same anatomy: PS files one density gauge whose bands open First → Tide Watch Ordeal manifestations (§9.1). A Watch is an Ordeal severity Time, not an all-day weather state laid over contained entities. |
 | **Qliphoth Counter** | **Sorrow Gauge (  비탄 척도   ) & Activation Thresholds** | Not one mechanism but two: continuous Gauge pressure (0–100%, moved by work outcomes) and discrete threshold conditions (named states, counts, timers). An SE may file either or both; breach fires on Gauge saturation or threshold completion. |
-| **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
+| **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via witness and record at the filed observation position. |
 | **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
 | **Attachment Work** | **Flerehan (  통곡한   / *Tonggokhan*)** | Containment via reciprocal empathetic weeping and emotional dialogue. |
-| **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via wrathful kinetic strikes to suppress entity growth. |
+| **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via filed confrontation and resistance. |
 | **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative enters Pre-Fracture Panic. |
 | **HP (Health Points)** | **Sorrow Gauge / Physical Durability** | Structural or biological integrity of entities and operatives. |
 | **The Manager (X)** | **Distributed R.D. command** | No single chair: Majin holds supreme authority; Seiyon manages administration, schedules, and communications; Echo-Core leads and Field Commanders run floor assignment and response. Dekan is the Floor 2 / Zone B Containment Lead, not a universal dispatch seat. |
