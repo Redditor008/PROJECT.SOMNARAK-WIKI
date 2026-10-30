@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: comparison sections 3-19 re-tested against system codices (2026-10-30)
+
+- **§3/§17 command depth:** the Manager/Angela chairs are now filed as splits, not 1-to-1 pairs — Director Majin (sovereign, Floor 1) + Containment Lead Dekan (dispatch seat), and nine Echo-Core Floor Secretaries vs one loop-remembering coordinator (per `The_REVERIE_DIRECTORATE`).
+- **§5/§6 filing law over orientation tables:** conversion Risk is filed by **Threat Score** (independent axes; the §5 diagonal demoted to typical-centroid orientation), and converted HP by dossier Gauge × tier multiplier; §6 bands labeled story-use filing bands, dossier record values (Dawn of Mourning 12,000) standing as filed.
+- **`[H]` corrected to Hybrid** (SECC code list; was misread as "Hazard") across §5.1, §7.2, and the manual's intake/two-work sections — hybrids now file component by component under the unchanged Two-Work law.
+- **§8.1 rupture lists** labeled comparison-filed narrative registers; the codices' personnel-break system proper is staged **Fracture**.
+- **§10 third slot:** M.A.W. triad is Weapon / Suit / **Stigma** (MAW Codex), a role-analogue of the E.G.O Gift slot, not a Gift. **§11 badges** no longer "identical" — three shared warnings plus the conversion meltdown-precipitant flag (82-dossier count retained, builder provenance). **§12** attributes labeled aptitude analogues; work tests pairs.
+- **§13.2** syndicate Korean names aligned to `SOMNARAK_UNDERWORLD_SYNDICATES` (roster itself already follows the codex; the Canon Timeline's divergent UCD parenthetical roster is an inter-codex conflict held for owner ruling, not edited here).
+- **§14 Cadre roles rewritten from the Specialist Cadres codex matrix** — Giltong = Doorspeech & Taboo Audit (was invented "Spatial Navigators"), Jeong-Bo = Signals & Espionage (was "Archive Wardens"), Il-Gwang = High Noon Kinetic Shock, Sim-Pan tempered to Inquest & Adjudication, Un-Song/Ui-Ryo/Gyeo-Tu/Tam-Sa aligned; name-trap analogues (Dawn Office) removed.
+- **§15 Workshops:** Six Sovereign Workshops issuing across Five Grades; Grade 1/2 access and rarity corrected to the **Workplace Law** (no open purchase; requisition on tenure), and §15.1's self-sealing covenant replaced by the codex mechanism — affiliation mandate + Collector Bureau foreclosure/reversion.
+- **§16** last "1,778 historical cycles" corrected to Facility 01's remembered cycles. **§17 Meltdown** meaning corrected (standing Watch state vs countdown event). **§19 seal** softened from "FULLY RATIFIED" to indexed-for-conversion-use. CMP's stale reverse-guide pointer (§9) replaced with the forward counter chapters.
+
+
 ## Cosmology comparison rebuilt on a whole-cosmology reread (2026-10-30)
 
 - **Reread before matching.** Per owner instruction, the cosmology comparison was rebuilt only after rereading the P.S. cosmology whole: `PROJECT_SOMNARAK.md` (§II Cosmology — Primordial States, Han, Samhan, entity immortality/physical form & death; §IX Three Ages), `SOMNARAK_THE_WEEPING`, `SOMNARAK_DREAM_REALM`, `SOMNARAK_THE_DOORSPEECH`, `SOMNARAK_CHEONGULA`, `SOMNARAK_GEOLOGY`, `SOMNARAK_UNKNOWN_CITIES`, `SOMNARAK_THE_DESOLATE`, `CANON_TIMELINE` (epoch partition), and `SOMNARAK_DAWN_OF_HOPE` (Master Codices 04). Section 2 now opens with the matching rule: counterparts are proposed by **cosmological function across the whole order**, never by name resemblance or first occurrence, and asymmetry is recorded where Somnarak files depth the LC side does not.

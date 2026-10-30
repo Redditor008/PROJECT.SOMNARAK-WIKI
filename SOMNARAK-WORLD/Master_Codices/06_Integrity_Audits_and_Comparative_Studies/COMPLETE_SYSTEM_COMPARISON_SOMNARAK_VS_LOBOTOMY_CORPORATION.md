@@ -129,7 +129,7 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 |---|---|---|---|
 | **Managing Authority** | **Lobotomy Corporation** (Wing L operating the facility) | **The Reverie Directorate (R.D.)** — Facility 01 under Director Majin; publicly chartered by the Council of Sighs, operationally sovereign inside Facility 01 | Corporate Wing facility vs chartered containment directorate. |
 | **Facility Environment** | Subterranean bunker facility (in the City's District 12) divided into 10 Sephirah Departments. | Subterranean containment stratum: **Facility 01 (The Hand of Change)** — the Absolvohan vaults beneath the Alpha Tree in Zone A. | Modern sterile industrial laboratories vs brutalist slate vaults lined with acoustic dampeners and incense grates. |
-| **Primary Executive** | **The Manager (X)** advised by AI Coordinator **Angela**. | **The Dekan (  데칸   )** advised by Floor Secretaries (  서기관   ) and High Wardens. | Distant corporate overseer and synthetic guide vs ordained grief magistrate and monastic archivists. |
+| **Primary Executive** | **The Manager (X)** advised by AI Coordinator **Angela**. | **Director Majin** (executive sovereign, Floor 1); containment worked under **Containment Lead Dekan (데칸)** with the Echo-Core Floor Secretaries (서기관). | One chair and one created coordinator vs a split seat — sovereignty above, containment command below. |
 | **Department Structure** | Control, Information, Training, Security, Central Command, Welfare, Disciplinary, Extraction, Records, Architecture. | Facility 01 containment floors and sectors under Echo-Core Floor Secretaries (Foundation, Dekan Archive, Thermal Hearth, Acoustic Buffer, and the deeper Absolvohan floors as filed). | Departments supervise specific containment wings and provide facility buffs and defensive wards. |
 | **Operative Personnel** | **Agents** (armed containment workers) and **Clerks** (office staff providing morale). | **Absolvers (  해원사   )** (containment operatives) and **Salt-Scrubbers (  염초공   )** (sanitation personnel). | Sacrificial corporate employees vs solemn sworn liturgical containment wardens. |
 | **Tactical Rapid Response** | **Rabbit Team** (R Corp 4th Pack mercenaries) summoned for total sector cleansing. | **Cadre Sim-Pan (  심판   / Arbiters)** and **Cadre Gyeo-Tu (  격투   / Duelists)** mobilized for kinetic execution. | Hired private military shock troopers vs dedicated Directorate inquisitors and frontline champions. |
@@ -159,12 +159,14 @@ Lobotomy Corporation ranks Abnormalities through a five-tier Hebrew risk scale. 
 | **High** | **WAW** | **Rank IV (Entity /   개체  )** | **Grade δ (Critical)** | Highly dangerous; facility-threatening breach risk; complex escape conditions. |
 | **Apex** | **ALEPH** | **Rank V (Sovereign /   군주  )**| **Grade ω (Catastrophic)**| Catastrophic; city-threatening; requires total departmental mobilization. |
 
+**Filing note (conversion):** Coherence and Potency are independent axes — most dossiers sit off this diagonal. Converted Risk Level is never read from the diagonal pairing above; it is filed by **Threat Score = Potency value + Coherence value** (2–3 ZAYIN, 4–5 TETH, 6 HE, 7–8 WAW, 9–10 ALEPH). The diagonal is a typical-centroid orientation only.
+
 ### 5.1 Entity Structural Types & Special Transform Breaches
 - **Subject `[S]`:** Autonomous animate entities with biological or spiritual agency (e.g. humanoids, beasts, specters).
 - **Object `[O]`:** Inanimate items, artifacts, relics, or tools.
 - **Place `[P]`:** Structural chambers, cursed rooms, territorial environments, or localized spatial rifts.
 - **Time `[T]`:** Temporal anomalies, looped moments, or chronometric disturbances.
-- **Hazard `[H]`:** Environmental phenomena, toxic brine miasmas, or pervasive acoustic curses.
+- **Hybrid `[H]`:** Entities filing multiple manifestation types at once (e.g. Subject–Place); housed and worked component by component. (`[H]` reads **Hybrid** in the SECC code list.)
 
 **Special Transform Breach (Place-to-Subject Metamorphosis):**
 In Lobotomy Corporation, breached entities exit containment and roam corridors while maintaining their physical form. In Project Somnarak, specific apex Place entities undergo structural metamorphosis upon containment failure:
@@ -185,6 +187,8 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 | **ALEPH / Rank V (ω)** | 2,000 – 10,000 HP (e.g. WhiteNight: 6,666 HP)| **1,000 – 12,000 HP** (e.g. Dawn of Mourning: 12,000 HP) | Multi-phase Sovereign Calamities and departmental Realizations. |
 | **Planetary Geography** | N/A | **N/A (Invulnerable / Unfightable)** | Natural oceans, continental landmasses, and polar tundra are Geography, not combatants. |
 
+**Filing note:** the PS bands above are comparison filing bands for converted/story use, not a replacement for dossier arithmetic. In conversion, HP derives from the dossier Sorrow Gauge by the filed tier multiplier (always rounding up); record values already filed in dossiers — e.g. the Dawn of Mourning historical Gauge record of 12,000 — stand as filed.
+
 ---
 
 ## 7. Containment Disciplines & The Two-Work-Type Rule
@@ -202,7 +206,7 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 
 ### 7.2 The Inviolable Two-Work-Type Rule (Non-Subject Entities)
 - **In Lobotomy Corporation:** Employees perform all four work types on almost all Abnormalities.
-- **In Project Somnarak:** All **Object (`[O]`)**, **Place (`[P]`)**, **Time (`[T]`)**, and **Hazard (`[H]`)** entities can **ONLY** be worked with **Viderehan and Ferrehan**.
+- **In Project Somnarak:** All **Object (`[O]`)**, **Place (`[P]`)**, and **Time (`[T]`)** entities can **ONLY** be worked with **Viderehan and Ferrehan**. **Hybrid (`[H]`)** entities file component by component: the lock binds every inanimate component, and a filed Subject component is worked as a Subject.
 - **Flerehan and Pugnahan are strictly `N/A`:**
   * Inanimate objects, rooms, and temporal phenomena have no emotional consciousness to comfort (invalidating Flerehan).
   * Inanimate relics and districts have no biological body or anatomical center to strike (invalidating Pugnahan).
@@ -222,7 +226,7 @@ Both systems utilize a four-element damage and defense architecture:
 | **PALE** | % Max HP | **Void (  공허   )** | Pale White | Existential Core (% HP) | True percentage damage; existential erasure; ignores physical armor. |
 
 ### 8.1 Psychological Rupture & Panic States in Narrative
-When an operative's mental fortitude collapses, their behavior breaks down according to the setting's psychological nature:
+When an operative's mental fortitude collapses, their behavior breaks down according to the setting's psychological nature. The lists below are narrative registers filed by this comparison for story use; the PS personnel-break system proper in the codices is **Fracture** — staged, sorrow-driven transformation — of which these acute rupture behaviours are scene-level presentations:
 
 - **Lobotomy Corporation (Sanity Collapse / Panic):**
   * *Murderous Frenzy (High Fortitude):* The employee attacks nearby colleagues with equipped weapons.
@@ -242,7 +246,7 @@ When an operative's mental fortitude collapses, their behavior breaks down accor
 | Crisis Metric | Lobotomy Corporation | Project Somnarak | Updated Canonical Mechanics |
 |---|---|---|---|
 | **Facility Emergency** | **Qliphoth Meltdown** — Red alert sirens; countdown timers on random containment cells. | **Atmospheric Watches (  사경   )** — Barometric Han surges (First, Second, Third, Tide Watch). | Shifts in subterranean Han tides elevate facility-wide pressure and breach agitation. |
-| **Breach Trigger** | **Qliphoth Counter** drops to 0 — driven by work results, named conditions, or both, per Abnormality. | **Two distinct mechanisms:** **Sorrow Gauge** saturation (100%, continuous work-driven pressure) **or Activation Threshold** fulfillment (discrete filed conditions — counts, states, spreads). An SE may file either or both. | Containment fails when the counter empties, the Gauge saturates, or the threshold set completes — whichever channel the entity carries reaches its end first. Conversion law: Universal Table §III Counters; reverse guide §VII.1. |
+| **Breach Trigger** | **Qliphoth Counter** drops to 0 — driven by work results, named conditions, or both, per Abnormality. | **Two distinct mechanisms:** **Sorrow Gauge** saturation (100%, continuous work-driven pressure) **or Activation Threshold** fulfillment (discrete filed conditions — counts, states, spreads). An SE may file either or both. | Containment fails when the counter empties, the Gauge saturates, or the threshold set completes — whichever channel the entity carries reaches its end first. Conversion law: the conversion manual counter chapters (dual-channel filing). |
 | **Standard Breach** | Entity breaks door, enters hallway, and attacks employees. | Breaching Subject roams corridors along Range Bands. | Requires tactical suppression squads to intercept and pacify on the 10-node spatial grid. |
 | **Special Transform Breach** | Not present (breached entities keep same code/form). | **Place-to-Subject Metamorphosis** (e.g. *The Maw* `C-IVω-001 [GP]` → `C-IVω-001-B [GS]`). | District/Place entities detach from the bedrock, transforming into mobile breaching colossi. |
 
@@ -260,7 +264,7 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 | Equipment Domain | Lobotomy Corporation (E.G.O) | Project Somnarak (M.A.W. Wear) | Updated Synthesis |
 |---|---|---|---|
 | **Full Name** | **Extermination of Geas / Manifestation of Ego** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
-| **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Gift**. | Standard extraction yields a 3-piece set for operatives. |
+| **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
 | **Material Taxonomy** | Categorized primarily by Risk Grade (ZAYIN–ALEPH). | Categorized by **Five Material Weight Classes**: Primal Marrow, Tempered Brass, Resonant Alloy, Woven Thread, Void Glass. | Somnarak adds physical material weight and mobility modifiers. |
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Meltdown** — Gear fuses into the nervous system under Composure Load, turning operative into an Echo. | Overuse or sanity collapse results in irreversible entity fusion. |
 
@@ -271,7 +275,7 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 | Feature | Lobotomy Corporation Tool Abnormalities | Project Somnarak Relic-Entities |
 |---|---|---|
 | **Sub-Types** | Single-Use, Equippable, Channeled / Continuous. | **A-Relics** (Consumable), **O-Relics** (Wearable), **I-Relics** (Stationary). |
-| **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Retains identical capability badges in all 82 Relic-Entity dossiers. |
+| **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Files the same three capability warnings in PS dossier terms across all 82 Relic-Entity dossiers; conversion filing adds a meltdown-precipitant flag the LC badge set does not carry. |
 | **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan strictly N/A. |
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
 
@@ -285,6 +289,8 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 | **Prudence** | Max SP (Mental Durability) | **Clarity (  명징성   )** | Max Composure, acoustic frequency detection, observation precision. |
 | **Temperance** | Work Success Rate & Work Speed | **Composure (  침착성   )** | Emotional stability, resistance to Lament/Weight drain, Flerehan stability. |
 | **Justice** | Attack Speed & Movement Speed | **Resolve (  결의   )** | Speed-scaled Action Points (AP), Pugnahan clash power, parry chance. |
+
+**Filing note:** these are nearest aptitude analogues, printed one-to-one for orientation. Work in both systems actually tests *paired* attributes (§7.1); an LC stat never substitutes for the PS pair it is printed beside, and LC stats show aptitude only — R.D. Attribute levels are earned by exposure.
 
 ---
 
@@ -310,11 +316,11 @@ For narrative fiction and worldbuilding, both universes feature intricate geopol
 
 ### 13.2 The Five Syndicates of The Raw
 In the underworld of The Raw, five criminal organizations control illicit trades, contraband mourning gear, and unrefined sorrow:
-1. **The Menders (  수선공   / *Suseongong*):** Flesh-weavers and surgical embalmers who suture dying operatives back together using thread spun from Sorrow Entity hair.
+1. **The Menders Guild (수선단 / *Suseondan*):** Flesh-weavers and surgical embalmers who suture dying operatives back together using thread spun from Sorrow Entity hair.
 2. **The Rust Frays (  녹슨 올   / *Nokseun Ol*):** Heavy scrappers and demolition scavengers who harvest decommissioned containment plating, hydraulic pistons, and seismic drilling rigs.
-3. **The Veil Merchants (  면사포 상단   / *Myeonsapo Sangdan*):** Smugglers and black-market dealers in mourning veils, acoustic dampening silks, and contraband Grade β Relics.
-4. **The Memory Washers (  기억 세탁관   / *Gieok Setakkwan*):** Illicit psycho-surgeons who scrub traumatizing containment memories from deserters and traumatized citizens for exorbitant fees.
-5. **The Debt Concourse (  부채 회랑   / *Buchae Hoirang*):** Ruthless usurers who trade in ancestral grievances, blood contracts, and karmic debts, enforcing repayment through ritualistic salt-branding.
+3. **The Veil Merchants (장막 상인회 / *Jangmak Sanginhoe*):** Smugglers and black-market dealers in mourning veils, acoustic dampening silks, and contraband Grade β Relics.
+4. **The Memory Washers (기억 세탁단 / *Gieok Setakdan*):** Illicit psycho-surgeons who scrub traumatizing containment memories from deserters and traumatized citizens for exorbitant fees.
+5. **The Debt Concourse (채무 공회 / *Chaemu Gonghoe*):** Ruthless usurers who trade in ancestral grievances, blood contracts, and karmic debts, enforcing repayment through ritualistic salt-branding.
 
 ### 13.3 Macro-Chronological Triad vs. The Dawn of Hope
 In overarching campaign lore and narrative fiction, Project Somnarak adheres strictly to the **Epochal Partition Rule** and the **Cycle Localization Law**:
@@ -346,33 +352,33 @@ On the world/professional plane, The City fields Fixers and Associations (Hana, 
 
 | Specialist Cadre | Korean Title | Functional Role & Expertise | Project Moon professional analogue (world plane unless facility-facing) |
 |---|---|---|---|
-| **Cadre Giltong** |   길통   (*Giltong*) | **Spatial Navigators & Cartographers** — Chart shifting labyrinthine corridors, Range Bands, and spatial warps. | Seven Association / Charles Office scouts |
+| **Cadre Giltong** | 길통 (*Giltong*) | **Doorspeech & Taboo Audit** — linguistic secret police: patrol with tuned acoustic receivers and silence forbidden pre-collapse vocabulary, prohibited sorrow names, and resonance-fracture speech | No direct Fixer analogue filed — the City files no speech-taboo audit profession in this comparison |
 | **Cadre Su-Ho** |   수호   (*Suho*) | **Bulwark Sentinels & Heavy Wardens** — Deploy portable acoustic shields and blast barriers during breaches. | Zwei Association (Protection & defense) |
-| **Cadre Tam-Sa** |   탐사   (*Tamsa*) | **Abyssal Inquisitors & Sounders** — Venture into unmapped salt strata to locate dormant Sorrow Entities. | Tres Association / Deep exploratory Fixers |
-| **Cadre Sim-Pan** |   심판   (*Simpan*) | **Directorate Arbiters & Executioners** — Enforce containment laws, eliminate mutineers, and execute breaching entities. | Shi Association execution Fixers (professional analogue only) |
-| **Cadre Il-Gwang** |   일광   (*Ilgwang*) | **Thermal Engineers & Sun-Prism Operators** — Focus intense thermal light to burn away corrosive Han-brine. | Dawn Office / Cinq Association |
+| **Cadre Tam-Sa** | 탐사 (*Tamsa*) | **Abyssal Sonar & Mapping** — sound unmapped salt strata and chart dormant-entity ground before anyone walks it | Survey / exploratory Fixer offices (professional analogue only) |
+| **Cadre Sim-Pan** | 심판 (*Simpan*) | **Inquest & Adjudication** — try containment-law cases within the Directorate remit and pronounce sentence, carried out under Directorate order | No clean analogue: in the City, judgment sits with the Head's apparatus and execution with Shi — Sim-Pan holds inquest and sentence in one Cadre (professional analogue only) |
+| **Cadre Il-Gwang** | 일광 (*Ilgwang*) | **High Noon Kinetic Shock** — burst kinetic-shock strikers under Baek-Gwang luster armaments | Burst-striker Fixer offices (professional analogue only; not a dawn-name match) |
 | **Cadre Hwa-Yong** |   화용   (*Hwayong*) | **Pyre-Alchemists & Salt-Incinerators** — Deploy chemical flamethrowers to incinerate crystallized salt crusts. | Liu Association (Flames and incineration) |
-| **Cadre Jeong-Bo** |   정보   (*Jeongbo*) | **Acoustic Cryptographers & Archive Wardens** — Decode entity resonance frequencies and catalog tales. | Hana Association / Seven Association analysts |
-| **Cadre Un-Song** |   운송   (*Unsong*) | **Heavy Logistics Draymen** — Transport pressurized Han-Energy capacitors and volatile Relic-Entities. | Devyat Association (Courier and transport) |
-| **Cadre Ui-Ryo** |   의료   (*Uiryo*) | **Saline Psych-Surgeons** — Treat Composure Rupture, extract crystallized salt from lungs, and realign nerves. | Doctor Fixers / Biotechnical clinics |
-| **Cadre Gyeo-Tu** |   격투   (*Gyeotu*) | **Vanguard Duelists & Suppression Champions** — Master kinetic melee combat on the 10-node spatial grid. | Shi Association / Special strike Fixers |
+| **Cadre Jeong-Bo** | 정보 (*Jeongbo*) | **Signals & Espionage** — intercept courier and vibration-wire traffic, decode it, and run covert action under Chim-Mok silence gear | Seven Association intelligence Fixers (professional analogue only) |
+| **Cadre Un-Song** | 운송 (*Unsong*) | **Overland Heavy Convoy** — armored transport of Han-Energy capacitors, Relic-Entities, and materiel along the Desolate corridors | Devyat Association (Courier and transport) |
+| **Cadre Ui-Ryo** | 의료 (*Uiryo*) | **Mnemonic & Bio-Suture** — treat Composure Rupture, suture Han-torn tissue, and stabilize damaged memory | Doctor Fixers / Biotechnical clinics |
+| **Cadre Gyeo-Tu** | 격투 (*Gyeotu*) | **Unarmed Han-Martial Arts** — close combat on the 10-node grid without drawn weapons | Close-combat specialist Fixers (professional analogue only) |
 
 ---
 
 ## 15. Story Expansion: Equipment Tuning & Artisan Workshops
 
-In Project Moon lore, Fixers purchase specialized weapons and clothing crafted by high-end Workshops (Zelkova, Old Boys, Atelier Logic, Mook, Wheels Industry). In Project Somnarak, containment gear is manufactured and refined through **The Five Workshop Grades (  공방 체계   / *Gongbang Chegye*)**:
+In Project Moon lore, Fixers purchase specialized weapons and clothing crafted by high-end Workshops (Zelkova, Old Boys, Atelier Logic, Mook, Wheels Industry). In Project Somnarak, containment gear is manufactured and refined by **The Six Sovereign Workshops** (Yeoul, Cheol-Gyeong, Chim-Mok, Hwa-Seok, Baek-Gwang, Sim-Yeon), issuing across **Five Equipment Grades** under the Workplace Law:
 
 | Workshop Grade | Workshop Tier | Access & Procurement | Drop Probability | Legendary Stat Rationale |
 |---|---|---|---|---|
-| **Grade 1 Forge** | Apprentice Workshop | Open purchase at all Absolvohan armories; basic field-issue gear. | Common (100%) | Standard baseline parameters; no special abilities. |
-| **Grade 2 Forge** | Journeyman Workshop | Directorate contract required; reinforced alloys and dampening weave. | High (50.0%) | +10% Resistance to chosen Han damage element. |
+| **Grade 1 Forge** | Apprentice Workshop | Issued on certified employment under the Workplace Law — no open-counter sale; basic field-issue gear. | Common (100%) | Standard baseline parameters; no special abilities. |
+| **Grade 2 Forge** | Journeyman Workshop | Workplace requisition on certified tenure; reinforced alloys and dampening weave. | Common (requisition) | +10% Resistance to chosen Han damage element. |
 | **Grade 3 Forge** | Master Artisan Atelier | Requires Tier 3 clearance; custom resonant tuning for specific Cadres. | **5.0% Drop** | Grants unique combat passive (e.g. Acoustic Parry). |
 | **Grade 4 Forge** | Grand Foundry Guild | Restricted to Floor Secretaries and high-ranking Absolver squads. | **1.0% Drop** | Active ability; spatial manipulation on the 10-node grid. |
 | **Grade 5 Forge** | Sovereign Master Forge | **Attains Legendary Stat; requires active contracted employment.** | **0.5% Drop** | **Legendary Stat:** Unlocks ultimate signature trait and sovereign damage multiplier. |
 
 ### 15.1 The Legendary Stat & Employment Covenant
-To wield Grade 5 Workshop equipment, an operative cannot simply purchase or loot the gear. They must swear a formal **Employment Covenant (  고용 서약   )** with the master artisan guild. If the operative breaks service or falls into Composure Rupture, the equipment's resonant matrix seals itself, preventing misuse by unauthorized parties.
+Workshop armaments are governed by the **Workplace Law (노동 소속령 — Affiliation Mandate)**: no artisan weapon is released without active certified workplace, guild, or faction affiliation, and higher grades require documented foundry service — coin alone buys nothing. On dismissal, desertion, or license loss, Grade 3–5 armaments **revert to the workshop armory** under Collector Bureau foreclosure. Grade 5's Legendary Stat is therefore held by tenure, never looted: the covenant is employment itself.
 
 ---
 
@@ -394,7 +400,7 @@ In the Reverie Directorate's Facility 01, the Dekan must guide each Floor Secret
 - **Narrative Premise:** Each departmental floor is anchored by an Echo-Core containing the accumulated grief of past cycles. To achieve complete harmonic synchronization, the Floor Secretary must descend into the core's psychological crucible and wage a 4-phase trauma battle:
   1. **Phase I — Awakening of Lament:** The floor is flooded with acoustic weeping. Operatives suffer continuous Lament pressure and must maintain Composure thresholds while decoding resonance nodes.
   2. **Phase II — Grudge Surge:** Physical shockwaves shatter the containment floor. Breaching phantoms test the squad's clash power on the 10-node spatial grid.
-  3. **Phase III — Weight of Memory:** Ancestral memories from the 1,778 historical cycles manifest as crushing gravitational burdens. Operatives must manage Weight damage and coordinate tactical positioning.
+  3. **Phase III — Weight of Memory:** Ancestral memories from Facility 01's 1,778 remembered cycles manifest as crushing gravitational burdens. Operatives must manage Weight damage and coordinate tactical positioning.
   4. **Phase IV — Void Integration:** The Secretary confronts their personal despair, integrating the floor's ancestral grief into an enlightened state of harmonic mastery.
 - **Permanent Facility Buff:** Surviving a Realization War grants permanent departmental passives, immunity to specific Atmospheric Watch penalties, and unlocks Grade 5 Workshop commissioning for that floor.
 
@@ -411,7 +417,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **E.G.O Corrosion** | **M.A.W. Meltdown (  고뇌복 용해   )** | Catastrophic fusion between equipment and operative's nervous system. |
 | **Enkephalin** | **Han-Energy (  한 에너지   )** | Refined energy extracted from entities to power the civilization. |
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
-| **Qliphoth Meltdown** | **Atmospheric Watch (  사경   )** | Facility-wide crisis timer triggering increased entity aggression. |
+| **Qliphoth Meltdown** | **Atmospheric Watch (사경)** | Facility-wide crisis escalation — not the same shape: a meltdown is a discrete countdown event falling on random cells; a Watch is a standing atmospheric state the whole facility works inside (§9.1). |
 | **Qliphoth Counter** | **Sorrow Gauge (  비탄 척도   ) & Activation Thresholds** | Not one mechanism but two: continuous Gauge pressure (0–100%, moved by work outcomes) and discrete threshold conditions (named states, counts, timers). An SE may file either or both; breach fires on Gauge saturation or threshold completion. |
 | **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
 | **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
@@ -419,8 +425,8 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via wrathful kinetic strikes to suppress entity growth. |
 | **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative suffers Composure Rupture. |
 | **HP (Health Points)** | **Sorrow Gauge / Physical Durability** | Structural or biological integrity of entities and operatives. |
-| **The Manager (X)** | **The Dekan (  데칸   )** | The supreme tactical commander and overseer of containment operations. |
-| **Angela (AI Coordinator)** | **Floor Secretary (  서기관   )** | The protocol archivist and tactical liaison guiding operatives. |
+| **The Manager (X)** | **Director Majin / The Dekan (데칸)** | One managerial chair, split at depth: Majin holds executive sovereignty (Floor 1); the Dekan, Containment Lead, is the seat containment work is dispatched from cycle to cycle. |
+| **Angela (AI Coordinator)** | **Echo-Core Floor Secretaries (서기관)** | Guidance, split at depth: one created coordinator remembering every loop there; nine Echo-Core Floor Secretaries here — archive, liaison, and memory distributed among persons bound to floors, not held in one mind. |
 | **Agent** | **Absolver (  해원사   )** | Sworn elite field operative entering containment cells. |
 | **Clerk** | **Salt-Scrubber (  염초공   )** | Auxiliary personnel maintaining sanitation, brine drainage, and grates. |
 | **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Inanimate or stationary entities operated under strict Two-Work rules. |
@@ -464,7 +470,7 @@ The systems compared above are indexed for conversion use in Appendix A of the U
 | CADRES                                                                 |
 | 10,000 HP REWORK : STANDARD (150-1000 HP) / SOVEREIGN (10,000+ HP)     |
 | TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL INANIMATE TYPES        |
-| STATUS           : FULLY RATIFIED & SYNCHRONIZED ACROSS ARCHIVE        |
+| STATUS           : INDEXED FOR CONVERSION USE (APPENDIX A)             |
 +========================================================================+
 ```
 
