@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Comparison planes corrected: facility vs world vocabulary (2026-10-30)
+
+- **Institutional comparisons now keep two planes apart** in the conversion manual and the Expanded System Comparison: the **facility plane** reads **Lobotomy Corporation ↔ Reverie Directorate (R.D.) + The Absolvohan (Facility 01 / The Hand of Change)** for departments, work, quotas, counters, extraction, and organization/terminal mapping; the **world plane** reads **The City ↔ Somnarak** (Somnarak City, Council of Sighs, Zones A–E, The Raw, syndicates, professions) for governance, geography, and story placement. New governing section in manual Chapter 2: *Institutional Comparison Planes*.
+- **Specific mixes repaired:** core-matrix and facility/energy tables relabeled to the facility plane; Facility 01 named as The Absolvohan stratum beneath the Alpha Tree under Echo-Core Floor Secretaries; the Council of Sighs restored to chartering/municipal authority rather than daily facility management or Somnarak co-government with the Directorate; outer-world governance row no longer pairs the Head/Wings with the Directorate; Specialist Cadres reframed as Somnarak professional bodies (Directorate-contracted where facility-facing) with Sim-Pan no longer analogized to the Head's Arbiters; lexicon header now states the plane follows the row. In the manual's organization tables, the PS column is labeled R.D. + The Absolvohan and **Zones A–E are no longer mapped to departments/floors** (Facility 01 floors/sectors are, in the organization table; Zones read against City Districts in world-concepts). Appendix A row 45 loses the stray "CCA / Wing" shorthand and is indexed as facility-plane organization & S.A.M.S. Standalone owner-original bodies were not rewritten; plane labels were corrected in the manual's carried tables and in the authored Expanded Comparison (standalone + carried copy kept in sync).
+
+
 ## Overhaul cleaned and expanded: forward rewrites, no erasure (2026-10-30)
 
 - **Standing rule A6 clarified:** opposite-framed conversion material is **rewritten into SE → Abnormality form; its substantive mechanics are not erased** for having been framed the other way first.

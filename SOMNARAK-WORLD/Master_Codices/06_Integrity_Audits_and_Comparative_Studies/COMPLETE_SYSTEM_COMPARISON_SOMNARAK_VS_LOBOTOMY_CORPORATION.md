@@ -18,7 +18,7 @@
 ```
 
 
-> *"This document provides a comprehensive, 1-to-1 narrative and systems comparison between **Lobotomy Corporation** (Project Moon) and **Project Somnarak**. It serves both as a precise operational reference and as an enriched story bible for authors, game masters, and chroniclers. It preserves the authentic comparative format while fully detailing native vocabulary, cosmological lore, geopolitical underpinnings, containment mechanics, tactical calibrations, and narrative protocols across both universes."*
+> *"This document provides a comprehensive, 1-to-1 narrative and systems comparison between **Project Moon** and **Project Somnarak**, kept on two planes: **Lobotomy Corporation** against **the Reverie Directorate / The Absolvohan (Facility 01)** for institutional systems, and **The City** against **Somnarak** for world systems. It serves both as a precise operational reference and as an enriched story bible for authors, game masters, and chroniclers. It preserves the authentic comparative format while fully detailing native vocabulary, cosmological lore, geopolitical underpinnings, containment mechanics, tactical calibrations, and narrative protocols across both universes."*
 
 ---
 
@@ -26,13 +26,15 @@
 
 **System Comparison at a Glance // Core Metrics**
 
-| Feature | Lobotomy Corporation | Project Somnarak |
+Rows state their plane: facility rows read Lobotomy Corporation against R.D. + The Absolvohan (Facility 01); world rows read The City against Somnarak.
+
+| Feature | Project Moon | Project Somnarak |
 |---|---|---|
-| Operating Agency | Lobotomy Corporation | Reverie Directorate |
+| Operating agency (facility plane) | Lobotomy Corporation facility | Reverie Directorate + The Absolvohan (Facility 01) |
 | Primary Energy Source | Enkephalin (PE/NE) | Han-Energy |
 | Entity Classification | Abnormalities | Sorrow Entities |
 | Threat Hierarchy | ZAYIN to ALEPH | Ranks I-V / a to w |
-| Containment Discipline | 4 Works (All Units) | Absolvohan (2 or 4) |
+| Containment discipline (facility plane) | 4 Works (All Units) | Absolvohan works (2 locked for inanimate; 4 for Subjects) |
 | Inanimate Restriction | Unrestricted | 2 Works (Vid/Fer) |
 | Damage Spectrum | RED/WHITE/BLACK/PALE | Grudge/Lam/Wgt/Void |
 | Crisis Mechanics | Qliphoth Meltdowns | Four Watches |
@@ -40,9 +42,9 @@
 | Equipment Extraction | E.G.O (Weapon/Suit) | M.A.W. (3 Pieces) |
 | Tool Entity Framework | Tool Abnormalities | Relic-Entities |
 | Department Awakening | Core Suppressions | Realization Wars |
-| External Guilds | Fixer Associations | Ten Cadres |
-| Underworld Factions | The Five Fingers | Five Raw Syndicates |
-| Equipment Tuning | Fixer Workshops | Five-Grade Forges |
+| External guilds (world / professional plane) | The City: Fixer Associations | Somnarak: Ten Specialist Cadres |
+| Underworld factions (world plane) | The City: Five Fingers | Somnarak / The Raw: Five Raw Syndicates |
+| Equipment tuning (craft / armory plane) | The City: Fixer Workshops | Somnarak: Five-Grade Forges |
 
 
 ---
@@ -51,7 +53,7 @@
 
 The underlying mythos of both worlds drives their operational and narrative tone. In **Lobotomy Corporation**, horror arises from the commodification of the collective human unconscious, corporate exploitation, and the struggle for individual self-actualization. In **Project Somnarak**, horror stems from ancestral grief, accumulated historical injustice, communal mourning, and the heavy physical residue of saline tears accumulating over millennia.
 
-| Cosmological Realm | Lobotomy Corporation (Project Moon) | Project Somnarak (Reverie Directorate) | Narrative & Story Synthesis |
+| Cosmological Realm | Project Moon | Project Somnarak | Narrative & Story Synthesis |
 |---|---|---|---|
 | **Primary Metaphysical Force** | **Cogito / Human Unconscious** — Liquid extraction of human archetypes, fears, and suppressed desires. | **Han (  한   )** — Collective, unspoken historical sorrow, grief, and unavenged grief accumulated across 1,778 historical cycles. | Cogito manifests individual psyche into monsters; Han crystallizes communal grief into Sorrow Entities. |
 | **Origin Reservoir** | **The River · the Bucket · the Well** — The River (강) at the very bottom of the world, source of everything; the Bucket (두레박), Carmen's reservoir below Extraction; the Well (우물), the comatose people Cogito is injected into to draw Abnormalities out (variant reading: Carmen's reservoir itself; PMU anchors Binah's usage). See §2A. | **The Weeping (울음)** — The river of liquid Han beneath everything: older than the city, planetary in extent, the source of all Sorrow Entities; accessed by the **Abyssal Well (심연의 우물)** and reflected in the Deep Vault (canon: `SOMNARAK_THE_WEEPING.md`; the older "Ancient Salt Sediment & 1,778 Mnemonic Engrams" phrasing is retained here as a superseded reading of the same depth). See §2A. | Both worlds keep a river of collective human sorrow at the bottom of the world and build their power economy over it — connected at the origin, never identical. §2A carries the full geometry. |
@@ -115,12 +117,12 @@ A shared story declares one geometry, exactly as the Universal Conversion Table 
 
 Both settings feature a strict vertical bureaucracy governing subterranean containment chambers.
 
-| Operational Feature | Lobotomy Corporation | Project Somnarak (Reverie Directorate) | Narrative & Story Register |
+| Operational Feature (facility plane) | Lobotomy Corporation facility | Reverie Directorate + The Absolvohan (Facility 01) | Narrative & Story Register |
 |---|---|---|---|
-| **Managing Authority** | **Lobotomy Corporation** (Wing L of the City) | **The Reverie Directorate (  몽환국   )** governed by the **Council of Sighs (  위령원   )** | Corporate energy conglomerate vs solemn municipal civic trust and grief ministry. |
-| **Facility Environment** | Subterranean bunker facility (District 12) divided into 10 Sephirah Departments. | Subterranean containment stratum: **The Absolvohan (  해원한   )**, constructed above the abyssal weeping vents. | Modern sterile industrial laboratories vs brutalist slate vaults lined with acoustic dampeners and incense grates. |
+| **Managing Authority** | **Lobotomy Corporation** (Wing L operating the facility) | **The Reverie Directorate (R.D.)** — Facility 01 under Director Majin; publicly chartered by the Council of Sighs, operationally sovereign inside Facility 01 | Corporate Wing facility vs chartered containment directorate. |
+| **Facility Environment** | Subterranean bunker facility (in the City's District 12) divided into 10 Sephirah Departments. | Subterranean containment stratum: **Facility 01 (The Hand of Change)** — the Absolvohan vaults beneath the Alpha Tree in Zone A. | Modern sterile industrial laboratories vs brutalist slate vaults lined with acoustic dampeners and incense grates. |
 | **Primary Executive** | **The Manager (X)** advised by AI Coordinator **Angela**. | **The Dekan (  데칸   )** advised by Floor Secretaries (  서기관   ) and High Wardens. | Distant corporate overseer and synthetic guide vs ordained grief magistrate and monastic archivists. |
-| **Department Structure** | Control, Information, Training, Security, Central Command, Welfare, Disciplinary, Extraction, Records, Architecture. | Departmental Floors: Floor 01 (Foundation), Floor 02 (Dekan Archive), Floor 03 (Thermal Hearth), Floor 04 (Acoustic Buffer), Floor 05 to Floor 10. | Departments supervise specific containment wings and provide facility buffs and defensive wards. |
+| **Department Structure** | Control, Information, Training, Security, Central Command, Welfare, Disciplinary, Extraction, Records, Architecture. | Facility 01 containment floors and sectors under Echo-Core Floor Secretaries (Foundation, Dekan Archive, Thermal Hearth, Acoustic Buffer, and the deeper Absolvohan floors as filed). | Departments supervise specific containment wings and provide facility buffs and defensive wards. |
 | **Operative Personnel** | **Agents** (armed containment workers) and **Clerks** (office staff providing morale). | **Absolvers (  해원사   )** (containment operatives) and **Salt-Scrubbers (  염초공   )** (sanitation personnel). | Sacrificial corporate employees vs solemn sworn liturgical containment wardens. |
 | **Tactical Rapid Response** | **Rabbit Team** (R Corp 4th Pack mercenaries) summoned for total sector cleansing. | **Cadre Sim-Pan (  심판   / Arbiters)** and **Cadre Gyeo-Tu (  격투   / Duelists)** mobilized for kinetic execution. | Hired private military shock troopers vs dedicated Directorate inquisitors and frontline champions. |
 
@@ -128,18 +130,18 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 
 ## 4. Energy Extraction & Production Systems
 
-| Metric | Lobotomy Corporation | Project Somnarak | Mechanics & Story Lore |
+| Metric (facility plane) | Lobotomy Corporation | R.D. + The Absolvohan | Mechanics & Story Lore |
 |---|---|---|---|
 | **Energy Medium** | **Enkephalin** — Green fluid extracted from Abnormalities; refined into electrical power. | **Han-Energy (  한 에너지   )** — Acoustic-metaphysical resonance harvested from pacified Sorrow Entities. | Enkephalin powers the City's technological infrastructure; Han-Energy powers Somnarak's thermal hearths and barrier wards. |
 | **Work Output** | **PE-Boxes** (Positive Enkephalin) and **NE-Boxes** (Negative Enkephalin). | **Han-Energy Yield** per work cycle (08 to 40+ Han units). | PE-Boxes fill the facility's daily quota; Han-Energy fills municipal capacitors to stave off the freezing dark. |
-| **Daily Quota** | Daily quota threshold (e.g., 200–1,200 PE) required to conclude the work day. | Daily Han-Quota required to maintain the Absolvohan's containment barriers and prevent citywide blackout. | Failure to meet daily quota triggers emergency overtime, panic, and structural containment instability. |
+| **Daily Quota** | Daily quota threshold (e.g., 200–1,200 PE) required to conclude the work day. | Daily Han-Quota required to maintain Facility 01 containment barriers through the Absolvohan cycle. | Failure to meet daily quota triggers emergency overtime, panic, and structural containment instability. |
 | **Sanitation / Byproducts** | Minor Enkephalin gas fumes; cleansers scrub residue. | **Han-Brine (  염간수   / *Yeomgansu*)** — Caustic saline fluid that crystallizes into corrosive salt if left unburned. | Somnarak incorporates physical brine build-up that erodes floorboards, requiring Haz-scorchers (  화용반   ) to burn it off. |
 
 ---
 
 ## 5. Entity Classification & Threat Tiers
 
-Lobotomy Corporation ranks Abnormalities through a five-tier Hebrew risk scale. Project Somnarak uses the **SECC (Sorrow Entity Classification Code)** combining Coherence Ranks (I to V) and Potency Grades (α to ω):
+Lobotomy Corporation ranks Abnormalities through a five-tier Hebrew risk scale. The R.D. archive uses the **SECC (Sorrow Entity Classification Code)** combining Coherence Ranks (I to V) and Potency Grades (α to ω):
 
 | Threat Level | Lobotomy Corp Risk Tier | Somnarak Coherence Rank | Somnarak Potency Grade | Threat Scope & Containment Profile |
 |---|---|---|---|---|
@@ -282,9 +284,9 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 
 **Geopolitical & Faction Equivalence // Matrix**
 
-| Lobotomy Corp / The City | Project Somnarak / The Raw |
+| Project Moon — The City (world plane) | Project Somnarak — Somnarak & The Raw (world plane) |
 |---|---|
-| The Head / Wings of the City | Council of Sighs / Directorate |
+| The Head / Wings of the City | Council of Sighs and Somnarak's municipal / Corner authorities |
 | The Five Fingers (Syndicates) | Five Syndicates of The Raw |
 | Fixer Associations (Hana, Zwei, etc) | Ten Specialist Cadres |
 | Fixer Workshops (Zelkova, Mook, etc) | Five Artisan Workshop Grades |
@@ -296,7 +298,7 @@ For narrative fiction and worldbuilding, both universes feature intricate geopol
 
 ### 13.1 The City vs. Somnarak City & The Raw
 - **The City (Project Moon):** Governed by **The Head** (A Corp, B Corp, C Corp) with absolute taboos enforced by Arbiters and Claws. The 26 Wings exploit their Singularities, while the **Five Fingers** (Thumb, Index, Middle, Ring, Pinky) govern the underworld Backstreets through brutal syndicates.
-- **Somnarak City & The Raw (Project Somnarak):** Somnarak City is an engineered cavern stronghold governed by the **Council of Sighs (  위령원   )** and the **Reverie Directorate (  몽환국   )**. Outside the thermal wards lies **The Raw (  생경   )**, a lawless undercity built in the salt-encrusted ruins of previous cycles, and beyond that lies **The Desolate (  황무지   )**, the frozen exterior surface.
+- **Somnarak City & The Raw (Project Somnarak):** Somnarak City is an engineered cavern stronghold governed by the **Council of Sighs**. The Reverie Directorate is the chartered containment institution at Facility 01 beneath the Alpha Tree, not the city government. Outside the thermal wards lies **The Raw**, a lawless undercity built in salt-encrusted ruins, and beyond that **The Desolate**, the frozen exterior surface.
 
 ### 13.2 The Five Syndicates of The Raw
 In the underworld of The Raw, five criminal organizations control illicit trades, contraband mourning gear, and unrefined sorrow:
@@ -332,14 +334,14 @@ In overarching campaign lore and narrative fiction, Project Somnarak adheres str
 
 ## 14. Story Expansion: Specialist Cadres & Contractor Bureaus
 
-While Lobotomy Corporation hires independent Fixers and Associations (Hana, Zwei, Shi, Dieci, Liu, Seven) through the Charles Office and Hana Association, the Reverie Directorate contracts **The Ten Specialist Cadres (  십대 전문직 결사   / *Sipdae Jeonmunjik Gyeolsa*)**:
+On the world/professional plane, The City fields Fixers and Associations (Hana, Zwei, Shi, Dieci, Liu, Seven) through offices such as Charles Office and the Hana Association. Somnarak fields, and the Reverie Directorate may contract into Facility 01, **The Ten Specialist Cadres (  십대 전문직 결사   / *Sipdae Jeonmunjik Gyeolsa*)**:
 
-| Specialist Cadre | Korean Title | Functional Role & Expertise | Lobotomy / PM Fixer Equivalent |
+| Specialist Cadre | Korean Title | Functional Role & Expertise | Project Moon professional analogue (world plane unless facility-facing) |
 |---|---|---|---|
 | **Cadre Giltong** |   길통   (*Giltong*) | **Spatial Navigators & Cartographers** — Chart shifting labyrinthine corridors, Range Bands, and spatial warps. | Seven Association / Charles Office scouts |
 | **Cadre Su-Ho** |   수호   (*Suho*) | **Bulwark Sentinels & Heavy Wardens** — Deploy portable acoustic shields and blast barriers during breaches. | Zwei Association (Protection & defense) |
 | **Cadre Tam-Sa** |   탐사   (*Tamsa*) | **Abyssal Inquisitors & Sounders** — Venture into unmapped salt strata to locate dormant Sorrow Entities. | Tres Association / Deep exploratory Fixers |
-| **Cadre Sim-Pan** |   심판   (*Simpan*) | **Directorate Arbiters & Executioners** — Enforce containment laws, eliminate mutineers, and execute breaching entities. | The Head's Arbiters / Shi Association |
+| **Cadre Sim-Pan** |   심판   (*Simpan*) | **Directorate Arbiters & Executioners** — Enforce containment laws, eliminate mutineers, and execute breaching entities. | Shi Association execution Fixers (professional analogue only) |
 | **Cadre Il-Gwang** |   일광   (*Ilgwang*) | **Thermal Engineers & Sun-Prism Operators** — Focus intense thermal light to burn away corrosive Han-brine. | Dawn Office / Cinq Association |
 | **Cadre Hwa-Yong** |   화용   (*Hwayong*) | **Pyre-Alchemists & Salt-Incinerators** — Deploy chemical flamethrowers to incinerate crystallized salt crusts. | Liu Association (Flames and incineration) |
 | **Cadre Jeong-Bo** |   정보   (*Jeongbo*) | **Acoustic Cryptographers & Archive Wardens** — Decode entity resonance frequencies and catalog tales. | Hana Association / Seven Association analysts |
@@ -380,7 +382,7 @@ To wield Grade 5 Workshop equipment, an operative cannot simply purchase or loot
 
 In Lobotomy Corporation, the Manager must face **Sephirah Meltdowns (Core Suppressions)** from Malkuth to Keter, resolving each Sephirah's personal trauma to awaken the facility's full potential and complete the Seed of Light.
 
-In Project Somnarak, the Dekan must guide each Floor Secretary through **Echo-Core Resonant Realization Wars (  잔향핵 공명 각성전   / *Janhyanghaek Gongmyeong Gakseongjeon*)**:
+In the Reverie Directorate's Facility 01, the Dekan must guide each Floor Secretary through **Echo-Core Resonant Realization Wars (  잔향핵 공명 각성전   / *Janhyanghaek Gongmyeong Gakseongjeon*)**:
 - **Narrative Premise:** Each departmental floor is anchored by an Echo-Core containing the accumulated grief of past cycles. To achieve complete harmonic synchronization, the Floor Secretary must descend into the core's psychological crucible and wage a 4-phase trauma battle:
   1. **Phase I — Awakening of Lament:** The floor is flooded with acoustic weeping. Operatives suffer continuous Lament pressure and must maintain Composure thresholds while decoding resonance nodes.
   2. **Phase II — Grudge Surge:** Physical shockwaves shatter the containment floor. Breaching phantoms test the squad's clash power on the 10-node spatial grid.
@@ -394,7 +396,7 @@ In Project Somnarak, the Dekan must guide each Floor Secretary through **Echo-Co
 
 This lexicon serves authors and creators adapting scenarios, dialogue, or lore between the two settings:
 
-| Lobotomy Corporation / Project Moon | Project Somnarak (Reverie Directorate) | Narrative Meaning & In-Universe Application |
+| Project Moon term | Project Somnarak term (plane follows the row) | Narrative Meaning & In-Universe Application |
 |---|---|---|
 | **Abnormality** | **Sorrow Entity (  비탄의 개체   )** | The supernatural phenomena contained within the facility. |
 | **E.G.O (Equipment)** | **M.A.W. Wear (  물질화 고뇌복   )** | Weapons and protective suits extracted from contained entities. |
@@ -418,7 +420,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **The City** | **Somnarak City (  솜나락 도성   )** | The main human metropolitan stronghold. |
 | **Backstreets** | **The Raw (  생경   )** | The unpatrolled, violent undercity surrounding the facility. |
 | **Outskirts** | **The Desolate (  황무지   )** | The frozen, uninhabitable planetary badlands beyond the perimeter. |
-| **The Fingers (Syndicates)** | **Five Syndicates of The Raw** | Major criminal syndicates governing the underworld outside Directorate law. |
+| **The Fingers (Syndicates)** | **Five Syndicates of The Raw** | Major criminal syndicates governing The Raw underworld beyond ordinary municipal reach. |
 | **Fixers & Associations** | **Ten Specialist Cadres** | Specialized contractor guilds providing mercenary and tactical services. |
 | **Fixer Workshops** | **Artisan Workshops (Grades 1–5)** | Specialized guilds forging high-tier containment weapons and armor. |
 | **The Well / Cogito** | **1,778 Mnemonic Engrams** | The ancient repository of collective subconscious memory and grief. |
