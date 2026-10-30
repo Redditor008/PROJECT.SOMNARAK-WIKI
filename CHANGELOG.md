@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Native breacher calibration — mixed Regular/Special table; ZAYIN multiplier back-solved (2026-10-30)
+
+- **Mixed Regular/Special calibration table added (manual Ch. 4, after the whole-band reads):** Regular files damageable single-body breach pools and ordinary per-hit breach attacks; Special files immune/event pools, proxy targets, phase refills, minions, conditional forms, and spike/suicide/trap/duration-total attacks separately. Verified native sample: TETH 120–330 HP (no ZAYIN-risk Regular breacher), HE 300–830 HP, Nothing There 2,000 HP/form and WhiteNight 12,000 HP, with Apocalypse Bird’s 330,000 HP immune pool and its 6,400 / 9,900 / 6,400 HP eggs plus 13,000 HP portal kept in Special.
+- **Middle/highest verdicts — no multiplier change compelled:** Learned Your Face (1,248 HP · 24–55 PALE) passes the sampled HE Regular ceiling and ordinary per-hit singles; Dawn of Mourning (228,000 damageable HP · 44–111 Mixed) passes the Regular ALEPH ceiling and every damageable Special target. Apocalypse Bird’s larger pool is immune and is not depleted by suppression, so it calibrates no damageable HP multiplier. **HE ×1.8, WAW ×9 (not sampled this pass), ALEPH ×19, and all ATK ranges stand.**
+- **ZAYIN logical lower-band derivation — the one factor tweaked:** the sampled Regular ladder steps from the lowest HE pool (All-Around Helper 300 HP) down to Scorched Girl 120 HP at TETH. Capping the next-lower ZAYIN derived ceiling at that 120 HP seam while preserving the 150–300 input span back-solves `300 × m = 120` → **×0.4**, replacing ×0.5 on every canonical Guide 2 surface and in the CMP filing note. Derived ZAYIN band **75–150 → 60–120 HP**; Kind Echo **25 → 20 HP**, below-band flag unchanged. This supersedes only the ZAYIN figures in the two entries below.
+- **Real-record correction carried with the same pass:** §6’s ALEPH sample cell in both files no longer files WhiteNight at 6,666 HP; it now reads **2,000–12,000 HP (Regular breacher sample; WhiteNight: 12,000 HP)**.
+
 ## Whole-band multiplier reference — three dossier reads (2026-10-30)
 
 - **Unified output-band table added (manual Ch. 4, after Arithmetic Filing):** Dossier Gauge input band → fixed HP multiplier → derived LC HP band (**75–150 / 300–500 / 900–1,350 / 6,750–9,000 / 19,000–228,000**), beside the ATK filed-*m* band and the Max PE physical / PE-equivalent quota bands (**12–17 / 16–22 / 21–29 / 27–38 / 36–48**). The table states its **LOGIC** on its face: Gauge bands check inputs, ATK bands bound one filed *m*, and PE-equivalent bands are whole-range envelopes until one `d` is filed.

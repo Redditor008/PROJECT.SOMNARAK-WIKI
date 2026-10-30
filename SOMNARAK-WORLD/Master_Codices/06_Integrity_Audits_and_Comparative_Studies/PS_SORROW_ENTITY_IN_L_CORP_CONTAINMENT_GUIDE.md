@@ -721,7 +721,7 @@ Threat Score = Potency Rank + Coherence Rank
 5. **ALEPH Level Entity** = 1 base ATK = x0.8 to x1.3
 
 ### **HEALTH / HP**
-1. **ZAYIN Level Entity** = 1 Base HP = x0.5
+1. **ZAYIN Level Entity** = 1 Base HP = x0.4
 2. **TETH Level Entity** = 1 Base HP = x1.0
 3. **HE Level Entity** = 1 Base HP = x1.8
 4. **WAW Level Entity** = 1 base HP = x9
@@ -744,7 +744,7 @@ The Sephirah Council classifies incoming Sorrow Entities into Lobotomy Corporati
 
 Tier is set by the owner's **Threat Score** — read from the transformation tables at the head of this chapter: **Score = Coherence rank + Potency rank** (I/α = 1 … V/ω = 5) → **2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH**. Off-diagonal pairs need no tie-break; the sum decides, and it *upgrades or downgrades* the diagonal read upward or downward (the Maw IV + ω = 9, ALEPH, as rostered in Section VIII; a ω + I entity is 6, HE — catastrophic potency in a residue body is dangerous, not sovereign). The Rank/Grade column above remains the diagonal reference. Within the tier:
 
-- **HP** = `ceil(dossier Sorrow Gauge [HP] × tier multiplier)` — **×0.5** ZAYIN · **×1.0** TETH · **×1.8** HE · **×9** WAW · **×19** ALEPH. The low tiers are no longer compressed as Cogito-light bodies; **HE is the equilibrium anchor**; and at WAW/ALEPH the density is read across the **whole** Gauge, not as a small premium laid over it — a 999-Gauge body therefore files **8,991 HP at WAW** and **18,981 HP at ALEPH**. **Every converted number is a whole number, always rounded UP; no decimals** (owner's rule). The dossier Gauge is checked against its Dossier Gauge band above before multiplying; a base outside the band is flagged with the arithmetic shown, and the derived figure stands — never silently rescaled.
+- **HP** = `ceil(dossier Sorrow Gauge [HP] × tier multiplier)` — **×0.4** ZAYIN · **×1.0** TETH · **×1.8** HE · **×9** WAW · **×19** ALEPH. The low tiers are no longer compressed as Cogito-light bodies; **HE is the equilibrium anchor**; and at WAW/ALEPH the density is read across the **whole** Gauge, not as a small premium laid over it — a 999-Gauge body therefore files **8,991 HP at WAW** and **18,981 HP at ALEPH**. **Every converted number is a whole number, always rounded UP; no decimals** (owner's rule). The dossier Gauge is checked against its Dossier Gauge band above before multiplying; a base outside the band is flagged with the arithmetic shown, and the derived figure stands — never silently rescaled.
 - **Work damage** type comes from the entity's Element (Section V); values = `ceil(Han Pressure × tier multiplier)` inside the owner's ranges — **×0.8–1.2** ZAYIN · **×1.3–1.5** TETH · **×1.4–1.8** HE · **×1.2–2.0** WAW · **×0.8–1.3 ALEPH** (HE is the peak *standard* raw-damage band; the WAW upper end is filed only for dossiered spike patterns, and ALEPH remains lower per hit where its threat is carried by mechanics; Instant Death / Instant Fracture outcomes convert only where the dossier files them — never added by tier). Intake fixes one value inside the range and files it; the Attack band above remains the sanity check, and no scene re-rolls a filed value.
 - **PE-Boxes** file in two ledgers. The **physical box count** follows the tier band above. The **quota value** then applies the Section I density split: `PE-equivalent = ceil(N × (0.88 + 0.12d))`, where `d` is the one dense-fraction factor (**×2.0–×2.5**) chosen from the dossier density pattern and filed at intake. Density changes energy value; it never creates extra physical boxes and never turns Han Yield into a 1:1 exchange.
 - **Counters** are set from the dossier's two mechanisms — Sorrow Gauge behavior and Activation Thresholds — per the Counters subsection below. An SE may file either, both, or neither (**Counter: —**); the tier band above bounds the Gauge channel's counter value where one is filed, and every condition that moves either channel is named from the dossier (a denial published, a resemblance introduced, a gaze sustained), never "random".
@@ -816,7 +816,7 @@ Read the band left to right. The Dossier Gauge column is the **input check**; th
 
 | Risk Level (Threat Score) | Dossier Gauge [HP] input band | HP multiplier | Derived LC HP band | ATK filed-*m* band | Max PE-Boxes (physical) | PE-equivalent quota band |
 |---|---|---|---|---|---|---|
-| **ZAYIN** (2–3) | 150–300 | ×0.5 | **75–150** | ×0.8–1.2 | 10–14 | **12–17** |
+| **ZAYIN** (2–3) | 150–300 | ×0.4 | **60–120** | ×0.8–1.2 | 10–14 | **12–17** |
 | **TETH** (4–5) | 300–500 | ×1.0 | **300–500** | ×1.3–1.5 | 14–18 | **16–22** |
 | **HE** (6) | 500–750 | ×1.8 | **900–1,350** | ×1.4–1.8 | 18–24 | **21–29** |
 | **WAW** (7–8) | 750–1,000 | ×9 | **6,750–9,000** | ×1.2–2.0 | 24–32 | **27–38** |
@@ -826,15 +826,29 @@ Three dossier reads place the ends and the middle. They are multiplier reads, no
 
 | Reference point | Entity read | HP derivation | Work-damage derivation | PE read |
 |---|---|---|---|---|
-| **Lowest filed Gauge** | **Kind Echo** — `C-Iα-000 [LS]`; Score 2 → **ZAYIN** | Gauge **50** — **below** the 150–300 input check, so the flag is written and the base is not rescaled: `ceil(50 × 0.5)` = **25 HP** | Pressure **2–5 · Lament**; gentle ambient pressure files low *m* = 0.8 → **2–4 WHITE** | Han Yield **2–4** stays worksheet input; roster Max **12 physical PE** → **14–15 PE-equivalent** |
+| **Lowest filed Gauge** | **Kind Echo** — `C-Iα-000 [LS]`; Score 2 → **ZAYIN** | Gauge **50** — **below** the 150–300 input check, so the flag is written and the base is not rescaled: `ceil(50 × 0.4)` = **20 HP** | Pressure **2–5 · Lament**; gentle ambient pressure files low *m* = 0.8 → **2–4 WHITE** | Han Yield **2–4** stays worksheet input; roster Max **12 physical PE** → **14–15 PE-equivalent** |
 | **Middle Risk / equilibrium anchor** | **Learned Your Face** — `C-IIIγ-195 [VO]`; Score 6 → **HE** | Gauge **693**, inside 500–750: `ceil(693 × 1.8)` = **1,248 HP** | Pressure **15–34 · Void**; standard *m* = 1.6 → **24–55 PALE**. This crosses the Section III 18–35 sanity band, so it is flagged as a check result — the arithmetic is not rescaled to fit it | Han Yield **16–22** stays worksheet input; HE Max band **18–24 physical PE** → **21–29 PE-equivalent** (this read assigns no single count) |
 | **Highest filed Gauge** | **Dawn of Mourning** — `C-Vω-001 [LS]`; Score 10 → **ALEPH** | Historical/projected Gauge **12,000**, at the top of 1,000–12,000: `ceil(12,000 × 19)` = **228,000 HP** | Pressure **44–111 · all four elements**; standard reference *m* = 1.0 → **44–111 Mixed cycle**. The dossier's unresolved critical rider is not spent to justify a spike filing | Modelled Han Yield **28–40** stays worksheet input; ALEPH Max band **32–40 physical PE** → **36–48 PE-equivalent**. Historical/projected read, not a current-cycle intake |
+
+### Native Breacher Calibration — Regular and Special Ledgers
+
+Regular and Special are different filing ledgers. **Regular** is a damageable, single-body breach pool and its ordinary per-hit breach attacks. **Special** is an immune or event pool, a proxy target, a phase refill, a minion pool, a conditional form, or a spike, suicide, trap, or duration-total attack. The native comparands below breach and file both HP and attack values; non-breachers, possession hosts, and spawned bodies are not used as Regular bodies. Converted damage is read below per hostile hit. The native Basic-Info Work Damage stat is a separate channel and is not folded into breach ATK.
+
+| Reference point | Native Regular ledger | Native Special ledger | Converted read | Calibration verdict |
+|---|---|---|---|---|
+| **Lowest** | No ZAYIN-risk form files a Regular breach pool. Lowest sampled breaching tier, **TETH**: **Scorched Girl** `F-01-02` · **120 HP** · **Punishing Bird** `O-02-56` · **200 HP**, peck **0–1 RED** · **Void Dream** `T-02-99` · **250 HP** · **Meat Lantern** `O-04-84` · **330 HP** | Scorched Girl room explosion **300 RED** (suicide spike) · Punishing Bird attacked form **1,000 HP**, bite **800–1,200 RED** · Void Dream rooster cackle **3–5 WHITE** · Meat Lantern chomp **500 RED** (hidden trap) | **Kind Echo → 20 HP · 2–4 WHITE**; derived ZAYIN band **60–120 HP** | No native same-tier Regular breacher exists to pass or fail. The ZAYIN factor is therefore extrapolated downward rather than copied: **×0.5 → ×0.4** |
+| **Middle (HE)** | **All-Around Helper** `T-05-41` · **300 HP**, charge **20–30 RED** · **The Funeral of the Dead Butterflies** `T-01-68` · **400 HP**, shot **10–15 WHITE** · **Warm-hearted Woodsman** `F-05-32` · **430 HP**, melee **5–10 RED** · **Rudolta of the Sleigh** `F-02-49` · **450 HP**, room spill **5–7 WHITE** · **Scarecrow Searching for Wisdom** `F-01-87` · **500 HP**, melee **3–7 BLACK** · **Schadenfreude** `O-05-76` · **800 HP**, strike **5–7 RED** · **Porccubus** `O-02-98` · **830 HP**, close **WHITE by Temperance** | Funeral butterfly stream **3–4 WHITE per tick** · Woodsman charged slam **15–20 RED** · Schadenfreude saw **60–90 RED duration total** | **Learned Your Face → 1,248 HP · 24–55 PALE** | HP passes the sampled Regular ceiling (**830**), and the per-hit range stands at or above the ordinary single-hit bands. The saw figure remains a duration total in Special, not a per-hit comparator. **HE ×1.8 stands** |
+| **Highest (ALEPH)** | **Nothing There** `O-06-20` · **2,000 HP per form**; claw **18–21 RED**, mace **25–35 RED**, “Hello” shard **50–60 RED** · **WhiteNight** `T-03-46` · **12,000 HP**, expanding ring **40 PALE** | Nothing There phase refills; “Goodbye” **300 RED** spike · WhiteNight Apostles **1,000 HP each** as minion pools · **Apocalypse Bird** `O-02-63` · **330,000 HP immune pool**; suppression targets are eggs **6,400 / 9,900 / 6,400 HP** and the **13,000 HP** portal; talons **23–43 BLACK**, scale **10–15 PALE** facility-wide, mouth **50–115 RED** | **Dawn of Mourning → 228,000 HP · 44–111 Mixed cycle** (historical/projected) | Damageable HP passes the Regular ceiling (**12,000**) and every damageable Special target. The larger 330,000 pool is immune and is never depleted to suppress the event, so it is not a damageable-pool calibration target. Per-hit damage passes the Regular standards; named spikes stay in Special. **ALEPH ×19 stands** |
+
+**ZAYIN ladder logic.** The sampled native Regular floors step down from the lowest HE pool, All-Around Helper **300 HP**, to the lowest sampled TETH pool, Scorched Girl **120 HP**. A lower ZAYIN band must therefore sit no higher than the **120 HP** seam. The filed ZAYIN Gauge input band is **150–300**, a 1:2 span. Preserve that span and cap the derived ceiling at the seam: `300 × m = 120`, so `m = ×0.4`; therefore `150 × 0.4 = 60`, giving a derived ZAYIN band of **60–120 HP**. The multiplier is back-solved from the lower band, not assigned before the band exists. Kind Echo remains a below-band input and recomputes as `ceil(50 × 0.4)` = **20 HP**.
+
+The same check leaves TETH honest without forcing disjoint tiers: its converted **300–500 HP** band stands at or above the sampled native Regular **120–330 HP**, while native bands themselves overlap (Meat Lantern 330 HP above All-Around Helper 300 HP). **WAW was not sampled in this pass**, so ×9 remains as previously filed rather than being silently re-anchored. The ATK multiplier ranges likewise stand: the middle and highest converted reads already pass their Regular per-hit comparands, while every larger native figure found here belongs to the Special ledger — the same ledger in which a dossier-filed SE spike pattern is filed.
 
 ### III. HP Conversion
 
 | L Corp Risk Level | HP Multiplier | Formula |
 |---|---|---|
-| ZAYIN | ×0.5 | `ceil(base_HP × 0.5)` |
+| ZAYIN | ×0.4 | `ceil(base_HP × 0.4)` |
 | TETH | ×1.0 | `ceil(base_HP × 1.0)` |
 | HE | ×1.8 | `ceil(base_HP × 1.8)` |
 | WAW | ×9 | `ceil(base_HP × 9)` |
@@ -850,7 +864,7 @@ Somnarak uses **X/X of 1000** for entity HP. L Corp uses absolute HP values. Con
 
 | L Corp Risk Level | HP Multiplier | Formula |
 |---|---|---|
-| ZAYIN | ×0.5 | `ceil(Somnarak_HP × 0.5)` |
+| ZAYIN | ×0.4 | `ceil(Somnarak_HP × 0.4)` |
 | TETH | ×1.0 | `ceil(Somnarak_HP × 1.0)` |
 | HE | ×1.8 | `ceil(Somnarak_HP × 1.8)` |
 | WAW | ×9 | `ceil(Somnarak_HP × 9)` |
@@ -870,10 +884,10 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 | **TETH / Rank II (β)** | 200 – 500 HP | **300 – 500 HP** | Standard working entities; moderate durability. |
 | **HE / Rank III (γ)** | 400 – 1,000 HP | **500 – 750 HP** | Armed combatants; requires coordinated suppression squads. |
 | **WAW / Rank IV (δ)** | 800 – 2,500 HP | **750 – 1,000 HP** | Apex tactical entities; balanced for 10-node spatial combat. |
-| **ALEPH / Rank V (ω)** | 2,000 – 10,000 HP (e.g. WhiteNight: 6,666 HP)| **1,000 – 12,000 HP** (e.g. Dawn of Mourning: 12,000 HP) | Multi-phase Sovereign Calamities and departmental Realizations. |
+| **ALEPH / Rank V (ω)** | 2,000 – 12,000 HP (Regular breacher sample; e.g. WhiteNight: 12,000 HP)| **1,000 – 12,000 HP** (e.g. Dawn of Mourning: 12,000 HP) | Multi-phase Sovereign Calamities and departmental Realizations. |
 | **Planetary Geography** | N/A | **N/A (Invulnerable / Unfightable)** | Natural oceans, continental landmasses, and polar tundra are Geography, not combatants. |
 
-**Filing note:** the PS bands above are comparison filing bands for converted/story use, not a replacement for dossier arithmetic. In conversion, HP derives from the dossier Sorrow Gauge by the density-weighted tier multiplier (**×0.5 ZAYIN · ×1.0 TETH · ×1.8 HE · ×9 WAW · ×19 ALEPH**, always rounding up), so a high-Threat output may stand far above the native analogue band; record values already filed in dossiers — e.g. the Dawn of Mourning historical Gauge record of 12,000 — stand as filed.
+**Filing note:** the PS bands above are comparison filing bands for converted/story use, not a replacement for dossier arithmetic. In conversion, HP derives from the dossier Sorrow Gauge by the density-weighted tier multiplier (**×0.4 ZAYIN · ×1.0 TETH · ×1.8 HE · ×9 WAW · ×19 ALEPH**, always rounding up), so a high-Threat output may stand far above the native analogue band; record values already filed in dossiers — e.g. the Dawn of Mourning historical Gauge record of 12,000 — stand as filed.
 
 ### IV. ATK / Damage Conversion
 
