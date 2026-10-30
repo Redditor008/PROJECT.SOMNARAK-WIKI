@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: Field-Source Check (2026-10-31)
+
+- **Finished-record trace rebuilt field by field (manual Ch. 10):** the old eleven-row check now follows Appendix B and the Conversion Order through frame/source map, designation, housing and scale, Risk, HP, Work Damage and riders, resistances, physical PE, quota value, work or Tool method, personnel exposure, counter channels, event/suppression, extracted E.G.O, original Tool/relic, record gates, department, and Appendix coverage. Each output must trace to a filed dossier input, manual derivation or frame law, facility-timeline fact, explicitly retained home-only layer, or **HOLD**; the check proves provenance without deriving or patching the audited field.
+- **Critical source errors retired:** PE no longer traces jointly to “tier band + Han Yield + density factor”: the physical count comes from the tier band and Behavior outcome range, while `ceil(N × (0.88 + 0.12d))` separately sets quota value. Department no longer traces to “Risk, work needs, breach class” or merely warns against assignment before counters and staffing. It is now the final trace through one actually available department-bound unit, housing/event/clerk footprint, work and staffing loop, counter channels, equipment or Tool custody, and department function, with support offices separate and no department bonus. Extracted gear, the original Tool, narrative layers, permanent tallies/tool limits, and Appendix A coverage now have separate trace rows. CMP §4 carries the compact field-source boundary.
+- **Scope boundary:** Protocol Case Patterns, Institutional Sign-Off, Appendices A–B, Guide/CMP §13.2 syndicate descriptions, duplicated carried tables, operation/item-designation conflicts, and Master Codices 02/03/05 whole-structure reads remain pending.
+
 ## Depth audit continued: Facility Verification Checklist (2026-10-31)
 
 - **Directive box rebuilt as eleven pass/HOLD gates (manual Ch. 10 §XI):** the checklist now follows the eight Conversion Order operations and verifies frame/source completeness, designation and housing, forward arithmetic, PE ledgers, Behavior-led work, personnel exposure, counter channels, event/suppression, equipment or Tool housing, narrative gates, and last-step department/coverage. It explicitly does not derive missing values, and Appendix B must name the input, frame law, derivation, or retained home-only status behind every pass.

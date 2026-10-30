@@ -152,6 +152,8 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 
 **Facility-verification boundary (conversion):** the manual's final checklist verifies rather than re-derives a finished record. Risk is recomputed as Coherence + Potency—never read from the diagonal alone—and HP, Work Damage, and PE must recompute forward from their filed bases and factors. Gauge, Threshold, permanent tallies, and Tool use-limits stay separate; Behavior alone sets work favor, while LC employees remain R.D. Level 0 until the three-day exposure threshold. Rabbit or Cadre help is separately authorized external support, not a default verification pass; any unfiled housing, counter, piece, Tool, narrative, department, or Appendix A result remains **HOLD**.
 
+**Field-source boundary (conversion):** after facility verification, every Appendix B field must trace backward to a filed dossier input, manual derivation or frame law, facility-timeline fact, explicitly retained home-only layer, or **HOLD**. Physical PE count and density-adjusted quota value are separate traces, and department traces to one actually available housing unit plus settled footprint, event, work, counter, and custody inputs—not to Risk, body type, or a department name alone. Native analogues may give the finished record a plausibility read, but they never generate or repair a field.
+
 ---
 
 ## 5. Entity Classification & Threat Tiers
