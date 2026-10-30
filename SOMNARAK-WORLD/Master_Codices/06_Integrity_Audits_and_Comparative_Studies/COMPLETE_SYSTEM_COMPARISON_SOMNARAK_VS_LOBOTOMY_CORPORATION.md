@@ -158,6 +158,8 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 
 **Sign-off boundary (conversion):** a signature certifies completed source traces; it never supplies evidence or settles a **HOLD**. Functional certificate seats assemble into **SIGNED** only when every controlling operational field traces, into **SIGNED WITH RESTRICTIONS** when an unresolved field is fenced by an express no-use prohibition, and otherwise leave the packet **NOT SIGNED**. Permanent unknowns may remain only where no instruction depends on them. These seats are packet responsibilities, not newly invented L Corp Departments, R.D. posts, or external-contractor authority.
 
+**Appendix and intake boundary (conversion):** Appendix A locates law; a Covered row does not certify a record. Appendix B is completed in Conversion Order, and every field names its dossier input, derivation or frame law, facility-timeline fact, retained home-only status, or **HOLD**. Exact M.A.W. set consistency is checked before any piece is converted; a queued and unreconciled SE ↔ M.A.W. contradiction holds the affected equipment output. The worksheet closes only with the seven sign-off responsibilities and one of the three certificate statuses.
+
 ---
 
 ## 5. Entity Classification & Threat Tiers
@@ -496,7 +498,7 @@ To illustrate the contrasting atmosphere, narrative tone, and operational jargon
 
 ## 19. Verification & Canonical Compliance Seal
 
-The systems compared above are indexed for conversion use in Appendix A of the Universal Conversion Table (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 46 systems, each with the chapter that states its SE → Abnormality law. This seal stands under that index.
+The systems compared above are indexed for conversion use in Appendix A of the Universal Conversion Table (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 50 systems, each with the chapter that states its SE → Abnormality law. This seal stands under that index.
 
 ```text
 +========================================================================+

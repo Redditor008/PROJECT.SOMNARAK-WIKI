@@ -35,7 +35,7 @@ This manual turns a Project Somnarak Sorrow Entity dossier into a Lobotomy Corpo
 | 9. Observation, Records & Wider World | Encyclopedia build order, Selection tells, story placement, and systems with no clean LC output |
 | 10. Procedure, Practice & Final Checks | The conversion order, worked examples, field-source checks, case patterns, and sign-off |
 
-**Operating principles.** Assign the code once and never renumber it. Set Risk by Threat Score before deriving any stat. Keep the Sorrow Gauge and the Activation Threshold as separate channels; convert only the channel the dossier files. Housing changes the body presented to the unit, never the filed stats. Work names translate by function, while the dossier Behavior record governs outcomes. Every output field in the finished record names its dossier source in the Appendix B worksheet.
+**Operating principles.** Assign the code once and never renumber it. Set Risk by Threat Score before deriving any stat. Keep the Sorrow Gauge and the Activation Threshold as separate channels; convert only the channel the dossier files. Housing changes the body presented to the unit, never the filed stats. Work names translate by function, while the dossier Behavior record governs outcomes. Every output field in the finished record names its filed dossier input, manual derivation or frame law, facility-timeline fact, explicitly retained home-only status, or **HOLD** in the Appendix B worksheet.
 
 ---
 
@@ -1852,7 +1852,7 @@ To illustrate the contrasting atmosphere, narrative tone, and operational jargon
 
 ### 19. Verification & Canonical Compliance Seal
 
-The systems compared above are indexed for conversion use in Appendix A of the Universal Conversion Table (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 46 systems, each with the chapter that states its SE → Abnormality law. This seal stands under that index.
+The systems compared above are indexed for conversion use in Appendix A of the Universal Conversion Table (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 50 systems, each with the chapter that states its SE → Abnormality law. This seal stands under that index.
 
 ```text
 +========================================================================+
@@ -2085,9 +2085,9 @@ A signature binds to the declared frame, dossier evidence, and facility timeline
 
 ## Appendix A — Coverage Index
 
-Use this index to locate the forward law for any system named in a conversion note. If a system is not listed, file it as a HOLD and add the row before the conversion is used.
+Use this index to locate the forward law for any system named in a conversion note. If a system is not listed, file it as a HOLD and add the row before the conversion is used. A **Covered** row locates law; it does not certify a record that cites it. A **Covered by reference** row supplies the controlling facility or story framework and does not authorize deriving a field beyond the law stated there.
 
-Energy note: Han Yield is an input ledger. Physical PE-Boxes are assigned by tier band in Chapter 4; there is no 1:1 exchange rate. Quota value is filed separately under the 88% ordinary / 12% dense (×2.0–×2.5) split.
+Energy note: Han Yield and any filed H-Boxes are home-ledger inputs. Physical PE-Boxes are assigned from the Risk-tier band and filed Behavior result range in Chapter 4; there is no 1:1 exchange rate. Quota value is filed separately under the 88% ordinary / 12% dense (×2.0–×2.5) split.
 
 | # | System / mechanic | SE → Abnormality law | Status |
 |---|---|---|---|
@@ -2102,100 +2102,167 @@ Energy note: Han Yield is an input ledger. Physical PE-Boxes are assigned by tie
 | 9 | Two-Work-Type Law | Chapter 5 — Two-Work-Type Law | Covered |
 | 10 | Behavior outcomes → work favorability | Chapter 5 — Behavior outcomes → favorability | Covered |
 | 11 | Operative attributes & levels | Chapter 5 — R.D. Attributes & staffing | Covered |
-| 12 | Composure, SP & panic | Chapters 5 and 7 — Composure, SP & panic reads | Covered |
-| 13 | Han Yield → PE-Box band | Chapter 4 — energy bands & PE assignment | Covered (band crosswalk, above) |
+| 12 | Composure, SP, panic & filed recovery | Chapters 5 and 7 — Composure, SP, panic & recovery reads | Covered |
+| 13 | Han Yield, physical PE band & quota value | Chapter 4 — energy bands, physical PE assignment & quota value | Covered (separate ledgers) |
 | 14 | Heavy Han Density & brine | Chapter 1 — Han density in containment | Covered |
 | 15 | Daily Cycle · quota · Selection | Chapters 4 and 9 — PE quota, Daily Cycle & Selection record | Covered |
 | 16 | **Qliphoth Counter: value & derivation** | Chapters 4 and 6 — counter value & channel derivation | **Covered** |
-| 17 | Counter triggers (±, named) | Chapters 4 and 6 — counter triggers | Covered |
+| 17 | Counter triggers, completion & crisis routing | Chapters 4 and 6 — counter triggers, completion & crisis routing | Covered |
 | 18 | Counter reset & return | Chapter 6 — reset, return & permanent tallies | Covered |
 | 19 | Qliphoth Meltdown event | Chapter 6 — meltdown marking & crisis response | Covered |
-| 20 | Tool use counters & single-use | Chapters 6 and 8 — tool use-counters & consumption | Covered |
-| 21 | Breach & suppression doctrine | Chapters 6 and 7 — breach & suppression | Covered |
+| 20 | Tool use counters, charges & consumption | Chapters 6 and 8 — Threshold use-counters, charges & consumption | Covered |
+| 21 | Breach, suppression & authorized external support | Chapters 6 and 7 — breach, suppression & separately authorized support | Covered |
 | 22 | Transformation & state lines | Chapters 3 and 6 — state lines & transformations | Covered |
-| 23 | Skills · Dawn riders · Ultimates | Chapters 6 and 7 — skills, riders & Ultimates | Covered |
+| 23 | Skills · Dawn-table riders · Ultimates | Chapters 6 and 7 — skills, Dawn-table riders & Ultimates | Covered |
 | 24 | Size · scale · housing grades | Chapter 1 — Size, Scale & Form Law | Covered |
 | 25 | E.G.O Weapon | Chapter 8 — E.G.O Weapon extraction | Covered |
 | 26 | E.G.O Suit (worn resistances) | Chapter 8 — E.G.O Suit resistances | Covered |
 | 27 | Stigma → E.G.O Gift | Chapter 8 — Gift conversion | Covered |
-| 28 | Gear requirements & Composure Load | Chapter 8 — requirements & Composure Load | Covered |
+| 28 | Gear requirements, Composure Load & bearer-cost ledgers | Chapter 8 — requirements, Composure Load & bearer-cost ledgers | Covered |
 | 29 | Bearer corrosion / meltdown | Chapter 8 — bearer corrosion / meltdown | Covered |
 | 30 | Gear production (count & cost) | Chapter 8 — gear count & production cost | Covered |
 | 31 | Comprehension gates → Encyclopedia unlocks | Chapter 9 — observation gates & Encyclopedia | Covered |
 | 32 | Redaction & HOLD transport | Chapters 1 and 9 — redactions & HOLD transport | Covered |
 | 33 | Extraction-phase tells | Chapter 9 — Selection tells | Covered |
-| 34 | Department assignment & staff classes | Chapters 2 and 10 — department assignment & roster | Covered by reference |
+| 34 | Department assignment & staff classes | Chapters 2 and 10 — department assignment, available-unit rule & roster | Covered |
 | 35 | Facility crisis weather (Watches / Ordeals) | Chapters 6 and 9 — facility crisis frameworks | Covered by reference |
 | 36 | Departmental crisis frameworks | Chapter 9 — departmental crisis frameworks | Covered by reference |
 | 37 | LOB · Research · Re-Extraction | Chapters 2 and 9 — facility economy & research frameworks | Covered by reference |
-| 38 | Spatial combat engine (nodes · bands · AP) | Chapter 7 — movement, range & retained spatial mechanics | Covered |
+| 38 | Spatial combat engine (nodes · bands · AP · Four P) | Chapter 7 — movement, range, retained spatial mechanics & Four P translation | Covered |
 | 39 | Ingress · Degrees · contact geometries | Chapter 1 — ingress, degrees & contact geometry | Covered |
-| 40 | Worked SE → Abnormality examples | Chapter 10 — worked conversions & case patterns | Covered |
+| 40 | Worked examples, drills & protocol case patterns | Chapter 10 — worked practice, partial drills & combinable case-pattern overlays | Covered (partial practice, not a certificate) |
 | 41 | Threat multipliers & round-UP arithmetic (HP/ATK) | Chapter 4 — threat multipliers & round-up filing | Covered |
 | 42 | R.D. Attribute levels (0/I–V, 1–100) & Nugget acquisition | Chapter 5 — attribute levels & Nugget acquisition | Covered |
 | 43 | Breach taxonomy — Escape / Corrupt / Transform / Cascade | Chapter 6 — breach taxonomy | Covered |
 | 44 | Fracture stages · Efflorescence · Architect's Mark | Chapter 9 — Somnarak-specific fracture systems | Covered by reference |
 | 45 | Organization & S.A.M.S. Terminal (facility plane) | Chapters 2 and 9 — R.D. + The Absolvohan organization & terminal frameworks | Covered by reference |
 | 46 | Document-structure mapping & SE → Abnormality conversion order | Chapters 2 and 10 — document mapping & conversion order | Covered |
+| 47 | Original Tool housing — body, operation, closure & custody | Chapters 3 and 8 — body class, A/O/I operation, LC use-shape, Log and Method, warning flags, closure & return | Covered |
+| 48 | Material, mass & non-M.A.W. workshop provenance | Chapter 8 — material as appearance only, context-bound mass ledgers, Six Great Workshops & Workplace Law by Degree | Covered |
+| 49 | Final facility and source checks | Chapter 10 — Facility Verification Checklist & Field-Source Check | Covered |
+| 50 | Institutional Sign-Off & certificate status | Chapter 10 — seven signing responsibilities; SIGNED / SIGNED WITH RESTRICTIONS / NOT SIGNED | Covered |
 
-**Coverage: 46 of 46 systems indexed** — 40 by direct law in the chapters, 6 by referenced facility or story frameworks.
+**Coverage: 50 of 50 systems indexed** — 45 by direct law in the chapters, 5 by referenced facility or story frameworks.
 
 ---
 
 ## Appendix B — SE → Abnormality Intake Worksheet
 
-Copy this worksheet into the conversion note. Leave a cell as HOLD rather than borrowing a value.
+Copy this worksheet into the conversion note and complete it in Conversion Order. In **Filed value**, write the value or **HOLD**; leave no operative cell silently blank. In the right-hand column, trace that value to a filed dossier input, a manual derivation or frame law, a facility-timeline fact, an explicitly retained home-only layer, or the **HOLD** itself. Show the base, factor, and result for every derived number. A native analogue belongs outside the source chain as a plausibility note only.
 
-### 1. Identity and Housing
+Where the declared output excludes a branch, write **N/A —** with the branch and frame-law reason (for example, regular Work Preferences on a Tool output, or an original-Tool operation on a record that houses no original relic). Repeat a row for each work discipline or component, event state, and equipment piece whose values differ; never compress distinct pieces or states into one blended profile.
 
-| Field | Filed value | Dossier source |
+Before Section 6, check the exact linked set against the [pinned SE ↔ M.A.W. contradiction queue](../../MAW_Codex_Sets/PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md). If the SE dossier is queued and the contradiction has not been reconciled, every affected equipment output is **HOLD**; the conversion does not choose between the embedded SE account and the exact M.A.W. dossier by preference.
+
+### 1. Frame and Source Map
+
+| Field | Filed value | Source, derivation, or frame-law chain |
 |---|---|---|
-| SECC designation / Korean name / aliases |  |  |
-| Ingress route and Degree (I / II / III) |  |  |
-| Retained traits at Degree II–III |  |  |
-| Subject Number `X-YY-0###` — letter read |  |  |
-| Subject Number — class read and body read |  |  |
-| Housing grade: Whole / Aspect-shifted / Fragment |  |  |
-| Containment Form as presented |  |  |
-| Breach Form and scale band (full / Well-attenuated %) |  |  |
+| SE dossier identity: formal SECC `[type]`, English and Korean names, aliases |  |  |
+| Ingress route, contact geometry, and Degree I / II / III |  |  |
+| Output record type: regular Abnormality or Tool Abnormality; normal-work decision |  |  |
+| Source map in filed order — title and opening quote, SECC Classification, Operational Parameters, Combat Record, Appearance, Origin, Behavior & Work Types, filed event heading, M.A.W. Equipment, Observation Log, Story Log, Final Observation, Flavor Text, Tale, Testimony, Registrum/Addendum, named Records, Trivia, Document Information, and any optional or separately headed profile or interaction surface — with destination, retained home-only status, or HOLD for each surface present |  |  |
+| Unresolved source conflicts, redactions, and permanent unknowns carried forward |  |  |
 
-### 2. Danger Read
+### 2. Identity and Housing
 
-| Field | Filed value | Dossier source |
+| Field | Filed value | Source, derivation, or frame-law chain |
 |---|---|---|
-| Coherence rank / Potency grade / Threat Score |  |  |
-| Risk Level |  |  |
-| Sorrow Gauge base / HP multiplier / LC HP `ceil` |  |  |
-| Han Pressure base / filed ATK multiplier / work damage |  |  |
-| Separate breach damage, where filed |  |  |
-| Element → damage color / riders |  |  |
-| Resistances in RED / WHITE / BLACK / PALE order |  |  |
-| Han Yield / assigned physical PE count / density factor `d` / PE-equivalent quota value |  |  |
+| Subject Number letter `X`: Sorrow Category, Origin, and Tale read |  |  |
+| Subject Number class `YY`: Entity/Tool Type, Physical Form, and Appearance read |  |  |
+| Subject Number serial: `0` + SECC numeric suffix; never-renumber status |  |  |
+| Housing grade (Whole / Aspect-shifted / Fragment), body portion presented, and unshown remainder |  |  |
+| Containment Form; filed event or Breach Form; original measured scale, declared scale band, and any declared Well attenuation |  |  |
 
-### 3. Counters, Work, and People
+### 3. Danger and Energy
 
-| Field | Filed value | Dossier source |
+| Field | Filed value | Source, derivation, or frame-law chain |
 |---|---|---|
-| Channels filed: Gauge / Threshold / both / neither |  |  |
-| Qliphoth Counter value and derivation |  |  |
-| Increase / decrease triggers, verbatim |  |  |
-| Reset, return, and permanent tallies |  |  |
-| Work disciplines and favorability by Behavior line |  |  |
-| Prohibited works and backfire |  |  |
-| Primary / secondary attribute per work; failure effects |  |  |
-| First-three-days staffing and attribute-gain Element |  |  |
+| Coherence rank + Potency rank = Threat Score; Risk Level issued with the Subject Number |  |  |
+| Sorrow Gauge exactly as filed (ordinary read `base/base`), tier HP multiplier, and `ceil` LC HP |  |  |
+| Han Pressure as filed (point or both range ends), pressure-pattern basis for one ATK multiplier, and `ceil` Work Damage at each filed end |  |  |
+| Separate breach or event damage, kept out of Work Damage |  |  |
+| Element → damage color; each filed pressure/status rider with action, trigger, and protective target |  |  |
+| Entity resistances in RED / WHITE / BLACK / PALE order, with the home vector preserved |  |  |
+| Han Yield and any filed H-Boxes as home-ledger inputs (not physical PE count) |  |  |
+| Physical PE count from the Risk-tier band and filed Behavior result range |  |  |
+| PE-equivalent quota value: physical count `N`, density factor `d`, and `ceil(N × (0.88 + 0.12d))`, or the unfixed-`d` band |  |  |
 
-### 4. Breach, Equipment, and Record
+### 4. Work, People, and Counters
 
-| Field | Filed value | Dossier source |
+| Field | Filed value | Source, derivation, or frame-law chain |
 |---|---|---|
-| Breach class: Escape / Corrupt / Transform / Cascade |  |  |
-| Movement profile / range / pattern skills and triggers |  |  |
-| Transformation state lines under the same code |  |  |
+| Work favorability and outcome range by discipline and Behavior line *(repeat per discipline or component)* |  |  |
+| Prohibited works, backfire, and Two-Work-Type component result |  |  |
+| Primary and secondary R.D. attributes, LC governing-stat aptitude kept separate, and Failure Effect *(repeat where they differ)* |  |  |
+| R.D. staffing: every LC employee starts at Level 0; sustained Element, Days 1–3 rotation and exposure budget, point accrual after 3+ survived consecutive days, and Level III safe-work roster transition |  |  |
+| Filed HP/SP recovery systems available in the facility timeline and Degree-specific Panic recovery |  |  |
+| Channels filed: Sorrow Gauge / Activation Threshold / both / neither; crisis route where no channel is filed |  |  |
+| Qliphoth Counter derivation from the filed channel and resulting value, or HOLD |  |  |
+| Increase, decrease, and completion triggers in the dossier's own terms |  |  |
+| First completion, reset, return, and permanent tallies, each kept distinct |  |  |
+
+### 5. Event and Suppression
+
+| Field | Filed value | Source, derivation, or frame-law chain |
+|---|---|---|
+| Filed event-behavior heading, verbatim |  |  |
+| Breach class (Escape / Corrupt / Transform / Cascade) and activation route |  |  |
+| State lines, forms, and triggers under the same Subject Number *(repeat per state)* |  |  |
+| Movement, range, Combat Actions, Battle Phases, and Consequences |  |  |
 | Suppression objective and return condition |  |  |
-| E.G.O Weapon / Suit / Gift or HOLD per piece; piece Risk Level for Weapon/Suit |  |  |
-| Requirements, SP-pool Composure Load, and other bearer-cost ledgers |  |  |
-| Tool use-shape, limits, and warning flags |  |  |
-| Encyclopedia gates, quote verbatim, redactions |  |  |
-| Department assignment and sign-off offices |  |  |
-| Appendix A rows relied on |  |  |
+| Protocol case-pattern overlays A–F used, with the stop condition for each |  |  |
+| External support, authorizing facility-timeline fact, or none |  |  |
+
+### 6. Equipment and Original Tool Custody
+
+| Field | Filed value | Source, derivation, or frame-law chain |
+|---|---|---|
+| Exact linked M.A.W. set (`-A` Side Codex and `-B/-C/-D` items) and reconciliation status: not queued, queued row reconciled, or HOLD |  |  |
+| M.A.W. Weapon → E.G.O Weapon: piece name, Greek Grade and piece Risk, profile, requirements, and filed effects *(repeat per piece)* |  |  |
+| M.A.W. Suit → E.G.O Suit: piece name, Greek Grade and piece Risk, worn resistances, requirements, and filed effects *(repeat per piece)* |  |  |
+| M.A.W. Stigma → E.G.O Gift slot: piece name, slot/form, acquisition chance, stat/effect, and filed conditions; no E.G.O Risk *(repeat per piece)* |  |  |
+| Production count and PE cost per extracted piece, including any finite set cap or no-extraction result |  |  |
+| Requirements, SP-pool Composure Load, every other bearer-cost ledger, and Corrosion exactly as filed |  |  |
+| Original housed relic body: Entity/Tool Type, Physical Form, Appearance, and body class `07` / `08` / `09` |  |  |
+| Original operation as filed: A/O/I source class, Tool Type or Tool Class, Use Mode, Activation, Primary Effect, Duration, Termination / Return, limits, and warning flags |  |  |
+| Converted Tool subtype; Ability and Log and Method; operator/companion roles, closure, relief, abandonment consequence, and return |  |  |
+
+### 7. Record and Encyclopedia
+
+| Field | Filed value | Source, derivation, or frame-law chain |
+|---|---|---|
+| Selection Subject Number or unlocked name; quote verbatim, with its origin left permanently unknown |  |  |
+| Output surfaces by record type: regular Basic Info, Work Preferences, Management Tips, Escape Information, E.G.O, Story, and Flavor Text—or Tool Ability with Log and Method |  |  |
+| Observation or Tool unlock-gate allocation for every filed operational and narrative surface |  |  |
+| Management cautions separated from incident, casualty, and observation evidence |  |  |
+| Origin, Story Log, Final Observation, Tale, Testimony, Interactions, Registrum/Addendum, and named Records: destination, retained home-only status, or HOLD for each |  |  |
+| Serial and quote tells, aliases, redactions, contradictions, cross-references, Trivia, and Document Information without silent correction |  |  |
+
+### 8. Department and Final Checks
+
+| Field | Filed value | Source, derivation, or frame-law chain |
+|---|---|---|
+| Facility timeline and department-bound Containment Unit actually available |  |  |
+| Responsible housing or custody department and unit; assignment evidence from footprint, event/clerk exposure, work and staffing loop, and department function |  |  |
+| Extraction, suppression, archive, and other supports named separately; no slash department |  |  |
+| Facility Verification Checklist gates passed and every gate left HOLD |  |  |
+| Field-Source Check outcome by worksheet section; earliest failed Conversion Order operation, if any |  |  |
+
+### 9. Certificate and Restrictions
+
+| Field | Filed value | Source, derivation, or frame-law chain |
+|---|---|---|
+| Signing responsibility 1 — Source map and housing: signed / withheld |  |  |
+| Signing responsibility 2 — Designation, danger, and energy: signed / withheld |  |  |
+| Signing responsibility 3 — Work, people, and counters: signed / withheld |  |  |
+| Signing responsibility 4 — Event and suppression: signed / withheld |  |  |
+| Signing responsibility 5 — Equipment and original Tool custody: signed / withheld |  |  |
+| Signing responsibility 6 — Record and archive: signed / withheld |  |  |
+| Signing responsibility 7 — Department and final assembly: signed / withheld |  |  |
+| Every remaining HOLD, classified operational or non-operational unknown |  |  |
+| Record status: **SIGNED** / **SIGNED WITH RESTRICTIONS** / **NOT SIGNED** |  |  |
+| Restrictions and prohibited actions, with the method or management gate where each must remain visible |  |  |
+| Responsible department and unit plus separately named supports, carried into the certificate |  |  |
+| Appendix A rows relied on; any unindexed system added to Appendix A or held before use |  |  |
+| Reopening triggers: new evidence, changed Degree or scale band, loss of assigned unit, or resolution of a HOLD, with dependent fields to rerun |  |  |
