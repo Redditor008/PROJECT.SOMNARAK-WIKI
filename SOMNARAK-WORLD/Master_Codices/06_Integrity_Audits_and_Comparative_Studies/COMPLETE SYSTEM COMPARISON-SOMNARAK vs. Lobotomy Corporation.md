@@ -1,6 +1,6 @@
 ## Complete System Comparison: SOMNARAK vs. Lobotomy Corporation
 
-> **Combined-edition note (2026-10-30):** Owner's laptop original — the owner's compact system comparison (distinct from the Expanded Story Edition in this folder) — filed verbatim from the owner's dump and, for its SE → Abnormality material, rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[OCMP]**. This standalone file remains the archival original.
+> **Combined-edition note (2026-10-30):** Owner's laptop original — the owner's compact system comparison (distinct from the Expanded Story Edition in this folder) — filed verbatim from the owner's dump and, for its SE → Abnormality material, rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition). This standalone file remains the archival original.
 
 ### I. Classification Code Structure
 

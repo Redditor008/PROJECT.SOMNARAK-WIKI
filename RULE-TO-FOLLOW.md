@@ -25,7 +25,7 @@ Read this file before changing anything. These rules are not optional. Content, 
 | **A3** | **Asset cache-busting** — any `wiki.css`/`wiki.js` change must bump `ASSET_VERSION` and re-sync, or the fix never shows live. |
 | **A4** | **Sidebar parity** — left and right sidebars share one L-Corp terminal style; CSS fixes go at the END of `wiki.css`. |
 | **A5** | **File safety** — never delete/overwrite the owner's files or history without a direct, file-named instruction. |
-| **A6** | **Conversion direction lock** — PM↔PS conversion-overhaul writing is one-way only: P.S. Sorrow Entity → L Corp Abnormality. |
+| **A6** | **Conversion direction lock** — PM↔PS conversion-overhaul writing is one-way only: P.S. Sorrow Entity → L Corp Abnormality. Rewrite; do not erase. |
 
 ### REMOVED (rules deleted from v1)
 
@@ -139,7 +139,7 @@ Read this file before changing anything. These rules are not optional. Content, 
 **Owner's words (2026-10-30): "ALL YOUR WRITING IS FOR ONLY P.S. SE TO L CORP ABNO, NOT THE OTHER WAY AROUND."**
 
 1. Conversion-overhaul writing is one-way only: **Project Somnarak Sorrow Entity → Lobotomy Corporation Abnormality**.
-2. Do not write, carry, certify, or leave operative Abnormality → Sorrow Entity conversion law in that overhaul. When opposite-direction material is found in overhaul writing, remove it from the overhaul or rewrite it as SE → Abnormality forward law, forward checks, or worked SE → Abnormality practice.
+2. Do not write, carry, certify, or leave operative Abnormality → Sorrow Entity conversion law in that overhaul. When opposite-direction material is found in overhaul writing, rewrite it as SE → Abnormality forward law, forward checks, or worked SE → Abnormality practice. Do not erase its substantive mechanics merely because they were first framed the other way; carry the mechanic across in forward form.
 3. This lock governs the overhaul's scope; it is not permission to delete standalone archival files. **A5 still applies:** a standalone file is deleted, renamed, retired, or wholesale-rewritten only on a direct, file-named owner instruction.
 
 ## 1. Permanent integration branches (`main` and `NON-WIKI`)

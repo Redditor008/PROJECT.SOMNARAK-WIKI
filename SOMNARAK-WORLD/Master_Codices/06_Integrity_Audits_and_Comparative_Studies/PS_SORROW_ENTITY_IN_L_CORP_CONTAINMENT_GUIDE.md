@@ -1,5 +1,5 @@
 # UNIVERSAL SORROW ENTITY TO ABNORMALITY CONVERSION TABLE
-## PS Sorrow Entity in L Corp Containment Guide — Chaptered Combined Overhaul Edition (one connected SE → Abnormality chapter + Integrity Appendix)
+## PS Sorrow Entity in L Corp Containment Guide — Complete SE → Abnormality Conversion Manual
 ### A premise-agnostic conversion standard for any story that transforms a Sorrow Entity — fully or partially — into an Abnormality
 
 ```text
@@ -12,32 +12,30 @@
 +------------------------------------------------------------------------+
 | SCOPE: ANY INGRESS, ANY STORY — FULL TO PARTIAL TRANSFORMATION         |
 | CONTAINMENT LAWS: WORK TYPE RESTRICTIONS & PLACE-BREACH PROTOCOLS      |
-| EDITION : CHAPTERED OVERHAUL — SE TO ABNORMALITY ONLY                  |
+| EDITION : COMPLETE SE TO ABNORMALITY CONVERSION MANUAL                 |
 +========================================================================+
 ```
 
 ---
 
-## Chapter Map, Source Tags & Precedence
+## How to Use This Manual
 
-**Direction lock (standing rule A6).** This overhaul converts **Project Somnarak Sorrow Entities into Lobotomy Corporation Abnormalities only**. Read every table, work rule, counter rule, worked example and checklist below in that one direction: PS dossier in, LC containment record out.
+This manual turns a Project Somnarak Sorrow Entity dossier into a Lobotomy Corporation Abnormality record. Work from the dossier outward: identity first, numbers second, containment behavior third, equipment and encyclopedia last. If a dossier field is absent, file a HOLD; do not borrow a value from a similar entity.
 
-Read the chapters as one connected conversion chapter. Each chapter answers the next question an SE → Abnormality conversion actually asks; the source sections that answer it — from the Universal Table, the system comparison, and the owner's own tables — are gathered there and tagged.
+| Chapter | Use it to decide |
+|---|---|
+| 1. Orientation, Ingress & The Two Rivers | How the SE enters the Abnormality frame, what degree is declared, and what housing form it receives |
+| 2. Archive Grammar & Institutions | Which dossier fields become which record fields, and which department owns each decision |
+| 3. Identity Before Danger | The subject number, class, aliases, state lines, and the body the code reads |
+| 4. Danger Read | Threat Score, Risk Level, HP, work damage, PE-Boxes, and the arithmetic filed at intake |
+| 5. Work, Personnel & R.D. Attributes | Work disciplines, favorability, staffing, failure effects, and attribute growth through Han exposure |
+| 6. Counters, Breach & Crisis | Qliphoth derivation, Gauge/Threshold channels, meltdown response, breach class, and return conditions |
+| 7. Damage Language, Movement & Combat | Elements as damage colors, riders, resistances, breach movement, range, and suppression handling |
+| 8. Equipment, Tools & Relics | E.G.O extraction, bearer costs, converted tools, warning flags, and use limits |
+| 9. Observation, Records & Wider World | Encyclopedia build order, Selection tells, story placement, and systems with no clean LC output |
+| 10. Procedure, Practice & Final Checks | The conversion order, worked examples, field-source checks, case patterns, and sign-off |
 
-| Chapter | SE → Abnormality question answered | Main source tags gathered |
-|---|---|---|
-| 1. Orientation & Two Rivers | Why can the SE cross into the Abnormality frame, and what never changes? | UT, CMP |
-| 2. Archive Grammar & Institutions | How do the PS dossier fields line up with LC record fields before numbers move? | CMP, FCR, RRP, OCMP |
-| 3. Identity Before Danger | What LC code, class and housing body does this SE receive? | UT, FCR, RRP, OCMP, CMP |
-| 4. Danger Read | What Risk Level, HP, work damage and PE yield does the SE carry into containment? | RRP, FCR, TST, UT, CMP, OCMP |
-| 5. Work, Personnel & R.D. Attributes | Which LC work disciplines may be used, and what does Han exposure build in the employees sent in? | UT, RDA, FCR, RRP, CMP, OCMP |
-| 6. Counters, Breach & Crisis | What makes the converted SE breach, transform, melt down, or require suppression? | UT, FCR, RRP, CMP |
-| 7. Damage Language & Combat | How do the SE's elements and pressure read as LC damage in work and suppression? | UT, CMP, OCMP |
-| 8. Equipment, Tools & Relics | What E.G.O or usable equipment expression can Extraction draw from the converted SE? | UT, FCR, RRP, CMP, OCMP |
-| 9. Records, Lexicon & Wider World | How is the converted SE observed, encyclopedia-filed, quoted, and placed in story? | UT, FCR, RRP, CMP, OCMP |
-| 10. Procedure, Practice & Final Checks | In what order is an SE converted, proven against worked examples, and signed off? | RRP, UT, FCR |
-
-**Precedence inside the chapters.** Numbers follow the owner's formulas ([TST]/[FCR]/[RRP]); [UT] states the operative synthesis and the flag-never-rescale checks. Designation *assignment* follows [UT §II]; the owner's quick maps remain reading and legacy-pairing aids. The Sorrow Gauge and the Activation Threshold are separate counter channels throughout — convert only the channel the SE dossier actually files, and never invent the missing one. The standalone files in this folder remain the archival originals; this chapter carries their SE → Abnormality material in reading order.
+**Operating principles.** Assign the code once and never renumber it. Set Risk by Threat Score before deriving any stat. Keep the Sorrow Gauge and the Activation Threshold as separate channels; convert only the channel the dossier files. Housing changes the body presented to the unit, never the filed stats. Work names translate by function, while the dossier Behavior record governs outcomes. Every output field in the finished record names its dossier source in the Appendix B worksheet.
 
 ---
 
@@ -46,11 +44,10 @@ Read the chapters as one connected conversion chapter. Each chapter answers the 
 Begin with the crossing itself: what a story may declare, what this overhaul refuses to let move, and why the Well and the Weeping can touch without being the same river. Everything after this chapter assumes these invariants.
 
 ### Preface — Universal Use: Ingress, Degree, and What Stays Invariant
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 This document is a **universal conversion table**, not one story's house rules. It exists so that *any* story — facility chronicle, crossover campaign, guest appearance, what-if transport — can transform a Sorrow Entity into an Abnormality **fully or partially** and have both archives still agree on what arrived.
 
-**This is the chaptered combined overhaul edition.** The older pasted-together arrangement has been dissolved: the Universal Table, the system comparison, and the owner's five original tables now read in one SE → Abnormality conversion order — orientation, archive grammar, identity, danger read, work and personnel, counters and breach, damage and combat, equipment, records and wider story use, then procedure and worked practice. Source tags keep every moved section traceable ([UT], [CMP], [TST], [FCR], [RRP], [RDA], [OCMP]); Appendix B maps each tag back to its standalone original. **Direction lock:** this overhaul converts Sorrow Entities into Abnormalities only; source material outside that direction stays in its standalone original and is not operative law here.
+This manual is arranged in the order a conversion is performed: crossing and invariants, record grammar, designation, danger read, work and personnel, counters and breach, damage and movement, equipment, observation and story placement, then procedure and worked examples.
 
 No single premise in it is mandatory: *how* the entity crosses (ingress) and *how far* it transforms (degree) are the author's declarations; *what it is called and how its danger reads* are this table's invariant core.
 
@@ -80,7 +77,6 @@ No single premise in it is mandatory: *how* the entity crosses (ingress) and *ho
 Degree is chosen per story, not per entity: the same Sorrow Entity may be Degree I in one work and Degree III in another, under the **same designation**, and neither use invalidates the other. What no degree may do is rewrite the dossier's held facts to make conversion easier — unresolved bodies, thresholds and equipment travel as HOLDs (Section IX) at every degree.
 
 ### 2. Metaphysical Origins & Narrative Cosmology
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 The underlying mythos of both worlds drives their operational and narrative tone. In **Lobotomy Corporation**, horror arises from the commodification of the collective human unconscious, corporate exploitation, and the struggle for individual self-actualization. In **Project Somnarak**, horror stems from ancestral grief, accumulated historical injustice, communal mourning, and the heavy physical residue of saline tears accumulating over millennia.
 
@@ -93,7 +89,6 @@ The underlying mythos of both worlds drives their operational and narrative tone
 | **Cyclical Structure** | **The 50-Day Loop / The Script** — Thousands of simulated facility iterations orchestrated by Angela and Ayin. | **1,778 Mnemonic Cycles** — Historical civilizational resets recorded in the Directorate Mnemonic Archive. | Repeating temporal cycles designed to refine consciousness vs preserved historical grief records. |
 
 ### 2A. The Two Rivers — The Well & The Weeping: Contact Geometry & Story-Plot Conversion
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 > *This section carries the franchise-level finding the rest of this document presumes: the two universes are built over the same kind of depth. Both keep a river of collective human sorrow at the bottom of the world, older than their cities, from which their entities are born and by which their lights are powered. They are connected — but they are not the same river. This section compares the two reservoir systems side by side and registers the geometries by which a story may bring them into contact without merging them.*
 
@@ -140,7 +135,6 @@ A shared story declares one geometry, exactly as the Universal Conversion Table 
 > Sources for this section: PMU (Google Drive, PMU > L-Corp) — Facility_Systems "Cogito" (River/Bucket/Well, the man in the Well, the obscurity caution), History_and_Story "Seed of Light" (the payload, the cure, the bible's question), History_and_Story "Master Timeline" (laboratory → Wing → fifty days → fall). P.S. (this repository) — `Master_Codices/01_Cosmology_and_World_Order/SOMNARAK_THE_WEEPING.md` (the river, the Abyssal Well, the Vault secret, the thousand), `PROJECT_SOMNARAK.md` (the fatalistic philosophy, the Architect's Path). Entity-level machinery: `PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` (Universal Conversion Table) and `PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md`.
 
 ### Section I: Ingress Routes & Trans-Dimensional Contact
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 An ingress route explains *how* an SE enters the Abnormality frame; it never changes the designation or the Risk read. Route A is the archive's canonical facility route — the others are standing options, and an author may declare a route of their own in the conversion note with the same standing.
 
@@ -193,6 +187,19 @@ The scale axis has a twin: an **appearance axis**. Extraction delivers what the 
 - **Scale-Incompatible, Extraction-Compatible.** Entities whose original scale or body-plan reads as flatly incompatible with L Corp containment — Place-bodies, landscape entities, colossi measured in streets — are **still extractable**, because the Containment Form houses them while contained and attenuation meters them while breaching. The Maw (`T-07-0001`) is the standing precedent: a square-kilometer Place that sits as a contained room and breaches as a colossus under this same band (Section VI). Intake records such entities under this class with both figures: original scale, and the declared breach band.
 - **Declaration discipline.** The band and the housing grade are fixed in the conversion note at intake and does not change mid-story without an in-story cause (a second draw, a siphon widening, the Well losing its grip). Escalation from attenuated to full scale is a legitimate crisis beat; silently resizing between scenes is a conversion error, corrected back to the declared band.
 
+### Ontological Intake — Han Body in a Well-Form
+
+Before any statistic is derived, read what kind of fact the dossier says the entity is. The LC record can house the SE, work it, and draw equipment from it; it does not get to flatten a planetary grief into a private symptom unless the dossier itself is personal.
+
+| Dossier fact to read first | How it enters the Abnormality record | Intake error to refuse |
+|---|---|---|
+| Primary substance is Han — fluid, acoustic, geological sorrow | Degree I treats the output as an Abnormality in-story; Degree II keeps Han behavior under LC names and applies the brine/handling rules of this chapter; Degree III leaves the substance unchanged | Calling every effect “psychological” because the output frame uses SP |
+| Origin is communal, civic, historical, or geological unless filed personal | Feeds the category-letter read in Chapter 3 and the Encyclopedia story in Chapter 9; the Tale stays the operative truth at Degrees II–III | Inventing a single guilty person as the origin for a city-scale grief |
+| Manifestation: Subject, Object, Place, Time, or Hazard | Sets work access and housing before Risk is read: a body that can be addressed, a thing that is used, a place that is entered, a time that is endured, or a field that is survived | Giving a Place a roaming humanoid breach because the tier is high |
+| Restoration or hope dynamic, where filed | Becomes a management method only in the form filed: relief work, a named reconciliation condition, a Gauge decrease, or a Threshold that can be satisfied | Turning communal restoration into a generic employee buff |
+
+State the ontology in one intake line before the code is assigned: substance, origin scale, manifestation, and the body the room will actually present. Every later number hangs from that line.
+
 ---
 
 ## Chapter 2 — Archive Grammar, Institutions & Field Correspondence
@@ -200,10 +207,8 @@ The scale axis has a twin: an **appearance axis**. Extraction delivers what the 
 Before any number is converted, the two archives have to be read in the same grammar: which fields correspond, which institutions hold them, and how a dossier on one side is shaped like a record on the other.
 
 ### Direct 1-to-1 Universe, Mechanics & Narrative Reference
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 #### Expanded Story Edition
 
-> **Combined-edition note (2026-10-30):** this comparison's sections are rearranged by subject for SE → Abnormality use into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[CMP]**, so the overhaul stands self-sufficient. This standalone file remains the archival original.
 
 ```text
 +========================================================================+
@@ -222,7 +227,6 @@ Before any number is converted, the two archives have to be read in the same gra
 > *"This document provides a comprehensive, 1-to-1 narrative and systems comparison between **Lobotomy Corporation** (Project Moon) and **Project Somnarak**. It serves both as a precise operational reference and as an enriched story bible for authors, game masters, and chroniclers. It preserves the authentic comparative format while fully detailing native vocabulary, cosmological lore, geopolitical underpinnings, containment mechanics, tactical calibrations, and narrative protocols across both universes."*
 
 ### 1. Executive Summary & Core Comparison Matrix
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 **System Comparison at a Glance // Core Metrics**
 
@@ -245,14 +249,11 @@ Before any number is converted, the two archives have to be read in the same gra
 | Equipment Tuning | Fixer Workshops | Five-Grade Forges |
 
 ### For AI-Assisted Entity Transformation (Well of Cogito grabs a Somnarak Entity)
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
-> **Combined-edition note (2026-10-30):** Owner's laptop original — the full field-by-field conversion reference — filed verbatim from the owner's dump and, for its SE → Abnormality material, rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[FCR]**. This standalone file remains the archival original.
 
 > *Give this document to an AI along with a Somnarak Entity file. The AI can use these mappings to transform the Sorrow Entity into a Lobotomy Corporation Abnormality. Every field in the entity file has an L Corp equivalent listed here.*
 
 ### X. Narrative Section Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak Section | L Corp Equivalent | Notes |
 |---|---|---|
@@ -268,7 +269,6 @@ Before any number is converted, the two archives have to be read in the same gra
 | **Registry Addendum** | **(no direct equivalent)** | Somnarak-specific: operational interpretation + review requirement |
 
 ### XI. Organization Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -283,7 +283,6 @@ Before any number is converted, the two archives have to be read in the same gra
 | **Collectors** | **(External extraction / Finance)** | Debt/sorrow collection |
 
 ### XI. Narrative Section Mapping
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak Section | L Corp Equivalent | Notes |
 |---|---|---|
@@ -299,7 +298,6 @@ Before any number is converted, the two archives have to be read in the same gra
 | **Registry Addendum** | *(no direct equivalent)* | Operational interpretation + review |
 
 ### XII. Organization Mapping
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -315,7 +313,6 @@ Before any number is converted, the two archives have to be read in the same gra
 | **Zones A–E** | **Departments / Floors** | Facility divisions |
 
 ### XXI. Document Structure Comparison
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 Side-by-side comparison of which sections exist in each system's document:
 
@@ -341,7 +338,6 @@ Side-by-side comparison of which sections exist in each system's document:
 | **Trivia** | Canon trivia + Registry Trivia | Trivia section |
 
 ### IX. Document Structure Comparison
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 |Section|SOMNARAK SE Document|L Corp Abnormality Document|
 |---|---|---|
@@ -364,7 +360,6 @@ Side-by-side comparison of which sections exist in each system's document:
 |**Trivia**|Fun facts|Trivia section|
 
 ### 3. Facility Architecture & Bureaucratic Hierarchy
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 Both settings feature a strict vertical bureaucracy governing subterranean containment chambers.
 
@@ -378,7 +373,6 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 | **Tactical Rapid Response** | **Rabbit Team** (R Corp 4th Pack mercenaries) summoned for total sector cleansing. | **Cadre Sim-Pan (  심판   / Arbiters)** and **Cadre Gyeo-Tu (  격투   / Duelists)** mobilized for kinetic execution. | Hired private military shock troopers vs dedicated Directorate inquisitors and frontline champions. |
 
 ### 4. Energy Extraction & Production Systems
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 | Metric | Lobotomy Corporation | Project Somnarak | Mechanics & Story Lore |
 |---|---|---|---|
@@ -387,6 +381,20 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 | **Daily Quota** | Daily quota threshold (e.g., 200–1,200 PE) required to conclude the work day. | Daily Han-Quota required to maintain the Absolvohan's containment barriers and prevent citywide blackout. | Failure to meet daily quota triggers emergency overtime, panic, and structural containment instability. |
 | **Sanitation / Byproducts** | Minor Enkephalin gas fumes; cleansers scrub residue. | **Han-Brine (  염간수   / *Yeomgansu*)** — Caustic saline fluid that crystallizes into corrosive salt if left unburned. | Somnarak incorporates physical brine build-up that erodes floorboards, requiring Haz-scorchers (  화용반   ) to burn it off. |
 
+### Field-Correspondence Discipline
+
+The PS dossier and the LC record are parallel instruments, not the same instrument with renamed dials. Mark every field with one relation before writing the output:
+
+| Relation | Meaning | Examples in this manual | Filing rule |
+|---|---|---|---|
+| Direct output | The dossier value selects the LC value by table | Element → damage color; work discipline → LC work name | Copy through the table; do not improvise a nearer synonym |
+| Derived output | Two or more dossier fields produce one LC field by formula | Coherence + Potency → Threat Score → Risk Level; Gauge × multiplier → HP | Show the arithmetic once, file the result, never recompute it scene by scene |
+| Banded output | The dossier gives a home-scale quantity; the output is a tier band | Han Yield → PE-Box band; dossier speed pattern → breach movement profile | Keep the home figure in the worksheet so the band choice can be checked |
+| Frame output | The LC frame adds a presentation fact the dossier did not need | Containment Form, Selection quote placement, Encyclopedia unlock order | Mark it as frame law, not as a newly discovered dossier fact |
+| No output | The dossier is silent, sealed, or unresolved | Unfiled equipment, undrawn body portion, unresolved trigger | HOLD. A blank held honestly outranks a value borrowed from a similar entity |
+
+A similar name is not permission to convert. “Gauge” in the dossier and “Counter” in the LC record meet only through the channel law in Chapters 4 and 6. “Composure” names both an R.D. Attribute and the SP-side load ledger; say which one carries the number. Narrative fields move as story. Mechanical fields move only through a stated operation.
+
 ---
 
 ## Chapter 3 — Identity Before Danger: Designation, Class & Form
@@ -394,7 +402,6 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 Name the arrival before rating it. This chapter fixes the code, the body that code reads, and the aliases that survive; only then is the entity stable enough to be scored.
 
 ### Section II: Designation Assignment — The `X-YY-0###` Standard
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 Every transported Sorrow Entity receives **one permanent Abnormality designation** at intake, in the facility format `X-YY-0###`. The code is assigned once and **never renumbered** — not on breach, not on transformation, not on reclassification (Lobotomy Corporation practice; the SECC code, which *can* shift state, is retained in Basic Info as the cross-reference alias). The designation is issued together with the Risk Level from Section III; neither half is valid alone.
 
@@ -433,10 +440,9 @@ The serial is the Sorrow Entity's **own SECC numerical designation with one extr
 
 Breach and transformation states do **not** mint new codes. A Place→Subject event (SECC `[GP]` → `[GS]`, `-B` forms, phase cycles) is written as a **containment state line under the same designation**, with the work-rule shift of Section VI. The SECC designation, Korean name and registry seed (where one exists) travel in Basic Info as aliases for cross-archive retrieval.
 
-**Reconciliation with the creator-reference quick maps (owner quick maps: [FCR], [RRP], [OCMP]).** The owner's earlier quick references designate more simply — Origin C→O · N→T · O→O/M, serial carried unchanged (e.g. `T-02-16`). Those maps remain valid *reading* aids and govern already-filed legacy pairings when they are read into an SE → Abnormality record, but designation **assignment** for transported SEs follows this Section II only (three-field letter read; `0###` serial), as directed for this overhaul. Where the two disagree on a legacy entity, both codes ride as aliases; neither is ever renumbered to match the other.
+**Quick maps and this designation law.** The owner's earlier quick references designate more simply — Origin C→O · N→T · O→O/M, serial carried unchanged (e.g. `T-02-16`). Those maps remain valid *reading* aids and govern already-filed legacy pairings when they are read into an SE → Abnormality record, but designation **assignment** for transported SEs follows this Section II only (three-field letter read; `0###` serial), as directed for this overhaul. Where the two disagree on a legacy entity, both codes ride as aliases; neither is ever renumbered to match the other.
 
 ### I. Core Classification Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak Field | L Corp Equivalent | Conversion Notes |
 |---|---|---|
@@ -458,7 +464,6 @@ Breach and transformation states do **not** mint new codes. A Place→Subject ev
 | **R.D. Observation Level (0–4)** | **Observation Level (I–IV)** | Direct 1:1. Somnarak 0=Unknown → L Corp locked. Somnarak 4=Mastered → L Corp IV all unlocked. |
 
 ### X. SECC Code System (5 × 5 × 5 × 5)
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 #### Designation Format
 
@@ -484,7 +489,6 @@ Example: SE-C-IVδ-001 [GS]
 | **N (Inner)** | 내한 (Naehan) | Personal grief, individual trauma |
 
 ### XVII. L Corp Shape / Form Codes
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 L Corp's second number in the Subject Number (`Letter-XX-YY`) represents the Abnormality's shape/form. Somnarak's Manifestation code maps to these:
 
@@ -502,7 +506,6 @@ L Corp's second number in the Subject Number (`Letter-XX-YY`) represents the Abn
 | **00** | Unknown / Training | **Subject** (training entity) | Special: The Kind Echo = Standard Training-Dummy Rabbit |
 
 ### I. Classification Code Structure
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 |Component|SOMNARAK (SECC)|Lobotomy Corporation|Mapping|
 |---|---|---|---|
@@ -515,7 +518,6 @@ L Corp's second number in the Subject Number (`Letter-XX-YY`) represents the Abn
 |**Element**|Lament, Grudge, Void, Weight, Mixed|N/A (mapped to damage types)|Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK|
 
 ### 5. Entity Classification & Threat Tiers
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 Lobotomy Corporation ranks Abnormalities through a five-tier Hebrew risk scale. Project Somnarak uses the **SECC (Sorrow Entity Classification Code)** combining Coherence Ranks (I to V) and Potency Grades (α to ω):
 
@@ -538,6 +540,18 @@ Lobotomy Corporation ranks Abnormalities through a five-tier Hebrew risk scale. 
 In Lobotomy Corporation, breached entities exit containment and roam corridors while maintaining their physical form. In Project Somnarak, specific apex Place entities undergo structural metamorphosis upon containment failure:
 - Example: *The Maw* (`C-IVω-001 [GP]`), normally a stationary subterranean containment chamber, tears itself free from the surrounding rock stratum during breach, transforming into the mobile walking titan `C-IVω-001-B [GS]`.
 
+### Reading the Body That Receives the Code
+
+The class number reads the body, so settle the body before the number is written:
+
+- **Whole form.** The unit presents the entity entire. Class reads that body; housing grade is filed as Whole, with the scale band from Chapter 1.
+- **Aspect-shifted form.** The unit presents the entity in a reduced aspect — seated, folded, masked, condensed, or otherwise lawfully presented smaller than its breach body. Class still reads the true dossiered body; the aspect is a housing note, not a new species.
+- **Fragment form.** The unit presents only a continuous part: eyes at an aperture, a face at a window, a hand, a mouth, a single room of a Place. Write what is present in Basic Info, write the completing body only as the dossier attests it, and carry any unattested remainder as a HOLD. Breach completes the fragment; intake never completes it by imagination.
+- **State lines.** A transformed state keeps the base subject number. File the state as a containment state with its own work, counter, and breach lines. A state suffix in the SECC alias is retrieval help, never a second LC code.
+- **Alias order.** Basic Info carries the SECC designation, Korean name where filed, any legacy quick-map code already paired in an older record, and the registry seed where one exists. Aliases retrieve; they do not govern.
+
+When the presented body and the true body disagree, the conversion note needs two sentences, not one: what the room holds, and what breach would put in the hallway.
+
 ---
 
 ## Chapter 4 — Danger Read: Threat Score, Risk Tier, HP, Pressure & Energy
@@ -545,7 +559,6 @@ In Lobotomy Corporation, breached entities exit containment and roam corridors w
 Now the owner's specially created threat machinery does its work: Potency and Coherence are summed into a Threat Score, the score sets the Risk Level, and the tier multipliers derive HP, attack/pressure and energy reads. The Universal Table synthesis follows the owner's tables; every derived value is then checked against its tier band and filed once, at intake.
 
 ### I. Threat Score System (Risk Level Conversion)
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 L Corp uses a single Risk Level (ZAYIN → ALEPH). Somnarak uses two axes — **Potency** and **Coherence** — that combine into a **Threat Score** mapping to the L Corp system.
 
@@ -594,7 +607,6 @@ Threat Score = Potency Rank + Coherence Rank
 | The Dawn of Mourning | ω + V | 10 | ALEPH |
 
 ### II. Risk Level Conversion (Threat Score)
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 **Formula:** `Threat Score = Potency rank + Coherence rank`
 
@@ -617,7 +629,6 @@ Threat Score = Potency Rank + Coherence Rank
 **Example:** The Maw is Coherence IV + Potency ω = Score 9 = **ALEPH**
 
 ### Score → L Corp Level (opening table)
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 
 | Score | L Corp Level |
 | ----- | ------------ |
@@ -628,7 +639,6 @@ Threat Score = Potency Rank + Coherence Rank
 | 9–10  | ALEPH        |
 
 ### ZAYIN Table (Score 2–3)
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 
 |Potency|Coherence|Score|L Corp Level|Somnarak Threat|
 |---|---|---|---|---|
@@ -637,7 +647,6 @@ Threat Score = Potency Rank + Coherence Rank
 |**β** (Moderate)|**I** (Residue)|3|ZAYIN|Minor|
 
 ### TETH Table (Score 4–5)
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 
 |Potency|Coherence|Score|L Corp Level|Somnarak Threat|
 |---|---|---|---|---|
@@ -650,7 +659,6 @@ Threat Score = Potency Rank + Coherence Rank
 |**δ** (Critical)|**I** (Residue)|5|TETH|Moderate|
 
 ### HE Table (Score 6)
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 
 |Potency|Coherence|Score|L Corp Level|Somnarak Threat|
 |---|---|---|---|---|
@@ -661,7 +669,6 @@ Threat Score = Potency Rank + Coherence Rank
 |**ω** (Catastrophic)|**I** (Residue)|6|HE|Major|
 
 ### WAW Table (Score 7–8)
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 
 |Potency|Coherence|Score|L Corp Level|Somnarak Threat|
 |---|---|---|---|---|
@@ -674,7 +681,6 @@ Threat Score = Potency Rank + Coherence Rank
 |**ω** (Catastrophic)|**III** (Fragment)|8|WAW|Critical|
 
 ### ALEPH Table (Score 9–10)
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 
 | Potency              | Coherence         | Score | L Corp Level | Somnarak Threat |
 | -------------------- | ----------------- | ----- | ------------ | --------------- |
@@ -683,10 +689,8 @@ Threat Score = Potency Rank + Coherence Rank
 | **ω** (Catastrophic) | **V** (Sovereign) | 10    | ALEPH        | Catastrophic    |
 
 ### **CONVERSION BASE OF THREAT LEVEL**
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 
 ### **DAMAGE / ATK**
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 1. **ZAYIN Level Entity** = 1 Base ATK = x1 to x0.5
 2. **TETH Level Entity** = 1 Base ATK = x1.2 to x1.4
 3. **HE Level Entity** = 1 base ATK = x1.4 to x1.8
@@ -694,7 +698,6 @@ Threat Score = Potency Rank + Coherence Rank
 5. **ALEPH Level Entity** = 1 base ATK = x1 to x0.5
 
 ### **HEALTH / HP**
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 1. **ZAYIN Level Entity** = 1 Base HP = x0.2
 2. **TETH Level Entity** = 1 Base HP = x0.4
 3. **HE Level Entity** = 1 Base HP = x1.8
@@ -702,10 +705,8 @@ Threat Score = Potency Rank + Coherence Rank
 5. **ALEPH Level Entity** = 1 Base HP = x10
 
 ### **NOTE : EVERY NUMBER CANT BE DECIMAL SO ROUND THEM UP**
-*Source tag: **[TST]** — owner's Transformation Table (Threat Score core).*
 
 ### Section III: Risk Classification Mapping (SECC to Lobotomy Corp Tiers)
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 The Sephirah Council classifies incoming Sorrow Entities into Lobotomy Corporation's standard five-tier Hebrew risk hierarchy based on their SECC Coherence Rank and Potency Grade:
 
@@ -718,7 +719,7 @@ The Sephirah Council classifies incoming Sorrow Entities into Lobotomy Corporati
 | **ALEPH** | 9–10 | **Rank V (Sovereign) / Grade ω** | 1,000 – 12,000 HP | 50 – 80+ DMG | 32 – 40 PE | 1 – 3 | All Four Elements Cycled |
 #### Threat Score rule and stat derivation (owner's Transformation Table)
 
-Tier is set by the owner's **Threat Score** — the specially created transformation table carried in full at [TST] (formulas at [FCR] §II–IV and [RRP] §I–III): **Score = Coherence rank + Potency rank** (I/α = 1 … V/ω = 5) → **2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH**. Off-diagonal pairs need no tie-break; the sum decides, and it *upgrades or downgrades* the diagonal read upward or downward (the Maw IV + ω = 9, ALEPH, as rostered in Section VIII; a ω + I entity is 6, HE — catastrophic potency in a residue body is dangerous, not sovereign). The Rank/Grade column above remains the diagonal reference. Within the tier:
+Tier is set by the owner's **Threat Score** — read from the transformation tables at the head of this chapter: **Score = Coherence rank + Potency rank** (I/α = 1 … V/ω = 5) → **2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH**. Off-diagonal pairs need no tie-break; the sum decides, and it *upgrades or downgrades* the diagonal read upward or downward (the Maw IV + ω = 9, ALEPH, as rostered in Section VIII; a ω + I entity is 6, HE — catastrophic potency in a residue body is dangerous, not sovereign). The Rank/Grade column above remains the diagonal reference. Within the tier:
 
 - **HP** = `ceil(dossier Sorrow Gauge [HP] × tier multiplier)` — **×0.2** ZAYIN · **×0.4** TETH · **×1.8** HE · **×4** WAW · **×10** ALEPH. **Every converted number is a whole number, always rounded UP; no decimals** (owner's rule). The result is checked against the tier band above; outside it, the figure is flagged, never silently rescaled.
 - **Work damage** type comes from the entity's Element (Section V); values = `ceil(Han Pressure × tier multiplier)` inside the owner's ranges — **×0.5–1.0** ZAYIN · **×1.2–1.4** TETH · **×1.4–1.8** HE · **×1.0–1.8** WAW · **×0.5–1.0 ALEPH plus Instant Death mechanics** (HE is the peak raw-damage tier; ALEPH trades per-hit damage for Instant Death / Instant Fracture). Intake fixes one value inside the range and files it; the Attack band above remains the sanity check, and no scene re-rolls a filed value.
@@ -748,8 +749,44 @@ An SE carries **Gauge-only, Threshold-only, both, or neither** — exactly as na
 - **Tool use counters are Threshold-channel mechanisms**: charge counts, charge-up timers (the Train's four lights are the native shape), per-day uses, and single-use consumption (Section X.5) convert one for one with figures verbatim. Read-only dossier **tallies** — counts of things that have already happened, such as the learned-face count of 61 — are Basic-Info statistics and Threshold *evidence*; Extraction does not turn a memorial into a meter.
 - **Degree read.** Degree I: every filed channel live as derived here. Degree II: channels live only as the dossier files them, under LC names. Degree III: both mechanisms remain Somnarak-side (Preface table).
 
+### Master Statistical Intake Matrix
+
+Use this matrix after the Threat Score tables and before the detailed derivations. It is the whole conversion on one page: every LC field, the dossier field that generates it, and the rule that keeps the generation honest.
+
+| LC record field | Dossier input | Operation | Filing rule |
+|---|---|---|---|
+| Subject Number | Sorrow Category + Origin + Tale; Entity/Tool Type + form + appearance; SECC number | Chapter 3 three-field read | Assigned once; aliases never renumber it |
+| Risk Level | Coherence rank + Potency rank | Threat Score → tier band | Score decides; diagonal expectation is only a check |
+| HP | Sorrow Gauge [HP] | `ceil(Gauge × tier HP multiplier)` | Check against tier band; flag outside, never rescale silently |
+| Work damage | Han Pressure [ATK] + Element | `ceil(Pressure × filed ATK multiplier)`; Element → color | One multiplier inside the tier range is chosen and filed at intake |
+| PE-Boxes | Han Yield + Risk tier | Tier PE band, read with work outcomes | No 1:1 exchange rate; the dossier yield stays in the worksheet |
+| Qliphoth Counter | Sorrow Gauge channel and/or Activation Threshold channel | Chapter 4 counter derivation; operations in Chapter 6 | Channel to channel only; absent channel stays absent |
+| Work favorability | Behavior table by discipline | Outcome translation in Chapter 5 | Default Common; High/Low only where Behavior files a reason |
+| Breach movement | Speed, range, skills, body plan | Chapter 7 movement profile | Stats do not scale with presented size |
+| Damage riders & resistances | Element effects; defensive record | Chapter 7 transcription in color order | Values verbatim; neutral only where the dossier files none |
+| E.G.O | M.A.W. Weapon / Suit / Gift, where filed | Chapter 8 field conversion + Composure Load | No M.A.W. on file means no E.G.O invented at intake |
+| Encyclopedia | Comprehension, Tale, redactions, quote | Chapter 9 build order | Quote verbatim; origin of the quote remains unknown |
+| Department | Risk, work needs, breach class, story scale | Chapter 2 institutions + Chapter 10 roster practice | Department is a staffing decision, never a stat |
+
+### Durability Calibration — Facility HP and Sovereign Scale
+
+The dossier Gauge is a home-scale durability record. Most contained SEs file it inside the familiar thousand-point ledger; the LC HP bar is then a facility-scale output of the multiplier, checked against the tier band. Three cases need explicit handling:
+
+- **Standard contained body.** Gauge filed, body housable, breach suppressible by department staff. Derive HP and file it. A result outside the band is flagged in the conversion note with the arithmetic shown.
+- **Macro or sovereign body.** The dossier files district scale, a Place body, a raid-scale Gauge, or multi-phase organs. Do not shrink the entity to make the arithmetic pretty. House it under the Place/extraction rules in Chapter 1, file any Well-attenuated breach scale as a frame fact, and let the HP output stand where the formula puts it. Suppression planning becomes a departmental campaign, not a one-room work problem.
+- **Geography, not an entity.** A landmass, ocean, climate, or regional feature with no SE dossier is not an intake. File HOLD and route the story to world geography, not containment.
+
+Where the dossier files stagger thresholds, translate them as filed behavior: a partial-stagger line becomes the HP fraction at which a named pattern, limb, organ, or state disables; a terminal line becomes the suppression-complete condition. At Degree III the home stagger track may run intact as a retained mechanic.
+
+### Arithmetic Filing — Multipliers, Braces, and No Silent Recomputation
+
+1. Compute the Threat Score and tier first. No stat is derived before the tier exists.
+2. Choose the ATK multiplier inside the tier range from the pressure pattern the dossier files: low end for ambient or grazing pressure, middle for standard work damage, high end only where the dossier files rupture, execution, or equivalent spike behavior. File the chosen multiplier beside the result.
+3. Round every derived number **up** to a whole number. A decimal in a finished record is an unfinished record.
+4. If the dossier files no Gauge or no Pressure, the preferred output is a HOLD. A story that must proceed may file a braced estimate from the tier band — `{est.}` — and the brace travels with the figure wherever it is quoted.
+5. Check finished arithmetic by computing forward again from the dossier base and the filed multiplier. If the record does not match, flag arithmetic drift; never solve for a prettier base to make the sheet agree.
+
 ### III. HP Conversion
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | L Corp Risk Level | HP Multiplier | Formula |
 |---|---|---|
@@ -764,7 +801,6 @@ An SE carries **Gauge-only, Threshold-only, both, or neither** — exactly as na
 **Example:** Somnarak entity has 415/1000 HP, Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**.
 
 ### II. HP Conversion
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 Somnarak uses **X/X of 1000** for entity HP. L Corp uses absolute HP values. Convert using the multiplier for the entity's Risk Level.
 
@@ -781,7 +817,6 @@ Somnarak uses **X/X of 1000** for entity HP. L Corp uses absolute HP values. Con
 **Example:** Somnarak entity has 415/1000 HP, Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**.
 
 ### 6. Health Pools (HP) & Durability Scaling (The 10,000 HP Update)
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assigned uncapped 10,000 HP pools. This comparison updates that metric to its canonical balance:
 
@@ -795,7 +830,6 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 | **Planetary Geography** | N/A | **N/A (Invulnerable / Unfightable)** | Natural oceans, continental landmasses, and polar tundra are Geography, not combatants. |
 
 ### IV. ATK / Damage Conversion
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | L Corp Risk Level | ATK Multiplier | Formula |
 |---|---|---|
@@ -821,7 +855,6 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 **Example:** Somnarak entity deals 10–23 Lament damage, Threat Score 4 (TETH). L Corp damage = WHITE, ceil(10×1.2)–ceil(23×1.4) = **12–33 WHITE damage**.
 
 ### III. ATK / Han Pressure Conversion
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity). L Corp uses Work Damage values. Convert using the multiplier for the entity's Risk Level.
 
@@ -848,7 +881,6 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **Mixed** | Multiple | Multiple stats | Varies |
 
 ### V. Energy / Resource Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -861,7 +893,6 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **The Weeping** | **The Well / The River** | The source of all entities. Somnarak: underground river of liquid Han. L Corp: the Well of Cogito / the River. |
 
 ### IV. Energy / Resource Mapping
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -884,7 +915,6 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 ```
 
 ### II. Risk Level Conversion
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 |SOMNARAK|L Corp|Threat Score Formula|
 |---|---|---|
@@ -901,7 +931,6 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 A rated entity still has to be worked by people. This chapter pairs the four disciplines across the seam and then follows the human cost: LC stats as aptitude, R.D. Attributes as earned survival, and the Level 0 Nugget start that makes early staffing an expenditure, not a formality.
 
 ### Section IV: Work Type Mechanics & The Inviolable Two-Work-Type Law
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 **Facility Work Protocols // Cogito vs Han Conversion**
 
@@ -934,7 +963,7 @@ For entities classified with a Subject manifestation (e.g., *The Whispering Conf
 
 #### 3. R.D. Attributes — Levels, Work Interactions, and Nugget Acquisition (owner's Attribute Levels add-on)
 
-Facility work against a transported SE is *also* Han exposure, and Somnarak measures the personnel side of that exposure with four **R.D. Attributes** (the owner's add-on, carried in full at [RDA]; conversion-order counterparts at [FCR] §VIII/XIV and [RRP] §VIII/IX). In-facility work pairs each R.D. Attribute to an LC governing stat **by work function**:
+Facility work against a transported SE is *also* Han exposure, and Somnarak measures the personnel side of that exposure with four **R.D. Attributes** (stated in full in this chapter, immediately below). In-facility work pairs each R.D. Attribute to an LC governing stat **by work function**:
 
 | Work pair | R.D. Attribute (primary · secondary) | LC governing stat | Failure effect (primary too low for the entity's Han Pressure) |
 |---|---|---|---|
@@ -948,14 +977,11 @@ Facility work against a transported SE is *also* Han exposure, and Somnarak meas
 - **Terminology guard.** *Composure the attribute* (Temperance-paired, this subsection) and the SP pool that Composure Load taxes (Section VII) are two ledgers sharing one word. Wherever a conversion note writes "Composure" beside a number, it states which ledger it means.
 
 ### Crossover Add-on: How Somnarak's R.D. Attributes Map to Personnel
-*Source tag: **[RDA]** — owner's R.D. Attribute Levels add-on (Nugget acquisition).*
 
-> **Combined-edition note (2026-10-30):** Owner's laptop original — the R.D. Attribute levels and Nugget acquisition add-on — filed verbatim from the owner's dump and, for its SE → Abnormality material, rearranged by subject into the chapter sequence of the *Universal Sorrow Entity to Abnormality Conversion Table* (chaptered combined overhaul edition) under source tag **[RDA]** (Chapter 5). This standalone file remains the archival original.
 
 > This add-on describes the **R.D. Attribute system** used in the Somnarak ↔ Lobotomy Corporation crossover, and how L Corp employees ("Nuggets") acquire Somnarak attributes through sustained exposure.
 
 ### Attribute Levels
-*Source tag: **[RDA]** — owner's R.D. Attribute Levels add-on (Nugget acquisition).*
 
 Each attribute ranges from **1 (lowest)** to **100 (highest)**. Most civilians average **20–30** in each attribute. Trained R.D. personnel average **40–60**. Echo-Cores exceed **80**.
 
@@ -968,7 +994,6 @@ Each attribute ranges from **1 (lowest)** to **100 (highest)**. Most civilians a
 | **Exceptional** [Lvl V] | 81–100 | Echo-Core level — can withstand what breaks others |
 
 ### Attribute Interactions — How Attributes Interact with Work Types
-*Source tag: **[RDA]** — owner's R.D. Attribute Levels add-on (Nugget acquisition).*
 
 | Work Type | Primary Attribute | Secondary Attribute | Failure Outcome |
 |---|---|---|---|
@@ -978,7 +1003,6 @@ Each attribute ranges from **1 (lowest)** to **100 (highest)**. Most civilians a
 | **Ferrehan** (Endurance) | Resilience | Resolve | Total collapse — physical and mental exhaustion |
 
 ### How L Corp Employees (Nuggets) Acquire R.D. Attributes
-*Source tag: **[RDA]** — owner's R.D. Attribute Levels add-on (Nugget acquisition).*
 
 If an L Corp employee/Nugget **survives for 3 days or more** while sustaining a Sorrow Effect, the employee **gains points (accumulating)** simply for sustaining the effect. The accumulated points unlock **R.D. attributes specific to the entity effect** the employee is sustaining, tracked in this form:
 
@@ -992,7 +1016,6 @@ If an L Corp employee/Nugget **survives for 3 days or more** while sustaining a 
 An L Corp employee/Nugget **always starts at Lvl 0** in all R.D. Attributes, because they have never had to survive Han effects and entity effects every day the way Somnarak personnel do.
 
 ### VI. Work Type Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak Work Type | L Corp Work | Axis | Element | What It Does |
 |---|---|---|---|---|
@@ -1009,7 +1032,6 @@ Somnarak's Work Type table (Response + Gauge Change per type) maps directly to L
 - Gauge "Stable" = moderate success rate
 
 ### VIII. Personnel Stats Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak Stat | L Corp Equivalent | What It Measures |
 |---|---|---|
@@ -1021,7 +1043,6 @@ Somnarak's Work Type table (Response + Gauge Change per type) maps directly to L
 | **Architect's Mark** | **(no direct equivalent)** | Somnarak-specific: physical changes from Han exposure |
 
 ### XIV. R.D. Attribute System (L Corp Crossover Mechanic)
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 > When a Somnarak Sorrow Entity is imported to L Corp via the Well of Cogito, L Corp Employees (Nuggets) exposed to its Han Effects can develop **R.D. Attributes** — Somnarak-native stats that do not exist in standard L Corp employees. This represents the employee's body and mind adapting to sustained Han exposure.
 
@@ -1098,7 +1119,6 @@ An L Corp employee works on an imported Somnarak Grudge entity (RED damage) for 
 *"Give this document and any Somnarak Entity file to an AI. Tell it: 'The Well of Cogito has grabbed this Somnarak Sorrow Entity and is transforming it into a Lobotomy Corporation Abnormality. Use the conversion reference to translate every field. L Corp employees exposed to this entity will develop R.D. Attributes per section XIV.' The AI should output a full L Corp Abnormality wiki page."*
 
 ### V. Work Type Mapping
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak Work Type | L Corp Work | Axis | Element | What It Does |
 |---|---|---|---|---|
@@ -1113,7 +1133,6 @@ An L Corp employee works on an imported Somnarak Grudge entity (RED damage) for 
 - **Increase** = Low success rate (entity resists; worst work)
 
 ### VIII. Personnel Stats Mapping
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak Stat | L Corp Equivalent | What It Measures |
 |---|---|---|
@@ -1125,7 +1144,6 @@ An L Corp employee works on an imported Somnarak Grudge entity (RED damage) for 
 | **Architect's Mark** | *(no direct equivalent)* | Somnarak-specific: physical changes from Han exposure |
 
 ### IX. R.D. Attribute System (L Corp Crossover Mechanic)
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 > When a Somnarak Sorrow Entity is imported to L Corp via the Well of Cogito, L Corp Employees (Nuggets) exposed to its Han Effects can develop **R.D. Attributes** — Somnarak-native stats that do not exist in standard L Corp employees.
 
@@ -1182,7 +1200,6 @@ Each ranges from **1 (lowest) to 100 (highest)**. Points accumulate through sust
 5. **Reach Level III (41+ points)** to safely perform the associated Work Type without Failure Effects.
 
 ### 7. Containment Disciplines & The Two-Work-Type Rule
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 Lobotomy Corporation uses four standardized work types. Somnarak formalizes containment through **The Absolvohan** (  해원한   / *Haewonhan*):
 
@@ -1204,7 +1221,6 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
   * Performing Flerehan or Pugnahan on an inanimate SE causes automatic work failure, severe psychic backfire, and an immediate Sorrow Gauge surge.
 
 ### 12. Employee / Operative Core Attributes
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 | Lobotomy Corporation Attribute | Governed Metric | Project Somnarak Attribute | Governed Metric |
 |---|---|---|---|
@@ -1214,7 +1230,6 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 | **Justice** | Attack Speed & Movement Speed | **Resolve (  결의   )** | Speed-scaled Action Points (AP), Pugnahan clash power, parry chance. |
 
 ### IV. Work Type Mapping
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 |SOMNARAK Work Type|L Corp Work|Axis|Element|What It Does|
 |---|---|---|---|---|
@@ -1223,6 +1238,20 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 |**Viderehan** (Observation)|**Insight**|Mental + Void|Study / detachment|Observe from distance; analyze without engaging|
 |**Ferrehan** (Endurance)|**Instinct**|Mental + Weight|Patience / presence|Endure the entity's presence; contain through will|
 
+### Work-Outcome Translation in Detail
+
+The dossier Behavior table is the only authority for favorability. Translate each filed outcome into four LC consequences at once — work result, counter movement, energy, and people — or the conversion is only half written.
+
+| Dossier Behavior outcome | LC work read | Counter / energy consequence | Personnel consequence |
+|---|---|---|---|
+| Gauge Decrease, relief, stabilization | Favorable outcome for that discipline | Gauge-channel relief; Qliphoth behavior follows the filed counter law; PE at the good end of the band | Preferred staffing work; attribute points accrue by Element after the survival threshold |
+| Gauge Stable, no filed change | Common outcome | No invented counter movement; standard PE inside the band | Safe rotation work where the Two-Work-Type Law allows it |
+| Gauge Increase, agitation, spread | Poor outcome for that discipline | Gauge-channel pressure rises by filed steps; PE at the poor end or lost on failure | Failure effect checked against the primary attribute for that work |
+| Named condition met, count reached, timer ends | Not a work result at all | Threshold channel advances or completes exactly as filed; work quality does not substitute | Staff by condition-watch, not by grinding the favored work |
+| Prohibited discipline attempted | Illegal work | Filed backfire only; never use the backfire as a substitute counter mechanic | Record as a management violation in the conversion note and the roster plan |
+
+**Staffing the first days.** Every employee begins at R.D. Attribute Level 0 for conversion purposes, whatever their LC stat aptitude. The first three days against a high-Pressure entity are therefore an exposure budget, not a training montage: rotate before the filed failure effect, pair the work to the employee's governing-stat aptitude, and record which Element is paying points into which attributes. From the fourth survived day the 1–3 points per day begin to matter; at Level III the associated work stops carrying its failure effect and the entity can move from expedition staffing to roster staffing. Write that transition day into the department plan.
+
 ---
 
 ## Chapter 6 — Counters, Breach, Transformation & Crisis
@@ -1230,7 +1259,6 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 Work moves counters; counters open doors. With the Gauge/Threshold channel law already stated in Chapter 4, this chapter follows what happens when a filed channel completes: breach, transformation, meltdown weather, and suppression.
 
 ### Section VI: Special Transform Breaches: Place-to-Subject Metamorphosis
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 ```text
 +========================================================================+
@@ -1272,7 +1300,6 @@ When a **Place-Tale Sorrow Entity** breaches in Lobotomy Corporation (most notab
 The phases above are worked on the Maw, but the conversion of *abilities* is general. Dossiered skills convert as the Breach Form's attack patterns: damage type via Section V, values inside the Section III attack band (a dossier figure filed outside its band is flagged, not rescaled — the Section III discipline), and pattern, reach and cadence carried over as written. Skills keyed off containment conditions rather than combat convert instead as managerial special rules attached to the relevant work. **Dawn-table riders and Ultimates keep their dossiered triggers verbatim**: an HP-percentage trigger reads against the converted HP bar, a count-based trigger against the Section III counter or use-counter it derives from, and a trigger the source record leaves unresolved converts as a HOLD under Section IX — never completed by the intake team. At Degree II the patterns run as Han mechanics under LC names; at Degree III this subsection does not apply.
 
 ### VII. Breach & Activation Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -1286,7 +1313,6 @@ The phases above are worked on the Maw, but the conversion of *abilities* is gen
 | **Instant Fracture** | **Instant Death / Instakill** | ω-grade (ALEPH) entity ability that removes a target instantly |
 
 ### VII. Breach & Activation Mapping
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -1300,7 +1326,6 @@ The phases above are worked on the Maw, but the conversion of *abilities* is gen
 | **Instant Fracture** | **Instant Death / Instakill** | ω-grade (ALEPH) entity special |
 
 ### 9. Breach Dynamics & Crisis Escalation
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 | Crisis Metric | Lobotomy Corporation | Project Somnarak | Updated Canonical Mechanics |
 |---|---|---|---|
@@ -1316,14 +1341,37 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 3. **Third Watch (  삼경   / *Samgyeong*):** Han-brine begins seeping through drainage pipes; random containment cells enter High Agitation (+25% starting gauge).
 4. **Tide Watch (  해일경   / *Hae-ilgyeong*):** Total subterranean inundation; all Sorrow Entities gain +1 Speed slot and +20% Han Pressure [ATK]. Uncontained brine crystallizes corridors.
 
+### Counter Operations, Meltdown Marking, and Breach Taxonomy
+
+Chapter 4 derives the counter. This section runs it.
+
+| Channels filed in the dossier | Daily operation | Return / reset | Manager's error to refuse |
+|---|---|---|---|
+| Gauge only | Work outcomes move pressure by filed steps; relief work is a real containment tool | Gauge returns to its filed baseline on return; permanent tallies stay statistics | Treating a good work streak as permission to ignore a filed spike outcome |
+| Threshold only | Named conditions, counts, and timers are watched; work quality alone never completes or clears them | Counts reset only where the dossier files a reset; permanent counts never reset | Grinding favored work to “answer” a condition that work cannot touch |
+| Both channels | Track separately on the record; first completion fires the filed consequence | Reset each channel by its own rule after return | Merging both into one reassuring meter |
+| Neither channel | Non-breaching or activation-only record; work and use rules still apply | Nothing to reset; file `Counter: —` | Inventing a counter because the tier looks dangerous |
+
+**Meltdown marking.** A meltdown mark does not lift the Two-Work-Type Law and does not change the channel. Answer a Gauge-marked unit with filed relief work; answer a Threshold-marked unit by verifying or interrupting the named condition. If the only lawful response is observation, observe and file it — an honest observation line beats an illegal work order.
+
+**Breach taxonomy for the output record.** Classify the filed breach before writing suppression doctrine:
+
+| Breach class | Output behavior | Suppression objective |
+|---|---|---|
+| Escape | The Breach Form roams, hunts, or occupies facility space | Reduce HP / satisfy the filed return condition; protect clerks and corridors first |
+| Corrupt | The entity stays housed while employees, gear, or nearby units are altered | Isolate the vector; purge or quarantine by the filed rule; HP suppression may be irrelevant |
+| Transform | A state line completes: fragment to whole, Place to Subject, phase to phase | Suppress or satisfy the state under its own work/counter lines; base code unchanged |
+| Cascade | This breach files consequences into other units, departments, or the day itself | Department-level response; neighboring records are checked before this one is called contained |
+
+**Transformation states.** A Place that files a walking state keeps Place work law while housed; any wider work access exists only inside the breaching state and only as filed. Sequential phases keep one subject number: file each phase's work and counter lines, and roster the Risk Level from the highest-Score state attested, because the facility staffs for the worst body it may have to house. A fusion files as a joint breach state cross-referencing both base codes; it receives a new permanent code only if a later intake files a genuinely new entity.
+
 ---
 
-## Chapter 7 — Damage Language & Combat Expression
+## Chapter 7 — Damage Language, Movement & Combat Expression
 
 Once an entity is loose or a work goes bad, both archives need the same damage language. Elements become colors, pressure becomes tactical effect, and dossiered skills keep their triggers instead of being flattened into generic attacks. (The Universal Table's skill-conversion passage travels with the transform-breach block in Chapter 6.)
 
 ### Section V: Damage Type & Elemental Inter-Translation
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 When Sorrow Entities inflict damage on Lobotomy Corp employees, damage types translate across the elemental spectrum:
 
@@ -1336,7 +1384,6 @@ When Sorrow Entities inflict damage on Lobotomy Corp employees, damage types tra
 **Entity-side resistances (the suppression profile).** The table above converts damage the SE *deals*; damage the SE *takes* while breaching converts from the dossier's own defensive record — armor, material immunities, element affinities — into LC resistance multipliers in the same color order. Filed values are transcribed, never rebalanced for fairness. Where the dossier files no defensive profile, the Breach Form takes neutral **1.0 across all four colors** and the absence is entered as a management note: Extraction does not invent an armor profile to make a suppression tidy. Place-bodies in their Containment Form are not suppressed through this profile at all — they are worked, per Section VI, until they take a form that can be.
 
 ### 8. Elemental Damage Spectrum & Psychological Rupture
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 Both systems utilize a four-element damage and defense architecture:
 
@@ -1362,7 +1409,6 @@ When an operative's mental fortitude collapses, their behavior breaks down accor
   * *Berserk Wrath (Resolve Rupture):* The operative lashes out in blind Grudge strikes, attacking friend and foe alike until subdued.
 
 ### III. Damage Type Mapping
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 |SOMNARAK Element|L Corp Damage Type|What It Attacks|Color|
 |---|---|---|---|
@@ -1371,6 +1417,31 @@ When an operative's mental fortitude collapses, their behavior breaks down accor
 |**Void**|**PALE**|Soul / percentage-based / identity erasure|Pale White|
 |**Weight**|**BLACK**|Both HP and Sanity simultaneously|Black|
 
+### Movement, Range, and Action Economy
+
+Somnarak field records may file Speed, range bands, and an action economy. A facility record does not run on action points, so translate the pattern, not the bookkeeping — except at Degree III, where a story may retain the home mechanics intact as named traits.
+
+| Dossier movement pattern | LC breach movement profile | Suppression note |
+|---|---|---|
+| Speed 1–2 · single move or light strike | Slow roam; short reposition between attacks | Contain by corridor control; do not let a slow profile be read as a safe profile |
+| Speed 3–4 · move + strike or double guard | Standard roam; attacks on the move between adjacent rooms | Focus fire during transit; guard elevators and department doors |
+| Speed 5–6 · rapid reposition, heavy skills queued | Fast roam or multi-room pressure; short warning before pattern skills | Pre-position resistant suits; interrupt at the filed stagger or pattern line |
+| Speed 7+ · multi-node dashes, apex pacing | Teleport-class, phase-class, or facility-pressure movement as filed | Treat distance as no defense; suppression is a department plan, not a chase |
+
+| Range band in the dossier | Output reach | Falloff rule |
+|---|---|---|
+| Band 1 — point-blank | Contact attacks in the same room | Full filed value; the attacker is inside employee reach |
+| Band 2 — short melee | Room-scale melee | Full filed value at melee distance |
+| Band 3 — mid-range | Room-to-hallway reach | May strike without entering contact, only where the dossier files that advantage |
+| Band 4 — long ranged | Multi-room / line-of-sight attacks | Minimum-distance or close-range penalties only where filed |
+| Band 5 — artillery / sovereign resonance | Department or facility pattern attacks | Stationary, telegraphed, or state-bound exactly as filed; never a casual work-damage value |
+
+The four home defensive reactions become manager orders, not dice: **Pass** — withdraw or kite the employee out of the pattern; **Pan** — reposition so the filed deflection path empties into safe space; **Par** — concentrate suppression to interrupt at a filed stagger line; **Po** — brace the employee whose suit resistance actually answers the incoming color. An order that no employee stat, suit, or filed rule supports is not a tactic; it is a hope, and it is not filed.
+
+### Pressure Riders and Resistance Transcription
+
+Work damage and breach damage are separate outputs wherever the dossier separates them; never average them into one convenient number. Status riders travel with their Element and trigger exactly as filed — a Lament rider that slows, a Weight rider that burdens movement, a Void rider that reads as percentage trauma — and are written into the LC record as named effects with durations, not as color flavor. Resistances transcribe in color order (Grudge→RED, Lament→WHITE, Weight→BLACK, Void→PALE) with values verbatim. Where the dossier files no resistance line, the output is neutral across all four colors and the absence is noted once.
+
 ---
 
 ## Chapter 8 — Equipment, Tools & Relics
@@ -1378,7 +1449,6 @@ When an operative's mental fortitude collapses, their behavior breaks down accor
 After survival comes use: what Extraction can draw from the entity, what a bearer pays to wear it, and how Tools become relic-entities without losing their limits, charges, or single-use teeth.
 
 ### Section VII: E.G.O Extraction via Extraction Department (Binah)
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 When an agent extracts equipment from a Sorrow Entity in the Extraction Department, Binah's machinery extracts unique armaments that synthesize Lobotomy Corporation E.G.O technology with Somnarak's **Materialized Agony Wear (M.A.W.)**:
 
@@ -1406,7 +1476,6 @@ If an agent's SP hits 0 while equipped with Sorrow E.G.O:
 Where the source dossier and its linked item records disagree on a piece's form, profile or even existence (extraction prohibited on one page, a full set on another), Extraction produces **nothing** and files the disagreement: an unresolved equipment record is a management fact, not a license to synthesize the missing piece. Producible quantity and PE-Box cost otherwise follow standard LC observation-gated production keyed to the Section IX unlock track; where the dossier files a finite set count, that count caps production absolutely.
 
 ### IX. Equipment Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -1422,7 +1491,6 @@ Where the source dossier and its linked item records disagree on a piece's form,
 | **M.A.W. Corrosion** | **E.G.O Corrosion** | Equipment "turns" on the user; entity personality overtakes wearer |
 
 ### VI. Equipment Mapping (M.A.W. ≠ E.G.O)
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -1438,7 +1506,6 @@ Where the source dossier and its linked item records disagree on a piece's form,
 | **M.A.W. Corrosion** | **E.G.O Corrosion** | Equipment turns on the user |
 
 ### XVIII. Tool Abnormality Types (Three Types)
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use types. Somnarak's Object entities map to these via the **Tool Type** field:
 
@@ -1451,7 +1518,6 @@ From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use 
 **Note:** The Kind Echo (SE-C-Iα-000) is the Somnarak equivalent of the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations.
 
 ### 10. Equipment Extraction: E.G.O vs. M.A.W. Wear
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 | Equipment Domain | Lobotomy Corporation (E.G.O) | Project Somnarak (M.A.W. Wear) | Updated Synthesis |
 |---|---|---|---|
@@ -1461,7 +1527,6 @@ From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use 
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Meltdown** — Gear fuses into the nervous system under Composure Load, turning operative into an Echo. | Overuse or sanity collapse results in irreversible entity fusion. |
 
 ### 11. Tool Entities: Tool Abnormalities vs. Relic-Entities
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 | Feature | Lobotomy Corporation Tool Abnormalities | Project Somnarak Relic-Entities |
 |---|---|---|
@@ -1471,7 +1536,6 @@ From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use 
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
 
 ### 15. Story Expansion: Equipment Tuning & Artisan Workshops
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 In Project Moon lore, Fixers purchase specialized weapons and clothing crafted by high-end Workshops (Zelkova, Old Boys, Atelier Logic, Mook, Wheels Industry). In Project Somnarak, containment gear is manufactured and refined through **The Five Workshop Grades (  공방 체계   / *Gongbang Chegye*)**:
 
@@ -1487,7 +1551,6 @@ In Project Moon lore, Fixers purchase specialized weapons and clothing crafted b
 To wield Grade 5 Workshop equipment, an operative cannot simply purchase or loot the gear. They must swear a formal **Employment Covenant (  고용 서약   )** with the master artisan guild. If the operative breaks service or falls into Composure Rupture, the equipment's resonant matrix seals itself, preventing misuse by unauthorized parties.
 
 ### V. Equipment Mapping
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 |SOMNARAK|L Corp|Notes|
 |---|---|---|
@@ -1502,7 +1565,6 @@ To wield Grade 5 Workshop equipment, an operative cannot simply purchase or loot
 |**M.A.W. Grade ω**|**E.G.O Grade ALEPH**|Highest tier|
 
 ### VI. Tool Abnormalities (Three Types)
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 From the wiki research, Tool Abnormalities have three distinct types:
 
@@ -1514,6 +1576,32 @@ From the wiki research, Tool Abnormalities have three distinct types:
 
 **Note:** The Kind Echo (SE-C-Iα-000) is the SOMNARAK equivalent of the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations.
 
+### Material Weight Classes as E.G.O Handling Reads
+
+Where a M.A.W. record files a material weight class, the class becomes the E.G.O piece's handling read. Numeric speed, evasion, or percentage traits enter the LC record only where the M.A.W. record already files a number; otherwise the class is written as trait text and resistance emphasis.
+
+| M.A.W. material class | Composition read | Resistance emphasis | Handling note for the E.G.O record |
+|---|---|---|---|
+| Primal Marrow | Bone, sinew, ossified tar | RED-leaning | Bleed or laceration riders only as filed; heavy swings may carry the filed bearer cost |
+| Tempered Brass | Boiler iron, hydraulic plate | BLACK-leaning | Knockback resistance as trait text; bearer treated as slow and deliberate in suppression planning |
+| Resonant Alloy | Tuned silver-blue crystal | WHITE-leaning | SP-stability trait text; parry or pulse effects only where the record files a trigger |
+| Woven Thread | Silk, mourner veils, fine weave | PALE-leaning | Mobility trait text; kinetic vulnerability written plainly, never hidden behind the tier |
+| Void Glass | Brittle black-white crystal | PALE percentage traits | Fragility is part of the record: filed shatter or failure conditions travel with the piece |
+
+Bearer meltdown follows Chapter 8's Composure Load law. At Degree I the filed consequence of an emptied SP pool is panic plus any gear-specific corrosion the dossier files; permanent fusion or transformation of the bearer enters only at Degree II as a retained bearer cost, or at Degree III as home mechanics. Intake never upgrades a cost because the higher version sounds more dramatic.
+
+### Converted-Tool and Relic Intake Standard
+
+A relic or tool SE does not become a workable subject because its tier is low. House it by use-shape:
+
+| Dossier use-shape | LC Tool housing | Counter / limit | Encyclopedia warning flags |
+|---|---|---|---|
+| Single-use or activation relic | Tool record with consumption intact | Threshold-channel use count, figures verbatim | Benefit, alteration, or instant-death flags exactly as filed |
+| Wearable / carried relic | Equippable Tool record | Continuous bearer cost under Composure Load where filed | Bearer alteration flag mandatory where any alteration is filed |
+| Stationary or channeled relic | Fixed Tool installation in the unit | Session duration, charge, or day limit from the Threshold channel | Overuse and backfire lines unlocked before story, never after |
+
+Use four warning flags in Basic Info wherever the dossier supports them: **Can benefit the facility**, **Can alter the employee**, **Can cause instant death**, **Can precipitate meltdown**. A flag is a promise to the manager; do not file one for atmosphere, and do not omit one for elegance.
+
 ---
 
 ## Chapter 9 — Observation, Records, Lexicon & The Wider Story World
@@ -1521,7 +1609,6 @@ From the wiki research, Tool Abnormalities have three distinct types:
 A conversion is not finished when the fight ends; it has to be filed, quoted, selected, and placed in a world. This chapter carries observation and encyclopedia law, the shared story vocabulary, the systems with no clean equivalent, and the wider institutions a facility-scale story may need.
 
 ### Section IX: Observation & Encyclopedia Translation
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 - **Observation Level:** the dossier's R.D. Comprehension Level is the starting gate, not the ceiling — Basic Info unlocks first, then managerial guidelines in the order the dossier itself establishes them (work responses, activation trigger, termination/return, then narrative). Story Log entries convert to Encyclopedia entries in their filed unlock order; the Tale converts last and whole.
 - **Redaction overrides completeness.** Where a dossier forbids recording content (a reflection's contents, a name that must not be answered, a register under release dispute), the Encyclopedia carries the *rule* and a blank where the content would sit. An intake team that fills such a blank from curiosity has performed unauthorized work.
@@ -1538,7 +1625,6 @@ A conversion is not finished when the fight ends; it has to be filed, quoted, se
 Neither tell is to be "corrected." Renumbering the serial breaks the never-renumber law (Section II); sourcing or replacing the quote falsifies the record. Both are carried as-found, exactly as redactions are carried above — the quote entered verbatim, its origin field left, permanently and correctly, **unknown**. *(Phase structure per the Daily Cycle record: lobotomycorp.fandom.com — Daily Cycle.)*
 
 ### XII. World Concepts Mapping
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -1557,7 +1643,6 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 | **Zones A–E** | **Departments / Floors** | The facility divisions |
 
 ### XIII. World Concepts Mapping
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
@@ -1574,7 +1659,6 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 | **Echoes** (crystallized memory) | **PE-Boxes (as currency)** | Trade/manufacture unit |
 
 ### XIX. Somnarak-Specific Systems (No Direct L Corp Equivalent)
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 | Somnarak System | Function | Closest L Corp Equivalent |
 |---|---|---|
@@ -1591,7 +1675,6 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 | **The Veil / The Raw** | Sorrow suppression system / unmanaged areas | Containment barriers / uncontained sectors |
 
 ### XX. Crossover Implications
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 When a Somnarak Sorrow Entity arrives in the L Corp universe through the Well of Cogito:
 
@@ -1612,7 +1695,6 @@ When a Somnarak Sorrow Entity arrives in the L Corp universe through the Well of
 8. **The Terminal (S.A.M.S.):** The Somnarak Abnormality Management System would serve as the bridge terminal between the two systems — containing the conversion tables, R.D. Attribute tracking, and real-time Threat Score calculation for any Somnarak entity the Well of Cogito pulls in. L Corp employees would access S.A.M.S. data through their standard terminal interface.
 
 ### VII. SOMNARAK-Specific Systems (No Direct L Corp Equivalent)
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 |SOMNARAK System|Function|L Corp Equivalent|
 |---|---|---|
@@ -1624,7 +1706,6 @@ When a Somnarak Sorrow Entity arrives in the L Corp universe through the Well of
 |**M.A.W. Corrosion**|Equipment turning on user|E.G.O Corrosion|
 
 ### VIII. Crossover Implications
-*Source tag: **[OCMP]** — owner's compact Complete System Comparison.*
 
 When a SOMNARAK Sorrow Entity arrives in the PM universe through the Well of Cogito:
 
@@ -1639,7 +1720,6 @@ When a SOMNARAK Sorrow Entity arrives in the PM universe through the Well of Cog
 5. **The Terminal (S.A.M.S.):** Would contain the conversion tables and serve as a bridge between the two systems.
 
 ### 13. Story Expansion: Outer World Governance & Subterranean Geopolitics
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 **Geopolitical & Faction Equivalence // Matrix**
 
@@ -1690,7 +1770,6 @@ In overarching campaign lore and narrative fiction, Project Somnarak adheres str
     - Continental reconstruction, external diplomatic expeditions, and global recovery. All operate in linear calendar years.
 
 ### 14. Story Expansion: Specialist Cadres & Contractor Bureaus
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 While Lobotomy Corporation hires independent Fixers and Associations (Hana, Zwei, Shi, Dieci, Liu, Seven) through the Charles Office and Hana Association, the Reverie Directorate contracts **The Ten Specialist Cadres (  십대 전문직 결사   / *Sipdae Jeonmunjik Gyeolsa*)**:
 
@@ -1708,7 +1787,6 @@ While Lobotomy Corporation hires independent Fixers and Associations (Hana, Zwei
 | **Cadre Gyeo-Tu** |   격투   (*Gyeotu*) | **Vanguard Duelists & Suppression Champions** — Master kinetic melee combat on the 10-node spatial grid. | Shi Association / Special strike Fixers |
 
 ### 16. Story Expansion: Departmental Awakenings & Realization Wars
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 **Realization Wars & Department Crisis // Phases**
 
@@ -1731,7 +1809,6 @@ In Project Somnarak, the Dekan must guide each Floor Secretary through **Echo-Co
 - **Permanent Facility Buff:** Surviving a Realization War grants permanent departmental passives, immunity to specific Atmospheric Watch penalties, and unlocks Grade 5 Workshop commissioning for that floor.
 
 ### 17. Comprehensive Narrative Lexicon (1-to-1 Story Dictionary)
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 This lexicon serves authors and creators adapting scenarios, dialogue, or lore between the two settings:
 
@@ -1766,7 +1843,6 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Seed of Light** | **The Great Pacification (  대안식   )** | The ultimate philosophical goal of resolving all accumulated human grief. |
 
 ### 18. Story Protocol & Dialogue Vignettes
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
 To illustrate the contrasting atmosphere, narrative tone, and operational jargon, the following parallel scenes depict a routine containment dispatch:
 
@@ -1779,9 +1855,8 @@ To illustrate the contrasting atmosphere, narrative tone, and operational jargon
 > *"Attention, Absolver Min-Seo. The Dekan has inscribed your ledger for Flerehan (  통곡한   ) with Entity C-IIIγ-019 (The Weeping Weaver). Fasten your Resonant Alloy mantle and burn three sticks of sandalwood incense at the air-dam sill. When you cross the acoustic threshold, open your heart to the entity's grief, but anchor your Composure to the Directorate hearth. Weep with the entity until the salt brine flows clear, but do not drink the tears. Bear the weight of our ancestors, and return unbroken."*
 
 ### 19. Verification & Canonical Compliance Seal
-*Source tag: **[CMP]** — Expanded System Comparison (Somnarak vs. Lobotomy Corporation).*
 
-Conversion-rule coverage for every system compared in this document is audited in **Appendix A of the Universal Conversion Table** (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 46 systems, each with its SE → Abnormality conversion law located for overhaul use — the facility-scale rows (34–37) resting on this comparison, rows 41–46 on the owner's original tables (source tags [TST]/[FCR]/[RRP]/[RDA]/[OCMP] in the chaptered edition). This seal stands under that matrix.
+The systems compared above are indexed for conversion use in Appendix A of the Universal Conversion Table (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`): 46 systems, each with the chapter that states its SE → Abnormality law. This seal stands under that index.
 
 ```text
 +========================================================================+
@@ -1797,14 +1872,27 @@ Conversion-rule coverage for every system compared in this document is audited i
 +========================================================================+
 ```
 
+### Observation Gates and Encyclopedia Build Order
+
+Build the Encyclopedia in the order a manager is allowed to learn. The dossier's Comprehension structure decides what each gate may contain; the LC frame decides only the packaging.
+
+| Gate | Record content | Intake rule |
+|---|---|---|
+| Gate 0 — Selection | Subject Number and quote only, as one candidate among three | The four-digit `0###` serial and the unattested quote are filed as found; neither is corrected, sourced, or explained |
+| Gate 1 — Basic Info | Name as housed, Risk Level, presented form, damage color, PE band | Presented form and true form are separate lines whenever housing separates them |
+| Gate 2 — Method | Work disciplines and favorability, counter channel, housing grade, tool use-shape | A prohibited work is written as prohibited at this gate, not discovered by accident later |
+| Gate 3 — Management | Breach triggers, reset and return, transformation states, meltdown response, gear bearer costs | Permanent tallies are labeled statistics, never dressed as counters |
+| Gate 4 — Story | Origin, Tale, alias history, redactions | Redacted or unresolved dossier matter travels as HOLD text; the encyclopedia does not research past the gate on the entity's behalf |
+
+Successful work may advance observation only along the track the story declares. If no track is declared, unlocks follow the dossier's own Comprehension order. Anything withheld at a gate is **unwritten**, not absent: the record shows the gate, and later writing may pass it only by the filed route.
+
 ---
 
 ## Chapter 10 — Procedure, Worked Practice & Final Checks
 
-Finally, the laws become an order of operations. Convert in the owner's SE → Abnormality sequence, prove the result against the worked SE → Abnormality conversions, and do not sign the record until the facility checklist has had its say. Owner-original worked examples are carried for their forward conversion content; known tensions in them are flagged in the report/changelog, never silently normalized here.
+Finally, the laws become an order of operations. Convert in the sequence below, prove the result against the worked conversions, and do not sign the record until the facility checklist has had its say. Where a dossier number and a filed result disagree, keep both and flag the tension; never silently normalize an intake figure.
 
 ### XIV. Conversion Order (Somnarak → L Corp)
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 When the Well of Cogito grabs a Somnarak Entity:
 
@@ -1827,7 +1915,6 @@ When the Well of Cogito grabs a Somnarak Entity:
 | 15 | Combat Actions | **Special abilities** |
 
 ### XXII. Important Rules
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 1. **Do not treat L Corp Risk Level and SECC as identical systems.** Use the Threat Score to bridge them.
 2. **M.A.W. is Somnarak. E.G.O is L Corp.** Never use one term for the other system's equipment.
@@ -1847,7 +1934,6 @@ When the Well of Cogito grabs a Somnarak Entity:
 *"Give this document and any Somnarak Entity file to an AI. Tell it: 'The Well of Cogito has grabbed this Somnarak Sorrow Entity and is transforming it into a Lobotomy Corporation Abnormality. Use the conversion reference to translate every field. L Corp employees exposed to this entity will develop R.D. Attributes per section IX.' The AI should output a full L Corp Abnormality wiki page."*
 
 ### Section VIII: Departmental Assignment Roster (Facility Case Studies)
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 Department is assigned by containment need as read in the conversion note: Place-bodies and site-housed entities to Architecture/Extraction adjacency, where the building itself is the instrument; Tool conversions to the department whose work loop consumes them; heavy Lament (WHITE) profiles away from clerk-dense floors. The roster below predates the designation overhaul and shows SECC codes; designations per Section II govern any new assignment.
 
@@ -1872,7 +1958,6 @@ Department is assigned by containment need as read in the conversion note: Place
 - **Containment Note:** Agents can interact with the black chalk once per day. Grants 45 seconds of complete PALE damage immunity, but reduces the agent's maximum HP by -20% for the remainder of the working day.
 
 ### Section X: Worked Conversions (Batch 207 intake series)
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 Each conversion below shows its three-field reads, so the letter and class can be audited rather than merely asserted. Each also declares its **housing grade and scale band** under Section I.4, read from the same dossiered body that set its class — the grade follows the body, never the convenience of the room.
 
@@ -1885,7 +1970,7 @@ Each conversion below shows its three-field reads, so the letter and class can b
 #### 2. The Maw — `C-IVω-001 [GP]` → **`T-07-0001`**, ALEPH
 - **Letter (T):** City Sorrow · Origin = the Cheongula, one thousand citizens consumed · Tale = atrocity and its denial → **T**.
 - **Class (07):** Entity Type *Place*; the body is the district itself — leaning buildings, unset ground, a 41-marker perimeter → **07** (PS extension). Serial `001 → 0001`.
-- **Risk:** Threat Score IV (4) + ω (5) = **9 → ALEPH**, matching the Section VIII roster and the owner's canon examples ([RRP] §I). The Walking District (`-B [GS]`) is a containment **state** of this same code under Section VI, not a second designation. Attachment/Repression prohibited (Place) until that state.
+- **Risk:** Threat Score IV (4) + ω (5) = **9 → ALEPH**, matching the Section VIII roster and the canon examples in Chapter 4. The Walking District (`-B [GS]`) is a containment **state** of this same code under Section VI, not a second designation. Attachment/Repression prohibited (Place) until that state.
 - **Housing (Whole, Place-as-room):** the unit does not contain the Maw — under Sections I.4 and VI the room *is* its Containment Form, the standing precedent for Scale-Incompatible, Extraction-Compatible. Breach Form = the dossiered Walking District (`-B [GS]`) state; band declared **Well-attenuated, 25–50% of district scale**, with escalation to full district scale reserved as an in-story crisis — the Well losing its grip.
 
 #### 3. Conservatory — `N-IVδ-852 [N]` → **`F-07-0852`**, WAW
@@ -1907,7 +1992,6 @@ Each conversion below shows its three-field reads, so the letter and class can b
 - **Housing (Whole):** the 18.4 kg wedge *is* the whole body; there is no remainder and no completion clause — the master smith of the Origin is its maker, not a presence housed inside it. A Tool has no roaming Breach Form: its only event is the single discharge above, after which the housed form and the spent form are the same inert piece. Scale band: not applicable.
 
 ### XIII. Quick Conversion Example
-*Source tag: **[FCR]** — owner's Full Conversion Reference (field-by-field table).*
 
 **Somnarak Entity:** The Torn Whisper — `C-IIβ-716 [GS]`
 - Coherence: II (Echo), Potency: β (Moderate)
@@ -1933,7 +2017,6 @@ Flerehan→Attachment (Decrease = High), Pugnahan→Repression (Increase = Low),
 **Result:** A TETH-class Abnormality dealing 12–46 RED damage with 623 HP, best worked via Attachment, worst via Repression.
 
 ### XVI. Worked Example
-*Source tag: **[RRP]** — owner's Risk Parallel (creator-reference parallel and conversion orders).*
 
 #### Somnarak → L Corp
 
@@ -1948,7 +2031,6 @@ Flerehan→Attachment (Decrease = High), Pugnahan→Repression (Increase = Low),
 **Result:** A TETH-class Abnormality, 166 HP, dealing 12–33 RED damage, best worked via Attachment, worst via Repression, yielding 12–18 PE-Boxes.
 
 ### Section XI: Facility Verification Checklist
-*Source tag: **[UT]** — Universal Conversion Table spine (SE → Abnormality overhaul law).*
 
 ```text
 +========================================================================+
@@ -1976,78 +2058,161 @@ Flerehan→Attachment (Decrease = High), Pugnahan→Repression (Increase = Low),
 +========================================================================+
 ```
 
+### Field-Source Check for a Finished Record
+
+Before sign-off, walk the finished Abnormality record field by field. Every output must name the dossier field that generated it; an output with no named source is either frame law from this manual or a HOLD pretending to be a fact.
+
+| Output field | Required dossier source | Reject or flag when |
+|---|---|---|
+| Subject Number | Category/Origin/Tale read + form read + SECC number | The code was transliterated from a quick map or copied from an analogue |
+| Risk Level | Coherence + Potency | Tier was chosen from HP, story menace, or a similar native Abnormality |
+| HP | Sorrow Gauge + tier multiplier | Arithmetic cannot be recomputed forward from the filed base and multiplier |
+| Work damage | Han Pressure + Element + filed ATK multiplier | Multiplier was never filed, or work and breach damage were averaged |
+| PE-Boxes | Tier band + Han Yield worksheet line | A 1:1 exchange rate was invented |
+| Qliphoth Counter | Filed Gauge channel, Threshold channel, both, or neither | A channel was invented, merged, or reset without a filed reset |
+| Work table | Behavior record by discipline | Favorability was assigned from temperament prose with no Behavior line |
+| E.G.O | Filed M.A.W. pieces + bearer costs | Gear was completed to a triad the dossier never filed |
+| Breach behavior | Breach Form, movement, range, skills, state lines | Presented size was allowed to shrink filed stats or reach |
+| Encyclopedia | Comprehension gates, Tale, quote | The quote was sourced, the serial “fixed”, or a HOLD written as fact |
+| Department | Risk, work needs, breach class | Assignment was made before counters and staffing were settled |
+
+Native LC analogues have exactly one lawful use in this check: calibrating whether a finished record *reads* sane for its tier. An analogue never supplies a code, a stat, a work value, or a story fact.
+
+### Protocol Case Patterns
+
+The worked conversions above are the filed examples. These four patterns state how their intake logic generalizes; numbers always come from the entity's own dossier.
+
+- **Pattern A — low-Score housed subject or echo** (the Broken Well shape): settle Whole/fragment housing first, derive TETH-class numbers without drama, and let the Behavior record — not the gentle presented form — decide favorability. The common failure is inventing a counter for an entity whose danger is entirely in its work outcomes.
+- **Pattern B — combatant with range or pattern skills** (the Conservatory / Learned Your Face shape): file movement and range before damage riders, because suppression staffing depends on reach. Skills keep their dossier triggers verbatim; an HP-percentage trigger reads against the converted bar. The common failure is filing a spectacular breach pattern and a work-damage number that quietly contradicts it.
+- **Pattern C — Place or sovereign body** (the Maw shape): housing is the conversion. Place-as-room or extraction housing, two-work law while housed, state lines for any walking form, and a departmental suppression plan. The common failure is shrinking the body until an ordinary work loop looks possible.
+- **Pattern D — relic or Tool output** (the Wedge shape): house by use-shape, put every limit in the Threshold channel, and write the warning flags before the benefit text. The common failure is describing what the tool does for the facility before filing what it does to the employee.
+
+### Institutional Sign-Off
+
+| Office | Signs that | Signature condition |
+|---|---|---|
+| Intake officer | Code, Score, arithmetic, worksheet complete | Every output field names its dossier source or HOLD |
+| Containment architect | Housing grade, presented form, breach scale | Room-held body and hallway body are both written |
+| Work supervisor | Disciplines, favorability, staffing, attribute plan | First-three-days exposure budget is explicit |
+| Suppression lead | Breach class, movement profile, return condition | Suppression objective matches the taxonomy in Chapter 6 |
+| Extraction officer | E.G.O pieces, bearer costs, production limits | No unfiled triad completion; Composure Load applied |
+| Archivist | Encyclopedia gates, aliases, quote, redactions | Gates shown; unknowns filed as unknown |
+
 ---
 
-## Appendix A: Conversion Integrity Matrix — Complete System Coverage
+## Appendix A — Coverage Index
 
-*Audit completed 2026-10-30 under the owner's directive: 100% SE → Abnormality conversion across the board, nothing missed; direction-locked the same day under standing rule A6.* Every system needed to convert a Sorrow Entity into an Abnormality appears exactly once below, with its forward conversion law located by chapter source. **UT** = Universal Conversion Table · **CMP** = Expanded System Comparison · **TST/FCR/RRP/RDA/OCMP** = the owner's five original tables. Citations keep the source tag plus each source's own section numbering; Appendix B maps every tag to its standalone original and chapter home. Discipline going forward: a system added to either archive is **entered in this matrix before it may be used in an SE → Abnormality conversion**; a conversion note relying on an unlisted system is incomplete on its face (checklist item 10).
+Use this index to locate the forward law for any system named in a conversion note. If a system is not listed, file it as a HOLD and add the row before the conversion is used.
 
-One crosswalk belongs here because it belongs to no single section alone: energy converts **tier-band to tier-band** into [UT §III] Max PE-Boxes. Han Yield remains the PS-side input ledger — what the Sorrow Entity was recorded as yielding at home — not a second output currency, and there is no 1:1 numeric exchange. A PE-Box is not a unit of Han.
+Energy note: Han Yield is an input ledger. PE-Boxes are assigned by tier band in Chapter 4; there is no 1:1 exchange rate.
 
 | # | System / mechanic | SE → Abnormality law | Status |
 |---|---|---|---|
-| 1 | Designation & serial law | §II | Covered |
-| 2 | Risk tier & **Threat Score** (owner's Transformation Table) | §III · [TST] · [FCR] §II–IV · [RRP] §I–III | Covered |
-| 3 | HP / Sorrow Gauge bands | §III | Covered |
-| 4 | Attack values | §III | Covered |
-| 5 | Damage types ↔ Han elements | §V | Covered |
-| 6 | Element status riders | §V | Covered |
-| 7 | Entity suppression resistances | §V | Covered |
-| 8 | Work types & `-han` pairing | §IV | Covered |
-| 9 | Two-Work-Type Law | §IV.2 | Covered |
-| 10 | Favorability ↔ Behavior outcomes | §III | Covered |
-| 11 | Operative attributes & levels | §IV.3 | Covered |
-| 12 | SP ↔ Composure · panic | §IV–V · §VII.2 | Covered |
-| 13 | PE-Boxes ↔ Han Yield | §III | Covered (band crosswalk, above) |
-| 14 | Heavy Han Density & brine | §I.3 | Covered |
-| 15 | Daily Cycle · quota · Selection | §IX · §III | Covered |
-| 16 | **Qliphoth Counter: value & derivation** | **§III Counters** | **Covered** |
-| 17 | Counter triggers (±, named) | §III Counters | Covered |
-| 18 | Counter reset & return | §III Counters | Covered |
-| 19 | Qliphoth Meltdown event | §III Counters · §I.3 | Covered |
-| 20 | Tool use counters & single-use | §III Counters · §X.5 | Covered |
-| 21 | Breach & suppression doctrine | §VI | Covered |
-| 22 | Transformation & state lines | §II.4 · §VI | Covered |
-| 23 | Skills · Dawn riders · Ultimates | §VI | Covered |
-| 24 | Size · scale · housing grades | §I.4 | Covered |
-| 25 | E.G.O Weapon | §VII.3 | Covered |
-| 26 | E.G.O Suit (worn resistances) | §VII.3 | Covered |
-| 27 | Gift ↔ Stigma | §VII.3 | Covered |
-| 28 | Gear requirements & Composure Load | §VII.1 | Covered |
-| 29 | Bearer corrosion / meltdown | §VII.2 | Covered |
-| 30 | Gear production (count & cost) | §VII.3 | Covered |
-| 31 | Observation ↔ Comprehension · Encyclopedia | §IX | Covered |
-| 32 | Redaction & HOLD transport | Preface · §IX | Covered |
-| 33 | Extraction-phase tells | §IX | Covered |
-| 34 | Department assignment & staff classes | §VIII | Covered by reference |
-| 35 | Ordeals ↔ Four Watches | §III (meltdown law) | Covered by reference |
-| 36 | Core Suppression ↔ Realization | CMP §16 | Covered by reference |
-| 37 | LOB · Research · Re-Extraction | §IX (behavior) | Covered by reference |
-| 38 | Spatial combat engine (nodes · bands · AP) | Degree III retained traits (Preface) | Covered |
-| 39 | Ingress · Degrees · contact geometries | Preface · §I | Covered |
-| 40 | Worked SE → Abnormality examples | §VIII · §X | Covered |
+| 1 | Designation & serial law | Chapter 3 — Designation Assignment | Covered |
+| 2 | Risk tier & **Threat Score** (owner's Transformation Table) | Chapter 4 — Threat Score & Risk Classification | Covered |
+| 3 | HP / Sorrow Gauge bands | Chapter 4 — HP derivation & tier bands | Covered |
+| 4 | Attack values | Chapter 4 — pressure / attack derivation | Covered |
+| 5 | Han elements → damage types | Chapter 7 — Damage Type & Elemental Inter-Translation | Covered |
+| 6 | Element status riders | Chapter 7 — element riders & pressure effects | Covered |
+| 7 | Entity suppression resistances | Chapter 7 — resistance transcription | Covered |
+| 8 | Work types & `-han` pairing | Chapter 5 — work pairing & outcome translation | Covered |
+| 9 | Two-Work-Type Law | Chapter 5 — Two-Work-Type Law | Covered |
+| 10 | Behavior outcomes → work favorability | Chapter 5 — Behavior outcomes → favorability | Covered |
+| 11 | Operative attributes & levels | Chapter 5 — R.D. Attributes & staffing | Covered |
+| 12 | Composure, SP & panic | Chapters 5 and 7 — Composure, SP & panic reads | Covered |
+| 13 | Han Yield → PE-Box band | Chapter 4 — energy bands & PE assignment | Covered (band crosswalk, above) |
+| 14 | Heavy Han Density & brine | Chapter 1 — Han density in containment | Covered |
+| 15 | Daily Cycle · quota · Selection | Chapters 4 and 9 — PE quota, Daily Cycle & Selection record | Covered |
+| 16 | **Qliphoth Counter: value & derivation** | Chapters 4 and 6 — counter value & channel derivation | **Covered** |
+| 17 | Counter triggers (±, named) | Chapters 4 and 6 — counter triggers | Covered |
+| 18 | Counter reset & return | Chapter 6 — reset, return & permanent tallies | Covered |
+| 19 | Qliphoth Meltdown event | Chapter 6 — meltdown marking & crisis response | Covered |
+| 20 | Tool use counters & single-use | Chapters 6 and 8 — tool use-counters & consumption | Covered |
+| 21 | Breach & suppression doctrine | Chapters 6 and 7 — breach & suppression | Covered |
+| 22 | Transformation & state lines | Chapters 3 and 6 — state lines & transformations | Covered |
+| 23 | Skills · Dawn riders · Ultimates | Chapters 6 and 7 — skills, riders & Ultimates | Covered |
+| 24 | Size · scale · housing grades | Chapter 1 — Size, Scale & Form Law | Covered |
+| 25 | E.G.O Weapon | Chapter 8 — E.G.O Weapon extraction | Covered |
+| 26 | E.G.O Suit (worn resistances) | Chapter 8 — E.G.O Suit resistances | Covered |
+| 27 | Stigma → E.G.O Gift | Chapter 8 — Gift conversion | Covered |
+| 28 | Gear requirements & Composure Load | Chapter 8 — requirements & Composure Load | Covered |
+| 29 | Bearer corrosion / meltdown | Chapter 8 — bearer corrosion / meltdown | Covered |
+| 30 | Gear production (count & cost) | Chapter 8 — gear count & production cost | Covered |
+| 31 | Comprehension gates → Encyclopedia unlocks | Chapter 9 — observation gates & Encyclopedia | Covered |
+| 32 | Redaction & HOLD transport | Chapters 1 and 9 — redactions & HOLD transport | Covered |
+| 33 | Extraction-phase tells | Chapter 9 — Selection tells | Covered |
+| 34 | Department assignment & staff classes | Chapters 2 and 10 — department assignment & roster | Covered by reference |
+| 35 | Facility crisis weather (Watches / Ordeals) | Chapters 6 and 9 — facility crisis frameworks | Covered by reference |
+| 36 | Departmental crisis frameworks | Chapter 9 — departmental crisis frameworks | Covered by reference |
+| 37 | LOB · Research · Re-Extraction | Chapters 2 and 9 — facility economy & research frameworks | Covered by reference |
+| 38 | Spatial combat engine (nodes · bands · AP) | Chapter 7 — movement, range & retained spatial mechanics | Covered |
+| 39 | Ingress · Degrees · contact geometries | Chapter 1 — ingress, degrees & contact geometry | Covered |
+| 40 | Worked SE → Abnormality examples | Chapter 10 — worked conversions & case patterns | Covered |
+| 41 | Threat multipliers & round-UP arithmetic (HP/ATK) | Chapter 4 — threat multipliers & round-up filing | Covered |
+| 42 | R.D. Attribute levels (0/I–V, 1–100) & Nugget acquisition | Chapter 5 — attribute levels & Nugget acquisition | Covered |
+| 43 | Breach taxonomy — Escape / Corrupt / Transform / Cascade | Chapter 6 — breach taxonomy | Covered |
+| 44 | Fracture stages · Efflorescence · Architect's Mark | Chapter 9 — Somnarak-specific fracture systems | Covered by reference |
+| 45 | Organization & S.A.M.S. Terminal (CCA / Wing correspondence) | Chapters 2 and 9 — organization & terminal frameworks | Covered by reference |
+| 46 | Document-structure mapping & SE → Abnormality conversion order | Chapters 2 and 10 — document mapping & conversion order | Covered |
 
-| 41 | Threat multipliers & round-UP arithmetic (HP/ATK) | §III derivation · [TST] · [FCR] §III–IV · [RRP] §II–III | Covered |
-| 42 | R.D. Attribute levels (0/I–V, 1–100) & Nugget acquisition | §IV.3 · [RDA] · [FCR] §XIV · [RRP] §IX | Covered |
-| 43 | Breach taxonomy — Escape / Corrupt / Transform / Cascade | §VI reads via [RRP] §VII · [FCR] §VII | Covered |
-| 44 | Fracture stages · Efflorescence · Architect's Mark | [RRP] §X (referenced law) | Covered by reference |
-| 45 | Organization & S.A.M.S. Terminal (CCA ↔ Wing) | §VIII staffing · [RRP] §XIII · [FCR] §X-XI | Covered by reference |
-| 46 | Document-structure mapping & SE → Abnormality conversion order | [FCR] document map · [RRP] §XIV · §XI checklist | Covered |
-
-**Audit verdict: 46 of 46 systems covered for SE → Abnormality conversion** — 40 by direct forward law in the chapters above, 6 by correctly located referenced law at facility or story scale. No system needed to convert a Sorrow Entity into an Abnormality lacks a forward conversion row. Defects found and repaired during this audit are logged in the repository CHANGELOG (Conversion-integrity completion, passes 1–3; chapter rearrangement; direction-lock scope correction, 2026-10-30).
+**Coverage: 46 of 46 systems indexed** — 40 by direct law in the chapters, 6 by referenced facility or story frameworks.
 
 ---
 
-## Appendix B — Source Map for This SE → Abnormality Chapter
+## Appendix B — SE → Abnormality Intake Worksheet
 
-| Source tag | Standalone original kept in this folder | Chapter home(s) in this overhaul |
+Copy this worksheet into the conversion note. Leave a cell as HOLD rather than borrowing a value.
+
+### 1. Identity and Housing
+
+| Field | Filed value | Dossier source |
 |---|---|---|
-| [UT] | This guide's Universal Table spine | Chapters 1, 3–10 (Preface and §§I–XI placed by job) |
-| [CMP] | `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` | Chapters 1–9 |
-| [TST] | "L Corp & R.D Conversion Table" (markdown file) | Chapter 4, with the danger read it creates |
-| [FCR] | `SOMNARAK_TO_LCORP_CONVERSION_TABLE.md` | Chapters 2–6, 8–10, field by field |
-| [RRP] | `SOMNARAK_LCORP_RD_RISK_PARALLEL.md` | Chapters 2–10, including the SE → Abnormality conversion order |
-| [RDA] | `SOMNARAK_RD_ATTRIBUTE_LEVELS.md` | Chapter 5, directly under the work law it governs |
-| [OCMP] | "COMPLETE SYSTEM COMPARISON-SOMNARAK vs. Lobotomy Corporation" (markdown file) | Chapters 2–5 and 7–9, as the compact summary at each joint |
+| SECC designation / Korean name / aliases |  |  |
+| Ingress route and Degree (I / II / III) |  |  |
+| Retained traits at Degree II–III |  |  |
+| Subject Number `X-YY-0###` — letter read |  |  |
+| Subject Number — class read and body read |  |  |
+| Housing grade: Whole / Aspect-shifted / Fragment |  |  |
+| Containment Form as presented |  |  |
+| Breach Form and scale band (full / Well-attenuated %) |  |  |
 
-Only **Sorrow Entity → Abnormality** material is carried above. The standalone files remain in this folder as archival originals; standalone material outside this direction is not a source for the chapters and is not deleted or rewritten by this overhaul. Cite a carried passage by chapter plus source tag and its own section number — for example, Chapter 4, [RRP §I] for the Threat Score formula, or Chapter 5, [RDA] for Nugget acquisition.
+### 2. Danger Read
+
+| Field | Filed value | Dossier source |
+|---|---|---|
+| Coherence rank / Potency grade / Threat Score |  |  |
+| Risk Level |  |  |
+| Sorrow Gauge base / HP multiplier / LC HP `ceil` |  |  |
+| Han Pressure base / filed ATK multiplier / work damage |  |  |
+| Separate breach damage, where filed |  |  |
+| Element → damage color / riders |  |  |
+| Resistances in RED / WHITE / BLACK / PALE order |  |  |
+| Han Yield / assigned PE band |  |  |
+
+### 3. Counters, Work, and People
+
+| Field | Filed value | Dossier source |
+|---|---|---|
+| Channels filed: Gauge / Threshold / both / neither |  |  |
+| Qliphoth Counter value and derivation |  |  |
+| Increase / decrease triggers, verbatim |  |  |
+| Reset, return, and permanent tallies |  |  |
+| Work disciplines and favorability by Behavior line |  |  |
+| Prohibited works and backfire |  |  |
+| Primary / secondary attribute per work; failure effects |  |  |
+| First-three-days staffing and attribute-gain Element |  |  |
+
+### 4. Breach, Equipment, and Record
+
+| Field | Filed value | Dossier source |
+|---|---|---|
+| Breach class: Escape / Corrupt / Transform / Cascade |  |  |
+| Movement profile / range / pattern skills and triggers |  |  |
+| Transformation state lines under the same code |  |  |
+| Suppression objective and return condition |  |  |
+| E.G.O Weapon / Suit / Gift or HOLD per piece |  |  |
+| Requirements, Composure Load, bearer costs |  |  |
+| Tool use-shape, limits, and warning flags |  |  |
+| Encyclopedia gates, quote verbatim, redactions |  |  |
+| Department assignment and sign-off offices |  |  |
+| Appendix A rows relied on |  |  |

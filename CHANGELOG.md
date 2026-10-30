@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Overhaul cleaned and expanded: forward rewrites, no erasure (2026-10-30)
+
+- **Standing rule A6 clarified:** opposite-framed conversion material is **rewritten into SE → Abnormality form; its substantive mechanics are not erased** for having been framed the other way first.
+- **The conversion manual was cleaned of editorial scaffolding:** per-section source-tag lines, combined-edition notes, direction-lock/apparatus prose, and the rearrangement source-map appendix are gone. The front matter is now a short *How to Use This Manual*; Appendix A is a plain **Coverage Index** cited by chapter; Appendix B is a fill-in **SE → Abnormality Intake Worksheet**.
+- **The mechanics previously dropped from the overhaul return as forward rewrites, with added operating detail:** ontological intake (Chapter 1); field-correspondence discipline (Chapter 2); body/code reading for fragment and state lines (Chapter 3); a master statistical intake matrix, durability calibration, and arithmetic-filing law (Chapter 4); work-outcome translation and first-days staffing (Chapter 5); counter operations, meltdown marking, breach taxonomy (Escape/Corrupt/Transform/Cascade), and transformation-state law (Chapter 6); movement/range/action-economy translation plus rider and resistance filing (Chapter 7, retitled to include Movement); material weight classes as E.G.O handling reads and a converted-tool/relic intake standard with warning flags (Chapter 8); observation gates and Encyclopedia build order (Chapter 9); and a field-source check, four protocol case patterns, and institutional sign-off (Chapter 10). Standalone notes were repointed to this rewrite-carriage; no standalone body was deleted or retired.
+
+
 ## Direction lock enforced: overhaul is SE → Abnormality only (standing rule A6, 2026-10-30)
 
 - **Owner standing rule recorded as `RULE-TO-FOLLOW.md` A6:** all conversion-overhaul writing is one-way only — **Project Somnarak Sorrow Entity → Lobotomy Corporation Abnormality**. Opposite-direction material found in overhaul writing is to be removed from the overhaul or rewritten as forward law/checks/practice; A5 still bars deleting or wholesale-rewriting standalone files without a file-named instruction.

@@ -2,7 +2,7 @@
 ## Project Moon to Project Somnarak Architectural, Phenomenological & Mechanical Adaptation Codex
 ### Master Systems Codex — 10,000 HP Calibration & Tactical Alignment
 
-> **Combined-edition note (2026-10-30):** this standalone file is outside the SE → Abnormality overhaul's scope under the owner's direction lock (RULE-TO-FOLLOW A6) and is not carried into that overhaul. This standalone file remains the archival original.
+> **Combined-edition note (2026-10-30):** this standalone file remains the archival original; the SE → Abnormality overhaul does not carry it verbatim, but carries forward rewrites of its mechanics under the owner's direction lock (RULE-TO-FOLLOW A6). This standalone file remains the archival original.
 
 ```text
 +========================================================================+
