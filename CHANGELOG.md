@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Comparison-plane recheck: governance, geography, and economy (2026-10-31)
+
+- **Facility table boundary corrected (Guide/CMP §3):** the Rabbit Team and Specialist Cadres no longer file as either facility's internal “Tactical Rapid Response.” R Corp's 4th Pack is an external force under standing contract, and the Cadres are autonomous Council-chartered contractor bureaus; both are now **external emergency support**, never departments or ordinary facility rosters. The old synthesis calling the Cadres dedicated Directorate inquisitors is retired.
+- **World governance and geography split to the same scale (Guide/CMP §2, §13, lexicons):** the Head now answers only to Somnarak City's Council-sovereign slot, while Wing/District authority answers to Zone Sector Heads and the five chartered corporations licensed per Zone; the Four Corners are separate planetary polities, not districts. Backstreets/Raw are separated as internal city geography from Outskirts/Desolate as external geography, and the Inhabited World row no longer places Backstreets at the City's edge.
+- **City economy removed from the facility output ledger:** Echoes now compare with **Ahn** at the city-currency slot only—Head-minted general currency against Somnarak's Collector-backed crystallized memory/emotion fragments—with no exchange rate filed. PE-Boxes remain facility work output. Guide Chapter 9 also files the Alpha Tree, civic Veil, and Sorrow Tide as no-counterpart rows at the correct plane, labels Fracture/Efflorescence person-scale, and splits the combined Veil/Raw system row.
+- **Scope boundary:** this recheck does not rewrite §13.2's Raw-syndicate descriptions, consolidate the duplicated carried tables, or take the pending checklist/appendix and Master Codices 02/03/05 layers.
+
 ## Depth audit resumed: Chapter 5 prompt retirement (2026-10-31)
 
 - **Meta prompt replaced with personnel law (manual Ch. 5, carried §XIV close):** the remaining “give this document to an AI” block presupposed one Well-grab ingress, ordered every dossier field translated, promised that exposed employees “will develop” R.D. Attributes, and treated a full wiki page as the immediate output. It now files an **exposure ledger**: LC governing-stat aptitude remains separate from the employee's Level 0 R.D. Attributes; points begin only after 3+ survived consecutive days sustaining the filed Han Effect; the sustained Element, paid primary/secondary attributes, approximate 1–3 points per day, live Failure Effect, Days 1–3 rotation, and Level III roster transition must be named.

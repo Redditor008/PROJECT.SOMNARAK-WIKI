@@ -92,7 +92,7 @@ The tones follow from the cosmologies. On the PM side, horror arises from the co
 | **City-Scale Founding Wound — War vs Catastrophe** | **The Smoke War** — the prospective Lobotomy Corporation and its allies wage a Wing war to topple the previous L Corp, whose costly smoke-producing energy order had become intolerable; the victors take the Wing and refound the energy order | **The Cheongula (Year 202)** — after filed warnings, Han consumes 1,000 Zone B citizens while the Wardens hold a no-rescue order; the public receives an unforeseeable-overflow story. The thousand persist conscious in the Maw and the river, and the wound is institutionalized through annual Consolihan mourning, the debt system, and the Veil | Same city-plane slot, opposite civic grammar: **War** there — a calculated corporate overthrow fought to replace an energy regime; **Catastrophe** here — a preventable mass consumption enabled by neglect and then mourned without confession. The pair is historical and thematic, not an identity of event type |
 | **Death & Return of Entities** | Suppression returns a breaching Abnormality to its containment unit; permanent killing is not a filed facility outcome | A destroyed Sorrow Entity's sorrow **returns to the Weeping and re-crystallizes** — days for minor entities, decades for critical ones — with memories and personality intact. The only permanent end is **absorption**: a person takes the sorrow into themselves and carries it, at risk of Fracture. ω-grade and Place-manifestation entities cannot even be vessel-destroyed | Both worlds refuse their monsters a final death — there by re-housing, here by the river's memory. Containment is eternal in both; only PS prices an exception, in persons |
 | **True Names of the Ten** | Department names follow the Sephiroth schema (Malkuth to Keter) — an order assigned inside the company's own design, worn openly as titles | The **Doorspeech**: ten Before-Time fragments recited invariantly by the sealed Final Door on Floor 6, naming the Nine Echo-Cores **before the bearers were born**, grouped by the Three Sorrows — one position silent, one a full sentence ("Don't let the sorrow win"), the Director changing every iteration, and the First claimed by no one. The phonemes are performatively ontological: spoken, they reorganize the room. The names are withheld from their bearers | Assigned schema vs received ruin. There, names describe the org chart; here the org chart grew into names older than the city — and one chair is still empty |
-| **The Inhabited World** | **The City** — 26 districts under the Wings, effectively the whole known human world, edged by Backstreets, Outskirts, and Ruins | **Planet Mugenhan** — a Han-interwoven world (Han circulates through its mantle; its strata include the Cheongula Faults and the Alpha Tree's Deep Mantle Roots) in **Four Corners**, each a different answer to living with Han: Somnarak structures sorrow, Cheonbulok burns it as rage, Mugeukji suppresses it into silence, UnWiHan leaves it wild. Somnarak City is a late refugee settlement at the Weeping's surfacing point — one voice in a choir of four | A one-city world vs one city on a sorrow planet. City-to-city holds on the world plane; cosmologically the PS frame is the planet, and Outside Sorrow is the other corners leaking in |
+| **The Inhabited World** | **The City** — 26 Districts under the Wings, effectively the whole known human world; Backstreets lie inside Districts outside their Nests, while the Outskirts and Ruins lie beyond the City | **Planet Mugenhan** — a Han-interwoven world (Han circulates through its mantle; its strata include the Cheongula Faults and the Alpha Tree's Deep Mantle Roots) in **Four Corners**, each a different answer to living with Han: Somnarak structures sorrow, Cheonbulok burns it as rage, Mugeukji suppresses it into silence, UnWiHan leaves it wild. Somnarak City is a late refugee settlement at the Weeping's surfacing point — one voice in a choir of four | A one-city world vs one city on a sorrow planet. City-to-city holds on the world plane; cosmologically the PS frame is the planet, and Outside Sorrow is the other corners leaking in |
 | **Time, Ages & Cycles** | **The 50-Day Loop / The Script** — a facility-internal temporal protocol run by Angela and Ayin; the City outside never reckoned time by it | Planetary time runs in **MMSS calendar years** across Three Ages (Before-Time, Becoming, Structuring) and the epoch partition SED → UCD → R.D. → Dawn of Hope → post-Dawn (§13.3). The **1,778 Cycles are Facility 01-internal only** — a loop the Director built around a dying vow, inside which the Doorspeech alone repeats perfectly | Both loops are facility machinery; neither is world-time. There the loop refines a cure; here it postpones a confession |
 | **The Engineered End of the Age** | **The Seed of Light** — a cure payload for the disease of the mind, refined under management and released for **three of its intended seven days** | Two layers must not be merged: **The Absolvohan**, the Director's hidden plan to open the Weeping, free the thousand, and end the debt/Veil order — a confession as much as a release, risking rupture of the Dream–Abyss boundary itself; and **The Dawn of Hope (Year 4,238)**, the actual watershed, when the Hand of Hope opened and **15%** of sorrow transmuted, the Dawn Initiative then working outward toward 45% | Both eschatons fire partially: three days of seven; fifteen percent of a planet. Cure vs confession — and in both worlds the morning after still has to be lived in |
 
@@ -340,7 +340,7 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 | **Primary Executive** | **The Manager (X)** advised by AI Coordinator **Angela**. | No single Manager chair: **Director Majin** holds supreme authority on Floor 1; **Secretary Seiyon** manages administration, schedules, and communications; Echo-Core leads and Field Commanders run floor assignment and response. **Dekan** commands Floor 2 / Zone B containment. | One Manager advised by one AI vs a supreme Director, one AI Secretary, and a distributed floor-command chain. |
 | **Department Structure** | Control, Information, Training, Safety, Central Command, Disciplinary, Welfare, Extraction, Record, Architecture. | Eight Hand floors—Neutral, Maw's Keep, Extraction Hall, Insight Forge, Border Watch, Deep Vault, Shadow Corps, and Gate Watch—under the Nine Echo-Cores, plus R.D. sector stations in the city zones. | Ten schema Departments vs eight function floors and a sector network; no name-for-name department conversion. |
 | **Operative Personnel** | **Agents** (armed containment workers) and **Clerks** (office staff providing morale). | **Absolvers (  해원사   )** (containment operatives) and **Salt-Scrubbers (  염초공   )** (sanitation personnel). | Sacrificial corporate employees vs solemn sworn liturgical containment wardens. |
-| **Tactical Rapid Response** | **Rabbit Team** (R Corp 4th Pack mercenaries) summoned for total sector cleansing. | **Cadre Sim-Pan (  심판   / Arbiters)** and **Cadre Gyeo-Tu (  격투   / Duelists)** mobilized for kinetic execution. | Hired private military shock troopers vs dedicated Directorate inquisitors and frontline champions. |
+| **External Emergency Support (not facility staff)** | **Rabbit Team** — R Corp's 4th Pack, an external mercenary force under standing contract, summoned into selected departments to exterminate breaching entities. | **Contracted Specialist Cadres** — autonomous Council-chartered bureaus the R.D. may contract for a filed emergency (for example, Gyeo-Tu close-quarters support, or Sim-Pan where inquest/authorized execution is the service). | Cross-seam support only: both forces can be admitted to a facility emergency, but neither is a department, an ordinary roster, or the other facility's internal rapid-response counterpart. |
 
 ### 4. Energy Extraction & Production Systems
 
@@ -1616,41 +1616,41 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 
 ### XII. World Concepts Mapping
 
-| Somnarak | L Corp | Notes |
+| Somnarak | Project Moon (plane follows the row) | Notes |
 |---|---|---|
 | **Han** (collective structural grief) | **Cogito (source) / Enkephalin (output)** | System-position analogue only: structural sorrow-material vs drawn unconscious fluid and its refined output |
 | **The Weeping** (planetary river) | **The River · Bucket · Well system** | Reservoir analogue only: boundary-layer river crystallizing on its own vs an extraction system drawing from people (Ch. 1 §2A) |
-| **The Alpha Tree** | *(Sephiroth schema — tree-name resemblance only)* | Living nexus: roots in the Weeping, branches toward the Dream, foundations in the Abyss; not a department tree |
-| **The Veil** (civic) | *(no facility counterpart)* | Municipal sorrow-suppression/power order after the Cheongula; not the Dream Veil and not a containment-unit barrier |
-| **The Raw** (undercity) | **Backstreets (world plane)** | Lawless undercity beyond ordinary municipal reach; not an uncontained facility sector |
-| **Sorrow Tide** (nightly surge) | *(crisis-escalation analogue only)* | Nightly Dream-Bleed/Weeping surge; facility-facing pressure reads through the Han-Density Gauge and Ordeal Times (Tide Watch at surge peak), not a countdown meltdown |
+| **The Alpha Tree** | *(no world-plane counterpart filed)* | Living nexus: roots in the Weeping, branches toward the Dream, foundations in the Abyss; Sephiroth supplies a tree-name resemblance only, not a department counterpart |
+| **The Veil** (civic) | *(no City-wide counterpart filed)* | Municipal sorrow-suppression/power order after the Cheongula; not a Head taboo, the Dream Veil, or a containment-unit barrier |
+| **The Raw** (undercity) | **Backstreets (world plane)** | Internal underworld geography: Somnarak's Zone B / under-Veil Raw against District Backstreets outside their Nests; neither is an uncontained facility sector or the land beyond the walls |
+| **Sorrow Tide** (nightly surge) | *(no City-wide counterpart filed)* | Nightly Dream-Bleed/Weeping surge; its separate facility-facing pressure reads through the Han-Density Gauge and Ordeal Times (Tide Watch at surge peak), not a countdown meltdown |
 | **Consolihan** (annual mourning) | *(no equivalent)* | Annual civic mourning/release and crystallization-moment amplifier; not an Ordeal attack wave |
-| **Fracture** (4 stages) | **Panic (acute analogue only)** | Staged Han-overload transformation of a person; panic is acute behaviour, Fracture is the breaking itself |
-| **Efflorescence** | **E.G.O manifestation (positive-outcome analogue only)** | Person-controlled bond/merger at the Fracture edge; the person remains human and in control — not a gear synchronization rate |
+| **Fracture** (4 stages) | **Panic (person-scale, acute analogue only)** | Staged Han-overload transformation of a person; panic is acute behaviour, Fracture is the breaking itself |
+| **Efflorescence** | **E.G.O manifestation (person-scale, positive-outcome analogue only)** | Person-controlled bond/merger at the Fracture edge; the person remains human and in control — not a gear synchronization rate |
 | **The Cheongula** (First Sorrow) | **The Smoke War (city-plane historical counterpart only)** | City-scale founding wound under the opposite theme — Wing war there, preventable civic catastrophe here; still active as Maw/thousand, debt, Veil, and Consolihan. Not the facility-plane Founding Catastrophe (§2) |
 | **Absolvohan** (the plan) | **Seed of Light project (eschaton analogue only)** | Director release/confession plan in this row; facility, loop, and Dawn senses file separately — not a Tiphereth/arc name match |
-| **Echoes** (crystallized memory currency) | **PE-Boxes (output-unit analogue only)** | Civic memory-currency and debt backing vs facility energy-output boxes; never spend one as the other at intake |
-| **Zones A–E** | **City Districts** | Somnarak city zones (world plane); not Facility 01 departments |
+| **Echoes** (crystallized memory currency) | **Ahn (city-currency slot only)** | Head-minted City money vs crystallized memory/emotion fragments backed through Somnarak's Collectors and debt order; PE-Boxes remain facility work output, and no exchange rate is filed |
+| **Zones A–E** | **Districts / Nests (city-subdivision analogue only)** | Somnarak's five city Zones and PM's Wing-ruled Districts occupy the local-administration slot, not equal territorial scale; Zones are never Facility 01 departments or floors |
 
 ### XIII. World Concepts Mapping
 
-| Somnarak | L Corp | Notes |
+| Somnarak | Project Moon (plane follows the row) | Notes |
 |---|---|---|
 | **Han** (structural grief) | **Cogito (source) / Enkephalin (output)** | System-position analogue only, not one shared substance |
 | **The Weeping** (planetary river) | **The River · Bucket · Well system** | Reservoir analogue only (Ch. 1 §2A); source of Sorrow Entities by crystallization |
-| **The Alpha Tree** | *(Sephiroth schema — tree-name resemblance only)* | Living Dream/Weeping/Abyss nexus, not a department tree |
-| **The Veil** (civic) | *(no facility counterpart)* | Civic suppression/power order; distinct from the Dream Veil |
-| **Sorrow Tide** (nightly surge) | *(crisis-escalation analogue only)* | Nightly surge; facility read = Han-Density / Tide Watch Ordeal Time |
+| **The Alpha Tree** | *(no world-plane counterpart filed)* | Living Dream/Weeping/Abyss nexus; Sephiroth is a tree-name resemblance only, not a department counterpart |
+| **The Veil** (civic) | *(no City-wide counterpart filed)* | Civic suppression/power order; not a Head taboo or the Dream Veil |
+| **Sorrow Tide** (nightly surge) | *(no City-wide counterpart filed)* | Nightly surge; separate facility-facing read = Han-Density / Tide Watch Ordeal Time |
 | **Consolihan** (annual mourning) | *(no equivalent)* | Civic mourning/release, not an Ordeal wave |
-| **Fracture** (4 stages) | **Panic (acute analogue only)** | Staged personnel transformation, not panic alone |
-| **Efflorescence** | **E.G.O manifestation (positive-outcome analogue only)** | Person-controlled bond/merger at the Fracture edge; the person remains human and in control — not a gear synchronization rate |
+| **Fracture** (4 stages) | **Panic (person-scale, acute analogue only)** | Staged personnel transformation, not panic alone |
+| **Efflorescence** | **E.G.O manifestation (person-scale, positive-outcome analogue only)** | Person-controlled bond/merger at the Fracture edge; the person remains human and in control — not a gear synchronization rate |
 | **The Cheongula** (First Sorrow) | **The Smoke War (city-plane historical counterpart only)** | City-plane War-vs-Catastrophe pair with living institutional aftermath; the facility-plane founding catastrophe files separately as the Solidification (§2) |
 | **Absolvohan** (the plan) | **Seed of Light project (eschaton analogue only)** | Release/confession plan only in this row |
-| **Echoes** (crystallized memory) | **PE-Boxes (output-unit analogue only)** | Civic currency vs facility output unit |
+| **Echoes** (crystallized memory) | **Ahn (city-currency slot only)** | City money vs memory currency at the currency slot only; PE-Boxes stay in the facility output ledger |
 
-### XIX. Somnarak-Specific Systems (No Direct L Corp Equivalent)
+### XIX. Somnarak-Specific Systems (No Direct Project Moon Equivalent)
 
-| Somnarak System | Function | Closest L Corp Equivalent |
+| Somnarak System | Function | Closest Project Moon Equivalent / Analogue |
 |---|---|---|
 | **R.D. Attributes** (Composure, Resolve, Clarity, Resilience) | Personnel stats for handling Han Effects | Employee stats (Fortitude, Prudence, Temperance, Justice) — see §IX for crossover mechanic |
 | **Sorrow Gauge [HP]** | Dossier sorrow/durability record and continuous pressure channel | HP source value for tier-multiplier derivation (not the Qliphoth Counter; the Threshold is the separate discrete channel) |
@@ -1659,10 +1659,11 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 | **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Personnel transformation from Han overload | Panic (acute analogue only) |
 | **Efflorescence** | Positive transformation: person-controlled bond at the Fracture edge (sorrow becomes strength) | E.G.O manifestation (positive-outcome analogue only) |
 | **M.A.W. Corrosion** | Equipment turning on user (4 stages) | E.G.O Corrosion |
-| **Sorrow Tide** | Nightly city-wide Han surge (Dream-Bleed peak) | Han-Density → Tide Watch Ordeal Time when facility-facing (not a meltdown countdown) |
+| **Sorrow Tide** | Nightly city-wide Han surge (Dream-Bleed peak) | *(no City-wide counterpart filed; separate facility-facing read is Han-Density → Tide Watch, not a meltdown countdown)* |
 | **Consolihan** | Annual mourning event (sorrow spike) | *(no equivalent — civic mourning/release, not an Ordeal)* |
 | **Ordeals** | Mortal hostile Han manifestations spawning inside Facility 01 (5 Colors × 4 Times; Han-Density thresholds) | Timed Ordeals (crisis-cadence analogue) |
-| **The Veil / The Raw** | Civic sorrow-suppression order / undercity beyond the wards | No facility barrier counterpart / Backstreets (world plane) |
+| **The Veil** | Civic sorrow-suppression order | *(no City-wide counterpart filed; not a facility barrier)* |
+| **The Raw** | Zone B / under-Veil undercity beyond ordinary municipal reach | **Backstreets (world-plane internal-geography analogue only)** |
 
 ### XX. Crossover Implications
 
@@ -1713,21 +1714,23 @@ When a SOMNARAK Sorrow Entity arrives in the PM universe through the Well of Cog
 
 **Geopolitical & Faction Equivalence // Matrix**
 
-| Project Moon — The City (world plane) | Project Somnarak — Somnarak & The Raw (world plane) |
+| Project Moon — The City (world plane) | Project Somnarak — Somnarak, The Raw & The Desolate (world plane) |
 |---|---|
-| The Head / Wings of the City | Council of Sighs and Somnarak's municipal / Corner authorities |
+| The Head (City sovereign) | Council of Sighs (Somnarak City sovereign; no planet-wide Head filed) |
+| Wings and District/Nest authorities | Zone Sector Heads and the five chartered corporations licensed in each Zone (local corporate-administration analogue only; the Four Corners are separate planetary polities, not Somnarak districts) |
 | The Five Fingers (Syndicates) | Five Syndicates of The Raw |
 | Fixer Associations (Hana, Zwei, etc) | Ten Specialist Cadres |
 | Fixer Workshops (Zelkova, Mook, etc) | Six Great Workshops · Grades 1–5 (non-M.A.W.) |
-| Backstreets & Outskirts | The Raw & The Desolate |
-| The Well / Human Unconscious | The Weeping system — liquid Han, Abyssal Well, Deep Vault *(the reservoir comparison proper is §2/§2A; cycle-engram vocabulary is Facility 01-internal and is not the reservoir)* |
+| Backstreets (inside each District, outside its Nest) | The Raw (Zone B / under-Veil undercity inside Somnarak's civic order) |
+| Outskirts (outside the City) | The Desolate (10 km liminal buffer outside Somnarak's walls) |
+| The Well / Human Unconscious *(cosmological cross-reference, not a geopolitical body)* | The Weeping system — liquid Han, Abyssal Well, Deep Vault *(filed at §2/§2A; cycle-engram vocabulary is Facility 01-internal and is not the reservoir)* |
 
 
 For narrative fiction and worldbuilding, both universes feature intricate geopolitical power structures operating beyond facility walls:
 
-#### 13.1 The City vs. Somnarak City & The Raw
+#### 13.1 The City vs. Somnarak City, The Raw & The Desolate
 - **The City (Project Moon):** Governed by **The Head** (A Corp, B Corp, C Corp) with absolute taboos enforced by Arbiters and Claws. The 26 Wings exploit their Singularities, while the **Five Fingers** (Thumb, Index, Middle, Ring, Pinky) govern the underworld Backstreets through brutal syndicates.
-- **Somnarak City & The Raw (Project Somnarak):** Somnarak City is an engineered cavern stronghold governed by the **Council of Sighs**. The Reverie Directorate is the chartered containment institution at Facility 01 beneath the Alpha Tree, not the city government. Outside the thermal wards lies **The Raw**, a lawless undercity built in salt-encrusted ruins, and beyond that **The Desolate**, the Han-saturated liminal wilderness.
+- **Somnarak City, The Raw & The Desolate (Project Somnarak):** Somnarak City is an engineered cavern stronghold governed by the **Council of Sighs**. The Reverie Directorate is the chartered containment institution at Facility 01 beneath the Alpha Tree, not the city government. Inside that civic order, **The Raw** is the Zone B / under-Veil undercity where ordinary municipal reach fails; outside the city walls, **The Desolate** is the 10 km liminal buffer before the wilderness.
 - **City-scale founding wound — War vs Catastrophe:** The City's energy order is replaced through the calculated Smoke War; Somnarak's civic order grows over the Cheongula, a preventable mass consumption followed by unconfessed mourning, debt, and the Veil. This is the world-plane pair in §2, not the facility-plane Founding Catastrophe.
 
 #### 13.2 The Five Syndicates of The Raw
@@ -1823,9 +1826,10 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Clerk** | **Salt-Scrubber (  염초공   )** | Auxiliary personnel maintaining sanitation, brine drainage, and grates. |
 | **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Operated inanimate entities under strict Two-Work rules; body housing and use-shape are filed on separate axes. |
 | **Core Suppression** | **Core Realization (핵 진압)** | Floor-lead Core Crisis duel: suppress, ground, and Reclaim the Echo-Core Lead — no extraction; cleared Realizations persist across cycles (+10 to All Attributes, permanent floor buff). |
-| **The City** | **Somnarak City (  솜나락 도성   )** | The main human metropolitan stronghold. |
-| **Backstreets** | **The Raw (  생경   )** | The unpatrolled, violent undercity surrounding the facility. |
-| **Outskirts** | **The Desolate (  황무지   )** | The inhabited liminal frontier beyond the walls — warm, living ground where Outside Sorrow runs unstructured and no Veil dampens feeling. |
+| **The City** | **Somnarak City (  솜나락 도성   )** | City-to-city story slot, not equal world scale: The City is effectively PM's known human world, while Somnarak City is one Corner city on Mugenhan. |
+| **Backstreets** | **The Raw (  생경   )** | Internal poor/underworld geography: District Backstreets outside their Nests against Somnarak's Zone B / under-Veil Raw; neither is the land beyond its city's walls. |
+| **Outskirts** | **The Desolate (  황무지   )** | External geography: land beyond the City perimeter against Somnarak's inhabited 10 km wall-buffer, where Outside Sorrow runs unstructured and no Veil dampens feeling. |
+| **Ahn** | **Echoes (메아리)** | City-currency slot only: Head-minted Ahn in general City use against Somnarak's crystallized memory/emotion fragments, whose value is backed through the Collectors and debt order. No exchange rate is filed, and neither is a PE-Box. |
 | **The Fingers (Syndicates)** | **Five Syndicates of The Raw** | Major criminal syndicates governing The Raw underworld beyond ordinary municipal reach. |
 | **Fixers & Associations** | **Ten Specialist Cadres** | Specialized contractor guilds providing mercenary and tactical services. |
 | **Fixer Workshops** | **Artisan Workshops (Six Great Workshops · Grades 1–5)** | Non-M.A.W. artisan armaments and defensive weaves issued under the Workplace Law. |
