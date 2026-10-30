@@ -572,7 +572,7 @@ Threat Score = Potency Rank + Coherence Rank
 | Entity | Potency + Coherence | Score | Risk Level |
 |---|---|---|---|
 | The Kind Echo (000) | α + I | 2 | ZAYIN |
-| The Torn Whisper (716) | β + II | 4 | TETH |
+| Double Mouth (716) | β + II | 4 | TETH |
 | The Frozen Tear (100) | β + II | 4 | TETH |
 | The Maw (001) | ω + IV | 9 | ALEPH |
 | The Dawn of Mourning | ω + V | 10 | ALEPH |
@@ -1878,7 +1878,7 @@ Successful work may advance observation only along the track the story declares.
 
 ## Chapter 10 — Procedure, Worked Practice & Final Checks
 
-Finally, the laws become an order of operations. Convert in the sequence below, prove the result against the worked conversions, and do not sign the record until the facility checklist has had its say. Where a dossier number and a filed result disagree, keep both and flag the tension; never silently normalize an intake figure.
+Finally, the laws become an order of operations. Convert in the sequence below and check each operation against the worked practice; an exercise proves only the fields it files, and no partial example signs a record. Do not sign until the facility checklist has had its say. Where a dossier number and a filed result disagree, keep both and flag the tension; never silently normalize an intake figure.
 
 ### XIV. Conversion Order (Somnarak → L Corp)
 
@@ -1933,15 +1933,17 @@ The cases below are department reads only. They do not mint Subject Numbers and 
 | `C-IVω-001 [GP]` — **The Maw** · Threat Score 4 + 5 = 9 → **ALEPH**; Batch 207 designation `T-07-0001` | **Architecture Team (Kether)** where the final department is available; otherwise **HOLD** | The filed body is a district housed as Place-as-room, with expansion that can merge adjacent buildings and absorb residents and no true containment. Architecture files eight Containment Units, **no Clerks**, and all-stat continuous-service benefits for its assigned Agents; Extraction support remains a separate facility function | One responsible housing department replaces the former Extraction/Architecture slash. While the Maw is Place, only Insight and Instinct are workable; Attachment and Repression are N/A under the Two-Work-Type Law and are not, by themselves, the filed collective-sorrow metamorphosis trigger |
 | `N-IIβ-319 [VO]` — **The Magistrate's Strike-Through** · Threat Score 2 + 2 = 4 → **TETH** | **Safety Team (Netzach)** — custody assignment | The A-Relic's filed operation is a one-use sanctuary boundary, and the native Safety Team files emergency planning, safety guidelines, and healing support. That custodian function answers the dossier's certified Tool protocol | Housing department means custody and operator staffing, not a repeat-use work loop. Completing the chalk circle consumes the relic completely, creates the filed 30-second sanctuary, and leaves sheltered operatives unable to recall their family names for the shift |
 
-### Section X: Worked Conversions (Batch 207 intake series)
+### Section X: Worked Practice — Batch 207 Identity-and-Housing Precedents
 
-Each conversion below shows its three-field reads, so the letter and class can be audited rather than merely asserted. Each also declares its **housing grade and scale band** under Section I.4, read from the same dossiered body that set its class — the grade follows the body, never the convenience of the room.
+Each precedent below shows its three-field reads, so the letter and class can be audited rather than merely asserted. Each also declares its **housing grade and scale band** under Section I.4, read from the same dossiered body that set its class — the grade follows the body, never the convenience of the room.
+
+These are **partial worked exercises**, not signed conversion records. They prove only the designation, Risk, management, and housing operations written beneath each name. HP, Work Damage, PE, counters, event and suppression lines, equipment or Tool housing, narrative gates, department assignment, and sign-off still derive in Conversion Order and Appendix B order; a precedent neither supplies nor settles a field it does not file.
 
 #### 1. Broken Well — `C-IIβ-565 [D]` → **`T-01-0565`**, TETH
 - **Letter (T):** City Sorrow · Origin = a child lost in a Han-softened shaft · Tale = a mother's unanswered calling. Discrete traumatic loss, recorded as wound → **T**.
 - **Class (01):** Subject; Physical Form and Appearance give a half-flesh, half-mist **humanoid** figure joined to a dry rim (1.1 m plumb floor, dust tears) → **01**. Serial `565 → 0565`.
-- **Risk:** Rank II / Grade β, on-diagonal → **TETH**. Work damage RED (Grudge). Repression is class-legal (Subject) but **locked by management rule**: force hardens the rim and raises the gauge in the source record.
-- **Housing (Whole):** figure and dry rim are housed together at dossiered dimensions; the body the unit shows is the whole body the dossier files, and nothing is recorded below the rim to leave undrawn. Breach Form = the same joined figure at large; scale band declared **full** (a corridor-scale body — this unit's containment problem is the Repression lock, not size).
+- **Risk:** Threat Score = Coherence II (2) + Potency β (2) = **4 → TETH**. Work damage RED (Grudge). Repression is class-legal (Subject) but **locked by management rule**: force hardens the rim and raises the gauge in the source record.
+- **Housing (Whole):** figure and dry rim are housed together at dossiered dimensions; the body the unit shows is the whole body the dossier files, and nothing is recorded below the rim to leave undrawn. Breach Form = the same rim-joined figure, still fixed at the opening; the filed event spreads the reported-depth field across the floor rather than sending the figure roaming; scale band declared **full** (a corridor-scale body — this unit's containment problem is the Repression lock, not size).
 
 #### 2. The Maw — `C-IVω-001 [GP]` → **`T-07-0001`**, ALEPH
 - **Letter (T):** City Sorrow · Origin = the Cheongula, one thousand citizens consumed · Tale = atrocity and its denial → **T**.
@@ -1951,60 +1953,37 @@ Each conversion below shows its three-field reads, so the letter and class can b
 
 #### 3. Conservatory — `N-IVδ-852 [N]` → **`F-07-0852`**, WAW
 - **Letter (F):** Inner Sorrow · Origin = a caretaker who overloaded a structure to save a home · Tale = moral parable of preservation that destroys → fable structure takes **F** under the decision order.
-- **Class (07):** Tool Type says I-Relic, but Physical Form and Appearance give a fixed crystal **site** — a floor-plan outline surveyed at fourteen stations, its east range permanently short 2.3 m — and the dossier itself calls the tool class a registry convention rather than a field practice → **07**, disagreement entered as a management note. Serial `852 → 0852`.
-- **Risk:** Rank IV / Grade δ → **WAW**. Management core: nothing in the unit may be built, braced or made to resemble the lost house.
+- **Class (07):** Tool Type says I-Relic, but Physical Form and Appearance give a fixed crystal **site** — a floor-plan outline surveyed at fourteen stations, its east range permanently short 2.3 m — and the dossier itself calls the tool class a registry convention rather than a field practice → **07** by the current body. The class read does not settle Tool operation: the fixed-site record against the bearer-borne I-Relic profile remains a Step 6 **HOLD**. Serial `852 → 0852`.
+- **Risk:** Threat Score = Coherence IV (4) + Potency δ (4) = **8 → WAW**. Management core: nothing in the unit may be built, braced or made to resemble the lost house.
 - **Housing (Fragment):** the unit holds the surveyed floor-plan outline only — fourteen stations of trace, the portion of a fixed crystal site that a room can hold; the site itself stands undrawn across the interface. The Breach Form is that same crystal site at its true footprint (band declared **Well-attenuated 25–50%**, the east range still short its 2.3 m), and the management core above is precisely the anti-completion discipline: build nothing on the outline toward the lost house. Same class as the Maw, different grade — because the dossiered bodies differ: a district that *is* a room, versus a site surviving as its plan.
 
 #### 4. Learned Your Face — `C-IIIγ-195 [VO]` → **`T-09-0195`**, HE
 - **Letter (T):** City Sorrow · Origin = 212 citizens who carried grief into a sealed room and told nobody · Tale = the loneliness of believed-unshareable sorrow → **T**.
 - **Class (09):** O-Relic operated as a channeled device in its bay — one nominated agent-equivalent (channeller), one clock-holder, deliberate closure → **09 Tool** handling. Serial `195 → 0195`.
-- **Risk:** Rank III / Grade γ → **HE**; work damage PALE (Void). Encyclopedia redaction precedent: reflection contents are **never recorded** (Section IX); the learned-face count (61) is the intake-visible statistic.
+- **Risk:** Threat Score = Coherence III (3) + Potency γ (3) = **6 → HE**; work damage PALE (Void). Encyclopedia redaction precedent: reflection contents are **never recorded** (Section IX); the learned-face count (61) is the intake-visible statistic.
 - **Housing (Fragment):** the unit holds the device and its channelling bay — the glass, not what the glass holds. The reflection-side is the undrawn remainder, and under Sections I.4 and IX its completion is a permanent **HOLD**: reflection contents are never recorded, so no Breach Form may be described, at any degree, by anyone. A story stages the device, the count, and the discipline of not looking; whatever has learned the faces stays on its side of the interface.
 
 #### 5. The Wedge That Held — `O-IIIγ-412 [GP]` → **`T-09-0412`**, HE
 - **Letter (T):** Outside Sorrow · Origin = the Great Basalt Rupture and a master smith's sacrifice for eighteen apprentices · Tale = industrial disaster record → **T** (the heroic register does not make it a fable; names, codes and signed authorisations are on file).
 - **Class (09):** A-Relic, an 18.4 kg single-use iron wedge operated by one deliberate driving strike → **09 Tool**, single-use rules. Serial `412 → 0412`.
-- **Risk:** Rank III / Grade γ → **HE**; work damage RED (Grudge). A drop is a minor tile-radius event, **not** consumption; the discharge profile (Range Band 3, 50% armor fracture, knockdown) fires once and the piece is inert slag thereafter — the Tool entry must not schedule repeat uses.
+- **Risk:** Threat Score = Coherence III (3) + Potency γ (3) = **6 → HE**; work damage RED (Grudge). A drop is a minor tile-radius event, **not** consumption; the discharge profile (Range Band 3, 50% armor fracture, knockdown) fires once and the piece is inert slag thereafter — the Tool entry must not schedule repeat uses.
 - **Housing (Whole):** the 18.4 kg wedge *is* the whole body; there is no remainder and no completion clause — the master smith of the Origin is its maker, not a presence housed inside it. A Tool has no roaming Breach Form: its only event is the single discharge above, after which the housed form and the spent form are the same inert piece. Scale band: not applicable.
 
-### XIII. Quick Conversion Example
+### Worked Practice — Double Mouth Arithmetic and Work Drill
 
-**Somnarak Entity:** The Torn Whisper — `C-IIβ-716 [GS]`
-- Coherence: II (Echo), Potency: β (Moderate)
-- Element: Grudge (Crimson) = **RED Damage**
-- Sorrow Gauge [HP]: 415/415
-- Han Pressure [ATK]: 10–23 per hit · Grudge
+**Entity:** Double Mouth — 찢어진 속삭임 (legacy English alias: *The Torn Whisper*) · `C-IIβ-716 [GS]`
 
-**Step 1 — Risk Level:**
-Score = II(2) + β(2) = 4 → **TETH**
+This is a partial intake drill, not a signed conversion record. It exercises the designation, danger, energy, work, and counter-channel reads; housing grade, equipment, narrative gates, department assignment, and sign-off are not filed here.
 
-**Step 2 — L Corp HP:**
-ceil(415 × 1.0) = **415 HP**
+| Operation | Dossier input | Drill output | Boundary |
+|---|---|---|---|
+| **Identity and designation** | City Sorrow. Origin: a complaint was investigated, closed unsubstantiated, and destroyed, leaving its witness permanently the only person who had said it. The Tale records that isolation as a wound rather than a fable. The current body is a Subject-Spirit heard as two tones from several bearings, half-present as cold smoke and ash whose torso-like smear does not resolve into anatomy | Letter **T**, class **03**, serial **0716** → **`T-03-0716`** | The quick-map `T-02-16` rides only as a legacy alias; it does not govern the current class or serial |
+| **Danger and resistances** | Coherence II and Potency β; Sorrow Gauge [HP] `415/415`; Han Pressure 10–23 · Grudge; Resistance 25% against Grudge and 15% against other pressure types. The drill files one TETH ATK multiplier, *m* = 1.4 | Threat Score 2 + 2 = **4 → TETH**; HP `ceil(415 × 1.0)` = **415**; Work Damage `ceil(10 × 1.4)`–`ceil(23 × 1.4)` = **14–33 RED**; damage taken **RED 0.75 · WHITE 0.85 · BLACK 0.85 · PALE 0.85** | *m* is a filed drill input inside ×1.3–×1.5, not a number read out of Pressure itself. The 33 high end crosses the Section III 12–22 sanity band and is flagged, not rescaled. Combat Action figures remain the separate event ledger, and the RED Work Damage line does not turn the filed no-contact event into a roaming strike |
+| **Energy** | Han-Energy Yield 12–18 per successful work cycle; the TETH physical PE band is 14–18 | **14–18 physical PE-Boxes** as the tier-band range. With no dense-fraction factor `d` filed, the PE-equivalent quota envelope is **16–22** | Han Yield stays a worksheet input; it is not copied forward as the physical count merely because the ranges overlap. A finished record files its physical outcome count and one `d` inside ×2.0–×2.5 |
+| **Work** | Behavior: Flerehan **Decrease**, Pugnahan **Increase**, Viderehan **Stable**, Ferrehan **Decrease**. The method uses two recorders on separate channels, with reconciliation at the Commons desk rather than in the room | Attachment **Favored** · Repression **Disfavored and management-forbidden** · Insight **Common** · Instinct **Favored** | Neither favored line replaces the two-channel method. Pugnahan is contradiction by another name, is not used or tested, and is not merely the “worst” ordinary work choice |
+| **Counter channels and event** | Gauge behavior is filed beside a 35–50% starting read, a ≥60% Combat Record activation, a 65% Ultimate trigger, and a event opening at 40% that climbs 10% per listener-finished half-phrase. A separate Activation Threshold files **3**, with convergence of the two tones as the third condition. The event is transformation in place and spread into Commons conversation | Both channels are present; **Qliphoth Counter: HOLD**. Event response is to rotate personnel the holding has already heard and retake both channels with two recorders, unreconciled | These percentages have different filed scopes and are not collapsed into one meter. The three-condition margin does not file a complete decrement-and-reset schedule, so this drill derives no counter number. No pursuit, physical contact, or contradiction-as-suppression is added |
 
-**Step 3 — L Corp Damage:**
-RED damage, one filed TETH multiplier *m* = 1.4: ceil(10 × 1.4)–ceil(23 × 1.4) = **14–33 RED**
-
-**Step 4 — L Corp Subject Number:**
-`T-02-16` (Trauma origin, animalistic/humanoid shape, #16)
-
-**Step 5 — Work Preferences:**
-Flerehan→Attachment (Decrease = High), Pugnahan→Repression (Increase = Low), Viderehan→Insight (Stable = Medium), Ferrehan→Instinct (Decrease = High)
-
-**Result:** A TETH-class Abnormality dealing 14–33 RED damage with 415 HP, best worked via Attachment, worst via Repression.
-
-### XVI. Worked Example
-
-#### Somnarak → L Corp
-
-**Entity:** The Torn Whisper — `C-IIβ-716 [GS]`
-- Coherence: II, Potency: β → Score 4 → **TETH**
-- Element: Grudge (Crimson) → **RED Damage**
-- Sorrow Gauge [HP]: 415/415 → ceil(415 × 1.0) = **415 HP**
-- Han Pressure [ATK]: 10–23 → one filed *m* = 1.4: ceil(10 × 1.4)–ceil(23 × 1.4) = **14–33 RED**
-- Work Types: Flerehan↓, Pugnahan↑, Viderehan→, Ferrehan↓ → Attachment (High), Repression (Low), Insight (Medium), Instinct (High)
-- Han-Energy: 12–18 H-Boxes (worksheet input) → **12–18 physical PE-Boxes**, filed as the TETH work-outcome range; across the dense-fraction factor (×2.0–×2.5) that is **14–22 PE-equivalent quota value**
-
-**Result:** A TETH-class Abnormality, 415 HP, dealing 14–33 RED damage, best worked via Attachment, worst via Repression, yielding 12–18 physical PE-Boxes (14–22 PE-equivalent quota value).
+**Drill result:** `T-03-0716` · **TETH** · **415 HP** · **14–33 RED** conditional on filed *m* = 1.4 · physical PE band **14–18** (quota envelope **16–22** before `d` is filed) · Attachment and Instinct favored, Insight Common, Repression forbidden · **Qliphoth Counter: HOLD**. No finished-record result follows for housing, equipment, department, or sign-off.
 
 ### Section XI: Facility Verification Checklist
 

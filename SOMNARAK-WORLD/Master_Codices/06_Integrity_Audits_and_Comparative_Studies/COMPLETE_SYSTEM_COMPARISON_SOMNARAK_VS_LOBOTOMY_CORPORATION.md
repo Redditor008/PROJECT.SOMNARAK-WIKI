@@ -147,6 +147,8 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 | **Daily Quota** | Daily quota threshold (e.g., 200–1,200 PE) required to conclude the work day. | Daily Han-Quota required to maintain Facility 01 containment barriers through the Absolvohan cycle. | Failure to meet daily quota triggers emergency overtime, panic, and structural containment instability. |
 | **Sanitation / Byproducts** | Minor Enkephalin gas fumes; cleansers scrub residue. | **Han-Brine (  염간수   / *Yeomgansu*)** — Caustic saline fluid that crystallizes into corrosive salt if left unburned. | Somnarak incorporates physical brine build-up that erodes floorboards, requiring Haz-scorchers (  화용반   ) to burn it off. |
 
+**Worked-example boundary (conversion):** an intake drill proves only the fields it actually derives. Han Yield remains a home worksheet input and is never copied forward as the physical PE count, which comes from the tier band before quota composition is applied. A case with an unresolved counter, housing, equipment, or department result remains a partial exercise with that field **HOLD**, not a signed conversion record.
+
 ---
 
 ## 5. Entity Classification & Threat Tiers
