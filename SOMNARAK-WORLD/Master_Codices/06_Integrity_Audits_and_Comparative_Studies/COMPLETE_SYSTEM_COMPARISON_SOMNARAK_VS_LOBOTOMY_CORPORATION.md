@@ -268,8 +268,9 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 
 | Equipment Domain | Lobotomy Corporation (E.G.O) | Project Somnarak (M.A.W. Wear) | Updated Synthesis |
 |---|---|---|---|
-| **Full Name** | **Extermination of Geas / Manifestation of Ego** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
+| **Full Name** | **Extermination of Geometrical Organ** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
 | **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
+| **Grade Channel** | Each Weapon/Suit carries its own Risk Level, usually the source Abnormality's but not invariably; Gifts file slot, effect, and acquisition instead. | The entity's converted Risk derives from Threat Score, while each M.A.W. piece files its own Greek Grade. | Output Weapon/Suit Risk reads the piece's filed grade on the same ordinal (α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH) and may differ from the entity Risk; Stigma grade gives the Gift output no Risk Level. |
 | **Material Taxonomy** | Categorized primarily by Risk Grade (ZAYIN–ALEPH). | Categorized by **Five Material Weight Classes**: Primal Marrow, Tempered Brass, Resonant Alloy, Woven Thread, Void Glass. | Somnarak adds physical material weight and mobility modifiers. |
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Corrosion** — cumulative four-stage personality takeover from overuse, misuse, neglect, or emotional conflict; ordinary Stage 4 dominates the mind without transforming the body. | Acute SP collapse is Panic; Corrosion is slower bearer-history risk, not its synonym. |
 

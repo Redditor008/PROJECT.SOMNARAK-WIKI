@@ -1550,41 +1550,23 @@ At Degree I, Corrosion files as a shift-limit and bearer-history warning unless 
 
 | M.A.W. piece | E.G.O form | Conversion |
 |---|---|---|
-| M.A.W. Weapon | E.G.O Weapon | Damage type from the entity's Element (Section V); damage numbers, pattern and falloff carry over unchanged; Speed/Range bands become LC attack-speed and range descriptors; Risk Level = source entity's Risk Level (Section III). Bearer costs file by ledger under subsection 1: SP-pool burden as Composure Load, narrative tolls as named special rules, and Sorrow Echoes costs in their home resource ledger — a cost written per-piece in the dossier is never pooled into a set-wide one. |
-| M.A.W. Suit | E.G.O Suit | The four resistance multipliers carry over in LC color order (RED = Grudge, WHITE = Lament, BLACK = Weight, PALE = Void). Suit appearance follows the linked item record, not the entity's body. |
-| M.A.W. Stigma | E.G.O Gift | Slot carries over (Head, Tail→Brooch-equivalent by department fitting practice, Hand/Arm, etc.); the dossier's acquisition probability is recorded as the observed Gift rate; conferred-not-manufactured Stigmas remain Gift-only and cannot be produced with PE-Boxes. |
+| M.A.W. Weapon | E.G.O Weapon | Damage type from the entity's Element (Section V); damage numbers, pattern and falloff carry over unchanged; Speed/Range bands become LC attack-speed and range descriptors; E.G.O Risk Level = the piece's filed M.A.W. Grade on the same five-step ordinal (α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH); this piece channel may differ from the source entity's Threat-Score Risk. Bearer costs file by ledger under subsection 1: SP-pool burden as Composure Load, narrative tolls as named special rules, and Sorrow Echoes costs in their home resource ledger — a cost written per-piece in the dossier is never pooled into a set-wide one. |
+| M.A.W. Suit | E.G.O Suit | E.G.O Risk Level = the piece's filed M.A.W. Grade on the same five-step ordinal (α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH). The four resistance multipliers carry over in LC color order (RED = Grudge, WHITE = Lament, BLACK = Weight, PALE = Void). Suit appearance follows the linked item record, not the entity's body. |
+| M.A.W. Stigma | E.G.O Gift | The Gift output carries no E.G.O Risk Level; the Stigma's Greek grade remains source provenance. Slot carries over (Head, Tail→Brooch-equivalent by department fitting practice, Hand/Arm, etc.); the dossier's acquisition probability is recorded as the observed Gift rate; conferred-not-manufactured Stigmas remain Gift-only and cannot be produced with PE-Boxes. |
 
 Where the source dossier and its linked item records disagree on a piece's form, profile or even existence (extraction prohibited on one page, a full set on another), Extraction produces **nothing** and files the disagreement: an unresolved equipment record is a management fact, not a license to synthesize the missing piece. Producible quantity and PE-Box cost otherwise follow standard LC observation-gated production keyed to the Section IX unlock track; where the dossier files a finite set count, that count caps production absolutely.
 
-### IX. Equipment Mapping
+### Equipment Names and Grade Channels
 
-| Somnarak | L Corp | Notes |
-|---|---|---|
-| **M.A.W.** (Materialized Agony Wear) | **E.G.O** (Extermination of Geometrical Organ) | Equipment extracted from entities. Somnarak = M.A.W. L Corp = E.G.O. Do not mix terms. |
-| **M.A.W. Weapon** | **E.G.O Weapon** | Somnarak: M.A.W. Weapon. L Corp: E.G.O Weapon. Changes damage type and attack value. |
-| **M.A.W. Suit (Armor)** | **E.G.O Suit** | Somnarak: M.A.W. Suit. L Corp: E.G.O Suit. Changes damage resistances. |
-| **M.A.W. Gift (Accessory)** | **E.G.O Gift** | Somnarak: M.A.W. Gift. L Corp: E.G.O Gift. Passive stat buff, random acquisition. |
-| **M.A.W. Grade: α** | **E.G.O Grade: ZAYIN** | Lowest tier equipment |
-| **M.A.W. Grade: β** | **E.G.O Grade: TETH** | |
-| **M.A.W. Grade: γ** | **E.G.O Grade: HE** | |
-| **M.A.W. Grade: δ** | **E.G.O Grade: WAW** | |
-| **M.A.W. Grade: ω** | **E.G.O Grade: ALEPH** | Highest tier; forbidden/experimental |
-| **M.A.W. Corrosion** | **E.G.O Corrosion** | Equipment "turns" on the user; entity personality overtakes wearer |
+The home triad is **M.A.W. Weapon / Suit / Stigma**; the output triad is **E.G.O Weapon / Suit / Gift**. The Stigma files into the Gift slot by role while remaining a Stigma in the source record. The output abbreviation is **E.G.O (Extermination of Geometrical Organ)**; the home abbreviation remains **M.A.W. (Materialized Agony Wear)**.
 
-### VI. Equipment Mapping (M.A.W. ≠ E.G.O)
+| Channel | Source record | LC output | Conversion rule |
+|---|---|---|---|
+| **Source-entity Risk** | Coherence + Potency → Threat Score (Section III) | Abnormality Risk Level | Set by the entity derivation only. A piece grade never regrades the entity. |
+| **Weapon / Suit piece grade** | Filed M.A.W. Grade `α–ω` for that piece | E.G.O Risk Level `ZAYIN–ALEPH` | Read the piece's own Greek grade on the same five-step ordinal: **α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH**. This piece channel may differ from the source entity's converted Risk; write both. |
+| **Stigma grade** | Filed M.A.W. Grade, acquisition probability, slot, and effect | E.G.O Gift slot, effect, and acquisition rate | A Gift output carries no E.G.O Risk Level. The Greek grade remains provenance in the conversion note. |
 
-| Somnarak | L Corp | Notes |
-|---|---|---|
-| **M.A.W.** (Materialized Agony Wear) | **E.G.O** (Extermination of Geometrical Organ) | Equipment extracted from entities. **Do not mix terms.** Somnarak = M.A.W. L Corp = E.G.O. |
-| **M.A.W. Weapon** | **E.G.O Weapon** | Changes damage type and attack value |
-| **M.A.W. Suit (Armor)** | **E.G.O Suit** | Changes damage resistances |
-| **M.A.W. Gift (Accessory)** | **E.G.O Gift** | Passive stat buff; random acquisition |
-| **M.A.W. Grade: α** | **E.G.O Grade: ZAYIN** | Lowest tier |
-| **M.A.W. Grade: β** | **E.G.O Grade: TETH** | |
-| **M.A.W. Grade: γ** | **E.G.O Grade: HE** | |
-| **M.A.W. Grade: δ** | **E.G.O Grade: WAW** | |
-| **M.A.W. Grade: ω** | **E.G.O Grade: ALEPH** | Highest tier; forbidden/experimental |
-| **M.A.W. Corrosion** | **E.G.O Corrosion** | Equipment turns on the user |
+The five-step grade read is **piece-to-piece**, not Potency-to-entity: both archives file Weapon/Suit effectiveness on a five-step ordinal, while the entity's own Risk carries the Coherence half of the Threat Score. If a piece's M.A.W. Grade is absent or its linked records disagree, its E.G.O Risk remains **HOLD** under the disagreement rule above; do not fill it from the entity's Risk or Potency. If the filed piece grade differs from the source Potency, transcribe the piece grade as filed and flag the split — do not normalize either channel. M.A.W. Corrosion is filed under Section VII.2, never inferred from grade.
 
 ### XVIII. Tool Abnormality Types (Three Types)
 
@@ -1602,8 +1584,9 @@ From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use 
 
 | Equipment Domain | Lobotomy Corporation (E.G.O) | Project Somnarak (M.A.W. Wear) | Updated Synthesis |
 |---|---|---|---|
-| **Full Name** | **Extermination of Geas / Manifestation of Ego** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
+| **Full Name** | **Extermination of Geometrical Organ** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
 | **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
+| **Grade Channel** | Each Weapon/Suit carries its own Risk Level, usually the source Abnormality's but not invariably; Gifts file slot, effect, and acquisition instead. | The entity's converted Risk derives from Threat Score, while each M.A.W. piece files its own Greek Grade. | Output Weapon/Suit Risk reads the piece's filed grade on the same ordinal (α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH) and may differ from the entity Risk; Stigma grade gives the Gift output no Risk Level. |
 | **Material Taxonomy** | Categorized primarily by Risk Grade (ZAYIN–ALEPH). | Categorized by **Five Material Weight Classes**: Primal Marrow, Tempered Brass, Resonant Alloy, Woven Thread, Void Glass. | Somnarak adds physical material weight and mobility modifiers. |
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Corrosion** — cumulative four-stage personality takeover from overuse, misuse, neglect, or emotional conflict; ordinary Stage 4 dominates the mind without transforming the body. | Acute SP collapse is Panic; Corrosion is slower bearer-history risk, not its synonym. |
 
@@ -1630,20 +1613,6 @@ In Project Moon lore, Fixers purchase specialized weapons and clothing crafted b
 
 #### 15.1 The Legendary Stat & Employment Covenant
 Workshop armaments are governed by the **Workplace Law (노동 소속령 — Affiliation Mandate)**: no artisan weapon is released without active certified workplace, guild, or faction affiliation, and higher grades require documented foundry service — coin alone buys nothing. On dismissal, desertion, or license loss, Grade 3–5 armaments **revert to the workshop armory** under Collector Bureau foreclosure. Grade 5's Legendary Stat is therefore held by tenure, never looted: the covenant is employment itself.
-
-### V. Equipment Mapping
-
-|SOMNARAK|L Corp|Notes|
-|---|---|---|
-|**M.A.W.** (Materialized Agony Wear)|**E.G.O** (Extermination of Geometrical Organ)|Equipment extracted from entities|
-|**M.A.W. Weapon**|**E.G.O Weapon**|Changes damage type and attack value|
-|**M.A.W. Suit**|**E.G.O Suit**|Changes damage resistances|
-|**M.A.W. Gift**|**E.G.O Gift**|Passive stat buff, random acquisition|
-|**M.A.W. Grade α**|**E.G.O Grade ZAYIN**|Lowest tier|
-|**M.A.W. Grade β**|**E.G.O Grade TETH**||
-|**M.A.W. Grade γ**|**E.G.O Grade HE**||
-|**M.A.W. Grade δ**|**E.G.O Grade WAW**||
-|**M.A.W. Grade ω**|**E.G.O Grade ALEPH**|Highest tier|
 
 ### VI. Tool Abnormalities (Three Types)
 
@@ -1765,7 +1734,7 @@ When a Somnarak Sorrow Entity arrives in the L Corp universe through the Well of
 
 3. **R.D. Attribute Development:** L Corp employees exposed to Han would develop new stats (Composure, Resolve, Clarity, Resilience) that don't exist in standard employees. They start at Level 0 and accumulate points after surviving 3+ days of sustained exposure (see §IX).
 
-4. **Equipment Translation:** M.A.W. would be converted to E.G.O. The M.A.W. trio (Weapon / Suit / Stigma) files into the three E.G.O slots by role; Stigma occupies the Gift slot as an accessory analogue, not as a Gift. M.A.W. Grade (α–ω) maps to E.G.O Grade (ZAYIN–ALEPH). Extraction method differs: Somnarak uses resonance; L Corp uses facility extraction systems.
+4. **Equipment Translation:** M.A.W. would be converted to E.G.O. The M.A.W. trio (Weapon / Suit / Stigma) files into the three E.G.O slots by role; Stigma occupies the Gift slot as an accessory analogue, not as a Gift. For Weapons and Suits, the piece's filed M.A.W. Grade (α–ω) reads as E.G.O Risk Level on the same ordinal; that piece channel is separate from the source entity's Threat-Score Risk, and a Stigma's grade does not give its Gift output a Risk Level. Extraction method differs: Somnarak uses resonance; L Corp uses facility extraction systems.
 
 5. **Damage Type Conversion:** Somnarak Elements map to L Corp Damage Types: Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK. The entity's Han Pressure [ATK] converts to L Corp Work Damage via the ATK multiplier (§III).
 
@@ -2290,7 +2259,7 @@ Copy this worksheet into the conversion note. Leave a cell as HOLD rather than b
 | Movement profile / range / pattern skills and triggers |  |  |
 | Transformation state lines under the same code |  |  |
 | Suppression objective and return condition |  |  |
-| E.G.O Weapon / Suit / Gift or HOLD per piece |  |  |
+| E.G.O Weapon / Suit / Gift or HOLD per piece; piece Risk Level for Weapon/Suit |  |  |
 | Requirements, SP-pool Composure Load, and other bearer-cost ledgers |  |  |
 | Tool use-shape, limits, and warning flags |  |  |
 | Encyclopedia gates, quote verbatim, redactions |  |  |

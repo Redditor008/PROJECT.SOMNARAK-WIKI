@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: Chapter 8 equipment names and grade channels (2026-10-30)
+
+- **Duplicate Equipment Mapping layers consolidated (manual Ch. 8; CMP §10 synced):** the three carried IX/VI/V tables repeated the same Weapon/Suit rows under the stale home label **“M.A.W. Gift.”** They now file once through §VII.3 Field Conversion plus **Equipment Names and Grade Channels**: home Weapon/Suit/**Stigma** → output Weapon/Suit/**Gift slot**, with no home piece renamed a Gift. The carried E.G.O expansion is corrected to **Extermination of Geometrical Organ**.
+- **Entity Risk and piece Risk separated:** the complete M.A.W. registry index covers 735 pieces. Their Greek grades form a piece-effectiveness channel, not the source entity's Threat Score: a full index parse showed 144 pieces from 48 source entities whose piece-grade ordinal differs from the entity's Threat-Score Risk, and 72 whose filed piece grade differs from source Potency. Those are channel splits to transcribe, not values to normalize.
+- **Weapon/Suit output grade corrected:** §VII.3 no longer sets a weapon's Risk from the source entity. For Weapons and Suits, the piece's filed M.A.W. Grade reads on the same five-step ordinal (**α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH**) and may differ from the entity's converted Risk. A Stigma's Gift output carries slot/effect/acquisition and **no E.G.O Risk Level**; absent or conflicting piece grade remains HOLD rather than being filled from entity Risk or Potency.
+
 ## Depth audit continued: Chapter 8 bearer-cost ledgers and M.A.W. Corrosion (2026-10-30)
 
 - **Universal Composure Load / Acoustic Meltdown retired (manual Ch. 8 §VII; CMP §10 and both lexicons synced):** the carried first block imposed fixed maximum-SP reductions by tier (-15 WAW / -30 ALEPH), granted every Sorrow E.G.O an every-fourth-strike corridor stagger, and replaced SP-zero Panic with salt crystallization into an Acoustic Echo. A field sweep found no maximum-SP reduction or every-fourth-strike rule in the M.A.W. Codex or dossier equipment records; the M.A.W. Codex's 725 `Cost:` occurrences split into 481 Sorrow Echoes denominations, 243 narrative bearer tolls, and 1 explicit None.
