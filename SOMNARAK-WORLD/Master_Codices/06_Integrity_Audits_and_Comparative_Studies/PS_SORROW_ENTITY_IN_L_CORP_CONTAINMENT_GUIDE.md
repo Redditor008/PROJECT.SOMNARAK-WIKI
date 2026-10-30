@@ -295,13 +295,13 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 |---|---|---|
 | **R.D. (Reverie Directorate)** | **Lobotomy Corporation (L Corp)** | The organization that contains entities |
 | **Facility 01 / The Absolvohan (The Hand of Change)** | **The Facility** (L Corp headquarters) | The building where entities are contained |
-| **Echo-Cores** (9 leaders) | **Sephirah / Department Heads** | The department leaders, each with unique sorrow |
-| **Director Majin** | **Ayin / X / The Manager** | Supreme authority |
-| **Secretary Seiyon** | **Angela** | The one who remembers everything, forbidden from acting |
-| **Menders** | **(Welfare Team / Healing agents)** | Independent healing contractors |
-| **Wardens** | **(Security Team / Captain)** | Enforcement and defense |
-| **Keepers** | **(Record Team / Information)** | Memory and record keepers |
-| **Collectors** | **(External extraction / Finance)** | Debt/sorrow collection |
+| **Echo-Cores** (9 leaders) | **Sephirah / Department Heads** | Floor-lead analogue only: nine persons carrying pre-existent Door-names vs ten schema-titled departments |
+| **Director Majin** | **Ayin (founder-sovereign analogue)** | Executive sovereignty; cycle-to-cycle dispatch sits with Containment Lead Dekan, not in this row |
+| **Secretary Seiyon** | **Angela (memory function only)** | Echo-Core secretary carrying full cycle memory under the Director; not a facility-wide coordinator mind |
+| **Menders** | **(Welfare Team / Healing agents)** | Somnarak repair/healing body (civic/Raw by record), not an R.D. department; facility-facing only when contracted |
+| **Wardens** | **(Security Team / Captain)** | Municipal order/defense faction incl. border watch vs Outside Sorrow; not Facility 01 Security department |
+| **Keepers** | **(Record Team / Information)** | Civic archive/memory faction recording all Three Sorrows; Facility 01 records sit with its own archive floors |
+| **Collectors** | **(External extraction / Finance)** | Civic debt/Echo enforcement managing Inner Sorrow burdens; external to the Facility 01 extraction chain |
 
 ### XI. Narrative Section Mapping
 
@@ -324,13 +324,13 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 |---|---|---|
 | **R.D. (Reverie Directorate)** | **Lobotomy Corporation (L Corp)** | Contains and studies entities |
 | **Facility 01 / The Absolvohan (The Hand of Change)** | **The Facility** (L Corp headquarters) | Where entities are contained |
-| **Echo-Cores** (9 leaders) | **Sephirah / Department Heads** | Department leaders, each with unique sorrow |
-| **Director Majin** | **Ayin / X / The Manager** | Supreme authority |
-| **Secretary Seiyon** | **Angela** | Remembers everything, forbidden from acting |
-| **Menders** | *(Welfare Team)* | Independent healing contractors |
-| **Wardens** | *(Security Team)* | Enforcement and defense |
-| **Keepers** | *(Record Team)* | Memory and record keepers |
-| **Collectors** | *(External extraction)* | Debt/sorrow collection |
+| **Echo-Cores** (9 leaders) | **Sephirah / Department Heads** | Floor-lead analogue only: nine persons carrying pre-existent Door-names vs ten schema-titled departments |
+| **Director Majin** | **Ayin (founder-sovereign analogue)** | Executive sovereignty; cycle-to-cycle dispatch sits with Containment Lead Dekan, not in this row |
+| **Secretary Seiyon** | **Angela (memory function only)** | Echo-Core secretary carrying full cycle memory under the Director; not a facility-wide coordinator mind |
+| **Menders** | *(Welfare Team)* | Somnarak repair/healing body (civic/Raw by record), not an R.D. department; facility-facing only when contracted |
+| **Wardens** | *(Security Team)* | Municipal order/defense faction incl. border watch vs Outside Sorrow; not Facility 01 Security department |
+| **Keepers** | *(Record Team)* | Civic archive/memory faction recording all Three Sorrows; Facility 01 records sit with its own archive floors |
+| **Collectors** | *(External extraction)* | Civic debt/Echo enforcement managing Inner Sorrow burdens; external to the Facility 01 extraction chain |
 | **Facility 01 floors / containment sectors** | **Departments / Floors** | Facility divisions inside the Absolvohan (Zones A–E are Somnarak city zones, world plane) |
 
 ### XXI. Document Structure Comparison
@@ -787,7 +787,7 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 | Work favorability | Behavior table by discipline | Outcome translation in Chapter 5 | Default Common; High/Low only where Behavior files a reason |
 | Breach movement | Speed, range, skills, body plan | Chapter 7 movement profile | Stats do not scale with presented size |
 | Damage riders & resistances | Element effects; defensive record | Chapter 7 transcription in color order | Values verbatim; neutral only where the dossier files none |
-| E.G.O | M.A.W. Weapon / Suit / Gift, where filed | Chapter 8 field conversion + Composure Load | No M.A.W. on file means no E.G.O invented at intake |
+| E.G.O | M.A.W. Weapon / Suit / Stigma, where filed | Chapter 8 field conversion + Composure Load | Stigma files into the Gift slot by role; no M.A.W. on file means no E.G.O invented at intake |
 | Encyclopedia | Comprehension, Tale, redactions, quote | Chapter 9 build order | Quote verbatim; origin of the quote remains unknown |
 | Department | Risk, work needs, breach class, story scale | Chapter 2 institutions + Chapter 10 roster practice | Department is a staffing decision, never a stat |
 
@@ -1656,51 +1656,51 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
-| **Han** (collective structural grief) | **Enkephalin / Cogito** | The fundamental energy substance |
-| **The Weeping** (underground river) | **The Well of Cogito / The River** | Source of all entities |
-| **The Alpha Tree** | **The Qliphoth Tree / Sephiroth** | The central structure connecting everything |
-| **The Veil** | **Containment barriers** | The system keeping sorrow suppressed |
-| **The Raw** (unmanaged areas) | **(uncontained sectors)** | Areas without suppression |
-| **Sorrow Tide** (nightly surge) | **Qliphoth Meltdown** | Periodic escalation event |
-| **Consolihan** (annual mourning) | **(special event / Ordeal spike)** | Annual sorrow spike |
-| **Fracture** (4 stages) | **Panic → Death/Transformation** | What happens when personnel break |
-| **Efflorescence** | **E.G.O synchronization** | Positive alternative to breaking |
-| **The Cheongula** (First Sorrow) | **(backstory catastrophe)** | The founding trauma |
-| **Absolvohan** | **(Tiphereth arc / special project)** | The plan to release all sorrow at once |
-| **Echoes** (crystallized memory currency) | **PE-Boxes (as currency)** | The energy used for trade/manufacture |
+| **Han** (collective structural grief) | **Cogito (source) / Enkephalin (output)** | System-position analogue only: structural sorrow-material vs drawn unconscious fluid and its refined output |
+| **The Weeping** (planetary river) | **The River · Bucket · Well system** | Reservoir analogue only: boundary-layer river crystallizing on its own vs an extraction system drawing from people (Ch. 1 §2A) |
+| **The Alpha Tree** | *(Sephiroth schema — tree-name resemblance only)* | Living nexus: roots in the Weeping, branches toward the Dream, foundations in the Abyss; not a department tree |
+| **The Veil** (civic) | *(no facility counterpart)* | Municipal sorrow-suppression/power order after the Cheongula; not the Dream Veil and not a containment-unit barrier |
+| **The Raw** (undercity) | **Backstreets (world plane)** | Lawless undercity beyond ordinary municipal reach; not an uncontained facility sector |
+| **Sorrow Tide** (nightly surge) | *(crisis-escalation analogue only)* | Nightly Dream-Bleed/Weeping surge; facility-facing pressure reads through Atmospheric Watches, not a countdown meltdown |
+| **Consolihan** (annual mourning) | *(no equivalent)* | Annual civic mourning/release and crystallization-moment amplifier; not an Ordeal attack wave |
+| **Fracture** (4 stages) | **Panic (acute analogue only)** | Staged Han-overload transformation of a person; panic is acute behaviour, Fracture is the breaking itself |
+| **Efflorescence** | **E.G.O manifestation (positive-outcome analogue only)** | Person-controlled bond/merger at the Fracture edge; the person remains human and in control — not a gear synchronization rate |
+| **The Cheongula** (First Sorrow) | *(no filed counterpart)* | Founding catastrophe still active as Maw/thousand, debt, Veil, and Consolihan — not past-only backstory |
+| **Absolvohan** (the plan) | **Seed of Light project (eschaton analogue only)** | Director release/confession plan in this row; facility, loop, and Dawn senses file separately — not a Tiphereth/arc name match |
+| **Echoes** (crystallized memory currency) | **PE-Boxes (output-unit analogue only)** | Civic memory-currency and debt backing vs facility energy-output boxes; never spend one as the other at intake |
 | **Zones A–E** | **City Districts** | Somnarak city zones (world plane); not Facility 01 departments |
 
 ### XIII. World Concepts Mapping
 
 | Somnarak | L Corp | Notes |
 |---|---|---|
-| **Han** (structural grief) | **Cogito / Enkephalin** | Fundamental energy substance |
-| **The Weeping** (underground river) | **The Well / The River** | Source of all entities |
-| **The Alpha Tree** | **The Qliphoth Tree** | Central structure |
-| **The Veil** | **Containment barriers** | Suppression system |
-| **Sorrow Tide** (nightly surge) | **Qliphoth Meltdown** | Periodic escalation |
-| **Consolihan** (annual mourning) | *(special event)* | Annual sorrow spike |
-| **Fracture** (4 stages) | **Panic → Death** | Personnel breakdown |
-| **Efflorescence** | **E.G.O synchronization** | Positive alternative to breaking |
-| **The Cheongula** (First Sorrow) | *(backstory catastrophe)* | Founding trauma |
-| **Absolvohan** | *(special project arc)* | Plan to release all sorrow |
-| **Echoes** (crystallized memory) | **PE-Boxes (as currency)** | Trade/manufacture unit |
+| **Han** (structural grief) | **Cogito (source) / Enkephalin (output)** | System-position analogue only, not one shared substance |
+| **The Weeping** (planetary river) | **The River · Bucket · Well system** | Reservoir analogue only (Ch. 1 §2A); source of Sorrow Entities by crystallization |
+| **The Alpha Tree** | *(Sephiroth schema — tree-name resemblance only)* | Living Dream/Weeping/Abyss nexus, not a department tree |
+| **The Veil** (civic) | *(no facility counterpart)* | Civic suppression/power order; distinct from the Dream Veil |
+| **Sorrow Tide** (nightly surge) | *(crisis-escalation analogue only)* | Nightly surge; facility read = Atmospheric Watches |
+| **Consolihan** (annual mourning) | *(no equivalent)* | Civic mourning/release, not an Ordeal wave |
+| **Fracture** (4 stages) | **Panic (acute analogue only)** | Staged personnel transformation, not panic alone |
+| **Efflorescence** | **E.G.O manifestation (positive-outcome analogue only)** | Person-controlled bond/merger at the Fracture edge; the person remains human and in control — not a gear synchronization rate |
+| **The Cheongula** (First Sorrow) | *(no filed counterpart)* | Founding catastrophe with living institutional aftermath |
+| **Absolvohan** (the plan) | **Seed of Light project (eschaton analogue only)** | Release/confession plan only in this row |
+| **Echoes** (crystallized memory) | **PE-Boxes (output-unit analogue only)** | Civic currency vs facility output unit |
 
 ### XIX. Somnarak-Specific Systems (No Direct L Corp Equivalent)
 
 | Somnarak System | Function | Closest L Corp Equivalent |
 |---|---|---|
 | **R.D. Attributes** (Composure, Resolve, Clarity, Resilience) | Personnel stats for handling Han Effects | Employee stats (Fortitude, Prudence, Temperance, Justice) — see §IX for crossover mechanic |
-| **Sorrow Gauge [HP]** | Entity containment pressure (X/X of 1000) | Qliphoth Counter + Mood bar |
+| **Sorrow Gauge [HP]** | Dossier sorrow/durability record and continuous pressure channel | HP source value for tier-multiplier derivation (not the Qliphoth Counter; the Threshold is the separate discrete channel) |
 | **Han Pressure [ATK]** | Entity damage output per hit | Work Damage value |
 | **H-Box (Han-Energy Box)** | Energy unit from successful work | PE-Box (Positive Enkephalin Box) |
-| **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Personnel transformation from Han overload | Panic → Death |
-| **Efflorescence** | Positive transformation (sorrow becomes strength) | E.G.O synchronization |
+| **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Personnel transformation from Han overload | Panic (acute analogue only) |
+| **Efflorescence** | Positive transformation: person-controlled bond at the Fracture edge (sorrow becomes strength) | E.G.O manifestation (positive-outcome analogue only) |
 | **M.A.W. Corrosion** | Equipment turning on user (4 stages) | E.G.O Corrosion |
-| **Sorrow Tide** | Nightly city-wide Han surge | Qliphoth Meltdown |
-| **Consolihan** | Annual mourning event (sorrow spike) | *(no equivalent — special event)* |
+| **Sorrow Tide** | Nightly city-wide Han surge (Dream-Bleed peak) | Atmospheric Watches when facility-facing (not a meltdown countdown) |
+| **Consolihan** | Annual mourning event (sorrow spike) | *(no equivalent — civic mourning/release, not an Ordeal)* |
 | **Ordeals** | External hostile events (5 Colors × 4 Watches) | Ordeals (6 Colors × 4 Times) |
-| **The Veil / The Raw** | Sorrow suppression system / unmanaged areas | Containment barriers / uncontained sectors |
+| **The Veil / The Raw** | Civic sorrow-suppression order / undercity beyond the wards | No facility barrier counterpart / Backstreets (world plane) |
 
 ### XX. Crossover Implications
 
@@ -1712,11 +1712,11 @@ When a Somnarak Sorrow Entity arrives in the L Corp universe through the Well of
 
 3. **R.D. Attribute Development:** L Corp employees exposed to Han would develop new stats (Composure, Resolve, Clarity, Resilience) that don't exist in standard employees. They start at Level 0 and accumulate points after surviving 3+ days of sustained exposure (see §IX).
 
-4. **Equipment Translation:** M.A.W. would be converted to E.G.O. The M.A.W. trio (Weapon / Suit / Gift) maps directly to E.G.O trio. M.A.W. Grade (α–ω) maps to E.G.O Grade (ZAYIN–ALEPH). Extraction method differs: Somnarak uses resonance; L Corp uses facility extraction systems.
+4. **Equipment Translation:** M.A.W. would be converted to E.G.O. The M.A.W. trio (Weapon / Suit / Stigma) files into the three E.G.O slots by role; Stigma occupies the Gift slot as an accessory analogue, not as a Gift. M.A.W. Grade (α–ω) maps to E.G.O Grade (ZAYIN–ALEPH). Extraction method differs: Somnarak uses resonance; L Corp uses facility extraction systems.
 
 5. **Damage Type Conversion:** Somnarak Elements map to L Corp Damage Types: Lament→WHITE, Grudge→RED, Void→PALE, Weight→BLACK. The entity's Han Pressure [ATK] converts to L Corp Work Damage via the ATK multiplier (§III).
 
-6. **HP Conversion:** Somnarak HP (X/X of 1000) converts to L Corp HP via the HP multiplier (§II). Always round up.
+6. **HP Conversion:** the dossier Sorrow Gauge record converts to L Corp HP via the filed tier multiplier (Chapter 4). Always round up; the Gauge is the source value, not a pre-converted HP pool.
 
 7. **Narrative Translation:** The Somnarak Story Log (5 entries) becomes L Corp Story tab entries. The Final Observation becomes a Final Observation event. The Tale and Testimony sections fold into the Story/lore. Entity Interactions and Registry Addendum have no L Corp equivalent and may be dropped or kept as supplementary lore.
 
@@ -1727,10 +1727,10 @@ When a Somnarak Sorrow Entity arrives in the L Corp universe through the Well of
 |SOMNARAK System|Function|L Corp Equivalent|
 |---|---|---|
 |**R.D. Attributes** (Composure, Resolve, Clarity, Resilience)|Personnel stats for handling Han|Employee stats (Fortitude, Prudence, Temperance, Justice)|
-|**Sorrow Gauge**|Entity containment pressure|Qliphoth Counter|
+|**Sorrow Gauge**|Continuous sorrow-pressure / HP source record|Tier-multiplier HP source; discrete breach counting is the separate Threshold channel|
 |**Han-Energy**|Energy produced from entities|Enkephalin (PE-Boxes)|
-|**Fracture** (4 stages)|Personnel transformation|Panic → Death|
-|**Efflorescence**|Positive transformation|E.G.O synchronization|
+|**Fracture** (4 stages)|Personnel transformation from Han overload|Panic (acute analogue only)|
+|**Efflorescence**|Positive transformation — person-controlled bond|E.G.O manifestation (positive-outcome analogue only)|
 |**M.A.W. Corrosion**|Equipment turning on user|E.G.O Corrosion|
 
 ### VIII. Crossover Implications

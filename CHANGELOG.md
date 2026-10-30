@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: carried owner-table analogues qualified in the manual (2026-10-30)
+
+- **Scope:** manual only (Ch. 2 organization tables, Ch. 9 World Concepts XII/XIII, Somnarak-Specific Systems XIX/VII, Crossover Implications XX). Standalone owner-original bodies were not rewritten; loose analogues were depth-tested and qualified in the carried copies, per rewrite-not-erase.
+- **Organization plane cleaned:** Menders/Wardens/Keepers/Collectors are no longer presented as Facility 01 departments — they file as Somnarak civic/Raw factions (repair/healing, municipal order/border defense vs Outside Sorrow, archive/memory, debt/Echo enforcement), facility-facing only by contract. Director Majin reads as founder-sovereign with dispatch explicitly seated at Containment Lead Dekan; Secretary Seiyon as Angela *memory function only* (one Echo-Core secretary, not a coordinator mind); Echo-Cores as floor-lead analogues carrying Door-names.
+- **World Concepts depth-tested:** Han = system-position analogue (Cogito source / Enkephalin output), not a shared substance; Weeping = River·Bucket·Well *system* analogue; Alpha Tree demoted from "Qliphoth Tree" to **tree-name resemblance only** (living Dream/Weeping/Abyss nexus); civic Veil separated from Dream Veil and given no facility-barrier counterpart; Raw read on the world plane (Backstreets), not as uncontained sectors; Sorrow Tide and Consolihan removed from meltdown/Ordeal event shapes; Cheongula filed as still-active founding catastrophe, Absolvohan-plan as Seed-project eschaton analogue only (Tiphereth/arc match removed), Echoes as civic memory-currency vs PE output units.
+- **Personnel-break language:** Fracture is staged Han-overload transformation with Panic as acute analogue only, everywhere it was flattened to "Panic → Death"; Efflorescence is a person-controlled bond at the Fracture edge (person remains human/in control) — E.G.O manifestation as positive-outcome analogue only, not a synchronization rate.
+- **Stale internal consistency fixed:** Sorrow Gauge rows no longer equate the Gauge with the Qliphoth Counter (HP source by tier multiplier; Threshold remains the discrete channel); Crossover Implications now files Weapon/Suit/**Stigma** (no direct Gift mapping) and derives HP from the dossier Gauge record via Chapter 4.
+
+
 ## Depth audit continued: section 1 matrix and 2A framing aligned to rebuilt law (2026-10-30)
 
 - **§1 core matrix** (comparison + manual copy): Threat Hierarchy now files Coherence I–V + Potency α–ω **by Threat Score** (was the garbled "Ranks I-V / a to w"); Breach Dynamics no longer flattens PS breach to Place Metamorphosis (roam/occupy by Range Band; metamorphosis only where filed); Crisis Mechanics states the shape difference (countdown events vs standing Watch states); Equipment Extraction carries the full triads (Weapon/Suit/Gift vs Weapon/Suit/Stigma); damage spectrum spelled out (Lament/Weight); containment discipline notes Hybrids file by component.
