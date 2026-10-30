@@ -141,7 +141,7 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 | Metric (facility plane) | Lobotomy Corporation | R.D. + The Absolvohan | Mechanics & Story Lore |
 |---|---|---|---|
 | **Energy Medium** | **Enkephalin** — Green fluid extracted from Abnormalities; refined into electrical power. | **Han-Energy (  한 에너지   )** — Acoustic-metaphysical resonance harvested from pacified Sorrow Entities. | Enkephalin powers the City's technological infrastructure; Han-Energy powers Somnarak's thermal hearths and barrier wards. |
-| **Work Output** | **PE-Boxes** (Positive Enkephalin) and **NE-Boxes** (Negative Enkephalin). | **Han-Energy Yield** per work cycle (08 to 40+ Han units). | PE-Boxes fill the facility's daily quota; Han-Energy fills municipal capacitors to stave off the freezing dark. |
+| **Work Output** | **PE-Boxes** (Positive Enkephalin) and **NE-Boxes** (Negative Enkephalin). | **Han-Energy Yield** per work cycle (08 to 40+ Han units). | PE-Boxes fill the facility's daily quota; Han-Energy fills municipal capacitors to stave off the freezing dark. In conversion, the physical PE-Box count files by tier band, while its quota value carries the **88% ordinary / 12% dense (×2.0–×2.5)** composition. |
 | **Daily Quota** | Daily quota threshold (e.g., 200–1,200 PE) required to conclude the work day. | Daily Han-Quota required to maintain Facility 01 containment barriers through the Absolvohan cycle. | Failure to meet daily quota triggers emergency overtime, panic, and structural containment instability. |
 | **Sanitation / Byproducts** | Minor Enkephalin gas fumes; cleansers scrub residue. | **Han-Brine (  염간수   / *Yeomgansu*)** — Caustic saline fluid that crystallizes into corrosive salt if left unburned. | Somnarak incorporates physical brine build-up that erodes floorboards, requiring Haz-scorchers (  화용반   ) to burn it off. |
 
@@ -187,7 +187,7 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 | **ALEPH / Rank V (ω)** | 2,000 – 10,000 HP (e.g. WhiteNight: 6,666 HP)| **1,000 – 12,000 HP** (e.g. Dawn of Mourning: 12,000 HP) | Multi-phase Sovereign Calamities and departmental Realizations. |
 | **Planetary Geography** | N/A | **N/A (Invulnerable / Unfightable)** | Natural oceans, continental landmasses, and polar tundra are Geography, not combatants. |
 
-**Filing note:** the PS bands above are comparison filing bands for converted/story use, not a replacement for dossier arithmetic. In conversion, HP derives from the dossier Sorrow Gauge by the filed tier multiplier (always rounding up); record values already filed in dossiers — e.g. the Dawn of Mourning historical Gauge record of 12,000 — stand as filed.
+**Filing note:** the PS bands above are comparison filing bands for converted/story use, not a replacement for dossier arithmetic. In conversion, HP derives from the dossier Sorrow Gauge by the density-weighted tier multiplier (**×0.5 ZAYIN · ×1.0 TETH · ×1.8 HE · ×9 WAW · ×19 ALEPH**, always rounding up), so a high-Threat output may stand far above the native analogue band; record values already filed in dossiers — e.g. the Dawn of Mourning historical Gauge record of 12,000 — stand as filed.
 
 ---
 
