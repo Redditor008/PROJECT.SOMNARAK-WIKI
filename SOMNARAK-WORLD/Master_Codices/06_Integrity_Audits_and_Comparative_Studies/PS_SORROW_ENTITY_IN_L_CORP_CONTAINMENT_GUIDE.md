@@ -257,7 +257,7 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 | Primary Energy Source | Enkephalin (PE/NE) | Han-Energy |
 | Entity Classification | Abnormalities | Sorrow Entities |
 | Threat Hierarchy | ZAYIN to ALEPH | Coherence I–V + Potency α–ω, filed by Threat Score |
-| Containment discipline (facility plane) | 4 Works (All Units) | Absolvohan works (2 locked for inanimate; 4 for Subjects; Hybrids by component) |
+| Containment discipline (facility plane) | 4 Works (All Units) | 4 Han Work Types (2 locked for inanimate; 4 for Subjects; Hybrids by component) |
 | Inanimate Restriction | Unrestricted | 2 Works (Vid/Fer) |
 | Damage Spectrum | RED/WHITE/BLACK/PALE | Grudge/Lament/Weight/Void |
 | Crisis Mechanics | Qliphoth Meltdowns & timed Ordeals | Han-Density Gauge → Ordeal Times (First/Second/Third/Tide Watch) |
@@ -961,31 +961,33 @@ A rated entity still has to be worked by people. This chapter pairs the four dis
 
 | L Corp Work Type | PS Analog | Subject SE | Inanimate SE [O/P/T] |
 |---|---|---|---|
-| Instinct Work | Ferrehan (End) | Common (PE) | Safe Extraction |
-| Insight Work | Viderehan (Obs) | High (PE) | High PE Yield |
-| Attachment Work | Flerehan (Cath) | Variable PE | **LETHAL BACKFIRE (0 PE)** |
-| Repression Work | Pugnahan (Clsh) | Counter Drop | **KINETIC BREACH (0 PE)** |
+| Instinct Work | Ferrehan (End) | Pos High · Neg Moderate — exhaustion risk | Permitted — Gravitational Bearing |
+| Insight Work | Viderehan (Obs) | Pos Low · Neg Low — mental-fatigue risk | Permitted — Memory Witnessing |
+| Attachment Work | Flerehan (Cath) | Pos Moderate · Neg Low — emotional-drain risk | **PROHIBITED — filed backfire (0 PE)** |
+| Repression Work | Pugnahan (Clsh) | Pos High · Neg High — physical-damage risk | **PROHIBITED — filed backfire (0 PE)** |
 
+
+Subject-column profiles are the R.D. codex's generic Positive/Negative Han-Energy tendencies per discipline. They profile the *discipline*, never the entity: converted work favor, PE yield, and counter movement read from the entity's Behavior table and filed counter law (Work-Outcome Translation in Detail, this chapter).
 
 In Lobotomy Corporation, agents are accustomed to performing Instinct, Insight, Attachment, and Repression on almost every Abnormality. **With Sorrow Entities, this standard operating procedure will cause immediate fatalities if applied blindly.**
 
 #### 1. Subject Entities (`[S]` — Mobile, Conscious Forms)
 For entities classified with a Subject manifestation (e.g., *The Whispering Confessional* `SE-C-Iα-033 [LS]`, *Marksman of the Seventh Watch* `SE-C-IVδ-069 [GS]`):
-- **Insight Work (Viderehan Analog):** Agent monitors the entity's acoustic breathing and posture from within the chamber. Yields common/good results; stabilizes low-potency entities.
-- **Instinct Work (Ferrehan Analog):** Agent endures the chamber's heavy atmospheric pressure and cold. Yields high PE-Boxes; recommended for high-Resilience agents.
-- **Attachment Work (Flerehan Analog):** Agent communicates empathetically, weeping with the entity. Highly polarized: if the agent possesses Level V Prudence and high Composure, it yields massive PE-Boxes; if the agent fails, their SP collapses into immediate suicidal panic.
-- **Repression Work (Pugnahan Analog):** Agent deploys suppression batons to strike the entity. High physical risk: temporarily lowers breach agitation, but rapidly degrades the Qliphoth Counter if performed repeatedly.
+- **Insight Work (Viderehan Analog):** Agent monitors the entity's acoustic breathing and posture from within the chamber. The lowest-energy discipline (Pos Low · Neg Low) and the highest Comprehension yield in the codex; outcome and counter movement read from the Behavior table.
+- **Instinct Work (Ferrehan Analog):** Agent endures the chamber's heavy atmospheric pressure and cold (Pos High · Neg Moderate; exhaustion risk) — staff high-Resilience agents; yield reads from the Behavior table.
+- **Attachment Work (Flerehan Analog):** Agent communicates empathetically, weeping with the entity (Pos Moderate · Neg Low; emotional-drain risk). Staff by Composure (primary, §IV.3); where the dossier files polarized Flerehan outcomes or a named failure effect, the filed line binds as written.
+- **Repression Work (Pugnahan Analog):** Agent deploys suppression batons to strike the entity (Pos High · Neg High; physical-damage risk). Counter movement follows the filed counter law — repeated Repression never substitutes as a counter mechanic.
 
 #### 2. Inanimate Entities (`[O]`, `[P]`, `[T]` — Relics, Places, Times; `[H]` Hybrids by Component)
 **THE MANAGER MUST ENFORCE THE TWO-WORK-TYPE RULE WITHOUT EXCEPTION:**
 - **Hybrid (`[H]`) entities** file multiple manifestation types: apply this rule to each inanimate component, and work any filed Subject component under item 1 above. `[H]` reads **Hybrid** in the SECC code list.
-- **Instinct & Insight Work:** The ONLY permitted actions. The agent observes energy oscillations (Insight) or reinforces physical isolation seals (Instinct).
+- **Instinct & Insight Work:** The ONLY permitted actions, filed in the codex as **Ferrehan (Gravitational Bearing)** and **Viderehan (Memory Witnessing)** on inanimate entities. The agent witnesses and records energy oscillations (Insight) or bears and reinforces physical isolation seals (Instinct).
 - **Attachment Work — LETHAL PSYCHIC COLLAPSE:**  
   * *Reason:* An inanimate relic, an empty flooded district, or a temporal rift possesses no personal psyche to comfort.
-  * *Consequence:* The agent attempts to project human empathy into a lifeless void. The void reflects nothing back, instantly draining 100% of the agent's SP. The agent panics immediately, screams in an unknown tongue, and dies of cerebral hemorrhage. Zero PE-Boxes produced.
+  * *Consequence:* The agent attempts to project human empathy into a lifeless void, and the void reflects nothing back. Automatic work failure and severe psychic backfire follow — filed presentations run to full SP collapse, screaming in an unknown tongue, and cerebral hemorrhage — with a Sorrow Gauge surge where a Gauge channel is filed. Zero PE-Boxes produced. The dossier's own backfire line binds where it differs.
 - **Repression Work — KINETIC CONTAINMENT RUPTURE:**  
   * *Reason:* An inanimate monument or geographic district has no biological anatomy to strike.
-  * *Consequence:* The kinetic energy of the agent's weapon deflects off the entity's indestructible bedrock. The reflected shockwave shatters the chamber's containment glass, instantly reducing the Qliphoth Counter to 0 and triggering a catastrophic breach.
+  * *Consequence:* The kinetic energy of the agent's weapon deflects off the entity's indestructible bedrock. The reflected shockwave can shatter the chamber's containment glass, and the filed counter channel is driven exactly as the dossier's backfire line files it — automatic failure, never a usable counter mechanic.
 
 #### 3. R.D. Attributes — Levels, Work Interactions, and Nugget Acquisition (owner's Attribute Levels add-on)
 
@@ -1061,11 +1063,11 @@ Somnarak's Work Type table (Response + Gauge Change per type) maps directly to L
 
 | Somnarak Stat | L Corp Equivalent | What It Measures |
 |---|---|---|
-| **Clarity** | **Prudence / Sanity (SP)** | Mental clarity, ability to resist WHITE/PALE |
-| **Composure** | **Temperance** | Emotional stability, ability to resist WHITE |
+| **Clarity** | **Prudence / Sanity (SP)** | Max SP (mental health); Void-element (PALE) resistance, memory retention |
+| **Composure** | **Temperance** | Emotional control; Grudge-element resistance, work speed, Flerehan & M.A.W. bonding stability |
 | **Resilience** | **Fortitude / HP** | Physical toughness, ability to resist RED |
-| **Resolve** | **Justice** | Willpower, overall competence |
-| **Fracture** (Stage 1–4) | **Panic** (various types) | What happens when Sanity hits 0 |
+| **Resolve** | **Justice** | Willpower; Weight-element resistance, movement speed, Ferrehan endurance |
+| **Fracture** (Stage 1–4) | **Panic** (acute analogue only) | Staged soul-breaking under Han overload; panic is the acute behaviour at SP 0, Fracture is the breaking itself |
 | **Architect's Mark** | **(no direct equivalent)** | Somnarak-specific: physical changes from Han exposure |
 
 ### XIV. R.D. Attribute System (L Corp Crossover Mechanic)
@@ -1078,7 +1080,7 @@ Each attribute ranges from **1 (lowest) to 100 (highest)**. Points accumulate ov
 
 | Composure | Resolve | Clarity | Resilience |
 |---|---|---|---|
-| Emotional stability — resistance to Lament/WHITE | Willpower — resistance to Weight/BLACK | Mental clarity — resistance to Void/PALE | Physical toughness — resistance to Grudge/RED |
+| Emotional control — Grudge-element resistance; work speed, bonding stability | Willpower — Weight-element resistance; movement speed | Mental stability — Max SP; Void-element resistance | Physical endurance — Max HP; physical (Grudge/RED) damage resistance |
 
 #### Attribute Levels
 
@@ -1162,11 +1164,11 @@ An L Corp employee works on an imported Somnarak Grudge entity (RED damage) for 
 
 | Somnarak Stat | L Corp Equivalent | What It Measures |
 |---|---|---|
-| **Clarity** | **Prudence** | Mental clarity; resist WHITE/PALE |
-| **Composure** | **Temperance** | Emotional stability; resist WHITE |
+| **Clarity** | **Prudence** | Max SP (mental health); resist Void/PALE, memory retention |
+| **Composure** | **Temperance** | Emotional control; resist Grudge, work speed, Flerehan & bonding stability |
 | **Resilience** | **Fortitude / HP** | Physical toughness; resist RED |
-| **Resolve** | **Justice** | Willpower; overall competence |
-| **Fracture** (Stage 1–4) | **Panic** (various types) | What happens when Sanity hits 0 |
+| **Resolve** | **Justice** | Willpower; resist Weight, movement speed, Ferrehan endurance |
+| **Fracture** (Stage 1–4) | **Panic** (acute analogue only) | Staged soul-breaking under Han overload; panic is the acute behaviour at SP 0, Fracture is the breaking itself |
 | **Architect's Mark** | *(no direct equivalent)* | Somnarak-specific: physical changes from Han exposure |
 
 ### IX. R.D. Attribute System (L Corp Crossover Mechanic)
@@ -1177,7 +1179,7 @@ An L Corp employee works on an imported Somnarak Grudge entity (RED damage) for 
 
 | Composure | Resolve | Clarity | Resilience |
 |---|---|---|---|
-| Emotional stability — resists Lament/WHITE | Willpower — resists Weight/BLACK | Mental clarity — resists Void/PALE | Physical toughness — resists Grudge/RED |
+| Emotional control — resists Grudge; work speed, bonding stability | Willpower — resists Weight; movement speed | Mental stability — Max SP; resists Void | Physical endurance — Max HP; resists physical (Grudge/RED) damage |
 
 Each ranges from **1 (lowest) to 100 (highest)**. Points accumulate through sustained Han exposure.
 
@@ -1227,11 +1229,11 @@ Each ranges from **1 (lowest) to 100 (highest)**. Points accumulate through sust
 
 ### 7. Containment Disciplines & The Two-Work-Type Rule
 
-Lobotomy Corporation uses four standardized work types. Somnarak formalizes containment through **The Absolvohan** (  해원한   / *Haewonhan*):
+Lobotomy Corporation uses four standardized work types. Somnarak formalizes containment through four Han Work Types under the **Work Type Law** (the R.D. codex filing):
 
 #### 7.1 Direct Work Type Translation
 
-| Lobotomy Corp Work | Somnarak Absolvohan Work | Meaning & Method | Tested Employee / Operative Stat |
+| Lobotomy Corp Work | Somnarak Work Type | Meaning & Method | Tested Employee / Operative Stat |
 |---|---|---|---|
 | **Instinct** (Physical care) | **Ferrehan (  인내한   / *Innaehan*)** | **Endurance** — Entering the unit to physically endure ambient pressure and cold. | Fortitude (LC) / **Resilience** & **Resolve** (PS) |
 | **Insight** (Environment care) | **Viderehan (  관조한   / *Gwanjohan*)** | **Observation** — Monitoring acoustic frequencies and resonance from safety. | Prudence (LC) / **Clarity** & **Composure** (PS) |
@@ -1244,16 +1246,16 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 - **Flerehan and Pugnahan are strictly `N/A`:**
   * Inanimate objects, rooms, and temporal phenomena have no emotional consciousness to comfort (invalidating Flerehan).
   * Inanimate relics and districts have no biological body or anatomical center to strike (invalidating Pugnahan).
-  * Performing Flerehan or Pugnahan on an inanimate SE causes automatic work failure, severe psychic backfire, and an immediate Sorrow Gauge surge.
+  * Performing Flerehan or Pugnahan on an inanimate SE causes automatic work failure and severe psychic backfire, driving whichever counter channel the dossier files (a Sorrow Gauge surge where a Gauge channel exists).
 
 ### 12. Employee / Operative Core Attributes
 
 | Lobotomy Corporation Attribute | Governed Metric | Project Somnarak Attribute | Governed Metric |
 |---|---|---|---|
-| **Fortitude** | Max HP (Physical Durability) | **Resilience (  회복력   )** | Max HP, physical wound recovery, armor carry capacity. |
-| **Prudence** | Max SP (Mental Durability) | **Clarity (  명징성   )** | Max Composure, acoustic frequency detection, observation precision. |
-| **Temperance** | Work Success Rate & Work Speed | **Composure (  침착성   )** | Emotional stability, resistance to Lament/Weight drain, Flerehan stability. |
-| **Justice** | Attack Speed & Movement Speed | **Resolve (  결의   )** | Speed-scaled Action Points (AP), Pugnahan clash power, parry chance. |
+| **Fortitude** | Max HP (Physical Durability) | **Resilience (  회복력   )** | Max HP, physical-damage resistance, heavy M.A.W. carry, shift endurance. |
+| **Prudence** | Max SP (Mental Durability) | **Clarity (  명징성   )** | Max SP (mental health), Void-element resistance, Dream/reality distinction, memory retention. |
+| **Temperance** | Work Success Rate & Work Speed | **Composure (  침착성   )** | Work speed, Grudge-element resistance, Flerehan performance, M.A.W. bonding stability. |
+| **Justice** | Attack Speed & Movement Speed | **Resolve (  결의   )** | Movement speed, Weight-element resistance, Ferrehan endurance, leadership under pressure. |
 
 **Filing note:** these are nearest aptitude analogues, printed one-to-one for orientation. Work in both systems actually tests *paired* attributes (§7.1); an LC stat never substitutes for the PS pair it is printed beside, and LC stats show aptitude only — R.D. Attribute levels are earned by exposure.
 

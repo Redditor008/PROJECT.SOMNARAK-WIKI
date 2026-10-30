@@ -34,7 +34,7 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 | Primary Energy Source | Enkephalin (PE/NE) | Han-Energy |
 | Entity Classification | Abnormalities | Sorrow Entities |
 | Threat Hierarchy | ZAYIN to ALEPH | Coherence I–V + Potency α–ω, filed by Threat Score |
-| Containment discipline (facility plane) | 4 Works (All Units) | Absolvohan works (2 locked for inanimate; 4 for Subjects; Hybrids by component) |
+| Containment discipline (facility plane) | 4 Works (All Units) | 4 Han Work Types (2 locked for inanimate; 4 for Subjects; Hybrids by component) |
 | Inanimate Restriction | Unrestricted | 2 Works (Vid/Fer) |
 | Damage Spectrum | RED/WHITE/BLACK/PALE | Grudge/Lament/Weight/Void |
 | Crisis Mechanics | Qliphoth Meltdowns & timed Ordeals | Han-Density Gauge → Ordeal Times (First/Second/Third/Tide Watch) |
@@ -193,11 +193,11 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 
 ## 7. Containment Disciplines & The Two-Work-Type Rule
 
-Lobotomy Corporation uses four standardized work types. Somnarak formalizes containment through **The Absolvohan** (  해원한   / *Haewonhan*):
+Lobotomy Corporation uses four standardized work types. Somnarak formalizes containment through four Han Work Types under the **Work Type Law** (the R.D. codex filing):
 
 ### 7.1 Direct Work Type Translation
 
-| Lobotomy Corp Work | Somnarak Absolvohan Work | Meaning & Method | Tested Employee / Operative Stat |
+| Lobotomy Corp Work | Somnarak Work Type | Meaning & Method | Tested Employee / Operative Stat |
 |---|---|---|---|
 | **Instinct** (Physical care) | **Ferrehan (  인내한   / *Innaehan*)** | **Endurance** — Entering the unit to physically endure ambient pressure and cold. | Fortitude (LC) / **Resilience** & **Resolve** (PS) |
 | **Insight** (Environment care) | **Viderehan (  관조한   / *Gwanjohan*)** | **Observation** — Monitoring acoustic frequencies and resonance from safety. | Prudence (LC) / **Clarity** & **Composure** (PS) |
@@ -210,7 +210,7 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 - **Flerehan and Pugnahan are strictly `N/A`:**
   * Inanimate objects, rooms, and temporal phenomena have no emotional consciousness to comfort (invalidating Flerehan).
   * Inanimate relics and districts have no biological body or anatomical center to strike (invalidating Pugnahan).
-  * Performing Flerehan or Pugnahan on an inanimate SE causes automatic work failure, severe psychic backfire, and an immediate Sorrow Gauge surge.
+  * Performing Flerehan or Pugnahan on an inanimate SE causes automatic work failure and severe psychic backfire, driving whichever counter channel the dossier files (a Sorrow Gauge surge where a Gauge channel exists).
 
 ---
 
@@ -289,10 +289,10 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 
 | Lobotomy Corporation Attribute | Governed Metric | Project Somnarak Attribute | Governed Metric |
 |---|---|---|---|
-| **Fortitude** | Max HP (Physical Durability) | **Resilience (  회복력   )** | Max HP, physical wound recovery, armor carry capacity. |
-| **Prudence** | Max SP (Mental Durability) | **Clarity (  명징성   )** | Max Composure, acoustic frequency detection, observation precision. |
-| **Temperance** | Work Success Rate & Work Speed | **Composure (  침착성   )** | Emotional stability, resistance to Lament/Weight drain, Flerehan stability. |
-| **Justice** | Attack Speed & Movement Speed | **Resolve (  결의   )** | Speed-scaled Action Points (AP), Pugnahan clash power, parry chance. |
+| **Fortitude** | Max HP (Physical Durability) | **Resilience (  회복력   )** | Max HP, physical-damage resistance, heavy M.A.W. carry, shift endurance. |
+| **Prudence** | Max SP (Mental Durability) | **Clarity (  명징성   )** | Max SP (mental health), Void-element resistance, Dream/reality distinction, memory retention. |
+| **Temperance** | Work Success Rate & Work Speed | **Composure (  침착성   )** | Work speed, Grudge-element resistance, Flerehan performance, M.A.W. bonding stability. |
+| **Justice** | Attack Speed & Movement Speed | **Resolve (  결의   )** | Movement speed, Weight-element resistance, Ferrehan endurance, leadership under pressure. |
 
 **Filing note:** these are nearest aptitude analogues, printed one-to-one for orientation. Work in both systems actually tests *paired* attributes (§7.1); an LC stat never substitutes for the PS pair it is printed beside, and LC stats show aptitude only — R.D. Attribute levels are earned by exposure.
 
