@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: Protocol Case Patterns (2026-10-31)
+
+- **Four case bullets rebuilt as six combinable overlays (manual Ch. 10):** the patterns now recognize filed configurations rather than sorting entities by Risk, body type, or case resemblance: **Anchored event body**, **Place-as-room with a registered state**, **Fragment at an interface**, **Sustained operator session**, **Irrevocably consumed discharge**, and **Split-scope percentages and conditions**. The worked anchors contribute reasoning and stop rules only; patterns can combine (Double Mouth **A + F**, Learned Your Face **C + D**), and none supplies a designation, tier, stat, work value, operation, counter, or department.
+- **Critical misclassifications retired:** the old Pattern B called the fixed, activation-only Conservatory and Learned Your Face a “combatant with range or pattern skills,” inviting roaming movement neither worked case files. Pattern A no longer assigns “TETH-class numbers” to a low-Score shape or assumes the common failure is an invented counter; the Maw pattern now carries its unattested state/return and department bounds, and the Tool pattern no longer puts “every limit” in Threshold while flattening Gauge conditions. The section states expressly that no repaired worked case supplies a roaming-combatant template. CMP §4 carries the compact case-pattern boundary.
+- **Scope boundary:** Institutional Sign-Off, Appendices A–B, Guide/CMP §13.2 syndicate descriptions, duplicated carried tables, operation/item-designation conflicts, and Master Codices 02/03/05 whole-structure reads remain pending.
+
 ## Depth audit continued: Field-Source Check (2026-10-31)
 
 - **Finished-record trace rebuilt field by field (manual Ch. 10):** the old eleven-row check now follows Appendix B and the Conversion Order through frame/source map, designation, housing and scale, Risk, HP, Work Damage and riders, resistances, physical PE, quota value, work or Tool method, personnel exposure, counter channels, event/suppression, extracted E.G.O, original Tool/relic, record gates, department, and Appendix coverage. Each output must trace to a filed dossier input, manual derivation or frame law, facility-timeline fact, explicitly retained home-only layer, or **HOLD**; the check proves provenance without deriving or patching the audited field.

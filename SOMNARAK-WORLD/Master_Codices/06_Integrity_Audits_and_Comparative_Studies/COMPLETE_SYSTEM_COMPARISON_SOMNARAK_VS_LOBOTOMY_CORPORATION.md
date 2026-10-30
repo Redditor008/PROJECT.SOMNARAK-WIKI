@@ -154,6 +154,8 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 
 **Field-source boundary (conversion):** after facility verification, every Appendix B field must trace backward to a filed dossier input, manual derivation or frame law, facility-timeline fact, explicitly retained home-only layer, or **HOLD**. Physical PE count and density-adjusted quota value are separate traces, and department traces to one actually available housing unit plus settled footprint, event, work, counter, and custody inputs—not to Risk, body type, or a department name alone. Native analogues may give the finished record a plausibility read, but they never generate or repair a field.
 
+**Case-pattern boundary (conversion):** the manual's case patterns are combinable overlays recognized from filed configurations, not a mutually exclusive taxonomy keyed to Risk, body type, or a case name. An anchored event does not become roaming because it has Combat Actions; a Tool's body class does not settle its operation; a Fragment completion and a split-scope counter remain **HOLD** where the evidence is incomplete; and a consumed relic gains no repeat-use loop. A pattern contributes questions and stop rules only—never a code, tier, stat, work value, department, or story fact.
+
 ---
 
 ## 5. Entity Classification & Threat Tiers
