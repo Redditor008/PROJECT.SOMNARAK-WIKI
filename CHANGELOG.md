@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Depth audit continued: section 1 matrix and 2A framing aligned to rebuilt law (2026-10-30)
+
+- **§1 core matrix** (comparison + manual copy): Threat Hierarchy now files Coherence I–V + Potency α–ω **by Threat Score** (was the garbled "Ranks I-V / a to w"); Breach Dynamics no longer flattens PS breach to Place Metamorphosis (roam/occupy by Range Band; metamorphosis only where filed); Crisis Mechanics states the shape difference (countdown events vs standing Watch states); Equipment Extraction carries the full triads (Weapon/Suit/Gift vs Weapon/Suit/Stigma); damage spectrum spelled out (Lament/Weight); containment discipline notes Hybrids file by component.
+- **§2A framing:** the Two Rivers intro no longer calls PM's river "collective human sorrow" — it is the collective deep, whole subconscious there and sorrow only here (as §2A's own differences paragraph already held). The access-structure row now registers the Floor 3 **Lament Well** as the third well beside Abyssal Well and PM Well; the philosophical-terminus cell registers the Dawn's filed 15% transmutation without repealing Han's indestructibility; G4's loose "dreams" tightened to sleep so the geometry does not trade on the Dream-Realm term.
+
+
 ## Depth audit continued: comparison sections 3-19 re-tested against system codices (2026-10-30)
 
 - **§3/§17 command depth:** the Manager/Angela chairs are now filed as splits, not 1-to-1 pairs — Director Majin (sovereign, Floor 1) + Containment Lead Dekan (dispatch seat), and nine Echo-Core Floor Secretaries vs one loop-remembering coordinator (per `The_REVERIE_DIRECTORATE`).
