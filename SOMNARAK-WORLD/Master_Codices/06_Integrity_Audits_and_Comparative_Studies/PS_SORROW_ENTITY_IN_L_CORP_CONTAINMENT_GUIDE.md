@@ -733,19 +733,19 @@ Threat Score = Potency Rank + Coherence Rank
 
 The Sephirah Council classifies incoming Sorrow Entities into Lobotomy Corporation's standard five-tier Hebrew risk hierarchy based on their SECC Coherence Rank and Potency Grade:
 
-| Lobotomy Corp Risk Level | Threat Score | Somnarak Coherence & Potency | Standard HP Bar | Attack Value | Max PE-Boxes | Qliphoth Counter | Primary Damage Type |
+| Lobotomy Corp Risk Level | Threat Score | Somnarak Coherence & Potency | Dossier Gauge [HP] band (input) | Attack Value | Max PE-Boxes | Qliphoth Counter | Primary Damage Type |
 |---|---|---|---|---|---|---|---|
-| **ZAYIN** | 2–3 | **Rank I (Residue) / Grade α** | 150 – 300 HP | 06 – 14 DMG | 10 – 14 PE | 2 – 3 | RED (Grudge) or WHITE (Lament) |
-| **TETH** | 4–5 | **Rank II (Echo) / Grade β** | 300 – 500 HP | 12 – 22 DMG | 14 – 18 PE | 2 – 4 | RED, WHITE, or BLACK (Weight) |
-| **HE** | 6 | **Rank III (Fragment) / Grade γ** | 500 – 750 HP | 18 – 35 DMG | 18 – 24 PE | 1 – 3 | BLACK (Weight) or PALE (Void) |
-| **WAW** | 7–8 | **Rank IV (Entity) / Grade δ** | 750 – 1,000 HP | 30 – 55 DMG | 24 – 32 PE | 1 – 2 | Dual-Element / Multi-Hit |
-| **ALEPH** | 9–10 | **Rank V (Sovereign) / Grade ω** | 1,000 – 12,000 HP | 50 – 80+ DMG | 32 – 40 PE | 1 – 3 | All Four Elements Cycled |
+| **ZAYIN** | 2–3 | **Rank I (Residue) / Grade α** | 150 – 300 HP | 06 – 14 DMG | 10 – 14 PE | 2 – 3 | By dossier Element (Section V) — tier never assigns damage type |
+| **TETH** | 4–5 | **Rank II (Echo) / Grade β** | 300 – 500 HP | 12 – 22 DMG | 14 – 18 PE | 2 – 4 | By dossier Element (Section V) |
+| **HE** | 6 | **Rank III (Fragment) / Grade γ** | 500 – 750 HP | 18 – 35 DMG | 18 – 24 PE | 1 – 3 | By dossier Element (Section V) |
+| **WAW** | 7–8 | **Rank IV (Entity) / Grade δ** | 750 – 1,000 HP | 30 – 55 DMG | 24 – 32 PE | 1 – 2 | By dossier Element (Section V); patterns as dossiered |
+| **ALEPH** | 9–10 | **Rank V (Sovereign) / Grade ω** | 1,000 – 12,000 HP | 50 – 80+ DMG | 32 – 40 PE | 1 – 3 | By dossier Element (Section V) |
 #### Threat Score rule and stat derivation (owner's Transformation Table)
 
 Tier is set by the owner's **Threat Score** — read from the transformation tables at the head of this chapter: **Score = Coherence rank + Potency rank** (I/α = 1 … V/ω = 5) → **2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH**. Off-diagonal pairs need no tie-break; the sum decides, and it *upgrades or downgrades* the diagonal read upward or downward (the Maw IV + ω = 9, ALEPH, as rostered in Section VIII; a ω + I entity is 6, HE — catastrophic potency in a residue body is dangerous, not sovereign). The Rank/Grade column above remains the diagonal reference. Within the tier:
 
-- **HP** = `ceil(dossier Sorrow Gauge [HP] × tier multiplier)` — **×0.2** ZAYIN · **×0.4** TETH · **×1.8** HE · **×4** WAW · **×10** ALEPH. **Every converted number is a whole number, always rounded UP; no decimals** (owner's rule). The result is checked against the tier band above; outside it, the figure is flagged, never silently rescaled.
-- **Work damage** type comes from the entity's Element (Section V); values = `ceil(Han Pressure × tier multiplier)` inside the owner's ranges — **×0.5–1.0** ZAYIN · **×1.2–1.4** TETH · **×1.4–1.8** HE · **×1.0–1.8** WAW · **×0.5–1.0 ALEPH plus Instant Death mechanics** (HE is the peak raw-damage tier; ALEPH trades per-hit damage for Instant Death / Instant Fracture). Intake fixes one value inside the range and files it; the Attack band above remains the sanity check, and no scene re-rolls a filed value.
+- **HP** = `ceil(dossier Sorrow Gauge [HP] × tier multiplier)` — **×0.2** ZAYIN · **×0.4** TETH · **×1.8** HE · **×4** WAW · **×10** ALEPH. **Every converted number is a whole number, always rounded UP; no decimals** (owner's rule). The dossier Gauge is checked against its Dossier Gauge band above before multiplying; a base outside the band is flagged with the arithmetic shown, and the derived figure stands — never silently rescaled.
+- **Work damage** type comes from the entity's Element (Section V); values = `ceil(Han Pressure × tier multiplier)` inside the owner's ranges — **×0.5–1.0** ZAYIN · **×1.2–1.4** TETH · **×1.4–1.8** HE · **×1.0–1.8** WAW · **×0.5–1.0 ALEPH** (HE is the peak raw-damage tier; Instant Death / Instant Fracture outcomes convert only where the dossier files them — never added by tier). Intake fixes one value inside the range and files it; the Attack band above remains the sanity check, and no scene re-rolls a filed value.
 - **Max PE-Boxes** follow the tier band above, before the Heavy Han Density adjustment of Section I.
 - **Counters** are set from the dossier's two mechanisms — Sorrow Gauge behavior and Activation Thresholds — per the Counters subsection below. An SE may file either, both, or neither (**Counter: —**); the tier band above bounds the Gauge channel's counter value where one is filed, and every condition that moves either channel is named from the dossier (a denial published, a resemblance introduced, a gaze sustained), never "random".
 - **Work favorability** is translated from the dossier's own Behavior table: Gauge *Decrease* → the analog work is favored; *Stable* → Common; *Increase* → disfavored and normally locked by management rule; *N/A* → prohibited under the Two-Work-Type Law (Section IV). Outcome ranges are then set inside the tier's PE band.
@@ -780,7 +780,7 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 |---|---|---|---|
 | Subject Number | Sorrow Category + Origin + Tale; Entity/Tool Type + form + appearance; SECC number | Chapter 3 three-field read | Assigned once; aliases never renumber it |
 | Risk Level | Coherence rank + Potency rank | Threat Score → tier band | Score decides; diagonal expectation is only a check |
-| HP | Sorrow Gauge [HP] | `ceil(Gauge × tier HP multiplier)` | Check against tier band; flag outside, never rescale silently |
+| HP | Sorrow Gauge [HP] | `ceil(Gauge × tier HP multiplier)` | Base checked against its dossier tier band; flag outside with the arithmetic shown, never rescale silently |
 | Work damage | Han Pressure [ATK] + Element | `ceil(Pressure × filed ATK multiplier)`; Element → color | One multiplier inside the tier range is chosen and filed at intake |
 | PE-Boxes | Han Yield + Risk tier | Tier PE band, read with work outcomes | No 1:1 exchange rate; the dossier yield stays in the worksheet |
 | Qliphoth Counter | Sorrow Gauge channel and/or Activation Threshold channel | Chapter 4 counter derivation; operations in Chapter 6 | Channel to channel only; absent channel stays absent |
@@ -793,9 +793,9 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 
 ### Durability Calibration — Facility HP and Sovereign Scale
 
-The dossier Gauge is a home-scale durability record. Most contained SEs file it inside the familiar thousand-point ledger; the LC HP bar is then a facility-scale output of the multiplier, checked against the tier band. Three cases need explicit handling:
+The dossier Gauge is a home-scale durability record. Most contained SEs file it inside the familiar thousand-point ledger; the LC HP bar is then a facility-scale output of the multiplier; the input is checked against the dossier tier band. Three cases need explicit handling:
 
-- **Standard contained body.** Gauge filed, body housable, breach suppressible by department staff. Derive HP and file it. A result outside the band is flagged in the conversion note with the arithmetic shown.
+- **Standard contained body.** Gauge filed, body housable, breach suppressible by department staff. Derive HP and file it. A base outside its band is flagged in the conversion note with the arithmetic shown.
 - **Macro or sovereign body.** The dossier files district scale, a Place body, a raid-scale Gauge, or multi-phase organs. Do not shrink the entity to make the arithmetic pretty. House it under the Place/extraction rules in Chapter 1, file any Well-attenuated breach scale as a frame fact, and let the HP output stand where the formula puts it. Suppression planning becomes a departmental campaign, not a one-room work problem.
 - **Geography, not an entity.** A landmass, ocean, climate, or regional feature with no SE dossier is not an intake. File HOLD and route the story to world geography, not containment.
 
@@ -821,7 +821,7 @@ Where the dossier files stagger thresholds, translate them as filed behavior: a 
 
 **NOTE: Every number must be a whole number — always round UP (ceil). No decimals.**
 
-**Example:** Somnarak entity has 415/1000 HP, Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**.
+**Example:** Somnarak entity has 415/1000 Gauge [HP] (inside the TETH dossier band 300–500), Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**, and the derived figure stands as computed.
 
 ### II. HP Conversion
 
@@ -837,7 +837,7 @@ Somnarak uses **X/X of 1000** for entity HP. L Corp uses absolute HP values. Con
 
 **RULE: Every number must be a whole number — always round UP (ceil). No decimals.**
 
-**Example:** Somnarak entity has 415/1000 HP, Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**.
+**Example:** Somnarak entity has 415/1000 Gauge [HP] (inside the TETH dossier band 300–500), Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**, and the derived figure stands as computed.
 
 ### 6. Health Pools (HP) & Durability Scaling (The 10,000 HP Update)
 
@@ -858,15 +858,15 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 
 | L Corp Risk Level | ATK Multiplier | Formula |
 |---|---|---|
-| ZAYIN | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` |
-| TETH | ×1.2–1.4 | `ceil(base_ATK × rand(1.2, 1.4))` |
-| HE | ×1.4–1.8 | `ceil(base_ATK × rand(1.4, 1.8))` |
-| WAW | ×1.0–1.8 | `ceil(base_ATK × rand(1.0, 1.8))` |
-| ALEPH | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` — but add **Instant Death** mechanics |
+| ZAYIN | ×0.5–1.0 | `ceil(base_ATK × m)` |
+| TETH | ×1.2–1.4 | `ceil(base_ATK × m)` |
+| HE | ×1.4–1.8 | `ceil(base_ATK × m)` |
+| WAW | ×1.0–1.8 | `ceil(base_ATK × m)` |
+| ALEPH | ×0.5–1.0 | `ceil(base_ATK × m)` — Instant Death mechanics only where the dossier files them |
 
 **NOTE: Every number must be a whole number — always round UP (ceil). No decimals.**
 
-**Note:** HE-tier entities are the peak raw damage dealers. WAW entities hit hard but with wider variance. ALEPH entities deal less per-hit damage but compensate with **Instant Death / instakill abilities** (Somnarak: Instant Fracture).
+**Note:** `m` is the single multiplier inside the tier range, chosen from the dossier pressure pattern and filed at intake — never rolled per use. HE-tier entities are the peak raw damage dealers. WAW entities hit hard but with wider variance. ALEPH entities deal less per-hit damage; where the dossier itself files **Instant Death / Instant Fracture** outcomes, they convert as filed.
 
 **Damage Type Mapping:**
 
@@ -877,7 +877,7 @@ In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assi
 | Void (Pale White) | **PALE** | Percentage of max HP (soul/identity) |
 | Weight (Black) | **BLACK** | Both HP and Sanity simultaneously |
 
-**Example:** Somnarak entity deals 10–23 Lament damage, Threat Score 4 (TETH). L Corp damage = WHITE, ceil(10×1.2)–ceil(23×1.4) = **12–33 WHITE damage**.
+**Example:** Somnarak entity deals 10–23 Lament damage, Threat Score 4 (TETH), filed multiplier *m* = 1.3. L Corp damage = WHITE, ceil(10×1.3)–ceil(23×1.3) = **13–30 WHITE damage** — one filed multiplier applied to both ends of the range.
 
 ### III. ATK / Han Pressure Conversion
 
@@ -885,15 +885,15 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 
 | L Corp Risk Level | ATK Multiplier | Formula |
 |---|---|---|
-| ZAYIN | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` |
-| TETH | ×1.2–1.4 | `ceil(base_ATK × rand(1.2, 1.4))` |
-| HE | ×1.4–1.8 | `ceil(base_ATK × rand(1.4, 1.8))` |
-| WAW | ×1.0–1.8 | `ceil(base_ATK × rand(1.0, 1.8))` |
-| ALEPH | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` — add **Instant Death** mechanics |
+| ZAYIN | ×0.5–1.0 | `ceil(base_ATK × m)` |
+| TETH | ×1.2–1.4 | `ceil(base_ATK × m)` |
+| HE | ×1.4–1.8 | `ceil(base_ATK × m)` |
+| WAW | ×1.0–1.8 | `ceil(base_ATK × m)` |
+| ALEPH | ×0.5–1.0 | `ceil(base_ATK × m)` — Instant Death mechanics only where the dossier files them |
 
 **RULE: Always round UP. No decimals.**
 
-**Note:** HE-tier entities are the peak raw damage dealers. ALEPH entities deal less per-hit but compensate with **Instant Death / Instant Fracture** abilities.
+**Note:** `m` is filed once at intake inside the tier range — never rolled per use. HE-tier entities are the peak raw damage dealers. ALEPH entities deal less per-hit; dossier-filed **Instant Death / Instant Fracture** outcomes convert as filed, never added by tier.
 
 #### Damage Type Mapping
 
@@ -903,7 +903,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **Grudge (Crimson)** | **RED** | Body / physical form | HP |
 | **Void (Pale White)** | **PALE** | Soul / identity (percentage-based) | % of max HP |
 | **Weight (Black)** | **BLACK** | Both HP and Sanity | HP + SP |
-| **Mixed** | Multiple | Multiple stats | Varies |
+| **Mixed** | Multiple (cycled) | All four in fixed order (2 s per type) | Varies by phase |
 
 ### V. Energy / Resource Mapping
 
@@ -912,10 +912,10 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **Han-Energy** | **Enkephalin** | The energy produced by working with entities. Powers the city/facility. |
 | **Han-Energy yield** (per work cycle) | **PE-Boxes** (Positive Enkephalin boxes) | Successful work produces PE. Amount varies by entity. |
 | **Negative Han buildup** | **NE-Boxes** (Negative Enkephalin) | Failed work produces NE, which damages the worker. |
-| **Sorrow Gauge %** | **Mood / Energy state** | Low % = Good mood. High % = Bad mood. Determines work outcome quality. |
-| **Starting Sorrow Gauge range** | **E-Box outcome ranges** (Good/Normal/Bad) | The gauge range maps to how many PE-Boxes are needed for Good/Normal/Bad results. |
+| **Sorrow Gauge %** | *(no LC meter)* | Continuous pressure read; converts only through the Qliphoth Counter derivation (Chapter 4 Counters) — never filed as a mood bar |
+| **Starting Sorrow Gauge** | *(recorded, not converted)* | The dossier opening pressure state. Outcome ranges are set inside the tier PE band from the Behavior table — never derived from the starting Gauge |
 | **Han (the structural force)** | **Enkephalin / Cogito** | The fundamental substance. Han = structural grief. Enkephalin = harvestable energy from grief. Cogito = the raw substance from the Well. |
-| **The Weeping** | **The Well / The River** | The source of all entities. Somnarak: underground river of liquid Han. L Corp: the Well of Cogito / the River. |
+| **The Weeping** | **The Well / The River** | Connected, not identical — the Weeping is the boundary river of liquid Han; contact geometry with the Well is filed per story (§2A). |
 
 ### IV. Energy / Resource Mapping
 
@@ -926,10 +926,10 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **Han-Energy yield** (per cycle) | **E-Box yield / PE-Box yield** | How much energy each work produces |
 | **Positive Han-Energy** | **PE-Box (Positive Enkephalin)** | Refined sorrow; powers equipment and infrastructure |
 | **Negative Han-Energy** | **NE-Box (Negative Enkephalin)** | Unstable sorrow; damages the worker |
-| **Sorrow Gauge [HP]** | **Mood / Energy bar** | Low % = Good mood. High % = Bad mood |
-| **Sorrow Gauge %** | **Work outcome ranges (Good/Normal/Bad)** | Determines PE-Box yield quality |
+| **Sorrow Gauge [HP]** | **HP** (derived) | The durability base: `ceil(Gauge × tier multiplier)` — neither a percentage nor a mood read |
+| **Sorrow Gauge %** | *(no LC meter)* | Continuous pressure read; converts only through the Qliphoth Counter derivation. Outcome quality files from the Behavior table |
 | **Han** (structural grief) | **Cogito / Enkephalin** | The fundamental substance |
-| **The Weeping** | **The Well / The River** | Source of all entities |
+| **The Weeping** | **The Well / The River** | Connected, not identical — contact geometry filed per story (§2A) |
 
 **Recommended Somnarak entity-file wording:**
 
