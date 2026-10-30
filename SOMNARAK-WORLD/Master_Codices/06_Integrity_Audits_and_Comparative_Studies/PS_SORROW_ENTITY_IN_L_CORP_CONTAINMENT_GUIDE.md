@@ -292,34 +292,25 @@ The dossier's narrative and archival sections are distinct source layers, not in
 | **Named additional Record**, where filed (Warden Record, Apex Record, Watch Record, Sovereign Chronicle, or another dossier-filed coda) | **Retained source coda; cross-filed passages** | Narrative remains after the Tale in source order. Explicit operational passages may feed Management Tips or Escape Information; the coda is not Trivia and has no native named slot |
 | **Trivia** and **Document Information** | **Record-note detail + provenance** | Canonical details and the Document ID, author, in-world date, and classification stay attached to the conversion packet; archive metadata is not an Encyclopedia unlock |
 
-### XI. Organization Mapping
+### XI. Organization and Authority Mapping
 
-| R.D. + The Absolvohan (Facility 01) | Lobotomy Corporation facility | Notes |
-|---|---|---|
-| **R.D. (Reverie Directorate)** | **Lobotomy Corporation (L Corp)** | The organization that contains entities |
-| **Facility 01 / The Absolvohan (The Hand of Change)** | **The Facility** (L Corp headquarters) | The building where entities are contained |
-| **Echo-Cores** (9 leaders) | **Sephirah / Department Heads** | Floor-lead analogue only: nine persons carrying pre-existent Door-names vs ten schema-titled departments |
-| **Director Majin** | **Ayin (founder-sovereign analogue)** | Executive sovereignty; cycle-to-cycle dispatch sits with Containment Lead Dekan, not in this row |
-| **Secretary Seiyon** | **Angela (memory function only)** | Echo-Core secretary carrying full cycle memory under the Director; not a facility-wide coordinator mind |
-| **Menders** | **(Welfare Team / Healing agents)** | Somnarak repair/healing body (civic/Raw by record), not an R.D. department; facility-facing only when contracted |
-| **Wardens** | **(Security Team / Captain)** | Municipal order/defense faction incl. border watch vs Outside Sorrow; not Facility 01 Security department |
-| **Keepers** | **(Record Team / Information)** | Civic archive/memory faction recording all Three Sorrows; Facility 01 records sit with its own archive floors |
-| **Collectors** | **(External extraction / Finance)** | Civic debt/Echo enforcement managing Inner Sorrow burdens; external to the Facility 01 extraction chain |
+An organization row is valid only when **plane, legal status, chain of command, and operating scope** agree. A title that sounds general does not become facility-wide, and an external Somnarak faction performing a similar civic function does not become an R.D. department.
 
-### XII. Organization Mapping
-
-| R.D. + The Absolvohan (Facility 01) | Lobotomy Corporation facility | Notes |
-|---|---|---|
-| **R.D. (Reverie Directorate)** | **Lobotomy Corporation (L Corp)** | Contains and studies entities |
-| **Facility 01 / The Absolvohan (The Hand of Change)** | **The Facility** (L Corp headquarters) | Where entities are contained |
-| **Echo-Cores** (9 leaders) | **Sephirah / Department Heads** | Floor-lead analogue only: nine persons carrying pre-existent Door-names vs ten schema-titled departments |
-| **Director Majin** | **Ayin (founder-sovereign analogue)** | Executive sovereignty; cycle-to-cycle dispatch sits with Containment Lead Dekan, not in this row |
-| **Secretary Seiyon** | **Angela (memory function only)** | Echo-Core secretary carrying full cycle memory under the Director; not a facility-wide coordinator mind |
-| **Menders** | *(Welfare Team)* | Somnarak repair/healing body (civic/Raw by record), not an R.D. department; facility-facing only when contracted |
-| **Wardens** | *(Security Team)* | Municipal order/defense faction incl. border watch vs Outside Sorrow; not Facility 01 Security department |
-| **Keepers** | *(Record Team)* | Civic archive/memory faction recording all Three Sorrows; Facility 01 records sit with its own archive floors |
-| **Collectors** | *(External extraction)* | Civic debt/Echo enforcement managing Inner Sorrow burdens; external to the Facility 01 extraction chain |
-| **Facility 01 floors / containment sectors** | **Departments / Floors** | Facility divisions inside the Absolvohan (Zones A–E are Somnarak city zones, world plane) |
+| Somnarak body, seat, or function | Plane / status | L Corp facility-facing read | Boundary |
+|---|---|---|---|
+| **Council of Sighs** | Somnarak world/city plane; sovereign municipal authority external to Facility 01 | *(no L Corp facility counterpart)* | It chartered and funds the R.D. and receives the Director's report, but it does not know the Absolvohan or the Cycle and does not dispatch containment. Head- or Wing-level comparisons stay on the world plane |
+| **Reverie Directorate (R.D.)** | Facility-plane containment operator; Council-chartered and funded | **Lobotomy Corporation as facility/operator** | It studies and contains Sorrow Entities, extracts M.A.W., produces Han-Energy, and manages Facility 01 and its sector stations. L Corp's Wing status is not imported into the R.D.; that status belongs to The City's world plane |
+| **Facility 01 / The Hand of Change** | R.D. central facility beneath the Alpha Tree | **L Corp HQ facility (structural analogue)** | The central Hand has eight floors. R.D. sector stations beyond that hub are field postings in Somnarak's zones, not additional Hand floors or LC departments |
+| **Director Majin** | Facility 01 supreme authority; Echo-Core 1 on Floor 1 | **Ayin / A (architect-sovereign analogue only)** | Majin designed the Cycle system, reports to the Council, and operates with near-total autonomy. This row does not by itself account for every daily function of the Manager's chair |
+| **Daily managerial command** | Facility 01 command chain; no single seat | **Manager X function, distributed** | Majin holds executive decision; Secretary Seiyon manages administration, schedules, and communications; Echo-Core leads and their Field Commanders run floor assignment and emergency response. No one R.D. officer is X under another name |
+| **Secretary Seiyon** | Facility 01 Echo-Core 2; Floor 1 Central Administration | **Angela (administrative-AI and cycle-memory analogue only)** | Seiyon is the sole Secretary among the Nine: a grief-awakened AI who records all 1,778 iterations, administers schedules and communications, and sounds the breach alarm. Angela's designed, script-bound origin and authority over the Sephirot are not the same institution |
+| **The Nine Echo-Cores** | Facility 01 leadership persons | **Sephirot / department leads (analogue only)** | The Director and Secretary share Floor 1 while seven other Echo-Cores command Floors 2–8. L Corp likewise files nine Sephirot, but across nine of its ten Departments; Architecture has no Sephirah. Persons and stations do not convert name-for-name |
+| **Eight Hand floors** | Facility 01 internal structure | **Departments / facility divisions (structural analogue only)** | Neutral, Maw's Keep, Extraction Hall, Insight Forge, Border Watch, Deep Vault, Shadow Corps, and Gate Watch. Zones A–E remain Somnarak city geography even where an R.D. sector station operates inside one |
+| **Containment Lead Dekan** | Facility 01 Echo-Core 3 | **One floor lead within the Sephirot analogue** | Dekan commands Floor 2, Maw's Keep, and `SECTOR-B-01`, including Zone B containment and Maw interpretation. Dekan is not the facility-wide dispatch seat and is not, by title alone, the Manager counterpart |
+| **Menders** | Somnarak world plane; Architects' field specialists and R.D. field contractors | *(no L Corp department counterpart)* | Their filed work is maintenance, Veil repair, and Han-flow support. Facility-facing work is contractor support, not membership in an R.D. department; a Welfare resemblance does not create department identity |
+| **Wardens** | Somnarak world plane; military/order faction | *(no L Corp department counterpart)* | They enforce Council decrees, patrol the zones, defend the border, and can support R.D. operations. They are not Facility 01's Safety or security department |
+| **Keepers** | Somnarak world plane; civic Archive faction | *(no L Corp department counterpart)* | They control the city's Archive, memory preservation, and history, and cooperate with R.D. research. Marjuk's Floor 6 Deep Vault is the separate internal archive; Information or Record resemblance does not merge the two |
+| **Collectors** | Somnarak world plane; economic/debt faction | *(no L Corp department counterpart)* | They enforce Council economic policy through debt, Echoes, and obligations, with a tense data relationship to the R.D. They are external to Facility 01's M.A.W. extraction chain |
 
 ### XXI. Dossier-to-Record Structure
 
@@ -343,10 +334,10 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 
 | Operational Feature (facility plane) | Lobotomy Corporation facility | Reverie Directorate + The Absolvohan (Facility 01) | Narrative & Story Register |
 |---|---|---|---|
-| **Managing Authority** | **Lobotomy Corporation** (Wing L operating the facility) | **The Reverie Directorate (R.D.)** — Facility 01 under Director Majin; publicly chartered by the Council of Sighs, operationally sovereign inside Facility 01 | Corporate Wing facility vs chartered containment directorate. |
-| **Facility Environment** | Subterranean bunker facility (in the City's District 12) divided into 10 Sephirah Departments. | Subterranean containment stratum: **Facility 01 (The Hand of Change)** — the Absolvohan vaults beneath the Alpha Tree in Zone A. | Modern sterile industrial laboratories vs brutalist slate vaults lined with acoustic dampeners and incense grates. |
-| **Primary Executive** | **The Manager (X)** advised by AI Coordinator **Angela**. | **Director Majin** (executive sovereign, Floor 1); containment worked under **Containment Lead Dekan (데칸)** with the Echo-Core Floor Secretaries (서기관). | One chair and one created coordinator vs a split seat — sovereignty above, containment command below. |
-| **Department Structure** | Control, Information, Training, Security, Central Command, Welfare, Disciplinary, Extraction, Records, Architecture. | Facility 01 containment floors and sectors under Echo-Core Floor Secretaries (Foundation, Dekan Archive, Thermal Hearth, Acoustic Buffer, and the deeper Absolvohan floors as filed). | Departments supervise specific containment wings and provide facility buffs and defensive wards. |
+| **Managing Authority** | **Lobotomy Corporation** (Wing L operating the facility) | **The Reverie Directorate (R.D.)** — Facility 01 under Director Majin; Council-chartered and funded, with Majin reporting to the Council but operating with near-total autonomy | Corporate Wing facility vs chartered containment directorate. |
+| **Facility Environment** | Subterranean HQ facility (in the City's District 12) divided into 10 Departments, nine led by Sephirot; Architecture has no Sephirah. | **Facility 01 (The Hand of Change)** — an eight-floor central stratum beneath the Alpha Tree in Zone A, with R.D. sector stations beyond the central hub. | Industrial HQ vs a living Alpha-Tree root facility with a sector network. |
+| **Primary Executive** | **The Manager (X)** advised by AI Coordinator **Angela**. | No single Manager chair: **Director Majin** holds supreme authority on Floor 1; **Secretary Seiyon** manages administration, schedules, and communications; Echo-Core leads and Field Commanders run floor assignment and response. **Dekan** commands Floor 2 / Zone B containment. | One Manager advised by one AI vs a supreme Director, one AI Secretary, and a distributed floor-command chain. |
+| **Department Structure** | Control, Information, Training, Safety, Central Command, Disciplinary, Welfare, Extraction, Record, Architecture. | Eight Hand floors—Neutral, Maw's Keep, Extraction Hall, Insight Forge, Border Watch, Deep Vault, Shadow Corps, and Gate Watch—under the Nine Echo-Cores, plus R.D. sector stations in the city zones. | Ten schema Departments vs eight function floors and a sector network; no name-for-name department conversion. |
 | **Operative Personnel** | **Agents** (armed containment workers) and **Clerks** (office staff providing morale). | **Absolvers (  해원사   )** (containment operatives) and **Salt-Scrubbers (  염초공   )** (sanitation personnel). | Sacrificial corporate employees vs solemn sworn liturgical containment wardens. |
 | **Tactical Rapid Response** | **Rabbit Team** (R Corp 4th Pack mercenaries) summoned for total sector cleansing. | **Cadre Sim-Pan (  심판   / Arbiters)** and **Cadre Gyeo-Tu (  격투   / Duelists)** mobilized for kinetic execution. | Hired private military shock troopers vs dedicated Directorate inquisitors and frontline champions. |
 
@@ -1824,8 +1815,8 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via wrathful kinetic strikes to suppress entity growth. |
 | **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative enters Pre-Fracture Panic. |
 | **HP (Health Points)** | **Sorrow Gauge / Physical Durability** | Structural or biological integrity of entities and operatives. |
-| **The Manager (X)** | **Director Majin / The Dekan (데칸)** | One managerial chair, split at depth: Majin holds executive sovereignty (Floor 1); the Dekan, Containment Lead, is the seat containment work is dispatched from cycle to cycle. |
-| **Angela (AI Coordinator)** | **Echo-Core Floor Secretaries (서기관)** | Guidance, split at depth: one created coordinator remembering every loop there; nine Echo-Core Floor Secretaries here — archive, liaison, and memory distributed among persons bound to floors, not held in one mind. |
+| **The Manager (X)** | **Distributed R.D. command** | No single chair: Majin holds supreme authority; Seiyon manages administration, schedules, and communications; Echo-Core leads and Field Commanders run floor assignment and response. Dekan is the Floor 2 / Zone B Containment Lead, not a universal dispatch seat. |
+| **Angela (AI Coordinator)** | **Secretary Seiyon (세이연)** | Administrative-AI analogue only: Seiyon is the sole Secretary among the Nine Echo-Cores, a grief-awakened AI who administers daily operations, records and remembers all 1,778 iterations, and sounds the breach alarm. Seiyon is one mind under the Director, not a secretary assigned to every floor. |
 | **Agent** | **Absolver (  해원사   )** | Sworn elite field operative entering containment cells. |
 | **Clerk** | **Salt-Scrubber (  염초공   )** | Auxiliary personnel maintaining sanitation, brine drainage, and grates. |
 | **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Operated inanimate entities under strict Two-Work rules; body housing and use-shape are filed on separate axes. |
