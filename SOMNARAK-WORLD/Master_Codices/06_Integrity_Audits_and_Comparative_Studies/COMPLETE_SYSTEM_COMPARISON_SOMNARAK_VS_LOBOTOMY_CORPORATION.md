@@ -37,7 +37,7 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 | Containment discipline (facility plane) | 4 Works (All Units) | Absolvohan works (2 locked for inanimate; 4 for Subjects; Hybrids by component) |
 | Inanimate Restriction | Unrestricted | 2 Works (Vid/Fer) |
 | Damage Spectrum | RED/WHITE/BLACK/PALE | Grudge/Lament/Weight/Void |
-| Crisis Mechanics | Qliphoth Meltdowns (discrete countdown events) | Four Watches (standing atmospheric states) |
+| Crisis Mechanics | Qliphoth Meltdowns & timed Ordeals | Han-Density Gauge → Ordeal Times (First/Second/Third/Tide Watch) |
 | Breach Dynamics | Corridor breach and roam | Roam / occupy by Range Band; Place Metamorphosis only where filed |
 | Equipment Extraction | E.G.O (Weapon/Suit/Gift) | M.A.W. (Weapon/Suit/Stigma) |
 | Tool Entity Framework | Tool Abnormalities | Relic-Entities |
@@ -245,17 +245,21 @@ When an operative's mental fortitude collapses, their behavior breaks down accor
 
 | Crisis Metric | Lobotomy Corporation | Project Somnarak | Updated Canonical Mechanics |
 |---|---|---|---|
-| **Facility Emergency** | **Qliphoth Meltdown** — Red alert sirens; countdown timers on random containment cells. | **Atmospheric Watches (  사경   )** — Barometric Han surges (First, Second, Third, Tide Watch). | Shifts in subterranean Han tides elevate facility-wide pressure and breach agitation. |
+| **Facility Emergency** | **Qliphoth Meltdown** — Red alert sirens; countdown timers on random containment cells. | **Han-Density Gauge & Ordeal Times (사경)** — free-Han concentration crosses filed bands (Elevated 21–40% / Critical 41–60% / Overload 61–80% / Cascading 81–100%); a Color-and-Time warning precedes manifestation. | Facility 01 crisis taxonomy is tripartite — Ordeals (spawned, mortal), Sorrow Entity breaches (contained uniques), Echo-Core Realizations (floor-lead crises). A timed Ordeal is not a cell countdown. |
 | **Breach Trigger** | **Qliphoth Counter** drops to 0 — driven by work results, named conditions, or both, per Abnormality. | **Two distinct mechanisms:** **Sorrow Gauge** saturation (100%, continuous work-driven pressure) **or Activation Threshold** fulfillment (discrete filed conditions — counts, states, spreads). An SE may file either or both. | Containment fails when the counter empties, the Gauge saturates, or the threshold set completes — whichever channel the entity carries reaches its end first. Conversion law: the conversion manual counter chapters (dual-channel filing). |
 | **Standard Breach** | Entity breaks door, enters hallway, and attacks employees. | Breaching Subject roams corridors along Range Bands. | Requires tactical suppression squads to intercept and pacify on the 10-node spatial grid. |
 | **Special Transform Breach** | Not present (breached entities keep same code/form). | **Place-to-Subject Metamorphosis** (e.g. *The Maw* `C-IVω-001 [GP]` → `C-IVω-001-B [GS]`). | District/Place entities detach from the bedrock, transforming into mobile breaching colossi. |
 
-### 9.1 The Four Atmospheric Watches of Somnarak
-Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shifts driven by subterranean tides:
-1. **First Watch (  일경   / *Ilgyeong*):** Ambient temperature drops; thin salt frost forms on iron bulkheads. Operative Composure drain increased by 10%.
-2. **Second Watch (  이경   / *Igyeong*):** Acoustic resonance hums through floor grates; Han-Energy yield increased by 20%, but failure damage is doubled.
-3. **Third Watch (  삼경   / *Samgyeong*):** Han-brine begins seeping through drainage pipes; random containment cells enter High Agitation (+25% starting gauge).
-4. **Tide Watch (  해일경   / *Hae-ilgyeong*):** Total subterranean inundation; all Sorrow Entities gain +1 Speed slot and +20% Han Pressure [ATK]. Uncontained brine crystallizes corridors.
+### 9.1 The Four Ordeal Times & the Han-Density Gauge
+
+In the systems codex the Watches are **Ordeal Times** (severity tiers), not standing weather modifiers laid over every contained entity. Work releases residual Han into the facility atmosphere; when the **Han-Density Gauge** crosses a band, an Ordeal of the corresponding Time may spawn. Ordeals are classified by **five Colors** (Blue/Lament, Obsidian/Weight, Ashen/Void, Grey/Grudge, Purple/raw Han) × **four Times** — twenty filed types — announced by a Color-and-Time warning over the Whisper-Thread network with a 30–60 second preparation window. One Ordeal per Time per day. Ordeals take no Work, hold no cell, and yield no M.A.W.; they are suppressed in combat.
+
+1. **First Watch (일경 / *Ilgyeong*) — Minor (α-equivalent):** Elevated band (21–40%), early Management after 2–3 work cycles. Moderate numbers (roughly 5–10), individually weak; a standard Level 2+ team suppresses. Function: warning that Han is accumulating.
+2. **Second Watch (이경 / *Igyeong*) — Moderate (β-equivalent):** Critical band (41–60%), mid-Management after 5–6 work cycles. Larger numbers (10–20) or fewer, stronger forms; Level 3+ personnel with M.A.W.
+3. **Third Watch (삼경 / *Samgyeong*) — Major (γ-equivalent):** Overload band (61–80%), late Management (8+ cycles / near-Tide). A single large form or coordinated horde; Level 4+, specialized M.A.W., Containment Lead oversight.
+4. **Tide Watch (해일경 / *Hae-ilgyeong*) — Catastrophic:** Cascading band (81–100%), spawning only at Sorrow Tide peak or in major cascading crisis. Facility-wide single mass or multi-floor swarm; Echo-Cores and top teams only. Unsuppressed before dawn, it can permanently damage the Hand of Change.
+
+Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% of daily quota; Tide Watch 25%), with **no extraction**. Mortality is the critical distinction: a suppressed Ordeal's Han dissipates permanently and does **not** return to the Weeping — Ordeal suppression is the one filed act that reduces total Han in circulation, where a suppressed Sorrow Entity re-crystallizes (§2). During the Consolihan, Ordeal frequency and severity spike city-wide and non-essential Work is suspended.
 
 ---
 
@@ -384,25 +388,24 @@ Workshop armaments are governed by the **Workplace Law (노동 소속령 — Aff
 
 ## 16. Story Expansion: Departmental Awakenings & Realization Wars
 
-**Realization Wars & Department Crisis // Phases**
+**Core Realization Roster & Department Crisis // Floors 2–8**
 
-| Phase | Thematic Trial | Combat & Psychic Manifestation |
-|---|---|---|
-| I | Awakening of Lament | Composure drain; auditory resonance spike |
-| II | Grudge Surge | Spatial displacement; kinetic shockwaves |
-| III | Weight of Memory | Gravitational debt; ancestral memories |
-| IV | Void Integration | Sovereign realization; permanent awakening |
-
+| Floor & Sector | Echo-Core Lead | Suppression Codename | Crisis Nature (per R.D. codex) |
+|---|---|---|---|
+| Floor 2: Maw's Keep | Dekan (Containment) | **Maw Heartbeat Surge** | Living graft resonance; the thousand weep through the scaled arm; seals destabilize |
+| Floor 3: Extraction Hall | Zyrak (Extraction) | **Forge Bleed Overload** | Extracted-debtor memory bleed; volatile crystallization pulses freeze equipment |
+| Floor 4: Insight Forge | Ayshuk (Research) | **Void Logic Collapse** | Detachment collapses into analytical Void; diagnostic feeds invert into psychic feedback |
+| Floor 5: Border Watch | Mellda (Border Lead) | **Warden Martial Trial** | Overclocked Warden chassis; room-clearing Weight shockwaves via Threshold Vow |
+| Floor 6: Deep Vault | Marjuk (Archive) | **Memory Vault Leak** | Stasis memory seals shatter; phantom memories and temporal vertigo flood the vault |
+| Floor 7: Shadow Corps | Ishall (Outsider) | **The Dual Realization** | The facility's only two-phase sequential realization (below) |
+| Floor 8: Gate Watch | Xyan (Exile) | **Desolate Gale Breach** | Boundary fractures; Desolate storm-winds calcify corridors into pale crystal |
 
 In Lobotomy Corporation, the Manager must face **Sephirah Meltdowns (Core Suppressions)** from Malkuth to Keter, resolving each Sephirah's personal trauma to awaken the facility's full potential and complete the Seed of Light.
 
-In the Reverie Directorate's Facility 01, the Dekan must guide each Floor Secretary through **Echo-Core Resonant Realization Wars (  잔향핵 공명 각성전   / *Janhyanghaek Gongmyeong Gakseongjeon*)**:
-- **Narrative Premise:** Each departmental floor is anchored by an Echo-Core containing the accumulated grief of past cycles. To achieve complete harmonic synchronization, the Floor Secretary must descend into the core's psychological crucible and wage a 4-phase trauma battle:
-  1. **Phase I — Awakening of Lament:** The floor is flooded with acoustic weeping. Operatives suffer continuous Lament pressure and must maintain Composure thresholds while decoding resonance nodes.
-  2. **Phase II — Grudge Surge:** Physical shockwaves shatter the containment floor. Breaching phantoms test the squad's clash power on the 10-node spatial grid.
-  3. **Phase III — Weight of Memory:** Ancestral memories from Facility 01's 1,778 remembered cycles manifest as crushing gravitational burdens. Operatives must manage Weight damage and coordinate tactical positioning.
-  4. **Phase IV — Void Integration:** The Secretary confronts their personal despair, integrating the floor's ancestral grief into an enlightened state of harmonic mastery.
-- **Permanent Facility Buff:** Surviving a Realization War grants permanent departmental passives, immunity to specific Atmospheric Watch penalties, and unlocks Grade 5 Workshop commissioning for that floor.
+In the Reverie Directorate's Facility 01, the corresponding crisis is the **Core Crisis / Core Realization (핵 진압 — *Haek Jin-ap*)**, the third class of the tripartite crisis taxonomy (§9):
+- **Narrative Premise:** Across the 1,778 Cycles the Echo-Cores carry Facility 01's accumulated burden. When accumulated cycle sorrow fractures an Echo-Core's internal Han harmonic, the Lead's emotional signature floods their floor — geometry warps, safety protocols fail, containment itself is threatened (Sector Breakdown). The Director and assigned specialists enter the sector and suppress the crisis in pure tactical combat — no Work is performed during the duel. The objective is to break stance, survive, and ground the soul: the Lead is **Reclaimed** (restored to human consciousness), with their central existential trauma permanently resolved. The Lead is neither killed nor extracted, and no M.A.W. is produced.
+- **No universal phase script:** each floor's crisis is its Lead's own (roster above). Floor 7 is the sole **two-phase sequential** Realization — Stage 1 *Infiltrator Chassis Reclamation* (Grudge: foreign military programming, cloaking, ambush kill-zones), then Stage 2 *Unanswered Primordial Void Singularity* (Void: the Before-Time Artifact Hands impose Closed Ground, shutting down Han-assisted movement/communications under Void implosions). Element-ordered escalation beats (Lament pressure → Grudge shock → Weight of memory → Void integration) remain available as a *story-facing pacing register* inside a given duel; they are not filed phase law for every floor.
+- **Permanent Rewards:** surviving personnel receive **+10 to All Attributes** (Resilience, Clarity, Composure, Resolve); the floor gains a permanent operational buff; cleared Realizations **persist across all subsequent cycles** of the Absolvohan loop; and each suppression aligns one node of the central extraction network, advancing the facility toward Absolvohan completion.
 
 ---
 
@@ -417,7 +420,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **E.G.O Corrosion** | **M.A.W. Meltdown (  고뇌복 용해   )** | Catastrophic fusion between equipment and operative's nervous system. |
 | **Enkephalin** | **Han-Energy (  한 에너지   )** | Refined energy extracted from entities to power the civilization. |
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
-| **Qliphoth Meltdown** | **Atmospheric Watch (사경)** | Facility-wide crisis escalation — not the same shape: a meltdown is a discrete countdown event falling on random cells; a Watch is a standing atmospheric state the whole facility works inside (§9.1). |
+| **Qliphoth Meltdown / Ordeal Cadence** | **Han-Density Threshold & Watch Time (사경)** | The crisis clock, not the same anatomy: PS files one density gauge whose bands open First → Tide Watch Ordeal manifestations (§9.1). A Watch is an Ordeal severity Time, not an all-day weather state laid over contained entities. |
 | **Qliphoth Counter** | **Sorrow Gauge (  비탄 척도   ) & Activation Thresholds** | Not one mechanism but two: continuous Gauge pressure (0–100%, moved by work outcomes) and discrete threshold conditions (named states, counts, timers). An SE may file either or both; breach fires on Gauge saturation or threshold completion. |
 | **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
 | **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
@@ -430,7 +433,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Agent** | **Absolver (  해원사   )** | Sworn elite field operative entering containment cells. |
 | **Clerk** | **Salt-Scrubber (  염초공   )** | Auxiliary personnel maintaining sanitation, brine drainage, and grates. |
 | **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Inanimate or stationary entities operated under strict Two-Work rules. |
-| **Core Suppression** | **Realization War (  각성전   )** | Departmental psychological boss battle resolving ancestral trauma. |
+| **Core Suppression** | **Core Realization (핵 진압)** | Floor-lead Core Crisis duel: suppress, ground, and Reclaim the Echo-Core Lead — no extraction; cleared Realizations persist across cycles (+10 to All Attributes, permanent floor buff). |
 | **The City** | **Somnarak City (  솜나락 도성   )** | The main human metropolitan stronghold. |
 | **Backstreets** | **The Raw (  생경   )** | The unpatrolled, violent undercity surrounding the facility. |
 | **Outskirts** | **The Desolate (  황무지   )** | The inhabited liminal frontier beyond the walls — warm, living ground where Outside Sorrow runs unstructured and no Veil dampens feeling. |
