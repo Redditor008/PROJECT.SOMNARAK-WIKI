@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Founding Catastrophe plane correction (2026-10-31)
+
+- **Owner rule:** the facility-plane **Founding Catastrophe** no longer pairs Carmen's laboratory/Bucket with the city-scale Cheongula. Read through the Director and Secretary Echo-Core biographies, its Somnarak counterpart is **the Solidification / the Original**: Majin and the Original research beneath the Alpha Tree before the formal R.D.; the Han catastrophe transforms the Tree and kills her; her residual sorrow crystallizes and later catalyzes Seiyon, her fuller memory-continuity remains separate in the Memory Archive, and Majin becomes a Sovereign-class manifestation's deathless living containment before the Echo-Cores/R.D. form around him.
+- **City-plane pair restored separately:** **Smoke War ↔ Cheongula** is now filed as **War vs Catastrophe**—calculated corporate overthrow of an energy regime against a preventable mass consumption enabled by warnings ignored, a no-rescue order, and an unforeseeable-overflow cover story. Guide/CMP §2, §2A's human-reservoir row, §13.1, the narrative lexicon, and Guide Chapter 9's world-concept rows are synchronized; the Memory Archive's separate "First Breach of Cycle 0001" formulation is not renamed or merged by this unit, and no standalone archival comparison is overwritten.
+
 ## Depth audit continued: Chapter 10 worked practice (2026-10-30)
 
 - **Batch 207 precedents re-scoped (manual Ch. 10 §X):** the five cases now file expressly as identity-and-housing exercises, not signed conversion records. Their designation, management, and housing reads stand; fields they do not derive—stats, PE, counters, event/suppression, equipment, record gates, department, and sign-off—are no longer implied by the heading. Risk lines for Broken Well, Conservatory, Learned Your Face, and The Wedge That Held now show the actual Threat Score sums instead of diagonal Rank/Grade shorthand. Broken Well's event form again keeps the mother fixed at the rim while the reported-depth field spreads. Conservatory keeps class `07` by its fixed crystal body, while the conflicting bearer-borne I-Relic operation is now a Step 6 **HOLD** instead of being absorbed as a management note.
