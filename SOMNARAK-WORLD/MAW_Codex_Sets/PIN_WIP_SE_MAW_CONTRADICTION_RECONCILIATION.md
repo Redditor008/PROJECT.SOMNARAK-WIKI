@@ -4,6 +4,14 @@
 **Pinned:** 2026-10-31  
 **Scope:** Sorrow Entity dossiers in `SOMNARAK-WORLD/Sorrow_Entities/` and their exact linked sets in `SOMNARAK-WORLD/MAW_Codex_Sets/`
 
+> ## ⚠️ OWNER REPAIR STANDARD — REAL FIX REQUIRED
+>
+> **Fix what needs fixing.** This queue is not permission to add vague, illogical, or decorative text, and a newly written note is never the repair itself. When a row is worked, read and repair the **whole relevant dossier and the whole exact set**—the entire Sorrow Entity dossier wherever the pieces are named, described, used, costed, or cross-referenced; Side `-A`; items `-B/-C/-D`; and every dependent Registry, Master Codex, archetype, index, guide, and example reference. Do not patch only the sentence, section, or spot where the contradiction was first noticed.
+>
+> Do not close a row with “maybe this does not need to change,” “both accounts can stand,” or any other avoidance wording. A field may remain unchanged **only after a complete field-by-field check proves that it already agrees exactly, or that the filed sources themselves document a genuinely different scope, state, or transition**. Do not invent a scope or transition to avoid changing a record. Where records disagree, identify the exact controlling dossier evidence and change the wrong or dependent records until one coherent version remains. Where the evidence truly cannot settle an operational field, leave that field **REPAIR INCOMPLETE — HOLD**; do not disguise the failure as reconciliation, neutrality, mystery, or finished prose.
+>
+> **“Fixed” means the contradiction is gone from the records, the corrected facts agree everywhere they are used, and the queue row can be verified without the reader having to choose between incompatible versions.** Ignoring an owner instruction to fix, preserving a contradiction under a polished note, or repairing one local paragraph while leaving the same error elsewhere in the dossier is a failed repair.
+
 ## Owner finding
 
 Some Sorrow Entity dossiers currently preserve a note saying that the embedded **M.A.W. Equipment** section and the entity's linked M.A.W. dossier contradict one another. Recording the contradiction was treated as the result and the records were left unmatched. That is not a completed reconciliation.
@@ -22,15 +30,15 @@ When this WIP is activated, the job is to **make one coherent set actually agree
 Work **one entity and one exact M.A.W. set per unit**:
 
 1. Resolve the set by the full SECC designation—not by numeric suffix alone. Apply the 1000-series collision map and ignore suffix-sibling sets.
-2. Read the whole SE dossier's M.A.W. Equipment section, the exact Side Codex (`-A`), and all three item dossiers (`-B` Weapon, `-C` Suit, `-D` Stigma) before editing.
+2. Read the **whole SE dossier**, not only its M.A.W. Equipment section, together with the exact Side Codex (`-A`) and all three item dossiers (`-B` Weapon, `-C` Suit, `-D` Stigma) before editing. Search the SE dossier from title and classification through Combat Record, work and event material, Observation Log, Story material, Registrum/Addendum, Trivia, Document Information, and cross-references for every place a piece name, form, value, cost, effect, use, or history appears.
 3. First repair any demonstrable copy or identity error **inside the M.A.W. set itself** (wrong title, copied Appearance, sibling-set text, or a Side table naming a different piece), so the item dossiers form one coherent target.
-4. Reconcile the SE dossier's embedded M.A.W. section to the exact item dossiers. The `-B/-C/-D` item files govern piece specifications; Side `-A` governs set identity and extraction relation; the SE dossier governs the source entity and any genuinely local field history that can coexist with the item record.
+4. Reconcile the whole SE dossier to the exact item dossiers wherever it states piece facts. The `-B/-C/-D` item files govern piece specifications; Side `-A` governs set identity and extraction relation; the SE dossier governs the source entity itself. An SE-only field history may remain only if the whole record proves it does not change the piece's identity, form, profile, acquisition, effect, cost, or use; if it conflicts on any of those points, repair it rather than preserving it as a parallel version.
 5. Compare and close every field, not only the sentence that attracted the note: piece title and grade; type/form/material/Appearance and any documented transition; Weapon element, damage, speed, range, pattern/falloff, maximum, cost, requirements, Ability, Limit, bearer Cost, care, corrosion, and history; Suit resistances, maximum, cost, and the same bearer fields; Stigma slot/form, chance, stat/effect, acquisition, and the same bearer fields; set resonance, M.A.W. Use Notes, Field Use Record, and Stat interpretation.
 6. Propagate the settled result to downstream Master Registry, Master M.A.W. Codex, archetype, side-index, and guide/example references for that set. Those summaries do not outvote the exact item dossiers.
-7. Replace the old contradiction note with a short reconciled-source statement only after the field comparison passes. If two forms are intentional, file the transition or state boundary explicitly; otherwise choose the exact M.A.W. dossier form.
+7. Remove the old contradiction note only after the full field comparison passes and the corrected records agree. Do not preserve two incompatible forms as intentional variants unless the whole source set already documents their separate states or transition; never invent such an explanation during repair. Otherwise use the coherent exact M.A.W. dossier version throughout. If a controlling field still cannot be settled, mark the row **REPAIR INCOMPLETE — HOLD** instead of replacing one evasive note with another.
 8. Search the repo for superseded titles, values, slots, chances, and costs from that set, then gate that one set before starting the next.
 
-A row is complete only when the SE section, Side `-A`, items `-B/-C/-D`, and downstream references no longer require the reader to choose between incompatible versions of the same piece.
+A row is complete only when the whole SE dossier, Side `-A`, items `-B/-C/-D`, and downstream references no longer require the reader to choose between incompatible versions of the same piece. “No contradiction happened to appear in the one paragraph checked” is not completion.
 
 ## Priority queue — explicit unresolved Full-set reviews (66)
 
@@ -146,5 +154,5 @@ A row is complete only when the SE section, Side `-A`, items `-B/-C/-D`, and dow
 
 ## Activation rule
 
-Do not start this queue during the current Conversion Guide appendix pass. When the owner activates it, take the first unchecked row, reconcile that one set completely, change its status to **RECONCILED** with the gate commit, and stop. Do not bulk-normalize several sets from titles or numeric profiles alone.
+Do not bulk-start this queue while another owner-ordered unit is active. When the owner activates it, take the first unchecked row and actually repair that whole entity/set under the Owner Repair Standard above; change its status to **RECONCILED** only with the gate commit that contains the completed corrections, then stop. Do not bulk-normalize several sets from titles or numeric profiles alone, and do not update a status merely because a note was added.
 

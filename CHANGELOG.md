@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Owner repair standard added to SE ↔ M.A.W. reconciliation pin (2026-10-31)
+
+- **Real-fix rule made explicit at the head of the pinned queue:** future work must fix what is actually wrong, not add vague or illogical filler and call the note a repair. Each activated row now requires the whole Sorrow Entity dossier, exact `-A/-B/-C/-D` set, and every dependent downstream reference to be checked and corrected where they carry the disputed piece facts. A field may stay unchanged only after complete verification proves exact agreement or an already documented difference of scope/state; otherwise the wrong records change. Rows that still cannot be settled remain **REPAIR INCOMPLETE — HOLD**, never “reconciled,” and no status may change merely because explanatory text was added. This records the completion standard; it does not claim any queued dossier was repaired in this update.
+
 ## Depth audit continued: Appendices A–B rebuilt (2026-10-31)
 
 - **Appendix A now indexes the manual that actually exists:** the coverage seal moves from **46 to 50 systems** in Guide 2 and CMP. Existing rows were corrected where they still compressed the law—filed recovery, the three separate Han Yield / physical PE / quota ledgers, counter completion and crisis routing, Threshold Tool charges, separately authorized external support, Dawn-table riders, all bearer-cost ledgers, the Four P translation, and partial worked practice. Department assignment is now direct covered law under the Chapter 10 available-unit rule. New rows index original-Tool body/operation/custody; material, context-bound mass and non-M.A.W. workshop provenance; the Facility Verification and Field-Source checks; and Institutional Sign-Off. The appendix now states that a Covered row locates law but does not certify a record. Coverage is **50/50 indexed — 45 direct, 5 by referenced facility or story frameworks**.
