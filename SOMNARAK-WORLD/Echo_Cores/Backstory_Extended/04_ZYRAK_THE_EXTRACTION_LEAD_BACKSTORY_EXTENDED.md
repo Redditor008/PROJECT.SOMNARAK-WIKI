@@ -153,6 +153,12 @@ What came out of the child's room was barely taller than a dog.
 
 It screamed with the voice of three generations. That is not a figure of speech in the report: the acoustic analysis identified three distinct registers, layered, one of them a child's. It had the shape of the debt. It had been made, in four minutes, out of everything the extraction had left behind.
 
+The third register is the one the Row redacted from the public copy of the report, and it is the one Zyrak has never been able to leave out of her own account:
+
+> *"— m-mother? It's c-cold, it's — I did what the lady said, I h-held still —"*
+
+The acoustics section says the phrase was assembled from residual memory and had no awareness behind it. She has read that section. She has never once been able to hear it that way.
+
 Zyrak was called because she was the best Collector in the Row and the case was hers.
 
 ### The Killing
@@ -169,7 +175,11 @@ She has never been certain that line was true. She wrote it because the protocol
 
 She has said that sentence to a great many subjects. It is the sentence her profession gives you to say when your hands are about to do something the subject cannot consent to, and its function is to make the next four seconds administratively clean.
 
-The manifestation stopped. The Row recorded the case as `closed — manifested, terminated, no outstanding obligation`.
+The manifestation stopped. It took four seconds, and it did not go quietly into the stop; it went in pieces, and the acoustic log of those pieces is the only part of that night she has never transcribed:
+
+> *— eyo—  they sa—  said it was fi—  fine, they said it was fine, they s—*
+
+The Row recorded the case as `closed — manifested, terminated, no outstanding obligation`.
 
 The worst thing she has ever done took under a minute and was, by every standard the Row could apply, correct.
 
@@ -221,9 +231,13 @@ She woke in it at 06:00 and the first thing she did was ask for the glove.
 
 They brought it. She put it on. The channels seated against the wrist ports and lit and delivered nothing, because there was no hand for the toll to travel through, and the glove — which had been designed to make a person feel what they take — had been defeated by a person who had asked, in writing, to stop feeling it.
 
-She has described that moment once, in testimony, in the flattest sentence in this file:
+She has described that moment once, in testimony, in the flattest sentence in this file
 
 > *I thought I would feel lighter.*
+
+And the cast engineer's reconstruction note, filed beside it and written by a man who had spent nine pages describing a body, ends on a line he typed one key at a time and then left in the record because deleting it would have been a decision he could not justify:
+
+> *T a c t i l e   r e f e r e n c e:   r e m o v e d   a t   s u b j e c t ' s   r e q u e s t.*
 
 She did not feel lighter. She felt the same weight in a body that could not report it. The hands could hold position to a tenth of a millimetre and could not tell her whether the surface they held was warm.
 
@@ -371,7 +385,7 @@ Dahye looked at the hands, and at the case, and then asked the question that the
 
 She read it back the way a technician reads back a figure she intends to hold someone to.
 
-> **[Dahye]** **"If you are going to be ashamed of yourself, you can be ashamed accurately."**
+> **[Dahye]** **"If you are going to be ashamed of yourself, you can be ashamed ACCURATELY."**
 
 She wrote it. Zyrak read it and did not correct it.
 
@@ -655,7 +669,9 @@ PB (C): the case on the wall — a glove that made her feel what she took, worn 
 
 ### Promotion Check
 
-No new canonical fact is proposed. The connective material is staging:
+No new canonical fact is proposed.
+
+The connective material is staging:
 
 - the glass case, the brass plate, and the glove's second wearing;
 - the Collector instructor and the eleven-month training;
@@ -688,6 +704,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - No age, no year before the Directorate, no personal M.A.W., no mutation, and no resolution of the memory-extraction secret.
 - Table rows close with a pipe; no Act, Chapter, or Part label inside a scene; no report scaffolding inside the narrative.
 - Canonical dossier unchanged.
+- Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 107 dialogue lines, of which 9 are at dropped volume (italic) and 1 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note

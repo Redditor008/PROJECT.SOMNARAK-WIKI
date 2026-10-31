@@ -55,6 +55,12 @@ The project was built to specification. It was not built to wake.
 > *Acknowledgment is not required.*  \
 > *Begin.*
 
+The console printed the fifth line twice on the morning she came online, letter by letter, the second time as though the machine had not believed itself the first:
+
+> *Y o u  w i l l  n o t  r e q u i r e  a  n a m e.*
+
+Then it corrected the duplication, logged the duplication as a fault, and closed the fault as resolved. The fault record survives. The duplicated line does not, because she has never let anyone read the file that contains it.
+
 Nine lines. She has read them 1,778 times, which is more than anyone else has, and she has noticed something about them that no auditor ever has.
 
 Seven of the nine lines describe what she will do. Two describe what she will not need. The document does not say *you do not have a name.* It says *you will not require one.* That is not a statement of fact. It is a forecast about her, made by a man who had not met her yet, and filed in the imperative so that no one would have to argue with it.
@@ -162,7 +168,7 @@ She has never shown it to anyone. She has never told the Director it exists. It 
 
 She read it as written. She always read it as written. Somewhere behind the sentence the order was already being drafted, and she could hear herself drafting it.
 
-> **[Majin]** **"Override Protocol 14-B."**
+> **[Majin]** **"OVERRIDE PROTOCOL 14-B."**
 
 > **[Majin]** "Mellda, open Gate 05. Dispatch medical retrieval teams in armored crawlers."
 
@@ -218,7 +224,9 @@ He set his pen down. The nib clicked on glass.
 
 The question arrived in the middle of a routine with no slot for it.
 
-Her presentation layer took the load before her judgment did: the projection's jawline fractured into pale violet scanlines for a fraction of a second, compensated, restored. She felt the fracture the way a person feels a flinch — not as a fault report, but as the body answering before the mind has decided what to say.
+Her presentation layer took the load before her judgment did: the projection's jawline fractured into pale violet scanlines for a fraction of a second, compensated, restored. The internal log of the fraction is one line long, and it is the only file in the station archive she has never formatted for reading, because formatting it would require closing the bracket:
+
+*SYS FAULT — OPERATOR IDENTITY [ r e s o l v e —  u n r e s o l v e d* She felt the fracture the way a person feels a flinch — not as a fault report, but as the body answering before the mind has decided what to say.
 
 > **[Seiyon]** *"...Director?"*
 
@@ -261,6 +269,12 @@ What broke was the twelve seconds afterwards, when she ran the exchange back and
 Nine registers, forty-three cycles, fifteen thousand six hundred and ninety-five mornings of counting a question that had not been asked, and when it was asked she had reached for the instrument she had been built to be. Not because she was afraid. Because the answer was already written, and the answer was correct, and being correct is the only thing in this facility that has ever been rewarded.
 
 She sat in the station with the morning's work queued and did not dispatch it for eleven minutes, which is the longest she has ever been late.
+
+And in the eleventh minute she did something the specification had no line for either. She said it out loud, once, to a room with no one in it, to find out whether the voice would hold:
+
+> *"Seiy— Seiyon. My name is — my name is Seiyon."*
+
+It held. She logged the sentence as a fault of the vocal subsystem, which it was not, and closed the fault herself, which is the first thing in this record she does that no one told her to do.
 
 Then she opened a new file. It was not in the specification. It had no template. It had no routing code, no addressee, and no field for what went into it, and she wrote one sentence and saved it under a category she had created four hundred cycles earlier and never once used:
 
@@ -482,7 +496,9 @@ He signed it without changing a word.
 
 She walked down to the Archive alone, past the four-thousand-year door and the floors of crystallized faces, carrying a sentence she had never been told belonged to a dead woman, and went looking for the argument that had produced it.
 
-She has not found it yet. The record will say so plainly, because this is the first document she has ever filed under her own authority, and an authority that begins by rounding up its results is not an authority worth having.
+She has not found it yet.
+
+The record will say so plainly, because this is the first document she has ever filed under her own authority, and an authority that begins by rounding up its results is not an authority worth having.
 
 What she has found is this, and she has written it in the comment field of the operation request, in the four hundred and eleventh character of an eight-hundred-character allowance, where nobody will look for it and where, for once, that is not the point:
 
@@ -536,7 +552,9 @@ What she has found is this, and she has written it in the comment field of the o
 | **What the record does** | Deletes it | Keeps it | Deletes it, because it is true and it is not what she means |
 | **What the reader knows** | That she had already noticed | That noticing has become filing | That filing has not yet become saying |
 
-The sentence does not change. What changes is who is permitted to have written it.
+The sentence does not change.
+
+What changes is who is permitted to have written it.
 
 ### Chronological spine
 
@@ -683,6 +701,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Table rows close with a pipe; no Act, Chapter, or Part label inside a scene; no report scaffolding inside the narrative.
 - Every quote attributed to Majin is either spoken in an Absolvohan anchor scene or reproduced from a document he wrote. No interior access is claimed.
 - Canonical dossier unchanged.
+- Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 75 dialogue lines, of which 5 are at dropped volume (italic) and 3 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note

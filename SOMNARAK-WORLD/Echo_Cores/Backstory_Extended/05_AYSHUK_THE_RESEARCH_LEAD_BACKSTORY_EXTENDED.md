@@ -67,6 +67,13 @@ Nothing in any source identifies the entity, says whether it still exists, expla
 
 So this section is not his memory. It is the record telling him what happened to him, in the only order the evidence supports, because the man it happened to has spent his whole life unable to check.
 
+And the record does not tell it in a sentence. It tells it in the reconstruction notice the Directorate issued him, which prints the one word that matters at the speed of a machine that would rather not say it:
+
+> *S u b j e c t:   r e m o v e d   b e f o r e   n o t i c e.*
+> *R e c o v e r y:   n o n e .*
+
+He has read that notice more times than any other document in his life, and it has never once changed.
+
 ### The Architect
 
 He grew up able to see the structure of things.
@@ -89,7 +96,9 @@ Architects are trained to survey a structure before they shape it.
 
 At thirty-one he surveyed himself.
 
-He expected to find what everyone else described: a pressure, a weight, a place where the grief sits. What he found was the geometry without the load. Every support was in position. Every span was sound. There was no Inner Sorrow in the structure at all.
+He expected to find what everyone else described: a pressure, a weight, a place where the grief sits.
+
+What he found was the geometry without the load. Every support was in position. Every span was sound. There was no Inner Sorrow in the structure at all.
 
 The distinction matters more than any diagnosis. He had not mastered grief, suppressed grief, or risen above grief. He was missing the beam. Whatever other people were carrying, he had no place in him where it would have been carried, and no memory of a time when the place had been occupied.
 
@@ -111,11 +120,9 @@ He tried to Fracture. He could not. There was nothing in him for the exposure to
 
 He survived. The record does not say that he saved anyone, and this file will not improve on the record by inventing a rescue. What it says is that he walked out of a hall where other people had died, and that he was not injured, and that the first thing he did afterward was write down the sequence in the correct order because someone would need it.
 
-The Directorate read the report and recruited him immediately.
+The Directorate read the report and recruited him immediately.  ### The Ask  Majin interviewed him in a room with a window that looked at a wall.
 
-### The Ask
-
-Majin interviewed him in a room with a window that looked at a wall. The Director asked the same question he asked everyone: what do you want.
+The Director asked the same question he asked everyone: what do you want.
 
 Ayshuk had prepared an answer. He had prepared it the way he prepared everything, and it was accurate, and it was incomplete.
 
@@ -269,6 +276,10 @@ The Director read the second page. The Director always read the second page, whi
 
 The dampener took four hours to align. Ayshuk sat with Shin for all four.
 
+The shift log for the first of them is three lines long, and the second line is the one the duty nurse wrote down verbatim because she could not think of a kinder way to record it:
+
+> *"D-don't let it t-take the — the voice, I can't — I c-can't hear it when it stops—"*
+
 He did not speak. There was nothing he could say that would have been true: he could not tell Shin he understood, because he did not; he could not tell him it would be all right, because the Directorate's own projection said otherwise; he could not offer comfort, because comfort is a transfer and he had nothing to transfer.
 
 So he sat in the chair beside the bed with his hands still and his eyes on the monitor, and he watched the numbers, and when Shin asked whether the Saint had been right about anything, Ayshuk said: *I don't know.*
@@ -281,7 +292,7 @@ The rest of it reached this file by the ordinary route. Shin told the duty nurse
 
 > **[Ayshuk]** "Research report. The Kind Healer approached the Cheonbulok refugees today."
 
-> **[Majin]** **"...What? Chamber 15 was encased in solid lead!"**
+> **[Majin]** **"...WHAT? CHAMBER 15 WAS ENCASED IN SOLID LEAD!"**
 
 > **[Ayshuk]** "It didn't breach the physical lead, Director. When the refugees were brought through Corridor 4 for secondary pulmonary scans, the Healer projected a resonance wave directly through the lead casing. A ray of golden light pierced the wall and touched the youngest refugee child."
 
@@ -385,7 +396,9 @@ He looked at the open hand for some time. Then he put his own hand in it, and th
 
 The record cannot say whether the Healer knew what it was doing. The record can say that the motion was the same motion that had been described to him all his life as the thing that had happened to him, and that this time he was awake for it, and that the difference between the two events was entirely a matter of who had agreed.
 
-He has never said whether he asked the question in hope or in the way a man checks a locked door. Both readings are available. The record keeps both.
+He has never said whether he asked the question in hope or in the way a man checks a locked door.
+
+Both readings are available. The record keeps both.
 
 ---
 
@@ -397,7 +410,9 @@ The Kind Healer's shell dissolved and the Hand of Hope rose above Floor 4, and t
 
 Ayshuk stood in the chamber with a golden mark on his forehead and no sensation he could identify, and did the first thing that occurred to him, which was to check the telemetry.
 
-He checked it for two hours. The resurrection of a dead category was, to him, first a data event: a transformation that had never been recorded had now been recorded, and the recording was the part he could do.
+He checked it for two hours.
+
+The resurrection of a dead category was, to him, first a data event: a transformation that had never been recorded had now been recorded, and the recording was the part he could do.
 
 At the end of the second hour he went to the viewport and stood where he had stood on Day 137 and looked at the empty chamber, and the hands that had held the key had nothing in them, and he wrote the only line in the file that is not a report:
 
@@ -410,6 +425,12 @@ The release came five days later. Every floor reported one aspect of it — mani
 > **[Ayshuk]** "The twelve apostles are in position on Floor 4. The Hand of Hope is resonating with the accumulators."
 
 Then the valves opened and forty-nine point eight tons of Han went into the bedrock under Zone B.
+
+The floor channel degraded in the fourth minute, and the duty engineer kept his hand on the key and kept transmitting, because the alternative was to stop and say so:
+
+> *PRESS—  pressure nom—  nominal, accumul—  accumulators hold—  hold, Floor 4, we are holding, we are h—*
+
+The transcript ends there. The engineer was fine; he had turned his headset off to wipe his face, and filed the gap as a fault on page two.
 
 He watched the gauges for the first minute, because that was the part of a release that could go wrong. He watched them for the second minute because they did not go wrong. Somewhere between the second minute and the third he stopped watching the gauges and looked at the population read-out instead, and the read-out had changed.
 
@@ -630,7 +651,9 @@ PB (C): the key on the hook — it opened a bolt that has been removed
 
 ### Promotion Check
 
-No new canonical fact is proposed. The connective material is staging:
+No new canonical fact is proposed.
+
+The connective material is staging:
 
 - Chamber 15's key, its hook, and the decommissioned lock;
 - **Haeun**, the Floor 4 researcher in the framing scene;
@@ -663,6 +686,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - No age is invented for the childhood event; no year is stated before the Directorate; the Void entity is never identified; the missing sorrow is never recovered.
 - Table rows close with a pipe; no Act, Chapter, or Part label inside a scene; no report scaffolding inside the narrative.
 - Canonical dossier unchanged.
+- Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 102 dialogue lines, of which 7 are at dropped volume (italic) and 2 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note

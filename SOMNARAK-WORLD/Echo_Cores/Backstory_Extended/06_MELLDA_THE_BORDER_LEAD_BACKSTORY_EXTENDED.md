@@ -13,7 +13,9 @@
 
 ## Prologue Record — The Hook
 
-The Wardens' stores at the Threshold smell of leather, oil, and cold stone. The issue counter runs the width of the room. Behind it, on pegs, hang forty greatcoats that nobody has claimed.
+The Wardens' stores at the Threshold smell of leather, oil, and cold stone.
+
+The issue counter runs the width of the room. Behind it, on pegs, hang forty greatcoats that nobody has claimed.
 
 The stores keeper is old enough to have issued most of them. Her name is Kyungmi, she retired eleven years ago, and she came back the following winter because the stores had nobody who could sew.
 
@@ -271,7 +273,11 @@ At the fourth hour the passenger pulled.
 
 There is no other verb for it. It was not a thought and not a voice: it was a rope tied somewhere behind her sternum, going out into the storm, and the storm was the closest thing to home the being inside her had felt since she took it in. She stood with her boots planted and her hands on the parapet and let it pull, and did not move, and the report she wrote that night has one line more than usual.
 
-The line reads: *Passenger response at fourth hour. Contained.*
+Her own log for those two minutes was recovered from the wall station recorder and is the only entry in thirty years of service that she wrote and did not save to the office register:
+
+> *"Hold — hold the — Mellda, hold the l-line, it is not — do not let it t-take the —"*
+
+The office line written above it reads: *Passenger response at fourth hour. Contained.*
 
 ### Day 41 — The Rearranging
 
@@ -345,6 +351,12 @@ The envoy was on the other side of four doors, in a room with acoustic gel pumpe
 
 The Director came at the end of the shift, as he said he would, and went in. What was said in there is not in this record, because it is not in any record this office can reach.
 
+The sound that came back through the blast doors was not speech the city had a word for, and the record does not pretend otherwise. This is the duty office's transcription, letter by letter, of a single phrase repeated at the door for most of an hour:
+
+> *K a r r h —  a s h a n —  k a r r h a s h a n —*
+
+Linguistics filed it as `unresolved: Cheonbulok pre-burn register, two of six syllables uncertain`. The passenger inside her, which had no language at all, went quiet every time it came through.
+
 In the morning the envoy was escorted back to the five-kilometer mark, because the city had no form for keeping them. They went back into the Desolate with a full canteen and a written statement of the city's position, and the four blast doors were sealed again, and the airlock was logged as `CLEAR`.
 
 Thirty-five days later the same envoy came back with twelve people.
@@ -361,7 +373,11 @@ She cut the cable herself, with a knife, because the knots had been tied by peop
 
 Then she stood at the mouth of Gate 05 for six hours while the street outside it filled with Threshold residents who had come to look at the first foreigners any of them had ever seen, and did not let one of them through the cordon, and did not let one of the newcomers be touched.
 
-The wall held. Nothing crossed it that should not have. The city's whole definition of *inside* had changed by evening, and the wall held anyway.
+The wall held.
+
+Nothing crossed it that should not have.
+
+The city's whole definition of *inside* had changed by evening, and the wall held anyway.
 
 ### Day 141 — The Armbands
 
@@ -413,7 +429,7 @@ She was on the south wall with her officers when it reached them. Below her, the
 
 She listened to it for a while, sorting it, because sorting was what she did.
 
-> **[Mellda]** **"They're weeping. They're laughing. They're raging. They're hoping."**
+> **[Mellda]** **"THEY'RE WEEPING. THEY'RE LAUGHING. THEY'RE RAGING. THEY'RE HOPING."**
 
 One of her officers asked which one it was.
 
@@ -716,6 +732,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Day 108 is quoted nowhere: file 02 owns that exchange, and this file begins after it.
 - No cause is supplied for the overflow; the passenger is never named, speciesed, or described; the return is never treated as an acquittal.
 - Canonical dossier unchanged.
+- Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 105 dialogue lines, of which 9 are at dropped volume (italic) and 2 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note

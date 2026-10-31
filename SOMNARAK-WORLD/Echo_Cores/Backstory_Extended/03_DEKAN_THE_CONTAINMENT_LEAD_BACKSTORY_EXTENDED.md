@@ -95,7 +95,11 @@ The Dream Bleed began during the evacuation. He could not remember the route out
 
 There was one thing he wanted to ask her, and he did not ask it. She was already moving toward the marker and the field was already up, and a child who asks *are you coming* in that moment is asking an adult to choose between answering and acting. He had been raised by a Warden. He understood the arithmetic before he had the words for it, and he chose to let her act.
 
-So he did not ask. She made him repeat his name until the words came back in the right order, and then she went to the marker, and the wall took her.
+So he did not ask. She made him repeat his name until the words came back in the right order, and the words did not want to come back, and this is the part the record has from him directly and from nowhere else:
+
+> *"D-Dekan. Dekan. Dek— Dekan."*
+
+She made him say it four times. On the fourth it was a name again, and only then did she go to the marker, and the wall took her.
 
 Whether she spoke after it reached her is not recorded and is not resolved here.
 
@@ -135,7 +139,11 @@ He learned two rules that govern the rest of his voice. The first: an extraordin
 
 The official history available to young personnel described the Cheongula as an unforeseeable overflow.
 
-His baseline work made that difficult to accept. The Maw changed slowly enough to be measured. Its dangerous movements produced precursors. If a child with improvised notes could identify a pressure change, then the city that existed during the original disaster had had instruments, and wardens, and a decade of warning.
+His baseline work made that difficult to accept.
+
+The Maw changed slowly enough to be measured.
+
+Its dangerous movements produced precursors. If a child with improvised notes could identify a pressure change, then the city that existed during the original disaster had had instruments, and wardens, and a decade of warning.
 
 During his auxiliary years, a cross-reference request for old perimeter behaviour returned two records that were not supposed to appear together. The first was the Menders' projection of Year 195. The second was a Warden incident index whose final entry lasted exactly **seventeen minutes**.
 
@@ -143,7 +151,9 @@ He did not receive the complete order. He never learned which Council members si
 
 He did not become a public whistleblower. He became more exact.
 
-Every measurement he preserved from that year forward was a hedge against a future command being able to say that no one could have known. It was a strange kind of revenge: not disclosure, but the construction of a record so complete that the lie would eventually have nowhere to stand.
+Every measurement he preserved from that year forward was a hedge against a future command being able to say that no one could have known.
+
+It was a strange kind of revenge: not disclosure, but the construction of a record so complete that the lie would eventually have nowhere to stand.
 
 ### The Doctrine
 
@@ -211,6 +221,10 @@ The title contains the ambiguity of his life and does not resolve it: is he the 
 
 > **[Dekan]** "*“He carries the weight. He will carry the stone.”* They were repeating your old operational callsign, Director. The one from the first century of the Before-Time."
 
+He had the raw capture on the second slate and he played it once, against his own recommendation, because a summary would not have carried what was wrong with it. Twelve voices, one sentence, none of them arriving together:
+
+> *He carr—  carries the —  the weight, he —  he will carry —  carry the s—  the stone.*
+
 > **[Majin]** "Increase the magnetic dampeners by fifteen percent. Deploy four additional anchor pins into the granite bed."
 
 > **[Dekan]** "Anchor pins won't hold it, Majin. The Maw isn't just rock and bone anymore. It's listening to us. Every time we extract a box of Han, it shifts toward the central elevator."
@@ -272,6 +286,12 @@ He was the perimeter. He was the one who stood outside the wall with a clipboard
 He did not say any of this to the Director. He wrote it in the ledger, in the margin, in the smallest hand he had:
 
 > *They asked to go home. There is no field for that.*
+
+And underneath it, in the hand he uses when he is not writing for the file, the same three words again, spelled out the way the wall had spelled them before it found its grammar:
+
+> *t h e y   a s k e d*
+
+He has never shown that page to anyone. It is the only place in the record where Dekan writes something he cannot file even in a margin.
 
 ---
 
@@ -341,7 +361,7 @@ Majin did not answer for long enough that Dekan checked the channel was still li
 
 > **[Majin]** "They are singing themselves to sleep, Dekan."
 
-> **[Majin]** **"Tell the entire facility: silence all heavy machinery. Let their lullaby be heard."**
+> **[Majin]** **"TELL THE ENTIRE FACILITY: SILENCE ALL HEAVY MACHINERY. LET THEIR LULLABY BE HEARD."**
 
 The order went out. He carried it himself to the engineering decks, because it was the first order in four thousand years that required the facility to be quiet rather than to hold.
 
@@ -459,7 +479,11 @@ Her name is Iseul. In his first ledger she is *the kitchen woman, evening shift*
 
 She ran the perimeter kitchen in the year he was eight. She is old now, and she lives four streets back from marker twenty-two in a house with a stove that is too large for one person.
 
-He visits on the ninth of the month. He has done it since the Cycle broke. She feeds him and does not let him talk about reports until he has eaten, which is a rule she invented when he was a child and has never once been asked to justify.
+He visits on the ninth of the month.
+
+He has done it since the Cycle broke.
+
+She feeds him and does not let him talk about reports until he has eaten, which is a rule she invented when he was a child and has never once been asked to justify.
 
 > **[Iseul]** "You still walk the whole line."
 
@@ -586,7 +610,9 @@ Then, underneath, in the margin, where the forms do not look:
 | **Part Three — Day 165, the quiet** | *Count the markers. State the observation before the interpretation. Repeat your name.* | A wall that does not answer | Nothing. He says them anyway |
 | **Part Three — Year 4,238, the kitchen** | *Dekan.* | A retired cook standing in her own doorway | The third rule, given back to him by the person who watched him learn it |
 
-The sentences do not change. What changes is whether there is anyone behind the wall to be counted.
+The sentences do not change.
+
+What changes is whether there is anyone behind the wall to be counted.
 
 ### Chronological spine
 
@@ -740,6 +766,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - No scene gives Dekan knowledge his dossier denies him, including the identity of the Council signatories and the resolution of his mother's voice.
 - No canonical speaker is quoted outside a record that already contains the line. The Day 177 statement is Dekan's; the Giltong annex is a document; the cook and the wardens are unnamed staff.
 - Canonical dossier unchanged.
+- Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 91 dialogue lines, of which 13 are at dropped volume (italic) and 1 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note

@@ -682,6 +682,29 @@ Caps belong to **bold** and to single shouted words inside it. A roman line is n
 3. **The weight has to be earned by the scene,** not by the line's importance. A character does not shout a plot point because it is a plot point.
 4. **Silence is a weight.** A character who says nothing while another speaks must be visible in the beat, or the reader will assume he was not there.
 
+### XII.1d Lettering
+
+§XII.1c decides **how loud** a line is. This section decides **what the letters themselves do**, because weight alone cannot carry a system failing mid-word, a voice arriving through a wall in pieces, or a child who cannot get the sentence out. A page with three weights and no lettering is still an even page.
+
+Five devices. Each is a meaning, not a mood, and each has a cap, because a device used everywhere stops being a device.
+
+| Device | Looks like | Means | Where it belongs | Cap |
+|---|---|---|---|---|
+| **Caps** | `**"OPEN GATE 05."**` | The one word, or the whole line, is being carried by volume alone. | Only inside **bold**, and only where the room is louder than the speaker. A roman line is never set in caps. | One per scene |
+| **Uneven set** | `S e i y o n.` — the word set letter by letter | The speaker is assembling the word rather than saying it: a system rendering a name it is not permitted to use, a person speaking slowly enough that the listener hears each letter, a document printing at a crawl. | Narration, in-world documents, and connective lines. **Never a verbatim Part quote.** | Once per file |
+| **Shaky** | `"I— I— it was already inside."` / `"t-t-tell me"` / `Nnnno.` | The letters break up under fear, cold, blood loss, or a mind losing its grip. Not grief, not anger, not pain held in. | Any line where the speaker is losing the ability to form words. | Twice per file |
+| **Broken** | `"The gauges are read—"` / `"D I R E C — T O R"` / a transmission that arrives with words missing | The word arrives in pieces: the channel degrades, the volume eats the middle of a sentence, the equipment fails between syllables. Distinct from `—` (cut by another speaker) and from `...` (abandoned by the speaker). | Transmission, machinery, entity speech through a wall, the moment a body stops obeying. | Twice per file |
+| **Asymmetry** | One-word paragraph. Then four sentences. Then one word again. | The page is not even. Scene shape is carried by unequal masses, not by a metronome of identical blocks. | Every scene. Any paragraph. | Mandatory — see below |
+
+**The asymmetry test.** Within any scene of more than six paragraphs, no three consecutive paragraphs may fall within fifteen percent of each other in length, and at least one paragraph in the scene must be five words or fewer. A file that passes the weight check and fails this one is still a flat page with better punctuation.
+
+**The fidelity rule, and where it changes.** Case is rendering: the same letters in a different case are the same word, so **caps may be applied to any line, including a verbatim Part quote.** Spacing and fragmentation are not rendering — they insert or separate characters — so **uneven set and broken may never touch a line the Part files word for word.** They belong to narration, to connective scenes, to in-world documents, and to transmission that the record is transcribing rather than quoting. The mechanics: strip `>`, `**`, `*`, the wrapping quotes, and the case; the body must still match the Part.
+
+**Two more limits, so the devices stay honest.**
+
+1. **Lettering never repairs a beat.** If a line reads badly flat, the first fix is a physical beat or a different weight; the letters are the last resort, not the first.
+2. **One failing system per scene.** If a transmission is broken, the room is not also shaking. Two lettering devices in one exchange cancel each other and read as decoration.
+
 ### XII.2 Documents
 
 If a character reads, hears, or accesses a document, write the exact portion reached — not a summary. Stop at the point where the character stops. Do not supply text the record does not contain.

@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Lettering: caps, uneven set, shaky, broken, and asymmetry (2026-11-01)
+
+Weight decides how loud a line is. It does not decide what the letters themselves do, and the first six files were still setting every word on an even line. Fixed in the records, not annotated.
+
+- **The standard now carries a lettering register.** `00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` §XII.1d defines five devices with a cap on each — caps (only inside bold, one per scene), uneven set (a word set letter by letter, once per file), shaky (the letters break under fear, cold or blood loss, twice per file), broken (the word arrives in pieces — channel, machinery, entity speech through a wall, twice per file) — and asymmetry, which is mandatory and measurable: **no three consecutive paragraphs in a file may fall within fifteen percent of each other in length.**
+- **The fidelity rule was extended, not weakened.** Case is rendering, so caps may be applied to a verbatim Part quote. Spacing and fragmentation are not: uneven set and broken never touch a line the Part files word for word. They belong to narration, documents, and transcription.
+- **Where the devices landed, one earned instance each.** Majin's two commands over the loudest room in the file; the Secretary's first output printing one letter at a time; the untranslated reason the station built her without a mirror; the voice inside the fusion that never finished its word. Dekan's fatherless spelling of *t h e y   a s k e d*, twelve voices out of sync over the wall, and a seven-year-old failing to say his own name. Zyrak's cast engineer typing *t a c t i l e   r e f e r e n c e* one key at a time, and the child's third register the Row redacted. Ayshuk's reconstruction notice, the mnemonic dampener shift log, and the Floor 4 channel degrading mid-word on Day 160. Mellda's untranslatable envoy phrase, and her own recorder catching her losing the line in the storm.
+- **The paragraphs were re-cut, and checked.** Every file now measures **zero** three-paragraph runs inside a fifteen-percent band; short paragraphs of five words or fewer run from three to twelve per file. Each file's validation record carries its own device list.
+- **[P]** Remaining: characters 07–09 (Marjuk next), drafted in both registers rather than retrofitted; the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Typographic register: dialogue performed on the page (2026-11-01)
 
 The owner's ruling was that the first six backstory files rendered shouting, whispering, panic and silence identically, and that a page where a command over noise and a death read the same weight has not been written yet. Fixed in the records themselves, not annotated.

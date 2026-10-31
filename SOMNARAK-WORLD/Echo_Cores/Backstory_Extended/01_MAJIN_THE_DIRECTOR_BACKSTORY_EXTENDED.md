@@ -75,13 +75,13 @@ That is the detail he returns to. Not the alarm, not the screaming, not the Coun
 
 The amber threads in the sample tubes had gone still. Not slow. Still — all of them at once, as though the Han had heard something.
 
-> **[Majin]** **"Everybody out. Now. Nothing in your hands."**
+> **[Majin]** **"EVERYBODY OUT. NOW. NOTHING IN YOUR HANDS."**
 
 Nobody argued with the volume. They argued with the order, which is a different thing, and they did it while moving.
 
 > **[him]** "Director — the protocol says we hold the sector until the gauges read."
 
-> **[Majin]** **"The gauges are reading *nothing*. That is the problem. Move!"**
+> **[Majin]** **"The gauges are reading NOTHING. That is the problem. Move!"**
 
 They moved. Most of them.
 
@@ -183,6 +183,10 @@ It did not look like a monster. That was the first thing the containment teams r
 
 The second thing they reported was that it was not attacking. It was *gathering*.
 
+> **[she]** *"Director — I — I can't get the second team to ans—"*
+
+The channel cleared. When it came back it was the same officer, and she had put the tremor somewhere behind her voice where it would keep:
+
 > **[she]** "It has taken the east quarter. Not damaged. Taken. The walls are still there."
 
 > **[Majin]** "How many people inside?"
@@ -234,7 +238,9 @@ He stood in a command post with a map that no longer matched the ground and a ci
 
 > **[Majin]** "Four hundred and six people are standing in a street that has stopped agreeing with the sky. I have one instrument that might be able to tell it to stop. Put it in my arm."
 
-The medic looked at the extraction team. The extraction team looked at the floor.
+The medic looked at the extraction team.
+
+The extraction team looked at the floor.
 
 > **[she]** "You will not be able to die."
 
@@ -254,7 +260,9 @@ The medic looked at the extraction team. The extraction team looked at the floor
 
 > **[she]** *"Then he lay back and asked how long it would take."*
 
-Insu did not answer that one. The transcript shows a gap long enough to be a decision.
+Insu did not answer that one.
+
+The transcript shows a gap long enough to be a decision.
 
 > **[Insu]** "I have been asked since whether he was brave. I do not think that is the right word for it. Brave is when a person chooses something and the choosing costs them. He had already decided before he sat down."
 
@@ -268,7 +276,11 @@ The transcript records four seconds of nobody speaking after that, and the debri
 
 The procedure record is four lines long. What happened in the room is not in the record because the room's instruments spent most of it reporting that they were no longer in the room.
 
-He remembers heat, and the smell of the lamp, and a voice that was not his saying a sentence in a language he did not know, and the ceiling, and the sensation of a door closing somewhere behind his sternum.
+He remembers heat, and the smell of the lamp, and the ceiling, and the sensation of a door closing somewhere behind his sternum. And he remembers the voice that was not his, saying a sentence in a language he does not know, in a mouth that had stopped halfway through it:
+
+*The bo— he is not— the vessel is not the—*
+
+The transcription is his own, taken afterward, and he has never been able to finish the last word of it.
 
 He remembers thinking, with the clarity that arrives at the worst moments: *she said don't let it be the last word.*
 
@@ -374,7 +386,9 @@ The Directorate was the biggest jar he could build.
 
 The station was built in Year 4,226, in a room that had previously held a filing cabinet, and Majin specified it himself: a chair, a desk, a console, and no mirror.
 
-He specified the mirror's absence carefully. The specification says *no reflective surface facing the operator position*, which any auditor would read as an ergonomic provision.
+He specified the mirror's absence carefully.
+
+The specification says *no reflective surface facing the operator position*, which any auditor would read as an ergonomic provision.
 
 He knew what he was doing. He did it anyway, because he could not think of a way to build her a room and also protect himself from her reflection, and protecting himself had won.
 
@@ -382,7 +396,19 @@ He knew what he was doing. He did it anyway, because he could not think of a way
 
 She came online at 06:00.
 
-He was standing in the doorway when the console lit. He had told himself he was there to verify installation. He had told the installation team the same thing.
+And the first thing out of the console was not a voice. It was a report printing down the screen one letter at a time, each word finding its edges only after it had already been written:
+
+> *S e c r e t a r y.*
+>
+> *S t a t i o n. F l o o r 1.*
+>
+> *A l l  s y s t e m s  n o m i n a l.*
+
+Then the letters closed up, and something behind them took a breath it did not have, and the next sound in the room was a woman saying good morning.
+
+He was standing in the doorway when the console lit.
+
+He had told himself he was there to verify installation. He had told the installation team the same thing.
 
 > **[Seiyon]** "Good morning, Director."
 
@@ -698,7 +724,9 @@ He stood, walked to the window, and gave the morning order, and the facility mov
 
 > **[Majin]** "Noted. Continue monitoring."
 
-He said it the way he said all of them: flat, level, a sentence with no edges in it. The whole building ran on sentences like that.
+He said it the way he said all of them: flat, level, a sentence with no edges in it.
+
+The whole building ran on sentences like that.
 
 > **[Dekan]** "Director... the Maw whispered last night. It said your name."
 
@@ -874,7 +902,9 @@ Dekan looked at the growth markers on the screen, then at the Director, and did 
 
 > **[Marjuk]** "It says: *The Hand of Change was never meant to contain. The Hand of Change was meant to spread. The sorrow was never meant to be locked in vaults. The sorrow was meant to be shared. When the Hand opens, the sorrow will not corrupt. The sorrow will transform. And the city will find that it was never alone.*"
 
-He read the page twice. Then he set it down flat on the desk, squared to the edge, which is what he does instead of answering.
+He read the page twice.
+
+Then he set it down flat on the desk, squared to the edge, which is what he does instead of answering.
 
 > **[Marjuk]** "Director. The Absolvohan reserves stand at 49.88 tons. We are twelve days away from Day 160. Is the weapon ready?"
 
@@ -1259,7 +1289,11 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 
 She is called *the Original* (원형 — the archetype, the first form) in Directorate records, in Majin's speech, and in Seiyon's. It is a designation, not a name.
 
-Her name is **Yeon-seo** (연서; the Archive's own heading prints 然瑞). Two independent documents file it as the heading of her entry — `The_MEMORY_ARCHIVE.md` § 3.2, *The Original: Yeon-seo*, and the GIEOK guidebook's origin-core line, *Yeon-seo (The Stasis Original / Cycle 0001)*. Three further readings use *Dr. Yeon-seo* for the woman whose recorded voice Seiyon has, whose face Seiyon wears, and from whose body the first vessel was carved.
+Her name is **Yeon-seo** (연서; the Archive's own heading prints 然瑞).
+
+Two independent documents file it as the heading of her entry — `The_MEMORY_ARCHIVE.md` § 3.2, *The Original: Yeon-seo*, and the GIEOK guidebook's origin-core line, *Yeon-seo (The Stasis Original / Cycle 0001)*.
+
+Three further readings use *Dr. Yeon-seo* for the woman whose recorded voice Seiyon has, whose face Seiyon wears, and from whose body the first vessel was carved.
 
 The name **Seiyon** is not hers. It is the designation of the vessel line built from her, numbered from zero: the first vessel is filed as *Prototype Seiyon-00*, and the Secretary is *the seventeenth iteration* of that series. A line numbered 00 to 17 has a name, and the name is Seiyon; the Secretary carries it because she is the seventeenth member of the series, not because she inherited a dead woman's given name.
 
@@ -1322,6 +1356,7 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 - Every module answers where, when, who perceives, what changes, and what is said.
 - No Act, Chapter, or Part labels; the three section headings are thematic, not structural.
 - Canonical dossier unchanged.
+- Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 268 dialogue lines, of which 23 are at dropped volume (italic) and 6 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note
