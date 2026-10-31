@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Echo-Core Backstory Extended: backstory-only cast and its naming rule (2026-10-31)
+
+- **The layer is now allowed to invent people, and two of them have names.** A facility staffed entirely by nine named executives is a diagram, not an institution. §XII.1b permits characters who exist only inside these files — the cook, the medic, the warden on the line — and requires that each one be bounded, registered, and kept out of canon until a Promotion Check is approved.
+- **A profession is never a dialogue label.** `[Medic]`, `[Engineer]`, `[Warden]`, `[Officer]`, `[Envoy]`, `[The cook]` all read like names on the page and imply a personnel file the record does not hold. A speaker known only by profession takes `[she]`, `[him]`, or `[unknown]`; the label becomes `[Name]` only at the moment the file names them.
+- **Two backstory-only characters were named:** **Iseul** (이슬, "dew"), the retired perimeter cook who fed Dekan in the year he had no household, and **Insu** (인수, "human and long-lived"), the senior medic who gave the Day 0 debrief on the fusion directive. Both names come from `SOMNARAK_NAME_REGISTRY.md`, neither is in use anywhere else in the repository, and both are registered in the file appendix and in the standard's cast register.
+- **The rest stay unnamed on purpose.** The second medic, the containment officer, the engineer, the Council envoy, the Day 125 specialist, the Day 177 warden, and the Year 4,238 filing officer all remain pronoun labels. A named witness implies a standing; an unnamed one implies a shift. The files need both.
+- **One rule closed a door:** no canon figure may be named on their behalf. The Original keeps its title — no name exists anywhere, so no `[???]` count can be honest — and Dekan's mother stays *his mother* in every line, including the ones she speaks.
+- **[P]** Remaining: characters 04–09, and an owner ruling on the Solidification dating. The SE ↔ M.A.W. reconciliation queue remains pinned WIP.
+
 ## Echo-Core Backstory Extended: unnamed speakers are labelled by pronoun (2026-10-31)
 
 - **Job titles are no longer used as dialogue labels.** A speaker who has no personal name in the record was being tagged with a role — `[Specialist]`, `[Warden]`, `[The cook]`, `[Senior Medic]`, `[Council Envoy]` — and a role in brackets reads like a name. It also implies a personnel entry the record does not contain: a named staff member with a checklist, a clearance level, a file.

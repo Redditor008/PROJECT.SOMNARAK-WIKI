@@ -116,6 +116,7 @@ The appendix carries the working record:
 - Do not rename, move, or delete a canonical Echo-Core dossier to make room for an extended record.
 - **Chapter Rule and Chatroom Rule are off** for story files. Write the planned repo `.md` directly; R-31 governs only the chat report of the work.
 - **POV never grants knowledge.** FPV, TPV, and SPV change the lens, not what the character is allowed to know or remember.
+- **Backstory-only characters are permitted, and some of them are named.** A cook, a medic, a warden may be invented for this layer — a facility of nine executives and no staff is a diagram. Names come from `REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md`, every named one is registered in that file's appendix and in §XII.1b of the standard, and none of them becomes canon until a Promotion Check is approved.
 - **No quota.** A file may use one, two, or all three time categories, POV modes, and writing styles.
 - **Documents are quoted only as far as the record reaches.** Do not invent a full journal page, Door fragment, or transmission beyond what the dossier or Absolvohan files.
 - This folder does not activate itself. Only the owner names the next Echo-Core.

@@ -594,7 +594,8 @@ A speaker who has no personal name in the record is **not labelled with a job ti
 ```
 
 - **`[she]` and `[him]`** — the speaker's gender is fixed by the scene or by the record. Fix it once and do not switch mid-file.
-- **`[unknown]`** — the record never establishes the speaker's gender, and the scene does not need one.
+- **`[unknown]`** — the record never establishes the speaker's gender, and the scene does not need one. This is also the neutral label for a speaker the record knows only by profession.
+- **A profession is never a label.** A medic, an engineer, a warden, an officer, an envoy, a cook — each takes `[she]`, `[him]`, or `[unknown]`, never `[Medic]`. If the file later names that person, the label changes to `[Name]` at the moment of naming and not one line earlier.
 - **`[???]`** — the speaker has a name the record knows but withholds. **One question mark per character of that name**, so the length is a readable clue and nothing else leaks: `[?????]` is a five-character name, `[??????]` is six.
 
 Four consequences follow:
@@ -603,6 +604,31 @@ Four consequences follow:
 2. **A title the record uses as a title stays a title.** `[The Original]` is the record's own designation for a figure whose name is unknown everywhere in canon; `[???]` would require a name length that no source supplies, so inventing the count invents evidence.
 3. **Reproduced documents keep their own conventions,** but the preamble must say which unnamed speaker is which — e.g. *"Three members present. The senior medic speaks first; the second medic is the younger voice."*
 4. **Retroactive.** Files 01 and 02 were conformed to this rule when it was filed; files 03–09 obey it from the first draft.
+
+### XII.1b Backstory-only characters
+
+This layer is allowed to invent people who exist nowhere else: the cook who fed a child, the medic who watched a bonding, the warden who asked the question nobody in command asked. A facility of nine named executives and no staff is not an institution; it is a diagram.
+
+They may be named or unnamed, and the file decides per person. An unnamed one takes a pronoun label. A named one takes `[Name]`, and that name enters the cast register below.
+
+Eight rules bound them:
+
+1. **Names come from the registry.** Use `REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md`, given name first, and never a name already in use elsewhere in the repository.
+2. **Never name a canon figure who has no name.** The Original stays `[The Original]`. Dekan's mother stays *his mother*. A backstory-only character may be named; a canonical one may not be named on their behalf.
+3. **No office.** A backstory-only character holds no floor, no Echo-Core authority, no seat on the Council, and signs no protocol. Their authority is the authority of a shift.
+4. **No new anchor.** They never appear in an Absolvohan Part scene they are not already in, and never speak for a named figure in one.
+5. **No displacement.** They may not take over a function the canon assigns to a named character — no invented assistant who briefs the Director, no invented archivist who keeps Marjuk's shelves.
+6. **Registered, twice.** Every named one enters the file's appendix cast table and the register below. An unregistered name is a continuity defect.
+7. **Not canon.** A character invented here is staging until a Promotion Check is approved and the owner synchronises it. Filing the file does not promote the cast.
+8. **Reuse must match.** A character reused in a later file keeps the same age band, post, district, and knowledge. If a later scene needs them to know more, the earlier file must be able to account for how they learned it.
+
+**Cast register — backstory-only characters**
+
+| Name | File | Role | Bounds | Standing |
+|---|---|---|---|---|
+| **Iseul** (이슬, "dew") | `03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md` | Retired perimeter cook, Zone B; fed Dekan during the year between systems and after | One house near marker twenty-two; no clearance; knows the child, not the thousand | Backstory-only; reusable in 04–09 if consistent |
+| **Insu** (인수, "human and long-lived") | `01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md` | Senior medic, extraction team; gave the debrief on the fusion directive | Present at the Day 0 bonding only; no later command role | Backstory-only; reusable in 04–09 if consistent |
+
 
 
 ### XII.2 Documents

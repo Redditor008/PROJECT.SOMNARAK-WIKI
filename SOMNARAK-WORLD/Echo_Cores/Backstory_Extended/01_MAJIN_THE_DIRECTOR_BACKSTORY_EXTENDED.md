@@ -226,17 +226,17 @@ The medic looked at the extraction team. The extraction team looked at the floor
 
 #### What the Medics Said
 
-*Extract from the extraction-team debrief, taken in Year 4,238 during the disclosure inquiry. Three members present. The senior medic speaks first; the second medic is the younger voice.*
+*Extract from the extraction-team debrief, taken in Year 4,238 during the disclosure inquiry. Three members present. The senior medic, Insu, speaks first; the second medic is the younger voice and is not named in the record.*
 
-[him] He read the directive before he signed it. I want that in the record, because the version that circulated afterward had him signing it blind. He sat on the table with his sleeve cut open and read the whole page, twice, and then he said —
+[Insu] He read the directive before he signed it. I want that in the record, because the version that circulated afterward had him signing it blind. He sat on the table with his sleeve cut open and read the whole page, twice, and then he said —
 
 [she] He said "noted."
 
-[him] He said "noted." That is the sentence nobody put in the report. Not "I accept," not "for the city." Noted. Like it was a shift change.
+[Insu] He said "noted." That is the sentence nobody put in the report. Not "I accept," not "for the city." Noted. Like it was a shift change.
 
 [she] Then he lay back and asked how long it would take.
 
-[him] I have been asked since whether he was brave. I do not think that is the right word for it. Brave is when a person chooses something and the choosing costs them. He had already decided before he sat down. The sitting down was administration.
+[Insu] I have been asked since whether he was brave. I do not think that is the right word for it. Brave is when a person chooses something and the choosing costs them. He had already decided before he sat down. The sitting down was administration.
 
 #### The Fusing
 
@@ -1051,7 +1051,7 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | The Original | The sentence he will misread | Connective scene |
 | 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification | The Original | "Don't let it be the last word" | Canon-anchored |
 | 3 | The Sovereign | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment | Majin | He becomes the container | Canon-anchored |
-| 4 | What the Medics Said | PAST | TPV camera | The senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
+| 4 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
 | 5 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
 | 6 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
 | 7 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
@@ -1157,7 +1157,7 @@ No new canonical fact is proposed. Connective material is staging, witness voice
 
 - the bench, the lamp with moods, the replaced shade, the scrap of a gauge log;
 - the east quarter's four hundred and six and the two teams of nine;
-- the senior medic's debrief;
+- Insu's debrief — the senior medic who watched the bonding;
 - the sealed interview questions are referenced but never revealed;
 - Dekan's catwalk statement and his account of the lift;
 - the Manifold Room during the barrel cut;
@@ -1171,7 +1171,7 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 |---|---|---|
 | **The object** | The scrap of gauge log in her handwriting | Prologue (written, kept); The Bench, Again (held, re-read) |
 | **The withheld sentence** | *Shared is not something you send* — written in micro-ink on Day 145 and never said aloud | What the Founder Wrote; What Broke |
-| **The counter-witness** | The senior medic on the fusion directive: he read it twice, then said "noted" | What the Medics Said; Day 365 |
+| **The counter-witness** | Insu, the senior medic, on the fusion directive: he read it twice, then said "noted" | What the Medics Said; Day 365 |
 | **The permanent symptom** | He reads reports twice, and reads names twice, because once does not make them stay | The Lance; Day 29; Day 365; Willingness |
 | **The oblique speech** | The catwalk, Day 29: the warm floor, the readings he heard instead of her, "what am I supposed to file that under" | Day 29 — The Forgiveness |
 | **The stance** | Willingness | Willingness |

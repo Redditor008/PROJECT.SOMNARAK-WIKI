@@ -425,53 +425,55 @@ He did not add the sentence he was thinking, because the report was going well a
 
 He filed the thought separately. It is in the ledger, in the margin, where the facility's forms do not look.
 
-### Year 4,238 — The Woman Who Fed Him
+### Year 4,238 — Iseul
 
-She ran the perimeter kitchen in the year he was eight, and she is old now, and she lives four streets back from marker twenty-two in a house with a stove that is too large for one person.
+Her name is Iseul. In his first ledger she is *the kitchen woman, evening shift*, because that is how an eight-year-old records an adult he is afraid of losing: by the post she stands at and the hour she is there.
+
+She ran the perimeter kitchen in the year he was eight. She is old now, and she lives four streets back from marker twenty-two in a house with a stove that is too large for one person.
 
 He visits on the ninth of the month. He has done it since the Cycle broke. She feeds him and does not let him talk about reports until he has eaten, which is a rule she invented when he was a child and has never once been asked to justify.
 
-[she] You still walk the whole line.
+[Iseul] You still walk the whole line.
 
 [Dekan] Forty minutes. Every marker.
 
-[she] In the cold.
+[Iseul] In the cold.
 
 [Dekan] The markers don't care about the cold.
 
 She laughs at that the way she has laughed at it for thirty-six years, and then she says the thing this record has been walking toward, in the plain voice of a woman who never had a clearance level and never needed one.
 
-[she] You were a terrible child to have in a kitchen, you know. Up at all hours. Writing your little numbers.
+[Iseul] You were a terrible child to have in a kitchen, you know. Up at all hours. Writing your little numbers.
 
 [Dekan] I was useful.
 
-[she] You were useful. That's not what I said.
+[Iseul] You were useful. That's not what I said.
 
 She reminds him of the night the researcher came at two in the morning. Marker eleven had gone soft and the readings disagreed and a man with a coat too good for Zone B wanted a child to stand next to it and say what he felt.
 
 [Dekan] I remember.
 
-[she] You came back at four and sat in my kitchen and wrote the whole thing down again, in your own hand, in your own book. And I asked you why, when the man already had it.
+[Iseul] You came back at four and sat in my kitchen and wrote the whole thing down again, in your own hand, in your own book. And I asked you why, when the man already had it.
 
 [Dekan] ...
 
-[she] You said, *so if it happens again nobody can say we didn't know.*
+[Iseul] You said, *so if it happens again nobody can say we didn't know.*
 
 He does not answer. The stove ticks as it cools.
 
-[she] You were eight years old, Dekan. You were not doing their filing. You were building a warning for people who hadn't been born yet.
+[Iseul] You were eight years old, Dekan. You were not doing their filing. You were building a warning for people who hadn't been born yet.
 
 [Dekan] I was standing beside an unstable marker because a man in a good coat told me to.
 
-[she] Yes. And then you went home and did the part he hadn't asked for. Those are two different things and you have spent thirty-five years pretending they're one.
+[Iseul] Yes. And then you went home and did the part he hadn't asked for. Those are two different things and you have spent thirty-five years pretending they're one.
 
 She is the only person alive who can say the next sentence to him, because she was there and she has no institution to protect and she is too old to be impressed by him.
 
-[she] We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours. Not yours. You have been carrying our failure around like it was your homework.
+[Iseul] We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours. Not yours. You have been carrying our failure around like it was your homework.
 
 [Dekan] If I put it down, the thousand are only a file.
 
-[she] They're already only a file. You're the one who keeps reading it.
+[Iseul] They're already only a file. You're the one who keeps reading it.
 
 He eats. He does the washing up, badly, as he has always done it badly, and she lets him, and when he leaves she stands in the door and makes him say his name.
 
@@ -533,8 +535,19 @@ Then, underneath, in the margin, where the forms do not look:
 | 16 | Day 177, what he read to his own wardens | FLASHBACK | FPV | Dekan | His wardens | DIALOGUE | Institutional event | C/R | Absolvohan Day 177; Warden incident index | The thousand | The seventeen minutes read aloud | Canon-anchored |
 | 17 | The Giltong annex | FLASHBACK | SPV | The review | The file | FULL STORY | Document | R | Giltong merge review, Year 4,232 | Dekan | The form that had no field | Connective scene |
 | 18 | Day 350, visitors | FLASHBACK | FPV | Dekan | Majin | DIALOGUE | Person | C | Absolvohan Day 350 | Dekan | The word *family* | Canon-anchored |
-| 19 | The woman who fed him | RE-EXPOSURE | FPV | Dekan | The cook | DIALOGUE | Person | C/R | Year 4,238, perimeter kitchen | Dekan | The night of marker eleven, re-read | Connective scene |
+| 19 | Iseul | RE-EXPOSURE | FPV | Dekan | Iseul | DIALOGUE | Person | C/R | Year 4,238, perimeter kitchen | Dekan | The night of marker eleven, re-read | Connective scene |
 | 20 | The count | FLASHBACK | TPV | Dekan | — | FULL STORY | Document | C/R | Year 4,238 closure summary | The thousand | Population: one thousand. Departed. | Connective scene |
+
+### Cast
+
+| Speaker | Kind | Labels used | Bounds |
+|---|---|---|---|
+| **Iseul** (이슬) | Backstory-only, named | `[Iseul]` | Retired perimeter cook; one house near marker twenty-two; knows the child, not the thousand |
+| The perimeter specialist, Year 4,238 | Backstory-only, unnamed | `[him]` | One shift; new to Floor 2; asks the question the file has already answered |
+| The specialist on watch, Day 125 | Backstory-only, unnamed | `[she]` | Twenty-two years old; present for the Lament; does not ask again |
+| The warden at the Day 177 reading | Backstory-only, unnamed | `[she]` | Floor 2 roster; asks four questions and receives four answers |
+| The filing officer, Year 4,238 | Backstory-only, unnamed | `[him]` | Registry clerk; brings the closure summary; does not have the authority the summary needs |
+| Dekan's mother | Canon figure, unnamed everywhere | quoted in prose only, never bracketed | No name exists in any source and none is given here |
 
 ### The three rules, twice
 
@@ -546,6 +559,18 @@ Then, underneath, in the margin, where the forms do not look:
 | **Part Three — Year 4,238, the kitchen** | *Dekan.* | A retired cook standing in her own doorway | The third rule, given back to him by the person who watched him learn it |
 
 The sentences do not change. What changes is whether there is anyone behind the wall to be counted.
+
+### Cast
+
+| Speaker | Kind | Labels used | Bounds |
+|---|---|---|---|
+| **Insu** (인수) | Backstory-only, named | `[Insu]` | Senior medic, extraction team; present at the Day 0 bonding only; no later command role |
+| The second medic | Backstory-only, unnamed | `[she]` | Younger voice in the same debrief; not named in the record |
+| The warden of the east quarter | Backstory-only, unnamed | `[him]` | Day 0 containment line; delivers two reports |
+| The containment officer | Backstory-only, unnamed | `[she]` | Census and first-team report on Day 0 |
+| The engineer | Backstory-only, unnamed | `[him]` | Field generator and civic envelope |
+| The Council envoy | Backstory-only, unnamed | `[him]` | Day 0 Council delegation; carries the Tree's assessment |
+| **The Original** | Canon figure, no recorded name | `[The Original]` | Title the record itself uses; no name or name-length exists, so no `[???]` |
 
 ### Connection string
 
@@ -571,7 +596,7 @@ PB (C): the marker walk — three rules recited to a specialist, the third left 
 → POST-BREAK (C/R): Day 177 — the index read aloud to his own wardens; "I stood outside the wall and wrote down what came through it. Accurately. For thirty-five years."
 → POST-BREAK (R): the Giltong annex — the failure named by the body that filed him
 → POST-BREAK (C): Day 350 — visitors, guests, family
-→ POST-BREAK (C/R): Year 4,238 — the cook re-reads the night of marker eleven: "You were building a warning for people who hadn't been born yet"
+→ POST-BREAK (C/R): Year 4,238 — Iseul re-reads the night of marker eleven: "You were building a warning for people who hadn't been born yet"
 → POST-BREAK (C/R): the count — a closure summary refuses to record a population of zero
 ```
 
@@ -604,7 +629,7 @@ PB (C): the marker walk — three rules recited to a specialist, the third left 
 - He does **not** possess Seiyon's archive or Majin's chronology. His Cycle awareness is partial, sensory, and mediated through the Maw; the count of 1,778 reaches him through classified briefing, not memory. No scene here gives him a lifetime of recall he does not have.
 - He never learns the identity of the Council signatories on the seventeen-minute order. The record states that he did not receive the complete order and does not later supply it.
 - He cannot narrate his mother's interior after the wall reached her. Where the record needs her, it quotes what she said before.
-- The Giltong annex is a document, reproduced, not paraphrased into his point of view. The kitchen scene is staging, not testimony: the cook has no dossier entry and is given no clearance history.
+- The Giltong annex is a document, reproduced, not paraphrased into his point of view. Iseul is a backstory-only character: she has no dossier entry, no clearance history, and no role outside this file; she is registered in the appendix cast table.
 - No line is put in the Director's mouth at the disclosure. The Day 177 record shows what Dekan said to his own wardens and nothing more.
 
 ### HOLDs
@@ -628,7 +653,7 @@ No new canonical fact is proposed. The connective material is staging only:
 - the unrequested second page appended to the threat assessment;
 - the closure summary and its amended population line;
 - the Giltong annex text (a document in his file, not a line of dialogue);
-- the retired perimeter cook, her kitchen, and the night of marker eleven.
+- the retired perimeter cook **Iseul**, her kitchen, and the night of marker eleven.
 
 None changes an Echo-Core, floor, protocol, capability, chronology, or relationship. The three rules are drawn from the dossier's own list of his mother's habits. The cook dramatises the dossier's own account of his childhood use — staff waking him when readings disagreed — and adds no institution, office, or clearance. The amended population line is a filing act, not a policy change, and the record says so.
 
@@ -638,7 +663,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 |---|---|---|
 | **The object** | The three rules, and the ledger they are written in | Prologue (recited); age seven (taught); Day 125 (recited); Day 165 (said to no one) |
 | **The withheld sentence** | *There is no field for that* — and the answer he does not give a warden on Day 177 | Part Two, What Broke; Part Three, Day 177 |
-| **The counter-witness** | The cook: "We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours." The Giltong annex supplies the same verdict in institutional prose | Year 4,238 — The Woman Who Fed Him; The Giltong Annex |
+| **The counter-witness** | Iseul: "We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours." The Giltong annex supplies the same verdict in institutional prose | Year 4,238 — Iseul; The Giltong Annex |
 | **The permanent symptom** | He listens at walls before trusting instruments, states the observation before the interpretation, and writes the part no one asked for | Prologue; Day 53 (re-measured by hand); Day 125; Day 177; Year 4,238 |
 | **The oblique speech** | Day 125: the third rule offered as a procedure, with the reason withheld — "I learned it at seven. I have not found a better one." The witness cannot help and does not ask again | Day 125 — The Lament |
 | **The stance** | **The Will to Count Every One** | The Count |
