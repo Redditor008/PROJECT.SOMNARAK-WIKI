@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Echo-Core Backstory Extended: review round on files 01–03 (2026-10-31)
+
+- **Every number in the three filed records was re-derived rather than trusted.** The round found eight defects, and all eight were fixed in the files rather than annotated.
+- **File 03 had the wrong career length.** Dekan's service runs from the Directorate's founding in Year 4,202 (age eight) to the year that repeats in 4,232 — thirty years, not thirty-five. Corrected in all seven places, including the Count entry and the Day 177 line.
+- **File 01 had borrowed the Cheongula's seventeen minutes.** The Solidification's evacuation was described as "cleared in seventeen minutes… the number that entered the city's memory," which is the Cheongula's figure, four thousand years earlier and a different catastrophe. Rewritten as a lie of arithmetic that counts the stairwells that held and not the four hours spent arguing about evacuation. The phrase now appears only in file 03, where it belongs.
+- **File 01 also had the station built after the loop began.** The scene order placed Seiyon's first morning after the field closed, which would have given her 1,774 iterations instead of 1,778. The station block was moved ahead of `### The Field` and dated **Year 4,226**, and the scene ledger was renumbered to match.
+- **File 02 miscounted its own evidence.** The Exile's message is four words, not six; the saved sentence is forty characters, not thirty-four; and the exchange "it had taken 1,778 iterations to be asked" ignored the ask that had already happened at cycle 1,735. All three corrected.
+- **File 02's Prologue contradicted its own last chapter.** It announced that the Archive "wakes in nine months" while reporting that she had already requested entry — a request the record only makes after the Archive opens. The Prologue now states that the Archive opened nine months into the year and that she goes down in the morning.
+- **File 02 labelled a voice its compiler could not name.** The awakening sentence carried a `[The Original]` tag while the appendix insisted she never learned whose voice it was. The tag is gone: the line is quoted without a speaker, and the appendix records where the sentence is filed.
+- **Files 01 and 02 were each retelling the other's anchor scenes in full.** The Day 53 exchange is now quoted in 03 only to the point its record needs, and the Day 149 exchange in 02 likewise, with both ledgers saying where the rest of the scene is filed. Day 0 stays doubled on purpose: it is both files' hinge, seen from opposite sides of the same desk.
+- **File 01's memory claim is now marked as his claim.** He insists he has not forgotten; the Parts have Seiyon describe the Generator shearing him. The narrative no longer settles it, and the HOLD table records that 01 keeps his reading and 02 quotes hers.
+- **File 03 gained its withheld sentence.** *"Are you coming?"* is the question a seven-year-old did not ask while his mother walked to the marker, and it is asked at Day 165 into a pit that no longer contains anyone. The §IV.1c table was rewritten to name it.
+- **Ledger vocabulary normalised.** File 01's category column used `PRESENT` and `PRESENT + LOOP`; both are now `FLASHBACK`, matching the filed vocabulary and files 02–03. POV bearers were corrected where a cell described a document rather than a witness.
+- **[P]** Remaining: characters 04–09, and an owner ruling on the Solidification dating. The SE ↔ M.A.W. reconciliation queue remains pinned WIP.
+
 ## Echo-Core Backstory Extended: backstory-only cast and its naming rule (2026-10-31)
 
 - **The layer is now allowed to invent people, and two of them have names.** A facility staffed entirely by nine named executives is a diagram, not an institution. §XII.1b permits characters who exist only inside these files — the cook, the medic, the warden on the line — and requires that each one be bounded, registered, and kept out of canon until a Promotion Check is approved.

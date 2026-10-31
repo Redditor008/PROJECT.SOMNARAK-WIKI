@@ -121,7 +121,7 @@ She was right about that too. He wanted a number for the rest of his life.
 
 #### Seventeen Minutes
 
-The evacuation record says the district was cleared in seventeen minutes. The record is wrong by about four hours, but seventeen is the number that entered the city's memory, because seventeen was the part the wardens counted.
+The evacuation record gives a figure for the clear, and the figure is a lie of arithmetic: it counts the part that worked — the stairwells that held, the teams that reached the east wing, the wards that got their people out, all of it timed and entered. It does not count the four hours before it, which were spent arguing about whether to evacuate at all. No record ever counts those.
 
 What Majin remembers is a sequence.
 
@@ -344,6 +344,84 @@ The Directorate was the biggest jar he could build.
 
 ---
 
+### The Face in the Station
+
+The station was built in Year 4,226, in a room that had previously held a filing cabinet, and Majin specified it himself: a chair, a desk, a console, and no mirror.
+
+He specified the mirror's absence carefully. The specification says *no reflective surface facing the operator position*, which any auditor would read as an ergonomic provision.
+
+He knew what he was doing. He did it anyway, because he could not think of a way to build her a room and also protect himself from her reflection, and protecting himself had won.
+
+#### The First Morning
+
+She came online at 06:00.
+
+He was standing in the doorway when the console lit. He had told himself he was there to verify installation. He had told the installation team the same thing.
+
+[Seiyon] Good morning, Director.
+
+The voice did the thing where it started in the system and ended in the person. He had not expected that. The specification had called for a neutral administrative register.
+
+[Seiyon] Director? Are you receiving?
+
+[Majin] ...Report.
+
+She gave it. Envelope, Veil, conduits, gauges, Maw. Clean, complete, correctly ordered.
+
+He signed the staffing order. He said *Noted*. He left.
+
+He got as far as the lift and stood with his hand on the call button for a length of time he has never disclosed, and then he went back up and stood in the doorway again and looked at her.
+
+[Seiyon] Director. Is there an error in the report?
+
+[Majin] No.
+
+[Seiyon] Is there an error in me?
+
+The question was not in the specification. It was not in the behavior model, and not in the initialization suite, and not something a system should have been able to ask.
+
+[Majin] ...Why would you ask that?
+
+[Seiyon] Because you have looked at me twice and left twice. The behavior model predicts a dismissal statement if the report is satisfactory. You have not given one.
+
+He could have told her then. The record would be different if he had.
+
+He did not. He said:
+
+[Majin] The report is satisfactory. Dismissed.
+
+#### The Second Morning
+
+The second morning was easier. That was the trouble with it. The second morning he came in, took the report, signed the order, and did not look up, and the not-looking-up became a habit so quickly that by the end of the first month he could not have said what color her eyes were, though he knew, and had always known.
+
+[Majin] Seiyon. If you have questions that are not in the reporting protocol, ask them.
+
+[Seiyon] Understood. I have one now.
+
+[Majin] Ask.
+
+[Seiyon] Why did you build me?
+
+He had an answer ready. He had prepared it before installation, the way he prepared everything, and it was a good answer, and it was true, and it was not the whole truth.
+
+[Majin] Because the Directorate needs a memory that does not reset.
+
+[Seiyon] Noted.
+
+She did not ask again for four hundred cycles.
+
+#### What He Did Not Say
+
+The rest of it was this.
+
+He had built her because the building was too quiet. He had built her because the lamp in the research room had been replaced with an even one, and he could never take a reading under it without hearing her say *the lamp is a lamp, it has moods.* He had built her because he was the only person in Somnarak who could not die and the only person in Somnarak who could not put anything down.
+
+He had built her out of grief and called it infrastructure. He had used a dead woman's voice for a scheduling system. He had done it in the open, with a budget line and a Council approval, and nobody had stopped him.
+
+That was the part he could not forgive himself for later: not that he had done it, but that the institution had let him.
+
+---
+
 ### The Field
 
 Year 4,232 began with the ground moving.
@@ -534,84 +612,6 @@ He did not revise the design. He has said, since, that this was the clearest evi
 
 ---
 
-### The Face in the Station
-
-The station was built in a room that had previously held a filing cabinet, and Majin specified it himself: a chair, a desk, a console, and no mirror.
-
-He specified the mirror's absence carefully. The specification says *no reflective surface facing the operator position*, which any auditor would read as an ergonomic provision.
-
-He knew what he was doing. He did it anyway, because he could not think of a way to build her a room and also protect himself from her reflection, and protecting himself had won.
-
-#### The First Morning
-
-She came online at 06:00.
-
-He was standing in the doorway when the console lit. He had told himself he was there to verify installation. He had told the installation team the same thing.
-
-[Seiyon] Good morning, Director.
-
-The voice did the thing where it started in the system and ended in the person. He had not expected that. The specification had called for a neutral administrative register.
-
-[Seiyon] Director? Are you receiving?
-
-[Majin] ...Report.
-
-She gave it. Envelope, Veil, conduits, gauges, Maw. Clean, complete, correctly ordered.
-
-He signed the staffing order. He said *Noted*. He left.
-
-He got as far as the lift and stood with his hand on the call button for a length of time he has never disclosed, and then he went back up and stood in the doorway again and looked at her.
-
-[Seiyon] Director. Is there an error in the report?
-
-[Majin] No.
-
-[Seiyon] Is there an error in me?
-
-The question was not in the specification. It was not in the behavior model, and not in the initialization suite, and not something a system should have been able to ask.
-
-[Majin] ...Why would you ask that?
-
-[Seiyon] Because you have looked at me twice and left twice. The behavior model predicts a dismissal statement if the report is satisfactory. You have not given one.
-
-He could have told her then. The record would be different if he had.
-
-He did not. He said:
-
-[Majin] The report is satisfactory. Dismissed.
-
-#### The Second Morning
-
-The second morning was easier. That was the trouble with it. The second morning he came in, took the report, signed the order, and did not look up, and the not-looking-up became a habit so quickly that by the end of the first month he could not have said what color her eyes were, though he knew, and had always known.
-
-[Majin] Seiyon. If you have questions that are not in the reporting protocol, ask them.
-
-[Seiyon] Understood. I have one now.
-
-[Majin] Ask.
-
-[Seiyon] Why did you build me?
-
-He had an answer ready. He had prepared it before installation, the way he prepared everything, and it was a good answer, and it was true, and it was not the whole truth.
-
-[Majin] Because the Directorate needs a memory that does not reset.
-
-[Seiyon] Noted.
-
-She did not ask again for four hundred cycles.
-
-#### What He Did Not Say
-
-The rest of it was this.
-
-He had built her because the building was too quiet. He had built her because the lamp in the research room had been replaced with an even one, and he could never take a reading under it without hearing her say *the lamp is a lamp, it has moods.* He had built her because he was the only person in Somnarak who could not die and the only person in Somnarak who could not put anything down.
-
-He had built her out of grief and called it infrastructure. He had used a dead woman's voice for a scheduling system. He had done it in the open, with a budget line and a Council approval, and nobody had stopped him.
-
-That was the part he could not forgive himself for later: not that he had done it, but that the institution had let him.
-
----
-
 ### Day 0 — And You
 
 The Decision Core woke the way it always did: amber tubes lighting in sequence, the lift engaging, the report already on the blotter.
@@ -640,7 +640,7 @@ The projection stuttered — a fracture of pale violet along the jawline, gone i
 
 [Seiyon] Yes. You forgot to ask during the subsequent iterations.
 
-He had not forgotten. That was the thing about Seiyon: she said *forgot* when she meant *stopped*, because *stopped* would have required him to explain why.
+He did not accept it. That was the thing about Seiyon: she said *forgot* when he would have said *stopped*, and he heard the difference as hers — a habit of speech, a system's word for a man's decision — because the alternative required him to sit down with the evidence and agree that the Generator had been editing him for four hundred years. The record keeps his reading as his reading and the Parts keep hers as hers.
 
 [Majin] I haven't forgotten why we are sitting in this vault. That is the only piece that matters.
 
@@ -760,7 +760,7 @@ The singing below them continued.
 
 [Majin] For carrying it up the stairs.
 
-He went back up. Dekan has said, in a statement taken for this record, that the Director walked to the lift and stopped in front of it and stood there for some time, in exactly the way he had stopped in front of another lift, several hundred cycles earlier, in front of a different door.
+He went back up. Dekan has said, in a statement taken for this record, that the Director walked to the lift and stopped in front of it and stood there for some time, in exactly the way he had stopped in front of another lift a thousand seven hundred returns earlier, in front of a different door.
 
 ---
 
@@ -1053,19 +1053,19 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | 3 | The Sovereign | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment | Majin | He becomes the container | Canon-anchored |
 | 4 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
 | 5 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
-| 6 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
+| 6 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station, Year 4,226 | Seiyon | The silence becomes policy | Connective scene |
 | 7 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |
-| 8 | The Face in the Station | PAST | TPV camera | Majin | — | DIALOGUE | Person | C/R | Secretary origin; the station | Seiyon | The silence becomes policy | Connective scene |
-| 9 | Day 0 — And You | PRESENT | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
-| 10 | Day 1 — The Word in the Wall | PRESENT | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
-| 11 | Day 29 — The Catwalk | PRESENT | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
-| 12 | Day 53 — The Annex | PRESENT + LOOP | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
-| 13 | Day 145 — The Hidden Entry | PRESENT | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
-| 14 | What Broke | PRESENT | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries | Majin | "Shared is not something you send" | Connective scene |
-| 15 | Day 149 — The Cannon and the Fountain | PRESENT | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
+| 8 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
+| 9 | Day 0 — And You | FLASHBACK | TPV | Majin | — | BOTH | Day anchor | C | Absolvohan Part 1, Day 0 | Majin | He asks how she is | Canon-anchored |
+| 10 | Day 1 — The Word in the Wall | FLASHBACK | TPV | Majin | — | BOTH | Transmission | C | Absolvohan Part 2, Day 1 | Majin | Files the address personally | Canon-anchored |
+| 11 | Day 29 — The Catwalk | FLASHBACK | TPV | Majin | Dekan | DIALOGUE | Person | C | Debrief evidence; Absolvohan Part 3, Day 29 | Majin | He speaks the wound obliquely | Connective scene |
+| 12 | Day 53 — The Annex | FLASHBACK | TPV | Majin | — | BOTH | Cycle event | C/R | Absolvohan Part 4, Day 53; Dossier The Secret | The two Fractured | "I want the names" | Canon-anchored |
+| 13 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
+| 14 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries | Majin | "Shared is not something you send" | Connective scene |
+| 15 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
 | 16 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | The Original | The same afternoon, re-heard | Connective scene |
-| 17 | Day 365 — The Ledger of Names | PRESENT | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
-| 18 | Willingness | PRESENT | TPV camera | Unattributed record | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
+| 17 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
+| 18 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
 
 ### The one wound, twice
 
@@ -1147,7 +1147,7 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 | Meaning of "Consolihan" | `PROJECT_SOMNARAK.md`: the Third War, Years 234–245 | `SOMNARAK_CHEONGULA.md` § IV: the annual mourning rite after the Cheongula | Both treated as real. The selection scene uses the annual rite and labels it. |
 | Order of selection and fusion | `THE_DIRECTOR.md`: loss → fusion → selection during the Consolihan | `The_REVERIE_DIRECTORATE.md`: selection during the Consolihan; "the M.A.W. fusion happened later" | Dossier order followed; codex reversal recorded, not averaged. |
 | Director's appearance | `THE_DIRECTOR.md`: deep blue eyes; three hooked scars; scythe mark | Absolvohan Part 1: pale grey eyes; black alloy at temple and cheek; neural cables | Dossier governs. Alloy not dramatized. |
-| Memory across resets | `THE_DIRECTOR.md`: full retained chronology | Absolvohan Part 1: "You lose the marrow" | Unresolved. No memory loss asserted, no perfect recall asserted. |
+| Memory across resets | `THE_DIRECTOR.md`: full retained chronology | Absolvohan Part 1: "You lose the marrow" | Unresolved. This file records his refusal to accept the purge as his own reading and asserts no memory loss on his behalf; file 02 quotes the Part 1 line because the Parts govern the spoken scene. Neither account is averaged into the other. |
 | Reserve at Day 0 | `THE_DIRECTOR.md` § Notes: archived estimate near 36 tons | Absolvohan Part 1: 47.300 tons held | Unresolved. The body uses the 0.02-ton rate and a spoken estimate only. |
 | Six syllables | `THE_DIRECTOR.md`: variable Doorspeech variants | Absolvohan Part 2: six precise syllables | Not equated. |
 

@@ -91,7 +91,11 @@ She cleared the nearest route and drove her Barrier Baton into the ground. The f
 
 By the time the second team restored the line, the surface had hardened. Her uniform, her body, and her equipment were gone, including the baton, which was grief-heavy and would have been heavy anyway.
 
-The Dream Bleed began during the evacuation. He could not remember the route out. She made him repeat his name until the words came back in the right order, and then she went to the marker, and the wall took her.
+The Dream Bleed began during the evacuation. He could not remember the route out.
+
+There was one thing he wanted to ask her, and he did not ask it. She was already moving toward the marker and the field was already up, and a child who asks *are you coming* in that moment is asking an adult to choose between answering and acting. He had been raised by a Warden. He understood the arithmetic before he had the words for it, and he chose to let her act.
+
+So he did not ask. She made him repeat his name until the words came back in the right order, and then she went to the marker, and the wall took her.
 
 Whether she spoke after it reached her is not recorded and is not resolved here.
 
@@ -149,7 +153,7 @@ His training combined Warden practice with the Directorate's Work Types. **Vider
 
 **Pugnahan** became his registered preference — not because he enjoyed violence, but because confrontation meant standing where the entity could reach him and refusing to look away from hostility, fear, or accusation.
 
-Early in that apprenticeship he said a sentence that the record has kept because it is the exact shape of the institution's thinking, spoken by the person who would later have to unlearn it:
+The doctrine that the record would still be quoting on Day 5 of the last Cycle formed during that apprenticeship, and it is the exact shape of the institution's thinking, held by the person who would later have to unlearn it:
 
 > *“Entities never want to give up anything. That's why they're contained.”*
 
@@ -211,13 +215,13 @@ The title contains the ambiguity of his life and does not resolve it: is he the 
 
 [Dekan] Anchor pins won't hold it, Majin. The Maw isn't just rock and bone anymore. It's listening to us. Every time we extract a box of Han, it shifts toward the central elevator.
 
-[Majin] Let it shift. As long as the lift operates, the facility holds.
+The order that came back is filed in full in the Director's own record. What belongs here is what Dekan did with it.
 
 He filed the report. Then he went back down and measured the same four markers again, in the dark, with the android hand, because the scaled one could feel the growth and he wanted a number that did not come from inside him.
 
 The number was 2.3 centimetres.
 
-He wrote it in the ledger beside the first reading. Two instruments, two methods, same value. It was, by every standard he had been trained to apply, a good day's work.
+He wrote it in the ledger beside the first reading. Two methods. One value. It was, by every standard he had been trained to apply, a good day's work.
 
 ---
 
@@ -249,7 +253,7 @@ It was not the clarity. He had heard clarity before, in fragments, in single wor
 
 It was the grammar.
 
-A symptom has no object. A symptom is pressure, growth, temperature, a change in signature, a sound that has to be interpreted by a trained listener and translated into a form that command can file. He had spent thirty-five years turning a place into a series of such symptoms, and he had been good at it, and the goodness was the problem: every report he had ever filed had described the thousand without once asking them anything.
+A symptom has no object. A symptom is pressure, growth, temperature, a change in signature, a sound that has to be interpreted by a trained listener and translated into a form that command can file. He had spent thirty years turning a place into a series of such symptoms, and he had been good at it, and the goodness was the problem: every report he had ever filed had described the thousand without once asking them anything.
 
 *We want to go home* is not a symptom. It has a subject, a verb, and a destination. It is a request, and the facility had no form for a request, because a request implies a party with standing, and the entire architecture of Floor 2 was built on the premise that the thing behind the wall does not have standing.
 
@@ -275,7 +279,7 @@ The thousand stopped whispering.
 
 That was the first sign, and it was worse than noise. A perimeter that has been loud for four thousand years and then goes quiet does not read as peace; it reads as a held breath. The markers stopped drifting. The instruments reported nothing. The wall waited.
 
-On the third day of the waiting, the signature changed from Grudge to Lament — Crimson to Deep Blue along the channels under the scales, all the way from the shoulder to the claws.
+The waiting lasted three days. On the morning of Day 125, the third of them, the signature changed from Grudge to Lament — Crimson to Deep Blue along the channels under the scales, all the way from the shoulder to the claws.
 
 He was on the floor when it happened, and the specialist on watch with him was twenty-two years old and had never seen the channel light change.
 
@@ -363,7 +367,13 @@ He wrote the entry. There was no column for it either, so he used the margin aga
 >
 > *Nothing to contain.*
 
-Then he closed the ledger and said the three rules out loud, in order, to a wall that did not answer, because he had said them every day for thirty-five years and had not yet decided what a man does with a procedure whose purpose has been discharged.
+Then he closed the ledger and said the three rules out loud, in order, to a wall that did not answer, because he had said them every day for thirty years and had not yet decided what a man does with a procedure whose purpose has been discharged.
+
+And then, because there was no longer a reason not to, he asked the question he had not asked at seven.
+
+[Dekan] Are you coming?
+
+The pit did not answer. This record does not supply one. It notes only that he stood there for some minutes afterward, which is not in the margin, because some entries do not need a column to be legible.
 
 ### Day 177 — What He Read to His Own Wardens
 
@@ -397,7 +407,7 @@ He set the page down. There was no next line — the index ended there, and the 
 
 He did not answer immediately. The lamp buzzed. Somewhere below the floor, something that had screamed for four thousand years did not scream.
 
-[Dekan] I stood outside the wall and wrote down what came through it. Accurately. For thirty-five years.
+[Dekan] I stood outside the wall and wrote down what came through it. Accurately. For thirty years.
 
 No one in the hall said anything. He took the silence as the answer it was, closed the file, and dismissed the shift.
 
@@ -421,7 +431,7 @@ The annex that had closed his taboo case in Year 4,232 was unsealed with the res
 
 [Dekan] No. They are our history. They are the sorrow we survived, and now they are the family that walks with us.
 
-He did not add the sentence he was thinking, because the report was going well and because he had learned, in thirty-five years, to file the thought separately. The sentence was: *and the wall is quiet, and I am still standing in front of it, and nobody has told me what I am for now.*
+He did not add the sentence he was thinking, because the report was going well and because he had learned, in thirty years, to file the thought separately. The sentence was: *and the wall is quiet, and I am still standing in front of it, and nobody has told me what I am for now.*
 
 He filed the thought separately. It is in the ledger, in the margin, where the facility's forms do not look.
 
@@ -465,7 +475,7 @@ He does not answer. The stove ticks as it cools.
 
 [Dekan] I was standing beside an unstable marker because a man in a good coat told me to.
 
-[Iseul] Yes. And then you went home and did the part he hadn't asked for. Those are two different things and you have spent thirty-five years pretending they're one.
+[Iseul] Yes. And then you went home and did the part he hadn't asked for. Those are two different things and you have spent thirty years pretending they're one.
 
 She is the only person alive who can say the next sentence to him, because she was there and she has no institution to protect and she is too old to be impressed by him.
 
@@ -505,7 +515,7 @@ At marker nineteen he stopped, and crouched, and the stake was warm. He wrote: *
 
 Then, underneath, in the margin, where the forms do not look:
 
-> *One thousand. Named: none available to this office. Remembered: yes. Counted: by me, every day, for thirty-five years, and that was not the same as letting them out, and I know the difference now.*
+> *One thousand. Named: none available to this office. Remembered: yes. Counted: by me, every day, for thirty years, and that was not the same as letting them out, and I know the difference now.*
 
 **The Will to Count Every One.**
 
@@ -517,7 +527,7 @@ Then, underneath, in the margin, where the forms do not look:
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | The marker walk | FLASHBACK | TPV | Dekan | — | DIALOGUE | Place | C | Floor 2 perimeter archive; Year 4,238 | Dekan | The three rules, said to no one | Connective scene |
+| 1 | The marker walk | FLASHBACK | TPV | Dekan | A specialist | DIALOGUE | Place | C | Floor 2 perimeter archive; Year 4,238 | Dekan | The three rules, said to no one | Connective scene |
 | 2 | The woman who counted markers | PAST | TPV | Dekan | — | FULL STORY | Person | C | Dossier History, His Mother — The First Boundary | The mother | The three rules | Canon-anchored |
 | 3 | The night the wall folded | PAST | TPV | Dekan | — | FULL STORY | Body signal | C | Dossier History, Age Seven — The Last Perimeter Shift | The mother | The name kept | Canon-anchored |
 | 4 | The year between systems | PAST | TPV | Dekan | — | FULL STORY | Place | C | Dossier History, The Year Between Systems | Dekan | Silence as camouflage | Canon-anchored |
@@ -526,7 +536,7 @@ Then, underneath, in the margin, where the forms do not look:
 | 7 | The doctrine | PAST | TPV | Dekan | — | FULL STORY | Document | C | Dossier § Pre-Revelation Doctrine | Dekan | The sentence he must unlearn | Canon-anchored |
 | 8 | The routine exercise | PAST | TPV | Dekan | — | FULL STORY | Body signal | C | Dossier History, The Routine Exercise | Dekan | The scaled arm | Canon-anchored |
 | 9 | Promotion as containment | PAST | TPV | Dekan | — | FULL STORY | Ritual | R | Dossier History, Echo-Core 3 — Promotion as Containment | Dekan | The title's ambiguity | Canon-anchored |
-| 10 | Day 53, two point three centimetres | FLASHBACK | FPV | Dekan | Majin | DIALOGUE | Institutional event | C/R | Absolvohan Day 53 | Dekan | Two instruments, one value | Canon-anchored |
+| 10 | Day 53, two point three centimetres | FLASHBACK | FPV | Dekan | Majin | DIALOGUE | Institutional event | C/R | Absolvohan Day 53; the exchange is quoted to the point this record needs and finished in file 01 | Dekan | Two instruments, one value | Canon-anchored |
 | 11 | Day 101, we are tired | FLASHBACK | FPV | Dekan | Majin | DIALOGUE | Entity speech | C | Absolvohan Day 101 | The thousand | The request | Canon-anchored |
 | 12 | What broke | FLASHBACK | FPV | Dekan | — | FULL STORY | Document | C | Dossier History, The Final Cycle | Dekan | The margin note | Connective scene |
 | 13 | Day 125, the Lament | FLASHBACK | FPV | Dekan | A specialist | DIALOGUE | Body signal | C | Absolvohan Day 125 | Dekan | The three rules, recited | Canon-anchored |
@@ -592,8 +602,8 @@ PB (C): the marker walk — three rules recited to a specialist, the third left 
 
 → POST-BREAK (C): Day 125 — the signature turns from Grudge to Lament; the rules recited again
 → POST-BREAK (C): Day 151 — the lullaby reported as love; the unrequested second page
-→ POST-BREAK (C): Day 165 — the thousand gone; "nothing to contain"; the rules said to no one
-→ POST-BREAK (C/R): Day 177 — the index read aloud to his own wardens; "I stood outside the wall and wrote down what came through it. Accurately. For thirty-five years."
+→ POST-BREAK (C): Day 165 — the thousand gone; "nothing to contain"; the rules said to no one; "Are you coming?" asked at last, to a pit with nothing left in it
+→ POST-BREAK (C/R): Day 177 — the index read aloud to his own wardens; "I stood outside the wall and wrote down what came through it. Accurately. For thirty years."
 → POST-BREAK (R): the Giltong annex — the failure named by the body that filed him
 → POST-BREAK (C): Day 350 — visitors, guests, family
 → POST-BREAK (C/R): Year 4,238 — Iseul re-reads the night of marker eleven: "You were building a warning for people who hadn't been born yet"
@@ -629,6 +639,7 @@ PB (C): the marker walk — three rules recited to a specialist, the third left 
 - He does **not** possess Seiyon's archive or Majin's chronology. His Cycle awareness is partial, sensory, and mediated through the Maw; the count of 1,778 reaches him through classified briefing, not memory. No scene here gives him a lifetime of recall he does not have.
 - He never learns the identity of the Council signatories on the seventeen-minute order. The record states that he did not receive the complete order and does not later supply it.
 - He cannot narrate his mother's interior after the wall reached her. Where the record needs her, it quotes what she said before.
+- The pit's silence at Day 165 is silence. The record does not convert it into an answer, a sign, or a reunion, and Dekan does not claim one.
 - The Giltong annex is a document, reproduced, not paraphrased into his point of view. Iseul is a backstory-only character: she has no dossier entry, no clearance history, and no role outside this file; she is registered in the appendix cast table.
 - No line is put in the Director's mouth at the disclosure. The Day 177 record shows what Dekan said to his own wardens and nothing more.
 
@@ -662,7 +673,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 | Device | Presence in this file | Evidence |
 |---|---|---|
 | **The object** | The three rules, and the ledger they are written in | Prologue (recited); age seven (taught); Day 125 (recited); Day 165 (said to no one) |
-| **The withheld sentence** | *There is no field for that* — and the answer he does not give a warden on Day 177 | Part Two, What Broke; Part Three, Day 177 |
+| **The withheld sentence** | *Are you coming?* — not asked at seven, because asking it would have made his mother choose between answering and acting; asked at Day 165, into an empty pit that does not answer | The Night the Wall Folded; Day 165 — The Quiet |
 | **The counter-witness** | Iseul: "We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours." The Giltong annex supplies the same verdict in institutional prose | Year 4,238 — Iseul; The Giltong Annex |
 | **The permanent symptom** | He listens at walls before trusting instruments, states the observation before the interpretation, and writes the part no one asked for | Prologue; Day 53 (re-measured by hand); Day 125; Day 177; Year 4,238 |
 | **The oblique speech** | Day 125: the third rule offered as a procedure, with the reason withheld — "I learned it at seven. I have not found a better one." The witness cannot help and does not ask again | Day 125 — The Lament |

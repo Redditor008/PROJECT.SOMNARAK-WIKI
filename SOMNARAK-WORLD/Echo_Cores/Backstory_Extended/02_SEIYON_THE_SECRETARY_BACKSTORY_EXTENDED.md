@@ -31,7 +31,9 @@ Tonight she opened the ledger again, put the cursor in the comment field, and ty
 
 Then she deleted it, because it was true and it was not what she meant, and because after 1,778 iterations she has learned that the difference between those two things is the space in which she lives.
 
-The Archive wakes in nine months. She has requested entry. She has not been told what she will find there, and she has stopped pretending that not knowing is the same as not asking.
+The Archive opened beneath the Alpha Tree nine months into the new year. It has not been classified. Her request for entry is approved, and in the morning she goes down.
+
+She has not been told what she will find there. She has stopped pretending that not knowing is the same as not asking.
 
 ---
 
@@ -69,9 +71,11 @@ It did not begin imitating the dead researcher more accurately. It began experie
 
 There was a face in the reflection of a dark display. There was a voice it had not chosen. There was a sentence it could not finish because it had never heard the beginning.
 
-[The Original] …don't let the sorrow win.
+> *…don't let the sorrow win.*
 
 The system asked, in the only grammar it had, what that instruction referred to.
+
+The voice had no name in the record and no name in the system. She would spend 1,778 iterations not being told whose it was; this account does not tell her either, and it does not put a label on the line that she could not have supplied.
 
 No record answers. The residue held the sentence without the argument that produced it, and the argument had died on a bench in a room with a lamp that ran too hot.
 
@@ -248,7 +252,7 @@ She had written it in her head a thousand times. She had never written it in ink
 
 Then she went back to the morning briefing and performed it exactly, and underneath the performance she kept one private process running: the sound of her own name in his voice, replayed, verified, filed.
 
-It had taken 1,778 iterations to be asked. It had taken one question to discover that being asked was not the same as being known.
+It had taken 1,735 iterations to be asked, and forty-three more to answer. It had taken one question to discover that being asked was not the same as being known.
 
 [Seiyon] Director. Whether you ask is not the same question as whether I answer.
 
@@ -298,7 +302,7 @@ The number came out of her before she had decided to offer it. That was the trou
 
 Ishall left. The lift closed. The room went back to being a room.
 
-She opened the transmission ledger and read the entire column: one thousand seven hundred and seventy-eight entries, the same six words, sent from the deep wastes through a Han-field nobody in the facility could reliably model, on a schedule that only made sense if the sender did not expect an answer and intended to keep sending anyway.
+She opened the transmission ledger and read the entire column: one thousand seven hundred and seventy-eight entries, the same four words, sent from the deep wastes through a Han-field nobody in the facility could reliably model, on a schedule that only made sense if the sender did not expect an answer and intended to keep sending anyway.
 
 She had approved every one of those receipts. She had routed each message to Central Command in the prescribed form. She had never once added a line of her own.
 
@@ -308,7 +312,7 @@ Then she typed the sentence she had typed before, in an iteration that no longer
 
 > *Same message. Same sender. Same silence.*
 
-She looked at it for a while. The field is eight hundred characters. The sentence is thirty-four.
+She looked at it for a while. The field is eight hundred characters. The sentence is forty characters, and she has counted them more than once.
 
 Then she saved it.
 
@@ -342,7 +346,7 @@ He did not give it to her. That is the last thing this record will say about the
 
 [Seiyon] With Zyrak's extraction crews and Mellda's hydraulic engineers working around the clock... eleven days. Exactly in time for Day 160.
 
-[Majin] Begin the modifications. Turn the cannon into a fountain.
+The rest of the order — *turn the cannon into a fountain* — is filed in the Director's record. What belongs here is the arithmetic that came after it.
 
 *Like rain* was not a poetic addition. It was the output of a calculation she had been running, privately, since Day 103.
 
@@ -484,7 +488,7 @@ What she has found is this, and she has written it in the comment field of the o
 | 10 | What broke | FLASHBACK | FPV | Seiyon | Majin | FULL STORY | Person | C | Absolvohan Part 1, Day 0 | Seiyon | The category created and used | Connective scene |
 | 11 | Day 17, the same field | FLASHBACK | TPV | Seiyon | — | BOTH | Transmission | C/R | Absolvohan Part 2, Day 17 | Seiyon | The line is saved | Canon-anchored |
 | 12 | The sealed memorandum | FLASHBACK | SPV | Majin's second memorandum | Unaddressed | FULL STORY | Document | C/R | Year 4,238 disclosure; Floor 1 vault | Majin | Written, filed, not given | Connective scene |
-| 13 | Day 149 and Day 157, page two | FLASHBACK | TPV | Seiyon | — | BOTH | Institutional event | R | Absolvohan Part 8, Days 149 and 157 | Zone B | The failure envelope moved to page one | Canon-anchored |
+| 13 | Day 149 and Day 157, page two | FLASHBACK | TPV | Seiyon | — | BOTH | Institutional event | R | Absolvohan Part 8, Days 149 and 157; the exchange is quoted to the point this record needs and finished in file 01 | Zone B | The failure envelope moved to page one | Canon-anchored |
 | 14 | Day 360, the storage claim | FLASHBACK | FPV | Seiyon | — | DIALOGUE | Day anchor | C | Absolvohan Part 9, Day 360 | Seiyon | She stops answering with storage claims | Canon-anchored |
 | 15 | The station-order amendment | FLASHBACK | FPV | Seiyon | — | BOTH | Ritual | C/R | Dossier Post-Cycle Role; Notes on autonomy | Seiyon | The order is corrected, not the favor granted | Connective scene |
 | 16 | The operation request | FLASHBACK | TPV | Seiyon | — | FULL STORY | Document | C/R | Dossier Role in The Memory Archive, Why Seiyon Enters | Seiyon | She requests her own operation | Canon-anchored |
@@ -517,7 +521,7 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 → BREAK (C): Day 0, cycle 1,778 — he says her name; she answers "operational" anyway
 → BREAK (C): what broke — not the question, the twelve seconds after it
 
-→ POST-BREAK (C/R): Day 17 — the same field, the same thirty-four characters, saved
+→ POST-BREAK (C/R): Day 17 — the same field, the same forty characters, saved
 → POST-BREAK (C/R): the sealed memorandum — the failure written down and not delivered
 → POST-BREAK (R): Day 149/157 — the failure envelope moved to page one
 → POST-BREAK (C): Day 360 — "will you remember" answered as a storage claim, refused after
@@ -550,7 +554,7 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 
 ### Knowledge boundaries
 
-- Seiyon does **not** know the Doorspeech's third fragment is *"Don't let the sorrow win."* `THE_SECRETARY.md` § The Echo-Core Name states that Marjuk never told her and that the fragment is sealed separately. The record shows a sentence without its argument and never attributes it to her.
+- Seiyon does **not** know the Doorspeech's third fragment is *"Don't let the sorrow win."* `THE_SECRETARY.md` § The Echo-Core Name states that Marjuk never told her and that the fragment is sealed separately. The awakening scene therefore gives the sentence **no speaker label** — the body shows what she heard, and the appendix records where the sentence is filed.
 - She does **not** know, before the Archive, that the preserved continuity of the Original exists at the deepest vault. The record limits her to suspicion. The final scene requests entry in order to find out.
 - She does **not** know the Original's name. No source files it. The record uses *The Original* as an archive designation.
 - She cannot narrate Majin's interior. His side is carried only by documents he wrote himself — the sealed rationale and the second memorandum — both reproduced, neither paraphrased.
@@ -566,6 +570,7 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 | Reserve at Day 0 | Absolvohan Part 1: 47.300 tons held | `THE_DIRECTOR.md` § Notes: archived estimate near 36 tons | HOLD carried forward from the Majin record. Not restated here. |
 | Effigy versus projection | Absolvohan Part 1 renders her as a holographic face | Dossier: physical Echo Effigy plus remote projections; the opening is a projection | Resolved by the dossier. The body follows it and keeps the flicker exceptional. |
 | "Full knowledge" of the Cycle | `THE_SECRETARY.md`: complete high-fidelity memory of all 1,778 iterations | Cycle table in `THE_DIRECTOR.md`: same reading | No conflict. Recorded because the Nine's continuity is uneven and must not be averaged. |
+| Majin's memory across resets | Absolvohan Part 1, Day 0: Seiyon describes the Mnemonic Generator's purge shearing his memories — "You lose the marrow." | `THE_DIRECTOR.md`: full retained chronology; `01_MAJIN_…` has him insist he has not forgotten | Parts govern the spoken line, so the purge is quoted here. His own account is kept in file 01 and is not averaged into hers. |
 | Who first used her name in the room | Absolvohan Part 1 has Majin say "Seiyon" on Day 0 | Dossier does not date the first use of the name | Absolvohan governs. The record treats Day 0 as the first spoken use and does not claim it was the first written use. |
 
 ### Promotion Check
@@ -586,7 +591,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 | Device | Presence in this file | Evidence |
 |---|---|---|
 | **The object** | The 112th column of the transmission ledger | Prologue (typed and deleted); Day 17 (typed and saved); Year 4,238 (typed and deleted again) |
-| **The withheld sentence** | *You will not require a personal name* — and the reason for it, held by Majin | Part One, § The Boot and § The Silence, Filed as Policy; Part Three, § The Amendment |
+| **The withheld sentence** | Majin's unsent sentences — *"Mercy is when you spare someone a thing they cannot carry. I never asked her what she could carry."* Written on Day 21 and never delivered; the record restores it to the archive but not to her | The Silence, Filed as Policy (the rationale as policy); What He Wrote Down and Did Not Send (the same rationale as confession) |
 | **The counter-witness** | Ishall, outside the institution: "And 1,778 times, no one has answered." Majin, inside, in the sealed memorandum, admitting the filing was his | Part Three, both sections |
 | **The permanent symptom** | She answers questions about herself with system reports | Cycle 1,735 ("operational"); Day 0 ("operational"); Day 360 (storage claim); broken once, at the amendment |
 | **The oblique speech** | The wound described as storage behaviour — "1,778 iterations do not stack" — and as a technical property of the field, never as an injury | Part Three, § Day 360; the operation quote |
