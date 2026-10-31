@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Names, ranks, and what the page calls people (2026-11-01)
+
+The dialogue rule banned the profession as a label and over-corrected. A scene about an office — the Head Keeper's authority, the Director's order, the Archive Lead's signature — was being played by `[she]`, which deletes the thing the scene is about.
+
+- **The standard gains §XII.1e, and §XII.1a is amended.** The ban is on a **post**, not on an **office**. A medic, a cook, an engineer or a clerk keeps `[she]`, `[him]` or `[unknown]`. An office the world is organised around is a different object, and where the story turns on it the title is required. The amendment is written into §XII.1a's own opening paragraph, so the two sections cannot be read against each other.
+- **Three forms, mixed inside a file.** Name (`[Marjuk]`) is the default. Title alone (`[the Head Keeper]`) applies where the record holds no name and the office is the character. Name and title together (`[Marjuk, the Archive Lead]`) applies where the scene turns on the difference between the man and the office — and that mixed form is the dossier's own title pattern, name first, comma, `the`, office in lower case, used on the page rather than invented.
+- **The strike test decides, not taste.** Remove every title from the scene — label, spoken address, narration. If the scene still works the title was decoration; if it stops working the title is load-bearing and must appear in at least two of the three places. A title that lives only in a label is a costume.
+- **Five hard limits** carry the rule: a title never replaces a name the corpus holds; a post is not an office; one form at a time per speaker, with any change of standing marked in the narration; the office must be in the story and not only in the label; and the mixed form is capped at one per file.
+- **`R-24` carries it archive-wide.** The story rule now has a *Names, ranks, and what the page calls people* section with the three forms, the strike test and the post/office test, pointing at §XII.1e for the worked example.
+- **Applied in file 07 the same day, in the record.** The Head Keeper moves from `[she]` to `[the Head Keeper]` — her name exists in no source and the scene turns on her authority to say what a Keeper may do with a finding, and to send him to an office that will answer in one sentence. The Keeper who teaches the four rules stays `[him]`, because a school instructor is a post and the school is organised around the rule. The single mixed label sits at the hinge where a citizen asks Marjuk who he is: *"The office goes on the record. The name goes on the tablet."*
+- **The audit result for 01–06 is a negative, and it is recorded as one.** No office-bearing figure in files 01–06 is hidden behind a pronoun: every `[she]` and `[him]` there is a medic, a containment officer, an instrument operator, a field engineer, a warden, a clerk or an instructor, and every office in those files is carried by a name, a vocative (*Director*, *Sir*) or the narration. Nothing was relabelled for the sake of symmetry.
+- **Two stale statements were repaired at source.** The folder README still said *"Next step — Marjuk"* twice in one paragraph and counted four rules; it now counts five and names Ishall. §XVII *Current state* still read 01–02 filed; it now reads 01–07.
+- **[P]** Remaining: characters 08–09 (Ishall next), drafted in all five registers rather than retrofitted; the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Marjuk, the Archive Lead — the seventh backstory file (2026-11-01)
 
 The seventh Echo-Core record is filed: `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md`, twenty scenes on the pre-break/break/post-break spine, written in both registers from the first line.

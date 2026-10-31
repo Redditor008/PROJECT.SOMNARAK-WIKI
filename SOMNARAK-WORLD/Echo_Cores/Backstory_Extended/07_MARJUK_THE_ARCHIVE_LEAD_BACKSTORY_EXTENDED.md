@@ -145,15 +145,15 @@ He took it to the Head Keeper.
 
 The Head Keeper read it twice. She was old, and her hands had the particular steadiness of a person who has decided not to hurry.
 
-> **[she]** "You have done this correctly."
+> **[the Head Keeper]** "You have done this correctly."
 
 > **[Marjuk]** "The district was warned for seven years."
 
-> **[she]** "I said correctly. I did not say well."
+> **[the Head Keeper]** "I said correctly. I did not say well."
 
 > **[Marjuk]** "Then what do I do with it?"
 
-> **[she]** *"You file it where it can be found. That is all a Keeper can do."*
+> **[the Head Keeper]** *"You file it where it can be found. That is all a Keeper can do."*
 
 So he filed it where it could be found. He built the drawer a proper catalogue entry, cross-referenced the Mender projection to the Architect surveys, corrected three dates that had been transcribed wrong, and wrote a finding that was nine pages long and could not be argued with.
 
@@ -496,6 +496,18 @@ He had the correction form open. He had had it open since before she arrived.
 
 > **[Marjuk]** "It is a way of saying *yes, beside it*."
 
+She did not leave. She stood with the photograph against her chest and looked at the counter, and then she asked the question nobody in four thousand years had asked him in this room.
+
+> **[Jieun]** "I don't know what to call you."
+
+> **[Marjuk]** "Marjuk."
+
+> **[Jieun]** "And the rest of it?"
+
+> **[Marjuk, the Archive Lead]** "The office goes on the record. The name goes on the tablet."
+
+It had been taught to him at fourteen in that order and he had never once had to say it out loud, and saying it made the office sound like what it was, which is a thing he carries rather than a thing he is.
+
 So the third rule took its proper shape for the first time in his working life: he did not amend the Wardens' log to include her grandmother, and he did not file her testimony inside the Year 202 record. He built a second record, called `TESTIMONY — ZONE B — EAST TERRACE`, cross-referenced it to the count, and wrote at the top of it, in his own hand:
 
 > *One thousand. Named in this office: one so far.*
@@ -579,16 +591,17 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
-| **Marjuk** | Canon; compiler of this record and POV bearer in nineteen of twenty scenes | `[Marjuk]` (55) | Everywhere. He gets no interior access to Majin, Seiyon or the Head Keeper, and the two places where he infers are marked as inferences. |
+| **Marjuk** | Canon; compiler of this record and POV bearer in nineteen of twenty scenes | `[Marjuk]` (56) | Everywhere. He gets no interior access to Majin, Seiyon or the Head Keeper, and the two places where he infers are marked as inferences. |
+| **Marjuk, the Archive Lead** | Canon; the same man, signed as the office | `[Marjuk, the Archive Lead]` (1) | One line, at the counter, when a citizen asks him who he is. The only mixed label in the file (§XII.1e cap). |
 | **Majin** | Canon | `[Majin]` (21) | Day 12, Day 49, Day 77, Day 121, Cycle One, Day 365. He never explains the Cycle beyond the one admission in the vault, and the file does not supply a second. |
-| **Jieun** (지은) | Backstory-only, named from the registry | `[Jieun]` (12) | The Reading Room, Year 4,238, twice. Zone B resident, sixty-one, whose grandmother died in the Cheongula. Not an archivist; she does not forgive him, and she does not join the Directorate. |
+| **Jieun** (지은) | Backstory-only, named from the registry | `[Jieun]` (14) | The Reading Room, Year 4,238, twice. Zone B resident, sixty-one, whose grandmother died in the Cheongula. Not an archivist; she does not forgive him, and she does not join the Directorate. |
 | **Seiyon** | Canon | `[Seiyon]` (7) | Day 12 (channel), Day 177, Year 4,238. She asks the interpretive questions the dossier records her asking; she never enters the vault's locked rooms. |
+| **`[the Head Keeper]`** | Canon office, no name in any source | `[the Head Keeper]` (3) | The Deep Archive stack. The office is the character here: it holds the authority to say what a Keeper may do with a finding, and it is the seat Marjuk is named to inherit. A title label is used because the corpus supplies no name to use instead. |
 | **Youngsoo** (영수) | Backstory-only, named from the registry | `[Youngsoo]` (3) | Year 4,235, the Door incident. Floor 6 specialist. Present for the partial opening; not present in any later scene. |
-| **`[him]`** | Backstory-only, unnamed | `[him]` (4) | The Keeper instructor, apprenticeship only. Not the Head Keeper; no name, no later role, no view of the R.D. appointment. |
-| **`[she]`** | Canon figure, unnamed in every source | `[she]` (3) | The Head Keeper, in the Deep Archive stack. Three lines. The dossier names her by office and by nothing else; no name, date or private relationship is invented here. |
+| **`[him]`** | Backstory-only, unnamed | `[him]` (4) | The Keeper who teaches the four rules, apprenticeship only. A post, not an office — the school is organised around the rule, not around him — so he keeps the pronoun and is given no name, no later role and no view of the R.D. appointment. |
 | **`[unknown]`** | Backstory-only, unnamed, two people | `[unknown]` (3) | Two lines from the Cryogen technician (chassis reconstruction), one from the Floor 6 comms officer on the day the Final Door opened. Neither is given a name, a face or a second appearance. |
 
-`[him]`, `[she]` and `[unknown]` follow §XII.1a: a profession is never a label, so no speaker here is bracketed as `[Keeper]`, `[technician]` or `[specialist]`. The named figures are named the moment the record names them — Marjuk says Youngsoo's name on the page before the label changes, and Jieun gives her own name at the counter.
+**The labels follow §XII.1e, not §XII.1a's original blanket ban.** No post is a label — no speaker is bracketed as `[Keeper]`, `[technician]`, `[specialist]` or `[medic]`. An **office** is different: the Head Keeper's name appears in no source, and the scene turns on her authority, so the office is what the page calls her. The mixed label appears once, at the hinge where the man and the office are separated out loud, and the strike test decides it: delete the office from that exchange and the exchange stops meaning anything.
 
 ### The tablet, twice
 
@@ -745,13 +758,13 @@ PB (C/R): the Reading Room counter — a name given, a count opened,
 
 - Whole canonical dossier read: `THE_ARCHIVE_LEAD.md` (1,528 lines) — Profile, Appearance, Personality, Voice, Role in the Reverie Directorate, History, Role in *Absolvohan*, Abilities, Limitations, Equipment, Relationships, The Secret, Arc, Dialogue and Trivia.
 - Anchor scenes checked against the Parts themselves, not the dossier's summaries: `Part_2` (Day 12), `Part_3` (Day 49), `Part_5` (Day 77), `Part_6` (Day 121), `Part_7` (Day 145), `Part_8` (Day 160), `Part_9` (Day 365). **Four divergences were found and are filed as HOLDs 2–6**; in each case the Part governs the wording.
-- **Mechanical quotation check:** every labelled line whose body is a Part line was normalised (`**`, `*`, `_`, curly quotes stripped; whitespace collapsed) and matched as a substring against the concatenated `Part_*.md` text. **44 of 108 labelled lines match the Parts verbatim**; the remaining 64 are this file's own scenes and documents. The three canon silences (`Majin` `"..."` on Days 12, 77 and 121) are retained word for word because they are the Part's own text, and each is given a physical beat so the silence is visible rather than empty.
-- **Register (§XII.1c) counted, not estimated:** 108 labelled lines — **92 roman, 15 italic, 1 bold**; no two adjacent lines in one exchange carry the same marked weight (0); and no line consists only of `...` unless the Part files it that way.
+- **Mechanical quotation check:** every labelled line whose body is a Part line was normalised (`**`, `*`, `_`, curly quotes stripped; whitespace collapsed) and matched as a substring against the concatenated `Part_*.md` text. **45 of 112 labelled lines match the Parts verbatim**; the remaining 67 are this file's own scenes and documents. The three canon silences (`Majin` `"..."` on Days 12, 77 and 121) are retained word for word because they are the Part's own text, and each is given a physical beat so the silence is visible rather than empty.
+- **Register (§XII.1c) counted, not estimated:** 112 labelled lines — **96 roman, 15 italic, 1 bold**; no two adjacent lines in one exchange carry the same marked weight (0); and no line consists only of `...` unless the Part files it that way.
 - **Lettering (§XII.1d) counted:** 1 caps line (**"YOUR NAME IS YOUNGSOO. SAY IT BACK TO ME."**, shouted over the Floor 6 alarm); 1 uneven set (`N o t e d .   N o   a c t i o n   r e q u i r e d .`, printed by the archive office terminal); 2 shaky (`"Y-youngsoo."`, `"I— I have three things my mother told me."`); 2 broken (the comms line `"we have sev— seven— seventeen on the east st—"` and Youngsoo's `"it keeps— it's coming through the—"`). The uneven set and both broken lines are invented documents and a body failing; **none of them touches a line the Part files word for word.**
-- **Asymmetry (§XII.1d) measured twice:** per scene with more than six paragraphs, and across the whole narrative body — **0 triples** in both runs (no three consecutive paragraphs within fifteen percent of each other in length), 132 narrative paragraphs, 16 of them five words or fewer, and every qualifying scene contains at least one.
+- **Asymmetry (§XII.1d) measured twice:** per scene with more than six paragraphs, and across the whole narrative body — **0 triples** in both runs (no three consecutive paragraphs within fifteen percent of each other in length), 134 narrative paragraphs, 16 of them five words or fewer, and every qualifying scene contains at least one.
 - No childhood, family, birthplace or reason for entering the Keepers is invented. No name is given to the Head Keeper or to any Floor 6 subordinate. No date, consent procedure or cause is invented for the Cryogen reconstruction.
 - Day 145's office exchange is deliberately not retold: file 01 owns it; this file records only the discovery, the handling log and the transcription.
-- Labels obey §XII.1a — no profession is used as a label; `[him]`, `[she]` and `[unknown]` carry the unnamed speakers, and `[Youngsoo]` appears only after the page names him.
+- Labels obey §XII.1a and §XII.1e — no post is used as a label; `[him]` and `[unknown]` carry the unnamed posts, `[the Head Keeper]` carries an office whose name the corpus does not hold, and the single `[Marjuk, the Archive Lead]` sits at the hinge where a citizen asks him who he is. `[Youngsoo]` appears only after the page names him.
 - Table rows close with a pipe; no Act, Chapter or Part label inside a scene; no report scaffolding inside the narrative; canonical dossier unchanged.
 
 ### Continuity note

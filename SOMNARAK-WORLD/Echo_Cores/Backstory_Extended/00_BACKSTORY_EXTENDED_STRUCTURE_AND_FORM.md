@@ -589,7 +589,9 @@ In-world transcripts, logs, terminal output, and forms may use their native docu
 
 ### XII.1a Unnamed speakers
 
-A speaker who has no personal name in the record is **not labelled with a job title.** A title reads like a name on the page, and it implies a personnel entry the record does not contain. Use the pronoun instead:
+A speaker who has no personal name in the record is **not labelled with a profession.** A trade reads like a name on the page, and it implies a personnel entry the record does not contain. Use the pronoun instead:
+
+> **Amended 2026-11-01.** The ban is on **posts**, not on **offices**. A medic, a cook, an engineer or a clerk keeps `[she]`, `[him]` or `[unknown]`. An office the world is organised around — *the Director*, *the Head Keeper*, *the Archive Lead* — is a different object, and where the story turns on it the title is required rather than forbidden. §XII.1e governs the three forms and the test.
 
 ```text
 [she] He read the directive before he signed it. I want that in the record.
@@ -710,6 +712,43 @@ Five devices. Each is a meaning, not a mood, and each has a cap, because a devic
 
 1. **Lettering never repairs a beat.** If a line reads badly flat, the first fix is a physical beat or a different weight; the letters are the last resort, not the first.
 2. **One failing system per scene.** If a transmission is broken, the room is not also shaking. Two lettering devices in one exchange cancel each other and read as decoration.
+
+### XII.1e Name, rank, and form of address
+
+**Stated by the archive owner, 2026-11-01:** *"ADD IN FOR DIALOGUE THINGS FOR A FIX ABOUT NAME/TITLE IF THE TITLE IS IMPORTANT IN THE STORY THAN THAT WILL BE NEEDED AS A TITLE EXAMPLE USING P.S. STYLE OF TITLING THE MIX STYLE OF GIVING TITLE OR NAMING."*
+
+§XII.1a banned the profession as a label, and in doing so over-corrected: it left every office-holder in the archive speaking as a pronoun. A scene about the Head Keeper's authority, in which the page calls her `[she]`, has deleted the thing the scene is about. A shift is not a fact of the world. An office is.
+
+**Three forms, and a file mixes them.** It does not pick one and hold it.
+
+| Form | Label | Required when |
+|---|---|---|
+| **Name** | `[Marjuk]` | The person is the subject and the office is not doing work. The default, and most lines. |
+| **Title alone** | `[the Head Keeper]` | The record holds **no name**, and the office is the character. Never a substitute for a name the corpus contains — see §XII.1b rule 2, and the withdrawn `[The Original]`, which was a designation standing where *Yeon-seo* already existed. |
+| **Name and title** | `[Marjuk, the Archive Lead]` | The scene turns on the difference between the man and the office: he answers as the office, is spoken to as the office, or signs as one and speaks as the other. |
+
+**The mixed form is the dossier's own title, used on the page.** `Marjuk, the Archive Lead` is already how the archive files him — name first, comma, `the`, office in lower case, never capitalised mid-phrase. The mix is not a new convention; it is the existing titling pattern applied to a line of speech.
+
+**The strike test.** Remove every title from the scene — the label, the spoken address, the narration. If the scene still works, the title was decoration and may stay or go. If the scene stops working, the title was load-bearing and **must appear in at least two of the three places**: the label, the way someone addresses the speaker, and the narration. A title that lives only in a label is a costume.
+
+**The vocative is a scene event.** People do not address each other by rank for nothing. Where the house expects a title, leaving it out is a choice the page has to show: the officer who calls the Director by his name has done something, and the narration says what it cost or what it bought. The same goes the other way — a title used on someone who has just stopped being entitled to it is the whole scene.
+
+**Worked example — file 07.** The Head Keeper is an office with no name anywhere in the corpus, and the scene turns on her authority to say what a Keeper may do with a finding — and to send him to an office that will answer in one sentence — so she is `[the Head Keeper]`, and she was `[she]` before this section existed. The Keeper who teaches the four rules is a post, not an office — the school is not organised around him, it is organised around the rule — so he stays `[him]`. And the one mixed label in the file sits at the hinge where a citizen asks Marjuk who he is: the name is his, the office is the city's, and the line that answers her carries both.
+
+```text
+[Jieun] "I don't know what to call you."
+[Marjuk] "Marjuk."
+[Jieun] "And the rest of it?"
+[Marjuk, the Archive Lead] "The office goes on the record. The name goes on the tablet."
+```
+
+**Hard limits.**
+
+1. **A title never replaces a name the corpus holds.** The order is name first, title only where there is no name, both only where the difference is the scene. Withholding a filed name behind an office is §XII.1b rule 2 with a better costume.
+2. **A post is not an office.** Medic, cook, engineer, clerk, specialist, warden, envoy — a function keeps `[she]`, `[him]` or `[unknown]`. The test is whether the world is *organised* by the office: the Directorate has a Director, a Secretary and seven Leads; the Keepers have a Head Keeper; a medic has a shift and a successor by rota.
+3. **One form at a time per speaker.** A change of form is a change of standing, and the narration has to mark it — a speaker moving from `[Marjuk]` to `[Marjuk, the Archive Lead]` inside a scene has stepped into the office, and the page says so. Drifting back and forth without a marked moment reads as a continuity error.
+4. **The office must be in the story, not only in the label.** A title on a line whose content any clerk could have delivered is decoration. If the office matters, the line has to be one only that office could say — an order, an absolution, a refusal in the name of the institution.
+5. **The mixed form is capped at one per file.** It marks the hinge. Two of them turn a signature into a tic.
 
 ### XII.2 Documents
 
@@ -947,8 +986,8 @@ No story file may cite this standard as authority for contradicting a dossier. T
 
 - Structure and form: **filed** (`11cd68a`), amended with the Malkuth spine (`ce95ff4`).
 - Source survey: **filed outside the world bible** — [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md) in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`: thirteen L Corp records read in full for the spine, the doubling, the witness, and the stance.
-- Character files: **01 Majin** and **02 Seiyon** filed; Majin rebuilt twice, last on the pre-break/break/post-break spine.
-- Activated Echo-Core: **Majin**, closed. Next activation waits on the owner.
-- Next step: characters 03–09 in order, one at a time, each read against the dossier before drafting and each validated before the next begins.
+- Character files: **01** Majin through **07** Marjuk filed, each on the pre-break/break/post-break spine, each validated and gated before the next began.
+- Activated Echo-Core: **Marjuk**, closed. Next activation waits on the owner.
+- Next step: characters 08 Ishall and 09 Xyan, in order, one at a time, each read against the dossier before drafting and each validated before the next begins.
 - Outstanding owner decision: the Solidification dating conflict held in file 01.
 - The nine canonical dossiers remain unchanged and authoritative.

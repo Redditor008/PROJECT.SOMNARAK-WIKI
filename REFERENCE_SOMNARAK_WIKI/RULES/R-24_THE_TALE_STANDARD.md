@@ -104,6 +104,25 @@ The full statement is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY
 | **Broken** — `read—`, `S I G — NAL` | the word arrives in pieces: channel, machinery, entity speech, a body failing | twice per file |
 | **Asymmetry** | unequal paragraph masses carry the scene | mandatory |
 
+### Names, ranks, and what the page calls people
+
+**Stated by the archive owner, 2026-11-01:** *"IF THE TITLE IS IMPORTANT IN THE STORY THAN THAT WILL BE NEEDED AS A TITLE … THE MIX STYLE OF GIVING TITLE OR NAMING."*
+
+The dialogue rule banned the profession as a label and over-corrected. A scene about an office — the Head Keeper's authority, the Director's order, the Archive Lead's signature — in which the page calls the speaker `[she]` has deleted the thing the scene is about. The office is not a shift.
+
+| Form | Label | When it is required |
+|---|---|---|
+| **Name** | `[Marjuk]` | the person is the subject and the office is not doing work — the default |
+| **Title alone** | `[the Head Keeper]` | the record holds no name, and the office is the character |
+| **Name and title** | `[Marjuk, the Archive Lead]` | the scene turns on the difference between the man and the office |
+
+- **The mixed form is the dossier's own title pattern.** Name, comma, `the`, office in lower case — `Marjuk, the Archive Lead`, exactly as the file is titled.
+- **The strike test.** Remove the titles: label, address, narration. If the scene stops working, the title was load-bearing and must appear in at least two of the three places. A title that lives only in a label is a costume.
+- **A post is not an office.** Medic, cook, engineer, clerk, specialist, warden and envoy keep `[she]`, `[him]` or `[unknown]`. The test is whether the world is organised by the office.
+- **A title never replaces a name the corpus holds,** one form holds at a time for each speaker with any change of standing marked in the narration, and the mixed form is capped at one per file.
+
+The full statement, with the worked example and the five hard limits, is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1e**.
+
 ### Measured, not asserted
 
 1. **No two consecutive lines in one exchange carry the same weight,** unless the flattening is the point and the narration says so.
