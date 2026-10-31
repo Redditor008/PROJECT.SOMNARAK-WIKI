@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Council of Sighs is not counterpartless — the Head, and the Fingers (2026-11-01)
+
+The owner read one cell and asked whether it was true: *"Council of Sighs — *(no L Corp facility counterpart)*"*. It was not true as printed. The row was plane-correct and read as a false universal, and two other tables in the same folder had disagreed with it since they were filed.
+
+- **The row said "no L Corp facility counterpart" and stopped there.** The column asks a facility-plane question, so *none* is the right answer for the Council — but the cell carried no pointer to the world plane, where the counterpart exists and is filed: **The Head**, the City's sovereign, which the archive files as A, B and C Corp, and which licenses the Wings, mints Ahn, and enforces the City's taboos through Arbiters and Claws.
+- **The defect was a contradiction, not an ambiguity.** `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §13 has carried *The Head → Council of Sighs* and `SOMNARAK_PM_COMPARATIVE_INTEGRITY_AUDIT.md` §5.1 has carried the same pair, while the §XI authority table read as if neither existed. Fixed in the row: the cell now names the world-plane counterpart and points at the new table.
+- **New §XI.1 maps the world plane body by body,** because a facility-facing column cannot answer a world-facing question. The Head → Council of Sighs; the 26 Wings → **no single counterpart** (25 Zone corporations, the 10 Primary Companies and the Memory Archive are three separate plural registers); the Five Fingers → **Five Syndicates of The Raw**; Fixer Associations → Ten Specialist Cadres; Fixer Workshops → Six Great Workshops, Grades 1–5; Districts and Nests → Zones A–E; Backstreets → The Raw; Outskirts → The Desolate; Lobotomy Corporation itself → R.D. + Facility 01, which is the one row that belongs upstairs in §XI.
+- **Each row states why it is positional and not equivalent.** The Head is absolute and answers to nothing; the Council owes debt, sits under its own charter, and does not know the Cycle exists — and its writ stops at the city walls, where the archive files **no planet-wide Head** and treats the Four Corners as separate planetary polities. The Fingers and the Five Syndicates share a position in the underworld and share no grammar.
+- **The top-level gateway copy was stale on three counts and is repaired.** Its matrix merged *The Head / Wings of the City* into one row against *Council of Sighs / Directorate*, which is exactly the merge §XI forbids — a Wing is not the Head and the Directorate is not a Wing. It also still read *5 WORKSHOPS* where the canonical codex has read **6** since §15 was filed, and it compared the Well to *1,778 Mnemonic Cycle Engrams*, which the canonical explicitly rejects: cycle-engram vocabulary is Facility 01-internal and is not the reservoir. All four rows corrected, and the box re-set to its 74-column width so the symmetry audit stays clean.
+- **Checks:** `seam_lint` PASS, `check_links` 3,993 / 0 broken, text-box symmetry PASS across 2,342 files, `audit_lore_archive` PASS.
+- **[P]** Remaining: character 09 (Xyan, the last); the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Ishall, the Outsider — the eighth backstory file (2026-11-01)
 
 The eighth Echo-Core record is filed: `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md`, twenty scenes on the pre-break/break/post-break spine.

@@ -11,7 +11,7 @@
 | EDITION : EXPANDED STORY & NARRATIVE LEXICON // CANONICAL AUDIT        |
 | PURPOSE : COMPREHENSIVE 1-TO-1 MECHANICS, WORLD & STORY TRANSLATION    |
 +------------------------------------------------------------------------+
-| ROADMAP : 1,778 CYCLES // 5 WORKSHOPS // 5 SYNDICATES // 10 CADRES     |
+| ROADMAP : 1,778 CYCLES // 6 WORKSHOPS // 5 SYNDICATES // 10 CADRES     |
 | CALIB   : 10,000 HP REWORK // TWO-WORK LAW // REALIZATION WARS         |
 +========================================================================+
 ```
@@ -239,12 +239,14 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 +------------------------------------------------------------------------+
 | LOBOTOMY CORP / THE CITY             | PROJECT SOMNARAK / THE RAW      |
 | -------------------------------------+-------------------------------- |
-| The Head / Wings of the City         | Council of Sighs / Directorate  |
+| The Head (City sovereign)            | Council of Sighs                |
+| The Wings (26)                       | No counterpart (see 13.1)       |
+| Lobotomy Corp (facility)             | Reverie Directorate             |
 | The Five Fingers (Syndicates)        | Five Syndicates of The Raw      |
-| Fixer Associations (Hana, Zwei, etc) | Ten Specialist Cadres           |
-| Fixer Workshops (Zelkova, Mook, etc) | Five Artisan Workshop Grades    |
+| Fixer Associations (Hana, Zwei)      | Ten Specialist Cadres           |
+| Fixer Workshops (Zelkova, Mook)      | Six Great Workshops, Gr. 1–5    |
 | Backstreets & Outskirts              | The Raw & The Desolate          |
-| The Well / Human Unconscious         | 1,778 Mnemonic Cycle Engrams    |
+| The Well / Human Unconscious         | The Weeping system              |
 +========================================================================+
 ```
 
@@ -253,7 +255,7 @@ For narrative fiction and worldbuilding, both universes feature intricate geopol
 
 ### 13.1 The City vs. Somnarak City & The Raw
 - **The City (Project Moon):** Governed by **The Head** (A Corp, B Corp, C Corp) with absolute taboos enforced by Arbiters and Claws. The 26 Wings exploit their Singularities, while the **Five Fingers** (Thumb, Index, Middle, Ring, Pinky) govern the underworld Backstreets through brutal syndicates.
-- **Somnarak City & The Raw (Project Somnarak):** Somnarak City is an engineered cavern stronghold governed by the **Council of Sighs (  위령원   )** and the **Reverie Directorate (  몽환국   )**. Outside the thermal wards lies **The Raw (  생경   )**, a lawless undercity built in the salt-encrusted ruins of previous cycles, and beyond that lies **The Desolate (  황무지   )**, the frozen exterior surface.
+- **Somnarak City & The Raw (Project Somnarak):** Somnarak City is an engineered cavern stronghold governed by the **Council of Sighs (  위령원   )**, with the **Reverie Directorate (  몽환국   )** as the chartered containment institution at Facility 01 beneath the Alpha Tree rather than a second city government. Outside the thermal wards lies **The Raw (  생경   )**, a lawless undercity built in the salt-encrusted ruins of previous cycles, and beyond that lies **The Desolate (  황무지   )**, the frozen exterior surface.
 
 ### 13.2 The Five Syndicates of The Raw
 In the underworld of The Raw, five criminal organizations control illicit trades, contraband mourning gear, and unrefined sorrow:
@@ -411,7 +413,7 @@ To illustrate the contrasting atmosphere, narrative tone, and operational jargon
 +------------------------------------------------------------------------+
 | DOCUMENT CLASS   : COMPLETE SYSTEM COMPARISON (EXPANDED STORY EDITION) |
 | VOCABULARY AUDIT : FULL 1-TO-1 CANONICAL & NARRATIVE LEXICON EXPANSION |
-| ROADMAP SYSTEMS : 1,778 CYCLES / 5 WORKSHOPS / 5 SYNDICATES / 10       |
+| ROADMAP SYSTEMS : 1,778 CYCLES / 6 WORKSHOPS / 5 SYNDICATES / 10       |
 | CADRES                                                                 |
 | 10,000 HP REWORK : STANDARD (150-1000 HP) / SOVEREIGN (10,000+ HP)     |
 | TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL INANIMATE TYPES        |
