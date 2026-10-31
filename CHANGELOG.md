@@ -18,7 +18,8 @@ The owner's ruling was that the first six backstory files rendered shouting, whi
 - **Checkable counts, not claims.** 748 dialogue lines across 01–06, 66 at dropped volume, 15 at raised volume, no two consecutive lines sharing a weight, every narrative scene carrying at least one beat. Each file's own validation record carries its count.
 - **Two defects were found by the pass and fixed at source.** File 03 still carried the withdrawn `[The Original]` label row in an appendix table, orphaned from any line in the file, under a second `### Cast` heading; the dead row is removed and the heading is now `### The label register`. File 05 still rendered one Part Three line in the old `> **Ayshuk:** _"..."_` syntax; it now uses the house label.
 - **The folder README's pin was stale and is repaired.** It still read *"the stories are not written"* beside six filed records.
-- **[P]** Remaining: characters 07–09 (Marjuk next), which must be drafted in the register rather than retrofitted; the 01–03 appendix backfill; the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+- **File 01's appendix was brought to the current shape.** It had no Cast, Chronological spine, Objects/rooms/symbols, or Relationships-in-motion tables, while 04–06 have carried all four since they were filed. Added for 01, drawn from the file itself, with the one undated scene marked undated rather than given a year it does not have.
+- **[P]** Remaining: characters 07–09 (Marjuk next), which must be drafted in the register rather than retrofitted; the 02–03 appendix backfill; the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
 
 ## Index repair: Echo-Core root files (2026-10-31)
 

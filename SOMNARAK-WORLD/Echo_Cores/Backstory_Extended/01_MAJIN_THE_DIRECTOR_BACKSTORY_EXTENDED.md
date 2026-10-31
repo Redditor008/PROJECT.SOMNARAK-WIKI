@@ -1123,6 +1123,28 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | 17 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
 | 18 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
 
+### Cast
+
+| Speaker | Kind | Labels used | Bounds |
+|---|---|---|---|
+| **Majin** | Canon; POV bearer in seventeen of the eighteen scenes (the eighteenth is Insu's debrief) | `[Majin]` (128) | The whole file. Nothing is claimed as his interior that the record cannot support, and the appendix marks where it cannot. |
+| **Yeon-seo** (연서) | Canon, named in `The_MEMORY_ARCHIVE.md` §3.2 and the GIEOK origin-core line | `[Yeon-seo]` (14) | Two scenes only: the sample bench, and the afternoon he remembers while holding the paper. She never appears in the loop, never speaks after the floor warms, and is never quoted saying anything the record has not already filed. |
+| **Seiyon** | Canon | `[Seiyon]` (59) | The station, from Year 4,226 onward. She is in scenes where a log exists; she is absent from the catwalk, because no channel there was recorded. |
+| **Dekan** | Canon | `[Dekan]` (23) | Day 1, Day 29 (debrief and catwalk), Day 53. He never explains Majin to himself: everything he says is a report, a question, or the wall he is being used as. |
+| **Marjuk** | Canon | `[Marjuk]` (10) | Day 145 and Floor 6. He answers what is asked of the archive and volunteers no theory about the Founder. |
+| **Zyrak** | Canon | `[Zyrak]` (4) | The manifold room, Day 149. Four lines, all of them about the object she is cutting. |
+| **Insu** | Backstory-only, named in the debrief preamble | `[Insu]` (5) | The Year 4,238 debrief extract and nothing else. He is the counter-witness and he is not a friend: he was on the table's other side, and he is the one who remembers the word *noted*. |
+| The protocol officer, the warm floor | Backstory-only, unnamed | `[him]` (1) | One line, in the corridor, before the evacuation order is obeyed. He cites the protocol correctly; he is not a fool. |
+| The containment officer, the east quarter | Backstory-only, unnamed | `[she]` (3) | The Sovereign scene. She delivers the census figure and the doubling report, and she is the one who says *taken* rather than *damaged*. |
+| The instrument operator | Backstory-only, unnamed | `[him]` (2) | Three Failed Containments. He reports that his own instrument is compromised and knows it. |
+| The medic at the bonding | Backstory-only, unnamed | `[she]` (4) | The Single Grade. She tells him the procedure will kill him and then tells him what it will do if it does not. |
+| The second medic, Year 4,238 | Backstory-only, unnamed | `[she]` (2) | The debrief extract. Younger voice, not named in the record, asks the question that lets Insu finish the sentence. |
+| The containment officer, after the fusion | Backstory-only, unnamed | `[she]` (3) | The Fusing. Reports the east quarter quiet and the four hundred and six standing in the street. |
+| The Council envoy | Backstory-only, unnamed | `[him]` (4) | The Answer. Delivers the Tree's indication and the office, and declines to call either one a compliment. |
+| The field engineer | Backstory-only, unnamed | `[him]` (5) | The Field and The Directive. Every line is a limit: what the field holds, what it does not distinguish, and that there is no other setting. |
+
+**No two `[she]` figures share a scene,** and no `[she]` or `[him]` is ever given a profession as a label. Where a figure is named later in the corpus under a dossier, this file still uses the pronoun, because the record at that moment did not have a name to use.
+
 ### The one wound, twice
 
 | Element | First exposure | Second exposure |
@@ -1132,6 +1154,52 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | **What he builds from it** | A fusion, a Directorate, a stabilization field, a cannon | A public ledger of names, and a manifold that waters a district |
 | **What changes** | Nothing. The sentence is identical. | Everything. The meaning is not. |
 | **The register** | Grief read as instruction | Instruction read as grief |
+
+### Chronological spine
+
+| When | Scene | What changes |
+|---|---|---|
+| Six research years before the floor warmed | The Bench; The Afternoon | A sentence is said in an ordinary room and is not important. Everything downstream is built on the fact that it was not important. |
+| The year the floor warmed — the Solidification | The Warm Floor; The Sample Bench | He gives a correct order in a warm corridor and hears the readings instead of the woman. The east stairwell has already softened; the order is not the failure, the deafness is. |
+| The same hour, the east quarter | The Sovereign | Four hundred and six are taken, not killed. He is told what he is, by an officer who is not being cruel about it. |
+| The bonding | The Single Grade; What the Medics Said; The Fusing | He is warned, he reads the directive twice, he says *noted*, and the Sovereign-Class fusion closes with the city inside the field. |
+| Undated in this file — a Consolihan night before the Directorate | The Choice at the Consolihan | The Tree indicates, the Council asks, and the office is accepted. The rite is annual and has run since the year the thousand were lost, so the year is not recoverable from this record; the refusal was possible and he does not make it. |
+| Year 4,226 | The Face in the Station | The station is built without a mirror and the Secretary is designated. The silence becomes a policy rather than a decision. |
+| Cycles 1 through 1,778 | The Field; The Directive; The Lance; The Decision | The field holds, the reserve grows at 0.02 tons per iteration, the cannon is designed, and the loop becomes an institution with a due date. |
+| Day 0, Cycle 1,778 | Day 0 — And You | He asks how she is, by name, for the first time in forty-three cycles. |
+| Day 1 | The Word in the Wall | The Maw speaks his pre-Directorate name. He files it under his personal record, because it is addressed to him. |
+| Day 29 | The Forgiveness; The Catwalk | The Mother forgives him, and he goes down to Floor 2 and says the wound to a subordinate as though it were a question about filing. |
+| Day 53 | What the Wall Remembers; The Annex | The Maw repeats his old callsign. He asks for names instead of a summary, and files nothing. |
+| Day 145 | The Hidden Entry; Floor 6, After; What Broke | The Founder's page says *shared*, and the word the record has been built on — *ended* — stops working. |
+| Day 149 | The Cannon and the Fountain; The Manifold Room | He orders the barrel cut, watches it, and is asked why he is smiling. |
+| Day 160 | (referenced only, filed by 05, 06, and the Parts) | The discharge. This file does not re-tell it; it records only what he did afterward. |
+| Day 365 | The Ledger of Names; The Public Archive | The record opens as names rather than tonnage, and the city reads over his shoulder. |
+| Year 4,238 | Willingness | He reads a report once, signs it, and puts it down. The office is warm and nobody is standing at the bench. |
+
+### Objects, rooms, and symbols
+
+| Object | Where it appears | What it carries |
+|---|---|---|
+| **The sample bench** | The Sample Bench; The Afternoon; Willingness | The place where the sentence was said. She stands with one hand flat on the glass and does not turn round, and this is the detail the file keeps because it is the only thing he can still see. |
+| **The back of a gauge log** | What He Wrote on the Back of a Gauge Log; The Bench, Again; The Afternoon | A scrap kept for four thousand years as a design brief. It turns out to be a note about how to work, written in her hand, in an ordinary week. |
+| **The lamp with moods** | The Sample Bench; The Manifold Room | The warm amber research lamp he never replaced in his descriptions, and the cutting torches that throw a light almost exactly its colour. |
+| **The warm floor** | The Warm Floor; Day 29 | The sensation that stands in for the whole catastrophe, and the sentence he uses on the catwalk — *the floor was warm* — as the only part of it he can hand to another person. |
+| **The station without a mirror** | The Face in the Station; Day 0 — And You | The room built in Year 4,226 with a chair, a desk, a console, and no mirror. He specified it. It is the first decision in the file that is about someone who does not exist yet. |
+| **The clock reading Day 1, 06:00** | The Decision | The object that proves the loop to him without an argument. It has read the same thing many times. |
+| **The Absolvohan barrel** | The Lance; The Manifold Room | Five hundred millimetres of steel designed to be fired and then cut into pipe. The file's clearest image of a decision being unmade in public. |
+| **The ledger** | The Annex; Day 365 — The Ledger of Names; The Public Archive | Originally a set of columns for displacement, temperature and acoustic deviation; finally a list of people, opened where the city can read it. |
+| **The pit under Floor 2** | What the Wall Remembers; The Catwalk | The thousand. It is heard and never seen, and every line the file gives it arrives as a report through Dekan. |
+
+### Relationships in motion
+
+| Pair | Before the break | After the break | What the second exposure proves |
+|---|---|---|---|
+| **Majin ↔ Yeon-seo** | Six years of argument at a bench, nine times over, about jars and oceans; a sentence said casually while she worked | A record that has built an institution out of the sentence; a scrap of paper read in a cold vault | That he never knew her as a person at the time. The wound is not her death; it is that he was listening to instruments. |
+| **Majin ↔ Seiyon** | A system designated in a room with no mirror, told nothing about whose face it wears | A mind asked *how are you* on Day 0, and answered honestly in the vault after the dispersal | That the same silence that was policy can be withdrawn, and that withdrawing it costs him the thing he most wanted to keep. |
+| **Majin ↔ Dekan** | A containment lead delivering growth figures | A man who carries the Director's wound up the stairs and never repeats it | That obligation runs both ways in a facility where nobody has rank over a memory. |
+| **Majin ↔ Marjuk** | An archive lead with an entry and a tone of voice | The same, at Floor 6, agreeing that the Founder did not trust the institution either | That the family tradition of distrusting the institution is the only inheritance on offer, and Majin takes it. |
+| **Majin ↔ Insu** | A senior medic on the other side of the table | A witness in Year 4,238 who insists on the word *noted* | That the counter-memory does not absolve him. Insu says plainly that *brave* is the wrong word, and the file does not correct him. |
+| **Majin ↔ the city** | Four hundred and six taken, and a field closed over them | A ledger of names read in public, and a district watered instead of fired at | That the population was never an abstraction to him; it was a numerator, which is worse. |
 
 ### Connection string
 
