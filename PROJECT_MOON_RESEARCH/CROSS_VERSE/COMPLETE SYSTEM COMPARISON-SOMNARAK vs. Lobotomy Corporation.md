@@ -73,7 +73,8 @@ From the wiki research, Tool Abnormalities have three distinct types:
 |SOMNARAK System|Function|L Corp Equivalent|
 |---|---|---|
 |**R.D. Attributes** (Composure, Resolve, Clarity, Resilience)|Personnel stats for handling Han|Employee stats (Fortitude, Prudence, Temperance, Justice)|
-|**Sorrow Gauge**|Entity containment pressure|Qliphoth Counter|
+|**Activation Threshold**|Discrete count, one for one|Qliphoth Counter|
+|**Sorrow Gauge**|Disposition toward the work|Mood / work-response read, not a counter|
 |**Han-Energy**|Energy produced from entities|Enkephalin (PE-Boxes)|
 |**Fracture** (4 stages)|Personnel transformation|Panic → Death|
 |**Efflorescence**|Positive transformation|E.G.O synchronization|

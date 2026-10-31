@@ -247,26 +247,33 @@ The box is the whole rule; the four points below are what it costs to break it.
 
 ## Section VII: Meltdowns, watches and breach metamorphosis
 
-### VII.1 Qliphoth Counter → Gauge and Threshold
+### VII.1 Qliphoth Counter → Activation Threshold
 
-Natives drive their counters differently: some answer work results, some a named condition, a timer or a death, some both, and some file no counter at all. Somnarak keeps that distinction as **two separate mechanisms**, and conversion matches them channel for channel — the inverse of the Universal Table's §III.
+The Activation Threshold **is** the Qliphoth Counter. A dossier that lists a threshold of 2 has a counter of 2, and it runs down the same way: one step for each failed or refused cycle, with zero as the activation or breach. There is no inversion, no re-derivation and no step-size arithmetic between them.
 
-- **Sorrow Gauge (0–100%).** Continuous pressure, moved by work outcomes through the Behaviour table. Relief lowers it; 100% is the catastrophe line.
-- **Activation Thresholds.** Discrete conditions: a named state met, a count reached, a timer run out, a Gauge percentage crossed. A threshold decides *whether and when*; the Gauge decides *how much*. Neither reduces to the other.
+The Sorrow Gauge is a **different mechanic**, and the common mistake is to treat the two as one machine read from opposite ends. The Gauge is a continuous read of how the entity is disposed toward the work — what it will tolerate, what it resents, what it is hungry for. Work outcomes move it because they move the entity, not because they are counting anything down. Saturation is a pressure event. It is not the counter emptying.
 
-| LC counter driver | PS channel |
-|---|---|
-| **Work results** (Good, Normal, Bad) | **Gauge channel.** Counter-decrease conditions become Gauge-*increase* outcomes and counter-increase conditions become Gauge-*decrease* outcomes, one threshold step per LC point, sized inside the dossier's filed fractions |
-| **Named conditions** (employee state, a death in the unit, an item used, a timer elapsed) | **Threshold channel.** Each condition becomes a filed Activation Threshold, quoted verbatim. Work outcomes alone never fulfil it |
-| **Both** | Both channels filed and tracked separately. Activation fires on Gauge saturation **or** threshold fulfilment, whichever the native record reaches. Interlocks are quoted, never merged into one meter |
-| **No counter filed** | Activation-only SE. Neither channel is built for it |
+There is exactly one place where the Gauge stands in the counter's position: when the native counter displays **X** instead of a numeral. An `X` counter is a state rather than a tally, and on those entities the disposition is the whole mechanism, so the Gauge percentage is filed in the counter's place and no number is invented beside it (R-07).
 
-Four rules keep the channels honest.
+| Native counter | Somnarak mechanism | Filing rule |
+|---|---|---|
+| **A numeral** (0–5, and any counter that can be counted) | **Activation Threshold**, same number | Runs down one step per failed or refused cycle; zero is activation. Triggers are quoted: bad work results, named conditions, timers, deaths — whichever the native files |
+| **`X` instead of a numeral** | **Sorrow Gauge**, percentage only | A state, not a tally. File the percentage as the whole mechanism and leave the threshold row empty and honest (R-07) |
+| **No counter filed** | Nothing is built | Activation-only entity. An empty counter is a property of the entity, not a gap to be filled |
 
-- **Steps, not spikes.** Gauge behaviour moves in threshold steps. The +30% to +50% backfire from Section VI stays what it is, the price of illegal work, and never becomes a substitute counter mechanic.
-- **Reset is per channel.** Return behaviour restores the Gauge to baseline and resets threshold counts only where the native record resets its counter. A cumulative native count that never resets converts as a permanent tally and stays permanent.
-- **Meltdown-marked becomes Watch-marked.** A unit selected by Qliphoth Meltdown converts to a **Watch-marked** entity under VII.2, because the Watches supply the tidal pressure the meltdown rotation supplied inside the facility. A Gauge-channel mark is answered by bleeding Gauge inside the window; a Threshold-only entity answers by condition-watch. A Watch-mark lifts the two-work-type law in neither archive.
-- **Tool-use counters are Threshold-channel.** Use counts, charge timers and once-a-day operations become the relic profile's activation limits under Section IX, figures verbatim. A single-use native enters the A-Relic class with its consumption intact.
+Four rules keep the pair honest.
+
+- **No inversion.** A native counter that falls on bad work does not become a Gauge that rises. It becomes a Threshold that falls on bad work. Direction is copied, not flipped.
+- **The Gauge is not a counter channel.** Work outcomes move the Gauge because the entity's disposition changes. They do not move the Threshold, and a Threshold-only entity never gains a Gauge because its counter was work-driven.
+- **Both on file.** Where a dossier carries a count *and* a percentage, activation is read twice over: a Gauge at or above the filed percentage fires regardless of the count, and the count expiring fires regardless of the Gauge. Neither reading overrides the other (R-06).
+- **Steps, not spikes.** The +30% to +50% backfire from Section VI stays the price of illegal work and never becomes a substitute counter mechanic.
+
+Two carry-overs remain from the counter's own behaviour.
+
+- **Reset is per mechanism.** The count resets only where the native record resets its counter; a cumulative count that never resets converts as a permanent tally and stays permanent. A Gauge returns to its filed baseline by its own rule.
+- **Meltdown-marked becomes Watch-marked.** A unit selected by Qliphoth Meltdown converts to a Watch-marked entity under VII.2, because the Watches supply the tidal pressure the meltdown rotation supplied inside the facility. A Watch-mark lifts the two-work-type law in neither archive.
+
+**Tool-use counters are Threshold mechanisms.** Use counts, charge timers and once-a-day operations convert one for one, figures verbatim — the Train's four lights are the native shape. A single-use native enters the A-Relic class with its consumption intact. Read-only tallies (a count of faces already learned) are Basic-Info statistics and Threshold *evidence*; the conversion does not turn a memorial into a meter.
 
 Full both-direction coverage of every system this guide touches is certified in **Appendix A of the Universal Table** (Conversion Integrity Matrix).
 
@@ -430,7 +437,7 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 |                   weight classes                                       |
 | 10. RE-QUOTA     : Archive maintains at least 25.0% Relic-Entity       |
 |                   balance                                              |
-| 11. COUNTER      : Qliphoth Counter to Gauge and Threshold channels;   |
-|                   meltdown to Watch-marked; counts filed               |
+| 11. COUNTER      : Threshold IS the counter, one for one; the Gauge    |
+|                    is disposition, or the X stand-in; counts filed     |
 +========================================================================+
 ```

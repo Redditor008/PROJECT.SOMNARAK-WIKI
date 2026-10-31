@@ -185,7 +185,7 @@ When an operative's mental fortitude collapses, their behavior breaks down accor
 | Crisis Metric | Lobotomy Corporation | Project Somnarak | Updated Canonical Mechanics |
 |---|---|---|---|
 | **Facility Emergency** | **Qliphoth Meltdown** — Red alert sirens; countdown timers on random containment cells. | **Atmospheric Watches (  사경   )** — Barometric Han surges (First, Second, Third, Tide Watch). | Shifts in subterranean Han tides elevate facility-wide pressure and breach agitation. |
-| **Breach Trigger** | **Qliphoth Counter** drops to 0. | **Sorrow Gauge** reaches 100% (or activation threshold). | When the counter drops / gauge fills, containment fails. |
+| **Breach Trigger** | **Qliphoth Counter** drops to 0. | **Activation Threshold** empties (it *is* the counter); the **Sorrow Gauge** is a separate disposition read. | When the counter drops, containment fails; the gauge is not the counter. |
 | **Standard Breach** | Entity breaks door, enters hallway, and attacks employees. | Breaching Subject roams corridors along Range Bands. | Requires tactical suppression squads to intercept and pacify on the 10-node spatial grid. |
 | **Special Transform Breach** | Not present (breached entities keep same code/form). | **Place-to-Subject Metamorphosis** (e.g. *The Maw* `C-IVω-001 [GP]` → `C-IVω-001-B [GS]`). | District/Place entities detach from the bedrock, transforming into mobile breaching colossi. |
 
@@ -367,7 +367,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Enkephalin** | **Han-Energy (  한 에너지   )** | Refined energy extracted from entities to power the civilization. |
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
 | **Qliphoth Meltdown** | **Atmospheric Watch (  사경   )** | Facility-wide crisis timer triggering increased entity aggression. |
-| **Qliphoth Counter** | **Sorrow Gauge (  비탄 척도   )** | Containment integrity threshold; reaching zero (or 100%) triggers breach. |
+| **Qliphoth Counter** | **Activation Threshold** (비탄 척도 reads as the Gauge) | The threshold is the counter one for one; the Gauge is disposition and answers only for an `X` counter. |
 | **Instinct Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via remote acoustic observation and frequency monitoring. |
 | **Insight Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
 | **Attachment Work** | **Flerehan (  통곡한   / *Tonggokhan*)** | Containment via reciprocal empathetic weeping and emotional dialogue. |

@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Correction — the Threshold is the counter; the Gauge is not (2026-11-01)
+
+The owner corrected the conversion law I had been printing. The Activation Threshold **is** the Qliphoth Counter, one for one. The Sorrow Gauge is a different mechanic — how the entity is disposed toward the work — and it stands in the counter's place only where the native counter shows **X** instead of a numeral.
+
+- **What was wrong.** Section VII.1 of the conversion guide, the Chapter 4 counter block of the Universal Table, and both comparison copies treated the pair as one machine read from opposite ends: "counter-decrease conditions become Gauge-*increase* outcomes", "Gauge channel" and "Threshold channel" as two routes into the same counter. That inversion is wrong in both directions. A counter that falls on bad work is a threshold that falls on bad work; it does not become a Gauge that rises.
+- **What is now printed.** The threshold carries the number, runs down one step per failed or refused cycle, and fires at zero — with the triggers quoted from the native record. The Gauge is filed as disposition: what the entity tolerates, resents, or is hungry for, moved by work because work moves the entity, with saturation as a pressure event rather than an empty counter. Where a dossier files both, activation is read twice over and neither reading overrides the other (R-06); where the counter is an `X`, the percentage is the whole mechanism and no number is invented beside it (R-07).
+- **Files corrected.** `PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` §VII.1 rewritten and its Section XI checklist line replaced; `PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Chapter 4 block, intake-matrix row, breach mapping pair, counter row and contents line; `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` breach-trigger and lexicon rows; the root gateway's two rows; `SOMNARAK_LCORP_RD_RISK_PARALLEL.md` derivation order, reverse index and field table; `COMPLETE SYSTEM COMPARISON-SOMNARAK vs. Lobotomy Corporation.md` row 76.
+- **The two rules already said this.** `R-06_COUNTER_IS_THE_COUNTER.md` and `R-07_PERCENTAGE_WHERE_NO_COUNTER.md` had it right; the conversion copies had drifted away from them and are now pulled back. The earlier changelog entries that describe the inverse pair are left standing as dated history and are superseded by this one.
+- **Checks:** `seam_lint` 1,767 · `label_lint` 301 · `timeline_lint` 1,800 · `check_links` 3,993 / 0 broken · `audit_lore_archive` PASS · text-box symmetry PASS · `git diff --check` clean.
+- **[P]** Remaining: the Day 53 double exposure between 01 and 03; the `The Break` heading question for 01–06; the station and return rulings for 09; the Solidification dating; the two flagged counts.
+
 ## Xyan, the Exile — the ninth and last backstory file (2026-11-01)
 
 `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md` is filed, and the nine are closed.

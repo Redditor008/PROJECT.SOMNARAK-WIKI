@@ -343,7 +343,7 @@ When the Well of Cogito grabs a Somnarak Entity:
 | 5 | Origin (C/N/O) | **Subject Number** first letter |
 | 6 | Work Type table | **Work Preferences** (success rates per work) |
 | 7 | Han-Energy yield | **PE-Box yield** + E-Box count |
-| 8 | Sorrow Gauge | **Qliphoth Counter** / Mood |
+| 8 | Sorrow Gauge | **Mood / disposition** — not the counter; the counter's analogue is the Activation Threshold |
 | 9 | M.A.W. Equipment | **E.G.O** (Weapon/Suit/Gift) |
 | 10 | Story Log | **Story tab entries** |
 | 11 | Final Observation | **Final Observation** |
@@ -366,7 +366,7 @@ When adapting an L Corp Abnormality into Somnarak:
 | 4 | HP | **Sorrow Gauge [HP]** (÷ multiplier, ceil, format X/X of 1000) |
 | 5 | Work Damage | **Han Pressure [ATK]** (÷ multiplier, ceil) |
 | 6 | E-Box count | **Han-Energy yield** (H-Boxes) |
-| 7 | Qliphoth Counter | **Activation threshold / Sorrow Gauge trigger** |
+| 7 | Qliphoth Counter | **Activation Threshold**, same number and direction; the Gauge stands in only for an `X` counter |
 | 8 | Work Preferences | **Work Type table** (success → Decrease, failure → Increase) |
 | 9 | E.G.O | **M.A.W. Equipment** (Weapon/Suit/Gift) |
 | 10 | Story entries | **이야기 보고 (Story Log)** |
@@ -442,7 +442,7 @@ From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use 
 | Somnarak System | Function | Closest L Corp Equivalent |
 |---|---|---|
 | **R.D. Attributes** (Composure, Resolve, Clarity, Resilience) | Personnel stats for handling Han Effects | Employee stats (Fortitude, Prudence, Temperance, Justice) — see §IX for crossover mechanic |
-| **Sorrow Gauge [HP]** | Entity containment pressure (X/X of 1000) | Qliphoth Counter + Mood bar |
+| **Sorrow Gauge [HP]** | Entity containment pressure (X/X of 1000) | Disposition read; the counter analogue is the Activation Threshold, not the Gauge |
 | **Han Pressure [ATK]** | Entity damage output per hit | Work Damage value |
 | **H-Box (Han-Energy Box)** | Energy unit from successful work | PE-Box (Positive Enkephalin Box) |
 | **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Personnel transformation from Han overload | Panic → Death |
