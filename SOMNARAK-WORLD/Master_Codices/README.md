@@ -52,7 +52,7 @@ The archive root houses the two official primary cartographic and architectural 
 
 ---
 
-## Categorized Codex Directory (6 Subfolders)
+## Categorized Codex Directory (5 Subfolders)
 
 ### Subfolder 1: `01_Cosmology_and_World_Order/`
 Foundational cosmological architecture, metaphysics, origin cataclysms, and the sovereign geography of the world:

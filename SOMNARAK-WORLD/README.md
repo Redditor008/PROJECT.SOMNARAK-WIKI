@@ -43,12 +43,12 @@ Somnarak is a towering subterranean and surface metropolis of 1.29 billion souls
 SOMNARAK-WORLD/
 ├── README.md                           # This sovereign dispatch and archival guide
 │
-├── Master_Codices/                     # 49 Macro-Canon Codices across 6 Subfolders
+├── Master_Codices/                     # 44 Macro-Canon Codices across 5 Subfolders
 │   ├── README.md                       # Master classification & reading roadmap
-│   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech (7 codices)
+│   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech (9 codices)
 │   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan (6 codices)
 │   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, M.A.W. Codex, Han Relics, Lumen, Ordeals, Taboo Resonance, Workshops (9 codices)
-│   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (9 codices)
+│   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (13 codices)
 │   └── 05_Entities_Tales_and_Fractures/ # Entity Codex, Entities, Tales, Named Fractures, Relic Entities, Enemies, Wound Walkers (7 codices)
 │
 ├── Sorrow_Entities/                    # 290 Unique Canonical Containment Dossiers & Origin Tales
@@ -68,7 +68,11 @@ SOMNARAK-WORLD/
 │   ├── THE_BORDER_LEAD.md              # Echo-Core 6: Mellda (Floor 5 — Border & Defense)
 │   ├── THE_ARCHIVE_LEAD.md             # Echo-Core 7: Marjuk (Floor 6 — Vault & Archive)
 │   ├── THE_OUTSIDER.md                 # Echo-Core 8: Ishall (Floor 7 — Shadow Operations)
-│   └── THE_EXILE.md                    # Echo-Core 9: Xyan (Floor 8 — The Final Gate)
+│   ├── THE_EXILE.md                    # Echo-Core 9: Xyan (Floor 8 — The Final Gate)
+│   └── Backstory_Extended/             # Scene-level extended histories — 6 of 9 filed
+│       ├── README.md                   # Index, status, and next-record queue
+│       ├── 00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md # Shared rulebook for the nine records
+│       └── 01_ … 06_ …                 # Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda (filed)
 │
 ├── The_Absolvohan/                     # Chronological Shift Logs (Days 0–365) & Facility Saga
 │   ├── README.md                       # 366-day operational chronicle & The Quiet Season

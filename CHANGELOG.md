@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Index repair: Echo-Core root files (2026-10-31)
+
+Four world-root indexes were asserting things the repository no longer says. Fixed in place, not annotated.
+
+- **`Echo_Cores/README.md` said the backstory folder was empty.** Its PIN WIP block still read *"no Echo-Core has been activated and no extended scene has been written"* while six records sat beside it. Replaced with the real status: six of nine filed and validated, a per-record table with links, three remaining, and the rule that the dossiers stay the canonical baseline and the extended records are written from them.
+- **Seiyon was misclassified in the same table.** The master directory gave her True Look as *Android Effigy*; `THE_SECRETARY.md` § Effigy Classification says *"Seiyon's canonical Effigy identity remains **AI Construct (accidentally sentient)**"*. Corrected to *AI Construct in an Android Effigy (0% flesh)*, and the taxonomy in Dossier Structure Standards — which listed only Android, Cyborg, Cryogen and Human — now carries the AI Construct class with a warning that classification by appearance is a defect.
+- **The word count was stale:** *~116,000 words* against a measured 120,743 across 13,008 lines. Now `~120,700 words across ~13,000 lines`.
+- **Two typos in the armament column:** *Specialize Manufactured Weapon* and *Specialize Before-Time Artifact* → *Specialized*.
+- **`SOMNARAK-WORLD/README.md` omitted the backstory folder from the master tree** — a folder that exists, holds seven files, and is linked from two other index files. Added as a `Backstory_Extended/` branch under `Echo_Cores/`, with the shared rulebook named and the six filed records flagged.
+- **Two arithmetic errors in the same two files.** The tree called `Master_Codices/` *49 codices across 6 subfolders*; it holds **44 across 5** (the sixth folder was emptied and removed in the 2026-10-31 eviction). Two per-folder comments were also wrong: 01 holds 9 (not 7) and 04 holds 13 (not 9). `Master_Codices/README.md` already carried the correct 44/5 on line 5 and contradicted itself in a heading on line 55 — that heading is now 5.
+- **A filename transcription error:** `README_FIRST.md` Stage 4 rendered The Maw as `SE-C-IVw-001`; the file is `SE-C-IVω-001` (omega). Corrected.
+- **Two numbers deliberately left alone and flagged to the owner, not guessed.** `README_FIRST.md` states *1,897 technical files* against 1,899 present, and *291 unique Sorrow Entity dossiers* against 290 in `Sorrow_Entities/`. The 291 is a fixed denominator in the reference rule set — `R-20_ONE_FIXED_DENOMINATOR.md` defines it as the output of `dossiers()` and explains why it is not 303 — so changing it in a world-root index would create a cross-layer contradiction. It needs an owner ruling on what the denominator enumerates, not a quiet edit.
+- **[P]** Remaining: characters 07–09 of the extended backstory (Marjuk next); the 01–03 appendix backfill; the Solidification dating ruling; and the two counts above.
+
 ## Naming repair: the Original is Yeon-seo (2026-10-31)
 
 - **The records were withholding a name the corpus already contained.** Files 01 and 02 labelled Seiyon's predecessor `[The Original]` and stated in their knowledge boundaries that *no source files a name*. That was true of the character dossiers and false of the world codices, which have filed her as **Yeon-seo** since they were written. A reader clocks the identity at once — she is the woman whose face, voice, and sorrow fragment Seiyon carries — so the withheld name was not a mystery, only a gap in the file.
