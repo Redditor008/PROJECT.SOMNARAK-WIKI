@@ -1,11 +1,11 @@
 # 📌 PIN WIP — Echo-Core Backstory Extended
 
-**Status:** 📌 **CHARACTERS 1–6 FILED — Majin, Seiyon, Dekan, Zyrak, Ayshuk, and Mellda written; no other Echo-Core activated**\
+**Status:** 📌 **CHARACTERS 1–7 FILED — Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, and Marjuk written; no other Echo-Core activated**\
 **Parent archive:** [`../README.md`](../README.md)  
 **Governing standard:** [`00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md)  
 **Purpose:** Prepare a dedicated home for fuller named-character histories for the Nine Echo-Cores.
 
-> 📌 **Pinned reminder:** The structure and form are filed, and six of the nine records are written and gated — `01` Majin through `06` Mellda. `07` Marjuk, `08` Ishall, and `09` Xyan are not written; their filenames below are planned, not completed. Do not move or replace the nine canonical Echo-Core dossiers to fill them.
+> 📌 **Pinned reminder:** The structure and form are filed, and seven of the nine records are written and gated — `01` Majin through `07` Marjuk. `08` Ishall and `09` Xyan are not written; their filenames below are planned, not completed. Do not move or replace the nine canonical Echo-Core dossiers to fill them.
 
 ---
 
@@ -78,7 +78,7 @@ It is filed **outside `SOMNARAK-WORLD/`** — the world bible carries Somnarak c
 | 4 | **Zyrak (지락)** — The Extraction Lead | [`../THE_EXTRACTION_LEAD.md`](../THE_EXTRACTION_LEAD.md) | [`04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md`](04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 5 | **Ayshuk (아이숙)** — The Research Lead | [`../THE_RESEARCH_LEAD.md`](../THE_RESEARCH_LEAD.md) | [`05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md`](05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 6 | **Mellda (멜다)** — The Border Lead | [`../THE_BORDER_LEAD.md`](../THE_BORDER_LEAD.md) | [`06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md`](06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 7 | **Marjuk (마주크)** — The Archive Lead | [`../THE_ARCHIVE_LEAD.md`](../THE_ARCHIVE_LEAD.md) | `07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
+| 7 | **Marjuk (마주크)** — The Archive Lead | [`../THE_ARCHIVE_LEAD.md`](../THE_ARCHIVE_LEAD.md) | [`07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md`](07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 8 | **Ishall (이샬)** — The Outsider | [`../THE_OUTSIDER.md`](../THE_OUTSIDER.md) | `08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
 | 9 | **Xyan (시안)** — The Exile | [`../THE_EXILE.md`](../THE_EXILE.md) | `09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
 
