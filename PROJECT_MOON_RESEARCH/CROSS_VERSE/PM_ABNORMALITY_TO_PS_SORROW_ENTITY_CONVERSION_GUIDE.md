@@ -1,13 +1,13 @@
 # PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE
 ## Project Moon to Project Somnarak — architectural, phenomenological and mechanical adaptation
-### Master Systems Codex — 10,000 HP calibration and tactical alignment
+### Master Systems Codex — dual-tier durability calibration and tactical alignment
 
 > **Combined-edition note (2026-10-30):** this standalone file remains the archival original. The SE → Abnormality overhaul does not carry it verbatim; it carries forward rewrites of its mechanics under the owner's direction lock (RULE-TO-FOLLOW A6).
 
 This guide converts a Project Moon Abnormality into a Somnarak Sorrow Entity, and back. It works in five steps and in this order:
 
 1. **Decide the substance.** An Abnormality is made of Cogito and held in a cell; a Sorrow Entity is made of Han and lives in a world. Nothing below works until that swap is made.
-2. **Set the scale.** Read the PM risk level, take the Coherence and Potency ranks from the matrix, and confirm the durability tier.
+2. **Set the scale.** Read the PM risk level, choose a Coherence and Potency pair whose sum gives that Threat Score, and confirm the durability tier.
 3. **Carry the body across.** Damage types, resistances, work responses, the three trigger systems and equipment each have their own section, in that order.
 4. **File the designations.** The LC code becomes an alias; the SECC code is built from Somnarak fields. Section III.3 governs.
 5. **Run the checklist.** Section XI is the sign-off. A conversion that fails a line is not finished, whatever it looks like.
@@ -56,9 +56,9 @@ Every standard contained entity, Ranks I through IV, sits inside a calibrated 15
 
 ### II.2 Sovereign calamity raids — 1,000 to 12,000 HP
 
-The 10,000-plus tier survives, narrowed to macro-scale horrors:
+The old 10,000 ceiling survives only as the top of this tier, and only for macro-scale horrors:
 
-- **Eligible:** Rank V Sovereign (Grade ω) combat entities only — *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*) at 12,000 HP, or mobile district colossi such as *The Walking Maw* (`C-IVω-001-B [GS]`).
+- **Eligible:** Rank V Sovereigns, and any lower rank whose Threat Score reaches 9 — *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*), V + ω, at 12,000 HP; or a Rank IV district colossus such as *The Maw* (`C-IVω-001`, IV + ω = 9 → ALEPH), whose breaching state is *The Walking District* (`C-IVω-001-B [GS]`, 보행하는 구라 / *Bohaenghaneun Gura*).
 - **Encounter shape:** never a single containment room. These are multi-phase departmental Realizations or citywide crisis raids, run over days.
 
 ### II.3 Planetary geography
@@ -69,20 +69,22 @@ Landmasses, oceans and regional climates are **Planetary Geography Features**, n
 
 ## Section III: Statistical conversion matrix
 
-| PM risk level | PS Coherence rank | PS Potency grade | Sorrow Gauge (HP) | Han Pressure (ATK) | Han yield | Tactical speed | Stagger bar (60% / 0%) |
+| PM risk level | Threat Score | Diagonal pair (rank / grade) | Sorrow Gauge (HP) | Han Pressure (ATK) | Han yield | Tactical speed | Stagger bar (60% / 0%) |
 |---|---|---|---|---|---|---|---|
-| **ZAYIN** | Rank I — Residue | Grade α — Minor | 150–300 | 06–14 | 08–16 | 1–3 slow | 90–180 / 0 |
-| **TETH** | Rank II — Echo | Grade β — Moderate | 300–500 | 12–22 | 14–22 | 2–4 standard | 180–300 / 0 |
-| **HE** | Rank III — Fragment | Grade γ — Major | 500–750 | 18–35 | 20–30 | 3–5 swift | 300–450 / 0 |
-| **WAW** | Rank IV — Entity | Grade δ — Critical | 750–1,000 | 30–55 | 28–40 | 4–6 rapid | 450–600 / 0 |
-| **ALEPH** | Rank V — Sovereign | Grade ω — Catastrophic | 1,000–12,000 | 50–80+ | Sovereign / macro | Instant / teleport | Multi-phase |
+| **ZAYIN** | 2–3 | Rank I — Residue / Grade α — Minor | 150–300 | 06–14 | 08–16 | 1–3 slow | 90–180 / 0 |
+| **TETH** | 4–5 | Rank II — Echo / Grade β — Moderate | 300–500 | 12–22 | 14–22 | 2–4 standard | 180–300 / 0 |
+| **HE** | 6 | Rank III — Fragment / Grade γ — Major | 500–750 | 18–35 | 20–30 | 3–5 swift | 300–450 / 0 |
+| **WAW** | 7–8 | Rank IV — Entity / Grade δ — Critical | 750–1,000 | 30–55 | 28–40 | 4–6 rapid | 450–600 / 0 |
+| **ALEPH** | 9–10 | Rank V — Sovereign / Grade ω — Catastrophic | 1,000–12,000 | 50–80+ | Sovereign / macro | Instant / teleport | Multi-phase |
+
+**Risk is filed by score, not by the diagonal.** Threat Score is Coherence rank + Potency rank (I/α = 1 … V/ω = 5), and the sum sets the level exactly as the Universal Table's Chapter 4 sets it: 2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH. The pair in each row is the diagonal centroid — the common read, not the only legal one. Most bodies sit off it: *The Maw* is IV + ω = 9 and files ALEPH, and a ω + I body is 6 and files HE. Convert a source risk level by choosing any pair that sums to it, and write the pair down beside the score.
 
 ### III.1 Reverse arithmetic
 
 When the transport runs the other way, HP and Pressure are recovered by inverting the tier's threat multipliers rather than by inventing new ones. This is the owner's Risk Parallel §XV, carried into the chaptered overhaul as [RRP].
 
-- `base_HP = ceil(LC HP ÷ HP multiplier)` → Sorrow Gauge.
-- `Han Pressure = ceil(LC attack value ÷ ATK multiplier)`.
+- `base_HP = ceil(LC HP ÷ HP multiplier)` → Sorrow Gauge, the density-weighted set being **×0.4** ZAYIN · **×1.0** TETH · **×1.8** HE · **×9** WAW · **×19** ALEPH. HE is the equilibrium anchor; WAW and ALEPH read the density across the whole Gauge.
+- `Han Pressure = ceil(LC attack value ÷ ATK multiplier)`, the multiplier being one filed value inside the tier's range: **×0.8–1.2** ZAYIN · **×1.3–1.5** TETH · **×1.4–1.8** HE · **×1.2–2.0** WAW · **×0.8–1.3** ALEPH. HE is the peak standard band, a WAW spike pattern files at the top of its range, and ALEPH hits softer per blow because its threat is carried by mechanics — instant death converts only where the dossier files it.
 - The multiplier is the value recorded at intake, one number inside the tier's range, filed when the pair was created.
 - No multiplier on file? Use the range minimum, mark the recovered figure **`{est.}`**, and say so. An unfiled multiplier is a documentation gap, and no scene may later compute a more convenient one.
 - Where both records of a pair exist, they are cross-checked. They are never recomputed into agreement.
@@ -97,9 +99,9 @@ The side-by-side worldbuilding comparison and the six contact geometries a story
 
 Designations convert by **assignment**, never by arithmetic.
 
-- **LC → PS.** An incoming Abnormality's LC code is recorded as an **alias** in the SECC profile. The SECC code itself is built from Somnarak fields — origin, Coherence, Potency, registry number — and is never transliterated from the LC code.
+- **LC → PS.** An incoming Abnormality's LC code is recorded as an **alias** in the SECC profile. The SECC code itself is built from Somnarak fields and follows `SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]` — example `SE-C-IVβ-069 [WS]`. Origin reads `C` City Sorrow · `N` Inner Sorrow · `O` Outside Sorrow; the bracket carries the Element initial (`L` Lament · `G` Grudge · `W` Weight · `V` Void · `M` Mixed) and the physical type (`S` Subject · `O` Object · `P` Place · `T` Time · `H` Hazard). Nothing in it is transliterated from the LC code.
 - **PS → LC.** The transported code `X-YY-0###` is built under **Section II of the [Universal Sorrow Entity to Abnormality Conversion Table](PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md)**: category letter from Sorrow Category, Origin and The Tale; class number from Entity and Tool Type, Physical Form and Appearance, with the current body governing; serial is `0` plus the SECC number, assigned once and never renumbered.
-- **The case studies in Section X predate the designation law.** They pair codes by hand (`F-01-69` → `SE-C-IVδ-069 [GS]`). Read them as worked precedents, not as a numbering rule, and apply the overhaul's Section II to any new conversion so the two archives stay mutually retrievable.
+- **The case studies in Section X predate the designation law.** They pair codes by hand (`F-01-69` → `SE-C-IVβ-069 [WS]`). Read them as worked precedents, not as a numbering rule, and apply the overhaul's Section II to any new conversion so the two archives stay mutually retrievable.
 
 ### III.4 Reading a transported Sorrow Entity backwards
 
@@ -252,7 +254,9 @@ The box is the whole rule; the four points below are what it costs to break it.
 L Corp's counter display carries **three** trigger systems and admits to one of them.
 
 - **Counter [N]** — a numeral, and the ability fires when it runs out. **Old Lady** (O-01-12) displays 4, and that single numeral is moved by two unrelated systems: it drops by one whenever work on any other Abnormality in the facility finishes, and it rises by one on her own Good or Normal results. One display, two drivers, neither of them visible on the counter.
-- **Counter [X]** — the display shows X, and the game's own text glosses that as *not using a counter*. That gloss is wrong. **Bloodbath** (T-05-51) shows X and still counts: every employee dragged into the tub raises a visible hand, three hands mean the next work kills instantly regardless of level, and a kill resets the tally. The entity is counting. It is simply not counting where you can see it. This hidden tally is what the Codex calls **Special Activation**.
+- **Counter [X]** — the display declines to answer. It shows no numeral, and the game's own text glosses that as *not using a counter*. The gloss is not a fact about the entity; it is a fact about the screen. It cannot tell you whether a tally exists behind the X, so the behaviour has to.
+  - **A hidden tally is real.** **Bloodbath** (T-05-51) shows X and still counts: every employee dragged into the tub raises a visible hand, three hands mean the next work kills instantly regardless of level, and a kill resets the tally. The entity is counting. It is simply not counting where you can see it. This hidden tally is what the Codex calls **Special Activation**.
+  - **No tally is equally real.** **Apocalypse Bird** (O-02-63) shows X, breaches, and counts nothing — its arrival is a condition met elsewhere in the facility, not an accumulation. **One Sin and Hundreds of Good Deeds** (O-03-03) shows X and has nothing to fire at all. A display that refuses to answer has not answered "one".
 - **Activation** — a condition with no tally at all. An employee of a given stat enters, a mood is met, a timer expires. Nothing accumulates.
 
 The conversion keeps the three apart.
@@ -260,29 +264,32 @@ The conversion keeps the three apart.
 | L Corp | Somnarak | Rule |
 |---|---|---|
 | **Counter [N]** | **Activation Threshold** | Same number, same direction, same drivers. A 4 becomes a 4 and runs down for the reasons the native gives |
-| **Counter [X]** — the Special Activation tally | **Sorrow Gauge**, percentage | The hidden count is real, so it converts as a gauge: it accumulates, it reads as a percentage, and it fires at its filed activation percentage |
+| **Counter [X]** with a hidden tally — Special Activation | **Sorrow Gauge** — the pressure percentage, never the HP pool | The hidden count is real, so it converts as a gauge: it accumulates, it reads as a percentage, and it fires at its filed activation percentage |
+| **Counter [X]** with no tally behind it | **Activation** — or nothing at all | The X is honest here. File the condition that actually fires the entity, and if nothing fires it, file no counter and invent no meter |
 | **Activation** — condition, no tally | **Activation** | Filed as a condition, with no number invented beside it. Nothing accumulates, so nothing is given a meter |
 
 Five rules follow.
 
 - **No crossing.** A numeral never becomes a percentage and a percentage never becomes a numeral. A counter of 4 is not "80% of five".
-- **An [X] entity is not counterless.** Filing `Counter: —` on Bloodbath because the display shows X is the exact error the entity exists to refute. It has a counter; the game put it somewhere else.
-- **Two drivers stay two.** Where a numeral is moved by both the facility and the entity, both are written down as they are, even where one of them is not the entity's business.
+- **A display is not a record.** Filing `Counter: —` on Bloodbath because the display shows X is the error the entity exists to refute: it has a counter, and the game put it where you cannot see it. Filing a hidden counter on *every* X is the same error reversed — Apocalypse Bird shows X and counts nothing. Read the behaviour and write down what it does.
+- **Two drivers stay two.** Where a numeral is moved by both the facility and the entity, both are written down as they are, even where one of them is not the entity's business. Old Lady's facility-wide driver converts to the Somnarak facility plane as *work completed on any other holding in the same facility* — a facility fact, filed even though it is not her own work.
 - **Both live.** Where a native files a numeral and a hidden tally together, either may fire, and neither overrides the other (R-06).
 - **No inversion, no step arithmetic.** Direction is copied. A counter that falls on bad work becomes a threshold that falls on bad work.
+
+**One name, two records.** The Sorrow Gauge % in this section is the pressure read; the Sorrow Gauge (HP) of Section III is the durability pool. The Universal Table keeps them on separate lines and a dossier files them as separate numbers. A hidden tally completes the first and never touches the second. Where a line here says "the Gauge", read the percentage unless it says otherwise.
 
 Two carry-overs remain.
 
 - **Reset is per mechanism.** A [N] count resets only where the native resets it, and a cumulative tally that never resets stays permanent. The gauge returns to its filed baseline by its own rule.
-- **Meltdown-marked becomes Watch-marked.** A unit selected by Qliphoth Meltdown converts to a Watch-marked entity under VII.2, because the Watches supply the tidal pressure the meltdown rotation supplied inside the facility. A Watch-mark lifts the two-work-type law in neither archive.
+- **Meltdown-marked becomes Watch-marked.** A unit selected by Qliphoth Meltdown converts to a Watch-marked entity under VII.2, because the Watches supply the tidal pressure the meltdown rotation supplied inside the facility. A Watch-mark does not lift the two-work-type law in either archive.
 
 **Tool-use counters are [X]-class or [N]-class, never free-floating.** Charge counts, timers, per-day uses and single-use consumption convert with figures verbatim — the Train's four lights are the native shape. Read-only tallies (a count of faces already learned) are Basic-Info statistics and evidence, not meters.
 
-Full both-direction coverage of every system this guide touches is certified in **Appendix A of the Universal Table** (Conversion Integrity Matrix).
+Full both-direction coverage of every system this guide touches is certified in **Appendix A of the Universal Table** — the Coverage Index — whose Integrity Appendix carries the cross-checks.
 
 ### VII.2 Four atmospheric watches
 
-Qliphoth Meltdowns fire at random inside a facility. Somnarak's pressure comes from tidal surges in the Weeping at −2,000 metres.
+Qliphoth Meltdowns select their units at random on the day's fixed cadence. Somnarak's pressure comes from tidal surges in the Weeping at −2,000 metres.
 
 | Watch | Korean | Surge | Effect |
 |---|---|---|---|
@@ -329,9 +336,9 @@ Every standard Subject entity extracts three pieces.
 
 ### VIII.3 Composure Load and M.A.W. Meltdown
 
-PM gear carries static requirements such as Fortitude III or Prudence II. Somnarak's high-tier wear carries **Active Composure Load** instead: Grade δ and Grade ω gear drain a steady fraction of the wielder's Composure while worn.
+PM gear carries static requirements such as Fortitude III or Prudence II. Somnarak's wear may instead carry **Active Composure Load** — but the load is a ledger entry, not a tax on the grade. Each piece files its own SP-pool burden, with amount, form, trigger and duration written on the piece; a Grade δ or ω piece with nothing filed carries `Composure Load: —`. Neither Risk, Potency grade nor material class supplies a default, and several burdens on one bearer stay as separate lines instead of merging into a set-wide figure.
 
-At zero Composure the operative suffers **M.A.W. Meltdown**. The armour fuses permanently into the nervous system and the operative becomes a feral Fractured entity.
+An emptied SP pool is **Panic** — fought, suppressed and recovered like any other. It is not a transformation. **M.A.W. Corrosion** is a separate four-stage track — Whispers, Bleed, Merge, Takeover — driven by cumulative overuse, misuse, neglect or conflict, and it is the only road on which armour and bearer stop being separable. Reaching the last stage is an event with a filed history behind it, never the resting state of whoever simply ran out of Composure.
 
 ---
 
@@ -343,9 +350,9 @@ Every PM Tool Abnormality converts into a **Relic-Entity** under SECC rules.
 
 | PM tool type | Relic class | Examples | Behaviour |
 |---|---|---|---|
-| Single-use | **A-Relic** (consumable) | *Old Faith and Promise*, *Luminous Bracelet* | One operation per expedition; a large effect or destruction |
-| Equippable | **O-Relic** (field) | *Heart of Aspiration*, *Flesh Idol* | Carried; taxes Composure continuously for a passive combat buff |
-| Channeled or sustained | **I-Relic** (facility) | *Therapy Device*, *We Can Change Anything* | Anchored in a chamber; the operative steps inside for processing |
+| Single-use | **A-Relic** (Arcanum) | *Old Faith and Promise* (T-09-97), *Skin Prophecy* (T-09-90) | One filed trigger completes the interaction; the relic may be consumed outright |
+| Channeled or sustained | **O-Relic** (Offertorium) | *We Can Change Anything*, *Flesh Idol* | A maintained session — touch, gaze, invocation — with a filed duration and a closure condition |
+| Equippable | **I-Relic** (Indumentum) | *The Heart of Aspiration* (T-09-77), *Luminous Bracelet* (O-09-95) | Worn or mounted; the effect travels with the bearer, and the return condition is part of the record |
 
 ### IX.2 Capability badges
 
@@ -368,7 +375,7 @@ Every relic dossier carries a four-tier unlock table.
 
 ### IX.4 Observation Level → R.D. Comprehension
 
-The relic log sits inside a wider rule. A native's Observation Level track converts to the SE dossier's R.D. Comprehension gates in the order the Universal Table's §IX runs, reversed: **basic information first**, then work responses and management methods, then activation and termination behaviour, and the narrative last and whole.
+The relic log sits inside a wider rule. A native's Observation Level track converts to the SE dossier's R.D. Comprehension gates along the Universal Table's §IX track, walked in the returning direction and not in reverse order: **basic information first**, then work responses and management methods, then activation and termination behaviour, and the narrative last and whole.
 
 Anything the LC record withholds at its filed Observation Level converts as *unwritten*, not as absent. The Comprehension record carries the gate, and the archivist does not research past it on the entity's behalf.
 
@@ -382,22 +389,22 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 - **PS entity:** `SE-C-Iα-033 [LS]` *The Whispering Confessional* (고해의 속삭임 / *Gohae-ui Soksagim*).
 - **Profile:** City Sorrow `C-`, Rank I Residue, Grade α Minor, Lament element, Subject-Spirit manifestation.
 - **Durability:** Sorrow Gauge 220/220. Han Pressure 08 Deep Blue.
-- **Work:** Viderehan raises Clarity by 10; Ferrehan is stable; Flerehan takes the Gauge down 25% and heals worker Composure by 15; Pugnahan fails and adds 20.
+- **Work:** Viderehan raises Clarity by 10; Ferrehan is stable; Flerehan takes the Gauge down 25% and heals worker Composure by 15; Pugnahan fails and adds 20 Sorrow Gauge %.
 - **M.A.W.:** *Confessional Habit* (suit, 0.8 Blue / 1.2 Crimson) and *Thorn Halo* (gift, +5 Composure recovery).
 
-### X.2 HE / WAW combatant
+### X.2 HE combatant with a spike attack
 
-- **PM source:** *Der Freischütz* (F-01-69, HE).
-- **PS entity:** `SE-C-IVδ-069 [GS]` *The Marksman of the Seventh Watch* (칠경의 저격수 / *Chilgyeong-ui Jeogyeoksu*).
-- **Profile:** City Sorrow `C-`, Rank IV Entity, Grade δ Critical, Grudge element, Subject-Tale manifestation.
-- **Durability:** Sorrow Gauge 880/880. Han Pressure 42 Crimson. Range Band 4–5.
-- **Engine:** four AP a round. The *Seventh Slate Needle* pierces all ten nodes and hits friend and foe alike for 55 Crimson.
-- **Work:** Viderehan is safe, Ferrehan tests Resilience, Flerehan lowers the Gauge, Pugnahan is a severe clash that marks the target for execution.
+- **PM source:** *Der Freischütz* (F-01-69, HE) — a single bullet of 80 BLACK that crosses the facility and pierces walls, Abnormalities and employees alike.
+- **PS entity:** `SE-C-IVβ-069 [WS]` *The Marksman of the Seventh Watch* (칠경의 저격수 / *Chilgyeong-ui Jeogyeoksu*).
+- **Profile:** City Sorrow `C-`, Rank IV Entity, Grade β Moderate — IV + β = 6, which reads **HE** and matches the source. Weight element, Subject-Tale manifestation.
+- **Durability:** Sorrow Gauge 720/720, set inside the HE band 500–750 — the native files no containment HP, because the entity never breaches, so the figure is a declared design entry and not a derivation. Han Pressure 45 Black, flagged above the band. Range Band 4–5.
+- **Engine:** four AP a round. The *Seventh Slate Needle* is the whole of the entity's offence: the native bullet of 80 converts at the top multiplier, `ceil(80 ÷ 1.8)` = **45 Black**, which crosses the HE attack band 18–35 and is flagged as a spike rather than rescaled. It pierces all ten nodes and hits friend and foe alike.
+- **Work:** Viderehan is safe, Ferrehan tests Resilience, Pugnahan is a severe clash that marks the target for execution — and the native's Attachment slot is not work at all. It is the Request, and the Request is the needle. File it as a special rule, never as Flerehan.
 
 ### X.3 ALEPH Sovereign
 
 - **PM source:** *Apocalypse Bird* (ALEPH).
-- **PS entity:** `SE-C-Vω-001 [LS]` *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*).
+- **PS entity:** `SE-C-Vω-001 [MS]` *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*).
 - **Profile:** City Sorrow `C-`, Rank V Sovereign, Grade ω Catastrophic, Mixed element (cycles Crimson, Blue, Black, Pale White).
 - **Durability:** Sorrow Gauge 12,000/12,000, run as a multi-phase sovereign raid.
 - **Mechanics:** three targetable core organs — the Beak of Hunger, the Scales of Debt, the Blind Lamp — and destructible limbs that require synchronised interception across the ten nodes.
@@ -405,12 +412,12 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 
 ### X.4 Tool Abnormality
 
-- **PM source:** *Skin Prophecy* (T-09-77, WAW Tool).
+- **PM source:** *Skin Prophecy* (T-09-90, TETH Tool, single-use).
 - **PS entity:** `SE-N-IIβ-319 [VO]` *The Magistrate's Strike-Through* (판관의 취소선 / *Pangwan-ui Chwisoseon*).
-- **Class:** O-Relic, field activation, Void element.
+- **Class:** A-Relic, single-use, Void element.
 - **Work law:** Viderehan and Ferrehan only; Flerehan and Pugnahan `N/A`.
 - **Badges:** `[Can Benefit Operative]` · `[Capable of Employee Alteration]` · `[Capable of Instadeath]`.
-- **Effect:** the operative grinds the magistrate's black chalk over their equipment for thirty seconds of absolute Void immunity, and pays with a permanently forgotten civil name and +25 Composure Load.
+- **Effect:** the operative grinds the magistrate's black chalk into one closed circle. The circle is a thirty-second sanctuary; drawing it consumes the relic outright; and everyone sheltered inside cannot recall their family names until the shift ends. `Composure Load: —` — the name-loss is a narrative toll, not an SP-pool burden.
 
 ---
 
@@ -426,7 +433,8 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 | 02. ORIGIN CHECK : Grounded in Somnarak's 6,000 years and the Four     |
 |                   Corners                                              |
 | 03. CODE CHECK   : Standard SECC format                                |
-|                   [Origin]-[Rank]-[Potency]-[Number]                   |
+|                    SE-[Origin]-[Coherence][Potency]-                   |
+|                    [Number] [Element][Manifestation]                   |
 | 03b. ALIAS CHECK : LC code kept as alias; X-YY-0### per the SE to      |
 |                   Abnormality overhaul S.II, never renumbered          |
 | 04. DURABILITY   : 150-1,000 HP for Ranks I-IV; 1,000-12,000 HP for    |
@@ -438,9 +446,10 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 | 08. SPATIAL      : 10-node grid, Range Bands 1-5, AP budget assigned   |
 | 09. M.A.W.       : Weapon, suit and gift assigned across the five      |
 |                   weight classes                                       |
-| 10. RE-QUOTA     : Archive maintains at least 25.0% Relic-Entity       |
-|                   balance                                              |
+| 10. RE-QUOTA     : Relic-Entities file as A/O/I Relic, never           |
+|                    Subject; archive mix 88 of 301 (29.2%)              |
 | 11. COUNTER      : Three triggers: [N] numeral to Threshold,           |
-|                    [X] tally to Gauge, condition to Activation         |
+|                    [X] hidden tally to Gauge, condition to             |
+|                    Activation; an X with no tally is Activation        |
 +========================================================================+
 ```

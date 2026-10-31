@@ -8,6 +8,37 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Logic audit of the PM → PS Conversion Guide (2026-11-01)
+
+The guide was re-read whole against the wiki and the Drive reference set — the Combined Overhaul and the Tool Abnormality research — and then examined for internal contradiction rather than for wording. Every defect found is fixed in place.
+
+**Two repairs changed a law, not a sentence.**
+
+- **The `X` display is a non-answer, and the guide had made it a promise.** Bloodbath (T-05-51) shows `X` over a working tally; Apocalypse Bird (O-02-63) shows `X`, breaches, and counts nothing; One Sin (O-03-03) shows `X` and has nothing to fire at all. The three classes stand, but the `X` class is now defined by the hidden tally an entity actually holds, and an `X` with nothing behind it files Activation. The previous entry's "no `X` entity is counterless" is narrowed to what the evidence supports: the display neither proves a counter nor proves its absence.
+- **The relic taxonomy was inverted.** The guide ran single-use → A-Relic, equippable → O-Relic, channeled → I-Relic. The Universal Table's Chapter 8 runs **A-Relic (Arcanum) single-use · O-Relic (Offertorium) channeled · I-Relic (Indumentum) equippable**, and the Drive's tool research gives the same three shapes. Corrected in Section IX and in the worked tool case, which is an A-Relic in the Table and had been filed as O.
+
+**The core matrix taught the diagonal as law.** Section III mapped each risk level to one rank and one grade. Risk is filed by **Threat Score = Coherence + Potency** (2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH), and off-diagonal pairs are ordinary — the Maw is IV + ω = 9 and files ALEPH. The matrix now carries the score column and says plainly that the pair in each row is the centroid, not the only legal read. Section II's sovereign tier had the same fault from the other side: it admitted Rank V only, while its own example was a Rank IV.
+
+**Three source records were misread.**
+
+- *Skin Prophecy* is **T-09-90, TETH, single-use**. The guide had `T-09-77` (The Heart of Aspiration) and `WAW` (its pre-0.3.0.7 rating), and had filed the relic as equippable.
+- *Der Freischütz* deals **BLACK 80**, not RED. The case study carried Grudge through the profile, the pressure line and the needle.
+- *Apocalypse Bird* is **O-02-63**; the Universal Table cited `O-02-40`, which is Big Bird.
+
+**Arithmetic and law.**
+
+- Section III.1 now states the multipliers it was invoking: **×0.4 / ×1.0 / ×1.8 / ×9 / ×19** for HP and **×0.8–1.2 / ×1.3–1.5 / ×1.4–1.8 / ×1.2–2.0 / ×0.8–1.3** for ATK.
+- The Risk Parallel was still carrying the superseded **×0.2 / ×0.4 / ×4 / ×10** HP set and **×0.5–1.0 / ×1.2–1.4 / ×1.0–1.8** ATK set, and its worked example computed a TETH body at 166 HP. Corrected to the Table's numbers; the example now reads 415 → **415**, and the L → S example divides by the ALEPH band instead of a ZAYIN one.
+- *Der Freischütz* is re-tiered to **IV + β = 6 HE** — the source level — with the 80-damage bullet converted at `ceil(80 ÷ 1.8)` = **45 Black** and flagged above the HE band rather than rescaled. Its Attachment slot is the Request, not Flerehan, and is now filed as a special rule.
+- **Composure Load** was a tax on the grade in the guide and a per-piece filed burden in the Table; **M.A.W. Meltdown** was a permanent fusion at zero Composure, which the Table calls Panic and explicitly not a transformation. Both rewritten to the Table's law.
+- The guide now separates the two records that share the name **Sorrow Gauge**: the pressure percentage and the HP pool.
+
+**Smaller repairs.** Section IX.1 listed Luminous Bracelet as single-use (it is equippable, O-09-95), Flesh Idol as equippable (it is channeled), and *Therapy Device*, which is not an L Corp Abnormality. The SECC format line was missing the `SE-` prefix, the element/manifestation tag and the C/N/O origin letters. The checklist's "at least 25.0% Relic-Entity balance" had no source anywhere in the archive and is replaced by the filing check plus the archive's actual shape mix, 88 relics of 301 (29.2%). "The Walking Maw" is not a name — the breach state is *The Walking District*. The subtitle advertised the 10,000 HP calibration that the body calls non-canonical, and the Dawn of Mourning carried an `L` element tag against an all-four record.
+
+**Checks:** `seam_lint` 1,767 · `label_lint` 301 · `timeline_lint` 1,800 · `check_links` 3,994 / 0 broken · `audit_lore_archive` PASS · box symmetry PASS · `git diff --check` clean.
+
+**[P]** One question is left for the owner: the `X`-with-no-tally reading narrows the previous entry. The guide now files the evidence (Apocalypse Bird) instead of a universal, and awaits a ruling.
+
 ## Correction — three triggers, not two: [N], [X], and Activation (2026-11-01)
 
 The owner pointed at Old Lady and Bloodbath, and the two-class model broke. L Corp's counter display carries **three** trigger systems and only admits to one.

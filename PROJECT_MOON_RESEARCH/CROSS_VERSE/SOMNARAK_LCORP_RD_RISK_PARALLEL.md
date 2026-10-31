@@ -64,19 +64,19 @@ Threat Score = Potency Rank + Coherence Rank
 
 ## II. HP Conversion
 
-Somnarak uses **X/X of 1000** for entity HP. L Corp uses absolute HP values. Convert using the multiplier for the entity's Risk Level.
+Somnarak files the **Sorrow Gauge base** exactly as the dossier writes it — the standard line is `base/base`, never a fraction of 1,000. L Corp uses absolute HP values. Convert using the density-weighted multiplier for the entity's Risk Level.
 
 | L Corp Risk Level | HP Multiplier | Formula |
 |---|---|---|
-| ZAYIN | ×0.2 | `ceil(Somnarak_HP × 0.2)` |
-| TETH | ×0.4 | `ceil(Somnarak_HP × 0.4)` |
-| HE | ×1.8 | `ceil(Somnarak_HP × 1.8)` |
-| WAW | ×4 | `ceil(Somnarak_HP × 4)` |
-| ALEPH | ×10 | `ceil(Somnarak_HP × 10)` |
+| ZAYIN | ×0.4 | `ceil(Gauge × 0.4)` |
+| TETH | ×1.0 | `ceil(Gauge × 1.0)` |
+| HE | ×1.8 | `ceil(Gauge × 1.8)` |
+| WAW | ×9 | `ceil(Gauge × 9)` |
+| ALEPH | ×19 | `ceil(Gauge × 19)` |
 
 **RULE: Every number must be a whole number — always round UP (ceil). No decimals.**
 
-**Example:** Somnarak entity has 415/1000 HP, Threat Score 4 (TETH). L Corp HP = ceil(415 × 0.4) = **166 HP**.
+**Example:** Somnarak entity files 415/415, Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**; a 999 Gauge files 8,991 HP at WAW and 18,981 at ALEPH.
 
 ---
 
@@ -86,15 +86,15 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 
 | L Corp Risk Level | ATK Multiplier | Formula |
 |---|---|---|
-| ZAYIN | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` |
-| TETH | ×1.2–1.4 | `ceil(base_ATK × rand(1.2, 1.4))` |
-| HE | ×1.4–1.8 | `ceil(base_ATK × rand(1.4, 1.8))` |
-| WAW | ×1.0–1.8 | `ceil(base_ATK × rand(1.0, 1.8))` |
-| ALEPH | ×0.5–1.0 | `ceil(base_ATK × rand(0.5, 1.0))` — add **Instant Death** mechanics |
+| ZAYIN | ×0.8–1.2 | `ceil(base_ATK × m)` |
+| TETH | ×1.3–1.5 | `ceil(base_ATK × m)` |
+| HE | ×1.4–1.8 | `ceil(base_ATK × m)` |
+| WAW | ×1.2–2.0 | `ceil(base_ATK × m)` |
+| ALEPH | ×0.8–1.3 | `ceil(base_ATK × m)` — **Instant Death** only where the dossier files it |
 
 **RULE: Always round UP. No decimals.**
 
-**Note:** HE-tier entities are the peak raw damage dealers. ALEPH entities deal less per-hit but compensate with **Instant Death / Instant Fracture** abilities.
+**Note:** `m` is one multiplier chosen inside the tier range from the dossier's pressure pattern and filed at intake — never rolled per use. HE is the peak *standard* raw-damage band; the WAW upper end is filed only for a dossiered spike pattern; ALEPH entities deal less per hit where their threat is carried by **Instant Death / Instant Fracture** outcomes the dossier files.
 
 ### Damage Type Mapping
 
@@ -173,7 +173,9 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **Breach Type: Corrupt** | **Corrupting Breach** | Entity damages facility/containment |
 | **Breach Type: Transform** | **Transformation** | Entity changes form, escalates |
 | **Breach Type: Cascade** | **Cascading Breach** | Triggers other entities to breach |
-| **Activation threshold** (Gauge ≥ X%) | **Qliphoth Counter** reaching 0 | The trigger condition |
+| **Activation Threshold** — a filed count `[N]` | **Qliphoth Counter** reaching 0 | Same number, same direction, same drivers |
+| **Sorrow Gauge** reaching its filed percentage — the `[X]` tally | a Qliphoth Counter shown as **`X`** over a working tally | The hidden tally's completion point, not the numeral's |
+| **Activation** — a condition with no tally | *(no counter, or a counterless trigger)* | The condition itself; nothing accumulates, nothing is metered |
 | **Sorrow Tide** (nightly Han surge) | **Qliphoth Meltdown** | Escalation event |
 | **Ordeals** | **Ordeals** | External hostile events (5 Colors × 4 Watches) |
 | **Instant Fracture** | **Instant Death / Instakill** | ω-grade (ALEPH) entity special |
@@ -366,7 +368,7 @@ When adapting an L Corp Abnormality into Somnarak:
 | 4 | HP | **Sorrow Gauge [HP]** (÷ multiplier, ceil, format X/X of 1000) |
 | 5 | Work Damage | **Han Pressure [ATK]** (÷ multiplier, ceil) |
 | 6 | E-Box count | **Han-Energy yield** (H-Boxes) |
-| 7 | Qliphoth Counter | **Activation Threshold**, same number and direction; the Gauge stands in only for an `X` counter |
+| 7 | Qliphoth Counter | **Activation Threshold** `[N]`, same number and direction; the Gauge stands in only for a hidden `X` tally; a condition with neither files **Activation** |
 | 8 | Work Preferences | **Work Type table** (success → Decrease, failure → Increase) |
 | 9 | E.G.O | **M.A.W. Equipment** (Weapon/Suit/Gift) |
 | 10 | Story entries | **이야기 보고 (Story Log)** |
@@ -385,12 +387,12 @@ When adapting an L Corp Abnormality into Somnarak:
 **Entity:** The Torn Whisper — `C-IIβ-716 [GS]`
 - Coherence: II, Potency: β → Score 4 → **TETH**
 - Element: Grudge (Crimson) → **RED Damage**
-- HP: 415/1000 → ceil(415 × 0.4) = **166 HP**
-- Han Pressure [ATK]: 10–23 → ceil(10 × 1.2)–ceil(23 × 1.4) = **12–33 RED**
+- HP: 415/415 → ceil(415 × 1.0) = **415 HP**
+- Han Pressure [ATK]: 10–23, filed *m* 1.4 → ceil(10 × 1.4)–ceil(23 × 1.4) = **14–33 RED**
 - Work Types: Flerehan↓, Pugnahan↑, Viderehan→, Ferrehan↓ → Attachment (High), Repression (Low), Insight (Medium), Instinct (High)
 - Han-Energy: 12–18 H-Boxes → **12–18 PE-Boxes**
 
-**Result:** A TETH-class Abnormality, 166 HP, dealing 12–33 RED damage, best worked via Attachment, worst via Repression, yielding 12–18 PE-Boxes.
+**Result:** A TETH-class Abnormality, 415 HP, dealing 14–33 RED damage, best worked via Attachment, worst via Repression, yielding 12–18 PE-Boxes.
 
 ### L Corp → Somnarak
 
@@ -398,9 +400,9 @@ When adapting an L Corp Abnormality into Somnarak:
 - Risk Level: ALEPH → Score 9–10 → **δ+V or ω+IV/V**
 - Already is: Coherence IV + Potency ω = Score 9 → matches
 - Damage: RED → **Grudge (Crimson)**
-- L Corp ATK 6–9 → Somnarak: ceil(6 ÷ 0.75)–ceil(9 ÷ 0.75) ≈ **8–12 per hit · Grudge**
+- L Corp ATK 6–9 → Somnarak: ceil(6 ÷ 1.3)–ceil(9 ÷ 0.8) = **5–12 per hit · Grudge**
 - Origin: O → **City or Outside Sorrow**
-- Designation: `C-IVω-001 [GP]` (this IS The Maw's designation — they are analogues)
+- Analogue, not designation: read against The Maw `C-IVω-001 [GP]`. An analogue is a reading, and the Maw's code is not issued to Nothing There
 
 ---
 
