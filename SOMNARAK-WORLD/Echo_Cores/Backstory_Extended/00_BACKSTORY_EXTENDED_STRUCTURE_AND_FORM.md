@@ -630,6 +630,7 @@ Eight rules bound them:
 | **Insu** (인수, "human and long-lived") | `01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md` | Senior medic, extraction team; gave the debrief on the fusion directive | Present at the Day 0 bonding only; no later command role | Backstory-only; reusable in 04–09 if consistent |
 | **Dahye** (다혜, "many graces") | `04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md` | Floor 3 technician; aborted extraction at 61% stability; the Extraction Lead's counter-witness | Floor 3 only; no command role; knew Zyrak as an instructor before she knew her as the Lead | Backstory-only; reusable in 05–09 if consistent |
 | **Haeun** (하은, "summer grace") | `05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md` | Floor 4 researcher, Year 4,238; asks why Chamber 15 is empty | Floor 4 only; no clearance beyond the research archive; knows the chamber is empty, not what it cost | Backstory-only; reusable in 06–09 if consistent |
+| **Kyungmi** (경미, "respectful and beautiful") | `06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md` | Stores keeper, Wardens' stores at the Threshold; issued the Border Lead's first kit, cut the badge off at exile, kept the drawer of badges | No office, no clearance, no authority; one witness to one night; not canon without a Promotion Check | Backstory-only; reusable in 07–09 if consistent |
 
 
 

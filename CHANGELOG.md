@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Echo-Core Backstory Extended: file 06 Mellda filed (2026-10-31)
+
+- **The Border Lead is the sixth activated record, and the first whose object is a coat rather than a tool.** The greatcoat has its Warden badge cut away with four passes of a shears so the cloth would not tear, and the stitch marks are never mended. Twenty years later the same counter, the same drawer, the same four inches of cloth on the left breast: twelve Directorate armbands for the refugees who asked to stand on the Bulwark, pinned left, straight — and this time nobody cuts anything off.
+- **The break is a pair of hands at a service counter.** The Council's finding names a post, a unit, a night and a number of dead, assigns culpability to the surviving officer, and never names a crime. Then the Wardens take the coat, and the stores keeper cuts the badge off, and neither of them says anything while she does it.
+- **The doubled scene is the counter, and the second half is the answer to the first.** *"Do you want the badge?" — "No."* / *"Do you want me to sew it back on?" — "No."* The same question, twenty years apart, with the same refusal and the opposite meaning.
+- **The withheld sentence is four words she never said at the hearing.** She did not deny it because a denial is a request, and the clerk was not asking. She says it — *"I didn't do it"* — in the last scene of the file, to the woman who cut the badge off and who already knew.
+- **The counter-witness saw her go back in.** Kyungmi, the stores keeper, remembers the survivor coming out of the eastern post at dawn and then going back through the west door and carrying the dead into the corridor one at a time. She told the clerk; the clerk already had his six paragraphs. The file prints her account as one witness's, given twenty years late, and notes that the finding kept no minutes.
+- **The file refuses to explain the survival.** Canon says every member of her unit died and does not say why she lived. The record states that and supplies no reason: *"A survivor is not an explanation."*
+- **Five dossier scenes contradicted the Parts, and the Parts won.** Day 7 (the dossier gives her *"I know. I always do. But it gets harder each cycle."*; Part 2 gives *"...Understood."*), Day 41 (the dossier gives *"I know. I know. But it gets harder to say no."*; Part 3 gives *"You're gambling with all of us, Majin."*), Day 73 (the dossier has Majin refuse to answer and the envoy wait three hours; Part 4 has him order rest and say he will speak to them himself), Day 108 (the dossier has the Wardens protest; Part 6 has Seiyon cite Protocol 14-B), and Day 160 (the dossier gives her the four emotional states; Part 8 gives her only the border report).
+- **Day 108 is left deliberately empty of dialogue.** File 02 already owns that exchange; this file starts after the order, at Gate 05, with the cable to cut.
+- **The stance is named:** **The Will to Stand in the Way** — the same instinct that produced the write-ups, the doubling of the sentries, and the six hours at the cordon.
+- **[P]** Remaining: characters 07–09 (Marjuk next); a backfill pass adding the chronological-spine, objects, and relationships sections to files 01–03; and an owner ruling on the Solidification dating. The SE ↔ M.A.W. reconciliation queue remains pinned WIP.
+
 ## Echo-Core Backstory Extended: file 05 Ayshuk filed (2026-10-31)
 
 - **The Research Lead is the fifth activated record, and the first whose wound he cannot verify.** A Void entity took his nascent sorrow when he was a child, gently, the way a bird takes a berry. Nothing identifies it, nothing explains it, and nothing can confirm it — so the file states the event the way the archive states it and tells the reader, before the first scene, that the man it happened to has no memory to check it against.
