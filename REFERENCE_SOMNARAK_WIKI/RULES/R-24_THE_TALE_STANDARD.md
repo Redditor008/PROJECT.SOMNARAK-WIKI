@@ -77,3 +77,39 @@ clearing `tpl.py` and `verify.py` is necessary but not sufficient — Chain of M
 4. **This applies to my own writing too.** The bespoke sections added during Workstream 1 —
    `Warden Record` 0.62, `Watch Record` 0.45, `Apex Record` 0.42 — are not at the standard either.
    They are original per entity but have acquired a house tic, and they are in scope.
+
+## Dialogue is prose too — the performance standard
+
+**Stated by the archive owner, 2026-11-01:** *"you only used plain text for dialogue and not at all used any styling on how the dialogue should feel … when I read through it I can see or feel what happening. Is Majin screaming, shouting, OR scared I can't see it because there no flare … uneven writing, asymmetrical structure, OR any kind of dramatic text style."*
+
+This rule has always measured whether the **narration** is this file's own. It did not measure whether a **spoken line** is performed, and a file could pass the whole measure above with every command, whisper and silence set in identical roman text. That is now a defect of the same class as mad-libbed prose: the reader has to reconstruct volume, panic and silence from plot, because the page did not carry them.
+
+The full statement is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1c (weights, marks, beats)** and **§XII.1d (lettering and asymmetry)**. It binds every story-bearing file in the archive, not only the Echo-Core backstories.
+
+### Weights
+
+| Weight | Form | Means |
+|---|---|---|
+| Roman | `> **[Majin]** "Hold your boundary."` | ordinary speech at ordinary volume; the default, and most lines are this |
+| Italic | `> **[Majin]** *"Noted."*` | dropped volume — a whisper, a threat said quietly, exhaustion, a line not meant to be carried |
+| Bold | `> **[Mellda]** **"OPEN GATE 05."**` | raised volume — a command over noise, alarm, fury, the point where control slips |
+
+### Lettering
+
+| Device | Means | Cap |
+|---|---|---|
+| **Caps** | carried by volume alone; only inside bold, only where the room is louder than the speaker | one per scene |
+| **Uneven set** — `S e i y o n.` | the word is assembled rather than said | once per file |
+| **Shaky** — `I— I— it was already inside.` | the letters break under fear, cold, blood loss | twice per file |
+| **Broken** — `read—`, `S I G — NAL` | the word arrives in pieces: channel, machinery, entity speech, a body failing | twice per file |
+| **Asymmetry** | unequal paragraph masses carry the scene | mandatory |
+
+### Measured, not asserted
+
+1. **No two consecutive lines in one exchange carry the same weight,** unless the flattening is the point and the narration says so.
+2. **No three consecutive paragraphs may fall within fifteen percent of each other in length,** anywhere in the file.
+3. **Device caps** in the table above are hard; a device used everywhere stops being a device.
+4. **A verbatim source quote is never re-spaced.** Case is rendering, so caps may sit on a quote; uneven set and broken insert or separate characters and may therefore only touch narration, documents, and transcription. Strip `>`, `**`, `*` and the wrapping quotes and the body must still match its source.
+5. **Silence is a weight.** A character who says nothing while another speaks must be visible in a physical beat; a `"..."` line is not a beat.
+
+**A file that passes the 8-gram measure and fails this one is not finished.** The two measures are independent, and both are binding.

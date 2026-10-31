@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The dialogue rule is now the story rule (2026-11-01)
+
+The register and the lettering were filed inside the Echo-Core backstory standard, which meant they governed six files and nothing else. The owner's instruction was to put them on the story rule itself.
+
+- **`R-24 — The Tale Standard` now carries dialogue.** A new section, *Dialogue is prose too — the performance standard*, states the three weights, the five lettering devices with their caps, the three measurable checks, the fidelity rule for verbatim source quotes, and the silence rule. The rule's own history is why: it measured whether narration was this file's own, and never measured whether a spoken line was performed — so a file could pass the whole 8-gram measure with a command and a death set in identical roman text.
+- **The two measures are declared independent and both binding.** A file at ≤ 0.05 generic that sets every line flat is not finished, and the section says so in those words.
+- **The rule stack in `00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` was pointing at an unwritten tier.** Tier 4 read *Owner-supplied Unified Narrative Writing Rules* — a standard living in conversation rather than in the repository. It is now cited to R-24, and §XII.1c/§XII.1d are named as that rule's detailed statement, with the precedence stated for the case where the two texts differ by a detail.
+- **The rules index was updated**, so the next session meets the dialogue standard when it reads the rule list rather than after it has written a flat file.
+- **[P]** Remaining: characters 07–09 (Marjuk next), drafted in both registers from the first line; the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Lettering: caps, uneven set, shaky, broken, and asymmetry (2026-11-01)
 
 Weight decides how loud a line is. It does not decide what the letters themselves do, and the first six files were still setting every word on an even line. Fixed in the records, not annotated.

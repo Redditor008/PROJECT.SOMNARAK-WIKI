@@ -44,6 +44,8 @@ Two delivered rulings are explicit:
 
 R-31 Compact Report v2 still governs the chat summary of the work, not the story text.
 
+**Tier 4 is now written down instead of remembered.** The dialogue standard the owner stated in speech has been folded into [`R-24_THE_TALE_STANDARD.md`](../../../REFERENCE_SOMNARAK_WIKI/RULES/R-24_THE_TALE_STANDARD.md) § *Dialogue is prose too — the performance standard*, which binds every story-bearing file in the archive. §XII.1c and §XII.1d below are that rule's detailed statement and the Echo-Core backstory's house form of it. Where the two texts differ by a detail, R-24 governs the archive and this file governs these files.
+
 ---
 
 ## III. The unit
@@ -639,6 +641,8 @@ Eight rules bound them:
 
 
 ### XII.1c The typographic register
+
+> Archive-wide, this section and §XII.1d are the detailed statement of `R-24` § *Dialogue is prose too — the performance standard*.
 
 **A line of dialogue renders flat only when the writer has not decided how it is said.** Eight hundred identical `[Name] text` paragraphs tell the reader nothing: Majin ordering a rotation and Majin watching a child die sound the same on the page, so the page stops carrying the scene and the reader has to reconstruct it from plot. That is a defect of the same class as an unsupported number.
 
