@@ -1,8 +1,18 @@
 # PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE
-## Project Moon to Project Somnarak Architectural, Phenomenological & Mechanical Adaptation Codex
-### Master Systems Codex — 10,000 HP Calibration & Tactical Alignment
+## Project Moon to Project Somnarak — architectural, phenomenological and mechanical adaptation
+### Master Systems Codex — 10,000 HP calibration and tactical alignment
 
-> **Combined-edition note (2026-10-30):** this standalone file remains the archival original; the SE → Abnormality overhaul does not carry it verbatim, but carries forward rewrites of its mechanics under the owner's direction lock (RULE-TO-FOLLOW A6). This standalone file remains the archival original.
+> **Combined-edition note (2026-10-30):** this standalone file remains the archival original. The SE → Abnormality overhaul does not carry it verbatim; it carries forward rewrites of its mechanics under the owner's direction lock (RULE-TO-FOLLOW A6).
+
+This guide converts a Project Moon Abnormality into a Somnarak Sorrow Entity, and back. It works in five steps and in this order:
+
+1. **Decide the substance.** An Abnormality is made of Cogito and held in a cell; a Sorrow Entity is made of Han and lives in a world. Nothing below works until that swap is made.
+2. **Set the scale.** Read the PM risk level, take the Coherence and Potency ranks from the matrix, and confirm the durability tier.
+3. **Carry the body across.** Damage types, resistances, work responses, counters and equipment each have their own section, in that order.
+4. **File the designations.** The LC code becomes an alias; the SECC code is built from Somnarak fields. Section III.3 governs.
+5. **Run the checklist.** Section XI is the sign-off. A conversion that fails a line is not finished, whatever it looks like.
+
+Every rule below is bidirectional unless it says otherwise. Where a number is taken from the native record, it is used verbatim; where a record is silent, the silence is recorded rather than filled.
 
 ```text
 +========================================================================+
@@ -11,353 +21,416 @@
 | DOCUMENT: PM ABNORMALITY TO PS SORROW ENTITY CONVERSION GUIDE          |
 | STANDING: DEFINITIVE EXPANDED MASTER CODEX // YEAR 4,238               |
 | RATIFYING BODY: SECC & ARCHIVE DIRECTORATE // RESTORATION ERA          |
-+------------------------------------------------------------------------+
+|                                                                        |
 | SCOPE: COMPLETE METAPHYSICAL, COMBAT, WORK & EQUIPMENT TRANSMUTATION   |
 | INVIOLABLE LAWS: TWO WORK TYPES FOR INANIMATE / DUAL DURABILITY SCALE  |
 +========================================================================+
 ```
 
-
-> *"To translate an entity from the City of Project Moon into the living world of Somnarak is not a matter of changing names on a spreadsheet. It is an ontological transmutation. In Project Moon, terror is extracted from the human subconscious through Cogito—a sterile laboratory isolation of personal nightmares. In Project Somnarak, terror is the weeping of a living planet: four thousand years of tectonic friction, municipal debt slavery, mass mining drownings, and unaddressed historical grief condensing into acoustic, physical Han. Every parameter must be recalibrated from artificial containment into planetary ecology."*  
-> — Directorate Chief Architect & Master Archivist, SECC Foundation Codex
-
 ---
 
-## Section I: Ontological & Cosmological Transmutation
+## Section I: Ontological and cosmological transmutation
 
-Before altering any numerical statistics, the designer must understand the fundamental metaphysical shift between the two universes:
+Change the substance before touching a statistic.
 
-| Cosmological Domain | Project Moon (PM) | Project Somnarak (PS) | Conversion Directive |
+| Cosmological domain | Project Moon | Project Somnarak | Conversion directive |
 |---|---|---|---|
-| **Primary Substance** | **Cogito (Enkephalin)** — Extracted from the collective human unconscious. | **Han (  한   / Fluid & Acoustic Sorrow)** — Planetary weeping condensed into physical matter. | Replace psychological dream concepts with environmental, acoustic, and geological grief. |
-| **Origin Source** | Fairy tales, personal guilt, urban legends, individual sins. | Historical mining disasters, corporate debt, forgotten treaties, colonial neglect. | Root entity origins in the 6,000-year history of Somnarak and the Four Corners. |
-| **Physical Manifestation** | Biological or conceptual monsters held inside glass cells. | Five physical types: **Subject (`[S]`)**, **Object (`[O]`)**, **Place (`[P]`)**, **Time (`[T]`)**, **Hazard (`[H]`)**. | Assign strict manifestation codes. Inanimate types immediately lock into the Two-Work-Type Rule. |
-| **Salvation Dynamic** | **E.G.O** — Individual assertion of personal ego and willpower. | **Hope Transformation (HT)** — Communal reconciliation, communal healing resonance. | Convert personal triumph into communal restoration and grief alleviation. |
+| **Primary substance** | **Cogito (Enkephalin)** — drawn from the collective human unconscious | **Han** (한 / fluid and acoustic sorrow) — planetary weeping condensed into matter | Replace dream and psyche with environmental, acoustic and geological grief |
+| **Origin source** | Fairy tales, personal guilt, urban legend, individual sin | Mining disasters, corporate debt, forgotten treaties, colonial neglect | Root the origin in Somnarak's 6,000 years and the Four Corners |
+| **Manifestation** | Biological or conceptual monsters inside glass cells | Five physical types: **Subject [S]**, **Object [O]**, **Place [P]**, **Time [T]**, **Hazard [H]** | Assign the type first; the inanimate types lock into the two-work-type law in Section VI |
+| **Salvation dynamic** | **E.G.O** — one person's assertion of ego and will | **Hope Transformation** — communal reconciliation and shared healing | Convert personal triumph into communal restoration and grief eased |
 
 ---
 
-## Section II: Durability Calibration: The 10,000 HP Rework
+## Section II: Durability calibration
 
-In early development phases ("Old P.S."), Sorrow Entities frequently inherited inflated 10,000 HP sponge bars adapted from generic RPG boss tropes. Modern canonical Somnarak enforces a **dual-tier durability architecture**:
+Early Somnarak material ("Old P.S.") inherited inflated 10,000 HP bars from generic boss design. Canonical Somnarak runs a **dual-tier architecture** instead.
 
-### 1. Tactical Field Encounters (150 to 1,000 HP)
-All standard contained entities across Ranks I through IV operate within calibrated 150 to 1,000 HP boundaries:
-- Matches the **10-Node Linear Spatial Grid** where field operatives possess Speed-scaled Action Points (2–5 AP budget).
-- Aligns with the **Dual-Threshold Stagger System**: 60% Partial Stagger (disables a specific limb or queued attack slot) and 0% Terminal Meltdown (full vulnerability).
-- Ensures that individual combat rounds (6 Battle Turns = 1 Combat Phase) resolve with tactical tension rather than turn-grinding attrition.
+### II.1 Tactical field encounters — 150 to 1,000 HP
 
-### 2. Sovereign Calamity Raids (1,000 to 12,000 HP)
-The 10,000+ HP threshold is **retained but strictly elevated** to represent macro-scale geological, district-wide, or multi-wing sovereign horrors:
-- **Eligible Entities:** Only **Rank V Sovereign (Grade ω)** combat entities—such as *Dawn of Mourning* (  애도의 새벽   / *Aedo-ui Saebyeok*) at 12,000 HP or mobile district colossi like *The Walking Maw* (`C-IVω-001-B [GS]`).
-- **Encounter Structure:** These entities are never fought in standard single-room containment cells; they function as multi-phase departmental Realizations or citywide crisis raids requiring multi-day containment campaigns.
+Every standard contained entity, Ranks I through IV, sits inside a calibrated 150–1,000 HP band. The band exists because the engine around it is small:
 
-### 3. Planetary Geography Boundary
-Planetary landmasses, oceans, and regional climates are **Planetary Geography Features**, not Sorrow Entities. They are documented in `SOMNARAK_GEOLOGY` and are excluded from containment rosters.
+- the **10-Node Linear Spatial Grid**, where an operative's Speed buys 2–5 Action Points per round;
+- the **dual-threshold stagger**, with 60% as partial stagger (a limb or a queued attack slot disabled) and 0% as terminal meltdown (full vulnerability);
+- a **six-turn combat phase**, which is the length at which a fight stays tense instead of grinding.
+
+### II.2 Sovereign calamity raids — 1,000 to 12,000 HP
+
+The 10,000-plus tier survives, narrowed to macro-scale horrors:
+
+- **Eligible:** Rank V Sovereign (Grade ω) combat entities only — *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*) at 12,000 HP, or mobile district colossi such as *The Walking Maw* (`C-IVω-001-B [GS]`).
+- **Encounter shape:** never a single containment room. These are multi-phase departmental Realizations or citywide crisis raids, run over days.
+
+### II.3 Planetary geography
+
+Landmasses, oceans and regional climates are **Planetary Geography Features**, not Sorrow Entities. They belong to `SOMNARAK_GEOLOGY` and stay off the containment roster.
 
 ---
 
-## Section III: Comprehensive Statistical Conversion Matrix
+## Section III: Statistical conversion matrix
 
-When translating an Abnormality from Project Moon into a Somnarak Sorrow Entity, apply this standardized conversion matrix:
-
-| PM Risk Level | PS Coherence Rank | PS Potency Grade | Sorrow Gauge (HP) | Han Pressure (ATK) | Han Yield | Tactical Speed | Stagger Bar (60% / 0%) |
+| PM risk level | PS Coherence rank | PS Potency grade | Sorrow Gauge (HP) | Han Pressure (ATK) | Han yield | Tactical speed | Stagger bar (60% / 0%) |
 |---|---|---|---|---|---|---|---|
-| **ZAYIN** | **Rank I (Residue)** | **Grade α (Minor)** | 150 – 300 HP | 06 – 14 DMG | 08 – 16 Han | 1 – 3 (Slow) | 90–180 Part / 0 Term |
-| **TETH** | **Rank II (Echo)** | **Grade β (Moderate)** | 300 – 500 HP | 12 – 22 DMG | 14 – 22 Han | 2 – 4 (Standard) | 180–300 Part / 0 Term |
-| **HE** | **Rank III (Fragment)** | **Grade γ (Major)** | 500 – 750 HP | 18 – 35 DMG | 20 – 30 Han | 3 – 5 (Swift) | 300–450 Part / 0 Term |
-| **WAW** | **Rank IV (Entity)** | **Grade δ (Critical)** | 750 – 1,000 HP | 30 – 55 DMG | 28 – 40 Han | 4 – 6 (Rapid) | 450–600 Part / 0 Term |
-| **ALEPH** | **Rank V (Sovereign)** | **Grade ω (Catastrophic)**| 1,000 – 12,000 HP| 50 – 80+ DMG | Sovereign / Macro | Instant / Teleport | Multi-Phase Stagger |
+| **ZAYIN** | Rank I — Residue | Grade α — Minor | 150–300 | 06–14 | 08–16 | 1–3 slow | 90–180 / 0 |
+| **TETH** | Rank II — Echo | Grade β — Moderate | 300–500 | 12–22 | 14–22 | 2–4 standard | 180–300 / 0 |
+| **HE** | Rank III — Fragment | Grade γ — Major | 500–750 | 18–35 | 20–30 | 3–5 swift | 300–450 / 0 |
+| **WAW** | Rank IV — Entity | Grade δ — Critical | 750–1,000 | 30–55 | 28–40 | 4–6 rapid | 450–600 / 0 |
+| **ALEPH** | Rank V — Sovereign | Grade ω — Catastrophic | 1,000–12,000 | 50–80+ | Sovereign / macro | Instant / teleport | Multi-phase |
 
-**Reverse arithmetic (owner's Risk Parallel §XV; [RRP] in the chaptered overhaul).** When the transport *originates* in the other direction, dossier HP and Pressure are recovered by inverting the threat multipliers at the assigned tier: `base_HP = ceil(LC HP ÷ HP multiplier)` → Sorrow Gauge (HP), and `Han Pressure = ceil(LC attack value ÷ ATK multiplier)` using the multiplier recorded at intake (one value inside the tier's range, filed when the pair was created). No intake multiplier on file: use the range minimum, brace the recovered figure **`{est.}`**, and say so — an unfiled multiplier is a documentation gap, and no scene may later "compute" a more convenient one. Where both records of a pair exist they are cross-checked, never recomputed into agreement.
+### III.1 Reverse arithmetic
+
+When the transport runs the other way, HP and Pressure are recovered by inverting the tier's threat multipliers rather than by inventing new ones. This is the owner's Risk Parallel §XV, carried into the chaptered overhaul as [RRP].
+
+- `base_HP = ceil(LC HP ÷ HP multiplier)` → Sorrow Gauge.
+- `Han Pressure = ceil(LC attack value ÷ ATK multiplier)`.
+- The multiplier is the value recorded at intake, one number inside the tier's range, filed when the pair was created.
+- No multiplier on file? Use the range minimum, mark the recovered figure **`{est.}`**, and say so. An unfiled multiplier is a documentation gap, and no scene may later compute a more convenient one.
+- Where both records of a pair exist, they are cross-checked. They are never recomputed into agreement.
+
+### III.2 Where the crossing happens
+
+Every conversion crosses where the two universes overlap without matching: **the Well and the Weeping**, two rivers of collective human sorrow at the bottom of two worlds, connected and never the same.
+
+The side-by-side worldbuilding comparison and the six contact geometries a story may declare — touching, same depth, other side, coupled tides, upstream and downstream, the siphon — are registered in `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §2A.
+
+### III.3 Designation cross-reference
+
+Designations convert by **assignment**, never by arithmetic.
+
+- **LC → PS.** An incoming Abnormality's LC code is recorded as an **alias** in the SECC profile. The SECC code itself is built from Somnarak fields — origin, Coherence, Potency, registry number — and is never transliterated from the LC code.
+- **PS → LC.** The transported code `X-YY-0###` is built under **Section II of the [Universal Sorrow Entity to Abnormality Conversion Table](PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md)**: category letter from Sorrow Category, Origin and The Tale; class number from Entity and Tool Type, Physical Form and Appearance, with the current body governing; serial is `0` plus the SECC number, assigned once and never renumbered.
+- **The case studies in Section X predate the designation law.** They pair codes by hand (`F-01-69` → `SE-C-IVδ-069 [GS]`). Read them as worked precedents, not as a numbering rule, and apply the overhaul's Section II to any new conversion so the two archives stay mutually retrievable.
+
+### III.4 Reading a transported Sorrow Entity backwards
+
+An LC-side record that carries a **four-digit `0###` serial** and an **Encyclopedia quote attested nowhere in the L Corp verse** is not a native Abnormality with filing errors. It is a transported Sorrow Entity under the Universal Table, Section IX — legible from its first appearance, as one of the three candidate boxes of the Daily Cycle's Selection phase, where subject number and quote are the only data shown.
+
+Converting such a record home is a **return**, not a new intake.
+
+- **Recover, do not construct.** Take the SECC designation from the alias line.
+- **Unwind the scale.** The LC record's **Containment Form** and any Cogito-Well-attenuated **Breach Form** (25–50% of true scale, Universal Table §I.4) are properties of the frame, and are discarded on return. The dossier's original measured scale governs. An attenuated size never comes home as an entity that shrank.
+- **Unwind the form.** Where the unit housed only a **fragment** — a face at an aperture, a figure through a window — the return records the dossier's complete body. The fragment was what the room could hold, not the measure of the entity.
+
+Natives arriving in this guide's own direction follow the same rule. A fragment-housed Abnormality (the booking clerk's eyes in the Train's booth, the King of Greed's girl behind her amber window) takes its Physical Form and Appearance from the **complete body** where the LC record attests one, usually its breach form. Where the record attests only the fragment, record the fragment and carry the rest as a HOLD — an undrawn portion — rather than completing a body by invention.
 
 ---
 
+## Section IV: The spatial engine
 
-### Universe-level contact (where the crossing happens)
-
-Every conversion in this guide crosses at the depth the two universes share without sharing: **the Well and the Weeping** — two rivers of collective human sorrow at the bottom of two worlds, connected and never identical. The side-by-side worldbuilding comparison and the six contact geometries a story may declare (touching, same depth, other side, coupled tides, upstream/downstream, the siphon) are registered in `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §2A.
-
-### Designation cross-reference (read with the SE → Abnormality overhaul)
-
-Designations convert in one direction by **assignment**, not arithmetic. The transported-entity code `X-YY-0###` is constructed under **Section II of the [Universal Sorrow Entity to Abnormality Conversion Table](PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md)**: the category letter is read from Sorrow Category + Origin + The Tale, the class number from Entity Type/Tool Type + Physical Form + Appearance (current body governing), and the serial is `0` + the SECC number — assigned once and never renumbered. In the PM → PS direction of this guide, an incoming Abnormality's LC code is therefore recorded as an **alias** in the SECC profile; the SECC designation itself is constructed from Somnarak fields (origin, Coherence, Potency, registry number), never transliterated from the LC code. The case studies in Section X predate the designation law and pair codes by hand (e.g. `F-01-69` → `SE-C-IVδ-069 [GS]`); treat those pairings as worked precedents, not as a numbering rule, and apply the overhaul's Section II to any new conversion so the two archives stay mutually retrievable.
-
-**Reading a transported SE backwards — the two tells and the scale unwind.** An LC-side record that carries a **four-digit `0###` serial** and an **Encyclopedia quote attested nowhere in the L Corp verse** is not a native Abnormality with filing errors: it is a transported Sorrow Entity under the Universal Table (its Section IX) — visible as such from its very first appearance, as one of the three candidate boxes of the Daily Cycle's Selection (extraction) phase, where Subject Number and quote are the only data shown. Converting such a record home is a *return*, not a new intake — recover the SECC designation from the alias line rather than constructing one, and **unwind the scale**: the LC record's **Containment Form** (the unit-fit body Extraction housed it in) and any Cogito-Well-attenuated **Breach Form** (25–50% of true scale, Universal Table Section I.4) are frame properties and are discarded on return; the SE dossier's original measured scale governs. Never carry an attenuated size home as if the entity had shrunk. The same unwind governs **form**: where the LC unit housed only a **fragment** of the entity — a face at an aperture, a figure seen through a window — the return conversion records the dossier's complete body, because the fragment was the part the room could hold, never the measure of the entity. Natives arriving in this guide's own direction are read identically: a fragment-housed Abnormality (the booking clerk's eyes in the Train's booth, the King of Greed's girl behind her amber window) takes its SECC Physical Form and Appearance from the **complete body** where the LC record attests one — usually its breach form; where the record attests only the fragment, record the fragment itself and carry the remainder as a HOLD, an undrawn portion, rather than completing the body by invention.
-
----
-
-## Section IV: Tactical Spatial Engine & Combat Physics
-
-Project Moon's abstracted clash slots and dice rolls are replaced by a deterministic, spatial combat engine:
+Project Moon's abstracted clash slots and dice are replaced by a deterministic grid.
 
 ```text
 +========================================================================+
 |         10-NODE LINEAR COMBAT HUD MATRIX // SPATIAL ENGAGEMENT         |
 +------------------------------------------------------------------------+
-| [N01]       [N02]       [N03]       [N04]       [N05]                  |
-| Vanguard    Striker     Support     Buffer      Tactical Lead          |
-| ------------------------------------------------------------------     |
-| [N06]       [N07]       [N08]       [N09]       [N10]                  |
-| Vanguard E. Flank Guard Main Body   Reserve     Rear Anchor            |
+| [N01]         [N02]         [N03]         [N04]         [N05]          |
+| Vanguard      Striker       Support       Buffer        Tactical Lead  |
+|                                                                        |
+| [N06]         [N07]         [N08]         [N09]         [N10]          |
+| Vanguard E.   Flank Guard   Main Body     Reserve       Rear Anchor    |
+|                                                                        |
 +------------------------------------------------------------------------+
-| Range Band 1: Nodes 1-2 (Point-Blank Melee / Unarmed)                  |
-| Range Band 2: Nodes 3-4 (Short Blade / Trench Weapons)                 |
-| Range Band 3: Nodes 5-6 (Medium Polearms / Han Carbines)               |
-| Range Band 4: Nodes 7-8 (Long Ranged / Marksman Rifles)                |
-| Range Band 5: Nodes 9-10 (Global Artillery / Sovereign Resonance)      |
+| Range Band 1: Nodes 1-2  // point-blank melee, unarmed                 |
+| Range Band 2: Nodes 3-4  // short blade, trench weapons                |
+| Range Band 3: Nodes 5-6  // medium polearm, Han carbine                |
+| Range Band 4: Nodes 7-8  // long range, marksman rifle                 |
+| Range Band 5: Nodes 9-10 // global artillery, sovereign resonance      |
 +========================================================================+
 ```
 
+### IV.1 Speed to Action Points
 
-### 1. Speed-to-Action Point (AP) Conversion Formula
-In Somnarak, Speed is not a roll for turn order—it directly determines an operative's Action Point budget per round:
-- **Speed 1–2:** 2 Action Points (Basic move or single light strike)
-- **Speed 3–4:** 3 Action Points (Standard combat pacing; move + strike or double defensive guard)
-- **Speed 5–6:** 4 Action Points (Rapid tactical repositioning, heavy skill queuing)
-- **Speed 7+:** 5 Action Points (Apex operative pacing; multi-node dashes and ultimate execution)
+Speed does not roll for turn order; it buys the round's budget.
 
-### 2. Range Bands & Falloff Physics
-- **Band 1 (Nodes 1–2):** Point-Blank Melee (Daggers, brawling knuckles, marrow jaws). 100% damage; takes 100% counter-retaliation.
-- **Band 2 (Nodes 3–4):** Short Melee (Arming swords, cleavers, halberds). 100% damage; standard melee clash range.
-- **Band 3 (Nodes 5–6):** Mid-Range (Lances, pneumatic spears, steam whips). Can strike Band 1–2 without receiving point-blank counter-attacks.
-- **Band 4 (Nodes 7–8):** Long Ranged (Han carbines, precision needles, bows). Requires minimum distance; suffers damage penalties at Band 1–2.
-- **Band 5 (Nodes 9–10):** Extreme Artillery (Siege cannons, planetary acoustic projectors). Covers entire field; requires stationary firing turns.
+| Speed | AP | What it covers |
+|---|---:|---|
+| **1–2** | 2 | A move or a single light strike |
+| **3–4** | 3 | Standard pacing: move and strike, or a double guard |
+| **5–6** | 4 | Rapid repositioning and queued heavy skills |
+| **7+** | 5 | Apex pacing: multi-node dashes and finishers |
 
-### 3. The Four P-Framework (Defensive Architecture)
-When an entity attacks, an operative spends AP on one of four standardized defensive reactions:
-- **Pass (  통과   / *Tong-gwa* — Evasion):** Operative rolls Composure against incoming attack speed. Full avoidance; moves operative 1 node backward.
-- **Pan (  판단   / *Pan-dan* — Deflection):** Operative uses weapon balance to redirect 50% damage to the nearest adjacent empty node.
-- **Par (  받아침   / *Bada-chim* — Parry):** Operative clashes weapon directly against the strike. If operative roll exceeds entity roll, entity suffers +10 Stagger.
-- **Po (  방어   / *Bang-eo* — Absolute Guard):** Operative braces behind heavy armor/shield. Absorbs damage based on Armor Weight Class; prevents knockback.
+### IV.2 Range bands and falloff
+
+| Band | Nodes | Weapons | Behaviour |
+|---|---|---|---|
+| **1** | 1–2 | Daggers, knuckles, marrow jaws | 100% damage, takes 100% counter-retaliation |
+| **2** | 3–4 | Arming swords, cleavers, halberds | 100% damage, standard melee clash range |
+| **3** | 5–6 | Lances, pneumatic spears, steam whips | Strikes Bands 1–2 without taking point-blank counters |
+| **4** | 7–8 | Han carbines, precision needles, bows | Needs standoff distance; penalised at Bands 1–2 |
+| **5** | 9–10 | Siege cannon, planetary acoustic projectors | Covers the field; requires stationary firing turns |
+
+### IV.3 The Four P framework
+
+When an entity attacks, the defender spends AP on one of four reactions.
+
+| Reaction | Korean | Effect |
+|---|---|---|
+| **Pass** | 통과 / *Tong-gwa*, evasion | Rolls Composure against attack speed; full avoidance and one node backward |
+| **Pan** | 판단 / *Pan-dan*, deflection | Uses weapon balance to redirect 50% of the damage to the nearest empty adjacent node |
+| **Par** | 받아침 / *Bada-chim*, parry | Clashes weapon to strike; if the operative's roll wins, the entity takes +10 Stagger |
+| **Po** | 방어 / *Bang-eo*, absolute guard | Braces behind armour or shield; absorbs by Armor Weight Class and ignores knockback |
 
 ---
 
-## Section V: Elemental Pressure & Damage Type Translation
+## Section V: Elemental pressure
 
-Project Moon's four damage types correspond directly to the four elemental expressions of planetary Han:
+The four PM damage types map onto the four expressions of Han.
 
-| PM Damage Type | Target Stat | Somnarak Han Element | Korean Identity | Combat Profile & Mechanical Status Effects |
+| PM damage | Target | Han element | Korean | Profile and status effects |
 |---|---|---|---|---|
-| **RED** | Physical Health (HP) | **Grudge (Crimson)** |   원한   (*Wonhan*) | Kinetic trauma, severed bone, jagged armor cracks. Inflicts **Laceration (Bleed)** and **Structural Break** (-10% armor). |
-| **WHITE** | Sanity Points (SP) | **Lament (Deep Blue)** |   탄식   (*Tansik*) | Cryogenic wailing, spiritual freezing, Composure drain. Inflicts **Numbness** (-1 Speed) and **Acoustic Despair** (panic). |
-| **BLACK** | Dual HP & SP | **Weight (Black)** |   무게   (*Muge*) | Gravitational burden, unpayable civil debt. Inflicts **Burden Stacks** (increases AP cost of movement) and dual HP/Composure attrition. |
-| **PALE** | % Max HP | **Void (Pale White)** |   공허   (*Gongheo*) | Existential erasure, white silence. Deals true percentage damage (1 unit = 5% Max HP); bypasses conventional physical armor. |
-**Breach resistances convert with the body.** A native's damage-resistance multipliers — its suppression profile — transcribe into the SE's defensive record in element order (RED → Grudge, WHITE → Lament, BLACK → Weight, PALE → Void), values verbatim. A native record filing no resistances converts at neutral across all four elements with the absence noted: the archivist does not armor an entity L Corp left unarmored.
+| **RED** | Physical HP | **Grudge** (Crimson) | 원한 / *Wonhan* | Kinetic trauma, severed bone, split casing. Inflicts **Laceration** and **Structural Break** (−10% armour) |
+| **WHITE** | Sanity | **Lament** (Deep Blue) | 탄식 / *Tansik* | Cryogenic wailing, spiritual freezing, Composure drain. Inflicts **Numbness** (−1 Speed) and **Acoustic Despair** |
+| **BLACK** | HP and SP | **Weight** (Black) | 무게 / *Muge* | Gravitational burden, unpayable civic debt. Inflicts **Burden Stacks** (higher movement AP cost) and dual attrition |
+| **PALE** | % of max HP | **Void** (Pale White) | 공허 / *Gongheo* | Existential erasure, white silence. Deals true percentage damage (1 unit = 5% max HP) and bypasses physical armour |
 
+**Resistances convert with the body.** A native's damage-resistance multipliers transcribe into the SE's defensive record in element order — RED → Grudge, WHITE → Lament, BLACK → Weight, PALE → Void — with the values verbatim.
+
+A native record that files no resistances converts at neutral across all four, and the absence is noted. The archivist does not armour an entity L Corp left unarmoured.
 
 ---
 
-## Section VI: Work Type Conversion & The Inviolable Two-Work-Type Rule
+## Section VI: Work types and the two-work-type law
 
-In Project Moon, containment work revolves around four generic employee actions: Instinct, Insight, Attachment, and Repression. In Somnarak, containment is a formalized metaphysical discipline called **The Absolvohan** (  해원한   / *Haewonhan* — Resolving the Sorrow):
+Project Moon runs four generic employee actions: Instinct, Insight, Attachment, Repression. Somnarak runs **the Absolvohan** (해원한 / *Haewonhan*, resolving the sorrow), and the four works are disciplines rather than chores.
 
-### 1. Work Type Operational Translation
+### VI.1 Operational translation
 
-1. **Insight → Viderehan (  관조한   / *Gwanjohan* — Observation Work):**  
-   - **Procedure:** Operatives observe acoustic frequencies, barometric Han waves, and crystallization states from behind observation shields.
-   - **Mechanical Effect:** Low risk; generates steady Han-Energy; builds operative **Clarity**; reveals behavioral patterns.
+| PM work | Somnarak work | Procedure | Mechanical effect |
+|---|---|---|---|
+| **Insight** | **Viderehan** (관조한 / *Gwanjohan*) | Observe acoustic frequency, barometric waves and crystallisation from behind shields | Low risk, steady Han-Energy, builds **Clarity**, reveals behaviour patterns |
+| **Instinct** | **Ferrehan** (인내한 / *Innaehan*) | Enter the chamber and withstand ambient pressure, heat or gravity without speaking | Moderate physical risk, tests **Resilience**, steadies a swinging Gauge |
+| **Attachment** | **Flerehan** (통곡한 / *Tonggokhan*) | Speak to the entity directly, weep with it, accept part of its unresolved grief | High mental risk, tests **Composure**, drops the Gauge hard, or causes hysteria on failure |
+| **Repression** | **Pugnahan** (격투한 / *Gyeoktuhan*) | Controlled violence: suppression rods and authoritative strikes against expanding mass | High physical risk, tests **Resolve**, stops an imminent breach, raises Grudge |
 
-2. **Instinct → Ferrehan (  인내한   / *Innaehan* — Endurance Work):**  
-   - **Procedure:** Operatives physically enter the containment chamber to withstand the entity's ambient pressure aura, heat, or gravity without speaking.
-   - **Mechanical Effect:** Moderate physical risk; tests operative **Resilience**; stabilizes rapid Sorrow Gauge fluctuations.
+### VI.2 Attributes convert with the work
 
-3. **Attachment → Flerehan (  통곡한   / *Tonggokhan* — Weeping / Catharsis Work):**  
-   - **Procedure:** Operatives engage in direct emotional dialogue, crying alongside the entity and accepting a portion of its unresolved trauma.
-   - **Mechanical Effect:** High mental risk; tests operative **Composure**; massively reduces Sorrow Gauge upon success, but causes severe Composure drain or hysteria upon failure.
+This is the owner's Attribute Levels add-on, carried as [RDA] in Chapter 5, and it is the exact inverse of the Universal Table's §IV.3.
 
-4. **Repression → Pugnahan (  격투한   / *Gyeoktuhan* — Confrontation / Wrath Work):**  
-   - **Procedure:** Operatives deploy controlled physical violence, kinetic suppression rods, and authoritative strikes to beat back expanding manifestation mass.
-   - **Mechanical Effect:** High physical risk; tests operative **Resolve**; prevents imminent breach counters, but escalates the entity's Grudge pressure.
+| PM stat | Somnarak attribute | Work |
+|---|---|---|
+| Fortitude | **Resilience** | Instinct / Ferrehan |
+| Prudence | **Clarity** | Insight / Viderehan |
+| Temperance | **Composure** | Attachment / Flerehan |
+| Justice | **Resolve** | Repression / Pugnahan |
 
-**Operative attributes convert with the work (owner's Attribute Levels add-on, [RDA] in Chapter 5).** A native entry's work-scaling stats and stat requirements convert along the work pairing — Fortitude ↔ **Resilience** (Instinct/Ferrehan), Prudence ↔ **Clarity** (Insight/Viderehan), Temperance ↔ **Composure** (Attachment/Flerehan), Justice ↔ **Resolve** (Repression/Pugnahan) — the exact inverse of the Universal Table's Section IV.3 table. The pairing reads *aptitude*, not levels: every transported employee starts at **Level 0** in all four R.D. Attributes and earns points only through survived Han exposure (3+ consecutive days; ~1–3 points/day by Potency, keyed by Element; Level III = safe-work gate — full law at Universal Table §IV.3 / [RDA], Chapter 5). A level-specific rule written against an LC stat therefore never confers a phantom R.D. level. SP-denominated costs become Composure costs, and E.G.O stat requirements become the M.A.W. record's operative requirements before Composure Load (Section VIII.3) is applied.
+The pairing reads **aptitude**, not levels. Every transported employee starts at **Level 0** in all four R.D. attributes and earns points only through survived Han exposure — three or more consecutive days, roughly 1–3 points a day by Potency, keyed by element, with Level III as the safe-work gate. The full law sits in Universal Table §IV.3 and [RDA] Chapter 5.
 
-### 2. The Absolute Two-Work-Type Rule for Inanimate Entities
+A level-specific rule written against an LC stat therefore never confers a phantom R.D. level. SP-denominated costs become Composure costs, and E.G.O stat requirements become the M.A.W. record's operative requirements before Composure Load (Section VIII.3) is applied.
+
+### VI.3 The law for inanimate entities
 
 ```text
 +========================================================================+
-|        CANONICAL TWO-WORK-TYPE OPERATIONAL LAW // INANIMATE SEs        |
+|        CANONICAL TWO-WORK-TYPE LAW // INANIMATE SORROW ENTITIES        |
 +------------------------------------------------------------------------+
 | CLASSIFICATION: SUBJECT ENTITIES [S]                                   |
-|   Allowed: Viderehan, Ferrehan, Flerehan, Pugnahan (All Four)          |
-| Rationale: Mobile entities with sentience and tangible physical        |
-| anatomy                                                                |
+|   Allowed: Viderehan, Ferrehan, Flerehan, Pugnahan (all four)          |
+|   Rationale: mobile, sentient, with tangible anatomy                   |
+|                                                                        |
 +------------------------------------------------------------------------+
 | CLASSIFICATION: OBJECT [O], PLACE [P], TIME [T], HAZARD [H]            |
-|   Allowed: Viderehan (Observation) & Ferrehan (Endurance) ONLY         |
-|   Prohibited: Flerehan (Catharsis) & Pugnahan (Confrontation) [N/A]    |
-|   Rationale: Static relics and zones have no emotional mind to comfort |
-|              and no duelable biological body to clash against.         |
-| Penalty: Attempting prohibited work triggers instant catastrophic      |
-| surge                                                                  |
+|   Allowed: Viderehan (observation) and Ferrehan (endurance) ONLY       |
+|   Prohibited: Flerehan (catharsis), Pugnahan (confrontation) - N/A     |
+|   Rationale: no emotional mind to comfort, no duelable body to clash   |
+|   Penalty: instant catastrophic surge, Gauge +30% to +50%              |
 +========================================================================+
 ```
 
+The box is the whole rule; the four points below are what it costs to break it.
 
-#### Canonical Enforcement Rules:
-- **Object (`[O]`), Place (`[P]`), Time (`[T]`), Hazard (`[H]`):** These entities can **ONLY** receive **Viderehan** and **Ferrehan**.
-- **Flerehan and Pugnahan are strictly designated `N/A`:**  
-  * An inanimate artifact, room, or temporal loop possesses no limbic nervous system or emotional psyche capable of reciprocating weeping (rendering Flerehan invalid).
-  * An inanimate relic or geographic district lacks a singular biological heart or anatomical strike point to duel with a weapon (rendering Pugnahan invalid).
-- **Violation Backfire:** Attempting Flerehan or Pugnahan against an Object, Place, or Time entity results in immediate work failure, inflicting severe backfire trauma and causing the Sorrow Gauge to spike by +30% to +50%.
+- **Subject [S]** may receive all four works. It has a mind to answer Flerehan and a body to meet Pugnahan.
+- **Object [O], Place [P], Time [T], Hazard [H]** may receive **Viderehan and Ferrehan only**. An artefact, a room or a temporal loop has no limbic system to weep with, and no single anatomical point to duel.
+- **Flerehan and Pugnahan are marked `N/A`** on those classes, not merely discouraged.
+- **Backfire.** Attempting either produces immediate work failure, severe backfire trauma, and a Sorrow Gauge spike of **+30% to +50%**.
 
 ---
 
-## Section VII: Meltdowns, Watches & Special Transform Breaches
+## Section VII: Meltdowns, watches and breach metamorphosis
 
-### 1. The Qliphoth Counter → Gauge & Threshold Channels
+### VII.1 Qliphoth Counter → Gauge and Threshold
 
-Every native Abnormality carries a Qliphoth Counter, but natives drive it differently — some counters answer work results, some answer named conditions, timers or deaths, some answer both, and some Abnormalities file no counter at all. Somnarak keeps the same distinction as **two separate mechanisms**, and conversion matches them channel to channel (the exact inverse of the Universal Table's Section III counter law):
+Natives drive their counters differently: some answer work results, some a named condition, a timer or a death, some both, and some file no counter at all. Somnarak keeps that distinction as **two separate mechanisms**, and conversion matches them channel for channel — the inverse of the Universal Table's §III.
 
-- The **Sorrow Gauge (0–100%)** — continuous pressure, moved by work outcomes through the Behavior table; relief lowers it, saturation at 100% is the catastrophe line.
-- **Activation Thresholds** — discrete conditions: a named state met, a count reached, a timer run out, a Gauge percentage crossed. Thresholds decide *whether and when*; the Gauge decides *how much pressure*. Neither reduces to the other.
+- **Sorrow Gauge (0–100%).** Continuous pressure, moved by work outcomes through the Behaviour table. Relief lowers it; 100% is the catastrophe line.
+- **Activation Thresholds.** Discrete conditions: a named state met, a count reached, a timer run out, a Gauge percentage crossed. A threshold decides *whether and when*; the Gauge decides *how much*. Neither reduces to the other.
 
 | LC counter driver | PS channel |
 |---|---|
-| **Work results** (Good / Normal / Bad outcomes move the counter) | **Gauge channel:** counter-decrease conditions become Behavior Gauge-*Increase* outcomes, increase conditions become Gauge-*Decrease* outcomes — one threshold step per LC point, sized inside the dossier's filed Gauge fractions |
-| **Named conditions** (an employee state, a death in the unit, an item used, a timer elapsed) | **Threshold channel:** each condition converts to a filed Activation Threshold condition, quoted verbatim; work outcomes alone never fulfill it |
-| **Both drivers** | Both channels filed and tracked separately; activation/breach fires on Gauge saturation **or** threshold fulfillment, whichever the native record reaches — interlocks quoted, never merged into one meter |
-| **No counter filed** (non-breaching native) | Activation-only SE: neither channel is constructed for it |
+| **Work results** (Good, Normal, Bad) | **Gauge channel.** Counter-decrease conditions become Gauge-*increase* outcomes and counter-increase conditions become Gauge-*decrease* outcomes, one threshold step per LC point, sized inside the dossier's filed fractions |
+| **Named conditions** (employee state, a death in the unit, an item used, a timer elapsed) | **Threshold channel.** Each condition becomes a filed Activation Threshold, quoted verbatim. Work outcomes alone never fulfil it |
+| **Both** | Both channels filed and tracked separately. Activation fires on Gauge saturation **or** threshold fulfilment, whichever the native record reaches. Interlocks are quoted, never merged into one meter |
+| **No counter filed** | Activation-only SE. Neither channel is built for it |
 
-- **Steps, not spikes.** Gauge-channel triggers move the Gauge by threshold *steps*. The prohibited-work backfire spike of Section VI (+30% to +50%) remains exactly what it is — the penalty for illegal work — and is never used as a substitute counter mechanic.
-- **Reset is per-channel.** Return behavior restores the Gauge to baseline and resets threshold counts only where the native record resets its counter; a cumulative native count that never resets converts as a permanent tally, and stays permanent.
-- **Meltdown-marked → Watch-marked.** A unit selected by Qliphoth Meltdown converts to a **Watch-marked** entity under subsection 2: the Watches supply the ambient tidal pressure the meltdown rotation supplied in the facility. Bleeding Gauge inside the Watch window answers a Gauge-channel mark; a Threshold-only entity answers its mark by condition-watch. A Watch-mark lifts the Two-Work-Type Law in neither archive.
-- **Tool use counters are Threshold-channel**: use counts, charge timers and once-per-day operations convert into the relic profile's activation limits under Section IX with figures verbatim; a single-use native enters the A-Relic class with its consumption intact. Full both-direction coverage of every system touched by this guide is certified in **Appendix A of the Universal Table** (Conversion Integrity Matrix).
+Four rules keep the channels honest.
 
-### 2. Qliphoth Meltdowns → The Four Atmospheric Watches
-In Project Moon, Qliphoth Meltdowns trigger randomly on containment chambers. In Somnarak, facility pressure is driven by subterranean Han tidal surges from the Weeping at -2,000 meters:
-- **First Watch (  제1감시   / *Je-il Gamsi*):** Morning barometric drop. Murmurs and roaming sorrow sprites condense.
-- **Second Watch (  제2감시   / *Je-i Gamsi*):** Mid-day tectonic friction. Solidifies armored Fragments; tests physical wardens.
-- **Third Watch (  제3감시   / *Je-sam Gamsi*):** Deep evening surge. Unleashes Rank IV apex Entities; massive Composure drain.
-- **Tide Watch (  만조감시   / *Manjo Gamsi*):** Catastrophic midnight surge from the Core Void. Threatens facility blast walls; requires full mobilization.
+- **Steps, not spikes.** Gauge behaviour moves in threshold steps. The +30% to +50% backfire from Section VI stays what it is, the price of illegal work, and never becomes a substitute counter mechanic.
+- **Reset is per channel.** Return behaviour restores the Gauge to baseline and resets threshold counts only where the native record resets its counter. A cumulative native count that never resets converts as a permanent tally and stays permanent.
+- **Meltdown-marked becomes Watch-marked.** A unit selected by Qliphoth Meltdown converts to a **Watch-marked** entity under VII.2, because the Watches supply the tidal pressure the meltdown rotation supplied inside the facility. A Gauge-channel mark is answered by bleeding Gauge inside the window; a Threshold-only entity answers by condition-watch. A Watch-mark lifts the two-work-type law in neither archive.
+- **Tool-use counters are Threshold-channel.** Use counts, charge timers and once-a-day operations become the relic profile's activation limits under Section IX, figures verbatim. A single-use native enters the A-Relic class with its consumption intact.
 
-Facility-scale crisis systems convert at this same register and are carried by reference rather than duplicated here: the colored **Ordeals** (Dawn / Noon / Dusk / Midnight) read against the Four Watches as tide-borne entity waves, and **Core Suppression** reads as departmental Realization — full treatment in `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §9 and §16. An entity-level conversion never needs to import them; a facility-level story declares them from there.
+Full both-direction coverage of every system this guide touches is certified in **Appendix A of the Universal Table** (Conversion Integrity Matrix).
 
-### 3. Special Transform Breaches: Designation & Manifestation Shifts
-Unlike PM where breached entities retain their exact code and form, rare apex entities in Somnarak undergo **Breach Metamorphosis**:
+### VII.2 Four atmospheric watches
 
-#### Protocol 01: Place-to-Subject Metamorphosis (The Maw Protocol)
-- **Contained Baseline:** `C-IVω-001 [GP]` (*The Maw* /  구라   / *Gura*). Stationary Place entity in Zone B. Only **Viderehan** and **Ferrehan** are valid.
-- **Breaching State:** `C-IVω-001-B [GS]` (*The Walking District* /  보행하는 구라   / *Bohaenghaneun Gura*). When expansion exceeds containment perimeters, the masonry, asphalt, and trapped souls lift from the bedrock to form a towering colossus.
-- **Combat Vector Activation:** In Breaching Subject state (`[GS]`), **all four Work Types** become valid combat options (**Pugnahan** to strike its stone legs, **Flerehan** to reach the weeping souls trapped inside).
+Qliphoth Meltdowns fire at random inside a facility. Somnarak's pressure comes from tidal surges in the Weeping at −2,000 metres.
 
-#### Protocol 02: Sequential Phase Metamorphosis (The Kind Healer Cycle)
-- `C-Iα-071 [LS]` (*The Kind Healer*) → `C-IIIγ-071b [LS]` (*The Patient Martyr*) → `C-Vω-071c [LS]` (*The Apostle Maker*). The designation code updates dynamically as the entity's Coherence Rank and Potency Grade escalate.
+| Watch | Korean | Surge | Effect |
+|---|---|---|---|
+| **First Watch** | 제1감시 / *Je-il Gamsi* | Morning barometric drop | Murmurs; roaming sorrow sprites condense |
+| **Second Watch** | 제2감시 / *Je-i Gamsi* | Midday tectonic friction | Armoured Fragments solidify; tests the wardens physically |
+| **Third Watch** | 제3감시 / *Je-sam Gamsi* | Deep evening surge | Rank IV apex Entities; heavy Composure drain |
+| **Tide Watch** | 만조감시 / *Manjo Gamsi* | Midnight surge from the Core Void | Threatens the blast walls; full mobilisation |
 
-#### Protocol 03: Binary Convergence Fusion (The Yin-Yang Axis)
-- `SE-C-IVγ-948 [WS]` (*The Black Tear*) and `SE-N-IVγ-947 [VS]` (*The White Spark*) fuse upon mutual breach to create `SE-C-Vδ-949` (*Yin and Yang Sovereign*).
+Facility-scale crisis systems convert at this same register and are carried by reference rather than copied here. The coloured **Ordeals** — Dawn, Noon, Dusk, Midnight — read against the Four Watches as tide-borne entity waves, and **Core Suppression** reads as departmental Realization. Both are treated in `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §9 and §16. An entity-level conversion never needs to import them; a facility-level story declares them from there.
+
+### VII.3 Breach metamorphosis
+
+Project Moon keeps an entity's code and form through a breach. Rare Somnarak apex entities change both, by one of three filed protocols.
+
+**Protocol 01 — Place to Subject (the Maw Protocol).** Contained, `C-IVω-001 [GP]` *The Maw* (구라 / *Gura*) is a stationary Place entity in Zone B, and only Viderehan and Ferrehan are valid. When expansion passes the containment perimeter, masonry, asphalt and trapped souls lift off the bedrock as `C-IVω-001-B [GS]` *The Walking District* (보행하는 구라 / *Bohaenghaneun Gura*), and in the breaching Subject state all four works apply — Pugnahan against the stone legs, Flerehan to reach the weeping inside.
+
+**Protocol 02 — Sequential phase (the Kind Healer Cycle).** `C-Iα-071 [LS]` *The Kind Healer* → `C-IIIγ-071b [LS]` *The Patient Martyr* → `C-Vω-071c [LS]` *The Apostle Maker*. The code updates as Coherence rank and Potency grade escalate.
+
+**Protocol 03 — Binary convergence (the Yin-Yang Axis).** `SE-C-IVγ-948 [WS]` *The Black Tear* and `SE-N-IVγ-947 [VS]` *The White Spark* fuse on mutual breach into `SE-C-Vδ-949` *Yin and Yang Sovereign*.
 
 ---
 
-## Section VIII: Equipment Mechanics: E.G.O vs. M.A.W. Wear
+## Section VIII: Equipment — E.G.O and M.A.W.
 
-When extracting equipment from a Sorrow Entity, convert PM E.G.O into **Materialized Agony Wear (M.A.W.)**:
+E.G.O extracts from a Sorrow Entity as **Materialized Agony Wear (M.A.W.)**.
 
-### 1. The M.A.W. Triad
-Every standard Subject entity extracts into three pieces:
-- **M.A.W. Weapon:** Offense tool with designated Range Band (1–5) and primary damage element.
-- **M.A.W. Suit:** Body armor providing elemental resistance percentages across Grudge, Lament, Weight, and Void.
-- **M.A.W. Gift:** Passive accessory grafting onto the operative's body or aura, granting unique tactical triggers.
+### VIII.1 The triad
 
-### 2. Five Material Weight Classes
+Every standard Subject entity extracts three pieces.
 
-| Weight Class | Korean Identity | Material Composition | Resistance Profile | Tactical Penalty / Benefit |
+- **Weapon.** A tool with a designated Range Band (1–5) and a primary damage element.
+- **Suit.** Armour carrying resistance percentages across Grudge, Lament, Weight and Void.
+- **Gift.** A passive accessory grafted to the operative's body or aura, with a tactical trigger.
+
+### VIII.2 Five material weight classes
+
+| Class | Korean | Material | Resistance | Trade |
 |---|---|---|---|---|
-| **Primal Marrow** |   골수형   (*Golsu-hyeong*) | Bio-organic bone, hardened sinew, ossified tar. | High Grudge (Crimson) defense. | Inflicts Bleed on targets; drains wielder physical HP on heavy swings. |
-| **Tempered Brass**|   단조황동   (*Danjo Hwangdong*)| Heavy industrial boiler-iron, hydraulic plates. | High Weight (Black) defense. | Reduces operative Speed by -1; grants complete knockback immunity. |
-| **Resonant Alloy**|   공명합금   (*Gongmyeong Hapgeum*)| Acoustically tuned silver-blue crystal. | High Lament (Deep Blue) defense. | Boosts operative Clarity; releases resonant shockwave pulses on parry. |
-| **Woven Thread**  |   직조사   (*Jikjosa*) | Light silk, mourner veils, fine spider-chiffon. | High Void (Pale White) defense. | Grants +1 Speed and +15% Evasion; vulnerable to kinetic Grudge damage. |
-| **Void Glass**    |   공허유리   (*Gongheo Yuri*) | Brittle, transparent black-and-white crystals. | True Void armor. | Strikes inflict fixed percentage trauma; shatters if physical armor fails. |
+| **Primal Marrow** | 골수형 / *Golsu-hyeong* | Bio-organic bone, hardened sinew, ossified tar | High Grudge | Inflicts Bleed; drains the wielder's HP on heavy swings |
+| **Tempered Brass** | 단조황동 / *Danjo Hwangdong* | Boiler iron, hydraulic plate | High Weight | −1 Speed; full knockback immunity |
+| **Resonant Alloy** | 공명합금 / *Gongmyeong Hapgeum* | Acoustically tuned silver-blue crystal | High Lament | Boosts Clarity; resonant shockwave on parry |
+| **Woven Thread** | 직조사 / *Jikjosa* | Silk, mourner veils, fine spider-chiffon | High Void | +1 Speed, +15% evasion; weak to kinetic Grudge |
+| **Void Glass** | 공허유리 / *Gongheo Yuri* | Brittle black-and-white crystal, transparent | True Void | Fixed percentage trauma; shatters if physical armour fails |
 
-### 3. Composure Load & M.A.W. Meltdown
-In PM, gear has static stat requirements (e.g., Fortitude III, Prudence II). In Somnarak, high-tier M.A.W. wear imposes **Active Composure Load**:
-- While equipped, Grade δ and Grade ω gear drains a steady fraction of the wielder's mental Composure.
-- If an operative's Composure hits 0 while wielding high-grade gear, they suffer **M.A.W. Meltdown**: the armor permanently fuses into their nervous system, transforming them into a feral Fractured entity.
+### VIII.3 Composure Load and M.A.W. Meltdown
+
+PM gear carries static requirements such as Fortitude III or Prudence II. Somnarak's high-tier wear carries **Active Composure Load** instead: Grade δ and Grade ω gear drain a steady fraction of the wielder's Composure while worn.
+
+At zero Composure the operative suffers **M.A.W. Meltdown**. The armour fuses permanently into the nervous system and the operative becomes a feral Fractured entity.
 
 ---
 
-## Section IX: Tool Abnormality to Relic-Entity Overhaul Standard
+## Section IX: Tool Abnormalities and Relic-Entities
 
-All Project Moon Tool Abnormalities must be converted strictly into **Relic-Entities** under SECC guidelines:
+Every PM Tool Abnormality converts into a **Relic-Entity** under SECC rules.
 
-### 1. Relic Classification Matrix
-- **Single-Use PM Tools** (e.g., *Old Faith and Promise*, *Luminous Bracelet*) → **A-Relics (Consumable / Activation Relics):** Operated once per expedition; provides immediate high-impact buff or risk of destruction.
-- **Equippable PM Tools** (e.g., *Heart of Aspiration*, *Flesh Idol*) → **O-Relics (Wearable / Field Relics):** Carried by an operative; continuously taxes Composure while granting passive combat buffs.
-- **Channeled / Sustained PM Tools** (e.g., *Therapy Device*, *We Can Change Anything*) → **I-Relics (Stationary Facility Relics):** Anchored inside containment chambers; operatives step inside to undergo specialized physical or psychic processing.
+### IX.1 Classification
 
-### 2. Capability Badges
-Every converted Relic-Entity must feature canonical capability badges in its profile:
+| PM tool type | Relic class | Examples | Behaviour |
+|---|---|---|---|
+| Single-use | **A-Relic** (consumable) | *Old Faith and Promise*, *Luminous Bracelet* | One operation per expedition; a large effect or destruction |
+| Equippable | **O-Relic** (field) | *Heart of Aspiration*, *Flesh Idol* | Carried; taxes Composure continuously for a passive combat buff |
+| Channeled or sustained | **I-Relic** (facility) | *Therapy Device*, *We Can Change Anything* | Anchored in a chamber; the operative steps inside for processing |
+
+### IX.2 Capability badges
+
+Every converted relic carries the canonical badges in its profile:
+
 - `[Can Benefit the Facility / Operative]`
 - `[Capable of Employee Alteration / Corruption]`
 - `[Capable of Instadeath / Meltdown]`
 
-### 3. Progressive Log & Method Architecture
-Every Relic dossier must include a 4-tier progressive unlock table:
-- **Tier I:** Basic physical appearance and storage requirements.
-- **Tier II:** Safe usage duration and primary positive effect.
-- **Tier III:** Overuse penalties, escalation triggers, and backfire risks.
-- **Tier IV:** Master recovery procedure and historical origin tale.
+### IX.3 Progressive log
 
-### 4. Observation Levels → R.D. Comprehension (all entity classes)
+Every relic dossier carries a four-tier unlock table.
 
-Beyond the relic log tiers above, a native's Observation Level track converts to the SE dossier's R.D. Comprehension gates in the same order the Universal Table's Section IX runs in reverse: Basic Info first, then work responses and management methods, then activation/termination behavior, narrative last and whole. Anything the LC record withholds at its filed Observation Level converts as *unwritten*, not as absent — the Comprehension record carries the gate, and the archivist does not research past it on the entity's behalf.
+| Tier | Contents |
+|---|---|
+| **I** | Physical appearance and storage requirements |
+| **II** | Safe usage duration and the primary positive effect |
+| **III** | Overuse penalties, escalation triggers and backfire risk |
+| **IV** | Master recovery procedure and the origin tale |
 
----
+### IX.4 Observation Level → R.D. Comprehension
 
-## Section X: End-to-End Concrete Conversion Case Studies
+The relic log sits inside a wider rule. A native's Observation Level track converts to the SE dossier's R.D. Comprehension gates in the order the Universal Table's §IX runs, reversed: **basic information first**, then work responses and management methods, then activation and termination behaviour, and the narrative last and whole.
 
-### Case Study 1: ZAYIN / TETH Subject Conversion
-- **PM Source:** *One Sin and Hundreds of Good Deeds* (O-03-03, ZAYIN)
-- **PS Entity:** `SE-C-Iα-033 [LS]` — *The Whispering Confessional* (  고해의 속삭임   / *Gohae-ui Soksagim*)
-- **SECC Profile:** City Sorrow (`C-`), Rank I Residue, Grade α Minor, Lament element, Subject-Spirit manifestation.
-- **Durability:** Sorrow Gauge: 220/220 HP. Han Pressure: 08 Deep Blue DMG.
-- **Work Dynamics:** Viderehan (Clarity +10), Ferrehan (Stable), Flerehan (Gauge -25%, heals worker Composure +15), Pugnahan (Fails, Gauge +20%).
-- **M.A.W. Wear:** *Confessional Habit* (Suit: 0.8 Blue, 1.2 Crimson) and *Thorn Halo* (Gift: +5 Composure recovery).
-
-### Case Study 2: HE / WAW Combatant Conversion
-- **PM Source:** *Der Freischütz* (F-01-69, HE)
-- **PS Entity:** `SE-C-IVδ-069 [GS]` — *The Marksman of the Seventh Watch* (  칠경의 저격수   / *Chilgyeong-ui Jeogyeoksu*)
-- **SECC Profile:** City Sorrow (`C-`), Rank IV Entity, Grade δ Critical, Grudge element, Subject-Tale manifestation.
-- **Durability:** Sorrow Gauge: 880/880 HP. Han Pressure: 42 Crimson DMG. Range Band: 4–5.
-- **Tactical Engine:** Spends 4 AP per round. Fires the *Seventh Slate Needle*, which pierces all 10 nodes, hitting friend and foe alike for 55 Crimson DMG.
-- **Work Dynamics:** Viderehan (Safe), Ferrehan (Tests Resilience), Flerehan (Reduces Gauge), Pugnahan (Severe clash; marks target for execution).
-
-### Case Study 3: ALEPH Sovereign Boss Conversion
-- **PM Source:** *Apocalypse Bird* (ALEPH)
-- **PS Entity:** `SE-C-Vω-001 [LS]` — *Dawn of Mourning* (  애도의 새벽   / *Aedo-ui Saebyeok*)
-- **SECC Profile:** City Sorrow (`C-`), Rank V Sovereign, Grade ω Catastrophic, Mixed Element (Cycles Crimson / Blue / Black / Pale White).
-- **Durability:** Sorrow Gauge: 12,000/12,000 HP (Multi-Phase Sovereign Raid Encounter).
-- **Mechanics:** 3 Distinct Targetable Core Organs (The Beak of Hunger, The Scales of Debt, The Blind Lamp). Destructible limbs require synchronized 10-node interception.
-- **M.A.W. Wear:** *Twilight of Mugenhan* (Grade ω Sovereign Armor across all four elemental protections).
-
-### Case Study 4: Tool Abnormality Conversion
-- **PM Source:** *Skin Prophecy* (T-09-77, WAW Tool)
-- **PS Entity:** `SE-N-IIβ-319 [VO]` — *The Magistrate's Strike-Through* (  판관의 취소선   / *Pangwan-ui Chwisoseon*)
-- **Classification:** O-Relic (Field Activation Relic) · Void (Pale White).
-- **Two-Work-Type Law:** **Viderehan and Ferrehan ONLY.** Flerehan and Pugnahan strictly `N/A`.
-- **Capability Badges:** `[Can Benefit Operative]` · `[Capable of Employee Alteration]` · `[Capable of Instadeath]`.
-- **Effect:** An operative grinds the magistrate's black chalk over their equipment, gaining 30 seconds of absolute Void immunity at the price of permanently forgetting their civil name and incurring +25 Composure Load.
+Anything the LC record withholds at its filed Observation Level converts as *unwritten*, not as absent. The Comprehension record carries the gate, and the archivist does not research past it on the entity's behalf.
 
 ---
 
-## Section XI: Institutional Compliance Checklist
+## Section X: Case studies
+
+### X.1 ZAYIN / TETH Subject
+
+- **PM source:** *One Sin and Hundreds of Good Deeds* (O-03-03, ZAYIN).
+- **PS entity:** `SE-C-Iα-033 [LS]` *The Whispering Confessional* (고해의 속삭임 / *Gohae-ui Soksagim*).
+- **Profile:** City Sorrow `C-`, Rank I Residue, Grade α Minor, Lament element, Subject-Spirit manifestation.
+- **Durability:** Sorrow Gauge 220/220. Han Pressure 08 Deep Blue.
+- **Work:** Viderehan raises Clarity by 10; Ferrehan is stable; Flerehan takes the Gauge down 25% and heals worker Composure by 15; Pugnahan fails and adds 20.
+- **M.A.W.:** *Confessional Habit* (suit, 0.8 Blue / 1.2 Crimson) and *Thorn Halo* (gift, +5 Composure recovery).
+
+### X.2 HE / WAW combatant
+
+- **PM source:** *Der Freischütz* (F-01-69, HE).
+- **PS entity:** `SE-C-IVδ-069 [GS]` *The Marksman of the Seventh Watch* (칠경의 저격수 / *Chilgyeong-ui Jeogyeoksu*).
+- **Profile:** City Sorrow `C-`, Rank IV Entity, Grade δ Critical, Grudge element, Subject-Tale manifestation.
+- **Durability:** Sorrow Gauge 880/880. Han Pressure 42 Crimson. Range Band 4–5.
+- **Engine:** four AP a round. The *Seventh Slate Needle* pierces all ten nodes and hits friend and foe alike for 55 Crimson.
+- **Work:** Viderehan is safe, Ferrehan tests Resilience, Flerehan lowers the Gauge, Pugnahan is a severe clash that marks the target for execution.
+
+### X.3 ALEPH Sovereign
+
+- **PM source:** *Apocalypse Bird* (ALEPH).
+- **PS entity:** `SE-C-Vω-001 [LS]` *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*).
+- **Profile:** City Sorrow `C-`, Rank V Sovereign, Grade ω Catastrophic, Mixed element (cycles Crimson, Blue, Black, Pale White).
+- **Durability:** Sorrow Gauge 12,000/12,000, run as a multi-phase sovereign raid.
+- **Mechanics:** three targetable core organs — the Beak of Hunger, the Scales of Debt, the Blind Lamp — and destructible limbs that require synchronised interception across the ten nodes.
+- **M.A.W.:** *Twilight of Mugenhan*, Grade ω sovereign armour covering all four protections.
+
+### X.4 Tool Abnormality
+
+- **PM source:** *Skin Prophecy* (T-09-77, WAW Tool).
+- **PS entity:** `SE-N-IIβ-319 [VO]` *The Magistrate's Strike-Through* (판관의 취소선 / *Pangwan-ui Chwisoseon*).
+- **Class:** O-Relic, field activation, Void element.
+- **Work law:** Viderehan and Ferrehan only; Flerehan and Pugnahan `N/A`.
+- **Badges:** `[Can Benefit Operative]` · `[Capable of Employee Alteration]` · `[Capable of Instadeath]`.
+- **Effect:** the operative grinds the magistrate's black chalk over their equipment for thirty seconds of absolute Void immunity, and pays with a permanently forgotten civil name and +25 Composure Load.
+
+---
+
+## Section XI: Compliance checklist
+
+A conversion is finished when every line passes. A failed line is a defect, not a preference.
 
 ```text
 +========================================================================+
-|            SECC DESIGN & CONVERSION VERIFICATION CHECKLIST             |
+|           SECC DESIGN AND CONVERSION VERIFICATION CHECKLIST            |
 +------------------------------------------------------------------------+
-| 01. NAME CHECK    : Authentic Korean literary/industrial identity      |
-| 02. ORIGIN CHECK  : Grounded in Somnarak 6,000-year history / Four C   |
-| 03. CODE CHECK    : Standard SECC format [Origin]-[Rank]-[Potency]-... |
-| 03b. ALIAS CHECK  : LC code kept as alias; X-YY-0### per the SE to     |
-|                     Abnormality overhaul S.II (never renumbered)       |
-| 04. DURABILITY    : 150-1000 HP for Ranks I-IV; 10000+ HP for Rank V   |
-| 05. GEOGRAPHY     : Planetary landmasses classified as Geography (N/A) |
-| 06. WORK TYPES    : Inanimate SEs (O, P, T, H) restricted to TWO works |
-| 07. PROHIBITION   : Flerehan & Pugnahan strictly N/A on inanimate SEs  |
-| 08. SPATIAL ENGINE: 10-Node Grid, Range Bands 1-5, AP Budget assigned  |
-| 09. M.A.W. TRIAD  : Weapon, Suit, Gift assigned to 5 Weight Classes    |
-| 10. RE-QUOTA CHECK: Archive maintains >= 25.0% Relic-Entity balance    |
-| 11. COUNTER CHECK: Qliphoth Counter to Gauge & Threshold               |
-|                     channels; meltdown to Watch-marked; counts filed   |
+| 01. NAME CHECK   : Authentic Korean literary or industrial identity    |
+| 02. ORIGIN CHECK : Grounded in Somnarak's 6,000 years and the Four     |
+|                   Corners                                              |
+| 03. CODE CHECK   : Standard SECC format                                |
+|                   [Origin]-[Rank]-[Potency]-[Number]                   |
+| 03b. ALIAS CHECK : LC code kept as alias; X-YY-0### per the SE to      |
+|                   Abnormality overhaul S.II, never renumbered          |
+| 04. DURABILITY   : 150-1,000 HP for Ranks I-IV; 1,000-12,000 HP for    |
+|                   Rank V                                               |
+| 05. GEOGRAPHY    : Planetary landmasses and climates classified as     |
+|                   Geography (N/A)                                      |
+| 06. WORK TYPES   : Inanimate SEs (O, P, T, H) restricted to two works  |
+| 07. PROHIBITION  : Flerehan and Pugnahan strictly N/A on inanimate SEs |
+| 08. SPATIAL      : 10-node grid, Range Bands 1-5, AP budget assigned   |
+| 09. M.A.W.       : Weapon, suit and gift assigned across the five      |
+|                   weight classes                                       |
+| 10. RE-QUOTA     : Archive maintains at least 25.0% Relic-Entity       |
+|                   balance                                              |
+| 11. COUNTER      : Qliphoth Counter to Gauge and Threshold channels;   |
+|                   meltdown to Watch-marked; counts filed               |
 +========================================================================+
 ```
-
