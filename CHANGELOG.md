@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Exile, refined: one record instead of a pile of caveats (2026-11-01)
+
+The owner read `THE_EXILE.md` and called it what it was: dirty, uneven in structure, and hard to inspect. The file had grown by accretion — every objection ever raised against it had been answered in place, and the answers had become a second copy of the file. It was rebuilt rather than patched.
+
+- **The duplication is gone.** A 129-line `Notes` section restated the Appearance, the active look, the Cyborg classification, the M.A.W. status, the cycle awareness and the floor position, all of which the file had already said. A 46-line `Trivia` list restated the same material a third time. Both are replaced by one eleven-row table, **What This Record Does Not Settle**, which answers the only question the notes were ever really answering: what is *not* established, and where.
+- **Sixteen one-paragraph sub-heads became ten sentences.** `Limitations and Costs` had a heading for every objection. It now reads as a list of costs a person carries, in a fixed order: flesh, the Spine, exposure, feedback, clarity, compression, the Gate, distrust, responsibility, sovereignty.
+- **The defensive voice is gone.** Counts across the file: `No source …` 4 → 0, `It is not …` 5 → 3, `does not` 51 → 36, em-dashes 70 → 29. The claims that were being defended are still made; they are simply made once.
+- **Structure.** Headings fall from 184 to 71, and the 22 sections are now ordered as a reader needs them: who he is, what he looks like, how he speaks, where he serves, what happened, what he did in the story, what he can do, what it costs, what he carries, who he knows, what he knows. `In His Own Words` collects every line of his in one place, quoted verbatim, instead of scattering them across three sections.
+- **Nothing canonical was removed.** A machine diff of every number in the file returns zero losses and zero additions: 187 cm, 40–55 %, 85/65/70/90, 55 personnel, 5,800 years of stored emotion, 4,200 years of the Furnace, 1,778 iterations, every Day, every Name, every place. Word count 11,904 → 9,381 and lines 1,613 → 770, all of it from repetition.
+- **The four open conflicts were left open on purpose.** The station, the double-dated return, the Door's whisper cadence and the thousand-seven-hundred against eighteen-hundred years are the owner's to rule on. A refinement that quietly settled them would have been an adjudication wearing a broom, so the claims stand exactly as filed and the ruling request from the previous entry still stands.
+- **Checks:** `seam_lint` 1,766 PASS · `timeline_lint` 1,799 PASS · `check_links` 3,993 / 0 broken (every Contents anchor resolves) · `audit_lore_archive` PASS · text-box symmetry PASS · `git diff --check` clean.
+- **[P]** Remaining: character 09 (Xyan, the last), waiting on the station and return rulings; the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Xyan, pre-write: the station, the two returns, and a recount (2026-11-01)
 
 The owner asked for the whole of `THE_EXILE.md` again — not a sampling — and for the wiki to be checked against the PMU → L Corp Drive, wiki.gg, fandom and Cogitopedia. All 1,613 lines were read, and the check returned two kinds of result: a counting defect in the filed set, and four canon conflicts inside 09's own source that no earlier file had cause to notice.
