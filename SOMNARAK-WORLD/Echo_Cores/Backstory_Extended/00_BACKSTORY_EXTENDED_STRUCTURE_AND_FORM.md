@@ -340,6 +340,21 @@ The Prologue must establish at least one **C** tether and one **R** tether. It i
 
 The Prologue is always **PAST**. It may use FPV, TPV, or SPV, and FULL STORY, DIALOGUE, or BOTH. It should end at the threshold of the Cycle era, not summarise the whole dossier.
 
+### VIII.1 The Prologue is a doorway, not the past
+
+The Prologue opens the character's history. It does not contain it.
+
+A file whose only PAST material is the Prologue has failed this standard. The owner's ruling is explicit: the past must be **in the story**, as scenes, not compressed into a short introductory glimpse.
+
+Therefore:
+
+- A file must contain **at least one further PAST module** beyond the Prologue, written as a full scene.
+- A character with a long, documented history should carry **several** PAST modules — the loss, the fusion, the selection, the founding, the first appointment, the first catastrophe of their office.
+- PAST modules may be interleaved with present-day anchors in any order that serves the Connection String. They are not confined to the front of the file.
+- A PAST module is not a summary of an era. It is a scene with a place, a time, bodies, objects, speech, and a change.
+- Where two PAST modules cover adjacent years, they must be separated by a present-day anchor or a clear time break, so the file does not read as a timeline.
+- The Prologue may be short. The past may not be.
+
 Starting points from the canonical dossiers:
 
 | Echo-Core | Prologue spine |
@@ -378,6 +393,29 @@ The Prologue is fixed. The modules are not. A Marjuk file may be mostly document
 
 A file needs at least one trigger module beyond the Prologue. It does not need one of every type.
 
+### IX.1 Scene, not collection
+
+Every module in the body is a **scene**.
+
+A module is not:
+
+- a list of facts about the character;
+- a summary of an era with dates attached;
+- a montage of moments without a perceiver;
+- a dossier section rewritten in prose;
+- a sequence of quotations with no body around them;
+- a "collections" heading that gathers several unconnected incidents under one title.
+
+A module is a scene when the reader can answer all five:
+
+1. **Where** is this happening?
+2. **When**, relative to the other modules?
+3. **Who** is present, and through whose perception is it given?
+4. **What changes** between the first line and the last?
+5. **What is said out loud**, and what is refused?
+
+If a module cannot answer all five, it is a collection and must be broken into scenes or cut. The only permitted non-scene units are the archival seal and the appendix.
+
 ---
 
 ## X. File architecture
@@ -404,7 +442,8 @@ The seal is not a POV scene. It must not reveal what the body withholds.
 ### X.2 Narrative body
 
 - Begins with the **Prologue Record**.
-- Continues through **trigger modules**.
+- Continues through **trigger modules**, including at least one further **PAST** scene beyond the Prologue.
+- Interleaves PAST, LOOP-PAST, and present-day anchors as the Connection String requires; older material may sit beside Day anchors rather than in a block at the front.
 - Ends with the **Present Consequence**.
 - Uses PAST, LOOP-PAST, and FLASHBACK as the file requires.
 - Uses FPV, TPV, and SPV as the file requires.
@@ -647,6 +686,9 @@ One Echo-Core at a time. No file begins before the previous one is gated, unless
 - [ ] Linked records read
 - [ ] Absolvohan anchors read in the Part, not only in the dossier summary
 - [ ] Prologue spine checked against dossier facts
+- [ ] At least one further PAST scene beyond the Prologue
+- [ ] Every module answers where, when, who perceives, what changes, and what is said
+- [ ] No module is a list, montage, or collection of incidents
 - [ ] At least one C tether and one R tether in the Prologue
 - [ ] Every module passes the C or R test sentence
 - [ ] Every module reaches a present or institutional consequence
