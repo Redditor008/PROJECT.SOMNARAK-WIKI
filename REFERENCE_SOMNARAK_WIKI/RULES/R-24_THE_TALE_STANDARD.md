@@ -123,7 +123,23 @@ The dialogue rule banned the profession as a label and over-corrected. A scene a
 
 **Composite titles.** Where a post is shared and no name exists to hang on it, the title may be welded to a bound classifier and set in full caps: `[DOCTOR-NAMH]` (masculine end), `[DOCTOR-YEOH]` (feminine end). The plain forms `-NAM` and `-YEO` are not used — they read as names, and the archive already files *Seo* as a surname, *Yeo Do-Hee* as a person and *Yeoul* as a given name. The classifier takes the house's archaic terminal `-h` (as in *Consolihan*, *Ferrehan*, *Nareumhan*), never stands alone, is never spoken to a person's face, and never appears in narration. A unique office needs no classifier. A record that files no sex writes the office alone.
 
-The full statement, with the worked examples and the hard limits, is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1e** (name, rank, form of address) and **§XII.1f** (composite titles).
+### The Somnarak rule — how a name is made
+
+*"In Somnarak, names are not given. They are earned — through sorrow, through survival, through service."*
+
+That doctrine, the seven laws of an earned title, the six mixed-name patterns and the ten tests that keep a name from sounding manufactured all live in `REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md`. They are not style advice; they are the world's naming grammar, and a story file that violates them has written a name no citizen could carry.
+
+| System | Source of its words | Never |
+|---|---|---|
+| Personal names | the registry's English, Korean, Somnarak Special and sanctioned mixes | coin one outside the six patterns |
+| Earned titles | the seven laws — earned, Korean + English description, evoking, weighted, replacing, non-transferable, sometimes whispered | invent one for a canon figure, or use one before the event that earns it |
+| Echo-Core Names | the Doorspeech, transcribed in hangul | translate, gloss, or coin one |
+| Bureau labels | §XII.1e and §XII.1f | confuse them with any of the three above |
+
+- **Law 5 says the world forgets the name; this rule says the record does not.** In the street a titled citizen is addressed by the title. On the page the label follows what the corpus holds. The gap between those two facts is what the strike test is for.
+- **No glory titles.** The city names people after what it cost them. A triumphant epithet on a suffering character is a misreading of the world, not a flourish.
+
+The full statement, with the worked examples and the hard limits, is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1e** (name, rank, form of address), **§XII.1f** (composite titles) and **§XII.1g** (the Somnarak rule).
 
 ### Measured, not asserted
 

@@ -793,6 +793,71 @@ Composite titles are the opposite by design: a bureau can weld a title onto a pe
 
 **Worked example — file 07.** The Cryogen reconstruction was a team, and the record holds none of their names. The one who answers for the body is the surgeon who did the spine, and the file labels him `[DOCTOR-NAMH]` — a post with a person behind it and no name on it — while the comms officer on the dead channel stays `[unknown]`, because there is no second officer to tell him apart from and no distinction the record needs.
 
+### XII.1g The Somnarak rule — how a name is made in this world
+
+**Stated by the archive owner, 2026-11-01:** *"Update The Writing Rule Again But Left Out The Somnarak Rule."*
+
+§XII.1e decided what the page calls a speaker. §XII.1f decided how a bureau labels a shared post. Neither said anything about **how a name is made in Somnarak**, which is the actual question behind both, and the corpus already answers it. The answer is in `REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md` and this section makes it binding on every file.
+
+> **The doctrine.** *"In Somnarak, names are not given. They are earned — through sorrow, through survival, through service."*
+
+**Four systems exist, and a file must never run them together.**
+
+| System | What it is | Where its words come from |
+|---|---|---|
+| **Personal names** | what a citizen is called by family and by the registry | the registry: English, Korean, Somnarak Special, and the sanctioned mixes |
+| **Earned titles** | what a citizen becomes, and how the city stops using their given name | the seven title laws below — made *of* the name's own language tradition, earned by an event the file shows |
+| **Echo-Core Names** | the Door's word for a Core | the Doorspeech: transcribed phonetically in hangul, never translated, never manufactured |
+| **Bureau labels** | what a record stamps on a post | §XII.1e (office) and §XII.1f (composite) — institutional grammar, not language |
+
+### The seven laws of an earned title
+
+| Law | The rule | The writing consequence |
+|---|---|---|
+| **1. Earned, not given** | A title is earned through action, loss, or weight. A person becomes *The Shield That Cracked* when the shield cracks, not before. | **The file must show the event that earns the title, on the page, before the title is used.** A title on the first mention is a costume. |
+| **2. Korean + descriptive structure** | *[Korean word] + [English description]* — 한의 가수 *Han-ui Gasu*, Singer of Sorrows; 비밀의 파마, One Who Sells Secrets. | The Korean carries the subject; the English carries the description. Never the reverse, and never a bare English epithet. |
+| **3. No direct translation** | Titles evoke, they do not translate. *The Healer Who Cannot Heal Herself* beats *Self-Wounded Healer*. | If the title can be reverse-engineered word for word, it is a label, not a title. Rewrite it. |
+| **4. Weight over glory** | Titles reflect burden. *The Commander Who Lost* beats *The Victorious Commander*. | **No honorific title is invented for a canon figure.** The city names its people after what it cost them, not after what they won. |
+| **5. The title replaces the name** | When someone earns a title, the given name fades: citizens say *The Barkeeper*, not *Bong*. | In **in-world speech**, the title is what the city uses — and a citizen who uses the old given name has done something the narration marks. |
+| **6. Titles are not transferable** | A title dies with its bearer. *The Drift King* is Kael; when Kael dies, the title dies, and the next leader earns their own. | A file may not hand a dead holder's title to a successor. A successor is given a new one or none. |
+| **7. Titles can be whispered** | Some titles are never spoken aloud, only whispered — *The Cartographer's Ghost* is whispered because the name was erased from the Archive. | A whispered title is **never** printed in a label. It appears in narration, or in one character saying it very quietly, and the file says why it is whispered. |
+
+### Law 5 against §XII.1e — the reconciliation
+
+These two look like they contradict and they do not, because they govern **different registers**:
+
+- **The world forgets the name.** That is the culture, and it is real: a citizen whose title has eclipsed them is addressed by the title in the street.
+- **The record does not.** A label follows what the corpus holds. If the archive files a name, the file uses the name; if the city has stopped saying it, the file shows the city not saying it.
+
+So a scene can be correct twice over: the label reads `[Marjuk]` and the citizen in the room says *Archive Lead* — and the gap between those two facts is exactly what §XII.1e's strike test is for.
+
+### The mixed-name patterns, and the test that keeps them sounding real
+
+When a file needs a new citizen, the registry's six sanctioned patterns are the whole grammar: English/Korean given and family; given + middle + family; Somnarak Special blended with either; triple mixes; and hyphenated double given names. A name built outside those patterns is a defect even if it reads well.
+
+The registry also supplies the ten tests, and four of them catch almost every invented name:
+
+1. **Avoid direct translation mashups.** *Hanul-Lux* is two dictionary words; *Hanulya* is a name.
+2. **Add a natural ending.** *Eun-Crystal* is a label; *Eunaris* has an ending the language family owns.
+3. **Say it three times fast.** If the writer stumbles, the citizen could not have carried it for forty years.
+4. **Would a parent name their child this?** If not, rewrite it.
+
+The others in brief: respect the sound inventories of both families; avoid double meanings (*Sar-Amor*, love-love — *Saravia* embeds it once); use historical precedent for how bilingual names actually form; give every name a one-sentence origin story; avoid hyphenated mashups except for double given names; and never name a person the way a user names an account.
+
+### What this forbids in a backstory file
+
+1. **No title invented for a canon figure.** The dossier gives them a name and an office, not an epithet; inventing *The Keeper of Sorrows* for Marjuk is fan naming.
+2. **No title before its earning event.** If the file cannot show the shield cracking, it does not use the cracked shield.
+3. **No glory titles.** A file that gives a suffering character a triumphant epithet has misread the world.
+4. **No transferred titles.** A successor inherits a post, never an earned name.
+5. **No Door Names.** An Echo-Core Name is transcribed from the Doorspeech in hangul or it does not exist; a file may not coin one, gloss one into English, or parse one as `office + classifier`.
+6. **No name from outside the registry** for a new citizen, and no name already in use elsewhere in the repository.
+7. **No name for a canon figure who has none.** A title is not a loophole: §XII.1b rule 2 binds here too, and the Head Keeper stays an office.
+
+### Worked example — file 07
+
+Nothing in the file is titled, and that is the correct outcome. Marjuk has a name and an office and no earned epithet anywhere in the corpus, so the page calls him by name, once by office, and never by a coinage. The Keepers' rules are numbered, not named, because the school files doctrine and not legend. And the one place the culture's habit shows is the line Jieun asks — *I don't know what to call you* — which is a citizen running into a man who has outlived the moment his name would have been replaced.
+
 ### XII.2 Documents
 
 If a character reads, hears, or accesses a document, write the exact portion reached — not a summary. Stop at the point where the character stops. Do not supply text the record does not contain.

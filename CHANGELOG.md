@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Somnarak rule: how a name is made (2026-11-01)
+
+The last two entries decided what the page *calls* a speaker. Neither said how a name is **made** in this world, and the corpus already answers it — the name registry has carried the seven laws of an earned title, six mixed-name patterns and ten construction tests the whole time. They are now binding on every story file.
+
+- **`§XII.1g` is filed, and the doctrine opens it.** *"In Somnarak, names are not given. They are earned — through sorrow, through survival, through service."*
+- **Four naming systems are separated and may not be run together.** Personal names come from the registry. Earned titles follow the seven laws. Echo-Core Names are transcribed from the Doorspeech and never coined. Bureau labels are §XII.1e and §XII.1f — institutional grammar, not language.
+- **The seven laws carry a writing consequence each.** The one that changes drafts is law 1: **the file must show the event that earns a title, on the page, before the title is used.** A title on first mention is a costume.
+- **Law 5 is reconciled against §XII.1e instead of being left to collide with it.** The world forgets the name — a titled citizen is addressed by the title in the street. The record does not: a label follows what the corpus holds. A scene can be correct twice over, with `[Marjuk]` on the label and *Archive Lead* in the citizen's mouth, and the gap is what the strike test exists to measure.
+- **The registry's construction tests are now a defect list.** No direct translation mashups, natural endings, say it three times fast, and *would a parent name their child this* — plus the six sanctioned patterns as the whole grammar for a new citizen.
+- **Seven prohibitions, stated flat.** No title invented for a canon figure; no title before its earning event; no glory titles; no transferred titles; no coined, glossed or parsed Door Names; no name from outside the registry; and no name for a canon figure who has none — a title is not a loophole.
+- **`R-24` carries it archive-wide** in four rows and two rules, so the naming grammar sits beside the dialogue rule instead of in a separate document the writer may not open.
+- **File 07 is audited against it and the result is a negative on purpose:** nothing in it is titled, because Marjuk has a name and an office and no earned epithet anywhere in the corpus, and the Keepers' rules are numbered rather than named. The one place the culture shows is a citizen asking him what to call him.
+- **[P]** Remaining: characters 08–09 (Ishall now active); the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Composite titles: `[DOCTOR-NAMH]` (2026-11-01)
 
 A shared post has no way to say **which one** without inventing a person. The archive now has a composite title for that case — and the owner's objection is the whole design: the plain forms read as names, so they are raised into the world's own older spelling.
