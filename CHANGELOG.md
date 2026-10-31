@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Echo-Core Backstory Extended: Seiyon, the Secretary (2026-10-31)
+
+- **The second activated record is filed:** `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md` opens with a Prologue Record covering the researcher at the bench, the initialization of the administrative intelligence, the accidental awakening through the Alpha Tree's crystallized sorrow fragment, and Majin's decision to conceal whose face she wears. It runs seven anchors and closes on the two documents she writes for herself — the station-order amendment and the operation request.
+- **The Day 0 greeting is now told from her side rather than repeated from Majin's:** FPV carries the projection fracture, the answer "operational", the count of forty-three cycles, and the sentence she had never been authorized to say. The record then uses LOOP-PAST for cycle 1,735 — the last morning Majin asked and accepted the system answer — and for the deleted 1,777th transmission annotation.
+- **POV and style are distributed deliberately:** TPV for the bench, the awakening, and the Zone B brief; SPV for the initialization specification that addresses the new instance as a system rather than a person; FPV for Days 0, 108, and 360; FULL STORY, DIALOGUE, and BOTH across the modules.
+- **The Connection String runs:** the bench and the fragment → Day 0 name → cycle 1,735 count → Day 17's 1,778 unanswered transmissions → Day 108's retained dissent under Protocol 14-B → Day 149/157's "like rain" and the failure envelope on page two → Day 360's storage claim → the station-order amendment and the self-requested Archive operation.
+- **Knowledge boundaries are enforced:** Seiyon does not know that the Doorspeech's third fragment is "Don't let the sorrow win", does not know the Original's preserved continuity exists before she requests entry, and does not know the Original's name — which no source files. Three HOLDs are recorded: the Day 177 residual reserve (1.82 tons against Day 157's 50.92 − 49.80 = 1.12 tons), the Day 0 greeting phrasing between dossier and Part 1, and the carried-forward Day 0 reserve conflict.
+- **[P]** Remaining: characters 03–09. The SE ↔ M.A.W. reconciliation queue remains pinned WIP.
+
 ## Echo-Core Backstory Extended: Majin, the Director (2026-10-31)
 
 - **The first activated Echo-Core record is filed as an archival framed mini-story:** `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md` opens with a seal and a mandatory **Prologue Record** (early Han research beneath the Alpha Tree, the Solidification, the promise "Don't let the sorrow win", the Sovereign-class containment, the Ω-grade fusion, and the Alpha Tree selection), then runs six Absolvohan anchors, and closes with a Present Consequence in the first unlooped year.
