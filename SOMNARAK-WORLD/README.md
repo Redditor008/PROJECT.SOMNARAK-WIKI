@@ -45,7 +45,7 @@ SOMNARAK-WORLD/
 │   ├── README.md                       # Master classification & reading roadmap
 │   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech (7 codices)
 │   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan (6 codices)
-│   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, MAW Codex, Workshops, Ordeals (7 codices)
+│   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, M.A.W. Codex, Han Relics, Lumen, Ordeals, Taboo Resonance, Workshops (9 codices)
 │   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (9 codices)
 │   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Tales, Named Fractures, Enemies (5 codices)
 │   └── 06_Integrity_Audits_and_Comparative_Studies/ # Comparative Integrity & System Audits (4 codices)

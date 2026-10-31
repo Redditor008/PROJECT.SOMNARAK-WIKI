@@ -355,6 +355,7 @@ Both settings feature a strict vertical bureaucracy governing subterranean conta
 |---|---|---|---|
 | **Energy Medium** | **Enkephalin** — Green fluid extracted from Abnormalities; refined into electrical power. | **Han-Energy (  한 에너지   )** — Acoustic-metaphysical resonance harvested from pacified Sorrow Entities. | Enkephalin powers the City's technological infrastructure; Han-Energy powers Somnarak's thermal hearths and barrier wards. |
 | **Work Output** | **PE-Boxes** (Positive Enkephalin) and **NE-Boxes** (Negative Enkephalin). | **Han-Energy Yield** per work cycle (08 to 40+ Han units). | PE-Boxes fill the facility's daily quota; Han-Energy fills municipal capacitors to stave off the freezing dark. In conversion, the physical PE-Box count files by tier band, while its quota value carries the **88% ordinary / 12% dense (×2.0–×2.5)** composition. |
+| **Facility Current / Input** | No separate conversion input; Enkephalin remains the extracted product and quota ledger. | **Lumen (루멘)** — refined, storable Han current drawn from the Weeping through the Alpha-Tree/Deep Vault lattice, measured in **LU** and consumed continuously for containment fields, Work support, suppression, and Absolvohan stabilization. | Lumen and Han-Energy Yield run in opposite work-cycle directions: facility current consumed versus energy output produced. No LU → PE, LU → Han-unit, reservoir-% → Gauge, or reservoir-% → Counter exchange is filed; Lumen enters a conversion record only where a dossier or field record names an entity-specific Lumen effect. |
 | **Daily Quota** | Daily quota threshold (e.g., 200–1,200 PE) required to conclude the work day. | Daily Han-Quota required to maintain Facility 01 containment barriers through the Absolvohan cycle. | Failure to meet daily quota triggers emergency overtime, panic, and structural containment instability. |
 | **Sanitation / Byproducts** | Minor Enkephalin gas fumes; cleansers scrub residue. | **Han-Brine (  염간수   / *Yeomgansu*)** — Caustic saline fluid that crystallizes into corrosive salt if left unburned. | Somnarak incorporates physical brine build-up that erodes floorboards, requiring Haz-scorchers (  화용반   ) to burn it off. |
 
@@ -906,6 +907,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 |---|---|---|
 | **Han-Energy** | **Enkephalin** | The energy produced by working with entities. Powers the city/facility. |
 | **Han-Energy yield** (per work cycle) | **PE-Boxes** (Positive Enkephalin boxes) | Successful work produces the physical PE count by tier band; its quota value carries the 88% ordinary / 12% dense split of Chapter 4. |
+| **Lumen (facility current; LU)** | *(no LC input conversion)* | Refined Weeping current drawn through the Alpha-Tree/Deep Vault lattice and consumed for containment fields, Work, suppression, and the Absolvohan. It runs opposite Han Yield—input/current, not work output—and has no filed LU → PE, Han-unit, Gauge, or Counter exchange. |
 | **Negative Han buildup** | **NE-Boxes** (Negative Enkephalin) | Failed work produces NE, which damages the worker. |
 | **Sorrow Gauge %** | *(no LC meter)* | Continuous pressure read; converts only through the Qliphoth Counter derivation (Chapter 4 Counters) — never filed as a mood bar |
 | **Starting Sorrow Gauge** | *(recorded, not converted)* | The dossier opening pressure state. Outcome ranges are set inside the tier PE band from the Behavior table — never derived from the starting Gauge |
@@ -918,6 +920,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 |---|---|---|
 | **Han-Energy** | **Enkephalin** | The energy produced by working with entities |
 | **H-Box (Han-Energy Box)** | **E-Box / PE-Box** | A home-ledger energy unit from successful work; conversion does not exchange it 1:1 for physical PE-Boxes |
+| **Lumen (LU)** | *(retained home facility ledger)* | Stored refined Han current consumed to run containment and Work; reservoir state and hazards remain home context unless a record files an entity-specific effect. Never exchange LU for H-Boxes or PE |
 | **Han-Energy yield** (per cycle) | **E-Box yield / PE-Box yield** | How much energy each work produces |
 | **Positive Han-Energy** | **PE-Box (Positive Enkephalin)** | Refined sorrow; powers equipment and infrastructure |
 | **Negative Han-Energy** | **NE-Box (Negative Enkephalin)** | Unstable sorrow; damages the worker |
@@ -1221,6 +1224,8 @@ The Range Band below is the reach filed for an **entity attack pattern**. A weap
 | Band 4 — long ranged | Multi-room / line-of-sight attacks | Minimum-distance or close-range penalties only where filed |
 | Band 5 — artillery / sovereign resonance | Department or facility pattern attacks | Stationary, telegraphed, or state-bound exactly as filed; never a casual work-damage value |
 
+Two home geometries use the same five labels. The entity/weapon reach classification cuts Bands 1–5 at **0–2 / 2–5 / 5–12 / 12–25 / 25+ m**; the 10-node room-stage geometry measures node distance and prints sectors of **0–5 / 6–15 / 16–30 / 31–50 / 51+ m**. Do not average or interconvert them. The table above converts the filed reach *function*—contact, room, hallway, multi-room, or department pattern—not a metre value. A bare `Range`/`Band` label therefore files only that label and coarse output; exact metres come only from the dossier's own concrete parenthetical, body, pattern, or node text, and a conflicting parenthetical governs that piece or pattern rather than either codex geometry.
+
 #### The Four P-Framework in Facility Translation
 
 The home **Four P-Framework** is **Passives, Panic, Parry & Protection, and Posture** — four combat domains, not four reaction dice. They translate by function:
@@ -1229,6 +1234,20 @@ The home **Four P-Framework** is **Passives, Panic, Parry & Protection, and Post
 - **Panic:** SP/Composure collapse follows the panic table above. Generic node-grid panic bookkeeping and equipment burden drain are not imported at Degree I or II; only explicitly SP-pool-denominated bearer burden files as Chapter 8 Composure Load unless home mechanics are explicitly retained.
 - **Parry & Protection:** active defense becomes manager positioning — withdraw or kite out of a telegraph, intercept at a chokepoint, focus suppression, and place the employee whose suit answers the incoming color. It does not grant a parry roll, guard shield, evade roll, or riposte unless the extracted gear or filed pattern itself grants that effect.
 - **Posture:** filed stagger or posture thresholds become named HP breakpoints, pattern disables, or interruption windows. The home dual-threshold track and its damage amplification are not added where the dossier's combat record does not carry them; Degree III may retain that track intact.
+
+#### Combat Branch Contexts Stay in Their Theater
+
+The full home register files **seven combat branches**: one Generic Core and six institutional theaters. The shorter six-branch summary omits Won-Hyeong and does not erase its branch. A branch name supplies an encounter context, never an entity trait:
+
+| Home combat branch | Theater mechanics | Conversion boundary |
+|---|---|---|
+| **Generic P.S. Combat Core** | 10-node stage, Speed → AP, six-turn phases, Sorrow/SP engine pools, clash, dual-threshold stagger, Four P | Translate only filed pacing, reach, and pattern under this chapter. The engine pools are not dossier Sorrow Gauge [HP]/% or personnel Composure; run the full engine only at Degree III or as an expressly named Degree II retention |
+| **Reverie Directorate** | Work consoles, Echo-Core floor resonance, six-turn meltdown clock and Ordeal waves | Home battle-scene overlay only. Chapter 6's Gauge, Threshold, and Han-Density channels govern a conversion; no floor aura or second meltdown clock is supplied by the branch name |
+| **Underworld Cleanup Descend** | Modular part HP, forensic-decryption progress, collateral gauge and hostage shielding | File only where the dossier gives targetable parts, a data objective, civilians, or structural collateral; otherwise no part pools or collateral state is invented |
+| **Somnarak Exploration Decree** | Strata depth pressure, decibel awakening, seismic pitons, relic excavation | Abyssal environment mechanics only; depth, noise, piton, and excavation effects do not follow an entity into an ordinary containment unit |
+| **Won-Hyeong Biologics** | Composure dialysis, Living Suture repair, biological liens, cryo-stun | Named Won-Hyeong products or operator actions only. They are not LC healing bullets, generic HP/SP restoration, or a new panic-recovery rule |
+| **Memory Archive** | Memory anchors, mnemonic readings, Stratum Realization, Memory Leaves | Mnemonic construct/reading context only; an anchor is not a generic weak point and a Memory Leaf is not an E.G.O Gift unless a piece output is separately filed |
+| **Horizon Caravan** | Drift Throne nodes, ley-drive/seismic effects, vehicular part severance, relic overdrives | Overland or vehicle context only; an Outside origin does not summon vehicle support, ley effects, or targetable vehicle parts |
 
 An order that no employee stat, suit, or filed rule supports is not a tactic; it is a hope, and it is not filed.
 
@@ -1328,7 +1347,7 @@ Body housing still follows Section II.2 independently — site body `07`, bounde
 | **Full Name** | **Extermination of Geometrical Organ** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
 | **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
 | **Grade Channel** | Each Weapon/Suit carries its own Risk Level, usually the source Abnormality's but not invariably; Gifts file slot, effect, and acquisition instead. | The entity's converted Risk derives from Threat Score, while each M.A.W. piece files its own Greek Grade. | Output Weapon/Suit Risk reads the piece's filed grade on the same ordinal (α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH) and may differ from the entity Risk; Stigma grade gives the Gift output no Risk Level. |
-| **Material & Mass Channels** | E.G.O appearance is filed per piece; Risk, attack/resistance profile, requirements, and special effects remain separate record fields. | The entity's **Material / signature** describes its body, while each M.A.W. piece separately files Type/form, Appearance, and profile; workshop construction belongs to non-M.A.W. artisan gear. | Material text travels as appearance only. No resistance, speed, evasion, pulse, or bearer burden is derived from composition; explicit mass/weight-class mechanics remain in their named home AP ledger. |
+| **Material & Mass Channels** | E.G.O appearance is filed per piece; Risk, attack/resistance profile, requirements, and special effects remain separate record fields. | The entity's **Material / signature** describes its body, while each M.A.W. piece separately files Type/form, Appearance, and profile; workshop construction belongs to non-M.A.W. artisan gear. A separate material-technology register distinguishes Before-Time Primordial Artifacts and Consolihan Crystallized Relics (Han Relics proper) from Extracted M.A.W. equipment. | Material text travels as appearance only. No resistance, speed, evasion, pulse, or bearer burden is derived from composition; explicit mass/weight-class mechanics remain in their named home AP ledger. Han Relic Class I–IV is custody threat/clearance, not Coherence, Risk, Tool class, or piece grade, and a named non-entity relic creates no E.G.O. |
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Corrosion** — cumulative four-stage personality takeover from overuse, misuse, neglect, or emotional conflict; ordinary Stage 4 dominates the mind without transforming the body. | Acute SP collapse is Panic; Corrosion is slower bearer-history risk, not its synonym. |
 
 ### 11. Tool Entities: Tool Abnormalities vs. Relic-Entities
@@ -1366,10 +1385,15 @@ Material is **descriptive provenance, not a stat channel**. Bone, brass, crystal
 | Entity **Material / signature** | The source entity's body composition and sensory signature | Entity Appearance/body record only; never assign it automatically to extracted pieces |
 | Piece **Type** + **Appearance** | The individual piece's form and visible composition | E.G.O Weapon/Suit/Gift appearance and form text, following the linked item record where the dossier separates one |
 | Piece profile fields | Damage, Pattern/Falloff, Speed, Range; Suit resistances; Stigma Slot/Acquisition; Ability/Effect and Cost | Numeric and trait outputs exactly as filed under Field Conversion; material supplies no additional value |
+| Han Relic provenance | Before-Time Primordial Artifact or Consolihan Crystallized Relic, with Class I–IV custody threat/clearance and filed permanence, resonance, Fracture, or crystallization hazards | Custody and story provenance only. It is not a material stat class, A/O/I operation, Coherence/Risk read, or piece grade; a named non-entity relic generates no E.G.O |
 | Explicit piece mass or weight class | A home AP/mobility ledger entry in a named profile or theatre | Quote the label and context; Degree III may run it intact, Degree II only where named retained, and Degree I does not import AP, Evasion, Protection, or Poise modifiers |
 | Workshop construction | Materials and manufacture of a separate Non-M.A.W. artisan item | World/craft-plane item provenance under Section 15; never an extracted E.G.O material taxonomy |
 
 Home mass ledgers are **context-bound, not interchangeable**. The M.A.W.-W engine files Feather/UL, Light, Medium, Heavy, and Colossal Relic weapon-handling classes by Speed/AP/Range behavior; Horizon overland suit classes cut at `<25`, `25–60`, `61–120`, and `>120 kg`, while Memory Archive suit classes cut at `<20`, `20–<45`, `45–<80`, and `≥80 kg`. Never use one ledger's threshold or label to classify a piece filed in another, and never infer a mass from an entity body's size or a piece's material words. Bearer failure remains under Section VII.1–2: an emptied SP pool is Chapter 7 Panic, explicit SP-pool burden is Composure Load, and staged M.A.W. Corrosion is cumulative bearer history — none is supplied by material or mass class.
+
+#### Relic Provenance Is Not Relic-Entity Operation
+
+Three uses of “relic” remain separate. **Han Relics proper** are Before-Time Primordial Artifacts or Consolihan Crystallized Relics—ancient, Han-saturated objects whose filed permanence, indestructibility, resonance, and hazards belong to custody and story provenance. **Relic-Entities** are Sorrow Entity dossiers housed by body class and converted by the A/O/I operation tests below. **Extracted M.A.W.** is contemporary entity-derived equipment subject to its own grade, wear, bearer-cost, and Corrosion ledgers. A Han Relic is also the housed source body only where its own dossier files that identity; a shared name, “relic” word, or Class number is not proof. Han Relic Class I–IV is custody threat and clearance, never Coherence, converted Risk, Tool subtype, or E.G.O Risk.
 
 ### Converted-Tool and Relic Intake Standard
 
@@ -1448,6 +1472,9 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 | **Sorrow Gauge [HP]** | Dossier sorrow/durability record and continuous pressure channel | HP source value for tier-multiplier derivation (not the Qliphoth Counter; the Threshold is the separate discrete channel) |
 | **Han Pressure [ATK]** | Entity damage output per hit | Work Damage value |
 | **H-Box (Han-Energy Box)** | Energy unit from successful work | PE-Box (Positive Enkephalin Box) |
+| **Lumen (LU)** | Refined Weeping current consumed to run containment fields, Work, suppression, and the Absolvohan | *(no LC input conversion; never Han Yield, H-Box, PE, Gauge %, or Counter fuel)* |
+| **Seven Taboos (Geumji)** | City/Han-enforced absolute prohibitions: resurrection, deliberate true AI, Han immunity, time reversal, sorrow synthesis, cross-boundary fusion, and Echo-Core duplication | *(no direct equivalent; Head taboos are City law, and the Raw's Three Treaty Taboos are syndicate treaty terms)* |
+| **Seven Resonances (Gongmyeong)** | Cost-bearing faction methods: Council Weight, Architect Shaping, Collector Scales, Keeper Archive, Warden Barrier, Weaver Dream, and R.D. Extraction | *(no direct equivalent; not Element resonance, a set bonus, Work affinity, or an automatic faction-member item effect)* |
 | **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Personnel transformation from Han overload | Panic (acute analogue only) |
 | **Efflorescence** | Positive transformation: person-controlled bond at the Fracture edge (sorrow becomes strength) | E.G.O manifestation (positive-outcome analogue only) |
 | **M.A.W. Corrosion** | Equipment turning on user (4 stages) | E.G.O Corrosion |
@@ -1588,6 +1615,8 @@ On the world/professional plane, The City fields Fixers and Associations (Hana, 
 | **Cadre Un-Song** | 운송 (*Unsong*) | **Overland Heavy Convoy** — armored transport of Han-Energy capacitors, Relic-Entities, and materiel along the Desolate corridors | Devyat Association (Courier and transport) |
 | **Cadre Ui-Ryo** | 의료 (*Uiryo*) | **Mnemonic & Bio-Suture** — treat Pre-Fracture Panic, suture Han-torn tissue, and stabilize damaged memory | Doctor Fixers / Biotechnical clinics |
 | **Cadre Gyeo-Tu** | 격투 (*Gyeotu*) | **Unarmed Han-Martial Arts** — close combat on the 10-node grid without drawn weapons | Close-combat specialist Fixers (professional analogue only) |
+
+**Giltong jurisdiction exception:** Cadre Giltong's Doorspeech/speech-audit work is one face of a wider Seven-Taboo mandate carried by the Taboo Scanner, Containment Bonds, Arbiter's Blade, and Taboo Archive. At Facility 01 that mandate stops at Floor 1 surface intake and diplomatic rooms: Floors 2–8 are barred, external scanners are blinded by facility dampeners, and Council restraint leaves Giltong on an armed Alpha Tree perimeter. Giltong is therefore not an ordinary contractable internal breach cadre; a forced descent is an external interdiction or invasion, not invited support. The **Judexhan** remain a separate Council judgment body, not Sim-Pan or Giltong under another name. Named faction technologies and Resonances likewise travel only with the named actor, item, and filed effect; a faction name never grants its whole technology list to an entity or equipment record.
 
 ### 16. Story Expansion: Departmental Awakenings & Realization Wars
 
@@ -1912,7 +1941,7 @@ Energy note: Han Yield and any filed H-Boxes are home-ledger inputs. Physical PE
 | 10 | Behavior outcomes → work favorability | Chapter 5 — Behavior outcomes → favorability | Covered |
 | 11 | Operative attributes & levels | Chapter 5 — R.D. Attributes & staffing | Covered |
 | 12 | Composure, SP, panic & filed recovery | Chapters 5 and 7 — Composure, SP, panic & recovery reads | Covered |
-| 13 | Han Yield, physical PE band & quota value | Chapter 4 — energy bands, physical PE assignment & quota value | Covered (separate ledgers) |
+| 13 | Han Yield, Lumen current, physical PE band & quota value | Chapters 2 and 4 — Lumen input separated from Han Yield output, physical PE assignment & quota value | Covered (separate ledgers) |
 | 14 | Heavy Han Density & brine | Chapter 1 — Han density in containment | Covered |
 | 15 | Daily Cycle · quota · Selection | Chapters 4 and 9 — PE quota, Daily Cycle & Selection record | Covered |
 | 16 | **Qliphoth Counter: value & derivation** | Chapters 4 and 6 — counter value & channel derivation | **Covered** |
@@ -1920,7 +1949,7 @@ Energy note: Han Yield and any filed H-Boxes are home-ledger inputs. Physical PE
 | 18 | Counter reset & return | Chapter 6 — reset, return & permanent tallies | Covered |
 | 19 | Qliphoth Meltdown event | Chapter 6 — meltdown marking & crisis response | Covered |
 | 20 | Tool use counters, charges & consumption | Chapters 6 and 8 — Threshold use-counters, charges & consumption | Covered |
-| 21 | Breach, suppression & authorized external support | Chapters 6 and 7 — breach, suppression & separately authorized support | Covered |
+| 21 | Breach, suppression & authorized external support | Chapters 6, 7, and 9 — breach, suppression, separately authorized support & the Giltong Floor 1 jurisdiction exception | Covered |
 | 22 | Transformation & state lines | Chapters 3 and 6 — state lines & transformations | Covered |
 | 23 | Skills · Dawn-table riders · Ultimates | Chapters 6 and 7 — skills, Dawn-table riders & Ultimates | Covered |
 | 24 | Size · scale · housing grades | Chapter 1 — Size, Scale & Form Law | Covered |
@@ -1937,17 +1966,17 @@ Energy note: Han Yield and any filed H-Boxes are home-ledger inputs. Physical PE
 | 35 | Facility crisis weather (Watches / Ordeals) | Chapters 6 and 9 — facility crisis frameworks | Covered by reference |
 | 36 | Departmental crisis frameworks | Chapter 9 — departmental crisis frameworks | Covered by reference |
 | 37 | LOB · Research · Re-Extraction | Chapters 2 and 9 — facility economy & research frameworks | Covered by reference |
-| 38 | Spatial combat engine (nodes · bands · AP · Four P) | Chapter 7 — movement, range, retained spatial mechanics & Four P translation | Covered |
+| 38 | Spatial combat engine (nodes · bands · AP · Four P) | Chapter 7 — movement, dual range geometries, seven branch contexts, retained spatial mechanics & Four P translation | Covered |
 | 39 | Ingress · Degrees · contact geometries | Chapter 1 — ingress, degrees & contact geometry | Covered |
 | 40 | Worked examples, drills & protocol case patterns | Chapter 10 — worked practice, partial drills & combinable case-pattern overlays | Covered (partial practice, not a certificate) |
 | 41 | Threat multipliers & round-UP arithmetic (HP/ATK) | Chapter 4 — threat multipliers & round-up filing | Covered |
 | 42 | R.D. Attribute levels (0/I–V, 1–100) & Nugget acquisition | Chapter 5 — attribute levels & Nugget acquisition | Covered |
 | 43 | Breach taxonomy — Escape / Corrupt / Transform / Cascade | Chapter 6 — breach taxonomy | Covered |
-| 44 | Fracture stages · Efflorescence · Architect's Mark | Chapter 9 — Somnarak-specific fracture systems | Covered by reference |
+| 44 | Fracture stages · Efflorescence · Architect's Mark | Chapter 9 — Somnarak-specific fracture systems; Seven Taboos and Seven Resonances filed as separate world-plane law | Covered by reference |
 | 45 | Organization & S.A.M.S. Terminal | Chapters 2 and 9 — R.D. + The Absolvohan facility organization, the separate Five Main Companies / twenty-five Zone-corporation registers, Memory Archive sanctuary, & terminal frameworks | Covered by reference |
 | 46 | Document-structure mapping & SE → Abnormality conversion order | Chapters 2 and 10 — document mapping & conversion order | Covered |
 | 47 | Original Tool housing — body, operation, closure & custody | Chapters 3 and 8 — body class, A/O/I operation, LC use-shape, Log and Method, warning flags, closure & return | Covered |
-| 48 | Material, mass & non-M.A.W. workshop provenance | Chapter 8 — material as appearance only, context-bound mass ledgers, Six Great Workshops & Workplace Law by Degree | Covered |
+| 48 | Material, mass & non-M.A.W. workshop provenance | Chapter 8 — material as appearance only, Han Relic provenance separated from Relic-Entity operation and extracted M.A.W., context-bound mass ledgers, Six Great Workshops & Workplace Law by Degree | Covered |
 | 49 | Final facility and source checks | Chapter 10 — Facility Verification Checklist & Field-Source Check | Covered |
 | 50 | Institutional Sign-Off & certificate status | Chapter 10 — seven signing responsibilities; SIGNED / SIGNED WITH RESTRICTIONS / NOT SIGNED | Covered |
 

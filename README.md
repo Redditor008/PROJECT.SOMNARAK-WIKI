@@ -108,7 +108,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── Master_Codices/                     # 49 Macro-Canon Master Codices across 6 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
 │   │   ├── 02_Institutional_Wings_and_Chronicles/ # 6 Codices: Reverie Directorate, SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan
-│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
+│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 9 Codices: Battle engines, M.A.W., Han Relics, Lumen, Ordeals, Taboo Resonance, workshops
 │   │   ├── 04_Municipal_Society_and_Demographics/ # 10 Codices: Daily life, Council, Collectors, corporations, syndicates, cadres
 │   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
 │   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
@@ -223,13 +223,14 @@ Tactical combat specifications, mechanical mathematics, and metaphysical physics
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
 | [`SOMNARAK_BATTLE_SYSTEM.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md) | Combat Engine & Affinities (577 lines) | 4 Sorrow Elements (Grudge, Lament, Void, Weight), Range Bands 1–5, falloff, and formations |
-| [`SOMNARAK_BATTLE_SYSTEM_STYLES.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md) | Hexa-Style Combat Mechanics (767 lines) | Generic Core, Reverie Directorate, UCD Urban CQB, SED Depth Pressure, Archive Mnemonic, Caravan Bastion |
+| [`SOMNARAK_BATTLE_SYSTEM_STYLES.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md) | Seven-Branch Combat Mechanics (835 lines) | Generic Core, Reverie Directorate, UCD Urban CQB, SED Depth Pressure, Won-Hyeong Clinical Suture, Archive Mnemonic, Caravan Bastion |
 | [`SOMNARAK_FACTION_TECH.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_FACTION_TECH.md) | Institutional Technology Specs (654 lines) | Acoustic dampening, basalt extraction, silk weaving, barrier rigs, and Warden Threshold Vows |
 | [`SOMNARAK_HAN_RELICS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_HAN_RELICS.md) | Sovereign Primordial Artifacts (275 lines) | Threefold relic taxonomy, Unanswered floating hands, containment vaults, and Pre-Structuring relics |
+| [`SOMNARAK_LUMEN.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_LUMEN.md) | Refined Han Current & Facility Substrate (89 lines) | Weeping-derived Lumen Units, containment-field consumption, reservoirs, deprivation, contamination, and Lumen Debt |
 | [`SOMNARAK_MAW_CODEX.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md) | Master Armory & Extraction Engine (9,033 lines) | M.A.W. weapon archetypes, suit weave defenses, stigma slots, and extraction across 198 complete quadripartite sets (245 planned sets) |
 | [`SOMNARAK_ORDEALS_FRAMEWORK.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md) | Five-Color Ordeal Defense (301 lines) | Mechanics for Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches and crisis taxonomy |
 | [`SOMNARAK_TABOO_RESONANCE.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_TABOO_RESONANCE.md) | Seven Taboos & Resonances (366 lines) | Absolute civic laws, acoustic censorship dynamics, resonant punishments, and Giltong enforcement |
-| [`SOMNARAK_WORKSHOPS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md) | Six Great Workshops Codex (215 lines) | Non-M.A.W. artisan equipment, Workplace Law, and 0.5% / 1.0% / 5.0% acquisition curve across Grades 1 to 5 (Legendary Stat) |
+| [`SOMNARAK_WORKSHOPS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md) | Six Great Workshops Codex (219 lines) | Non-M.A.W. artisan equipment, Workplace Law, and 0.5% / 1.0% / 5.0% acquisition curve across Grades 1 to 5 (Legendary Stat) |
 
 ---
 
