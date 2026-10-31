@@ -129,7 +129,7 @@ It took him nine days to read it and eleven to understand it.
 
 The understanding arrived in the least dramatic way possible. He was writing the finding order on his slate and noticed that the warnings were all filed *before* the event, which is what a warning is, and that the file therefore proved the city had had time.
 
-> **ARCHIVE FINDING — CH-202, ORDER OF DEPOSIT**  \
+> **CH-202 — ORDER OF DEPOSIT, AS THE FILE HAS IT**  \
 > *Year 195: Mender projection, Zone B consumed within a decade at the observed growth rate. Received. Filed.*  \
 > *Year 195–202: Warden reports, Architect surveys, citizen petitions. Received. Filed.*  \
 > *Year 202, Day 1: Han rises through the district. Duration of active loss: seventeen minutes.*  \
@@ -137,7 +137,7 @@ The understanding arrived in the least dramatic way possible. He was writing the
 > *Year 202, Day 2: public account issued. Cause: unforeseeable natural overflow.*  \
 > *Names of the lost: not held by this office.*
 
-That last line is in his own hand on a file that predates him by three thousand nine hundred years. He added it after the ninth day, in the margin, because the form had no field for it and because he had begun to suspect that he was looking at a document that had been *completed* rather than written.
+That last line is his, in the margin of a file that predates the Consolihan. He added it after the ninth day, because the form had no field for it and because he had begun to suspect that he was looking at a document that had been *completed* rather than written.
 
 He took it to the Head Keeper.
 
