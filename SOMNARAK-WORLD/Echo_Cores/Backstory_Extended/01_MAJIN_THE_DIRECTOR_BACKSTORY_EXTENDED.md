@@ -77,7 +77,7 @@ The amber threads in the sample tubes had gone still. Not slow. Still — all of
 
 [Majin] Everybody out. Now. Nothing in your hands.
 
-[Warden] Director — the protocol says we hold the sector until the gauges read.
+[him] Director — the protocol says we hold the sector until the gauges read.
 
 [Majin] The gauges are reading nothing. That is the problem. Move.
 
@@ -167,15 +167,15 @@ It did not look like a monster. That was the first thing the containment teams r
 
 The second thing they reported was that it was not attacking. It was *gathering*.
 
-[Containment Officer] It has taken the east quarter. Not damaged. Taken. The walls are still there.
+[she] It has taken the east quarter. Not damaged. Taken. The walls are still there.
 
 [Majin] How many people inside?
 
-[Containment Officer] Four hundred and six, by the census. We cannot raise a single one of them on any channel.
+[she] Four hundred and six, by the census. We cannot raise a single one of them on any channel.
 
 [Majin] Then it is a rescue.
 
-[Containment Officer] Director. The first team that went in came out as a first team of nine and a second team of nine. Both of them said they were the original. Both were telling the truth as far as the instruments could see.
+[she] Director. The first team that went in came out as a first team of nine and a second team of nine. Both of them said they were the original. Both were telling the truth as far as the instruments could see.
 
 He put both teams in separate rooms and interviewed each of the eighteen. Afterward he could not say which nine had gone in. He has never been able to say. That is the part of the Sovereign event he does not discuss.
 
@@ -189,11 +189,11 @@ Then the perimeter itself began to disagree with the map.
 
 [Majin] Pull everyone back to the second line.
 
-[Engineer] Director, the second line is inside the effect.
+[him] Director, the second line is inside the effect.
 
 [Majin] Since when?
 
-[Engineer] Since about four minutes ago. We are measuring it from here and getting a clean reading, which is how we know the instrument is compromised.
+[him] Since about four minutes ago. We are measuring it from here and getting a clean reading, which is how we know the instrument is compromised.
 
 He stood in a command post with a map that no longer matched the ground and a city that could not be evacuated because the evacuation route kept arriving somewhere else.
 
@@ -206,37 +206,37 @@ He stood in a command post with a map that no longer matched the ground and a ci
 > *Bonding status: not attempted.*  
 > *Note: an Ω-grade extraction cannot be repeated. There is one. There will not be a second.*
 
-[Medic] The bonding will kill you.
+[she] The bonding will kill you.
 
 [Majin] The bonding will hold it.
 
-[Medic] Those are not alternatives. You understand that. If it fuses instead of bonding, you become the container, and the container does not come off.
+[she] Those are not alternatives. You understand that. If it fuses instead of bonding, you become the container, and the container does not come off.
 
 [Majin] Then it holds.
 
-[Medic] Director —
+[she] Director —
 
 [Majin] Four hundred and six people are standing in a street that has stopped agreeing with the sky. I have one instrument that might be able to tell it to stop. Put it in my arm.
 
 The medic looked at the extraction team. The extraction team looked at the floor.
 
-[Medic] You will not be able to die.
+[she] You will not be able to die.
 
 [Majin] I have not been able to die since the floor warmed. This just makes it official.
 
 #### What the Medics Said
 
-*Extract from the extraction-team debrief, taken in Year 4,238 during the disclosure inquiry. Three members present; the speaker is the senior medic.*
+*Extract from the extraction-team debrief, taken in Year 4,238 during the disclosure inquiry. Three members present. The senior medic speaks first; the second medic is the younger voice.*
 
-[Senior Medic] He read the directive before he signed it. I want that in the record, because the version that circulated afterward had him signing it blind. He sat on the table with his sleeve cut open and read the whole page, twice, and then he said —
+[him] He read the directive before he signed it. I want that in the record, because the version that circulated afterward had him signing it blind. He sat on the table with his sleeve cut open and read the whole page, twice, and then he said —
 
-[Second Medic] He said "noted."
+[she] He said "noted."
 
-[Senior Medic] He said "noted." That is the sentence nobody put in the report. Not "I accept," not "for the city." Noted. Like it was a shift change.
+[him] He said "noted." That is the sentence nobody put in the report. Not "I accept," not "for the city." Noted. Like it was a shift change.
 
-[Second Medic] Then he lay back and asked how long it would take.
+[she] Then he lay back and asked how long it would take.
 
-[Senior Medic] I have been asked since whether he was brave. I do not think that is the right word for it. Brave is when a person chooses something and the choosing costs them. He had already decided before he sat down. The sitting down was administration.
+[him] I have been asked since whether he was brave. I do not think that is the right word for it. Brave is when a person chooses something and the choosing costs them. He had already decided before he sat down. The sitting down was administration.
 
 #### The Fusing
 
@@ -248,15 +248,15 @@ He remembers thinking, with the clarity that arrives at the worst moments: *she 
 
 Then he remembers standing up.
 
-[Medic] ...Director.
+[she] ...Director.
 
 [Majin] Report.
 
-[Medic] The east quarter is quiet.
+[she] The east quarter is quiet.
 
 [Majin] The people?
 
-[Medic] Four hundred and six. They are standing in the street. They are asking what happened.
+[she] Four hundred and six. They are standing in the street. They are asking what happened.
 
 He walked out into the district. The paving was paving. The sky was the sky. The market square had a floor the color of ordinary stone, and the water was gone, and the reflection was gone, and the buildings contained only the rooms they had always contained.
 
@@ -288,11 +288,11 @@ Every person in the square felt it. Most knelt, because kneeling was what the ri
 
 Majin did not kneel. He stood at the back with his hands at his sides and felt the attention of the thing under the square arrive on him like a hand on the chest — the same gesture, in the same place, that she had used to check whether he was listening.
 
-[Warden] Director. The Council is asking for you.
+[him] Director. The Council is asking for you.
 
 [Majin] I know.
 
-[Warden] They are saying the Tree has chosen.
+[him] They are saying the Tree has chosen.
 
 [Majin] I heard them.
 
@@ -312,15 +312,15 @@ He read it twice. The second reading was the one that mattered.
 
 [Majin] And if I refuse?
 
-[Council Envoy] Then the Tree will indicate again, and the next indication may be less convenient for the city. You are the one it chose. That is not a compliment. It is a load-bearing assessment.
+[him] Then the Tree will indicate again, and the next indication may be less convenient for the city. You are the one it chose. That is not a compliment. It is a load-bearing assessment.
 
 [Majin] I am a researcher.
 
-[Council Envoy] You were. The city requires a container that can also give orders. You have demonstrated both capacities. The Tree does not select for temperament.
+[him] You were. The city requires a container that can also give orders. You have demonstrated both capacities. The Tree does not select for temperament.
 
 [Majin] I did not ask for this.
 
-[Council Envoy] No. That is the qualification.
+[him] No. That is the qualification.
 
 #### What He Understood in the Square
 
@@ -352,15 +352,15 @@ It was not an Ordeal. Ordeals announce themselves with a color and a time. This 
 
 They had one system that could hold the strata together. It was not a containment system. It was a stabilization generator, built into the structure of the Hand itself, designed to keep the facility's own foundations from walking.
 
-[Engineer] Director. If we activate it at full field, it will hold the fault. It will also hold everything inside the field.
+[him] Director. If we activate it at full field, it will hold the fault. It will also hold everything inside the field.
 
 [Majin] Everything?
 
-[Engineer] Everything. The field does not distinguish. Whatever state the facility is in when the field closes is the state the field will keep.
+[him] Everything. The field does not distinguish. Whatever state the facility is in when the field closes is the state the field will keep.
 
 [Majin] For how long?
 
-[Engineer] We do not have a number for that. The generator was not built for this load.
+[him] We do not have a number for that. The generator was not built for this load.
 
 #### The Directive
 
@@ -375,11 +375,11 @@ They had one system that could hold the strata together. It was not a containmen
 
 [Majin] Field perimeter.
 
-[Engineer] Facility 01 and the adjacent civic envelope.
+[him] Facility 01 and the adjacent civic envelope.
 
 [Majin] Duration.
 
-[Engineer] Indefinite. That is the setting. There is no other setting.
+[him] Indefinite. That is the setting. There is no other setting.
 
 [Majin] Activate.
 
@@ -1051,7 +1051,7 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | The Original | The sentence he will misread | Connective scene |
 | 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification | The Original | "Don't let it be the last word" | Canon-anchored |
 | 3 | The Sovereign | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment | Majin | He becomes the container | Canon-anchored |
-| 4 | What the Medics Said | PAST | TPV camera | Senior Medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
+| 4 | What the Medics Said | PAST | TPV camera | The senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
 | 5 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
 | 6 | The Field | PAST | TPV, SPV | Majin; generator directive | Operator | BOTH | Institutional event | R | Dossier The Cycle; R.D. codex chronology | Majin | 0.02 tons per iteration | Canon-anchored |
 | 7 | The Lance | PAST | TPV | Majin | — | BOTH | Object | C | Dossier The Secret; Day 149 | Majin | The design he will cut apart | Connective scene |

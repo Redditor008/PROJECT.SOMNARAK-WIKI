@@ -19,27 +19,27 @@ Dekan stops at every marker. He has done it since he was tall enough to read the
 
 The new specialist assigned to Floor 2 follows him with a tablet and a look of careful patience, because there is nothing on the tablet to record and the walk is not on the shift schedule.
 
-[Specialist] Sir. Permission to ask.
+[him] Sir. Permission to ask.
 
 [Dekan] Ask.
 
-[Specialist] What are we doing out here?
+[him] What are we doing out here?
 
 He crouches at marker nineteen. The stake is warm. It has been warm since the Cheongula and it will be warm after everyone currently alive in Zone B has been filed, and warmth is not a reading, it is a property of the ground.
 
 [Dekan] Three rules. Count the markers. State the observation before the interpretation. Repeat your name.
 
-[Specialist] ...That's three rules for a perimeter check?
+[him] ...That's three rules for a perimeter check?
 
 [Dekan] That is three rules for a perimeter check.
 
 He writes in the ledger: *Marker 19. Warm. No displacement. No sound.*
 
-[Specialist] And the third one?
+[him] And the third one?
 
 [Dekan] What about it.
 
-[Specialist] Why do we say our names out loud? There's nobody here but us.
+[him] Why do we say our names out loud? There's nobody here but us.
 
 Dekan stands, closes the ledger, and looks at the wall for slightly longer than the question deserves.
 
@@ -279,29 +279,29 @@ On the third day of the waiting, the signature changed from Grudge to Lament —
 
 He was on the floor when it happened, and the specialist on watch with him was twenty-two years old and had never seen the channel light change.
 
-[Specialist] Sir. Your arm.
+[she] Sir. Your arm.
 
 [Dekan] I know.
 
-[Specialist] What does it mean?
+[she] What does it mean?
 
 [Dekan] It means they have stopped being angry.
 
-[Specialist] Is that better?
+[she] Is that better?
 
 [Dekan] It is different.
 
 The specialist was frightened, and trying not to be, and doing the thing that frightened people on Floor 2 do: talking to fill the corridor.
 
-[Specialist] Why do we say our names out loud? There's nobody down here but us.
+[she] Why do we say our names out loud? There's nobody down here but us.
 
 [Dekan] Count the markers. State the observation before the interpretation. Repeat your name.
 
-[Specialist] That's not an answer.
+[she] That's not an answer.
 
 [Dekan] No. It's a procedure.
 
-[Specialist] Where did it come from?
+[she] Where did it come from?
 
 Dekan looked at the wall for slightly longer than the question deserved.
 
@@ -381,19 +381,19 @@ Then he read the incident index.
 
 He set the page down. There was no next line — the index ended there, and the thousand names were not in it, and neither was one Warden with a grief-heavy baton.
 
-[Warden] Sir. Did command know?
+[she] Sir. Did command know?
 
 [Dekan] It was known to the Menders in Year 195. It was known to the Council in Year 202. It has been known to the record since the record was written.
 
-[Warden] And us?
+[she] And us?
 
 [Dekan] It sat in a file in a room you were not cleared for. That is not a defence of us. That is what the room was for.
 
-[Warden] What do we tell the families?
+[she] What do we tell the families?
 
 [Dekan] The truth, in the order it happened. Forecast in Year 195. Event in Year 202. Seventeen minutes. Responders present. Rescue not attempted. Then tell them what day of the year they are standing in, and let them decide what to do with a city that needed four thousand years to say the sentence out loud.
 
-[Warden] And your part, sir?
+[she] And your part, sir?
 
 He did not answer immediately. The lamp buzzed. Somewhere below the floor, something that had screamed for four thousand years did not scream.
 
@@ -431,47 +431,47 @@ She ran the perimeter kitchen in the year he was eight, and she is old now, and 
 
 He visits on the ninth of the month. He has done it since the Cycle broke. She feeds him and does not let him talk about reports until he has eaten, which is a rule she invented when he was a child and has never once been asked to justify.
 
-[The cook] You still walk the whole line.
+[she] You still walk the whole line.
 
 [Dekan] Forty minutes. Every marker.
 
-[The cook] In the cold.
+[she] In the cold.
 
 [Dekan] The markers don't care about the cold.
 
 She laughs at that the way she has laughed at it for thirty-six years, and then she says the thing this record has been walking toward, in the plain voice of a woman who never had a clearance level and never needed one.
 
-[The cook] You were a terrible child to have in a kitchen, you know. Up at all hours. Writing your little numbers.
+[she] You were a terrible child to have in a kitchen, you know. Up at all hours. Writing your little numbers.
 
 [Dekan] I was useful.
 
-[The cook] You were useful. That's not what I said.
+[she] You were useful. That's not what I said.
 
 She reminds him of the night the researcher came at two in the morning. Marker eleven had gone soft and the readings disagreed and a man with a coat too good for Zone B wanted a child to stand next to it and say what he felt.
 
 [Dekan] I remember.
 
-[The cook] You came back at four and sat in my kitchen and wrote the whole thing down again, in your own hand, in your own book. And I asked you why, when the man already had it.
+[she] You came back at four and sat in my kitchen and wrote the whole thing down again, in your own hand, in your own book. And I asked you why, when the man already had it.
 
 [Dekan] ...
 
-[The cook] You said, *so if it happens again nobody can say we didn't know.*
+[she] You said, *so if it happens again nobody can say we didn't know.*
 
 He does not answer. The stove ticks as it cools.
 
-[The cook] You were eight years old, Dekan. You were not doing their filing. You were building a warning for people who hadn't been born yet.
+[she] You were eight years old, Dekan. You were not doing their filing. You were building a warning for people who hadn't been born yet.
 
 [Dekan] I was standing beside an unstable marker because a man in a good coat told me to.
 
-[The cook] Yes. And then you went home and did the part he hadn't asked for. Those are two different things and you have spent thirty-five years pretending they're one.
+[she] Yes. And then you went home and did the part he hadn't asked for. Those are two different things and you have spent thirty-five years pretending they're one.
 
 She is the only person alive who can say the next sentence to him, because she was there and she has no institution to protect and she is too old to be impressed by him.
 
-[The cook] We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours. Not yours. You have been carrying our failure around like it was your homework.
+[she] We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours. Not yours. You have been carrying our failure around like it was your homework.
 
 [Dekan] If I put it down, the thousand are only a file.
 
-[The cook] They're already only a file. You're the one who keeps reading it.
+[she] They're already only a file. You're the one who keeps reading it.
 
 He eats. He does the washing up, badly, as he has always done it badly, and she lets him, and when he leaves she stands in the door and makes him say his name.
 
@@ -487,11 +487,11 @@ He read it twice. Then he took the pen and changed one line.
 
 > `Population: one thousand. Departed.`
 
-[Officer] Sir — the form doesn't have a field for that.
+[him] Sir — the form doesn't have a field for that.
 
 [Dekan] It does now.
 
-[Officer] The registry will reject it. The entry is a closure, not a roster.
+[him] The registry will reject it. The entry is a closure, not a roster.
 
 [Dekan] Then the registry is wrong about what a closure is.
 

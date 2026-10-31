@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Echo-Core Backstory Extended: unnamed speakers are labelled by pronoun (2026-10-31)
+
+- **Job titles are no longer used as dialogue labels.** A speaker who has no personal name in the record was being tagged with a role — `[Specialist]`, `[Warden]`, `[The cook]`, `[Senior Medic]`, `[Council Envoy]` — and a role in brackets reads like a name. It also implies a personnel entry the record does not contain: a named staff member with a checklist, a clearance level, a file.
+- **The rule, now filed as §XII.1a in the standard:** `[she]`, `[him]`, or `[unknown]`, fixed once per file and never switched mid-file. `[???]` is reserved for a speaker whose name the record knows but withholds, **one question mark per character of that name**, so the length is a readable clue and nothing else leaks.
+- **`[The Original]` keeps its title.** The Original is the record's own designation for a figure whose name is unknown everywhere in canon and whose name length no source supplies. A `[???]` count would invent evidence, and the rule says so explicitly.
+- **Files 01 and 03 were conformed.** File 01's debrief, containment, engineering, and Council scenes now read `[she]` / `[him]`, and the transcript preamble was rewritten to identify its two unnamed speakers by order — *"The senior medic speaks first; the second medic is the younger voice"* — because a reproduced document must stay intelligible without role labels. File 03's perimeter specialist, Day 125 specialist, Day 177 warden, filing officer, and the retired cook were conformed the same way.
+- **File 02 needed no change.** Every speaker in it is named.
+- **The rule is retroactive and binding on 04–09.** Two unnamed speakers may never share a label inside one exchange; if they would, the exchange is attributed in prose instead.
+- **[P]** Remaining: characters 04–09, and an owner ruling on the Solidification dating. The SE ↔ M.A.W. reconciliation queue remains pinned WIP.
+
 ## Echo-Core Backstory Extended: file 03 Dekan filed (2026-10-31)
 
 - **The Containment Lead is the third activated record, and the first written on the spine from the beginning.** All 1,431 lines of `THE_CONTAINMENT_LEAD.md` were read before drafting, with the anchor scenes pulled from the Parts themselves rather than from the dossier's own chronology table: Day 53's 2.3 centimetres, Day 101's twelve voices, Day 151's lullaby, Day 350's visitors.

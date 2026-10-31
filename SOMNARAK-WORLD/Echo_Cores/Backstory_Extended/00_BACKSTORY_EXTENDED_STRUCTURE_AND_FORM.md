@@ -583,6 +583,28 @@ Ordinary dialogue uses speaker-first format:
 
 In-world transcripts, logs, terminal output, and forms may use their native document format instead. A transcript should identify its channel, recorder, or compiler; otherwise it is HOLD.
 
+### XII.1a Unnamed speakers
+
+A speaker who has no personal name in the record is **not labelled with a job title.** A title reads like a name on the page, and it implies a personnel entry the record does not contain. Use the pronoun instead:
+
+```text
+[she] He read the directive before he signed it. I want that in the record.
+[him] He said "noted."
+[unknown] The line went quiet at 04:12.
+```
+
+- **`[she]` and `[him]`** — the speaker's gender is fixed by the scene or by the record. Fix it once and do not switch mid-file.
+- **`[unknown]`** — the record never establishes the speaker's gender, and the scene does not need one.
+- **`[???]`** — the speaker has a name the record knows but withholds. **One question mark per character of that name**, so the length is a readable clue and nothing else leaks: `[?????]` is a five-character name, `[??????]` is six.
+
+Four consequences follow:
+
+1. **No two identical labels in one exchange.** If two unnamed speakers are both `[she]`, attribute in prose or the exchange becomes unreadable.
+2. **A title the record uses as a title stays a title.** `[The Original]` is the record's own designation for a figure whose name is unknown everywhere in canon; `[???]` would require a name length that no source supplies, so inventing the count invents evidence.
+3. **Reproduced documents keep their own conventions,** but the preamble must say which unnamed speaker is which — e.g. *"Three members present. The senior medic speaks first; the second medic is the younger voice."*
+4. **Retroactive.** Files 01 and 02 were conformed to this rule when it was filed; files 03–09 obey it from the first draft.
+
+
 ### XII.2 Documents
 
 If a character reads, hears, or accesses a document, write the exact portion reached — not a summary. Stop at the point where the character stops. Do not supply text the record does not contain.
