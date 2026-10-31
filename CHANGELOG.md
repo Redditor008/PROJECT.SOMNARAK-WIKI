@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Typographic register: dialogue performed on the page (2026-11-01)
+
+The owner's ruling was that the first six backstory files rendered shouting, whispering, panic and silence identically, and that a page where a command over noise and a death read the same weight has not been written yet. Fixed in the records themselves, not annotated.
+
+- **The standard now carries a register.** `00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` §XII.1c adds three weights — roman for ordinary speech, *italic* for dropped volume, **bold** for raised volume — a mark set (`...`, `—`, `— —`, `?`/`??`/`???`, `!`/`!!` but never `!!!`, nested `''`, `*word*`, stammer, held sound), four beat rules, and four hard limits, the first of which is that canon-quoted words never change.
+- **The flat grid was removed mechanically and then replaced by hand.** A conversion pass took the 718 `[Name] text` lines to the house blockquote rendering; that only made the file uniform in a different way, so every scene was then styled individually — the 01 prologue, the Day 29 catwalk confession, Seiyon's naming on Day 0, Dekan's Day 177 reading, Zyrak's debtor case and Dahye's counter, Ayshuk's request, and Mellda's wall.
+- **All nine `"..."` silence lines are gone.** Each is now a physical beat — the eleven seconds the recording holds, the channel closed from his end, the child who has nothing in the room to say it with.
+- **Checkable counts, not claims.** 748 dialogue lines across 01–06, 66 at dropped volume, 15 at raised volume, no two consecutive lines sharing a weight, every narrative scene carrying at least one beat. Each file's own validation record carries its count.
+- **Two defects were found by the pass and fixed at source.** File 03 still carried the withdrawn `[The Original]` label row in an appendix table, orphaned from any line in the file, under a second `### Cast` heading; the dead row is removed and the heading is now `### The label register`. File 05 still rendered one Part Three line in the old `> **Ayshuk:** _"..."_` syntax; it now uses the house label.
+- **The folder README's pin was stale and is repaired.** It still read *"the stories are not written"* beside six filed records.
+- **[P]** Remaining: characters 07–09 (Marjuk next), which must be drafted in the register rather than retrofitted; the 01–03 appendix backfill; the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Index repair: Echo-Core root files (2026-10-31)
 
 Four world-root indexes were asserting things the repository no longer says. Fixed in place, not annotated.

@@ -573,13 +573,15 @@ Until approved, the story body may present it only as belief, rumour, or an in-w
 
 ### XII.1 Dialogue format
 
-Ordinary dialogue uses speaker-first format:
+Ordinary dialogue uses the speaker-first *token* with the house rendering — blockquote, bold bracketed label, quoted speech:
 
 ```text
-[Dekan] The Maw asked for a name today.
-[Majin] Whose?
-[Dekan] Yours.
+> **[Dekan]** "The Maw asked for a name today."
+> **[Majin]** "Whose?"
+> **[Dekan]** *"Yours."*
 ```
+
+The bracketed token is the part that identifies the speaker and it never changes: `[Dekan]`, `[she]`, `[???]`. Everything around it is presentation, and presentation carries the performance. See §XII.1c.
 
 In-world transcripts, logs, terminal output, and forms may use their native document format instead. A transcript should identify its channel, recorder, or compiler; otherwise it is HOLD.
 
@@ -635,6 +637,50 @@ Eight rules bound them:
 | **Kyungmi** (경미, "respectful and beautiful") | `06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md` | Stores keeper, Wardens' stores at the Threshold; issued the Border Lead's first kit, cut the badge off at exile, kept the drawer of badges | No office, no clearance, no authority; one witness to one night; not canon without a Promotion Check | Backstory-only; reusable in 07–09 if consistent |
 
 
+
+### XII.1c The typographic register
+
+**A line of dialogue renders flat only when the writer has not decided how it is said.** Eight hundred identical `[Name] text` paragraphs tell the reader nothing: Majin ordering a rotation and Majin watching a child die sound the same on the page, so the page stops carrying the scene and the reader has to reconstruct it from plot. That is a defect of the same class as an unsupported number.
+
+The register is three weights and a set of marks. It is not decoration. Each weight means a specific voice, and a reader who learns it once should be able to hear the file.
+
+#### Weights
+
+| Weight | Form | Means |
+|---|---|---|
+| **Roman** | `> **[Majin]** "Hold your boundary."` | Ordinary speech at ordinary volume. The default, and most lines are this. |
+| **Italic** | `> **[Majin]** *"Noted."*` | Dropped volume — a whisper, a threat said quietly, exhaustion, something said to himself, or a line the speaker does not want carried. |
+| **Bold** | `> **[Mellda]** **"OPEN GATE 05."**` | Raised volume — a command over noise, alarm, fury, or the point where control slips. |
+
+Caps belong to **bold** and to single shouted words inside it. A roman line is never set in caps; caps in a quiet line reads as shouting and contradicts the weight.
+
+#### Marks
+
+| Mark | Reads as | Example |
+|---|---|---|
+| `...` | trailing off, unfinished thought, or a sentence the speaker abandons | *"Three more and..."* |
+| `—` (no spaces) | cut off mid-word or mid-breath, by themselves or by what they saw | **"Don't—"** |
+| `— —` | interrupted by the next speaker | *"Director, I—" — "Enough."* |
+| `?` `??` `???` | one is a question; two is disbelief or panic; three is a mind losing the thread | *"Where is she??"* |
+| `!` `!!` | one is force; two is loss of composure. Never three. | **"Get down!!"** |
+| `''` or `""` inside a line | the speaker quoting someone else, a document, or a voice in the room | *"He said ''noted''. He always says 'noted'."* |
+| `*word*` inside a line | the word the speaker lands on with weight, in a line that is otherwise roman | `"It is *not* his fault."` |
+| stammer (`I— I—`, `No, no, no`) | the speaker cannot get the sentence out | *"I— I didn't—"* |
+| held sound (`Nnnno.` `Sss—`) | a drawn-out syllable, used sparingly, never twice in a file | **"Sss— stay back."** |
+
+#### Beats
+
+- **No scene may be dialogue alone.** Between exchanges there is at least one physical beat: what a hand does, where a light is, what the room hears.
+- **Beat lengths must vary.** A three-word paragraph next to a five-sentence one. Uniform paragraphs are the same defect as uniform lines.
+- **A beat may interrupt a line.** The register exists so that a sentence can stop because someone looked at something, and the reader sees why.
+- **Styling is not a substitute for a beat,** and a beat is not a substitute for styling. If a line is bold because the room is loud, the room has to be loud on the page.
+
+#### Hard limits
+
+1. **Canon-quoted words do not change.** Emphasis wraps them; it never rewrites them. After a styling pass, strip `>`, `**`, `*` and the wrapping quotes, and the body must still match the Part verbatim.
+2. **Two consecutive lines in one exchange may not carry the same weight** unless the flatness is the point — and where it is the point, the narration says so, because two normal lines in a row are indistinguishable from an unstyled file.
+3. **The weight has to be earned by the scene,** not by the line's importance. A character does not shout a plot point because it is a plot point.
+4. **Silence is a weight.** A character who says nothing while another speaks must be visible in the beat, or the reader will assume he was not there.
 
 ### XII.2 Documents
 

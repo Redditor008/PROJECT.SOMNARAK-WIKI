@@ -17,17 +17,17 @@ There is a glass case on the wall of the Extraction Hall, between the gauge boar
 
 It is not a good glove. The leather has gone hard at the knuckles, the left thumb is worn through at the pad, and the seam along the wrist has been repaired with wire that does not match. A small brass plate under it reads `FIELD ISSUE — COLLECTOR'S ROW — NOT RETURNED`.
 
-[Dahye] Lead. Permission to ask.
+> **[Dahye]** "Lead. Permission to ask."
 
-[Zyrak] Ask.
+> **[Zyrak]** "Ask."
 
-[Dahye] Why is that in a case?
+> **[Dahye]** "Why is that in a case?"
 
-[Zyrak] Because it worked once.
+> **[Zyrak]** "Because it worked once."
 
-[Dahye] It's a glove.
+> **[Dahye]** "It's a glove."
 
-[Zyrak] It is an extraction glove. The channels run from the palm to the wrist. When you pull an Echo out of a debtor, the glove routes a fraction of what you are taking back through your own hand. So that you know what it costs. So that no one can say they did not feel it.
+> **[Zyrak]** "It is an extraction glove. The channels run from the palm to the wrist. When you pull an Echo out of a debtor, the glove routes a fraction of what you are taking back through your own hand. So that you know what it costs. So that no one can say they did not feel it."
 
 Dahye looks at the case, and then at Zyrak's hands, which are dark metal with crimson in the channels and pale at the fingertips, and does not ask the next question.
 
@@ -37,19 +37,19 @@ She puts the glove on over the mechanical hand. The leather settles wrong — to
 
 Nothing arrives.
 
-[Zyrak] There. Now you have seen it.
+> **[Zyrak]** "There. Now you have seen it."
 
-[Dahye] Nothing happened.
+> **[Dahye]** "Nothing happened."
 
-[Zyrak] Correct.
+> **[Zyrak]** "Correct."
 
 She takes the glove off and sets it back on its stand and closes the case, and the plate catches the light for a moment before it goes back to being brass.
 
-[Zyrak] Write the inspection in the shift log. Case seal intact, glove intact, no reading. Do not write the rest.
+> **[Zyrak]** "Write the inspection in the shift log. Case seal intact, glove intact, no reading. Do not write the rest."
 
-[Dahye] What is the rest?
+> **[Dahye]** "What is the rest?"
 
-[Zyrak] That is the part I am going to dictate.
+> **[Zyrak]** "That is the part I am going to dictate."
 
 ---
 
@@ -77,15 +77,15 @@ Zyrak learned to keep her hand steady through it, which the Row recorded as exce
 
 Training took fourteen months. She was good at the ledger and better at the scale, and she was best at the part nobody wanted.
 
-[him] You are not flinching.
+> **[him]** "You are not flinching."
 
-[Zyrak] No.
+> **[Zyrak]** "No."
 
-[him] Everyone flinches. The glove is designed so that everyone flinches. It is how we know the instrument is honest.
+> **[him]** "Everyone flinches. The glove is designed so that everyone flinches. It is how we know the instrument is honest."
 
-[Zyrak] I feel it. I am not flinching.
+> **[Zyrak]** "I feel it. I am not flinching."
 
-[him] That is a different skill.
+> **[him]** "That is a different skill."
 
 He wrote something in her file. She did not see what, and she did not need to, because the next assignment was larger than the last and the one after that was larger still.
 
@@ -99,19 +99,19 @@ The case file is four pages. One is the ledger: three generations of inherited o
 
 The debtor was seven years old.
 
-[Dahye] Lead. You don't have to dictate this part.
+> **[Dahye]** "Lead. You don't have to dictate this part."
 
-[Zyrak] I do. It is the only part that matters.
+She had the form in her hand and she did not put it down, which was her way of saying the sentence twice.
+
+> **[Zyrak]** "I do. It is the only part that matters."
 
 The child was sitting on a bench in a room with a window that looked at a wall. The Row had furnished the room properly, because the Row was not cruel; it was exact. There was a cup of water the child had not touched.
 
 The child did not cry. The child did not resist, or ask what was happening, or offer anything. The child looked at her while she set the scale, and while she put on the glove, and while she explained — because procedure required her to explain — that the extraction would take a short time and that the debt would be settled afterward.
 
-[Zyrak] Hold still.
+> **[Zyrak]** "Hold still."
 
-[The child] ...
-
-The child held still.
+The child held still. There was nothing in the room for the child to say it with, so the child said nothing, and the silence was the answer she had expected and it still took something out of her to hear it.
 
 ### What Came Out
 
@@ -165,7 +165,7 @@ It was not recoverable. The report says so in the line she wrote herself: `No re
 
 She has never been certain that line was true. She wrote it because the protocol required a determination, and the determination she had was that the screaming had the child's register in it, and that if the child was still in there, then the child had been in there for eleven minutes while she ran a resonance check.
 
-[Zyrak] Hold still.
+> **[Zyrak]** "Hold still."
 
 She has said that sentence to a great many subjects. It is the sentence her profession gives you to say when your hands are about to do something the subject cannot consent to, and its function is to make the next four seconds administratively clean.
 
@@ -181,17 +181,17 @@ There was no hearing. There was no pursuit. The Row did not discipline her, beca
 
 She walked out of Collector's Row with the field ledger she was supposed to return and the glove she was supposed to hand in, and nobody stopped her, because in a district built on exact accounting nobody could produce a line item for a Collector who had stopped believing the arithmetic.
 
-[him] You will not last a week without the Row.
+> **[him]** "You will not last a week without the Row."
 
-[Zyrak] I know.
+> **[Zyrak]** "I know."
 
-[him] Then why?
+> **[him]** "Then why?"
 
-[Zyrak] Because the arithmetic is correct.
+> **[Zyrak]** "Because the arithmetic is correct."
 
-[him] That is not an answer.
+> **[him]** "That is not an answer."
 
-[Zyrak] It is the only answer I have. Everything the Row did to that child was correct. Every form, every signature, every scale reading. If I stay, I will do it again, and I will do it correctly.
+> **[Zyrak]** "It is the only answer I have. Everything the Row did to that child was correct. Every form, every signature, every scale reading. If I stay, I will do it again, and I will do it correctly."
 
 He did not stop her either.
 
@@ -211,13 +211,13 @@ The body is 0% organic tissue. Han-crystal and sorrow-forged metal, a soul fused
 
 She woke in it at 06:00 and the first thing she did was ask for the glove.
 
-[him] It will not work.
+> **[him]** "It will not work."
 
-[Zyrak] I know.
+> **[Zyrak]** "I know."
 
-[him] Then why?
+> **[him]** "Then why?"
 
-[Zyrak] Because I want to know what it feels like when it does not.
+> **[Zyrak]** "Because I want to know what it feels like when it does not."
 
 They brought it. She put it on. The channels seated against the wrist ports and lit and delivered nothing, because there was no hand for the toll to travel through, and the glove — which had been designed to make a person feel what they take — had been defeated by a person who had asked, in writing, to stop feeling it.
 
@@ -231,13 +231,13 @@ She did not feel lighter. She felt the same weight in a body that could not repo
 
 The work resumed within the month, under a different word for the same motion.
 
-[Zyrak] Extraction report. I pulled a β-grade M.A.W. from Entity 028 today. The Cracked Hourglass.
+> **[Zyrak]** "Extraction report. I pulled a β-grade M.A.W. from Entity 028 today. The Cracked Hourglass."
 
-[Seiyon] M.A.W. stored. Extraction efficiency: 94%.
+> **[Seiyon]** "M.A.W. stored. Extraction efficiency: 94%."
 
-[Zyrak] It fought me. The Hourglass didn't want to give up its time.
+> **[Zyrak]** "It fought me. The Hourglass didn't want to give up its time."
 
-[Majin] It never does. Good work, Zyrak.
+> **[Majin]** "It never does. Good work, Zyrak."
 
 She filed the report and went back to the Hall and cleaned the channels, which is a procedure with no operational purpose. The crimson in the palm channels does not come out. The pale at the fingertips does not come back. She does it anyway, every time, with a brush the size of a pen, because it is the only ritual she has that admits the marks are there.
 
@@ -245,29 +245,33 @@ She filed the report and went back to the Hall and cleaned the channels, which i
 
 ### Day 31 — Hold Still, Again
 
-[Zyrak] Extraction report. Entity 034 — The Convergence — attempted to form today.
+> **[Zyrak]** "Extraction report. Entity 034 — The Convergence — attempted to form today."
 
-[Majin] Status?
+> **[Majin]** "Status?"
 
-[Zyrak] Prevented. I separated the Three Birds before they could merge. But it was close.
+> **[Zyrak]** "Prevented. I separated the Three Birds before they could merge. But it was close."
 
-[Majin] Which bird initiated?
+> **[Majin]** "Which bird initiated?"
 
-[Zyrak] The Weighting Bird. Its scales tipped toward Judgment. The Observing Bird opened eighty-eight eyes. The Guarding Bird's beak was already through the cell divider.
+> **[Zyrak]** "The Weighting Bird. Its scales tipped toward Judgment. The Observing Bird opened eighty-eight eyes. The Guarding Bird's beak was already through the cell divider."
 
-[Majin] How did you stop them?
+> **[Majin]** "How did you stop them?"
 
-[Zyrak] Extraction lance at maximum output. I drove it between the Weighting Bird and the divider. Cost me three capacitors and half my left bracer.
+> **[Zyrak]** "Extraction lance at maximum output. I drove it between the Weighting Bird and the divider."
 
-[Majin] And the lance?
+She turned the bracer over and let the light catch the scorched seam where the plating had gone.
 
-[Zyrak] Intact. But the birds... they're singing together now. Even through the soundproofing. When one chirps, the other two answer.
+> **[Zyrak]** *"Cost me three capacitors and half my left bracer."*
 
-[Majin] Increase acoustic isolation by 40%. Double the dampening gel in the conduit between their cells.
+> **[Majin]** "And the lance?"
 
-[Zyrak] Gel won't stop it forever, Director. They want to be whole. Everything in this place wants to be whole.
+> **[Zyrak]** "Intact. But the birds... they're singing together now. Even through the soundproofing. When one chirps, the other two answer."
 
-[Majin] Not yet.
+> **[Majin]** "Increase acoustic isolation by 40%. Double the dampening gel in the conduit between their cells."
+
+> **[Zyrak]** *"Gel won't stop it forever, Director. They want to be whole. Everything in this place wants to be whole."*
+
+> **[Majin]** "Not yet."
 
 She did not file what she said to the Birds while she drove the lance between them. It was not an operational remark. It was the sentence her profession gives you when your hands are about to do something the subject cannot consent to.
 
@@ -279,29 +283,35 @@ After the report she stood in the corridor outside the Birds' cells for eleven m
 
 That was the first time she said the other sentence out loud, to no one, in an empty corridor:
 
-[Zyrak] Every time. For 1,778 iterations.
+> **[Zyrak]** *"Every time. For 1,778 iterations."*
 
 ### Day 60 — The Lost Prince
 
-[Zyrak] Extraction report. Entity 045 — The Lost Prince — approached me today.
+> **[Zyrak]** "Extraction report. Entity 045 — The Lost Prince — approached me today."
 
-[Majin] Approached you how?
+> **[Majin]** "Approached you how?"
 
-[Zyrak] It walked to the containment glass, pressed its face against the pane, and asked: *"Where did they go?"*
+> **[Zyrak]** "It walked to the containment glass, pressed its face against the pane, and asked: *'Where did they go?'*"
 
-[Majin] It asks that of everyone, Zyrak.
+> **[Majin]** "It asks that of everyone, Zyrak."
 
-[Zyrak] Not like this. It pointed at my arm. The metal one. It said: *"You replaced the parts that remembered how to touch them."*
+> **[Zyrak]** "Not like this. It pointed at my arm. The metal one. It said: *'You replaced the parts that remembered how to touch them.'*"
 
-[Majin] ...What did you tell it?
+> **[Majin]** *"...What did you tell it?"*
 
-[Zyrak] I told him the truth. I told him they went into the stone. And that if we finish this machine... they can come back out.
+> **[Zyrak]** "I told him the truth. I told him they went into the stone."
 
-[Majin] Did he believe you?
+She looked at the glass when she said the second half, not at the channel.
 
-[Zyrak] He smiled. A little boy's smile. Then he went back to his stool and started crying black oil again. Director... can we bring them out? Any of them?
+> **[Zyrak]** "And that if we finish this machine... they can come back out."
 
-[Majin] We finish the Absolvohan, Zyrak. That is the only promise I have kept for 1,778 cycles.
+> **[Majin]** "Did he believe you?"
+
+> **[Zyrak]** "He smiled. A little boy's smile. Then he went back to his stool and started crying black oil again."
+
+> **[Zyrak]** *"Director... can we bring them out? Any of them?"*
+
+> **[Majin]** "We finish the Absolvohan, Zyrak. That is the only promise I have kept for 1,778 cycles."
 
 She went back to the Hall afterward and did not clean the channels, which was the first time she had skipped it in twenty-nine years.
 
@@ -315,47 +325,53 @@ The technician who keeps the case clean is named Dahye. She came to Floor 3 four
 
 She has one habit that marks her: she records the things the forms do not ask for.
 
-[Dahye] Lead. The source in Bay 6 is at 61% and falling. Your order is to continue.
+> **[Dahye]** "Lead. The source in Bay 6 is at 61% and falling. Your order is to continue."
 
-[Zyrak] My order is to continue if the source remains viable.
+> **[Zyrak]** "My order is to continue if the source remains viable."
 
-[Dahye] Viability threshold is 55%.
+> **[Dahye]** "Viability threshold is 55%."
 
-[Zyrak] Then I have six points.
+> **[Zyrak]** "Then I have six points."
 
 She did not use the six points. She stopped the extraction with the item half-formed, logged it as `aborted — source distress`, and filed it to Majin with the failure envelope on the first page. The registry recorded a loss of one β-grade partial.
 
-[Dahye] Why did you stop? It was within tolerance.
+> **[Dahye]** "Why did you stop? It was within tolerance."
 
-[Zyrak] The tolerance was written by people who do not stand where I stand.
+> **[Zyrak]** "The tolerance was written by people who do not stand where I stand."
 
-[Dahye] ...That is not in the manual.
+> **[Dahye]** *"...That is not in the manual."*
 
-[Zyrak] No. It is in the case on the wall.
+> **[Zyrak]** "No. It is in the case on the wall."
+
+She said it without raising her voice, and the half-formed item went into the seal bag and the seal bag went onto the trolley, and neither of them looked at it.
 
 This is the only scene in which Zyrak explains the glove, and she explains it badly, because the explanation requires her to say what she was before she was made of metal, and she has never found a version of that sentence that does not sound like an excuse.
 
-[Zyrak] I used to wear it. It makes you feel a fraction of what you take. I was the best Collector in the Row, so I wore it for eleven years.
+> **[Zyrak]** "I used to wear it. It makes you feel a fraction of what you take. I was the best Collector in the Row, so I wore it for eleven years."
 
-[Dahye] And it hurt?
+> **[Dahye]** "And it hurt?"
 
-[Zyrak] Yes.
+> **[Zyrak]** "Yes."
 
-[Dahye] And you kept going?
+> **[Dahye]** "And you kept going?"
 
-[Zyrak] Every day, and I was commended for it.
+> **[Zyrak]** "Every day, and I was commended for it."
 
 Dahye looked at the hands, and at the case, and then asked the question that the record keeps because it is the only counter-memory in this file that comes from someone who was not there.
 
-[Dahye] You stopped today, though. Nobody made you. There is no rule that says you have to stop at 61%.
+> **[Dahye]** "You stopped today, though. Nobody made you. There is no rule that says you have to stop at 61%."
 
-[Zyrak] There is no rule that says I have to continue either.
+> **[Zyrak]** "There is no rule that says I have to continue either."
 
-[Dahye] That is not what I asked.
+> **[Dahye]** "That is not what I asked."
 
-[Zyrak] I know.
+> **[Zyrak]** "I know."
 
-[Dahye] Then I will record it. *Lead Zyrak elected to abort an authorized extraction at 61% source stability, on her own judgment, with no procedural requirement to do so.* If you are going to be ashamed of yourself, you can be ashamed accurately.
+> **[Dahye]** "Then I will record it. *Lead Zyrak elected to abort an authorized extraction at 61% source stability, on her own judgment, with no procedural requirement to do so.*"
+
+She read it back the way a technician reads back a figure she intends to hold someone to.
+
+> **[Dahye]** **"If you are going to be ashamed of yourself, you can be ashamed accurately."**
 
 She wrote it. Zyrak read it and did not correct it.
 
@@ -363,21 +379,21 @@ The record notes what neither of them said: that the technician had just done to
 
 ### Day 103 — The Vision
 
-[Zyrak] Extraction report. Entity 044 — The Dawn of Mourning — has never formed in this cycle.
+> **[Zyrak]** "Extraction report. Entity 044 — The Dawn of Mourning — has never formed in this cycle."
 
-[Majin] Correct. The Kind Healer's blessing count is at ten.
+> **[Majin]** "Correct. The Kind Healer's blessing count is at ten."
 
-[Zyrak] But Director... I had a vision last night.
+> **[Zyrak]** "But Director... I had a vision last night."
 
-[Majin] You're an android, Zyrak. Your neural core is synthetic carbon-matrix. You don't have dreams.
+> **[Majin]** "You're an android, Zyrak. Your neural core is synthetic carbon-matrix. You don't have dreams."
 
-[Zyrak] It wasn't a dream. It was a cognitive overload during core defragmentation. I saw the Absolvohan fire. But it didn't shoot a beam of destruction into the sky. It spread... like mist. Like warm rain over the Desolate.
+> **[Zyrak]** "It wasn't a dream. It was a cognitive overload during core defragmentation. I saw the Absolvohan fire. But it didn't shoot a beam of destruction into the sky. It spread... like mist. Like warm rain over the Desolate."
 
-[Majin] Explain.
+> **[Majin]** "Explain."
 
-[Zyrak] The sorrow didn't corrupt what it touched. It transformed. The ash turned to fertile silt. The rusted metal sprouted green moss. The citizens didn't weep — they breathed. Majin... what if AY-001 isn't an execution?
+> **[Zyrak]** "The sorrow didn't corrupt what it touched. It transformed. The ash turned to fertile silt. The rusted metal sprouted green moss. The citizens didn't weep — they breathed. Majin... what if AY-001 isn't an execution?"
 
-[Majin] ...
+The channel stayed open with nothing in it for four seconds. She listened to the empty carrier tone and did not fill it, because she had learned what happened to people who filled the Director's silences for him. Four seconds. The channel closed from his end.
 
 The record does not know what caused the vision and does not supply a cause.
 
@@ -389,21 +405,27 @@ After the report, Majin asked whether she wanted the vision filed under her name
 
 ### Day 132 — The Math Breaks
 
-[Zyrak] Extraction report. Entity 034 — The Convergence — did not attempt to form today.
+> **[Zyrak]** "Extraction report. Entity 034 — The Convergence — did not attempt to form today."
 
-[Majin] ...What?
+> **[Majin]** *"...What?"*
 
-[Zyrak] The Three Birds are... completely passive. The Observing Bird has eighty-eight of its eyes closed. The Weighting Bird's scale is resting at zero. The Guarding Bird is preening its feathers.
+> **[Zyrak]** "The Three Birds are... completely passive."
 
-[Majin] Why? What changed?
+She read the rest of it without looking up, the way she read readings.
 
-[Zyrak] They're watching the Cheonbulok refugees through the secondary floor grates. The refugees are working in the lower maintenance bays — laughing, sharing soup, bandaging each other's hands. The Birds have never—
+> **[Zyrak]** "The Observing Bird has eighty-eight of its eyes closed. The Weighting Bird's scale is resting at zero. The Guarding Bird is preening its feathers."
 
-[Majin] In the Black Forest... the birds judged, punished, and blinded because they believed people were inherently treacherous.
+> **[Majin]** "Why? What changed?"
 
-[Zyrak] And now they see people who should be killing each other sharing bread. The math broke, Majin. Their justification for the Convergence just dissolved.
+> **[Zyrak]** "They're watching the Cheonbulok refugees through the secondary floor grates. The refugees are working in the lower maintenance bays — laughing, sharing soup, bandaging each other's hands. The Birds have never—"
 
-[Majin] ...Then do not disturb them. Let them watch.
+> **[Majin]** "In the Black Forest... the birds judged, punished, and blinded because they believed people were inherently treacherous."
+
+> **[Zyrak]** "And now they see people who should be killing each other sharing bread."
+
+> **[Zyrak]** *"The math broke, Majin. Their justification for the Convergence just dissolved."*
+
+> **[Majin]** "...Then do not disturb them. Let them watch."
 
 She did not disturb them.
 
@@ -411,21 +433,21 @@ This is the smallest action in the file and the hardest one: for the first time 
 
 ### Day 170 — Not the Convergence
 
-[Zyrak] Extraction report. The Three Birds have... merged.
+> **[Zyrak]** "Extraction report. The Three Birds have... merged."
 
-[Majin] Did the Convergence form?
+> **[Majin]** "Did the Convergence form?"
 
-[Zyrak] No. Not the Convergence. Something entirely new. Look upon Floor 2, Director.
+> **[Zyrak]** "No. Not the Convergence. Something entirely new. Look upon Floor 2, Director."
 
-[Majin] ...
+Majin took three steps toward the observation glass and stopped, and the recording of the Floor 3 channel picks up his breath and nothing else.
 
-[Zyrak] The Observing Bird gave its eyes of wisdom. The Weighting Bird gave its scales of judgment. The Guarding Bird gave its wings of protection. They merged into a single celestial being of iridescent white feathers.
+> **[Zyrak]** "The Observing Bird gave its eyes of wisdom. The Weighting Bird gave its scales of judgment. The Guarding Bird gave its wings of protection. They merged into a single celestial being of iridescent white feathers."
 
-[Majin] Hope Transformation HT-V-HC-001: The Trinity of Dawn.
+> **[Majin]** "Hope Transformation HT-V-HC-001: The Trinity of Dawn."
 
-[Zyrak] It walked out of the containment cell, Majin. It didn't breach the door — the door simply turned to golden dust before it. It's floating through the corridors, touching the specialists' foreheads. Every agent it touches is...
+> **[Zyrak]** "It walked out of the containment cell, Majin. It didn't breach the door — the door simply turned to golden dust before it. It's floating through the corridors, touching the specialists' foreheads. Every agent it touches is..."
 
-[Majin] Let it walk, Zyrak. The facility is no longer a cage. It is a sanctuary.
+> **[Majin]** "Let it walk, Zyrak. The facility is no longer a cage. It is a sanctuary."
 
 She did not say *hold still.* She did not drive anything between them.
 
@@ -435,7 +457,7 @@ What she did was walk to the corridor where the Trinity of Dawn was passing, and
 
 She said it anyway.
 
-[Zyrak] I'm sorry.
+> **[Zyrak]** *"I'm sorry."*
 
 The record does not say that the Trinity forgave her, because the Trinity did not do that. It touched her forehead the way it touched the specialists' foreheads and moved on down the corridor, and what she felt under the touch was load and position, not warmth.
 
@@ -447,9 +469,9 @@ At the first real anniversary after the Cycle, the facility marked a year that h
 
 Majin gave the doctrine, which the record files as doctrine and not as a cure: the Directorate would live, work, contain sorrow, and extract hope.
 
-[Zyrak] And the Absolvohan?
+> **[Zyrak]** "And the Absolvohan?"
 
-[Majin] The Absolvohan is a hand, Zyrak. A hand holds. It does not shoot.
+> **[Majin]** "The Absolvohan is a hand, Zyrak. A hand holds. It does not shoot."
 
 She had asked the question because the machine was still there, beneath the floor, empty and open, and because an institution that has learned a new word is not yet an institution that has changed its hands.
 
@@ -666,6 +688,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - No age, no year before the Directorate, no personal M.A.W., no mutation, and no resolution of the memory-extraction secret.
 - Table rows close with a pipe; no Act, Chapter, or Part label inside a scene; no report scaffolding inside the narrative.
 - Canonical dossier unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 107 dialogue lines, of which 9 are at dropped volume (italic) and 1 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note
 

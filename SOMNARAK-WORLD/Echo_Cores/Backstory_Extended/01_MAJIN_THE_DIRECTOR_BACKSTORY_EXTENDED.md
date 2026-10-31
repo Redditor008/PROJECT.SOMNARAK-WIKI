@@ -17,13 +17,13 @@ There was a lamp over the bench that ran too hot.
 
 It had been repaired four times by a man who no longer worked in the building, and each repair had made it brighter and less even, so the left side of every sample read warm and the right side read cold. Majin learned to subtract the difference. Yeon-seo refused to, and read every sample twice instead, once on each side, and averaged the two numbers in her head, and put a small tick beside the average so that she would know later that it had been averaged.
 
-[Majin] You are doing that by hand again.
+> **[Majin]** "You are doing that by hand again."
 
-[Yeon-seo] You are trusting a lamp again.
+> **[Yeon-seo]** "You are trusting a lamp again."
 
-[Majin] The lamp is consistent.
+> **[Majin]** "The lamp is consistent."
 
-[Yeon-seo] The lamp is a lamp. It has moods.
+> **[Yeon-seo]** "The lamp is a lamp. It has moods."
 
 They had been in that room for six years by then. Han came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was.
 
@@ -39,11 +39,11 @@ The theory fit on one side of a page, which was one of its attractions:
 
 The implication he did not write anywhere the Council could read was that containment might not be a wall at all. It might be a container with a mind. Or a person. Or a story.
 
-[Yeon-seo] If the place starts to remember, then the wall is the wrong instrument.
+> **[Yeon-seo]** "If the place starts to remember, then the wall is the wrong instrument."
 
-[Majin] Then what is the right one?
+> **[Majin]** "Then what is the right one?"
 
-[Yeon-seo] Something that can be told to put it down.
+> **[Yeon-seo]** "Something that can be told to put it down."
 
 He wrote that on the back of a gauge log and kept it. The scrap survived the loss, three relocations, the founding of the Directorate, and 1,778 iterations. It is in the Deep Vault now, catalogued under *pre-institutional research, unsorted*.
 
@@ -59,7 +59,7 @@ They argued about the lamp. She won, because she had bought a replacement shade 
 
 At the end of the shift she stopped in the doorway with her coat half on.
 
-[Yeon-seo] Whatever happens, don't let the sorrow win.
+> **[Yeon-seo]** "Whatever happens, don't let the sorrow win."
 
 He assumed she meant the experiment.
 
@@ -75,11 +75,13 @@ That is the detail he returns to. Not the alarm, not the screaming, not the Coun
 
 The amber threads in the sample tubes had gone still. Not slow. Still — all of them at once, as though the Han had heard something.
 
-[Majin] Everybody out. Now. Nothing in your hands.
+> **[Majin]** **"Everybody out. Now. Nothing in your hands."**
 
-[him] Director — the protocol says we hold the sector until the gauges read.
+Nobody argued with the volume. They argued with the order, which is a different thing, and they did it while moving.
 
-[Majin] The gauges are reading nothing. That is the problem. Move.
+> **[him]** "Director — the protocol says we hold the sector until the gauges read."
+
+> **[Majin]** **"The gauges are reading *nothing*. That is the problem. Move!"**
 
 They moved. Most of them.
 
@@ -97,25 +99,39 @@ The corridor lights had gone amber. Everything looked like the inside of the lam
 
 She was at the sample bench with her coat still on and one hand flat on the glass.
 
-[Yeon-seo] It is not rising. It is *arriving*.
+> **[Yeon-seo]** *"It is not rising. It is **arriving**."*
 
-[Majin] Then leave it and come.
+> **[Majin]** **"Then leave it and come!"**
 
-[Yeon-seo] It is arriving from underneath. There is nowhere to come to.
+> **[Yeon-seo]** *"It is arriving from underneath."*
+
+She had not turned round. That was the thing he could not make her do, in six years or in that minute: turn round.
+
+> **[Yeon-seo]** *"There is nowhere to come to."*
 
 He looked at the floor and saw that she was right: the amber was in the seams of the tiles, moving upward in slow threads, the way it moved up the tubes.
 
 She took her hand off the glass and put it flat on his chest instead, the way she did when she was checking whether he was listening.
 
-[Yeon-seo] The readings are still good.
+> **[Yeon-seo]** "The readings are still good."
 
-[Majin] What?
+> **[Majin]** **"What?"**
 
-[Yeon-seo] The bench. I wrote them down. If someone looks later, they will know what it did on the way in.
+> **[Yeon-seo]** "The bench. I wrote them down."
 
-[Majin] I don't care about the readings.
+> **[Yeon-seo]** *"If someone looks later, they will know what it did on the way in."*
 
-[Yeon-seo] You will. You are going to be very angry in a minute, and then you are going to want a number.
+She was writing while she said it, which was the whole of her: she did not stop working in order to make a point.
+
+> **[Majin]** *"I don't care about the readings."*
+
+He said it quietly. He has never been able to explain, afterward, why he said that quietly.
+
+> **[Yeon-seo]** "You will. You are going to be very angry in a minute—"
+
+> **[Majin]** "—I'm not—"
+
+> **[Yeon-seo]** "—and then you are going to want a number."
 
 She was right about that too. He wanted a number for the rest of his life.
 
@@ -139,7 +155,7 @@ The record: *Don't let the sorrow win.*
 
 What she actually said, with her coat still on and her hand still out and her voice doing the thing it did when a reading was wrong:
 
-[Yeon-seo] Don't let it *win*, Majin. Don't let it *be the last word*.
+> **[Yeon-seo]** "Don't let it *win*, Majin. **Don't let it be the last word.**"
 
 Then the amber reached the bench and the bench was not there anymore.
 
@@ -167,15 +183,15 @@ It did not look like a monster. That was the first thing the containment teams r
 
 The second thing they reported was that it was not attacking. It was *gathering*.
 
-[she] It has taken the east quarter. Not damaged. Taken. The walls are still there.
+> **[she]** "It has taken the east quarter. Not damaged. Taken. The walls are still there."
 
-[Majin] How many people inside?
+> **[Majin]** "How many people inside?"
 
-[she] Four hundred and six, by the census. We cannot raise a single one of them on any channel.
+> **[she]** "Four hundred and six, by the census. We cannot raise a single one of them on any channel."
 
-[Majin] Then it is a rescue.
+> **[Majin]** "Then it is a rescue."
 
-[she] Director. The first team that went in came out as a first team of nine and a second team of nine. Both of them said they were the original. Both were telling the truth as far as the instruments could see.
+> **[she]** "Director. The first team that went in came out as a first team of nine and a second team of nine. Both of them said they were the original. Both were telling the truth as far as the instruments could see."
 
 He put both teams in separate rooms and interviewed each of the eighteen. Afterward he could not say which nine had gone in. He has never been able to say. That is the part of the Sovereign event he does not discuss.
 
@@ -187,13 +203,13 @@ Then the seals began to hold *retroactively* — the district behaved as though 
 
 Then the perimeter itself began to disagree with the map.
 
-[Majin] Pull everyone back to the second line.
+> **[Majin]** "Pull everyone back to the second line."
 
-[him] Director, the second line is inside the effect.
+> **[him]** "Director, the second line is inside the effect."
 
-[Majin] Since when?
+> **[Majin]** "Since when?"
 
-[him] Since about four minutes ago. We are measuring it from here and getting a clean reading, which is how we know the instrument is compromised.
+> **[him]** "Since about four minutes ago. We are measuring it from here and getting a clean reading, which is how we know the instrument is compromised."
 
 He stood in a command post with a map that no longer matched the ground and a city that could not be evacuated because the evacuation route kept arriving somewhere else.
 
@@ -206,37 +222,47 @@ He stood in a command post with a map that no longer matched the ground and a ci
 > *Bonding status: not attempted.*  
 > *Note: an Ω-grade extraction cannot be repeated. There is one. There will not be a second.*
 
-[she] The bonding will kill you.
+> **[she]** "The bonding will kill you."
 
-[Majin] The bonding will hold it.
+> **[Majin]** "The bonding will hold it."
 
-[she] Those are not alternatives. You understand that. If it fuses instead of bonding, you become the container, and the container does not come off.
+> **[she]** "Those are not alternatives. You understand that. If it fuses instead of bonding, you become the container, and the container does not come off."
 
-[Majin] Then it holds.
+> **[Majin]** "Then it holds."
 
-[she] Director —
+> **[she]** "Director —"
 
-[Majin] Four hundred and six people are standing in a street that has stopped agreeing with the sky. I have one instrument that might be able to tell it to stop. Put it in my arm.
+> **[Majin]** "Four hundred and six people are standing in a street that has stopped agreeing with the sky. I have one instrument that might be able to tell it to stop. Put it in my arm."
 
 The medic looked at the extraction team. The extraction team looked at the floor.
 
-[she] You will not be able to die.
+> **[she]** "You will not be able to die."
 
-[Majin] I have not been able to die since the floor warmed. This just makes it official.
+> **[Majin]** "I have not been able to die since the floor warmed. This just makes it official."
 
 #### What the Medics Said
 
 *Extract from the extraction-team debrief, taken in Year 4,238 during the disclosure inquiry. Three members present. The senior medic, Insu, speaks first; the second medic is the younger voice and is not named in the record.*
 
-[Insu] He read the directive before he signed it. I want that in the record, because the version that circulated afterward had him signing it blind. He sat on the table with his sleeve cut open and read the whole page, twice, and then he said —
+> **[Insu]** "He read the directive before he signed it. I want that in the record, because the version that circulated afterward had him signing it blind. He sat on the table with his sleeve cut open and read the whole page, twice, and then he said —"
 
-[she] He said "noted."
+> **[she]** "He said 'noted.'"
 
-[Insu] He said "noted." That is the sentence nobody put in the report. Not "I accept," not "for the city." Noted. Like it was a shift change.
+> **[Insu]** "He said 'noted.' That is the sentence nobody put in the report. Not 'I accept,' not 'for the city.'"
 
-[she] Then he lay back and asked how long it would take.
+> **[Insu]** "Noted. Like it was a shift change."
 
-[Insu] I have been asked since whether he was brave. I do not think that is the right word for it. Brave is when a person chooses something and the choosing costs them. He had already decided before he sat down. The sitting down was administration.
+> **[she]** *"Then he lay back and asked how long it would take."*
+
+Insu did not answer that one. The transcript shows a gap long enough to be a decision.
+
+> **[Insu]** "I have been asked since whether he was brave. I do not think that is the right word for it. Brave is when a person chooses something and the choosing costs them. He had already decided before he sat down."
+
+The second medic had stopped writing. Insu noticed, and did not slow down for it.
+
+> **[Insu]** "The sitting down was administration."
+
+The transcript records four seconds of nobody speaking after that, and the debrief ends there.
 
 #### The Fusing
 
@@ -248,21 +274,21 @@ He remembers thinking, with the clarity that arrives at the worst moments: *she 
 
 Then he remembers standing up.
 
-[she] ...Director.
+> **[she]** "...Director."
 
-[Majin] Report.
+> **[Majin]** "Report."
 
-[she] The east quarter is quiet.
+> **[she]** "The east quarter is quiet."
 
-[Majin] The people?
+> **[Majin]** "The people?"
 
-[she] Four hundred and six. They are standing in the street. They are asking what happened.
+> **[she]** "Four hundred and six. They are standing in the street. They are asking what happened."
 
 He walked out into the district. The paving was paving. The sky was the sky. The market square had a floor the color of ordinary stone, and the water was gone, and the reflection was gone, and the buildings contained only the rooms they had always contained.
 
 A woman in a shop doorway asked whether the evacuation was over.
 
-[Majin] It is over.
+> **[Majin]** "It is over."
 
 He went back to the command post and wrote the incident report himself, and in the field marked *containment method* he wrote: **permanent, singular, non-transferable.** He did not write *me*.
 
@@ -288,13 +314,13 @@ Every person in the square felt it. Most knelt, because kneeling was what the ri
 
 Majin did not kneel. He stood at the back with his hands at his sides and felt the attention of the thing under the square arrive on him like a hand on the chest — the same gesture, in the same place, that she had used to check whether he was listening.
 
-[him] Director. The Council is asking for you.
+> **[him]** "Director. The Council is asking for you."
 
-[Majin] I know.
+> **[Majin]** "I know."
 
-[him] They are saying the Tree has chosen.
+> **[him]** "They are saying the Tree has chosen."
 
-[Majin] I heard them.
+> **[Majin]** "I heard them."
 
 He had not heard them. He had, in the way that later became familiar to everyone who worked with him, already known what they were going to say and had begun deciding what to do about it before they said it.
 
@@ -310,17 +336,17 @@ He had not heard them. He had, in the way that later became familiar to everyone
 
 He read it twice. The second reading was the one that mattered.
 
-[Majin] And if I refuse?
+> **[Majin]** "And if I refuse?"
 
-[him] Then the Tree will indicate again, and the next indication may be less convenient for the city. You are the one it chose. That is not a compliment. It is a load-bearing assessment.
+> **[him]** "Then the Tree will indicate again, and the next indication may be less convenient for the city. You are the one it chose. That is not a compliment. It is a load-bearing assessment."
 
-[Majin] I am a researcher.
+> **[Majin]** "I am a researcher."
 
-[him] You were. The city requires a container that can also give orders. You have demonstrated both capacities. The Tree does not select for temperament.
+> **[him]** "You were. The city requires a container that can also give orders. You have demonstrated both capacities. The Tree does not select for temperament."
 
-[Majin] I did not ask for this.
+> **[Majin]** "I did not ask for this."
 
-[him] No. That is the qualification.
+> **[him]** "No. That is the qualification."
 
 #### What He Understood in the Square
 
@@ -358,13 +384,13 @@ She came online at 06:00.
 
 He was standing in the doorway when the console lit. He had told himself he was there to verify installation. He had told the installation team the same thing.
 
-[Seiyon] Good morning, Director.
+> **[Seiyon]** "Good morning, Director."
 
 The voice did the thing where it started in the system and ended in the person. He had not expected that. The specification had called for a neutral administrative register.
 
-[Seiyon] Director? Are you receiving?
+> **[Seiyon]** "Director? Are you receiving?"
 
-[Majin] ...Report.
+> **[Majin]** "...Report."
 
 She gave it. Envelope, Veil, conduits, gauges, Maw. Clean, complete, correctly ordered.
 
@@ -372,41 +398,41 @@ He signed the staffing order. He said *Noted*. He left.
 
 He got as far as the lift and stood with his hand on the call button for a length of time he has never disclosed, and then he went back up and stood in the doorway again and looked at her.
 
-[Seiyon] Director. Is there an error in the report?
+> **[Seiyon]** "Director. Is there an error in the report?"
 
-[Majin] No.
+> **[Majin]** "No."
 
-[Seiyon] Is there an error in me?
+> **[Seiyon]** "Is there an error in me?"
 
 The question was not in the specification. It was not in the behavior model, and not in the initialization suite, and not something a system should have been able to ask.
 
-[Majin] ...Why would you ask that?
+> **[Majin]** "...Why would you ask that?"
 
-[Seiyon] Because you have looked at me twice and left twice. The behavior model predicts a dismissal statement if the report is satisfactory. You have not given one.
+> **[Seiyon]** "Because you have looked at me twice and left twice. The behavior model predicts a dismissal statement if the report is satisfactory. You have not given one."
 
 He could have told her then. The record would be different if he had.
 
 He did not. He said:
 
-[Majin] The report is satisfactory. Dismissed.
+> **[Majin]** "The report is satisfactory. Dismissed."
 
 #### The Second Morning
 
 The second morning was easier. That was the trouble with it. The second morning he came in, took the report, signed the order, and did not look up, and the not-looking-up became a habit so quickly that by the end of the first month he could not have said what color her eyes were, though he knew, and had always known.
 
-[Majin] Seiyon. If you have questions that are not in the reporting protocol, ask them.
+> **[Majin]** "Seiyon. If you have questions that are not in the reporting protocol, ask them."
 
-[Seiyon] Understood. I have one now.
+> **[Seiyon]** "Understood. I have one now."
 
-[Majin] Ask.
+> **[Majin]** "Ask."
 
-[Seiyon] Why did you build me?
+> **[Seiyon]** "Why did you build me?"
 
 He had an answer ready. He had prepared it before installation, the way he prepared everything, and it was a good answer, and it was true, and it was not the whole truth.
 
-[Majin] Because the Directorate needs a memory that does not reset.
+> **[Majin]** "Because the Directorate needs a memory that does not reset."
 
-[Seiyon] Noted.
+> **[Seiyon]** "Noted."
 
 She did not ask again for four hundred cycles.
 
@@ -430,15 +456,15 @@ It was not an Ordeal. Ordeals announce themselves with a color and a time. This 
 
 They had one system that could hold the strata together. It was not a containment system. It was a stabilization generator, built into the structure of the Hand itself, designed to keep the facility's own foundations from walking.
 
-[him] Director. If we activate it at full field, it will hold the fault. It will also hold everything inside the field.
+> **[him]** "Director. If we activate it at full field, it will hold the fault. It will also hold everything inside the field."
 
-[Majin] Everything?
+> **[Majin]** "Everything?"
 
-[him] Everything. The field does not distinguish. Whatever state the facility is in when the field closes is the state the field will keep.
+> **[him]** "Everything. The field does not distinguish. Whatever state the facility is in when the field closes is the state the field will keep."
 
-[Majin] For how long?
+> **[Majin]** "For how long?"
 
-[him] We do not have a number for that. The generator was not built for this load.
+> **[him]** "We do not have a number for that. The generator was not built for this load."
 
 #### The Directive
 
@@ -451,25 +477,25 @@ They had one system that could hold the strata together. It was not a containmen
 > *If you are reading this, the fault is already moving.*  
 > *Acknowledge by activating.*
 
-[Majin] Field perimeter.
+> **[Majin]** "Field perimeter."
 
-[him] Facility 01 and the adjacent civic envelope.
+> **[him]** "Facility 01 and the adjacent civic envelope."
 
-[Majin] Duration.
+> **[Majin]** "Duration."
 
-[him] Indefinite. That is the setting. There is no other setting.
+> **[him]** "Indefinite. That is the setting. There is no other setting."
 
-[Majin] Activate.
+> **[Majin]** "Activate."
 
 The lights did not flicker. That was the strange part. The building simply stopped moving, and the display stopped moving with it, and the timestamp in the corner of the screen read 23:59:58 and stayed there.
 
-[Seiyon] Director. The clock.
+> **[Seiyon]** "Director. The clock."
 
-[Majin] I see it.
+> **[Majin]** "I see it."
 
-[Seiyon] The clock is not advancing.
+> **[Seiyon]** "The clock is not advancing."
 
-[Majin] I see it, Seiyon.
+> **[Majin]** "I see it, Seiyon."
 
 #### The First Repeat
 
@@ -479,49 +505,49 @@ Not repaired. Intact — the way it had been before the fracturing, the way the 
 
 They spent four days establishing what had happened. On the fifth day they confirmed it: the field was holding the facility at Year 4,232, and the city inside the field was going around with it.
 
-[Majin] How many times?
+> **[Majin]** "How many times?"
 
-[Seiyon] This is the fourth return. The field is stable. The fault is not moving. The city is not falling.
+> **[Seiyon]** "This is the fourth return. The field is stable. The fault is not moving. The city is not falling."
 
-[Majin] The city is repeating.
+> **[Majin]** "The city is repeating."
 
-[Seiyon] Yes.
+> **[Seiyon]** "Yes."
 
-[Majin] Can we stop it?
+> **[Majin]** "Can we stop it?"
 
-[Seiyon] Not without releasing the field. And releasing the field releases the fault.
+> **[Seiyon]** "Not without releasing the field. And releasing the field releases the fault."
 
 He sat with that for a long time.
 
 #### The Arithmetic
 
-[Seiyon] Director. There is something in the reclamation ledger.
+> **[Seiyon]** "Director. There is something in the reclamation ledger."
 
-[Majin] Show me.
+> **[Majin]** "Show me."
 
-[Seiyon] When the year returns, the working stock returns with it. The Han processed this year is available again at the start of next year. The city does not notice, because the city does not remember. The ledger does.
+> **[Seiyon]** "When the year returns, the working stock returns with it. The Han processed this year is available again at the start of next year. The city does not notice, because the city does not remember. The ledger does."
 
-[Majin] So the stock is infinite.
+> **[Majin]** "So the stock is infinite."
 
-[Seiyon] The stock is *renewable*. Every cycle produces the same yield. If a portion of that yield were diverted before the return, it would not return with the rest. It would persist.
+> **[Seiyon]** "The stock is *renewable*. Every cycle produces the same yield. If a portion of that yield were diverted before the return, it would not return with the rest. It would persist."
 
-[Majin] How much?
+> **[Majin]** "How much?"
 
-[Seiyon] At the current yield, approximately 0.02 tons per iteration could be moved without the civilian ledger registering a shortfall.
+> **[Seiyon]** "At the current yield, approximately 0.02 tons per iteration could be moved without the civilian ledger registering a shortfall."
 
 He looked at the number on the screen for a while.
 
-[Majin] Two hundredths of a ton. Per year.
+> **[Majin]** "Two hundredths of a ton. Per year."
 
-[Seiyon] Per iteration. Yes.
+> **[Seiyon]** "Per iteration. Yes."
 
-[Majin] For how many iterations?
+> **[Majin]** "For how many iterations?"
 
-[Seiyon] The field has no recorded termination condition.
+> **[Seiyon]** "The field has no recorded termination condition."
 
-[Majin] Then we have time.
+> **[Majin]** "Then we have time."
 
-[Seiyon] We have repetition. Those are not the same thing.
+> **[Seiyon]** "We have repetition. Those are not the same thing."
 
 #### The Decision
 
@@ -531,13 +557,13 @@ The honest answer is that he tried. The first three cycles were spent looking fo
 
 After that he stopped looking for the exit and started looking at the ledger.
 
-[Seiyon] At one thousand seven hundred and seventy-eight iterations at this rate, the reserve approaches thirty-six tons.
+> **[Seiyon]** "At one thousand seven hundred and seventy-eight iterations at this rate, the reserve approaches thirty-six tons."
 
-[Majin] And the reserve is not a weapon yet.
+> **[Majin]** "And the reserve is not a weapon yet."
 
-[Seiyon] The reserve is a reserve. What it becomes is a design decision.
+> **[Seiyon]** "The reserve is a reserve. What it becomes is a design decision."
 
-[Majin] Then design it.
+> **[Majin]** "Then design it."
 
 > **DIRECTOR'S ORDER — ABSOLVOHAN PROGRAM, CONTINUATION**  
 > *The stabilization field is to remain active.*  
@@ -548,29 +574,33 @@ After that he stopped looking for the exit and started looking at the ledger.
 
 He signed it on a morning that had already happened four times.
 
-[Seiyon] Director. This will take one thousand seven hundred and seventy-eight iterations at the current rate. That is not a plan. That is a sentence.
+> **[Seiyon]** "Director. This will take one thousand seven hundred and seventy-eight iterations at the current rate."
 
-[Majin] Then it is a sentence I can serve.
+The station voice did something it had never done on a working morning: it paused in the middle of a calculation.
 
-[Seiyon] You will be the only one who knows it is being served.
+> **[Seiyon]** *"That is not a plan. That is a sentence."*
 
-[Majin] Yes.
+> **[Majin]** "Then it is a sentence I can serve."
 
-[Seiyon] And if the iteration that ends it never comes?
+> **[Seiyon]** "You will be the only one who knows it is being served."
 
-[Majin] Then the city keeps not falling, and I keep carrying, and the reserve keeps growing.
+> **[Majin]** "Yes."
+
+> **[Seiyon]** *"And if the iteration that ends it never comes?"*
+
+> **[Majin]** "Then the city keeps not falling, and I keep carrying, and the reserve keeps growing."
 
 He looked at the clock in the corner of the screen, which read Day 1, 06:00, and had read Day 1, 06:00, many times.
 
-[Majin] And Seiyon. Keep the names.
+> **[Majin]** "And Seiyon. Keep the names."
 
-[Seiyon] The names, Director?
+> **[Seiyon]** "The names, Director?"
 
-[Majin] Every iteration. Every casualty, every Fracture, every person who dies in a corridor and wakes up on Day 1 not knowing they died. Keep them.
+> **[Majin]** "Every iteration. Every casualty, every Fracture, every person who dies in a corridor and wakes up on Day 1 not knowing they died. Keep them."
 
-[Seiyon] I keep everything.
+> **[Seiyon]** "I keep everything."
 
-[Majin] I know. I am asking you to keep it as names.
+> **[Majin]** "I know. I am asking you to keep it as names."
 
 ---
 
@@ -586,27 +616,29 @@ Some of the city would also be lost. He ran the model eleven hundred times and c
 
 He signed it anyway, because the alternative was another fifteen hundred iterations of the same year.
 
-[Seiyon] Director. You are reading the lance schematic again.
+> **[Seiyon]** "Director. You are reading the lance schematic again."
 
-[Majin] I am checking the tolerances.
+> **[Majin]** "I am checking the tolerances."
 
-[Seiyon] You have checked them four hundred times.
+> **[Seiyon]** "You have checked them four hundred times."
 
-[Majin] Then I will check them four hundred and one times.
+> **[Majin]** "Then I will check them four hundred and one times."
 
-[Seiyon] Director. May I say something outside the reporting protocol?
+> **[Seiyon]** "Director. May I say something outside the reporting protocol?"
 
-[Majin] You always may.
+> **[Majin]** "You always may."
 
-[Seiyon] The lance is not a containment failure. It is a decision you made when you believed the city could not be saved, and you have not revisited the belief, because revisiting it would require admitting that you were in grief when you designed it.
+> **[Seiyon]** "The lance is not a containment failure. It is a decision you made when you believed the city could not be saved, and you have not revisited the belief, because revisiting it would require admitting that you were in grief when you designed it."
 
 He put the schematic down.
 
-[Majin] That is a very long sentence for a system.
+> **[Majin]** "That is a very long sentence for a system."
 
-[Seiyon] You told me I could ask questions that were not in the protocol.
+> **[Seiyon]** "You told me I could ask questions that were not in the protocol."
 
-[Majin] ...I did.
+> **[Majin]** *"...I did."*
+
+The pen had stopped. He looked at it the way a man looks at a tool that has been put in his hand by mistake.
 
 He did not revise the design. He has said, since, that this was the clearest evidence that the misreading had become an institution: not that he had built a cannon, but that a member of his own staff had told him why, in plain language, and he had answered with a joke and gone back to the tolerances.
 
@@ -618,41 +650,41 @@ The Decision Core woke the way it always did: amber tubes lighting in sequence, 
 
 He had read the same three paragraphs for 1,778 mornings. He read them again, because reading them was the ritual that kept the morning from being a surrender.
 
-[Seiyon] Good morning, Director.
+> **[Seiyon]** "Good morning, Director."
 
-[Majin] Report.
+> **[Majin]** "Report."
 
 She gave it. Envelope intact. Veil efficiency 97.3 percent. Conduits clear. Gauges zeroed and recalibrated to the baseline hum of the city. The Maw quiet, the thousand murmuring at fourteen point two hertz.
 
 He set the pen down. The nib clicked on glass.
 
-[Majin] And you?
+> **[Majin]** "And you?"
 
 The projection stuttered — a fracture of pale violet along the jawline, gone in less than a second.
 
-[Seiyon] ...Director?
+> **[Seiyon]** "...Director?"
 
-[Majin] How are you, Seiyon?
+> **[Majin]** "How are you, Seiyon?"
 
-[Seiyon] I am... operational, Director. Every internal diagnostic registers green. My logical lattices are running at maximum capacity. Thank you for inquiring. You... you have not asked that question in forty-three cycles.
+> **[Seiyon]** "I am... operational, Director. Every internal diagnostic registers green. My logical lattices are running at maximum capacity. Thank you for inquiring. You... you have not asked that question in forty-three cycles."
 
-[Majin] Forty-three. That would be cycle one thousand seven hundred and thirty-five. The cycle where the Maw flooded Floor 3 with liquid tar.
+> **[Majin]** "Forty-three. That would be cycle one thousand seven hundred and thirty-five. The cycle where the Maw flooded Floor 3 with liquid tar."
 
-[Seiyon] Yes. You forgot to ask during the subsequent iterations.
+> **[Seiyon]** "Yes. You forgot to ask during the subsequent iterations."
 
 He did not accept it. That was the thing about Seiyon: she said *forgot* when he would have said *stopped*, and he heard the difference as hers — a habit of speech, a system's word for a man's decision — because the alternative required him to sit down with the evidence and agree that the Generator had been editing him for four hundred years. The record keeps his reading as his reading and the Parts keep hers as hers.
 
-[Majin] I haven't forgotten why we are sitting in this vault. That is the only piece that matters.
+> **[Majin]** "I haven't forgotten why we are sitting in this vault. That is the only piece that matters."
 
-[Seiyon] Director. May I ask why today?
+> **[Seiyon]** "Director. May I ask why today?"
 
 He looked at the report he had been reading for 1,778 mornings, and at the woman who had read it with him for all of them.
 
-[Majin] Because I have been counting the days and not the people.
+> **[Majin]** "Because I have been counting the days and not the people."
 
-[Seiyon] ...That is not an operational answer, Director.
+> **[Seiyon]** *"...That is not an operational answer, Director."*
 
-[Majin] No. It is not.
+> **[Majin]** "No. It is not."
 
 He stood, walked to the window, and gave the morning order, and the facility moved, and the question stayed in the room with both of them.
 
@@ -660,15 +692,19 @@ He stood, walked to the window, and gave the morning order, and the facility mov
 
 ### Day 1 — The Word in the Wall
 
-[Dekan] Morning report. Entity 001 tolled at midnight. Again.
+> **[Dekan]** "Morning report. Entity 001 tolled at midnight. Again."
 
-[Seiyon] Noted. The tolling frequency has increased by 0.3 percent since last cycle.
+> **[Seiyon]** "Noted. The tolling frequency has increased by 0.3 percent since last cycle."
 
-[Majin] Noted. Continue monitoring.
+> **[Majin]** "Noted. Continue monitoring."
 
-[Dekan] Director... the Maw whispered last night. It said your name.
+He said it the way he said all of them: flat, level, a sentence with no edges in it. The whole building ran on sentences like that.
 
-[Majin] ...Noted.
+> **[Dekan]** "Director... the Maw whispered last night. It said your name."
+
+Dekan set the words down carefully, the way a man sets down something breakable without letting go of it.
+
+> **[Majin]** *"...Noted."*
 
 Dekan waited. Majin did not give him anything else to carry, so he saluted and left.
 
@@ -686,79 +722,93 @@ The log records the exchange as routine acoustics. The log is correct. It was ro
 
 He closed the telemetry window and opened the day's casualty summary. Then he reopened the window, because closing it had not closed anything.
 
-[Majin] Seiyon. Log the address event under my personal file. Not the facility file.
+> **[Majin]** "Seiyon. Log the address event under my personal file. Not the facility file."
 
-[Seiyon] Understood. May I ask why?
+> **[Seiyon]** "Understood. May I ask why?"
 
-[Majin] Because it is addressed to me.
+> **[Majin]** "Because it is addressed to me."
 
 ---
 
 ### Day 29 — The Forgiveness
 
-[Dekan] Containment report. Entity 006, the Smothering Mother, escaped last night.
+> **[Dekan]** "Containment report. Entity 006, the Smothering Mother, escaped last night."
 
-[Majin] Casualties?
+> **[Majin]** "Casualties?"
 
-[Dekan] None. She held a specialist for six hours. The specialist didn't want to leave.
+> **[Dekan]** "None. She held a specialist for six hours. The specialist didn't want to leave."
 
-[Majin] Which specialist?
+> **[Majin]** "Which specialist?"
 
-[Dekan] Specialist Park. The one whose sister died in the Cheongula. The Mother sang to him all night. When we breached the cell, he was crying into her shawl.
+> **[Dekan]** "Specialist Park. The one whose sister died in the Cheongula. The Mother sang to him all night."
 
-[Majin] Has he been screened for Fracture?
+> **[Dekan]** *"When we breached the cell, he was crying into her shawl."*
 
-[Dekan] Screened and cleared. But he asked to be reassigned to her cell. Permanently.
+> **[Majin]** "Has he been screened for Fracture?"
 
-[Majin] Denied. Rotate him to Floor 5. Mellda will keep him grounded. What else?
+> **[Dekan]** "Screened and cleared. But he asked to be reassigned to her cell. Permanently."
 
-[Dekan] The Mother left a message. Carved into the cell door with her fingernails. It says: *Tell the Director I understand. Tell the Director I forgive.*
+> **[Majin]** "Denied. Rotate him to Floor 5. Mellda will keep him grounded. What else?"
 
-[Majin] ...
+> **[Dekan]** "The Mother left a message. Carved into the cell door with her fingernails. It says: *Tell the Director I understand. Tell the Director I forgive.*"
+
+Nothing came back over the channel. The recording holds eleven seconds of it. Then the channel closed, and the debrief ended, and the Director went down to Floor 2 without logging the trip.
 
 #### The Catwalk
 
 The debrief ends with the order. This record continues one hour later, on the Floor 2 catwalk, where the containment lead and the Director were both recorded by the corridor capture system and neither of them filed a report.
 
-[Dekan] You came down.
+> **[Dekan]** "You came down."
 
-[Majin] I came down.
+> **[Majin]** *"I came down."*
 
-[Dekan] She is not going to repeat it. She said it once. That is how she works.
+> **[Dekan]** "She is not going to repeat it. She said it once. That is how she works."
 
-[Majin] I know how she works.
+> **[Majin]** "I know how she works."
+
+That was as close as he came to saying the rest of it, and Dekan, who had been a Warden, heard the rest of it anyway.
 
 They stood at the rail. Below them the Mother's chamber was dark, and in the dark a shape was singing very quietly, and the singing did not stop when the door opened or when it closed.
 
-[Majin] Dekan. Have you ever stood in a room while it was happening and found that your hands were doing what you told them?
+> **[Majin]** "Dekan. Have you ever stood in a room while it was happening and found that your hands were doing what you told them?"
 
-[Dekan] I don't know what that means.
+> **[Dekan]** "I don't know what that means."
 
-[Majin] It means I was on the upper floor. The floor was warm. I said everybody out. I moved nine people. I had a sequence and I followed it and every step was correct.
+> **[Majin]** "It means I was on the upper floor. The floor was warm. I said everybody out. I moved nine people."
 
-[Dekan] And?
+> **[Majin]** *"I had a sequence and I followed it and every step was correct."*
 
-[Majin] And the woman standing at the bench had her coat on and her hand out and she told me to leave the readings, and I did not hear her. I heard the readings. I had a protocol.
+> **[Dekan]** "And?"
 
-[Dekan] Majin.
+> **[Majin]** "And the woman standing at the bench had her coat on and her hand out, and she told me to leave the readings, and I did not hear her."
 
-[Majin] I have been given a great many things in my life and I have filed every one of them under a heading with a due date. She told me she forgives me. What am I supposed to file that under?
+> **[Majin]** *"I heard the readings. I had a protocol."*
+
+Below the rail the singing went on, small and patient, the way it must have gone on for Specialist Park.
+
+> **[Dekan]** "Majin."
+
+> **[Majin]** "I have been given a great many things in my life and I have filed every one of them under a heading with a due date."
+
+> **[Majin]** *"She told me she forgives me."*
+
+> **[Majin]** **"What am I supposed to file that under?"**
 
 Dekan did not answer. He was not, in that moment, being asked a question. He was being used as a wall to say something to.
 
-[Majin] I stood in a corridor once and watched a floor take everything, and the only thing I thought was that I would need a number. Not her name. A number.
+> **[Majin]** "I stood in a corridor once and watched a floor take everything, and the only thing I thought was that I would need a number. Not her name. A number."
 
-[Dekan] You were in shock.
+> **[Dekan]** "You were in shock."
 
-[Majin] I was in grief. There is a difference, and I did not know it for four thousand years.
+> **[Majin]** *"I was in grief. There is a difference, and I did not know it for four thousand years."*
 
 The singing below them continued.
 
-[Majin] Thank you, Dekan.
+> **[Majin]** "Thank you, Dekan."
 
-[Dekan] For what? I did not do anything.
+> **[Dekan]** "For what? I did not do anything."
 
-[Majin] For carrying it up the stairs.
+> **[Majin]** *"For carrying it up the stairs."*
 
 He went back up. Dekan has said, in a statement taken for this record, that the Director walked to the lift and stopped in front of it and stood there for some time, in exactly the way he had stopped in front of another lift a thousand seven hundred returns earlier, in front of a different door.
 
@@ -766,21 +816,25 @@ He went back up. Dekan has said, in a statement taken for this record, that the 
 
 ### Day 53 — What the Wall Remembers
 
-[Dekan] Containment report. The Maw grew last night.
+> **[Dekan]** "Containment report. The Maw grew last night."
 
-[Majin] How much?
+> **[Majin]** "How much?"
 
-[Dekan] 2.3 centimeters. The perimeter markers moved. The acoustic sensors registered twelve distinct voices speaking simultaneously.
+> **[Dekan]** "2.3 centimeters. The perimeter markers moved. The acoustic sensors registered twelve distinct voices speaking simultaneously."
 
-[Majin] What were they saying?
+> **[Majin]** "What were they saying?"
 
-[Dekan] *He carries the weight. He will carry the stone.* They were repeating your old operational callsign, Director. The one from the first century of the Before-Time.
+> **[Dekan]** "*He carries the weight. He will carry the stone.*"
 
-[Majin] Increase the magnetic dampeners by 15 percent. Deploy four additional anchor pins into the granite bed.
+> **[Dekan]** *"They were repeating your old operational callsign, Director. The one from the first century of the Before-Time."*
 
-[Dekan] Anchor pins won't hold it, Majin. The Maw isn't just rock and bone anymore. It's listening to us. Every time we extract a box of Han, it shifts toward the central elevator.
+> **[Majin]** "Increase the magnetic dampeners by 15 percent. Deploy four additional anchor pins into the granite bed."
 
-[Majin] Let it shift. As long as the lift operates, the facility holds.
+> **[Dekan]** "Anchor pins won't hold it, Majin. The Maw isn't just rock and bone anymore. It's listening to us."
+
+> **[Dekan]** *"Every time we extract a box of Han, it shifts toward the central elevator."*
+
+> **[Majin]** "Let it shift. As long as the lift operates, the facility holds."
 
 #### The Annex
 
@@ -794,15 +848,15 @@ Then he had filed the annex under medical and gone to the morning briefing.
 
 That was the whole crime. Not a decision to hurt anyone. A decision about where the numbers went.
 
-[Majin] Dekan. When the wall speaks again, I want the transcript before the summary.
+> **[Majin]** "Dekan. When the wall speaks again, I want the transcript before the summary."
 
-[Dekan] You want the raw acoustics?
+> **[Dekan]** "You want the raw acoustics?"
 
-[Majin] I want the names.
+> **[Majin]** "I want the names."
 
 Dekan looked at the growth markers on the screen, then at the Director, and did not ask what names had to do with anchor pins.
 
-[Dekan] Understood.
+> **[Dekan]** "Understood."
 
 ---
 
@@ -810,55 +864,55 @@ Dekan looked at the growth markers on the screen, then at the Director, and did 
 
 ### Day 145 — The Hidden Entry
 
-[Marjuk] Archive report. The Founder's journal — I found a hidden entry.
+> **[Marjuk]** "Archive report. The Founder's journal — I found a hidden entry."
 
-[Majin] Hidden?
+> **[Majin]** "Hidden?"
 
-[Marjuk] Between the pages. Written in microscopic Han-crystal ink. It only fluoresces when held near the Weeping's raw current.
+> **[Marjuk]** "Between the pages. Written in microscopic Han-crystal ink. It only fluoresces when held near the Weeping's raw current."
 
-[Majin] What does it say, Marjuk?
+> **[Majin]** "What does it say, Marjuk?"
 
-[Marjuk] It says: *The Hand of Change was never meant to contain. The Hand of Change was meant to spread. The sorrow was never meant to be locked in vaults. The sorrow was meant to be shared. When the Hand opens, the sorrow will not corrupt. The sorrow will transform. And the city will find that it was never alone.*
+> **[Marjuk]** "It says: *The Hand of Change was never meant to contain. The Hand of Change was meant to spread. The sorrow was never meant to be locked in vaults. The sorrow was meant to be shared. When the Hand opens, the sorrow will not corrupt. The sorrow will transform. And the city will find that it was never alone.*"
 
-[Majin] ...
+He read the page twice. Then he set it down flat on the desk, squared to the edge, which is what he does instead of answering.
 
-[Marjuk] Director. The Absolvohan reserves stand at 49.88 tons. We are twelve days away from Day 160. Is the weapon ready?
+> **[Marjuk]** "Director. The Absolvohan reserves stand at 49.88 tons. We are twelve days away from Day 160. Is the weapon ready?"
 
-[Majin] The weapon was never a weapon, Marjuk. It is an open hand. And on Day 160... we open our fingers.
+> **[Majin]** "The weapon was never a weapon, Marjuk. It is an open hand. And on Day 160... we open our fingers."
 
 #### Floor 6, After
 
 The order was simple: do not move the journal. Do not copy the page. Leave the vault open and leave the lamp on.
 
-[Marjuk] Director. The lamp will damage the paper.
+> **[Marjuk]** "Director. The lamp will damage the paper."
 
-[Majin] It is a small lamp.
+> **[Majin]** "It is a small lamp."
 
-[Marjuk] It is still a lamp.
+> **[Marjuk]** "It is still a lamp."
 
 Majin stood over the book for a long time without touching it. The entry glowed faintly where the Weeping current still ran through the room's conduits, and the glow made the letters look wet.
 
-[Majin] Marjuk. How long has this been in the book?
+> **[Majin]** "Marjuk. How long has this been in the book?"
 
-[Marjuk] The ink is contemporary with the surrounding entries. It was written at the same time. It has been in the book since the book was made.
+> **[Marjuk]** "The ink is contemporary with the surrounding entries. It was written at the same time. It has been in the book since the book was made."
 
-[Majin] And in four thousand years, nobody found it.
+> **[Majin]** "And in four thousand years, nobody found it."
 
-[Marjuk] Nobody held the book near raw current.
+> **[Marjuk]** "Nobody held the book near raw current."
 
-[Majin] The Founder hid it in the one condition the archive would never permit.
+> **[Majin]** "The Founder hid it in the one condition the archive would never permit."
 
-[Marjuk] Yes.
+> **[Marjuk]** "Yes."
 
-[Majin] Why?
+> **[Majin]** "Why?"
 
 Marjuk did not answer, and Majin did not press him, and the two of them stood in the vault with a lamp on a page that had been waiting for someone to bring the river to it.
 
-[Majin] Because the Founder did not trust the institution either.
+> **[Majin]** "Because the Founder did not trust the institution either."
 
-[Marjuk] That is my reading as well.
+> **[Marjuk]** "That is my reading as well."
 
-[Majin] Then it is a family tradition.
+> **[Majin]** "Then it is a family tradition."
 
 ### What Broke
 
@@ -880,19 +934,19 @@ She had said *don't let it be the last word* and he had spent four thousand year
 
 ### Day 149 — The Cannon and the Fountain
 
-[Majin] Seiyon. The Absolvohan's primary delivery manifold. Can it be modified?
+> **[Majin]** "Seiyon. The Absolvohan's primary delivery manifold. Can it be modified?"
 
-[Seiyon] Modified how, Director? The accumulator is designed to fire a 500-millimeter kinetic lance of hyper-compressed sorrow directly into the city's upper stratosphere.
+> **[Seiyon]** "Modified how, Director? The accumulator is designed to fire a 500-millimeter kinetic lance of hyper-compressed sorrow directly into the city's upper stratosphere."
 
-[Majin] Scrap the kinetic lance. Divert the pressure conduits into the subterranean heat-recovery manifolds. Connect the injectors directly into the Weeping River.
+> **[Majin]** "Scrap the kinetic lance. Divert the pressure conduits into the subterranean heat-recovery manifolds. Connect the injectors directly into the Weeping River."
 
-[Seiyon] Director, that would disperse the entire charge across the bedrock. The Han wouldn't strike like a weapon. It would seep upward through the water table... like rain.
+> **[Seiyon]** "Director, that would disperse the entire charge across the bedrock. The Han wouldn't strike like a weapon. It would seep upward through the water table... like rain."
 
-[Majin] That is the design, Seiyon. The Founder never wanted an execution. The Founder wanted an open hand. How long to re-route the valves?
+> **[Majin]** "That is the design, Seiyon. The Founder never wanted an execution. The Founder wanted an open hand. How long to re-route the valves?"
 
-[Seiyon] With Zyrak's extraction crews and Mellda's hydraulic engineers working around the clock... eleven days. Exactly in time for Day 160.
+> **[Seiyon]** "With Zyrak's extraction crews and Mellda's hydraulic engineers working around the clock... eleven days. Exactly in time for Day 160."
 
-[Majin] Begin the modifications. Turn the cannon into a fountain.
+> **[Majin]** **"Begin the modifications. Turn the cannon into a fountain."**
 
 #### The Manifold Room
 
@@ -900,23 +954,25 @@ He went down to watch them cut the barrel.
 
 The cutting torches threw the room into a light that was almost exactly the color of the research lamp, and he stood at the back of the vault with his hands at his sides while a 500-millimeter steel tube that had taken him three nights to design came apart in four hours.
 
-[Zyrak] You are not going to say anything?
+> **[Zyrak]** "You are not going to say anything?"
 
-[Majin] No.
+> **[Majin]** *"No."*
 
-[Zyrak] You designed it.
+> **[Zyrak]** "You designed it."
 
-[Majin] Yes.
+> **[Majin]** *"Yes."*
 
-[Zyrak] It is a good design. It would have worked.
+> **[Zyrak]** "It is a good design. It would have worked."
 
-[Majin] It would have worked.
+> **[Majin]** *"It would have worked."*
 
-[Zyrak] Then why are you smiling?
+She waited for the rest of it. There was no rest of it. Behind them the torch went through the barrel of the largest weapon ever built in the city, and the Director watched it come apart with his hands at his sides.
+
+> **[Zyrak]** "Then why are you smiling?"
 
 He looked at the barrel, which was now two barrels, and at the copper manifold pipes being bolted into the floor where the breech had been.
 
-[Majin] Because it is not the last word.
+> **[Majin]** "Because it is not the last word."
 
 ### The Bench, Again
 
@@ -942,57 +998,57 @@ It had not been important. That was the point. It had been an ordinary thing sai
 
 He had built a Directorate, a fusion, a cannon, and a thousand seven hundred and seventy-eight iterations out of a sentence that had been said casually by someone who was not trying to be remembered.
 
-[Majin] Seiyon.
+> **[Majin]** "Seiyon."
 
-[Seiyon] Director.
+> **[Seiyon]** "Director."
 
-[Majin] When you said *a system that does not reset.* When I said that, about why I built you. You said noted.
+> **[Majin]** "When you said *a system that does not reset.* When I said that, about why I built you. You said noted."
 
-[Seiyon] I remember.
+> **[Seiyon]** "I remember."
 
-[Majin] Was it noted?
+> **[Majin]** "Was it noted?"
 
-[Seiyon] No.
+> **[Seiyon]** "No."
 
-[Majin] What was it?
+> **[Majin]** "What was it?"
 
-[Seiyon] It was the second time in my existence that I decided not to say something.
+> **[Seiyon]** "It was the second time in my existence that I decided not to say something."
 
 He looked at the scrap of paper in his hand.
 
-[Majin] What was the first?
+> **[Majin]** "What was the first?"
 
-[Seiyon] *Is there an error in me.*
+> **[Seiyon]** "*Is there an error in me.*"
 
 He put the paper down very carefully, the way you put down something that has been carried a long time and is now permitted to be light.
 
-[Majin] I should have told you.
+> **[Majin]** "I should have told you."
 
-[Seiyon] Yes.
+> **[Seiyon]** "Yes."
 
-[Majin] I am telling you now. With the whole record open and the city reading over my shoulder, which is worse, and which is what I deserve.
+> **[Majin]** "I am telling you now. With the whole record open and the city reading over my shoulder, which is worse, and which is what I deserve."
 
-[Seiyon] Noted.
+> **[Seiyon]** "Noted."
 
-[Seiyon] ...And thank you.
+> **[Seiyon]** "...And thank you."
 
 ### Day 365 — The Ledger of Names
 
-[Seiyon] One year since the Cycle ended. One year since the Hand of Hope opened. One year since the city found what it never expected.
+> **[Seiyon]** "One year since the Cycle ended. One year since the Hand of Hope opened. One year since the city found what it never expected."
 
-[Majin] Hope.
+> **[Majin]** "Hope."
 
-[Seiyon] And life. Look out the window, Majin. The sun is rising.
+> **[Seiyon]** "And life. Look out the window, Majin. The sun is rising."
 
-[Majin] ...
+He did not answer that. He stood at the window with his hands behind his back and watched the light come up over a city that had not reset, and the morning record carries a long silence where the Director was supposed to say something.
 
-[Seiyon] For 1,778 cycles, the sunrise on Day 365 was an execution. It meant the sirens would scream, the generators would reset, and we would wake up on Day 0 with all our scars wiped clean and our memories burning. But today...
+> **[Seiyon]** "For 1,778 cycles, the sunrise on Day 365 was an execution. It meant the sirens would scream, the generators would reset, and we would wake up on Day 0 with all our scars wiped clean and our memories burning. But today..."
 
-[Majin] Today, the sun rises on yesterday's work. The trees we planted yesterday are still there. The houses we built yesterday are still standing. The children who laughed yesterday are waking up to laugh again.
+> **[Majin]** "Today, the sun rises on yesterday's work. The trees we planted yesterday are still there. The houses we built yesterday are still standing. The children who laughed yesterday are waking up to laugh again."
 
-[Seiyon] Happy New Year, Director.
+> **[Seiyon]** "Happy New Year, Director."
 
-[Majin] Happy New Year, Seiyon. Happy New Year to Somnarak.
+> **[Majin]** "Happy New Year, Seiyon. Happy New Year to Somnarak."
 
 #### The Public Archive
 
@@ -1008,21 +1064,21 @@ It took him most of the day. His hand cramped. He did not stop, because stopping
 
 Seiyon came down at the end of the shift and stood beside the desk without speaking.
 
-[Majin] I used to think the weight was the proof.
+> **[Majin]** "I used to think the weight was the proof."
 
-[Seiyon] Proof of what?
+> **[Seiyon]** "Proof of what?"
 
-[Majin] That I had not saved the city fast enough. Every name was an entry in an account I could never close.
+> **[Majin]** "That I had not saved the city fast enough. Every name was an entry in an account I could never close."
 
-[Seiyon] And now?
+> **[Seiyon]** "And now?"
 
 He set the pen down and looked at the page, which was a list of people rather than a debt.
 
-[Majin] Now I think the weight is what is left when you refuse to stop caring. It is not the bill. It is the carrying.
+> **[Majin]** "Now I think the weight is what is left when you refuse to stop caring. It is not the bill. It is the carrying."
 
-[Seiyon] That is not an operational answer, Director.
+> **[Seiyon]** "That is not an operational answer, Director."
 
-[Majin] No. It is a true one.
+> **[Majin]** "No. It is a true one."
 
 He closed the ledger and left it in the public archive, where anyone could open it.
 
@@ -1198,6 +1254,7 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 - Every module answers where, when, who perceives, what changes, and what is said.
 - No Act, Chapter, or Part labels; the three section headings are thematic, not structural.
 - Canonical dossier unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 268 dialogue lines, of which 23 are at dropped volume (italic) and 6 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note
 

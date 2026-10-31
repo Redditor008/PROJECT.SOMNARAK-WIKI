@@ -19,39 +19,39 @@ The stores keeper is old enough to have issued most of them. Her name is Kyungmi
 
 She has a coat on the counter now. Charcoal, travel-worn, the Crimson inner facing turned out at the collar. The left shoulder has torn where the forearm plates extend.
 
-[Kyungmi] The plate cut through the lining. Not the leather.
+> **[Kyungmi]** "The plate cut through the lining. Not the leather."
 
-[Mellda] Then fix the lining.
+> **[Mellda]** "Then fix the lining."
 
-[Kyungmi] It'll take a day. You'll be cold.
+> **[Kyungmi]** "It'll take a day. You'll be cold."
 
-[Mellda] I have been colder.
+> **[Mellda]** "I have been colder."
 
 Kyungmi turns the coat over. Under the lamp, the left breast shows a rectangle of unweathered cloth surrounded by stitch marks — the ghost of a badge, removed so long ago that the thread has gone the colour of the coat.
 
-[Kyungmi] I can put it back on while I'm in there.
+> **[Kyungmi]** "I can put it back on while I'm in there."
 
-[Mellda] No.
+> **[Mellda]** "No."
 
-[Kyungmi] It's a Warden coat with the Warden taken off it. People notice.
+> **[Kyungmi]** "It's a Warden coat with the Warden taken off it. People notice."
 
-[Mellda] Let them.
+> **[Mellda]** "Let them."
 
 Kyungmi sets the coat down and looks at her over the counter.
 
-[Kyungmi] It bothers you.
+> **[Kyungmi]** "It bothers you."
 
-[Mellda] The cut was clean. Whoever did it knew what they were doing.
+> **[Mellda]** "The cut was clean. Whoever did it knew what they were doing."
 
-[Kyungmi] I know who did it.
+> **[Kyungmi]** "I know who did it."
 
-[Mellda] I know.
+> **[Mellda]** "I know."
 
 The stores keeper does not apologise. Neither of them has ever discussed it in the years since, and neither of them is going to start now, in a room with forty unclaimed coats in it.
 
-[Kyungmi] It'll be ready at sixth bell.
+> **[Kyungmi]** "It'll be ready at sixth bell."
 
-[Mellda] I'll be at the wall.
+> **[Mellda]** "I'll be at the wall."
 
 She goes out. She turns left, because the door is on her left, and she stands in it for a moment with her back to the counter and her face to the corridor before she steps through. She has done that since she came back. The stores keeper has never asked why, and has her own idea.
 
@@ -69,15 +69,15 @@ A Warden recruit signs for a greatcoat, a Barrier Baton, a signal tag, and a num
 
 Mellda was nineteen and had come up from a Threshold family that had been at the wall for three generations without ever being issued anything. She signed. She took the coat. Then she stood at the counter and would not leave, because there was a badge pinned to the shoulder that had not been sewn down.
 
-[Kyungmi] It goes on the left.
+> **[Kyungmi]** "It goes on the left."
 
-[Mellda] Why the left?
+> **[Mellda]** "Why the left?"
 
-[Kyungmi] Because that's the side the report reads from. When somebody writes you up, they're looking at the left.
+> **[Kyungmi]** "Because that's the side the report reads from. When somebody writes you up, they're looking at the left."
 
-[Mellda] Then put it on straight.
+> **[Mellda]** "Then put it on straight."
 
-[Kyungmi] It's always straight. I've been doing this since before you were born.
+> **[Kyungmi]** "It's always straight. I've been doing this since before you were born."
 
 She sewed it on. Mellda watched her do it, which the stores keeper remembered later as the first strange thing about her: most recruits looked at the coat, or the mirror, or their own hands. This one watched the needle, as though the badge were a piece of equipment and she wanted to know how it was attached.
 
@@ -133,29 +133,29 @@ They took the coat at the stores before dawn, because Warden property does not l
 
 Kyungmi was on the early shift. She had the ledger open and a chalk mark on the wall for the time, and she had already heard, because the stores hear everything.
 
-[Kyungmi] Coat.
+> **[Kyungmi]** "Coat."
 
 Mellda took it off and put it on the counter.
 
-[Kyungmi] Tag.
+> **[Kyungmi]** "Tag."
 
 She took the tag off the coat and put it on the ledger. Kyungmi wrote the number, the time, and the word `RETURNED`. Then she took a small pair of shears out of the drawer, and she cut the badge off the left breast, and she did it in four cuts so that the cloth would not tear.
 
 Neither of them said anything while it happened.
 
-[Kyungmi] Do you want the badge?
+> **[Kyungmi]** "Do you want the badge?"
 
-[Mellda] No.
+> **[Mellda]** "No."
 
-[Kyungmi] It's yours. You earned it.
+> **[Kyungmi]** "It's yours. You earned it."
 
-[Mellda] Then it should go with the rest of them.
+> **[Mellda]** "Then it should go with the rest of them."
 
 Kyungmi put the badge in the drawer with the others. There were a great many in the drawer. She gave the coat back without the badge, and the stitch marks showed, and that was the point: the coat was no longer Warden property, because no Warden would wear it. It was a civilian's coat now, and a civilian was going out through the Gate at dawn.
 
-[Kyungmi] Do you want it mended? The holes.
+> **[Kyungmi]** "Do you want it mended? The holes."
 
-[Mellda] Leave them.
+> **[Mellda]** "Leave them."
 
 ### The Gate
 
@@ -243,21 +243,25 @@ The city gave her a floor, and the coat stayed as it was.
 
 ### Day 7 — The Storm
 
-[Mellda] Border report. Han-storm approaching from the southeast. ETA: 6 hours.
+> **[Mellda]** "Border report. Han-storm approaching from the southeast. ETA: 6 hours."
 
-[Majin] Severity?
+She gave the ETA from the wall, not the office. The wind was already in the channel behind her voice.
 
-[Mellda] Moderate. The Desolate nomads are moving north. The Drift King's scouts were seen at the 8 km mark.
+> **[Majin]** "Severity?"
 
-[Seiyon] Shall I alert the Wardens?
+> **[Mellda]** "Moderate. The Desolate nomads are moving north. The Drift King's scouts were seen at the 8 km mark."
 
-[Majin] No. Let the nomads pass. They're not hostile.
+> **[Seiyon]** "Shall I alert the Wardens?"
 
-[Mellda] Director... the entity inside me. It's restless. It senses the storm.
+> **[Majin]** "No. Let the nomads pass. They're not hostile."
 
-[Majin] Hold your boundary, Mellda. You are the wall.
+> **[Mellda]** *"Director... the entity inside me. It's restless. It senses the storm."*
 
-[Mellda] ...Understood.
+> **[Majin]** "Hold your boundary, Mellda. You are the wall."
+
+> **[Mellda]** *"...Understood."*
+
+She said it with her jaw set and her hand flat on the parapet. The passenger heard every word of it and did not care. She went up anyway.
 
 She went up to the south wall after the meeting and stayed there for the six hours.
 
@@ -271,33 +275,39 @@ The line reads: *Passenger response at fourth hour. Contained.*
 
 ### Day 41 — The Rearranging
 
-[Mellda] Border report. The Desolate is... changing.
+> **[Mellda]** "Border report. The Desolate is... changing."
 
-[Majin] Changing how?
+> **[Majin]** "Changing how?"
 
-[Mellda] The Han flows are shifting. New channels are forming. Old channels are drying up. The planet is... rearranging itself.
+> **[Mellda]** "The Han flows are shifting. New channels are forming. Old channels are drying up."
 
-[Majin] What about the drift lines?
+> **[Mellda]** *"The planet is... rearranging itself."*
 
-[Mellda] The lines that lead to Cheonbulok are pulsing faster. It's like the Furnace is pulling the planet's sorrow inward. Like an inhale.
+> **[Majin]** "What about the drift lines?"
 
-[Majin] And the entity inside you?
+> **[Mellda]** "The lines that lead to Cheonbulok are pulsing faster. It's like the Furnace is pulling the planet's sorrow inward. Like an inhale."
 
-[Mellda] It won't be quiet. It keeps screaming that the mother is breathing. Director... is Cheonbulok waking up?
+> **[Majin]** "And the entity inside you?"
 
-[Majin] Cheonbulok never slept. It's hungry.
+> **[Mellda]** **"It won't be quiet. It keeps screaming that the mother is breathing."**
 
-[Mellda] Hungry for what?
+Then quieter, and this is the only place in the file where she asks him anything:
 
-[Majin] For what we're holding. For what we're about to build.
+> **[Mellda]** *"Director... is Cheonbulok waking up?"*
 
-[Mellda] Then I'll double the sentries on the south wall. If it tries to reach through... I'll take its hand off.
+> **[Majin]** "Cheonbulok never slept. It's hungry."
 
-[Majin] No. If it reaches through, you let it touch the ground. We need the resonance.
+> **[Mellda]** "Hungry for what?"
 
-[Mellda] ...You're gambling with all of us, Majin.
+> **[Majin]** "For what we're holding. For what we're about to build."
 
-[Majin] I've gambled 1,777 times, Mellda. This time I'm cheating.
+> **[Mellda]** "Then I'll double the sentries on the south wall. If it tries to reach through... I'll take its hand off."
+
+> **[Majin]** "No. If it reaches through, you let it touch the ground. We need the resonance."
+
+> **[Mellda]** *"...You're gambling with all of us, Majin."*
+
+> **[Majin]** "I've gambled 1,777 times, Mellda. This time I'm cheating."
 
 She doubled the sentries anyway, and told the watch commander to log the reinforcement as a Floor 5 decision rather than a command decision. It is the only entry in her service where she wrote down a precaution the Director had declined to order, and she did not raise it with him again.
 
@@ -307,21 +317,27 @@ The passenger did not stop screaming that week. She slept badly and reported it 
 
 ### Day 73 — Five Kilometers
 
-[Mellda] Border report. A Cheonbulok envoy arrived at the 5 km mark.
+> **[Mellda]** "Border report. A Cheonbulok envoy arrived at the 5 km mark."
 
-[Majin] ...What?
+> **[Majin]** *"...What?"*
 
-[Mellda] A single citizen. Armed. Desperate. Speaking a language we don't recognize. But the symbols on their armor... they match Cheonbulok's historical records.
+> **[Mellda]** "A single citizen. Armed. Desperate. Speaking a language we don't recognize."
 
-[Majin] First contact in 1,200 years. How did they cross the Desolate?
+> **[Mellda]** *"But the symbols on their armor... they match Cheonbulok's historical records."*
 
-[Mellda] They didn't walk across it. They were chased. The Sorrow Storm pushed them straight toward our boundary line. When our sentries found them, they were clutching an empty Han canister and weeping into the salt.
+> **[Majin]** "First contact in 1,200 years. How did they cross the Desolate?"
 
-[Majin] Where are they now?
+> **[Mellda]** "They didn't walk across it. They were chased. The Sorrow Storm pushed them straight toward our boundary line. When our sentries found them, they were clutching an empty Han canister and weeping into the salt."
 
-[Mellda] Quarantine Airlock 3. Sealed behind four blast doors. The entity inside me... it recognized them, Director. It went dead quiet. Like a dog smelling its owner.
+> **[Majin]** "Where are they now?"
 
-[Majin] Let them rest. Keep the airlock flooded with acoustic gel. Today, we extract 0.320 tons of Han. When the shift ends... I will speak to them myself.
+> **[Mellda]** "Quarantine Airlock 3. Sealed behind four blast doors."
+
+She stopped. The rest of it came out at a lower volume than the report, and she filed it anyway, because she filed everything.
+
+> **[Mellda]** *"The entity inside me... it recognized them, Director. It went dead quiet. Like a dog smelling its owner."*
+
+> **[Majin]** "Let them rest. Keep the airlock flooded with acoustic gel. Today, we extract 0.320 tons of Han. When the shift ends... I will speak to them myself."
 
 She went down to the airlock and stood outside the blast doors for the rest of the shift.
 
@@ -349,21 +365,21 @@ The wall held. Nothing crossed it that should not have. The city's whole definit
 
 ### Day 141 — The Armbands
 
-[Mellda] Border report. The Cheonbulok refugees are... integrating.
+> **[Mellda]** "Border report. The Cheonbulok refugees are... integrating."
 
-[Majin] Integrating?
+> **[Majin]** "Integrating?"
 
-[Mellda] They're learning our language. They're working in the Forge District alongside Zyrak's smelting teams. They're repairing heat pipes, forging armor, and teaching our apprentices how to weld high-heat brass.
+> **[Mellda]** "They're learning our language. They're working in the Forge District alongside Zyrak's smelting teams. They're repairing heat pipes, forging armor, and teaching our apprentices how to weld high-heat brass."
 
-[Majin] How is their demeanor?
+> **[Majin]** "How is their demeanor?"
 
-[Mellda] Fierce. They still have the fire of Cheonbulok in their eyes. But it's no longer burning them from the inside. They are using their rage to build. To protect.
+> **[Mellda]** "Fierce. They still have the fire of Cheonbulok in their eyes. But it's no longer burning them from the inside. They are using their rage to build. To protect."
 
-[Majin] Rage and sorrow are the same fire, Mellda. One consumes, the other forges. When you give rage a wall to defend, it becomes strength.
+> **[Majin]** "Rage and sorrow are the same fire, Mellda. One consumes, the other forges. When you give rage a wall to defend, it becomes strength."
 
-[Mellda] They asked for Directorate armbands today. They want to stand on the Bulwark during the next shift.
+> **[Mellda]** "They asked for Directorate armbands today. They want to stand on the Bulwark during the next shift."
 
-[Majin] Give them the armbands. They are citizens of Somnarak now.
+> **[Majin]** "Give them the armbands. They are citizens of Somnarak now."
 
 She went to the stores herself, which a Border Lead does not do, and stood at the same counter, and asked Kyungmi for twelve armbands.
 
@@ -371,13 +387,13 @@ Kyungmi got them out of the drawer. They were new, unissued, still folded, with 
 
 Mellda took one and held it for a moment, flat on her palm, the way a person holds a thing they are about to give away.
 
-[Kyungmi] Do you want me to sew yours back on? While you're here.
+> **[Kyungmi]** "Do you want me to sew yours back on? While you're here."
 
-[Mellda] No.
+> **[Mellda]** "No."
 
-[Kyungmi] It's been a long time.
+> **[Kyungmi]** "It's been a long time."
 
-[Mellda] It has.
+> **[Mellda]** "It has."
 
 She took the twelve armbands to the Bulwark and gave them out at the shift change, and did not make a speech, and stood at the back of the line while each of them was pinned. The last one was a woman from the third family who had carried her brother across the salt with a broken collarbone. Mellda pinned the armband herself, on the left, straight, and stepped back.
 
@@ -387,7 +403,9 @@ The badge is not the same cloth and it is not the same city. It is the same coun
 
 The release ran beneath the city at midday and the border heard it last, because the border is the last thing the city reaches.
 
-[Mellda] Southern border is secure. The Desolate is silent. The wind has died down.
+> **[Mellda]** "Southern border is secure. The Desolate is silent. The wind has died down."
+
+She said it into the channel with her back to the officers, and for about four seconds it was true.
 
 Then the wind came back, and it was not a wind.
 
@@ -395,11 +413,13 @@ She was on the south wall with her officers when it reached them. Below her, the
 
 She listened to it for a while, sorting it, because sorting was what she did.
 
-[Mellda] They're weeping. They're laughing. They're raging. They're hoping.
+> **[Mellda]** **"They're weeping. They're laughing. They're raging. They're hoping."**
 
 One of her officers asked which one it was.
 
-[Mellda] All of them. That's the point.
+> **[Mellda]** "All of them."
+
+> **[Mellda]** *"That's the point."*
 
 She did not go down into the district that day. She stayed on the wall until the light went, and the passenger, for the first time since the Salt Fingers, was quiet, and she did not mistake that for peace.
 
@@ -411,13 +431,13 @@ Zyrak asked about the Absolvohan. Ayshuk asked about the entities. Each question
 
 Mellda asked hers.
 
-[Mellda] And the city?
+> **[Mellda]** "And the city?"
 
-[Majin] The city is alive, Mellda. It's feeling. It's hoping. It's home.
+> **[Majin]** "The city is alive, Mellda. It's feeling. It's hoping. It's home."
 
-[Mellda] It's never been home to everyone.
+> **[Mellda]** "It's never been home to everyone."
 
-[Majin] Then that's the work.
+> **[Majin]** "Then that's the work."
 
 She let it stand. She is not a person who mistakes an answer for a result, and the answer was not a result; it was a direction, and she had been given directions before, and the last one had put her outside the Gate with a coat that had no badge on it.
 
@@ -429,65 +449,65 @@ The coat is ready at sixth bell, as promised.
 
 Kyungmi has mended the lining and left the stitch marks exactly as they were, which took her an extra hour, because a good mender's first instinct is to make a thing whole.
 
-[Kyungmi] Sit down. You're making the room nervous.
+> **[Kyungmi]** "Sit down. You're making the room nervous."
 
-[Mellda] I'm not doing anything.
+> **[Mellda]** "I'm not doing anything."
 
-[Kyungmi] You're standing between me and the door. You always do. I've watched you do it since you came back.
+> **[Kyungmi]** "You're standing between me and the door. You always do. I've watched you do it since you came back."
 
 Mellda sits. It is the first time in twenty years that she has sat down in this room.
 
-[Kyungmi] I've been meaning to say something since the file started going round.
+> **[Kyungmi]** "I've been meaning to say something since the file started going round."
 
-[Mellda] Then say it.
+> **[Mellda]** "Then say it."
 
-[Kyungmi] That night. I was on the stores shift. I had blankets out on the counter for the overflow crews, the way we did. I watched you come out of the eastern post at dawn.
+> **[Kyungmi]** "That night. I was on the stores shift. I had blankets out on the counter for the overflow crews, the way we did. I watched you come out of the eastern post at dawn."
 
-[Mellda] Nobody came out of the eastern post.
+> **[Mellda]** "Nobody came out of the eastern post."
 
-[Kyungmi] You did. And then you went back in.
+> **[Kyungmi]** "You did. And then you went back in."
 
 The stores keeper says it plainly, the way she says everything, and keeps folding.
 
-[Kyungmi] You went back in through the west door and you were in there for a long time and when you came out you were carrying people. Not out of the building. Out of the room, into the corridor, one at a time. They were already dead, most of them. I could see that from the counter. You kept doing it.
+> **[Kyungmi]** "You went back in through the west door and you were in there for a long time and when you came out you were carrying people. Not out of the building. Out of the room, into the corridor, one at a time. They were already dead, most of them. I could see that from the counter. You kept doing it."
 
-[Mellda] It didn't save anyone.
+> **[Mellda]** "It didn't save anyone."
 
-[Kyungmi] That's not what I said.
+> **[Kyungmi]** "That's not what I said."
 
-[Mellda] It's what happened.
+> **[Mellda]** "It's what happened."
 
-[Kyungmi] I told the clerk. When the finding was going round, I went and told him what I'd seen. He wrote it down. Then the finding came out with one paragraph about a survivor and nothing about a woman going back in. He'd had his six paragraphs already.
+> **[Kyungmi]** "I told the clerk. When the finding was going round, I went and told him what I'd seen. He wrote it down. Then the finding came out with one paragraph about a survivor and nothing about a woman going back in. He'd had his six paragraphs already."
 
 The stores ledger records that she took an hour of leave that day. It records nothing about what she said, because the finding was not a hearing and kept no minutes. Her account is one witness's, given twenty years late, and this file prints it as such.
 
 Mellda looks at the coat on the counter. The stitch marks are exactly as they were.
 
-[Kyungmi] So. Do you want me to sew it back on?
+> **[Kyungmi]** "So. Do you want me to sew it back on?"
 
-[Mellda] No.
+> **[Mellda]** "No."
 
-[Kyungmi] Why not? And don't tell me about the cut being clean.
+> **[Kyungmi]** "Why not? And don't tell me about the cut being clean."
 
-[Mellda] Because I didn't do it.
+> **[Mellda]** "Because I didn't do it."
 
 The words are out before she has decided to say them, which has never happened to her in her life.
 
-[Mellda] I didn't do it. They wrote it down and I sat in a room and let them read it and I never once said the words. I've had thirty years to say them.
+> **[Mellda]** "I didn't do it. They wrote it down and I sat in a room and let them read it and I never once said the words. I've had thirty years to say them."
 
-[Kyungmi] You could say them now. There's nobody here but us.
+> **[Kyungmi]** "You could say them now. There's nobody here but us."
 
-[Mellda] There's nobody left to say them to. That's the trouble.
+> **[Mellda]** "There's nobody left to say them to. That's the trouble."
 
 Kyungmi puts the coat on the counter and pushes it across, with the badge-less shoulder up.
 
-[Kyungmi] Then we'll leave the stitch marks where they are.
+> **[Kyungmi]** "Then we'll leave the stitch marks where they are."
 
-[Mellda] Yes.
+> **[Mellda]** "Yes."
 
-[Kyungmi] And you'll stand at that wall with a coat that says nothing on it, and everyone will keep noticing.
+> **[Kyungmi]** "And you'll stand at that wall with a coat that says nothing on it, and everyone will keep noticing."
 
-[Mellda] Let them notice.
+> **[Mellda]** "Let them notice."
 
 She takes the coat. She puts it on. She turns to the door and stands for a moment with the corridor in front of her and the counter behind, and then she goes out to the wall, which is where the work is.
 
@@ -696,6 +716,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Day 108 is quoted nowhere: file 02 owns that exchange, and this file begins after it.
 - No cause is supplied for the overflow; the passenger is never named, speciesed, or described; the return is never treated as an acquittal.
 - Canonical dossier unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 105 dialogue lines, of which 9 are at dropped volume (italic) and 2 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note
 

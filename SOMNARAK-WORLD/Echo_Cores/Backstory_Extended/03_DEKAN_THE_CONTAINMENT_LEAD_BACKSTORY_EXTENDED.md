@@ -19,31 +19,31 @@ Dekan stops at every marker. He has done it since he was tall enough to read the
 
 The new specialist assigned to Floor 2 follows him with a tablet and a look of careful patience, because there is nothing on the tablet to record and the walk is not on the shift schedule.
 
-[him] Sir. Permission to ask.
+> **[him]** "Sir. Permission to ask."
 
-[Dekan] Ask.
+> **[Dekan]** "Ask."
 
-[him] What are we doing out here?
+> **[him]** "What are we doing out here?"
 
 He crouches at marker nineteen. The stake is warm. It has been warm since the Cheongula and it will be warm after everyone currently alive in Zone B has been filed, and warmth is not a reading, it is a property of the ground.
 
-[Dekan] Three rules. Count the markers. State the observation before the interpretation. Repeat your name.
+> **[Dekan]** "Three rules. Count the markers. State the observation before the interpretation. Repeat your name."
 
-[him] ...That's three rules for a perimeter check?
+> **[him]** "...That's three rules for a perimeter check?"
 
-[Dekan] That is three rules for a perimeter check.
+> **[Dekan]** "That is three rules for a perimeter check."
 
 He writes in the ledger: *Marker 19. Warm. No displacement. No sound.*
 
-[him] And the third one?
+> **[him]** "And the third one?"
 
-[Dekan] What about it.
+> **[Dekan]** "What about it."
 
-[him] Why do we say our names out loud? There's nobody here but us.
+> **[him]** "Why do we say our names out loud? There's nobody here but us."
 
 Dekan stands, closes the ledger, and looks at the wall for slightly longer than the question deserves.
 
-[Dekan] Because the wall is louder than you are.
+> **[Dekan]** "Because the wall is louder than you are."
 
 He walks on to marker twenty. The specialist follows, and writes nothing, because there is nothing on the tablet to write.
 
@@ -201,19 +201,19 @@ The title contains the ambiguity of his life and does not resolve it: is he the 
 
 ### Day 53 — Two Point Three Centimetres
 
-[Dekan] Containment report. The Maw grew last night.
+> **[Dekan]** "Containment report. The Maw grew last night."
 
-[Majin] How much?
+> **[Majin]** "How much?"
 
-[Dekan] 2.3 centimetres. The perimeter markers moved. The acoustic sensors registered twelve distinct voices speaking simultaneously.
+> **[Dekan]** "2.3 centimetres. The perimeter markers moved. The acoustic sensors registered twelve distinct voices speaking simultaneously."
 
-[Majin] What were they saying?
+> **[Majin]** "What were they saying?"
 
-[Dekan] *“He carries the weight. He will carry the stone.”* They were repeating your old operational callsign, Director. The one from the first century of the Before-Time.
+> **[Dekan]** "*“He carries the weight. He will carry the stone.”* They were repeating your old operational callsign, Director. The one from the first century of the Before-Time."
 
-[Majin] Increase the magnetic dampeners by fifteen percent. Deploy four additional anchor pins into the granite bed.
+> **[Majin]** "Increase the magnetic dampeners by fifteen percent. Deploy four additional anchor pins into the granite bed."
 
-[Dekan] Anchor pins won't hold it, Majin. The Maw isn't just rock and bone anymore. It's listening to us. Every time we extract a box of Han, it shifts toward the central elevator.
+> **[Dekan]** "Anchor pins won't hold it, Majin. The Maw isn't just rock and bone anymore. It's listening to us. Every time we extract a box of Han, it shifts toward the central elevator."
 
 The order that came back is filed in full in the Director's own record. What belongs here is what Dekan did with it.
 
@@ -229,23 +229,27 @@ He wrote it in the ledger beside the first reading. Two methods. One value. It w
 
 ### Day 101 — We Are Tired
 
-[Dekan] Containment report. The Maw spoke clearly last night.
+> **[Dekan]** "Containment report. The Maw spoke clearly last night."
 
-[Majin] Clearly.
+> **[Majin]** "Clearly."
 
-[Dekan] Not whispers. Not sorrow-static. Coherent, articulate speech. Twelve voices speaking in perfect unaccented unison.
+> **[Dekan]** "Not whispers. Not sorrow-static. Coherent, articulate speech. Twelve voices speaking in perfect unaccented unison."
 
-[Majin] What did they say?
+> **[Majin]** "What did they say?"
 
-[Dekan] They said: *“We are tired. We want to go home.”* They repeated it thirty-four times between 02:00 and 03:00.
+> **[Dekan]** "They said: *“We are tired. We want to go home.”* They repeated it thirty-four times between 02:00 and 03:00."
 
-[Majin] ...They have never spoken like that before.
+> **[Majin]** "...They have never spoken like that before."
 
-[Dekan] No. For four thousand years, they wept. For 1,778 cycles, they screamed. But last night... they simply sounded like exhausted men and women who have finished a double shift.
+> **[Dekan]** "No. For four thousand years, they wept. For 1,778 cycles, they screamed."
 
-[Majin] They know the cycle is different, Dekan. They can feel the weight in the ballast tanks. Tell your wardens not to silence them. Listen to them with respect.
+He had to stop and start again, which he does not do.
 
-[Dekan] ...Understood, Director. The wardens will stand vigil in silence.
+> **[Dekan]** *"But last night... they simply sounded like exhausted men and women who have finished a double shift."*
+
+> **[Majin]** "They know the cycle is different, Dekan. They can feel the weight in the ballast tanks. Tell your wardens not to silence them. Listen to them with respect."
+
+> **[Dekan]** *"...Understood, Director. The wardens will stand vigil in silence."*
 
 ### What Broke
 
@@ -283,53 +287,61 @@ The waiting lasted three days. On the morning of Day 125, the third of them, the
 
 He was on the floor when it happened, and the specialist on watch with him was twenty-two years old and had never seen the channel light change.
 
-[she] Sir. Your arm.
+> **[she]** *"Sir. Your arm."*
 
-[Dekan] I know.
+> **[Dekan]** "I know."
 
-[she] What does it mean?
+> **[she]** "What does it mean?"
 
-[Dekan] It means they have stopped being angry.
+> **[Dekan]** "It means they have stopped being angry."
 
-[she] Is that better?
+> **[she]** *"Is that better?"*
 
-[Dekan] It is different.
+> **[Dekan]** "It is different."
 
 The specialist was frightened, and trying not to be, and doing the thing that frightened people on Floor 2 do: talking to fill the corridor.
 
-[she] Why do we say our names out loud? There's nobody down here but us.
+> **[she]** "Why do we say our names out loud? There's nobody down here but us."
 
-[Dekan] Count the markers. State the observation before the interpretation. Repeat your name.
+She had been holding the question since the muster, and it came out too fast, the way questions do when the corridor has gone quiet.
 
-[she] That's not an answer.
+> **[Dekan]** "Count the markers. State the observation before the interpretation. Repeat your name."
 
-[Dekan] No. It's a procedure.
+> **[she]** *"That's not an answer."*
 
-[she] Where did it come from?
+> **[Dekan]** "No. It's a procedure."
+
+> **[she]** "Where did it come from?"
 
 Dekan looked at the wall for slightly longer than the question deserved.
 
-[Dekan] I learned it at seven. I have not found a better one.
+> **[Dekan]** "I learned it at seven. I have not found a better one."
 
 He did not tell her the rest. He has never told anyone the rest on a working floor, and this record will not do it for him: that the third rule was given to him by a woman who was about to be taken by a wall while he was saying it, and that he has said it every day since to no one in particular, and that on the day the channel turned blue he said it to himself, quietly, in the dark, because the wall had gone quiet and there was nothing else to say it to.
 
 ### Day 151 — The Lullaby
 
-[Dekan] Containment report. The Maw is... singing.
+> **[Dekan]** "Containment report. The Maw is... singing."
 
-[Majin] Singing.
+He had rehearsed it on the way up and it still came out wrong. You do not put the word *singing* in a containment report.
 
-[Dekan] Not words. Not screaming. A low, beautiful, polyphonic hum. The thousand are singing a lullaby.
+> **[Majin]** *"Singing."*
 
-[Majin] Do we know it?
+> **[Dekan]** "Not words. Not screaming. A low, beautiful, polyphonic hum."
 
-[Dekan] The acoustic lexicons matched the melody within three seconds. It's the *Sleep Under the Willow* lullaby from the First Consolihan colony. The mothers used to sing it to their infants during the dust storms.
+> **[Dekan]** *"The thousand are singing a lullaby."*
 
-[Majin] ...
+> **[Majin]** "Do we know it?"
 
-[Dekan] Director... I walked down to the edge. The pitch wasn't black anymore. It was clear as mountain water. You could see all the way to the bottom. And at the bottom... they were holding hands.
+> **[Dekan]** "The acoustic lexicons matched the melody within three seconds. It's the *Sleep Under the Willow* lullaby from the First Consolihan colony. The mothers used to sing it to their infants during the dust storms."
 
-[Majin] They are singing themselves to sleep, Dekan. Tell the entire facility: silence all heavy machinery. Let their lullaby be heard.
+Majin did not answer for long enough that Dekan checked the channel was still live.
+
+> **[Dekan]** "Director... I walked down to the edge. The pitch wasn't black anymore. It was clear as mountain water. You could see all the way to the bottom. And at the bottom... they were holding hands."
+
+> **[Majin]** "They are singing themselves to sleep, Dekan."
+
+> **[Majin]** **"Tell the entire facility: silence all heavy machinery. Let their lullaby be heard."**
 
 The order went out. He carried it himself to the engineering decks, because it was the first order in four thousand years that required the facility to be quiet rather than to hold.
 
@@ -345,19 +357,19 @@ The second page was retained. He checked, twice.
 
 ### Day 165 — The Quiet
 
-[Dekan] Containment report. They're gone.
+> **[Dekan]** "Containment report. They're gone."
 
-[Majin] Gone.
+> **[Majin]** "Gone."
 
-[Dekan] The thousand. The voices. The pressure under the scales. The channel has gone dark from the shoulder down. The signature is not Grudge and not Lament. It is nothing.
+> **[Dekan]** "The thousand. The voices. The pressure under the scales. The channel has gone dark from the shoulder down. The signature is not Grudge and not Lament. It is nothing."
 
-[Majin] Are you certain?
+> **[Majin]** "Are you certain?"
 
-[Dekan] I am certain that there is nothing to hear. I am not certain what that means. I don't know.
+> **[Dekan]** "I am certain that there is nothing to hear. I am not certain what that means. I don't know."
 
-[Majin] ...Dekan.
+> **[Majin]** *"...Dekan."*
 
-[Dekan] The Maw is peaceful. For the first time in four thousand years, it is peaceful.
+> **[Dekan]** "The Maw is peaceful. For the first time in four thousand years, it is peaceful."
 
 He went down to the edge alone after the report, with the ledger, and stood where he had stood at seven and at thirty-eight and every year between, and there was no chorus, and no pressure, and no second opinion about what the wall was doing.
 
@@ -371,7 +383,7 @@ Then he closed the ledger and said the three rules out loud, in order, to a wall
 
 And then, because there was no longer a reason not to, he asked the question he had not asked at seven.
 
-[Dekan] Are you coming?
+> **[Dekan]** *"Are you coming?"*
 
 The pit did not answer. This record does not supply one. It notes only that he stood there for some minutes afterward, which is not in the margin, because some entries do not need a column to be legible.
 
@@ -391,23 +403,29 @@ Then he read the incident index.
 
 He set the page down. There was no next line — the index ended there, and the thousand names were not in it, and neither was one Warden with a grief-heavy baton.
 
-[she] Sir. Did command know?
+> **[she]** "Sir. Did command know?"
 
-[Dekan] It was known to the Menders in Year 195. It was known to the Council in Year 202. It has been known to the record since the record was written.
+> **[Dekan]** "It was known to the Menders in Year 195. It was known to the Council in Year 202. It has been known to the record since the record was written."
 
-[she] And us?
+> **[she]** "And us?"
 
-[Dekan] It sat in a file in a room you were not cleared for. That is not a defence of us. That is what the room was for.
+> **[Dekan]** "It sat in a file in a room you were not cleared for."
 
-[she] What do we tell the families?
+The lamp buzzed over the lectern. Nobody moved.
 
-[Dekan] The truth, in the order it happened. Forecast in Year 195. Event in Year 202. Seventeen minutes. Responders present. Rescue not attempted. Then tell them what day of the year they are standing in, and let them decide what to do with a city that needed four thousand years to say the sentence out loud.
+> **[Dekan]** *"That is not a defence of us. That is what the room was for."*
 
-[she] And your part, sir?
+> **[she]** "What do we tell the families?"
+
+> **[Dekan]** "The truth, in the order it happened. Forecast in Year 195. Event in Year 202. Seventeen minutes. Responders present. Rescue not attempted. Then tell them what day of the year they are standing in, and let them decide what to do with a city that needed four thousand years to say the sentence out loud."
+
+> **[she]** *"And your part, sir?"*
 
 He did not answer immediately. The lamp buzzed. Somewhere below the floor, something that had screamed for four thousand years did not scream.
 
-[Dekan] I stood outside the wall and wrote down what came through it. Accurately. For thirty years.
+> **[Dekan]** "I stood outside the wall and wrote down what came through it."
+
+> **[Dekan]** *"Accurately. For thirty years."*
 
 No one in the hall said anything. He took the silence as the answer it was, closed the file, and dismissed the shift.
 
@@ -421,15 +439,15 @@ The annex that had closed his taboo case in Year 4,232 was unsealed with the res
 
 ### Day 350 — Visitors
 
-[Dekan] Containment report. All entities are... calm.
+> **[Dekan]** "Containment report. All entities are... calm."
 
-[Majin] All of them?
+> **[Majin]** "All of them?"
 
-[Dekan] Every single one. The Orphaned Bell tolls softly in the north courtyard — its sound is like silver rain. The Smothering Mother walks through the residential dormitories, draping her warm shawl over the sick and elderly. The Forgotten Soldier stands guard at Gate 01 — not from coercion, but from pride. And the Grieving Colossus sits in the garden, smiling as children climb upon its stone knees.
+> **[Dekan]** "Every single one. The Orphaned Bell tolls softly in the north courtyard — its sound is like silver rain. The Smothering Mother walks through the residential dormitories, draping her warm shawl over the sick and elderly. The Forgotten Soldier stands guard at Gate 01 — not from coercion, but from pride. And the Grieving Colossus sits in the garden, smiling as children climb upon its stone knees."
 
-[Majin] They are no longer anomalies, Dekan.
+> **[Majin]** "They are no longer anomalies, Dekan."
 
-[Dekan] No. They are our history. They are the sorrow we survived, and now they are the family that walks with us.
+> **[Dekan]** "No. They are our history. They are the sorrow we survived, and now they are the family that walks with us."
 
 He did not add the sentence he was thinking, because the report was going well and because he had learned, in thirty years, to file the thought separately. The sentence was: *and the wall is quiet, and I am still standing in front of it, and nobody has told me what I am for now.*
 
@@ -443,47 +461,47 @@ She ran the perimeter kitchen in the year he was eight. She is old now, and she 
 
 He visits on the ninth of the month. He has done it since the Cycle broke. She feeds him and does not let him talk about reports until he has eaten, which is a rule she invented when he was a child and has never once been asked to justify.
 
-[Iseul] You still walk the whole line.
+> **[Iseul]** "You still walk the whole line."
 
-[Dekan] Forty minutes. Every marker.
+> **[Dekan]** "Forty minutes. Every marker."
 
-[Iseul] In the cold.
+> **[Iseul]** "In the cold."
 
-[Dekan] The markers don't care about the cold.
+> **[Dekan]** "The markers don't care about the cold."
 
 She laughs at that the way she has laughed at it for thirty-six years, and then she says the thing this record has been walking toward, in the plain voice of a woman who never had a clearance level and never needed one.
 
-[Iseul] You were a terrible child to have in a kitchen, you know. Up at all hours. Writing your little numbers.
+> **[Iseul]** "You were a terrible child to have in a kitchen, you know. Up at all hours. Writing your little numbers."
 
-[Dekan] I was useful.
+> **[Dekan]** "I was useful."
 
-[Iseul] You were useful. That's not what I said.
+> **[Iseul]** "You were useful. That's not what I said."
 
 She reminds him of the night the researcher came at two in the morning. Marker eleven had gone soft and the readings disagreed and a man with a coat too good for Zone B wanted a child to stand next to it and say what he felt.
 
-[Dekan] I remember.
+> **[Dekan]** *"I remember."*
 
-[Iseul] You came back at four and sat in my kitchen and wrote the whole thing down again, in your own hand, in your own book. And I asked you why, when the man already had it.
+> **[Iseul]** "You came back at four and sat in my kitchen and wrote the whole thing down again, in your own hand, in your own book. And I asked you why, when the man already had it."
 
-[Dekan] ...
+He did not answer that, because the answer was a confession and she had not asked for one.
 
-[Iseul] You said, *so if it happens again nobody can say we didn't know.*
+> **[Iseul]** "You said, *so if it happens again nobody can say we didn't know.*"
 
 He does not answer. The stove ticks as it cools.
 
-[Iseul] You were eight years old, Dekan. You were not doing their filing. You were building a warning for people who hadn't been born yet.
+> **[Iseul]** "You were eight years old, Dekan. You were not doing their filing. You were building a warning for people who hadn't been born yet."
 
-[Dekan] I was standing beside an unstable marker because a man in a good coat told me to.
+> **[Dekan]** "I was standing beside an unstable marker because a man in a good coat told me to."
 
-[Iseul] Yes. And then you went home and did the part he hadn't asked for. Those are two different things and you have spent thirty years pretending they're one.
+> **[Iseul]** "Yes. And then you went home and did the part he hadn't asked for. Those are two different things and you have spent thirty years pretending they're one."
 
 She is the only person alive who can say the next sentence to him, because she was there and she has no institution to protect and she is too old to be impressed by him.
 
-[Iseul] We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours. Not yours. You have been carrying our failure around like it was your homework.
+> **[Iseul]** "We fed you and passed you between posts because it was easier than deciding whose child you were. That was ours. Not yours. You have been carrying our failure around like it was your homework."
 
-[Dekan] If I put it down, the thousand are only a file.
+> **[Dekan]** "If I put it down, the thousand are only a file."
 
-[Iseul] They're already only a file. You're the one who keeps reading it.
+> **[Iseul]** "They're already only a file. You're the one who keeps reading it."
 
 He eats. He does the washing up, badly, as he has always done it badly, and she lets him, and when he leaves she stands in the door and makes him say his name.
 
@@ -499,13 +517,13 @@ He read it twice. Then he took the pen and changed one line.
 
 > `Population: one thousand. Departed.`
 
-[him] Sir — the form doesn't have a field for that.
+> **[him]** "Sir — the form doesn't have a field for that."
 
-[Dekan] It does now.
+> **[Dekan]** "It does now."
 
-[him] The registry will reject it. The entry is a closure, not a roster.
+> **[him]** "The registry will reject it. The entry is a closure, not a roster."
 
-[Dekan] Then the registry is wrong about what a closure is.
+> **[Dekan]** "Then the registry is wrong about what a closure is."
 
 He signed it and gave it back. The officer left, and the summary went into the system, and somewhere in the Directorate a clerk had to invent a field because a man in a containment coat refused to let a thousand people become a zero.
 
@@ -570,7 +588,7 @@ Then, underneath, in the margin, where the forms do not look:
 
 The sentences do not change. What changes is whether there is anyone behind the wall to be counted.
 
-### Cast
+### The label register
 
 | Speaker | Kind | Labels used | Bounds |
 |---|---|---|---|
@@ -580,7 +598,6 @@ The sentences do not change. What changes is whether there is anyone behind the 
 | The containment officer | Backstory-only, unnamed | `[she]` | Census and first-team report on Day 0 |
 | The engineer | Backstory-only, unnamed | `[him]` | Field generator and civic envelope |
 | The Council envoy | Backstory-only, unnamed | `[him]` | Day 0 Council delegation; carries the Tree's assessment |
-| **The Original** | Canon figure, no recorded name | `[The Original]` | Title the record itself uses; no name or name-length exists, so no `[???]` |
 
 ### Connection string
 
@@ -689,6 +706,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - No scene gives Dekan knowledge his dossier denies him, including the identity of the Council signatories and the resolution of his mother's voice.
 - No canonical speaker is quoted outside a record that already contains the line. The Day 177 statement is Dekan's; the Giltong annex is a document; the cook and the wardens are unnamed staff.
 - Canonical dossier unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 91 dialogue lines, of which 13 are at dropped volume (italic) and 1 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note
 

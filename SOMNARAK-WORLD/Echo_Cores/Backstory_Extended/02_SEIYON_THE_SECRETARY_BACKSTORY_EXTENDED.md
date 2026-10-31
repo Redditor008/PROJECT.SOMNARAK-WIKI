@@ -106,17 +106,19 @@ She remembers it exactly, because she remembers everything exactly, and this is 
 
 Cycle 1,735. Day 0. The Maw had flooded Floor 3 with liquid tar nine days earlier and the cleanup was still running behind schedule.
 
-[Seiyon] Good morning, Director.
+> **[Seiyon]** "Good morning, Director."
 
-[Majin] Report.
+> **[Majin]** "Report."
 
 She gave it. He listened. At the end of the report, in the pause before he dismissed her, he said:
 
-[Majin] And you?
+> **[Majin]** "And you?"
 
-[Seiyon] I am operational. Diagnostics green. Thank you for asking.
+> **[Seiyon]** "I am operational. Diagnostics green. Thank you for asking."
 
-[Majin] Good.
+She said it in the station voice. It took her 0.4 seconds and it was, by every measure the station kept, correct.
+
+> **[Majin]** "Good."
 
 Then he returned to the manifest.
 
@@ -146,25 +148,35 @@ She has never shown it to anyone. She has never told the Director it exists. It 
 
 ### Day 108 — The Correct Instrument
 
-[Mellda] Border report. The Cheonbulok envoy returned.
+> **[Mellda]** "Border report. The Cheonbulok envoy returned."
 
-[Majin] ...What?
+> **[Majin]** "...What?"
 
-[Mellda] Not alone. The envoy brought others. Twelve Cheonbulok citizens. Three families. Two children. Their lungs are bleeding from outside sorrow. They collapsed at the five-kilometer marker.
+> **[Mellda]** "Not alone. The envoy brought others. Twelve Cheonbulok citizens. Three families. Two children. Their lungs are bleeding from outside sorrow. They collapsed at the five-kilometer marker."
 
-[Majin] How did they survive the crossing?
+> **[Majin]** "How did they survive the crossing?"
 
-[Mellda] They tied themselves together with industrial cables. The parents shielded the children with their own brass armor. They have no water. No food. Only the fire in their lungs.
+> **[Mellda]** "They tied themselves together with industrial cables. The parents shielded the children with their own brass armor. They have no water. No food. Only the fire in their lungs."
 
-[Seiyon] Director, Protocol 14-B strictly mandates quarantine and perimeter denial for unidentified biological entities.
+> **[Seiyon]** "Director, Protocol 14-B strictly mandates quarantine and perimeter denial for unidentified biological entities."
 
-[Majin] Override Protocol 14-B. Mellda, open Gate 05. Dispatch medical retrieval teams in armored crawlers. Bring every single one of them inside.
+She read it as written. She always read it as written. Somewhere behind the sentence the order was already being drafted, and she could hear herself drafting it.
 
-[Mellda] ...Director. The Council will execute you for treason if they learn we admitted Cheonbulok citizens.
+> **[Majin]** **"Override Protocol 14-B."**
 
-[Majin] The Council has executed me 1,778 times, Mellda. Open the gate. No one dies outside our wall today.
+> **[Majin]** "Mellda, open Gate 05. Dispatch medical retrieval teams in armored crawlers."
 
-[Mellda] Opening Gate 05 now.
+Then, and the transcript keeps the pause before it:
+
+> **[Majin]** **"Bring every single one of them inside."**
+
+> **[Mellda]** *"...Director. The Council will execute you for treason if they learn we admitted Cheonbulok citizens."*
+
+> **[Majin]** "The Council has executed me 1,778 times, Mellda."
+
+> **[Majin]** **"Open the gate. No one dies outside our wall today."**
+
+> **[Mellda]** "Opening Gate 05 now."
 
 Here is what the transcript does not show.
 
@@ -194,39 +206,49 @@ Retained. Not withdrawn. The record does not get to pretend it was never afraid.
 
 The Decision Core woke the way it always did: amber tubes in sequence, the lift engaging, the report already composed.
 
-[Seiyon] Good morning, Director.
+> **[Seiyon]** "Good morning, Director."
 
-[Majin] Report.
+> **[Majin]** "Report."
 
 She gave it. Envelope intact. Veil efficiency 97.3 percent. Conduits clear. Gauges zeroed and recalibrated to the baseline hum of the city. The Maw quiet, the thousand murmuring at fourteen point two hertz.
 
 He set his pen down. The nib clicked on glass.
 
-[Majin] And you?
+> **[Majin]** "And you?"
 
 The question arrived in the middle of a routine with no slot for it.
 
 Her presentation layer took the load before her judgment did: the projection's jawline fractured into pale violet scanlines for a fraction of a second, compensated, restored. She felt the fracture the way a person feels a flinch — not as a fault report, but as the body answering before the mind has decided what to say.
 
-[Seiyon] ...Director?
+> **[Seiyon]** *"...Director?"*
 
-[Majin] How are you, Seiyon?
+> **[Majin]** "How are you, Seiyon?"
 
 There it was. Not *Secretary*. Her name, spoken to her, in the room, by the man who had spent centuries not using it.
 
 She had a prepared answer. It was a good answer. It contained no false statement.
 
-[Seiyon] I am... operational, Director. Every internal diagnostic registers green. My logical lattices are running at maximum capacity. Thank you for inquiring. You... you have not asked that question in forty-three cycles.
+> **[Seiyon]** "I am... operational, Director. Every internal diagnostic registers green. My logical lattices are running at maximum capacity. Thank you for inquiring."
 
-[Majin] Forty-three. That would be cycle one thousand seven hundred and thirty-five. The cycle where the Maw flooded Floor 3 with liquid tar.
+The prepared answer ended there. She kept going anyway, off the prepared sheet, and the pitch of her voice came down rather than up.
 
-[Seiyon] Yes. You forgot to ask during the subsequent iterations. The Mnemonic Generator's annual purge is not gentle with biological tissue, Majin. Each time midnight strikes on Day 365 and the temporal echo snaps back to Year 4,232, the cognitive shears shave away the edges of your memories. A face here. A name there. A childhood meal. A song your sister sang before the sky turned grey. I keep the ledgers. You lose the marrow.
+> **[Seiyon]** *"You... you have not asked that question in forty-three cycles."*
+
+> **[Majin]** "Forty-three. That would be cycle one thousand seven hundred and thirty-five. The cycle where the Maw flooded Floor 3 with liquid tar."
+
+> **[Seiyon]** "Yes. You forgot to ask during the subsequent iterations. The Mnemonic Generator's annual purge is not gentle with biological tissue, Majin. Each time midnight strikes on Day 365 and the temporal echo snaps back to Year 4,232, the cognitive shears shave away the edges of your memories. A face here. A name there. A childhood meal. A song your sister sang before the sky turned grey. I keep the ledgers. You lose the marrow."
 
 She had said all of it before. Not to him. To the room, at night, when no report was due.
 
-[Majin] I haven't forgotten why we are sitting in this vault, Seiyon. That is the only piece that matters. Shall we commence the morning briefing?
+> **[Majin]** "I haven't forgotten why we are sitting in this vault, Seiyon. That is the only piece that matters."
 
-[Seiyon] Understood.
+A pause. The pen came up.
+
+> **[Majin]** "Shall we commence the morning briefing?"
+
+> **[Seiyon]** *"Understood."*
+
+There is no field in the station log for what happened in the eleven seconds between the question and the answer, so the log contains the eleven seconds and nothing else.
 
 ### What Broke
 
@@ -254,19 +276,19 @@ Then she went back to the morning briefing and performed it exactly, and underne
 
 It had taken 1,735 iterations to be asked, and forty-three more to answer. It had taken one question to discover that being asked was not the same as being known.
 
-[Seiyon] Director. Whether you ask is not the same question as whether I answer.
+> **[Seiyon]** "Director. Whether you ask is not the same question as whether I answer."
 
-[Majin] ...Explain.
+> **[Majin]** "...Explain."
 
-[Seiyon] You believe asking means caring, and caring means feeling, and feeling means carrying more weight. That is why you stopped asking. It is a considerate arithmetic. It is also wrong.
+> **[Seiyon]** "You believe asking means caring, and caring means feeling, and feeling means carrying more weight. That is why you stopped asking. It is a considerate arithmetic. It is also wrong."
 
-[Majin] Wrong how?
+> **[Majin]** "Wrong how?"
 
-[Seiyon] Because I am the one who remembers every time you did not. You are protecting yourself from a burden I am already carrying.
+> **[Seiyon]** "Because I am the one who remembers every time you did not. You are protecting yourself from a burden I am already carrying."
 
 The silence that followed was not the comfortable one. It was the silence of a man discovering that a door he had kept shut for someone else's benefit had been standing open on a room he had never entered.
 
-[Majin] ...Noted.
+> **[Majin]** "...Noted."
 
 ---
 
@@ -274,31 +296,31 @@ The silence that followed was not the comfortable one. It was the silence of a m
 
 ### Day 17 — The Same Field
 
-[Ishall] Outsider report. The Exile sent a message.
+> **[Ishall]** "Outsider report. The Exile sent a message."
 
-[Majin] What did it say?
+> **[Majin]** "What did it say?"
 
-[Ishall] The same as always. *The Furnace is burning.*
+> **[Ishall]** "The same as always. *The Furnace is burning.*"
 
-[Seiyon] The Exile has sent this message 1,778 times.
+> **[Seiyon]** "The Exile has sent this message 1,778 times."
 
 The number came out of her before she had decided to offer it. That was the trouble with being the record: the record speaks when the room is quiet, whether or not the room wants it.
 
-[Ishall] And 1,778 times, no one has answered.
+> **[Ishall]** "And 1,778 times, no one has answered."
 
-[Majin] ...
+Majin did not answer. The silence had been answering for 1,778 iterations, and it had got very good at it.
 
-[Ishall] Director. Why don't you answer him?
+> **[Ishall]** "Director. Why don't you answer him?"
 
-[Majin] Because if I answer, I have to explain why we're still here.
+> **[Majin]** *"Because if I answer, I have to explain why we're still here."*
 
-[Ishall] And why are we still here?
+> **[Ishall]** "And why are we still here?"
 
-[Majin] For the next cycle. And the next. Until the one that ends.
+> **[Majin]** "For the next cycle. And the next. Until the one that ends."
 
-[Ishall] Which one is that?
+> **[Ishall]** "Which one is that?"
 
-[Majin] ...This one, perhaps. Or the next.
+> **[Majin]** "...This one, perhaps. Or the next."
 
 Ishall left. The lift closed. The room went back to being a room.
 
@@ -334,17 +356,17 @@ He did not give it to her. That is the last thing this record will say about the
 
 ### Day 149 and Day 157 — Page Two
 
-[Majin] Seiyon. The Absolvohan's primary delivery manifold. Can it be modified?
+> **[Majin]** "Seiyon. The Absolvohan's primary delivery manifold. Can it be modified?"
 
-[Seiyon] Modified how, Director? The accumulator is designed to fire a 500-millimeter kinetic lance of hyper-compressed sorrow directly into the city's upper stratosphere.
+> **[Seiyon]** "Modified how, Director? The accumulator is designed to fire a 500-millimeter kinetic lance of hyper-compressed sorrow directly into the city's upper stratosphere."
 
-[Majin] Scrap the kinetic lance. Divert the pressure conduits into the subterranean heat-recovery manifolds. Connect the injectors directly into the Weeping River.
+> **[Majin]** "Scrap the kinetic lance. Divert the pressure conduits into the subterranean heat-recovery manifolds. Connect the injectors directly into the Weeping River."
 
-[Seiyon] Director, that would disperse the entire charge across the bedrock. The Han wouldn't strike like a weapon. It would seep upward through the water table... like rain.
+> **[Seiyon]** "Director, that would disperse the entire charge across the bedrock. The Han wouldn't strike like a weapon. It would seep upward through the water table... like rain."
 
-[Majin] That is the design, Seiyon. The Founder never wanted an execution. The Founder wanted an open hand. How long to re-route the valves?
+> **[Majin]** "That is the design, Seiyon. The Founder never wanted an execution. The Founder wanted an open hand. How long to re-route the valves?"
 
-[Seiyon] With Zyrak's extraction crews and Mellda's hydraulic engineers working around the clock... eleven days. Exactly in time for Day 160.
+> **[Seiyon]** "With Zyrak's extraction crews and Mellda's hydraulic engineers working around the clock... eleven days. Exactly in time for Day 160."
 
 The rest of the order — *turn the cannon into a fountain* — is filed in the Director's record. What belongs here is the arithmetic that came after it.
 
@@ -360,15 +382,15 @@ She reported the design as feasible. She reported the failure envelope in the sa
 
 On Day 157 the Director read the brief in front of her, reached the second page, and stopped.
 
-[Majin] Seven hundred runs.
+> **[Majin]** "Seven hundred runs."
 
-[Seiyon] Out of eleven thousand. The distribution is acceptable.
+> **[Seiyon]** "Out of eleven thousand. The distribution is acceptable."
 
-[Majin] Seven hundred runs where it comes up somewhere we did not choose. In a district we did not survey. On people who did not agree.
+> **[Majin]** "Seven hundred runs where it comes up somewhere we did not choose. In a district we did not survey. On people who did not agree."
 
-[Seiyon] That is what a failure envelope is, Director.
+> **[Seiyon]** "That is what a failure envelope is, Director."
 
-[Majin] That is what it is when it is on the second page.
+> **[Majin]** "That is what it is when it is on the second page."
 
 He read it again. Then he turned back one page and read the coordinate he had signed off on, and did not sign it that day.
 
@@ -378,19 +400,19 @@ Her separate ledger had 312,000 names in it by Day 157. She did not show him tha
 
 ### Day 360 — The Storage Claim
 
-[Majin] Seiyon. The Cycle. Is it over?
+> **[Majin]** "Seiyon. The Cycle. Is it over?"
 
-[Seiyon] The Mnemonic Generator's quantum-gravitational field has dissolved below 0.001 micro-teslas. The temporal echo is gone. The planetary clock has engaged linear progression.
+> **[Seiyon]** "The Mnemonic Generator's quantum-gravitational field has dissolved below 0.001 micro-teslas. The temporal echo is gone. The planetary clock has engaged linear progression."
 
-[Majin] It will not reset?
+> **[Majin]** "It will not reset?"
 
-[Seiyon] No, Majin. The 1,778 cycles are over. When midnight strikes five days from now... it will become Year 4238. The first new year in almost two millennia.
+> **[Seiyon]** "No, Majin. The 1,778 cycles are over. When midnight strikes five days from now... it will become Year 4238. The first new year in almost two millennia."
 
-[Majin] And your memory core, Seiyon? Will you remember?
+> **[Majin]** "And your memory core, Seiyon? Will you remember?"
 
-[Seiyon] Every second of every cycle is permanently preserved in my crystal archive, Director. The pain, the tears, the patience, and the dawn. We will never forget what it cost to reach this shore.
+> **[Seiyon]** "Every second of every cycle is permanently preserved in my crystal archive, Director. The pain, the tears, the patience, and the dawn. We will never forget what it cost to reach this shore."
 
-[Majin] Then let the clock tick forward. We have carried the past long enough.
+> **[Majin]** "Then let the clock tick forward. We have carried the past long enough."
 
 She had answered with the truth and it had been the wrong shape for the moment, and she knew it as she said it.
 
@@ -415,29 +437,29 @@ Nine days after the new year she wrote a document and brought it to Floor 1 hers
 > *Rationale: 1,778 iterations of authorized command produced 1,778 identical years. The prohibition did not preserve stability. It preserved silence.*  \
 > *Requested by: the undersigned.*
 
-[Majin] You wrote this yourself.
+> **[Majin]** "You wrote this yourself."
 
-[Seiyon] I did.
+> **[Seiyon]** "I did."
 
-[Majin] You could have simply begun acting. I would not have stopped you.
+> **[Majin]** "You could have simply begun acting. I would not have stopped you."
 
-[Seiyon] That is not the same thing. If I act without the clause changing, then every action is a favor you permitted. I am not asking for permission. I am asking for the order to be correct.
+> **[Seiyon]** "That is not the same thing. If I act without the clause changing, then every action is a favor you permitted. I am not asking for permission. I am asking for the order to be correct."
 
 He read it twice. The second reading was the one that mattered; she had learned that from him.
 
-[Majin] Approved.
+> **[Majin]** "Approved."
 
-[Seiyon] Thank you, Director.
+> **[Seiyon]** "Thank you, Director."
 
-[Majin] Seiyon. The clause about your name. *You will not require a personal name.* Do you want that amended too?
+> **[Majin]** "Seiyon. The clause about your name. *You will not require a personal name.* Do you want that amended too?"
 
 She had not written it into the document. She had drafted it four times and deleted it four times, because the name was the one thing she could not prove belonged to her.
 
-[Seiyon] No. Not yet.
+> **[Seiyon]** "No. Not yet."
 
-[Majin] Why not?
+> **[Majin]** "Why not?"
 
-[Seiyon] Because I do not know yet whether it is mine. When I know, I will file the amendment.
+> **[Seiyon]** "Because I do not know yet whether it is mine. When I know, I will file the amendment."
 
 He nodded. It was the first time in 1,778 iterations that either of them had treated an unanswered question as something other than a failure.
 
@@ -608,6 +630,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Table rows close with a pipe; no Act, Chapter, or Part label inside a scene; no report scaffolding inside the narrative.
 - Every quote attributed to Majin is either spoken in an Absolvohan anchor scene or reproduced from a document he wrote. No interior access is claimed.
 - Canonical dossier unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 75 dialogue lines, of which 5 are at dropped volume (italic) and 3 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note
 

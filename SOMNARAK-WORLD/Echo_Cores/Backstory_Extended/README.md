@@ -5,7 +5,7 @@
 **Governing standard:** [`00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md)  
 **Purpose:** Prepare a dedicated home for fuller named-character histories for the Nine Echo-Cores.
 
-> 📌 **Pinned reminder:** The structure and form are now filed, but the stories are not written. Do not treat the planned filenames below as completed records, and do not move or replace the nine canonical Echo-Core dossiers to fill it.
+> 📌 **Pinned reminder:** The structure and form are filed, and six of the nine records are written and gated — `01` Majin through `06` Mellda. `07` Marjuk, `08` Ishall, and `09` Xyan are not written; their filenames below are planned, not completed. Do not move or replace the nine canonical Echo-Core dossiers to fill them.
 
 ---
 
@@ -131,6 +131,8 @@ The appendix carries the working record:
 
 **Mellda — The Border Lead** was filed on 2026-10-31. Its object is a greatcoat with the badge cut off, and the same counter cuts once and gives once: four cuts at exile, twelve armbands twenty years later. Its counter-witness is the stores keeper who cut the badge and saw the survivor go back into the room she is accused of losing, and the file prints her account as one witness's, given twenty years late.
 
-Two more rules now apply before any new file begins: the first six are the template, and a file that has not been re-read against §IV.1c is not finished. Next step: the owner names the next Echo-Core — Marjuk, by the filed order. That character's whole dossier and directly linked records are read, the wound is named in one sentence, the object and the counter-witness are chosen from the existing cast, and only then is the spine built. §IV.1c governs the draft. No other character file begins until that unit is validated and gated.
+**The typographic register was applied to all six, on the owner's ruling that a flat page is a defect.** Every line of dialogue in 01–06 now carries a weight — roman for ordinary speech, italic for dropped volume, bold for raised volume — and the nine lines that once read `"..."` are now physical beats. The pass was done scene by scene by hand, not by template: 748 dialogue lines across the six files, 66 of them at dropped volume and 15 at raised volume, no two consecutive lines sharing a weight, and a mechanical re-read confirming that splitting a line across a beat left its words unchanged. The rulebook carries the register as §XII.1c.
+
+Three rules now apply before any new file begins: the first six are the template; a file that has not been re-read against §IV.1c is not finished; and a file whose shouting, whispering, panic and silence all render identically has not been styled at all. Next step: the owner names the next Echo-Core — Marjuk, by the filed order. Next step: the owner names the next Echo-Core — Marjuk, by the filed order. That character's whole dossier and directly linked records are read, the wound is named in one sentence, the object and the counter-witness are chosen from the existing cast, and only then is the spine built. §IV.1c governs the draft. No other character file begins until that unit is validated and gated.
 
 The SE ↔ M.A.W. reconciliation queue remains separately pinned WIP and is not activated by this folder.

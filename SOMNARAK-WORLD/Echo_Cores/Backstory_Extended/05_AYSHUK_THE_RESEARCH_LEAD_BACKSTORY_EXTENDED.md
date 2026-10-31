@@ -19,37 +19,37 @@ The door closes on a magnetic seal that responds to Floor 4 authorization, and a
 
 Beside the door, on a brass hook, hangs a key.
 
-[Haeun] Lead. Permission to ask.
+> **[Haeun]** "Lead. Permission to ask."
 
-[Ayshuk] Ask.
+> **[Ayshuk]** "Ask."
 
-[Haeun] Why is the chamber empty?
+> **[Haeun]** "Why is the chamber empty?"
 
-[Ayshuk] Because nothing is in it.
+> **[Ayshuk]** "Because nothing is in it."
 
-[Haeun] That's not what I meant.
+> **[Haeun]** "That's not what I meant."
 
-[Ayshuk] I know. It is what I answered.
+> **[Ayshuk]** "I know. It is what I answered."
 
 She is new to Floor 4 and has the habit, common to new researchers, of asking questions in the order they occur to her rather than the order that will get her a useful answer. The Research Lead does not correct the habit. He waits, because waiting is cheaper than a wrong correction, and because the question she actually asked has a factual answer.
 
-[Ayshuk] This room held Entity 015. The Kind Healer. It was porcelain over a light, and it blessed people by touching them, and after the twelfth blessing it stopped being what it had been. The room has been empty since Day 155.
+> **[Ayshuk]** "This room held Entity 015. The Kind Healer. It was porcelain over a light, and it blessed people by touching them, and after the twelfth blessing it stopped being what it had been. The room has been empty since Day 155."
 
-[Haeun] And the key?
+> **[Haeun]** "And the key?"
 
-[Ayshuk] The key opened the bolt before the bolt was removed.
+> **[Ayshuk]** "The key opened the bolt before the bolt was removed."
 
-[Haeun] So it doesn't open anything now.
+> **[Haeun]** "So it doesn't open anything now."
 
-[Ayshuk] Correct.
+> **[Ayshuk]** "Correct."
 
 He takes it off the hook, which he does not usually do, and holds it flat on his palm so that she can see the worn teeth.
 
-[Ayshuk] Write the inspection in the shift log. Chamber seal intact. Chamber empty. Key accounted for.
+> **[Ayshuk]** "Write the inspection in the shift log. Chamber seal intact. Chamber empty. Key accounted for."
 
-[Haeun] And the rest?
+> **[Haeun]** "And the rest?"
 
-[Ayshuk] The rest is not an inspection. That is the part I am going to dictate.
+> **[Ayshuk]** "The rest is not an inspection. That is the part I am going to dictate."
 
 ---
 
@@ -119,21 +119,21 @@ Majin interviewed him in a room with a window that looked at a wall. The Directo
 
 Ayshuk had prepared an answer. He had prepared it the way he prepared everything, and it was accurate, and it was incomplete.
 
-[Ayshuk] Access.
+> **[Ayshuk]** "Access."
 
-[Majin] To what?
+> **[Majin]** "To what?"
 
-[Ayshuk] Your entities. Your ledgers. Your Archive. Whatever you have that describes what I am missing.
+> **[Ayshuk]** "Your entities. Your ledgers. Your Archive. Whatever you have that describes what I am missing."
 
-[Majin] That is a research request, not an answer.
+> **[Majin]** "That is a research request, not an answer."
 
-[Ayshuk] It is the answer I have.
+> **[Ayshuk]** "It is the answer I have."
 
-[Majin] Then I will take it. Understand what you are joining. We contain things that would break you if they could.
+> **[Majin]** "Then I will take it. Understand what you are joining. We contain things that would break you if they could."
 
-[Ayshuk] They cannot.
+> **[Ayshuk]** "They cannot."
 
-[Majin] I know. That is why I am hiring you, and it is not a compliment.
+> **[Majin]** "I know. That is why I am hiring you, and it is not a compliment."
 
 He signed. The room was quiet. Somewhere under the floor a conduit was moving Han from one place to another, and neither of them mentioned it.
 
@@ -169,11 +169,11 @@ The blank has been there since. Twice a year the office audits open files and tw
 
 ### Day 5 — Nine
 
-[Ayshuk] Research report. Entity 015 — The Kind Healer — has blessed nine personnel. Three more and...
+> **[Ayshuk]** "Research report. Entity 015 — The Kind Healer — has blessed nine personnel. Three more and..."
 
-[Majin] I know what happens at twelve.
+> **[Majin]** "I know what happens at twelve."
 
-[Ayshuk] Of course. Just... monitoring.
+> **[Ayshuk]** "Of course. Just... monitoring."
 
 The meeting moved on to Floor 3's extraction report, which is filed in the Extraction Lead's record and is not repeated here. What belongs here is the sentence he did not finish, and the reason he could not finish it.
 
@@ -185,27 +185,27 @@ That was the first entry in the margin of his own working copy of the file: *Rec
 
 ### Day 36 — The Grid
 
-[Ayshuk] Research report. Entity 044 — The Dawn of Mourning — has never formed in this cycle.
+> **[Ayshuk]** "Research report. Entity 044 — The Dawn of Mourning — has never formed in this cycle."
 
-[Majin] Correct. The Kind Healer's blessing count is at nine.
+> **[Majin]** "Correct. The Kind Healer's blessing count is at nine."
 
-[Ayshuk] But Director... the Healer tried to bless a tenth today.
+> **[Ayshuk]** "But Director... the Healer tried to bless a tenth today."
 
-[Majin] Who was the target?
+> **[Majin]** "Who was the target?"
 
-[Ayshuk] Researcher Bae. She was delivering nutrient broth to the chamber. The Healer reached out. The halo was forming. I had to trigger the neuro-shock grid to break the contact.
+> **[Ayshuk]** "Researcher Bae. She was delivering nutrient broth to the chamber. The Healer reached out. The halo was forming. I had to trigger the neuro-shock grid to break the contact."
 
-[Majin] Did the halo complete?
+> **[Majin]** "Did the halo complete?"
 
-[Ayshuk] No. It collapsed at 80%. But the Healer looked at me, Director. It didn't look angry. It looked... pitying. Like it felt sorry for me for stopping it.
+> **[Ayshuk]** "No. It collapsed at 80%. But the Healer looked at me, Director. It didn't look angry. It looked... pitying. Like it felt sorry for me for stopping it."
 
-[Majin] Rotate Bae out of Floor 4. She stays in the archive with Marjuk until the cycle ends. And Ayshuk?
+> **[Majin]** "Rotate Bae out of Floor 4. She stays in the archive with Marjuk until the cycle ends. And Ayshuk?"
 
-[Ayshuk] Yes, Director?
+> **[Ayshuk]** "Yes, Director?"
 
-[Majin] If it reaches eleven... you don't use the shock grid. You seal the floor.
+> **[Majin]** "If it reaches eleven... you don't use the shock grid. You seal the floor."
 
-[Ayshuk] ...Understood.
+> **[Ayshuk]** "...Understood."
 
 He did not use the rest interval that night. His body does not require one; he takes one because the floor runs on a schedule and he keeps the schedule. He lay in the dark of a room built for a body that does not need light, and ran the exchange again, and the exchange had no exit condition.
 
@@ -217,29 +217,33 @@ He wrote in the margin: *Subject appears to hold a theory about me. Obtain the t
 
 ### Day 65 — The River
 
-[Ayshuk] Research report. The Weeping's flow rate has increased.
+> **[Ayshuk]** "Research report. The Weeping's flow rate has increased."
 
-[Majin] By how much?
+> **[Majin]** "By how much?"
 
-[Ayshuk] 0.7% since last cycle. The river is... growing. The seismic sensors indicate the subterranean cavern ceiling is thinning at the four-kilometer mark.
+> **[Ayshuk]** "0.7% since last cycle. The river is... growing. The seismic sensors indicate the subterranean cavern ceiling is thinning at the four-kilometer mark."
 
-[Majin] What is the projected surface time?
+> **[Majin]** "What is the projected surface time?"
 
-[Ayshuk] At this rate? It won't breach the surface this cycle. But the cycle after... or the cycle after that... The Weeping will carve a canyon straight through the facility's western finger.
+> **[Ayshuk]** "At this rate? It won't breach the surface this cycle. But the cycle after... or the cycle after that..."
 
-[Majin] There won't be another cycle, Ayshuk.
+> **[Ayshuk]** *"The Weeping will carve a canyon straight through the facility's western finger."*
 
-[Ayshuk] You've said that before, Director. Cycle 1,400. Cycle 1,650. You said it every time.
+> **[Majin]** "There won't be another cycle, Ayshuk."
 
-[Majin] In Cycle 1,400, did we have fifty tons of Han in the ballast?
+> **[Ayshuk]** "You've said that before, Director. Cycle 1,400. Cycle 1,650. You said it every time."
 
-[Ayshuk] ...No.
+> **[Majin]** "In Cycle 1,400, did we have fifty tons of Han in the ballast?"
 
-[Majin] In Cycle 1,650, did Cheonbulok scouts walk across the salt to find us?
+> **[Ayshuk]** *"...No."*
 
-[Ayshuk] ...No.
+> **[Majin]** "In Cycle 1,650, did Cheonbulok scouts walk across the salt to find us?"
 
-[Majin] Then this cycle is different. Return to your terminal, Ayshuk. Watch the river. But watch the gauges closer.
+> **[Ayshuk]** *"...No."*
+
+He had two pages of arithmetic that said otherwise. He did not put them in front of the Director, because the Director had not asked for arithmetic; he had asked whether this cycle was different, and the arithmetic agreed with him.
+
+> **[Majin]** "Then this cycle is different. Return to your terminal, Ayshuk. Watch the river. But watch the gauges closer."
 
 The projection he had actually run was longer than the one he said out loud. At the observed rate the Absolvohan needed 2,600 cycles to reach a hundred tons, the Weeping needed 4,000 to surface, and the margin between those two numbers was 1,400. He reported all three figures to the Director that afternoon, in writing, on the second page.
 
@@ -247,21 +251,21 @@ The Director read the second page. The Director always read the second page, whi
 
 ### Day 92 — Shin
 
-[Ayshuk] Senior Specialist Shin has received the tenth blessing.
+> **[Ayshuk]** "Senior Specialist Shin has received the tenth blessing."
 
-[Majin] From the Hollow Saint?
+> **[Majin]** "From the Hollow Saint?"
 
-[Ayshuk] Yes. The white marks have spread across his collarbone and along both forearms. His skin is beginning to exhibit crystalline translucence.
+> **[Ayshuk]** "Yes. The white marks have spread across his collarbone and along both forearms. His skin is beginning to exhibit crystalline translucence."
 
-[Majin] Ten marks. Two away from the twelfth blessing. If he receives the twelfth...
+> **[Majin]** "Ten marks. Two away from the twelfth blessing. If he receives the twelfth..."
 
-[Ayshuk] He ascends. His physical body will dissolve into incandescent white light, and every agent in the department will be baptized into martyrs. The entire containment wing will wipe.
+> **[Ayshuk]** "He ascends. His physical body will dissolve into incandescent white light, and every agent in the department will be baptized into martyrs. The entire containment wing will wipe."
 
-[Majin] Reassign Shin to administrative duties immediately. He is forbidden from entering Chamber 081.
+> **[Majin]** "Reassign Shin to administrative duties immediately. He is forbidden from entering Chamber 081."
 
-[Ayshuk] He refused the reassignment, Director. He said the Saint's voice is the only thing keeping his mind coherent. If we lock him away, he will distort autonomously.
+> **[Ayshuk]** "He refused the reassignment, Director. He said the Saint's voice is the only thing keeping his mind coherent. If we lock him away, he will distort autonomously."
 
-[Majin] Then deploy the mnemonic dampener. Channel his bio-frequency through an effigy capacitor. We keep him alive, Ayshuk. We do not sacrifice our veterans to saints.
+> **[Majin]** "Then deploy the mnemonic dampener. Channel his bio-frequency through an effigy capacitor. We keep him alive, Ayshuk. We do not sacrifice our veterans to saints."
 
 The dampener took four hours to align. Ayshuk sat with Shin for all four.
 
@@ -275,25 +279,25 @@ The rest of it reached this file by the ordinary route. Shin told the duty nurse
 
 ### Day 113 — The Chrysalis
 
-[Ayshuk] Research report. The Kind Healer approached the Cheonbulok refugees today.
+> **[Ayshuk]** "Research report. The Kind Healer approached the Cheonbulok refugees today."
 
-[Majin] ...What? Chamber 15 was encased in solid lead!
+> **[Majin]** **"...What? Chamber 15 was encased in solid lead!"**
 
-[Ayshuk] It didn't breach the physical lead, Director. When the refugees were brought through Corridor 4 for secondary pulmonary scans, the Healer projected a resonance wave directly through the lead casing. A ray of golden light pierced the wall and touched the youngest refugee child.
+> **[Ayshuk]** "It didn't breach the physical lead, Director. When the refugees were brought through Corridor 4 for secondary pulmonary scans, the Healer projected a resonance wave directly through the lead casing. A ray of golden light pierced the wall and touched the youngest refugee child."
 
-[Majin] The blessing count... is it at eleven?
+> **[Majin]** "The blessing count... is it at eleven?"
 
-[Ayshuk] Yes. Eleven apostles marked. But Director... look at the telemetry.
+> **[Ayshuk]** "Yes. Eleven apostles marked. But Director... look at the telemetry."
 
-[Majin] What am I looking at?
+> **[Majin]** "What am I looking at?"
 
-[Ayshuk] The child was dying of third-degree Outside Sorrow necrosis in both lungs. The moment the light touched her, the necrosis vanished. But more than that—her chronic rage-addiction dissolved. Her brainwaves normalized into pure, radiant tranquility. The Healer didn't trigger a corruption cascade. It transmuted her grief into Hope.
+> **[Ayshuk]** "The child was dying of third-degree Outside Sorrow necrosis in both lungs. The moment the light touched her, the necrosis vanished. But more than that—her chronic rage-addiction dissolved. Her brainwaves normalized into pure, radiant tranquility. The Healer didn't trigger a corruption cascade. It transmuted her grief into Hope."
 
-[Majin] Hope Transformation HT-002: The Shield of Dawn.
+> **[Majin]** "Hope Transformation HT-002: The Shield of Dawn."
 
-[Ayshuk] Yes! The Kind Healer is not an extinction weapon, Majin. It is a Chrysalis. If twelve are blessed... it doesn't destroy the city. It radiates planetary dawn!
+> **[Ayshuk]** **"Yes! The Kind Healer is not an extinction weapon, Majin. It is a Chrysalis. If twelve are blessed... it doesn't destroy the city. It radiates planetary dawn!"**
 
-[Majin] ...Keep the twelfth apostle protected until Day 160. Not one second sooner.
+> **[Majin]** "...Keep the twelfth apostle protected until Day 160. Not one second sooner."
 
 He went back to the telemetry after the meeting and sat with it for six hours.
 
@@ -307,21 +311,25 @@ Then, underneath, the other line, which he did not file:
 
 ### Day 137 — The Folded Fingers
 
-[Ayshuk] Research report. The Kind Healer's blessing count is still at eleven.
+> **[Ayshuk]** "Research report. The Kind Healer's blessing count is still at eleven."
 
-[Majin] It hasn't increased?
+> **[Majin]** "It hasn't increased?"
 
-[Ayshuk] No. It had three opportunities today. Two junior researchers entered Chamber 15 to calibrate the cryo-manifolds. The Healer could have reached out. It didn't.
+> **[Ayshuk]** "No. It had three opportunities today. Two junior researchers entered Chamber 15 to calibrate the cryo-manifolds. The Healer could have reached out. It didn't."
 
-[Majin] It's waiting.
+> **[Majin]** "It's waiting."
 
-[Ayshuk] Yes. It looked at Researcher Bae through the viewport. It raised its hand—and then it smiled and folded its fingers back into its lap. It knows the twelfth apostle cannot be marked until the vessel is full.
+> **[Ayshuk]** "Yes. It looked at Researcher Bae through the viewport. It raised its hand—and then it smiled and folded its fingers back into its lap. It knows the twelfth apostle cannot be marked until the vessel is full."
 
-[Majin] It knows our schedule.
+> **[Majin]** "It knows our schedule."
 
-[Ayshuk] It knows everything, Majin. It knows that if it transforms today, the wave will be incomplete. It is waiting for Day 160. It wants to transform with the whole city.
+> **[Ayshuk]** "It knows everything, Majin. It knows that if it transforms today, the wave will be incomplete."
 
-[Majin] ...Then we will not make it wait in vain. Prepare Floor 4 for the Final Chrysalis.
+He read the next sentence off his own sheet, and his voice dropped into the register it used for numbers that frightened him.
+
+> **[Ayshuk]** *"It is waiting for Day 160. It wants to transform with the whole city."*
+
+> **[Majin]** "...Then we will not make it wait in vain. Prepare Floor 4 for the Final Chrysalis."
 
 The grid key was in his hand when the Healer folded its fingers.
 
@@ -337,25 +345,27 @@ That is the entry the record wants kept. It is not a compassionate act and this 
 
 ### Day 155 — The Twelfth
 
-[Ayshuk] Research report. The Kind Healer blessed a twelfth person today.
+> **[Ayshuk]** "Research report. The Kind Healer blessed a twelfth person today."
 
-[Majin] ...What?
+> **[Majin]** "...What?"
 
-[Ayshuk] Do not panic, Director. Look at the telemetry.
+> **[Ayshuk]** "Do not panic, Director. Look at the telemetry."
 
-[Majin] Who was the twelfth?
+> **[Majin]** "Who was the twelfth?"
 
-[Ayshuk] It was me, Majin.
+> **[Ayshuk]** "It was me, Majin."
 
-[Majin] Ayshuk... you let it mark you?
+> **[Majin]** "Ayshuk... you let it mark you?"
 
-[Ayshuk] I walked into Chamber 15 willingly. The eleven apostles were already chosen: ten facility wardens, one Cheonbulok refugee child. The twelfth had to be an Echo-Core. It had to be someone who carried the intellectual grief of the city's failed science. I took its hand.
+> **[Ayshuk]** "I walked into Chamber 15 willingly. The eleven apostles were already chosen: ten facility wardens, one Cheonbulok refugee child. The twelfth had to be an Echo-Core. It had to be someone who carried the intellectual grief of the city's failed science. I took its hand."
 
-[Majin] And the Dawn of Mourning?
+> **[Majin]** "And the Dawn of Mourning?"
 
-[Ayshuk] It did not awaken. The Kind Healer dissolved its porcelain shell. It has transformed into Hope Transformation HT-V-HH-001: The Hand of Hope. Look upon Floor 4, Director.
+> **[Ayshuk]** "It did not awaken. The Kind Healer dissolved its porcelain shell. It has transformed into Hope Transformation HT-V-HH-001: The Hand of Hope. Look upon Floor 4, Director."
 
-[Majin] ...Good God.
+The Director said nothing for a while. When he did speak it was not to Ayshuk.
+
+> **[Majin]** *"...Good God."*
 
 Here is what the report does not contain.
 
@@ -397,7 +407,7 @@ At the end of the second hour he went to the viewport and stood where he had sto
 
 The release came five days later. Every floor reported one aspect of it — manifold pressure, nozzle clearance, the border, the Maw, the count down from three — and each of those reports is filed on its own floor. Only one line from that morning belongs here.
 
-> **Ayshuk:** _"The twelve apostles are in position on Floor 4. The Hand of Hope is resonating with the accumulators."_
+> **[Ayshuk]** "The twelve apostles are in position on Floor 4. The Hand of Hope is resonating with the accumulators."
 
 Then the valves opened and forty-nine point eight tons of Han went into the bedrock under Zone B.
 
@@ -417,13 +427,13 @@ Zyrak asked her question at that meeting. This record does not repeat it; it is 
 
 Ayshuk asked his.
 
-[Ayshuk] And the entities?
+> **[Ayshuk]** "And the entities?"
 
-[Majin] They are family, Ayshuk. Not specimens.
+> **[Majin]** "They are family, Ayshuk. Not specimens."
 
-[Ayshuk] Then Floor 4 needs a new word for what it does.
+> **[Ayshuk]** "Then Floor 4 needs a new word for what it does."
 
-[Majin] You have one. You have had it since Day 113.
+> **[Majin]** "You have one. You have had it since Day 113."
 
 He did not have it. He had a hypothesis and a margin note and a sentence he had copied out of his own file at three in the morning. But the Director was not wrong: the word existed, and it was *becoming*, and it had been in his margin for a year before anyone said it out loud.
 
@@ -433,27 +443,31 @@ After the meeting, the Director asked whether Floor 4 had anything to file.
 
 The office files something every year: a research plan, a staffing note, a list of instruments due for recalibration. Ayshuk had prepared the standard three documents. He brought them. He put them on the desk. Then he stood there for a length of time that the Director, who has known him longer than the current directorate has existed, did not fill with conversation.
 
-[Ayshuk] One more.
+> **[Ayshuk]** "One more."
 
-[Majin] Go on.
+> **[Majin]** "Go on."
 
-[Ayshuk] I want it back.
+> **[Ayshuk]** "I want it back."
 
 The Director did not answer immediately. The office was warm — the anniversary had put lamps in the corridors and someone had left the door open — and outside the window the city was making the ordinary noise of a place that had decided to keep existing.
 
-[Majin] The sorrow.
+> **[Majin]** "The sorrow."
 
-[Ayshuk] Mine. Whatever was taken. I have spent my whole working life studying everyone else's and I have never once had the thing itself.
+> **[Ayshuk]** "Mine. Whatever was taken."
 
-[Majin] It was taken by something we have never identified, in a place nobody recorded, before the Directorate existed. There may be nothing left to find.
+He had rehearsed nothing. This was the first sentence in twenty years he had said without a figure behind it.
 
-[Ayshuk] I know.
+> **[Ayshuk]** *"I have spent my whole working life studying everyone else's and I have never once had the thing itself."*
 
-[Majin] And if we find it?
+> **[Majin]** "It was taken by something we have never identified, in a place nobody recorded, before the Directorate existed. There may be nothing left to find."
 
-[Ayshuk] Then I will have to decide whether to take it back, and I will not be able to decide that by measurement, and I will have to ask someone.
+> **[Ayshuk]** *"I know."*
 
-[Majin] ...File it. Floor 4's first research request for itself.
+> **[Majin]** "And if we find it?"
+
+> **[Ayshuk]** "Then I will have to decide whether to take it back, and I will not be able to decide that by measurement, and I will have to ask someone."
+
+> **[Majin]** "...File it. Floor 4's first research request for itself."
 
 He filed it. It is the only entry in the ledger where the requesting unit is also the subject, and the Comprehension Level is `0 — Unknown`, and the status field reads `open`.
 
@@ -649,6 +663,7 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - No age is invented for the childhood event; no year is stated before the Directorate; the Void entity is never identified; the missing sorrow is never recovered.
 - Table rows close with a pipe; no Act, Chapter, or Part label inside a scene; no report scaffolding inside the narrative.
 - Canonical dossier unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 102 dialogue lines, of which 7 are at dropped volume (italic) and 2 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note
 
