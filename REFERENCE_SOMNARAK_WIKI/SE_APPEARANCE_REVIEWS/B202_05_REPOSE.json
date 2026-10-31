@@ -1,0 +1,217 @@
+{
+  "unit": 5,
+  "designation": "O-IVδ-844",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-844_Repose_잠든_잔해.md",
+  "words": 8915,
+  "sha256": "65d498f479611173c29e5a8e7d7f53cdd2190325e5efe80bb3750bf79906f9b6",
+  "name": "Repose",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_05_REPOSE.md",
+  "before_words": 8915,
+  "after_words": 9294,
+  "base": "db7a05e5f979dfaf5f3aaf6cac421b7b1fe1cb61",
+  "final_sha256": "2edef1f794c3d576de86bb073087b08abd31253ca1efaed5109350f232342f00",
+  "summary": "HELD +0 — 17 repairs make Repose a sound-and-structure vigil, not a walking ruin encounter.",
+  "commentary": "The bravest act in this file is administrative and acoustic: read all 411 recovered names, state the 1,100 unrecorded remainder exactly, and never make enough noise to ask the sleeper for more.",
+  "reasoning": [
+    "Repose is not a mobile ruin monster. It is a permanently sleeping survivor whose dream has become structural infrastructure; breathing, sound and survey are the encounter.",
+    "Side A gives the resolution exactly—do not wake it, reduce noise and acknowledge the dead—so combat now escalates only through survey occupancy, rubble handling, sound-floor violation with breathing change, or ≥90% load-bearing dream failure.",
+    "The full awakening remains explicitly projected and unobserved; no invented personnel Gauge surge, global waking ruins or proven recovery remains."
+  ],
+  "history": "Batch 126 already performed exact-source equipment review and unresolved source forks remain, so HELD +0 with no fresh Types, Weapon or SE Appearance Fix credit.",
+  "holds": [
+    "Weapon title Ruin Requiem versus Ruin Astral-Disc. Held.",
+    "Charm Tail/4%/+3 unspecified stat versus Registry Accessory/5%, plus local rest-through-alarms account. Held.",
+    "Full awakening and recovery remain unobserved. Held.",
+    "Mechanism connecting standing count to struck-off return and long-term independence of dreamed buildings. Held."
+  ],
+  "split": [
+    3,
+    14
+  ],
+  "repairs": [
+    {
+      "id": "R01-pressure-clarity",
+      "kind": "short field correction",
+      "careful": false,
+      "old": "| **Primary pressure** | Mental / emotional pressure |",
+      "new": "| **Primary pressure** | Clarity — remaining beside sleeping grief without mistaking its dream, buildings or dead for one's own |"
+    },
+    {
+      "id": "R02-speed-recumbent",
+      "kind": "short stat correction",
+      "careful": false,
+      "old": "| **Speed** | 2.45 m/s |",
+      "new": "| **Speed** | N/A — recumbent; it has never risen, walked or pursued. Measure breathing at 10–12/min, posture, sound floor and the standing-structure survey. |"
+    },
+    {
+      "id": "R03-breach-effect-clarity",
+      "kind": "short breach correction",
+      "careful": false,
+      "old": "| **Effect** | Cold grief in waves, draining composure, strongest in personnel standing inside a dreamed building at the time. |",
+      "new": "| **Effect** | Cold grief in waves, draining Clarity, strongest in personnel standing inside a dreamed building at the time. |"
+    },
+    {
+      "id": "R04-resistance-sound-survey",
+      "kind": "careful stat correction",
+      "careful": true,
+      "old": "| **Resistance** | 45% against Lament pressure; 35% against other pressure types |",
+      "new": "| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Establish the sound floor and breathing rate before approach, use hand signals and the smallest practicable party, and bring no powered equipment, alarm or Astral-Disc into the Old Lament. Tell personnel which surveyed buildings are dream-held; stop at any breathing change and close only after the dead are acknowledged below the floor. |"
+    },
+    {
+      "id": "R05-ancient-breath-first-reading",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Ancient Breath* [**Debuff**] } | \"The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages.\" | [The Ruin's dormant exhalation settles on the target; they feel aeons of accumulated sleep.] | *Target suffers -10 Composure; the ancient slumber is heavy.* **[10 Lament DMG [Lament]]** | When the target enters the Ruin. |",
+      "new": "| { *The Ancient Breath* [**Debuff**] } | \"The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages.\" | [The sleeper's measured exhalation carries the settlement's exhaustion through the quiet perimeter; the figure does not wake or target anyone.] | *Personnel inside the sound floor suffer -10 Clarity. Record breathing at 10–12/min, limb position and arrival sound floor by hand signal before any work begins.* **[10 Lament DMG [Lament]]** | When the approach party first takes the breathing and sound-floor readings inside the Old Lament perimeter. |"
+    },
+    {
+      "id": "R06-dreaming-stone-surveyed-building",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Dreaming Stone* [**Debuff**] } | \"In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture.\" | [The Ruin's dream-structures flicker around the target; ghost-walls and phantom arches.] | *Target loses 10 Composure; the dreaming ruin is rebuilding itself in sleep.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+      "new": "| { *The Dreaming Stone* [**Debuff**] } | \"In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture.\" | [The survey finds personnel inside one of the standing structures absent from every pre-collapse plan; its walls are being held by the sleeper's dream.] | *Personnel in that structure lose 10 Clarity. Mark it against the 56-building survey, tell the occupants what is holding it up, and move by hand signal without striking or testing the fabric.* **[10 Lament DMG [Lament]]** | When a worker is identified inside a dream-held building or a previously standing surveyed structure changes between readings. |"
+    },
+    {
+      "id": "R07-falling-capital-hand-disturbance",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Falling Capital* [**Attack**] } | \"A carved capital — the top of a column — shakes loose in the ruin's sleep and drops.\" | [ An ancient stone ornament falls.] | *Inflicts Lament pressure and one heavy, ancient wound.* **[14-22 Lament DMG [Lament]]** | When the Ruin is touched. |",
+      "new": "| { *The Falling Capital* [**Attack**] } | \"A carved capital — the top of a column — shakes loose in the ruin's sleep and drops.\" | [Handling the rubble that forms the sleeper or a dream-held wall lets real and dreamed fabric fail together.] | *Inflicts Lament pressure and one heavy structural wound. All handling stops silently; check breathing first, then compare the affected building with both independent surveys before anyone re-enters.* **[14-22 Lament DMG [Lament]]** | When personnel touch, move or extract rubble from the figure or a dream-held structure. |"
+    },
+    {
+      "id": "R08-full-awakening-sound-breach",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Awakening* [**Attack**] } | \"The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating.\" | [The whole of the settlement's record comes back at once, streets and accounts and the names of householders, and the room is inside it while it lasts.] | *A heavy Lament flood of returned time; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Ruin is excavated. |",
+      "new": "| { *The Full Awakening* [**Attack**] } | \"The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating.\" | [Projected, never-observed response: a resolution violation changes the breathing and the settlement's final day returns through every dream-held structure at once.] | *Heavy Lament pressure; no personnel Gauge surge is inferred. Freeze all movement and machinery, restore the sound floor, and acknowledge the dead by recovered name and exact remainder. This protocol is untested, not a proven recovery.* **[24-36 Lament DMG [Lament]]** | When excavation across the sleeper or an alarm, powered tool or raised voice breaks the sound floor and alters the 10–12/min breathing. |"
+    },
+    {
+      "id": "R09-waking-city-gauge90-survey",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Waking City* [**Ultimate**] } | \"Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything.\" | [The dream spreads out past the perimeter and every ruin on the ground starts remembering on its own account.] | *All in range suffer Lament pressure for three turns of waking ruins.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Waking City* [**Ultimate**] } | \"Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything.\" | [At breach threshold the dream stops holding the surveyed settlement evenly; collapse risk propagates through the 56 dream-held buildings rather than through every ruin in the world.] | *All personnel inside surveyed dream-held structures suffer Lament pressure for three turns. Evacuate silently by level and hand signal, keep the names reading below the floor, and do not use Pugnahan, alarms or powered rescue tools.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90% while the dream remains load-bearing. |"
+    },
+    {
+      "id": "R10-breach-escalation-sound-index",
+      "kind": "careful breach correction",
+      "careful": true,
+      "old": "| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |",
+      "new": "| **Escalation** | The sleeper is never “free” in a locomotor sense. Clarity drain +5 each turn inside a failing dream-held structure, while the entity Gauge is indexed to sound and acknowledgement: +10% for each alarm, powered tool or raised voice; −10% when the dead are acknowledged below the sound floor. |"
+    },
+    {
+      "id": "R11-weapon-no-lingering-score",
+      "kind": "careful equipment correction",
+      "careful": true,
+      "old": "**Damage Application:** Score the beam once, then score the lingering illumination separately on each following interval while the target remains lit; the disc is not carried into the Old Lament under any circumstances, since the mounting rings are audible when they turn.",
+      "new": "**Damage Application:** Score the Skewer once at 100% → 70% → 50%; no separate lingering-illumination damage is recorded. The disc is not carried into the Old Lament under any circumstances, since the mounting rings are audible when they turn."
+    },
+    {
+      "id": "R12-flavor-continued-survey",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.",
+      "new": "**With continued exposure:** Sustained contact is a discipline of not changing the readings. Breathing stays between ten and twelve, the posture does not move, and the only growth is architectural: another wall or roofline on the independent survey that no surviving plan contains. Workers learn to ask which present buildings are being dreamed before they ask what the figure is dreaming about."
+    },
+    {
+      "id": "R13-flavor-activation-never-observed",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**When the entity activates:** When it activates, you understand why the containment protocols exist. The Lament that was merely present becomes active, directed, purposeful — the Subject-Lament was holding back, and now it isn't.",
+      "new": "**When the entity activates:** It has not done so. The record contains changed dreams, altered architecture and one abandoned part-read name list, but no awakening, pursuit or directed attack. The activation section therefore remains a warning about an unobserved event, and any change in breathing ends the cycle before personnel test what comes next."
+    },
+    {
+      "id": "R14-flavor-after-dream-nextday",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**After departure:** The containment boundary holds the Subject-Lament, but not the memory. Lament residue settles into the bones like Han into the city's foundations.",
+      "new": "**After departure:** The bill arrives the following night. Workers may dream a street none of them has seen, weep for a settlement that is not theirs, or wake unrefreshed after apparently sleeping; those reports are collected separately the next day and are never folded into the acoustic or structural logs."
+    },
+    {
+      "id": "R15-origin-names-recovered",
+      "kind": "careful origin correction",
+      "careful": true,
+      "old": "- **The People:** An entire Outside Sorrow settlement, and one survivor of it. The settlement is in the body; the survivor is the sleeper. The record does not name either, and the resolution condition requires the dead to be acknowledged, which the facility is therefore doing by count rather than by name.",
+      "new": "- **The People:** An entire Outside Sorrow settlement, and one survivor of it. The settlement is in the body; the survivor is the sleeper. The relief record gave her no registered origin, and acknowledgement was by count until the Struck Register supplied 411 names; the remaining 1,100 are now stated exactly after those names are read."
+    },
+    {
+      "id": "R16-dreams-persistent-survey",
+      "kind": "careful apex correction",
+      "careful": true,
+      "old": "Its dreaming reconstructs the ruins around it, partially and impermanently — structures rise within the chamber and are not there afterward.",
+      "new": "Its dreaming reconstructs the settlement across the ambient Old Lament, partially and at unequal durations — the standing-structure survey now counts 56 buildings, each one rechecked because none can be assumed permanent."
+    },
+    {
+      "id": "R17-origin-striking-soundclose",
+      "kind": "careful battle correction",
+      "careful": true,
+      "old": "2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The 910-point gauge and the 29 to 64 pressure describe what happens if it wakes, not what happens during a cycle; the encounter as actually conducted is long, quiet, and measured in how little the party disturbed.",
+      "new": "2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The only live contests are noise, fatigue and the urge to intervene: breathing, sound floor, dream-held structures and first-person attribution are checked while Pugnahan, alarms, powered tools and the Astral-Disc remain prohibited."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-IVδ-844_Repose_잠든_잔해.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.018  clean   163 grams  최종 관찰 (Final Observation)\n 0.011  clean   188 grams  Operational Parameters\n 0.009  clean   851 grams  M.A.W. Equipment\n 0.008  clean   644 grams  감각 묘사 (Flavor Text)\n 0.006  clean   808 grams  Combat Record\n 0.003  clean  1490 grams  Apex Record\n 0.002  clean   516 grams  이야기 보고 (Story Log)\n 0.000  clean   454 grams  이야기 (Narratio)\n 0.000  clean   396 grams  기록 (Registrum)\n 0.000  clean   345 grams  Appearance\n 0.000  clean   283 grams  Breach Behavior\n 0.000  clean   261 grams  Origin\n 0.000  clean   233 grams  관찰 기록 (Observation Log)\n 0.000  clean   230 grams  Behavior\n 0.000  clean   146 grams  Trivia\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  clean    35 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   54   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Establish the sound floor and breathing rate bef\n   84   4  | { *The Waking City* [**Ultimate**] } | \"Every ruin in the field awakens — and the combined recollection of forgotten history cru\n  198   2  **Appearance:** a padded mantle of Lament Han-silk, cool and faintly luminous, that tightens near its source element.\n  218   3  **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that goes cold against the collarbone when the bea\n  244   3  | **Before use** | Wielder, piece, the day's reading, and a baseline taken down and kept by the second worker — the recorded cost \n  286   1  Management: do not wake it, hold the sound floor, and read the settlement's dead aloud — by name from the Struck Register where na\n  298   3  | Keep the perimeter quiet, acknowledge the dead by such names as the survey has recovered, and let the sleep run — the condition \n  319   3  Three holdings sit within reach of the sleeper — The Broken Ruin, Fading Ruin and The Sleeping Wall — and none of the three is an \n  328   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  436   4  The relief officers asked, in Year 4212, for the one concession that would have cost nothing on its face: that a struck settlement\nGENERIC 0.004  (28 shared shingles)  SE-O-IVδ-844_Repose_잠든_잔해.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-A__SIDE_CODEX_Repose.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-B__MAW-W_The_Ruin_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-C__MAW-S_The_Ruin_Pillow.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-D__MAW-G_The_Ruin_Charm.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-A__SIDE_CODEX_Repose.md": "09e18886e18c271803acdd7c1986c2aee48da8cce74ef599da58ff0f6379380e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-B__MAW-W_The_Ruin_Requiem.md": "6696801c5e2863f958570d5d49959681d02c2bf3ea1d8acfd090b64dfb8cc3e6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-C__MAW-S_The_Ruin_Pillow.md": "14d9ab45ee5c1db9e2f8e4b1c42e3a6313e0f9cae65c163e399940b2a16f5217",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-D__MAW-G_The_Ruin_Charm.md": "74c34ddae6f04f9d547311faa7cc981d631cfb330ed9ae8f980fdbf1a6fcde5f"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-O-IVδ-844_Repose_잠든_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-844_Repose_%EC%9E%A0%EB%93%A0_%EC%9E%94%ED%95%B4.md \"SE-O-IVδ-844_Repose_잠든_잔해.md\")]",
+  "table_link": "[[O-IVδ-844 Repose](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-844_Repose_%EC%9E%A0%EB%93%A0_%EC%9E%94%ED%95%B4.md \"SE-O-IVδ-844_Repose_잠든_잔해.md\")]",
+  "reading": {
+    "before_lines": 465,
+    "before_bytes": 54336,
+    "final_lines": 465,
+    "final_bytes": 56956
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 10,
+    "physical_form_rows_unchanged": 300,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "Combat now uses the documented breathing rate, 56-building survey, sound-indexed ±10% Gauge movement and ≥90% threshold; the former 65% Ultimate and +15% personnel surge were removed."
+  }
+}

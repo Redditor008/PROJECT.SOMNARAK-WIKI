@@ -1,0 +1,1081 @@
+{
+  "schema_version": 1,
+  "batch": 206,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IVδ-103",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
+      "words": 7886,
+      "sha256": "ba094c207fd07ea65c62a8ff6426ca4d239529f9112b790aa289b79ee23a8e76",
+      "prior_batch": 148,
+      "shape": "Subject"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IIIγ-180",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-180_Owed_빚의_벽.md",
+      "words": 7674,
+      "sha256": "635d35a62849b8d1e3ac9b90b000024929ca80b2e9aa25c288773f220a5a7432",
+      "prior_batch": 149,
+      "shape": "Non-Subject"
+    },
+    {
+      "unit": 3,
+      "designation": "C-Vδ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md",
+      "words": 9190,
+      "sha256": "96755ffc07648a402ab5bbf0d9f70c274460b701ca550670eab9b56fe83ae826",
+      "prior_batch": 148,
+      "shape": "I-Relic"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-373",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-373_Spreading_Well_스며든_우물.md",
+      "words": 8240,
+      "sha256": "087976e814107e7d0c74e921d04ba3f1d07d72b77e5b143f08c837f5e634a7e0",
+      "prior_batch": 155,
+      "shape": "O-Relic"
+    },
+    {
+      "unit": 5,
+      "designation": "C-Iα-114",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
+      "words": 4725,
+      "sha256": "51eac02db5a0ade833cd2d5aaec204c0ce2a8b9e6c4f74dee0c201582ae17dc2",
+      "prior_batch": 166,
+      "shape": "A-Relic"
+    }
+  ],
+  "opened_at": "2026-10-30",
+  "completed": 5,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IVδ-103",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md",
+      "words": 7886,
+      "sha256": "ba094c207fd07ea65c62a8ff6426ca4d239529f9112b790aa289b79ee23a8e76",
+      "prior_batch": 148,
+      "shape": "Subject",
+      "name": "The Frozen Veil",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_01_FROZEN_VEIL.md",
+      "before_words": 7886,
+      "after_words": 8245,
+      "base": "7e80d7427cb6b732ca53762859473f7c41916771",
+      "final_sha256": "62518988fc8b35ad8f609ccdbcc644c34394c432f9d77c9f89567080c226cba0",
+      "summary": "21 source-bound repairs split 11 short / 10 careful. The table no longer gives an unattackable, non-attacking drain a wall, a lance, a speed or tons of dust, and the three pieces no longer share one pooled cost. Movement, selection, destroyed-versus-active fate, Canto anatomy and equipment identity conflicts remain held.",
+      "commentary": "The Veil never attacks; it drains feeling inside five meters while every thermometer stays normal, cracks only for genuine unplanned tears, and thickens on staged feeling. The rows now say exactly that: crossing the line, remaining toward ten minutes, forcing warmth, the rare genuine crack, and an arranged-feeling Ultimate at the file's own ≥90% threshold. The lens, veil and heart each pay a different price and the suit is no longer a substitute for its anchors.",
+      "reasoning": "**Person-shaped shell, not water.** The body is frozen feeling with shoulder/sternum readings; the ice wall, ceiling frost and launched lance were removed rather than explained as metaphor, and one consequence no longer lets the ambient temperature fall against the file's defining measurement.\n\n**Movement stays disputed.** Operational stillness, chamber perimeter walks and Escape following stay three labelled accounts; the invented 2.45 m/s and the SECC \"mobile, can pursue\" claim no longer pick a winner, and ton-scale dust no longer claims a destructible vessel on a file where force is irrelevant.\n\n**Equipment keeps its real limits.** The Suit holds only inside its two-anchor protocol, the Stigma only for one authorized interval with paired release, and the three costs are logged separately. The B112 credit for *Warmth at Risk* is untouched.",
+      "history": "Prior full logical review B148_02_FROZEN_VEIL (pre-R-34) held the appearance. The exact A/B/C/D set *Warmth at Risk* was cross-reviewed in Batch 112 unit 2 (5d8b754) and already credited by the official counter; this recheck changes no equipment credit and moves no official counter.",
+      "holds": [
+        "Stationary since placement versus perimeter walks and Escape following; nearest-person versus warmth-directed drift.",
+        "Humanoid chamber figure versus Canto IV colossal curtain/heart/tendril anatomy; destroyed fate versus Dawn-dated active holding and extraction.",
+        "Lens disc versus Canto rifle and Instant/Medium range labels; flowing-heavy versus stiff-light Cold Veil; generic 5% versus exact 4%.",
+        "Zone D drifting versus Alpha Tree deep storage; duration-denied versus timed drain series."
+      ],
+      "split": [
+        11,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-composure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — emotional capacity and attachment, which drains while presenting as efficiency |"
+        },
+        {
+          "id": "R02-valid-work",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Viderehan and Ferrehan; Flerehan only when genuine and unscheduled. Pugnahan is recorded Stable because force is irrelevant here, not because it is a response; do not deploy against it. |"
+        },
+        {
+          "id": "R03-vessel-force-ineffective",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Vessel-Destructible** | No — physical force is ineffective; the shell cracks only under genuine, unarranged feeling |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-unsettled",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | Not established — chamber accounts give unhurried perimeter walking while operational notes give no movement since placement; the dispute is held, not averaged |"
+        },
+        {
+          "id": "R05-consequences-temperature",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Left unresolved the sorrow does not rupture. The shell gains thickness and the chamber's ambient temperature falls another fraction, and the archive notes that in eighty years of records the shell has thinned on nineteen occasions, all nineteen unplanned.",
+          "new": "- Left unresolved the sorrow does not rupture. The shell gains thickness and the perceived cold deepens while every thermometer stays normal, and the archive notes that in eighty years of records the shell has thinned on nineteen occasions, all nineteen unplanned."
+        },
+        {
+          "id": "R06-coherence-secc",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Coherence** | Entity (IV) — Self-aware, cold, distant |\n| **Potency** | Critical (δ) — Facility-threatening |",
+          "new": "| **Coherence** | Entity (IV) — cold, distant; self-awareness unresolved in the Side Codex |\n| **Potency** | Critical (δ) — Facility-threatening |"
+        },
+        {
+          "id": "R07-coherence-combat",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Coherence** | Entity (IV) — Self-aware, cold, distant |\n| **Primary Pressure** | Composure |",
+          "new": "| **Coherence** | Entity (IV) — cold, distant; self-awareness unresolved |\n| **Primary Pressure** | Composure |"
+        },
+        {
+          "id": "R08-trivia-coherence",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Classification detail:** The Frozen Veil is a Subject with Entity (IV) — Self-aware, cold, distant coherence and Critical (δ) — Facility-threatening potency.",
+          "new": "- **Classification detail:** The Frozen Veil is a Subject with Entity (IV) coherence — cold and distant, its self-awareness unresolved — and Critical (δ) — Facility-threatening potency."
+        },
+        {
+          "id": "R09-target-coverage-anchor",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Target Coverage:** A line of up to three. The cold travels along a corridor and reaches everybody in it at once, which is how a withdrawing team is usually affected.",
+          "new": "**Target Coverage:** A Skewer line of up to three, cut only where the anchor has confirmed the pull is an external intrusion rather than grief, anger or consent."
+        },
+        {
+          "id": "R10-resistance-five-meter",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Void pressure; 35% against other pressure types |",
+          "new": "| **Resistance** | 45% against Void pressure; 35% against other pressure types as formal ratings — force is not resisted here, it is irrelevant. Working protection is the five-meter line: a named spotter outside it with absolute withdrawal authority, living-attachment checks every five minutes, and work inside the line timed in minutes. Drain rises by 5 for each attempt to provoke feeling while it is loose. |"
+        },
+        {
+          "id": "R11-curtain-crossing-line",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ice Curtain* [**Debuff**] } | \"The veil forms — a wall of translucent ice between you and everything you were reaching for.\" | [The Veil's barrier cuts the target off; isolation sets in.] | *Target suffers a Void mark; they are sealed away.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Veil descends. |",
+          "new": "| { *The Ice Curtain* [**Debuff**] } | \"The veil forms — a wall of translucent ice between you and everything you were reaching for.\" | [No wall forms. Inside five meters the cold arrives as numbness before temperature, and the worker is cut off while every instrument reads normal.] | *The worker suffers a Void mark to Composure. The spotter outside the line runs the living-attachment check every five minutes; factual answers do not pass it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker crosses the five-meter line into the drain radius. |"
+        },
+        {
+          "id": "R12-frost-ten-minutes",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Frost Spread* [**Debuff**] } | \"The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute.\" | [The Veil's permafrost extends; the target's space shrinks.] | *Target loses clarity; the cold is consuming thought.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains behind the Veil. |",
+          "new": "| { *The Frost Spread* [**Debuff**] } | \"The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute.\" | [Nothing freezes over. What spreads is the loss of emotional meaning: the facts of affection remain available while the experience of why they mattered goes.] | *The worker loses Composure. The spotter watches what the worker does, not what they say — colleagues referred to by function instead of name is the call to withdraw.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker remains inside the line toward ten minutes, where the recorded loss of emotional capacity begins. |"
+        },
+        {
+          "id": "R13-spear-forced-warmth",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ice Spear* [**Attack**] } | \"A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get through.\" | [An ice-lance launches from the Veil.] | *Inflicts Void damage; the cold pierces through identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Veil is probed. |",
+          "new": "| { *The Ice Spear* [**Attack**] } | \"Nothing breaks free and nothing is aimed. The shell simply gets thicker where you reached for it.\" | [The Veil does not attack. An attempt to force warmth or produce feeling is answered the only way the record shows: the shell thickens and the drain deepens.] | *Heavy Void pressure on Composure. Stop the prompt, withdraw, and enter the preparation beside the reading as its cause; never send warmth in to force a cure.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When warmth is forced or feeling is deliberately provoked in its presence. |"
+        },
+        {
+          "id": "R14-shatter-delayed-return",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Shatter* [**Attack**] } | \"The shell cracks across the sternum — the station the quarterly series measures — and everything the Veil was holding back comes through at once.\" | [A measured thinning rather than a blow; what was behind the shell arrives unimpeded.] | *A heavy Void surge; the target's Sorrow Gauge rises 15% and the shell reading drops for the turn.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the shell is thinned by genuine feeling. |",
+          "new": "| { *The Full Shatter* [**Attack**] } | \"The shell cracks across the sternum — the station the quarterly series measures — and everything the Veil was holding back comes through at once.\" | [A measured thinning rather than a blow; what was behind the shell arrives unimpeded.] | *A heavy Void wave, and the feeling that returns to exposed workers arrives together, as a delayed burden rather than relief. The shell reading drops for the turn; do not try to repeat the moment — a staged second attempt thickens it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the shell is thinned by genuine, unplanned feeling. |"
+        },
+        {
+          "id": "R15-permafrost-threshold-arranged",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Permafrost* [**Ultimate**] } | \"Five meters is not a rule any more — the line painted on the floor is under the ice, and there is nobody outside it left to call a withdrawal.\" | [The drain goes past the marked line and out to the walls.] | *All in range lose emotional capacity for three turns; the spotter's authority to call a withdrawal survives the effect and is exercised in writing.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Permafrost* [**Ultimate**] } | \"Five meters is not a rule any more — the line painted on the floor is under the ice, and there is nobody outside it left to call a withdrawal.\" | [The drain goes past the marked line and out to the walls.] | *All in range lose emotional capacity for three turns; the spotter's authority to call a withdrawal survives the effect and is exercised in writing.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold after feeling has been arranged in its presence. |"
+        },
+        {
+          "id": "R16-consequences-distinct-costs",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The lens, the veil and the heart are all made from a century of people declining to feel anything. Each activation borrows a measure of that distance and the operator keeps it. The recorded cost is not numbness in general. It is that the operator finds other people's grief informative rather than affecting, and does not notice the change.",
+          "new": "- The lens, the veil and the heart are all made from a century of people declining to feel anything, but they do not charge the same price: the lens takes nameless memories and the feeling attached to large ones, the veil leaves its wearer performing warmth accurately, and the heart suspends genuine emotion outright while it holds. None of the three is noticed arriving by the person paying it."
+        },
+        {
+          "id": "R17-suit-anchors",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Void aside from the soul, which is the only pressure here. The cold veil is what allows a worker to stand at the line for a full session and still mind about things afterwards.",
+          "new": "**Ability:** *Quiet Perimeter* — strongly resists Void by creating a contained emotional distance. It holds only inside the anchor protocol: one living attachment named, two anchors chosen, and termination authority held outside the wearer. The suit is not what makes standing at the line safe; the anchors are."
+        },
+        {
+          "id": "R18-stigma-authorized-interval",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Makes the wearer immune to emotional manipulation.",
+          "new": "**Ability:** *Cold Shelter* — for one authorized emergency interval, makes the wearer immune to emotional manipulation. It is released only by the paired sequence (welfare authority plus relationship anchor) after the threat ends; it is never left active past the threat."
+        },
+        {
+          "id": "R19-use-notes-distinct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything, and each activation borrows a measure of that distance and leaves it with the operator: the cost is not numbness in general but the discovery that other people's grief has become informative rather than affecting, which no wearer has yet reported noticing on their own.",
+          "new": "Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything, but the borrowed distance settles differently in each — memories thinned of feeling, warmth performed accurately, or feeling suspended entire — and the spotter logs which one arrived, because no wearer has yet reported noticing any of them on their own."
+        },
+        {
+          "id": "R20-secc-movement-disputed",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Disputed — operational notes give no movement since placement; chamber and Escape accounts give unhurried walking. Held, not averaged. |"
+        },
+        {
+          "id": "R21-opnote-drain",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Identity pressure acts on recall of what the Veil covers; personnel are debriefed at the storage door while the detail survives.",
+          "new": "- The drain acts on the feeling attached to a memory while its facts survive; personnel are debriefed at the storage door in their own words while that feeling is still theirs to give."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   174 grams  Breach Behavior\n 0.015  clean   817 grams  M.A.W. Equipment\n 0.014  clean   145 grams  Operational Parameters\n 0.011  clean   350 grams  관찰 기록 (Observation Log)\n 0.011  clean   802 grams  Combat Record\n 0.010  clean   858 grams  감각 묘사 (Flavor Text)\n 0.008  clean   131 grams  최종 관찰 (Final Observation)\n 0.005  clean   186 grams  Behavior\n 0.005  clean   387 grams  이야기 보고 (Story Log)\n 0.000  clean   727 grams  Apex Record\n 0.000  clean   550 grams  Appearance\n 0.000  clean   409 grams  이야기 (Narratio)\n 0.000  clean   159 grams  기록 (Registrum)\n 0.000  clean   145 grams  Trivia\n 0.000  clean    63 grams  Origin\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 45% against Void pressure; 35% against other pressure types as formal ratings — force is not resisted here, it \n   81   1  | { *The Ice Curtain* [**Debuff**] } | \"The veil forms — a wall of translucent ice between you and everything you were reaching fo\n   82   1  | { *The Frost Spread* [**Debuff**] } | \"The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute.\" | [No\n   85   6  | { *The Permafrost* [**Ultimate**] } | \"Five meters is not a rule any more — the line painted on the floor is under the ice, and \n   91   1  3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **tears and sincere emotional expres\n  164   1  The table is read against the shell rather than against the gauge, because on this holding the two move separately: the gauge is w\n  184   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each attempt to provoke feeling in its presence while it is loose. It\n  207   2  **Ability:** Void damage to the soul — to identity and the capacity for attachment rather than the body. The lens carries the Veil\n  215   1  **Appearance:** a flowing veil of Void Han-gossamer that hangs heavy as if wet, keeps its shape when its wearer turns, and only sh\n  227   2  **Cost:** The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performi\n  259   1  | **Before use** | Wielder, piece, and a dated baseline against a specific class of loss. The baseline is held by the spotter, sea\n  262   2  | **After use** | The sealed baseline comes out and both columns are written: what the wielder remembers of the week and what the \n  264   4  **Stat interpretation:** Field performance and human cost are separate axes, and on this file the cost lands on the roster rather \n  289   4  **Observation method:** Record the first sign, which is the cold arriving as numbness before it arrives as temperature; the first \n  295   2  The Frozen Veil (C-IVδ-103 [VS]) is carried on the wing's register as a Subject-Void manifestation expressing Void. The Veil cryst\n  313   1  | Hold to the condition: tears and sincere emotional expression crack the Veil, and physical force is ineffective. Nothing is stag\n  334   7  The Veil's five filed relations are what a century of distance left in one building: two holdings it cannot warm to, one cut from \n  343   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.007  (44 shared shingles)  SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-A__SIDE_CODEX_The_Frozen_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-B__MAW-W_The_Cold_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-C__MAW-S_The_Cold_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-D__MAW-G_The_Cold_Heart.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_02_FROZEN_VEIL.md": "78615d2a97d0b506f6d8f385f0927c0404fcbbf59206fb88181154d4dfe57c16",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-A__SIDE_CODEX_The_Frozen_Veil.md": "452692daf0a36a6c36b2ced69a04deeaaaf83a5d0082c00b08168f321484ca23",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-B__MAW-W_The_Cold_Lens.md": "3d5797f490ad97d8d00514615d4a625f9d8a2c3abdde0b43f1558284794b8cec",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-C__MAW-S_The_Cold_Veil.md": "e37f2cc1e9dd09154f282e5f00c196dcaaf8fd9e320db1ffae0cd820632abf59",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/103_Frozen_Veil/SE-103-D__MAW-G_The_Cold_Heart.md": "38c213739213b13048105cc847c7f84ea4b3cff7a22e2b5bb3256ae9da9499ee",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-103_The_Frozen_Veil_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%B2%A0%EC%9D%BC.md \"SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\")]",
+      "table_link": "[[C-IVδ-103 The Frozen Veil](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-103_The_Frozen_Veil_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%B2%A0%EC%9D%BC.md \"SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md\")]",
+      "reading": "Frozen primary SHA256 ba094c207fd07ea65c62a8ff6426ca4d239529f9112b790aa289b79ee23a8e76 read whole (447 lines) beside B148_02_FROZEN_VEIL and SE-103-A/B/C/D read completely; Registry CSV rows SE-103-A/B/C/D confirmed. Final primary re-read whole after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 6,
+        "digit_sequence_change": "Removed unsupported 2.45 m/s speed and ~1–10 ton dust; removed a 15% surge on the beneficial thinning event; moved the Ultimate from 65% (inside the 60–80% opening band) to the file ≥90% threshold. Source lens, armor, gift, drain +5 and five-meter/ten-minute bounds preserved."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "C-IIIγ-180",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-180_Owed_빚의_벽.md",
+      "words": 7674,
+      "sha256": "635d35a62849b8d1e3ac9b90b000024929ca80b2e9aa25c288773f220a5a7432",
+      "prior_batch": 149,
+      "shape": "Non-Subject",
+      "name": "Owed",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_02_OWED.md",
+      "before_words": 7674,
+      "after_words": 8070,
+      "base": "7ab2ea6615c2652399da684182be07f17b16697d",
+      "final_sha256": "4f38986955b1dd0d022f9febdbad63f55acf345dde55e4fbdb4bf14d1c32345e",
+      "summary": "15 source-bound repairs split 3 short / 12 careful. A wall nothing has ever come away from no longer places bricks on camera, compounds exponentially, collapses on strikers or falls when demolished, and its Ultimate sits at the file ≥75% threshold. Dual weapon profiles, formation timing and ledger claims remain held.",
+      "commentary": "Owed is the obstruction, not a mason: growth is found between watches, never witnessed; strikes destroy the striking equipment; escalation is length against forty-one fixed marks. The rows now record found blocks, unrelieved carrying, rebound on demolition attempts, both-ends expansion, and a conscience-field Ultimate. Both weapon profiles carry the source limit — a debt barrier, never a person, only behind a custodian-identified route.",
+      "reasoning": "**Nothing comes away.** Every collapsing course, falling face and demolition trigger contradicted the primary's own survey, the two failed demolition attempts and the echo-extraction rule. The table now uses found growth and rebound instead.\n\n**The marks are the instrument.** Bare percentages sit under mark readings, monitored duration with a relief plan, and custodian block-reading with dispute fields; pressure is unified as Resolve under burden.\n\n**Equipment serves routes, not persons.** Ram and Maul abilities, Hauberk discharge and the Shard's black-block form follow SE-180-B/C/D. The two weapon profiles themselves stay held; no name or number was selected.",
+      "history": "Prior full logical review B149_01_OWED (pre-R-34) held the appearance. Batch 128 unit 5 (aed255ba) credited the exact SE-180 types and B82 unit 1 (b90df653) credited the exact weapon pair before this recheck; official counters do not move.",
+      "holds": [
+        "Sarcophagus Wall-Ram 12–20 / Very Slow 1 / Room 5 versus Debt Maul 7–12 / Fast 3 / Medium 3 Skewer; no second mode documented.",
+        "Visible budding versus growth never witnessed; centuries of accumulation versus appearance within a year of the abandoned reconciliation.",
+        "Story-perfect ledger correspondence versus weak ledger correlation and unrecorded-majority growth.",
+        "Surface-residue versus ledger-echo extraction; pressure 16–37 versus source 18–41; Comprehension 2 — Basic versus Studied."
+      ],
+      "split": [
+        3,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resolve",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — the burden of accumulated obligation carried at the face |"
+        },
+        {
+          "id": "R02-shard-black-block",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.",
+          "new": "**Appearance:** a small black charm cut as a single wall block, dense for its size, its faces blank until a debt pressure begins closing a route."
+        },
+        {
+          "id": "R03-resistance-marks",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Weight pressure and 25% against anything else — figures for a wall that has never once had to be forced |",
+          "new": "| **Resistance** | 35% against Weight pressure and 25% against anything else as formal ratings for a wall that has never once been forced. Working protection is measurement: both ends against the forty-one fixed marks, monitored duration with a relief plan set before approach, and blocks read with a debt custodian who preserves the dispute fields. |"
+        },
+        {
+          "id": "R04-invoice-found-block",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Unpaid Invoice* [**Debuff**] } | \"A brick slides into place — and written on it is a debt you did not know you owed.\" | [The Wall grows; each brick is an unpaid debt pressing on the target.] | *Target suffers -10 Resolve; the wall of debt is rising.* **[10 Weight DMG [Weight]]** | When the target approaches the Wall. |",
+          "new": "| { *The Unpaid Invoice* [**Debuff**] } | \"Nothing slides into place. Between two watches a block is simply there, and the debt on it has your name uncarved into it.\" | [Growth is found, never witnessed. At the face the worker meets an obligation pressing as Weight, not a brick arriving.] | *The worker suffers -10 Resolve. Read the block with a debt custodian and preserve its dispute fields; do not weep at a wall instead of reviewing the system feeding it.* **[10 Weight DMG [Weight]]** | When a worker approaches the face and the measurement closes on a block found since the last watch. |"
+        },
+        {
+          "id": "R05-compounding-lingering-load",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Compounding Interest* [**Debuff**] } | \"The wall grows taller — new bricks appearing faster than you can count — each one heavier than the last.\" | [The Wall accrues debt-bricks; the weight compounds exponentially.] | *Target loses 10 Resolve; the burden is accelerating.* **[10 Weight DMG [Weight]]** | When the target lingers. |",
+          "new": "| { *The Compounding Interest* [**Debuff**] } | \"The wall is no taller than it was. You have simply stopped noticing the weight, which is worse.\" | [Nothing compounds in the masonry. What compounds is the worker's own unperformed obligation becoming structural the longer the load is borne without relief.] | *The worker loses 10 Resolve. Enforce the monitored duration and relief plan set before approach; a worker who says the weight feels ordinary is withdrawn first.* **[10 Weight DMG [Weight]]** | When a worker remains at the face past the monitored duration without relief. |"
+        },
+        {
+          "id": "R06-foreclosure-rebound",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Foreclosure* [**Attack**] } | \"A section of the wall breaks free — and the debt it holds lands on you, all at once.\" | [A block of debt-masonry collapses onto the target.] | *Inflicts Weight pressure and one crushing, financial wound.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck. |",
+          "new": "| { *The Foreclosure* [**Attack**] } | \"Nothing breaks free. The wall is unmarked tomorrow; the equipment that struck it is not.\" | [No block has ever come away. A strike or demolition attempt returns its whole load on the attempt itself, as both filed attempts did: equipment destroyed, structure unmarked.] | *Heavy Weight pressure on the crew making the attempt. Stop the work, record the attempt against the marks, and return to measure-record-acknowledge; demolition is not an available Work Type.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck or demolition is attempted. |"
+        },
+        {
+          "id": "R07-total-default-expansion",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Total Default* [**Attack**] } | \"The whole face comes down at once — every debt, every IOU, every promise left unpaid — in a single fall.\" | [The Wall comes apart in a cascade of defaulted obligations.] | *A heavy Black avalanche; the reading rises 15% at the fall.* **[24-36 Weight DMG [Weight]]** | When the Wall is demolished. |",
+          "new": "| { *The Total Default* [**Attack**] } | \"The whole face is still standing in the morning. The thoroughfare on both ends of it is shorter than it was.\" | [The Wall does not come down. In a total-default expansion both ends pass their marks in one interval and another stretch of road stops being usable at once.] | *A heavy Weight load on everyone at the face. Measure both ends before anything else, clear the newly obstructed stretch, notify the municipal office the same day, and extend the diversion; nothing here is taken apart.* **[24-36 Weight DMG [Weight]]** | When an expansion interval takes both ends past their fixed marks. |"
+        },
+        {
+          "id": "R08-ultimate-conscience-field",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Everyone Owes Everything* [**Ultimate**] } | \"The Wall runs outward — a brick for every person standing in the field — until nothing can be seen that is not owed.\" | [The debt spreads out from the face until the whole ground is claimed.] | *Weight presses on every worker for three turns of universal debt.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Everyone Owes Everything* [**Ultimate**] } | \"The Wall runs outward — a brick for every person standing in the field — until nothing can be seen that is not owed.\" | [Citywide debt becomes a conscience field: roads close, the air grows heavy, and every worker carries their own recognized burden at once.] | *Weight presses on every worker for three turns. Open alternate support routes and preserve each obligation record with its context; do not attempt demolition or concealment.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold in an expansion on new or unpaid obligation. |"
+        },
+        {
+          "id": "R09-consequences-distinct-loads",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The Sarcophagus equipment carries the face's load back into the wielder. Every ledger entry records the course the bearer was standing against, and the lower the course the heavier the recorded toll.",
+          "new": "- The equipment carries load back into its bearers in three different currencies: the Maul's progressive heaviness and slight aging, the Hauberk's stored marks accumulating until a custodian discharges them, and the Shard slowing its bearer further for every reading ignored. None of the three is cut from the face."
+        },
+        {
+          "id": "R10-use-notes-route",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Each Sarcophagus piece extends the holding rather than ranking as equipment. It performs as recorded while the bearer works at a marked course and costs more at an unmarked one, the load varying with depth in the structure. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled.",
+          "new": "Every piece works through a custodian and a route, not through the masonry: the Maul's head will not rise until a custodian has identified a way beyond the pressure block, the Hauberk stores only what a custodian can later discharge, and the Shard points at the block closing a route, never at a person to blame. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled."
+        },
+        {
+          "id": "R11-ram-ability-barrier",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** *Monolithic Impact* — Deals heavy Weight damage across Range 5 (Room). Slams the stone wall-ram into the floor, detonating a shockwave that knocks down all enemies and shatters terrain.",
+          "new": "**Ability:** *Monolithic Impact* — heavy Weight pressure driven into a present debt barrier, never into a person. It cannot demolish debt, decide a claim or open private passage, and it will not rise for advantage. (This profile's name and numbers remain held against the Maul profile below; the barrier-only use limit applies whichever profile is kept.)"
+        },
+        {
+          "id": "R12-maul-ability-route",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Owed's weight signature in the strike.",
+          "new": "**Ability:** *Wall Pressure / Make a Way* — a Weight Skewer into a present debt barrier, not a person. With custodian review and an identified support route it holds one Wall-like surge open long enough for people to reach review, care or transit; used as advantage, it becomes immovable."
+        },
+        {
+          "id": "R13-hauberk-discharge",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Absorbs damage and converts it into stored karmic weight.",
+          "new": "**Ability:** *Stored Weight / Discharge Route* — converts direct Weight impact into visible ledger marks on the backplate. One mark releases only when a debt custodian confirms a support or review action; hiding the plate closes it and drops protection to normal."
+        },
+        {
+          "id": "R14-stat-interpretation-cost",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure on this holding. The cost here scales with the age of the course worked, and the oldest courses have never been worked twice by the same person.",
+          "new": "**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure on this holding. The cost here scales with what stays undischarged — stored marks awaiting a custodian, readings ignored — and the oldest courses have never been worked twice by the same person."
+        },
+        {
+          "id": "R15-appearance-note-current",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "That account does not reconcile the combat table's falling blocks and demolished face with the repeated record that nothing has come away and demolition leaves it unmarked. Nor does it establish that growth described as visible in the Side Codex was witnessed by the primary's watch. The Tale's slow emergence over centuries and the abandoned-reconciliation account's appearance within a year remain different formation accounts; no alternate collapsible body or newly dated transition is supplied here.",
+          "new": "The combat table now records that same limit rather than breaking it: a strike returns its load on the attempt and a total-default interval lengthens the structure, because nothing has come away and demolition leaves it unmarked. What remains unreconciled is whether growth the Side Codex describes as visible was ever witnessed by the primary's watch, and the Tale's slow emergence over centuries against the abandoned-reconciliation account's appearance within a year. No alternate collapsible body or newly dated transition is supplied here."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIγ-180_Owed_빚의_벽.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.039  clean   129 grams  Trivia\n 0.026  clean   302 grams  기록 (Registrum)\n 0.016  clean   257 grams  관찰 기록 (Observation Log)\n 0.008  clean   494 grams  감각 묘사 (Flavor Text)\n 0.006  clean   674 grams  M.A.W. Equipment\n 0.006  clean   713 grams  Combat Record\n 0.000  clean  1450 grams  Warden Record\n 0.000  clean   415 grams  Appearance\n 0.000  clean   402 grams  이야기 (Narratio)\n 0.000  clean   233 grams  Expansion Behavior\n 0.000  clean   147 grams  Origin\n 0.000  clean   139 grams  Operational Parameters\n 0.000  clean   132 grams  이야기 보고 (Story Log)\n 0.000  clean   110 grams  Behavior\n 0.000  clean    78 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  증언 (Testimonium)\n 0.000  clean    45 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   85   4  | { *Everyone Owes Everything* [**Ultimate**] } | \"The Wall runs outward — a brick for every person standing in the field — until \n  225   2  **Appearance:** a shield-backed harness of Weight Han-steel, matte and unnaturally heavy, that tightens near its source element.\n  252   1  **Effect:** +2 stat bonus when working the source entity\n  274   1  | **At limit** | Duration, activations, attribute change, rejection signs, final measurements, and whether the operator read any n\n  294   2  | **Initial exposure** | The observer identifies Owed as an Object/Place with Place-Weight manifestation. The first reliable marke\n  299   2  **Observation method:** Measure, count, photograph, notify. The form here is the sorrow and not a forecast: a city could not arriv\n  346   2  **Interaction method:** Baseline each party alone over several cycles — measurements, transparent count, gauge — before any joint \n  359   3  **Interaction procedure:** Solo baselines first, across several cycles, with measurements, transparent count and gauge established\n  395   1  - Ferrehan is the primary Work Type and the only one that lowers the gauge; Viderehan holds it level and is the only route to the \n  407   7  **Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion\n  482   5  - **Field detail:** Its defining element is Weight, and its registered location is SECTOR-C-01, Collector's Row.\nGENERIC 0.005  (30 shared shingles)  SE-C-IIIγ-180_Owed_빚의_벽.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_01_OWED.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-A__SIDE_CODEX_Owed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-B__MAW-W_The_Debt_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-C__MAW-S_The_Debt_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-D__MAW-G_The_Debt_Charm.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_01_OWED.md": "eff908470d3987a1e7535347732de4c96e32ecab771ca901d4690c2bed93b7b7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-A__SIDE_CODEX_Owed.md": "3745c4da529d1b83422be7e7307106c240efea8f3f0e5cfacafadc6abd5e1739",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-B__MAW-W_The_Debt_Maul.md": "42aa4467d4171c179ad8d228beefbe28db24d1fe544f7c63e7ae8a4f9a43c766",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-C__MAW-S_The_Debt_Shield.md": "2cdb56d104d791a7d754552714a71319fe62a92762da72014a1b8ae1b8d243f7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-D__MAW-G_The_Debt_Charm.md": "825c649016d6ab5b2b6cbcbc6942103b5bbe86ccd061dec30cf79ebbd2550e0f"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-180_Owed_빚의_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md \"SE-C-IIIγ-180_Owed_빚의_벽.md\")]",
+      "table_link": "[[C-IIIγ-180 Owed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-180_Owed_%EB%B9%9A%EC%9D%98_%EB%B2%BD.md \"SE-C-IIIγ-180_Owed_빚의_벽.md\")]",
+      "reading": "Frozen primary SHA256 635d35a62849b8d1e3ac9b90b000024929ca80b2e9aa25c288773f220a5a7432 read whole (491 lines) beside B149_01_OWED and SE-180-A/B/C/D read completely. Final primary re-read whole after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 5,
+        "digit_sequence_change": "Removed a 15% fall surge from the demolished-face row and moved the Ultimate from 65% (top of the 45–65% opening band) to the file ≥75% threshold. Both disputed weapon profiles, armor multipliers, Head +2/4% and the 212/18,000 survey figures preserved."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "C-Vδ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-290_First_Tear_첫_번째_눈물.md",
+      "words": 9190,
+      "sha256": "96755ffc07648a402ab5bbf0d9f70c274460b701ca550670eab9b56fe83ae826",
+      "prior_batch": 148,
+      "shape": "I-Relic",
+      "name": "First Tear",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_03_FIRST_TEAR.md",
+      "before_words": 9190,
+      "after_words": 9670,
+      "base": "78aeac08bf0b8ddb9521064760e6d0bb12d2d843",
+      "final_sha256": "2f8524e88524f42209bf537027253d9d50289e8b755ddb4bebfa0a3ac58a639b",
+      "summary": "14 source-bound repairs split 2 short / 12 careful. A crystal smaller than a raindrop that has never fallen, emitted no measured field and never activated no longer radiates, strikes, falls or floods on command, and its Ultimate sits at the file ≥90% threshold behind a regime event. SE-1030 identity, weapon identity and origin accounts remain held.",
+      "commentary": "The vault's whole doctrine is two people writing down the same figure for eleven centuries. The rows now record what can actually go wrong there: taking the reading, overrunning four minutes, crossing the line toward a forbidden touch, missing a night, and a threshold breach of the none-authorized regime. The attributed set carries the exact binding rule — name the event unknown, never speak it in first person, shut down by named witness.",
+      "reasoning": "**Identity first.** C-Vδ-290 is SE-1030 (First Tear), not SE-290 Broken Compass and not SE-103 Frozen Veil; the exact A/B/C/D set confirms the C-Vδ-290 [LO] designation on every piece.\n\n**Nothing has ever happened here — that is the record.** Blade, fall and ocean were rewritten as line-crossing, series-gap and overload risks the file itself documents; ton-scale dust and benefit banners contradicted a tear-weighted, touch-forbidden relic.\n\n**Attribution is the safety system.** Weapon, Shroud and Charm now carry the management-condition limit, first-person failure sign and witnessed shutdown from SE-1030-B/C/D, without importing the held 5–25/Instant/Room profile or choosing a weapon name.",
+      "history": "Prior full logical review B148_03_FIRST_TEAR (pre-R-34) held the appearance. Batch 104 unit 1 (9fc48d41) already dispositioned the exact SE-1030 source/equipment pair; unrelated SE-290 history is not inherited. Official counters do not move.",
+      "holds": [
+        "Primordial Greatsword versus First Requiem versus Penitent Shackle Flail identity; no numeric weapon profile imported.",
+        "No-field nightly series versus proximity emotional-history/Fracture risk and Side-A \"Can breach via Transform\".",
+        "Never-fallen suspension versus the Tale's reconstructed first fall and river descent; pre-city origin versus City-origin register label.",
+        "Authorized edge-residue extraction versus no-extraction inventory; local Charm without slot/chance versus Neck/4%; glow-series chronology."
+      ],
+      "split": [
+        2,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — emotional stability and willpower, spent by grief that arrives with no event attached |"
+        },
+        {
+          "id": "R02-vessel-tear-weight",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Vessel-Destructible** | No — a single crystal weighing what a tear weighs; touch is forbidden and no destruction is sourced |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-resistance-series",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 50% against Lament pressure; 40% against other pressure types |",
+          "new": "| **Resistance** | 50% against Lament pressure; 40% against other pressure types as formal ratings. Working protection is the series itself: two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal and no question ever put to it. No field has been measured to resist against; the figures are prophylactic, not observed. |"
+        },
+        {
+          "id": "R04-original-drop-reading",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Original Drop* [**Debuff**] } | \"This is the first tear ever shed — the prototype of all grief — and it has not dried in four thousand years.\" | [The Tear's ancient sorrow is so concentrated it radiates like heat.] | *Target suffers -10 Composure; the weight of all grief's origin is immense.* **[10 Lament DMG [Lament]]** | When the target sees the Tear. |",
+          "new": "| { *The Original Drop* [**Debuff**] } | \"This is the first tear ever shed — the prototype of all grief — and it has not dried in four thousand years.\" | [Nothing radiates; the instruments read the room and find the room. What the observer meets at the line is the shape of sorrow before language.] | *The observer suffers -10 Clarity. Both observers write the figure independently and neither says it aloud in the vault.* **[10 Lament DMG [Lament]]** | When an observer takes the nightly reading at the line under Viderehan. |"
+        },
+        {
+          "id": "R05-echoing-overrun",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Echoing First* [**Debuff**] } | \"Every tear ever shed is an echo of this one — and being near the original makes you feel all of them.\" | [The Tear's primordial nature resonates with every sorrow the target has ever felt.] | *Target loses 10 Composure; they are feeling every grief simultaneously.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Echoing First* [**Debuff**] } | \"Every tear ever shed is an echo of this one — and being near the original makes you feel all of them.\" | [The Tear does nothing new. Past the reading, the observer's own losses arrive as echoes of the first, and the first sign is describing its unknown event in the first person.] | *The observer loses 10 Clarity. Enforce the four-minute cap; an observer who overruns is stood down from the rota whether or not they report symptoms.* **[10 Lament DMG [Lament]]** | When an observer remains in the vault past the four minutes the reading takes. |"
+        },
+        {
+          "id": "R06-salt-blade-contact-attempt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Salt Blade* [**Attack**] } | \"The first tear hardens — crystallized by four millennia — and it is sharper than anything forged since.\" | [An ancient, crystallized tear-salt blade strikes.] | *Inflicts Lament pressure and one wound of primordial grief.* **[14-22 Lament DMG [Lament]]** | When the Tear is touched. |",
+          "new": "| { *The Salt Blade* [**Attack**] } | \"Nothing hardens and nothing is forged. The crystal is smaller than a raindrop and the hand coming toward it is the emergency.\" | [No blade leaves the pedestal. An approach past the line is the vault's one true incident: the complete emotional history of sorrow arrives whole, belonging to nobody.] | *Heavy Lament pressure on Clarity. Secure the approaches, clear unshielded personnel, and restore the reading on time; touch is forbidden and no contact test is authorized to learn more.* **[14-22 Lament DMG [Lament]]** | When anyone crosses the line or attempts contact with the crystal. |"
+        },
+        {
+          "id": "R07-full-release-series-gap",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Release* [**Attack**] } | \"The first tear finally falls — completing a journey four thousand years overdue.\" | [The Tear's delayed completion releases its entire accumulated grief.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tear is forced to fall. |",
+          "new": "| { *The Full Release* [**Attack**] } | \"The first tear finally falls — completing a journey four thousand years overdue.\" | [It has never fallen, and nothing here completes a journey. What the record actually holds is a retrospective step: eleven unobserved nights in 4106, after which the figure never returned to its prior band.] | *A heavy Lament load carried as grief with no event attached, and a movement in the series that can never be dated. Report the night, the duration and the cause so far as known; the review examines the rota, not the Tear.* **[24-36 Lament DMG [Lament]]** | When a nightly reading is missed, late, or taken by one observer instead of two. |"
+        },
+        {
+          "id": "R08-ocean-threshold-condition",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ocean of the First* [**Ultimate**] } | \"The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow.\" | [The Tear's landing creates a universal flood of original grief.] | *All in range suffer Lament pressure for three turns in the first ocean.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Ocean of the First* [**Ultimate**] } | \"The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow.\" | [No ocean forms in the vault. At threshold the recorded risk is immediate emotional overload and possible Fracture for everyone present — the whole history of sorrow at once, not water.] | *All in range suffer Lament pressure on Clarity for three turns. Withdraw everyone but the reading pair, bring the Gauge back under the management condition (below 25% before any attributed piece is used), and take the reading on time regardless.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold with the none-authorized regime event (contact attempted, question posed, or the series suspended). |"
+        },
+        {
+          "id": "R09-relic-banners",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Operative Alteration**\n> **This Relic Extracts Personal Resilience upon Extended Use**",
+          "new": "> **No facility benefit is authorized from this Relic**\n> **No operative alteration has been attempted or is permitted**\n> **Extended use is untested by design; exposure is capped at the four minutes the reading takes**"
+        },
+        {
+          "id": "R10-greatsword-binding",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Lament damage to the mind, at a magnitude the grading system describes as sovereign and the field manuals do not model. The greatsword carries the first grief there was, and what it opens in a target is every loss they have had, undifferentiated and at once.",
+          "new": "**Ability:** Lament damage to the mind — emotional stability and willpower. It carries the first grief there was, and what it opens in a target is every loss they have had, undifferentiated and at once. The bearer must name the source event as unknown and pre-city and never their own; the first failure sign is describing it in the first person, and shutdown is a named witness stating the source title while the bearer relinquishes the piece. (Identity against *The First Requiem* remains held; no numeric profile is imported.)"
+        },
+        {
+          "id": "R11-shroud-binding",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Lament aside from the mind at a magnitude no other suit in the archive reaches. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone.",
+          "new": "**Ability:** Resists Lament, protecting emotional stability and willpower. It holds only while the bearer keeps the source distinct — naming the event unknown and pre-city — and only under the management condition with the Gauge below 25%; violating that limit reverses the benefit and raises the source Gauge. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone."
+        },
+        {
+          "id": "R12-charm-source-boon",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** The charm steadies its bearer's hand and voice while they are recording a figure. It is the smallest effect attributed to any item in the archive and it is attached to the oldest record in it, which the vault registrar notes without comment in the inventory margin.",
+          "new": "**Ability:** A minor boon tied to the source sorrow, mirroring its nature rather than serving the rota. The bearer names the event as unknown and accepts the same management limit as the set; shutdown requires a named witness to state the source title while the bearer relinquishes it, and describing the first grief as one's own is the first failure sign."
+        },
+        {
+          "id": "R13-record-procedures",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**Containment & Handling Procedures:**\n- Do not approach without Director approval.\n- The Tear is the ancestor of all sorrow.\n- It is small, blue, ancient beyond ancient.",
+          "new": "**Containment & Handling Procedures:**\n- Two observers a night; glow, height and time read at the line and countersigned before anybody leaves the antechamber.\n- Nothing touches the crystal, nothing hurries it, and no question is ever put to it.\n- The reading is taken on time whatever else is happening; a missed or single-observer night is reviewed within twenty-four hours — the rota, the lamp and the sheet, never the Tear."
+        },
+        {
+          "id": "R14-appearance-note-current",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "The combat record's salt blade, forced fall and ocean release are not events established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation.",
+          "new": "The combat record now states the same limit in its own rows: no blade leaves the pedestal, no fall completes a journey and no ocean forms in the vault, because none of those events is established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.039  clean   129 grams  Trivia\n 0.019  clean   107 grams  Operational Parameters\n 0.015  clean   968 grams  M.A.W. Equipment\n 0.007  clean   862 grams  Combat Record\n 0.006  clean   181 grams  기록 (Registrum)\n 0.002  clean   423 grams  관찰 기록 (Observation Log)\n 0.002  clean   888 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1464 grams  Sovereign Chronicle\n 0.000  clean   551 grams  Appearance\n 0.000  clean   548 grams  Activation Behavior\n 0.000  clean   417 grams  이야기 보고 (Story Log)\n 0.000  clean   360 grams  이야기 (Narratio)\n 0.000  clean   164 grams  Behavior\n 0.000  clean   153 grams  Origin\n 0.000  clean    60 grams  최종 관찰 (Final Observation)\n 0.000  clean    57 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 50% against Lament pressure; 40% against other pressure types as formal ratings. Working protection is the seri\n   86   5  | { *The Ocean of the First* [**Ultimate**] } | \"The first tear reaches the ground at last — and where it lands, an ocean forms, a\n  230   1  **Ability:** Lament damage to the mind — emotional stability and willpower. It carries the first grief there was, and what it open\n  238   1  **Appearance:** a wrapping shroud of Lament Han-silk, faintly luminous and cool at the shoulders, worn over the night sheet by the\n  247   1  **Cost:** The wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the me\n  253   2  **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is worn on a cord and it was\n  255   1  **Effect:** +3 stat bonus when working the source entity\n  277   9  **Full-set source review (2026-10-12):** Reviewed this overview and every local M.A.W. claim—including all three piece blocks, Use\n  299   1  | **Post-contact review** | The sheet is checked against the preceding night before the observers leave the antechamber. Gaps are \n  353   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  410   1  **Review requirement:** Re-verify after any Sorrow Tide, any vault incident, and any night on which a reading was missed, late, or\n  463   5  - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, Alpha Tree deep vault — sealed.\nGENERIC 0.004  (32 shared shingles)  SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_03_FIRST_TEAR.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-A__SIDE_CODEX_The_First_Tear.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-B__MAW-W_The_First_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-C__MAW-S_The_First_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-D__MAW-G_The_First_Charm.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_03_FIRST_TEAR.md": "953aa9aed4ee3e4599d70514345e1652266d0319e9be2bf034b453e221044321",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-A__SIDE_CODEX_The_First_Tear.md": "949101b5de1ecd0bf027fd6f483d592e2dc03490556294775fd7a92bf1b5ae61",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-B__MAW-W_The_First_Requiem.md": "18ee0cf4d927bd42c6043fa2996ffb00140a593540c1a1d1152954383e731030",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-C__MAW-S_The_First_Shroud.md": "9a2d99886cc79de0e73d1432faebfc519a552f46ac2629b68d80fed6f8bc17e6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1030_The_First_Tear/SE-1030-D__MAW-G_The_First_Charm.md": "03d87fe91d653325af331d8dc0c861fccdfad7cc25fad0b1646a4d4a07815500"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Vδ-290_First_Tear_첫_번째_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-290_First_Tear_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EB%88%88%EB%AC%BC.md \"SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\")]",
+      "table_link": "[[C-Vδ-290 First Tear](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-290_First_Tear_%EC%B2%AB_%EB%B2%88%EC%A7%B8_%EB%88%88%EB%AC%BC.md \"SE-C-Vδ-290_First_Tear_첫_번째_눈물.md\")]",
+      "reading": "Frozen primary SHA256 96755ffc07648a402ab5bbf0d9f70c274460b701ca550670eab9b56fe83ae826 read whole (472 lines) beside B148_03_FIRST_TEAR and SE-1030-A/B/C/D read completely; SE-1030 identity separated from SE-290/SE-103. Final primary re-read after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 5,
+        "digit_sequence_change": "Removed ~1–10 ton dust from a tear-weighted crystal and a 15% surge from the forced-fall row; moved the Ultimate from 65% (inside the 60–80% opening band) to the file ≥90% threshold. Glow series 0.38/0.41, 600/600, armor multipliers and +3 preserved."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-373",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-373_Spreading_Well_스며든_우물.md",
+      "words": 8240,
+      "sha256": "087976e814107e7d0c74e921d04ba3f1d07d72b77e5b143f08c837f5e634a7e0",
+      "prior_batch": 155,
+      "shape": "O-Relic",
+      "name": "Spreading Well",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_04_SPREADING_WELL.md",
+      "before_words": 8240,
+      "after_words": 8665,
+      "base": "a6e100ddf43ca067867e042893e5e49e9c747aa6",
+      "final_sha256": "996d46335498142a3ec0463e6475c64969c6eb10499dfb687cca83ff2f6eb681",
+      "summary": "16 source-bound repairs split 4 short / 12 careful. A fixed rim with thin, never-withdrawing channels no longer pools knee-deep, geysers on being struck, empties in one rush or floods at 65%; the rows now record channel reads, following behavior, dam reappearance, sluice venting and unacknowledged-end arrival at the ≥75% threshold. Network extent and equipment forms remain held.",
+      "commentary": "The Well injures nobody; it delivers. Its dangers are a worker quietly walking a channel out of the perimeter, a dam that merely moves the problem into a street, and a sluice whose discharge lands in occupied houses. The table now says so, the classification rim matches the file's own correction, and blade, shroud and vial all run on consent — a mapped route, two named witnesses, a receiver who agreed.",
+      "reasoning": "**Fixed rim, moving water.** B155 repaired three Appearance markers but left the SECC wording held; the primary's own operational note already corrects the misreading, so the classification now says fixed rim, spreading water.\n\n**Escalation is reach, not eruption.** Pool, geyser and disgorgement contradicted eleven years of unchanged soundings and two filed dam failures; overload now lives where the file puts it — in the operator-held sluice and its in-order closure.\n\n**Consent is the mechanism.** Channel Opening, Linked Carrier and the Vial carry SE-373-B/C/D limits (consented route, witnesses at both ends, close after acknowledgment). The Banner now names the safety-case dependency and the occupied-end consequence the Warden Record proves.",
+      "history": "Prior full logical review B155_02_SPREADING_WELL (pre-R-34) held the appearance after five narrow repairs. Batch 112 unit 1 (00b08f0) already cross-reviewed the exact SE-373 set and weapon; official counters do not move.",
+      "holds": [
+        "Perpetually extending, never-withdrawing network versus Side-A extraction after a channel recedes; natural arrival, sluice activation and gauge response not fully crosswalked.",
+        "Slender clear blade versus wet branching blade versus delta-fork archetype; cold wrapper versus branching wet seams and dry identity line; colourless vial versus blue moving channel.",
+        "Localised opening and surface channels versus whole-Desolate underground network; ends with no physical connection.",
+        "Household series (61 interviews, 47 requests) versus safety-case arrival reporting; no consent or staffing resolution invented."
+      ],
+      "split": [
+        4,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-secc-fixed-rim",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Physical Form** | Mixed — A stone well whose rim will not stay put: it spreads across the ground in thin branching channels of blue sorrow, its water seeping far from the opening to places it should not reach. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |",
+          "new": "| **Physical Form** | Mixed — A fixed stone rim whose water will not stay put: thin branching channels of blue sorrow spread across the ground far from an opening that stays exactly where it is. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |"
+        },
+        {
+          "id": "R02-secc-movement",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Movement** | Stationary — a structure or location. |",
+          "new": "| **Movement** | Stationary rim; the channels extend and have never withdrawn from ground reached. |"
+        },
+        {
+          "id": "R03-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — a specific grief arriving unattributed, understood but not one's own |"
+        },
+        {
+          "id": "R04-log-drain-clarity",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| 1 Minute | The weight arrives in the chest rather than the hands, and the operator becomes aware of the far ends: how many there are, and that some of them are lit. | Past sixty seconds the channel consumes 4 Composure every ten seconds. Plan the disengagement before the figure matters. |",
+          "new": "| 1 Minute | The weight arrives in the chest rather than the hands, and the operator becomes aware of the far ends: how many there are, and that some of them are lit. | Past sixty seconds the channel consumes 4 Clarity every ten seconds. Plan the disengagement before the figure matters. |"
+        },
+        {
+          "id": "R05-resistance-stake-line",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Lament pressure; 25% against other pressure types — untested here, since the Well injures nobody and has never been hostile to anything. |",
+          "new": "| **Resistance** | 35% against Lament pressure; 25% against other pressure types as formal ratings — untested here, since the Well injures nobody and has never been hostile to anything. Working protection is the stake line: channels read from the line and never stepped in, every new end traced and acknowledged, and sluice runs held by an operator who closes gate first and conduit second. |"
+        },
+        {
+          "id": "R06-seep-channel-read",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Seep* [**Debuff**] } | \"Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward.\" | [The Well's sorrow-water permeates the ground; the target's feet are wet.] | *Target suffers -10 Composure; the grief is in the ground itself.* **[10 Lament DMG [Lament]]** | When the target stands near the Well. |",
+          "new": "| { *The Seep* [**Debuff**] } | \"Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward.\" | [Standing over a live channel, the worker receives the grief it is carrying: specific, complete, and attached to nobody they know.] | *The worker suffers -10 Clarity. Read the channel from the stake line — grief, site left, end it is running toward — and never step into it.* **[10 Lament DMG [Lament]]** | When a worker stands over a live channel to read it under Viderehan. |"
+        },
+        {
+          "id": "R07-rising-pool-following",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rising Pool* [**Debuff**] } | \"The water spreads — a widening pool, ankle-deep, then knee-deep, and always cold.\" | [The Well's sorrow expands; the pool grows toward the target.] | *Target loses 10 Composure; the water is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Rising Pool* [**Debuff**] } | \"The water is no deeper. It is a line in the dust, and you have begun walking along it without deciding to.\" | [Nothing pools or rises; the depth at the rim has not changed in eleven years. What rises is the pull to follow a grief to its destination on foot.] | *The worker loses 10 Clarity. The second worker takes their arm — following stops when somebody does — and the seven-day check watches for unexplained walking.* **[10 Lament DMG [Lament]]** | When a worker lingers over a channel past the reading without relief. |"
+        },
+        {
+          "id": "R08-geyser-dam-reappear",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Geyser* [**Attack**] } | \"The well erupts — a column of sorrow-water, straight up, then raining down.\" | [A geyser of well-water blasts upward and cascades.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Well is struck. |",
+          "new": "| { *The Geyser* [**Attack**] } | \"Nothing erupts. By morning the channel is flowing through a street it had never visited, and the dam is a monument to the attempt.\" | [The Well has never been hostile and does not retaliate. A dammed or diverted channel simply reappears beyond the work within a day, as both filed attempts ended.] | *Heavy Lament pressure on Clarity for the crew, and a new unacknowledged end to trace. Stop the work, re-stake outward only, and notify the district reached before the watch closes.* **[14-22 Lament DMG [Lament]]** | When a channel is dammed, diverted or stepped into. |"
+        },
+        {
+          "id": "R09-disgorgement-sluice-vent",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The complete network discharges at the point of overload rather than along its channels.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is overloaded. |",
+          "new": "| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The Well does not empty. What empties is a mishandled sluice: released out of order or abandoned, it vents uncontained resonance across the sector and posts an unlogged discharge to the network's far ends.] | *A heavy Lament vent: foundation saturation and caustic blue leakage locally, arrivals at occupied ends within days. Close gate first, conduit second, then close the discharge record before the operator stands down.* **[24-36 Lament DMG [Lament]]** | When a sluice run is released out of order, abandoned, or allowed to overload. |"
+        },
+        {
+          "id": "R10-sorrow-sea-threshold-acknowledge",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [The network turns from one-directional carriage into a flood across the field.] | *All in range take Lament pressure for three turns in the sorrow sea.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [Every channel sounds at once along the whole stake line — the only time the network reads as one thing — and unacknowledged mourning arrives at every end together.] | *All in range take Lament pressure on Clarity for three turns. Acknowledge each linked site, trace and name every new end, and notify every district reached; do not dam the channels.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold while new ends stand unacknowledged. |"
+        },
+        {
+          "id": "R11-relic-banners-safety-case",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Sector / Facility Alteration**\n> **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**",
+          "new": "> **This Relic is a designated meltdown-mitigation measure in the facility safety case — load-bearing, not optional**\n> **Everything discharged into it arrives somewhere, including occupied households**\n> **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**"
+        },
+        {
+          "id": "R12-weapon-channel-opening",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — in the way this network deals it: not a blow but a delivery, and what it leaves the target holding is a grief that is specific, complete, and attached to nobody they know.",
+          "new": "**Ability:** *Channel Opening* — clears up to three obstructions from one consented grief route, dealing Lament damage against the Mind — emotional stability and willpower — only as the blockage gives. It is never used to deliver grief to a convenient witness, widen flow for extraction, or clear a route without acknowledging the affected site; origin, destination, consent and residual flow are mapped before the blade is dried. (Blade form remains held across its three records.)"
+        },
+        {
+          "id": "R13-shroud-two-witness",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values.",
+          "new": "**Ability:** *Linked Carrier* — wards the Mind — emotional stability and willpower — against Lament pressure so a follower can walk a grief route without identity absorption. Binding requires named witnesses at origin and destination, and the dry identity line is checked before every crossing; a carrier who becomes an endpoint is the first failure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values."
+        },
+        {
+          "id": "R14-vial-consenting-witness",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Carries a small amount of sorrow to a distant witness.",
+          "new": "**Ability:** Carries a small amount of sorrow to a *consenting* distant witness. Both witnesses are confirmed before opening, and the Vial closes after acknowledgment, not after emotional resolution; consent assumed, or a witness appointed as absorber, is a failure, not a use."
+        },
+        {
+          "id": "R15-use-notes-distinct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this set equips a worker against the network; each piece is the Well in small, and each one takes what the Well takes — grief the bearer never wept, minor joys gone numb, and a carried weight that resolves only when somebody else acknowledges it. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.",
+          "new": "Nothing in this set equips a worker against the network; each piece is the Well in small, but each takes its toll at a different station — the blade's bearer weeps with sorrow from both ends of the route cleared, the shroud's carrier goes numb to minor joys beneath two sites at once, and the vial's courier feels the grief at origin and destination for the whole journey. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it."
+        },
+        {
+          "id": "R16-consequences-carrier-consent",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The Well equipment gives the bearer the capacity to carry a sorrow to someone who will understand it, and charges them the grief at both ends of the journey — the one they are carrying and the one waiting to receive it.",
+          "new": "- The Well equipment does not hand its bearer a sorrow to dispose of: the blade only clears a consented route, the shroud only preserves its carrier between two named witnesses, and the vial only delivers to someone who agreed to receive it — and each charges the grief at both ends of the journey regardless."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIγ-373_Spreading_Well_스며든_우물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.038  clean   131 grams  Trivia\n 0.025  clean   278 grams  기록 (Registrum)\n 0.014  clean   586 grams  감각 묘사 (Flavor Text)\n 0.011  clean   175 grams  Operational Parameters\n 0.010  clean   798 grams  Combat Record\n 0.009  clean   106 grams  Behavior\n 0.009  clean   818 grams  M.A.W. Equipment\n 0.006  clean  1304 grams  Warden Record\n 0.000  clean   575 grams  Activation Behavior\n 0.000  clean   403 grams  이야기 (Narratio)\n 0.000  clean   290 grams  관찰 기록 (Observation Log)\n 0.000  clean   226 grams  Appearance\n 0.000  clean   206 grams  이야기 보고 (Story Log)\n 0.000  clean   171 grams  Origin\n 0.000  clean   123 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  SECC Classification\n 0.000  clean    45 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 35% against Lament pressure; 25% against other pressure types as formal ratings — untested here, since the Well\n   86   7  | { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [Ev\n  148   1  Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, O-Relic tool class, \n  214   1  **Appearance:** a slender blade of Lament Han-crystal, close to clear, that shows a faint line of light down its length when it is\n  222   2  **Ability:** *Channel Opening* — clears up to three obstructions from one consented grief route, dealing Lament damage against the\n  274   3  | **Before use** | Wielder, piece, the day's reading, and a baseline written down by somebody other than the bearer — the recorded\n  279   1  **Stat interpretation:** The grade records how cleanly the sorrow came off the network, not what a bearer carries out of it. On th\n  349   5  **Interaction method:** Take each party alone first, over as many cycles as the season allows, and hold the reading until the seep\n  362   3  **Interaction procedure:** The solo baseline is the control and is not optional: three cycles minimum, with the seep rate, the sta\n  410   7  **Operational interpretation:** This file is read whole or not at all: the uncontainable network, the one-directional delivery, th\n  471   8  The minute records the objection as **correct in all three parts**. It records that a notification and standing-refusal register —\n  483   5  - **Field detail:** Its defining element is Lament, and its registered location is The Desolate, near The Scar.\nGENERIC 0.007  (46 shared shingles)  SE-C-IIIγ-373_Spreading_Well_스며든_우물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_02_SPREADING_WELL.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-A__SIDE_CODEX_Till_Someone_Understands.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-B__MAW-W_The_Spreading_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-C__MAW-S_The_Spreading_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-D__MAW-G_The_Spreading_Vial.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_02_SPREADING_WELL.md": "431bbb0e5820c640c47463d4a180fb562dba2041d80ea21264c0649b35ea5527",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-A__SIDE_CODEX_Till_Someone_Understands.md": "c6cc7aaaa9270f3b231289ed90df88939c85415aab970efa9923af0453071b04",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-B__MAW-W_The_Spreading_Requiem.md": "11abab565509c8c86ffd9bfd1dc73aeffc494732784b284f0f4d27719803bb38",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-C__MAW-S_The_Spreading_Shroud.md": "e09f2e0ef1f30425adc618bde534df2f19922577153c23fbbf7d0c5de1df5a2b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_373_to_407/SE-373-D__MAW-G_The_Spreading_Vial.md": "40cd8604ebea464da63d15512bf36f2d8be58aff0eb57edb5ac076e2adc86cc3"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-373_Spreading_Well_스며든_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-373_Spreading_Well_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIIγ-373_Spreading_Well_스며든_우물.md\")]",
+      "table_link": "[[C-IIIγ-373 Spreading Well](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-373_Spreading_Well_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIIγ-373_Spreading_Well_스며든_우물.md\")]",
+      "reading": "Frozen primary SHA256 087976e814107e7d0c74e921d04ba3f1d07d72b77e5b143f08c837f5e634a7e0 read whole (492 lines) beside B155_02_SPREADING_WELL and SE-373-A/B/C/D read completely. Final primary re-read after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 5,
+        "digit_sequence_change": "Removed a 15% surge from the disgorgement row and moved the Ultimate from 65% (top of the 45–65% opening band) to the file ≥75% threshold. Weapon 7–12, armor multipliers, Tail 4%/+2 Clarity and the 1,106/788/318 map series preserved."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "C-Iα-114",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md",
+      "words": 4725,
+      "sha256": "51eac02db5a0ade833cd2d5aaec204c0ce2a8b9e6c4f74dee0c201582ae17dc2",
+      "prior_batch": 166,
+      "shape": "A-Relic",
+      "name": "A Letter Never Sent",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_05_LETTER_NEVER_SENT.md",
+      "before_words": 4725,
+      "after_words": 5083,
+      "base": "a6602211693847097444285dfc44b7e6bc841b91",
+      "final_sha256": "99fd18571e60003500e8a54540542d46a74e4e8f41c65312b9d9b555e910d88d",
+      "summary": "14 source-bound repairs split 4 short / 10 careful. A sealed single-use apology that burns to cure panic and restore +15 Composure no longer fires ranged Lament, surges when dropped, drops kilograms of dust or claims catastrophic battlefield alteration; its Ultimate is the spend-or-waste decision at its own ≥70% threshold. Temperature, chronology and extraction conflicts remain held.",
+      "commentary": "The letter has exactly one moment in it: seal broken, panic cured, grey ash. Everything before that moment is screening, stasis checks and not reading another man's script. The rows now guard that single use — unvoiced-apology entry, reading attempts, rough handling, a jarring drop — and the Ultimate forces the only real decision the file allows: spend it on a squad that needs it, or lose it to an empty vault.",
+      "reasoning": "**Primary-only authority.** No SE-114 A–D side set, CSV row or archetype exists; the exact external check is Entity Codex row 473 (burns on unsealing, clears panic, +15 Composure), which the Activation record already matches.\n\n**One use, guarded.** Reverence and proximity triggers became checkable regime events; the dropped-envelope Gauge surge and ranged damage contradicted a restorative discharge object whose only recorded pulse costs Composure nearby.\n\n**Chronology kept honest.** The fifth protocol row now returns the same grey ash B166 established, and Use Notes no longer assert post-discharge manufacture beside an unbroken seal; extraction and availability stay open questions.",
+      "history": "Prior full logical review B166_01_LETTER (pre-R-34) held the appearance after five narrow repairs. No exact side-codex set exists for C-Iα-114 and no earlier programme credited an exact weapon pair; equipment and SE credit remain +0 by proof, not by inheritance.",
+      "holds": [
+        "Invariant −3.2°C surface versus the Orphaned Bell tolling below −5°C; no thermal transition or measurement scope reconciles them.",
+        "Addressee never traced versus the named daughter; eighty years (Story synthesis) versus centuries (Tale) for the apology's lateness.",
+        "Edge-residue extraction and three in-docket pieces versus an unbroken seal and no second discharge; availability chronology unsettled.",
+        "Read-once invitation versus paper burning before the pages unfold."
+      ],
+      "split": [
+        4,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Composure — unvoiced apology and unread farewells, which this relic spends itself to restore |"
+        },
+        {
+          "id": "R02-pressure-combat",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Mental / emotional pressure |",
+          "new": "| **Primary Pressure** | Composure |"
+        },
+        {
+          "id": "R03-dust-grey-ash",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1 kg–10 kg (α) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — consumed into grey ash and delivered to the Memorial Vault; it is a spent apology, not a dust yield |"
+        },
+        {
+          "id": "R04-clash-stasis-checks",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.",
+          "new": "2. **Clash:** The team conducts Viderehan and Ferrehan stasis checks only. Yield here is tallied off the vault's own checks rather than harvested live, and sector stability is monitored without moving the envelope."
+        },
+        {
+          "id": "R05-resistance-screening",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types |",
+          "new": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types as formal ratings. Working protection is screening and restraint: operatives with unaddressed parental grief are excluded by screening rather than self-report, nobody reads the flap script or writes on the wax, and the seal is broken only on an emergency authorization. |"
+        },
+        {
+          "id": "R06-seal-unvoiced-apology",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *The Indigo Seal* [**Debuff**] }} | \"The wax softens slightly, weeping blue condensation.\" | [A faint chill settles over the chamber; observers feel unvoiced remorse.] | *Target suffers -5 Composure.* | When the envelope is approached without reverence. |",
+          "new": "| {{ *The Indigo Seal* [**Debuff**] }} | \"The wax softens slightly, weeping blue condensation.\" | [The envelope trembles faintly; observers feel their own unvoiced remorse before they notice the chill.] | *The operative suffers -5 Composure. Personnel carrying an unaddressed parental grief are stood down from this rotation by screening, not by self-report.* | When an operative carrying an unvoiced apology enters the chamber. |"
+        },
+        {
+          "id": "R07-address-reading-attempt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Faded Address* [**Debuff**] }} | \"The ink shifts beneath the wax, spelling out forgotten names.\" | [The address line blurs; memories of unwritten messages intrude into thought.] | *Target loses 5 Composure.* | When an operator inspects the front seal. |",
+          "new": "| {{ *Faded Address* [**Debuff**] }} | \"The ink shifts beneath the wax, spelling out forgotten names.\" | [The address line blurs under a reading eye; unwritten messages intrude, and the paper accepts no new graphite or ink.] | *The operator loses 5 Composure, and writing over the wax brings instantaneous frostbite. Log creases, wax and frost without lifting the flap or reading the script.* | When an operator reads, or tries to read or write over, the faded brush script on the flap. |"
+        },
+        {
+          "id": "R08-trembling-rough-handling",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Trembling Seam* [**Attack**] }} | \"The paper edges hum at a low acoustic frequency.\" | [The envelope vibrates in resonance with nearby human regret.] | *Inflicts 8 Lament damage across Range Band 1.* | When handled carelessly. |",
+          "new": "| {{ *Trembling Seam* [**Attack**] }} | \"The paper edges hum at a low acoustic frequency.\" | [Rough handling draws an acoustic pulse from the envelope, not a strike: it has nothing to hit with.] | *Nearby personnel lose 5 Composure to the pulse. Set it down, verify the seal against the vault sheet, and record who moved it and why.* | When the envelope is handled roughly or moved without authorization. |"
+        },
+        {
+          "id": "R09-sigh-seal-check",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Parchment Sigh* [**Attack**] }} | \"A breath of stale, century-old air escapes from the fold.\" | [The draft smells of old paper and winter train stations.] | *Sorrow Gauge increases by 10%.* | When the envelope is dropped or jarred. |",
+          "new": "| {{ *Parchment Sigh* [**Attack**] }} | \"A breath of stale, century-old air escapes from the fold.\" | [A jar threatens the one thing that must not happen accidentally: micro-fractures in skin are recorded, and a cracked seal is a wasted discharge.] | *Stop all handling. Verify wax integrity against the vault sheet, log the event, and treat any seal damage as a countdown on the relic's only use.* | When the envelope is dropped or jarred. |"
+        },
+        {
+          "id": "R10-ultimate-spend-or-waste",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Unread Finality* [**Ultimate**] }} | \"The blue wax cracks prematurely under immense psychic strain.\" | [The envelope flares with faint indigo fire, threatening premature consumption.] | *All personnel in room take 10 Lament damage.* | When Sorrow Gauge reaches 60%. |",
+          "new": "| {{ *Unread Finality* [**Ultimate**] }} | \"The blue wax cracks prematurely under immense psychic strain.\" | [The wax threatens to go on its own, which is how this relic is lost: spent on an empty vault instead of a panicking squad.] | *The lead must choose at once: spend it deliberately under emergency authorization (Panic cured, +15 Composure in Range Band 3, letter consumed into grey ash) or clear the vault and re-separate the acoustic/kinetic neighbours by three bulkheads. If it vents unchosen, all personnel present take 10 Lament damage and the benediction is wasted.* | When the Sorrow Gauge reaches the ≥70% activation threshold under vibration or acoustic resonance from a neighbouring holding. |"
+        },
+        {
+          "id": "R11-consequences-stasis",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "Failure to maintain stasis allows the wax to fracture prematurely, venting localized cryogenic lament across the containment vault. Successful management preserves the letter in stasis until an emergency tactical deployment is authorized.",
+          "new": "Failure here is not an explosion; it is waste. A prematurely fractured seal spends the letter's only discharge on whoever happens to be standing in the vault, and the apology that waited since 4,112 is gone. Successful management is clerical: screened hands, an unbroken seal, and the letter preserved in stasis until a Strike Cadre lead authorizes the one emergency deployment it exists for."
+        },
+        {
+          "id": "R12-relic-banners",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Catastrophic Battlefield Alteration**\n> **This Relic is Irrevocably Consumed upon Activation**",
+          "new": "> **This Relic Benefits the Facility Once, as Emergency Squad Stabilization**\n> **Its Battlefield Effect is Restoration Only — Panic Cured, Composure Returned, Nothing Altered Beyond That**\n> **This Relic is Irrevocably Consumed upon Activation**"
+        },
+        {
+          "id": "R13-log-five-uses-ash",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "| 5 Uses | Grief of this size had one way left to be finished, and that was to be burned out in a single sitting. After the letter has handed everything over, asking anything further of it gets no answer at all. | What survives is inert: the seal shatters, or the mineral goes dull and powdery. It will not take repair, it will not take rekindling, and no further extraction is available from it. |",
+          "new": "| 5 Uses | Grief of this size had one way left to be finished, and that was to be burned out in a single sitting. After the letter has handed everything over, asking anything further of it gets no answer at all. | What survives is the grey ash specified for this envelope, delivered to the Directorate Memorial Vault. It will not take repair and it will not take rekindling; there is no second sitting. |"
+        },
+        {
+          "id": "R14-use-notes-chronology",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "M.A.W. extracted from single-use relics represents the lingering memory of the husk. It is not forged from live flesh but woven from the calcified residue left after the grief discharges.",
+          "new": "The three pieces stand in this docket beside an envelope whose seal has never been broken, so nothing here is cut or woven from this letter while it waits. Their availability chronology against the unbroken seal is unsettled and is recorded as such; the letter itself remains the single-use relic, spent in one discharge or not spent at all."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.003  clean   575 grams  Combat Record\n 0.000  clean   683 grams  Activation Behavior\n 0.000  clean   269 grams  이야기 (Narratio)\n 0.000  clean   252 grams  Appearance\n 0.000  clean   238 grams  감각 묘사 (Flavor Text)\n 0.000  clean   224 grams  M.A.W. Equipment\n 0.000  clean   212 grams  이야기 보고 (Story Log)\n 0.000  clean   105 grams  Trivia\n 0.000  clean   105 grams  Operational Parameters\n 0.000  clean    96 grams  관찰 기록 (Observation Log)\n 0.000  clean    66 grams  최종 관찰 (Final Observation)\n 0.000  clean    66 grams  증언 (Testimonium)\n 0.000  clean    64 grams  SECC Classification\n 0.000  clean    56 grams  기록 (Registrum)\n 0.000  clean    34 grams  Origin\n 0.000  clean    26 grams  Behavior\n 0.000  clean    15 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   56   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types as formal ratings. Working protection is screenin\n   85   1  | {{ *Unread Finality* [**Ultimate**] }} | \"The blue wax cracks prematurely under immense psychic strain.\" | [The wax threatens to\nGENERIC 0.001  (2 shared shingles)  SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_01_LETTER.md": "83e0c82ec1e94a8582655703015fb310d1fa09eaf80c5345bf3bc292d27c61cd",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md \"SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\")]",
+      "table_link": "[[C-Iα-114 A Letter Never Sent](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-114_A_Letter_Never_Sent_%EB%B6%80%EC%B9%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%ED%8E%B8%EC%A7%80.md \"SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md\")]",
+      "reading": "Frozen primary SHA256 51eac02db5a0ade833cd2d5aaec204c0ce2a8b9e6c4f74dee0c201582ae17dc2 read whole (396 lines) beside B166_01_LETTER; absence of any SE-114 side set re-verified by directory search, and Entity Codex row 473 read for the exact envelope discharge. Final primary re-read after exact replay.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 236,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 3,
+        "digit_sequence_change": "Removed the ~1–10 kg dust yield from an envelope that burns to ash, the 8-point ranged damage figure (replaced by the filed −5 Composure acoustic pulse) and a +10% self-surge on being dropped; moved the Ultimate from 60% to the file ≥70% threshold. +15 Composure, weapon 4–8, armor multipliers and Chest 5% preserved."
+      }
+    }
+  ]
+}

@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan remains in the response table because it was tried; on this holding it is barred absolutely and has raised the gauge on every occasion without exception. |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Do not bind it; offer an unforced ending |
 
@@ -81,13 +81,13 @@
 | { *The Rattle* [**Debuff**] } | "The chain finds you — and wraps once, loosely, the way a leash does." | [The Chain settles on the target; the first loop is deceptively gentle.] | *Target loses 10 Resilience; the chain has marked its walker.* **[10 Grudge DMG [Grudge]]** | When the Chain reaches the target. |
 | { *The Swing* [**Attack**] } | "The chain whips — fast, wild, and glad to be moving." | [The mobile chain lashes in a wide arc.] | *Inflicts Grudge pressure and one biting, iron cut.* **[14-22 Grudge DMG [Grudge]]** | When the Chain is provoked. |
 | { *The Yank* [**Attack**] } | "The chain pulls — and whatever is on the other end is stronger than you." | [The length goes taut and drags whoever took hold off their feet.] | *A heavy Crimson jerk; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When somebody grabs the links. |
-| { *The Roaming Iron* [**Ultimate**] } | "The chain is everywhere now — dragging through every corridor, finding every ankle." | [It splits into lengths and crawls every lane of the ground at once.] | *Grudge pressure presses on everyone for three turns while the iron roams.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Roaming Iron* [**Ultimate**] } | "It does not come for you. It comes past you, and then the end of it is somewhere it was not." | [The Chain stays one length and does not divide; what spreads across the ground is its reach — end over end, closing toward a loop wherever somebody has taken hold.] | *Grudge pressure presses on everyone for three turns while the iron roams; it has never taken anybody standing still with their hands visible.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team sights the Chain crawling in the Old Lament corridors, confirms it is still an open length rather than a closed loop, establishes which way it is heading, and clears that route rather than blocking it.
 2. **Clash:** Ten turns, and the whole engagement turns on restraint — the party's, not the entity's. Flerehan and Ferrehan bring the gauge down, Pugnahan drives it up, and a party that reaches for Pugnahan because the Chain is hostile will spend the remaining turns managing the consequence.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Do not bind it; offer an unforced ending**. Everything the record asks for here follows from that clause — the route stays open, nobody takes hold of the links, and the watch closes when a bond is allowed to end rather than broken.
+3. **Resolution:** There is no suppression condition behind this holding. The watch closes on the documented clause — **Do not bind it; offer an unforced ending** — the route stays open, nobody takes hold of the links, and the cycle ends when a bond is allowed to end rather than broken.
 
 ### Consequences
 
@@ -152,9 +152,9 @@ Read the table above as a diagnostic rather than a prescription: it names what s
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Thralldom bursts free and crawls or slithers in search of prey. It binds personnel, dragging them. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
+| **Movement** | It does not burst anywhere. At zero on the count it leaves the Old Lament at its ordinary crawl and looks for a wrist; it does not chase, cannot be outrun in a straight corridor, and has never taken anybody who was standing still with their hands visible. |
+| **Effect** | It binds rather than wounds. Every injury on the record is from a person pulling against it, and the gauge is indexed to restraint: each attempt to hold, bind, cordon or detain it is worth more than any damage figure on this file. |
+| **Secondary Effect** | Exposed personnel begin to feel compelled to remain in harmful relationships and duties. It does not present as distress; it presents as loyalty, and is measured afterwards by declined leave and refused rotations. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | For every turn the Chain stays loose its pressure grows, and the Resilience drain adds 5 a turn until the watch ends it. |
 
@@ -262,8 +262,8 @@ Each piece remains part of the Chain, and the set has a property the grades do n
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer places the holding from the marks: red staining at thresholds and along corridors where people were once kept from leaving, fading wherever a bond has since ended honestly. The designation is confirmed before entry — Zone B holds more than one Grudge residue born of obligation outliving affection. |
-| **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Sustained observation** | Configuration, direction and the mark series: the length open or closed, the route it is crawling, and the annual threshold count — 61, then 78, then 96 — surveyed by location, because marks fade where a bond has since ended honestly. |
+| **Activation or escalation** | The threshold count, which stands at 4 and counts down one for every failed cycle and every attempt to detain it; a clean cycle can return one. Activation is the length closing into a loop, and it is always preceded by somebody taking hold — log who, and on whose order. |
 | **Post-contact review** | Enter what altered, what persisted and what the vocabulary would not hold; all three count as data. On this file the sheet is incomplete if it records only the danger — the sorrow the Chain preserves is the part the entry has to carry, or the watch has simply been a report on a hazard. |
 
 **Observation method:** Log the Chain's configuration, its direction, and every restraint attempted by anyone present, including attempts that were considered and abandoned. Then take the personnel record, which for this entity is not optional: workers exposed to it report compulsion to remain in harmful duties, and that compulsion is indistinguishable from conscientiousness in a debrief. Ask instead whether the worker has declined leave, extended a shift, or refused a rotation since the exposure. The answer is the measurement, and the worker will usually supply it while explaining why it does not count.

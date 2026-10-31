@@ -14,8 +14,8 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A stone well whose rim will not stay put: it spreads across the ground in thin branching channels of blue sorrow, its water seeping far from the opening to places it should not reach. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |
-| **Movement** | Stationary — a structure or location. |
+| **Physical Form** | Mixed — A fixed stone rim whose water will not stay put: thin branching channels of blue sorrow spread across the ground far from an opening that stays exactly where it is. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |
+| **Movement** | Stationary rim; the channels extend and have never withdrawn from ground reached. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -27,7 +27,7 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — a specific grief arriving unattributed, understood but not one's own |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types — untested here, since the Well injures nobody and has never been hostile to anything. |
+| **Resistance** | 35% against Lament pressure; 25% against other pressure types as formal ratings — untested here, since the Well injures nobody and has never been hostile to anything. Working protection is the stake line: channels read from the line and never stepped in, every new end traced and acknowledged, and sluice runs held by an operator who closes gate first and conduit second. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 561/561 |
 | **Han Pressure [ATK]** | 18–42 per hit · Lament |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Seep* [**Debuff**] } | "Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward." | [The Well's sorrow-water permeates the ground; the target's feet are wet.] | *Target suffers -10 Composure; the grief is in the ground itself.* **[10 Lament DMG [Lament]]** | When the target stands near the Well. |
-| { *The Rising Pool* [**Debuff**] } | "The water spreads — a widening pool, ankle-deep, then knee-deep, and always cold." | [The Well's sorrow expands; the pool grows toward the target.] | *Target loses 10 Composure; the water is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Geyser* [**Attack**] } | "The well erupts — a column of sorrow-water, straight up, then raining down." | [A geyser of well-water blasts upward and cascades.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Well is struck. |
-| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The complete network discharges at the point of overload rather than along its channels.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is overloaded. |
-| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [The network turns from one-directional carriage into a flood across the field.] | *All in range take Lament pressure for three turns in the sorrow sea.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Seep* [**Debuff**] } | "Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward." | [Standing over a live channel, the worker receives the grief it is carrying: specific, complete, and attached to nobody they know.] | *The worker suffers -10 Clarity. Read the channel from the stake line — grief, site left, end it is running toward — and never step into it.* **[10 Lament DMG [Lament]]** | When a worker stands over a live channel to read it under Viderehan. |
+| { *The Rising Pool* [**Debuff**] } | "The water is no deeper. It is a line in the dust, and you have begun walking along it without deciding to." | [Nothing pools or rises; the depth at the rim has not changed in eleven years. What rises is the pull to follow a grief to its destination on foot.] | *The worker loses 10 Clarity. The second worker takes their arm — following stops when somebody does — and the seven-day check watches for unexplained walking.* **[10 Lament DMG [Lament]]** | When a worker lingers over a channel past the reading without relief. |
+| { *The Geyser* [**Attack**] } | "Nothing erupts. By morning the channel is flowing through a street it had never visited, and the dam is a monument to the attempt." | [The Well has never been hostile and does not retaliate. A dammed or diverted channel simply reappears beyond the work within a day, as both filed attempts ended.] | *Heavy Lament pressure on Clarity for the crew, and a new unacknowledged end to trace. Stop the work, re-stake outward only, and notify the district reached before the watch closes.* **[14-22 Lament DMG [Lament]]** | When a channel is dammed, diverted or stepped into. |
+| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The Well does not empty. What empties is a mishandled sluice: released out of order or abandoned, it vents uncontained resonance across the sector and posts an unlogged discharge to the network's far ends.] | *A heavy Lament vent: foundation saturation and caustic blue leakage locally, arrivals at occupied ends within days. Close gate first, conduit second, then close the discharge record before the operator stands down.* **[24-36 Lament DMG [Lament]]** | When a sluice run is released out of order, abandoned, or allowed to overload. |
+| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [Every channel sounds at once along the whole stake line — the only time the network reads as one thing — and unacknowledged mourning arrives at every end together.] | *All in range take Lament pressure on Clarity for three turns. Acknowledge each linked site, trace and name every new end, and notify every district reached; do not dam the channels.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold while new ends stand unacknowledged. |
 
 ### Battle Phases
 
@@ -95,7 +95,7 @@
 
 - A worker who cannot hold begins following a channel. They walk it outward, past the stake line, past the perimeter, without urgency and without noticing the distance, and they stop when somebody takes their arm.
 - Sustained proximity produces the characteristic effect of this site: the worker acquires a grief that is not theirs and knows it is not theirs, describes it in detail, and cannot say whose it is. Six such reports are held and none has been matched to a person.
-- The Well equipment gives the bearer the capacity to carry a sorrow to someone who will understand it, and charges them the grief at both ends of the journey — the one they are carrying and the one waiting to receive it.
+- The Well equipment does not hand its bearer a sorrow to dispose of: the blade only clears a consented route, the shroud only preserves its carrier between two named witnesses, and the vial only delivers to someone who agreed to receive it — and each charges the grief at both ends of the journey regardless.
 - Unresolved, nothing breaks out. The channels simply reach further, and the reaching is reported to the facility by the districts the water arrives in.
 
 ## Appearance
@@ -150,8 +150,8 @@ Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 **Reading the response:** Read the seep rate at the rim and the stake line. A falling gauge presents as the seep easing and the channel sound dropping below audibility; a rising one presents as new channel ends, which are permanent. Nothing about the surface or the smell is an indicator and both have misled teams.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is a designated meltdown-mitigation measure in the facility safety case — load-bearing, not optional**
+> **Everything discharged into it arrives somewhere, including occupied households**
 > **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**
 
 **Activation Trigger:** Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels.
@@ -182,7 +182,7 @@ Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 |---|---|---|
 | 10 Seconds | The rim thrums and the sound beneath the soil becomes audible across the whole stake line at once. | The channel is open. Gauge spikes on adjacent units begin flattening within the first ten seconds; the reduction is measurable on the unit's own instruments. |
 | 30 Seconds | The conduit widens and the operator receives the custom whole — a graveside, poured tears, and the understanding that they are being sent to whoever else is grieving this season. | Discharge reaches Range Band 2 of the network. Allied units in the sector hold their elemental defences while the operator keeps the channel. |
-| 1 Minute | The weight arrives in the chest rather than the hands, and the operator becomes aware of the far ends: how many there are, and that some of them are lit. | Past sixty seconds the channel consumes 4 Composure every ten seconds. Plan the disengagement before the figure matters. |
+| 1 Minute | The weight arrives in the chest rather than the hands, and the operator becomes aware of the far ends: how many there are, and that some of them are lit. | Past sixty seconds the channel consumes 4 Clarity every ten seconds. Plan the disengagement before the figure matters. |
 | 2 Minutes | The flow threatens to reverse and the operator understands, correctly, that an overflow will go looking for somebody to be in. | Overload or abandonment vents an uncontrolled Lament shockwave: foundation saturation, caustic blue leakage, heavy damage to all personnel in the sector, and an unlogged discharge into the network. |
 
 ### Escalation Notes
@@ -219,7 +219,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage against the Mind — emotional stability and willpower — in the way this network deals it: not a blow but a delivery, and what it leaves the target holding is a grief that is specific, complete, and attached to nobody they know.
+**Ability:** *Channel Opening* — clears up to three obstructions from one consented grief route, dealing Lament damage against the Mind — emotional stability and willpower — only as the blockage gives. It is never used to deliver grief to a convenient witness, widen flow for extraction, or clear a route without acknowledging the affected site; origin, destination, consent and residual flow are mapped before the blade is dried. (Blade form remains held across its three records.)
 
 **Cost:** the wielder carries the entity's unwept grief for as long as they carry the blade, and past a season of it the weeping starts unbidden. The Armoury records the symptom against the wielder, on the file's own logic: what accumulates here is the work, not the steel.
 
@@ -237,7 +237,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values.
+**Ability:** *Linked Carrier* — wards the Mind — emotional stability and willpower — against Lament pressure so a follower can walk a grief route without identity absorption. Binding requires named witnesses at origin and destination, and the dry identity line is checked before every crossing; a carrier who becomes an endpoint is the first failure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values.
 
 **Cost:** the wearer goes numb to minor joys before noticing, and the second worker is the one who reads it — on a set issued one rotation at a time, the numbness is entered whether or not the wearer agrees.
 
@@ -251,7 +251,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 **Acquisition Probability:** 4%
 **Effect:** +2 Clarity against the source holding, and the carrier is aware of the far end of whatever they are holding — which at this site is not a figure of speech: the vial reports, and the bearer cannot switch it off.
 
-**Ability:** Carries a small amount of sorrow to a distant witness.
+**Ability:** Carries a small amount of sorrow to a *consenting* distant witness. Both witnesses are confirmed before opening, and the Vial closes after acknowledgment, not after emotional resolution; consent assumed, or a witness appointed as absorber, is a failure, not a use.
 
 **Cost:** The carrier feels the grief at both origin and destination.
 
@@ -259,7 +259,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 
 ### M.A.W. Use Notes
 
-Nothing in this set equips a worker against the network; each piece is the Well in small, and each one takes what the Well takes — grief the bearer never wept, minor joys gone numb, and a carried weight that resolves only when somebody else acknowledges it. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.
+Nothing in this set equips a worker against the network; each piece is the Well in small, but each takes its toll at a different station — the blade's bearer weeps with sorrow from both ends of the route cleared, the shroud's carrier goes numb to minor joys beneath two sites at once, and the vial's courier feels the grief at origin and destination for the whole journey. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.
 
 ### M.A.W. Cross-Source Review — Batch 112
 

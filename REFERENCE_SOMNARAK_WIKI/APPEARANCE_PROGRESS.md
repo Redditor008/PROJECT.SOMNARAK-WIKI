@@ -1,6 +1,16 @@
 # Appearance progress — SE bodies and M.A.W. equipment are separate
 
-**Latest: Batch179 OPEN 1 / 5.** Mourning a Life I Never Lived remains HELD after nine supported repairs. Four frozen reviews pending; no smaller batch close. [Evidence](SE_APPEARANCE_REVIEWS/B179_01_MOURNING_A_LIFE_I_NEVER_LIVED.md). No new credits or180 authorization.
+- **Latest: B196 U4 Restless Gap `C-IVδ-250` HELD, credit-barred, +0.** 15 repairs (7s/8c), 8,259→8,477w. Types 286/301 (95.02%), Weapon 284/287 (98.95%), SE 18/301 (5.98%); held 240 / pending 41. Batch 196 OPEN 4/5. [Evidence](SE_APPEARANCE_REVIEWS/B196_04_RESTLESS_GAP.md).
+
+**Previous: Batch183 CLOSED 5/5.** Five HELD reviews, 40 repairs; No change 0/5. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md). Special Activation: 153/301 SEs have no breach counter ([note](SPECIAL_ACTIVATION_SE.md)).
+
+**Previous: Batch182 CLOSED 5/5.** Five HELD reviews, 41 supported repairs, No change 0/5. The Final Door earns the batch's only fresh equipment credit, +1 Types / +1 Weapon. [Close report](SE_APPEARANCE_REVIEWS/B182_CLOSE.md).
+
+**Previous: Batch180 CLOSED 5/5.** Five HELD reviews, 39 supported repairs, No change 0/5. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md). Counters unchanged; ledger held 161 / pending 120.
+
+**Previous: Batch179 CLOSED 5/5.** Five HELD whole designs; 33 supported repairs (23 short / 10 careful), No change 0/5. Equipment coverage +1 Types / +0 Weapon (Wilderness Tide fresh all-type disposition); SE +0. [Full report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md).
+
+**Previous: Batch178 CLOSED5/5.** Five HELD whole designs; 31 supported repairs. No new Types/Weapon/SE credits. [Full report](SE_APPEARANCE_REVIEWS/B178_CLOSE.md).
 
 **Previous: Batch177 CLOSED5/5.** Five HELD whole designs;30 supported repairs. Equipment+1Types/+1Weapon; SE+0. [Full report](SE_APPEARANCE_REVIEWS/B177_CLOSE.md).
 
@@ -29,7 +39,7 @@ Three independent per-SE counters; a reviewed equipment description is not a com
 
 | Workstream | Completed | Coverage | Remaining |
 |---|---:|---:|---:|
-| ALL M.A.W. Types Appearance per SE — source-review coverage | 267 / 301 | 88.70% | 34 / 301 |
+| ALL M.A.W. Types Appearance per SE — source-review coverage | 268 / 301 | 89.04% | 33 / 301 |
 | ALL M.A.W.-W Appearance per SE — source-review coverage | 266 / 287 | 92.68% | 21 / 287 |
 | SE Appearance Fix — independent written-design pass | 18 / 301 | 5.98% | 283 / 301 |
 

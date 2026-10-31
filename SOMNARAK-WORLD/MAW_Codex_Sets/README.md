@@ -13,6 +13,8 @@ The `MAW_Codex_Sets/` archive houses the complete technical and narrative record
 
 M.A.W. equipment represents the physical stabilization of an entity's emotional resonance into usable armaments, defensive weave suits, and resonant stigmas. Without M.A.W. equipment, human personnel cannot survive direct contact with high-tier Sorrow Entities.
 
+> 📌 **PIN WIP — SE ↔ M.A.W. contradiction reconciliation:** some Sorrow Entity dossiers still carry notes that their embedded M.A.W. section conflicts with the exact linked M.A.W. dossier. Those contradictions are queued for actual field-by-field reconciliation in [`PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md`](PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md); the notes are **not** completed fixes. Reconciliation has not started under that queue.
+
 ---
 
 ## Quadripartite Set Architecture

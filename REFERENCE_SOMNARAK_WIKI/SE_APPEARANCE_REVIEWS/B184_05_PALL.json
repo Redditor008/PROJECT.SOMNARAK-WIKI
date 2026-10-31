@@ -1,0 +1,129 @@
+{
+  "designation": "C-IIβ-280",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-280_Pall_눈물의_베일.md",
+  "words": 7384,
+  "sha256": "82927f7ef59b546f0776de5a8801a691e53769a227fd68e70e81b28f0bdb5c66",
+  "unit": 5,
+  "name": "Pall",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_05_PALL.md",
+  "before_words": 7384,
+  "after_words": 7572,
+  "base": "3c5cab26e9433a9929616c7a23f2fdb82f81b09d",
+  "final_sha256": "3a8e08f69c328ce0937afb54798398f2b1bd138d406ba4ebc1d37ae965bea707",
+  "summary": "Four supported repairs return the last worn-veil grammar to a frame nobody wears: combat's first three rows stop drawing the veil, wearing it and inflicting a suffocating wound on provocation — pressure now lands as unnoticed dulling past a worked corridor, handover notes shortening past forty minutes, and handling past the single gloved touch; the Termination row contradicted the file's whole activation record ('the operative lifts the veil themselves') and now records the external remover from behind, naming the wearer, waiting for an answer, as items A/C require; the stock 'ridges of pressure, valleys of absence' exposure paragraph becomes the load cell and the notes; and a stray harvested line in the Story Log is replaced by the Gardens' wearer list. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "Four thousand four hundred and sixty cards, one clerk, and the minute that has recorded the position as both correct and untenable for six years. This file's restraint is its art: a containment whose central measure is a box of cards nobody reads, defended at four annual reviews — and a veil whose dull, growing edge measures the one figure the whole institution has honourably arranged not to know.",
+  "reasoning": "R-33 chain: Object/Place I-Relic / Echo-II / Moderate-β / Object-Lament → four generations of kindly etiquette and a no-reason leave rule that keep grief out of company and bereavement unknowable → a damp veil of crystallised pooled tears on a frame holding it open with nobody behind it, dulling colour and sound across a volume growing 180→240→310 cubic metres → work is Viderehan/Ferrehan beside the frame: one gloved touch, a card written and filed unread; wearing is activation, and the wearer cannot lift it off → no breach counter; failure presents as composure → equipment makes the wearer unreadable at the price of causeless weeping. Repairs remove the drawn/worn/suffocating veil grammar the chain cannot carry; the four-body weapon, shared-tears-versus-separate-griefs capture rule and Tale 51 strata remain HELD.",
+  "history": "Batch 107 unit 3 (0400fbf5) performed the full-SE review embedded in the primary — exact SE-280-A–D, Registry rows 567–570, Master rows/Entries 151–153, Entity Codex row 415, Tale 51, archetype MAW-W-280, disposition row 194 — and the Weapon pair SE-280-B was already dispositioned in Batch 79 (with Batch 76 also holding it), so Batch 107 counted the full-SE disposition inside the legacy baseline with no new Weapon credit. B184 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE. Side A itself records that SE-280 is Pall, deferring Kind Healer's Shadow N-IIβ-280 to its own SE-1029 set — that separation is preserved.",
+  "holds": [
+    "The weapon remains the most forked identity in this batch, and Batch 79/76/107 already left it there: primary Surgeon's Cleaver (a twenty-two-centimetre triangular stiletto described under a shield-bash/javelin profile, 6–10 / Slow / Medium), item B's singing chalice whose rim beads with tears under the title Weeping Veil-Pavise & Tear Javelin, Side A's compact summary (5–9 / Normal / Short / Single), Master table row 151 Weeping Stiletto against Entry 151 Pavise/Javelin, Registry's title, and archetype MAW-W-280's mirror-polished square cleaver at Close. No transition among cleaver, stiletto, pavise, javelin and chalice is recorded anywhere; none was invented, and the compact 'Tear Requiem' filename also belongs to MAW-W-041.",
+    "Suit and Stigma bodies agree on statistics but not on cloth: primary lead-weighted dry layered shroud surrendering a layer per blow, versus item C's flowing veil continuously expressing received emotion as visible tears; primary ornate Head/Hair/collar mourning clip ('no wearer ever reported it as uncomfortable, listed as a finding rather than reassurance') versus Side/item D's cool Tail charm with a moving salt pattern, granted after a wearing the primary says has not happened since the frame was built. The +1 Clarity and 5% agree; the bodies, slots and one provenance do not.",
+    "Capture discipline stays split by design as hard as the primary's and softer in the codices: Side A/C describe use with an assigned external remover as standard practice and Side D a completed wartime wearing, while the primary prohibits lifting absolutely and records nine historical wearings, all pre-frame, all removed by somebody else. Whether the historical instances are the items' recorded cases is nowhere stated. Tale 51's 'mourn through every previous wearer's grief' and the retired implied-worn trivia remain older strata beside them.",
+    "Item accumulation claims also diverge quietly: primary 411 word-cards at the Gardens versus 4,460 Register cards company-wide, both preserved as separate series with separate clerks; activation thresholds (Core ≥ 60%, Ultimate 'above 65%, once') remain formal. Effect of the clip's +1 Clarity is scoped 'during source work on this holding' here and 'during source work' in item D, left so."
+  ],
+  "split": [
+    3,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_first_rows",
+      "kind": "careful-detail",
+      "old": "| { *The Dampening* [**Debuff**] } | \"The veil falls over your eyes — soft, wet, and impossible to wipe clear.\" | [The Veil settles over the target; sight dims behind a film of tears.] | *Target suffers -10 Composure; the world goes blurry.* **[10 Lament DMG [Lament]]** | When the Veil is drawn. |\n| { *The Blurred Sight* [**Debuff**] } | \"You cannot tell what is grief and what is real anymore.\" | [The Veil thickens; the target cannot distinguish sorrow from surrounding.] | *Target loses 10 Composure; they move uncertainly.* **[10 Lament DMG [Lament]]** | When the target wears the Veil. |\n| { *The Wet Weight* [**Attack**] } | \"The veil clings and drags — suffocating, sodden with old weeping.\" | [The Veil wraps tighter, pressing wet sorrow over the target's face.] | *Inflicts Lament pressure and one suffocating wound.* **[14-22 Lament DMG [Lament]]** | When the Veil is provoked. |",
+      "new": "| { *The Dampening* [**Debuff**] } | \"Four metres further out, in a corridor where eleven people work, and none of them can tell they are standing in it.\" | [Nothing falls over anybody's eyes; the veil has not been worn since the frame was built. Colour and sound dull, and people inside the edge report the room as normal when asked.] | *Target suffers -10 Composure; what is lost first is noticing anything has changed.* **[10 Lament DMG [Lament]]** | When the quarterly edge has crept past a worked corridor unnoticed. |\n| { *The Blurred Sight* [**Debuff**] } | \"Past forty minutes they stop reporting how the watch is going and start reporting that it is fine.\" | [Handover notes shorten; sorrow and surrounding flatten into one politeness, and the second warden is watching for the change of word.] | *Target loses 10 Composure; movement is unaffected, which is how nobody is caught by it.* **[10 Lament DMG [Lament]]** | When a watch beside the frame runs past forty minutes. |\n| { *The Wet Weight* [**Attack**] } | \"The failure here is composure. A warden who finishes having shown nothing at all has done the thing the veil is made of.\" | [It weeps more the longer it is handled; load rises at the frame, grief is taken out of view, and the weight arrives as other people's unexpressed losses, not as a blow.] | *Inflicts Lament pressure as composure completing itself; no suffocation, no wound, and nothing on the register of injuries in the file's life.* **[14-22 Lament DMG [Lament]]** | When the veil is handled past the single gloved touch. |"
+    },
+    {
+      "id": "termination_self_lift",
+      "kind": "short",
+      "old": "| **Termination / Return** | The operative lifts the veil themselves and says one true thing about their own day before it goes back in the frame. The sentence is not recorded, which is the point of it. |",
+      "new": "| **Termination / Return** | Somebody else lifts it off; the wearer cannot, in nine recorded instances without exception. The assigned remover approaches from behind, names the wearer, and waits for a responsive answer before lifting. Afterwards the card is written and filed unread, as at the end of any watch. |"
+    },
+    {
+      "id": "flavor_continued_topography",
+      "kind": "short",
+      "old": "**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Lament has topography here — ridges of pressure, valleys of absence, a geography only the Object-Lament could have made.",
+      "new": "**With continued exposure:** The room does not become stranger; it becomes flatter, in colour and in sound and then in the people in it, and inside the edge nobody reports any of that. The Watch measures the change at the frame's load cell and in the length of handover notes, because those are the two instruments that still work where asking does not."
+    },
+    {
+      "id": "storylog_stray_line",
+      "kind": "short",
+      "old": "Its tears contain no individual memories unless directly observed.",
+      "new": "Thread by thread, under Viderehan, the weave resolves into individual wearers; the Gardens' list is kept beside the frame, reproduced without annotation, because annotating would mean ranking the griefs."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIβ-280_Pall_눈물의_베일.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.024  clean   577 grams  M.A.W. Equipment\n 0.000  clean   685 grams  Watch Record\n 0.000  clean   574 grams  Combat Record\n 0.000  clean   519 grams  감각 묘사 (Flavor Text)\n 0.000  clean   485 grams  이야기 보고 (Story Log)\n 0.000  clean   425 grams  Activation Behavior\n 0.000  clean   407 grams  이야기 (Narratio)\n 0.000  clean   282 grams  기록 (Registrum)\n 0.000  clean   242 grams  관찰 기록 (Observation Log)\n 0.000  clean   195 grams  Appearance\n 0.000  clean   156 grams  Operational Parameters\n 0.000  clean   148 grams  증언 (Testimonium)\n 0.000  clean   146 grams  Trivia\n 0.000  clean   125 grams  Origin\n 0.000  clean    94 grams  Behavior\n 0.000  clean    54 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  SECC Classification\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "  285  14  **Full-set source review (2026-10-13):** Reviewed the complete primary M.A.W. section, Use Notes, Field Use Record, Stat interpret\nGENERIC 0.003  (14 shared shingles)  SE-C-IIβ-280_Pall_눈물의_베일.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-A__SIDE_CODEX_Pall.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-B__MAW-W_The_Tear_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-C__MAW-S_The_Tear_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-D__MAW-G_The_Tear_Charm.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-A__SIDE_CODEX_Pall.md": "f55941ecbec798de007381e260b20d73a5cecf857dddb1e558269d212f75ab7e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-B__MAW-W_The_Tear_Requiem.md": "4585d4953b42bca6e6f5a08947f8868f4826ef1652c90a88618f4e2529ead03d",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-C__MAW-S_The_Tear_Veil.md": "c1b98b8ffa9508004dcb3dbfe9d8c159db781f83266b8b7ad1d858da85638b30",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-D__MAW-G_The_Tear_Charm.md": "09210c5fd0b617e1b4c55930eb25a41a841a2cef844d23dd7dfd9dd3a3fa52de",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIβ-280_Pall_눈물의_베일](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-280_Pall_%EB%88%88%EB%AC%BC%EC%9D%98_%EB%B2%A0%EC%9D%BC.md \"SE-C-IIβ-280_Pall_눈물의_베일.md\")]",
+  "table_link": "[Pall](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-280_Pall_%EB%88%88%EB%AC%BC%EC%9D%98_%EB%B2%A0%EC%9D%BC.md \"SE-C-IIβ-280_Pall_눈물의_베일.md\")",
+  "reading": {
+    "before_lines": 488,
+    "before_bytes": 43969,
+    "final_lines": 488,
+    "final_bytes": 45009
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 100,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10
+  }
+}

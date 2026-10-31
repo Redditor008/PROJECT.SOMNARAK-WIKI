@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A humanoid tree of dark crystal with a face pressed into its trunk and bare branches where memories should hang but do not. Bloodless-cold, it smells of ash; the empty branches are the shape of everything it has forgotten. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks upright. It has left the holding twice, both times to a records store, and has never pursued a worker. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid tree of dark crystal with a face in its trunk and branches where memories should be. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. The Redacted file carries the series rather than a single reading. |
+| **Position / movement** | Mobile — walks upright. It has left the holding twice, both times to a records store, and has never pursued a worker. The Redacted file carries the series rather than a single reading. |
 | **Material / signature** | Void. Dark crystal, bloodless-cold, ash. The branches do not photograph; the count must be drawn on the spot. |
 | **Distinctive markers** | The marked line on the trunk, the tape reading against it, and branches that hold nothing. |
 | **Identification** | If you find yourself able to say what is missing, stop and report it. Certainty is the symptom here, not the finding. |
@@ -369,7 +369,7 @@ Some sorrows mourn the forgotten. This one is about the protection of a secret o
 - A destruction was authorised and signed, and whether it covered a person's history cannot be established from any surviving document.
 **Cross-References:** Zone E, Border region · Vestige · The Forgotten Name · The Memory Lock
 **Faction Involvement:** SED (E-territory exploration)
-**Originator:** A citizen erased from records and memory.
+**Originator:** Not established — and not establishable from any surviving document. The destruction entry at the root of this file records an authority, a date and a countersignature, and no subject; whether the material destroyed concerned a person's history at all cannot now be shown, and this field is left as that finding rather than supplied with a citizen the record never named.
 
 ### Registry Addendum
 

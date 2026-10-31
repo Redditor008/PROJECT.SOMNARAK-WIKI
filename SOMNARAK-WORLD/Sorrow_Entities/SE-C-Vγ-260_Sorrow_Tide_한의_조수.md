@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slack Tide* [**Debuff**] } | "The sorrow pulls back — gathering, building — and you can feel the weight of what is coming." | [The Tide draws back; the target senses the building pressure.] | *Target suffers -10 Resolve; the calm before is worse than the wave.* **[10 Weight DMG [Weight]]** | When the Tide begins to pull. |
-| { *The Rising* [**Debuff**] } | "The sorrow swells — dark, heavy, inevitable — and the horizon of it is endless." | [The Tide's mass builds; the target sees the wave forming.] | *Target loses 10 Resolve; the wave is enormous.* **[10 Weight DMG [Weight]]** | When the Tide approaches. |
-| { *The Break* [**Attack**] } | "The wave breaks — a wall of sorrow-weight crashing down." | [The Tide crests and strikes.] | *Inflicts Weight pressure and one crushing, tidal wound.* **[14-22 Weight DMG [Weight]]** | When the Tide is provoked. |
+| { *The Slack Tide* [**Debuff**] } | "It is the only hour this holding has that resembles stillness." | [Slack is not a gathering threat; it is when the pieces were cut, when the ebb crew receives the flood crew, and when the gauge readings are taken an hour after dawn.] | *-10 Resolve in anybody who mistakes the quiet for safety and stays out through the next onset; the onset has arrived within eleven minutes of sunset for sixty years.* **[10 Weight DMG [Weight]]** | At slack, in the hour before dawn. |
+| { *The Rising* [**Debuff**] } | "The sun goes down and the city gets heavier — in the legs and the chest first." | [No wave is seen. Standing becomes work, every station reports within the same eleven minutes, and the shelter doors are the response.] | *-10 Resolve; the almanac predicts the timing to within forty minutes and has never predicted the height.* **[10 Weight DMG [Weight]]** | Nightfall, citywide, every night. |
+| { *The Break* [**Attack**] } | "Nothing crests and nothing strikes. The failure here is being alone outdoors after the peak." | [Every serious injury in sixty years has that in common and nothing else; the shelters exist for exactly that, free, unregistered, and deliberately unstaffed by anybody in uniform.] | *Weight pressure lands on the person who is outdoors and alone; with other people, indoors, the Tide has never seriously harmed anybody.* **[14-22 Weight DMG [Weight]]** | After the peak, on a street, alone. |
 | { *The Spring Tide* [**Attack**] } | "Everything that grieves in the city rises on the same minute." | [The Tide peaks across all zones simultaneously instead of rolling district by district.] | *Heavy Weight to everybody outdoors; the gauge at all nine stations reads within two points of the others, which it otherwise never does.* **[Weight DMG [Weight]]** | On the nights the almanac marks in red — nineteen a year, predicted correctly 188 times out of 203. |
 | { *The Flood* [**Ultimate**] } | "It does not recede at dawn." | [The Tide fails to fall and the day begins under the night's weight.] | *Weight erosion across the city for as long as it lasts.* **[Weight DMG [Weight] (AoE)]** | Four times in sixty years. The longest ran nine hours past dawn, the shelters stayed open, and the city's own phrase for that morning is still in use. |
 
@@ -121,7 +121,7 @@
 | **Distinctive markers** | It is the only holding that can be predicted a year in advance. The almanac is printed in the ninth month, distributed free in every district, and has been accurate to within forty minutes on 188 of the last 203 red nights. |
 | **Identification** | There is nothing to identify. If it is after sunset and the weight is rising in every zone at once, it is the Tide, and the only question worth asking is where the nearest shelter is. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** There is nothing to look at, at any hour, and the entry says so. Record the gauge at all nine stations hourly from an hour before sunset to an hour after dawn, the peak time and height against the almanac's prediction, the shelter attendance by district, and the hour of slack. Nothing is visible at any point and no instrument other than the gauge registers anything at all; appearance on this file is a weight first felt in the legs and the chest, reported within eleven minutes of sunset at every station.
 
 ## Origin
 - **Formation:** The Tide is the natural rhythm of a city built on sorrow.
@@ -278,7 +278,7 @@ All three pieces were cut at slack and all three keep the Tide's habit of gettin
 Sorrow Tide is the city's nightly rise: a weight that arrives within eleven minutes of sunset in every zone at once, peaks, and goes off the streets between one and the next at dawn. It is not contained and cannot be. The city answers it with a printed almanac, free shelters, and a protocol in which people say their dead aloud.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-It affects every known Sorrow Entity.
+Red night, called to within the half hour. It affects every known Sorrow Entity: the Colossus was walking by the third reading, the Bell matched the peak closely enough that two stations logged it instead of waiting for the ninth, and the River was up a fifth at all three points. Shelters full in six districts, protocols run in five. Slack came one street at a time.
 
 **Entry 3 — <Excerpt from Counseling Log>**
 The city's collective grief suppressed by daylight and released through night.
@@ -306,9 +306,9 @@ The air thickens after sunset. A wave moves through the streets without water, p
 
 **At first contact:** The sun goes down and the city gets heavier. It is felt before it is measured, in the legs and the chest, and across sixty years the first report has arrived within eleven minutes of sunset at every station in every zone.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Place-Weight lets you breathe.
+**With continued exposure:** The night crews pair up without being told, speak to each other by name more often than day crews do, and carry one more lamp than they need. The flood anonymizes; names are the rope back.
 
-**When the entity activates:** The shift happens between one breath and the next. The Place-Weight crosses from presence to action, and the Weight goes from weather to weapon.
+**When the entity activates:** It does not cross from weather to weapon; it is weather, on a schedule printed a year ahead. What changes is the city: shelter doors open, the protocols are run, and on the four worst nights in sixty years it simply failed to fall.
 
 **After departure:** Dawn, and the weight goes off you between one street and the next. Night staff describe the hour after slack as the best hour of the day and the almanac office has it marked, unofficially, as the one time the city is cheerful.
 

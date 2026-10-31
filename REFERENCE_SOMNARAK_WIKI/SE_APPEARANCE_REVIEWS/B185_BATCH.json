@@ -1,0 +1,694 @@
+{
+  "schema_version": 1,
+  "batch": 185,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "units": [
+    {
+      "designation": "C-Iα-011",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md",
+      "words": 7401,
+      "sha256": "7caaedb3100b7885bdfd2b69145a10e433718366ea1f6db0c90104ea745e26b6",
+      "unit": 1,
+      "name": "Whispering Walls",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md",
+      "before_words": 7401,
+      "after_words": 7395,
+      "base": "c644a39d5e5f72de2f8f7646502e08cfae028cc0",
+      "final_sha256": "5388abde22ae06194f50e5604cfb1a11092afeafc896085f5fa7bf1476261d64",
+      "summary": "HELD with exactly one mechanical repair. Batch 115 unit 3 already performed the full-SE review of this dossier and deliberately wrote its three distinct equipment costs into the Use Notes and field record; reading the exact SE-011-A–D sets now confirmed those assignments rather than overturning them (Shroud 'minor joys feel distant' ↔ primary's loss of small pleasures; Stone +1-on-the-source and background whispers ↔ item D and Master Entry 318; slot Tail and resistances match). The one demonstrable defect found in the whole final read is a duplicated clause-stutter in the Fabric Record ('...and it holds that a containment function It holds that a containment function the facility costed...'), removed without touching any digit. The chalice/blade identity, weapon costs, range strata and nine unusable utterances stay HELD exactly as Batches 88/115 left them. +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The district talks to its walls because it always has; the facility put it in the tenancy agreement. Between the nuisance with no defendant, the truth about a fire that no procedure can receive, and a containment duty transferred entire to unpaid residents, this is the register's quietest indictment of itself — and the sentence making it now at least stutters only once.",
+      "reasoning": "R-33 chain: Object/Place I-Relic / Residue-I / Minor-α / City Sorrow → three generations of survival whispering because volume drew the Han → the plaster, being the only listener always in the room, keeps the speech and replays it in the dark over some 1,100 metres of connected wall → work is Viderehan/Ferrehan at a painted boundary: walk it, log the overlap and the dwellings, acknowledge aloud, never scrape the plaster → no breach counter; failure is reach — the field crossing into a wall with somebody living behind it → equipment turns that listening outward (Truth Note, Clear Channel, Hear the Seam) at per-piece human cost. Nothing in that chain supports rewriting B115's recorded cost assignments; the only break is the duplicated clause, which the one repair closes.",
+      "history": "Batch 88 unit 2 (d7a0967c) dispositioned the exact Weapon pair SE-011-B (39/287) and aligned Side A to The Occlusion Star-Chalice, explicitly holding Master Entry 316's Listening Requiem / blade terminology. Batch 115 unit 3 (2026-10-14) then performed the full-SE review: it rewrote the Use Notes / stat guide to distinguish the three costs, tracked the Stone's seven-day follow-up without inventing a stop threshold, and kept the chalice and Instant-vs-Range-2 holds; the B115 close counts this as one of its 3 full-SE dispositions, with the Weapon pair 'counted earlier'. Both sit inside the independent run's legacy baseline, so Batch 185 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Weapon identity stays forked exactly as Batch 88 held it: primary/Registry/archetype The Occlusion Star-Chalice — a carved obsidian chalice hovering over the palm, pulling projectiles into liquid shadow and discharging gravity (Revision 3abe5470 replaced the item's former blade Appearance with this body) — against item B's Type 'short singing blade', its 'blade hums/emits' Truth Note prose, the SE-011-B filename, and Master table row 316 / Entry 316 The Listening Requiem, Resonant Blade. No source records a transition between blade and chalice; Archetype MAW-W-011 gives Range Instant against primary/item Range 2 / Short, also held.",
+        "The weapon's human cost forks: primary unaccounted grief wept without knowing whose it is, reversing on return (Batch 115's recorded assignment), against item B's Wielder Cost — after a Truth Note the bearer hears one of their own unspoken sentences in the nearest quiet surface. Batch 115 wrote the primary line knowing the item; this run does not reverse a recorded review decision on re-read.",
+        "Suit mechanics fork: primary 'works by making the wearer less able to hear' and 'deadens hearing where it crosses the ears', against item C's Clear Channel — it isolates one voice and the rest return as a delayed chorus after removal. The costs agree (minor joys distant / small pleasures lost) but the mechanism and its limit do not; retained as held.",
+        "The Stone's permanence forks softly: primary bears an unquieten-able background even as it records the sentence-told-or-recorded ending from item D, and Master Entry 318 sides with the permanent background that cannot be fully silenced. Both endings stay in the record; and the nine utterances contradicting the official history remain sounds in a wall — preserved, unusable, unreconciled."
+      ],
+      "split": [
+        1,
+        0
+      ],
+      "repairs": [
+        {
+          "id": "officer_clause_stutter",
+          "careful": false,
+          "old": "The district's ward officer has brought it to every annual review since, and it holds that a containment function It holds that a containment function the facility costed, considered and declined to perform was transferred in its entirety to unpaid residents",
+          "new": "The district's ward officer has brought it to every annual review since, and it holds that a containment function the facility costed, considered and declined to perform was transferred in its entirety to unpaid residents",
+          "kind": "short"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.023  clean   486 grams  Combat Record\n 0.019  clean   690 grams  M.A.W. Equipment\n 0.016  clean   122 grams  Operational Parameters\n 0.013  clean   234 grams  기록 (Registrum)\n 0.008  clean   240 grams  관찰 기록 (Observation Log)\n 0.007  clean   152 grams  Behavior\n 0.004  clean   247 grams  Appearance\n 0.004  clean   540 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1049 grams  Fabric Record\n 0.000  clean   418 grams  이야기 (Narratio)\n 0.000  clean   255 grams  Expansion Behavior\n 0.000  clean   187 grams  Trivia\n 0.000  clean   162 grams  최종 관찰 (Final Observation)\n 0.000  clean   154 grams  이야기 보고 (Story Log)\n 0.000  clean   139 grams  Origin\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   84   4  | { *The Spoken Aloud* [**Attack**] } | \"The walls say the one thing you never wanted anyone to hear — clearly, at volume.\" | [A c\n   85   7  | { *Every Wall Speaks* [**Ultimate**] } | \"Now every surface in the building is whispering — and none of them are kind.\" | [The o\n  125   1  | **Identification** | Confirm before Work or contact: designation C-Iα-011 `[LP]`, Lament expression, Place-Lament manifestation,\n  155   1  Whispering Walls is a Residue (I) Object/Place with Place-Lament manifestation and Lament expression, ambient across Old Lament in\n  206   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the site's signature: the stru\n  214   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that lies cold on the skin and deadens the wearer\n  226   1  **Cost:** The wearer goes numb to small pleasures — a warm room, a familiar voice, the first decent weather of the year — and the \n  232   2  **Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that runs hot in the palm when the wearer is stand\n  282   2  **Observation method:** Walk the boundary at night, in pairs, out of earshot of occupied rooms, with the marked line and the dwell\n  329   2  **Interaction method:** Baseline each party alone across several rotations before any pairing, with boundary, overlap density and \n  384   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)\nGENERIC 0.007  (35 shared shingles)  SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-A__SIDE_CODEX_The_Whispering_Walls.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Listening_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-C__MAW-S_The_Listening_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-D__MAW-G_The_Listening_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-A__SIDE_CODEX_The_Whispering_Walls.md": "a4d26f8dacc366087c1ed50fc4c00709f08bdd4bdc208fb3637e7be5b0e5dda6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Listening_Requiem.md": "75d12d51fb74d1db2281fb9484cc283b768ae9f79907542dcb73a07ea6aabb9b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-C__MAW-S_The_Listening_Shroud.md": "b9d22b05574139663118e2a7872d2a2b772f1561e653cc880d17b0b5c5f907a1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-D__MAW-G_The_Listening_Stone.md": "cbe1dec0b2915226079db3c1b2b59d7e3d546bc3c1bbb07a9cb98a4a226da79e",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-011_Whispering_Walls_속삭이는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-011_Whispering_Walls_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EB%B2%BD.md \"SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md\")]",
+      "table_link": "[Whispering Walls](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-011_Whispering_Walls_%EC%86%8D%EC%82%AD%EC%9D%B4%EB%8A%94_%EB%B2%BD.md \"SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md\")",
+      "reading": {
+        "before_lines": 463,
+        "before_bytes": 45526,
+        "final_lines": 463,
+        "final_bytes": 45489
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 99,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    },
+    {
+      "designation": "C-IVδ-165",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-165_Candela_녹아내리는_성자.md",
+      "words": 7422,
+      "sha256": "dafce17b12239f76b96c5d241c507bd04b520afad14e6298ac190d1a321601d0",
+      "unit": 2,
+      "name": "Candela",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_02_CANDELA.md",
+      "before_words": 7422,
+      "after_words": 7609,
+      "base": "c52237089b5ea2369d232834ed401e88f37b3140",
+      "final_sha256": "abeb18789dee0baff625bc42a762d1f10467a05b0806a127fa9abf2953964256",
+      "summary": "Six supported repairs (5 short / 1 careful) keep Batch 116's review exactly where it put the design and clear the harvest residue it left behind: combat's first three rows stop the figure splashing corrosive faith and swinging a molten hand — they now run on indirect timed viewing, the sealed-pool custody interval, and a reach that is never permitted contact, with Drain +5 on the planning rather than any blow; the generic 'teacher, mirror' origin paragraph becomes the file's own screening/disqualification account; the stray 'never left its alcove, accurate' threat line becomes the register's graded position; and the three stock Flavor blocks become tallow in a cold room, the height mark and the melt-rate rule. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "A wing that by standing order lets people walk into danger unwarned, because arithmetic says the saint is wrong more often than right and acting shortens her. Entry 3's worker — sick for a fortnight for obedience, insisting it was not restraint — is the truest account in the register of what containing a mercy costs.",
+      "reasoning": "R-33 chain: Subject / Entity-IV / Critical-δ / City Sorrow → a healer's compassion outran the present and dissolved the now/not-yet boundary → a wax-and-tear figure that melts without heat, shortens measurably per session, pools predictive sorrow, and resets its face to future grief → work is register discipline: every vision entered in writing, in her sight, as one possibility among several; nobody warned, nothing arranged → breach is a walk: she goes to the person she has been grieving for and reaches, while Drain rises on attempts to prevent → equipment carries unusable foreknowledge at per-piece human cost. The replaced rows no longer have the figure striking, splashing or pooling faith, which the chain never let her do; body, range and activation-rule forks stay HELD.",
+      "history": "Batch 116 unit 1 (75d581a) performed the full-SE review — it recorded the δ/Critical overview grade Side A, all three items and Master entries 247–249 agree on, confirmed the primary's worded full/70/50 falloff matches the items' 100%/70%/50% (parser warning, not a conflict), and left blade/Medium against candle-staff/Long and Tail/4% against Registry Accessory/5% unresolved, with exact pair SE-165-B/MAW-W-165-01 new then. Both credits therefore sit inside the baseline; Batch 185 earns +0 Types / +0 Weapon, HELD earns +0 SE.",
+      "holds": [
+        "Weapon body and range stay forked as Batch 116 left them: primary slender Han-crystal blade with a face in the flat (10–15 / Fast / Medium, Master Entry 247 'strike') against item B's split identity — resting 'blue blade whose surface seems soft like wax' but Appearance a tall candle-staff with an edge-fin — and archetype MAW-W-165 Candle-Staff at Long. Registry disposes no statistics ('Variable / - / -'). No source records a transition; none invented.",
+        "The activation discipline differs: items run on a present-care witness and state that the piece activates only when the bearer says the perceived future is possible, not certain — with rejection rules (the Shroud's folds harden and lose resistance when worn to avoid present joy; the Requiem melts cold when drawn to control). The primary pays its costs by endurance instead: weeping for the living, pleasures numbed, halo-bearers most often relieved from duty. Both doctrines stand unreconciled.",
+        "Numbers fork quietly: Side A pressure Lament 29–62 against primary 22–48; primary Halo Tail/4% matches item D's acquisition 4% and slot but not the Registry's Accessory/5%; Side A 'Level 3 — Understood' is primary/Comprehension '3 — Advanced'. Entity Codex names it The Melting Saint (as Tale 83 does) where the primary titles it Candela, and the Record's 'Flerehan is the only valid Work Type' line contradicts the file's four-type Behavior table — preserved as an old stratum rather than edited, because which working rule the chamber actually runs is a management fact no cited source settles."
+      ],
+      "split": [
+        5,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "combat_first_rows",
+          "careful": true,
+          "old": "| { *The Weeping Stone* [**Debuff**] } | \"The saint's face runs — stone becoming liquid, detail becoming blur — and the melting is grief made visible.\" | [The Saint's dissolution releases sorrow; the target absorbs the runoff.] | *Target suffers -10 Composure; the holy figure's grief is contagious.* **[10 Lament DMG [Lament]]** | When the target approaches the Saint. |\n| { *The Pooling Halo* [**Debuff**] } | \"The halo melts — pooling at the saint's feet — and the liquid faith burns where it touches.\" | [The Saint's dissolved divinity spreads; the target is splashed.] | *Target loses 10 Composure; the liquid faith is corrosive to certainty.* **[10 Lament DMG [Lament]]** | When the target steps in the pool. |\n| { *The Melting Hand* [**Attack**] } | \"A stone hand, half-liquid, swings — heavy, formless, grieving.\" | [A dissolving limb strikes the target.] | *Inflicts Lament pressure and one wound of molten devotion.* **[14-22 Lament DMG [Lament]]** | When the Saint is touched. |",
+          "new": "| { *The Weeping Stone* [**Debuff**] } | \"The saint's face runs — detail becoming blur — and the melting is grief made visible.\" | [The face runs and resets on a grief that is not in the room; whoever is watching it directly takes the composure loss, which is why viewing is indirect and timed.] | *-10 Composure under waves of cold grief; no contact occurs.* **[10 Lament DMG [Lament]]** | When a worker watches the face or the flame directly past the timed limit. |\n| { *The Pooling Halo* [**Debuff**] } | \"The pools neither spread nor dry — each one is a grief that has not happened yet.\" | [The collection crew works its fixed circuit; the containers are logged, dated and stored unanalyzed for an interval longer than any grief the figure has been seen to anticipate.] | *Composure drains 10 in the vicinity; the material is not opened, and reading it early is what the custody rule exists to prevent.* **[10 Lament DMG [Lament]]** | When runoff is pooled, collected or stepped around during an active session. |\n| { *The Melting Hand* [**Attack**] } | \"It is not coming for you. It is coming toward you, and you must decline anyway.\" | [The figure walks toward a person it has been grieving for and reaches with open hands; it has never struck anybody, and contact is never permitted.] | *The reach itself lands as anticipatory grief: Drain rises by 5 for each attempt in the room to prevent what it has shown, and holds steady only while it is allowed to walk and reach.* **[14-22 Lament DMG [Lament]]** | When bandwidth is spent planning around a vision instead of entering it in the register. |",
+          "kind": "careful"
+        },
+        {
+          "id": "origin_context_boilerplate",
+          "careful": false,
+          "old": "- **Expanded origin context:** The entity's story has spread through the facility — not as official documentation, but as whispered legend. Personnel speak of it in hushed tones, sharing what they have felt, what they have seen, what they have understood. The entity has become more than a containment subject. It has become a teacher. A mirror. A reminder that behind every Sorrow Entity is a story — a story of loss, of grief, of the weight of being human in a city built on sorrow.",
+          "new": "- **Expanded origin context:** The origin is treated on this file as a warning about the staff: the screening looks for anticipatory grief in workers — a preoccupation with what the city will suffer, a tendency to mourn in advance — and on this holding the pattern is disqualifying, explained in full to the person it removes. The Keepers' mourning list is kept because a third of the people on it are still alive; that proportion, not any single vision, is the management condition in evidential form.",
+          "kind": "short"
+        },
+        {
+          "id": "stray_threat_line",
+          "careful": false,
+          "old": "**Threat rating:** Low. The melting is continuous and the figure has never left its alcove. The hazard is anticipatory mourning — personnel grieve a loss that has not happened, accurately, and the keening that follows fractures composure in anyone within earshot who has also seen their own face on it.",
+          "new": "**Threat rating:** Low by lethality, Critical by grade — the δ belongs to the anticipation, not to any act of the figure's, which has never struck anybody. The hazard is anticipatory mourning: personnel grieve a loss that has not happened — wrong more often than right, by the register's own count — and the keening that follows fractures composure in anyone within earshot who has also seen their own face on it.",
+          "kind": "short"
+        },
+        {
+          "id": "flavor_first_contact",
+          "careful": false,
+          "old": "**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Lament always changes a room. Then the Subject-Lament resolves: A saint-like figure made of melting wax and crystallized tears. Its face changes according to future grief it has perceived.",
+          "new": "**At first contact:** The first sign is not visual: the smell of tallow arrives in a room that is not warm, and only then the figure itself — saint-shaped, wax and crystallised tears, its face mid-reset on a grief that is not in the room. Viewing is indirect and timed; the face is read as a measurement, never looked at for its own sake.",
+          "kind": "short"
+        },
+        {
+          "id": "flavor_continued",
+          "careful": false,
+          "old": "**With continued exposure:** With time, the entity becomes less abstract and more specific. The Lament is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.",
+          "new": "**With continued exposure:** The exposure resolves into particulars: the height mark at entry against the height mark at exit, the pools' positions on the floor, and the face — whose grief it resembles says everything and is recorded without interpretation. Personnel who find a session uneventful have usually understood the entity correctly.",
+          "kind": "short"
+        },
+        {
+          "id": "flavor_activates",
+          "careful": false,
+          "old": "**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Lament becomes something you can taste, hear, or feel on your skin. The Subject-Lament has crossed the line between containing and becoming.",
+          "new": "**When the entity activates:** Nothing about the room changes; what changes is the melt rate. It rises whenever somebody present begins planning around what they were shown — the entity reads the planning, not the outcome — and slows within minutes of the vision being written in the register, where the figure can see it being written, as one possibility among several.",
+          "kind": "short"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-165_Candela_녹아내리는_성자.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.021  clean   618 grams  M.A.W. Equipment\n 0.015  clean   200 grams  기록 (Registrum)\n 0.013  clean   151 grams  Operational Parameters\n 0.012  clean   723 grams  감각 묘사 (Flavor Text)\n 0.012  clean   745 grams  Combat Record\n 0.010  clean   406 grams  관찰 기록 (Observation Log)\n 0.007  clean   149 grams  최종 관찰 (Final Observation)\n 0.005  clean   185 grams  Behavior\n 0.005  clean   188 grams  Trivia\n 0.005  clean   441 grams  이야기 보고 (Story Log)\n 0.003  clean   290 grams  Appearance\n 0.000  clean   674 grams  Apex Record\n 0.000  clean   428 grams  이야기 (Narratio)\n 0.000  clean   158 grams  Origin\n 0.000  clean   108 grams  Breach Behavior\n 0.000  clean    50 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n 0.000  THIN      4 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   4  | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the anticipation, which\n   85   3  | { *The Sea of Faith* [**Ultimate**] } | \"Every saint in the district pools at once — and the floor holds a grief for every loss \n   91   2  3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **do not treat every vision as inevi\n  122   1  | **Identification** | Check the designation before approach: more than one Zone B record shows the future, and they differ on wha\n  146   1  The table is read against the register rather than against the gauge, because on this holding the register is the containment appa\n  176   1  **Appearance:** a slender blade of Lament Han-crystal that hums a note a little under hearing when drawn, and shows a face briefly\n  185   1  **Target Coverage:** A line of up to three — the requiem carries forward through a group the way an anticipated grief passes down \n  207   5  **Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies; it has never struck anybody. The sh\n  209   1  **Cost:** The wearer goes numb to small pleasures, and reports it first as an inability to enjoy anything that is going to end — w\n  235   3  | **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: what the wielder currently exp\n  236   1  | **During use** | The first sign is involuntary weeping for somebody who is in the room and in good health, followed by that some\n  238   1  | **After use** | Return the piece and re-read the sealed baseline with a colleague: does the wielder still expect what they expec\n  260   1  | **Post-contact review** | The height at entry and exit, every vision shown and whose grief it resembled, the register numbers, a\n  262   3  **Observation method:** Record the first sign, which is the smell of tallow in a cold room; the first sensation, which is grief fo\n  268   2  Candela (C-IVδ-165 [LS]) is carried on the wing's register as a Subject-Lament manifestation expressing Lament. The Saint formed f\n  288   1  | Hold the condition as written: every vision entered in the register as one possibility among several, in writing, where the figu\n  309   7  The three filed relations are other Zone B records that concern knowing rather than doing, and each is read against a single quest\n  318   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  373   3  **Review requirement:** Re-verify after any Sorrow Tide, after any incident matching a registered prediction, and after any sessio\n  409   1  - **Classification detail:** Subject with Entity (IV) coherence and Critical (δ) potency, `C-IVδ-165 [LS]`; the grade belongs to t\nGENERIC 0.009  (46 shared shingles)  SE-C-IVδ-165_Candela_녹아내리는_성자.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/165_Candela/SE-165-A__SIDE_CODEX_Candela.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/165_Candela/SE-165-B__MAW-W_The_Melted_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/165_Candela/SE-165-C__MAW-S_The_Melted_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/165_Candela/SE-165-D__MAW-G_The_Melted_Halo.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/165_Candela/SE-165-A__SIDE_CODEX_Candela.md": "5aef9eb8f6c30028ad41a16560e6a87ba48f33a0c4896ca856f885fcd13ad8fb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/165_Candela/SE-165-B__MAW-W_The_Melted_Requiem.md": "9ee925d058cf392bf0718918c77be472756c29deaffe5ea6bf854f7c47a22354",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/165_Candela/SE-165-C__MAW-S_The_Melted_Shroud.md": "d10e32fe2f6e365a2a8d56cd7c846661444ca64c6b7b2014592fa5f000a4f70e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/165_Candela/SE-165-D__MAW-G_The_Melted_Halo.md": "c3fb46709e7b6147104c67f6743fdb7da31121337a753e00e071d7f0699eeba1",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-165_Candela_녹아내리는_성자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-165_Candela_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%AC%EB%8A%94_%EC%84%B1%EC%9E%90.md \"SE-C-IVδ-165_Candela_녹아내리는_성자.md\")]",
+      "table_link": "[Candela](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-165_Candela_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%AC%EB%8A%94_%EC%84%B1%EC%9E%90.md \"SE-C-IVδ-165_Candela_녹아내리는_성자.md\")",
+      "reading": {
+        "before_lines": 419,
+        "before_bytes": 44733,
+        "final_lines": 419,
+        "final_bytes": 45679
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 98,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
+    },
+    {
+      "designation": "C-Iα-330",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md",
+      "words": 7433,
+      "sha256": "876158c5e3b1bc0bec398f600dbec5559a5154b7462267bf77680fb2d12deafd",
+      "unit": 3,
+      "name": "Mourner's Bloom",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_03_MOURNERS_BLOOM.md",
+      "before_words": 7433,
+      "after_words": 7643,
+      "base": "50e0f20f0bfc6d57d6cc6a0c90287f65bbf1cbbc",
+      "final_sha256": "91b9ec1718c01f2bad425bb053eea81a3e1fcc7ec711d5c0cba1e1e27b4747a4",
+      "summary": "Six supported repairs (5 short / 1 careful) leave the 2026-10-12 full-set review and its holds untouched and clear the template text around them: combat's first four rows stop scent-overwhelming, pollen-striking and picking the bloom — they now run on the register, the vault's date-shed catalogue, the two-metre moment-taking and a count that stops at the gardener's first petal; the corridor fail-safe consequence, the generic 'visible color, texture' field, the meta activation paragraph and two stock Flavor blocks give way to the file's own figures (forty-one held, the seventy-two-hour rotation, the claimant who cannot find the gap). Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The most quietly unbearable vault in the register: sixty-three moments taken without asking, catalogued by date for two centuries on the kind theory that nobody should have to know — and the claimant, told at last, signing anyway. 'I cannot find it, and I still want it back, and both of those are true at once' is this dossier's whole argument.",
+      "reasoning": "R-33 chain: Object-Lament / Residue-I / Minor-α / City Sorrow → one honest moment of mourning made visible where the Veil does not reach → a mobile stalk-body flower that opens only where a loss is recorded, crystallising moments (not memories) into petals → work is Viderehan/Ferrehan at the bed's edge: count twice, attempt attribution on every vault petal within the year, remember the first petal never dissolves → failure is not breakout but custody: stakes framed as scents, pollens and picked blooms misstate a holding whose only disposal is a told and claiming owner → equipment extends that taking to the field at per-piece cost. Repairs align the combat and flavor text to the count; the identity forks from the earlier review stay HELD.",
+      "history": "The primary carries its own 2026-10-12 full-set review record: overview, every local Weapon/Suit/Stigma claim, notes and references checked against exact SE-1032-A–D, Master Registry rows 290–293, Master rows/details 343–345, Entity Codex row 481, Tale 115 and archetypes MAW-W-330 and MAW-W-1032, with the disputed Weapon identity/profile left as a hold and only the supported overview '— · α' changed. That completed review puts both the full-SE disposition and the exact pair inside this run's baseline, so Batch 185 earns +0 Types / +0 Weapon; HELD earns +0 SE. Same-suffix SE-330 (Sitting Boundary, C-IIβ-330) is a distinct set and was excluded.",
+      "holds": [
+        "Weapon identity and profile stay as the 2026-10-12 review left them: local/Master-table The Lamentation Dirk — Tradition wire-grip dirk, 3–6 / Normal / Short, archetype MAW-W-330 Short Blade at Long — against Side/item B and Master Entry 343 The Sorrow Requiem (which matches the numerics exactly), plus linked-code archetype MAW-W-1032's Resonant Shockwave Mortar at Room. The title The Sorrow Requiem is also carried by Sorrow Fountain's Side record, dispositioned separately; no crosswalk exists among dirk, requiem and mortar.",
+        "Entity framing forks at the front sheet and remains a stratum: SECC says Subject — Can breach with a mobile creature Movement line, while the operational entry says Object/Place with no breach counter and the stat line stays 'N/A — fixed object', yet a full Escape breach protocol exists (walks to the nearest grieving person). Record carries Entity-IV / Major-γ / Level-2 / 'Flerehan is the only valid Work Type' against the front sheet's I/α/Level-1 and the confirmed Viderehan/Ferrehan table. The prior review treated the Object/Place two-type handling as settled evidence; the Subject framing was not normalized then and is not now.",
+        "The items add a binding discipline the primary does not: bearers must name the formation event and accept the management condition, continued use makes the source sorrow feel autobiographical, and the terminal item state has the manifestation use the bearer as its new site. The primary instead pays as weeping that cannot name its own beginning, numbness that finds funerals easy, and grief that cannot be hidden. Tale 115 / Master / Entity Codex use the alias The Sorrow Flower for the entity; 'the Company' voice and the date-shed catalogue stand as written."
+      ],
+      "split": [
+        5,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "combat_first_four",
+          "kind": "careful",
+          "careful": true,
+          "old": "| { *The Opening Bud* [**Debuff**] } | \"The flower opens — and the scent is every grief you have ever put aside, blooming at once.\" | [The Flower blooms; its sorrow-scent overwhelms the target.] | *Target suffers -10 Composure; old grief resurfaces in the fragrance.* **[10 Lament DMG [Lament]]** | When the target smells the Flower. |\n| { *The Wilting Petal* [**Debuff**] } | \"A petal falls — and where it lands, the sorrow saturates the ground.\" | [The Flower sheds petals; each one carries concentrated grief.] | *Target loses 10 Composure; the ground is becoming sorrow-soaked.* **[10 Lament DMG [Lament]]** | When the target lingers near the Flower. |\n| { *The Pollen Strike* [**Attack**] } | \"The flower releases its pollen — and each grain is a tiny, sharp grief.\" | [A cloud of sorrow-pollen assaults the target.] | *Inflicts Lament pressure and many small, stinging wounds.* **[14-22 Lament DMG [Lament]]** | When the Flower is shaken. |\n| { *The Full Bloom* [**Attack**] } | \"The flower opens as wide as it can — and the sorrow it holds is vaster than its petals.\" | [The Flower releases its complete accumulated grief.] | *A heavy Deep Blue burst; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Flower is picked. |",
+          "new": "| { *The Opening Bud* [**Debuff**] } | \"The flower opens — and every grief you have put aside finds you again, one petal at a time.\" | [The bloom opens only where a loss has been recorded, and the opening is read against the register rather than felt as pressure; a newly opened bud is logged and a count requested.] | *-10 Composure to whoever stands inside the petal-tilt while it opens; nothing is hurried and nothing is cut.* **[10 Lament DMG [Lament]]** | When grief is expressed near the bed while a bud is forming. |\n| { *The Wilting Petal* [**Debuff**] } | \"A petal falls — catalogue it by the date shed and by nothing else.\" | [The shed petal goes to the vault under the date-shed entry; it dissolves only when matched to the person it came from, who is told and claims it.] | *-10 Composure to the clerk who enters it and anyone grieving in reach; the petal itself is inert on the shelf.* **[10 Lament DMG [Lament]]** | When a petal is shed, filed, or re-catalogued by date alone. |\n| { *The Pollen Strike* [**Attack**] } | \"It does not take the memory. It takes the moment — a step missing on a familiar stair.\" | [Within two metres of an actively grieving person the bloom crystallises that moment of mourning into a petal; they leave intact, remembering everything, one moment lighter.] | *One moment taken per person reached; the gap registers as stinging Clarity loss whose occasion cannot afterwards be found.* **[14-22 Lament DMG [Lament]]** | When somebody actively grieving comes within its two-metre reach, or the bloom is shaken into shedding early. |\n| { *The Full Bloom* [**Attack**] } | \"The flower opens as wide as it can — and what it is holding is forty-one other people's worst days.\" | [Full bloom is counted, not picked — nothing on this holding is cut; the count is called back to the gate and the attribution register is opened the same day.] | *The whole vault's weight arrives at once: a heavy Deep Blue surge of 15% on whoever is standing at the bed's edge counting.* **[24-36 Lament DMG [Lament]]** | When the count reaches the gardener's first petal, which never dissolves and is noted and excluded. |"
+        },
+        {
+          "id": "consequence_corridor_boilerplate",
+          "kind": "short",
+          "careful": false,
+          "old": "- An encounter that closes without resolution is not merely unfinished: the Gauge finds its ceiling, the fail-safes along the bed edge give way one after another, and the bloom carries its open petals into the corridor beyond the Gardens.",
+          "new": "- An encounter that closes without resolution is not merely unfinished: the count stands uncleared, the vault keeps what it cannot dispose of, and the bloom — if it leaves the bed at all — walks out at a metre every four seconds, around obstacles, toward the nearest grieving person, as it has always done."
+        },
+        {
+          "id": "material_field",
+          "kind": "short",
+          "careful": false,
+          "old": "| **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |",
+          "new": "| **Material / signature** | Lament, salt-damp smelling of cold rain: stalk-body on coiling root-legs, dark blue petals warm at the centre to the hand, and each petal a crystallised moment of someone's mourning — record the count on the stalk, which is the reading. |"
+        },
+        {
+          "id": "activation_progression_meta",
+          "kind": "short",
+          "careful": false,
+          "old": "| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Grief expressed near the flower. Effect: Crystallizes one moment of mourning into a petal. Duration: Until the grief is acknowledged and released. Risk: the moment is taken without consent and returns only to its owner. The relic answers only to a held channel. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |",
+          "new": "| **Activation or escalation** | Grief expressed near the flower crystallises one moment of mourning into a petal, until the grief is acknowledged and released. The team counts the petals, moves anybody actively grieving out of its path rather than moving the bloom, notes who was reached and what they report missing, and opens an attribution file the same day; suppression is not part of this stage. |"
+        },
+        {
+          "id": "flavor_continued",
+          "kind": "short",
+          "careful": false,
+          "old": "**With continued exposure:** With time the Object-Lament becomes less a presence and more a climate — the Lament is no longer an event but an environment, something you exist inside rather than encounter.",
+          "new": "**With continued exposure:** With time the exposure becomes a register: vivid dreams of losses never mourned, a nostalgia nobody can source, the feeling — correctly, the file holds — of standing near forty-one moments that belong to other people. The dreams fade on waking. The feeling does not, and the seventy-two-hour rotation exists because of it."
+        },
+        {
+          "id": "flavor_activates_after",
+          "kind": "short",
+          "careful": false,
+          "old": "**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Grief expressed near the flower. Effect: Crystallizes one moment of mourning into a petal. Duration: Until the grief is acknowledged and released. Risk: the moment is taken without consent and returns only to its owner. The relic answers only to a held channel. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.\n\n**After departure:** The containment boundary holds the Object-Lament, but not the memory. Lament residue settles into the bones like Han into the city's foundations.",
+          "new": "**When the entity activates:** The activation is quiet: somebody near the bed grieves aloud, the petals tilt a little further, and a moment they will never miss until they are told about it is already set in crystal. Nothing signals except the count, which is why the count is taken twice.\n\n**After departure:** What follows a worker out is not residue but knowledge: the vault holds pieces of other people's worst days, catalogued by date, and one of the dates might be theirs. The claimant in the register could not find the gap in that Thursday either — and still wanted it back."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.025  clean   595 grams  관찰 기록 (Observation Log)\n 0.019  clean   576 grams  M.A.W. Equipment\n 0.015  clean   200 grams  Breach Behavior\n 0.014  clean   209 grams  Trivia\n 0.013  clean   160 grams  Operational Parameters\n 0.008  clean   850 grams  Combat Record\n 0.007  clean   276 grams  기록 (Registrum)\n 0.007  clean   276 grams  Appearance\n 0.002  clean   576 grams  감각 묘사 (Flavor Text)\n 0.000  clean   470 grams  이야기 보고 (Story Log)\n 0.000  clean   420 grams  Activation Behavior\n 0.000  clean   324 grams  이야기 (Narratio)\n 0.000  clean   177 grams  Behavior\n 0.000  clean   161 grams  Origin\n 0.000  clean   119 grams  최종 관찰 (Final Observation)\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    28 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 15% against Lament pressure; 5% against other pressure types |\n   85   6  | { *The Sorrow Meadow* [**Ultimate**] } | \"The whole field blooms — every flower a different grief, all of them open.\" | [The Flo\n  122   2  | **Identification** | Verify against the SECC code before work or contact begins; colour alone has produced three misidentificati\n  219   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each petal in the vault still catalogued by date alone. It falls 10% \n  244   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the bloom's signature in the \n  252   1  **Appearance:** a wrapping shroud of Lament Han-silk, undyed and faintly luminous, that settles cold against the skin and takes th\n  290   5  | **Before use** | Wielder, piece, the gauge at issue and a sealed baseline; the baseline's second question is put by a colleague \n  292   1  | **At limit** | The wearer goes numb to minor joys and finds funerals easy, without remission, and the file's test is not how the\n  298  15  **Full-set source review (2026-10-12):** Reviewed the overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record,\n  379   1  **Interaction procedure:** Establish individual baselines before any joint observation — on this holding the baseline is the vault\n  427   2  **Review requirement:** After any breach, Sorrow Tide, Ordeal or interaction event, confirm the gauge reading, the Fracture risk a\n  440   3  - **Record detail:** Check the designation before approach: the archive holds other records of grief kept outside its owner, and t\nGENERIC 0.009  (46 shared shingles)  SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-A__SIDE_CODEX_Mourner_s_Bloom.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-B__MAW-W_The_Sorrow_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-C__MAW-S_The_Sorrow_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-D__MAW-G_The_Sorrow_Petal.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-A__SIDE_CODEX_Mourner_s_Bloom.md": "79044936ce5716b2086f3b3736c39700b894e12129faa4b3eb6d1653941604d8",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-B__MAW-W_The_Sorrow_Requiem.md": "6527a243c670b4c5afd423b3cfb09fe487760ffea0872aaad2197a5eea247afc",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-C__MAW-S_The_Sorrow_Shroud.md": "7a53c0baffe6f220021e20b10c6f869c7b65aa86fd61f82488fa68a7886857f2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1032_Mourner_s_Bloom/SE-1032-D__MAW-G_The_Sorrow_Petal.md": "e80446cbd0c50ee63337811a04cd673fe1bd18421a0a58f2bf17a6a98570b4ab",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-330_Mourner's_Bloom_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%BD%83.md \"SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md\")]",
+      "table_link": "[Mourner's Bloom](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-330_Mourner's_Bloom_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%BD%83.md \"SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md\")",
+      "reading": {
+        "before_lines": 447,
+        "before_bytes": 44680,
+        "final_lines": 447,
+        "final_bytes": 45671
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 97,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    },
+    {
+      "designation": "N-IVδ-339",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-339_Breach_무너진_벽.md",
+      "words": 7449,
+      "sha256": "9bcb36170429ca40b7ab73fc4bcd923bce1c0dd804ef259244b6a9f6d07c8614",
+      "unit": 4,
+      "name": "Breach",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_04_BREACH.md",
+      "before_words": 7449,
+      "after_words": 7643,
+      "base": "9b4e557693e4b4c7191e5ed59e0cf42eed6845b3",
+      "final_sha256": "cd43e448dc0d96529b6e395af04667cd9f0370a8a7593711c2e9e6e73f529e85",
+      "summary": "Five supported repairs (4 short / 1 careful) take this bastion back to its only weapon — a sentence. Combat's first three rows no longer pile grieving rubble on anyone, transfer loads, or drop bricks: they run on the watching interval, barriers felt as decorative, and the assurance itself with Drain +5 per further promise; the old situation-line at the head of Breach Behavior ('expands, crushing corridors shut') and its echo in the Apex Record are now explicitly corrected in place, Transform is glossed as the sector's relation to its own barriers rather than a shape, and the stock sensory Flavor opening becomes the clock-not-the-search protocol. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "Sixty-one years of inspections, no defect deferred, and the wall is still down. The director's memo — 'we would rather send people in afraid and informed than confident on our word, because our word is what this entity is made of' — might be the most honest sentence in the whole wing.",
+      "reasoning": "R-33 chain: Subject / Entity-IV / Critical-δ / Inner Sorrow → a well-kept wall failed anyway because the danger was already inside the line → there is no wall, only the belief about one: an incorporeal lean in consciousness, watched-without-eyes, collapsing when resisted → work is a speech discipline (state the hazard, the likelihood, and what is not covered; widen cracks under Flerehan; never reassure) → breach is a line of reassured people, Drain +5 per assurance → equipment enforces honesty at per-piece cost (limit cards, one-impact plate, the moving crack). Rows that may no longer crush, drop or bury with masonry follow that chain; the polearm/blade and threshold forks stay HELD.",
+      "history": "The primary carries its own 2026-10-13 full-set source review: grade overview, complete M.A.W. set, notes and all claims against exact SE-339-A/B/C/D, Master Registry rows 619–622, Master rows/details 532–534, Entity Codex row 546, Tale 178 and archetype MAW-W-339 — filling '— · δ' and '+3 Clarity', keeping the Weapon identity/form HELD, and noting itself as the first source-led disposition for exact SE-339-B. Both credits are therefore inside the baseline: Batch 185 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Weapon identity stays forked as the 2026-10-13 review left it: primary / Master table 532 / archetype MAW-W-339 The Ruined Bastion-Pike — a ten-foot ash pike with swallowtail pennant 'broadcasting defiant resolve' — against exact Side/item B and Master detail 532 The Fallen Requiem, a crack-patterned blade that cuts cascading failure away from one realistic anchor. Numerics agree exactly (10–15 / 3 / 3 / Skewer / 100→70→50 / 2 / 50 Echoes), no transition is documented, and the pike's pennant grammar contradicts the file's ban on reassurance; left as found.",
+        "Thresholds and targets fork: front sheet Activation threshold 1 (one failure completes it) against Side A's 'at 90% Gauge boundaries collapse' and the stat line's ≥90%; combat 'Valid Work Types: all four' against the recorded rule that Pugnahan is entered as a failure, never an option; First Target ('whoever last assured somebody else that a thing was safe') preserved against disposition language. The brevity of Front-sheet '— · δ' and the generic Registry Stigma Accessory/5% (items: Tail/4%) stay as written.",
+        "The items' binding choreography has no primary counterpart: a named escape route and protection-limit card for the Barrier, the Requiem maintained aligned to an emergency route with its unprotectable remainder written down, and Charm care kept as four columns (stated limit, actual limit, failure path, remaining useful protection). The primary settles all of it as costs entered against the wielder; procedures do not merge without a bridging record, and none was written."
+      ],
+      "split": [
+        4,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "combat_first_three",
+          "kind": "careful",
+          "careful": true,
+          "old": "| { *The Rubble* [**Debuff**] } | \"Where the wall stood, rubble — and every stone carries the grief of being separated from the whole.\" | [The Wall's rubble presses on the target; each fragment mourns its lost structure.] | *Target suffers -10 Composure; the ruins are grieving.* **[10 Lament DMG [Lament]]** | When the target enters the rubble. |\n| { *The Load-Bearing Grief* [**Debuff**] } | \"You feel the weight the wall was holding — now that it is gone, the weight is on you.\" | [The collapsed Wall transfers its load to the target.] | *Target loses 10 Composure; they bear what the wall once bore.* **[10 Lament DMG [Lament]]** | When the target lingers in the gap. |\n| { *The Falling Brick* [**Attack**] } | \"A brick detaches from the rubble — slow, heavy, inevitable.\" | [A section of collapsed wall falls on the target.] | *Inflicts Lament pressure and one crushing, dusty wound.* **[14-22 Lament DMG [Lament]]** | When the rubble is disturbed. |",
+          "new": "| { *The Rubble* [**Debuff**] } | \"Where the wall stood, rubble — and it is all inside the line it was keeping safe.\" | [There is nothing to enter and no rubble to stand in; personnel report being watched with nothing present, and the watching interval is the clock the crew is allowed.] | *-10 Composure in waves of cold grief; the two-to-nine-minute interval starts, and any assurance issued during it is logged verbatim.* **[10 Lament DMG [Lament]]** | When the sensation of being watched begins with no gauge movement yet. |\n| { *The Load-Bearing Grief* [**Debuff**] } | \"You feel the weight the wall was holding — the wall is gone, and the weight has not gone anywhere.\" | [Doors, rails and procedures in the sector are experienced as decorative; the boundary was the confidence that something was holding.] | *-10 Composure while the feeling that anything is holding is absent, and through the weeks after, in rooms that are demonstrably secure.* **[10 Lament DMG [Lament]]** | When the watcher stays past the point where the interval expires. |\n| { *The Falling Brick* [**Attack**] } | \"I said the corridor was secure. Three of my people were on the floor within a minute.\" | [Nothing falls. Somebody says the thing is in hand, and the collapse completes itself along the line of people who were told it.] | *Lament pressure lands on the speaker and the reassured in order; Drain rises by 5 for each further assurance issued while it is loose.* **[14-22 Lament DMG [Lament]]** | When an assurance of safety is given — true, routine, or kindly meant. |"
+        },
+        {
+          "id": "breach_motto_quote",
+          "kind": "short",
+          "careful": false,
+          "old": "> *\"Breach has broken free. Expands, crushing corridors shut.\"*\n\n| Field | Detail |\n|---|---|\n| **Breach Type** | Transform |\n| **Movement** | Nothing moves and no corridor closes. It extends from mind to mind along the line of people who have been told that everything is in hand. |",
+          "new": "> *\"Nothing is to be shut behind anyone during a response in this wing, for any reason.\"* (Apex Record, Expansion; an older situation-line claimed it 'expanded, crushing corridors shut', which the file has corrected — this entity has no corridor in it and nothing to crush one with.)\n\n| Field | Detail |\n|---|---|\n| **Breach Type** | Transform |\n| **Movement** | Nothing moves and no corridor closes. It extends from mind to mind along the line of people who have been told that everything is in hand. |"
+        },
+        {
+          "id": "breach_type_gloss",
+          "kind": "short",
+          "careful": false,
+          "old": "- **Breach type:** Transform — the entity's form shifts, altering reality around it.",
+          "new": "- **Breach type:** Transform — not of the entity's shape, since it has none, but of the sector's relation to its own boundaries: doors, rails, procedures and briefings stop being experienced as holding, and the transformation runs mind to mind along the assurance line."
+        },
+        {
+          "id": "apex_expansion_wording",
+          "kind": "short",
+          "careful": false,
+          "old": "During a breach it spreads and crushes corridors closed, and the response is route abandonment rather than defence:",
+          "new": "During a breach it spreads along the assurance line — the old report's 'crushes corridors closed' records how that felt from inside, not what happened to the building — and the response is route abandonment rather than defence:"
+        },
+        {
+          "id": "flavor_first_contact",
+          "kind": "short",
+          "careful": false,
+          "old": "**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Mind resolve into something you can name. A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing boundary between one thought and the next.",
+          "new": "**At first contact:** Contact begins with attention, not sight: the sensation of being watched with nothing present, salt-damp and cold rain where no weather is, and a lean setting up between one thought and the next. Start the clock, not the search — the interval before any gauge movement is the withdrawal window, two to nine minutes, and nobody issues an assurance while it runs."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-339_Breach_무너진_벽.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.037  clean   698 grams  M.A.W. Equipment\n 0.022  clean   226 grams  Trivia\n 0.022  clean    93 grams  최종 관찰 (Final Observation)\n 0.015  clean   135 grams  Operational Parameters\n 0.015  clean   687 grams  Combat Record\n 0.014  clean   217 grams  Breach Behavior\n 0.008  clean   630 grams  감각 묘사 (Flavor Text)\n 0.000  clean   700 grams  Apex Record\n 0.000  clean   457 grams  이야기 보고 (Story Log)\n 0.000  clean   356 grams  이야기 (Narratio)\n 0.000  clean   347 grams  기록 (Registrum)\n 0.000  clean   307 grams  관찰 기록 (Observation Log)\n 0.000  clean   248 grams  Appearance\n 0.000  clean   195 grams  Origin\n 0.000  clean   191 grams  Behavior\n 0.000  clean    50 grams  증언 (Testimonium)\n 0.000  clean    30 grams  SECC Classification\n 0.000  clean    27 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, recovered from the fear the widened cracks release — a cycle \n   84   4  | { *The Full Slide* [**Attack**] } | \"The whole pile gives way — stone, and everything the wall was holding apart.\" | [The last o\n   85   6  | { *Every Wall Falls* [**Ultimate**] } | \"Wall after wall, barrier after barrier — and somewhere in the falling, a promise made t\n  166   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each assurance of safety given while it is loose — a corridor called \n  187   1  **Target Coverage:** A line of up to three — in this wing that means the chain of people who have been reassured one after another\n  191   1  **Ability:** Lament damage to the mind rather than the body. The pike carries the record's signature, which is a boundary kept pro\n  199   2  **Appearance:** a barrier-plate of Lament Han-crystal, cool and faintly luminous, that sits cold against the skin and gives no sig\n  217   2  **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, riding at the tail of the belt and catching light \n  237   3  | **Before use** | Wielder, piece, the day's reading, and a dated baseline of what the wielder currently treats as settled — this \n  239   3  | **At limit** | The cost is continuous rather than occasional: the plate has taken enough of the wearer's memory of safety that t\n  240   2  | **After use** | Return the piece, reconcile the baseline, and record whether the toll has reversed — on this set it has reversed\n  244  13  **Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat inter\n  291   2  > The choice at the end of a session is a sentence rather than a tactic: what the worker says to the people waiting outside, and w\n  321   3  The Gardens are mostly structures; this record is the belief that was held about one of them, and the three below are filed alongs\n  323   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  418   2  - **Classification detail:** Breach is a Subject with Entity (IV) coherence and Critical (δ) potency, and the potency is not a mea\n  421   3  - **Record detail:** Check the designation before approach. More than one Gardens record concerns a failed protection and they dif\nGENERIC 0.010  (54 shared shingles)  SE-N-IVδ-339_Breach_무너진_벽.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-A__SIDE_CODEX_Breach.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-B__MAW-W_The_Fallen_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-C__MAW-S_The_Fallen_Barrier.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-D__MAW-G_The_Fallen_Charm.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-A__SIDE_CODEX_Breach.md": "9761dd48afe0170554704b9e4dfa59be5aebcee6e4acac3e96e0ed17cda20cf7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-B__MAW-W_The_Fallen_Requiem.md": "a0b683b7a6944c3e618448216381c791d91a5d72b598920c24a1ee5fc90390ed",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-C__MAW-S_The_Fallen_Barrier.md": "dbe78c671e387b94f52005c00e9174e738381c53764ec865adb4eaaffa80ef1c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-339-D__MAW-G_The_Fallen_Charm.md": "cf11e62bfa01885ef31dff7fb1be6b4b5e9f3ef7dc4a7033dc72c5819ffbc393",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-339_Breach_무너진_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-339_Breach_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%B2%BD.md \"SE-N-IVδ-339_Breach_무너진_벽.md\")]",
+      "table_link": "[Breach](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-339_Breach_%EB%AC%B4%EB%84%88%EC%A7%84_%EB%B2%BD.md \"SE-N-IVδ-339_Breach_무너진_벽.md\")",
+      "reading": {
+        "before_lines": 428,
+        "before_bytes": 45153,
+        "final_lines": 428,
+        "final_bytes": 46269
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 96,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": ""
+      }
+    },
+    {
+      "designation": "N-IIα-125",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-125_Hollow_Echo_빈_메아리.md",
+      "words": 7454,
+      "sha256": "3d07d9b936809b753e11c1d170b9555a26f550427dffde5491d2e78fd739ed32",
+      "unit": 5,
+      "name": "Hollow Echo",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_05_HOLLOW_ECHO.md",
+      "before_words": 7454,
+      "after_words": 7615,
+      "base": "0ac67cf4e6dc4b27c1f20ee2c2d3ea26746861b4",
+      "final_sha256": "c978eaa393efc74dd802fc1cacba863c00b6b6deebe5693eb00eb9da8bffbf5d",
+      "summary": "Five supported repairs (4 short / 1 careful) make the quietest record in the wing technically and structurally sound. Combat's first four rows stop filling, striking and silencing an entity that has never injured anyone: they now run on name erosion at the door-check, the reluctance to reply, the unanswered-request count and the one recorded departure from the single word; the Final Observation's template labels (Weep with it / Hold your composure) now say what their own rows say; the opening Flavor paragraph no longer has the call coming from behind and above a voice with no direction; an editorial residue line in Registry Trivia is replaced; and the Observation Log section — present in content but never headed, the reason this dossier failed the R-29 parity check — is restored under its canonical heading. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "A thing in Zone D that has been counting, to the second, how long the facility leaves a question open — and a director who chose, on purpose, to leave a permanent record of the refusals that interrupt it. Few dossiers in the register convict-and-acquit their institution in the same paragraph. This one wrote it into a containment condition.",
+      "reasoning": "R-33 chain: Subject / Echo-II / Minor-α / Inner Sorrow → two centuries of calls received, assessed and never refused, so never ended → a single repeated word at even volume with no source, body or falloff, whose interval tracks the facility's own correspondence → work is timekeeping plus the Rule of the Plain Refusal: answer 'I hear you' if you choose, promise nothing, never use a future tense → failure is not attack but a departure from the word, or names going missing at the door-count → equipment turns the obligation inward (the forced question, the name-keeping veil, the stone that sounds in silence). The rows now describe erosion, not strikes; Lens/spear/scalpel and the Undersong naming stay HELD.",
+      "history": "The primary carries its own 2026-10-12 full-set source review: overview, all Weapon/Suit/Stigma claims, notes and references against exact SE-1013-A/B/C/D, Registry rows 214–217, Master entries 457–459, Entity Codex row 520, Tale 153 and archetypes MAW-W-125/1013 — completing the α overview slot and holding the Spear against the Lens without normalizing any disputed form. The full-SE disposition and exact pair are therefore inside the baseline: Batch 185 earns +0 Types / +0 Weapon; HELD earns +0 SE. Déjà Vu C-IVδ-125's shared Spear title is a separate case per the B90 record noted in that review.",
+      "holds": [
+        "Weapon identity stays triple, exactly as the 2026-10-12 review held it: primary The Reverberant Spear — six-foot bell-metal thrusting spear (3–6 / Normal / Short) — against Side/item B and Master Entry 457 The Echo Lens with no recorded Appearance, archetype MAW-W-125 describing the fluted bronze sonic spear but assigning Close, and linked-code archetype MAW-W-1013's pointed ice scalpel at Short. The Spear's question-forcing Ability and memory-of-asking cost are primary-distinct; the item's cost is small nameless memories per use. No crosswalk; nothing normalized.",
+        "Entity naming and numbering fork outward: the set lives at SE-1013 under the name Undersong ('Undersong's event' binding, formation 'Their voices crystallized after the calls were ignored'), while the primary, Master Entry 457 ff. and Tale 153 say Hollow Echo. Which title the wing should teach at the door is unaddressed everywhere; both are preserved.",
+        "Posture rules also fork: the items bind each bearer to name the event and accept the management condition as a limit, with a terminal state (manifestation uses the bearer as its new site), while the primary keeps the whole set 'for teaching rather than for use' and walks first-day cohorts past it. The twelve-century interval record and the outline's status ('a separate phenomenon pending anything that would join them') are evidence, not defects."
+      ],
+      "split": [
+        4,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "combat_first_four",
+          "kind": "careful",
+          "careful": true,
+          "old": "| { *The Empty Ring* [**Debuff**] } | \"A sound echoes — but the sound has no source, and the echo has no original, and both are hollow.\" | [The Echo's void-resonance fills the target with absence.] | *Target suffers a Void mark; they are full of nothing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Echo's range. |\n| { *The Amplifying Silence* [**Debuff**] } | \"The echo grows louder — but louder means emptier — and the emptiness is deafening.\" | [The Echo's amplification increases the void-quotient.] | *Target loses clarity; the nothing is consuming everything.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains. |\n| { *The Sonic Void* [**Attack**] } | \"The echo collapses inward — becoming a point of pure, concentrated absence.\" | [A void-point strikes the target.] | *Inflicts Void damage; the absence erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Echo is disturbed. |\n| { *The Full Hollow* [**Attack**] } | \"Every echo the entity ever held — all of them hollow — resonate at once.\" | [The Echo's complete resonance is a wall of nothing.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Echo is silenced. |",
+          "new": "| { *The Empty Ring* [**Debuff**] } | \"It is not frantic. It has been calling long enough that desperation has worn down into patience.\" | [The one word sits at even volume across the whole enclosure, no source and no falloff; the listener starts timing the replies without deciding to.] | *Names begin to go missing in the mind — colleagues first — and the door list the worker gives on the way out is shorter than the one taken in.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker is inside the even volume during a timed watch. |\n| { *The Amplifying Silence* [**Debuff**] } | \"The pause between the words is where the answer should have been.\" | [The enclosure itself is silent; the silence never fills. Wardens count with it instead of answering.] | *Clarity erodes by subtraction; what replaces it is reluctance — a person who has stopped replying to anything.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the watch is timed without speech, interval after interval. |\n| { *The Sonic Void* [**Attack**] } | \"You intend to say something. It never arrives.\" | [No point strikes anybody; this holding has never injured anyone. Under repeated visits the words a worker meant to answer with simply do not come, and the unanswered count is the damage.] | *Void erosion lands on the name list and on the worker's queue of things to reply to; the reluctance outlasts the cure by weeks.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the same worker arrives with open requests unaddressed. |\n| { *The Full Hollow* [**Attack**] } | \"It says one word, patiently, forever — until something else is said back.\" | [Nothing is silenced, because silencing is not a protocol here. The one recorded departure — the enclosure saying something other than the single word — is the event this row covers.] | *A heavy Void surge of 15% across the enclosure when another word is heard; transcription of it takes precedence over the session.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the word departs from its single unvarying wording. |"
+        },
+        {
+          "id": "final_observation_labels",
+          "kind": "short",
+          "careful": false,
+          "old": "| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |",
+          "new": "| Say the two things and nothing else: that they hear it, and that nobody is coming. | Say that help is on its way, or that they will see what can be done, or anything with a future tense in it. |"
+        },
+        {
+          "id": "flavor_source_conflict",
+          "kind": "short",
+          "careful": false,
+          "old": "You hear “Help” from behind you. When you turn, the gardens are empty. The call comes from above, then beneath the path, then from inside your chest. It is not frantic anymore. It has called for so long that desperation has become patience. When you answer, the silence pauses to listen.",
+          "new": "The “Help” comes from nowhere in particular and everywhere in the room at once — even, unvarying, with no direction to turn toward and no distance to measure. It is not frantic. It has called for so long that desperation has become patience, and when you answer, the pause itself seems to listen."
+        },
+        {
+          "id": "registry_placeholder_note",
+          "kind": "short",
+          "careful": false,
+          "old": "- **Classification detail:** Subject, Echo (II), Minor (α), Comprehension Level 1. The Registrum carried placeholder text in four fields for an unknown period and has been filled from the SECC header; nothing in the entity changed, only the record of it.",
+          "new": "- **Classification detail:** Subject, Echo (II), Minor (α), Comprehension Level 1 — the lowest grade in the wing for a holding whose containment condition reaches every office that takes a request."
+        },
+        {
+          "id": "observation_log_heading",
+          "kind": "short",
+          "careful": false,
+          "old": "No disputed weapon form or profile was normalized.\n\n**R.D. Comprehension Level:** 1 — Initial",
+          "new": "No disputed weapon form or profile was normalized.\n\n## 관찰 기록 (Observation Log)\n\n**R.D. Comprehension Level:** 1 — Initial"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIα-125_Hollow_Echo_빈_메아리.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.044  clean   728 grams  M.A.W. Equipment\n 0.016  clean   645 grams  Combat Record\n 0.014  clean   369 grams  기록 (Registrum)\n 0.005  clean   207 grams  Containment Event Behavior\n 0.003  clean   663 grams  감각 묘사 (Flavor Text)\n 0.000  clean   926 grams  이야기 보고 (Story Log)\n 0.000  clean   336 grams  이야기 (Narratio)\n 0.000  clean   267 grams  Origin\n 0.000  clean   260 grams  관찰 기록 (Observation Log)\n 0.000  clean   257 grams  Trivia\n 0.000  clean   212 grams  Watch Record\n 0.000  clean   209 grams  Appearance\n 0.000  clean   145 grams  Behavior\n 0.000  clean   102 grams  최종 관찰 (Final Observation)\n 0.000  clean    94 grams  Operational Parameters\n 0.000  clean    50 grams  증언 (Testimonium)\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   55   1  | **Resistance** | 20% against Void pressure; 10% against other pressure types |\n   85   9  | { *The Hollow World* [**Ultimate**] } | \"Every sound in the field becomes a hollow echo — and beneath every echo, the same void.\n  166   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% per turn, and the figure is close to meaningless on this holding. The inte\n  194   6  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wea\n  206   2  **Cost:** The wearer feels faintly absent to themselves and, more usefully for the ledger, becomes unreachable. Messages reach the\n  212   2  **Appearance:** a small stone of Void Han-glass, near-translucent and almost colourless, warm to the touch.\n  239  22  **Full-set source review (2026-10-12):** Reviewed the grade overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Re\n  322   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  367   2  - The Rule of the Plain Refusal is a containment condition of this entity and binds every office of the facility that receives a r\n  373   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)\nGENERIC 0.009  (50 shared shingles)  SE-N-IIα-125_Hollow_Echo_빈_메아리.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1013_Undersong/SE-1013-A__SIDE_CODEX_Undersong.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1013_Undersong/SE-1013-B__MAW-W_The_Echo_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1013_Undersong/SE-1013-C__MAW-S_The_Echo_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1013_Undersong/SE-1013-D__MAW-G_The_Echo_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1013_Undersong/SE-1013-A__SIDE_CODEX_Undersong.md": "db1e082ee16cc3cf27dd846809d990f2490d528a6e0bdf562332ced03f38c097",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1013_Undersong/SE-1013-B__MAW-W_The_Echo_Lens.md": "616fb668e939a2005b0c9b7b30a8e1e4b9fd3858b2133e207cbd4fe06e5be106",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1013_Undersong/SE-1013-C__MAW-S_The_Echo_Veil.md": "d4c64092d90423bf13a1c5e8532365e6bcbedae82e3c1442667b63ea6c0a604b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1013_Undersong/SE-1013-D__MAW-G_The_Echo_Stone.md": "0c679ec28d15b621ed6ad6a985c0b9c239c7adcb13b879d5e134d8cdba36f1b2",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIα-125_Hollow_Echo_빈_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-125_Hollow_Echo_%EB%B9%88_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-N-IIα-125_Hollow_Echo_빈_메아리.md\")]",
+      "table_link": "[Hollow Echo](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B1-125_Hollow_Echo_%EB%B9%88_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-N-IIα-125_Hollow_Echo_빈_메아리.md\")",
+      "reading": {
+        "before_lines": 417,
+        "before_bytes": 45143,
+        "final_lines": 419,
+        "final_bytes": 46033
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 95,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    }
+  ],
+  "completed": 5
+}

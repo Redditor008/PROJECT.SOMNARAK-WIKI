@@ -68,7 +68,7 @@ The user-requested wiki parts are preserved verbatim as four citable links — t
 
 - Primary dossier: `PROJECT_MOON_RESEARCH/13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` — exhaustive `T-09-82` *Skin Prophecy* through `T-09-89` *We Can Change Anything* dossiers with Appearance, Ability & Mechanics, and Log and Method archives.
 - Addendum: `PROJECT_MOON_RESEARCH/12_ABNORMALITY_ENCYCLOPEDIA.md` — standard Abnormalities for contrast.
-- Conversion: `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` — ontological transmutation `Abnormality → Sorrow Entity`.
+- Conversion: `PROJECT_MOON_RESEARCH/CROSS_VERSE/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` — ontological transmutation `Abnormality → Sorrow Entity`.
 
 ---
 

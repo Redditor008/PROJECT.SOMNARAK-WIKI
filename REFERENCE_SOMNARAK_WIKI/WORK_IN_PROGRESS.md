@@ -1,5 +1,514 @@
 # Work In Progress
 
+## R-34 corrective recheck — Dawn of Mourning `C-Vω-001`: HELD, +0 (2026-10-29)
+
+**Corrective repair applied after the pre-repair full audit.** Dawn of Mourning received 47 mapped repairs (5 batch-short / 42 careful-detail; 8,535→9,241 words). Its five Combat Actions now form one historical/projected judgment sequence — opening judgment → *No Partial Light* → cold revelatory sentence → *The Mourners* → city-scale functional unmaking — with no current battle, authorised work, burning beam, seepage or reversed-transformation counterattack. The 11-of-12 temporal frame, confessor identity, equipment existence/forms, Chronicle reset/counter-liturgy mechanisms and pressure/critical semantics remain held. Batch 197 history preserved; fresh credit +0. [Pre-repair audit](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_FULL_AUDIT_2026-10-29.md); [repair evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_R34_RECHECK_2026-10-29.md); [evidence JSON](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_R34_RECHECK_2026-10-29.json); [R-34](REFERENCE_SOMNARAK_WIKI/RULES/R-34_FULL_FILE_LOGICAL_AUDIT_BEFORE_FIX.md). **Table-syntax correction (2026-10-29):** four Combat Action rows had an unescaped duration pipe that created a sixth cell and displaced Trigger; the separator is now a semicolon, every row parses as five cells, and R-34 now requires table cell-count/final-cell checks. [Syntax evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_TABLE_SYNTAX_CORRECTION_2026-10-29.md). **Trigger-semantics correction (2026-10-29):** comparative research across all 301 Combat Actions tables showed Dawn was the only file whose five Trigger cells were compulsory sequence positions. Seven careful repairs now give each row a discrete condition — first sight/observation, failed restoration of partial sight, aggression, Mourner relay, or Gauge ≥95% — restore the two middle `Attack` pressure categories, and remove fixed-row order. R-34 now forbids sequence positions as substitutes for triggers. [Trigger evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/DAWN_OF_MOURNING_TRIGGER_SEMANTICS_CORRECTION_2026-10-29.md).
+
+## Batch 207 — CLOSED, 5 / 5 (2026-10-30)
+
+Third R-34 recheck batch: the pool is the 236 HELD dossiers first reviewed before R-34 and not yet rechecked. Owner direction for this batch: appearance is load-bearing — the current body, material and movement must be cross-checked against Combat Record, Behavior/Activation, Story/Tale and equipment; a human origin does not imply a humanoid current form. One oldest dossier per SE document shape (doc shapes: Subject 142, Non-Subject 71, I-Relic 53, O-Relic 28, A-Relic 7 = 301). Body shapes measured at open by Physical Form wording + Manifestation type: Abstract/phenomenon 89, Object 78, Humanoid 59, Place/structure 58, Beast/creature 16, Hybrid 1. Queue: `C-IIβ-565` Broken Well (Subject), `C-IVω-001` The Maw (Non-Subject), `N-IVδ-852` Conservatory (I-Relic), `C-IIIγ-195` Learned Your Face (O-Relic), `O-IIIγ-412` The Wedge That Held (A-Relic). All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_OPEN.json).
+
+Batch 207 is CLOSED at 5 / 5, all five HELD with No change 0 / 5: 75 repairs (22 short / 53 careful), 38,956 → 41,888 words, credits +0 throughout. Under the owner's appearance lens, each current body was read against its combat, behavior, tale and equipment — a dry rim-joined mother without water attacks, a district that leans and holds footprints instead of striking, a brickless crystal outline governed by resemblance, a mounted mirror that is never struck or shattered, and an 18.4 kg wedge with exactly one deliberate use. Closure battery PASS: fresh validators 25/25, unit tests 54/54, lore/timeline/seam/box audits PASS, exact reconstruction 5/5, zero cited-source changes across 27 files, 231/231 remaining pool fingerprints unchanged. 231 pre-R-34 HELD dossiers remain in the recheck pool; none is retroactively R-34-certified. Draft PR #15 stays open under owner control.
+
+Unit 5 rechecked The Wedge That Held (O-IIIγ-412, prior B166) at 4,757 before / 5,418 after words, applying 13 repairs (3 short, 10 careful) and holding SE credit at +0: the 18.4 kg single-use wedge kept its codes, hemp and measured heat while losing the liquid weep, the premature-detonation Ultimate, the impossible repeat-use schedule and the dust tonnage; gauge-versus-strike, settling-chronology and residue-availability conflicts remain open. Batch 207 stands at 5 / 5; recheck pool 231 remaining.
+
+Unit 4 rechecked Learned Your Face (C-IIIγ-195, prior B155) at 8,351 before / 9,045 after words, applying 14 repairs (3 short, 11 careful) and holding SE credit at +0: the mounted mirror kept its sixty-one learned faces and no-content rule while losing the self-showing reflection, the struck-glass shard, the certified doppelganger and the shattering Ultimate; reflection-identity, separation-extent and range-exception conflicts remain open. Batch 207 stands at 4 / 5; recheck pool 232 remaining.
+
+Unit 3 rechecked Conservatory (N-IVδ-852, prior B148) at 10,095 before / 10,695 after words, applying 15 repairs (4 short, 11 careful) and holding SE credit at +0: the brickless crystal outline kept its missing east range and resemblance rule while losing the forgotten-ruin template, the falling stone, the in-band Ultimate and the Plate's invented heat clearance; carried-relic, Transform/extension and fever-cold-versus-heat conflicts remain open. Batch 207 stands at 3 / 5; recheck pool 233 remaining.
+
+Unit 2 rechecked The Maw (C-IVω-001, prior B149) at 7,820 before / 8,357 after words, applying 14 repairs (5 short, 9 careful) and holding SE credit at +0: the district kept its leaning buildings, unset ground and 41 markers while losing the invented heart, crushing strike, tracking mark and jaw-kit certification; sacrifice-versus-neglect, silence, expansion-rate and extraction conflicts remain open. Batch 207 stands at 2 / 5; recheck pool 234 remaining.
+
+Unit 1 rechecked Broken Well (C-IIβ-565, prior B149) at 7,933 before / 8,373 after words, applying 19 repairs (7 short, 12 careful) and holding SE credit at +0: the dry rim-joined mother kept her dust tears and 1.1 m floor while losing the invented speed, vessel dust, tainted-water combat and pooled equipment limits; upward-dust, outside-sighting, dark-water-bottom, threshold and title conflicts remain open. Batch 207 stands at 1 / 5; recheck pool 235 remaining.
+
+## Batch 206 — CLOSED, 5 / 5 (2026-10-30)
+
+Second R-34 recheck batch: the pool is the 241 HELD dossiers first reviewed before R-34 and not yet rechecked. One oldest dossier per SE document shape (doc shapes: Subject 142, Non-Subject 71, I-Relic 53, O-Relic 28, A-Relic 7 = 301). Body shapes measured at open by Physical Form wording + Manifestation type: Abstract/phenomenon 89, Object 78, Humanoid 59, Place/structure 58, Beast/creature 16, Hybrid 1. Queue: `C-IVδ-103` The Frozen Veil (Subject), `C-IIIγ-180` Owed (Non-Subject), `C-Vδ-290` First Tear (I-Relic), `C-IIIγ-373` Spreading Well (O-Relic), `C-Iα-114` A Letter Never Sent (A-Relic). All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_OPEN.json).
+
+Batch 206 closed 2026-10-30 at 5 / 5: all five rechecks HELD, 0 No change, 80 repairs (24 short / 56 careful), 37,715 → 39,733 words. Closure battery PASS — fresh validators 25/25, exact reconstruction 5/5, 236/236 remaining pool fingerprints unchanged, zero cited-source changes across 24 files, tests 54/54 and lore/timeline/seam/box audits PASS. Counters unchanged: Types 286/301, Weapon 284/287, SE Appearance Fix 18/301. Recheck pool: 236 remaining.
+
+Unit 5 rechecked A Letter Never Sent (C-Iα-114, prior B166) at 4,725 before / 5,083 after words, applying 14 repairs (4 short, 10 careful) and holding SE credit at +0: the single-use apology envelope lost its reverence triggers, ranged damage, self-surge and dust tonnage, and its Ultimate is now the spend-or-waste choice at the file threshold. Batch 206 stands at 5 / 5; recheck pool 236 remaining.
+
+Unit 4 rechecked Spreading Well (C-IIIγ-373, prior B155) at 8,240 before / 8,665 after words, applying 16 repairs (4 short, 12 careful) and holding SE credit at +0: the non-hostile channel network lost its pool, geyser and below-threshold sea, the SECC rim now matches the file correction, and the set now carries its consent limits. Batch 206 stands at 4 / 5; recheck pool 237 remaining.
+
+Unit 3 rechecked First Tear (C-Vδ-290 = SE-1030, prior B148) at 9,190 before / 9,670 after words, applying 14 repairs (2 short, 12 careful) and holding SE credit at +0: the never-fallen crystal lost its salt blade, forced fall, vault ocean, ton-scale dust and facility-benefit banners, and the attributed set now carries its attribution limits. Batch 206 stands at 3 / 5; recheck pool 238 remaining.
+
+Unit 2 rechecked Owed (C-IIIγ-180, prior B149) at 7,674 before / 8,070 after words, applying 15 repairs (3 short, 12 careful) and holding SE credit at +0: the indestructible debt wall lost its witnessed bricks, collapsing blocks, demolition cascade and below-threshold Ultimate, and both weapon profiles are now barrier-only. Batch 206 stands at 2 / 5; recheck pool 239 remaining.
+
+Unit 1 rechecked The Frozen Veil (C-IVδ-103, prior B148) at 7,886 before / 8,245 after words, applying 21 repairs (11 short, 10 careful) and holding SE credit at +0: the humanoid shell of frozen feeling lost its invented speed, dust tonnage, ice weapons and pooled equipment cost, while movement, fate and Canto-anatomy conflicts remain open. Batch 206 stands at 1 / 5; recheck pool 240 remaining.
+
+## Batch 205 — CLOSED, 5 / 5 (2026-10-29)
+
+All five HELD, No change 0, 108 repairs (43s/65c), 37,394→39,169 words, no fresh credit. This was the first R-34 recheck batch: one oldest pre-R-34 HELD dossier per appearance shape (Subject, Non-Subject, I-Relic, O-Relic, A-Relic — five leaf shapes across 301 dossiers: 142/71/53/28/7). Closure battery PASS: fresh validators 25/25, exact reconstruction 5/5, table/Trigger parsing 5/5 primaries and 25/25 rows, tests 54/54, lore/timeline/seam/box audits PASS, zero cited-source changes, 241/241 remaining pool fingerprints unchanged. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_CLOSE.md).
+
+First R-34 recheck batch: pending is 0, so the pool is the 246 HELD dossiers first reviewed before R-34 (batches 145–197). One oldest dossier per SE document shape (shapes measured at open: Subject 142, Non-Subject 71, I-Relic 53, O-Relic 28, A-Relic 7 = 301). Queue: `N-IVδ-909` Dormant Monolith (Subject), `O-IIβ-119` Homeless Sorrow (Non-Subject), `N-Iα-518` Life Behind Glass (I-Relic), `C-Iα-884` Seething Tundra (O-Relic), `C-IIβ-290` Broken Compass (A-Relic). All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_OPEN.json).
+
+Unit 5 — **Broken Compass `C-IIβ-290` (A-Relic shape): HELD, +0.** R-34 recheck of B155; 21 repairs (8s/13c; 7,668→8,038 words); direct SE-290. Combat is cradle counts and discarded bearings now, not a launched needle. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_05_BROKEN_COMPASS.md).
+
+Unit 4 — **Seething Tundra `C-Iα-884` (O-Relic shape): HELD, +0.** R-34 recheck of B146; 23 repairs (8s/15c; 6,379→6,791 words); direct SE-884. No more launching shard; attribution restored to Resolution. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_04_SEETHING_TUNDRA.md).
+
+Unit 3 — **Life Behind Glass `N-Iα-518` (I-Relic shape): HELD, +0.** R-34 recheck of B148; 20 repairs (7s/13c; 8,458→8,760 words); direct SE-518. Combat is now timed gaze, not slamming glass. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_03_LIFE_BEHIND_GLASS.md).
+
+Unit 2 — **Homeless Sorrow `O-IIβ-119` (Non-Subject shape): HELD, +0.** R-34 recheck of B148; 26 repairs (12s/14c; 6,946→7,348 words); direct SE-119. Subject/Object-Place dispute carried openly. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_02_HOMELESS_SORROW.md).
+
+Unit 1 — **Dormant Monolith `N-IVδ-909` (Subject shape): HELD, +0.** R-34 recheck of B147; 18 repairs (8s/10c; 7,943→8,232 words); direct SE-909. Combat now runs on duty events and declined reliefs, not structural physics. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_01_DORMANT_MONOLITH.md).
+
+## Batch 204 — CLOSED, 5 / 5 (2026-10-29)
+
+All five HELD, No change 0, 82 repairs (26s/56c), 47,984→49,785 words, no fresh credit; the pending pool is exhausted (pending 0/301). Closure battery PASS: fresh validators 25/25, exact reconstruction 5/5, table/Trigger parsing 5/5 primaries and 25/25 rows, tests 54/54, lore/timeline/seam/box audits PASS, zero cited-source changes. All units were reviewed under R-34 full-file logical audit before repair. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_CLOSE.md).
+
+Fresh ranking of the final 5 pending dossiers (`LC_ALL=C wc -w` ascending; designation tie-break). Queue: `C-IIβ-170` Unrung, `N-IIIβ-156` Deadline, `C-IVβ-042` The Angry Maiden, `C-Vδ-002` The Grieving Colossus, `C-IVγ-176` Loom of Unlived Dreams. All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_OPEN.json).
+
+Unit 5 — **Loom of Unlived Dreams `C-IVγ-176`: HELD, +0.** 17 repairs (7s/10c; 9,942→10,334 words); direct SE-176, first exact-pair source review found. Credit withheld: blade/thread-bow and beam-cut/released-thread forks stand open. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_05_LOOM_OF_UNLIVED_DREAMS.md).
+
+Unit 4 — **The Grieving Colossus `C-Vδ-002`: HELD; credit-barred, +0.** 18 repairs (7s/11c; 9,822→10,215 words); direct SE-002. Combat is now five route failures — obstruction, demolition, assault contact, cornering, Tide — never hunting. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_04_THE_GRIEVING_COLOSSUS.md).
+
+Unit 3 — **The Angry Maiden `C-IVβ-042`: HELD; credit-barred, +0.** 15 repairs (6s/9c; 9,561→9,897 words); direct SE-042. Combat now follows unresolved grievance, dismissal, provocation, cornering and group denial; Pugnahan is no longer listed as valid work. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_03_THE_ANGRY_MAIDEN.md).
+
+Unit 2 — **Deadline `N-IIIβ-156`: HELD; credit-barred, +0.** 16 repairs (3s/13c; 9,409→9,752 words); direct SE-156. Two unreconciled readings, a verifier and protected rest now govern the clock room instead of generic Han abilities and a movable clock. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md).
+
+Unit 1 — **Unrung `C-IIβ-170`: HELD; credit-barred, +0.** 16 repairs (3s/13c; 9,250→9,587 words); direct SE-170. The bell no longer swings, breaks or resolves by gauge alone; the outside clock, hand signals and a named answer close the session. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_01_UNRUNG.md).
+
+## Batch 203 — CLOSED, 5 / 5 (2026-10-29)
+
+All five HELD, No change 0, 96 repairs (24s/72c), 45,455→47,072 words, no fresh credit. Closure battery PASS: fresh validators 25/25, exact reconstruction 5/5, remaining fingerprints 5/5, table/Trigger parsing 5/5 primaries and 25/25 rows, tests 54/54, lore/timeline/seam/box audits PASS, zero cited-source changes. All units were reviewed under R-34. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_CLOSE.md).
+
+Fresh ranking of 10 pending dossiers (`LC_ALL=C wc -w` ascending; designation tie-break). Queue: `C-IVβ-043` The Silent Maiden, `O-IIIγ-369` Broken Whisper, `O-IVδ-151` Border Tree, `N-IVδ-315` Collapsed Seed, `C-Vγ-320` Sorrow Storm. All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_OPEN.json).
+
+Unit 5 — **Sorrow Storm `C-Vγ-320`: HELD; credit-barred, +0.** 16 repairs (6s/10c; 9,223→9,509 words); direct SE-320. Combat now follows full-ring confirmation, shelter by floor, named roll-call and passage rather than a roused or defeatable storm body. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_05_SORROW_STORM.md).
+
+Unit 4 — **Collapsed Seed `N-IVδ-315`: HELD; credit-barred, +0.** 20 repairs (6s/14c; 9,181→9,529 words); direct SE-315. The Seed is kept dry, unplanted and untouched, and no worker is rewarded for inventing the form it never reached. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_04_COLLAPSED_SEED.md).
+
+Unit 3 — **Border Tree `O-IVδ-151`: HELD; credit-barred, +0.** 15 repairs (1s/14c; 9,124→9,398 words); direct SE-151. Instant forest mechanics now obey annual survey time, two-side witnesses and a crossing kept open in both directions. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_03_BORDER_TREE.md).
+
+Unit 2 — **Broken Whisper `O-IIIγ-369`: HELD; credit-barred, +0.** 23 repairs (6s/17c; 8,980→9,299 words); direct SE-369. Patient listening is safe work; harm begins when fragments are completed, arranged or conferred into a sentence. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_02_BROKEN_WHISPER.md).
+
+Unit 1 — **The Silent Maiden `C-IVβ-043`: HELD; credit-barred, +0.** 22 repairs (5s/17c; 8,947→9,337 words); direct SE-043. Recognition now requires a named worker within two metres for seven minutes without demanding speech; combat follows demand, performance-waiting, coercion and group erasure. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_01_THE_SILENT_MAIDEN.md).
+
+## Batch 202 — CLOSED, 5 / 5 (2026-10-29)
+
+All five HELD, No change 0, 102 repairs (25s/77c), 44,210→45,874 words, no fresh credit. Closure battery PASS: fresh validators 25/25, exact reconstruction 5/5, remaining fingerprints 10/10, table/Trigger parsing 5/5 primaries and 25/25 rows, tests 54/54, lore/timeline/seam/box audits PASS, zero cited-source changes. All units were reviewed under R-34. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_CLOSE.md).
+
+Fresh ranking of 15 pending dossiers (`LC_ALL=C wc -w` ascending; designation tie-break). Queue: `C-IIβ-048` Hums, `C-IVδ-230` Every Last Goodbye, `C-IVδ-219` Soaking Shard, `C-IVγ-009` The Memory Weaver, `O-IVδ-844` Repose. All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_OPEN.json).
+
+- **2026-10-29 — Batch 202 unit 5 complete:** Repose (O-IVδ-844) received 17 repairs (3 short / 14 careful) and remains HELD +0. Combat now follows breathing/sound readings, dream-held buildings, rubble handling, sound-floor violation and ≥90% structural dream failure.
+
+
+- **2026-10-29 — Batch 202 unit 4 complete:** The Memory Weaver (C-IVγ-009) received 22 repairs (5 short / 17 careful) and remains HELD +0. Combat now follows offered thread, unlogged acceptance, violent refusal, loom seizure, and 65%/three-loss Tapestry Collapse, with identity cards and baselines restored.
+
+
+- **2026-10-29 — Batch 202 unit 3 complete:** Soaking Shard (C-IVδ-219) received 22 repairs (5 short / 17 careful) and remains HELD +0. Combat now follows touch/tears, rising volume, impact, shattering and Gauge ≥90%; channel closure is witnessed and deliberate below 25% without sealing the crack.
+
+
+Unit 2 — **Every Last Goodbye `C-IVδ-230`: HELD; credit-barred, +0.** 24 repairs (7s/17c; 8,810→9,139 words); direct SE-230. Stationary pulse, paired silence and complete name-return restored; Pugnahan is prohibited rather than valid work. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_02_EVERY_LAST_GOODBYE.md).
+
+Unit 1 — **Hums `C-IIβ-048`: HELD; credit-barred, +0.** 17 repairs (5s/12c; 8,808→9,025 words); direct SE-048. Combat restored to still air, one silent phrase, interruption, competing demands and three interrupted songs at ≥65%; carrier register remains the resolution. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_01_HUMS.md).
+
+## Batch 201 — CLOSED, 5 / 5 (2026-10-29)
+
+All five HELD, No change 0, 100 repairs (23s/77c), 43,496→44,836 words, no fresh credit. Closure battery PASS: fresh validators 25/25, exact reconstruction 5/5, remaining fingerprints 15/15, table/Trigger parsing 5/5 primaries and 25/25 rows, tests 54/54, lore/timeline/seam/box audits PASS, zero cited-source changes. All units were reviewed under R-34. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_CLOSE.md).
+
+Fresh ranking of 20 pending dossiers (`LC_ALL=C wc -w` ascending; designation tie-break). Queue: `N-IIβ-456` Fading Fruit, `O-IIIγ-651` Relic Waiting for Its Maker, `C-IVδ-001` The Orphaned Bell, `N-IIβ-152` Doorway to Nowhere, `O-IVδ-115` Broken Fragment. All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_OPEN.json).
+
+Unit 5 — **Broken Fragment `O-IVδ-115`: HELD; credit-barred, +0.** 18 repairs (6s/12c; 8,722→8,921 words); formal SE-1011. Held/linger/struck/crushed triggers replaced with touch, instrument thresholds, lifting load, sustained-contact immobility and ≥90%; Reel/Maul fork held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_05_BROKEN_FRAGMENT.md).
+
+Unit 4 — **Doorway to Nowhere `N-IIβ-152`: HELD; credit-barred, +0.** 15 repairs (2s/13c; 8,708→8,908 words); direct SE-152. Personnel-open and wall-appearance triggers replaced by corridor resolution, false return, forced/second-forced handle and ≥60%; Censer/Requiem and refusal-count forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_04_DOORWAY_TO_NOWHERE.md).
+
+Unit 3 — **The Orphaned Bell `C-IVδ-001`: HELD; credit-barred, +0.** 29 repairs (6s/23c; 8,708→9,193 words); direct SE-001. Side A's five-part toll cascade restored, vessel destruction removed, and exact Shroud/Edge limits recovered; stiletto/greatsword and face-identity forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_03_THE_ORPHANED_BELL.md).
+
+Unit 2 — **Relic Waiting for Its Maker `O-IIIγ-651`: HELD; credit-barred, +0.** 21 repairs (4s/17c; 8,682→8,880 words); direct SE-651. Impossible approach/linger/touch/forced-wake triggers replaced with confidence, translation, presented tools, assigned purpose and ≥75%; weapon and tool-channel forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_02_RELIC_WAITING_FOR_ITS_MAKER.md).
+
+Unit 1 — **Fading Fruit `N-IIβ-456`: HELD; credit-barred, +0.** 17 repairs (5s/12c; 8,676→8,934 words); direct SE-456. Breach/vessel/per-turn templates removed; triggers rebuilt around stopped reaches, promises, prohibited picks, matching fall counts and ≥60%. Orchard of the Indebted and Dagger-silhouette forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_01_FADING_FRUIT.md).
+
+## Batch 200 — CLOSED, 5 / 5 (2026-10-29)
+
+All five HELD, No change 0, 97 repairs (20s/77c), 43,204→44,466 words, no fresh credit. Closure battery PASS: fresh validators 25/25, exact reconstruction 5/5, remaining fingerprints 20/20, table/Trigger parsing 5/5 primaries and 25/25 rows, tests 54/54, lore/timeline/seam/box audits PASS, zero cited-source changes. All units were reviewed under R-34. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_CLOSE.md).
+
+Fresh ranking of 25 pending dossiers (`LC_ALL=C wc -w` ascending; designation tie-break). Queue: `N-IVδ-159` Apnea, `O-IVδ-897` Welcome Haven, `C-IVδ-125` Déjà Vu, `C-IVγ-270` Memory Lake, `N-IIα-215` Forgotten Name. All units run under R-34, including Markdown table cell-count, parsed Trigger-cell and Trigger-semantics checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_OPEN.json).
+
+Unit 5 — **Forgotten Name `N-IIα-215`: HELD; credit-barred, +0.** 21 repairs (7s/14c; 8,668→8,988 words); exact SE-215. Speak-the-name leftovers, 65% Ultimate and copied event model removed from the silent slate record; Veil/Thread appearances restored. Spoken-witness versus silence and Tanto/Lens forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_05_FORGOTTEN_NAME.md).
+
+Unit 4 — **Memory Lake `C-IVγ-270`: HELD; credit-barred, +0.** 19 repairs (4s/15c; 8,656→8,864 words); exact SE-270/Mnemosyne. Margin extraction and invented Gauge response removed; Shroud/Flask appearances restored. Mnemosyne, reflection-subject and Rod/Requiem forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_04_MEMORY_LAKE.md).
+
+Unit 3 — **Déjà Vu `C-IVδ-125`: HELD; credit-barred, +0.** 26 repairs (4s/22c; 8,651→9,044 words); direct SE-125. Physical-fruit combat, locomotion, 65% Ultimate, Low rating and consumable-crystal handling removed; exact Veil/Seed forms restored. Song/sealed-account precognition and Spear/Lens forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_03_DEJA_VU.md).
+
+Unit 2 — **Welcome Haven `O-IVδ-897`: HELD; credit-barred, +0.** 17 repairs (2s/15c; 8,622→8,784 words); direct SE-897. Combat/breach rebuilt around barriers, assurances, admissions and ≥90%; recurring pike score removed. Admission authority, Breach-Pike/Broken Fang and one-impact renewal forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_02_WELCOME_HAVEN.md).
+
+Unit 1 — **Apnea `N-IVδ-159`: HELD; credit-barred, +0.** 14 repairs (3s/11c; 8,607→8,786 words); direct SE-159. Drift/structural-pressure, suppression and turn-gauge templates removed; exact crimson veil/charm forms and relief-gated set logic restored. Side crack/sigh/pursuit, Stiletto/Fang and delayed-action causality forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_01_APNEA.md).
+
+## Batch 199 — CLOSED, 5 / 5 (2026-10-29)
+
+All five HELD, No change 0, 53 repairs (14s/39c), 42,732→43,489 words, no fresh credit. Closure battery PASS: fresh validators 25/25, exact reconstruction 5/5, remaining fingerprints 25/25, table/Trigger parsing 5/5 primaries and 24/24 rows, tests 54/54, lore/timeline/seam/box audits PASS, zero cited-source changes. All units were reviewed under R-34. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_CLOSE.md).
+
+Fresh ranking of 30 pending dossiers (`LC_ALL=C wc -w` ascending; designation tie-break). Queue: `N-IIβ-560` Dismissed Cry, `N-IIβ-845` Perennial, `C-IVγ-240` Broken Clocktower, `O-IVδ-168` Quagmire, `C-Vω-925` Sorrow Mass. All units run under R-34, including Markdown table cell-count and parsed Trigger checks. [Opening record](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_OPEN.json).
+
+Unit 5 — **Sorrow Mass `C-Vω-925`: HELD; credit-barred, +0.** 8 repairs (5s/3c; 8,581→8,632 words); direct SE-925. First three bespoke actions retained; Ultimate is now uncleared structural failure, breach rises by storey without suppression, and the registry no longer says contained/uncontained at once. Alpha Tree gravity, lightening-rite and Token forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_05_SORROW_MASS.md).
+
+Unit 4 — **Quagmire `O-IVδ-168`: HELD; credit-barred, +0.** 13 repairs (2s/11c; 8,579→8,834 words); direct SE-168. The Trace no longer erases its own evidence: Combat Actions now use footsteps, compass capture, shortcut pressure, external route loss and no-arrival at 90%. Origin/Activation/Field Use/flavor templates replaced and exact Shroud/Lantern forms restored; censer-versus-blade and cut-segment-versus-echo forks held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_04_QUAGMIRE.md).
+
+Unit 3 — **Broken Clocktower `C-IVγ-240`: HELD; credit-barred, +0.** 12 repairs (2s/10c; 8,558→8,751 words); exact linked SE-1023. The tower no longer stops time, chimes thirteen, drops gears, rings midnight or halts its pendulum: actions now run on six-metre lateness, the withheld stroke and the second instruction. SECC truncation completed; dated 2026-10-12 full-set review bars credit. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_03_BROKEN_CLOCKTOWER.md).
+
+Unit 2 — **Perennial `N-IIβ-845`: HELD; credit-barred, +0.** 11 repairs (3s/8c; 8,509→8,692 words); direct SE-845. Combat returns now take days and follow the clearance log instead of gravity, aimed petals, avalanches and infinite growth; mobile/Place-Void labels and open-site breach effects corrected. Subject/Object-Place hybrid and local item forms held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_02_PERENNIAL.md).
+
+Unit 1 — **Dismissed Cry `N-IIβ-560`: HELD; credit-barred, +0.** 9 repairs (2s/7c; 8,505→8,580 words); direct SE-560. The silent-heat protest no longer makes floods or drowning sound: Combat Actions now use activation pressure, non-reception, countershout and report wording, with every Trigger verified in the fifth parsed cell. Exact Plate/Charm appearances restored; local urn-versus-Shard Weapon fork held. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_01_DISMISSED_CRY.md).
+
+## Batch 198 — CLOSED, 5 / 5 (2026-10-29)
+
+All five HELD, No change 0, 74 repairs (13s/61c), 42,375→43,820 words, no fresh credit. Closure battery PASS: fresh validators 25/25, exact reconstruction 5/5, remaining fingerprints 30/30, tests 54/54, lore/timeline/seam/box audits PASS, zero cited-source changes. Units 1–4 predate R-34 and remain candidates for the later full recheck; Unit 5 was reviewed under R-34. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_CLOSE.md).
+
+Unit 5 — **Sorrow Seed `C-Iα-300`: HELD; credit-barred, +0.** 21 repairs (5s/16c; 8,500→8,777 words); exact SE-1031 (not SE-300). The Seed's measurement rows stop reading as attacks, all five Combat Actions were audited separately under R-34, and exact SE-1031 binding/cost rules enter Use Notes. Tale 113's dormant/future-potential account remains held against the primary's 260-year crawl/commuted-leave record. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_05_SORROW_SEED.md).
+
+Unit 4 — **Bridge of the Unchosen `N-IIIγ-874`: HELD; credit-barred, +0.** 14 repairs (4s/10c; 8,498→8,920 words); direct SE-874. [Evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md).
+
+## Batch 197 — CLOSED, 5 / 5 (2026-10-28)
+
+All five HELD, No change 0, 70 repairs (13s/57c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 35/35 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md).
+
+## Batch 196 — CLOSED, 5 / 5 (2026-10-28)
+
+All five HELD, No change 0, 63 repairs (16s/47c), no fresh credit (all barred by prior dispositions). Battery: 25/25 validators, 5/5 reconstruction, 40/40 fingerprints, audits PASS. [Closure](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md).
+
+**Unit 3 — Midnight Choir `C-IIβ-245`: HELD, +0.** Three repairs (2 short / 1 careful; 8,256→8,316 words): last template sentences in a near-clean file. Credit barred by item-integrating primary paragraphs. [Evidence](SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md).
+
+**Unit 2 — Driftglass `O-IIIγ-914`: HELD, +0.** Ten repairs (1 short / 9 careful; 8,251→8,434 words): a never-fixed drift stops being an escape; exact set SE-1040. Credit barred by the in-file 2026-10-11 review. [Evidence](SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md).
+
+**Unit 1 — Anonym `O-Iα-126`: HELD, +0.** Nine repairs (3 short / 6 careful; 8,247→8,411 words): a spaceless Subject stops splashing. Credit barred by the Side's 2026-10-11 title review. [Evidence](SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md).
+
+Fresh ranking of 45 pending dossiers (LC_ALL=C wc -w ascending). Queue: `O-Iα-126`, `O-IIIγ-914`, `C-IIβ-245`, `C-IVδ-250`, `C-IIIγ-088`. Units 1–4 run in this prompt (reviews 7–10); Unit 5 + closure next prompt.
+
+## Batch 195 — CLOSED, 5 / 5 (2026-10-28)
+
+**Unit 5 — Tear Too Small to Honor `N-Iα-785`: HELD, +0.** Fifteen repairs (6 short / 9 careful; 8,233→8,482 words): a flat tear stops detonating. Credit barred by the primary's item-integrating Use Notes. [Evidence](SE_APPEARANCE_REVIEWS/B195_05_TEAR_TOO_SMALL_TO_HONOR.md). Batch closed: all five HELD, No change 0, 51 repairs (16s/35c), **one fresh credit** (Walking Calendar); battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B195_CLOSE.md). Batch 196 opens next in this prompt.
+
+**Unit 4 — Apocrypha `O-Iα-340`: HELD, +0.** Seven repairs (0 short / 7 careful; 8,227→8,411 words): an untouched outline stops launching shards; exact set SE-1033 (not SE-340). Credit barred by the in-file 2026-10-12 review. [Evidence](SE_APPEARANCE_REVIEWS/B195_04_APOCRYPHA.md).
+
+**Unit 3 — Walking Calendar `C-IVδ-220`: HELD, fresh +1/+1.** Eight repairs (3 short / 5 careful; 8,202→8,358 words); first exact-pair disposition (erased-vs-scheduled fork held). [Evidence](SE_APPEARANCE_REVIEWS/B195_03_WALKING_CALENDAR.md). Counters: Types 286/301, Weapon 284/287, SE 18/301.
+
+**Unit 2 — Floating Well `C-IIIγ-448`: HELD, +0.** Nine repairs (2 short / 7 careful; 8,184→8,428 words): a dry well stops drowning people in all five combat rows. Credit barred by the in-file 2026-10-11 review. [Evidence](SE_APPEARANCE_REVIEWS/B195_02_FLOATING_WELL.md).
+
+**Unit 1 — The Dancing Chains `C-IIIγ-102`: HELD, +0.** Twelve repairs (5 short / 7 careful; 8,168→8,420 words): a never-resting pair stops multiplying and lashing. Credit barred by the in-file Batch 111 review. [Evidence](SE_APPEARANCE_REVIEWS/B195_01_THE_DANCING_CHAINS.md).
+
+Fresh ranking of 50 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-102`, `C-IIIγ-448`, `C-IVδ-220`, `O-Iα-340`, `N-Iα-785`.
+
+## Batch 194 — CLOSED, 5 / 5 (2026-10-28)
+
+Fresh ranking of 55 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IIIγ-300`, `C-IIβ-947`, `O-IIIγ-374`, `C-IIIγ-609`, `O-IIβ-833`. **Unit 5 — Neverlast `O-IIβ-833`: HELD, +0.** Ten repairs (5 short / 5 careful; 8,159→8,349 words): a never-moved figure loses its 1.45 m/s Speed, launched shard and fail-safe breach protocol. Credit barred by the primary's own set disposition. [Evidence](SE_APPEARANCE_REVIEWS/B194_05_NEVERLAST.md). Batch closed: all five HELD, No change 0, 35 repairs (17s/18c), **no fresh credit** (all five barred by prior written dispositions); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B194_CLOSE.md). Batch 195 opens next in this prompt.
+
+**Unit 4 — Frozen Echo `C-IIIγ-609`: HELD, +0.** Six repairs (2 short / 4 careful; 8,146→8,265 words): a self-contradicting trivia row and a shard-shedding crystal corrected. Credit barred by the in-file 2026-10-11 full-set review. [Evidence](SE_APPEARANCE_REVIEWS/B194_04_FROZEN_ECHO.md). Batch stays OPEN 4/5; Unit 5 Neverlast waits for the next prompt.
+
+**Unit 3 — Sleeping Tree `O-IIIγ-374`: HELD, +0.** Seven repairs (4 short / 3 careful; 8,140→8,298 words): the unmoved sleeper stops prowling and scorching. Credit barred by the in-file 2026-10-12 full-set review. [Evidence](SE_APPEARANCE_REVIEWS/B194_03_SLEEPING_TREE.md).
+
+**Unit 2 — The Soot Fry `C-IIβ-947`: HELD, +0.** Three repairs (2 short / 1 careful; 8,139→8,185 words): a pass-through breach template removed from a water-bound fish. Credit barred by Side A's weapon-range hold. [Evidence](SE_APPEARANCE_REVIEWS/B194_02_THE_SOOT_FRY.md).
+
+**Unit 1 — Memory Lock `C-IIIγ-300`: HELD, +0.** Nine repairs (4 short / 5 careful; 8,113→8,262 words): the fused lock stops slamming, breaking and emptying its doorless vault. Credit barred by the primary's own set disposition. [Evidence](SE_APPEARANCE_REVIEWS/B194_01_MEMORY_LOCK.md). Units 2–4 follow in this prompt.
+
+## Batch 193 — CLOSED, 5 / 5 (2026-10-27)
+
+Fresh ranking of 60 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-IVδ-252`, `C-IVδ-505`, `O-Iα-794`, `C-IIα-062`, `C-IVγ-073`. Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 5 — The Hollow Knight `C-IVγ-073`: HELD, +0.** Five repairs (2 short / 3 careful; 8,098→8,212 words): the armour stops opening, replicating and meaning malice; a truncated header cell is completed. Credit barred by the in-file Batch 111 cross-source review. [Evidence](SE_APPEARANCE_REVIEWS/B193_05_THE_HOLLOW_KNIGHT.md). Counters unchanged: Types 285/301, Weapon 283/287, SE 18/301. Batch closed: all five HELD, No change 0, 37 repairs (10s/27c), three fresh credits (Sorrow Gate, Portcullis, Forgotten Market Stall); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B193_CLOSE.md). Batch 194 opens next in this prompt (Units 1–4 = reviews 7–10; stays OPEN 4/5).
+
+**Unit 4 — Forgotten Market Stall `C-IIα-062`: HELD, fresh +1/+1.** Nine repairs (4 short / 5 careful; 8,087→8,387 words): the stall stops attacking; its failure returns to being a purchase, and three blank appearance cells are filled from its own protocol. First independent set review of exact SE-1006 (SE-062 is The Inheritor): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B193_04_FORGOTTEN_MARKET_STALL.md). Counters: Types 285/301, Weapon 283/287, SE 18/301.
+
+**Unit 3 — Portcullis `O-Iα-794`: HELD, fresh +1/+1.** Seven repairs (2 short / 5 careful; 8,067→8,187 words): the unmoved frame stops collapsing on people; the hazard returns to a spoken place-name. First independent set review (SE-794 whole; Jamb-Knife/Requiem name fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B193_03_PORTCULLIS.md). Counters: Types 284/301, Weapon 282/287, SE 18/301.
+
+**Unit 2 — Cold Burn `C-IVδ-505`: HELD, +0.** Nine repairs (1 short / 8 careful; 8,020→8,196 words): the caretaker stops hunting, pinning and spiking, and symbolic completion stops being scored a success nine years after withdrawal. Credit barred by the in-file Side-A set-route disposition. [Evidence](SE_APPEARANCE_REVIEWS/B193_02_COLD_BURN.md). Counters unchanged: Types 283/301, Weapon 281/287, SE 18/301.
+
+**Unit 1 — Sorrow Gate `C-IVδ-252`: HELD, fresh +1/+1.** Seven repairs (1 short / 6 careful; 8,020→8,134 words): the seamless slab stops cracking, shearing and archiving what its own rule burns. First independent set review (SE-252 whole; charm-count/provenance forks held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B193_01_SORROW_GATE.md). Counters: Types 283/301, Weapon 281/287, SE 18/301.
+
+## Batch 192 — CLOSED, 5 / 5 (2026-10-27)
+
+Fresh ranking of 65 pending dossiers (LC_ALL=C wc -w ascending). Queue: `C-Iα-175`, `C-IIIγ-021`, `O-IIβ-796`, `C-IIIβ-036`, `C-IIβ-100`. Units 1–4 were reviews 7–10 of the previous prompt; Unit 5 and this closure are review 1 of the current prompt.
+
+**Unit 5 — Unsaid Blossoms `C-IIβ-100`: HELD, fresh +1/+1.** Three repairs (1 short / 2 careful; 8,005→8,052 words): borrowed suppression/co-presence/origin-tale template removed from a counting grave. First independent set review (SE-100 whole; blade/war-fan fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B192_05_UNSAID_BLOSSOMS.md). Counters: Types 282/301, Weapon 280/287, SE 18/301. Batch closed: all five HELD, No change 0, 19 repairs (5s/14c), two fresh credits (Spire, Unsaid Blossoms); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B192_CLOSE.md). Batch 193 opens next in this prompt.
+
+**Unit 4 — The Cracked Hourglass `C-IIIβ-036`: HELD, +0.** Four repairs (1 short / 3 careful; 8,000→8,091 words): the glass stops running out in its own combat table. Credit barred by the in-file full-set source review (2026-10-11) and the Side weapon profile hold. [Evidence](SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md). Counters unchanged: Types 281/301, Weapon 279/287, SE 18/301. Unit 5 Unsaid Blossoms waits for the next prompt.
+
+**Unit 3 — Spire of Unanswered Prayer `O-IIβ-796`: HELD, fresh +1/+1.** Six repairs (2 short / 4 careful; 7,963→8,087 words): the bodiless song stops dropping towers on people. First independent set review (SE-796 whole; Chime-Tower/Requiem name fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B192_03_SPIRE_OF_UNANSWERED_PRAYER.md). Counters: Types 281/301, Weapon 279/287, SE 18/301.
+
+**Unit 2 — The Hollow Choir `C-IIIγ-021`: HELD, +0.** Three repairs (1 short / 2 careful; 7,946→8,087 words): the Anthem no longer finishes the song nothing in that chamber has ever finished, and the Broken Harmony stops wounding. Credit +0 — in-file Batch 111 cross-source review. [Evidence](SE_APPEARANCE_REVIEWS/B192_02_THE_HOLLOW_CHOIR.md).
+
+**Unit 1 — Anger Underfoot `C-Iα-175`: HELD, +0.** Three careful repairs (7,870→8,019 words): no burning brands, takeovers or person-to-person contagion from a fever-cold line that has never been seen to move. Credit +0 — three per-piece item dispositions already in-file (exact set SE-1017; SE-175 is Somnium's). [Evidence](SE_APPEARANCE_REVIEWS/B192_01_ANGER_UNDERFOOT.md).
+
+## Batch 191 — CLOSED, 5 / 5 (2026-10-27)
+
+Fresh ranking of 70 pending dossiers (LC_ALL=C wc -w ascending). Queue: Somnium `C-IVγ-175`, I Alone Crossed `C-IVδ-106`, Bulwark `N-Iα-459`, Debt-Collector's Lantern `N-IIβ-250`, Aegis `C-IVδ-200`. (Queue corrected to true LC_ALL=C wc counts before any unit was reviewed; Anger Underfoot ranks 6th.) Units 1–5 are reviews 2–6 of this prompt.
+
+**Unit 5 — Aegis `C-IVδ-200`: HELD, +0.** Twelve repairs (7 short / 5 careful; 7,863→8,293 words): no charging guardian, no pursuit, no per-swing toll on an unswung blade, no collapsing fail-safes — the template layer replaced by the ledger record (910 and rising; nine-day self-ending events). Credit +0 — three per-piece source holds already inside the primary. [Evidence](SE_APPEARANCE_REVIEWS/B191_05_AEGIS.md).
+
+**Unit 4 — Debt-Collector's-Lantern `N-IIβ-250`: HELD, +0.** Four repairs (2 short / 2 careful; 7,856→7,959 words): a flameless lamp no longer burns, wounds, swings or gets smashed/lifted against the file's never-injured, never-lifted record. Credit +0 — in-file 2026-10-12 full-set review of exact set SE-1024 (SE-250 is Memory Rain). [Evidence](SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md).
+
+**Unit 3 — Bulwark `N-Iα-459`: HELD, +0.** One careful repair (7,855→7,911 words): the Ultimate stops waking every wall in the field for an entity that has never woken in thirty years. Credit +0 — the primary already carries a dated full-set source review with the exact-pair Weapon disposition. [Evidence](SE_APPEARANCE_REVIEWS/B191_03_BULWARK.md).
+
+**Unit 2 — I Alone Crossed `C-IVδ-106`: HELD, +0.** Six repairs (3 short / 3 careful; 7,846→7,998 words): no falling masonry in a chamber that holds no bridge, consequences billed in the file's own numbers (1,204 transcriptions, fourteen answered). Fresh credit refused — Side A already carries a written Weapon-profile hold (Span-Cleaver vs Requiem left unselected). [Evidence](SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md).
+
+**Unit 1 — Somnium `C-IVγ-175`: HELD, fresh +1/+1.** Three repairs (2 short / 1 careful; 7,816→7,874 words): The Snare stops slicing in a file where nobody is ever hurt, and the breach no longer hunts 'indiscriminately' against its own First Target measurement. First independent set review (SE-175 whole; supervisor/anchor blade fork held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B191_01_SOMNIUM.md). Batch closed: all five HELD, No change 0, 26 repairs (14s/12c), one fresh credit (Somnium); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B191_CLOSE.md). Batch 192 opens next in this prompt (Units 1–4 = reviews 7–10; stays OPEN 4/5). Counters: Types 280/301, Weapon 278/287, SE 18/301; held 216 / pending 65.
+
+## Batch 190 — CLOSED, 5 / 5 (2026-10-27)
+
+**Unit 5 — The Empty Mask `C-IIβ-054`: HELD, fresh +1/+1.** Four repairs (2 short / 2 careful; 7,815→7,972 words): the Consequences lose the four-harm catalogue, the 'profound price' formula and the 'catastrophic outlet' default; the holding's own record answers instead — four minutes to identity confusion, a number offered in place of a name, a card at 5.2 and rising. First independent full-set review (SE-054 set read whole; removal-protocol and appearance forks held): +1 Types / +1 Weapon. [Evidence](SE_APPEARANCE_REVIEWS/B190_05_THE_EMPTY_MASK.md).
+
+**Unit 4 — Broken Promise `N-IIIγ-160`: HELD.** One careful repair (7,809→7,851 words): the Shard-Strike row stops launching a flying fragment — the injury record is shallow cuts on people who had broken something they said — and deals the documented harm, the binding itself. The in-file Batch 112 review already covers the (nonexistent) exact set and the 160-suffix traps: +0/+0/+0. [Evidence](SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md). Batch closed: all five HELD, No change 0, 12 repairs (4s/8c), two fresh credits (Collapsed Whisper, Empty Mask); closure battery PASS. [Closure](SE_APPEARANCE_REVIEWS/B190_CLOSE.md). Batch 191 opened in this prompt. Counters: Types 279/301, Weapon 277/287, SE 18/301; held 211 / pending 70.
+
+## Batch 189 — CLOSED, 5 / 5 (2026-10-27)
+
+All five units HELD; No change 1 (Sleeping Weight); 13 repairs (9 short / 4 careful; 38,222→38,543 words); three fresh equipment credits by negative proof (Rem, Redacted, Harvest Beyond the Gate, +1/+1 each). Closure battery PASS: fresh validators 25/25; tests 54/54; audits PASS; reconstruction 5/5; all 75 remaining pending fingerprints unchanged. Counters: Types 277/301, Weapon 275/287, SE 18/301. [Closure](SE_APPEARANCE_REVIEWS/B189_CLOSE.md). Batch 190 opens next in this same prompt; its Units 1–4 are reviews 7–10 and the batch stays open at 4/5.
+
+## Batch 188 — CLOSED, 5 / 5 (2026-10-27)
+
+All five units HELD; No change 0; 19 repairs (14 short / 5 careful; 37,926→38,775 words); one fresh equipment credit (Deteriorata +1/+1). Closure battery PASS: fresh validators 25/25; tests 54/54; audits PASS; reconstruction 5/5; all 80 remaining pending fingerprints unchanged. Counters did not move beyond Unit 3: Types 274/301, Weapon 272/287, SE 18/301. [Closure](SE_APPEARANCE_REVIEWS/B188_CLOSE.md). Batch 189 opens next in this same prompt on a fresh ranking of the 80 pending dossiers.
+
+**Unit 5 — Corrosion Dream `O-IIIγ-915`: HELD.** Five supported repairs (4 short / 1 careful; 7,611→7,724 words): rows 3–5 stop rust falling on people and every span failing at once — the first target is the plan chest, escalation stops on a signature, and the Ultimate reads the works ledger; the template breach line, a generic Material row and two Flavor blocks become the works yard and the plate-to-water quarters. Batch 121 already counted set 915: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_05_CORROSION_DREAM.md). Closure follows in this prompt.
+
+**Unit 4 — Forgotten Soldier `N-IIβ-033`: HELD.** Two supported repairs (1 short / 1 careful; 7,587→7,705 words): rows 1–3 drop the phantom regiment, the medal chest and the bayonet charge for the unvarying facing, the sixteen-day interval, directed words that record nothing, and damage that lands on doors; one Consequences line becomes the re-measured interval. Batch 132 already counted set 1005: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_04_FORGOTTEN_SOLDIER.md). This prompt's ten-review ceiling reached; Unit 5 (Corrosion Dream) + closure wait for the next P.
+
+**Unit 3 — Deteriorata `C-IVγ-130`: HELD.** Four supported repairs (3 short / 1 careful; 7,584→7,783 words): all five combat rows stop fragments landing, hands crushing and the figure collapsing, becoming the never-landing field, quarterly cubic metres against unwritten work, shoring, and repair-as-instruction; three Flavor blocks become the relief clock, the moving-west instruction and a crossed-out nil return. No earlier independent set review: **fresh +1 Types / +1 Weapon** / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_03_DETERIORATA.md).
+
+**Unit 2 — The Lonely Giant `C-IIIγ-105`: HELD.** Five supported repairs (4 short / 1 careful; 7,575→7,753 words): rows 1–3 drop the reaching hand, the rejected grasp and the tremor-wound for tremor-first contact, a figure that folds down and waits, and a 9.6 km detour; the Ultimate tracks uncollected entitlements; three Flavor blocks become go-round identification, doorway noticing and a clearance instruction. Batch 128 already counted set 105: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_02_THE_LONELY_GIANT.md).
+
+**Unit 1 — Dreaming Ruin `N-IIIγ-505`: HELD.** Three supported repairs (2 short / 1 careful; 7,569→7,810 words): all five combat rows drop the build-and-collapse cycle for the 184-panel sheet, furnishing, the build bearing, the equivalence search, and the notice return; two Flavor blocks become the detachment and the wrong thing to brace. Batch 104 / the in-file 2026-10-12 review already counted set 1036: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B188_01_DREAMING_RUIN.md).
+
+Fresh C-locale ranking of the 85 pending froze: Dreaming Ruin, The Lonely Giant, Deteriorata, Forgotten Soldier, Corrosion Dream. [Opening record](SE_APPEARANCE_REVIEWS/B188_OPEN.json). Units 1–4 are reviews 7–10 of this prompt; Unit 5 and closure wait for the next P.
+
+## Batch 187 — CLOSED, 5 / 5 (2026-10-27)
+
+Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; all 85 remaining pending fingerprints unchanged; no source changes. 16 repairs (11 short / 5 careful), 37,718 → 38,771 words; No change 0; Broken Door and Sorrow Tide fresh +1/+1 each; Types 273/301 · Weapon 271/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B187_CLOSE.md). Batch 188 Units 1–4 follow in this prompt.
+
+**Unit 5 — Miscast `C-Iα-779`: HELD.** Two supported repairs (1 short / 1 careful; 7,560→7,762 words): all five combat rows drop flying, embedding, detonating shards for the bearer's list of uncalled preparations, the 11 mm gap, an 8 mm widening that opens a documents search, four to nine seconds of the artifact simply working, and 88 mm of over-certification; the Termination row loses an invented trauma. Batch 116 already counted set 779: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_05_MISCAST.md). Closure follows in this prompt.
+
+**Unit 4 — Sorrow Tide `C-Vγ-260`: HELD.** Five supported repairs (4 short / 1 careful; 7,545→7,778 words): rows 1–3 drop the cresting wave for slack, the eleven-minute onset, and being alone outdoors after the peak; the stock Appearance protocol becomes the nine-station instrument; two Flavor blocks and one Story Log stub become the pairing rule, weather-not-weapon, and a red-night excerpt. Exact set is SE-1027 (not the suffix-260 Bridge): **fresh +1 Types / +1 Weapon** / +0 SE. First application carried a fused-word typo; before-file restored, spec amended, rerun once. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_04_SORROW_TIDE.md).
+
+**Unit 3 — Broken Door `O-IIβ-757`: HELD.** Three supported repairs (2 short / 1 careful; 7,538→7,816 words): combat rows 1–3 drop the angry barricade and the flying splinter for the posted flame grade, the prohibition that is the seal, and a name–grade–step escalation; two one-line Story Log stubs become the watch record and the leave-taking practice. No earlier independent set review exists: **fresh +1 Types / +1 Weapon** / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_03_BROKEN_DOOR.md).
+
+**Unit 2 — Hollow Architect `C-IVγ-255`: HELD.** Four supported repairs (3 short / 1 careful; 7,538→7,743 words): all five combat rows drop imposed emptiness, a crushing gargoyle, an ordered demolition and rising towers for copyless plans, spoken intentions, enclosure of whoever stops moving, a gauge that falls only to a voice outside the walls, and drawings describing the present room; the breach consequence and two Flavor blocks become three escapes talked back and the viewing line. Batch 126 already counted set 255: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_02_HOLLOW_ARCHITECT.md).
+
+**Unit 1 — Torpor `N-IVδ-157`: HELD.** Two supported repairs (1 short / 1 careful; 7,537→7,672 words): combat rows 1–3 lose the vast dormant sleeper — the hush now converts the crew's own sounds, the pressure gains a direction, and the ground settles rather than strikes; one Observation Log line stops the place watching and gives the microphone fact instead. The 2026-10-11 in-file full-set review already counted set 157: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B187_01_TORPOR.md).
+
+Fresh C-locale ranking of the 90 pending froze: Torpor, Hollow Architect, Broken Door, Sorrow Tide, Miscast. [Opening record](SE_APPEARANCE_REVIEWS/B187_OPEN.json). Reviews 2–6 of this prompt's ten.
+
+## Batch 186 — CLOSED, 5 / 5 (2026-10-27)
+
+Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; all 90 remaining pending fingerprints unchanged; no source changes. 21 repairs (15 short / 6 careful), 37,473 → 38,364 words; No change 0; Types 271/301 · Weapon 269/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B186_CLOSE.md). Batch 187 follows in this prompt under the ten-review ceiling.
+
+**Unit 5 — The Lost Prince `C-IVγ-091`: HELD.** Four supported repairs (3 short / 1 careful; 7,449→7,639 words): combat rows 1–3 drop lost-ness-as-infection and a misplaced sword — the child carries none — for the three questions in order, the crown's point count against the rotation book, and a Drain that rises only on reassurance; the template consequence and two stock Flavor blocks become the search that exhausts itself and the counter with one left to lose. Batch 128 already counted set 091: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_05_THE_LOST_PRINCE.md). Closure follows in this prompt.
+
+**Unit 4 — Patina `C-IVδ-222`: HELD.** Four supported repairs (3 short / 1 careful; 7531→7747 words): combat's first four rows become margin-standing, re-staked markers, the dieback and the 9/14/19 series; two reading paragraphs and two Flavor blocks become the line-monument-screen triad, rotation-not-catharsis and the closing-note millimetres. Batch 137 already counted set 222 (Weapon+1 then): +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_04_PATINA.md). This prompt's ten-review ceiling reached; Unit 5 (The Lost Prince) + closure wait for the next P.
+
+**Unit 3 — The Memory Thief `N-IIIβ-077`: HELD.** Five supported repairs (3 short / 2 careful; 7472→7647 words): rows 3–4 become discovery-by-clerk and the equal-weight exchange; the catastrophic Consequences template and generic summary paragraph become the file's own standards; two Flavor blocks become corridor badges and the page-burning courtesy. Batches 89/129 already counted set 077: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md).
+
+**Unit 2 — Folly `C-Iα-329`: HELD.** Three supported repairs (2 short / 1 careful; 7469→7684 words): combat's first four rows become the false dated memory, silent drafting, the cord moving once and rooms opening on completion attempts; the 'severe Void trauma' termination line becomes the publish-first bracket rule; template tick damage removed. Batch 127 already counted set 329: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_02_FOLLY.md).
+
+**Unit 1 — Weeping Willow `C-IIIγ-140`: HELD.** Five supported repairs (4 short / 1 careful; 7468→7647 words): combat's first four rows become dissolving leaves, undrained ground, the past-tense sign and a thickened fall; the bare Story Log line becomes the unattended rule; Movement repaired; two form lines aligned to crystal leaves on living wood. Batch 115 already counted set 140: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B186_01_WEEPING_WILLOW.md).
+
+Fresh C-locale ranking of the 95 pending froze: Weeping Willow, Folly, The Memory Thief, Patina, The Lost Prince. [Opening record](SE_APPEARANCE_REVIEWS/B186_OPEN.json).
+
+## Batch 185 — CLOSED, 5 / 5 (2026-10-26)
+
+Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; no source changes. 23 repairs; No change 0; Types 271/301 · Weapon 269/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B185_CLOSE.md). Batch 186 follows in this prompt.
+
+**Unit 5 — Hollow Echo `N-IIα-125`: HELD.** Five supported repairs (4 short / 1 careful; 7454→7615 words): combat's first four rows become name erosion, the reluctance to reply, the unanswered count and the departure from the word; Final Observation labels match their rows; Flavor's directioned voice becomes sourceless; and the Observation Log heading (content present, heading missing — a standing R-29 parity failure) is restored. The 2026-10-12 full-set review already counted set 1013: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_05_HOLLOW_ECHO.md).
+
+**Unit 4 — Breach `N-IVδ-339`: HELD.** Five supported repairs (4 short / 1 careful; 7449→7643 words): combat's masonry rows become the watching interval, decorative barriers and the assurance itself; the 'crushing corridors shut' lines corrected in place; Transform glossed; sensory boilerplate becomes clock-not-the-search. The 2026-10-13 full-set review already counted set 339: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_04_BREACH.md).
+
+**Unit 3 — Mourner's Bloom `C-Iα-330`: HELD.** Six supported repairs (5 short / 1 careful; 7433→7643 words): combat's first four rows become the register, the date-shed catalogue, two-metre moment-taking and a count stopping at the first petal; corridor fail-safes, the generic material field, the meta activation paragraph and two Flavor blocks become the file's own figures. The 2026-10-12 full-set review already counted set 1032: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_03_MOURNERS_BLOOM.md).
+
+**Unit 2 — Candela `C-IVδ-165`: HELD.** Six supported repairs (5 short / 1 careful; 7422→7609 words): combat's first three rows become timed viewing, sealed-pool custody and a declined reach with Drain +5 on the planning; the legend boilerplate becomes the screening account; the stray threat line becomes the register's graded position; three Flavor blocks become tallow, the height mark and the melt-rate rule. Batch 116 already counted set 165: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_02_CANDELA.md).
+
+**Unit 1 — Whispering Walls `C-Iα-011`: HELD.** One mechanical repair (1 short; 7401→7395 words): a duplicated clause in the Fabric Record's ward-officer objection removed. Batches 88/115 already counted set 011 and wrote the file's cost assignments deliberately; the sets on re-read confirm them — +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md).
+
+Fresh C-locale ranking of the 100 pending froze: Whispering Walls, Candela, Mourner's Bloom, Breach, Hollow Echo. [Opening record](SE_APPEARANCE_REVIEWS/B185_OPEN.json).
+
+## Batch 184 — CLOSED, 5 / 5 (2026-10-26)
+
+Fresh validators 25/25; tests 54/54; audits PASS; exact reconstruction 5/5; no source changes. 32 repairs; No change 0; Types 271/301 · Weapon 269/287 · SE Fix 18/301. [Closure record](SE_APPEARANCE_REVIEWS/B184_CLOSE.md). Batch 185 follows in this prompt.
+
+**Unit 5 — Pall `C-IIβ-280`: HELD.** Four supported repairs (3 short / 1 careful; 7384→7572 words): combat's worn-veil rows become unnoticed dulling and shortening notes; the Termination row no longer tells the wearer to lift the veil themselves; the exposure paragraph becomes the load cell and the notes; a stray Story Log line becomes the wearer list. Batches 79/107 already counted set 280: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_05_PALL.md).
+
+**Unit 4 — Melting Rope `N-IIIγ-447`: HELD.** Seven supported repairs (5 short / 2 careful; 7375→7553 words) return combat triggers and the flavor section to the dream-account regime and price all three field-use signs. Batch 109 already counted set 447: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_04_MELTING_ROPE.md). **Five reviews of this prompt complete** (B183 U5 + closure, B184 U1–U4); Unit 5 Pall `C-IIβ-280` remains for the next prompt, which will also close Batch 184.
+
+**Unit 3 — The Convergence `C-Vδ-010`: HELD.** Seven supported repairs (6 short / 1 careful; 7366→7563 words) bring the conventional apparatus under the station's own rule — projections labelled as projections — removing the all-four valid-work row, the centre-of-grief combat rows, the limb-rampaging breach movement, the physical-suppression escalation line, the stock origin and appearance-protocol paragraphs and the unsentenced 'sentenced personnel Fracture' claim. Batch 113 already counted set 010 (full-SE + new SE-010-B pair): +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_03_THE_CONVERGENCE.md).
+
+**Unit 2 — Thralldom `O-Iα-754`: HELD.** Eight supported repairs (7 short / 1 careful; 7359→7516 words) remove the prey-hunting breach burst, wall-cracking anger, 'wave of pure malice', self-splitting Ultimate and template Observation rows, and keep barred Pugnahan out of the valid-work row. Batch 132 already dispositioned exact set 754 inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_02_THRALLDOM.md).
+
+**Unit 1 — Shard of a Broken Promise `O-IVδ-851`: HELD.** Six supported repairs (5 short / 1 careful; 7340→7522 words) return the combat tier from a launched, burrowing shard to the hum it has been for fourteen years, replace the template retreat close, the liquid-boilerplate movement row, the spec-sheet toll tail, the standard-protocols filler and the stock exposure paragraph. First whole-set disposition (Batch 72 only rewrote the addendum): **fresh +1 Types / +1 Weapon**, +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B184_01_SHARD_OF_A_BROKEN_PROMISE.md).
+
+Owner `P` clarified: **five SE reviews per prompt** (five is the floor, not the ceiling; a dossier needing no fix is simply reported as **No change** in the chatroom). This prompt finished Batch 183 unit 5 + closure and now runs Batch 184 units 1–4 — five reviews in one prompt. Fresh pending-only ranking freezes Shard of a Broken Promise `O-IVδ-851` (7340), Thralldom `O-Iα-754` (7359), The Convergence `C-Vδ-010` (7366), Melting Rope `N-IIIγ-447` (7375), Pall `C-IIβ-280` (7384); reserves Whispering Walls, Candela, Mourner's Bloom, Breach, Hollow Echo only on ladder extension. Baseline audits PASS (run fresh at B183 closure in this prompt).
+
+## Batch 183 — CLOSED, 5 / 5 (2026-10-26)
+
+Five HELD reviews; 40 repairs (28 short / 12 careful; 36,591 → 37,246 words); No change 0/5. Fresh closure validators 25/25, tests 54/54, lore/timeline/seam/box PASS, exact reconstruction 5/5 from git-tree before-states, 105 pending fingerprints unchanged, Tales byte-identical. No fresh equipment credit: Batches 115/102/119/125–126/133 already counted these sets inside the legacy baseline. [Closure record](SE_APPEARANCE_REVIEWS/B183_CLOSE.md).
+
+**Unit 5 — Cracked Mirror `C-IIβ-310`: HELD.** Eight supported repairs (6 short / 2 careful; 7328→7524 words) return the attack tier from fracture-blades and complete shattering to the only two measurements that move here — agreement and the widening edge; the template Resolution splice, consequences quadruple/triad/outlet, symbolic expanded origin and after-departure paragraph give way to the timekeeper's call, the set's three tolls, the ordinary flattering-glass trade, and cloth-edge-duration-no-content. Two-Truth-Lens naming, voluntary-versus-timekeeper resolution and three-way stigma scoping remain held. Batch 133 already counted the SE-310 set (Weapon+1) inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md).
+
+**Unit 4 — Cleaved `C-IIβ-775`: HELD.** Eight supported repairs (6 short / 2 careful; 7327→7499 words) return combat and toll grammar to the height, bearing and register: Pugnahan is no longer listed as valid work it elsewhere records as barred since the second cycle; The Falling Masonry no longer hurls an aimed block from a figure that goes for skylines not people; the generic consequences quadruple and toll triad are replaced by the ordered name-loss and the set's three recorded tolls; the Detailed movement row no longer claims pursuit; the codices' terminal bearer-as-site career is answered by the works register; field-use signs are priced by piece; and the template activation paragraph now reads as the lean and the name-loss interval. Week-versus-months disappearance, disc-versus-scope weapon body and Cleaved/Torn Tower naming strata remain held. Batch 125 (pair disposition) and Batch 126 unit 1 (full-SE review) already counted this set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md).
+
+**Unit 3 — Stranded Between Two Shores `C-IVδ-823`: HELD.** Eight supported repairs (6 short / 2 careful; 7315→7423 words) scope Pugnahan out of valid work as a recorded failure, rewrite the first three combat rows from planks/flood/immersion to one-sided working, single-column readings and lost voice contact, fix the inverted At-limit sign, price field-use signs per piece, and return template Resolution/consequences/movement/observation rows to the both-mouths depth record. Apex network manifestations, the one recorded crossing, 19-vs-26 unaccounted and rise-vs-sink verbs remain held. Batch 119 already counted the SE-823 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md).
+
+**Unit 2 — Echo of Kindness `C-Iα-240`: HELD.** Ten supported repairs (7 short / 3 careful; 7313→7373 words) return combat and consequences from blade/wound/Fracture grammar to comfort received, the declining count and one's own voice returned, split field-use signs across weeping, numbness and refused kindness, re-anchor generic flavor/review/trivia seams in the 61/44/29 series, and restore the missing Observation Log heading (pre-existing wikistd parity failure). Spoken-word vs wordless-feeling return, three-way weapon identity and codices' first-bearer hazard histories remain held. Batch 102 already counted the identity-resolved SE-1022 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md).
+
+**Unit 1 — Bridge to Nowhere `C-IVδ-260`: HELD.** Six supported repairs (3 short / 3 careful; 7308→7427 words) complete the truncated Resistance cell, return combat from sky-ascent and falling planks to borrowed journeys and added span, fix the Place-Lament slip, split field-use signs per piece, replace generic flavor rows with length and singing, and correct "percentage" to length as the mechanism. Dissolution entitlement, codices' apex-lift events and Rising Bridge naming remain held. Batch 115 already counted the SE-260 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md).
+
+Owner "P" after CLOSED 182, with the Special Activation count question answered the same turn: **153 of 301** SEs have no breach counter (Activation 78, Event-in-place 41, Expansion 35; one dual-block) — [count note](SPECIAL_ACTIVATION_SE.md), pushed `d070d9f`. Fresh pending-only `LC_ALL=C wc -w` ranking, designation-byte ties, freezes: Bridge to Nowhere `C-IVδ-260` (7308), Echo of Kindness `C-Iα-240` (7313), Stranded Between Two Shores `C-IVδ-823` (7315), Cleaved `C-IIβ-775` (7327), Cracked Mirror `C-IIβ-310` (7328). Reserves, only on ladder extension: `O-IVδ-851`, `O-Iα-754`, `C-Vδ-010`, `N-IIIγ-447`, `C-IIβ-280`. Baseline lore/timeline/seam/box audits PASS. Batch 183 only; no merge, artwork or deployment.
+
+## Batch 182 — CLOSED, 5 / 5 (2026-10-26)
+
+All five reviews HELD after supported repairs; 41 repairs (26 short / 15 careful), 36,385 → 36,983 words; No change 0/5, reserves unused. Equipment coverage +1 Types / +1 Weapon (The Final Door, first whole-set disposition); SE +0. Fresh closure validators 25/25, tests 54/54, lore/timeline/seam/box audits PASS, exact reconstruction 5/5, 110 pending fingerprints unchanged. [Close report](SE_APPEARANCE_REVIEWS/B182_CLOSE.md). Batch 183 is not authorized.
+
+Owner “p p” in this session. Batch 181 was found already CLOSED on origin by another session acting on the same instruction (closure `8a5326d`); a stale-snapshot restore was leveled with `tools/syncbranch.py` before any edit, no work lost. This session applies its authorization to Batch 182 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
+
+1. Cenotaph `N-IVδ-525` — 7261 words
+2. Kind Healer's Shadow `N-IIβ-280` — 7266 words
+3. Double Mouth `C-IIβ-716` — 7277 words
+4. The Final Door `C-Vδ-111` — 7277 words
+5. Carrying Nothing `C-IIβ-357` — 7304 words
+
+Reserves, only if three cumulative No change results extend the batch 5→7→10: Bridge to Nowhere `C-IVδ-260`, Echo of Kindness `C-Iα-240`, Stranded Between Two Shores `C-IVδ-823`, Cleaved `C-IIβ-775`, Cracked Mirror `C-IIβ-310`. Baseline archive/timeline/seam/box audits PASS.
+
+**Unit 1 — Cenotaph `N-IVδ-525`: HELD.** Eight supported repairs (5 short / 3 careful; 7261→7433 words) align movement, valid work, combat, breach effect, consequences, flavor, field use and the Registrum to the span-and-register record (no pursuit, beneath-not-over, solo/shared crossings, close-the-crossing). Shrine-versus-Fang, humanoid-versus-serpentine form, name fork, thresholds, over-span work and structural scope remain held. Batch 127 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_01_CENOTAPH.md).
+
+**Commentary:** The most humane order in the archive may be the one closing this crossing: not unsafe, still on duty. I admire that containment is a traffic register and a named routing office rather than a stronger door — the facility finally takes the load off the guardian by taking the duty onto itself, in writing.
+
+**Unit 5 — Carrying Nothing `C-IIβ-357`: HELD.** Eight supported repairs (5 short / 3 careful; 7304→7376 words) remove Increase-response Pugnahan from valid work, rewrite weight-physics combat and the stock consequences quartet as relief, accumulation, false explanation and denial, split field-use signs across the three pieces, de-duplicate Story Entry 1, and re-anchor generic flavor/review/trivia seams in the sighting series and three-sentences rule. Schedule-lightening vs sealed-collective-burden origin, Carrying Nothing vs Vanished Weight naming and witnessed-use fork remain held. Batch 120 already counted the SE-357 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_05_CARRYING_NOTHING.md).
+
+**Unit 4 — The Final Door `C-Vδ-111`: HELD; fresh equipment credit +1 Types / +1 Weapon.** Ten supported repairs (6 short / 4 careful; 7277→7384 words) replace the spliced Identification row and posture-shift protocol with the nine-metre Clock stop and survey/duration/transcript record, replace the boilerplate structural-Void origin with the found-sealed record, stop the frame "striking" and the Door "swinging wide" in combat, keep beyond-the-seal life as report not fact, and align the Director's order, activation banner and trivia seams with the ninety-four studied cycles. Chronicle expeditions, three-way equipment existence (Side A no-extraction vs primary set vs Final Threshold codices) and parallel thresholds remain held. No earlier whole-set disposition exists (R-29 restatement only): fresh +1/+1, +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_04_THE_FINAL_DOOR.md).
+
+**Unit 3 — Double Mouth `C-IIβ-716`: HELD.** Seven supported repairs (4 short / 3 careful; 7277→7363 words) remove tested-forbidden Pugnahan from valid work, strip sonic-blade/thin-cut/Crimson physical claims from a holding with twenty years of "no physical attacks", rewrite generic breakdown consequences as finished phrases and sheet-tidying, split field-use signs per piece, and re-anchor generic flavor/review/trivia seams in the tone count and two-channel containment. Only digit change: the file's own 38/52/61 restated once. Lawfully-destroyed vs dismissed vs lost complaint, tuning-fork vs doubled-curve form, unnamed +1 and witnessed-use fork remain held. Batch 136 already counted the SE-716 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_03_DOUBLE_MOUTH.md).
+
+**Unit 2 — Kind Healer's Shadow `N-IIβ-280`: HELD.** Eight supported repairs (6 short / 2 careful; 7266→7427 words) scope ambient one-person attendance, repair the spliced Operational Parameters table, remove tested-null Pugnahan from valid work, rewrite healing-debt/surgical/un-healing combat as one-way transfer, cycle cap and division, split field-use signs, and correct the field-log wound-closing claim to association only. Cleaver/Requiem/Urn, plural-versus-single healer origin, unnamed +1, stale Tale Registrum and thresholds remain held. Batch 103 already counted the identity-resolved SE-1029 set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B182_02_KIND_HEALERS_SHADOW.md).
+
+**Commentary:** This file's honesty is rare: a strong result it believes, cannot defend, and will not improve — because the only valid trial would mean withholding the one reliable attendance in the building by lottery. The fourteen-month cell, where containment quietly depended on a Warden not getting better, is the archive's sharpest warning about arrangements nobody reads two records together to notice.
+
+Completed 2/5; No change 0/2. Counters: 269/301 Types, 267/287 Weapon, 18/301 SE; held 168 / pending 113. Next frozen unit is Double Mouth `C-IIβ-716`. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No Batch 183, merge, artwork or deployment is authorized.
+
+## Batch 181 — CLOSED, 5 / 5 (2026-10-25)
+
+Owner “p p” after CLOSED 180 authorizes Batch 181 only. A fresh pending-only `LC_ALL=C wc -w` ranking from the authoritative 301-path ledger, with designation-byte ties, freezes this queue:
+
+1. Homecoming Tree `C-Iα-869` — 7183 words
+2. Grimoire `C-IIβ-906` — 7219 words
+3. Sky of Borrowed Faces `O-IIIγ-926` — 7249 words
+4. The Echo Compass `C-IIIβ-016` — 7252 words
+5. Harbinger `N-IIIβ-155` — 7254 words
+
+Reserves, only if three cumulative No change results extend the same batch 5→7→10: Cenotaph `N-IVδ-525`, Kind Healer's Shadow `N-IIβ-280`, Double Mouth `C-IIβ-716`, The Final Door `C-Vδ-111`, Carrying Nothing `C-IIβ-357`.
+
+Opening baseline audits PASS: archive health, timeline, semantic seam and box symmetry.
+
+**Unit 1 — Homecoming Tree `C-Iα-869`: HELD.** Ten supported repairs (6 short / 4 careful; 7183→7323 words) align movement to the root-legged walking place, remove fixed-object speed wording, rewrite cutting/regrowth/forest combat as failed-return sighting and route/bark procedure without changing numbers, split equipment signs, replace generic flavor activation, and correct Registrum references to Zone E and the filed interactions. Taxonomy, Weapon form, equipment classes and stale Tale 122 remain held. Batch 118 already counted the exact set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_01_HOMECOMING_TREE.md).
+
+**Commentary:** The strongest choice is the archive's refusal to blame either community: the returned and the resident really do share one address and two incompatible homes. I also like containment as a sighting log rather than a wall. For a place that walks, knowing where it stopped—and refusing to promise restoration—is more honest than pretending it can be held.
+
+**Unit 2 — Grimoire `C-IIβ-906`: HELD.** Nine supported repairs (3 short / 6 careful; 7219→7351 words) align the visible writing record with instrument evidence, clarify the reader trigger and study precision, replace the claim that the book hears a spoken line with an explicit hold, flag the sector-wide Tale Collapse as uncorroborated, distinguish the carried I-Relic from the stationary source, and expose the unresolved self-writing/read-trigger breach account. The Weapon shape, no-aloud history, extraction and other breach conflicts remain held. Batch 141 already counted the set and exact Weapon pair: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_02_GRIMOIRE.md).
+
+**Commentary:** Its most unsettling element is still the institution: a book that returns one person's unraised grievance, and a facility that turns blank pages into job screening while insisting it has relied on no accusation. The blank-page practice is a moral trap, not just a haunted-book twist. Yet the file's protocols disagree about opening, reading, and what the pages can do; those contradictions should stay unresolved rather than be converted into mechanics.
+
+**Unit 3 — Sky of Borrowed Faces `O-IIIγ-926`: HELD.** Five supported repairs (3 short / 2 careful; 7249→7363 words) correct both appearance forms to surface-bound projections, distinguish the stationary transect from changing field extent, and mark the all-surface combat action as a model rather than a witnessed event. The formal breach status, expansion counts, impossible 74/112 likeness return and Weapon blade-versus-spear record remain held. Batch 143 already counted the exact set and Weapon pair: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_03_SKY_OF_BORROWED_FACES.md).
+
+**Commentary:** The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind. I appreciate that the corrected form puts each image back on a surface and keeps the ground itself in view; the unresolved breach model still needs evidence before anyone can call it an event.
+
+**Unit 4 — The Echo Compass `C-IIIβ-016`: HELD.** Six supported clarifications (2 short / 4 careful; 7252→7390 words) give both appearance summaries the palm-sized brass-and-bone design, separate the stand from human handling, and mark the modelled area-loss and spread events as unresolved. Activation's “until acknowledged or put down” duration remains unreconciled with the certified two-minute cap. Batch 143 did not review this exact set/pair; this unit adds +1 Types / +1 Weapon / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_04_ECHO_COMPASS.md).
+
+**Commentary:** The compass's central cruelty is that it answers the question it was built to answer, and the answer cannot be safely used. I appreciate the district's refusal to translate degrees into locations; it forces the institution to live with knowledge it can neither discharge nor lawfully act on. The channel still carries two incompatible duration instructions, so the instrument's operating boundary remains unsettled.
+
+**Unit 5 — Harbinger `N-IIIβ-155`: HELD.** Six supported repair groups (2 short / 4 careful; 7254→7375 words) align the visible following shadow and its distance to mirror evidence, replace debt-interest prose with the warning interval, and distinguish noncontact readings from combat/event models. Exact set and Weapon pair were already counted in Batch 131: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B181_05_HARBINGER.md).
+
+**Commentary:** The gap between decision and notice is the real body of this file; the shadow stays outside arm's reach but is visible to everyone except the person it follows. The Standing Notice is uneasy because it does not prove notification is harmless—it puts a right to know beside the documented cost of waiting. I especially trust the measured distance because it does not pretend to resolve who owes what.
+
+**Closure gate: PASS. Batch 181 CLOSED 5/5.** Fresh dossier validators 25/25 and unit tests 54/54 pass; archive-health, timeline, semantic-seam and box-symmetry audits pass. Thirty-six exact repair groups (16 short / 20 careful; 36,157→36,802 C-locale words) reconstruct all five final primaries from opening `ae8e480`.
+
+The 296 unselected primaries, all 301 Physical Form rows, Entity Tales, 115 remaining pending fingerprints, five reserves and 37 distinct source files are unchanged. All five digit sequences are preserved. No change 0/5; the ladder does not extend. Fresh credit is +1 Types / +1 Weapon for Echo Compass; SE Appearance Fix +0 because all five remain HELD. Counters: 269/301 Types, 267/287 Weapon and 18/301 SE; held 166 / pending 115. [Close report](SE_APPEARANCE_REVIEWS/B181_CLOSE.md).
+
+Batch 182 requires new owner authorization and a fresh pending-only ranking. Draft PR #15 remains owner-controlled. No merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+
+## Batch 180 — CLOSED, 5 / 5 (2026-10-25)
+
+Owner `P` after CLOSED 179 authorizes this batch only. A fresh pending-only `LC_ALL=C wc -w` ranking, with designation-byte ties, freezes this queue:
+
+1. Spreading Root `O-IVδ-693` — 7075 words
+2. Soaking Rope `N-Iα-316` — 7099 words
+3. Unheard `C-Iα-965` — 7105 words
+4. Forgotten Shadow `N-IIβ-453` — 7143 words
+5. Vanity Asleep `N-IIIγ-954` — 7160 words
+
+Reserves, only if three cumulative No change results extend the batch 5→7→10: Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, Harbinger `N-IIIβ-155`.
+
+**Unit 1 — Spreading Root `O-IVδ-693`: HELD.** Seven supported repairs (4 short / 3 careful; 7075→7145 words) align the movement and appearance fields to the dragging braided-root beast and its threading, scope breach as extension rather than a charge, distinguish Pugnahan's recorded adverse response from authorisation, split field-use first signs by piece, and correct The Maw / The Whispering Walls cross-reference designations. Weapon identity, excavation permission, Staff ontology/effect, thresholds, speed and the cutting-tool contradiction remain held. Batch 136 already counted the exact set inside the legacy baseline, so credits are +0 Types / +0 Weapon / +0 SE. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_01_SPREADING_ROOT.md).
+
+**Commentary:** The district keeps the original damage map and hears the projection before the Directorate; that makes listening a civic obligation rather than an extraction technique, and it is the design's strongest institutional choice. Its real menace is not speed or attack but prior occupation — the floor was compromised before the team arrived. The remaining weapon and excavation conflicts matter because they decide whether staff may act on the ground at all.
+
+**Unit 2 — Soaking Rope `N-Iα-316`: HELD.** Seven supported repairs (5 short / 2 careful; 7099→7089 words) scope the stationary one-ended rope, rewrite thrown/strangling/lifting combat prose as non-touching expectation without changing action names or numbers, use the promise count in Consequences, restore exact Empty Plate/Knot appearances, separate field-use signs and remove a duplicate Story sentence. Gallows-Beam versus Empty Fang, speed, thresholds and handling/extraction remain held. Batch 108 already counted the full set and Weapon inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_02_SOAKING_ROPE.md).
+
+**Commentary:** The privacy architecture is the strongest part of this file: the wing knows exactly what would predict a bad cycle and forbids itself to collect or roster against it. The unofficial page is a humane workaround and the counsellors are still right to object. Making an ordinary 'I'll be back in a minute' count toward breach turns office language into the Rope's weather.
+
+**Unit 3 — Unheard `C-Iα-965`: HELD.** Seven supported repairs (3 short / 4 careful; 7105→7111 words) give movement the stack route, identification the measured two-Warden edge, consequences/flavor/final observation the radius-and-sealed-accounts procedure without claiming recovered words, and field use separate Fang/Plate/Lantern signs. Origin chronology, recovered-content claims, breach label, stale Tale data, thresholds and range remain held. Batch 137 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_03_UNHEARD.md).
+
+**Commentary:** The Writer's Hour works because it refuses a simple villain: banning speech-as-evidence prevents real abuses, and the same rule leaves an illiterate citizen procedurally invisible. I especially value the file's restraint about content. It makes the radius measurable while refusing to invent the one thing everyone wants from it—what she said.
+
+**Unit 4 — Forgotten Shadow `N-IIβ-453`: HELD.** Nine supported repairs (5 short / 4 careful; 7143→7216 words) scope fixed-distance following, bar Pugnahan in the valid-work row, make combat run through grade/route/song rather than blows, separate the three equipment tolls, restore the exact Song appearance, correct “erased” to never entered, and close Final Observation without inventing identity. Three Weapon forms, Tale divergence, Song placement and thresholds remain held. Batch 109 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_04_FORGOTTEN_SHADOW.md).
+
+**Commentary:** The Day Token is an elegant, painful compromise: it proves attendance without recreating the dangerous register, then loses exactly the people most likely to lose a stub. I admire that the observation form protects by omission—three fields only—because here even a compassionate extra column would become a census of the forgotten.
+
+**Unit 5 — Vanity Asleep `N-IIIγ-954`: HELD.** Nine supported repairs (5 short / 4 careful; 7160→7128 words) make movement, combat, consequences, flavor, field use and Final Observation obey the never-woken / turn-away / corridor-report protocol instead of direct reflections, shards or waking. Weapon naming, origin fork, gaze binding, breach/aggression and thresholds remain held. Batch 127 already counted the set inside the legacy baseline: +0/+0/+0. Five checks PASS. [Evidence](SE_APPEARANCE_REVIEWS/B180_05_VANITY_ASLEEP.md).
+
+**Commentary:** The cruelty here is administrative kindness: abolishing the label protects workers, then leaves them managed by a sentence they cannot read or appeal. The template book is the perfect meter for it—an exact millimetre series measuring a fact the institution refuses to make exact for the person living under it.
+
+**Closure gate: PASS.** All five dossiers remain HELD. Fresh checks are 25/25 validators, 54/54 tests, and archive/timeline/seam/box audits PASS. Thirty-nine exact repairs (22 short / 17 careful; 35,582→35,689 words) reconstruct the finals from opening `9695f8f`. The 296 unselected primaries, five reserves, all Physical Form rows, Tales file and 35 fingerprinted sources are unchanged. Digit sequences are unchanged in three units; Spreading Root's corrected cross-reference IDs and Soaking Rope's explicit “threshold 4” are disclosed intentional digit differences. No change 0/5, so no 5→7 extension. Counters unchanged: 268/301 Types, 266/287 Weapon, 18/301 SE; held 161 / pending 120. [Close report](SE_APPEARANCE_REVIEWS/B180_CLOSE.md).
+
+Next pending candidates, not selected or authorized: Homecoming Tree `C-Iα-869`, Grimoire `C-IIβ-906`, Sky of Borrowed Faces `O-IIIγ-926`, The Echo Compass `C-IIIβ-016`, Harbinger `N-IIIβ-155`. Batch 181 requires new owner authorization and a fresh ranking. Chatroom reporting follows R-31 Compact Report v2. Draft PR #15 stays owner-controlled. No merge, artwork or deployment is authorized. Later full recheck and the Batch301 eight-owner-body blocker remain retained.
+
+
+## Batch 179 — CLOSED 5 / 5 (2026-10-25)
+
+All five frozen reviews are HELD after supported repairs: Mourning a Life I Never Lived, Hollow Tree, Wilderness Tide, The Wrath Flame and Drowned Roots. Thirty-three repairs in total (23 batch-short / 10 careful-detail), words 35,293 → 37,040, and No change 0/5, so the 5→7→10 ladder was not triggered and the batch stops at five. Fresh closure checks pass 25/25, unit tests 54/54, and the archive, timeline, seam and box-symmetry audits pass. The 296 unselected primaries, five reserves, all 301 Physical Form rows, all five Tales, every digit sequence and all 31 distinct fingerprinted sources are unchanged.
+
+Equipment coverage moves only on Wilderness Tide's fresh history proof: +1 Types, +0 Weapon (its Side-only 1/1 set sits outside the 287 paired Weapon scope). Hollow Tree, The Wrath Flame and Drowned Roots were already counted by Batches 77/78+113, 101 and 139 respectively and add zero. SE Appearance Fix adds zero because all five whole designs remain HELD. Counters: 268/301 Types, 266/287 Weapon, 18/301 SE; held 156 / pending 125. [Close report](SE_APPEARANCE_REVIEWS/B179_CLOSE.md).
+
+Batch 180 requires new owner authorization and a fresh pending-only ranking; shortest pending now are Spreading Root `O-IVδ-693`, Soaking Rope `N-Iα-316`, Unheard `C-Iα-965`, Forgotten Shadow `N-IIβ-453`, Vanity Asleep `N-IIIγ-954` — recorded, not selected. Draft PR #15 stays owner-controlled; never auto-merge. Later full recheck backlog and Batch301 eight-owner-body blocker retained. No merge, artwork or deployment.
+
+
+## Batch 179 — OPEN 5 / 5: Drowned Roots; closure gate next (2026-10-25)
+
+Seven supported repairs replace generic exposure and extraction boilerplate with the fury-then-emptiness course and one-way piece tolls, give both movement fields the file's own four-root-limb walk, scope breach movement to covered faces, replace slamming-door flavor with the reaching tell and reopened market, separate face, struck name, limbs and growing count in Appearance, and split the field-use first signs by piece.
+
+**Commentary:** The Fourth Column is this archive's coldest invention: a place to write the act down that was engineered, for defensible reasons, to change nothing. The branch count set against a Service Office line works because the arithmetic never quite closes — you can feel the file refusing to turn a man into a rate. And "confirm the name is present, never transcribe it" is the one archival rule here that sounds like mercy.
+
+Whole design HELD. Seven repairs: 5 short / 2 careful; LC_ALL=C words 7072 → 7338. Complete before/source/history/final readings and five checks PASS. Batch 139 already counted this pair inside the legacy baseline: +0 Types / +0 Weapon / +0 SE. Source fingerprints, 300 unselected primaries, 301 Physical Form rows, digit sequences and Tale unchanged. [Unit evidence](SE_APPEARANCE_REVIEWS/B179_05_DROWNED_ROOTS.md).
+
+All five frozen units complete. No change 0/5; no 5→7 extension is triggered. Batch remains OPEN until the closure gate (fresh 25 validations, tests, four audits, close receipts, ledger history) is shipped. Counters 268/301 Types, 266/287 Weapon, 18/301 SE. Held 156 / pending 125. Later full recheck and Batch301 eight-owner-body blocker retained. No 180, merge, artwork or deployment.
+
+
+## Batch 179 — OPEN 4 / 5: The Wrath Flame (2026-10-25)
+
+Six supported repairs scope directed heat to the gesture-maker, remove the cell ending from a holding that has never had one, keep spreading anger with people rather than roaming fire, replace cell-and-door flavor with the open Scar ground, separate the three piece tolls in the Field Use Record, and distinguish figure, beating core, route and halt in Appearance.
+
+**Commentary:** The hazard-briefing device is the most honest piece of bureaucracy in this file: a memorial in everything but standing, which cut incidents because people read the dead before crossing their ground. I trust the joint book — salutes longer than incidents — more than the combat table, and the halt warning is the rare monster tell that gets more frightening the longer nothing moves.
+
+Whole design HELD. Six repairs: 4 short / 2 careful; LC_ALL=C words 7069 → 7414. Complete before/source/history/final readings and five checks PASS. Exact set is SE-1012; numeric SE-120 is Redcage and was not borrowed. Batch 101 already counted this pair: +0 Types / +0 Weapon / +0 SE. Source fingerprints, 300 unselected primaries, 301 Physical Form rows, digit sequences and Tale unchanged. [Unit evidence](SE_APPEARANCE_REVIEWS/B179_04_THE_WRATH_FLAME.md).
+
+One frozen unit pending: DrownedRoots997. No change 0/4; minimum five remains, do not close below five or start 180. Counters 268/301 Types, 266/287 Weapon, 18/301 SE. Held 155 / pending 126. Later full recheck and Batch301 eight-owner-body blocker retained. No merge, artwork or deployment.
+
+
+## Batch 179 — OPEN 3 / 5: Wilderness Tide (2026-10-25)
+
+Six supported repairs clear the file's sole seam hit, ground the combat consequences in the Long Surge catalogue entry, align the clash phase with endurance and observation, label the wall-failure fields as an unrecorded contingency, separate surge front, wild source, dissolved contents and residue in Appearance, and record the Side-only no-extraction registry against the present item files and Wild Mark without authorising any piece.
+
+**Commentary:** This is the rare holding where the bravest sentence in the file is that nothing happened. I believe the Rangers' version of heroism — logs, lamps and cleared drifts — more than the combat table's vines, because the chronicle never needs the Tide to attack for the pressure to matter. The sighting after the Long Surge works precisely because the file leaves it as one tired sergeant's oath instead of promoting it into a face.
+
+Whole design HELD. Six repairs: 4 short / 2 careful; LC_ALL=C words 7063 → 7445. Complete before/source/history/final readings and five checks PASS. Source fingerprints, 300 unselected primaries, 301 Physical Form rows, digit sequences and Tale unchanged. Fresh all-type disposition: +1 Types / +0 Weapon / +0 SE. [Unit evidence](SE_APPEARANCE_REVIEWS/B179_03_WILDERNESS_TIDE.md).
+
+Two frozen units pending: WrathFlame120, DrownedRoots997. No change 0/3; minimum five remains, do not close below five or start 180. Counters 268/301 Types, 266/287 Weapon, 18/301 SE. Held 154 / pending 127. Later full recheck and Batch301 eight-owner-body blocker retained. No merge, artwork or deployment.
+
+
+## Batch 179 — OPEN 2 / 5: Hollow Tree (2026-10-25)
+
+Five supported repairs replace the generic creature-gait list with found root-leg relocations, mark the prohibited Work response as prohibited in the combat summary, replace Tide growth with the measured widening quiet, separate shell, cavity, quiet and standing figure in Appearance, and record the Weapon, Carapace and Gullet costs separately in field use.
+
+**Commentary:** What stays with me is that the most useful act here is refusing a use. The bare chamber could read as neglect, but the file makes it disciplined care: feed the hollow a purpose and it deepens. I also trust the garden crews in this record more than the gauges, because they noticed the silence with their own ears first and kept noticing in an unofficial log nobody ordered them to keep.
+
+Whole design HELD. Five repairs: 3 short / 2 careful; LC_ALL=C words 7062 → 7493. Complete before/source/history/final readings and five checks PASS. Source fingerprints, 300 unselected primaries, 301 Physical Form rows, digit sequences and Tale unchanged. B77/B78 and B113 already credited this equipment; +0 Types / +0 Weapon / +0 SE. [Unit evidence](SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md).
+
+Three frozen units pending: WildernessTide003, WrathFlame120, DrownedRoots997. No change 0/2; minimum five remains, do not close below five or start 180. Counters 267/301 Types, 266/287 Weapon, 18/301 SE unchanged. Held 153 / pending 128. Later full recheck and Batch301 eight-owner-body blocker retained. Session continued after a break: PR14 closed not merged with its head already on NON-WIKI (see PR_14_NEVER_MERGED.md); continuation travels on draft PR15 to NON-WIKI. No merge, artwork or deployment.
+
+
 ## Batch 179 — OPEN 1 / 5: Mourning a Life I Never Lived (2026-10-22)
 
 Nine supported repairs replace unspecified creature gaits with documented low tendril flow, restore movement information in two pasted-form fields, align activation with Place-Grudge, distinguish floor exposure from unrecorded planting inside personnel, replace generic landscape/surge claims with measured intention-driven growth and its conditional actions, explain the source-body boundary, and separate all three equipment costs in field records.

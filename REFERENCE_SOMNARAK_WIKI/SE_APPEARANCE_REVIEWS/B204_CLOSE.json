@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "batch": 204,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 82,
+  "short_repairs": 26,
+  "careful_repairs": 56,
+  "before_words": 47984,
+  "after_words": 49785,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 0,
+  "pending_fingerprints_unchanged": 0,
+  "source_changes": 0,
+  "cited_sources_checked": 20,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "table_blocks_equal_cell_counts": "5/5 primaries",
+  "combat_trigger_cells_parsed": "25/25",
+  "final_words": {
+    "C-IIβ-170": 9587,
+    "N-IIIβ-156": 9752,
+    "C-IVβ-042": 9897,
+    "C-Vδ-002": 10215,
+    "C-IVγ-176": 10334
+  },
+  "counters": {
+    "types": "286/301",
+    "weapon": "284/287",
+    "se_appearance_fix": "18/301"
+  },
+  "fresh_credits": [],
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 281,
+    "blocked": 2,
+    "pending": 0
+  },
+  "next": "No dossiers remain pending. The remaining programme is the full recheck/fix pass over dossiers reviewed before R-34 (not retroactively R-34-certified), under fresh owner authorisation and ranking. Draft PR #15 remains open under owner control; no merge, artwork or deployment is authorised."
+}

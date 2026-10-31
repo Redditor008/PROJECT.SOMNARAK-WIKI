@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — A single tear frozen into dark blue crystal the size of a fist, suspended and still. Against all sense it is warm, not cold. Salt-damp, it smells of cold rain on old cloth; held too long, it begins to weep real tears. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Stationary — suspended without support in its case and unmoved in the whole record. What moves is the field edge: 4.1, 5.6 and 7.2 metres across three annual surveys. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -80,10 +80,10 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Suspended Drop* [**Debuff**] } | "A tear hangs in the air — frozen mid-fall, never reaching the ground, never finishing its grief." | [The Tear's suspended sorrow presses on the target; they feel the incomplete release.] | *Target suffers -10 Composure; the grief cannot finish.* **[10 Lament DMG [Lament]]** | When the target sees the Tear. |
-| { *The Crystal Memory* [**Debuff**] } | "Inside the frozen tear, you can see a memory — preserved, perfect, and absolutely cold." | [The Tear's interior shows the target a frozen grief; they absorb it.] | *Target loses 10 Composure; the preserved sorrow is theirs now.* **[10 Lament DMG [Lament]]** | When the target looks into the Tear. |
-| { *The Ice Needle* [**Attack**] } | "The tear sharpens to a point — and the point is aimed at your heart." | [The frozen tear becomes a projectile.] | *Inflicts Lament pressure and one cold, precise piercing.* **[14-22 Lament DMG [Lament]]** | When the Tear is struck. |
-| { *The Thaw* [**Attack**] } | "The thaw, once — not by warming but by breaking, and the grief of ten years leaves in a single movement." | [The Tear's preserved grief is released whole on the target rather than dispersed.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%, and the release is not repeatable within the same watch.* **[24-36 Lament DMG [Lament]]** | When the Tear is warmed, or when the case is opened. |
-| { *The Frozen Rain* [**Ultimate**] } | "Every surface in the Gardens takes a rime at once, and the field goes out past its pegs." | [The Tear multiplies its field across the whole area, and the edge is no longer where it was pegged.] | *All in range suffer Lament pressure for three turns of frozen rain; the radius is walked and re-pegged before anything else is recorded.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Crystal Memory* [**Debuff**] } | "Inside the frozen tear there is no memory to watch and nothing cold to read — if it is cold, it is not this. What the crystal holds is warm, and what it shows is yours." | [Looking in surfaces the viewer's own unwept grief; the holding produces permission, not pictures.] | *Target loses 10 Composure; the sorrow that surfaces was already theirs.* **[10 Lament DMG [Lament]]** | When the target looks into the Tear. |
+| { *The Ice Needle* [**Attack**] } | "It does not sharpen, aim or fly — nothing here has ever been struck, and in the whole record it has never been touched. The point, if there is one, is in the sitter." | [Duration does the work: a long sitting dissolves first the composure, then the distance between the sitter and the grief.] | *Inflicts Lament pressure, precise as a needle because it is specific to the person it found.* **[14-22 Lament DMG [Lament]]** | When the sitting outlasts the sitter. |
+| { *The Thaw* [**Attack**] } | "The thaw, once — not by warming, which the Gardens have tried across the full range without moving it a degree, but by contact, which is the one thing never authorised here." | [It has never happened under authority; the two unauthorised accounts describe the originator's grief arriving entire, in a volume greater than the crystal.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%, and the release is not repeatable within the same watch.* **[24-36 Lament DMG [Lament]]** | On contact — which no authority here has ever granted. |
+| { *The Frozen Rain* [**Ultimate**] } | "Nothing takes a rime and nothing freezes; the crystal is warm and stays warm. What happens is quieter: the field goes out past its pegs, as it did twice while the First Tear was in the sector, to the Gardens wall." | [The edge is no longer where it was pegged; it is walked and re-pegged daily for the duration.] | *All in range suffer Lament pressure for three turns inside the widened permission; the radius is walked and re-pegged before anything else is recorded.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -117,7 +117,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A fist-sized drop of dark blue crystal, suspended without support, lit faintly from inside and warm to a cloth. |
-| **Position / movement** | Stationary — a body or drop of liquid. The Frozen Tear file carries the series rather than a single reading. |
+| **Position / movement** | Suspended and still in its case; the file carries the field-edge series rather than a single reading, and the edge is further out every year. |
 | **Material / signature** | Lament. Dark blue crystal, salt-damp to the cloth, cold rain on old cloth, a faint internal light best read at night. |
 | **Distinctive markers** | Warmth without a source, light without variation, and a field edge that is further out every year. |
 | **Identification** | If it is cold, it is not this. Everything about this holding is the wrong way round and the warmth is the first of it. |
@@ -150,9 +150,9 @@ Two rows of this table are blank by rule rather than by result, and the two that
 **Reading the response:** The decreasing row here is not a treatment and does not look like one. Sitting inside the field without reaching produces the fall, and what it produces in the sitter is the permission to be distressed without it being read as a failure of composure — the thing the Works Office rules forbid anybody at this Company to offer. A stable gauge under Viderehan is the correct reading and the one the file keeps: the moment itself is a room, a sill, a face that has stopped trying, and it does not move anything. Four readings are taken each watch and three of them have never moved in thirty years — the glow against the night card, the warmth through cloth, the outline against the opening drawing. Only the field edge moves, and where the entity reacts outside this table the reaction is data: preserve it before the next cycle and log it before the next assignment.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic permits grief to be visible inside its radius without consequence. It does not soothe, suppress or treat.**
+> **This Relic is never touched, under any authority. The prohibition is the containment.**
+> **Contact delivers the originator's grief entire. Proximity only surfaces your own.**
 
 **Activation Trigger:** None. Being inside the field is sufficient and nothing need be done at all.
 
@@ -167,7 +167,7 @@ Two rows of this table are blank by rule rather than by result, and the two that
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Proximity only; nothing is equipped, mounted or carried.** The carrying profile for this class is theoretical and has never been authorised as a trial. |
 | **Activation** | None. Proximity alone. |
 | **Primary Effect** | A radius in which grief is permitted to be visible without consequence. |
 | **Duration** | While the person remains, plus a short carry-over. |
@@ -180,10 +180,10 @@ Two rows of this table are blank by rule rather than by result, and the two that
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Nothing moves in the case until an operative takes the Tear up; on contact the Lament in it settles onto the bearer's pulse and stays level there. | Taking it up opens the quiet field the Tear was cut for — distress can be set down inside it — and grants +10% Lament resistance while it is carried. |
-| 30 Seconds | The Tear came out of a grief that could not cry despite having lost everything. The bearer starts hearing a mourner's first and only tear, stopped before it ever fell. | The operative works faster and more sharply than the relay does; composure is the price, and it begins being paid here without announcing itself. |
-| 1 Minute | At the minute mark the Tear is drawing on the bearer directly, and their breathing has fallen into step with the grief the sitting was built around. | Held past 60 seconds the toll is 5 Lament every 15 seconds, and the watch posts itself for one sign: the operative no longer able to describe the case they are sitting beside. |
-| 2 Minutes | Past two minutes the bearer is not sitting with the grief any more; they are the one it belongs to, and the line between the operative and that first mourner stops holding. | Past two minutes, or a break of contact before the sitting closes, the bearer panics outright; the remainder of the cell stands — direct touch may overwhelm the visitor with the original grief. |
+| 10 Seconds | Nothing moves in the case and nothing is taken up — no authorised worker has touched it in the whole record, and the profile that assumes an operative carrying it is flagged theoretical. | Take the four readings in order: radius, glow, warmth through cloth, outline against the drawing. Inside the field distress may simply be set down; no resistance is granted to anybody, and the bench is not an instrument. |
+| 30 Seconds | The Tear came out of a grief that could not cry despite having lost everything. A sitter starts hearing a mourner's first and only tear, stopped before it ever fell. | Nothing is relayed and nobody works faster here. What surfaces is the sitter's own unwept grief, and it is left alone — no name is taken, nothing about the bench is written down, and composure is not corrected. |
+| 1 Minute | At the minute mark a sitting has usually settled: breathing slows into the room's pace, and the sitter is no longer performing composure for anybody. | No toll accrues and nothing is drawn from the sitter. The Warden's own rotation is thirty minutes and applies to the post, expressly not to anybody on the bench; the watch is for the four readings, not for signs in a visitor. |
+| 2 Minutes | Past two minutes nothing new begins — duration is the whole mechanism. A long sitting dissolves the distance between a person and the grief they brought, which is what the bench is for. | Nobody panics on schedule and no contact is broken, because no contact is made. The one line that must not blur belongs to equipment bearers, who are watched for recounting the originator's loss in first person; that is an Armoury return, not a bench record. |
 
 ### Escalation Notes
 
@@ -334,13 +334,13 @@ The warmth is what everybody mentions first. The weeping is second-hand: the onl
 
 ## 감각 묘사 (Flavor Text)
 
-The Tear is smaller than a raindrop and looks like a jewel. You sit beside it and feel the temperature of a grief that could not fall. Nothing moves. Nothing asks you to speak. The frozen sorrow remains, honest because it has never pretended to be finished.
+The Tear is the size of a fist and looks like a jewel. You sit beside it and feel the temperature of a grief that could not fall — warm, against all sense, like a held coin. Nothing moves. Nothing asks you to speak. The frozen sorrow remains, honest because it has never pretended to be finished.
 
 
 
 **At first contact:** A bead of dark blue glass on a plinth, smaller than expected, with a bench in front of it and somebody on the bench. The warmth is the detail that fixes it — a hand through cloth meets something like a held coin, in a case the Gardens keep at ambient and have never heated.
 
-**With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
+**With continued exposure:** Nothing develops a rhythm. The glow, the warmth and the outline read exactly as they read an hour ago, and a year ago; the only thing that changes across a sitting is how long a person can stay in the room with their own grief without being corrected for it.
 
 **When the entity activates:** No gesture opens the field. Inside its radius, a grief the visitor already carries can be present without being corrected or explained. The warmth and light stay as they were; the watch checks them against the cloth and night card rather than treating a sitter’s tears as an instrument reading. Nothing at the bench is entered in that record. The warning belongs at the case: the field permits grief at a distance, but contact delivers the originator’s whole loss.
 

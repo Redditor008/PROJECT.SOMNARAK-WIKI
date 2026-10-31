@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | δ · δ (Critical) |
+| **Tool / M.A.W. grade** | δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Flerehan and Ferrehan, walked alongside. Pugnahan adds the worker's anger to the entity's mass and is prohibited outside a containment event. |
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | Lead-slow — an old man's pace on a straight run, unvarying in direction; it has never pursued and cannot catch anybody walking away from it. The rate on this record is the traverse count, about 600 a season against the chalk tally. |
 | **Resistance** | 45% against Weight pressure; 35% against other pressure types — and on this holding the second figure is untested, because nothing here has ever needed to resist anything but the floor giving way. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 600/600 |
@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Gray* [**Debuff**] } | "A strand of your hair goes gray — and the years begin to show all at once." | [The Years press; the target ages visibly in moments.] | *Target suffers -10 Resolve as time bears down.* **[10 Weight DMG [Weight]]** | When the Years settle on the target. |
-| { *The Long Memory* [**Debuff**] } | "Decades settle on your shoulders — and you remember things that have not happened to you yet." | [The accumulated years weigh heavier; the target feels old beyond their life.] | *Target loses 10 Resolve; the weight of time is immense.* **[10 Weight DMG [Weight]]** | When the target remains under the Years. |
-| { *The Aching Joint* [**Attack**] } | "Age, made into pain, strikes all at once." | [The Years convert time directly into bodily ache.] | *Inflicts Weight pressure and one wound of sudden age.* **[14-22 Weight DMG [Weight]]** | When the Years are roused. |
+| { *The First Gray* [**Debuff**] } | "Nothing about the target ages. The figure gains a year with every step it takes, and the first thing the suits report is load — at the door, before the figure is in view." | [The Years press as mass, not as time applied to a person; Resolve depletes first and the present thins with it.] | *Target suffers -10 Resolve as the suit load bears down.* **[10 Weight DMG [Weight]]** | On entering the long chamber. |
+| { *The Long Memory* [**Debuff**] } | "Decades settle on your shoulders — and past about four hours the present stops holding: asked the date at the gate, a long-watch worker answers from the song." | [The accumulated years weigh heavier; the worker carries centuries of responsibility at once and none of it is theirs.] | *Target loses 10 Resolve; inherited weight is not personal guilt and feels identical from inside.* **[10 Weight DMG [Weight]]** | When the target remains in the chamber. |
+| { *The Aching Joint* [**Attack**] } | "Age is not converted into anything. The pulse is radial and indifferent: floors buckle, walls bow inward, and what injures people is structure coming down." | [Mass transfers rather than ruptures; breathing becomes lifting, and personnel two corridors out report the same sensation at a third of the strength.] | *Inflicts Weight pressure; the ache is load carried in the joints.* **[14-22 Weight DMG [Weight]]** | During a pulse — shoring crews stand to; nobody is struck at. |
 | { *The Lifetime* [**Attack**] } | “It hands you a whole life's weight in one instant, and it is not a metaphor about your life.” | [The mass it has accumulated across a hundred and thirty years is set down on the target at once.] | *A crushing Weight blow; the target's Sorrow Gauge surges 15% as the present goes thin.* **[24-36 Weight DMG [Weight]]** | When the run is blocked or the figure is cornered. |
 | { *The Century* [**Ultimate**] } | “A hundred years, for everyone, now — the list read all at once instead of one line at a time.” | [The opening list is discharged into the room as pressure rather than as reading.] | *All personnel take Weight pressure for three turns under the accumulated years.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -162,7 +162,7 @@ The table is short because the holding is: Flerehan softens the chronology witho
 ### Escalation Notes
 
 - **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-A-01, Alpha Tree deep storage turns and the turning spreads within it; floors buckle, walls bow inward, and every step in the sector costs what three should.
-- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
+- **Containment priority:** Structural, not confrontational: shoring crews under the weight-discipline doctrine keep the structure standing and let the pulse run — get the shoring in and let it finish. The Years Maul is carried by the shoring lead; Pugnahan only adds the worker's anger to the mass.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and rises faster in the weeks either side of an opening date.
 
 ## M.A.W. Equipment
@@ -301,7 +301,7 @@ An ancient figure crosses the vault, dragging years behind it like chains. Dates
 
 **With continued exposure:** The chamber stops reading as a room and starts reading as a duration: chalk at the end wall, the tally transcribed at handover, the load on the suits before the figure has resolved out of the far end. Nothing in it is still and nothing in it is in a hurry. The run is surveyed, the pace is the pace, and the only thing that moves is the thing that was already moving before anybody in a suit was born.
 
-**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Weight pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.
+**When the entity activates:** It does not leave the run. The figure pulses where it stands, the walls crack around it, and every step in the sector costs what three should — the change is in the building's readings before it is in anybody's account.
 
 **After departure:** The door seals and the pressure comes off the suits by degrees, but part of the holding goes home with the watch: Weight in the suit fibres, in the memory, and in the space between thoughts where Fracture begins. Asked the date at the gate, a long-watch worker answers from the song.
 
@@ -443,7 +443,7 @@ Three standing instructions govern the reading. Do not stop before the end; a pa
 - **Field detail:** Weight is the element it presents, and registration pins it to SECTOR-A-01 in the Alpha Tree's deep storage, where the long chamber was rebuilt from a square room into a straight run so that a body made of accumulated years would never have to turn.
 - **Recognition detail:** A bowed figure under fused slabs, calendars and city records, walking a straight line at the pace of an old man, singing years in order.
 - **Record detail:** The Registrum rated the entity Low on a Critical (δ) line and stated that the figure does not move or speak, against a file in which it walks continuously and sings; both are corrected. The event rows claiming indiscriminate hunting are corrected against the Pulsing in Place doctrine, which the Apex Record settled years ago and which the event table had never been brought into line with. The Origin and Entry 5 paragraphs carried a Collector story belonging to another holding, twice, with a duplicated heading inside one of them. The Apex Record, the traverse tally, the long chamber and the parallel record-office log are preserved and extended.
-- **Containment detail:** Containment holds the body and the chamber, not the schedule. Even sealed, the holding alters the local Han field: adjacent personnel report dreams, headaches and gauge drift, and crews two corridors out report the same sensation at a third of the strength. The readings the file actually runs on are the chalk tally at the end wall and the load the suits report at the door.
+- **Containment detail:** Containment holds the body and the chamber, not the schedule. The readings the file actually runs on are the chalk tally at the end wall, the load the suits report at the door, and two listeners' unreconciled date sheets; crews two corridors out report the pulse at a third of the strength.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-220

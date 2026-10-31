@@ -1,0 +1,119 @@
+{
+  "designation": "N-IIβ-033",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md",
+  "words": 7587,
+  "sha256": "78516f367a64e620b500ff378532ba119ea407364e6380816960244afaea353b",
+  "unit": 4,
+  "name": "Forgotten Soldier",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_04_FORGOTTEN_SOLDIER.md",
+  "before_words": 7587,
+  "after_words": 7705,
+  "base": "43f88bffde3c6f82ad1f5c988d44f99548af21c8",
+  "final_sha256": "4692bd586c6cb9f829b93f084ef8125531e5ac3c1d6da381585bc30dcef48b30",
+  "summary": "Two supported repairs (1 short / 1 careful) stand this soldier back at his post. Rows 1–3 drop the radiating phantom regiment, the medal chest and the bayonet charge: they now run on an unvarying facing, the sixteen-day interval read off the watch book, directed words that record nothing, and damage that lands on doors because he has never struck first. One Consequences line becomes the same interval, measured at every review. HELD; +0/+0/+0.",
+  "commentary": "An order to remember is a roster entry, and he has had enough of those. Eleven weeks of total compliance, zero gauge response, five days off the interval that never came back — the most expensive sentence in the wing is one nobody is allowed to require.",
+  "reasoning": "R-33 chain: Subject / Echo-II / Moderate-β / Inner Sorrow → twenty years of closed-posting service, correctly recorded and lawfully unnameable under an instrument protecting fifty-eight living names → a half-phased warrior standing eighteen hours at attention facing an abolished boundary, weaponless until provoked → work is standing the interval with him (Flerehan/Ferrehan); acknowledgement works only when undirected, and the standing instructions deliberately omit it → failure is the third unacknowledged watch, after which he walks to the nearest doorway on the old bearing and stands in it. Rows may not charge him, radiate duty, or hang medals on a man the rolls cannot name; strata stay HELD.",
+  "history": "Batch 132 unit 2 (d2209626) performed the careful review — restoring the Duty Blade Stigma identity over a stray Duty Charm label, adding selected-target-only targeting, Fang prolonged-use/return, Plate attribution and Stigma borrowed-history controls — against set SE-1005 (Registry rows 182–185), explicitly not the suffix set SE-033 (The Guarding Bird) nor the same-named SE-073 pieces (The Hollow Knight). The full-SE disposition and exact pair are in the baseline: Batch 188 earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Piece-name collision kept distinct: this set's Duty Fang/Plate (SE-1005) share titles with SE-073's (The Hollow Knight); neither record authorises joining them, and the Registry disposes no Weapon numbers (Variable / - / -).",
+    "Stigma slot fork: primary Tail / 5% / +1 unnamed stat versus the Registry's generic Accessory / 5%; the stat stays unnamed. The directed-word limit stands over every item's acknowledgement language — none of the item requirements makes an ordered acknowledgement effective.",
+    "Strata preserved: the Tale's Occlusihan war-revision account against the operational file's Year 4164 closed-posting instrument; and the Orphaned Bell / Hollow Choir interval resets — two cases of non-person acknowledgement, one involving his name spoken and formally notified each time. Unresolved, unreconciled."
+  ],
+  "split": [
+    1,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "combat_first_three",
+      "kind": "careful",
+      "careful": true,
+      "old": "| { *The Phantom March* [**Debuff**] } | \"Boots on stone — a regiment that no one remembers — and the soldier is at the head, still fighting a war no one recalls.\" | [The Soldier's forgotten duty radiates; the target feels the weight of purposeless service.] | *Target suffers -10 Resilience; they are fighting for nothing.* **[10 Grudge DMG [Grudge]]** | When the target encounters the Soldier. |\n| { *The Lost Medal* [**Debuff**] } | \"The soldier's chest is full of commendations — every one from a war that has been erased from history.\" | [The Soldier's unacknowledged service presses; the target feels their own efforts going unnoticed.] | *Target loses 10 Resilience; nothing they do will be remembered.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |\n| { *The Bayonet* [**Attack**] } | \"The soldier charges — bayonet fixed — still fighting the enemy that no longer exists.\" | [A desperate, purposeless bayonet-thrust.] | *Inflicts Grudge pressure and one wound of forgotten valor.* **[14-22 Grudge DMG [Grudge]]** | When the Soldier is challenged. |",
+      "new": "| { *The Phantom March* [**Debuff**] } | \"Eighteen hours at attention, six on the route, and the facing has never varied: toward a boundary line that is no longer anybody's responsibility.\" | [Nothing radiates. Read the interval since the last undirected acknowledgement from the top of the watch book's current page — sixteen days at the last return.] | *-10 Resilience in whoever has just worked out that they are allowed to speak and that nobody will record whether they did.* **[10 Grudge DMG [Grudge]]** | When a worker comes round the corner and finds him already at attention, not looking at them. |\n| { *The Lost Medal* [**Debuff**] } | \"No medals, no memorial, no pension: service cannot be confirmed — not denied, not disputed, unconfirmable.\" | [His record is complete, accurate and sealed in a cabinet two districts away, and the acknowledgement he waits for is unlawful rather than missing.] | *-10 Resilience; directed words record nothing, which was established by trial rather than by argument.* **[10 Grudge DMG [Grudge]]** | When the words are read off an instruction instead of meant. |\n| { *The Bayonet* [**Attack**] } | \"He has never struck first. Deliberate ignoring counts as provocation, and the watch book says so in its first line.\" | [No charge and no enemy: confrontation satisfies rather than defeats him, and he stops at acknowledgement, mid-exchange, whatever the state of either side.] | *Grudge pressure lands on doors and load-bearing frames; the yield halves and the corridor is refurnished at the wing's expense.* **[14-22 Grudge DMG [Grudge]]** | When somebody starts a fight, or the third unacknowledged watch runs out. |"
+    },
+    {
+      "id": "consequence_first_bullet",
+      "kind": "short",
+      "careful": false,
+      "old": "- A failed resistance check puts the sorrow into the worker instead of the corridor: **Resilience** breaks, the gauge climbs, and the watch book carries the entry.",
+      "new": "- Resistance fails as silence kept one watch too long: three unacknowledged watches arm the third-failure condition, **Resilience** is spent standing a post beside a man doing the same, and the interval — 31 days, then 22, now 16 — is the figure the review re-measures."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.021  clean   619 grams  Combat Record\n 0.020  clean   101 grams  Operational Parameters\n 0.014  clean   701 grams  M.A.W. Equipment\n 0.008  clean   256 grams  이야기 보고 (Story Log)\n 0.000  clean  1021 grams  Watch Record\n 0.000  clean   687 grams  감각 묘사 (Flavor Text)\n 0.000  clean   354 grams  이야기 (Narratio)\n 0.000  clean   339 grams  관찰 기록 (Observation Log)\n 0.000  clean   281 grams  Behavior\n 0.000  clean   280 grams  Origin\n 0.000  clean   270 grams  기록 (Registrum)\n 0.000  clean   185 grams  Appearance\n 0.000  clean   146 grams  Trivia\n 0.000  clean   116 grams  Breach Behavior\n 0.000  clean    88 grams  최종 관찰 (Final Observation)\n 0.000  clean    63 grams  SECC Classification\n 0.000  clean    44 grams  증언 (Testimonium)\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Grudge pressure, 15% against other pressure types — read at the corridor mouth; the plate has never\n   84   4  | { *The Last Stand* [**Attack**] } | \"The soldier makes a final stand — for a cause that no one living can name — and the stand i\n   85   7  | { *The Forgotten Army* [**Ultimate**] } | \"Every man the schedule erased is standing again — all of them still at their posts — \n   91   1  3. **Resolution:** The session closes with containment, management, retreat, or the documented suppression condition: **Say: “I re\n  184   2  **Appearance:** a fang-curved blade of Grudge Han-iron, cold off the flat and faintly warm in the hand, that hums while it is bein\n  194   2  **Ability:** Deals Grudge damage against the Body (physical form, structural integrity), channeling the signature the schedule sea\n  198   2  **Fang return check:** Its individual record adds faint bruising under prolonged use and identifies speaking of the Soldier’s even\n  204   1  **Appearance:** a plated harness of Grudge Han-iron, cold off the plate he wears and faintly warm once strapped on, smelling of ol\n  236   2  **Stigma record:** The Blade’s individual entry binds its bearer to the named source event and the acknowledgement condition. It w\n  246   1  | **Before use** | Wielder, piece, and a dated baseline taken at the corridor mouth; the toll on file for this set is that the wie\n  247   1  | **During use** | The first sign that the piece is charging is the wielder's old wounds, logged with the hour by the second worke\n  248   1  | **At limit** | The wielder stops noticing anything at all: the dulling arrives without the ache, and the first person to see it \n  283   2  Forgotten Soldier (N-IIβ-033 [GS]) is carried on the wing's register as a Subject-Phantasmal manifestation expressing Grudge, stan\nGENERIC 0.005  (29 shared shingles)  SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1005_The_Forgotten_Soldier/SE-1005-A__SIDE_CODEX_The_Forgotten_Soldier.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1005_The_Forgotten_Soldier/SE-1005-B__MAW-W_The_Duty_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1005_The_Forgotten_Soldier/SE-1005-C__MAW-S_The_Duty_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1005_The_Forgotten_Soldier/SE-1005-D__MAW-G_The_Duty_Blade.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1005_The_Forgotten_Soldier/SE-1005-A__SIDE_CODEX_The_Forgotten_Soldier.md": "e06cc3e20857292852aae9886d04898376c0b3f8662b242bdadbfd0d587d8a47",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1005_The_Forgotten_Soldier/SE-1005-B__MAW-W_The_Duty_Fang.md": "edd8344ba782da91cb987fc3563a247dd9fd14f9b9aa32f85ec89c55824355fe",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1005_The_Forgotten_Soldier/SE-1005-C__MAW-S_The_Duty_Plate.md": "50266ef7a8c5facb851b27c3bb486a1b1b69f1429315bfcc49d362f315421aba",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1005_The_Forgotten_Soldier/SE-1005-D__MAW-G_The_Duty_Blade.md": "4985a7de6244bd388a84b3cfdc16c9bb3a7cbea2da92d4c75e8d683203efc5d1",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-033_Forgotten_Soldier_%EC%9E%8A%ED%98%80%EC%A7%84_%EB%B3%91%EC%82%AC.md \"SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md\")]",
+  "table_link": "[Forgotten Soldier](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-033_Forgotten_Soldier_%EC%9E%8A%ED%98%80%EC%A7%84_%EB%B3%91%EC%82%AC.md \"SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md\")",
+  "reading": {
+    "before_lines": 454,
+    "before_bytes": 46345,
+    "final_lines": 454,
+    "final_bytes": 47041
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 81,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": ""
+  }
+}

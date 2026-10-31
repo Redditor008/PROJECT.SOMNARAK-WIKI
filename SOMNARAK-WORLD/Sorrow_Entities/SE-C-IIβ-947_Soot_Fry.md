@@ -42,7 +42,7 @@
 - A hand or line entering the puddle is the activation condition. There is no counter and no gradual approach to it.
 - Work steadies Resolve among personnel at the bank. It does not alter the puddle, and the surface is unchanged by a successful cycle.
 - Crews are briefed that the impulse to test the depth by hand is the entity acting, and that lines are introduced only under explicit instruction.
-- Recovery is authorized separately and is never an outcome of a routine shift.
+- No routine shift may issue a feed. Since the fifty-ninth year an issue requires a signature at Directorate level, and the standing ration no longer exists to be issued.
 
 ## Combat Record
 ### Core Stat Line
@@ -134,7 +134,7 @@
 | **Distinctive markers** | The single black eye; the size-mismatch (huge fish, tiny puddle); the bottomless feel of a shallow pool. |
 | **Identification** | Distinguish from any ordinary puddle-creature by the stillness, the pale water, the lone black silhouette — and by the rule that its water has no floor during an activation. |
 
-**Appearance protocol:** Record the puddle's true diameter (90 cm–1 m), the resting silhouette size (20 cm), and the full body length (2.2 m) measured only from a safe lunge. Note the eye — if it is tracking the bank, the fish has chosen a target.
+**Appearance protocol:** Record the puddle's true diameter (90 cm–1 m), the resting silhouette size (20 cm), and the full body length (2.2 m) taken only from probe-line lunges — there is no safe lunge, and no person's hand is the measuring instrument. Note the eye — if it is tracking the bank, the fish has chosen a target.
 
 ## Origin
 
@@ -178,7 +178,7 @@ The gauge response only means anything read against the feeding ledger. Flerehan
 
 - **Breach type:** Escape — the small pool overflows and the fish within it hunts the wet ground.
 - **Containment priority:** Track the eye rather than the body and accept that physical barriers do not constrain it. Cross-flag handling applies.
-- **Sorrow Gauge on breach:** Opens at 35% and rises 10% each time it passes through a sealed boundary, which it does without damaging it.
+- **Sorrow Gauge on breach:** Opens at 35%. The fish cannot leave its water and passes through nothing; the breach is the water spreading, and the gauge is read against the feeding ledger, which is the only variable that has ever moved it.
 
 ## M.A.W. Equipment
 

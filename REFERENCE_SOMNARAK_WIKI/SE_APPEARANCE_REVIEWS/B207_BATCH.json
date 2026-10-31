@@ -1,0 +1,1092 @@
+{
+  "schema_version": 1,
+  "batch": 207,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-565",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-565_Broken_Well_부서진_우물.md",
+      "words": 7933,
+      "sha256": "8440b3414abfa47307ef7edcc8603cc1308a32cd07589e9b0112c4a4cb40c65c",
+      "prior_batch": 149,
+      "shape": "Subject"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVω-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+      "words": 7820,
+      "sha256": "6acb7ec5ff6ff5841bdd1babd9f2bae1446b0b2459a3757e572856fb11584498",
+      "prior_batch": 149,
+      "shape": "Non-Subject"
+    },
+    {
+      "unit": 3,
+      "designation": "N-IVδ-852",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
+      "words": 10095,
+      "sha256": "e5fb17d8f9e181c1db6196fa56d8207392beb6f2433cf264bc968afd1c911b12",
+      "prior_batch": 148,
+      "shape": "I-Relic"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-195",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md",
+      "words": 8351,
+      "sha256": "ae6c4afd973950e8d730167d36f4887713b0876f7332ba6aeb5451b8faaea43e",
+      "prior_batch": 155,
+      "shape": "O-Relic"
+    },
+    {
+      "unit": 5,
+      "designation": "O-IIIγ-412",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
+      "words": 4757,
+      "sha256": "62ef61e34389878e6b7a64e77d36a12941612d17398e54228993a3235d973de6",
+      "prior_batch": 166,
+      "shape": "A-Relic"
+    }
+  ],
+  "opened_at": "2026-10-30",
+  "completed": 5,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-565",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-565_Broken_Well_부서진_우물.md",
+      "words": 7933,
+      "sha256": "8440b3414abfa47307ef7edcc8603cc1308a32cd07589e9b0112c4a4cb40c65c",
+      "prior_batch": 149,
+      "shape": "Subject",
+      "name": "Broken Well",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_01_BROKEN_WELL.md",
+      "before_words": 7933,
+      "after_words": 8373,
+      "base": "8ec95fe4c74787b14c1a701c3911ea26e0d3408c",
+      "final_sha256": "a93420ab2058f298fd450a94181ba48f69c2f491ce77b036e0228880bd923e90",
+      "summary": "Rechecked Broken Well under R-34 with the owner appearance lens: the current body is a half-flesh, half-mist mother inseparable from a dry rim above a 1.1 m walkable floor, her tears landing as dust. Nineteen repairs remove the invented travel speed and vessel dust, rewrite the five combat rows so they act through reported depth, returned voices and rim-hardening rather than tainted water, a geyser or demolition, restore the exact-source Fang/Plate/Lantern safety mechanics, and separate recorded Pugnahan response from authorization. Credit stays +0; the dossier remains HELD.",
+      "commentary": "The Tale's historical well was wet and deep; the present holding is dry, floored and fixed. The combat record had imported the accident's water into the current body, so every row now works through the thing observers actually report — depth that the plumb line refuses — and the equipment keeps its source order: verify the void, anchor at the true edge, cut only along a confirmed route. Nobody speeds anywhere, nothing erupts, and nobody descends.",
+      "reasoning": "Appearance first: half flesh, half mist, joined to the rim, dust tears, 1.1 m floor — so water attacks, 1.45 m/s travel and 10–100 kg vessel dust are body errors, not flavour.\n\nTriggers now name checkable conditions at the rim (leaning and looking down, lingering while a name returns, force against the rim, reported-depth spread past four metres, and the ≥60% activation threshold during transformation) instead of approach/linger/struck/demolished templates.\n\nExact SE-565 sources govern the set: Rim Cut needs a confirmed living target and verified surface route, True-Edge Brace needs a marked boundary and named recall partner, and Understructure Light treats a blank reading as safety information.",
+      "history": "Prior review B149 (7,670→7,933 words) restored the stationary Subject and dry-floor bridge and left the water/speed/threshold conflicts open. This recheck re-read the whole 459-line primary, B149 evidence and SE-565-A/B/C/D in full before repairing.",
+      "holds": [
+        "Present tears/dust fall downward in the primary while Side Codex A describes upward dust, and confirmed sightings at other loss sites still sit against a figure inseparable from this rim. No travelling or additional body is certified.",
+        "The primary in-place event (45%, +10% per person drawn) and the Side transformation breach (40%, +10% per turn) remain two workings of one record; neither threshold family was normalized.",
+        "The Watch Record's dark-water reflection at the \"bottom\" stands against the 1.1 m dry floor, and the Tale's daughter against the legal record's him/he. Both source conflicts are held, not harmonized.",
+        "Broken Well (primary) versus Upwell (Side/items), dark versus crimson item appearance, and the Plate's \"lowest-rated\" wording against the all-α set remain unreconciled naming/appearance holds."
+      ],
+      "split": [
+        7,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — trust in the floor underfoot and in one's own judgement about depth |"
+        },
+        {
+          "id": "R02-valid-work-authorised",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan authorized. Pugnahan has a recorded response — the rim hardens and the gauge rises — and is prohibited. |"
+        },
+        {
+          "id": "R03-speed-rim-joined",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 1.45 m/s |",
+          "new": "| **Speed** | Not established for travel — the observed figure remains joined to the rim; leaning and turning there are not locomotion |"
+        },
+        {
+          "id": "R04-vessel-no-dust",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Vessel-Destructible** | No — she is inseparable from the rim, and force against the rim is prohibited |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-resistance-depth-spread",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Grudge pressure; 15% against other pressure types — and the second figure has never been reached here, because she does not act until somebody leans over the rim. |",
+          "new": "| **Resistance** | 25% against Grudge pressure; 15% against other pressure types as formal ratings. Working protection is the rail: a tethered crew of three, every reported depth entered separately against the 1.1 m plumb reading, and the session closed from the doorway once the spread passes four metres. Nobody descends, lowers a rope or answers a returned voice. |"
+        },
+        {
+          "id": "R06-tainted-look-down",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Tainted Water* [**Debuff**] } | \"The well is cracked — and what seeps from the break is not water. It is old, thick, and angry.\" | [The Well's corrupted output contaminates the ground; the target steps in it.] | *Target suffers -10 Resilience; the corruption is spreading.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |",
+          "new": "| { *The Tainted Water* [**Debuff**] } | \"There is no water in it. There is dust where her tears land, and a floor your eyes refuse.\" | [Looking down creates the sensation of continuing somebody else's search; the measured floor stays at 1.1 metres.] | *The worker suffers -10 Resilience. Step back behind the rail and give the depth as their own separate reading, never averaged into the crew's.* **[10 Grudge DMG [Grudge]]** | When a worker leans over the rim and looks down. |"
+        },
+        {
+          "id": "R07-poisoned-returned-voice",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Poisoned Source* [**Debuff**] } | \"Everything that drew from this well is tainted now — including you, just by being near it.\" | [The Well's broken source radiates resentment; everything nearby is spoiled.] | *Target loses 10 Resilience; they feel tainted by proximity.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |",
+          "new": "| { *The Poisoned Source* [**Debuff**] } | \"Everything that drew from this well is tainted now — including you, just by being near it.\" | [Nothing radiates and nothing is drawn. What settles on a lingering listener is the mother's unanswered calling, returned in a familiar voice.] | *The worker loses 10 Resilience. Rotate listeners frequently, answer the mother rather than the echo below, and never lower a rope toward a voice.* **[10 Grudge DMG [Grudge]]** | When a worker remains at the rim listening while a name is returned from the opening. |"
+        },
+        {
+          "id": "R08-geyser-force-response",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Corrupted Geyser* [**Attack**] } | \"A geyser of black, bitter water erupts from the crack.\" | [A blast of tainted well-water strikes.] | *Inflicts Grudge pressure and one stinging, contaminated wound.* **[14-22 Grudge DMG [Grudge]]** | When the Well is struck. |",
+          "new": "| { *The Corrupted Geyser* [**Attack**] } | \"Nothing erupts. The rim hardens under your hand and the floor stops agreeing with your feet.\" | [Force cannot produce water from a dry opening. Under Pugnahan the rim hardens, the reported depth jumps, and the figure strikes at whoever is nearest the edge.] | *Heavy Grudge pressure on Resilience. Withdraw behind the rail on tether, stop all force, and re-read the depths separately before anybody leans again.* **[14-22 Grudge DMG [Grudge]]** | When force is used against the rim or figure. |"
+        },
+        {
+          "id": "R09-full-break-depth-spread",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Break* [**Attack**] } | “The rim opens the whole width of the floor, and out of it comes every grief ever carried to the rail.” | [The opening stops being a hole and becomes the sector's floor, all of it rim.] | *A heavy Grudge deluge; the target's Sorrow Gauge surges 15% as the floor reads as edge.* **[24-36 Grudge DMG [Grudge]]** | When the Well is demolished. |",
+          "new": "| { *The Full Break* [**Attack**] } | “The rim opens the whole width of the floor, and out of it comes every grief ever carried to the rail.” | [The opening stops being a hole and becomes the sector's floor, all of it rim.] | *A heavy Grudge load as flat ground reads as edge. The clock-holder closes the session from the doorway; establish one true edge with three rim anchors outside the transformed ground, and complete nobody's search by descending.* **[24-36 Grudge DMG [Grudge]]** | When the spread between reported depths passes four metres during transformation in place. |"
+        },
+        {
+          "id": "R10-ultimate-true-edge",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Every Well Breaks* [**Ultimate**] } | “Every dry opening in Old Lament answers at once, and each one answers in her voice.” | [The spread passes to every source and every collapsed foundation in reach.] | *All in range take Grudge pressure for three turns of tainted water.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Every Well Breaks* [**Ultimate**] } | “Every dry opening in Old Lament answers at once, and each one answers in her voice.” | [The transformed ground produces concentric openings and imagined depths; every dry mouth in reach seems to answer, and none of them holds water.] | *All in range take Grudge pressure on Resilience for three turns. Hold three rim anchors outside the transformed ground, read the search findings aloud to halt the draw, rotate listeners, and restore one true edge rather than completing the search.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥60% activation threshold during transformation in place. |"
+        },
+        {
+          "id": "R11-consequences-distinct-costs",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The Broken Well equipment lends the wearer her endurance at an edge and takes the ability to stop looking for something. Every wielder's debrief has recorded a search of their own resumed.",
+          "new": "- The Broken Well equipment charges by the station it serves: the Fang aches old wounds and bruises its wielder toward rescue fixation, the Plate dulls reflexes and makes ending a search feel like cruelty, and the Lantern fills its glass with failed rescues until the bearer checks safe ground for people already lost."
+        },
+        {
+          "id": "R12-fang-rim-cut",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Grudge damage against the Body — physical form and structural integrity — in the way this holding deals it: not a strike but a floor giving way under a committed step, which is what the weapon leaves the target standing on.",
+          "new": "**Ability:** *Rim Cut* — deals Grudge damage against the Body — physical form and structural integrity — only by severing unstable material or a phantasmal barrier along a verified surface path to a confirmed living target. Binding requires both that target and that route; a downward cut toward an unbodied voice curves back toward the wielder's oldest scar, and the blade cools at the true edge between attacks. It never damages the hidden space itself."
+        },
+        {
+          "id": "R13-plate-true-edge",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards the Body — physical form and structural integrity — against Grudge pressure and against nothing else; the plate was cut for one holding's kind of pressure and the record shows no other use for it.",
+          "new": "**Ability:** *True-Edge Brace* — wards the Body — physical form and structural integrity — against Grudge pressure by anchoring one foot and the pelvis outside a verified opening. It binds only after the wearer marks a physical boundary and names the colleague responsible for calling them back. It does not prevent voluntary descent; it forces the wearer to feel the boundary being chosen, and contracts if they cross while claiming they were pulled."
+        },
+        {
+          "id": "R14-lantern-verified-cavities",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Reveals hidden spaces beneath structures.",
+          "new": "**Ability:** *Understructure Light* — reveals cavities, collapsed passages and concealed structural spaces as clean contours. A living signal reads steady only when independently verified; the Lantern cannot locate a soul, memory or phantasmal voice, and a blank reading is active safety information, never equipment failure. Naming a dead person as the current target makes it assemble a false route from every place they were not found."
+        },
+        {
+          "id": "R15-use-notes-search-without-descent",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this set equips a worker against the Well; each piece is the holding in small, and each one takes what the holding takes — old wounds aching, bruising after a long watch, reactions gone slow at an edge — and the Armoury enters the symptom against the wielder rather than the piece. The grade records how stably the extraction took and nothing about the cost column beside it.",
+          "new": "*Search Without Descent* is the set's ordering rule: the Lantern identifies a real void, the Plate anchors the searcher outside it, and the Fang clears only unsafe material between the team and a confirmed living signal. Follow a false call and the costs stop being separate — grief overlays the present cavity with her well and pulls at the bearer — so the Armoury enters which failure arrived, and against whom, rather than treating the set as one pooled wound."
+        },
+        {
+          "id": "R16-appearance-note-current",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "The dry-floor account does not reconcile tainted-water and geyser attacks, the Watch Record's dark-water bottom, or the speed figure with never leaving the rim. Confirmed sightings at other loss sites also lack a supplied relationship to the inseparable local figure. Side Codex A describes upward dust and its own transformation response; neither establishes a new water-bearing body, a travelling mother or a recovered voice. These remain source conflicts, not additional states certified by this profile.",
+          "new": "The combat record now records the same dry limit rather than breaking it: no tainted water seeps, no geyser erupts, and no travel speed is claimed for a figure joined to the rim. What remains unreconciled is the Watch Record's dark-water bottom, confirmed sightings at other loss sites, Side Codex A's upward dust, and the two transformation/threshold accounts. None of those establishes a new water-bearing body, a travelling mother or a recovered voice; they remain source conflicts, not additional states certified by this profile."
+        },
+        {
+          "id": "R17-response-pugnahan-not-authorised",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Recommended response** | Work from the rail, tethered, with the annual search finding to hand. Flerehan and Ferrehan lower the gauge; Pugnahan hardens the rim and is prohibited. This is a Subject and all four Work Types are valid. |",
+          "new": "| **Recommended response** | Work from the rail, tethered, with the annual search finding to hand. Flerehan and Ferrehan lower the gauge; Viderehan holds it. Pugnahan hardens the rim and is prohibited — a recorded response is not an authorized approach. |"
+        },
+        {
+          "id": "R18-work-notes-authorised",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening in Old Lament, Zone B. All four Work Types are valid. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and hardens the rim; the earlier entry naming Pugnahan as primary is an error and is corrected here.",
+          "new": "Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening in Old Lament, Zone B. All four Work Types have recorded responses, but only Flerehan, Viderehan and Ferrehan are authorized. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and hardens the rim; the earlier entry naming Pugnahan as primary is an error and is corrected here."
+        },
+        {
+          "id": "R19-trivia-work-responses",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Classification detail:** Broken Well is a Subject with Echo (II) coherence and Moderate (β) potency; the class is why all four Work Types are valid and why the hazard acts on the worker's judgement rather than on the structure.",
+          "new": "- **Classification detail:** Broken Well is a Subject with Echo (II) coherence and Moderate (β) potency; the class is why all four Work Types have recorded responses — though Pugnahan is prohibited — and why the hazard acts on the worker's judgement rather than on the structure."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-565_Broken_Well_부서진_우물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.034  clean   116 grams  Behavior\n 0.032  clean   124 grams  Operational Parameters\n 0.029  clean   882 grams  M.A.W. Equipment\n 0.014  clean   554 grams  감각 묘사 (Flavor Text)\n 0.011  clean   726 grams  Combat Record\n 0.010  clean  1252 grams  Watch Record\n 0.008  clean   381 grams  기록 (Registrum)\n 0.006  clean   170 grams  Containment Event Behavior\n 0.002  clean   433 grams  Appearance\n 0.000  clean   452 grams  이야기 (Narratio)\n 0.000  clean   272 grams  관찰 기록 (Observation Log)\n 0.000  clean   261 grams  이야기 보고 (Story Log)\n 0.000  clean   176 grams  Trivia\n 0.000  clean   149 grams  Origin\n 0.000  clean   118 grams  최종 관찰 (Final Observation)\n 0.000  clean    44 grams  SECC Classification\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   37   2  | **Recommended response** | Work from the rail, tethered, with the annual search finding to hand. Flerehan and Ferrehan lower the\n   55   1  | **Resistance** | 25% against Grudge pressure; 15% against other pressure types as formal ratings. Working protection is the rail\n   85   7  | { *Every Well Breaks* [**Ultimate**] } | “Every dry opening in Old Lament answers at once, and each one answers in her voice.” |\n  122   1  | **Identification** | Confirm before Work or contact: designation C-IIβ-565 `[D]`, Grudge expression, Subject-Phantasmal manifest\n  154   4  Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening\n  174   1  - **Sorrow Gauge on event:** Opens at 45% and rises 10% per person drawn toward the depths; the draw is halted by reading the sear\n  184   3  **Appearance:** a fang-curved blade of Grudge Han-iron, dark, that sits heavy in the hand at the rail and weeps a thin film of Han\n  192   1  **Ability:** *Rim Cut* — deals Grudge damage against the Body — physical form and structural integrity — only by severing unstable\n  200   2  **Appearance:** a plated harness of Grudge Han-iron, dark, that tightens along the ribs when the wearer comes within sight of the \n  238   1  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline taken against the set's known toll — old wounds aching un\n  243   1  **Stat interpretation:** The grade records how cleanly the grief came off the holding; the cost column records what the bearer tak\n  245  18  **Full-set source review (2026-10-11):** Reviewed the Tool/M.A.W. grade overview, all three local item blocks, Use Notes, Field Us\n  315   1  This holding is read against the other things in Old Lament that hold a loss underground. Each relation below has been observed an\n  317   6  **Interaction method:** Baseline each party alone across several sessions before any paired approach, with the crew of three and s\n  330   1  **Interaction procedure:** First alone, then together, with the solo baseline as the control for every pairing; then the first sha\n  372   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone); the annual search is run by the wing itself und\n  438  13  The objection is minuted at every annual review and is raised by the Wardens' representative. It holds that compelled speech of th\nGENERIC 0.011  (68 shared shingles)  SE-C-IIβ-565_Broken_Well_부서진_우물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_03_BROKEN_WELL.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-A__SIDE_CODEX_Upwell.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-B__MAW-W_Upwell_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-C__MAW-S_Upwell_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-D__MAW-G_Upwell_Lantern.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_03_BROKEN_WELL.md": "83bde31a4c94cf91e82f1b773b7441479e0953307caaab71aef307c2852b2823",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-A__SIDE_CODEX_Upwell.md": "e28e2a5f204b14f66695eeb6178fe37018f9edf17d5b289b4064ac6014d0a017",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-B__MAW-W_Upwell_Fang.md": "c505bf762107eb73e6fc9e0ebdb4ac39e6b9dee310a2a1feffea11da5311f1b5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-C__MAW-S_Upwell_Plate.md": "b1ffbf0a4b03e4dd7900a0121e97764ada20030317604b766790be5d21b987a1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_560_to_585/SE-565-D__MAW-G_Upwell_Lantern.md": "f10602591d0ea64739ed8844d218f16859bf0bb985f952217efbb8e158cb4757",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-565_Broken_Well_부서진_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-565_Broken_Well_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIβ-565_Broken_Well_부서진_우물.md\")]",
+      "table_link": "[[C-IIβ-565 Broken Well](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-565_Broken_Well_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIβ-565_Broken_Well_부서진_우물.md\")]",
+      "reading": "Whole primary before (459 lines) and whole final after; B149_03 evidence, SE-565-A/B/C/D, Master/Tales/Entity/CSV/archetype/disposition sources read from the ledger set. Combat Trigger cells parsed and read against the header; all table cell counts equal.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "Digits change only where unsupported mechanics were removed or thresholds aligned: 1.45 m/s and ~10 kg–100 kg removed as body errors; the Ultimate trigger moves from 65% to the file's own ≥60% activation threshold; the demolition surge figure leaves with the demolition. All other source numbers (1.1 m, four metres, 45%, equipment profiles) are preserved."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVω-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md",
+      "words": 7820,
+      "sha256": "6acb7ec5ff6ff5841bdd1babd9f2bae1446b0b2459a3757e572856fb11584498",
+      "prior_batch": 149,
+      "shape": "Non-Subject",
+      "name": "The Maw",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_02_THE_MAW.md",
+      "before_words": 7820,
+      "after_words": 8357,
+      "base": "4cfa0f51802e3ec7e3ee2421cb3a81accdd79da8",
+      "final_sha256": "7ce7582325995ca70b18afa8f98ff9545a9b5fe913c5a5fcce9d48916486a8d0",
+      "summary": "Rechecked The Maw under R-34 with the owner appearance lens: the current body is the district itself — buildings inclining toward sound, ground that never finished setting, a 41-marker perimeter, and a current cycle of silence — with the Walking District held as a registered, unwitnessed event form. Fourteen repairs remove the invented heart, dragging tar, crushing strike and tracking mark from combat, bind every row to checkable conduct at the line (speech, standing duration, raised voices, a published denial, a third formal refusal), and record the linked Grip/Shroud/Relic mechanics as disputed descriptions rather than an issued kit, since Side Codex A prohibits extraction outright. Credit stays +0; the dossier remains HELD.",
+      "commentary": "A thousand citizens became streets and foundations; nothing about that body needs jaws. The combat record now hurts people the way the district actually does — by leaning toward their voices, keeping their footprints, and answering sentences written in offices — and the equipment section stops certifying a golden stiletto with a bite pattern for a holding whose own Side Codex forbids taking anything from it at all.",
+      "reasoning": "Appearance first: the Place form is architecture and unset ground, stationary as a location and measurable only at the perimeter, so entry/linger/cornered triggers and a heart-dragging tar are body errors; the reserved Subject form gathers the same substance and is answered by withdrawal.\n\nTriggers now name conduct the file itself regulates — speaking at the line, remaining on unset ground past the written plan, radio or conferring inside, a published Directorate denial, and a third formal refusal — each with the file's own counter-conduct (low voices, reconvene outside, route statements to the Architects).\n\nEquipment stays uncredited and unnormalized: Side A (1/1, extraction prohibited) cannot be reconciled with B–D (4/4) or the local kit, so source mechanics are recorded as descriptions under dispute, never as an issued canonical set.",
+      "history": "Prior review B149 (7,570→7,820 words) corrected the activation manifestation to Place-Tale, separated ordinary district travel from the registered event form, and held origin, silence, trigger and extraction conflicts open. This recheck re-read the whole 491-line primary, B149 evidence and SE-1003-A/B/C/D in full before repairing.",
+      "holds": [
+        "Deliberate relocation-sacrifice (opening, Origin, Side A) versus warned neglect that was \"not a sacrifice\" (Tale); the nine-hour taking versus seventeen counted minutes of screaming now stand side by side in the combat row, unreconciled.",
+        "Current-cycle silence and peace versus continuing quarterly negotiation, voice counts and whispering passages; no dating bridge is supplied and none was invented.",
+        "Expansion at 2.3 cm per cycle/year versus marker jumps of four metres to a street width; refusal-count and perimeter-crossing transformation triggers remain two accounts.",
+        "Extraction prohibited (Side A, 1/1) versus Grip/Shroud/Relic (4/4), the local stiletto/plate/charm kit and Master entries; the local name-loss cost system versus source burn, guilt and voice-multiplying costs. No issued Maw kit is certified."
+      ],
+      "split": [
+        5,
+        9
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — the will to keep standing on ground that is still occupied, and to leave when the plan says leave |"
+        },
+        {
+          "id": "R02-identification-cell",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |",
+          "new": "| **Identification** | Confirm before Work or contact: designation C-IVω-001 `[GP]`, Grudge expression, Place-Tale manifestation, Entity (IV) coherence, Zone B district — UNCONTAINED, against the 41-marker chart. |"
+        },
+        {
+          "id": "R03-extraction-dispute-flag",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Extraction is authorised separately, never during a negotiation, and never once the designation has shifted to `C-IVω-001-B`. Three pieces exist and all three were taken in the first eleven years, before the shift was understood.",
+          "new": "- Extraction is authorised separately, never during a negotiation, and never once the designation has shifted to `C-IVω-001-B`. Three pieces exist and all three were taken in the first eleven years, before the shift was understood. Side Codex A records extraction as canonically prohibited outright; the two accounts are held side by side, not reconciled (see the appearance note)."
+        },
+        {
+          "id": "R04-flavor-activation-district",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**When the entity activates:** Activation reshapes the room. The Grudge that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.",
+          "new": "**When the entity activates:** A marker is found moved, the buildings nearest to where somebody spoke lean a measure further in, and the ground takes footprints it does not give back. In the years when the district still spoke, the thousand said the visitor's name together; in the current cycle the same signs arrive in silence."
+        },
+        {
+          "id": "R05-trivia-identification",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.\n- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.",
+          "new": "- **Recognition detail:** Identify it by the survey, not by impression: buildings inclining toward sound, ground that never finished setting and holds a footprint, and a 41-marker chart that only ever moves outward.\n- **Record detail:** Read this file beside the marker chart, the quarterly negotiation transcript and the roll of sixty-one recovered names; the designation `C-IVω-001-B [GS]` is a reserved event form, not a second holding."
+        },
+        {
+          "id": "R06-whispering-walls-at-line",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Whispering Walls* [**Debuff**] } | \"The walls lean inward, and a thousand voices settle on you at once — each one knowing your name.\" | [The district itself turns toward the target; the walls darken, curve, and begin to whisper their regrets.] | *Target suffers -10 Resilience and is marked; the Maw always knows where they stand.* **[10 Grudge DMG [Grudge]]** | When a target enters the district or the city's sorrow rises. |",
+          "new": "| { *The Whispering Walls* [**Debuff**] } | \"The walls lean inward, and a thousand voices settle on you at once — each one knowing your name.\" | [The walls curve toward whoever is speaking and darken as they close over the street; in the years the district spoke, the thousand answered from them. The current cycle is quiet, and this row records the speaking state, not a new exception to the silence.] | *The party suffers -10 Resilience. Stop talking: voices are kept low inside the district, instructions are given before entry, and problems are resolved by withdrawing to reconvene outside — never by conferring where the walls can lean in.* **[10 Grudge DMG [Grudge]]** | When a party speaks at the line or inside the district during negotiation or survey. |"
+        },
+        {
+          "id": "R07-soft-ground-no-heart",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Soft Ground* [**Debuff**] } | \"The concrete softens to black tar beneath your feet — the thousand, reaching up.\" | [The ground liquefies to dark Han-tar; the target sinks and is dragged toward the wound at the district's heart.] | *Target loses 10 Resilience and cannot easily break free of the district.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the Maw's territory. |",
+          "new": "| { *The Soft Ground* [**Debuff**] } | \"The concrete softens to black tar beneath your feet — the thousand, reaching up.\" | [The ground never finished setting: it yields underfoot, takes a footprint and holds it. Nothing drags anybody anywhere — there is no heart to be dragged toward; the hazard is familiarity, people standing on occupied ground until leaving stops occurring to them.] | *The worker loses 10 Resilience. Work the written plan agreed at the boundary, keep to the stated duration of the authorization, and leave on the plan rather than on judgement formed inside the district.* **[10 Grudge DMG [Grudge]]** | When an authorized crew remains standing on the unset ground inside the perimeter. |"
+        },
+        {
+          "id": "R08-leaning-buildings-toward-sound",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Leaning Buildings* [**Attack**] } | \"The buildings lurch inward, merging into one another to close the street around you.\" | [Adjacent structures fuse and tilt, crushing the corridor where the target stands.] | *Inflicts Grudge pressure and one crushing wound as the architecture itself strikes.* **[14-22 Grudge DMG [Grudge]]** | When the target is cornered or the district is provoked. |",
+          "new": "| { *The Leaning Buildings* [**Attack**] } | \"The buildings lurch inward, merging into one another to close the street around you.\" | [Buildings incline toward sound — slow, cumulative, measured against where personnel have spoken. They have never struck or crushed anybody; what closes a street is years of leaning arriving at a doorway that has narrowed past use.] | *Heavy Grudge pressure on Resilience. No radio, no raised voices, no conferring in place: withdraw in silence and reconvene outside the perimeter before the lean is given anything further to follow.* **[14-22 Grudge DMG [Grudge]]** | When voices are raised, radio is used, or a crew confers inside the district instead of withdrawing. |"
+        },
+        {
+          "id": "R09-first-wound-denial",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Wound* [**Attack**] } | \"The ground opens the way it opened then, and the thousand go down again, and everybody present watches it happen.\" | [The district re-enacts the Cheongula in full, at the original pace, which took nine hours.] | *Catastrophic Grudge to everyone inside the perimeter; the re-enactment cannot be interrupted and has never been shortened.* **[Catastrophic Grudge DMG [Grudge]]** | Four times in sixty years, each after a Directorate statement denying the Cheongula. |",
+          "new": "| { *The First Wound* [**Attack**] } | \"The ground opens the way it opened then, and the thousand go down again, and everybody present watches it happen.\" | [The district re-enacts the Cheongula at the original pace. The file's own accounts do not agree on that pace — nine hours for the taking in this record, seventeen counted minutes of screaming in the Tale — and the row preserves both rather than shortening either; it has happened four times in sixty years.] | *Catastrophic Grudge to everyone inside the perimeter and to the party witnessing from the line; it cannot be interrupted. Withdraw beyond the markers, re-survey all 41, and route any statement denying or qualifying the Cheongula to the Architects before publication — standing since Year 4,197.* **[Catastrophic Grudge DMG [Grudge]]** | After a Directorate statement denying the Cheongula is published. |"
+        },
+        {
+          "id": "R10-confession-third-refusal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Confession Refused* [**Ultimate**] } | \"The thousand speak as one: *say what you did*. Nobody answers, and the district comes out to find somebody who will.\" | [The Maw expands past the perimeter; markers fall and the wound widens by streets rather than metres.] | *The designation shifts to `C-IVω-001-B` and the holding stops being a place.* **[City-threatening]** | When a confession is formally refused. It has been refused twice and withheld, without refusal, for sixty years. |",
+          "new": "| { *The Confession Refused* [**Ultimate**] } | \"The thousand speak as one: *say what you did*. Nobody answers, and the district comes out to find somebody who will.\" | [The reserved event form: expansion past the containment perimeter gathers the district into the Walking District — whispering walls detach, the soft ground lifts, the thousand voices coalesce into the moving figure. It is registered, never witnessed, and no return condition is established.] | *The designation shifts to `C-IVω-001-B [GS]` and the holding stops being a place. The standing response is withdrawal, not a work session with the moving form; record which markers fell and what moved, from outside.* **[City-threatening]** | On a third formal refusal of the confession — refused twice, and withheld without refusal for sixty years. |"
+        },
+        {
+          "id": "R11-weapon-not-issued",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Catastrophic Grudge against the Body. The Devouring Clamp holds a target in interlocking jaws and converts what it does to them into ground — the Armoury's own description, and the reason the piece has been drawn twice in sixty years and discharged once.",
+          "new": "**Ability:** Catastrophic Grudge against the Body. The linked item record (The Maw's Grip) describes instead a posture-shattering *Cheongula Cleave* that bypasses physical armor and leaves bleeding Grudge residue, draining the wielder's Composure toward meltdown. Neither account makes this an issued weapon: Side Codex A prohibits extraction outright, the piece's own form is disputed between stiletto and cleaver, and no jaws belong to a district whose observed shape is streets and ground. What the Armoury certifies is only that it has been drawn twice in sixty years and discharged once."
+        },
+        {
+          "id": "R12-suit-not-issued",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Resistance to Grudge against the Body, and a second property the Armoury did not design: the wearer hears the thousand as individuals rather than as a sound. Three wearers; all three asked to be relieved.",
+          "new": "**Ability:** Resistance to Grudge against the Body, and a second property the Armoury did not design: the wearer hears the thousand as individuals rather than as a sound. Three wearers; all three asked to be relieved. The linked item record (The Maw's Shroud) instead describes a stone cloak anchoring the bearer against knockdown and displacement, at guilt that refuses lament-based healing; under Side Codex A's prohibition neither version is certified as an issued canonical suit, and the two profiles are not normalized."
+        },
+        {
+          "id": "R13-stigma-not-issued",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Unknown. Extraction would mean wearing the sorrow of the thousand consumed citizens.",
+          "new": "**Ability:** Unknown locally. Extraction would mean wearing the sorrow of the thousand consumed citizens. The linked item record (The Maw's Relic) describes a neck torque projecting municipal authority that quiets low-rank murmurs and fragments, at a permanently multiplied voice; with extraction prohibited by Side Codex A and the slot, rate and effect all in dispute, that description is recorded, not adopted."
+        },
+        {
+          "id": "R14-appearance-note-combat",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "A blade's jaws are not the district's observed mouth, and a ground-derived harness does not establish a human-shaped resting body. Neither the existing states panel nor these distinctions certifies the unresolved whole as logically complete.",
+          "new": "A blade's jaws are not the district's observed mouth, and a ground-derived harness does not establish a human-shaped resting body. The combat record now observes the same limits: the buildings incline toward sound rather than strike, the unset ground holds footprints rather than dragging anybody toward an invented heart, and the reserved Walking District remains a registered event form whose standing response is withdrawal. Neither the existing states panel nor these distinctions certifies the unresolved whole as logically complete."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVω-001_The_Maw_구라.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.003  clean   611 grams  감각 묘사 (Flavor Text)\n 0.001  clean   789 grams  Appearance\n 0.000  clean   819 grams  Combat Record\n 0.000  clean   745 grams  Apex Record\n 0.000  clean   634 grams  이야기 (Narratio)\n 0.000  clean   607 grams  M.A.W. Equipment\n 0.000  clean   349 grams  Expansion Behavior\n 0.000  clean   286 grams  기록 (Registrum)\n 0.000  clean   236 grams  관찰 기록 (Observation Log)\n 0.000  clean   197 grams  Operational Parameters\n 0.000  clean   129 grams  Trivia\n 0.000  clean   106 grams  Behavior\n 0.000  clean    92 grams  이야기 보고 (Story Log)\n 0.000  clean    84 grams  Origin\n 0.000  clean    69 grams  SECC Classification\n 0.000  clean    60 grams  최종 관찰 (Final Observation)\n 0.000  clean    59 grams  증언 (Testimonium)\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "  127   1  | **Identification** | Confirm before Work or contact: designation C-IVω-001 `[GP]`, Grudge expression, Place-Tale manifestation, \n  378   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\nGENERIC 0.001  (3 shared shingles)  SE-C-IVω-001_The_Maw_구라.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_04_THE_MAW.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-A__SIDE_CODEX_The_Maw.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-B__MAW-W_The_Maw_Grip.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-C__MAW-S_The_Maw_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-D__MAW-G_The_Maw_Relic.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_04_THE_MAW.md": "a440b334213c26599381c21b56a7fd26fca9df02232b8d8774ae0d1054b6ddc7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-A__SIDE_CODEX_The_Maw.md": "13c65239b156b66e1092dc55c0de0a22df83bc10e549147c4bb8a21834374ea2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-B__MAW-W_The_Maw_Grip.md": "54a1af87f1c723ec56bb963e55e37be236292c1d6f48845799a6864a1c889c00",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-C__MAW-S_The_Maw_Shroud.md": "f0928ca260eecf20b1337fc130efc4e8471e97b923d5cf841072364b6974c56b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1003_The_Maw/SE-1003-D__MAW-G_The_Maw_Relic.md": "a2099f96fe709de6ca4432eb9db2697a65081bb663c8f5188f808f8d7619e04a",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVω-001_The_Maw_구라](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CF%89-001_The_Maw_%EA%B5%AC%EB%9D%BC.md \"SE-C-IVω-001_The_Maw_구라.md\")]",
+      "table_link": "[[C-IVω-001 The Maw](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CF%89-001_The_Maw_%EA%B5%AC%EB%9D%BC.md \"SE-C-IVω-001_The_Maw_구라.md\")]",
+      "reading": "Whole primary before (491 lines) and whole final after; B149_04 evidence, SE-1003-A/B/C/D and the ledger Master/Tales/Entity/CSV/archetype/disposition set. Combat Trigger cells parsed against the header; all table cell counts equal.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "No measured digit was rescaled: 41 markers, 2.3 cm, 75–95%, ≥95%, 1000/1000 and all damage bands stand. The Ultimate trigger now counts the refusals the file itself counts (third formal refusal; twice refused), and the nine-hour/seventeen-minute pair is preserved explicitly as a source conflict."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "N-IVδ-852",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md",
+      "words": 10095,
+      "sha256": "e5fb17d8f9e181c1db6196fa56d8207392beb6f2433cf264bc968afd1c911b12",
+      "prior_batch": 148,
+      "shape": "I-Relic",
+      "name": "Conservatory",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_03_CONSERVATORY.md",
+      "before_words": 10095,
+      "after_words": 10695,
+      "base": "6bbcf8916e43a4f165b9ae892aa84becc5727338",
+      "final_sha256": "ecaaa193a78a5962f46fc9b2aba97184ac86cc5740a07dbaf3c629fcd9ba1b1b",
+      "summary": "Rechecked Conservatory under R-34 with the owner appearance lens: the current body is a fixed red-black crystal keeping a loved house's floor-plan outline without one original brick, permanently short 2.3 m of east-range wall run, answering resemblance with instrument-read heat. Fifteen repairs remove the template's unremembered, purposeless ruin and its falling stone, bind every combat row to the resemblance rule and the permitted path, move the Ultimate from 65% (inside the starting band) to the file's ≥90% activation threshold, clear the unsupported vessel tonnage, and restore the equipment's testimonial binding while withdrawing the Plate's invented heat clearance. Credit stays +0; the dossier remains HELD.",
+      "commentary": "This caretaker's specifications, load point and failure are the best-documented things in the file — a combat record calling her house forgotten was never describing this entity. The rows now do what the margin actually does: sharpen toward fidelity when something resembles the house, furnish a worker instead of wounding them, and charge a rebuilding attempt in metres of outline that do not grow back.",
+      "reasoning": "Appearance first: geometry without materials — empty rooms, no brick, a permanently missing wall run — so unknown-builder flavor, detaching masonry and 1–10 tons of vessel dust are body errors, and a bed in the flavor lead is remembered furniture, not contents.\n\nTriggers now follow the documented input classes (seeing the house rather than its shape; a plan, object or recollection introduced; anything built/braced/tidied; a sustained reconstruction completing one room; ≥90% during an attempt), each with the file's own response — stand-down, margin walk, lapse rather than dismantle, withdrawal along the permitted path.\n\nExact SE-852 sources govern the set: testimonial binding naming the caretaker event with the gauge held below 25%, attribution before any piece acts, first-person retelling as the corrosion sign, and named-witness shutdown; no source certifies heat clearance for any piece.",
+      "history": "Prior review B148 (9,714→10,095 words) separated the fixed site from its local defensive repositioning, connected overload, remembered architecture and the irreversible outline loss, and held the carried-relic and Transform/extension conflicts. This recheck re-read the whole 513-line primary, B148 evidence and SE-852-A/B/C/D in full before repairing.",
+      "holds": [
+        "Fixed surveyed site with interior, path and fourteen stations versus the Log and Method's picked-up, carried ruin settling to a bearer's pulse; no miniature, scale change or detached relay is specified, and none was invented.",
+        "Activation-only classification versus Side Codex Transform capability and the outline taking more ground, against the Record's does-not-spread account.",
+        "Fever-cold signature versus measured surface and radiant heat; no measurable interior versus ceiling heights and room divisions taken at stations.",
+        "Weapon glyph/Fang naming, Medium versus archetype Long, and Tail Bracelet 4% versus Master ocular bucket/Registry 5% remain unnormalized metadata holds."
+      ],
+      "split": [
+        4,
+        11
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — the ability to stand in the margin of a lost house and put nothing right |"
+        },
+        {
+          "id": "R02-vessel-no-dust",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Vessel-Destructible** | No — a fixed crystal outline at a surveyed site; its losses are measured in metres of wall run, and Pugnahan is N/A |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-identification-specific",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Identification** | Check the designation, the element and the manifestation against the file, and verify the outline against the standing architectural record before Work begins; if any detail contradicts, do not proceed. |",
+          "new": "| **Identification** | Confirm before Work or contact: designation N-IVδ-852 `[N]`, Grudge expression, Object-Grudge manifestation, Entity (IV) coherence, Zone C Mask Market margin, and the outline verified at the fourteen marked stations against the standing architectural record; if any detail contradicts, do not proceed. |"
+        },
+        {
+          "id": "R04-flavor-bed-remembered",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "The ruin is beautiful because it remembers being loved. Red crystal holds a doorway, a bed, a window where someone once waited. You reach toward the room and it burns. The place is gone. Loving it does not give you permission to rebuild it incorrectly.",
+          "new": "The ruin is beautiful because it remembers being loved. Red crystal holds a doorway, a window space, the place where a bed was — geometry, not furniture; the rooms are empty. You reach toward the room and it burns. The place is gone. Loving it does not give you permission to rebuild it incorrectly."
+        },
+        {
+          "id": "R05-unremembered-known-house",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Unremembered* [**Debuff**] } | \"The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell.\" | [The Ruin's forgotten history presses on the target; they feel the weight of unknown purpose.] | *Target suffers -10 Resilience; the meaninglessness is heavy.* **[10 Grudge DMG [Grudge]]** | When the target enters the Ruin. |",
+          "new": "| { *The Unremembered* [**Debuff**] } | \"The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell.\" | [The flavor line is the error this holding punishes: the builder, the purpose and the fall are all on file. What presses on the worker is fidelity — detail sharpening until the outline reads as the house and they can say where the table was.] | *The worker suffers -10 Resilience. Enter the report as a personnel effect, not a finding; anybody who reports a memory of the house is stood down the same day.* **[10 Grudge DMG [Grudge]]** | When a worker on the permitted path begins seeing the house rather than the shape of it. |"
+        },
+        {
+          "id": "R06-buried-purpose-resemblance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Buried Purpose* [**Debuff**] } | \"The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier.\" | [The Ruin's lost purpose generates resentment; the target absorbs the aimless rage.] | *Target loses 10 Resilience; they feel the fury of purposelessness.* **[10 Grudge DMG [Grudge]]** | When the target explores. |",
+          "new": "| { *The Buried Purpose* [**Debuff**] } | \"The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier.\" | [The reason was never buried: a caretaker overloaded a Han structure to save a home. Anger in the radius does nothing measurable; affection and resemblance move the reading every time, and the heat answers inside a minute.] | *The worker loses 10 Resilience. Remove whatever resembles the house — plan, object or recollection — log who introduced it, and walk the margin for combustible material before anything else is attempted.* **[10 Grudge DMG [Grudge]]** | When a plan, object or recollection resembling the house is introduced into the radius. |"
+        },
+        {
+          "id": "R07-falling-stone-no-brick",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Falling Stone* [**Attack**] } | \"A stone detaches from the forgotten ruin — and no one remembers it was there until it hits.\" | [A block of unknown ruin strikes from above.] | *Inflicts Grudge pressure and one wound of unremembered collapse.* **[14-22 Grudge DMG [Grudge]]** | When the Ruin is disturbed. |",
+          "new": "| { *The Falling Stone* [**Attack**] } | \"A stone detaches from the forgotten ruin — and no one remembers it was there until it hits.\" | [No stone falls: there is not one brick of the original house in the crystal, and this holding has never injured anybody who stayed on the permitted path. What a rebuilding attempt costs is outline — the east range lost 2.3 metres of wall run in one reaction and they have not come back.] | *Heavy Grudge pressure on Resilience; resistance failure here furnishes rather than wounds. Stop all building, bracing, propping or shoring, let any reconstruction lapse rather than dismantling it, and re-survey the fourteen stations before work resumes.* **[14-22 Grudge DMG [Grudge]]** | When something in the radius is built, braced, shored, tidied or shifted to resemble the house. |"
+        },
+        {
+          "id": "R08-full-uncovering-lapse",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Uncovering* [**Attack**] } | \"The room comes back whole — table, window, the worn place by the door — and it is accurate, and accuracy is the attack.\" | [A reconstruction runs to completion in front of the target; the memory is doing the work.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15% and their own quarters stop feeling like theirs for the rest of the day.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When the ruins are forced into memory at once. |",
+          "new": "| { *The Full Uncovering* [**Attack**] } | \"The room comes back whole — table, window, the worn place by the door — and it is accurate, and accuracy is the attack.\" | [One room rebuilds for as long as the memory can support the form: warm, furnished, accurate — and the pleasant familiarity a worker feels inside it is the first symptom of the recorded risk, the room consuming the observer's present identity.] | *A heavy Grudge surge; the worker's Sorrow Gauge rises 15% and their own quarters stop feeling like theirs for the rest of the day. The second present calls it: step back onto the permitted path and let the room lapse — taking it apart by hand converts an authorised use into the act the holding is made of.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When a reconstruction attempt is sustained until one room completes. |"
+        },
+        {
+          "id": "R09-ultimate-threshold-90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The City of Forgetting* [**Ultimate**] } | \"The margin goes red — every station brightening at once, as though the whole floor plan had been recognised.\" | [The outline stands up around everyone in range; nothing here is unfinished any more.] | *All in range lose Composure for three turns and cannot say afterwards which of the rooms they walked through were real.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The City of Forgetting* [**Ultimate**] } | \"The margin goes red — every station brightening at once, as though the whole floor plan had been recognised.\" | [The whole surviving outline brightens together and reads, for the duration, as finished rooms; the permanently lost east range does not return inside the effect, and cooling afterwards restores nothing.] | *All in range lose Resilience for three turns and cannot say afterwards which rooms they walked through were real. Withdraw unshielded personnel along the permitted path rather than directly away, verify from the instrument record whether the event was activation or extension, and brace nothing on the way out.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold during a reconstruction attempt. |"
+        },
+        {
+          "id": "R10-consequences-distinct-charges",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to leave a lost thing lost, which it takes gradually and replaces with the conviction that enough effort would have been sufficient.",
+          "new": "- The equipment file states what each piece takes and the field record has never contradicted it. The charges are separate: the Fang aches old injuries and makes the wielder's own home feel provisional, the Plate dulls reflexes and the willingness to leave a room, and the Bracelet invoices every place its wearer failed to preserve — three routes to the same conviction that enough effort would have been sufficient."
+        },
+        {
+          "id": "R11-fang-binding",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure — and the signature it carries is domestic rather than martial: those struck report heat on the skin, the smell of a house fire, and a sudden detailed recollection of a room they have never stood in.",
+          "new": "**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure — and the signature it carries is domestic rather than martial: those struck report heat on the skin, the smell of a house fire, and a sudden detailed recollection of a room they have never stood in. Binding is testimonial: the bearer names Conservatory's event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry limit, the management condition satisfied with the Sorrow Gauge held below 25%. The glyphs isolate only a hazard already attributed to Conservatory, interlocking defensively under kinetic attack; treating the event as the bearer's own story is the first corrosion sign, and shutdown is a named witness stating the event while the bearer relinquishes the piece."
+        },
+        {
+          "id": "R12-plate-remain-without-rebuilding",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Grants resistance to Grudge pressure and, uniquely in this set, measurable protection against the radiant heat the source produces. It is the only piece cleared for extended work inside the margin.",
+          "new": "**Ability:** Grants resistance to Grudge pressure against the Body under the same testimonial binding — the caretaker's event named, the management condition satisfied with the Sorrow Gauge held below 25%. Its doctrine is the caretaker's error inverted: it lets a wearer remain present without rebuilding, and it interrupts a hazard only after attribution to Conservatory. No heat clearance is certified by the source record; margin temperature is still taken by instrument, never by hand, whatever the wearer is wearing."
+        },
+        {
+          "id": "R13-bracelet-attribution",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Protects others from structural collapse.",
+          "new": "**Ability:** Protects others from structural collapse — the crystallized disaster lending out the protection it could not provide at home — but it marks a hazard only after attribution to Conservatory and under the same binding: the caretaker's event named, the management condition satisfied with the Sorrow Gauge held below 25%. It shows the devotion and the overload together; a wearer who starts telling the collapse as their own failure is already corroding."
+        },
+        {
+          "id": "R14-use-notes-no-heat-clearance",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Everything in this set is domestic, and that is the hazard rather than the charm of it. The plate is the only piece cleared for extended work inside the margin; the glyphs read the heat the way the ruin does; and the bracelet protects others from structural collapse while its wearer feels every place they failed to preserve.",
+          "new": "Everything in this set is domestic, and that is the hazard rather than the charm of it. No piece is a heat clearance: the Plate lets a wearer stay without rebuilding, the glyphs answer only attributed hazards, and the bracelet protects others from structural collapse while its wearer feels every place they failed to preserve."
+        },
+        {
+          "id": "R15-appearance-note-combat",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "The floating limestone glyphs belong to the Weapon, not to a documented detachable part of this red-black crystal body.",
+          "new": "The floating limestone glyphs belong to the Weapon, not to a documented detachable part of this red-black crystal body. The combat record now observes the same limits: the house's builder and purpose are documented rather than forgotten, no original stone detaches or wounds, and the Ultimate waits for the file's own ≥90% threshold instead of firing inside the starting band."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.035  clean    86 grams  Operational Parameters\n 0.016  clean   853 grams  감각 묘사 (Flavor Text)\n 0.013  clean   397 grams  관찰 기록 (Observation Log)\n 0.012  clean   592 grams  기록 (Registrum)\n 0.009  clean   215 grams  이야기 보고 (Story Log)\n 0.007  clean   974 grams  Combat Record\n 0.007  clean  1011 grams  M.A.W. Equipment\n 0.004  clean   797 grams  Activation Behavior\n 0.004  clean   273 grams  Behavior\n 0.000  clean  1249 grams  Apex Record\n 0.000  clean   630 grams  Appearance\n 0.000  clean   352 grams  이야기 (Narratio)\n 0.000  clean   245 grams  Trivia\n 0.000  clean   186 grams  Origin\n 0.000  clean   127 grams  최종 관찰 (Final Observation)\n 0.000  clean    56 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  clean    26 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   43   1  - Viderehan and Ferrehan are the only valid approaches; the ruin cannot be engaged emotionally or confronted.\n   56   1  | **Resistance** | 45% against Grudge pressure; 35% against other pressure types. Nothing resists resemblance: it is the one input\n   86   6  | { *The City of Forgetting* [**Ultimate**] } | \"The margin goes red — every station brightening at once, as though the whole floo\n  158   1  Read the table as the holding's whole method rather than as a menu. Conservatory is an Object/Place with an Object-Grudge manifest\n  165   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  215   2  **Activation reporting order:** what resembled the house → who introduced it and whether it was a plan, an object, or a recollecti\n  247   1  **Appearance:** a plated harness of Grudge Han-iron that darkens from red toward black as it cools and fits itself to the wearer's\n  273   1  **Effect:** +3 to the working stat while this margin is the subject of the cycle, and nothing at all anywhere else\n  279   1  *The bracelet is never manufactured and never issued: it appears after a successful cycle at the entity's own disposition, on a wo\n  291   1  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the wielder's own quarters — where they live, how long\n  292   1  | **During use** | Watch for the domestic tells rather than the clinical ones: old injuries aching, bruising where nothing struck,\n  294   1  | **After use** | Return the piece and reconcile the sealed baseline: does the wielder still describe their quarters as theirs, an\n  296   1  **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the δ ratings here are accomp\n  318   5  **Observation method:** Work from the permitted path, by instrument wherever the margin is hot, and record the first visible sign,\n  324   1  Conservatory (N-IVδ-852 [N]) is carried on the wing's register as an Object-Grudge manifestation expressing Grudge. The Ruin forme\n  333   1  Work response — Viderehan: Shows the love and failure behind the structure. (Stable); Ferrehan: Tests whether the worker can remai\n  365   5  The three filed relations are other records of places kept past their time, and the question on each is whether the other presence\n  367   1  **Interaction method:** Baseline each entity alone; the crystal's temperature varies enough with ordinary conditions that a short \n  372   5  The survey below is filed with the Mask Market margin records and covers three holdings, each read against a single question: does\n  374   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  380   6  **Interaction procedure:** Baseline both parties alone, bring the second presence only as far as the margin along the permitted pa\n  429   6  **Operational interpretation:** The file is a map and the margin is the territory, and the containment measure is unusual enough t\n  431   1  **Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the ga\nGENERIC 0.006  (54 shared shingles)  SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-A__SIDE_CODEX_Conservatory.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-B__MAW-W_Conservatory_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-C__MAW-S_Conservatory_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-D__MAW-G_Conservatory_Bracelet.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B148_04_CONSERVATORY.md": "c50c95650fb3d88cb84fda4b0c02f88f81e419d3288e20460adf140f8670f5d4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-A__SIDE_CODEX_Conservatory.md": "c9bb35949239c99d77dde3a3904c5b8080c4924c2e9a682a9293b723dbb670e3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-B__MAW-W_Conservatory_Fang.md": "b8acf6cbf91b414d378546bffc26e52c213c512eceae75992b061bb1998b6890",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-C__MAW-S_Conservatory_Plate.md": "34d055afc9f08c2376206c2bf28ba97d250ad394245c488b97678ed3c6b1536e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/852_Conservatory/SE-852-D__MAW-G_Conservatory_Bracelet.md": "69096d8e65076a7d07346cb09e6439eddf8cb30c082cd8deb6cdd8678ea51ba9",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-852_Conservatory_잊혀진_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-852_Conservatory_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\")]",
+      "table_link": "[[N-IVδ-852 Conservatory](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-852_Conservatory_%EC%9E%8A%ED%98%80%EC%A7%84_%EC%9E%94%ED%95%B4.md \"SE-N-IVδ-852_Conservatory_잊혀진_잔해.md\")]",
+      "reading": "Whole primary before (513 lines) and whole final after; B148_04 evidence, SE-852-A/B/C/D and the ledger Master/Tales/Entity/CSV/archetype/disposition set. Combat Trigger cells parsed against the header; all table cell counts equal.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "Only unsupported or misaligned digits moved: ~1–10 tons vessel dust removed with the destructible vessel, and the Ultimate aligned from 65% to the file's own ≥90% activation threshold. Fourteen stations, 2.3 m, 25%, 60–80%, 873/873 and all equipment profiles stand."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-195",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md",
+      "words": 8351,
+      "sha256": "ae6c4afd973950e8d730167d36f4887713b0876f7332ba6aeb5451b8faaea43e",
+      "prior_batch": 155,
+      "shape": "O-Relic",
+      "name": "Learned Your Face",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_04_LEARNED_YOUR_FACE.md",
+      "before_words": 8351,
+      "after_words": 9045,
+      "base": "4203d6e53b1128bc9f239afadf4fd5f77e219d12",
+      "final_sha256": "f37c4b4618eb41335b8a4406b53dfbfe7a5ad23b11b481a11cc6a5077ec9d525",
+      "summary": "Rechecked Learned Your Face under R-34 with the owner appearance lens: the current body is a fixed, unaging pale-black mirror in the Alpha Tree bay that returns a viewer's sorrow rather than their face, learns each new viewer permanently (sixty-one and counting), and acts only through a nominated channeller's deliberately opened and closed channel. Fourteen repairs remove the self-showing reflection, the struck-mirror shard, the certified walking doppelganger and the shattering Ultimate, align that Ultimate to the ≥75% activation threshold, clear the vessel tonnage, and restore the equipment's witness-and-consent limits against a Consequences line that claimed the sight could not be refused. Credit stays +0; the dossier remains HELD.",
+      "commentary": "Two hundred and twelve people's silence became glass, and the glass has never once shown anybody their own face — the combat record now stops claiming otherwise. Every row runs through the bay's real machinery: one back-to-the-glass team, one channeller, one clock-holder whose call ends it, and a count that only ever rises. What separates at overload stays reported rather than certified, because a reflection leaving a mirror is exactly the kind of body this review may not invent.",
+      "reasoning": "Appearance first: mounted, stationary, unchanging since containment opened — so struck/shattered glass, up to a ton of vessel dust and a confrontation trigger (Pugnahan is N/A) are body errors; the certified actions are opening, deliberately closing, or venting a channel.\n\nTriggers now name the file's own checkable conditions (nominated gaze opening the channel; sustained gaze while unsupplied detail accrues; abandonment or mid-session relief; two-minute overload; ≥75% with a channel open), each carrying the standing counter-conduct — clock-holder's close, step off before turning, count entered, contents never recorded.\n\nExact SE-195 sources govern the Shared Face set: mirror-witness binding, opacity against prying, companion naming the present body, thread-preserving Veil under a stopping witness, and a Stigma that shows nothing without consent — seeing a sorrow's shape is not permission to declare it solved.",
+      "history": "Prior review B155 made three supported repairs (γ grade restored, no-content appearance reporting, range-plus-count identification) and held reflection identity, doppelganger extent, range-extension exceptions and equipment forms open. This recheck re-read the whole 498-line primary, B155 evidence and SE-195-A/B/C/D in full before repairing.",
+      "holds": [
+        "What the returned face is — the viewer's own grief given form, a face they had stopped thinking about, or both under unseparated conditions — remains uncrosswalked; no identity rule was invented.",
+        "The separating reflection at overload: spatial extent and return to the mounted glass are unspecified, and no second body in the bay is certified.",
+        "Range extends only with a new viewer versus the two extensions recorded with the destroyed Frozen Veil; unchannelled neighbour stabilisation versus the channel-dependent schedule benefit.",
+        "Tale thousands versus the register's 212; sixty-one learned faces versus the sixty-second measurement; disc versus blade, hooded gossamer versus half-reflective weave, chest-warm versus head-worn pendant, registry 5% versus 4%. All held, none normalized."
+      ],
+      "split": [
+        3,
+        11
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-identity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Composure |",
+          "new": "| **Primary Pressure** | Identity / memory |"
+        },
+        {
+          "id": "R02-vessel-no-dust",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Vessel-Destructible** | No — frame, surface and mounting are in the condition they were in when containment opened, and nothing on this holding has ever been struck |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-resolution-condition",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Resolution Condition** | Viderehan and Ferrehan only — the only close a Learned Your Face cycle has. |",
+          "new": "| **Resolution Condition** | The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed |"
+        },
+        {
+          "id": "R04-reflection-never-own-face",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Reflection* [**Debuff**] } | \"It shows you yourself — and the you in the glass is grieving in ways you have not admitted, in a room you have never described to anybody.\" | [The Mirror returns the grief the target has kept out of sight, exact and whole.] | *Target suffers a Void mark; the Mirror has seen their true grief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |",
+          "new": "| { *The Reflection* [**Debuff**] } | \"It shows you yourself — and the you in the glass is grieving in ways you have not admitted, in a room you have never described to anybody.\" | [It has never once returned a face the viewer recognised as their own. What the glass gives back is the sorrow itself, given form — exact, whole, and without companionship.] | *The channeller takes Void identity pressure and the face is learned: permanent, entered in the count before the bay is closed, with the reflection's contents never recorded and never asked for. One nominated channeller faces the glass; everybody else works with their back to it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the nominated channeller opens the channel with a direct gaze. |"
+        },
+        {
+          "id": "R05-cracked-image-clarity-close",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cracked Image* [**Debuff**] } | \"The reflection fractures — and what it leaves behind is the certainty that this one thing cannot be told to anybody present.\" | [The Mirror returns the sealed room's own condition rather than its contents.] | *Target loses clarity; they doubt which grief is theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares too long. |",
+          "new": "| { *The Cracked Image* [**Debuff**] } | \"The reflection fractures — and what it leaves behind is the certainty that this one thing cannot be told to anybody present.\" | [The Mirror returns the sealed room's own condition rather than its contents. Past about a minute the viewer stops being able to tell their own grief from the one in the glass, and the two do not separate again inside the shift.] | *The channeller loses clarity about which grief is theirs. Clarity is the escalation: when the reflection gains detail the channeller did not supply, the clock-holder calls the close, the call is not discussed in the bay, and the channeller steps off the mark before turning.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a gaze is sustained while the reflection sharpens beyond what the channeller supplied. |"
+        },
+        {
+          "id": "R06-glass-shard-vent",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Glass Shard* [**Attack**] } | \"A sliver breaks away from the frame — and it cuts where the reflection was standing.\" | [A jagged shard leaves the glass, sharp as a kept secret.] | *Inflicts Void damage; it takes away a piece of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |",
+          "new": "| { *The Glass Shard* [**Attack**] } | \"A sliver breaks away from the frame — and it cuts where the reflection was standing.\" | [Nothing breaks away: the frame, surface and mounting have never changed, and nothing here has ever been struck. What cuts is an abandoned channel venting uncontained Void resonance across the sector — both recorded vents began when a channeller was relieved rather than when they finished.] | *Heavy Void identity pressure across the bay. Never relieve a channeller mid-session: the channel is closed deliberately by the person who opened it, the bay is cleared of anybody not on a mark, and the range is re-measured before work resumes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a channel is abandoned or its channeller relieved instead of closing it deliberately. |"
+        },
+        {
+          "id": "R07-doppelganger-conditional",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Doppelganger* [**Attack**] } | \"The you in the mirror steps out — and it is angrier than you remember being.\" | [The reflection separates from the glass, wearing the target's own withheld grief.] | *A heavy Void blow; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is confronted. |",
+          "new": "| { *The Doppelganger* [**Attack**] } | \"The you in the mirror steps out — and it is angrier than you remember being.\" | [At overload the flow turns back and the grief in the channel starts looking for somewhere to live. Reports describe the reflection separating; its spatial extent and any return to the mounted glass are not established, and no walking body is certified by this row.] | *A heavy Void blow; the channeller's Sorrow Gauge surges 15%. The companion witness names the channeller's present body and the close is called before overload — seeing a sorrow's shape is not permission to declare it solved or to force it shared.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a channel is sustained into the two-minute overload described in the Log and Method. |"
+        },
+        {
+          "id": "R08-ultimate-threshold-75",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *A Thousand You* [**Ultimate**] } | \"The mirror shatters into a thousand pieces — and every piece shows somebody who was once alone in a sealed room.\" | [The Mirror gives up every face it has learned at once.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *A Thousand You* [**Ultimate**] } | \"The mirror shatters into a thousand pieces — and every piece shows somebody who was once alone in a sealed room.\" | [The glass does not shatter; it has not degraded since containment opened. At venting point the surface gives up what it holds in reflection — every learned face at once, sixty-one and counting, none of them released by being shown.] | *All in range suffer Void identity erosion for three turns. Close the channel deliberately, clear the bay, re-measure the recognition range from the marks, and enter every newly learned face before anybody is debriefed — on marks, counts and times only, never on contents.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold with a channel open. |"
+        },
+        {
+          "id": "R09-consequences-vent-not-template",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- If the resolution condition is not fulfilled, Learned Your Face reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.",
+          "new": "- If the channel is not closed deliberately it vents: uncontained Void resonance across the sector, every face present at risk of being learned at once, and a recognition range that has never once contracted afterwards."
+        },
+        {
+          "id": "R10-consequences-consent-equipment",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The equipment shows the wearer what another person has hidden. It is accurate, it is unasked for, and the armoury's note records that three wielders have asked for the sight to be disabled and that it cannot be.",
+          "new": "- The equipment is consent-bound in a way the mirror is not: the Lens clouds to opacity when used to pry, the Veil seals when its companion thread is refused, and the Stigma warms and shows nothing pointed at a person without consent. What cannot be disabled is the cost side — a small memory per drawing, a faint absence while veiled, an observed sorrow carried as one's own until debrief."
+        },
+        {
+          "id": "R11-lens-shared-reflection",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and the strike lands where the target is already carrying something unshared.",
+          "new": "**Ability:** *Shared Reflection* — deals Void damage against the Soul — identity, memory, the sense of self — by separating a target from an identity overload caused by reflected grief, opening a boundary long enough for a companion to name the person's present body. It binds only with a mirror witness, cannot reveal secrets or prove a grief belongs to anyone, and clouds to full opacity the moment it is used to pry; the companion shutters the face to end every use and a debrief is mandatory afterwards."
+        },
+        {
+          "id": "R12-veil-witness-thread",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards the Soul — identity, memory, the sense of self — against Void damage of the kind this bay produces, so that what the wearer is shown stays a reading rather than becoming a verdict.",
+          "new": "**Ability:** Wards the Soul — identity, memory, the sense of self — against Void reflection pressure while preserving the companion thread, so the wearer stands in the mirror's field as a person accompanied rather than absorbed and what they are shown stays a reading rather than becoming a verdict. It binds only to a named witness who can stop the exposure and unfastens it at the first loss-of-self sign; refuse companionship and the collar fades, and a threadless Veil is sealed."
+        },
+        {
+          "id": "R13-stigma-consent-only",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Reveals hidden sorrow in another person.",
+          "new": "**Ability:** Reveals hidden sorrow in another person only with that person's consent and under an empathy witness; pointed at anyone without consent it warms and shows nothing. The correct outcome of a reading is an offered support option, never a declaration of understanding. The witness covers it after each use, a pendant grown heavy with unreturned sorrows is rested, and breaking it spreads the last observed grief into the bearer's own senses."
+        },
+        {
+          "id": "R14-appearance-holds-note",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.",
+          "new": "**Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.\n\nThe combat record now observes the same mounted limits: the glass returns sorrow rather than the viewer's face, nothing is struck and nothing shatters, and the only certified movements are a channel opening on a nominated gaze, closing deliberately, or venting when abandoned. What the reflection's faces are — the viewer's own grief given form, a face stopped being thought about, or both under conditions not yet separated — remains uncrosswalked, as do the separating reflection's extent and return, the Tale's accumulated thousands against the register's two hundred and twelve, and the range extensions recorded with the destroyed Frozen Veil. None of those licenses a second body standing in the bay."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.018  clean   170 grams  Operational Parameters\n 0.011  clean   905 grams  Combat Record\n 0.008  clean   623 grams  감각 묘사 (Flavor Text)\n 0.008  clean   125 grams  Behavior\n 0.005  clean  1297 grams  Warden Record\n 0.004  clean   230 grams  이야기 보고 (Story Log)\n 0.003  clean   296 grams  관찰 기록 (Observation Log)\n 0.003  clean   323 grams  Appearance\n 0.002  clean   451 grams  Activation Behavior\n 0.002  clean  1021 grams  M.A.W. Equipment\n 0.000  clean   432 grams  이야기 (Narratio)\n 0.000  clean   319 grams  기록 (Registrum)\n 0.000  clean   155 grams  Origin\n 0.000  clean   126 grams  Trivia\n 0.000  clean   106 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  SECC Classification\n 0.000  clean    44 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   38   1  | **Recommended response** | Viderehan and Ferrehan only; it is an Object/Place and an O-Relic. Ferrehan lowers the gauge, Videreh\n   56   1  | **Resistance** | 35% against Void pressure, 25% against other pressure types — read from the bay marks rather than from contact,\n   86   9  | { *A Thousand You* [**Ultimate**] } | \"The mirror shatters into a thousand pieces — and every piece shows somebody who was once \n  123   1  | **Identification** | Confirm before Work or contact: designation C-IIIγ-195, Void expression, Object-Void manifestation, O-Relic\n  150   1  Learned Your Face is an Object/Place with Object-Void manifestation and Void expression, mounted in the Alpha Tree bay in SECTOR-A\n  156   1  > **This Relic is Capable of Sector / Facility Alteration**\n  231   1  **Ability:** *Shared Reflection* — deals Void damage against the Soul — identity, memory, the sense of self — by separating a targ\n  285   1  | **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this s\n  312   1  **Observation method:** Observe from the marks with your back to the glass unless you are the channeller, and let the clock-holder\n  318   1  Learned Your Face (C-IIIγ-195 [VO]) is carried on the wing's register as an Object-Void manifestation expressing Void. The Mirror \n  359   4  **Interaction method:** Solo baselines first, over a long series, because a paired approach cannot be repeated cheaply and the stu\n  372   1  **Interaction procedure:** Each holding is measured alone first, because interaction data means nothing without the solo baseline \n  463   7  The staff association's objection is minuted at every review. It holds that a benefit to the facility is being bought with a perma\nGENERIC 0.005  (32 shared shingles)  SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-A__SIDE_CODEX_Learned_Your_Face.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-B__MAW-W_The_Sorrow_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-C__MAW-S_The_Sorrow_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-D__MAW-G_The_Sorrow_Lens.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_01_LEARNED_YOUR_FACE.md": "388ef712f85996a5372f81865c0db14896d1473c355f58938b9f719707ae0d7a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-A__SIDE_CODEX_Learned_Your_Face.md": "261e39d95c848da1c705a67c85b23535bd24d2cb97b1298695dde63ce4ec1261",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-B__MAW-W_The_Sorrow_Lens.md": "065064c9671a741bac6d32a98b961efda06e10ffd9e4e42bbc0fd2992792d2b6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-C__MAW-S_The_Sorrow_Veil.md": "76b2968be2f7707bb5b43785f8429f94fe50c0f014e6606661cfa592bd5b105a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/195_Learned_Your_Face/SE-195-D__MAW-G_The_Sorrow_Lens.md": "d950f2ce86335e5cf348ef989304b0c24d9232a24d69410f98984ef2d6e1c1e7",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-195_Learned_Your_Face_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9A%B8.md \"SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md\")]",
+      "table_link": "[[C-IIIγ-195 Learned Your Face](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-195_Learned_Your_Face_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9A%B8.md \"SE-C-IIIγ-195_Learned_Your_Face_슬픔의_거울.md\")]",
+      "reading": "Whole primary before (498 lines) and whole final after (500 lines); B155_01 evidence, SE-195-A/B/C/D and the ledger Master/Entity/Tales/CSV/archetype/disposition set. Combat Trigger cells parsed against the header; all table cell counts equal.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 11,
+        "digit_sequence_change": "Only unsupported or misaligned digits moved: ~100 kg–1 ton vessel dust removed with the destructible vessel, and the Ultimate aligned from 65% to the file's own ≥75% activation threshold. Sixty-one faces, 212 register names, 45–65%, 693/693 and all equipment profiles stand."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "O-IIIγ-412",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md",
+      "words": 4757,
+      "sha256": "62ef61e34389878e6b7a64e77d36a12941612d17398e54228993a3235d973de6",
+      "prior_batch": 166,
+      "shape": "A-Relic",
+      "name": "The Wedge That Held",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B207_05_WEDGE_THAT_HELD.md",
+      "before_words": 4757,
+      "after_words": 5418,
+      "base": "b8bc2a526564153ce1586cc6104d0dd7ea6c5c50",
+      "final_sha256": "2054e47dc9cd7c6a0e19215d2ae74c57e78163b8d5662439b539ba0d55e02dff",
+      "summary": "Rechecked The Wedge That Held under R-34 with the owner appearance lens: the current body is an 18.4 kg four-sided iron wedge in its original greasy hemp, eighteen apprentice codes on the flats, core 115°C, surface 85–140°C — Kang Il-Joo is its maker in the formation history, not a body inside the iron. Thirteen repairs keep its three endings apart (handling accident, widening that settles, one deliberate discharge into inert slag), remove the liquid magma weep and the premature-detonation Ultimate, end the Log and Method's impossible 3/5/7 Uses for a single-use relic, correct the slag-not-tonnage residue and the contained battlefield, and give the one-shelf equipment set its per-piece charges and non-renewable availability caveat. Credit stays +0; the dossier remains HELD.",
+      "commentary": "A human story made this, and what it made is a tool: seventeen inches of iron that held a fault shut once and can be spent exactly once more. The record now refuses every cheaper version of it — no oozing magma organ, no bomb that goes off early, no queue of repeat uses — because the whole weight of the file is that the armory is saving one act for one bad hour and must not fumble it into a tile floor.",
+      "reasoning": "Appearance first: solid porous iron at measured temperatures, 18.4 kg, original wrapping — so a boiling liquid secretion, ~100 kg–1 ton of dust and a sector earthquake on a gauge reading are body errors; the specified residue is inert slag that melts only into brittle black sand.\n\nTriggers now separate what the watch actually separates (approach within heat reach, drop or rough handling, a widening during handling, lapsed thermal separation, and a deployment order executed with a heavy driving strike at ≥70%), with the rising-Gauge-versus-strike crosswalk left explicitly open and impact testing prohibited.\n\nNo external A–D set exists for SE-412; the primary shelf note is the equipment authority, so the Maul, Apron and Brands keep their profiles and gain only their distinct charges plus the file's own residue/old-working availability limit.",
+      "history": "Prior review B166 (4,498→4,757 words) separated the stationary tool, forging history, minor pulses, final strike and derived set, fixed the slag wording and held the gauge-trigger, settling-chronology and extraction-availability questions. This recheck re-read the whole 411-line primary and B166 evidence in full; the Entity Codex and disposition index serve identification only, as at B166.",
+      "holds": [
+        "General rising-Gauge/failed-cycle deployment clauses versus the explicit heavy driving strike still lack a documented authority/trigger crosswalk; nothing authorizes impact testing to settle it.",
+        "Repeated widenings settling back to black iron versus the single destructive discharge have no event-resolved chronology; no reset or second live wedge is inferred.",
+        "Post-discharge no-extraction versus residue/old-working M.A.W. availability remains unresolved item by item; the set is not treated as renewable.",
+        "The interaction rise toward melting near The Crucible/Rage Forge is kept distinct from the ordinary 85–140°C surface band and the 115°C core, not averaged into a single temperature."
+      ],
+      "split": [
+        3,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-dust-slag-not-tonnage",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — the 18.4 kg artifact ends as inert slag, not a dust yield |"
+        },
+        {
+          "id": "R02-battlefield-sector",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Battlefield** | Cheonbulok Border Outpost / Zone C Forge |",
+          "new": "| **Battlefield** | SECTOR-O-04, Outer Bastion Arsenal — contained; any other ground only under a deployment order |"
+        },
+        {
+          "id": "R03-resistance-handling",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 40% against Grudge pressure; 25% against other pressure types |",
+          "new": "| **Resistance** | 40% against Grudge pressure; 25% against other pressure types as formal ratings. Working protection is handling discipline: tongs or heat-resistant leather only, the original hemp left in place, transport solely in shock-absorbing pneumatic crates, continuous oil-quench spray on the basalt pedestal, and no kinetic impact testing without Level 4 Directorate sign-off. |"
+        },
+        {
+          "id": "R04-scorched-hem-hesitation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Scorched Hem* [**Debuff**] }} | \"The hemp wrapping blackens further, shedding hot sparks.\" | [Nearby personnel feel the dry heat of an open foundry furnace.] | *Target suffers -8 Resolve.* | When approached without thermal shielding. |",
+          "new": "| { *Scorched Hem* [**Debuff**] } | \"The hemp wrapping blackens further, shedding hot sparks.\" | [Fever-dry heat off iron whose tip scorches untreated wood within five seconds. Show it fear of burns and the temperature answers the hesitation directly, up by +20°C; the wrap cools slightly instead for apprentice and junior hands.] | *The handler suffers -8 Resolve. Heavy gloves or tongs, the original hemp left wound, and no flinching at the pedestal — hesitation is a measured input here.* | When approached within heat reach without tongs or heat-resistant leather. |"
+        },
+        {
+          "id": "R05-tectonic-pulse-minor-only",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Tectonic Pulse* [**Debuff**] }} | \"The iron shaft twitches as if struck by an invisible hammer.\" | [A sharp kinetic vibration travels through stone flooring.] | *Target takes 12 Grudge damage.* | When handled roughly. |",
+          "new": "| { *Tectonic Pulse* [**Debuff**] } | \"The iron shaft twitches as if struck by an invisible hammer.\" | [Eighteen micro-vibrations a minute through the plinth, and a twitch under rough handling. Dropped on concrete it spends a minor shockwave that shatters floor tiles in a two-metre radius — a dropped-object accident, not the discharge, and no evidence the relic can be spent twice.] | *12 Grudge damage around the drop point. Pneumatic crates for any movement, two hands or tongs on the wrap, and the pedestal area cleared before the wedge is lifted at all.* | When the wedge is dropped or handled roughly. |"
+        },
+        {
+          "id": "R06-anvil-resentment-widening",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Anvil Resentment* [**Attack**] }} | \"The spike emits a high-pitched metallic shriek of overstressed iron.\" | [The sound echoes the screaming basalt of a collapsing mine.] | *Inflicts 16 Grudge damage across Range Band 1.* | When subjected to kinetic stress. |",
+          "new": "| { *Anvil Resentment* [**Attack**] } | \"The spike emits a high-pitched metallic shriek of overstressed iron.\" | [Rhythmic ringing carries through stone floors within six metres, and a widening event changes the four-sided form before the resonance settles back to black iron. No two widenings in this armory have run the same course.] | *16 Grudge damage across Range Band 1. Hold the grip to the anvil until the reading settles, and enter only the four recorded fields: what set it going, the first change in form, how far the heat reached, and where it settled.* | When a widening runs through the iron during handling or a work cycle. |"
+        },
+        {
+          "id": "R07-magma-weep-no-liquid",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Magma Weep* [**Attack**] }} | \"Boiling Grudge Han-sap beads along the tapered tip.\" | [The liquid burns through floor tiles, leaving smoking furrows.] | *Target loses 15% armor durability.* | When containment seals loosen. |",
+          "new": "| { *Magma Weep* [**Attack**] } | \"Boiling Grudge Han-sap beads along the tapered tip.\" | [Nothing weeps from it: this is solid porous iron at a 115°C core and an 85–140°C surface, with no liquid reserve. What the flavor line is reaching for is the interaction rise — kept near The Crucible or The Rage Forge, the surface climbs toward melting, which is a separation failure, not a secretion.] | *Grudge heat pressure on anybody inside the shimmer. Restore separation from thermal holdings, keep the quench spray running, and reserve armor fracture for the one deliberate discharge — proximity heat has never taken durability off anything.* | When separation from The Crucible, The Rage Forge or another thermal holding is allowed to lapse. |"
+        },
+        {
+          "id": "R08-ultimate-deliberate-strike",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| {{ *Fault-Line Fury* [**Ultimate**] }} | \"The entire spike glows cherry-red, threatening premature detonation.\" | [A localized earthquake shakes the containment plinth.] | *All units in sector take 24 Grudge damage.* | When Sorrow Gauge reaches 65%. |",
+          "new": "| { *Fault-Line Fury* [**Ultimate**] } | \"The entire spike glows cherry-red, threatening premature detonation.\" | [There is no premature detonation on this record: the full act is deliberate and singular. Driven into stone, bedrock or carapace by a heavy kinetic strike, the wedge gives one omnidirectional seismic shockwave and is thereafter inert slag. The file's general rising-Gauge clause still lacks a crosswalk to this strike, and impact testing to settle the question is prohibited.] | *Range Band 3: 50% of hostile armor shattered, 25–40 Grudge damage, all targets knocked down for 1 turn; the striker takes severe forearm recoil and thermal blistering. Reserved for sovereign-class targets and heavy carapace work — spending it on anything small is a misappropriation of an irreplaceable sacrifice.* | When a deployment order is executed with a heavy driving strike (hammer, maul or breaching ram) at Sorrow Gauge ≥ 70%. |"
+        },
+        {
+          "id": "R09-consequences-two-endings",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "Set off early, it vents a magma shockwave through the armory and takes the pillars with it. Set off where it is meant to go, it cracks high-grade armor for good and destroys itself doing it.",
+          "new": "Dropped, it is an accident with a two-metre tile radius and a handling report. Driven home where it is meant to go, it cracks high-grade armor for good and destroys itself doing it — once, with nothing left to extract, repair or rekindle. The failure the armory actually plans against is the third ending: a full discharge spent on something small, which spends Kang Il-Joo's one act and leaves the next bad hour with nothing held."
+        },
+        {
+          "id": "R10-log-single-use-labels",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "| 1 Use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).) initiates an instantaneous, irreversible discharge across the battlefield. |\n| 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. Do not add an unspecified elemental debuff to that effect: the recorded discharge specifies armor fracture, Grudge damage and knockdown. |\n| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |\n| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |",
+          "new": "| Before the one use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. Minor pulses, a twitch, even a dropped-object shockwave are containment events, not partial uses. | Nothing is engaged in the armory. Work is Viderehan and Ferrehan only, under the handling discipline, and the question put before anybody touches it is whether this is the emergency the wedge was kept for. |\n| The one use | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender during the Great Basalt Rupture of Year 4,185 in Old Cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | Engaging the activation trigger — driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram) — initiates an instantaneous, irreversible discharge: an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. Do not add an unspecified elemental debuff to that effect: the recorded discharge specifies armor fracture, Grudge damage and knockdown. |\n| After the use | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again; attempts to melt the slag produce only brittle black sand. |\n| For the striker | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: the wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |"
+        },
+        {
+          "id": "R11-use-notes-availability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "What comes out of this relic for the bearer is Kang Il-Joo's refusal to give ground. The set expects the front line: put it on and then step back, and Composure drains fast.",
+          "new": "What comes out of this relic for the bearer is Kang Il-Joo's refusal to give ground, and the charges arrive by piece: the Maul's bone-deep arm fatigue after three consecutive swings, the Apron's constant 39°C fever-heat worn against the skin, and the Brands' phantom burns across the wrists whenever an ally takes damage. Availability is the standing caveat: this M.A.W. is drawn from what a route leaves behind — the residue of a controlled termination or the crystallized husk of an old working — and after the wedge's own discharge nothing further can be extracted. The pieces' existence on this one shelf dossier is not evidence of a second live wedge, and no piece's issue should be planned as though the set were renewable."
+        },
+        {
+          "id": "R12-appearance-combat-endpoint",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "Do not infer a reusable wedge from a minor dropped-object shockwave.",
+          "new": "Do not infer a reusable wedge from a minor dropped-object shockwave. The combat record now keeps the same three endings apart — handling accident, widening that settles, and the one deliberate discharge — and no row spends the artifact early, weeps liquid from solid iron, or queues repeat uses the body does not have."
+        },
+        {
+          "id": "R13-resolution-slag-not-dust",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "3. **Resolution:** The cycle closes on quota met, or on the discharge itself — a deliberate deployment against an existential breach, after which the wedge is a story and a pile of cold dust.",
+          "new": "3. **Resolution:** The cycle closes on quota met, or on the discharge itself — a deliberate deployment against an existential breach, after which the wedge is a story and a residue of inert slag."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.018  clean   109 grams  Operational Parameters\n 0.001  clean   712 grams  Combat Record\n 0.000  clean   462 grams  Activation Behavior\n 0.000  clean   370 grams  Appearance\n 0.000  clean   298 grams  Warden Record\n 0.000  clean   294 grams  M.A.W. Equipment\n 0.000  clean   217 grams  이야기 (Narratio)\n 0.000  clean   196 grams  감각 묘사 (Flavor Text)\n 0.000  clean   167 grams  이야기 보고 (Story Log)\n 0.000  clean   114 grams  관찰 기록 (Observation Log)\n 0.000  clean    82 grams  증언 (Testimonium)\n 0.000  clean    71 grams  Trivia\n 0.000  clean    69 grams  SECC Classification\n 0.000  clean    67 grams  최종 관찰 (Final Observation)\n 0.000  clean    41 grams  Origin\n 0.000  clean    39 grams  기록 (Registrum)\n 0.000  clean    21 grams  Behavior\n 0.000  clean    14 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 40% against Grudge pressure; 25% against other pressure types as formal ratings. Working protection is handling\nGENERIC 0.001  (3 shared shingles)  SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B166_02_WEDGE.md": "e8411d803f45fa621a1025000a4d96382e445bce4b7d6e56153ea6778078f26b",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md \"SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md\")]",
+      "table_link": "[[O-IIIγ-412 The Wedge That Held](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-412_The_Wedge_That_Held_%EB%81%9D%EB%81%9D%EB%82%B4_%EB%B2%84%ED%8B%B4_%EC%90%90%EA%B8%B0.md \"SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md\")]",
+      "reading": "Whole primary before (411 lines) and whole final after; B166_02 evidence in full, with Entity Codex/disposition used for identification as before. No SE-412 side set exists. Combat Trigger cells parsed against the header; all table cell counts equal, including the relabelled Log and Method.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 231,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 3,
+        "digit_sequence_change": "Only unsupported or misaligned digits moved: the ~100 kg–1 ton dust claim replaced by the specified inert-slag residue of an 18.4 kg artifact, the Ultimate aligned from 65% premature detonation to the activation threshold ≥70% under a deployment order, and its effect restored to the activation profile's own Range Band 3 / 50% armor / 25–40 figures. Core 115°C, surface 85–140°C, eighteen codes and all equipment profiles stand."
+      }
+    }
+  ]
+}

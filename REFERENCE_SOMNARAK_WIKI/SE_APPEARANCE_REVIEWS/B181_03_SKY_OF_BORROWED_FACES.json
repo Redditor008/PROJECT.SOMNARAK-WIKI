@@ -1,0 +1,147 @@
+{
+  "unit": 3,
+  "name": "Sky of Borrowed Faces",
+  "designation": "O-IIIγ-926",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B181_03_SKY_OF_BORROWED_FACES.md",
+  "status": "held",
+  "no_change": false,
+  "opening_words": 7249,
+  "before_words": 7249,
+  "short_stage_words": 7299,
+  "after_words": 7363,
+  "sha256": "c054d148f87b2dd1e4a9da41c2524280ae2c113875279ac9df056942a6861c57",
+  "final_sha256": "26ce9c995ecb88a82bde4416fe59a7001d4537fba51ef43ee4e751f016e808ce",
+  "base": "52b181a03d1837cc1aeb07ba727ecb96316987ee",
+  "summary": "Five supported repairs (3 short / 2 careful; 7249→7363 words) correct the surface-bound image form in both appearance summaries, distinguish fixed transect markers from changing field extent, and clearly label the sector-wide combat and breach descriptions as unverified models. The full design remains HELD because its breach and event chronology are unresolved; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The empty ground makes the borrowed faces more unsettling than a haunted battlefield would. The standing objector's refusal has a measurable training cost, so the file cannot solve consent merely by declaring one side kind. I appreciate that the repaired form puts the image back on a surface and keeps the ground itself in view; the unresolved breach model still needs evidence before anyone can call it an event.",
+  "reasoning": "R-33 design chain: Hazard → Hazard-Phantasmal / Lament → borrowed likenesses of living Fractured people and a facility's ethically fraught use of their photographs, with no history on the ground → a non-organic, four-hundred-metre stretch of Desolate ground whose air can carry pictures only on receptive surfaces → fixed transect markers while the coverage expands and withdraws → Viderehan counts surfaces and Ferrehan completes the walk without stopping or naming images → the file says no breach or injury has occurred, while its breach/combat sections describe modelled expansions and an ultimate all-surface event → the derived M.A.W. pieces are separate equipment forms and do not make the Hazard a face, person, ghost or mobile body. Repairs clarify the supported medium and distinguish a simulation from an observed event; they do not resolve the breach model, chronology or equipment lineage.",
+  "history": "Batch 143, unit 4, reviewed the complete primary and exact A–D source set and recorded a justified No change in its older full-primary stream. That review earned +1 ALL M.A.W. Types Appearance and +1 Weapon for the exact O-IIIγ-926 / SE-926-B / MAW-W-926-01 disposition; these credits are already included in the current inherited counters. This new independent SE-body pass cannot repeat them. Batch 43 unit 3 established the surface-interaction table and resolution condition; Batch 46 unit 7 replaced a generic quote; Batch 59 unit 6 rewrote OP language. None is an earlier independent SE-body completion. The current SE Appearance Fix ledger still lists this dossier pending.",
+  "holds": [
+    "The classification says Can breach via Transform; the Registrum and testimony say never breached; four natural expansion/withdrawal cycles are recorded; another model cites eleven expansion events with nine first resolving near long-serving staff. These scopes are not reconciled. The modeled 40%, operational 60%, threshold 3 and combat 65% triggers also remain separate, and the breach model has never been tested.",
+    "The combat entry 'Every Surface' describes a simultaneous projection and three-turn area damage, but no simultaneous event or injury is reported. It is now explicitly modelled, not witnessed; the 65% trigger remains a simulation threshold, not an observed event.",
+    "The chronology moves among a site forming after the register was photographed, surface counts from Year 4219, a Year 4229 campaign and a Year 4235 correlation study. Counts include 1,318 registered people and 1,004 without standing, but Entry 2 says 74 grants included 112 family decisions. The arithmetic and cohort scopes remain unresolved rather than silently corrected.",
+    "Weapon form remains split: the primary describes a single-edged blade, while the MAW-W-926 archetype labels it a Spear Point with Long reach; the equipment registry leaves measurements variable. Side B provides a blade and stats, but no supported transition or crosswalk. A fourth lens trial is described as destroyed, but it is not part of the three-piece set.",
+    "The primary now contains paper comparisons with Once Upon, Amnesia and Miasma, while the disposition index says no interaction table exists. The rows explicitly say no second holding was brought onto the grid; R-19 Neutral remains, but index wording is stale and was not edited here.",
+    "The Entity Codex lists O-IIIγ-926 as awaiting a row; no dedicated Master M.A.W. or Tale entry was found. Missing master content was not invented."
+  ],
+  "r18_split": {
+    "batch_short": 3,
+    "careful_detail": 2
+  },
+  "repairs": [
+    {
+      "id": "u3-r01-primary-form-surface-bound-air",
+      "kind": "short",
+      "old": "**Primary Form:** An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The images move, speak, and sometimes reach out.",
+      "new": "**Primary Form:** Open Desolate ground with no history of its own, four hundred metres of it. The air above carries a picture only onto surfaces: walls, standing water, glass and the flat of a shield take the image; open air never does. Images move, speak and sometimes reach."
+    },
+    {
+      "id": "u3-r02-detailed-form-surface-bound-air",
+      "kind": "short",
+      "old": "| **Form** | An area of the Desolate where the air itself projects images — memories, fears, faces of the Fractured — onto whatever surface is available. The images move, speak, and sometimes reach out. |",
+      "new": "| **Form** | Open Desolate ground with no history of its own, four hundred metres of it. The air above carries a picture only onto surfaces: walls, standing water, glass and the flat of a shield take the image; open air never does. Images move, speak and sometimes reach. |"
+    },
+    {
+      "id": "u3-r03-stationary-site-versus-field-extent",
+      "kind": "short",
+      "old": "| **Movement** | Stationary — a fixed position; spreads rather than moves. |",
+      "new": "| **Movement** | Stationary — the mapped four-hundred-metre transect stays in place. The site has expanded and withdrawn four times without intervention; this is a change in extent, not locomotion. |"
+    },
+    {
+      "id": "u3-r04-every-surface-model-only",
+      "kind": "careful-detail",
+      "old": "| { *Every Surface* [**Ultimate**] } | \"Three hundred and eleven. The transect took six hours to walk and the counter finished it.\" | [Every available surface on the transect carries an image at once.] | *All personnel on the transect suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *Every Surface* [**Ultimate**] } | \"Three hundred and eleven. The transect took six hours to walk and the counter finished it.\" | [The combat model predicts an image on every available surface at once; no simultaneous event is documented.] | *Modelled area damage for three turns; no injury is recorded.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | In the combat model, at 65%; the surface-count record does not document a corresponding gauge event. |"
+    },
+    {
+      "id": "u3-r05-breach-model-vs-observed-field-change",
+      "kind": "careful-detail",
+      "old": "| **Breach Type** | Expansion |\n| **Movement** | Modelled as expansion along the ground. Observed: the count rises, surfaces further out begin carrying images, and the markers stay where they are. Nothing has been corrupted and nothing has been damaged. |",
+      "new": "| **Breach Type** | Expansion (modelled). The site has expanded and withdrawn four times without intervention, but the Registrum says it has never breached. Whether those extent changes count as breach events is unresolved. |\n| **Movement** | The model describes expansion along the ground: the count rises and farther surfaces carry images while the transect markers stay fixed. The observed record has four expansions and four withdrawals without intervention and no damage. The Registrum says no breach has occurred, so the model does not establish an observed breach state. |"
+    }
+  ],
+  "validators": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.010  clean   485 grams  M.A.W. Equipment\n 0.007  clean   432 grams  기록 (Registrum)\n 0.006  clean   515 grams  Combat Record\n 0.005  clean   190 grams  감각 묘사 (Flavor Text)\n 0.001  clean  1021 grams  이야기 보고 (Story Log)\n 0.000  clean   567 grams  Warden Record\n 0.000  clean   337 grams  상호작용 (Entity Interactions)\n 0.000  clean   335 grams  Origin\n 0.000  clean   291 grams  이야기 (Narratio)\n 0.000  clean   234 grams  Appearance\n 0.000  clean   192 grams  Breach Behavior\n 0.000  clean   174 grams  Operational Parameters\n 0.000  clean   134 grams  Trivia\n 0.000  clean   113 grams  증언 (Testimonium)\n 0.000  clean   112 grams  관찰 기록 (Observation Log)\n 0.000  clean   112 grams  Behavior\n 0.000  clean    56 grams  최종 관찰 (Final Observation)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   54   1  | **Resistance** | 35% against Lament pressure; 24% against other pressure types |\n   89   1  2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A for a Hazard. The reading is the surface count: distinct \n   90   1  3. **Resolution:** The transect walked to its end regardless of what is on the surfaces, the count logged by surface and never by \n  173   2  **Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.\n  194   2  **Appearance:** a flowing veil of Lament Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.\n  212   2  **Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.\n  216   1  **Effect:** +1 when working this entity, and the bearer may not be the person who signs the surface count. The holding separated t\n  276   1  The ground is the transect. That quarter took the count to three hundred and eleven surfaces, the highest in nineteen years. The f\n  295   1  **After departure:** You think about a photograph of yourself that exists somewhere you did not put it. Most people have one and m\n  360   3  **Operational interpretation:** Read this file with the likeness return beside it. Taken alone it holds open ground that shows pic\nGENERIC 0.002  (15 shared shingles)  SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/926_Sky_of_Borrowed_Faces/SE-926-A__SIDE_CODEX_Sky_of_Borrowed_Faces.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/926_Sky_of_Borrowed_Faces/SE-926-B__MAW-W_Sky_of_Borrowed_Faces_s_Edge.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/926_Sky_of_Borrowed_Faces/SE-926-C__MAW-S_Sky_of_Borrowed_Faces_s_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/926_Sky_of_Borrowed_Faces/SE-926-D__MAW-G_Sky_of_Borrowed_Faces_s_Token.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/PERSONALIZATION_PLAN_2026-10-07.md",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_01.md",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_02.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/926_Sky_of_Borrowed_Faces/SE-926-A__SIDE_CODEX_Sky_of_Borrowed_Faces.md": "b10fa7ffdc9b5f515b2077406c1c8b2815c58fd184d28cfe967c9e50e032bc3c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/926_Sky_of_Borrowed_Faces/SE-926-B__MAW-W_Sky_of_Borrowed_Faces_s_Edge.md": "b129764941266de121272372b8a46d19f8631bcd07d018db44f7563fbac79a84",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/926_Sky_of_Borrowed_Faces/SE-926-C__MAW-S_Sky_of_Borrowed_Faces_s_Veil.md": "dc102b3c77e088fd00d139d8388f10f22ce27fd21118d25d48b6cea3c04f26b3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/926_Sky_of_Borrowed_Faces/SE-926-D__MAW-G_Sky_of_Borrowed_Faces_s_Token.md": "a1c9c77bd48f687dce298b49249ed177363beaac70f4ce46a46a744ab7a21050",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md": "973a8b4ee120f31c2e8a557b72bcfb09765901c6dc24af2d3fe5491bbf5118b9",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/PERSONALIZATION_PLAN_2026-10-07.md": "de8c6d4dec352a86fec58380423859dc52ef374d283406f0abac3f139b2af87f",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_01.md": "48195db09616ef7e65ba0d793dc67be40a668d6156fdabe3f3dbfc7773cd779b",
+    "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS_VOL_02.md": "522dfd5edd51cad9e4fc21a5c2967e99c5a11c74c599c3245e476e11c096ab16"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "table_link": "[Sky_of_Borrowed_Faces](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-926_Sky_of_Borrowed_Faces_%ED%99%98%EA%B0%81%EC%9D%98_%EA%B2%A9%EC%9E%90.md \"SE-O-IIIγ-926_Sky_of_Borrowed_Faces_환각의_격자.md\")",
+  "reading": {
+    "before_lines": 401,
+    "after_lines": 401,
+    "before_bytes": 42873,
+    "after_bytes": 43550
+  },
+  "integrity": {
+    "repair_reconstruction_from_opening": true,
+    "other_opening_pending_fingerprints_unchanged": 117,
+    "other_opening_pending_fingerprints_total": 117,
+    "physical_form_row_unchanged": true,
+    "m_a_w_equipment_section_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_artifacts_hashed": 14,
+    "visual_art_or_browser_inspection": "not performed / not in scope"
+  }
+}

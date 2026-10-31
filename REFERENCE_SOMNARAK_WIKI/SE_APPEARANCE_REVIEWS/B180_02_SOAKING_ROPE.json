@@ -1,0 +1,154 @@
+{
+  "designation": "N-Iα-316",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md",
+  "words": 7099,
+  "sha256": "9b931e6558ebf928c30cc6d1a43a4956943e0218d0f60b7e9e143556e49c1d22",
+  "unit": 2,
+  "name": "Soaking Rope",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B180_02_SOAKING_ROPE.md",
+  "before_words": 7099,
+  "after_words": 7089,
+  "base": "2c23faf505d7b89000c2f0e80acdf178cdb37a85",
+  "final_sha256": "1a4f1b406623de8889943ca916bc765300712baa87a9640fe072fa1e7cd0f7b9",
+  "summary": "Seven supported repairs scope the stationary rope and its extending wait, rewrite thrown/strangling/lifting combat prose as non-touching expectation while preserving every action name and number, replace generic psychological-matrix wording with the promise count, give the Empty Plate and Empty Knot their exact item appearances, separate all three field-use signs, and remove a duplicated Story Entry sentence. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The privacy architecture is the strongest part of this file: the wing knows exactly what would predict a bad cycle and forbids itself to collect or roster against it. The unofficial page is a humane workaround and the counsellors are still right to object. Making an ordinary 'I'll be back in a minute' count toward breach turns office language into the Rope's weather.",
+  "reasoning": "R-33 chain: Subject-Void / Residue-I Grudge → a sincere parent's necessary leaving and a child's faithful waiting soak into a physical token until the rope holds the grip alone → one-ended wet hemp at a fitting, clearer to people already waiting, measured only by tension and slow bearing → Flerehan grieves and Ferrehan waits beside it to produce slackening, Viderehan separates a meant promise from present fact, Pugnahan returns the worker's own anger as tightening → spoken undertakings count toward a Corrupt event in which waiting spreads without the fibre travelling or touching a body → names may be declined and off-duty dreams stay outside operations → equipment carries expectation as shoulder ache, latency and feeling other people's abandoned waits. Repairs align combat and field seams to that chain; Weapon identity and thresholds remain HELD.",
+  "history": "Batch 108 unit 3 (commit bdfba0d) reviewed the complete primary M.A.W. surface and exact SE-316-A–D with Registry rows 603–606, Master rows/details 568–570, Entity Codex row 558, Tale 190 and both MAW-W-316 archetype entries. It clarified the Empty Knot to +1 Resilience, expanded a truncated Field Use word, and counted a new full-SE disposition plus a new source-led Weapon-only disposition. Both sit inside the present ledger's legacy 240/240 baseline, so B180 earns +0 Types / +0 Weapon. HELD earns +0 SE.",
+  "holds": [
+    "Weapon identity remains split: primary, Master table row 568 and the first MAW-W-316 archetype give a weathered-oak Penitent Gallows-Beam salvaged from municipal gallows, while exact Side A/item B, Registry CSV, Master detailed Entry 568 and a second MAW-W-316 archetype give a Han-iron Empty Fang formed from slack residue. The matching α Grudge 3–6 / Speed 2 / Range 2 / maximum 5 / 15-Echo core does not create a crosswalk, and the Fang's Single/100% pattern was not imported.",
+    "Speed remains unjoined: Core Stat Line gives 0.95 m/s for a rope repeatedly described as stationary, supported at a fitting and extending only as an attitude in breach. Movement prose was scoped; the number was not changed.",
+    "Threshold systems remain parallel rather than converted: four spoken undertakings trigger operations, combat activation is Sorrow Gauge ≥45%, Every Knot Undone triggers at 65%, and Side A calls 45% the breach point. No source maps promise-count to percentage.",
+    "Contact and extraction remain scoped but not solved: the Rope has never touched, marked or restrained anybody, yet personnel consciously release it by hand, fittings support the fibre and extraction 'takes fibre, never tension'. Exact items instead form from slack residue, condense after loosening, or are granted. No single handling/manufacture sequence was invented.",
+    "Primary pressure remains Physical / structural in Operational Parameters and body-directed for the Beam, against the entity's thought/expectation mechanism and Suit admission that body protection is barely what the Rope reaches for. Combat actions now stay non-touching, but the Core pressure label was not reclassified.",
+    "Promise agency wording remains uneven: the origin and Tale insist the parent meant to return and the world prevented it, while older Story/Containment wording calls the promise withdrawn. No motive for the absent parent was chosen; the Knot sources expressly prohibit turning absence into proof of rejection.",
+    "The primary Tale retains a duplicated lowercase tail after 'never once slackened into relief' that is absent from Tale 190. The Tale was left byte-identical in this appearance pass rather than silently normalised into the standalone copy.",
+    "The Wandering Chain interaction identity was not resolved to a designation in the 301-dossier ledger; The Vanished Rope and The Lost Prince resolve, but no chain code was inferred from the several chain-named dossiers."
+  ],
+  "split": [
+    5,
+    2
+  ],
+  "repairs": [
+    {
+      "id": "u2-r1-classification-movement",
+      "kind": "short",
+      "old": "| **Movement** | Stationary — a discrete object. |",
+      "new": "| **Movement** | Stationary — hangs taut at its post; in breach the waiting extends while the rope does not travel. |"
+    },
+    {
+      "id": "u2-r2-nonphysical-combat-actions",
+      "kind": "careful",
+      "old": "| { *The Slipknot* [**Debuff**] } | \"A wet rope finds your throat — gentle, almost, the way a noose is gentle.\" | [The Rope settles around the target; the wet fibers cling.] | *Target suffers -10 Resilience; the rope has found its hold.* **[10 Grudge DMG [Grudge]]** | When the Rope is thrown. |\n| { *The Tightening* [**Debuff**] } | \"Wet rope shrinks as it dries — and it is drying fast.\" | [The Rope constricts; wet hemp tightens with every breath.] | *Target loses 10 Resilience; each breath is harder than the last.* **[10 Grudge DMG [Grudge]]** | When the target fails to slip free. |\n| { *The Fray* [**Attack**] } | \"The rope frays into wet lashes — and each strand bites.\" | [Frayed rope-ends whip at the target like switches.] | *Inflicts Grudge pressure and many thin, stinging cuts.* **[14-22 Grudge DMG [Grudge]]** | When the Rope is resisted. |\n| { *The Hanging* [**Attack**] } | \"The rope lifts — and the sorrow in it is the sorrow of everyone who ever hung from one.\" | [The line draws whoever is holding it up off the ground with the weight of everyone who ever waited.] | *A heavy Crimson strain; the target's Sorrow Gauge climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Rope is pulled taut. |\n| { *Every Knot Undone* [**Ultimate**] } | \"The rope unravels into a thousand wet strands — and each one finds a throat.\" | [The strands run out past the post until the whole field is webbed with wet cord.] | *Grudge pressure presses on everyone for three turns while the strands are out.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Slipknot* [**Debuff**] } | \"Nothing touches your wrist, and the pressure is already there.\" | [The single end stays at its post; attention closes around one absent name.] | *Target suffers -10 Resilience; the wait has found its hold.* **[10 Grudge DMG [Grudge]]** | When the target begins waiting for someone. |\n| { *The Tightening* [**Debuff**] } | \"The promise is still active in the room, and thought keeps making room for it.\" | [The line tautens at its fitting; thought narrows around the expected return.] | *Target loses 10 Resilience; each return to the thought is harder to leave.* **[10 Grudge DMG [Grudge]]** | When the target cannot end the wait aloud. |\n| { *The Fray* [**Attack**] } | \"One wait becomes many: every unanswered bond pulls at once.\" | [No strands leave the chamber; separate expectations surface together.] | *Inflicts Grudge pressure as many thin stings of recollection.* **[14-22 Grudge DMG [Grudge]]** | When the waiting is resisted rather than named. |\n| { *The Hanging* [**Attack**] } | \"The present drops away beneath the one still holding on.\" | [Attention is lifted out of the room toward the absent return; the body is not touched.] | *A heavy Crimson strain; the target's Sorrow Gauge climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | When an undertaking inside the radius pulls the line taut. |\n| { *Every Knot Undone* [**Ultimate**] } | \"Everybody present is holding a line that is not there.\" | [The rope remains at its post while the waiting extends through the radius.] | *Grudge pressure presses on everyone for three turns while the waits are sustained.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "u2-r3-consequence-promise-count",
+      "kind": "short",
+      "old": "- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.",
+      "new": "- If a wait is taken up rather than ended aloud, **Resilience** falls for as long as it is sustained; every undertaking spoken inside the radius also counts toward threshold 4."
+    },
+    {
+      "id": "u2-r4-suit-appearance",
+      "kind": "short",
+      "old": "**Appearance:** a plated harness of Grudge Han-iron, dark and warm to the touch, with a faint scent of the place it was worked in left in the grain.",
+      "new": "**Appearance:** a crimson plated harness of Grudge Han-iron with an open plate where a second grip would have been; the absent grip is left visible."
+    },
+    {
+      "id": "u2-r5-stigma-appearance",
+      "kind": "short",
+      "old": "**Appearance:** a knot-charm of Grudge Han-iron, dark and warmer in the hand than the room it was kept in.",
+      "new": "**Appearance:** a warm crimson tail-knot of Grudge Han-iron with one loop and no second line."
+    },
+    {
+      "id": "u2-r6-field-use-piece-signs",
+      "kind": "careful",
+      "old": "| **Before use** | Wielder, piece, gauge, and one pre-check, Soaking Rope's toll being that the yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no injury. |\n| **During use** | Charging shows as the yoke: it is carried across the shoulders and goes on being carried after it has been set down, and the ache settles exactly where the beam sat with no injury behind it. The second worker logs the hour, and the bearer's own account is taken afterwards, separately. |\n| **At limit** | The slowness does not lift: the bearer answers late, leaves late, and reports afterwards that the shift felt shorter than it was. On a Soaking Rope piece the use ends at that point whatever the bearer says about it. |\n| **After use** | Return the piece, reconcile the baseline, and enter whether the slowness has cleared and the shift is being reported at its true length again. Where it has not, the piece is not reissued to that bearer. |",
+      "new": "| **Before use** | Wielder, piece, gauge, undertaking count, and that piece's own baseline: shoulder sensation for the beam, answer/leave latency for the plate, and nearby expectations already felt through the knot. |\n| **During use** | Record the first sign by piece: the beam still felt across the shoulders after it is set down, the plate wearer slower to answer or leave, or the knot bearer reporting another abandoned expectation nearby. The second worker logs the hour, and the bearer's own account is taken afterwards, separately. |\n| **At limit** | The relevant first sign persists, or the bearer starts carrying another person's wait as their own. On a Soaking Rope piece the use ends at that point whatever the bearer says about it. |\n| **After use** | Return the piece, reconcile the baseline, and enter which sign has cleared: shoulder ache without injury, slowness and the true length of the shift, or ambient expectations. Where it has not cleared, the piece is not reissued to that bearer. |"
+    },
+    {
+      "id": "u2-r7-story-duplicate",
+      "kind": "short",
+      "old": "The Rope's register entry (N-Iα-316 [D]) reads Subject-Void manifestation, Grudge expressed. It formed from a connection that was never allowed to become real. The Rope formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone.",
+      "new": "The Rope's register entry (N-Iα-316 [D]) reads Subject-Void manifestation, Grudge expressed. It formed from a connection that was never allowed to become real. Held at Zone A, Alpha Tree. It is perceived more clearly by people waiting for someone."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.028  clean   674 grams  M.A.W. Equipment\n 0.027  clean   113 grams  Operational Parameters\n 0.008  clean   236 grams  관찰 기록 (Observation Log)\n 0.008  clean   375 grams  기록 (Registrum)\n 0.007  clean   547 grams  Combat Record\n 0.000  clean   675 grams  Tether Record\n 0.000  clean   602 grams  감각 묘사 (Flavor Text)\n 0.000  clean   416 grams  이야기 (Narratio)\n 0.000  clean   208 grams  Appearance\n 0.000  clean   186 grams  Origin\n 0.000  clean   180 grams  Behavior\n 0.000  clean   170 grams  이야기 보고 (Story Log)\n 0.000  clean   165 grams  Breach Behavior\n 0.000  clean   157 grams  Trivia\n 0.000  clean   115 grams  최종 관찰 (Final Observation)\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  clean    31 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   3  | **Han-Energy yield** | 10–14 per successful work cycle, read off the line's tension at the post and never off the strands |\n   84   4  | { *Every Knot Undone* [**Ultimate**] } | \"Everybody present is holding a line that is not there.\" | [The rope remains at its pos\n  238  19  **Full-set source review (2026-10-13):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat inter\n  261   2  **Observation method:** Record the 1st sign, usually a sensation at the wrist with nothing touching it; the moment the observer no\n  372   3  **Review requirement:** Re-verify after any Sorrow Tide, after any breach in Zone A, and after any change of personnel on the post\nGENERIC 0.006  (31 shared shingles)  SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-A__SIDE_CODEX_Tether.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-B__MAW-W_The_Empty_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-C__MAW-S_The_Empty_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-D__MAW-G_The_Empty_Knot.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/README.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-A__SIDE_CODEX_Tether.md": "00d05492fb28cb827b90e0ff85e1d8e015d4edaecb39785a0e6dbe89607a9fd8",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-B__MAW-W_The_Empty_Fang.md": "27c1a2f76cff21d58ae69c6b31f7896bba280f6135471912d02a51709ef33310",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-C__MAW-S_The_Empty_Plate.md": "30f2af5b9e73b5c62576c9bb758dde864016184e9fcc3ea3de2daf2598e521f2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-316-D__MAW-G_The_Empty_Knot.md": "ec2fa5e19d952ae189734cc12c94ef9873e769788d23089e2075194c7d057e43",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/README.md": "0a1bc3e8c0e22629702a36261f7c38eb7508cc625821503b9323c80e062048f0",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-Iα-316_Soaking_Rope_솟구친_밧줄](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-316_Soaking_Rope_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%B0%A7%EC%A4%84.md \"SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md\")]",
+  "table_link": "[Soaking_Rope](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-316_Soaking_Rope_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%B0%A7%EC%A4%84.md \"SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md\")",
+  "reading": {
+    "before_lines": 430,
+    "before_bytes": 41928,
+    "final_lines": 430,
+    "final_bytes": 41992
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 123,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 11,
+    "digit_sequence_change": "Digit sequence intentionally gains “threshold 4” in Consequences, naming the already recorded promise threshold. Combat and equipment numbers are unchanged."
+  }
+}

@@ -81,9 +81,9 @@
 |---|---|---|---|---|
 | { *The Empty Stall* [**Debuff**] } | "The stall is open, the wares are set out, and there is no one behind the table and no one who remembers setting it up." | [The abandonment the stall is made of reaches the customer.] | *Target suffers a Void mark; they begin to feel themselves going unremembered.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target comes up to the table. |
 | { *The Worthless Goods* [**Debuff**] } | "Everything on the table is the thing nobody chose — the plain loaves, the mended boots, the purchases nobody remembers making." | [The stall sets out the ordinary goods no one wanted.] | *Target loses clarity; the ordinary things hold their attention.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target browses. |
-| { *The Dust Burst* [**Attack**] } | "Years of a market's dust, lifted off the cloth and handed to you." | [A cloud of stall-dust engulfs the target.] | *Inflicts Void damage; the dust wears at identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the stall is disturbed. |
-| { *The Fire Sale* [**Attack**] } | "The whole inventory goes at once — not sold, released — and it goes through whoever is standing at the table." | [The stall empties its forgotten stock at the target.] | *A heavy Void avalanche; the target's Sorrow Gauge climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the stall is demolished. |
-| { *The Abandoned Market* [**Ultimate**] } | "Every pitch in the district is empty at once — the bread unsold, the cobbles swept, and the gaps where a district's ordinary life was." | [The stall spreads its abandonment across the field.] | *All in range take Void erosion for three turns of the emptied market.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dust Burst* [**Attack**] } | "Nothing bursts and nothing is handed to you. The dust is on the cloth where it settled years ago, and it stays there; what lifts is the label you are copying." | [No cloud engulfs anybody — aggression ends the encounter by making the stall absent. The wear is slower: a described life, read word for word, that the reader cannot account for afterwards.] | *Inflicts Void damage; not erosion by dust but a small unaccounted absence noticed only when somebody asks.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker turns an item over or takes one up instead of copying its label. |
+| { *The Fire Sale* [**Attack**] } | "The whole inventory does not go at once. It improves, item by item, until the best thing on the table is addressed to whoever is standing at it in all but name." | [The stall cannot be demolished; pressed, it is simply absent and the night is lost. The avalanche is commercial — a rising curve of better goods and more specific labels.] | *A heavy Void pressure; the target's Sorrow Gauge climbs 15% as the argument for one acceptable acquisition completes itself aloud.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the top of the stock-improvement curve, when the shift should already have ended. |
+| { *The Abandoned Market* [**Ultimate**] } | "Every pitch in the district is empty — that is not the event, that is the district. The event is one pitch occupied, lit, and trading with nobody behind the table." | [The abandonment spreads nowhere; it was completed years ago, tenancy by tenancy, with no closure order ever issued. What the watch stands in is the one exception to it.] | *All in range take Void erosion for three turns of the occupied pitch in the emptied market.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and a member of the public is at the table. |
 
 ### Battle Phases
 
@@ -120,10 +120,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A market stall that appears overnight in the abandoned commerce district. Its shape and inventory vary with each appearance. |
-| **Position / movement** | Physical Form: A market stall that appears overnight in the abandoned commerce district. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Position / movement** | Never twice in the same place: each appearance is entered fresh as a bearing and distance from the market gate, to the nearest metre; while it stands it does not move, and by morning only the warm patch and the chalked outline remain. |
+| **Material / signature** | Void. Wood, cloth and rusted iron, ordinary-looking, bloodless-cold with ash on the air; the goods feel half-remembered, and the ground it stood on stays warm after it goes. |
 | **Distinctive markers** | Sells memories, Echoes, and objects that should no longer exist. Goods carry labels describing a lost life or moment. Disappears by morning, leaving a warm patch of ground. |
-| **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
+| **Identification** | By the labels and the warm ground, never by shape or position: confirm designation C-IIα-062 `[VO]`, Object-Void manifestation, and the copied labels before any work or contact. |
 
 **Appearance protocol:** Fix the position first — bearing and distance from the market gate, to the nearest metre — because it is the one field that is never the same twice and the one the file would be useless without. Then the frame: how many trestles, what cloth, whether the iron is the same rusted iron as last time, and the height of the table, which has varied by almost half a metre across the record. Then the stock, item by item, with every label copied word for word and nothing lifted or turned over. At first light, chalk the outline, take the ground temperature at the centre and at four marked points on the surrounding pavement, and enter both. Avoid generic descriptors; *strange* and *anomalous* are admissions of not having looked, and on this holding the detail that matters has always been an ordinary one.
 
@@ -132,7 +132,7 @@
 - **The Sorrow:** The loss of commerce, community, and the ordinary exchanges that made a life feel real.
 - **The Event:** The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost.
 - **The People:** The merchants of the Forgotten Market, named in the ward's tenancy record pitch by pitch, with the date each tenancy lapsed. The lapses cluster in a span of about four years. No closure order was ever issued against any of them, and none of them was ever told the market had ended, because on paper it has not.
-- **Expanded origin context:** The Director's annotation: 'This sorrow is not anomalous. It is representative. The Void at Zone B, Forgotten Market is the same grief, the same refusal, the same wound. The Object/Place is what happens when the city stops pretending it doesn't hurt.'
+- **Expanded origin context:** The commissioning material is not an incident report but the ward's tenancy record: pitch by pitch, tenant by tenant, with the date each tenancy lapsed and the lapses clustering inside about four years. The market was never closed — no order was made, nobody was served, and on paper it operates still, with a register, an annual meeting and a clerk the wing has quietly funded for nine years so the by-laws that license the night watch stay in force. The sorrow here is not the city's grief in general; it is a column of lapsed names in a book that is still open.
 
 ## Behavior
 
@@ -341,13 +341,13 @@ The Director notes: this sorrow is representative, not anomalous. It is the city
 
 ## 감각 묘사 (Flavor Text)
 
-You find the Stall where there was only broken pavement the night before. Warm light touches impossible goods: a mother's lullaby, a soldier's last stand, a child's first laugh. The merchant is never visible, but the prices are clear. You can buy the moment. You can carry it away. You cannot be certain what part of yourself paid.
+You find the Stall where there was only broken pavement the night before. The goods are ordinary — plain loaves, mended boots, purchases nobody remembers making — each with a label describing a lost life or moment, and nobody behind the table. There are no clear prices. The price is whatever you agree to when you reach for something: a coin, a button, a small memory you judged unimportant at the time. The copying is free. The buying is the failure the watch is posted to prevent.
 
 
 
 **At first contact:** What identifies it is not its shape, which differs every time, but the labels and the warm ground it leaves behind: a stall set up overnight in the abandoned commerce district — wood, cloth and rusted iron, no one behind the table, and the goods half-remembered at a glance. |
 
-**With continued exposure:** Time in the zone runs differently. The Void pressure takes on a texture a worker could describe with their eyes closed — rough, smooth, cold, hollow — and the labels begin to read like the district's own memory rather than a stranger's. |
+**With continued exposure:** The drift is specific and measurable: the goods stop looking tempting and start looking reasonable, and the labels begin describing your own district. The shift ends at the moment the argument for one acceptable acquisition is made aloud — it is always a good argument.
 
 **When the entity activates:** Nightfall in the Forgotten Market and concentrated nostalgia or grief, and the stall answers with the whole of its trade: impossible goods, labels describing lost lives, and a price the buyer sets by agreeing to it. The sign a trained observer can connect to the room is the stock improving — the table gets better, the labels grow more specific — and the file has no other warning to give. |
 

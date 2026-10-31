@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — A humanoid shadow with no face, drifting through the Desolate and singing softly — a low wandering song. It understands anyone who watches it, though it cannot be understood in turn. Salt-damp, it smells of cold rain; the shade of someone the world forgot. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — walks disused ways at an even pace; in breach it follows one worker at a fixed distance and never closes. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -70,7 +70,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan has a recorded adverse response and is barred |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | A worker walks its route beside it, to the end of the disused way, without naming it and without claiming to know who it was. Nothing taken from it has ever reduced the shade; walking has. |
 
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unseen* [**Debuff**] } | "The shadow stretches behind you — and no one looks at it, ever, and the not-looking is its power." | [The Shadow's invisibility infects the target; they feel unseen.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Lament DMG [Lament]]** | When the Shadow attaches. |
-| { *The Growing Dark* [**Debuff**] } | "The shadow grows — fed by neglect — until it is larger than you, and darker, and no one notices that either." | [The Shadow's overlooked growth makes it enormous; the target is dwarfed.] | *Target loses 10 Composure; they are nothing next to their shadow.* **[10 Lament DMG [Lament]]** | When the target ignores it. |
-| { *The Sudden Notice* [**Attack**] } | "The shadow strikes — and the blow comes from the direction no one was watching." | [An unseen shadow-blow lands.] | *Inflicts Lament pressure and one wound from an angle that should not exist.* **[14-22 Lament DMG [Lament]]** | When the Shadow is finally looked at. |
-| { *The Full Visibility* [**Attack**] } | "The shadow steps out of the shade all at once — every metre of it seen at the same time — and being seen is the blow." | [The shadow's withheld whole appears at once.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the shadow is forced into the light. |
-| { *Every Shadow Sees* [**Ultimate**] } | "Every forgotten shade on the way stands up at once — enormous, patient, and offended in a way that has no words in it." | [The shadow's neglect spreads to every unkept route in range.] | *All in range take Lament pressure for three turns of rising shades.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unseen* [**Debuff**] } | "The shadow stretches behind you — and no one looks at it, ever, and the not-looking is its power." | [It passes at walking pace; attention slides off the target as if they had never been entered in the room.] | *Target suffers -10 Composure; they are being overlooked.* **[10 Lament DMG [Lament]]** | When the Shadow begins following at a fixed distance. |
+| { *The Growing Dark* [**Debuff**] } | "The shade deepens as it passes, and the card is the only thing that notices." | [Its grade darkens near people nobody is holding in mind; nobody nearby is named in the log.] | *Target loses 10 Composure; they are certain they have forgotten something important.* **[10 Lament DMG [Lament]]** | When the target is overlooked. |
+| { *The Sudden Notice* [**Attack**] } | "It is clearest at the moment somebody says aloud that they do not know its name." | [The faceless route-walker becomes distinct; no blow lands and nobody is named.] | *Inflicts Lament pressure as the certainty of an important thing forgotten.* **[14-22 Lament DMG [Lament]]** | When a worker admits they do not know who it was. |
+| { *The Full Visibility* [**Attack**] } | "Four complete registers, and no line in any of them." | [The whole route and its absences are perceived together while the shade keeps to the disused way.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the route is blocked or an identity is claimed for it. |
+| { *Every Shadow Sees* [**Ultimate**] } | "Tokens issued, tokens never presented: a count nobody can turn into names." | [The silent song is understood along the route; everybody present feels unentered.] | *All in range take Lament pressure for three turns of unrecorded presence.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -94,7 +94,7 @@
 
 - A worker who cannot hold against the entity's sorrow becomes a conduit: the pressure erodes their **Clarity**, and what comes back into the Sorrow Gauge is the worker's instability rather than the shadow's, which is why a followed worker is rotated out rather than pressed.
 - The documented effects intensify with duration, and the duration that matters here is the walk: what a brief cycle carries becomes, over a long route, a certainty the worker cannot put down — that they have forgotten something important and cannot say what.
-- Each M.A.W. activation takes from the wielder something the standard grade ledgers cannot enter: composure, personal memories and a portion of bodily strength, recorded against the wearer because there is nowhere else to record it.
+- Each M.A.W. piece prices accompaniment differently: unaccountable weeping, numbness to minor joys, and becoming easier for other people to forget. No piece supplies the wanderer's name or turns being overlooked into a safe tactical invisibility.
 - Without a resolution the sorrow does not dissipate; it leaves the disused ways and walks into occupied districts behind one worker at nine metres, which is the breach behaviour this file keeps its rotation rule for.
 
 ## Appearance
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid shadow that sings softly while moving through the Desolate. It has no face, but understands anyone who watches it. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. The Forgotten Shadow file carries the series rather than a single reading. |
+| **Position / movement** | Walks unenclosed Desolate routes at an even pace; if it follows, it keeps a fixed distance behind one worker and does not take the replacement. Plot each position against the disused-ways survey. |
 | **Material / signature** | Lament. Salt-damp, cold rain, and a depth of shade that reads on the card and on nothing else. |
 | **Distinctive markers** | Shade grade against the card, position against the disused-ways survey, and whether singing occurred and for how long. |
 | **Identification** | If it is on a maintained road, it is not this entity. It has never once been recorded on one. |
@@ -210,7 +210,7 @@ The route line follows the overlooked trace; the identity mark keeps the wearer 
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a song-charm of Lament Han-crystal, cool to the touch and faintly luminous, that runs briefly warm when sorrow is near and is carried at the throat as the holding's own token.
+**Appearance:** a warm blue Han-crystal tail song-charm vibrating below audible range; the song is carried as sensation rather than sound.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -230,10 +230,10 @@ The set is the holding in three pieces. What it gives is listed above; what it t
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline against the toll this file records for the source: weeping the wearer cannot account for, sealed and held by the second worker. |
-| **During use** | Every occurrence is timed: the wearer's eyes filling without a cause they can name. One is noted; a pattern across a shift ends the use, and the second worker keeps the times. |
-| **At limit** | The wearer is numb to minor joys and has stopped reporting it, which on this piece is the limit rather than a settling-in. The observer calls the limit, and the call stands. |
-| **After use** | Return the piece and open the sealed baseline: has the flatness outlasted the rotation? The entry is made either way, and where it has not lifted, the piece is not reissued to that wearer. |
+| **Before use** | Wielder, piece, and a dated baseline held by the second worker: unaccountable weeping for the Sabre, response to minor joys for the Shroud, and whether colleagues reliably notice and remember the bearer for the Song. |
+| **During use** | Time the piece's own sign: eyes filling without a nameable cause, small pleasures going flat without being reported, or the bearer being overlooked in ordinary exchanges. One occurrence is noted; a pattern ends the use. |
+| **At limit** | The relevant sign persists, or the bearer begins claiming the route or an identity for the Shadow. The observer calls the limit, and the call stands. |
+| **After use** | Return the piece and open the sealed baseline: has the weeping interval, flatness or forgettability outlasted the rotation? The entry is made either way, and where it has not lifted, the piece is not reissued to that wearer. |
 
 **Stat interpretation:** Field performance and what a person pays for it are different axes. A β set that performs to specification can still return a wearer who weeps without a cause and cannot taste small pleasures, and on this holding the rotation is set from the cost column rather than from the grade.
 
@@ -284,11 +284,11 @@ Four settlement registers are bound into the commissioning file, complete for th
 
 ## 최종 관찰 (Final Observation)
 
-> What the observing worker is asked to do at the close of contact: walk beside it and record what it shows, or substitute their own judgement.
+> Close by walking the route beside it and entering only grade, track and singing duration. Do not turn accompaniment into a name, a biography or a register of nearby forgotten people.
 
-| Walk beside it and record what it shows — its whole route, without naming it and without claiming to know who it was. | Substitute your own judgement, which on Forgotten Shadow has never yet cost less than the condition. |
+| Walk beside it and record what it shows — its whole route, without naming it and without claiming to know who it was. | Block the route, force it back, claim an identity for it, or log who was standing nearby when it darkened. |
 |---|---|
-| Moves closer and sings a softer verse. The sorrow is witnessed; Forgotten Shadow is fully recorded. | Grows heavy and follows aggressively. The gauge climbs and Forgotten Shadow withdraws without revelation. |
+| The verse softens; card grades, survey track and duration enter the record while the identity remains blank. | It grows heavier and follows the worker at a fixed distance until that worker is rotated out. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -364,7 +364,7 @@ The rule is right. The burned book was right. The shadow is what the right answe
 - Mean shade grades 3.1, 4.4 and 5.6 across three quarterly series, on the same card and by agreement of two Wardens per reading.
 **Cross-References:** The Desolate · The Forgotten Soul · The Wandering Trace · The Drift Fog · the Gate Office
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** A Desolate wanderer erased from all records.
+**Originator:** A Desolate wanderer who was never entered in any record.
 
 ### Registry Addendum
 

@@ -95,7 +95,7 @@
 - A failed resist at the rows costs twice: the gauge climbs, and the **Resilience** that carried the worker through the gate comes apart with it — the watch enters both, or it has entered nothing.
 - The orchard keeps its own pace. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing.
 - Every M.A.W. carried in past the gate settles its bill with the armoury first: the price comes off the bearer, and the ledger is not allowed to soften it.
-- A run that ends without containment leaves the gate open an hour past its hour, and the next tally of touched fruit comes out larger than the last.
+- A cycle that ends with a fruit touched is filed as a feeding, whatever the worker intended, and a promise of return made within sight of the Gate ends the condition the same way. Nothing else on this holding is a failure of containment: the ground is not breached, it is fed, and the record says which.
 
 ## Appearance
 **Physical Form:** Not a body but a planting — heavy clusters of dark fruit over rows that are still correctly spaced, standing in ground that has not been dry in sixty years. **Extent:** 124 paces of frontage along the departure path and widening.
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-A flat gauge is not a safe watch, and this holding reads flat most of the year. Before anybody is put on the roster the Work Types are weighed against the breach threshold and the M.A.W. cost: an Object/Place holding with a Place-Grudge manifestation, elemental expression Grudge, standing in Zone E by the Exile's Gate. Every fruit on the rows holds a wish somebody had already set down, and one touch turns it to liquid — which is the whole of the warning here, and the reason the condition reads the way it does. No line in this file carries over to another holding with a harvest in its name, and observation can leave the gauge untouched while still costing the worker memory, environment or identity.
+A flat gauge is not a safe watch, and this holding reads flat most of the year. Before anybody is put on the roster the Work Types are weighed against the breach threshold and the M.A.W. cost: an Object/Place holding with a Place-Grudge manifestation, elemental expression Grudge, standing in Zone E by the Exile's Gate. Every fruit on the rows holds a wish somebody had already set down, and one touch turns it to liquid — which is the whole of the warning here, and the reason the condition reads the way it does. No line in this file carries over to another holding with a harvest in its name, and observation can leave the gauge untouched while still costing the worker the middle of a morning they cannot afterwards account for.
 
 **Reading the response:** When the gauge drops, the surface pressure lessens and the deep structure of the grief is untouched — stabilisation and not healing. When the gauge climbs, the approach has struck the nerve of the origin: pull back and reassess before the work feeds the sorrow the orchard was made of. The rows are read in the same light: a fruit that has not been touched is the holding in its ordinary state, and the record on this file is counted by what was left alone.
 ## Expansion Behavior
@@ -314,13 +314,13 @@ The Gate is behind you and the fruit hangs on a tree that has no business growin
 
 
 
-**At first contact:** What identifies it is the ground before the fruit: permanently wet and crimson, with a set of orchard rows still visible beneath the pool, and dark clusters hanging over it in the smell of something sweet that has burned. The fruit is warm to be near and answers a hand: it melts when it is touched, and what is released is a desire somebody had already given up on. The space does not go generic or abstract — it changes in the specific way associated with Grudge and with this holding's Place-Grudge form.
+**At first contact:** What identifies it is the ground before the fruit: permanently wet and crimson, with a set of orchard rows still visible beneath the pool, and dark clusters hanging over it in the smell of something sweet that has burned. The fruit is warm to be near and answers a hand: it melts when it is touched, and what is released is a desire somebody had already given up on. The rows are the last thing the eye settles on: correctly spaced, correctly oriented, windbreak stock on the weather side, exactly where the planting notes say to put it.
 
-**With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Grudge; it is this entity's Grudge — shaped by its origin, its wound, its particular grief.
+**With continued exposure:** Past the first half-hour among the rows the middle of the morning goes missing, and personnel smell the fruit — sweet and burned at once — before they can say what else is gone. One fruit at a time it stays specific: a kitchen, a particular table, a particular year's crop coming in.
 
-**When the entity activates:** When it activates, the Grudge stops being background and becomes foreground — loud, physical, impossible to ignore. The Place-Grudge was waiting for this.
+**When the entity activates:** Setting follows arrivals — after a heavy day at the Gate the clusters come on thick, and in the weeks when nobody comes out the frontage simply stops advancing. A frontage that moves in a quiet week is the escalation signal here: pace it again the same day and notify the Gate watch.
 
-**After departure:** What remains after the door closes is not fear but weight — a Grudge aftertaste that fades slowly, personnel monitored for Fracture risk in the hours that follow.
+**After departure:** Personnel who have tasted it report fear rather than pleasure, and the taste is always of something from their own childhood. The post-contact review asks the question plainly — whether any Warden tasted anything — and it is answered plainly and carries no consequence.
 
 ### Interaction Pattern
 

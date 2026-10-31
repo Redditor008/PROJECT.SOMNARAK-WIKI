@@ -26,23 +26,23 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Composure — witnessing final moments without rewriting, erasing or claiming to deliver them |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | 1 |
+| **Activation threshold** | Corrupt pulse: event begins at 40% and adds 10% for every unanswered interval; combat threshold ≥90% |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No — Subject-Void figure; destroying an exposed final memory is prohibited and no vessel route is recorded |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Flerehan, worked in silence. Ferrehan is permitted on a short rotation. Pugnahan is prohibited in the strongest terms the wing uses anywhere. |
 
 ### Operational Notes
 
 - The partings it carries attach to no departure the vault record holds. Checked against the Burial Office's register, they attach to interments at which nobody was present.
 - Work slows the flicker and alters nothing in it. No session has produced a first face or a last one, and the sequence has never been seen to repeat.
-- Threshold 1. Entry conditions are confirmed aloud outside the door by two operatives against a printed list, because nothing may be said inside.
+- Before entry, two operatives confirm the printed conditions aloud outside the door—pairing, silence, slips, and exit-name check—because nothing may be said inside.
 - The pressure acts on who the operative believes is leaving. Crews state their own names aloud on exit, in the corridor, to the officer at the door, every time.
-- Extraction is authorised separately and is the only activity in this chamber that may be conducted by one person, because it cannot be conducted by two.
+- Extraction is authorised separately and remains paired work: two independent witness accounts are required before the Lens may act, and no extraction responder enters the chamber alone.
 
 ## Combat Record
 ### Core Stat Line
@@ -51,8 +51,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
-| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The gauge opens full at 620 and trips at 90 per cent, and escalation runs 5 Clarity per turn while it is unopposed. |
+| **Speed** | N/A — the figure is stationary; output is measured by flicker rate, slip count, and whether the Corrupt pulse reaches paired observers |
+| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The safeguards are two observers together, absolute silence with written slips, no responder alone, no face transcription, no Pugnahan or attempted erasure, and each operative stating their own name aloud on exit. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 620/620 |
 | **Han Pressure [ATK]** | 22–48 per hit · Void |
@@ -70,19 +70,19 @@
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan primary; Viderehan for an authorised selected record; Ferrehan on short rotation. Pugnahan is prohibited, not valid work here |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep vault |
-| **Resolution Condition** | Do not attempt to erase a final moment; acknowledge and record it |
+| **Resolution Condition** | Do not erase or rewrite a final moment. Under the current vault protocol the complete Burial Office unattended-interment return is passed through the slot—one printed name to a slip, in silence—and any witnessed moment is recorded exactly without a claim of delivery |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fading Image* [**Debuff**] } | "A memory appears — the last one. After this, there is nothing else to remember." | [Every Last Goodbye presents itself; the target feels the finality.] | *Target suffers a Void mark; what comes after memory is void.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target witnesses the Memory. |
-| { *The Edge of Recall* [**Debuff**] } | "You are at the end of remembering — and beyond this memory, there is only blank." | [Every Last Goodbye shows the target the edge of their own past.] | *Target loses clarity; the void after the last memory is vast.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Memory. |
-| { *The Final Frame* [**Attack**] } | "The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut." | [The Memory hardens and strikes.] | *Inflicts Void damage; the final recollection erases what comes after.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Memory is disturbed. |
-| { *The Full Recall* [**Attack**] } | "The last memory releases everything it held — a lifetime, compressed into one final, devastating burst." | [A whole life arrives in the room at once, at the size a death actually has when it is not summarised.] | *A heavy Void explosion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Memory is forced. |
-| { *The Blank After* [**Ultimate**] } | "The last memory fades — and now everyone has reached the end of remembering, and beyond is only void." | [The vault goes past the end of anybody's recall and the last thing in the room goes with it.] | *All in range suffer Void erosion for three turns of total blankness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fading Image* [**Debuff**] } | "A memory appears — the last one. After this, there is nothing else to remember." | [Looking at the figure places the emotional shape of one final moment directly into the observer; the same moment is never shown twice to that observer.] | *The observer suffers a Void mark and loses Composure; the paired observer records only count, duration and slip number, never a claimed face.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When an observer first looks directly at the translucent figure in the vault. |
+| { *The Edge of Recall* [**Debuff**] } | "You are at the end of remembering — and beyond this memory, there is only blank." | [Prolonged contact turns from another person's ending to the worker's own possible ending.] | *The worker loses Composure and experiences their death as settled rather than prospective; the pair ends the interval and post-contact existential review is mandatory.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When Ferrehan or prolonged paired observation continues past the first glimpse and the worker is shown the approach of their own ending. |
+| { *The Final Frame* [**Attack**] } | "The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut." | [One selected final moment remains long enough to be documented, then returns to the multitude without confirming any interpretation.] | *Inflicts Void pressure on the authorised witness. The record preserves exactly what appeared and preserves disagreement; it is not testimony, absolution, accusation, prophecy or a delivered message.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When Viderehan with identity and clearance selects one named dead person's final moment. |
+| { *The Full Recall* [**Attack**] } | "The last memory releases everything it held — a lifetime, compressed into one final, devastating burst." | [Fear and regret are released when the collection is forced to answer the living; a whole ending arrives unsummarised.] | *Heavy Void pressure to the forcing worker; no personnel Sorrow Gauge is inferred. Work stops, the pair withdraws together, and names are stated aloud outside the door.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When Pugnahan or any attempt to force, erase or rewrite a final moment into a preferred answer is made. |
+| { *The Blank After* [**Ultimate**] } | "The last memory fades — and now everyone has reached the end of remembering, and beyond is only void." | [The figure pulses in place as the vault loses definition: colour drains, sound stops carrying, and edges thin outward from the wall.] | *All personnel reached by the pulse suffer Void erosion and lose memories of partings for three turns. The zone is sealed, nobody enters alone, and Viderehan plus Ferrehan are used without destroying the exposed memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90% and the Corrupt pulse begins. |
 
 ### Battle Phases
 
@@ -94,7 +94,7 @@
 
 - Resistance failure routes the vault’s contents straight into the worker: **Composure** is the first thing spent, the Sorrow Gauge takes everything that comes off it, and the worker finishes the watch holding an ending that was never theirs to hold.
 - The longer the exposure runs, the deeper the ending sets. Once the wave has shown a worker their last moment, the showing does not stop with the wave; the vault keeps it playing underneath until the emotional, somatic and identity readings all record the same failure at once.
-- The M.A.W. is never costless, and here the price is collected in leave-takings: every swing passes a goodbye through the weapon on the bearer’s behalf, and the equipment records keep the count.
+- The M.A.W. is never costless. The Lens is not swung and must never fire into a goodbye; it acts only in the Blank After once the final frame has ended, and each discharge takes one small unnamed memory from the wielder while indexed facts remain.
 - If resolution is not reached, the vault’s event protocol takes the watch: the Sorrow Gauge peaks, the containment fail-safes let go, and the vault returns to holding every goodbye that was never heard — the state under which the zone cannot be worked.
 
 ## Appearance
@@ -157,7 +157,7 @@ The table above is a snapshot and not a system; the classification and the origi
 | **Effect** | The zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of partings specifically. |
 | **Secondary Effect** | The absence works outward from the vault wall and takes edges first: doorframes, corners, the line where floor meets wall. |
 | **First Target** | Whoever is alone. In all three logged pulses the heaviest losses were in personnel who were by themselves, which is why no responder enters this zone unaccompanied. |
-| **Escalation** | While it is unopposed the pressure grows: Clarity drain rises by 5 each turn until the cycle is suppressed. The figure has never taken a step — what travels is the pulse, and the pulse is what the drain is measured against. |
+| **Escalation** | While it is unanswered the pressure grows: Composure drain rises by 5 each turn until the pulse recedes under Viderehan and Ferrehan. The figure has never taken a step — what travels is the pulse, and the pulse is what the drain is measured against. |
 
 ### Escalation Notes
 
@@ -186,11 +186,11 @@ It goes fully transparent at the exact boundary where a final image ends, and th
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** The multiplier applies to direct damage and Tick damage separately, and the Tick from this source is mnemonic — the bearer loses a memory of a parting per application, selected by nothing anybody has identified.
+**Damage Application:** The Skewer multiplier applies to the direct Blank-After line through up to three targets. No Tick damage is recorded; the mnemonic charge is the separate per-shot cost below.
 
 **Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and carries the source's signature: the struck lose a parting, selected by nothing anybody has identified, and cannot say which one.
 
-**Cost:** The bearer loses small, nameless memories with each use — the Tick from this source is mnemonic — and the Armoury records the loss against the bearer rather than against the piece.
+**Cost:** The bearer loses one small, nameless memory with each discharge while indexed facts remain, and the Armoury records the loss against the bearer rather than against the piece.
 
 ### M.A.W. Suit — The Final Veil
 
@@ -228,7 +228,7 @@ It carries no hands and no numerals — an empty watch face for a measurement no
 
 **Cost:** The wearer sees their own final moment whenever the watch stops, which on a night rotation means whenever they close their eyes, and the charge is recorded as the reason the token is more often refused than accepted.
 
-*A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Lens. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*
+*A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Final Hour token. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*
 
 ### M.A.W. Use Notes
 
@@ -236,7 +236,7 @@ Each of the three is the holding in miniature: what they give is in the tables a
 
 The costs are not one cost written three times. The lens takes a small unnamed memory with each shot and leaves indexed facts intact. The veil leaves the wearer faintly absent, and the record warns that a wearer can come to feel already dead and already remembered, and no longer responsible for a present choice. The hour-token shows the bearer their own final moment whenever the watch stops, which is why the Stigma is more often refused than accepted.
 
-The set is worked under one rule: a final moment may be witnessed, recorded and returned without alteration, and no operator may claim to have delivered a goodbye to the person it was meant for. Two witnesses must agree before the lens is fired, and disagreement between their accounts is preserved rather than resolved. The failure that costs more than the toll is editing a goodbye into the message the operator would have preferred — the set then replaces the record with that witness's own final frame.
+The set is worked under one rule: a final moment may be witnessed, recorded and returned without alteration, and no operator may claim to have delivered a goodbye to the person it was meant for. Two witnesses must agree only that the ending has passed before the Lens is fired; disagreement in their sensory accounts is preserved rather than resolved, and the disc clears on the transparent interval after both accounts, not when one version wins. The failure that costs more than the toll is editing a goodbye into the message the operator would have preferred — the set then replaces the record with that witness's own final frame.
 
 ### Field Use Record
 
@@ -279,11 +279,11 @@ Every Last Goodbye (C-IVδ-230 [VS]) is a Subject-Void manifestation expressing 
 
 **Entry 2 — <Excerpt from Vault Log, Year 4238>**
 Flicker at 6.4 faces a second against 4.6 two years ago. Personnel in the vault take the final moments of the dead first-hand and glimpse their own somewhere in the sequence, which no two of them describe the same way. It has still never spoken, and the wing has stopped recording that it has not.
-Its memories spread through the Alpha Tree vault. Personnel experience the final moments of the dead and glimpse their own. It communicates through feeling rather than speech.
+Both count sheets were filed unreconciled. No face was described at handover. Each observer stated their own name aloud in the corridor before the vault door was sealed again.
 
 **Entry 3 — <Counseling Log, vault rotation>**
 The ones who sit are not the ones I worry about. The ones I worry about are the cart crews who sit, because they have carried the people on the Office's list and been required by law to set them down and leave, and this room is the nearest thing the city permits them to attending. One told me she comes because it is the only place where nobody tells her she had no connection to the deceased. She had carried him two miles.
-The loneliness of dying and the fear that the last moment will vanish with the person.
+Counseling therefore records the worker's own ending-image separately from any name they carried, checks whether present events are being spoken of in the past tense, and does not ask the worker to interpret a final moment as a message.
 
 **Entry 4 — <Containment Notice>**
 Management: pass the Burial Office's unattended-interment names into the chamber through the slot, one name to a slip, in silence. The previous instruction — acknowledge and record the final moment — described an act the city's own rules forbid a worker to perform and was logged as unperformed for eleven years. Work response — Flerehan: Shows final moments of love, acceptance, or peace. (Decrease); Pugnahan: Releases a wave of fear and regret. (Increase); Viderehan: Reveals the final moment of a selected dead person. (Stable); Ferrehan: Makes the worker experience the approach of their own ending. (Decrease). Personnel experience existential crisis after prolonged exposure.
@@ -404,7 +404,7 @@ Whether the entity's holdings are retrievable in any civil sense has been examin
 
 ### Pulsing and Stealing
 
-Its event is a Corrupt: it pulses in place, cracking the walls, while the containment zone loses definition and it takes memories from everyone it passes. Response uses the badging protocol and the written roster, with the Final Lens carried by the perimeter officer, and the standing instruction is that no responder may enter the zone alone for any reason. The reason given in the doctrine is not tactical. An entity assembled from unwitnessed endings is the one holding in the facility that must never be approached by somebody who has nobody with them, and the wing has written that into the procedure in those terms.
+Its event is a Corrupt: it pulses in place, cracking the walls, while the containment zone loses definition and the pulse takes memories from everyone it reaches. Response uses the badging protocol and the written roster, with the Final Lens carried by the perimeter officer, and the standing instruction is that no responder may enter the zone alone for any reason. The reason given in the doctrine is not tactical. An entity assembled from unwitnessed endings is the one holding in the facility that must never be approached by somebody who has nobody with them, and the wing has written that into the procedure in those terms.
 
 ### The Silent Room
 

@@ -2,7 +2,7 @@
 
 **Archive Authority:** Reverie Directorate Executive Archive  
 **Status:** Supreme Canonical Baseline of Somnarak  
-**Total Tracked Codices:** 38 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~47,500 lines / ~390,000 words)
+**Total Tracked Codices:** 44 In-Universe Master Markdown Documents organized into 5 Canonical Subfolders
 
 ---
 
@@ -69,23 +69,24 @@ Foundational cosmological architecture, metaphysics, origin cataclysms, and the 
 
 ### Subfolder 2: `02_Institutional_Wings_and_Chronicles/`
 Official corporate dossiers and operational doctrines of the sovereign institutions (with all narrative chronicles housed exclusively in their dedicated suites):
-- `The_REVERIE_DIRECTORATE.md` (3,073 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions. *(Paired with the 366-day facility saga in `SOMNARAK-WORLD/The_Absolvohan/`).*
+- `The_REVERIE_DIRECTORATE.md` (3,558 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions. *(Paired with the 366-day facility saga in `SOMNARAK-WORLD/The_Absolvohan/`).*
 - `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles. *(Paired with the 7 subterranean descents in `SOMNARAK-WORLD/Katabagil/`).*
 - `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles. *(Paired with the 6 pacification operations in `SOMNARAK-WORLD/Katharcheok/`).*
-- `The_WONHYEONG_BIOLOGICS.md`: The Won-Hyeong Bio-Restoration Conglomerate master corporate dossier (Main Company 04 / Sovereign Institution 04), 4,000-year history of flesh-suture, Composure Chemistry Directorate, Sub-Vault 04 Archetype synthesis, and Sovereign Pharmacopoeia. *(Brim-full corporate lore, history, and technology).*
+- `The_WONHYEONG_BIOLOGICS.md`: The Won-Hyeong Bio-Restoration Conglomerate master corporate dossier (Main Company 04 / Sovereign Institution 04), post-Great Calcification history of flesh-suture, Composure Chemistry Directorate, Sub-Vault 04 Archetype synthesis, and Sovereign Pharmacopoeia. *(Brim-full corporate lore, history, and technology).*
 - `The_MEMORY_ARCHIVE.md`: The Memory Archive master dossier, 6,000-year-old sub-Alpha tree root architecture, Mnemonic Combat Framework, 7-floor reading stratigraphy, and Seiyon's synthesis engrams. *(Sovereign Mnemonic Repository & Spire Library — Institutional Sanctuary, not a commercial company; paired with the 7 mnemonic readings in `SOMNARAK-WORLD/Gieok_Jeojangso/`).*
-- `The_HORIZON_CARAVAN.md`: The Horizon Caravan master corporate dossier, the Drift Throne 140m mobile crawler specifications, trans-desolate Han-flow navigation, and planetary expeditionary doctrine. *(Paired with the 6 trans-desolate arcs in `SOMNARAK-WORLD/Jipyeongseondae/`).*
+- `The_HORIZON_CARAVAN.md`: The Horizon Caravan master corporate dossier, the Drift Throne 142.5m mobile crawler specifications, trans-desolate Han-flow navigation, and planetary expeditionary doctrine. *(Paired with the 6 trans-desolate arcs in `SOMNARAK-WORLD/Jipyeongseondae/`).*
 
 ---
 
 ### Subfolder 3: `03_Systems_Combat_Engine_and_Physics/`
 Tactical combat specifications, mechanical mathematics, and metaphysical physics:
 - `SOMNARAK_BATTLE_SYSTEM.md`: Tactical combat engine specifications: 4 sorrow elements (Grudge, Lament, Void, Weight), Range Bands 1–5, 100% → 70% → 50% line falloff, 4 armament classes, and Echo-Core Realizations.
-- `SOMNARAK_BATTLE_SYSTEM_STYLES.md`: Definitive master codex for the Hexa-Style Battle System: Generic P.S. Core Foundation, Reverie Directorate (R.D.) Facility Oversight & Echo-Cores, Underworld Cleanup Descend (UCD) Urban CQB & Targeted Part Dismantling, Somnarak Exploration Decree (SED) Abyssal Strata Depth Pressure & Acoustic Sonar, The Memory Archive Mnemonic Suture & Stratum Realizations, and The Horizon Caravan Trans-Desolate Navigation & Bastion Warfare.
-- `SOMNARAK_MAW_CODEX.md` (8,984 lines): Master M.A.W. architecture: extraction theory, weapon range bands, armor ratings, and stigma resonance across 198 complete quadripartite sets (245 planned sets).
+- `SOMNARAK_BATTLE_SYSTEM_STYLES.md`: Definitive master codex for the Seven-Branch Battle System: Generic P.S. Core Foundation, Reverie Directorate (R.D.) Facility Oversight & Echo-Cores, Underworld Cleanup Descend (UCD) Urban CQB & Targeted Part Dismantling, Somnarak Exploration Decree (SED) Abyssal Strata Depth Pressure & Acoustic Sonar, Won-Hyeong Biologics Clinical Triage & Suture, The Memory Archive Mnemonic Suture & Stratum Realizations, and The Horizon Caravan Trans-Desolate Navigation & Bastion Warfare.
+- `SOMNARAK_MAW_CODEX.md` (9,033 lines): Master M.A.W. architecture: extraction theory, weapon range bands, armor ratings, and stigma resonance across 198 complete quadripartite sets (245 planned sets).
 - `SOMNARAK_HAN_RELICS.md` (275 lines): Threefold material taxonomy (Before-Time Primordial Artifacts vs Consolihan Crystallized Relics vs Extracted M.A.W.), full dossier for *Unanswered* (Ishall's paired Before-Time floating hands, Closed Ground, Converging Refusal), and subterranean facility vault distribution.
+- `SOMNARAK_LUMEN.md` (89 lines): Refined, storable Han current drawn from the Weeping for Facility 01 containment fields, Work support, suppression, municipal power, and Absolvohan stabilization; Lumen Units, reservoirs, deprivation, contamination, and Lumen Debt.
 - `SOMNARAK_ORDEALS_FRAMEWORK.md` (301 lines): Tactical framework of the 5-color Ordeals and 4 watches. Integrates the Tripartite Crisis Taxonomy (Ordeals vs Entity Breaches vs Echo-Core Realizations) and Somnarak Potency Grades (Minor-α, Moderate-β, Major-γ, Catastrophic-δ).
-- `SOMNARAK_TABOO_RESONANCE.md` (345 lines): Acoustic physics of the Seven Taboos and resonant punishment dynamics.
+- `SOMNARAK_TABOO_RESONANCE.md` (366 lines): Acoustic physics of the Seven Taboos and resonant punishment dynamics.
 - `SOMNARAK_FACTION_TECH.md` (654 lines): Documentation of faction armaments, Warden Arm-Blade *Threshold Vow*, and Directorate Human Soul & Embodied Architecture Taxonomy.
 - `SOMNARAK_WORKSHOPS.md`: The Six Sovereign Workshops (Yeoul, Cheol-Gyeong, Chim-Mok, Hwa-Seok, Baek-Gwang, Sim-Yeon), non-M.A.W. artisan equipment, Workplace Law, and the 0.5% / 1.0% / 5.0% acquisition percentage curve across Grades 1 to 5 (Legendary Stat).
 
@@ -111,18 +112,21 @@ Societal structures, urban civilian life, economic frameworks, and faction demog
 
 ### Subfolder 5: `05_Entities_Tales_and_Fractures/`
 Entity manifests, cognitive fracture case studies, and anomalous psychological phenomena:
-- `SOMNARAK_ENTITIES.md` (202 lines): Phenomenological theory of Sorrow Entity emergence and crystallization.
-- `SOMNARAK_ENTITY_CODEX.md` (613 lines): Master catalog of entities, SECC codes, risk ratings, and extraction potential.
-- `SOMNARAK_ENTITY_TALES.md` (13,825 lines): Collected folklore, eyewitness testimonies, and tragic origins for 246 entities.
-- `SOMNARAK_ENEMY_LIST.md` (187 lines): Non-entity threats, Outskirts beasts, and rogue constructs.
-- `SOMNARAK_NAMED_FRACTURES.md` (424 lines): Psychological breakdown categories (Corrosion, Meltdown, Panic, Apathy) across 18 documented case studies.
-- `SOMNARAK_WOUND_WALKERS.md` (248 lines): The monastic order of wandering healers sworn to absorb and transmute human sorrow.
+- `SOMNARAK_ENTITIES.md` (202 lines): Linked entity groups, transformation chains, and fairy-tale entities—four groups, three chains, and three tale-born examples in shorthand cross-register form.
+- `SOMNARAK_ENTITY_CODEX.md` (651 lines): Dossier grammar and entity catalog: SECC origin/coherence/potency/element, five physical types including Hazard, ten Form Descriptors, work and combat record structure, immortality/suppression, and a catalog of 253 Sorrow rows plus 7 Unknown cross-references, 14 Hope Transformations, and 8 Unknown entries (37 further dossiers await unique rows).
+- `SOMNARAK_ENTITY_TALES.md` (13,825 lines): Aggregate Narratio/Testimonium/Registrum anthology for 246 Sorrow Entities; a narrative retrieval copy around the individual dossiers.
+- `SOMNARAK_ENEMY_LIST.md` (187 lines): Seventy-one SED/UCD/R.D. operation encounter rows spanning Sorrow Entities, human adversaries, environmental hazards, constructs, and equipment; a scenario register, not a dossier roster.
+- `SOMNARAK_NAMED_FRACTURES.md` (472 lines): Four Fracture stages; Quick, Slow, Partial, and Chronic courses; outcomes and statistics; eighteen cases across living-memory and permanent-transformation ledgers; and the boundary between irreversible citizen Fracture and reversible Echo-Core Cycle Crisis.
+- `SOMNARAK_RELIC_ENTITIES.md` (106 lines): Still-Sorrow doctrine for Object, Place, and Time manifestations: Two-Work-Type Rule, activation versus expansion, representative registry, and Relic M.A.W. extraction.
+- `SOMNARAK_WOUND_WALKERS.md` (274 lines): Year 4250+ post-Dawn pilgrimage of Sooah and the Wound Walkers across seven Crucible Stations, practicing non-containment coexistence and bearing petrified Han scars.
 
 ---
 
-### Subfolder 6: `06_Integrity_Audits_and_Comparative_Studies/`
-Trans-cosmic integrity audits and strict divergence certifications:
-- `SOMNARAK_PM_COMPARATIVE_INTEGRITY_AUDIT.md`: In-depth comparative audit establishing 97.4% structural divergence, 100% plot-hole-free closed-loop mechanics, and absolute ontological independence from foreign fictional universes.
+### Cross-verse material — removed from this archive
+
+There is no sixth subfolder. The ten comparison, conversion, and vocabulary documents that occupied it described another universe's systems, not Somnarak's, and several carried in-world Somnarak letterhead they had no right to. On 2026-10-31 they were moved **out of `SOMNARAK-WORLD/` entirely**, unaltered, to [`PROJECT_MOON_RESEARCH/CROSS_VERSE/`](../../PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md).
+
+`Master_Codices/` is now what its name says: Somnarak canon, five thematic subfolders, no other-verse documents.
 
 ---
 

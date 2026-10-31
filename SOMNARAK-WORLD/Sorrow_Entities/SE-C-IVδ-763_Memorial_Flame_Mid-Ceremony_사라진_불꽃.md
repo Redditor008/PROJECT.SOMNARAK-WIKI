@@ -93,9 +93,9 @@
 ### Consequences
 
 - A worker who breaks under this pressure does not do it loudly. The Sorrow Gauge climbs while **Clarity** thins into a psychological Fracture, and the log records the two movements as one dual failure because nothing in the room separates them.
-- Stay near the cold and the vigil’s unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — bringing cognitive erosion, somatic distortion and environmental taint on a worker who cannot say which of the feelings were ever theirs.
+- Stay near the cold and the vigil's unfinished grief does what the ceremony never did: it moves in with its detail attached — a particular absence, habits, a voice — and the first sign the file watches for is the worker describing somebody else's bereavement in the first person. The counsellor contact is mandatory inside the shift for exactly that reason: the emotion arrived from outside the person carrying it, and nobody consented to receive it.
 - A M.A.W. carried here pays a resonance toll of its own: the unspent grief runs backward along the weapon into the bearer, and the price it extracts is the one entered in the armory ledger rather than anything a briefing can describe in advance.
-- If resolution fails, the ceremony resumes without an end: the entry sharpens into a manifestation, expands inside the holding’s own boundary, and escalates on the unfinished vigil’s terms — each failure adding another mourner to a rite that has not closed since the night it was cut short.
+- If resolution fails, nothing dramatic follows, and the file is blunt about it: the scene does not advance, has never advanced, and will be standing in the same place at the next entry. One thousand one hundred and six entries over nineteen years have not moved the rite a single step. What a failed entry costs is corridor heat against next year's warmth budget and one more line in the register — a name, a duration, and nothing further.
 
 ## Appearance
 **Physical Form:** An empty vault containing the absence of a flame. The room is warm around a dark shape where fire should be.

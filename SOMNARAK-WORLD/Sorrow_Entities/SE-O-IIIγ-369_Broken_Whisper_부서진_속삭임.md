@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A fractured crystal object that emits broken fragments of whispers — half-words, cut-off names — drifting without purpose. Salt-cold, it smells of cold rain; a sentence that shattered before it finished. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Floating — drifts in the underground Han currents without reliably following the mapped flow. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — keeping heard fragments distinct from the listener's own memory |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per settled cycle, average for the band and identical whether the transcript ran long or short |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Vessel-Destructible** | No authorized destruction route — set the I-Relic down and lower Gauge below 25% |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan or Ferrehan, one transcriber, no conferring, nothing joined. |
 
 ### Operational Notes
@@ -51,8 +51,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament, the pressure the object is made of; 25% against everything else the tunnel can bring — no resistance rating applies to the words themselves |
+| **Speed** | N/A — floating object; drift is not directed locomotion, and activation output is measured per turn |
+| **Resistance** | 35% against Lament, the pressure the object is made of; 25% against everything else the tunnel can bring — no resistance rating applies to the words themselves. State the listener's identity anchor before contact, keep every fragment on its own line, and never let resistance to pressure be mistaken for protection against false ownership. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
@@ -72,29 +72,29 @@
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone B, deep tunnels |
-| **Resolution Condition** | Keep the transcript a list — one transcriber, one timekeeper, nobody conferring, and no fragment joined to another — and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | If the I-Relic is held and a permitted name spoken, receive only the emotional message without reconstructing wording; then set the object down, keep the transcript as separate fragments, and lower the Sorrow Gauge below 25%. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Collapsed Word* [**Debuff**] } | "The whisper tried to form — and collapsed — and the rubble of the failed word stings." | [The Whisper's structural failure scatters meaning-fragments at the target.] | *Target suffers -10 Composure; the broken words cut.* **[10 Lament DMG [Lament]]** | When the target tries to listen. |
-| { *The Debris of Speech* [**Debuff**] } | "Each fragment carries a piece of the intended message — and none of them fit together." | [The Whisper's fragments are irreconcilable; the target cannot assemble meaning.] | *Target loses 10 Composure; the puzzle is impossible.* **[10 Lament DMG [Lament]]** | When the target gathers fragments. |
-| { *The Sharp Fragment* [**Attack**] } | "A shard of broken whisper, hardened by collapse, flies free." | [A word-shard launches.] | *Inflicts Lament pressure and one thin, ringing cut.* **[14-22 Lament DMG [Lament]]** | When the fragments are disturbed. |
-| { *The Full Collapse* [**Attack**] } | "The whole list goes at once — every half-word, every break — and the silence afterwards is worse than the cutting." | [The transcript fails together; the fragments arrive as one mass of language and none of it is complete.] | *A heavy Deep Blue avalanche; the target's Sorrow Gauge surges 15% as the fragments cohere without ever finishing.* **[24-36 Lament DMG [Lament]]** | When the Whisper is forced, or when a transcript is joined under pressure. |
-| { *Every Word Falls Apart* [**Ultimate**] } | "Every whisper in the tunnel collapses together, and the debris of language buries the run." | [The collapse spreads down the passages; every fragment in range breaks at once.] | *All in range suffer Lament pressure for three turns of broken speech, and no fragment taken during it may be joined afterwards.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and the list is still being kept. |
+| { *The Collapsed Word* [**Debuff**] } | "The whisper tried to form — and collapsed — and the rubble of the failed word stings." | [A listener supplies the missing ending and the invented completion collapses back through their Clarity.] | *The listener suffers Clarity pressure. Strike the supplied word from the transcript as listener invention, restore the break, and continue one fragment per line without conferring.* **[10 Lament DMG [Lament]]** | When a listener tries to complete a collapsing half-word. |
+| { *The Debris of Speech* [**Debuff**] } | "Each fragment carries a piece of the intended message — and none of them fit together." | [Speech debris overwhelms a worker who stops listing fragments and begins arranging them toward a sentence.] | *The worker loses Clarity. Separate the lines again, preserve gaps, and hand the transcript to the second worker before any order is treated as meaning.* **[10 Lament DMG [Lament]]** | When a worker gathers or arranges fragments to assemble meaning. |
+| { *The Sharp Fragment* [**Attack**] } | "A shard of broken whisper, hardened by collapse, flies free." | [Collapse debris is struck, swept or moved as refuse and a hardened word-shard breaks loose.] | *Inflicts Lament pressure and one thin, ringing break in the listener's recall. Stop clearing the route by force; leave linguistic fragments separate and remove only nonlinguistic collapse residue under the recorded procedure.* **[14-22 Lament DMG [Lament]]** | When collapse debris or word-fragments are physically disturbed. |
+| { *The Full Collapse* [**Attack**] } | "The whole list goes at once — every half-word, every break — and the silence afterwards is worse than the cutting." | [A joined transcript fails as one false sentence, sending every fragment back without verified order or ownership.] | *Heavy Lament pressure; no Gauge surge is inferred. Seal the joined page as a listener finding, restart separate lists with transcribers who do not confer, and do not quote the invented sentence as a worker's words.* **[24-36 Lament DMG [Lament]]** | When a transcript is joined under pressure or a name is used to force a complete wording. |
+| { *Every Word Falls Apart* [**Ultimate**] } | "Every whisper in the tunnel collapses together, and the debris of language buries the run." | [The tunnel output enters false coherence: fragments arrive in plausible order and begin completing one another before breaking apart across the passage.] | *All personnel in range suffer Lament pressure for three turns. Stop speaking names into the object, separate every listener, and keep each list unjoined; ease of understanding is treated as escalation, not progress.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 75% and fragments begin arriving as continuous, mutually completing speech. |
 
 ### Battle Phases
 
 1. **Tension:** The team logs the object's position against the tunnel current map, notes that the two will not agree, and sets the transcription order before approaching — who writes, who times, who says nothing. Nobody speaks a name within hearing of it during this phase, including their own.
 2. **Clash:** Viderehan and Ferrehan are worked while the fragments come, and the transcription rule holds throughout: each fragment is written as heard, on its own line, and nothing is joined to anything. The gauge is read against the transcript rather than against the room, since this entity's agitation shows up as fragments arriving faster than they can be written down separately.
-3. **Resolution:** The cycle closes when the Sorrow Gauge falls below 25% and the transcript has been filed as a list with its breaks intact — which on this holding means the team left without having made sense of anything.
+3. **Resolution:** Set the object down, stop speaking names into it, and file the fragments as separate lines with uncertainty intact. The cycle closes only when the Sorrow Gauge is below 25% and the second worker has checked that no returned message is being recalled as the listener's own — which means the team leaves without having made sense of anything.
 
 ### Consequences
 
 - A worker who cannot hold against this sorrow stops transcribing and starts resolving: the pressure erodes **Clarity**, the fragments begin completing each other in the head rather than on the page, and the instability goes back into the Sorrow Gauge as coherence.
 - The effects compound with duration, and the compounding is quiet. The longer a worker listens the more strongly the fragments cohere in their head, until half-words they transcribed separately have become, without any decision being taken, a single remembered sentence. Nobody reports this, because by then it does not feel like a symptom. It feels like having understood.
-- Each M.A.W. activation debits the wielder past what the grade ledger records. The pieces drawn from this source take composure, recollection and somatic steadiness in the ordinary way, and take one thing besides: the user's confidence about which of the things they remember being told were ever said to them.
+- Each M.A.W. activation debits the wielder past what the grade ledger records, but the costs stay piece-specific: the Weapon carries weeping and heard-grief/personal-memory confusion, the Shroud numbs minor joys while preserving speaker/recipient separation, and the Bell temporarily removes ordinary whispers. The confidence about which remembered words were one's own is checked where the relevant piece touches it; it is not projected across the set.
 - Without resolution the sorrow does not disperse — it transforms, which is the breach type on the classification. The fragments stop drifting apart and begin arriving in sequence, and personnel in the tunnel find themselves listening to something that is finally making sense, which is the single worst condition this holding can be in.
 
 ## Appearance
@@ -166,7 +166,7 @@ The gauge here is read against the transcript rather than against the room. A st
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Held activation only — not worn, strapped or mounted** |
 | **Activation** | Holding the object and speaking a name into it. |
 | **Primary Effect** | Returns one broken whisper as a complete emotional message. |
 | **Duration** | The message lasts until understood or forgotten. |
@@ -179,10 +179,10 @@ The gauge here is read against the transcript rather than against the room. A st
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The object sits in the current until it is taken up, and the first fragment arrives before the strap is fastened; there is no stasis here to describe, only the beginning of a list. | Wearing it opens the field: fragments come as they come, and the bearer carries +10% resistance to Lament while the piece is on them — resistance to the pressure, never to the words. |
-| 30 Seconds | The piece was cut from a shattered object, so the bearer begins hearing with it rather than through it: what they pick up is the murmur of appeals sent up from the deep tunnels and cut off by falling rock, none of them complete. | The benefit and the burden arrive together — focus and reaction hold, composure pays for them, and the bearer starts to need the sentence to make sense. |
-| 1 Minute | The bearer's memory begins filing what they hear as something they once said; the second worker takes over the record from here, because the bearer's own account is no longer reliable. | Past sixty seconds the piece deals 5 Lament damage every 15 seconds; the second worker watches for the moment the bearer repeats a fragment as though quoting themselves. |
-| 2 Minutes | Past two minutes the joining starts on its own: half-words the bearer transcribed separately cohere into a sentence nobody wrote down. It does not present as a symptom; it presents as having understood. | Past two minutes, or a forced removal without stowing, the bearer suffers the recorded cost — a stranger's last words held as a private recollection — and the piece is not reissued to them. |
+| 10 Seconds | The crystal is taken into the operator's hands from the current and a permitted name is spoken; the first fragment may arrive before the timekeeper is ready, so the list begins before contact. | Holding opens the return; it grants no Lament resistance. The transcriber writes only what arrives, one fragment per line, and the operator does not answer for the message. |
+| 30 Seconds | The bearer begins hearing appeals cut off in the deep tunnels, none complete and none verified as a sender's wording. No part of the source is cut, removed or rearranged to make the return intelligible. | Focus and reaction may hold while Clarity pays for the wish to make the sentence finish. Any completion supplied by the listener is marked as listener invention immediately. |
+| 1 Minute | The bearer's memory may begin filing what they hear as something they once said; the second worker takes over the record because the bearer's account is no longer reliable. | The second worker watches for the bearer repeating a fragment as though quoting themselves and ends contact by having the object set down. No timed damage cycle is recorded. |
+| 2 Minutes | Past two minutes the joining can start on its own: half-words transcribed separately cohere into a sentence nobody wrote down. It does not present as a symptom; it presents as having understood. | Set the object down at once, preserve both independent lists, and refer the bearer for same-day counsellor review. The recorded cost is a stranger's last words held as private recollection. |
 
 ### Escalation Notes
 
@@ -262,6 +262,8 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 The three pieces extend Broken Whisper rather than arm anyone against it. Inside the pattern this file records, they help; outside it the cost arrives early and does not reverse on return — the bearer carrying the grief of an appeal that was never heard, and weeping mid-sentence, most often while making a routine report. That last detail is written into the file because it is the one that gets noticed: a bearer weeping during a report is stood down the same shift, and a bearer weeping between sentences is not.
 
+**Set resonance — Message Without Ownership:** The Bell carries a verified emotional fragment, the Shroud preserves the recipient's separate identity, and the Requiem cuts only collapse debris. Used together, the message can reach a witness without becoming the witness's memory or a reconstructed quotation. If anyone supplies the missing words, the set repeats the invention in the dead workers' voices; that repetition is a failure record, never confirmation. An echo forms only after two listeners independently preserve matching emotional content without fabricating a sentence.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -313,7 +315,7 @@ No complete message has been recovered without human interpretation.
 The burden of unfinished pleas and voices broken by fear.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Fragments can be assembled into partial histories. (Stable); Ferrehan: Continues whispering until the worker can bear incompletion. (Decrease). It responds positively to patient listening.
+Work response — Viderehan: fragments are listed separately and never assembled into partial histories. (Stable); Ferrehan: continues whispering until the worker can bear incompletion. (Decrease). It responds positively to patient listening.
 
 **Entry 5 — <Archive Note: On the Three Requests for a Readable Account>**
 Three times in twenty-six years the wing has been asked to produce a plain account of the collapse, and three times it has declined; the declines are filed with the drafts that prompted them. The drafts are competent — each joins the surviving fragments into a narrative that reads as one voice — and each would answer a question this archive cannot answer without doing the joining the holding exists to prevent. What is offered instead is the lists, all of them, unarranged and unselected, with a counsellor present. The note records that this is not a kindness: it is the only form of the truth the facility actually holds, and handing it over transfers the interpretive burden to the person least able to carry it. The wing's answer is that the alternative is doing the joining on that person's behalf and being wrong in a way they could never discover.
@@ -324,7 +326,7 @@ Three times in twenty-six years the wing has been asked to produce a plain accou
 
 | Keep the transcript a list: one transcriber, one timekeeper, nobody conferring, and no fragment joined to another (Keep the transcript a list — one transcriber, one timekeeper, nobody conferring, and no fragment joined to another). | Make sense of it — join the half-words into a sentence, skip the break, or confer with the other transcriber to check you heard the same thing. Every one of those is the holding's own method rather than the worker's. |
 |---|---|
-| Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | Fragments can be assembled into partial histories. The gauge climbs and Broken Whisper withdraws without revelation. |
+| Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | The joined account reads as a partial history, but the history belongs to the listeners. The gauge climbs and Broken Whisper withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)

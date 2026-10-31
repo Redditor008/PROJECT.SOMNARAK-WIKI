@@ -1,0 +1,1025 @@
+{
+  "batch": 179,
+  "status": "CLOSED",
+  "reviewed": 5,
+  "required": 5,
+  "no_change": 0,
+  "repairs": 33,
+  "r18": {
+    "batch_short": 23,
+    "careful_detail": 10
+  },
+  "words_before": 35293,
+  "words_after": 37040,
+  "base": "5e33458b2475b899019b6548c3d93a746e2a3e1b",
+  "preclosing_head": "461dd00f3072fe089d1f5b36a6b0e58d217a5e77",
+  "units": [
+    {
+      "designation": "N-Iα-519",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md",
+      "words": 7027,
+      "sha256": "ace77a9eed469130187adbf6bab1218d7f3cee380b8a4e12646c19dca52149b2",
+      "unit": 1,
+      "name": "Mourning a Life I Never Lived",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_01_MOURNING_A_LIFE_I_NEVER_LIVED.md",
+      "before_words": 7027,
+      "after_words": 7350,
+      "base": "3c23fb5dc9762622e6fba1ff350f729056ef6395",
+      "final_sha256": "b7051e63a758d2f3bcc7b281b4b03adb9890796f3b6beea3320cdeebb6a82663",
+      "summary": "Nine supported repairs replace unspecified creature gaits with documented low tendril flow, restore movement information in two pasted-form fields, align activation with Place-Grudge, distinguish floor exposure from unrecorded planting inside personnel, replace generic landscape/surge claims with measured intention-driven growth and its conditional actions, explain the source-body boundary, and separate all three equipment costs in field records.",
+      "commentary": "The low root-star makes the imagined life tangible without giving the mourner a substitute human body. I find the hard sentence at withdrawal effective because it can be true without making the grief false. The roster-office response is especially sharp: an institution can keep a future open as carelessly as a person can.",
+      "reasoning": "Subject, ResidueI and Minorα with Place-Grudge/Void are expressly joined by the exact Side A; unusual labels alone do not justify reclassification. The supported design is a seed-shaped absence plus a low dark root-star net, ash-smelling and bloodless-cold, visibly flowing along floors without a stem/leaf. No whole-body transformation from the citizen is stated: the Tale says her grief sank into the ground and crystallized. Earlier imagined partner/home/child are contents of a plan, not missing limbs to reconstruct in the source. The physical/abstract mixed organisation and simple spreading motif are valid nonhumanoid sorrow. Standard observations measure edge extent, with rare recorded retreat on naming absence, while combat gives actual release/germination/forced-bloom/Garden triggers. Those named conditional actions are preserved, not assumed ordinary botany. Core fixed-position/noSpeed and mobile floor-creature accounts still need supported scope. Influence through memory and plans is not automatically the same event as erasing literal flooring or taking memories. The low source does not have to look like its derived Glaive, Veil or head-seed; that is not why the same-Weapon Glaive/Lens conflict remains held. Neutral under R19 retained: two pairings are documentary and MemoryWell joint encounter has flat gauges, not shown aid/suppression. The final whole-design outcome is HELD, not independently completed.",
+      "history": "B124 unit1 402d01ecf52512f016240161fa30a13e2984c6bc and evidence follow-up b9907383c40dc41ed4659cb1b6afa7581b3c4f99 already credited the full exact set and SE519B/MAW-W519-01 Weapon pair. Current WIP B124 opening/pair-history/unit1 evidence reread; exact commit hashes expanded. The empty newer equipment_reviews array entry is not fresh coverage. +0Types/+0Weapon/+0SE. B124 corrections keeping unidentified losses unidentified and avoiding invented severity order remain intact.",
+      "holds": [
+        "Physical Form/Appearance/Breach describe a mobile low floor-creature and leaving the vault; CoreSpeed says fixed object, with operational EntityRole/Work/Trivia calling it Object/Place while header and exactA say Subject. ExactA expressly supports Subject/Place-Grudge and two WorkTypes, so this is not an automatic type-label repair. The relation between rooted extent, active edge and whole-body relocation remains unestablished. No rooted/detached phase or invented state change added.",
+        "Ordinary floor is cleaner beneath tendrils and the whole tale/observation is root-shaped absence without a physical plant; CombatSproutingNothing/Bloom/Garden explicitly erase floor/portions and scatter germinating seeds. These are documented conditional actions, not automatically ordinary plants or imaginary damage. Their relation to the vault floor and remaining edge is not supplied; no reversible floor-restoration or harvesting mode invented.",
+        "DetailedActivation says memories intact and no drain, while BreachEffect/Secondary erase identity/names/faces and CombatBloom thins an account. State-specific differences may be valid, but their permissions and retained thresholds must not be flattened into universally harmless revelation or universal amnesia. Flavor says source takes nothing; Weapon and Stigma have real separate costs. No donor-cost equivalence assumed.",
+        "Source baseline time-in-vault costs nothing and30shift no-spoken-intention growth=nil coexist with RegistryTrivia growth in empty sealed vault from work elsewhere and Review unassignedinstitutionalwork. That may be an institutional extension, but no scope rule says when unspoken external intentions contribute. Gauge45%, Garden65%, no breachcounter and drain+5/Gauge+10 per spokenplan are distinct unchanged fields, not merged into one invented trigger.",
+        "SECC/Story/SideA and primary field detail locate AlphaTreeVaultZoneA andComprehension1; primaryRegistrum and standaloneTale193 say ZoneD/Comprehension2. No transfer date or knowledge-stage chronology resolves them. SpreadingSeed is joined by exactN-Iα-519 identity, not assumed a separate source, and no false numeric519 crosscredit.",
+        "Primary and Master index identify SowingGlaive/crescent polearm; exactA/B/CSV and Masterdetail identify EmptyLens/paleHan-glass lens. SameWeapon has no form/mode crosswalk. PrimaryShort2 versus Instantarchetype unresolved. Primary broadblade sweepingcrowds versus Single/one designatedtarget/one-hit application remains an unscoped appearance/action claim; no AoE or multiple-target mode added.",
+        "Glaive causes doubt about genuine remembered events and loses small namelessmemories; exactLens removes only a false-memory claim and spends one namelesspersonalpossibility. Existing B124 purpose/issued-effect distinction is preserved, not converted into proof of recovered false history. A realmemory misclassified is expressly a failure. Victim doubt is not verification.",
+        "MasterSuit bucket LivingChitin/Carapace versus matched primary/itemHan-gossamer Veil has no construction crosswalk. Root-weave/presentidentityline can be details of a veil, not another donor anatomy; pale versus colourless descriptions alone need not hold it. PrimarycoldVeil and warmidentityline may concern different parts; do not invent thermal mechanism. StigmaHead5%+1Composure matches exactA/D; no repeat bonus repair needed.",
+        "The source says a future never happened; the exposed researcher says it never could have been possible, while the exactSeed checks real appointments/deposits/persons and preserves ambiguity. Nonoccurrence does not prove impossibility. The withheld sourceplan must not be reconstructed or supplied to vaultstaff; existing printed generic Tale examples are not proof of private original contents. No guessed biography or binary verdict added."
+      ],
+      "split": [
+        7,
+        2
+      ],
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — the low net flows across floors on its root-tendrils. Track the edge against the vault markings; the documented reach stays low, rather than walking upright or rising into a stem. |",
+          "evidence": "Appearance PhysicalForm/Movement and protocol, BreachMovement and ObservationInitial explicitly low flowing net; remove list of unevidenced alternative gaits without changing Physical Form."
+        },
+        {
+          "kind": "short",
+          "old": "- **Position / movement:** Physical Form: A small seed-shaped absence that spreads through the floor as a dark root pattern.",
+          "new": "- **Position / movement:** The root-tendril net spreads and flows across floor surfaces, remaining below ankle height. Record its widest extent and the edge against the vault markings, not a duplicated form label.",
+          "evidence": "Appearance firstline/protocol and Observation Initial already specify tendril-flow, extent, lowheight; repair position field pasted fromForm."
+        },
+        {
+          "kind": "short",
+          "old": "| **Position / movement** | Physical Form: A small seed-shaped absence that spreads through the floor as a dark root pattern. |",
+          "new": "| **Position / movement** | A low net of tendrils flowing across the floor; measure its widest extent against the vault markings and record whether the edge advanced or retreated during the watch. No stem or leaf marks an upright position. |",
+          "evidence": "Appearanceprotocol plus Observationmethod and StoryEntry3 include both advance and actual rare retreat; no new gait or invented regression cycle."
+        },
+        {
+          "kind": "short",
+          "old": "| **Manifestation** | Place-Void|",
+          "new": "| **Manifestation** | Place-Grudge, expressing Void as recorded in the SECC classification, Story Entry and Tale. |",
+          "evidence": "SECC/StoryEntry1/primaryTale and exactSideA explicitly PlaceGrudge, with Void as Element; correct the activation summary rather than reclassifySubject."
+        },
+        {
+          "kind": "short",
+          "old": "> *\"Mourning a Life I Never Lived has broken free. Plants itself in personnel, growing within.\"*",
+          "new": "> *\"Mourning a Life I Never Lived has extended beyond the vault. The low net crosses the corridor floor; personnel are exposed by standing within its extent. Record the edge and the unfinished plans, not an unrecorded planting inside a body.\"*",
+          "evidence": "BreachMovement says net flows acrossfloor/doesnotriseorstrike/standingextent; no intrabody seed state given. Distinguish person effects from physical planting, no surgical mode."
+        },
+        {
+          "kind": "short",
+          "old": "**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Void has topography here — ridges of pressure, valleys of absence, a geography only the Place-Grudge could have made.",
+          "new": "**With continued exposure:** The measured change follows unfinished intentions, not time in the vault. A handover can lengthen the net without a work cycle taking place; compare the tape with what the shift said it meant to do. A quiet hour is not a full-shift baseline, and an imagined landscape is not a measured change in the floor.",
+          "evidence": "CombatConsequences,30shift StoryEntry2 and Interactionmethod establish intention notclock/noWorkneeded/fullshift control; replace generic unmeasured terrain claim, preserve individual visions."
+        },
+        {
+          "kind": "short",
+          "old": "**When the entity activates:** The Gauge crosses the line and the Place-Grudge remembers what it is. The Void surges — not as an attack but as a statement, a declaration that this sorrow will not be quieted.",
+          "new": "**When the entity activates:** Record what unfinished intention was spoken, by whom, and where the edge reached against the vault markings. Growth is entered as an extent, not a declaration. A Seed release, germination, volley or forced bloom has its own listed trigger; a Gauge reading alone does not establish which action occurred.",
+          "evidence": "DetailedActivationreportingorder/StoryEntry2/control and CombatActions distinct listedtriggers; replace generic universallynonattack surge without erasing documented conditional actions."
+        },
+        {
+          "kind": "careful",
+          "old": "**Notable Features:** It reveals empty spaces rather than filling them and grows without producing a plant.",
+          "new": "**Notable Features:** It reveals empty spaces rather than filling them and grows without producing a plant.\n\n**Reading the net:** The low root-star shape is the current form, not a miniature person living the citizen's unrealised life. The Tale gives grief a seed-shaped absence in the ground; it does not say the mourner's body became the creature. Follow the visible tendrils, the seed-shaped absence and the floor beneath them as separate observations. The ordinary account has no stem or leaf, while the combat list separately describes germination, holes and a forced Void bloom; those named actions do not establish an ordinary flowering plant. The file also calls the source mobile and calls its combat position fixed. Neither a moving edge nor a growing affected extent alone settles whether the whole form relocates. Keep that relationship open instead of inventing a rooted phase, a detached body or a transformation between them.",
+          "evidence": "Whole chain SECC current mixed lowcreature/PlaceGrudge, origingriefcrystallization nothumantransformation, ordinarynostemleaf, conditionalCombat, fixedSpeedcontradiction. Concrete subject/state boundary; no additional anatomy, scale, mode or permissions."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the day's reading, and a written baseline of the wielder's own plans for the month, held by somebody else and not shown to them — on this set the cost falls on the reliability of that list rather than on the memory of it. |\n| **During use** | Watch for the toll's first sign — the wielder losing small nameless memories without noticing — and enter the hour the second worker first sees it rather than the hour the wielder first mentions it, which on every record kept so far has been never. |\n| **At limit** | The wielder stops noticing the toll, and the report they write reads as the work of somebody slightly less present than the person who began the shift. Every stand-down on this set has been called by the second worker on that reading. |\n| **After use** | Return the piece and put the question to a colleague rather than to the wielder: is the absence still showing? The answer is entered whether or not the wielder agrees, and on this set the disagreement itself has been entered twice. The seed’s pre-use outline is retained as evidence of the future spent; the weapon’s memory loss is entered only to the extent the second worker can evidence it against the baseline. An unidentified loss stays unidentified rather than receiving an invented outline or borrowed content. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the wielder and piece, take the day's reading, and leave the written plan baseline with the second worker rather than the bearer. Keep its scope clear: the Glaive's nameless memory loss may be evidenced against that baseline, the Veil's cost is feeling absent to oneself, and the Seed spends one imagined future whose outline is recorded before use. Do not circulate the source citizen's withheld plan to fill a gap in the bearer's record. |\n| **During use** | For the Glaive, enter the second worker's first evidence of an unnoticed memory loss; a target's doubt is not proof that an event was imaginary. For the Veil, record greetings felt to belong to somebody else and inspect the present identity line before imagined roots. For the Seed, compare the spent future with its pre-use outline without forcing ambiguous evidence into a verdict. |\n| **At limit** | The second worker's stand-down call does not depend on the bearer noticing a cost. Record which piece was used and the actual sign: an evidenced memory loss, a weakened sense of present identity, or the Seed's spent possibility and its recorded failure signs. An unidentified loss remains unidentified; do not reconstruct a missing future or rank the Veil's failures by an invented severity ladder. |\n| **After use** | Ask the colleague whether the absence still shows and retain the answer even if the bearer disagrees. Keep the Seed's outline as evidence of the future spent, the Glaive's losses only to the extent evidenced, and the Veil's present-identity inspection separately. Issued equipment and a granted head-seed do not share an assumed return or removal procedure. No invented outline, borrowed memory or replacement fantasy closes an unresolved entry. |",
+          "evidence": "Exact519B memory/possibility cost distinction and documentedGlaive ambiguity, Cidentityinspection/cost, Dpreoutline/uncertainty/failure. Prior table wrongly applied weapon unnoticedmemories to every piece and allissuedreturn; preserve baselinewithsecondworker/noinventedlostoutline/B124followupconstraints."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.025  clean    81 grams  최종 관찰 (Final Observation)\n 0.020  clean   150 grams  기록 (Registrum)\n 0.015  clean   194 grams  Trivia\n 0.015  clean   132 grams  Operational Parameters\n 0.013  clean   607 grams  Combat Record\n 0.003  clean   696 grams  감각 묘사 (Flavor Text)\n 0.003  clean  1078 grams  M.A.W. Equipment\n 0.000  clean   400 grams  Appearance\n 0.000  clean   377 grams  이야기 (Narratio)\n 0.000  clean   321 grams  이야기 보고 (Story Log)\n 0.000  clean   303 grams  관찰 기록 (Observation Log)\n 0.000  clean   240 grams  Expansion Behavior\n 0.000  clean   193 grams  Breach Behavior\n 0.000  clean   180 grams  Origin\n 0.000  clean   176 grams  Behavior\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    26 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle, drawn from the edge of the net rather than from the seed, and\n   84   8  | { *The Void Garden* [**Ultimate**] } | \"The seeds cover everything, and where they bloom the world is not there anymore.\" | [The\n  222   1  **Ability:** Void damage to the soul rather than the body — to identity and to the sense of self. The glaive carries the holding's\n  244   2  **Cost:** The wearer feels faintly absent to themselves and reports it most often as other people's greetings seeming to be meant \n  325   2  > The choice at the end of a session is a sentence rather than a stroke: the worker either says plainly that what they were shown \n  357   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  412   3  **Review requirement:** Re-verify after any Sorrow Tide, after any expansion of the net, and after any roster change that leaves s\n  425   3  - **Record detail:** Check the designation before approach. More than one record in this vault involves seeds and they want opposi\nGENERIC 0.004  (23 shared shingles)  SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-A__SIDE_CODEX_Mourning_a_Life_I_Never_Lived.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-B__MAW-W_The_Empty_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-C__MAW-S_The_Empty_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-D__MAW-G_The_Empty_Seed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-A__SIDE_CODEX_Mourning_a_Life_I_Never_Lived.md": "250da7fd2b6699acf49812f4158e82efe3e576b3e9f74c587986e614a18997a3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-B__MAW-W_The_Empty_Lens.md": "4c226b8171b1f8687d5f2e8f00985d438492f9a9da16a321f76ce946061f7546",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-C__MAW-S_The_Empty_Veil.md": "8c4f9c8bbd2fa0cd33453df719ca18e2387a53211d6ebe7d3444336bdd5873e3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-519-D__MAW-G_The_Empty_Seed.md": "829f8ab1fa4bf49148b97a6f68254007c50082a05cd6075fb9e33002063d72b5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/README.md": "bc2786709b568403de4fd8a0454a432c3be8163facc66faf01ec07b981b49071",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-519_Mourning_a_Life_I_Never_Lived_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%94%A8%EC%95%97.md \"SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\")]",
+      "table_link": "[Mourning_a_Life_I_Never_Lived](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-519_Mourning_a_Life_I_Never_Lived_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EC%94%A8%EC%95%97.md \"SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\")",
+      "reading": {
+        "before_lines": 430,
+        "before_bytes": 41899,
+        "final_lines": 432,
+        "final_bytes": 43954
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 129,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    },
+    {
+      "designation": "C-IVγ-205",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-205_Hollow_Tree_빈_나무.md",
+      "words": 7062,
+      "sha256": "8e444f40259eddeed847f8088c1285a3e8b3da7c0935269afc0ad733f728b02e",
+      "unit": 2,
+      "name": "Hollow Tree",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md",
+      "before_words": 7062,
+      "after_words": 7493,
+      "base": "659a0f7b8a85bde82ecfa065262f5001296e83ee",
+      "final_sha256": "6184134592f384542456461b5283b65578f1964517693e9ec77c2304fb9698b0",
+      "summary": "Five supported repairs replace the generic creature-gait list with found root-leg relocations, mark the prohibited Work response as prohibited in the combat summary, replace Tide growth with the measured widening quiet, separate shell, cavity, quiet and standing figure in Appearance, and record the Weapon, Carapace and Gullet costs separately in field use.",
+      "commentary": "What stays with me is that the most useful act here is refusing a use. The bare chamber could read as neglect, but the file makes it disciplined care: feed the hollow a purpose and it deepens. I also trust the garden crews in this record more than the gauges, because they noticed the silence with their own ears first and kept noticing in an unofficial log nobody ordered them to keep.",
+      "reasoning": "Subject, Subject-Body and Weight are expressly joined by the exact Side A; the primary display name Hollow Tree and the Side title Timber Maw stay distinct. The supported design is an enormous stripped tree standing on exposed root-legs, its trunk open into an acoustically dead cavity a worker can sit in, lead-cold and smelling of wet stone. No planter became the trunk: the Tale follows the planted tree itself, grown to the promised shape after its intended gathering never arrived, then hollowed from inside. Ordinary movement is a found night relocation inside the Gardens after weeks rooted in place; breach rooting through a floor is the same root-legs in a different recorded context, and nobody has witnessed the walking itself, so no gait beyond root-legs is documented. The standing figure tracks the Works Office count of unshown working lives, not trunk growth. The cracking, fall and garden-wide opening are conditional Combat results under listed triggers, not an ordinary splitting cycle. Work turns on sitting inside without proposing a use; the response table and the authorisation to act are different records. Derived equipment need not resemble the tree; the cleaver/staff, gullet provenance and Suit construction questions remain because they are same-item conflicts, not donor differences. Neutral under R19 retained: the Saint withdraws without effect, the Flower flowers without figure change, and the Colossus stay lowers the Tree figure without the Tree aiding any holding. The final whole-design outcome is HELD, not independently completed.",
+      "history": "Batch 77 unit 5 and Batch 78 unit 5 already counted the exact SE-205-B Weapon hold (cleaver supported by primary/Master Entry 217, staff by Side/item, no transition). Batch 113 unit 1 (734b6e0) completed the full-SE disposition, named the Side-supported +2 Resolve, and expressly did not recount the Weapon. Current WIP Batch 113 opening/evidence/history and CHANGELOG Batch 77/78 entries reread. +0 Types / +0 Weapon / +0 SE. The Batch 113 cross-source review block inside the primary remains intact.",
+      "holds": [
+        "Same Weapon, two profiles: the primary first profile, Master Entry 217 and archetype MAW-W-205 describe a two-metre living jaw-cleaver; the primary second profile, Side A weapon card and SE-205-B describe a Han-absorption staff with different damage, speed and pattern, and the personalization note calls W-205 the first true staff, while the archetype row lists Close. No transition, mode change or issue choice is documented. The Apex cutting lead carrying the Timber-Jaw fits cutting work but does not settle the staff record. Held since Batch 77/78; field records now name the issued profile without merging them.",
+        "Tending span: Origin, Viderehan, Registrum and Apex give ninety-one years by eleven rotas with the hollow opening around the eightieth year; Story Entry 1 and the Registry Addendum give sixty years of correct tending, while sixty years is also the span of trunk measurement. No scope distinguishes total tending from a Gardens-era subset. The spans were not normalised by majority or by arithmetic.",
+        "Older standalone Registrum in Tale 73 gives Comprehension Level 3, Threat Low, Ferrehan as primary, a static tree and SED/UCD faction involvement, against the primary Level 2, Major threat, Flerehan primary, a walking tree and no faction. The primary Registry Trivia already surfaces the level and threat discrepancies as unresolved; no transfer, re-rating or knowledge-stage chronology is supplied.",
+        "Pugnahan permission: the primary prohibits Pugnahan in response, phases, escalation and Registrum because it deepens the cavity; Side A reserves directed Pugnahan for breach suppression and turning after corridors clear. The combat summary now states the primary prohibition. No directed-use clearance was imported or granted.",
+        "Extraction and Stigma provenance: Operational Notes authorise root-crown extraction while Resistance says the trunk has never been cut and a core sample was refused; the primary says eleven gullets were cut from heartwood and issued to watch Wardens. Side A says no bark, root or material is cut and shapes only settled residue; the Suit condenses from a worker's shoulders; the Stigma is an unmanufactured single bestowal that cannot be copied. No harvesting or copying bridge was invented.",
+        "Stigma form and function: primary seed-shaped hollow charm that tests whether a held thing's purpose still exists; SE-205-D thumb-length bark-grain steel that tilts toward a waiting place and expressly cannot locate persons or prescribe filling; Master Entry 219 teeth-ring at the collar; Registry CSV generic Accessory at a different acquisition figure from the primary and item. Head slot and the Resolve bonus align after Batch 113; silhouette and discernment scope do not.",
+        "Suit construction: primary stripped bark-fibre mantle with a hollow at the back; SE-205-C petrified bark plates and Han-weave with a persistent hand-width gap and empty shoulder; Master Entry 218 files it under a Living Chitin bucket. Resistance figures align across primary, Side and item. A derived garment need not copy the tree, but no same-item construction crosswalk is given.",
+        "Gauge scopes stay separate: starting range, combat activation threshold, two-condition operational countdown, breach opening with per-interval rise, hit-point figure and the Gardens standing figure are distinct fields with distinct sources. The breach opening below the starting range and the shared hit-point/standing value have no stated scope rule. None were merged into one trigger or one meaning.",
+        "Interior state and trunk closure: Flavor gives simply room with no cold, first contact gives a dry cold interior, and Flerehan warms it, without a stated worked/unworked temperature rule. The Interaction Pattern measures pairings by whether the trunk is open or closed and says it has closed twice, but the three recorded pairings do not identify two closings or their condition. No open/close cycle was invented."
+      ],
+      "split": [
+        3,
+        2
+      ],
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — stands rooted for weeks, then walks slowly on knotted root-legs inside the Gardens. Relocations are found in the morning rather than witnessed; log the new position, lean and mouth against the floor grid instead of waiting to watch it move. |",
+          "evidence": "Physical Form knotted root-legs; Appearance and Detailed Profile rooted-for-weeks, night walking inside the wall, never seen in motion, found rather than witnessed; Appearance protocol lean/mouth/floor grid. Removes unevidenced alternative gaits without changing Physical Form."
+        },
+        {
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan in ordinary work. Pugnahan has a recorded response in Behavior and is prohibited there: the roots draw in and the cavity deepens. A response row is not an authorisation to use it. |",
+          "evidence": "Behavior Pugnahan Prohibited/Increase; Recommended response, Battle Phases, Escalation Notes and Registrum repeat the prohibition. Summary cell aligned to the primary's own rule; Side A directed-suppression wording left as a held permission conflict, not imported."
+        },
+        {
+          "kind": "short",
+          "old": "It grows slowly during the Sorrow Tide.",
+          "new": "Through a Sorrow Tide the quiet widens at the acoustic rings while the trunk itself does not change.",
+          "evidence": "Observation Log Tide line and Story Entry 2: quiet widens at the rings, hollow unchanged, no growth or decay; Operational Notes sixty years of measurement without growth. Replaces the lone Tide-growth claim in Story Entry 4 with the file's own measured account."
+        },
+        {
+          "kind": "careful",
+          "old": "**Notable Features:** A cavity that returns nothing, a steady draw on anything loose in the room, and a quiet that spreads outward through the gardens and is measured at fixed radii.",
+          "new": "**Notable Features:** A cavity that returns nothing, a steady draw on anything loose in the room, and a quiet that spreads outward through the gardens and is measured at fixed radii.\n\n**Reading the hollow:** The stripped trunk on root-legs is the current form, not a settler preserved inside a tree. The Tale follows a planted tree whose intended gathering never arrived; it does not say a planter's body became the trunk. Keep four records apart. The shell is what can be seen and measured: bare branches, stripped bark, lean and mouth position. The cavity is the open interior a worker can sit or stand in, where speech returns nothing. The quiet beyond the bark is an effect read at the rings, not another ring of wood. The standing figure is the Gardens' return set against the Works Office count, not a measure of trunk growth. Ordinary movement is a found relocation inside the Gardens: rooted for weeks, elsewhere by morning, never witnessed on the way. Rooting through a floor and entangling whoever stands there belong to the breach record. The cracking shell, the fall and the garden-wide opening in Combat are named results under their listed triggers; they do not turn the unchanging measured trunk into a cycle of splitting and regrowth, and none of them is permission to strike, brace or fell it in ordinary work.",
+          "evidence": "Whole chain: Tale planted tree without human transformation; Appearance shell/cavity/rings separation; Apex Standing Figure Works Office meaning; Detailed unseen found relocations versus Breach floor-rooting; Combat Split/Topple/Forest listed triggers versus measured no-growth trunk. Concrete subject/effect/figure boundaries; no new anatomy, cycle, permission or number."
+        },
+        {
+          "kind": "careful",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the tree's current position and last movement, and the wielder's one-sentence statement of what their work is for, written down and dated. |\n| **During use** | Any proposal the wielder makes for the ground the tree is standing on, in any form, including as a joke. |\n| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. |\n| **After use** | Read the dated sentence back to the wielder a week later and ask whether they still agree with it. Nine of eleven did not recognise having written it. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Name the wielder and each piece carried, the tree's current position and last found movement, and the chamber inventory counted at both doors. For the Gullet, write and date the wielder's one-sentence statement of what their work is for before the piece is taken up. For the Weapon, enter which recorded profile the issued piece follows and leave the other profile out of the day's orders; the file holds both and no field entry merges them. For the Carapace, confirm nothing is packed into its hollow fold. |\n| **During use** | Enter any proposal for the ground the tree stands on, in any form, including as a joke. Keep the tolls apart: with the Weapon, places beginning to feel empty on entry; with the Carapace, the low fatigue and the sense of having been useful at something unnamed; with the Gullet, slower movement beside the ability to say what the work is for. One piece's sign is not evidence about another. |\n| **At limit** | The wielder offers to plant something. Three rotations have reached that point and all three wielders were gardeners by trade. Stand the piece down on that offer whichever piece is carried; do not wait for the other pieces' signs to appear. |\n| **After use** | Return the piece unfilled and count the inventory out again. A week later, read the dated Gullet sentence back and ask whether its author still agrees; nine of eleven did not recognise having written it. Enter Weapon emptiness and Carapace fatigue as their own after-effects with their own dates, not as part of the sentence record. |",
+          "evidence": "Existing Field Use sentence/week-later protocol retained for the Gullet; Weapon Cost emptiness of places, Carapace Cost fatigue/unnamed usefulness and unclosable hollow fold, both-doors inventory and Batch 113 two-profile hold already in the primary. Separates three costs without merging cleaver/staff or inventing a combined set toll."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVγ-205_Hollow_Tree_빈_나무.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.000  clean  1227 grams  Apex Record\n 0.000  clean   726 grams  M.A.W. Equipment\n 0.000  clean   481 grams  Combat Record\n 0.000  clean   455 grams  감각 묘사 (Flavor Text)\n 0.000  clean   420 grams  이야기 (Narratio)\n 0.000  clean   402 grams  Appearance\n 0.000  clean   296 grams  이야기 보고 (Story Log)\n 0.000  clean   259 grams  기록 (Registrum)\n 0.000  clean   213 grams  Origin\n 0.000  clean   189 grams  관찰 기록 (Observation Log)\n 0.000  clean   131 grams  Breach Behavior\n 0.000  clean   125 grams  Trivia\n 0.000  clean   118 grams  Operational Parameters\n 0.000  clean    92 grams  Behavior\n 0.000  clean    62 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "GENERIC 0.000  (0 shared shingles)  SE-C-IVγ-205_Hollow_Tree_빈_나무.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-A__SIDE_CODEX_Timber_Maw.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Hollow_Staff.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Hollow_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-A__SIDE_CODEX_Timber_Maw.md": "0935ab333f733673dd9fb7da47b881760ceb523970de6c7d70e05971a650c12f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Hollow_Staff.md": "bb81d5758d0499455070efb0f5e6adb1b56174f05cc9a7a9ddd011276d9ea700",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Mantle.md": "f790139ecc4cddb910b4de9eb306862cb264a22476fd929f24010fded485d26c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Hollow_Charm.md": "7fa3a4d10eb4067b44ec0f683f44fa2e5dd8066b784c6ccdd5ad11da2b998b32",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/README.md": "b572b25e98c0b896de2100bec826c2857da44daa9059f0c25bd72a2def719448",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVγ-205_Hollow_Tree_빈_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-205_Hollow_Tree_%EB%B9%88_%EB%82%98%EB%AC%B4.md \"SE-C-IVγ-205_Hollow_Tree_빈_나무.md\")]",
+      "table_link": "[Hollow_Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-205_Hollow_Tree_%EB%B9%88_%EB%82%98%EB%AC%B4.md \"SE-C-IVγ-205_Hollow_Tree_빈_나무.md\")",
+      "reading": {
+        "before_lines": 443,
+        "before_bytes": 42167,
+        "final_lines": 445,
+        "final_bytes": 44660
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 128,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    },
+    {
+      "designation": "O-Vγ-003",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md",
+      "words": 7063,
+      "sha256": "94134e885d147deca8beafd4da6e551ce99d03e22027dcc3d750923374534ee9",
+      "unit": 3,
+      "name": "Wilderness Tide",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_03_WILDERNESS_TIDE.md",
+      "before_words": 7063,
+      "after_words": 7445,
+      "base": "90bec269b5cff26e5c93a0ef2ab67ef7f9912013",
+      "final_sha256": "54b5072c1917c77fb50277c7c16eb489314e138de5286dad810d3fa07e115ba8",
+      "summary": "Six supported repairs clear the file's sole seam hit, ground the combat consequences in the Long Surge catalogue entry, align the clash phase with endurance and observation, label the wall-failure fields as an unrecorded contingency, separate surge front, wild source, dissolved contents and residue in Appearance, and record the Side-only no-extraction registry against the present item files and Wild Mark without authorising any piece.",
+      "commentary": "This is the rare holding where the bravest sentence in the file is that nothing happened. I believe the Rangers' version of heroism — logs, lamps and cleared drifts — more than the combat table's vines, because the chronicle never needs the Tide to attack for the pressure to matter. The sighting after the Long Surge works precisely because the file leaves it as one tired sergeant's oath instead of promoting it into a face.",
+      "reasoning": "Object/Place, Place-Weight and Sovereign coherence are joined by the exact Side subject card. The supported design has no creature body: a moving front of raw wilderness Han rises beyond the Desolate, breaks on the Zone E border, recedes, and leaves salt residue by which its intensity is officially read. UnWiHan is ever-present source, not a hidden larger animal; dissolved wilderness fragments are carried contents; a Double Tide is coincidence with the city's nightly cycle, not a second anatomy. Work is observation from the towers and endurance at the wall only. The flood fields describe what an overwhelmed wall would mean, including the zone-wide arming effect behind the Negative disposition, while the catalogued and chronicled record is that the wall has held and record pressure steadied under witness. The Maw drinking claim stays marked speculation and earns no aid inference. Hit points, resistances and green seizure belong to the combat simulation layer over a bodiless front and still need their literal scope. The Side-only no-extraction registry, the three present item files and the requested Wild Mark cannot yet be one equipment account. The final whole-design outcome is HELD, not independently completed.",
+      "history": "Fresh all-type disposition. Current WIP, CHANGELOG with both archived volumes, APPEARANCE_PROGRESS and MAW personalization progress searched by full designation, English and Side titles, Breaker/Bulwark/Brine names, exact B code and filename. Hits are the R-29 condition/series prose unit that authored the surge catalogue figures with disclosure, the Outside Sovereign distribution note, the structure inventory recording absent Use Notes and Field Use headings, and Batch 178/179 pending fingerprints. None is a source-led exact-set or exact-pair disposition; ledger absence alone was not used as proof. Exact Side A closes Side-only and the comparator skips non-complete Sides as exception sets, so this review earns +1 Types only. Weapon +0: extraction is prohibited and no authorised paired Weapon stands in paired scope, whatever the present B file claims. SE +0 held. No artwork credit.",
+      "holds": [
+        "Equipment existence: primary, Registrum, range README and exact Side A prohibit extraction for want of a sorrow-core, with forging, bottling and wearing already failed, while B/C/D files under the same numbers claim a complete set with incidents, bearer costs and corrosion, the Registry CSV lists all three, and the Chronicle grants a requested Wild Mark with pressure-sense. Manufactured Warden gear is expressly distinct in Side A. No authority reconciles born, built, failed and requested accounts; nothing was imported or deleted.",
+        "Bodiless form versus combat layer: Physical Form gives no body to strike and no vessel to destroy, while Core gives hit points, per-hit pressure and damage resistances, and three actions grow literal vines that seize and reclaim. The Green Silence beyond the border is unwitnessed quiet, not vegetation. The Mechanics Reference frames operational values as simulation support under the SECC record, which scopes part of the difference; literal strikeability and greenery remain held.",
+        "Wall mechanism: operational sections crack, shore, seal and rebuild a stone wall while the Chronicle says walls do not stop Han, the border is a sensing membrane, and fully witnessed pressure steadies by attention. Ferrehan endurance lowers the gauge while Directorate posture says this Sovereign has never been worked, only endured, charted and respected. No scope yet separates structure, witness and work-type language.",
+        "Breach scope and triggers: flood expansion and a zone spike that may activate every neighbour are contingency fields, now labelled unrecorded, against a chronicle of no breach and a closest pressing ending in readings. Side A adds a precise trigger ladder and names combat actions as telemetry and protocol stages; its wall-open Ultimate condition and the primary gauge condition were not merged, and its numbers were not imported.",
+        "Yield and chronology scopes: unharvestable raw Han against a per-cycle containment yield; millennia of wall and records against centuries of tide charts, a first documented major surge long after the wall claim, and a primary dated before the current monitoring level. Each figure may belong to a different archive, but no archive scope is stated. All digit sequences were left untouched.",
+        "Border personnel: Wardens with garrisons, a Border Lead and a classification commander; Watchtowers, Border Shield teams and Architects; Rangers as the oldest order under Border Watch and Threshold doctrine; Scavengers harvesting residue. The file layers these services without a crosswalk, and only Rangers may request the Mark. No ranks were merged.",
+        "Mind and intent: no personality, simply pressure, a wild that does not know the city, set against a Tide that knows, waits, tests, rises to meet city grief without exception, and may be done waiting. Seasonal accumulation triggers and catastrophe coincidence both stand. Personification, correlation and the single watching-shape sighting were kept as record, not promoted into a confirmed will or face.",
+        "Residue handling: scrub it before it erodes the stone and catalogue it as the official measure; Scavengers harvest it for unstudied refined properties; Side A wants it scraped and catalogued before repair crews enter and records bottling as a failed bond. Harvest permission, crew safety and refinement authority remain open.",
+        "Sovereign count: Trivia allows a second unknown Outside Sovereign, possibly the Exile source, while the Codex distribution note documents exactly one. Documented and rumoured scope were retained side by side; no second Sovereign was confirmed or erased."
+      ],
+      "split": [
+        4,
+        2
+      ],
+      "repairs": [
+        {
+          "kind": "short",
+          "old": "Just... a shape.",
+          "new": "Just … a shape.",
+          "evidence": "Typographic seam cleanup only: the triple-dot sequence is the file's sole seam-lint hit; wording, speaker and meaning unchanged."
+        },
+        {
+          "kind": "short",
+          "old": "- Failed resistance applies massive pressure to **Resolve** and may crack the border wall.",
+          "new": "- A surge that outlasts the wall watch is read afterward in residue depth and the repair survey, not settled in a duel with the wave. The Long Surge held for hours without recession, cost three Wardens to Fracture, and left the wall standing at its lowest catalogued integrity.",
+          "evidence": "Surge Catalogue Long Surge row and Testimony already record duration without recession, Fracture losses and lowest wall integrity; Residue Rule makes depth/survey the after-action record. Replaces generic resistance wording with the file's own measured case."
+        },
+        {
+          "kind": "short",
+          "old": "Wardens hold the line with barriers and force.",
+          "new": "Wardens hold the line by endurance at the wall under the ballast anchors, while the Watchtowers keep mapping the flow.",
+          "evidence": "Behavior Ferrehan endurance under ballast anchors and Viderehan watchtower monitoring; Object/Place rule and Side border management deny confrontation with a personality that does not exist. Aligns the phase summary to the primary's own two valid responses."
+        },
+        {
+          "kind": "short",
+          "old": "Wilderness Tide does not breach in the traditional sense — it is always pressing. But when a surge overwhelms the wall:",
+          "new": "Wilderness Tide does not breach in the traditional sense — it is always pressing, and no overwhelmed wall stands in the surge catalogue. The chronicle's closest pressing steadied under full witness and ended in readings. The fields below are the standing contingency for a surge that does overwhelm the wall:",
+          "evidence": "Sovereign Chronicle: the Tide has never breached; record pressure met with total witness steadied into readings. Surge catalogue entries all end with the wall standing. Labels the unrecorded contingency without deleting its fields or claiming a past breach."
+        },
+        {
+          "kind": "careful",
+          "old": "- The Tide is most powerful during the Sorrow Tide (nightly) and during seasonal Han-storms in the wilderness.",
+          "new": "- The Tide is most powerful during the Sorrow Tide (nightly) and during seasonal Han-storms in the wilderness.\n\n**Reading the surge:** What reaches the wall is a moving front of compressed wilderness Han, felt first as ground tremor and iron on the air, then seen as a dark rising wall. That front is the current form a watch can report. UnWiHan beyond the Desolate is its source, not a larger body hiding behind the wave, and the vast watching shape in one testimony is a single reported sighting, not a confirmed head or face. Broken wilderness fragments carried inside a surge are contents being dissolved, not limbs of the Tide. The salt left on the stone afterward is the after-record by which intensity is officially read, not a skin the Tide sheds. A night surge that coincides with the city's own Sorrow Tide is a Double Tide by timing, not a second form. Keep front, source, contents and residue in separate entries, or the next watch will aim its endurance at the wrong one.",
+          "evidence": "Whole chain: Physical Form/Flavor front and tremor, Origin/UnWiHan source beyond the Desolate, single Hoon testimony, Appearance dissolved fragments, Reading-the-response/Side residue rule, Double Tide coincidence. Separates form, source, contents and measure; no creature body, witness power or new state added."
+        },
+        {
+          "kind": "careful",
+          "old": "> **Materialized Agony Wear (M.A.W.):** No M.A.W. can be extracted from the Wilderness Tide. It is a Place-manifestation Sovereign with no sorrow-core — there is no crystallized grief to externalize. The Tide is raw, unstructured Han, not the refined sorrow of a contained entity. Attempting extraction would be like trying to forge a sword from the ocean.",
+          "new": "> **Materialized Agony Wear (M.A.W.):** No M.A.W. can be extracted from the Wilderness Tide. It is a Place-manifestation Sovereign with no sorrow-core — there is no crystallized grief to externalize. The Tide is raw, unstructured Han, not the refined sorrow of a contained entity. Attempting extraction would be like trying to forge a sword from the ocean.\n\n**Cross-source record:** The exact Side Codex closes as a Side-only set. Its registry page records three failed proposals — forging the raw Han, bottling the residue, wearing Tide material — and classes Warden shields and conduit barriers as manufactured border equipment, not equipment born from the Tide. Three item files nevertheless stand under the same set numbers claiming a complete set: a salt-slag poleaxe, a bedrock anchoring suit and a brine brooch, each with histories, bearer costs and corrosion. The Sovereign Chronicle separately names a Wild Mark borne only by Rangers who request it. This primary authorises none of those as extracted equipment. Until an authority reconciles the Side-only registry with the item files and the Mark, issue no piece on the strength of this section, treat the residue the Scavengers harvest as unstudied material rather than a Stigma bond, and enter any border gear actually carried under its manufactured record instead.",
+          "evidence": "Exact Side A Side-only completion, No M.A.W. Registry failed attempts and manufactured-gear distinction; present B/C/D item files claiming completeness; Chronicle Wild Mark; Trivia Scavenger-harvested residue unstudied. Fresh all-type disposition recorded in place; no item imported, authorised or deleted."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.027  clean   298 grams  Combat Record\n 0.000  clean  3145 grams  Sovereign Chronicle\n 0.000  clean   252 grams  Appearance\n 0.000  clean   215 grams  이야기 (Narratio)\n 0.000  clean   196 grams  이야기 보고 (Story Log)\n 0.000  clean   176 grams  관찰 기록 (Observation Log)\n 0.000  clean   147 grams  M.A.W. Equipment\n 0.000  clean   140 grams  Behavior\n 0.000  clean   137 grams  Origin\n 0.000  clean   114 grams  증언 (Testimonium)\n 0.000  clean   104 grams  상호작용 (Entity Interactions)\n 0.000  clean   104 grams  Breach Behavior\n 0.000  clean   102 grams  Sovereign Manifestation Log\n 0.000  clean    93 grams  감각 묘사 (Flavor Text)\n 0.000  clean    90 grams  Trivia\n 0.000  clean    80 grams  City-Scale Impact & Directorate Posture\n 0.000  clean    67 grams  SECC Classification\n 0.000  clean    54 grams  최종 관찰 (Final Observation)\n 0.000  clean    52 grams  Operational Parameters\n 0.000  clean    15 grams  (preamble)\n 0.000  THIN      3 grams  기록 (Registrum)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   79   4  | { *The Storm Surge* [**Attack**] } | \"The tide crests — and when it breaks, it brings the whole wilderness with it.\" | [A massiv\n   80   4  | { *The Drowned City* [**Ultimate**] } | \"The wilderness wins. It always wins, eventually — and today is eventually.\" | [The Tide\nGENERIC 0.001  (8 shared shingles)  SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-A__SIDE_CODEX_The_Wilderness_Tide.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-B__MAW-W_Wilderness_Breaker.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-C__MAW-S_Wilderness_Bulwark.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-D__MAW-G_Wilderness_Brine.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-A__SIDE_CODEX_The_Wilderness_Tide.md": "77d60457fb95bddcc3febcf8571cf620a1e640fb35c64c09f85d4e0d98d2111d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-B__MAW-W_Wilderness_Breaker.md": "89b1f0fcbc47e34f5323862392743e8b0682e9af49c65aecb114447581bb3f93",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-C__MAW-S_Wilderness_Bulwark.md": "57907ce7a9c3d1144b8ae2456ac25f30408d75a66de4c5a3773d6cabc1604fdc",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/003_Wilderness_Tide/SE-003-D__MAW-G_Wilderness_Brine.md": "44aadb742f58dddfc3929f38dfc99cf00513d6adba60d39c780c79b85228046d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/README.md": "0074e0eb1388f87b304ce52eeb73b1b3252fb4e8b8c78e6565b07c98dde195ea",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 1,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-Vγ-003_Wilderness_Tide_야생의_조수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-V%CE%B3-003_Wilderness_Tide_%EC%95%BC%EC%83%9D%EC%9D%98_%EC%A1%B0%EC%88%98.md \"SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md\")]",
+      "table_link": "[Wilderness_Tide](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-V%CE%B3-003_Wilderness_Tide_%EC%95%BC%EC%83%9D%EC%9D%98_%EC%A1%B0%EC%88%98.md \"SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md\")",
+      "reading": {
+        "before_lines": 390,
+        "before_bytes": 44487,
+        "final_lines": 394,
+        "final_bytes": 46785
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 127,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    },
+    {
+      "designation": "O-IIIβ-120",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md",
+      "words": 7069,
+      "sha256": "7d2faaf9e5caff7e745b6376df65a6389410b9033c883e0717cf911e24a6c991",
+      "unit": 4,
+      "name": "The Wrath Flame",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_04_THE_WRATH_FLAME.md",
+      "before_words": 7069,
+      "after_words": 7414,
+      "base": "57e01f945c5e9192fab90ab08766c4ee3d4addef",
+      "final_sha256": "79f141174bf3dc298ace4f5ba36f7422d4d7c90e8897cfacfc541f86795e4c9c",
+      "summary": "Six supported repairs scope directed heat to the gesture-maker, remove the cell ending from a holding that has never had one, keep spreading anger with people rather than roaming fire, replace cell-and-door flavor with the open Scar ground, separate the three piece tolls in the Field Use Record, and distinguish figure, beating core, route and halt in Appearance. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The hazard-briefing device is the most honest piece of bureaucracy in this file: a memorial in everything but standing, which cut incidents because people read the dead before crossing their ground. I trust the joint book — salutes longer than incidents — more than the combat table, and the halt warning is the rare monster tell that gets more frightening the longer nothing moves.",
+      "reasoning": "R-33 chain: Subject / Subject-Body Grudge → Occlusihan unmourned dead → walking crimson figure with beating slag-ringed core on a fixed cross-boundary route → conduct-priced Work (Flerehan/Ferrehan lower, Pugnahan feeds, Viderehan stable) → halt-warning combat and route-bound Corrupt breach → joint salute/incident books, hazard-briefing returns, Scar-neighbour pairings → extracted/granted metal carrying the same respect condition. Repairs touch only seams where template or merged-stage text fought that chain; every essential identity, pillar, threshold, zone and standing question stays HELD. Numeric SE-120 belongs to Redcage; this dossier's exact set is SE-1012 and no Redcage fact was borrowed as corroboration.",
+      "history": "Batch 101 unit 5 (2026-10-12, commit 3bbdfab4) already gave this dossier a complete primary→Side SE-1012-A→items B/C/D→Registry 210–213→Master 586–588→archetype disposition counted as one of 5/5 new full-SE units and 5/5 new eligible Weapon pairs; the full-set note remains verbatim in the primary. Earlier B32/B54/B68 work was re-authoring/cleanup, and B90's Redcage note was a cross-dossier warning, not a disposition of this pair. This unit therefore earns +0 Types / +0 Weapon; HELD earns +0 SE. Ledger absence was not used as proof.",
+      "holds": [
+        "Weapon identity held since Batch 101: primary and Master table read The Wrath-Ember Censer with spiked steam appearance; Side A, item B and detailed Master Entry 586 read The Rage Fang; archetype MAW-W-120 is the spiked censer (Close) while linked code MAW-W-1012-01 has no catalog title and MAW-W-1012 is a notched seax (Short). The same censer text appears in Redcage C-IIIγ-120 / SE-120-B at a different γ profile (7–12, Speed 3, Range 3, max 3, 40 Echoes, Skewer) with no shared-item link. No name, form or profile was merged.",
+        "Tale pillar against walking figure: the Tale burns as a contained pillar of crimson fire, while classification, Appearance and Warden record walk a two-legged patrol figure that halts as its warning. Scale/memory language in the new Appearance paragraph keeps the pictures apart without declaring a transformation.",
+        "Threshold scopes unjoined: activation threshold 3 (ignored conditions), combat activation at Sorrow Gauge ≥ 60%, Wildfire at 65%, and breach drain/acknowledgement arithmetic are not reconciled into one sequence; all numbers unchanged.",
+        "Breach zone against offender-only strikes: breach Effect burns Resilience from everyone inside the warped zone and the ultimate presses all personnel, while First Target, the Pugnahan row and the joint books send directed heat only to whoever showed contempt and record no attack on anyone who acknowledged the dead. Zone pressure and directed heat are distinguished in Consequences; the breach table itself is unchanged.",
+        "Work validity against recommendation: all four Work Types are listed valid and the Registrum calls Pugnahan 'valid and feeds it', while recommended response allows only Flerehan/Ferrehan as gauge-lowering and Clash has never logged Pugnahan as useful. Valid-but-harmful is preserved, not regraded.",
+        "Ember gift against extraction: the Stigma is 'given, not made', offered once after respectful work and not requisitionable, yet it also carries a 5% acquisition value inside an extracted set with separately authorised extraction. No manufacture or grant mechanism was invented.",
+        "Suit/Stigma categories: primary plate harness and Tail ember agree with Side/items and Registry names, while Master table classes Suit as Vestments & Outerwear and Entry 588 classes the Stigma as Ocular Lenses & Monocles; Registry combat cells stay placeholder accessory text. No category was corrected from the primary alone.",
+        "Unburied against burial returns and standing: Origin/Registrum say buried by nobody / not properly, while six incompatible returns (one blank) are posted unreconciled as a hazard briefing because F01 has no standing to commemorate or prefer a roll. The institutional limit is load-bearing and unresolved by design.",
+        "Side-set escalation against local costs: item failure ladders end with the manifestation using the bearer as its new site and Side resonance 'uncouples' manifestations, while the primary prices misuse as scaled heat, autobiographical anger and non-reissue. The first-person stop was surfaced in field use; terminal claims were not imported as fact.",
+        "Tides raise patrol rate and shorten pass interval with no mechanism joining an inland Scar war-fire to Sorrow Tide timing, and Story Entry 2 patrols 'beyond The Scar' against never-off-route records. Both scopes preserved."
+      ],
+      "split": [
+        4,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "u4-r1-consequences",
+          "kind": "short",
+          "old": "- If resistance fails, the entity’s pressure transfers directly into the worker’s psychological matrix, depleting **Resilience** and accelerating Sorrow Gauge escalation.",
+          "new": "- Directed heat goes to the person whose gesture read as contempt and to nobody standing beside them; the wider cost of a failed approach is borne by everyone left on ground where the dead went unacknowledged, and it is measured in bearing before it is measured in **Resilience**.\n- Failing to acknowledge is not answered at random and is not answered by distance. The books keep the two outcomes together because the same approach produces both: salutes returned when the war is named, heat when the ground is crossed as though nothing happened there."
+        },
+        {
+          "id": "u4-r2-resolution",
+          "kind": "short",
+          "old": "3. **Resolution:** The watch may finish in containment, under management, in retreat, or on the rule the salute book was opened for: **Bow or salute; acknowledge the war and the dead**.",
+          "new": "3. **Resolution:** The watch may finish with the Flame back on its route under management, in retreat, or on the rule the salute book was opened for: **Bow or salute; acknowledge the war and the dead**. There is no cell to finish it in; this holding has never been inside one."
+        },
+        {
+          "id": "u4-r3-spreading-wildfire",
+          "kind": "short",
+          "old": "| { *The Spreading Fire* [**Debuff**] } | \"The flame leaps to the next thing — and the next — hungering.\" | [The Flame spreads; the target is ringed by catching rage.] |",
+          "new": "| { *The Spreading Fire* [**Debuff**] } | \"The anger catches from person to person — the fire itself stays on its route.\" | [Resentment spreads through the team while the Flame keeps its line; the target is ringed by catching rage, not by roaming fire.] |"
+        },
+        {
+          "id": "u4-r4-flavor-open-ground",
+          "kind": "short",
+          "old": "**With continued exposure:** The longer you stay, the more the containment zone feels less like a cell and more like a room someone lived in — or died in, or was born in. The Grudge has a history here, and prolonged exposure makes that history legible.\n\n**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Grudge pressure spikes — not gradually but like a door slamming open. The Subject-Body shifts from presence to action.\n\n**After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Grudge in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.",
+          "new": "**With continued exposure:** The longer you stay, the more the open ground stops reading as empty. The route, the posted returns and the light on the dust make the history legible without walls: this is a field where people died uncounted, and prolonged exposure teaches the feet where they are standing.\n\n**When the entity activates:** The change is that the walking stops. A halted Flame is the warning entire briefings are built around, and the pressure rises from that stillness rather than from any rush toward the team.\n\n**After departure:** You leave the route rather than a room; there is no door to seal behind you. What the watch leaves is carried out in bearing and temper — Grudge in the recollection, and anger that may only later turn out not to have been yours."
+        },
+        {
+          "id": "u4-r5-field-use-piece-scope",
+          "kind": "careful",
+          "old": "| **At limit** | The toll here runs continuously rather than in bursts: the reflexes go slow, and the bearer answers half a second late while being certain they answered at once. On this piece the second worker's call stands against the wielder's. |\n| **After use** | Return the piece, reconcile the baseline, and enter whether the Flame's toll has lifted — the delay and the certainty have to have gone together. Where they have not, the piece is not reissued to that bearer. |",
+          "new": "| **At limit** | Read the limit by piece, not by set. On the Weapon the limit is pain travelling the old-wound lines with bruising rising behind it; on the Suit it is the reflex delay the wearer cannot feel, answering late while certain they answered at once; on the Stigma it is anger showing on the face faster than the wearer can put it away. The shared stop across all three pieces is the first-person slip: a bearer who starts telling the Occlusihan as their own memory is relieved on the second worker's call, whichever piece they carry. |\n| **After use** | Return the piece, reconcile the baseline, and enter separately whether that piece's toll has lifted — wound pain and bruising for the Weapon, delay and false certainty together for the Suit, visible temper for the Stigma — and whether the bearer still speaks of the war as theirs. Where either answer is wrong, the piece is not reissued to that bearer. |"
+        },
+        {
+          "id": "u4-r6-reading-patrol",
+          "kind": "careful",
+          "old": "**Appearance protocol:** Record the fire before the figure: colour at the core, colour at the edge, how far the heat carries, and whether it is beating or steady. The Flame signals that it is about to act by standing still, which is the reverse of what personnel expect and the detail most often missing from reports. Write down what the fire did and what you did immediately before it.",
+          "new": "**Appearance protocol:** Record the fire before the figure: colour at the core, colour at the edge, how far the heat carries, and whether it is beating or steady. The Flame signals that it is about to act by standing still, which is the reverse of what personnel expect and the detail most often missing from reports. Write down what the fire did and what you did immediately before it.\n\n**Reading the patrol:** Keep four sight-pictures apart. The figure is the walking humanoid outline; the core is the dark crimson beat inside it, ringed at its base by slag and fused debris the fire has welded to itself; the route is the mapped line across the old boundaries, which is part of the identification and not scenery; and the halt is the still figure that replaces all three as the only picture that matters. Instruments read the heat low because what carries is held anger rather than temperature, so a dim-looking Flame with a steady beat on its line is a working picture, while a bright one standing still is not. The Tale's pillar is the same fire remembered at the scale of the war; do not wait for a pillar before logging the walker in front of you."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.034  clean   149 grams  Trivia\n 0.031  clean   976 grams  M.A.W. Equipment\n 0.022  clean    91 grams  Operational Parameters\n 0.021  clean   582 grams  Combat Record\n 0.010  clean   293 grams  기록 (Registrum)\n 0.000  clean   953 grams  Warden Record\n 0.000  clean   575 grams  감각 묘사 (Flavor Text)\n 0.000  clean   418 grams  이야기 (Narratio)\n 0.000  clean   343 grams  Appearance\n 0.000  clean   182 grams  Behavior\n 0.000  clean   164 grams  Breach Behavior\n 0.000  clean   122 grams  이야기 보고 (Story Log)\n 0.000  clean   106 grams  Origin\n 0.000  clean    90 grams  최종 관찰 (Final Observation)\n 0.000  clean    65 grams  SECC Classification\n 0.000  clean    62 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   54   1  | **Resistance** | 30% against Grudge pressure; 20% against other pressure types |\n   83   4  | { *The Backdraft* [**Attack**] } | \"The fire draws breath — and then it exhales, all at once.\" | [A sudden eruption of accumulat\n   84   5  | { *The Wildfire* [**Ultimate**] } | \"The fire stops being a flame and becomes a wildfire — and it wants everything.\" | [The Flam\n   88   2  1. **Tension:** Identification first — The Wrath Flame is recognised by the route and the crimson core before anything else. Sever\n  201   3  **Appearance:** a plated harness of Grudge Han-iron, dark and blood-warm on the rack, that goes cold the moment it is worn closed.\n  246  24  **Full-set source review (2026-10-12):** Reviewed the β/β overview, all local Weapon/Suit/Stigma blocks, Use Notes, Field Use Reco\n  267   3  **Observation method:** Record the first sign, which is light on the dust before the figure is in it; the first sensation, which r\n  378   3  **Review requirement:** Re-verify after any Sorrow Tide, after any breach at the Scar, and after any season in which the patrol ro\n  439   5  - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate, near The Scar.\nGENERIC 0.010  (52 shared shingles)  SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-A__SIDE_CODEX_The_Wrath_Flame.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-B__MAW-W_The_Rage_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-C__MAW-S_The_Rage_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-D__MAW-G_The_Rage_Ember.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-A__SIDE_CODEX_The_Wrath_Flame.md": "ea8d0f1d01ae52db0d9b4c100065c1517b5f43094c3282b87ce347bbe57a2052",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-B__MAW-W_The_Rage_Fang.md": "b671c78c861832f9de53e623553697a30a3a3b7945215117b44c29406187b22d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-C__MAW-S_The_Rage_Plate.md": "4e95d302f865b09bd4062216222d57b53000ee70d4c2078625a48085500b1c68",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1012_The_Wrath_Flame/SE-1012-D__MAW-G_The_Rage_Ember.md": "e11d8531fb27b7dd209b958c16a7bc59d2ac36ec9b093ac9e000d9e20a2dbc14",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/README.md": "1ccf9c7a67061c05141ee76cd0400c5d24c9ac338e9618e2304e0daf74807a7e",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-120_The_Wrath_Flame_%EB%B6%84%EB%85%B8%EC%9D%98_%EB%B6%88%EA%BD%83.md \"SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\")]",
+      "table_link": "[The_Wrath_Flame](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B2-120_The_Wrath_Flame_%EB%B6%84%EB%85%B8%EC%9D%98_%EB%B6%88%EA%BD%83.md \"SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\")",
+      "reading": {
+        "before_lines": 445,
+        "before_bytes": 42250,
+        "final_lines": 448,
+        "final_bytes": 44075
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 126,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    },
+    {
+      "designation": "C-IIβ-997",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md",
+      "words": 7072,
+      "sha256": "1d8ae500db20820477f023b59989f57a348884fc057cb60efc496210abf6d071",
+      "unit": 5,
+      "name": "Drowned Roots",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_05_DROWNED_ROOTS.md",
+      "before_words": 7072,
+      "after_words": 7338,
+      "base": "ead556580dd617c3c7542f8e96d8340ff4a57cc6",
+      "final_sha256": "d04467ebdd25c7ec170bfbab2117332c035d42347ee4b9dc4c1551fb8ff8e231",
+      "summary": "Seven supported repairs replace generic exposure and extraction boilerplate with the fury-then-emptiness course and one-way piece tolls, give both movement fields the file's own four-root-limb walk, scope breach movement to covered faces, replace slamming-door flavor with the reaching tell and reopened market, separate face, struck name, limbs and growing count in Appearance, and split the field-use first signs by piece. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The Fourth Column is this archive's coldest invention: a place to write the act down that was engineered, for defensible reasons, to change nothing. The branch count set against a Service Office line works because the arithmetic never quite closes — you can feel the file refusing to turn a man into a rate. And 'confirm the name is present, never transcribe it' is the one archival rule here that sounds like mercy.",
+      "reasoning": "R-33 chain: Subject / Subject-Phantasmal Lament → an indispensable act outside assigned duty struck by a lawful rule → walking tree-beast with unchanging bark face, struck name beneath it, phantasmal roots through an undisplaced floor and a branch count that only grows → work priced by uncovered faces (Flerehan/Ferrehan lower, Viderehan record, Pugnahan prohibited because anger becomes growth) → Escape breach selecting coverings, not people → two-position counts, shadow check, Service Office returns and Market neighbours → pieces cut from still branches carrying grief, numbness and being forgotten. Repairs stay on seams where template movement, boilerplate or merged first signs fought that chain; the lawful-amendment versus deliberate-concealment origins, Timer identity and growth arithmetic remain HELD.",
+      "history": "Batch 139 unit 4 (commit d597633c381a921ab57a01a9b14ee85bdb06b515) read the full primary and exact SE-997-A–D with Registry, Master, Entity Codex, Tale 62 and archetype, repaired the γ overview, prohibited-work line and first-contact fragment, and incremented both the inherited full-set stream (214/301) and Weapon (218/287, stated Weapon+1). That disposition sits inside the ledger's legacy 240/240 baseline, so this unit earns +0 Types / +0 Weapon; ledger absence from post-baseline equipment_reviews was not used as proof. Batch 139's refusal to force the source Skewer pattern/falloff into the primary is respected. HELD earns +0 SE.",
+      "holds": [
+        "Two origins remain contradictory evidence: Origin, Watch Record and Story Entry 5 give a lawful duty-based amendment by a correct clerk with no malice, while the Tale and Tale 62 give a deliberate Council/Keepers concealment of a dirty action, an honoured-then-erased family, and a tree that 'does not attack, it stands'. No motive, family, or standing/walking bridge was chosen.",
+        "Weapon form: primary and item B give a singing, weeping resonant blade at Medium; Master classes it REQUIEM — Resonant Blade; archetype MAW-W-997 is 'Timer (different angle)' at Short. No timer-to-blade transition exists and none was invented.",
+        "Pattern scope preserved from Batch 139: Side A and item B carry Skewer 100% → 70% → 50%, while the primary weapon block states no attack pattern or falloff. The omission was previously reviewed and deliberately not forced in.",
+        "Registry/Master accessory records against source tail: CSV reads generic Accessory at 5% and Master classes the Lantern under Brooches & Fasteners, while primary, Side A and item D agree Tail at 4% with +2 when working the source. Values unchanged.",
+        "Lantern double office: canonical ability heals minor wounds through warm light, primary effect reads struck-out record lines for about a day, and eleven physical lanterns were each taken from a branch that had stopped moving with an unentered soldier's name inside the housing. Healing, record-reading, bestowal and branch manufacture are not crosswalked.",
+        "Stillness scopes: the Forgotten Soldier pairing is called the only recorded stillness in the file, yet extraction and the Full Deluge trigger both depend on individual branches that stop moving and eleven lanterns came from such branches. Branch-local stillness and whole-canopy stillness are not joined in the sources.",
+        "Master Tale 62 Registrum places containment in Zone B at Low threat with Desolate-territory SED interest, against the primary's corrected Zone C Mask Market at Moderate (β); the primary's Record-detail trivia documents the correction, but the Master copy remains stale and was not edited from this unit.",
+        "Threshold and breach arithmetic unjoined: activation threshold 3, combat activation at 60%, ultimate at 65%, breach opening at 40% and rising per masked worker reached coexist without one sequence; all numbers unchanged.",
+        "Growth arithmetic: the count rises 31 → 47 → 66 and is set against 1,398 deaths recorded with nothing in any column and the Fourth Column's refused filings, but no source states how line items become branches or why the increments differ. Tracked, not solved.",
+        "Visibility gradient: sharpest near military masks and barely visible at the far trade-mask end, against a warm mobile body walked and counted from fixed positions; no mechanism joins solidity to mask kind, and the face that reads differently to each viewer while never altering is kept as the file states it."
+      ],
+      "split": [
+        5,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "u5-r1-consequences",
+          "kind": "short",
+          "old": "- Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.\n- The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.",
+          "new": "- Past the timed interval the exposure changes kind rather than degree: the fury burns off and the emptiness remains, and the counsellors screen for the second state because workers report the first and do not report the second at all.\n- Extraction is taken only from a branch that has ceased moving, and what the pieces then take is priced in this file's own terms and runs one way: grief carried unwept, minor joys gone numb, and a bearer other people begin to have difficulty remembering."
+        },
+        {
+          "id": "u5-r2-classification-movement",
+          "kind": "short",
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — walks the Market on four root-limbs, phantasmal roots rising through a floor they have never displaced. |"
+        },
+        {
+          "id": "u5-r3-detailed-movement",
+          "kind": "short",
+          "old": "| **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Recorded at every Drowned Roots cycle against the previous reading. |",
+          "new": "| **Position / movement** | Walks on four root-limbs among the stalls and reaches upward toward covered faces; escalation shows as height, so ceiling clearance is part of the posture record. Log branch count and limb posture at every cycle against the previous reading. |"
+        },
+        {
+          "id": "u5-r4-breach-movement",
+          "kind": "short",
+          "old": "| **Movement** | It walks the Market thrashing, putting roots up through floors that remain undamaged, and entangles whoever is standing in them. |",
+          "new": "| **Movement** | It walks the Market thrashing, putting roots up through floors that remain undamaged, and reaches through them for covered faces; the uncovered are passed by, in breach as in work. |"
+        },
+        {
+          "id": "u5-r5-flavor-activation",
+          "kind": "short",
+          "old": "**When the entity activates:** When the Sorrow Gauge crosses the threshold, the change is immediate and unmistakable. The Lament pressure spikes — not gradually but like a door slamming open. The Subject-Phantasmal shifts from presence to action.\n\n**After departure:** The door seals and the pressure comes off the suits by degrees, but what goes home with the watch is Lament in the suit fibres, in the memory, and in the space between thoughts where Fracture begins. The fury passes off first; the counsellors screen for what is left after it, which is the emptiness, and which is the part that stays.",
+          "new": "**When the entity activates:** The tell is not speed but direction: branches that were moving generally begin reaching specifically, and the first check is never the gauge — it is the section walked for a covered face, a wrap, a mask, a respirator somebody forgot they were wearing.\n\n**After departure:** The hall reopens as a market and the stalls go back up around the route. What goes home with the watch is not the fury, which passes off first; the counsellors screen for what is left after it, which is the emptiness, and which is the part that stays."
+        },
+        {
+          "id": "u5-r6-reading-count",
+          "kind": "careful",
+          "old": "**Appearance protocol:** Count the branches against the last return, log the posture of each root-limb, record burning and weeping separately because they do not always coincide, and note every covered face in the section.",
+          "new": "**Appearance protocol:** Count the branches against the last return, log the posture of each root-limb, record burning and weeping separately because they do not always coincide, and note every covered face in the section.\n\n**Reading the count:** Keep the unchanging parts and the growing part apart. The howling face in the bark is the constant and is logged once; beneath it is the name the record struck out, legible only to somebody who has read the surviving original — confirm it is present, never transcribe it into a watch return and never speak it as a shortcut, because this file's condition is the act said aloud, not a restored name. The limbs and route repeat; the branches are the variable, counted from the fixed positions against ceiling clearance, with their shadows checked because the shadows do not follow the movement. Burning and weeping are two tallies, not one mood: either can run without the other, and a dry, bright canopy reaching at a new range is a different picture from a weeping one standing in its usual ground."
+        },
+        {
+          "id": "u5-r7-field-use-during",
+          "kind": "careful",
+          "old": "| **During use** | Watch for the weeping starting in the bearer, which is the first sign on this set and is entered by the second worker with the hour; the wearer's own account is taken separately, afterwards, and is never the record. |",
+          "new": "| **During use** | Watch by piece: on the Requiem, weeping starting in the bearer; on the Shroud, minor joys going unreported rather than unfelt, which the second worker tests instead of asking about; on the Lantern, colleagues hesitating over the bearer's name or face. Each first sign is entered by the second worker with the hour. The shared stop on all three pieces is the bearer beginning to tell the stair as their own post; the wearer's account is taken separately, afterwards, and is never the record. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.021  clean    95 grams  Operational Parameters\n 0.020  clean    99 grams  Breach Behavior\n 0.012  clean   509 grams  M.A.W. Equipment\n 0.011  clean   551 grams  Combat Record\n 0.004  clean   931 grams  Watch Record\n 0.003  clean   304 grams  이야기 보고 (Story Log)\n 0.000  clean   574 grams  감각 묘사 (Flavor Text)\n 0.000  clean   447 grams  이야기 (Narratio)\n 0.000  clean   358 grams  Appearance\n 0.000  clean   343 grams  기록 (Registrum)\n 0.000  clean   259 grams  Trivia\n 0.000  clean   236 grams  Origin\n 0.000  clean   198 grams  Behavior\n 0.000  clean   190 grams  관찰 기록 (Observation Log)\n 0.000  clean   130 grams  최종 관찰 (Final Observation)\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types — and the second figure is arithmetic, since this\n   84   1  | { *The Full Deluge* [**Attack**] } | “Every drop it has taken up since the stair — sixty years of it, one release.” | [The weepi\n   85   4  | { *The Drowned Forest* [**Ultimate**] } | “The whole hall goes under, and not one board of it moves.” | [The roots come up throu\n  168   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per masked worker it reaches.\n  178   1  **Appearance:** a slender blade of Lament Han-crystal that sings faintly when it is at rest and weeps a thin film of Han down its \n  186   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the source holding delivers it: no\n  237   1  **Stat interpretation:** The grade records how cleanly the grief came off the holding, not what a bearer takes home. This set's co\n  277   1  Management: say what he did, out loud, in the Market, without inventing a duty to hang it on and without supplying a name the reco\n  406   4  The service clerks asked for one thing: that where a fourth-column entry exists and the person died in the act, the entry be allow\nGENERIC 0.004  (21 shared shingles)  SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-A__SIDE_CODEX_Drowned_Roots.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-B__MAW-W_Drowned_Roots_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-C__MAW-S_Drowned_Roots_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-D__MAW-G_Drowned_Roots_Lantern.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/README.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-A__SIDE_CODEX_Drowned_Roots.md": "e7f752c1489130467dec725942e2f8d24b439311e6afb9bca327e1bbded5b793",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-B__MAW-W_Drowned_Roots_Requiem.md": "fbf80fa18d482c94de0afb09211aa621e6e569b7931f3539e0724dcda8506326",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-C__MAW-S_Drowned_Roots_Shroud.md": "0bfcc008b443cfa136285f3a6cac9e7f47cc785a28e16c258295983958cb4027",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/997_Drowned_Roots/SE-997-D__MAW-G_Drowned_Roots_Lantern.md": "8e05239bf66bfd65538e92865c63439e5965ed757a4e1999bfcd8caa337ce481",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_993_to_997/README.md": "5e394470f74268d79a205c9e101e199be5f31a819936c66c7a28a0ab904c51d4",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-997_Drowned_Roots_솟구친_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-997_Drowned_Roots_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%82%98%EB%AC%B4.md \"SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\")]",
+      "table_link": "[Drowned_Roots](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-997_Drowned_Roots_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%82%98%EB%AC%B4.md \"SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\")",
+      "reading": {
+        "before_lines": 425,
+        "before_bytes": 41890,
+        "final_lines": 427,
+        "final_bytes": 43316
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 125,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 11
+      }
+    }
+  ],
+  "closure_validators": {
+    "N-Iα-519": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.025  clean    81 grams  최종 관찰 (Final Observation)\n 0.020  clean   150 grams  기록 (Registrum)\n 0.015  clean   194 grams  Trivia\n 0.015  clean   132 grams  Operational Parameters\n 0.013  clean   607 grams  Combat Record\n 0.003  clean   696 grams  감각 묘사 (Flavor Text)\n 0.003  clean  1078 grams  M.A.W. Equipment\n 0.000  clean   400 grams  Appearance\n 0.000  clean   377 grams  이야기 (Narratio)\n 0.000  clean   321 grams  이야기 보고 (Story Log)\n 0.000  clean   303 grams  관찰 기록 (Observation Log)\n 0.000  clean   240 grams  Expansion Behavior\n 0.000  clean   193 grams  Breach Behavior\n 0.000  clean   180 grams  Origin\n 0.000  clean   176 grams  Behavior\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    26 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle, drawn from the edge of the net rather than from the seed, and\n   84   8  | { *The Void Garden* [**Ultimate**] } | \"The seeds cover everything, and where they bloom the world is not there anymore.\" | [The\n  222   1  **Ability:** Void damage to the soul rather than the body — to identity and to the sense of self. The glaive carries the holding's\n  244   2  **Cost:** The wearer feels faintly absent to themselves and reports it most often as other people's greetings seeming to be meant \n  325   2  > The choice at the end of a session is a sentence rather than a stroke: the worker either says plainly that what they were shown \n  357   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  412   3  **Review requirement:** Re-verify after any Sorrow Tide, after any expansion of the net, and after any roster change that leaves s\n  425   3  - **Record detail:** Check the designation before approach. More than one record in this vault involves seeds and they want opposi\nGENERIC 0.004  (23 shared shingles)  SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md\n",
+        "stderr": ""
+      }
+    },
+    "C-IVγ-205": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-C-IVγ-205_Hollow_Tree_빈_나무.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.000  clean  1227 grams  Apex Record\n 0.000  clean   726 grams  M.A.W. Equipment\n 0.000  clean   481 grams  Combat Record\n 0.000  clean   455 grams  감각 묘사 (Flavor Text)\n 0.000  clean   420 grams  이야기 (Narratio)\n 0.000  clean   402 grams  Appearance\n 0.000  clean   296 grams  이야기 보고 (Story Log)\n 0.000  clean   259 grams  기록 (Registrum)\n 0.000  clean   213 grams  Origin\n 0.000  clean   189 grams  관찰 기록 (Observation Log)\n 0.000  clean   131 grams  Breach Behavior\n 0.000  clean   125 grams  Trivia\n 0.000  clean   118 grams  Operational Parameters\n 0.000  clean    92 grams  Behavior\n 0.000  clean    62 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      5 grams  (preamble)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "GENERIC 0.000  (0 shared shingles)  SE-C-IVγ-205_Hollow_Tree_빈_나무.md\n",
+        "stderr": ""
+      }
+    },
+    "O-Vγ-003": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.027  clean   298 grams  Combat Record\n 0.000  clean  3145 grams  Sovereign Chronicle\n 0.000  clean   252 grams  Appearance\n 0.000  clean   215 grams  이야기 (Narratio)\n 0.000  clean   196 grams  이야기 보고 (Story Log)\n 0.000  clean   176 grams  관찰 기록 (Observation Log)\n 0.000  clean   147 grams  M.A.W. Equipment\n 0.000  clean   140 grams  Behavior\n 0.000  clean   137 grams  Origin\n 0.000  clean   114 grams  증언 (Testimonium)\n 0.000  clean   104 grams  상호작용 (Entity Interactions)\n 0.000  clean   104 grams  Breach Behavior\n 0.000  clean   102 grams  Sovereign Manifestation Log\n 0.000  clean    93 grams  감각 묘사 (Flavor Text)\n 0.000  clean    90 grams  Trivia\n 0.000  clean    80 grams  City-Scale Impact & Directorate Posture\n 0.000  clean    67 grams  SECC Classification\n 0.000  clean    54 grams  최종 관찰 (Final Observation)\n 0.000  clean    52 grams  Operational Parameters\n 0.000  clean    15 grams  (preamble)\n 0.000  THIN      3 grams  기록 (Registrum)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "   79   4  | { *The Storm Surge* [**Attack**] } | \"The tide crests — and when it breaks, it brings the whole wilderness with it.\" | [A massiv\n   80   4  | { *The Drowned City* [**Ultimate**] } | \"The wilderness wins. It always wins, eventually — and today is eventually.\" | [The Tide\nGENERIC 0.001  (8 shared shingles)  SE-O-Vγ-003_Wilderness_Tide_야생의_조수.md\n",
+        "stderr": ""
+      }
+    },
+    "O-IIIβ-120": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.034  clean   149 grams  Trivia\n 0.031  clean   976 grams  M.A.W. Equipment\n 0.022  clean    91 grams  Operational Parameters\n 0.021  clean   582 grams  Combat Record\n 0.010  clean   293 grams  기록 (Registrum)\n 0.000  clean   953 grams  Warden Record\n 0.000  clean   575 grams  감각 묘사 (Flavor Text)\n 0.000  clean   418 grams  이야기 (Narratio)\n 0.000  clean   343 grams  Appearance\n 0.000  clean   182 grams  Behavior\n 0.000  clean   164 grams  Breach Behavior\n 0.000  clean   122 grams  이야기 보고 (Story Log)\n 0.000  clean   106 grams  Origin\n 0.000  clean    90 grams  최종 관찰 (Final Observation)\n 0.000  clean    65 grams  SECC Classification\n 0.000  clean    62 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   54   1  | **Resistance** | 30% against Grudge pressure; 20% against other pressure types |\n   83   4  | { *The Backdraft* [**Attack**] } | \"The fire draws breath — and then it exhales, all at once.\" | [A sudden eruption of accumulat\n   84   5  | { *The Wildfire* [**Ultimate**] } | \"The fire stops being a flame and becomes a wildfire — and it wants everything.\" | [The Flam\n   88   2  1. **Tension:** Identification first — The Wrath Flame is recognised by the route and the crimson core before anything else. Sever\n  201   3  **Appearance:** a plated harness of Grudge Han-iron, dark and blood-warm on the rack, that goes cold the moment it is worn closed.\n  246  24  **Full-set source review (2026-10-12):** Reviewed the β/β overview, all local Weapon/Suit/Stigma blocks, Use Notes, Field Use Reco\n  267   3  **Observation method:** Record the first sign, which is light on the dust before the figure is in it; the first sensation, which r\n  378   3  **Review requirement:** Re-verify after any Sorrow Tide, after any breach at the Scar, and after any season in which the patrol ro\n  439   5  - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate, near The Scar.\nGENERIC 0.010  (52 shared shingles)  SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md\n",
+        "stderr": ""
+      }
+    },
+    "C-IIβ-997": {
+      "verify": {
+        "exit": 0,
+        "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+        "stderr": ""
+      },
+      "tpl": {
+        "exit": 0,
+        "stdout": "RESIDUE 0  SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\n",
+        "stderr": ""
+      },
+      "sectfile": {
+        "exit": 0,
+        "stdout": " 0.021  clean    95 grams  Operational Parameters\n 0.020  clean    99 grams  Breach Behavior\n 0.012  clean   509 grams  M.A.W. Equipment\n 0.011  clean   551 grams  Combat Record\n 0.004  clean   931 grams  Watch Record\n 0.003  clean   304 grams  이야기 보고 (Story Log)\n 0.000  clean   574 grams  감각 묘사 (Flavor Text)\n 0.000  clean   447 grams  이야기 (Narratio)\n 0.000  clean   358 grams  Appearance\n 0.000  clean   343 grams  기록 (Registrum)\n 0.000  clean   259 grams  Trivia\n 0.000  clean   236 grams  Origin\n 0.000  clean   198 grams  Behavior\n 0.000  clean   190 grams  관찰 기록 (Observation Log)\n 0.000  clean   130 grams  최종 관찰 (Final Observation)\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+        "stderr": ""
+      },
+      "wikistd": {
+        "exit": 0,
+        "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+        "stderr": ""
+      },
+      "sect": {
+        "exit": 0,
+        "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types — and the second figure is arithmetic, since this\n   84   1  | { *The Full Deluge* [**Attack**] } | “Every drop it has taken up since the stair — sixty years of it, one release.” | [The weepi\n   85   4  | { *The Drowned Forest* [**Ultimate**] } | “The whole hall goes under, and not one board of it moves.” | [The roots come up throu\n  168   2  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per masked worker it reaches.\n  178   1  **Appearance:** a slender blade of Lament Han-crystal that sings faintly when it is at rest and weeps a thin film of Han down its \n  186   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the source holding delivers it: no\n  237   1  **Stat interpretation:** The grade records how cleanly the grief came off the holding, not what a bearer takes home. This set's co\n  277   1  Management: say what he did, out loud, in the Market, without inventing a duty to hang it on and without supplying a name the reco\n  406   4  The service clerks asked for one thing: that where a fourth-column entry exists and the person died in the act, the entry be allow\nGENERIC 0.004  (21 shared shingles)  SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md\n",
+        "stderr": ""
+      }
+    }
+  },
+  "tests": {
+    "stdout": "",
+    "stderr": "----------------------------------------------------------------------\nRan 54 tests in 0.045s\n\nOK\n",
+    "exit": 0
+  },
+  "preclosing_gate_audits": {
+    "lore": {
+      "exit": 0,
+      "stdout": "====================================================================\n PROJECT SOMNARAK — NON-WIKI ARCHIVE AUDIT REPORT\n====================================================================\n1. UTF-8 Integrity        : PASS (2137 files, 36.55 MB)\n2. Macro-Canon Codices    : PASS (52 / 52 master codices: 49 in-world, 3 editorial standards)\n3. Sorrow Entities        : PASS (290 files, 290 unique codes, 0 paired, 0 scope mismatches)\n   Rank breakdown         : {'Rank I (Residue)': 46, 'Rank II (Echo)': 70, 'Rank III (Fragment)': 82, 'Rank IV (Entity)': 80, 'Rank V (Sovereign)': 12, 'Other': 0}\n4. M.A.W. Equipment Sets   : PASS (198 / 198 complete quadripartite sets)\n5. Auxiliary Collections  : PASS\n   - The Absolvohan Parts : 10 files (Day 0–365 Chronological Narrative)\n   - Katabagil Passages   : 8 files (7 Subterranean Descents + Overview)\n   - Katharcheok Ops      : 7 files (6 Pacification Sweeps + Overview)\n   - Gieok Jeojangso Recs : 8 files (7 Strata Receptions + Overview)\n   - Jipyeongseondae Arcs : 7 files (6 Overland Arcs + Overview)\n   - Mugenhan Ecology     : 5 files (Planetary Biological Compendiums)\n   - Ordeals (5 Colors)   : 60 files (Expected: 60)\n   - Hope Transformations : 14 files (Expected: 14)\n   - Unknown Anomalies    : 12 files (Expected: 12)\n   - Facility Echo-Cores  : 9 files (Expected: 9)\n6. Text Box Symmetry     : PASS (2137 files, 0 crooked rows)\n====================================================================\n OVERALL LORE HEALTH: PASS\n====================================================================\n",
+      "stderr": ""
+    },
+    "timeline": {
+      "exit": 0,
+      "stdout": "=== PROJECT SOMNARAK // PAN-REPO CANON TIMELINE LINTER ===\nAudited 1794 files pan-repo across SOMNARAK-WORLD, GAME_BATTLE, and repository root.\n[PASS] 0 timeline contradictions found! All 1794 files perfectly conform to Year 4,238 / Cycle 1,778 anchor.\n",
+      "stderr": ""
+    },
+    "seam": {
+      "exit": 0,
+      "stdout": "=== PROJECT SOMNARAK // SEMANTIC-SEAM & DEFECT LINTER ===\nAudited 1761 files in SOMNARAK-WORLD.\n[PASS] 0 semantic seams or defect violations found! Archive is 100.0% clean across all audited wings.\n",
+      "stderr": ""
+    },
+    "box": {
+      "exit": 0,
+      "stdout": "========================================================================\n PROJECT SOMNARAK — ASCII TEXT BOX SYMMETRY & BORDER AUDITOR\n (Count All Rows -> If Misaligned, Extend Up To Longest Row Engine)\n========================================================================\nScanned Markdown Files : 2137\nTotal Symmetry Flaws   : 0\n------------------------------------------------------------------------\n[OK] All text boxes have mandatory '+' top (start) and bottom (end) borders.\n[OK] All text boxes have mandatory '|' or '+' left and right side borders.\n[OK] All rows count and match the longest row with 100% letter and display width symmetry.\n========================================================================\n RESULT: PASSED (100% Geometric Border & Character Symmetry)\n========================================================================\n",
+      "stderr": ""
+    }
+  },
+  "audit": {
+    "corpus": 301,
+    "unselected_unchanged": 296,
+    "reserves_unchanged": 5,
+    "unselected_pending_fingerprints_unchanged": 125,
+    "exact_replacements_reconstruct_final": 33,
+    "digit_sequences_unchanged": true,
+    "all_five_primary_tales_byte_identical": true,
+    "physical_form_rows_unchanged": 301,
+    "distinct_fingerprinted_sources_unchanged": 31,
+    "final_primary_fingerprints_match_receipts": {
+      "N-Iα-519": true,
+      "C-IVγ-205": true,
+      "O-Vγ-003": true,
+      "O-IIIβ-120": true,
+      "C-IIβ-997": true
+    },
+    "note": "Opening base 5e33458 predates this shallow snapshot clone; digit/Tale/Physical Form equality was asserted at each unit edit against its preserved before-copy and rechecked at closure for units 2-5, with unit 1 carried from its shipped receipt. Since session base 87f1a01 only the four session-edited primaries changed in the corpus."
+  },
+  "next_candidates_unselected_unauthorized": [
+    {
+      "designation": "O-IVδ-693",
+      "words": 7075,
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md"
+    },
+    {
+      "designation": "N-Iα-316",
+      "words": 7099,
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md"
+    },
+    {
+      "designation": "C-Iα-965",
+      "words": 7105,
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-965_Unheard_흐르는_침묵.md"
+    },
+    {
+      "designation": "N-IIβ-453",
+      "words": 7143,
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md"
+    },
+    {
+      "designation": "N-IIIγ-954",
+      "words": 7160,
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-954_Vanity_Asleep_잠든_거울.md"
+    }
+  ],
+  "logical": "Five reviewed whole designs HELD; supported repairs shipped, essential relationships still unresolved. Equipment coverage +1 Types (Wilderness Tide fresh all-type disposition) / +0 Weapon; SE +0. Technical PASS is not logical completion.",
+  "authorization": "Owner p after CLOSED 178 authorized Batch 179 only; continued across the recorded session break on the frozen queue. Five required and completed. Cumulative No change 0/5, so no 5→7→10 expansion. No Batch 180, merge, artwork or deployment authorized.",
+  "disclosures": [
+    "Written-design logical review only; no rendered art, browser, running-game or published-site verification.",
+    "Later full recheck/fix backlog preserved.",
+    "Batch301 blocked on eight owner-supplied bodies, one 4+4 operation, generate/validate before wiki copy.",
+    "PR #14 closed 2026-10-25 without merging (recorded in PR_14_NEVER_MERGED.md); draft PR #15 carries this session branch to NON-WIKI and remains owner-controlled.",
+    "Derived equipment need not copy donor silhouette. Unknowns that are not essential do not automatically hold a design. Same-subject/same-state incompatible essential claims hold it."
+  ],
+  "counters": {
+    "ALL M.A.W. Types Appearance per SE": {
+      "completed": 268,
+      "total": 301,
+      "remaining": 33,
+      "percent": 89.04
+    },
+    "ALL M.A.W.-W Appearance per SE": {
+      "completed": 266,
+      "total": 287,
+      "remaining": 21,
+      "excluded": 14,
+      "percent": 92.68
+    },
+    "SE Appearance Fix": {
+      "completed": 18,
+      "total": 301,
+      "remaining": 283,
+      "percent": 5.98
+    }
+  },
+  "ledger_counts": {
+    "changed": 14,
+    "retained": 4,
+    "held": 156,
+    "blocked": 2,
+    "pending": 125
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "batch": 198,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 74,
+  "short_repairs": 13,
+  "careful_repairs": 61,
+  "before_words": 42375,
+  "after_words": 43820,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 30,
+  "pending_fingerprints_unchanged": 30,
+  "source_changes": 0,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": "PASS",
+  "final_words": {
+    "C-IVδ-092": 8646,
+    "C-IVδ-503": 8704,
+    "C-Iα-236": 8773,
+    "N-IIIγ-874": 8920,
+    "C-Iα-300": 8777
+  },
+  "counters": {
+    "types": "286/301",
+    "weapon": "284/287",
+    "se_appearance_fix": "18/301"
+  },
+  "fresh_credits": [],
+  "ledger": {
+    "changed": 14,
+    "retained": 4,
+    "held": 251,
+    "blocked": 2,
+    "pending": 30
+  },
+  "next": "Batch 199 opens next prompt on a fresh ranking of the 30 pending dossiers under R-34. Units 1-4 of Batch 198 predate R-34 and, like earlier reviewed dossiers, remain candidates for the later full recheck/fix pass; Unit 5 was reviewed under R-34. Draft PR #15 remains open under owner control; no merge, artwork or deployment is authorised."
+}

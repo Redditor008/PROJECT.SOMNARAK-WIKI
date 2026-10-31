@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A creature of braided black roots in the rough shape of a beast, threading into floors and walls as it drags onward — half root-system, half animal. Lead-cold, it smells of wet stone. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — drags onward in beast form, threading roots into floors and walls as it passes. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -69,7 +69,7 @@
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan authorised; Pugnahan has a recorded adverse response but is not authorised on this post |
 | **Battlefield** | Zone B, Old Lament |
 | **Resolution Condition** | Listen to the Root's history; cutting roots causes further spread |
 
@@ -105,8 +105,8 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
-- **Primary marker:** A ghostly humanoid threaded with black roots. The roots spread into floors and walls while the figure moves slowly.
-- **Position / movement:** The roots spread into floors and walls while the figure moves slowly.
+- **Primary marker:** A beast-shaped mass of braided black roots, identified by the threading entering floor and wall rather than by the variable outline.
+- **Position / movement:** The beast-form drags slowly onward while the root-system spreads beyond it through existing cracks.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament
 
@@ -114,9 +114,9 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A ghostly humanoid threaded with black roots. The roots spread into floors and walls while the figure moves slowly. |
-| **Position / movement** | The roots spread into floors and walls while the figure moves slowly. |
-| **Material / signature** | Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Form** | A rough beast-shape braided from black roots, with the root-system continuing into floors and walls beyond the body. |
+| **Position / movement** | The form drags onward and roots into whatever it crosses; the threading may already occupy the next room before the figure is seen to leave this one. |
+| **Material / signature** | Braided black roots, lead-cold and smelling of wet stone; Weight is first read as pressure in the chest and a floor that sounds wrong underfoot. |
 | **Distinctive markers** | Identify it by the threading, not by the shape. The beast-form varies between sightings; the root-system entering floor and wall does not, and it is the part that confirms the designation. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
 
@@ -152,7 +152,7 @@ The four responses divide into opening and carrying, and the division is the who
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Spreading Root breaks loose and charges, thrashing. It grasps at ankles, dragging personnel down. |
+| **Movement** | Spreading Root extends rather than flees: the beast-form drags onward while the threading thrashes through floor and wall. It grasps at ankles, dragging personnel down. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
 | **First Target** | Whoever is standing on ground with something buried under it. |
@@ -229,7 +229,7 @@ The three pieces extend this holding only as far as the ground is listened to ra
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the gauge, and an hours-logged baseline — this set's toll is weight and age, neither of which reverses, so the before-entry is the only column that can prove anything afterwards. |
-| **During use** | Record each use against the clock rather than against the event: one heavy lift is noted, and a shift in which the wielder keeps getting slower ends the use whatever the reading says. |
+| **During use** | Record each piece against the clock and against its own first sign: added heaviness for the sceptre, unremitting fatigue for the mantle, and growing inability to leave for the staff. A wielder who keeps getting slower ends the use whatever the reading says. |
 | **At limit** | Constant low fatigue without remission, and the wearer no longer reports it. On a piece from this set the use ends there whatever the wielder says, and the second worker's call stands against theirs. |
 | **After use** | Return the piece, reconcile the hours against the baseline, and record whether the fatigue has lifted — on this set the file keeps both columns, because weight that has been carried does not always come back off. Where it has not, the piece is not reissued to that wielder. |
 
@@ -359,7 +359,7 @@ Some sorrows are about grief. Spreading Root is about buried grief — the sorro
 - Origin is a practice rather than an event — households burying grief under their own floors — and the historical section is compiled with the association and cited to the association as a body.
 - Engagement history is kept as extents rather than outcomes: how far the threading reached at entry and at exit, and whether it advanced while the session ran.
 - Extraction moves the buried weight to the wielder instead of destroying it; the three pieces are read back against the hours logged, and a piece that has not come back is noted.
-**Cross-References:** Three filings share the ground rather than the encounter — The Maw `C-IVδ-260`, The Whispering Walls `C-IVγ-180` and The Grieving Colossus `C-Vδ-002`; the Interaction Record states what, if anything, is attached to each.
+**Cross-References:** Three filings share the ground rather than the encounter — The Maw `C-IVω-001`, The Whispering Walls `C-Iα-011` and The Grieving Colossus `C-Vδ-002`; the Interaction Record states what, if anything, is attached to each.
 **Faction Involvement:** SED holds the district survey; UCD watches the Fray-adjacent stretch where the threading leaves the built streets; Judexhan's standing interest is the δ-grade, and it receives excavation notices with the district.
 **Originator:** None recorded, and the absence is deliberate — the practice was collective, no family is named in any column of the survey, and the file treats a named originator as an error to be corrected rather than a gap to be filled.
 

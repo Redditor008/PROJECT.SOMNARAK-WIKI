@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, utterly still and silent — skin bloodless and pale, eyes open and seeing nothing, neither weeping nor raging. She is cold to the touch, alive yet absent; near her, the flat smell of ash, and a hush that swallows sound. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile — stands or sits in the Sisters' chamber and moves only toward acknowledgment; in breach she walks without pursuing or hunting. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
@@ -26,14 +26,14 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Clarity — retaining the fact of a person's presence, name and face against erasure |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Vessel-Destructible** | No — no physical attack has ever affected her; force is prohibited and cannot resolve the holding |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Flerehan or Ferrehan — both are forms of attending to her. Pugnahan finds nothing to strike and Viderehan is run for record. |
 
 ### Operational Notes
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.15 m/s |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not pressure and is not resisted by anything the wing issues: it takes the fact that a person was present, and paper survives it better than memory |
+| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not pressure and is not resisted by anything the wing issues: it takes the fact that a person was present, and paper survives it better than memory. Keep the roster in ink at the door, badges legible outside equipment, named confirmations every fifteen minutes and the forty-second spoken count. Do not demand speech; sit within two metres and attend without questions. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 427/427 |
 | **Han Pressure [ATK]** | 9–22 per hit · Void |
@@ -67,32 +67,32 @@
 | **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Entity (IV) — a whole person, intact, with nothing in her that answers force |
-| **Primary Pressure** | Composure |
+| **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | SECTOR-D-02, contained with the Three Sisters |
-| **Resolution Condition** | See her, hear her, and recognize that she is present |
+| **Resolution Condition** | A named worker sits within two metres, confirms her presence in the record, and remains for one seven-minute interval without asking a question or demanding speech; roster, badge and spoken count remain current. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Closed Lips* [**Debuff**] } | "She stands silent — and the silence around her is heavier than any speech." | [The Maiden's suppressed voice creates a void of unspoken words.] | *Target suffers a Void mark; the unspoken things press on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Maiden. |
-| { *The Swallowed Words* [**Debuff**] } | "You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you." | [The Maiden's suppressed speech transfers to the target; they carry her unspoken burden.] | *Target loses clarity; they are full of someone else's silence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for her to speak. |
-| { *The Silent Decree* [**Attack**] } | "She mouths a word — no sound — and the word strikes you anyway." | [A silent command hits the target with full force despite making no noise.] | *Inflicts Void damage; the voiceless decree erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Maiden is commanded. |
-| { *The Released Voice* [**Attack**] } | "One word, the first in centuries — and the room has no idea what to do with a sound." | [The single word she has never spoken in any watch is released at the target's expense.] | *A heavy Void utterance; the target's Sorrow Gauge surges 15%, and the room's hush takes several minutes to settle.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When she is forced to speak, which the standing order treats as misconduct in the person doing the forcing. |
-| { *The Eternal Silence* [**Ultimate**] } | "She goes quiet again — quieter — and the quiet spreads until nobody in the room can hear themselves being counted." | [The Maiden extends her silence past the chamber, taking the sound out of the whole field.] | *All in range suffer Void erosion for three turns of absolute quiet; names and faces begin going out of the affected zone from the second turn.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Closed Lips* [**Debuff**] } | "She stands silent — and the silence around her is heavier than any speech." | [A demand for voice turns her unspoken history into silence pressure around the person making the demand.] | *The demanding worker gains a Void mark. Stop the question or command, state both names from the roster, and return to shared presence without requiring an answer.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a person repeatedly asks why she will not speak or issues a verbal command. |
+| { *The Swallowed Words* [**Debuff**] } | "You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you." | [Unspoken pressure transfers to a worker who remains nearby only to extract a performance from her.] | *The worker loses Clarity; they are full of someone else's silence. The named observer converts the wait into attendance: badge checked, roster read, no question pending.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a person remains nearby expecting an answer rather than sharing presence. |
+| { *The Silent Decree* [**Attack**] } | "She mouths a word — no sound — and the word strikes you anyway." | [Coercion meets a soundless refusal that erodes the coercer's hold on names and faces; she issues no audible command.] | *Inflicts Void damage and identity erosion. All sound induction and command escalation stop; the door Warden performs the spoken name count before anyone re-enters.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When personnel begin sound induction, coercion or escalated commands to obtain speech. |
+| { *The Released Voice* [**Attack**] } | "One word, the first in centuries — and the room has no idea what to do with a sound." | [Projected response only: if coercion persists, the withheld history is released as heavy Void pressure. No audible word has ever been recorded and none is claimed here.] | *Heavy Void pressure; no personnel Gauge surge is inferred. Treat the forcing as misconduct, end all verbal demands, keep one named person attending her, and count every responder aloud by badge and roster.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When coercion continues after the first soundless refusal in an attempt to make her produce speech. |
+| { *The Eternal Silence* [**Ultimate**] } | "She goes quiet again — quieter — and the quiet spreads until nobody in the room can hear themselves being counted." | [Group erasure opens a three-turn voice-loss field in which names and faces leave memory before bodies are harmed.] | *All personnel in the affected zone suffer Void erosion for three turns. Badges stay readable, the roster is counted aloud by name, and one named observer acknowledges her location without demanding speech.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while several personnel pass her without acknowledging her. |
 
 ### Battle Phases
 
 1. **Tension:** The confirmation is a named one and it is the opening of the watch: a young woman of true flesh and bone, cold and bloodless, eyes open and tracking nothing, standing in a chamber that four people can cross without registering her. Several records in D-territory are quiet; this is the one whose absence is confirmed by a person rather than by an instrument, and the roster goes on the door in ink before anybody counts anything.
 2. **Clash:** One named Warden works her at a time and that Warden's name is on the door roster in ink before they enter. Pugnahan is not attempted; there is nothing in the chamber that can be struck.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **See her, hear her, and recognize that she is present** — one named observer attending to her for the interval, the count spoken aloud, and the figure returned against the Personnel Office's unsighted line rather than against the door.
+3. **Resolution:** One named observer sits within two metres, confirms her presence in ink, and attends for the seven-minute interval without a question. The figure is returned against the Personnel Office's unsighted line, and the watch closes only when roster, badges and spoken count agree; she is not required to make a sound for the recognition to count.
 
 ### Consequences
 
-- A worker who cannot hold the silence becomes a conduit: the pressure moves through them instead of stopping, **Composure** erodes, and the instability they carry is funnelled back into the figure. On this holding the first sign is procedural rather than felt — a confirmation given without a name, or a count that stops at a number nobody can account for — and the second Warden's read ends the watch.
+- A worker who cannot hold the silence becomes a conduit: the pressure moves through them instead of stopping, **Clarity** erodes, and the instability they carry is funnelled back into the figure. On this holding the first sign is procedural rather than felt — a confirmation given without a name, or a count that stops at a number nobody can account for — and the second Warden's read ends the watch.
 - Duration is not the exposure here; one watch of the wrong kind is. A chamber left unattended, a confirmation signed by a hand nobody checked, or one attempt to make her speak have each cost more than a long and correctly run series of watches, which is why the roster exists and why the count takes forty seconds. Sessions are transcribed by instrument and nothing in this chamber is written down afterwards from recollection.
 - Each activation of a piece from this set takes something the wielder cannot itemise afterwards: small, nameless memories on the Lens, the sensation of their own presence on the Veil, and speech above a whisper on the Cloak. The Armoury books the charge against the wielder rather than the piece, and on this set the pieces are issued one rotation at a time for that reason.
 - Without resolution the sorrow does not dissipate and does not rupture anything visible. It spreads as numbness, and the first thing it takes from a zone is the fact that a person was present in it; the manual's answer is the badging protocol and the spoken count, because a written name survives an erasure that a remembered one does not.
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | Flesh and bone, cold to the touch, silent, still, standing in a chamber that four people can walk through without registering her. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on The Silent Maiden neither has ever been assumed. |
+| **Position / movement** | Stands or sits within the Sisters' chamber and moves only toward somebody who has acknowledged her. In breach she walks without hurry and does not pursue. Posture and distance are logged by a named observer every fifteen minutes. |
 | **Material / signature** | Void. Flat ash on the air, a hush that takes sound out of the room, and no reading on any instrument the wing has tried. |
 | **Distinctive markers** | An absence where a person is; a reach toward anyone who addresses her; and more of both through a Tide. |
 | **Identification** | If the chamber looks empty, look again and say your own name out loud. The second part is not superstition; it is the badging protocol. |
@@ -156,7 +156,7 @@ Read this table as a list of things done to her rather than as a set of options,
 **Reading the response:** A falling gauge presents as a turn — she turns toward whoever acknowledged her and reaches, without hurry, and the figure falls while she does. It is the only success signal the Sisters' chamber has, and it is read on the comparative scale rather than felt in the room. A rising gauge has never been produced by a Work Type here: the escalation personnel miss is procedural, and it presents as a missed confirmation, an unnamed confirmation, or a roster that has not been updated in ink. That is why the watch logs the confirmations and not the impressions. Where the entity does something the table does not cover, the reaction is data; preserve it before the next cycle and log it before the next assignment.
 ## Breach Behavior
 
-> *"The Silent Maiden has broken free. Hunts personnel indiscriminately."*
+> *"The Silent Maiden has left the chamber unacknowledged. Stop, badge out, and count every name aloud."*
 
 | Field | Detail |
 |---|---|
@@ -236,6 +236,8 @@ Read this table as a list of things done to her rather than as a set of options,
 
 Every piece in this set is drawn from the same stillness, and the charges run the same way: the Lens takes small, nameless memories, the Veil takes the sense of one's own presence, and the Cloak takes the voice above a whisper. The grade describes extraction stability; the cost is in the column beside each piece and is the reason the set is issued one rotation at a time. Seven Cloaks exist, and each was issued for a sighting — a Warden who noticed a person nobody had noticed, inside the facility, off the file, and wrote the name down; none has been issued for anything else.
 
+**Set resonance — Seen at Last:** When all three pieces are used by a bearer who recognises a neglected person without forcing disclosure, they can maintain a short safe quiet field in which neither bearer nor protected person is erased from nearby awareness. The bearer cannot speak above a whisper until the protected person leaves by choice. Recognition under this resonance never becomes permission to interrogate, inspect private circumstances or make the Maiden answer.
+
 The Armoury’s *Silence Set* return is not a second inquiry into the bearer’s private circumstances. Enter the piece, the names or routes missing from its deployment baseline, and whether another person first noticed the gap. Do not append an account of the bearer’s home or household to explain it. The charge is entered against this holding; a record of equipment loss is not permission to ask what the Personnel Office rule forbids.
 
 Keep the legible badge outside the Veil and compare the returned roster with the clerk’s duty sheet. The Cloak’s quiet does not replace a spoken count. A confirmation nobody can hear and attribute to a named person does not establish who is present, even when the baseline sheet and the number on the door agree. The chamber’s instrument transcript records what was said; it does not supply an occupancy sighting.
@@ -284,14 +286,14 @@ The Silent Maiden (C-IVβ-043 [VS]) is entered as a Subject-Body manifestation e
 
 **Entry 2 — <Sisters' Chamber Watch, Year 4238>**
 Standing figure 427 on the Sisters' comparative scale, after 392 and 338. Occupancy confirmed visually by a named Warden at the opening of every watch and at fifteen-minute intervals throughout, with no unnamed confirmations logged this year. No sound produced, as in every year on record.
-Moves silently through the facility, often unseen. Personnel feel the weight of absence and may lose their voice. She becomes more present when someone sits beside her.
+Within the chamber she may cross a worker's attention without entering it; outside a breach, no facility roaming is recorded. She becomes more present when a named person sits beside her without asking for speech.
 
 **Entry 3 — <Personnel Office, standing rule>**
 No officer of this Company may inquire into a worker's home, household, health, family, means or private circumstances, and no such matter may be recorded on any file. A worker may volunteer what they wish. Nobody may ask.
 The grief of absence—being present but never seen, heard, or answered.
 
 **Entry 4 — <Containment Notice>**
-Management: See her, hear her, and recognize that she is present.  Long exposure causes personnel to recall moments when they ignored others.
+Management: see her, confirm her by name, and attend to her as present; do not wait to hear her. Long exposure causes personnel to recall moments when they ignored others.
 
 **Entry 5 — <Archive Note>**
 The mother visits. She is not a suspect, has never been charged with anything, and the facility has no standing to refuse her; she comes on the eleventh of the month, sits the permitted hour, and says very little. The Maiden becomes briefly visible for the duration of these visits — the clearest she is ever recorded, visible to Wardens who are not looking for her, which happens on no other occasion. The wing has debated whether to encourage the visits and has reached no view, and the file preserves the debate unresolved. What it will not do is write down anything about the woman's circumstances, because that is not a thing this Company is permitted to know about anybody, and the archivist's note observes that the rule which keeps her private is the same rule that kept the child invisible.
@@ -300,7 +302,7 @@ The mother visits. She is not a suspect, has never been charged with anything, a
 
 > One reading of the record and one departure from it. The condition is the badging protocol written small: somebody named attends to her, in the chamber, for the interval.
 
-| Do the thing on file: see her, hear her, and treat her as present — by name, in ink, for the whole interval. | Depart from the condition for good reasons, as The Silent Maiden's record shows people do — a confirmation nobody can be asked about, or the attempt to make her speak. |
+| Do the thing on file: see her, confirm her by name, and treat her as present — in ink, within two metres, for the whole seven-minute interval and without asking her to make a sound. | Depart from the condition for good reasons, as The Silent Maiden's record shows people do — a confirmation nobody can be asked about, or the attempt to make her speak. |
 |---|---|
 | She turns toward the worker and reaches, and the standing figure falls while she does. The sorrow is seen clearly; The Silent Maiden is fully recorded. | The chamber reads as empty and the roster is corrected by somebody outside it. The figure climbs, and the story stays untold for another watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -313,9 +315,9 @@ The room becomes quiet enough to hear your own blood. A shape stands where you w
 
 **At first contact:** The first contact is usually a failure to have one. Personnel cross the Sisters' chamber, work around her and leave without registering that anybody was there, and the file's accounts describe the discovery in the same way every time — the ash smell first, then the hush that takes sound out of the room, then the realisation that the shape standing at the edge of it has been there since the start. She is flesh and bone, cold to the touch, eyes open and tracking nothing. If the chamber looks empty, say your own name out loud; that is the badging protocol and not superstition.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** What changes is the discipline, not the figure. Fifteen minutes becomes a named confirmation; an hour becomes four entries in ink, a roster that still agrees with the door, and a worker who has learned not to fill the quiet with a question. She may turn toward the person attending her. She does not become louder, warmer or easier to summarize.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Void becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Body was waiting; now it moves.
+**When the entity activates:** Nothing announces itself. The danger is discovered procedurally: a confirmation has no name, a badge is under equipment, the roster and duty sheet disagree, or several people have crossed the chamber as if it were empty. Stop, count aloud, and put one named person back in attendance; force has never supplied the missing recognition.
 
 **After departure:** What follows workers out is not a sound or a temperature but a habit. Long exposure brings back, in detail, the occasions on which the worker did not notice somebody, and the counselors treat that recall as the standard outcome rather than as an adverse event. Rosters come back read; names get written down without being asked for. In the erasure cases the reports are different and the badging protocol is the answer to them: responders have lost the names of colleagues standing beside them mid-task, which is why a written name is worn outside the suit and the count is spoken aloud.
 

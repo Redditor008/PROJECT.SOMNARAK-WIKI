@@ -26,7 +26,7 @@
 |---|---|
 | **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Han / burden pressure |
+| **Primary pressure** | Resolve — the burden of accumulated obligation carried at the face |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted from the mark-line readings rather than from the ledger's own totals |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Weight pressure and 25% against anything else — figures for a wall that has never once had to be forced |
+| **Resistance** | 35% against Weight pressure and 25% against anything else as formal ratings for a wall that has never once been forced. Working protection is measurement: both ends against the forty-one fixed marks, monitored duration with a relief plan set before approach, and blocks read with a debt custodian who preserves the dispute fields. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 726/726 |
 | **Han Pressure [ATK]** | 16–37 per hit · Weight |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unpaid Invoice* [**Debuff**] } | "A brick slides into place — and written on it is a debt you did not know you owed." | [The Wall grows; each brick is an unpaid debt pressing on the target.] | *Target suffers -10 Resolve; the wall of debt is rising.* **[10 Weight DMG [Weight]]** | When the target approaches the Wall. |
-| { *The Compounding Interest* [**Debuff**] } | "The wall grows taller — new bricks appearing faster than you can count — each one heavier than the last." | [The Wall accrues debt-bricks; the weight compounds exponentially.] | *Target loses 10 Resolve; the burden is accelerating.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Foreclosure* [**Attack**] } | "A section of the wall breaks free — and the debt it holds lands on you, all at once." | [A block of debt-masonry collapses onto the target.] | *Inflicts Weight pressure and one crushing, financial wound.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck. |
-| { *The Total Default* [**Attack**] } | "The whole face comes down at once — every debt, every IOU, every promise left unpaid — in a single fall." | [The Wall comes apart in a cascade of defaulted obligations.] | *A heavy Black avalanche; the reading rises 15% at the fall.* **[24-36 Weight DMG [Weight]]** | When the Wall is demolished. |
-| { *Everyone Owes Everything* [**Ultimate**] } | "The Wall runs outward — a brick for every person standing in the field — until nothing can be seen that is not owed." | [The debt spreads out from the face until the whole ground is claimed.] | *Weight presses on every worker for three turns of universal debt.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unpaid Invoice* [**Debuff**] } | "Nothing slides into place. Between two watches a block is simply there, and the debt on it has your name uncarved into it." | [Growth is found, never witnessed. At the face the worker meets an obligation pressing as Weight, not a brick arriving.] | *The worker suffers -10 Resolve. Read the block with a debt custodian and preserve its dispute fields; do not weep at a wall instead of reviewing the system feeding it.* **[10 Weight DMG [Weight]]** | When a worker approaches the face and the measurement closes on a block found since the last watch. |
+| { *The Compounding Interest* [**Debuff**] } | "The wall is no taller than it was. You have simply stopped noticing the weight, which is worse." | [Nothing compounds in the masonry. What compounds is the worker's own unperformed obligation becoming structural the longer the load is borne without relief.] | *The worker loses 10 Resolve. Enforce the monitored duration and relief plan set before approach; a worker who says the weight feels ordinary is withdrawn first.* **[10 Weight DMG [Weight]]** | When a worker remains at the face past the monitored duration without relief. |
+| { *The Foreclosure* [**Attack**] } | "Nothing breaks free. The wall is unmarked tomorrow; the equipment that struck it is not." | [No block has ever come away. A strike or demolition attempt returns its whole load on the attempt itself, as both filed attempts did: equipment destroyed, structure unmarked.] | *Heavy Weight pressure on the crew making the attempt. Stop the work, record the attempt against the marks, and return to measure-record-acknowledge; demolition is not an available Work Type.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck or demolition is attempted. |
+| { *The Total Default* [**Attack**] } | "The whole face is still standing in the morning. The thoroughfare on both ends of it is shorter than it was." | [The Wall does not come down. In a total-default expansion both ends pass their marks in one interval and another stretch of road stops being usable at once.] | *A heavy Weight load on everyone at the face. Measure both ends before anything else, clear the newly obstructed stretch, notify the municipal office the same day, and extend the diversion; nothing here is taken apart.* **[24-36 Weight DMG [Weight]]** | When an expansion interval takes both ends past their fixed marks. |
+| { *Everyone Owes Everything* [**Ultimate**] } | "The Wall runs outward — a brick for every person standing in the field — until nothing can be seen that is not owed." | [Citywide debt becomes a conscience field: roads close, the air grows heavy, and every worker carries their own recognized burden at once.] | *Weight presses on every worker for three turns. Open alternate support routes and preserve each obligation record with its context; do not attempt demolition or concealment.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold in an expansion on new or unpaid obligation. |
 
 ### Battle Phases
 
@@ -94,7 +94,7 @@
 
 - The failure mode is weight. A worker who cannot hold takes the whole accumulated load at once, described in every debrief as the sensation of being responsible for the entire Row at the same moment.
 - Long exposure produces the Row's characteristic state: the worker begins treating every unperformed obligation of their own as structural, and two have asked to be transferred on the ground that they could feel their own blocks.
-- The Sarcophagus equipment carries the face's load back into the wielder. Every ledger entry records the course the bearer was standing against, and the lower the course the heavier the recorded toll.
+- The equipment carries load back into its bearers in three different currencies: the Maul's progressive heaviness and slight aging, the Hauberk's stored marks accumulating until a custodian discharges them, and the Shard slowing its bearer further for every reading ignored. None of the three is cut from the face.
 - Unresolved, it expands by Transform rather than event: the structure lengthens along the Row, the heaviness reaches further from the face, and another stretch of the thoroughfare stops being usable.
 
 ## Appearance
@@ -129,7 +129,7 @@ Place-Weight is the obstruction itself, not a person carrying a debt or an ordin
 
 The portable Wall-Ram, harness and Shard do not establish detachable source blocks. The Side Codex extracts from a ledger echo after leaving the block intact; its temporary passage is through pressure, not evidence that the physical highway has reopened. The diversion and prohibition order remain separate obstacles to access.
 
-That account does not reconcile the combat table's falling blocks and demolished face with the repeated record that nothing has come away and demolition leaves it unmarked. Nor does it establish that growth described as visible in the Side Codex was witnessed by the primary's watch. The Tale's slow emergence over centuries and the abandoned-reconciliation account's appearance within a year remain different formation accounts; no alternate collapsible body or newly dated transition is supplied here.
+The combat table now records that same limit rather than breaking it: a strike returns its load on the attempt and a total-default interval lengthens the structure, because nothing has come away and demolition leaves it unmarked. What remains unreconciled is whether growth the Side Codex describes as visible was ever witnessed by the primary's watch, and the Tale's slow emergence over centuries against the abandoned-reconciliation account's appearance within a year. No alternate collapsible body or newly dated transition is supplied here.
 
 ## Origin
 - **Formation:** The Wall formed from unpaid obligations accumulated across Somnarak.
@@ -200,7 +200,7 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 
 **Appearance:** A massive rectangular slab of reinforced mortared masonry bound in rusted iron bands, fitted with leather shoulder harnesses and handles. The bearer heaves the stone barricade forward, slamming it against the earth to detonate a room-wide seismic tremor.
 
-**Ability:** *Monolithic Impact* — Deals heavy Weight damage across Range 5 (Room). Slams the stone wall-ram into the floor, detonating a shockwave that knocks down all enemies and shatters terrain.
+**Ability:** *Monolithic Impact* — heavy Weight pressure driven into a present debt barrier, never into a person. It cannot demolish debt, decide a claim or open private passage, and it will not rise for advantage. (This profile's name and numbers remain held against the Maul profile below; the barrier-only use limit applies whichever profile is kept.)
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)
@@ -213,7 +213,7 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Owed's weight signature in the strike.
+**Ability:** *Wall Pressure / Make a Way* — a Weight Skewer into a present debt barrier, not a person. With custodian review and an identified support route it holds one Wall-like surge open long enough for people to reach review, care or transit; used as advantage, it becomes immovable.
 
 **Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
 
@@ -234,7 +234,7 @@ The broad backplate records each absorbed Weight impact as a ledger mark readabl
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Absorbs damage and converts it into stored karmic weight.
+**Ability:** *Stored Weight / Discharge Route* — converts direct Weight impact into visible ledger marks on the backplate. One mark releases only when a debt custodian confirms a support or review action; hiding the plate closes it and drops protection to normal.
 
 **Cost:** The shield becomes heavier with every absorbed impact.
 
@@ -243,7 +243,7 @@ The broad backplate records each absorbed Weight impact as a ledger mark readabl
 **Category:** Stigma (Stone Relic Shard)
 **Grade:** γ | **Element:** Weight
 
-**Appearance:** a small charm of Weight Han-steel, matte and unnaturally heavy, warm to the touch.
+**Appearance:** a small black charm cut as a single wall block, dense for its size, its faces blank until a debt pressure begins closing a route.
 
 The block-shaped charm lights toward the obligation closing a current route, not toward a debtor to blame. A persistent glow after action means the review was performative. If it points at everybody at once, the bearer’s anger has entered the reading and it must be set down. Only one Charm is worn.
 
@@ -259,7 +259,7 @@ The block-shaped charm lights toward the obligation closing a current route, not
 
 ### M.A.W. Use Notes
 
-Each Sarcophagus piece extends the holding rather than ranking as equipment. It performs as recorded while the bearer works at a marked course and costs more at an unmarked one, the load varying with depth in the structure. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled.
+Every piece works through a custodian and a route, not through the masonry: the Maul's head will not rise until a custodian has identified a way beyond the pressure block, the Hauberk stores only what a custodian can later discharge, and the Shard points at the block closing a route, never at a person to blame. The Shard goes out once a work cycle has closed; it is not manufactured, requested or scheduled.
 
 *Measured Burden* keeps the block, context and route response together. Review every stored backplate mark with the custodian before discharge; the custodian opens the latch during shutdown. Cutting the harness sends stored Weight into the bearer’s next route. For the Shard, record the dispute and response, then cover the block face. Shattering it makes nearby obligations feel physically immediate. Store it beside completed route records, never in a collection file.
 
@@ -274,7 +274,7 @@ An equipment review does not lift the prohibition order over the highway or make
 | **At limit** | Duration, activations, attribute change, rejection signs, final measurements, and whether the operator read any name on the face aloud. |
 | **After use** | Stand-down, injuries, residual load, cooldown, mark condition, reuse authorisation, and the measurement sheet countersigned by the municipal officer where the diversion was affected. |
 
-**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure on this holding. The cost here scales with the age of the course worked, and the oldest courses have never been worked twice by the same person.
+**Stat interpretation:** The grade describes the effect on entities and not the cost to the bearer, which is listed separately and is the larger figure on this holding. The cost here scales with what stays undischarged — stored marks awaiting a custodian, readings ignored — and the oldest courses have never been worked twice by the same person.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic

@@ -79,9 +79,9 @@
 |---|---|---|---|---|
 | { *The Corroded Span* [**Debuff**] } | "The plates come away under the boot in flakes, and each flake is a piece of a plan that was never funded." | [The span's own decay is what the target is standing on.] | *Target suffers a Void mark; the ground they meant to cross stops being something they can plan on.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target steps on the Bridge. |
 | { *The Sagging Cable* [**Debuff**] } | "The cables are down to threads and they sing in the wind, and the note they sing is the one the song never finishes." | [The decayed supports carry the figure's missing note out to everybody present.] | *Target loses clarity; they hear the gap in the structure and cannot leave it alone.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target crosses. |
-| { *The Falling Flake* [**Attack**] } | "A sheet of rust breaks from the bridge — heavy, oxidized, sharp — and falls." | [A massive rust-flake drops onto the target.] | *Inflicts Void damage; the corrosion carries void-weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bridge is shaken. |
-| { *The Full Corrosion* [**Attack**] } | "Everything the span was built on goes to powder at once, and the crossing stops existing in the middle of being used." | [The whole structure oxidises in a single movement.] | *A heavy Void dissolution; the target's Sorrow Gauge surges 15%, and the ledger of what they meant to build goes with it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bridge is struck. |
-| { *The Rusted Field* [**Ultimate**] } | "Every crossing in the district goes at once, and every side is left with what it could not get to." | [The corrosion extends to every span in range, as the district's own works do when the money is returned.] | *All in range suffer Void erosion for three turns with no way across to anybody.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Falling Flake* [**Attack**] } | "Nothing falls on anybody. Four breach events, four arrivals at the same works yard, and nothing has ever collapsed under anyone." | [The first target is the plan chest: drawings oxidise at the folds and the figures become unreadable before the drawing does.] | *Void damage lands on the estimates, not the estimators; personnel lose the recollection of one thing they meant to do and never did, and generally do not notice.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the figure stands over the drawings unaddressed. |
+| { *The Full Corrosion* [**Attack**] } | "It does not need to be struck. The fraction rises by a fifth each turn, and stops the turn a works order is signed in the room." | [Four events ended on a signature, not on suppression; the one removal of the drawings on record took the figure to the records office instead, which is worse.] | *A heavy Void settling; the gauge falls for each repair actually attempted and recorded as failed, with costs — a failure on paper has never once raised it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When nobody in the room will sign anything. |
+| { *The Rusted Field* [**Ultimate**] } | "Nine proposed, two built, one abandoned, six refunded — and the fraction followed each return inside the fortnight." | [No span fails anywhere. What goes is the district's willingness to begin, measured in quarters of plate to standing water by the same coarse series every week.] | *Void erosion across everybody whose plan is still in the drawer, looking like a plan; the annual attempted repair, failures published, has kept it at or below a half.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | In a year of refunds. |
 
 ### Battle Phases
 
@@ -94,7 +94,7 @@
 - Resistance failure carries the sorrow straight into the worker: **Composure** is broken down and the gauge is fed from it.
 - Exposure does what the records say and leaves a mark the gauge never shows: a worker comes away permanently missing the memory of one thing they meant to do and never did, and usually without noticing. The loss is entered against the holding and never against the person, which is why a second pair of eyes compares the post-contact sheets.
 - Nothing about the set is free: the somatic, psychological, and mnemonic price is set out in the equipment record and collected with every swing.
-- A cycle that fails to resolve fires the breach protocol: the gauge runs to its ceiling, the fail-safes give, and the sorrow comes out through the corridors.
+- A cycle that fails to resolve does not come out through any corridors: it walks, slowly, to wherever the district's unbuilt works are drawn or stored, and stands over the plan chest until somebody signs something.
 
 ## Appearance
 **Primary Form:** A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary.
@@ -116,7 +116,7 @@
 |---|---|
 | **Form** | A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary. |
 | **Position / movement** | Mobile within the district; never twice in the same bay, and drawn to wherever unbuilt works are drawn or stored. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Void. Rusted bridge plate and dark standing water in the proportions that are the holding's only instrument; ash and wet iron on the air; a song with one permanently missing note, heard only by people who have crossed a boundary that broke behind them. |
 | **Distinctive markers** | Identify it by the song and the proportions, not by the shape, which changes between appearances. The song is heard only by personnel who have themselves crossed a boundary that broke behind them; most of the watch hears nothing, and the holding depends on the few who do, who are required to record that singing occurred and not what was sung. |
 | **Identification** | Verify against the SECC code before work or contact begins; the shape varies between appearances and the plate-to-water proportion, not the silhouette, is the identifying figure. |
 
@@ -301,11 +301,11 @@ Rusted plates rise out of the dream and build a span over black water. You cross
 
 
 
-**At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Void pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Dream resolve into something you can name. A dreamlike figure made from rusted bridge plates and dark water. It sings in a voice heard only by people who have crossed a broken boundary.
+**At first contact:** It is never in the same bay twice running, and you may not hear it at all: the song reaches only people who have crossed a boundary that broke behind them. Estimate the plate-to-water fraction in quarters before anything else, and notice whether the hands are raised.
 
 **With continued exposure:** what you took in first peels back into something more exact. There is a rhythm to it, and a pattern, and a logic to the emptiness this thing is made of. Knowing the pattern does not shorten the crossing.
 
-**When the entity activates:** the reason the containment protocols exist becomes plain. What had only been present turns directed and purposeful — the Subject-Dream had been keeping something in reserve, and now it is spent.
+**When the entity activates:** It is in the works yard, standing over the drawings. Do not seal the yard and do not remove the plans. Sign something.
 
 **After departure:** The containment boundary holds the Subject-Dream, but not the memory. Void residue settles into the bones like Han into the city's foundations.
 

@@ -1,0 +1,780 @@
+{
+  "batch": 183,
+  "status": "CLOSED",
+  "required": 5,
+  "completed": 5,
+  "no_change": 0,
+  "opening": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_OPEN.json",
+  "units": [
+    {
+      "designation": "C-IVδ-260",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md",
+      "words": 7308,
+      "sha256": "fba2c0e5851eff4db84ca21bd13996cb884d523c7165a0a0e94ad2bead20e296",
+      "unit": 1,
+      "name": "Bridge to Nowhere",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md",
+      "before_words": 7308,
+      "after_words": 7427,
+      "base": "cc44694ab6100f6807aacb764ab26b12fe1af8bc",
+      "final_sha256": "18b85a489e0e1bea49c4b25ed173c92d6460e5e71a253d0090c95573ea04c29e",
+      "summary": "Six supported repairs make the seams obey the file's own instrument: the truncated Resistance cell is completed by the length-before-and-after record, combat stops tilting the span into the sky, dropping planks, and wounding with vertigo — pressure now lands as borrowed journeys, destinations treated as present, and added span, with every name and number kept — the Detailed Activation Record's Place-Lament slip returns to Place-Grudge, field-use signs split across weeping, flat arrival and erased-landmark directions, the two generic flavor rows are replaced by length and singing, and the addendum's 'percentage is the whole mechanism' is corrected to length. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The rare file whose containment problem is whether anyone has the right to end it: the recognition that would dissolve the Bridge has been written down, owned, and deferred by every commander, and the Traveler Roll exists so that ending it would not take the people with it. Its instrument is just as good — two length readings and a named road. What let it down was sky-bridge grammar pasted over a structure whose whole danger is measured with a tape.",
+      "reasoning": "R-33 chain: Object/Place / Entity-IV / Critical-δ Lament → an ordinary route was erased without a reason recorded; generations who forgot the bridge kept dream-crossing it → a memory-crystal span of worn path-stones rises over flat ground, both shores gone → Viderehan holds, Ferrehan falls when the worker crosses a memory without claiming it as present; crossings toward a destination add length → expansion is growth in span, ended only by naming the road aloud → equipment extends the crossing at the price of weeping, flat arrival and every farewell on the route. Repairs remove ascent/wound claims the chain cannot carry; dissolution authority, apex physics and naming remain HELD.",
+      "history": "Batch 115 unit 1 (commit a273486, 2026-10-14) performed the whole-set source disposition preserved in the primary: exact SE-260-A–D with pair SE-260-B newly counted, the +3 Clarity naming, Master Entries 280–282, Entity Codex row 459, Tale 94 and archetype MAW-W-260, counting full-SE and Weapon inside the ledger legacy baseline. Batch 7 was a to-standard pass. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "The dissolution question is the file's center and stays open by design: full recognition ends the Bridge terminally, the wing does not consider itself entitled to perform it, a descendants' petition against dissolution is read to every incoming commander, and the protocol closes without a recommendation. Notable Features still promises the Bridge 'disappears when the memory is fully recognized' against the Apex Record's never-performed procedure; no entitlement was granted here.",
+        "Ascent physics fork against the length record: Side A escalates 'at 90% Gauge the Bridge climbs toward an impossible apex, lifting personnel and surrounding routes', and item B records Durivel Cho cutting three rising memory supports during the Apex Without Water before a patrol was lifted — where the primary's own instrument knows only length gained per purposeful crossing and lost per naming. Combat was returned to the tape measure; the codices' lift events were not struck and no physics was joined.",
+        "Weapon form and range fork at agreeing statistics (Lament 10–15 / Speed 3 Fast / Range 3 Medium / Skewer 100-70-50 / max 2 / 50 Echoes): primary and item B give a slender singing blade with a worn-path fuller; archetype MAW-W-260 gives a broad bridge-deck cleaver. Master table buckets (REQUIEM — Resonant Blade; Ocular Lenses & Monocles for the Tail span) stay against the local forms, and Registry's 5% bestowal stays against 4% in primary, Side and item D.",
+        "Naming stays split: primary, Registry and disposition carry Bridge to Nowhere; Master Entries 280–282, Entity Codex row 459 and Tale 94 carry The Rising Bridge, whose Registrum is stale against the current primary (Comprehension 3, Threat Minimal, 'Flerehan is the only valid Work Type' — impossible for an Object/Place on this file's own work rule). The standalone Tale was not edited.",
+        "Witnessed use and thresholds stay parallel: Durivel's cut, Iseulfros anchor-bearing crossing and Yeonhwa's missing-stair transit stand in the codices against a Gardens roster written so no task requires the far side; activation ≥90% and ultimate at 65% remain beside a record whose own addendum says no percentage has ever decided a session. The 837 pool and 24-turn length are formal in the same way."
+      ],
+      "split": [
+        3,
+        3
+      ],
+      "repairs": [
+        {
+          "id": "resistance_splice",
+          "kind": "short",
+          "old": "| **Resistance** | 45% against Lament, which is what a remembered journey presses with; 35% against everything else. Neither figure has ever been the one the holding watches — the span's length is |",
+          "new": "| **Resistance** | 45% against Lament, which is what a remembered journey presses with; 35% against everything else. Neither figure has ever decided a session here — the span's length has, and it is taken before and after every cycle. |"
+        },
+        {
+          "id": "combat_actions",
+          "kind": "careful-detail",
+          "old": "| { *The Lift* [**Debuff**] } | \"The bridge begins to rise — tilting upward — and you are still on it.\" | [The Bridge's impossible ascent catches the target; the ground falls away.] | *Target suffers -10 Composure; they are rising with no way down.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |\n| { *The Inverted View* [**Debuff**] } | \"The higher it goes, the smaller everything looks — and the grief looks different from up here: total.\" | [The Bridge's height distorts perspective; the target sees the whole sorrow at once.] | *Target loses 10 Composure; the view is devastating.* **[10 Lament DMG [Lament]]** | When the target looks down. |\n| { *The Falling Plank* [**Attack**] } | \"A plank shakes loose — and the fall from here is very, very long.\" | [A plank drops from the rising Bridge.] | *Inflicts Lament pressure and one wound of vertigo and impact.* **[14-22 Lament DMG [Lament]]** | When the Bridge is shaken. |\n| { *The Apex* [**Attack**] } | \"The span stops climbing and the view keeps going up without you.\" | [The rise fails, and everything the Bridge was carrying arrives back at the deck at once.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the span is overloaded, or a crossing is turned back at the apex. |\n| { *The Sky-Bridge* [**Ultimate**] } | \"Other spans in the Gardens start rising too, and none of them lead where they used to.\" | [The ascent spreads to every crossing in range and lifts whatever is standing on it.] | *All in range suffer Lament pressure for three turns of impossible height.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while a crossing is in progress. |",
+          "new": "| { *The Lift* [**Debuff**] } | \"You are part-way through a journey, and it is not yours.\" | [Standing on the deck, the target acquires another traveller's crossing: the route underfoot is remembered, not present.] | *Target suffers -10 Composure; what drains per crossing is Clarity about which journey is theirs.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |\n| { *The Inverted View* [**Debuff**] } | \"I knew the turning they were heading for. I have never been there and I knew it.\" | [The remembered route resolves around the target — road, weather, departing people — and the Gardens go thin behind it.] | *Target loses 10 Composure; present ground loses to a crossing remembered in detail.* **[10 Lament DMG [Lament]]** | When the target looks along the span toward the figures. |\n| { *The Falling Plank* [**Attack**] } | \"What stopped me was realising I had started planning what to do when I got across.\" | [Nothing falls and nothing is struck: the target begins treating the far end as a destination, and the span answers by lengthening.] | *Inflicts Lament pressure as a present-tense journey; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When a crossing is made toward somewhere. |\n| { *The Apex* [**Attack**] } | \"It got shorter behind me on the way back. Not quickly. But it did.\" | [A crossing is turned back and the added length is entered against it; every journey borrowed on the way out is carried home.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the span is overloaded, or a crossing is turned back. |\n| { *The Sky-Bridge* [**Ultimate**] } | \"A sealed Bridge still lengthens. The containment reading is a tape measure.\" | [Growth, not flight: unrecognised crossings add span across the Gardens until the road is named aloud and the structure settles.] | *All in range suffer Lament pressure for three turns of borrowed journeys.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while a crossing is in progress. |"
+        },
+        {
+          "id": "manifestation_typo",
+          "kind": "short",
+          "old": "| **Manifestation** | Place-Lament|",
+          "new": "| **Manifestation** | Place-Grudge |"
+        },
+        {
+          "id": "field_use_split",
+          "kind": "careful-detail",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline taken by the second worker. This set's toll is a conviction rather than a symptom — the bearer carries the Bridge's unwept grief and weeps on arriving somewhere familiar — so the baseline is what the after-entry is read against. |\n| **During use** | Watch for the toll's presenting shape: the wielder weeps involuntarily, most often on arriving somewhere familiar, and the hour goes into the log by the second worker's hand. The wielder's own account is taken afterwards and separately. |\n| **At limit** | The cost is continuous rather than occasional: the wearer has gone numb to small pleasures and says that arriving anywhere has stopped feeling like anything. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |\n| **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing — the wearer describes arriving as flat. The answer is entered whether or not the wielder agrees, because this is the set whose bearers lose the vocabulary for the thing being asked about. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, the span's length at first sight, and a dated baseline by the second worker: the bearer's own route statements (where they live, how they get there) and, for the Shroud, the present-site anchor carried against the cloth. |\n| **During use** | Each occurrence is entered with its hour by the second worker: weeping on arriving somewhere familiar, arriving reported as flat, or directions given by landmarks demolished before the bearer was born. The wielder's own account is taken afterwards and separately. |\n| **At limit** | The toll turns continuous — small pleasures numb, arrival stops feeling like anything, or the bearer cannot describe where they live without describing the erased road. The second worker's call stands against the wielder's, and on this set it has always been the one taken. |\n| **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing; re-enter the span's closing length beside the opening one. The answer is entered whether or not the wielder agrees, because this is the set whose bearers lose the vocabulary for the thing being asked about. |"
+        },
+        {
+          "id": "flavor_generic",
+          "kind": "short",
+          "old": "**With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.\n\n**When the entity activates:** Activation reshapes the room. The Lament that was atmospheric becomes directed — aimed, purposeful, alive in a way the containment protocols anticipated but never fully contain.",
+          "new": "**With continued exposure:** The length does the changing. Crossings made toward a destination add span; standing still costs nothing. Four crossings affect a worker more than an hour on the deck, because each one adds another person's journey to the one they think they are making.\n\n**When the entity activates:** The singing comes first — formation is audible before it is visible — and stops when the structure is complete. Personnel who hear it and are not the posted warden withdraw without looking toward the sound; a person who has not seen the figures does not have to be talked back from the line."
+        },
+        {
+          "id": "operational_interpretation",
+          "kind": "careful-detail",
+          "old": "**Operational interpretation:** Treat this as a record of a route that outlived its road. Every figure here comes from people deciding the span leads somewhere. The percentage is the whole mechanism — there is no counter to run down, and standing on the deck doing nothing costs nothing.",
+          "new": "**Operational interpretation:** Treat this as a record of a route that outlived its road. Every figure here comes from people deciding the span leads somewhere. The length is the whole mechanism — there is no counter to run down, standing on the deck doing nothing costs nothing, and naming the erased road aloud is the only entry that has ever taken span back."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.024  clean   580 grams  M.A.W. Equipment\n 0.022  clean   185 grams  기록 (Registrum)\n 0.021  clean    96 grams  최종 관찰 (Final Observation)\n 0.018  clean   113 grams  Operational Parameters\n 0.017  clean   645 grams  Combat Record\n 0.017  clean   179 grams  Trivia\n 0.008  clean   666 grams  감각 묘사 (Flavor Text)\n 0.000  clean   810 grams  Apex Record\n 0.000  clean   419 grams  이야기 (Narratio)\n 0.000  clean   378 grams  이야기 보고 (Story Log)\n 0.000  clean   274 grams  관찰 기록 (Observation Log)\n 0.000  clean   263 grams  Appearance\n 0.000  clean   253 grams  Expansion Behavior\n 0.000  clean   162 grams  Origin\n 0.000  clean   160 grams  Behavior\n 0.000  clean    61 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   84   4  | { *The Apex* [**Attack**] } | \"It got shorter behind me on the way back. Not quickly. But it did.\" | [A crossing is turned back \n   85   7  | { *The Sky-Bridge* [**Ultimate**] } | \"A sealed Bridge still lengthens. The containment reading is a tape measure.\" | [Growth, n\n  188   1  **Appearance:** a slender blade of Lament Han-crystal that sings faintly while it is being drawn and stops the instant it is still\n  197   1  **Target Coverage:** A line of up to three — the requiem follows a route through its targets rather than striking one, which is ho\n  209   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that gathers itself slightly tighter when the bea\n  221   1  **Cost:** The wearer goes numb to small pleasures and reports first that arriving anywhere has stopped feeling like anything — a d\n  249   3  | **At limit** | The toll turns continuous — small pleasures numb, arrival stops feeling like anything, or the bearer cannot descr\n  250   2  | **After use** | Return the piece and ask a colleague rather than the wielder whether the cost is still showing; re-enter the spa\n  298   2  > The choice at the end of a session is what the crossing is recorded as: a remembered route named out loud and marked as past, or\n  321   3  Three records are filed alongside this one because each was made out of the same loss of ground, and the archive pairs them by tha\n  328   3  The Echo Gardens hold several structures made by the same removal of ground, and these three are the ones whose material can share\n  330   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  372   1  - Viderehan and Ferrehan are the valid Work Types; Flerehan and Pugnahan have no purchase on a structure. The posted warden speaks\n  384   3  **Review requirement:** Re-verify after any Sorrow Tide, after any change to the Gardens survey, and after any crossing made for a\n  423   3  - **Record detail:** Check the designation before approach. More than one Echo Gardens record is a bridge and the two are opposite\nGENERIC 0.008  (44 shared shingles)  SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-A__SIDE_CODEX_Bridge_to_Nowhere.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-B__MAW-W_The_Memory_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-C__MAW-S_The_Memory_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-D__MAW-G_The_Memory_Span.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-A__SIDE_CODEX_Bridge_to_Nowhere.md": "0a033662372b7dd6c4be3049cc3a12246cee42afd13b5b802711644027d890e9",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-B__MAW-W_The_Memory_Requiem.md": "21a234c94806f19d3cd29a6aabc6a30b3a029aca16c428079f5b649ae5cc543e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-C__MAW-S_The_Memory_Shroud.md": "66b86c36164546c3edfb9b4d779fe27bc150d15a1c6ae0a0855c6ad568bbb3be",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_249_to_260/SE-260-D__MAW-G_The_Memory_Span.md": "861bd87dd80e604d587304b2ce74ba5b4e2cd7bd3affe0ac87a733c7c465c8f8",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-260_Bridge_to_Nowhere_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md\")]",
+      "table_link": "[Bridge_to_Nowhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-260_Bridge_to_Nowhere_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md\")",
+      "reading": {
+        "before_lines": 430,
+        "before_bytes": 43793,
+        "final_lines": 430,
+        "final_bytes": 44481
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 109,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    },
+    {
+      "designation": "C-Iα-240",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md",
+      "words": 7313,
+      "sha256": "17c5a36f1b6dc5d038223ddeea2f007235c855f1245db13821b830f03ee2dbc4",
+      "unit": 2,
+      "name": "Echo of Kindness",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_02_ECHO_OF_KINDNESS.md",
+      "before_words": 7313,
+      "after_words": 7373,
+      "base": "5078a1c909e4ae1d0042857a26a7b125637980e1",
+      "final_sha256": "a088d3ab55d333c05f45521e758a2725dda66e7ccb5206cc67aa9421dc71be85",
+      "summary": "Ten supported repairs return the pasted-on pressure grammar to the count book: combat loses its blade of intention, bittersweet wound and full-force blow against a record with no injury in it — pressure now lands as comfort received, a declining series, and a worker hearing their own voice returned, with every name and number kept — the stock consequences (drift, Fracture, destructive count) become late reporting, per-piece tolls and a quieter square, the template Resolution splice and Detailed movement row are replaced by the file's own condition and bearing record, field-use signs split across weeping, numbness and refused kindness, two generic flavor rows and the breach-based review/trivia clauses are re-anchored in the 61/44/29 series, and the missing Observation Log heading is restored (a pre-existing wikistd parity failure, identical on the untouched file). Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "A third good-rule file in a row for this program, and the gentlest: the Company abolished the favour to stop fixers owning crews, and thereby made kindness itself an infraction — so the square's voice is literally powered by rule-breaking decency, and its decline is measured in infractions nobody may count. The count book kept by a stallholder for forty-one years being the archive's longest series is the right kind of institutional embarrassment. What let the file down was boilerplate menace — Fractures and destructive counts — pasted onto the one holding whose failure mode is silence.",
+      "reasoning": "R-33 chain: Object/Place / Residue-I / Minor-α Lament → forty years of small unrecorded kindnesses in one square, later made infractions by a defensible roster rule → no body at all: two or three unhurried words from behind the right shoulder, warmth like breath, gone in two seconds → Viderehan counts, Ferrehan accepts; nothing rostered has produced a return in three years → expansion is the carrying field widening on freely given acts and currently contracting → granted pieces lend the return at the price of weeping, numbness and felt refusals. Repairs remove blade/wound/Fracture claims the chain cannot carry; wordless-vs-spoken return, three weapon forms and witnessed first-bearer histories remain HELD.",
+      "history": "Batch 102 unit 5 (commit 435eee4b) performed the whole-set source disposition preserved in the primary's 2026-10-12 full-set review: identity-resolved SE-1022-A–D (not numeric SE-240, which belongs to Holdout C-IIβ-240), Registry rows 250–253, Master Entries 331–333, Entity Codex row 477, Tale 111 and archetypes MAW-W-240/1022, counting full-SE and Weapon inside the ledger legacy baseline. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "The return's content forks at the center: the primary's working record transcribes words verbatim ('you did well today'), logs voice identification, and rotates out anyone who hears their own voice — while Tale 111, copied into the primary's Narratio, says hearers 'do not hear words; they hear the feeling of kindness remembered'. Spoken sentence versus wordless feeling was not reconciled, and the count book's method depends on which is true.",
+        "Weapon identity remains three-way at agreeing statistics (Lament 3–6 / Speed 2 Normal / Range 2 Short / max 5 / 15 Echoes): primary and Master table give the silvered Mercy Broadsword arming sword (archetype Long); Side A, item B and detailed Entry 331 give The Kindness Requiem; linked-code MAW-W-1022 is a funerary censer maul at Room. The same Mercy Broadsword title in Holdout and Broken Clocktower is separate dossiers' gear, not a shared item.",
+        "The codices' first-bearer histories (hazard redirected after attribution, first-person retelling as first sign, manifestation taking the bearer as its new site at terminal corrosion) stand against a primary whose worst recorded event is unreported comfort and whose four Stones were granted for same-day reporting. No hazard was written into the Commons record and none was struck from the codices; the set's '+1 stat bonus' also stays unnamed locally as in Side/item D.",
+        "Solace naming and manifestation stay split: Side/item/Registry carry the set as Solace with Subject-Lament, where the primary carries Echo of Kindness, Place-Lament after its own standardisation note. Tale 111's Registrum keeps the pre-standardisation [LP] tag and 'Flerehan is the only Work Type that produces consistent data' against a Place that cannot be Flerehan-worked; the standalone Tale was not edited.",
+        "Threshold scopes remain parallel and largely formal: activation ≥45%, ultimate at 65%, 198 pool, 3–10 pressure, beside 'there is no escalation on record' and an expansion rate that is currently negative. The Consolihan swell is asserted in Tale/primary narrative without a dated count entry; it was left as the file's claim, neither instrumented nor struck."
+      ],
+      "split": [
+        7,
+        3
+      ],
+      "repairs": [
+        {
+          "id": "combat_actions",
+          "kind": "careful-detail",
+          "old": "| { *The Warm Whisper* [**Debuff**] } | \"A voice says something kind — from very far away, from very long ago — and the warmth of it aches.\" | [The Echo's fading kindness touches the target; they miss what was lost.] | *Target suffers -10 Composure; the kindness is almost gone.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |\n| { *The Cooling* [**Debuff**] } | \"The warmth fades with each repetition — and soon, only the shape of the kind word will remain, empty.\" | [The Echo's diminishing warmth leaves the target cold.] | *Target loses 10 Composure; the kindness is draining away.* **[10 Lament DMG [Lament]]** | When the target listens. |\n| { *The Gentle Cut* [**Attack**] } | \"The echo sharpens — and the kindness, compressed, becomes a blade of pure intention.\" | [A focused echo of kindness strikes.] | *Inflicts Lament pressure and one wound of bittersweet pain.* **[14-22 Lament DMG [Lament]]** | When the Echo is disturbed. |\n| { *The Final Repetition* [**Attack**] } | \"The echo repeats one last time — the kindest word ever spoken, at full force — and then goes silent forever.\" | [The last return the square will ever hear, spent in one turn; the count book records the fall to zero and nothing after it.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Echo is silenced. |\n| { *The Silent Kindness* [**Ultimate**] } | \"Every kind echo in the field fades — and the silence where warmth used to be is the coldest thing of all.\" | [Every return in the square fades at once, and the ordinary noise of the Commons comes back into the room.] | *All in range suffer Lament pressure for three turns of cooling kindness.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Warm Whisper* [**Debuff**] } | \"You matter. Sit down. I see you.\" | [Two or three unhurried words arrive from just behind the target's right shoulder, warmth like breath, and nobody is standing there.] | *Target suffers -10 Composure; comfort offered and asked for nothing is the whole of the pressure.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |\n| { *The Cooling* [**Debuff**] } | \"Sixty-one, then forty-four, then twenty-nine.\" | [The monthly count is read against the series; fewer returns reach the square and the words that come are gone inside two seconds.] | *Target loses 10 Composure; the decline itself is what is heard.* **[10 Lament DMG [Lament]]** | When the target listens. |\n| { *The Gentle Cut* [**Attack**] } | \"You did well today — in a voice the target knows.\" | [Nothing sharpens and nothing strikes: a kindness somebody actually performed is returned in the giver's own voice, to whoever is standing there.] | *Inflicts Lament pressure as an act received out of its time; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When a return follows an unrostered act. |\n| { *The Final Repetition* [**Attack**] } | \"Nobody writes these up on the day.\" | [A hearer recognises their own voice coming back at them and is withdrawn from the rotation that day, without inquiry; the count book takes the entry unaltered.] | *A heavy Deep Blue surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When a worker hears their own voice returned. |\n| { *The Silent Kindness* [**Ultimate**] } | \"Every return in earshot goes silent at once, and the ordinary noise of the Commons comes back.\" | [The carrying field thins across the square; what is left is market noise and a monthly figure nobody adjusted.] | *All in range suffer Lament pressure for three turns of absence where comfort was.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "battle_resolution_splice",
+          "kind": "short",
+          "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **No containment required; preserve the conditions that form it**. It is met when the monthly figure goes into the book unaltered and anybody who heard their own voice back has been rotated out of the Commons for a full cycle — there is nothing here to hold and nothing to lift, and the way this file fails is a decision to interfere.",
+          "new": "3. **Resolution:** There is no suppression condition on this file. The session closes on the documented condition — **No containment required; preserve the conditions that form it** — when the monthly figure goes into the book unaltered and anybody who heard their own voice back has been rotated out of the Commons for a full cycle: there is nothing here to hold and nothing to lift, and the way this file fails is a decision to interfere."
+        },
+        {
+          "id": "consequences_generic",
+          "kind": "careful-detail",
+          "old": "- Time past the recommended cycle is not free: in the Commons the drift sets in first, then the Fracture, and the square itself starts to destabilise around a crew that stays too long.\n- The equipment record states plainly what a M.A.W. takes out of this square, and no rotation of the watches has ever found an exception: nothing is extracted here without the bearer paying part of it.\n- If the condition is left unmet, the holding stops waiting: the count turns destructive, and the kindness it was holding comes back through the square as something nobody asked for.",
+          "new": "- Staying too long costs differently: the returns accumulate on the hearer, reporting gets later and gentler than the event, and the count book — not the square — is what destabilises. A reconstructed account is marked as a reconstruction for exactly this reason.\n- Each piece prices the same exchange separately: unwept grief arriving as weeping on the Broadsword, minor joys going numb under the Shroud, and every refused kindness nearby felt on the Stone. None of the three is the set's single price, and the set leaves the rack one rotation at a time because none of them shows on the day.\n- Left unmet, the condition does not turn on anybody: the returns simply stop being replaced. The wing watches the monthly figure — 61, then 44, then 29 — because on this holding failure is a quieter square, not a louder one."
+        },
+        {
+          "id": "position_detailed",
+          "kind": "short",
+          "old": "| **Position / movement** | Mobile — drifts or flows through the area. Posture and distance are logged because on Echo of Kindness neither has ever been assumed. |",
+          "new": "| **Position / movement** | No body and no position of its own: the voice arrives from behind the right shoulder of whoever is nearest, at about a pace, and is gone inside two seconds. Log the bearing, the words verbatim, and the distance to the nearest person who could have spoken. |"
+        },
+        {
+          "id": "field_use_split",
+          "kind": "careful-detail",
+          "old": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline put by a colleague rather than by the wielder: what pleased you last, and when. The toll on this set — the holding's unwept grief arriving on the wearer — does not announce itself, and the baseline question is the only instrument the Armoury trusts. |\n| **During use** | Watch for the toll rather than for the weeping: the hour it is first seen is logged by the second worker and never by the wielder, and the question the record asks is not whether the wearer is weeping but whether anything on this rotation was done to order — the set has one rotation for a reason. |\n| **At limit** | The wearer goes numb to minor joys, without remission, and the file's test is the baseline question: a bearer who can no longer say what last pleased them has reached the limit. On an Echo of Kindness piece the use ends there whatever the wielder says. |\n| **After use** | Take the piece back and put the question to a colleague rather than to the wielder: whether the cost is still showing — the numbness, and whether the baseline question can be answered at all. The answer is filed with the piece, and where it cannot be answered the piece is not issued to that wielder again. |",
+          "new": "| Stage | Required record |\n|---|---|\n| **Before use** | Wielder, piece, and a dated baseline put by a colleague rather than by the wielder: what pleased you last, and when. None of the three tolls announces itself, and the baseline question is the only instrument the Armoury trusts. |\n| **During use** | The hour each toll is first seen is logged by the second worker, never the wielder: weeping without meaning to, pleasures reported flat, or a refused kindness nearby carried as the bearer's own. The record also asks whether anything on this rotation was done to order — the set has one rotation for a reason. |\n| **At limit** | The baseline question cannot be answered, the weeping has become ordinary, or the bearer is describing the square's sorrow in the first person. On an Echo of Kindness piece the use ends there whatever the wielder says. |\n| **After use** | Take the piece back and put the question to a colleague rather than to the wielder: whether the cost is still showing in any of its three forms. The answer is filed with the piece, and where the baseline question cannot be answered the piece is not issued to that wielder again. |"
+        },
+        {
+          "id": "flavor_first_contact",
+          "kind": "short",
+          "old": "**At first contact:** What identifies it is a warm voice with no body behind it, speaking 2 or 3 ordinary words of comfort — you matter, sit down, I see you — and a space that does not go generic or abstract but changes in the specific way associated with Lament. The words are ordinary, which is why they land; the sound does not last and cannot be recorded after it fades.",
+          "new": "**At first contact:** A warm voice with no body behind it, speaking 2 or 3 ordinary words of comfort — you matter, sit down, I see you — from just behind the right shoulder, with a warmth like breath. The words are ordinary, which is why they land; the sound is gone inside two seconds and cannot be recorded after it fades."
+        },
+        {
+          "id": "flavor_continued",
+          "kind": "short",
+          "old": "**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Subject-Lament is teaching you its sorrow.",
+          "new": "**With continued exposure:** The count does the changing: 61 returns a month, then 44, then 29, across the stallholder's forty-one years of book. No return in three years has followed an act performed under roster, and the voices still arriving are increasingly ones nobody in the square recognises."
+        },
+        {
+          "id": "review_requirement",
+          "kind": "short",
+          "old": "**Review requirement:** Every breach, Sorrow Tide and transformation attempt invalidates the current baseline: re-verify the count against the book, the roster against the Works Office and the rotated-out list before proceeding. On this holding the first review question is not whether the numbers moved but whether anybody changed them, and the second is whether the file's own record still describes a living sorrow pattern rather than a permanently complete explanation.",
+          "new": "**Review requirement:** There is no breach or transformation on this file to re-verify against. Review the count against the book, the roster against the Works Office, and the rotated-out list before proceeding. On this holding the first review question is not whether the numbers moved but whether anybody changed them, and the second is whether the file's own record still describes a living sorrow pattern rather than a permanently complete explanation."
+        },
+        {
+          "id": "trivia_containment",
+          "kind": "short",
+          "old": "- **Containment detail:** Containment holds the body and not the sorrow, and on this holding there is no body to hold: the return is a voice from behind the shoulder, and the containment is a count and a rotation. Even sealed, adjacent personnel report dreams, headaches and gauge drift, which is why the instruction is to preserve the conditions that form it rather than to cordon them.",
+          "new": "- **Containment detail:** Containment holds the body and not the sorrow, and on this holding there is no body to hold: the return is a voice from behind the shoulder, and the containment is a count and a rotation — preserve the conditions that form it, and withdraw for the day anybody who hears their own voice come back."
+        },
+        {
+          "id": "observation_log_heading",
+          "kind": "short",
+          "old": "**R.D. Comprehension Level:** 1 — Initial. Nothing here resists study; there is simply very little to study, and less of it every year.",
+          "new": "## 관찰 기록 (Observation Log)\n\n**R.D. Comprehension Level:** 1 — Initial. Nothing here resists study; there is simply very little to study, and less of it every year."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.023  clean  1201 grams  M.A.W. Equipment\n 0.019  clean   622 grams  Combat Record\n 0.017  clean   115 grams  Operational Parameters\n 0.002  clean   640 grams  Commons Record\n 0.000  clean   622 grams  감각 묘사 (Flavor Text)\n 0.000  clean   384 grams  이야기 (Narratio)\n 0.000  clean   336 grams  기록 (Registrum)\n 0.000  clean   243 grams  Expansion Behavior\n 0.000  clean   241 grams  이야기 보고 (Story Log)\n 0.000  clean   206 grams  Appearance\n 0.000  clean   176 grams  Behavior\n 0.000  clean   162 grams  Trivia\n 0.000  clean   147 grams  Origin\n 0.000  clean   105 grams  최종 관찰 (Final Observation)\n 0.000  clean    60 grams  증언 (Testimonium)\n 0.000  clean    49 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   55   2  | **Resistance** | 15% against Lament pressure; 5% against everything else. Nothing is rated against the kindness itself, because \n   84   3  | { *The Final Repetition* [**Attack**] } | \"Nobody writes these up on the day.\" | [A hearer recognises their own voice coming bac\n   85   7  | { *The Silent Kindness* [**Ultimate**] } | \"Every return in earshot goes silent at once, and the ordinary noise of the Commons c\n  198   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the return in the strike: the\n  224   2  **Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow. It is size\n  244   1  | **Before use** | Wielder, piece, and a dated baseline put by a colleague rather than by the wielder: what pleased you last, and \n  246   1  | **At limit** | The baseline question cannot be answered, the weeping has become ordinary, or the bearer is describing the square\n  251  20  **Full-set source review (2026-10-12):** Reviewed the `Granted pieces · α` overview, all local Weapon/Suit/Stigma claims, Use Note\n  405   1  The charge hands asked for the narrowest possible exception: that a worker might once a shift ask a named colleague for help, logg\nGENERIC 0.008  (43 shared shingles)  SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-A__SIDE_CODEX_Solace.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-B__MAW-W_The_Kindness_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-C__MAW-S_The_Kindness_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-D__MAW-G_The_Kindness_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-A__SIDE_CODEX_Solace.md": "9883b62258e1e5710f2f0504917448a1c810d1aa8e3f2c83ac31569764350ed1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-B__MAW-W_The_Kindness_Requiem.md": "2c8e5c61fd652c87d9a8a87f29720979fb3797aa8ddb278a8bf2466adcb4677f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-C__MAW-S_The_Kindness_Shroud.md": "7a46853ae49d9c1adb0259baa77b134020c2251d735af070b5242d64379c878e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1022_Solace/SE-1022-D__MAW-G_The_Kindness_Stone.md": "f88306b78ea21517b01782fa9d8dc2ca1f31444a3789517a96234d51aed26a9f",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-240_Echo_of_Kindness_친절의_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-240_Echo_of_Kindness_%EC%B9%9C%EC%A0%88%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md\")]",
+      "table_link": "[Echo_of_Kindness](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-240_Echo_of_Kindness_%EC%B9%9C%EC%A0%88%EC%9D%98_%EB%A9%94%EC%95%84%EB%A6%AC.md \"SE-C-Iα-240_Echo_of_Kindness_친절의_메아리.md\")",
+      "reading": {
+        "before_lines": 426,
+        "before_bytes": 44085,
+        "final_lines": 428,
+        "final_bytes": 44455
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 108,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Digits added are only the file's own count series 61/44/29 restated in the combat, consequences and flavor seams; no digit removed and no combat or equipment number changed."
+      }
+    },
+    {
+      "designation": "C-IVδ-823",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md",
+      "words": 7315,
+      "sha256": "b53636b343d645565b56801b5c735354ae60876302716660f52ea0291b0075ba",
+      "unit": 3,
+      "name": "Stranded Between Two Shores",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_03_STRANDED_BETWEEN_TWO_SHORES.md",
+      "before_words": 7315,
+      "after_words": 7423,
+      "base": "cf5e0436ec0b666ce5175d610fb2deba841d87c8",
+      "final_sha256": "219a51dc15199394a16f8f15413e07ff4f737535821a05c18259a71f4f4ac041",
+      "summary": "Eight supported repairs bring the leftover flood grammar back to the depth log: the Valid Work Types row no longer offers Pugnahan it elsewhere records as a failure, the first three combat rows stop stepping targets onto planks, narrowing their footing and wounding them with immersion — pressure now lands as one-sided working, a single-column reading and lost voice contact, joining the depth-aware Undertow and Final Crossing rows a prior pass left intact — the template Resolution splice and 'psychological matrix' consequences line are replaced by the both-columns condition, the Detailed movement row records fixed-in-plan/moving-in-depth instead of structure boilerplate, field-use signs are priced by piece and its inverted At-limit line ('stops leaving things at the halfway mark') is set right, and the template opening of Initial exposure is removed. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The strongest small fact in this batch so far: for nine years the crossing list printed only the twenty-six who could not be accounted for, because the thirty-one had walked home — and the span descended faster in those nine years than in the thirty since somebody added the second column. 'Now count the other' in the Director's margin is the whole containment doctrine in four words. What let the file down was residue: planks, floods and immersion wounds in a tunnel whose only real figure is depth against a datum.",
+      "reasoning": "R-33 chain: Subject-Lament / Entity-IV / Critical-δ → a tunnel bridge collapsed in a Han surge with families mid-crossing; the first list counted only one shore → a weeping rib-arched span over continuous surveyed floor, fixed in plan and sinking in depth → work from both mouths at once, both columns named aloud; one-sided working is the escalation → event is zone corruption: weeping, voices, descent, ended by paired naming without anyone crossing → equipment lends the two-ended posture at the price of weeping, flat arrivals and everyone else's grief. Repairs remove immersion/flood claims the chain cannot carry; the Apex Record's network manifestations, one recorded crossing, and nineteen-vs-twenty-six accounting remain HELD.",
+      "history": "Batch 119 unit 1 (commit fa0810d) performed the whole-set source disposition preserved in the primary: exact SE-823-A–D with pair SE-823-B newly dispositioned, Master Entries 301–303, Entity Codex row 466, Tale 101 and archetype MAW-W-823, counting full-SE 111/301 and Weapon 143/287 inside the ledger legacy baseline. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "The Apex Record describes a second holding beside the first: manifestations at surveyed gap positions across the tunnel network, a figure that moves downward through the network with crews withdrawn ahead of it, intelligible voices asking for help that personnel must not answer, and one recorded crossing whose author survived by nothing they did — against the operational record's fixed stretch, depth-only movement, sobs rather than speech, 'no one crosses' with counter 1, and a span that collapses underfoot by design with a survivable fall. Neither stratum was edited into the other.",
+        "The unaccounted do not reconcile: the crossing list's far column is twenty-six who 'could not be accounted for', the Tale places some of the taken on the bridge itself, and the Apex file closes on nineteen names absent from both sides. Thirty-one, twenty-six and nineteen were all left standing; no arithmetic was performed on the dead.",
+        "Rise versus sink stays forked inside the work record: Behavior and the canonical Final Observation echo say Flerehan 'lowers its span', while Clash, Operational Work Notes, Consequences and one far-mouth statement ('the span came up four centimetres; nobody told me it could come up') record rising under the same work — and Consequences also states no recorded intervention has raised it. The combat repair was anchored to depth readings rather than to either verb.",
+        "Weapon form forks at agreeing statistics (Lament 10–15 / Speed 3 Fast / Range 3 Medium / Skewer 100-70-50 / max 2 / 50 Echoes): primary gives a slender weeping blade, archetype MAW-W-823 a vertical suspension-bridge deck at Long, item B no physical form at all beyond its doctrine. Master table buckets (REQUIEM — Resonant Blade; Hauberks & Chain Mail for a silk shroud; Brooches & Fasteners for a Tail chain) and Registry's 5% bestowal against 4% stay uncrosswalked; the Chain's '+3' remains scoped 'to work against this entity' locally and unnamed in Side/item D.",
+        "Naming and record strata stay split: primary, Registry and disposition carry Stranded Between Two Shores; Master Entries 301–303, Entity Codex row 466 and Tale 101 carry The Sunken Bridge. The primary's own Registrum is the Tale's stale stratum (Zone D tunnels, Comprehension 3, Threat Low, Flerehan primary) against the SECC's Zone B, Level 2, Critical δ — preserved as a quoted record, not normalised. Side A also labels the entity 'Subject — Can breach' where the primary is non-breaching corruption of its own zone; thresholds (activation 1 the counter, ≥90%, 65%, event 40% ±10) and Speed 2.45 m/s for a fixed-in-plan figure remain parallel and formal."
+      ],
+      "split": [
+        6,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "valid_work_types",
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan, worked from both mouths at once. Pugnahan stays in the table because it was tried; on this holding it is entered as a failure, not an option. |"
+        },
+        {
+          "id": "combat_first_rows",
+          "kind": "careful-detail",
+          "old": "| { *The Waterlogged Plank* [**Debuff**] } | \"The bridge is half-underwater — and the wood remembers every person who crossed and did not make it.\" | [The Bridge's sorrow seeps up through the wet planks.] | *Target suffers -10 Composure; the crossing has a cost.* **[10 Lament DMG [Lament]]** | When the target steps onto the Bridge. |\n| { *The Rising Flood* [**Debuff**] } | \"The water climbs the railings — and it is cold, and patient, and rising.\" | [The water around the Bridge rises; the target's footing narrows.] | *Target loses 10 Composure; the water is reaching for them.* **[10 Lament DMG [Lament]]** | When the target lingers mid-bridge. |\n| { *The Breaking Plank* [**Attack**] } | \"The wood gives way — rotten with sorrow, soaked through.\" | [A plank collapses under the target; the drop is into cold water.] | *Inflicts Lament pressure and one wound of sudden immersion.* **[14-22 Lament DMG [Lament]]** | When the Bridge is crossed carelessly. |",
+          "new": "| { *The Waterlogged Plank* [**Debuff**] } | \"Thirty-one near. Twenty-six far. Say both.\" | [Audible weeping fills the section from both mouths at once; nobody steps anywhere, and the will to finish the shift is what erodes.] | *Target suffers -10 Composure; the unfinished journey is carried for the rest of the cycle.* **[10 Lament DMG [Lament]]** | When the tunnel is worked from one mouth only. |\n| { *The Rising Flood* [**Debuff**] } | \"Now count the other.\" | [One column of names is read without the other; the span answers the way it answered nine years of a single list — by sitting lower at the next depth reading.] | *Target loses 10 Composure; descent, not water, is what rises against the crew.* **[10 Lament DMG [Lament]]** | When one shore is named and the other is not. |\n| { *The Breaking Plank* [**Attack**] } | \"The span bears weight convincingly, and for long enough to be halfway.\" | [Nothing collapses underfoot and nobody is immersed: voice contact between the two mouths lapses, and the pull toward the midpoint is the whole of the event.] | *Inflicts Lament pressure as separation reasserted; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When voice contact between the mouths is lost. |"
+        },
+        {
+          "id": "battle_resolution_splice",
+          "kind": "short",
+          "old": "3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Listen between the sobs and name both shores** — the thirty-one near names and the twenty-six far names read into their own columns, aloud, by the two teams at once, with voice contact held throughout.",
+          "new": "3. **Resolution:** There is no suppression condition to fall back on. The session closes on the documented condition — **Listen between the sobs and name both shores** — the thirty-one near names and the twenty-six far names read into their own columns, aloud, by the two teams at once, with voice contact held throughout."
+        },
+        {
+          "id": "consequences_matrix",
+          "kind": "short",
+          "old": "- If resistance fails, the entity's pressure transfers into the worker's psychological matrix as an unfinished journey and depletes **Clarity**; the escalation is measured in one-sided working rather than in minutes, and a crew that has lost both mouths to the pull is withdrawn and re-briefed rather than reinforced.",
+          "new": "- If resistance fails, the pressure takes the worker as an unfinished journey and depletes **Clarity**; the escalation is measured in one-sided working rather than in minutes, and a crew that has lost both mouths to the pull is withdrawn and re-briefed rather than reinforced."
+        },
+        {
+          "id": "position_detailed",
+          "kind": "short",
+          "old": "| **Position / movement** | Stationary — a structure or location. Recorded at every Stranded Between Two Shores cycle against the previous reading. |",
+          "new": "| **Position / movement** | Fixed in plan and moving in depth: the same stretch of tunnel, a measurable distance lower each quarter. Record the depth against the tunnel datum at both mouths, at entry and at exit; the two readings have never been identical. |"
+        },
+        {
+          "id": "field_use_during_split",
+          "kind": "careful-detail",
+          "old": "| **During use** | The first sign is not a reading and is never visible to the wielder: the second worker reports the wielder weeping at the far mouth, and the span answering by coming up. Logged with the hour by the second worker, never by the wielder, and the session stops if the second worker can no longer hear the first. |",
+          "new": "| **During use** | The first sign is never visible to the wielder and is priced by piece: the second worker reports weeping at the far mouth with the span answering, arrivals described as feeling like nothing, or the bearer leaving a task, a meal or a sentence at its halfway mark. Logged with the hour by the second worker, never by the wielder, and the session stops if the second worker can no longer hear the first. |"
+        },
+        {
+          "id": "field_use_limit_inversion",
+          "kind": "short",
+          "old": "| **At limit** | The wielder stops leaving things at the halfway mark — conversations, journeys, meals — and reports it as efficiency. The second worker's call stands against the wielder's, and the piece is withdrawn at the second worker's word alone. |",
+          "new": "| **At limit** | The wielder is leaving things at the halfway mark without deciding to — conversations, journeys, meals — and reports it as efficiency. The second worker's call stands against the wielder's, and the piece is withdrawn at the second worker's word alone. |"
+        },
+        {
+          "id": "observation_initial_template",
+          "kind": "short",
+          "old": "| **Initial exposure** | The observer identifies Stranded Between Two Shores as a Subject with Subject-Lament manifestation and takes the first depth reading against the tunnel datum before anything else. The first reliable markers are the ribbed arches, the surface wet with crystallised tears at any humidity, and the absence of any gap under the span; a bridge-shaped record with a gap beneath it is a different designation and is checked against the archive before the cycle opens. |",
+          "new": "| **Initial exposure** | Take the first depth reading against the tunnel datum before anything else. The first reliable markers are the ribbed arches, the surface wet with crystallised tears at any humidity, and the absence of any gap under the span; a bridge-shaped record with a gap beneath it is a different designation and is checked against the archive before the cycle opens. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.033  clean    61 grams  Operational Parameters\n 0.028  clean   176 grams  Trivia\n 0.024  clean   623 grams  M.A.W. Equipment\n 0.013  clean   718 grams  Combat Record\n 0.011  clean    89 grams  최종 관찰 (Final Observation)\n 0.008  clean   399 grams  관찰 기록 (Observation Log)\n 0.006  clean   156 grams  Containment Event Behavior\n 0.004  clean   264 grams  Appearance\n 0.003  clean   704 grams  감각 묘사 (Flavor Text)\n 0.000  clean   750 grams  Apex Record\n 0.000  clean   433 grams  이야기 보고 (Story Log)\n 0.000  clean   378 grams  이야기 (Narratio)\n 0.000  clean   211 grams  Behavior\n 0.000  clean   181 grams  Origin\n 0.000  clean   116 grams  기록 (Registrum)\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    35 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   55   4  | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the pressure this file \n   84   1  | { *The Undertow* [**Attack**] } | \"The water beneath the span climbs the arches with no tide behind it, and the pull is toward t\n   85   4  | { *The Final Crossing* [**Ultimate**] } | \"The span finishes its descent, and the working floor goes under with it.\" | [The Brid\n  122   1  | **Identification** | Check the designation before approach: the archive holds four bridge-shaped records and the handling differ\n  166   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% each time a worker sets foot on the span — it gives way beneath them by de\n  176   1  **Appearance:** a slender blade of Lament Han-crystal, cold along the flat and warm at the point, that weeps a thin film of Han wh\n  185   1  **Target Coverage:** A line of up to three, which in this tunnel means a file of people strung out along its length — the formatio\n  189   2  **Ability:** Lament damage to the mind. The requiem carries the entity's signature — a journey stopped at the midpoint — and what \n  207   5  **Ability:** Turns Lament aside from the mind, which is the only pressure here, and does nothing about the pull. The shroud is wha\n  209   1  **Cost:** The wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular fee\n  239   3  | **At limit** | The wielder is leaving things at the halfway mark without deciding to — conversations, journeys, meals — and repo\n  240   2  | **After use** | Return, reconcile the written note against what the wielder actually finished that day, and record whether the t\n  264   3  **Observation method:** Record the first sign, which is cold rain-smell in a dry tunnel; the first sensation, which is the need to\n  290   1  | Do the thing on file: Listen between the sobs and name both shores, from both mouths, for the whole cycle. | Depart from the con\n  320   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  414   2  - **Classification detail:** Stranded Between Two Shores is a Subject with Entity (IV) coherence and Critical (δ) potency; the cod\n  417   3  - **Record detail:** Check the designation before approach: the archive holds 4 bridge-shaped records and manages each in a differ\nGENERIC 0.007  (39 shared shingles)  SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-A__SIDE_CODEX_Stranded_Between_Two_Shores.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-B__MAW-W_The_Crossing_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-C__MAW-S_The_Crossing_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-D__MAW-G_The_Crossing_Chain.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-A__SIDE_CODEX_Stranded_Between_Two_Shores.md": "c0bf980a2f7a4475b285164b2a01b3645a1617d3f94aa21bcd878a28dbe6ff73",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-B__MAW-W_The_Crossing_Requiem.md": "bacd7965a3a68f04f7dd1882fbe7cd6692af2711de996849c499303d7ed3ef5f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-C__MAW-S_The_Crossing_Shroud.md": "9e17ad81a3de496844a9deeb0aadee27c3bc27761c1f5071754fefff80ee00aa",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/823_Stranded_Between_Two_Shores/SE-823-D__MAW-G_The_Crossing_Chain.md": "34513f8cc1bbd6a860f4f1537d524d3bd3d0ddc7a15ab64b1887da0023345a80",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-823_Stranded_Between_Two_Shores_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md\")]",
+      "table_link": "[Stranded_Between_Two_Shores](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-823_Stranded_Between_Two_Shores_%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80_%EB%8B%A4%EB%A6%AC.md \"SE-C-IVδ-823_Stranded_Between_Two_Shores_가라앉은_다리.md\")",
+      "reading": {
+        "before_lines": 424,
+        "before_bytes": 43957,
+        "final_lines": 424,
+        "final_bytes": 44448
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 107,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    },
+    {
+      "designation": "C-IIβ-775",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-775_Cleaved_찢어진_탑.md",
+      "words": 7327,
+      "sha256": "dea1055e15b771ece48eb3760c53f6048fea97b52c80003b1f2caf85c644355e",
+      "unit": 4,
+      "name": "Cleaved",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md",
+      "before_words": 7327,
+      "after_words": 7499,
+      "base": "fba4aacd41cf1d1e93c3e17e5cc120aa4299d8eb",
+      "final_sha256": "08fe72c328b1a5467858868f7641fe1f1d292f8eff7e08c2da81f9d0bf3ab1ee",
+      "summary": "Eight supported repairs bring leftover combat and toll grammar back to this holding's own instruments — the height, the bearing and the register: the Valid Work Types row no longer lists Pugnahan the file has barred since the second cycle; The Falling Masonry no longer hurls an aimed block at a target from a figure that 'goes for skylines and not for people' and whose pressure is a clarity drain — it leans, and the names go in order; the two generic consequences bullets (a stacked emotional/bodily/self/ground quadruple and the intimate-memories/sensation/years triad) are replaced by the ordered name-loss, the underneath-something casualty rule and the set's three recorded tolls; the Detailed movement row stops saying 'can breach and pursue' of a figure that has never once pursued anybody; the codices' terminal 'bearer becomes a new site' career is set against the works register that assigns sites and is not the bearer's to amend; field-use signs are priced by piece; and the template activation paragraph ('becomes realer… the Void is operational') is replaced by the lean and the name-loss interval. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The compilers' objection is the best sentence in this batch so far, recorded as correct and unanswered: the Company abolished cancellation so no promise could ever be quietly withdrawn, and has thereby arranged that 806 promises it knows to be dead must be kept alive forever. This entity's height is proportional to that number — 31, 44, 58 metres against a design it will never finish. A containment file whose monster is an open register entry deserves tools that match: a theodolite and a nil return.",
+      "reasoning": "R-33 chain: Subject-Grudge / Echo-II / Moderate-β / Void → a tower scheme approved, begun, then emptied of its architect and crews and suspended by a Company that does not cancel → the gap between the imagined tower and the skeleton given form: a cloven tower-figure, seam and lean-bearing constant, height changing at every survey → breach walks to the tallest standing structure and leans; Void takes names of what is looked at, faces last; containment is a theodolite station, a period street plan and the register's standing → the resolution (do not complete; document) forbids both building and demolition → equipment lenses/veils/keystones carry the clarity drain and the plan-holding residue. Repairs remove hand-thrown masonry, pursuit and template tolls the chain cannot carry; the week-versus-months disappearance, disc-versus-scope weapon body and Cleaved-versus-Torn-Tower naming strata remain HELD.",
+      "history": "Batch 125 supplement 11154c1 already dispositioned pair SE-775-B / MAW-W-775-01, and Batch 126 unit 1 (c9fb9a1, with f1d7ad3 and 6d4ce20 readbacks) performed the full-SE careful-detail review — SE-775-A–D 4/4, Registry rows 863–866, Master Entries 175–177 (detail 2800), Entity Codex row 423, Tale 59, archetype MAW-W-775, disposition row 209 — counted once inside the ledger legacy baseline; the Batch 126 close states Cleaved775 is 'already counted and not recounted'. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Two disappearances stand side by side: the primary's Origin has the architect and crews gone 'inside a week', works suspended 'the following month'; Tale 59 removes them one by one over months of construction, to the Han, the Frays and quiet collection, with the Council withdrawing funding after the stall. The Honest Register and Watch Record carry the administrative aftermath; no source chooses between the week and the months, so neither does this review.",
+        "The weapon agrees on statistics everywhere (Void 5–9 / Speed 2 Normal / Range 2 Short / Single / max 4 / 25 Echoes) and on nothing about its body: primary disc of Void Han-glass that vanishes against a wall; archetype MAW-W-775 a surveyor's scope tube on a tripod at Long, floors solid-to-ghost with NOTED/LOST calibration; item B names only an instrument channeling the source's void signature; Master Entry 175 gives neither disc nor scope. No repair imports a body.",
+        "The Keystone's two accounts stay parallel: primary eleven keystones, each cut from a foundation stone of a suspended works, scheme number on the reverse, head slot, 5%, unnamed +1 working stat and two incompatible plans held 'for about a day'; item D bestowed at 5% with '+1 stat bonus when working the source entity' and no physical description of the stone. Whether the eleven are the bestowal's population, and whether the +1 is source-scoped, remain open; Master registers the stigma under Floating Orbs & Coronets against Registry's Accessory.",
+        "Naming strata stay split (primary and Registry: Cleaved; Master Entries 175–177, Entity Codex row 423 and Tale 59: The Torn Tower), and the older Registrum stratum — Zone A, Low, a flicker — was already reconciled in-file as a transcription error and is preserved as such. Activation arithmetic remains parallel: counter 3 counting down, Core ≥ 60%, Ultimate 65% or any completed structure, breach opening at 40% and taking 10 per structure leant on. The predation posture ('Subject — Can breach' / SECC 'can breach and pursue') stays against 'never once pursued anybody' and 'goes for skylines and not for people'; only the Detailed profile row was aligned to the operational record.",
+        "The equipping codices' general career — first-person ownership, the item repeating the source response outside contact, the manifestation using the bearer as its new site — remains the side files' doctrine, not this primary's: the primary's equipment record runs on route, height and register, and assignments change only on the register. Neither stratum was edited into the other; the primary's old sentence that welded them was replaced, not the codices."
+      ],
+      "split": [
+        6,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "valid_work_types",
+          "kind": "short",
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan remains in the response table because it was tried; it has been barred since the second cycle and the bar has held. |"
+        },
+        {
+          "id": "falling_masonry_row",
+          "kind": "careful-detail",
+          "old": "| { *The Falling Masonry* [**Attack**] } | \"A block tears free from the wall and falls — heavy, jagged, aimed.\" | [A chunk of torn tower strikes the target.] | *Inflicts Void damage; a piece of structure tears away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower is shaken. |",
+          "new": "| { *The Falling Masonry* [**Attack**] } | \"It does not throw anything. It leans, and the city's masonry is what falls.\" | [The figure takes its weight against a standing structure; the Void lands as the names going in order — the street first, then the building's.] | *Inflicts Void pressure on everyone in the lean's shadow; names before bodies, and every casualty on the record was underneath something.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower leans against a standing structure. |"
+        },
+        {
+          "id": "consequences_site_stack",
+          "kind": "short",
+          "old": "- Extended contact brings the whole site down on a worker at once: acute emotional erosion, bodily trauma, the loss of who they are, or a corruption of the ground beneath them that nothing has cleared since. None of these carries an end date, because the scheme has none either — nobody has ended it.",
+          "new": "- Extended contact is not a stack of separate harms: the names go in order — what is being looked at, what the worker came for, faces last — and any bodily harm on this holding has come from standing underneath something the figure has taken its weight against. None of it carries an end date, because the scheme has none either — nobody has ended it."
+        },
+        {
+          "id": "consequences_toll_triad",
+          "kind": "short",
+          "old": "- Taking up any item in the set is never free. The wielder pays in intimate memories, in physical sensation and in years of life; and the equipment schedule puts that in writing; the field is where the bill is actually settled.",
+          "new": "- Taking up any item in the set is never free. The recorded tolls are the set's own — a small nameless memory each use, a wearer going faintly absent to themselves, every abandoned plan connected to a wall arriving as a feeling — and the field is where they are noticed, priced by the second worker, and entered."
+        },
+        {
+          "id": "position_detailed",
+          "kind": "short",
+          "old": "| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Cleaved cycle against the previous reading. |",
+          "new": "| **Position / movement** | Mobile on old ground: walks the footprint and the approach streets of the suspended works, avoids anything built since, and has never once pursued anybody. It can breach; on breach it goes for the tallest standing structure within reach. |"
+        },
+        {
+          "id": "use_notes_terminal_transplant",
+          "kind": "short",
+          "old": "For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. First-person ownership of the source event, then source responses repeating outside contact, precede the terminal condition in which the bearer becomes a new site for the manifestation. The second worker also watches for the wearer’s inability to answer for their own presence, independently of any claim about the source; neither warning is evidence of recovery.",
+          "new": "For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. The recorded failure on this set is quieter than the codices’ career of ownership: a name that will not come, then a sentence with no first person in it, then a wearer who stops noticing either. At no point does the bearer become a site on the works register — assignments change only on the register, and the register is not theirs to amend. The second worker watches for the wearer’s inability to answer for their own presence, independently of any claim about the source; neither warning is evidence of recovery."
+        },
+        {
+          "id": "field_use_during_split",
+          "kind": "careful-detail",
+          "old": "| **During use** | The first sign is a name that will not come — the wearer reaches for a colleague's and gets the shape of the person instead. Timed by the second worker. |",
+          "new": "| **During use** | The first sign is priced by piece and timed by the second worker: a name that will not come — the wearer reaches for a colleague's and gets the shape of the person instead; a sentence with no first person in it; or a bearer invoicing a wall's intentions before its load. The wearer never reports any of the three first. |"
+        },
+        {
+          "id": "activation_flavor_template",
+          "kind": "short",
+          "old": "**When the entity activates:** The Gauge tips. The Subject-Grudge does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.",
+          "new": "**When the entity activates:** Nothing in the figure quickens. The upper half takes its constant-bearing lean further, against the tallest thing standing, and the interval between name-losses shortens — the street beneath it has a name, then it does not. Clear the upper floors first; the street stays open and empty."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-775_Cleaved_찢어진_탑.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.020  clean   739 grams  Combat Record\n 0.020  clean   101 grams  Operational Parameters\n 0.011  clean   834 grams  M.A.W. Equipment\n 0.006  clean   541 grams  감각 묘사 (Flavor Text)\n 0.005  clean   816 grams  Watch Record\n 0.005  clean   217 grams  Behavior\n 0.000  clean   411 grams  이야기 (Narratio)\n 0.000  clean   318 grams  이야기 보고 (Story Log)\n 0.000  clean   289 grams  기록 (Registrum)\n 0.000  clean   218 grams  Appearance\n 0.000  clean   193 grams  Trivia\n 0.000  clean   177 grams  관찰 기록 (Observation Log)\n 0.000  clean   176 grams  Origin\n 0.000  clean   129 grams  Breach Behavior\n 0.000  clean    75 grams  최종 관찰 (Final Observation)\n 0.000  clean    42 grams  SECC Classification\n 0.000  clean    38 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   81   1  | { *The Crack Spreads* [**Debuff**] } | \"A crack opens in the wall ahead of you, and it is the width and shape of the gap you hav\n   82   1  | { *The Leaning* [**Debuff**] } | \"The upper half goes over toward a skyline nobody in the district can see, and your balance goe\n   84   6  | { *The Split* [**Attack**] } | \"The seam widens along its whole length — not damage, an opening — and the interior is visible th\n   85   8  | { *Total Collapse* [**Ultimate**] } | \"It goes down on the tallest thing within reach, and the street fills with the rubble of b\n  148   1  **Reading the response:** A falling gauge means the design was held in view for the length of the cycle. No Work Type amends the r\n  246   8  | **After use** | Return the piece, open the sealed baseline, and read the two entries side by side. Where the drain outlasts the \n  248   1  **Stat interpretation:** The grade records how cleanly the archetype came off the foundation stone; it says nothing about how much\n  317   3  Three holdings are filed beside this one because all three are what is left when a structure fails to arrive: one fell, one grew i\n  412   4  The compilers asked for one change: that a nil return, twice confirmed, be allowed to close a scheme. Refused, and refused for a r\nGENERIC 0.006  (35 shared shingles)  SE-C-IIβ-775_Cleaved_찢어진_탑.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-A__SIDE_CODEX_Cleaved.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-B__MAW-W_The_Torn_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-C__MAW-S_The_Torn_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-D__MAW-G_The_Torn_Keystone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-A__SIDE_CODEX_Cleaved.md": "9d0c0d72a5cff4fcef16ad5928181cbc84a21fcf1c92ecf873d2c3be67df62b7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-B__MAW-W_The_Torn_Lens.md": "184acdd8503a24b8dfc7920bcc30883abe043d29a8f8e4d9d06ff5f23ad96cc3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-C__MAW-S_The_Torn_Veil.md": "78db7f5237f3f66c387cb2a273fd629d95a4f6794ab8b7a1e103fa0592ea6087",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-D__MAW-G_The_Torn_Keystone.md": "094ed8b45eee78e66e53c3c5ab08e300d717e78d1bf350ea7d5c0aa3989b3d77",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-775_Cleaved_찢어진_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-775_Cleaved_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%83%91.md \"SE-C-IIβ-775_Cleaved_찢어진_탑.md\")]",
+      "table_link": "[Cleaved](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-775_Cleaved_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%83%91.md \"SE-C-IIβ-775_Cleaved_찢어진_탑.md\")",
+      "reading": {
+        "before_lines": 437,
+        "before_bytes": 43729,
+        "final_lines": 437,
+        "final_bytes": 44701
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 106,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    },
+    {
+      "designation": "C-IIβ-310",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md",
+      "words": 7328,
+      "sha256": "53f1473070882f8dfc5c0ac83cb87f08027ab5af1c3a0039d62808eb40f3334f",
+      "unit": 5,
+      "name": "Cracked Mirror",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_05_CRACKED_MIRROR.md",
+      "before_words": 7328,
+      "after_words": 7524,
+      "base": "3a145310448d38945517bd0c7e70a6af18f390a9",
+      "final_sha256": "9bfca4a6decce3cde4e3667a6fdc2af8d7d0ee654bb4640c9a0a1e2a8271cd87",
+      "summary": "Eight supported repairs bring the leftover shattering grammar back to an object that has not added a fracture in nineteen tracings: the three attack rows stop growing fracture-blades 'when the Mirror is struck', suffering structural failure and breaking completely into shards — pressure now lands as a single truth taken for the whole person, looking turning to agreement, and the widening edge itself — the template Resolution splice ('closes one of three ways — containment, management, retreat — or by the suppression condition') is replaced by the timekeeper's call, the stocked consequences quadruple, toll triad and 'catastrophic outlet' give way to the agreement endpoint, the set's three recorded tolls and metres of Market, the symbolic expanded-origin paragraph ('sorrow becomes strength; specialists perform better') is replaced by the ordinary trade that made the holding, field-use signs are priced by piece, and the template after-departure paragraph now ends where the file ends: cloth, edge, duration, no content. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+      "commentary": "The phrasing debate is the whole file in miniature: a neutral formulation was drafted and rejected because it described a mirror failing when what happened was a mirror refusing. Everything disciplined in this dossier follows from that verb — nothing seen in the glass has a field anywhere, four explained refusals are issued over the commander's own name, and the advocates' objection stays on the minute as 'correct, and no answer is attempted'. The two frozen series are the truth of it: forty-seven fracture lines that never change, and an edge that never stops widening.",
+      "reasoning": "R-33 chain: Object/Place I-Relic / Echo-II / Moderate-β / Object-Void → Mask Market demand for flattering glass met by one mirror that refused and cracked under the strain → a stationary mirror in a case, reflection uncracked, showing the viewer without the presentation for as long as the gaze lasts → work is Viderehan and Ferrehan only because Objects cannot be wept at or confronted; the escalation is the worker's agreement, ended from outside by the timekeeper → no breach counter: the event is gaze and edge, measured as overlay count, edge distance, duration and who called the end → equipment is drawn from frame and corrosion, not the glass, and declines to improve what it is pointed at. Repairs remove the struck/blade/shattering physics the chain cannot carry; the lens-disc-versus-pendant double naming, unbounded-gaze-versus-25% resolution and Stigma-scope tiering remain HELD.",
+      "history": "Batch 133 unit 2 (667449c) performed the full-set care review preserved throughout the primary (harmful-deception target limit, disc care, panel care, pendant release), explicitly crediting 'Full-set care; Weapon+1' for SE-310 inside the ledger legacy baseline, moving 7,018→7,328 words. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+      "holds": [
+        "Two Truth Lenses share one name and must not be merged: the Weapon is a Void Han-glass disc showing one contradiction across a fracture line; the Stigma is a warm head-pendant showing hairline fractures across deceptive statements. Master Entries 157 and 159 and Registry rows 596/598 carry the same double naming. They agree in grade and element and differ in body, slot, bestowal and failure grammar; no cross-reference of them was normalised here.",
+        "Resolution tiers disagree on ending: Side A's management page ends 'gaze voluntarily or with partner support and lower Gauge below 25%', while the primary recognises only the timekeeper's call from outside and records that leaving the ending to the worker's own judgement extracts the Void trauma on file. Side A also states force 'widens fracture blades' — inherited combat grammar the primary no longer carries after this repair, and itself contradicted by nineteen tracings in which nothing added a fracture. Both records stand.",
+        "Extraction/meta physics stay forked: Side A's set forms as crack-light ('Light shed by an existing crack may be shaped; no shard is removed'), items B–D form/condense/are granted after bounded looking, while the primary's Use Notes draw the set 'from the frame and the corrosion rather than from the glass'. These are compatible in outcome and different in mechanism; no single mechanism was imposed.",
+        "The Stigma's +1 stays scoped three ways ('+1 stat bonus while working Cracked Mirror in the Market case' locally; '+1 Composure during source work' in Side/item D; unnamed working stat in nothing here because it is named Composure in item D), and the Log-and-Method table's fixed benefits (+10% Void resistance; 5 Void damage every 15 seconds past a minute) remain a local stair against the activation record's gaze-until-look-away. Vessel-Destructible Yes with a ~10–100 kg dust drop also stands formally against Entry 4's 'It cannot be broken further by ordinary force' and the Department's decision that the glass will not be cut."
+      ],
+      "split": [
+        6,
+        2
+      ],
+      "repairs": [
+        {
+          "id": "combat_attack_rows",
+          "kind": "careful-detail",
+          "old": "| { *The Sharp Edge* [**Attack**] } | \"A crack widens into a blade of glass — and it cuts where you are most divided.\" | [A fracture-blade extends from the Mirror.] | *Inflicts Void damage; the cut severs a fragment of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |\n| { *The Shattering Point* [**Attack**] } | \"The crack reaches the centre — and the mirror threatens to come apart along a line that has not lengthened in nineteen tracings.\" | [The Mirror's own structural failure sends a wave of fractured reflection outward.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mirror is pressured. |\n| { *Total Fracture* [**Ultimate**] } | \"The mirror breaks completely — and every shard carries a face that was in the Market that day, asking to be flattered.\" | [The Mirror gives up the whole surface at once, and the shards go on showing the truth.] | *All in range suffer Void erosion for three turns among the shards.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Sharp Edge* [**Attack**] } | \"One truth, held up alone, and the edge of it is where it cuts.\" | [No blade leaves the glass; nothing here is struck. A single unflattering fragment is returned without its context and lands as the whole account.] | *Inflicts Void pressure as partial truth mistaken for the person; no shard moves and the overlay does not change.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the viewer takes one reflection as the only real self. |\n| { *The Shattering Point* [**Attack**] } | \"Forty-seven lines, and not one of them has lengthened in nineteen tracings.\" | [The mirror does not fail structurally; the wave that goes outward is agreement — the worker begins to find the reflection fair, then useful, then worth showing somebody else.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%, and the timekeeper is the one who ends it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When looking turns to believing. |\n| { *Total Fracture* [**Ultimate**] } | \"The glass is still whole in its case. It is the viewer the edge now covers.\" | [The object does not break; the affected edge widens across the Market and every face inside it is returned without its presentation.] | *All in range suffer Void erosion for three turns inside the widened edge; the fracture count is retaken against the overlay afterwards and has not changed yet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "battle_resolution_splice",
+          "kind": "short",
+          "old": "3. **Resolution:** The session closes one of three ways — containment, management, retreat — or by the suppression condition the timekeeper's card carries: **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking.",
+          "new": "3. **Resolution:** There is no suppression condition behind this holding. The session closes on the documented condition — **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking."
+        },
+        {
+          "id": "consequences_quadruple",
+          "kind": "short",
+          "old": "- Extended contact risks Cracked Mirror’s full documented manifestation—inducing acute emotional erosion, somatic trauma, identity dissolution, or permanent environmental corruption.",
+          "new": "- Extended contact does not stack separate harms either: the recorded endpoint is a worker who has begun to agree with the glass, wants it shown to somebody else, and is losing their own estimate of themselves while it happens. Nothing about the object escalates — the fracture count is the same afterwards as before."
+        },
+        {
+          "id": "consequences_toll_triad",
+          "kind": "short",
+          "old": "- No M.A.W. activation comes free: the toll is intimate memories, physical sensation and years of life, set out in the equipment specifications and paid in the field.",
+          "new": "- No M.A.W. activation comes free. The recorded tolls are the set's own — small nameless memories per use, a wearer's account of themselves thinning by a recorded degree, a bearer who cannot lie convincingly — and the field is where the second worker notices them."
+        },
+        {
+          "id": "consequences_outlet",
+          "kind": "short",
+          "old": "- Where resolution is not reached in time, Cracked Mirror falls back on its recorded activation and expansion pattern: containment denied, the unchanneled grief carves its own catastrophic outlet.",
+          "new": "- Where resolution is not reached in time, nothing catastrophic arrives: the edge keeps widening from the case, stallholders keep reporting sales abandoned mid-sentence, and the next session inherits a worker already part-way to agreeing. The cost of a missed call is measured in metres of Market and in somebody's standing, not in force."
+        },
+        {
+          "id": "origin_expanded_boilerplate",
+          "kind": "short",
+          "old": "- **Expanded origin context:** The entity has become a symbol among certain personnel — a reminder that sorrow is not weakness, that grief is not failure, that the weight of existence is not a burden to be escaped, but a truth to be carried. Specialists who have worked with the entity consistently perform better in containment operations. They are more patient. More observant. More willing to listen. The entity has taught them something the city could not: that sorrow, when acknowledged, becomes strength.",
+          "new": "- **Expanded origin context:** The stock that mattered was never the mirrors alone but the demand behind them: an ordinary market, ordinary workshops, ordinary prices, and one workshop's glass that would not do what glass was expected to do there. The commissioning material shows the trade running normally on either side of the refusal, which is why the archivist keeps it — the holding was not made by a conspiracy or a catastrophe but by a city asking, reasonably, not to be shown itself."
+        },
+        {
+          "id": "field_use_during_split",
+          "kind": "careful-detail",
+          "old": "| **During use** | Charging shows as a gap opening where a word used to sit: the wielder reaches for it and finds nothing, and the second worker notes the hour rather than asking about it. |",
+          "new": "| **During use** | The first sign is priced by piece and the second worker notes the hour rather than asking: a gap opening where a word used to sit and the wielder finding nothing; a wearer absent from every version the panels show; or a bearer beginning to announce truths without consent or purpose. None of the three is ever reported by the person showing it. |"
+        },
+        {
+          "id": "after_departure_flavor",
+          "kind": "short",
+          "old": "**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.",
+          "new": "**After departure:** The cloth goes back on, the edge is remeasured from the case, and the session is entered as duration, fracture count and who called the end. What the glass showed stays with the person who stood in front of it — under their own name if they choose to write it, and not at all if they do not."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.041  clean    49 grams  Operational Parameters\n 0.019  clean   593 grams  Combat Record\n 0.006  clean   717 grams  M.A.W. Equipment\n 0.002  clean   451 grams  Activation Behavior\n 0.001  clean   682 grams  감각 묘사 (Flavor Text)\n 0.000  clean   830 grams  Watch Record\n 0.000  clean   389 grams  이야기 (Narratio)\n 0.000  clean   291 grams  기록 (Registrum)\n 0.000  clean   268 grams  관찰 기록 (Observation Log)\n 0.000  clean   229 grams  Appearance\n 0.000  clean   172 grams  Trivia\n 0.000  clean   140 grams  Origin\n 0.000  clean   140 grams  Behavior\n 0.000  clean   136 grams  이야기 보고 (Story Log)\n 0.000  clean    83 grams  최종 관찰 (Final Observation)\n 0.000  clean    44 grams  SECC Classification\n 0.000  clean    35 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 25% against Void pressure, 15% against other pressure types — read from the case; nothing here has ever been me\n   82   1  | { *The Distorted Face* [**Debuff**] } | \"Your reflection in the cracked glass is wrong — the features are shifted, older, angrie\n   83   1  | { *The Fractured Self* [**Debuff**] } | \"Each crack shows a different version of you — and none of them agree on who you are.\" |\n   85   1  | { *The Shattering Point* [**Attack**] } | \"Forty-seven lines, and not one of them has lengthened in nineteen tracings.\" | [The m\n   86   8  | { *Total Fracture* [**Ultimate**] } | \"The glass is still whole in its case. It is the viewer the edge now covers.\" | [The objec\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  222   2  **Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and it declines to improve what it is poin\n  234   1  **Appearance:** a flowing veil of Void Han-gossamer, colourless and barely there at arm's length, that shifts with the wearer and \n  276   1  | **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this s\n  351   1  **Interaction method:** Baseline each party alone first. The relations on file concern reflection, concealment and truth-telling, \nGENERIC 0.004  (20 shared shingles)  SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-A__SIDE_CODEX_Cracked_Mirror.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-B__MAW-W_The_Truth_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-C__MAW-S_The_Truth_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-D__MAW-G_The_Truth_Lens.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-A__SIDE_CODEX_Cracked_Mirror.md": "54febc01aff9b3a996b48f96cf8677bff2d2ffe225cb576a6c5765327f0738c0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-B__MAW-W_The_Truth_Lens.md": "bf031d97aa04bd527ae3ccd45fafe208267b4ae04df3bef5a378b9eec75c2bbf",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-C__MAW-S_The_Truth_Veil.md": "40f389fd383e8c98f98ed5afabdeafb836a57b9cf0da5a14c5f0bbbe647d6a77",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-310-D__MAW-G_The_Truth_Lens.md": "a7d5b63ac607273e69f82c9d8856286cf3f5a1cce90f1697ff3f53508cbec9d4",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-310_Cracked_Mirror_금이_간_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-310_Cracked_Mirror_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EA%B1%B0%EC%9A%B8.md \"SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md\")]",
+      "table_link": "[Cracked_Mirror](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-310_Cracked_Mirror_%EA%B8%88%EC%9D%B4_%EA%B0%84_%EA%B1%B0%EC%9A%B8.md \"SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md\")",
+      "reading": {
+        "before_lines": 481,
+        "before_bytes": 44584,
+        "final_lines": 481,
+        "final_bytes": 45581
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 105,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": true,
+        "source_files_unchanged": 10
+      }
+    }
+  ]
+}

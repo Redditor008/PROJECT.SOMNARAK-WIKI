@@ -246,6 +246,8 @@ The set is organised around being audible and the armoury's note says so without
 
 
 
+## 관찰 기록 (Observation Log)
+
 ### Observation Progression
 
 | Observation stage | R.D. record |

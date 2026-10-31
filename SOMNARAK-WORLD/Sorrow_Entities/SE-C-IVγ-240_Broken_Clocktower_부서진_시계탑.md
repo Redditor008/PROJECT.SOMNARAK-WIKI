@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-240 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pre |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pressure at the tower base. |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) — Self-aware, time-obsessed |
 | **Potency** | Major (γ) |
@@ -73,17 +73,17 @@
 | **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone C, near Collector's Row |
-| **Resolution Condition** | Say aloud, inside the field, what has been concluded about the accident and by whom. Nothing has been concluded, which is why the watch ends on the clock instead. |
+| **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Stuck Hand* [**Debuff**] } | "The clocktower's hand freezes — and so does everything beneath its shadow." | [The Clocktower stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve; the suspended instant is heavy.* **[10 Weight DMG [Weight]]** | When the target enters the shadow. |
-| { *The Wrong Chime* [**Debuff**] } | "The tower chimes thirteen — and the wrong number makes time itself dizzy." | [The Clocktower deranges the target's sense of duration.] | *Target loses 10 Resolve; seconds stretch and compress.* **[10 Weight DMG [Weight]]** | When the target hears the chime. |
-| { *The Falling Gear* [**Attack**] } | "A gear the size of a cart-wheel breaks free and rolls down." | [A massive clockwork component crashes down.] | *Inflicts Weight pressure and one heavy, grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clocktower is struck. |
-| { *The Midnight Cascade* [**Attack**] } | "Every bell in the tower rings at once — a stroke the mechanism has been holding back since 3:47, arriving all of it at the same moment." | [The tower releases the withheld stroke in the only form it can take.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the tower is overloaded inside the field. |
-| { *Time Stops for Everyone* [**Ultimate**] } | "The pendulum stops mid-swing — and the whole field holds its breath with it, waiting on a conclusion that is not coming." | [The dilation field closes on everything inside it at once.] | *All personnel take Weight pressure for three turns of a moment that will not conclude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Stuck Hand* [**Debuff**] } | "The hands do not move and the gears do. Inside six metres, your own voice reaches the other person late." | [The dilation field does not freeze the target mid-motion; anything issued inside it arrives about two turns late, symmetrically.] | *Target suffers -10 Resolve under the Weight of an instant that will not advance.* **[10 Weight DMG [Weight]]** | When the target enters the six-metre field. |
+| { *The Withheld Stroke* [**Debuff**] } | "The bell is intact, the clapper is free, and the stroke does not happen. The gear train runs on underneath the silence." | [Waiting for a conclusion that never arrives deranges the target's sense of duration while the carried timepiece drifts.] | *Target loses 10 Resolve; elapsed time is misjudged in either direction and cannot be trusted.* **[10 Weight DMG [Weight]]** | While the target remains inside the field waiting for the minute to conclude. |
+| { *The Late Instruction* [**Attack**] } | "No gear breaks free. An order given at the foot of the stair is still arriving when somebody, certain it was ignored, gives it again." | [The first instruction lands after its context has changed; the second turns delay into incident.] | *Inflicts Weight pressure on the Han through contradictory late action; no component falls and no grinding wound is dealt.* **[14-22 Weight DMG [Weight]]** | When an instruction or action issued inside the field is repeated before the first has arrived. |
+| { *The Unfinished Minute* [**Attack**] } | "No bell rings and it is not midnight. It is 3:47, the gears are turning, and the event still has not been allowed to finish." | [An attempt to force the frozen moment to end makes the unresolved instant press on everyone holding the channel.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15% without the bell striking or the hands advancing.* **[24-36 Weight DMG [Weight]]** | When the crew overloads the channel or tries to force the frozen moment to conclude. |
+| { *Still 3:47* [**Ultimate**] } | "The pendulum does not stop and time is not halted. The hands simply never advance, and everyone inside has to keep waiting with them." | [The six-metre dilation holds all personnel in stretched, symmetrical lateness while the external watch has not yet been called.] | *All personnel take Weight pressure for three turns inside a moment that will not conclude; their own estimates of those turns are not usable evidence.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 75% activation threshold inside the field. |
 
 ### Battle Phases
 
@@ -94,9 +94,9 @@
 ### Consequences
 
 - Personnel who stay in the field past the called watch do not fail dramatically; they keep working, because the thing this holding takes is the ability to tell how long they have been there. The recorded injury on this file is the second instruction, not the weight, and the distinction is the whole of the caution.
-- Stay past the called watch and the tower brings its whole documented manifestation with it: the emotions erode first, somatic trauma follows, then the identity goes, and last the environment is corrupted beyond repair. That order is the file’s own, and the fourth of them is why the watch length is called out loud instead of left to judgement.
+- Stay past the called watch and the documented failure is narrower and worse for being ordinary: anticipation is held past its natural span, elapsed time can no longer be judged in either direction, and somebody repeats an instruction that has not yet arrived. Identity loss and environmental corruption are not this file's casualty sequence; the second instruction is.
 - Every activation of an M.A.W. piece charges the bearer in full: intimate memories, physical sensation, years of life. The equipment specification lists all three, and the field collects them at the moment of use from whoever is holding the piece.
-- Left unresolved, the tower falls back on the activation or expansion behavior its dossier documents. Containment refused, grief with no channel to run in cuts an outlet for itself, and the cutting is catastrophic rather than contained.
+- Left unresolved, the tower does not cut itself a catastrophic outlet. The field persists, the drift is entered, the bell remains unstruck, and the inquiry stays open; containment is the repeated procedural act of ending exposure from outside.
 
 ## Appearance
 **Physical Form:** A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands.
@@ -181,7 +181,7 @@ The gauge on a site holding is a shift reading. The figure that is kept is the d
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The gears wake first. The hands stay where they have always been and the mechanism behind them starts, and Weight sorrow fills the chamber arriving half a second behind whatever should have caused it. | Opening the channel raises the six-meter dilation field around the tower: hostile action slots lock and anything aimed at the team lands 2 turns late. Units held in the same chamber read steady Sorrow Gauges, since the field delays the reading as readily as the blow. |
-| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. Nothing here runs itself; the field stops the moment the attending stops. |
+| 30 Seconds | Thirty seconds on, the channel is carrying the memory the tower is stuck inside: the weight of waiting through an event that never concluded. The accident at 3:47 forged it, leaving the tower and everyone who saw it held in one unresolved instant, and the worker hears that instant still running rather than recalling it. | Range Band 2 sits inside the field's reach, and elemental pressure lands lighter on every allied unit in the sector while the channeler is still attending to the tower. The field does not end because attention wanders; it remains until the channel is deliberately closed on an outside call. |
 | 1 Minute | One minute on, the tower has stopped spending the facility's supply and has started spending the channeler. An event never allowed to finish is heavy in a way machinery is not, and it stands on the chest of whoever is holding the channel open. | Past 60 seconds the draw runs at 4 Composure in each 10. The disengagement is settled before the field goes up, because inside it nobody can tell how long they have been settling it. |
 | 2 Minutes | At two minutes the current turns round. The grief held in the tower since 3:47 comes back down the channel into the facility looking for somebody to finish inside, and the nearest living person is the one keeping it open. | Overload, or a hand let go mid-second, vents Weight into the sector, and heavy damage lands on everyone standing inside it. The field keeps both of its own warnings on the way out: allies inside are slowed along with everything else, and crossing the perimeter brings severe temporal nausea. |
 
@@ -336,9 +336,9 @@ The hands do not move and the gears do. You check the sealed piece at your belt 
 
 **At first contact:** The gear train is the first thing — loud, regular, entirely healthy — and then the hands, which are at 3:47 and were at 3:47 when the tower was found. Inside six metres your own voice reaches the other person late. The piece at your belt is already running out and you are not permitted to look at it.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Weight presses hardest, where it recedes, where the Place-Weight lets you breathe.
+**With continued exposure:** Minutes pass at a rate nobody inside can state. The gear train stays loud and regular, the sealed piece at the belt drifts against the facility standard, and an instruction given once may still be arriving when the wish to repeat it becomes almost reasonable.
 
-**When the entity activates:** The shift happens between one breath and the next. The Place-Weight crosses from presence to action, and the Weight goes from weather to weapon.
+**When the entity activates:** Escapement rotation under protocol, or an abrupt pressure change at the base, opens the six-metre dilation. Nothing crosses from weather to weapon; voices, blows and orders simply arrive late, including your own.
 
 **After departure:** The Weight lifts at the perimeter and the interval does not: workers report an hour that felt like four, and four that felt like one, in both directions, and the bench enters the discrepancy beside the drift figure rather than explaining it away.
 
@@ -403,7 +403,7 @@ Some sorrows are about loss. This one is about a protection against being told t
 - Carried drift means: 14, 23 and 31 seconds per watch-hour over three years, reconciled by hand.
 **Cross-References:** Zone C, Collector's Row · Old Lament (families) · The Broken Clock · The Cracked Hourglass · The Final Door
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** Citizens caught in a time loop, Year 4222.
+**Originator:** The witnesses to the Year 4222 accident, still inside the unresolved instant and not yet examined; no individual originator is named.
 
 ### Registry Addendum
 

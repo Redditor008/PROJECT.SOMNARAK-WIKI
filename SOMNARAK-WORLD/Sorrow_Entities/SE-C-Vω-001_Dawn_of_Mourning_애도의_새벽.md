@@ -14,7 +14,7 @@
 | **Element** | All four — Lament, Grudge, Void, Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A radiant, terrible figure, once the Kind Healer: vast wings woven from sorrow, a crown of branching Han-crystal, and a voice built of a thousand weeping tones made one. Its body is half-warm flesh, half-cold light — compassion calcified into judgment. To look on it is to feel grief and verdict at once; it is bloodless, and blindingly cold. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Unformed in the current cycle. In the historical/projected formation it stands where the twelfth blessing completed; it does not travel. The contingency register is reviewed quarterly, not weekly. |
 | **Location** | Never contained; forms through the Kind Healer transformation chain |
 | **R.D. Comprehension Level** | 2 — Limited historical record |
 
@@ -29,73 +29,75 @@
 | **Primary pressure** | Mixed pressure |
 | **Starting Sorrow Gauge** | 75–95% |
 | **Han-Energy yield** | 28–40 per cycle on paper, and nothing has ever been collected. This entity has not formed in the current cycle; the figure is modelled from the Kind Healer chain and the energy office carries it as a provision rather than a return. |
-| **Work difficulty** | Extreme · R.D. Comprehension Level 2 — Limited historical record |
-| **Activation threshold** | 1 |
+| **Work difficulty** | No authorised work. “Extreme” is retained only as the historical/projected model's difficulty label · R.D. Comprehension Level 2 — Limited historical record |
+| **Activation threshold** | 1 — one twelfth-completion event; not a Sorrow Gauge percentage and not an activation currently in progress |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — ω-grade |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | The Confession Protocol: the twelfth Mourner confesses, genuinely, before the twelfth blessing completes. Everything else in this file describes what happens if that does not occur, and all of it is modelled. |
+| **Recommended response** | The Confession Protocol: a genuine confession before the twelfth blessing completes. The records do not establish who must make it. Everything else in this file describes what happens if that does not occur, and all of it is modelled. |
 
 ### Operational Notes
 
 - The Dawn carries all four sorrows and is the heaviest single entry in the registry by every measure the facility keeps.
-- Work reduces the pressure in the surrounding zones for a period. The entity is unchanged, and no session has altered what it is.
-- A single ignored condition escalates it. There is no margin at this scale, and conditions are verified independently by two operatives before any approach.
-- Mixed pressure defeats single-register screening. The exclusion radius is enforced from outside and is not reduced on a favourable reading.
+- No work session exists for this holding, and no work is recorded as reducing its pressure. The operational instrument is the blessing register, not an approach procedure.
+- There is no ignored-condition protocol and no approach to verify. The only recorded provision sits before completion: a genuine confession. No reliable post-formation response is established.
+- Mixed pressure belongs to the historical/projected exposure model below. No exclusion radius is defined here, because there is no current instance, contained field or session to measure it from.
 - Extraction has never been attempted and no procedure exists. The Armoury's entry reads that a piece of this entity would be a piece of the Kind Healer's twelfth blessing and that nobody has been able to say what that means.
 
 ## Combat Record
 ### Core Stat Line
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **R.D. Field Parameters:** Normalized values from the historical/projected model for quick reference. They support simulation only and do not replace the full entity record or establish a current encounter.
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.95 m/s |
-| **Resistance** | 55% against All four — Lament, Grudge, Void, Weight pressure; 45% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 95% |
-| **Sorrow Gauge [HP]** | 12,000/12,000 |
-| **Han Pressure [ATK]** | 44–111 per hit · Lament · **Instant Fracture on critical** |
+| **Speed** | No current speed. `2.95 m/s` is an unobserved value in the historical/projected formation model, not a measured travel speed for an entity that stands and sentences. |
+| **Resistance** | Projected only: 55% against All four — Lament, Grudge, Void, Weight pressure; 45% against other pressure types. No current encounter has tested either figure. |
+| **Activation threshold** | Historical/projected model: Sorrow Gauge ≥ 95%. This is not a live holding state in the current cycle. |
+| **Sorrow Gauge [HP]** | Historical/projected record value: 12,000/12,000. |
+| **Han Pressure [ATK]** | 44–111 per hit · Lament wording preserved from the linked record · **Instant Fracture on critical**. The all-four element, Mixed action cycle and undefined critical rule are not reconciled here. |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
 
 
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **R.D. Operational Record:** The following parameters preserve a historical/projected exposure model. They do not describe preparation for contact with a current instance; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 30 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length** | No current battle. The historical/projected exposure model is carried as Long — 30 turns. |
+| **Threat Role** | Sovereign catastrophe model |
 | **Coherence** | Sovereign (V) — Absolute and divine |
 | **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 75–95% |
+| **Starting Sorrow Gauge** | 75–95% in the linked record |
 | **Difficulty** | Extreme · R.D. Comprehension Level 2 — Limited historical record |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Never contained; forms through the Kind Healer transformation chain |
-| **Resolution Condition** | Genuine confession before the twelfth blessing; no reliable post-formation method exists |
+| **Valid Work Types** | None authorised. Flerehan, Pugnahan, Viderehan and Ferrehan appear below only as historical/projected response rows. |
+| **Battlefield** | No current battlefield; never contained. Historical/projected formation occurs through the Kind Healer transformation chain. |
+| **Resolution Condition** | Prevention before completion — a genuine confession before the twelfth blessing completes; no reliable post-formation method exists. |
 
 ### Combat Actions
 
+These rows are **discrete historical/projected actions**, not a compulsory five-stage sequence and not actions available in a current encounter. Apply a row when the condition in its **Trigger** cell occurs; rows may overlap, and a row may recur if its condition recurs. `Attack` names the Combat Record's pressure category, not a physical strike — the Dawn still sentences through revelation. The segment values are the record's model values.
+
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Four Sorrows* [**Debuff**] } | "It opens with everything at once — grief, rage, weight, and the hollow — and you cannot tell which is worst." | [The Dawn radiates all four sorrows; the target is marked by whichever finds them first.] | *Target suffers the full Mixed cycle; the four sorrows take their turns.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the Dawn manifests or contact begins. |
-| { *The Seeping* [**Debuff**] } | "It does not enter — it seeps, through the walls, the floors, the air itself." | [The Dawn flows through every surface; the target is steeped in sorrow from all directions.] | *The cycle settles deeper; the four sorrows take hold.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP) | 8s, 2s per type]** | When the target cannot escape the seeping. |
-| { *The Mourning Light* [**Attack**] } | "The light of it is the color of dawn — and it burns like a grief that finally has a shape." | [A beam of mourning-dawn light strikes the target, carrying all four sorrows in one ray.] | *Inflicts the full Mixed cycle in a focused hit.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP) | 8s, 2s per type]** | When the Dawn is confronted. |
-| { *The Transformation Reversed* [**Attack**] } | "It is what the Hope-Bearers were meant to prevent — and here, the transformation runs the other way." | [The Dawn channels the reversed transformation, forcing sorrow back into the target at once.] | *A devastating Mixed surge; the target's Sorrow Gauge climbs 15%.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP) | 8s, 2s per type]** | When the Dawn is attacked or a Hope-Bearer is present. |
-| { *The Mourning of All Things* [**Ultimate**] } | "The dawn comes up and everything that has ever sorrowed grieves at the same moment." | [Every holding in the registry and every person in the city mourns at once.] | *City-ending. Modelled from the chain's arithmetic and from the Hand of Hope's own formation, never observed.* **[Projected]** | If the twelfth blessing completes in sorrow. |
+| { *The Four Sorrows* [**Debuff**] } | "The judgment opens as one act in four registers — grief, rage, weight and the hollow, arriving in sequence rather than as four separate blows." | [A person who comes under the Dawn's gaze — or tries to observe it — has grief and hidden guilt shown in all four registers; no random first-arriving mark selects only one.] | *First-exposure judgment: apply the full Mixed cycle once to each newly exposed target.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP); 8s total, 2s per type]** | When a target first enters the Dawn's sight or attempts to observe it. |
+| { *No Partial Light* [**Debuff**] } | "Nothing flows through the wall. The wall simply stops giving you a partial view: every grief unmourned and every guilt unabsolved remains in the same light." | [Turning away, taking cover, resuming a routine or separating one revealed burden from the rest does not restore a partial view; each attempted compartment closes under the same light.] | *Sustained revelatory pressure at the opening cycle's values for each failed attempt to restore partial sight; this is not a second first-exposure mark.* **[8 Grudge (HP) -> 8 Lament (Composure) -> 8 Weight (Both) -> 1 Void (5% Max HP); 8s total, 2s per type]** | When an exposed target tries to look away, take cover, resume a routine, or compartmentalise what has been revealed. |
+| { *The Mourning Light* [**Attack**] } | "The light is cold. It does not burn; it leaves nothing unshown." | [Aggression receives sentence, not a beam or counter-blow: the grief and guilt already revealed become impossible to set aside.] | *Immediate sentence pressure: apply the increased Mixed cycle as revelation and Fracture pressure, not as thermal or beam damage.* **[12-18 Grudge (HP) -> 12-18 Lament (Composure) -> 12-18 Weight (Both) -> 2 Void (10% Max HP); 8s total, 2s per type]** | When aggression or confrontation is directed at the Dawn (projected Pugnahan response). |
+| { *The Mourners* [**Attack**] } | "The twelve who carried mercy now carry the sentence onward." | [One of the twelve Mourners carries the Dawn's revelatory perspective to a person beyond its immediate sight; the newly reached target is judged through relay rather than by direct gaze.] | *Relayed sentence pressure: apply the higher Mixed cycle to each target newly reached through a Mourner. No separate target-gauge rise is specified.* **[20-30 Grudge (HP) -> 20-30 Lament (Composure) -> 20-30 Weight (Both) -> 3 Void (15% Max HP); 8s total, 2s per type]** | When a previously unexposed target encounters one of the twelve Mourners. |
+| { *The Mourning of All Things* [**Ultimate**] } | "The dawn comes up and everything that has ever sorrowed grieves at the same moment." | [At the model's ceiling, direct and Mourner-carried revelation leave the exposed population no functioning partial sight; ordinary routines fail because none remains by which to resume them.] | *The city is functionally unmade rather than literally erased. Historical-branch accounts preserve witnesses and a later re-dimming; no current-cycle formation or complete tactical observation exists, and no segment values are supplied.* **[Projected]** | When the historical/projected Sorrow Gauge reaches ≥95%. |
 
 ### Battle Phases
 
-1. **Tension:** There is no approach to prepare. What the wing maintains instead is the blessing register: eleven blessings logged, the twelfth outstanding, and the identity of the twelfth Mourner known to four people.
-2. **Clash:** None is possible and none is planned. The row is retained because the form requires one and because removing it would make this file look like something other than a contingency.
-3. **Resolution:** A genuine confession from the twelfth Mourner before the twelfth blessing completes. The wing cannot compel it, cannot verify it in advance, and has written down that a performed confession is indistinguishable from a real one until the moment it fails.
+1. **Tension (prevention):** There is no approach to prepare. This file preserves an eleven-of-twelve contingency register, but the Kind Healer and Hand of Hope records report that the current chain reached twelve and produced the Hand. The two counts are therefore not presented here as one simultaneous current-cycle state; no temporal crosswalk has been supplied.
+2. **Clash (none):** No clash is possible or planned. If the historical/projected model is used, do not run the five rows in a fixed order: resolve each one when its Trigger condition occurs, including repeated evasive, aggressive or Mourner-relayed exposure. Direct aggression invokes *The Mourning Light* and is not modelled as a reliable response.
+3. **Resolution (before completion only):** A genuine confession before the twelfth blessing completes. The record does not establish who must make it or how the twelfth recipient is identified in advance. The wing cannot compel it, and a performed confession may be indistinguishable from a real one until the moment it fails.
 
 ### Consequences
 
 - There is no worker to fail. The failure mode of this holding is a chain of twelve kindnesses completing in the wrong register, and nobody in the chain is doing anything wrong at any point.
-- Nothing is documented from observation. Every effect in this file is derived from the Hand of Hope's formation read backwards, and the wing has marked each one as modelled rather than recorded.
-- No M.A.W. piece exists. The three listed below are the Kind Healer's, reissued under this designation so that the Confession Protocol team has something rated for an entity that has never formed.
-- There is no containment to resolve. The chain either completes in hope or it completes in sorrow, and the wing's only lever is one person's willingness to say something true at the right moment.
+- No current-cycle Dawn encounter is documented. Historical-branch manifestations, witness fragments and the Tale support the judgment-through-revelation account; the tactical segment values in this record remain modelled rather than observed.
+- No current Dawn M.A.W. piece is established. The three local pieces below are not the Kind Healer's own set: `SE-071-B/C/D` name *The Gentle Requiem*, *The Gentle Shroud* and *The Gentle Touch*. The relation between the local Dawn records and linked `SE-044-B/C/D` remains unresolved.
+- There is no containment to resolve. The chain either completes in hope or in sorrow, and the only recorded lever is a genuine confession before completion; the required speaker is not established by the surviving record.
 
 ## Appearance
 **Primary Form:** A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.
@@ -110,7 +112,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.
-- **Position / movement:** No position. It would form wherever the twelfth blessing completed, which is wherever the Kind Healer is standing, which the register updates weekly.
+- **Position / movement:** No current position. In the historical/projected formation it stands where the twelfth blessing completed and does not travel; the contingency register is reviewed quarterly.
 - **Element signature:** All four — Lament, Grudge, Void, Weight
 - **Registered location:** Never contained; forms through the Kind Healer transformation chain
 
@@ -119,61 +121,61 @@
 | Field | Detail |
 |---|---|
 | **Form** | A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones. |
-| **Position / movement** | Unformed. Every row in this table describes the Hand of Hope with the sign reversed, and the file says so rather than implying it. |
+| **Position / movement** | Unformed in the current cycle. The historical/projected form stands where the twelfth blessing completed. Its anatomy comes from Dawn accounts and the Tale, not from reversing the Hand of Hope's body; only its function — accumulation and judgment rather than distribution — is inverse. |
 | **Material / signature** | Projected: five pairs of wings of crystallised tears, a crown of thorned sorrow-crystal, a collar carrying every name the Kind Healer could not save. The collar's estimated count is the only figure in this section anybody has checked — three thousand and eleven, from the Healer's own blessing records. The same older records give the figure's stature and dress, which the wing carries as projections like the rest: about three metres tall, in funeral vestments that never settle and shift between white, pale violet and grey, with wings that hang unmoving like the windows of a cathedral and eyes that are two wells of violet so dark they read as black. They add that the gaze makes the unhealed wounds of whoever meets it audible. |
 | **Distinctive markers** | Judges all who enter its sight. Sentences the judged through sorrow-crucifixion. Each feather represents the grief of a blessed person. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | There is no current form to identify. This file's preserved contingency register reads eleven of twelve, reviewed quarterly; the Kind Healer's own current-cycle record instead reports twelve completed and the Hand of Hope. Those counts are not reconciled here as one simultaneous state. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** None is possible; there is no appearance to take. What is logged quarterly in its place is the apparatus of not-having-formed: the blessing count against the Healer's file, the charm's temperature, the list of four re-confirmed, and one line preserved verbatim from the eleventh-hour commanders — twelve was averted; the sun rose ordinary.
 
 ## Origin
 - **Formation:** The Dawn is the catastrophic historical form of the Kind Healer. In the current cycle, the twelfth blessing produced The Hand of Hope instead.
 - **The Sorrow:** Compassion transformed into judgment after absorbing twelve complete burdens.
 - **The Event:** In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope.
-- **The People:** The twelve personnel blessed by the Kind Healer and the city whose sorrow they carried. If the chain turns, the twelve are the Mourners: Hope Bearers inverted, with their hope turned to sorrow and their enhanced attributes turned to spreading it, and none of them chose it.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around Never contained; forms through the Kind Healer transformation chain — until the All four was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **The People:** The twelve blessing recipients — not necessarily personnel — and the city whose sorrow they carried. If the chain turns, the twelve become the Mourners: sorrow-branch counterparts of those who would stand in the Hand's distribution in the hope branch. They do not first become Hope Bearers and then invert within the same branch, and none of them chose the role.
+- **Expanded origin context:** The sorrow did not accumulate in a place; it accumulated in a person. Twelve complete burdens, absorbed one blessing at a time by the kindest entity in the early catalog, until compassion that had nowhere left to put them inverted into judgment. The current cycle diverged at the twelfth into the Hand of Hope. This file also preserves an eleven-of-twelve contingency register, but no temporal crosswalk makes the two counts simultaneous; the operational record is written so that nobody mistakes that register, or its projections, for a current observation.
 
 ## Behavior
 
-The Dawn is a catastrophic event and cannot be safely worked with.
+The Dawn is a catastrophic event and cannot be safely worked with. The four rows below are preserved only as historical/projected responses; they are not valid or authorised Work Types, and no work session follows from them.
 
-| Condition | Response | Gauge Change |
+| Condition | Projected response | Projected gauge change |
 |---|---|---|
 | **Flerehan** (Tears) | Recognizes genuine sorrow but does not cease judgment. | Stable |
 | **Pugnahan** (Confrontation) | Sentences aggression immediately. | Increase |
 | **Viderehan** (Observation) | Sees every hidden guilt in the observer. | Stable |
-| **Ferrehan** (Endurance) | Pins the worker beneath accumulated sorrow. | Increase |
+| **Ferrehan** (Endurance) | Pins the exposed person beneath accumulated sorrow. | Increase |
 
 ### Special Behavior
 - The word “Guilty” is inflicted rather than spoken.
 - False or partial confession fails.
-- The only known counter is The Confession: the deepest genuine sorrow confessed before completion.
+- The only recorded pre-completion counter is The Confession: the deepest genuine sorrow confessed before completion. The surviving records do not establish who must speak it.
 
 
 
 ### Operational Work Notes
 
-There is no gauge and no Work Type response, because there is nothing to work. What the wing tracks is the blessing count: eleven of twelve, the last logged four years ago, and the Kind Healer's own file carries the same figure. The chain has been at eleven for longer than anybody expected and the wing has stopped describing that as safety.
+There is no authorised Work Type response, because there is nothing to work. This file preserves a contingency blessing count of eleven of twelve, the last logged four years ago. The Kind Healer's own current-cycle file instead reports twelve completed and the Hand of Hope, so the eleven-count is not stated here as a simultaneous live figure or as safety.
 
-**Reading the response:** There is nothing to read. The only indicator the wing has is the blessing register, and the only intervention it has is a conversation with one person who does not know, so far as the file records, that they are the twelfth.
+**Reading the response:** There is nothing to read from a current Dawn. The wing's indicators are the preserved blessing register and the separate Kind Healer chain record. Its only recorded intervention is to seek a genuine confession before completion; the file does not establish who must give it or a reliable way to identify the twelfth recipient in advance.
 ## Breach Behavior
 
-> *"Dawn of Mourning has broken free. Hunts personnel indiscriminately."*
+> *"There is no breach notice for this holding, because there is nothing held. The nearest equivalent on record is a line from the commanders' debriefs: twelve was averted. The sun rose ordinary."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | Dawn of Mourning seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
-| **First Target** | Projected: Hope Bearers, inverted first. The projection is drawn from the Hand of Hope's formation, in which the same people were the first to be lifted. |
+| **Movement** | Projected: none that matters. In the historical branches it did not hunt, chase or seep; it stood and sentenced, and the light reached everything without travelling anywhere. |
+| **Effect** | Projected: the opposite of fading. Colors, sounds and distinctions do not vanish; they become total — every unhealed wound in earshot made audible, every compartment the city endures by removed at once. |
+| **Secondary Effect** | Projected: the casualties are bearings, not bodies — personnel physically whole and functionally unmade, unable to resume routines the light has revealed as evasions. Recovery, in the one morning on record, was re-dimming: the slow rebuilding of partial sight. |
+| **First Target** | Projected: the twelve blessing recipients, who become Mourners rather than pre-existing Hope Bearers inverted within the same branch. The Hand of Hope record supplies the hope-branch counterpart, not a literal first-target observation. |
 | **Escalation** | Projected: +10% to every holding in the facility per turn. The figure appears in two other copies of the Dawn's own entry and originates in this one, which the wing notes because it has been cited back at itself as corroboration. |
 
 ### Escalation Notes
 
 - **Breach type:** Transform — the entity's form shifts, altering reality around it.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on formation:** Projected to open at 40% and rise 10% a turn. No observation supports the figure and the wing has left it in place because removing it would leave the row blank and the row is read by people planning evacuations.
+- **Containment priority:** There is none post-formation, and the file does not pretend one. No reliable method exists after the twelfth blessing completes; the entire provision sits before it — the count, the counter-liturgy, and one genuine confession.
+- **Sorrow Gauge on formation:** The linked record's starting band is 75–95%, and that is the figure carried here. No separate 40% opening is used. Any post-formation rise rate remains a planning projection, not an observation.
 
 ## M.A.W. Equipment
 
@@ -193,7 +195,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 **Max Amount:** 1
 **Cost:** 70 Sorrow Echoes
 
-**Ability:** Lament against the Mind. The piece is the Kind Healer's and behaves as hers; its entry here is a reissue and the Armoury has asked twice that the two files not be allowed to diverge.
+**Ability:** Lament against the Mind. This local record is not *The Gentle Requiem*, the Kind Healer's actual `SE-071-B` weapon. Its relation to the linked *Dawn of Requiem* remains unresolved, and no reissue lineage from the Kind Healer's set is established.
 
 **Cost:** The wielder weeps without warning and without distress, which is the Healer's recorded toll and not a new finding.
 
@@ -201,7 +203,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Type:** Armor (Suit) | **Grade:** ω | **Element:** Lament
 
-**Appearance:** a pale shroud, the Kind Healer's, carrying eleven small marks along the hem that the Armoury did not make and has counted every year since the eighth blessing.
+**Appearance:** a pale shroud in this file's local Dawn record — not identified as *The Gentle Shroud* (`SE-071-C`) — carrying eleven small marks along the hem that the Armoury did not make and has counted every year since the eighth blessing.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -211,7 +213,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 **Max Amount:** 1
 **Cost:** 65 Sorrow Echoes
 
-**Ability:** Resistance to Lament against the Mind, issued to the four people who know the twelfth Mourner's identity and to nobody else.
+**Ability:** Resistance to Lament against the Mind. In the local issue account it is restricted to four named protocol holders and to nobody else; that account presupposes the twelfth recipient is known, which the chain records do not establish.
 
 **Cost:** The wearer becomes numb to minor joys, which in a Confession Protocol team is an occupational problem rather than an inconvenience: the protocol depends on somebody recognising a true statement when they hear one.
 
@@ -223,7 +225,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Slot:** Tail
 **Acquisition Probability:** 3%
-**Effect:** +4 to the working stat against an entity that has never formed — the largest figure in the registry, attached to the only holding nobody has worked
+**Effect:** +4 to the working stat against an entity that has not formed in the current cycle — the largest figure in the registry, attached to the only holding nobody has worked
 
 **Ability:** The bearer can tell a genuine confession from a performed one. Tested forty-one times against sealed statements and correct in thirty-eight, which is the single most important number in this file and the reason the piece is issued at all.
 
@@ -233,7 +235,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 ### M.A.W. Use Notes
 
-None of these pieces came from this entity, because there is no entity. They are the Kind Healer's, reissued under this designation for the Confession Protocol team, and the Armoury's note is blunt about the arrangement: the wing has equipped a team to recognise a true sentence, and that is the whole of its preparation for a city-ending event.
+None of these local records is established as a piece drawn from a current Dawn instance. They are also not the Kind Healer's own set: `SE-071-B/C/D` name *The Gentle Requiem*, *The Gentle Shroud* and *The Gentle Touch*. This file preserves separate local Dawn equipment records whose existence and relation to `SE-044-B/C/D` remain unresolved. The Armoury's practical note is narrower: the wing has equipped a team to recognise a true sentence, and that is the whole of its preparation for the city-breaking outcome.
 
 ### Field Use Record
 
@@ -267,10 +269,10 @@ None of these pieces came from this entity, because there is no entity. They are
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | None recorded. The wing's exposure to this holding consists of a register, a list of four names, and a projection table that is marked as a projection on every row. |
-| **Sustained observation** | Eleven blessings over nineteen years, the last four years ago. That series is the whole of the observation and the wing reviews it quarterly against the Kind Healer's own file for drift. |
-| **Activation or escalation** | The twelfth blessing beginning. Record the Mourner, the hour, who is present, and whether the Confession Protocol team has been called. The last field is the only one the wing controls. |
-| **Post-contact review** | There has been no contact. What is reviewed instead is the register, the list of four, and the Confession Protocol's own readiness — tested quarterly with sealed statements and scored. |
+| **Initial exposure** | No current-cycle exposure recorded. Historical-branch manifestations are preserved above; the present wing's material consists of a contingency register, a list of four names, and the scoped projection table. |
+| **Sustained observation** | The preserved register records eleven blessings over nineteen years, the last four years ago. It is reviewed quarterly, but it is not reconciled here as a simultaneous count against the Kind Healer file's twelve-completed/Hand outcome. |
+| **Activation or escalation** | The twelfth blessing beginning. Record the recipient if known, the hour, who is present, and whether the Confession Protocol team has been called. The last field is the only one the wing controls. |
+| **Post-contact review** | There has been no current-cycle contact. What is reviewed instead is the register, the list of four, and the Confession Protocol's own readiness — tested quarterly with sealed statements and scored. |
 
 **Observation method:** There is nothing to observe. The method is a quarterly readiness test: forty-one sealed statements, three bearers, and a score that has to stay above nine in ten.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -278,10 +280,10 @@ None of these pieces came from this entity, because there is no entity. They are
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Dawn of Mourning is what the Kind Healer becomes if the twelfth blessing completes in sorrow rather than hope. It has not formed. Eleven blessings are logged, the twelfth is outstanding, and the facility's entire provision against it is one person being willing to say something true before the chain closes.
+Dawn of Mourning is what the Kind Healer becomes if the twelfth blessing completes in sorrow rather than hope. It has not formed in the current cycle: the Kind Healer and Hand of Hope records report that the twelfth produced the Hand. This file preserves an eleven-of-twelve contingency register without a temporal crosswalk, and its recorded provision is a genuine confession before completion; the required speaker remains unresolved.
 
 **Entry 2 — <Excerpt from Field Log, Year 4232+1778>**
-Moves slowly through the facility, judging all it sees. Personnel are pinned by sorrow, unable to move or think. First manifestation, Year 4232+1778: 234 personnel lost before The Confession was discovered.
+It stands where the chain completed and judges all within its light; it does not move through the facility. Personnel are pinned by sorrow, unable to move or think. First manifestation, Year 4232+1778: 234 personnel lost before The Confession was discovered.
 
 **Entry 3 — <Excerpt from Counseling Log>**
 Compassion transformed into judgment after absorbing twelve complete burdens.
@@ -290,7 +292,7 @@ Compassion transformed into judgment after absorbing twelve complete burdens.
 Management: Genuine confession before the twelfth blessing; no reliable post-formation method exists.  Second manifestation, Year 4232+1778: 891 personnel lost.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
+The sorrow did not emerge from nothing, and it did not gather in a place. It gathered in the Healer, one absorbed burden at a time, in the open, gratefully received and carefully recorded by a city that had stopped counting at seven. Count everything. That is the whole doctrine in two words.
 
 ## 최종 관찰 (Final Observation)
 
@@ -303,23 +305,23 @@ The sorrow did not emerge from nothing. It grew around this location until it wa
 
 ## 감각 묘사 (Flavor Text)
 
-The Kind Healer rises into light that is not light. Twelve colors merge, and wings unfold—blue loss, crimson rage, white emptiness, black weight. The face is beautiful because it contains every form of sorrow you have tried to hide. It looks at you, and guilt becomes gravity. You cannot move. You cannot think. You can only confess, or remain pinned beneath the truth.
+The Kind Healer rises into light that is not light. Twelve burden-signatures gather across four sorrow colours, and wings unfold—blue loss, crimson rage, white emptiness, black weight. The face is beautiful because it contains every form of sorrow you have tried to hide. It looks at you, and guilt becomes gravity. You cannot move. You cannot think. You can only confess, or remain pinned beneath the truth.
 
 
 
-**At first contact:** Projected, from the Hand of Hope's formation read backwards: cold light rather than warm, violet so dark it reads as black, and a collar with three thousand and eleven names on it. No observer exists.
+**At first contact:** Projected for the current cycle from Dawn-branch accounts: cold light rather than warm, violet so dark it reads as black, and a collar with three thousand and eleven names on it. Historical-branch witnesses exist; no current-cycle observer does.
 
 **With continued exposure:** Unknown. The wing has modelled the first minute and declined to model the second, on the grounds that a projection of a projection is fiction and this file has enough of that in it already.
 
-**When the entity activates:** Projected: the Mourning Light, all Hope suppressed, twelve Mourners active and spreading Fracture Zones. Every clause of that sentence comes from the same source — the Hand of Hope's own formation record — and none of it has been seen.
+**When the entity activates:** Projected from the Dawn-branch record and Tale, not from the Hand of Hope's formation record: the Mourning Light as sentence, twelve Mourners active, and Fracture conditions spreading with them. None of it belongs to the current cycle.
 
-**After departure:** No departure has occurred. The entry is retained blank-in-substance so that the file's shape matches the others and nobody mistakes an absence of data for an absence of risk.
+**After departure:** No current instance exists to depart. Historical-branch testimony includes a Dawn that fell, so this row does not claim that no Dawn has ever ended; it records only that there is no present departure to observe.
 
 ### Interaction Pattern
 
 Six relations, and five of them are the reason this file exists at all: the Healer it comes from, the Hand it could have been, the Maw it would recognise, the Colossus that would kneel, and the Bell that would toll. None of it has happened. The sixth, the Convergence, is the only pairing in the archive that both files describe as unmodellable.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** None. There is nothing to bring anywhere, no solo baseline to run and no distance at which anything activates. Five of the six relations below are read out of other files — the Healer's, the Hand's, the Bell's — and the wing's rule is that nothing read out of this file may be cited back into those as corroboration.
 
 
 ### Entity Interaction Record
@@ -328,8 +330,8 @@ This entity is a property of a chain and cannot be assessed alone. Everything be
 
 | Related entity | What it is to this one | What is actually known | Required record |
 |---|---|---|---|
-| **The Kind Healer** | The first stage and the source; this entity is her, if the chain turns. | Eleven blessings logged over nineteen years. Everything else is inference from her file. | The blessing register, reconciled quarterly against hers. |
-| **The Hand of Hope** | The same chain completed in hope; the formation this one is modelled from, reversed. | The Hand formed once and is documented in full. Every projection in this file is that document with the sign changed, and the wing marks each one. The one claim the wing declines to carry as a finding is the Mirror Event: the older source records say the Dawn and the Hand, standing together, would cancel in a burst of pure Han and leave only ash and silence. The Hand has formed and the Dawn has not, so the two have never stood together. | The Hand's formation record, cited line by line. |
+| **The Kind Healer** | The first stage and the source; this entity is her, if the chain turns. | The Kind Healer's own current-cycle record reports twelve blessings completed and the Hand of Hope outcome. This file's eleven-of-twelve contingency register has no simultaneous temporal crosswalk to that record. | Both counts preserved separately; contingency register reviewed quarterly. |
+| **The Hand of Hope** | The same chain completed in hope; the current-cycle counterpart outcome. | The Hand formed once and is documented in full. Dawn's function is inverse — accumulation and judgment rather than distribution — but its form and sentence mechanics are drawn from Dawn-branch accounts and the Tale, not by reversing the Hand's body or record. The Mirror Event remains unproven: the Hand has formed in the current cycle and the Dawn has not, so the two have never stood together there. | The Hand record for the hope branch; Dawn-branch sources for Dawn claims. |
 | **The Maw** | Filed as mutual recognition of absolute sorrow. | Nothing observed. The thousand's transcripts contain no reference to this entity, which the Architects have checked. | The transcripts, searched and the negative recorded. |
 | **The Grieving Colossus** | Would kneel, on the Colossus's own file. | Unobserved. The claim originates in the Colossus's record and is repeated here; neither file holds evidence. | The cross-reference, with its origin marked. |
 | **The Orphaned Bell** | Would toll. | The Bell tolls for the Maw's markers and has never tolled for this. The wing treats the Bell's silence as the best available evidence that the chain has not turned. | The Bell's log, reviewed quarterly against the blessing register. |
@@ -373,8 +375,8 @@ Some sorrows are about loss. Dawn of Mourning is about compassion inverted — t
 
 **Classification:** Sorrow Entity — `C-Vω-001 [LS]` · City origin · Sovereign (V) coherence · Catastrophic (ω) potency · Mixed (All Four) · Subject-Body manifestation
 **Common Name:** Dawn of Mourning
-**Containment Status:** Sealed — Alpha Tree (historical branches only)
-**Comprehension Level:** 5 — Sovereign
+**Containment Status:** Never contained — no current instance; historical-branch record only
+**Comprehension Level:** 2 — Limited historical record
 **Threat Assessment:** Catastrophic (historical). Compassion inverted into judgment after absorbing twelve sorrows. Those judged Fracture immediately. Current cycle diverged; the Hand of Hope was produced instead.
 **Containment & Handling Procedures:**
 - Classified. Director-only access.
@@ -384,17 +386,17 @@ Some sorrows are about loss. Dawn of Mourning is about compassion inverted — t
 - In historical branches, the twelfth blessing turned healing into sentencing.
 - The current cycle diverged; the Hand of Hope was produced.
 **Cross-References:** The Kind Healer · The Hand of Hope · The Hollow Saint · The Absolvohan
-**Faction Involvement:** Judexhan hold the ω-grade order against an entity that has never formed, which is the only such order in the registry. The Wound Walkers hold the Kind Healer chain and supply the blessing count; the two files are reconciled quarterly and have diverged once, by one blessing, for nine days.
+**Faction Involvement:** Judexhan hold the ω-grade order against an entity that has not formed in the current cycle, which is the only such order in the registry. The Wound Walkers hold the Kind Healer chain and supply the blessing count; the two files are reconciled quarterly and have diverged once, by one blessing, for nine days.
 **Originator:** The Kind Healer, at the twelfth blessing (historical branches).
 
 ### Registry Addendum
 
-**Operational interpretation:** This file documents something that has not happened and is written so that nobody mistakes it for something that has. Every projection is marked. The real contents are small and unglamorous: a register at eleven of twelve, a list of four names, a crystal charm that gets colder, and three people who can tell a genuine confession from a performed one thirty-eight times in forty-one. The city's entire provision against its worst modelled outcome is that last number, and the wing states plainly that it does not consider it sufficient and has not been given anything else.
+**Operational interpretation:** This file documents a formation that has not happened in the current cycle and is written so that nobody mistakes it for a present holding. The operational and combat projections are scoped as historical/projected; Chronicle mechanisms remain Directorate doctrine rather than verified operation. The small working contents are a preserved eleven-of-twelve contingency register — whose temporal relation to the Kind Healer's twelve-completed/Hand record is unresolved — a list of four names, a crystal charm that gets colder, and three people who can tell a genuine confession from a performed one thirty-eight times in forty-one. The city's entire provision against its worst modelled outcome is that last number, and the wing states plainly that it does not consider it sufficient and has not been given anything else.
 
 **Review requirement:** Quarterly, there being no incidents to review: the blessing register reconciled against the Kind Healer's file, the list of four re-confirmed by the Director, the charm's temperature logged, and the Confession Protocol tested with forty-one sealed statements and scored. Any divergence between the two blessing counts is reported the same day; it has happened once.
 ## Sovereign Chronicle
 
-The Dawn is the catastrophic historical form of the Kind Healer — what the chain completes into when it completes in sorrow. In the current cycle, the twelfth blessing produced the Hand of Hope instead. This chronicle records what the Dawn was when it last rose, what the morning cost, and what the Directorate does every cycle to ensure the sun rises ordinary.
+The Dawn is the catastrophic historical form of the Kind Healer — what the chain completes into when it completes in sorrow. In the current cycle, the twelfth blessing produced the Hand of Hope instead. This chronicle records what the Dawn was when it last rose, what the morning cost, and the Directorate's doctrine for ensuring the sun rises ordinary. Statements below about recurring cycles, the counter-liturgy's efficacy, lesser mercies, a resetting count and a thirteenth count are preserved as Directorate doctrine and chronicle, not as mechanisms established by the Kind Healer and Hand of Hope chain records.
 
 ### The Kind Healer
 
@@ -465,8 +467,8 @@ The morning-after doctrine is the Directorate's closing answer to the Dawn: rest
 
 - **Classification detail:** Dawn of Mourning is a Subject with Sovereign (V) — Absolute and divine coherence and Catastrophic (ω) — City-threatening potency.
 - **Field detail:** Its defining element is All four — Lament, Grudge, Void, Weight, and its registered location is Never contained; forms through the Kind Healer transformation chain.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** There are no current physical markers to recognise, which is the point of the file. Recognition here is arithmetic: the preserved contingency register at eleven of twelve, the charm colder than last year, and a dawn logged as ordinary — read beside, not blended into, the Kind Healer record's twelve-completed/Hand outcome.
+- **Record detail:** The operational and combat projections in this record are scoped as historical/projected; Chronicle doctrines — counter-liturgy, a resetting count and the thirteenth count — remain doctrine, not verified mechanisms. The small working contents are a preserved contingency register, a list of four names, a charm's temperature series, and thirty-eight correct judgements in forty-one sealed statements.
 - **Containment detail:** There is nothing sealed and nothing to seal. The containment of this holding is a conversation that has not happened yet, with a person who has not been told, and the wing has argued for four years about whether telling them would help.
 ## Document Information
 

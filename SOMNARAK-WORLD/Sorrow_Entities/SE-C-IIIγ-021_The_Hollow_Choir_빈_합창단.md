@@ -80,8 +80,8 @@
 |---|---|---|---|---|
 | { *The First Voice* [**Debuff**] } | "One voice begins — thin, unfinished, the sound of someone who never got to end their song." | [A single mournful voice rises from the Choir; the target hears a grief that is not theirs.] | *Target suffers -10 Composure; the note lodges in them.* **[10 Lament DMG [Lament]]** | When the Choir begins to sing. |
 | { *The Swelling Chorus* [**Debuff**] } | "More voices join — and none of them are whole." | [The Choir's numbers swell; the unfinished voices layer into a pressure.] | *Target loses 10 Composure; the harmony presses in from all sides.* **[10 Lament DMG [Lament]]** | When the target stays within earshot. |
-| { *The Broken Harmony* [**Attack**] } | "The chord splits apart and cuts." | [A discordant strike — the Choir's harmony fractures into a jagged wave.] | *Inflicts Lament pressure and one wound of wrong notes.* **[14-22 Lament DMG [Lament]]** | When the Choir is interrupted. |
-| { *The Anthem* [**Attack**] } | "They sing the whole tragic song at last — every voice, every loss." | [Every group takes the whole work at once, from the first line to the last, and the room is inside it while it lasts.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Choir is moved or commanded. |
+| { *The Broken Harmony* [**Attack**] } | "The chord splits — and what it opens is not skin. It is the place where you were about to finish a sentence." | [A discordant strike: the harmony fractures and the break lands as pressure on the Mind, the only kind this holding has. Bodily injury on this file belongs to one prohibited experiment, not to the Choir.] | *Inflicts Lament pressure; the worker loses the end of what they were saying and remembers having been about to say it.* **[14-22 Lament DMG [Lament]]** | When the Choir is interrupted. |
+| { *The Anthem* [**Attack**] } | "Every group at once — and still nothing ends. A hundred and forty-four beginnings, all breaking where they always break, together." | [All twelve groups sound simultaneously; no song has finished in the recorded life of this holding, and none finishes here. What overwhelms is the simultaneity of the breaks.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Choir is commanded — every escalation on file followed an attempt to finish the song or to stop it. |
 | { *The Requiem* [**Ultimate**] } | "Everyone sings — the dead, the lost, the ones who never finished." | [The overlap opens to anything unfinished and the chamber sounds like a building with a hundred and forty-four reasons in it.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -294,7 +294,7 @@ The grief of having one's words stolen, one's songs forbidden, and one's history
 Management: Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail.  Personnel who listen for more than one hour begin hearing their own name.
 
 **Entry 5 — <Load-Bearing Sorrow>**
-The origin is a diagnosis, not a mystery: the sorrow became load-bearing at this location, permanent as the Weeping, and the entity is its exoskeleton.
+Two hundred and twelve sittings have been held, and they produced sixty-one identifications, nineteen of them contradicted by another family naming the same voice differently. The wing's own assessment puts the number it would rely on at none. We can say there are a hundred and forty-four people in this room. We have not been able to tell one family, with confidence, which one is theirs — and the claims died with the people they belonged to, which is the second silencing, and it is lawful, and it is ours.
 
 ## 최종 관찰 (Final Observation)
 

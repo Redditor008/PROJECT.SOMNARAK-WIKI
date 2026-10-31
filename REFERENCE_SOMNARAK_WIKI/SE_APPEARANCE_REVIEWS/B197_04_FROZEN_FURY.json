@@ -1,0 +1,193 @@
+{
+  "designation": "C-IVδ-668",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md",
+  "words": 8407,
+  "sha256": "01e867076e69ebbcfb014d1c748831764044e8990c8629ef7eb6652e424687ea",
+  "unit": 4,
+  "name": "Frozen Fury",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_04_FROZEN_FURY.md",
+  "before_words": 8407,
+  "after_words": 8618,
+  "base": "61fd2c6f521a5e4d6041f38a18ebcb41f548ab96",
+  "final_sha256": "68068e887fbd089613e27df3ff72afa49bf674f883ed47d63915f7101726c8ed",
+  "summary": "Fourteen source-supported repairs (2 short / 12 careful): an immovable, never-harmful ruin fragment stops being permafrost full of watching frozen dead, stops detaching slabs, being lifted, worn for +10% resistance and dealing a 15-second toll; the rows return to the file's custody doctrine — edge luminance, the open register, and a sentence with a subject in it. HELD; no credit (per-piece dispositions from the individual codices already integrated in the primary; direct SE-668).",
+  "commentary": "The dossier's engine is grammatical: the reading has fallen nineteen times in two centuries and every fall came against a sentence that named who emptied the district. Around that, a carried-relic template kept inventing a different entity — permafrost, inhabitants frozen mid-scream inside the ice, slabs breaking off to strike people, operatives lifting a thing that 'weighs what a building weighs.' The residents here are absent, not preserved, and the file says the absence is the injury. The repairs keep every hard figure — 87 documents, 19 with an agent, four withdrawn and returned — and let the fragment stay what the wing insists it is: a crime scene in custody, not a hazard in restraint.",
+  "reasoning": "Identity is direct: Side A carries SECC Designation `C-IVδ-668 [O]`, Related Entity SE-668, set 4/4 (*Truth Held Below Freezing*), and the primary's three pieces match items B/C/D by name, grade and statistics. R-18 split declared before editing: two short (SECC 'structure or location' movement stub; the Detailed material row's leftover instruction text) and twelve careful (combat rows inventing permafrost, frozen-inhabitant spectacle and a detaching slab against 'a slice of a broken building in black crystal', residents 'absent and unaccounted for', and 'The fragment has never harmed anybody'; consequences promising permanent somatic/identity damage with breath-resonance monitoring and fail-safe ceilings against 'four withdrawn… all four returned' and no breach counter; the generic capability quote block; 'Equippable / mounting use' for an immovable fragment; four carried-relic log rows with lifting/+10%/toll/panic; the flavor row pasting the activation block verbatim). R-33 chain: district cleared over nine days under a Row warrant → municipal entry written without an agent → fragment left standing, immovable, edge luminance tracking the paperwork → open incomplete register → custody maintained by active-voice entries, the hand-swept margin and unanswered letters. The item-level rules already in the primary (Lens excision discipline, Veil present-name anchors, Bracelet sorrow custody) were preserved untouched; no resident names, thaw mechanics or register contents were invented.",
+  "history": "The district was cleared over nine days by Collector contractors under a Row warrant; the fragment is what stood at the corner of the ninth day, held since in a bay poured around a margin of original ground, with decommissioning refused twice and four abstract requests refused. Fresh equipment credit BARRED: the primary already integrates per-piece dispositions drawn from each individual codex — the Lens entry's 'Record safeguard' restates item B's excision/maintenance/shutdown rules, the Veil's 'Present-day anchors' restates item C's binding/corrosion/shutdown, and the Bracelet's 'Sorrow custody' restates item D's logging/discharge/removal — so each piece was previously reviewed against its exact source. Ledger `equipment_reviews` has no C-IVδ-668 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+  "holds": [
+    "Set formation account: Side A records the δ set as formed after Auditor Yuna corrected a Collector ledger 'while the source remained untouched', and item B says the Lens was taken from the corrected ledger's reflection — an equipment origin in a document, not in the ruin. Recorded; no extraction mechanism invented. Held.",
+    "The residents' fate: unaccounted for. The register is open, incomplete on its first page, and additions are made without verification where verification is impossible. No names, numbers or destinations invented. Held.",
+    "Why the reading tracks grammar: nineteen falls against agent-naming sentences across two centuries is the file's measured series, entered as observation. No causal mechanism proposed. Held.",
+    "The Collector offices' non-reply (eleven letters, four pages back, three acknowledgments) and the Directorate's leverage objection to active-voice publication: preserved as unresolved institutional record, not adjudicated. Held.",
+    "The fragment coming to temperature with its surroundings: never observed, unmodelled by the wing's own admission, its contingency a page of notifications. Not elaborated here. Held."
+  ],
+  "split": [
+    2,
+    12
+  ],
+  "repairs": [
+    {
+      "id": "R1-secc-movement",
+      "kind": "short appearance completion",
+      "careful": false,
+      "old": "| **Movement** | Stationary — a structure or location. |",
+      "new": "| **Movement** | Immovable — not fixed by containment but simply unshiftable; two attempts are recorded in the engineering file. Only the edge luminance varies. |"
+    },
+    {
+      "id": "R2-cold-archaeology",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Cold Archaeology* [**Debuff**] } | \"The ruins are perfectly preserved in ice — every detail sharp, every grief intact, and the cold is absolute.\" | [The Ruin's permafrost radiates; the target feels the preserved sorrow.] | *Target suffers a Void mark; the ancient grief is still alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |",
+      "new": "| { *The Cold Archaeology* [**Debuff**] } | \"It is not preserved in ice and there is no permafrost here — a slice of a broken building in black crystal, cold in a bay that sits under Forge heat, with crimson along the fractures that gives no warmth at all.\" | [Bay lights killed; the step wedge at one metre; the reading is worthless from any other position.] | *Target suffers a Void mark; the ancient grief is still alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At the first edge reading. |"
+    },
+    {
+      "id": "R3-frozen-inhabitant",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Frozen Inhabitant* [**Debuff**] } | \"Inside the ice, you can see the people who lived here — frozen mid-gesture, mid-scream.\" | [The Ruin's preserved inhabitants stare through the ice; the target feels watched.] | *Target loses clarity; the frozen dead see everything.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the ice. |",
+      "new": "| { *The Frozen Inhabitant* [**Debuff**] } | \"Nobody is frozen inside it mid-scream. The residents are absent and unaccounted for, which is the whole of the injury; what watches you from the fragment is an open register with its incompleteness flagged on the first page.\" | [Viderehan holds the reading flat and still leaves the observer with names they would rather not have read.] | *Target loses clarity; the absent are the ones being looked at, and the look does not resolve.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target reads the register against the ruin. |"
+    },
+    {
+      "id": "R4-ice-slab",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Ice Slab* [**Attack**] } | \"A sheet of permafrost breaks free — heavy, sharp, ancient.\" | [A block of frozen ruin detaches and strikes.] | *Inflicts Void damage; the ancient cold erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Ruin is struck. |",
+      "new": "| { *The Ice Slab* [**Attack**] } | \"Nothing detaches and nothing strikes — the fragment has never harmed anybody and the wing has twice refused to pretend otherwise. What lands is the counterparty's own sentence, read back: the district was vacated, with nobody doing the vacating.\" | [The edges brighten on documents written without an agent; the two brightest readings on record both followed entries that were grammatically entirely proper.] | *Inflicts Void damage; the cold erodes the language a person hides inside.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | On a sentence with no subject in it. |"
+    },
+    {
+      "id": "R5-consequence-duration",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- Duration is the dosage. The sorrow works past the containment protocol and settles into how the operative thinks, and what it does there is recorded as permanent: the emotional, somatic and identity damage carries no return figure on any sheet that gives one. The earliest sign is the bearer's breath beginning to match the resonance of the grief behind it, and catching that is what the monitoring is for.",
+      "new": "- Duration is the dosage, and what it delivers is tense, not wounds. The worker may become fixed in the ninth day and describe the clearance in the present tense; four have been withdrawn from the rota for it and all four returned. That is what the monitoring is for — the step-back across the margin, ended by the bearer and logged with the hour."
+    },
+    {
+      "id": "R6-consequence-failsafe",
+      "kind": "careful consequence correction",
+      "careful": true,
+      "old": "- A cycle that does not resolve sets the event protocol running: the Sorrow Gauge reaches its ceiling, the containment fail-safes go, and the sorrow deepens where it already is instead of spreading. The zone is not overrun so much as closed — unworkable at the margin of original ground, which is where the bay stands and the reason the lens shows an empty street once it is carried past that margin.",
+      "new": "- A cycle that does not resolve has no ceiling to reach and no fail-safes to trip; the file carries no breach counter. The session simply does not close — the second reading does not agree, the margin goes unswept, and the fragment has still never extended past the bay floor. What deepens is the paperwork argument, not the zone."
+    },
+    {
+      "id": "R7-material-signature",
+      "kind": "short appearance completion",
+      "careful": false,
+      "old": "| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |",
+      "new": "| **Material / signature** | Void. Black crystal, cold under Forge heat at four thermal points, no measurable interior temperature, smelling of ash; silent crimson luminance along the fracture edges that gives no heat and is read only in darkness. |"
+    },
+    {
+      "id": "R8-quote-block",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Operative Alteration**\n> **This Relic Extracts Personal Resilience upon Extended Use**",
+      "new": "> **This Relic displays the lives and the injustice attached to the structure. It has never harmed anybody.**\n> **This Relic cannot be moved, thawed or tidied. Custody is not restraint.**\n> **The only measure that has ever lowered its reading is a sentence with a subject in it.**"
+    },
+    {
+      "id": "R9-use-mode",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Use Mode** | **Equippable / mounting use** |",
+      "new": "| **Use Mode** | **At the fragment; nothing here is equipped.** The ruin weighs what a building weighs and is approached in the bay; the Lens named below is equipment, and works only inside the margin. |"
+    },
+    {
+      "id": "R10-log-10s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 10 Seconds | Frozen Fury rests in stasis until an operative lifts it; on contact the void field settles into step with the bearer's pulse. | Mounting it starts the primary resonance: the lives and the injustice attached to the structure are shown, and +10% resistance to Void damage applies while it is worn. |",
+      "new": "| 10 Seconds | Nothing is lifted. The fragment rests exactly where the ninth day left it, and contact — which the cycle does not need — is what would start the display. | Read the edges in darkness against the step wedge. The lives and the injustice attached to the structure are the display; no resistance is granted for standing near them. |"
+    },
+    {
+      "id": "R11-log-30s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it, and well inside the first minute the bearer begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | The operative gains the combat benefit and starts accumulating the mental burden: movement and concentration sharpen, composure falls. |",
+      "new": "| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it, and well inside the first minute a worker in contact begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | State aloud, at the start of the cycle, who cleared the district; the sentence is part of the procedure and is minuted. Nothing sharpens and no combat benefit accrues — what accrues is the account. |"
+    },
+    {
+      "id": "R12-log-1min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 1 Minute | The sorrow starts collecting what it is owed, and the bearer's breath has begun to match the resonance of the grief behind it. | Past 60 seconds of continuous use it deals 5 Void damage on a 15-second cycle, and the watch keeps an eye out for sudden cognitive detachment. |",
+      "new": "| 1 Minute | The sorrow starts presenting what it is owed: an account of the ninth day that the evidence supports and a list of the people who should have been named. | No toll is dealt on any cycle. The watch is for tense — the bearer beginning to describe the clearance in the present — which is the sign the step-back is due. |"
+    },
+    {
+      "id": "R13-log-2min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 2 Minutes | Worn too long, the bearer becomes the person who wept over it first: the boundary between the operative's identity and the historical sorrow gives way. | Continuous wear past two minutes, or a forcible removal before the interaction is completed, triggers acute panic, and the bearer goes on describing the clearance in the present tense. The lens comes off with the mount and the bearer steps back behind the margin, because contact broken by being pushed away rather than ended by the bearer leaves the ninth day running. |",
+      "new": "| 2 Minutes | In contact too long, the bearer stops standing with the grief and starts reporting from inside it: the boundary between the operative's present and the clearance's last hour gives way. | Nobody panics on schedule. Four workers have been withdrawn for exactly this and all four returned. The lens comes off with the mount and the bearer steps back behind the margin, because contact broken by being pushed away rather than ended by the bearer leaves the ninth day running. |"
+    },
+    {
+      "id": "R14-flavor-activates",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: the bearer is fixed in the ninth day. The lens works only inside the bay. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.",
+      "new": "**When the entity activates:** Nothing dramatic happens, which the file is careful about: the fragment does not move, warm or crack. A worker who touches it is standing in a doorway on the ninth day, furious with a fury that is not theirs and is completely reasonable, and the lens in the dark shows the street twice over — once as it stood, once as it was left."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.016  clean   122 grams  Operational Parameters\n 0.013  clean   785 grams  Combat Record\n 0.011  clean   760 grams  M.A.W. Equipment\n 0.009  clean   232 grams  Appearance\n 0.005  clean   190 grams  Trivia\n 0.003  clean   328 grams  관찰 기록 (Observation Log)\n 0.003  clean   710 grams  감각 묘사 (Flavor Text)\n 0.000  clean   727 grams  Apex Record\n 0.000  clean   607 grams  Activation Behavior\n 0.000  clean   484 grams  이야기 보고 (Story Log)\n 0.000  clean   393 grams  이야기 (Narratio)\n 0.000  clean   386 grams  기록 (Registrum)\n 0.000  clean   175 grams  Origin\n 0.000  clean   159 grams  Behavior\n 0.000  clean   129 grams  최종 관찰 (Final Observation)\n 0.000  clean    54 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 45% against Void pressure; 35% against other pressure types |\n   83   1  | { *The Frozen Inhabitant* [**Debuff**] } | \"Nobody is frozen inside it mid-scream. The residents are absent and unaccounted for,\n   86   8  | { *The Glacier* [**Ultimate**] } | \"The whole Row goes quiet and cold — not frozen water, frozen paperwork: every sentence in th\n  123   2  | **Identification** | Verify against the SECC code before work or contact begins; the markers are the absence of any interior tem\n  237   1  **Appearance:** a flowing veil of Void Han-gossamer that carries a faint scent of the bay — cold stone and old dust — and hangs he\n  249   2  **Cost:** The wearer feels faintly absent to themselves, and reads official language with an accuracy that colleagues find difficu\n  279   3  | **Before use** | Wielder, piece, the day's reading, and a list of the street names the wielder says without being prompted, take\n  280   1  | **During use** | Watch for the gap rather than the loss. The wielder stops naming streets, then stops naming people, and the pap\n  282   1  | **After use** | The sealed list is opened and read back against the names the wielder can still produce unprompted. The finding \n  305   1  | **Post-contact review** | What the display showed and whose names were in it; how the week's documents phrase the cause; whether\n  363   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  460   1  - **Record detail:** Check the designation before approach. The Row holds several records of what was done there, and they differ \nGENERIC 0.004  (26 shared shingles)  SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-A__SIDE_CODEX_Frozen_Fury.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-B__MAW-W_Frozen_Fury_Lens.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-C__MAW-S_Frozen_Fury_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-D__MAW-G_Frozen_Fury_Bracelet.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-A__SIDE_CODEX_Frozen_Fury.md": "05cb0bcbc323eacfbc50a87686fec699caabb6d6f236a2c99bfb5db7e3b3010b",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-B__MAW-W_Frozen_Fury_Lens.md": "0debef654cdaa0341ea937c0ba20a34fc00e8fe1278ee6d4539919ac72e77da3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-C__MAW-S_Frozen_Fury_Veil.md": "008b87c94befc87d9235bfd9a32d50c2821b4c7e7118f29a60f02ffe930b21c2",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-668-D__MAW-G_Frozen_Fury_Bracelet.md": "b7970c040a21f0c774f16baf905c0d87d43beb3ef280b22a8fc8107b32eaa798"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-668_Frozen_Fury_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9E%94%ED%95%B4.md \"SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md\")]",
+  "table_link": "[[SE-C-IVδ-668 Frozen Fury](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-668_Frozen_Fury_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%9E%94%ED%95%B4.md \"SE-C-IVδ-668_Frozen_Fury_얼어붙은_잔해.md\")]",
+  "reading": {
+    "before_lines": 467,
+    "before_bytes": 50880,
+    "final_lines": 467,
+    "final_bytes": 51919
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 36,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "Digits changed by provenance documented inside repairs: the carried-relic template's '+10% resistance' (10) and '5 Void damage on a 15-second cycle past 60 seconds' (5, 15, 60) were removed against the immovable/non-harming record. No new digits introduced; the file's hard series (9 days, 19 falls, 87/19/68 documents, 11 letters, 4 thermal points) retained."
+  }
+}

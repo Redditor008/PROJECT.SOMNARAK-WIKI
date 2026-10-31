@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure** | Resilience — the ability to stand in the margin of a lost house and put nothing right |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No — a fixed crystal outline at a surveyed site; its losses are measured in metres of wall run, and Pugnahan is N/A |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan or Ferrehan from the permitted path, perimeter only, nothing put back and nothing tidied. |
 
 ### Operational Notes
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unremembered* [**Debuff**] } | "The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell." | [The Ruin's forgotten history presses on the target; they feel the weight of unknown purpose.] | *Target suffers -10 Resilience; the meaninglessness is heavy.* **[10 Grudge DMG [Grudge]]** | When the target enters the Ruin. |
-| { *The Buried Purpose* [**Debuff**] } | "The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier." | [The Ruin's lost purpose generates resentment; the target absorbs the aimless rage.] | *Target loses 10 Resilience; they feel the fury of purposelessness.* **[10 Grudge DMG [Grudge]]** | When the target explores. |
-| { *The Falling Stone* [**Attack**] } | "A stone detaches from the forgotten ruin — and no one remembers it was there until it hits." | [A block of unknown ruin strikes from above.] | *Inflicts Grudge pressure and one wound of unremembered collapse.* **[14-22 Grudge DMG [Grudge]]** | When the Ruin is disturbed. |
-| { *The Full Uncovering* [**Attack**] } | "The room comes back whole — table, window, the worn place by the door — and it is accurate, and accuracy is the attack." | [A reconstruction runs to completion in front of the target; the memory is doing the work.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15% and their own quarters stop feeling like theirs for the rest of the day.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When the ruins are forced into memory at once. |
-| { *The City of Forgetting* [**Ultimate**] } | "The margin goes red — every station brightening at once, as though the whole floor plan had been recognised." | [The outline stands up around everyone in range; nothing here is unfinished any more.] | *All in range lose Composure for three turns and cannot say afterwards which of the rooms they walked through were real.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Unremembered* [**Debuff**] } | "The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell." | [The flavor line is the error this holding punishes: the builder, the purpose and the fall are all on file. What presses on the worker is fidelity — detail sharpening until the outline reads as the house and they can say where the table was.] | *The worker suffers -10 Resilience. Enter the report as a personnel effect, not a finding; anybody who reports a memory of the house is stood down the same day.* **[10 Grudge DMG [Grudge]]** | When a worker on the permitted path begins seeing the house rather than the shape of it. |
+| { *The Buried Purpose* [**Debuff**] } | "The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier." | [The reason was never buried: a caretaker overloaded a Han structure to save a home. Anger in the radius does nothing measurable; affection and resemblance move the reading every time, and the heat answers inside a minute.] | *The worker loses 10 Resilience. Remove whatever resembles the house — plan, object or recollection — log who introduced it, and walk the margin for combustible material before anything else is attempted.* **[10 Grudge DMG [Grudge]]** | When a plan, object or recollection resembling the house is introduced into the radius. |
+| { *The Falling Stone* [**Attack**] } | "A stone detaches from the forgotten ruin — and no one remembers it was there until it hits." | [No stone falls: there is not one brick of the original house in the crystal, and this holding has never injured anybody who stayed on the permitted path. What a rebuilding attempt costs is outline — the east range lost 2.3 metres of wall run in one reaction and they have not come back.] | *Heavy Grudge pressure on Resilience; resistance failure here furnishes rather than wounds. Stop all building, bracing, propping or shoring, let any reconstruction lapse rather than dismantling it, and re-survey the fourteen stations before work resumes.* **[14-22 Grudge DMG [Grudge]]** | When something in the radius is built, braced, shored, tidied or shifted to resemble the house. |
+| { *The Full Uncovering* [**Attack**] } | "The room comes back whole — table, window, the worn place by the door — and it is accurate, and accuracy is the attack." | [One room rebuilds for as long as the memory can support the form: warm, furnished, accurate — and the pleasant familiarity a worker feels inside it is the first symptom of the recorded risk, the room consuming the observer's present identity.] | *A heavy Grudge surge; the worker's Sorrow Gauge rises 15% and their own quarters stop feeling like theirs for the rest of the day. The second present calls it: step back onto the permitted path and let the room lapse — taking it apart by hand converts an authorised use into the act the holding is made of.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When a reconstruction attempt is sustained until one room completes. |
+| { *The City of Forgetting* [**Ultimate**] } | "The margin goes red — every station brightening at once, as though the whole floor plan had been recognised." | [The whole surviving outline brightens together and reads, for the duration, as finished rooms; the permanently lost east range does not return inside the effect, and cooling afterwards restores nothing.] | *All in range lose Resilience for three turns and cannot say afterwards which rooms they walked through were real. Withdraw unshielded personnel along the permitted path rather than directly away, verify from the instrument record whether the event was activation or extension, and brace nothing on the way out.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold during a reconstruction attempt. |
 
 ### Battle Phases
 
@@ -95,7 +95,7 @@
 
 - Resistance failure does not injure the worker; it furnishes them. What arrives is a room they can describe in detail — where the light fell, which door stuck — and the description is accurate and is not theirs. Composure goes into the effort of standing in a house that is not being offered, and the gauge rises on the accuracy rather than on the distress.
 - Extended exposure carries a cumulative risk particular to this holding. The interior is an exact outline of rooms belonging to people who are not coming back, and personnel who remain inside it long enough begin to furnish it: not physically, but in recollection, acquiring memories of a house they have never been in. Those recollections are warm, detailed, and false, and the entity burns when a false memory is introduced.
-- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to leave a lost thing lost, which it takes gradually and replaces with the conviction that enough effort would have been sufficient.
+- The equipment file states what each piece takes and the field record has never contradicted it. The charges are separate: the Fang aches old injuries and makes the wielder's own home feel provisional, the Plate dulls reflexes and the willingness to leave a room, and the Bracelet invoices every place its wearer failed to preserve — three routes to the same conviction that enough effort would have been sufficient.
 - If the condition is not met the crystal heats and the outline extends, which is the Transform behaviour on the classification. Nothing escapes and nothing pursues; the preserved shape simply takes in more ground, and whatever stands on that ground is thereafter part of a house that burned down.
 
 ## Appearance
@@ -120,7 +120,7 @@
 | **Position / movement** | Fixed, and defensive rather than inert; record the position of its mass relative to the empty interior and to the approach, since it will place itself between the two. |
 | **Material / signature** | Grudge. Red-black crystal, char, and a surface heat taken by instrument and never by hand, the heat being the entity's answer rather than its condition. |
 | **Distinctive markers** | An outline exact enough that personnel have called the walls original and meant it. There is not one brick of the house in it. |
-| **Identification** | Check the designation, the element and the manifestation against the file, and verify the outline against the standing architectural record before Work begins; if any detail contradicts, do not proceed. |
+| **Identification** | Confirm before Work or contact: designation N-IVδ-852 `[N]`, Grudge expression, Object-Grudge manifestation, Entity (IV) coherence, Zone C Mask Market margin, and the outline verified at the fourteen marked stations against the standing architectural record; if any detail contradicts, do not proceed. |
 
 **Appearance protocol:** Measure the outline, because the outline is the thing. Take the wall runs, the door apertures, the ceiling heights and the room divisions at the marked stations, and check each against the standing architectural record; a discrepancy in either direction is the most significant observation this holding can produce and is reported the same day. Record the colour of the crystal at three points and the surface temperature by instrument, never by hand, since the heat is the entity's response rather than its condition. Note the smell of char, which is constant. Note what the mass is standing between. The crystal contains no material from the original house — not one brick — and the protocol says so where an observer will read it, because the resemblance is exact enough that personnel have described the walls as original and been sincere.
 
@@ -132,7 +132,7 @@ The architectural accuracy is not present completeness. The survey records an ea
 
 The observed defensive action places crystal mass between the approach and the empty interior. It does not establish locomotion away from the site or a returned caretaker standing guard. Activation adds a temporary reconstructed room and risks the observer's identity; letting that room lapse is not dismantling the crystal or restoring the original home. The caretaker's specifications and breathing in the use log concern the observer's identification with her failure, not a documented human body emerging from the ruin.
 
-Some physical accounts remain unjoined. The Log and Method describes picking up and carrying the ruin, while the approach survey treats it as a fixed site with an interior and a permitted path. No miniature, detached relic, scale change or portable state is specified. The primary classification is activation-only, the Side Codex calls it Transform-capable, and Consequences describe the outline taking more ground against the Record's no-spread account. Do not solve those conflicts by drawing a hand-held ruin that unfolds into a building. The floating limestone glyphs belong to the Weapon, not to a documented detachable part of this red-black crystal body.
+Some physical accounts remain unjoined. The Log and Method describes picking up and carrying the ruin, while the approach survey treats it as a fixed site with an interior and a permitted path. No miniature, detached relic, scale change or portable state is specified. The primary classification is activation-only, the Side Codex calls it Transform-capable, and Consequences describe the outline taking more ground against the Record's no-spread account. Do not solve those conflicts by drawing a hand-held ruin that unfolds into a building. The floating limestone glyphs belong to the Weapon, not to a documented detachable part of this red-black crystal body. The combat record now observes the same limits: the house's builder and purpose are documented rather than forgotten, no original stone detaches or wounds, and the Ultimate waits for the file's own ≥90% threshold instead of firing inside the starting band.
 
 ## Origin
 - **Formation:** The Ruin formed from a place destroyed by someone trying to preserve it.
@@ -236,7 +236,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 **Falloff Rule:** 100% to the first target in the line, 70% to the second, 50% to the third — the heat attenuates with distance from the glyph exactly as it does from the ruin.
 **Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the strike and the subsequent burning are tracked apart because the second continues after the line has closed.
 
-**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure — and the signature it carries is domestic rather than martial: those struck report heat on the skin, the smell of a house fire, and a sudden detailed recollection of a room they have never stood in.
+**Ability:** Deals Grudge damage against the Body — structural integrity and physical composure — and the signature it carries is domestic rather than martial: those struck report heat on the skin, the smell of a house fire, and a sudden detailed recollection of a room they have never stood in. Binding is testimonial: the bearer names Conservatory's event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry limit, the management condition satisfied with the Sorrow Gauge held below 25%. The glyphs isolate only a hazard already attributed to Conservatory, interlocking defensively under kinetic attack; treating the event as the bearer's own story is the first corrosion sign, and shutdown is a named witness stating the event while the bearer relinquishes the piece.
 
 **Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also report their own homes feeling provisional, as though lent to them.
 
@@ -256,7 +256,7 @@ Worn through a long session, the harness dulls the wearer's reflexes as if resen
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge pressure and, uniquely in this set, measurable protection against the radiant heat the source produces. It is the only piece cleared for extended work inside the margin.
+**Ability:** Grants resistance to Grudge pressure against the Body under the same testimonial binding — the caretaker's event named, the management condition satisfied with the Sorrow Gauge held below 25%. Its doctrine is the caretaker's error inverted: it lets a wearer remain present without rebuilding, and it interrupts a hazard only after attribution to Conservatory. No heat clearance is certified by the source record; margin temperature is still taken by instrument, never by hand, whatever the wearer is wearing.
 
 **Cost:** The wearer's reflexes dull and their attachment to places sharpens unhelpfully. Wearers become reluctant to leave rooms they have worked in, and the reluctance outlasts the shift.
 
@@ -272,7 +272,7 @@ The protection it lends is never the wearer's own: it holds neighbouring structu
 **Acquisition Probability:** 4%
 **Effect:** +3 to the working stat while this margin is the subject of the cycle, and nothing at all anywhere else
 
-**Ability:** Protects others from structural collapse.
+**Ability:** Protects others from structural collapse — the crystallized disaster lending out the protection it could not provide at home — but it marks a hazard only after attribution to Conservatory and under the same binding: the caretaker's event named, the management condition satisfied with the Sorrow Gauge held below 25%. It shows the devotion and the overload together; a wearer who starts telling the collapse as their own failure is already corroding.
 
 **Cost:** The wearer feels every place they failed to preserve.
 
@@ -280,7 +280,7 @@ The protection it lends is never the wearer's own: it holds neighbouring structu
 
 ### M.A.W. Use Notes
 
-Everything in this set is domestic, and that is the hazard rather than the charm of it. The plate is the only piece cleared for extended work inside the margin; the glyphs read the heat the way the ruin does; and the bracelet protects others from structural collapse while its wearer feels every place they failed to preserve. The toll is continuous rather than occasional — old injuries aching, bruising after prolonged use — and the second effect is the one that ends rotations: wielders report their own homes feeling provisional, as though lent to them, and the feeling outlasts the shift and does not reverse on return.
+Everything in this set is domestic, and that is the hazard rather than the charm of it. No piece is a heat clearance: the Plate lets a wearer stay without rebuilding, the glyphs answer only attributed hazards, and the bracelet protects others from structural collapse while its wearer feels every place they failed to preserve. The toll is continuous rather than occasional — old injuries aching, bruising after prolonged use — and the second effect is the one that ends rotations: wielders report their own homes feeling provisional, as though lent to them, and the feeling outlasts the shift and does not reverse on return.
 
 Each piece carries a different charge. The Fang takes the body — old injuries ache, prolonged use leaves faint bruising, and its bearers report their own homes feeling provisional, as though lent to them. The Plate takes the reflexes and the leaving — reactions dull, attachment to places sharpens unhelpfully, and wearers become reluctant to leave rooms they have worked in, and that outlasts the shift. The Bracelet takes the record — every place the wearer failed to preserve is invoiced against the ones they saved, and continued use reprices Conservatory's own collapse as the bearer's personal history.
 
@@ -348,7 +348,7 @@ Where a proposal inside the radius would carry the house's name, the commander w
 
 ## 감각 묘사 (Flavor Text)
 
-The ruin is beautiful because it remembers being loved. Red crystal holds a doorway, a bed, a window where someone once waited. You reach toward the room and it burns. The place is gone. Loving it does not give you permission to rebuild it incorrectly.
+The ruin is beautiful because it remembers being loved. Red crystal holds a doorway, a window space, the place where a bed was — geometry, not furniture; the rooms are empty. You reach toward the room and it burns. The place is gone. Loving it does not give you permission to rebuild it incorrectly.
 
 
 

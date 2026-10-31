@@ -1,0 +1,1066 @@
+{
+  "schema_version": 1,
+  "batch": 204,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-170",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-170_Unrung_침묵의_종.md",
+      "words": 9250,
+      "sha256": "ef41f2ddfec44085394d47e4edb07bc676b34f88928e563a1e1f815880ba962e"
+    },
+    {
+      "unit": 2,
+      "designation": "N-IIIβ-156",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-156_Deadline_빚의_시계.md",
+      "words": 9409,
+      "sha256": "32ef2dfb081bc2b36721bdb0580f6c3c83ee9c2568a2d3bf66d312314d49498f"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVβ-042",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md",
+      "words": 9561,
+      "sha256": "74f30b9c27b29e60be791ff1402b110899a6971aaaee7f8531cf7f96c5db9ab2"
+    },
+    {
+      "unit": 4,
+      "designation": "C-Vδ-002",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md",
+      "words": 9822,
+      "sha256": "faf8c35e8d7560d481fdbd5fca824c00a596652ce666793e77f69c48d44a8d73"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IVγ-176",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md",
+      "words": 9942,
+      "sha256": "ac38f3e0bbcede96fe902fd29c182748189ac1966e2afa421681348ce0c339ab"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 5,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-170",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-170_Unrung_침묵의_종.md",
+      "words": 9250,
+      "sha256": "ef41f2ddfec44085394d47e4edb07bc676b34f88928e563a1e1f815880ba962e",
+      "name": "Unrung",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_01_UNRUNG.md",
+      "before_words": 9250,
+      "after_words": 9587,
+      "base": "d99b3a5903c5f55b6627b5622b62958836a20c2d",
+      "final_sha256": "4a56e58b6c4d1ff216804adabf7c1845f329c6030f4384f4ab41a4e6e4b1b0c3",
+      "summary": "HELD +0 — 16 repairs make the outside clock, not the bell, the authority in the room.",
+      "commentary": "Its monster is a correctly followed procedure, which is harder to forgive than a villain.",
+      "reasoning": "Unrung does not attack from a body: harm follows protocol breaks inside a delay nobody inside it can measure, so the outside clock and hand signals are the encounter.\n\nThe gauge and the arrival delay answer separate questions; a session can only close when the account is separate and any surfaced warning is in a named hand.\n\nEvery equipment piece requires a listener outside the silence, which is why partner-held channels and recall authority now govern the combat layer.",
+      "history": "Batch 78 already dispositioned the exact Muffled Resonance-Bell Weapon and Batch 127/unit 2 shipped a full-SE source-led Unrung review, so no fresh Types, Weapon or SE credit is claimed. HELD +0.",
+      "holds": [
+        "Cassock form: midnight velvet/lead-mesh versus pale gossamer. Held.",
+        "Brooch form: bronze lead-clapper pin versus pale clapperless bell. Held.",
+        "Countersignature-free acceptance versus custodian-controlled access. Held.",
+        "Tale failed-alarm account versus Origin correctly-filed warning; Side A leaves it open. Held.",
+        "Han Pressure 7–16 versus Side Void 8–20. Held."
+      ],
+      "split": [
+        3,
+        13
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-composure-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — remaining oriented while your own speech and every warning arrive late |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — striking is prohibited and the relic cannot be taken from the plinth; the original bell remains intact |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), and the sweep is timed against the station clock like every other part of the session, dust from this bell being collected rather than shovelled |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-op-note-trigger-distinction",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- No breach counter exists; the trigger is the gauge at 60 per cent. The delay lengthens rather than any boundary expanding, and it is clocked at the station every session because a delay cannot be noticed by someone standing inside it.",
+          "new": "- No breach counter exists. Activation remains the hand on the rim with listening spoken aloud, recorded once; the gauge at 60 per cent is only the field escalation threshold. The delay lengthens rather than any boundary expanding, and it is clocked at the station every session because a delay cannot be noticed by someone standing inside it."
+        },
+        {
+          "id": "R05-resistance-clocked-not-heard",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% where the pressure is Void; each of the other registers meets 15%, and the first of those two figures is what the district pays for, since what Unrung hands back is absence and not force |",
+          "new": "| **Resistance** | 25% where the pressure is Void; each of the other registers meets 15%, and the first of those two figures is what the district pays for, since what Unrung hands back is absence and not force. Resistance is never judged by ear from inside the field: hand signals only, the arrival delay clocked by the clerk outside it, and no striking to test whether the field persists. |"
+        },
+        {
+          "id": "R06-resolution-answered-warning",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Ferrehan carries the work, and the gauge has to come down past 25% before the session counts at all. At this bell the second requirement waits on the first: no cycle here has ever closed on a low gauge that Ferrehan did not bring down. |",
+          "new": "| **Resolution Condition** | The Ferrehan session is completed on the marked line, the operative's account is taken separately at the station, the arrival delay is clocked, and any warning surfaced is assigned to a named person with authority to act. A low gauge alone does not close the session: the gauge and the delay answer separate questions. |"
+        },
+        {
+          "id": "R07-held-breath-waiting-for-ring",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Held Breath* [**Debuff**] } | \"The bell should be ringing — but it is not, and the silence is worse than any sound.\" | [The Bell's silence presses on the target; the absence of sound is a void.] | *Target suffers a Void mark; the silence is deafening.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for the Bell. |",
+          "new": "| { *The Held Breath* [**Debuff**] } | \"The bell should be ringing — but it is not, and the silence is worse than any sound.\" | [A worker who waits for a ring to certify the session stands inside the delay with nothing arriving; performed listening has never moved it.] | *The worker gains a Void mark. Stop waiting for sound: return to hand signals and let the station clerk clock the arrival delay from outside the field.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker waits for the Bell to ring instead of working the clocked session. |"
+        },
+        {
+          "id": "R08-swallowed-sound-hand-signals",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Swallowed Sound* [**Debuff**] } | \"You try to speak — and the bell eats your words before they leave your mouth.\" | [The Bell absorbs sound; the target's voice is taken.] | *Target loses clarity; they cannot communicate.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to speak near the Bell. |",
+          "new": "| { *The Swallowed Sound* [**Debuff**] } | \"You try to speak — and the bell eats your words before they leave your mouth.\" | [Speech inside the field arrives thinned and late, at the wrong distance; calling out only lengthens the confusion.] | *The speaker loses the thread of their own sentence. Stop talking, change to hand signals, and let the station log the signal against its timestamp.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker speaks or calls out inside the field instead of using hand signals. |"
+        },
+        {
+          "id": "R09-silent-toll-forced-contact",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Silent Toll* [**Attack**] } | \"It swings. There is no sound and there is an impact, and you feel the second one in the bones a moment after it has already happened to you.\" | [A soundless strike delivered late; the damage lands before the perception of it.] | *Inflicts Void damage; the impact registers after the fact.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the bell is moved on its mount — not by striking, which is prohibited. |",
+          "new": "| { *The Silent Toll* [**Attack**] } | \"There is no swing and no sound, and the impact reaches you a moment after it has already happened to you.\" | [The bell does not move. Forced or prolonged contact makes the bearer's own perceptions arrive out of order, each sensation filed after the next.] | *Inflicts Void damage as acute disorientation. End contact by the detachment protocol — hand off the rim, out along the marked line, account at the station — and never by pulling the hand away by force.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When rim contact is prolonged past two minutes or the hand is removed by force. |"
+        },
+        {
+          "id": "R10-absent-peal-no-gauge-surge",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Absent Peal* [**Attack**] } | \"Every sound it should have made at the hour it should have made them, delivered at once, twenty-four years late and in absolute silence.\" | [The accumulated lateness discharges as crushing absence.] | *A heavy Void surge; the target's Sorrow Gauge rises 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the arrival delay exceeds thirty seconds. |",
+          "new": "| { *The Absent Peal* [**Attack**] } | \"Every sound it should have made at the hour it should have made them, delivered at once, twenty-four years late and in absolute silence.\" | [A delay past thirty seconds is not an event in the chamber; it is the clock reporting how this facility has been closing its warnings.] | *Heavy Void pressure on everyone still working the line. Close the session by hand signals, verify clock and clerk, and open the documents search: every warning closed in the preceding fortnight with no acknowledgement in any recipient's own hand, listed by reference number.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the clocked arrival delay exceeds thirty seconds. |"
+        },
+        {
+          "id": "R11-eternal-silence-threshold-60",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Eternal Silence* [**Ultimate**] } | \"The bell stops every sound in the field — and the silence becomes its own kind of death.\" | [The Bell extends its silence across everything.] | *All in range suffer Void erosion for three turns in the perfect silence.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Eternal Silence* [**Ultimate**] } | \"The bell stops every sound in the field — and nothing in the room can be answered in time.\" | [At the escalation threshold the field takes every voice in range at once; nobody inside it can tell how long it has lasted.] | *All in range suffer Void erosion for three turns. Withdraw along the marked line on hand signals only, cassock on to the boundary, and give separate accounts at the station before speaking to anyone else present.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 60%. |"
+        },
+        {
+          "id": "R12-battle-phase-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The watch closes on containment, management or retreat, or under the containment condition recorded here: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.",
+          "new": "3. **Resolution:** The watch closes at the station, not at the plinth: three honest strikes clocked, the operative's account taken separately before they speak to anyone else present, the delay entered against the fortnight's closed warnings, and any warning surfaced put into a named hand with authority to act. A low gauge with a long delay is written up as exactly that and nothing more."
+        },
+        {
+          "id": "R13-cassock-ability-outside-thread",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** High Void resistance, protecting the Soul. Worn for the full session on the marked line and kept on for the walk out, which the station clerks insisted on after two workers removed it at the boundary and gave accounts they later could not stand behind.",
+          "new": "**Ability:** *Outside Thread* — while the assigned alert partner confirms a live warning channel outside the veil, the cassock resists Void silence pressure and can reject one Void silence surge, routing the warning status to the partner. Worn for the full session on the marked line and kept on for the walk out, which the station clerks insisted on after two workers removed it at the boundary and gave accounts they later could not stand behind."
+        },
+        {
+          "id": "R14-tool-log-delay-not-speed",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 30 Seconds | A Tuesday folder on a receiving desk, a reading correctly filed, nine days, and a sound that the bearer is certain they are about to hear. | Speed and focus rise; composure falls. The bearer begins answering questions before they have been asked. |",
+          "new": "| 30 Seconds | A Tuesday folder on a receiving desk, a reading correctly filed, nine days, and a sound that the bearer is certain they are about to hear. | Reactions desynchronise; composure falls. The bearer begins answering questions out of the order they were asked in, each reply arriving after the next question. |"
+        },
+        {
+          "id": "R15-use-mode-fixed-site",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| **Use Mode** | **Equippable / mounting use** |",
+          "new": "| **Use Mode** | **Fixed-site contact use** — worked at the plinth where it stands; never equipped, carried or mounted elsewhere |"
+        },
+        {
+          "id": "R16-contact-no-resistance-buff",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 10 Seconds | The hand is on the rim. Nothing is heard. The station clock is already running and the operative, standing inside the field, has no way of knowing that it is. | One sealed door opens, or one unanswered warning is delivered. +10% Void resistance while contact holds. |",
+          "new": "| 10 Seconds | The hand is on the rim. Nothing is heard. The station clock is already running and the operative, standing inside the field, has no way of knowing that it is. | One sealed door opens, or one unanswered warning is delivered. Contact grants no resistance; the clock outside the field is the only protection the operative has. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-170_Unrung_침묵의_종.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.029  clean   450 grams  기록 (Registrum)\n 0.020  clean   594 grams  감각 묘사 (Flavor Text)\n 0.009  clean   882 grams  Combat Record\n 0.003  clean   876 grams  M.A.W. Equipment\n 0.003  clean   325 grams  관찰 기록 (Observation Log)\n 0.002  clean   618 grams  Activation Behavior\n 0.001  clean  1042 grams  이야기 보고 (Story Log)\n 0.000  clean   553 grams  Watch Record\n 0.000  clean   350 grams  이야기 (Narratio)\n 0.000  clean   285 grams  Origin\n 0.000  clean   278 grams  Trivia\n 0.000  clean   253 grams  Operational Parameters\n 0.000  clean   220 grams  Appearance\n 0.000  clean   146 grams  최종 관찰 (Final Observation)\n 0.000  clean   125 grams  Behavior\n 0.000  clean    97 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   86   8  | { *The Eternal Silence* [**Ultimate**] } | \"The bell stops every sound in the field — and nothing in the room can be answered in\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  252   2  **Cost:** The wearer feels faintly absent to themselves, and reports that their own voice reaches them late. It clears within a da\n  265   1  **Effect:** +1 when working this entity, and the bearer's hand is trusted: a warning written while wearing the brooch is accepted \n  310   1  | **Post-contact review** | Three clocked strikes with their intervals, the hand-signal log, the operative's separate account, and\n  340   1  The ground is the station clock. That quarter took the delay to forty-one seconds, the longest in the holding's history. The first\n  365   1  **After departure:** You think of something you reported properly and never heard about again. Most people have one and most peopl\n  369   1  Three records are grouped with this one and the grouping is by object rather than by sorrow, which is the standing problem with th\n  371   2  **Interaction method:** The Orphaned Bell resonance is logged every session, both clocks, as observed and unexplained. For the pap\n  376   1  Three records are grouped with this one and two of them are bells, which makes the grouping the most misleading in the wing. The b\n  378   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  381   6  | **The Hollow Choir** | The claim that the Choir falls quiet near it comes from a Year 4193 summary line and no trial has ever be\n  431   2  - The Rule of the Answered Warning is a containment condition of this entity and binds every receiving desk this facility operates\n  438   8  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the operations directorate, listed on an entit\n  443   3  **Operational interpretation:** Read this file with the warnings return beside it. Taken alone it holds a bell that does nothing, \nGENERIC 0.006  (40 shared shingles)  SE-C-IIβ-170_Unrung_침묵의_종.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-A__SIDE_CODEX_Unrung.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Silence_Hammer.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Silence_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Silence_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-A__SIDE_CODEX_Unrung.md": "15c248ccc5ed1524731640d6f6ad18797cc78f76d963502bb9899f199aff5cc7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Silence_Hammer.md": "a83d53a96364a999d88922dbda2f11140c823ce7b42b3e058e14fecb38a150e0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Silence_Veil.md": "00f1d7601166b62e8a04aadfc2d181eea78750b68a39f63b4623f1401d7cbfe6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Silence_Charm.md": "9d66f021dd9f132508e0da67f494c7d4d4db1de3e662004f1bc91ab04bbf042e"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-170_Unrung_침묵의_종](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-170_Unrung_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%A2%85.md \"SE-C-IIβ-170_Unrung_침묵의_종.md\")]",
+      "table_link": "[[C-IIβ-170 Unrung](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-170_Unrung_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%A2%85.md \"SE-C-IIβ-170_Unrung_침묵의_종.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 493 lines / 9,250 words, complete direct SE-170-A/B/C/D and Registry rows 438–441. CHANGELOG shows Batch 78 corrected the exact Weapon and Batch 127/unit 2 completed a full-SE review. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported 15% Gauge rise and +10% contact resistance were removed and the Ultimate was retimed from 65% to the file's own 60% escalation threshold."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "N-IIIβ-156",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-156_Deadline_빚의_시계.md",
+      "words": 9409,
+      "sha256": "32ef2dfb081bc2b36721bdb0580f6c3c83ee9c2568a2d3bf66d312314d49498f",
+      "name": "Deadline",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_02_DEADLINE.md",
+      "before_words": 9409,
+      "after_words": 9752,
+      "base": "0a3813733aee112e4d10cfa66b395081309e46bb",
+      "final_sha256": "c35b30fafcb0fa1b285340df05cfb1bb5fd9d63891d19aa86557a6b1fc99382a",
+      "summary": "HELD +0 — 16 repairs keep the date answerable to people instead of to dread.",
+      "commentary": "A fair date can still arrive like a punishment when nobody is assigned to help a person reach it.",
+      "reasoning": "The clock cannot be fought, wound or verified against itself: two unreconciled named readings and the quarterly time-bar list are the whole instrument.\n\nThe gauge measures one watch while the interval measures the claims registry, so resolution is a reading discipline completed, not a number forced down.\n\nEvery equipment piece needs a person outside the panic — verifier, support person or replacement — and a plan that includes life after the date.",
+      "history": "Batch 130/unit 4 already shipped the full exact-source Deadline review and claimed the Weapon credit then; material numeric and authority forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Han Pressure 10–23 versus Side Weight 8–20. Held.",
+        "Whether the Clock distinguishes unjust from valid deadlines remains unproven. Held.",
+        "Watch authority over registry lists is primary-only. Held."
+      ],
+      "split": [
+        3,
+        13
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resolve-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — taking the figure and leaving the room without working out whose date it is |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — never dismantled, wound, repaired or moved; striking and smashing are prohibited and the original O-Relic remains intact |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-zero-claims-search",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Zero* [**Attack**] } | \"Year 4231. Every reader in the building took the same figure for the first and only time, and the figure was nought. It was the quarter we extinguished four thousand one hundred claims.\" | [The interval reaches zero and holds there for a full watch.] | *Heavy Weight pressure across the room; the Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | At a reading below seven days. |",
+          "new": "| { *Zero* [**Attack**] } | \"Year 4231. Every reader in the building took the same figure for the first and only time, and the figure was nought. It was the quarter we extinguished four thousand one hundred claims.\" | [A reading below seven days is the room's near-zero figure: the hands are running short and falling is the bad direction.] | *Heavy Weight pressure across the room. Nothing in the room is touched first: pull the quarter's time-bar list and name every extinguished entitlement with its published date, its value, the officer who applied it, and whether the holder was known to be ill, absent or bereaved.* **[24-36 Weight DMG [Weight]]** | At a reading below seven days. |"
+        },
+        {
+          "id": "R05-ultimate-threshold-60",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Every Clock On The Row* [**Ultimate**] } | \"Modelled only. No other timepiece in the district has ever been affected, and the Row has checked them at every quarter for fifteen years.\" | [Projected spread to adjacent timepieces.] | *Area Weight pressure over three turns, unobserved, retained as a planning figure.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Gauge 65%, not reached. |",
+          "new": "| { *Every Clock On The Row* [**Ultimate**] } | \"Modelled only. No other timepiece in the district has ever been affected, and the Row has checked them at every quarter for fifteen years.\" | [Projected spread to adjacent timepieces at the escalation threshold; no such spread has ever been observed.] | *Area Weight pressure over three turns, unobserved, retained as a planning figure. End contact, enter both figures unreconciled, and check the Row's other timepieces before the watch is written up.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 60% (projected; not reached on record). |"
+        },
+        {
+          "id": "R06-battle-phase-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.",
+          "new": "3. **Resolution:** The watch closes when both readers have entered their own figures against their own names, unreconciled, contact has ended inside the posted limits, and the quarter's time-bar list has been read in the room with each extinguished entitlement named. A good watch in a short-interval quarter is written up as a good watch; the gauge measures the watch and the interval measures the registry."
+        },
+        {
+          "id": "R07-work-notes-seam",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Object/Place with Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector's Row. The Registrum's entry giving it Echo (II) coherence contradicted a header reading Fragment (III) — anxious and counting — and has been corrected; the header is descriptive here rather than nominal.",
+          "new": "Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Object/Place with Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector's Row, held at Fragment (III) coherence — anxious and counting, descriptive here rather than nominal."
+        },
+        {
+          "id": "R08-activation-record-hand-lifted",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Trigger** | Touch by someone with debt. |\n| **Manifestation** | Object-Weight |\n| **Primary effect** | Displays the next debt deadline. |\n| **Duration / rate** | Until the debt changes or the clock is set down. |",
+          "new": "| **Trigger** | Bare contact by a person carrying an unlodged entitlement or an outstanding obligation. |\n| **Manifestation** | Object-Weight |\n| **Primary effect** | The hands resolve onto that person's next published date and run to it in real time. |\n| **Duration / rate** | Until the hand is lifted deliberately or the underlying obligation changes; the clock itself is bracket-mounted and is never set down or moved. |"
+        },
+        {
+          "id": "R09-maul-appearance-source",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Appearance:** a heavy two-handed maul of Weight Han-steel, matte and unnaturally heavy, that flickers with inner light. A cracked clock-face sits in the head above a long, black-wrapped haft. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand.",
+          "new": "**Appearance:** a black Weight Han-steel maul with a cracked clock-face inset in the head above a long, black-wrapped haft; at rest the metal is cold and the inset hands stay still, indicating no ordinary time. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand."
+        },
+        {
+          "id": "R10-maul-damage-application-direct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Damage Application:** Direct and Tick damage multiplied separately. Weight 5–9, β grade, and the Operational Parameters field giving the M.A.W. grade as an em dash has been corrected to β against the three pieces this entity actually produces.",
+          "new": "**Damage Application:** Direct Weight damage only, at full value to the one designated target; there is no tick, splash or falloff component."
+        },
+        {
+          "id": "R11-maul-ability-before-zero",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Weight damage to the Han. The maul is issued for vessel work elsewhere on the Row and has never been raised in the clock room, where striking the holding is prohibited.",
+          "new": "**Ability:** *Before Zero* — once the external verifier confirms the due date, one support action and a protected rest interval, the maul disperses one imminent Weight surge long enough for the team to complete the next verified action. It cannot cancel a debt or move a deadline by force, and it has never been raised in the clock room, where striking the holding is prohibited."
+        },
+        {
+          "id": "R12-mantle-ability-scheduled-pause",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards Weight pressure on the Han. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief.",
+          "new": "**Ability:** *Scheduled Pause* — while a verified plan and named support person remain active, the mantle spreads deadline Weight through its incomplete hem marks; when the support person declares the planned rest interval, it holds one deadline-induced Weight spike while the wearer steps into the pause. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief."
+        },
+        {
+          "id": "R13-watch-ability-verifier-bound",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** The bearer knows, without looking anything up, when any obligation in front of them falls due. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people, and that telling people is the rule's job and not a bearer's.",
+          "new": "**Ability:** *Plan Beyond It* — the watch shows no date until an external verifier is identified; then it marks one verified obligation's due point and the planned support action toward it. It cannot verify an unreviewed claim or change a due date. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people, and that telling people is the rule's job and not a bearer's."
+        },
+        {
+          "id": "R14-use-notes-time-with-company",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The set is built around knowing when something falls due and carrying the weight of knowing it. The armoury's note records that the maul has never been used here, that the mantle is worn on figures under thirty days as a matter of order rather than choice, and that the watch-charm is the only piece in the wing whose chief cost is a sound.",
+          "new": "The set is built around knowing when something falls due and carrying the weight of knowing it. The armoury's note records that the maul has never been used here, that the mantle is worn on figures under thirty days as a matter of order rather than choice, and that the watch-charm is the only piece in the wing whose chief cost is a sound.\n\n**Set resonance — Time With Company:** With a real deadline externally verified, one practical action planned and a rest period protected from the countdown, the full set contains an imminent Weight panic field long enough for the team to act on verified facts rather than future dread. The bearer hears the countdown in sleep until the planned action is completed or responsibly revised, and the set rejects any plan with no support person in it."
+        },
+        {
+          "id": "R15-log-resolve-not-composure",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 1 Minute | The rate becomes perceptible as a pressure rather than a sound, and short intervals are felt as hurry by people who have not yet seen the figure. | 4 Composure every 10 seconds past the minute. Readers on a sub-thirty-day figure are relieved at the minute without discretion. |",
+          "new": "| 1 Minute | The rate becomes perceptible as a pressure rather than a sound, and short intervals are felt as hurry by people who have not yet seen the figure. | Resolve pressure builds with every 10 seconds past the minute, failing as recognition. Readers on a sub-thirty-day figure are relieved at the minute without discretion. |"
+        },
+        {
+          "id": "R16-use-mode-contact-reading",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| **Use Mode** | **Continuous / channeled use** |",
+          "new": "| **Use Mode** | **Contact reading only** — no channel is held or carried away; the hand lifts, the reading is entered, and the contact ends |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIIβ-156_Deadline_빚의_시계.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   539 grams  기록 (Registrum)\n 0.015  clean   588 grams  감각 묘사 (Flavor Text)\n 0.009  clean   214 grams  Operational Parameters\n 0.007  clean   692 grams  Combat Record\n 0.005  clean   969 grams  M.A.W. Equipment\n 0.002  clean   595 grams  Activation Behavior\n 0.001  clean  1060 grams  이야기 보고 (Story Log)\n 0.000  clean   688 grams  Warden Record\n 0.000  clean   414 grams  이야기 (Narratio)\n 0.000  clean   374 grams  관찰 기록 (Observation Log)\n 0.000  clean   302 grams  Origin\n 0.000  clean   278 grams  Appearance\n 0.000  clean   236 grams  Trivia\n 0.000  clean   135 grams  최종 관찰 (Final Observation)\n 0.000  clean    92 grams  Behavior\n 0.000  clean    47 grams  증언 (Testimonium)\n 0.000  clean    40 grams  SECC Classification\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 30% against Weight pressure; 20% against other pressure types |\n   86   4  | { *Every Clock On The Row* [**Ultimate**] } | \"Modelled only. No other timepiece in the district has ever been affected, and the\n  157   1  > **This Relic is Capable of Sector / Facility Alteration**\n  238   3  **Appearance:** a draped mantle of Weight Han-weave, matte and unnaturally heavy, that tightens near its source element. Concentri\n  256   2  **Appearance:** a watch-charm of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.\n  318   1  The first return under the Rule of the Reopened Window, Year 4238. Before it, an entitlement not claimed by its published date was\n  367   1  Three records are grouped with this one and none of the three has ever been tested against it, because the clock cannot be moved a\n  376   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  378   6  | **The Shadow at the Door** | The claim that the Shadow follows this clock's dates comes from a Year 4224 summary and has never b\n  423   2  - The Rule of the Reopened Window is a containment condition of this entity and binds every published date this facility sets.\n  431   5  **Faction Involvement:** SED (C-territory survey) · the claims office, listed on an entity file because the Rule of the Reopened W\n  436   2  **Operational interpretation:** Read this file with the quarterly time-bar list and the claims office's statement beside it, which\nGENERIC 0.005  (32 shared shingles)  SE-N-IIIβ-156_Deadline_빚의_시계.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-A__SIDE_CODEX_Deadline.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-B__MAW-W_The_Deadline_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-C__MAW-S_The_Deadline_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-D__MAW-G_The_Deadline_Watch.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-A__SIDE_CODEX_Deadline.md": "c86f7a873e7649e43bbe48ae4e5e59fd2e2c72e612d250b582696a708903a90c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-B__MAW-W_The_Deadline_Maul.md": "0dc122724340d6d9d1f5475a486af8874583fac68354c0971ff7e549c22c748f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-C__MAW-S_The_Deadline_Mantle.md": "944e7170ea068f00aaa5fb55d2166f6fd41963a58658922ac1d977d46b399eb0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/156_Deadline/SE-156-D__MAW-G_The_Deadline_Watch.md": "fd6312cc95fe834dfccf47c3715ec148ca19a47fb2d5aa7821672eac04eaf219"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIIβ-156_Deadline_빚의_시계](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-156_Deadline_%EB%B9%9A%EC%9D%98_%EC%8B%9C%EA%B3%84.md \"SE-N-IIIβ-156_Deadline_빚의_시계.md\")]",
+      "table_link": "[[N-IIIβ-156 Deadline](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B2-156_Deadline_%EB%B9%9A%EC%9D%98_%EC%8B%9C%EA%B3%84.md \"SE-N-IIIβ-156_Deadline_빚의_시계.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 487 lines / 9,409 words, complete direct SE-156-A/B/C/D and Registry rows 410–413. CHANGELOG shows Batch 130/unit 4 completed the exact review and took Weapon +1. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported 15% Gauge surge was removed, the projected Ultimate was retimed from 65% to the 60% threshold, and the one-minute log no longer drains a numbered Composure pool."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVβ-042",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md",
+      "words": 9561,
+      "sha256": "74f30b9c27b29e60be791ff1402b110899a6971aaaee7f8531cf7f96c5db9ab2",
+      "name": "The Angry Maiden",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_03_THE_ANGRY_MAIDEN.md",
+      "before_words": 9561,
+      "after_words": 9897,
+      "base": "d8b7daba1bfbd945a22722f38ec88b8e7734c068",
+      "final_sha256": "497dda663d865af0a2195b4d2d8cfaa21717eecb6e8531c1d99719a2ddae9da9",
+      "summary": "HELD +0 — 15 repairs make denial, not proximity, the thing that feeds her fire.",
+      "commentary": "She is not asking for a culprit. She is asking the record to stop pretending nothing was done.",
+      "reasoning": "Her anger has an object and no person: every harmful row now begins from what personnel do about that fact — carry grievance in, dismiss it, confront her, corner her, or deny it as a group.\n\nValidation is a sentence, not a mood: the act was wrong, no person named, no forgiveness demanded, then the cooling hour.\n\nShe has never breached, so the breach layer stays explicitly modelled and the documented work remains screening, thermal charting and reading both Sisters within the hour.",
+      "history": "Batch 118/unit 4 already gave SE-042-B its first counted Weapon-only disposition and preserved the equipment forks in the primary; no fresh Types, Weapon or SE credit is claimed. HELD +0.",
+      "holds": [
+        "Fire-bodied Side form versus living flesh beneath burning surface. Held.",
+        "Fang/Plate/Blade ability and cost variants kept distinct. Held.",
+        "Master Stigma fire-damage claim. Held.",
+        "Level 3 label Understood versus Advanced. Held."
+      ],
+      "split": [
+        6,
+        9
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — holding the watch without answering her in kind; the structural load on the fittings is its literal trace |"
+        },
+        {
+          "id": "R02-movement-no-pursuit",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Mobile — stands, walks the chamber and sits with her sisters; she has never breached, and the modelled breach moves on foot only toward confrontation, passing over the unconfronting. |"
+        },
+        {
+          "id": "R03-vessel-no-destruction-route",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — destruction is not an available resolution on a living Subject; confrontation only feeds the load and leads both Sisters upward |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-valid-work-types-no-pugnahan",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan and Ferrehan; Viderehan holds the gauge level. Pugnahan is prohibited absolutely. |"
+        },
+        {
+          "id": "R06-resistance-screened-teams",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |",
+          "new": "| **Resistance** | 35% against Grudge pressure; 25% against other pressure types. Resistance is never a licence to argue: response teams are screened for open grievances, nobody opens or answers in kind, fittings are load-checked on the gauge schedule, and both Sisters are read within the hour of any spike here. |"
+        },
+        {
+          "id": "R07-resolution-say-it-was-wrong",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Validate the anger; do not deny or argue with it |",
+          "new": "| **Resolution Condition** | The worker states plainly that what was done to the boy was wrong, names no person, and demands no forgiveness; then the cooling hour runs and the thermal settle is confirmed before relief. Validation lowers the flame; argument feeds it. |"
+        },
+        {
+          "id": "R08-clenched-fist-unresolved-anger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Clenched Fist* [**Debuff**] } | \"She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling.\" | [The Maiden's fury infects the target; their own anger rises unbidden.] | *Target suffers -10 Resilience; they are becoming angry without cause.* **[10 Grudge DMG [Grudge]]** | When the target approaches. |",
+          "new": "| { *The Clenched Fist* [**Debuff**] } | \"She stands shaking with rage — and the shaking transfers to you, and you cannot stop your hands from curling.\" | [A worker who enters her fire radius carrying visible unresolved anger gives her load somewhere to gather; their own hands begin to curl.] | *The worker loses Resilience as their anger rises. Do not open and do not answer: the screened relief takes the watch, and the grievance is dealt with outside her hearing.* **[10 Grudge DMG [Grudge]]** | When a person enters the fire radius with visible unresolved anger. |"
+        },
+        {
+          "id": "R09-rising-bile-dismissal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rising Bile* [**Debuff**] } | \"Her fury has no target — it is pure, undirected, and enormous. Just being near it makes you furious at everything.\" | [The Maiden's formless rage envelops the target.] | *Target loses 10 Resilience; everything becomes infuriating.* **[10 Grudge DMG [Grudge]]** | When the target remains near. |",
+          "new": "| { *The Rising Bile* [**Debuff**] } | \"You explain, kindly and accurately, that nobody can be blamed while nobody is known — and the room gets hotter by the minute.\" | [Her anger has a fixed object, the violence that killed the child; what spreads through the room is the dismissal of it.] | *Personnel lose Resilience and begin answering each other. Stop explaining: state that the act was wrong, name no person, and let the exchange end there.* **[10 Grudge DMG [Grudge]]** | When a person calls her anger irrational, excessive or inconvenient, or explains that nobody can be blamed. |"
+        },
+        {
+          "id": "R10-slap-provocation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Slap* [**Attack**] } | \"She strikes — hard, fast, and with the full force of a fury that has been building for centuries.\" | [A single devastating blow from a fist that has never unclenched.] | *Inflicts Grudge pressure and one heavy, ringing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Maiden is provoked. |",
+          "new": "| { *The Slap* [**Attack**] } | \"She strikes — hard, fast, and with the full force of a fury that has been building for centuries.\" | [A single Grudge impact delivered to the person confronting her; in three chamber incidents the uninvolved beside them were ignored entirely.] | *Inflicts heavy Grudge pressure on the confronter only. Everybody else holds position and offers nothing; the exchange stops when the answering stops.* **[14-22 Grudge DMG [Grudge]]** | When a person threatens, mocks or physically confronts the Maiden. |"
+        },
+        {
+          "id": "R11-full-eruption-cornering",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Eruption* [**Attack**] } | \"Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow.\" | [The Maiden detonates with all her accumulated rage.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Maiden is cornered. |",
+          "new": "| { *The Full Eruption* [**Attack**] } | \"Every ounce of fury she has ever suppressed — released at once, in one enormous, screaming blow.\" | [A high-output Crimson blast into the room's structure: the fittings take what the architecture takes, and both Sisters' loads follow within a short interval.] | *Heavy Grudge pressure and structural load. Open the exit path, restore Sister proximity, withdraw every answer, and read all three Sisters within the hour in fixed order.* **[24-36 Grudge DMG [Grudge]]** | When her exit paths are blocked or her proximity to her Sisters is broken. |"
+        },
+        {
+          "id": "R12-everyone-furious-group-denial",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Everyone Is Furious* [**Ultimate**] } | \"Now everyone is as angry as she is — and no one knows why, and no one can stop.\" | [The Maiden extends her fury across the whole field.] | *All in range suffer Grudge pressure for three turns of universal rage.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Everyone Is Furious* [**Ultimate**] } | \"Now everyone is as angry as she is — and no one knows why, and no one can stop.\" | [A three-turn group rage field: the wave finds the friction already in the room and widens it until the team is arguing with itself.] | *All in range suffer Grudge pressure for three turns. One screened voice states the violence plainly and that it was wrong; nobody demands forgiveness, nobody argues, and the watch moves to the cooling hour.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while multiple people in the room are denying the original violence. |"
+        },
+        {
+          "id": "R13-breach-movement-clean",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. The indiscriminate hunting clause contradicted the First Target row directly below it and the Trivia entry at the foot of this file, and has been removed. |",
+          "new": "| **Movement** | Modelled: on foot, walking, drawn only toward confrontation. There is no indiscriminate hunting in the model; the unconfronting are passed over. |"
+        },
+        {
+          "id": "R14-apex-modelled-not-veterans",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "Her breach is the kinetic one among the Sisters. She stalks the corridors on foot and her anger stops being an emotional condition and becomes a structural one: walls crack, fittings fail, and personnel caught in the wave take the same damage the architecture does. The secondary effect — a malice that seeks out unresolved conflict — makes the response roster a personnel question before it is a tactical one. Teams are assembled from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly, because the wave finds the friction in a response team and widens it. The Fury Fang carries the archetype into equipment form and is issued only to bearers who have completed the same screening. Veterans of her breaches describe the experience as being argued with by a building. The doctrine's answer is unglamorous: do not argue back, hold the line at the sealed sections, and let a fire that feeds on response find nothing offered.",
+          "new": "Her modelled breach is the kinetic one among the Sisters — modelled, because she has never breached in the holding's history. In the model she walks the corridors on foot and her anger stops being an emotional condition and becomes a structural one: walls crack, fittings fail, and personnel caught in the wave take the same damage the architecture does. The secondary effect — a malice that seeks out unresolved conflict — makes the response roster a personnel question before it is a tactical one. Teams are assembled from Wardens with no open grievances on record, a screening the Directorate performs quietly and documents thoroughly, because the wave finds the friction in a response team and widens it. The Fury Fang carries the archetype into equipment form and is issued only to bearers who have completed the same screening. Veterans of her hard watches and chamber incidents describe the experience as being argued with by a building. The doctrine's answer is unglamorous: do not argue back, hold the line at the sealed sections, and let a fire that feeds on response find nothing offered."
+        },
+        {
+          "id": "R15-tension-grammar",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "1. **Tension:** Identification first — The Angry Maiden is recognised by her by the thermal chart against the last watch, not by the fire.",
+          "new": "1. **Tension:** Identification first — The Angry Maiden is recognised by the thermal chart against the last watch, not by the fire."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.030  clean   503 grams  기록 (Registrum)\n 0.020  clean   148 grams  Behavior\n 0.015  clean   746 grams  감각 묘사 (Flavor Text)\n 0.013  clean   926 grams  M.A.W. Equipment\n 0.011  clean   811 grams  Combat Record\n 0.009  clean   224 grams  Operational Parameters\n 0.003  clean   351 grams  관찰 기록 (Observation Log)\n 0.002  clean   983 grams  이야기 보고 (Story Log)\n 0.000  clean  1053 grams  Apex Record\n 0.000  clean   450 grams  이야기 (Narratio)\n 0.000  clean   290 grams  Appearance\n 0.000  clean   279 grams  Origin\n 0.000  clean   273 grams  Trivia\n 0.000  clean   268 grams  Breach Behavior\n 0.000  clean   121 grams  최종 관찰 (Final Observation)\n 0.000  clean    81 grams  증언 (Testimonium)\n 0.000  clean    46 grams  SECC Classification\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 35% against Grudge pressure; 25% against other pressure types. Resistance is never a licence to argue: response\n   85   6  | { *Everyone Is Furious* [**Ultimate**] } | \"Now everyone is as angry as she is — and no one knows why, and no one can stop.\" | [\n   89   2  1. **Tension:** Identification first — The Angry Maiden is recognised by the thermal chart against the last watch, not by the fire\n  154   3  Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is prohibited. The Registrum named Pugnahan as the prima\n  184   7  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that flickers with an inner light and goes dark the\n  205   6  **Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that shifts and breathes with the wearer.\n  223   2  **Appearance:** a blade-pendant of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.\n  227   1  **Effect:** +1 when working this entity, and the bearer may not speak first in the chamber. The pendant's holder answers and does \n  270   1  | **Post-contact review** | Peak and settle with their hours, the annotated chart, the verbatim chamber log, the two Sisters' read\n  281   1  The first return under the Rule of the Recorded Wrong, Year 4238. Over the nine years the register covers, this facility recorded \n  300   1  The ground is the probe. That tranche took this chamber to sixty-eight degrees above ambient, the highest reading in two centuries\n  323   1  **After departure:** You think of something that was done to you, or to somebody of yours, that no document calls wrong. Most peop\n  329   2  **Interaction method:** Read all three Sisters within the hour of any spike here, in the fixed order and without exception, becaus\n  336   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  338   6  | **The Smothering Mother** | Grouped on maternal sorrow, which is the weakest grouping in this file: that holding is a mother's a\n  386   3  - Pugnahan is prohibited absolutely and the prohibition is read aloud at shift start rather than assumed known. Flerehan and Ferre\n  391   2  - The Rule of the Recorded Wrong is a containment condition of this entity and binds every inquiry this facility conducts.\n  398   7  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the coroner's office and the legal office, lis\n  403   3  **Operational interpretation:** Read this file with the findings return beside it and with both her sisters' charts. Taken alone t\nGENERIC 0.007  (59 shared shingles)  SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-A__SIDE_CODEX_The_Angry_Maiden.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-B__MAW-W_The_Fury_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-C__MAW-S_The_Fury_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-D__MAW-G_The_Fury_Blade.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-A__SIDE_CODEX_The_Angry_Maiden.md": "1e503a3346b1b12422406d1bf5ba31b65c13d68816a84b19d1582cf1f4f0d2ad",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-B__MAW-W_The_Fury_Fang.md": "757ed055147fe1c0b001646e2b628b503adbd3d8ccfa3c463012afb71f51e9f5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-C__MAW-S_The_Fury_Plate.md": "b5034ccd5edf7d1aa0f7c74ca33d1e5e497496453dd0f6a732880874470b147e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/042_Angry_Maiden/SE-042-D__MAW-G_The_Fury_Blade.md": "754ce873cd3f257600dc3a09e521d00a015794967e4e537b91008f42f50a7494"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-042_The_Angry_Maiden_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md\")]",
+      "table_link": "[[C-IVβ-042 The Angry Maiden](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-042_The_Angry_Maiden_%EB%B6%84%EB%85%B8%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 456 lines / 9,561 words, complete direct SE-042-A/B/C/D including Side A Validation and Fire Trigger Protocol, and Registry rows 78–81. CHANGELOG shows Batch 118/unit 4 took the first counted Weapon disposition. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported 15% Gauge surge was removed; the Side protocol's 65% group-denial condition was retained as an exact-source trigger, distinct from the 60% threshold."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-Vδ-002",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md",
+      "words": 9822,
+      "sha256": "faf8c35e8d7560d481fdbd5fca824c00a596652ce666793e77f69c48d44a8d73",
+      "name": "The Grieving Colossus",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_04_THE_GRIEVING_COLOSSUS.md",
+      "before_words": 9822,
+      "after_words": 10215,
+      "base": "496507e7ccd5c936acb6e388a63428542cd88127",
+      "final_sha256": "60ab1a9ba8e24c380eb228788447797082d26da7cf46524f4c69f4c61b07d30a",
+      "summary": "HELD +0 — 18 repairs turn a hunting boss template back into a route that must simply be kept clear.",
+      "commentary": "Nothing here needs to be defeated. The road needs to be empty and the names need saying.",
+      "reasoning": "Side A is explicit that the Directorate assigns no containment battle: every harmful row is a route failure created by people, never an attack chosen by a giant that steps around bodies.\n\nIts gentleness is not containment, so the doctrine stays clearing ahead, exclusion from the gauge, and rostered tour limits — never barricades.\n\nEquipment derives from authorized tears, so suppression and dust claims were removed rather than softened.",
+      "history": "Batch 85/unit 2 already took the counted SE-002-B disposition and Batch 122 confirmed it; no fresh credit. HELD +0.",
+      "holds": [
+        "Fixed census route versus Side broader recalculated migration corridor. Held.",
+        "Name recognition unproven by blind test. Held.",
+        "Pallbearer's Grip conferral versus item D history. Held."
+      ],
+      "split": [
+        7,
+        11
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resolve-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — the resolve to keep working is the first thing personnel lose under its ambient burial-weight |"
+        },
+        {
+          "id": "R02-movement-route-walk",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — walks one route through Zone D at its own occasion, placing thirty-metre feet between bodies with millimetres to spare; it has never hunted or pursued anybody. |"
+        },
+        {
+          "id": "R03-vessel-indestructible-route",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — it cannot be stopped or held; equipment derives from authorized tears, never from suppression of the whole Sovereign |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-valid-work-types-no-pugnahan",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Ferrehan and Flerehan; Viderehan holds the gauge level. Pugnahan does not register and is forbidden by doctrine. |"
+        },
+        {
+          "id": "R06-resistance-route-doctrine",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 50% against Weight pressure; 40% against other pressure types |",
+          "new": "| **Resistance** | 50% against Weight pressure; 40% against other pressure types. Resistance buys distance work only: the exclusion radius is set from the gauge, the route ahead is cleared rather than defended, names are spoken at contact, and consecutive tours are limited by roster because exposure accumulates across tours. |"
+        },
+        {
+          "id": "R07-weight-of-grief-demolition",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Weight of Grief* [**Debuff**] } | \"Just being near it feels heavier — as though grief itself has mass.\" | [The Colossus exudes its sorrow as physical gravity; the air thickens around the target.] | *Target suffers -10 Resolve; the world presses down on them.* **[10 Weight DMG [Weight]]** | When the target enters the Colossus's shadow. |",
+          "new": "| { *The Weight of Grief* [**Debuff**] } | \"Just being near it feels heavier — as though grief itself has mass.\" | [The Colossus stops, lowers one hand, and its sorrow settles as physical gravity across the block.] | *Personnel lose Resolve as the world presses down. Halt the demolition at once and mark the tear-structure for Archive survey; it is a memorial and an environmental record, not debris.* **[10 Weight DMG [Weight]]** | When a building grown from its tears is demolished while the Colossus is within line of sight. |"
+        },
+        {
+          "id": "R08-slow-steps-obstruction",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Slow Steps* [**Debuff**] } | \"Each of its steps lands like a funeral — and the ground remembers.\" | [The Colossus's tread sends waves of pressure outward; the target staggers under the rhythm.] | *Target loses 10 Resolve and moves as though wading through stone.* **[10 Weight DMG [Weight]]** | When the Colossus closes the distance. |",
+          "new": "| { *The Slow Steps* [**Debuff**] } | \"Each of its steps lands like a funeral — and the ground remembers.\" | [Careful movement forced against a blocked path: tremors spread sixty metres ahead of the tread and personnel stagger under the rhythm.] | *Personnel lose Resolve and move as though wading through stone. Clear the route ahead; do not confront, cordon or barricade.* **[10 Weight DMG [Weight]]** | When a new wall, heavy equipment or crowd blocks its predicted path for more than ninety seconds. |"
+        },
+        {
+          "id": "R09-open-hand-assault-contact",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Open Hand* [**Attack**] } | \"It does not strike so much as lower one enormous hand, and let the weight do the rest.\" | [A colossal palm descends; the target is driven into the ground by sheer mass.] | *Inflicts Weight pressure and one crushing wound.* **[14-22 Weight DMG [Weight]]** | When the target is within reach. |",
+          "new": "| { *The Open Hand* [**Attack**] } | \"It does not strike so much as lower one enormous hand, and let the weight do the rest.\" | [A colossal palm lowers onto the nearest obstruction that touched it; the mass, not any aim at a person, does the rest.] | *Heavy Weight pressure on the obstructing object and anyone still holding it. Withdraw all non-Warden staff and redirect the path; nothing is rammed, struck or extracted from its body again.* **[14-22 Weight DMG [Weight]]** | When a weapon strike, barrier ram or extraction device contacts its body. |"
+        },
+        {
+          "id": "R10-collapsing-mass-cornering",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Collapsing Mass* [**Attack**] } | \"It stops holding itself up, and lets all of its grief fall at once.\" | [The Colossus drops its entire mass onto one point — a cataclysm of accumulated sorrow.] | *A devastating Black impact; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Colossus is hurt or cornered. |",
+          "new": "| { *The Collapsing Mass* [**Attack**] } | \"It stops holding itself up, and lets all of its grief fall at once.\" | [Thirty metres of body weight settles into one point when no visible way forward remains.] | *A devastating Black impact across the trapped ground. Open an escape corridor immediately and clear ahead of it; the pressure falls only when a route exists again.* **[24-36 Weight DMG [Weight]]** | When three or more barriers eliminate every visible route of movement. |"
+        },
+        {
+          "id": "R11-mountain-tide-blocked-route",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Mountain of Sorrow* [**Ultimate**] } | \"It kneels and becomes the mountain it always was — grief too vast to move, pressing on everything.\" | [The Colossus settles into the earth, its sorrow radiating outward as crushing pressure.] | *All in range suffer Weight pressure for three turns as the ground itself bows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Mountain of Sorrow* [**Ultimate**] } | \"It kneels and becomes the mountain it always was — grief too vast to move, pressing on everything.\" | [A saturation field: its sorrow settles into the earth and radiates outward as crushing pressure while the way forward stays blocked.] | *All in range suffer Weight pressure for three turns as the ground itself bows. Evacuate the projected radius and deploy Ferrehan observers only until the route is clear.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the nightly Sorrow Tide overlaps a blocked migration route. |"
+        },
+        {
+          "id": "R12-resolution-phase-route-guidance",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Cannot be stopped. It can only be guided by monitoring its path and clearing safe routes**.",
+          "new": "3. **Resolution:** There is no containment or suppression to achieve. The route ahead is cleared, the march is accompanied at the marked interval until it rejoins the route or reaches the Memorial, and the vigil is kept to dusk: **it cannot be stopped; it can only be guided by monitoring its path and clearing safe routes**."
+        },
+        {
+          "id": "R13-breach-quote-no-hunting",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"The Grieving Colossus has broken free. Hunts personnel indiscriminately.\"*",
+          "new": "> *\"It has never broken free, because nothing holds it, and it has never hunted anybody. The only harm on this route was caused by a barricade.\"*"
+        },
+        {
+          "id": "R14-monument-memorial-break",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** A strike brought down on the ground sends a seismic shockwave through it, and every grounded hostile body in the room goes to its knees under the weight of the unforgotten dead. It is the Colossus's gait at a human scale, no clang and only the slow double beat, and a death that has been dismissed becomes physically inescapable to whoever dismissed it.",
+          "new": "**Ability:** *Memorial Break* — when the bearer strikes ground, barrier or structure while naming the person or group being protected, the Monument sends a seismic shockwave through it and every grounded hostile body in the room goes to its knees under the weight of the unforgotten dead. It is the Colossus's gait at a human scale, no clang and only the slow double beat, and a death that has been dismissed becomes physically inescapable to whoever dismissed it. It cannot safely strike a Colossus tear-building unless the Archive has cleared that structure for removal."
+        },
+        {
+          "id": "R15-mantle-procession-pace",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Halves the Weight damage that reaches the wearer and nothing else: Lament and Grudge pass at full strength and Void lands at one and a half times, so the Mantle is a protection for standing in the Colossus's weight and for nothing else in the city.",
+          "new": "**Ability:** *Procession Pace* — while the wearer walks an approved evacuation or memorial route, nearby companions move through low-grade Weight pressure without losing their first step to the burden; stopping, denying or abandoning the route ends it. The piece also halves the Weight damage that reaches the wearer: Lament and Grudge pass at full strength and Void lands at one and a half times, so the Mantle protects a route and its wearer's standing in the Colossus's weight, not general combat anywhere else in the city."
+        },
+        {
+          "id": "R16-shell-bear-the-unnamed",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Nearly invulnerable; converts physical damage into emotional weight.",
+          "new": "**Ability:** *Bear the Unnamed* — once a day the bearer may take one ally's current Weight-pressure condition onto themselves for ten minutes, converting part of ordinary physical impact into emotional heaviness that is felt later. It is not invulnerability: the Shell cannot absorb a Sovereign-scale collapse or a fatal direct strike."
+        },
+        {
+          "id": "R17-recommended-response-work",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Recommended response** | All four Work Types are open, this being a Subject, but nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Flerehan and Ferrehan lower the gauge; the operative measure is clearing its route ahead of it. |",
+          "new": "| **Recommended response** | Nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan does not register and is forbidden by doctrine; the operative measure is clearing its route ahead of it. |"
+        },
+        {
+          "id": "R18-entry1-not-held",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Held at Zone D — wanders freely; uncontained landmark.",
+          "new": "Registered in Zone D — wanders freely; uncontained landmark."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.047  clean   129 grams  Operational Parameters\n 0.035  clean   141 grams  Trivia\n 0.015  clean   261 grams  기록 (Registrum)\n 0.006  clean   660 grams  Combat Record\n 0.005  clean   187 grams  Breach Behavior\n 0.005  clean   384 grams  관찰 기록 (Observation Log)\n 0.004  clean   571 grams  감각 묘사 (Flavor Text)\n 0.003  clean  2877 grams  Sovereign Chronicle\n 0.002  clean  1310 grams  M.A.W. Equipment\n 0.000  clean   346 grams  이야기 (Narratio)\n 0.000  clean   214 grams  Appearance\n 0.000  clean   169 grams  Behavior\n 0.000  clean   156 grams  Origin\n 0.000  clean   121 grams  최종 관찰 (Final Observation)\n 0.000  clean   121 grams  이야기 보고 (Story Log)\n 0.000  clean    55 grams  SECC Classification\n 0.000  clean    54 grams  증언 (Testimonium)\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   37   4  | **Recommended response** | Nothing here is a response in the containment sense: the entity cannot be stopped and is not held. Fl\n   55   1  | **Resistance** | 50% against Weight pressure; 40% against other pressure types. Resistance buys distance work only: the exclusio\n   85   1  | { *The Mountain of Sorrow* [**Ultimate**] } | \"It kneels and becomes the mountain it always was — grief too vast to move, pressi\n   89   2  1. **Tension:** Identification first — The Grieving Colossus is recognised by the double beat in the ground and the cratered footp\n  176   1  - **Sorrow Gauge on breach:** Opens at 40% and rises ten points per turn while it is off the route; it falls on its own once the r\n  209   1  **Appearance:** a draped mantle of Weight Han-weave, dark as wet crystal, whose hem keeps a hand's width off the ground however th\n  235   1  **Effect:** +3 stat bonus when working the source entity\n  257   1  | **At limit** | Duration, activations, attribute change, rejection signs, position at withdrawal, and whether the operator asked \n  285   2  **Observation method:** Walk the interval, log the route, speak names and write down which ones it answered to. The form here is t\n  339   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  383   1  - Ferrehan is the primary Work Type and Flerehan also lowers the gauge; Viderehan holds it level and Pugnahan does not register. N\n  389   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)\n  479   1  The objection is minuted at every annual review, raised by the ward officer and supported by two of the grounds crews' own senior \n  481   8  The minute records the objection as **correct in all three parts**. It records that a compensation scheme, costed against the valu\n  493   5  - **Field detail:** Its defining element is Weight, and its registered location is Zone D — wanders freely; uncontained landmark.\nGENERIC 0.005  (36 shared shingles)  SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-A__SIDE_CODEX_The_Grieving_Colossus.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-C__MAW-S_The_Mourning_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-D__MAW-G_The_Mourning_Shell.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-A__SIDE_CODEX_The_Grieving_Colossus.md": "1294dd583ecda35d2b4062e87fb929972cb02db8fc009237db34be2202fb7eff",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md": "35c286a74b1d46157514ada00426e84e397a8eef4b3180e4fe61c316163d3172",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-C__MAW-S_The_Mourning_Mantle.md": "e96858acd13fc749ea7a8962c807bee1a6cb0c82a513e372f30b039358ad2ab7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-D__MAW-G_The_Mourning_Shell.md": "43584ed5762f3afc3d33b648d63ca01ee9b5870d97b85176124f368353286cd6"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-002_The_Grieving_Colossus_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9D%B8.md \"SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md\")]",
+      "table_link": "[[C-Vδ-002 The Grieving Colossus](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B4-002_The_Grieving_Colossus_%EC%8A%AC%ED%94%94%EC%9D%98_%EA%B1%B0%EC%9D%B8.md \"SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 502 lines / 9,822 words, complete direct SE-002-A/B/C/D including Side A Path & Battle Trigger Protocol, and Registry rows 6–9. CHANGELOG shows Batch 85/unit 2 took the counted Weapon disposition (confirmed again at Batch 122). All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% surge and bare 65% Ultimate removed; Side A's ninety-second obstruction, sixty-metre tremor reach and three-barrier cornering figures restored as exact-source trigger measurements."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "C-IVγ-176",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md",
+      "words": 9942,
+      "sha256": "ac38f3e0bbcede96fe902fd29c182748189ac1966e2afa421681348ce0c339ab",
+      "name": "Loom of Unlived Dreams",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_05_LOOM_OF_UNLIVED_DREAMS.md",
+      "before_words": 9942,
+      "after_words": 10334,
+      "base": "96a3099fe8157cda9a8ef20949c438c735d9de57",
+      "final_sha256": "2a36f285335e2a617a01c73cb462bab6888bf04c76eb807d899a4d71383a0bf7",
+      "summary": "HELD +0 — 17 repairs make the clock, not the loom, the thing that can fail.",
+      "commentary": "It has never woven anybody the wrong future. That is exactly why the clock, and not the worker, ends the watch.",
+      "reasoning": "Nobody operates this loom: every harmful row is now a human clock failure — touching the weave, mistaking desire for instruction, using force, overfeeding a channel, or refusing separation.\n\nProtection is procedural (paint, clock, two anchors, sealed pair) because the accurate future is the hazard and feeling well is the symptom.\n\nThe set's stats agree with B/C/D, but its weapon kind and extraction story do not; those identity forks are held in the open rather than averaged.",
+      "history": "Archived volumes show R-29 prose personalization (dc8d8ed, 7,699→9,942 words) and later artwork/appearance batches, but no completed exact-pair/full-set source disposition for SE-176-B/C/D and no equipment-ledger row. This is the first exact source review found; because weapon form and extraction remain forked, no Types or Weapon credit is claimed. HELD +0 on all counters.",
+      "holds": [
+        "Blade cut from cloth versus thread-bow on released thread. Held.",
+        "Beam-cut continuing weave versus self-released thread extraction. Held.",
+        "Registry placeholder rows versus complete Side cards. Held.",
+        "First exact-pair source review found; Types/Weapon credit withheld until the forks resolve."
+      ],
+      "split": [
+        7,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — knowing which of the two rooms you are standing in |"
+        },
+        {
+          "id": "R02-vessel-no-forced-stop",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — the frame is inert to every test and nothing on record has struck it; threads are never cut and the shuttle is never stopped by force |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-use-mode-timed-contact",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Use Mode** | **Continuous / channeled use** |",
+          "new": "| **Use Mode** | **Timed contact exposure** — nobody operates or channels the Loom; contact begins at the weave and ends at the clock |"
+        },
+        {
+          "id": "R05-registrum-lo-tag",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Classification:** Sorrow Entity — `C-IVγ-176` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation",
+          "new": "**Classification:** Sorrow Entity — `C-IVγ-176 [LO]` · City origin · Entity (IV) coherence · Major (γ) potency · Lament · Object-Dream manifestation"
+        },
+        {
+          "id": "R06-operational-rule-anchors-clock",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.",
+          "new": "**Operational Rule:** No channel is held open by concentration. Work uses two anchors — one in the Dream, one in waking space — and the timed rotation: the clock is read aloud, current physical anchors are named, and at the mark the duty officer ends the exposure and lets the dream fade rather than prolonging it. Prolonged channeling feeds the weave; force against thread or shuttle is prohibited."
+        },
+        {
+          "id": "R07-resistance-clock-paint-anchors",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. |",
+          "new": "| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |"
+        },
+        {
+          "id": "R08-first-thread-activation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Thread* [**Debuff**] } | \"A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there.\" | [The Loom's dream-threads alter the target's perception.] | *Target suffers -10 Composure; waking and dreaming blur.* **[10 Lament DMG [Lament]]** | When the target approaches the Loom. |",
+          "new": "| { *The First Thread* [**Debuff**] } | \"A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there.\" | [Contact opens the weave: a room the visitor recognises and has never been in arrives around them.] | *The worker loses Clarity as waking and dreaming blur. Name the current physical anchors aloud, read the clock, and let the sealed pair separate to opposite faces.* **[10 Lament DMG [Lament]]** | When a thread is touched or a Dream Chamber inside the marked radius is entered. |"
+        },
+        {
+          "id": "R09-tightening-weave-first-warning",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Tightening Weave* [**Debuff**] } | \"The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind.\" | [The Loom's output envelops the target; they cannot distinguish their thoughts.] | *Target loses 10 Composure; the dream-fabric is inside them.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Tightening Weave* [**Debuff**] } | \"The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind.\" | [The current room receives a woven detail that should belong only to a dream — a second window, a different street — and the worker's answers shorten.] | *The worker loses Clarity. The witnessed desire is recorded as desire, never as an instruction to act; the duty officer keeps a hand on the rotation.* **[10 Lament DMG [Lament]]** | When the first warning appears: a dream-only detail woven into the current room. |"
+        },
+        {
+          "id": "R10-cut-thread-force",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cut Thread* [**Attack**] } | \"A thread snaps — and the severed end whips out, sharp as a blade.\" | [A broken dream-thread lashes the target.] | *Inflicts Lament pressure and one surreal, cutting wound.* **[14-22 Lament DMG [Lament]]** | When the Loom is interrupted. |",
+          "new": "| { *The Cut Thread* [**Attack**] } | \"A thread snaps — and the severed end whips out, sharp as a blade.\" | [Interrupted weaving turns the dream into a hostile room around whoever used force.] | *Heavy Lament pressure on the interrupter. Hands off thread and shuttle: close the channel by intent, name both anchors, and withdraw across the paint.* **[14-22 Lament DMG [Lament]]** | When a thread is cut or the shuttle is stopped by force. |"
+        },
+        {
+          "id": "R11-full-tapestry-overfed-room",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Tapestry* [**Attack**] } | \"The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything.\" | [The Loom's entire output is released at once, and the output is what people set down: futures that were prepared for and never confirmed, one thread per person.] | *A heavy Deep Blue cascade; the target's Sorrow Gauge surges 15%; the cloth on the beam does not shorten, and the length recorded after this action is longer than the one before it.* **[24-36 Lament DMG [Lament]]** | When the loom is interrupted — the frame may be touched and the weave may not, and the line between them is painted on the floor. |",
+          "new": "| { *The Full Tapestry* [**Attack**] } | \"The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything.\" | [An overfed dream stops overlaying the room and replaces it: four physical rooms adjacent to the frame are on record, each restored when the weaving ended.] | *A heavy Deep Blue cascade across the replaced room; the cloth on the beam does not shorten. Clear the adjacent room, hold both anchors, and allow the dream to fade at its source rather than living inside it.* **[24-36 Lament DMG [Lament]]** | When a channel is prolonged past its timed mark and the dream begins replacing current sensory reality. |"
+        },
+        {
+          "id": "R12-woven-world-threshold-refusal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Woven World* [**Ultimate**] } | \"The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream.\" | [The Loom extends its weaving across the entire area, and the fabric it weaves out of the room is accurate: the wing, the Gates, and the future each person in it was preparing for.] | *All in range suffer Lament pressure for three turns inside the woven dream. The pressure does not fall when the weaving ends; it falls when the crew is rotated off the frame, and a response that stays on past its clock powers this action rather than ending it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, which on this file is a function of exposure carried past the rotation and not of anything the loom does. |",
+          "new": "| { *The Woven World* [**Ultimate**] } | \"The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream.\" | [The Loom extends its weaving across the entire area, and the fabric it weaves out of the room is accurate: the wing, the Gates, and the future each person in it was preparing for.] | *All in range suffer Lament pressure for three turns inside the woven dream. The pressure does not fall when the weaving ends; it falls when the crew is rotated off the frame, and a response that stays on past its clock powers this action rather than ending it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 75% activation threshold with exposure carried past the rotation — a function of the stayed-past-the-clock worker, not of anything the loom does. |"
+        },
+        {
+          "id": "R13-requiem-unweave-line",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Lament damage to the mind, delivered as the frame delivers it: the target is shown, briefly and completely, the life their work was pointed at, in a version where it was confirmed. The strike is what the target does about that in the half-second afterwards.",
+          "new": "**Ability:** *Unweave Line* — the Skewer loosens a temporary dream reality where it has begun overwriting a current room, unpicking the construct a line at a time rather than tearing it. At full activation, *Let the Cloth End* dissolves one escalating woven construct across the line and returns its emotional material to the Loom's custody. It cannot decide which future was worth living, and using it to force a dreamer out or keep a dream alive knots the thread and ends activation."
+        },
+        {
+          "id": "R14-shroud-double-weave",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Lament aside from the mind, and on this post the specific effect is that the shroud blunts the frame's accuracy: a wearer inside the paint sees the future they prepared for as a set of facts rather than as a room they could walk into. It is the difference between being shown a life and being offered one, and it is what makes a full timed rotation survivable at all.",
+          "new": "**Ability:** *Double Weave* — with both collar anchor knots held by separate waking and Dream witnesses, the Shroud keeps the wearer's current body and Dream identity distinct from a woven temporary reality; on this post the felt effect is that it blunts the frame's accuracy, so the future is seen as a set of facts rather than a room to walk into. Triggered *Anchor Knot*: when both anchors jointly invoke the return cue, the Shroud breaks one Dream bleed and sets the wearer back into current space. With either anchor treated as optional it gives only ordinary resistance, and cutting a knot leaves the wearer split between construct and room."
+        },
+        {
+          "id": "R15-shuttle-weave-once",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Weaves one controlled illusion.",
+          "new": "**Ability:** *Weave Once* — with consent and double anchors, the Shuttle weaves one controlled illusion for care, training or safe route visualisation, built only from a personal memory the bearer voluntarily names. Passive *Loose Thread* senses where an imagined construct is trying to become permanent. The illusion cannot replace reality or sustain itself after its emotional source closes, and weaving from another person's memory without consent produces a blank illusion that absorbs the bearer's own current detail."
+        },
+        {
+          "id": "R16-cycle-ends-exposure-not-shuttle",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- A cycle stops the shuttle for a shift. Nothing woven has ever come undone, and a clean outcome leaves the pattern exactly where it was.",
+          "new": "- A cycle ends the exposure, never the shuttle, which has crossed at the same rate for a century whether anybody is in the chamber or not. Nothing woven has ever come undone, and a clean outcome leaves the pattern exactly where it was."
+        },
+        {
+          "id": "R17-flavor-always-weaving",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Threads hang in the air, each one a possible life. The Loom does not move until you approach. Then it takes the desire you tried not to carry and turns it into a room, a person, a future.",
+          "new": "Threads hang in the air, each one a possible life. The Loom was weaving before you came in and does not change its pace for you. What changes is the material: it takes the desire you tried not to carry and turns it into a room, a person, a future."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.008  clean   237 grams  Operational Parameters\n 0.007  clean   979 grams  Combat Record\n 0.004  clean   261 grams  Behavior\n 0.003  clean  1480 grams  Apex Record\n 0.003  clean   789 grams  감각 묘사 (Flavor Text)\n 0.001  clean  1020 grams  M.A.W. Equipment\n 0.000  clean   939 grams  Activation Behavior\n 0.000  clean   410 grams  이야기 (Narratio)\n 0.000  clean   356 grams  관찰 기록 (Observation Log)\n 0.000  clean   323 grams  기록 (Registrum)\n 0.000  clean   309 grams  Trivia\n 0.000  clean   280 grams  이야기 보고 (Story Log)\n 0.000  clean   246 grams  Origin\n 0.000  clean   197 grams  Appearance\n 0.000  clean   109 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    39 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, taken from the finished length on the beam at the close of a \n   56   1  | **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band \n   86   6  | { *The Woven World* [**Ultimate**] } | \"The loom does not stop — it weaves dream into every surface — until the whole field is i\n  150   1  **Reading the response:** A falling gauge means the watch ended at its clock and the worker came back out of the future they were \n  276   1  | **After use** | Return the piece, then read the day-of-issue line back to the wielder and record, verbatim, whether they still d\n  356   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  454   4  The wing clerks asked for one thing. Where a number falls to nil, let the people who have already started the course for it be tol\nGENERIC 0.002  (17 shared shingles)  SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-A__SIDE_CODEX_Loom_of_Unlived_Dreams.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-B__MAW-W_The_Dream_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-C__MAW-S_The_Dream_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-D__MAW-G_The_Dream_Shuttle.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-A__SIDE_CODEX_Loom_of_Unlived_Dreams.md": "89f54aaf1bb25c5253e54974079285c08d540901dbfbb74105c80f29aa01568a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-B__MAW-W_The_Dream_Requiem.md": "f71104bafe0ae9a2fc6f4040dd643f0c2ab531ae9fa2679577cfcd83da1a85ba",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-C__MAW-S_The_Dream_Shroud.md": "62af082950d844b6b7cebc64ec082a8d3be933dd85c7169db6cb2f5a7d7147ac",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/176_Loom_of_Unlived_Dreams/SE-176-D__MAW-G_The_Dream_Shuttle.md": "cd5419650f24cb1758217cbff1b2381ac7eff31bc940f705ef0aadddfcb72016"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-176_Loom_of_Unlived_Dreams_%EA%BF%88_%EC%A7%81%EA%B3%B5%EC%9D%98_%EB%B2%A0%ED%8B%80.md \"SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md\")]",
+      "table_link": "[[C-IVγ-176 Loom of Unlived Dreams](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-176_Loom_of_Unlived_Dreams_%EA%BF%88_%EC%A7%81%EA%B3%B5%EC%9D%98_%EB%B2%A0%ED%8B%80.md \"SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 475 lines / 9,942 words, complete direct SE-176-A/B/C/D, Registry rows 446–449, archetype register MAW-W-176, and history across current plus archived CHANGELOG/WIP volumes. All tables parsed equally and all five Trigger cells read under Trigger; Cut Thread and Full Tapestry previously shared one trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 0,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from 65% to the file's own 75% activation threshold with the stayed-past-the-clock condition retained."
+      }
+    }
+  ]
+}

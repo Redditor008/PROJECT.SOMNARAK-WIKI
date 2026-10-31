@@ -15,7 +15,7 @@
 | **Element** | Void |
 | **Manifestation** | Object-Grudge |
 | **Physical Form** | Mixed — A fragment of frozen ruin — black crystal shaped like a slice of a broken building, its edges burning with a silent crimson rage that gives no heat. Bloodless-cold, it smells of ash; a piece of a place that no longer exists. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Immovable — not fixed by containment but simply unshiftable; two attempts are recorded in the engineering file. Only the edge luminance varies. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -79,9 +79,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Cold Archaeology* [**Debuff**] } | "The ruins are perfectly preserved in ice — every detail sharp, every grief intact, and the cold is absolute." | [The Ruin's permafrost radiates; the target feels the preserved sorrow.] | *Target suffers a Void mark; the ancient grief is still alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Ruin. |
-| { *The Frozen Inhabitant* [**Debuff**] } | "Inside the ice, you can see the people who lived here — frozen mid-gesture, mid-scream." | [The Ruin's preserved inhabitants stare through the ice; the target feels watched.] | *Target loses clarity; the frozen dead see everything.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the ice. |
-| { *The Ice Slab* [**Attack**] } | "A sheet of permafrost breaks free — heavy, sharp, ancient." | [A block of frozen ruin detaches and strikes.] | *Inflicts Void damage; the ancient cold erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Ruin is struck. |
+| { *The Cold Archaeology* [**Debuff**] } | "It is not preserved in ice and there is no permafrost here — a slice of a broken building in black crystal, cold in a bay that sits under Forge heat, with crimson along the fractures that gives no warmth at all." | [Bay lights killed; the step wedge at one metre; the reading is worthless from any other position.] | *Target suffers a Void mark; the ancient grief is still alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At the first edge reading. |
+| { *The Frozen Inhabitant* [**Debuff**] } | "Nobody is frozen inside it mid-scream. The residents are absent and unaccounted for, which is the whole of the injury; what watches you from the fragment is an open register with its incompleteness flagged on the first page." | [Viderehan holds the reading flat and still leaves the observer with names they would rather not have read.] | *Target loses clarity; the absent are the ones being looked at, and the look does not resolve.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target reads the register against the ruin. |
+| { *The Ice Slab* [**Attack**] } | "Nothing detaches and nothing strikes — the fragment has never harmed anybody and the wing has twice refused to pretend otherwise. What lands is the counterparty's own sentence, read back: the district was vacated, with nobody doing the vacating." | [The edges brighten on documents written without an agent; the two brightest readings on record both followed entries that were grammatically entirely proper.] | *Inflicts Void damage; the cold erodes the language a person hides inside.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | On a sentence with no subject in it. |
 | { *The Full Thaw* [**Attack**] } | "The ninth day does not end — the doorway, the crate, the half-swept step are all still there, and none of them are." | [The preserved moment runs on instead of resolving; what the fragment holds is offered to whoever is standing in it.] | *A heavy Void surge; the target's Sorrow Gauge rises 15% and the bearer describes the clearance in the present tense.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the fragment is forced past what it holds. |
 | { *The Glacier* [**Ultimate**] } | "The whole Row goes quiet and cold — not frozen water, frozen paperwork: every sentence in the district's file that never named anybody." | [The fragment's cold spreads along the Row, and the language in the room stops working.] | *All in range suffer Void erosion for three turns and cannot put a name to an actor in anything they write during them.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -94,9 +94,9 @@
 ### Consequences
 
 - Resistance failure does not injure the worker; it recruits them. What arrives is the fury of the wrongly blamed, and the fury is reasonable, which is the difficulty: it comes with an account of the ninth day that the evidence supports and a list of the people who should have been named, and a worker under it writes with the energy of somebody who has finally been told the truth.
-- Duration is the dosage. The sorrow works past the containment protocol and settles into how the operative thinks, and what it does there is recorded as permanent: the emotional, somatic and identity damage carries no return figure on any sheet that gives one. The earliest sign is the bearer's breath beginning to match the resonance of the grief behind it, and catching that is what the monitoring is for.
+- Duration is the dosage, and what it delivers is tense, not wounds. The worker may become fixed in the ninth day and describe the clearance in the present tense; four have been withdrawn from the rota for it and all four returned. That is what the monitoring is for — the step-back across the margin, ended by the bearer and logged with the hour.
 - The M.A.W. is never costless. Its somatic, psychological and mnemonic toll is written into the equipment records and charged on every use, and the charge is the one the district carried: a home emptied, and the people blamed for having lost it. The lens cannot stand in for scheduled Work Types and cannot stand in for the register; three workers have tried it, and the standing instruction names both refusals.
-- A cycle that does not resolve sets the event protocol running: the Sorrow Gauge reaches its ceiling, the containment fail-safes go, and the sorrow deepens where it already is instead of spreading. The zone is not overrun so much as closed — unworkable at the margin of original ground, which is where the bay stands and the reason the lens shows an empty street once it is carried past that margin.
+- A cycle that does not resolve has no ceiling to reach and no fail-safes to trip; the file carries no breach counter. The session simply does not close — the second reading does not agree, the margin goes unswept, and the fragment has still never extended past the bay floor. What deepens is the paperwork argument, not the zone.
 
 ## Appearance
 **Physical Form:** A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage.
@@ -118,7 +118,7 @@
 |---|---|
 | **Form** | A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage. |
 | **Position / movement** | Immovable; two attempts are on record and neither shifted it. Only the edge luminance varies. |
-| **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
+| **Material / signature** | Void. Black crystal, cold under Forge heat at four thermal points, no measurable interior temperature, smelling of ash; silent crimson luminance along the fracture edges that gives no heat and is read only in darkness. |
 | **Distinctive markers** | Identify it by the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature, and its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness. |
 | **Identification** | Verify against the SECC code before work or contact begins; the markers are the absence of any interior temperature and the heatless crimson glow at the fracture edges. |
 
@@ -150,9 +150,9 @@ The table is the whole method, and it is short because the holding is narrow. Fr
 **Reading the response:** A falling reading means the week's paperwork named an agent. Stability under Viderehan is correct. The edges brighten on documents that describe the district as vacated, abandoned, or emptied with nobody doing the emptying, and the two brightest readings on record both followed entries that were, grammatically, entirely proper.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **This Relic displays the lives and the injustice attached to the structure. It has never harmed anybody.**
+> **This Relic cannot be moved, thawed or tidied. Custody is not restraint.**
+> **The only measure that has ever lowered its reading is a sentence with a subject in it.**
 
 **Activation Trigger:** Touch or attempts to move the ruin.
 
@@ -167,7 +167,7 @@ The table is the whole method, and it is short because the holding is narrow. Fr
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **At the fragment; nothing here is equipped.** The ruin weighs what a building weighs and is approached in the bay; the Lens named below is equipment, and works only inside the margin. |
 | **Activation** | Touch or attempts to move the ruin. |
 | **Primary Effect** | Displays the lives and injustice attached to the structure. |
 | **Duration** | Until contact ends. |
@@ -180,10 +180,10 @@ The table is the whole method, and it is short because the holding is narrow. Fr
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Frozen Fury rests in stasis until an operative lifts it; on contact the void field settles into step with the bearer's pulse. | Mounting it starts the primary resonance: the lives and the injustice attached to the structure are shown, and +10% resistance to Void damage applies while it is worn. |
-| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it, and well inside the first minute the bearer begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | The operative gains the combat benefit and starts accumulating the mental burden: movement and concentration sharpen, composure falls. |
-| 1 Minute | The sorrow starts collecting what it is owed, and the bearer's breath has begun to match the resonance of the grief behind it. | Past 60 seconds of continuous use it deals 5 Void damage on a 15-second cycle, and the watch keeps an eye out for sudden cognitive detachment. |
-| 2 Minutes | Worn too long, the bearer becomes the person who wept over it first: the boundary between the operative's identity and the historical sorrow gives way. | Continuous wear past two minutes, or a forcible removal before the interaction is completed, triggers acute panic, and the bearer goes on describing the clearance in the present tense. The lens comes off with the mount and the bearer steps back behind the margin, because contact broken by being pushed away rather than ended by the bearer leaves the ninth day running. |
+| 10 Seconds | Nothing is lifted. The fragment rests exactly where the ninth day left it, and contact — which the cycle does not need — is what would start the display. | Read the edges in darkness against the step wedge. The lives and the injustice attached to the structure are the display; no resistance is granted for standing near them. |
+| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it, and well inside the first minute a worker in contact begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | State aloud, at the start of the cycle, who cleared the district; the sentence is part of the procedure and is minuted. Nothing sharpens and no combat benefit accrues — what accrues is the account. |
+| 1 Minute | The sorrow starts presenting what it is owed: an account of the ninth day that the evidence supports and a list of the people who should have been named. | No toll is dealt on any cycle. The watch is for tense — the bearer beginning to describe the clearance in the present — which is the sign the step-back is due. |
+| 2 Minutes | In contact too long, the bearer stops standing with the grief and starts reporting from inside it: the boundary between the operative's present and the clearance's last hour gives way. | Nobody panics on schedule. Four workers have been withdrawn for exactly this and all four returned. The lens comes off with the mount and the bearer steps back behind the margin, because contact broken by being pushed away rather than ended by the bearer leaves the ninth day running. |
 
 ### Escalation Notes
 
@@ -345,7 +345,7 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 **With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Void is no longer an event but an environment, something you exist inside rather than encounter.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: the bearer is fixed in the ninth day. The lens works only inside the bay. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** Nothing dramatic happens, which the file is careful about: the fragment does not move, warm or crack. A worker who touches it is standing in a doorway on the ninth day, furious with a fury that is not theirs and is completely reasonable, and the lens in the dark shows the street twice over — once as it stood, once as it was left.
 
 **After departure:** The fragment stays; what leaves with the worker is a sentence they have started noticing. Most of them have read `the district was vacated` a dozen times. After a cycle in the bay it reads the way the specialist's account reads — somebody vacated it — and the file records that as the exposure's real product, since it is the one thing a worker carries out of the bay that the fragment itself approves of.
 

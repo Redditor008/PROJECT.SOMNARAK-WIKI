@@ -83,7 +83,7 @@
 | { *The Spinning Needle* [**Debuff**] } | "It will not settle, and neither will anybody watching it." | [The needle turns continuously; the case has no bearing.] | *Void pressure to everyone present. Ninety-four of 188 channels end this way and the station logs each as a case with nothing to point at.* **[Void DMG [Void]]** | When the thing named is not lost but destroyed. |
 | { *The Pointing* [**Attack**] } | "It points at somebody in the room." | [The needle fixes on a person rather than a direction.] | *Heavy Void damage to that person; eleven occurrences, and in nine the person had reported the loss being searched for.* **[Void DMG [Void]]** | When the holder names a thing the case-holder lost. |
 | { *The Wrong Way* [**Attack**] } | "It takes you to where the lost things are and they are not glad to be found." | [The bearing is accurate and leads somewhere nobody wanted it to lead.] | *Void damage; four parties have followed a bearing to its end and all four write-ups are sealed at the district's request.* **[Void DMG [Void]]** | When a bearing is followed rather than logged. |
-| { *Every Loss at Once* [**Ultimate**] } | "The needle points to every direction at once and every one of them is a case." | [All open losses in the district register simultaneously.] | *Void erosion to everybody in the Forge District for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once, in the week the district's missing-property register passed eleven hundred open entries. |
+| { *Every Loss at Once* [**Ultimate**] } | "The needle points to every direction at once and every one of them is a case." | [The combat model describes all open losses in the district registering simultaneously. Side A records Overload separately: three unrelated losses named during one channel.] | *The district-wide Void erosion for three cycles is a modelled effect, not an observed event.* **[Void DMG [Void] (AoE, x3 turns)]** | The combat table places it above 65%, once, in the week the register passed eleven hundred entries. Side A's three-loss trigger is not crosswalked to that threshold. |
 
 ### Battle Phases
 
@@ -96,10 +96,10 @@
 - The failure here is following. The worker stops recording the bearing and starts walking along it, and both early incidents began exactly that way.
 - Long exposure produces the holding's signature state: a worker who understands, correctly and in detail, that grief is in every direction, and who cannot find a reason to choose one.
 - The Lost equipment lends the wearer the needle's certainty and takes the ability to stop searching. Every wielder's debrief has recorded an old unresolved question taken up again.
-- Unresolved, it transforms rather than escapes: the pointing spreads, and other instruments in the sector begin agreeing with it.
+- The record calls this transformation, not escape: the pointing spreads and other instruments in the sector begin agreeing. The classification says non-breaching; whether this is a breach-equivalent spread or an uncontrolled activation remains unresolved.
 
 ## Appearance
-**Physical Form:** A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow.
+**Physical Form:** A palm-sized tarnished-brass compass with no cardinal markings and a bone needle that twitches and drags toward concentrated grief. Held in hand, the needle warms and presses against the glass; casing letters rearrange when unobserved. It never points north.
 
 **Notable Features:** A bare brass face with no cardinal markings and a bone needle that leans toward the nearest concentrated grief. It never points north. It has rested four times in the containment's entire operation.
 
@@ -116,8 +116,8 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A compass with no cardinal markings. Its needle spins toward the nearest concentrated sorrow. |
-| **Position / movement** | On the stand, in the open case, during a session only. Record bearing in degrees, rate of swing, first-response range, and the time the case was closed. |
+| **Form** | A palm-sized tarnished-brass compass with no cardinal markings and a bone needle that twitches and drags toward concentrated grief. Held in hand, the needle warms and presses against the glass; casing letters rearrange when unobserved. It never points north. |
+| **Position / movement** | At rest on the fixed stand in its open case between sessions. For activation the channeller holds it during a two-minute channel; this is human handling, not independent movement by the Compass. Record bearing in degrees, rate of swing, first-response range, and case-closure time. |
 | **Material / signature** | Void. Tarnished brass, warm in the hand; a yellowed bone needle that drags rather than swings; casing letters that are never twice in the same order when re-read. |
 | **Distinctive markers** | A compass face with no cardinal points, a bone needle under glass, and lettering that rearranges when nobody is watching it. |
 | **Identification** | A brass compass the size of a palm on a fixed stand, needle unmarked, with no cardinal points engraved on the face. The absence of the points is the identification; every other instrument in the Forge District has them. |
@@ -158,7 +158,7 @@ The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation
 
 **Effect:** Points toward the nearest related sorrow source.
 
-**Duration:** Until the source is acknowledged or the Compass is put down.
+**Duration:** The activation text says until the source is acknowledged or the Compass is put down. The certified protocol separately caps a channel at two minutes; the record does not reconcile the duration with that limit.
 
 **Risk:** The holder may follow the needle indefinitely, and will not experience the following as a compulsion — both incidents on file describe it afterwards as the obvious thing to have been doing.
 

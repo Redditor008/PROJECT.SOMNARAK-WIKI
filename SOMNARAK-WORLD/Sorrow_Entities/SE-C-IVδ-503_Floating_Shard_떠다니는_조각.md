@@ -78,16 +78,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lazy Drift* [**Debuff**] } | "A shard drifts past — slow, spinning, catching the light — and you cannot look away from the break." | [The Shard mesmerizes the target; the edge reflects their own fractures.] | *Target suffers -10 Composure; they see themselves in the break.* **[10 Lament DMG [Lament]]** | When the Shard drifts near. |
-| { *The Gathering* [**Debuff**] } | "More shards appear — orbiting you slowly, a constellation of sharp edges." | [The Shard multiplies; the target is ringed by drifting glass.] | *Target loses 10 Composure; every direction has an edge.* **[10 Lament DMG [Lament]]** | When the target remains still. |
-| { *The Sudden Spin* [**Attack**] } | "The shard stops drifting — and accelerates, straight at your face." | [A shard shoots from its orbit at the target.] | *Inflicts Lament pressure and one clean, glassy cut.* **[14-22 Lament DMG [Lament]]** | When the Shard is disturbed. |
-| { *The Full Cluster* [**Attack**] } | "Every fragment goes inward at once — the bay's whole drift turning on one point." | [The Shard-cloud closes on the target from every bearing at once.] | *A heavy Deep Blue convergence; the target's Sorrow Gauge surges 15%, and the fragments return to the drift afterward rather than falling.* **[24-36 Lament DMG [Lament]]** | When the Shard is caught, or when anything in the bay is struck. |
-| { *The Shard Constellation* [**Ultimate**] } | "The drift stops — every piece of it held still in the air — and then the whole sky of it comes down." | [The field is blanketed by fragment-fall that does not stop when the turn does.] | *All in range suffer Lament pressure for three turns in the glass rain; the weeping is audible through the seal for the whole of it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Lazy Drift* [**Debuff**] } | "It does not mesmerize and it does not catch the light on purpose — one large shard holding height, turning slowly, with the figure inside turning as it turns. People look because the pity is already looking at them." | [Brightness is not an identification; the light in this state is a reading about the room, and it rises near whoever is hurt in it.] | *Target suffers -10 Composure; what they see in the break is their own unlogged injury, read back to them.* **[10 Lament DMG [Lament]]** | When the drift crosses the bay. |
+| { *The Gathering* [**Debuff**] } | "It does not multiply and there is no orbiting constellation of sharp edges — there is one shard, and the fragments it sheds are inert, collected by hand and stored. What gathers is attention, and all of it lands on the person who is hurt." | [Eleven times the light has come up with nothing logged; eleven times somebody turned out to be injured.] | *Target loses 10 Composure; every direction they turn, the witnessing is already there.* **[10 Lament DMG [Lament]]** | When the target remains still and unreported. |
+| { *The Sudden Spin* [**Attack**] } | "It has never accelerated at anybody's face and never struck first — every injury recorded in this bay is a mirrored one. What turns sharply is the figure inside, toward the exact person who has just been hurt." | [Harm done under the Shard returns to the person who did it, matched in kind and in place; nothing here needs to move for that.] | *Inflicts Lament pressure — the cut, where one occurs, is the doer's own, returned.* **[14-22 Lament DMG [Lament]]** | When anything inside the bay is cut, struck or dropped. |
+| { *The Full Cluster* [**Attack**] } | "No cloud closes in; the shard does not converge on a point and has never moved toward a person. What converges is the room's record of itself — every injury in the bay becoming legible at once, to everyone standing in it." | [Pugnahan splits fragments away and raises the gauge; the fragments shed are collected within the shift and are never left overnight.] | *A heavy Deep Blue legibility; the target's Sorrow Gauge surges 15% under the weight of what can suddenly be seen and cannot be un-seen.* **[24-36 Lament DMG [Lament]]** | When the Shard is confronted, or when anything in the bay is struck. |
+| { *The Shard Constellation* [**Ultimate**] } | "The whole sky of it does not come down — it has never descended to the floor and the net above the heat column has never been contacted. What comes down is the sound: the bay warps in place and the weeping becomes audible across the whole Forge floor." | [Seal the bay and endure; the pressure pools in the chest of everyone inside, and stops when the work inside stops.] | *All in range suffer Lament pressure for three turns inside the sealed volume; the weeping is audible through the seal for the whole of it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Identification is made on two things and never on a third — the unsupported height against the painted scale, and the figure inside the crystal turning as the shard turns. Brightness is not an identification: the light is a reading about the room and rises near whoever is hurt in it. With the reading taken, the approach is set, the marked positions are manned and the floor beneath the volume is cleared before the cycle opens.
-2. **Clash:** Sixteen turns, worked from the marked standing positions at the edge of the bay. Nothing is broken, cut, struck or dropped anywhere inside the bay for the duration, including on unrelated equipment, and the team's own injuries are the thing being managed rather than the entity's reach.
+2. **Clash:** Twenty-four turns, worked from the marked standing positions at the edge of the bay. Nothing is broken, cut, struck or dropped anywhere inside the bay for the duration, including on unrelated equipment, and the team's own injuries are the thing being managed rather than the entity's reach.
 3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Do not dismiss the pain or promise impossible rescue** — the pity is left standing as what it is, nobody tells the figure it could not have helped, and the cycle closes on the clock.
 
 ### Consequences
@@ -157,7 +157,7 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
 | **First Target** | Whoever is nearest the volume it holds, which on a staffed bay means whoever has not yet reached the marked positions — the event does not seek anybody and has never moved toward a person. |
-| **Escalation** | Each turn the volume holds, the crying rises and Composure drains 5 further; the drain has never been observed to fall while anything is being cut, struck or thrown inside the seal, and it stops when the work inside the bay stops. |
+| **Escalation** | Each turn the volume holds, the crying rises and the will to continue thins further; the effect has never been observed to ease while anything is being cut, struck or thrown inside the seal, and it stops when the work inside the bay stops. No per-turn drain figure has ever been measured from inside a event. |
 
 ### Escalation Notes
 
@@ -268,7 +268,7 @@ All three pieces carry the Shard's one capability: they make suffering legible. 
 Floating Shard (C-IVδ-503 [N]) is a Subject-Phantasmal manifestation expressing Lament, held at Zone D, Forge District: a pale crystal aloft and unsupported with a figure inside it, formed from one Forge worker's compassion for people broken by the city, and brighter near injured personnel than at any other time.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Floats through Forge District and adjacent facilities. Personnel feel consuming pity and rage at suffering. Its fragments dissolve after an entity or person is acknowledged.
+Holds height over the Forge bay; it has never left it and never descended to the floor. Personnel feel consuming pity and rage at suffering. A shed fragment dissolves once the pain it holds has been acknowledged aloud by anybody at all.
 
 **Entry 3 — <Excerpt from Counseling Log>**
 The grief of seeing suffering clearly while lacking the power to change it.
@@ -447,7 +447,7 @@ The staff association's objection is minuted at every annual review. The adjudic
 - **Field detail:** Element Lament, registered to Zone D, Forge District, where the bay is netted above the heat column and the floor beneath the volume is kept clear.
 - **Recognition detail:** Identify it by the unsupported height and the figure that turns with the crystal; never by brightness, which is a reading about the room and not about the entity.
 - **Record detail:** This file should be read with the bay claims file beside it, because most of what this holding costs the wing is recorded there under headings that do not mention it.
-- **Containment detail:** Containment holds the volume and not the sorrow: even sealed, the Shard alters the local Han field beside it, and the adjacent holdings report dreams, headaches and gauge drift while it is aloft. The bay's own instrument is the brightness reading, which requires an injury to exist before it will say anything.
+- **Containment detail:** Containment holds the volume and not the sorrow: nothing has left the bay, the net above the heat column has never been contacted, and the floor beneath the volume is simply kept clear. The bay's own instrument is the brightness reading, which requires an injury to exist before it will say anything.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-503

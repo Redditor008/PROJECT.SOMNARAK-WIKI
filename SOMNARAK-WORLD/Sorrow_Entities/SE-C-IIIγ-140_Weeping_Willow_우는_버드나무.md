@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A massive, ancient willow of true living wood — bark furrowed and damp, limbs heavy and sweeping the ground — yet its leaves are not leaves but long, slow-falling tears of pale crystal that shatter silently on contact. Dark sap runs warm and salt-bitter from cracks in the trunk. The tree is unmistakably alive: it breathes, and shudders in wind no one else feels. |
-| **Movement** | Stationary — a body or drop of liquid. |
+| **Movement** | Stationary — living and rooted; the spread is at the root, and the saturated boundary moves outward only. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dripping Branches* [**Debuff**] } | "The willow weeps onto your shoulders — and the water is older than the tree." | [Sorrow-laden branches drape over the target; tears soak through.] | *Target suffers -10 Composure; the willow's grief is contagious.* **[10 Lament DMG [Lament]]** | When the target stands beneath the Willow. |
-| { *The Rooted Sorrow* [**Debuff**] } | "The roots are deep — and they connect to every grief this ground has ever held." | [The Willow's root-system channels old sorrow upward.] | *Target loses 10 Composure; the earth itself is weeping.* **[10 Lament DMG [Lament]]** | When the target lingers in the root-shadow. |
-| { *The Whipping Branch* [**Attack**] } | "A branch lashes down — heavy with water, heavy with years." | [A sodden branch strikes like a flail.] | *Inflicts Lament pressure and one soaking, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Willow is disturbed. |
-| { *The Full Weeping* [**Attack**] } | "The tree gives up its grief entirely — every leaf becomes a tear, and they fall like rain." | [The canopy lets go of everything at once, every leaf a separate ending, and the terrace is under it while it falls.] | *A heavy Deep Blue downpour; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Willow is cut or struck. |
+| { *The Dripping Branches* [**Debuff**] } | "The willow weeps onto your shoulders — and it was already mourning something of yours." | [Crystal tear-leaves settle on whoever sits beneath, and dissolve where the sitter has stayed with them; nothing drapes and nothing reaches for anyone.] | *-10 Composure to whoever remains beneath the canopy; the grief is not contagious, it is addressed.* **[10 Lament DMG [Lament]]** | When a sitter stays beneath the canopy while the fall is running. |
+| { *The Rooted Sorrow* [**Debuff**] } | "The roots damage nothing. They only make the ground stop drying." | [The saturated boundary passes its mark outward; visitors newly inside the line relive their own farewells without the shelter the canopy gives.] | *10 Composure lost by anyone crossing ground that has stopped draining; the new line is dated before the watch closes.* **[10 Lament DMG [Lament]]** | When somebody crosses into ground newly inside the saturated boundary. |
+| { *The Whipping Branch* [**Attack**] } | "The branches shudder in a wind nobody else feels." | [No branch lashes and the tree has never harmed anybody; the labour is the decision to stay upright and dry-eyed underneath a thing that is holding an ending of yours.] | *Lament pressure held as one long ache rather than a wound; workers who begin speaking of living people in the past tense are withdrawn.* **[14-22 Lament DMG [Lament]]** | When the band widens the longer a crew has been standing beneath the canopy. |
+| { *The Full Weeping* [**Attack**] } | "Every leaf down at once, and the break can be felt in the teeth." | [The fall thickens at a district-wide ending the terrace has been asked to hold; it is measured, not answered — nothing here is cut or struck and never has been.] | *A heavy Deep Blue downpour; the watching crew's gauge surges 15% while the boundary is re-marked and dated.* **[24-36 Lament DMG [Lament]]** | When a closure, clearance or unattended death lands on the district in a single day. |
 | { *The Drowned Grove* [**Ultimate**] } | "The willow's roots spread — and everywhere they reach, the ground weeps." | [The root line runs out past the terrace and the saturated boundary goes with it, taking the dry ground first.] | *All in range suffer Lament pressure for three turns in the weeping grove.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -98,7 +98,7 @@
 - Unresolved, it expands at the root rather than event: the saturated ground reaches further into the Gardens, and the terraces it reaches do not drain afterwards.
 
 ## Appearance
-**Physical Form:** A massive willow whose branches are made of crystallized tears. Its leaves fall like slow rain.
+**Physical Form:** A massive living willow whose branches carry pale crystal tear-leaves that shatter silently when they land. Its leaves fall like slow rain.
 
 **Notable Features:** It weeps continuously, stands where things have ended, and shelters mourners without being asked to. Its leaves dissolve where somebody has sat with them and persist where nobody has.
 
@@ -115,7 +115,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive willow whose branches are made of crystallized tears. Its leaves fall like slow rain. |
+| **Form** | A massive living willow whose branches carry pale crystal tear-leaves that shatter silently when they land. Its leaves fall like slow rain. |
 | **Position / movement** | Rooted and immovable; the growth is underground and slow. Record the saturated boundary against every previous mark, the canopy reach, the fall rate, and the day's occupancy. |
 | **Material / signature** | Lament. Living wood, furrowed damp bark, dark sap running warm and salt-bitter from trunk cracks; the leaves are pale crystal and shatter silently. The tree breathes and shudders in wind nobody else feels. |
 | **Distinctive markers** | Crystal leaves falling without wind, the permanently wet ground, warm salt sap, the silent shatter, and the dissolved-leaf pattern wherever somebody has sat. |
@@ -281,7 +281,7 @@ Nothing in the Willow set is gear. Each piece is a growth of the holding, taken 
 Weeping Willow (C-IIIγ-140 [LP]) is entered as a Place-Lament manifestation expressing Lament, held at SECTOR-D-02 in the Echo Gardens. It formed from the sorrow of endings; its leaves come down with or without wind, the ground beneath it stays wet, the break makes no sound, and the rate follows the district's week and not its weather.
 
 **Entry 2 — <Funerals and Departures>**
-It is most active around funerals and departures.
+The fall rate rises around funerals, closures and departures in the district, and rises highest around the ones nobody attends — which is why the nightly count, not the gauge, is the instrument on this holding: it lead the municipal register by three days across eleven years of comparison.
 
 **Entry 3 — <Beautiful Things That Must Close>**
 The grief of goodbyes, completed lives, and beautiful things that must close.

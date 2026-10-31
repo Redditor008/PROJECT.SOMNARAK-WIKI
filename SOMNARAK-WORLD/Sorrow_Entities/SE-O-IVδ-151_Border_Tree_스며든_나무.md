@@ -26,7 +26,7 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure** | Resilience — standing on divided ground without choosing a side |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | Creeping on its roots; the trunk's advance is confirmed by resurveying the same fixed markers across cycles, not by a stationary-object assumption |
-| **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that nothing here is exchanged: the Tree does not duel, it creeps and it grows, and a party resists the pressure of ground going out from under them. |
+| **Resistance** | 45% against Grudge pressure and 35% against anything else; nothing here is exchanged in a duel. The Tree creeps and grows while the party resists ground going out from under them. Work with accountable witnesses on both sides, keep an acknowledged non-hostile crossing open, and resurvey from the same fixed markers; resistance does not authorize sealing a route. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Grudge |
@@ -71,23 +71,23 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | Zone E, Border region |
-| **Resolution Condition** | Negotiate boundaries and acknowledge both sides of the loss |
+| **Resolution Condition** | State the line as it now runs, name people and losses on both sides, and hold one non-hostile crossing open and visibly used in both directions; read severed addresses where the protocol requires and record the condition for lowering any defense. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fast Seed* [**Debuff**] } | "A seed lands at your feet — and before you can step away, it is already a sapling, already reaching for your ankle." | [The growth rate is turned on a single spot, and the spot is wherever the party is standing.] | *The roots mark the ground as theirs: -1 to movement, and the sapling anchors where it fell.* **[1 Grudge DMG [Grudge]]** | When the party stops moving. |
-| { *The Root Network* [**Debuff**] } | "Roots spread underground — faster than walking — and they are heading for the foundations of everything." | [The subterranean line extends under the party's position, and the file records it as a border being drawn beneath their feet.] | *Foundations under the target are undermined: anything built on the ground below records -1 stability.* **[1 Grudge DMG [Grudge]]** | When a severance is published anywhere in Zone E. |
-| { *The Whipping Branch* [**Attack**] } | "A branch grows toward you in real-time — extending, reaching, and whipping." | [A limb is grown along the line the party is standing on and used to close it.] | *Inflicts Grudge pressure and one flowering lash-wound.* **[1 Grudge DMG [Grudge]]** | When the marker line is crossed. |
-| { *The Full Bloom* [**Attack**] } | "The tree reaches full size in seconds — canopy, trunk, root system — and the sudden mass is staggering." | [The whole mass arrives at once, and the staggering thing is the ground that is now under it.] | *A heavy Crimson biomass-explosion; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When the boundary is contested. |
-| { *The Instant Forest* [**Ultimate**] } | "Trees erupt across the entire field — each one growing to full size in seconds — and the forest consumes everything." | [The creep stops being measurable and becomes the ground: the whole field is inside a footprint that arrived in seconds.] | *Every worker in range takes Grudge pressure across 3 turns of instant forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Fast Seed* [**Debuff**] } | "A seed lands at your feet — and the survey says the roots were already coming for the place you chose to stand." | [A fixed station is placed inside the projected footprint and the slow root advance claims its ground.] | *The station's ground is marked unstable: -1 to movement around it. Move the station early, resurvey from fixed markers, and do not cut the roots to recover the position.* **[1 Grudge DMG [Grudge]]** | When a party installs a fixed station or marker inside the projected footprint without a current survey. |
+| { *The Root Network* [**Debuff**] } | "Roots spread underground — not fast enough to watch, and too surely to ignore." | [A new severance extends the subterranean line under foundations, recorded as annual frontage rather than a sudden attack.] | *Foundations record -1 stability. Resurvey both sides from fixed markers, read the newly severed addresses aloud, and keep the existing crossing open while losses are documented.* **[1 Grudge DMG [Grudge]]** | When a severance determination is published anywhere in Zone E. |
+| { *The Whipping Branch* [**Attack**] } | "A branch closes across the route you tried to take as though nobody lived beyond it." | [A branch-claw grows along the line to block an unnegotiated crossing; it does not pursue beyond the route.] | *Inflicts Grudge pressure and entangles the route. Withdraw to the shared-ground point, let witnesses from both sides confirm the passage, and cross only by the acknowledged route.* **[1 Grudge DMG [Grudge]]** | When a person attempts a unilateral crossing outside the agreed passage or tries to seal the route. |
+| { *The Full Bloom* [**Attack**] } | "The canopy darkens along the new line, and every doorway under it suddenly has a country on the other side." | [An imposed boundary accelerates growth along roads and doors; the mass is surveyed over the encounter, not created in seconds.] | *Heavy Grudge pressure across the contested frontage; no Gauge Jump is inferred. Suspend unilateral crossing, establish a shared-ground meeting point, document both losses, and negotiate a temporary route rather than forcing roots back.* **[24-36 Grudge DMG [Grudge]]** | When a new border conflict, forced displacement or unacknowledged boundary imposition occurs. |
+| { *The Instant Forest* [**Ultimate**] } | "By the next survey the whole field is inside the footprint, and every closed door has become another line." | [The cumulative footprint overtakes the field while sealed crossings give the roots new courses; “instant” is the discovery, not the growth rate.] | *Every worker in range takes Grudge pressure across three turns. Open and staff the agreed crossings, walk them in both directions before the trunk, and remove barriers rather than adding a cordon.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90% while crossings are being sealed or new barriers built. |
 
 ### Battle Phases
 
 1. **Tension:** The first job is a survey, not an approach: establish which side of the current boundary the party is standing on, map the roots already under the surface, and confirm Viderehan and Ferrehan as the only responses authorised here. Nothing on this file is sealed, because sealing anything is the one measure that reliably makes the holding worse.
-2. **Clash:** Over a long twenty-four-turn encounter the party works Viderehan and Ferrehan against 910 points of accumulated grievance while roots come up through the floor behind them; at 45% resistance to its own Grudge pressure the Tree cannot be out-damaged, only out-negotiated.
-3. **Resolution:** **Negotiate boundaries and acknowledge both sides of the loss**. The condition is met when the party has stated the line as it now runs, has named what was on each side of the original drawing, and has left without driving a marker of its own into the ground; a cycle that ends with something newly sealed is filed as a border drawn across the Tree, and the file treats that as a provocation, not a result.
+2. **Clash:** Over a long twenty-four-turn encounter the party works Viderehan and Ferrehan against 910 points of accumulated grievance while roots come up through the floor behind them; at 45% resistance to its own Grudge pressure the Tree cannot be out-damaged. It is answered by survey, two-side acknowledgement and a used crossing, not by claiming an unexecuted negotiation.
+3. **Resolution:** State the line as it now runs, name who and what stood on each side, and hold the agreed crossing open in both directions with witnesses accountable to both sides. The party leaves without driving a marker of its own or sealing a route; the walked crossing settles the encounter without pretending the eleven-year political negotiation has been completed.
 
 ### Consequences
 
@@ -177,7 +177,7 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 **Activation reporting order:** precipitating dispute → first structure entered → the crossing that became impassable → divided-belonging effects reported by personnel → metres gained → the boundary that was negotiated to stop it. The Tree does not respond to Flerehan or Pugnahan; there is nobody left in it to weep with or to confront.
 ## Breach Behavior
 
-> *"Border Tree is through the floor on the east side. Nobody seal anything. Cut at the root, not the limb."*
+> *"Border Tree is through the floor on the east side. Nobody seal anything. Open the crossing and walk it both ways; rescue cuts only for a bound person."*
 
 | Field | Detail |
 |---|---|
@@ -259,6 +259,8 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 
 All 3 pieces remain part of the Tree rather than extensions of an arsenal: the tanto raises a barrier and then refuses to let its own wielder back across it, the plate stiffens the wearer at the Tree's pace, and the charm makes every line in a room legible. The toll differs by piece but the shape is one — a bearer who can no longer step over what they drew — and the set is issued per season rather than per rotation for that reason.
 
+**Set resonance — Mutual Passage:** A full-set bearer must name people on both sides, the non-hostile route, and the condition for lowering the defense. The set can then raise a strong barrier against an immediate hostile crossing while preserving the negotiated passage, and the source root rises as a gate rather than a wall. The bearer cannot cross or order another person across the created boundary until both sides confirm the lowering condition; unilateral control binds the bearer to the same line.
+
 ### Field Use Record
 
 | Stage | Required record |
@@ -300,7 +302,7 @@ Border Tree (O-IVδ-151 [GP]) is a Place-Grudge manifestation expressing Grudge,
 
 **Entry 2 — <Survey Marker Log, Zone E Perimeter>**
 Frontage taken, measured from fixed markers by two parties who do not confer: 14 metres, then 23, now 34 in the year. The advance follows the course of the Year 4186 instrument, not the terrain and not the current boundary, and it reaches markers in the order the instrument names them. Crimson leaf-fall accompanies every new severance determination published by the Office, within a day, which the watch has logged forty-one times.
-Its leaves fall during border negotiations.
+Leaf-fall is logged against severance determinations, not against negotiation sessions, and no reading has yet shown the advance negotiating back.
 
 **Entry 3 — <Resettlement Interview, Transcribed>**
 *You can see it from here. That roof with the grey course under it. No, it is not damaged. Nobody is living in it, they have it shut up. I asked what I was owed and the man was decent about it, he went through the paper with me twice, and he was right: nothing was taken. It is standing there. That is the point, that it is standing there.*
@@ -429,7 +431,7 @@ The crimson matter the Tree produces is collected where it falls outside the cor
 
 ### Entanglement
 
-In a breach it sends roots through the floor and binds personnel, and release is by cutting at the root rather than at the limb — a distinction established the hard way and set out in the response card with a diagram. Cutting equipment is staged at the cordon and at each monitoring station, is inspected weekly, and is the only item in the district that the watch is required to count aloud at handover. The counting is done aloud because an item counted silently has twice been counted wrong.
+In a breach it sends roots through the floor and binds personnel. Cutting at the root is retained only to release a bound person; it is never Work, containment or a way to recover ground. Any rescue cut is entered as a new line drawn across the Tree, with its own expansion forecast, and cutting equipment staged at the cordon and stations is inspected weekly and counted aloud at handover because an item counted silently has twice been counted wrong.
 
 ### Re-siting
 

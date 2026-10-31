@@ -1,0 +1,1266 @@
+{
+  "schema_version": 1,
+  "batch": 205,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md",
+      "words": 7943,
+      "sha256": "31331e091c47a11d550bd070669d600b3cabb82dfd62066ba443fbaaf333c472",
+      "prior_batch": 147,
+      "shape": "Subject"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIβ-119",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md",
+      "words": 6946,
+      "sha256": "ca580a496f224b42ee76762b21876f7434680f3ee754bee2b0421356e6d57c28",
+      "prior_batch": 148,
+      "shape": "Non-Subject"
+    },
+    {
+      "unit": 3,
+      "designation": "N-Iα-518",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md",
+      "words": 8458,
+      "sha256": "8612840b0c64042e6665619162e550671cbccbc5b621fbd8808cf095098486b5",
+      "prior_batch": 148,
+      "shape": "I-Relic"
+    },
+    {
+      "unit": 4,
+      "designation": "C-Iα-884",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md",
+      "words": 6379,
+      "sha256": "ac9ee1354ef580bd963ab9be57c0759cd49e29b741c99c25851214e654a6aa82",
+      "prior_batch": 146,
+      "shape": "O-Relic"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIβ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-290_Broken_Compass_부서진_나침반.md",
+      "words": 7668,
+      "sha256": "6b89745a045aba4bfae9edf6ac5bc1838c62ca7f46cefe73123a0934248c587d",
+      "prior_batch": 155,
+      "shape": "A-Relic"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 5,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "N-IVδ-909",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md",
+      "words": 7943,
+      "sha256": "31331e091c47a11d550bd070669d600b3cabb82dfd62066ba443fbaaf333c472",
+      "prior_batch": 147,
+      "shape": "Subject",
+      "name": "Dormant Monolith",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_01_DORMANT_MONOLITH.md",
+      "before_words": 7943,
+      "after_words": 8232,
+      "base": "ea83bd3dee28dc5cb2e24cfda3bf793d7213c313",
+      "final_sha256": "8e85078e5e2b54e2a27abfed25ba22507e37384850e541e2a6daed7868677365",
+      "summary": "HELD +0 — 18 repairs take the physics out of a pillar that only stands inside people.",
+      "commentary": "The unseen pale column is a stronger body than a literal sleepy stone man, and the rota remains the most honest containment document in the archive: it works by telling people to go home.",
+      "reasoning": "The Pillar exists only where somebody is already carrying too much, so every harmful row now begins from a checkable duty event — first noticed obligation, returned obligation, forced set-down, attempted escape from one's past, declined relief — never from nearness to an object that is not in the room.\n\nContainment is the rota, so protection is stated as ordered relief and named muster rather than resistance arithmetic.\n\nB147's corridor-transition and waking-threshold holds were retested against the full file and remain genuinely undecidable; they are carried, not cosmetically resolved.",
+      "history": "Batch 118 already earned this set's equipment credits and B147 made a limited pre-R-34 mental-form repair; this R-34 recheck claims no fresh Types, Weapon or SE credit. HELD +0.",
+      "holds": [
+        "Mind-to-mind breach spread versus corridor-filling Transformation Response. Held.",
+        "Never fully woken versus two waking events and 410 executed declines. Held.",
+        "Basalt sword/shield forms versus chime greatsword and Lens naming. Held.",
+        "Named family submission versus nobody-left-to-name origin. Held."
+      ],
+      "split": [
+        8,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-composure-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — identity and memory cohesion under duties that will not end |"
+        },
+        {
+          "id": "R02-speed-stationary",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | N/A — stationary within consciousness and never observed to move; spread is measured in declined reliefs, not metres |"
+        },
+        {
+          "id": "R03-valid-work-pugnahan-escalation",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan and Ferrehan; Viderehan lists the duties (Stable). Pugnahan raises the Pillar through the worker's thoughts and is logged as an escalation, not an attack. |"
+        },
+        {
+          "id": "R04-tension-grammar",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "1. **Tension:** Identification first — Dormant Monolith is recognised by there are no physical markers to work from.",
+          "new": "1. **Tension:** Identification first — for Dormant Monolith there are no physical markers to work from."
+        },
+        {
+          "id": "R05-entry1-duplication",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Dormant Monolith (N-IVδ-909 [N]) is a Subject-Mind manifestation expressing Void, held at the Border region in Zone E. It stands for duties that never ended, and it has never fully awakened: no obligation that has been put into it has ever come back out lifted. The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.",
+          "new": "Dormant Monolith (N-IVδ-909 [N]) is a Subject-Mind manifestation expressing Void, held at the Border region in Zone E. It stands for duties that never ended, and it has never fully awakened: no obligation that has been put into it has ever come back out lifted. The Pillar formed from responsibility that became a permanent mental structure."
+        },
+        {
+          "id": "R06-trivia-stray-pipe",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a Mind-type holding that has never struck anybody and cannot be lifted off the worker carrying it. |",
+          "new": "- **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a Mind-type holding that has never struck anybody and cannot be lifted off the worker carrying it."
+        },
+        {
+          "id": "R07-resistance-rota-protection",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45 per cent against Void pressure and 35 against everything else, which for a holding that stands still in the worker's own thinking is a formality: there is nothing to strike and nothing striking. The gauge opens at 950 and trips at 90 per cent, and the drain runs 5 Clarity per turn while it is unopposed. |",
+          "new": "| **Resistance** | 45 per cent against Void pressure and 35 against everything else, which for a holding that stands still in the worker's own thinking is a formality: there is nothing to strike and nothing striking. The gauge opens at 950 and trips at 90 per cent, and the drain runs 5 Composure per turn while it is unopposed. Working protection is the rota: one observer, relief issued as an order, and a declined relief executed anyway. |"
+        },
+        {
+          "id": "R08-settling-first-sign",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Settling* [**Debuff**] } | \"The pillar sinks — slowly, in its sleep — and the structure above groans and shifts.\" | [The Pillar's settling destabilizes everything above; the target feels the structural failure.] | *Target suffers a Void mark; the supports are failing in their dreams.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands near the Pillar. |",
+          "new": "| { *The Settling* [**Debuff**] } | \"The pillar sinks — slowly, in its sleep — and the structure above groans and shifts.\" | [Nothing moves in the room. Inside the observer's thinking a pale column settles its weight onto the duties already standing there.] | *The worker loses Composure and identity cohesion. Record the newly noticed obligation verbatim; the second worker, not the observer, owns the clock and the relief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the first sign occurs: the observer becomes aware of an obligation they had not thought about that day. |"
+        },
+        {
+          "id": "R09-dreaming-foundation-returned-duty",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dreaming Foundation* [**Debuff**] } | \"The pillar dreams of bearing impossible weight — and the dream is so vivid the weight becomes real.\" | [The Pillar's dream-weight presses on the target; phantom mass from a sleeping mind.] | *Target loses clarity; the sleeping support is generating real gravity.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |",
+          "new": "| { *The Dreaming Foundation* [**Debuff**] } | \"The pillar dreams of bearing impossible weight — and the dream is so vivid the weight becomes real.\" | [The shadow reaches a forgotten room and returns a real obligation — a debt, a visit never made, a promise — verified accurate against outside records.] | *The worker loses Composure under weight with no physical source. Log the returned obligation and offer administrative time after the watch; do not act on it from inside the exposure.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the shadow reaches a forgotten room and an obligation the worker had genuinely lost returns. |"
+        },
+        {
+          "id": "R10-sleep-twitch-set-down-attempt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sleep-Twitch* [**Attack**] } | \"The pillar spasms in its sleep — a violent, involuntary shift that cracks the floor.\" | [An involuntary structural convulsion strikes.] | *Inflicts Void damage; the dream-spasm warps space.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is touched. |",
+          "new": "| { *The Sleep-Twitch* [**Attack**] } | \"The pillar spasms in its sleep — a violent, involuntary shift.\" | [Confrontation reads as an attempt to put the duties down, and the Pillar rises through the worker's thoughts without hostility and without stopping.] | *Heavy Void pressure on identity cohesion. Stop confronting: ground the worker, let grief through under Flerehan or rest under Ferrehan, and log the attempt as an escalation.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When Pugnahan or any attempt to force the duties down is made against the Pillar. |"
+        },
+        {
+          "id": "R11-full-awakening-escaping-history",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Awakening* [**Attack**] } | \"The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is.\" | [The whole weight the pillar has been holding comes back through it at once, and every duty standing on it changes hands in the same moment.] | *A heavy Void convulsion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is forced awake. |",
+          "new": "| { *The Full Awakening* [**Attack**] } | \"The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is.\" | [The whole weight the pillar has been holding comes back through it at once, and every duty standing on it changes hands in the same moment.] | *A heavy Void convulsion through the worker's identity. The counselor asks in plain words what the worker is trying to leave behind; relief is then issued as an order, not offered as an escape.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a duty-bearer attempts to step out from under their own past instead of accepting ordered relief. |"
+        },
+        {
+          "id": "R12-waking-structure-threshold-refusal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Waking Structure* [**Ultimate**] } | \"Every pillar in the field wakes — and the combined realization of structural burden collapses everything.\" | [The duties stop being one worker's post: the waking spread puts every obligation in the Border region into whoever is nearest to it.] | *All in range suffer Void erosion for three turns of waking supports.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Waking Structure* [**Ultimate**] } | \"Every pillar in the field wakes — and the combined realization of structural burden collapses everything.\" | [The duties stop being one worker's post: the waking spread puts every obligation in the Border region into whoever is nearest to it.] | *All exposed suffer Void erosion for three turns. Establish the rotation by order before anything else, muster by name at fixed points, and send the response leader home first if their relief is due.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 90% threshold with a relief declined in the Border region. |"
+        },
+        {
+          "id": "R13-breach-effect-mind-spread",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |\n| **Secondary Effect** | An absence that eats the edges of reality. |",
+          "new": "| **Effect** | The Pillar stands in one more mind, then another: exposed workers report emptiness, then a full room they are not allowed to leave, and the roster begins showing one name volunteering every time. |\n| **Secondary Effect** | Duties transfer to whoever is nearest to them — in this facility, the worker longest on post. Shadow depth tracks declined reliefs, never elapsed hours. |"
+        },
+        {
+          "id": "R14-shield-stabilize-not-lift",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Holds the bearer's footing in one place — perception slows by enough to hear the post's own duties being listed — and keeps the weight of them off the wearer while the shield is set.",
+          "new": "**Ability:** Slows time perception and stabilizes the wearer — the pillar's stillness lent out as composure, slow enough to hear the post's own duties being listed. It does not keep their weight off: nothing on this file lifts a duty off its named holder, and the wearer feels every duty they have postponed while the shield is set."
+        },
+        {
+          "id": "R15-flavor-first-contact-obligation",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**At first contact:** The first thing you notice is not the entity itself but the change in the air — the way the Han thickens or thins around Subject-Mind, pressing or releasing like a tide. Then the form resolves: A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms. The space does not become generic; it shifts in the specific register of Void.",
+          "new": "**At first contact:** The first thing you notice is not the entity but an obligation you had not thought about that day. Only then does the form register: a pillar-shaped presence sleeping inside your own consciousness, pale-surfaced, its shadow reaching into forgotten rooms. The air, the room and the colleague beside you are unchanged, and the colleague sees nothing at all."
+        },
+        {
+          "id": "R16-flavor-activation-relief",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**When the entity activates:** The Gauge tips. The Subject-Mind does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.",
+          "new": "**When the entity activates:** Somebody declines a relief. Nothing becomes louder or faster and nothing in the room changes; the pillar simply stands a little deeper in the thinking of whoever is still on post, and the roster is where an outsider would see it first."
+        },
+        {
+          "id": "R17-field-detail-stray-pipe",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Field detail:** Void is its element and the Border region of Zone E is its registered ground — held there standing, asleep, and shared out rather than contained. |",
+          "new": "- **Field detail:** Void is its element and the Border region of Zone E is its registered ground — held there standing, asleep, and shared out rather than contained."
+        },
+        {
+          "id": "R18-flavor-not-waiting",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "A pillar rises inside your mind, holding up a ceiling no one else can see. You are tired, but the Pillar does not know how to lie down. It waits for permission to stop carrying what the living keep placing on it.",
+          "new": "A pillar rises inside your mind, holding up a ceiling no one else can see. You are tired, but the Pillar does not know how to lie down, and nothing in it asks permission to stop carrying what the living keep placing on it."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.025  clean    79 grams  Operational Parameters\n 0.023  clean   177 grams  최종 관찰 (Final Observation)\n 0.021  clean   282 grams  Appearance\n 0.017  clean   240 grams  관찰 기록 (Observation Log)\n 0.010  clean   825 grams  Combat Record\n 0.009  clean   331 grams  기록 (Registrum)\n 0.009  clean   798 grams  M.A.W. Equipment\n 0.003  clean   573 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1315 grams  Apex Record\n 0.000  clean   381 grams  이야기 (Narratio)\n 0.000  clean   259 grams  이야기 보고 (Story Log)\n 0.000  clean   190 grams  Origin\n 0.000  clean   175 grams  Trivia\n 0.000  clean   174 grams  Breach Behavior\n 0.000  clean   158 grams  Behavior\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   6  | { *The Waking Structure* [**Ultimate**] } | \"Every pillar in the field wakes — and the combined realization of structural burden\n   89   2  1. **Tension:** Identification first — for Dormant Monolith there are no physical markers to work from. Identify it by the conditi\n  122   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; the wrong entity is the wron\n  241   7  | **At limit** | Stop on a refused relief or first-person retelling, or when a source response repeats outside contact. A named wi\n  267   4  **Observation method:** Record the first sign, which is the observer becoming aware of an obligation they had not thought about th\n  291   1  > Two ways to close a watch at the Border post, and the file's own rota shows the difference inside a fortnight: one leaves a rota\n  293   3  | Ground the worker, establish a rotation of duty and enter it in the rota sheet — the file's own condition, with the post handed \n  323   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  380   3  **Review requirement:** Re-verify after any Sorrow Tide, after any breach in the Border region, and after any change to the duty r\nGENERIC 0.006  (36 shared shingles)  SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-A__SIDE_CODEX_Dormant_Monolith.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-B__MAW-W_Dormant_Monolith_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-C__MAW-S_Dormant_Monolith_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-D__MAW-G_Dormant_Monolith_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-A__SIDE_CODEX_Dormant_Monolith.md": "3b335d5b78045dcede1f68cb0432d75208f66bebe9b5c8ab5b8b41ec1281eff2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-B__MAW-W_Dormant_Monolith_Lens.md": "8a99494531c4ad5b4798fbb6f2495cbeb35e6c7ec147f478560c4fba8fddcf98",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-C__MAW-S_Dormant_Monolith_Shield.md": "8df1e87b9a8db628da714b7c9f2e199991260f6b11c8debfc4d6c56a065e96a2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/909_Dormant_Monolith/SE-909-D__MAW-G_Dormant_Monolith_Charm.md": "3e07abec9402edc64ebd72ea3d00056b12c6c826c63f9ae7e64829b03c59b9c1"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-909_Dormant_Monolith_잠든_기둥](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md \"SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md\")]",
+      "table_link": "[[N-IVδ-909 Dormant Monolith](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-909_Dormant_Monolith_%EC%9E%A0%EB%93%A0_%EA%B8%B0%EB%91%A5.md \"SE-N-IVδ-909_Dormant_Monolith_잠든_기둥.md\")]",
+      "reading": "R-34 recheck of B147_02: complete frozen primary at 462 lines / 7,943 words, complete direct SE-909-A/B/C/D, Registry rows 995-998, and the B147 receipt read as a claim to check. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 241,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from 65% (inside the 60-80% opening band) to the file's 90% threshold with a declined-relief condition; locomotion speed removed for a stationary Subject-Mind."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIβ-119",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md",
+      "words": 6946,
+      "sha256": "ca580a496f224b42ee76762b21876f7434680f3ee754bee2b0421356e6d57c28",
+      "prior_batch": 148,
+      "shape": "Non-Subject",
+      "name": "Homeless Sorrow",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_02_HOMELESS_SORROW.md",
+      "before_words": 6946,
+      "after_words": 7348,
+      "base": "bd556e179ec59d1285e63142339ecfbfaa5d859d",
+      "final_sha256": "5a3eeb57dc35dfc8a297758e87e95b20da26c441be2f3beeb1f88038697ea092",
+      "summary": "HELD +0 — 26 repairs make the wandering shadow act on departures and reallocations, never on pursuit.",
+      "commentary": "A works schedule repeatedly undoing a rostered chair remains more unsettling than a hunting shadow, and the file is at its best when it trusts that.",
+      "reasoning": "This file is the Non-Subject-shaped recheck because its operational role is Object/Place while SECC still says Subject; the recheck preserves that dispute instead of letting either label silently win.\n\nEvery harmful row now begins from a place event — unacknowledged departure, reassignment, unwitnessed overlap, eviction by light, sector reallocation — because the shadow does not chase anybody; it has been left nowhere to stay.\n\nThe set's shared symptom (address language eroding) is separated from its three distinct costs, and the Veil is demoted from load-bearing dependency to optional witnessed support.",
+      "history": "Batch 90 already reviewed the Weapon title/form pair and Batch 136/148 revisited without credit; this R-34 recheck claims no fresh credit. HELD +0.",
+      "holds": [
+        "Subject versus Object/Place classification. Held — the central B148 hold, retested and still undecidable.",
+        "Kukri versus Lens weapon identity/forms. Held.",
+        "Per-shift versus per-hour reduction and room-assignment dates. Held.",
+        "Veil colour and Hearth material conflicts. Held."
+      ],
+      "split": [
+        12,
+        14
+      ],
+      "repairs": [
+        {
+          "id": "R01-grade",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Tool / M.A.W. grade** | — · — |",
+          "new": "| **Tool / M.A.W. grade** | β · β (Moderate) |"
+        },
+        {
+          "id": "R02-pressure-clarity-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Clarity — the worker's hold on where they belong and which rooms are theirs to be in |"
+        },
+        {
+          "id": "R03-pressure-clarity-combat",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Composure |",
+          "new": "| **Primary Pressure** | Clarity |"
+        },
+        {
+          "id": "R04-clash-light-low",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "2. **Clash:** The session is held in the assigned room with the lights at working level and no higher.",
+          "new": "2. **Clash:** The session is held in the assigned room with the lamp on its low setting and no higher."
+        },
+        {
+          "id": "R05-escalation-not-always-empty",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Escalation here is a relocation, and it is always preceded by an empty room.",
+          "new": "Escalation here is a relocation, and it is almost always preceded by an empty room, a room taken back, or a room flooded with light."
+        },
+        {
+          "id": "R06-containment-no-standard",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Standard R.D. containment protocols apply.",
+          "new": "- No pursuit and no floodlighting: Flerehan and Pugnahan are invalid for this record, and both recorded light-driving attempts spread it through connected rooms."
+        },
+        {
+          "id": "R07-observation-note-substance",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- See Combat Record for engagement history.",
+          "new": "- Eleven shadow-thefts in nine years, every one recovered within a day; no fatalities and no permanent injury."
+        },
+        {
+          "id": "R08-trivia-contained-sense",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- **Containment detail:** It is not contained and is not fixed. It stays because somebody is there; the whole of the measure is an assigned room, a low lamp, and a chair that is rostered rather than volunteered for.",
+          "new": "- **Containment detail:** It is contained only in the administrative sense, and it is not fixed. It stays because somebody is there; the whole of the measure is an assigned room, a low lamp, and a chair that is rostered rather than volunteered for."
+        },
+        {
+          "id": "R09-resistance-occupancy",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Void. There is nothing solid to resist; it is cold dense shadow with no fixed shape, and the two attempts to drive it with light are recorded under Escalation rather than here. |",
+          "new": "| **Resistance** | 25% against Void as a pressure rating only — there is no solid target to strike and confrontation is invalid for this record. Working protection is occupancy: a witnessed dim room with an open exit, a threshold witness who can name the sitter, and no pursuit or floodlighting, both of which spread it instead of resisting it. Drain rises by 5 for each space cleared or reallocated while it is loose. |"
+        },
+        {
+          "id": "R10-following-unacknowledged-departure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Following* [**Debuff**] } | \"Your shadow moves when you do not — just a little, just enough to notice.\" | [The Shadow detaches and follows the target independently.] | *Target suffers a Void mark; their shadow is no longer theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shadow separates. |",
+          "new": "| { *The Following* [**Debuff**] } | \"Your shadow moves when you do not — just a little, just enough to notice.\" | [The shadow attaches to the departing worker's own shadow; it is not chasing, it has been left nowhere to stay.] | *The worker suffers a Void mark and Clarity loss — their shadow is no longer only theirs. A threshold witness names the worker, the room and its exit; the departure is entered as a short shift, with the reason unassessed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker leaves the assigned room before relief arrives, or departs unacknowledged. |"
+        },
+        {
+          "id": "R11-lengthening-rota-rule",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Lengthening* [**Debuff**] } | \"It is in the next room before you are, and it was not there when you looked.\" | [The shadow precedes anybody who is moving on, which is the only circumstance in which it moves first.] | *1 Void. The worker arrives somewhere new and finds it already occupied.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker who has been reassigned to a new workspace walks to it. Reliable enough that the works office is consulted before the rota is drawn. |",
+          "new": "| { *The Lengthening* [**Debuff**] } | \"It is in the next room before you are, and it was not there when you looked.\" | [The shadow precedes anybody who is moving on, which is the only circumstance in which it moves first.] | *1 Void and Clarity loss. The worker arrives somewhere new and finds it already occupied. Workers moved between workspaces in the last month are taken off this rota, because they are followed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker who has been reassigned to a new workspace walks to it. Reliable enough that the works office is consulted before the rota is drawn. |"
+        },
+        {
+          "id": "R12-cold-touch-overlap",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cold Touch* [**Attack**] } | \"The shadow touches your shadow — and where they overlap, you go cold.\" | [The Shadow merges briefly with the target's, draining warmth.] | *Inflicts Void damage; a portion of the target's presence stolen.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shadow catches up. |",
+          "new": "| { *The Cold Touch* [**Attack**] } | \"The shadow touches your shadow — and where they overlap, you go cold.\" | [Where the worker's shadow crosses the settled dark in an unwitnessed room, the two overlap and the warmth leaves.] | *Heavy Void damage to Clarity; a portion of the worker's presence and entitlement to the room is taken. Sit down, name the room, its exit and the witness outside it; do not flood the space with light.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a followed worker enters an unwitnessed room and their shadow overlaps the shadow waiting there. |"
+        },
+        {
+          "id": "R13-swallowed-no-surge",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Swallowed Shadow* [**Attack**] } | \"You cast nothing, in a room with a lamp in it.\" | [The target's own shadow is taken and does not return for some hours.] | *3 Void and a 15% Gauge surge; the eleven affected workers all describe the loss as the moment they stopped feeling entitled to be in the building.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When it is driven, lit, or ordered out of a room. |",
+          "new": "| { *The Swallowed Shadow* [**Attack**] } | \"You cast nothing, in a room with a lamp in it.\" | [The target's own shadow is taken and does not return for some hours.] | *3 Void. The eleven affected workers all describe the loss as the moment they stopped feeling entitled to be in the building. Stop driving it: reopen the assigned room dim and witnessed and let the shadow return on its own.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When it is driven, lit, or ordered out of a room. |"
+        },
+        {
+          "id": "R14-shadowless-threshold-reallocation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Shadowless* [**Ultimate**] } | \"Nobody in the sector casts one, and the lamps go on working perfectly.\" | [Every shadow in the zone is taken at once for the duration.] | *2 Void per cycle for three cycles to everyone in the sector.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Above 65%, once, in the week the sector's lower offices were reallocated — nineteen rooms in four days. |",
+          "new": "| { *Shadowless* [**Ultimate**] } | \"Nobody in the sector casts one, and the lamps go on working perfectly.\" | [Every shadow in the zone is taken at once for the duration.] | *2 Void per cycle for three cycles to everyone in the sector. Freeze further reallocations where the Warden can, keep B-116 occupied with the lamp low, and post witnesses at thresholds rather than clearing rooms. Recorded once, in the week nineteen rooms changed hands in four days.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥60% activation threshold while sector spaces are being reallocated, cleared or repurposed. |"
+        },
+        {
+          "id": "R15-tension-witness-not-no-equipment",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "1. **Tension:** The worker goes to the assigned room, confirms the lamp is on its low setting, and sits down. There is no perimeter and no equipment; the preparation consists of deciding to stay.",
+          "new": "1. **Tension:** The worker goes to the assigned room, confirms the lamp is on its low setting, and sits down. There is no perimeter to build; the preparation is naming the room, its exit and the threshold witness — and deciding to stay. The M.A.W. set is optional support, never a substitute for the occupancy itself."
+        },
+        {
+          "id": "R16-consequences-piece-costs",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The set's toll is a loss of address. Wielders stop being able to say which rooms are theirs to be in — not confusion about the building, which they navigate perfectly, but about permission.",
+          "new": "- The set's common detectable symptom is a loss of address in the wielder's wording, but the costs are not pooled: the Weapon takes small nameless memories, the Veil leaves the wearer faintly absent and calling home *the accommodation*, and the Hearth hands the settled grief to its bearer when the light goes out."
+        },
+        {
+          "id": "R17-breach-effect-belonging",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Effect** | Identity and memory begin to dissolve, draining clarity. |",
+          "new": "| **Effect** | Occupied rooms acquire the stillness of a place everyone has already abandoned; personnel lose Clarity and feel their mourning — and then themselves — has no address in the building. |"
+        },
+        {
+          "id": "R18-response-sequence-keep-occupied",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**Response sequence:** hold the corridor without lighting it, confirm the event is an expansion rather than an activation, withdraw personnel who have been reassigned to a new workspace in the last month — they are followed, reliably enough that the works office is now consulted before the rota is drawn — and remove nonessential personnel, and apply this condition: Give the sorrow a witnessed location; do not flood the area with light. Do not use an unlisted Work Type as an improvised countermeasure.",
+          "new": "**Response sequence:** hold the corridor without lighting it, confirm the event is an expansion rather than an activation, and keep the assigned room occupied — do not clear rooms, which is the trigger. Take personnel reassigned to a new workspace in the last month off this rota, since they are followed, and apply this condition: give the sorrow a witnessed location; do not flood the area with light. Do not use an unlisted Work Type as an improvised countermeasure."
+        },
+        {
+          "id": "R19-veil-held-room",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to sit in an unlit room with it for a full shift and still know where they live.",
+          "new": "**Ability:** *Held Room* — strongly resists Void inside one witnessed location by making the room feel inhabitable rather than abandoned. When the threshold witness names the wearer and confirms an open exit, the Veil repels one wave of room-to-room drift. It supports the occupancy; it is not what makes sitting the shift possible, and it needs the second person at the doorway."
+        },
+        {
+          "id": "R20-hearth-consent",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Creates a small area where displaced sorrow can settle safely.",
+          "new": "**Ability:** *Let It Settle* — creates a small low-light area where displaced sorrow can settle, only while a person consents to remain in the circle and a follow-up witness has accepted the later account. It cannot confine anyone or substitute for actual shelter."
+        },
+        {
+          "id": "R21-use-notes-distinct-costs",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Every piece in this set takes the same thing in the same order: the wielder's sense of having a place. It is slow, it does not impair work, and it is detectable only in word choice — *the accommodation*, *the room I'm in at the moment*, *wherever they put me next*. The Armoury's check is a transcript of the wielder talking about where they live, taken at issue and again at return, read by somebody who is not their supervisor.",
+          "new": "Every piece in this set is betrayed by the same symptom — the wielder's sense of having a place eroding in their wording: *the accommodation*, *the room I'm in at the moment*, *wherever they put me next*. The costs underneath stay piece-specific (nameless memories; faint absence; the settled grief carried after the light goes out) and must be logged separately. The Armoury's check is a transcript of the wielder talking about where they live, taken at issue and again at return, read by somebody who is not their supervisor."
+        },
+        {
+          "id": "R22-final-observation-fail",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "| Follows the worker until they can remain in darkness. The sorrow is seen clearly; Homeless Sorrow is fully recorded. | Reveals traces of those who passed through. The gauge climbs and Homeless Sorrow withdraws without revelation. |",
+          "new": "| Follows the worker until they can remain in darkness. The sorrow is seen clearly; Homeless Sorrow is fully recorded. | The raised light drives it into corners and connected unwatched spaces. The gauge climbs on the empty room, and the station spends the following days finding it again in other people's offices. |"
+        },
+        {
+          "id": "R23-unattended-usual-path",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- An unattended room is this holding's only real escalation path, and it is a slow one:",
+          "new": "- An unattended room is this holding's usual escalation path, and it is a slow one:"
+        },
+        {
+          "id": "R24-breach-banner-follows",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "> *\"Homeless Sorrow has broken free. Stalks personnel from their own shadows.\"*",
+          "new": "> *\"Homeless Sorrow has broken free. It follows personnel in their own shadows.\"*"
+        },
+        {
+          "id": "R25-stat-interp-earliest-cost",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Stat interpretation:** A β-grade set whose cost is a single changed word and whose carrier never notices it.",
+          "new": "**Stat interpretation:** A β-grade set whose earliest detectable cost is a single changed word and whose carrier never notices it."
+        },
+        {
+          "id": "R26-observation-word-home",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- Three pieces; the cost is the word *home*, and the check is a transcript rather than an examination.",
+          "new": "- Three pieces; the first detectable cost is the word *home*, and the check is a transcript rather than an examination."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.023  clean   129 grams  Trivia\n 0.016  clean   252 grams  관찰 기록 (Observation Log)\n 0.015  clean   194 grams  Breach Behavior\n 0.010  clean   583 grams  Appearance\n 0.010  clean   797 grams  Combat Record\n 0.004  clean   566 grams  감각 묘사 (Flavor Text)\n 0.000  clean   510 grams  M.A.W. Equipment\n 0.000  clean   369 grams  이야기 보고 (Story Log)\n 0.000  clean   342 grams  이야기 (Narratio)\n 0.000  clean   330 grams  기록 (Registrum)\n 0.000  clean   220 grams  Watch Record\n 0.000  clean   210 grams  Expansion Behavior\n 0.000  clean   183 grams  Operational Parameters\n 0.000  clean   156 grams  Origin\n 0.000  clean   106 grams  Behavior\n 0.000  clean    77 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    38 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   84   8  | { *Shadowless* [**Ultimate**] } | \"Nobody in the sector casts one, and the lamps go on working perfectly.\" | [Every shadow in th\n  121   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more tha\n  203   3  - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each space reallocated, cleared or repurposed in the sector while it \n  301   4  **Observation method:** Record the first sign, which is a room going cold from the corners; the first sensation, which is the impu\n  355   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  441   3  - **Record detail:** Check the designation before approach. More than one record in this district is made of displacement, and the\nGENERIC 0.005  (26 shared shingles)  SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-A__SIDE_CODEX_Homeless_Sorrow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-C__MAW-S_The_Shadow_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-D__MAW-G_The_Shadow_Hearth.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-A__SIDE_CODEX_Homeless_Sorrow.md": "26c8f244a6eece2ed47009dce50de4c7c54db6dc03090fa8068d4f1f2a556d90",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Lens.md": "28b7e4b4abf5fd902fffc77a7d4b360d401b43c54fb7c10b99a2a037789cf83b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-C__MAW-S_The_Shadow_Veil.md": "bf9045c586026db188c43bef1d06214cc4aa65a52f80f4cb45f96485bc348596",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-D__MAW-G_The_Shadow_Hearth.md": "d669d6cdecacae8c0c422e0e41a72df2e827d169d302b96a282e73c2bd1a2940"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-119_Homeless_Sorrow_%EB%96%A0%EB%8F%84%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\")]",
+      "table_link": "[[O-IIβ-119 Homeless Sorrow](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-119_Homeless_Sorrow_%EB%96%A0%EB%8F%84%EB%8A%94_%EA%B7%B8%EB%A6%BC%EC%9E%90.md \"SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md\")]",
+      "reading": "R-34 recheck of B148_01: complete frozen primary at 448 lines / 6,946 words, complete direct SE-119-A/B/C/D, Registry rows 358-361, and the B148 receipt treated as claims to verify. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 241,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate anecdotal above-65% trigger replaced by the file's ≥60% activation threshold during reallocations."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "N-Iα-518",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md",
+      "words": 8458,
+      "sha256": "8612840b0c64042e6665619162e550671cbccbc5b621fbd8808cf095098486b5",
+      "prior_batch": 148,
+      "shape": "I-Relic",
+      "name": "Life Behind Glass",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_03_LIFE_BEHIND_GLASS.md",
+      "before_words": 8458,
+      "after_words": 8760,
+      "base": "f19b89103dd9320410fb98e296273cd1c4606f43",
+      "final_sha256": "828e37d725ee435d4bc49832f28f7c58911f256c4d51bda4ad1ac67a4ce3c9d0",
+      "summary": "HELD +0 — 20 repairs take the hinges and floodwater off a pane that only ever harmed people by being looked at.",
+      "commentary": "The window works best when nothing dangerous visibly happens and the worker simply never returns to their task; the combat table finally says so.",
+      "reasoning": "The I-Relic mechanism is line of sight and nothing else, so every combat row now begins from a gaze event the gallery can time: first look, speech no longer landing, forced retrieval, past-shift finding, whole-gallery audience.\n\nB148 left the water attacks \"unresolved\" under a narrow scope; under R-34 they are not certifiable events, so the rows record the duration harms while the slam/flood imagery is kept only as explicitly unwitnessed legacy.\n\nThe wear-based Log and Method is still not bridged to gaze-only activation; it remains a held legacy table, which is why the file stays HELD.",
+      "history": "Batch 99 already credited the exact SE-518 set review; this R-34 recheck claims no fresh credit. HELD +0.",
+      "holds": [
+        "Wear/equip/detachment log versus gaze-only source. Held.",
+        "Prism tesseract versus Glass Requiem window-blade and Soaking Window names. Held.",
+        "Worker versus Keeper-erasure origins. Held."
+      ],
+      "split": [
+        7,
+        13
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — the viewer's hold on their own task, location and present life |"
+        },
+        {
+          "id": "R02-vessel-not-destructible",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |",
+          "new": "| **Vessel-Destructible** | No — fixed in tunnel masonry; never broken and no destruction is authorized or tested |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-secc-capitalization",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct line of sight into the pane. there is no equipping and no handling; looking is the whole mechanism |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct line of sight into the pane. There is no equipping and no handling; looking is the whole mechanism |"
+        },
+        {
+          "id": "R04-wearlog-splice",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may become unable to return to present work. |",
+          "new": "| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer may become unable to return to present work. |"
+        },
+        {
+          "id": "R05-escalation-first-change",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "What climbs here is particular to this pane and to no other holding in the file. The watch enters the first trigger, the first visible change in the Object-Weight form, the distance at which the effect starts, and the boundary where the resonance steadies.",
+          "new": "What climbs here is particular to this pane and to no other holding in the file. The form does not visibly change, so the watch enters the first look, who is at the pane, how long they have been there, and the moment they stop responding to speech."
+        },
+        {
+          "id": "R06-resolution-condition-source",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | A worker holds the view for a full cycle and then walks away on their own timing, neither climbing toward it nor being called. Nothing else has ever lowered the gauge here. |",
+          "new": "| **Resolution Condition** | End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it. |"
+        },
+        {
+          "id": "R07-resistance-timekeeper",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 15% against Lament pressure and 5% against other types — a pane with no defence but the attention it can hold |",
+          "new": "| **Resistance** | 15% against Lament pressure and 5% against other types as a formal rating; there is nothing to strike and confrontation is invalid. Working protection is the timed watch: a timekeeper who does not look, a named relief instructed to step into the line of sight, and no second consecutive cycle. Drain is measured in hold duration — minutes at the pane — not in pressure per turn. |"
+        },
+        {
+          "id": "R08-running-pane-clarity",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Running Pane* [**Debuff**] } | \"The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief.\" | [The Window's sorrow-water distorts the target's perception; they see the world through someone's tears.] | *Target suffers -10 Composure; their vision is grief-colored.* **[10 Lament DMG [Lament]]** | When the target looks through the Window. |",
+          "new": "| { *The Running Pane* [**Debuff**] } | \"The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief.\" | [Direct gaze begins the display: an unfamiliar life continuing without the viewer, behind rain that never reaches the tunnel side.] | *The viewer loses Clarity; the scene is grief-colored from the first look. The timekeeper writes the first-look time before anything else is recorded.* **[10 Lament DMG [Lament]]** | When a worker looks directly into the pane. |"
+        },
+        {
+          "id": "R09-rising-damp-unresponsive",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Rising Damp* [**Debuff**] } | \"The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps.\" | [The Window's moisture spreads; the target is surrounded by weeping walls.] | *Target loses 10 Composure; everything is soaked in sorrow.* **[10 Lament DMG [Lament]]** | When the target remains near. |",
+          "new": "| { *The Rising Damp* [**Debuff**] } | \"The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps.\" | [Nothing spreads through the tunnel. The hold deepens in the one place the file measures: the viewer has stopped hearing the room they are standing in.] | *The viewer loses Clarity. The relief steps into the line of sight — no touching the viewer and no covering the glass — and the moment speech stopped landing is entered in the log.* **[10 Lament DMG [Lament]]** | When the viewer stops responding to the timekeeper's speech while still facing the pane. |"
+        },
+        {
+          "id": "R10-cold-pane-forced-retrieval",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cold Pane* [**Attack**] } | \"The wet window slams — and the impact sprays sorrow-water across the target.\" | [A window-slam with a splash of accumulated grief.] | *Inflicts Lament pressure and one wound of cold, wet impact.* **[14-22 Lament DMG [Lament]]** | When the Window is forced. |",
+          "new": "| { *The Cold Pane* [**Attack**] } | \"The view is taken away mid-scene — and every minute of it lands at once.\" | [The pane cannot slam; it has no hinge. What lands is the forced ending itself, recorded by the viewer as something done to them.] | *Heavy Lament pressure on Clarity. Re-brief the relief: interrupt by line of sight only, then take the scene in the viewer's own words before they leave the tunnel.* **[14-22 Lament DMG [Lament]]** | When a viewer is pulled away or touched, or the glass is covered, instead of the line of sight being interrupted. |"
+        },
+        {
+          "id": "R11-deluge-past-shift",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Deluge* [**Attack**] } | \"The window gives way — and every tear it ever held pours through the frame.\" | [The pane lets go all at once and the water it has been holding since the galleries were cut comes through the frame.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Window is broken. |",
+          "new": "| { *The Full Deluge* [**Attack**] } | \"The shift ended around him — and every hour he did not spend arrives at once.\" | [The pane has never broken and holds no water on the tunnel side. What pours through is accumulated duration: a worker still facing the glass with their task behind them.] | *A heavy Lament flood through Clarity, with no account of the hours between. Recovery is measured by whether the worker resumes initiating tasks, and the roster — not the pane — is examined first.* **[24-36 Lament DMG [Lament]]** | When a viewer is found still at the pane past the end of their shift, unanswered on the roster check. |"
+        },
+        {
+          "id": "R12-weeping-audience-threshold",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Weeping Building* [**Ultimate**] } | \"Every window in the field runs with tears — and the combined weeping drowns every view.\" | [Every pane along the deep tunnels starts running at the same hour, and the weeping carries down the galleries.] | *All in range suffer Lament pressure for three turns of weeping windows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Weeping Building* [**Ultimate**] } | \"Every face in the gallery is turned the same way — and nobody is working.\" | [No other window weeps; the gallery itself becomes an audience, every worker present watching and none of them keeping time.] | *All present suffer Lament pressure for three turns. An outside relief steps into lines of sight one viewer at a time and checks the shift board before the tunnel is re-entered.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥45% activation threshold with every worker present watching and no timekeeper outside the view. |"
+        },
+        {
+          "id": "R13-consequences-no-feeding",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- A failed resistance costs twice: the worker takes raw sorrow pressure that breaks their **Clarity**, and the Window feeds on the destabilization, using it to push the Sorrow Gauge up rather than merely holding it.",
+          "new": "- A failed resistance costs twice: the worker takes raw sorrow pressure that breaks their **Clarity**, and the Gauge rises because the party has stopped working and become an audience — the pane does nothing at all, which is the mechanism."
+        },
+        {
+          "id": "R14-consequences-distinct-tolls",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- Every piece cut from this Window extends the wearer's sight and gives them nothing to do with it. The prism shows a chamber in shifting colour, the shroud keeps its wearer composed, the shard reveals grief happening somewhere else. All three are instruments of watching, and the toll each one takes is the growing sense that watching is sufficient.",
+          "new": "- Every piece drawn from this Window extends the wearer's sight and gives them nothing to do with it, but the tolls are not the same toll shared three ways: the prism stops its wielder mid-task, the shroud holds everything at one remove, and the shard makes its bearer feel the sorrow of every view. The Shard is given, not cut."
+        },
+        {
+          "id": "R15-use-notes-distinct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays, and outside it the price arrives early and does not reverse on the walk back: the bearer stops moving, and operatives have been brought out of a gallery mid-engagement, watching their own prism turn, uninjured, with nothing to say about the missing minutes except that the colours had not finished.",
+          "new": "Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays, and outside it the price arrives early and does not reverse on the walk back — but log it per piece: the prism's wielder stops moving and watches it turn, the shroud's wearer stays composed at one remove, and the shard's bearer feels every viewed sorrow. Pooling the three into one stillness hides which limit has actually been reached."
+        },
+        {
+          "id": "R16-field-during-per-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "| **During use** | Watch for the toll itself: the bearer stops moving, mid-task, with no account of the minutes between. The relief enters the hour it is first seen, never the hour it is first mentioned. |",
+          "new": "| **During use** | Watch for the piece's own toll: prism stillness mid-task, shroud composure at one remove, or the shard-bearer reporting sorrow that is not theirs. The relief enters the hour it is first seen, never the hour it is first mentioned. |"
+        },
+        {
+          "id": "R17-field-atlimit-per-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "| **At limit** | The shroud keeps its bearer composed by holding everything at arm's length, and it does not sort sorrow from anything else — the limit is called there, with no remission on the sheet. On a piece out of this Window the use ends at the call, whatever the bearer says. |",
+          "new": "| **At limit** | Call the limit on the piece in use: the prism when its wielder cannot account for the minutes, the shroud when it no longer sorts sorrow from anything else, the shard when a viewed sorrow is being carried as the bearer's own. The use ends at the call, whatever the bearer says. |"
+        },
+        {
+          "id": "R18-form-record-repaired-table",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "The rest of the physical record is not reconciled by that display distinction. The combat table describes a slamming window, a broken pane releasing water, and weeping through other windows, while the observation and Record describe no opening mechanism, no liquid rain on the tunnel side and no injury. The Log and Method retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale; neither is silently made a stage of the other.",
+          "new": "The rest of the physical record is not reconciled by that display distinction. Legacy combat imagery on this file once described a slamming window, a broken pane releasing water, and weeping through other windows; none of those has a witnessed occurrence, and the combat table now records only the harms the gallery actually logs — gaze, deepening hold, forced retrieval, the past-shift finding, and the audience state. The Log and Method still retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale; neither is silently made a stage of the other."
+        },
+        {
+          "id": "R19-beforeuse-piece-toll",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **Before use** | Wielder, piece, gauge, and one pre-check against the pane's known toll — the bearer stopping where they stand. The pre-check names the relief, the call word, and the hour the watch is due to end. |",
+          "new": "| **Before use** | Wielder, piece, gauge, and one pre-check against that piece's known toll. The pre-check names the relief, the call word, and the hour the watch is due to end. |"
+        },
+        {
+          "id": "R20-afteruse-toll-not-composure",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "| **After use** | Take the piece back and walk the baseline yourself: does the bearer still feel things at their own distance, and can they say what moved them this week? Where the composure has outlasted the rotation, the piece stays in stores and that bearer is not issued from the tunnel post again. |",
+          "new": "| **After use** | Take the piece back and walk the baseline yourself: does the bearer still feel things at their own distance, and can they say what moved them this week? Where the piece's toll has outlasted the rotation, it stays in stores and that bearer is not issued from the tunnel post again. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.036  clean   760 grams  M.A.W. Equipment\n 0.018  clean   171 grams  Operational Parameters\n 0.010  clean   686 grams  감각 묘사 (Flavor Text)\n 0.006  clean   171 grams  최종 관찰 (Final Observation)\n 0.005  clean   784 grams  Combat Record\n 0.000  clean   649 grams  Activation Behavior\n 0.000  clean   614 grams  Pane Record\n 0.000  clean   612 grams  Appearance\n 0.000  clean   383 grams  이야기 (Narratio)\n 0.000  clean   346 grams  기록 (Registrum)\n 0.000  clean   341 grams  관찰 기록 (Observation Log)\n 0.000  clean   249 grams  Behavior\n 0.000  clean   223 grams  이야기 보고 (Story Log)\n 0.000  clean   178 grams  Trivia\n 0.000  clean   137 grams  Origin\n 0.000  clean    50 grams  증언 (Testimonium)\n 0.000  clean    42 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   3  | **Han-Energy yield** | 10–14 per successful work cycle, read off the tunnel watch rather than the pane |\n   85   4  | { *The Weeping Building* [**Ultimate**] } | \"Every face in the gallery is turned the same way — and nobody is working.\" | [No ot\n  244   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that draws close around a bearer who has stopped \n  262   2  **Appearance:** a shard-tile of Lament Han-crystal, cool and faintly luminous, that warms for a breath when the bearer looks at it\n  289  19  **Full-set source review (2026-10-11):** Reviewed the `α` overview, all three local item blocks, Use Notes, Field Use Record, and \n  338   1  | Work to the Management entry at the head of this file: a timekeeper named before entry, relief briefed to interrupt, no second c\n  359   7  Three holdings stand within reach of the gallery — The Torn Window, The Memory Rain and The Sleeping Weight — and none of the thre\nGENERIC 0.007  (42 shared shingles)  SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-A__SIDE_CODEX_Life_Behind_Glass.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-B__MAW-W_The_Glass_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-C__MAW-S_The_Glass_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-D__MAW-G_The_Glass_Shard.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-A__SIDE_CODEX_Life_Behind_Glass.md": "b61e2933d768e639caf67d21251f6bd87b764020b1180f20fde4c791542d93fc",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-B__MAW-W_The_Glass_Requiem.md": "bff3070e2b228b62395023dcd646e26d054d1152cd04355e981247fb710a2773",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-C__MAW-S_The_Glass_Shroud.md": "9f197219670e7ec548a10efa6a4d0ed2776438a387c57218d22f8e626f90f38a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_489_to_519/SE-518-D__MAW-G_The_Glass_Shard.md": "b2bb45954c8deb93266953e51bfc8aa35fa82a5aa94dca16c16139f3ee49e9e5"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-Iα-518_Life_Behind_Glass_솟구친_창](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md \"SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\")]",
+      "table_link": "[[N-Iα-518 Life Behind Glass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-518_Life_Behind_Glass_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%B0%BD.md \"SE-N-Iα-518_Life_Behind_Glass_솟구친_창.md\")]",
+      "reading": "R-34 recheck of B148_05: complete frozen primary at 467 lines / 8,458 words, complete direct SE-518-A/B/C/D, Registry rows 715-718, B148 receipt checked as claims. All tables parsed equally; all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 241,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from 65% to the file's ≥45% activation threshold with an audience-state condition; Han Dust yield removed with the destructibility correction."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-Iα-884",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md",
+      "words": 6379,
+      "sha256": "ac9ee1354ef580bd963ab9be57c0759cd49e29b741c99c25851214e654a6aa82",
+      "prior_batch": 146,
+      "shape": "O-Relic",
+      "name": "Seething Tundra",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_04_SEETHING_TUNDRA.md",
+      "before_words": 6379,
+      "after_words": 6791,
+      "base": "ea3cb26f157d9f3ca9592d26cd260af4eb4f2538",
+      "final_sha256": "9bb90398fcd5011ccf6d63f05c223e394e1a0b8a96aa692fb4d489b9b98ae8f0",
+      "summary": "HELD +0 — 23 repairs keep the shard on its tray and put the attribution back into its own resolution.",
+      "commentary": "The tear works because it is small enough to keep and hard to speak about; the file's one-sentence management rule is still its best engineering.",
+      "reasoning": "The O-Relic mechanism is an open touch channel, so harm now begins from session events: tray-out count, lamp-staring, physical marking, unacknowledged touch, dropped channel — never from approach or a launching shard.\n\nCounting and channeling were conflated in the battle phases; they are separated, and the attribution-aloud rule now appears in the Resolution that previously omitted it.\n\nB146's Transform-without-form and blue/clear-white holds were retested verbatim against the frozen file and remain undecidable; no transition was invented.",
+      "history": "Batch 146 already carries this set's equipment-coverage entry in the ledger; this R-34 recheck claims no fresh credit. HELD +0.",
+      "holds": [
+        "Transform breach asserted without a form versus no bodily change. Held.",
+        "Blue formation versus clear-white observation; two tear-count series. Held.",
+        "Awl/Lens names and dual registers. Held."
+      ],
+      "split": [
+        8,
+        15
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-composure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — the holder's grip on whose anger is whose |"
+        },
+        {
+          "id": "R02-grade",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |",
+          "new": "| **Tool / M.A.W. grade** | O-Relic (Offertorium) · α (Minor) |"
+        },
+        {
+          "id": "R03-damage-application",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.",
+          "new": "**Damage Application:** Record the strike and the memory cost separately. The Void lands once on the single target; the small nameless memory is taken from the wielder, beginning with the reasons they gave things to people."
+        },
+        {
+          "id": "R04-threat-touch",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Threat Assessment:** Low. A tear preserved as a memorial, sealed with rage inside. Effect: proximity induces the cold of sealed anger.",
+          "new": "**Threat Assessment:** Low. A tear preserved as a memorial, sealed with rage inside. Effect: direct touch transfers the stored memory, and the holder reports the anger as their own until it is named aloud."
+        },
+        {
+          "id": "R05-observation-note-count",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "- A mourner preserved her last tear; it hardened, sealing her anger inside.",
+          "new": "- Thirty-one tears at first survey, thirty-eight now; every addition followed a cycle that ended with the anger carried out unsaid."
+        },
+        {
+          "id": "R06-interaction-stray",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Record whether anybody touched it, because the count has risen in sessions where nobody did. Separation.",
+          "new": "Record whether anybody touched it, because the count has risen in sessions where nobody did."
+        },
+        {
+          "id": "R07-resistance-channel-protocol",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 15% against Void. The shard has never been struck and never melts — it has been left in a heated room for a week and came out at the same temperature it went in. |",
+          "new": "| **Resistance** | 15% against Void as a formal rating; the shard has never been struck in handling and never melts. Working protection is the channel protocol: touch only under authorization, a second person in the room asking every minute who the operator is angry at, and deliberate closure with the anger attributed aloud. Past one minute the channel drains 4 Composure every 10 seconds. |"
+        },
+        {
+          "id": "R08-cold-core-session-open",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cold Core* [**Debuff**] } | \"Nothing in the room is moving, including the thing you were about to say.\" | [The cold reaches the room's pace rather than its temperature.] | *1 Void. Workers describe losing the sentence they had prepared and not getting it back.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | On approach, every cycle, to everybody. |",
+          "new": "| { *The Cold Core* [**Debuff**] } | \"Nothing in the room is moving, including the thing you were about to say.\" | [The cold reaches the room's pace rather than its temperature; the room is colder than the shard can account for before anybody touches it.] | *1 Void to Composure. Workers describe losing the sentence they had prepared and not getting it back; neither counter speaks a number aloud until both have finished.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the shard is brought out on its tray and the counting session opens. |"
+        },
+        {
+          "id": "R09-suspended-attribution",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Suspended Moment* [**Debuff**] } | \"You can see the counter, and the clerk, and her face as she is asked the second time.\" | [The preserved instant is legible to anyone who looks closely, and is always the same instant.] | *1 Void, and the viewer can afterwards describe a room in the Gardens as it was eleven years ago.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares into the ice. |",
+          "new": "| { *The Suspended Moment* [**Debuff**] } | \"You can see the counter, and the clerk, and her face as she is asked the second time.\" | [The preserved instant is legible to anyone who looks closely, and is always the same instant.] | *1 Void, and the viewer can afterwards describe a room in the Gardens as it was eleven years ago. Whatever detail arrives is the mourner's; it is attributed aloud before the session closes, never adopted.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a counter stares into the ice under the standard lamp during the count. |"
+        },
+        {
+          "id": "R10-ice-spear-crack-not-launch",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ice Spear* [**Attack**] } | \"The frozen shard launches — trailing permafrost, carrying the cold of an eternal instant.\" | [An ice-locked shard strikes the target.] | *Inflicts Void damage; the eternal cold preserves and erodes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is struck. |",
+          "new": "| { *The Ice Spear* [**Attack**] } | \"Nothing launches. The cold answers along the hairline, from exactly where it sits on the tray.\" | [The shard has never moved itself and has never been struck in handling; the only physical marking on record is the Angry Maiden hairline, which has not spread in six years.] | *Heavy Void pressure on Composure. End the session, photograph the hairline, and take both counts; physical contact beyond authorized touch requires the Warden's signature.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the shard is physically struck or its retained hairline is stressed — recorded only inside an authorized joint session. |"
+        },
+        {
+          "id": "R11-shatter-no-surge",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Shatter* [**Attack**] } | \"The anger in it arrives all at once and it arrives as yours.\" | [The stored memory transfers whole and is reported in the first person.] | *3 Void and a 15% Gauge surge to whoever touched it; the recipient will defend the grievance as their own until it is named aloud.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is touched without the memory being acknowledged afterwards. |",
+          "new": "| { *The Full Shatter* [**Attack**] } | \"The anger in it arrives all at once and it arrives as yours.\" | [The stored memory transfers whole and is reported in the first person.] | *3 Void to whoever touched it; the recipient will defend the grievance as their own until the second person's question — who are you angry at — gets it named aloud as the mourner's.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is touched under a channel and the memory is not acknowledged aloud afterwards. |"
+        },
+        {
+          "id": "R12-frozen-instant-dropped-channel",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Frozen Instant* [**Ultimate**] } | \"Every unspoken thing in the Gardens' deposit room goes cold at once.\" | [The effect propagates to the deposits — the mementoes left without an account.] | *2 Void per cycle for three cycles to anyone in the deposit room.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Above 65%. Recorded once, in Year 4,233; eleven deposits were found cold to the touch and three depositors came back that week to say what they had meant. |",
+          "new": "| { *The Frozen Instant* [**Ultimate**] } | \"Every unspoken thing in the Gardens' deposit room goes cold at once.\" | [The effect propagates to the deposits — the mementoes left without an account.] | *2 Void per cycle for three cycles to anyone in the deposit room. Close the channel deliberately and say aloud whose anger it was; then count. Recorded once, in Year 4,233, when eleven deposits were found cold and three depositors returned that week to say what they had meant.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥45% activation threshold and a channel is dropped or left untended in the deposit room. |"
+        },
+        {
+          "id": "R13-clash-count-not-channel",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "2. **Clash:** There is nothing to fight. The team counts the trapped tears under the lamp, works Viderehan and Ferrehan only, and holds the shard without putting a name to what rises off it. Flerehan and Pugnahan are invalid; the shard is already somebody's attempt to handle a feeling by holding it.",
+          "new": "2. **Clash:** There is nothing to fight. The team counts the trapped tears under the lamp and works Viderehan and Ferrehan only; the shard stays on its tray, because touch is a separately authorized channel with a second person asking every minute who the operator is angry at. Flerehan and Pugnahan are invalid; the shard is already somebody's attempt to handle a feeling by holding it."
+        },
+        {
+          "id": "R14-resolution-attribution",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "3. **Resolution:** The cycle ends when the count is taken twice and agrees, the Gardens' deposit book for the week is attached, and the shard is returned to its tray. There is no suppression step and the shard has never been warmer than the room.",
+          "new": "3. **Resolution:** The cycle ends when the count is taken twice and agrees, any memory that rose has been attributed aloud to the mourner rather than carried out, the Gardens' deposit book for the week is attached, and the shard is returned to its tray. There is no suppression step and the shard has never been warmer than the room."
+        },
+        {
+          "id": "R15-consequences-distinct-costs",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The set's cost is in the ledger and is domestic: wielders keep things. Small objects, for no reason they can give, and they are unable to throw them away.",
+          "new": "- The set's costs are domestic but not pooled: the awl takes small nameless memories beginning with the reasons things were given; the veil's wearer keeps small objects they cannot explain or throw away; the fragment's wearer goes emotionally cold and distant."
+        },
+        {
+          "id": "R16-veil-ability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Turns Void aside from the soul. The suit is what lets a worker hold the shard long enough for the transferred feeling to be identified as somebody else's.",
+          "new": "**Ability:** Grants resistance to Void, protecting identity and sense of self while a worker holds the shard. It supports the identification of a transferred feeling as somebody else's; it is not a prerequisite for the channel, and the second person's question still does that work."
+        },
+        {
+          "id": "R17-use-notes-distinct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Every piece here is a thing kept instead of a thing said, which is also what the source is, and the set behaves accordingly: it is reliable, undemanding, and it teaches its wielder to keep. The cost is not pain. It is a drawer that fills up, and a person who cannot explain a single object in it. The Armoury's check is a conversation with whoever shares the wielder's quarters.",
+          "new": "Every piece here is a thing kept instead of a thing said, which is also what the source is, and the set behaves accordingly: reliable, undemanding, and quietly possessive. The keeping shows differently per piece — the awl in memories that go missing, the veil in a drawer that fills with objects nobody can explain, the fragment in a coldness that outlasts the watch — and the Armoury logs them separately. Its check is a conversation with whoever shares the wielder's quarters."
+        },
+        {
+          "id": "R18-record-containment-procedure",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- Viderehan is the primary Work Type.\n- The shard is cold; the sealed rage makes it so.",
+          "new": "- Count the tears under the standard lamp at the marked distance, twice, by two people; neither speaks a number until both have finished.\n- Touch only under authorization, with a second person asking every minute who the operator is angry at; close deliberately and say aloud whose anger it was before leaving the room."
+        },
+        {
+          "id": "R19-flavor-continued-grievance",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Void is no longer an event but an environment, something you exist inside rather than encounter.",
+          "new": "**With continued exposure:** Nothing about the shard changes. What changes is the grievance: past about fifteen minutes it acquires detail that was not in it — a date, a room, a thing somebody said — and the detail is the same between workers, which is how the Gardens knows it is the mourner's and not yours."
+        },
+        {
+          "id": "R20-field-afteruse-drawer-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "| **After use** | Open the sealed note, compare, and ask whether anything new has been kept. The drawer question is on the form and has caught two of the three stand-downs. |",
+          "new": "| **After use** | Open the sealed note and compare. Then check the piece's own trace: for the veil, whether anything new has been kept; for the awl, what reason for a gift can no longer be recalled; for the fragment, whether the coldness has lifted. The drawer question stays on the form and has caught two of the three stand-downs. |"
+        },
+        {
+          "id": "R21-final-observation-fail",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "| Remains cold while testing the worker's patience. The sorrow is seen clearly; Seething Tundra is fully recorded. | Reveals the memory embedded in its surface. The gauge climbs and Seething Tundra withdraws without revelation. |",
+          "new": "| Remains cold while testing the worker's patience. The sorrow is seen clearly; Seething Tundra is fully recorded. | The worker leaves with the anger as their own, aimed at somebody real in the corridor. Nothing withdraws and nothing is revealed; the next count finds one more tear. |"
+        },
+        {
+          "id": "R22-stat-interp-cost-not-drawer",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "The benefit is measurable in other people's gauges; the cost is measurable in one person's drawer. Authorise on the second.",
+          "new": "The benefit is measurable in other people's gauges; the cost is measurable in one person's memory, quarters and temperature. Authorise on the second."
+        },
+        {
+          "id": "R23-recognition-lamp-count",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "It glows under moonlight, which is when the count is taken.",
+          "new": "It glows under moonlight — the first survey was at night — but the count itself is taken under the standard lamp."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   176 grams  Trivia\n 0.010  clean   297 grams  관찰 기록 (Observation Log)\n 0.009  clean   221 grams  Appearance\n 0.008  clean   778 grams  Combat Record\n 0.004  clean   528 grams  감각 묘사 (Flavor Text)\n 0.002  clean   471 grams  M.A.W. Equipment\n 0.000  clean   445 grams  Activation Behavior\n 0.000  clean   417 grams  이야기 보고 (Story Log)\n 0.000  clean   363 grams  기록 (Registrum)\n 0.000  clean   332 grams  이야기 (Narratio)\n 0.000  clean   186 grams  Origin\n 0.000  clean   126 grams  Operational Parameters\n 0.000  clean   119 grams  Behavior\n 0.000  clean    80 grams  최종 관찰 (Final Observation)\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   86   6  | { *The Frozen Instant* [**Ultimate**] } | \"Every unspoken thing in the Gardens' deposit room goes cold at once.\" | [The effect p\n  123   2  | **Identification** | Verify against the SECC code before work or contact begins; the marker is a palm-sized clear-white shard ho\n  275   1  | **Before use** | Wielder, piece, tear count that day, and a sealed note naming anyone the wielder currently holds a grievance ag\n  302   3  **Observation method:** Record the tear count on arrival and on leaving, the lamp used, the Gardens' deposits for the week and how\n  356   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  423   3  - **Record detail:** Check the designation before approach. The archive holds other records about objects left behind by grief, an\nGENERIC 0.004  (17 shared shingles)  SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-A__SIDE_CODEX_Seething_Tundra.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-B__MAW-W_The_Frozen_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-C__MAW-S_The_Frozen_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-D__MAW-G_The_Frozen_Fragment.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-A__SIDE_CODEX_Seething_Tundra.md": "36795477d3640a25ecec8e79c51aec82e778d1c7219f8b8a6df055c86ac2452e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-B__MAW-W_The_Frozen_Lens.md": "1268292f06617ecafa038c057657aee82c53d0b0a54b6d839c6714f9d8714997",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-C__MAW-S_The_Frozen_Veil.md": "935b2c86bf1188b6e6e47b8eec10ab780c9e92c8f60fd4921e7f09a765d4e43a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/884_Seething_Tundra/SE-884-D__MAW-G_The_Frozen_Fragment.md": "6cf0400b40a8fbafa54ff907fb917920518bdb763ec9d3ab779c29a74f86224b"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Iα-884_Seething_Tundra_얼어붙은_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-884_Seething_Tundra_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%A1%B0%EA%B0%81.md \"SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md\")]",
+      "table_link": "[[C-Iα-884 Seething Tundra](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-884_Seething_Tundra_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EC%A1%B0%EA%B0%81.md \"SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md\")]",
+      "reading": "R-34 recheck of B146_05: complete frozen primary at 430 lines / 6,379 words, complete direct SE-884-A/B/C/D, Registry rows 943-946, B146 receipt checked as claims. All tables parsed equally; all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 241,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from above 65% to the ≥45% activation threshold with a dropped/untended channel condition. Both tear-count series left untouched as held."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIβ-290",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-290_Broken_Compass_부서진_나침반.md",
+      "words": 7668,
+      "sha256": "6b89745a045aba4bfae9edf6ac5bc1838c62ca7f46cefe73123a0934248c587d",
+      "prior_batch": 155,
+      "shape": "A-Relic",
+      "name": "Broken Compass",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_05_BROKEN_COMPASS.md",
+      "before_words": 7668,
+      "after_words": 8038,
+      "base": "f7c02a08c3e1bbcb2129711b0bac2018c83863a3",
+      "final_sha256": "2eedf68cfc971f1a5134ff9b80304486b387c6a9eaaa0d440a64b689d08d68cd",
+      "summary": "HELD +0 — 21 repairs stop requiring workers to hold, follow, strike or shatter an instrument whose whole protocol is a cradle.",
+      "commentary": "A compass that measures the person counting it is the design; the old table kept trying to turn it into a weapon.",
+      "reasoning": "The A-Relic discharge is documented precisely so it can be avoided, so combat now records only cradle-observable harms: uncertainty coupling, slowings misread as bearings, prohibited impact, corrected bearings, and radius failure.\n\nB155 held the strike/shatter states \"not crosswalked\"; under R-34 they cannot stand as operating rows, and the theoretical consumption account stays where the file puts it — in the profile, unperformed.\n\nThe greatsword/disc and single-use-versus-centuries conflicts were retested and remain genuinely unresolvable from the joined records.",
+      "history": "Batch 108 already credited the exact SE-290 set/pair; this R-34 recheck claims no fresh credit. HELD +0.",
+      "holds": [
+        "Consumption/discharge theory versus undiminished centuries of observation. Held.",
+        "Never-settled needle versus two historical settled bearings. Held.",
+        "Greatsword versus Lost Lens; needleless charm versus rejecting needle. Held."
+      ],
+      "split": [
+        8,
+        13
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-composure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — the handler's certainty that any direction is right |"
+        },
+        {
+          "id": "R02-vessel-never-shatter",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |\n| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Vessel-Destructible** | No — never strike or shatter the Compass; impact detaches the needle and destruction is prohibited and untested |\n| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R03-beforeuse-per-piece-toll",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "The toll on this set — small, nameless memories going with each use — does not present on the day, and the piece is opened at the end of the rotation rather than at the start.",
+          "new": "The tolls on this set — memories, absence, or a direction refused — do not present on the day, and the piece is opened at the end of the rotation rather than at the start."
+        },
+        {
+          "id": "R04-stat-interp-distinct",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes, and on this set the two are not related: the cost is the wielder's memory of small, nameless things, and the grade line is silent about it. Read both columns and authorise on the second.",
+          "new": "**Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes, and on this set the two are not related: the costs are nameless memories, self-absence, and a compass that will only ever say no — and the grade line is silent about all three. Read both columns and authorise on the second."
+        },
+        {
+          "id": "R05-escalation-four-figures",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "Escalation here does not follow a generic containment script. Four things go into the record and nothing else: the trigger, the first visible change in the Object-Void form, the distance at which the effect takes hold, and the boundary where the resonance settles.",
+          "new": "Escalation here does not follow a generic containment script. The form does not visibly change and the needle never settles, so four things go into the record and nothing else: the revolution count, the direction and duration of any slowing, the radius at which outside bearings begin to fail, and the handler's reported certainty."
+        },
+        {
+          "id": "R06-resistance-cradle-protection",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Void pressure; 15% against everything else. Nothing is rated against the spinning itself, which is not an attack: the instrument is read from a cradle at a distance, and the 25 describes the pressure that comes off a compass nobody is holding. |",
+          "new": "| **Resistance** | 25% against Void pressure; 15% against everything else. Nothing is rated against the spinning itself, which is not an attack: the instrument is read from a cradle at a distance, and the 25 describes the pressure that comes off a compass nobody is holding. Working protection is that distance — cradle mounting, timed counts, bearings inside the radius discarded rather than corrected, and no contact with a destination spoken aloud. |"
+        },
+        {
+          "id": "R07-spinning-uncertain-watcher",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Spinning Needle* [**Debuff**] } | \"The compass needle spins wildly — and watching it, your sense of direction comes apart.\" | [Handled directly, the needle deranges the handler: the instrument cannot find north and will not let go of the question.] | *Target suffers a Void mark; they are lost in their own space.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target holds the Compass. |",
+          "new": "| { *The Spinning Needle* [**Debuff**] } | \"The compass needle spins wildly — and watching it, your sense of direction comes apart.\" | [Nobody holds it. Read from the cradle, the needle still couples to the watcher: it spins faster for an uncertain handler, which makes it an instrument for measuring the person counting it.] | *The handler suffers a Void mark to Composure. Certainty is entered before and after the count, shown to nobody who writes rosters, and the counselling referral is automatic.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a handler takes the timed count while carrying an undecided question of their own. |"
+        },
+        {
+          "id": "R08-wrong-way-slowing-as-bearing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Wrong Way* [**Debuff**] } | \"It points — but at nothing, at the void between directions — and following it leads nowhere.\" | [The needle settles toward an absence — a concentration of grief, or a threshold the Wandering Door has vacated — and the holder follows it.] | *Target loses clarity; every direction is the wrong one.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target follows the needle. |",
+          "new": "| { *The Wrong Way* [**Debuff**] } | \"It points — but at nothing, at the void between directions — and following it leads nowhere.\" | [The needle does not settle; it slows, briefly, toward a concentration of grief. The harm begins when somebody treats that slowing as information about the way.] | *The handler loses Composure. The slowing is logged with its orientation and never plotted; any bearing influenced by it is discarded, not corrected.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a slowing is read as a bearing — plotted, corrected, or followed — instead of entered unplotted. |"
+        },
+        {
+          "id": "R09-needle-strike-impact-only",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Needle-Strike* [**Attack**] } | \"The needle snaps free — spinning, sharp, and aimed at you.\" | [A detached compass-needle launches at the target.] | *Inflicts Void damage; the strike of being directionless.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Compass is struck. |",
+          "new": "| { *The Needle-Strike* [**Attack**] } | \"The case is knocked — and what answers is not aimed at anyone. That is worse.\" | [Impact detaches the needle; nothing launches and nothing is aimed. The instrument simply stops being an instrument in the one way the file has never had to record.] | *Heavy Void pressure on Composure. End the session, widen the discard radius, and do not touch the needle — it is not touched under any authority; the case was opened once in three hundred years.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Compass is struck or knocked in its cradle — prohibited at all times and never a Work response. |"
+        },
+        {
+          "id": "R10-full-disorientation-corrected-bearing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Disorientation* [**Attack**] } | \"Every direction becomes the wrong one simultaneously — and the wrongness is a void.\" | [The instrument's whole reading is spent at once, and every bearing taken inside the radius fails together.] | *A heavy Void wave; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Compass is shattered. |",
+          "new": "| { *The Full Disorientation* [**Attack**] } | \"Every direction becomes the wrong one simultaneously — and the wrongness is a void.\" | [The Compass is not shattered; it is never struck. What fails together is every bearing taken inside the radius on the day somebody decides to salvage one.] | *A heavy Void wave through Composure. The corrected bearing and every map that took it are withdrawn — three already have been — and the stations are re-sited outside the widened radius.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a bearing taken inside the influenced radius is corrected and used instead of discarded. |"
+        },
+        {
+          "id": "R11-ultimate-radius-widening",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *No One Knows Where They Are* [**Ultimate**] } | \"Every compass in the field breaks — and without direction, everyone is simply lost.\" | [The directional collapse spreads past the discard radius, and every bearing station re-sited outside it fails with it.] | *All in range suffer Void erosion for three turns of being lost.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *No One Knows Where They Are* [**Ultimate**] } | \"Every compass in the field breaks — and without direction, everyone is simply lost.\" | [No other compass breaks; the discard radius itself fails, and bearing stations re-sited outside it begin returning unusable readings.] | *All in range suffer Void erosion for three turns of being lost. Widen the radius on the evidence, re-site every station, discard the affected bearings uncorrected, and keep the discharge trigger unapproached.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥60% activation threshold and outside bearings start failing beyond the current discard radius. |"
+        },
+        {
+          "id": "R12-consequences-equipment-costs",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- The equipment section says what the M.A.W. takes; field work only ever confirms it, and no reading the Compass gives is ever handed over free.",
+          "new": "- The set takes three different things and field work confirms each separately: the weapon's nameless memories, the veil-wearer's faint absence from themselves, and a charm that can refuse a direction but never offer one. No reading from this instrument is handed over free."
+        },
+        {
+          "id": "R13-consequences-no-holder",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "- If the resolution condition goes unmet, the needle stops pretending to search and the loss it was pointing at comes due — it finds its release in whoever is still holding it.",
+          "new": "- If the resolution condition goes unmet, nothing is released and nobody is holding anything: the count series and the radius simply continue into the next sheet, and the one discharge that could change the state remains theoretical, unperformed, and unapproached."
+        },
+        {
+          "id": "R14-use-notes-distinct",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Every piece of this set works by belonging to the thing it is used near — on this instrument, by being a little lost. The toll is the one already on the record: small nameless recollections leave the bearer with each use, and they leave whether the use was right or wrong.",
+          "new": "Every piece of this set works by belonging to the thing it is used near — on this instrument, by being a little lost. The tolls stay distinct even so: nameless recollections leave the weapon's wielder with each use, right or wrong; the veil's wearer goes faintly absent and is the last to notice; the charm only ever refuses. Log which one presented, not a pooled lostness."
+        },
+        {
+          "id": "R15-field-atlimit-per-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "| **At limit** | The cost on this piece is continuous rather than occasional: the wearer feels faintly absent to themselves, and the second worker's call stands against the wielder's, whatever the count says. |",
+          "new": "| **At limit** | Call it on the piece in use: the weapon when a whole route home is what went vague, the veil when the wearer no longer notices their own absence, the charm when a refusal is being treated as approval. The second worker's call stands against the wielder's, whatever the count says. |"
+        },
+        {
+          "id": "R16-field-after-per-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "| **After use** | Return, reconcile the baseline against the pre-check question, and record whether the absence has reversed. Where it has not, the piece is not reissued to that wielder, and the loss is entered against the piece rather than the person. |",
+          "new": "| **After use** | Return, reconcile the baseline against the pre-check question, and record per piece: what can no longer be recalled, whether the absence has reversed, and whether a refused direction was treated as a chosen one. Where the toll has not lifted, the piece is not reissued to that wielder, and the loss is entered against the piece rather than the person. |"
+        },
+        {
+          "id": "R17-flavor-continued-certainty",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "**With continued exposure:** Time in the containment zone moves differently. The Void pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Void is teaching you its sorrow.",
+          "new": "**With continued exposure:** The count does not change for the room; it changes for you. Fifty-seven a minute becomes sixty-one while you are deciding something you are not allowed to ask anybody about, and the instrument reports it to the revolution."
+        },
+        {
+          "id": "R18-final-observation-fail",
+          "kind": "careful text correction",
+          "careful": true,
+          "old": "| Tests whether the worker can watch without reacting. The sorrow is seen clearly; Broken Compass is fully recorded. | Reveals the pattern behind being lost. The gauge climbs and Broken Compass withdraws without revelation. |",
+          "new": "| Tests whether the worker can watch without reacting. The sorrow is seen clearly; Broken Compass is fully recorded. | A slowing gets plotted or a bearing gets corrected instead of discarded. The gauge climbs, the radius widens again, and the map that took the bearing joins the three already withdrawn. |"
+        },
+        {
+          "id": "R19-notable-handler",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "**Notable Features:** It cannot find north, it slows briefly toward concentrations of grief, and it spins faster for an uncertain holder — which makes it, in practice, an instrument for measuring the person holding it.",
+          "new": "**Notable Features:** It cannot find north, it slows briefly toward concentrations of grief, and it spins faster for an uncertain handler — which makes it, in practice, an instrument for measuring the person counting it."
+        },
+        {
+          "id": "R20-flavor-counting-not-holding",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "It cannot find north, it slows toward concentrations of grief, and it spins faster when the person holding it is uncertain, which the file treats as the instrument's one act of attention.",
+          "new": "It cannot find north, it slows toward concentrations of grief, and it spins faster when the person counting it is uncertain, which the file treats as the instrument's one act of attention."
+        },
+        {
+          "id": "R21-watch-handler-first-count",
+          "kind": "short text correction",
+          "careful": false,
+          "old": "The spin quickens for a holder who is unsure, making the instrument a measure of its handler, and Wardens are told this before they first take it up.",
+          "new": "The spin quickens for a handler who is unsure, making the instrument a measure of the person at the cradle, and Wardens are told this before their first count."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-290_Broken_Compass_부서진_나침반.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.039  clean   747 grams  M.A.W. Equipment\n 0.022  clean    89 grams  Operational Parameters\n 0.014  clean   800 grams  Combat Record\n 0.010  clean   308 grams  기록 (Registrum)\n 0.000  clean   877 grams  Watch Record\n 0.000  clean   583 grams  감각 묘사 (Flavor Text)\n 0.000  clean   568 grams  Activation Behavior\n 0.000  clean   367 grams  이야기 (Narratio)\n 0.000  clean   249 grams  Trivia\n 0.000  clean   221 grams  이야기 보고 (Story Log)\n 0.000  clean   211 grams  Behavior\n 0.000  clean   205 grams  관찰 기록 (Observation Log)\n 0.000  clean   165 grams  Origin\n 0.000  clean   135 grams  Appearance\n 0.000  clean   131 grams  최종 관찰 (Final Observation)\n 0.000  clean    38 grams  SECC Classification\n 0.000  clean    37 grams  증언 (Testimonium)\n 0.000  THIN      1 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   56   2  | **Resistance** | 25% against Void pressure; 15% against everything else. Nothing is rated against the spinning itself, which is \n   86   9  | { *No One Knows Where They Are* [**Ultimate**] } | \"Every compass in the field breaks — and without direction, everyone is simpl\n  225   2  **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the instrument's signature in \n  245   5  **Cost:** The wearer feels faintly absent to themselves, and the wearer is the last person to notice; the second worker's call sta\n  251   2  **Appearance:** a compass-charm of Void Han-glass, near-translucent and almost colourless, weighted like a case and with no needle\n  271   3  | **Before use** | Wielder, piece, the gauge at issue, and one pre-check put by the second worker: name a thing you would miss if \n  273   3  | **At limit** | Call it on the piece in use: the weapon when a whole route home is what went vague, the veil when the wearer no l\n  274   1  | **After use** | Return, reconcile the baseline against the pre-check question, and record per piece: what can no longer be recal\n  278  16  **Full-set source review (2026-10-13):** Reviewed the grade overview, full M.A.W. Weapon/Suit/Stigma, Use Notes, Field Use Record,\n  405   1  **Faction Involvement:** SED, on the D-territory survey that keeps the count sheet · UCD, on the Fray-adjacent zone · Wound Walker\n  412   2  **Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline: re-verify the c\nGENERIC 0.008  (48 shared shingles)  SE-C-IIβ-290_Broken_Compass_부서진_나침반.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-A__SIDE_CODEX_Compass_Without_North.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-B__MAW-W_The_Lost_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-C__MAW-S_The_Lost_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-D__MAW-G_The_Lost_Compass.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-A__SIDE_CODEX_Compass_Without_North.md": "597c52d0e022cc957c055d32c88a7f66ee301988931c2ae2a2853937cf92fedb",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-B__MAW-W_The_Lost_Lens.md": "6775986b9188493762cb5183904e0ebaf5b5700edc56f6a16a67a53ffa44842e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-C__MAW-S_The_Lost_Veil.md": "09c4692b4993f3888eb58fbf6586685557d8a497b337985249d2bebe3364cf4e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_290_to_310/SE-290-D__MAW-G_The_Lost_Compass.md": "f3db8899c57574d2e2545819e49590ba0129e8b848bbcfb88b95ac204fe48a3a"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-290_Broken_Compass_부서진_나침반](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-290_Broken_Compass_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%82%98%EC%B9%A8%EB%B0%98.md \"SE-C-IIβ-290_Broken_Compass_부서진_나침반.md\")]",
+      "table_link": "[[C-IIβ-290 Broken Compass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-290_Broken_Compass_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%82%98%EC%B9%A8%EB%B0%98.md \"SE-C-IIβ-290_Broken_Compass_부서진_나침반.md\")]",
+      "reading": "R-34 recheck of B155_05: complete frozen primary at 470 lines / 7,668 words, complete direct SE-290-A/B/C/D, Registry rows 579-582, B155 receipt checked as claims. All tables parsed equally; all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 241,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Unsupported 15% Gauge surge removed; Ultimate aligned from 65% to the ≥60% activation threshold with a radius-failure condition; Han Dust yield removed with the never-shatter correction."
+      }
+    }
+  ]
+}

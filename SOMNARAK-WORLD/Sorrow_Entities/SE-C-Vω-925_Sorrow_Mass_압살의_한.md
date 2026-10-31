@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It arrives as a habit, not as a load: the long way round the stairs, and nobody has reported it." | [The volume settles over a working floor, and the gauges disagree with their neighbours before any single series begins to trend.] | *10 Weight to every person inside, logged by instrument ahead of any account from the people themselves.* **[10 Weight DMG [Weight]]** | On the first shift inside the volume, and on every shift after it until the survey reads stable. |
+| { *The First Weight* [**Debuff**] } | "It arrives as a habit, not as a load: the long way round the stairs, and nobody has reported it." | [The volume settles over a working floor, and the gauges disagree with their neighbours before any single series begins to trend.] | *10 Weight to every person inside, logged by instrument ahead of any account from the people themselves.* **[10 Weight DMG [Weight] (AoE)]** | On the first shift inside the volume, and on every shift after it until the survey reads stable. |
 | { *The Weight Surge* [**Attack**] } | "The floor plate bows and the survey was already on the watch." | [A confirmed thickening takes the storey below, in the order the ledger records: foundation, stairwell, then the living floor, and never skipping a level.] | *15 Weight to whoever is standing on the storey when it takes the load. Three evacuations ordered on one reading were later found unnecessary, and all three were upheld.* **[15 Weight DMG [Weight]]** | When a confirmed thickening is left in place past the watch instead of being cleared. |
 | { *The Settling* [**Attack**] } | "The ward below is ours, and the ward is the only sharp boundary the record has ever shown." | [The pressure concentrates on the living floor; the reading above the ward plate is flat while the members below carry what no survey has written down.] | *20 Weight to the crew on the floor, and by this point the complaint sheet has been reading it as fatigue for two years.* **[20 Weight DMG [Weight]]** | When the sequence reaches the living floor — the third stage, after the foundation and the stairwell. |
-| { *The Weight Collapse* [**Ultimate**] } | "The weight breaks, and everything it held comes loose: the crushed wards were loaded past endurance before the doctrine existed." | [The volume's full load is released through the structure at once, and the structures that carry it worst are the ones built longest ago.] | *17 Weight per turn for three turns to everyone in the district. The ledger's only reading above 80% was taken after the floors had already gone.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | At 65% gauge; once, and only in a district where the mourning has stopped. |
+| { *The Weight Collapse* [**Ultimate**] } | "Nothing is released. The members have been bowing for months; failure is only the moment the deflection stops being recoverable." | [After the foundation and stairwell stages, an uncleared load reaches the living floor and structural members pass endurance; floors and wards fail in sequence rather than discharging across a district at once.] | *17 Weight per turn for three turns to everyone remaining in the affected structure. The ledger's only reading above 80% was taken after the floors had already gone.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | When the third-stage living floor is left uncleared until its load-bearing members fail. |
 
 ### Battle Phases
 
@@ -156,11 +156,11 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 | **Movement** | Upward, through whatever is load-bearing, at the pace of a slow leak. Seventeen major pressure events are on the Directorate ledger; in every one the sequence was the same — foundation, stairwell, then the living floor — and in none of them did it skip a level. |
 | **Effect** | The structure takes the load before the people do. Tools drop, doors bind, floor plates bow, and personnel describe nothing worse than a long shift until the deflection survey says otherwise. The crushed wards failed in that order and are kept standing, stabilised, as the record of it. |
 | **First Target** | The foundations, and after them whatever has been carried longest without being said. The Mass has never manifested where grief is fresh: the inventory aisles of the Deep Vault, the sealed wing behind the Insight Forge, the stairwells the night shift uses. It arrives under places, not at people. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
+| **Escalation** | Pressure rises by confirmed storey of seep—foundation, stairwell, living floor—rather than by turn; it is not suppressed, only surveyed, cleared and structurally carried. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
+- **Containment priority:** No physical suppression. Read adjacent foundation gauges, keep the deflection survey unbroken, and clear the floor on the first confirmed thickening.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% per confirmed storey of seep rather than per turn. The crushed wards event is the only reading above 80% in the ledger and it was taken after the floors had already gone.
 
 ## M.A.W. Equipment
@@ -185,7 +185,7 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** No blow is needed for the mantle to weigh on its bearer; a persistent tiredness gathers under the suit as the mass presses without aiming.
+**Bearer cost:** No blow is needed for the Veil to weigh on its bearer; a persistent tiredness gathers under the suit as the mass presses without aiming.
 **Ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.
 
 ### M.A.W. Stigma — Sorrow Mass's Token
@@ -248,7 +248,7 @@ The Sorrow Mass set is made of structure: the Edge from a failed load-distributi
 
 ## 감각 묘사 (Flavor Text)
 
-The weight register changes the weight from a classification into an experience. You do not merely register weight pressure on the gauge; you feel it in your weight — personally, specifically, as if the entity has found the one frequency that matches your own unexamined grief. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
+Nothing in the weight register is personal. A gauge disagrees with its neighbours, a dropped tool arrives too soon, and a floor plate carries load that no inventory can account for; the body reports the change later and less accurately than the instruments. A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
 
 **At first contact:** Nothing. That is the signature. A month later you are avoiding a staircase you have used for nine years.
 
@@ -282,11 +282,11 @@ It is the only Sovereign the Directorate manages without ever scheduling a work 
 
 **Common Name:** Sorrow Mass
 
-**Containment Status:** Contained — SECTOR-C-925 · UNCONTAINED
+**Containment Status:** UNCONTAINED — SECTOR-C-925
 
 **Comprehension Level:** 5 — Sovereign
 
-**Threat Assessment:** Catastrophic. A Hazard-Weight entity — the weight register is its defining characteristic. Risk: prolonged exposure to the weight pressure may produce effects not seen in standard weight entities.
+**Threat Assessment:** Catastrophic (ω). Seventeen major pressure events are on the Directorate ledger, none where grief was fresh and none skipping the foundation–stairwell–living-floor sequence. The primary casualty is structural: complaints are filed as fatigue while members deflect, and the crushed wards remain the standing measure of an uncleared third stage.
 
 **Containment & Handling Procedures:**
 - Walk the gauge round on the watch and keep the deflection survey unbroken.

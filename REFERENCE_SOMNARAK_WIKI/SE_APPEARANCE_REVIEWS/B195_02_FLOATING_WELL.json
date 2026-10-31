@@ -1,0 +1,170 @@
+{
+  "designation": "C-IIIγ-448",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md",
+  "words": 8184,
+  "sha256": "80e82fcad123298f3d5c32161a12d9ec38716060dd4a9ea654f6b24be1e9fc1b",
+  "unit": 2,
+  "name": "Floating Well",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_02_FLOATING_WELL.md",
+  "before_words": 8184,
+  "after_words": 8428,
+  "base": "4b828911b6eb6c14aa03dad43aae8ac4f84df038",
+  "final_sha256": "363b2016014d63554b9f1c410cfac3b55eaffe2b39fab4c32329cf555a71bc5c",
+  "summary": "Nine source-supported repairs (2 short / 7 careful): a well with no water in it stops raining upward, drowning, vortexing and flooding the ceiling in all five combat rows; a never-drifting Subject loses its 1.95 m/s and its Han-current travelling; two stubs take the record's own facts. HELD; no credit (in-file full-set source review dated 2026-10-11).",
+  "commentary": "The file is explicit to the point of repetition — no water, dry sounding line, descent is weight — and its combat table was the one place that had not been told. What remains after the repairs is the holding's actual physics: rim height, widening area, load on shoulders, and a suppression condition the facility made impossible by buying the only ground it ever worked on, for storage.",
+  "reasoning": "Set SE-448 identity resolved from Side A (C-IIIγ-448 [O]) and items carrying SE-448 / MAW-W/S/G-448-01; Registry rows 671–674 (Registry_409_to_453 direct files, set name Overflow). Sentence triage: all five combat rows ran on water (rain upward, drowning, whirlpool, deluge, sky-sea) against a record that states three ways there is none; the stat line gave lateral Speed to a Subject fixed over two square metres; Story Entry 2 sent it travelling on Han currents the Detailed Appearance section expressly corrects; Side/item flood language is the same template on the other side and is held, not imported. R-18 split declared before the apply: 2 short / 7 careful.",
+  "history": "No credit — the primary carries a dated 'Full-set source review (2026-10-11)' against Side SE-448-A, items SE-448-B/C/D, Registry rows 671–674, Master Entries 79–81, Tale 27 and MAW-W-448, with an explicit Holds paragraph (titles, Medium-vs-Short band, PRIMAL Bio/Marrow vs Han-iron, Registry Accessory/5%). That is the coverage event; equipment_reviews has no 448 entry and none was added. Side A (56 lines) and items B/C/D read whole (43/43/40 lines) including Appearance sections confirm it; git path history shows only the B179 import. +0 all counters.",
+  "holds": [
+    "Titles as held by the in-file review: primary/Master Floating Well Fang/Plate/Ring vs Side/item Overflow Fang/Plate/Ring, set *The Ground for Grief*; figures agree (Grudge 10–15 / 3 / 3 / 2 / 50; suit 0.4/1.0/1.2/1.8, 2/45; Tail / 4% / +3 Resilience vs Registry generic Accessory / 5%).",
+    "Band/subtype as held: primary/Side/item Range 3 with primary Medium vs MAW-W-448 Short; Master Entry 79 PRIMAL — Bio/Marrow vs item Grudge Han-iron; Side/item Skewer and falloff unstated locally and not added.",
+    "Flood-register fork: Side ('floods upward when pressured') and items (inverted flood lines/deluge) vs the primary's dry record — Side text preserved; the primary's combat rows now follow its own sounding-line fact. The Tale's drifting line is likewise untouched.",
+    "Ring conferral: primary 4 conferrals, each for standing the full cycle inside the clearance the procedures forbid, vs item D's appearance 'after grief receives a safe place' at 4% — conditions not crosswalked.",
+    "The unlaid four-by-four licence on the laydown yard, seven ineffective facility mourning places and the removed cairn/shelf remain open institutional record, untouched."
+  ],
+  "split": [
+    2,
+    7
+  ],
+  "repairs": [
+    {
+      "id": "R1-movement",
+      "kind": "short classification grounding",
+      "careful": false,
+      "old": "| **Movement** | Stationary — a device (internal parts may move). |",
+      "new": "| **Movement** | Vertical only, over the same two square metres since the holding opened: it rises and settles, does not drift laterally, and has not touched ground since it rose. |"
+    },
+    {
+      "id": "R2-speed",
+      "kind": "careful stat correction",
+      "careful": true,
+      "old": "| **Speed** | 1.95 m/s |",
+      "new": "| **Speed** | None lateral — the Well does not chase and has never left its two square metres. The rate on this record is vertical: rim height against the gantry scale, read at the start and end of every turn. |"
+    },
+    {
+      "id": "R3-the-hover",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Hover* [**Debuff**] } | \"The well has risen — it floats above the ground, and the water inside defies gravity, climbing.\" | [The Well lifts; its sorrow-water inverts, raining upward onto the target.] | *Target suffers -10 Resilience; the wrongness of it unsettles.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |",
+      "new": "| { *The Hover* [**Debuff**] } | \"There is no water in it — the sounding line lowered in the third year came back dry and exactly as long as it went in. What rises is the rim, and what descends inside the opening is weight.\" | [The rim climbs a few centimetres and the load arrives on the shoulders rather than as sound.] | *Target suffers -10 Resilience; the wrongness is a depth that reads deep from beside it.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |"
+    },
+    {
+      "id": "R4-upturned-flood",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Upturned Flood* [**Debuff**] } | \"The water pours upward — and you are drowning in a flood that falls from below.\" | [The Well's water reverses; the target is soaked from beneath.] | *Target loses 10 Resilience; they cannot find solid ground.* **[10 Grudge DMG [Grudge]]** | When the target lingers beneath the Well. |",
+      "new": "| { *The Upturned Flood* [**Debuff**] } | \"Nothing pours and nobody is soaked. Under the rim the floor stops reading as a place for things, and the worker is still carrying a finished tool at the end of the shift.\" | [No flood reverses; the clearance does its documented work on whoever lingers in it — a grief precisely describable and located nowhere.] | *Target loses 10 Resilience; they cannot find anywhere to set anything down.* **[10 Grudge DMG [Grudge]]** | When the target lingers beneath the Well. |"
+    },
+    {
+      "id": "R5-the-whirlpool",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Whirlpool* [**Attack**] } | \"The floating water spirals — and the spiral is aimed at pulling you up into it.\" | [A vortex of floating sorrow-water seizes the target.] | *Inflicts Grudge pressure and one drowning, spinning wound.* **[14-22 Grudge DMG [Grudge]]** | When the Well is disturbed. |",
+      "new": "| { *The Whirlpool* [**Attack**] } | \"No vortex seizes anybody. The rim widens overhead where no barrier in the wing is rated, and whoever is nearest is drawn in rather than pursued.\" | [The opening expands in place; personnel inside the widened rim move toward the depth without being struck or chased.] | *Inflicts Grudge pressure; the wound is being drawn, slowly, by area rather than by intent.* **[14-22 Grudge DMG [Grudge]]** | When the rim widens past the marked clearance. |"
+    },
+    {
+      "id": "R6-inverted-deluge",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Inverted Deluge* [**Attack**] } | \"The well empties — upward, outward, everywhere at once.\" | [The whole of it comes out at once, sideways and overhead, and the bay is briefly a wet room in the air.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is struck. |",
+      "new": "| { *The Inverted Deluge* [**Attack**] } | \"The well does not empty, because there is nothing in it to empty and nothing can be removed from it. Struck, it surges upward out of reach and vents pressure across the bay.\" | [The rim climbs fast, the bay's air goes with it, and the gantry's strain gauges move before anybody notices.] | *A heavy Crimson surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is struck — Pugnahan, excluded by standing order. |"
+    },
+    {
+      "id": "R7-the-sky-sea",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Sky-Sea* [**Ultimate**] } | \"The water reaches the ceiling — and now the whole room is underwater, upside down.\" | [The opening lets go overhead and the bay fills from the top down, which is the wrong direction and everybody in it knows it.] | *All personnel suffer Grudge pressure for three turns in the inverted sea.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Sky-Sea* [**Ultimate**] } | \"The room is never underwater. The rim widens until the clearance beneath it is no longer a clearance, and the load is on the shoulders of everyone in Bay Four at once.\" | [Expansion in place: the boundary moves, not the entity, and escalation is tied to area — a slow event and a fast one of the same final diameter end at the same number.] | *All personnel suffer Grudge pressure for three turns under the widened rim.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "R8-observation-stub",
+      "kind": "short observation completion",
+      "careful": false,
+      "old": "| **Initial exposure** | The observer identifies Floating Well as a Subject with Subject-Weight manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone D, Forge District. |",
+      "new": "| **Initial exposure** | The observer identifies Floating Well as a Subject with Subject-Weight manifestation. The first reliable markers are its Grudge signature, the suspension itself and the absent shadow, and its presence at Zone D, Forge District. |"
+    },
+    {
+      "id": "R9-entry-2",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "Floats through the Forge District and follows Han currents. Personnel feel pressure and anger without physical source. It grows heavier around displaced workers.",
+      "new": "It does not travel and follows no current: the rim has stood over the same two square metres since the holding opened, and the earlier drift note describes something that has never occurred. Personnel feel pressure without physical source, and it grows heavier around displaced workers — strongest with Terrace descendants, of whom eleven work in the Forge."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.038  clean   933 grams  M.A.W. Equipment\n 0.026  clean   153 grams  Operational Parameters\n 0.017  clean   298 grams  기록 (Registrum)\n 0.014  clean   221 grams  Trivia\n 0.012  clean   738 grams  Combat Record\n 0.007  clean   565 grams  감각 묘사 (Flavor Text)\n 0.006  clean  1411 grams  Warden Record\n 0.005  clean   191 grams  Containment Event Behavior\n 0.005  clean   215 grams  이야기 보고 (Story Log)\n 0.000  clean   420 grams  이야기 (Narratio)\n 0.000  clean   263 grams  관찰 기록 (Observation Log)\n 0.000  clean   240 grams  Appearance\n 0.000  clean   187 grams  Origin\n 0.000  clean   155 grams  최종 관찰 (Final Observation)\n 0.000  clean   103 grams  Behavior\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    45 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   37   2  | **Recommended response** | A Subject: all four Work Types are available. Flerehan and Ferrehan lower the gauge, Viderehan holds \n   84   4  | { *The Inverted Deluge* [**Attack**] } | \"The well does not empty, because there is nothing in it to empty and nothing can be re\n   85   5  | { *The Sky-Sea* [**Ultimate**] } | \"The room is never underwater. The rim widens until the clearance beneath it is no longer a c\n  166   1  - **Sorrow Gauge on event:** Opens at 40% and rises 10% for every metre the rim widens, so escalation is tied to area rather than \n  176   4  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and warm in the hand, that flickers along its spine as though somethi\n  184   2  **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — carrying the source's signature: the \n  192   3  **Appearance:** a plated harness of Grudge Han-iron, dark and warm, that smells of hot stone and old rain — a smell every bearer p\n  232   1  | **At limit** | Duration, activations, attribute change, rejection signs, final rim height, and whether the operator has begun ca\n  237  25  **Full-set source review (2026-10-11):** Reviewed the `— · δ` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Note\n  277   1  Management: Create a safe mourning place; do not force it downward. Work response — Flerehan: Lowers toward the worker and shares \n  309   2  **Interaction method:** Baseline each party alone across several cycles — height, diameter and gauge — before any joint observatio\n  322   2  **Interaction procedure:** Solo baselines first, across several cycles, with height, diameter and gauge established for each party\n  365   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)\n  370   2  **Operational interpretation:** This file reads whole or not at all, and the parts have to be held together: the suspension, the s\n  433   8  The minute records the objection as **correct in all three parts**. It records that a licence — a corner of the yard, four metres \n  437   3  - The register keeps its own figures in numerals for look-up: gauge 660/660, pressure 17–39 per hit, resistance 35 / 25 per cent, \nGENERIC 0.011  (70 shared shingles)  SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-448-A__SIDE_CODEX_Overflow.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-448-B__MAW-W_Overflow_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-448-C__MAW-S_Overflow_Plate.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-448-D__MAW-G_Overflow_Ring.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-448-A__SIDE_CODEX_Overflow.md": "223cc998b076670e27bdce1b5960221373f06c72156c9cb44b3a7be9013cc504",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-448-B__MAW-W_Overflow_Fang.md": "f3f840004b4392ab585ec3735c8cfb8faac2ee055c1d4622a389ad20b777e236",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-448-C__MAW-S_Overflow_Plate.md": "13f6ba56e2ed559242e170b1350c69130cc0fbfc3b898ead7f89e5d850f67959",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_409_to_453/SE-448-D__MAW-G_Overflow_Ring.md": "4637df93529f94d0977f0eb46cae19e612b7c9e82c2eab3ddbf167afdec77d7f",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIIγ-448_Floating_Well_떠다니는_우물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-448_Floating_Well_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md\")]",
+  "table_link": "[Floating Well](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-448_Floating_Well_%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94_%EC%9A%B0%EB%AC%BC.md \"SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md\")",
+  "reading": {
+    "before_lines": 456,
+    "before_bytes": 49014,
+    "final_lines": 456,
+    "final_bytes": 50321
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 48,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 10,
+    "digit_sequence_change": "Sole digit change: the template Speed figure 1.95 m/s is removed from a Subject that has never moved laterally; the record's vertical rim-height measure is stated instead. No other figure, date, score or count was altered."
+  }
+}

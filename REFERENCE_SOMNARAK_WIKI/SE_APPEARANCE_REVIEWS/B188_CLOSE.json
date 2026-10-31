@@ -1,0 +1,55 @@
+{
+ "schema_version": 1,
+ "batch": 188,
+ "status": "CLOSED",
+ "completed_units": 5,
+ "required_units": 5,
+ "results": [
+  "HELD",
+  "HELD",
+  "HELD",
+  "HELD",
+  "HELD"
+ ],
+ "no_change_units": 0,
+ "repair_count": 19,
+ "short_repairs": 14,
+ "careful_repairs": 5,
+ "before_words": 37926,
+ "after_words": 38775,
+ "fresh_validators_pass": 25,
+ "fresh_validators_total": 25,
+ "exact_reconstruction": 5,
+ "pending_fingerprints_checked": 80,
+ "pending_fingerprints_unchanged": 80,
+ "source_changes": 0,
+ "unit_tools_tests": "54/54 PASS",
+ "audits": "PASS",
+ "final_words": {
+  "N-IIIγ-505": 7810,
+  "C-IIIγ-105": 7753,
+  "C-IVγ-130": 7783,
+  "N-IIβ-033": 7705,
+  "O-IIIγ-915": 7724
+ },
+ "counters": {
+  "types": "274/301",
+  "weapon": "272/287",
+  "se_appearance_fix": "18/301"
+ },
+ "fresh_credits": [
+  {
+   "designation": "C-IVγ-130",
+   "types": 1,
+   "weapon": 1
+  }
+ ],
+ "ledger": {
+  "changed": 14,
+  "retained": 4,
+  "held": 201,
+  "blocked": 2,
+  "pending": 80
+ },
+ "next": "Batch 189 opens on a fresh C-locale ranking of the 80 pending dossiers, in this prompt (ten-review ceiling)."
+}

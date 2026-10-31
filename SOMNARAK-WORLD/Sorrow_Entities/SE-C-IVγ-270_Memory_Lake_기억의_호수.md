@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-270 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on none isolated |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; no isolated activation trigger has been established |
 | **Coherence** | Entity (IV) — Self-aware, reflective, deep |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -42,7 +42,7 @@
 - Work stills the surface for a shift and nothing else. Nothing has ever been recovered from this lake — not memory, not liquid, not the sounding weight's explanation — and no cycle has altered the level.
 - Ferrehan is primary, station-bound and long; Viderehan is the sounding record. The Registrum's entry naming Viderehan primary has been corrected against the Behavior table.
 - No breach counter. The saturated margin is staked at every session and never carried forward, because a carried figure would hide exactly the small non-monotonic movement the series exists to catch.
-- Extraction draws from the saturated margin only, under separate authorization, and never from the water. The entry prohibition covers instrumentation lowered on lines.
+- No liquid, memory or margin sample is extracted under this file. The entry prohibition covers personnel, contact and instrumentation lowered on lines; equipment custody, where separately recorded, is not a sampling route.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed basin; output is measured as margin displacement in centimetres per month from fixed stations |
-| **Resistance** | 40% against Lament pressure, 30% against every other kind |
+| **Resistance** | 40% against Lament pressure, 30% against every other kind. Pressure ratings do not replace the working safeguards: fixed stations only, paired conversation, scenes attributed to nobody, immediate rotation after recognition, and no entry or contact |
 | **Activation threshold** | None recorded. The margin moves monthly without reference to the gauge, which has never preceded a movement |
 | **Sorrow Gauge [HP]** | 683/683 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
@@ -80,15 +80,15 @@
 |---|---|---|---|---|
 | { *A Scene, Not a Face* [**Debuff**] } | "You look down expecting yourself and get somebody's kitchen, in winter, with the light wrong." | [The surface returns a life instead of a reflection.] | *Target suffers -10 Composure; the scene is recorded and left unattributed.* **[10 Lament DMG [Lament]]** | On looking into the water from a station. |
 | { *Recognition* [**Debuff**] } | "You know whose kitchen it is. That is the moment the station loses you, and it is why you are rotated off today and not tomorrow." | [The observer identifies the life in the scene.] | *Target loses 10 Composure; rotation off the station for the cycle, not punitive.* **[10 Lament DMG [Lament]]** | On any recognition, reported or suspected. |
-| { *The Returned Weight* [**Attack**] } | "The line came back whole, the weight came back whole, and the markings were in a different order. Four explanations, four objections, one glass case." | [An object is lowered into the water.] | *Lament pressure across the stations; entry discipline is re-read aloud.* **[14-22 Lament DMG [Lament]]** | Prohibited; recorded here because it happened once. |
-| { *Eleven Centimetres* [**Attack**] } | "The largest monthly advance on record, in the quarter four hundred and twelve service deaths closed with nothing in them but a grade and a date." | [The surveyed margin advances more than eight centimetres in a month.] | *Heavy Lament pressure; the gauge rises 15% and the quarter's returns are pulled.* **[24-36 Lament DMG [Lament]]** | On any advance above eight centimetres. |
-| { *Closed With a Grade and a Date* [**Ultimate**] } | "Read out the year's death files at the stations: an hour and a half of dates, and not one thing learned about one person." | [The annual service-death return is read aloud at the stations.] | *Everyone present takes Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | On publication of the annual return. |
+| { *The Returned Weight* [**Attack**] } | "The line came back whole, the weight came back whole, and the markings were in a different order. Four explanations, four objections, one glass case." | [An object is lowered into the water.] | *Lament pressure across the stations; entry discipline is re-read aloud.* **[14-22 Lament DMG [Lament]]** | When any object or instrument is lowered into the water — prohibited; recorded because it happened once. |
+| { *Eleven Centimetres* [**Attack**] } | "The largest monthly advance on record, in the quarter four hundred and twelve service deaths closed with nothing in them but a grade and a date." | [The surveyed margin advances more than eight centimetres in a month.] | *Heavy Lament pressure; both station workers are stood down, a fresh party re-stakes the margin, and the quarter's service-death returns are pulled the same day. No Gauge rise is inferred from the movement.* **[24-36 Lament DMG [Lament]]** | On any advance above eight centimetres. |
+| { *Closed With a Grade and a Date* [**Ultimate**] } | "Read out the year's death files at the stations: an hour and a half of dates, and not one thing learned about one person." | [The annual service-death return is read aloud at the stations.] | *Everyone present takes Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the annual service-death return is read aloud at the stations. |
 
 ### Battle Phases
 
 1. **Tension:** Identification rests on a still black surface in a stone basin under the Gardens, a surface that shows scenes rather than faces, with fixed sounding stations set around it and no shore visible at the deepest point. Anybody standing at the water's edge instead of at a station means the holding is being mishandled. The approach is confirmed on that basis and positions are taken before anything else is tried.
 2. **Clash:** Nothing is done to the lake. The stations sound the margin, the pair converse aloud at intervals about matters unrelated to the holding, and the month's figures are set against the Records Office return for death files closed with no attributed account. Work Types hold the pair steady at the stations; they do not touch the water, and nothing ever will.
-3. **Resolution:** The watch ends the way the file's own rule ends it — containment, retreat or management, or against the documented suppression condition: **Seal access and catalogue memories without claiming them**.
+3. **Resolution:** The watch ends only when the month's soundings are entered unrounded from every station, every scene is recorded without attribution, the conversation column is marked honestly, access remains sealed and no memory has been claimed. **Seal access and catalogue memories without claiming them** is the management condition; suppression is not a route.
 
 ### Consequences
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-How the gauge answers depends entirely on what is being answered. Element, coherence and manifestation each shape the way a Work Type meets the sorrow. The record here is an Object/Place with Place-Lament manifestation and Lament as its element, held at SECTOR-D-02 beneath the Echo Gardens, and nothing measured on an entity with a similar name carries over. A steady gauge is not a licence to relax either: a watch can leave the reading flat while the worker is still taking memory, environmental or identity effects away with them.
+Only two Work Types meet the Lake, and both are worked from fixed stations. Viderehan takes the monthly soundings and records any scene in full without assigning it to a person; Ferrehan is the long paired watch in which unrelated conversation is kept aloud and marked honestly. Flerehan does not establish ownership and Pugnahan—striking, draining or lowering anything into the water—is structurally invalid. The load-bearing readings are the surveyed margin, recognition/rotation and the conversation column; the Gauge neither predicts margin movement nor licenses a longer watch.
 
 **Reading the response:** Success is a complete set of soundings, an unattributed scene record, and an honest conversation column. The gauge is nearly useless here: it does not precede margin movement and has never predicted a flattening. Silence predicts the flattening, which is why the one subjective field in the paperwork is the one supervisors read.
 ## Expansion Behavior
@@ -203,7 +203,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cold against the skin and faintly luminous, that settles tighter the longer it is worn.
+**Appearance:** a wrapping of Lament Han-silk with a dark reflective outer layer and one warm pulse line running inside, so reflected lives cross the cloth while the wearer's current body remains legible along the inner thread.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -213,7 +213,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Wards Lament pressure on the Mind. Required dress at the stations for any watch following a margin advance above eight centimetres.
+**Ability:** *Current Pulse* lets historical lives reflect across the dark outer layer without entering the wearer's identity while the station partner confirms the warm pulse line and two current anchors. Required dress at the stations for any watch following a margin advance above eight centimetres; it is not diving equipment and may not enter the Lake.
 
 **Cost:** A numbness to small pleasures that is indistinguishable, in the debrief answers, from the holding's own flattening — which is why the shroud is logged with the time it went on and the time it came off.
 
@@ -221,21 +221,21 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a small flask of Lament Han-crystal that runs cold in the hand and faintly luminous, and warms slowly while it is carried.
+**Appearance:** a warm tail-flask of deep-blue Han crystal that looks empty until held against witnessed Lake memory, when one life moves inside in liquid form.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 Clarity during source work against this holding. The flask also holds one memory in liquid form, and the six bearers have between them filled it four times — in each case with an account of a dead colleague that the Records Office had refused to file.
+**Effect:** +2 Clarity during source work against this holding. The Flask can hold one witnessed memory in liquid form for the work that requires it; six recorded bearers have between them used it four times in connection with accounts of dead colleagues the Records Office had refused to file.
 
-**Ability:** Holds one memory in liquid form, indefinitely, retrievable whole. Of the six flasks issued, four hold an account of a dead colleague that the Records Office declined to file; the holders have not been asked whose, and the orientation card notes that they will not be.
+**Ability:** Holds one witnessed memory in liquid form as custody, not collection, until it is returned at the witnessed shore; it is not an archive shelf and does not preserve an unwitnessed sample. Four recorded uses concerned accounts of dead colleagues the Records Office declined to file; the bearers have not been asked whose, and the orientation card notes that they will not be.
 
 **Cost:** The death or loss attached to the memory is felt in full every time the flask is opened, at the same strength as the first time, and does not attenuate with repetition. Two holders have opened theirs once.
 
-*The six flasks were granted at stations where the conversation column was kept unbroken through a full watch, which the counselors regard as the only voluntary act this holding permits.*
+*The Flask has been granted to six recorded bearers at stations where the conversation column was kept unbroken through a full watch, which the counselors regard as the only voluntary act this holding permits.*
 
 ### M.A.W. Use Notes
 
-The set is built around keeping something that the record refuses to keep: a rod that draws a line, a shroud that dulls, and a flask that holds one account at full price. The armoury's note observes that the flask is the only piece in the wing whose benefit and whose cost are the same event.
+The set is built around separation without ownership: the locally recorded rod holds the surveyed line, the Shroud's warm pulse line keeps the current wearer distinct from lives crossing its outer cloth, and the Flask gives one witnessed memory temporary custody before return. Their costs remain separate—involuntary weeping, numbed minor joys, and the stored life's death or loss felt in full. The Armoury note observes that the Flask is the only piece in the wing whose benefit and cost arrive as the same event.
 
 ### Field Use Record
 
@@ -246,7 +246,7 @@ The set is built around keeping something that the record refuses to keep: a rod
 | **At limit** | A run of unkept conversation entries stands both workers down, regardless of condition and regardless of protest. The protests are frequent and have never changed an outcome. |
 | **After use** | Margin re-staked, figures entered before the pair leaves the stations, debrief taken from each worker separately, and the flattening recorded in days once it ends. |
 
-**Stat interpretation:** γ across the set, and nothing here has ever been fought, so the grade describes extraction stability only. The human cost on this file is the flattening and, for two of six flask holders, one opening that was enough.
+**Stat interpretation:** γ across the set, and nothing here has ever been fought, so the grade describes custody and station-use stability, not permission to extract from the Lake. The human cost on this file is the flattening and, for two of six Flask bearers, one opening that was enough.
 
 **Full-set source review (2026-10-13):** Reviewed the grade overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-270-A` (`C-IVγ-270 [LP]`, `4/4`, assigning `SE-270` to Mnemosyne), with `SE-270-B/C/D`; Registry rows 559–562; Master M.A.W. rows/details 226–228; Entity Codex row 441 / Tale 76; archetype `MAW-W-270`. Local Weapon core (Lament 7–12 / Fast 3 / Medium 3 / max 3 / 40 Echoes) agrees with Side A/B, but the primary and W-270 archetype call it *Rusted Boundary-Rod* while exact Side/item B and Master row/Entry 226 call it *Lake Requiem*; Side/item describe a singing blade and the Master category is Requiem/Resonant Blade; no transition joins rod and blade. The repeated rod record in separate `N-IIβ-270` / Neglect Learned to Listen is not this Weapon pair. Suit values align. Tail / 4% Stigma agrees with Side A/D and its effect now names +2 Clarity; Registry row 562’s generic Accessory / 5% is held, not substituted. The overview wording `None issued · γ` is retained: the γ grade is supported, but its issue-status phrase is not reconciled with the Side/item Flask bestowal and six recorded holders. No linked evidence file changed. This is the first source-led disposition for exact `SE-270-B`.
 
@@ -303,7 +303,7 @@ Year 4237, the first full year. Three hundred and eighty-nine accounts taken of 
 The margin advanced four centimetres last year. It has averaged seven. That is my entire case and I am aware of what it is worth against a man's career.
 
 **Entry 6 — <Archive Note>**
-There is a story in Somnarak — told in whispers, traded for Echoes, passed from parent to child. The story begins with a Keeper who erased memories. Their sorrow was not unique — in Somnarak, everyone sorrows. But this sorrow was different. This sorrow was wept until it had no tears left. This sorrow pooled, deep and still. This sorrow crystallized into something that could not be ignored.
+The orientation case holds the one sounding weight lowered into the Lake. The line came back whole and the weight came back whole; its markings were in a different order. Four explanations are mounted beneath it with the objection that defeated each. New station pairs are shown the weight before the sounding books, then reminded that the file's other instrument is clerical: scenes are written whole, attributed to nobody, and set beside the service-death returns rather than beside a guessed name.
 
 ## 최종 관찰 (Final Observation)
 
@@ -324,13 +324,13 @@ It is black and cold and it does not move. You do not touch it; nobody touches i
 
 **With continued exposure:** The scenes stop being strange and start being domestic, which is worse. Then one of them is familiar, and that is the hour the rotation rule was written for.
 
-**When the entity activates:** Nothing is directed at anybody. The margin is four centimetres further out than it was last month, and that is the whole of the event.
+**When the margin moves:** Nothing is directed at anybody and no activation is announced. The monthly sounding finds the surveyed line centimetres from where last month staked it, and that discrepancy—not a visible event—is what the response answers.
 
 **After departure:** The flattening, if it comes, comes with the silence rather than the water: a few days of finding that nothing requires anything of you. Pairs who kept the column rarely report it.
 
 ### Interaction Pattern
 
-Three holdings are entered beside the shore — The Memory Well, The Memory Weaver and The Echo Gardens — and the file keeps them as comparisons, never as friends or enemies. A joint watch states which reading moved when the second one arrived: the sound over the water, the movement of the surface, the temperature at the bank, the memory the observers were left carrying, the gauge, or the containment line, and beside that the range it kept, the time it lasted and what set it off.
+Three holdings are entered beside the Lake — The Memory Well, The Memory Weaver and The Echo Gardens — and the file keeps them as paper comparisons, never as friends or enemies. No joint proximity watch is run. Each comparison asks whether the other record stores, consumes or receives memory, and is answered against the sounding books, entry prohibitions and service-death returns rather than by bringing anything to the water.
 
 **Interaction method:** No proximity work is possible; this holding is a basin in deep stone and nothing enters the water. Each paper relationship is answered in writing on one question — stores, consumes, or receives — with the name of the officer who answered it.
 

@@ -1,0 +1,105 @@
+{
+  "designation": "N-IIIγ-160",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md",
+  "words": 7809,
+  "sha256": "c2908ec355c2eefa23662349233449503fd09cb2b86c61720dfc46a8983ef764",
+  "unit": 4,
+  "name": "Broken Promise",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_04_BROKEN_PROMISE.md",
+  "before_words": 7809,
+  "after_words": 7851,
+  "base": "93b434f265261229ed62051c8a40b645801bc1f5",
+  "final_sha256": "3db4abc7398c143f59e8ee5e72a1ec9081fb8d56cd114cfdebea3751529a1d8e",
+  "summary": "One source-supported careful repair: the Shard-Strike row no longer launches a flying fragment at a target — the file's injury record is shallow cuts sustained only by people who had broken something they had said — and now describes the documented harm, the binding taking hold when an undertaking is spoken in contact with a shard. Credits +0/+0/+0: the in-file Batch 112 cross-source review remains the coverage event for a dossier that has no primary-assigned equipment set at all.",
+  "commentary": "Broken Promise carries the heaviest moral machinery in this batch — a wing that keeps its holding quiet by withdrawing real commitments to real households once a quarter, minuted as correct in all three parts — and needed only one correction, in the same place Rift did: a combat row that invented a projectile. Nothing on Collector's Row throws anything; the shards cut flesh seldom and only ever the flesh of somebody who had broken a thing they said. The row now deals the harm the file documents. The credit question was settled before this pass began: Batch 112 already untangled the 160-suffix identities in the file itself, and there is no SE-160 set belonging to this entity to review — the one on the shelf belongs to The Debt Chain.",
+  "reasoning": "Identity work repeated from the in-file Batch 112 review and re-verified against the shelf: Registry_159_to_169/160_Debt_Chain is N-IIIβ-160 [WO] The Debt Chain, not this N-IIIγ-160 [GO]; no primary-assigned SE-160-B/C/D exists for Broken Promise. Sentence triage of the frozen primary found one unsupported claim: combat row 3's launching shard ('A fragment of the broken promise flies… A shard of shattered vow launches'), contradicted by the Observation Log ('Its shards cut crystal readily and flesh seldom; the injuries on record are shallow and all were sustained by people who had broken something they had said') and by the binding mechanics that govern every other section. R-18 split declared before the apply: 0 short / 1 careful. The replacement is built only from documented behaviour (arrangement turns toward speakers; activation on speaking a promise while touching a shard). Technical PASS on the frozen file (GENERIC 0.009) did not settle the claim — R-33. The Trivia numeral look-up line is left as found, as at Memorial Flame: it asserts nothing false.",
+  "history": "The primary carries an in-file M.A.W. Cross-Source Review — Batch 112: no Side set is registered to Broken Promise's own SE-160 assignment; SE-160-A/B/C/D belong to N-IIIβ-160 The Debt Chain (Binding Maul/Mantle/Chain); SE-1015-A Facsimile repeats N-IIIγ-160 as a source designation but links its own SE-1015 items and 'Facsimile — Witnessed Form' set, establishing no crosswalk and counting as no Weapon review; Master Entries 418–420 join Promise Fang/Plate/Shard to N-IIIγ-160 (γ, Grudge, 40/35 Echoes) while their PRIMAL/Plates/Relic-Drops classifications stay unreconciled with the primary's Han-iron; SE-851 Shard of a Broken Promise's identically named pieces are a separate identity. That review is the coverage event: Types +0, Weapon +0, SE +0. Counters stay 278/301, 276/287, 18/301.",
+  "holds": [
+    "Identity negatives held exactly as Batch 112 left them: SE-160 set = The Debt Chain N-IIIβ-160; SE-1015 Facsimile's repeated source designation = no crosswalk; SE-851 Shard of a Broken Promise's Promise Fang/Plate/Shard = duplicate names on a different identity — none used to rewrite the primary's local Fang, harness or Tail tile.",
+    "Master Entries 418–420 classifications (PRIMAL — Bio/Marrow; Armor (Plates & Heavy Armor); Accessory (Relic Drops & Seeds)) vs the primary's Han-iron descriptions — unreconciled; local Tail / 4% / +2 Stigma record stands.",
+    "Tales entry β potency vs this file's γ (Batch 112) — unresolved.",
+    "The quarterly-withdrawal practice and the ward officer's correct-in-all-three-parts objection stand as the file minutes them; the nine readings of the attempted name remain held with none preferred."
+  ],
+  "split": [
+    0,
+    1
+  ],
+  "repairs": [
+    {
+      "id": "R1-shard-strike-row",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Shard-Strike* [**Attack**] } | \"A fragment of the broken promise flies — sharp, jagged, carrying the full force of the betrayal.\" | [ A shard of shattered vow launches.] | *Inflicts Grudge pressure and one wound of broken trust.* **[14-22 Grudge DMG [Grudge]]** | When the Promise is disturbed. |",
+      "new": "| { *The Shard-Strike* [**Attack**] } | \"Nothing is thrown. The arrangement sharpens toward whoever has just undertaken something, and the fragments hold a signature one stroke longer than they should.\" | [The shards cut crystal readily and flesh seldom; every injury on record is shallow, and every one was sustained by somebody who had broken a thing they had said.] | *Inflicts Grudge pressure; the wound of broken trust is the binding taking hold, not a projectile.* **[14-22 Grudge DMG [Grudge]]** | When an undertaking is spoken in contact with a shard. |"
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.018  clean   599 grams  Combat Record\n 0.018  clean   168 grams  최종 관찰 (Final Observation)\n 0.016  clean   188 grams  Trivia\n 0.015  clean   137 grams  Operational Parameters\n 0.014  clean   773 grams  M.A.W. Equipment\n 0.008  clean   237 grams  관찰 기록 (Observation Log)\n 0.008  clean   252 grams  기록 (Registrum)\n 0.008  clean   524 grams  감각 묘사 (Flavor Text)\n 0.007  clean  1293 grams  Warden Record\n 0.003  clean   372 grams  Activation Behavior\n 0.000  clean   329 grams  이야기 (Narratio)\n 0.000  clean   184 grams  Appearance\n 0.000  clean   158 grams  이야기 보고 (Story Log)\n 0.000  clean   129 grams  Origin\n 0.000  clean   107 grams  Behavior\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  THIN      8 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   85   4  | { *The Full Fracture* [**Attack**] } | \"Every promise that was ever broken — every shattered vow — converges and detonates.\" | [\n   86   7  | { *Every Promise Breaks* [**Ultimate**] } | \"Now every vow in the field shatters — every commitment, every oath — and no one can\n  155   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  214   7  **Appearance:** a fang-curved blade of Grudge Han-iron, dark and faintly warm, that takes an edge wherever the bearer's own undert\n  222   2  **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and carries the source's signature: t\n  230   3  **Appearance:** a plate harness of Grudge Han-iron, dark and faintly warm, that settles on the wearer with the weight of a documen\n  248   2  **Appearance:** a shard-tile of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.\n  276   1  | **At limit** | Duration, activations, attribute change, rejection signs, the fracture added, residue weight, and whether the sur\n  302   2  **Observation method:** Photograph, count, weigh, and write down what people said. The form here is the sorrow and not a forecast:\n  326   3  | Viderehan and Ferrehan only, certified Tool protocol, with the session's management condition taken from the withdrawal register\n  349   2  **Interaction method:** Baseline each party alone across several cycles — arrangement, fracture rate, residue weight and gauge — b\n  362   2  **Interaction procedure:** Solo baselines first, across several cycles, with arrangement, fracture rate, residue weight and gauge \n  406   2  **Operational interpretation:** This file reads whole or not at all: the classification, the 2 valid Work Types, the binding condi\n  461   1  The objection is minuted at every annual review. It holds that the facility is selecting its own promises to people for event, on \n  463   8  The minute records the objection as **correct in all three parts**. It records that a scheme to pay compensation out of the Row's \n  467   3  - The register keeps its own figures in numerals for look-up: gauge 693/693, pressure 14–32 per hit, resistance 35 / 25 per cent, \nGENERIC 0.009  (52 shared shingles)  SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IIIγ-160_Broken_Promise_깨진_약속](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-160_Broken_Promise_%EA%B9%A8%EC%A7%84_%EC%95%BD%EC%86%8D.md \"SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\")]",
+  "table_link": "[Broken Promise](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-160_Broken_Promise_%EA%B9%A8%EC%A7%84_%EC%95%BD%EC%86%8D.md \"SE-N-IIIγ-160_Broken_Promise_깨진_약속.md\")",
+  "reading": {
+    "before_lines": 486,
+    "before_bytes": 48604,
+    "final_lines": 486,
+    "final_bytes": 48858
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 71,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 6,
+    "digit_sequence_change": ""
+  }
+}

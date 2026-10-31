@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-914 [N]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only. Mishandled, the drift widens across more of the vault network and the range has never afterwards contracted; it does not escape, transform, or arrive. |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | Drift speed at every junction — an unhurried walk, never at rest, and the only figure here that has ever moved: it falls by about eighteen per cent while an anchor from outside the city is carried. |
 | **Resistance** | 35% against Lament, the pressure it is itself made of; 25% against everything else the field can bring against a holding that cannot be cornered |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
@@ -80,7 +80,7 @@
 |---|---|---|---|---|
 | { *The Drift* [**Debuff**] } | "It passes through you on its way to nowhere — and a little of you goes with it." | [The Soul drifts through the target; something is carried off.] | *Target suffers -10 Composure; they feel suddenly elsewhere.* **[10 Lament DMG [Lament]]** | When the Soul passes nearby. |
 | { *The Wrong Turn* [**Debuff**] } | "It has been lost so long it has forgotten the way — and now neither do you." | [The Soul's directionlessness infects the target.] | *Target loses 10 Composure; every way looks like the wrong one.* **[10 Lament DMG [Lament]]** | When the target follows the Soul. |
-| { *The Cold Passage* [**Attack**] } | "It walks through you — and the cold it brings stays where it passed." | [The Soul passes directly through, leaving frost behind.] | *Inflicts Lament pressure and one chill that reaches the bone.* **[14-22 Lament DMG [Lament]]** | When the Soul is addressed. |
+| { *The Cold Passage* [**Attack**] } | "It walks through you — and nothing frosts and nothing chills to the bone. What stays where it passed is a loss with nothing attached to it: no person, no place, no event, only the condition." | [No engagement has ever been fought here; every logged incident is a session in which somebody tried to be helpful about the route.] | *Inflicts Lament pressure; the corridor stops reading as the worker's own building.* **[14-22 Lament DMG [Lament]]** | During accompaniment — never because it was addressed. |
 | { *The Lost Way* [**Attack**] } | "It walks on, and the corridor it leaves you standing in is not the one you entered." | [The Soul withdraws its company; the worker is set down at a junction they cannot place.] | *A heavy Deep Blue blow; the Sorrow Gauge surges 15% as the route stops being anything the worker can follow.* **[24-36 Lament DMG [Lament]]** | When the Soul is bound, blocked, or called after. |
 | { *The Endless Wandering* [**Ultimate**] } | "Every junction opens onto the same unfamiliar corridor, and none of it is yours." | [The drift widens until the whole field is walked without arriving anywhere.] | *All in range suffer Lament pressure for three turns as the corridor sequence repeats and no part of it resolves.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and no anchor has been presented. |
 
@@ -151,10 +151,10 @@ Driftglass is an Object/Place with Object-Lament manifestation and Lament expres
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
+| **Breach Type** | Expansion — the drift widens into corridors outside the mapped range; nothing escapes, because it was never held anywhere to escape from. |
 | **Movement** | Wanders the Alpha Tree corridors and vaults, never twice by the same route, at the speed of an unhurried walk. |
 | **Effect** | Personnel lose the sense of belonging anywhere in particular; the loss is reported late, if at all, and is visible in the route they take back. |
-| **Duration** | Until a resting place is acknowledged. |
+| **Duration** | Until the session ends; an anchor slows the drift by about a fifth for the length of it and does not stop it, and no resting place has ever been found, built or accepted. |
 | **Suppression** | Provide a memory anchor; do not force a destination. |
 
 ### Escalation Notes
@@ -195,10 +195,10 @@ Escalation here is spatial and quiet. Record the junction sequence, the drift he
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The piece lies still in the stow box until an operative takes it up; beneath the cloth it is already cold, and the field answers the pulse before the strap is fastened. | Wearing it opens the drift field: personnel lose the sense of belonging anywhere in particular, and the wearer carries +10% resistance to Lament while it is on them. |
-| 30 Seconds | The piece was cut from a drift, not from a body — a traveller came in from the Desolate carrying only sorrow, and this is the material that grief was found to answer to. | The wearer keeps the benefit and begins paying for it: reaction and focus sharpen, and composure is what buys them. |
-| 1 Minute | The wearer's breath falls into step with the field, and the toll stops being theoretical — the second worker's log takes over from the wearer's own account here. | Past sixty seconds the piece inflicts 5 Lament damage every 15 seconds; the second worker watches for detachment and logs the hour of the first drift in the wearer's answers. |
-| 2 Minutes | Past two minutes the boundary thins: the wearer's own arriving places begin to read as the traveller's unfamiliar ones, and the piece is doing what the holding does. | Past two minutes, or a forced removal without a completed stow, acute panic and the recorded cost fall due together; the piece is not reissued to that wearer, and the Lantern is entered against their name. |
+| 10 Seconds | The piece lies still in the stow box until an operative takes it up; beneath the cloth it is already cold, and the field answers the pulse before the strap is fastened. | Wearing it opens the drift field: personnel lose the sense of belonging anywhere in particular. Nothing here grants resistance, and the wearer's sealed route home is already on file because the cost is read off how that route behaves afterwards. |
+| 30 Seconds | The piece was cut from a drift, not from a body — a traveller came in from the Desolate carrying only sorrow, and this is the material that grief was found to answer to. | No reaction sharpens and no focus is bought. What begins is the urge to decide the route, and the second worker logs the junction where the wearer first proposes a turning. |
+| 1 Minute | The wearer's breath falls into step with the field, and the toll stops being theoretical — the second worker's log takes over from the wearer's own account here. | No damage accrues on a timer; the exposure is in the hours, not the seconds. The second worker watches for the wearer stopping taking the shortest way and logs the hour of the first drift in their answers. |
+| 2 Minutes | Past two minutes the boundary thins: the wearer's own arriving places begin to read as the traveller's unfamiliar ones, and the piece is doing what the holding does. | The session ends at a marked stow point rather than wherever the wearer is standing — the two-minute limit is this set's own, from its Field Use Record, not a property of the field. The piece is not reissued to that wearer on the next rotation, and the Lantern is entered against their name. |
 
 ### Escalation Notes
 
@@ -215,7 +215,7 @@ In relic mode the thing to watch is the operator's own navigation. Record the el
 | **Primary effect** | The operator reads routes as the entity reads them: every road open, none of them arriving anywhere. |
 | **Duration / rate** | While attached, and for some hours after removal in the form of a reluctance to go home. |
 | **Risk** | Major (γ). Prolonged attachment removes the operator's sense of which direction is theirs, and the recorded cost of the Lantern is exactly that. |
-| **Management** | Provide a memory anchor; do not force a destination, under certified Tool protocol. |
+| **Management** | Provide a memory anchor; do not force a destination. |
 
 **Activation reporting order:** anchor presented → whether it was recognised, and how that was judged → junctions taken afterwards → any change in drift speed → the reading. Recognition is judged by the drift slowing and by nothing else; observers' impressions of acknowledgement are not recorded on this sheet.
 ## M.A.W. Equipment

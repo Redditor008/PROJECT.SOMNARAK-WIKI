@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "batch": 206,
+  "status": "CLOSED",
+  "programme": "R-34 recheck — one oldest pre-R-34 HELD dossier per SE document shape (second batch)",
+  "completed_units": 5,
+  "required_units": 5,
+  "results": [
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD",
+    "HELD"
+  ],
+  "no_change_units": 0,
+  "repair_count": 80,
+  "short_repairs": 24,
+  "careful_repairs": 56,
+  "before_words": 37715,
+  "after_words": 39733,
+  "fresh_validators_pass": 25,
+  "fresh_validators_total": 25,
+  "exact_reconstruction": 5,
+  "pending_fingerprints_checked": 236,
+  "pending_fingerprints_unchanged": 236,
+  "source_changes": 0,
+  "cited_sources_checked": 24,
+  "unit_tools_tests": "54/54 PASS",
+  "audits": {
+    "tests": "PASS",
+    "lore": "PASS",
+    "timeline": "PASS",
+    "seam": "PASS",
+    "box": "PASS",
+    "progress": "PASS"
+  },
+  "table_blocks_equal_cell_counts": "5/5 primaries",
+  "combat_trigger_cells_parsed": "25/25",
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IVδ-103",
+      "name": "The Frozen Veil",
+      "repairs": 21,
+      "split": [
+        11,
+        10
+      ],
+      "before_words": 7886,
+      "after_words": 8245,
+      "final_sha256": "62518988fc8b35ad8f609ccdbcc644c34394c432f9d77c9f89567080c226cba0",
+      "triggers": [
+        "When a worker crosses the five-meter line into the drain radius.",
+        "When a worker remains inside the line toward ten minutes, where the recorded loss of emotional capacity begins.",
+        "When warmth is forced or feeling is deliberately provoked in its presence.",
+        "When the shell is thinned by genuine, unplanned feeling.",
+        "When the Sorrow Gauge reaches the ≥90% activation threshold after feeling has been arranged in its presence."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_01_FROZEN_VEIL.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_01_FROZEN_VEIL.md"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IIIγ-180",
+      "name": "Owed",
+      "repairs": 15,
+      "split": [
+        3,
+        12
+      ],
+      "before_words": 7674,
+      "after_words": 8070,
+      "final_sha256": "4f38986955b1dd0d022f9febdbad63f55acf345dde55e4fbdb4bf14d1c32345e",
+      "triggers": [
+        "When a worker approaches the face and the measurement closes on a block found since the last watch.",
+        "When a worker remains at the face past the monitored duration without relief.",
+        "When the Wall is struck or demolition is attempted.",
+        "When an expansion interval takes both ends past their fixed marks.",
+        "When the Sorrow Gauge reaches the ≥75% activation threshold in an expansion on new or unpaid obligation."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_02_OWED.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_02_OWED.md"
+    },
+    {
+      "unit": 3,
+      "designation": "C-Vδ-290",
+      "name": "First Tear",
+      "repairs": 14,
+      "split": [
+        2,
+        12
+      ],
+      "before_words": 9190,
+      "after_words": 9670,
+      "final_sha256": "2f8524e88524f42209bf537027253d9d50289e8b755ddb4bebfa0a3ac58a639b",
+      "triggers": [
+        "When an observer takes the nightly reading at the line under Viderehan.",
+        "When an observer remains in the vault past the four minutes the reading takes.",
+        "When anyone crosses the line or attempts contact with the crystal.",
+        "When a nightly reading is missed, late, or taken by one observer instead of two.",
+        "When the Sorrow Gauge reaches the ≥90% activation threshold with the none-authorized regime event (contact attempted, question posed, or the series suspended)."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_03_FIRST_TEAR.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_03_FIRST_TEAR.md"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IIIγ-373",
+      "name": "Spreading Well",
+      "repairs": 16,
+      "split": [
+        4,
+        12
+      ],
+      "before_words": 8240,
+      "after_words": 8665,
+      "final_sha256": "996d46335498142a3ec0463e6475c64969c6eb10499dfb687cca83ff2f6eb681",
+      "triggers": [
+        "When a worker stands over a live channel to read it under Viderehan.",
+        "When a worker lingers over a channel past the reading without relief.",
+        "When a channel is dammed, diverted or stepped into.",
+        "When a sluice run is released out of order, abandoned, or allowed to overload.",
+        "When the Sorrow Gauge reaches the ≥75% activation threshold while new ends stand unacknowledged."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_04_SPREADING_WELL.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_04_SPREADING_WELL.md"
+    },
+    {
+      "unit": 5,
+      "designation": "C-Iα-114",
+      "name": "A Letter Never Sent",
+      "repairs": 14,
+      "split": [
+        4,
+        10
+      ],
+      "before_words": 4725,
+      "after_words": 5083,
+      "final_sha256": "99fd18571e60003500e8a54540542d46a74e4e8f41c65312b9d9b555e910d88d",
+      "triggers": [
+        "When an operative carrying an unvoiced apology enters the chamber.",
+        "When an operator reads, or tries to read or write over, the faded brush script on the flap.",
+        "When the envelope is handled roughly or moved without authorization.",
+        "When the envelope is dropped or jarred.",
+        "When the Sorrow Gauge reaches the ≥70% activation threshold under vibration or acoustic resonance from a neighbouring holding."
+      ],
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_05_LETTER_NEVER_SENT.md",
+      "prior": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B206_05_LETTER_NEVER_SENT.md"
+    }
+  ],
+  "final_words": {
+    "C-IVδ-103": 8245,
+    "C-IIIγ-180": 8070,
+    "C-Vδ-290": 9670,
+    "C-IIIγ-373": 8665,
+    "C-Iα-114": 5083
+  },
+  "body_shape_measurement": {
+    "Abstract/phenomenon": 89,
+    "Object": 78,
+    "Humanoid": 59,
+    "Place/structure": 58,
+    "Beast/creature": 16,
+    "Hybrid": 1,
+    "total": 301,
+    "kinds": 6,
+    "method": "Keyword classification of each dossier Physical Form description with Manifestation prefix (Object-/Place-/Time-/Hazard- taken at prefix; Subject- split by humanoid vs beast keywords, remainder abstract). Forms are prose; edge cases approximate."
+  },
+  "recheck_pool": {
+    "at_open": 241,
+    "rechecked_this_batch": 5,
+    "remaining": 236
+  },
+  "counters": {
+    "types": "286/301",
+    "weapon": "284/287",
+    "se_appearance_fix": "18/301"
+  },
+  "fresh_credits": [],
+  "ledger": {
+    "held": 281,
+    "blocked": 2,
+    "changed": 14,
+    "retained": 4
+  },
+  "next": "236 pre-R-34 HELD dossiers remain in the recheck pool; any Batch 207 needs fresh owner authorisation. Draft PR #15 remains open under owner control; no merge."
+}

@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Wet Cry* [**Debuff**] } | "A scream — but wet, waterlogged, heavy with old tears — and each syllable drips with accumulated grief." | [The Scream's sorrow-saturated sound lands on the target; they feel the weight.] | *Target suffers -10 Resilience; the scream is heavier than sound should be.* **[10 Grudge DMG [Grudge]]** | When the target hears the Scream. |
-| { *The Rising Flood* [**Debuff**] } | "The scream does not stop — and the sorrow-water it generates rises, ankle-deep, knee-deep, climbing." | [The Scream's runoff accumulates; the target is wading in grief.] | *Target loses 10 Resilience; the scream is generating a flood.* **[10 Grudge DMG [Grudge]]** | When the target remains. |
-| { *The Sonic Splash* [**Attack**] } | "The scream sharpens — and the concentrated sorrow-water becomes a blade of wet sound." | [A focused scream-strike, liquid and sharp.] | *Inflicts Grudge pressure and one wound of waterlogged rage.* **[14-22 Grudge DMG [Grudge]]** | When the Scream is interrupted. |
-| { *The Full Deluge* [**Attack**] } | "Every scream the entity ever held — released at once — a waterfall of sorrow-saturated sound." | [The Scream's total release is a flood of grief and rage, and it is heard as pressure rather than as noise — the instruments in the room stay silent through all of it.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%. The 407 HP line is untouched, because nothing has been done to the crystal — the flood is what it was already holding.* **[24-36 Grudge DMG [Grudge]]** | When somebody summarises what the chamber heard as sound. |
-| { *The Drowning Din* [**Ultimate**] } | "The sorrow-water from every scream fills the field — and the screaming does not stop, and the water does not recede." | [The Scream extends its soaking across the whole area, and the extension runs along the reports written about it.] | *All in range suffer Grudge pressure for three turns of drowning screams. The pressure rises 9 points higher where the last report called it an acoustic anomaly or a pressure phenomenon, and falls 7 where the last report called it a grievance — the only figure in this file that responds to paperwork.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the chamber's own report wording has not been corrected. |
+| { *The Unreceived Phrase* [**Debuff**] } | "No sound reaches the instruments. Your teeth and sternum receive the sentence your ears filed as noise." | [Silent heat and pressure make the protest's content felt before it is understood.] | *Target suffers -10 Resilience under silent Grudge pressure; no audible scream is produced.* **[10 Grudge DMG [Grudge]]** | On activation by touch or nearby vocal aggression. |
+| { *The Rising Reading* [**Debuff**] } | "It does not get louder. The fracture lines darken, and the pressure behind the eyes becomes pressure in the chest." | [Stored anger remains present while its content stays unrecorded.] | *Target loses 10 Resilience under sustained silent pressure; the gauge rises through non-reception, not runoff.* **[10 Grudge DMG [Grudge]]** | While the target remains in the field without the grievance being recorded. |
+| { *The Countershout* [**Attack**] } | "Drown it out," the order said — and every rib cage in the perimeter had to carry the command instead." | [Vocal aggression interrupts reception and the stored protest rebounds as a silent pressure wave.] | *Inflicts focused Grudge pressure on the interrupting speaker; no blade or water is formed.* **[14-22 Grudge DMG [Grudge]]** | When a raised voice or countershout interrupts the work. |
+| { *The Full Protest* [**Attack**] } | "Every unreceived syllable arrives at once — not as sound, but as heat, pressure, and a sentence no one wrote down." | [The crystal releases its stored protest while instruments remain silent and the 407 HP line remains the entity's gauge, not damage done by the release.] | *Heavy silent Grudge pressure; the target's Sorrow Gauge surges 15% because the content has again been converted into noise.* **[24-36 Grudge DMG [Grudge]]** | When somebody summarises what the chamber received as mere sound. |
+| { *Filed as Noise* [**Ultimate**] } | "The field does not fill with water. It fills with the consequences of calling a grievance a disturbance." | [Silent pressure extends through the area along the reports that misfiled the protest, forcing its content on every listener.] | *All in range suffer Grudge pressure for three turns. The reading stands 9 points higher where the last report called it an acoustic anomaly or pressure phenomenon, and 7 lower where it called it a grievance — the only figure in this file that responds to paperwork.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the chamber's report wording remains uncorrected. |
 
 ### Battle Phases
 
@@ -174,7 +174,7 @@ The two available approaches split the work between what the cry is about and wh
 | **Termination / Return** | The operative sets the piece down after the entry in the register has been made and logged the session. Ending early is safe; ending with a summary of the chamber's noise in the last line is not, because that is the act the relic was formed from, and the Grudge on the extraction is the protest being converted a second time. |
 | **Risk** | The user may speak the scream through their own body. |
 
-**Operational Rule:** The urn works only while carried, and it cannot stand in for a scheduled Work Type. Containment of this entity is a records function and is unaffected by what the operative is carrying.
+**Operational Rule:** The mounted crystal works only while borne by a prepared operative, and it cannot stand in for a scheduled Work Type. Containment of this entity is a records function and is unaffected by what the operative is carrying.
 
 ### Log and Method
 
@@ -236,7 +236,7 @@ The interior contains the preserved breath and final unuttered declarations of c
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries the char-smell of the crystal it came from. It is worn over the chest, where the pressure behind the eyes is felt hardest, and the file's note is that it is the reason a worker can stay in the chamber long enough for the entry in the register to be worth writing.
+**Appearance:** a crimson plated harness of Grudge Han-iron with a sealed throat guard and ribs shaped around an absent mouth. It warms before Grudge pressure arrives and carries the char-smell of the crystal it came from; built for receiving, it lets a worker remain in the chamber long enough for the entry in the register to be worth writing.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -256,7 +256,7 @@ The interior contains the preserved breath and final unuttered declarations of c
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and warm to the touch, that grows briefly hotter when the wearer is contradicted. It is worn at the tail, and it is the one piece in this set that is not manufactured: Dismissed Cry gives one to a worker who wrote the grievance down with a name on it, and has given none to a worker who closed a session by logging a disturbance.
+**Appearance:** a tail-mounted crimson charm of Grudge Han-iron shaped like a closed mouth. It stays dark until pressure reaches it, when a thin line opens without sound. It is not manufactured: Dismissed Cry gives one to a worker who wrote the grievance down with a name on it, and has given none to a worker who closed a session by logging a disturbance.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -401,9 +401,10 @@ Some sorrows are about silence. Dismissed Cry is about the hearing that is not r
 - A quiet chamber is not a containment reading. The crystal holds what it has been given whether or not anybody is present, and the state of containment is read off the complaints register rather than off the gauge.
 - No summary of this entity is filed without quoting the chamber's words. Where a report describes what was heard rather than what was said, the entry is struck and rewritten before the shift ends.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Combat Record for engagement parameters.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- Personnel feel pressure behind the eyes and vibration in teeth and sternum while instruments record silence; the discrepancy is the identification.
+- Tears lower density and soften the surface, but do not replace acknowledgement and a named register entry.
+- The filing arithmetic stands at 19 acoustic anomalies and 11 pressure phenomena against 4 grievances, with readings 9 points higher after the first wording and 7 lower after the last.
+**Cross-References:** Complaints Register entry 1,104; the Scar-Edge Countershout; the interaction record for Aphonia, the Wrath Flame, and the Undersong.
 **Faction Involvement:** SED, who hold the Desolate survey covering the ground the protest was made on, and the Border Office, who hold the register it should have been written in.
 **Originator:** An unnamed witness of the Desolate, recoverable only from the injustice itself, since no record was made of the complaint.
 

@@ -1,0 +1,1013 @@
+{
+  "schema_version": 1,
+  "batch": 196,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "O-Iα-126",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-126_Anonym_녹아내린_조각.md",
+      "words": 8247,
+      "sha256": "c0bb14e413d058804399a78d7f501ae82f13b89d2ef2abecb7037bd8a58fdd0b"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-914_Driftglass_떠도는_영혼.md",
+      "words": 8251,
+      "sha256": "94870eb91fd82c50c9338a920d770c1e9180296205671ef122437a89d6469022"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IIβ-245",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md",
+      "words": 8256,
+      "sha256": "2f229715747c4496788ca5d96ce3d53685600eb89ff9209d6c278d085a8b34bc"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IVδ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md",
+      "words": 8259,
+      "sha256": "f805c4694b7ac71c7d84858b0d9b4870cfa75c8f9d3ce66fcefd99da1ca962da"
+    },
+    {
+      "unit": 5,
+      "designation": "C-IIIγ-088",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md",
+      "words": 8301,
+      "sha256": "1e67f768f4a1b239a3dbc570f3be1e3dbd13788728bb8df2cba3176a85cc56da"
+    }
+  ],
+  "units": [
+    {
+      "designation": "O-Iα-126",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-126_Anonym_녹아내린_조각.md",
+      "words": 8247,
+      "sha256": "c0bb14e413d058804399a78d7f501ae82f13b89d2ef2abecb7037bd8a58fdd0b",
+      "unit": 1,
+      "name": "Anonym",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md",
+      "before_words": 8247,
+      "after_words": 8411,
+      "base": "cc118357429c1c7d677622c40994598c075dc3c4",
+      "final_sha256": "2be9d8f151415837f920ef296e793a7c364c5266c9211f1bc4662dfc0042035b",
+      "summary": "Nine source-supported repairs (3 short / 6 careful): a spaceless Subject loses its 0.95 m/s, its splashing globs, its strikeable body and its flooded floor; containment returns from sealing zones to saying names; the generic degradation bullet becomes the 7.4-word instrument. HELD; no credit (Side carries a dated Weapon-title review, 2026-10-11).",
+      "commentary": "This file's whole physics is that there is no physics: no space, no vessel, no distance, and an instrument made of one-sentence self-descriptions. The template kept giving the melt a floor to splash on. What survives the repairs is the archive's most honest containment sentence — the boundary runs through the staff — and a roster that disagrees with itself about who was present.",
+      "reasoning": "Set SE-126 identity resolved from Side A (O-Iα-126 [VS]) and items carrying SE-126 / MAW-W/S/G-126-01; Registry rows 370–373 (Registry_119_to_127/126_Anonym). Sentence triage: Speed contradicted 'nowhere/no space'; three combat rows physicalized the melt (glob strike, struck trigger, floor awash) against no-vessel/incorporeal; the first Consequences bullet was the generic degradation template against the documented word-loss course; the Escalation priority sealed a zone for an entity no door holds and dropped Flerehan, the primary approach; duplicated α grade and two generic flavor rows remained. R-18 split declared before the apply: 3 short / 6 careful.",
+      "history": "No credit — Side SE-126-A PAGE 04 carries a dated 'Weapon-title review (2026-10-11)' disposition (primary/Registry/Master-table/MAW-W-126 *Liquefying Hand-Cannon* and revision 3abe5470 vs item Official-name/Resting-Active/Entry 697 *Melting Lens*, plus the duplicate title on Folly SE-329/MAW-W-329 held unlinked), and the primary already integrates item-side *Name Thread*, *See the Edge* and the *Held Shape / Named by Choice* resonance. That written disposition is the coverage event; equipment_reviews has no 126 entry and none was added. Side A (183 lines) and items B/C/D read whole (106/102/99 lines) including Appearance sections confirm it; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Weapon title/form exactly as the Side review left it: primary/item-Appearance cast-iron molten-tallow hand-cannon vs item identity *The Melting Lens* (thin pale lens, light-line Active form) and duplicate *Melting Lens* on Folly SE-329 (MAW-W-329) with no shared-identity cross-link; figures agree (Void 3–6 / 2 / 2 / Single / 5 / 15). No Lens-to-cannon transition documented.",
+        "Weapon mechanics: primary scores impact plus clinging white flame per interval against the item's Single/100%-only Falloff 'None' and erosion-pause function — mechanics not crosswalked.",
+        "Suit/Stigma figures agree (1.2/0.8/0.3/1.1, 5/10; Head / 5% / +1 vs Registry generic Accessory / 5%); item chosen-name witness regime is integrated into the primary, against its own self-description-sheet regime — related but distinct instruments, both standing.",
+        "Stigma conferral: primary given-not-taken after a cycle with no certain identity statement vs item D 5% after successful work with a bestowal event; primary forfeits the bonus on certainty, a condition absent from item D.",
+        "Entry 5's second origin account (the refusing clerk wearing away at his own name) vs the exile's wrong Register entry; the 18,900 standing discrepancies, 412 fraud-proof corrections and unanswered clerks' submission remain open record, untouched."
+      ],
+      "split": [
+        3,
+        6
+      ],
+      "repairs": [
+        {
+          "id": "R1-tool-grade",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Tool / M.A.W. grade** | α · α (Minor) |",
+          "new": "| **Tool / M.A.W. grade** | α (Minor) |"
+        },
+        {
+          "id": "R2-speed",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Speed** | 0.95 m/s |",
+          "new": "| **Speed** | Not a quantity here — the Shard occupies no space and does not travel; it is perceived inside consciousness and spreads through the awareness of whoever is on the border line. |"
+        },
+        {
+          "id": "R3-the-pool",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Pool* [**Attack**] } | \"A splash of what used to be someone lands on you.\" | [A glob of melted self strikes the target.] | *Inflicts Void damage; a portion of identity transferred.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is disturbed. |",
+          "new": "| { *The Pool* [**Attack**] } | \"Nothing splashes and nothing lands on anybody — it cannot touch anyone and has never produced an injury. What arrives is a description: the target hears themselves accurately recorded as somebody they are not.\" | [No glob of melted self exists to strike with; identity confidence dissolves while memory stays intact, which is why it is missed.] | *Inflicts Void damage; the record is recited correctly and stops being believed.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When somebody is told, with complete confidence, what they are. |"
+        },
+        {
+          "id": "R4-the-dissolve",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dissolve* [**Attack**] } | \"The melting accelerates — and everything you were comes apart at once.\" | [The edges of whoever is nearest start going soft, and the softening runs inward faster than anybody can name what is being lost.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is struck. |",
+          "new": "| { *The Dissolve* [**Attack**] } | \"The melting accelerates — and everything you were comes apart at once.\" | [The edges of whoever is nearest start going soft, and the softening runs inward faster than anybody can name what is being lost.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | Under Pugnahan, or any confident assertion of a fixed identity — it cannot be struck, having no vessel. |"
+        },
+        {
+          "id": "R5-the-puddle",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Puddle* [**Ultimate**] } | \"Everyone loses their edges — and the floor is awash with what used to be people.\" | [The melt stops being a property of the figure and becomes the room's, and the floor takes on the shapes of everyone standing on it.] | *All in range suffer Void erosion for three turns as shapes fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Puddle* [**Ultimate**] } | \"The floor stays dry. What goes is the room's grip on its own roster: two people on the same shift give different accounts of who was present.\" | [The melt stops being a property of the figure and becomes the room's willingness to let its own edges go; personnel stop using one another's names, then stop noticing.] | *All in range suffer Void erosion for three turns as names fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "R6-consequence-generic",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.",
+          "new": "- Nothing here degrades loudly and nothing is severe on the day. The failure is a sentence: a worker's post-cycle self-description comes back shorter, flatter and more generic than the one they wrote before it — seven point four words shorter, on the current mean."
+        },
+        {
+          "id": "R7-containment-priority",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "- **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.",
+          "new": "- **Containment priority:** There is nothing to seal — no door holds it, and the boundary runs through the staff. Get names said: each worker addressed by name and asked rather than told who they are, present-tense anchors running, and the reading-back performed at the close. Flerehan and Ferrehan, worked in pairs."
+        },
+        {
+          "id": "R8-flavor-activates",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**When the entity activates:** The Gauge tips. The Subject-Mind does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.",
+          "new": "**When the entity activates:** Nothing gets louder and nothing arrives. Pale fragments are in the corners of every thought, a confident statement of what it is has just cost a point of the count, and somebody on the line has stopped using the other person's name."
+        },
+        {
+          "id": "R9-flavor-after",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.",
+          "new": "**After departure:** Sorrow, near-universally, and consistently reported as somebody else's. The worker can recite their name, posting and history accurately throughout — and the second sentence on their sheet is seven words shorter than the first."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-Iα-126_Anonym_녹아내린_조각.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.026  clean   584 grams  Combat Record\n 0.025  clean   163 grams  최종 관찰 (Final Observation)\n 0.010  clean   194 grams  Operational Parameters\n 0.010  clean   606 grams  감각 묘사 (Flavor Text)\n 0.005  clean   874 grams  Border Record\n 0.002  clean   934 grams  M.A.W. Equipment\n 0.002  clean   488 grams  이야기 보고 (Story Log)\n 0.000  clean   423 grams  이야기 (Narratio)\n 0.000  clean   391 grams  기록 (Registrum)\n 0.000  clean   324 grams  Appearance\n 0.000  clean   286 grams  관찰 기록 (Observation Log)\n 0.000  clean   243 grams  Origin\n 0.000  clean   239 grams  Breach Behavior\n 0.000  clean   227 grams  Behavior\n 0.000  clean   163 grams  Trivia\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  clean    34 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |\n   54   1  | **Resistance** | 15% against Void pressure; 5% against other pressure types |\n   81   2  | { *The Run* [**Debuff**] } | \"Something drips — and you realize with horror that it is you.\" | [The target begins to lose cohesi\n   83   4  | { *The Dissolve* [**Attack**] } | \"The melting accelerates — and everything you were comes apart at once.\" | [The edges of whoev\n   84   8  | { *The Puddle* [**Ultimate**] } | \"The floor stays dry. What goes is the room's grip on its own roster: two people on the same s\n  198   1  **Appearance:** a veil of Void Han-gossamer, near-translucent and all but colourless, that lies close to the wearer's outline and \n  246   1  | **Before use** | Wielder, piece, and a dated baseline the observer writes and keeps: the bearer's own name spoken back to them, \n  288   1  Management: use names and present anchors, and do not force a fixed identity. The two instructions pull against each other and per\n  296   1  > Two ways to close a watch at the counter, and the run of cases in the file separates them: one leaves everybody in the room with\n  298   3  | Use names aloud and keep the present-tense anchors running — the counter, the hour, the person in front of you — and impose no f\n  319   4  Three holdings are kept within reach of the border post — Faceless Glass, The Empty Mask and The Forgotten Name — and none of the \n  328   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  404   4  The Zone E clerks asked, in Year 4225, for one thing, and it is the smallest request in any of these files: that where a note is s\nGENERIC 0.006  (34 shared shingles)  SE-O-Iα-126_Anonym_녹아내린_조각.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-A__SIDE_CODEX_Anonym.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Melting_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-C__MAW-S_The_Melting_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-D__MAW-G_The_Melting_Reflection.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-A__SIDE_CODEX_Anonym.md": "bb9a9b1b3d08039a47ed5badf5c6b4dddb10e00ff6cca6c15dea60e4a2bcc9a5",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Melting_Lens.md": "52fd7d7f02d046fa9ee170b4515517b0175b19bc1aa3872666f6e3ab4a28fb2f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-C__MAW-S_The_Melting_Veil.md": "32f7e7469a7e6fdbcb388f62967168955d1ddee046cfdc4fa53767303ee84c3e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-D__MAW-G_The_Melting_Reflection.md": "d9ae144dc1d125fb74cd89690af42b88444487818f76967e351db3fa8caf3343",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-Iα-126_Anonym_녹아내린_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md \"SE-O-Iα-126_Anonym_녹아내린_조각.md\")]",
+      "table_link": "[Anonym](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-I%CE%B1-126_Anonym_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EC%A1%B0%EA%B0%81.md \"SE-O-Iα-126_Anonym_녹아내린_조각.md\")",
+      "reading": {
+        "before_lines": 435,
+        "before_bytes": 50103,
+        "final_lines": 435,
+        "final_bytes": 51132
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 44,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit change: the template Speed figure 0.95 m/s is removed from a Subject that occupies no space; the record's non-spatial movement is stated instead. No other figure, date, score or count was altered."
+      }
+    },
+    {
+      "designation": "O-IIIγ-914",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-914_Driftglass_떠도는_영혼.md",
+      "words": 8251,
+      "sha256": "94870eb91fd82c50c9338a920d770c1e9180296205671ef122437a89d6469022",
+      "unit": 2,
+      "name": "Driftglass",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_02_DRIFTGLASS.md",
+      "before_words": 8251,
+      "after_words": 8434,
+      "base": "07cb26ccbeceaaba8d8db13513e08d585c15dee4",
+      "final_sha256": "d941107019bf3ed5bd737f98b6268de852f5ea29cc18ab8504370ededed1bc5e",
+      "summary": "Ten source-supported repairs (1 short / 9 careful): a never-fixed drift stops being a fixed object, an Escape breach and a Transform; the frost-to-bone passage becomes unattached loss; the log loses its aura/tick template. HELD; no credit (in-file full-set source review dated 2026-10-11; exact set SE-1040, not SE-914).",
+      "commentary": "The record's discipline is that nothing here can be improved by steering it, and its one moving number — drift speed down eighteen per cent under an anchor — buys nothing a containment report can use. The repairs remove the three places the sheet still treated the wanderer as fixable: a fixed-object speed line, an escape to suppress, and a resting place waiting to be acknowledged.",
+      "reasoning": "Set SE-1040 identity resolved exactly as the in-file review records (O-IIIγ-914 [N] on every Side/item header; SE-914 is Amnesia, Registry rows 1015–1018, excluded); Registry rows 322–325 (Registry_1001_to_1043/1040_Wanderer_Without_a_Destination). Sentence triage: Speed said 'fixed object' of a holding that has never held a position; header/Breach table promised Transform/Escape/resting-place against the expansion-only doctrine; The Cold Passage frosted bones on being addressed; four Log rows pasted the aura/tick/panic template over the accompaniment record. R-18 split declared before the apply: 1 short / 9 careful.",
+      "history": "No credit — the primary carries a 'Full-set source review (2026-10-11)' against SE-1040-A/B/C/D, Registry rows 322–325, Master Entries 613–615, Tale 205 and archetypes MAW-W-914/MAW-W-1040, with name/reach/subtype holds stated. That is the coverage event; equipment_reviews has no 914 entry and none was added. Side A (66 lines) and items B/C/D read whole (58/58/57 lines; this item family has no Appearance sections) confirm the disposition; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Names as held by the in-file review: primary/Master-table The Driftglass Harpoon-Pike / Driftglass Shroud / Driftglass Lantern vs Side/item Wanderer Without a Destination Requiem/Shroud/Lantern; Master table 613 Harpoon-Pike vs detailed Entry 613 Requiem; figures agree (Lament 7–12 / 3 / 3 / 3 / 40; suit 0.4/1.0/1.6/0.8, 3/35; Tail / 4% / +2 vs Registry Accessory / 5%).",
+        "Reach/subtype as held: MAW-W-914 glass-barbed pike assigns Long; linked MAW-W-1040-01 maps here while MAW-W-1040 is a Prismatic Star Signet / Long; Master Suit Hauberks & Chain Mail has no crosswalk to the Han-silk Shroud; Side/item Skewer and falloff unstated locally and not added.",
+        "Identity guard preserved: SE-914 is Amnesia (B168); this dossier's exact set is SE-1040. Note the Registry cross-wire the review did not touch: row 1016 files 'The Driftglass Harpoon-Pike' as Amnesia's weapon title while MAW-W-914-01 is Amnesia's Edge — Registry text unchanged.",
+        "Stigma conferral: primary lantern given for a full transit without suggesting a turning vs item D 4% after successful work; item terminal state (bearer as new site) vs the primary's route-home baseline regime — both standing.",
+        "411 non-repeating transits (a claim the file itself says cannot fail), three refused gate proposals, the field office's correct objection and ~1,200 accompaniment hours a year remain open record, untouched."
+      ],
+      "split": [
+        1,
+        9
+      ],
+      "repairs": [
+        {
+          "id": "R1-entity-type",
+          "kind": "careful classification correction",
+          "careful": true,
+          "old": "| **Entity Type** | **Object/Place** — Can breach via Transform |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: expansion only. Mishandled, the drift widens across more of the vault network and the range has never afterwards contracted; it does not escape, transform, or arrive. |"
+        },
+        {
+          "id": "R2-speed",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | Drift speed at every junction — an unhurried walk, never at rest, and the only figure here that has ever moved: it falls by about eighteen per cent while an anchor from outside the city is carried. |"
+        },
+        {
+          "id": "R3-cold-passage",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Cold Passage* [**Attack**] } | \"It walks through you — and the cold it brings stays where it passed.\" | [The Soul passes directly through, leaving frost behind.] | *Inflicts Lament pressure and one chill that reaches the bone.* **[14-22 Lament DMG [Lament]]** | When the Soul is addressed. |",
+          "new": "| { *The Cold Passage* [**Attack**] } | \"It walks through you — and nothing frosts and nothing chills to the bone. What stays where it passed is a loss with nothing attached to it: no person, no place, no event, only the condition.\" | [No engagement has ever been fought here; every logged incident is a session in which somebody tried to be helpful about the route.] | *Inflicts Lament pressure; the corridor stops reading as the worker's own building.* **[14-22 Lament DMG [Lament]]** | During accompaniment — never because it was addressed. |"
+        },
+        {
+          "id": "R4-breach-type",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "| **Breach Type** | Escape |",
+          "new": "| **Breach Type** | Expansion — the drift widens into corridors outside the mapped range; nothing escapes, because it was never held anywhere to escape from. |"
+        },
+        {
+          "id": "R5-breach-duration",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "| **Duration** | Until a resting place is acknowledged. |",
+          "new": "| **Duration** | Until the session ends; an anchor slows the drift by about a fifth for the length of it and does not stop it, and no resting place has ever been found, built or accepted. |"
+        },
+        {
+          "id": "R6-log-10s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 10 Seconds | The piece lies still in the stow box until an operative takes it up; beneath the cloth it is already cold, and the field answers the pulse before the strap is fastened. | Wearing it opens the drift field: personnel lose the sense of belonging anywhere in particular, and the wearer carries +10% resistance to Lament while it is on them. |",
+          "new": "| 10 Seconds | The piece lies still in the stow box until an operative takes it up; beneath the cloth it is already cold, and the field answers the pulse before the strap is fastened. | Wearing it opens the drift field: personnel lose the sense of belonging anywhere in particular. Nothing here grants resistance, and the wearer's sealed route home is already on file because the cost is read off how that route behaves afterwards. |"
+        },
+        {
+          "id": "R7-log-30s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | The piece was cut from a drift, not from a body — a traveller came in from the Desolate carrying only sorrow, and this is the material that grief was found to answer to. | The wearer keeps the benefit and begins paying for it: reaction and focus sharpen, and composure is what buys them. |",
+          "new": "| 30 Seconds | The piece was cut from a drift, not from a body — a traveller came in from the Desolate carrying only sorrow, and this is the material that grief was found to answer to. | No reaction sharpens and no focus is bought. What begins is the urge to decide the route, and the second worker logs the junction where the wearer first proposes a turning. |"
+        },
+        {
+          "id": "R8-log-1min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 1 Minute | The wearer's breath falls into step with the field, and the toll stops being theoretical — the second worker's log takes over from the wearer's own account here. | Past sixty seconds the piece inflicts 5 Lament damage every 15 seconds; the second worker watches for detachment and logs the hour of the first drift in the wearer's answers. |",
+          "new": "| 1 Minute | The wearer's breath falls into step with the field, and the toll stops being theoretical — the second worker's log takes over from the wearer's own account here. | No damage accrues on a timer; the exposure is in the hours, not the seconds. The second worker watches for the wearer stopping taking the shortest way and logs the hour of the first drift in their answers. |"
+        },
+        {
+          "id": "R9-log-2min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 2 Minutes | Past two minutes the boundary thins: the wearer's own arriving places begin to read as the traveller's unfamiliar ones, and the piece is doing what the holding does. | Past two minutes, or a forced removal without a completed stow, acute panic and the recorded cost fall due together; the piece is not reissued to that wearer, and the Lantern is entered against their name. |",
+          "new": "| 2 Minutes | Past two minutes the boundary thins: the wearer's own arriving places begin to read as the traveller's unfamiliar ones, and the piece is doing what the holding does. | The session ends at a marked stow point rather than wherever the wearer is standing — the two-minute limit is this set's own, from its Field Use Record, not a property of the field. The piece is not reissued to that wearer on the next rotation, and the Lantern is entered against their name. |"
+        },
+        {
+          "id": "R10-management-generic",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Management** | Provide a memory anchor; do not force a destination, under certified Tool protocol. |",
+          "new": "| **Management** | Provide a memory anchor; do not force a destination. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIγ-914_Driftglass_떠도는_영혼.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.027  clean   219 grams  Appearance\n 0.018  clean   112 grams  Operational Parameters\n 0.016  clean   246 grams  관찰 기록 (Observation Log)\n 0.016  clean   124 grams  최종 관찰 (Final Observation)\n 0.016  clean   812 grams  M.A.W. Equipment\n 0.014  clean   214 grams  Trivia\n 0.010  clean   590 grams  Combat Record\n 0.004  clean   275 grams  기록 (Registrum)\n 0.003  clean   588 grams  감각 묘사 (Flavor Text)\n 0.002  clean   403 grams  이야기 보고 (Story Log)\n 0.001  clean   884 grams  Warden Record\n 0.000  clean   698 grams  Activation Behavior\n 0.000  clean   332 grams  이야기 (Narratio)\n 0.000  clean   156 grams  Origin\n 0.000  clean   154 grams  Breach Behavior\n 0.000  clean   104 grams  Behavior\n 0.000  clean    38 grams  SECC Classification\n 0.000  clean    35 grams  증언 (Testimonium)\n 0.000  clean    27 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   85   6  | { *The Endless Wandering* [**Ultimate**] } | \"Every junction opens onto the same unfamiliar corridor, and none of it is yours.\" \n  122   6  | **Identification** | Verify these observations against the SECC code before work or contact begins; more than one record in this\n  239   2  **Ability:** Lament damage to the mind. The pike carries the record's signature — an arrival that never resolves into recognition \n  247   1  **Appearance:** a wrapping shroud of Lament Han-silk with the salt still in it, cut wide at the shoulders so the wearer can be see\n  257   5  **Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud does not stop the wearer reading every \n  285   1  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the wearer's own route home — asked for and written do\n  287   1  | **At limit** | Two minutes of continuous wear, or any forced removal. The second worker's call stands against the wearer's, and \n  292   3  **Full-set source review (2026-10-11):** Reviewed the `I-Relic (Indumentum) · γ` overview, all three local M.A.W. blocks, Use Note\n  315   4  **Observation method:** Record the first sign, which is cold rain-smell in a dry vault; the first sensation, which is the urge to \n  330   1  Management: Provide a memory anchor; do not force a destination. Work response — Viderehan: Reveals routes beyond the city. (Stabl\n  337   2  > The choice at the end of a session is one question, and the file shows it being answered wrongly more often than any other decis\n  369   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  424   1  **Review requirement:** After any expansion, Sorrow Tide, transformation attempt or unusual interaction: re-verify the junction in\n  469   1  The field office's objection is on the file and is read at every annual review. The accompaniment is establishment spent on an eff\n  483   3  - **Record detail:** Check the designation before approach. More than one holding in this archive moves, and they want opposite th\nGENERIC 0.007  (41 shared shingles)  SE-O-IIIγ-914_Driftglass_떠도는_영혼.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-A__SIDE_CODEX_Wanderer_Without_a_Destination.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-B__MAW-W_Wanderer_Without_a_Destination_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-C__MAW-S_Wanderer_Without_a_Destination_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-D__MAW-G_Wanderer_Without_a_Destination_Lantern.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-A__SIDE_CODEX_Wanderer_Without_a_Destination.md": "96f885399b02d17632b014a0c1dc8b621b23fd84854a5ad9501d271535f1b975",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-B__MAW-W_Wanderer_Without_a_Destination_Requiem.md": "4669b625a1871dcdb339d3f0197ab71d22649016fa665714be6ed7fe38b79d9d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-C__MAW-S_Wanderer_Without_a_Destination_Shroud.md": "25b6e1adc68135acad1b634da97c6f254a7144a57a0ffdb5fb39bc84099b8950",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1040_Wanderer_Without_a_Destination/SE-1040-D__MAW-G_Wanderer_Without_a_Destination_Lantern.md": "9ff5a3a59cd784b71a6218d92d948a919443a118f911169a98b23a79d77db135",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-914_Driftglass_떠도는_영혼](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-914_Driftglass_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%98%81%ED%98%BC.md \"SE-O-IIIγ-914_Driftglass_떠도는_영혼.md\")]",
+      "table_link": "[Driftglass](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-914_Driftglass_%EB%96%A0%EB%8F%84%EB%8A%94_%EC%98%81%ED%98%BC.md \"SE-O-IIIγ-914_Driftglass_떠도는_영혼.md\")",
+      "reading": {
+        "before_lines": 490,
+        "before_bytes": 49975,
+        "final_lines": 490,
+        "final_bytes": 51008
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 43,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit change is template removal: the deleted +10% resistance and 5-per-15-seconds tick disappear with their sentences. No other figure, date, score or count was altered."
+      }
+    },
+    {
+      "designation": "C-IIβ-245",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md",
+      "words": 8256,
+      "sha256": "2f229715747c4496788ca5d96ce3d53685600eb89ff9209d6c278d085a8b34bc",
+      "unit": 3,
+      "name": "Midnight Choir",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_03_MIDNIGHT_CHOIR.md",
+      "before_words": 8256,
+      "after_words": 8316,
+      "base": "96d069b55c1872d6446d2b79706e6622d6d162b9",
+      "final_sha256": "c06103037f17920f2ccd1f38d2c06d635e0f037a2be9d40c2b9fa0b086b61e85",
+      "summary": "Three source-supported repairs (2 short / 1 careful) in a near-clean file: the 16-turn template gives way to the sequence's own measure, the generic Work-Notes boilerplate becomes the attendance/transcription doctrine, and the lost-history claim is entered at the weight the file itself assigns it (nine break words). HELD; no credit (primary already integrates the item records' care/release doctrine).",
+      "commentary": "This is one of the archive's most finished files — 41,600 songs, not one ending, and a containment condition that binds an interview room in another building — so the review is mostly a record of what was *not* changed. The three repairs are the last template sentences standing in a dossier that has spent sixty-one in-world years refusing to summarise.",
+      "reasoning": "Set SE-245 identity resolved from Side A (C-IIβ-245 [LP]) and items carrying SE-245 / MAW-W/S/G-245-01; Registry rows 530–533 (Registry_235_to_247 direct files). Sentence triage found three surviving defects only: a 16-turn Battle Length against the file's own 'not in turns' measure; the generic stable-gauge work-notes template; and Story Entry 2's bare lost-history claim against the Viderehan row's weighing. Side PAGE 01/02's spreading-music and attacked-walls-go-silent claims contradict sixty-one measured years and are held, not imported. R-18 split declared before the apply: 2 short / 1 careful.",
+      "history": "No credit — the primary's per-piece paragraphs (Phrase boundary, Listener care, Choice and release) already integrate the exact item records' doctrine: the Requiem's repeat-the-last-lyric binding and sheath-at-the-break shutdown, the Shroud's noon hanging/complete-living-song care and mid-note removal ban, and the Stone's calm-not-truth prohibition with open-space release. That written disposition is the coverage event; equipment_reviews has no 245 entry and none was added. Side A (112 lines) and items B/C/D read whole (59/57/63 lines) including Appearance sections confirm it; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Side expansion fork: Side PAGE 01/02 (music spreads through connected buildings; attacking walls makes them silent; Seven-Room Refrain overflow) vs the primary's sixty-one-year measurement (field never past 94 m; three silencing attempts changed nothing audible) — Side text preserved, primary table already records the connected-buildings claim as withdrawn.",
+        "Weapon: figures agree (Lament 5–9 / 2 / 2 / Single / 4 / 25); primary slender singing blade never drawn in the corridor vs item short deep-blue blade that cuts surplus resonance past a documented break — function records distinct, both standing.",
+        "Suit figures agree (0.4/1/1.6/0.8; 4/20); primary plain faintly-luminous wrapping vs item blue silk with painted mouths breathing along the fold. Stigma Tail / 5% agree; bonus named '+1 Clarity' (Side/item) vs primary '+1 to work rating'; Registry generic Accessory / 5%.",
+        "Stigma conferral: primary eleven wall stones granted on named-officer break-word nights vs item D bestowal after a lullaby catalogued without its goodnight, 5%; item calm-through-fragment effect vs the primary's refused statement-room postings — posture carries into the primary as a prohibition, held as written.",
+        "The Resumption Offer's ledger (2,140 letters, 611 resumptions, 148 complaints, 9 withdrawals, 3 collapsed awards), three recordings' fourth voice and the sixty-one-year patternless break-point search remain open record, untouched."
+      ],
+      "split": [
+        2,
+        1
+      ],
+      "repairs": [
+        {
+          "id": "R1-battle-length",
+          "kind": "short operational correction",
+          "careful": false,
+          "old": "| **Battle Length** | Medium — 16 turns |",
+          "new": "| **Battle Length** | The sequence — forty minutes to six hours, set by the night's count (nine to eighty-one songs). Nothing here is measured in turns. |"
+        },
+        {
+          "id": "R2-operational-notes",
+          "kind": "careful work-notes correction",
+          "careful": true,
+          "old": "Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Midnight Choir is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.",
+          "new": "The two valid rows are one posting seen from two sides. Ferrehan is the attendance — the whole sequence standing, with the book open, relief only between songs — and it is the only row that moves the gauge. Viderehan is what the attendance produces: the night's count and every break word verbatim, including the ones that name serving officers. Stability under Viderehan is not safety here; it is the correct result, and the pressure is borne almost entirely by the one worker holding the book, whose rotation is four nights a quarter for that reason."
+        },
+        {
+          "id": "R3-entry-2",
+          "kind": "short log grounding",
+          "careful": false,
+          "old": "Songs contain history absent from the Archive.",
+          "new": "Nine break words in sixty-one years have carried dates the Archive does not hold; forty-one thousand six hundred songs have carried none. The claim that the songs contain lost history rests entirely on the nine and is entered here at its true weight."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.013  clean   158 grams  Operational Parameters\n 0.011  clean   736 grams  M.A.W. Equipment\n 0.011  clean   553 grams  Combat Record\n 0.011  clean   570 grams  감각 묘사 (Flavor Text)\n 0.004  clean   527 grams  기록 (Registrum)\n 0.003  clean   316 grams  Expansion Behavior\n 0.000  clean   793 grams  이야기 보고 (Story Log)\n 0.000  clean   568 grams  Watch Record\n 0.000  clean   420 grams  이야기 (Narratio)\n 0.000  clean   376 grams  관찰 기록 (Observation Log)\n 0.000  clean   256 grams  Appearance\n 0.000  clean   249 grams  Trivia\n 0.000  clean   187 grams  Origin\n 0.000  clean   149 grams  Behavior\n 0.000  clean   120 grams  증언 (Testimonium)\n 0.000  clean   111 grams  최종 관찰 (Final Observation)\n 0.000  clean    39 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types |\n   91   5  3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen and catal\n  179   1  **Activation reporting order:** midnight start → the night's song count → the number that broke off → the break words, verbatim → \n  188   2  **Appearance:** a slender, singing blade of Lament Han-crystal, cool and faintly luminous, that pulses with the source sorrow when\n  211   6  **Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that settles cold against the skin.\n  231   2  **Appearance:** a small stone of Lament Han-crystal, cool and faintly luminous, that catches the light oddly.\n  343   1  Three records are grouped with this one and all three are grouped on sound. Nothing can be brought to this holding — it is ninety-\n  345   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  349   3  | **The Whispering Walls** | \"Whispers become songs near the entity\" has sat in this cell since Year 4219 with no observation behi\n  392   1  - The Resumption Offer is a containment condition of this holding and binds every officer who takes a statement from the bereaved.\n  399   2  **Faction Involvement:** SED (B-territory survey; the earlier D-territory entry contradicted the registered location and has been \nGENERIC 0.004  (28 shared shingles)  SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-A__SIDE_CODEX_Midnight_Choir.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-B__MAW-W_The_Wall_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-C__MAW-S_The_Wall_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-D__MAW-G_The_Wall_Stone.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-A__SIDE_CODEX_Midnight_Choir.md": "65b4c3ef976d04361b14d0eb9ce4560307abc6956730845415adf5d04643b023",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-B__MAW-W_The_Wall_Requiem.md": "ddf97e0d9e12f0556dec091868652e5b16949537c5fe7347d93ed7d46e94fdb6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-C__MAW-S_The_Wall_Shroud.md": "0ccec902216fdfbbad3479fc9813b2e5f171a23b2f3082c5c8dbef1bbede9859",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_235_to_247/SE-245-D__MAW-G_The_Wall_Stone.md": "432850734a09ab3e8a565438497b0ec816936c275c160a2abc7f7094235fa655",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-245_Midnight_Choir_노래하는_벽](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md \"SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md\")]",
+      "table_link": "[Midnight Choir](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-245_Midnight_Choir_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%B2%BD.md \"SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md\")",
+      "reading": {
+        "before_lines": 454,
+        "before_bytes": 50770,
+        "final_lines": 454,
+        "final_bytes": 51038
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 42,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit change: the template Battle Length '16 turns' is removed from a holding the file expressly measures in songs, not turns. No other figure, date, score or count was altered."
+      }
+    },
+    {
+      "designation": "C-IVδ-250",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md",
+      "words": 8259,
+      "sha256": "f805c4694b7ac71c7d84858b0d9b4870cfa75c8f9d3ce66fcefd99da1ca962da",
+      "unit": 4,
+      "name": "Restless Gap",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_04_RESTLESS_GAP.md",
+      "before_words": 8259,
+      "after_words": 8477,
+      "base": "a0ffc0fab0ea11af55baae98165f6f53dbe0ed37",
+      "final_sha256": "d4d0b865f06071238c112934e73d0b17fe08a54025253b4af58f71bb76791fa5",
+      "summary": "Fifteen source-supported repairs (7 short / 8 careful): a record that was never made stops being shredded, detonated and cut with in all five combat rows; the truncated header is completed; derived-track walking replaces the sprint figure; two generic consequences and three flavor rows return to the exit-card instrument. HELD; no credit (in-file full-set source review dated 2026-10-12; exact set SE-1025, not SE-250).",
+      "commentary": "The dossier is explicit that its horror is clerical — a good rule, honestly applied to the one man whose injury removed his standing to satisfy it — and the combat table had imported a different archive's violence: destroyed evidence, flying fragments, detonations. Restoring sequence loss as the only weapon also restores the file's central refusal: nobody, not even the table, gets to supply the missing piece.",
+      "reasoning": "Set SE-1025 identity resolved exactly as the in-file review records (C-IVδ-250 [WS] on every Side/item header; SE-250 is Memory Rain, Registry rows 542–543, excluded); Registry rows 262–265 (Registry_1001_to_1043/1025_Restless_Gap). Sentence triage: the whole combat table ran on torn-paper physics against 'it destroys nothing; it removes order' and a zero-injury record; the SECC Entity Type cell ended mid-word; Speed quantified an unobserved walk; two Consequences promised conduits and four-front dissolution; three flavor rows and two stubs were template. R-18 split declared before the apply: 7 short / 8 careful.",
+      "history": "No credit — the primary carries a 'Full-set source review (2026-10-12)' against SE-1025-A/B/C/D, Registry SE-1025-A–D, Master entries 271–273, Entity Codex row, Tale 91 and archetypes MAW-W-250/1025, holding weapon identity, band, Stigma slot/chance and the two-layer cost account expressly unmerged. That is the coverage event; equipment_reviews has no C-IVδ-250 entry (its 250 is N-IVγ-250, B173) and none was added. Side A (66 lines) and items B/C/D read whole (58/58/57 lines; no Appearance sections in this family) confirm the disposition; git path history shows only the B179 import. +0 all counters.",
+      "holds": [
+        "Weapon identity as held by the in-file review: local The Vigil Hand-Cannon (bronze, lantern-chambered, phosphor) vs Side/item/Master 271 The Trace Maul; MAW-W-250 flared-bronze hand-cannon/Short, linked MAW-W-1025 Weeping Marble Aspergillum/Long, and MAW-W-250 reused for The Memory Requiem — no unique crosswalk; figures agree (Weight 10–15 / 3 / 3 / Skewer / 2 / 50).",
+        "Debt-Collector's Lantern repeats Hand-Cannon title/form language with a different profile (own linked Collector's Vigil-Lantern); no shared item established — held as the review left it.",
+        "Suit figures agree (1/1/1.5/0.5; 2/45). Stigma Head / 4% / +3 local and Side/item vs Registry generic Accessory / 5% and Master 273 Rings/Hand-Seals — slot and chance held, not normalized, exactly as the review states.",
+        "Two-layer cost account preserved per the review: the separate M.A.W. rule (composure, private memories, bodily vigour) stands in Consequences untouched alongside piece-level heaviness/fatigue/ageing/anchor-pain; this review did not merge them.",
+        "Flerehan reaching-through-the-tear intention question; first-half-of-management-line correction history (memory anchors → day book); 23,400 person-years unestablished service and the Year 4233 admissibility refusal remain open record, untouched. Master/Tale name *The Torn Trace* remains source context only."
+      ],
+      "split": [
+        7,
+        8
+      ],
+      "repairs": [
+        {
+          "id": "R1-header-completion",
+          "kind": "short factual completion",
+          "careful": false,
+          "old": "and sequence loss at a multiple of the chamber r |",
+          "new": "and sequence loss at a multiple of the chamber rate |"
+        },
+        {
+          "id": "R2-tool-grade",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Tool / M.A.W. grade** | δ · δ (Critical) |",
+          "new": "| **Tool / M.A.W. grade** | δ (Critical) |"
+        },
+        {
+          "id": "R3-speed",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | Walking, unmeasured — position is derived from the bend at three stations, never observed, and the derived track has never been a straight line. It does not pursue; in forty years nothing has it approaching a person not already inside the bend. |"
+        },
+        {
+          "id": "R4-shredded-record",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Shredded Record* [**Debuff**] } | \"The traces have been torn to pieces — and each fragment carries the weight of the whole.\" | [The Trace's destruction presses on the target; they bear what was ruined.] | *Target suffers -10 Resolve; the shredded evidence is heavy.* **[10 Weight DMG [Weight]]** | When the target touches the fragments. |",
+          "new": "| { *The Shredded Record* [**Debuff**] } | \"Nothing here was torn up. This is not a record destroyed, lost, weeded or sealed — it is a record that was never required to be made, about work that was really done.\" | [No fragments exist to touch; the target keeps every fact and loses the thread between facts.] | *Target suffers -10 Resolve; the facts are intact and in no order.* **[10 Weight DMG [Weight]]** | Inside the bend. |"
+        },
+        {
+          "id": "R5-missing-page",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Missing Page* [**Debuff**] } | \"The most important part of the trace is gone — torn away — and the absence weighs more than what remains.\" | [The Trace's absence presses; the target feels what was removed.] | *Target loses 10 Resolve; the void in the record is crushing.* **[10 Weight DMG [Weight]]** | When the target reads the fragments. |",
+          "new": "| { *The Missing Page* [**Debuff**] } | \"No page was torn away, because no page was ever written — his exposures fell in intervals nobody had to register. The absence is clerical, and it weighs exactly as much.\" | [The target is asked, in effect, to prove their own afternoon; the proof required is the faculty being taken.] | *Target loses 10 Resolve; not established is not the same as disbelieved, and it lands the same.* **[10 Weight DMG [Weight]]** | When the worker tries to recount the session. |"
+        },
+        {
+          "id": "R6-paper-cut",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Paper Cut* [**Attack**] } | \"A fragment of torn trace, edge sharp, flies at you — carrying the anger of being destroyed.\" | [A shard of torn record launches.] | *Inflicts Weight pressure and one thin, heavy cut.* **[14-22 Weight DMG [Weight]]** | When the fragments are scattered. |",
+          "new": "| { *The Paper Cut* [**Attack**] } | \"Nothing flies and nobody is cut — nobody has been physically injured here in the whole record. The tear does not select; a crew holds against the zone, not the entity.\" | [Pressure through the whole warped volume at once, heaviest at the tear, while the worker's own account quietly reorders itself.] | *Inflicts Weight pressure; the wound is sequence, and it is invisible to the person suffering it.* **[14-22 Weight DMG [Weight]]** | While unopposed inside the radius. |"
+        },
+        {
+          "id": "R7-full-reconstruction",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Reconstruction* [**Attack**] } | \"Every torn fragment flies back together — and for one instant, the trace is whole, and then it detonates.\" | [The fragments converge, the trace stands whole in the gallery for one breath, and then it lets go.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the trace is reassembled without anchors. |",
+          "new": "| { *The Full Reconstruction* [**Attack**] } | \"This is the prohibited act given a name: supply the missing beat, make the life read smoothly, and the crew has not closed the cycle — it has joined the entity in editing the record.\" | [Nothing detonates. The exit scores of everyone present worsen, exactly as they did the once the Memory Weaver supplied order the Gap had not held.] | *A heavy Black pressure; the target's Sorrow Gauge surges 15% and their life becomes briefly, falsely, legible.* **[24-36 Weight DMG [Weight]]** | When somebody invents the piece that is missing. |"
+        },
+        {
+          "id": "R8-everything-torn",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Everything Is Torn* [**Ultimate**] } | \"Every record in the field shreds — and the weight of destroyed evidence crushes everyone.\" | [The tearing widens out of the re-embodiment, and the whole field starts shedding its records.] | *All in range suffer Weight pressure for three turns of shredded records.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *Everything Is Torn* [**Ultimate**] } | \"No record in the field shreds — the day books stay intact in workers' hands, which is the point of them. What goes is the order of the engagement while it is happening.\" | [The zone warps outward; cordon logs are timed by a clerk outside the radius because responders inside it can no longer say what happened first.] | *All in range suffer Weight pressure for three turns of sequence loss.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "R9-consequence-route",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- The responder who loses their hold inside the zone stops being a responder and becomes a route for its pressure instead. **Resolve** leaves them as a spent resource rather than as a wound, and what climbs back onto the gauge is the crew’s own doubt about which part of it happened first.",
+          "new": "- Nobody becomes a conduit and nothing is spent like a resource. The responder who loses hold keeps every fact of the engagement and cannot order them; their exit screen slips against baseline, and they are withdrawn on the score regardless of how the event is going."
+        },
+        {
+          "id": "R10-consequence-dissolution",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Length of exposure is what makes this zone dangerous rather than depth of it. A cycle kept short stays workable; the same cycle kept long stops being workable at all, and the dissolution arrives on four fronts in sequence — emotional, then physical, then the worker’s own identity, then the room’s arrangement.",
+          "new": "- Length of exposure is what makes this zone dangerous rather than depth of it, and the loss is narrower than any dissolution: not emotional, not physical, not identity itself — order. It destroys nothing; it removes order, which the medical office classes as a loss and the claims office does not."
+        },
+        {
+          "id": "R11-observation-stub",
+          "kind": "short observation completion",
+          "careful": false,
+          "old": "| **Initial exposure** | Confirm the designation on the Weight signature and the walk — the primary visual marker — and check the ground against Zone D, Mantle Commons before the watch is set. Emotional impressions are entered last, if at all. |",
+          "new": "| **Initial exposure** | Confirm the designation on the Weight signature and the walk — a gallery line bent around a person-shaped nothing with a vertical tear down it — and check the ground against Zone D, Mantle Commons before the watch is set. Emotional impressions are entered last, if at all. |"
+        },
+        {
+          "id": "R12-flavor-continued",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Void becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+          "new": "**With continued exposure:** Timed indirect viewing slows it and does not stop it: everyone in the gallery keeps their facts and starts losing the order of them, a median two misplaced events of twelve, then four, now seven."
+        },
+        {
+          "id": "R13-flavor-activates",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Void was waiting; now it moves.",
+          "new": "**When the entity activates:** The bend passes station three and the warped volume grows outward from where it stands. It is not chasing anyone; the cordon widens and the sequence cards come out."
+        },
+        {
+          "id": "R14-flavor-after",
+          "kind": "short flavor grounding",
+          "careful": false,
+          "old": "**After departure:** Departure is not relief. The Subject-Void is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.",
+          "new": "**After departure:** Certainty about everything seen, and no order to put any of it in. The counselor asks which came first, the transfer or your sister's wedding, and you do not know, and that is a thing you have known your whole life."
+        },
+        {
+          "id": "R15-review-requirement",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "**Review requirement:** Re-verify the four pillars — gauge, seal, personnel, position — after any corruption event, expansion, transformation attempt or unusual interaction, and add the exit scores to the round: on this holding the sequence loss is the measurement, and it slips before anything else does.",
+          "new": "**Review requirement:** After any corruption event, expansion, transformation attempt or unusual interaction: re-read the bend at three stations against the derived track, confirm the tear's dimensions (constant across the record), and retake every present worker's exit screen against baseline — on this holding the sequence loss is the measurement, and it slips before anything else does. Baselines are retaken annually whether or not the worker has been in the chamber since."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   120 grams  Operational Parameters\n 0.014  clean   903 grams  M.A.W. Equipment\n 0.008  clean   736 grams  Combat Record\n 0.008  clean   259 grams  기록 (Registrum)\n 0.004  clean   529 grams  감각 묘사 (Flavor Text)\n 0.004  clean   277 grams  관찰 기록 (Observation Log)\n 0.000  clean  1437 grams  Apex Record\n 0.000  clean   383 grams  이야기 (Narratio)\n 0.000  clean   376 grams  이야기 보고 (Story Log)\n 0.000  clean   249 grams  Origin\n 0.000  clean   209 grams  Appearance\n 0.000  clean   190 grams  Containment Event Behavior\n 0.000  clean   164 grams  Trivia\n 0.000  clean   151 grams  최종 관찰 (Final Observation)\n 0.000  clean   132 grams  Behavior\n 0.000  clean    52 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   6  | { *Everything Is Torn* [**Ultimate**] } | \"No record in the field shreds — the day books stay intact in workers' hands, which is\n  221   1  **Effect:** +3 stat bonus when working the source entity\n  237   5  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline taken as the bearer's own continuous account, written\n  242   4  **Stat interpretation:** Field performance and human cost are separate axes, and on this holding the second is invisible to the gr\n  244   3  **Full-set source review (2026-10-12):** Reviewed the `δ · δ (Critical)` overview, every local Weapon/Suit/Stigma claim, Use Notes\n  265   1  | **Post-contact review** | What altered, what persisted, and what defied vocabulary — all three are data. The report is incomplet\n  323   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  374   2  **Operational interpretation:** Treat this as a starting point and not a conclusion, and read it against the classification, the C\nGENERIC 0.004  (26 shared shingles)  SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-A__SIDE_CODEX_Restless_Gap.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-B__MAW-W_The_Trace_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-C__MAW-S_The_Trace_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-D__MAW-G_The_Trace_Anchor.md",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-A__SIDE_CODEX_Restless_Gap.md": "9ba04e7527d31c1dd6704631eeec377c95469572b0ca8638044816a98aaab78b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-B__MAW-W_The_Trace_Maul.md": "0bc686c07d2abf5ed21ddb2eed9f9f708e8bad28cb74d110162f5cd968bb5486",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-C__MAW-S_The_Trace_Mantle.md": "e052274934d28c1a81f904a20db1e0bf179da2e8f303c2a01064b2c0cda2b48c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1025_Restless_Gap/SE-1025-D__MAW-G_The_Trace_Anchor.md": "946abdf2a47b7a10f4b03d143b1f2e9edd1a904b6ffb77695c8bc6a0630f37f7",
+        "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+        "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+        "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+        "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+        "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-250_Restless_Gap_찢어진_흔적](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-250_Restless_Gap_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%9D%94%EC%A0%81.md \"SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md\")]",
+      "table_link": "[Restless Gap](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-250_Restless_Gap_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%9D%94%EC%A0%81.md \"SE-C-IVδ-250_Restless_Gap_찢어진_흔적.md\")",
+      "reading": {
+        "before_lines": 456,
+        "before_bytes": 49993,
+        "final_lines": 456,
+        "final_bytes": 51113
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 41,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 10,
+        "digit_sequence_change": "Sole digit change: the template Speed figure 2.45 m/s is removed from a Subject whose position is derived, never observed; the record's derived-track language replaces it. No other figure, date, score or count was altered."
+      }
+    },
+    {
+      "designation": "C-IIIγ-088",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md",
+      "words": 8301,
+      "sha256": "1e67f768f4a1b239a3dbc570f3be1e3dbd13788728bb8df2cba3176a85cc56da",
+      "unit": 5,
+      "name": "The Sorrow Fountain",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_05_THE_SORROW_FOUNTAIN.md",
+      "before_words": 8301,
+      "after_words": 8592,
+      "base": "04a75ead41af63f194342608370c57d74c09a80d",
+      "final_sha256": "d47509636793296218d82ccb6dfa254a03d042f393a7bff8a2e78e81a4a0b8af",
+      "summary": "Twenty-six source-supported repairs (3 short / 23 careful): the borrowed activation template and four violent combat rows were rebuilt around the dossier's own non-violent, rim-worked, never-drained fountain — mist that calms without consent, depth following grief, damp and moss advancing 11.4 metres. HELD; no credit (in-file full-set source review dated 2026-10-11; direct SE-088 identity).",
+      "commentary": "This dossier told two stories about itself: a fountain where nobody has ever been attacked, and a set of damage rows describing violent splashes, scattered COMPOSURE and pressure waves across squares. The repairs sided with the fountain. The mist is now what the body says — relief imposed on whoever stands in it, wished for enough that the cost is billed a week later as flatness. The channels, conduits, venting and energy-stabilization percentages were borrowed template and were removed throughout, and work is now consistently from the rim: a Behavior row that had workers standing in the pool contradicted the Clash's own rim doctrine.",
+      "reasoning": "Identity is direct: the dossier's Entity Designation is SE-088 / Contained in [Classification γ-088], and the exact source packet (Secondary Artwork Registry rows 134-137) is SE-088-A The Sorrow Fountain / B M.A.W-W / C M.A.W-A / D M.A.W-T. R-18 split declared before editing: three short (Identification Position generic stub; the Detailed Management row's dangling 'station' tail; the garbled Registry Trivia Containment line) and twenty-three careful (four combat rows narrating violent attack against the Clash's 'Nothing attacks and nothing has ever been attacked… This cannot be struck'; the generic Relic capability quote block; the activation '-15% gauge stabilization' mechanism with duration/risk/-2 Movement Speed repeated across the section, the tool table and the Detailed profile; Termination/Return venting and installed-depth language against 'nothing is put back' and never draining; the Operational Rule's channel/conduit; four channel/overload Log rows; a generic secure-perimeter response; Ferrehan 'remain in the pool' plus Story Entry 4 against the rim-only doctrine). R-33 chain: the city's grief gathered and forced up through a fountain as a reservoir it never finished becoming; depth read at the rim against an untamped graduation; mist calming without consent; relief repaid as a flat week; damp and moss advancing 11.4 metres; never drained, never struck. Fresh equipment credit was barred: the dossier contains a dated in-file 'Full-set source review (2026-10-11)' and the sources 'agree with the dossier on every testable point.' No equipment disposition or apparatus mechanics were invented; the weapon filename 'The Sorrow Requiem' is not the official display name 'The Weeping Basin-Aspergillum.'",
+      "history": "Present draft was rooted in the C-Iα-001 → C-IIIγ-043 → C-IIIγ-088 remake sequence (rule R5.28 code-insertion audit). Field Notes record two certified badges earned on watch (Somnaic Patience / Stillwater Witness), the Lunar Cascade in Dread Year 4730, and the Year-4502 Consolihan. The appearance pass repaired activation/combat template while preserving the prior source-reviewed state; contested departmental account, public-access dispute, single-reservoir thesis and Danarili testimony remain unresolved. Fresh equipment credit BARRED: the primary contains a dated in-file 'Full-set source review (2026-10-11)' with all four sources read in full and verdicts recorded. Ledger `equipment_reviews` has no 088 entry. Therefore Equipment reviewed +0/+0; Types and Weapon counters unchanged at 286/301 and 284/287.",
+      "holds": [
+        "Liminal Engineering's single-reservoir thesis — the Fountain's depth tracking the level of the Basin: unproven, unfalsified across 340 years, and untestable without draining the Fountain to see if the Basin drops, which is forbidden. Held.",
+        "The question 'What is it a reservoir for?' — the purpose remains unfulfilled in the primary's own terms; the Activation's declared purpose is an accepted working line, held.",
+        "Danarili, the sacrifice-borne spirit said to speak through the mist and call people by names given to no one: deriving-rule evidence only (R5.28 audit E), unverified; no encounter, summoning or spirit agency invented. Held.",
+        "Side A authorises entering the pool with a tether tied to the rim ('all four are worked from inside — no dry variant'); the primary's dominant doctrine works from the rim and never inside the basin. The primary's Behavior and Story rows were aligned to the rim doctrine; the Side A account is not silently erased and remains an unresolved source fork. Held.",
+        "Public-access dispute (guidance vs medical exposure) and the contested, redacted account of the Fountain: preserved as unresolved, not decided. Held.",
+        "Weapon naming variants (Basin-Aspergillum, Basin-Censer, Basin-Rosary, Basin-Urn) and the weapon source filename 'The Sorrow Requiem': variants preserved, not normalized. Held."
+      ],
+      "split": [
+        3,
+        23
+      ],
+      "repairs": [
+        {
+          "id": "R1-first-overflow",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Overflow* [**Debuff**] } | \"The basin tips, and the sorrow spills outward in every direction.\" | [The Fountain overflows; the spreading water carries old lament.] | *Target loses 10 Composure; their footing slips in the grief.* **[10 Lament DMG [Lament]]** | When the target lingers at the basin. |",
+          "new": "| { *The First Overflow* [**Debuff**] } | \"The basin does not tip — it has never moved. What moves is the damp, outward across the path stones, and the moss line behind it four to seven weeks later.\" | [The level climbs against the graduation and the chalk gets wet; overflow here is measured in metres of advance, not in spill.] | *Target loses 10 Composure; the advance is slow and does not stop at the chalk.* **[10 Lament DMG [Lament]]** | When the target lingers at the basin. |"
+        },
+        {
+          "id": "R2-bitter-spray",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Bitter Spray* [**Attack**] } | \"The spray rises — each droplet a remembered loss, and they sting.\" | [A spray of sorrow-water lashes out, sharp as needles.] | *Inflicts Lament pressure and one stinging wound.* **[14-22 Lament DMG [Lament]]** | When the Fountain is disturbed. |",
+          "new": "| { *The Bitter Spray* [**Attack**] } | \"Nothing lashes out and nothing stings — nobody has ever been attacked here. The mist comes out across the lawns and everybody in it is calmed, whether they came for that or not.\" | [Panic stops. So does urgency, and so does walking at any speed; a crew that needed to be somewhere finds it difficult to say why it mattered.] | *Inflicts Lament pressure; the wound is wanting to stay.* **[14-22 Lament DMG [Lament]]** | When suppressed mourning meets the mist. |"
+        },
+        {
+          "id": "R3-the-drowning",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Drowning* [**Attack**] } | \"The fountain floods the whole square — and grief is heavier than water.\" | [A surge goes over the rim and across the square, carrying the weight of every grief the district ever put into it.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Fountain is struck or overwhelmed. |",
+          "new": "| { *The Drowning* [**Attack**] } | \"It cannot be struck and it does not flood squares. What goes over the rim goes into the Gardens' beds, which take the overflow and thrive on it.\" | [The pour thickens and the damp pushes past its chalk within the same watch; nobody is carried anywhere except, slowly, toward sitting down.] | *A heavy Lament rise; the target's Sorrow Gauge surges 15% while they report feeling fine.* **[24-36 Lament DMG [Lament]]** | Through memorial seasons and the Consolihan. |"
+        },
+        {
+          "id": "R4-flood-of-all-grief",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Flood of All Grief* [**Ultimate**] } | \"Every tear ever shed here rises at once.\" | [The pool stands up past its rim all at once and comes out over the whole ring of ground it can reach.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Flood of All Grief* [**Ultimate**] } | \"Every tear ever shed here stays exactly where it is. The escalation is spatial and quiet: eleven point four metres of irreversible advance from a basin that has not moved at all.\" | [The moss follows the damp outward and has never once retreated; the Gardens quietly become a larger place for sitting in.] | *All in range suffer Lament pressure for three turns of flattening.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+        },
+        {
+          "id": "R5-identification-position",
+          "kind": "short appearance completion",
+          "careful": false,
+          "old": "- **Position / movement:** The object/place remains fixed until its recorded activation or expansion condition occurs.",
+          "new": "- **Position / movement:** The basin has never moved. What moves is the damp outward across the Gardens and the moss line behind it — two boundaries, marked separately, which have never coincided."
+        },
+        {
+          "id": "R6-Ferrehan-rim",
+          "kind": "careful behavior correction",
+          "careful": true,
+          "old": "| **Ferrehan** | Tests whether the worker can remain in the pool without breaking. | Decrease |",
+          "new": "| **Ferrehan** | Tests whether the worker can remain at the rim without breaking — worked from the stone rim, never from inside the basin. | Decrease |"
+        },
+        {
+          "id": "R7-quote-block",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Sector / Facility Alteration**\n> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**",
+          "new": "> **This Relic calms whoever stands in its mist, without asking.**\n> **This Relic alters the Gardens at walking pace: damp first, moss after, eleven point four metres so far.**\n> **This Relic's cost arrives days later, as flatness, and is charged to the bearer alone.**"
+        },
+        {
+          "id": "R8-activation-effect",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Effect:** Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%.",
+          "new": "**Effect:** The mist comes out across the lawns and calms whoever is standing in it, reliably and without consent being asked. No gauge anywhere is stabilized by a percentage; what settles is people, and what it costs them arrives days later."
+        },
+        {
+          "id": "R9-duration",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Duration:** Continuous while the mourning conduit remains unblocked.",
+          "new": "**Duration:** While the mourner remains at the rim; the Fountain itself has never once stopped, including through two Sorrow Tides and the drought year."
+        },
+        {
+          "id": "R10-risk",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Risk:** Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed.",
+          "new": "**Risk:** Prolonged exposure deepens the calm into a flattening — agreeable to everything, interested in nothing — which the Gardens' medical office treats as exposure rather than as mood. Nothing is paralyzed and no speed is docked; people simply stop needing to be anywhere."
+        },
+        {
+          "id": "R11-tool-effect",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Primary Effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |",
+          "new": "| **Primary Effect** | The mist, and the calm it imposes on whoever is inside it — the hazard and the benefit are the same thing and cannot be separated. |"
+        },
+        {
+          "id": "R12-tool-duration",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Duration** | Continuous while the mourning conduit remains unblocked. |",
+          "new": "| **Duration** | For the length of the approach; the flow itself is not switched, channelled or concluded by anybody. |"
+        },
+        {
+          "id": "R13-termination",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |",
+          "new": "| **Termination / Return** | The worker leaves the mist and the level is read again at the rim; nothing vents, because nothing was contained. The pool is left standing at the depth it was read at when the watch opened. |"
+        },
+        {
+          "id": "R14-tool-risk",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Risk** | Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |",
+          "new": "| **Risk** | The bearer has stopped wanting the effect to end — entered when the second worker sees it, not when the bearer admits it. |"
+        },
+        {
+          "id": "R15-operational-rule",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.",
+          "new": "**Operational Rule:** There is no channel and no conduit. Work is from the rim, the pool is not drained, decanted or diverted, and both boundaries — damp in chalk, moss separately — are marked before the cycle opens and again when it closes."
+        },
+        {
+          "id": "R16-log-10s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 10 Seconds | The Fountain starts thrumming the moment the channel opens, and the thrum is loud enough that every gauge in the room moves with it. | Opening the channel draws the mist up out of the basin. It settles the people standing in it the way water settles a crowd, and while the draw is running the sector Sorrow Gauges come down by -15%. Units in the neighbouring bays hold steady for the same reason, which is that they are standing in the same weather. |",
+          "new": "| 10 Seconds | It is pleasant, and that is the first thing recorded: the air is easier at the rim than on the path, and the grief a worker brought in becomes bearable within a minute or two. | Read the level against the cut graduation and sign the reading with your own name — depth follows the grief of whoever is present, so the number is partly a measurement of the person taking it. No gauge anywhere moves by a percentage. |"
+        },
+        {
+          "id": "R17-log-30s",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | The conduit widens and what comes up is the city's mourning made visible — a single stream of it, gathered from the tears shed at the memorials and by the people who grieved under the Echo Gardens, until there was enough collected to rise. | The mist spreads to the second range band and stays there while the channeler holds it. Everyone inside it is harder to hurt while the hold lasts; the effect belongs to the mist rather than to the people standing in it, and it goes when the mist does. |",
+          "new": "| 30 Seconds | The conduit widens and what comes up is the city's mourning made visible — a single stream of it, gathered from the tears shed at the memorials and by the people who grieved under the Echo Gardens, until there was enough collected to rise. | The mist reaches who it reaches and calms them without being asked; nobody inside it is harder to hurt, because nothing here hurts anybody. Record who was standing in it, staff or not. |"
+        },
+        {
+          "id": "R18-log-1min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 1 Minute | The pressure wants more than mechanical effort — whoever is channelling feels the Fountain's unfulfilled purpose settle on their lungs. | Past 60 seconds the channel costs 4 Composure for each 10 seconds it is held. Whoever is running it is meant to close it before that starts to matter, and the manual states it in exactly those words — disengage before the overload, not after it. |",
+          "new": "| 1 Minute | The pressure wants more than mechanical effort — whoever is channelling feels the Fountain's unfulfilled purpose settle on their lungs. | Nobody is channelling anything. Workers lose track of the time they have been there, consistently and by large margins, and the discrepancy between logged and actual watch length is the commonest defect in this holding's paperwork. The second worker keeps the hour. |"
+        },
+        {
+          "id": "R19-log-2min",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 2 Minutes | The flow threatens to turn back on the site; once the accumulated grief overtops the channel it goes looking for living vessels. | An overload, or walking out on the channel, vents the whole basin at once — and what comes out is not the calming mist. It stops people where they stand and takes 2 from Movement Speed, and everyone in the sector is hurt badly. |",
+          "new": "| 2 Minutes | Past this point the ease has stopped being noticeable and become the baseline, which is the state the welfare check at seven days is set to catch. | Nothing overloads and nothing vents. The watch closes with the level read and signed at both ends and the pool left as deep as it was found; the flat week, when it comes, is entered against the use, not the day. |"
+        },
+        {
+          "id": "R20-response-sequence",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "**Response sequence:** Set a secure perimeter, establish whether what is happening is an activation, a channel surge or an expansion, clear unshielded personnel off the rim stones, and hold the recorded containment protocol throughout. No unlisted Work Type may be applied here as an improvised countermeasure, and an attempt at one is entered as a breach in its own right.",
+          "new": "**Response sequence:** Chalk the damp boundary, time the advance, note whether the mist has reached any part of the Gardens open to the public, and record who was standing in it. No perimeter holds this and none is set; the pool is not drained under any circumstances, including as a response to expansion."
+        },
+        {
+          "id": "R21-detailed-effect",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Primary effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |",
+          "new": "| **Primary effect** | Mist across the lawns; calm imposed without consent; depth following the grief of whoever stands nearest. |"
+        },
+        {
+          "id": "R22-detailed-duration",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Duration / rate** | Continuous while the mourning conduit remains unblocked. |",
+          "new": "| **Duration / rate** | The flow has never stopped. Advance is read as damp metres per session, with the moss four to seven weeks behind it. |"
+        },
+        {
+          "id": "R23-detailed-risk",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Risk** | Major (γ) Place-Lament producing Lament pressure; Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |",
+          "new": "| **Risk** | Major (γ) Place-Lament producing Lament pressure; the danger is that people want to be in it, and that the relief is repaid in flatness over the following week. |"
+        },
+        {
+          "id": "R24-detailed-management",
+          "kind": "short factual correction",
+          "careful": false,
+          "old": "| **Management** | Share the burden through witness; do not drain the pool. Enforced by the station rather than by the schedule. |",
+          "new": "| **Management** | Share the burden through witness; do not drain the pool. |"
+        },
+        {
+          "id": "R25-entry-4",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "Work response — Viderehan: every drop lifted off the surface shows a different grief, and the level holds while they are lifted (Stable). Ferrehan: the watch is whether a worker can stand in the pool without coming apart, and the level falls while they do (Decrease). The Echo Gardens' flowers draw from its overflow.",
+          "new": "Work response — Viderehan: every drop lifted off the surface shows a different grief, and the level holds while they are lifted (Stable). Ferrehan: the watch is whether a worker can remain at the rim without coming apart — never from inside the basin — and the level falls while they do (Decrease). The Echo Gardens' flowers draw from its overflow."
+        },
+        {
+          "id": "R26-trivia-containment",
+          "kind": "short trivia correction",
+          "careful": false,
+          "old": "- **Containment detail:** Do not equate containment with inactivity. An entity behind a sealed door can still shift the Han density of surrounding corridors or destabilise adjacent cells. the entity is inactive; fixed entities may activate, expand, resonate, or alter nearby personnel.",
+          "new": "- **Containment detail:** No barrier contains it and none is pretended to. Containment here means marking the damp boundary and the moss line at every session, keeping published hours and an attendant on the lawns, and not draining the pool."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.030  clean   100 grams  Operational Parameters\n 0.011  clean   616 grams  감각 묘사 (Flavor Text)\n 0.011  clean   656 grams  Combat Record\n 0.009  clean   317 grams  관찰 기록 (Observation Log)\n 0.007  clean   150 grams  최종 관찰 (Final Observation)\n 0.002  clean   402 grams  기록 (Registrum)\n 0.000  clean   955 grams  Warden Record\n 0.000  clean   883 grams  M.A.W. Equipment\n 0.000  clean   697 grams  Activation Behavior\n 0.000  clean   369 grams  이야기 (Narratio)\n 0.000  clean   247 grams  Appearance\n 0.000  clean   212 grams  이야기 보고 (Story Log)\n 0.000  clean   166 grams  Origin\n 0.000  clean   165 grams  Behavior\n 0.000  clean   129 grams  Trivia\n 0.000  clean    61 grams  SECC Classification\n 0.000  clean    52 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the rim markers rather than the flow itself |\n   86   7  | { *The Flood of All Grief* [**Ultimate**] } | \"Every tear ever shed here stays exactly where it is. The escalation is spatial an\n  312   3  **Observation method:** Watch from the rim on a timed shift, read the level at both ends and have both readings signed. Enter the \n  334   1  > Two ways to close a watch at the rim, and the file prices them by what the worker is willing to feel: one takes the grief as a b\n  357   6  Three holdings stand within reach of the rim — The Memory Lake, The Weeping Statue and the Echo Gardens themselves — and not one o\n  364   1  This pool is read against the other standing water and against the Gardens. Each relation below has been watched and filed, none i\n  415   1  **Faction Involvement:** SED, on the D-territory survey · UCD, standing watch over the Fray-adjacent ground · Wound Walkers, for t\nGENERIC 0.004  (22 shared shingles)  SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Sorrow_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Sorrow_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Sorrow_Vial.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md": "a4a1ef9da431c54d050f4ce7245fe27b44995c8aa8b6836b5002bfb9d6b3016b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Sorrow_Requiem.md": "0f24a8f3b1a8acb073d2484385e51c7243273f7c7271535ea2a5e2bbd0a6f541",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Sorrow_Shroud.md": "3492917ffeac7553fbcf7e4351d3f7494633f0b137179d2dda44f9915fd2055a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Sorrow_Vial.md": "c41036aed80374e3b75172643acbbee3134244c5981ea9e1fab251ff71337bad"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-088_The_Sorrow_Fountain_%EC%8A%AC%ED%94%94%EC%9D%98_%EB%B6%84%EC%88%98.md \"SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md\")]",
+      "table_link": "[[SE-C-IIIγ-088 The Sorrow Fountain](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-III%CE%B3-088_The_Sorrow_Fountain_%EC%8A%AC%ED%94%94%EC%9D%98_%EB%B6%84%EC%88%98.md \"SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md\")]",
+      "reading": {
+        "before_lines": 495,
+        "before_bytes": 50510,
+        "final_lines": 495,
+        "final_bytes": 51876
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 40,
+        "physical_form_rows_unchanged": 301,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Digits changed by provenance documented inside repairs: four invented '-15%' gauge-stabilization figures, two '-2 Movement Speed' penalties, one '10 Composure'/60-second channel template and one '4' (combat-table bleed) were removed as unsupported. No new digits introduced; rooted figures retained (11.4 m advance, 65% Sorrow Gauge escalation, per-move Lament damage bands, graduation depth readings)."
+      }
+    }
+  ],
+  "opened_at": "2026-10-28",
+  "completed": 5
+}

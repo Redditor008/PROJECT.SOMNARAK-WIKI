@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Blueprint* [**Debuff**] } | "The architect unrolls a blueprint — and the building it shows has no interior. Only walls." | [The Architect's designs impose emptiness; the target feels their own interior hollowing.] | *Target suffers -10 Resolve; they are being redesigned from the inside.* **[10 Weight DMG [Weight]]** | When the target enters the Architect's space. |
-| { *The Load-Bearing Nothing* [**Debuff**] } | "Every structure the architect builds is supported by void — and the void is load-bearing." | [The Architect's hollow construction bears down on the target.] | *Target loses 10 Resolve; the emptiness is structural.* **[10 Weight DMG [Weight]]** | When the target lingers in the construction. |
-| { *The Falling Gargoyle* [**Attack**] } | "A stone face breaks free from the facade — designed to fall, designed to crush." | [A designed piece of architecture detaches and strikes.] | *Inflicts Weight pressure and one heavy, intentional wound.* **[14-22 Weight DMG [Weight]]** | When the Architect is disturbed. |
-| { *The Full Demolition* [**Attack**] } | "The architect gives the order — and every hollow building comes down at once." | [Every hollow structure in the field takes the order and comes down together.] | *A heavy Black demolition; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Architect is challenged. |
-| { *The City of Hollow Towers* [**Ultimate**] } | "Blueprints spread across the ground — and everywhere they reach, hollow towers rise." | [The plans unroll past the holding, and towers stand up wherever they reach.] | *All in range suffer Weight pressure for three turns of rising hollow towers.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Blueprint* [**Debuff**] } | "It will show you the plan freely — and it will show the next person a different one." | [The plans cannot be copied and no two observers agree; what can be taken is the intention, spoken under Viderehan and written down by two recorders independently.] | *-10 Resolve in the worker who came expecting to be told the purpose of their own file; the entity states what the structure was for, and nothing about the person standing in front of it.* **[10 Weight DMG [Weight]]** | When an intention is taken at the marked line. |
+| { *The Load-Bearing Nothing* [**Debuff**] } | "The structure is competent to the point where it stops, and nothing it has raised has ever had a roof." | [The remainder under a Ferrehan stand: the chamber's floor load reading rises while it works and settles within the hour after clearing.] | *-10 Resolve; the first vocabulary to go is the worker's own — unfinished, unoccupied, unrecognized.* **[10 Weight DMG [Weight]]** | When a stand runs long inside unfinished work. |
+| { *The Falling Gargoyle* [**Attack**] } | "Nothing here is designed to fall. The danger is standing in the footprint of what it is raising." | [No strike and no target: walls complete faster than a worker who has frozen will move, and an enclosed worker is a floor extraction measured in hours, three times so far.] | *Weight pressure lands as enclosure; the first casualty is whoever stops moving inside the work.* **[14-22 Weight DMG [Weight]]** | When Pugnahan is attempted, or somebody stops inside the footprint. |
+| { *The Full Demolition* [**Attack**] } | "It gives no orders and demolishes nothing; crews clear it on schedule and it begins again without reaction." | [What comes down is the quarter's tally. The surge follows an attempt to finish something it has started — every recorded escalation has.] | *A heavy Black settling; the Sorrow Gauge climbs 10% for every cycle it is left to build, and falls only when a worker speaks to it from outside the walls.* **[24-36 Weight DMG [Weight]]** | When a structure is finished, or a chamber is left to accrue. |
+| { *The City of Hollow Towers* [**Ultimate**] } | "Escalation is not a count. It is the drawings beginning to describe the room the crew is standing in." | [No towers rise outward. The crystal turns to present ground — the mark at the line, the advance since last cycle, the near wall of the work.] | *All present suffer Weight pressure; what they carry out is the vocabulary, applied to themselves.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the drawings begin to describe the room the crew is standing in. |
 
 ### Battle Phases
 
@@ -95,7 +95,7 @@
 - A worker who breaks at the walls pays twice: the Sorrow Gauge climbs while their **Resolve** splits into a Fracture, and both entries are written on one line of the record.
 - Standing near the plan past the recommended cycle calls up the structure's own aftershocks — the hazards the short briefings only gesture at — and the crew leaves with its thinking eroded and its body out of true.
 - Any M.A.W. brought into the rooms is owed a toll as it works: the crystallized sorrow runs back down the frame into whoever holds it, and the armoury ledger keeps that debt under the bearer's name.
-- When the resolution fails, the plan goes on building by itself — the cell is breached, the ground is claimed, and the pace of that claim is not something the estate chose.
+- When the resolution fails, nothing dramatic follows: it walks out and keeps building where it arrives, pursued by nobody and pursuing nobody, until a worker stands outside the structure and speaks to it. Three escapes; three recoveries; no suppression used.
 
 
 ## Appearance
@@ -309,9 +309,9 @@ The Architect draws a line and a wall rises. It draws another and a door appears
 
 **At first contact:** The floor load reading moves before you see anything. Then the figure, upright and working, hollow where a body would be, and a wall going up in front of it that already has a door opening and no cover. The Weight arrives as the lead-cold damp of wet stone. It does not look up.
 
-**With continued exposure:** The Subject-Body settles into a presence you learn to hold — not comfortably, but recognisably. The Weight pressure stops being an assault and becomes a climate: something you move within rather than against.
+**With continued exposure:** People come off-shift and stand at the viewing line watching something being made; the wing no longer discourages it. On the line the work is to come back talking about the entity rather than about yourself — the counselors screen conversationally, because the vocabulary is what walks home.
 
-**When the entity activates:** Activation feels like the room remembering something it had been forced to forget. The Weight surges, the Subject-Body sharpens, and for a moment the containment zone is not a cell but the original wound, reopened.
+**When the entity activates:** It is always building, so nothing trips. The change worth the name is in the crystal: the drawings stop describing nowhere and begin describing this room — and somebody, somewhere in the crew's recent past, tried to finish something.
 
 **After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Weight in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
 

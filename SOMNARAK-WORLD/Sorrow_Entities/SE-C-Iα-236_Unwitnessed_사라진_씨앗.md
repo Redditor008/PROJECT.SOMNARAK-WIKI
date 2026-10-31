@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-236 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a person entered on this facility's registers with no recorded beginning. the land has nothing to do with it; the correl |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a person entered on this facility's registers with no recorded beginning. The land has nothing to do with it. |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Mixed — There is no body, only a seed-shaped hollow pressed into dark, lifeless soil, ringed by the black threads of dead roots reaching toward a center that is not there. The earth inside is ash-cold and grows nothing. Touch the absence and your fingertips come away damp, as though the ground itself weeps for what was never allowed to be. |
-| **Movement** | Stationary — a place or zone; spreads rather than moves. |
+| **Movement** | Fixed in the Desolate soil; the outline has not changed by more than a finger's width in four hundred years of survey. The movement is downward and is read off a recovered logger. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Furrow* [**Debuff**] } | "The seed is gone — but the furrow where it was planted still waits for something to grow." | [The absence of the Seed aches; the target feels potential that was never realized.] | *Target suffers -10 Composure; they mourn a thing that never was.* **[10 Lament DMG [Lament]]** | When the target regards the furrow. |
-| { *The Dead Sprout* [**Debuff**] } | "Something almost grew here — and the almost is worse than the nothing." | [The ghost of the vanished Seed's potential presses on the target.] | *Target loses 10 Composure; they feel every unlived life.* **[10 Lament DMG [Lament]]** | When the target lingers at the furrow. |
-| { *The Husk* [**Attack**] } | "The empty seed-husk, blown by a wind that is not there, strikes like a bullet." | [The dried husk of what the Seed was fires at the target.] | *Inflicts Lament pressure and one small, sharp wound of lost potential.* **[14-22 Lament DMG [Lament]]** | When the furrow is disturbed. |
-| { *The Might-Have-Been* [**Attack**] } | "The seed lays out the tree it would have been, whole, in a single breath." | [Everything the vanished Seed could have become arrives at once, as grief.] | *A heavy Deep Blue wave; the reading jumps 15%.* **[24-36 Lament DMG [Lament]]** | When the Seed is invoked. |
-| { *The Field of Nothing* [**Ultimate**] } | "Everything that never grew stands up at once, and none of it is real." | [The Seed pulls every unrealised beginning in the field into view together.] | *Everyone in range takes Lament pressure for three turns while that growth shows.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| { *The Empty Furrow* [**Debuff**] } | "Nobody regards the furrow — the manifestation stops within four seconds of a person arriving, in every recovery on record. What is regarded, seven days later, is a dial trace and a deepest value with a date beside it." | [The ache arrives at the desk, not at the site: a hollow exactly as deep as the fortnight's unwritten beginnings.] | *Target suffers -10 Composure; they mourn a thing that never was, at the distance the record imposes.* **[10 Lament DMG [Lament]]** | On recovery of the logger. |
+| { *The Dead Sprout* [**Debuff**] } | "Nothing almost grew here; that is the distinction the briefing leads with. A thing that grew and failed has a first record. This was never entered, and the soil has refused four plantings since." | [No ghost of potential presses on anybody; what presses is a file whose first date is the day the facility met the person.] | *Target loses 10 Composure; they feel the shape of a life with its first thirty years left off the form.* **[10 Lament DMG [Lament]]** | When the fortnight's intake files are pulled. |
+| { *The Husk* [**Attack**] } | "No husk has ever been recovered, nothing is blown anywhere, and in four hundred years the site has not injured anybody. Disturbance is answered the only way this holding answers: by stopping." | [Arrive inside the week and the trace dies four seconds later; the week is void and the voiding is the whole of the effect.] | *Inflicts Lament pressure with no wound attached; the sharpness is a lost series and a reason recorded without comment.* **[14-22 Lament DMG [Lament]]** | When the site is visited inside its seven days. |
+| { *The Might-Have-Been* [**Attack**] } | "It lays out no tree. What it might have become is the one thing nobody can describe — not the traveller, not three testimonies, not four centuries of instruments — and the file treats any description offered as the failure, not the finding." | [Clarity fails here as the decision to fill the gap: the worker writes down what the beginning probably was, plausibly, and it is reported.] | *A heavy Deep Blue wave; the reading jumps 15% in a week when somebody wrote what they could not stand behind.* **[24-36 Lament DMG [Lament]]** | When the gap is filled in instead of marked. |
+| { *The Field of Nothing* [**Ultimate**] } | "Everything that never grew does not stand up. In nine days of evacuation intake, eleven hundred files opened at the moment the facility met them, and the hollow went to a hand's depth — one hundred and fifty-seven millimetres — in a quarter with no storms at all." | [A needle moves on a dial in an empty stretch of the Desolate. Nobody sees it. That is the whole of the ultimate event.] | *Everyone in range takes Lament pressure for three turns of entering people as beginning at intake.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
 
@@ -150,9 +150,9 @@ Ferrehan lowers the gauge and Viderehan holds it level, and both are performed w
 **Reading the response:** What the gauge reports is one worker's 7 days of staying away. What the depth reports is the way this facility has been opening its files. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a cycle which drops the gauge while returning a deeper log has been worked right and goes into the record as a success with no qualification attached.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Sector / Facility Alteration**
-> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+> **This Relic is measured in millimetres, after the fact, by an instrument nobody watched.**
+> **No perimeter effect has ever been instrumented. There is no channel and nothing bleeds.**
+> **Mark the absence; do not excavate or plant into it.**
 
 **Activation Trigger:** A person entered on this facility's registers with no recorded beginning. The land has nothing to do with it; the correlation with registrations was established in Year 4229 and the correlation with Desolate soil conditions has been tested four times and failed four times.
 
@@ -167,11 +167,11 @@ Ferrehan lowers the gauge and Viderehan holds it level, and both are performed w
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Continuous / channeled use** |
+| **Use Mode** | **Absence.** The one piece of apparatus is an unattended dial logger on a fixed tripod; nothing is channelled, held or operated in person. |
 | **Activation** | A person registered here with no recorded beginning. Not a property of the land; four soil-condition tests, four failures. |
 | **Primary Effect** | Deepening of the hollow, read after the fact. No perimeter effect has ever been instrumented. |
 | **Duration** | Permanent. No reading has ever returned to the ground plane. |
-| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Termination / Return** | Recovery on day seven: approach, lift the logger, read the week. The trace stops within four seconds of arrival, every time. No conduit exists to vent, and no instrument has ever registered anything beyond the outline. |
 | **Risk** | Weeping and flattened affect in the operator. The site itself has never been destabilised by anything attempted on it. |
 
 **Operational Rule:** The relic is the one piece in the archive that requires the operator's absence. A channel held in person yields nothing at all, which was established over eighty years of patient failure before anybody thought to walk away and come back.
@@ -182,7 +182,7 @@ Ferrehan lowers the gauge and Viderehan holds it level, and both are performed w
 |---|---|---|
 | Day 1 | Nothing is observed, because nobody is there. The logger runs. | Site vacated within ten minutes of the tripod being set. Any return inside the week voids the week. |
 | Day 3 | The heartbeat appears in the trace, invariably during rain, and the file is explicit that this is a correlation with moisture and not an explanation of anything. | Nothing. The instrument is not attended and no reading is taken remotely; three telemetry proposals have been refused. |
-| Day 7 | Recovery. The operator approaches, and the trace stops within four seconds of their arrival, every time, in every recovery on record. | Lift the logger, read the week, take the deepest value. 4 Composure is charged against the recovery itself; the walk in is the costly part. |
+| Day 7 | Recovery. The operator approaches, and the trace stops within four seconds of their arrival, every time, in every recovery on record. | Lift the logger, read the week, take the deepest value. Nothing is charged against the recovery; the walk in is simply the end of the measurement, and the week's summary is written by somebody who was not there. |
 | Beyond | A logger left past fourteen days returns a week of flat trace and the series is treated as broken. | Recover on time. Two series have been lost this way and both losses are named in the folder with the reasons. |
 
 ### Escalation Notes

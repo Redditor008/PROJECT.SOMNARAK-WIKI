@@ -15,7 +15,7 @@
 | **Element** | Void |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A bridge of pale crystal frozen suspended above the ground with no river beneath it, its far end lost in frost. Bloodless-cold, it smells of ash; it leads somewhere, but the frost hides where. |
-| **Movement** | Stationary — a structure or location. |
+| **Movement** | Fixed; annual survey, no variance in sixty years. Span and clearance are measured each session and both figures are known to mean nothing. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -32,9 +32,9 @@
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
+| **Vessel-Destructible** | No — the deck has never shed a stone in sixty years of record, and nobody goes past the third stone. |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | On Bridge of the Unchosen: hold the probe series unbroken and enforce the Counterfactual Rule across every board of this facility that issues a finding. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Iced Span* [**Debuff**] } | "The bridge is sealed in permafrost — every plank, every cable, frozen solid and impossible to cross." | [The Bridge's ice-lock denies passage; the target is trapped on one side.] | *Target suffers a Void mark; the crossing is impossible.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Bridge. |
-| { *The Deepening Cold* [**Debuff**] } | "The ice thickens — and the cold extends outward, freezing the air itself." | [The Bridge's permafrost spreads; the target is being sealed in.] | *Target loses clarity; the cold is everywhere.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Ice-Lance* [**Attack**] } | "A shard of the frozen bridge breaks free — ancient, sharp, and colder than anything natural." | [An ice-splinter from the Bridge strikes.] | *Inflicts Void damage; the ancient cold erodes warmth.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bridge is struck. |
-| { *The Full Shatter* [**Attack**] } | "The entire frozen bridge detonates — ice and wood and void, in every direction." | [The Bridge's permafrost fails catastrophically.] | *A heavy Void ice-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bridge is broken. |
-| { *The Frozen Crossing* [**Ultimate**] } | "The ice spreads to every bridge in the field — and without crossings, every side is cut off." | [The Bridge extends its freeze across the whole area.] | *All in range suffer Void erosion for three turns of frozen crossings.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Iced Span* [**Debuff**] } | "Steps taken on the deck do not continue — the foot stays where it was set — and the prohibition is three stones, absolute, imposed before the first incident. Nobody is trapped on one side; nobody has ever been allowed far enough to be." | [The frost advances past the marked stone by about two hand-spans, in silence, which is the only visible event this holding has ever produced.] | *Target suffers a Void mark; the crossing stays possible to describe and impossible to conclude.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the frost crosses the third stone. |
+| { *The Deepening Cold* [**Debuff**] } | "The frost looks the same at four millimetres and at ninety-six. Three early reports describe the deck as unchanged on days the probe recorded a forty-millimetre swing, and nothing freezes that a standing observer can watch happening." | [The deepening is a number at the next reading, not a weather front; the event happened when a finding was signed, in a warmer room.] | *Target loses clarity; the cold is in the figure, not the air.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the probe returns deeper than the last session. |
+| { *The Ice-Lance* [**Attack**] } | "No shard has ever broken free; the deck has not shed a stone in sixty years, and the span is never struck — Pugnahan is not a Work Type here and the prohibition on the near end predates any incident an attack could answer." | [What strikes is a sentence: the worker begins describing the other side in the past tense as something that was taken from them, and the gauge rises with every such sentence.] | *Inflicts Void damage; warmth erodes exactly as fast as certainty grows.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker states what the other path held. |
+| { *The Full Shatter* [**Attack**] } | "The span does not detonate and there is no wood in it to burst. What breaks is a finding: twenty-two of ninety-four in the first return contained a sentence stating what would have happened, and every one had to be withdrawn." | [A counterfactual read aloud at a public hearing by a man who meant it as an apology took the frost to ninety-six millimetres, the deepest figure on record.] | *A heavy Void ice-burst of withdrawn prose; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a finding states an outcome for a course not taken. |
+| { *The Frozen Crossing* [**Ultimate**] } | "The ice does not travel to other bridges. This wing holds five, they behave nothing alike, and none of them has ever been brought here or affected by this one. What generalises is the sentence — every board of this facility can write it." | [A swing of twenty millimetres or more between readings opens a documents search, not a field response: which board reported that week, and what did it say would have happened?] | *All in range suffer Void erosion for three turns of boards writing would-haves.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -150,9 +150,9 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 **Reading the response:** The gauge measures one worker's grammar for the length of one session. The probe measures what the facility has published. They are kept in separate columns and have never moved together, and the standing instruction to supervisors is that a session which lowers the gauge and leaves the frost deeper has been worked correctly and should be written up as a success without qualification.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **A finding may state what was done, what was not done, what was available, and what was known at the time.**
+> **It may not state what would have happened had another course been taken.**
+> **You have found a principled reason to stop apologising. — family representative, at the consultation**
 
 **Activation Trigger:** Regret focused on an unchosen path.
 
@@ -171,7 +171,7 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 | **Activation** | Regret focused on an unchosen path. |
 | **Primary Effect** | Frost advances past the third stone; the far end clarifies slightly and differently for every observer present. |
 | **Duration** | While equipped; will not release from a bearer holding an unwithdrawn counterfactual finding. |
-| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
+| **Termination / Return** | Returned the same evening unless the bearer holds an unwithdrawn finding stating an outcome for a course not taken, in which case it simply stays on. There is no injury in the refusal and no warning. |
 | **Risk** | Progressive certainty about unexamined outcomes. Four of six long-term bearers issued findings that were later withdrawn. |
 
 **Operational Rule:** The relic is carried by the officer presenting a finding to a hearing, on the day they present it, and returned the same evening. It has no field application, has never been issued for one, and the three requests to take it past the Gardens perimeter are all in the folder with their refusals.
@@ -182,7 +182,7 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 |---|---|---|
 | 10 Seconds | The seven chalices stop orbiting and hang still, aligned on one person in the room. | Alignment is the bearer's only aiming control. It cannot be overridden and twice it has chosen the bearer. |
 | 30 Seconds | The aligned person sees an option they genuinely had, at the moment they had it, open. They do not see where it went. | Composure drifts in both of them. Ask the bearer to state what they do not know about the situation under review, and log the answer. |
-| 1 Minute | The bearer begins to supply the ending. It is confident and it is theirs, not the ring's. | 5 Void damage every 15 seconds past the minute. Stop the bearer talking. The piece has never produced an outcome and the bearer will insist that it did. |
+| 1 Minute | The bearer begins to supply the ending. It is confident and it is theirs, not the ring's. | Stop the bearer talking; nothing is metered here except sentences, and the first one in which they supply an ending is timed and transcribed. The piece has never produced an outcome and the bearer will insist that it did. |
 | 2 Minutes | The bearer can no longer distinguish the option they were shown from an account of what followed it. | Remove the ring and read them their own pre-use statement of what they do not know. It works, it is humiliating, and no substitute has been found in forty years. |
 
 ### Escalation Notes
@@ -213,7 +213,7 @@ Nothing escalates at the Gardens. The deck has not moved, not lengthened, not sh
 
 Appearance : A floating halo ring of seven small frosted crystal goblets orbiting at eye level, each vessel filled with a bead of luminous blue starlight that never evaporates.
 
-The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapping any chalice releases a chime that freezes moisture in the air into falling geometric snowflake blades.
+The chalices rotate in a smooth horizontal circle sixty centimeters across. Their chime is addressed to one person — a second person standing in the same room hears bells — and nothing falls from it but an option, shown open at the moment it was open and never one step beyond.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)
@@ -292,7 +292,7 @@ One ladder governs all three, and it is entered in order: the bearer begins desc
 
 - Frost never melts through temperature.
 - The destination changes according to the observer's regret.
-- It becomes stable when the worker accepts the present path.
+- A worker's acceptance lowers the gauge; the depth does not answer to it. The probe tracks the facility's review returns and has never once responded to anything done or not done by an individual at the span — the two columns have never moved together, and a session that drops the gauge into deeper frost is written up as a success without qualification.
 
 **Personnel Note:** *"It is not waiting for anything. I spent four years saying it was and the probe never agreed with me once. It freezes when we tell people what the other road would have given them. That is all it does. We built a shrine out of one man's bad minute and the thing has been reporting on our own paperwork the entire time."* — Warden, Echo Gardens span
 

@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
 | **Physical Form** | Mixed — A walking tree of true living wood that travels on a knot of root-legs, branches reaching and gripping like hands — a wandering plant-creature. Warm, it smells of cold rain and home. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Mobile — uproots and walks on a knot of root-legs between the sites of failed returns, following old paths and foundations. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — no combat speed is assigned; relocation is unhurried and recorded by stops rather than pursuit pace |
 | **Resistance** | 15% against Lament pressure and 5% against everything else. The record's explanation is the ground: the Tree is a place first and a creature second, and the two figures are taken from a site that has already absorbed every grief carried to it, so the pressure a crew brings lands on soil that is full. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 174/174 |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Sprout* [**Debuff**] } | "A sapling appears where you just cleared — and it is already taller than the stump you removed." | [The Tree returns; the target feels the futility of their effort.] | *Target suffers -10 Composure; it will not stay gone.* **[10 Lament DMG [Lament]]** | When the target cuts the Tree. |
-| { *The Accelerating Return* [**Debuff**] } | "Each time it comes back faster — sprout to sapling to full tree in seconds — and each time, angrier." | [The Tree's return cycle accelerates; the target cannot keep up.] | *Target loses 10 Composure; the Tree is winning.* **[10 Lament DMG [Lament]]** | When the target cuts it again. |
-| { *The Whipping Branch* [**Attack**] } | "The returning tree grows a branch in the time it takes to blink — and the branch is aimed at your face." | [A newly grown branch strikes before the target can react.] | *Inflicts Lament pressure and one fast, woody wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed mid-return. |
-| { *The Infinite Canopy* [**Attack**] } | "The tree returns — and returns again, and again, until there is a forest where one tree was." | [The Tree's exponential returns create an overwhelming mass.] | *A heavy Deep Blue overgrowth; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When a worker describes the ground as restored rather than changed. |
-| { *The Endless Orchard* [**Ultimate**] } | "Every cut tree in the field returns at once — and they are all angry, and they are all growing." | [The Tree extends its returns across the whole area.] | *All in range suffer Lament pressure for three turns of returning forest. The 174 HP line does not fall; what falls is the crew's readiness to stand under the branches at all.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the branches have been moving since the 45% mark and nobody has named the change aloud. |
+| { *The First Sprout* [**Debuff**] } | "Cold rain on warm wood, and then a tree where no tree should be." | [The Tree is found at a failed return; the observer knows a route they have never walked.] | *Target suffers -10 Composure; the recognition is not theirs.* **[10 Lament DMG [Lament]]** | When somebody returns and is not recognised, or recognises nothing. |
+| { *The Accelerating Return* [**Debuff**] } | "Its roots follow memories rather than water." | [A name changes on the bark and the next stop is read from old paths and foundations, not distance.] | *Target loses 10 Composure; another return has failed.* **[10 Lament DMG [Lament]]** | When the sighting log gains a new stop. |
+| { *The Whipping Branch* [**Attack**] } | "Clear the route rather than the ground." | [Branches move and roots take the corridor; a worker standing in the chosen path is entangled without being sought.] | *Inflicts Lament pressure as the route home is recited in the present tense.* **[14-22 Lament DMG [Lament]]** | When personnel block the route or try to turn the Tree back. |
+| { *The Infinite Canopy* [**Attack**] } | "Two settlements, one address, and neither group the one that was wrong." | [Viderehan holds the settlement before and after the absence at once; merging them into one spoiled place deepens the pressure.] | *A heavy Lament surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When a worker describes the ground as restored rather than changed. |
+| { *The Endless Orchard* [**Ultimate**] } | "Name the change aloud from under the branches, and leave the route open." | [One Tree relocates; everybody under the branches carries the unfamiliar route until the change is named.] | *All in range suffer Lament pressure for three turns of unacknowledged return. The 174 HP line does not fall; what falls is the crew's readiness to stand under the branches at all.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the branches have been moving since the 45% mark and nobody has named the change aloud. |
 
 ### Battle Phases
 
@@ -94,7 +94,7 @@
 
 - A worker who cannot hold the branches' pressure does not report fear and does not report grief. They report the route home — turn by turn, in the present tense — while standing in a Border survey corridor they have never walked, and the Clarity loss shows up as the confidence of that account rather than in the gauge. Fielders are told to let it run and write it down; interrupting it produces the same account later, less accurately.
 - Extended contact produces homesickness for a place the worker has never been. It is specific, it is detailed, and it survives the shift. Personnel who grew up outside the Border region are the most affected, which is the reverse of the pattern this wing usually records.
-- The requiem, the shroud and the leaf all carry the same thing out of the Tree: the certainty that somewhere is still yours. Each activation spends a little of the operator's own, and it does not come back. The pieces do not take memories of home. They take the claim on it.
+- The pieces price that recognition separately: involuntary weeping in a familiar place, numbness to small comforts, and the grief of everyone who returned too late. None takes a memory cleanly away; each weakens the bearer's unexamined claim that home is still theirs.
 - If the change is never acknowledged, the Tree moves on and keeps moving. It does not expand its footprint; it relocates, to the next place where a return has failed, and the file records this as escape only because there is no other category for a place that leaves.
 
 ## Appearance
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Place-Lament
 - **Primary marker:** A tree that appears in places where people have returned after long absence. Its roots hum with stored memory.
-- **Position / movement:** Physical Form: A tree that appears in places where people have returned after long absence.
+- **Position / movement:** Mobile between stops on root-legs. It plants itself where a long-absent person has returned, then follows old paths and foundations to the next failed return; the sighting log, not the registered location alone, says where it stands.
 - **Element signature:** Lament
 - **Registered location:** Zone E, Border region
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tree that appears in places where people have returned after long absence. Its roots hum with stored memory. |
-| **Position / movement** | Physical Form: A tree that appears in places where people have returned after long absence. |
+| **Position / movement** | Uproots and walks at an unhurried pace; it does not run or pursue. Copy bark names at entry and exit, log the stop, and record the direction taken when it leaves. |
 | **Material / signature** | True living wood — root, trunk and branch — covered in bark that carries names and hung with leaves that hold fragments of old maps. It smells of cold rain and warm timber, and the smell arrives before the Tree is in sight. The bark is the surface the whole record works on: names surface, legible, and are not fixed between observations. |
 | **Distinctive markers** | Identify it by the bark and the leaves. Other walking growths are recorded in this region; this is the one carrying names and map fragments, and the names can be checked against the settlement rolls. |
 | **Identification** | The registered location will often be wrong by the time a crew arrives, because the site is the entity and the entity walks; the check that holds is the bark. Names are copied at entry and at exit and matched against the settlement rolls, which is the one field the survey can verify — other walking growths in the Border region carry neither names nor map fragments. |
@@ -178,14 +178,14 @@ The Tree does not escalate the way a holding does; it moves, and each move is tr
 **Activation reporting order:** which name surfaced on the bark → where the Tree was standing when it did → the ground covered since the previous sighting → who in the vicinity had recently returned → the percentage at which the branches began to move. Report in that order; the name comes first because it is the only field that has ever predicted the next location.
 ## Breach Behavior
 
-> *"Homecoming Tree has broken free. Extends roots through the floor, entangling personnel."*
+> *"New Homecoming Tree stop logged. Clear its route, copy the bark at entry and exit, and name the change from underneath."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It walks out at the pace it always walks. Roots enter the floor as it goes and personnel are entangled by standing in the route rather than by being sought. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
+| **Effect** | Personnel recite an unfamiliar route home in the present tense; Clarity loss appears as confidence in that account. Let it run and write it down. |
+| **Secondary Effect** | Names surface or vanish on the bark between entry and exit. The changed set and departure direction predict the next stop. |
 | **First Target** | Whoever is standing between the Tree and the direction it has chosen. |
 | **Escalation** | Drain rises by 5 for each attempt made to turn it back, and not at all for time spent letting it walk. |
 
@@ -268,10 +268,10 @@ The Requiem and Shroud hold to grade only for an operator who has not claimed th
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record the wielder, piece, gauge, declared home, and whether the worker has claimed the ground at a return site. The Requiem and Shroud hold to grade only while that claim is absent. |
-| **During use** | Record the changed-place response separately from each item's effect: one listener hears the Requiem; the Shroud turns aside Lament, not recognition. Log the Requiem's involuntary weeping and the Shroud's loss of small comforts after contact. |
-| **At limit** | The observer calls the Shroud's limit rather than the wielder when small comforts go numb. A claim of ownership or promise to restore the place violates the set's resolution; do not treat it as a recovery test. |
-| **After use** | Return the piece and compare the home baseline. Record whether familiar routes and voices still register; do not reissue the Shroud if comforts remain numb. The Leaf is released by the Tree, not issued by the Armoury. |
+| **Before use** | Record wielder, piece, gauge, declared home, and whether the worker has claimed the ground at a return site. Baseline the piece's own sign: weeping after contact, response to small comforts, or grief that is not the bearer's own. |
+| **During use** | Keep the signs apart: one listener hears the Requiem; the Shroud turns aside Lament, not recognition; the Leaf shows before and after without making either a claim. Log first-person retelling of the Tree's return as a warning, not a memory. |
+| **At limit** | The observer calls the limit when weeping, comfort-numbness or borrowed grief persists, or when the bearer claims the ground or promises restoration. Do not treat that claim as a recovery test. |
+| **After use** | Return the piece and compare the home baseline. Record whether familiar routes, voices and comforts register again. The Leaf is released by the Tree, not issued by the Armoury. |
 
 **Stat interpretation:** The α grade and +1 source bonus do not make the Leaf safe to issue or price its cost. It reveals a place before it changed, while its bearer feels the grief of everyone who returned too late. The set preserves that before-and-after distinction; it cannot restore the settlement.
 ## 관찰 기록 (Observation Log)
@@ -330,9 +330,9 @@ The ground hums under your feet, and a tree rises from a place that was supposed
 
 **At first contact:** Cold rain on warm wood, before anything is in sight, and then a tree standing where no tree should be — root-legs planted in a survey corridor, branches reaching and gripping like hands. The leaves are laid out like fragments of old maps and the bark carries names. You know the walk to a place you have never been, and the knowing arrives before the fear does, which is the disorder the crews report most often.
 
-**With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Place-Lament lets you breathe.
+**With continued exposure:** The work is keeping two settlements apart: the one in the leaves and bark, and the one now standing on the same ground. Crews who merge them into a single spoiled place have made the Tree's mistake for it.
 
-**When the entity activates:** The shift happens between one breath and the next. The Place-Lament crosses from presence to action, and the Lament goes from weather to weapon.
+**When the entity activates:** A return has failed somewhere nearby. The branches begin to move at the recorded threshold, names change on the bark, and nobody is pursued; clear the route and say that the place has changed.
 
 **After departure:** Departure looks like nothing at all: the Tree settles where it stands and the branches stop moving inside the hour. What walks out with the crew is the route. Somebody will describe the turnings of a Border street the whole way back to the gate, and will not be able to say when they learned it, and the file's answer is to write it down rather than to argue with it.
 
@@ -395,7 +395,7 @@ Some sorrows mourn exile. Homecoming Tree mourns the return — the home not des
 - The tree stands where the community's original gathering place was, and moves on when the next return fails; the standing instruction is to record where it stands now, not where it was.
 **Observation Notes:**
 - A community returned and found their home transformed beyond recognition.
-**Cross-References:** Zone D · Nemo · Dreaming Ruin
+**Cross-References:** Zone E, Border region · the sighting log and settlement rolls · SED before-and-after surveys · Perennial · Silence We Forgot We Made · The Grieving Colossus
 **Faction Involvement:** SED, whose Desolate-territory surveys hold the only maps of the settlement from both before and after the absence.
 **Originator:** A displaced community that returned to a changed settlement.
 

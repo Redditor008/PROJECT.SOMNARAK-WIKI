@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-456 [N]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: fixed garden; seasonal footprint expansion and withdrawal in place, with no breach recorded |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -26,14 +26,14 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Physical / structural pressure |
+| **Primary pressure** | Resilience — desire for a specific entitlement earned but not received |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | — · α |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
+| **Vessel-Destructible** | No — Place manifestation; no vessel or destruction route is recorded |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Only two Work Types answer here: Viderehan from the rows and Ferrehan posted in them. Ferrehan comes first, the gauge falling under it while Viderehan only holds the reading level. Acknowledge what the households want and promise them no meal, since no fruit off these branches has ever been eaten and a promise made at the branch is one the garden cannot keep. Pick nothing. Log the empty stems and take no sample through the gate, because fruit thins away in transit and 31 years of trying have produced no exception to it. Yield is booked against arrivals, and arrivals are never named. The 60 per cent trigger is watched from the marked corner rather than from inside the rows. |
 
 ### Operational Notes
@@ -51,8 +51,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
+| **Speed** | N/A — fixed garden; output is measured by seasonal fruit-set and empty-stem counts and by footprint movement toward the marked corners |
+| **Resistance** | 25% against Grudge pressure; 15% against other pressure types. The working safeguards are the Ferrehan hour with hands kept down, picking nothing, acknowledging the named desire without promising fulfilment, and reporting fruit-set and empty-stem counts side by side |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 357/357 |
 | **Han Pressure [ATK]** | 7–18 per hit · Grudge |
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Withering* [**Debuff**] } | "The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist." | [The Fruit's fading transfers to the target; they feel themselves becoming less real.] | *Target suffers -10 Resilience; they are fading like the fruit.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |
-| { *The Losing Shape* [**Debuff**] } | "The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails." | [The Fruit's dissolution is contagious; the target's boundaries weaken.] | *Target loses 10 Resilience; they are losing their outline.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Withering* [**Debuff**] } | "The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist." | [Fruit at shoulder height goes translucent as the worker's hand starts toward it and the specific thing they earned but never received comes to mind.] | *Target suffers -10 Resilience; the stopped reach is logged with the minute and the hand returns to their side.* **[10 Grudge DMG [Grudge]]** | When the target first reaches toward fruit in the rows or names a specific entitlement they earned but did not receive. |
+| { *The Losing Shape* [**Debuff**] } | "The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails." | [The boundary between wanting, being owed and being promised collapses; every visible fruit thins as the record is written.] | *Target loses 10 Resilience; hunger transfers to the operators until desire, debt, authority and feasible action are recorded in separate fields.* **[10 Grudge DMG [Grudge]]** | When a desire is promised fulfilment, treated as proof of entitlement, monetized, or itself recorded as debt. |
 | { *The Final Juice* [**Attack**] } | "You close your hand on it and there is a drop, bitter, warm, and then a wet stem and nothing. Four Wardens have done this. All four reported it." | [The fruit discharges as it goes.] | *Grudge pressure and one wound of concentrated ending.* **[14-22 Grudge DMG [Grudge]]** | When a fruit is picked — which is prohibited, and has happened four times. |
-| { *The Total Fade* [**Attack**] } | "Four thousand one hundred and nineteen set that season, and four thousand one hundred and nineteen stems, and the counter finished both lists." | [The whole season goes at once.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15%.* **[24-36 Grudge DMG [Grudge]]** | At a set count above two thousand. |
-| { *The Empty Harvest* [**Ultimate**] } | "Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger." | [The Fruit extends its fading across the whole area.] | *All in range suffer Grudge pressure for three turns of vanishing harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Total Fade* [**Attack**] } | "Four thousand one hundred and nineteen set that season, and four thousand one hundred and nineteen stems, and the counter finished both lists." | [The completed fall count proves the whole season vanished on the branch: every set fruit is matched by an empty stem.] | *Heavy Grudge pressure across the posted workers; no personnel Gauge is inferred. Both lists are filed whole and the quarter's set-off return is pulled.* **[24-36 Grudge DMG [Grudge]]** | When the completed fall set count exceeds two thousand and matches the empty-stem count. |
+| { *The Empty Harvest* [**Ultimate**] } | "Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger." | [The footprint reaches toward a marked corner while fruit across the beds thins before it can be taken.] | *All personnel inside the footprint suffer Grudge pressure for three turns; corners are walked, hands stay empty, and no harvest is promised.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥60%. |
 
 ### Battle Phases
 
 1. **Tension:** Recognition comes before anything: the count and the bare stems identify the Fruit, not the look of the trees. A lean season shows the finest garden — heavy blossom, fruit setting early, and nothing in thirty-one years grander than the spring of Year 4230 — and only then are the approach set and the positions taken.
 2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A under the Object/Place Work Rule. The reading is the set count: fruit that formed on the branch across the season, counted at the fall against the empty stems, which have always matched it exactly. Three hundred and forty is baseline. The recorded range is ninety-six to four thousand one hundred and nineteen.
-3. **Resolution:** The watch is filed under containment, retreat, management, or the condition this file registers: **Acknowledge desire without promising fulfillment**.
+3. **Resolution:** The watch closes only when the desire has been acknowledged with no fulfilment promised, nothing has been picked, the set count and stem count are reported side by side, and the Gauge is below 25%. **Acknowledge desire without promising fulfillment** is the management condition; suppression and harvesting are not routes.
 
 ### Consequences
 
@@ -188,7 +188,7 @@ There has been no breach and there is no boundary. Escalation here is a season s
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a slender dagger of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+**Appearance:** a crimson dagger of Grudge Han-iron with grief stains visible beneath its surfaces, the discoloration sitting under the metal like bruising under skin—visible, and unreachable.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -204,7 +204,7 @@ There has been no breach and there is no boundary. Escalation here is a season s
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+**Appearance:** a crimson Han-iron harness patterned with fading fruit—orchards stamped into the metal mid-vanishing, so the harvest is visibly in the act of being withdrawn and is never polished brighter.
 
 **Resistances:**
 - Grudge: 0.4 (Resistant)
@@ -214,7 +214,7 @@ There has been no breach and there is no boundary. Escalation here is a season s
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Wards Grudge pressure on the Body. Worn for the hour in the rows and kept on to the gate, which the counters insisted on after two workers removed it at the bed edge and were found with fruit in their hands.
+**Ability:** *Denied-Hope Guard* protects the Body from Grudge generated by systemic foreclosure without treating that denial as fair or soluble by one person's force. Worn for the hour in the rows and kept on to the gate, which the counters insisted on after two workers removed it at the bed edge and were found with fruit in their hands.
 
 **Cost:** Dulled reflexes for about a day, measured and modest. Wearers describe it as the slowness of a hand that has already been told no.
 
@@ -222,7 +222,7 @@ There has been no breach and there is no boundary. Escalation here is a season s
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.
+**Appearance:** a crimson Han-iron Tail charm shaped as a fruit, remaining whole only while desire is recorded without promise; when wanting is inflated into a guarantee, the fruit begins to split.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -236,7 +236,7 @@ There has been no breach and there is no boundary. Escalation here is a season s
 
 ### M.A.W. Use Notes
 
-The armoury's note records none of it as designed: the pieces were found one at a time across thirty-one years, and the fourth thing tried here — a scale built to weigh a person's entitlement against their arrears and advise the greater number — did simply what the specification asked, and was broken up at the ward's request.
+The Armoury's note records none of it as designed: the pieces were found one at a time across thirty-one years, and the fourth thing tried here — a scale built to weigh a person's entitlement against their arrears and advise the greater number — did simply what the specification asked, and was broken up at the ward's request. In use, the Dagger reveals, the Plate guards and the Charm marks; every deployment records desire, debt, authority and feasible action in separate fields. No piece may promise a harvest, monetize the fruit, or treat wanting itself as either proof of entitlement or another debt.
 
 ### Field Use Record
 
@@ -354,9 +354,9 @@ They planted a garden in Collector's Row, dreaming of the lives the debt had clo
 
 The debtors of Collector's Row were poor — chronically, systemically, the kind of poor that the city produces and maintains and calls a condition rather than a choice. They owed. They would always owe. And among the owing, they dreamed — not of wealth, but of the ordinary satisfactions the debt foreclosed: a meal grown rather than bought, a fruit picked from a tree they had tended, the small domestic pleasure of eating something that was theirs because they had made it grow.
 
-They planted a garden. In the marginal soil of Collector's Row, between the tenements and the ledger offices, the debtors dug and planted and tended — fruit trees, vegetable beds, the small agricultural gestures of people reaching for a life the system had labeled unavailable. The garden was an act of defiance, and an act of hope, and an act of the ordinary domesticity the debt was supposed to have foreclosed.
+They planted a garden. In the marginal soil of Collector's Row, between the tenements and the ledger offices, forty-one households dug the beds, set out fruit trees and signed an agreement to share the work and harvest equally. The garden was an act of hope and of ordinary domesticity: a meal grown rather than bought, from trees they themselves had tended.
 
-The fruit faded. Every season, the trees bore — the blossoms came, the fruit formed, the harvest approached. And every season, before the fruit ripened, before any debtor could pick it, before any hungry mouth could taste the thing they had grown — the fruit faded. Withered on the branch. Dissolved. The debt, the debtors came to understand, was not merely financial. It was a condition — a systemic foreclosure on the possibility of satisfaction, on the completion of any cycle of effort and reward. The debtors could plant. The debtors could tend. But the debt ensured that the harvest, the payoff, the taste of the thing they had worked for — these were reserved for those who did not owe.
+The fruit faded. Every season the blossoms came, fruit set and swelled, then thinned on the branch before it could be eaten. Later Wardens have closed a hand on one four times and received a bitter drop and a wet stem; no household harvest followed. The injury was not that an office seized the crop—none did—but that effort could be completed lawfully at every step and still never arrive in the earner's hand.
 
 Fading Fruit is Place-Grudge: the figure of desire made impossible by debt — the garden that grows but cannot feed, the fruit that forms but cannot be tasted, the effort that the system ensures will never arrive at its reward.
 

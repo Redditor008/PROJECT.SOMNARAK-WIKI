@@ -26,12 +26,12 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Clarity — the worker's hold on where they belong and which rooms are theirs to be in |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, a cycle being a shift spent sitting in the assigned room with the lights low. The Old Lament station's return describes it, without irony, as the least strenuous and worst-attended posting in the zone. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | — · — |
+| **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Occupy the assigned room with it, for the length of a shift, with the lights left low. Viderehan is the watching; Ferrehan is staying. Do not flood the space with light and do not drive it anywhere. |
@@ -51,7 +51,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — no locomotion rate established; the mobile shadow relocates between dark spaces, while activation output is measured per turn |
-| **Resistance** | 25% against Void. There is nothing solid to resist; it is cold dense shadow with no fixed shape, and the two attempts to drive it with light are recorded under Escalation rather than here. |
+| **Resistance** | 25% against Void as a pressure rating only — there is no solid target to strike and confrontation is invalid for this record. Working protection is occupancy: a witnessed dim room with an open exit, a threshold witness who can name the sitter, and no pursuit or floodlighting, both of which spread it instead of resisting it. Drain rises by 5 for each space cleared or reallocated while it is loose. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Void |
@@ -66,7 +66,7 @@
 | **Battle Length** | Medium — 16 turns |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
+| **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
@@ -77,24 +77,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Following* [**Debuff**] } | "Your shadow moves when you do not — just a little, just enough to notice." | [The Shadow detaches and follows the target independently.] | *Target suffers a Void mark; their shadow is no longer theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shadow separates. |
-| { *The Lengthening* [**Debuff**] } | "It is in the next room before you are, and it was not there when you looked." | [The shadow precedes anybody who is moving on, which is the only circumstance in which it moves first.] | *1 Void. The worker arrives somewhere new and finds it already occupied.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker who has been reassigned to a new workspace walks to it. Reliable enough that the works office is consulted before the rota is drawn. |
-| { *The Cold Touch* [**Attack**] } | "The shadow touches your shadow — and where they overlap, you go cold." | [The Shadow merges briefly with the target's, draining warmth.] | *Inflicts Void damage; a portion of the target's presence stolen.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shadow catches up. |
-| { *The Swallowed Shadow* [**Attack**] } | "You cast nothing, in a room with a lamp in it." | [The target's own shadow is taken and does not return for some hours.] | *3 Void and a 15% Gauge surge; the eleven affected workers all describe the loss as the moment they stopped feeling entitled to be in the building.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When it is driven, lit, or ordered out of a room. |
-| { *Shadowless* [**Ultimate**] } | "Nobody in the sector casts one, and the lamps go on working perfectly." | [Every shadow in the zone is taken at once for the duration.] | *2 Void per cycle for three cycles to everyone in the sector.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Above 65%, once, in the week the sector's lower offices were reallocated — nineteen rooms in four days. |
+| { *The Following* [**Debuff**] } | "Your shadow moves when you do not — just a little, just enough to notice." | [The shadow attaches to the departing worker's own shadow; it is not chasing, it has been left nowhere to stay.] | *The worker suffers a Void mark and Clarity loss — their shadow is no longer only theirs. A threshold witness names the worker, the room and its exit; the departure is entered as a short shift, with the reason unassessed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker leaves the assigned room before relief arrives, or departs unacknowledged. |
+| { *The Lengthening* [**Debuff**] } | "It is in the next room before you are, and it was not there when you looked." | [The shadow precedes anybody who is moving on, which is the only circumstance in which it moves first.] | *1 Void and Clarity loss. The worker arrives somewhere new and finds it already occupied. Workers moved between workspaces in the last month are taken off this rota, because they are followed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker who has been reassigned to a new workspace walks to it. Reliable enough that the works office is consulted before the rota is drawn. |
+| { *The Cold Touch* [**Attack**] } | "The shadow touches your shadow — and where they overlap, you go cold." | [Where the worker's shadow crosses the settled dark in an unwitnessed room, the two overlap and the warmth leaves.] | *Heavy Void damage to Clarity; a portion of the worker's presence and entitlement to the room is taken. Sit down, name the room, its exit and the witness outside it; do not flood the space with light.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a followed worker enters an unwitnessed room and their shadow overlaps the shadow waiting there. |
+| { *The Swallowed Shadow* [**Attack**] } | "You cast nothing, in a room with a lamp in it." | [The target's own shadow is taken and does not return for some hours.] | *3 Void. The eleven affected workers all describe the loss as the moment they stopped feeling entitled to be in the building. Stop driving it: reopen the assigned room dim and witnessed and let the shadow return on its own.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When it is driven, lit, or ordered out of a room. |
+| { *Shadowless* [**Ultimate**] } | "Nobody in the sector casts one, and the lamps go on working perfectly." | [Every shadow in the zone is taken at once for the duration.] | *2 Void per cycle for three cycles to everyone in the sector. Freeze further reallocations where the Warden can, keep B-116 occupied with the lamp low, and post witnesses at thresholds rather than clearing rooms. Recorded once, in the week nineteen rooms changed hands in four days.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥60% activation threshold while sector spaces are being reallocated, cleared or repurposed. |
 
 ### Battle Phases
 
-1. **Tension:** The worker goes to the assigned room, confirms the lamp is on its low setting, and sits down. There is no perimeter and no equipment; the preparation consists of deciding to stay.
-2. **Clash:** The session is held in the assigned room with the lights at working level and no higher. Viderehan shows traces of the people who passed through; Ferrehan requires the worker to remain in the dark with it until it stops circling. Flooding the area with light disperses it from the room and puts it back in the corridors, which is not containment and is recorded as a failure.
+1. **Tension:** The worker goes to the assigned room, confirms the lamp is on its low setting, and sits down. There is no perimeter to build; the preparation is naming the room, its exit and the threshold witness — and deciding to stay. The M.A.W. set is optional support, never a substitute for the occupancy itself.
+2. **Clash:** The session is held in the assigned room with the lamp on its low setting and no higher. Viderehan shows traces of the people who passed through; Ferrehan requires the worker to remain in the dark with it until it stops circling. Flooding the area with light disperses it from the room and puts it back in the corridors, which is not containment and is recorded as a failure.
 3. **Resolution:** The shift ends with the holding still in the room and the occupancy hours entered in the log. 404 shifts have been logged since Year 4,229 and the two recorded closures were both achieved by one person sitting there through a night.
 
 ### Consequences
 
 - The failure here is leaving early, and nobody has ever called it that at the time. The log records 38 short shifts and the reasons given are all reasonable; the gauge treats them identically to an empty room.
 - Past about two hours the worker begins asking themselves whether they are allowed to be where they are. It is a quiet, specific thought and it is in the briefing because every long-serving occupant has reported it.
-- The set's toll is a loss of address. Wielders stop being able to say which rooms are theirs to be in — not confusion about the building, which they navigate perfectly, but about permission.
-- An unattended room is this holding's only real escalation path, and it is a slow one: the shadow leaves, takes up somewhere else in the sector, and the station has to find it again, which has taken as long as nine days.
+- The set's common detectable symptom is a loss of address in the wielder's wording, but the costs are not pooled: the Weapon takes small nameless memories, the Veil leaves the wearer faintly absent and calling home *the accommodation*, and the Hearth hands the settled grief to its bearer when the light goes out.
+- An unattended room is this holding's usual escalation path, and it is a slow one: the shadow leaves, takes up somewhere else in the sector, and the station has to find it again, which has taken as long as nine days.
 
 ## Appearance
 **Physical Form:** Cold, dense shadow whose outline will not hold: four-legged, many-limbed, or gathered into the corner of a room. The bloodless cold, ash smell and impression of somebody having just left persist when the silhouette changes. **Movement:** It prowls within a room and flows between shadowed spaces. That outline is not evidence of a solid beast, a restored household, or a person underneath it; the Side Codex explicitly leaves the predatory reading open to observer fear.
@@ -166,9 +166,9 @@ The Work Type table is nearly irrelevant here and the occupancy log is not. Nine
 
 ### Escalation Notes
 
-Escalation here is a relocation, and it is always preceded by an empty room. Record the last logged occupancy, the sector's reallocations since, the room it has moved to, and how long it took to find. The longest search was nine days and ended when a clerk mentioned that nobody would use the east stair store.
+Escalation here is a relocation, and it is almost always preceded by an empty room, a room taken back, or a room flooded with light. Record the last logged occupancy, the sector's reallocations since, the room it has moved to, and how long it took to find. The longest search was nine days and ended when a clerk mentioned that nobody would use the east stair store.
 
-**Response sequence:** hold the corridor without lighting it, confirm the event is an expansion rather than an activation, withdraw personnel who have been reassigned to a new workspace in the last month — they are followed, reliably enough that the works office is now consulted before the rota is drawn — and remove nonessential personnel, and apply this condition: Give the sorrow a witnessed location; do not flood the area with light. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** hold the corridor without lighting it, confirm the event is an expansion rather than an activation, and keep the assigned room occupied — do not clear rooms, which is the trigger. Take personnel reassigned to a new workspace in the last month off this rota, since they are followed, and apply this condition: give the sorrow a witnessed location; do not flood the area with light. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
@@ -185,13 +185,13 @@ Escalation here is a relocation, and it is always preceded by an empty room. Rec
 **Activation reporting order:** hours present in the assigned room → sightings elsewhere in the district → any room, store or office reallocated in the sector that week → light levels during the session → the reading. The third field comes from the works office; teams are not to assume that a reallocation two floors away is irrelevant, because the log says otherwise.
 ## Breach Behavior
 
-> *"Homeless Sorrow has broken free. Stalks personnel from their own shadows."*
+> *"Homeless Sorrow has broken free. It follows personnel in their own shadows."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It does not charge. It moves from room to room ahead of people, arriving in the next space before they do, and is most often first noticed as having just left. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
+| **Effect** | Occupied rooms acquire the stillness of a place everyone has already abandoned; personnel lose Clarity and feel their mourning — and then themselves — has no address in the building. |
 | **Secondary Effect** | Everyone in the affected rooms loses track of which spaces are theirs and begins asking permission to enter their own offices. |
 | **First Target** | Whoever has most recently been moved out of a workspace. |
 | **Escalation** | Drain rises by 5 for each space cleared or reallocated while it is loose, and not at all for the time it spends occupying a room nobody needs. |
@@ -243,7 +243,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to sit in an unlit room with it for a full shift and still know where they live.
+**Ability:** *Held Room* — strongly resists Void inside one witnessed location by making the room feel inhabitable rather than abandoned. When the threshold witness names the wearer and confirms an open exit, the Veil repels one wave of room-to-room drift. It supports the occupancy; it is not what makes sitting the shift possible, and it needs the second person at the doorway.
 
 **Cost:** The wearer calls their own quarters *the accommodation*. Three wielders, three identical phrasings, none of them aware of having changed the word.
 
@@ -257,7 +257,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 **Acquisition Probability:** 5%
 **Effect:** +1 to work against Homeless Sorrow itself, and nothing elsewhere in Old Lament.
 
-**Ability:** Creates a small area where displaced sorrow can settle safely.
+**Ability:** *Let It Settle* — creates a small low-light area where displaced sorrow can settle, only while a person consents to remain in the circle and a follow-up witness has accepted the later account. It cannot confine anyone or substitute for actual shelter.
 
 **Cost:** The wearer carries the settled grief after the light goes out.
 
@@ -265,7 +265,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 ### M.A.W. Use Notes
 
-Every piece in this set takes the same thing in the same order: the wielder's sense of having a place. It is slow, it does not impair work, and it is detectable only in word choice — *the accommodation*, *the room I'm in at the moment*, *wherever they put me next*. The Armoury's check is a transcript of the wielder talking about where they live, taken at issue and again at return, read by somebody who is not their supervisor.
+Every piece in this set is betrayed by the same symptom — the wielder's sense of having a place eroding in their wording: *the accommodation*, *the room I'm in at the moment*, *wherever they put me next*. The costs underneath stay piece-specific (nameless memories; faint absence; the settled grief carried after the light goes out) and must be logged separately. The Armoury's check is a transcript of the wielder talking about where they live, taken at issue and again at return, read by somebody who is not their supervisor.
 
 ### Field Use Record
 
@@ -276,7 +276,7 @@ Every piece in this set takes the same thing in the same order: the wielder's se
 | **At limit** | The wielder asks permission to enter a room they have worked in for years. Two rotations reached that point and both wielders were embarrassed rather than distressed. |
 | **After use** | Ask the question again and compare the wording with the sealed answer. The Armoury treats a change of noun as a stand-down and has had to explain that to two Wardens. |
 
-**Stat interpretation:** A β-grade set whose cost is a single changed word and whose carrier never notices it. The grade measures what the pieces do to entities; the thing worth authorising on is a transcript.
+**Stat interpretation:** A β-grade set whose earliest detectable cost is a single changed word and whose carrier never notices it. The grade measures what the pieces do to entities; the thing worth authorising on is a transcript.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -324,7 +324,7 @@ B-116 is a dry, heated, well-placed room on a corridor where space is short, and
 
 | Stay in the chair until the shift ends. | Turn the lamp up, finish the paperwork elsewhere, and come back tomorrow. |
 |---|---|
-| Follows the worker until they can remain in darkness. The sorrow is seen clearly; Homeless Sorrow is fully recorded. | Reveals traces of those who passed through. The gauge climbs and Homeless Sorrow withdraws without revelation. |
+| Follows the worker until they can remain in darkness. The sorrow is seen clearly; Homeless Sorrow is fully recorded. | The raised light drives it into corners and connected unwatched spaces. The gauge climbs on the empty room, and the station spends the following days finding it again in other people's offices. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -393,12 +393,12 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 **Threat Assessment:** Moderate. Nine years, 404 shifts, 23 relocations, eleven shadow-thefts, fourteen strikes, no fatalities and no lasting injury — against a works office that reallocates rooms for good reasons and a station that has to sit in one of them.
 **Containment & Handling Procedures:**
 - Sit the shift in the assigned room with the lamp low. Ten points down an hour; ten up per room reallocated.
-- Standard R.D. containment protocols apply.
+- No pursuit and no floodlighting: Flerehan and Pugnahan are invalid for this record, and both recorded light-driving attempts spread it through connected rooms.
 - An empty room is the trigger. Find it by asking which room people have been avoiding.
 **Observation Notes:**
 - Eleven households, erased homes, four to nine lawful placements each, every form correctly signed.
-- See Combat Record for engagement history.
-- Three pieces; the cost is the word *home*, and the check is a transcript rather than an examination.
+- Eleven shadow-thefts in nine years, every one recovered within a day; no fatalities and no permanent injury.
+- Three pieces; the first detectable cost is the word *home*, and the check is a transcript rather than an examination.
 **Cross-References:** The Vanished Tower (drew it out twice), The Whispering Walls (nine names recovered), The Drift Fog, the sector reallocation register, and the eleven households' relocation papers.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The displaced households of Old Lament, collectively; the billeting orders name them and the archive does not reproduce the names, since the record is about the moving rather than about the people moved.
@@ -439,7 +439,7 @@ Displaced people moved from room to room after their homes were struck out, and 
 - **Field detail:** Void, in one assigned room in Old Lament, Zone B, held there by being sat with rather than by any barrier.
 - **Recognition detail:** Identify it by the shapelessness and the cold. Several shadow records are catalogued in Old Lament; this is the one with no fixed form, which darkens around grief and leaves the impression that somebody has just left the room.
 - **Record detail:** Check the designation before approach. More than one record in this district is made of displacement, and they differ on the decisive point — this one is eased by being given somewhere to stay.
-- **Containment detail:** It is not contained and is not fixed. It stays because somebody is there; the whole of the measure is an assigned room, a low lamp, and a chair that is rostered rather than volunteered for.
+- **Containment detail:** It is contained only in the administrative sense, and it is not fixed. It stays because somebody is there; the whole of the measure is an assigned room, a low lamp, and a chair that is rostered rather than volunteered for.
 ## Document Information
 
 **Document ID:** SE-O-IIβ-119

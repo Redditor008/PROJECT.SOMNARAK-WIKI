@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-152 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Breach-capable in the reconstruction model only; no breach observed in twenty-seven years |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -26,7 +26,7 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Subject |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — certainty about which remembered address is the worker's current home |
 | **Starting Sorrow Gauge** | Never at rest — 35–50% when the watch opens, because the frame is standing in the corridor whether or not anybody has touched the handle. |
 | **Han-Energy yield** | Paid for stillness rather than for opening — 12–18, and what earns it is how long the frame is left standing in one place, not how many times it is worked. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s — a slow walk, measured along the corridor markers, and constant in every recorded transit |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Step out of its path and let it walk; never seal a zone around it or force the handle. A return partner keeps the current place named from outside any shown room |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 457/457 |
 | **Han Pressure [ATK]** | 7–17 per hit · Lament |
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Knock* [**Debuff**] } | "A door appears in a wall that had no door — and then it knocks." | [The Door manifests; the knock is a question the target must answer.] | *Target suffers -10 Composure; the door wants to be opened.* **[10 Lament DMG [Lament]]** | When the Door appears. |
-| { *The Wrong Room* [**Debuff**] } | "You open it — and the room behind it is one you left years ago, and never wanted to see again." | [The Door opens onto old grief; the target is pulled toward the threshold.] | *Target loses 10 Composure; the room behind the door calls.* **[10 Lament DMG [Lament]]** | When the target opens the Door. |
+| { *The Knock* [**Debuff**] } | "A door appears in a wall that had no door — and then it knocks." | [The wall-less frame comes down the corridor at its constant walk and resolves in front of the worker; the knock is felt as an arrival, not an instruction to turn the handle.] | *Target suffers -10 Clarity; for a time they cannot say with confidence which home is their current one.* **[10 Lament DMG [Lament]]** | When the walking frame stops or resolves in front of the target in the corridor. |
+| { *The Wrong Room* [**Debuff**] } | "You open it — and the room behind it is one you left years ago, and never wanted to see again." | [The frame itself shows or stands open on a remembered room more clearly than the corridor; no personnel hand has turned the handle.] | *Target loses 10 Clarity; the return partner names the present location while physical contact is maintained.* **[10 Lament DMG [Lament]]** | When the target steps or reaches toward a shown room as though it must restore the past or serve as the way home. |
 | { *The Slam* [**Attack**] } | "It shuts hard, and the sound it makes is the sound of your own front door, which is not a thing anybody has been able to explain." | [The frame closes with force.] | *Lament pressure and one heavy wooden blow.* **[14-22 Lament DMG [Lament]]** | When the handle is forced. |
-| { *The Locked Out* [**Attack**] } | "You are on the side you did not choose and there is no clause in anything you were given that says how you get back to the other one." | [The frame seals and will not reopen for that worker again.] | *A heavy Lament exile; the target's Sorrow Gauge rises 15%.* **[24-36 Lament DMG [Lament]]** | After a second forcing by the same person. Four people have been permanently refused. |
-| { *A Thousand Doors* [**Ultimate**] } | "Doors appear in every wall — and behind every one, a grief you have to face." | [The Door multiplies across every surface, all of them knocking.] | *All in range suffer Lament pressure for three turns among the open doors.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Locked Out* [**Attack**] } | "You are on the side you did not choose and there is no clause in anything you were given that says how you get back to the other one." | [The frame seals, blisters the forcing hand, and will not reopen for that worker again.] | *Heavy Lament exile; no personnel Sorrow Gauge is inferred. The worker is permanently refused by the frame.* **[24-36 Lament DMG [Lament]]** | When the same person forces the handle a second time. |
+| { *A Thousand Doors* [**Ultimate**] } | "Doors appear in every wall — and behind every one, a grief you have to face." | [Impossible spaces open through the local environment; a remembered room shows more clearly than the current corridor.] | *All personnel in the affected corridors suffer Lament pressure for three turns while return partners maintain contact, name the present location, and close the interaction without burning or forcing the frame.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥60%. |
 
 ### Battle Phases
 
 1. **Tension:** Identification first — Doorway to Nowhere is recognised by the lamp reading, not by the fire. The frame burns at the same apparent brightness to the eye at two metres of reach and at fifty; the reference lamp exists because four early watches graded it by looking and produced a series that correlated with nothing — then the approach is set and the positions are taken.
 2. **Clash:** All four Work Types are valid. The reading is the reach of the glow: the distance, in metres, at which the frame's light is still brighter than the Warden's reference lamp, taken on the open ground east of the Alpha Tree after dusk. Three point one metres is baseline. The recorded range is zero to fifty-seven.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Close the door consciously; do not force passage**.
+3. **Resolution:** The watch resolves only when the door has been left unopened and allowed to close on its own, no passage has been forced, the lamp has been read, every handle approach is logged, and the Gauge is below 25%. **Close the door consciously; do not force passage** is the management condition, not a suppression result.
 
 ### Consequences
 
@@ -160,6 +160,7 @@ Two numbers come off this holding and they answer different questions. The gauge
 | **Effect** | Modelled as audible weeping. Observed: silence, and workers who cannot afterwards say which of their homes is the current one. The weeping clause has never been evidenced and is retained only because the model is quoted elsewhere. |
 | **Secondary Effect** | The glow reaching further. It is the only thing about this holding that has ever been seen to escalate, and it escalates in response to documents rather than to events in the corridor. |
 | **First Target** | Whoever in the corridor has moved house most often. Of nineteen approaches it has resolved first in front of the most-moved person on seventeen, which the roster office found by accident and has never published to the Wardens. |
+| **Management** | Close the door consciously; do not force passage. Step aside and let the frame walk, keep both hands off the handle, name the current place with a return partner, and read the glow against the reference lamp. |
 | **Escalation** | Composure drain +5 per turn while a worker stands in its path. It stops when they step aside, and the doctrine is accordingly to let it walk. |
 
 ### Escalation Notes
@@ -199,7 +200,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+**Appearance:** a deep-blue shroud of fine Lament Han cloth with a thin charred seam like a doorframe around the shoulders. It drapes from collar to waist, leaves the hands free, stays cool on the current side, and closes with one clasp the return partner can release.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -209,7 +210,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Wards Lament pressure on the Mind, and holds the wearer's sense of where they live. It is issued for the watch and kept on to the vehicle, which the lamp readers insisted on after two workers removed it in the corridor and gave their home addresses wrong.
+**Ability:** *Current Side* wards Lament pressure on the Mind by keeping the wearer's body and address distinguishable from a shown room. In *Close the Frame*, the return partner names the physical landmark and the bearer answers from the current room, closing one threshold-memory surge without deleting the home memory. It is kept on to the vehicle after two workers removed it in the corridor and gave their home addresses wrong.
 
 **Cost:** Small pleasures go flat for about a day. Wearers describe it as the feeling of being between addresses, which the counselling wing has recorded in those words from five people who had not spoken to each other.
 
@@ -217,13 +218,13 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a key-charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.
+**Appearance:** a small deep-blue key-charm of Lament Han metal with no teeth, a smooth shaft and a bow shaped like a doorframe. It is cool at rest and warms only when a remembered doorway is near; in use it outlines a narrow temporary threshold.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
 **Effect:** +1 when working this entity, and the bearer may not be the person who reads the lamp. The holding separated the roles after a bearer's reading came in at two metres on a night the relief measured nineteen.
 
-**Ability:** The key opens a passage to a place the bearer remembers, for as long as they can hold it. It has been used four times in twenty-seven years and all four uses are documented in full, including the one that was not authorised.
+**Ability:** *Remembered Handle* identifies a nearby remembered threshold without proving that the place survives or can be reached. *Open Briefly* creates one temporary passage for orientation, farewell or limited recovery only after a return partner confirms the current anchor and closure cue; it cannot retrieve people from the past, create a permanent route or override a closed physical boundary. It has been used four times in twenty-seven years, including one unauthorised use, and all four are documented in full.
 
 **Cost:** The bearer afterwards loses the place: not the memory, the sense that it was ever theirs. Of the four, three recorded that they would do it again and the fourth asked for the key to be destroyed.
 
@@ -231,7 +232,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 ### M.A.W. Use Notes
 
-The set is built around thresholds and refuses to cross them: a censer whose smoke will not go through a doorway, a shroud that holds a wearer's address in place, a key that opens a way back and charges the bearer the place itself. The armoury's note records that none of it was designed, that it was found piece by piece over twenty-seven years, and that the fourth piece attempted here — a lintel intended to hold the frame open indefinitely so that a destination could be surveyed from outside — worked exactly as specified and was dismantled before it was ever carried into the corridor.
+The set is built around thresholds and refuses to cross them: a censer whose smoke will not go through a doorway, a shroud that holds a wearer's address in place, a key that opens a way back and charges the bearer the place itself. The armoury's note records that none of it was designed, that it was found piece by piece over twenty-seven years, and that the fourth piece attempted here — a lintel intended to hold the frame open indefinitely so that a destination could be surveyed from outside — worked exactly as specified and was dismantled before it was ever carried into the corridor. As *Door With Return*, no remembered threshold is opened until a physical return partner, current-location anchor and specific closure cue exist; the passage is for orientation, recovery or exit, never Gate authority, permanent transport or a claim that the remembered home has been restored.
 
 ### Field Use Record
 
@@ -343,15 +344,11 @@ Three records are grouped with this one and two of them are grouped because they
 
 The evacuation scattered the families, and their doors, torn from their frames, became thresholds to homes that no longer exist, and the thresholds wander.
 
-The border evacuation was sudden — a surge, a Han-advance, the order to flee issued faster than the citizens could process. The families ran. They left their homes — the tenements, the dwellings, the rooms where their lives had been organized. And the doors — the thresholds, the frames, the physical boundaries between inside and outside, between home and not-home — were torn from the walls, or left standing in empty frames, or carried by the fleeing families as the last piece of the home they were abandoning.
+The border evacuation of Year 4211 was not a failure of rescue. Eleven thousand people were moved in forty minutes under a fourteen-page order with routes, assembly points and livestock provisions; nine died. What the order did not contain was a return condition, a certifying officer or a date. It ended at the assembly points. Two thousand six hundred and forty households never went back, and eight hundred and seventy were still recorded as holding a door.
 
-The doors became symbols. Each door a family carried — or each door left standing in a demolished frame — was a threshold: the boundary between the home that was and the homelessness that followed. The door was the last piece of the inside, carried into the outside, the remnant of the boundary that had, in the home, separated the private from the public, the safe from the unsafe, the belonging from the not-belonging.
+The entity that formed in the Alpha Tree corridors the following year is one wall-less frame of charred wood and live fire, walking at a constant pace for twenty-seven years. Personnel do not turn its handle and nobody has been sent through it. Its light is read against a reference lamp, and the metres do not track empty houses as such: they track homes emptied by orders that named no way back.
 
-The doors wander. Doorway to Nowhere is Subject-Lament, Lament-element: the figure of a threshold carried after the place it thresholded is gone — the door that leads to a home that no longer exists, held by families who left not knowing whether they could return, preserved as a moving boundary between a past that is destroyed and a future that is uncertain. The Door does not open onto anything. It opens onto absence. But it is carried, faithfully, by the families who took it, because the door, even without the home, is the last proof that the home was there.
-
-Those who come near the Doorway to Nowhere feel the grief of the carried threshold — the specific sorrow of holding a door that opens onto nothing, of carrying the boundary of a home that is gone, of leaving through a door and not knowing, as you leave, whether the door will ever again open onto the room it was made for.
-
-Some sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door torn from its frame, carried by the fleeing, the threshold to a place that may not survive the family's absence, preserved as a wandering boundary between the home that was and the home that, if the family is fortunate and the city is kind, might someday be again.
+Doorway to Nowhere therefore mourns neither the surge nor the leaving that saved them. It preserves the silence after the assembly points—the proof a home existed, carried forward without any promise that its threshold will open onto that home again.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The evacuation scattered the families. Their doors, torn from frames, wander.”* — Keeper, Archive

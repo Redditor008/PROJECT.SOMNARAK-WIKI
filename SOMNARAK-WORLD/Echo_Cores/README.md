@@ -65,3 +65,9 @@ Each file in this archive adheres to standardized archival guidelines:
 3. **Dual-Paragraph Appearance Standard:** Dedicated appearance subsections structured with Paragraph 1 (20–48 simple words) and Paragraph 2 (20–66 detailed words, SVG-ready anchors), separated by a blank line.
 4. **Kinematics & Move Set Specifications:** Explicit activation stance, trajectory/energy shape, reach band, hit impact, mechanical debuff, and recoil/recovery.
 5. **Departmental Jurisdiction & Incident Records:** Subterranean blueprint clearance, subordinate personnel rosters, and authenticated incident logs.
+
+---
+
+## 📌 PIN WIP — Backstory Extended
+
+[`Backstory_Extended/`](Backstory_Extended/README.md) is reserved for fuller, scene-level histories of the nine named Echo-Cores. Its governing structure and form are now filed in [`Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md), but **no Echo-Core has been activated and no extended scene has been written**. The nine dossiers above remain the canonical baseline. When activated, write one named character at a time from the whole source dossier; do not move or replace a dossier to fill the folder.

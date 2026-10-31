@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — emotional stability and willpower, spent by grief that arrives with no event attached |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No — a single crystal weighing what a tear weighs; touch is forbidden and no destruction is sourced |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Two observers a night, the reading taken at the line and countersigned before anybody leaves the vault. Nothing touches the crystal, nothing hurries it, nothing examines it. |
 
 ### Operational Notes
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 50% against Lament pressure; 40% against other pressure types |
+| **Resistance** | 50% against Lament pressure; 40% against other pressure types as formal ratings. Working protection is the series itself: two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal and no question ever put to it. No field has been measured to resist against; the figures are prophylactic, not observed. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 600/600 |
 | **Han Pressure [ATK]** | 29–64 per hit · Lament |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Original Drop* [**Debuff**] } | "This is the first tear ever shed — the prototype of all grief — and it has not dried in four thousand years." | [The Tear's ancient sorrow is so concentrated it radiates like heat.] | *Target suffers -10 Composure; the weight of all grief's origin is immense.* **[10 Lament DMG [Lament]]** | When the target sees the Tear. |
-| { *The Echoing First* [**Debuff**] } | "Every tear ever shed is an echo of this one — and being near the original makes you feel all of them." | [The Tear's primordial nature resonates with every sorrow the target has ever felt.] | *Target loses 10 Composure; they are feeling every grief simultaneously.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Salt Blade* [**Attack**] } | "The first tear hardens — crystallized by four millennia — and it is sharper than anything forged since." | [An ancient, crystallized tear-salt blade strikes.] | *Inflicts Lament pressure and one wound of primordial grief.* **[14-22 Lament DMG [Lament]]** | When the Tear is touched. |
-| { *The Full Release* [**Attack**] } | "The first tear finally falls — completing a journey four thousand years overdue." | [The Tear's delayed completion releases its entire accumulated grief.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tear is forced to fall. |
-| { *The Ocean of the First* [**Ultimate**] } | "The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow." | [The Tear's landing creates a universal flood of original grief.] | *All in range suffer Lament pressure for three turns in the first ocean.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Original Drop* [**Debuff**] } | "This is the first tear ever shed — the prototype of all grief — and it has not dried in four thousand years." | [Nothing radiates; the instruments read the room and find the room. What the observer meets at the line is the shape of sorrow before language.] | *The observer suffers -10 Clarity. Both observers write the figure independently and neither says it aloud in the vault.* **[10 Lament DMG [Lament]]** | When an observer takes the nightly reading at the line under Viderehan. |
+| { *The Echoing First* [**Debuff**] } | "Every tear ever shed is an echo of this one — and being near the original makes you feel all of them." | [The Tear does nothing new. Past the reading, the observer's own losses arrive as echoes of the first, and the first sign is describing its unknown event in the first person.] | *The observer loses 10 Clarity. Enforce the four-minute cap; an observer who overruns is stood down from the rota whether or not they report symptoms.* **[10 Lament DMG [Lament]]** | When an observer remains in the vault past the four minutes the reading takes. |
+| { *The Salt Blade* [**Attack**] } | "Nothing hardens and nothing is forged. The crystal is smaller than a raindrop and the hand coming toward it is the emergency." | [No blade leaves the pedestal. An approach past the line is the vault's one true incident: the complete emotional history of sorrow arrives whole, belonging to nobody.] | *Heavy Lament pressure on Clarity. Secure the approaches, clear unshielded personnel, and restore the reading on time; touch is forbidden and no contact test is authorized to learn more.* **[14-22 Lament DMG [Lament]]** | When anyone crosses the line or attempts contact with the crystal. |
+| { *The Full Release* [**Attack**] } | "The first tear finally falls — completing a journey four thousand years overdue." | [It has never fallen, and nothing here completes a journey. What the record actually holds is a retrospective step: eleven unobserved nights in 4106, after which the figure never returned to its prior band.] | *A heavy Lament load carried as grief with no event attached, and a movement in the series that can never be dated. Report the night, the duration and the cause so far as known; the review examines the rota, not the Tear.* **[24-36 Lament DMG [Lament]]** | When a nightly reading is missed, late, or taken by one observer instead of two. |
+| { *The Ocean of the First* [**Ultimate**] } | "The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow." | [No ocean forms in the vault. At threshold the recorded risk is immediate emotional overload and possible Fracture for everyone present — the whole history of sorrow at once, not water.] | *All in range suffer Lament pressure on Clarity for three turns. Withdraw everyone but the reading pair, bring the Gauge back under the management condition (below 25% before any attributed piece is used), and take the reading on time regardless.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold with the none-authorized regime event (contact attempted, question posed, or the series suspended). |
 
 ### Battle Phases
 
@@ -130,7 +130,7 @@ The Object-Lament body is the single small salt crystal, not a person forever we
 
 The Tale reconstructs an earlier tear falling and proposes a descent from that first sorrow into rivers and the Weeping. Present vault observation records a suspended crystal that does not fall. An earlier origin account is not itself a current movement observation, and the succession chart is explicitly doctrine rather than an observed transfer between holdings. No described transition joins the reconstructed first drop to this pedestal, establishes the crystal's original dimensions, or turns the contemporary crystal into a river.
 
-The combat record's salt blade, forced fall and ocean release are not events established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation. The record also retains a non-breaching classification against the Side Codex's Transform claim, and a widening influenced radius against reports of no detectable field. Those disagreements remain open: neither a larger body nor a harmless object can be certified from the convenient half of the record. The attributed equipment likewise does not establish that the crystal grew into a greatsword or was cut to make one; its local inventory account records no extraction.
+The combat record now states the same limit in its own rows: no blade leaves the pedestal, no fall completes a journey and no ocean forms in the vault, because none of those events is established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation. The record also retains a non-breaching classification against the Side Codex's Transform claim, and a widening influenced radius against reports of no detectable field. Those disagreements remain open: neither a larger body nor a harmless object can be certified from the convenient half of the record. The attributed equipment likewise does not establish that the crystal grew into a greatsword or was cut to make one; its local inventory account records no extraction.
 
 ## Origin
 - **Formation:** The Tear is believed to be the first sorrow ever felt on Mugenhan.
@@ -160,9 +160,9 @@ Read the table as a duty roster rather than as a set of levers. Neither approach
 **Reading the response:** There is no response to read. The one variation on file follows a gap in the figures themselves — eleven nights in 4106 with no observer, no sheet and no reading — and thirteen decades have produced nothing else. A gauge that holds steady here is not reassurance and the sheet does not treat it as one; the standing posture is that the instrument is what the facility maintains, and the Tear is what it declines to test.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **This Relic is Capable of Operative Alteration**
-> **This Relic Extracts Personal Resilience upon Extended Use**
+> **No facility benefit is authorized from this Relic**
+> **No operative alteration has been attempted or is permitted**
+> **Extended use is untested by design; exposure is capped at the four minutes the reading takes**
 
 **Activation Trigger:** None authorized. Touch is forbidden.
 
@@ -227,7 +227,7 @@ Appearance : A massive two-handed greatsword spanning six feet overall, featurin
 
 The raw forged steel exhibits visible hammer creases and dark carbon quenching folds. Swung with momentum, the blade cleaves through dense barricades, carrying immense physical force that shatters brittle armor.
 
-**Ability:** Lament damage to the mind, at a magnitude the grading system describes as sovereign and the field manuals do not model. The greatsword carries the first grief there was, and what it opens in a target is every loss they have had, undifferentiated and at once.
+**Ability:** Lament damage to the mind — emotional stability and willpower. It carries the first grief there was, and what it opens in a target is every loss they have had, undifferentiated and at once. The bearer must name the source event as unknown and pre-city and never their own; the first failure sign is describing it in the first person, and shutdown is a named witness stating the source title while the bearer relinquishes the piece. (Identity against *The First Requiem* remains held; no numeric profile is imported.)
 
 **Cost:** The wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field duty afterwards at their own request.
 
@@ -242,7 +242,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 - Grudge: 1.0 (Normal)
 - Void: 1.6 (Weak)
 - Weight: 0.8 (Warded)
-**Ability:** Turns Lament aside from the mind at a magnitude no other suit in the archive reaches. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone.
+**Ability:** Resists Lament, protecting emotional stability and willpower. It holds only while the bearer keeps the source distinct — naming the event unknown and pre-city — and only under the management condition with the Gauge below 25%; violating that limit reverses the benefit and raises the source Gauge. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone.
 
 **Cost:** The wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the medical office budgets a fortnight.
 
@@ -253,7 +253,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is worn on a cord and it was in the vault at inventory, which is the whole of what the registrar has ever written about it.
 
 **Effect:** +3 stat bonus when working the source entity
-**Ability:** The charm steadies its bearer's hand and voice while they are recording a figure. It is the smallest effect attributed to any item in the archive and it is attached to the oldest record in it, which the vault registrar notes without comment in the inventory margin.
+**Ability:** A minor boon tied to the source sorrow, mirroring its nature rather than serving the rota. The bearer names the event as unknown and accepts the same management limit as the set; shutdown requires a named witness to state the source title while the bearer relinquishes it, and describing the first grief as one's own is the first failure sign.
 
 **Cost:** The bearer weeps in their sleep.
 
@@ -393,9 +393,9 @@ Some sorrows are about specific losses. First Tear is about loss itself — the 
 **Comprehension Level:** 5 — Sovereign
 **Threat Assessment:** Unknown. The oldest sorrow in the world. Predates the city, the Han, and the Weeping. Effect: proximity induces the weight of origin — the first grief.
 **Containment & Handling Procedures:**
-- Do not approach without Director approval.
-- The Tear is the ancestor of all sorrow.
-- It is small, blue, ancient beyond ancient.
+- Two observers a night; glow, height and time read at the line and countersigned before anybody leaves the antechamber.
+- Nothing touches the crystal, nothing hurries it, and no question is ever put to it.
+- The reading is taken on time whatever else is happening; a missed or single-observer night is reviewed within twenty-four hours — the rota, the lamp and the sheet, never the Tear.
 **Observation Notes:**
 - The first sorrow ever felt on Mugenhan.
 - The Weeping may have begun as this tear’s spread.

@@ -8,13 +8,13 @@
 |---|---|
 | **Designation** | `C-IVδ-103 [VS]` |
 | **Entity Type** | **Subject** — Can breach |
-| **Coherence** | Entity (IV) — Self-aware, cold, distant |
+| **Coherence** | Entity (IV) — cold, distant; self-awareness unresolved in the Side Codex |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A humanoid figure made of frozen emotion rather than frozen water — beautiful, translucent, its body a shell of still, cold feeling. It radiates an emotional cold that numbs before it chills; bloodless-pale, it smells of ash. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Disputed — operational notes give no movement since placement; chamber and Escape accounts give unhurried walking. Held, not averaged. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
@@ -26,14 +26,14 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Composure — emotional capacity and attachment, which drains while presenting as efficiency |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | 1 |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No — physical force is ineffective; the shell cracks only under genuine, unarranged feeling |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Hold the condition and arrange nothing: genuine feeling thins the shell, force moves nothing, and Pugnahan is stable because it is irrelevant rather than resisted. The roster is drawn by lot from the qualified list and every substitution is written down with its reason. |
 
 ### Operational Notes
@@ -41,7 +41,7 @@
 - The Veil is held in deep storage and has not moved since it was placed there.
 - A cycle settles it further. Nothing on record has lifted the Veil, and the stillness is its stable state rather than a containment success.
 - A single ignored condition is enough to escalate it. There is no margin here, and conditions are confirmed by two operatives before any session begins.
-- Identity pressure acts on recall of what the Veil covers; personnel are debriefed at the storage door while the detail survives.
+- The drain acts on the feeling attached to a memory while its facts survive; personnel are debriefed at the storage door in their own words while that feeling is still theirs to give.
 - Extraction is a separate risk event under its own authorization, and on this file that authorization sits above the chamber's own because every piece in the set borrows the same distance the room produces.
 
 ## Combat Record
@@ -51,8 +51,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
+| **Speed** | Not established — chamber accounts give unhurried perimeter walking while operational notes give no movement since placement; the dispute is held, not averaged |
+| **Resistance** | 45% against Void pressure; 35% against other pressure types as formal ratings — force is not resisted here, it is irrelevant. Working protection is the five-meter line: a named spotter outside it with absolute withdrawal authority, living-attachment checks every five minutes, and work inside the line timed in minutes. Drain rises by 5 for each attempt to provoke feeling while it is loose. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 947/947 |
 | **Han Pressure [ATK]** | 24–52 per hit · Void |
@@ -66,11 +66,11 @@
 |---|---|
 | **Battle Length** | Long — 24 turns |
 | **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Self-aware, cold, distant |
+| **Coherence** | Entity (IV) — cold, distant; self-awareness unresolved |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
+| **Valid Work Types** | Viderehan and Ferrehan; Flerehan only when genuine and unscheduled. Pugnahan is recorded Stable because force is irrelevant here, not because it is a response; do not deploy against it. |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **Resolution Condition** | Tears and sincere emotional expression crack the Veil. Physical force is ineffective |
 
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Ice Curtain* [**Debuff**] } | "The veil forms — a wall of translucent ice between you and everything you were reaching for." | [The Veil's barrier cuts the target off; isolation sets in.] | *Target suffers a Void mark; they are sealed away.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Veil descends. |
-| { *The Frost Spread* [**Debuff**] } | "The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute." | [The Veil's permafrost extends; the target's space shrinks.] | *Target loses clarity; the cold is consuming thought.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains behind the Veil. |
-| { *The Ice Spear* [**Attack**] } | "A spike of the frozen veil breaks free — and it is aimed at whatever was trying to get through." | [An ice-lance launches from the Veil.] | *Inflicts Void damage; the cold pierces through identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Veil is probed. |
-| { *The Full Shatter* [**Attack**] } | "The shell cracks across the sternum — the station the quarterly series measures — and everything the Veil was holding back comes through at once." | [A measured thinning rather than a blow; what was behind the shell arrives unimpeded.] | *A heavy Void surge; the target's Sorrow Gauge rises 15% and the shell reading drops for the turn.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the shell is thinned by genuine feeling. |
-| { *The Permafrost* [**Ultimate**] } | "Five meters is not a rule any more — the line painted on the floor is under the ice, and there is nobody outside it left to call a withdrawal." | [The drain goes past the marked line and out to the walls.] | *All in range lose emotional capacity for three turns; the spotter's authority to call a withdrawal survives the effect and is exercised in writing.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Ice Curtain* [**Debuff**] } | "The veil forms — a wall of translucent ice between you and everything you were reaching for." | [No wall forms. Inside five meters the cold arrives as numbness before temperature, and the worker is cut off while every instrument reads normal.] | *The worker suffers a Void mark to Composure. The spotter outside the line runs the living-attachment check every five minutes; factual answers do not pass it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker crosses the five-meter line into the drain radius. |
+| { *The Frost Spread* [**Debuff**] } | "The ice creeps outward — covering floor, wall, ceiling — and the cold is absolute." | [Nothing freezes over. What spreads is the loss of emotional meaning: the facts of affection remain available while the experience of why they mattered goes.] | *The worker loses Composure. The spotter watches what the worker does, not what they say — colleagues referred to by function instead of name is the call to withdraw.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker remains inside the line toward ten minutes, where the recorded loss of emotional capacity begins. |
+| { *The Ice Spear* [**Attack**] } | "Nothing breaks free and nothing is aimed. The shell simply gets thicker where you reached for it." | [The Veil does not attack. An attempt to force warmth or produce feeling is answered the only way the record shows: the shell thickens and the drain deepens.] | *Heavy Void pressure on Composure. Stop the prompt, withdraw, and enter the preparation beside the reading as its cause; never send warmth in to force a cure.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When warmth is forced or feeling is deliberately provoked in its presence. |
+| { *The Full Shatter* [**Attack**] } | "The shell cracks across the sternum — the station the quarterly series measures — and everything the Veil was holding back comes through at once." | [A measured thinning rather than a blow; what was behind the shell arrives unimpeded.] | *A heavy Void wave, and the feeling that returns to exposed workers arrives together, as a delayed burden rather than relief. The shell reading drops for the turn; do not try to repeat the moment — a staged second attempt thickens it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the shell is thinned by genuine, unplanned feeling. |
+| { *The Permafrost* [**Ultimate**] } | "Five meters is not a rule any more — the line painted on the floor is under the ice, and there is nobody outside it left to call a withdrawal." | [The drain goes past the marked line and out to the walls.] | *All in range lose emotional capacity for three turns; the spotter's authority to call a withdrawal survives the effect and is exercised in writing.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold after feeling has been arranged in its presence. |
 
 ### Battle Phases
 
@@ -94,8 +94,8 @@
 
 - A worker who cannot hold the cold does not become violent or panicked; they become efficient. The drain presents as composure — the reports written inside the line are the most orderly in the wing — and the counselors read that orderliness as the injury rather than as evidence against it.
 - The effect does not intensify with duration. It intensifies with staging. Every attempt to produce tears deliberately in the chamber — rehearsed recollections, bereavement material read aloud, the three sanctioned exercises of 4219 — has thickened the shell, and none has ever thinned it.
-- The lens, the veil and the heart are all made from a century of people declining to feel anything. Each activation borrows a measure of that distance and the operator keeps it. The recorded cost is not numbness in general. It is that the operator finds other people's grief informative rather than affecting, and does not notice the change.
-- Left unresolved the sorrow does not rupture. The shell gains thickness and the chamber's ambient temperature falls another fraction, and the archive notes that in eighty years of records the shell has thinned on nineteen occasions, all nineteen unplanned.
+- The lens, the veil and the heart are all made from a century of people declining to feel anything, but they do not charge the same price: the lens takes nameless memories and the feeling attached to large ones, the veil leaves its wearer performing warmth accurately, and the heart suspends genuine emotion outright while it holds. None of the three is noticed arriving by the person paying it.
+- Left unresolved the sorrow does not rupture. The shell gains thickness and the perceived cold deepens while every thermometer stays normal, and the archive notes that in eighty years of records the shell has thinned on nineteen occasions, all nineteen unplanned.
 
 ## Appearance
 **Primary Form:** A humanoid figure made of frozen emotion rather than frozen water. It is beautiful, translucent, and radiates emotional cold.
@@ -200,7 +200,7 @@ The table is read against the shell rather than against the gauge, because on th
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Target Coverage:** A line of up to three. The cold travels along a corridor and reaches everybody in it at once, which is how a withdrawing team is usually affected.
+**Target Coverage:** A Skewer line of up to three, cut only where the anchor has confirmed the pull is an external intrusion rather than grief, anger or consent.
 **Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is duration rather than depth: the third is themselves again within the hour.
 **Damage Application:** Record the strike and the flatness separately. The Void lands once; the inability to care about the outcome of the shift continues afterwards and is what the duty officer actually has to manage.
 
@@ -222,7 +222,7 @@ The table is read against the shell rather than against the gauge, because on th
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Turns Void aside from the soul, which is the only pressure here. The cold veil is what allows a worker to stand at the line for a full session and still mind about things afterwards.
+**Ability:** *Quiet Perimeter* — strongly resists Void by creating a contained emotional distance. It holds only inside the anchor protocol: one living attachment named, two anchors chosen, and termination authority held outside the wearer. The suit is not what makes standing at the line safe; the anchors are.
 
 **Cost:** The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performing accurately.
 
@@ -236,7 +236,7 @@ The table is read against the shell rather than against the gauge, because on th
 **Acquisition Probability:** 4%
 **Effect:** +3 to work against the Frozen Veil itself, and nothing elsewhere in Alpha Tree deep storage.
 
-**Ability:** Makes the wearer immune to emotional manipulation.
+**Ability:** *Cold Shelter* — for one authorized emergency interval, makes the wearer immune to emotional manipulation. It is released only by the paired sequence (welfare authority plus relationship anchor) after the threat ends; it is never left active past the threat.
 
 **Cost:** Also prevents genuine emotion; the wearer cannot feel anything while its protection holds.
 
@@ -244,7 +244,7 @@ The table is read against the shell rather than against the gauge, because on th
 
 ### M.A.W. Use Notes
 
-Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything, and each activation borrows a measure of that distance and leaves it with the operator: the cost is not numbness in general but the discovery that other people's grief has become informative rather than affecting, which no wearer has yet reported noticing on their own.
+Nothing in this set can be warmed. The lens opens the suspicion that a target never felt as much as they claimed, the veil turns aside the only pressure the chamber produces, and the heart stops emotional manipulation by stopping feeling altogether. All three are cut from a century of people declining to feel anything, but the borrowed distance settles differently in each — memories thinned of feeling, warmth performed accurately, or feeling suspended entire — and the spotter logs which one arrived, because no wearer has yet reported noticing any of them on their own.
 
 ### M.A.W. Cross-Source Review — Batch 112
 
@@ -434,7 +434,7 @@ The subjective-objective series is maintained by a clerk who never enters the ch
 
 ### Registry Trivia
 
-- **Classification detail:** The Frozen Veil is a Subject with Entity (IV) — Self-aware, cold, distant coherence and Critical (δ) — Facility-threatening potency.
+- **Classification detail:** The Frozen Veil is a Subject with Entity (IV) coherence — cold and distant, its self-awareness unresolved — and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Element Void, registered to SECTOR-A-01 in Alpha Tree deep storage, where the shell is measured quarterly at the shoulder and the sternum and the five-meter line is marked on the floor.
 - **Recognition detail:** Identify it by the cold and the clarity. Several figures are held in deep storage; this is the translucent one made of frozen feeling, which numbs before it chills and is always described as beautiful.
 - **Record detail:** Check the designation before approach. This archive holds records on both sides of the same error — one is fed by stopping people from weeping, and this one is fed by making them.

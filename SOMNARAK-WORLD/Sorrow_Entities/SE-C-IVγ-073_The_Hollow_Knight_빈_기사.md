@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-073 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; the grudge becomes structural. walls crack along the route first, then everywhere, and personnel in the volume take the  |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; the grudge becomes structural. walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does |
 | **Coherence** | Entity (IV) — Self-aware, driven by duty |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -80,9 +80,9 @@
 |---|---|---|---|---|
 | { *The Empty Visor* [**Debuff**] } | "The visor is up — and inside, there is nothing. No face. No eyes. Just the shape of a man who is not there." | [The Knight's emptiness unsettles the target; they sense the void within the armor.] | *Target suffers -10 Resilience; the absence inside the armor is wrong.* **[10 Grudge DMG [Grudge]]** | When the target faces the Knight. |
 | { *The Heavy Step* [**Debuff**] } | "The armor moves — and each step is heavier than it should be, as though the nothing inside weighs more than any man." | [The Knight's movement carries phantom weight; the emptiness is massive.] | *Target loses 10 Resilience; the void inside the armor is pulling.* **[10 Grudge DMG [Grudge]]** | When the Knight approaches. |
-| { *The Hollow Blow* [**Attack**] } | "The sword swings — and behind it, there is no arm, no body, just the weight of the armor and the void inside." | [A strike from a sword wielded by nothing.] | *Inflicts Grudge pressure and one cold, heavy wound.* **[14-22 Grudge DMG [Grudge]]** | When the Knight is challenged. |
-| { *The Full Reveal* [**Attack**] } | "The armor opens — and the nothing inside expands, pouring out through every joint." | [The seams part and the emptiness comes out of them, and the corridor reads colder for it.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Knight's armor is escalated. |
-| { *The Empty Army* [**Ultimate**] } | "Every suit of armor in the field stands up — and inside every one, the same hollow, the same nothing." | [Every standing suit in the wing takes the circuit up at once, each one empty in the same way.] | *All in range suffer Grudge pressure for three turns of empty knights.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Hollow Blow* [**Attack**] } | "The sword swings — and behind it, there is no arm, no body, just the weight of the armor and the void inside." | [A strike from a sword wielded by nothing.] | *Inflicts Grudge pressure and one heavy, fever-hot wound — the disciplined answer to a challenge, delivered without anger and never yet given outside one.* **[14-22 Grudge DMG [Grudge]]** | When the Knight is challenged. |
+| { *The Full Reveal* [**Attack**] } | "The armor does not open. It has never opened. The stance squares, the heat comes off the joints at a hand's width, and the corridor learns what the inside of the visor already knows: there is nobody to negotiate with." | [No seams part and nothing pours out. The reveal is the absence itself, registered at every joint at once, and the architecture begins taking the load beside the personnel.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When personnel attempt to dismantle the armour or erase the post. |
+| { *The Empty Army* [**Ultimate**] } | "No other suit stands up. There is one knight, and the wing becomes its circuit: every corridor occupied at once by the same sixteen-hour route with the walls taken out of it." | [Transformation in place, not replication: the Grudge turns structural, walls crack along the route first and then everywhere, and there is no outside to the affected volume.] | *All in range suffer Grudge pressure for three turns inside the occupied wing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -163,7 +163,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 | **Event Type** | Transformation in place |
 | **Movement** | It passes through the walls and occupies every corridor of the wing at once. It does not pursue; it occupies, along the line of the route extended through everything in the way. |
 | **Effect** | The Grudge becomes structural. Walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does. |
-| **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
+| **Secondary Effect** | No malice and nothing seeking: personnel in the volume straighten, square up, and begin organising their service around the route — the salute's posture, acquired without a salute, which the counsellors date to the event in case after case. |
 | **First Target** | Whoever stands on its patrol route. It does not deviate, and the route is documented to the metre. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |
 

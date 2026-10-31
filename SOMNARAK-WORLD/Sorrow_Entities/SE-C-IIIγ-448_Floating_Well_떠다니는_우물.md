@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A well-shaped pressure that floats above the Forge floor rather than sitting on the ground, its rim dark crystal, its shaft opening not into earth but into consciousness itself. There is no water — only a descending weight. The air around it is fever-hot and smells of char. |
-| **Movement** | Stationary — a device (internal parts may move). |
+| **Movement** | Vertical only, over the same two square metres since the holding opened: it rises and settles, does not drift laterally, and has not touched ground since it rose. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.95 m/s |
+| **Speed** | None lateral — the Well does not chase and has never left its two square metres. The rate on this record is vertical: rim height against the gantry scale, read at the start and end of every turn. |
 | **Resistance** | 35 per cent against Grudge pressure and 25 against everything else — and the numbers describe the bay more than the entity: the Well does not chase, so a crew holds against the load in the air above Bay Four rather than against anything aimed. The gauge opens full at 660 and trips at 75 per cent, and the file gives a cycle 4 turns before the rim is past the clearance. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 660/660 |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hover* [**Debuff**] } | "The well has risen — it floats above the ground, and the water inside defies gravity, climbing." | [The Well lifts; its sorrow-water inverts, raining upward onto the target.] | *Target suffers -10 Resilience; the wrongness of it unsettles.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |
-| { *The Upturned Flood* [**Debuff**] } | "The water pours upward — and you are drowning in a flood that falls from below." | [The Well's water reverses; the target is soaked from beneath.] | *Target loses 10 Resilience; they cannot find solid ground.* **[10 Grudge DMG [Grudge]]** | When the target lingers beneath the Well. |
-| { *The Whirlpool* [**Attack**] } | "The floating water spirals — and the spiral is aimed at pulling you up into it." | [A vortex of floating sorrow-water seizes the target.] | *Inflicts Grudge pressure and one drowning, spinning wound.* **[14-22 Grudge DMG [Grudge]]** | When the Well is disturbed. |
-| { *The Inverted Deluge* [**Attack**] } | "The well empties — upward, outward, everywhere at once." | [The whole of it comes out at once, sideways and overhead, and the bay is briefly a wet room in the air.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is struck. |
-| { *The Sky-Sea* [**Ultimate**] } | "The water reaches the ceiling — and now the whole room is underwater, upside down." | [The opening lets go overhead and the bay fills from the top down, which is the wrong direction and everybody in it knows it.] | *All personnel suffer Grudge pressure for three turns in the inverted sea.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Hover* [**Debuff**] } | "There is no water in it — the sounding line lowered in the third year came back dry and exactly as long as it went in. What rises is the rim, and what descends inside the opening is weight." | [The rim climbs a few centimetres and the load arrives on the shoulders rather than as sound.] | *Target suffers -10 Resilience; the wrongness is a depth that reads deep from beside it.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |
+| { *The Upturned Flood* [**Debuff**] } | "Nothing pours and nobody is soaked. Under the rim the floor stops reading as a place for things, and the worker is still carrying a finished tool at the end of the shift." | [No flood reverses; the clearance does its documented work on whoever lingers in it — a grief precisely describable and located nowhere.] | *Target loses 10 Resilience; they cannot find anywhere to set anything down.* **[10 Grudge DMG [Grudge]]** | When the target lingers beneath the Well. |
+| { *The Whirlpool* [**Attack**] } | "No vortex seizes anybody. The rim widens overhead where no barrier in the wing is rated, and whoever is nearest is drawn in rather than pursued." | [The opening expands in place; personnel inside the widened rim move toward the depth without being struck or chased.] | *Inflicts Grudge pressure; the wound is being drawn, slowly, by area rather than by intent.* **[14-22 Grudge DMG [Grudge]]** | When the rim widens past the marked clearance. |
+| { *The Inverted Deluge* [**Attack**] } | "The well does not empty, because there is nothing in it to empty and nothing can be removed from it. Struck, it surges upward out of reach and vents pressure across the bay." | [The rim climbs fast, the bay's air goes with it, and the gantry's strain gauges move before anybody notices.] | *A heavy Crimson surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is struck — Pugnahan, excluded by standing order. |
+| { *The Sky-Sea* [**Ultimate**] } | "The room is never underwater. The rim widens until the clearance beneath it is no longer a clearance, and the load is on the shoulders of everyone in Bay Four at once." | [Expansion in place: the boundary moves, not the entity, and escalation is tied to area — a slow event and a fast one of the same final diameter end at the same number.] | *All personnel suffer Grudge pressure for three turns under the widened rim.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -254,7 +254,7 @@ Each Well piece extends the holding rather than ordinary equipment, but the bear
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Floating Well as a Subject with Subject-Weight manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone D, Forge District. |
+| **Initial exposure** | The observer identifies Floating Well as a Subject with Subject-Weight manifestation. The first reliable markers are its Grudge signature, the suspension itself and the absent shadow, and its presence at Zone D, Forge District. |
 | **Sustained observation** | Rim height against the gantry scale, rim diameter, apparent depth with each estimator named, air temperature at one metre, clearance condition at every watch change, and the count of Forge personnel in line of sight. |
 | **Activation or escalation** | Escalation is recorded on a climb of more than the shift tolerance or on any lateral widening. Log the height series, establish a mourning point outside the rim, and never apply downward force. |
 | **Post-contact review** | Height series before and after, diameter, depth estimates, gauge movement, clearance incidents, and a seven-day check on each worker for the inability to set objects down. |
@@ -268,7 +268,7 @@ Each Well piece extends the holding rather than ordinary equipment, but the bear
 Floating Well (C-IIIγ-448 [O]) is a Subject-Weight manifestation expressing Grudge, held in the Forge District of Zone D: a ring of old stone hanging free of the ground over Bay Four, its opening black and its shadow absent. It rose because its sorrow had nowhere to sink, and it stays up for the same reason.
 
 **Entry 2 — <Following the Han Currents>**
-Floats through the Forge District and follows Han currents. Personnel feel pressure and anger without physical source. It grows heavier around displaced workers.
+It does not travel and follows no current: the rim has stood over the same two square metres since the holding opened, and the earlier drift note describes something that has never occurred. Personnel feel pressure without physical source, and it grows heavier around displaced workers — strongest with Terrace descendants, of whom eleven work in the Forge.
 
 **Entry 3 — <Nowhere to Put It>**
 The burden of carrying grief without a place to put it.

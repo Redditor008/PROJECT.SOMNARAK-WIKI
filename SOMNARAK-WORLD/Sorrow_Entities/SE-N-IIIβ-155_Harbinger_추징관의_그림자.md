@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Following Dark* [**Debuff**] } | "Your shadow has changed — it is taller now, wearing a coat it did not wear this morning." | [The Collector's shadow attaches to the target; it follows them.] | *Target suffers -10 Resolve; their own shadow has been replaced.* **[10 Weight DMG [Weight]]** | When the target owes a debt. |
-| { *The Lengthening Bill* [**Debuff**] } | "The shadow grows taller with every passing minute — and the taller it gets, the more you owe." | [The Collector's shadow accrues debt-interest in real-time.] | *Target loses 10 Resolve; the debt is compounding with every breath.* **[10 Weight DMG [Weight]]** | When the target tries to ignore it. |
-| { *The Shadow Hand* [**Attack**] } | "The collector's shadow reaches from your own — and its hand closes on your throat." | [The attached shadow strikes from within the target's own silhouette.] | *Inflicts Weight pressure and one wound of internal debt-collection.* **[14-22 Weight DMG [Weight]]** | When the target resists payment. |
+| { *The Following Dark* [**Debuff**] } | "The mirror shows it behind you, at a distance the Warden can measure." | [The fixed mirror records the human-shaped shadow behind its subject; the source says it does not touch anyone.] | *Target suffers -10 Resolve in the encounter model; the source record documents no physical shadow replacement.* **[10 Weight DMG [Weight]]** | When the target owes a debt. |
+| { *The Lengthening Bill* [**Debuff**] } | "The warning interval closes; the ledger balance is recorded separately." | [The fixed-mirror distance closes as the decision approaches; the balance remains in the adjacent Collectors' column.] | *Target loses 10 Resolve as the warning period narrows; no increased debt amount is recorded.* **[10 Weight DMG [Weight]]** | When an announcement remains unacted on; three is the recorded margin and the interval closes before a fourth. |
+| { *The Shadow Hand* [**Attack**] } | "A reported image of a hand reaches at the throat; the figure itself remains behind the subject." | [The combat record describes a reflected reach, but the primary says Harbinger has never made contact.] | *Modelled Weight pressure; this action does not establish a physical wound.* **[14-22 Weight DMG [Weight]]** | In the combat model, when the target resists payment; no payment-response event is documented. |
 | { *The Full Audit* [**Attack**] } | "The collector's shadow reveals its full ledger — every debt, every interest charge — and it all comes due at once." | [The whole assessment arrives at once, every line of it, and it is read out against the target rather than about them.] | *A heavy Black demand; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the shadow is challenged. |
-| { *Everyone Has a Shadow* [**Ultimate**] } | "The collector's shadow spreads — to every person — until every shadow wears the same coat, and every shadow carries the same ledger." | [The shadow stops belonging to one collector and falls behind every person in the room at the same angle.] | *All in range suffer Weight pressure for three turns of debt-collector shadows.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *Everyone Has a Shadow* [**Ultimate**] } | "The event record placed Harbinger behind four people at once; nobody is to turn around." | [The model generalizes the recorded four-subject transformation to everyone in the room; the event record describes warning intervals shortening across the Row, not every physical shadow changing at once.] | *The three-turn area Weight effect remains a combat model; the event record ends by notifying each followed subject.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | The combat model triggers at 65%; the event record instead describes a third unacted announcement and a shortening warning interval. The trigger mapping is unresolved. |
 
 ### Battle Phases
 
@@ -98,7 +98,7 @@
 - A watch left unresolved fires the event protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow settles deeper into ground it already holds until the Row cannot be worked.
 
 ## Appearance
-**Primary Form:** A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light.
+**Primary Form:** A human-shaped shadow cast by nothing, visible only from the corner of the eye or in reflections. It stands behind its subject at the distance recorded in the fixed mirrors and makes no contact.
 
 **Notable Features:** It follows the obligation, not the address — it can stand where its subject used to live and find them again without tracking them. It has never made contact. The distance closes as the obligation ages.
 
@@ -115,8 +115,8 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A human-shaped shadow that follows debtors without speaking. It is visible only from the corner of the eye or in reflected light. |
-| **Position / movement** | Mobile — walks upright; moves within its own zone and does not pursue. Recorded at every Harbinger cycle against the previous reading. |
+| **Form** | A human-shaped shadow cast by nothing, visible only from the corner of the eye or in reflections. It stands behind its subject at the distance recorded in the fixed mirrors and makes no contact. |
+| **Position / movement** | In its own zone, recorded behind the subject at the distance shown by fixed mirrors. The series closes with the obligation and may be found at an address the subject left; no pursuit or physical contact is recorded. |
 | **Material / signature** | Weight. Lead-cold and wet stone; a human-shaped absence cast by nothing, legible only at the edge of sight or in the fixed mirrors. |
 | **Distinctive markers** | The coat it is not wearing is the usual report: observers describe a collector's silhouette, and no two describe the same coat. |
 | **Identification** | If you can look at it directly, it is not this file. |
@@ -153,7 +153,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 | Field | Detail |
 |---|---|
 | **Event Type** | Transformation in place |
-| **Movement** | It attaches behind several subjects at once and holds station on each. It does not seep, does not fill corridors, and does not seek anybody out: it is already where the obligation is. The earlier entry describing it flooding the facility has been struck. |
+| **Movement** | The event is described as a simultaneous presence behind four subjects, not a body crossing corridors: Harbinger has never made physical contact and the record says it holds its distance on each. The event changes warning intervals across the Row; its relation to the non-breaching classification remains unresolved. |
 | **Effect** | Every warning interval shortens at once. Announcements that stood at weeks stand at days, across the whole Row. |
 | **Secondary Effect** | Workers can see which of their colleagues are being followed, and the colleagues cannot. |
 | **First Target** | No target. It stands behind whoever has something pending against them that nobody has said out loud. |

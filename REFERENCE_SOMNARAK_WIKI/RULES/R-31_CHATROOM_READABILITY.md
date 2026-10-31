@@ -10,6 +10,11 @@ dossier edit behind it is perfect. Readability is part of the deliverable, not d
 This rule codifies and extends the owner's table directive of 2026-10-07 (b51, *"Remember The Table In
 Chatroom"*). It binds every report: units, batches, audits, closes, answers to questions.
 
+> **Current layout (2026-10-25): use Compact Report v2 at the end of this file.** Where the older
+> seven-block layout, repeated counters, repeated full-link block or multi-table allowance conflicts
+> with v2, v2 governs the presentation. It does not weaken evidence, validation, push, counter or
+> commentary requirements.
+
 ## The rule
 
 0. **Read this rule before doing anything.** Read it at every session open, together with
@@ -238,3 +243,77 @@ Owner permits completing the older appearance stream first or reviewing equipmen
 22. **Links remain visible with the report.** Put the linked per-dossier table, full dossier links, evidence links and all three independent counters in the final message. Opening a report file supplements rather than replaces this text. A brief initial acknowledgement or an essential blocker/question is allowed; it is not the detailed report. If further tool work becomes necessary, deliver the complete report again after that work.
 
 This changes report placement, not the per-unit gate/push requirement, minimum-five rule, No change ladder or owner-controlled merge.
+
+## Overhaul, 2026-10-25 — Compact Report v2
+
+**Owner instruction:** *"Update/Overhaul The Chatroom Written Text Report Its Look Ugly And To Clutter"*
+(sic). The old report repeated the same progress, links and validation facts in several blocks. That made
+even a small unit look like a wall of administration. Compact Report v2 is now the visual standard.
+
+### Design rules
+
+24. **One screen first.** The status, progress and next action should be visible without hunting.
+25. **One fact once.** Do not repeat counters, commits, check results or links in later blocks.
+26. **Cards, not walls.** Each dossier gets one compact card: linked name, one change line, one
+    **Commentary** line, and one held/next line only when it matters.
+27. **One link set.** The linked dossier name is the canonical dossier link. Put its evidence link beside
+    the result. Do not add a second full-link block underneath. Link the pull request once in the footer.
+28. **One progress strip.** Show all three appearance counters once, with denominators. Add percentages,
+    but do not redefine unchanged counters every turn. Give definitions at a batch close, when a counter
+    moves, or when the owner asks.
+29. **Summarize validation.** Write `5/5 checks passed` when that is true. Raw outputs stay in evidence.
+    Name an individual tool only when it fails or its result changes the decision.
+30. **At most one table.** A single-dossier report normally uses no table. A batch close may use one
+    four-column at-a-glance table. Never duplicate card prose inside cells.
+31. **Word budgets.** Routine progress: about 120 words. One dossier unit: about 350 words. Batch close:
+    about 900 words. A direct question gets the shortest complete answer; requested lists may be longer.
+32. **Quiet visual hierarchy.** One report title, bold field labels, short paragraphs, and no nested bullet
+    maze. Status symbols are limited to `✅` and `⚠️`.
+33. **Required facts stay.** Verdict first; short commit; three separate counters; completed/required and
+    the No-change rung when relevant; result and credits; per-dossier change and **Commentary**; the key
+    hold; next step, authorization and PR state.
+
+### Standard unit / open-batch shape
+
+```markdown
+## ✅ PUSH VERIFIED — Batch {{N}} · Unit {{x}} of {{required}}
+
+**Progress:** Types {{x}}/301 · Weapon {{x}}/287 · SE {{x}}/301 · Batch {{done}}/{{required}}
+
+### [{{Dossier name}}]({{dossier link}}) `{{designation}}` — {{HELD / changed / retained / No change}}
+
+**Changed:** {{One or two plain sentences.}}
+
+**Commentary:** {{One or two plain sentences in the reviewer's own voice.}}
+
+**Still held:** {{The essential unresolved point, or omit this line.}} · 5/5 checks passed · [Evidence]({{evidence link}})
+
+**Next:** {{Next unit or closure step.}} Draft PR {{link/state}}.
+```
+
+### Standard batch-close shape
+
+Use the same header and progress strip. Add one sentence for authorization, queue and No-change rung.
+Then give one compact card per dossier. A single at-a-glance table is optional, never compulsory. End
+with the counter definitions only if a counter moved, plus next authorization and PR state.
+
+### Supersession
+
+Compact Report v2 supersedes the old fixed seven-block order and any requirement to repeat counters,
+definitions, tool lists or full dossier links. It retains points 1–3, 7, 10, 16–23 in substance:
+verdict first, plain content, per-dossier **Commentary**, separate counters, visible links, No-change
+reporting, and one substantive report after the final tool call.
+
+## Amendment, 2026-10-28 — the chatroom copy is kept, not erased
+
+**Direct owner instruction:** *"The Chatroom Stuff Dont Erase Or Dont Stopped It I Used The Arena.ai
+Chatroom As Secondary Reading When I'm not Checking The Github"* (sic).
+
+34. **The Arena.ai chatroom is the owner's secondary reading surface.** GitHub holds the primary
+    record; the chatroom report is the copy the owner reads when not checking GitHub. It must not be
+    erased, stopped, or reduced to link-only pointers.
+35. **Standalone readable.** Every chatroom report keeps each dossier's result, **Changed** and
+    **Commentary** in the chat text itself, so the turn can be read and understood in Arena without
+    opening GitHub. Links supplement the reading copy; they never replace it.
+36. **Compact does not mean hollow.** Compact Report v2 still governs layout, but its word budgets
+    yield to point 35 on multi-review turns: trim repetition, never the per-dossier substance.

@@ -64,7 +64,7 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
+| **Battle Length** | The sequence — forty minutes to six hours, set by the night's count (nine to eighty-one songs). Nothing here is measured in turns. |
 | **Threat Role** | Standard encounter |
 | **Coherence** | Echo (II) — Repeats singing |
 | **Primary Pressure** | Clarity |
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. Midnight Choir is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
+The two valid rows are one posting seen from two sides. Ferrehan is the attendance — the whole sequence standing, with the book open, relief only between songs — and it is the only row that moves the gauge. Viderehan is what the attendance produces: the night's count and every break word verbatim, including the ones that name serving officers. Stability under Viderehan is not safety here; it is the correct result, and the pressure is borne almost entirely by the one worker holding the book, whose rotation is four nights a quarter for that reason.
 
 **Reading the response:** Success is a complete verbatim and an accurate count. The gauge is secondary here and has never moved in response to anything the attending party did; it moves with the length of the night, which is set before anybody arrives. A night recorded in summary is a night lost, and sixty-one years of this series exists because four generations of transcribers refused to summarise.
 ## Expansion Behavior
@@ -286,7 +286,7 @@ The set is built around hearing a thing to its end, and all three costs are cost
 Midnight Choir (C-IIβ-245 [LP]) stands on the register as a Place-Lament manifestation expressing Lament: eleven frescoes of named city dead along ninety-four metres of the Old Lament's east corridor in Zone B, which sing out of their painted mouths at midnight exactly and at no other hour, in the fixed order of lullabies, work songs, funeral hymns. Not one of the forty-one thousand six hundred songs recorded here has reached an ending; each breaks off inside a word. Its instrument is the night's count, which has tracked this facility's quarterly figure for bereavement statements closed unfinished for nineteen years.
 
 **Entry 2 — <Excerpt from the Corridor Verbatim Book, Old Lament, Year 4238>**
-Songs contain history absent from the Archive.
+Nine break words in sixty-one years have carried dates the Archive does not hold; forty-one thousand six hundred songs have carried none. The claim that the songs contain lost history rests entirely on the nine and is entered here at its true weight.
 
 **Entry 3 — <Excerpt from the Welfare Office Submission on the Resumption Offer, Year 4236>**
 The grief of melodies and lives that ended without completion.

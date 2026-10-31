@@ -1,0 +1,1168 @@
+{
+  "schema_version": 1,
+  "batch": 203,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IVβ-043",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md",
+      "words": 8947,
+      "sha256": "411bfdbdb5bb80986cbe24ff9e3172fa1969ae040e0d1dcec571d06b1b3aae24"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-369",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md",
+      "words": 8980,
+      "sha256": "80ce3ecb55c165a8de1cf27c8b271cabe137328998cceaf4a5967cc56292d454"
+    },
+    {
+      "unit": 3,
+      "designation": "O-IVδ-151",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-151_Border_Tree_스며든_나무.md",
+      "words": 9124,
+      "sha256": "41863b6385f729432a8549a82a375f137eba62fc0a49843be2c382014297b924"
+    },
+    {
+      "unit": 4,
+      "designation": "N-IVδ-315",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md",
+      "words": 9181,
+      "sha256": "1110709c5f6d7c09e3cd4567fe8d6b4eb918406cc006d8d9f229c19cb1298433"
+    },
+    {
+      "unit": 5,
+      "designation": "C-Vγ-320",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md",
+      "words": 9223,
+      "sha256": "9631219c4bde9bdc42b71b7d8e49b2fed665fd62d15922739d8de77bcea5c5b6"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 5,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IVβ-043",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md",
+      "words": 8947,
+      "sha256": "411bfdbdb5bb80986cbe24ff9e3172fa1969ae040e0d1dcec571d06b1b3aae24",
+      "name": "The Silent Maiden",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_01_THE_SILENT_MAIDEN.md",
+      "before_words": 8947,
+      "after_words": 9337,
+      "base": "a8008a25369f78c04c44b1bac050e600fdb73fa2",
+      "final_sha256": "982fbdc5da588b23d6409fef0916080ef32a4515438ee1ba67d23a97a0db645b",
+      "summary": "HELD +0 — 22 repairs make recognition, not audibility or pursuit, the encounter.",
+      "commentary": "The file’s bravest technology is a name in ink read aloud by somebody who can be asked about it later.",
+      "reasoning": "Side A's Recognition Trigger Protocol is exact: request for voice, performance-waiting, forced speech and group erasure now replace approach, generic waiting and a bare 65% threshold.\n\nThe primary's governing technology is paper and names: ink roster, legible badges, fifteen-minute confirmations and a forty-second spoken count survive erasure better than memory.\n\nNo sound has ever been recorded, so Released Voice is now explicitly a projected pressure response, not a claimed first audible word.",
+      "history": "Batch 129 already added exact Lens/Veil source details and connected the equipment baseline to privacy/badge/count rules; material primary/source ability and body forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Body substrate: true flesh and bone versus crystallized silence. Held.",
+        "Equipment abilities/costs differ materially between primary and exact items. Held without overwrite.",
+        "Mother/Sisters ontology and monthly visibility mechanism. Held.",
+        "Literal Released Voice remains unobserved. Held."
+      ],
+      "split": [
+        5,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Clarity — retaining the fact of a person's presence, name and face against erasure |"
+        },
+        {
+          "id": "R02-pressure-clarity-combat",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Composure |",
+          "new": "| **Primary Pressure** | Clarity |"
+        },
+        {
+          "id": "R03-movement-no-pursuit",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — walks upright; can breach and pursue. |",
+          "new": "| **Movement** | Mobile — stands or sits in the Sisters' chamber and moves only toward acknowledgment; in breach she walks without pursuing or hunting. |"
+        },
+        {
+          "id": "R04-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — no physical attack has ever affected her; force is prohibited and cannot resolve the holding |"
+        },
+        {
+          "id": "R05-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R06-resistance-named-recognition",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not pressure and is not resisted by anything the wing issues: it takes the fact that a person was present, and paper survives it better than memory |",
+          "new": "| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not pressure and is not resisted by anything the wing issues: it takes the fact that a person was present, and paper survives it better than memory. Keep the roster in ink at the door, badges legible outside equipment, named confirmations every fifteen minutes and the forty-second spoken count. Do not demand speech; sit within two metres and attend without questions. |"
+        },
+        {
+          "id": "R07-resolution-seven-minutes",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | See her, hear her, and recognize that she is present |",
+          "new": "| **Resolution Condition** | A named worker sits within two metres, confirms her presence in the record, and remains for one seven-minute interval without asking a question or demanding speech; roster, badge and spoken count remain current. |"
+        },
+        {
+          "id": "R08-closed-lips-demand-voice",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Closed Lips* [**Debuff**] } | \"She stands silent — and the silence around her is heavier than any speech.\" | [The Maiden's suppressed voice creates a void of unspoken words.] | *Target suffers a Void mark; the unspoken things press on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Maiden. |",
+          "new": "| { *The Closed Lips* [**Debuff**] } | \"She stands silent — and the silence around her is heavier than any speech.\" | [A demand for voice turns her unspoken history into silence pressure around the person making the demand.] | *The demanding worker gains a Void mark. Stop the question or command, state both names from the roster, and return to shared presence without requiring an answer.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a person repeatedly asks why she will not speak or issues a verbal command. |"
+        },
+        {
+          "id": "R09-swallowed-waiting-performance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Swallowed Words* [**Debuff**] } | \"You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you.\" | [The Maiden's suppressed speech transfers to the target; they carry her unspoken burden.] | *Target loses clarity; they are full of someone else's silence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for her to speak. |",
+          "new": "| { *The Swallowed Words* [**Debuff**] } | \"You can see the words forming behind her teeth — and then she swallows them, and the swallowed words enter you.\" | [Unspoken pressure transfers to a worker who remains nearby only to extract a performance from her.] | *The worker loses Clarity; they are full of someone else's silence. The named observer converts the wait into attendance: badge checked, roster read, no question pending.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a person remains nearby expecting an answer rather than sharing presence. |"
+        },
+        {
+          "id": "R10-silent-decree-coercion-begins",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Silent Decree* [**Attack**] } | \"She mouths a word — no sound — and the word strikes you anyway.\" | [A silent command hits the target with full force despite making no noise.] | *Inflicts Void damage; the voiceless decree erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Maiden is commanded. |",
+          "new": "| { *The Silent Decree* [**Attack**] } | \"She mouths a word — no sound — and the word strikes you anyway.\" | [Coercion meets a soundless refusal that erodes the coercer's hold on names and faces; she issues no audible command.] | *Inflicts Void damage and identity erosion. All sound induction and command escalation stop; the door Warden performs the spoken name count before anyone re-enters.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When personnel begin sound induction, coercion or escalated commands to obtain speech. |"
+        },
+        {
+          "id": "R11-released-voice-persistent-force",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Released Voice* [**Attack**] } | \"One word, the first in centuries — and the room has no idea what to do with a sound.\" | [The single word she has never spoken in any watch is released at the target's expense.] | *A heavy Void utterance; the target's Sorrow Gauge surges 15%, and the room's hush takes several minutes to settle.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When she is forced to speak, which the standing order treats as misconduct in the person doing the forcing. |",
+          "new": "| { *The Released Voice* [**Attack**] } | \"One word, the first in centuries — and the room has no idea what to do with a sound.\" | [Projected response only: if coercion persists, the withheld history is released as heavy Void pressure. No audible word has ever been recorded and none is claimed here.] | *Heavy Void pressure; no personnel Gauge surge is inferred. Treat the forcing as misconduct, end all verbal demands, keep one named person attending her, and count every responder aloud by badge and roster.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When coercion continues after the first soundless refusal in an attempt to make her produce speech. |"
+        },
+        {
+          "id": "R12-eternal-silence-group-erasure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Eternal Silence* [**Ultimate**] } | \"She goes quiet again — quieter — and the quiet spreads until nobody in the room can hear themselves being counted.\" | [The Maiden extends her silence past the chamber, taking the sound out of the whole field.] | *All in range suffer Void erosion for three turns of absolute quiet; names and faces begin going out of the affected zone from the second turn.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Eternal Silence* [**Ultimate**] } | \"She goes quiet again — quieter — and the quiet spreads until nobody in the room can hear themselves being counted.\" | [Group erasure opens a three-turn voice-loss field in which names and faces leave memory before bodies are harmed.] | *All personnel in the affected zone suffer Void erosion for three turns. Badges stay readable, the roster is counted aloud by name, and one named observer acknowledges her location without demanding speech.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while several personnel pass her without acknowledging her. |"
+        },
+        {
+          "id": "R13-battle-resolution-recognition",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **See her, hear her, and recognize that she is present** — one named observer attending to her for the interval, the count spoken aloud, and the figure returned against the Personnel Office's unsighted line rather than against the door.",
+          "new": "3. **Resolution:** One named observer sits within two metres, confirms her presence in ink, and attends for the seven-minute interval without a question. The figure is returned against the Personnel Office's unsighted line, and the watch closes only when roster, badges and spoken count agree; she is not required to make a sound for the recognition to count."
+        },
+        {
+          "id": "R14-consequence-clarity",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- A worker who cannot hold the silence becomes a conduit: the pressure moves through them instead of stopping, **Composure** erodes, and the instability they carry is funnelled back into the figure. On this holding the first sign is procedural rather than felt — a confirmation given without a name, or a count that stops at a number nobody can account for — and the second Warden's read ends the watch.",
+          "new": "- A worker who cannot hold the silence becomes a conduit: the pressure moves through them instead of stopping, **Clarity** erodes, and the instability they carry is funnelled back into the figure. On this holding the first sign is procedural rather than felt — a confirmation given without a name, or a count that stops at a number nobody can account for — and the second Warden's read ends the watch."
+        },
+        {
+          "id": "R15-detailed-movement-acknowledgement",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on The Silent Maiden neither has ever been assumed. |",
+          "new": "| **Position / movement** | Stands or sits within the Sisters' chamber and moves only toward somebody who has acknowledged her. In breach she walks without hurry and does not pursue. Posture and distance are logged by a named observer every fifteen minutes. |"
+        },
+        {
+          "id": "R16-breach-quote-no-hunting",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"The Silent Maiden has broken free. Hunts personnel indiscriminately.\"*",
+          "new": "> *\"The Silent Maiden has left the chamber unacknowledged. Stop, badge out, and count every name aloud.\"*"
+        },
+        {
+          "id": "R17-use-notes-seen-at-last",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Every piece in this set is drawn from the same stillness, and the charges run the same way: the Lens takes small, nameless memories, the Veil takes the sense of one's own presence, and the Cloak takes the voice above a whisper. The grade describes extraction stability; the cost is in the column beside each piece and is the reason the set is issued one rotation at a time. Seven Cloaks exist, and each was issued for a sighting — a Warden who noticed a person nobody had noticed, inside the facility, off the file, and wrote the name down; none has been issued for anything else.",
+          "new": "Every piece in this set is drawn from the same stillness, and the charges run the same way: the Lens takes small, nameless memories, the Veil takes the sense of one's own presence, and the Cloak takes the voice above a whisper. The grade describes extraction stability; the cost is in the column beside each piece and is the reason the set is issued one rotation at a time. Seven Cloaks exist, and each was issued for a sighting — a Warden who noticed a person nobody had noticed, inside the facility, off the file, and wrote the name down; none has been issued for anything else.\n\n**Set resonance — Seen at Last:** When all three pieces are used by a bearer who recognises a neglected person without forcing disclosure, they can maintain a short safe quiet field in which neither bearer nor protected person is erased from nearby awareness. The bearer cannot speak above a whisper until the protected person leaves by choice. Recognition under this resonance never becomes permission to interrogate, inspect private circumstances or make the Maiden answer."
+        },
+        {
+          "id": "R18-flavor-continued-confirmations",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Time stretches in the containment zone. The Subject-Body becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.",
+          "new": "**With continued exposure:** What changes is the discipline, not the figure. Fifteen minutes becomes a named confirmation; an hour becomes four entries in ink, a roster that still agrees with the door, and a worker who has learned not to fill the quiet with a question. She may turn toward the person attending her. She does not become louder, warmer or easier to summarize."
+        },
+        {
+          "id": "R19-flavor-activation-erasure",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Void becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Body was waiting; now it moves.",
+          "new": "**When the entity activates:** Nothing announces itself. The danger is discovered procedurally: a confirmation has no name, a badge is under equipment, the roster and duty sheet disagree, or several people have crossed the chamber as if it were empty. Stop, count aloud, and put one named person back in attendance; force has never supplied the missing recognition."
+        },
+        {
+          "id": "R20-story2-chamber-bound",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Moves silently through the facility, often unseen. Personnel feel the weight of absence and may lose their voice. She becomes more present when someone sits beside her.",
+          "new": "Within the chamber she may cross a worker's attention without entering it; outside a breach, no facility roaming is recorded. She becomes more present when a named person sits beside her without asking for speech."
+        },
+        {
+          "id": "R21-story4-recognition-not-hearing",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Management: See her, hear her, and recognize that she is present.  Long exposure causes personnel to recall moments when they ignored others.",
+          "new": "Management: see her, confirm her by name, and attend to her as present; do not wait to hear her. Long exposure causes personnel to recall moments when they ignored others."
+        },
+        {
+          "id": "R22-final-observation-no-hearing",
+          "kind": "careful final observation correction",
+          "careful": true,
+          "old": "| Do the thing on file: see her, hear her, and treat her as present — by name, in ink, for the whole interval. | Depart from the condition for good reasons, as The Silent Maiden's record shows people do — a confirmation nobody can be asked about, or the attempt to make her speak. |",
+          "new": "| Do the thing on file: see her, confirm her by name, and treat her as present — in ink, within two metres, for the whole seven-minute interval and without asking her to make a sound. | Depart from the condition for good reasons, as The Silent Maiden's record shows people do — a confirmation nobody can be asked about, or the attempt to make her speak. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.017  clean   121 grams  Operational Parameters\n 0.016  clean   124 grams  최종 관찰 (Final Observation)\n 0.011  clean   903 grams  Combat Record\n 0.010  clean   421 grams  기록 (Registrum)\n 0.003  clean   750 grams  감각 묘사 (Flavor Text)\n 0.002  clean   951 grams  M.A.W. Equipment\n 0.001  clean  1363 grams  Apex Record\n 0.000  clean   480 grams  이야기 (Narratio)\n 0.000  clean   330 grams  이야기 보고 (Story Log)\n 0.000  clean   327 grams  Behavior\n 0.000  clean   304 grams  관찰 기록 (Observation Log)\n 0.000  clean   265 grams  Trivia\n 0.000  clean   243 grams  Appearance\n 0.000  clean   227 grams  Origin\n 0.000  clean   123 grams  Breach Behavior\n 0.000  clean    46 grams  SECC Classification\n 0.000  clean    45 grams  증언 (Testimonium)\n 0.000  THIN      3 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   4  | **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the erasure, which is not\n   85   6  | { *The Eternal Silence* [**Ultimate**] } | \"She goes quiet again — quieter — and the quiet spreads until nobody in the room can \n  249   1  | **Before use** | Wielder, piece, and a dated baseline of what the wielder can currently name: three colleagues by face, two rout\n  250   1  | **During use** | Every occurrence of a missing name, timed, and whether the wielder noticed it themselves or was told. One is no\n  305   2  | Do the thing on file: see her, confirm her by name, and treat her as present — in ink, within two metres, for the whole seven-mi\n  335   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  394   4  **Review requirement:** Verify the four pillars — gauge, seal, personnel, position — and on this holding add the two the Sisters' \n  425   2  The watchers asked for one line. One line on the form, free text, in which they could say how the person had seemed. Refused, and \nGENERIC 0.003  (24 shared shingles)  SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-A__SIDE_CODEX_The_Silent_Maiden.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-B__MAW-W_The_Silence_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-C__MAW-S_The_Silence_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-D__MAW-G_The_Silence_Cloak.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-A__SIDE_CODEX_The_Silent_Maiden.md": "4c2e5d73499bba6bc327eddc51606b64c6dc3953388f15a41315fe87c069ee30",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-B__MAW-W_The_Silence_Lens.md": "f9e64132303ef7a5386c8b1435971e0fe2f3be7cd1a8ed00e7eb197ee5755530",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-C__MAW-S_The_Silence_Veil.md": "bf7caab2a09e783e4474c707c6c183c239429aa4f77fc4e0f09375dbc1ac07bf",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/043_Silent_Maiden/SE-043-D__MAW-G_The_Silence_Cloak.md": "44568ec33978b506aa04329b50f7027238f7f6dec552839799305717c94f6aad"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md\")]",
+      "table_link": "[[C-IVβ-043 The Silent Maiden](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B2-043_The_Silent_Maiden_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EC%B2%98%EB%85%80.md \"SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 450 lines / 8,947 words, complete direct SE-043-A/B/C/D, Registry rows 82–85 and Batch 129 equipment history. Every table parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported β Han Dust range and personnel +15% Gauge surge were removed; Side A's two-metre/seven-minute recognition interval was restored."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-369",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md",
+      "words": 8980,
+      "sha256": "80ce3ecb55c165a8de1cf27c8b271cabe137328998cceaf4a5967cc56292d454",
+      "name": "Broken Whisper",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_02_BROKEN_WHISPER.md",
+      "before_words": 8980,
+      "after_words": 9299,
+      "base": "32b9866ba0366a75636d9439dace91593e42eedb",
+      "final_sha256": "f5e6a0d2c1ddf8fd782da2329b0012b60aa75eba046a1b61d9bc1a69fbbc86a0",
+      "summary": "HELD +0 — 23 repairs keep listening safe and make completion itself the enemy.",
+      "commentary": "The most dangerous sentence in the tunnel is the one a kind listener finishes for the dead.",
+      "reasoning": "Proper listening lowers fragment rate; harm begins when a listener completes, arranges or confers fragments into a sentence.\n\nThe exact sources preserve emotional truth without ownership: two independent listeners, identity anchor, wording unknown, and no quotation manufactured from Bell pressure.\n\nTool contact is held activation ending by setting the object down; strapping/wearing, timed damage and source cutting are not supported.",
+      "history": "The primary already carries a 2026-10-12 full-set source review and Batch 97 exact-source equipment work; material form/naming/extraction forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Murmur Astrolabe sphere versus Susurrus Requiem blade; no transition. Held.",
+        "Broken Whisper versus Susurrus item naming. Held.",
+        "Shard-taking versus echo/bestowal extraction. Held.",
+        "Registry Accessory/5% versus Tail/4%. Held.",
+        "Sender identity and actual wording remain unknown. Held."
+      ],
+      "split": [
+        6,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-movement-floating-drift",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Stationary — a body or drop of liquid. |",
+          "new": "| **Movement** | Floating — drifts in the underground Han currents without reliably following the mapped flow. |"
+        },
+        {
+          "id": "R02-pressure-clarity-ownership",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — keeping heard fragments distinct from the listener's own memory |"
+        },
+        {
+          "id": "R03-vessel-no-destruction-route",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No authorized destruction route — set the I-Relic down and lower Gauge below 25% |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-tool-held-not-worn",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Use Mode** | **Equippable / mounting use** |",
+          "new": "| **Use Mode** | **Held activation only — not worn, strapped or mounted** |"
+        },
+        {
+          "id": "R06-resistance-identity-anchor",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 35% against Lament, the pressure the object is made of; 25% against everything else the tunnel can bring — no resistance rating applies to the words themselves |",
+          "new": "| **Resistance** | 35% against Lament, the pressure the object is made of; 25% against everything else the tunnel can bring — no resistance rating applies to the words themselves. State the listener's identity anchor before contact, keep every fragment on its own line, and never let resistance to pressure be mistaken for protection against false ownership. |"
+        },
+        {
+          "id": "R07-resolution-hold-name-set-down",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Keep the transcript a list — one transcriber, one timekeeper, nobody conferring, and no fragment joined to another — and the Sorrow Gauge falls below 25% |",
+          "new": "| **Resolution Condition** | If the I-Relic is held and a permitted name spoken, receive only the emotional message without reconstructing wording; then set the object down, keep the transcript as separate fragments, and lower the Sorrow Gauge below 25%. |"
+        },
+        {
+          "id": "R08-collapsed-word-completion-attempt",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Collapsed Word* [**Debuff**] } | \"The whisper tried to form — and collapsed — and the rubble of the failed word stings.\" | [The Whisper's structural failure scatters meaning-fragments at the target.] | *Target suffers -10 Composure; the broken words cut.* **[10 Lament DMG [Lament]]** | When the target tries to listen. |",
+          "new": "| { *The Collapsed Word* [**Debuff**] } | \"The whisper tried to form — and collapsed — and the rubble of the failed word stings.\" | [A listener supplies the missing ending and the invented completion collapses back through their Clarity.] | *The listener suffers Clarity pressure. Strike the supplied word from the transcript as listener invention, restore the break, and continue one fragment per line without conferring.* **[10 Lament DMG [Lament]]** | When a listener tries to complete a collapsing half-word. |"
+        },
+        {
+          "id": "R09-debris-arrangement-not-listing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Debris of Speech* [**Debuff**] } | \"Each fragment carries a piece of the intended message — and none of them fit together.\" | [The Whisper's fragments are irreconcilable; the target cannot assemble meaning.] | *Target loses 10 Composure; the puzzle is impossible.* **[10 Lament DMG [Lament]]** | When the target gathers fragments. |",
+          "new": "| { *The Debris of Speech* [**Debuff**] } | \"Each fragment carries a piece of the intended message — and none of them fit together.\" | [Speech debris overwhelms a worker who stops listing fragments and begins arranging them toward a sentence.] | *The worker loses Clarity. Separate the lines again, preserve gaps, and hand the transcript to the second worker before any order is treated as meaning.* **[10 Lament DMG [Lament]]** | When a worker gathers or arranges fragments to assemble meaning. |"
+        },
+        {
+          "id": "R10-sharp-fragment-physical-disturbance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sharp Fragment* [**Attack**] } | \"A shard of broken whisper, hardened by collapse, flies free.\" | [A word-shard launches.] | *Inflicts Lament pressure and one thin, ringing cut.* **[14-22 Lament DMG [Lament]]** | When the fragments are disturbed. |",
+          "new": "| { *The Sharp Fragment* [**Attack**] } | \"A shard of broken whisper, hardened by collapse, flies free.\" | [Collapse debris is struck, swept or moved as refuse and a hardened word-shard breaks loose.] | *Inflicts Lament pressure and one thin, ringing cut. Stop clearing the route by force; leave linguistic fragments separate and remove only nonlinguistic collapse residue under the recorded procedure.* **[14-22 Lament DMG [Lament]]** | When collapse debris or word-fragments are physically disturbed. |"
+        },
+        {
+          "id": "R11-full-collapse-joined-transcript",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Collapse* [**Attack**] } | \"The whole list goes at once — every half-word, every break — and the silence afterwards is worse than the cutting.\" | [The transcript fails together; the fragments arrive as one mass of language and none of it is complete.] | *A heavy Deep Blue avalanche; the target's Sorrow Gauge surges 15% as the fragments cohere without ever finishing.* **[24-36 Lament DMG [Lament]]** | When the Whisper is forced, or when a transcript is joined under pressure. |",
+          "new": "| { *The Full Collapse* [**Attack**] } | \"The whole list goes at once — every half-word, every break — and the silence afterwards is worse than the cutting.\" | [A joined transcript fails as one false sentence, sending every fragment back without verified order or ownership.] | *Heavy Lament pressure; no Gauge surge is inferred. Seal the joined page as a listener finding, restart separate lists with transcribers who do not confer, and do not quote the invented sentence as a worker's words.* **[24-36 Lament DMG [Lament]]** | When a transcript is joined under pressure or a name is used to force a complete wording. |"
+        },
+        {
+          "id": "R12-ultimate-coherence-at-75",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *Every Word Falls Apart* [**Ultimate**] } | \"Every whisper in the tunnel collapses together, and the debris of language buries the run.\" | [The collapse spreads down the passages; every fragment in range breaks at once.] | *All in range suffer Lament pressure for three turns of broken speech, and no fragment taken during it may be joined afterwards.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and the list is still being kept. |",
+          "new": "| { *Every Word Falls Apart* [**Ultimate**] } | \"Every whisper in the tunnel collapses together, and the debris of language buries the run.\" | [The tunnel output enters false coherence: fragments arrive in plausible order and begin completing one another before breaking apart across the passage.] | *All personnel in range suffer Lament pressure for three turns. Stop speaking names into the object, separate every listener, and keep each list unjoined; ease of understanding is treated as escalation, not progress.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 75% and fragments begin arriving as continuous, mutually completing speech. |"
+        },
+        {
+          "id": "R13-battle-resolution-set-down",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The cycle closes when the Sorrow Gauge falls below 25% and the transcript has been filed as a list with its breaks intact — which on this holding means the team left without having made sense of anything.",
+          "new": "3. **Resolution:** Set the object down, stop speaking names into it, and file the fragments as separate lines with uncertainty intact. The cycle closes only when the Sorrow Gauge is below 25% and the second worker has checked that no returned message is being recalled as the listener's own — which means the team leaves without having made sense of anything."
+        },
+        {
+          "id": "R14-consequence-piece-specific-costs",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Each M.A.W. activation debits the wielder past what the grade ledger records. The pieces drawn from this source take composure, recollection and somatic steadiness in the ordinary way, and take one thing besides: the user's confidence about which of the things they remember being told were ever said to them.",
+          "new": "- Each M.A.W. activation debits the wielder past what the grade ledger records, but the costs stay piece-specific: the Weapon carries weeping and heard-grief/personal-memory confusion, the Shroud numbs minor joys while preserving speaker/recipient separation, and the Bell temporarily removes ordinary whispers. The confidence about which remembered words were one's own is checked where the relevant piece touches it; it is not projected across the set."
+        },
+        {
+          "id": "R15-use-notes-message-ownership",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The three pieces extend Broken Whisper rather than arm anyone against it. Inside the pattern this file records, they help; outside it the cost arrives early and does not reverse on return — the bearer carrying the grief of an appeal that was never heard, and weeping mid-sentence, most often while making a routine report. That last detail is written into the file because it is the one that gets noticed: a bearer weeping during a report is stood down the same shift, and a bearer weeping between sentences is not.",
+          "new": "The three pieces extend Broken Whisper rather than arm anyone against it. Inside the pattern this file records, they help; outside it the cost arrives early and does not reverse on return — the bearer carrying the grief of an appeal that was never heard, and weeping mid-sentence, most often while making a routine report. That last detail is written into the file because it is the one that gets noticed: a bearer weeping during a report is stood down the same shift, and a bearer weeping between sentences is not.\n\n**Set resonance — Message Without Ownership:** The Bell carries a verified emotional fragment, the Shroud preserves the recipient's separate identity, and the Requiem cuts only collapse debris. Used together, the message can reach a witness without becoming the witness's memory or a reconstructed quotation. If anyone supplies the missing words, the set repeats the invention in the dead workers' voices; that repetition is a failure record, never confirmation. An echo forms only after two listeners independently preserve matching emotional content without fabricating a sentence."
+        },
+        {
+          "id": "R16-tool-10s-held-no-strap",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 10 Seconds | The object sits in the current until it is taken up, and the first fragment arrives before the strap is fastened; there is no stasis here to describe, only the beginning of a list. | Wearing it opens the field: fragments come as they come, and the bearer carries +10% resistance to Lament while the piece is on them — resistance to the pressure, never to the words. |",
+          "new": "| 10 Seconds | The crystal is taken into the operator's hands from the current and a permitted name is spoken; the first fragment may arrive before the timekeeper is ready, so the list begins before contact. | Holding opens the return; it grants no Lament resistance. The transcriber writes only what arrives, one fragment per line, and the operator does not answer for the message. |"
+        },
+        {
+          "id": "R17-tool-30s-no-cut-claim",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 30 Seconds | The piece was cut from a shattered object, so the bearer begins hearing with it rather than through it: what they pick up is the murmur of appeals sent up from the deep tunnels and cut off by falling rock, none of them complete. | The benefit and the burden arrive together — focus and reaction hold, composure pays for them, and the bearer starts to need the sentence to make sense. |",
+          "new": "| 30 Seconds | The bearer begins hearing appeals cut off in the deep tunnels, none complete and none verified as a sender's wording. No part of the source is cut, removed or rearranged to make the return intelligible. | Focus and reaction may hold while Clarity pays for the wish to make the sentence finish. Any completion supplied by the listener is marked as listener invention immediately. |"
+        },
+        {
+          "id": "R18-tool-1min-no-timed-damage",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 1 Minute | The bearer's memory begins filing what they hear as something they once said; the second worker takes over the record from here, because the bearer's own account is no longer reliable. | Past sixty seconds the piece deals 5 Lament damage every 15 seconds; the second worker watches for the moment the bearer repeats a fragment as though quoting themselves. |",
+          "new": "| 1 Minute | The bearer's memory may begin filing what they hear as something they once said; the second worker takes over the record because the bearer's account is no longer reliable. | The second worker watches for the bearer repeating a fragment as though quoting themselves and ends contact by having the object set down. No timed damage cycle is recorded. |"
+        },
+        {
+          "id": "R19-tool-2min-set-down-not-stow",
+          "kind": "careful tool correction",
+          "careful": true,
+          "old": "| 2 Minutes | Past two minutes the joining starts on its own: half-words the bearer transcribed separately cohere into a sentence nobody wrote down. It does not present as a symptom; it presents as having understood. | Past two minutes, or a forced removal without stowing, the bearer suffers the recorded cost — a stranger's last words held as a private recollection — and the piece is not reissued to them. |",
+          "new": "| 2 Minutes | Past two minutes the joining can start on its own: half-words transcribed separately cohere into a sentence nobody wrote down. It does not present as a symptom; it presents as having understood. | Set the object down at once, preserve both independent lists, and refer the bearer for same-day counsellor review. The recorded cost is a stranger's last words held as private recollection. |"
+        },
+        {
+          "id": "R20-story4-no-assembly",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Work response — Viderehan: Fragments can be assembled into partial histories. (Stable); Ferrehan: Continues whispering until the worker can bear incompletion. (Decrease). It responds positively to patient listening.",
+          "new": "Work response — Viderehan: fragments are listed separately and never assembled into partial histories. (Stable); Ferrehan: continues whispering until the worker can bear incompletion. (Decrease). It responds positively to patient listening."
+        },
+        {
+          "id": "R21-final-joined-list-failure",
+          "kind": "careful final observation correction",
+          "careful": true,
+          "old": "| Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | Fragments can be assembled into partial histories. The gauge climbs and Broken Whisper withdraws without revelation. |",
+          "new": "| Continues whispering until the worker can bear incompletion. The sorrow is witnessed; Broken Whisper is fully recorded. | The joined account reads as a partial history, but the history belongs to the listeners. The gauge climbs and Broken Whisper withdraws without revelation. |"
+        },
+        {
+          "id": "R22-sharp-fragment-no-physical-cut",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "*Inflicts Lament pressure and one thin, ringing cut. Stop clearing the route by force; leave linguistic fragments separate and remove only nonlinguistic collapse residue under the recorded procedure.*",
+          "new": "*Inflicts Lament pressure and one thin, ringing break in the listener's recall. Stop clearing the route by force; leave linguistic fragments separate and remove only nonlinguistic collapse residue under the recorded procedure.*"
+        },
+        {
+          "id": "R23-speed-floating-not-fixed",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — floating object; drift is not directed locomotion, and activation output is measured per turn |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.023  clean  1082 grams  M.A.W. Equipment\n 0.021  clean   769 grams  감각 묘사 (Flavor Text)\n 0.006  clean   462 grams  기록 (Registrum)\n 0.006  clean   803 grams  Combat Record\n 0.003  clean   658 grams  Activation Behavior\n 0.003  clean   386 grams  관찰 기록 (Observation Log)\n 0.000  clean   918 grams  Warden Record\n 0.000  clean   312 grams  이야기 (Narratio)\n 0.000  clean   256 grams  Appearance\n 0.000  clean   239 grams  Behavior\n 0.000  clean   232 grams  이야기 보고 (Story Log)\n 0.000  clean   232 grams  Trivia\n 0.000  clean   226 grams  Operational Parameters\n 0.000  clean   196 grams  Origin\n 0.000  clean   123 grams  최종 관찰 (Final Observation)\n 0.000  clean    48 grams  증언 (Testimonium)\n 0.000  clean    29 grams  SECC Classification\n 0.000  THIN     11 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   85   5  | { *Every Word Falls Apart* [**Ultimate**] } | \"Every whisper in the tunnel collapses together, and the debris of language buries\n  204   2  **Activation reporting order:** name spoken → who spoke it and in what relation to them → first visible change in the fractures → \n  223   1  **Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to leave a thing unfinished. The strike \n  231   1  **Appearance:** a wrapping shroud of Lament Han-silk with a torn hem that has been left torn — the armoury's standing note on this\n  253   1  **Effect:** +2 Clarity while this piece's source is the subject of the cycle, and nothing at all on any other holding — the set is\n  271   1  | **Before use** | Wielder, piece, and a dated baseline taken by the second worker — how the bearer finishes their own sentences, \n  276   4  **Stat interpretation:** Field performance and human cost are separate axes and the grade only measures the first. An efficient pi\n  278  17  **Full-set source review (2026-10-12):** Reviewed the `I-Relic (Indumentum) · γ (Major)` overview, every local M.A.W. block, Use N\n  303   1  **Observation method:** One transcriber, one timekeeper, and nobody conferring — and the record is kept as a list rather than as a\n  350   1  **Interaction method:** Solo baselines first; without them an interaction study here is two transcripts and a hypothesis. The rela\n  355   7  This holding belongs to a small set of records made from speech that stopped short, and the archive files them together rather tha\n  357   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  363   6  **Interaction procedure:** Take both baselines alone first, bring the two into range along the tunnel rather than across it, and l\n  405   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)\nGENERIC 0.008  (52 shared shingles)  SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-A__SIDE_CODEX_Susurrus.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurruss_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurruss_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurruss_Bell.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-A__SIDE_CODEX_Susurrus.md": "974d1e6c897cff6242541d3af0b350b51c46b75256dba2fcfb1af9ffc1bac93e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurruss_Requiem.md": "52187b215d7ea1cd679fb02c49ac0b84e152b8c27621b1f76929b7b4bf24ae50",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurruss_Shroud.md": "6c3b19f53515d90df98880af81a68c2ff4710187890710d92448453b6a42ff4f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurruss_Bell.md": "81fa0aa797cfea80baf53edbc368b0351cc45a82b477dc577469aaeb255da706"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-369_Broken_Whisper_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md\")]",
+      "table_link": "[[O-IIIγ-369 Broken Whisper](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-369_Broken_Whisper_%EB%B6%80%EC%84%9C%EC%A7%84_%EC%86%8D%EC%82%AD%EC%9E%84.md \"SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 476 lines / 8,980 words, complete direct SE-369-A/B/C/D, Registry rows 631–634, dated full-set source review embedded in the primary and Batch 97 history. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Removed the unsupported Full Collapse +15% and tool timed-damage/+10% resistance claims; the Ultimate now uses the existing 75% activation threshold with false coherence."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "O-IVδ-151",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-151_Border_Tree_스며든_나무.md",
+      "words": 9124,
+      "sha256": "41863b6385f729432a8549a82a375f137eba62fc0a49843be2c382014297b924",
+      "name": "Border Tree",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_03_BORDER_TREE.md",
+      "before_words": 9124,
+      "after_words": 9398,
+      "base": "4f1566c4af2f8a7f597cf8df5146b7da9d315f25",
+      "final_sha256": "028fbb786f6d6d38b519e32e1d962f0a93b87ca4ade62b30297b56c94c56a673",
+      "summary": "HELD +0 — 15 repairs return the Tree to survey time and accountable crossings.",
+      "commentary": "Its most honest measurement is not damage but metres nobody has ever been given back.",
+      "reasoning": "The Tree advances by surveyed metres per year, so seeds, blooms and forests cannot become full-grown in seconds.\n\nStanding on and crossing the line are prescribed acts; hazard begins with unilateral crossing, sealing, fixed installations and unacknowledged boundary changes.\n\nThe walked crossing is an accountable encounter protocol, not proof that the eleven-year political negotiation succeeded.",
+      "history": "Batch 91 already shipped the exact Weapon disposition and Batch 142 shipped a full primary/source review; material forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Subject/Place and City/Outside classification forks. Held.",
+        "Han Pressure 29–64 versus 29–62. Held.",
+        "Bramble Tanto versus Border Root club. Held.",
+        "Root-cut extraction versus withdrawn echo; emergency rescue scope separated but not source-authorized. Held.",
+        "Plate/Charm appearance and cost variants. Held."
+      ],
+      "split": [
+        1,
+        14
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-resilience",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — standing on divided ground without choosing a side |"
+        },
+        {
+          "id": "R02-resistance-two-side-witnesses",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that nothing here is exchanged: the Tree does not duel, it creeps and it grows, and a party resists the pressure of ground going out from under them. |",
+          "new": "| **Resistance** | 45% against Grudge pressure and 35% against anything else; nothing here is exchanged in a duel. The Tree creeps and grows while the party resists ground going out from under them. Work with accountable witnesses on both sides, keep an acknowledged non-hostile crossing open, and resurvey from the same fixed markers; resistance does not authorize sealing a route. |"
+        },
+        {
+          "id": "R03-resolution-walked-crossing",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Negotiate boundaries and acknowledge both sides of the loss |",
+          "new": "| **Resolution Condition** | State the line as it now runs, name people and losses on both sides, and hold one non-hostile crossing open and visibly used in both directions; read severed addresses where the protocol requires and record the condition for lowering any defense. |"
+        },
+        {
+          "id": "R04-fast-seed-projected-footprint",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Fast Seed* [**Debuff**] } | \"A seed lands at your feet — and before you can step away, it is already a sapling, already reaching for your ankle.\" | [The growth rate is turned on a single spot, and the spot is wherever the party is standing.] | *The roots mark the ground as theirs: -1 to movement, and the sapling anchors where it fell.* **[1 Grudge DMG [Grudge]]** | When the party stops moving. |",
+          "new": "| { *The Fast Seed* [**Debuff**] } | \"A seed lands at your feet — and the survey says the roots were already coming for the place you chose to stand.\" | [A fixed station is placed inside the projected footprint and the slow root advance claims its ground.] | *The station's ground is marked unstable: -1 to movement around it. Move the station early, resurvey from fixed markers, and do not cut the roots to recover the position.* **[1 Grudge DMG [Grudge]]** | When a party installs a fixed station or marker inside the projected footprint without a current survey. |"
+        },
+        {
+          "id": "R05-root-network-severance-survey",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Root Network* [**Debuff**] } | \"Roots spread underground — faster than walking — and they are heading for the foundations of everything.\" | [The subterranean line extends under the party's position, and the file records it as a border being drawn beneath their feet.] | *Foundations under the target are undermined: anything built on the ground below records -1 stability.* **[1 Grudge DMG [Grudge]]** | When a severance is published anywhere in Zone E. |",
+          "new": "| { *The Root Network* [**Debuff**] } | \"Roots spread underground — not fast enough to watch, and too surely to ignore.\" | [A new severance extends the subterranean line under foundations, recorded as annual frontage rather than a sudden attack.] | *Foundations record -1 stability. Resurvey both sides from fixed markers, read the newly severed addresses aloud, and keep the existing crossing open while losses are documented.* **[1 Grudge DMG [Grudge]]** | When a severance determination is published anywhere in Zone E. |"
+        },
+        {
+          "id": "R06-branch-unnegotiated-crossing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Whipping Branch* [**Attack**] } | \"A branch grows toward you in real-time — extending, reaching, and whipping.\" | [A limb is grown along the line the party is standing on and used to close it.] | *Inflicts Grudge pressure and one flowering lash-wound.* **[1 Grudge DMG [Grudge]]** | When the marker line is crossed. |",
+          "new": "| { *The Whipping Branch* [**Attack**] } | \"A branch closes across the route you tried to take as though nobody lived beyond it.\" | [A branch-claw grows along the line to block an unnegotiated crossing; it does not pursue beyond the route.] | *Inflicts Grudge pressure and entangles the route. Withdraw to the shared-ground point, let witnesses from both sides confirm the passage, and cross only by the acknowledged route.* **[1 Grudge DMG [Grudge]]** | When a person attempts a unilateral crossing outside the agreed passage or tries to seal the route. |"
+        },
+        {
+          "id": "R07-full-bloom-imposed-boundary",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Bloom* [**Attack**] } | \"The tree reaches full size in seconds — canopy, trunk, root system — and the sudden mass is staggering.\" | [The whole mass arrives at once, and the staggering thing is the ground that is now under it.] | *A heavy Crimson biomass-explosion; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When the boundary is contested. |",
+          "new": "| { *The Full Bloom* [**Attack**] } | \"The canopy darkens along the new line, and every doorway under it suddenly has a country on the other side.\" | [An imposed boundary accelerates growth along roads and doors; the mass is surveyed over the encounter, not created in seconds.] | *Heavy Grudge pressure across the contested frontage; no Gauge Jump is inferred. Suspend unilateral crossing, establish a shared-ground meeting point, document both losses, and negotiate a temporary route rather than forcing roots back.* **[24-36 Grudge DMG [Grudge]]** | When a new border conflict, forced displacement or unacknowledged boundary imposition occurs. |"
+        },
+        {
+          "id": "R08-instant-forest-sealed-crossings-90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Instant Forest* [**Ultimate**] } | \"Trees erupt across the entire field — each one growing to full size in seconds — and the forest consumes everything.\" | [The creep stops being measurable and becomes the ground: the whole field is inside a footprint that arrived in seconds.] | *Every worker in range takes Grudge pressure across 3 turns of instant forest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Instant Forest* [**Ultimate**] } | \"By the next survey the whole field is inside the footprint, and every closed door has become another line.\" | [The cumulative footprint overtakes the field while sealed crossings give the roots new courses; “instant” is the discovery, not the growth rate.] | *Every worker in range takes Grudge pressure across three turns. Open and staff the agreed crossings, walk them in both directions before the trunk, and remove barriers rather than adding a cordon.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90% while crossings are being sealed or new barriers built. |"
+        },
+        {
+          "id": "R09-battle-resolution-shared-passage",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** **Negotiate boundaries and acknowledge both sides of the loss**. The condition is met when the party has stated the line as it now runs, has named what was on each side of the original drawing, and has left without driving a marker of its own into the ground; a cycle that ends with something newly sealed is filed as a border drawn across the Tree, and the file treats that as a provocation, not a result.",
+          "new": "3. **Resolution:** State the line as it now runs, name who and what stood on each side, and hold the agreed crossing open in both directions with witnesses accountable to both sides. The party leaves without driving a marker of its own or sealing a route; the walked crossing settles the encounter without pretending the eleven-year political negotiation has been completed."
+        },
+        {
+          "id": "R10-breach-quote-no-root-cutting",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"Border Tree is through the floor on the east side. Nobody seal anything. Cut at the root, not the limb.\"*",
+          "new": "> *\"Border Tree is through the floor on the east side. Nobody seal anything, nobody cut a root. Open the crossing and walk it both ways.\"*"
+        },
+        {
+          "id": "R11-use-notes-mutual-passage",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "All 3 pieces remain part of the Tree rather than extensions of an arsenal: the tanto raises a barrier and then refuses to let its own wielder back across it, the plate stiffens the wearer at the Tree's pace, and the charm makes every line in a room legible. The toll differs by piece but the shape is one — a bearer who can no longer step over what they drew — and the set is issued per season rather than per rotation for that reason.",
+          "new": "All 3 pieces remain part of the Tree rather than extensions of an arsenal: the tanto raises a barrier and then refuses to let its own wielder back across it, the plate stiffens the wearer at the Tree's pace, and the charm makes every line in a room legible. The toll differs by piece but the shape is one — a bearer who can no longer step over what they drew — and the set is issued per season rather than per rotation for that reason.\n\n**Set resonance — Mutual Passage:** A full-set bearer must name people on both sides, the non-hostile route, and the condition for lowering the defense. The set can then raise a strong barrier against an immediate hostile crossing while preserving the negotiated passage, and the source root rises as a gate rather than a wall. The bearer cannot cross or order another person across the created boundary until both sides confirm the lowering condition; unilateral control binds the bearer to the same line."
+        },
+        {
+          "id": "R12-story2-severance-leaf-fall",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Its leaves fall during border negotiations.",
+          "new": "Leaf-fall is logged against severance determinations, not against negotiation sessions, and no reading has yet shown the advance negotiating back."
+        },
+        {
+          "id": "R13-entanglement-rescue-exception",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "In a breach it sends roots through the floor and binds personnel, and release is by cutting at the root rather than at the limb — a distinction established the hard way and set out in the response card with a diagram. Cutting equipment is staged at the cordon and at each monitoring station, is inspected weekly, and is the only item in the district that the watch is required to count aloud at handover. The counting is done aloud because an item counted silently has twice been counted wrong.",
+          "new": "In a breach it sends roots through the floor and binds personnel. Cutting at the root is retained only to release a bound person; it is never Work, containment or a way to recover ground. Any rescue cut is entered as a new line drawn across the Tree, with its own expansion forecast, and cutting equipment staged at the cordon and stations is inspected weekly and counted aloud at handover because an item counted silently has twice been counted wrong."
+        },
+        {
+          "id": "R14-breach-quote-rescue-only",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "> *\"Border Tree is through the floor on the east side. Nobody seal anything, nobody cut a root. Open the crossing and walk it both ways.\"*",
+          "new": "> *\"Border Tree is through the floor on the east side. Nobody seal anything. Open the crossing and walk it both ways; rescue cuts only for a bound person.\"*"
+        },
+        {
+          "id": "R15-clash-not-out-negotiated",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "2. **Clash:** Over a long twenty-four-turn encounter the party works Viderehan and Ferrehan against 910 points of accumulated grievance while roots come up through the floor behind them; at 45% resistance to its own Grudge pressure the Tree cannot be out-damaged, only out-negotiated.",
+          "new": "2. **Clash:** Over a long twenty-four-turn encounter the party works Viderehan and Ferrehan against 910 points of accumulated grievance while roots come up through the floor behind them; at 45% resistance to its own Grudge pressure the Tree cannot be out-damaged. It is answered by survey, two-side acknowledgement and a used crossing, not by claiming an unexecuted negotiation."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IVδ-151_Border_Tree_스며든_나무.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.016  clean   182 grams  Breach Behavior\n 0.013  clean   149 grams  Operational Parameters\n 0.013  clean   851 grams  M.A.W. Equipment\n 0.005  clean   804 grams  Combat Record\n 0.003  clean  1505 grams  Apex Record\n 0.000  clean   749 grams  감각 묘사 (Flavor Text)\n 0.000  clean   493 grams  이야기 보고 (Story Log)\n 0.000  clean   331 grams  기록 (Registrum)\n 0.000  clean   316 grams  Appearance\n 0.000  clean   315 grams  이야기 (Narratio)\n 0.000  clean   281 grams  Expansion Behavior\n 0.000  clean   261 grams  관찰 기록 (Observation Log)\n 0.000  clean   218 grams  Origin\n 0.000  clean   163 grams  Trivia\n 0.000  clean   160 grams  Behavior\n 0.000  clean   154 grams  최종 관찰 (Final Observation)\n 0.000  clean    33 grams  SECC Classification\n 0.000  clean    31 grams  (preamble)\n 0.000  clean    28 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   84   4  | { *The Instant Forest* [**Ultimate**] } | \"By the next survey the whole field is inside the footprint, and every closed door has\n  189   3  | **Escalation** | Each turn the entity is free, its pressure grows; Resilience drain increases by 5 per turn until suppressed. |\n  240   1  **Cost:** The harness tightens near its source and does not loosen after: the wearer moves at the Tree's own pace, deliberate and \n  268   5  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline laid down by a second person: which side of the marke\n  269   5  | **During use** | The charge presents as a line the bearer stops crossing without noticing: a doorway avoided, a corridor walked \n  462   4  The mediation body asked, in Year 4228, for the smallest of the amendments it has ever proposed: that a visiting owner be permitte\nGENERIC 0.003  (24 shared shingles)  SE-O-IVδ-151_Border_Tree_스며든_나무.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-A__SIDE_CODEX_Border_Tree.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Border_Root.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-C__MAW-S_The_Border_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-D__MAW-G_The_Border_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-A__SIDE_CODEX_Border_Tree.md": "d41f25d88b87ac058a824209c18bd0eed55b81a47453773c202320e0899bd749",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Border_Root.md": "6f979f8105ee4e4bbd733ea479c20f8795eeb21cfd43970711545199c17a79d4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-C__MAW-S_The_Border_Plate.md": "346fc61c2afabc3d007efe84ad898b62561fc7569dfb53c92ff3fec3ea617548",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-D__MAW-G_The_Border_Charm.md": "5c050c8a930a0fcbbddd71acd275b38c659c6509b417b4bccc8c68bf29acd4f3"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IVδ-151_Border_Tree_스며든_나무](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md \"SE-O-IVδ-151_Border_Tree_스며든_나무.md\")]",
+      "table_link": "[[O-IVδ-151 Border Tree](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-151_Border_Tree_%EC%8A%A4%EB%A9%B0%EB%93%A0_%EB%82%98%EB%AC%B4.md \"SE-O-IVδ-151_Border_Tree_스며든_나무.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 491 lines / 9,124 words, complete direct SE-151-A/B/C/D, Registry rows 398–401, Batch 91 Weapon history and Batch 142 full-source review. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Removed the invented 15-point Full Bloom Gauge Jump; the Ultimate now uses the dossier's 90% activation threshold. The 29–64 versus 29–62 Han Pressure fork remains held."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "N-IVδ-315",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md",
+      "words": 9181,
+      "sha256": "1110709c5f6d7c09e3cd4567fe8d6b4eb918406cc006d8d9f229c19cb1298433",
+      "name": "Collapsed Seed",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_04_COLLAPSED_SEED.md",
+      "before_words": 9181,
+      "after_words": 9529,
+      "base": "7095d36f17d71a42ac1275a0ccc09fcef48f8b9e",
+      "final_sha256": "040f4f54159c1b93e4efde93e4533b1a5fa42ea43ddd40bd8598435ed7124d83",
+      "summary": "HELD +0 — 20 repairs protect the unknown by refusing to force it into a form.",
+      "commentary": "The file’s discipline is to preserve a negative finding with the same care as a discovery.",
+      "reasoning": "Potential is not consent to force emergence: contact, crushing, pruning, planting and sorrow-water are the hazardous acts, while waiting is the work.\n\nViderehan images are hypothetical and change by observer; the Clarity failure is narrating an intended form as fact.\n\nDry unplanted containment and the spoken negative finding are both required; neither replaces the other.",
+      "history": "Batch 97 shipped exact equipment review and the primary carries a 2026-10-12 full-set source review; material forks remain. HELD +0, no fresh Types, Weapon or SE credit.",
+      "holds": [
+        "Sacrificial stored substrate versus growth-medium-absent source rule. Held.",
+        "Shard extraction versus cooled tear echo. Held.",
+        "Push dagger versus blade and naming variants. Held.",
+        "Piece cost accounts. Held.",
+        "Intended form and negligence remain unknown. Held."
+      ],
+      "split": [
+        6,
+        14
+      ],
+      "repairs": [
+        {
+          "id": "R01-movement-root-haul",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — hauls itself on wet root-limbs at 0.4 m/min over bare panel and roots into surfaces it rests against. |"
+        },
+        {
+          "id": "R02-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — resisting the urge to declare what the unknown form would have been |"
+        },
+        {
+          "id": "R03-vessel-no-crush",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No authorized destruction route — never crush, open or strike the source shell |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-tool-no-wearing",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Use Mode** | **Equippable / mounting use** |",
+          "new": "| **Use Mode** | **Dry, unplanted containment worked from outside the line — never equipped or worn** |"
+        },
+        {
+          "id": "R06-tool-activation-no-body",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |",
+          "new": "| **Activation** | Planting the Seed or watering it with sorrow. No operator takes it onto the body. |"
+        },
+        {
+          "id": "R07-resistance-dry-unplanted",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Lament pressure, 35% against every other kind |",
+          "new": "| **Resistance** | 45% against Lament pressure, 35% against every other kind. Resistance is not permission for contact: keep the shell dry and unplanted, tears and growth medium absent, panels timed before visual inspection, and any hypothetical form recorded as hypothetical. |"
+        },
+        {
+          "id": "R08-resolution-dry-negative-finding",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | The worker states aloud what the inquiry looked for and failed to find, and the Sorrow Gauge falls below 25% |",
+          "new": "| **Resolution Condition** | Lift the Seed clear of every rootable medium, restore dry unplanted containment without supplying a desired form, state aloud what the inquiry looked for and failed to find, and lower the Sorrow Gauge below 25%. |"
+        },
+        {
+          "id": "R09-hollow-shell-contact-breach",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Hollow Shell* [**Debuff**] } | \"The seed is caved in — hollow — and the echo of what it could have been aches.\" | [The Seed's collapsed shell resonates with the target's own failed potential.] | *Target suffers -10 Composure; they feel every unlived possibility.* **[10 Lament DMG [Lament]]** | When the target holds the Seed. |",
+          "new": "| { *The Hollow Shell* [**Debuff**] } | \"The seed is caved in — hollow — and the echo of what it could have been aches.\" | [A prohibited contact lets the collapsed shell resonate with the worker's own failed potential.] | *The worker suffers Clarity pressure. End contact at once, lift the contacted panel clear, and record the breach without naming an intended form.* **[10 Lament DMG [Lament]]** | When a worker breaches the contact prohibition and handles the shell or attached root material. |"
+        },
+        {
+          "id": "R10-withered-core-form-narration",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Withered Core* [**Debuff**] } | \"Inside the collapsed shell, the core is dry and dead — and it is worse than empty.\" | [The Seed's dead interior emanates grief for what never grew.] | *Target loses 10 Composure; the dead potential is contagious.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Withered Core* [**Debuff**] } | \"Inside the collapsed shell, the core is dry and dead — and it is worse than empty.\" | [The worker remains at the gallery to narrate what the unknown life would have become, and the invented form takes hold.] | *The worker loses Clarity. A partner stops the narration, verifies name/body/current intention, and records only that narration occurred—not its content.* **[10 Lament DMG [Lament]]** | When a worker lingers to assign or describe the Seed's intended form. |"
+        },
+        {
+          "id": "R11-shell-shard-force-drives-roots",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Shell Shard* [**Attack**] } | \"A piece of the collapsed shell breaks free — dry, sharp, and carrying the bitterness of failure.\" | [A shard of collapsed seed-husk launches.] | *Inflicts Lament pressure and one small, bitter wound.* **[14-22 Lament DMG [Lament]]** | When the Seed is squeezed. |",
+          "new": "| { *The Shell Shard* [**Attack**] } | \"A piece of the collapsed shell breaks free — dry, sharp, and carrying the bitterness of failure.\" | [Force at the shell drives roots outward and accelerates the partial pressure at the split; no shard is treated as a safe projectile or sample.] | *Inflicts Lament pressure along the root path. Stop all force, do not strike the source shell, lift affected panels clear, and separate only roots already detached from the shell.* **[14-22 Lament DMG [Lament]]** | When the shell is struck, squeezed, pruned or otherwise forced. |"
+        },
+        {
+          "id": "R12-full-implosion-additional-crushing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Implosion* [**Attack**] } | \"The collapse finishes, and every wall of the shell comes inward in the same breath.\" | [The Seed completely falls apart and lets out the grief it was holding.] | *A heavy Deep Blue implosion; the meter climbs 15%.* **[24-36 Lament DMG [Lament]]** | On crushing the Seed. |",
+          "new": "| { *The Full Implosion* [**Attack**] } | \"The split draws inward — and the unknown pressure answers by trying harder to get out.\" | [Additional crushing begins a catastrophic partial-manifestation surge; the shell is not safely destroyed or emptied.] | *Heavy Lament pressure; no meter percentage is inferred. Remove the Seed from every growth medium, restore dry unplanted containment, and do not supply soil, sorrow-water or a desired form.* **[24-36 Lament DMG [Lament]]** | When additional crushing force is applied to the source shell. |"
+        },
+        {
+          "id": "R13-failed-harvest-planted-at-90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Failed Harvest* [**Ultimate**] } | \"The whole field of seeds goes down at once, every one of them over before it started.\" | [The Seed carries its failure out across the whole area.] | *Everyone in range takes Lament pressure for three turns where nothing came up.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the gauge passes 65%. |",
+          "new": "| { *The Failed Harvest* [**Ultimate**] } | \"Nothing in the chamber finishes becoming — and everything nearby is asked to carry the stopping point.\" | [A planted or sorrow-watered Seed projects its arrested partial manifestation across the chamber.] | *Everyone in range takes Lament pressure for three turns. Lift the Seed clear, remove every growth medium, keep tears off the shell, and record all seen forms as hypothetical.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90% while the Seed is planted, sorrow-watered or in contact with growth medium. |"
+        },
+        {
+          "id": "R14-battle-resolution-dry-unplanted",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The session closes on a second timed pulse and the documented condition: **the worker states, aloud and on the record, what the inquiry into this entity looked for and failed to find.** The naming is the management act. Two inquiries have been mounted and both failed; the holding's position is that the failure must be spoken in the room rather than filed and forgotten, and that a worker who cannot say what was not found should not be working the chamber.",
+          "new": "3. **Resolution:** The session closes on a second timed pulse, dry unplanted containment, and the documented condition: **the worker states, aloud and on the record, what the inquiry into this entity looked for and failed to find.** No desired form is offered in its place. Two inquiries failed; the negative finding must be spoken in the room rather than filed and forgotten, and a worker who cannot say what was not found should not be working the chamber."
+        },
+        {
+          "id": "R15-breach-movement-no-charge",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Movement** | Collapsed Seed breaks loose and charges, thrashing. It plants itself in personnel, growing within. |",
+          "new": "| **Movement** | It hauls itself at the recorded root-limb rate toward rootable surfaces. Roots may reach personnel in its path and attempt internal planting; it does not charge or pursue as a hunting creature. |"
+        },
+        {
+          "id": "R16-use-notes-no-germination",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "All three pieces are δ-grade, all three are held in the panel store rather than the armoury proper, and none of the three has ever been taken past the containment line. They share one property that the ledger records and does not explain: each of them acts on things the user did not finish. The dagger shows them finished, the shroud removes the wish to start anything, and the core-stone grows a shelter out of the user's remaining sense of what is still possible. The wing's note is that this is the most coherent M.A.W. set it holds and the least useful in the field.",
+          "new": "All three pieces are δ-grade, all three are held in the panel store rather than the armoury proper, and none of the three has ever been taken past the containment line. They share one property that the ledger records and does not explain: each of them acts on things the user did not finish. The dagger shows them finished, the shroud removes the wish to start anything, and the core-stone grows a shelter out of the user's remaining sense of what is still possible. The wing's note is that this is the most coherent M.A.W. set it holds and the least useful in the field.\n\n**Set resonance — No Germination Required:** The Core may grow only around the bearer, the Shroud separates that growth from identity, and the Requiem targets only roots already detached from the source shell. Together they can hold a partial-manifestation surge without planting Unsprouted Life or declaring its intended form. Future memories feed the barrier; supplying soil, sorrow-water or a desired form turns protection into germination and makes the team the growth medium. Correct use slows the shell’s pressure without opening it further."
+        },
+        {
+          "id": "R17-operational-no-pruning",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- The shoots are wet and continue to erupt from the split regardless of pruning. Chamber drainage is cleared every cycle because the blue sap sets hard.",
+          "new": "- The shoots are wet and continue to erupt from the split. They are not pruned: the contact prohibition covers tools, instruments and protective equipment, and chamber drainage is cleared every cycle because the blue sap sets hard."
+        },
+        {
+          "id": "R18-breach-type-no-charge",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "- **Breach type:** Escape. It charges, it thrashes, and it plants itself in personnel and grows there, which is the only recorded instance in the wing of an entity using a worker as a medium rather than a target.",
+          "new": "- **Breach type:** Escape. It hauls itself toward rootable surfaces at the recorded rate and may plant itself in personnel it reaches, which is the only recorded instance in the wing of an entity using a worker as a medium rather than a target."
+        },
+        {
+          "id": "R19-flavor-unknown-shape",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "The Seed lies split open like a heart pressed into the ground. Blue tears run from the crack, and something inside pushes once, then becomes still. You feel the sorrow of a future that had a shape but never received a life.",
+          "new": "The Seed rests split open like a heart against the panel. Blue tears run from the crack, and something inside pushes once, then becomes still. You feel the sorrow of a future approaching a shape no record can name, interrupted before it received a life."
+        },
+        {
+          "id": "R20-recognition-no-pruning",
+          "kind": "careful recognition correction",
+          "careful": true,
+          "old": "- **Recognition detail:** Identify it by the pulse and the panels, not by the shape. The shell is dark crystal, split, leaking blue sap, and wrapped in thick wet shoots that keep erupting through the split regardless of pruning; descriptions of it vary with how much of the shoot mass is visible that week, which is why the holding identifies on a timed rate instead.",
+          "new": "- **Recognition detail:** Identify it by the pulse and the panels, not by the shape. The shell is dark crystal, split, leaking blue sap, and wrapped in thick wet shoots that keep erupting through the split without being pruned; descriptions of it vary with how much of the shoot mass is visible that week, which is why the holding identifies on a timed rate instead."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.031  clean   874 grams  M.A.W. Equipment\n 0.005  clean   730 grams  Combat Record\n 0.005  clean   184 grams  Behavior\n 0.000  clean   976 grams  이야기 보고 (Story Log)\n 0.000  clean   689 grams  Apex Record\n 0.000  clean   688 grams  감각 묘사 (Flavor Text)\n 0.000  clean   586 grams  Activation Behavior\n 0.000  clean   386 grams  기록 (Registrum)\n 0.000  clean   327 grams  이야기 (Narratio)\n 0.000  clean   318 grams  Trivia\n 0.000  clean   317 grams  Appearance\n 0.000  clean   275 grams  관찰 기록 (Observation Log)\n 0.000  clean   263 grams  Origin\n 0.000  clean   206 grams  Breach Behavior\n 0.000  clean   141 grams  Operational Parameters\n 0.000  clean   124 grams  최종 관찰 (Final Observation)\n 0.000  clean    60 grams  증언 (Testimonium)\n 0.000  clean    31 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   85   4  | { *The Failed Harvest* [**Ultimate**] } | \"Nothing in the chamber finishes becoming — and everything nearby is asked to carry th\n  148   1  **Reading the response:** A falling gauge means the worker waited without forcing anything, which is the whole of what Ferrehan as\n  247   1  **Appearance:** a wrapping shroud of Lament Han-silk, cold to the touch and faintly luminous, holding a thin trace of where it cam\n  294  26  **Full-set source review (2026-10-12):** Reviewed the `— · δ` grade overview, all three local M.A.W. blocks, Use Notes, Field Use \nGENERIC 0.004  (32 shared shingles)  SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-A__SIDE_CODEX_Unsprouted_Life.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-B__MAW-W_Unsprouted_Life_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-C__MAW-S_Unsprouted_Life_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-D__MAW-G_Unsprouted_Life_Core.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-A__SIDE_CODEX_Unsprouted_Life.md": "d6b261e2eef60005e0d80aaa9275c1019c875da86de785faa4deb1c5c7701691",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-B__MAW-W_Unsprouted_Life_Requiem.md": "022223ecbf8185b9f56ed74b080154766c258980b54acdf00f550116f239c721",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-C__MAW-S_Unsprouted_Life_Shroud.md": "3fc302080c75ada0e5c1ae5b9c5a73d674cd761c706b4b3bbf741225cb0de5da",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-315-D__MAW-G_Unsprouted_Life_Core.md": "43206a869b798ed1c542542ff12a4f09ac2f617bbcb69497cbbe36c25d1897dc"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-315_Collapsed_Seed_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%94%A8%EC%95%97.md \"SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md\")]",
+      "table_link": "[[N-IVδ-315 Collapsed Seed](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-IV%CE%B4-315_Collapsed_Seed_%EB%AC%B4%EB%84%88%EC%A7%84_%EC%94%A8%EC%95%97.md \"SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 490 lines / 9,181 words, complete direct SE-315-A/B/C/D, Registry rows 599–602, Batch 97 equipment history and dated full-set source review in the primary. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Removed the invented Full Implosion 15% meter climb; the Ultimate now uses the existing 90% threshold plus planting/sorrow-water/growth-medium contact."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "C-Vγ-320",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md",
+      "words": 9223,
+      "sha256": "9631219c4bde9bdc42b71b7d8e49b2fed665fd62d15922739d8de77bcea5c5b6",
+      "name": "Sorrow Storm",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_05_SORROW_STORM.md",
+      "before_words": 9223,
+      "after_words": 9509,
+      "base": "cd9a0e019ab51cd86f21d65ff14a77d64ab7dcd4",
+      "final_sha256": "236c6942e9630bec7cc27b44820727a44cd84e754815f7d794a6f4dc15a2e6bd",
+      "summary": "HELD +0 — 16 repairs make shelter, confirmation and passage—not victory—the success condition.",
+      "commentary": "The city survives by admitting that weather made of unacknowledged grief cannot be out-argued.",
+      "reasoning": "The Storm is not an enemy body: Viderehan tracks remotely, Ferrehan shelters and rotates, and resolution is passage rather than defeat.\n\nOne station is no station; harmful exposure follows unconfirmed readings, missed shelter and treating lowest pressure as safety.\n\nEquipment can clear fallen load and move people under temporary shelter, but aiming at clouds or using Shield as a dam collapses the corridor.",
+      "history": "No earlier unit shipment was found, but held +0 is required because the primary and exact items materially disagree on equipment origin and Maul/Shield function. No fresh Types, Weapon or SE credit is claimed.",
+      "holds": [
+        "Shelter-hardware/barometer origins versus post-Storm hail/bestowal. Held.",
+        "Maul and Shield ability/binding variants. Held.",
+        "Formation mechanism and prevention remain unresolved. Held.",
+        "Sorrow Storm versus Unwept Storm naming. Held."
+      ],
+      "split": [
+        6,
+        10
+      ],
+      "repairs": [
+        {
+          "id": "R01-movement-forming-spreading",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Stationary — a place or zone; spreads rather than moves. |",
+          "new": "| **Movement** | Forming phenomenon — does not travel as a body; forms over the city and spreads rapidly along connected Han flows. |"
+        },
+        {
+          "id": "R02-speed-not-fixed-object",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — no body or heading; onset and boundary are measured by the full pressure ring per turn |"
+        },
+        {
+          "id": "R03-pressure-resolve",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — remaining able to shelter, account and act under accumulated city Weight |"
+        },
+        {
+          "id": "R04-vessel-no-body",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — no body or vessel; shelter until the Storm passes |"
+        },
+        {
+          "id": "R05-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R06-charm-resolve-bonus",
+          "kind": "short equipment correction",
+          "careful": false,
+          "old": "**Effect:** +2 to the working stat, and the bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking.",
+          "new": "**Effect:** +2 Resolve during source work, and the bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking."
+        },
+        {
+          "id": "R07-resistance-shelter-ring",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Weight pressure; 35% against other pressure types |",
+          "new": "| **Resistance** | 45% against Weight pressure; 35% against other pressure types. Resistance is a shelter statistic, not a route into the wall: observe remotely, confirm every figure across the full ring, shelter by floor, account for people by name before archives, rotate Ferrehan crews, and keep discharge routes running. |"
+        },
+        {
+          "id": "R08-gathering-clouds-ring-minimum",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Gathering Clouds* [**Debuff**] } | \"The pressure drops — and you feel every sorrow in the city pressing down with it.\" | [The Storm gathers overhead; the air thickens with weight.] | *Target suffers -10 Resolve under the falling pressure.* **[10 Weight DMG [Weight]]** | When the Storm forms. |",
+          "new": "| { *The Gathering Clouds* [**Debuff**] } | \"The pressure drops — and you feel every sorrow in the city pressing down with it.\" | [Ring pressure falls for days before the black ceiling is visible; the air thickens with accumulated Weight.] | *Personnel in the affected wards suffer Resolve pressure. Sound the sirens only on full-ring confirmation, shelter by floor, and begin the named roll-call; do not enter the forming wall for data.* **[10 Weight DMG [Weight]]** | When ring pressure remains below the standing minimum for three consecutive quarter-hours. |"
+        },
+        {
+          "id": "R09-first-gust-open-exposure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Gust* [**Debuff**] } | \"The wind comes — and it carries old grief like grit.\" | [A gust of sorrow-laden wind buffets the target.] | *Target loses 10 Resolve; the wind will not let them stand straight.* **[10 Weight DMG [Weight]]** | When the target stands in the open. |",
+          "new": "| { *The First Gust* [**Debuff**] } | \"The wind comes — and it carries old grief like grit.\" | [The first sorrow-laden gust catches personnel still outside the shelter line.] | *Exposed personnel lose Resolve and cannot stand straight under the gust. Move immediately to the nearest staffed shelter by the lowest-pressure checked route; lowest pressure is not called safe.* **[10 Weight DMG [Weight]]** | When personnel remain in the open after the shelter order. |"
+        },
+        {
+          "id": "R10-hail-active-crystal-rain",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Hail* [**Attack**] } | \"The hail falls — each stone a condensed, heavy sorrow.\" | [Weighted hail hammers down across the area.] | *Inflicts Weight pressure and one bruising wound.* **[14-22 Weight DMG [Weight]]** | When the Storm is roused. |",
+          "new": "| { *The Hail* [**Attack**] } | \"The hail falls — each stone a condensed, heavy sorrow.\" | [Dark crystal rain and fallen Weight masses hammer the exposed route during an active wall; the Storm has not been “roused” by the crew.] | *Inflicts Weight pressure and bruising exposure. Keep the group moving under monitored shelter, clear only fallen load from the evacuation line, and never aim a Maul or discharge at the cloud layer.* **[14-22 Weight DMG [Weight]]** | When crystal rain is falling on personnel outside adequate shelter during an active wall. |"
+        },
+        {
+          "id": "R11-eye-false-clear-no-intent",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Eye* [**Attack**] } | \"The ring reads a false clear, one station against the others, and the crew that acts on it is the crew the wall was waiting for.\" | [The apparent lull before the passage, recorded once in the file at a price the wall inscription still carries.] | *24–36 Weight to whoever is caught outside the shelter line. Since the false-clear the rule has been that one station is no station and every figure is confirmed across the full ring before it is reported upward.* **[24-36 Weight DMG [Weight]]** | When a ring reading is acted on before it is confirmed across all stations. |",
+          "new": "| { *The Eye* [**Attack**] } | \"The ring reads a false clear, one station against the others, and the crew that acts on it walks back under a wall that never left.\" | [An unconfirmed local lull is mistaken for passage; the Storm has no intent and was not waiting.] | *Heavy Weight falls on whoever left the shelter line. One station is no station: confirm pressure across the full ring and resume only in stages on the ring's word.* **[24-36 Weight DMG [Weight]]** | When a single-station clear reading is acted on before confirmation across all stations. |"
+        },
+        {
+          "id": "R12-full-tempest-confirmed-wall",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Tempest* [**Ultimate**] } | \"The whole storm breaks at once, and the city finds out what it has been holding.\" | [The passage runs to its full length: a wall of one night to nine days, crystal rain across every zone, and every other holding in the city pressing harder on its own containment.] | *12–20 Weight per turn for three turns to everyone in the affected wards. The 1,102nd cycle wall ran nine days and filled three reservoirs with undiluted Flerehan; the 1,701st lasted one night.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | On a wall, when the standing minimum has fallen below three consecutive quarter-hours and the shelters are full. |",
+          "new": "| { *The Full Tempest* [**Ultimate**] } | \"The whole storm breaks at once, and the city finds out what it has been holding.\" | [A confirmed wall runs at full citywide pressure for one night to nine days, with crystal rain in every zone and other holdings pressing harder on containment.] | *All affected wards take Weight pressure for three turns. Secure people before archives, maintain discharge routes, rotate sheltered crews, and expect structural damage and new crystallizations after passage; shelter is success, not defeat of the weather.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 75% during a full-ring-confirmed wall. |"
+        },
+        {
+          "id": "R13-use-notes-shelter-until-clear",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The three pieces are storm salvage and they say so: the maul and the harness are cut from shelter hardware that survived a passage, and the twenty-two charms are struck one each from a barometer that failed on Storm duty, every one carrying its instrument's last reading on the back. What they give is listed above. What they take is always weight — the maul in the arm, the harness in its own mass as it absorbs, the charm in the bearer's speed — and the Armoury's bookkeeping puts the cost against the wielder rather than the piece because that is where it presents.",
+          "new": "The three pieces are storm salvage and they say so: the maul and the harness are cut from shelter hardware that survived a passage, and the twenty-two charms are struck one each from a barometer that failed on Storm duty, every one carrying its instrument's last reading on the back. What they give is listed above. What they take is always weight — the maul in the arm, the harness in its own mass as it absorbs, the charm in the bearer's speed — and the Armoury's bookkeeping puts the cost against the wielder rather than the piece because that is where it presents.\n\n**Set resonance — Shelter Until Clear:** The Charm identifies an evacuation route and shelter overload, the Shield covers people while they keep moving, and the Maul acts only on fallen load blocking that route. Together they can hold a temporary corridor below critical Weight long enough for evacuation while the Storm continues around it. The set cannot stop weather or make permanent shelter: turning the Maul toward the clouds, treating the Shield as a static dam, or waiting for zero pressure overloads all three. The Storm still passes on city grief conditions, not operator success."
+        },
+        {
+          "id": "R14-detailed-position-boundary",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Position / movement** | Stationary — a place or zone; spreads rather than moves. Posture and distance are logged because on Sorrow Storm neither has ever been assumed. |",
+          "new": "| **Position / movement** | No body, posture or heading. Log the affected boundary, full-ring pressure, River gauge, onset watch and zones under the wall; the phenomenon forms in place and spreads along connected Han flows. |"
+        },
+        {
+          "id": "R15-story2-veil-instrument-record",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "It can cross the Veil temporarily.",
+          "new": "Both Veil crossings are instrument records, not sightings, and neither is treated as a route or an all-clear."
+        },
+        {
+          "id": "R16-marginalia-storm-charm-name",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Storm work is the only Directorate discipline that treats grounding as a spiritual practice. Crews working under the wall maintain physical contact with earthed structures, recite the pressure figures aloud at intervals, and log their own heart rates alongside the barometers — because the Storm presses on bodies as well as buildings, and a crew that cannot distinguish its own dread from the pressure's weight cannot be trusted with either. The Storm's Stigma, the Keystone Heart, grants exactly this discrimination: bearers feel pressure as information rather than fear. Its cost is weight — bearers move slowly, speak slowly, and are excused from all duties requiring haste, which they do not mind, because haste under the wall is how people die.",
+          "new": "Storm work is the only Directorate discipline that treats grounding as a spiritual practice. Crews working under the wall maintain physical contact with earthed structures, recite the pressure figures aloud at intervals, and log their own heart rates alongside the barometers — because the Storm presses on bodies as well as buildings, and a crew that cannot distinguish its own dread from the pressure's weight cannot be trusted with either. The Storm Charm supports exactly this discrimination: bearers read falling pressure as information rather than dread and can identify overload or a lower-pressure direction, never a guaranteed safe route. Its cost is weight — bearers move slowly, speak slowly, and are excused from all duties requiring haste, which they do not mind, because haste under the wall is how people die."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.033  clean   152 grams  Trivia\n 0.018  clean   113 grams  Operational Parameters\n 0.006  clean   823 grams  Combat Record\n 0.006  clean   664 grams  M.A.W. Equipment\n 0.004  clean   569 grams  감각 묘사 (Flavor Text)\n 0.000  clean  2534 grams  Sovereign Chronicle\n 0.000  clean   354 grams  이야기 (Narratio)\n 0.000  clean   324 grams  기록 (Registrum)\n 0.000  clean   291 grams  Expansion Behavior\n 0.000  clean   251 grams  이야기 보고 (Story Log)\n 0.000  clean   224 grams  Behavior\n 0.000  clean   219 grams  Appearance\n 0.000  clean   180 grams  관찰 기록 (Observation Log)\n 0.000  clean   156 grams  Origin\n 0.000  clean   117 grams  Sovereign Manifestation Log\n 0.000  clean    83 grams  최종 관찰 (Final Observation)\n 0.000  clean    76 grams  City-Scale Impact & Directorate Posture\n 0.000  clean    53 grams  증언 (Testimonium)\n 0.000  clean    44 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 45% against Weight pressure; 35% against other pressure types. Resistance is a shelter statistic, not a route i\n   85   4  | { *The Full Tempest* [**Ultimate**] } | \"The whole storm breaks at once, and the city finds out what it has been holding.\" | [A \n  195   3  **Appearance:** a heavy two-handed maul of Weight Han-steel, matte and bank-heavy, struck from the counterweight of a shelter door\n  211   1  **Appearance:** a shield-backed harness of Weight Han-steel, matte and unnaturally heavy, built around the plate of a shelter shut\n  333   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  458   1  The observatory readers made the application themselves, which is unusual for instrument staff and is recorded as such. They asked\n  478   5  - **Field detail:** Its defining element is Weight, and its registered location is All zones — periodic phenomenon.\nGENERIC 0.003  (19 shared shingles)  SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-A__SIDE_CODEX_Unwept_Storm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-B__MAW-W_The_Storm_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-C__MAW-S_The_Storm_Shield.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-D__MAW-G_The_Storm_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-A__SIDE_CODEX_Unwept_Storm.md": "e4a42dfc5710061113516578904d07be4fab5e76af9c8fc02ea609c2ff542e9a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-B__MAW-W_The_Storm_Maul.md": "d0109feb74e2d48e6cf50ccc1f63300cb092cc411e57cdcdf29fed3806349f4b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-C__MAW-S_The_Storm_Shield.md": "58d1afaf3b640d2bb4fadd76fa137bfe8118e10c3eb7c20ac16e35fceec2d510",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-320-D__MAW-G_The_Storm_Charm.md": "6fd24eb7d52864c9b3782d8562c2efffe2abc513c14317d3e1122bab9bfe6d1e"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B3-320_Sorrow_Storm_%EC%8A%AC%ED%94%94%EC%9D%98_%ED%8F%AD%ED%92%8D.md \"SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md\")]",
+      "table_link": "[[C-Vγ-320 Sorrow Storm](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-V%CE%B3-320_Sorrow_Storm_%EC%8A%AC%ED%94%94%EC%9D%98_%ED%8F%AD%ED%92%8D.md \"SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md\")]",
+      "reading": "R-34 source chain: complete frozen primary at 485 lines / 9,223 words, complete direct SE-320-A/B/C/D and Registry rows 607–610. No earlier shipment history was found in CHANGELOG. All tables parsed equally and all five Trigger cells read under Trigger.",
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 5,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The Charm bonus is now the exact +2 Resolve during source work; no unsupported Gauge surge was present or introduced."
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "designation": "C-IIβ-775",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-775_Cleaved_찢어진_탑.md",
+  "words": 7327,
+  "sha256": "dea1055e15b771ece48eb3760c53f6048fea97b52c80003b1f2caf85c644355e",
+  "unit": 4,
+  "name": "Cleaved",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_04_CLEAVED.md",
+  "before_words": 7327,
+  "after_words": 7499,
+  "base": "fba4aacd41cf1d1e93c3e17e5cc120aa4299d8eb",
+  "final_sha256": "08fe72c328b1a5467858868f7641fe1f1d292f8eff7e08c2da81f9d0bf3ab1ee",
+  "summary": "Eight supported repairs bring leftover combat and toll grammar back to this holding's own instruments — the height, the bearing and the register: the Valid Work Types row no longer lists Pugnahan the file has barred since the second cycle; The Falling Masonry no longer hurls an aimed block at a target from a figure that 'goes for skylines and not for people' and whose pressure is a clarity drain — it leans, and the names go in order; the two generic consequences bullets (a stacked emotional/bodily/self/ground quadruple and the intimate-memories/sensation/years triad) are replaced by the ordered name-loss, the underneath-something casualty rule and the set's three recorded tolls; the Detailed movement row stops saying 'can breach and pursue' of a figure that has never once pursued anybody; the codices' terminal 'bearer becomes a new site' career is set against the works register that assigns sites and is not the bearer's to amend; field-use signs are priced by piece; and the template activation paragraph ('becomes realer… the Void is operational') is replaced by the lean and the name-loss interval. Whole design HELD; +0 Types / +0 Weapon / +0 SE.",
+  "commentary": "The compilers' objection is the best sentence in this batch so far, recorded as correct and unanswered: the Company abolished cancellation so no promise could ever be quietly withdrawn, and has thereby arranged that 806 promises it knows to be dead must be kept alive forever. This entity's height is proportional to that number — 31, 44, 58 metres against a design it will never finish. A containment file whose monster is an open register entry deserves tools that match: a theodolite and a nil return.",
+  "reasoning": "R-33 chain: Subject-Grudge / Echo-II / Moderate-β / Void → a tower scheme approved, begun, then emptied of its architect and crews and suspended by a Company that does not cancel → the gap between the imagined tower and the skeleton given form: a cloven tower-figure, seam and lean-bearing constant, height changing at every survey → breach walks to the tallest standing structure and leans; Void takes names of what is looked at, faces last; containment is a theodolite station, a period street plan and the register's standing → the resolution (do not complete; document) forbids both building and demolition → equipment lenses/veils/keystones carry the clarity drain and the plan-holding residue. Repairs remove hand-thrown masonry, pursuit and template tolls the chain cannot carry; the week-versus-months disappearance, disc-versus-scope weapon body and Cleaved-versus-Torn-Tower naming strata remain HELD.",
+  "history": "Batch 125 supplement 11154c1 already dispositioned pair SE-775-B / MAW-W-775-01, and Batch 126 unit 1 (c9fb9a1, with f1d7ad3 and 6d4ce20 readbacks) performed the full-SE careful-detail review — SE-775-A–D 4/4, Registry rows 863–866, Master Entries 175–177 (detail 2800), Entity Codex row 423, Tale 59, archetype MAW-W-775, disposition row 209 — counted once inside the ledger legacy baseline; the Batch 126 close states Cleaved775 is 'already counted and not recounted'. B183 therefore earns +0 Types / +0 Weapon; HELD earns +0 SE.",
+  "holds": [
+    "Two disappearances stand side by side: the primary's Origin has the architect and crews gone 'inside a week', works suspended 'the following month'; Tale 59 removes them one by one over months of construction, to the Han, the Frays and quiet collection, with the Council withdrawing funding after the stall. The Honest Register and Watch Record carry the administrative aftermath; no source chooses between the week and the months, so neither does this review.",
+    "The weapon agrees on statistics everywhere (Void 5–9 / Speed 2 Normal / Range 2 Short / Single / max 4 / 25 Echoes) and on nothing about its body: primary disc of Void Han-glass that vanishes against a wall; archetype MAW-W-775 a surveyor's scope tube on a tripod at Long, floors solid-to-ghost with NOTED/LOST calibration; item B names only an instrument channeling the source's void signature; Master Entry 175 gives neither disc nor scope. No repair imports a body.",
+    "The Keystone's two accounts stay parallel: primary eleven keystones, each cut from a foundation stone of a suspended works, scheme number on the reverse, head slot, 5%, unnamed +1 working stat and two incompatible plans held 'for about a day'; item D bestowed at 5% with '+1 stat bonus when working the source entity' and no physical description of the stone. Whether the eleven are the bestowal's population, and whether the +1 is source-scoped, remain open; Master registers the stigma under Floating Orbs & Coronets against Registry's Accessory.",
+    "Naming strata stay split (primary and Registry: Cleaved; Master Entries 175–177, Entity Codex row 423 and Tale 59: The Torn Tower), and the older Registrum stratum — Zone A, Low, a flicker — was already reconciled in-file as a transcription error and is preserved as such. Activation arithmetic remains parallel: counter 3 counting down, Core ≥ 60%, Ultimate 65% or any completed structure, breach opening at 40% and taking 10 per structure leant on. The predation posture ('Subject — Can breach' / SECC 'can breach and pursue') stays against 'never once pursued anybody' and 'goes for skylines and not for people'; only the Detailed profile row was aligned to the operational record.",
+    "The equipping codices' general career — first-person ownership, the item repeating the source response outside contact, the manifestation using the bearer as its new site — remains the side files' doctrine, not this primary's: the primary's equipment record runs on route, height and register, and assignments change only on the register. Neither stratum was edited into the other; the primary's old sentence that welded them was replaced, not the codices."
+  ],
+  "split": [
+    6,
+    2
+  ],
+  "repairs": [
+    {
+      "id": "valid_work_types",
+      "kind": "short",
+      "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+      "new": "| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan remains in the response table because it was tried; it has been barred since the second cycle and the bar has held. |"
+    },
+    {
+      "id": "falling_masonry_row",
+      "kind": "careful-detail",
+      "old": "| { *The Falling Masonry* [**Attack**] } | \"A block tears free from the wall and falls — heavy, jagged, aimed.\" | [A chunk of torn tower strikes the target.] | *Inflicts Void damage; a piece of structure tears away.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower is shaken. |",
+      "new": "| { *The Falling Masonry* [**Attack**] } | \"It does not throw anything. It leans, and the city's masonry is what falls.\" | [The figure takes its weight against a standing structure; the Void lands as the names going in order — the street first, then the building's.] | *Inflicts Void pressure on everyone in the lean's shadow; names before bodies, and every casualty on the record was underneath something.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tower leans against a standing structure. |"
+    },
+    {
+      "id": "consequences_site_stack",
+      "kind": "short",
+      "old": "- Extended contact brings the whole site down on a worker at once: acute emotional erosion, bodily trauma, the loss of who they are, or a corruption of the ground beneath them that nothing has cleared since. None of these carries an end date, because the scheme has none either — nobody has ended it.",
+      "new": "- Extended contact is not a stack of separate harms: the names go in order — what is being looked at, what the worker came for, faces last — and any bodily harm on this holding has come from standing underneath something the figure has taken its weight against. None of it carries an end date, because the scheme has none either — nobody has ended it."
+    },
+    {
+      "id": "consequences_toll_triad",
+      "kind": "short",
+      "old": "- Taking up any item in the set is never free. The wielder pays in intimate memories, in physical sensation and in years of life; and the equipment schedule puts that in writing; the field is where the bill is actually settled.",
+      "new": "- Taking up any item in the set is never free. The recorded tolls are the set's own — a small nameless memory each use, a wearer going faintly absent to themselves, every abandoned plan connected to a wall arriving as a feeling — and the field is where they are noticed, priced by the second worker, and entered."
+    },
+    {
+      "id": "position_detailed",
+      "kind": "short",
+      "old": "| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Cleaved cycle against the previous reading. |",
+      "new": "| **Position / movement** | Mobile on old ground: walks the footprint and the approach streets of the suspended works, avoids anything built since, and has never once pursued anybody. It can breach; on breach it goes for the tallest standing structure within reach. |"
+    },
+    {
+      "id": "use_notes_terminal_transplant",
+      "kind": "short",
+      "old": "For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. First-person ownership of the source event, then source responses repeating outside contact, precede the terminal condition in which the bearer becomes a new site for the manifestation. The second worker also watches for the wearer’s inability to answer for their own presence, independently of any claim about the source; neither warning is evidence of recovery.",
+      "new": "For issue, name Cleaved’s stopped tower project and accept the limit: document what was intended and lost without completing the structure. The recorded failure on this set is quieter than the codices’ career of ownership: a name that will not come, then a sentence with no first person in it, then a wearer who stops noticing either. At no point does the bearer become a site on the works register — assignments change only on the register, and the register is not theirs to amend. The second worker watches for the wearer’s inability to answer for their own presence, independently of any claim about the source; neither warning is evidence of recovery."
+    },
+    {
+      "id": "field_use_during_split",
+      "kind": "careful-detail",
+      "old": "| **During use** | The first sign is a name that will not come — the wearer reaches for a colleague's and gets the shape of the person instead. Timed by the second worker. |",
+      "new": "| **During use** | The first sign is priced by piece and timed by the second worker: a name that will not come — the wearer reaches for a colleague's and gets the shape of the person instead; a sentence with no first person in it; or a bearer invoicing a wall's intentions before its load. The wearer never reports any of the three first. |"
+    },
+    {
+      "id": "activation_flavor_template",
+      "kind": "short",
+      "old": "**When the entity activates:** The Gauge tips. The Subject-Grudge does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.",
+      "new": "**When the entity activates:** Nothing in the figure quickens. The upper half takes its constant-bearing lean further, against the tallest thing standing, and the interval between name-losses shortens — the street beneath it has a name, then it does not. Clear the upper floors first; the street stays open and empty."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIβ-775_Cleaved_찢어진_탑.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.020  clean   739 grams  Combat Record\n 0.020  clean   101 grams  Operational Parameters\n 0.011  clean   834 grams  M.A.W. Equipment\n 0.006  clean   541 grams  감각 묘사 (Flavor Text)\n 0.005  clean   816 grams  Watch Record\n 0.005  clean   217 grams  Behavior\n 0.000  clean   411 grams  이야기 (Narratio)\n 0.000  clean   318 grams  이야기 보고 (Story Log)\n 0.000  clean   289 grams  기록 (Registrum)\n 0.000  clean   218 grams  Appearance\n 0.000  clean   193 grams  Trivia\n 0.000  clean   177 grams  관찰 기록 (Observation Log)\n 0.000  clean   176 grams  Origin\n 0.000  clean   129 grams  Breach Behavior\n 0.000  clean    75 grams  최종 관찰 (Final Observation)\n 0.000  clean    42 grams  SECC Classification\n 0.000  clean    38 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   81   1  | { *The Crack Spreads* [**Debuff**] } | \"A crack opens in the wall ahead of you, and it is the width and shape of the gap you hav\n   82   1  | { *The Leaning* [**Debuff**] } | \"The upper half goes over toward a skyline nobody in the district can see, and your balance goe\n   84   6  | { *The Split* [**Attack**] } | \"The seam widens along its whole length — not damage, an opening — and the interior is visible th\n   85   8  | { *Total Collapse* [**Ultimate**] } | \"It goes down on the tallest thing within reach, and the street fills with the rubble of b\n  148   1  **Reading the response:** A falling gauge means the design was held in view for the length of the cycle. No Work Type amends the r\n  246   8  | **After use** | Return the piece, open the sealed baseline, and read the two entries side by side. Where the drain outlasts the \n  248   1  **Stat interpretation:** The grade records how cleanly the archetype came off the foundation stone; it says nothing about how much\n  317   3  Three holdings are filed beside this one because all three are what is left when a structure fails to arrive: one fell, one grew i\n  412   4  The compilers asked for one change: that a nil return, twice confirmed, be allowed to close a scheme. Refused, and refused for a r\nGENERIC 0.006  (35 shared shingles)  SE-C-IIβ-775_Cleaved_찢어진_탑.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-A__SIDE_CODEX_Cleaved.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-B__MAW-W_The_Torn_Lens.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-C__MAW-S_The_Torn_Veil.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-D__MAW-G_The_Torn_Keystone.md",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-A__SIDE_CODEX_Cleaved.md": "9d0c0d72a5cff4fcef16ad5928181cbc84a21fcf1c92ecf873d2c3be67df62b7",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-B__MAW-W_The_Torn_Lens.md": "184acdd8503a24b8dfc7920bcc30883abe043d29a8f8e4d9d06ff5f23ad96cc3",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-C__MAW-S_The_Torn_Veil.md": "78db7f5237f3f66c387cb2a273fd629d95a4f6794ab8b7a1e103fa0592ea6087",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/775_Cleaved/SE-775-D__MAW-G_The_Torn_Keystone.md": "094ed8b45eee78e66e53c3c5ab08e300d717e78d1bf350ea7d5c0aa3989b3d77",
+    "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
+    "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
+    "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
+    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIβ-775_Cleaved_찢어진_탑](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-775_Cleaved_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%83%91.md \"SE-C-IIβ-775_Cleaved_찢어진_탑.md\")]",
+  "table_link": "[Cleaved](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-775_Cleaved_%EC%B0%A2%EC%96%B4%EC%A7%84_%ED%83%91.md \"SE-C-IIβ-775_Cleaved_찢어진_탑.md\")",
+  "reading": {
+    "before_lines": 437,
+    "before_bytes": 43729,
+    "final_lines": 437,
+    "final_bytes": 44701
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 106,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": true,
+    "source_files_unchanged": 10
+  }
+}

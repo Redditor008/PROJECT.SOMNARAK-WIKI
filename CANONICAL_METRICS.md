@@ -30,7 +30,7 @@
 | **Mnemonic Cycles** | **1,778 Cycles** | Canonical Absolvohan History |
 | **Tactical Game Battle Scenarios & Systems** | **17 Scenarios** | `GAME_BATTLE/` |
 | **M.A.W. Codex Sets** | **42 Sets** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
-| **M.A.W. Equipment Profiles** | **1165 Markdown Dossiers** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
+| **M.A.W. Equipment Profiles** | **1166 Markdown Dossiers** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
 | **M.A.W. Complete Quadripartite Sets** | **198 / 198 Complete Sets** | `SOMNARAK-WORLD/MAW_Codex_Sets/` |
 | **Specialist Cadres** | **10 Cadres** | `SOMNARAK-WORLD/Master_Codices/` |
 | **Underworld Syndicates of The Raw** | **5 Syndicates** | `SOMNARAK-WORLD/Master_Codices/` |
@@ -46,9 +46,9 @@
 
 | Repository Scope | Programmatic File Count |
 | :--- | :--- |
-| **`SOMNARAK-WORLD/` Subtree** | **1896 files** |
+| **`SOMNARAK-WORLD/` Subtree** | **1899 files** |
 | **`docs/` Publishing Subtree** | **4 files** |
-| **Total Non-Git Repository Files** | **2615 files** |
+| **Total Non-Git Repository Files** | **3031 files** |
 
 ---
 

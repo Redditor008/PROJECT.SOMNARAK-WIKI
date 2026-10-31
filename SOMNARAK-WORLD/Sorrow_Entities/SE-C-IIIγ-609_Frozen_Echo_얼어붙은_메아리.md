@@ -81,7 +81,7 @@
 |---|---|---|---|---|
 | { *The Still Air* [**Debuff**] } | "The air goes still — and cold — and you can hear your own grief, preserved in the ice." | [The Echo freezes the air; the target's sorrow is caught mid-feeling.] | *Target suffers -10 Composure; their grief is suspended, aching.* **[10 Lament DMG [Lament]]** | When the target enters the cold. |
 | { *The Frostbitten Note* [**Debuff**] } | "A sound, half-frozen, reaches you — and the cold travels with it into your chest." | [A preserved echo carries the cold inward; the target chills from within.] | *Target loses 10 Composure; feeling itself begins to numb.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
-| { *The Ice Shard* [**Attack**] } | "A shard of frozen sound breaks off — and it cuts where it is heard." | [A splinter of the frozen echo flies, sharp as crystal.] | *Inflicts Lament pressure and one cold, clean cut.* **[14-22 Lament DMG [Lament]]** | When the Echo is struck. |
+| { *The Ice Shard* [**Attack**] } | "Nothing breaks off. The surface carries imprints and no wear — no scratch, no chip — and what cuts is a stranger's last minute arriving edgewise in the mind." | [No splinter flies. The struck acquire the last minute of somebody else's life and have nowhere to put it, which is the wound.] | *Inflicts Lament pressure; the cut is a borrowed minute, carried for about a week.* **[14-22 Lament DMG [Lament]]** | On handling — the only contact the object has ever answered. |
 | { *The Glacier* [**Attack**] } | "The cold advances — a wall of frozen grief, slow and unstoppable." | [The preserved sorrow moves at a walking pace and does not stop, and everything it passes keeps the temperature afterwards.] | *A heavy Deep Blue advance; the gauge jumps 15 at a stroke.* **[24-36 Lament DMG [Lament]]** | When an imprint is disturbed. |
 | { *The Deep Freeze* [**Ultimate**] } | "Everything goes still — and cold — and nothing will ever move or feel again." | [The whole field is held at the temperature of somebody else's last minute, and nothing in it moves on its own again for 3 turns.] | *Every worker present takes Lament pressure for 3 turns of deep freeze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -96,7 +96,7 @@
 - The failure here is adoption. The worker stops holding another life at arm's length and starts holding it as their own, and the first sign is the worker using the first person about something that happened to somebody else.
 - Past a minute the borrowed life starts arriving with its own opinions. Past two the boundary goes entirely, and both of the long exposures on file ended with a handler who could not say which grief was theirs.
 - The equipment lends the wearer somebody else's endurance and takes composure for it. It works exactly as the registry says, and every wielder's debrief in nine years has included the phrase *not mine*.
-- If the resolution condition is not fulfilled, Frozen Echo reverts to its destructive activation protocol—denied peace, the sorrow aggressively seeks its own release.
+- If the condition is not met the object does nothing at all: it sits still and takes no interest, the field edge stays advanced, and the handler takes somebody else's last minute home with them, where it thins over about a week and never fully clears.
 
 ## Appearance
 **Physical Form:** A heavy crystal object that contains a frozen echo of every hand that touched it.
@@ -180,9 +180,9 @@ Frozen Echo is an Object/Place with Object-Weight manifestation and Lament expre
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Frozen Echo rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Frozen Echo activates its primary resonance: Projects the emotional history of one former owner. Grants +10% resistance to Lament damage while equipped. |
+| 10 Seconds | Cold through the gloves, then weight, then somebody else's hand — rough, small, trembling, old; it is never the same hand twice for the same person. | One named handler, fresh gloves, clock held by somebody else. No resistance is granted by anything: what has to be borne is the weight of a life that is not the handler's, and the second worker starts the pronoun watch at once. |
 | 30 Seconds | A particular life arrives: a hand, a room, a name being called in a dialect of the Desolate. The bearer begins supplying details nobody told them. | Combat benefit continues and mental burden begins accruing; action speed rises and composure falls, and the clock-holder starts the verbal checks. |
-| 1 Minute | The sorrow within Frozen Echo begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 1 Minute | Past a minute the borrowed life starts arriving with its own opinions: handlers describe it as remembering rather than imagining, which is the distinction the briefing spends most of its time on. | The clock-holder keeps the verbal checks at the marks and records the handler's grammar verbatim. The pronoun is the reading; at the first person, the call ends the watch and is not discussed at the stand. |
 | 2 Minutes | The boundary goes. The bearer speaks of the borrowed life in the first person and does so fluently, which is the point at which argument becomes useless. | Beyond two minutes, or on forced detachment, acute panic follows and the identity bleed persists past the session. Two minutes is the hard limit on this holding and is enforced by the clock-holder, not by the bearer. |
 
 ### Escalation Notes
@@ -292,7 +292,7 @@ Keep *Frozen Echo* (primary, Master table/Entries, Tale 29) distinct from *Thous
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer identifies Frozen Echo as an Object/Place with Object-Weight manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at The Desolate, near The Scar. |
+| **Initial exposure** | The observer identifies Frozen Echo as an Object/Place with Object-Weight manifestation. The first reliable markers are its Lament signature, the fossil-like hand imprints in pale-blue crystal, the cold that does not equalise, and its presence at The Desolate, near The Scar. |
 | **Sustained observation** | Field edge from the three stakes, temperature differential, weight on the stand scale, imprint count, and the handling log entry for every contact with the handler named. |
 | **Activation or escalation** | Activation is touch and lasts until contact ends. Escalation is the handler's first person. At the pronoun the clock-holder calls the end, and the call is not discussed at the stand. |
 | **Post-contact review** | Edge before and after, the new imprint count against the log count, the handler's verbatim account, and their position at 24 hours and 14 days. The content of an impression is not reviewed and is not recorded. |
@@ -468,7 +468,7 @@ The objection is minuted at every annual review, raised by the legal officer rat
 
 ## Trivia
 
-- Kept to hand as digits, for this file's look-up: resistance 35 / 25 per cent, the set's blade at 10–15 damage and 50 Echoes, the harness at 45, the charm's line at 4 per cent, and 3 conferrals on the Charm.
+- Kept to hand as digits, for this file's look-up: resistance 35 / 25 per cent, the set's blade at 7–12 damage and 40 Echoes, the harness at 35, the charm's line at 4 per cent, and 3 conferrals on the Charm.
 
 - No handler has ever been given the same former owner twice, across nine years and several hundred contacts.
 - The surface carries imprints and no wear: no scratch, no chip, no polish, after a hundred hands and a displacement.

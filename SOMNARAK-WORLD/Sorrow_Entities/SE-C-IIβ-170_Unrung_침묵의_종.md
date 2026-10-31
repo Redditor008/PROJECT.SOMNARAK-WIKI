@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Moderate (β) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Identity / memory pressure |
+| **Primary pressure** | Composure — remaining oriented while your own speech and every warning arrive late |
 | **Starting Sorrow Gauge** | 35–50%; it sits at the top of that band whenever the district has lately refused a warning it was properly given |
 | **Han-Energy yield** | 12–18 Han-Energy out of one completed cycle, and the highest reading comes when the session’s hand signals were answered in their order |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), and the sweep is timed against the station clock like every other part of the session, dust from this bell being collected rather than shovelled |
+| **Vessel-Destructible** | No — striking is prohibited and the relic cannot be taken from the plinth; the original bell remains intact |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Ferrehan first and Viderehan second, hand signals throughout, the station clock read when the session opens and read again when it ends, and the Rule of the Answered Warning enforced across the directorate and every ward answerable to it. The Work Types frame a session; the condition is what the session is for. |
 
 ### Operational Notes
@@ -42,7 +42,7 @@
 - Unrung has never sounded and the file does not claim it cannot. What is measured is not silence but lateness: a reference tone struck at the plinth reaches the fixed station eight metres out after a delay, and the delay is the reading.
 - Work holds the delay down for a shift and nothing on record has ever shortened it beyond the shift. Nothing done at the plinth in twenty-four years has moved the series.
 - Viderehan and Ferrehan only. Ferrehan lowers the gauge and carries the work; Viderehan holds it level. The clock is still read after either approach, because a quiet session does not establish that any warning has been answered.
-- No breach counter exists; the trigger is the gauge at 60 per cent. The delay lengthens rather than any boundary expanding, and it is clocked at the station every session because a delay cannot be noticed by someone standing inside it.
+- No breach counter exists. Activation remains the hand on the rim with listening spoken aloud, recorded once; the gauge at 60 per cent is only the field escalation threshold. The delay lengthens rather than any boundary expanding, and it is clocked at the station every session because a delay cannot be noticed by someone standing inside it.
 - Residue recovery is separately authorised and has been granted twice in sixty years, both times to the Menders and both times refused on review before the second grant was made.
 
 ## Combat Record
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% where the pressure is Void; each of the other registers meets 15%, and the first of those two figures is what the district pays for, since what Unrung hands back is absence and not force |
+| **Resistance** | 25% where the pressure is Void; each of the other registers meets 15%, and the first of those two figures is what the district pays for, since what Unrung hands back is absence and not force. Resistance is never judged by ear from inside the field: hand signals only, the arrival delay clocked by the clerk outside it, and no striking to test whether the field persists. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 · marked line, the reading belonging to the line and not to the bell, which is the only distance this file permits |
 | **Han Pressure [ATK]** | 7–16 · Void, counted by arrival instead of by strike, the warning reaching the worker some time after the moment it was given |
@@ -73,23 +73,23 @@
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, near the Orphaned Bell |
-| **Resolution Condition** | Ferrehan carries the work, and the gauge has to come down past 25% before the session counts at all. At this bell the second requirement waits on the first: no cycle here has ever closed on a low gauge that Ferrehan did not bring down. |
+| **Resolution Condition** | The Ferrehan session is completed on the marked line, the operative's account is taken separately at the station, the arrival delay is clocked, and any warning surfaced is assigned to a named person with authority to act. A low gauge alone does not close the session: the gauge and the delay answer separate questions. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Held Breath* [**Debuff**] } | "The bell should be ringing — but it is not, and the silence is worse than any sound." | [The Bell's silence presses on the target; the absence of sound is a void.] | *Target suffers a Void mark; the silence is deafening.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target waits for the Bell. |
-| { *The Swallowed Sound* [**Debuff**] } | "You try to speak — and the bell eats your words before they leave your mouth." | [The Bell absorbs sound; the target's voice is taken.] | *Target loses clarity; they cannot communicate.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target tries to speak near the Bell. |
-| { *The Silent Toll* [**Attack**] } | "It swings. There is no sound and there is an impact, and you feel the second one in the bones a moment after it has already happened to you." | [A soundless strike delivered late; the damage lands before the perception of it.] | *Inflicts Void damage; the impact registers after the fact.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the bell is moved on its mount — not by striking, which is prohibited. |
-| { *The Absent Peal* [**Attack**] } | "Every sound it should have made at the hour it should have made them, delivered at once, twenty-four years late and in absolute silence." | [The accumulated lateness discharges as crushing absence.] | *A heavy Void surge; the target's Sorrow Gauge rises 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the arrival delay exceeds thirty seconds. |
-| { *The Eternal Silence* [**Ultimate**] } | "The bell stops every sound in the field — and the silence becomes its own kind of death." | [The Bell extends its silence across everything.] | *All in range suffer Void erosion for three turns in the perfect silence.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Held Breath* [**Debuff**] } | "The bell should be ringing — but it is not, and the silence is worse than any sound." | [A worker who waits for a ring to certify the session stands inside the delay with nothing arriving; performed listening has never moved it.] | *The worker gains a Void mark. Stop waiting for sound: return to hand signals and let the station clerk clock the arrival delay from outside the field.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker waits for the Bell to ring instead of working the clocked session. |
+| { *The Swallowed Sound* [**Debuff**] } | "You try to speak — and the bell eats your words before they leave your mouth." | [Speech inside the field arrives thinned and late, at the wrong distance; calling out only lengthens the confusion.] | *The speaker loses the thread of their own sentence. Stop talking, change to hand signals, and let the station log the signal against its timestamp.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker speaks or calls out inside the field instead of using hand signals. |
+| { *The Silent Toll* [**Attack**] } | "There is no swing and no sound, and the impact reaches you a moment after it has already happened to you." | [The bell does not move. Forced or prolonged contact makes the bearer's own perceptions arrive out of order, each sensation filed after the next.] | *Inflicts Void damage as acute disorientation. End contact by the detachment protocol — hand off the rim, out along the marked line, account at the station — and never by pulling the hand away by force.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When rim contact is prolonged past two minutes or the hand is removed by force. |
+| { *The Absent Peal* [**Attack**] } | "Every sound it should have made at the hour it should have made them, delivered at once, twenty-four years late and in absolute silence." | [A delay past thirty seconds is not an event in the chamber; it is the clock reporting how this facility has been closing its warnings.] | *Heavy Void pressure on everyone still working the line. Close the session by hand signals, verify clock and clerk, and open the documents search: every warning closed in the preceding fortnight with no acknowledgement in any recipient's own hand, listed by reference number.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the clocked arrival delay exceeds thirty seconds. |
+| { *The Eternal Silence* [**Ultimate**] } | "The bell stops every sound in the field — and nothing in the room can be answered in time." | [At the escalation threshold the field takes every voice in range at once; nobody inside it can tell how long it has lasted.] | *All in range suffer Void erosion for three turns. Withdraw along the marked line on hand signals only, cassock on to the boundary, and give separate accounts at the station before speaking to anyone else present.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 60%. |
 
 ### Battle Phases
 
 1. **Tension:** Clock the arrival delay at the fixed station and confirm designation C-IIβ-170 before positions are taken and the session opens. Unrung and the Orphaned Bell are indistinguishable by eye at any range; four written confusions are on record despite that briefing.
 2. **Clash:** Viderehan and Ferrehan only. The reading is the arrival delay: a reference tone is struck at the plinth and the listening station eight metres out records the interval before it is heard at all. One point nine seconds is baseline. The recorded range is zero to forty-one.
-3. **Resolution:** The watch closes on containment, management or retreat, or under the containment condition recorded here: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+3. **Resolution:** The watch closes at the station, not at the plinth: three honest strikes clocked, the operative's account taken separately before they speak to anyone else present, the delay entered against the fortnight's closed warnings, and any warning surfaced put into a named hand with authority to act. A low gauge with a long delay is written up as exactly that and nothing more.
 
 ### Consequences
 
@@ -167,7 +167,7 @@ Two figures come off this holding, and they are not answering the same question.
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Fixed-site contact use** — worked at the plinth where it stands; never equipped, carried or mounted elsewhere |
 | **Activation** | A hand on the rim and the spoken statement, by one person, that they are listening. One recorded instance; the wording is not on file. |
 | **Primary Effect** | One sealed door opened, or one unanswered warning delivered to whoever is present. |
 | **Duration** | Until the door is closed or the warning is understood, a condition nobody can certify. |
@@ -180,8 +180,8 @@ Two figures come off this holding, and they are not answering the same question.
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The hand is on the rim. Nothing is heard. The station clock is already running and the operative, standing inside the field, has no way of knowing that it is. | One sealed door opens, or one unanswered warning is delivered. +10% Void resistance while contact holds. |
-| 30 Seconds | A Tuesday folder on a receiving desk, a reading correctly filed, nine days, and a sound that the bearer is certain they are about to hear. | Speed and focus rise; composure falls. The bearer begins answering questions before they have been asked. |
+| 10 Seconds | The hand is on the rim. Nothing is heard. The station clock is already running and the operative, standing inside the field, has no way of knowing that it is. | One sealed door opens, or one unanswered warning is delivered. Contact grants no resistance; the clock outside the field is the only protection the operative has. |
+| 30 Seconds | A Tuesday folder on a receiving desk, a reading correctly filed, nine days, and a sound that the bearer is certain they are about to hear. | Reactions desynchronise; composure falls. The bearer begins answering questions out of the order they were asked in, each reply arriving after the next question. |
 | 1 Minute | The bearer's own voice begins arriving after they have stopped speaking, by a margin that lengthens. | 5 Void damage every 15 seconds past 60. Monitored from the station, by clock, never by calling out to them. |
 | 2 Minutes | The bearer becomes the clerk: certain they have done everything correctly, certain it will make no difference, and unable to hold both. | Past 2 minutes, or on forced removal of the hand, acute panic. The bearer cannot afterwards leave a warning unanswered. |
 
@@ -247,7 +247,7 @@ The wearer appoints an outside alert partner, not a second person hidden inside 
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** High Void resistance, protecting the Soul. Worn for the full session on the marked line and kept on for the walk out, which the station clerks insisted on after two workers removed it at the boundary and gave accounts they later could not stand behind.
+**Ability:** *Outside Thread* — while the assigned alert partner confirms a live warning channel outside the veil, the cassock resists Void silence pressure and can reject one Void silence surge, routing the warning status to the partner. Worn for the full session on the marked line and kept on for the walk out, which the station clerks insisted on after two workers removed it at the boundary and gave accounts they later could not stand behind.
 
 **Cost:** The wearer feels faintly absent to themselves, and reports that their own voice reaches them late. It clears within a day and three wearers have described the clearing as the moment they realised they had been shouting.
 

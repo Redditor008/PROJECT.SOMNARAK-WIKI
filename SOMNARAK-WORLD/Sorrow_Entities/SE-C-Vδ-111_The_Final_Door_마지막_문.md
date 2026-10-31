@@ -81,8 +81,8 @@
 |---|---|---|---|---|
 | { *The Last Threshold* [**Debuff**] } | "There is nothing after this door. Not a room — nothing. You can feel the shape of that." | [The Door's finality presses on anybody at the threshold.] | *Void pressure; the listener's own plans for the following week become difficult to recall.* **[Void DMG [Void]]** | On approach, every cycle, with no exceptions in ninety-four. |
 | { *The No-Return* [**Debuff**] } | "Open it and you do not come back — and it is in no hurry, because everybody who has stood here has thought about it." | [The Door's permanence bears down.] | *Void pressure, rising with time at the threshold; 61 of 94 cycle reports include the sentence "I considered it."* **[Void DMG [Void]]** | After about four minutes at the marked distance. |
-| { *The Iron Frame* [**Attack**] } | "The frame hardens, and the threshold itself is what strikes you." | [The frame becomes a weapon without the door moving.] | *Void damage to the Soul; the one worker who reached the face in Year 4,218 was recovered intact and could not afterwards name her own mother.* **[Void DMG [Void]]** | On contact with the face. Once. |
-| { *The Full Opening* [**Attack**] } | "It swings wide, and what is behind it is vast and final and does not need us." | [The Door opens completely and the void beyond enters the vault.] | *Facility-threatening. Never observed. The entry exists because the Keepers require the consequence to be written down where the standing order can point at it.* **[Projected]** | If the Door is ever opened. |
+| { *The Iron Frame* [**Attack**] } | "Nothing strikes. A hand reaches the face, and the contact is the whole of it." | [The Door does not move and the frame does not act; the one recorded contact is priced entirely in what the Keeper could no longer recall.] | *Void damage to the Soul; the one worker who reached the face in Year 4,218 was recovered intact and could not afterwards name her own mother.* **[Void DMG [Void]]** | On contact with the face. Once. |
+| { *The Full Opening* [**Attack**] } | "Nobody who sealed it is available to ask." | [Projected only: an opening has never been observed, and nothing in this file describes what an opening would admit.] | *Facility-threatening. Never observed. The entry exists because the Keepers require the consequence to be written down where the standing order can point at it.* **[Projected]** | If the Door is ever opened. |
 | { *Every Door Is the Last* [**Ultimate**] } | "Every door in the facility is this door, and behind each of them is the same nothing." | [The finality propagates to every threshold in the building.] | *Void erosion to everyone passing through any doorway.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%. Once, for eleven minutes, in Year 4,229; nobody in the facility would go through a door and the shift simply stopped. |
 
 ### Battle Phases
@@ -123,16 +123,16 @@
 | **Position / movement** | Fixed in the oldest stone in the Alpha Tree foundation. No handle, no lock, no hinges, and no gap at any edge that a blade has been able to enter. |
 | **Material / signature** | Weight Han-crystal, massive, with no visible fitting of any kind. Record the whisper's duration to the tenth of a second, the words as heard, and the listener's name; nothing else about this holding varies. |
 | **Distinctive markers** | Predates the facility, city, and known history. Cold on the outside and warm when touched. Whispers in a language no one has identified. |
-| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
+| **Identification** | A massive Weight Han-crystal slab with no handle, lock, hinges or gap at any edge, in the oldest stone under the Alpha Tree. The Broken Clock stops at nine metres; that stop is the marked distance. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Nothing about this holding is expected to change. Take the annual survey to four decimal places, and per cycle record the whisper's duration to the tenth of a second, the words as heard, and the listener's name. Any tenth of a second, any tenth of a millimetre, is the entire finding.
 
 ## Origin
 - **Formation:** Unknown. The Door represents the sorrow of the unknown and the fear of what cannot be understood.
 - **The Sorrow:** The need to know what lies beyond, and the fear that knowledge may be worse than ignorance.
 - **The Event:** None recorded. It was found beneath the Alpha Tree already sealed.
 - **The People:** Unknown. The Door predates all available records.
-- **Expanded origin context:** The entity's origin is not a mystery; it is a diagnosis. The sorrow concentrated at SECTOR-A-01, deepest Alpha Tree vault until the Void became structural — load-bearing, permanent, woven into the Object/Place the way the Weeping is woven into the city. You do not remove it. You contain it.
+- **Expanded origin context:** No formation record exists. The Door was found beneath the Alpha Tree already sealed, in stone older than any construction layer the Archive can identify, and no maker, inscription or purpose has ever been recovered. Containment begins from that absence: a marked distance, a four-minute limit, and the prohibition.
 
 ## Behavior
 
@@ -147,9 +147,9 @@ The Door does not respond to Work Types in the conventional sense.
 | **Viderehan** (Observation) | Produces faint ancient whispers. | Stable |
 | **Ferrehan** (Endurance) | Remains silent while testing the worker's willingness to wait. | Stable |
 ### Special Behaviors
-- The Door's warmth suggests something alive exists beyond it.
+- Warmth is sensed at the face and reported as something alive beyond it; no current record permits interpreting that sensation, and the report is logged without a conclusion.
 - Time-based entities behave abnormally nearby.
-- Director orders prohibit opening, studying, or discussing it.
+- The Director's order prohibits opening absolutely. Study runs as the cycle record above; any proposal to open goes to the Director in person — there have been four.
 
 
 
@@ -160,9 +160,9 @@ The Work Type table applies and tells you almost nothing. The two series that ma
 **Reading the response:** A falling gauge here means a cycle was completed and the transcript sealed, nothing more. It rises when somebody stays past the whisper, and has risen once without anybody present at all — in the week of the Year 4,229 propagation, which began and ended while the vault was empty.
 ## Activation Behavior
 
-> **This Relic can Benefit the Facility**
-> **Opening the channel steadies the facility; it also makes the wielder certain they know what is behind the door**
-> **An abandoned channel vents into the vault and the whisper lengthens for the following quarter**
+> **Worked, never opened**
+> **Holding the channel steadies containment readings facility-wide; it also leaves the channeler certain they know what is behind the door**
+> **An abandoned channel does not close cleanly: residue compounds in the vault and the whisper lengthens for the following quarter**
 
 **Activation Trigger:** Touch, sustained listening, or unknown conditions.
 
@@ -294,7 +294,7 @@ Both pieces came from the frame and not the door, and the Armoury has said there
 
 **Key Observations:**
 - The Door predates the facility, city, and all known records.
-- Something warm and alive exists on the opposite side.
+- Warmth is sensed on the opposite side and reported as something alive; the sensation is recorded, never interpreted.
 - Whispers use a language unlike Korean or any known Before-Time language. 41 are on record across 94 cycles, and every one lasted exactly 13 seconds. No two transcripts match: 31 are questions, 9 are instructions and 1 is a name that belongs to nobody in any register the Archive holds.
 - Archive Lead Marjuk visits once a year for exactly one hour, and it has never spoken to him.
 - The Director's order remains absolute: no opening, study, or discussion. Even so, 61 of the 94 Keepers have come back up the stair with a plan for opening it, and 4 proposals to open it have reached the Director in person.
@@ -474,8 +474,8 @@ The third expedition returned with seven words, delivered once, never repeated �
 
 - **Classification detail:** The Final Door is an Object/Place with Sovereign (V) — Autonomous, mysterious coherence and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Void, in SECTOR-A-01, the deepest Alpha Tree vault, behind a stair that Sornos sleeps across.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Recognition detail:** Identify it by what is absent: no handle, no lock, no hinges, no gap — and by the Broken Clock stopping at nine metres, the only instrument that reacts to it at all.
+- **Record detail:** Forty-one whispers across ninety-four cycles, every one thirteen seconds, no two transcripts matching. The transcript is sealed on the spot and compared only by the Archive Lead.
 - **Containment detail:** It is not contained; it is sealed, and it was sealed before anybody now living could have done it. The facility's contribution is a painted line at nine metres, a four-minute limit, and a prohibition nobody has yet broken twice.
 ## Document Information
 

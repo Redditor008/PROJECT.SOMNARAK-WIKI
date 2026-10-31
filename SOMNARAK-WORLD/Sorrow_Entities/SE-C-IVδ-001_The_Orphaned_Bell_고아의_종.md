@@ -27,14 +27,14 @@
 |---|---|
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Object/Place |
-| **Primary pressure** | Mental / emotional pressure |
+| **Primary pressure** | Clarity — names and faces are displaced by an unattributable loss |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the tower's own sounding and never from the bell itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Tool / M.A.W. grade** | O-Relic (Officium) · δ (Critical) |
-| **Vessel-Destructible** | Yes |
-| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
+| **Vessel-Destructible** | No — bell and tower are one anchored entity; separation or striking is a provocation, not a destruction route |
+| **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Ferrehan, stood in assigned pairs for the duration of the toll, with a timekeeper outside the circle. |
 
 ### Operational Notes
@@ -52,9 +52,9 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — fixed bell and tower; output is measured by toll interval and duration, face count, and the instrument-confirmed acoustic-circle radius |
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Activation threshold** | Sorrow Gauge ≥ 65% during an active toll (Gauge Overflow) |
 | **Sorrow Gauge [HP]** | 818/818 |
 | **Han Pressure [ATK]** | 28–61 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Toll* [**Debuff**] } | "The bell tolls once — and the sound passes through walls, floors, and bones alike." | [A single toll propagates through the structure; everyone within hearing feels a loss they cannot name.] | *Target suffers -10 Composure; the toll marks them with grief.* **[10 Lament DMG [Lament]]** | At midnight, the anniversary, or when grief concentrates. |
-| { *The Echoing Loss* [**Debuff**] } | "The ringing will not stop — and with it, small pieces of who you were slip away." | [The toll sustains into a long resonance; prolonged exposure erodes memory and composure.] | *Target loses 10 Composure; faces and names begin to blur.* **[10 Lament DMG [Lament]]** | When the target remains within the bell's range. |
-| { *The Mourning Blade* [**Attack**] } | "The bell's grief sharpens into a single cutting note aimed at the heart." | [The toll condenses into a focused wave of lament that cuts through the target before fading.] | *Inflicts Lament pressure and one wound of sorrow.* **[14-22 Lament DMG [Lament]]** | When the bell is provoked or a marked target is in range. |
-| { *The Chorus of the Missing* [**Attack**] } | "Every child the bell mourns speaks at once — a chorus that breaks the steady heart." | [The bell gathers the grief of every missing child into one overwhelming peal.] | *A crushing Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the bell is struck or grief overflows. |
-| { *The Unanswered Vigil* [**Ultimate**] } | "The bell rings and rings for children who will never come home — and the whole tower weeps with it." | [The bell tolls without cease, flooding the area with unrelenting lament.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The First Toll* [**Debuff**] } | "The bell tolls once — and the sound passes through walls, floors, and bones alike." | [Blue veins brighten inside the rim; one toll propagates through tower stone and nearby streets.] | *The first person who hears it suffers -10 Clarity and is marked with an unnamed loss.* **[10 Lament DMG [Lament]]** | When the local clock reaches midnight inside the tower's audible district. |
+| { *The Echoing Loss* [**Debuff**] } | "The ringing will not stop — and with it, small pieces of who you were slip away." | [The toll acquires a relevant name as a tower face appears or turns outward, or sustains around a marked hearer who does not leave the sound.] | *Target loses 10 Clarity; faces and names begin to blur, and any name heard is written unaltered to the name log.* **[10 Lament DMG [Lament]]** | When either (a) at least three people inside the tower boundary speak of, search for, or grieve a lost child, or (b) a person marked by the First Toll remains inside the audible boundary through one full toll interval. |
+| { *The Mourning Blade* [**Attack**] } | "The bell's grief sharpens into a single cutting note aimed at the heart." | [Tower windows darken and the hanging frame vibrates without wind; the cutting note finds a marked hearer. Simple grief does not arm this row.] | *Inflicts Lament pressure and one wound of sorrow.* **[14-22 Lament DMG [Lament]]** | When the bell body is struck, an unauthorized extraction is attempted, or a removal/separation effort is directed at the bell. |
+| { *The Chorus of the Missing* [**Attack**] } | "Every child the bell mourns speaks at once — a chorus that breaks the steady heart." | [The bell gathers the grief of every missing child into one overwhelming peal through tower and streets.] | *Crushing Lament pressure to all hearers in the tower district; no personnel Sorrow Gauge is inferred. Every new face position and name heard is recorded before any further intervention.* **[24-36 Lament DMG [Lament]]** | After a direct strike on the bell or an extraction/separation violation. |
+| { *The Unanswered Vigil* [**Ultimate**] } | "The bell rings and rings for children who will never come home — and the whole tower weeps with it." | [Every face in the tower opens its mouth at once; the vigil expands beyond the tower through the district.] | *All personnel and civilians in the affected district suffer Lament pressure for three turns; this is not ordinary midnight operation.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥65% during an active toll. |
 
 ### Battle Phases
 
 1. **Tension:** The pair confirms the Bell by hand. The corrosion on its surface has warped into small reaching shapes, and no other holding in Zone B carries that. The pair marks where it will stand and where it will withdraw to before the cycle opens.
 2. **Clash:** Nothing here can be bargained with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
-3. **Resolution:** The toll finishes or the pair is withdrawn. The documented condition is **the bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair** — nothing here is suppression, and the record does not call it that.
+3. **Resolution:** The watch resolves only when the toll has finished, the assigned pair has stood it through, the timekeeper outside the circle closes the interval record, and every new face and heard name has been entered. **The bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair**; emergency withdrawal preserves personnel but does not count as resolution, and nothing here is suppression.
 
 ### Consequences
 
@@ -104,7 +104,7 @@
 **Notable Features:**
 - The tower is covered in faces that emerge rather than being carved.
 - Each toll produces emotional weight and a profound sense of loss.
-- New faces appear when additional children are lost in the city.
+- New faces appear in the fortnightly survey; whether their surfacing correlates with particular losses in the city remains unresolved after four studies.
 
 **Identification Profile**
 
@@ -122,7 +122,7 @@
 | **Form** | A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force. |
 | **Position / movement** | Hung fixed and never lowered; the tower was raised around the bell rather than for it. |
 | **Material / signature** | Lament. Dark Han-crystal veined with faint blue light, cold and beaded like sweat, with the corroded surface warped into the shapes of small reaching hands. |
-| **Distinctive markers** | The tower is covered in faces that emerge rather than being carved. Each toll produces emotional weight and a profound sense of loss. New faces appear when additional children are lost in the city. |
+| **Distinctive markers** | The tower is covered in faces that emerge rather than being carved. Each toll produces emotional weight and a profound sense of loss. New faces are recorded by survey position; no causal correlation with particular city losses has survived testing. |
 | **Identification** | Confirm designation, element and manifestation before entering the tower. Zone B holds other sounding holdings and this is the only one that is never struck. |
 
 **Appearance protocol:** Record the bell and the tower separately. For the bell: height against the marked post, the colour and depth of the veining, the condition of the corroded hands, and whether the rim is oscillating before the toll rather than at it. For the tower: the current face count from the fortnightly plates, the positions of any face that has newly surfaced, and any face that has begun to recede. Both records are taken from the brass pins in the floor and never by eye from a different standpoint.
@@ -141,8 +141,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A as direct work — mourning nearby may soften a toll contextually but does not change the Object/Place rule. | N/A / contextual |
+| **Pugnahan** (Confrontation) | Prohibited, not a valid Work Type — an attempted confrontation is read as trying to silence the missing and intensifies the tolling. | Increase |
 | **Viderehan** (Observation) | Goes quiet while watched, and the watcher sees children they have never met going about an ordinary afternoon. The gauge does not move. | Stable |
 | **Ferrehan** (Endurance) | Tolls through the watch; the pair stands braced and does not leave the circle, which lowers the gauge and is the only work here that costs anybody anything. | Decrease |
 
@@ -199,7 +199,7 @@ The Orphaned Bell is an Object/Place — Lament for its manifestation, Lament fo
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Orphaned Bell begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Kneel inside the circle and the bell answers on the first documented name: the toll passes through the structures and the people inside them, everyone in hearing loses something they cannot point to, and the adjoining holdings ride steadier gauges for the rest of the watch. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers. | The sounding carries to Range Band 2; every allied unit inside that ring takes heightened elemental defense for as long as the recitation stays unbroken. |
+| 30 Seconds | The conduit widens, revealing the memory of parents searching for children who would never return, formed as Zone B expanded over streets and homes, swallowing children into the Han and leaving families without answers. | The sounding carries to Range Band 2; every allied unit inside that ring takes heightened elemental defense for as long as the recitation stays unbroken. |
 | 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Orphaned Bell's unfulfilled purpose pressing on their lungs. | Past 60 seconds the channel draws on the speaker rather than on the room: 4 Composure every 10 seconds, and the withdrawal has to be prepared before the count runs out and not after. |
 | 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Held past the limit, or abandoned mid-recitation, the channel vents a Lament shockwave nobody steers: unvoiced grief goes into the operator's mind, and the amnesia that follows has taken names out of workers that the register still carries. |
 
@@ -253,7 +253,7 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud woven in the tower’s own Lament Han-silk — cool, faintly luminous, and holding the scent of the bell’s room in the weave however long it sits in stores.
+**Appearance:** a deep-blue shroud of loosely woven Lament Han-silk that wraps the shoulders and throat without measurable pressure. Its lining stays cold and smooth while the outer hem catches pale light; unrecorded names appear there as tiny raised warm marks, darker near the seam.
 
 The Shroud is vigil-restricted issue for the same reason it is gifted: it is cut to hold a wearer's composure while the bell says names back at them, and its price is the one nobody reports — minor joys stop registering, without ever being filed as a loss. It is issued for a toll standing or a tower vigil and returned afterwards, and a Shroud on general issue is either a paperwork fault or a wearer who has not come back from the night.
 
@@ -265,7 +265,7 @@ The Shroud is vigil-restricted issue for the same reason it is gifted: it is cut
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, shielding the Mind — emotional stability, willpower — and it is cut for the toll's particular pressure: the wearer holds composure while the bell is saying names back at them.
+**Ability:** *Listener's Margin* grants resistance to Lament damage by storing one named memory in the Shroud's hem rather than letting it overwrite the wearer's short-term recall. It can hold three unrecorded names; at a fourth, all stored names speak at once inside the wearer's thoughts.
 
 **Cost:** The wearer becomes numb to minor joys; the armoury note is that nobody has ever filed it as a loss, which is exactly what this cost looks like from the inside.
 
@@ -273,7 +273,7 @@ The Shroud is vigil-restricted issue for the same reason it is gifted: it is cut
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source sorrow is sounding.
+**Appearance:** a thin blue Lament Han-crystal charm shaped like a broken bell clapper, narrow enough to hang from a collar loop. It stays cold against the chest, then warms, grows heavier and tilts toward a nearby person who says a name they have avoided; hairline cracks move slowly along its edge as it ages.
 
 Lament's Edge is a memory anchor for the Bell's named grief and never a purchased item: it turns up on a worker who has completed a full toll standing, and the armoury records four percent of such watches and no pattern in which four. On anybody who has not stood a toll the charm stays cold and does nothing except remind them of the one they did not.
 
@@ -281,9 +281,9 @@ Lament's Edge is a memory anchor for the Bell's named grief and never a purchase
 **Acquisition Probability:** 4%
 **Effect:** +3 stat bonus while working the source holding, entered at issue against the wielder's name
 
-**Ability:** Strikes induce profound loss, disorienting and slowing targets. Critical strikes can temporarily make a target forget how to fight.
+**Ability:** When a nearby person suppresses a grief-linked memory, the charm grows heavy and points toward their chest, revealing the act of hiding without revealing the memory. Once per day, *Remembered Strike* lets the bearer name a recorded missing person before striking a marked target, disorienting them and reducing combat response for one turn.
 
-**Cost:** The wielder hears the bell constantly. Prolonged use produces memory gaps.
+**Cost:** The bearer hears the Bell's midnight toll whenever they leave a child's question unanswered, strongest around abandoned records, unregistered districts and sealed Archive pages.
 
 *The charm is not issued from stores. It turns up on a worker who has completed a full toll standing, and the armoury records four percent of such watches and no pattern in which four.*
 
@@ -291,7 +291,7 @@ Lament's Edge is a memory anchor for the Bell's named grief and never a purchase
 
 The set is drawn from the bell's crystal and the tower's corroded fittings, and every piece carries the same property in a different form: it delivers a loss the bearer cannot attribute. The cost is paid in the bearer's own memory of childhood, and the armoury's standing instruction is that anything beginning to blur should be written down or said aloud to another person the same day.
 
-The set's resonance is a vigil rather than a loadout: one bearer carrying all three pieces inside the tower, speaking a documented lost name, stabilises Lament damage and toll resistance for a single vigil cycle, and the Bell records that name without adding a new face that night. The bearer pays for it by dreaming the final search of the named parent and waking with the route memorised; run the vigil again and the route is kept at the cost of the bearer's own childhood, which blurs into the tower's. Nothing the set does separates the bell from its tower, and a plan that proposes moving one without the other is read as full provocation. When the piece goes back to the tower the inward redirection ends and the record closes; the memory cost stays where it was paid.
+The set's resonance is a vigil rather than a loadout: one bearer carrying all three pieces inside the tower, speaking a documented lost name, stabilises Lament damage and toll resistance for a single vigil cycle, and the Bell records that name without adding a new face that night. The bearer pays for it by dreaming the final search of the named parent and waking with the route memorised; run the vigil again and the route is kept at the cost of the bearer's own childhood, which blurs into the tower's. Three names stored in the Shroud are a hard withdrawal threshold with no Archive exception. Nothing in the set can identify a living child's location—the Bell remembers loss, not rescue—and nothing separates bell from tower; a plan to move one without the other is full provocation. When the piece goes back to the tower the inward redirection ends and the record closes; the memory cost stays where it was paid.
 
 ### Field Use Record
 
@@ -299,7 +299,7 @@ The set's resonance is a vigil rather than a loadout: one bearer carrying all th
 |---|---|
 | **Before use** | Wielder and piece; the day's reading at the tower; and a baseline written down and left in another worker's hands, because the cost that matters with this set is the one a bearer cannot report on themselves. On an extraction, the approved Named Vigil and the documented name the bearer will carry through one complete toll sequence are entered before the attempt. |
 | **During use** | Charging shows in the bearer before anything else: the entity's unwept grief arrives ahead of whatever the piece is meant to give. The second worker logs it with the hour, and the bearer's own note goes in separately. |
-| **At limit** | The wearer becomes numb to minor joys, without remission, and on a The Orphaned Bell piece the use ends at that point whatever the wielder says about it. |
+| **At limit** | The wearer becomes numb to minor joys, without remission, and on an Orphaned Bell piece the use ends at that point whatever the wielder says about it. |
 | **After use** | Return the piece, then put the question to a colleague rather than to the bearer: the numbness this set deals is the one cost a person cannot see in themselves. Where the piece was turned on a memory, a witness or somebody mourning, log the return to the tower, the hour the inward redirection ended, and every name the bearer recorded on the armoury's instruction. |
 
 **Stat interpretation:** The grade is a statement about force and says nothing about price. On this set the two run against each other often enough that the minor pieces are watched hardest — a low-rated item can take something no figure on the sheet accounts for.
@@ -336,13 +336,13 @@ The set's resonance is a vigil rather than a loadout: one bearer carrying all th
 The Orphaned Bell (C-IVδ-001 [LO]) stands on the register as an Object-Lament manifestation expressing Lament. The bell formed during the westward expansion of Zone B. Hundreds of children were displaced: some were lost, some forgotten, and some vanished in the chaos. The collective grief of parents who never found them crystallized into the bell. Held at SECTOR-B-01 — special tower in Zone B; contained. First Sorrow Entity formally classified by the R.D. as IV-δ-001.
 
 **Entry 2 — <Excerpt from Field Log, Year 4209>**
-The tower contained 2,347 faces at one survey; the next survey recorded four additional faces.
+The face survey is photographed from brass-pin positions in the tower floor and compared frame against frame every fortnight. One survey counted 2,347 faces; the next recorded 2,351. The plates establish that four faces surfaced or became legible in the interval, not whom they depict.
 
 **Entry 3 — <Excerpt from Counseling Log, Year 4214>**
-The grief of parents searching for children who would never return.
+Workers past roughly three hours in the tower may hear names. The name is written exactly as heard on a slip, the hearer leaves the floor, and counselling is offered without asking the slip to become an identification: of 418 names eventually logged, 96 matched the municipal register and 322 matched nothing.
 
 **Entry 4 — <Containment Notice>**
-The bell has never escalated containment and behaves as if containment is irrelevant.
+Keep bell and tower anchored together; never strike, move or separate them. Record every new face before any other intervention. Viderehan observes names and faces between tolls, Ferrehan stands the toll in assigned pairs, and Pugnahan is prohibited because an attempt to silence the missing raises the Gauge.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 The Director notes: this sorrow is representative, not anomalous. It is the city grief given form at this location — the wound made visible.
@@ -364,7 +364,7 @@ Before the sound arrives, the air becomes emotionally heavy. Then the toll fills
 
 **At first contact:** The air thickens before anything is audible, and the first thing most workers notice is that the tower wall nearest them has a face in it that was not in the briefing plates. The bell itself is cold enough to read at a distance, and the blue in the crystal moves.
 
-**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Lament is teaching you its sorrow.
+**With continued exposure:** The interval becomes the clock. Between soundings you check your partner's posture, watch the blue veining and try not to decide whether the name forming under the sound belongs to anybody; if it arrives, it goes on the slip exactly as heard.
 
 **When the entity activates:** It tolls, once, with nothing touching it. The sound arrives through the floor before it arrives through the air, and what it delivers is not volume but a loss with no object attached — grief for someone the hearer cannot name, which is exactly the condition the originating parents were left in.
 
@@ -385,7 +385,7 @@ The Orphaned Bell is the first entity the R.D. ever catalogued, and much of the 
 |---|---|---|---|
 | **The Hollow Choir** | The Bell tolls in harmony with the Choir. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Grieving Colossus** | The Colossus pauses when the Bell tolls and listens. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Kind Healer** | The Healer cannot heal the Bell; its sorrow is too deep. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| **The Kind Healer** | The Healer cannot heal the Bell; its sorrow is too deep. | No change in toll interval has been shown. Any comfort given to hearers is recorded separately and is not entered as a reduction in the Bell's pressure. | Record distance, duration, trigger, gauges on both sides, interval before and after, and the next fortnightly face count. |
 | **The Silent Child** | The Child sits near the Bell, listening for a name that might be theirs. | Produces recognition rather than immediate aggression; record whether observation or acknowledgment changes the Gauge. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Forgotten Soldier** | The Soldier stands at attention when it tolls. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 

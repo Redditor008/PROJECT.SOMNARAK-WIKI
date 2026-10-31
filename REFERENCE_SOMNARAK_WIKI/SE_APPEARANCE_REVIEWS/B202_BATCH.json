@@ -1,0 +1,1249 @@
+{
+  "schema_version": 1,
+  "batch": 202,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-048",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-048_Hums_노래하는_돌.md",
+      "words": 8808,
+      "sha256": "77860b84c1c53a3b6d646b95cb0df388e6ae12ba68283ff4e2d689751e5453c8"
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVδ-230",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md",
+      "words": 8810,
+      "sha256": "d053b3451fe0ea68315e46129962522b3b11e4d0d417b44c79904647c8ded165"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-219",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md",
+      "words": 8837,
+      "sha256": "a95bca16f3603de60a6953ae9a05cfd6c07eb0fb470330c13ffaf2b1f28f2e40"
+    },
+    {
+      "unit": 4,
+      "designation": "C-IVγ-009",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md",
+      "words": 8840,
+      "sha256": "ebefaaa92e8fd6993abdb66aa58e425f8b1b754f819f98d829716ef76b132bf1"
+    },
+    {
+      "unit": 5,
+      "designation": "O-IVδ-844",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-844_Repose_잠든_잔해.md",
+      "words": 8915,
+      "sha256": "65d498f479611173c29e5a8e7d7f53cdd2190325e5efe80bb3750bf79906f9b6"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 5,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "C-IIβ-048",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-048_Hums_노래하는_돌.md",
+      "words": 8808,
+      "sha256": "77860b84c1c53a3b6d646b95cb0df388e6ae12ba68283ff4e2d689751e5453c8",
+      "name": "Hums",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_01_HUMS.md",
+      "before_words": 8808,
+      "after_words": 9025,
+      "base": "4f1d11dd3c87fa2230eacb96aed2675ad09ca46f",
+      "final_sha256": "c14fcebad0855a9c3f319103633172db77c8cee2143f3b8fee611f33d93fcb7e",
+      "summary": "Seventeen repairs (5 short / 12 careful). Hums is no longer a generally audible, vessel-destructible stone whose songs begin when it is struck or approached. Side A's five checkable conditions now govern Combat: still air, holding through one silent phrase, interruption, competing song/extraction demands, and Gauge ≥65% after three distinct interrupted songs. HELD with no fresh credit because Batch 139 already completed the exact SE-048 source review and awarded Weapon +1.",
+      "commentary": "The practical test is unusually humane: preservation is not a better transcript but another living person who can carry the tune out of the room. The six one-carrier songs are more alarming than any damage number in the file.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-048: Side A prints `C-IIβ-048 [LO]`, Object/Place—Object-Lament, II/β, Lament, Echo Gardens and Comprehension 3—Understood; B/C/D carry `MAW-W/S/G-048-01`. The primary's dominant mechanism is precise and was retained: one listener hears a dead singer's song, and the reading falls only when that listener can sing it unaccompanied and is entered by name in the carrier register (281 heard, 44 carried, 6 with one carrier, 237 transcribed and unsung). Repairs removed vessel/Han Dust and public/per-turn output language; aligned pressure and threshold; and rebuilt all five Combat Actions from Side A's Song Activation Protocol. The current Watch duty now matches the no-writing-during-song protocol, and the Requiem's falloff is its exact Single pattern rather than the entity's one-listener behaviour. All parsed table blocks are equal and every Trigger cell parses under Trigger.",
+      "history": "Draft/local history: songs whose last singers died sank through Echo Gardens soil rather than wholly into the Weeping and took the form of one warm stone. The carrier register, not a case or seal, is the containment instrument. Fresh credit BARRED: Batch 139 unit 5 already read the full primary and exact SE-048-A-D with Master M.A.W. entries 103–105, Tale 35, Entity Codex, Registry CSV rows 90–93 and archetype; it compared all three equipment pieces and explicitly recorded Weapon +1. No new `equipment_reviews` entry is appended, so Types and Weapon do not move.",
+      "holds": [
+        "Name fork: primary/Side A Hums versus Master/Tale The Singing Stone. Held.",
+        "Stone/song-state fork: primary dark stone holding songs at an unfinished note versus Tale's blue stone and passages implying completed songs whose living carriers were lost. Held.",
+        "Comprehension/work fork: primary 3—Advanced with Viderehan/Ferrehan versus Side A 3—Understood and the old Tale record's 2—Basic/Flerehan-only handling. Held.",
+        "Equipment form/function forks: exact deep-blue grooved blade, non-muting tempo shroud and responsive Pebble versus primary river-stone pommel, muffling/anhedonia shroud and warmth-led Pebble; remembered-source and genuine-quiet costs versus primary unwept-grief and music-as-information costs. Held.",
+        "Set-resonance fork: Side A Last Verse preserves a stable Archive Echo after an uninterrupted complete song, while the primary insists an archive record is not a living carrier. Held."
+      ],
+      "split": [
+        5,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-primary-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — keeping a heard song as music rather than becoming its unexamined conduit |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — fixed Object-Lament on open display; no vessel or destruction route is recorded |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-register-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed object; output is measured by the song sung, the one listener addressed, and movement in the living-carrier register |"
+        },
+        {
+          "id": "R05-threshold-full-archive-wake",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Activation threshold** | Sorrow Gauge ≥ 60% |",
+          "new": "| **Activation threshold** | Full Archive Wake at Sorrow Gauge ≥65% after three distinct songs have been interrupted |"
+        },
+        {
+          "id": "R06-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: the stone does not attack, and the two resistances are recorded because the encounter sheet has the field. What the encounter actually costs is attention, and attention has no resistance row. |",
+          "new": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: the stone does not attack, and the two resistances are recorded because the encounter sheet has the field. The working safeguards are one listener in the room, no shaking/striking/covering or attempt to stop the song, no competing requests or separate-melody extraction, and the carrier register reported before any gauge claim. |"
+        },
+        {
+          "id": "R07-operational-note-one-listener",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- The sound is continuous and has no located source; on open display it is audible from the Gardens path.",
+          "new": "- Ordinary activation addresses one emotionally resonant listener and is not a continuous public performance from the Gardens path. Only the overload condition—competing song demands or attempted separate extraction—expands subsonic pressure through the garden chamber."
+        },
+        {
+          "id": "R08-operational-note-carrier-success",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- A successful cycle lowers the volume for a shift. The pitch has never changed, and the entity is not diminished by work.",
+          "new": "- A successful cycle is not a temporary change in volume or pitch. It is entered only when the song sung acquires a living carrier who can sing it unaccompanied; the Stone itself is not diminished and still holds the song."
+        },
+        {
+          "id": "R09-first-note-still-air",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Note* [**Debuff**] } | \"The stone begins to hum — low, old, felt more in the chest than the ears.\" | [The Stone resonates; the target vibrates in sympathy.] | *Target suffers -10 Composure; the note is inside them now.* **[10 Lament DMG [Lament]]** | When the Stone is struck or approached. |",
+          "new": "| { *The First Note* [**Debuff**] } | \"The stone begins to hum — low, old, felt more in the chest than the ears.\" | [One low tone identifies the nearest emotionally resonant listener; no second listener is addressed.] | *The identified listener suffers -10 Clarity as the first note settles inside them; the register records listener and song before any interpretation.* **[10 Lament DMG [Lament]]** | When local air movement falls below the active garden threshold. |"
+        },
+        {
+          "id": "R10-resonance-full-phrase",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Resonance* [**Debuff**] } | \"The hum finds your frequency — and now you cannot stop singing along.\" | [The Stone locks onto the target; the resonance deepens.] | *Target loses 10 Composure; they cannot quiet the inner sound.* **[10 Lament DMG [Lament]]** | When the target stays within range. |",
+          "new": "| { *The Resonance* [**Debuff**] } | \"The hum finds your frequency — and now you cannot stop singing along.\" | [The song links the silent listener to a dead singer or lost memory; it does not end merely because the listener walks away.] | *The listener loses 10 Clarity. If listening is abandoned rather than genuinely ended, the unfinished song leaves residue in dreams; recognition alone does not make the listener a carrier.* **[10 Lament DMG [Lament]]** | When the listener holds the Stone and remains silent through one full phrase. |"
+        },
+        {
+          "id": "R11-sharp-chord-interruption",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sharp Chord* [**Attack**] } | \"The note sharpens to a point — and the point is aimed at you.\" | [A piercing chord lances out from the Stone.] | *Inflicts Lament pressure and one ringing wound.* **[14-22 Lament DMG [Lament]]** | When the Stone is disturbed. |",
+          "new": "| { *The Sharp Chord* [**Attack**] } | \"The note sharpens to a point — and the point is aimed at you.\" | [A sharp chord cuts through the interruption; the interrupted phrase is not counted as learned.] | *Inflicts Lament pressure and one ringing wound to the interrupting listener. The session sheet records the interruption and does not enter a carrier unless the song is later sung back unaccompanied.* **[14-22 Lament DMG [Lament]]** | When the Stone is shaken, struck or covered, or the listener attempts to stop the song. |"
+        },
+        {
+          "id": "R12-deep-tone-competing-demands",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Deep Tone* [**Attack**] } | \"The stone drops to a register lower than hearing — and the weight of it is crushing.\" | [A subsonic tone bears down on the target; the stone is not attacking, it is being heard from too close, and the effect is the whole of a life's music arriving in one register.] | *A heavy Lament pressure; the target's Sorrow Gauge surges 15% and the 462 line is untouched, because nothing has been done to the stone.* **[24-36 Lament DMG [Lament]]** | When the session is run against the wrong listener — a crowd, or a worker who has been told what the song is. |",
+          "new": "| { *The Deep Tone* [**Attack**] } | \"The stone drops to a register lower than hearing — and the weight of it is crushing.\" | [Subsonic Lament pressure expands through the garden chamber while competing demands pull at separate melodies.] | *Heavy Lament pressure to personnel inside the chamber; no personnel Sorrow Gauge is inferred. Competing requests and extraction attempts stop, the room returns to one listener, and no carrier is entered from a divided hearing.* **[24-36 Lament DMG [Lament]]** | When multiple people demand different songs or attempt to extract separate melodies. |"
+        },
+        {
+          "id": "R13-full-symphony-three-interruptions",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Symphony* [**Ultimate**] } | \"The stone sings every song it ever absorbed — a whole symphony of grief.\" | [The Stone releases its entire accumulated song, and the register is the one the file keeps: 281 songs heard, 44 with a living carrier, 6 in the hands of one person each.] | *All in range suffer Lament pressure for three turns in the symphony. The pressure falls in the district exactly as the register's carrier column rises, and rises again with every transcription that nobody takes up — the only combat figure on this sheet that is answered by paperwork.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%, which on this file means the songs have been left to the stone rather than learned from it. |",
+          "new": "| { *The Full Symphony* [**Ultimate**] } | \"The stone sings every song it ever absorbed — a whole symphony of grief.\" | [A three-turn choral field opens over the register's unresolved account: 281 songs heard, 44 with a living carrier, 6 in the hands of one person each.] | *All in range suffer Lament pressure for three turns. The Archive recorder remains present, and the close is still graded by named living carriers—not by the number of accurate transcriptions produced during the field.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥65% after three distinct songs have been interrupted. |"
+        },
+        {
+          "id": "R14-story-entry4-recognition-carrier",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 4 — <Recognised and Forgotten>**\nPersonnel often recognize songs they believed forgotten.",
+          "new": "**Entry 4 — <Recognised and Forgotten>**\nPersonnel often recognize songs they believed forgotten, but recognition is only the first field on the sheet. The register then asks who the song belonged to, whether anybody living already carries it, and whether this listener can sing it back unaccompanied after the Stone stops. A recognised song that nobody takes away in memory remains with the 237 accurate transcriptions, not with the district."
+        },
+        {
+          "id": "R15-watch-record-after-song-sheet",
+          "kind": "careful watch correction",
+          "careful": true,
+          "old": "The stone performs when the air is quiet and sorrow is concentrated nearby, and the Warden's duty is to be present and to write down what is sung. Transcription is by hand and in the moment. Recording equipment was trialled early and the trial is documented: the devices captured the stone adequately and the Wardens stopped listening, which the file identifies as the reason the trial was ended.",
+          "new": "The stone performs when the air is quiet and sorrow is concentrated nearby, and the Warden's current duty is to be present without writing during the song. The sheet is completed afterward from memory, because in-the-moment transcription produced accurate records from listeners who could not sing what they had written. Recording equipment was trialled early and the trial is documented: the devices captured the stone adequately and the Wardens stopped listening, which the file identifies as the reason the trial was ended."
+        },
+        {
+          "id": "R16-weapon-single-falloff",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Falloff Rule:** One listener only. This is not a limitation of the weapon; it is the entity, which has never addressed two people at once in two hundred years of display.",
+          "new": "**Falloff Rule:** Single designated target only; no secondary-target falloff is recorded for the Requiem."
+        },
+        {
+          "id": "R17-operational-note-no-public-field",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- No breach counter applies. The audible field widens, and because the display is open the boundary is walked before any public session.",
+          "new": "- No breach counter applies. Ordinary sessions are not public and do not create a widening audible field; only competing demands or separate-melody extraction produce the chamber-wide Deep Tone, so the gallery is cleared to one listener before work begins."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IIβ-048_Hums_노래하는_돌.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.020  clean   708 grams  M.A.W. Equipment\n 0.008  clean   826 grams  Combat Record\n 0.007  clean   296 grams  Operational Parameters\n 0.003  clean   361 grams  기록 (Registrum)\n 0.003  clean   391 grams  관찰 기록 (Observation Log)\n 0.002  clean  1246 grams  감각 묘사 (Flavor Text)\n 0.000  clean   673 grams  Activation Behavior\n 0.000  clean   447 grams  이야기 보고 (Story Log)\n 0.000  clean   394 grams  이야기 (Narratio)\n 0.000  clean   258 grams  Appearance\n 0.000  clean   251 grams  Watch Record\n 0.000  clean   201 grams  Origin\n 0.000  clean   195 grams  Behavior\n 0.000  clean   187 grams  Trivia\n 0.000  clean   114 grams  최종 관찰 (Final Observation)\n 0.000  clean    47 grams  SECC Classification\n 0.000  clean    42 grams  증언 (Testimonium)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, and here the cycle is defined by a change in the register rat\n   56   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: t\n   86   6  | { *The Full Symphony* [**Ultimate**] } | \"The stone sings every song it ever absorbed — a whole symphony of grief.\" | [A three-t\n  222   1  **Appearance:** a slender blade of Lament Han-crystal, no wider than two fingers, with a faint internal glow that tracks the note \n  235   2  **Ability:** Lament damage to the mind. The requiem carries the stone's signature — a melody with nobody left to sing it — and wha\n  243   1  **Appearance:** a wrapping shroud of Lament Han-silk in the stone's own dark grey, worn over the shoulders and belted at the waist\n  253   5  **Ability:** Turns Lament aside from the mind, which is the only pressure this post produces. Under the shroud a worker can sit th\n  255   1  **Cost:** The wearer goes numb to small pleasures first — food, weather, the end of a shift — and then to music, which they begin \n  286   4  **Stat interpretation:** Field performance and human cost are separate axes and neither is the point of this post. What the grades\n  311   1  **Observation method:** Record the first sign, which is warmth under the hand; the first sensation, which is recognition; the song\n  365   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  423   1  **Review requirement:** Re-verify after any Sorrow Tide, any expansion, and the death, retirement or transfer of any person listed\nGENERIC 0.004  (27 shared shingles)  SE-C-IIβ-048_Hums_노래하는_돌.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-A__SIDE_CODEX_Hums.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-B__MAW-W_The_Singing_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-C__MAW-S_The_Singing_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-D__MAW-G_The_Singing_Pebble.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-A__SIDE_CODEX_Hums.md": "63a12b2a22e4035e35bab6171d749dd61bebbb28d435480268af9cff192fe662",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-B__MAW-W_The_Singing_Requiem.md": "54e49fe00ec3f08a7e8910b2c59acda2128891f5322f75d300dc321a0b3e986a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-C__MAW-S_The_Singing_Shroud.md": "28b7d1e0b36393f5a75937f6659c26b13a0ff9ac7cdf8b384284fbb1a02a28dd",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/048_Hums/SE-048-D__MAW-G_The_Singing_Pebble.md": "2c8a8aa67f86f2897c73c12f7ad99c7f1dc60affe4a15555023b0cc5e002a441"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IIβ-048_Hums_노래하는_돌](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-048_Hums_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%8F%8C.md \"SE-C-IIβ-048_Hums_노래하는_돌.md\")]",
+      "table_link": "[[C-IIβ-048 Hums](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-048_Hums_%EB%85%B8%EB%9E%98%ED%95%98%EB%8A%94_%EB%8F%8C.md \"SE-C-IIβ-048_Hums_노래하는_돌.md\")]",
+      "reading": {
+        "before_lines": 461,
+        "before_bytes": 51959,
+        "final_lines": 461,
+        "final_bytes": 53686
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported β Han Dust range and Deep Tone's invented personnel 15% Sorrow Gauge surge were removed. The Core activation threshold changed from ≥60% to Side A's Full Archive Wake condition, ≥65% after three distinct interrupted songs."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "C-IVδ-230",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md",
+      "words": 8810,
+      "sha256": "d053b3451fe0ea68315e46129962522b3b11e4d0d417b44c79904647c8ded165",
+      "name": "Every Last Goodbye",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_02_EVERY_LAST_GOODBYE.md",
+      "before_words": 8810,
+      "after_words": 9139,
+      "base": "59eb94241c293c0aad0da23d378c765c6af2b80e",
+      "final_sha256": "7a9cafa79b1757bb3c6944830e63928e4402ec406a2f8901c945748c966de377",
+      "summary": "Twenty-four repairs (7 short / 17 careful). The stationary vault figure no longer moves at 2.45 m/s, is not vessel-destructible, and does not treat Pugnahan as valid work. Combat now follows the file's actual sequence—first glimpse, prolonged own-ending contact, authorised selected frame, forced answer, and the ≥90% Corrupt pulse—while Resolution is the complete silent name-slip return. HELD with no fresh credit because Batch 120 already gave SE-230 a full equipment review and counted the exact Weapon pair.",
+      "commentary": "Its mercy is sharply limited: it proves an ending was witnessed without pretending that witness equals delivery, comfort or permission to interpret. The name slips work because they add presence without putting words into the dead.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-230: Side A prints `C-IVδ-230 [VS]`, Subject—Subject-Void, IV/δ, Void, Gauge 60–80%, Void pressure 22–48 and Observation 4—Mastered; B/C/D carry `MAW-W/S/G-230-01`. The primary's dominant local system is a shadowless, silent vault, two observers, a counted flicker (3.1 → 4.6 → 6.4 faces/second), written slips, and 6,100 unattended-interment names passed one at a time because the older acknowledge-and-record instruction was legally unperformed for 11 years. Repairs removed the moving/vessel model, separated the 40% Corrupt-pulse event scale from the 90% combat threshold, prohibited Pugnahan as work, and rebuilt each action from first look, Ferrehan's own-ending approach, authorised Viderehan selection, forced confrontation and Corrupt pulse. Exact Lens rules now prevent firing into a goodbye, remove invented Tick damage, and require agreement only that the ending has passed while disagreement is preserved. Every table block parses with equal cell counts and all Trigger cells parse fifth.",
+      "history": "Draft/local history: unattended final moments accumulated until they became the witness each death had lacked. Somnarak's connection-only funeral attendance law ended a body/effects trade but leaves thousands correctly interred alone; burial and mortuary crews forbidden to stand beside those bodies form many of the vault's voluntary sitters. Fresh credit BARRED: Batch 120's pair-history control explicitly counted `SE-230-B / MAW-W-230-01` as a new exact Weapon disposition, unit 4 reviewed all three item appearance profiles/mechanisms and costs, and the close re-audited the pair. No new `equipment_reviews` entry is appended; Types and Weapon do not move.",
+      "holds": [
+        "Movement fork: primary stationary figure with pulse-only travel versus Side A's Corrupt breach moving at up to 2.45 m/s. Core Speed follows the primary's corrected local record; Side A is not erased. Held.",
+        "Population fork: primary/Tale formation from unwitnessed endings versus Side A's final thoughts from witnessed and unwitnessed deaths. Held.",
+        "Record fork: primary Viderehan prohibits transcription of a final moment and leaves only observer memory, while Side A/equipment protocol require exact independent sensory accounts. Held.",
+        "Weapon form fork: primary hand-held disc pulsing at the source flicker versus exact B's long pale sight-staff pulsing with the last observed heartbeat. Held.",
+        "Stigma provenance/metadata fork: primary Head/4% with four local slot conferrals versus Registry generic Accessory/5% and exact D's currently unassigned token. Held."
+      ],
+      "split": [
+        7,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-operational-pressure-composure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — witnessing final moments without rewriting, erasing or claiming to deliver them |"
+        },
+        {
+          "id": "R02-operational-threshold-corrupt-pulse",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Activation threshold** | 1 |",
+          "new": "| **Activation threshold** | Corrupt pulse: event begins at 40% and adds 10% for every unanswered interval; combat threshold ≥90% |"
+        },
+        {
+          "id": "R03-threshold-note-entry-check",
+          "kind": "short operational correction",
+          "careful": false,
+          "old": "- Threshold 1. Entry conditions are confirmed aloud outside the door by two operatives against a printed list, because nothing may be said inside.",
+          "new": "- Before entry, two operatives confirm the printed conditions aloud outside the door—pairing, silence, slips, and exit-name check—because nothing may be said inside."
+        },
+        {
+          "id": "R04-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — Subject-Void figure; destroying an exposed final memory is prohibited and no vessel route is recorded |"
+        },
+        {
+          "id": "R05-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R06-speed-stationary-pulse",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | N/A — the figure is stationary; output is measured by flicker rate, slip count, and whether the Corrupt pulse reaches paired observers |"
+        },
+        {
+          "id": "R07-valid-work-types",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |",
+          "new": "| **Valid Work Types** | Flerehan primary; Viderehan for an authorised selected record; Ferrehan on short rotation. Pugnahan is prohibited, not valid work here |"
+        },
+        {
+          "id": "R08-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The gauge opens full at 620 and trips at 90 per cent, and escalation runs 5 Clarity per turn while it is unopposed. |",
+          "new": "| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The safeguards are two observers together, absolute silence with written slips, no responder alone, no face transcription, no Pugnahan or attempted erasure, and each operative stating their own name aloud on exit. |"
+        },
+        {
+          "id": "R09-resolution-current-name-protocol",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Do not attempt to erase a final moment; acknowledge and record it |",
+          "new": "| **Resolution Condition** | Do not erase or rewrite a final moment. Under the current vault protocol the complete Burial Office unattended-interment return is passed through the slot—one printed name to a slip, in silence—and any witnessed moment is recorded exactly without a claim of delivery |"
+        },
+        {
+          "id": "R10-fading-image-first-glimpse",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Fading Image* [**Debuff**] } | \"A memory appears — the last one. After this, there is nothing else to remember.\" | [Every Last Goodbye presents itself; the target feels the finality.] | *Target suffers a Void mark; what comes after memory is void.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target witnesses the Memory. |",
+          "new": "| { *The Fading Image* [**Debuff**] } | \"A memory appears — the last one. After this, there is nothing else to remember.\" | [Looking at the figure places the emotional shape of one final moment directly into the observer; the same moment is never shown twice to that observer.] | *The observer suffers a Void mark and loses Composure; the paired observer records only count, duration and slip number, never a claimed face.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When an observer first looks directly at the translucent figure in the vault. |"
+        },
+        {
+          "id": "R11-edge-of-recall-own-ending",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Edge of Recall* [**Debuff**] } | \"You are at the end of remembering — and beyond this memory, there is only blank.\" | [Every Last Goodbye shows the target the edge of their own past.] | *Target loses clarity; the void after the last memory is vast.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target touches the Memory. |",
+          "new": "| { *The Edge of Recall* [**Debuff**] } | \"You are at the end of remembering — and beyond this memory, there is only blank.\" | [Prolonged contact turns from another person's ending to the worker's own possible ending.] | *The worker loses Composure and experiences their death as settled rather than prospective; the pair ends the interval and post-contact existential review is mandatory.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When Ferrehan or prolonged paired observation continues past the first glimpse and the worker is shown the approach of their own ending. |"
+        },
+        {
+          "id": "R12-final-frame-selected-record",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Final Frame* [**Attack**] } | \"The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut.\" | [The Memory hardens and strikes.] | *Inflicts Void damage; the final recollection erases what comes after.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Memory is disturbed. |",
+          "new": "| { *The Final Frame* [**Attack**] } | \"The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut.\" | [One selected final moment remains long enough to be documented, then returns to the multitude without confirming any interpretation.] | *Inflicts Void pressure on the authorised witness. The record preserves exactly what appeared and preserves disagreement; it is not testimony, absolution, accusation, prophecy or a delivered message.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When Viderehan with identity and clearance selects one named dead person's final moment. |"
+        },
+        {
+          "id": "R13-full-recall-forced-answer",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Recall* [**Attack**] } | \"The last memory releases everything it held — a lifetime, compressed into one final, devastating burst.\" | [A whole life arrives in the room at once, at the size a death actually has when it is not summarised.] | *A heavy Void explosion; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Memory is forced. |",
+          "new": "| { *The Full Recall* [**Attack**] } | \"The last memory releases everything it held — a lifetime, compressed into one final, devastating burst.\" | [Fear and regret are released when the collection is forced to answer the living; a whole ending arrives unsummarised.] | *Heavy Void pressure to the forcing worker; no personnel Sorrow Gauge is inferred. Work stops, the pair withdraws together, and names are stated aloud outside the door.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When Pugnahan or any attempt to force, erase or rewrite a final moment into a preferred answer is made. |"
+        },
+        {
+          "id": "R14-blank-after-corrupt-pulse",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Blank After* [**Ultimate**] } | \"The last memory fades — and now everyone has reached the end of remembering, and beyond is only void.\" | [The vault goes past the end of anybody's recall and the last thing in the room goes with it.] | *All in range suffer Void erosion for three turns of total blankness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Blank After* [**Ultimate**] } | \"The last memory fades — and now everyone has reached the end of remembering, and beyond is only void.\" | [The figure pulses in place as the vault loses definition: colour drains, sound stops carrying, and edges thin outward from the wall.] | *All personnel reached by the pulse suffer Void erosion and lose memories of partings for three turns. The zone is sealed, nobody enters alone, and Viderehan plus Ferrehan are used without destroying the exposed memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90% and the Corrupt pulse begins. |"
+        },
+        {
+          "id": "R15-consequence-lens-not-swing",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- The M.A.W. is never costless, and here the price is collected in leave-takings: every swing passes a goodbye through the weapon on the bearer’s behalf, and the equipment records keep the count.",
+          "new": "- The M.A.W. is never costless. The Lens is not swung and must never fire into a goodbye; it acts only in the Blank After once the final frame has ended, and each discharge takes one small unnamed memory from the wielder while indexed facts remain."
+        },
+        {
+          "id": "R16-lens-damage-application-no-tick",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Damage Application:** The multiplier applies to direct damage and Tick damage separately, and the Tick from this source is mnemonic — the bearer loses a memory of a parting per application, selected by nothing anybody has identified.",
+          "new": "**Damage Application:** The Skewer multiplier applies to the direct Blank-After line through up to three targets. No Tick damage is recorded; the mnemonic charge is the separate per-shot cost below."
+        },
+        {
+          "id": "R17-final-hour-bestowal-piece",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "*A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Lens. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*",
+          "new": "*A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Final Hour token. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*"
+        },
+        {
+          "id": "R18-two-witness-agreement-scope",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Two witnesses must agree before the lens is fired, and disagreement between their accounts is preserved rather than resolved.",
+          "new": "Two witnesses must agree only that the ending has passed before the Lens is fired; disagreement in their sensory accounts is preserved rather than resolved, and the disc clears on the transparent interval after both accounts, not when one version wins."
+        },
+        {
+          "id": "R19-story-entry2-specific-record",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Its memories spread through the Alpha Tree vault. Personnel experience the final moments of the dead and glimpse their own. It communicates through feeling rather than speech.",
+          "new": "Both count sheets were filed unreconciled. No face was described at handover. Each observer stated their own name aloud in the corridor before the vault door was sealed again."
+        },
+        {
+          "id": "R20-story-entry3-counseling-close",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "The loneliness of dying and the fear that the last moment will vanish with the person.",
+          "new": "Counseling therefore records the worker's own ending-image separately from any name they carried, checks whether present events are being spoken of in the past tense, and does not ask the worker to interpret a final moment as a message."
+        },
+        {
+          "id": "R21-apex-pulse-reaches-not-passes",
+          "kind": "careful apex correction",
+          "careful": true,
+          "old": "Its event is a Corrupt: it pulses in place, cracking the walls, while the containment zone loses definition and it takes memories from everyone it passes.",
+          "new": "Its event is a Corrupt: it pulses in place, cracking the walls, while the containment zone loses definition and the pulse takes memories from everyone it reaches."
+        },
+        {
+          "id": "R22-extraction-paired-not-solo",
+          "kind": "careful operational correction",
+          "careful": true,
+          "old": "- Extraction is authorised separately and is the only activity in this chamber that may be conducted by one person, because it cannot be conducted by two.",
+          "new": "- Extraction is authorised separately and remains paired work: two independent witness accounts are required before the Lens may act, and no extraction responder enters the chamber alone."
+        },
+        {
+          "id": "R23-lens-cost-no-tick-label",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Cost:** The bearer loses small, nameless memories with each use — the Tick from this source is mnemonic — and the Armoury records the loss against the bearer rather than against the piece.",
+          "new": "**Cost:** The bearer loses one small, nameless memory with each discharge while indexed facts remain, and the Armoury records the loss against the bearer rather than against the piece."
+        },
+        {
+          "id": "R24-escalation-composure-track",
+          "kind": "careful event correction",
+          "careful": true,
+          "old": "| **Escalation** | While it is unopposed the pressure grows: Clarity drain rises by 5 each turn until the cycle is suppressed. The figure has never taken a step — what travels is the pulse, and the pulse is what the drain is measured against. |",
+          "new": "| **Escalation** | While it is unanswered the pressure grows: Composure drain rises by 5 each turn until the pulse recedes under Viderehan and Ferrehan. The figure has never taken a step — what travels is the pulse, and the pulse is what the drain is measured against. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.019  clean   155 grams  최종 관찰 (Final Observation)\n 0.016  clean   129 grams  Operational Parameters\n 0.015  clean   879 grams  M.A.W. Equipment\n 0.013  clean   229 grams  기록 (Registrum)\n 0.012  clean   257 grams  Trivia\n 0.007  clean   811 grams  Combat Record\n 0.003  clean   639 grams  감각 묘사 (Flavor Text)\n 0.002  clean  1631 grams  Apex Record\n 0.000  clean   453 grams  이야기 보고 (Story Log)\n 0.000  clean   451 grams  이야기 (Narratio)\n 0.000  clean   246 grams  관찰 기록 (Observation Log)\n 0.000  clean   222 grams  Appearance\n 0.000  clean   211 grams  Origin\n 0.000  clean   179 grams  Containment Event Behavior\n 0.000  clean   164 grams  Behavior\n 0.000  clean    43 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      4 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   6  | { *The Blank After* [**Ultimate**] } | \"The last memory fades — and now everyone has reached the end of remembering, and beyond \n  191   2  **Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and carries the source's signature: the\n  199   1  **Appearance:** A veil of Void Han-gossamer, near-translucent and all but colourless, that stirs with the wearer's breathing and l\n  245   5  | **Before use** | Wielder, piece, the gauge at issue, and a sealed baseline of the bearer's own partings — three leavings they ca\n  246   5  | **During use** | The charge shows as the baseline thinning: the named leavings go unaccountably vague, oldest first. The hour go\n  300   3  | Acknowledge the final moment and record it — and erase nothing: pass the unattended-interment names through the slot, one to a s\n  330   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  379   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (\n  437   4  The burial guilds asked, in Year 4231, for one narrow thing: that where an interment would otherwise be unattended, the guild be a\n  451   3  - The register keeps its own figures in numerals for look-up: gauge 620/620, pressure 22–48 per hit, resistance 45 / 35 per cent, \nGENERIC 0.005  (36 shared shingles)  SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-A__SIDE_CODEX_Every_Last_Goodbye.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-B__MAW-W_The_Final_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-C__MAW-S_The_Final_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-D__MAW-G_The_Final_Hour.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-A__SIDE_CODEX_Every_Last_Goodbye.md": "1052c639bbfc641e7acb3b7d1a23d18821765aa55be3093e42ed90115db4a83d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-B__MAW-W_The_Final_Lens.md": "090e436586c3e7b9077042bafae62ba9f4c8522d3c02a4f4f8c00248b2f15487",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-C__MAW-S_The_Final_Veil.md": "42756fe3b5a87a92eda7fab058300b648fd4f080f10af205af50b27e13fe58ef",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_220_to_233/SE-230-D__MAW-G_The_Final_Hour.md": "904027288bcefd90ecf55e2293fa7e52d19b4a0742ca074f8a826d57030a35a0"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-230_Every_Last_Goodbye_%EB%A7%88%EC%A7%80%EB%A7%89_%EA%B8%B0%EC%96%B5.md \"SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md\")]",
+      "table_link": "[[C-IVδ-230 Every Last Goodbye](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-230_Every_Last_Goodbye_%EB%A7%88%EC%A7%80%EB%A7%89_%EA%B8%B0%EC%96%B5.md \"SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md\")]",
+      "reading": {
+        "before_lines": 470,
+        "before_bytes": 52447,
+        "final_lines": 470,
+        "final_bytes": 54758
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unexplained threshold `1`, Speed `2.45 m/s`, δ Han Dust range and Full Recall's personnel 15% Sorrow Gauge surge were removed. The Ultimate changed from the unsupported 65% to the Core Stat/Trivia threshold ≥90%; the separate Corrupt-pulse event scale remains 40% plus 10% per unanswered interval."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-219",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md",
+      "words": 8837,
+      "sha256": "a95bca16f3603de60a6953ae9a05cfd6c07eb0fb470330c13ffaf2b1f28f2e40",
+      "name": "Soaking Shard",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_03_SOAKING_SHARD.md",
+      "before_words": 8837,
+      "after_words": 9156,
+      "base": "c5f8a4bb1d4494fb73309800540ec187c345b69e",
+      "final_sha256": "e08b706fb746bc5e3dd92f2987f6c07d2cd1401ddc5445cfbe52b79a6c047947",
+      "summary": "HELD +0 — 22 repairs align the rooted liquid-memory shard with volume-led operation and deliberate, unsealed channel closure.",
+      "commentary": "The governing hazard is a worker's own mourning, so the best protection is also the measurement: leave, tell the outside worker, record a reading rather than a refusal, and take the dry period.",
+      "reasoning": [
+        "Direct identity is exact through C-IVδ-219 [LO], O-Relic tooling, IV/δ, Lament, Gauge 60–80%, pressure 30–66, Observation 2 and item codes; Soaking Shard versus Splinter is held.",
+        "Side A makes the crack an opening rather than a wound: touch or tears opens one liquid-memory channel, witnessing to evaporation/absorption and deliberate closure below 25% resolves it, and the crack is never sealed or struck.",
+        "Combat rebuilt from near/lingers and an impossible whipping shard to contact, rising margin/sump, surface impact, shattering and Gauge ≥90%, preserving two-inside/one-outside, chalk and withdrawal-as-reading."
+      ],
+      "history": "The primary's 2026-10-12 full-set source review and Batch 96 unit 1 already reviewed the exact SE-219 set, so fresh Types, Weapon, or SE Appearance Fix credit is barred. HELD +0.",
+      "holds": [
+        "Title fork: Soaking Shard versus Splinter. Held.",
+        "Flow direction: upward runoff versus downward beading/sump flow. Held.",
+        "Weapon Medium profile and missing local Skewer/falloff versus archetype Short. Held.",
+        "Pendant warmth/blade reversal versus exact cool-until-attack/evaporation release. Held.",
+        "Stigma Tail/4% versus Registry Accessory/5%. Held.",
+        "Original mourner, memory count and upward-flow destination unknown. Held."
+      ],
+      "split": [
+        5,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-operational-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — distinguishing a released memory and one's own grief from the volume being measured |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — rooted O-Relic; striking or shattering is prohibited and releases the full soak rather than resolving it |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-volume-series",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed object; output is measured by sump volume, chalked wetted margin, profile-gauge height and withdrawal readings |"
+        },
+        {
+          "id": "R05-threat-critical",
+          "kind": "short story correction",
+          "careful": false,
+          "old": "**Threat rating:** Low, in the register's own words, and the file adds the caveat that low here describes the danger and not the work. The hazard is a horror rather than a strike: proximity installs the discovery that a loss believed sealed has been moving the whole time, and the discovery is what the wing has never found a way to uninstall.",
+          "new": "**Threat rating:** Critical (δ). The shard does not strike; proximity installs the discovery that a loss believed sealed has been moving the whole time, and contact can exchange a worker's memory for a released one."
+        },
+        {
+          "id": "R06-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45 per cent against Lament pressure and 35 against anything else, with the file's own note that the shard does not strike: it seeps, it is rooted in the floor, and what a worker actually resists is the pull of a sealed grief found still moving. |",
+          "new": "| **Resistance** | 45 per cent against Lament pressure and 35 against anything else, with the file's own note that the shard does not strike: it seeps, it is rooted in the floor, and what a worker actually resists is the pull of a sealed grief found still moving. Work from the marked standpoint behind the chalk with two inside and one outside on clock/sump; do not touch crystal or runoff, strike/shatter it, or fill, fuse, cap or polish over the crack. A mourning worker withdraws, the volume ledger takes that withdrawal as a reading, and a dry period follows. |"
+        },
+        {
+          "id": "R07-resolution-deliberate-close",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | The grief is left in the vessel — layers read from the marked standpoint, nothing taken out — and the seep rate falls below the previous session's chalk line. |",
+          "new": "| **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, the Gauge falls below 25%, and sump/margin are re-read. No replacement memory is forced into the crack and no crystal is cut or sealed over. |"
+        },
+        {
+          "id": "R08-wet-edge-touch-tears",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Wet Edge* [**Debuff**] } | \"The shard is slick with old tears — and the edge slips through armor like it is not there.\" | [The Shard's sorrow-water lubricates its cut; defense slides off.] | *Target suffers -10 Composure; the wet edge finds every gap.* **[10 Lament DMG [Lament]]** | When the target is near the Shard. |",
+          "new": "| { *The Wet Edge* [**Debuff**] } | \"The shard is slick with old tears — and the edge slips through armor like it is not there.\" | [A channel opens at the wet face and one preserved memory leaves as a liquid vision; the rooted shard does not move or cut.] | *The contacting worker suffers -10 Clarity and may lose a memory in exchange. Record trigger, face response, chalked margin and sump before personnel interpretation.* **[10 Lament DMG [Lament]]** | When touch or falling tears reach the crystal surface. |"
+        },
+        {
+          "id": "R09-drip-rising-margin",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Drip* [**Debuff**] } | \"Each drip from the shard carries a memory — and the memories pool at your feet.\" | [The Shard's runoff accumulates; the target stands in collected grief.] | *Target loses 10 Composure; the pool is rising.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Drip* [**Debuff**] } | \"Each drip from the shard carries a memory — and the memories pool at your feet.\" | [The open channel's runoff quickens and the wetted margin advances beyond the previous chalk while the vision remains unfinished.] | *Workers inside lose 10 Clarity to saturation. The outside worker calls rotation from the sump/clock; nobody steps into runoff to inspect it.* **[10 Lament DMG [Lament]]** | When an open channel remains unwitnessed or unfinished and the margin/sump rises between readings. |"
+        },
+        {
+          "id": "R10-slick-cut-impact-output",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Slick Cut* [**Attack**] } | \"The shard whips through the air — trailing water, trailing sorrow, cutting clean.\" | [A water-slicked shard-strike.] | *Inflicts Lament pressure and one clean, soaking wound.* **[14-22 Lament DMG [Lament]]** | When the Shard is struck. |",
+          "new": "| { *The Slick Cut* [**Attack**] } | \"The shard whips through the air — trailing water, trailing sorrow, cutting clean.\" | [Impact marks the surface and liquid output rises along the wet edge; the rooted shard itself does not whip or strike.] | *Inflicts Lament pressure and one soaking emotional wound to personnel inside the margin. Impact stops at once, the crack is read only from the marked standpoint, and no cleaning or repair touches the face.* **[14-22 Lament DMG [Lament]]** | When the crystal is struck or its surface is physically marked. |"
+        },
+        {
+          "id": "R11-full-soak-shattering",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Soak* [**Attack**] } | \"The shard releases every drop it ever held — a blade that becomes a wave.\" | [The store gives out at once, and everything the vault has kept since the last dried season crosses the chamber in one move.] | *A heavy Deep Blue deluge; the gauge jumps 15 at a stroke.* **[24-36 Lament DMG [Lament]]** | When the surface is broken. |",
+          "new": "| { *The Full Soak* [**Attack**] } | \"The shard releases every drop it ever held — a blade that becomes a wave.\" | [Breaking the crystal releases the stored soak through the chamber rather than destroying the grief that carries it.] | *Heavy Lament pressure to personnel in the wetted chamber; no personnel Gauge jump is inferred. Withdraw behind chalk, account for sump shortfall, and inspect the floor from below before re-entry.* **[24-36 Lament DMG [Lament]]** | When the crystal is shattered or the source crack is forcibly broken open. |"
+        },
+        {
+          "id": "R12-drowned-edge-gauge90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Drowned Edge* [**Ultimate**] } | \"Every shard in the field goes slick — and the air itself becomes wet with grief.\" | [The wet leaves the chamber and takes the district's edges with it, and every surface in reach runs with something warm.] | *Every worker in range takes Lament pressure across 3 turns of wet edges.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Drowned Edge* [**Ultimate**] } | \"Every shard in the field goes slick — and the air itself becomes wet with grief.\" | [At high Gauge every wet edge in the chamber carries Lament while the crack remains open.] | *All workers inside the wetted margin suffer Lament pressure for three turns. The pair withdraws together, volume is read before interpretation, and the channel is later closed deliberately below 25%—never by sealing the crack.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |"
+        },
+        {
+          "id": "R13-termination-no-seal-crack",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Termination / Return** | The channel is closed on purpose by the operator and never by letting go of it. The worker outside calls it, the two inside step back behind the chalk line, and the conduit is sealed in that order. A conduit dropped instead of closed vents Lament resonance with nothing containing it, and the sector keeps that reading for a shift afterwards. |",
+          "new": "| **Termination / Return** | The channel is closed deliberately and never by abandoning it: the vision is witnessed to evaporation or absorption, the outside worker calls the close, and the two inside step back behind the chalk line. The source crack is not filled, fused, capped or polished over. An abandoned channel compounds residue and accelerates the seep. |"
+        },
+        {
+          "id": "R14-log-10s-memory-channel",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 10 Seconds | The shard starts to thrum as the channel opens and a wave of Lament sorrow crosses the chamber, which the corridor feels before the instruments register it. | Opening the channel is the activation itself. One preserved memory comes out as liquid vision and stands above the wetted margin, and Sorrow Gauges in the adjacent containment units steady while it runs. |",
+          "new": "| 10 Seconds | The shard starts to thrum as the channel opens and a wave of Lament sorrow crosses the chamber, which the corridor feels before the instruments register it. | Opening the channel is the activation itself. One preserved memory comes out as liquid vision above the wetted margin; the outside worker starts the clock and records trigger, starting sump and prior chalk line. |"
+        },
+        {
+          "id": "R15-log-30s-no-sector-defence",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | At this point the conduit has widened, and the memory resolves into the grief this shard holds, which is the belief that a loss had been sealed when it stayed alive inside. Under that, older and harder to read, is the cracking of the memorial shard in the Alpha Tree vault during the Sorrow Tide surge. | Elemental defence rises through the sector's allied units as the aura widens out to Range Band 2, held only while attention stays on the flow. |",
+          "new": "| 30 Seconds | At this point the conduit has widened, and the memory resolves into the grief this shard holds, which is the belief that a loss had been sealed when it stayed alive inside. Under that, older and harder to read, is the cracking of the memorial shard in the Alpha Tree vault during the Sorrow Tide surge. | No sector defence is claimed. The two inside remain at the standpoint and do not touch runoff; the outside worker compares film behaviour with the starting margin and sump rate. |"
+        },
+        {
+          "id": "R16-log-1m-no-fixed-drain",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 1 Minute | The pressure asks for more than mechanical energy. The channeler carries the mass of a purpose never finished, a sealed grief with no name attached to it anywhere in the surviving catalogue, and feels that on the lungs instead of in the hands. | Holding the channel beyond the first 60 seconds drains 4 Composure on each ten-second count, so the operator settles the disengagement before that clock starts rather than while it is running. |",
+          "new": "| 1 Minute | The pressure asks for more than mechanical energy. The channeler carries the mass of a purpose never finished, a sealed grief with no name attached to it anywhere in the surviving catalogue, and feels that on the lungs instead of in the hands. | No fixed ten-second drain is recorded. The outside worker watches for the worker's own mourning, margin advance and sump acceleration; any one ends the rotation as a logged reading rather than a refusal. |"
+        },
+        {
+          "id": "R17-log-2m-abandoned-channel",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 2 Minutes | The flow threatens to run backwards into the facility. Grief held this long overflows the channel and searches out a living vessel to settle in, and the record warns plainly that the nearest vessel is the channeler. | An overloaded or abandoned channel vents a Lament shockwave with nothing shaping it. The worker may give up a memory from their own past to replace what was released, and every person in the sector takes heavy damage. |",
+          "new": "| 2 Minutes | The flow threatens to run backwards into the facility. Grief held this long overflows the channel and searches out a living vessel to settle in, and the record warns plainly that the nearest vessel is the channeler. | An abandoned channel compounds residue and may take a worker memory in exchange. The pair withdraws together behind chalk; the vision is not forced into the crack, retained as power, or followed into general drainage. |"
+        },
+        {
+          "id": "R18-response-volume-order",
+          "kind": "careful escalation correction",
+          "careful": true,
+          "old": "**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.",
+          "new": "**Response sequence:** Keep two inside and one outside; read sump, margin and profile height in that order; withdraw together behind the chalk if margin gain has no matching sump volume; inspect the floor from below. Do not touch runoff, strike the crystal, seal the crack, or improvise Flerehan/Pugnahan as countermeasures."
+        },
+        {
+          "id": "R19-story-entry2-tide-volume",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 2 — <Excerpt from Field Log, Year 4238>**\nIt grows more active during the Sorrow Tide.",
+          "new": "**Entry 2 — <Excerpt from Field Log, Year 4238>**\nIt grows more active during the Sorrow Tide, the only external variable with a settled correlation. The entry is therefore volumetric before it is interpretive: starting sump, ending sump, margin against the previous chalk, and any shortfall that would mean memory-bearing fluid has gone somewhere the sealed carriage never received."
+        },
+        {
+          "id": "R20-story-entry3-withdrawal-reading",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Excerpt from Counseling Log, Year 4231>**\nThe grief of believing a loss had been sealed when it remained alive inside.",
+          "new": "**Entry 3 — <Excerpt from Counseling Log, Year 4231>**\nThe grief of believing a loss had been sealed when it remained alive inside is also the chamber's welfare problem. A worker who begins mourning their own loss leaves at once and says why outside; counseling logs the withdrawal against the volume series as a reading, with no personnel entry, and assigns a dry period away from wet work."
+        },
+        {
+          "id": "R21-battle-resolution-deliberate-close",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** **Let the grief stay in the vessel: read the layers in place, and take nothing out**. The condition is met when the shift has left the fluid where it seeps, chalked the new margin against the old, and gone home without carrying any of it; a session that ends with the sump short and a worker richer in memories is entered as a withdrawal, whatever was learned by it.",
+          "new": "3. **Resolution:** The released vision is witnessed to evaporation or absorption and the channel is closed deliberately from behind the chalk; the crack itself is left open and unsealed. The condition is met only with Gauge below 25%, the new margin chalked against the old, sump volume accounted for, and no worker carrying a replacement memory out as the price of closure."
+        },
+        {
+          "id": "R22-management-deliberate-close",
+          "kind": "careful activation correction",
+          "careful": true,
+          "old": "| **Management** | Let the grief stay in the vessel: read the layers from the marked standpoint and take nothing out. Viderehan and Ferrehan only, the fluid left where it seeps, and the margin chalked at every session. |",
+          "new": "| **Management** | Viderehan and Ferrehan only from the marked standpoint. Witness the vision to evaporation or absorption, close the channel deliberately below 25%, and re-read sump/margin/profile. Do not force a replacement memory into the crack or fill, fuse, cap or polish over it. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.028  clean   176 grams  Trivia\n 0.021  clean   977 grams  M.A.W. Equipment\n 0.018  clean   228 grams  기록 (Registrum)\n 0.005  clean   871 grams  Combat Record\n 0.002  clean   581 grams  Activation Behavior\n 0.001  clean   822 grams  감각 묘사 (Flavor Text)\n 0.000  clean  1310 grams  Apex Record\n 0.000  clean   426 grams  이야기 (Narratio)\n 0.000  clean   322 grams  이야기 보고 (Story Log)\n 0.000  clean   260 grams  관찰 기록 (Observation Log)\n 0.000  clean   194 grams  Appearance\n 0.000  clean   154 grams  최종 관찰 (Final Observation)\n 0.000  clean   140 grams  Behavior\n 0.000  clean   139 grams  Origin\n 0.000  clean   118 grams  Operational Parameters\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    41 grams  SECC Classification\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   86   4  | { *The Drowned Edge* [**Ultimate**] } | \"Every shard in the field goes slick — and the air itself becomes wet with grief.\" | [At\n  154   1  > **This Relic is Capable of Sector / Facility Alteration**\n  222   4  **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the shard's signature: what t\n  268   1  | **Before use** | Wielder, piece, and a dated baseline laid down by a second person: what has the bearer been dreaming about this\n  269   5  | **During use** | The charge shows as weeping without a source and dreams that will not stay on the bearer's own account. The hou\n  275  11  **Full-set source review (2026-10-12):** Reviewed the `O-Relic (Offertorium) · δ` overview, every local Weapon/Suit/Stigma block, \n  364   1  **Interaction procedure:** Solo baselines first for both records, then the pairing with the second record's staff held outside the\n  405   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)\n  412   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the sump series aga\n  480   5  - **Field detail:** Its defining element is Lament, and its registered location is Zone A, Alpha Tree vault.\nGENERIC 0.005  (36 shared shingles)  SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-A__SIDE_CODEX_Splinter.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-B__MAW-W_Splinter_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-C__MAW-S_Splinter_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-D__MAW-G_Splinter_Pendant.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-A__SIDE_CODEX_Splinter.md": "8364266cd282f6656d4445c437382f7096318948a5463c9f8bc51f143c5a62b3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-B__MAW-W_Splinter_Requiem.md": "254a6b49e68bac9b0bacda1aa58f2f8fba99f875c23891c931d303667ce162b0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-C__MAW-S_Splinter_Shroud.md": "db81722cf8525fb0f416c0f7257d46cf1c239bdbc31d2e717183f782f388ff4c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-219-D__MAW-G_Splinter_Pendant.md": "aea85bc7ae894172a8d004a3ad8286a4a671050fe7c46a54d00a75426dfd60e3"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-219_Soaking_Shard_솟구친_조각](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md \"SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md\")]",
+      "table_link": "[[C-IVδ-219 Soaking Shard](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-219_Soaking_Shard_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EC%A1%B0%EA%B0%81.md \"SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md\")]",
+      "reading": {
+        "before_lines": 489,
+        "before_bytes": 53122,
+        "final_lines": 489,
+        "final_bytes": 55324
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Combat now uses the exact ≥90% threshold and <25% closure condition instead of the former 65% Ultimate and invented +15 Gauge jump."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "C-IVγ-009",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md",
+      "words": 8840,
+      "sha256": "ebefaaa92e8fd6993abdb66aa58e425f8b1b754f819f98d829716ef76b132bf1",
+      "name": "The Memory Weaver",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_04_THE_MEMORY_WEAVER.md",
+      "before_words": 8840,
+      "after_words": 9260,
+      "base": "59cc04a08455e77f308004443d72fccfd12bb59c",
+      "final_sha256": "19d8f1727cfd824e532a4551ce9d16bcde268d714e1c7ffc93ebfc0e67860d20",
+      "summary": "HELD +0 — 22 repairs make the Weaver a trade-and-anchor encounter rather than a generic memory monster.",
+      "commentary": "The file's central instrument is not the Gauge. It is the record made before anybody can lose the thing it describes: baseline first, identity card second, memory trade last, if at all.",
+      "reasoning": [
+        "Side A supplies an exact trade sequence: visible offer, unlogged acceptance, refusal by violence, raw-memory overload and World Tapestry at 65% or three losses. Combat now follows those checkable conditions instead of begins/lingers/disturbed/confronted.",
+        "Identity cards and baseline inventories are not flavour; a Weaver taking leaves no felt absence, so only records made before contact can prove a loss.",
+        "Resolution must satisfy two truths: only a genuine lived memory can overload the Weaver, and local procedure forbids improvised sacrifice. The corrected file therefore treats withdrawal behind written anchors as the lawful close when both conditions cannot be met."
+      ],
+      "history": "Batch 87 revised the exact Side weapon identity and Batch 134 added source-led Awl/Veil/Mask accountability to the primary; unresolved source forks remain. HELD +0 with no fresh Types, Weapon or SE Appearance Fix credit.",
+      "holds": [
+        "Shuttle-Awl versus residual Lens terminology/filename. Held.",
+        "Suit memory-return and aftereffects differ between primary and item. Held as separate accounts.",
+        "Stigma 4%/+2 unspecified stat versus Registry 5%. Held.",
+        "Breach Gauge per completed trade versus encounter thresholds. Held as separate breach accounting.",
+        "Whether a returned memory regains context and ownership. Held."
+      ],
+      "split": [
+        5,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity-op",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Clarity — identity, memory ownership and the ability to distinguish lived past from offered recollection |"
+        },
+        {
+          "id": "R02-pressure-clarity-combat",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary Pressure** | Composure |",
+          "new": "| **Primary Pressure** | Clarity |"
+        },
+        {
+          "id": "R03-movement-spider-dream",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |",
+          "new": "| **Movement** | Mobile — spider-like crawling within the library; in breach it withdraws through the Dream layer and does not pursue in the waking layer. |"
+        },
+        {
+          "id": "R04-restitution-one-day",
+          "kind": "short apex correction",
+          "careful": false,
+          "old": "Four times a cycle the holding runs a restitution day: memories identified in the catalogue as belonging to living citizens are returned through the procedure the Memory Archive's liaison office administers.",
+          "new": "Once a cycle—reduced from four days in the forty-ninth year—the holding runs a restitution day: memories identified in the catalogue as belonging to living citizens are returned through the procedure the Memory Archive's liaison office administers."
+        },
+        {
+          "id": "R05-resistance-memory-anchors",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 40% against Void pressure and 30% against other types — a thing that gives way slowly because it is holding a design together |",
+          "new": "| **Resistance** | 40% against Void pressure and 30% against other types — a thing that gives way slowly because it is holding a design together. Every entrant carries a written Name / Date / Destination / One Memory I Refuse to Trade card and a current baseline inventory. Record a personal anchor before any acceptance, ground that one acceptor before another may engage, and maintain verbal check-ins plus written positions. Do not cut webs or refuse by force; withdraw and separately debrief anyone who recognises a shelf memory. |"
+        },
+        {
+          "id": "R06-resolution-genuine-not-staged",
+          "kind": "careful field correction",
+          "careful": true,
+          "old": "| **Resolution Condition** | Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger |",
+          "new": "| **Resolution Condition** | A genuine, lived memory too specific, painful and unrepeatable for the Weaver to weave overwhelms its hunger and drops the Gauge. Fabricated or rehearsed confession does not work, and no offer may be improvised outside the written pre-authorisation; if those conditions cannot both be met, withdraw behind the identity cards. |"
+        },
+        {
+          "id": "R07-first-thread-trade-offer",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Thread* [**Debuff**] } | \"It draws a strand from your temple — thin, silver, shimmering — and it is made of a memory you have not thought of in years.\" | [The Weaver extracts a memory-thread from the target; the recollection is taken.] | *Target suffers a Void mark; a piece of their past is being removed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Weaver begins to work. |",
+          "new": "| { *The First Thread* [**Debuff**] } | \"It draws a strand from your temple — thin, silver, shimmering — and it is made of a memory you have not thought of in years.\" | [The Weaver extends a visible thread and presents an unfamiliar recollection as a trade offer, attaching to the nearest willing or curious observer.] | *The observer gains a Void mark. The team records the offered memory's subject, setting and emotional temperature; no acceptance is valid until that observer records a personal anchor.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Weaver extends a visible memory-thread or presents an unfamiliar recollection. |"
+        },
+        {
+          "id": "R08-tapestry-unlogged-acceptance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Tapestry of Stolen Pasts* [**Debuff**] } | \"Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them.\" | [The target's recollection goes onto the loom and takes its place in the pattern, and the pattern is what starts to feel familiar.] | *Target loses clarity; their past is being worked into a design that was never theirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |",
+          "new": "| { *The Tapestry of Stolen Pasts* [**Debuff**] } | \"Around it, the Weaver's loom is full — other people's memories, woven together — and now yours joins them.\" | [An unanchored acceptance lets the offered past take a place in the loom while one of the observer's own memories becomes exchange collateral.] | *The observer loses Clarity and one personal memory is held as collateral. No second observer may accept an offer until the first is grounded against the written card and baseline.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When an observer accepts an offered memory without first recording a personal anchor. |"
+        },
+        {
+          "id": "R09-memory-blade-violent-refusal",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Memory Blade* [**Attack**] } | \"It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember.\" | [A woven memory-thread strikes like a whip.] | *Inflicts Void damage; the cut severs a piece of recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Weaver is disturbed. |",
+          "new": "| { *The Memory Blade* [**Attack**] } | \"It pulls a thread taut and whips it — sharp as wire, and it cuts where you remember.\" | [A taut memory-thread answers force by cutting the aggressor's immediately relevant recollection rather than the body.] | *Inflicts Void damage and may sever a route, name or purpose needed in the moment. Stop all cutting/attacking, read the aggressor's identity card aloud, and withdraw them for separate debrief.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When personnel cut webbing, attack the Weaver, or demand a memory through force. |"
+        },
+        {
+          "id": "R10-unraveling-loom-seizure",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Unraveling* [**Attack**] } | \"It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once.\" | [The loom comes apart at once and every past it was holding unwinds into the room together.] | *A heavy Void flood of borrowed pasts; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Weaver is confronted. |",
+          "new": "| { *The Unraveling* [**Attack**] } | \"It pulls the whole tapestry tight — and then lets go — and every stolen memory unwinds at once.\" | [An attempt to seize or destroy the loom's collected pasts loosens many held threads into the room at once.] | *A heavy Void flood of borrowed pasts; no personnel Gauge surge is inferred. Freeze all handling, activate written anchors, and survey the Dream-layer zone from outside before cataloguing what was displaced.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When personnel attempt to seize, tear down or destroy the loom or its collected memories. |"
+        },
+        {
+          "id": "R11-world-tapestry-three-losses",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The World Tapestry* [**Ultimate**] } | \"Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design.\" | [Threads run out from the loom to every person standing in the room, and the pulling starts at once.] | *All in range suffer Void erosion for three turns as their threads are worked into the design.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The World Tapestry* [**Ultimate**] } | \"Threads extend from every person — and the Weaver pulls them all, weaving everyone's past into one design.\" | [The tapestry expands across the room and every written memory anchor is challenged at once.] | *All personnel in the room suffer Void erosion for three turns. The team retreats behind written identity cards, ends all trade, and does not separate until names, dates, destinations and refused memories are read back.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% or three team members lose separate memories in one encounter. |"
+        },
+        {
+          "id": "R12-battle-resolution-no-improv",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The sitting ends on an offer the loom cannot swallow — a memory too personal and too raw to be taken — so that the hunger is overwhelmed instead of fed. The file's standing condition reads: **present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger** — an answer that costs the person who gives it, which is why the file expects it to be given knowingly.",
+          "new": "3. **Resolution:** The sitting can end only on a genuine lived memory too specific, painful and unrepeatable to weave; a fabricated or rehearsed confession is recognised and does not overwhelm the hunger. Because local procedure also forbids improvised trades, the team does not manufacture this ending in the chamber: absent a lawful pre-authorised presentation, it grounds every acceptor, reads the identity cards, and withdraws."
+        },
+        {
+          "id": "R13-consequence-dream-breach",
+          "kind": "careful consequence correction",
+          "careful": true,
+          "old": "- Resolution that fails leaves the narrative to continue on its own catastrophic terms — a cell breach, territory taken, and escalation quick on the heels of both.",
+          "new": "- Resolution that fails does not become a corridor pursuit. The Weaver withdraws into the Dream layer while the surveyed room stops matching its plan; response is run on the square metres of disagreement, all trade is prohibited, and unreturned takings remain in a library whose catalogue is only a fraction of the loss."
+        },
+        {
+          "id": "R14-identification-specific",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |",
+          "new": "| **Identification** | Confirm the spider-like crystallized-memory body, eight braided-thread legs, memory-filled crystal eye sockets, Dream-layer webs and an opening trade offer. A beautiful memory nobody on the team owns is an identification cue, not an invitation to accept it. |"
+        },
+        {
+          "id": "R15-appearance-protocol-anchors",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”",
+          "new": "**Appearance protocol:** Record scale, posture and distance against the room plan; the first visible thread or offered recollection with subject/setting/emotional temperature; Dream-layer web registration; every acceptance, refusal and recognition; and whether the surveyed room still matches its drawing. Sensation alone is not entered as evidence, and no appearance note is completed from a memory the Weaver supplied."
+        },
+        {
+          "id": "R16-detailed-movement-no-pursuit",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Position / movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). Posture and distance are logged because on The Memory Weaver neither has ever been assumed. |",
+          "new": "| **Position / movement** | Mobile — crawls on eight braided memory-thread legs within the library and manifests through the Dream layer. It offers, webs or withdraws; the record contains no waking-layer pursuit. Posture and distance are logged against the room plan. |"
+        },
+        {
+          "id": "R17-observation-catalogue-split",
+          "kind": "careful observation correction",
+          "careful": true,
+          "old": "- The Weaver's lair contains over 10,000 memories catalogued in an undeciphered language.",
+          "new": "- The Directorate's plain-script catalogue now exceeds 10,000 entries; the Weaver's own markings in the lair are a separate system and remain unread."
+        },
+        {
+          "id": "R18-use-notes-archive-one",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Everything issued here is a piece of something somebody else lost rather than ordinary equipment. Its stated benefit is sharpest against Void. The price sits in its own column and does not change: the bearer's own recall thins from the edges inward, item by item, and the items that go are never the ones anybody would have picked.",
+          "new": "Everything issued here is a piece of something somebody else lost rather than ordinary equipment. Its stated benefit is sharpest against Void. The price sits in its own column and does not change: the bearer's own recall thins from the edges inward, item by item, and the items that go are never the ones anybody would have picked.\n\n**Set resonance — Archive of One:** When all three pieces are carried by a bearer who has written and sealed a personal memory with the Archive before entry, the set can preserve one memory taken in the encounter as a recoverable record rather than letting it dissolve into the tapestry. Until recovered, the bearer cannot emotionally feel that sealed memory. The resonance preserves evidence; it does not authorise an unlogged trade."
+        },
+        {
+          "id": "R19-story3-counselling-inventory",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Excerpt from Counseling Log>**\nThe terror of being erased and the loneliness of memories no one claims.",
+          "new": "**Entry 3 — <Excerpt from Counseling Log>**\nThe terror of being erased and the loneliness of memories no one claims cannot be screened by asking workers whether anything feels missing: a Weaver taking leaves no seat of absence. Counseling therefore works from the sealed baseline, the identity card and the ninety-day repeat inventory, and it withdraws a worker who recognises a shelf item before the crew can confer."
+        },
+        {
+          "id": "R20-interaction-method-anchors",
+          "kind": "careful interaction correction",
+          "careful": true,
+          "old": "**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.",
+          "new": "**Interaction method:** Baseline each holding alone first. Weaver staff enter only with identity cards, current inventories, written positions and all trade prohibited unless separately pre-authorised. At first shared change record trigger, distance, duration, both Gauges, Dream-layer web registration, whether the room still matches its plan, and every offer/recognition. Separate the records before crews confer, because recognition can move socially through a team."
+        },
+        {
+          "id": "R21-consequence-clarity",
+          "kind": "short consequence correction",
+          "careful": false,
+          "old": "- A worker who breaks under the loom’s pressure pays twice: the gauge climbs as **Composure** shatters into a psychological Fracture.",
+          "new": "- A worker who breaks under the loom’s pressure pays twice: the gauge climbs as **Clarity** fails and the worker can no longer separate a lived past from an offered one."
+        },
+        {
+          "id": "R22-final-observation-no-improv",
+          "kind": "careful final observation correction",
+          "careful": true,
+          "old": "| Do the thing on file: Present a memory too personal and raw for the Weaver to consume; it overwhelms its hunger. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |",
+          "new": "| Do the thing on file: do not improvise a trade. Ground every acceptor against the identity card, and close only through a lawful, genuine presentation that the Weaver cannot weave—or withdraw intact behind the written anchors. | Reach for Pugnahan, which the Behavior table shows raising the gauge every time it has been logged. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.015  clean   194 grams  Operational Parameters\n 0.011  clean   268 grams  기록 (Registrum)\n 0.008  clean   242 grams  Breach Behavior\n 0.007  clean   807 grams  Combat Record\n 0.007  clean   843 grams  M.A.W. Equipment\n 0.000  clean  1866 grams  Apex Record\n 0.000  clean   813 grams  감각 묘사 (Flavor Text)\n 0.000  clean   422 grams  이야기 (Narratio)\n 0.000  clean   334 grams  관찰 기록 (Observation Log)\n 0.000  clean   249 grams  Behavior\n 0.000  clean   246 grams  이야기 보고 (Story Log)\n 0.000  clean   219 grams  Appearance\n 0.000  clean   163 grams  Trivia\n 0.000  clean   143 grams  최종 관찰 (Final Observation)\n 0.000  clean    92 grams  Origin\n 0.000  clean    62 grams  SECC Classification\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  THIN      2 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   3  | **Han-Energy yield** | 16–22 per successful work cycle, read off the trades that closed rather than the watching time |\n   85   6  | { *The World Tapestry* [**Ultimate**] } | \"Threads extend from every person — and the Weaver pulls them all, weaving everyone's \n  174   2  - **Sorrow Gauge on breach:** Opens at 45% and rises 10% per trade completed rather than per turn elapsed; a refused offer holds i\n  207   4  **Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that keeps the scent of the library \n  231   2  **Effect:** +2 stat bonus while working the source holding, entered at issue and struck from the sheet the day the bearer leaves t\n  385   1  **Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground and the restitution file the library a\n  390   2  **Operational interpretation:** The three sections below are one argument and are read together: the takings are detectable only a\nGENERIC 0.003  (20 shared shingles)  SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-A__SIDE_CODEX_The_Memory_Weaver.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Forgotten_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-C__MAW-S_The_Forgotten_Veil.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-D__MAW-G_The_Forgotten_Mask.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-A__SIDE_CODEX_The_Memory_Weaver.md": "715e88ce73bda4f81189b9c2d5a3d9d653e97344f1216fb7046e038314f62b9e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Forgotten_Lens.md": "aff33a2ffae01266cf9c414f202b3d4decc2c882869073d55b792e8854e2eed7",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-C__MAW-S_The_Forgotten_Veil.md": "a9804a3b79635a48ce3de6bef622830bdfdbda28c0f63d522ddfd851a32a566d",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-D__MAW-G_The_Forgotten_Mask.md": "89f28d8f5d4214b2d2c03599a607b64f9ba73e093176dc8a81f5f3f823226ff4"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVγ-009_The_Memory_Weaver_기억의_직공](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-009_The_Memory_Weaver_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%A7%81%EA%B3%B5.md \"SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md\")]",
+      "table_link": "[[C-IVγ-009 The Memory Weaver](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B3-009_The_Memory_Weaver_%EA%B8%B0%EC%96%B5%EC%9D%98_%EC%A7%81%EA%B3%B5.md \"SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md\")]",
+      "reading": {
+        "before_lines": 472,
+        "before_bytes": 53920,
+        "final_lines": 474,
+        "final_bytes": 56870
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The Ultimate now retains the exact 65% condition and adds Side A's three-separate-memory-loss condition; the invented personnel +15% Gauge surge was removed."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "O-IVδ-844",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-844_Repose_잠든_잔해.md",
+      "words": 8915,
+      "sha256": "65d498f479611173c29e5a8e7d7f53cdd2190325e5efe80bb3750bf79906f9b6",
+      "name": "Repose",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_05_REPOSE.md",
+      "before_words": 8915,
+      "after_words": 9294,
+      "base": "db7a05e5f979dfaf5f3aaf6cac421b7b1fe1cb61",
+      "final_sha256": "2edef1f794c3d576de86bb073087b08abd31253ca1efaed5109350f232342f00",
+      "summary": "HELD +0 — 17 repairs make Repose a sound-and-structure vigil, not a walking ruin encounter.",
+      "commentary": "The bravest act in this file is administrative and acoustic: read all 411 recovered names, state the 1,100 unrecorded remainder exactly, and never make enough noise to ask the sleeper for more.",
+      "reasoning": [
+        "Repose is not a mobile ruin monster. It is a permanently sleeping survivor whose dream has become structural infrastructure; breathing, sound and survey are the encounter.",
+        "Side A gives the resolution exactly—do not wake it, reduce noise and acknowledge the dead—so combat now escalates only through survey occupancy, rubble handling, sound-floor violation with breathing change, or ≥90% load-bearing dream failure.",
+        "The full awakening remains explicitly projected and unobserved; no invented personnel Gauge surge, global waking ruins or proven recovery remains."
+      ],
+      "history": "Batch 126 already performed exact-source equipment review and unresolved source forks remain, so HELD +0 with no fresh Types, Weapon or SE Appearance Fix credit.",
+      "holds": [
+        "Weapon title Ruin Requiem versus Ruin Astral-Disc. Held.",
+        "Charm Tail/4%/+3 unspecified stat versus Registry Accessory/5%, plus local rest-through-alarms account. Held.",
+        "Full awakening and recovery remain unobserved. Held.",
+        "Mechanism connecting standing count to struck-off return and long-term independence of dreamed buildings. Held."
+      ],
+      "split": [
+        3,
+        14
+      ],
+      "repairs": [
+        {
+          "id": "R01-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — remaining beside sleeping grief without mistaking its dream, buildings or dead for one's own |"
+        },
+        {
+          "id": "R02-speed-recumbent",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | 2.45 m/s |",
+          "new": "| **Speed** | N/A — recumbent; it has never risen, walked or pursued. Measure breathing at 10–12/min, posture, sound floor and the standing-structure survey. |"
+        },
+        {
+          "id": "R03-breach-effect-clarity",
+          "kind": "short breach correction",
+          "careful": false,
+          "old": "| **Effect** | Cold grief in waves, draining composure, strongest in personnel standing inside a dreamed building at the time. |",
+          "new": "| **Effect** | Cold grief in waves, draining Clarity, strongest in personnel standing inside a dreamed building at the time. |"
+        },
+        {
+          "id": "R04-resistance-sound-survey",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Lament pressure; 35% against other pressure types |",
+          "new": "| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Establish the sound floor and breathing rate before approach, use hand signals and the smallest practicable party, and bring no powered equipment, alarm or Astral-Disc into the Old Lament. Tell personnel which surveyed buildings are dream-held; stop at any breathing change and close only after the dead are acknowledged below the floor. |"
+        },
+        {
+          "id": "R05-ancient-breath-first-reading",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Ancient Breath* [**Debuff**] } | \"The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages.\" | [The Ruin's dormant exhalation settles on the target; they feel aeons of accumulated sleep.] | *Target suffers -10 Composure; the ancient slumber is heavy.* **[10 Lament DMG [Lament]]** | When the target enters the Ruin. |",
+          "new": "| { *The Ancient Breath* [**Debuff**] } | \"The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages.\" | [The sleeper's measured exhalation carries the settlement's exhaustion through the quiet perimeter; the figure does not wake or target anyone.] | *Personnel inside the sound floor suffer -10 Clarity. Record breathing at 10–12/min, limb position and arrival sound floor by hand signal before any work begins.* **[10 Lament DMG [Lament]]** | When the approach party first takes the breathing and sound-floor readings inside the Old Lament perimeter. |"
+        },
+        {
+          "id": "R06-dreaming-stone-surveyed-building",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dreaming Stone* [**Debuff**] } | \"In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture.\" | [The Ruin's dream-structures flicker around the target; ghost-walls and phantom arches.] | *Target loses 10 Composure; the dreaming ruin is rebuilding itself in sleep.* **[10 Lament DMG [Lament]]** | When the target lingers. |",
+          "new": "| { *The Dreaming Stone* [**Debuff**] } | \"In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture.\" | [The survey finds personnel inside one of the standing structures absent from every pre-collapse plan; its walls are being held by the sleeper's dream.] | *Personnel in that structure lose 10 Clarity. Mark it against the 56-building survey, tell the occupants what is holding it up, and move by hand signal without striking or testing the fabric.* **[10 Lament DMG [Lament]]** | When a worker is identified inside a dream-held building or a previously standing surveyed structure changes between readings. |"
+        },
+        {
+          "id": "R07-falling-capital-hand-disturbance",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Falling Capital* [**Attack**] } | \"A carved capital — the top of a column — shakes loose in the ruin's sleep and drops.\" | [ An ancient stone ornament falls.] | *Inflicts Lament pressure and one heavy, ancient wound.* **[14-22 Lament DMG [Lament]]** | When the Ruin is touched. |",
+          "new": "| { *The Falling Capital* [**Attack**] } | \"A carved capital — the top of a column — shakes loose in the ruin's sleep and drops.\" | [Handling the rubble that forms the sleeper or a dream-held wall lets real and dreamed fabric fail together.] | *Inflicts Lament pressure and one heavy structural wound. All handling stops silently; check breathing first, then compare the affected building with both independent surveys before anyone re-enters.* **[14-22 Lament DMG [Lament]]** | When personnel touch, move or extract rubble from the figure or a dream-held structure. |"
+        },
+        {
+          "id": "R08-full-awakening-sound-breach",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Awakening* [**Attack**] } | \"The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating.\" | [The whole of the settlement's record comes back at once, streets and accounts and the names of householders, and the room is inside it while it lasts.] | *A heavy Lament flood of returned time; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Ruin is excavated. |",
+          "new": "| { *The Full Awakening* [**Attack**] } | \"The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating.\" | [Projected, never-observed response: a resolution violation changes the breathing and the settlement's final day returns through every dream-held structure at once.] | *Heavy Lament pressure; no personnel Gauge surge is inferred. Freeze all movement and machinery, restore the sound floor, and acknowledge the dead by recovered name and exact remainder. This protocol is untested, not a proven recovery.* **[24-36 Lament DMG [Lament]]** | When excavation across the sleeper or an alarm, powered tool or raised voice breaks the sound floor and alters the 10–12/min breathing. |"
+        },
+        {
+          "id": "R09-waking-city-gauge90-survey",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Waking City* [**Ultimate**] } | \"Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything.\" | [The dream spreads out past the perimeter and every ruin on the ground starts remembering on its own account.] | *All in range suffer Lament pressure for three turns of waking ruins.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Waking City* [**Ultimate**] } | \"Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything.\" | [At breach threshold the dream stops holding the surveyed settlement evenly; collapse risk propagates through the 56 dream-held buildings rather than through every ruin in the world.] | *All personnel inside surveyed dream-held structures suffer Lament pressure for three turns. Evacuate silently by level and hand signal, keep the names reading below the floor, and do not use Pugnahan, alarms or powered rescue tools.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90% while the dream remains load-bearing. |"
+        },
+        {
+          "id": "R10-breach-escalation-sound-index",
+          "kind": "careful breach correction",
+          "careful": true,
+          "old": "| **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |",
+          "new": "| **Escalation** | The sleeper is never “free” in a locomotor sense. Clarity drain +5 each turn inside a failing dream-held structure, while the entity Gauge is indexed to sound and acknowledgement: +10% for each alarm, powered tool or raised voice; −10% when the dead are acknowledged below the sound floor. |"
+        },
+        {
+          "id": "R11-weapon-no-lingering-score",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Damage Application:** Score the beam once, then score the lingering illumination separately on each following interval while the target remains lit; the disc is not carried into the Old Lament under any circumstances, since the mounting rings are audible when they turn.",
+          "new": "**Damage Application:** Score the Skewer once at 100% → 70% → 50%; no separate lingering-illumination damage is recorded. The disc is not carried into the Old Lament under any circumstances, since the mounting rings are audible when they turn."
+        },
+        {
+          "id": "R12-flavor-continued-survey",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.",
+          "new": "**With continued exposure:** Sustained contact is a discipline of not changing the readings. Breathing stays between ten and twelve, the posture does not move, and the only growth is architectural: another wall or roofline on the independent survey that no surviving plan contains. Workers learn to ask which present buildings are being dreamed before they ask what the figure is dreaming about."
+        },
+        {
+          "id": "R13-flavor-activation-never-observed",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**When the entity activates:** When it activates, you understand why the containment protocols exist. The Lament that was merely present becomes active, directed, purposeful — the Subject-Lament was holding back, and now it isn't.",
+          "new": "**When the entity activates:** It has not done so. The record contains changed dreams, altered architecture and one abandoned part-read name list, but no awakening, pursuit or directed attack. The activation section therefore remains a warning about an unobserved event, and any change in breathing ends the cycle before personnel test what comes next."
+        },
+        {
+          "id": "R14-flavor-after-dream-nextday",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**After departure:** The containment boundary holds the Subject-Lament, but not the memory. Lament residue settles into the bones like Han into the city's foundations.",
+          "new": "**After departure:** The bill arrives the following night. Workers may dream a street none of them has seen, weep for a settlement that is not theirs, or wake unrefreshed after apparently sleeping; those reports are collected separately the next day and are never folded into the acoustic or structural logs."
+        },
+        {
+          "id": "R15-origin-names-recovered",
+          "kind": "careful origin correction",
+          "careful": true,
+          "old": "- **The People:** An entire Outside Sorrow settlement, and one survivor of it. The settlement is in the body; the survivor is the sleeper. The record does not name either, and the resolution condition requires the dead to be acknowledged, which the facility is therefore doing by count rather than by name.",
+          "new": "- **The People:** An entire Outside Sorrow settlement, and one survivor of it. The settlement is in the body; the survivor is the sleeper. The relief record gave her no registered origin, and acknowledgement was by count until the Struck Register supplied 411 names; the remaining 1,100 are now stated exactly after those names are read."
+        },
+        {
+          "id": "R16-dreams-persistent-survey",
+          "kind": "careful apex correction",
+          "careful": true,
+          "old": "Its dreaming reconstructs the ruins around it, partially and impermanently — structures rise within the chamber and are not there afterward.",
+          "new": "Its dreaming reconstructs the settlement across the ambient Old Lament, partially and at unequal durations — the standing-structure survey now counts 56 buildings, each one rechecked because none can be assumed permanent."
+        },
+        {
+          "id": "R17-origin-striking-soundclose",
+          "kind": "careful battle correction",
+          "careful": true,
+          "old": "2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The 910-point gauge and the 29 to 64 pressure describe what happens if it wakes, not what happens during a cycle; the encounter as actually conducted is long, quiet, and measured in how little the party disturbed.",
+          "new": "2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The only live contests are noise, fatigue and the urge to intervene: breathing, sound floor, dream-held structures and first-person attribution are checked while Pugnahan, alarms, powered tools and the Astral-Disc remain prohibited."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IVδ-844_Repose_잠든_잔해.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.018  clean   163 grams  최종 관찰 (Final Observation)\n 0.011  clean   188 grams  Operational Parameters\n 0.009  clean   851 grams  M.A.W. Equipment\n 0.008  clean   644 grams  감각 묘사 (Flavor Text)\n 0.006  clean   808 grams  Combat Record\n 0.003  clean  1490 grams  Apex Record\n 0.002  clean   516 grams  이야기 보고 (Story Log)\n 0.000  clean   454 grams  이야기 (Narratio)\n 0.000  clean   396 grams  기록 (Registrum)\n 0.000  clean   345 grams  Appearance\n 0.000  clean   283 grams  Breach Behavior\n 0.000  clean   261 grams  Origin\n 0.000  clean   233 grams  관찰 기록 (Observation Log)\n 0.000  clean   230 grams  Behavior\n 0.000  clean   146 grams  Trivia\n 0.000  clean    41 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  clean    35 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   54   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Establish the sound floor and breathing rate bef\n   84   4  | { *The Waking City* [**Ultimate**] } | \"Every ruin in the field awakens — and the combined recollection of forgotten history cru\n  198   2  **Appearance:** a padded mantle of Lament Han-silk, cool and faintly luminous, that tightens near its source element.\n  218   3  **Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that goes cold against the collarbone when the bea\n  244   3  | **Before use** | Wielder, piece, the day's reading, and a baseline taken down and kept by the second worker — the recorded cost \n  286   1  Management: do not wake it, hold the sound floor, and read the settlement's dead aloud — by name from the Struck Register where na\n  298   3  | Keep the perimeter quiet, acknowledge the dead by such names as the survey has recovered, and let the sleep run — the condition \n  319   3  Three holdings sit within reach of the sleeper — The Broken Ruin, Fading Ruin and The Sleeping Wall — and none of the three is an \n  328   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  436   4  The relief officers asked, in Year 4212, for the one concession that would have cost nothing on its face: that a struck settlement\nGENERIC 0.004  (28 shared shingles)  SE-O-IVδ-844_Repose_잠든_잔해.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-A__SIDE_CODEX_Repose.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-B__MAW-W_The_Ruin_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-C__MAW-S_The_Ruin_Pillow.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-D__MAW-G_The_Ruin_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-A__SIDE_CODEX_Repose.md": "09e18886e18c271803acdd7c1986c2aee48da8cce74ef599da58ff0f6379380e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-B__MAW-W_The_Ruin_Requiem.md": "6696801c5e2863f958570d5d49959681d02c2bf3ea1d8acfd090b64dfb8cc3e6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-C__MAW-S_The_Ruin_Pillow.md": "14d9ab45ee5c1db9e2f8e4b1c42e3a6313e0f9cae65c163e399940b2a16f5217",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_821_to_852/844_Repose/SE-844-D__MAW-G_The_Ruin_Charm.md": "74c34ddae6f04f9d547311faa7cc981d631cfb330ed9ae8f980fdbf1a6fcde5f"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IVδ-844_Repose_잠든_잔해](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-844_Repose_%EC%9E%A0%EB%93%A0_%EC%9E%94%ED%95%B4.md \"SE-O-IVδ-844_Repose_잠든_잔해.md\")]",
+      "table_link": "[[O-IVδ-844 Repose](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-844_Repose_%EC%9E%A0%EB%93%A0_%EC%9E%94%ED%95%B4.md \"SE-O-IVδ-844_Repose_잠든_잔해.md\")]",
+      "reading": {
+        "before_lines": 465,
+        "before_bytes": 54336,
+        "final_lines": 465,
+        "final_bytes": 56956
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 10,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Combat now uses the documented breathing rate, 56-building survey, sound-indexed ±10% Gauge movement and ≥90% threshold; the former 65% Ultimate and +15% personnel surge were removed."
+      }
+    }
+  ]
+}

@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | β · β (Moderate) |
+| **Tool / M.A.W. grade** | β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Attend, sit, speak, promise nothing. Flerehan and Ferrehan are the valid approaches and neither works from the doorway. |
@@ -50,8 +50,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Nothing is rated against the spread, which is not pressure: it advances along the floor at roughly a metre a minute, it crosses the cell wall, and the only instrument that has ever halted it is somebody sitting down |
+| **Speed** | None — the figure is motionless and has never moved. The only rate on this record is the spread's: roughly a metre a minute along the floor while the cell is empty, halting the turn somebody sits down. |
+| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Nothing is rated against the spread, which is not pressure: it advances along the floor at roughly a metre a minute, it crosses the cell wall, and the only instrument that has ever halted it is somebody sitting down in the chair and staying there. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Lament |
@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Oxidized Aura* [**Debuff**] } | "The soul is rusted — orange-brown patches on its spiritual surface — and the corrosion is spreading to you." | [The Soul's corrosion transfers to the target's own spirit; they feel oxidized.] | *Target suffers -10 Composure; their soul is rusting.* **[10 Lament DMG [Lament]]** | When the target encounters the Soul. |
 | { *The Flaking Spirit* [**Debuff**] } | "Pieces of the rusted soul flake away — and each piece carries a corroded memory." | [The Soul's decay sheds contaminated fragments; the target absorbs them.] | *Target loses 10 Composure; the rusted memories are toxic.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Rust-Shard* [**Attack**] } | "A flake of corroded soul, hardened and sharp, detaches and flies." | [ A rust-spirit shard launches.] | *Inflicts Lament pressure and one wound of spiritual oxidation.* **[14-22 Lament DMG [Lament]]** | When the Soul is touched. |
+| { *The Rust-Shard* [**Attack**] } | "A flake comes off the left shoulder, where the flaking is heaviest, and settles on whoever is sitting closest. Nothing is launched and nothing is aimed; the figure has never struck first." | [The corrosion sheds and is carried out on the worker, which is how the fortnight of noticing every late arrangement begins.] | *Inflicts Lament pressure; the wound is a schedule recalled in order.* **[14-22 Lament DMG [Lament]]** | When a watch is sat beside it — the only contact this record contains. |
 | { *The Full Corrosion* [**Attack**] } | "The reach is held past the point where anybody could answer it, and the rust comes off the arm in a sheet." | [The holding spends a whole cycle's corrosion on the target at once.] | *A heavy corroded cloud; the target's Sorrow Gauge surges 15%, and every arrangement they are currently late for arrives in order.* **[24-36 Lament DMG [Lament]]** | When the Soul is confronted. |
 | { *The Rusted Afterlife* [**Ultimate**] } | "Everything the corrosion has ever touched begins to fatigue at once, and the air tastes of wet iron." | [The spread leaves the floor and fills the area instead.] | *All in range suffer Lament pressure for three turns of rusting spirits; nothing in range keeps an appointment on time.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
@@ -91,10 +91,10 @@
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
+- Nothing is channelled and nobody is destroyed. The failure is an empty chair: the reading rises on absence of any kind, and it rises whether or not the absence had anything to do with this cell.
 - Exposure is cumulative in a way the reading does not show. The gauge can sit flat for a whole rotation and the worker still comes away with a fortnight of noticing every arrangement they are late for; the watch length is therefore capped by the duty office and not by the gauge, and a worker who asks to stay longer is refused in writing.
-- The M.A.W. is never costless: its somatic, psychological, and mnemonic toll is formally codified in equipment records and exacted with every swing.
-- Failure to achieve resolution triggers Neverlast’s breach protocol: the Sorrow Gauge peaks, containment fail-safes collapse, and the sorrow breaches outward into facility corridors.
+- The M.A.W. is never costless, and the toll is not exacted per swing: the pistol has been drawn twice in eleven years and discharged never, and the costs on file are weeping on arrival, numbness to minor joys, and time slowed inside somebody else's crisis.
+- It has never intentionally breached and has no breach protocol. Unresolved, the rust leaves the traced edge toward where the rota used to hang, the new area is permanent by the week, and the whole of the response is unchanged: somebody sits down.
 
 ## Appearance
 **Primary Form:** A motionless figure of dark tear-crystal gone orange with corrosion, one arm out, weeping. **Attitude:** it is reaching, and it was reaching before anybody arrived to see it.
@@ -311,11 +311,11 @@ The figure stands as if waiting at a door that will never open. Rust flakes from
 
 **At first contact:** It is already reaching when you come in, and it was reaching before you came in. Rust over dark tear-crystal, the face beneath unchanged in every photograph on file, an arm out at an angle recorded to the centimetre. Nothing happens quickly here and nothing ever has. Sit down.
 
-**With continued exposure:** Sustained contact reveals layers. The first impression gives way to something more precise: a rhythm, a pattern, a logic to the Lament that the entity embodies. Understanding it does not make it easier.
+**With continued exposure:** The hour organises itself around the reach and the overlay. The first impression gives way to something more precise: a worker who has begun, without deciding to, keeping a private account of every arrangement they are currently late for.
 
-**When the entity activates:** When it activates, you understand why the containment protocols exist. The Lament that was merely present becomes active, directed, purposeful — the Subject-Lament was holding back, and now it isn't.
+**When the entity activates:** Nothing in the cell changes quickly, because nothing ever has: the spread passes the traced edge at roughly a metre a minute, metal in its path fatigues to the touch, and the figure itself is still reaching at exactly the angle on the sheet.
 
-**After departure:** The containment boundary holds the Subject-Lament, but not the memory. Lament residue settles into the bones like Han into the city's foundations.
+**After departure:** For about a fortnight the worker notices every appointment they are late for, and workers who sat the full watch report greater difficulty leaving appointments unkept anywhere else in their lives. The fortnight is entered against the holding rather than the person.
 
 ### Interaction Pattern
 

@@ -1,0 +1,193 @@
+{
+  "designation": "C-IIβ-102",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md",
+  "words": 8336,
+  "sha256": "c764ad822737199be413ff0e7a95d62b7d6bacd031326601f2f2e69c72c47a7d",
+  "unit": 2,
+  "name": "Frozen Tear",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_02_FROZEN_TEAR.md",
+  "before_words": 8336,
+  "after_words": 8594,
+  "base": "2f8a7600e63b58b420600847c4c1185c76a87649",
+  "final_sha256": "89d7c5f8536bf6d94f4d2d16dc59fd4ee0a017010c3397f189a92b6b71d2e615",
+  "summary": "Fourteen source-supported repairs (2 short / 12 careful): a warm, never-touched, never-melting crystal stops being absolutely cold, sharpening into a projectile, thawing when warmed and riming the Gardens in four combat rows; the carried-relic log template (take it up, +10% resistance, damage toll, scheduled panic) returns to the file's no-contact bench doctrine. HELD; no credit (item-integrating Use Notes over exact set SE-1010 Icedrop; weapon profile already held in Side A).",
+  "commentary": "The file's whole force is that everything about the holding is 'the wrong way round': the frozen thing is warm, the containment is a refusal, the mercy is a bench nobody may recommend. A carried-relic template kept reversing that — operatives taking the Tear up, drawing on bearers, accruing a five-per-fifteen-seconds toll, panicking on schedule past two minutes — against a containment whose first line is that nobody touches it under any authority. The repairs give the intervals back to the sitting and the four readings, and leave the PEgs, the weight plate and the Works Office rule exactly where the file put them.",
+  "reasoning": "Identity resolved from the sources, not the number: `C-IIβ-102` joins SE-1010 *Icedrop* — Side A and all three items carry Source SECC Designation `C-IIβ-102 [LO]`, the same formation event (a mourner's first and only tear froze before it fell) and the same item names. SE-102 is The Dancing Chains (`C-IIIγ-102`, B195); the Registry README's 'SE-157 (Frozen Tear)' is a stale label — SE-157 is Torpor (`N-IVδ-157`). R-18 split declared before editing: two short (the generic 'a body or drop of liquid' movement/position stubs) and twelve careful (combat rows making the crystal absolutely cold, a heart-aimed projectile on being struck, thawing on warming, and riming every surface, against 'If it is cold, it is not this', 'neither melts nor sweats at any enclosure temperature… tried the full range' and 'it has never been touched'; the generic capability quote block; 'Equippable / mounting use' against its own 'nobody ever has; flagged as untested'; four carried-relic log rows with +10% resistance/relay/toll/panic against the no-contact prohibition and the Registry Trivia's 'theoretical, not an authorised trial'; two flavor lines — raindrop-small and a pulsing rhythm — against fist-sized and three unvarying series). R-33 chain: unpermitted grief crystallised on a lower lid → warm, lit, unmoving crystal → field that permits visible distress, widening yearly → bench arrangement with no names and no records → contact reserved as the one transfer that has never been authorised. Equipment material comes from the field edge, never the tear; the mirror's two profiles were left as Side A holds them.",
+  "history": "Commissioning record is four lines (Zone B windowsill, date, three deaths, the constable who found it); the Tale's Keeper-carriage to the Echo Gardens and centuries of display stand as the narrative layer beside thirty years of four-reading watch series. Fresh equipment credit BARRED: the primary's M.A.W. Use Notes already integrate the exact SE-1010 set — set name *Icedrop — Witnessed Form*, field-edge material authority, per-piece cost direction, first-person attribution failure, named-witness shutdown — mirroring items B/C/D, and Side A already records the weapon-profile hold comparing the primary's Range-4 mirror against the set's Short-2 profile. Ledger `equipment_reviews` has no C-IIβ-102 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+  "holds": [
+    "Weapon profile: the primary's oval glacial-ice mirror refracting a focused beam (Lament 6-10, Fast 4, Long 4, Focused Frost-Ray) vs the Side set's Lament 5-9 / Normal 2 / Short 2 / Single sharing the same name and event, with the archetype index's `MAW-W-1010` describing a short chiseled-bone bodkin and no crosswalk to `MAW-W-1010-01`. Held exactly as Side A records it; no value or form selected.",
+    "Stigma slot: local Chest / Brooch vs item D's Tail slot for the same Unmelting Teardrop Brooch and +1 working-stat bonus. Held.",
+    "Side A classifies the subject as 'Can breach via Transform' while the primary is Non-breaching activation-only with no breach counter. The primary's line stands; the Side register is preserved as a fork, not merged. Held.",
+    "What the radius measures: the file's finding — workers seen weeping at their posts and correctly left alone — is recorded as a finding, not a mechanism; the warmth without a source and the weeping-on-contact accounts (sealed series) remain unexplained. No cause invented. Held.",
+    "First Tear 'kinship' and the Weeping Statue's 90-110 mm water gap: measured effects preserved without a proposed relation or mechanism. Held."
+  ],
+  "split": [
+    2,
+    12
+  ],
+  "repairs": [
+    {
+      "id": "R1-secc-movement",
+      "kind": "short appearance completion",
+      "careful": false,
+      "old": "| **Movement** | Stationary — a body or drop of liquid. |",
+      "new": "| **Movement** | Stationary — suspended without support in its case and unmoved in the whole record. What moves is the field edge: 4.1, 5.6 and 7.2 metres across three annual surveys. |"
+    },
+    {
+      "id": "R2-detailed-position",
+      "kind": "short appearance completion",
+      "careful": false,
+      "old": "| **Position / movement** | Stationary — a body or drop of liquid. The Frozen Tear file carries the series rather than a single reading. |",
+      "new": "| **Position / movement** | Suspended and still in its case; the file carries the field-edge series rather than a single reading, and the edge is further out every year. |"
+    },
+    {
+      "id": "R3-crystal-memory",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Crystal Memory* [**Debuff**] } | \"Inside the frozen tear, you can see a memory — preserved, perfect, and absolutely cold.\" | [The Tear's interior shows the target a frozen grief; they absorb it.] | *Target loses 10 Composure; the preserved sorrow is theirs now.* **[10 Lament DMG [Lament]]** | When the target looks into the Tear. |",
+      "new": "| { *The Crystal Memory* [**Debuff**] } | \"Inside the frozen tear there is no memory to watch and nothing cold to read — if it is cold, it is not this. What the crystal holds is warm, and what it shows is yours.\" | [Looking in surfaces the viewer's own unwept grief; the holding produces permission, not pictures.] | *Target loses 10 Composure; the sorrow that surfaces was already theirs.* **[10 Lament DMG [Lament]]** | When the target looks into the Tear. |"
+    },
+    {
+      "id": "R4-ice-needle",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Ice Needle* [**Attack**] } | \"The tear sharpens to a point — and the point is aimed at your heart.\" | [The frozen tear becomes a projectile.] | *Inflicts Lament pressure and one cold, precise piercing.* **[14-22 Lament DMG [Lament]]** | When the Tear is struck. |",
+      "new": "| { *The Ice Needle* [**Attack**] } | \"It does not sharpen, aim or fly — nothing here has ever been struck, and in the whole record it has never been touched. The point, if there is one, is in the sitter.\" | [Duration does the work: a long sitting dissolves first the composure, then the distance between the sitter and the grief.] | *Inflicts Lament pressure, precise as a needle because it is specific to the person it found.* **[14-22 Lament DMG [Lament]]** | When the sitting outlasts the sitter. |"
+    },
+    {
+      "id": "R5-the-thaw",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Thaw* [**Attack**] } | \"The thaw, once — not by warming but by breaking, and the grief of ten years leaves in a single movement.\" | [The Tear's preserved grief is released whole on the target rather than dispersed.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%, and the release is not repeatable within the same watch.* **[24-36 Lament DMG [Lament]]** | When the Tear is warmed, or when the case is opened. |",
+      "new": "| { *The Thaw* [**Attack**] } | \"The thaw, once — not by warming, which the Gardens have tried across the full range without moving it a degree, but by contact, which is the one thing never authorised here.\" | [It has never happened under authority; the two unauthorised accounts describe the originator's grief arriving entire, in a volume greater than the crystal.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%, and the release is not repeatable within the same watch.* **[24-36 Lament DMG [Lament]]** | On contact — which no authority here has ever granted. |"
+    },
+    {
+      "id": "R6-frozen-rain",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Frozen Rain* [**Ultimate**] } | \"Every surface in the Gardens takes a rime at once, and the field goes out past its pegs.\" | [The Tear multiplies its field across the whole area, and the edge is no longer where it was pegged.] | *All in range suffer Lament pressure for three turns of frozen rain; the radius is walked and re-pegged before anything else is recorded.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Frozen Rain* [**Ultimate**] } | \"Nothing takes a rime and nothing freezes; the crystal is warm and stays warm. What happens is quieter: the field goes out past its pegs, as it did twice while the First Tear was in the sector, to the Gardens wall.\" | [The edge is no longer where it was pegged; it is walked and re-pegged daily for the duration.] | *All in range suffer Lament pressure for three turns inside the widened permission; the radius is walked and re-pegged before anything else is recorded.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "R7-quote-block",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Operative Alteration**\n> **This Relic Extracts Personal Resilience upon Extended Use**",
+      "new": "> **This Relic permits grief to be visible inside its radius without consequence. It does not soothe, suppress or treat.**\n> **This Relic is never touched, under any authority. The prohibition is the containment.**\n> **Contact delivers the originator's grief entire. Proximity only surfaces your own.**"
+    },
+    {
+      "id": "R8-use-mode",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Use Mode** | **Equippable / mounting use** |",
+      "new": "| **Use Mode** | **Proximity only; nothing is equipped, mounted or carried.** The carrying profile for this class is theoretical and has never been authorised as a trial. |"
+    },
+    {
+      "id": "R9-log-10s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 10 Seconds | Nothing moves in the case until an operative takes the Tear up; on contact the Lament in it settles onto the bearer's pulse and stays level there. | Taking it up opens the quiet field the Tear was cut for — distress can be set down inside it — and grants +10% Lament resistance while it is carried. |",
+      "new": "| 10 Seconds | Nothing moves in the case and nothing is taken up — no authorised worker has touched it in the whole record, and the profile that assumes an operative carrying it is flagged theoretical. | Take the four readings in order: radius, glow, warmth through cloth, outline against the drawing. Inside the field distress may simply be set down; no resistance is granted to anybody, and the bench is not an instrument. |"
+    },
+    {
+      "id": "R10-log-30s",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 30 Seconds | The Tear came out of a grief that could not cry despite having lost everything. The bearer starts hearing a mourner's first and only tear, stopped before it ever fell. | The operative works faster and more sharply than the relay does; composure is the price, and it begins being paid here without announcing itself. |",
+      "new": "| 30 Seconds | The Tear came out of a grief that could not cry despite having lost everything. A sitter starts hearing a mourner's first and only tear, stopped before it ever fell. | Nothing is relayed and nobody works faster here. What surfaces is the sitter's own unwept grief, and it is left alone — no name is taken, nothing about the bench is written down, and composure is not corrected. |"
+    },
+    {
+      "id": "R11-log-1min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 1 Minute | At the minute mark the Tear is drawing on the bearer directly, and their breathing has fallen into step with the grief the sitting was built around. | Held past 60 seconds the toll is 5 Lament every 15 seconds, and the watch posts itself for one sign: the operative no longer able to describe the case they are sitting beside. |",
+      "new": "| 1 Minute | At the minute mark a sitting has usually settled: breathing slows into the room's pace, and the sitter is no longer performing composure for anybody. | No toll accrues and nothing is drawn from the sitter. The Warden's own rotation is thirty minutes and applies to the post, expressly not to anybody on the bench; the watch is for the four readings, not for signs in a visitor. |"
+    },
+    {
+      "id": "R12-log-2min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 2 Minutes | Past two minutes the bearer is not sitting with the grief any more; they are the one it belongs to, and the line between the operative and that first mourner stops holding. | Past two minutes, or a break of contact before the sitting closes, the bearer panics outright; the remainder of the cell stands — direct touch may overwhelm the visitor with the original grief. |",
+      "new": "| 2 Minutes | Past two minutes nothing new begins — duration is the whole mechanism. A long sitting dissolves the distance between a person and the grief they brought, which is what the bench is for. | Nobody panics on schedule and no contact is broken, because no contact is made. The one line that must not blur belongs to equipment bearers, who are watched for recounting the originator's loss in first person; that is an Armoury return, not a bench record. |"
+    },
+    {
+      "id": "R13-flavor-size",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "The Tear is smaller than a raindrop and looks like a jewel. You sit beside it and feel the temperature of a grief that could not fall.",
+      "new": "The Tear is the size of a fist and looks like a jewel. You sit beside it and feel the temperature of a grief that could not fall — warm, against all sense, like a held coin."
+    },
+    {
+      "id": "R14-flavor-exposure",
+      "kind": "careful flavor correction",
+      "careful": true,
+      "old": "**With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.",
+      "new": "**With continued exposure:** Nothing develops a rhythm. The glow, the warmth and the outline read exactly as they read an hour ago, and a year ago; the only thing that changes across a sitting is how long a person can stay in the room with their own grief without being corrected for it."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.029  clean   480 grams  기록 (Registrum)\n 0.021  clean    96 grams  Operational Parameters\n 0.009  clean   779 grams  Combat Record\n 0.006  clean   795 grams  M.A.W. Equipment\n 0.003  clean   696 grams  감각 묘사 (Flavor Text)\n 0.000  clean   856 grams  Watch Record\n 0.000  clean   644 grams  Activation Behavior\n 0.000  clean   365 grams  이야기 (Narratio)\n 0.000  clean   304 grams  Behavior\n 0.000  clean   254 grams  이야기 보고 (Story Log)\n 0.000  clean   213 grams  Trivia\n 0.000  clean   202 grams  관찰 기록 (Observation Log)\n 0.000  clean   188 grams  Appearance\n 0.000  clean   173 grams  Origin\n 0.000  clean   103 grams  최종 관찰 (Final Observation)\n 0.000  clean    49 grams  증언 (Testimonium)\n 0.000  clean    40 grams  SECC Classification\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   85   1  | { *The Thaw* [**Attack**] } | \"The thaw, once — not by warming, which the Gardens have tried across the full range without movin\n   86   6  | { *The Frozen Rain* [**Ultimate**] } | \"Nothing takes a rime and nothing freezes; the crystal is warm and stays warm. What happe\n  278   1  | **During use** | Every occasion of occasionless weeping, timed, and whether it was the wielder or somebody else who noticed. One\n  279   1  | **At limit** | Small joys have gone dull in the wearer while the unwept grief still arrives entire, and the use ends there whate\n  280   2  | **After use** | Return, reconcile the baseline, and record whether the toll has reversed: whether the wearer has wept at anythin\n  282   1  **Stat interpretation:** The grade states what a piece can do and says nothing about what it draws on. An efficient issue can stil\n  360   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  406   1  - Viderehan and Ferrehan are the valid Work Types. Flerehan is unavailable: this is an Object, and the earlier entry naming it sto\n  413   3  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)\n  418   6  **Operational interpretation:** The record of this holding is three unvarying series and one that moves, and the whole of the file\n  420   4  **Review requirement:** Verify the four readings in their order — field radius, glow against the card, warmth by hand through clot\nGENERIC 0.005  (30 shared shingles)  SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-A__SIDE_CODEX_Icedrop.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-B__MAW-W_The_Tear_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-C__MAW-S_The_Tear_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-D__MAW-G_The_Tear_Pendant.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-A__SIDE_CODEX_Icedrop.md": "79df9b9d70c850a86d59f4a6c5fa70cce45dd138a0ef64c691715150768f2012",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-B__MAW-W_The_Tear_Requiem.md": "84ac743bb7898f57a020526ed60aae83006bbdc4025a68cc53694771c0f7f9e6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-C__MAW-S_The_Tear_Shroud.md": "644613edb5f877282cf19fc6b25c0608e882caa129e383be2bb446e9f0923e1f",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-D__MAW-G_The_Tear_Pendant.md": "90ca9a1b29249476f0d12a91fa28f8bf6b9a19a2950ece6a41c73baf6724ed62"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-102_Frozen_Tear_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%88%88%EB%AC%BC.md \"SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md\")]",
+  "table_link": "[[SE-C-IIβ-102 Frozen Tear](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-102_Frozen_Tear_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%88%88%EB%AC%BC.md \"SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md\")]",
+  "reading": {
+    "before_lines": 476,
+    "before_bytes": 49365,
+    "final_lines": 476,
+    "final_bytes": 50873
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 38,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "Digits changed by provenance documented inside repairs: the carried-relic template's '+10% Lament resistance' (10) and '5 Lament every 15 seconds past 60 seconds' toll (15, 60) were removed against the no-contact record; the field-edge survey series 4.1 / 5.6 / 7.2 metres was cited in the movement rows, introducing digits 4, 1, 6, 7, 2 from the file's own record. All combat damage bands retained."
+  }
+}

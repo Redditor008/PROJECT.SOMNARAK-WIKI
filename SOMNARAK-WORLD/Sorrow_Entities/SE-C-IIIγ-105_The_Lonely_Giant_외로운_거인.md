@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Long Reach* [**Debuff**] } | "Its arm comes from impossibly far away — loneliness has made it desperate to touch someone." | [The Giant reaches across the distance; its enormous hand closes near the target.] | *Target suffers -10 Resolve; the reach is inescapable.* **[10 Weight DMG [Weight]]** | When the Giant notices the target. |
-| { *The Empty Hand* [**Debuff**] } | "The hand closes on nothing — and the nothing is the worst part." | [The Giant grasps and finds no one; the rejection deepens its sorrow.] | *Target loses 10 Resolve under the weight of that loneliness.* **[10 Weight DMG [Weight]]** | When the target avoids the hand. |
-| { *The Heavy Step* [**Attack**] } | "One footstep, and the ground buckles for a hundred meters." | [The Giant treads forward; the impact alone is a blow.] | *Inflicts Weight pressure and one tremor-wound.* **[14-22 Weight DMG [Weight]]** | When the Giant moves. |
+| { *The Long Reach* [**Debuff**] } | "Nothing reaches for anybody. The tremor gets there first, and that is the furthest the Giant ever extends toward a person." | [It notices a watcher by slowing, and by sitting when approached. The tremor line is read from the ground, and positions are set along it instead of across its path.] | *-10 Resolve in the Warden standing inside the tremor, from the face more than the mass; a sitting is logged as an exposure rather than a shift.* **[10 Weight DMG [Weight]]** | When a Warden steps inside the tremor line. |
+| { *The Empty Hand* [**Debuff**] } | "Walk up to it and it folds down onto the ground, slowly, and waits there. Twice it stayed on after the Warden had gone — in the same spot, for days." | [No grasping and no rejection. The weight here is what the sitter keeps: everybody it has walked beside keeps some of it afterwards, so a sitting is one Warden and no more.] | *-10 Resolve, carried off the route; counsellors run the rotation because the accompaniment does not end when the sitting does.* **[10 Weight DMG [Weight]]** | When a sitting ends and the figure stays. |
+| { *The Heavy Step* [**Attack**] } | "Nine point six kilometres yesterday, in a district you can cross in two — measured with a wheel, against the plan." | [The step is a detour, not a blow: sixty years of record hold no deliberate contact with any structure, whatever the detour cost it. Structures contacted: invariably none.] | *Weight pressure arrives ahead of the figure with the tremor; casualties on this holding are structural, along an uncleared line, never from contact.* **[14-22 Weight DMG [Weight]]** | When something has been left standing on the published route. |
 | { *The Solitary Howl* [**Attack**] } | "It howls for company — and the sound is heavy enough to break." | [When it is wounded or left unanswered, the call comes out as weight instead of sound, and the ground around it takes the difference.] | *A heavy Black wave; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Giant is wounded or ignored. |
-| { *The Alone* [**Ultimate**] } | "It does not want to hurt you. It just cannot bear to be alone — and it will make you understand." | [The loneliness spreads out from the figure and presses every worker within the tremor's reach into his own company.] | *All personnel suffer Weight pressure for three turns under the weight of solitude.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Alone* [**Ultimate**] } | "It does not spread, and it makes nobody understand anything. It walks the long way round everything, every day, so as not to put a hand on anybody's wall." | [What lengthens is the route: 4.1, 6.8, 9.6 kilometres a day, tracking one line in the Issue Office's return — persons entitled to the standard issue who drew none of it in the year.] | *Weight pressure distributed across everyone the pattern does not fit and who will not become the kind of person who asks.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the year's uncollected entitlements rise again. |
 
 ### Battle Phases
 
@@ -315,11 +315,11 @@ The horizon moves. A figure twenty metres tall crosses the district with the car
 
 
 
-**At first contact:** Contact begins at the threshold. The containment door opens and the air changes — denser, thinner, colder, or simply wrong — in the way Weight always changes a room. Then the Subject-Body resolves: A twenty-meter humanoid of dark Han-crystal. It walks slowly, avoiding buildings and people.
+**At first contact:** The tremor arrives first, and then the placing of the feet — everything about the movement organised around not touching anything. Twenty metres, dark and dense, warm at close range, wet stone on the air. Watch it reach an obstacle; if it goes round, this is the holding.
 
-**With continued exposure:** With time, the entity becomes less abstract and more specific. The Weight is not a general force but a particular one — this entity's grief, this entity's wound, this entity's particular way of making the Han move.
+**With continued exposure:** Wardens who have sat with it describe a lasting change in what they notice — doorways, benches, stairs somebody could not use. The counsellors file that as exposure, not benefit.
 
-**When the entity activates:** The shift is physical. The air temperature drops or spikes, the Han-lamps flicker, and the Weight becomes something you can taste, hear, or feel on your skin. The Subject-Body has crossed the line between containing and becoming.
+**When the entity activates:** Nothing crosses any line. It is off its route, it is not coming for anybody, and the instruction is to clear the line and get out of the way of the walls — blocking corridors converts an avoidant entity into a demolition event.
 
 **After departure:** You leave, but the Weight follows — in the hands, in the chest, in the particular silence of the corridor afterward.
 

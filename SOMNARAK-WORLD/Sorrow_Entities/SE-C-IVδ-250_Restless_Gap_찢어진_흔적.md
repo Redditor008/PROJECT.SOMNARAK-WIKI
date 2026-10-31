@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-250 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber r |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber rate |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | 1 |
-| **Tool / M.A.W. grade** | δ · δ (Critical) |
+| **Tool / M.A.W. grade** | δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Flerehan and Ferrehan, worked from outside the bend with the counselor on the line. Pugnahan is valid on paper and prohibited by chamber order. |
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | Walking, unmeasured — position is derived from the bend at three stations, never observed, and the derived track has never been a straight line. It does not pursue; in forty years nothing has it approaching a person not already inside the bend. |
 | **Resistance** | 45 per cent against Weight pressure and 35 against everything else — high across the board, and the file's own reason is that nothing here is aimed: the tear does not select, so a crew holds against the zone rather than against the entity. Escalation runs 5 Resolve per turn while unopposed, and the gauge opens full at 846 and trips at 90 per cent. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Shredded Record* [**Debuff**] } | "The traces have been torn to pieces — and each fragment carries the weight of the whole." | [The Trace's destruction presses on the target; they bear what was ruined.] | *Target suffers -10 Resolve; the shredded evidence is heavy.* **[10 Weight DMG [Weight]]** | When the target touches the fragments. |
-| { *The Missing Page* [**Debuff**] } | "The most important part of the trace is gone — torn away — and the absence weighs more than what remains." | [The Trace's absence presses; the target feels what was removed.] | *Target loses 10 Resolve; the void in the record is crushing.* **[10 Weight DMG [Weight]]** | When the target reads the fragments. |
-| { *The Paper Cut* [**Attack**] } | "A fragment of torn trace, edge sharp, flies at you — carrying the anger of being destroyed." | [A shard of torn record launches.] | *Inflicts Weight pressure and one thin, heavy cut.* **[14-22 Weight DMG [Weight]]** | When the fragments are scattered. |
-| { *The Full Reconstruction* [**Attack**] } | "Every torn fragment flies back together — and for one instant, the trace is whole, and then it detonates." | [The fragments converge, the trace stands whole in the gallery for one breath, and then it lets go.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the trace is reassembled without anchors. |
-| { *Everything Is Torn* [**Ultimate**] } | "Every record in the field shreds — and the weight of destroyed evidence crushes everyone." | [The tearing widens out of the re-embodiment, and the whole field starts shedding its records.] | *All in range suffer Weight pressure for three turns of shredded records.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Shredded Record* [**Debuff**] } | "Nothing here was torn up. This is not a record destroyed, lost, weeded or sealed — it is a record that was never required to be made, about work that was really done." | [No fragments exist to touch; the target keeps every fact and loses the thread between facts.] | *Target suffers -10 Resolve; the facts are intact and in no order.* **[10 Weight DMG [Weight]]** | Inside the bend. |
+| { *The Missing Page* [**Debuff**] } | "No page was torn away, because no page was ever written — his exposures fell in intervals nobody had to register. The absence is clerical, and it weighs exactly as much." | [The target is asked, in effect, to prove their own afternoon; the proof required is the faculty being taken.] | *Target loses 10 Resolve; not established is not the same as disbelieved, and it lands the same.* **[10 Weight DMG [Weight]]** | When the worker tries to recount the session. |
+| { *The Paper Cut* [**Attack**] } | "Nothing flies and nobody is cut — nobody has been physically injured here in the whole record. The tear does not select; a crew holds against the zone, not the entity." | [Pressure through the whole warped volume at once, heaviest at the tear, while the worker's own account quietly reorders itself.] | *Inflicts Weight pressure; the wound is sequence, and it is invisible to the person suffering it.* **[14-22 Weight DMG [Weight]]** | While unopposed inside the radius. |
+| { *The Full Reconstruction* [**Attack**] } | "This is the prohibited act given a name: supply the missing beat, make the life read smoothly, and the crew has not closed the cycle — it has joined the entity in editing the record." | [Nothing detonates. The exit scores of everyone present worsen, exactly as they did the once the Memory Weaver supplied order the Gap had not held.] | *A heavy Black pressure; the target's Sorrow Gauge surges 15% and their life becomes briefly, falsely, legible.* **[24-36 Weight DMG [Weight]]** | When somebody invents the piece that is missing. |
+| { *Everything Is Torn* [**Ultimate**] } | "No record in the field shreds — the day books stay intact in workers' hands, which is the point of them. What goes is the order of the engagement while it is happening." | [The zone warps outward; cordon logs are timed by a clerk outside the radius because responders inside it can no longer say what happened first.] | *All in range suffer Weight pressure for three turns of sequence loss.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -92,8 +92,8 @@
 
 ### Consequences
 
-- The responder who loses their hold inside the zone stops being a responder and becomes a route for its pressure instead. **Resolve** leaves them as a spent resource rather than as a wound, and what climbs back onto the gauge is the crew’s own doubt about which part of it happened first.
-- Length of exposure is what makes this zone dangerous rather than depth of it. A cycle kept short stays workable; the same cycle kept long stops being workable at all, and the dissolution arrives on four fronts in sequence — emotional, then physical, then the worker’s own identity, then the room’s arrangement.
+- Nobody becomes a conduit and nothing is spent like a resource. The responder who loses hold keeps every fact of the engagement and cannot order them; their exit screen slips against baseline, and they are withdrawn on the score regardless of how the event is going.
+- Length of exposure is what makes this zone dangerous rather than depth of it, and the loss is narrower than any dissolution: not emotional, not physical, not identity itself — order. It destroys nothing; it removes order, which the medical office classes as a loss and the claims office does not.
 - Every activation of the M.A.W. charges the wielder personally, not the team: composure goes first, then the memories the wielder keeps privately, then the body’s vigour. The ledger for this grade has no column deep enough to hold that entry.
 - Unresolved, the sorrow here does not thin out and leave. It folds back into the zone that made it and begins the escalation recorded further down this dossier, starting with the corners of the Commons declining to meet.
 
@@ -259,7 +259,7 @@ All 3 pieces are drawn out of the Gap's own weight and carry what it carries: th
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Confirm the designation on the Weight signature and the walk — the primary visual marker — and check the ground against Zone D, Mantle Commons before the watch is set. Emotional impressions are entered last, if at all. |
+| **Initial exposure** | Confirm the designation on the Weight signature and the walk — a gallery line bent around a person-shaped nothing with a vertical tear down it — and check the ground against Zone D, Mantle Commons before the watch is set. Emotional impressions are entered last, if at all. |
 | **Sustained observation** | Bend magnitude at three stations against the derived track, and the exit sequence score against each worker's own baseline. The second is the sensitive instrument and the one the chamber order is written around. |
 | **Activation or escalation** | Corrupt — the zone warps outward from where it stands. Nothing is pursued; the hazard reaches people by growing, not by travelling Record it with the hour, who was present, and what had been done in the preceding minutes. |
 | **Post-contact review** | What altered, what persisted, and what defied vocabulary — all three are data. The report is incomplete if it records only damage: the standing question on this file is which details a worker could still describe, and in what order they came back. |
@@ -303,11 +303,11 @@ The figure stands in the Commons, and the room forgets how its corners connect. 
 
 **At first contact:** Nothing announces it. The gallery behind it is slightly wrong — a line that should run straight is bent around a person-shaped nothing with a tear down it — and you will see this clearly and be unable to describe it ten minutes later. Write it down in the gallery. Every protocol in this holding exists because of what happens between the gallery and the stairs.
 
-**With continued exposure:** Time stretches in the containment zone. The Subject-Void becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
+**With continued exposure:** Timed indirect viewing slows it and does not stop it: everyone in the gallery keeps their facts and starts losing the order of them, a median two misplaced events of twelve, then four, now seven.
 
-**When the entity activates:** Activation is not subtle. The Han density doubles, triples, and the Weight becomes a physical force — something that pushes, pulls, dissolves, or crushes. The Subject-Void was waiting; now it moves.
+**When the entity activates:** The bend passes station three and the warped volume grows outward from where it stands. It is not chasing anyone; the cordon widens and the sequence cards come out.
 
-**After departure:** Departure is not relief. The Subject-Void is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
+**After departure:** Certainty about everything seen, and no order to put any of it in. The counselor asks which came first, the transfer or your sister's wedding, and you do not know, and that is a thing you have known your whole life.
 
 ### Interaction Pattern
 
@@ -373,7 +373,7 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 
 **Operational interpretation:** Treat this as a starting point and not a conclusion, and read it against the classification, the Combat Record and the equipment profile before acting on any entry. Then read the condition, which is one sentence long and is the whole of the procedure: use the anchors, rebuild the history in order, invent nothing. What the Gap does — its behaviour, its Work Type responses, its corruption pattern — is that single finding seen from three sides.
 
-**Review requirement:** Re-verify the four pillars — gauge, seal, personnel, position — after any corruption event, expansion, transformation attempt or unusual interaction, and add the exit scores to the round: on this holding the sequence loss is the measurement, and it slips before anything else does.
+**Review requirement:** After any corruption event, expansion, transformation attempt or unusual interaction: re-read the bend at three stations against the derived track, confirm the tear's dimensions (constant across the record), and retake every present worker's exit screen against baseline — on this holding the sequence loss is the measurement, and it slips before anything else does. Baselines are retaken annually whether or not the worker has been in the chamber since.
 ## Apex Record
 
 ### Person-Shaped Absence

@@ -1,0 +1,192 @@
+{
+  "designation": "N-IIIγ-874",
+  "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md",
+  "words": 8498,
+  "sha256": "67425efecb330681c770d05cef595353f538031a306f295d6159afca04e5ab5b",
+  "unit": 4,
+  "name": "Bridge of the Unchosen",
+  "status": "held",
+  "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_04_BRIDGE_OF_THE_UNCHOSEN.md",
+  "before_words": 8498,
+  "after_words": 8920,
+  "base": "6069c3d57a0373d9e006a41c156ff05841f66337",
+  "final_sha256": "c376692ca403bedbe80bdb31b3499b4f40dc0a5106883f177219b3bf7141cf5c",
+  "summary": "Fourteen source-supported repairs (4 short / 10 careful): the bridge that has never shed a stone stops detonating, vaulting ice-lances and freezing every bridge in the field; its third signature rule — the Counterfactual Rule — replaces the generic activation banner. HELD; no credit (per-piece source review already embedded in the primary; direct SE-874).",
+  "commentary": "The third of the wing's signature-rule holdings, after Clapperless's Provenance Rule and Unwitnessed's Recorded Beginning — this one's instrument is a frost probe that grades the facility's own findings, and its Tale is retained, knowingly, as the anti-example. The combat rows were pure ice-warfare against an entity whose actual hazard is grammatical: certainty about a road nobody took. They now fire when a finding is signed, which is where this holding has sat all along.",
+  "reasoning": "Identity is direct: Side A carries Source SECC Designation `N-IIIγ-874 [D]`, Related Entity SE-874, set 4/4 (*Witnessed Form* — the primary's Permafrost Star-Ring, Shield and Charm). R-18 split declared before editing: four short (Tool-grade `· —` against the β pieces; `Vessel-Destructible: Yes` and a 100 kg–1 ton dust figure against 'never shed a stone'; a generic movement stub) and ten careful (five combat rows with planks/cables/wood, shattering, airborne ice and freezes extending to every bridge, against a pale-crystal span that has never extended, shed a stone, reached past its abutments or harmed anyone in sixty years; quote block; termination imposing 'severe Void trauma' against the primary's no-injury refusal; the 1-Minute '5 Void damage every 15 seconds' against 'No physical hazard on record'; the stability bullet against the separated gauge/depth columns; the chalice's falling snowflake blades against the ring's one-person chime doctrine). R-33 chain: a refused crossing → frost depth keyed to counterfactual findings in the review returns → the Counterfactual Rule (state was done / was available / was known — never what would have happened). The Tale's forbidden register was NOT edited; the file itself retains it as the clearest example of the harm, with that deliberate note preserved — neither an error to fix nor evidence for inferring the far side.",
+  "history": "Fixed point probe surveyed sixty years; ceiling 96 mm in the fortnight after the Year 4229 Zone D surge review (eleven counterfactual sentences in the summary); first return under the Counterfactual Rule Year 4238 (94 findings, 22 containing a counterfactual, withdrawn and reissued). Fresh equipment credit BARRED: the primary's M.A.W. sections already embed per-piece source review — the fitted-under-a-spoken-event harness naming, the charm's word-taking limit, the Use Notes' one-ladder attribution/shutdown doctrine and the Field Use Record match item docs SE-874-B/C/D (binding rule, corrosion ladder, named-witness shutdown, attribution review) verbatim in substance, proving prior full-set review before this appearance pass. Ledger `equipment_reviews` has no N-IIIγ-874 entry. Therefore Equipment reviewed +0/+0; Types and Weapon unchanged at 286/301 and 284/287.",
+  "holds": [
+    "Ring nomenclature: Side A and item B carry 'Bridge of the Unchosen Lens' in their set table while item B's title and the primary call it 'The Permafrost Star-Ring'; its chalice appearance travels under both names with no stated crosswalk. Held.",
+    "What waited on the far side of the original crossing: not recorded, never established, and the subject of the file's own prohibition. Two hundred written impressions of the far end disagree with each other entirely and each describes something the observer wanted. Held — permanently, by design.",
+    "Side A lists the manifestation as 'Can breach via Transform' while the primary's SECC row says 'Non-breaching: activation only' and sixty years of record show no breach of any kind. Source fork preserved; the primary's series stands. Held.",
+    "The depth mechanism: frost tracks the review returns and 'does not track the work done at the Gardens and never has'; whether the correlation is causal is asserted by usage, not shown. Held."
+  ],
+  "split": [
+    4,
+    10
+  ],
+  "repairs": [
+    {
+      "id": "R1-tool-grade",
+      "kind": "short factual alignment",
+      "careful": false,
+      "old": "| **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |",
+      "new": "| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |"
+    },
+    {
+      "id": "R2-vessel",
+      "kind": "short factual alignment",
+      "careful": false,
+      "old": "| **Vessel-Destructible** | Yes |",
+      "new": "| **Vessel-Destructible** | No — the deck has never shed a stone in sixty years of record, and nobody goes past the third stone. |"
+    },
+    {
+      "id": "R3-dust-drop",
+      "kind": "short factual alignment",
+      "careful": false,
+      "old": "| **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |",
+      "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+    },
+    {
+      "id": "R4-secc-movement",
+      "kind": "short appearance completion",
+      "careful": false,
+      "old": "| **Movement** | Stationary — a structure or location. |",
+      "new": "| **Movement** | Fixed; annual survey, no variance in sixty years. Span and clearance are measured each session and both figures are known to mean nothing. |"
+    },
+    {
+      "id": "R5-iced-span",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Iced Span* [**Debuff**] } | \"The bridge is sealed in permafrost — every plank, every cable, frozen solid and impossible to cross.\" | [The Bridge's ice-lock denies passage; the target is trapped on one side.] | *Target suffers a Void mark; the crossing is impossible.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Bridge. |",
+      "new": "| { *The Iced Span* [**Debuff**] } | \"Steps taken on the deck do not continue — the foot stays where it was set — and the prohibition is three stones, absolute, imposed before the first incident. Nobody is trapped on one side; nobody has ever been allowed far enough to be.\" | [The frost advances past the marked stone by about two hand-spans, in silence, which is the only visible event this holding has ever produced.] | *Target suffers a Void mark; the crossing stays possible to describe and impossible to conclude.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the frost crosses the third stone. |"
+    },
+    {
+      "id": "R6-deepening-cold",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Deepening Cold* [**Debuff**] } | \"The ice thickens — and the cold extends outward, freezing the air itself.\" | [The Bridge's permafrost spreads; the target is being sealed in.] | *Target loses clarity; the cold is everywhere.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |",
+      "new": "| { *The Deepening Cold* [**Debuff**] } | \"The frost looks the same at four millimetres and at ninety-six. Three early reports describe the deck as unchanged on days the probe recorded a forty-millimetre swing, and nothing freezes that a standing observer can watch happening.\" | [The deepening is a number at the next reading, not a weather front; the event happened when a finding was signed, in a warmer room.] | *Target loses clarity; the cold is in the figure, not the air.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the probe returns deeper than the last session. |"
+    },
+    {
+      "id": "R7-ice-lance",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Ice-Lance* [**Attack**] } | \"A shard of the frozen bridge breaks free — ancient, sharp, and colder than anything natural.\" | [An ice-splinter from the Bridge strikes.] | *Inflicts Void damage; the ancient cold erodes warmth.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Bridge is struck. |",
+      "new": "| { *The Ice-Lance* [**Attack**] } | \"No shard has ever broken free; the deck has not shed a stone in sixty years, and the span is never struck — Pugnahan is not a Work Type here and the prohibition on the near end predates any incident an attack could answer.\" | [What strikes is a sentence: the worker begins describing the other side in the past tense as something that was taken from them, and the gauge rises with every such sentence.] | *Inflicts Void damage; warmth erodes exactly as fast as certainty grows.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker states what the other path held. |"
+    },
+    {
+      "id": "R8-full-shatter",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Full Shatter* [**Attack**] } | \"The entire frozen bridge detonates — ice and wood and void, in every direction.\" | [The Bridge's permafrost fails catastrophically.] | *A heavy Void ice-burst; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Bridge is broken. |",
+      "new": "| { *The Full Shatter* [**Attack**] } | \"The span does not detonate and there is no wood in it to burst. What breaks is a finding: twenty-two of ninety-four in the first return contained a sentence stating what would have happened, and every one had to be withdrawn.\" | [A counterfactual read aloud at a public hearing by a man who meant it as an apology took the frost to ninety-six millimetres, the deepest figure on record.] | *A heavy Void ice-burst of withdrawn prose; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a finding states an outcome for a course not taken. |"
+    },
+    {
+      "id": "R9-frozen-crossing",
+      "kind": "careful combat correction",
+      "careful": true,
+      "old": "| { *The Frozen Crossing* [**Ultimate**] } | \"The ice spreads to every bridge in the field — and without crossings, every side is cut off.\" | [The Bridge extends its freeze across the whole area.] | *All in range suffer Void erosion for three turns of frozen crossings.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+      "new": "| { *The Frozen Crossing* [**Ultimate**] } | \"The ice does not travel to other bridges. This wing holds five, they behave nothing alike, and none of them has ever been brought here or affected by this one. What generalises is the sentence — every board of this facility can write it.\" | [A swing of twenty millimetres or more between readings opens a documents search, not a field response: which board reported that week, and what did it say would have happened?] | *All in range suffer Void erosion for three turns of boards writing would-haves.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |"
+    },
+    {
+      "id": "R10-quote-block",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "> **This Relic can Benefit the Facility**\n> **This Relic is Capable of Operative Alteration**\n> **This Relic Extracts Personal Resilience upon Extended Use**",
+      "new": "> **A finding may state what was done, what was not done, what was available, and what was known at the time.**\n> **It may not state what would have happened had another course been taken.**\n> **You have found a principled reason to stop apologising. — family representative, at the consultation**"
+    },
+    {
+      "id": "R11-termination",
+      "kind": "careful activation correction",
+      "careful": true,
+      "old": "| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |",
+      "new": "| **Termination / Return** | Returned the same evening unless the bearer holds an unwithdrawn finding stating an outcome for a course not taken, in which case it simply stays on. There is no injury in the refusal and no warning. |"
+    },
+    {
+      "id": "R12-log-1min",
+      "kind": "careful log correction",
+      "careful": true,
+      "old": "| 1 Minute | The bearer begins to supply the ending. It is confident and it is theirs, not the ring's. | 5 Void damage every 15 seconds past the minute. Stop the bearer talking. The piece has never produced an outcome and the bearer will insist that it did. |",
+      "new": "| 1 Minute | The bearer begins to supply the ending. It is confident and it is theirs, not the ring's. | Stop the bearer talking; nothing is metered here except sentences, and the first one in which they supply an ending is timed and transcribed. The piece has never produced an outcome and the bearer will insist that it did. |"
+    },
+    {
+      "id": "R13-obs-bullet",
+      "kind": "careful observation correction",
+      "careful": true,
+      "old": "- It becomes stable when the worker accepts the present path.",
+      "new": "- A worker's acceptance lowers the gauge; the depth does not answer to it. The probe tracks the facility's review returns and has never once responded to anything done or not done by an individual at the span — the two columns have never moved together, and a session that drops the gauge into deeper frost is written up as a success without qualification."
+    },
+    {
+      "id": "R14-chalice-blades",
+      "kind": "careful weapon correction",
+      "careful": true,
+      "old": "The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapping any chalice releases a chime that freezes moisture in the air into falling geometric snowflake blades.",
+      "new": "The chalices rotate in a smooth horizontal circle sixty centimeters across. Their chime is addressed to one person — a second person standing in the same room hears bells — and nothing falls from it but an option, shown open at the moment it was open and never one step beyond."
+    }
+  ],
+  "outputs": {
+    "verify": {
+      "exit": 0,
+      "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+      "stderr": ""
+    },
+    "tpl": {
+      "exit": 0,
+      "stdout": "RESIDUE 0  SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md\n",
+      "stderr": ""
+    },
+    "sectfile": {
+      "exit": 0,
+      "stdout": " 0.027  clean    73 grams  Operational Parameters\n 0.024  clean   374 grams  기록 (Registrum)\n 0.019  clean   781 grams  Combat Record\n 0.007  clean   674 grams  감각 묘사 (Flavor Text)\n 0.003  clean  1037 grams  M.A.W. Equipment\n 0.001  clean   877 grams  이야기 보고 (Story Log)\n 0.000  clean   607 grams  Activation Behavior\n 0.000  clean   340 grams  이야기 (Narratio)\n 0.000  clean   326 grams  관찰 기록 (Observation Log)\n 0.000  clean   292 grams  Warden Record\n 0.000  clean   286 grams  Origin\n 0.000  clean   283 grams  Trivia\n 0.000  clean   215 grams  Appearance\n 0.000  clean   149 grams  Behavior\n 0.000  clean   120 grams  최종 관찰 (Final Observation)\n 0.000  clean    51 grams  증언 (Testimonium)\n 0.000  clean    32 grams  SECC Classification\n 0.000  THIN      7 grams  (preamble)\n0 section(s) over 0.05\n",
+      "stderr": ""
+    },
+    "wikistd": {
+      "exit": 0,
+      "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+      "stderr": ""
+    },
+    "sect": {
+      "exit": 0,
+      "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   56   1  | **Resistance** | 35% against Void pressure; 25% against other pressure types |\n   85   5  | { *The Full Shatter* [**Attack**] } | \"The span does not detonate and there is no wood in it to burst. What breaks is a finding:\n   86   9  | { *The Frozen Crossing* [**Ultimate**] } | \"The ice does not travel to other bridges. This wing holds five, they behave nothing \n  237   2  **Appearance:** a shield-backed harness of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with t\n  257   2  **Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, warm to the touch.\n  277   1  One ladder governs all three, and it is entered in order: the bearer begins describing the abandoned crossing in the first person;\n  336   1  The ground is the probe. In the fortnight after the Zone D surge review — eleven counterfactual sentences in the summary, one of t\n  363   1  Three records are grouped with this one and the grouping is by furniture: two of them are bridges and one points at roads. None ha\n  365   2  **Interaction method:** On paper, and on one question: of the crossing each record holds, was it attempted and failed, refused, or\n  372   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  412   1  - Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record; earlier editions of this en\n  416   2  - The Counterfactual Rule is a containment condition of this entity and binds every review board of this facility.\n  422   5  **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Review Board, which is listed on an entity\n  427   1  **Operational interpretation:** Read this file with the review returns beside it or do not read it at all. Taken alone the span is\nGENERIC 0.005  (37 shared shingles)  SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md\n",
+      "stderr": ""
+    }
+  },
+  "sources": [
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-A__SIDE_CODEX_Bridge_of_the_Unchosen.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-B__MAW-W_Bridge_of_the_Unchosen_Lens.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-C__MAW-S_Bridge_of_the_Unchosen_Shield.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-D__MAW-G_Bridge_of_the_Unchosen_Charm.md"
+  ],
+  "source_hashes": {
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-A__SIDE_CODEX_Bridge_of_the_Unchosen.md": "40036b048d82e596d17f14c86b5c87a1443413bf0ec1bcac304e92bd18812009",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-B__MAW-W_Bridge_of_the_Unchosen_Lens.md": "fa9dd9e3aa3bf22a4512b95aea990223ca0edd2d46c72595abfcd540d9556e29",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-C__MAW-S_Bridge_of_the_Unchosen_Shield.md": "d3a8bd20e68b5d26fc4de91220a6890a369ab9fdd57d260cff58dd6989064a7c",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_863_to_897/874_Bridge_of_the_Unchosen/SE-874-D__MAW-G_Bridge_of_the_Unchosen_Charm.md": "32b267317e5720a5d6af163d27b845319f4b1685a861a17352e43758354b3561"
+  },
+  "whole_before_reread": true,
+  "whole_final_reread": true,
+  "no_change": false,
+  "credits": {
+    "types": 0,
+    "weapon": 0,
+    "se": 0
+  },
+  "link": "[[SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-874_Bridge_of_the_Unchosen_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%8B%A4%EB%A6%AC.md \"SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md\")]",
+  "table_link": "[[SE-N-IIIγ-874 Bridge of the Unchosen](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-III%CE%B3-874_Bridge_of_the_Unchosen_%EC%96%BC%EC%96%B4%EB%B6%99%EC%9D%80_%EB%8B%A4%EB%A6%AC.md \"SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md\")]",
+  "reading": {
+    "before_lines": 468,
+    "before_bytes": 50134,
+    "final_lines": 468,
+    "final_bytes": 52359
+  },
+  "integrity": {
+    "unselected_primary_unchanged": 300,
+    "remaining_pending_fingerprints_unchanged": 31,
+    "physical_form_rows_unchanged": 301,
+    "tale_unchanged": true,
+    "digit_sequences_unchanged": false,
+    "source_files_unchanged": 4,
+    "digit_sequence_change": "Digits changed by provenance documented inside repairs: removed the '~100 kg-1 ton' dust range and the '5 Void damage every 15 seconds' meter, both without provenance in the record. No new digits introduced; the frost range (4-96 mm, 30 baseline), review return (94 / 22), and probe history retained."
+  }
+}

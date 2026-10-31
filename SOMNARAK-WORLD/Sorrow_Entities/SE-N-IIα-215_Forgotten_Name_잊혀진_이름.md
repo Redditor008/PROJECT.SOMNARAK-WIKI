@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A fading voice and partial silhouette that appears only when someone tries to remember a name on the tip of their tongue. Bloodless-cold, it smells of ash; catch it and the name is gone — the shape of a name that will not be recalled. |
-| **Movement** | Ambient — it is not in one place and is not an object. It is present wherever in the Old Lament somebody is reaching for a name, and the Core Stat Line's walking speed is an encounter convention rather than a measurement. |
+| **Movement** | Ambient — it is not in one place and is not an object. It is present wherever in the Old Lament somebody is reaching for a name; no locomotion speed has been timed. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 4 |
+| **Activation threshold** | Sorrow Gauge ≥ 45% — modelled; no district transform has been observed |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -40,7 +40,7 @@
 
 - The name exists in writing and cannot survive a mouth. A worker may read it, hold it, and copy it, and will not be able to say it at the boundary.
 - A cycle settles the entity and changes nothing. The name has never left the district except on paper, and the paper has never been wrong.
-- Threshold 4. Escalation presents as a Warden becoming certain of a name that none of the three paper copies contains, which has happened nine times and is the reason the slates are written alone.
+- At or above the 45% threshold, the first practical warning is a Warden becoming certain of a name that none of the three paper copies contains, which has happened nine times and is the reason the slates are written alone.
 - Transcription is by hand, on slate, and the earlier instruction to the contrary was the worst error this file has carried: there is no instrument that can take it, and the two attempts to use one produced blank plates and cost the holding four months.
 - Extraction is separately authorised and has never been granted. There is no vessel and nothing to extract, and the line is kept because it is asked about every year.
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — nothing has ever been timed; the figure previously entered here was an encounter convention and is withdrawn |
-| **Resistance** | 20% against Void pressure; 10% against other pressure types |
+| **Resistance** | 20% against Void pressure; 10% against other pressure types. The working safeguards are silence, names handwritten independently on slate, three paper copies in three listed places, several consenting carriers, and transfer witnessed to confirm nothing was spoken |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 212/212 |
 | **Han Pressure [ATK]** | 2–8 per hit · Void |
@@ -73,22 +73,23 @@
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Battlefield** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | The name written, by hand, with a second person present who also writes it; nothing said aloud; the slates compared before either leaves; and the gauge below 25% |
+| **Management** | Keep the area silent; write independently on slate, compare by passing the slates, verify all three paper copies, and preserve every disagreement rather than reconciling the carriers into one version. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unnaming* [**Debuff**] } | "You try to say your own name — and the word is gone. The name exists, but you cannot reach it." | [The Name's erasure affects the target; their identity becomes inaccessible.] | *Target suffers a Void mark; they are becoming unnamed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Name's domain. |
-| { *The Spreading Blank* [**Debuff**] } | "First the name goes — then the face, then the voice — and soon, the proof you existed at all." | [The Name's erasure extends; the target's existence is fading.] | *Target loses clarity; they are being forgotten in real-time.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Unnaming* [**Debuff**] } | "You try to say your own name — and the word is gone. The name exists, but you cannot reach it." | [A naming lapse opens in the Old Lament; the incomplete silhouette forms at the edge of attention as the target reaches for a familiar name.] | *Target suffers a Void mark; the lapse is answered in writing, not by trying to say the word.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target first reaches for a familiar name in the Old Lament and cannot retrieve it. |
+| { *The Spreading Blank* [**Debuff**] } | "First the name goes — then the face, then the voice — and soon, the proof you existed at all." | [The lapse extends in the recorded order: name, then face, then voice and evidence.] | *Target loses Clarity; their partner checks the independently written identity record and the watch continues silently on slate.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the lapse extends beyond a name to a face or voice, or the target cannot retrieve their own name without reading it. |
 | { *The Erasure Strike* [**Attack**] } | "You say it out loud, to fix it, and it goes out of you between the first syllable and the second, and you are left holding the shape of having known something." | [The spoken name is lost from the speaker.] | *Void damage; the speaker's slate for that watch is void.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When anything is spoken aloud in the area. |
-| { *The Total Unnaming* [**Attack**] } | "Thirty-one disagreements across the slates in one month. Not one carrier had spoken. Every one of them had been certain." | [The carriers diverge all at once.] | *A heavy Void surge; the Sorrow Gauge rises 15% and the month's series is void.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At a divergence above twenty. |
-| { *Everyone Is Forgotten* [**Ultimate**] } | "Now no one can remember their own name — and without names, people become voids." | [The Name extends its erasure across the whole field.] | *All in range suffer Void erosion for three turns of being unnamed.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Total Unnaming* [**Attack**] } | "Thirty-one disagreements across the slates in one month. Not one carrier had spoken. Every one of them had been certain." | [The monthly slates diverge position by position while every carrier remains certain.] | *Heavy Void erosion across the carriers; no Gauge rise is inferred from the count. The three paper copies are verified and the quarter's closures pulled; the month's series stands exactly as written.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the monthly divergence count rises above twenty. |
+| { *Everyone Is Forgotten* [**Ultimate**] } | "Now no one can remember their own name — and without names, people become voids." | [The modelled transform spreads as a pale tide through the ambient district; names fail first, then faces and voices.] | *All personnel in the affected district suffer Void erosion for three turns; pairs fall back on independently written cards/slates and no name is chased aloud.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥45%. |
 
 ### Battle Phases
 
 1. **Tension:** The team identifies Forgotten Name by there is nothing to recognise and no marker to check. What is verified is the slate: the carriers write, the slates are compared, and the count is the holding. A Warden who is certain of the name is in exactly the same position as one who is not, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** All four Work Types are valid and none is spoken. The reading is the divergence: at the monthly check each Warden formally carrying the name writes it on a slate alone and without conferring, and the slates are compared position by position. Two disagreements is baseline. The recorded range is zero to thirty-one.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Write and speak the name with another witness present**.
+3. **Resolution:** The watch closes only when the name has been written by hand with a second writer present, nothing has been said aloud, the slates have been compared before either writer leaves, the three paper copies check out, and the Gauge is below 25%. Disagreements remain disagreements; suppression is not a route.
 
 ### Consequences
 
@@ -166,7 +167,7 @@ Every Work Type on this holding is performed in writing. Earlier versions of thi
 
 - **Event type (non-breach):** Transform, copied from a template in Year 4220 and never observed. It has no form to shift. The classification has been queried four times and left standing four times because nobody could propose a better one, and the queries are in the folder.
 - **Containment priority:** Silence, slates, and the three copies checked. There is no reality to stabilise; the only containment this holding has ever had is paper, and the file says so in those terms.
-- **Sorrow Gauge on event:** Modelled at 40% opening, rising 10% per turn. Never tested. There is nothing to escape from; the holding is ambient across a district and the model was copied from a Transform-class template in Year 4220.
+- **Sorrow Gauge on event:** No separate event model is used. The holding starts in its recorded 25–40% band and the modelled activation threshold is ≥45%; observed escalation is read from naming lapses, the spoken-word log and the monthly divergence. The district transform itself has never been observed.
 
 ## M.A.W. Equipment
 
@@ -194,7 +195,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that settles cold against the skin.
+**Appearance:** a cold, flowing suit of almost colourless Void Han-gossamer with no insignia on the outer surface; inside, pale threads form the wearer's name in several independently written hands, each beginning from a different seam, and the hood leaves the mouth uncovered.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -204,7 +205,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Wards Void pressure on the Soul. Worn for the watch and kept on through the slate comparison, which the carriers insisted on after two workers removed it early and wrote names they afterwards could not account for.
+**Ability:** *Witness Lining* holds several independent identity paths at once: each inner name-thread remains valid only while its writer can still connect that written form to the person inside. The Veil is worn for the watch and kept on through the silent slate comparison, which the carriers insisted on after two workers removed it early and wrote names they afterwards could not account for.
 
 **Cost:** The wearer feels faintly absent to themselves, and in four recorded cases has had to check their own papers to be sure of their name. It clears within a day and the check is now part of the gate procedure rather than a sign of trouble.
 
@@ -212,7 +213,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Void
 
-**Appearance:** a thread-band of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a warm band of almost colourless Han-glass filament that begins behind one ear, crosses the hairline and ends without clasp or knot; one chosen name moves through it as light in the hand of the witness who fixed it there.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -226,7 +227,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 ### M.A.W. Use Notes
 
-No piece of the set began life as a design, and the armoury's note says so outright: they came together one at a time across eighteen years, and the fourth trial piece — a bell meant to let a carrier say the name aloud once and keep it — did exactly what it was specified to do, was rung a single time, and went into the crucible with the plate it was cast on.
+No piece of the set began life as a design, and the Armoury's note says so outright: they came together one at a time across eighteen years, and the fourth trial piece — a bell meant to let a carrier say the name aloud once and keep it — did exactly what it was specified to do, was rung a single time, and went into the crucible with the plate it was cast on. In current silent use, the locally recorded Tanto is the short-range Void piece, the Veil preserves independently written routes back to the wearer, and the Thread holds one chosen name; their prices stay separate—small nameless memories, felt self-absence, and every nearby unspoken name pressing at hearing.
 
 ### Field Use Record
 
@@ -296,7 +297,7 @@ The ground is the slates. The year we extended corroboration to what people say 
 
 > The hour comes down to the slate: write what is understood of him, in silence, with another witness in the room, and hand it across unread — or speak the name out loud, once, carefully, to make it stay.
 
-| Keep the condition: write the name and speak it, with a second person there as witness. | Improvise something gentler instead, which is where every failure on this record began. |
+| Keep the condition: write the name in silence, with a second writer present, and compare the slates before either leaves. | Improvise something gentler instead, which is where every failure on this record began. |
 |---|---|
 | The worker sets down what they understand of him on the slate in silence and passes it across without reading it back. The gauge comes down, the slate matches, and that month's series stands. | The worker says it aloud — once, and carefully, to make it stick — because carrying a name you are not permitted to speak is harder than the briefing lets on. It leaves them before the second syllable is through, and the slate is void. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -336,17 +337,17 @@ Three records are grouped with this one and all three groupings are by memory, w
 
 ## 이야기 (Narratio) — The Tale
 
-He died alone, and his records were lost, and his name, belonging to no one, drifts the Old Lament, searching for a witness who can confirm it was ever spoken.
+He died alone, and his file was destroyed lawfully because every entry in it was his own uncorroborated account of himself; what remains of his name survives only where other people now write it down.
 
 The citizen died alone. This is common in Somnarak — the isolated death, the death without family, the death that occurs in a tenement room and is found, if it is found at all, by the Wardens on their rounds. The death was noted. And then the file was destroyed, which is the part the archive got wrong for eighteen years: not lost, not dissolved, not mislaid by a careless Keeper. Destroyed on schedule, by three people who signed for it, under a retention rule which holds that a file containing no corroborated entry contains nothing of record value. His file held eleven entries. Every one of them was his own account of himself. Every one was correctly marked unverified. The certificate is in the folder.
 
-The name was gone. Not the citizen — the citizen was dead, and the dead, in Somnarak, sink into the Weeping. The name. The specific word that had, in life, identified the citizen — the name that was spoken by the people who knew him, the name that appeared on the records that were lost, the name that was, in every system that mattered, the proof that the citizen had existed. The name, with the records gone and the people who knew it dead or scattered or simply forgetful, belonged to no one. It was an orphan — a word with no speaker, a label with nothing to label, a name floating free of the person it had named.
+The name was gone from every durable record. Not the citizen — the citizen was dead, and the dead, in Somnarak, sink into the Weeping. The name: the specific word that had identified him in life, the word attached to eleven entries nobody but he had supplied, and the word the permanent system could not keep because no second person had written it beside a corroborated entry. With the file destroyed and the people who knew him dead, scattered or forgetful, it belonged to no surviving record—an orphan word, a label detached from the person it had named.
 
-Forgotten Name is Subject-Phantasmal, Void-element: the figure of a name that belongs to no one, drifting the Old Lament, searching for a witness who can confirm it was ever spoken. The terror at its heart is the terror of existing without a witness — the specific, existential dread of a life that left no trace, a death that no one recorded, a name that no one, in all the city, remembers.
+Forgotten Name is Subject-Phantasmal, Void-element: the figure of a name no second person wrote down in time, drifting the Old Lament wherever somebody reaches for a word that will not come. The terror at its heart is existing without a witness—not a life that left no trace, but a life whose traces were all in its own voice and therefore inadmissible to the record built to preserve it.
 
-Those who come near the Forgotten Name feel the vertigo of unwitnessed existence — the chill of a life that left no mark, a death that no one noted, a name that has detached from its owner and floats, purposeless, through the district where the owner lived and died and was, in the end, forgotten so thoroughly that even the name cannot find a mouth to speak it.
+Those who come near it feel the vertigo of unwitnessed existence: a name detached from its owner, present at the edge of hearing, and destroyed by the attempt to secure it in speech. What can be carried is handwriting—several carriers, independently, in silence, with their disagreements preserved.
 
-Some sorrows mourn the dead. Forgotten Name mourns the unnamed — the citizen who died alone and whose records were lost, whose name drifts the Old Lament, searching for the single witness who would say: yes, that name was spoken. That person was here.
+Some sorrows mourn the dead. Forgotten Name mourns the unnamed: the citizen who died alone, whose file was destroyed on schedule, and whose existence now depends on strangers agreeing to write one word for the rest of their careers rather than let the blank become the whole record.
 ## 증언 (Testimonium) — The Testimony
 
 > *“He died alone. His records were lost. His name drifts the Old Lament, searching for a witness.”* — Keeper, Archive
@@ -403,7 +404,7 @@ More than one person holding it strengthens it, and the facility has accordingly
 
 ### What the Slates Are Actually Counting
 
-For sixteen years the divergence was taken as a sign of how the carriers were bearing up. In Year 4236 a carrier who also worked in the registry laid her slate series beside the board's quarterly figures — not from theory, but because both went to the same office — and the poor months proved to be the months after the facility closed the most files holding nothing but a person's own account of themselves. That correspondence has come out in twenty-one years of twenty-four. Set against a death, against other kinds of destruction, or against a paper simply mislaid, it holds nothing; all three were run against the series and none of them moved it.
+For sixteen years the divergence was taken as a sign of how the carriers were bearing up. In Year 4236 a carrier who also worked in the registry laid her slate series beside the board's quarterly figures — not from theory, but because both went to the same office — and the poor months proved to be the months after the facility closed the most files holding nothing but a person's own account of themselves. That correspondence has come out in twenty-one of twenty-four checks. Set against a death, against other kinds of destruction, or against a paper simply mislaid, it holds nothing; all three were run against the series and none of them moved it.
 
 The finding rearranges what this file is about, and the wing has chosen its words for that deliberately. It is not grief over a destroyed file — files are destroyed all the time and the series lies flat across them. What is counted is a rule of evidence. The corroboration standard is sound, the board's reasons for it are sound, and its effect is that a person who lived without witnesses leaves behind a record this facility is bound to treat as containing nothing. The board has read that finding, has disputed no line of it, and has changed nothing, which is the condition this file has been written inside from the beginning.
 

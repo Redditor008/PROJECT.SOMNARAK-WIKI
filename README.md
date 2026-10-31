@@ -27,7 +27,7 @@ The repository is structured into distinct, authoritative functional environment
 
 ## Archive Metrics at a Glance
 
-- **Over 1,896 curated canonical markdown files in SOMNARAK-WORLD (2,615+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
+- **Over 1,899 curated canonical markdown files in SOMNARAK-WORLD (3,031+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
 - **Over 3.42 million words (3,420,000+ words)** of structured, authentic canonical lore
 - **49 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
@@ -39,7 +39,7 @@ The repository is structured into distinct, authoritative functional environment
 - **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution; dice, AP, and clash law in [Action Dice & Clash Rules](SOMNARAK-WORLD/Tactical_Combat_Engine/ACTION_DICE_AND_CLASH_RULES.md).
 - **Game Battle Operations & Tactical Simulation Suite** (`GAME_BATTLE/`), housing turn-by-turn combat encounters, boss battle mechanics, and standard authoring templates
 - **290 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
-- **42 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,165 files)
+- **42 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,166 files)
 - **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Obsidian, Ashen, Grey, and Purple Ordeals (archival codices render Obsidian/Ashen as Black/Pale) across 4 watches
 - **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
 - **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/Echo_Cores/`), covering Facility 01 departmental leadership
@@ -105,13 +105,12 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,897 files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 49 Macro-Canon Master Codices across 6 canonical subfolders
+│   ├── Master_Codices/                     # 44 Macro-Canon Master Codices across 5 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
-│   │   ├── 02_Institutional_Wings_and_Chronicles/ # 5 Codices: Reverie Directorate, SED, UCD, Archive, Caravan
-│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
+│   │   ├── 02_Institutional_Wings_and_Chronicles/ # 6 Codices: Reverie Directorate, SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan
+│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 9 Codices: Battle engines, M.A.W., Han Relics, Lumen, Ordeals, Taboo Resonance, workshops
 │   │   ├── 04_Municipal_Society_and_Demographics/ # 10 Codices: Daily life, Council, Collectors, corporations, syndicates, cadres
-│   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
-│   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
+│   │   ├── 05_Entities_Tales_and_Fractures/# 7 Codices: Entity taxonomy, linked groups, tales, fractures, relic entities, adversaries, Wound Walkers
 │   │   └── README.md                       # Master codices catalog & thematic index
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
 │   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
@@ -123,7 +122,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Novellas)
 │   ├── Sorrow_Entities/                    # 290 Unique Entity dossiers across Ranks I to V and Grades α to ω
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
-│   ├── MAW_Codex_Sets/                     # 1,165 files: 42 complete quadripartite sets across 42 folders
+│   ├── MAW_Codex_Sets/                     # 1,166 files: 42 complete quadripartite sets across 42 folders
 │   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
 │   ├── Hope_Transformations/               # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
 │   └── Unknown_Entities/                   # 12 Unknown Entity files: UNK-248 to UNK-903 & Regressor chronicles
@@ -208,11 +207,12 @@ Official corporate dossiers and operational doctrines of the sovereign instituti
 
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
-| [`The_REVERIE_DIRECTORATE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md) | Facility 01 Corporate Dossier (3,576 lines) | Subterranean Facility 01, 8 Floors, 9 Echo-Core attendants, and containment systems |
+| [`The_REVERIE_DIRECTORATE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md) | Facility 01 Corporate Dossier (3,558 lines) | Subterranean Facility 01, 8 Floors, 9 Echo-Core attendants, and containment systems |
 | [`The_SOMNARAK_EXPLORATION_DECREE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md) | SED Corporate Dossier (581 lines) | Three-tier subterranean descent doctrine, survey gear, and 7-member explorer cadre |
 | [`The_UNDERWORLD_CLEANUP_DESCEND.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_UNDERWORLD_CLEANUP_DESCEND.md) | UCD Corporate Dossier (509 lines) | Three-phase reclamation doctrine, urban pacification weaponry, and 6-officer task force |
+| [`The_WONHYEONG_BIOLOGICS.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_WONHYEONG_BIOLOGICS.md) | Won-Hyeong Bio-Restoration Dossier (287 lines) | Main Company 04: Composure Ampules, Living Suture Mesh, Archetype Catalyst, clinical debt, and Pale Bailiffs |
 | [`The_MEMORY_ARCHIVE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md) | The Memory Archive Dossier (915 lines) | Sub-Alpha root architecture, Mnemonic Combat Framework, and 7-floor reading stratigraphy |
-| [`The_HORIZON_CARAVAN.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_HORIZON_CARAVAN.md) | The Horizon Caravan Dossier (684 lines) | Drift Throne 140m mobile crawler specifications, trans-desolate navigation, and bastion warfare |
+| [`The_HORIZON_CARAVAN.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_HORIZON_CARAVAN.md) | The Horizon Caravan Dossier (684 lines) | Drift Throne 142.5m mobile crawler specifications, trans-desolate navigation, and bastion warfare |
 
 ---
 
@@ -222,13 +222,14 @@ Tactical combat specifications, mechanical mathematics, and metaphysical physics
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
 | [`SOMNARAK_BATTLE_SYSTEM.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM.md) | Combat Engine & Affinities (577 lines) | 4 Sorrow Elements (Grudge, Lament, Void, Weight), Range Bands 1–5, falloff, and formations |
-| [`SOMNARAK_BATTLE_SYSTEM_STYLES.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md) | Hexa-Style Combat Mechanics (767 lines) | Generic Core, Reverie Directorate, UCD Urban CQB, SED Depth Pressure, Archive Mnemonic, Caravan Bastion |
+| [`SOMNARAK_BATTLE_SYSTEM_STYLES.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_BATTLE_SYSTEM_STYLES.md) | Seven-Branch Combat Mechanics (835 lines) | Generic Core, Reverie Directorate, UCD Urban CQB, SED Depth Pressure, Won-Hyeong Clinical Suture, Archive Mnemonic, Caravan Bastion |
 | [`SOMNARAK_FACTION_TECH.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_FACTION_TECH.md) | Institutional Technology Specs (654 lines) | Acoustic dampening, basalt extraction, silk weaving, barrier rigs, and Warden Threshold Vows |
 | [`SOMNARAK_HAN_RELICS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_HAN_RELICS.md) | Sovereign Primordial Artifacts (275 lines) | Threefold relic taxonomy, Unanswered floating hands, containment vaults, and Pre-Structuring relics |
+| [`SOMNARAK_LUMEN.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_LUMEN.md) | Refined Han Current & Facility Substrate (89 lines) | Weeping-derived Lumen Units, containment-field consumption, reservoirs, deprivation, contamination, and Lumen Debt |
 | [`SOMNARAK_MAW_CODEX.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md) | Master Armory & Extraction Engine (9,033 lines) | M.A.W. weapon archetypes, suit weave defenses, stigma slots, and extraction across 198 complete quadripartite sets (245 planned sets) |
 | [`SOMNARAK_ORDEALS_FRAMEWORK.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md) | Five-Color Ordeal Defense (301 lines) | Mechanics for Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches and crisis taxonomy |
 | [`SOMNARAK_TABOO_RESONANCE.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_TABOO_RESONANCE.md) | Seven Taboos & Resonances (366 lines) | Absolute civic laws, acoustic censorship dynamics, resonant punishments, and Giltong enforcement |
-| [`SOMNARAK_WORKSHOPS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md) | Six Great Workshops Codex (215 lines) | Non-M.A.W. artisan equipment, Workplace Law, and 0.5% / 1.0% / 5.0% acquisition curve across Grades 1 to 5 (Legendary Stat) |
+| [`SOMNARAK_WORKSHOPS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md) | Six Great Workshops Codex (219 lines) | Non-M.A.W. artisan equipment, Workplace Law, and 0.5% / 1.0% / 5.0% acquisition curve across Grades 1 to 5 (Legendary Stat) |
 
 ---
 
@@ -239,7 +240,7 @@ Societal structures, municipal governance, debt economics, and faction demograph
 |---|---|---|
 | [`SOMNARAK_CAST.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CAST.md) | Canonical Registry of Figures (1,396 lines) | Council of Sighs, Departmental Leads, Wardens, Enforcers, Sector Chiefs, and Outlaws |
 | [`SOMNARAK_COLLECTOR_BUREAU.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_COLLECTOR_BUREAU.md) | Municipal Debt Enforcement (142 lines) | 4 Metaphysical Currencies (Material, Karma, Soul, Emotional), Collector Scales, foreclosure tiers |
-| [`SOMNARAK_CORPORATIONS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md) | Sovereign Institutions Doctrine (351 lines) | Unified pentagonal operational doctrine connecting R.D., SED, UCD, Archive, and Caravan |
+| [`SOMNARAK_CORPORATIONS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md) | Sovereign Institutions Doctrine (351 lines) | Five Main Companies (R.D., SED, UCD, Won-Hyeong, Horizon Caravan) + five Sub Infrastructure Trusts; Memory Archive filed separately as a sanctuary |
 | [`SOMNARAK_ZONE_CORPORATIONS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_ZONE_CORPORATIONS.md) | 25 Municipal Zone Corporations & Curfew Corps | Exactly 5 corporations per Zone (A–E), Haz-scorchers & Cleansers, Giltong arbiters, outer metropolises |
 | [`SOMNARAK_COUNCIL_OF_SIGHS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_COUNCIL_OF_SIGHS.md) | Sovereign Municipal Governance (128 lines) | High governance council, Chief of Staff Yeong, First Head Dohee, Third Head Gwanhee, and 45 cloaked heads |
 | [`SOMNARAK_DAILY_LIFE.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_DAILY_LIFE.md) | Civilian Life & Urban Culture (510 lines) | Food synthesis, fashion, acoustic curfews, civic sectors, slang, and civilian social habits |
@@ -256,21 +257,19 @@ Entity manifests, cognitive fracture case studies, and anomalous psychological p
 
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
-| [`SOMNARAK_ENEMY_LIST.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENEMY_LIST.md) | Adversary Compendium (187 lines) | Undercity threats, feral constructs, rogue operators, Outskirts beasts, and security hazards |
-| [`SOMNARAK_ENTITIES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md) | Phenomenological Theory (202 lines) | Emergence of Sorrow Entities, crystallization thresholds, and 5 Coherence levels (I to V) |
-| [`SOMNARAK_ENTITY_CODEX.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md) | Master Classification Codex (613 lines) | SECC code matrix, work affinities (Ferrehan, Flerehan, Pugnahan, Viderehan), and containment |
+| [`SOMNARAK_ENEMY_LIST.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENEMY_LIST.md) | Operation Encounter Register (187 lines) | 71 SED, UCD, and R.D. scenario rows spanning Sorrow Entities, humans, environments, constructs, and equipment; generic encounter labels, not a dossier roster |
+| [`SOMNARAK_ENTITIES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md) | Linked Groups, Chains & Tale-Born Entities (202 lines) | Four connected entity groups, three transformation chains, and three fairy-tale entities in shorthand cross-register form |
+| [`SOMNARAK_ENTITY_CODEX.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md) | Dossier Grammar & Entity Catalog (651 lines) | SECC five physical types including Hazard, ten Form Descriptors, dossier sections and work law; catalog of 253 Sorrow rows plus 7 Unknown cross-references, 14 Hope Transformations, and 8 Unknown entries, with 37 further dossiers awaiting unique rows |
 | [`SOMNARAK_ENTITY_TALES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md) | Master Origin Lore Anthology (13,825 lines) | Tripartite lore structure: 이야기 (Tale), 증언 (Testimony), 기록 (Record) for 246 entities |
-| [`SOMNARAK_NAMED_FRACTURES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md) | Historical Cognitive Breakdowns (472 lines) | Breakdown categories (Corrosion, Meltdown, Panic, Apathy) across 18 documented case studies |
-| [`SOMNARAK_WOUND_WALKERS.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md) | Order of Wandering Healers (274 lines) | Monastic order sworn to absorb, transmute, and carry the burden of civilian sorrow |
+| [`SOMNARAK_NAMED_FRACTURES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md) | Fracture Process & 18 Case Records (472 lines) | Crack → Spread → Crystallization → Emergence; Quick, Slow, Partial, and Chronic courses; outcomes, statistics, and the citizen-Fracture/Echo-Core-crisis boundary across two 10+8 ledgers |
+| [`SOMNARAK_RELIC_ENTITIES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_RELIC_ENTITIES.md) | Still-Sorrow Registry & Doctrine (106 lines) | Object, Place, and Time manifestations; Two-Work-Type Rule; activation versus expansion; representative registry and Relic M.A.W. doctrine |
+| [`SOMNARAK_WOUND_WALKERS.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md) | Post-Dawn Wound Pilgrimage (274 lines) | Year 4250+ Sooah and the Wound Walkers, seven Crucible Stations, non-containment coexistence, and petrified Han scars |
 
 ---
 
-### Subfolder 6: `06_Integrity_Audits_and_Comparative_Studies/`
-Trans-cosmic integrity audits and strict divergence certifications:
+### No sixth subfolder — cross-verse material lives outside the world bible
 
-| Codex File Name | Focus & Subject Matter | Key Topics Covered |
-|---|---|---|
-| [`SOMNARAK_PM_COMPARATIVE_INTEGRITY_AUDIT.md`](SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/SOMNARAK_PM_COMPARATIVE_INTEGRITY_AUDIT.md) | Comparative Integrity Audit (867 lines) | 97.4% structural divergence audit, 100% plot-hole-free mechanics, and ontological independence |
+`Master_Codices/` holds Somnarak canon only. The ten comparison, conversion, and vocabulary documents that used to occupy a sixth subfolder were **moved out of `SOMNARAK-WORLD/` on 2026-10-31**, unaltered, to [`PROJECT_MOON_RESEARCH/CROSS_VERSE/`](PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md). None of them was Somnarak canon; several carried in-world letterhead they had no right to.
 
 ---
 

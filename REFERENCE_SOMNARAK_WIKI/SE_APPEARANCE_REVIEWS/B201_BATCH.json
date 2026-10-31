@@ -1,0 +1,1224 @@
+{
+  "schema_version": 1,
+  "batch": 201,
+  "status": "CLOSED",
+  "completed_units": 5,
+  "required_units": 5,
+  "queue": [
+    {
+      "unit": 1,
+      "designation": "N-IIβ-456",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md",
+      "words": 8676,
+      "sha256": "2768ed2d9fddd4100db7ddc4b0895b76659ee806fee4f313808616478a645b9a"
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-651",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md",
+      "words": 8682,
+      "sha256": "1a3638f734914d178415acce03b262130b429f804c96fd718fc354d37a41eb2f"
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md",
+      "words": 8708,
+      "sha256": "9232ea9b41d16e128b325f4ba766a6c951d6651462f771eb95868f46e1f0021e"
+    },
+    {
+      "unit": 4,
+      "designation": "N-IIβ-152",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md",
+      "words": 8708,
+      "sha256": "15fd270b57154cafc8cf92cf0e46f854e5fa142c36ae0148f05f5a9e5a873cf7"
+    },
+    {
+      "unit": 5,
+      "designation": "O-IVδ-115",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-115_Broken_Fragment_부서진_파편.md",
+      "words": 8722,
+      "sha256": "a4b28074677fb088ddb9ff19453e95ab5a956c0d09fc808c94cf8aa39a3bd248"
+    }
+  ],
+  "opened_at": "2026-10-29",
+  "completed": 5,
+  "units": [
+    {
+      "unit": 1,
+      "designation": "N-IIβ-456",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md",
+      "words": 8676,
+      "sha256": "2768ed2d9fddd4100db7ddc4b0895b76659ee806fee4f313808616478a645b9a",
+      "name": "Fading Fruit",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_01_FADING_FRUIT.md",
+      "before_words": 8676,
+      "after_words": 8934,
+      "base": "259096da3a1a5093ea8e877f48af36501af22636",
+      "final_sha256": "2e68830808092f9500e48a7fad45df44571e11482cbac964dc3a36a01a8fe4ff",
+      "summary": "Seventeen repairs (5 short / 12 careful). Fading Fruit is no longer a breaching, vessel-destructible physical-pressure object measured per turn. It is again a fixed Place-Grudge garden whose readings are seasonal fruit-set/empty-stem counts, marked corners and the set-off return. Combat triggers now use the stopped reach, a promise/entitlement/debt collapse, prohibited picking, a completed two-thousand-plus matching fall count, and Gauge ≥60%. Exact crimson Dagger, Plate and Charm appearances were restored and set use now separates desire, debt, authority and feasible action. HELD; no credit because the primary already contains the complete α set/statistics/costs/Field Use Record and a dated 2026-10-11 full-set source review with explicit holds.",
+      "commentary": "Nobody steals this harvest. Forty-one households sign a fair agreement, work four seasons and eat nothing while every office acts lawfully. The garden counts the exact interval in which a person has earned something but has not yet been allowed to hold it.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-456: Side A prints `N-IIβ-456 [N]`, Object/Place—Place-Grudge, II/β, Grudge, Collector's Row, Gauge 35–50%, pressure 7–18 and Observation 2; B/C/D carry `MAW-W/S/G-456-01`. The primary's dominant local mechanism is precise: dark trees in the 41 households' beds set fruit that thins before eating; set count and empty stems have matched for 31 seasons; workers name a specific earned-but-unreceived entitlement; Ferrehan is an hour in the rows picking nothing; expansion is four footprint approaches/withdrawals, never a breach. Repairs removed the Transform-breach/vessel/dust/per-turn template and rebuilt triggers from that record. The Withering now begins at a reach or named unreceived entitlement, The Losing Shape at the exact Side A failure of turning desire into promise/entitlement/monetization/debt, The Final Juice remains the four prohibited picks, The Total Fade is a completed matching fall count above two thousand with no personnel Gauge, and the Ultimate uses the file threshold ≥60%. Exact B/C/D supplied crimson grief-stained Dagger, fading-fruit Plate and whole-until-promised Charm forms. All parsed table blocks are equal and all Trigger cells parse fifth.",
+      "history": "Draft/local history: forty-one debtor households planted between tenements and ledger offices, signed an equal work/harvest agreement, tended four seasons and ate nothing. The primary connects the set count (340 baseline; 96–4,119 range) to earned entitlements set off before delivery, citing 11,906 entitlements credited over nine years and 9,841 never held, plus the Rule of the Delivered Harvest and ninety-day grace. Fresh equipment credit BARRED on this HELD result: before repair it already had all three α pieces, matching stats/costs, Use Notes, Field Use Record and the dated 2026-10-11 full-set review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Entity-name fork: primary title/common name Fading Fruit versus exact Side A Orchard of the Indebted for designation `N-IIβ-456` and the same Korean name. Held.",
+        "Equipment title/silhouette fork: primary/Master Fading Fruit Dagger/Plate/Charm versus Side/item The Indebted Dagger/Plate/Charm; `MAW-W-456` also retains Straight Parallel Dirk and Rondel Dagger depictions with no documented crosswalk. Held.",
+        "Equipment-function fork: the primary Dagger shows what a person is owed and its Charm cools before a set-off/exempts bearer entitlements, while exact items reveal concealed grief and mark desire separately from ledger judgment. Appearance was restored; functions were not normalized. Held.",
+        "Activation-model fork: no breach or transform has been observed in thirty-one years—only seasonal counts and four footprint approaches/withdrawals—so the ≥60% combat threshold remains normalized rather than observed. Held.",
+        "Metadata fork: Side A gives Observation 2 without the Basic label and no maximum Gauge; primary uses 2—Basic and 357/357. Held."
+      ],
+      "split": [
+        5,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-entity-nonbreaching",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Can breach via Transform |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: fixed garden; seasonal footprint expansion and withdrawal in place, with no breach recorded |"
+        },
+        {
+          "id": "R02-primary-pressure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Physical / structural pressure |",
+          "new": "| **Primary pressure** | Resilience — desire for a specific entitlement earned but not received |"
+        },
+        {
+          "id": "R03-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — Place manifestation; no vessel or destruction route is recorded |"
+        },
+        {
+          "id": "R04-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R05-speed-seasonal-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed garden; output is measured by seasonal fruit-set and empty-stem counts and by footprint movement toward the marked corners |"
+        },
+        {
+          "id": "R06-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Grudge pressure; 15% against other pressure types |",
+          "new": "| **Resistance** | 25% against Grudge pressure; 15% against other pressure types. The working safeguards are the Ferrehan hour with hands kept down, picking nothing, acknowledging the named desire without promising fulfilment, and reporting fruit-set and empty-stem counts side by side |"
+        },
+        {
+          "id": "R07-withering-reach-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Withering* [**Debuff**] } | \"The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist.\" | [The Fruit's fading transfers to the target; they feel themselves becoming less real.] | *Target suffers -10 Resilience; they are fading like the fruit.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |",
+          "new": "| { *The Withering* [**Debuff**] } | \"The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist.\" | [Fruit at shoulder height goes translucent as the worker's hand starts toward it and the specific thing they earned but never received comes to mind.] | *Target suffers -10 Resilience; the stopped reach is logged with the minute and the hand returns to their side.* **[10 Grudge DMG [Grudge]]** | When the target first reaches toward fruit in the rows or names a specific entitlement they earned but did not receive. |"
+        },
+        {
+          "id": "R08-losing-shape-promise-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Losing Shape* [**Debuff**] } | \"The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails.\" | [The Fruit's dissolution is contagious; the target's boundaries weaken.] | *Target loses 10 Resilience; they are losing their outline.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |",
+          "new": "| { *The Losing Shape* [**Debuff**] } | \"The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails.\" | [The boundary between wanting, being owed and being promised collapses; every visible fruit thins as the record is written.] | *Target loses 10 Resilience; hunger transfers to the operators until desire, debt, authority and feasible action are recorded in separate fields.* **[10 Grudge DMG [Grudge]]** | When a desire is promised fulfilment, treated as proof of entitlement, monetized, or itself recorded as debt. |"
+        },
+        {
+          "id": "R09-total-fade-count",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Total Fade* [**Attack**] } | \"Four thousand one hundred and nineteen set that season, and four thousand one hundred and nineteen stems, and the counter finished both lists.\" | [The whole season goes at once.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15%.* **[24-36 Grudge DMG [Grudge]]** | At a set count above two thousand. |",
+          "new": "| { *The Total Fade* [**Attack**] } | \"Four thousand one hundred and nineteen set that season, and four thousand one hundred and nineteen stems, and the counter finished both lists.\" | [The completed fall count proves the whole season vanished on the branch: every set fruit is matched by an empty stem.] | *Heavy Grudge pressure across the posted workers; no personnel Gauge is inferred. Both lists are filed whole and the quarter's set-off return is pulled.* **[24-36 Grudge DMG [Grudge]]** | When the completed fall set count exceeds two thousand and matches the empty-stem count. |"
+        },
+        {
+          "id": "R10-ultimate-threshold60",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Empty Harvest* [**Ultimate**] } | \"Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger.\" | [The Fruit extends its fading across the whole area.] | *All in range suffer Grudge pressure for three turns of vanishing harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Empty Harvest* [**Ultimate**] } | \"Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger.\" | [The footprint reaches toward a marked corner while fruit across the beds thins before it can be taken.] | *All personnel inside the footprint suffer Grudge pressure for three turns; corners are walked, hands stay empty, and no harvest is promised.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥60%. |"
+        },
+        {
+          "id": "R11-battle-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The watch is filed under containment, retreat, management, or the condition this file registers: **Acknowledge desire without promising fulfillment**.",
+          "new": "3. **Resolution:** The watch closes only when the desire has been acknowledged with no fulfilment promised, nothing has been picked, the set count and stem count are reported side by side, and the Gauge is below 25%. **Acknowledge desire without promising fulfillment** is the management condition; suppression and harvesting are not routes."
+        },
+        {
+          "id": "R12-dagger-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a slender dagger of Grudge Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.",
+          "new": "**Appearance:** a crimson dagger of Grudge Han-iron with grief stains visible beneath its surfaces, the discoloration sitting under the metal like bruising under skin—visible, and unreachable."
+        },
+        {
+          "id": "R13-plate-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a plated harness of Grudge Han-iron, dark and faintly warm, that carries a faint scent of its origin.",
+          "new": "**Appearance:** a crimson Han-iron harness patterned with fading fruit—orchards stamped into the metal mid-vanishing, so the harvest is visibly in the act of being withdrawn and is never polished brighter."
+        },
+        {
+          "id": "R14-plate-ability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards Grudge pressure on the Body. Worn for the hour in the rows and kept on to the gate, which the counters insisted on after two workers removed it at the bed edge and were found with fruit in their hands.",
+          "new": "**Ability:** *Denied-Hope Guard* protects the Body from Grudge generated by systemic foreclosure without treating that denial as fair or soluble by one person's force. Worn for the hour in the rows and kept on to the gate, which the counters insisted on after two workers removed it at the bed edge and were found with fruit in their hands."
+        },
+        {
+          "id": "R15-charm-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a small charm of Grudge Han-iron, dark and faintly warm, that grows cool near its source sorrow.",
+          "new": "**Appearance:** a crimson Han-iron Tail charm shaped as a fruit, remaining whole only while desire is recorded without promise; when wanting is inflated into a guarantee, the fruit begins to split."
+        },
+        {
+          "id": "R16-use-notes-separate-fields",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The armoury's note records none of it as designed: the pieces were found one at a time across thirty-one years, and the fourth thing tried here — a scale built to weigh a person's entitlement against their arrears and advise the greater number — did simply what the specification asked, and was broken up at the ward's request.",
+          "new": "The Armoury's note records none of it as designed: the pieces were found one at a time across thirty-one years, and the fourth thing tried here — a scale built to weigh a person's entitlement against their arrears and advise the greater number — did simply what the specification asked, and was broken up at the ward's request. In use, the Dagger reveals, the Plate guards and the Charm marks; every deployment records desire, debt, authority and feasible action in separate fields. No piece may promise a harvest, monetize the fruit, or treat wanting itself as either proof of entitlement or another debt."
+        },
+        {
+          "id": "R17-tale-garden-and-picks",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "They planted a garden. In the marginal soil of Collector's Row, between the tenements and the ledger offices, the debtors dug and planted and tended — fruit trees, vegetable beds, the small agricultural gestures of people reaching for a life the system had labeled unavailable. The garden was an act of defiance, and an act of hope, and an act of the ordinary domesticity the debt was supposed to have foreclosed.\n\nThe fruit faded. Every season, the trees bore — the blossoms came, the fruit formed, the harvest approached. And every season, before the fruit ripened, before any debtor could pick it, before any hungry mouth could taste the thing they had grown — the fruit faded. Withered on the branch. Dissolved. The debt, the debtors came to understand, was not merely financial. It was a condition — a systemic foreclosure on the possibility of satisfaction, on the completion of any cycle of effort and reward. The debtors could plant. The debtors could tend. But the debt ensured that the harvest, the payoff, the taste of the thing they had worked for — these were reserved for those who did not owe.",
+          "new": "They planted a garden. In the marginal soil of Collector's Row, between the tenements and the ledger offices, forty-one households dug the beds, set out fruit trees and signed an agreement to share the work and harvest equally. The garden was an act of hope and of ordinary domesticity: a meal grown rather than bought, from trees they themselves had tended.\n\nThe fruit faded. Every season the blossoms came, fruit set and swelled, then thinned on the branch before it could be eaten. Later Wardens have closed a hand on one four times and received a bitter drop and a wet stem; no household harvest followed. The injury was not that an office seized the crop—none did—but that effort could be completed lawfully at every step and still never arrive in the earner's hand."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.024  clean   917 grams  M.A.W. Equipment\n 0.020  clean   538 grams  감각 묘사 (Flavor Text)\n 0.015  clean   546 grams  기록 (Registrum)\n 0.008  clean   721 grams  Combat Record\n 0.008  clean   262 grams  Operational Parameters\n 0.003  clean   337 grams  관찰 기록 (Observation Log)\n 0.001  clean  1094 grams  이야기 보고 (Story Log)\n 0.000  clean   443 grams  Watch Record\n 0.000  clean   346 grams  이야기 (Narratio)\n 0.000  clean   320 grams  Expansion Behavior\n 0.000  clean   319 grams  Trivia\n 0.000  clean   300 grams  Appearance\n 0.000  clean   277 grams  Origin\n 0.000  clean   103 grams  Behavior\n 0.000  clean   100 grams  최종 관찰 (Final Observation)\n 0.000  clean    61 grams  증언 (Testimonium)\n 0.000  clean    37 grams  SECC Classification\n 0.000  clean    28 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   31   2  | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 25% against Grudge pressure; 15% against other pressure types. The working safeguards are the Ferrehan hour wit\n   85   4  | { *The Empty Harvest* [**Ultimate**] } | \"Every fruit in the field fades — and the orchard becomes a collection of absences, eac\n   90   1  2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A under the Object/Place Work Rule. The reading is the set \n  252  22  **Full-set source review (2026-10-11):** Reviewed the `— · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Note\n  275   1  | **Post-contact review** | Both counts in full by row, the corner walk, the temperature series, the hand log including stopped re\n  286   1  The first return under the Rule of the Delivered Harvest, Year 4238. Across the nine completed years before this one the facility \n  330   1  **After departure:** You name the thing. Everybody names a thing, and it is never money in general; it is the specific entitlement\n  336   2  **Interaction method:** For the one measured relationship, both series by season, in writing, with no interpretation attached. For\n  343   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  345   6  | **The Debt Wall** | The claim that the Wall's obligations feed this garden is a Year 4214 summary line. No measurement exists an\n  385   1  - Ferrehan lowers the gauge; Viderehan holds it level and returns the account of what the debtor wanted. Flerehan and Pugnahan are\n  399   5  **Faction Involvement:** SED (C-territory survey) · UCD (Collector-adjacent district) · the credit office, listed on an entity fil\n  404   2  **Operational interpretation:** Read this file with the set-off return beside it. Taken alone it holds a productive-looking garden\nGENERIC 0.008  (51 shared shingles)  SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-A__SIDE_CODEX_Orchard_of_the_Indebted.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-B__MAW-W_The_Indebted_Dagger.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-C__MAW-S_The_Indebted_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-D__MAW-G_The_Indebted_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-A__SIDE_CODEX_Orchard_of_the_Indebted.md": "1b3213f8175eb44757a61b7c780b55e577711fa71cf903c2af43d926abded9f6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-B__MAW-W_The_Indebted_Dagger.md": "05d410fbcda3429c65115d6e8a5baf2173eda4a0e71a920726fbeaae0f84bd06",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-C__MAW-S_The_Indebted_Plate.md": "60176f5ff809b71bbff45c9450f3fcc3e6e9bfa0d21aba8c3ab52b2917c1765a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_456_to_488/SE-456-D__MAW-G_The_Indebted_Charm.md": "c3e51f5bd3c5a6ec78628b4a5bc2b146ddb4794ba62b9541d297954e4f598b8e"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-456_Fading_Fruit_번져가는_열매](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-456_Fading_Fruit_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%97%B4%EB%A7%A4.md \"SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md\")]",
+      "table_link": "[[N-IIβ-456 Fading Fruit](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-456_Fading_Fruit_%EB%B2%88%EC%A0%B8%EA%B0%80%EB%8A%94_%EC%97%B4%EB%A7%A4.md \"SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md\")]",
+      "reading": {
+        "before_lines": 455,
+        "before_bytes": 51878,
+        "final_lines": 455,
+        "final_bytes": 53585
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 15,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": false,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported Han Dust range `10 kg–100 kg` and Row 4's personnel `15%` Sorrow Gauge rise were removed. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥60%."
+      }
+    },
+    {
+      "unit": 2,
+      "designation": "O-IIIγ-651",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md",
+      "words": 8682,
+      "sha256": "1a3638f734914d178415acce03b262130b429f804c96fd718fc354d37a41eb2f",
+      "name": "Relic Waiting for Its Maker",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_02_RELIC_WAITING_FOR_ITS_MAKER.md",
+      "before_words": 8682,
+      "after_words": 8880,
+      "base": "5e365614e694ec109aed1e2cae6c732122571b1b",
+      "final_sha256": "d7fe92c843e74022b576a9bf0990b7a8ef4de3befc55e684c0455018c5dc3354",
+      "summary": "Twenty-one repairs (4 short / 17 careful). The unreachable relic is no longer approached, lingered at, touched, forced awake or triggered at the wrong Gauge. Its Combat Actions now use a confidence spoken aloud, translation/completion of an untranslated symbol, unfinished tools before the pedestal, assignment of a purpose or activation command, and Gauge ≥75%. The Cover and Charm received exact forms/protocols, the malformed thirty-second log was repaired, and the Tale no longer invents a masterpiece or intended waking ritual. HELD with no fresh equipment credit because the primary already had the complete γ set/statistics/Field Use Record and an explicit Batch 111 cross-source review.",
+      "commentary": "The correct archival act here is refusal. The instruction stops mid-clause, the walls record what confidences cost, and nobody is authorized to turn a mark into a command merely because uncertainty is uncomfortable.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-651: Side A prints `O-IIIγ-651 [VP]`, Object/Place—Place-Grudge, III/γ, Void, Zone C Mask Market, Gauge 653/653, starting 45–65%, pressure 18–41, threshold 75% and set Purpose Without Claim; B/C/D carry `MAW-W/S/G-651-01`. The primary's dominant instrument is a plumb line at four stations (11→19 mm) read against an attributed open speech log: duty rosters move nothing, a quiet admission moves the east wall. Exact Side A adds that secrets spoken to abandon responsibility extend the listening walls and assigning a purpose triggers Full Awakening. Repairs rebuilt every Combat row from those mechanisms and removed the personnel Sorrow Gauge from Row 4. Exact C/D supplied the breathing named-monitor Cover, Unattended Presence, hot one-mark Charm and copy-without-translation protocol. All parsed table blocks are equal and all Trigger cells parse fifth.",
+      "history": "Draft/local history: a masked artisan died during a sleep ritual and left an unseen relic plus an instruction that stops mid-clause; two Warden completions are kept separately as speculation. Side A records an acquirer who copied one visible symbol as unknown and a researcher whose healing interpretation/assembled activation phrase had to be retracted. Fresh equipment credit BARRED on this HELD result: before repair the primary already contained all three γ pieces, matching Side statistics, Field Use Record and the Batch 111 cross-source review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Weapon form/function fork: primary seven-prism golden Dormant Halo-Ring with tranquillizing burst versus exact SE-651-B reflection-extracted pale Maker's Lens disc with Command Severance; Master/archetype records also split names and range bands. Held.",
+        "Stigma-function fork: the primary Charm preserves anything set down undisturbed, while exact D preserves one unknown symbol and its order. Appearance was restored; function remains held.",
+        "Activation fork: the primary's unfinished-tools/dormant-pedestal channel yielding armor reinforcement and weapon sharpness has no exact-side crosswalk, while Side A frames the same chamber as a listening place whose purpose must not be guessed. Held.",
+        "Awakening fork: Side A calls assignment of purpose a Full Awakening and records identity-anchor loss, while the primary says the unseen relic itself has never stirred. The revised row explicitly identifies this as a side-codex incident; no observed relic movement is claimed. Held.",
+        "The meaning of the surfaced symbols and the missing instruction remains unknown by design; no revised text completes either. Held."
+      ],
+      "split": [
+        4,
+        17
+      ],
+      "repairs": [
+        {
+          "id": "R01-entity-nonbreaching",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Object/Place** — Can breach via Transform |",
+          "new": "| **Entity Type** | **Object/Place** — Non-breaching: fixed chamber; walls lean inward in place and no breach counter exists |"
+        },
+        {
+          "id": "R02-operational-pressure-composure",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Identity / memory pressure |",
+          "new": "| **Primary pressure** | Composure — loss of words, intentions and identity anchors around an unknown purpose |"
+        },
+        {
+          "id": "R03-speed-plumb-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed chamber; output is measured by plumb-line lean at four stations against attributed entries in the open speech log |"
+        },
+        {
+          "id": "R04-dormant-pulse-speech-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dormant Pulse* [**Debuff**] } | \"The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and the deep brain.\" | [The Relic's dormant energy field permeates the target; they feel ancient potential.] | *Target suffers a Void mark; the sleeping artifact is aware of them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Relic. |",
+          "new": "| { *The Dormant Pulse* [**Debuff**] } | \"The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and the deep brain.\" | [The attentive quiet turns toward a confidence spoken instead of written; one wall takes a step in the plumb reading.] | *Target suffers a Void mark; the spoken words are entered in full, attributed, and cannot be withdrawn.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target speaks a confidential matter aloud in the chamber, especially to shed responsibility for carrying it. |"
+        },
+        {
+          "id": "R05-dream-glow-interpretation-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Dream-Glow* [**Debuff**] } | \"The relic glows faintly — dreaming of the power it used to hold — and the glow pulls at your own stored energy.\" | [The Relic's dream-state drains the target subtly.] | *Target loses clarity; their energy is being siphoned by a dream.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |",
+          "new": "| { *The Dream-Glow* [**Debuff**] } | \"The relic glows faintly — dreaming of the power it used to hold — and the glow pulls at your own stored energy.\" | [A copied symbol begins to read as a command; the two transcriptions in the log no longer agree.] | *Target loses clarity and one intended word; form, orientation and sequence are preserved, but no meaning is assigned.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a surfaced symbol is translated, completed, or treated as the relic's purpose. |"
+        },
+        {
+          "id": "R06-sleep-reflex-tools-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sleep-Reflex* [**Attack**] } | \"The relic twitches — an involuntary discharge of dormant power.\" | [An accidental burst from the sleeping Relic.] | *Inflicts Void damage; the reflex-discharge erodes identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Relic is touched. |",
+          "new": "| { *The Sleep-Reflex* [**Attack**] } | \"The relic twitches — an involuntary discharge of dormant power.\" | [The resonance pulse answers the object presented before the pedestal; the unseen center itself is neither seen nor contacted.] | *Inflicts Void damage; tools withdrawn before the pulse concludes crack through their structure, and all four plumb stations are read again.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When unfinished craftsman's tools are presented before the dormant pedestal. |"
+        },
+        {
+          "id": "R07-full-awakening-purpose-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Awakening* [**Attack**] } | \"The relic wakes — for one instant at the full power it was built to hold, and the chamber is lit by something that was never finished.\" | [The unfinished object runs at its intended output for the length of a breath.] | *A heavy Void surge; the target's Sorrow Gauge surges 15% and the plumb readings take a step inward at every station.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Relic is forced awake. |",
+          "new": "| { *The Full Awakening* [**Attack**] } | \"The relic wakes — for one instant at the full power it was built to hold, and the chamber is lit by something that was never finished.\" | [Assigning the relic a purpose and speaking an assembled activation phrase sends the pulse through every leaning wall; this is a side-codex incident, not observed movement by the unseen object.] | *Heavy Void surge; nearby personnel lose identity anchors and the plumb readings step inward at every station until the phrase is retracted and responsibility accepted.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a purpose or activation command is assigned to the relic. |"
+        },
+        {
+          "id": "R08-waking-vault-threshold75",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Waking Vault* [**Ultimate**] } | \"Every wall in the chamber leans at once — the lean was never only structural.\" | [The attentive quiet turns outward; all four stations move together.] | *All in range lose Composure for three turns, and anything entered in the speech log during those turns is marked as recorded under load.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Waking Vault* [**Ultimate**] } | \"Every wall in the chamber leans at once — the lean was never only structural.\" | [The attentive quiet turns outward; all four stations move together.] | *All personnel in the chamber lose Composure for three turns, and anything entered in the speech log during those turns is marked as recorded under load.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥75%. |"
+        },
+        {
+          "id": "R09-battle-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Speak only what the worker accepts responsibility for carrying** — which in practice means the log closes with an entry beside every movement, and the watch ends with the relic still asleep and still unnamed.",
+          "new": "3. **Resolution:** The watch closes when work returns to silence and slates, anything spoken is entered in full and attributed beside the matching plumb movement, and the relic remains asleep, unseen and unnamed. **Speak only what the worker accepts responsibility for carrying** is the management condition; no interpretation, completion or activation phrase is a resolution."
+        },
+        {
+          "id": "R10-log-method-grammar",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | The conduit widens, revealing the memory of the weight of a purpose waiting for a person who will never return. forged during a masked artisan died during a sleep ritual, leaving the relic and its unfinished instruction behind. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |",
+          "new": "| 30 Seconds | The conduit widens, revealing the weight of a purpose waiting for a person who will never return: the memory belongs to a masked artisan who died during a sleep ritual and left the relic with its instruction unfinished. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |"
+        },
+        {
+          "id": "R11-cover-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a cover-plate of Void Han-glass, near-translucent and almost colourless, that dims the wearer's outline the way the chamber dims a speaker's intent — present, attended to, and unaccountably hard to describe afterwards.",
+          "new": "**Appearance:** a breathing plate of pale Void Han-glass, near-translucent and almost colourless, visibly flexing as though attentive. It dims the wearer's outline the way the chamber dims a speaker's intent—present, attended to, and unaccountably hard to describe afterwards—and it binds only with a named external monitor."
+        },
+        {
+          "id": "R12-cover-ability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Conceals the wearer's presence from attentive observers.",
+          "new": "**Ability:** *Unattended Presence* conceals the wearer's presence from attentive observers and keeps the listening walls from focusing on them; the named external monitor remains part of the equipment, because the same silence also blocks requests for help."
+        },
+        {
+          "id": "R13-charm-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, warm only when the bearer is near something they cannot bring themselves to say.",
+          "new": "**Appearance:** a hot pale-glass Head charm of Void Han-glass, near-translucent and almost colourless, carrying one untranslated maker's mark. It grows warmer when the bearer is near something they cannot bring themselves to say; the mark's meaning is withheld."
+        },
+        {
+          "id": "R14-use-notes-protocols",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "Nothing in this set points outward. All three pieces extend the chamber rather than arm anybody against it: the ring strips intentions, the plate hides the wearer the way the room hides a confidence, and the charm keeps what is set down exactly where it was left. Inside the pattern the file records, the benefit holds; outside it the cost arrives early and does not reverse on return — errands abandoned, sentences dropped, the reason for having come into a room.",
+          "new": "Nothing in this set points outward. All three pieces extend the chamber rather than arm anybody against it: the ring strips intentions, the plate hides the wearer the way the room hides a confidence, and the charm keeps what is set down exactly where it was left. Inside the pattern the file records, the benefit holds; outside it the cost arrives early and does not reverse on return — errands abandoned, sentences dropped, the reason for having come into a room. The Cover is inspected with its named monitor and a nonverbal help signal is tested before use. Any symbol carried by the set is copied by form, orientation and sequence only; interpretations stay on separate removable sheets, and no bearer is authorised to turn the mark into a command."
+        },
+        {
+          "id": "R15-story-entry2-confidences",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Walls move subtly in response to speech.",
+          "new": "The plumb record is kept beside the speech log because volume is not the variable: a duty roster read aloud moves nothing, while a quiet admission takes the east wall in by a millimetre. What the chamber answers is a confidence, not noise."
+        },
+        {
+          "id": "R16-story-entry3-counselor",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Counselor's Note on What Was Said in the Chamber>**\nThe weight of a purpose waiting for a person who will never return.",
+          "new": "**Entry 3 — <Counselor's Note on What Was Said in the Chamber>**\nAnything said in the chamber belongs in the open operational log, attributed, because the room induces disclosure without asking. Counselling remains separate and elective; no supervisor may ask what the walls moved for, and three workers have already had chamber words quoted in unrelated proceedings."
+        },
+        {
+          "id": "R17-story-entry4-symbols-untranslated",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Work response — Viderehan: Reveals symbols describing the relic's purpose. (Stable); Ferrehan: Keeps the worker in the chamber until silence is endured. (Decrease). Confusion follows attempts to identify its purpose too quickly.",
+          "new": "Work response — Viderehan: symbols surface, but no two transcriptions have ever agreed and none may be treated as a translation of the relic's purpose (Stable); Ferrehan: endure the attentive quiet without filling it (Decrease). Confusion and word loss follow attempts to identify or complete that purpose."
+        },
+        {
+          "id": "R18-flavor-continued-exposure",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Time in the containment zone moves differently. The Void pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.",
+          "new": "**With continued exposure:** The quiet stops feeling empty and starts feeling addressed to you. The slate stays blank longer than the sentence you are considering saying aloud; the plumb line, not your comfort, tells whether the chamber has taken another step inward."
+        },
+        {
+          "id": "R19-tale-no-invented-purpose",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "The masked artisan was a craftsman of the old order — skilled, dedicated, the kind of worker who invests not just labor but self in the objects they create. The relic was his masterpiece — an object of significance, a thing whose purpose was known only to the artisan, whose function was explained in an instruction that only the artisan could read. The relic was meant to be completed by a sleep ritual — a Han-assisted process that would, upon waking, activate the object's intended purpose.\n\nThe artisan died in the ritual. The sleep that was meant to be temporary became permanent — the artisan, entering the ritual state, did not wake. The relic, left beside the sleeping artisan, was never activated. The instruction, written in a language only the artisan understood, was never translated. And the relic, dormant, purpose sealed, waited for the one person who could complete it — the artisan, sleeping, who would never wake.\n\nRelic Waiting for Its Maker is Place-Grudge, Void-element: the figure of a purpose waiting for a person who will never return — the relic, the instruction, the dormant function, all held in suspension by the death of the one who understood them. The Relic does not sleep the way the artisan sleeps. The Relic waits — the specific, patient, purposeless waiting of an object whose meaning died with its maker, whose function cannot be activated, whose reason for existing is sealed in a sleep from which the activator will never wake.\n\nThose who come near the Relic Waiting for Its Maker feel the weight of purpose without its key — the specific sorrow of an object made for a reason that no living person understands, a function that cannot be performed, a meaning that sleeps beside the one who gave it and that will sleep, dormant, forever.\n\nSome sorrows mourn a maker. Relic Waiting for Its Maker mourns the making — the object left unfinished, the instruction left unread, the purpose left unactivated, preserved beside the sleeping artisan who carried, in his single mind, the only key to the thing he built.",
+          "new": "The masked artisan died during a sleep ritual. Nobody surviving can supply the missing half of that sentence: what the ritual was meant to finish, whether the unseen object was a masterpiece or an error, or what its maker intended it to do. The instruction stops mid-clause, close enough to sense to invite completion, and the archive refuses the invitation. An ending written by Wardens would be the Wardens' instruction, not the artisan's.\n\nWhat remains observable is the chamber: four walls leaning inward around a center no one has seen, moving not for noise or work but for confidences. Relic Waiting for Its Maker is Place-Grudge, Void-element—the weight of a purpose whose only witness is dead and whose evidence must be preserved without being translated into certainty.\n\nThose who work there carry the temptation as much as the mystery. To name a function, finish the clause or assemble a waking phrase would end the discomfort by inventing authority. The file's discipline is narrower and harder: copy the mark, read the plumb line, attribute every spoken word, and leave the sleeping thing its unknown reason for being made."
+        },
+        {
+          "id": "R20-behavior-symbols-untranslated",
+          "kind": "careful work-response correction",
+          "careful": true,
+          "old": "| **Viderehan** | Symbols surface on the chamber wall describing a purpose, and no two transcriptions of them have ever agreed. | Stable |",
+          "new": "| **Viderehan** | Symbols surface on the chamber wall, but no two transcriptions have ever agreed and none may be read as a description of the relic's purpose. | Stable |"
+        },
+        {
+          "id": "R21-log-sentence-join",
+          "kind": "short syntax correction",
+          "careful": false,
+          "old": "cracks their structural durability. all personnel in the sector take heavy damage.",
+          "new": "cracks their structural durability; all personnel in the sector take heavy damage."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.018  clean   722 grams  감각 묘사 (Flavor Text)\n 0.014  clean   701 grams  Combat Record\n 0.014  clean   772 grams  M.A.W. Equipment\n 0.014  clean   501 grams  기록 (Registrum)\n 0.009  clean   229 grams  Operational Parameters\n 0.008  clean   261 grams  이야기 보고 (Story Log)\n 0.006  clean   538 grams  Activation Behavior\n 0.004  clean   248 grams  Behavior\n 0.000  clean   923 grams  Warden Record\n 0.000  clean   331 grams  관찰 기록 (Observation Log)\n 0.000  clean   281 grams  Appearance\n 0.000  clean   218 grams  Origin\n 0.000  clean   197 grams  Trivia\n 0.000  clean   195 grams  이야기 (Narratio)\n 0.000  clean   119 grams  최종 관찰 (Final Observation)\n 0.000  clean    42 grams  증언 (Testimonium)\n 0.000  clean    36 grams  SECC Classification\n 0.000  clean    29 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |\n   55   1  | **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing resists the lean: it is measured at four s\n   81   1  | { *The Dormant Pulse* [**Debuff**] } | \"The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and th\n   85   6  | { *The Waking Vault* [**Ultimate**] } | \"Every wall in the chamber leans at once — the lean was never only structural.\" | [The a\n   89   2  1. **Tension:** Identification first — Relic Waiting for Its Maker is recognised by the room, since the relic cannot be seen. This\n  147   1  Read the table as a description of what the chamber will do with you rather than as a menu of approaches. Relic Waiting for Its Ma\n  153   1  > **This Relic is Capable of Sector / Facility Alteration**\n  204   2  **Activation reporting order:** trigger → what was presented or spoken, and by whom → first change in the lean, with the plumb fig\n  228   3  **Ability:** Deals Void damage against the Soul — identity, memory, and the sense of being for something. The strike carries the s\n  236   1  **Appearance:** a breathing plate of pale Void Han-glass, near-translucent and almost colourless, visibly flexing as though attent\n  254   2  **Appearance:** a hot pale-glass Head charm of Void Han-glass, near-translucent and almost colourless, carrying one untranslated m\n  264   1  *The Charm is conferred and never issued: it appears after a successful cycle at the chamber's own disposition, on a worker who ke\n  279   2  | **Before use** | Wielder, piece, gauge at issue, and a sealed baseline of the intentions the wielder is carrying into the rotati\n  280   1  | **During use** | The first sign that the set is charging is an intention going missing: an errand set out on and abandoned, a se\n  281   1  | **At limit** | The wielder stops noticing the toll and stops asking for help: the plate's seal closes the same channel the chamb\n  284   1  **Stat interpretation:** The grade states how hard a piece hits and nothing about what it takes, and the costs in this set are unu\n  312   2  Relic Waiting for Its Maker (O-IIIγ-651 [VP]) is carried on the wing's register as a Place-Grudge manifestation expressing Void. T\n  351   6  The chamber's three filed relations are two things that keep words and one that opens for the dead, and none of them is settled. T\n  353   1  **Interaction method:** Baseline each entity alone, with a long plumb series behind it, since the lean moves slowly and a short re\n  360   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  366   4  **Interaction procedure:** Solo plumb series first, long enough to separate an interaction from the holding's own drift, then the \n  409   6  **Operational interpretation:** The file is a map and the chamber is the territory, and the suppression condition is more exacting\n  411   1  **Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the ga\nGENERIC 0.008  (50 shared shingles)  SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-A__SIDE_CODEX_Relic_Waiting_for_Its_Maker.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-B__MAW-W_Relic_Waiting_for_Its_Makers_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-C__MAW-S_Relic_Waiting_for_Its_Makers_Cover.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-D__MAW-G_Relic_Waiting_for_Its_Makers_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-A__SIDE_CODEX_Relic_Waiting_for_Its_Maker.md": "15f53664cbd1f144e66f561070810e6afe4faa560ae4ddf134562f1af4e6fa46",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-B__MAW-W_Relic_Waiting_for_Its_Makers_Lens.md": "9ab30f462c6ba1306781598cd3c85673de703f5de9376e925dcced5b31dbcdc1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-C__MAW-S_Relic_Waiting_for_Its_Makers_Cover.md": "a2203010c107cd2e66cfef9be00036f794ba34837ce63f130e95484396dfce9a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_643_to_677/SE-651-D__MAW-G_Relic_Waiting_for_Its_Makers_Charm.md": "9b9242227d8090cbb3c77c721152043449efbf37568a8a011e4dda9edc491201"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-651_Relic_Waiting_for_Its_Maker_%EC%9E%A0%EB%93%A0_%EC%9C%A0%EB%AC%BC.md \"SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md\")]",
+      "table_link": "[[O-IIIγ-651 Relic Waiting for Its Maker](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-651_Relic_Waiting_for_Its_Maker_%EC%9E%A0%EB%93%A0_%EC%9C%A0%EB%AC%BC.md \"SE-O-IIIγ-651_Relic_Waiting_for_Its_Maker_잠든_유물.md\")]",
+      "reading": {
+        "before_lines": 485,
+        "before_bytes": 52450,
+        "final_lines": 481,
+        "final_bytes": 53747
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 15,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": false,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Row 4's unsupported personnel `15%` Sorrow Gauge rise was removed. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥75%."
+      }
+    },
+    {
+      "unit": 3,
+      "designation": "C-IVδ-001",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md",
+      "words": 8708,
+      "sha256": "9232ea9b41d16e128b325f4ba766a6c951d6651462f771eb95868f46e1f0021e",
+      "name": "The Orphaned Bell",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_03_THE_ORPHANED_BELL.md",
+      "before_words": 8708,
+      "after_words": 9193,
+      "base": "ac2e8e1216b58efaba1c2f919688eb5275fae997",
+      "final_sha256": "7322fb9826975e179082dc9c92ee51fe1303fd539add627990a90ce9f2b75f05",
+      "summary": "Twenty-nine repairs (6 short / 23 careful). The Bell is no longer a destructible vessel yielding tons of Han Dust, and its combat threshold no longer contradicts itself. Side A's exact toll cascade now governs: midnight First Toll; Echoing Loss from three-person missing-child concentration or a marked hearer remaining through one full interval; Mourning Blade only after physical provocation; district Chorus only after a direct strike or extraction/separation violation; and Unanswered Vigil only on Gauge Overflow ≥65% during an active toll. Exact Shroud and Lament's Edge forms, storage limits and costs were restored. HELD with no fresh credit because the complete δ set, Named Vigil rules, statistics and Field Use Record pre-existed.",
+      "commentary": "This file knows the difference between keeping a name and claiming it. Ninety-six names match the municipal register; 322 do not, and the archive writes them down anyway without turning them into identifications.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-001: Side A prints `C-IVδ-001 [LO]`, Object/Place—Object-Lament, IV/δ, City Sorrow, Lament, a three-meter Han-crystal bell fixed in SECTOR-B-01, Comprehension 4 and Lament's Requiem Set; B/C/D carry `MAW-W/S/G-001-01`. Unlike most dossiers, Side A supplies an exact trigger table and toll sequence. Repairs separated its midnight, anniversary, concentration, provocation and overflow outcomes instead of collapsing them into approach/grief/range boilerplate; physical provocation now means strike, unauthorized extraction or removal, while Chorus is district-wide and requires a direct strike or extraction/separation violation. Row 2 retains both exact Side paths as separately checkable alternatives. The Bell/tower cannot be 'moved to safety,' so vessel destruction and dust were removed. Exact C/D restored Listener's Margin (three-name limit), the broken-clapper memory charm and Remembered Strike. All parsed table blocks are equal and all Trigger cells parse fifth.",
+      "history": "Draft/local history: the Bell formed from parents searching the westward-expansion streets for children swallowed by Han; its tower faces are photographed fortnightly (2,347→2,351 in one cited interval), and its 418-name log reconciles to 96 registered matches and 322 unmatched names. Fresh equipment credit BARRED on this HELD result: before repair the primary already contained all three δ pieces with matching damage/resistances/slot/costs, Named Vigil resonance, extraction conditions and Field Use Record. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Weapon identity/category fork: filenames and records split The Lament's Requiem / The First Dawn Stiletto, while B's Item Identity says Resonating Greatsword and its appearance, primary SHORT BLADE category and archetype describe an eight-inch stiletto. Held.",
+        "Weapon-extraction fork: the primary says celestial alloy is cut with crystal taken from the Bell's rim; exact B says a thread of blue light falls from the inner rim and hardens into the blade in an extraction frame. Held.",
+        "Face-meaning fork: Side A says each face corresponds to a child whose disappearance was inadequately recorded, while the primary's four studies found no correlation that survived the next quarter. The revised text records survey facts without causal identification. Held.",
+        "Name-evidence fork: 418 heard names divide into 96 municipal matches and 322 unmatched entries; neither the plates nor the slips identify the unmatched names or faces. Held.",
+        "Viderehan fork: the primary says the watcher sees unknown children in an ordinary afternoon while no session produces true silence; exact Side A says the Bell falls silent long enough for names/faces to be observed. Held."
+      ],
+      "split": [
+        6,
+        23
+      ],
+      "repairs": [
+        {
+          "id": "R01-operational-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — names and faces are displaced by an unattributable loss |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — bell and tower are one anchored entity; separation or striking is a provocation, not a destruction route |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-toll-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed bell and tower; output is measured by toll interval and duration, face count, and the instrument-confirmed acoustic-circle radius |"
+        },
+        {
+          "id": "R05-activation-threshold65",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Activation threshold** | Sorrow Gauge ≥ 90% |",
+          "new": "| **Activation threshold** | Sorrow Gauge ≥ 65% during an active toll (Gauge Overflow) |"
+        },
+        {
+          "id": "R06-first-toll-midnight",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The First Toll* [**Debuff**] } | \"The bell tolls once — and the sound passes through walls, floors, and bones alike.\" | [A single toll propagates through the structure; everyone within hearing feels a loss they cannot name.] | *Target suffers -10 Composure; the toll marks them with grief.* **[10 Lament DMG [Lament]]** | At midnight, the anniversary, or when grief concentrates. |",
+          "new": "| { *The First Toll* [**Debuff**] } | \"The bell tolls once — and the sound passes through walls, floors, and bones alike.\" | [Blue veins brighten inside the rim; one toll propagates through tower stone and nearby streets.] | *The first person who hears it suffers -10 Clarity and is marked with an unnamed loss.* **[10 Lament DMG [Lament]]** | When the local clock reaches midnight inside the tower's audible district. |"
+        },
+        {
+          "id": "R07-echoing-loss-interval",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Echoing Loss* [**Debuff**] } | \"The ringing will not stop — and with it, small pieces of who you were slip away.\" | [The toll sustains into a long resonance; prolonged exposure erodes memory and composure.] | *Target loses 10 Composure; faces and names begin to blur.* **[10 Lament DMG [Lament]]** | When the target remains within the bell's range. |",
+          "new": "| { *The Echoing Loss* [**Debuff**] } | \"The ringing will not stop — and with it, small pieces of who you were slip away.\" | [The toll acquires a relevant name as a tower face appears or turns outward; the marked hearer remains inside the sound for a full interval.] | *Target loses 10 Clarity; faces and names begin to blur, and any name heard is written unaltered to the name log.* **[10 Lament DMG [Lament]]** | When a person marked by the First Toll remains inside the audible boundary through one full toll interval. |"
+        },
+        {
+          "id": "R08-mourning-blade-provocation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Mourning Blade* [**Attack**] } | \"The bell's grief sharpens into a single cutting note aimed at the heart.\" | [The toll condenses into a focused wave of lament that cuts through the target before fading.] | *Inflicts Lament pressure and one wound of sorrow.* **[14-22 Lament DMG [Lament]]** | When the bell is provoked or a marked target is in range. |",
+          "new": "| { *The Mourning Blade* [**Attack**] } | \"The bell's grief sharpens into a single cutting note aimed at the heart.\" | [Tower windows darken and the hanging frame vibrates without wind; the cutting note finds a marked hearer. Simple grief does not arm this row.] | *Inflicts Lament pressure and one wound of sorrow.* **[14-22 Lament DMG [Lament]]** | When the bell body is struck, an unauthorized extraction is attempted, or a removal/separation effort is directed at the bell. |"
+        },
+        {
+          "id": "R09-chorus-direct-violation",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Chorus of the Missing* [**Attack**] } | \"Every child the bell mourns speaks at once — a chorus that breaks the steady heart.\" | [The bell gathers the grief of every missing child into one overwhelming peal.] | *A crushing Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the bell is struck or grief overflows. |",
+          "new": "| { *The Chorus of the Missing* [**Attack**] } | \"Every child the bell mourns speaks at once — a chorus that breaks the steady heart.\" | [The bell gathers the grief of every missing child into one overwhelming peal through tower and streets.] | *Crushing Lament pressure; no personnel Sorrow Gauge is inferred. Every new face position and name heard is recorded before any further intervention.* **[24-36 Lament DMG [Lament]]** | After a direct strike on the bell or an extraction/separation violation. |"
+        },
+        {
+          "id": "R10-unanswered-vigil-overflow",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Unanswered Vigil* [**Ultimate**] } | \"The bell rings and rings for children who will never come home — and the whole tower weeps with it.\" | [The bell tolls without cease, flooding the area with unrelenting lament.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Unanswered Vigil* [**Ultimate**] } | \"The bell rings and rings for children who will never come home — and the whole tower weeps with it.\" | [Every face in the tower opens its mouth at once; the vigil expands beyond the tower through the district.] | *All personnel and civilians in the affected district suffer Lament pressure for three turns; this is not ordinary midnight operation.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥65% during an active toll. |"
+        },
+        {
+          "id": "R11-battle-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The toll finishes or the pair is withdrawn. The documented condition is **the bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair** — nothing here is suppression, and the record does not call it that.",
+          "new": "3. **Resolution:** The watch resolves only when the toll has finished, the assigned pair has stood it through, the timekeeper outside the circle closes the interval record, and every new face and heard name has been entered. **The bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair**; emergency withdrawal preserves personnel but does not count as resolution, and nothing here is suppression."
+        },
+        {
+          "id": "R12-behavior-invalid-work",
+          "kind": "careful work-response correction",
+          "careful": true,
+          "old": "| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |\n| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |",
+          "new": "| **Flerehan** (Tears) | N/A as direct work — mourning nearby may soften a toll contextually but does not change the Object/Place rule. | N/A / contextual |\n| **Pugnahan** (Confrontation) | Prohibited, not a valid Work Type — an attempted confrontation is read as trying to silence the missing and intensifies the tolling. | Increase |"
+        },
+        {
+          "id": "R13-face-causation-appearance",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "- New faces appear when additional children are lost in the city.",
+          "new": "- New faces appear in the fortnightly survey; whether their surfacing correlates with particular losses in the city remains unresolved after four studies."
+        },
+        {
+          "id": "R14-face-causation-detailed",
+          "kind": "careful appearance correction",
+          "careful": true,
+          "old": "| **Distinctive markers** | The tower is covered in faces that emerge rather than being carved. Each toll produces emotional weight and a profound sense of loss. New faces appear when additional children are lost in the city. |",
+          "new": "| **Distinctive markers** | The tower is covered in faces that emerge rather than being carved. Each toll produces emotional weight and a profound sense of loss. New faces are recorded by survey position; no causal correlation with particular city losses has survived testing. |"
+        },
+        {
+          "id": "R15-log-method-grammar",
+          "kind": "careful log correction",
+          "careful": true,
+          "old": "| 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers. | The sounding carries to Range Band 2; every allied unit inside that ring takes heightened elemental defense for as long as the recitation stays unbroken. |",
+          "new": "| 30 Seconds | The conduit widens, revealing the memory of parents searching for children who would never return, formed as Zone B expanded over streets and homes, swallowing children into the Han and leaving families without answers. | The sounding carries to Range Band 2; every allied unit inside that ring takes heightened elemental defense for as long as the recitation stays unbroken. |"
+        },
+        {
+          "id": "R16-shroud-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a wrapping shroud woven in the tower’s own Lament Han-silk — cool, faintly luminous, and holding the scent of the bell’s room in the weave however long it sits in stores.",
+          "new": "**Appearance:** a deep-blue shroud of loosely woven Lament Han-silk that wraps the shoulders and throat without measurable pressure. Its lining stays cold and smooth while the outer hem catches pale light; unrecorded names appear there as tiny raised warm marks, darker near the seam."
+        },
+        {
+          "id": "R17-shroud-ability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Grants resistance to Lament damage, shielding the Mind — emotional stability, willpower — and it is cut for the toll's particular pressure: the wearer holds composure while the bell is saying names back at them.",
+          "new": "**Ability:** *Listener's Margin* grants resistance to Lament damage by storing one named memory in the Shroud's hem rather than letting it overwrite the wearer's short-term recall. It can hold three unrecorded names; at a fourth, all stored names speak at once inside the wearer's thoughts."
+        },
+        {
+          "id": "R18-edge-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a small charm of Lament Han-crystal, cool and faintly luminous, that turns cold in the hand whenever its source sorrow is sounding.",
+          "new": "**Appearance:** a thin blue Lament Han-crystal charm shaped like a broken bell clapper, narrow enough to hang from a collar loop. It stays cold against the chest, then warms, grows heavier and tilts toward a nearby person who says a name they have avoided; hairline cracks move slowly along its edge as it ages."
+        },
+        {
+          "id": "R19-edge-ability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Strikes induce profound loss, disorienting and slowing targets. Critical strikes can temporarily make a target forget how to fight.",
+          "new": "**Ability:** When a nearby person suppresses a grief-linked memory, the charm grows heavy and points toward their chest, revealing the act of hiding without revealing the memory. Once per day, *Remembered Strike* lets the bearer name a recorded missing person before striking a marked target, disorienting them and reducing combat response for one turn."
+        },
+        {
+          "id": "R20-edge-cost",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Cost:** The wielder hears the bell constantly. Prolonged use produces memory gaps.",
+          "new": "**Cost:** The bearer hears the Bell's midnight toll whenever they leave a child's question unanswered, strongest around abandoned records, unregistered districts and sealed Archive pages."
+        },
+        {
+          "id": "R21-use-notes-limits",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The set's resonance is a vigil rather than a loadout: one bearer carrying all three pieces inside the tower, speaking a documented lost name, stabilises Lament damage and toll resistance for a single vigil cycle, and the Bell records that name without adding a new face that night. The bearer pays for it by dreaming the final search of the named parent and waking with the route memorised; run the vigil again and the route is kept at the cost of the bearer's own childhood, which blurs into the tower's. Nothing the set does separates the bell from its tower, and a plan that proposes moving one without the other is read as full provocation. When the piece goes back to the tower the inward redirection ends and the record closes; the memory cost stays where it was paid.",
+          "new": "The set's resonance is a vigil rather than a loadout: one bearer carrying all three pieces inside the tower, speaking a documented lost name, stabilises Lament damage and toll resistance for a single vigil cycle, and the Bell records that name without adding a new face that night. The bearer pays for it by dreaming the final search of the named parent and waking with the route memorised; run the vigil again and the route is kept at the cost of the bearer's own childhood, which blurs into the tower's. Three names stored in the Shroud are a hard withdrawal threshold with no Archive exception. Nothing in the set can identify a living child's location—the Bell remembers loss, not rescue—and nothing separates bell from tower; a plan to move one without the other is full provocation. When the piece goes back to the tower the inward redirection ends and the record closes; the memory cost stays where it was paid."
+        },
+        {
+          "id": "R22-story-entry2-faces",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 2 — <Excerpt from Field Log, Year 4209>**\nThe tower contained 2,347 faces at one survey; the next survey recorded four additional faces.",
+          "new": "**Entry 2 — <Excerpt from Field Log, Year 4209>**\nThe face survey is photographed from brass-pin positions in the tower floor and compared frame against frame every fortnight. One survey counted 2,347 faces; the next recorded 2,351. The plates establish that four faces surfaced or became legible in the interval, not whom they depict."
+        },
+        {
+          "id": "R23-story-entry3-counselling-names",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Excerpt from Counseling Log, Year 4214>**\nThe grief of parents searching for children who would never return.",
+          "new": "**Entry 3 — <Excerpt from Counseling Log, Year 4214>**\nWorkers past roughly three hours in the tower may hear names. The name is written exactly as heard on a slip, the hearer leaves the floor, and counselling is offered without asking the slip to become an identification: of 418 names eventually logged, 96 matched the municipal register and 322 matched nothing."
+        },
+        {
+          "id": "R24-story-entry4-containment",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 4 — <Containment Notice>**\nThe bell has never escalated containment and behaves as if containment is irrelevant.",
+          "new": "**Entry 4 — <Containment Notice>**\nKeep bell and tower anchored together; never strike, move or separate them. Record every new face before any other intervention. Viderehan observes names and faces between tolls, Ferrehan stands the toll in assigned pairs, and Pugnahan is prohibited because an attempt to silence the missing raises the Gauge."
+        },
+        {
+          "id": "R25-flavor-continued-exposure",
+          "kind": "careful flavor correction",
+          "careful": true,
+          "old": "**With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Lament is teaching you its sorrow.",
+          "new": "**With continued exposure:** The interval becomes the clock. Between soundings you check your partner's posture, watch the blue veining and try not to decide whether the name forming under the sound belongs to anybody; if it arrives, it goes on the slip exactly as heard."
+        },
+        {
+          "id": "R26-kind-healer-interaction",
+          "kind": "careful interaction correction",
+          "careful": true,
+          "old": "| **The Kind Healer** | The Healer cannot heal the Bell; its sorrow is too deep. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |",
+          "new": "| **The Kind Healer** | The Healer cannot heal the Bell; its sorrow is too deep. | No change in toll interval has been shown. Any comfort given to hearers is recorded separately and is not entered as a reduction in the Bell's pressure. | Record distance, duration, trigger, gauges on both sides, interval before and after, and the next fortnightly face count. |"
+        },
+        {
+          "id": "R27-echoing-loss-two-exact-paths",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Echoing Loss* [**Debuff**] } | \"The ringing will not stop — and with it, small pieces of who you were slip away.\" | [The toll acquires a relevant name as a tower face appears or turns outward; the marked hearer remains inside the sound for a full interval.] | *Target loses 10 Clarity; faces and names begin to blur, and any name heard is written unaltered to the name log.* **[10 Lament DMG [Lament]]** | When a person marked by the First Toll remains inside the audible boundary through one full toll interval. |",
+          "new": "| { *The Echoing Loss* [**Debuff**] } | \"The ringing will not stop — and with it, small pieces of who you were slip away.\" | [The toll acquires a relevant name as a tower face appears or turns outward, or sustains around a marked hearer who does not leave the sound.] | *Target loses 10 Clarity; faces and names begin to blur, and any name heard is written unaltered to the name log.* **[10 Lament DMG [Lament]]** | When either (a) at least three people inside the tower boundary speak of, search for, or grieve a lost child, or (b) a person marked by the First Toll remains inside the audible boundary through one full toll interval. |"
+        },
+        {
+          "id": "R28-chorus-scope",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Chorus of the Missing* [**Attack**] } | \"Every child the bell mourns speaks at once — a chorus that breaks the steady heart.\" | [The bell gathers the grief of every missing child into one overwhelming peal through tower and streets.] | *Crushing Lament pressure; no personnel Sorrow Gauge is inferred. Every new face position and name heard is recorded before any further intervention.* **[24-36 Lament DMG [Lament]]** | After a direct strike on the bell or an extraction/separation violation. |",
+          "new": "| { *The Chorus of the Missing* [**Attack**] } | \"Every child the bell mourns speaks at once — a chorus that breaks the steady heart.\" | [The bell gathers the grief of every missing child into one overwhelming peal through tower and streets.] | *Crushing Lament pressure to all hearers in the tower district; no personnel Sorrow Gauge is inferred. Every new face position and name heard is recorded before any further intervention.* **[24-36 Lament DMG [Lament]]** | After a direct strike on the bell or an extraction/separation violation. |"
+        },
+        {
+          "id": "R29-field-use-grammar",
+          "kind": "short syntax correction",
+          "careful": false,
+          "old": "and on a The Orphaned Bell piece the use ends at that point",
+          "new": "and on an Orphaned Bell piece the use ends at that point"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.027  clean   183 grams  Trivia\n 0.026  clean   114 grams  Operational Parameters\n 0.016  clean   257 grams  기록 (Registrum)\n 0.008  clean   663 grams  Combat Record\n 0.005  clean   550 grams  Activation Behavior\n 0.002  clean  1067 grams  M.A.W. Equipment\n 0.000  clean  1372 grams  Apex Record\n 0.000  clean   615 grams  감각 묘사 (Flavor Text)\n 0.000  clean   437 grams  이야기 (Narratio)\n 0.000  clean   254 grams  관찰 기록 (Observation Log)\n 0.000  clean   232 grams  Appearance\n 0.000  clean   206 grams  이야기 보고 (Story Log)\n 0.000  clean   182 grams  Behavior\n 0.000  clean   118 grams  최종 관찰 (Final Observation)\n 0.000  clean   101 grams  Origin\n 0.000  clean    80 grams  SECC Classification\n 0.000  clean    56 grams  증언 (Testimonium)\n 0.000  THIN      6 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   3  | **Han-Energy yield** | 20–28 per successful work cycle, taken off the tower's own sounding and never from the bell itself |\n   56   1  | **Resistance** | 45% against Lament pressure; 35% against other pressure types |\n   86   4  | { *The Unanswered Vigil* [**Ultimate**] } | \"The bell rings and rings for children who will never come home — and the whole towe\n  164   1  > **This Relic is Capable of Sector / Facility Alteration**\n  223   2  **Activation reporting order (channelled use):** channel opened → names recited and in what order → elapsed time at each ten secon\n  282   2  **Effect:** +3 stat bonus while working the source holding, entered at issue against the wielder's name\n  436   3  **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)\n  443   1  **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the interval series\n  506   5  - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-B-01 — special tower in Zone B; containe\nGENERIC 0.003  (22 shared shingles)  SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_Laments_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-C__MAW-S_The_Laments_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-D__MAW-G_Laments_Edge.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md": "4126d31f814961620fad13b82dbd51165f69e5df34744585ac5b526b4a221cc1",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_Laments_Requiem.md": "f9f11796332348be875f008c0aa140b3f0f23fe0a8032934c8cd5d310405ee5f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-C__MAW-S_The_Laments_Shroud.md": "ee544911684202b7d14d556bad4dc241acfd9b93c82954967314248b10842cd3",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-D__MAW-G_Laments_Edge.md": "399d2fd539654ca5e1e687c09b6f7b06e39b00d739568559c6faa18ef4bcfd17"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-C-IVδ-001_The_Orphaned_Bell_고아의_종](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-001_The_Orphaned_Bell_%EA%B3%A0%EC%95%84%EC%9D%98_%EC%A2%85.md \"SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md\")]",
+      "table_link": "[[C-IVδ-001 The Orphaned Bell](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-IV%CE%B4-001_The_Orphaned_Bell_%EA%B3%A0%EC%95%84%EC%9D%98_%EC%A2%85.md \"SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md\")]",
+      "reading": {
+        "before_lines": 515,
+        "before_bytes": 53524,
+        "final_lines": 515,
+        "final_bytes": 56481
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 15,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": true,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported Han Dust range `1–10 tons`, Row 4's personnel `15%` Sorrow Gauge rise, and the Core threshold `90%` were removed/replaced. The governing threshold is Side A's Gauge Overflow ≥65% during an active toll."
+      }
+    },
+    {
+      "unit": 4,
+      "designation": "N-IIβ-152",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md",
+      "words": 8708,
+      "sha256": "15fd270b57154cafc8cf92cf0e46f854e5fa142c36ae0148f05f5a9e5a873cf7",
+      "name": "Doorway to Nowhere",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_04_DOORWAY_TO_NOWHERE.md",
+      "before_words": 8708,
+      "after_words": 8908,
+      "base": "ec16360b4bff5a0ec7dda3b98a37c5a03eb5e66d",
+      "final_sha256": "0214d18f1e41a6f87f40dcd0255d614b38dd82d48851298f71f3e39dd5d30fcb",
+      "summary": "Fifteen repairs (2 short / 13 careful). The Door no longer appears inside a wall, is opened by personnel, multiplies across every surface, or triggers its Ultimate at the wrong Gauge. Its actions now use the walking frame resolving before a worker, a false step toward a self-shown remembered room, a forced handle, a second forcing by the same person, and Gauge ≥60%. Exact Shroud/Key appearances and Door With Return partner/anchor/closure rules were restored, an explicit Management row was added, and the Tale now centers the missing return clause. HELD with no fresh equipment credit because the full β set and a dated 2026-10-11 full-set source review pre-existed.",
+      "commentary": "The evacuation worked. That is the hard part. Eleven thousand people got out under an excellent fourteen-page order—and the order ended at the assembly points, with nobody named to tell them whether they could ever go home.",
+      "reasoning": "R-34 audit before editing. Identity is direct SE-152: Side A prints `N-IIβ-152 [LS]`, Subject, II/β, Lament, Zone A Alpha Tree, a burning wall-less charred frame whose handle opens onto different memories, starting Gauge 35–50% and set Carried Threshold; B/C/D carry `MAW-W/S/G-152-01`. The primary's dominant local instrument is the reference-lamp glow (3.1 m baseline, 0–57 m range) read against departure orders, while Side A supplies the crucial safety grammar: a memory is not a promised destination, Ferrehan keeps a physical return partner outside the image, and corruption begins when a worker enters an opening as if it must restore the past or attacks the Door for failing to do so. Repairs rebuilt Rows 1, 2, 4 and 5 from those facts and retained the already-correct forced-handle Slam. Exact C/D supplied the charred-seam Shroud, Current Side/Close the Frame, toothless doorframe-bow Key, Remembered Handle and Open Briefly. All parsed table blocks are equal and all Trigger cells parse fifth.",
+      "history": "Draft/local history: the Year 4211 border evacuation moved 11,000 people in forty minutes with nine deaths, but its fourteen-page order named no return condition, certifying officer or date; 2,640 households never returned and 870 were recorded holding doors. The primary's Rule of the Return Clause and lamp series are local history not mechanically overwritten by Side A's gentler memory-home framing. Fresh equipment credit BARRED on this HELD result: before repair it already contained all three β pieces, matching Side damage/resistances/slot/costs, Use Notes, Field Use Record and the dated 2026-10-11 full-set source review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Classification fork: primary Inner Sorrow / Subject-Lament versus Side A Outside Sorrow / Subject-Grudge for the same `[LS]` Lament designation. The primary explicitly treats Subject-Grudge as corrected drift, so neither label is normalized here. Held.",
+        "Weapon fork: primary, Side heading and Appearance support the spherical brass Wayfarer's Censer, while B's Official Name and Resting/Active forms retain The Wandering Requiem as a slender blue blade with a threshold line; archetype Medium also conflicts with Range 2 (Short). Held.",
+        "Mechanism fork: the primary's glow tracks clauseless departure orders over twenty-seven years and absolutely forbids sending personnel through the entity; Side A frames openings as remembered-home passages under a return-partner protocol. Safe return rules were restored, but the mechanisms were not merged. Held.",
+        "Permanent-refusal count fork: Behavior says two people were permanently refused after second forcing attempts, while the pre-repair Combat row said four. The disputed count was removed from the Trigger cell and no figure was selected. Held.",
+        "Metadata fork: Side A gives Lament pressure 8–20, Comprehension 2—Studied and no maximum Gauge; primary gives 7–17, 457/457 and 2—Basic. Held.",
+        "No opening has established whether a memory behind the frame belongs to a living person, and no destination has recurred in twenty-seven years. Held."
+      ],
+      "split": [
+        2,
+        13
+      ],
+      "repairs": [
+        {
+          "id": "R01-entity-breach-model-only",
+          "kind": "short classification correction",
+          "careful": false,
+          "old": "| **Entity Type** | **Subject** — Can breach |",
+          "new": "| **Entity Type** | **Subject** — Breach-capable in the reconstruction model only; no breach observed in twenty-seven years |"
+        },
+        {
+          "id": "R02-operational-pressure-clarity",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Mental / emotional pressure |",
+          "new": "| **Primary pressure** | Clarity — certainty about which remembered address is the worker's current home |"
+        },
+        {
+          "id": "R03-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types |",
+          "new": "| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Step out of its path and let it walk; never seal a zone around it or force the handle. A return partner keeps the current place named from outside any shown room |"
+        },
+        {
+          "id": "R04-knock-resolves-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Knock* [**Debuff**] } | \"A door appears in a wall that had no door — and then it knocks.\" | [The Door manifests; the knock is a question the target must answer.] | *Target suffers -10 Composure; the door wants to be opened.* **[10 Lament DMG [Lament]]** | When the Door appears. |",
+          "new": "| { *The Knock* [**Debuff**] } | \"A door appears in a wall that had no door — and then it knocks.\" | [The wall-less frame comes down the corridor at its constant walk and resolves in front of the worker; the knock is felt as an arrival, not an instruction to turn the handle.] | *Target suffers -10 Clarity; for a time they cannot say with confidence which home is their current one.* **[10 Lament DMG [Lament]]** | When the walking frame stops or resolves in front of the target in the corridor. |"
+        },
+        {
+          "id": "R05-wrong-room-false-return-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Wrong Room* [**Debuff**] } | \"You open it — and the room behind it is one you left years ago, and never wanted to see again.\" | [The Door opens onto old grief; the target is pulled toward the threshold.] | *Target loses 10 Composure; the room behind the door calls.* **[10 Lament DMG [Lament]]** | When the target opens the Door. |",
+          "new": "| { *The Wrong Room* [**Debuff**] } | \"You open it — and the room behind it is one you left years ago, and never wanted to see again.\" | [The frame itself shows or stands open on a remembered room more clearly than the corridor; no personnel hand has turned the handle.] | *Target loses 10 Clarity; the return partner names the present location while physical contact is maintained.* **[10 Lament DMG [Lament]]** | When the target steps or reaches toward a shown room as though it must restore the past or serve as the way home. |"
+        },
+        {
+          "id": "R06-locked-out-second-forcing",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Locked Out* [**Attack**] } | \"You are on the side you did not choose and there is no clause in anything you were given that says how you get back to the other one.\" | [The frame seals and will not reopen for that worker again.] | *A heavy Lament exile; the target's Sorrow Gauge rises 15%.* **[24-36 Lament DMG [Lament]]** | After a second forcing by the same person. Four people have been permanently refused. |",
+          "new": "| { *The Locked Out* [**Attack**] } | \"You are on the side you did not choose and there is no clause in anything you were given that says how you get back to the other one.\" | [The frame seals, blisters the forcing hand, and will not reopen for that worker again.] | *Heavy Lament exile; no personnel Sorrow Gauge is inferred. The worker is permanently refused by the frame.* **[24-36 Lament DMG [Lament]]** | When the same person forces the handle a second time. |"
+        },
+        {
+          "id": "R07-thousand-doors-threshold60",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *A Thousand Doors* [**Ultimate**] } | \"Doors appear in every wall — and behind every one, a grief you have to face.\" | [The Door multiplies across every surface, all of them knocking.] | *All in range suffer Lament pressure for three turns among the open doors.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *A Thousand Doors* [**Ultimate**] } | \"Doors appear in every wall — and behind every one, a grief you have to face.\" | [Impossible spaces open through the local environment; a remembered room shows more clearly than the current corridor.] | *All personnel in the affected corridors suffer Lament pressure for three turns while return partners maintain contact, name the present location, and close the interaction without burning or forcing the frame.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥60%. |"
+        },
+        {
+          "id": "R08-battle-resolution",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Close the door consciously; do not force passage**.",
+          "new": "3. **Resolution:** The watch resolves only when the door has been left unopened and allowed to close on its own, no passage has been forced, the lamp has been read, every handle approach is logged, and the Gauge is below 25%. **Close the door consciously; do not force passage** is the management condition, not a suppression result."
+        },
+        {
+          "id": "R09-shroud-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a wrapping shroud of Lament Han-silk, cool and faintly luminous, that carries a faint scent of its origin.",
+          "new": "**Appearance:** a deep-blue shroud of fine Lament Han cloth with a thin charred seam like a doorframe around the shoulders. It drapes from collar to waist, leaves the hands free, stays cool on the current side, and closes with one clasp the return partner can release."
+        },
+        {
+          "id": "R10-shroud-ability",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** Wards Lament pressure on the Mind, and holds the wearer's sense of where they live. It is issued for the watch and kept on to the vehicle, which the lamp readers insisted on after two workers removed it in the corridor and gave their home addresses wrong.",
+          "new": "**Ability:** *Current Side* wards Lament pressure on the Mind by keeping the wearer's body and address distinguishable from a shown room. In *Close the Frame*, the return partner names the physical landmark and the bearer answers from the current room, closing one threshold-memory surge without deleting the home memory. It is kept on to the vehicle after two workers removed it in the corridor and gave their home addresses wrong."
+        },
+        {
+          "id": "R11-key-appearance",
+          "kind": "careful appearance restoration",
+          "careful": true,
+          "old": "**Appearance:** a key-charm of Lament Han-crystal, cool and faintly luminous, warm to the touch.",
+          "new": "**Appearance:** a small deep-blue key-charm of Lament Han metal with no teeth, a smooth shaft and a bow shaped like a doorframe. It is cool at rest and warms only when a remembered doorway is near; in use it outlines a narrow temporary threshold."
+        },
+        {
+          "id": "R12-key-ability-anchor-plan",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "**Ability:** The key opens a passage to a place the bearer remembers, for as long as they can hold it. It has been used four times in twenty-seven years and all four uses are documented in full, including the one that was not authorised.",
+          "new": "**Ability:** *Remembered Handle* identifies a nearby remembered threshold without proving that the place survives or can be reached. *Open Briefly* creates one temporary passage for orientation, farewell or limited recovery only after a return partner confirms the current anchor and closure cue; it cannot retrieve people from the past, create a permanent route or override a closed physical boundary. It has been used four times in twenty-seven years, including one unauthorised use, and all four are documented in full."
+        },
+        {
+          "id": "R13-use-notes-door-with-return",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The set is built around thresholds and refuses to cross them: a censer whose smoke will not go through a doorway, a shroud that holds a wearer's address in place, a key that opens a way back and charges the bearer the place itself. The armoury's note records that none of it was designed, that it was found piece by piece over twenty-seven years, and that the fourth piece attempted here — a lintel intended to hold the frame open indefinitely so that a destination could be surveyed from outside — worked exactly as specified and was dismantled before it was ever carried into the corridor.",
+          "new": "The set is built around thresholds and refuses to cross them: a censer whose smoke will not go through a doorway, a shroud that holds a wearer's address in place, a key that opens a way back and charges the bearer the place itself. The armoury's note records that none of it was designed, that it was found piece by piece over twenty-seven years, and that the fourth piece attempted here — a lintel intended to hold the frame open indefinitely so that a destination could be surveyed from outside — worked exactly as specified and was dismantled before it was ever carried into the corridor. As *Door With Return*, no remembered threshold is opened until a physical return partner, current-location anchor and specific closure cue exist; the passage is for orientation, recovery or exit, never Gate authority, permanent transport or a claim that the remembered home has been restored."
+        },
+        {
+          "id": "R14-tale-return-clause",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "The border evacuation was sudden — a surge, a Han-advance, the order to flee issued faster than the citizens could process. The families ran. They left their homes — the tenements, the dwellings, the rooms where their lives had been organized. And the doors — the thresholds, the frames, the physical boundaries between inside and outside, between home and not-home — were torn from the walls, or left standing in empty frames, or carried by the fleeing families as the last piece of the home they were abandoning.\n\nThe doors became symbols. Each door a family carried — or each door left standing in a demolished frame — was a threshold: the boundary between the home that was and the homelessness that followed. The door was the last piece of the inside, carried into the outside, the remnant of the boundary that had, in the home, separated the private from the public, the safe from the unsafe, the belonging from the not-belonging.\n\nThe doors wander. Doorway to Nowhere is Subject-Lament, Lament-element: the figure of a threshold carried after the place it thresholded is gone — the door that leads to a home that no longer exists, held by families who left not knowing whether they could return, preserved as a moving boundary between a past that is destroyed and a future that is uncertain. The Door does not open onto anything. It opens onto absence. But it is carried, faithfully, by the families who took it, because the door, even without the home, is the last proof that the home was there.\n\nThose who come near the Doorway to Nowhere feel the grief of the carried threshold — the specific sorrow of holding a door that opens onto nothing, of carrying the boundary of a home that is gone, of leaving through a door and not knowing, as you leave, whether the door will ever again open onto the room it was made for.\n\nSome sorrows mourn a home. Doorway to Nowhere mourns the leaving — the door torn from its frame, carried by the fleeing, the threshold to a place that may not survive the family's absence, preserved as a wandering boundary between the home that was and the home that, if the family is fortunate and the city is kind, might someday be again.",
+          "new": "The border evacuation of Year 4211 was not a failure of rescue. Eleven thousand people were moved in forty minutes under a fourteen-page order with routes, assembly points and livestock provisions; nine died. What the order did not contain was a return condition, a certifying officer or a date. It ended at the assembly points. Two thousand six hundred and forty households never went back, and eight hundred and seventy were still recorded as holding a door.\n\nThe entity that formed in the Alpha Tree corridors the following year is one wall-less frame of charred wood and live fire, walking at a constant pace for twenty-seven years. Personnel do not turn its handle and nobody has been sent through it. Its light is read against a reference lamp, and the metres do not track empty houses as such: they track homes emptied by orders that named no way back.\n\nDoorway to Nowhere therefore mourns neither the surge nor the leaving that saved them. It preserves the silence after the assembly points—the proof a home existed, carried forward without any promise that its threshold will open onto that home again."
+        },
+        {
+          "id": "R15-management-row",
+          "kind": "careful management correction",
+          "careful": true,
+          "old": "| **Escalation** | Composure drain +5 per turn while a worker stands in its path. It stops when they step aside, and the doctrine is accordingly to let it walk. |",
+          "new": "| **Management** | Close the door consciously; do not force passage. Step aside and let the frame walk, keep both hands off the handle, name the current place with a return partner, and read the glow against the reference lamp. |\n| **Escalation** | Composure drain +5 per turn while a worker stands in its path. It stops when they step aside, and the doctrine is accordingly to let it walk. |"
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.024  clean   534 grams  기록 (Registrum)\n 0.010  clean   706 grams  Combat Record\n 0.010  clean   620 grams  감각 묘사 (Flavor Text)\n 0.003  clean   343 grams  관찰 기록 (Observation Log)\n 0.002  clean  1049 grams  이야기 보고 (Story Log)\n 0.001  clean   916 grams  M.A.W. Equipment\n 0.000  clean   479 grams  Watch Record\n 0.000  clean   309 grams  Trivia\n 0.000  clean   290 grams  Breach Behavior\n 0.000  clean   246 grams  Appearance\n 0.000  clean   239 grams  Origin\n 0.000  clean   232 grams  Operational Parameters\n 0.000  clean   188 grams  이야기 (Narratio)\n 0.000  clean   143 grams  최종 관찰 (Final Observation)\n 0.000  clean   141 grams  Behavior\n 0.000  clean    61 grams  증언 (Testimonium)\n 0.000  clean    43 grams  SECC Classification\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   55   1  | **Resistance** | 25% against Lament pressure; 15% against other pressure types. Step out of its path and let it walk; never seal\n   85   4  | { *A Thousand Doors* [**Ultimate**] } | \"Doors appear in every wall — and behind every one, a grief you have to face.\" | [Imposs\n   89   2  1. **Tension:** Identification first — Doorway to Nowhere is recognised by the lamp reading, not by the fire. The frame burns at t\n  225   1  **Effect:** +1 when working this entity, and the bearer may not be the person who reads the lamp. The holding separated the roles \n  269   1  | **Post-contact review** | Three lamp readings with their times, the route and facings, the handle log including stopped approach\n  280   1  The first return under the Rule of the Return Clause, Year 4238. This facility issued one thousand six hundred and forty-two order\n  299   1  The ground is the lamp. The quarter we cleared nine perimeter streets with no clause, no officer and no date in any of the nine, t\n  326   1  Three records are grouped with this one and two of the three are grouped because they are doors. The holding's position, stated in\n  328   2  **Interaction method:** No proximity trial has been run and none is scheduled; this holding walks and cannot be brought anywhere. \n  333   1  Three records are grouped with this one and two of them are grouped because they are doors, which this file regards as the weakest\n  335   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  337   1  | **The Final Door** | Grouped on being a threshold to somewhere unknown. The distinction this file insists on: that one is about \n  371   3  - Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan raises it, and forced entry is the dominant cause of a\n  376   2  - The Rule of the Return Clause is a containment condition of this entity and binds the emergency directorate and every office of \n  384   5  **Faction Involvement:** SED (A-territory survey) · the emergency directorate, listed on an entity file because the Rule of the Re\n  389   3  **Operational interpretation:** Read this file with the order return beside it. Taken alone it holds a burning door that walks a c\nGENERIC 0.005  (31 shared shingles)  SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-A__SIDE_CODEX_Doorway_to_Nowhere.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wandering_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-C__MAW-S_The_Wandering_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-D__MAW-G_The_Wandering_Key.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-A__SIDE_CODEX_Doorway_to_Nowhere.md": "7aa7ce03ff1b94fe9493f64018013217852989549c4ae43e0f740745d206417e",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wandering_Requiem.md": "2344f186186d92b6564b540572be7756f523a6d27648f7615dd2a8973c61ae35",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-C__MAW-S_The_Wandering_Shroud.md": "9b9ec76e16d7e92d11c748007f3d6432581eb34dfeb2cbbfc3034621028c8734",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-D__MAW-G_The_Wandering_Key.md": "9208fb24993f366c49e7476d3faed6d551f9a80c026836ab5e0640b36b627e97"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-152_Doorway_to_Nowhere_%EB%96%A0%EB%8F%84%EB%8A%94_%EB%AC%B8.md \"SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md\")]",
+      "table_link": "[[N-IIβ-152 Doorway to Nowhere](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-152_Doorway_to_Nowhere_%EB%96%A0%EB%8F%84%EB%8A%94_%EB%AC%B8.md \"SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md\")]",
+      "reading": {
+        "before_lines": 443,
+        "before_bytes": 51358,
+        "final_lines": 440,
+        "final_bytes": 52652
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 15,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": false,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "Row 4's unsupported personnel `15%` Sorrow Gauge rise and disputed refusal count `Four` were removed from Combat. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥60%."
+      }
+    },
+    {
+      "unit": 5,
+      "designation": "O-IVδ-115",
+      "path": "SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-115_Broken_Fragment_부서진_파편.md",
+      "words": 8722,
+      "sha256": "a4b28074677fb088ddb9ff19453e95ab5a956c0d09fc808c94cf8aa39a3bd248",
+      "name": "Broken Fragment",
+      "status": "held",
+      "receipt": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_05_BROKEN_FRAGMENT.md",
+      "before_words": 8722,
+      "after_words": 8921,
+      "base": "8b49793f16a8af426ee898b9c3377db94d3633dc",
+      "final_sha256": "4995e5c48ae5258ca3246e38338d58738a1afc68ef19647353ba56a64ec6fa41",
+      "summary": "Eighteen repairs (6 short / 12 careful). The Fragment is no longer held, lingered at, struck into shrapnel, crushed into a total shatter, or triggered at the wrong Gauge. Its actions now use first touch, cracking/displacement crossing recorded thresholds, applied lifting load, sustained contact after observed immobility or first-person appropriation, and Gauge ≥90%. No vessel-destruction route remains, output is the survey series, and Resolution reports equivalent load rather than invented weight. HELD with no fresh equipment credit because the full δ set/statistics/Field Use Record and dated 2026-10-12 full-set review pre-existed.",
+      "commentary": "The archive's honesty is methodological: it cannot weigh the thing, so it publishes displacement, derivation and circularity instead of manufacturing a plain number. Direction and rate are known; a mass is not.",
+      "reasoning": "R-34 audit before editing. The exact-side identity is formal SE-1011, not the numeral in the designation alone: SE-1011-A/B/C/D each print Source SECC `O-IVδ-115 [WO]`, Object/Place—Object-Weight, IV/δ, Weight, Zone E Border, Gauge 910/910, start 60–80%, pressure 29–64, Observation 2—Basic and the monument/ uprising event; items carry `MAW-W/S/G-1011-01`. The primary's observable system is a survey network: the black-crystal fragment's apparent size never changes while ground displacement, four bowl radii, cracking rate and abandoned rigging mark an increasing equivalent load. Exact Side A gives touch/attempted lift as activation, Viderehan debt history and Ferrehan remaining beneath pressure. Repairs replaced held/linger/struck/crushed/shattering boilerplate with those contact, instrument, rigging-failure and mobility conditions; no fragment now flies or detonates. Exact item records supplied attribution and named-witness shutdown rules. All parsed table blocks are equal and all Trigger cells parse fifth.",
+      "history": "Draft/local history: a border monument to generations of inherited debt was shattered in an uprising, leaving one fragment. Four accounts of that uprising survive and are not adjudicated. The primary holds failed lifting attempts, an unrecoverable rigging asset still registered serviceable, externally verified survey stations, and a no-recovery order for anything entering the bowl. Fresh equipment credit BARRED on this HELD result: before repair the primary already had the complete δ Weapon/Suit/Stigma blocks with Side-aligned numbers, cumulative-cost Use Notes, Field Use Record and dated 2026-10-12 full-set source review. No `equipment_reviews` entry is appended; Types and Weapon remain 286/301 and 284/287.",
+      "holds": [
+        "Entity/set name fork: primary Broken Fragment versus formal SE-1011 Side/set Weight of All Owed. Held.",
+        "Weapon fork: primary and Master-table Shard-Storm Reel (suspended reel with eight glass fragments) versus Side/item B and detailed Master Entry 658 Fragment Maul; archetypes also describe a central-spindle glass reel and silver shuttle-dagger with no bridge. Held.",
+        "Tool-use fork: standing field orders prohibit contact and all lifting attempts, while the I-Relic Log and Method models taking up and holding the Fragment and calls equippable status a registry convention rather than field practice. Combat contact rows are incident models, not authorised handling. Held.",
+        "Origin fork: a Collector record, two settlement accounts and a municipal summary of the monument/uprising do not reconcile, and the revised Tale selects none. Held.",
+        "Measurement limit: the soil model converting settlement to equivalent load was calibrated against this site's own settlement. The series supports increasing direction and rate, not a plain mass or extrapolated endpoint. Held."
+      ],
+      "split": [
+        6,
+        12
+      ],
+      "repairs": [
+        {
+          "id": "R01-operational-pressure-resolve",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Primary pressure** | Han / burden pressure |",
+          "new": "| **Primary pressure** | Resolve — the capacity to keep moving without taking inherited obligation on as one's own |"
+        },
+        {
+          "id": "R02-vessel-no",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Vessel-Destructible** | Yes |",
+          "new": "| **Vessel-Destructible** | No — no force, tackle or Han method has displaced it, and no destruction route is recorded |"
+        },
+        {
+          "id": "R03-Han-dust-none",
+          "kind": "short field correction",
+          "careful": false,
+          "old": "| **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |",
+          "new": "| **Han Dust Drop (Vessel Destruction)** | — |"
+        },
+        {
+          "id": "R04-speed-survey-output",
+          "kind": "short stat correction",
+          "careful": false,
+          "old": "| **Speed** | N/A — fixed object; activation output is measured per turn |",
+          "new": "| **Speed** | N/A — fixed and sinking; output is measured by three-dimensional ground displacement, bowl depth at four marked radii, cracking rate and abandoned-rigging position |"
+        },
+        {
+          "id": "R05-resistance-safeguards",
+          "kind": "careful stat correction",
+          "careful": true,
+          "old": "| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it |",
+          "new": "| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it. Work only from the stable margin: no entry into the bowl, no contact, no lifting attempt, and nothing inside the bowl is stabilised, shored or recovered |"
+        },
+        {
+          "id": "R06-Heavy Edge-contact-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Heavy Edge* [**Debuff**] } | \"The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones.\" | [The Fragment's impossible density presses on the target.] | *Target suffers -10 Resolve; the broken piece weighs more than it should.* **[10 Weight DMG [Weight]]** | When the target holds the Fragment. |",
+          "new": "| { *The Heavy Edge* [**Debuff**] } | \"The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones.\" | [At first hand contact the ground bows and names attached to promises or debts show beneath the crystal; the Fragment itself does not rise.] | *Target suffers -10 Resolve; contact ends and mobility is checked by another worker at one, five and fifteen minutes.* **[10 Weight DMG [Weight]]** | When the target first touches the Fragment. |"
+        },
+        {
+          "id": "R07-Sharp Crack-threshold-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Sharp Crack* [**Debuff**] } | \"The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight.\" | [The Fragment's ongoing breakage releases energy; the target is bombarded.] | *Target loses 10 Resolve; the fragment is getting worse.* **[10 Weight DMG [Weight]]** | When the target lingers. |",
+          "new": "| { *The Sharp Crack* [**Debuff**] } | \"The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight.\" | [Internal cracking crosses the recording threshold while the displacement readings quicken; urgency itself becomes the field sign.] | *Target loses 10 Resolve; they keep reporting that they are fine while their movement slows, so the team—not the worker—calls the limit.* **[10 Weight DMG [Weight]]** | When the crystal's cracking rises above the recording threshold and ground displacement quickens between surveys. |"
+        },
+        {
+          "id": "R08-Shrapnel-lifting-load-trigger",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Shrapnel* [**Attack**] } | \"A piece of the breaking fragment flies free — heavy, jagged, and still cracking.\" | [ A shard of actively-fragmenting material strikes.] | *Inflicts Weight pressure and one wound of ongoing destruction.* **[14-22 Weight DMG [Weight]]** | When the Fragment is struck. |",
+          "new": "| { *The Shrapnel* [**Attack**] } | \"The equipment fails, the rigging fails, or the ground gives — and the fragment is afterward exactly where it was.\" | [No piece flies free. The applied load comes back through failing rigging and moving ground while the crystal remains unmoved.] | *Inflicts Weight pressure and one wound of ongoing destruction to personnel inside the load path; the attempt is abandoned and nothing in the bowl is recovered.* **[14-22 Weight DMG [Weight]]** | When mechanical or Han lifting load is applied to the Fragment. |"
+        },
+        {
+          "id": "R09-Full Shatter-sustained-contact",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Full Shatter* [**Attack**] } | \"The fragment completes its break — every crack reaching critical point — and the detonation is a cascade of heavy shrapnel.\" | [The Fragment's total failure releases all its stored mass-energy.] | *A heavy Black detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Fragment is crushed. |",
+          "new": "| { *The Full Shatter* [**Attack**] } | \"It is getting heavier, measurably, and it has never once got lighter.\" | [No material detonation is observed. The displayed burden settles on the contacting worker until they stop moving and begin carrying it as their own.] | *Heavy Weight pressure and acute immobility without complaint; no personnel Sorrow Gauge is inferred. A named witness ends contact from stable ground and records mobility, not the worker's assurance.* **[24-36 Weight DMG [Weight]]** | When contact continues after a mobility check shows the worker slowing or stopped, or the worker begins describing the monument's burden in the first person. |"
+        },
+        {
+          "id": "R10-Shrapnel Field-threshold90",
+          "kind": "careful combat correction",
+          "careful": true,
+          "old": "| { *The Shrapnel Field* [**Ultimate**] } | \"Every fragment in the field reaches critical breakage — and the combined detonation is an avalanche of heavy shards.\" | [The breakage runs out along the approach road and the border bowl goes with it, and the weight stops being the fragment's and becomes the ground's.] | *All in range suffer Weight pressure for three turns of universal shattering.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |",
+          "new": "| { *The Shrapnel Field* [**Ultimate**] } | \"The fragment stays where it is and the bowl around it becomes something other than ground.\" | [Deformation runs outward along the bowl and approach ground; the load is read in displacement and station drift, not in flying material.] | *All personnel inside the deformation radius suffer Weight pressure for three turns and withdraw to externally verified stable ground; nothing is shored or recovered.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |"
+        },
+        {
+          "id": "R11-use-notes-attribution",
+          "kind": "careful equipment correction",
+          "careful": true,
+          "old": "The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longer they are kept. The listed benefit holds inside the intended pattern and the cost outside it is charged at once, presenting on this set as the sensation of carrying something in both hands when both hands are empty. The cumulative total governs issue; there is no cycle after which a wielder is back where they started. No protocol produces a Stigma — it comes from the source, at the source's disposition, or not at all.",
+          "new": "The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longer they are kept. The listed benefit holds inside the intended pattern and the cost outside it is charged at once, presenting on this set as the sensation of carrying something in both hands when both hands are empty. The cumulative total governs issue; there is no cycle after which a wielder is back where they started. No protocol produces a Stigma — it comes from the source, at the source's disposition, or not at all. Before use the bearer names the monument event as the source's history, not as autobiography. The record keeps bearer, trigger, source response, cost and unresolved detail separate; first-person retelling, repeated source response outside contact, or new obligations taken on without request ends use. Emergency shutdown is witnessed: a named worker states the source title and event while the bearer relinquishes the piece."
+        },
+        {
+          "id": "R12-story-entry2-survey",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 2 — <Excerpt from Border Region Survey Return, Year 4238>**\nThe inscriptions appear only to people who acknowledge inherited debt.",
+          "new": "**Entry 2 — <Excerpt from Border Region Survey Return, Year 4238>**\nSurvey from fixed stations outside the deformation radius: three-dimensional displacement, bowl depth at four radii, cracking rate and the abandoned rigging's position. The stations are re-verified against an external district reference because the network has twice been found sinking with its subject. The return reports an equivalent load and its derivation, never a plain mass; inscriptions are separately reported only by people who acknowledge inherited debt."
+        },
+        {
+          "id": "R13-story-entry3-mobility",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "**Entry 3 — <Counselor's Note on the Lifting Attempts>**\nThe burden of history condensed into one piece too heavy to move.",
+          "new": "**Entry 3 — <Counselor's Note on the Lifting Attempts>**\nThe failure does not present as distress. A worker who has made contact says they are fine and gradually stops moving, so mobility is observed by somebody else at one, five and fifteen minutes. The burden is history condensed into one piece too heavy to move; counselling starts by separating that history from obligations the worker personally incurred."
+        },
+        {
+          "id": "R14-story-entry4-containment",
+          "kind": "careful story correction",
+          "careful": true,
+          "old": "Work response — Viderehan: Reveals the monument's debt history. (Stable); Ferrehan: Tests whether the worker can remain beneath its pressure. (Decrease). It creates grief rather than fear in witnesses.",
+          "new": "Work from the stable margin only. No entry into the bowl, no contact, no lifting attempt by any method, and nothing inside the bowl—including rigging or a person—is stabilised or recovered. Viderehan reveals the monument's debt history (Stable); Ferrehan tests whether the worker can remain beneath its pressure without deciding that something must be done (Decrease)."
+        },
+        {
+          "id": "R15-tale-four-accounts",
+          "kind": "careful narrative correction",
+          "careful": true,
+          "old": "The monument stood at the border — a structure of stone, erected to commemorate the accumulated obligations of generations of border families. The families had owed, and paid, and owed again, the debt compounding across centuries, the monument raised as a testament to the paying — a record, in stone, of everything the border families had given to a city that never reduced what was owed. The monument was heavy with history. The monument was heavy with debt. Each generation added a course of stone, and each course weighed more than the one below it, because each generation had paid more and owed more than the last, and the monument grew upward the way the debt grew: without end, without relief, each layer a receipt for a burden that was never lifted.\n\nThe uprising shattered it. The border families, rising against the system that had burdened them for generations, attacked the monument — the symbol of the debt, the physical embodiment of the obligation that had defined their lives. The stone broke. The monument fell. The fragments scattered. And in the aftermath, one piece remained — a single fragment, too heavy to move, too dense to destroy, holding in its broken surface the entire compressed history of what the border families had owed.\n\nBroken Fragment is Object-Weight: the figure of history condensed into one piece too heavy to move — the monument shattered but not eliminated, the debt recorded in a fragment that carries the full weight of the original structure. The Fragment does not accuse. It weighs — the specific, crushing heaviness of accumulated obligation, compressed by the shattering into a single piece that holds, in its density, everything the monument held in its wholeness.\n\nThose who come near the Broken Fragment feel the weight of compressed history — the specific burden of a monument shattered but not gone, the debt recorded in a fragment too dense to lift, the accumulated obligation of generations preserved in a single broken piece.\n\nSome sorrows mourn a monument. Broken Fragment mourns the debt it commemorated — the obligation compressed into one fragment, too heavy to move, carrying the full weight of everything the border families owed and paid and owed again.",
+          "new": "Four accounts of the monument and uprising survive—a Collector record, two settlement accounts and a municipal summary that fails to reconcile them—and this file adjudicates between none. They agree on the narrow ground the survey can still verify: a border monument commemorating generations of inherited debt was shattered, and one black-crystal fragment remained where it fell.\n\nThat fragment has never been lifted by tackle or Han force. Its apparent size does not change while the ground deforms into a bowl around it, so the archive reports an equivalent load derived from settlement rather than inventing a mass. What the series supports is direction and rate: it is getting heavier, measurably, and has never once got lighter.\n\nBroken Fragment is Object-Weight not because one approved history can be assigned to it, but because every surviving history leaves the same physical remainder—an obligation that outlived the monument, the uprising and everyone who might have settled it."
+        },
+        {
+          "id": "R16-trivia-stray-pipe-field",
+          "kind": "short syntax correction",
+          "careful": false,
+          "old": "- **Field detail:** Weight is its element and the Border region of Zone E is its registered ground — held there where it fell, unliftable by tackle or by Han. |",
+          "new": "- **Field detail:** Weight is its element and the Border region of Zone E is its registered ground — held there where it fell, unliftable by tackle or by Han."
+        },
+        {
+          "id": "R17-trivia-stray-pipe-record",
+          "kind": "short syntax correction",
+          "careful": false,
+          "old": "- **Record detail:** Fragment-form and monument-derived holdings recur in the archive and more than one shares this element, so confirm the designation before booking a cycle: the instructions diverge on the one point that matters here — whether the object may be handled at all, and this one may not. |",
+          "new": "- **Record detail:** Fragment-form and monument-derived holdings recur in the archive and more than one shares this element, so confirm the designation before booking a cycle: the instructions diverge on the one point that matters here — whether the object may be handled at all, and this one may not."
+        },
+        {
+          "id": "R18-resolution-equivalent-load",
+          "kind": "careful phase correction",
+          "careful": true,
+          "old": "3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey return has been filed — which on this holding means the team measured the thing, wrote down what it weighs now, and left it exactly where it was.",
+          "new": "3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey return has been filed — which on this holding means the team measured the displacement, entered the equivalent load with its derivation and circularity attached, and left the Fragment exactly where it was."
+        }
+      ],
+      "outputs": {
+        "verify": {
+          "exit": 0,
+          "stdout": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",
+          "stderr": ""
+        },
+        "tpl": {
+          "exit": 0,
+          "stdout": "RESIDUE 0  SE-O-IVδ-115_Broken_Fragment_부서진_파편.md\n",
+          "stderr": ""
+        },
+        "sectfile": {
+          "exit": 0,
+          "stdout": " 0.042  clean   716 grams  M.A.W. Equipment\n 0.019  clean   160 grams  Trivia\n 0.013  clean   463 grams  기록 (Registrum)\n 0.010  clean   668 grams  감각 묘사 (Flavor Text)\n 0.010  clean   208 grams  Operational Parameters\n 0.006  clean   166 grams  최종 관찰 (Final Observation)\n 0.005  clean   765 grams  Combat Record\n 0.005  clean   609 grams  Activation Behavior\n 0.004  clean   252 grams  관찰 기록 (Observation Log)\n 0.003  clean   312 grams  이야기 보고 (Story Log)\n 0.001  clean  1407 grams  Apex Record\n 0.000  clean   247 grams  Appearance\n 0.000  clean   198 grams  Behavior\n 0.000  clean   161 grams  이야기 (Narratio)\n 0.000  clean   146 grams  Origin\n 0.000  clean    41 grams  SECC Classification\n 0.000  clean    37 grams  증언 (Testimonium)\n 0.000  THIN      9 grams  (preamble)\n0 section(s) over 0.05\n",
+          "stderr": ""
+        },
+        "wikistd": {
+          "exit": 0,
+          "stdout": "parity           []\ncondition        True\nseries           True\ndisposition      True\ndirty_sections   0\nmeets            True\n",
+          "stderr": ""
+        },
+        "sect": {
+          "exit": 0,
+          "stdout": "   32   2  | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |\n   85   4  | { *The Shrapnel Field* [**Ultimate**] } | \"The fragment stays where it is and the bowl around it becomes something other than gr\n  154   1  > **This Relic Extracts Personal Resilience upon Extended Use**\n  204   2  **Activation reporting order:** contact or lift attempt → who made it and under whose authority → the burden displayed and whose i\n  223   1  **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt. The strike carries the source's signature, and\n  253   1  **Effect:** +3 to the working stat while this piece's source entity is the subject of the cycle, and nothing at all elsewhere\n  259   1  *A Stigma out of this source is given and not made. It appears after a successful cycle at the holding's own disposition, and noth\n  263   4  The three pieces are shards of a thing that is itself a shard, and they inherit the defining property: they grow heavier the longe\n  274   1  **Stat interpretation:** The grade describes extraction stability and says nothing about the wielder. A well-graded piece from thi\n  276  22  **Full-set source review (2026-10-12):** Reviewed the I-Relic/δ overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Us\n  298   1  **Observation method:** Observe from the margin, by instrument where possible, and record the first measurable change in the groun\n  313   1  Work from the stable margin only. No entry into the bowl, no contact, no lifting attempt by any method, and nothing inside the bow\n  322   1  > Two ways to close a watch at the bowl, and the file's own annual assessments separate them: one is worked from the margin and le\n  347   2  **Interaction method:** Baseline each entity alone; without the solo displacement series an interaction reading here cannot be dis\n  352   2  This holding is read with the obligation-sorrows as a group and not as a lone stone in the border ground. The rows below are canon\n  354   2  | Related entity | Canonical interaction | Observed operational effect | Required record |\n  360   1  **Interaction procedure:** Baseline both parties alone first; bring the second in along the approach road and never across the bow\n  404   6  **Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standi\n  469   1  The emergency service's objection is on the file and is read at every annual review. A standing refusal to attempt rescue is not a\n  478   3  - Figures for the register's look-up, in digits as the file keeps them: gauge 910/910 · pressure 29–64 per hit · resistance 45 / 3\nGENERIC 0.009  (59 shared shingles)  SE-O-IVδ-115_Broken_Fragment_부서진_파편.md\n",
+          "stderr": ""
+        }
+      },
+      "sources": [
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-A__SIDE_CODEX_Weight_of_All_Owed.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-B__MAW-W_The_Fragment_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-C__MAW-S_The_Fragment_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-D__MAW-G_The_Fragment_Charm.md"
+      ],
+      "source_hashes": {
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-A__SIDE_CODEX_Weight_of_All_Owed.md": "5fa0bd89b940dce3b875976eced28ac6b4ebf5cd663bdaec4911bcd9e84354fa",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-B__MAW-W_The_Fragment_Maul.md": "b079b582d58bb1b107d94a7d46e2122ca7b333287405ba193d87a0c7f2cca61b",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-C__MAW-S_The_Fragment_Plate.md": "a930acc3d0fb06cc32a9f759d7a065e7cf93e632b8a726e45422d1af9f34821c",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1011_Weight_of_All_Owed/SE-1011-D__MAW-G_The_Fragment_Charm.md": "69e00c64dabf4ea6972543ca9e464776bee64049e69640290f481d19b48cbe50"
+      },
+      "whole_before_reread": true,
+      "whole_final_reread": true,
+      "no_change": false,
+      "credits": {
+        "types": 0,
+        "weapon": 0,
+        "se": 0
+      },
+      "link": "[[SE-O-IVδ-115_Broken_Fragment_부서진_파편](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md \"SE-O-IVδ-115_Broken_Fragment_부서진_파편.md\")]",
+      "table_link": "[[O-IVδ-115 Broken Fragment](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/28e0dc28-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-IV%CE%B4-115_Broken_Fragment_%EB%B6%80%EC%84%9C%EC%A7%84_%ED%8C%8C%ED%8E%B8.md \"SE-O-IVδ-115_Broken_Fragment_부서진_파편.md\")]",
+      "reading": {
+        "before_lines": 496,
+        "before_bytes": 53932,
+        "final_lines": 492,
+        "final_bytes": 55377
+      },
+      "integrity": {
+        "unselected_primary_unchanged": 300,
+        "remaining_pending_fingerprints_unchanged": 15,
+        "physical_form_rows_unchanged": 300,
+        "tale_unchanged": false,
+        "digit_sequences_unchanged": false,
+        "source_files_unchanged": 4,
+        "digit_sequence_change": "The unsupported Han Dust range `1–10 tons` and Row 4's personnel `15%` Sorrow Gauge surge were removed. The Ultimate trigger changed from 65% to the Core Stat Line/Operational threshold ≥90%."
+      }
+    }
+  ]
+}

@@ -79,9 +79,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dampening* [**Debuff**] } | "The veil falls over your eyes — soft, wet, and impossible to wipe clear." | [The Veil settles over the target; sight dims behind a film of tears.] | *Target suffers -10 Composure; the world goes blurry.* **[10 Lament DMG [Lament]]** | When the Veil is drawn. |
-| { *The Blurred Sight* [**Debuff**] } | "You cannot tell what is grief and what is real anymore." | [The Veil thickens; the target cannot distinguish sorrow from surrounding.] | *Target loses 10 Composure; they move uncertainly.* **[10 Lament DMG [Lament]]** | When the target wears the Veil. |
-| { *The Wet Weight* [**Attack**] } | "The veil clings and drags — suffocating, sodden with old weeping." | [The Veil wraps tighter, pressing wet sorrow over the target's face.] | *Inflicts Lament pressure and one suffocating wound.* **[14-22 Lament DMG [Lament]]** | When the Veil is provoked. |
+| { *The Dampening* [**Debuff**] } | "Four metres further out, in a corridor where eleven people work, and none of them can tell they are standing in it." | [Nothing falls over anybody's eyes; the veil has not been worn since the frame was built. Colour and sound dull, and people inside the edge report the room as normal when asked.] | *Target suffers -10 Composure; what is lost first is noticing anything has changed.* **[10 Lament DMG [Lament]]** | When the quarterly edge has crept past a worked corridor unnoticed. |
+| { *The Blurred Sight* [**Debuff**] } | "Past forty minutes they stop reporting how the watch is going and start reporting that it is fine." | [Handover notes shorten; sorrow and surrounding flatten into one politeness, and the second warden is watching for the change of word.] | *Target loses 10 Composure; movement is unaffected, which is how nobody is caught by it.* **[10 Lament DMG [Lament]]** | When a watch beside the frame runs past forty minutes. |
+| { *The Wet Weight* [**Attack**] } | "The failure here is composure. A warden who finishes having shown nothing at all has done the thing the veil is made of." | [It weeps more the longer it is handled; load rises at the frame, grief is taken out of view, and the weight arrives as other people's unexpressed losses, not as a blow.] | *Inflicts Lament pressure as composure completing itself; no suffocation, no wound, and nothing on the register of injuries in the file's life.* **[14-22 Lament DMG [Lament]]** | When the veil is handled past the single gloved touch. |
 | { *The Unseen Blow* [**Attack**] } | "Something lands and nobody in the room saw a hand move, including the person it landed on." | [A strike arrives from behind the obscuring veil with no visible origin.] | *Lament damage; in all eleven recorded strikes the target could not say afterwards what had hit them and did not describe the experience as an attack.* **[Lament DMG [Lament]]** | When the veil is worn over the face. |
 | { *The Shroud* [**Ultimate**] } | "It covers the whole room and every face in it, and everybody carries on as though that were normal." | [The veil extends across the chamber and composure becomes universal and false.] | *Lament erosion to everyone present for three cycles; the Gardens' note is that nobody broke protocol during the one recorded occurrence and that this was the problem.* **[Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,232 inspection. |
 
@@ -171,7 +171,7 @@ The table holds steady and the cards do not. What the Gardens tracks is the prop
 | **Activation** | Placement over a face; prohibited absolutely since the frame was built. |
 | **Primary Effect** | Concealment of the wearer, and access to every unexpressed grief inside the dulled volume. |
 | **Duration** | Until somebody else lifts it off; the wearer cannot. |
-| **Termination / Return** | The operative lifts the veil themselves and says one true thing about their own day before it goes back in the frame. The sentence is not recorded, which is the point of it. |
+| **Termination / Return** | Somebody else lifts it off; the wearer cannot, in nine recorded instances without exception. The assigned remover approaches from behind, names the wearer, and waits for a responsive answer before lifting. Afterwards the card is written and filed unread, as at the end of any watch. |
 | **Risk** | Unstoppable weeping, and private knowledge the wearer did not ask for and cannot return. |
 
 **Operational Rule:** The relic is not issued and is not carried. The frame is the containment and its specification is in the file, which is unusual for a fitting and deliberate.
@@ -315,7 +315,7 @@ Pall (C-IIβ-280 [LO]) is logged as an Object-Lament manifestation expressing La
 
 **Entry 2 — <Excerpt from Edge Survey, Year 4238>**
 Dulled volume 310 cubic metres at the quarterly survey, against 240 and 180 in the two preceding years. The edge is found by instrument on a walked grid; personnel crossing it do not report any transition and are not asked to.
-Its tears contain no individual memories unless directly observed.
+Thread by thread, under Viderehan, the weave resolves into individual wearers; the Gardens' list is kept beside the frame, reproduced without annotation, because annotating would mean ranking the griefs.
 
 **Entry 3 — <Excerpt from Welfare Office Correspondence>**
 The office confirms that compassionate absence requires no reason, no evidence and no relationship, that no record is made of why anybody was away, and that it therefore cannot tell this holding how many of its workers are inside the first ninety days after a death. It states that it does not wish to be able to tell.
@@ -352,7 +352,7 @@ Nobody puts it on. It hangs open on its frame, damp in dry air, heavier this wat
 
 **At first contact:** A translucent veil in a loaded frame, damp to the touch in a dry room, with nothing behind it. It does not move in a draught and the damp does not transfer to a glove.
 
-**With continued exposure:** Prolonged exposure turns the containment zone into a landscape. The Lament has topography here — ridges of pressure, valleys of absence, a geography only the Object-Lament could have made.
+**With continued exposure:** The room does not become stranger; it becomes flatter, in colour and in sound and then in the people in it, and inside the edge nobody reports any of that. The Watch measures the change at the frame's load cell and in the length of handover notes, because those are the two instruments that still work where asking does not.
 
 **When the entity activates:** Somebody puts it over their face and the room cannot tell anything about them any more. The wearer usually laughs, once, and then stops showing that either.
 
