@@ -80,7 +80,7 @@ It is filed **outside `SOMNARAK-WORLD/`** — the world bible carries Somnarak c
 | 6 | **Mellda (멜다)** — The Border Lead | [`../THE_BORDER_LEAD.md`](../THE_BORDER_LEAD.md) | [`06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md`](06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 7 | **Marjuk (마주크)** — The Archive Lead | [`../THE_ARCHIVE_LEAD.md`](../THE_ARCHIVE_LEAD.md) | [`07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md`](07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 8 | **Ishall (이샬)** — The Outsider | [`../THE_OUTSIDER.md`](../THE_OUTSIDER.md) | [`08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md`](08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 9 | **Xyan (시안)** — The Exile | [`../THE_EXILE.md`](../THE_EXILE.md) | `09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
+| 9 | **Xyan (시안)** — The Exile | [`../THE_EXILE.md`](../THE_EXILE.md) | [`09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md`](09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md) | ✅ Written — validated and gated; the nine are closed |
 
 ---
 

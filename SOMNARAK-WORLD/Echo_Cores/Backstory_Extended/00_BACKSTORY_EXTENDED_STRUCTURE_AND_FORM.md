@@ -1096,8 +1096,8 @@ No story file may cite this standard as authority for contradicting a dossier. T
 
 - Structure and form: **filed** (`11cd68a`), amended with the Malkuth spine (`ce95ff4`).
 - Source survey: **filed outside the world bible** — [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md) in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`: thirteen L Corp records read in full for the spine, the doubling, the witness, and the stance.
-- Character files: **01** Majin through **08** Ishall filed, each on the pre-break/break/post-break spine, each validated and gated before the next began.
-- Activated Echo-Core: **Ishall**, closed. Next activation waits on the owner.
-- Next step: character 09 Xyan, read against the dossier before drafting and validated before the folder closes.
-- Outstanding owner decision: the Solidification dating conflict held in file 01.
+- Character files: **01** Majin through **09** Xyan filed, each on the pre-break/break/post-break spine, each validated and gated before the next began. The nine are closed.
+- Activated Echo-Core: **Xyan**, closed. The corpus has no tenth.
+- Next step: none in this folder. Work on these records is now revision, not authorship.
+- Outstanding owner decisions: the Solidification dating conflict held in file 01; the station and the double-dated return held in file 09; the Day 53 double exposure between 01 and 03; and whether 01–06 take the `The Break` heading so the folder has one shape.
 - The nine canonical dossiers remain unchanged and authoritative.

@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Xyan, the Exile — the ninth and last backstory file (2026-11-01)
+
+`SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md` is filed, and the nine are closed.
+
+- **The wound is a lid, not a refusal.** The Council closes the upstream question with one unsigned page, and the Director — who hears the measurement, understands it and says *next item* — closes it harder by doing nothing loud. Xyan crosses a one-way gate because a closed question is not an answered one, and the crossing costs him his own side of the door rather than his life.
+- **The doubled device is the route marker.** First a stone set at knee height with its face turned toward the city, placed for people who are not coming and re-set nine times in one year. Then the same stone walked by twelve thousand people. Nothing about him improves when he is believed; only the number of people on the road changes.
+- **The counter-witness has no name, because the dossier gives her none.** Floor 8's Field Commander ran the chair for the whole Cycle, signed *nothing new* four hundred times, and hands it back in eleven minutes without a speech. She is labelled `[the Field Commander]` under §XII.1e, and the record says plainly that the post carries no name.
+- **The station question is settled by the corpus, not by preference.** `SOMNARAK_THE_DESOLATE.md` §VIII.B stations him at the boundary post under the Scar, and `Part_3` and `Part_4` Day 69 put him on the tactical net and physically in Floor 7's nexus. The file therefore takes the post and treats *exile* as a political status, not a place. The dossier's stronger claim — that his body never comes in and he cannot enter his own floor — is **HOLD 1**, printed with its evidence and not adopted.
+- **The return is narrated once and dated once.** `Part_8` Day 177 and `Part_9` Day 355 stage the same homecoming; the file narrates Day 355 because it is the fuller scene and the one the dossier dates, and holds Day 177 as the batch-closing restatement (**HOLD 2**).
+- **Day 127 is a smile seen from the wrong room.** `Part_7` files moss and no smile; the dossier claims the Director counted 1,778 iterations without one. The file gives the smile to the Field Commander's log, a different witness in a different room, and keeps the Director's line out of her mouth (**HOLD 3**).
+- **Three more boundaries held.** Day 17 is not restaged because file 02 owns it (**HOLD 4**); Day 97 follows `Part_5` and gives Xyan the sending rather than Ishall the reporting (**HOLD 5**); and **Sotogil** is filed in the appendix as the tenth fragment and never spoken in scene, because he has never been told.
+- **Checkable numbers.** 92 labelled lines — 80 roman, 10 italic, 2 bold, no two adjacent lines sharing a marked weight; 20 scenes; 89 narrative paragraphs, 3 of them five words or fewer. Lettering: uneven on the log line that said the same four words four hundred times and on the Council's **c l o s e d**, shaky on the left-handed entry after the reconstruction, caps inside bold for the two shouted orders. No Part line is re-spaced or re-cased.
+- **Folder closed.** The README row 09 is now ✅, `00` §XVII reads *the nine are closed*, and the folder's standing note points at revision rather than authorship.
+- **Checks:** `seam_lint` 1,767 · `label_lint` 301 · `timeline_lint` 1,800 · `check_links` 3,993 / 0 broken · `audit_lore_archive` PASS · `git diff --check` clean.
+- **[P]** Open for the owner: the Day 53 double exposure between 01 and 03; whether 01–06 take the `The Break` heading; the station and return rulings if the held reading is not the one wanted; the Solidification dating; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Backstory folder review: nine double-exposed days and a spelling drift (2026-11-01)
 
 A whole-folder pass over `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/` — `00`, the README and files 01–08 — checking structure, cross-file duplication, register counts and house spelling. No prose was changed in this pass; the findings below are the deliverable.
