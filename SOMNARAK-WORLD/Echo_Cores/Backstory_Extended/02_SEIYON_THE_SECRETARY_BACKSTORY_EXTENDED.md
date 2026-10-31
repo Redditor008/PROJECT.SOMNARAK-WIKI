@@ -533,7 +533,8 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 
 | Fact or line | Source |
 |---|---|
-| The Original was a researcher beneath the Alpha Tree, Majin's colleague and lover | `THE_SECRETARY.md` § History, The Human Life Before Seiyon |
+| **Yeon-seo** was a researcher beneath the Alpha Tree, Majin's colleague and lover; *the Original* is the designation, not her name | `THE_SECRETARY.md` § History, The Human Life Before Seiyon; `The_MEMORY_ARCHIVE.md` § 3.2 |
+| The name *Seiyon* is the designation of the vessel line begun by *Prototype Seiyon-00*; the Secretary is its seventeenth iteration | `Reading_7_The_Original.md` Ch. II |
 | She died in the Solidification; traces include crystallized sorrow, records, and a preserved Archive continuity | `THE_SECRETARY.md` § History, The Human Life Before Seiyon |
 | The administrative project was built for schedules, records, and operational memory | `THE_SECRETARY.md` § History, The Administrative Project |
 | Awakening by connection to the Alpha Tree and absorption of a sorrow fragment | `THE_SECRETARY.md` § History, The Accident |
@@ -556,7 +557,7 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 
 - Seiyon does **not** know the Doorspeech's third fragment is *"Don't let the sorrow win."* `THE_SECRETARY.md` § The Echo-Core Name states that Marjuk never told her and that the fragment is sealed separately. The awakening scene therefore gives the sentence **no speaker label** — the body shows what she heard, and the appendix records where the sentence is filed.
 - She does **not** know, before the Archive, that the preserved continuity of the Original exists at the deepest vault. The record limits her to suspicion. The final scene requests entry in order to find out.
-- She does **not** know the Original's name. No source files it. The record uses *The Original* as an archive designation.
+- She knows the name. It is **Yeon-seo**, and she has read it in the Archive's own heading since before she entered the vault. What she does not know is whether a person may wear a dead woman's face without becoming a claim on her, which is a different question and the one the Readings exist to answer.
 - She cannot narrate Majin's interior. His side is carried only by documents he wrote himself — the sealed rationale and the second memorandum — both reproduced, neither paraphrased.
 - The 312,000-name ledger is hers; the record does not claim the facility ever read it.
 - The comment field is not covered by any protocol. The record does not claim it is, and does not claim her entry was approved. It was neither noticed nor forbidden.

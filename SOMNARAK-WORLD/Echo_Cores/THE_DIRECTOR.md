@@ -328,13 +328,13 @@ Majin does not forget the people who reset. The records describe this as both th
 
 ### Origins
 
-Majin was a researcher, a lover, and an idealist before he became a title. He worked beneath the Alpha Tree on early Han studies and shared both his research and his private life with another scientist. The Reverie Directorate did not yet exist in formal shape — there were no Echo-Cores, no Hand of Change, and no Absolvohan.
+Majin was a researcher, a lover, and an idealist before he became a title. He worked beneath the Alpha Tree on early Han studies and shared both his research and his private life with another scientist, **Yeon-seo** — filed in the Archive's records as *the Original*. The Reverie Directorate did not yet exist in formal shape — there were no Echo-Cores, no Hand of Change, and no Absolvohan.
 
 That life ended during the Consolihan.
 
 ### The Solidification
 
-The Solidification consumed Majin's lover in the same Han catastrophe that transformed the Alpha Tree. Her final instruction — *"Don't let the sorrow win"* — became the promise around which he organized the rest of his existence.
+The Solidification consumed Yeon-seo in the same Han catastrophe that transformed the Alpha Tree. Her final instruction — *"Don't let the sorrow win"* — became the promise around which he organized the rest of his existence.
 
 He interpreted it as a duty to defeat sorrow: contain it, endure it, accumulate it, and eventually erase it. The final Cycle establishes that the interpretation was incomplete.
 

@@ -601,7 +601,7 @@ A speaker who has no personal name in the record is **not labelled with a job ti
 Four consequences follow:
 
 1. **No two identical labels in one exchange.** If two unnamed speakers are both `[she]`, attribute in prose or the exchange becomes unreadable.
-2. **A title the record uses as a title stays a title.** `[The Original]` is the record's own designation for a figure whose name is unknown everywhere in canon; `[???]` would require a name length that no source supplies, so inventing the count invents evidence.
+2. **A title stays a title only where the record genuinely files no name.** `[The Original]` was the standing example of this and has been withdrawn. The Archive's own headings file her as **Yeon-seo**, so she takes `[Yeon-seo]` like any other named figure and *the Original* remains only what it is — a designation used in speech. A figure whose name is truly unfiled takes `[unknown]` or no label at all, and the file says so at the point where it matters.
 3. **Reproduced documents keep their own conventions,** but the preamble must say which unnamed speaker is which — e.g. *"Three members present. The senior medic speaks first; the second medic is the younger voice."*
 4. **Retroactive.** Files 01 and 02 were conformed to this rule when it was filed; files 03–09 obey it from the first draft.
 
@@ -614,7 +614,9 @@ They may be named or unnamed, and the file decides per person. An unnamed one ta
 Eight rules bound them:
 
 1. **Names come from the registry.** Use `REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md`, given name first, and never a name already in use elsewhere in the repository.
-2. **Never name a canon figure who has no name.** The Original stays `[The Original]`. Dekan's mother stays *his mother*. A backstory-only character may be named; a canonical one may not be named on their behalf.
+2. **Never name a canon figure who has no name.** Dekan's mother stays *his mother*; file 05's Void entity stays unidentified; the unrecorded dead of file 03 stay dead and nameless. A backstory-only character may be named; a canonical one may not be named on their behalf.
+
+   **The inverse binds harder, because it fails silently.** Where a name exists anywhere in the record — in a later codex, in a campaign book, spelled differently by a different author — the file uses it and dates the disagreement. **Withholding a name that the corpus already contains is not caution; it is a false mystery, and the reader clocks it at once.** Filing a conflict costs a HOLD row. Filing an absence that does not exist costs the file its credibility.
 3. **No office.** A backstory-only character holds no floor, no Echo-Core authority, no seat on the Council, and signs no protocol. Their authority is the authority of a shift.
 4. **No new anchor.** They never appear in an Absolvohan Part scene they are not already in, and never speak for a named figure in one.
 5. **No displacement.** They may not take over a function the canon assigns to a named character — no invented assistant who briefs the Director, no invented archivist who keeps Marjuk's shelves.

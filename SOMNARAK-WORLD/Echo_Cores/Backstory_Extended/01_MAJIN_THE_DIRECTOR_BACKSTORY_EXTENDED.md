@@ -15,15 +15,15 @@
 
 There was a lamp over the bench that ran too hot.
 
-It had been repaired four times by a man who no longer worked in the building, and each repair had made it brighter and less even, so the left side of every sample read warm and the right side read cold. Majin learned to subtract the difference. The woman across from him refused to, and read every sample twice instead, once on each side, and averaged the two numbers in her head, and put a small tick beside the average so that she would know later that it had been averaged.
+It had been repaired four times by a man who no longer worked in the building, and each repair had made it brighter and less even, so the left side of every sample read warm and the right side read cold. Majin learned to subtract the difference. Yeon-seo refused to, and read every sample twice instead, once on each side, and averaged the two numbers in her head, and put a small tick beside the average so that she would know later that it had been averaged.
 
 [Majin] You are doing that by hand again.
 
-[The Original] You are trusting a lamp again.
+[Yeon-seo] You are trusting a lamp again.
 
 [Majin] The lamp is consistent.
 
-[The Original] The lamp is a lamp. It has moods.
+[Yeon-seo] The lamp is a lamp. It has moods.
 
 They had been in that room for six years by then. Han came up through the floor in thin amber threads, slow enough that a patient person could watch one thread climb the inside of a glass tube over the course of an afternoon. Everyone in the building agreed this was remarkable. Nobody could agree what it was.
 
@@ -39,11 +39,11 @@ The theory fit on one side of a page, which was one of its attractions:
 
 The implication he did not write anywhere the Council could read was that containment might not be a wall at all. It might be a container with a mind. Or a person. Or a story.
 
-[The Original] If the place starts to remember, then the wall is the wrong instrument.
+[Yeon-seo] If the place starts to remember, then the wall is the wrong instrument.
 
 [Majin] Then what is the right one?
 
-[The Original] Something that can be told to put it down.
+[Yeon-seo] Something that can be told to put it down.
 
 He wrote that on the back of a gauge log and kept it. The scrap survived the loss, three relocations, the founding of the Directorate, and 1,778 iterations. It is in the Deep Vault now, catalogued under *pre-institutional research, unsorted*.
 
@@ -59,7 +59,7 @@ They argued about the lamp. She won, because she had bought a replacement shade 
 
 At the end of the shift she stopped in the doorway with her coat half on.
 
-[The Original] Whatever happens, don't let the sorrow win.
+[Yeon-seo] Whatever happens, don't let the sorrow win.
 
 He assumed she meant the experiment.
 
@@ -97,25 +97,25 @@ The corridor lights had gone amber. Everything looked like the inside of the lam
 
 She was at the sample bench with her coat still on and one hand flat on the glass.
 
-[The Original] It is not rising. It is *arriving*.
+[Yeon-seo] It is not rising. It is *arriving*.
 
 [Majin] Then leave it and come.
 
-[The Original] It is arriving from underneath. There is nowhere to come to.
+[Yeon-seo] It is arriving from underneath. There is nowhere to come to.
 
 He looked at the floor and saw that she was right: the amber was in the seams of the tiles, moving upward in slow threads, the way it moved up the tubes.
 
 She took her hand off the glass and put it flat on his chest instead, the way she did when she was checking whether he was listening.
 
-[The Original] The readings are still good.
+[Yeon-seo] The readings are still good.
 
 [Majin] What?
 
-[The Original] The bench. I wrote them down. If someone looks later, they will know what it did on the way in.
+[Yeon-seo] The bench. I wrote them down. If someone looks later, they will know what it did on the way in.
 
 [Majin] I don't care about the readings.
 
-[The Original] You will. You are going to be very angry in a minute, and then you are going to want a number.
+[Yeon-seo] You will. You are going to be very angry in a minute, and then you are going to want a number.
 
 She was right about that too. He wanted a number for the rest of his life.
 
@@ -139,7 +139,7 @@ The record: *Don't let the sorrow win.*
 
 What she actually said, with her coat still on and her hand still out and her voice doing the thing it did when a reading was wrong:
 
-[The Original] Don't let it *win*, Majin. Don't let it *be the last word*.
+[Yeon-seo] Don't let it *win*, Majin. Don't let it *be the last word*.
 
 Then the amber reached the bench and the bench was not there anymore.
 
@@ -1048,8 +1048,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | The Original | The sentence he will misread | Connective scene |
-| 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification | The Original | "Don't let it be the last word" | Canon-anchored |
+| 1 | The Bench | PAST | TPV | Majin | — | BOTH | Place | C/R | Dossier Origins; Project Somnarak Consolihan | Yeon-seo | The sentence he will misread | Connective scene |
+| 2 | The Warm Floor | PAST | TPV | Majin | — | FULL STORY | Place | C | Dossier The Solidification | Yeon-seo | "Don't let it be the last word" | Canon-anchored |
 | 3 | The Sovereign | PAST | TPV | Majin | — | BOTH | Institutional event | C/R | Dossier The Sovereign-Class Containment | Majin | He becomes the container | Canon-anchored |
 | 4 | What the Medics Said | PAST | TPV camera | Insu, the senior medic | — | DIALOGUE | Person | C | Debrief evidence; Year 4,238 disclosure | Majin | "Noted." | Connective scene |
 | 5 | The Choice at the Consolihan | PAST | TPV, SPV | Majin; Council instrument | Majin | BOTH | Ritual | C/R | Dossier Chosen by the Alpha Tree | Majin | The office he cannot refuse | Canon-anchored |
@@ -1063,7 +1063,7 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | 13 | Day 145 — The Hidden Entry | FLASHBACK | TPV | Majin | — | DIALOGUE | Document | C/R | Absolvohan Part 7, Day 145 | Majin | The reading breaks | Canon-anchored |
 | 14 | What Broke | FLASHBACK | FPV | Majin | — | FULL STORY | Document | C | Day 121 and Day 145 entries | Majin | "Shared is not something you send" | Connective scene |
 | 15 | Day 149 — The Cannon and the Fountain | FLASHBACK | TPV | Majin | — | DIALOGUE | Institutional event | R | Absolvohan Part 8, Day 149 | Majin | The barrel is cut apart | Canon-anchored |
-| 16 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | The Original | The same afternoon, re-heard | Connective scene |
+| 16 | The Bench, Again | RE-EXPOSURE | FPV | Majin | — | BOTH | Object | C | Vault extract; dossier Origins | Yeon-seo | The same afternoon, re-heard | Connective scene |
 | 17 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
 | 18 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
 
@@ -1128,13 +1128,25 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 | Zone D Veil failure, three hours, twelve exposed, two Fractured, not mentioned | `THE_DIRECTOR.md` § The Secret |
 | Day 149: the manifold modification; "like rain"; "Turn the cannon into a fountain." | Absolvohan Part 8, Day 149 |
 | Day 365: sunrise on yesterday's work | Absolvohan Part 9, Day 365 |
-| Seiyon built from the Original's voice, face, and sorrow fragment; Majin concealed it | `THE_SECRETARY.md` § History, The Accident and Majin's Decision |
+| Seiyon built from Yeon-seo's voice, face, and sorrow fragment; Majin concealed it; the name *Seiyon* is the designation of the vessel line, not hers | `THE_SECRETARY.md` § History, The Name; `The_MEMORY_ARCHIVE.md` § 3.2; `Reading_7_The_Original.md` Ch. II |
 | Post-Cycle doctrine: the weight is a gift, not a burden | `THE_DIRECTOR.md` § The Memory Archive |
+
+### The name she is filed under
+
+She is called *the Original* (원형 — the archetype, the first form) in Directorate records, in Majin's speech, and in Seiyon's. It is a designation, not a name.
+
+Her name is **Yeon-seo** (연서; the Archive's own heading prints 然瑞). Two independent documents file it as the heading of her entry — `The_MEMORY_ARCHIVE.md` § 3.2, *The Original: Yeon-seo*, and the GIEOK guidebook's origin-core line, *Yeon-seo (The Stasis Original / Cycle 0001)*. Three further readings use *Dr. Yeon-seo* for the woman whose recorded voice Seiyon has, whose face Seiyon wears, and from whose body the first vessel was carved.
+
+The name **Seiyon** is not hers. It is the designation of the vessel line built from her, numbered from zero: the first vessel is filed as *Prototype Seiyon-00*, and the Secretary is *the seventeenth iteration* of that series. A line numbered 00 to 17 has a name, and the name is Seiyon; the Secretary carries it because she is the seventeenth member of the series, not because she inherited a dead woman's given name.
+
+Three passages in `THE_SECRETARY.md` state the opposite — that the name was Yeon-seo's and passed to the AI as an inheritance. They are corrected to match the records above; the old wording is preserved in the HOLD table. The correction does not soften the Secretary's fear. It sharpens it: her name is not a dead lover's, it is the serial of a machine that failed sixteen times before it produced her.
+
+This is why the record prints the name and the man does not. The facility knows exactly who she was; he calls her *the Original* to everyone, including Seiyon, including in his own reports, and has done since the Solidification.
 
 ### Knowledge boundaries
 
 - Majin does not know the Maw is using a Doorspeech fragment rather than his ordinary name. He recognises the syllables as a name he carried; he does not know position two of the Doorspeech varies, or that the Archive Lead keeps 1,778 variants. `THE_DIRECTOR.md` § The Echo-Core Name.
-- Majin does not know the lover's name. No source files one; the record uses *The Original* as an archive designation.
+- Majin knows her name. He does not use it, and the record prints it anyway. *The Original* is the designation he and the Directorate use in speech and in reports; it is not a statement that her name is unknown.
 - Majin never enters Seiyon's interior. Her silence in the station scene is observed behavior; her answer in the bench scene is her own filed speech.
 - Majin does not know what the Sovereign entity was, whether the eighteen were nine, or whether the four hundred and six who came out were the four hundred and six who went in. The file says so.
 - The medics' and Dekan's statements are second-witness material. They may describe what they saw; they may not narrate his thoughts.
@@ -1143,6 +1155,7 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 
 | Conflict | Record A | Record B | Handling |
 |---|---|---|---|
+| The Original's name | `THE_SECRETARY.md` § History, The Name: *"Seiyon" was the Original's name*; repeated at § Why Seiyon Remains the Continuing Name and § The Secret | `The_MEMORY_ARCHIVE.md` § 3.2 and the GIEOK guidebook name her **Yeon-seo**; `Reading_7` separates *Dr. Yeon-seo* from the vessel *Prototype Seiyon-00*, and numbers the AI as *the seventeenth iteration* | The codex naming and the numbering govern. Her name is Yeon-seo; *Seiyon* is the vessel line's designation. The three dossier lines are corrected at source. |
 | Dating the Solidification | `THE_DIRECTOR.md`: his lover died in the Solidification; he is 126 during the final Cycle | `PROJECT_SOMNARAK.md` § Timeline: Consolihan and Solidification in Years 234–245 | **Unresolved.** No scene states a year. Owner decision required before any file dates the loss. |
 | Meaning of "Consolihan" | `PROJECT_SOMNARAK.md`: the Third War, Years 234–245 | `SOMNARAK_CHEONGULA.md` § IV: the annual mourning rite after the Cheongula | Both treated as real. The selection scene uses the annual rite and labels it. |
 | Order of selection and fusion | `THE_DIRECTOR.md`: loss → fusion → selection during the Consolihan | `The_REVERIE_DIRECTORATE.md`: selection during the Consolihan; "the M.A.W. fusion happened later" | Dossier order followed; codex reversal recorded, not averaged. |
