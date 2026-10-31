@@ -1,6 +1,6 @@
 # 📌 PIN WIP — Echo-Core Backstory Extended
 
-**Status:** 📌 **CHARACTERS 1–2 FILED — Majin and Seiyon written; no other Echo-Core activated**  
+**Status:** 📌 **CHARACTERS 1–3 FILED — Majin, Seiyon, and Dekan written; no other Echo-Core activated**  
 **Parent archive:** [`../README.md`](../README.md)  
 **Governing standard:** [`00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md)  
 **Purpose:** Prepare a dedicated home for fuller named-character histories for the Nine Echo-Cores.
@@ -74,7 +74,7 @@ It is filed **outside `SOMNARAK-WORLD/`** — the world bible carries Somnarak c
 |---:|---|---|---|---|
 | 1 | **Majin (마진)** — The Director | [`../THE_DIRECTOR.md`](../THE_DIRECTOR.md) | [`01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md`](01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md) | ✅ Written — rebuilt on the pre-break/break/post-break spine; validated and gated |
 | 2 | **Seiyon (세이연)** — The Secretary | [`../THE_SECRETARY.md`](../THE_SECRETARY.md) | [`02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md`](02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md) | ✅ Written — rebuilt on the pre-break/break/post-break spine; validated and gated |
-| 3 | **Dekan (데칸)** — The Containment Lead | [`../THE_CONTAINMENT_LEAD.md`](../THE_CONTAINMENT_LEAD.md) | `03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
+| 3 | **Dekan (데칸)** — The Containment Lead | [`../THE_CONTAINMENT_LEAD.md`](../THE_CONTAINMENT_LEAD.md) | [`03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md`](03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 4 | **Zyrak (지락)** — The Extraction Lead | [`../THE_EXTRACTION_LEAD.md`](../THE_EXTRACTION_LEAD.md) | `04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
 | 5 | **Ayshuk (아이숙)** — The Research Lead | [`../THE_RESEARCH_LEAD.md`](../THE_RESEARCH_LEAD.md) | `05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
 | 6 | **Mellda (멜다)** — The Border Lead | [`../THE_BORDER_LEAD.md`](../THE_BORDER_LEAD.md) | `06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
@@ -124,8 +124,8 @@ The appendix carries the working record:
 
 ## Current Pin
 
-**📌 CHARACTERS 1–2 FILED AND COMPLIANT:** the governing standard was filed on 2026-10-31 and amended three times — when the owner rejected a Prologue-only past, when the owner supplied `Malkuth#Backstory` as the model, and when the owner asked why the first two files had not been checked against the new rules first. The thirteen-page source survey is filed as `00A`. **Majin — The Director** passed §IV.1c on audit and gained a compliance block. **Seiyon — The Secretary** failed it — written before the spine existed, it was an ordered chronicle with no break and no doubled object — and has been rebuilt from 551 to 608 lines on the pre-break/break/post-break spine. Both now carry a §IV.1c check in the appendix. **No other Echo-Core is activated.** The nine canonical dossiers are unchanged.
+**📌 CHARACTERS 1–3 FILED AND COMPLIANT:** the governing standard was filed on 2026-10-31 and amended three times — when the owner rejected a Prologue-only past, when the owner supplied `Malkuth#Backstory` as the model, and when the owner asked why the first two files had not been checked against the new rules first. The thirteen-page source survey is filed as `00A`. **Majin — The Director** passed §IV.1c on audit and gained a compliance block. **Seiyon — The Secretary** failed it — written before the spine existed, it was an ordered chronicle with no break and no doubled object — and has been rebuilt from 551 to 608 lines on the pre-break/break/post-break spine. Both now carry a §IV.1c check in the appendix. **Dekan — The Containment Lead** was written on the spine from the start: the three rules his mother taught him at a wall, the Day 101 request that turned a symptom into a person, and the same three rules recited at Day 125 and again to a wall that no longer answers. Its counter-witness is a retired perimeter cook rather than an officer, because the wound is a childhood spent being used accurately. **No other Echo-Core is activated.** The nine canonical dossiers are unchanged.
 
-Two more rules now apply before any new file begins: the first two are the template, and a file that has not been re-read against §IV.1c is not finished. Next step: the owner names the next Echo-Core — Dekan, by the filed order. That character's whole dossier and directly linked records are read, the wound is named in one sentence, the object and the counter-witness are chosen from the existing cast, and only then is the spine built. §IV.1c governs the draft. No other character file begins until that unit is validated and gated.
+Two more rules now apply before any new file begins: the first two are the template, and a file that has not been re-read against §IV.1c is not finished. Next step: the owner names the next Echo-Core — Zyrak, by the filed order. That character's whole dossier and directly linked records are read, the wound is named in one sentence, the object and the counter-witness are chosen from the existing cast, and only then is the spine built. §IV.1c governs the draft. No other character file begins until that unit is validated and gated.
 
 The SE ↔ M.A.W. reconciliation queue remains separately pinned WIP and is not activated by this folder.
