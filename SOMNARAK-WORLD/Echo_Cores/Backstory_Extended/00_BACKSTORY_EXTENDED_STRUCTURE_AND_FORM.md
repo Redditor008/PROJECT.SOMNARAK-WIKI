@@ -72,6 +72,28 @@ One Echo-Core, one file, one archival framed mini-story.
 
 A flashback may carry one category or both. A file may use one, two, or all three categories. There is no quota and no required order beyond the Prologue.
 
+### IV.1b The Malkuth spine — the owner's model
+
+The owner supplied `Malkuth#Backstory` on the Lobotomy Corporation wiki as the reference for what a good backstory treatment looks like. The functional shape is:
+
+**Pre-break → Break → Post-break**, with the same past shown twice.
+
+| Movement | What it holds |
+|---|---|
+| **Pre-break** | The wound as it happened, and the present-day behaviour it produced. PAST scenes interleaved with present anchors. |
+| **Break** | The in-world event that changes the meaning of the past. Not a chapter marker: a mechanism, a document, a reveal, a suppression, a confession. |
+| **Post-break** | The same past memory shown again, re-read. The events do not change. The meaning does. The file ends on a stance, not a cure. |
+
+Three rules follow, and they are mandatory:
+
+1. **One wound, examined twice.** A backstory file is not a life story. It is one formative injury or misreading, followed through everything it caused, and then revisited after the character's understanding of it changes. Choose the wound before choosing the scenes.
+2. **The double exposure.** At least one past scene must appear in both movements. The second appearance uses the same place, objects, and words; what changes is what the character notices in them. If the re-exposure has different content, it is not a re-exposure.
+3. **The obliquely spoken wound.** The character must at least once describe their own injury in the present, out loud, to someone who was not there — as a question, an anecdote, or a demonstration rather than a confession. The register matters: they do not say *I was hurt.* They ask the other person whether they have ever felt something adjacent. A second witness may supply the counter-memory from outside and admit the failure plainly.
+
+The model's ending is a stance, usually stated in a short phrase. Majin's is *willingness*; Malkuth's is *the willingness to stand up straight.* The stance is not resolution and must not be written as one.
+
+The model does **not** license copying. Its plot, characters, and imagery stay in Lobotomy Corporation. Only the shape is used.
+
 ### IV.2 Universal participation, unequal memory
 
 Every Echo-Core lived through the prior 1,777 iterations. **Participation is universal. Memory is not.**
@@ -393,6 +415,18 @@ The Prologue is fixed. The modules are not. A Marjuk file may be mostly document
 
 A file needs at least one trigger module beyond the Prologue. It does not need one of every type.
 
+### IX.0 Placement against the spine
+
+Every module is assigned to one of the three movements before drafting:
+
+| Movement | Placement |
+|---|---|
+| Pre-break | The wound, its first consequences, and the present-day behaviour it explains |
+| Break | The single event that changes the meaning; usually one or two modules, never more |
+| Post-break | The re-exposure, the changed action, and the stance |
+
+A module that belongs to none of the three is not part of this file.
+
 ### IX.1 Scene, not collection
 
 Every module in the body is a **scene**.
@@ -687,6 +721,11 @@ One Echo-Core at a time. No file begins before the previous one is gated, unless
 - [ ] Absolvohan anchors read in the Part, not only in the dossier summary
 - [ ] Prologue spine checked against dossier facts
 - [ ] At least one further PAST scene beyond the Prologue
+- [ ] The wound is named in one sentence before drafting
+- [ ] Every module assigned to pre-break, break, or post-break
+- [ ] At least one past scene appears in both pre-break and post-break
+- [ ] The character speaks the wound obliquely at least once, in the present, to a witness
+- [ ] The file ends on a stance, not a resolution
 - [ ] Every module answers where, when, who perceives, what changes, and what is said
 - [ ] No module is a list, montage, or collection of incidents
 - [ ] At least one C tether and one R tether in the Prologue
