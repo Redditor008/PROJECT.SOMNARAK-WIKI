@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Backstory folder review: nine double-exposed days and a spelling drift (2026-11-01)
+
+A whole-folder pass over `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/` — `00`, the README and files 01–08 — checking structure, cross-file duplication, register counts and house spelling. No prose was changed in this pass; the findings below are the deliverable.
+
+- **Nine days carry a scene heading in more than one file.** Day 0 (01, 02), Day 5 (04, 05), Day 53 (01, 03), Day 108 (02, 06), Day 145 (01, 07), Day 149 (01, 02), Day 160 (05, 06, 07), Day 177 (03, 07), Day 365 (01, 07, 08). Most are the sanctioned double exposure — one public moment seen from two records — and the later file usually says so. Two were checked line by line:
+  - **Day 53** is the same exchange in 01 and 03, near word for word, and **03 owns the day**. 01's version carries no pointer back, so the two can be read as one account told twice rather than one moment seen twice.
+  - **Day 149** is the same six-line exchange in 01 and 02, and 02 does hand the order back — *"the rest of the order is filed in the Director's record"* — which is the double exposure working as intended.
+- **Spelling drifts inside one folder.** `centimetre` 12 / `centimeter` 2, `colour` 10 / `color` 4, `behaviour` 6 / `behavior` 3, `recognise` 3 / `recognize` 4, `organise` 3 / `organize` 1. The British form is the folder's own majority, and both `centimeter` instances sit in 01's Day 53 — the duplicated scene above.
+- **Appendix furniture is uniform.** All eight files close with the same nine sections: Relationships in motion, Connection string, Source ledger, Knowledge boundaries, HOLDs, Promotion Check, §IV.1c compliance check, Validation record, Continuity note. File 01 carries one extra, *The name she is filed under*.
+- **Top-level shape is not uniform.** 01–06 run Prologue / Part One / Part Two / Part Three; 07–08 run Prologue / Part One / **The Break** / Part Two / Part Three. The README states that all eight sit on the pre-break/break/post-break spine. The break may be carried inside Part Two in the first six, but the heading set does not show it, and a reader comparing files sees two shapes.
+- **The validation records share boilerplate.** The register paragraph, the lettering paragraph and the table-rows paragraph repeat across 01–06, with punctuation drift in 07–08 (*no Act, Chapter or Part* against *no Act, Chapter, or Part*). Accurate, but it is the one place where the folder reads as a template rather than eight records.
+- **Counts now reconcile.** Every per-file register claim matches measurement after the 01 correction in the previous entry: 75/5/3, 91/13/1, 107/9/1, 102/7/2, 105/9/2, 112/15/1, 130/18/2.
+- **Checks:** `seam_lint` 1,766 · `timeline_lint` 1,799 · `check_links` 3,993 / 0 broken · `audit_lore_archive` PASS · `git diff --check` clean.
+- **[P]** Open for the owner: whether 01's Day 53 keeps its duplicate with a pointer to 03 or yields the scene entirely, and whether the first six files take the `The Break` heading so the folder has one shape.
+
 ## The Exile, refined: one record instead of a pile of caveats (2026-11-01)
 
 The owner read `THE_EXILE.md` and called it what it was: dirty, uneven in structure, and hard to inspect. The file had grown by accretion — every objection ever raised against it had been answered in place, and the answers had become a second copy of the file. It was rebuilt rather than patched.
