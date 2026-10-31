@@ -1,11 +1,11 @@
 # 📌 PIN WIP — Echo-Core Backstory Extended
 
-**Status:** 📌 **CHARACTERS 1–7 FILED — Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, and Marjuk written; no other Echo-Core activated**\
+**Status:** 📌 **CHARACTERS 1–8 FILED — Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, and Ishall written; no other Echo-Core activated**\
 **Parent archive:** [`../README.md`](../README.md)  
 **Governing standard:** [`00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md)  
 **Purpose:** Prepare a dedicated home for fuller named-character histories for the Nine Echo-Cores.
 
-> 📌 **Pinned reminder:** The structure and form are filed, and seven of the nine records are written and gated — `01` Majin through `07` Marjuk. `08` Ishall and `09` Xyan are not written; their filenames below are planned, not completed. Do not move or replace the nine canonical Echo-Core dossiers to fill them.
+> 📌 **Pinned reminder:** The structure and form are filed, and eight of the nine records are written and gated — `01` Majin through `08` Ishall. `09` Xyan is not written; its filename below is planned, not completed. Do not move or replace the nine canonical Echo-Core dossiers to fill them.
 
 ---
 
@@ -79,7 +79,7 @@ It is filed **outside `SOMNARAK-WORLD/`** — the world bible carries Somnarak c
 | 5 | **Ayshuk (아이숙)** — The Research Lead | [`../THE_RESEARCH_LEAD.md`](../THE_RESEARCH_LEAD.md) | [`05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md`](05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 6 | **Mellda (멜다)** — The Border Lead | [`../THE_BORDER_LEAD.md`](../THE_BORDER_LEAD.md) | [`06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md`](06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 7 | **Marjuk (마주크)** — The Archive Lead | [`../THE_ARCHIVE_LEAD.md`](../THE_ARCHIVE_LEAD.md) | [`07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md`](07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 8 | **Ishall (이샬)** — The Outsider | [`../THE_OUTSIDER.md`](../THE_OUTSIDER.md) | `08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
+| 8 | **Ishall (이샬)** — The Outsider | [`../THE_OUTSIDER.md`](../THE_OUTSIDER.md) | [`08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md`](08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
 | 9 | **Xyan (시안)** — The Exile | [`../THE_EXILE.md`](../THE_EXILE.md) | `09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md` | 📌 WIP — not started |
 
 ---
@@ -139,6 +139,8 @@ Five rules now apply before any new file begins. The first seven files are the t
 
 **Marjuk — The Archive Lead** was filed on 2026-11-01. Its object is a blank tablet set beside every opened record, and the same gesture belongs to the archive in the first section and to the city in the last. Its break is professional rather than personal: a nine-page finding that was correct, complete and easy to put down, answered with `Noted. No action required.` Its review pass found four places where the dossier's summaries contradict the Absolvohan Parts — Day 12, Day 77, Day 121, Day 160 — and settled each in favour of the Part instead of the summary.
 
-The next unit is **Ishall — The Outsider**. That character's whole dossier and directly linked records are read, the wound is named in one sentence, the object and the counter-witness are chosen from the existing cast, and only then is the spine built. §IV.1c governs the draft. No other character file begins until that unit is validated and gated.
+**Ishall — The Outsider** was filed on 2026-11-01. Its object is the second map, and the whole file is the difference between a route in and a route out: the Council issued her a page one and told her the second page was issued at the point of need. Its counter-witness is a courier she sends out and calls back by counting eleven steps in the dark. Its review pass found three places where the dossier's summaries contradict the Parts — Day 55, Day 97 and Day 127 — and settled each in favour of the Part; the Day 127 one matters most, because the dossier's smile is not in the Part and the file refuses to assert it.
+
+The next unit is **Xyan — The Exile**, the last of the nine. That character's whole dossier and directly linked records are read, the wound is named in one sentence, the object and the counter-witness are chosen from the existing cast, and only then is the spine built. §IV.1c governs the draft, and §XII.1e, §XII.1f and §XII.1g are checked before the first line rather than after the last.
 
 The SE ↔ M.A.W. reconciliation queue remains separately pinned WIP and is not activated by this folder.

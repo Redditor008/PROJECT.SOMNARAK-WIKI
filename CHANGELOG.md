@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Ishall, the Outsider — the eighth backstory file (2026-11-01)
+
+The eighth Echo-Core record is filed: `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md`, twenty scenes on the pre-break/break/post-break spine.
+
+- **The wound is the missing page.** The Council issued her a route in and told her the route out was issued at the point of need; it was never issued. The break is not the denial of service — she survived that — it is her first Directorate sortie, when she recognises the same missing page in the institution she now serves, and writes standing order 1: *every brief carries a route out, signed by the officer who sends.*
+- **The doubled device is the second map.** First it is the page nobody wrote for her; then it is the page she signs four thousand and ninety-one times, and hands to a courier in her first week on the floor.
+- **The counter-witness is a courier, and the counter-memory belongs to the Secretary.** Nakyung is recalled off a dark fork by counting eleven steps out loud. Seiyon, forty years later, says the thing Ishall will not: *I did not save you* — and then gives the counter-memory of the corridor, which is that Ishall asked whether the record would say she had been there.
+- **Three dossier-versus-Part divergences were found and filed as HOLDs.** Day 55 in the dossier has Seiyon naming Mugeukji's Vaults and Ishall answering *"Presumably"*; `Part_4` has no such lines. Day 97 in the dossier has **Ishall** reporting the third message; `Part_5` files the entire exchange on the deep-gate channel with **Xyan** speaking and no Ishall line at all. Day 127 in the dossier and its trivia both have her watching Xyan **smile**; `Part_7` has moss on an abandoned excavator and no smile. **The Part governs each time**, and the file shows her reporting moss while declining to describe a mouth — the smile is preserved as the record's claim, not as her evidence.
+- **Day 17 is deliberately not restaged.** File 02 already owns that exchange; the dossier's divergent version of it is filed here as HOLD 1 so the two files cannot be read as one account.
+- **The Somnarak rule is applied to a character whose name was given to her.** §XII.1g says names are earned; the dossier says Seiyon gave her this one, and that it became hers through continued use. The file states the exception plainly, invents no epithet for her, and notes that *the Outsider* is the Directorate's institutional designation rather than an earned title. Her Doorspeech name, **Nemona** — *no-one's name* — is filed canon, and she never learns it.
+- **Checkable numbers, not claims.** 130 labelled lines — 110 roman, 18 italic, 2 bold, no adjacent marked pair sharing a weight; 37 string-match the Absolvohan Parts. Lettering: one caps line over twenty leagues of bells, one uneven set for the Council's printed erasure, two shaky, two broken — none of the uneven or broken on a Part line. Asymmetry measures **zero** triples per scene and globally, across 112 paragraphs, 15 of them five words or fewer.
+- **Two composites, inside §XII.1f's cap of three.** A loss certificate and a construction certificate, signed eleven days apart by `[DOCTOR-NAMH]` and `[DOCTOR-YEOH]` — the same shared post at two ends, and neither document requires her signature.
+- **[P]** Remaining: character 09 (Xyan, the last); the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## The Somnarak rule: how a name is made (2026-11-01)
 
 The last two entries decided what the page *calls* a speaker. Neither said how a name is **made** in this world, and the corpus already answers it — the name registry has carried the seven laws of an earned title, six mixed-name patterns and ten construction tests the whole time. They are now binding on every story file.

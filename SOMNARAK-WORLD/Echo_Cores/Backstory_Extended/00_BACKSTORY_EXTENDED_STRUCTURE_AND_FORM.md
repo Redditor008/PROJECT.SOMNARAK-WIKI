@@ -641,6 +641,8 @@ Eight rules bound them:
 | **Kyungmi** (경미, "respectful and beautiful") | `06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md` | Stores keeper, Wardens' stores at the Threshold; issued the Border Lead's first kit, cut the badge off at exile, kept the drawer of badges | No office, no clearance, no authority; one witness to one night; not canon without a Promotion Check | Backstory-only; reusable in 07–09 if consistent |
 | **Jieun** (지은, "wisdom and grace") | `07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md` | Zone B resident, sixty-one; asks the Reading Room for a name the Year 202 count does not hold, then returns with what her mother told her | No clearance, no office; knows her grandmother died in the Cheongula and not one fact of the Council's instrument; took the municipal lift twice and never entered the vault | Backstory-only; reusable in 08–09 if consistent |
 | **Youngsoo** (영수) | `07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md` | Floor 6 specialist; present for the Year 4,235 partial opening of the Final Door; held his own name until his face agreed to be a face | Floor 6 only; no command role; knows the alarm and his own name, not what the Door is | Backstory-only; reusable in 08–09 if consistent |
+| **Nakyung** (나경, "beautiful scenery") | `08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md` | Floor 7 courier; given a brief with two pages in her first week, and recalled off a dark fork by counting eleven steps | Floor 7 only; no clearance beyond the floor, no command role; knows the route out and not why the Outsider wrote it | Backstory-only; reusable in 09 if consistent |
+| **Kyungsoo** (경수, "respectful and long-lived") | `08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md` | Floor 7 duty officer for forty years; keeper of the standing-orders book; objected in writing twice to standing order 1 and was never overruled into silence | No office, no command; knows every entry in the book and none of the reasons behind the entries | Backstory-only; reusable in 09 if consistent |
 
 
 
@@ -1094,8 +1096,8 @@ No story file may cite this standard as authority for contradicting a dossier. T
 
 - Structure and form: **filed** (`11cd68a`), amended with the Malkuth spine (`ce95ff4`).
 - Source survey: **filed outside the world bible** — [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md) in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`: thirteen L Corp records read in full for the spine, the doubling, the witness, and the stance.
-- Character files: **01** Majin through **07** Marjuk filed, each on the pre-break/break/post-break spine, each validated and gated before the next began.
-- Activated Echo-Core: **Marjuk**, closed. Next activation waits on the owner.
-- Next step: characters 08 Ishall and 09 Xyan, in order, one at a time, each read against the dossier before drafting and each validated before the next begins.
+- Character files: **01** Majin through **08** Ishall filed, each on the pre-break/break/post-break spine, each validated and gated before the next began.
+- Activated Echo-Core: **Ishall**, closed. Next activation waits on the owner.
+- Next step: character 09 Xyan, read against the dossier before drafting and validated before the folder closes.
 - Outstanding owner decision: the Solidification dating conflict held in file 01.
 - The nine canonical dossiers remain unchanged and authoritative.
