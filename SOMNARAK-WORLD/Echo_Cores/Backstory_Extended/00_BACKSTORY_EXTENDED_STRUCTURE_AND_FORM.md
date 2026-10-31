@@ -94,6 +94,26 @@ The model's ending is a stance, usually stated in a short phrase. Majin's is *wi
 
 The model does **not** license copying. Its plot, characters, and imagery stay in Lobotomy Corporation. Only the shape is used.
 
+The full evidence base — thirteen character records read page by page, with the machine taken apart — is filed as [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md). Read it with this section; it is the survey, this is the rule.
+
+### IV.1c The six devices the survey added
+
+The source survey found six devices used in every one of the thirteen records. They are mandatory, and they are what separate a record from a chronology.
+
+| Device | Rule | Test |
+|---|---|---|
+| **The object** | One working object appears before the break and again, identical, after it. It is not a symbol on first appearance and is never explained. | Can the reader name the object, and the two scenes it appears in? |
+| **The withheld sentence** | The second pass restores a specific sentence that a specific person chose not to say — not a fact the reader lacked. | Is the missing thing a *decision to stay silent*, and is the person who made it named? |
+| **The counter-witness** | A character outside the featured Echo-Core states the failure plainly, in their own voice, with no softening. | Is the witness an existing dossier character, and do they admit it in one unhedged sentence? |
+| **The permanent symptom** | One behaviour, unchanged from the first present-day scene to the last, proving the wound still operates in routine rather than in crisis. | Would a colleague describe this character by this behaviour alone? |
+| **The oblique speech** | The wound described out loud, in the present, to someone structurally unable to help — as a question, an anecdote, or a demonstration. | Does the listener have any power to act on it? They must not. |
+| **The stance line** | The file ends on a named capacity in the record's own vocabulary. Not a resolution, not a lesson, not a summary. | Is it a thing the character can *do* inside a situation that has not changed? |
+
+Two corollaries:
+
+- **The routine-voice check.** After the stance, the character's ordinary professional lines must have shifted by exactly one degree. If the voice after the break is identical to the voice before it, the stance is decoration and the file is not finished.
+- **The Ayin failure.** A record whose central figure never takes a posture ends as a case history. Explanation is not a stance. Dissolution is not an ending.
+
 ### IV.2 Universal participation, unequal memory
 
 Every Echo-Core lived through the prior 1,777 iterations. **Participation is universal. Memory is not.**
@@ -726,6 +746,11 @@ One Echo-Core at a time. No file begins before the previous one is gated, unless
 - [ ] At least one past scene appears in both pre-break and post-break
 - [ ] The character speaks the wound obliquely at least once, in the present, to a witness
 - [ ] The file ends on a stance, not a resolution
+- [ ] One working object appears before and after the break, unchanged
+- [ ] The second pass restores a sentence a named person chose not to say
+- [ ] A named counter-witness states the failure plainly, unaided
+- [ ] One permanent symptom is visible in routine, not only in crisis
+- [ ] The professional voice after the stance has shifted by one degree
 - [ ] Every module answers where, when, who perceives, what changes, and what is said
 - [ ] No module is a list, montage, or collection of incidents
 - [ ] At least one C tether and one R tether in the Prologue
@@ -792,8 +817,10 @@ No story file may cite this standard as authority for contradicting a dossier. T
 
 ## XVII. Current state
 
-- Structure and form: **filed**.
-- Character files: **none created**.
-- Activated Echo-Core: **none**.
-- Next step: owner names the first Echo-Core; that character's whole dossier and linked records are read before drafting.
+- Structure and form: **filed** (`11cd68a`), amended with the Malkuth spine (`ce95ff4`).
+- Source survey: **filed** — [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md), thirteen L Corp records read in full for the spine, the doubling, the witness, and the stance.
+- Character files: **01 Majin** and **02 Seiyon** filed; Majin rebuilt twice, last on the pre-break/break/post-break spine.
+- Activated Echo-Core: **Majin**, closed. Next activation waits on the owner.
+- Next step: characters 03–09 in order, one at a time, each read against the dossier before drafting and each validated before the next begins.
+- Outstanding owner decision: the Solidification dating conflict held in file 01.
 - The nine canonical dossiers remain unchanged and authoritative.

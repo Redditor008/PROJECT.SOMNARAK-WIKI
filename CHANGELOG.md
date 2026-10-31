@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Echo-Core Backstory Extended: the L Corp source survey filed (2026-10-31)
+
+- **All thirteen character records on the Lobotomy Corporation Wiki were read in full and taken apart as an evidence base.** `Characters` lists three main figures, nine Sephirot and four minor characters; every Story, Meltdown, Backstory and Flavor Text section was read, and the result is filed as `00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md` (548 lines) beside the standard.
+- **What was extracted is the machine, not the plot.** For each record: the wound in one sentence, the pre-break movement, the external break, the re-read, the doubled object, the oblique speech and its witness, the counter-memory, the permanent symptom, and the closing stance. Thirteen of thirteen use the same seven parts. Not one is a chronology.
+- **The seven cross-record findings are now rules.** The object test (one working object, identical before and after the break); the break is always external and never an insight; the second pass restores a *sentence someone chose not to say* rather than a fact; the witness is structurally unable to help; the institution speaks in numbers while the character answers in names; nobody is comforted; the stance is a capacity, not an outcome.
+- **Two negative exemplars were filed with the positive ones.** Ayin has no stance and dissolves — a record whose central figure never takes a posture is a case history, not a record. Carmen loses speech after her break, so her wound is spoken *for* her by the woman who guards the reservoir: the delegated voice, usable once.
+- **The page order was itself the finding.** Appearance → Personality → present Story → Meltdown → Pre-Meltdown → Post-Meltdown → Flavor Text. The reader meets the character as an official who is already failing, then receives the past as evidence in a present case. The Flavor Text layer — the same voice in routine work after the stance — is the cheapest available test of whether a stance is real.
+- **Six devices were written into the standard as §IV.1c,** with matching checklist items: the object, the withheld sentence, the counter-witness, the permanent symptom, the oblique speech's powerless listener, and the stance line — plus the routine-voice corollary and the Ayin failure.
+- **Seven pre-draft questions now sit between the dossier and the draft** for files 03–09, each with its exemplar and its failure mode, so the next character cannot be drafted as an ordered chronicle.
+- **The standard's §XVII was stale and is corrected:** it still said no character files existed. It now records Majin and Seiyon filed, Majin rebuilt twice, the survey filed, and the Solidification dating HOLD still awaiting an owner ruling.
+- **No Somnarak fact was asserted from the survey.** Per-character assignment for 03–09 waits on the dossier read required by the activation rule; the survey supplies the questions, not the answers.
+- **[P]** Remaining: characters 03–09, and an owner ruling on the Solidification dating. The SE ↔ M.A.W. reconciliation queue remains pinned WIP.
+
 ## Echo-Core Backstory Extended: the Malkuth spine adopted, Majin rebuilt (2026-10-31)
 
 - **The owner supplied `Malkuth#Backstory` as the reference model, and the standard now files its shape:** a backstory is not a chronology. It runs **pre-break → break → post-break**, holds **one wound examined twice**, requires at least one past scene to appear in both movements with the same place, objects, and words, requires the character to speak the wound obliquely in the present to a witness who was not there, and ends on a **stance rather than a resolution**. New §IV.1b records the model; §IX.0 requires every module to be assigned to one of the three movements; the pre-draft checklist gained six matching items.
