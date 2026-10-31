@@ -1357,7 +1357,7 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 - No Act, Chapter, or Part labels; the three section headings are thematic, not structural.
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
-- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 268 dialogue lines, of which 23 are at dropped volume (italic) and 6 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+- Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 269 dialogue lines, of which 24 are at dropped volume (italic) and 6 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
 
 ### Continuity note
 

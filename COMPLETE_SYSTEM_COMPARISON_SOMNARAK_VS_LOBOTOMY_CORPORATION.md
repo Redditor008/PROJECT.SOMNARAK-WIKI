@@ -254,7 +254,7 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 For narrative fiction and worldbuilding, both universes feature intricate geopolitical power structures operating beyond facility walls:
 
 ### 13.1 The City vs. Somnarak City & The Raw
-- **The City (Project Moon):** Governed by **The Head** (A Corp, B Corp, C Corp) with absolute taboos enforced by Arbiters and Claws. The 26 Wings exploit their Singularities, while the **Five Fingers** (Thumb, Index, Middle, Ring, Pinky) govern the underworld Backstreets through brutal syndicates.
+- **The City (Project Moon):** Governed by **The Head** (A Corp, B Corp, C Corp) with absolute taboos enforced by Arbiters (A Corp), Beholders (B Corp, the Eye) and Claws (C Corp). The 26 Wings exploit their Singularities, while the **Five Fingers** (Thumb, Index, Middle, Ring, Pinky) govern the underworld Backstreets through brutal syndicates.
 - **Somnarak City & The Raw (Project Somnarak):** Somnarak City is an engineered cavern stronghold governed by the **Council of Sighs (  위령원   )**, with the **Reverie Directorate (  몽환국   )** as the chartered containment institution at Facility 01 beneath the Alpha Tree rather than a second city government. Outside the thermal wards lies **The Raw (  생경   )**, a lawless undercity built in the salt-encrusted ruins of previous cycles, and beyond that lies **The Desolate (  황무지   )**, the frozen exterior surface.
 
 ### 13.2 The Five Syndicates of The Raw
