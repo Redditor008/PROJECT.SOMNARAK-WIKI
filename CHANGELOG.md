@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Composite titles: `[DOCTOR-NAMH]` (2026-11-01)
+
+A shared post has no way to say **which one** without inventing a person. The archive now has a composite title for that case — and the owner's objection is the whole design: the plain forms read as names, so they are raised into the world's own older spelling.
+
+- **The form.** A plain-tongue office word welded to a bound classifier from the older layer, joined by a hyphen and set in full capitals: `[DOCTOR-NAMH]` (the masculine end of the post), `[DOCTOR-YEOH]` (the feminine end). The hyphen is not a space — the classifier cannot stand alone, cannot be said to a person's face, and never appears in narration. Prose says *the doctor at the table*, never *Namh said*.
+- **Why the upscale, with the collisions named.** Written plain, `-NAM` and `-YEO` are read as names. The archive already holds **Seo** as a filed surname, **Yeo Do-Hee** as a filed person (Grand Mistress Weaver of the Jikjo Veil-Works) and **Yeoul** as a filed given name. The classifier therefore takes the house's archaic terminal **-h**, the same one that closes *Consolihan*, *Ferrehan*, *Viderehan*, *Nareumhan* and *Mugenhan*, and follows the registry's documented mixing method — Korean root, borrowed ending (*Hanulya*, *Eunaris*, *Purunis*).
+- **Four conditions, all of them.** No name in the record; a shared post; a distinction the record actually needs; and §XII.1e already tested and failed. Cap of three per file. A unique office needs no classifier — `[the Head Keeper]` stays `[the Head Keeper]`. Abstention is always available: a holder whose sex the record does not file takes the office alone.
+- **The pair is closed.** `-NAMH` and `-YEOH` are the whole inventory. A third classifier is a language change, not a formatting choice, and only the owner files one.
+- **It never touches the Echo-Core Names.** The Doorspeech record states that no two Names share a suffix, prefix or construction pattern, *because they were never built*. Composite titles are the opposite on purpose: a bureau can weld a title onto a person in an afternoon, and that is what a bureau is for. The two systems are never described in each other's terms.
+- **Applied in file 07 the same day.** The Cryogen reconstruction becomes a nine-person team whose roster the record does not hold, and the surgeon who did the spine is `[DOCTOR-NAMH]` — a post with a person behind it and no name on it. The comms officer on the dead channel stays `[unknown]`, because there is no second officer to tell him apart from.
+- **`R-24` carries it archive-wide,** with the plain-form collisions and the no-narration rule stated in the rule itself.
+- **[P]** Remaining: characters 08–09 (Ishall next); the Solidification dating ruling; and the two flagged counts (1,897/1,899 files, 291/290 Sorrow dossiers).
+
 ## Names, ranks, and what the page calls people (2026-11-01)
 
 The dialogue rule banned the profession as a label and over-corrected. A scene about an office — the Head Keeper's authority, the Director's order, the Archive Lead's signature — was being played by `[she]`, which deletes the thing the scene is about.

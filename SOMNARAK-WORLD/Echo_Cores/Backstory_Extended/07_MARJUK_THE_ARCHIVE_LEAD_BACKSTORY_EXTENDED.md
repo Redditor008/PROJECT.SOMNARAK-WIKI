@@ -173,13 +173,15 @@ Between the finding and the appointment there is a body, and the record is hones
 
 The Cryogen reconstruction preserved his brain, his left eye, and his nervous system in Han-stasis inside an approximately eighty-percent artificial chassis. The chassis is male-shaped, one hundred and seventy-one centimetres, with dark sorrow-forged metal and warm golden-brown Han-ceramic and joints insulated against the cold of a floor he had not yet been given.
 
-The archive does not hold the consent form. It does not hold the technician's name, the date, or the reason. Three separate offices were asked for them while this file was being compiled; three separate offices returned `no record located`, which is an answer and not the same as an answer.
+The reconstruction was a team, not a hand. Nine of them worked the table over four months, and the record holds none of their names — the consent form is missing, the roster is missing, and the date is missing. Three separate offices were asked for them while this file was being compiled; three separate offices returned `no record located`, which is an answer and not the same as an answer.
 
-> **[unknown]** "You understand what is preserved and what is not."
+The one who answered for the body is the surgeon who did the spine. He has no name in this record and is not given one, so the file calls him by the office and the end of it that the roster shows: `[DOCTOR-NAMH]`.
+
+> **[DOCTOR-NAMH]** "You understand what is preserved and what is not."
 
 > **[Marjuk]** "Say the parts."
 
-> **[unknown]** "Brain. Left eye. Nervous system. The rest is ours."
+> **[DOCTOR-NAMH]** "Brain. Left eye. Nervous system. The rest is ours."
 
 > **[Marjuk]** *"Then say the parts again, and I will write them down."*
 
@@ -599,9 +601,10 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 | **`[the Head Keeper]`** | Canon office, no name in any source | `[the Head Keeper]` (3) | The Deep Archive stack. The office is the character here: it holds the authority to say what a Keeper may do with a finding, and it is the seat Marjuk is named to inherit. A title label is used because the corpus supplies no name to use instead. |
 | **Youngsoo** (영수) | Backstory-only, named from the registry | `[Youngsoo]` (3) | Year 4,235, the Door incident. Floor 6 specialist. Present for the partial opening; not present in any later scene. |
 | **`[him]`** | Backstory-only, unnamed | `[him]` (4) | The Keeper who teaches the four rules, apprenticeship only. A post, not an office — the school is organised around the rule, not around him — so he keeps the pronoun and is given no name, no later role and no view of the R.D. appointment. |
-| **`[unknown]`** | Backstory-only, unnamed, two people | `[unknown]` (3) | Two lines from the Cryogen technician (chassis reconstruction), one from the Floor 6 comms officer on the day the Final Door opened. Neither is given a name, a face or a second appearance. |
+| **`[DOCTOR-NAMH]`** | Backstory-only, unnamed composite title (§XII.1f) | `[DOCTOR-NAMH]` (2) | The Cryogen surgeon who did the spine, one of nine on the reconstruction team. The office is shared, the roster is missing, and the record must say which end of the post answered for the body — so the label is the office and its masculine inflection. He is never spoken of as *Namh* and the classifier never appears in narration. |
+| **`[unknown]`** | Backstory-only, unnamed | `[unknown]` (1) | The Floor 6 comms officer on the day the Final Door opened. One line, on a channel that dies mid-word. No name, no face, no second appearance — and no second officer to tell him apart from, so no composite title is minted. |
 
-**The labels follow §XII.1e, not §XII.1a's original blanket ban.** No post is a label — no speaker is bracketed as `[Keeper]`, `[technician]`, `[specialist]` or `[medic]`. An **office** is different: the Head Keeper's name appears in no source, and the scene turns on her authority, so the office is what the page calls her. The mixed label appears once, at the hinge where the man and the office are separated out loud, and the strike test decides it: delete the office from that exchange and the exchange stops meaning anything.
+**The labels follow §XII.1e and §XII.1f, not §XII.1a's original blanket ban.** No bare post is a label — no speaker is bracketed as `[Keeper]`, `[technician]`, `[specialist]` or `[medic]`. An **office** is different: the Head Keeper's name appears in no source, and the scene turns on her authority, so the office is what the page calls her. The mixed label appears once, at the hinge where the man and the office are separated out loud, and the strike test decides it: delete the office from that exchange and the exchange stops meaning anything. The one **composite title** is used where neither a name nor a unique office exists and a shared post has to be pinned to a table: `[DOCTOR-NAMH]`, set in caps so it cannot be read as a person, and never spoken as one.
 
 ### The tablet, twice
 
@@ -761,10 +764,10 @@ PB (C/R): the Reading Room counter — a name given, a count opened,
 - **Mechanical quotation check:** every labelled line whose body is a Part line was normalised (`**`, `*`, `_`, curly quotes stripped; whitespace collapsed) and matched as a substring against the concatenated `Part_*.md` text. **45 of 112 labelled lines match the Parts verbatim**; the remaining 67 are this file's own scenes and documents. The three canon silences (`Majin` `"..."` on Days 12, 77 and 121) are retained word for word because they are the Part's own text, and each is given a physical beat so the silence is visible rather than empty.
 - **Register (§XII.1c) counted, not estimated:** 112 labelled lines — **96 roman, 15 italic, 1 bold**; no two adjacent lines in one exchange carry the same marked weight (0); and no line consists only of `...` unless the Part files it that way.
 - **Lettering (§XII.1d) counted:** 1 caps line (**"YOUR NAME IS YOUNGSOO. SAY IT BACK TO ME."**, shouted over the Floor 6 alarm); 1 uneven set (`N o t e d .   N o   a c t i o n   r e q u i r e d .`, printed by the archive office terminal); 2 shaky (`"Y-youngsoo."`, `"I— I have three things my mother told me."`); 2 broken (the comms line `"we have sev— seven— seventeen on the east st—"` and Youngsoo's `"it keeps— it's coming through the—"`). The uneven set and both broken lines are invented documents and a body failing; **none of them touches a line the Part files word for word.**
-- **Asymmetry (§XII.1d) measured twice:** per scene with more than six paragraphs, and across the whole narrative body — **0 triples** in both runs (no three consecutive paragraphs within fifteen percent of each other in length), 134 narrative paragraphs, 16 of them five words or fewer, and every qualifying scene contains at least one.
+- **Asymmetry (§XII.1d) measured twice:** per scene with more than six paragraphs, and across the whole narrative body — **0 triples** in both runs (no three consecutive paragraphs within fifteen percent of each other in length), 135 narrative paragraphs, 16 of them five words or fewer, and every qualifying scene contains at least one.
 - No childhood, family, birthplace or reason for entering the Keepers is invented. No name is given to the Head Keeper or to any Floor 6 subordinate. No date, consent procedure or cause is invented for the Cryogen reconstruction.
 - Day 145's office exchange is deliberately not retold: file 01 owns it; this file records only the discovery, the handling log and the transcription.
-- Labels obey §XII.1a and §XII.1e — no post is used as a label; `[him]` and `[unknown]` carry the unnamed posts, `[the Head Keeper]` carries an office whose name the corpus does not hold, and the single `[Marjuk, the Archive Lead]` sits at the hinge where a citizen asks him who he is. `[Youngsoo]` appears only after the page names him.
+- Labels obey §XII.1a, §XII.1e and §XII.1f. No bare post is a label: `[him]` carries the Keeper instructor and `[unknown]` the comms officer. `[the Head Keeper]` carries an office whose name the corpus does not hold. `[DOCTOR-NAMH]` is the file's single composite title — caps, hyphen, the masculine inflection of a shared post, never spoken and never used in narration. The single `[Marjuk, the Archive Lead]` sits at the hinge where a citizen asks him who he is, and `[Youngsoo]` appears only after the page names him.
 - Table rows close with a pipe; no Act, Chapter or Part label inside a scene; no report scaffolding inside the narrative; canonical dossier unchanged.
 
 ### Continuity note

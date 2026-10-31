@@ -591,7 +591,7 @@ In-world transcripts, logs, terminal output, and forms may use their native docu
 
 A speaker who has no personal name in the record is **not labelled with a profession.** A trade reads like a name on the page, and it implies a personnel entry the record does not contain. Use the pronoun instead:
 
-> **Amended 2026-11-01.** The ban is on **posts**, not on **offices**. A medic, a cook, an engineer or a clerk keeps `[she]`, `[him]` or `[unknown]`. An office the world is organised around — *the Director*, *the Head Keeper*, *the Archive Lead* — is a different object, and where the story turns on it the title is required rather than forbidden. §XII.1e governs the three forms and the test.
+> **Amended 2026-11-01.** The ban is on **posts**, not on **offices**. A medic, a cook, an engineer or a clerk keeps `[she]`, `[him]` or `[unknown]`. An office the world is organised around — *the Director*, *the Head Keeper*, *the Archive Lead* — is a different object, and where the story turns on it the title is required rather than forbidden. §XII.1e governs the three forms and the test; §XII.1f governs the composite title (`[DOCTOR-NAMH]`), which exists for a shared post that has no name to hang on it.
 
 ```text
 [she] He read the directive before he signed it. I want that in the record.
@@ -749,6 +749,49 @@ Five devices. Each is a meaning, not a mood, and each has a cap, because a devic
 3. **One form at a time per speaker.** A change of form is a change of standing, and the narration has to mark it — a speaker moving from `[Marjuk]` to `[Marjuk, the Archive Lead]` inside a scene has stepped into the office, and the page says so. Drifting back and forth without a marked moment reads as a continuity error.
 4. **The office must be in the story, not only in the label.** A title on a line whose content any clerk could have delivered is decoration. If the office matters, the line has to be one only that office could say — an order, an absolution, a refusal in the name of the institution.
 5. **The mixed form is capped at one per file.** It marks the hinge. Two of them turn a signature into a tic.
+
+### XII.1f Composite titles — the hyphen label
+
+**Stated by the archive owner, 2026-11-01:** *"I MEAN THE THING LIKE CREATING TITLE NAME E.G. [DOCTOR-NAM]/[DOCTOR-YEO] BUT The NAM/SEO Need To Be Upscale So It Was Not Read As Name But Gendring of the Title You Now The P.S. Ways Of Creating Title From Mixing Language Like SOMNARAK, Remember This Is A Fantasy World."*
+
+A shared office needs a way to say **which one** without inventing a person. The city's answer is a **composite title**: a plain-tongue office word welded to a bound classifier from the older layer, set in full caps, joined by a hyphen.
+
+```text
+[DOCTOR-NAMH]   the doctor at the masculine end of the post
+[DOCTOR-YEOH]   the doctor at the feminine end of the post
+```
+
+**Why the classifier is not the plain word.** Written plain, `-NAM` and `-YEO` are read as names before they are read as grammar, and the archive already collides with them: **Seo** is a filed surname (§ Korean Family Names, #13), **Yeo Do-Hee** is a filed person — Grand Mistress Weaver of the Jikjo Veil-Works — and **Yeoul** is a filed given name in the special list. A label that can be mistaken for a colleague is not a title.
+
+**The upscale is the house's own habit, applied to grammar.** Somnarak's older layer spells with a terminal **-h**: *Consolihan*, *Ferrehan*, *Viderehan*, *Flerehan*, *Nareumhan*, *Mugenhan*. The registry already blends Korean roots with Latin and English endings — *Hanulya*, *Eunaris*, *Purunis*, *Yeoullo* — and it names the method: the Korean element carries the root, the borrowed element carries the ending. The classifier does the same thing one step down — Korean root, archaic terminal:
+
+| Classifier | Root | Terminal | Reads as |
+|---|---|---|---|
+| **-NAMH** | 남 *nam*, the masculine end | archaic `-h` | the masculine inflection of an office — never the surname *Nam*, never a given name |
+| **-YEOH** | 여 *yeo*, the feminine end | archaic `-h` | the feminine inflection of the same office — never *Yeo*, never *Yeoul*, never *Yeo Do-Hee* |
+
+**Caps do the rest.** The whole label is set in capitals — `[DOCTOR-NAMH]`, not `[Doctor-Namh]` — because a capitalised compound reads as a title and a mixed-case one reads as a person. The hyphen is not a space: `NAMH` cannot stand on its own, cannot be said to a person's face, and never appears in narration as a subject. Prose says *the doctor at the table*, not *Namh said*.
+
+**When a file may use it.** Four conditions, all of them:
+
+1. The holder **has no name** in the record.
+2. The post is **shared** — other unnamed holders of the same post exist in the world, so the reader needs to know which end of the post this one stands at.
+3. The record **needs the distinction**: two holders of one post appear, or the paperwork itself files them apart.
+4. §XII.1e has already been tested and failed — there is no unique office to name the holder by.
+
+**When a file may not.** A composite is never decoration, never a caste, and never a way to avoid the registry. It is not used for a named character, not used for a unique office (`[the Head Keeper]` needs no classifier — there is one), and not used where a pronoun already reads cleanly. **Cap: three per file.**
+
+**The person may correct the record's grammar.** If a holder speaks to it, the correction is honoured in the same exchange — the label is the record's grammar, not a verdict on the person — and the label changes from that line forward, with the change marked in the narration. A file that files someone against their stated word and never says so is not permitted.
+
+**The pair is closed.** `-NAMH` and `-YEOH` are the whole inventory. A third classifier is a language change, not a formatting choice, and only the owner files one. A holder whose sex the record does not file, or to whom neither end applies, takes the office alone under §XII.1e — **abstention is always available and never a gap.**
+
+**And it never touches the Names.** The Doorspeech record states it flatly:
+
+> *No two Names share a suffix, prefix, or construction pattern — they are not built from a template, because they were never built.*
+
+Composite titles are the opposite by design: a bureau can weld a title onto a person in an afternoon, and that is what a bureau is for. The Door's word cannot be manufactured. The two systems must never be described in each other's terms, and no Echo-Core Name is ever parsed as `office + classifier`.
+
+**Worked example — file 07.** The Cryogen reconstruction was a team, and the record holds none of their names. The one who answers for the body is the surgeon who did the spine, and the file labels him `[DOCTOR-NAMH]` — a post with a person behind it and no name on it — while the comms officer on the dead channel stays `[unknown]`, because there is no second officer to tell him apart from and no distinction the record needs.
 
 ### XII.2 Documents
 

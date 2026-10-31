@@ -121,7 +121,9 @@ The dialogue rule banned the profession as a label and over-corrected. A scene a
 - **A post is not an office.** Medic, cook, engineer, clerk, specialist, warden and envoy keep `[she]`, `[him]` or `[unknown]`. The test is whether the world is organised by the office.
 - **A title never replaces a name the corpus holds,** one form holds at a time for each speaker with any change of standing marked in the narration, and the mixed form is capped at one per file.
 
-The full statement, with the worked example and the five hard limits, is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1e**.
+**Composite titles.** Where a post is shared and no name exists to hang on it, the title may be welded to a bound classifier and set in full caps: `[DOCTOR-NAMH]` (masculine end), `[DOCTOR-YEOH]` (feminine end). The plain forms `-NAM` and `-YEO` are not used — they read as names, and the archive already files *Seo* as a surname, *Yeo Do-Hee* as a person and *Yeoul* as a given name. The classifier takes the house's archaic terminal `-h` (as in *Consolihan*, *Ferrehan*, *Nareumhan*), never stands alone, is never spoken to a person's face, and never appears in narration. A unique office needs no classifier. A record that files no sex writes the office alone.
+
+The full statement, with the worked examples and the hard limits, is `SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md` **§XII.1e** (name, rank, form of address) and **§XII.1f** (composite titles).
 
 ### Measured, not asserted
 
