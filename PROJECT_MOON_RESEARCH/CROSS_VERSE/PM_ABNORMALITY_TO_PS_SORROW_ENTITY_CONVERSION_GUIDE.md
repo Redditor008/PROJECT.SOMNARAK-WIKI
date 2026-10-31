@@ -8,7 +8,7 @@ This guide converts a Project Moon Abnormality into a Somnarak Sorrow Entity, an
 
 1. **Decide the substance.** An Abnormality is made of Cogito and held in a cell; a Sorrow Entity is made of Han and lives in a world. Nothing below works until that swap is made.
 2. **Set the scale.** Read the PM risk level, take the Coherence and Potency ranks from the matrix, and confirm the durability tier.
-3. **Carry the body across.** Damage types, resistances, work responses, counters and equipment each have their own section, in that order.
+3. **Carry the body across.** Damage types, resistances, work responses, the three trigger systems and equipment each have their own section, in that order.
 4. **File the designations.** The LC code becomes an alias; the SECC code is built from Somnarak fields. Section III.3 governs.
 5. **Run the checklist.** Section XI is the sign-off. A conversion that fails a line is not finished, whatever it looks like.
 
@@ -247,33 +247,36 @@ The box is the whole rule; the four points below are what it costs to break it.
 
 ## Section VII: Meltdowns, watches and breach metamorphosis
 
-### VII.1 Qliphoth Counter → Activation Threshold
+### VII.1 Three triggers, not two — [N], [X], and Activation
 
-The Activation Threshold **is** the Qliphoth Counter. A dossier that lists a threshold of 2 has a counter of 2, and it runs down the same way: one step for each failed or refused cycle, with zero as the activation or breach. There is no inversion, no re-derivation and no step-size arithmetic between them.
+L Corp's counter display carries **three** trigger systems and admits to one of them.
 
-The Sorrow Gauge is a **different mechanic**, and the common mistake is to treat the two as one machine read from opposite ends. The Gauge is a continuous read of how the entity is disposed toward the work — what it will tolerate, what it resents, what it is hungry for. Work outcomes move it because they move the entity, not because they are counting anything down. Saturation is a pressure event. It is not the counter emptying.
+- **Counter [N]** — a numeral, and the ability fires when it runs out. **Old Lady** (O-01-12) displays 4, and that single numeral is moved by two unrelated systems: it drops by one whenever work on any other Abnormality in the facility finishes, and it rises by one on her own Good or Normal results. One display, two drivers, neither of them visible on the counter.
+- **Counter [X]** — the display shows X, and the game's own text glosses that as *not using a counter*. That gloss is wrong. **Bloodbath** (T-05-51) shows X and still counts: every employee dragged into the tub raises a visible hand, three hands mean the next work kills instantly regardless of level, and a kill resets the tally. The entity is counting. It is simply not counting where you can see it. This hidden tally is what the Codex calls **Special Activation**.
+- **Activation** — a condition with no tally at all. An employee of a given stat enters, a mood is met, a timer expires. Nothing accumulates.
 
-There is exactly one place where the Gauge stands in the counter's position: when the native counter displays **X** instead of a numeral. An `X` counter is a state rather than a tally, and on those entities the disposition is the whole mechanism, so the Gauge percentage is filed in the counter's place and no number is invented beside it (R-07).
+The conversion keeps the three apart.
 
-| Native counter | Somnarak mechanism | Filing rule |
+| L Corp | Somnarak | Rule |
 |---|---|---|
-| **A numeral** (0–5, and any counter that can be counted) | **Activation Threshold**, same number | Runs down one step per failed or refused cycle; zero is activation. Triggers are quoted: bad work results, named conditions, timers, deaths — whichever the native files |
-| **`X` instead of a numeral** | **Sorrow Gauge**, percentage only | A state, not a tally. File the percentage as the whole mechanism and leave the threshold row empty and honest (R-07) |
-| **No counter filed** | Nothing is built | Activation-only entity. An empty counter is a property of the entity, not a gap to be filled |
+| **Counter [N]** | **Activation Threshold** | Same number, same direction, same drivers. A 4 becomes a 4 and runs down for the reasons the native gives |
+| **Counter [X]** — the Special Activation tally | **Sorrow Gauge**, percentage | The hidden count is real, so it converts as a gauge: it accumulates, it reads as a percentage, and it fires at its filed activation percentage |
+| **Activation** — condition, no tally | **Activation** | Filed as a condition, with no number invented beside it. Nothing accumulates, so nothing is given a meter |
 
-Four rules keep the pair honest.
+Five rules follow.
 
-- **No inversion.** A native counter that falls on bad work does not become a Gauge that rises. It becomes a Threshold that falls on bad work. Direction is copied, not flipped.
-- **The Gauge is not a counter channel.** Work outcomes move the Gauge because the entity's disposition changes. They do not move the Threshold, and a Threshold-only entity never gains a Gauge because its counter was work-driven.
-- **Both on file.** Where a dossier carries a count *and* a percentage, activation is read twice over: a Gauge at or above the filed percentage fires regardless of the count, and the count expiring fires regardless of the Gauge. Neither reading overrides the other (R-06).
-- **Steps, not spikes.** The +30% to +50% backfire from Section VI stays the price of illegal work and never becomes a substitute counter mechanic.
+- **No crossing.** A numeral never becomes a percentage and a percentage never becomes a numeral. A counter of 4 is not "80% of five".
+- **An [X] entity is not counterless.** Filing `Counter: —` on Bloodbath because the display shows X is the exact error the entity exists to refute. It has a counter; the game put it somewhere else.
+- **Two drivers stay two.** Where a numeral is moved by both the facility and the entity, both are written down as they are, even where one of them is not the entity's business.
+- **Both live.** Where a native files a numeral and a hidden tally together, either may fire, and neither overrides the other (R-06).
+- **No inversion, no step arithmetic.** Direction is copied. A counter that falls on bad work becomes a threshold that falls on bad work.
 
-Two carry-overs remain from the counter's own behaviour.
+Two carry-overs remain.
 
-- **Reset is per mechanism.** The count resets only where the native record resets its counter; a cumulative count that never resets converts as a permanent tally and stays permanent. A Gauge returns to its filed baseline by its own rule.
+- **Reset is per mechanism.** A [N] count resets only where the native resets it, and a cumulative tally that never resets stays permanent. The gauge returns to its filed baseline by its own rule.
 - **Meltdown-marked becomes Watch-marked.** A unit selected by Qliphoth Meltdown converts to a Watch-marked entity under VII.2, because the Watches supply the tidal pressure the meltdown rotation supplied inside the facility. A Watch-mark lifts the two-work-type law in neither archive.
 
-**Tool-use counters are Threshold mechanisms.** Use counts, charge timers and once-a-day operations convert one for one, figures verbatim — the Train's four lights are the native shape. A single-use native enters the A-Relic class with its consumption intact. Read-only tallies (a count of faces already learned) are Basic-Info statistics and Threshold *evidence*; the conversion does not turn a memorial into a meter.
+**Tool-use counters are [X]-class or [N]-class, never free-floating.** Charge counts, timers, per-day uses and single-use consumption convert with figures verbatim — the Train's four lights are the native shape. Read-only tallies (a count of faces already learned) are Basic-Info statistics and evidence, not meters.
 
 Full both-direction coverage of every system this guide touches is certified in **Appendix A of the Universal Table** (Conversion Integrity Matrix).
 
@@ -437,7 +440,7 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 |                   weight classes                                       |
 | 10. RE-QUOTA     : Archive maintains at least 25.0% Relic-Entity       |
 |                   balance                                              |
-| 11. COUNTER      : Threshold IS the counter, one for one; the Gauge    |
-|                    is disposition, or the X stand-in; counts filed     |
+| 11. COUNTER      : Three triggers: [N] numeral to Threshold,           |
+|                    [X] tally to Gauge, condition to Activation         |
 +========================================================================+
 ```

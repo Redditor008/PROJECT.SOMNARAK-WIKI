@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Correction — three triggers, not two: [N], [X], and Activation (2026-11-01)
+
+The owner pointed at Old Lady and Bloodbath, and the two-class model broke. L Corp's counter display carries **three** trigger systems and only admits to one.
+
+- **Counter [N]** is the numeral. **Old Lady** (O-01-12) displays 4, and that single numeral is moved by two unrelated systems: work completed on any other Abnormality takes it down, her own Good or Normal results put it up. One display, two drivers, neither of them visible on the counter.
+- **Counter [X]** is the display showing `X`, which the game glosses as *not using a counter*. That gloss is false. **Bloodbath** (T-05-51) shows `X` and counts anyway: every employee pulled into the tub raises a hand, three hands kill the next worker outright, a kill resets the tally. The hidden tally is the **Special Activation** counter — a counter the interface declines to draw.
+- **Activation** is a condition with no tally at all: a stat, a mood, a timer, an entry. Nothing accumulates.
+
+The conversion now keeps three apart instead of two. `[N]` becomes the **Activation Threshold**, same number and same direction, with the native's drivers quoted one for one — including a driver that belongs to the facility rather than the entity. An `X` hidden tally becomes the **Sorrow Gauge** as a percentage, because a tally that exists cannot be filed as `Counter: —`; that was the error Bloodbath refutes. A condition with no tally stays **Activation**, with no meter and no invented number.
+
+- **Files corrected.** `PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` §VII.1 rewritten a second time, with both natives cited, and its Section XI checklist line and load-in step replaced; `PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` Chapter 4 block, intake-matrix row, breach-mapping pair, the duplicated mapping table and the third breach-trigger row; both comparison copies at the gateway and in `CROSS_VERSE/`; `SOMNARAK_LCORP_RD_RISK_PARALLEL.md` derivation order and reverse index.
+- **Supersedes the previous entry, which was right about direction and wrong about count.** The Threshold-as-counter half of that correction stands. The claim that an `X` is the *only* other case, and that everything else is a condition, is what this entry replaces.
+- **Checks:** `seam_lint` 1,767 · `label_lint` 301 · `timeline_lint` 1,800 · `check_links` 3,994 / 0 broken · `audit_lore_archive` PASS · text-box symmetry PASS · `git diff --check` clean.
+- **[P]** Remaining: the Day 53 double exposure between 01 and 03; the `The Break` heading question for 01–06; the station and return rulings for 09; the Solidification dating; the two flagged counts.
+
 ## Correction — the Threshold is the counter; the Gauge is not (2026-11-01)
 
 The owner corrected the conversion law I had been printing. The Activation Threshold **is** the Qliphoth Counter, one for one. The Sorrow Gauge is a different mechanic — how the entity is disposed toward the work — and it stands in the counter's place only where the native counter shows **X** instead of a numeral.

@@ -739,28 +739,28 @@ Tier is set by the owner's **Threat Score** — read from the transformation tab
 - **Counters** are set from the dossier's Activation Threshold, which is the counter itself, per the Counters subsection below. Where the native counter is shown as `X` rather than a numeral, the Gauge percentage stands in its place. An SE may file a count, a percentage, both, or neither (**Counter: —**); the tier band above bounds the value where one is filed, and every condition that moves the count is quoted from the dossiernnel is named from the dossier (a denial published, a resemblance introduced, a gaze sustained), never "random".
 - **Work favorability** is translated from the dossier's own Behavior table: Gauge *Decrease* → the analog work is favored; *Stable* → Common; *Increase* → disfavored and normally locked by management rule; *N/A* → prohibited under the Two-Work-Type Law (Section IV). Outcome ranges are then set inside the tier's PE band.
 
-#### Counters — the Threshold is the counter; the Gauge is not
+#### Counters — three triggers, not two ([N], [X], Activation)
 
-**P.S. files two mechanisms, and they are not two ends of one machine.** The Activation Threshold is the Qliphoth Counter, one for one. The Sorrow Gauge is a separate read of how the entity is disposed toward the work. Treating the pair as one machine read from opposite ends is the most common conversion error, and this section exists to prevent it.
+**L Corp's counter display carries three trigger systems and admits to one of them.** The numeral, the hidden tally behind an `X`, and the plain condition are different machines, and this Table converts each on its own line.
 
-- **Activation Threshold = the counter.** A dossier listing `2` has a counter of 2 (R-06). It runs down one step per failed or refused cycle, and zero is activation or breach. Triggers are quoted from the dossier: bad work results, a named condition, a timer, a death in the unit.
-- **Sorrow Gauge = disposition toward the work (0–100%).** A continuous read of what the entity tolerates, resents, or is hungry for. Work outcomes move it because they move the entity, not because they count anything down. Saturation is a pressure event; it is not an empty counter.
-- **The `X` exception.** Where the native counter displays `X` instead of a numeral, the disposition is the whole mechanism: the Gauge percentage is filed in the counter's place and no number is invented into an empty threshold row (R-07).
-- **Both.** Where a dossier files a numeral and a percentage, activation is read twice over — Gauge at or above the percentage, or count at zero. Neither reading overrides the other (R-06 pairing).
+- **Counter [N]** — a numeral, firing when it runs out. **Old Lady** (O-01-12) shows 4 and that one numeral is driven by two unrelated systems: work completed on any other Abnormality in the facility takes it down, her own Good or Normal results put it up. One display, two drivers.
+- **Counter [X]** — the display shows `X`, which the game glosses as *not using a counter*. It is not true. **Bloodbath** (T-05-51) shows `X` and counts anyway: each employee pulled into the tub raises a hand, three hands kill the next worker outright, a kill resets the tally. The hidden tally is the **Special Activation** counter.
+- **Activation** — a condition with no tally: a stat, a mood, a timer, an entry. Nothing accumulates.
 
 | Dossier files | Qliphoth conversion |
 |---|---|
-| **Threshold numeral** | Counter identical to the number, one step down per failed or refused cycle; triggers quoted verbatim |
-| **Percentage only**, or a counter shown as `X` | No number invented. The percentage is the whole mechanism, and the empty counter row is a property of the entity (R-07) |
-| **Both numeral and percentage** | Both live; activation on whichever completes first; interlocks quoted, never simplified into one meter |
-| **Neither** | **Counter: —**; activation-only entity, special rules as filed (Kind Echo precedent, Section VIII) |
+| **Counter numeral [N]** | **Activation Threshold**, identical number and direction, with the native's drivers quoted one for one — including drivers that belong to the facility rather than the entity |
+| **Counter shown as `X`** with a hidden tally | **Sorrow Gauge**, percentage. The hidden count is real and converts as an accumulating read; `Counter: —` is wrong on these entities |
+| **`X` with no tally at all** | **Activation** only. The percentage is carried where the dossier already files one (R-07), and no number is invented |
+| **Condition, no counter** | **Activation**, condition quoted verbatim. Nothing accumulates, so nothing is given a meter |
+| **Numeral and hidden tally together** | Both live; either fires; neither overrides the other (R-06) |
 
-- **Direction discipline.** The count copies the native direction. Nothing is flipped: a counter that falls on bad work becomes a threshold that falls on bad work, never a Gauge that rises.
-- **No Gauge channel.** A work-driven native counter does not become a Gauge. The Gauge is only ever the disposition mechanic, or the `X` stand-in for a counter that has no number.
-- **Reset.** The count resets only where the dossier resets it; a permanent tally (learned faces) stays permanent in either archive. The Gauge returns to its filed baseline by its own rule. Suppression alone resets neither mid-event.
+- **No crossing.** A numeral never becomes a percentage, and a percentage never becomes a numeral.
+- **Direction is copied.** A counter that falls on bad work becomes a threshold that falls on bad work, never a Gauge that rises.
+- **Reset is per mechanism.** The `[N]` count resets only where the dossier resets it; a cumulative tally that never resets stays permanent. The Gauge returns to its filed baseline by its own rule. Suppression alone resets neither mid-event.
 - **Meltdowns.** Converted units enter the facility meltdown rotation like natives; the Heavy Han Density of Section I.3 raises the *global* meltdown rate, priced as a facility cost of housing SEs at all. A meltdown on a non-Subject SE does **not** lift the Two-Work-Type Law, and on a threshold-only unit it is answered by standing watch over its conditions, not by pressure work. Completed meltdown work discharges the meltdown.
-- **Tool use counters are Threshold mechanisms**: charge counts, charge-up timers (the Train's four lights are the native shape), per-day uses, and single-use consumption (Chapter 8, Tool Use Shapes and Relic Classes) convert one for one with figures verbatim. Read-only dossier **tallies** — counts of things that have already happened, such as the learned-face count of 61 — are Basic-Info statistics and Threshold *evidence*; Extraction does not turn a memorial into a meter.
-- **Degree read.** Degree I: every filed mechanism live as derived here. Degree II: mechanisms live only as the dossier files them, under LC names. Degree III: both remain Somnarak-side (Preface table).
+- **Tool use counters are [X]-class or [N]-class**, never free-floating: charge counts, charge-up timers (the Train's four lights are the native shape), per-day uses and single-use consumption convert with figures verbatim (Chapter 8, Tool Use Shapes and Relic Classes). Read-only dossier **tallies** — the learned-face count of 61 — are Basic-Info statistics and Threshold *evidence*; Extraction does not turn a memorial into a meter.
+- **Degree read.** Degree I: every filed mechanism live as derived here. Degree II: mechanisms live only as the dossier files them, under LC names. Degree III: all three remain Somnarak-side (Preface table).
 
 ### Master Statistical Intake Matrix
 
@@ -773,7 +773,7 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 | HP | Sorrow Gauge [HP] | `ceil(Gauge × tier HP multiplier)` | Base checked against its dossier tier band; flag outside with the arithmetic shown, never rescale silently |
 | Work damage | Han Pressure [ATK] + Element | `ceil(Pressure × filed ATK multiplier)`; Element → color | One multiplier inside the tier range is chosen and filed at intake |
 | PE-Boxes | Han Yield + Risk tier | Tier PE band for physical count; `ceil(N × (0.88 + 0.12d))` for PE-equivalent quota value | No 1:1 exchange rate; file the dense-fraction factor `d` once (×2.0–×2.5) |
-| Qliphoth Counter | Activation Threshold numeral, or the Gauge percentage where the native counter shows `X` | Chapter 4 counter derivation; operations in Chapter 6 | The threshold is the counter one for one; the Gauge stands in only for an `X` counter; an absent counter stays absent |
+| Qliphoth Counter | Activation Threshold numeral `[N]`, the Sorrow Gauge percentage for an `X` counter's hidden tally, or Activation where there is no tally at all | Chapter 4 counter derivation; operations in Chapter 6 | Three triggers kept apart: a numeral stays a numeral, a hidden tally becomes the Gauge, a condition stays a condition; nothing is invented on a blank counter |
 | Work favorability | Behavior table by discipline | Outcome translation in Chapter 5 | Default Common; High/Low only where Behavior files a reason |
 | Breach movement | Speed, range, skills, body plan | Chapter 7 movement profile | Stats do not scale with presented size |
 | Damage riders & resistances | Element effects; defensive record | Chapter 7 transcription in color order | Riders as filed; entity Resistance percentages convert to damage-taken multipliers, while already-filed multipliers stay verbatim |
@@ -1133,8 +1133,9 @@ The phases above are worked on the Maw, but the conversion of *abilities* is gen
 | **Breach Type: Corrupt** | **Corrupting Breach** | Entity damages the facility/containment |
 | **Breach Type: Transform** | **Transformation** | Entity changes form, escalates |
 | **Breach Type: Cascade** | **Cascading Breach** | Triggers other entities to breach |
-| **Sorrow Gauge** reaching its filed activation % | **Qliphoth Counter** reaching 0, `X`-counter entities only | Entity-codex register: where the native counter has no numeral, the Gauge % is the counter's whole mechanism and its completion point. Where a numeral exists, the numeral governs |
-| **Activation Threshold** fulfillment | **Qliphoth Counter** reaching 0 | The threshold *is* the counter, one for one: same number, same direction, same triggers. It is never read as a Gauge percentage, and a numeral is never converted into one |
+| **Sorrow Gauge** reaching its filed activation % | **Counter [X]**'s hidden tally completing | Where the display shows `X` over a working tally (Bloodbath's three hands), the Gauge % is that tally's completion point. Where a numeral exists, the numeral governs and the Gauge does not answer for it |
+| **Activation Threshold** fulfillment | **Counter [N]** reaching 0 | The threshold *is* the numeral, one for one: same number, same direction, same drivers. Never read as a Gauge percentage |
+| **Activation** (condition met) | no counter at all | A named condition with no tally. Filed verbatim, with no meter and no invented number |
 | **Sorrow Tide** (nightly Han surge) | *(crisis-escalation analogue only)* | Facility-facing pressure reads through the Han-Density Gauge and Ordeal Times (Tide Watch at surge peak), not a countdown meltdown |
 | **Ordeals** | **Timed Ordeals** (crisis-cadence analogue) | Mortal Han manifestations spawning inside Facility 01 (5 Colors × 4 Times; Han-Density thresholds) |
 | **Instant Fracture** (dossier-filed ability outcome) | **Instant Death** (output read) | Converts only where the dossier itself files an instant soul-break; the target is removed by Fracture completion, not by damage. Never a property of Potency grade or Risk Level alone |
@@ -1147,8 +1148,9 @@ The phases above are worked on the Maw, but the conversion of *abilities* is gen
 | **Breach Type: Corrupt** | **Corrupting Breach** | Entity damages facility/containment |
 | **Breach Type: Transform** | **Transformation** | Entity changes form, escalates |
 | **Breach Type: Cascade** | **Cascading Breach** | Triggers other entities to breach |
-| **Sorrow Gauge** reaching its filed activation % | **Qliphoth Counter** reaching 0, `X`-counter entities only | Entity-codex register: where the native counter has no numeral, the Gauge % is the counter's whole mechanism and its completion point. Where a numeral exists, the numeral governs |
-| **Activation Threshold** fulfillment | **Qliphoth Counter** reaching 0 | The threshold *is* the counter, one for one: same number, same direction, same triggers. It is never read as a Gauge percentage, and a numeral is never converted into one |
+| **Sorrow Gauge** reaching its filed activation % | **Counter [X]**'s hidden tally completing | Where the display shows `X` over a working tally (Bloodbath's three hands), the Gauge % is that tally's completion point. Where a numeral exists, the numeral governs and the Gauge does not answer for it |
+| **Activation Threshold** fulfillment | **Counter [N]** reaching 0 | The threshold *is* the numeral, one for one: same number, same direction, same drivers. Never read as a Gauge percentage |
+| **Activation** (condition met) | no counter at all | A named condition with no tally. Filed verbatim, with no meter and no invented number |
 | **Sorrow Tide** (nightly Han surge) | *(crisis-escalation analogue only)* | Facility-facing pressure reads through the Han-Density Gauge and Ordeal Times (Tide Watch at surge peak), not a countdown meltdown |
 | **Ordeals** | **Timed Ordeals** (crisis-cadence analogue) | Mortal Han manifestations spawning inside Facility 01 (5 Colors × 4 Times; Han-Density thresholds) |
 | **Instant Fracture** (dossier-filed ability outcome) | **Instant Death** (output read) | Converts only where the dossier itself files an instant soul-break; the target is removed by Fracture completion, not by damage. Never a property of Potency grade or Risk Level alone |
@@ -1158,7 +1160,7 @@ The phases above are worked on the Maw, but the conversion of *abilities* is gen
 | Crisis Metric | Lobotomy Corporation | Project Somnarak | Updated Canonical Mechanics |
 |---|---|---|---|
 | **Facility Emergency** | **Qliphoth Meltdown** — Red alert sirens; countdown timers on random containment cells. | **Han-Density Gauge & Ordeal Times (사경)** — free-Han concentration crosses filed bands (Elevated 21–40% / Critical 41–60% / Overload 61–80% / Cascading 81–100%); a Color-and-Time warning precedes manifestation. | Facility 01 crisis taxonomy is tripartite — Ordeals (spawned, mortal), Sorrow Entity breaches (contained uniques), Echo-Core Realizations (floor-lead crises). A timed Ordeal is not a cell countdown. |
-| **Breach Trigger** | **Qliphoth Counter** drops to 0 — driven by work results, named conditions, or both, per Abnormality. | **Two distinct mechanisms:** **Sorrow Gauge** saturation (100%, continuous work-driven pressure) **or Activation Threshold** fulfillment (discrete filed conditions — counts, states, spreads). An SE may file either or both. | Containment fails when the counter empties, the Gauge saturates, or the threshold set completes — whichever channel the entity carries reaches its end first. Conversion law: Universal Table §III Counters. |
+| **Breach Trigger** | **Qliphoth Counter** drops to 0 — driven by work results, named conditions, or both, per Abnormality; some display `X` over a hidden tally, and some have no tally at all. | **Three:** **Activation Threshold** (`[N]` numeral), **Sorrow Gauge** (the `[X]` hidden tally as a percentage), **Activation** (a condition with no tally). | Containment fails when the counter empties, the Gauge saturates, or the threshold set completes — whichever channel the entity carries reaches its end first. Conversion law: Universal Table §III Counters. |
 | **Standard Breach** | Entity breaks door, enters hallway, and attacks employees. | Breaching Subject roams corridors along Range Bands. | Requires tactical suppression squads to intercept and pacify on the 10-node spatial grid. |
 | **Special Transform Breach** | Not present (breached entities keep same code/form). | **Place-to-Subject Metamorphosis** (e.g. *The Maw* `C-IVω-001 [GP]` → `C-IVω-001-B [GS]`). | District/Place entities detach from the bedrock, transforming into mobile breaching colossi. |
 
