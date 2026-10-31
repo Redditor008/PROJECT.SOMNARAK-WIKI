@@ -34,8 +34,8 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 | Primary Energy Source | Enkephalin (PE/NE) | Han-Energy |
 | Entity Classification | Abnormalities | Sorrow Entities |
 | Threat Hierarchy | ZAYIN to ALEPH | Coherence I–V + Potency α–ω, filed by Threat Score |
-| Containment discipline (facility plane) | 4 Works (All Units) | 4 Han Work Types (2 locked for inanimate; 4 for Subjects; Hybrids by component) |
-| Inanimate Restriction | Unrestricted | 2 Works (Vid/Fer) |
+| Containment discipline (facility plane) | 4 Works (All Units) | 4 Han Work Types (2 locked for Object/Place/Time/Hazard; 4 for Subjects; filed composites by attested component) |
+| Non-Subject Restriction | Unrestricted | 2 Works (Vid/Fer) |
 | Damage Spectrum | RED/WHITE/BLACK/PALE | Grudge/Lament/Weight/Void |
 | Crisis Mechanics | Qliphoth Meltdowns & timed Ordeals | Han-Density Gauge → Ordeal Times (First/Second/Third/Tide Watch) |
 | Breach Dynamics | Corridor breach and roam | Roam / occupy by Range Band; Place Metamorphosis only where filed |
@@ -182,15 +182,22 @@ Lobotomy Corporation ranks Abnormalities through a five-tier Hebrew risk scale. 
 - **Object `[O]`:** Inanimate items, artifacts, relics, or tools.
 - **Place `[P]`:** Structural chambers, cursed rooms, territorial environments, or localized spatial rifts.
 - **Time `[T]`:** Temporal anomalies, looped moments, or chronometric disturbances.
-- **Hybrid `[H]`:** Entities filing multiple manifestation types at once (e.g. Subject–Place); housed and worked component by component. (`[H]` reads **Hybrid** in the SECC code list.)
+- **Hazard `[H]`:** A condition or environmental effect—field, volume, weather, shared state, or pressure—rather than a discrete roaming body.
+- **Filed composites:** A slash label or a dossier's expressly spelled “Hybrid” presentation is not the `[H]` code. House and work the actual body or attested components from the dossier's Manifestation, Physical Form, Appearance, Behavior, and event lines.
+
+The spelled **Manifestation** label adds one of ten Form Descriptors—Body, Lament, Grudge, Void, Weight, Phantasmal, Dream, Mind, Spirit, or Tale—to the physical type. It files narrative origin/nature, not a second Element, transport class, work permission, or breach body; Physical Form (Organic/Non-Organic/Mixed) remains separate.
 
 **Special Transform Breach (Place-to-Subject Metamorphosis):**
 In Lobotomy Corporation, breached entities exit containment and roam corridors while maintaining their physical form. In Project Somnarak, specific apex Place entities undergo structural metamorphosis upon containment failure:
 - Example: *The Maw* (`C-IVω-001 [GP]`), normally a stationary subterranean containment chamber, tears itself free from the surrounding rock stratum during breach, transforming into the mobile walking titan `C-IVω-001-B [GS]`.
 
+**Linked groups and chains (conversion):** members convert separately from their own dossiers. A group/chain label supplies no pooled work, counter, housing, synchronization, or fusion; a cross-entity trigger requires the member, trigger, scope, and reset to be filed in a member record, and a successor/fusion is a new intake only where its own dossier files a genuinely new entity.
+
 ### 5.2 Entity Record Structure
 
 The two archives do not have the same shape. A current L Corp record is a gated operating surface—Basic Info, Work Preferences, Management Tips, Escape Information, E.G.O, Story, and Flavor Text, with Tool Abnormalities using Ability plus interaction-amount **Log and Method** instead. A Sorrow Entity dossier is a fuller home archive whose sections must be read by function before any of them are compared:
+
+Catalog rows, operation-adversary tables, group/chain registers, and aggregate Tale/Testimony/Registrum copies are retrieval layers around that dossier. They do not replace its classification, Behavior, event, combat, or equipment fields; a generic enemy row becomes a conversion subject only when resolved by full designation to a whole SE dossier.
 
 | Record layer | Lobotomy Corporation | Project Somnarak | Filing relation |
 |---|---|---|---|
@@ -234,11 +241,11 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 
 ### 7.2 The Inviolable Two-Work-Type Rule (Non-Subject Entities)
 - **In Lobotomy Corporation:** Employees perform all four work types on almost all Abnormalities.
-- **In Project Somnarak:** All **Object (`[O]`)**, **Place (`[P]`)**, and **Time (`[T]`)** entities can **ONLY** be worked with **Viderehan and Ferrehan**. **Hybrid (`[H]`)** entities file component by component: the lock binds every inanimate component, and a filed Subject component is worked as a Subject.
+- **In Project Somnarak:** All **Object (`[O]`)**, **Place (`[P]`)**, **Time (`[T]`)**, and **Hazard (`[H]`)** entities can **ONLY** be worked with **Viderehan and Ferrehan**. A filed composite label is not `[H]`; distinct components are split only where the dossier itself files separate bodies or states and Behavior lines. If an individual Subject dossier expressly spells **Hybrid `[H]`**, its Subject body and Behavior table govern that record without changing the Hazard code or lock.
 - **Flerehan and Pugnahan are strictly `N/A`:**
-  * Inanimate objects, rooms, and temporal phenomena have no emotional consciousness to comfort (invalidating Flerehan).
-  * Inanimate relics and districts have no biological body or anatomical center to strike (invalidating Pugnahan).
-  * Performing Flerehan or Pugnahan on an inanimate SE causes automatic work failure and severe psychic backfire, driving whichever counter channel the dossier files (a Sorrow Gauge surge where a Gauge channel exists).
+  * Non-Subject objects, rooms, temporal phenomena, and environmental conditions have no emotional consciousness to comfort (invalidating Flerehan).
+  * Non-Subject relics, districts, and conditions have no biological body or anatomical center to strike (invalidating Pugnahan).
+  * Performing Flerehan or Pugnahan on a non-Subject SE causes automatic work failure and severe psychic backfire, driving whichever counter channel the dossier files (a Sorrow Gauge surge where a Gauge channel exists).
 
 ---
 
@@ -269,6 +276,8 @@ When SP or Composure reaches 0, the acute state follows the person's **highest p
 | **Justice ↔ Resolve** | **Shutdown / Open Containment Unit** — heads to counter-bearing units and bashes their doors to lower Qliphoth Counters | **Weight Sabotage (Containment Release)** — marches to containment cells and overrides emergency levers to release contained entities |
 
 Recovery has the same shape but not the same inputs. In L Corp, WHITE or BLACK damage dealt to a panicking employee restores the SP gauge; at full SP the employee returns to control, while BLACK still carries its HP component. The R.D. protocol strikes the panicked operative with Lament or Void M.A.W. until the mental damage equals their maximum Composure, purging the unvented Han and restoring full Composure before Fracture.
+
+Fracture itself is a person-scale course and outcome, not a fifth panic behavior: Quick, Slow, Partial, and Chronic courses can end in a Sorrow Entity, a living Fracture Zone, a surviving person with partial/chronic Fracture, or death. Only a resulting entity with its own SE dossier becomes an intake subject.
 
 ---
 
@@ -301,7 +310,7 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 | **Full Name** | **Extermination of Geometrical Organ** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
 | **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
 | **Grade Channel** | Each Weapon/Suit carries its own Risk Level, usually the source Abnormality's but not invariably; Gifts file slot, effect, and acquisition instead. | The entity's converted Risk derives from Threat Score, while each M.A.W. piece files its own Greek Grade. | Output Weapon/Suit Risk reads the piece's filed grade on the same ordinal (α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH) and may differ from the entity Risk; Stigma grade gives the Gift output no Risk Level. |
-| **Material & Mass Channels** | E.G.O appearance is filed per piece; Risk, attack/resistance profile, requirements, and special effects remain separate record fields. | The entity's **Material / signature** describes its body, while each M.A.W. piece separately files Type/form, Appearance, and profile; workshop construction belongs to non-M.A.W. artisan gear. A separate material-technology register distinguishes Before-Time Primordial Artifacts and Consolihan Crystallized Relics (Han Relics proper) from Extracted M.A.W. equipment. | Material text travels as appearance only. No resistance, speed, evasion, pulse, or bearer burden is derived from composition; explicit mass/weight-class mechanics remain in their named home AP ledger. Han Relic Class I–IV is custody threat/clearance, not Coherence, Risk, Tool class, or piece grade, and a named non-entity relic creates no E.G.O. |
+| **Material & Mass Channels** | E.G.O appearance is filed per piece; Risk, attack/resistance profile, requirements, and special effects remain separate record fields. | The entity's **Material / signature** describes its body, while each M.A.W. piece separately files Type/form, Appearance, and profile; workshop construction belongs to non-M.A.W. artisan gear. A separate material-technology register distinguishes Before-Time Primordial Artifacts and Consolihan Crystallized Relics (Han Relics proper) from Extracted M.A.W. equipment. Source Object, Place, Time, or Hazard manifestation does not assign an extracted piece a hand-held, wearable, or consumable form. | Material text travels as appearance only. No resistance, speed, evasion, pulse, or bearer burden is derived from composition; explicit mass/weight-class mechanics remain in their named home AP ledger. Han Relic Class I–IV is custody threat/clearance, not Coherence, Risk, Tool class, or piece grade, and a named non-entity relic creates no E.G.O. |
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Corrosion** — cumulative four-stage personality takeover from overuse, misuse, neglect, or emotional conflict; ordinary Stage 4 dominates the mind without transforming the body. | Acute SP collapse is Panic; Corrosion is slower bearer-history risk, not its synonym. |
 
 ---
@@ -397,7 +406,7 @@ In overarching campaign lore and narrative fiction, Project Somnarak adheres str
     - The Dawn Initiative and The Lantern's continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
     - The Horizon Caravan overland expedition to Mugeukji and Cheonbulok (`Jipyeongseondae`).
     - The Memory Archive floor realizations and retrieval of The Promise (`Gieok_Jeojangso`).
-    - The Wound Walkers pilgrimage across the seven crucible stations in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`).
+    - The Wound Walkers pilgrimage across the seven crucible stations in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`) — a post-containment practice of tending wounds, not an R.D. Work, suppression, or recovery method.
     - Continental reconstruction, external diplomatic expeditions, and global recovery. All operate in linear calendar years.
 
 ---
@@ -488,7 +497,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Angela (AI Coordinator)** | **Secretary Seiyon (세이연)** | Administrative-AI analogue only: Seiyon is the sole Secretary among the Nine Echo-Cores, a grief-awakened AI who administers daily operations, records and remembers all 1,778 iterations, and sounds the breach alarm. Seiyon is one mind under the Director, not a secretary assigned to every floor. |
 | **Agent** | **Absolver (  해원사   )** | Sworn elite field operative entering containment cells. |
 | **Clerk** | **Salt-Scrubber (  염초공   )** | Auxiliary personnel maintaining sanitation, brine drainage, and grates. |
-| **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Operated inanimate entities under strict Two-Work rules; body housing and use-shape are filed on separate axes. |
+| **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Operated non-Subject entities under strict Two-Work rules; body housing and use-shape are filed on separate axes. |
 | **Core Suppression** | **Core Realization (핵 진압)** | Floor-lead Core Crisis duel: suppress, ground, and Reclaim the Echo-Core Lead — no extraction; cleared Realizations persist across cycles (+10 to All Attributes, permanent floor buff). |
 | **The City** | **Somnarak City (  솜나락 도성   )** | City-to-city story slot, not equal world scale: The City is effectively PM's known human world, while Somnarak City is one Corner city on Mugenhan. |
 | **Backstreets** | **The Raw (  생경   )** | Internal poor/underworld geography: District Backstreets outside their Nests against Somnarak's Zone B-heaviest unmanaged Raw, its C–E pockets, and the subterranean B–D network; neither is the land beyond its city's walls. |
@@ -531,7 +540,7 @@ The systems compared above are indexed for conversion use in Appendix A of the U
 | ROADMAP SYSTEMS : 1,778 CYCLES / 6 WORKSHOPS / 5 SYNDICATES / 10       |
 | CADRES                                                                 |
 | 10,000 HP REWORK : STANDARD (150-1000 HP) / SOVEREIGN (10,000+ HP)     |
-| TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL INANIMATE TYPES        |
+| TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL NON-SUBJECT TYPES      |
 | STATUS           : INDEXED FOR CONVERSION USE (APPENDIX A)             |
 +========================================================================+
 ```

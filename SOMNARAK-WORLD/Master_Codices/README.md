@@ -112,12 +112,13 @@ Societal structures, urban civilian life, economic frameworks, and faction demog
 
 ### Subfolder 5: `05_Entities_Tales_and_Fractures/`
 Entity manifests, cognitive fracture case studies, and anomalous psychological phenomena:
-- `SOMNARAK_ENTITIES.md` (202 lines): Phenomenological theory of Sorrow Entity emergence and crystallization.
-- `SOMNARAK_ENTITY_CODEX.md` (613 lines): Master catalog of entities, SECC codes, risk ratings, and extraction potential.
-- `SOMNARAK_ENTITY_TALES.md` (13,825 lines): Collected folklore, eyewitness testimonies, and tragic origins for 246 entities.
-- `SOMNARAK_ENEMY_LIST.md` (187 lines): Non-entity threats, Outskirts beasts, and rogue constructs.
-- `SOMNARAK_NAMED_FRACTURES.md` (424 lines): Psychological breakdown categories (Corrosion, Meltdown, Panic, Apathy) across 18 documented case studies.
-- `SOMNARAK_WOUND_WALKERS.md` (248 lines): The monastic order of wandering healers sworn to absorb and transmute human sorrow.
+- `SOMNARAK_ENTITIES.md` (202 lines): Linked entity groups, transformation chains, and fairy-tale entities—four groups, three chains, and three tale-born examples in shorthand cross-register form.
+- `SOMNARAK_ENTITY_CODEX.md` (651 lines): Dossier grammar and entity catalog: SECC origin/coherence/potency/element, five physical types including Hazard, ten Form Descriptors, work and combat record structure, immortality/suppression, and a catalog of 253 Sorrow rows plus 7 Unknown cross-references, 14 Hope Transformations, and 8 Unknown entries (37 further dossiers await unique rows).
+- `SOMNARAK_ENTITY_TALES.md` (13,825 lines): Aggregate Narratio/Testimonium/Registrum anthology for 246 Sorrow Entities; a narrative retrieval copy around the individual dossiers.
+- `SOMNARAK_ENEMY_LIST.md` (187 lines): Seventy-one SED/UCD/R.D. operation encounter rows spanning Sorrow Entities, human adversaries, environmental hazards, constructs, and equipment; a scenario register, not a dossier roster.
+- `SOMNARAK_NAMED_FRACTURES.md` (472 lines): Four Fracture stages; Quick, Slow, Partial, and Chronic courses; outcomes and statistics; eighteen cases across living-memory and permanent-transformation ledgers; and the boundary between irreversible citizen Fracture and reversible Echo-Core Cycle Crisis.
+- `SOMNARAK_RELIC_ENTITIES.md` (106 lines): Still-Sorrow doctrine for Object, Place, and Time manifestations: Two-Work-Type Rule, activation versus expansion, representative registry, and Relic M.A.W. extraction.
+- `SOMNARAK_WOUND_WALKERS.md` (274 lines): Year 4250+ post-Dawn pilgrimage of Sooah and the Wound Walkers across seven Crucible Stations, practicing non-containment coexistence and bearing petrified Han scars.
 
 ---
 

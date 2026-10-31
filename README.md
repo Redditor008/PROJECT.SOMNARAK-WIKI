@@ -110,7 +110,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   │   ├── 02_Institutional_Wings_and_Chronicles/ # 6 Codices: Reverie Directorate, SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan
 │   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 9 Codices: Battle engines, M.A.W., Han Relics, Lumen, Ordeals, Taboo Resonance, workshops
 │   │   ├── 04_Municipal_Society_and_Demographics/ # 10 Codices: Daily life, Council, Collectors, corporations, syndicates, cadres
-│   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
+│   │   ├── 05_Entities_Tales_and_Fractures/# 7 Codices: Entity taxonomy, linked groups, tales, fractures, relic entities, adversaries, Wound Walkers
 │   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
 │   │   └── README.md                       # Master codices catalog & thematic index
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
@@ -258,12 +258,13 @@ Entity manifests, cognitive fracture case studies, and anomalous psychological p
 
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
-| [`SOMNARAK_ENEMY_LIST.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENEMY_LIST.md) | Adversary Compendium (187 lines) | Undercity threats, feral constructs, rogue operators, Outskirts beasts, and security hazards |
-| [`SOMNARAK_ENTITIES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md) | Phenomenological Theory (202 lines) | Emergence of Sorrow Entities, crystallization thresholds, and 5 Coherence levels (I to V) |
-| [`SOMNARAK_ENTITY_CODEX.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md) | Master Classification Codex (613 lines) | SECC code matrix, work affinities (Ferrehan, Flerehan, Pugnahan, Viderehan), and containment |
+| [`SOMNARAK_ENEMY_LIST.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENEMY_LIST.md) | Operation Encounter Register (187 lines) | 71 SED, UCD, and R.D. scenario rows spanning Sorrow Entities, humans, environments, constructs, and equipment; generic encounter labels, not a dossier roster |
+| [`SOMNARAK_ENTITIES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md) | Linked Groups, Chains & Tale-Born Entities (202 lines) | Four connected entity groups, three transformation chains, and three fairy-tale entities in shorthand cross-register form |
+| [`SOMNARAK_ENTITY_CODEX.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md) | Dossier Grammar & Entity Catalog (651 lines) | SECC five physical types including Hazard, ten Form Descriptors, dossier sections and work law; catalog of 253 Sorrow rows plus 7 Unknown cross-references, 14 Hope Transformations, and 8 Unknown entries, with 37 further dossiers awaiting unique rows |
 | [`SOMNARAK_ENTITY_TALES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md) | Master Origin Lore Anthology (13,825 lines) | Tripartite lore structure: 이야기 (Tale), 증언 (Testimony), 기록 (Record) for 246 entities |
-| [`SOMNARAK_NAMED_FRACTURES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md) | Historical Cognitive Breakdowns (472 lines) | Breakdown categories (Corrosion, Meltdown, Panic, Apathy) across 18 documented case studies |
-| [`SOMNARAK_WOUND_WALKERS.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md) | Order of Wandering Healers (274 lines) | Monastic order sworn to absorb, transmute, and carry the burden of civilian sorrow |
+| [`SOMNARAK_NAMED_FRACTURES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_NAMED_FRACTURES.md) | Fracture Process & 18 Case Records (472 lines) | Crack → Spread → Crystallization → Emergence; Quick, Slow, Partial, and Chronic courses; outcomes, statistics, and the citizen-Fracture/Echo-Core-crisis boundary across two 10+8 ledgers |
+| [`SOMNARAK_RELIC_ENTITIES.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_RELIC_ENTITIES.md) | Still-Sorrow Registry & Doctrine (106 lines) | Object, Place, and Time manifestations; Two-Work-Type Rule; activation versus expansion; representative registry and Relic M.A.W. doctrine |
+| [`SOMNARAK_WOUND_WALKERS.md`](SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_WOUND_WALKERS.md) | Post-Dawn Wound Pilgrimage (274 lines) | Year 4250+ Sooah and the Wound Walkers, seven Crucible Stations, non-containment coexistence, and petrified Han scars |
 
 ---
 

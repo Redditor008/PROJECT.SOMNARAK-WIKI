@@ -204,7 +204,8 @@ Before any statistic is derived, read what kind of fact the dossier says the ent
 |---|---|---|
 | Primary substance is Han — fluid, acoustic, geological sorrow | Degree I treats the output as an Abnormality in-story; Degree II keeps Han behavior under LC names and applies the brine/handling rules of this chapter; Degree III leaves the substance unchanged | Calling every effect “psychological” because the output frame uses SP |
 | Origin is communal, civic, historical, or geological unless filed personal | Feeds the category-letter read in Chapter 3 and the Encyclopedia story in Chapter 9; the Tale stays the operative truth at Degrees II–III | Inventing a single guilty person as the origin for a city-scale grief |
-| Manifestation: Subject, Object, Place, Time, or Hybrid | Sets work access and housing before Risk is read: a body that can be addressed, a thing that is used, a place that is entered, a time that is endured, or a hybrid read component by component | Giving a Place a roaming humanoid breach because the tier is high |
+| Manifestation: Subject, Object, Place, Time, or Hazard; the full label adds a Form Descriptor | Sets work access and housing before Risk is read: a body that can be addressed, a thing that is used, a place that is entered, a time that is endured, or a condition whose filed field is entered and endured. A filed composite presentation is read through its actual body and Behavior lines, not split by the slash alone | Giving a Place or Hazard a roaming humanoid breach because the tier is high |
+| Source identity: a whole SE dossier resolved by full designation | The intake subject is that dossier's body and filed surfaces. Operation-adversary rows, catalogs, group/chain registers, and aggregate tales are retrieval layers around it | Converting a generic Sorrow Entity label, scenario Threat word, human/environment/construct enemy row, or catalog shorthand as though it were a dossier |
 | Restoration or hope dynamic, where filed | Becomes a management method only in the form filed: relief work, a named reconciliation condition, a Gauge decrease, or a Threshold that can be satisfied | Turning communal restoration into a generic employee buff |
 
 State the ontology in one intake line before the code is assigned: substance, origin scale, manifestation, and the body the room will actually present. Every later number hangs from that line.
@@ -258,8 +259,8 @@ Rows state their plane: facility rows read Lobotomy Corporation against R.D. + T
 | Primary Energy Source | Enkephalin (PE/NE) | Han-Energy |
 | Entity Classification | Abnormalities | Sorrow Entities |
 | Threat Hierarchy | ZAYIN to ALEPH | Coherence I–V + Potency α–ω, filed by Threat Score |
-| Containment discipline (facility plane) | 4 Works (All Units) | 4 Han Work Types (2 locked for inanimate; 4 for Subjects; Hybrids by component) |
-| Inanimate Restriction | Unrestricted | 2 Works (Vid/Fer) |
+| Containment discipline (facility plane) | 4 Works (All Units) | 4 Han Work Types (2 locked for Object/Place/Time/Hazard; 4 for Subjects; filed composites by attested component) |
+| Non-Subject Restriction | Unrestricted | 2 Works (Vid/Fer) |
 | Damage Spectrum | RED/WHITE/BLACK/PALE | Grudge/Lament/Weight/Void |
 | Crisis Mechanics | Qliphoth Meltdowns & timed Ordeals | Han-Density Gauge → Ordeal Times (First/Second/Third/Tide Watch) |
 | Breach Dynamics | Corridor breach and roam | Roam / occupy by Range Band; Place Metamorphosis only where filed |
@@ -335,6 +336,8 @@ A Sorrow Entity dossier is a full home archive; an LC Details/Encyclopedia recor
 | **Event-behavior section under its filed heading** — Breach Behavior, Activation Behavior, Expansion Behavior, or Containment Event Behavior; two headings only where the dossier files both | **Ability, Management Tips, and Escape Information as the operation requires** | Keep the filed heading in the worksheet. An escaping body, an activation, an expansion, and a containment event are different operations; Escalation Notes and a Detailed Activation Record where filed are evidence inside that operation, not separate native sections |
 | **M.A.W. Equipment**, with **Tool Use Profile**, **Use Notes**, and **Field Use Record** where filed | **E.G.O Weapon / Suit / Gift output; Tool Ability + Log and Method when the entity itself converts as a Tool** | Home pieces remain Weapon / Suit / **Stigma**; there is no “M.A.W. Gift.” Piece Risk, bearer costs, use-shape, warning flags, and return or closure follow Chapter 8—not the entity's Risk by resemblance |
 | **Narrative and record-only sections** | **Filed by Section X above** | Origin, Observation, Story, Final Observation, Flavor/interactions, Tale, Testimony, Registrum/Addendum, any named additional Record, Trivia, and Document Information retain their separate functions; absence of a native slot is recorded, not normalized away |
+
+An aggregate Tale/Testimony/Registrum copy, catalog row, enemy-operation table, or group/chain register is a retrieval and cross-check layer around the exact dossier, not a second controlling dossier. It supplies no classification, work, counter, combat, equipment, or department field absent from that dossier; where the two disagree, the affected field remains a visible **HOLD** rather than being settled by the aggregate summary. Generic Registry Addendum language files review discipline, not an entity-specific mechanic.
 
 ### 3. Facility Architecture & Bureaucratic Hierarchy
 
@@ -442,7 +445,8 @@ Breach and transformation states do **not** mint new codes. A Place→Subject ev
 | **Manifestation: Object** | **Transport class by body and operation gate** | Self-running mechanism `04`; whole site body `07`; bounded item with no operator session `08`; bounded device/relic operated in hand or at a station `09`. Chapter 8 then settles Single Use, Channeled Use, Equippable, or **HOLD**. The filed event heading governs activation, expansion, or containment event; Object does not impose Transform. |
 | **Manifestation: Place** | **Transport class `07` where the whole body is a site** | The location itself is the body. Perimeter work or a Tool profile is filed on the operation axis and does not turn the site into bearer-borne gear. |
 | **Manifestation: Time** | **Transport class by presented body** | A nameable temporal phenomenon takes `03`; an unstable or withheld form takes `06`. A bounded temporal device follows the item-body gate (`04`/`08`/`09`) instead of the word Time. |
-| **Manifestation: Hybrid** | **Transport class by the true housed body** | Read Physical Form and Appearance for the body the unit must house, then file work and event behavior component by component. `[H]` alone assigns neither `YY` nor a Tool subtype. |
+| **Manifestation: Hazard** | **Transport class by the presented condition or site** | A whole zone, ground, or site condition takes `07`; a nameable non-bodily condition, volume, shared state, or pressure field takes `03`, or `06` where the record withholds its form. Hazard is a physical type, not a roaming body, Tool subtype, or generic danger adjective; activation, spread, contagion, and return follow the filed event record. |
+| **Filed composite presentation** | **Transport class by the true housed body** | A slash label such as `Object/Place` is a combined filing bucket or presentation, not an SECC physical-type code and not proof of separately workable components. Read the full Manifestation label, Physical Form, Appearance, Behavior, and event sections; file distinct components separately only where the dossier itself separates bodies or states and gives their lines. An individual dossier that expressly spells **Hybrid `[H]`** keeps that word as its own manifestation alias, but its Entity Type, body, and Behavior lines—not the letter—govern housing and work. |
 | **R.D. Comprehension Level (0–4)** | **Observation Level (I–IV)** | Gate-analogue only, not 1:1 mechanics. Comprehension advances on Comprehension Points earned by Work (5 / 25 / 75 / 175 CP): Level 0 Unknown reads as LC locked, Level 4 Mastered as full unlock (Section IX). |
 
 ### X. SECC Code System (3 × 5 × 5 × 5 × 5)
@@ -460,7 +464,10 @@ Example: SE-C-IVδ-001 [GS]
 | **Coherence** | `I` Residue · `II` Echo · `III` Fragment · `IV` Entity · `V` Sovereign |
 | **Potency** | `α` Minor · `β` Moderate · `γ` Major · `δ` Critical · `ω` Catastrophic |
 | **Element** | `L` Lament (Deep Blue) · `G` Grudge (Crimson) · `V` Void (Pale White) · `W` Weight (Black) · `M` Mixed |
-| **Manifestation** | `S` Subject · `O` Object · `P` Place · `T` Time · `H` Hybrid |
+| **Manifestation** | `S` Subject · `O` Object · `P` Place · `T` Time · `H` Hazard |
+| **Full Manifestation label** | Physical Type + one of ten Form Descriptors: Body · Lament · Grudge · Void · Weight · Phantasmal · Dream · Mind · Spirit · Tale |
+
+The bracket `[Element][Manifestation]` carries only the Element letter and physical-type letter. The dossier's full **Manifestation** field spells the two-part label—`Subject-Body`, `Object-Void`, `Place-Lament`, `Hazard-Mind`, and the rest of the 5 × 10 matrix. The descriptor files narrative origin and nature; even where its word repeats an Element name, it does not set damage color, the §II.1 category letter, `YY`, work access, or breach movement. **Physical Form**—Organic, Non-Organic, or Mixed—is a third, material-composition read; `Mixed` there is neither Mixed Element nor a composite manifestation. Where Entity Type, the Manifestation prefix, Physical Form, and Appearance disagree, the coherent housed body governs `YY`, work follows the actual filed Behavior/component lines, and the split remains visible.
 
 #### Sorrow Category
 
@@ -476,14 +483,14 @@ The `YY` segment of a transported record is assigned by Section II.2. It reads t
 
 | Transport `YY` | Assign when the filed body is | Manifestation evidence | Operation boundary |
 |---|---|---|---|
-| `01` | Humanoid current body | Subject, or a Hybrid component with humanoid anatomy | A held or carried object is a separate item; it does not reclassify the body |
-| `02` | Animal / beast current body | Subject, or a Hybrid component with beast anatomy | Agency, movement, and reach come from the filed event record, not the animal label |
-| `03` | Nameable phenomenon, presence, voice, shadow, pressure, dream, or temporal form without anatomy | Subject-Spirit/Dream, Time, or a Hybrid phenomenon component | An activation may be filed, but a phenomenon label does not create a device body or Tool subtype |
-| `04` | Self-running or autonomous mechanism body | Object, Time, or Hybrid mechanism component | If the mechanism is operated in hand or at a station as the original Tool, the decision order gives `09`; an autonomous mechanism remains `04` |
-| `05` | Insect current body | Subject, or a Hybrid component with insect anatomy | An attached or carried item is filed separately from the insect body |
+| `01` | Humanoid current body | Subject, or a filed composite component with humanoid anatomy | A held or carried object is a separate item; it does not reclassify the body |
+| `02` | Animal / beast current body | Subject, or a filed composite component with beast anatomy | Agency, movement, and reach come from the filed event record, not the animal label |
+| `03` | Nameable phenomenon, presence, voice, shadow, pressure, dream, or temporal form without anatomy | Subject-Spirit/Dream, Time, Hazard, or a filed composite phenomenon component | An activation may be filed, but a phenomenon label does not create a device body or Tool subtype |
+| `04` | Self-running or autonomous mechanism body | Object, Time, or a filed composite mechanism component | If the mechanism is operated in hand or at a station as the original Tool, the decision order gives `09`; an autonomous mechanism remains `04` |
+| `05` | Insect current body | Subject, or a filed composite component with insect anatomy | An attached or carried item is filed separately from the insect body |
 | `06` | Shape unstable, amorphic, undocumented, or deliberately withheld | Any manifestation where the record itself withholds the body | An unknown body supplies neither a station nor a Tool subtype; incompatible concrete bodies are a `YY` **HOLD**, not an automatic `06` |
-| `07` | Whole Place/site/structure body | Place, Object/Place, or Hybrid where the whole housed body is the site | Perimeter operation is filed separately. A site passes the Chapter 8 Carriage test only where a distinct portable original or filed portable state exists |
-| `08` | Bounded item body with no filed operator session | Object, or a Hybrid item component | Passive, proximity, or automatic effects remain activation/event or management facts; the Tool subtype is **HOLD** |
+| `07` | Whole Place/site/structure body | Place; a Hazard whose whole presented body is the zone, ground, or site; or a filed composite where the whole housed body is the site | Perimeter operation is filed separately. A site passes the Chapter 8 Carriage test only where a distinct portable original or filed portable state exists |
+| `08` | Bounded item body with no filed operator session | Object, or a filed composite item component | Passive, proximity, or automatic effects remain activation/event or management facts; the Tool subtype is **HOLD** |
 | `09` | Bounded device or relic body operated in hand or at a station | Object or mechanism body with a filed hand/station operation | Class only. Chapter 8's Completion, Maintenance, and Carriage tests settle Single Use, Channeled Use, Equippable, or **HOLD** |
 
 A fixed mounting does not decide between `07` and `09`: ask what the whole body is. A district, room, wall, ruin outline, bridge span, or other structure that personnel enter, cross, or work from a perimeter is a site body (`07`). A bounded mirror, bell, wedge, frame, or other device worked at its plinth or bay is a station/hand body (`09`) when an operator session is filed, however firmly it is mounted. If no operator session is filed for that bounded device, it takes `08`; if it runs itself as a mechanism rather than being operated as the original Tool, it takes `04`.
@@ -497,7 +504,7 @@ A fixed mounting does not decide between `07` and `09`: ask what the whole body 
 | **Threat axes** | Coherence `I–V` + Potency `α–ω` | No segment inside `X-YY-0###` | The two ranks sum to Threat Score and set Risk Level in Chapter 4 |
 | **Body / item class** | Entity/Tool Type, Physical Form, and Appearance; Use Mode only at the item-body gate | `YY` = `01`–`09` under Section II.2 | The current housed body governs. The SECC Manifestation letter is evidence, not a class copy; the LC Tool subtype is settled separately in Chapter 8 |
 | **Serial** | SECC numeric suffix | `0###` | Ordinarily `0` + the SECC suffix. On a collision inside the same `X-YY`, §II.3 assigns the next free serial and both the source suffix and assigned serial are filed; serials are never recycled or renumbered |
-| **Element / Manifestation alias** | `L`/`G`/`V`/`W`/`M` and `S`/`O`/`P`/`T`/`H` | No additional Subject Number segment | Element converts to damage color in Chapter 4. Manifestation remains home classification and work-component evidence; it does not assign `YY` by itself |
+| **Element / Manifestation alias** | `L`/`G`/`V`/`W`/`M` and `S`/`O`/`P`/`T`/`H` | No additional Subject Number segment | Element converts to damage color in Chapter 4. Manifestation's physical-type letter is home classification and work evidence; its spelled Form Descriptor is narrative origin/nature. Neither assigns `YY` by itself |
 
 ### 5. Entity Classification & Threat Tiers
 
@@ -518,7 +525,8 @@ Lobotomy Corporation ranks Abnormalities through a five-tier Hebrew risk scale. 
 - **Object `[O]`:** Inanimate items, artifacts, relics, or tools.
 - **Place `[P]`:** Structural chambers, cursed rooms, territorial environments, or localized spatial rifts.
 - **Time `[T]`:** Temporal anomalies, looped moments, or chronometric disturbances.
-- **Hybrid `[H]`:** Entities filing multiple manifestation types at once (e.g. Subject–Place); housed and worked component by component. (`[H]` reads **Hybrid** in the SECC code list.)
+- **Hazard `[H]`:** A condition or environmental effect—field, volume, weather, shared state, or pressure—rather than a discrete roaming body.
+- **Filed composites:** A slash label or a dossier's expressly spelled “Hybrid” presentation is not the `[H]` code. House and work the actual body or attested components from the dossier's Manifestation, Physical Form, Appearance, Behavior, and event lines.
 
 **Special Transform Breach (Place-to-Subject Metamorphosis):**
 In Lobotomy Corporation, breached entities exit containment and roam corridors while maintaining their physical form. In Project Somnarak, specific apex Place entities undergo structural metamorphosis upon containment failure:
@@ -729,7 +737,7 @@ An SE carries **Gauge-only, Threshold-only, both, or neither** — exactly as na
 
 - **Direction discipline.** Whatever the channel, the LC read is distance-to-zero and the PS read is pressure or condition-progress; every numeral is re-derived per channel from the dossier's own step sizes, never transcribed. A Gauge at 40% is not a Counter at anything until those steps are read.
 - **Reset.** Termination/return behavior resets **each channel by its own rule**: the Gauge returns to filed baseline; threshold counts reset only where the dossier files them resettable. A permanent count (learned faces) never resets in either archive. Suppression alone resets neither channel mid-event.
-- **Meltdowns.** Converted units enter the facility meltdown rotation like natives; the Heavy Han Density of Section I.3 raises the *global* meltdown rate, priced as a facility cost of housing SEs at all. A meltdown on an inanimate SE does **not** lift the Two-Work-Type Law, and on a Threshold-only unit it is answered by standing watch over its conditions, not by pressure work. Completed meltdown work discharges the meltdown; it moves a channel only where the dossier's own rules say so.
+- **Meltdowns.** Converted units enter the facility meltdown rotation like natives; the Heavy Han Density of Section I.3 raises the *global* meltdown rate, priced as a facility cost of housing SEs at all. A meltdown on a non-Subject SE does **not** lift the Two-Work-Type Law, and on a Threshold-only unit it is answered by standing watch over its conditions, not by pressure work. Completed meltdown work discharges the meltdown; it moves a channel only where the dossier's own rules say so.
 - **Tool use counters are Threshold-channel mechanisms**: charge counts, charge-up timers (the Train's four lights are the native shape), per-day uses, and single-use consumption (Chapter 8, Tool Use Shapes and Relic Classes) convert one for one with figures verbatim. Read-only dossier **tallies** — counts of things that have already happened, such as the learned-face count of 61 — are Basic-Info statistics and Threshold *evidence*; Extraction does not turn a memorial into a meter.
 - **Degree read.** Degree I: every filed channel live as derived here. Degree II: channels live only as the dossier files them, under LC names. Degree III: both mechanisms remain Somnarak-side (Preface table).
 
@@ -957,7 +965,7 @@ A rated entity still has to be worked by people. This chapter pairs the four dis
 
 **Facility Work Protocols // Cogito vs Han Conversion**
 
-| L Corp Work Type | PS Analog (Axis · Element) | Method | Subject Discipline Profile | Inanimate Entity `[O/P/T]` Rule |
+| L Corp Work Type | PS Analog (Axis · Element) | Method | Subject Discipline Profile | Non-Subject `[O/P/T/H]` Rule |
 |---|---|---|---|---|
 | **Instinct** | **Ferrehan (인내한 / *Innaehan* — Endurance)** — Mental · Weight | Bear the filed ambient burden and presence | Positive *High* / Negative *Moderate* — Risk: *Exhaustion* | **Permitted** — *Gravitational Bearing* |
 | **Insight** | **Viderehan (관조한 / *Gwanjohan* — Observation)** — Mental · Void | Witness and record the filed signs and patterns at the filed observation position | Positive *Low* / Negative *Low* — Risk: *Mental fatigue* | **Permitted** — *Memory Witnessing* |
@@ -977,16 +985,16 @@ For entities classified with a Subject manifestation (e.g., *Kind Echo* `C-Iα-0
 * **Attachment (Flerehan):** The agent communicates empathetically, weeping with the entity (Pos: *Moderate* / Neg: *Low* profile; emotional-drain risk). Staff by Composure (primary, §IV.3); where the dossier files polarized Flerehan outcomes or a named failure effect, the filed line binds as written.
 * **Repression (Pugnahan):** The agent confronts and withstands the entity's filed aggression or contact (Pos: *High* / Neg: *High* profile). Counter movement follows the filed counter law — repeated Repression never substitutes as a counter mechanic.
 
-#### 2. Inanimate Entities (`[O]`, `[P]`, `[T]` — Relics, Places, Times; `[H]` Hybrids by Component)
+#### 2. Non-Subject Entities (`[O]`, `[P]`, `[T]`, `[H]` — Objects, Places, Times, Hazards; Filed Composites by Attested Component)
 
 **THE MANAGER MUST ENFORCE THE TWO-WORK-TYPE RULE WITHOUT EXCEPTION:**
 
-- **Hybrid (`[H]`) entities** file multiple manifestation types: apply this rule to each inanimate component, and work any filed Subject component under item 1 above. `[H]` reads **Hybrid** in the SECC code list.
+- **Hazard (`[H]`)** is a physical type—a condition or environmental effect—and is locked to Viderehan and Ferrehan under this rule. A filed composite label is not `[H]`: `Object/Place` is a combined non-Subject filing label whose actual body is read from the full Manifestation field, while distinct components are split only where the dossier itself files separate bodies or states and Behavior lines. If an individual Subject dossier expressly spells **Hybrid `[H]`**, transcribe that record's alias and follow its Subject body and Behavior table; do not generalize that spelling into the SECC code list or use it to lift the Hazard lock.
 
 * **Insight (Viderehan Permitted):** The agent acts as a Memory Witness, observing geometric spaces and recording localized distortions.
 * **Instinct (Ferrehan Permitted):** The agent acts as a Gravitational Bearer, sitting in silent meditation to bear and reinforce physical isolation seals.
-* **Attachment (PROHIBITED):** Inanimate entities possess no psyche to empathize with. Attempting Flerehan is an automatic failure paying **0 PE**, and the dossier's own filed backfire law binds as written — the generic profile runs to full SP collapse, screaming in an unknown tongue, and cerebral hemorrhage; Gauge surges only where the dossier files a Gauge channel. The Manager must enforce absolute work restrictions on all `[O/P/T]` class chambers.
-* **Repression (PROHIBITED):** Inanimate entities cannot be confronted as a Subject opponent. Attempting Pugnahan is an automatic failure paying **0 PE**, and the dossier's own filed backfire law binds as written; a prohibited attempt is never a usable counter mechanic. The Manager must enforce absolute work restrictions on all `[O/P/T]` class chambers.
+* **Attachment (PROHIBITED):** Non-Subject entities possess no individual psyche to empathize with. Attempting Flerehan is an automatic failure paying **0 PE**, and the dossier's own filed backfire law binds as written — the generic profile runs to full SP collapse, screaming in an unknown tongue, and cerebral hemorrhage; Gauge surges only where the dossier files a Gauge channel. The Manager must enforce absolute work restrictions on all `[O/P/T/H]` class chambers.
+* **Repression (PROHIBITED):** Non-Subject entities cannot be confronted as a Subject opponent. Attempting Pugnahan is an automatic failure paying **0 PE**, and the dossier's own filed backfire law binds as written; a prohibited attempt is never a usable counter mechanic. The Manager must enforce absolute work restrictions on all `[O/P/T/H]` class chambers.
 
 #### 3. R.D. Attributes — Personnel Statistics & The Han-Exposure Acquisition
 
@@ -1168,6 +1176,8 @@ Chapter 4 derives the counter. This section runs it.
 
 **Transformation states.** A Place that files a walking state keeps Place work law while housed; any wider work access exists only inside the breaching state and only as filed. Sequential phases keep one subject number: file each phase's work and counter lines, and roster the Risk Level from the highest-Score state attested, because the facility staffs for the worst body it may have to house. A fusion files as a joint breach state cross-referencing both base codes; it receives a new permanent code only if a later intake files a genuinely new entity.
 
+**Linked groups, chains, and tale-born sets.** A group, transformation-chain, or fairy-tale family name is a cross-reference between records, not a pooled subject. Convert each member or attested state from its own whole dossier first; shared origin alone does not pool HP, PE, work, counters, housing, or department. A cross-entity effect becomes an Ability, Management Tip, or Cascade condition only where a member dossier or Interaction record files the other member, trigger, direction, scope, and reset/return. Co-housing, separation distress, synchronized work or breach, side-taking, rituals, and fusion are never supplied by the group label alone. A chain shorthand or successor name with no corresponding state line in the member record remains story relation or **HOLD**; a separately dossiered successor or fusion is a new intake only where its own record files a genuinely new entity, not merely the next state of the base record.
+
 ---
 
 ## Chapter 7 — Damage Language, Movement & Combat Expression
@@ -1347,7 +1357,7 @@ Body housing still follows Section II.2 independently — site body `07`, bounde
 | **Full Name** | **Extermination of Geometrical Organ** | **Materialized Agony Wear (M.A.W.)** | Equipment crystallized from extracted entity matter. |
 | **Equipment Triad** | **Weapon**, **Suit**, and **Gift**. | **Weapon**, **Suit**, and **Stigma** (resonance charm / accessory). | Three extracted slots on both sides, up to a 3-piece set per entity; the third slot is a role-analogue only — a Gift is bestowed affinity, a Stigma is a carried wound-mark. |
 | **Grade Channel** | Each Weapon/Suit carries its own Risk Level, usually the source Abnormality's but not invariably; Gifts file slot, effect, and acquisition instead. | The entity's converted Risk derives from Threat Score, while each M.A.W. piece files its own Greek Grade. | Output Weapon/Suit Risk reads the piece's filed grade on the same ordinal (α→ZAYIN · β→TETH · γ→HE · δ→WAW · ω→ALEPH) and may differ from the entity Risk; Stigma grade gives the Gift output no Risk Level. |
-| **Material & Mass Channels** | E.G.O appearance is filed per piece; Risk, attack/resistance profile, requirements, and special effects remain separate record fields. | The entity's **Material / signature** describes its body, while each M.A.W. piece separately files Type/form, Appearance, and profile; workshop construction belongs to non-M.A.W. artisan gear. A separate material-technology register distinguishes Before-Time Primordial Artifacts and Consolihan Crystallized Relics (Han Relics proper) from Extracted M.A.W. equipment. | Material text travels as appearance only. No resistance, speed, evasion, pulse, or bearer burden is derived from composition; explicit mass/weight-class mechanics remain in their named home AP ledger. Han Relic Class I–IV is custody threat/clearance, not Coherence, Risk, Tool class, or piece grade, and a named non-entity relic creates no E.G.O. |
+| **Material & Mass Channels** | E.G.O appearance is filed per piece; Risk, attack/resistance profile, requirements, and special effects remain separate record fields. | The entity's **Material / signature** describes its body, while each M.A.W. piece separately files Type/form, Appearance, and profile; workshop construction belongs to non-M.A.W. artisan gear. A separate material-technology register distinguishes Before-Time Primordial Artifacts and Consolihan Crystallized Relics (Han Relics proper) from Extracted M.A.W. equipment. Source Object, Place, Time, or Hazard manifestation does not assign an extracted piece a hand-held, wearable, or consumable form. | Material text travels as appearance only. No resistance, speed, evasion, pulse, or bearer burden is derived from composition; explicit mass/weight-class mechanics remain in their named home AP ledger. Han Relic Class I–IV is custody threat/clearance, not Coherence, Risk, Tool class, or piece grade, and a named non-entity relic creates no E.G.O. |
 | **Mental Risk** | **E.G.O Corrosion** — Employee transforms into a feral puppet of the weapon upon panic. | **M.A.W. Corrosion** — cumulative four-stage personality takeover from overuse, misuse, neglect, or emotional conflict; ordinary Stage 4 dominates the mind without transforming the body. | Acute SP collapse is Panic; Corrosion is slower bearer-history risk, not its synonym. |
 
 ### 11. Tool Entities: Tool Abnormalities vs. Relic-Entities
@@ -1475,7 +1485,7 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 | **Lumen (LU)** | Refined Weeping current consumed to run containment fields, Work, suppression, and the Absolvohan | *(no LC input conversion; never Han Yield, H-Box, PE, Gauge %, or Counter fuel)* |
 | **Seven Taboos (Geumji)** | City/Han-enforced absolute prohibitions: resurrection, deliberate true AI, Han immunity, time reversal, sorrow synthesis, cross-boundary fusion, and Echo-Core duplication | *(no direct equivalent; Head taboos are City law, and the Raw's Three Treaty Taboos are syndicate treaty terms)* |
 | **Seven Resonances (Gongmyeong)** | Cost-bearing faction methods: Council Weight, Architect Shaping, Collector Scales, Keeper Archive, Warden Barrier, Weaver Dream, and R.D. Extraction | *(no direct equivalent; not Element resonance, a set bonus, Work affinity, or an automatic faction-member item effect)* |
-| **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Personnel transformation from Han overload | Panic (acute analogue only) |
+| **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Person transformation with filed course and outcome: Quick (seconds → Sorrow Entity), Slow (months/years → living Fracture Zone), Partial (some humanity remains), or Chronic (living with the Crack); death is also filed. A resulting entity converts only from its own SE dossier; a surviving partial/chronic person remains a person and story fact | Panic (acute analogue only) |
 | **Efflorescence** | Positive transformation: person-controlled bond at the Fracture edge (sorrow becomes strength) | E.G.O manifestation (positive-outcome analogue only) |
 | **M.A.W. Corrosion** | Equipment turning on user (4 stages) | E.G.O Corrosion |
 | **Sorrow Tide** | Nightly city-wide Han surge (Dream-Bleed peak) | *(no City-wide counterpart filed; separate facility-facing read is Han-Density → Tide Watch, not a meltdown countdown)* |
@@ -1483,6 +1493,7 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 | **Ordeals** | Mortal hostile Han manifestations spawning inside Facility 01 (5 Colors × 4 Times; Han-Density thresholds) | Timed Ordeals (crisis-cadence analogue) |
 | **The Veil** | Civic sorrow-suppression order | *(no City-wide counterpart filed; not a facility barrier)* |
 | **The Raw** | Unmanaged side of the Veil/Raw gradient; heaviest in Zone B, pocketed through C–E, with the deep B–D Subterranean Raw beyond ordinary municipal reach | **Backstreets (world-plane internal-geography analogue only)** |
+| **Wound Walker Pilgrimage** | Year 4250+ post-Dawn practice across seven Crucible Stations: non-containment co-presence, tending rather than cure, and petrified Han scars (Han-Gak-In / Mourning Brands) | *(no direct equivalent; not Ferrehan, suppression, employee recovery, a Stigma/Gift, or a Facility 01 custody route)* |
 
 ### XX. Crossover Implications
 
@@ -1596,7 +1607,7 @@ In overarching campaign lore and narrative fiction, Project Somnarak adheres str
     - The Dawn Initiative and The Lantern's continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
     - The Horizon Caravan overland expedition to Mugeukji and Cheonbulok (`Jipyeongseondae`).
     - The Memory Archive floor realizations and retrieval of The Promise (`Gieok_Jeojangso`).
-    - The Wound Walkers pilgrimage across the seven crucible stations in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`).
+    - The Wound Walkers pilgrimage across the seven crucible stations in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`) — a post-containment practice of tending wounds, not an R.D. Work, suppression, or recovery method.
     - Continental reconstruction, external diplomatic expeditions, and global recovery. All operate in linear calendar years.
 
 ### 14. Story Expansion: Specialist Cadres & Contractor Bureaus
@@ -1662,7 +1673,7 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **Angela (AI Coordinator)** | **Secretary Seiyon (세이연)** | Administrative-AI analogue only: Seiyon is the sole Secretary among the Nine Echo-Cores, a grief-awakened AI who administers daily operations, records and remembers all 1,778 iterations, and sounds the breach alarm. Seiyon is one mind under the Director, not a secretary assigned to every floor. |
 | **Agent** | **Absolver (  해원사   )** | Sworn elite field operative entering containment cells. |
 | **Clerk** | **Salt-Scrubber (  염초공   )** | Auxiliary personnel maintaining sanitation, brine drainage, and grates. |
-| **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Operated inanimate entities under strict Two-Work rules; body housing and use-shape are filed on separate axes. |
+| **Tool Abnormality** | **Relic-Entity (  유물 개체   )** | Operated non-Subject entities under strict Two-Work rules; body housing and use-shape are filed on separate axes. |
 | **Core Suppression** | **Core Realization (핵 진압)** | Floor-lead Core Crisis duel: suppress, ground, and Reclaim the Echo-Core Lead — no extraction; cleared Realizations persist across cycles (+10 to All Attributes, permanent floor buff). |
 | **The City** | **Somnarak City (  솜나락 도성   )** | City-to-city story slot, not equal world scale: The City is effectively PM's known human world, while Somnarak City is one Corner city on Mugenhan. |
 | **Backstreets** | **The Raw (  생경   )** | Internal poor/underworld geography: District Backstreets outside their Nests against Somnarak's Zone B-heaviest unmanaged Raw, its C–E pockets, and the subterranean B–D network; neither is the land beyond its city's walls. |
@@ -1701,7 +1712,7 @@ The systems compared above are indexed for conversion use in Appendix A of the U
 | ROADMAP SYSTEMS : 1,778 CYCLES / 6 WORKSHOPS / 5 SYNDICATES / 10       |
 | CADRES                                                                 |
 | 10,000 HP REWORK : STANDARD (150-1000 HP) / SOVEREIGN (10,000+ HP)     |
-| TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL INANIMATE TYPES        |
+| TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL NON-SUBJECT TYPES      |
 | STATUS           : INDEXED FOR CONVERSION USE (APPENDIX A)             |
 +========================================================================+
 ```
@@ -1841,7 +1852,7 @@ Run this checklist after the eight Conversion Order operations and before the Fi
 | 01 | **Designation and housing** | `X` is read from Sorrow Category, Origin, and Tale; `YY` from Entity/Tool Type, Physical Form, and Appearance, with Use Mode only at the item-body gate; the serial is ordinarily `0` + the SECC number, or the §II.3 next-free collision serial with the source suffix and assigned serial both filed, and is never renumbered. Housing grade, Containment Form, Breach Form, original scale, and scale band are declared. Well-attenuated **25–50%** is filed only for the Well-mediated read declared in Chapter 1; full scale is filed for a transported, anchored, or bypassed body; a Fragment completes only into the dossiered body | The code was copied from a legacy map or issued before Risk; incompatible concrete bodies were averaged into a portable or station form; presented size completes or shrinks the filed body; the complete Breach Form is undrawn or unattested |
 | 02 | **Risk and arithmetic** | **Threat Score = Coherence rank + Potency rank** gives 2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH. HP recomputes as `ceil(Gauge base × tier multiplier)`; Work Damage uses one filed ATK multiplier; Element color and riders, resistances, and separate breach damage remain separate ledgers. Derived integer outputs round up, while filed multipliers, factors, percentages, and resistance coefficients may remain decimal | Risk came from the I/α–V/ω diagonal alone, HP, story menace, or an analogue; no ATK multiplier was filed; an out-of-band base was silently rescaled; Work Damage and breach damage were averaged |
 | 03 | **Energy and chamber handling** | Physical PE-Boxes come from the Risk tier band and Behavior outcome range; Han Yield/H-Boxes stay worksheet inputs. Quota value is `ceil(N × (0.88 + 0.12d))`, with one filed `d` in ×2.0–×2.5 or the unfixed-factor envelope shown. Han-brine sanitation is filed only where the declared frame or retained home handling carries it | Han Yield was exchanged 1:1 for physical PE; density was applied to the box count; “filter the brine” was used as a substitute PE formula |
-| 04 | **Work discipline** | Favorability, outcome range, counter consequence, and backfire come from Behavior lines. Subject components use the filed disciplines; every inanimate `[O]`/`[P]`/`[T]` component is locked to Instinct and Insight, and `[H]` is read component by component. A meltdown mark does not lift the Two-Work-Type Law. A Tool output is verified by Ability, Log and Method, and use-shape rather than Work Preferences | Favorability came from temperament prose; Attachment or Repression was ordered or “tested” on an inanimate component; prohibited-work backfire was used as a counter mechanic |
+| 04 | **Work discipline** | Favorability, outcome range, counter consequence, and backfire come from Behavior lines. Subject components use the filed disciplines; every non-Subject `[O]`/`[P]`/`[T]`/`[H]` component is locked to Instinct and Insight, and any filed composite is read only through attested components. A meltdown mark does not lift the Two-Work-Type Law. A Tool output is verified by Ability, Log and Method, and use-shape rather than Work Preferences | Favorability came from temperament prose; Attachment or Repression was ordered or “tested” on a non-Subject component; prohibited-work backfire was used as a counter mechanic |
 | 05 | **People, exposure, and recovery** | LC governing-stat aptitude is filed separately from R.D. Attributes. Every LC employee starts at **R.D. Level 0**; the sustained Element, primary/secondary attributes, live Failure Effect, Days 1–3 rotation, ~1–3 points per day after 3+ survived consecutive days, and Level III roster transition are named. HP/SP recovery uses only systems the facility timeline actually files—such as Main Room regeneration or researched healing bullets—and Panic recovery follows the declared Degree in Chapter 7 | LC stats were treated as R.D. levels; exposure was assumed to qualify staff automatically; a generic “SP recovery kit” or unfiled restoration aura was assigned; the first three days have no exposure budget |
 | 06 | **Counters and meltdown response** | Gauge and Threshold are filed as either, both, or neither, each with its own value, triggers, reset, and return. Permanent tallies remain statistics/evidence, Tool use-limits remain Threshold-channel limits, and a meltdown is answered through the channel actually filed | The channels were merged into one meter; a counter, reset, or condition was invented; a permanent tally became a meter; pressure work was used to answer a Threshold-only condition |
 | 07 | **Event, suppression, and external support** | The dossier's own event heading, breach class (Escape, Corrupt, Transform, or Cascade), state lines, movement, range, Combat Actions, phases, consequences, suppression objective, and return condition are filed. Rabbit Team or Specialist Cadre help appears only as separately authorized external support under the story's facility timeline | Every event was flattened into a roaming breach; Place-to-Subject metamorphosis or Rabbit Protocol was made the default response; the presented form was allowed to shrink filed reach or stats |
@@ -1864,7 +1875,7 @@ Run this check after the Facility Verification Checklist and before sign-off. Wa
 | Resistances | The entity's own defensive record in RED–WHITE–BLACK–PALE order. Percentage reductions convert as `1.00 − (reduction ÷ 100)`; already-filed damage-taken multipliers stay verbatim; an unrated color remains 1.0 | A material word supplied a resistance lean; extracted Suit multipliers were borrowed for the entity body; a percentage was converted twice or an absent profile was filled from appearance |
 | Physical PE-Boxes | The Risk-tier physical PE band, positioned by the Behavior outcome range. Han Yield and H-Boxes remain home worksheet inputs only | The physical count was copied 1:1 from Han Yield, placed outside the tier band without a filed derivation, or altered by the density factor |
 | PE-equivalent quota value | The filed physical count `N` in `ceil(N × (0.88 + 0.12d))`, with one filed `d` inside ×2.0–×2.5; where no factor is chosen, the honest quota envelope is filed instead of a point value | `d` was invented or placed outside its range; quota value was mistaken for additional physical boxes; a point value was filed with no factor behind it |
-| Work table or Tool method | For a regular output, Behavior lines alone set favorability, outcome range, counter consequence, prohibited work, and backfire; Subject components follow their filed disciplines, every inanimate `[O]`/`[P]`/`[T]` component stays on Instinct and Insight, and `[H]` reads component by component. For a Tool output, Ability, Log and Method, and filed use-shape replace Work Preferences | Favorability came from temperament prose or a generic discipline profile; Attachment or Repression was ordered or tested on an inanimate component; a meltdown mark was allowed to lift the Two-Work-Type Law |
+| Work table or Tool method | For a regular output, Behavior lines alone set favorability, outcome range, counter consequence, prohibited work, and backfire; Subject components follow their filed disciplines, every non-Subject `[O]`/`[P]`/`[T]`/`[H]` component stays on Instinct and Insight, and any filed composite reads only through attested components. For a Tool output, Ability, Log and Method, and filed use-shape replace Work Preferences | Favorability came from temperament prose or a generic discipline profile; Attachment or Repression was ordered or tested on a non-Subject component; a meltdown mark was allowed to lift the Two-Work-Type Law |
 | Personnel and exposure plan | LC governing-stat aptitude filed separately from each work's R.D. primary and secondary attributes and Failure Effect. Every LC employee starts at R.D. Level 0; the sustained Element and Han Effect, Days 1–3 rotation, approximately 1–3 points per day after 3+ survived consecutive days, and Level III roster transition are named | LC stats were converted into R.D. levels; points began on the first day; exposure was treated as automatic qualification; the live Failure Effect or first-three-days budget is missing |
 | Counter channels | The filed Gauge channel, Threshold channel, both, or neither—each value rederived from its own work steps or named conditions, with triggers, reset, and return. Permanent tallies remain statistics or Threshold evidence; Tool charges and use-limits remain separately named Threshold mechanisms | A channel was invented or merged; a Gauge percentage was transcribed as the counter; a reset, return, or meltdown response lacks a filed rule; a permanent tally became a meter |
 | Event and suppression | The dossier's own event-behavior heading, breach class and state lines, movement, range, Combat Actions, Battle Phases, Consequences, suppression objective, and return condition | Activation, expansion, corruption, transformation, or cascade was flattened into a roaming escape; presented size shrank filed reach or stats; external support was added as the default suppression plan |
@@ -1929,7 +1940,7 @@ Energy note: Han Yield and any filed H-Boxes are home-ledger inputs. Physical PE
 
 | # | System / mechanic | SE → Abnormality law | Status |
 |---|---|---|---|
-| 1 | Designation & serial law | Chapter 3 — Designation Assignment | Covered |
+| 1 | Designation & serial law | Chapter 3 — Designation Assignment; five physical types, ten Form Descriptors, filed composites & the Hazard/composite split | Covered |
 | 2 | Risk tier & **Threat Score** (owner's Transformation Table) | Chapter 4 — Threat Score & Risk Classification | Covered |
 | 3 | HP / Sorrow Gauge bands | Chapter 4 — HP derivation & tier bands | Covered |
 | 4 | Attack values | Chapter 4 — pressure / attack derivation | Covered |
@@ -1937,7 +1948,7 @@ Energy note: Han Yield and any filed H-Boxes are home-ledger inputs. Physical PE
 | 6 | Element status riders | Chapter 7 — element riders & pressure effects | Covered |
 | 7 | Entity suppression resistances | Chapter 7 — resistance transcription | Covered |
 | 8 | Work types & `-han` pairing | Chapter 5 — work pairing & outcome translation | Covered |
-| 9 | Two-Work-Type Law | Chapter 5 — Two-Work-Type Law | Covered |
+| 9 | Two-Work-Type Law (Object / Place / Time / Hazard) | Chapter 5 — Two-Work-Type Law & attested-component filing | Covered |
 | 10 | Behavior outcomes → work favorability | Chapter 5 — Behavior outcomes → favorability | Covered |
 | 11 | Operative attributes & levels | Chapter 5 — R.D. Attributes & staffing | Covered |
 | 12 | Composure, SP, panic & filed recovery | Chapters 5 and 7 — Composure, SP, panic & recovery reads | Covered |
@@ -1950,7 +1961,7 @@ Energy note: Han Yield and any filed H-Boxes are home-ledger inputs. Physical PE
 | 19 | Qliphoth Meltdown event | Chapter 6 — meltdown marking & crisis response | Covered |
 | 20 | Tool use counters, charges & consumption | Chapters 6 and 8 — Threshold use-counters, charges & consumption | Covered |
 | 21 | Breach, suppression & authorized external support | Chapters 6, 7, and 9 — breach, suppression, separately authorized support & the Giltong Floor 1 jurisdiction exception | Covered |
-| 22 | Transformation & state lines | Chapters 3 and 6 — state lines & transformations | Covered |
+| 22 | Transformation, state lines, linked groups & chains | Chapters 3 and 6 — state lines, per-member conversion, filed cross-entity triggers & attested successors/fusions | Covered |
 | 23 | Skills · Dawn-table riders · Ultimates | Chapters 6 and 7 — skills, Dawn-table riders & Ultimates | Covered |
 | 24 | Size · scale · housing grades | Chapter 1 — Size, Scale & Form Law | Covered |
 | 25 | E.G.O Weapon | Chapter 8 — E.G.O Weapon extraction | Covered |
@@ -1972,11 +1983,11 @@ Energy note: Han Yield and any filed H-Boxes are home-ledger inputs. Physical PE
 | 41 | Threat multipliers & round-UP arithmetic (HP/ATK) | Chapter 4 — threat multipliers & round-up filing | Covered |
 | 42 | R.D. Attribute levels (0/I–V, 1–100) & Nugget acquisition | Chapter 5 — attribute levels & Nugget acquisition | Covered |
 | 43 | Breach taxonomy — Escape / Corrupt / Transform / Cascade | Chapter 6 — breach taxonomy | Covered |
-| 44 | Fracture stages · Efflorescence · Architect's Mark | Chapter 9 — Somnarak-specific fracture systems; Seven Taboos and Seven Resonances filed as separate world-plane law | Covered by reference |
+| 44 | Fracture stages, courses & outcomes · Efflorescence · Architect's Mark | Chapter 9 — Fracture stages/courses/outcomes, Efflorescence & Architect's Mark; Seven Taboos and Seven Resonances as separate world-plane law; Wound Walker pilgrimage as post-Dawn practice, not facility work | Covered by reference |
 | 45 | Organization & S.A.M.S. Terminal | Chapters 2 and 9 — R.D. + The Absolvohan facility organization, the separate Five Main Companies / twenty-five Zone-corporation registers, Memory Archive sanctuary, & terminal frameworks | Covered by reference |
-| 46 | Document-structure mapping & SE → Abnormality conversion order | Chapters 2 and 10 — document mapping & conversion order | Covered |
+| 46 | Document-structure mapping & SE → Abnormality conversion order | Chapters 2 and 10 — document mapping & conversion order; catalog, enemy-table, group, and aggregate-tale layers remain retrieval/cross-checks around the exact dossier | Covered |
 | 47 | Original Tool housing — body, operation, closure & custody | Chapters 3 and 8 — body class, A/O/I operation, LC use-shape, Log and Method, warning flags, closure & return | Covered |
-| 48 | Material, mass & non-M.A.W. workshop provenance | Chapter 8 — material as appearance only, Han Relic provenance separated from Relic-Entity operation and extracted M.A.W., context-bound mass ledgers, Six Great Workshops & Workplace Law by Degree | Covered |
+| 48 | Material, mass & non-M.A.W. workshop provenance | Chapter 8 — material as appearance only, source manifestation never assigns extracted piece form, Han Relic provenance separated from Relic-Entity operation and extracted M.A.W., context-bound mass ledgers, Six Great Workshops & Workplace Law by Degree | Covered |
 | 49 | Final facility and source checks | Chapter 10 — Facility Verification Checklist & Field-Source Check | Covered |
 | 50 | Institutional Sign-Off & certificate status | Chapter 10 — seven signing responsibilities; SIGNED / SIGNED WITH RESTRICTIONS / NOT SIGNED | Covered |
 
@@ -2007,7 +2018,7 @@ Before Section 6, check the exact linked set against the [pinned SE ↔ M.A.W. c
 | Field | Filed value | Source, derivation, or frame-law chain |
 |---|---|---|
 | Subject Number letter `X`: Sorrow Category, Origin, and Tale read |  |  |
-| Subject Number class `YY`: Entity/Tool Type, Physical Form, and Appearance read; Use Mode at the item-body gate where applicable |  |  |
+| Subject Number class `YY`: Entity/Tool Type, full Manifestation (physical type + Form Descriptor), Physical Form, and Appearance read; Use Mode at the item-body gate where applicable |  |  |
 | Subject Number serial: source SECC suffix; ordinarily `0` + suffix, or §II.3 next-free collision serial; never-renumber status |  |  |
 | Housing grade (Whole / Aspect-shifted / Fragment), body portion presented, and unshown remainder |  |  |
 | Containment Form; filed event or Breach Form; original measured scale, declared scale band, and any declared Well attenuation |  |  |

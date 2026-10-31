@@ -47,15 +47,15 @@ SOMNARAK-WORLD/
 │   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan (6 codices)
 │   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, M.A.W. Codex, Han Relics, Lumen, Ordeals, Taboo Resonance, Workshops (9 codices)
 │   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (9 codices)
-│   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Tales, Named Fractures, Enemies (5 codices)
+│   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Entities, Tales, Named Fractures, Relic Entities, Enemies, Wound Walkers (7 codices)
 │   └── 06_Integrity_Audits_and_Comparative_Studies/ # Comparative Integrity & System Audits (4 codices)
 │
-├── Sorrow_Entities/                    # 291 Unique Canonical Containment Dossiers & Origin Tales
+├── Sorrow_Entities/                    # 290 Unique Canonical Containment Dossiers & Origin Tales
 │   ├── README.md                       # SECC classification guide & work affinities
 │   ├── SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md
 │   ├── SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md
 │   ├── SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md
-│   └── ...                             # (291 bespoke dossiers: 158 City, 61 Outside, 72 Inner)
+│   └── ...                             # (290 bespoke dossiers: 157 City, 61 Outside, 72 Inner)
 │
 ├── Echo_Cores/                         # The Nine Departmental Directors of Facility 01
 │   ├── README.md                       # Facility 01 hierarchy and departmental roles
