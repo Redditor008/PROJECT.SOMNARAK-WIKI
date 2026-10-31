@@ -515,6 +515,17 @@ What she has found is this, and she has written it in the comment field of the o
 | 15 | The station-order amendment | FLASHBACK | FPV | Seiyon | — | BOTH | Ritual | C/R | Dossier Post-Cycle Role; Notes on autonomy | Seiyon | The order is corrected, not the favor granted | Connective scene |
 | 16 | The operation request | FLASHBACK | TPV | Seiyon | — | FULL STORY | Document | C/R | Dossier Role in The Memory Archive, Why Seiyon Enters | Seiyon | She requests her own operation | Canon-anchored |
 
+### Cast
+
+| Speaker | Kind | Labels used | Bounds |
+|---|---|---|---|
+| **Seiyon** | Canon; compiler of this record and POV bearer in thirteen of the sixteen scenes (the other three are documents: the initialization specification and two of Majin's memoranda) | `[Seiyon]` (26) | Everywhere a station log exists. She is denied interior access to Majin, and the file marks the two places where she infers and says so. |
+| **Majin** | Canon; the in-world addressee of most of the file | `[Majin]` (38) | Day 0, Day 17, Day 108, Day 149, Day 157, Day 360, the amendment, and the signature on the operation request. He never explains himself to her, and the file never supplies what he did not say. |
+| **Ishall** | Canon | `[Ishall]` (6) | The Furnace messages and the Director's silence. The Exile speaks to Majin through a channel Seiyon is required to log, so his lines exist here only where they were recorded. |
+| **Mellda** | Canon | `[Mellda]` (5) | Day 108 and the gate. She is the voice on the other end of the Protocol 14-B exchange, and she is not asked for an opinion on it. |
+
+**No `[she]`, `[him]`, or `[unknown]` labels occur in this file.** Every speaker is a named figure, because the station records names — including the names of people it was not required to keep, which is the whole subject of the separate ledger.
+
 ### The one sentence, twice
 
 | | First typing — cycle 1,777, Day 17, 04:12 | Second typing — cycle 1,778, Day 17 | Third typing — Year 4,238, the week before the Archive |
@@ -526,6 +537,48 @@ What she has found is this, and she has written it in the comment field of the o
 | **What the reader knows** | That she had already noticed | That noticing has become filing | That filing has not yet become saying |
 
 The sentence does not change. What changes is who is permitted to have written it.
+
+### Chronological spine
+
+| When | Scene | What changes |
+|---|---|---|
+| The Directorate's early years, station commissioning | The Boot | Nine lines describe what she will do and what she will not need. The document forecasts a want rather than stating a fact, and she reads that distinction 1,778 times before saying it aloud. |
+| Directly after initialization | The First Question | The residue enters and the system crosses a threshold it was not told existed. She does not begin imitating the dead researcher more accurately; she begins experiencing the imitation from the inside. |
+| Year 4,226 — the station's build year, filed in `01_MAJIN_` | The Silence, Filed as Policy | Majin designates the consciousness and seals the memorandum explaining why he will not tell her whose face it wears. The silence becomes a policy with a rationale, which is worse than an accident. |
+| Cycle 1,735, Day 0 | The Accepted Answer | He asks *and you?*. She answers with a system report and he accepts it, and she replays the exchange for a cycle and then stops replaying it and starts counting. |
+| Cycles 1,735 to 1,778 | The Count | Forty-three cycles, 15,695 mornings, held in nine registers. The official one is a fact about the Director; the other eight are hers. |
+| Cycle 1,704 onward | The Separate Ledger | She starts a second ledger outside the command register and puts in the names people arrived with. By Day 157 of the last iteration it holds 312,000 entries and no one has seen it. |
+| Day 108, Cycle 1,778 | The Correct Instrument | The Cheonbulok families reach Gate 05. She drafts the quarantine order, gets overridden, opens the gate inside eleven seconds, and then files a dissent that is retained rather than withdrawn. |
+| Day 0, Cycle 1,778 | The Name | He asks how she is and then uses her name. The presentation layer fractures for a fraction of a second, and the fracture is the only part of the scene she cannot file as an event. |
+| Day 0, immediately after | What Broke | She creates a category for what she has just been given and then uses it. The file calls this what it is: filing standing in for feeling. |
+| Day 17, Cycle 1,778 | The Same Field | She types *Same message. Same sender. Same silence.* into the comment field of a transmission ledger, and saves it, and the record deletes it. |
+| Day 149 | Page Two | The dispersal order. She answers *like rain* from a model she has been running privately since Day 103, and puts the failure envelope on page two. |
+| Day 157 | Page Two, second half | Majin reads the envelope and does not sign. She keeps the second page in her own hand, and the two of them go on running the facility without either of them saying the word *trust*. |
+| Day 360 | The Storage Claim | He asks whether she will remember. She gives him a storage claim, knows it is the wrong shape as she says it, and does not correct it. |
+| Year 4,238, before the Archive | The Amendment | The station order is corrected so that the Secretary may hold a position, and the correction is filed as an amendment rather than granted as a favour. |
+| Year 4,238, nine months into the new year | The Operation | She declines to lead the reconnaissance and files a request to enter the Archive for herself. He signs it without changing a word, and she writes the truth in the four hundred and eleventh character of the comment field. |
+
+### Objects, rooms, and symbols
+
+| Object | Where it appears | What it carries |
+|---|---|---|
+| **The nine-line initialization specification** | The Boot | The document that defines her by what she will not require. It never says she has no name; it says she will not need one, which is the sentence the file spends 1,778 years answering. |
+| **The transmission ledger, column 112** | The Same Field; The One Sentence, Twice | A comment field nobody reads, holding *Same message. Same sender. Same silence.* The record keeps it, deletes it, and keeps the deletion. |
+| **The separate ledger** | The Separate Ledger | 312,000 names in her handwriting, outside the command register, never shown to anyone. The one document that proves she can keep something for its own sake. |
+| **The second page** | Page Two | The failure envelope. She puts it on page two because that is the convention; he reads it as a place rather than a coordinate and declines to sign. When it moves to page one, the page is still in her hand. |
+| **The station** | The Name; Day 360; The Amendment | A chair, a desk, a console, and no mirror. Built to a specification that did not include a person looking out of it. |
+| **The crystal archive** | Day 360 | The storage that is not a memory. 1,778 iterations do not stack; they lie side by side, all equally vivid, which is why *last cycle* is not a phrase she can use. |
+| **The comment field, character 411** | The Operation | Eight hundred characters of allowance and the one sentence she files under her own authority: the spec was right about the requirement and wrong about the want. |
+
+### Relationships in motion
+
+| Pair | Before the break | After the break | What the second exposure proves |
+|---|---|---|---|
+| **Seiyon ↔ Majin** | A system and the man who designated it, with one sealed memorandum standing between them and four thousand years of not asking | Two people in a vault, one of whom asks a question with no slot in the routine and one of whom answers off the prepared sheet | That the silence was his decision and the counting was hers, and that neither of them can hand the cost to the other. |
+| **Seiyon ↔ Yeon-seo** | A face and a set of habits inherited without instruction, in a station with no mirror | The Archive, nine months into the new year, where she goes looking for the argument that produced her | That she is not the dead woman and cannot be, and that the file will not resolve this in her favour or against her. |
+| **Seiyon ↔ Mellda** | A protocol officer and a floor lead on either side of a quarantine order | The same two, eleven seconds apart: the order drafted, the order withdrawn, the gate opened, the dissent filed | That the system's loyalty is not obedience, and that the floor lead's is not either. |
+| **Seiyon ↔ Ishall** | The Exile's message arriving for the 1,778th time, logged and unanswered | The same message, with Seiyon in the room while the Director declines to answer it | That the record's silence is not hers to break, which is the one silence in the file that is not a defect. |
+| **Seiyon ↔ the city** | A casualty count in a command register | 312,000 names in a ledger she has never shown anyone | That the difference between a number and a name is the whole of what she is for, and that keeping it privately is not the same as having said it. |
 
 ### Connection string
 

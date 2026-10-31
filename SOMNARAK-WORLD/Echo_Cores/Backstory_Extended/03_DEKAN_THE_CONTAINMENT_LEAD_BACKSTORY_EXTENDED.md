@@ -588,16 +588,50 @@ Then, underneath, in the margin, where the forms do not look:
 
 The sentences do not change. What changes is whether there is anyone behind the wall to be counted.
 
-### The label register
+### Chronological spine
 
-| Speaker | Kind | Labels used | Bounds |
+| When | Scene | What changes |
+|---|---|---|
+| His childhood, during his mother's service | The Woman Who Counted Markers | Three rules taught as household procedure. He learns them the way other children learn to count stairs, and does not know they are a philosophy. |
+| Undated in this file — the year he was seven | The Night the Wall Folded | The sweep calls the change tolerable drift, the child hears the voices stop overlapping, and she believes him before the equipment does. She is right and it does not save her. |
+| After her death | The Year Between Systems | He learns that silence is camouflage in a district where the wall is the only authority that answers. |
+| Year 195 | The Buried Seventeen Minutes | The Menders project Zone B will be consumed within a decade. The projection is received and filed. |
+| Year 202 | The Buried Seventeen Minutes, the event | Liquid Han rises; the screaming lasts seventeen minutes; the Wardens count, record and document in that order, and no rescue is attempted. |
+| Age eight, the Giltong merge review | The Child Who Kept Better Records | He keeps his own ledger because the official form has no field for what he witnessed. The habit that will later be called exactness starts as a hedge. |
+| The Doctrine years | The Doctrine; The Routine Exercise; Promotion as Containment | He is taught the pre-revelation doctrine — a symptom, not a request — and is promoted into the role that administers it. |
+| Day 53 | Two Point Three Centimetres | The Maw grows and the figures are quoted to the point this record needs, then finished in file 01. Two instruments, one value. |
+| Day 101 | We Are Tired | Twelve voices say *We are tired. We want to go home.* The grammar is the event: a request has a party with standing, and the facility has no form for that. |
+| Day 125 | The Lament | The channel turns from Grudge to Lament. A twenty-two-year-old specialist asks why they say their names out loud, and gets a procedure for an answer. |
+| Day 151 | The Lullaby | The thousand sing a First Consolihan lullaby. He writes the threat assessment that was requested, and then a second page that was not. |
+| Day 165 | The Quiet | Nothing to contain. He says the three rules to a wall that does not answer, and then asks the question he did not ask at seven. |
+| Day 177 | What He Read to His Own Wardens | He reads the incident index aloud at shift change, including *Responders present: yes. Rescue attempted: no*, and refuses to defend the room the file sat in. |
+| Year 4,232 | The Giltong Annex | The merge review finds no violation and no answer, and files the subject as eight years old in paperwork and thirty-eight in the room. |
+| Day 350 | Visitors | The word *family* arrives in a containment report, and he does not correct the officer who used it. |
+| Year 4,238 | Iseul; The Count | A retired cook gives the third rule back to him across her own kitchen table, and the closure summary is filed with a population line instead of a body count. |
+
+### Objects, rooms, and symbols
+
+| Object | Where it appears | What it carries |
+|---|---|---|
+| **The marker stakes** | The Woman Who Counted Markers; The Marker Walk; Iseul | Numbered boundary posts along a route his mother walked. The file's unit of attention: a two-centimetre shift gets the seriousness another officer gives a breach. |
+| **The Barrier Baton** | The Night the Wall Folded; The Three Rules, Twice | Grief-heavy, driven into the ground to raise the field. It goes into the wall with her and is the one object the record is certain was lost. |
+| **The ledger with margins** | The Child Who Kept Better Records; What Broke; The Quiet | A form with columns for displacement, temperature and acoustic deviation, and no column for a request. Every important entry in this file is written in the margin, because the form will not hold it. |
+| **The channel under the scales** | Day 125; Day 151; Day 165 | Crimson for Grudge, deep blue for Lament, then dark. The arm is the instrument, and the instrument stops being able to tell him anything. |
+| **The instrument sweep** | The Night the Wall Folded | The calibrated reading that was correct and wrong in the same minute. The file's permanent suspicion of exactness. |
+| **The Warden incident index** | Day 177 | One line: *Duration: seventeen minutes. Responders present: yes. Rescue attempted: no.* The whole catastrophe compressed into a form that survives it. |
+| **The lamp on the lectern** | Day 177 | One lamp, because the overheads were still on the night circuit. The reading is held under the smallest possible light, which is how the file stages disclosure. |
+| **Iseul's kitchen stove** | Iseul | The stove ticks as it cools. It is the only room in the file where nobody is measuring anything. |
+
+### Relationships in motion
+
+| Pair | Before the break | After the break | What the second exposure proves |
 |---|---|---|---|
-| **Insu** (인수) | Backstory-only, named | `[Insu]` | Senior medic, extraction team; present at the Day 0 bonding only; no later command role |
-| The second medic | Backstory-only, unnamed | `[she]` | Younger voice in the same debrief; not named in the record |
-| The warden of the east quarter | Backstory-only, unnamed | `[him]` | Day 0 containment line; delivers two reports |
-| The containment officer | Backstory-only, unnamed | `[she]` | Census and first-team report on Day 0 |
-| The engineer | Backstory-only, unnamed | `[him]` | Field generator and civic envelope |
-| The Council envoy | Backstory-only, unnamed | `[him]` | Day 0 Council delegation; carries the Tree's assessment |
+| **Dekan ↔ his mother** | Three rules, a route, and a child who repeats his name until the words come back in order | The same three rules said to a wall, and the fourth thing — *are you coming?* — asked thirty years late | That the procedure she left him was not a way to save her and was never offered as one. |
+| **Dekan ↔ Majin** | A containment lead reporting growth, drift and acoustic deviation | Two men on a catwalk, one of whom speaks the wound obliquely and one of whom carries it upstairs without repeating it | That the same institution that made Dekan exact made Majin deaf, and neither of them can fix the other. |
+| **Dekan ↔ Iseul** | The neighbour who fed a child after the Dream Bleed and kept his ledger when he could not | A retired cook who is too old to be impressed by the Directorate and says the sentence nobody else is permitted to say | That the counter-witness is a person with no institution to protect, and that absolution is not what he receives — accuracy is. |
+| **Dekan ↔ the thousand** | A chorus under the floor: weeping, then screaming, then a request | A lullaby, then silence, then a population line in a closure summary | That the wall stopped being a symptom the day it acquired grammar, and that counting it was never the same as letting it out. |
+| **Dekan ↔ his own wardens** | A doctrine recited by rote at a post | The incident index read aloud at shift change, and the question *and your part, sir?* answered without a defence | That the institution's exactness can be turned on the institution, and that he is the one who turns it. |
+| **Dekan ↔ the form** | A child adding a margin note because the form had no field | A registry officer saying the form still has no field, in Year 4,238 | That nothing in the apparatus changed; only the man filing did. |
 
 ### Connection string
 
