@@ -94,7 +94,7 @@ The model's ending is a stance, usually stated in a short phrase. Majin's is *wi
 
 The model does **not** license copying. Its plot, characters, and imagery stay in Lobotomy Corporation. Only the shape is used.
 
-The full evidence base — thirteen character records read page by page, with the machine taken apart — is filed as [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md). Read it with this section; it is the survey, this is the rule.
+The full evidence base — thirteen character records read page by page, with the machine taken apart — is filed as [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md). It lives **outside `SOMNARAK-WORLD/`**, in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`, because it describes another universe's canon and the world bible holds none. Read it with this section; it is the survey, this is the rule.
 
 ### IV.1c The six devices the survey added
 
@@ -818,7 +818,7 @@ No story file may cite this standard as authority for contradicting a dossier. T
 ## XVII. Current state
 
 - Structure and form: **filed** (`11cd68a`), amended with the Malkuth spine (`ce95ff4`).
-- Source survey: **filed** — [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md), thirteen L Corp records read in full for the spine, the doubling, the witness, and the stance.
+- Source survey: **filed outside the world bible** — [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md) in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`: thirteen L Corp records read in full for the spine, the doubling, the witness, and the stance.
 - Character files: **01 Majin** and **02 Seiyon** filed; Majin rebuilt twice, last on the pre-break/break/post-break spine.
 - Activated Echo-Core: **Majin**, closed. Next activation waits on the owner.
 - Next step: characters 03–09 in order, one at a time, each read against the dossier before drafting and each validated before the next begins.

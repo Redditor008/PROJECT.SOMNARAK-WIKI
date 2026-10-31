@@ -62,9 +62,9 @@ Every file begins with a mandatory **Prologue Record** and ends with a **Present
 
 The standard's spine was not invented for this folder. It was taken apart from the thirteen character records on the *Lobotomy Corporation* Wiki — Angela, Ayin, Carmen, the nine Sephirot, and Myo — and filed as an evidence base:
 
-[`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md)
+[`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md)
 
-It contains the thirteen records taken apart one by one (wound · break · double exposure · oblique speech · counter-witness · institutional symptom · stance), the seven findings that hold across all of them, and the seven questions every Echo-Core file must answer before drafting. The survey takes the **shape** of the telling. It imports no plot, name, line, event, or characterisation.
+It is filed **outside `SOMNARAK-WORLD/`** — the world bible carries Somnarak canon only — and linked from here. It contains the thirteen records taken apart one by one (wound · break · double exposure · oblique speech · counter-witness · institutional symptom · stance), the seven findings that hold across all of them, and the seven questions every Echo-Core file must answer before drafting. The survey takes the **shape** of the telling. It imports no plot, name, line, event, or characterisation.
 
 ---
 

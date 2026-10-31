@@ -103,7 +103,7 @@ Verified `wiki.gg` Contents (2026-09-29):
 | §7 Gameplay | **Tactical Combat Engine** (Initiative, Stress, Resonance) | `SOMNARAK-WORLD/Tactical_Combat_Engine/` + `TEMPLATES/18_TACTICAL_COMBAT_ENGINE_TEMPLATE.md` |
 | **§8 Tool Abnormalities** | **Relic-Entities / Tool-Type Sorrow Entities** (Object/Place/Time → Viderehan+Ferrehan only) | `WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` + `PROJECT_MOON_RESEARCH/13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` + `TEMPLATES/01` Two-Work-Type Rule |
 | **§9 Classification Code** | **SECC — Sorrow Entity Classification Code** `SE-[Origin]-[Rank][Potency]-[Number]` e.g., `SE-C-IIIβ-014` | `SOMNARAK-WORLD/Sorrow_Entities/README.md` + `TEMPLATES/23_CANONICAL_NAMING_AND_BANNED_STRINGS_TEMPLATE.md` |
-| §10 Codex / Dissolution | **Master Codices Archivum** | `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/` |
+| §10 Codex / Dissolution | **Master Codices Archivum** | `PROJECT_MOON_RESEARCH/CROSS_VERSE/` |
 | §12 External Links | **REFERENCE_SOMNARAK_WIKI/** mirror set | This file + `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` |
 
 **Rule for P.S. writing:** `SOMNARAK-WORLD/` is in-universe and **bans PM terms** (`Abnormality`, `Tool Abnormality`, `E.G.O`). Cite this whole page only via HTML-comment footnote pointing here — never in body. `PROJECT_MOON_RESEARCH/` and `REFERENCE_SOMNARAK_WIKI/` are out-of-universe and may use PM terms freely for comparative research.

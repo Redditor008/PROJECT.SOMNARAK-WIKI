@@ -64,7 +64,12 @@ def audit_utf8_files():
 
 
 def audit_macro_canon():
-    """Audit the 52 foundational reference codices (49 in-world Master_Codices + 3 developer standards)."""
+    """Audit the 47 foundational reference codices (44 in-world Master_Codices + 3 developer standards).
+
+    The in-world count fell from 49 to 44 on 2026-10-31 when the ten other-verse comparison,
+    conversion, and vocabulary documents were moved out of SOMNARAK-WORLD/ to
+    PROJECT_MOON_RESEARCH/CROSS_VERSE/. Master_Codices now holds Somnarak canon only.
+    """
     folder = os.path.join(WORLD_DIR, "Master_Codices")
     if not os.path.exists(folder):
         return {"status": "FAIL", "error": "Master_Codices folder missing"}
@@ -80,11 +85,11 @@ def audit_macro_canon():
 
     total_canon = len(files) + len(found_dev)
     return {
-        "status": "PASS" if total_canon >= 52 else "WARNING",
+        "status": "PASS" if total_canon >= 47 else "WARNING",
         "found_in_world": len(files),
         "found_editorial": len(found_dev),
         "found_codices": total_canon,
-        "expected_codices": 52,
+        "expected_codices": 47,
         "codices": sorted(files),
     }
 

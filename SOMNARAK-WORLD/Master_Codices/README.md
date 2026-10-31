@@ -2,7 +2,7 @@
 
 **Archive Authority:** Reverie Directorate Executive Archive  
 **Status:** Supreme Canonical Baseline of Somnarak  
-**Total Tracked Codices:** 38 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~47,500 lines / ~390,000 words)
+**Total Tracked Codices:** 44 In-Universe Master Markdown Documents organized into 5 Canonical Subfolders
 
 ---
 
@@ -122,9 +122,11 @@ Entity manifests, cognitive fracture case studies, and anomalous psychological p
 
 ---
 
-### Subfolder 6: `06_Integrity_Audits_and_Comparative_Studies/`
-Trans-cosmic integrity audits and strict divergence certifications:
-- `SOMNARAK_PM_COMPARATIVE_INTEGRITY_AUDIT.md`: In-depth comparative audit establishing 97.4% structural divergence, 100% plot-hole-free closed-loop mechanics, and absolute ontological independence from foreign fictional universes.
+### Cross-verse material — removed from this archive
+
+There is no sixth subfolder. The ten comparison, conversion, and vocabulary documents that occupied it described another universe's systems, not Somnarak's, and several carried in-world Somnarak letterhead they had no right to. On 2026-10-31 they were moved **out of `SOMNARAK-WORLD/` entirely**, unaltered, to [`PROJECT_MOON_RESEARCH/CROSS_VERSE/`](../../PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md).
+
+`Master_Codices/` is now what its name says: Somnarak canon, five thematic subfolders, no other-verse documents.
 
 ---
 

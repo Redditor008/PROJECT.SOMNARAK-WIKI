@@ -106,7 +106,7 @@ Before you write a single line of canon, certify:
 | Workshops & Acquisition Curve | `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md` |
 | Daily Life & Municipal Law | `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_DAILY_LIFE.md` |
 | Entity Taxonomy & Tales | `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/*.md` |
-| Integrity & PM Comparison | `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/*.md` |
+| Integrity & PM Comparison | `PROJECT_MOON_RESEARCH/CROSS_VERSE/*.md` |
 | Text Box Standards | `TEST_TEXT_BOX_WIDTHS.md` + `REFERENCE_SOMNARAK_WIKI/CHATROOM_TEXT_BOX_STANDARDS.md` |
 | Governance & Push Rule | `GOVERNANCE.md` → `RULE-TO-FOLLOW.md` (Rule A0: commit+push same turn) |
 

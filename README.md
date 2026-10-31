@@ -27,7 +27,7 @@ The repository is structured into distinct, authoritative functional environment
 
 ## Archive Metrics at a Glance
 
-- **Over 1,907 curated canonical markdown files in SOMNARAK-WORLD (3,026+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
+- **Over 1,895 curated canonical markdown files in SOMNARAK-WORLD (3,027+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
 - **Over 3.42 million words (3,420,000+ words)** of structured, authentic canonical lore
 - **49 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
@@ -105,13 +105,12 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,897 files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 49 Macro-Canon Master Codices across 6 canonical subfolders
+│   ├── Master_Codices/                     # 44 Macro-Canon Master Codices across 5 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
 │   │   ├── 02_Institutional_Wings_and_Chronicles/ # 6 Codices: Reverie Directorate, SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan
 │   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 9 Codices: Battle engines, M.A.W., Han Relics, Lumen, Ordeals, Taboo Resonance, workshops
 │   │   ├── 04_Municipal_Society_and_Demographics/ # 10 Codices: Daily life, Council, Collectors, corporations, syndicates, cadres
 │   │   ├── 05_Entities_Tales_and_Fractures/# 7 Codices: Entity taxonomy, linked groups, tales, fractures, relic entities, adversaries, Wound Walkers
-│   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
 │   │   └── README.md                       # Master codices catalog & thematic index
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
 │   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
@@ -268,12 +267,9 @@ Entity manifests, cognitive fracture case studies, and anomalous psychological p
 
 ---
 
-### Subfolder 6: `06_Integrity_Audits_and_Comparative_Studies/`
-Trans-cosmic integrity audits and strict divergence certifications:
+### No sixth subfolder — cross-verse material lives outside the world bible
 
-| Codex File Name | Focus & Subject Matter | Key Topics Covered |
-|---|---|---|
-| [`SOMNARAK_PM_COMPARATIVE_INTEGRITY_AUDIT.md`](SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/SOMNARAK_PM_COMPARATIVE_INTEGRITY_AUDIT.md) | Comparative Integrity Audit (867 lines) | 97.4% structural divergence audit, 100% plot-hole-free mechanics, and ontological independence |
+`Master_Codices/` holds Somnarak canon only. The ten comparison, conversion, and vocabulary documents that used to occupy a sixth subfolder were **moved out of `SOMNARAK-WORLD/` on 2026-10-31**, unaltered, to [`PROJECT_MOON_RESEARCH/CROSS_VERSE/`](PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md). None of them was Somnarak canon; several carried in-world letterhead they had no right to.
 
 ---
 

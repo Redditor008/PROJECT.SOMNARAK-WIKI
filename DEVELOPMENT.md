@@ -88,7 +88,6 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
 │   │   ├── 04_Municipal_Society_and_Demographics/ # 10 Codices: Daily life, Council, Collectors, corporations, syndicates, cadres
 │   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
-│   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
 │   │   └── README.md                       # Master codices catalog & thematic index
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
 │   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)

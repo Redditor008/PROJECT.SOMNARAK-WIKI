@@ -11,13 +11,15 @@
 > Before reading any other file, dossier, or codex in `SOMNARAK-WORLD/`, you **MUST** read **[`Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`](Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md)** to achieve 100% full context of the world's cosmology, core metaphors, and societal laws!  
 > For the complete 5-stage reading roadmap and contextual guide, see **[`README_FIRST.md`](README_FIRST.md)**.
 
-> **Whole-Universe Wiki Part (Out-of-Universe, Cleaner Overview):** For a **Description + Information + Explanation** distillation of this entire archive — matching the `Abnormalities` page clarity (Overview / Behavior / Origin / Enkephalin / E.G.O / Related Entities / Gameplay / Tool / Classification / Codex / Trivia / Navigation) but **natively for our universe** — see `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — citable as [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] · [[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)] companion.
+> **Whole-Universe Wiki Part (Out-of-Universe, Cleaner Overview):** For a **Description + Information + Explanation** distillation of this entire archive — written natively for our universe, not as a comparison — see [`../REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md`](../REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md), the out-of-universe companion to this in-universe tree.
 
 ---
 
 ## Welcome to the World of Somnarak (소마나락)
 
 This directory is the dedicated, **100% in-universe archive** for the world of Somnarak. Every file and subfolder within `SOMNARAK-WORLD/` is written from within the reality of Somnarak — as official containment dossiers, tactical logs, operational codices, field surveys, and psychological evaluations.
+
+> **PURITY RULE — what this tree may not contain.** `SOMNARAK-WORLD/` holds Somnarak canon only. No document here may describe another universe's systems, borrow another setting's vocabulary as authority, or wear Somnarak archival letterhead while discussing something that is not Somnarak. Comparison, conversion, and craft-research material lives outside this tree in [`../PROJECT_MOON_RESEARCH/CROSS_VERSE/`](../PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md), which is reference only and never canon. Ten such documents were removed from `Master_Codices/` on 2026-10-31; the folder that held them no longer exists.
 
 > *"Somnarak is not a city you visit. It is a city that happens to you. Built atop the grave of unaddressed grief, sustained through disciplined containment, and awaiting the dawn."*
 
@@ -47,8 +49,7 @@ SOMNARAK-WORLD/
 │   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan (6 codices)
 │   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, M.A.W. Codex, Han Relics, Lumen, Ordeals, Taboo Resonance, Workshops (9 codices)
 │   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (9 codices)
-│   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Entities, Tales, Named Fractures, Relic Entities, Enemies, Wound Walkers (7 codices)
-│   └── 06_Integrity_Audits_and_Comparative_Studies/ # Comparative Integrity & System Audits (4 codices)
+│   └── 05_Entities_Tales_and_Fractures/ # Entity Codex, Entities, Tales, Named Fractures, Relic Entities, Enemies, Wound Walkers (7 codices)
 │
 ├── Sorrow_Entities/                    # 290 Unique Canonical Containment Dossiers & Origin Tales
 │   ├── README.md                       # SECC classification guide & work affinities

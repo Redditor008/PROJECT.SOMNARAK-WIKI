@@ -2001,7 +2001,7 @@ Copy this worksheet into the conversion note and complete it in Conversion Order
 
 Where the declared output excludes a branch, write **N/A —** with the branch and frame-law reason (for example, regular Work Preferences on a Tool output, or an original-Tool operation on a record that houses no original relic). Repeat a row for each work discipline or component, event state, and equipment piece whose values differ; never compress distinct pieces or states into one blended profile.
 
-Before Section 6, check the exact linked set against the [pinned SE ↔ M.A.W. contradiction queue](../../MAW_Codex_Sets/PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md). If the SE dossier is queued and the contradiction has not been reconciled, every affected equipment output is **HOLD**; the conversion does not choose between the embedded SE account and the exact M.A.W. dossier by preference.
+Before Section 6, check the exact linked set against the [pinned SE ↔ M.A.W. contradiction queue](../../SOMNARAK-WORLD/MAW_Codex_Sets/PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md). If the SE dossier is queued and the contradiction has not been reconciled, every affected equipment output is **HOLD**; the conversion does not choose between the embedded SE account and the exact M.A.W. dossier by preference.
 
 ### 1. Frame and Source Map
 
