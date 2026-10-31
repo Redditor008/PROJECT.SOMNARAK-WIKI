@@ -44,7 +44,7 @@ SOMNARAK-WORLD/
 ├── Master_Codices/                     # 49 Macro-Canon Codices across 6 Subfolders
 │   ├── README.md                       # Master classification & reading roadmap
 │   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech (7 codices)
-│   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Absolvohan, Caravan (6 codices)
+│   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan (6 codices)
 │   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, MAW Codex, Workshops, Ordeals (7 codices)
 │   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Syndicates, Cadres (9 codices)
 │   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Tales, Named Fractures, Enemies (5 codices)
@@ -164,4 +164,4 @@ SOMNARAK-WORLD/
 
 ## Archival Classification Notice
 
-This archive (`SOMNARAK-WORLD/`) is strictly reserved for canonical documents authorized by the Sovereign Council of Sighs and the Five Sovereign Institutions. All materials contained herein are authenticated records of municipal, expeditionary, and containment reality. Classified under Sovereign Archival Protocol 01.
+This archive (`SOMNARAK-WORLD/`) is strictly reserved for canonical documents authorized by the Sovereign Council of Sighs and the Five Main Companies; the Memory Archive is preserved separately as a non-commercial sovereign sanctuary. All materials contained herein are authenticated records of municipal, expeditionary, and containment reality. Classified under Sovereign Archival Protocol 01.

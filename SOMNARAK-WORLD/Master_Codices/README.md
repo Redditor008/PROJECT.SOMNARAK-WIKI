@@ -69,12 +69,12 @@ Foundational cosmological architecture, metaphysics, origin cataclysms, and the 
 
 ### Subfolder 2: `02_Institutional_Wings_and_Chronicles/`
 Official corporate dossiers and operational doctrines of the sovereign institutions (with all narrative chronicles housed exclusively in their dedicated suites):
-- `The_REVERIE_DIRECTORATE.md` (3,073 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions. *(Paired with the 366-day facility saga in `SOMNARAK-WORLD/The_Absolvohan/`).*
+- `The_REVERIE_DIRECTORATE.md` (3,558 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions. *(Paired with the 366-day facility saga in `SOMNARAK-WORLD/The_Absolvohan/`).*
 - `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles. *(Paired with the 7 subterranean descents in `SOMNARAK-WORLD/Katabagil/`).*
 - `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles. *(Paired with the 6 pacification operations in `SOMNARAK-WORLD/Katharcheok/`).*
-- `The_WONHYEONG_BIOLOGICS.md`: The Won-Hyeong Bio-Restoration Conglomerate master corporate dossier (Main Company 04 / Sovereign Institution 04), 4,000-year history of flesh-suture, Composure Chemistry Directorate, Sub-Vault 04 Archetype synthesis, and Sovereign Pharmacopoeia. *(Brim-full corporate lore, history, and technology).*
+- `The_WONHYEONG_BIOLOGICS.md`: The Won-Hyeong Bio-Restoration Conglomerate master corporate dossier (Main Company 04 / Sovereign Institution 04), post-Great Calcification history of flesh-suture, Composure Chemistry Directorate, Sub-Vault 04 Archetype synthesis, and Sovereign Pharmacopoeia. *(Brim-full corporate lore, history, and technology).*
 - `The_MEMORY_ARCHIVE.md`: The Memory Archive master dossier, 6,000-year-old sub-Alpha tree root architecture, Mnemonic Combat Framework, 7-floor reading stratigraphy, and Seiyon's synthesis engrams. *(Sovereign Mnemonic Repository & Spire Library — Institutional Sanctuary, not a commercial company; paired with the 7 mnemonic readings in `SOMNARAK-WORLD/Gieok_Jeojangso/`).*
-- `The_HORIZON_CARAVAN.md`: The Horizon Caravan master corporate dossier, the Drift Throne 140m mobile crawler specifications, trans-desolate Han-flow navigation, and planetary expeditionary doctrine. *(Paired with the 6 trans-desolate arcs in `SOMNARAK-WORLD/Jipyeongseondae/`).*
+- `The_HORIZON_CARAVAN.md`: The Horizon Caravan master corporate dossier, the Drift Throne 142.5m mobile crawler specifications, trans-desolate Han-flow navigation, and planetary expeditionary doctrine. *(Paired with the 6 trans-desolate arcs in `SOMNARAK-WORLD/Jipyeongseondae/`).*
 
 ---
 

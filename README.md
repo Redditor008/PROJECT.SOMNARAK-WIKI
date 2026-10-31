@@ -107,7 +107,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── README.md                           # In-world archive guide & recommended reading order
 │   ├── Master_Codices/                     # 49 Macro-Canon Master Codices across 6 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
-│   │   ├── 02_Institutional_Wings_and_Chronicles/ # 5 Codices: Reverie Directorate, SED, UCD, Archive, Caravan
+│   │   ├── 02_Institutional_Wings_and_Chronicles/ # 6 Codices: Reverie Directorate, SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan
 │   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
 │   │   ├── 04_Municipal_Society_and_Demographics/ # 10 Codices: Daily life, Council, Collectors, corporations, syndicates, cadres
 │   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
@@ -208,11 +208,12 @@ Official corporate dossiers and operational doctrines of the sovereign instituti
 
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
-| [`The_REVERIE_DIRECTORATE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md) | Facility 01 Corporate Dossier (3,576 lines) | Subterranean Facility 01, 8 Floors, 9 Echo-Core attendants, and containment systems |
+| [`The_REVERIE_DIRECTORATE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md) | Facility 01 Corporate Dossier (3,558 lines) | Subterranean Facility 01, 8 Floors, 9 Echo-Core attendants, and containment systems |
 | [`The_SOMNARAK_EXPLORATION_DECREE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_SOMNARAK_EXPLORATION_DECREE.md) | SED Corporate Dossier (581 lines) | Three-tier subterranean descent doctrine, survey gear, and 7-member explorer cadre |
 | [`The_UNDERWORLD_CLEANUP_DESCEND.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_UNDERWORLD_CLEANUP_DESCEND.md) | UCD Corporate Dossier (509 lines) | Three-phase reclamation doctrine, urban pacification weaponry, and 6-officer task force |
+| [`The_WONHYEONG_BIOLOGICS.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_WONHYEONG_BIOLOGICS.md) | Won-Hyeong Bio-Restoration Dossier (287 lines) | Main Company 04: Composure Ampules, Living Suture Mesh, Archetype Catalyst, clinical debt, and Pale Bailiffs |
 | [`The_MEMORY_ARCHIVE.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md) | The Memory Archive Dossier (915 lines) | Sub-Alpha root architecture, Mnemonic Combat Framework, and 7-floor reading stratigraphy |
-| [`The_HORIZON_CARAVAN.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_HORIZON_CARAVAN.md) | The Horizon Caravan Dossier (684 lines) | Drift Throne 140m mobile crawler specifications, trans-desolate navigation, and bastion warfare |
+| [`The_HORIZON_CARAVAN.md`](SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_HORIZON_CARAVAN.md) | The Horizon Caravan Dossier (684 lines) | Drift Throne 142.5m mobile crawler specifications, trans-desolate navigation, and bastion warfare |
 
 ---
 
@@ -239,7 +240,7 @@ Societal structures, municipal governance, debt economics, and faction demograph
 |---|---|---|
 | [`SOMNARAK_CAST.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CAST.md) | Canonical Registry of Figures (1,396 lines) | Council of Sighs, Departmental Leads, Wardens, Enforcers, Sector Chiefs, and Outlaws |
 | [`SOMNARAK_COLLECTOR_BUREAU.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_COLLECTOR_BUREAU.md) | Municipal Debt Enforcement (142 lines) | 4 Metaphysical Currencies (Material, Karma, Soul, Emotional), Collector Scales, foreclosure tiers |
-| [`SOMNARAK_CORPORATIONS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md) | Sovereign Institutions Doctrine (351 lines) | Unified pentagonal operational doctrine connecting R.D., SED, UCD, Archive, and Caravan |
+| [`SOMNARAK_CORPORATIONS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md) | Sovereign Institutions Doctrine (351 lines) | Five Main Companies (R.D., SED, UCD, Won-Hyeong, Horizon Caravan) + five Sub Infrastructure Trusts; Memory Archive filed separately as a sanctuary |
 | [`SOMNARAK_ZONE_CORPORATIONS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_ZONE_CORPORATIONS.md) | 25 Municipal Zone Corporations & Curfew Corps | Exactly 5 corporations per Zone (A–E), Haz-scorchers & Cleansers, Giltong arbiters, outer metropolises |
 | [`SOMNARAK_COUNCIL_OF_SIGHS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_COUNCIL_OF_SIGHS.md) | Sovereign Municipal Governance (128 lines) | High governance council, Chief of Staff Yeong, First Head Dohee, Third Head Gwanhee, and 45 cloaked heads |
 | [`SOMNARAK_DAILY_LIFE.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_DAILY_LIFE.md) | Civilian Life & Urban Culture (510 lines) | Food synthesis, fashion, acoustic curfews, civic sectors, slang, and civilian social habits |
