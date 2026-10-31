@@ -1165,6 +1165,18 @@ No new canonical fact is proposed. Connective material is staging, witness voice
 
 The four-hundred-and-six figure appears only as the east quarter's population during the Sovereign event and amends no ledger. If the owner wants it canonical, it requires a Promotion Check before synchronization.
 
+### §IV.1c compliance check
+
+| Device | Presence in this file | Evidence |
+|---|---|---|
+| **The object** | The scrap of gauge log in her handwriting | Prologue (written, kept); The Bench, Again (held, re-read) |
+| **The withheld sentence** | *Shared is not something you send* — written in micro-ink on Day 145 and never said aloud | What the Founder Wrote; What Broke |
+| **The counter-witness** | The senior medic on the fusion directive: he read it twice, then said "noted" | What the Medics Said; Day 365 |
+| **The permanent symptom** | He reads reports twice, and reads names twice, because once does not make them stay | The Lance; Day 29; Day 365; Willingness |
+| **The oblique speech** | The catwalk, Day 29: the warm floor, the readings he heard instead of her, "what am I supposed to file that under" | Day 29 — The Forgiveness |
+| **The stance** | Willingness | Willingness |
+| **Routine-voice check** | Before: a report read once and signed. After: the same report, read once, and put down | Willingness, final line |
+
 ### Validation record
 
 - Whole canonical dossier read: `THE_DIRECTOR.md` (689 lines).

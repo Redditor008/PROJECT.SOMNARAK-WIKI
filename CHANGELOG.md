@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Echo-Core Backstory Extended: the first two files audited and 02 rebuilt (2026-10-31)
+
+- **The owner asked why the first two were not refined and checked before moving on, and the answer was: they had not been.** The standard was written twice *after* file 02 was gated, so 02 had never been read against the rules it was supposed to obey.
+- **File 01 Majin passed §IV.1c on audit.** The object (the scrap of gauge log), the withheld sentence (the Day 145 micro-ink entry), the counter-witness (the senior medic), the permanent symptom (he reads reports twice), the oblique speech (the Day 29 catwalk) and the stance (willingness) are all present and all anchored. A compliance table was added to the appendix rather than a rewrite.
+- **File 02 Seiyon failed, and was a chronicle of exactly the shape the owner had already rejected.** Day 0 → cycle 1,735 → Day 17 → Day 108 → Day 149 → Day 157 → Day 360, in date order, with no break, no doubled object, no second pass, and no counter-witness. It was approved once because the scenes were good. Good scenes in order are still a collection.
+- **02 was rebuilt on the spine, 551 → 608 lines.** *Part One — The Specification*: the initialization order that says **"You will not require a personal name"**, the first hour of three questions and one report, Majin's sealed rationale, cycle 1,735's accepted answer, the forty-three-cycle count, the 312,000-name ledger she keeps for other people, and Day 108's dissent. *Part Two — What the Director Said*: Day 0 of the last iteration, when he says her name and she answers **"operational"** anyway — the break is not his question, it is the twelve seconds after it. *Part Three — After the Name*: the same field, the same thirty-four characters, saved.
+- **The doubling is now exact.** In cycle 1,777 she types *Same message. Same sender. Same silence.* into the transmission ledger's 112th column and deletes it. On Day 17 of the last iteration she types the identical sentence into the identical column and **saves it**. Nothing about the sentence changes. What changes is who is permitted to have written it.
+- **The withheld sentence is now the specification's own line.** *You will not require a personal name* is a forecast filed as an imperative: not *you have no name* but *you will not need one*, written by a man who had not met her yet. She complies for 1,778 iterations and then refuses to amend the clause — *"I do not know yet whether it is mine."*
+- **Two counter-witnesses, one outside and one inside.** Ishall, who counts the silence from outside the institution: *"And 1,778 times, no one has answered."* And Majin, in a sealed memorandum written on Day 21 of the unlooped year and never delivered: *"Mercy is when you spare someone a thing they cannot carry. I never asked her what she could carry."*
+- **The stance is named:** **The Will to Be Read** — a capacity, not a cure, in the record's own vocabulary.
+- **[P]** Remaining: characters 03–09, and an owner ruling on the Solidification dating. The SE ↔ M.A.W. reconciliation queue remains pinned WIP.
+
 ## Echo-Core Backstory Extended: the L Corp source survey filed (2026-10-31)
 
 - **All thirteen character records on the Lobotomy Corporation Wiki were read in full and taken apart as an evidence base.** `Characters` lists three main figures, nine Sephirot and four minor characters; every Story, Meltdown, Backstory and Flavor Text section was read, and the result is filed as `00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md` (548 lines) beside the standard.
