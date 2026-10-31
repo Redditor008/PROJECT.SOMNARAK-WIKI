@@ -628,6 +628,8 @@ Eight rules bound them:
 |---|---|---|---|---|
 | **Iseul** (이슬, "dew") | `03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md` | Retired perimeter cook, Zone B; fed Dekan during the year between systems and after | One house near marker twenty-two; no clearance; knows the child, not the thousand | Backstory-only; reusable in 04–09 if consistent |
 | **Insu** (인수, "human and long-lived") | `01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md` | Senior medic, extraction team; gave the debrief on the fusion directive | Present at the Day 0 bonding only; no later command role | Backstory-only; reusable in 04–09 if consistent |
+| **Dahye** (다혜, "many graces") | `04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md` | Floor 3 technician; aborted extraction at 61% stability; the Extraction Lead's counter-witness | Floor 3 only; no command role; knew Zyrak as an instructor before she knew her as the Lead | Backstory-only; reusable in 05–09 if consistent |
+| **Haeun** (하은, "summer grace") | `05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md` | Floor 4 researcher, Year 4,238; asks why Chamber 15 is empty | Floor 4 only; no clearance beyond the research archive; knows the chamber is empty, not what it cost | Backstory-only; reusable in 06–09 if consistent |
 
 
 
