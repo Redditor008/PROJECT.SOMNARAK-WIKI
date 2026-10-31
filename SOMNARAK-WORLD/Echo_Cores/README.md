@@ -70,4 +70,4 @@ Each file in this archive adheres to standardized archival guidelines:
 
 ## 📌 PIN WIP — Backstory Extended
 
-[`Backstory_Extended/`](Backstory_Extended/README.md) is reserved for fuller, scene-level histories of the nine named Echo-Cores after the current Conversion Guide repair sequence. It is currently a **pinned WIP planning index only**: no extended chapters have been written, and the nine dossiers above remain the canonical baseline. When activated, write one named character at a time from the whole source dossier; do not move or replace a dossier to fill the folder.
+[`Backstory_Extended/`](Backstory_Extended/README.md) is reserved for fuller, scene-level histories of the nine named Echo-Cores. Its governing structure and form are now filed in [`Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md), but **no Echo-Core has been activated and no extended scene has been written**. The nine dossiers above remain the canonical baseline. When activated, write one named character at a time from the whole source dossier; do not move or replace a dossier to fill the folder.
