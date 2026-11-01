@@ -32,12 +32,12 @@ Passing Bell's Token is the stigma record of the Passing Bell set — head-slot,
 
 ## ITEM-SPECIFIC HISTORY — *The Passing Bell Source-Trace: Stigma Record*
 
-The first Passing Bell's Token field bearer encountered this source response: No instrument has ever registered a sound here; the watch returns the hour and the fact of the ring, and nothing that can be written down as a reading. The stigma severs the immediate hazard only after the team attributed it to Passing Bell. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Passing Bell's Token field bearer encountered this source response: No instrument has ever registered a sound here; the watch returns the hour and the fact of the ring, and nothing that can be written down as a reading. The stigma severs the immediate hazard only after the team attributed it to Passing Bell. A bearer heard their own name read out for the last time on an ordinary afternoon, and the Token’s binding is the note they made afterwards.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Passing Bell's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the finality attaches to titles as well as names, and the bearer flinches at being called anything.
 - Terminal state: Passing Bell's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-919 -->
@@ -46,7 +46,7 @@ The first Passing Bell's Token field bearer encountered this source response: No
 
 ## SET RELATIONSHIP
 
-Within *Passing Bell — Witnessed Form*, Passing Bell's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Passing Bell — Witnessed Form*, Passing Bell's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer hears a name spoken as though there will be a next time.
 
 ---
 

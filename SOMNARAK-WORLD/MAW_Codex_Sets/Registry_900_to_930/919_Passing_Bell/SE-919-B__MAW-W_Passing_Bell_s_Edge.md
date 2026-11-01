@@ -33,12 +33,12 @@ Passing Bell's Edge is the weapon record of the Passing Bell set — β-grade, W
 
 ## ITEM-SPECIFIC HISTORY — *The Passing Bell Source-Trace: Weapon Record*
 
-The first Passing Bell's Edge field bearer encountered this source response: N/A The weapon opens the immediate hazard only after the team attributed it to Passing Bell. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Passing Bell's Edge field bearer encountered this source response: N/A The weapon opens the immediate hazard only after the team attributed it to Passing Bell. A wielder stopped mid-sentence to listen for a name that had just been read out, and the Edge’s binding is the report written after that pause.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Passing Bell's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the reading starts arriving without the strike, and the wielder stops for names in rooms where nothing is being read.
 - Terminal state: Passing Bell's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-919 -->
@@ -47,7 +47,7 @@ The first Passing Bell's Edge field bearer encountered this source response: N/A
 
 ## SET RELATIONSHIP
 
-Within *Passing Bell — Witnessed Form*, Passing Bell's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Passing Bell — Witnessed Form*, Passing Bell's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which the wielder finishes their sentence.
 
 ---
 

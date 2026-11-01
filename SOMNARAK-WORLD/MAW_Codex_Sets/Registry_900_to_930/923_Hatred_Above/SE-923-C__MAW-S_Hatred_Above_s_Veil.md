@@ -33,12 +33,12 @@ Hatred Above's Veil is the suit record of the Hatred Above set — δ-grade, Gru
 
 ## ITEM-SPECIFIC HISTORY — *The Hatred Above Source-Trace: Suit Record*
 
-The first Hatred Above's Veil field bearer encountered this source response: Stand outside the rectangle for the full watch and answer nothing; the pressure settles for a party that leaves every question unanswered. The suit redirects the immediate hazard only after the team attributed it to Hatred Above. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hatred Above's Veil field bearer encountered this source response: Stand outside the rectangle for the full watch and answer nothing; the pressure settles for a party that leaves every question unanswered. The suit redirects the immediate hazard only after the team attributed it to Hatred Above. A wearer’s answer landed as a verdict and the room took it for one, and the Veil’s binding is the minute taken at that exchange.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Hatred Above's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the silence starts reading as agreement, and the wearer is recorded as having agreed to things they did not discuss.
 - Terminal state: Hatred Above's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-923 -->
@@ -47,7 +47,7 @@ The first Hatred Above's Veil field bearer encountered this source response: Sta
 
 ## SET RELATIONSHIP
 
-Within *Hatred Above — Witnessed Form*, Hatred Above's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Hatred Above — Witnessed Form*, Hatred Above's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing the wearer says lands as a sentence rather than a ruling; the first ruling takes the Veil out.
 
 ---
 

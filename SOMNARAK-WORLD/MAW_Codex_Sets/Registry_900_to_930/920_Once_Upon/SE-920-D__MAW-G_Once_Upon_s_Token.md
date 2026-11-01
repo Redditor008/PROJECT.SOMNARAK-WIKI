@@ -32,12 +32,12 @@ Once Upon's Token is the stigma record of the Once Upon set — head-slot, besto
 
 ## ITEM-SPECIFIC HISTORY — *The Once Upon Source-Trace: Stigma Record*
 
-The first Once Upon's Token field bearer encountered this source response: Read the register page and name the tellers aloud; those two are the instrument, and the story is legible in the register before anybody has heard it told. The stigma redirects the immediate hazard only after the team attributed it to Once Upon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Once Upon's Token field bearer encountered this source response: Read the register page and name the tellers aloud; those two are the instrument, and the story is legible in the register before anybody has heard it told. The stigma redirects the immediate hazard only after the team attributed it to Once Upon. A bearer woke having learned something they had no use for, and the Token’s binding is the dream record from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Once Upon's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the lesson starts arriving with the ending attached before the dream has been had.
 - Terminal state: Once Upon's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-920 -->
@@ -46,7 +46,7 @@ The first Once Upon's Token field bearer encountered this source response: Read 
 
 ## SET RELATIONSHIP
 
-Within *Once Upon — Witnessed Form*, Once Upon's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Once Upon — Witnessed Form*, Once Upon's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer wakes having learned something they can use.
 
 ---
 

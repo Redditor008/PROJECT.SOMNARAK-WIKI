@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 90)
+
+`SE-918` Ninety Seconds, `SE-919` Passing Bell, `SE-920` Once Upon, `SE-921` Cracked Flesh, `SE-922` Door to Nowhere, `SE-923` Hatred Above — **eighteen records, fifty-four sentences.** The Passing Bell's Veil holds while the wearer's own name still sounds like it belongs to the living; the Door to Nowhere's Shield keeps resonance while the wearer still tries the door for somebody else; the Hatred Above's Token drops out the first time the bearer holds their ground through a contradiction.
+
+**156 of 345 done. 189 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 89)
 
 `SE-912` Eleven Fifty-Nine, `SE-913` Backward Hour, `SE-914` Amnesia, `SE-915` Rusted, `SE-916` Devouring Bloom, `SE-917` Dawn That Forgot — **eighteen records, fifty-four sentences.** Eleven Fifty-Nine's Edge loses its set on a blow thrown in a night the wielder can finish; the Rusted Span holds while the wearer still counts who did not come across; the Dawn That Forgot's Veil needs the wearer to say what they did in one dawn rather than take it on report.

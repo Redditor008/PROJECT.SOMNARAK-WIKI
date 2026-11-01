@@ -33,12 +33,12 @@ The Awakened Marrow-Spike & Tendril is the weapon record of the Cracked Flesh se
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Weapon Record*
 
-The first bearer of The Awakened Marrow-Spike & Tendril encountered this source response: N/A The weapon witnesses the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Awakened Marrow-Spike & Tendril encountered this source response: N/A The weapon witnesses the immediate hazard only after the team attributed it to Cracked Flesh. A wielder stood as though the floor were about to give and could not be talked out of it, and the Edge’s binding is the note made at that muster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Cracked Flesh's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the footing goes before the strike, and the wielder fights from the stance of somebody already falling.
 - Terminal state: Cracked Flesh's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-921 -->
@@ -47,7 +47,7 @@ The first bearer of The Awakened Marrow-Spike & Tendril encountered this source 
 
 ## SET RELATIONSHIP
 
-Within *Cracked Flesh — Witnessed Form*, The Awakened Marrow-Spike & Tendril performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cracked Flesh — Witnessed Form*, The Awakened Marrow-Spike & Tendril performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown with both feet set.
 
 ---
 

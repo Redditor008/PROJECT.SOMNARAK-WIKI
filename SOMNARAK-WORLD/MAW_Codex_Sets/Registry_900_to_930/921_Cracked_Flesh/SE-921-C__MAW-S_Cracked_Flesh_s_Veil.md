@@ -33,12 +33,12 @@ The Suture-Cracked Hauberk is the suit record of the Cracked Flesh set — γ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Suit Record*
 
-The first bearer of The Suture-Cracked Hauberk encountered this source response: Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. The suit isolates the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Suture-Cracked Hauberk encountered this source response: Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. The suit isolates the immediate hazard only after the team attributed it to Cracked Flesh. A wearer could not stand still in an open room and had to be given a wall, and the Veil’s binding is the accommodation note from that deployment.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Cracked Flesh's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the bracing reaches solid ground, and the wearer flinches at paving that is not moving.
 - Terminal state: Cracked Flesh's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-921 -->
@@ -47,7 +47,7 @@ The first bearer of The Suture-Cracked Hauberk encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Cracked Flesh — Witnessed Form*, The Suture-Cracked Hauberk performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cracked Flesh — Witnessed Form*, The Suture-Cracked Hauberk performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can stand still when told to; the first room where they cannot takes the Veil out.
 
 ---
 

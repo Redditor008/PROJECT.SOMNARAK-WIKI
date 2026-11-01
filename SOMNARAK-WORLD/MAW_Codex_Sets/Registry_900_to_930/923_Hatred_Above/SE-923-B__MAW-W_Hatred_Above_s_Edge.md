@@ -33,12 +33,12 @@ Hatred Above's Edge is the weapon record of the Hatred Above set — δ-grade, G
 
 ## ITEM-SPECIFIC HISTORY — *The Hatred Above Source-Trace: Weapon Record*
 
-The first Hatred Above's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Hatred Above. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hatred Above's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Hatred Above. A wielder could not say afterwards what the anger had been about or who had been standing closest, and the Edge’s binding is the report filed from that bout.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Hatred Above's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the subject is chosen before the wielder enters the room, and the nearest person is already the reason.
 - Terminal state: Hatred Above's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-923 -->
@@ -47,7 +47,7 @@ The first Hatred Above's Edge field bearer encountered this source response: N/A
 
 ## SET RELATIONSHIP
 
-Within *Hatred Above — Witnessed Form*, Hatred Above's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Hatred Above — Witnessed Form*, Hatred Above's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown with a subject still in the wielder’s mind.
 
 ---
 

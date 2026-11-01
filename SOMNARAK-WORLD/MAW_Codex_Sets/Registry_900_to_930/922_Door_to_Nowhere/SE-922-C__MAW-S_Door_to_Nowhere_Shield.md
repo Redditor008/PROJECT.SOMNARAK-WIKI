@@ -33,12 +33,12 @@ The Door to Nowhere Shield is the suit record of the Door to Nowhere set — δ-
 
 ## ITEM-SPECIFIC HISTORY — *The Door to Nowhere Source-Trace: Suit Record*
 
-The first Door to Nowhere Shield field bearer encountered this source response: Tests whether the worker can stand before an opening without using it. The suit severs the immediate hazard only after the team attributed it to Door to Nowhere. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Door to Nowhere Shield field bearer encountered this source response: Tests whether the worker can stand before an opening without using it. The suit severs the immediate hazard only after the team attributed it to Door to Nowhere. A wearer left a room alone for the third time with people still in it, and the Shield’s binding is the roll-call from that relief.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Door to Nowhere's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the door opens for the wearer only, and the leaving becomes the arrangement rather than the cost.
 - Terminal state: Door to Nowhere's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-922 -->
@@ -47,7 +47,7 @@ The first Door to Nowhere Shield field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Door to Nowhere — Witnessed Form*, Door to Nowhere Shield performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Door to Nowhere — Witnessed Form*, Door to Nowhere Shield performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still tries the door for somebody else; the first exit they do not try, the Shield is out.
 
 ---
 

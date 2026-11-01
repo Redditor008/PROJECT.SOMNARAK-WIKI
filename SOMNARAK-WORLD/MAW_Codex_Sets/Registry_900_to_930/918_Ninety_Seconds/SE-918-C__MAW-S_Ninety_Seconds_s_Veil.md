@@ -33,12 +33,12 @@ Ninety Seconds's Veil is the suit record of the Ninety Seconds set — δ-grade,
 
 ## ITEM-SPECIFIC HISTORY — *The Ninety Seconds Source-Trace: Suit Record*
 
-The first Ninety Seconds's Veil field bearer encountered this source response: Stand the ninety seconds without moving into them; the pressure settles as the interval closes on its own, and the standing is the endurance. The suit witnesses the immediate hazard only after the team attributed it to Ninety Seconds. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Ninety Seconds's Veil field bearer encountered this source response: Stand the ninety seconds without moving into them; the pressure settles as the interval closes on its own, and the standing is the endurance. The suit witnesses the immediate hazard only after the team attributed it to Ninety Seconds. A wearer could not say when they had last eaten and nobody in the room could place them, and the Veil’s binding is the note taken at that table.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Ninety Seconds's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the interval stops ending, and the wearer’s relief is logged while they are still inside the ninety seconds.
 - Terminal state: Ninety Seconds's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-918 -->
@@ -47,7 +47,7 @@ The first Ninety Seconds's Veil field bearer encountered this source response: S
 
 ## SET RELATIONSHIP
 
-Within *Ninety Seconds — Witnessed Form*, Ninety Seconds's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Ninety Seconds — Witnessed Form*, Ninety Seconds's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can say what happened after the interval; the first watch they cannot takes the Veil out.
 
 ---
 

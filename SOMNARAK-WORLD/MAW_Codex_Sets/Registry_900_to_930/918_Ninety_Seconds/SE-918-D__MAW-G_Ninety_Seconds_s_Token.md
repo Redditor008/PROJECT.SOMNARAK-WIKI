@@ -32,12 +32,12 @@ Ninety Seconds's Token is the stigma record of the Ninety Seconds set — head-s
 
 ## ITEM-SPECIFIC HISTORY — *The Ninety Seconds Source-Trace: Stigma Record*
 
-The first Ninety Seconds's Token field bearer encountered this source response: Watch for the first sign and take the band as it opens; the ninety seconds hold the interval exactly, and the interval is the one fixed thing the watch returns. The stigma isolates the immediate hazard only after the team attributed it to Ninety Seconds. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Ninety Seconds's Token field bearer encountered this source response: Watch for the first sign and take the band as it opens; the ninety seconds hold the interval exactly, and the interval is the one fixed thing the watch returns. The stigma isolates the immediate hazard only after the team attributed it to Ninety Seconds. A bearer used a familiar word correctly and could not say where they had learned it, and the Token’s binding is the note made when they were asked.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Ninety Seconds's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the thinning reaches faces, and the bearer greets people they have worked beside for years as strangers.
 - Terminal state: Ninety Seconds's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-918 -->
@@ -46,7 +46,7 @@ The first Ninety Seconds's Token field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Ninety Seconds — Witnessed Form*, Ninety Seconds's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Ninety Seconds — Witnessed Form*, Ninety Seconds's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer can place the word they just used.
 
 ---
 

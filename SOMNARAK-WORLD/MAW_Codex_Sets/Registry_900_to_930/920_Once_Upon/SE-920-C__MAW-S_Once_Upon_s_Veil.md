@@ -33,12 +33,12 @@ Once Upon's Veil is the suit record of the Once Upon set — γ-grade, Lament-al
 
 ## ITEM-SPECIFIC HISTORY — *The Once Upon Source-Trace: Suit Record*
 
-The first Once Upon's Veil field bearer encountered this source response: Hold the room for the full telling without interrupting a teller; the pressure settles when the register is closed and the names are read back. The suit discharges the immediate hazard only after the team attributed it to Once Upon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Once Upon's Veil field bearer encountered this source response: Hold the room for the full telling without interrupting a teller; the pressure settles when the register is closed and the names are read back. The suit discharges the immediate hazard only after the team attributed it to Once Upon. A wearer waited for the part where it turns out all right and the shift ended before it came, and the Veil’s binding is the duty board from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Once Upon's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the waiting moves out of the story and into the building, and the wearer holds a post for a turn that is not coming.
 - Terminal state: Once Upon's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-920 -->
@@ -47,7 +47,7 @@ The first Once Upon's Veil field bearer encountered this source response: Hold t
 
 ## SET RELATIONSHIP
 
-Within *Once Upon — Witnessed Form*, Once Upon's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Once Upon — Witnessed Form*, Once Upon's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still expects a consequence; the first chapter they take as an ending, the Veil is out.
 
 ---
 

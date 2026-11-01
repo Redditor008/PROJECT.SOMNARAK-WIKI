@@ -32,12 +32,12 @@ Hatred Above's Token is the stigma record of the Hatred Above set — head-slot,
 
 ## ITEM-SPECIFIC HISTORY — *The Hatred Above Source-Trace: Stigma Record*
 
-The first Hatred Above's Token field bearer encountered this source response: Read the inward angle from outside the marked rectangle; the angle is the instrument, and what it answers to becomes legible without stepping inside. The stigma stays the immediate hazard only after the team attributed it to Hatred Above. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hatred Above's Token field bearer encountered this source response: Read the inward angle from outside the marked rectangle; the angle is the instrument, and what it answers to becomes legible without stepping inside. The stigma stays the immediate hazard only after the team attributed it to Hatred Above. A bearer stepped back from a contradiction in a conversation where the step was read as retreat, and the Token’s binding is the note the other party made.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Hatred Above's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the step moves into ordinary talk, and the bearer concedes ground nobody asked them to concede.
 - Terminal state: Hatred Above's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-923 -->
@@ -46,7 +46,7 @@ The first Hatred Above's Token field bearer encountered this source response: Re
 
 ## SET RELATIONSHIP
 
-Within *Hatred Above — Witnessed Form*, Hatred Above's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Hatred Above — Witnessed Form*, Hatred Above's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set the first time the bearer holds their ground through a contradiction.
 
 ---
 

@@ -33,12 +33,12 @@ Passing Bell's Veil is the suit record of the Passing Bell set — β-grade, Wei
 
 ## ITEM-SPECIFIC HISTORY — *The Passing Bell Source-Trace: Suit Record*
 
-The first Passing Bell's Veil field bearer encountered this source response: Keep the post for the full hour without answering it; the pressure settles around a party that lets the hour pass without a reply. The suit stabilizes the immediate hazard only after the team attributed it to Passing Bell. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Passing Bell's Veil field bearer encountered this source response: Keep the post for the full hour without answering it; the pressure settles around a party that lets the hour pass without a reply. The suit stabilizes the immediate hazard only after the team attributed it to Passing Bell. A wearer answered a voice in an empty corridor and was found in conversation with it, and the Veil’s binding is the incident note from that hour.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Passing Bell's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the living start going muffled outside the hour, and the wearer asks colleagues to repeat themselves and not the voices.
 - Terminal state: Passing Bell's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-919 -->
@@ -47,7 +47,7 @@ The first Passing Bell's Veil field bearer encountered this source response: Kee
 
 ## SET RELATIONSHIP
 
-Within *Passing Bell — Witnessed Form*, Passing Bell's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Passing Bell — Witnessed Form*, Passing Bell's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s own name still sounds like it belongs to the living; the first time it does not, the Veil is out.
 
 ---
 

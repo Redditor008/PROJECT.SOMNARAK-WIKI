@@ -33,12 +33,12 @@ Once Upon's Edge is the weapon record of the Once Upon set — γ-grade, Lament-
 
 ## ITEM-SPECIFIC HISTORY — *The Once Upon Source-Trace: Weapon Record*
 
-The first Once Upon's Edge field bearer encountered this source response: N/A The weapon contains the immediate hazard only after the team attributed it to Once Upon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Once Upon's Edge field bearer encountered this source response: N/A The weapon contains the immediate hazard only after the team attributed it to Once Upon. A wielder could not describe a bad week without giving it a moral, and the Edge’s binding is the account they gave at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Once Upon's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the shape arrives before the events, and the wielder’s history gains a beginning they never had.
 - Terminal state: Once Upon's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-920 -->
@@ -47,7 +47,7 @@ The first Once Upon's Edge field bearer encountered this source response: N/A Th
 
 ## SET RELATIONSHIP
 
-Within *Once Upon — Witnessed Form*, Once Upon's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Once Upon — Witnessed Form*, Once Upon's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which the wielder can say a thing happened and leave it there.
 
 ---
 

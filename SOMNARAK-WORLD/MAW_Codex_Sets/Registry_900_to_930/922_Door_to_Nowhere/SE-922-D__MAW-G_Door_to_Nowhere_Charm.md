@@ -32,12 +32,12 @@ The Door to Nowhere Charm is the stigma record of the Door to Nowhere set — ta
 
 ## ITEM-SPECIFIC HISTORY — *The Door to Nowhere Source-Trace: Stigma Record*
 
-The first Door to Nowhere Charm field bearer encountered this source response: Shows why the exit was denied. The stigma uncouples the immediate hazard only after the team attributed it to Door to Nowhere. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Door to Nowhere Charm field bearer encountered this source response: Shows why the exit was denied. The stigma uncouples the immediate hazard only after the team attributed it to Door to Nowhere. A bearer gave up waiting for somebody who had no way out and used their own, and the Charm’s binding is the note left at that door.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Door to Nowhere's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the way out is taken before the room is understood, and the bearer is in the corridor before the conversation ends.
 - Terminal state: Door to Nowhere's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-922 -->
@@ -46,7 +46,7 @@ The first Door to Nowhere Charm field bearer encountered this source response: S
 
 ## SET RELATIONSHIP
 
-Within *Door to Nowhere — Witnessed Form*, Door to Nowhere Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Door to Nowhere — Witnessed Form*, Door to Nowhere Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer stays in a room with no way out.
 
 ---
 

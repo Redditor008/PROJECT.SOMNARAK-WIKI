@@ -33,12 +33,12 @@ Ninety Seconds's Edge is the weapon record of the Ninety Seconds set — δ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Ninety Seconds Source-Trace: Weapon Record*
 
-The first Ninety Seconds's Edge field bearer encountered this source response: N/A The weapon marks the immediate hazard only after the team attributed it to Ninety Seconds. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Ninety Seconds's Edge field bearer encountered this source response: N/A The weapon marks the immediate hazard only after the team attributed it to Ninety Seconds. A wielder answered a question with a reply they had rehearsed in a loop they were not in, and the Edge’s binding is the transcript of that exchange.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Ninety Seconds's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the loop starts before the strike, and the wielder throws three blows at one target in the order they first rehearsed.
 - Terminal state: Ninety Seconds's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-918 -->
@@ -47,7 +47,7 @@ The first Ninety Seconds's Edge field bearer encountered this source response: N
 
 ## SET RELATIONSHIP
 
-Within *Ninety Seconds — Witnessed Form*, Ninety Seconds's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Ninety Seconds — Witnessed Form*, Ninety Seconds's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown at the start of a thought its wielder has not had yet.
 
 ---
 

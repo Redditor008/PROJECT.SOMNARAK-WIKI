@@ -32,12 +32,12 @@ The Fissured Skin Stigma is the stigma record of the Cracked Flesh set — head-
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Stigma Record*
 
-The first bearer of The Fissured Skin Stigma encountered this source response: Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. The stigma interrupts the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fissured Skin Stigma encountered this source response: Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. The stigma interrupts the immediate hazard only after the team attributed it to Cracked Flesh. A bearer’s old injury and old grievance sharpened in the same hour and neither closed while they were upright, and the Token’s binding is the note from that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Cracked Flesh's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the two stay open through sleep and close only when the bearer is lying flat.
 - Terminal state: Cracked Flesh's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-921 -->
@@ -46,7 +46,7 @@ The first bearer of The Fissured Skin Stigma encountered this source response: W
 
 ## SET RELATIONSHIP
 
-Within *Cracked Flesh — Witnessed Form*, The Fissured Skin Stigma performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cracked Flesh — Witnessed Form*, The Fissured Skin Stigma performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a day the bearer stands with nothing open.
 
 ---
 
