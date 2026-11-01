@@ -35,12 +35,12 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 ## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Weapon Record*
 
-The first bearer of The Flowing Hammer encountered this source response: It flows around aggression and returns it as force. The weapon isolates the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Flowing Hammer encountered this source response: It flows around aggression and returns it as force. The weapon isolates the immediate hazard only after the team attributed it to Relic of a Thousand Owners. A wielder could not begin the next swing because the last one had not ended, and the Falchion’s binding dates from that stall.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Relic of a Thousand Owners's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: momentum collects in the blade between bouts, and it begins swinging on the way out of the sheath.
 - Terminal state: Relic of a Thousand Owners's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not claim ownership; document its owners” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Flowing Hammer encountered this source response: It flow
 
 ## SET RELATIONSHIP
 
-Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Hammer performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Hammer performs the weapon role while the other pieces preserve attribution and survival. The Falchion leaves the set when its wielder starts something without asking the blade for the momentum back.
 
 ---
 

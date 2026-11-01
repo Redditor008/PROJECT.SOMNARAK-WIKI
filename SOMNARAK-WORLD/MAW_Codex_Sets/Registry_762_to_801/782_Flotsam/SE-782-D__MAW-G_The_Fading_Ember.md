@@ -32,12 +32,12 @@ The Fading Ember is the stigma record of Flotsam’s set — tail-slot, bestowed
 
 ## ITEM-SPECIFIC HISTORY — *The Flotsam Source-Trace: Stigma Record*
 
-The first bearer of The Fading Ember encountered this source response: Shows the relic's fading history. The stigma contains the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Ember encountered this source response: Shows the relic's fading history. The stigma contains the immediate hazard only after the team attributed it to Flotsam. A bearer catalogued a household they could no longer remember living in, and the Ember’s binding is written on that inventory.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Flotsam's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the inventory begins recording the bearer’s own rooms before anyone has asked it to.
 - Terminal state: Flotsam's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Name the owners and purpose; do not force preservation” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Fading Ember encountered this source response: Shows the
 
 ## SET RELATIONSHIP
 
-Within *Flotsam — Witnessed Form*, The Fading Ember performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Flotsam — Witnessed Form*, The Fading Ember performs the stigma role while the other pieces preserve attribution and survival. The Ember drops out of the set when it is asked to hold a history it has already been paid for.
 
 ---
 

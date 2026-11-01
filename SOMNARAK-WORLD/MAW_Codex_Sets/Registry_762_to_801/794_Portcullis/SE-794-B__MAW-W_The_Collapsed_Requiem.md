@@ -35,12 +35,12 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 ## ITEM-SPECIFIC HISTORY — *The Portcullis Source-Trace: Weapon Record*
 
-The first bearer of The Collapsed Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collapsed Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Portcullis. A wielder cut first and could not name the face on the far side of the door, and the Knife’s binding is the entry made at that threshold.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Portcullis's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: doors begin closing in the record before anyone has shut them, and the wielder is listed on both sides.
 - Terminal state: Portcullis's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-794 -->
@@ -49,7 +49,7 @@ The first bearer of The Collapsed Requiem encountered this source response: N/A 
 
 ## SET RELATIONSHIP
 
-Within *Portcullis — Witnessed Form*, The Collapsed Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Portcullis — Witnessed Form*, The Collapsed Requiem performs the weapon role while the other pieces preserve attribution and survival. The Knife leaves the set on the first blow struck with the far side of the door still open.
 
 ---
 

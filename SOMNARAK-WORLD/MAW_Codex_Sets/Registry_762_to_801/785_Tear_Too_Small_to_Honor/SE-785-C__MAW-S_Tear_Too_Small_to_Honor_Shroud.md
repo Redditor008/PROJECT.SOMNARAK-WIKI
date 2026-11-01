@@ -33,12 +33,12 @@ The Tear Too Small to Honor Shroud is the suit record of its source’s set, gra
 
 ## ITEM-SPECIFIC HISTORY — *The Tear Too Small to Honor Source-Trace: Suit Record*
 
-The first Tear Too Small to Honor Shroud field bearer encountered this source response: Tests whether the worker can hold grief without dismissing it. The suit contains the immediate hazard only after the team attributed it to Tear Too Small to Honor. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Tear Too Small to Honor Shroud field bearer encountered this source response: Tests whether the worker can hold grief without dismissing it. The suit contains the immediate hazard only after the team attributed it to Tear Too Small to Honor. A wearer could not find their grief when the funeral came, and the Shroud’s binding is the note made at that graveside.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Tear Too Small to Honor's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the folded grief arrives all at once, in rooms where nothing has happened.
 - Terminal state: Tear Too Small to Honor's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-785 -->
@@ -47,7 +47,7 @@ The first Tear Too Small to Honor Shroud field bearer encountered this source re
 
 ## SET RELATIONSHIP
 
-Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still find what they folded; the first search that fails takes the Shroud out.
 
 ---
 

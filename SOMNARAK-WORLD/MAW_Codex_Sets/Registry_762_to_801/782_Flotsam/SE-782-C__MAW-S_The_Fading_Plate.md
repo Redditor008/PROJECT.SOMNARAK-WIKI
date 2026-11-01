@@ -33,12 +33,12 @@ The Fading Plate is the suit record of Flotsam’s set, granting resistance to G
 
 ## ITEM-SPECIFIC HISTORY — *The Flotsam Source-Trace: Suit Record*
 
-The first bearer of The Fading Plate encountered this source response: Tests whether the worker can hold a memory without possessing it. The suit stays the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Plate encountered this source response: Tests whether the worker can hold a memory without possessing it. The suit stays the immediate hazard only after the team attributed it to Flotsam. A wearer presented unmarked skin to a board that had read the old marks for years, and the Plate’s binding dates from that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Flotsam's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: old injuries stop being legible on the body, and the wearer is asked to account for a history the skin no longer carries.
 - Terminal state: Flotsam's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Name the owners and purpose; do not force preservation” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Fading Plate encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *Flotsam — Witnessed Form*, The Fading Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Flotsam — Witnessed Form*, The Fading Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s scars still explain themselves; the first one that cannot takes the Plate out of it.
 
 ---
 

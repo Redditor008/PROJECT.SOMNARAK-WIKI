@@ -32,12 +32,12 @@ The Collapsed Key is the stigma record of Portcullis’ set — tail-slot, besto
 
 ## ITEM-SPECIFIC HISTORY — *The Portcullis Source-Trace: Stigma Record*
 
-The first bearer of The Collapsed Key encountered this source response: Reveals the people and route beyond the door. The stigma contains the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collapsed Key encountered this source response: Reveals the people and route beyond the door. The stigma contains the immediate hazard only after the team attributed it to Portcullis. A bearer came through a passage that had closed behind them and found the far side already empty, and the Key’s binding dates from that arrival.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Portcullis's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the closed moment lengthens, and the bearer stands on the far side with nobody behind them to confirm it.
 - Terminal state: Portcullis's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-794 -->
@@ -46,7 +46,7 @@ The first bearer of The Collapsed Key encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Portcullis — Witnessed Form*, The Collapsed Key performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Portcullis — Witnessed Form*, The Collapsed Key performs the stigma role while the other pieces preserve attribution and survival. The Key drops out of the set the first time somebody crosses behind the bearer.
 
 ---
 

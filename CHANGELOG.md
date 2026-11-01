@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twelve records, four sources (batch 80)
+
+`SE-782` Fading, `SE-785` Tear Too Small to Honor, `SE-792` Flowing, `SE-794` Collapsed — **twelve records, thirty-six sentences.** The Fading Plate's scars stop explaining themselves; the Flowing Shroud keeps its set only while its wearer can name one reason they carry it; the Collapsed Key loses resonance the first time somebody crosses behind the bearer.
+
+**36 of 345 done. 309 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Nine more records, three more sources (batch 79)
 
 `SE-044` Dawn of Mourning, `SE-778` Listening, `SE-779` Torn — **nine records, twenty-seven sentences**, all written from the cost line already in the file. The Dawn of Requiem's binding dates from a wielder who mistook the grief arriving in their hands for their own and swung through it; the Listening Vial drops out of its set when it is asked to keep something the bearer already remembers; the Torn Plate holds resonance only while the wearer believes the work is nearly done, and loses it the moment they know it is finished.

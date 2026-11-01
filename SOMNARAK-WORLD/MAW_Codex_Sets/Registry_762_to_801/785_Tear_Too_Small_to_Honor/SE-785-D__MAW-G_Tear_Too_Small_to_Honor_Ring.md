@@ -32,12 +32,12 @@ The Tear Too Small to Honor Ring is the stigma record of its source’s set — 
 
 ## ITEM-SPECIFIC HISTORY — *The Tear Too Small to Honor Source-Trace: Stigma Record*
 
-The first Tear Too Small to Honor Ring field bearer encountered this source response: Reveals the small loss that formed it. The stigma discharges the immediate hazard only after the team attributed it to Tear Too Small to Honor. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Tear Too Small to Honor Ring field bearer encountered this source response: Reveals the small loss that formed it. The stigma discharges the immediate hazard only after the team attributed it to Tear Too Small to Honor. A bearer healed a ward full of people and could not recall ever having been held, and the Ring’s binding is the round recorded that shift.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Tear Too Small to Honor's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the bearer starts comforting people with a technique they cannot remember learning.
 - Terminal state: Tear Too Small to Honor's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-785 -->
@@ -46,7 +46,7 @@ The first Tear Too Small to Honor Ring field bearer encountered this source resp
 
 ## SET RELATIONSHIP
 
-Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Ring performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Ring performs the stigma role while the other pieces preserve attribution and survival. The Ring drops out of the set the first time the bearer remembers being comforted while giving it.
 
 ---
 

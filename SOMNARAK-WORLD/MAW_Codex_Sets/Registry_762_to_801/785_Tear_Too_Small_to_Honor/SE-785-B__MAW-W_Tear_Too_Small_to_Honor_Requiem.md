@@ -35,12 +35,12 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 
 ## ITEM-SPECIFIC HISTORY — *The Tear Too Small to Honor Source-Trace: Weapon Record*
 
-The first Tear Too Small to Honor Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Tear Too Small to Honor. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Tear Too Small to Honor Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Tear Too Small to Honor. A wielder struck a flat surface and found the grief under it was their own, and the Awl’s binding is the report filed after that bout.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Tear Too Small to Honor's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the opened grief stops closing, and the wielder’s hands keep working on surfaces nobody struck.
 - Terminal state: Tear Too Small to Honor's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-785 -->
@@ -49,7 +49,7 @@ The first Tear Too Small to Honor Requiem field bearer encountered this source r
 
 ## SET RELATIONSHIP
 
-Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Requiem performs the weapon role while the other pieces preserve attribution and survival. The Awl leaves the set on the first strike aimed at somebody else’s pressed-down thing.
 
 ---
 

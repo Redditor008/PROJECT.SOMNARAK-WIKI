@@ -33,12 +33,12 @@ The Collapsed Shroud is the suit record of Portcullis’ set, granting resistanc
 
 ## ITEM-SPECIFIC HISTORY — *The Portcullis Source-Trace: Suit Record*
 
-The first bearer of The Collapsed Shroud encountered this source response: Tests whether the worker can remain at a blocked threshold. The suit stays the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collapsed Shroud encountered this source response: Tests whether the worker can remain at a blocked threshold. The suit stays the immediate hazard only after the team attributed it to Portcullis. A wearer opened one door and let the rest through, and the Shroud’s binding is the account written after that breach.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Portcullis's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the doors multiply faster than the wearer can count them, and the ones behind are heard through the ones in front.
 - Terminal state: Portcullis's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-794 -->
@@ -47,7 +47,7 @@ The first bearer of The Collapsed Shroud encountered this source response: Tests
 
 ## SET RELATIONSHIP
 
-Within *Portcullis — Witnessed Form*, The Collapsed Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Portcullis — Witnessed Form*, The Collapsed Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer keeps one door they can open alone; opening it in company takes the Shroud out.
 
 ---
 

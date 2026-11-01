@@ -33,12 +33,12 @@ The Flowing Shroud is the suit record of the Relic of a Thousand Owners’ set, 
 
 ## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Suit Record*
 
-The first bearer of The Flowing Shroud encountered this source response: Tests whether the worker can hold history without possession. The suit interrupts the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Flowing Shroud encountered this source response: Tests whether the worker can hold history without possession. The suit interrupts the immediate hazard only after the team attributed it to Relic of a Thousand Owners. A wearer was congratulated for composure at a funeral and could not say what they had been composed about, and the Shroud’s binding follows that day.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Relic of a Thousand Owners's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the calm follows the wearer out of the deployment and into rooms where nobody is watching.
 - Terminal state: Relic of a Thousand Owners's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not claim ownership; document its owners” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Flowing Shroud encountered this source response: Tests w
 
 ## SET RELATIONSHIP
 
-Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can name one reason they carry it; the first calm with no reason takes the Shroud out.
 
 ---
 
