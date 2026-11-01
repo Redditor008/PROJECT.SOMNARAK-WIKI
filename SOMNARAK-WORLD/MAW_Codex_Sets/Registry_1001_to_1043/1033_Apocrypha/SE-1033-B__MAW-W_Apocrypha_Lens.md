@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Weapon Record*
 
-The first Apocrypha Lens field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon severs the immediate hazard only after the team attributed it to Apocrypha. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Apocrypha Lens field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon severs the immediate hazard only after the team attributed it to Apocrypha. A wielder gave an account of themselves with a clause missing and the sentence still standing, and the Lens’s binding is the statement with the gap in it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Apocrypha's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the clauses go before the strikes, and the wielder’s account is written by what the Lens has taken.
 - Terminal state: Apocrypha's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Mark the site and speak the farewell that was missed” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Apocrypha Lens field bearer encountered this source response: N/A — 
 
 ## SET RELATIONSHIP
 
-Within *Apocrypha — Witnessed Form*, Apocrypha Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Apocrypha — Witnessed Form*, Apocrypha Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a blow after which its wielder can quote themselves in full.
 
 ---
 

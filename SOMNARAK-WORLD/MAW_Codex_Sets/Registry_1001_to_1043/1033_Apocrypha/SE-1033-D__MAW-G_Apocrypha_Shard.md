@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Stigma Record*
 
-The first Apocrypha Shard field bearer encountered this source response: Shows fragments of the relic's unknown purpose. The stigma opens the immediate hazard only after the team attributed it to Apocrypha. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Apocrypha Shard field bearer encountered this source response: Shows fragments of the relic's unknown purpose. The stigma opens the immediate hazard only after the team attributed it to Apocrypha. A bearer carried an archive of other people’s last words they had never been asked to deliver, and the Shard’s binding is the undelivered register from that season.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Apocrypha's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the farewells arrive before they are said, and the bearer is charged with messages nobody has yet left.
 - Terminal state: Apocrypha's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Mark the site and speak the farewell that was missed” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first Apocrypha Shard field bearer encountered this source response: Shows f
 
 ## SET RELATIONSHIP
 
-Within *Apocrypha — Witnessed Form*, Apocrypha Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Apocrypha — Witnessed Form*, Apocrypha Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set when the bearer delivers one.
 
 ---
 

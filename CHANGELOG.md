@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Fifteen records, five sources (batch 99)
+
+`SE-1029` Kind Healer's Shadow, `SE-1030` First Tear, `SE-1031` Sorrow Seed, `SE-1032` Sorrow Bloom, `SE-1033` Apocrypha — **fifteen records, forty-five sentences.** The Healer's Requiem loses its set on a blow after which the wielder is carrying only their own grief; the Apocrypha Veil holds while one thing the wearer said can still be quoted back to them; the First Shroud keeps resonance while one small pleasure still arrives before the large ones.
+
+**315 of 345 done. 30 remain — ten sets, and the wing closes.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 98)
 
 `SE-1023` Frozen Minute, `SE-1024` Debt, `SE-1025` Trace, `SE-1026` Rising Wall, `SE-1027` Sorrow Tide, `SE-1028` Neglect Learned to Listen — **eighteen records, fifty-four sentences.** The Debt Maul loses its set on a blow that moves no debt off its wielder; the Trace Anchor drops out on a departure the bearer makes without pain; the Tide Stone ends on a day it weighs what it weighed when it was found.

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The First Tear Source-Trace: Weapon Record*
 
-The first bearer of The First Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The First Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to The First Tear. A wielder finished a season owing more tears than they had ever shed and keeping none of their own, and the Requiem’s binding is the account opened against their name.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The First Tear's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the paying-out happens before the blow, and the wielder is in debt to targets they have not met.
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1030 -->
@@ -43,7 +43,7 @@ The first bearer of The First Requiem encountered this source response: N/A — 
 
 ## SET RELATIONSHIP
 
-Within *The First Tear — Witnessed Form*, The First Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The First Tear — Witnessed Form*, The First Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow paid for out of the wielder’s own tears.
 
 ---
 

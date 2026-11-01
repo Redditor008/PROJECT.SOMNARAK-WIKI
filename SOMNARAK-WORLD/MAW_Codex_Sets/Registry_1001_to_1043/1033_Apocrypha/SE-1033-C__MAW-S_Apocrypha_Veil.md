@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Suit Record*
 
-The first Apocrypha Veil field bearer encountered this source response: Tests whether the worker can remain in the cold without answers. The suit uncouples the immediate hazard only after the team attributed it to Apocrypha. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Apocrypha Veil field bearer encountered this source response: Tests whether the worker can remain in the cold without answers. The suit uncouples the immediate hazard only after the team attributed it to Apocrypha. A wearer had said everything they believed and no longer knew they had said it, and the Veil’s binding is the record that could not be quoted back to them.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Apocrypha's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the removal reaches things said in the room, and the wearer’s statements are not on any record at all.
 - Terminal state: Apocrypha's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Mark the site and speak the farewell that was missed” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Apocrypha Veil field bearer encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Apocrypha — Witnessed Form*, Apocrypha Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Apocrypha — Witnessed Form*, Apocrypha Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing the wearer said can still be quoted back to them; the first they deny saying, the Veil is out.
 
 ---
 

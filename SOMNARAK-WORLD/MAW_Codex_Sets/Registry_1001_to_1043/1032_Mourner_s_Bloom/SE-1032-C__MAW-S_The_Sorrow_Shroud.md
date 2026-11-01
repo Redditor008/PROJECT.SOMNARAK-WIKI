@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Mourner's Bloom Source-Trace: Suit Record*
 
-The first bearer of The Sorrow Shroud encountered this source response: Blooms slowly beside a patient worker. The suit interrupts the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Shroud encountered this source response: Blooms slowly beside a patient worker. The suit interrupts the immediate hazard only after the team attributed it to Mourner's Bloom. A wearer was described as beautiful and could not stop being looked at, and the Shroud’s binding is the note made by the person who described them.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mourner's Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the openness reaches grief the wearer had put away years ago, and the small ones go first in the order they are noticed.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1032 -->
@@ -43,7 +43,7 @@ The first bearer of The Sorrow Shroud encountered this source response: Blooms s
 
 ## SET RELATIONSHIP
 
-Within *Mourner's Bloom — Witnessed Form*, The Sorrow Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Mourner's Bloom — Witnessed Form*, The Sorrow Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing can still be put away; the first grief the wearer cannot, the Shroud is out.
 
 ---
 

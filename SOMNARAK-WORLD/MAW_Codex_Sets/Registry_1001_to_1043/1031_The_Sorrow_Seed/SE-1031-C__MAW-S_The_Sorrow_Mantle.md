@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Seed Source-Trace: Suit Record*
 
-The first bearer of The Sorrow Mantle encountered this source response: Tests whether the worker can hold potential without planting it. The suit redirects the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Mantle encountered this source response: Tests whether the worker can hold potential without planting it. The suit redirects the immediate hazard only after the team attributed it to The Sorrow Seed. A wearer carried a season they had not planted and could not say what had taken root in them, and the Mantle’s binding is the growing schedule filed from that ward.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Seed's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the rooting reaches things set down by other people in the wearer’s presence, and the wearer feeds a garden they never agreed to.
 - Terminal state: The Sorrow Seed's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1031 -->
@@ -43,7 +43,7 @@ The first bearer of The Sorrow Mantle encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Seed — Witnessed Form*, The Sorrow Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Sorrow Seed — Witnessed Form*, The Sorrow Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can pull one thing out by the root; the first season they cannot, the Mantle is out.
 
 ---
 

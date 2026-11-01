@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The First Tear Source-Trace: Suit Record*
 
-The first bearer of The First Shroud encountered this source response: Tests whether the observer can bear total grief. The suit severs the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The First Shroud encountered this source response: Tests whether the observer can bear total grief. The suit severs the immediate hazard only after the team attributed it to The First Tear. A wearer was described as composed in a way that frightened the people who had known them, and the Shroud’s binding is that description in the file.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The First Tear's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the small pleasures go in the order they are noticed, and the wearer stops being able to say what they liked.
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1030 -->
@@ -43,7 +43,7 @@ The first bearer of The First Shroud encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *The First Tear — Witnessed Form*, The First Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The First Tear — Witnessed Form*, The First Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one small pleasure still arrives before the large ones; the first order the wearer cannot detect, the Shroud is out.
 
 ---
 

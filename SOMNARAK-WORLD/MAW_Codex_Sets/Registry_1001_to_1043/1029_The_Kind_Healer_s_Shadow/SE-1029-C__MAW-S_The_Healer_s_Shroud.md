@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Kind Healer's Shadow Source-Trace: Suit Record*
 
-The first bearer of The Healer's Shroud encountered this source response: Heals slowly and patiently near the worker. The suit isolates the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Healer's Shroud encountered this source response: Heals slowly and patiently near the worker. The suit isolates the immediate hazard only after the team attributed it to The Kind Healer's Shadow. A wearer reported nothing pleasant having got under the cloth for a season and only the wounds arriving, and the Shroud’s binding is the review that recorded it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Kind Healer's Shadow's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the thinning reaches joys the wearer had before they put the cloth on, and those stop arriving too.
 - Terminal state: The Kind Healer's Shadow's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Accept its help and acknowledge the healer it carries” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Healer's Shroud encountered this source response: Heals 
 
 ## SET RELATIONSHIP
 
-Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one small joy still gets under the shroud; the first watch with none, the Shroud is out.
 
 ---
 

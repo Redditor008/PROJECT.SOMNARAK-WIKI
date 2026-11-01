@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Seed Source-Trace: Stigma Record*
 
-The first bearer of The Sorrow Seed encountered this source response: Reveals possible forms it could grow into. The stigma stays the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Seed encountered this source response: Reveals possible forms it could grow into. The stigma stays the immediate hazard only after the team attributed it to The Sorrow Seed. A bearer stopped gardening and stopped ageing with it, and could not say what they were for by the end of the year, and the Seed’s binding is the intake note from that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Seed's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the growth runs without tending, and the district is fed from a season the bearer is no longer drawing.
 - Terminal state: The Sorrow Seed's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1031 -->
@@ -42,7 +42,7 @@ The first bearer of The Sorrow Seed encountered this source response: Reveals po
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Seed — Witnessed Form*, The Sorrow Seed performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Sorrow Seed — Witnessed Form*, The Sorrow Seed performs the stigma role while the other pieces preserve attribution and survival. The Seed drops out of the set on a season the bearer draws and tends.
 
 ---
 

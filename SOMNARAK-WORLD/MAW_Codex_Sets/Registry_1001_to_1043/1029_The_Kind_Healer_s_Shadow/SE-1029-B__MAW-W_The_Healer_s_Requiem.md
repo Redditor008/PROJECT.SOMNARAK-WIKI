@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Kind Healer's Shadow Source-Trace: Weapon Record*
 
-The first bearer of The Healer's Requiem encountered this source response: Retreats from aggression. The weapon witnesses the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Healer's Requiem encountered this source response: Retreats from aggression. The weapon witnesses the immediate hazard only after the team attributed it to The Kind Healer's Shadow. A wielder cured three people in a shift and came away carrying the loss of all three as their own, and the Requiem’s binding is the ward ledger from that shift.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Kind Healer's Shadow's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cure reaches the target before the blow does, and the wielder is hospitalised by injuries they took off somebody else.
 - Terminal state: The Kind Healer's Shadow's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Accept its help and acknowledge the healer it carries” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Healer's Requiem encountered this source response: Retre
 
 ## SET RELATIONSHIP
 
-Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which its wielder is carrying only their own grief.
 
 ---
 

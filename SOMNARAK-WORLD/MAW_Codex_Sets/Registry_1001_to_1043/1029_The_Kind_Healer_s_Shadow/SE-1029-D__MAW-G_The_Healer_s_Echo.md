@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Kind Healer's Shadow Source-Trace: Stigma Record*
 
-The first bearer of The Healer's Echo encountered this source response: Reveals the healer whose compassion formed it. The stigma interrupts the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Healer's Echo encountered this source response: Reveals the healer whose compassion formed it. The stigma interrupts the immediate hazard only after the team attributed it to The Kind Healer's Shadow. A bearer could not tell an injury they had been given from one they were born with, and the Echo’s binding is the medical note from that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Kind Healer's Shadow's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the filing is done before the healing, and the bearer carries wounds nobody has handed them.
 - Terminal state: The Kind Healer's Shadow's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Accept its help and acknowledge the healer it carries” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Healer's Echo encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Echo performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Echo performs the stigma role while the other pieces preserve attribution and survival. The Echo drops out of the set when the bearer can name one injury as somebody else’s.
 
 ---
 

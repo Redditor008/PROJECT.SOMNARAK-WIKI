@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Mourner's Bloom Source-Trace: Weapon Record*
 
-The first bearer of The Sorrow Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Mourner's Bloom. A wielder could not finish mourning anything for a full year, and the Requiem’s binding is the bereavement record with no closure entry in any of it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mourner's Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the opening happens before the blow, and the wielder’s own closings are handed to targets who did not ask.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1032 -->
@@ -43,7 +43,7 @@ The first bearer of The Sorrow Requiem encountered this source response: N/A —
 
 ## SET RELATIONSHIP
 
-Within *Mourner's Bloom — Witnessed Form*, The Sorrow Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Mourner's Bloom — Witnessed Form*, The Sorrow Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which its wielder finishes one thing.
 
 ---
 

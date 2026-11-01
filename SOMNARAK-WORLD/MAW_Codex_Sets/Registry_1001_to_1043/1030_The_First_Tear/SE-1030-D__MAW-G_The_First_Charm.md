@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The First Tear Source-Trace: Stigma Record*
 
-The first bearer of The First Charm encountered this source response: Shows the shape of sorrow before language. The stigma uncouples the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The First Charm encountered this source response: Shows the shape of sorrow before language. The stigma uncouples the immediate hazard only after the team attributed it to The First Tear. A bearer wept in their sleep on a schedule that was not theirs and woke on the first tear every time, and the Charm’s binding is the sleep record from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The First Tear's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the schedule moves into the waking day, and the bearer weeps on the hour for a grief with no date in it.
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1030 -->
@@ -42,7 +42,7 @@ The first bearer of The First Charm encountered this source response: Shows the 
 
 ## SET RELATIONSHIP
 
-Within *The First Tear — Witnessed Form*, The First Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The First Tear — Witnessed Form*, The First Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set on a night the bearer weeps for something they can name.
 
 ---
 

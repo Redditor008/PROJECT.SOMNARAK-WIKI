@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Mourner's Bloom Source-Trace: Stigma Record*
 
-The first bearer of The Sorrow Petal encountered this source response: Reveals the emotion in each petal. The stigma marks the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Petal encountered this source response: Reveals the emotion in each petal. The stigma marks the immediate hazard only after the team attributed it to Mourner's Bloom. A bearer had a private grief complimented at a table and could not explain why that was worse, and the Petal’s binding is the minute of that exchange.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mourner's Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the showing arrives before the sadness, and the bearer is admired for losses they have not had yet.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1032 -->
@@ -42,7 +42,7 @@ The first bearer of The Sorrow Petal encountered this source response: Reveals t
 
 ## SET RELATIONSHIP
 
-Within *Mourner's Bloom — Witnessed Form*, The Sorrow Petal performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Mourner's Bloom — Witnessed Form*, The Sorrow Petal performs the stigma role while the other pieces preserve attribution and survival. The Petal drops out of the set on a grief the bearer keeps private.
 
 ---
 
