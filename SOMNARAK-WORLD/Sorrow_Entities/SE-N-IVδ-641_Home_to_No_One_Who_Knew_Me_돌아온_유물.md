@@ -45,51 +45,36 @@
 - It appears in the Old Lament only after a long absence, which makes the interval between appearances the primary scheduling variable rather than cycle count.
 - Yield is drawn from the crimson inner fire, is highest immediately on reappearance, and falls steadily until the next absence.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that nothing here is fought: it appears after a long absence, it shifts form when unobserved, and what a party resists is the recognition — every witness finds the shape familiar, and no two agree on what it was. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 809/809 |
-| **Han Pressure [ATK]** | 28–60 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own cycle is a list of things not done to it: the relic is not approached, handled, moved, marked or addressed, and nobody says aloud that it has come back. Nothing here strikes; what returns is weight, and what it returns to is a person who has reason to recognise it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A relic standing in Old Lament whose recorded form is the one thing that can be said about it: crimson light inside the object, and a shape that is wrong — more precisely, whatever the person looking has reason to find familiar. The light is the reading; the form is entered as unidentified. |
+| **Perceptible to** | The crimson light before the outline, and then recognition, which is not the same as knowing what it is. Witnesses present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to somebody. |
+| **Handling** | Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is briefed, and nobody says within its hearing or outside it that the relic has come back. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 809/809 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Old Lament — ambient |
+| **Valid Work Types** | Viderehan and Ferrehan only, both worked at distance. Viderehan reads the return — the light, the position, the duration — and holds the gauge; Ferrehan tests whether a worker can stand a return they recognise without acting on it, and lowers it. |
+| **Location** | Zone B, Old Lament |
 | **Resolution Condition** | The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Reappearance* [**Debuff**] } | "You buried the relic — deep, sealed, gone — and here it is, in your hand, heavier than before." | [The Relic's return is inevitable; the target feels the futility of disposal.] | *Target suffers -10 Resilience; they cannot get rid of it.* **[10 Grudge DMG [Grudge]]** | When the target discards the Relic. |
-| { *The Growing Return* [**Debuff**] } | "Each time it comes back, it is larger — heavier — more insistent on being held." | [The Relic's returns compound; the burden grows.] | *Target loses 10 Resilience; the relic is winning.* **[10 Grudge DMG [Grudge]]** | When the target tries to refuse. |
-| { *The Heavy Hand* [**Attack**] } | "The returning relic strikes — of its own accord — angry at being thrown away." | [The Relic attacks autonomously.] | *Inflicts Grudge pressure and one wound of returned weight.* **[14-22 Grudge DMG [Grudge]]** | When the Relic is rejected. |
-| { *The Full Return* [**Attack**] } | "Every version of the relic that was ever discarded returns at once — a multitude of angry objects." | [Every copy anybody ever threw away comes back at the same moment, and the street fills with things people recognise.] | *A heavy Crimson barrage; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When the relic is recognised. |
-| { *The Reliquary* [**Ultimate**] } | "Relics appear in every hand in the field — each one returned, each one heavy, each one angry." | [The return widens until every worker in the district is holding something they thought they had let go.] | *Every worker in range takes Grudge pressure across 3 turns of returning objects.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the relic does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Reappearance* [**Register**] } | Stands where it stands, with crimson light inside it, in a shape the person looking has reason to find familiar. It is found, not met: nothing about it announces a return and the light is the only identification the watch has ever used. | Records the form as found and marks it unidentified, logs the light, the position and the duration, and sets the cordon before the district is told anything. | The shape will be wrong and it will be whatever the looker has reason to recognise, which is why the entry says unidentified rather than guessing. The file has one reading and the light is it. |
+| { *The Growing Return* [**Exposure**] } | Compounds in the witnesses rather than in itself: people present grow uncertain about their route, their reason for being in the district, whether they have already spoken to somebody — mild, convincing, and gone within the shift. | Keeps the watch short, walks the party out by a stated route, and records the route rather than asking anybody afterwards which way they came. | The uncertainty is entirely convincing while it lasts, so the route is written down before the party leaves the cordon and read to them when they reach the end of it. |
+| { *The Unheld Object* [**Refusal**] } | Answers handling by returning. A relic buried deep and sealed and gone is in somebody's hand again, heavier; each return is larger and more insistent on being kept, and every version anybody ever threw away comes back at once. | Does not approach it, does not handle it, does not move or mark it, and does not let the district association touch it. The return is answered by nothing at all. | Disposal accomplishes nothing and the file has never claimed otherwise: what returns is the object and the weight, not a blow. The only thing ever recorded as reducing the gauge is a cordon that held while the relic was left exactly where it stood. |
+| { *The Reliquary* [**Overload**] } | Widens the return until every worker in range is holding something they thought they had let go — relics in every hand, each one returned, each one heavy. | Clears the district by head count, briefs the association, and takes the appearance as the record rather than the accounts of the people holding the objects. | A watch that was going to be a survey turns into a return nobody scheduled, and it is the witnesses who carry it. Without resolution the relic does not rupture outward — it persists, and then goes, and then comes back. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first, and it comes down to 1 reading: the crimson light inside the object. The shape will be wrong, and more precisely it will be whatever the person looking has reason to find familiar — the watch enters the form it found and nothing else, sets the cordon, and initiates no approach, because the file's condition is a list of things not done to the relic.
-2. **Clash:** Viderehan and Ferrehan only, worked at distance, with the watch recording and keeping others back and doing nothing else. The relic is not approached, handled, moved, marked or addressed. Nobody says that it has come back, within its hearing or outside it, during the engagement.
-3. **Resolution:** The cycle closes when the gauge falls below 25% and the appearance has been logged — light, position, duration, form marked unidentified — and the district association has been told. On this holding a completed cycle consists almost entirely of having refrained, and the sheet says so in those words so that nobody records it as a failure.
+1. **What is confirmed:** the crimson light and the form as found, entered as unidentified; the position and the duration; the cordon line and the names of who will hold it.
+2. **What the watch does:** Viderehan at distance for the light, the position and the duration, Ferrehan for standing a recognised return without acting on it, and nothing at all done to the object.
+3. **How it closes:** the close is the file's documented condition: **The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule** — and a cycle in which anybody said the relic had come back is entered as the fault that started it.
 
 ### Consequences
 
@@ -475,7 +460,7 @@ The disclosure office's objection is standing, annual, and correct. A safety hea
 
 ## Trivia
 
-- For anyone checking the register, this file's numbers are set down as digits: gauge 809/809, pressure 28–60 per hit, the channel note at 60 seconds and 5 Grudge every 15, vessel destruction about 1–10 tons, and +3 from the third piece.
+- For anyone checking the register, this file's numbers are set down as digits: gauge 809/809, the channel note at 60 seconds and 5 Grudge every 15, vessel destruction about 1–10 tons, and +3 from the third piece. There is no pressure figure to check, because nothing on this holding is directed at anybody.
 
 - The form follows the observer's own history, which is why two witnesses to the same appearance have almost never described the same object.
 - What comes back is the thing, never the people, and the district it comes back to has no record of either.

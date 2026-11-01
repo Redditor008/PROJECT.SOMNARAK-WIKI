@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-903 [VO]` |
-| **Entity Type** | **Object** — Can breach via Transform |
+| **Entity Type** | **Object** — Non-breaching: expansion only; the affected volume grows around the frame and the glass stays where it is |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
@@ -40,56 +40,43 @@
 ### Operational Notes
 
 - Threshold 3, and both valid approaches lower the gauge. This is one of the few rows where a correctly chosen cycle cannot worsen the position.
-- Pressure is void and phantasmal. The breach type is Expansion, so failure spreads influence outward rather than releasing a body.
+- Pressure is void and phantasmal, and it stays behind the pane: what widens is the volume around the frame, so the volume is the reading and the glass is the boundary.
 - Sustained observation makes the phantasmal pressure legible. Sustained presence settles the void pressure gradually. Neither rewards speed.
 - The surface reflects rooms that no longer exist and the faces of the Fractured. Personnel who recognise someone in it are withdrawn from the row permanently.
 - Yield does not authorise a longer assignment. The clock-holder closes the channel at ninety seconds. The cycle log keeps only the category, and the viewer's counselling appointment is booked beforehand; no request for more time extends the viewing.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void is the field parameter, not a tested striking result. The physical pane remains in the chamber and has never been struck; the room it shows is not a second room available to hit. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 426/426 |
-| **Han Pressure [ATK]** | 14–23 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says the mirror is *fixed upright in its frame and never relocated*, and its own escalation note says nothing comes through the glass to subdue. What a viewer meets is a room that no longer exists, and the watch ends the channel at ninety seconds.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A standing mirror taller than a person in a plain frame, its surface rippling continuously. The rippling belongs to the surface and not to a body trying to emerge; a room or a back-turned figure appears in the glass and stays there. |
+| **Perceptible to** | The place first — 188 of 211 viewers named it within a minute, and all 188 named somewhere that no longer exists. Then the figure, always somebody the viewer has lost and never facing them. |
+| **Handling** | One at the glass and one at the clock with authority to close the channel, both in the chamber before the viewing starts, with the counselling appointment booked ahead of the cycle rather than after it. |
+| **Activation threshold** | 3 cycles |
+| **Sorrow Gauge [HP]** | 426/426 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-903 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan permits study and makes the phantasmal pressure legible under sustained observation; Ferrehan recognises patience, and the void pressure settles gradually under sustained presence. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
+| **Location** | SECTOR-N-903, contained |
+| **Resolution Condition** | The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "There is a room on the other side of the glass and it is somewhere you know." | [The surface resolves into a place the viewer recognises.] | *Void pressure; 188 of 211 viewers named the place within a minute and all 188 named somewhere that no longer exists.* **[Void DMG [Void]]** | On any viewing. |
-| { *The Phantasmal Surge* [**Attack**] } | "Somebody is in the room, with their back to you, and you know who it is." | [A figure appears in the reflected place.] | *Void damage to the viewer; the figure is always somebody the viewer has lost and is never facing them.* **[Void DMG [Void]]** | Past about forty seconds of a viewing. |
-| { *The Settling* [**Attack**] } | "The figure begins to turn." | [The figure in the glass starts to face the viewer.] | *Heavy Void damage. Four occurrences; in all four the channel was closed before the turn completed, and the station's standing instruction is that it must be.* **[Void DMG [Void]]** | When a viewing runs past ninety seconds. |
-| { *The Phantasmal Collapse* [**Ultimate**] } | "Every reflective surface in the wing shows somewhere that is gone." | [The effect propagates across the sector's glass.] | *Void erosion to anybody who looks at a window for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once; the wing's windows were curtained for nine days. |
+| Event | What the glass does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Resolves into a place the viewer recognises — a room on the other side of the glass that is somewhere they know and that was demolished. | Keeps two in the chamber, one at the glass and one at the clock, and enters the category of the place — home, workplace, public — and nothing else. | 188 of 211 viewers named the place within a minute, which is the reason the log takes the category rather than the name. What is being recorded is a class of loss, not a location. |
+| { *The Phantasmal Surge* [**Exposure**] } | Puts a figure in the reflected room with its back turned, past about forty seconds of a viewing, and the figure is always somebody the viewer has lost. | Runs the viewing against the clock from the first second, with the promise of the close stated before the channel opens. | The figure never faces the viewer, and the four occasions on which it began to were all channels closed before the turn completed. That is the entire basis of the ninety-second rule. |
+| { *The Settling* [**Refusal**] } | Begins to turn the figure round when a viewing runs past ninety seconds; it does not hurry, and it does not stop on its own. | Closes the channel at ninety seconds, every time, whoever is at the glass and whatever the gauge reads. | The station's standing instruction is that the turn must not complete, and four occurences in 211 channels is the whole of the evidence behind it. Nothing comes through the pane to stop it, so the clock is the only thing that does. |
+| { *The Phantasmal Collapse* [**Overload**] } | Above sixty-five per cent, once, showed every reflective surface in the wing a place that is gone, and the wing's windows were curtained for nine days. | Curtains the glass in the affected wing, closes the sector's viewings, and takes a head count at each window rather than an account from anybody who looked. | Prolonged exposure produces no injury on any record; what it produces is a worker describing the reflected rooms as though they had been in them. The counsellors class that as a reporting condition rather than a symptom, and the curtain came down before anybody was asked. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Two in the chamber — one at the glass, one at the clock with the authority to close the channel — and the counselling appointment booked before the cycle starts rather than after it.
-2. **Clash:** None. There is a pane of glass showing a room that was demolished, and a person looking at it for ninety seconds.
-3. **Resolution:** The channel closes at ninety seconds and the log records the category of the place — *home*, *workplace*, *public* — and nothing else. 211 channels; no face has ever been identified in the log and the prohibition on identifying one is the oldest line in the file.
+1. **What is confirmed:** the clock running and the second person holding authority to close, the category the viewer expects to see, and the counselling appointment booked ahead of the cycle.
+2. **What the watch does:** Viderehan on the phantasmal register and Ferrehan for sustained presence, with the channel closed at ninety seconds and the date stated aloud, and nobody who recognises somebody kept in the room.
+3. **How it closes:** the close is the file's documented condition: **The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered** — 211 channels, and no face has ever gone into the log, which is the oldest line in the file.
+
+### Consequencesn identified in the log and the prohibition on identifying one is the oldest line in the file.
 
 ### Consequences
 
@@ -148,17 +135,16 @@ What the holding shows is a place that is gone, accurately enough for district r
 
 Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expression, held at SECTOR-N-903. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge and neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it an easy one.
 
-## Breach Behavior
+## Expansion Behavior
 
 > *"The affected volume grows outward from the frame and the glass stays where it is. Nothing comes through it. Nothing has ever come through it."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's phantasmal influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the phantasmal register makes it personal, targeted, unavoidable. |
-| **First Target** | Whoever is at the glass. It has never shown anything to the clock-holder, in 211 channels, which is the entire basis of the two-person rule. |
-| **Escalation** | +5 Void drain per cycle while a viewing runs past ninety seconds. It does not pursue; closing the channel ends it within the second. |
+| **Expansion Trigger** | A viewing that runs past ninety seconds without the clock-holder closing the channel. The two-person rule exists for this and the second person holds the authority, not a court. |
+| **Expansion Rate** | The affected volume grows outward from the frame at five Void a cycle once the limit has passed, and it has never needed a second event to widen. Closing the channel ends it within the second, in every one of 211 channels. |
+| **Expansion Effect** | The reflected place arrives first, then a figure with its back turned; the phantasmal register makes both personal, which is why the log records the category of the place and nothing else. Nothing crosses the pane. |
+| **Containment** | Two in the chamber — one at the glass, one at the clock with authority to close — and the channel closed at ninety seconds with the date stated. Anybody who recognises somebody is withdrawn and the category-only log is kept. |
 
 ### Escalation Notes
 

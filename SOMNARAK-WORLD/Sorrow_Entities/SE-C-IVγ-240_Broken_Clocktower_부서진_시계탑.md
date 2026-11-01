@@ -45,51 +45,36 @@
 - There is no breach counter. Burden pressure spreads from the tower base through Zone C and the radius is walked at every session, by two walkers, both carrying sealed timepieces.
 - Residue is recovered from the mechanism housing under separate authorization and never from the bell chamber, which is inspected through a port and has not been entered.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 40% against Weight pressure; 30% against other pressure types. The second figure is defensive only: nothing on this file arrives as anything but Weight, and the field does not care what the watch was carrying when the pendulum swung. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 772/772 |
-| **Han Pressure [ATK]** | 14–31 per turn of exposure · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device (internal parts may move)*, and no component has ever left the tower: the bell is intact, the clapper is free, and the stroke does not happen. What the tower does is stretch the moment, so that an instruction given at the foot of the stair is still arriving when somebody gives it again.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Entity (IV) — Self-aware, time-obsessed |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A broken clocktower at the edge of Collector's Row with its hands at 3:47 and its gear train running underneath a silence where the stroke should be. The bell chamber is inspected through a port and never opened; the pendulum moves and the hands do not. |
+| **Perceptible to** | The drift on a carried timepiece first, which is how the field is found at all, then the lateness of a voice reaching the person standing next to it. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. |
+| **Handling** | The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece is carried by the watch and surrendered on exit, and no second instruction is issued without the first being confirmed as arrived. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 772/772 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, near Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the field's effect on a carried timepiece and holds the gauge; Ferrehan is standing in a moment that will not conclude without trying to force it, and lowers it. Both are timed to the facility clock and to nothing in the room. |
+| **Location** | Zone C, near Collector's Row |
 | **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Stuck Hand* [**Debuff**] } | "The hands do not move and the gears do. Inside six metres, your own voice reaches the other person late." | [The dilation field does not freeze the target mid-motion; anything issued inside it arrives about two turns late, symmetrically.] | *Target suffers -10 Resolve under the Weight of an instant that will not advance.* **[10 Weight DMG [Weight]]** | When the target enters the six-metre field. |
-| { *The Withheld Stroke* [**Debuff**] } | "The bell is intact, the clapper is free, and the stroke does not happen. The gear train runs on underneath the silence." | [Waiting for a conclusion that never arrives deranges the target's sense of duration while the carried timepiece drifts.] | *Target loses 10 Resolve; elapsed time is misjudged in either direction and cannot be trusted.* **[10 Weight DMG [Weight]]** | While the target remains inside the field waiting for the minute to conclude. |
-| { *The Late Instruction* [**Attack**] } | "No gear breaks free. An order given at the foot of the stair is still arriving when somebody, certain it was ignored, gives it again." | [The first instruction lands after its context has changed; the second turns delay into incident.] | *Inflicts Weight pressure on the Han through contradictory late action; no component falls and no grinding wound is dealt.* **[14-22 Weight DMG [Weight]]** | When an instruction or action issued inside the field is repeated before the first has arrived. |
-| { *The Unfinished Minute* [**Attack**] } | "No bell rings and it is not midnight. It is 3:47, the gears are turning, and the event still has not been allowed to finish." | [An attempt to force the frozen moment to end makes the unresolved instant press on everyone holding the channel.] | *A heavy Weight surge; the target's Sorrow Gauge climbs 15% without the bell striking or the hands advancing.* **[24-36 Weight DMG [Weight]]** | When the crew overloads the channel or tries to force the frozen moment to conclude. |
-| { *Still 3:47* [**Ultimate**] } | "The pendulum does not stop and time is not halted. The hands simply never advance, and everyone inside has to keep waiting with them." | [The six-metre dilation holds all personnel in stretched, symmetrical lateness while the external watch has not yet been called.] | *All personnel take Weight pressure for three turns inside a moment that will not conclude; their own estimates of those turns are not usable evidence.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 75% activation threshold inside the field. |
+| Event | What the tower does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Stuck Hand* [**Register**] } | Holds a dilation field of about six metres in which a voice reaches the next person late; anything issued inside it arrives roughly two turns behind, symmetrically. | Finds the field by the drift on a carried timepiece, sets the watch to the facility clock, and takes positions before anybody is given anything. | No component falls and no grinding wound is dealt. The field keeps its own symmetry, so the delay is the same in both directions — which is why a stopwatch is carried and a sense of duration is not evidence. |
+| { *The Withheld Stroke* [**Exposure**] } | Withholds the stroke with the bell intact and the clapper free, so that a worker waits for a conclusion that is never going to arrive while the gear train runs on underneath. | Times the whole watch against the facility clock, and gives the crew a conclusion at the called end rather than letting the room supply one. | Elapsed time can no longer be judged in either direction, and the sealed timepiece is surrendered on exit because a watch that came in with the crew is no longer telling them anything. |
+| { *The Late Instruction* [**Refusal**] } | Does not let an instruction arrive on time, and does not stop one being given twice: the first lands after its context has changed and the second turns delay into incident. | Gives one instruction, once, and confirms it has arrived before anything else is said. The second instruction is the recorded injury on this file and the watch does not issue it. | Personnel past the called watch do not fail dramatically. They keep working, because what the tower takes is the ability to tell how long they have been there — and then somebody repeats an order that has not yet landed. |
+| { *Still 3:47* [**Overload**] } | Holds the six-metre dilation across everybody in it while the external watch has not yet been called, and the hands do not advance. | Calls the end from the facility clock whether or not the moment has concluded, and enters the crew's own estimates of the interval as unusable evidence. | The tower does not cut its own watch and never has. The external timekeeper is the only clock in the file that has ever ended anything, which is why the post exists and is never held by somebody inside the field. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first, and here identification is procedural: the field is found by the drift on a carried timepiece and by a bell chamber that is inspected through a port and never opened. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. Then the watch is set against the facility clock, the positions are taken, and the instruction is given once.
-2. **Clash:** Viderehan and Ferrehan only, watch timed to the facility clock, sealed timepiece carried and surrendered on exit. One instruction, given once. The second instruction — issued because the first appeared to have been ignored — is the cause of every incident on this file.
-3. **Resolution:** The watch ends when the external timekeeper calls it against the facility clock, one instruction has been given once, and the timepiece has been surrendered at the port and reconciled by the bench. Nothing above the stair is concluded by the watch and nothing is meant to be: accept that the moment cannot be changed, limit the exposure, and enter the drift beside the observer's name.
+1. **What is confirmed:** the external facility clock set before entry, the drift on a carried timepiece, positions taken inside the field, and the sealed timepiece in the watch's own hands.
+2. **What the watch does:** Viderehan read against the timepiece and Ferrehan for standing in the moment without forcing it, one instruction given once, and no conclusion supplied by anybody who is inside the field.
+3. **How it closes:** the close is the file's documented condition: **Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded** — and a watch that ended on a clock carried into the field is entered as not having ended at all.
 
 ### Consequences
 

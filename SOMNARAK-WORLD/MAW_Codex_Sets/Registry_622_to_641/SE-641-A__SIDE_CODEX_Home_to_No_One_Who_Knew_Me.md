@@ -22,7 +22,7 @@ A black shape-shifting relic appears ambiently in Old Lament after long absences
 | Coherence / Potency | IV / δ |
 | Element | Grudge |
 | Location | Zone B, Old Lament — ambient |
-| Gauge / Pressure | 809/809; starts 60–80% / 28–60 Grudge |
+| Gauge / Pressure | 809/809; starts 60–80% / Grudge — no attack pattern; the crimson light and the position are the reading |
 | Movement / Resistance | Fixed-returning object / 45% Grudge, 35% other |
 | Activation threshold | Gauge ≥90%; touch or recognition activates return |
 | Observation | 2 — Basic |
@@ -30,7 +30,7 @@ A black shape-shifting relic appears ambiently in Old Lament after long absences
 
 **First marker:** the relic changes object form when unobserved, yet every form carries the same black surface, crimson internal glow, and char scent.  
 **Core wound:** the object returned to its origin after absence only to find belonging had changed beyond mutual recognition.  
-**Resolution:** acknowledge the returned thing and its changed home; lower Gauge below 25% without claiming restoration.
+**Resolution:** The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule.
 
 ## WORK & ACTIVATION READOUT
 

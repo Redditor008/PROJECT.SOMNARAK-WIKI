@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Phantasmal |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void / SECTOR-N-903, contained |
-| Gauge / Pressure | 426/426; starts 35–50% / 14–23 per hit · Void |
+| Gauge / Pressure | 426/426; starts 35–50% / Void — no attack pattern; the category of the place and the ninety-second clock are the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-903 -->
+**Resolution:** The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. <!-- SE-903 -->
 
 ## WITNESS RECORD — *The Glass Elsewhere Source-Trace*
 

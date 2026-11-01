@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-906 [GO]` |
-| **Entity Type** | **Object** — Can breach via Transform |
+| **Entity Type** | **Object** — Non-breaching: expansion only; a page fills while it is being read, and the volume has never left its lectern |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
@@ -45,51 +45,36 @@
 - Nothing is read aloud. Line counts are taken by eye without following the text, and the most recent page is transcribed by instrument into a sealed sheet that goes to the register unopened.
 - Extraction is authorised apart from the work cycle and has never been performed. The two applications on file were withdrawn by their own authors after reading the drafting history.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Grudge. The binding has never been tested and will not be; the one proposal to clamp the cover shut is in the file under its author's name and was refused on the grounds that a book that cannot write may begin writing elsewhere. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 479/479 |
-| **Han Pressure [ATK]** | 14–20 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the volume has been on the same lectern for thirty-one years under a weighted cover. What arrives is a page, and it arrives only after somebody lifts the cover — three hundred and forty times so far, which is the whole of the file's contact history.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A bound volume on a lectern, weighted shut, the cover the only thing between it and a reader. It cannot move and cannot reach; the ink is the contact. |
+| **Perceptible to** | The handwriting first — the reader recognising the hand before the content is read, which in 188 of 411 cycles they named correctly and in 41 of those it was their own. Then the account itself, which is in the first person and in somebody else's voice. |
+| **Handling** | Cover weighted shut and never used to assess the threat. Nobody reads it and nobody looks over a reader's shoulder; the standing order says nothing is read aloud, and six occasions on file are six workers who thought it might help. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 479/479 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-906 |
+| **Valid Work Types** | Viderehan and Ferrehan only, and neither requires the text. Viderehan permits study of the object without opening it — line counts, ink distribution, the pattern of blanks across readers; Ferrehan settles the writing rate around a party that completes a full cycle in the cell without disturbing the cover. |
+| **Location** | SECTOR-C-906 |
 | **Resolution Condition** | The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "The frame before shows blank vellum; the frame after shows finished text; no frame between them exists on any instrument." | [The script matches the handwriting of somebody the observer knows.] | *10 Grudge. In 188 of 411 cycles the observer named the hand correctly, and in 41 of those it was their own.* **[10 Grudge DMG [Grudge]]** | Within the first minutes of any cycle. |
-| { *The Tale Surge* [**Attack**] } | "The page carries an unresolved grievance; its authority is not the same as proof." | [An open page presents one reader with a first-person account; a second person may see unrelated text or nothing.] | *18 Grudge to the reader the account concerns. The study confirmed ninety-one per cent of checkable particulars, not every claim.* **[18 Grudge DMG [Grudge]]** | When a reader opens it: the story changes depending on who opens it. |
-| { *The Unraised Line* [**Attack**] } | "The standing order says nothing is read aloud." | [A reader's account is first-person and reader-specific; another person sees unrelated text or nothing.] | *26 Grudge to the reader. An account cannot be used as an institutional finding.* **[26 Grudge DMG [Grudge]]** | When a reader opens the volume. Six read-aloud occasions are listed, all by workers who thought it might help; this conflicts with the standing order and remains unresolved. |
-| { *The Tale Collapse* [**Ultimate**] } | "The combat log claims every blank surface in the wing takes a line of the same hand; photographs of a filled page develop blank." | [Reported propagation to walls, forms and ledgers conflicts with reader-specific text and blank photographs; no mechanism or second visual form is recorded.] | *20 Grudge per cycle for three cycles to everybody in the wing is an uncorroborated area claim, not an established response.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; only this combat row reports the sector's forms destroyed. Its relation to the record that the holding has never breached remains unresolved. |
+| Event | What the Grimoire does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Writes a line between two readings, so that the frame before shows blank vellum and the frame after shows finished text with no frame between them. The script is a hand the observer knows. | Takes the page count across two successive readings with the cover undisturbed, and sets the camera before the first count rather than after it. | The count is the reading and the cover is the control. In 188 of 411 cycles the observer named the hand correctly, and in 41 of those it was their own, which is why the count is taken by somebody who has no outstanding complaint. |
+| { *The Tale Surge* [**Exposure**] } | Presents an open page to one reader as a first-person account of a wrong they did, with the detail of the person they did it to. A second person over the same shoulder sees unrelated text or nothing at all. | Keeps the cover down and works the object rather than the text: line counts, ink distribution, and the pattern of blanks across readers. | The study confirmed ninety-one per cent of checkable particulars and not every claim. A reader who cannot hold does not break down — they begin recounting a grievance in the first person and cannot afterwards say whose it was. |
+| { *The Unraised Line* [**Refusal**] } | Does nothing at all while the cover is down. It cannot reach, cannot pursue and cannot act on anybody who leaves it shut, and closing the cover ends the event immediately in every recorded case. | Leaves the cover down. No read-aloud, no assessment from the text, and no second reader at a shoulder — the standing order is checked at the door rather than trusted at the lectern. | The refusal is the cover, and it is the only control the file has ever needed. In every recorded case of a closed cover the reader asked for one more page, which is why the closure is taken by the watch and not by the reader. |
+| { *The Tale Collapse* [**Overload**] } | Above sixty-five per cent the record carries a claim that every blank surface in the wing takes a line of the same hand, and that photographs of a filled page develop blank. No mechanism and no second visual form is recorded for it. | Does not open the volume to test the claim. The station records the reading, curtains the affected wing's paperwork, and keeps the cover weighted. | The propagation has never been verified and the cover protocol is unchanged by it. What the file knows is that the page count goes up, and that it goes up while the cover is down as well — the account is written and nobody reads it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The book is on its stand, already writing. The crew takes the page count, sets the camera, and confirms that nobody present has an outstanding complaint of their own — a question asked at the door and answered honestly more often than the station expected.
-2. **Clash:** Four turns, observation and endurance only, with the book closed and weighted throughout. No cycle on this holding has ever required the book to be opened and the protocol provides no circumstance in which it may be.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the line count stable across two successive readings with the cover undisturbed.
+1. **What is confirmed:** the page count across two successive readings, the cover weighted and undisturbed, and whether anybody present has an outstanding complaint of their own.
+2. **What the watch does:** Viderehan on the object without opening it and Ferrehan for completing the cycle in the cell with the cover down, with nobody reading, nobody looking over a shoulder and nothing read aloud.
+3. **How it closes:** the close is the file's documented condition: **The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up** — and no cycle on this holding has ever required the book to be opened.
 
 ### Consequences
 
@@ -145,21 +130,21 @@ Containment took fourteen hours and has held for thirty-one years without a sing
 
 Grimoire is an Object with Object-Tale manifestation and Grudge expression, held at SECTOR-C-906. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge and neither requires contact with the text, which is the single most important sentence in this file and is the reason it appears twice.
 
-## Breach Behavior
+## Expansion Behavior
 
 > *"Grimoire has broken free and is open. Nobody reads it and nobody looks over a reader's shoulder; the first person to break either rule writes the account for the rest of the wing."*
+
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — the breach entry describes pages filling only while being read. The operational record says the book writes itself; whether these are separate modes or a contradiction is unresolved. |
-| **Movement** | The physical volume remains on its lectern; no physical movement or release is reported. This entry says an unopened volume expands by nothing and closing the cover stops the event, but the containment log records self-writing under a no-opening protocol. Do not open it to test the discrepancy. The file calls this a volunteer-required breach, while the Registrum says it has never breached. |
-| **Effect** | Grudge in the tale register: the reader receives a complete first-person account of a wrong they did, written by the person they did it to, in that person's voice and with that person's detail. |
-| **First Target** | Whoever reads first, and nobody else. The text shapes itself to the reader; a second person looking over the same shoulder sees unrelated text or sees nothing at all. |
-| **Escalation** | Grudge drain increases by 5 per turn while reading continues. Closing the cover ends the event immediately in every recorded case, and in every recorded case the reader asked for one more page. |
+| **Expansion Trigger** | Somebody lifts the cover. It cannot move, cannot reach, and cannot act on anybody who leaves the cover down; in thirty-one years the cover has been lifted three hundred and forty times. |
+| **Expansion Rate** | A page fills while it is being read, and the page count has only ever gone up. Closing the cover ends the event immediately in every recorded case — and in every recorded case the reader asked for one more page. |
+| **Expansion Effect** | Grudge in the tale register: the reader receives a complete first-person account of a wrong they did, written by the person they did it to, in that person's voice and with that person's detail. The text shapes itself to the reader; a second person over the same shoulder sees unrelated text or nothing at all. |
+| **Containment** | Close and weight the cover. Do not remove it from the sector and do not open it to assess the threat; reading it to find out what it is doing has been the proximate cause of every escalation on file. |
 
 ### Escalation Notes
 
 - **Containment priority:** Close and weight the book. Do not remove it from the sector and do not open it to assess the threat; reading it to find out what it is doing has been the proximate cause of every escalation on file.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per page filled since the event began, so the gauge counts pages and not minutes. It falls 10% for each account in the book that is afterwards acted on by anybody with the standing to act on it, which has happened nine times in eleven years.
+- **Sorrow Gauge on expansion:** Opens at 40% and rises 10% per page filled since the event began, so the gauge counts pages and not minutes. It falls 10% for each account in the book that is afterwards acted on by anybody with the standing to act on it, which has happened nine times in eleven years.
 
 ## Activation Behavior
 

@@ -45,51 +45,36 @@
 - No breach counter. The wetted outline is chalked every session, because it is the only boundary this holding has and it does not hold still.
 - Residue is lifted from the damp margin on separate authority and never from inside the chalk.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Grudge, which is what every grievance in the room is made of; 25% against everything else. Neither figure is the one the session turns on. Nothing in the vault is brought down by damage, and the work ends when the room has been kept free of fresh anger for the length of the cycle. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 640/640 |
-| **Han Pressure [ATK]** | 14–33 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*. The outline on the vault floor moves and the holding does not: it is a man-shaped darkness with clear air above it, and what spreads is the wetted margin across the floor. There is nothing in the air to be struck by and nothing that goes anywhere.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A man-shaped darkness on the floor of the Alpha Tree vault with clear air above it, crimson light running off it in drips that scorch, and a floor that has not been dry since the sealing. Everything else in the vault is shelving, and shelving casts nothing. |
+| **Perceptible to** | The wetted margin first — the damp reading against the chalk — then the drips, then the grade, which deepens by carrying anger into the room rather than by doing anything in it. |
+| **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be; positions taken outside the wetted margin, the card not read until the outline is marked, and cleared Wardens only — cleared that week, checked at the door rather than at the roster. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 640/640 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree vault |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is the lodged complaints read aloud in the voices that wrote them, in no order and without end, and holds the gauge; Ferrehan is standing the interval beside it without contributing anything of your own, and lowers it. |
+| **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Wet Dark* [**Debuff**] } | "Your shadow is dripping — wet with old grief — and each drip carries a resentment you cannot name." | [The Shadow's sorrow-water seeps outward from the target's own shade.] | *Target suffers -10 Resilience; their shadow is saturated with anger.* **[10 Grudge DMG [Grudge]]** | When the target's shadow touches the ground. |
-| { *The Spreading Stain* [**Debuff**] } | "The wet shadow spreads — darkening the floor around you — and the stain is sticky with old grievances." | [The Shadow's runoff contaminates the area; resentment pools.] | *Target loses 10 Resilience; the anger is everywhere underfoot.* **[10 Grudge DMG [Grudge]]** | When the target moves. |
-| { *The Dripping Strike* [**Attack**] } | "The shadow flings a glob of sorrow-water — dark, heavy, and burning with old rage." | [A splatter of wet shadow-stuff strikes.] | *Inflicts Grudge pressure and one burning, resentful wound.* **[14-22 Grudge DMG [Grudge]]** | When the Shadow is disturbed. |
-| { *The Full Deluge* [**Attack**] } | "The whole store comes up at once — sixty years of other people's anger arriving in the one body standing nearest." | [Every shelved grievance the holding has kept, returned to a single recipient without grading, sequence or warning.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | The plate is struck, or a voice is raised inside the chalk. |
-| { *The Sorrow-Sea of Shadows* [**Ultimate**] } | "The vault goes wet to its corners, and every shadow on the floor starts keeping what is said to it." | [The holding's damp margin crosses the chalk and takes the whole chamber as shelving.] | *All in range suffer Grudge pressure for three turns of soaking shadows.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Shadow does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Wet Dark* [**Register**] } | Sits as a man-shaped darkness on the floor with clear air above it, and the drips running off it scorch. What moves is the outline, which is why the chalk is the record and the shape is not. | Counts the chalk marks before anything else, marks the outline where it now is, and takes the damp reading outside the wetted margin. | Nothing is thrown and nothing is in the air. The grade is read at the chalk and the damp, and a cycle without an outline mark has not been recorded — it has only been attended. |
+| { *The Spreading Stain* [**Exposure**] } | Spreads the wet across the floor around the outline, and the drain is measured per stray grievance the worker brings in rather than per minute. | Keeps two outside the wetted margin, checks the infirmary clearance at the door, and walks a worker out past the chalk the moment the reading turns. | The drain reverses the moment the worker is out past the chalk, which is why Wardens on this post are pulled early rather than steadied, and why the file says the pull is not a judgement on them. |
+| { *The Shelved Voices* [**Refusal**] } | Answers nothing. There is nobody in the room to address — the holding is a residue of thousands of people and represents none of them — and a raised voice in the vault deepens the grade by two steps inside the hour. | Reads the lodged complaints aloud in the voices that wrote them, in no order and without end, and keeps every voice in the room level. | Confrontation is barred twice over here: there is no one to confront, and the attempt itself is the damage. The refusal is not silence, it is the reading-aloud — the Shadow keeps what is said to it and answers none of it. |
+| { *The Sorrow-Sea of Shadows* [**Overload**] } | Lets the damp margin cross the chalk and take the whole chamber as shelving, and every shadow on the floor begins keeping what is said to it. | Clears the vault, closes the door on the outline, and re-marks the chalk line from the door inward on the next cycle rather than trusting the old one. | A warden who spent a night in the vault reported afterwards that nothing had happened to her except that she had wanted, very badly, to be angry about something. That report is the file's account of a chamber that has gone wet to its corners. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Confirmation is a man-shaped darkness on the vault floor with clear air above it, crimson light running off it in drips that scorch, and a floor that has not been dry since the sealing. Everything else in the vault is shelving, and shelving casts nothing. Approaching personnel count the chalk marks before they count anything else, because the outline moves and the marks are the only record of where it used to be. Positions are taken outside the wetted margin and the card is not read until the outline is marked.
-2. **Clash:** Viderehan or Ferrehan from outside the wetted outline, by a Warden the infirmary has cleared that week. Nobody carrying a live grievance of their own goes in, and the clearance is checked at the door, not at the roster.
-3. **Resolution:** The session ends when the room has been held clear of anger for its full length: no raised voices, no fresh grievance carried in, and the wetted margin marked at the close exactly where it stood at the opening. The condition this record carries is **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**; the gauge falls when the vault has been kept quiet and not otherwise, and on this holding the figure has always been the consequence of the quiet rather than its purpose. A cycle that ends with the margin wider than it began is not a containment failure and is entered as movement.
+1. **What is confirmed:** the chalk marks counted, the outline marked where it now is, the damp reading outside the wetted margin, and the infirmary clearance of the Warden dated within the week.
+2. **What the watch does:** Viderehan for the lodged complaints read aloud in the voices that wrote them and Ferrehan for standing the interval without contributing anything, with nobody carrying a live grievance of their own past the chalk.
+3. **How it closes:** the close is the file's documented condition: **Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged** — and a cycle that ends with the margin past the chalk is entered as an overrun, not as a close.
 
 ### Consequences
 

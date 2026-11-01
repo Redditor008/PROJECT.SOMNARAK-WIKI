@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five relics that had already said the answer themselves (2026-11-01)
+
+Tenth batch. Every one of these files carried the finding before this pass did — in a clause, in a phase note, or in a line of dialogue that contradicted the table standing over it. The work was mostly to stop the document arguing with itself.
+
+- **Grimoire** (`C-IIβ-906`) — a volume on a lectern under a weighted cover, and the only thing that ever happens is a page filling after somebody lifts it. Its old breach block said the mode was maybe separate and maybe a contradiction and left the question open; the containment lead's own line is *it does not breach, it waits for somebody to lift the cover*.
+- **Broken Clocktower** (`C-IVγ-240`) — no component has ever left the tower. The bell is intact, the clapper is free and the stroke does not happen; the field stretches the moment by about two turns in both directions, and the recorded injury is the second instruction rather than the weight.
+- **Soaking Shadow** (`N-IIIγ-308`) — a man-shaped darkness on the vault floor with clear air above it. Its action table used to fling a glob of sorrow-water, which the file's own confirmation procedure denies: nothing is in the air, and what is read is the chalk outline and the damp against it.
+- **Glass Elsewhere** (`N-IIβ-903`) — re-typed out of the breach census. The glass is fixed in its frame, nothing crosses the pane, and 211 channels have never had a face entered in the log.
+- **Home to No One Who Knew Me** (`N-IVδ-641`) — out of the census too, and the one that argued loudest: its rows had the relic striking of its own accord while its own cycle forbade approaching, handling, moving, marking or addressing it. Nothing strikes. What returns is weight, to a person who has reason to recognise it.
+
+**What the contradiction cost.** Two of the five had an unresolved question written into the breach row itself, which is a file telling a reader it does not know what it is. Those questions are answered now, in the files' own terms, and the answers were already in the same documents: *it cannot reach* (`906`), *nothing comes through the pane* (`903`), *no gear breaks free* (`240`), *the outline moves and the marks are the record* (`308`), *nothing is done to the object* (`641`).
+
+**Resolution rows that were template.** Glass Elsewhere's close was the generic line about reducing the gauge until containment is achieved. It now closes the way the station actually closes a channel: ninety seconds, the category of the place, no face entered, and the note that this prohibition is the oldest line in the file. Its side codex carried the same template line and now carries the same condition.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 192/301 non-breaching, relic share 97.6 per cent · `check_links` 0 broken. **Fifty-one converted. Six relic `Combat Records` left, and four of those six drift or fly.**
+
 ## Six relics read off an instrument nobody is holding (2026-11-01)
 
 Ninth batch, and the first time the instrument has been the only thing in the room: a called count, a link count, a water level, a height, a bearing, a lid gap. Not one of the six has a strike in it, and all six had been filed with a battle length and a threat role.

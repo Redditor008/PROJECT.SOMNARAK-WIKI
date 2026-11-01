@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Grudge |
 | Form | A fever-hot ownerless shadow drenched in burning crimson liquid, dripping light that scorches the vault floor. |
-| Gauge / Pressure | 45–65% / Grudge 14–33 |
+| Gauge / Pressure | 640/640; starts 45–65% / Grudge — no attack pattern; the chalk outline and the damp reading are the instrument |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Returned Deposit |
 
@@ -50,7 +50,7 @@ The shadow smells of char, grows darker near repeated arguments, and has no orig
 | Ferrehan | Tests remaining without adding anger. | Down | Bring no unresolved dispute into the chamber. |
 
 **Activation:** Touch or project anger. The I-Relic stores hostility until acknowledged and released.  
-**Resolution:** Name the stored grievance, assign responsibility for its release, and lower Gauge below 25%.  
+**Resolution:** Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged.  
 **Escalation:** At 75% Gauge every shadow becomes wet with pooled resentment and Grudge pressure floods the vault.
 
 ---

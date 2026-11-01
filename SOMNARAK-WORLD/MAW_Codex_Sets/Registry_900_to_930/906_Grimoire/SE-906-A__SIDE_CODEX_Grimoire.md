@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Tale |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / SECTOR-C-906, contained |
-| Gauge / Pressure | 479/479; starts 35–50% / 14–20 per hit · Grudge |
+| Gauge / Pressure | 479/479; starts 35–50% / Grudge — no attack pattern; the page count against a weighted cover is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-906 -->
+**Resolution:** The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up. <!-- SE-906 -->
 
 ## WITNESS RECORD — *The Grimoire Source-Trace*
 
