@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The numerals a dossier repeats must agree with the rows it repeats them from (2026-11-01)
+
+The Registrum line and the Trivia line carry the stat table again in prose — *gauge 750/750, pressure 22–48 per hit, resistance 45 / 35 per cent, threshold 90 per cent* — so that a reader looking a figure up does not have to scroll. That makes them a second copy of the numbers, and a second copy can drift. The audit now compares every one of them against the row it came from, across all 301 dossiers: gauge against `Sorrow Gauge [HP]`, pressure band against `Han Pressure [ATK]`, and any *threshold N per cent* against the activation rows.
+
+**Nothing had drifted.** Every repeated gauge, pressure band and resistance pair matches the table it restates.
+
+**One file looked wrong and is not.** Every Last Goodbye's prose says *threshold 90 per cent* while its classification row opens *Corrupt pulse: event begins at 85% and adds 10% for every unanswered interval; combat threshold ≥90%*. Two thresholds, both stated, and the row says which is which — the 85 per cent starts the event and the 90 per cent is where combat begins. The prose quotes the second, which is the one the register is keeping. Nothing needs changing, and the reason is in the row above it.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers and 22 checks · `wikistd` 301/301 · `label_lint` 301 · `check_stat_bands` PASS · `check_links` 0 broken.
+
 ## The sections that are allowed to look different, and why (2026-11-01)
 
 The section audit now reads Appearance, Behavior, the three record sections, Trivia and the interaction table as well as the classification and the two stat tables. Four shapes came back that look like absences and are not, and each is now a ruled exception rather than a silent gap — the standard says a dossier is only left alone when its own text shows why.

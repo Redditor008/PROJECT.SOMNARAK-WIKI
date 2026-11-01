@@ -329,6 +329,31 @@ def audit(path):
     if '## Trivia' in sec and len(sec['## Trivia'].strip()) < 80:
         add('trivia', 'Trivia carries under 80 characters')
 
+    # ---- 11l. numerals repeated in the Registrum must match the stat rows ---
+    hprow = row(t, 'Sorrow Gauge \\[HP\\]') or ''
+    m = re.search(r'([\d,]+)/', hprow)
+    if m:
+        want = m.group(1).replace(',', '')
+        for pm in re.finditer(r'gauge (\d{2,5})/(\d{2,5})', t):
+            if pm.group(2) != want:
+                add('numerals', 'prose reads gauge %s/%s, the row reads %s'
+                    % (pm.group(1), pm.group(2), m.group(1)))
+                break
+    atkrow = row(t, 'Han Pressure \\[ATK\\]') or ''
+    ma = re.search(r'(\d+)\s*[\u2013-]\s*(\d+)', atkrow)
+    if ma:
+        want = '%s-%s' % (ma.group(1), ma.group(2))
+        for pm in re.finditer(r'pressure (\d+)\s*[\u2013-]\s*(\d+)', t):
+            if '%s-%s' % (pm.group(1), pm.group(2)) != want:
+                add('numerals', 'prose reads pressure %s, the row reads %s'
+                    % ('%s-%s' % (pm.group(1), pm.group(2)), want))
+                break
+    acts = {n for v in rows(t, 'Activation threshold') for n in re.findall(r'(\d{1,3})\s*%', v)}
+    for pm in re.finditer(r'threshold (\d{1,3}) per cent', t):
+        if acts and pm.group(1) not in acts:
+            add('numerals', 'prose reads a threshold of %s per cent; no activation row says %s'
+                % (pm.group(1), pm.group(1)))
+
     # ---- 12. M.A.W. pieces ---------------------------------------------------
     maw = re.findall(r'^### M\.A\.W\. (Weapon|Suit|Stigma)', t, re.M)
     if maw and len(set(maw)) < 3 and 'M.A.W.' in t:
