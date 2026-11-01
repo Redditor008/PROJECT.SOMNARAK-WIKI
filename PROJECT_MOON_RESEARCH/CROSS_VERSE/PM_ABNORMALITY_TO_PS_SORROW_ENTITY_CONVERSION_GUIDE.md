@@ -58,7 +58,7 @@ Every standard contained entity, Ranks I through IV, sits inside a calibrated 15
 
 The old 10,000 ceiling survives only as the top of this tier, and only for macro-scale horrors:
 
-- **Eligible:** Rank V Sovereigns, and any lower rank whose Threat Score reaches 9 — *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*), V + ω, at 12,000 HP; or a Rank IV district colossus such as *The Maw* (`C-IVω-001`, IV + ω = 9 → ALEPH), whose breaching state is *The Walking District* (`C-IVω-001-B [GS]`, 보행하는 구라 / *Bohaenghaneun Gura*) — a jaw-shaped mass on two enormous legs, two clawed hands, no eyes, and a mouth of working jagged edge with a thousand blue eyes inside it.
+- **Eligible:** Rank V Sovereigns, and any lower rank whose Threat Score reaches 9 — *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*), V + ω, at 12,000 HP; or a Rank IV district colossus such as *The Maw* (`C-IVω-001`, IV + ω = 9 → ALEPH), whose breaching state is *The Walking District* (`C-IVω-001-B [GS]`; the event form files no Korean name of its own) — a jaw-shaped mass on two enormous legs, two clawed hands, no eyes, and a mouth of working jagged edge with a thousand blue eyes inside it.
 - **Encounter shape:** never a single containment room. These are multi-phase departmental Realizations or citywide crisis raids, run over days.
 
 ### II.3 Planetary geography
@@ -229,7 +229,9 @@ Project Moon runs four generic employee actions: Instinct, Insight, Attachment, 
 | **Attachment** | **Flerehan** (플레레한 — Latin *Flere*, to weep, + Han) · *The Work of Tears* | Speak to the entity directly, weep with it, accept part of its unresolved grief | High mental risk, tests **Composure**, drops the Gauge hard, or causes hysteria on failure |
 | **Repression** | **Pugnahan** (푸그나한 — Latin *Pugna*, to fight, + Han) · *The Work of Confrontation* | Controlled violence: suppression rods and authoritative strikes against expanding mass | High physical risk, tests **Resolve**, stops an imminent breach, raises Grudge |
 
-**The four names are Latin roots welded to Han, not Sino-Korean compounds.** The world spells them 비데레한 · 페레한 · 플레레한 · 푸그나한, and a conversion that writes 관조한 or 격투한 has replaced the name with a translation of it. The work's own four titles — Observation, Endurance, Tears, Confrontation — are the ones the Absolvohan files, and they are the ones to cite beside the transliteration.
+**Two spellings are in circulation, and only one of them is the name.** The world codex — `PROJECT_SOMNARAK.md` and the Absolvohan sections — spells the works 비데레한 · 페레한 · 플레레한 · 푸그나한, each a Latin root welded to Han, and that is the form a record uses. The comparison codex carries a second set, 관조한 · 인내한 · 통곡한 · 격투한, which are Sino-Korean translations of the same four words: they are a reading aid for a bilingual table, not an alternate name. Write the world-codex form in a dossier, and where the comparison's gloss is quoted, quote it as a gloss.
+
+The four titles are the ones the Absolvohan files and the ones to cite beside the transliteration: **Observation, Endurance, Tears, Confrontation**.
 
 ### VI.2 Attributes convert with the work
 
@@ -242,7 +244,20 @@ This is the owner's Attribute Levels add-on, carried as [RDA] in Chapter 5, and 
 | Temperance | **Composure** | Attachment / Flerehan |
 | Justice | **Resolve** | Repression / Pugnahan |
 
-The pairing reads **aptitude**, not levels. Every transported employee starts at **Level 0** in all four R.D. attributes and earns points only through survived Han exposure — three or more consecutive days, roughly 1–3 points a day by Potency, keyed by element, with Level III as the safe-work gate. The full law sits in Universal Table §IV.3 and [RDA] Chapter 5.
+The pairing reads **aptitude**, not levels. Every transported employee starts at **Level 0** in all four R.D. attributes — they have never had to survive Han every day the way Somnarak personnel do — and earns points only through survived Han exposure: **3 or more consecutive days** sustaining the entity's filed effect, then roughly **1–3 points a day** by the source's Potency, paid into the work's primary and secondary attributes and never into both at full value.
+
+**The ladder the points climb** is 1–100 in twenty-point steps:
+
+| Level | Name | Range | What it can do |
+|---|---|---|---|
+| **0** | — | 0 | An L Corp employee on arrival: aptitude recorded, no Han-tolerance earned |
+| **I** | **Fragile** | 1–20 | Below civilian average; vulnerable to Han effects |
+| **II** | **Average** | 21–40 | Civilian level; survives daily life |
+| **III** | **Trained** | 41–60 | R.D. personnel level; **performs Work Types safely** — the gate |
+| **IV** | **Veteran** | 61–80 | Handles dangerous entities |
+| **V** | **Exceptional** | 81–100 | Echo-Core level; withstands what breaks others |
+
+A work's Failure Effect stays live until that work's primary attribute reaches **Level III**, which is why the first three days are an exposure budget rather than training. The full law sits in Universal Table §IV.3 and [RDA] Chapter 5.
 
 A level-specific rule written against an LC stat therefore never confers a phantom R.D. level. SP-denominated costs become Composure costs, and E.G.O stat requirements become the M.A.W. record's operative requirements before Composure Load (Section VIII.3) is applied.
 
@@ -348,7 +363,19 @@ Qliphoth Meltdowns select their units at random on the day's fixed cadence. Somn
 | **Third Watch** | 제3감시 / *Je-sam Gamsi* | Deep evening surge | Heavy construct invasions; wide-area psychological disruption |
 | **Tide Watch** | 만조감시 / *Manjo Gamsi* | Midnight surge from the Core Void | Cataclysmic apex incursions; facility-wide cell-breach hazards |
 
-**The watch is *when*; the colour is *what*.** Every colour spectrum passes through all four watches, **three entities at each**, and the full matrix runs sixty. A conversion places its entity in a watch by its threat tier and in a colour by the sorrow it carries, and the two placements are separate answers to separate questions — a body is not "a Tide Watch entity" without a colour, and the tide's apex tier is not a rank.
+**The watch is *when*; the colour is *what*.** Five colours make up the spectrum, and each carries one element:
+
+| Colour | Korean | Element | What it brings |
+|---|---|---|---|
+| **BLUE** | 푸른 시련 | Lament | Brine floods, weeping processions, acoustic grief waves |
+| **GREY** | 잿빛 시련 | Grudge | Armed battalions, mechanical blade walls, furious assaults |
+| **OBSIDIAN** | 검은 시련 | Weight | Gravitational compaction, collapsing pillars, density surges |
+| **ASHEN** | 창백한 시련 | Void | Conceptual erasures, vacuum mouths, existential severance |
+| **PURPLE** | 자색 시련 | Mixed | Reality distorters, multi-elemental convergences, altar hazards |
+
+Five colours across four watches is **twenty filed Ordeal types**, three entities apiece, **sixty in the matrix**. One Ordeal can spawn per Time per day, announced by a colour-and-time warning over the Whisper-Thread network with a **30–60 second** preparation window. An Ordeal **takes no Work, holds no cell and yields no M.A.W.** — it is suppressed in combat and never extracted from, so no conversion files one as a source.
+
+Every colour passes through all four watches, **three entities at each**. A conversion places its entity in a watch by its threat tier and in a colour by the sorrow it carries, and the two placements are separate answers to separate questions — a body is not "a Tide Watch entity" without a colour, and the tide's apex tier is not a rank.
 
 Readings in the world are filed in **mHb** — a barometric sorrow figure, not a percentage — and a converted record that quotes ambient pressure should use the unit the cosmology uses.
 
@@ -358,7 +385,7 @@ Facility-scale crisis systems convert at this same register and are carried by r
 
 Project Moon keeps an entity's code and form through a breach. Rare Somnarak apex entities change both, by one of three filed protocols.
 
-**Protocol 01 — Place to Subject (the Maw Protocol).** Contained, `C-IVω-001 [GP]` *The Maw* (구라 / *Gura*) is a stationary Place entity in Zone B, and only Viderehan and Ferrehan are valid. When expansion passes the containment perimeter, masonry, asphalt and trapped souls lift off the bedrock as `C-IVω-001-B [GS]` *The Walking District* (보행하는 구라 / *Bohaenghaneun Gura*) — a jaw the size of the district on two enormous legs, two clawed hands at its front, no eyes and no need of them, and a mouth that is a working hole of jagged edge with a thousand blue eyes at its centre. **The silhouette is on file; the walking is not.** No one has observed the form in motion, so the shape is a thing to recognise, not a sighting to cite.
+**Protocol 01 — Place to Subject (the Maw Protocol).** Contained, `C-IVω-001 [GP]` *The Maw* (구라 / *Gura*) is a stationary Place entity in Zone B, and only Viderehan and Ferrehan are valid. When expansion passes the containment perimeter, masonry, asphalt and trapped souls lift off the bedrock as `C-IVω-001-B [GS]` *The Walking District* — a jaw the size of the district on two enormous legs, two clawed hands at its front, no eyes and no need of them, and a mouth that is a working hole of jagged edge with a thousand blue eyes at its centre. **The silhouette is on file; the walking is not.** No one has observed the form in motion, so the shape is a thing to recognise, not a sighting to cite.
 
 The state's work rule shifts with the body: while it is a Place, only Viderehan and Ferrehan are valid; once it has gathered, the two-work-type law no longer binds, because the form is a Subject with a mouth and hands. What does not change is the standing response — withdrawal. The record files exactly two moves for the gathered form, *Judgment Claw* and *Judgment Sight*, both secondary and both event-only; a conversion carries those two, invents no third, and does not treat the silhouette as a licence to build a work loop the record never filed. Neither move has been observed used, and the ledger says so.
 
@@ -439,17 +466,19 @@ Every standard Subject entity extracts **three kinds of piece** — and the numb
 - **Suit.** Armour carrying resistance percentages across Grudge, Lament, Weight and Void.
 - **Stigma.** A passive accessory grafted to the operative's body or aura, with a tactical trigger. The archive's word is *Stigma* everywhere — the triad is Weapon, Suit, Stigma, and `Gift` is the native term this replaced. Write `Stigma` and no conversion should carry the old word.
 
-**Three kinds; five copies of each.** A source supports up to five Weapons, five Suits and five Stigmas — fifteen pieces in all, whatever its rank — and §VIII.5 sets that rule. A conversion that files "three pieces" as the equipment ceiling has read the set's shape as the Archive's stock.
+**Three kinds; five copies of each.** One extraction yields a **three-piece set** — one Weapon, one Suit, one Stigma — and a source supports up to five of each kind, fifteen pieces in all, whatever its rank. §VIII.5 sets that rule. A conversion that files "three pieces" as the equipment ceiling has read the set's shape as the Archive's stock.
 
 ### VIII.2 Five material weight classes
 
-| Class | Korean | Material | Resistance | Trade |
-|---|---|---|---|---|
-| **Primal Marrow** | 골수형 / *Golsu-hyeong* | Bio-organic bone, hardened sinew, ossified tar | High Grudge | Inflicts Bleed; drains the wielder's HP on heavy swings |
-| **Tempered Brass** | 단조황동 / *Danjo Hwangdong* | Boiler iron, hydraulic plate | High Weight | −1 Speed; full knockback immunity |
-| **Resonant Alloy** | 공명합금 / *Gongmyeong Hapgeum* | Acoustically tuned silver-blue crystal | High Lament | Boosts Clarity; resonant shockwave on parry |
-| **Woven Thread** | 직조사 / *Jikjosa* | Silk, mourner veils, fine spider-chiffon | High Void | +1 Speed, +15% evasion; weak to kinetic Grudge |
-| **Void Glass** | 공허유리 / *Gongheo Yuri* | Brittle black-and-white crystal, transparent | True Void | Fixed percentage trauma; shatters if physical armour fails |
+| Class | Material | Resistance | Trade |
+|---|---|---|---|
+| **Primal Marrow** | Bio-organic bone, hardened sinew, ossified tar | High Grudge | Inflicts Bleed; drains the wielder's HP on heavy swings |
+| **Tempered Brass** | Boiler iron, hydraulic plate | High Weight | −1 Speed; full knockback immunity |
+| **Resonant Alloy** | Acoustically tuned silver-blue crystal | High Lament | Boosts Clarity; resonant shockwave on parry |
+| **Woven Thread** | Silk, mourner veils, fine spider-chiffon | High Void | +1 Speed, +15% evasion; weak to kinetic Grudge |
+| **Void Glass** | Brittle black-and-white crystal, transparent | True Void | Fixed percentage trauma; shatters if physical armour fails |
+
+**The classes have no Korean names and no row of their own.** They are named in English in the comparison codex's Material Taxonomy, and they are the only equipment vocabulary in the file that never appears on a record — so a table that supplies them with Hangul has invented an authority for a classification that has none.
 
 **Filing note.** The five classes are a design vocabulary, not a schema field. No M.A.W. record carries a `Material Class` row, and none should be added: the item template files Type, Grade, Element, resistances and the Echo price. Where a class is used, it is stated in the piece's own Appearance or Ability prose — *"a flat of rustless hospice steel"* is Primal-Marrow-adjacent material without the label — and a converter who invents a field for it has added a column the archive does not read.
 
@@ -459,7 +488,7 @@ PM gear carries static requirements such as Fortitude III or Prudence II. Somnar
 
 An emptied SP pool is **Panic** — fought, suppressed and recovered like any other. It is not a transformation. **M.A.W. Corrosion** is a separate four-stage track — Whispers, Bleed, Merge, Takeover — driven by cumulative overuse, misuse, neglect or conflict. Reaching the last stage is an event with a filed history behind it, never the resting state of whoever simply ran out of Composure.
 
-**Stage four dominates the mind; it does not fuse the body.** A piece that has become part of its bearer is a different class — the **fused singular M.A.W.**, filed as its own armament class with its own record (Director Majin's *Reaper Hungered*, an Ω scythe in the left forearm) — and corrosion is not the road that produces one. Nor does the road end the piece's stock: §VIII.5 counts a dissolved or an inherited piece, never a corroded one.
+**Stage four dominates the mind; it does not fuse the body.** A piece that has become part of its bearer is a different class — the **fused singular M.A.W.**, filed as its own armament class with its own record (Director Majin's *Reaper Hungered*, an Ω scythe in the left forearm) — and corrosion is not the road that produces one. The comparison codex's older summary, *gear fuses into the nervous system under Composure Load, turning the operative into an Echo*, describes that named class and not the ordinary track: an ordinary bearer past stage four is dominated, not merged, and remains separable from the piece. Nor does the road end the piece's stock: §VIII.5 counts a dissolved or an inherited piece, never a corroded one.
 
 ### VIII.4 The cost line is the piece's own
 
@@ -510,6 +539,8 @@ A record files a `Maximum Amount` between **one and five**, and that figure is t
 
 **Stigmas file two figures, not one.** `Acquisition Probability` is the **rate of arrival**; `Maximum Amount` is the **size of the holding**. A Stigma is bestowed at random on a successful work and never manufactured, so bestowal raises the count toward the ceiling and the four events lower it. The two numbers answer different questions and neither replaces the other — which is why the 284 Stigma records that file a probability and no maximum were never missing data. They were answering the other question.
 
+**An Ordeal is not a source.** The twenty Ordeal types hold no cell, take no Work and yield no M.A.W.; they cannot be extracted from at all, so they contribute nothing to any ceiling.
+
 **The field, as it stands.** Of 852 item records, **199 state a figure** — Weapon 98, Suit 101, Stigma 0 — and **653 do not**. No record files above five and none files zero, so the ceiling holds in the data as well as in the law. A record with no figure is *not yet counted*, never unlimited: the ceiling is five, the stock is unrecorded, and the record owes the number.
 
 Full law: `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` §I.1 · binding rule [`R-37`](../../REFERENCE_SOMNARAK_WIKI/RULES/R-37_MAW_STOCK_CEILING.md).
@@ -527,6 +558,8 @@ Every PM Tool Abnormality converts into a **Relic-Entity** under SECC rules.
 | Single-use | **A-Relic** (Arcanum) | *Old Faith and Promise* (T-09-97), *Skin Prophecy* (T-09-90) | One filed trigger completes the interaction; the relic may be consumed outright |
 | Channeled or sustained | **O-Relic** (Offertorium) | *We Can Change Anything*, *Flesh Idol* | A maintained session — touch, gaze, invocation — with a filed duration and a closure condition |
 | Equippable | **I-Relic** (Indumentum) | *The Heart of Aspiration* (T-09-77), *Luminous Bracelet* (O-09-95) | Worn or mounted; the effect travels with the bearer, and the return condition is part of the record |
+
+**Two codes here come from the source pages, not from the archive's tool matrix.** `13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` runs its own `T-09-82`–`T-09-89` numbering, files *Skin Prophecy* there as a continuous book tool, and files *Luminous Bracelet* as `T-09-78`. The codes written above — `T-09-90` and `O-09-95` — are the ones each tool's own page carries, and R-09 makes the page the authority on a borrowed mechanic's identity. Cite these; where the matrix is quoted, quote it as the matrix.
 
 ### IX.2 Capability badges
 
@@ -578,7 +611,7 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 
 ## Section X: Case studies
 
-> **Status of these four (checked 2026-11-02).** §X.3 and §X.4 resolve to files in `SOMNARAK-WORLD/Sorrow_Entities/`; §X.1 and §X.2 are worked examples whose designations were never filed — they are here for the arithmetic and the reasoning, and the codes should not be searched for. Every worked number in all four does check out against this guide's own tables.
+> **Status of these four (checked 2026-11-02).** §X.3 and §X.4 resolve to files in `SOMNARAK-WORLD/Sorrow_Entities/`; §X.1 and §X.2 are worked examples whose designations were never filed — they are here for the arithmetic and the reasoning, and the codes should not be searched for. Their Korean names (고해의 속삭임, 칠경의 저격수) belong to the examples and name nothing in the registry. Every worked number in all four checks out against this guide's own tables, and §X.3 and §X.4 check out against their dossiers line by line.
 
 ### X.1 ZAYIN / TETH Subject
 
@@ -604,9 +637,9 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 - **PS entity:** `SE-C-Vω-001 [LS]` *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*).
 - **Terminus to terminus.** The source is a Special Abnormality — what the three birds produce — and the conversion is the Kind Healer's. Neither was ever acquired, so neither takes a work loop; §VII.4 governs both, and the pair is the cleanest terminus-to-terminus read in the file.
 - **Profile:** City Sorrow `C-`, Rank V Sovereign, Grade ω Catastrophic, all four elements — Lament, Grudge, Void and Weight — with Lament leading, which is why the bracket reads `[LS]` and not `[MS]`.
-- **Durability:** Sorrow Gauge 12,000/12,000, run as a multi-phase sovereign raid.
-- **Mechanics:** three targetable core organs — the Beak of Hunger, the Scales of Debt, the Blind Lamp — and destructible limbs that require synchronised interception across the ten nodes.
-- **M.A.W.:** *Twilight of Mugenhan*, Grade ω sovereign armour covering all four protections.
+- **Durability:** Sorrow Gauge 12,000/12,000 — filed as a **historical/projected** value, not a measured one. Han Pressure 44–111 per hit, Lament wording, with Instant Fracture on a critical; the all-four element and the undefined critical rule are left unreconciled on the record.
+- **Mechanics: there is no fight to run.** The file's own three phases say so — *Tension* has no approach to prepare, *Clash* is stated as **none possible or planned**, and *Resolution* exists only before completion: a genuine confession before the twelfth blessing ends. `Vessel-Destructible` reads **No**, ω-grade. A conversion that gives this body targetable organs or a limb-dismantle phase has invented a raid the record refuses; the correct engine output is a contingency register and a resolution condition, not a part list.
+- **M.A.W.:** *The First Dawn Stiletto* (Weapon, ω, Lament), *The Dawn of Shroud* (Suit, ω — Grudge 1.0 · Lament 0.4 · Weight 0.8 · **Void 1.6**) and *The Dawn of Charm* (Stigma, ω). The set is **theorized from classification and marked *verify before manufacture*** — no current Dawn piece is established — so it is cited as a projection. Note what the resistance line actually says: the sovereign armour is **weak to Void**, and a conversion that files it as covering all four protections has read the grade and not the numbers.
 
 ### X.4 Tool Abnormality
 

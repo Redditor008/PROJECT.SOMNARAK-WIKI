@@ -8,6 +8,32 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The conversion guide, compared a second time — and found inventing a raid (106)
+
+Batch 105 read the guide against the archive. This one read it against the archive **again, looking for what a first pass would not think to doubt** — the case studies, the foreign-language glosses, and the numbers that only exist in one file. It found one entry that was almost entirely fiction and eight that were half-right.
+
+**§X.3 was inventing a boss fight.** The guide described the Dawn of Mourning as *"three targetable core organs — the Beak of Hunger, the Scales of Debt, the Blind Lamp — and destructible limbs that require synchronised interception across the ten nodes."* The record says the opposite in three separate places: **no approach to prepare**, **"Clash (none) — no clash is possible or planned"**, and `Vessel-Destructible: No`. None of those three organ names exists anywhere in the archive. The armour was equally fictional: *Twilight of Mugenhan*, "covering all four protections" — the real suit is **The Dawn of Shroud**, and its filed resistances are Grudge 1.0 · Lament 0.4 · Weight 0.8 · **Void 1.6**. The sovereign armour is *weak to Void*, and the guide had read the grade instead of the numbers. All of it is now rebuilt from the dossier, including the 44–111 Pressure band and the fact that the whole M.A.W. set is **theorized from classification, marked *verify before manufacture***.
+
+**Eight half-rights, each closed:**
+
+| Was | Now |
+|---|---|
+| The works' Sino-Korean spellings dismissed as an error | **Two spellings are in the archive.** The world codex carries 비데레한 · 페레한 · 플레레한 · 푸그나한; the comparison codex carries 관조한 · 인내한 · 통곡한 · 격투한 as a bilingual gloss. The guide says which one a record uses |
+| Five material classes with invented Hangul (골수형, 단조황동 …) | The classes have **no Korean and no schema row** — CANON names them in English only |
+| The Walking District as 보행하는 구라 | The event form **files no Korean name**; the designation is the name |
+| R.D. attributes with no ladder | The ladder is written: **0 → I Fragile → II Average → III Trained → IV Veteran → V Exceptional**, 1–100 in twenty-point steps, Level III the safe-work gate |
+| Four watches as weather only | The **five colours** are in the file — BLUE/Lament, GREY/Grudge, OBSIDIAN/Weight, ASHEN/Void, PURPLE/Mixed — with twenty types, one per Time per day, a 30–60 second warning, and the rule that **an Ordeal takes no Work, holds no cell and yields no M.A.W.** |
+| "Three pieces per source" | A **three-piece set**, and five per kind in stock — the two counts told apart in one sentence |
+| No note on the older meltdown framing | The comparison codex's *gear fuses into the nervous system* is named as the **fused singular class**, not the ordinary road |
+
+**One contradiction could not be resolved and is now recorded instead.** The archive's tool encyclopedia files *Skin Prophecy* as `T-09-82`, continuous, and *Luminous Bracelet* as `T-09-78`; the tools' own pages give `T-09-90` and `O-09-95`, which is what the guide carries. R-09 makes the page the authority, so the guide keeps its codes and now says where the matrix differs — otherwise the next pass "corrects" it back, and the one after that corrects it forward again.
+
+**The comparison is now a command, not a claim.** `tools/auditors/compare_conversion_guide.py` runs **44 checks** — the band table against the linter that enforces it, the AP ladder against the resolution layer, the pillars against the tactical template, the work names against the world codex, the colours against the Ordeals register, the codes against their files, and both resolving case studies against their dossiers. It reports `44 pass · 0 fail` and is wired into `tools/gate.sh`, so the guide cannot drift from the world again without the gate saying so.
+
+**Two dead generators, flagged not fixed.** `tools/builders/generate_conversion_guide.py` and `expand_conversion_guide.py` both write to `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/…`, a directory that does not exist. Running either would recreate the errors above at a path no reader looks at. They are left alone and named here.
+
+**Gate:** 44/44 guide checks · `check_links` 0 broken · `check_stat_bands` PASS · `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The conversion guide, read against the world instead of against itself (105)
 
 The guide has been corrected four times, and every one of those passes checked it against **its own checklist**. This one checked it against the **archive**: every code against the file that holds it, every number against the table that authors it, every Korean spelling against the canon that files it. The checklist was clean in each of the cases below. The world was not.
