@@ -404,7 +404,7 @@ Every standard Subject entity extracts three pieces.
 
 - **Weapon.** A tool with a designated Range Band (1–5) and a primary damage element.
 - **Suit.** Armour carrying resistance percentages across Grudge, Lament, Weight and Void.
-- **Gift.** A passive accessory grafted to the operative's body or aura, with a tactical trigger.
+- **Stigma.** A passive accessory grafted to the operative's body or aura, with a tactical trigger. The archive's word is *Stigma* everywhere — the triad is Weapon, Suit, Stigma, and `Gift` is the native term this replaced. Write `Stigma` and no conversion should carry the old word.
 
 ### VIII.2 Five material weight classes
 
@@ -415,6 +415,8 @@ Every standard Subject entity extracts three pieces.
 | **Resonant Alloy** | 공명합금 / *Gongmyeong Hapgeum* | Acoustically tuned silver-blue crystal | High Lament | Boosts Clarity; resonant shockwave on parry |
 | **Woven Thread** | 직조사 / *Jikjosa* | Silk, mourner veils, fine spider-chiffon | High Void | +1 Speed, +15% evasion; weak to kinetic Grudge |
 | **Void Glass** | 공허유리 / *Gongheo Yuri* | Brittle black-and-white crystal, transparent | True Void | Fixed percentage trauma; shatters if physical armour fails |
+
+**Filing note.** The five classes are a design vocabulary, not a schema field. No M.A.W. record carries a `Material Class` row, and none should be added: the item template files Type, Grade, Element, resistances and the Echo price. Where a class is used, it is stated in the piece's own Appearance or Ability prose — *"a flat of rustless hospice steel"* is Primal-Marrow-adjacent material without the label — and a converter who invents a field for it has added a column the archive does not read.
 
 ### VIII.3 Composure Load and M.A.W. Meltdown
 

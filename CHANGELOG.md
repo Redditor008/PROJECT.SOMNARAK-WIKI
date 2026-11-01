@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Conversion Guide, part two: two words it was using that the archive does not (batch 86)
+
+Reading the equipment half of the guide against the 852 item records turned up two more traps, both of the same kind — a vocabulary the guide uses and the archive does not read.
+
+- **`Gift`.** The triad bullet read *"Gift. A passive accessory…"* while every record in the archive says **Stigma** and LAW 6 names the triad Weapon / Suit / Stigma. A converter following the bullet writes a label no checker accepts and no reader recognises. The bullet now reads Stigma, and says why the old word is gone.
+- **The five material weight classes.** Primal Marrow, Tempered Brass, Resonant Alloy, Woven Thread, Void Glass appear in the guide, the comparison codex and the changelog — and in **no item record at all**, because the M.A.W. template has no field for them. The table now carries a filing note: the classes are a design vocabulary, stated in the piece's own prose where they are used, never a row to add.
+
+**Both halves of the equipment section now describe what the archive actually files:** Type, Grade, Element, resistances, Echo price, `**Bearer cost:**` inside the dossier and `**Operational / binding cost:**` on the item page — which is what the 345 records carry.
+
+**Gate:** `check_links` 0 broken.
+
 ## Twelve records, four sources (batch 85)
 
 `SE-884` Seething Tundra, `SE-891` Screaming Masonry, `SE-895` Survivor's Breath, `SE-897` Welcome Haven — **twelve records, thirty-six sentences.** The Frozen Veil keeps resonance while one thing can still change its wearer's mind about themselves; the Screaming Masonry Ring drops out the first time a debt is settled without the bearer present; the Broken Barrier holds only while the wearer is still standing between the breach and the room, and loses the set the first time they wave something through.
