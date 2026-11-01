@@ -224,7 +224,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Ability:** While the fragment is carried, the bearer cannot be the only survivor of an incident — in all four recorded cases where a bearer's team took casualties, the bearer fell with them. The Armoury classes this as a hazard and issues it anyway, at the bearer's written request, which all four gave.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer carries a piece they know the behaviour of in a bad incident, which is the whole price of it: four have been issued and all four were requested in writing.
 
 *Four fragments have been issued in nineteen years and every one followed a cycle in which a worker took a share of the thirty-one out loud. The Armoury has never obtained one from a cycle closed any other way.*
 

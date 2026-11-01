@@ -232,7 +232,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Grants a minor boon drawn from the source's own nature — the bearer becomes immovable in the literal sense, unable to be pushed, pulled, or displaced by force while they remain still.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer becomes the thing that does not move, and the piece does not teach them when to: standing still is all of the protection and none of the judgement.
 
 *A Stigma out of this source is given and not made. It appears after a successful cycle at the holding's own disposition, and nothing — no procedure, no repetition, no merit — obliges one.*
 

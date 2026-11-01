@@ -220,7 +220,7 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 **Ability:** Grants a minor boon tied to Deteriorata's sorrow; the effect mirrors the entity's nature.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer learns to read warmth as bad news — the charm says somebody is grieving in the next room and says nothing about whether they are permitted to go in.
 
 *The stigma is given, not issued, and only to a worker who has been ordered out of the chamber on the clock and has gone without arguing. Nine exist.*
 

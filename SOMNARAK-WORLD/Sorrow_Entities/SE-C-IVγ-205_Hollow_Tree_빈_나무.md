@@ -225,7 +225,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 **Ability:** The bearer knows, without checking, whether a thing they are holding was made for a purpose that still exists. Tested 41 times against the Gardens' own stores; 38 correct.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer cannot pick up a tool without learning what it was made for, and most of what the Gardens stores was made for work that no longer exists.
 
 *Eleven gullets exist. Each was cut from heartwood taken at a long Flerehan watch, and each was issued to the Warden who sat that watch rather than to the wing that scheduled it.*
 

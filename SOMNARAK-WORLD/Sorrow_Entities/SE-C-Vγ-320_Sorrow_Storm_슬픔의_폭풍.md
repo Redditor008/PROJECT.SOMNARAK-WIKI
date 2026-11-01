@@ -219,7 +219,7 @@ The Storm does not escalate in the sense this section is written for: it arrives
 
 **Ability:** The bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking — and it is the reason the charms are issued by the ring rather than by the Armoury.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer stops being afraid of falling pressure, which is the point, and also the reason they are the last person to leave a wall that is going.
 
 *Twenty-two charms exist, each struck from a barometer that failed on Storm duty. They are issued by the ring and not by the Directorate, and every one carries its instrument's final reading on the back.*
 

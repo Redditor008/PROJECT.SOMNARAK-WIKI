@@ -201,7 +201,7 @@ All four Work Types are available and three lower the gauge. The reading the sta
 
 **Ability:** The bearer can tell how much of a shared load each person is actually carrying, to within a few kilogrammes, which is why the division sheet is now checked by the bearer rather than by the senior.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer can tell what everybody else in the room is carrying, and there is no arrangement of that knowledge in which they stop being the one who knows.
 
 *The Resting Charm is not issued from stores. It appears in a bearer's pocket after a session in which the words were said and the load fell, and never after one in which they were not.*
 

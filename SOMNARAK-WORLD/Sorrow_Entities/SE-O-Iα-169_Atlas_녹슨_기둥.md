@@ -231,7 +231,7 @@ The thick spine allows for heavy chopping and prying without risking blade fract
 
 **Ability:** Grants a minor boon drawn from the source's own nature — the bearer can hold a position, a load or a line longer than their condition should allow, and will not notice having passed the point where they should have stopped.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer will not notice stopping being an option, which is the piece working as designed — it lends endurance and takes the warning that would have ended the shift.
 
 *A Stigma out of this source is given, not made. One appears after a successful cycle at the entity's own disposition; service at the pillar entitles nobody to one.*
 

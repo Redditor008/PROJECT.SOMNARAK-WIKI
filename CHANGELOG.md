@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twelve charms that each weigh something different (2026-11-01)
+
+Twelve Stigmas carried the same sentence for their cost — *The bearer moves a little slower* — and all twelve were Weight-element pieces, so the line had drifted from a shared element into a shared value. Read side by side, they made the pieces interchangeable at exactly the point where a bearer learns what they have agreed to.
+
+Each cost now comes out of its own piece's ability. The Unpaid Brick Shard will not let a route be walked without reading the obligations on it. The Familiar Charm blurs the bearer's own name rather than the debt. The Wall's Charm keeps finding old lines and never says which were removed by order. The Years Charm finishes what it starts, at the ninth hour, with the list unfinished. The Resting Charm tells the bearer what everyone else in the room is carrying. The Storm Charm takes away the fear of falling pressure, which is why its bearer is last off a wall that is going. The Bridge Charm's price is that four have been issued and all four were asked for in writing. The Relic Charm makes the Archive walk its bearer past shelves instead of asking. The Fragment Charm's immobility comes without judgement about when to stand. The Rusted Charm removes the warning that would have ended the shift.
+
+The Relic Charm's custody note referred to *the slower bearer's account* and now refers to the bearer's own account of the piece, which is what the note was comparing against the sealed descriptions.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0.
+
+
 ## Twenty places where the classification disagreed with the record (2026-11-01)
 
 The `**Entity Type**` cell and the section heading are the first two things a reader takes a dossier's shape from, and twenty files contradicted themselves between them.

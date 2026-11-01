@@ -223,7 +223,7 @@ The Familiar Burden binds without a family ledger; a written debt record closes 
 
 **Ability:** Grants a minor boon tied to Burning Root's sorrow; the effect mirrors the entity's nature. The *Unentered Name* distinguishes the bearer from one inherited obligation for a work cycle: the name blurs in written accounts while the amount stays readable. A second Charm becomes inert ash.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer's own name is the one that blurs: for a cycle they are the person who is not on the document, and afterwards they have to check which name they answer to.
 
 Willingly signing another person’s obligation as proof of belonging completes the stamped root into a surname. In that corrupted state Resolve is granted only while the inherited demand is obeyed; the seal must be removed rather than counted as functioning protection. Removal requires the bearer to name a relationship that would survive without debt while a second person lifts the Charm. Direction is temporarily lost afterward, so the bearer is not sent home alone.
 

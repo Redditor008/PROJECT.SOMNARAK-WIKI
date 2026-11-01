@@ -224,11 +224,11 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Ability:** The bearer can tell, without checking, whether a record has a description against it. Accurate 61 times out of 61, and the Archive has stopped treating it as a curiosity and started using it.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer can tell at a glance which records have nothing written under them, so the Archive walks them past shelves instead of asking, and the shelves are long.
 
 *The stigma is not manufactured. It is given to a worker who described a destroyed record in the register rather than numbering it, and has never been given to one who told the entity the relic was a legend.*
 
-**Charm custody:** Keep each handler’s description with its attribution instead of choosing one of the incompatible shapes as the true relic. Its description-status warning checks a register; it does not supply the missing words. Preserve that distinction when comparing the slower bearer’s account with the sealed descriptions after use. The source-trace shutdown requires a named witness and relinquishment while the lost expedition event is stated. Neither a granted Charm nor a complete list of its handlers establishes the artifact’s identity or refunds an owner’s lost description.
+**Charm custody:** Keep each handler’s description with its attribution instead of choosing one of the incompatible shapes as the true relic. Its description-status warning checks a register; it does not supply the missing words. Preserve that distinction when comparing the bearer’s own account of the piece with the sealed descriptions after use. The source-trace shutdown requires a named witness and relinquishment while the lost expedition event is stated. Neither a granted Charm nor a complete list of its handlers establishes the artifact’s identity or refunds an owner’s lost description.
 
 ### M.A.W. Use Notes
 

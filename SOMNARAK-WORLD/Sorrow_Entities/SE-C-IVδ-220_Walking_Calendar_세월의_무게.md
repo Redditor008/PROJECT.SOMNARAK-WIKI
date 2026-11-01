@@ -220,7 +220,7 @@ The table is short because the holding is: Flerehan softens the chronology witho
 
 **Ability:** It holds a reader at a task past the point where they would otherwise set it down — the trait the extraction wing records in every bearer it has conferred one on, and does not explain.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The bearer finishes what they start, which sounds like a virtue until it is the ninth hour and the list is not finished and they are still reading it.
 
 *Nine Stigmas have come from this holding, each one after a cycle in which the worker read an opening list aloud and finished it. Workers who stopped partway through have never received one, which the extraction wing records without comment.*
 
