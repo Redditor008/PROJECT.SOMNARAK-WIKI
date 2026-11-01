@@ -203,7 +203,7 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 **Ability:** Grudge damage against the Body, delivered without heat. The blade does not discharge what the wielder is carrying; it files it, and the wielder can name the grievance afterwards only if they wrote it down before the swing.
 
-**Bearer cost:**Wearers report that old injuries ache in the order they were received, and that the ache stops when the plate is returned to its bracket. Prolonged use leaves faint bruising along the forearm, which the Armoury records as the piece's mark rather than the wielder's.
+**Bearer cost:** Wearers report that old injuries ache in the order they were received, and that the ache stops when the plate is returned to its bracket. Prolonged use leaves faint bruising along the forearm, which the Armoury records as the piece's mark rather than the wielder's.
 
 ### M.A.W. Suit — Soaking Shadow's Veil
 
@@ -221,7 +221,7 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 **Ability:** Absorbs one hostile emotional effect.
 
-**Bearer cost:**The wearer carries the absorbed anger afterward.
+**Bearer cost:** The wearer carries the absorbed anger afterward.
 
 ### M.A.W. Stigma — Soaking Shadow's Charm
 
@@ -235,7 +235,7 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 **Ability:** A minor boon drawn from what the holding is: the charm takes a grievance the wearer is obliged to carry and keeps it overnight, returning it in the morning with the date attached and the heat gone out of it.
 
-**Bearer cost:**The bearer learns to hand the grievance over at the end of a watch and to collect it, dated, in the morning, and it is the date that stays on afterwards.
+**Bearer cost:** The bearer learns to hand the grievance over at the end of a watch and to collect it, dated, in the morning, and it is the date that stays on afterwards.
 
 *Twelve grade positions are reserved, one for each grade on the card. Eleven charms have been issued; the twelfth is held unstruck, by order, against the grade the holding has not yet reached.*
 

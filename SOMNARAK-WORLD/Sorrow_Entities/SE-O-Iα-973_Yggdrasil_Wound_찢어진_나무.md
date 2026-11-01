@@ -204,7 +204,7 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 **Ability:** A burl censer burning willow resin into warm, clinging smoke; breathing it numbs pain and stiffens resolve, and the same smoke carried into a target's lungs loosens their hold on who they are.
 
-**Bearer cost:**Memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced it, keeps the arrival and loses the journey — always one side of a pair, never both, and never the side they would have chosen.
+**Bearer cost:** Memories go in halves rather than whole. The wielder keeps the room and loses who was in it, keeps the decision and loses the argument that produced it, keeps the arrival and loses the journey — always one side of a pair, never both, and never the side they would have chosen.
 
 ### M.A.W. Suit — The Torn Veil
 
@@ -224,7 +224,7 @@ The veil's safety doctrine is the source's resolution clause, *ground the worker
 
 **Ability:** Near-translucent Han-gossamer that shifts and breathes with the wearer and holds their identity intact under Void pressure.
 
-**Bearer cost:**The veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one of two — agreeing with themselves, working alongside themselves, and finding the arrangement unremarkable until someone else points it out.
+**Bearer cost:** The veil preserves the self by keeping two copies of it. Wearers report no distress and describe the sensation precisely and repeatedly as being one of two — agreeing with themselves, working alongside themselves, and finding the arrangement unremarkable until someone else points it out.
 
 ### M.A.W. Stigma — The Torn Root
 
@@ -240,7 +240,7 @@ The Root comes by gift and never by requisition, and the armoury has never made 
 
 **Ability:** Holds two conflicting memories without immediate collapse.
 
-**Bearer cost:**The wearer feels the pain of both memories simultaneously.
+**Bearer cost:** The wearer feels the pain of both memories simultaneously.
 
 *The Torn Root comes by gift and never by requisition. It has been seen on workers who carried two contradictory memories through a whole cycle and resolved neither, and no procedure has ever made one on purpose.*
 

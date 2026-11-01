@@ -185,7 +185,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Ability:** Deals Void damage to the Soul. The spear's harmonics carry a single question into the target's hearing and hold it there, and the target must answer it aloud before the sound will stop. The question is always one they have already been asked by someone else.
 
-**Bearer cost:**The wielder loses the memory of having been asked. Not the answer, not the person — the asking. Over a term of use they become someone who is certain nobody ever came to them for anything.
+**Bearer cost:** The wielder loses the memory of having been asked. Not the answer, not the person — the asking. Over a term of use they become someone who is certain nobody ever came to them for anything.
 
 ### M.A.W. Suit — The Echo Veil
 
@@ -203,7 +203,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Ability:** Grants resistance to Void damage. The veil keeps the wearer's own name and their colleagues' names available under pressure, which is the single thing this enclosure takes, and it does nothing else at all.
 
-**Bearer cost:**The wearer feels faintly absent to themselves and, more usefully for the ledger, becomes unreachable. Messages reach them late. People stop trying.
+**Bearer cost:** The wearer feels faintly absent to themselves and, more usefully for the ledger, becomes unreachable. Messages reach them late. People stop trying.
 
 ### M.A.W. Stigma — The Echo Stone
 
@@ -217,7 +217,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Ability:** Amplifies the user's voice across great distances.
 
-**Bearer cost:**The wearer hears unanswered calls whenever the stone is silent.
+**Bearer cost:** The wearer hears unanswered calls whenever the stone is silent.
 
 *The stone has been granted eleven times and the holding has published the pattern because it is unambiguous: every recipient had, that quarter, refused a request in plain words and signed the refusal. None had granted one. The wing does not offer this as an incentive and has declined twice to list it as one.*
 

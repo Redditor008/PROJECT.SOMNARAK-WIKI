@@ -211,7 +211,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Void against the Soul. Struck targets recover one memory they had decided not to keep — accurately, with the date — and all fourteen have described the accuracy as the injury.
 
-**Bearer cost:**Small nameless memories, and on this set they are the ones the wielder would have chosen: the Armoury asks in advance which they would least like to lose and those are the ones that go.
+**Bearer cost:** Small nameless memories, and on this set they are the ones the wielder would have chosen: the Armoury asks in advance which they would least like to lose and those are the ones that go.
 
 ### M.A.W. Suit — The Memory Veil
 
@@ -229,7 +229,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Resistance to Void against the Soul, and the reason the second observer can stand at the rim for a full cycle without the surface reaching them.
 
-**Bearer cost:**The wearer feels faintly absent to themselves and mislays small belongings at a rate the Armoury has bothered to measure.
+**Bearer cost:** The wearer feels faintly absent to themselves and mislays small belongings at a rate the Armoury has bothered to measure.
 
 ### M.A.W. Stigma — The Memory Flask
 
@@ -243,7 +243,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Stores one memory for later replay.
 
-**Bearer cost:**The stored memory becomes emotionally heavier each time it is replayed.
+**Bearer cost:** The stored memory becomes emotionally heavier each time it is replayed.
 
 *Four flasks exist. Three were granted to workers who closed a channel early and wrote down why; the fourth to a Warden who went forty years without once looking in, and who did not want it.*
 

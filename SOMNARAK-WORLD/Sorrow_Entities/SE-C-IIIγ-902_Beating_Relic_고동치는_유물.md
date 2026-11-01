@@ -187,7 +187,7 @@ Escalation here is transfer. The relic cannot leave the plinth under its own pow
 
 **Damage:** Grudge 14–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels grudge at the body register in each strike: the edge goes for the target's grief before it goes for the target, and the wound it leaves is one a physician cannot find.
-**Bearer cost:**Each use takes a few minutes of the wielder’s memory with it — mild, cumulative, and recorded by the Armoury against the bearer rather than the blade.
+**Bearer cost:** Each use takes a few minutes of the wielder’s memory with it — mild, cumulative, and recorded by the Armoury against the bearer rather than the blade.
 
 **Edge custody:** The Han-iron blade is issued equipment, not authorisation to carry the source stone as a weapon. Its linked Single pattern resolves against the selected target; the relic’s room-wide discharge is not extra coverage for the Edge. Record minutes lost and any first-person claim to Goru’s event before cleaning or resting it. A named witness attends relinquishment, keeping the local Battle Pits account distinct from the source item’s unrecorded event field. Do not fill that field from the bearer’s newly acquired certainty; return preserves the record and does not restore the missing memory.
 

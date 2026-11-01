@@ -175,7 +175,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 **Ability:** *Unwritten* — the strike removes the struck body's written trace before it removes anything else: what they had set down that morning is gone, and what the file calls the wound is the absence of the record.
 
-**Bearer cost:**The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there.
+**Bearer cost:** The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there.
 
 ### M.A.W. Suit — Weighted Silence's Veil
 
@@ -193,7 +193,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 **Ability:** *Nothing Held* — the wearer's own account survives because the cowl will not hold it, and Void pressure passes through the weave and finds no lodging. Surveyors wear it, and surveyors' figures are the only ones in the radius that have come back.
 
-**Bearer cost:**The wearer becomes difficult to remember, even to themselves, while the protection is worn.
+**Bearer cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
 ### M.A.W. Stigma — Weighted Silence's Token
 
@@ -207,7 +207,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 **Ability:** *Half a Metre* — it goes cold when the radius has passed its marker by more than the tolerance. Containment here is a measurement, and the token is that measurement carried in a pocket.
 
-**Bearer cost:**The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
+**Bearer cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
 *A Token turns up at the line and never past it, always on the outward side of the markers. The Warden who picks it up signs for it; custody of this set has never once changed hands on a spoken word.*
 

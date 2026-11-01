@@ -198,7 +198,7 @@ The barrels rotate manually after each discharge, cycling paper cartridges packe
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Memory Thief's void signature in the strike. The shadow-powder shot disrupts one active label’s attachment to a route, ally or threat; it neither deletes an identity permanently nor restores a stolen memory.
 
-**Bearer cost:**The bearer gives up small, nameless recollections with every use — the way to a room, a face from a season ago — and cannot feel them go.
+**Bearer cost:** The bearer gives up small, nameless recollections with every use — the way to a room, a face from a season ago — and cannot feel them go.
 
 ### M.A.W. Suit — The Shadow Veil
 
@@ -218,7 +218,7 @@ A nominated partner must be able to name the wearer, locate them and order remov
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Memory Thief's kind of pressure.
 
-**Bearer cost:**The wearer comes to feel faintly absent from their own account — present in the room, not quite present in the story of it.
+**Bearer cost:** The wearer comes to feel faintly absent from their own account — present in the room, not quite present in the story of it.
 
 ### M.A.W. Stigma — The Shadow Cloak
 
@@ -232,7 +232,7 @@ A nominated partner must be able to name the wearer, locate them and order remov
 
 **Ability:** Makes the wearer nearly invisible and difficult to remember. *Leave a Margin* requires a named return person and lasts for one passage. Attacking, giving a false name or changing that person without recording it ends the effect. Focused observation, physical restraint, cameras and an alert Memory Anchor user are not defeated. A second Cloak shuts inert; it does not deepen the concealment.
 
-**Bearer cost:**Others forget that the wearer was present, even when no theft occurred.
+**Bearer cost:** Others forget that the wearer was present, even when no theft occurred.
 
 *The Shadow Cloak is not manufactured and not issued. It has been granted six times, all six to Wardens whose baseline page came back from the infirmary unchanged, which the wing records without comment and does not use as a target.*
 

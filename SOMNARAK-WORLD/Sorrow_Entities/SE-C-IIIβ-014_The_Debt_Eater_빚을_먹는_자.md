@@ -198,7 +198,7 @@ The facets cloud in concentric geometry before the needle-thin discharge. No kin
 
 **Ability:** Deals Void damage against the Soul — identity, memory and sense of self. Read the Account channels the entity's signature downfield at the speed of light, and what it takes is not the target's life but their grip on what they were owed.
 
-**Bearer cost:**Small nameless memories go first, and repetition installs a conviction rather than a symptom: the bearer becomes steadily surer that measurable debt is the only truth worth keeping, which on a Collector-district roster is the conviction nobody is allowed to hold out loud.
+**Bearer cost:** Small nameless memories go first, and repetition installs a conviction rather than a symptom: the bearer becomes steadily surer that measurable debt is the only truth worth keeping, which on a Collector-district roster is the conviction nobody is allowed to hold out loud.
 
 ### M.A.W. Suit — The Debt Veil
 
@@ -218,7 +218,7 @@ The facets cloud in concentric geometry before the needle-thin discharge. No kin
 
 **Ability:** Grants resistance to Void damage and protects the Soul — identity, memory and sense of self — worn against this holding's particular pressure: it takes nothing physical and everything accounted for, and what the veil actually buys is a worker who can stand at the line and still know what they are owed.
 
-**Bearer cost:**The wearer thins against their own account — not forgotten, not altered, simply fainter to themselves — and colleagues notice it before the bearer does, which the file records as the reason the check is run by somebody else.
+**Bearer cost:** The wearer thins against their own account — not forgotten, not altered, simply fainter to themselves — and colleagues notice it before the bearer does, which the file records as the reason the check is run by somebody else.
 
 ### M.A.W. Stigma — The Debt Scale
 
@@ -234,7 +234,7 @@ The facets cloud in concentric geometry before the needle-thin discharge. No kin
 
 **Ability:** Measures the karmic debt of a person or entity and displays its weight and type.
 
-**Bearer cost:**The user briefly experiences the debt being measured as a crushing physical and emotional weight.
+**Bearer cost:** The user briefly experiences the debt being measured as a crushing physical and emotional weight.
 
 *The Debt Scale is never issued and cannot be applied for. Twice it has gone to Wardens who worked a full watch at the line while carrying the largest balance on the roster and did not ask to be reassigned — the file keeps the pair as its only evidence that the conviction the set installs can be survived.*
 

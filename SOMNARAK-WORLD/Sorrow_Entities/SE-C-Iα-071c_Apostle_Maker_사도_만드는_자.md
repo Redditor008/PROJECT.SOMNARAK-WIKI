@@ -157,7 +157,7 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 **Appearance:** A golden collar-piece that wraps around the wearer's throat, warm to the touch.
 
 **Ability:** The wearer can issue a single command per work cycle that marked entities must obey. The command cannot cause self-harm.
-**Bearer cost:**Each command damages the wearer's Composure. The voice is not theirs — it is the chain's.
+**Bearer cost:** Each command damages the wearer's Composure. The voice is not theirs — it is the chain's.
 
 ### M.A.W. Suit — The Wings
 
@@ -170,7 +170,7 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 - Void: 0.6 (Warded)
 - Weight: 0.6 (Warded)
 **Ability:** Grants 40% resistance to Mixed pressure. The wings can be deployed as a barrier that absorbs one attack per encounter.
-**Bearer cost:**Wearing the wings for extended periods causes the wearer to feel "called" — a pull toward purpose they cannot identify.
+**Bearer cost:** Wearing the wings for extended periods causes the wearer to feel "called" — a pull toward purpose they cannot identify.
 
 ### M.A.W. Stigma — The Brand
 
@@ -179,7 +179,7 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 
 **Effect:** +2 stat bonus when working the source entity
 **Ability:** Doubles one attribute of the wearer's choice. The doubling is permanent but the chosen attribute cannot be changed.
-**Bearer cost:**The brand is a chain-fragment. Wearing it connects the wearer to the Kind Healer transformation chain. If the chain activates nearby, the brand resonates.
+**Bearer cost:** The brand is a chain-fragment. Wearing it connects the wearer to the Kind Healer transformation chain. If the chain activates nearby, the brand resonates.
 
 ## 관찰 기록 (Observation Log)
 

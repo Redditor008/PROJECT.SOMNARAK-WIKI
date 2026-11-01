@@ -188,7 +188,7 @@ The table is short because the holding is: Flerehan softens the chronology witho
 
 **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — by transferring mass rather than by rupture: what the strike carries, it sets down, and the tick that follows is cumulative age.
 
-**Bearer cost:**the wielder gets heavier by a figure the scales can see and the wielder cannot feel; carried through two openings, the ageing is slight on the day and reads at the season's review.
+**Bearer cost:** the wielder gets heavier by a figure the scales can see and the wielder cannot feel; carried through two openings, the ageing is slight on the day and reads at the season's review.
 
 ### M.A.W. Suit — The Years Mantle
 
@@ -206,7 +206,7 @@ The table is short because the holding is: Flerehan softens the chronology witho
 
 **Ability:** Grants resistance to temporal and historical effects.
 
-**Bearer cost:**The wearer experiences the age of everything they touch.
+**Bearer cost:** The wearer experiences the age of everything they touch.
 
 ### M.A.W. Stigma — The Years Charm
 
@@ -220,7 +220,7 @@ The table is short because the holding is: Flerehan softens the chronology witho
 
 **Ability:** It holds a reader at a task past the point where they would otherwise set it down — the trait the extraction wing records in every bearer it has conferred one on, and does not explain.
 
-**Bearer cost:**The bearer finishes what they start, which sounds like a virtue until it is the ninth hour and the list is not finished and they are still reading it.
+**Bearer cost:** The bearer finishes what they start, which sounds like a virtue until it is the ninth hour and the list is not finished and they are still reading it.
 
 *Nine Stigmas have come from this holding, each one after a cycle in which the worker read an opening list aloud and finished it. Workers who stopped partway through have never received one, which the extraction wing records without comment.*
 

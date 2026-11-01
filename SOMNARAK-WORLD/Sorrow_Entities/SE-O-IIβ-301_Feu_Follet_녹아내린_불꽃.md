@@ -193,7 +193,7 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to tell comfort from danger. The strike carries the source's signature, and those hit report heat and cold in the same instant and cannot afterwards say which arrived first.
 
-**Bearer cost:**The wielder carries the grief of a warmth that outlasted everyone who shared it. Prolonged use causes involuntary weeping, most often in warm rooms and in company.
+**Bearer cost:** The wielder carries the grief of a warmth that outlasted everyone who shared it. Prolonged use causes involuntary weeping, most often in warm rooms and in company.
 
 ### M.A.W. Suit — Feu Follet Shroud
 
@@ -211,7 +211,7 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against the softening, pleasant variety this source produces. It is rated against being made comfortable, which is an unusual line in an equipment file and the correct one here.
 
-**Bearer cost:**The wearer goes numb to small joys, and to small comforts in particular: heat, company, a hot drink after a shift. Wearers describe the loss as mild and their colleagues do not.
+**Bearer cost:** The wearer goes numb to small joys, and to small comforts in particular: heat, company, a hot drink after a shift. Wearers describe the loss as mild and their colleagues do not.
 
 ### M.A.W. Stigma — Feu Follet Ember
 
@@ -225,7 +225,7 @@ Thrusting the brand-head into hostile entities sears deep third-degree burns int
 
 **Ability:** Provides brief emotional warmth during distress.
 
-**Bearer cost:**The warmth fades with every use, taking a small memory with it.
+**Bearer cost:** The warmth fades with every use, taking a small memory with it.
 
 *A Stigma from this source is given, never made. It is offered after a successful cycle at the entity's own prerogative, as unpredictable as the sorrow that shaped it, and no procedure compels one to appear.*
 

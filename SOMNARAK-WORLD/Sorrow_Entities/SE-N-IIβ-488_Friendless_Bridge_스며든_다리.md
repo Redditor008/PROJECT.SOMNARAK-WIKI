@@ -208,7 +208,7 @@ The span does not escalate with time or proximity; it escalates with proxies, an
 
 **Ability:** Deals Grudge damage to the Body — physical form and structural integrity — carrying this record's grudge signature in the strike. The recorded note is that the damage lands once and the certainty that somebody else should have made the first approach persists through the shift, which is what the counselling log receives.
 
-**Bearer cost:**The wielder's old wounds ache, and prolonged use leaves faint bruising. The record asks that this be logged at the end of the shift rather than during it, because an ache is read as the wielder's own and is the toll most often left off the sheet.
+**Bearer cost:** The wielder's old wounds ache, and prolonged use leaves faint bruising. The record asks that this be logged at the end of the shift rather than during it, because an ache is read as the wielder's own and is the toll most often left off the sheet.
 
 **Fang inspection:** The individual Weapon record requires independent consent records beside the two edges and a gap check before deployment. If the edges touch, retire the piece until they part; the item describes that failure as deciding for both sides. Erasing relationship history, attacking an absent party and mistaking mutual difficulty for nonreciprocity are distinct failures. Neither that inspection nor its account of cutting a forced span authorizes the crew to settle a debt, obtain a signature for someone or intervene in the family’s history.
 
@@ -228,7 +228,7 @@ The span does not escalate with time or proximity; it escalates with proxies, an
 
 **Ability:** Turns Grudge aside from the body, which is the only damage this record delivers. The plate is what allows a worker to stand at one end for the length of a session without starting across.
 
-**Bearer cost:**Reflexes dull, and the wearer becomes slow to answer a greeting — which on this post is closer to protective than the grading admits.
+**Bearer cost:** Reflexes dull, and the wearer becomes slow to answer a greeting — which on this post is closer to protective than the grading admits.
 
 **Anchor care:** The Suit’s two shoulder anchors require separate consent checks. Verify each independently, or leave the unanswered side visibly empty rather than completing it for appearances. The item lists a fabricated second anchor, resentment replacing communication and Void removing one shore as failures. An empty anchor is not a repair request. Keeping that absence visible prevents equipment maintenance from becoming another proxy act; it does not waive the primary session’s two-signature closing condition or the delayed review of dulled responses.
 
@@ -244,7 +244,7 @@ The span does not escalate with time or proximity; it escalates with proxies, an
 
 **Ability:** Strengthens an emotional connection over distance.
 
-**Bearer cost:**The wearer feels every unreturned reach.
+**Bearer cost:** The wearer feels every unreturned reach.
 
 **Bracelet acknowledgment:** The Stigma record keeps its two lights independent. Confirm reciprocal acknowledgment without requiring the same brightness or the same way of answering; one quiet light is not evidence that its side refused. A forced light, debt counted as consent and repeated checking that becomes coercion are failures, not better verification. A single light may remain the honest reading. The bracelet does not let its bearer answer for another person, demand a reply or treat the pain of an unreturned reach as authority to cross.
 

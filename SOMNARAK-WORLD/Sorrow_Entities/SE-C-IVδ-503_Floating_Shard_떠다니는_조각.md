@@ -185,7 +185,7 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 
 **Ability:** Lament damage against the Mind — emotional stability and willpower — carried in the strike as this holding's own signature. Recipients describe pity rather than fear, arriving with an accurate picture of what is wrong with them and no means to change any of it.
 
-**Bearer cost:**The wielder carries the bay's pity out with them. Prolonged use produces weeping the wielder cannot attach to anything in the room, and the Armoury books it as the cheapest and the longest-lasting charge in this set.
+**Bearer cost:** The wielder carries the bay's pity out with them. Prolonged use produces weeping the wielder cannot attach to anything in the room, and the Armoury books it as the cheapest and the longest-lasting charge in this set.
 
 ### M.A.W. Suit — Floating Shard Shroud
 
@@ -203,7 +203,7 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 
 **Ability:** Turns Lament pressure aside from the Mind. It holds against the pressure and not against the sight: a wearer under the Shard still sees every injury in the bay exactly as clearly as they did without it, and the armoury's note is that this is the one protection here that is honest about what it does not do.
 
-**Bearer cost:**Small pleasures go dull for the wearer while every injury the set reveals arrives at full strength, which the Armoury records as a one-way exchange rather than as a tolerance.
+**Bearer cost:** Small pleasures go dull for the wearer while every injury the set reveals arrives at full strength, which the Armoury records as a one-way exchange rather than as a tolerance.
 
 ### M.A.W. Stigma — Floating Shard Lantern
 
@@ -217,7 +217,7 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 
 **Ability:** Reveals injuries and sorrow hidden by the Veil.
 
-**Bearer cost:**The wearer cannot ignore what the light reveals.
+**Bearer cost:** The wearer cannot ignore what the light reveals.
 
 *The Floating Shard Lantern is not manufactured and cannot be requested; the Shard confers it rarely, and in every recorded case on a worker who had reported somebody else's injury before their own.*
 

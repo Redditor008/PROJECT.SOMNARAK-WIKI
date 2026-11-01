@@ -189,7 +189,7 @@ Pointed down a corridor, the stave vibrates with the soundless benediction of Th
 
 **Ability:** The sceptre's damage is Void and it lands on the Soul — memory, identity, what a person takes themselves to be — carried by The Hollow Saint's void signature and not by anything the wielder brings to the corridor. What the beam does there is sever suppression and strip possession: the falloff on the sheet, full effect on the primary and then 70 per cent and then 50, with the soundless benediction reaching the last of them, and no physical harm anywhere along the line. The agency a target reclaims afterwards is the same agency she gave up, and that is why the sceptre is held on the Zone B line and issued nowhere else.
 
-**Bearer cost:**With each use a small nameless memory goes from the wielder, and the taking is not selective: what goes is whatever was least held. Under excessive channeling the detachment reaches the body and the wielder stops feeling located in their own physical form. The loss is entered on the field sheet with the hour against it, and the piece goes back to the rack whether the use was judged right or judged wrong.
+**Bearer cost:** With each use a small nameless memory goes from the wielder, and the taking is not selective: what goes is whatever was least held. Under excessive channeling the detachment reaches the body and the wielder stops feeling located in their own physical form. The loss is entered on the field sheet with the hour against it, and the piece goes back to the rack whether the use was judged right or judged wrong.
 
 ### M.A.W. Suit — The Hollow Veil
 
@@ -209,7 +209,7 @@ The drape runs from crown to collarbone in one straight length, and the inner li
 
 **Ability:** The resistance here is to Void damage; the thing it covers is the Soul — memory, identity, what a person takes themselves to be — worn against the pressure The Hollow Saint makes, and not against impact of any sort. On the sheet that reads 0.3 against Void and 0.8 warded against Grudge, with Lament weak at 1.2, Weight weak at 1.1, so the veil is chosen for a corridor where she is and never for one where something strikes.
 
-**Bearer cost:**The wearer comes to feel faintly absent from their own account of themselves — there in the chamber, and missing from the telling of it afterwards. What arrives is a gap where the first person was, not a symptom anybody would report, and that is why the twenty-minute limit is timed from the door by a clock-holder standing outside the chamber and never by the wearer inside it, and why the exclusion for a recent bereavement or an active grief is checked by that clock-holder instead of self-certified. The veil does not guard against that absence. The absence is what the veil costs.
+**Bearer cost:** The wearer comes to feel faintly absent from their own account of themselves — there in the chamber, and missing from the telling of it afterwards. What arrives is a gap where the first person was, not a symptom anybody would report, and that is why the twenty-minute limit is timed from the door by a clock-holder standing outside the chamber and never by the wearer inside it, and why the exclusion for a recent bereavement or an active grief is checked by that clock-holder instead of self-certified. The veil does not guard against that absence. The absence is what the veil costs.
 
 ### M.A.W. Stigma — The Hollow Chalice
 
@@ -225,7 +225,7 @@ Inside, the cup is smooth and unmarked and holds no colour at all; covered betwe
 
 **Ability:** Absorbs sorrow from a person or entity.
 
-**Bearer cost:**The user becomes empty of the sorrow removed.
+**Bearer cost:** The user becomes empty of the sorrow removed.
 
 *The Hollow Chalice is conferred, never issued and never requested. It has been given twice, both times to a Warden who stood a full session at the line, offered the Saint nothing, and said afterwards that it had been the hardest watch of their service.*
 

@@ -200,7 +200,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt. The strike carries the source's signature, and targets describe the impact as a bill arriving rather than as a blow.
 
-**Bearer cost:**The wielder grows heavier by increments that never reverse, and prolonged use ages them. The ageing is slight per cycle and the file notes that it has never been observed to stop between cycles.
+**Bearer cost:** The wielder grows heavier by increments that never reverse, and prolonged use ages them. The ageing is slight per cycle and the file notes that it has never been observed to stop between cycles.
 
 ### M.A.W. Suit — The Fragment Plate
 
@@ -218,7 +218,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Converts physical impact into resistance.
 
-**Bearer cost:**The wearer carries every obligation represented by the plate.
+**Bearer cost:** The wearer carries every obligation represented by the plate.
 
 ### M.A.W. Stigma — The Fragment Charm
 
@@ -232,7 +232,7 @@ The central reel rotates smoothly, directing the floating glass shards in sweepi
 
 **Ability:** Grants a minor boon drawn from the source's own nature — the bearer becomes immovable in the literal sense, unable to be pushed, pulled, or displaced by force while they remain still.
 
-**Bearer cost:**The bearer becomes the thing that does not move, and the piece does not teach them when to: standing still is all of the protection and none of the judgement.
+**Bearer cost:** The bearer becomes the thing that does not move, and the piece does not teach them when to: standing still is all of the protection and none of the judgement.
 
 *A Stigma out of this source is given and not made. It appears after a successful cycle at the holding's own disposition, and nothing — no procedure, no repetition, no merit — obliges one.*
 

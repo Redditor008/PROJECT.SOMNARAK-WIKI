@@ -189,7 +189,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 **Ability:** Deals Lament damage against the Mind — composure, willpower, the ability to stay where you are told. Rung in descending order the bells press an airborne sorrow entity downward and hold it against the floor under a weight of simulated atmosphere.
 
-**Bearer cost:**The wielder carries the grief of a call that went up and never came back down. Prolonged use causes involuntary weeping, which users report as feeling like it runs upward.
+**Bearer cost:** The wielder carries the grief of a call that went up and never came back down. Prolonged use causes involuntary weeping, which users report as feeling like it runs upward.
 
 ### M.A.W. Suit — The Tower Shroud
 
@@ -207,7 +207,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against the warm and hopeful variety this source produces — the Shroud is rated against encouragement as much as against grief, which is an odd line in an equipment file and is the correct one here.
 
-**Bearer cost:**The wearer goes numb to small joys, and to small reassurances; colleagues report that comfort offered to a Shroud wearer simply does not land.
+**Bearer cost:** The wearer goes numb to small joys, and to small reassurances; colleagues report that comfort offered to a Shroud wearer simply does not land.
 
 ### M.A.W. Stigma — The Tower Tear
 
@@ -221,7 +221,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 **Ability:** Creates a small field of shelter from emotional storms.
 
-**Bearer cost:**The wearer hears the lost settlement during sleep.
+**Bearer cost:** The wearer hears the lost settlement during sleep.
 
 *The Tear is given, never made. It surfaces after a successful cycle when the voice chooses to part with it, and nothing in the procedures or in the 5 per cent acquisition line obliges a voice to want to.*
 

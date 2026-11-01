@@ -192,7 +192,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Ability:** Cuts rusted plate and timber. On this holding it is carried for the Gate's own fabric and has never been turned on the entity.
 
-**Bearer cost:**The wielder tires early and keeps tiring early for some weeks after handing it in.
+**Bearer cost:** The wielder tires early and keeps tiring early for some weeks after handing it in.
 
 ### M.A.W. Suit — The Rust Wall Plate
 
@@ -210,7 +210,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Ability:** The wearer cannot be moved off a line they have taken — which is the whole of the Ferrehan stand on this holding.
 
-**Bearer cost:**The wearer is hard to admit into a room. Crews report it before the wearer does.
+**Bearer cost:** The wearer is hard to admit into a room. Crews report it before the wearer does.
 
 ### M.A.W. Stigma — The Rust Wall Charm
 
@@ -224,7 +224,7 @@ The heavy head is reinforced with dual steel langets extending eighteen inches d
 
 **Ability:** The bearer can tell, without being told, which people in a room are barred from somewhere and which are not.
 
-**Bearer cost:**The bearer moves slower, and stops at thresholds without deciding to.
+**Bearer cost:** The bearer moves slower, and stops at thresholds without deciding to.
 
 *The charm is given, not issued: three exist, all three to Wardens who had stood a full cycle, and the entity has given none since Year 4231.*
 

@@ -182,7 +182,7 @@
 
 **Ability:** Lament damage to the Mind — emotional stability and the will to keep standing at a line — carried in the strike as this holding's signature. What it opens in a target is the burden of a shared past the other party has released, delivered with the same perfect fidelity the bearer retains everything else.
 
-**Bearer cost:**The bearer retains, perfectly and without decay, every detail of people who have stopped thinking about them — and the counsellors screen for it at ninety days, because the bearers describe it as pleasant.
+**Bearer cost:** The bearer retains, perfectly and without decay, every detail of people who have stopped thinking about them — and the counsellors screen for it at ninety days, because the bearers describe it as pleasant.
 
 **Requiem custody:** The individual Weapon record binds its bearer to the waiting citizen’s event and to patient endurance, not to an order to break the Wall. First-person claims about that event are its first corrosion sign; a response repeating outside contact is escalation. Keep those signs separate from the primary’s perfect retention of people who have forgotten the bearer. Clean or rest the Requiem only after attribution review. In an enclosure, the named spotter remains the single voice: item shutdown is not permission for another witness to begin speaking over them.
 
@@ -202,7 +202,7 @@
 
 **Ability:** Lament pressure turned aside from the Mind, which is the only pressure this holding applies and is applied as a wait rather than a blow. Worn against Rising Wall's kind of pressure, and no help whatever against the enclosure: a worker who is being closed around is talked out, not equipped out.
 
-**Bearer cost:**The wearer becomes numb to minor joys.
+**Bearer cost:** The wearer becomes numb to minor joys.
 
 **Shroud review:** Loss of minor joys belongs on the Suit’s cost record even when the wearer calls the quiet helpful. Its item account separately warns that the source sorrow can become autobiographical. Record which response occurred, whose grief was being witnessed and what remains unresolved before cleaning or resting the cloth. Resistance does not supply clearance above the Wall, extend the capped station time or make an enclosure passable. Relinquishing the Shroud preserves the item record without cancelling either the emotional toll or the scheduled later review.
 
@@ -218,7 +218,7 @@
 
 **Ability:** Allows the wearer to see erased emotional history.
 
-**Bearer cost:**The wearer cannot lie about attachment.
+**Bearer cost:** The wearer cannot lie about attachment.
 
 **Pendant testimony:** Seeing erased emotional history is not the same as establishing the wearer’s own past. The Stigma record requires attribution before care and names first-person identification with the citizen’s waiting as a warning. Keep the wearer’s statement of attachment alongside the source event rather than merging them into a single testimony. The inability to lie does not make every inference accurate, and the Pendant grants no standing to compel another person’s answer. Its +3 source-work benefit supplies neither an exception to the single-voice rule nor authority to close the outstanding deposit proposal.
 

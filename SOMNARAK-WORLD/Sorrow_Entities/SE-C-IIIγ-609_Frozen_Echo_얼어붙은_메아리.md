@@ -203,7 +203,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the object's signature: the struck do not lose composure so much as acquire the last minute of somebody else's life and have nowhere to put it.
 
-**Bearer cost:**The bearer carries the object's unwept grief and weeps without an account of whose it is; prolonged use makes the weeping ordinary. Unlike the object, this charge does reverse on the return — the file records that — and the difference is the reason the pieces are issued at all.
+**Bearer cost:** The bearer carries the object's unwept grief and weeps without an account of whose it is; prolonged use makes the weeping ordinary. Unlike the object, this charge does reverse on the return — the file records that — and the difference is the reason the pieces are issued at all.
 
 ### M.A.W. Suit — Frozen Echo Shield
 
@@ -221,7 +221,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 **Ability:** Absorbs emotional impact and preserves it safely.
 
-**Bearer cost:**The wearer dreams of every former owner.
+**Bearer cost:** The wearer dreams of every former owner.
 
 ### M.A.W. Stigma — Frozen Echo Charm
 
@@ -235,7 +235,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 **Ability:** Grants a minor boon tied to Frozen Echo's sorrow; the effect mirrors the entity's nature.
 
-**Bearer cost:**The bearer can no longer take a silent room for an empty one.
+**Bearer cost:** The bearer can no longer take a silent room for an empty one.
 
 *The Frozen Echo Charm is not issued and cannot be requested. It has been conferred 3 times, in each case on a handler who set the object down at the clock-holder's call while still in the middle of somebody else's life — the file keeps the 3 as its only evidence that the call can be obeyed.*
 

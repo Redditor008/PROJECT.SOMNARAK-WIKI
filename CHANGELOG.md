@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The space the labels were missing
+
+Every bold field label in the archive was checked for the space that has to follow it. 835 slots across 292 files had none: the label closed and the value began immediately, so `**Bearer cost:**The wearer…` rendered as bold text welded to its own sentence. All 820 of the bearer-cost rows written in batch 44 were in that state, along with 20 `**Cost:**` rows, 4 `**Operational / binding cost:**` rows and a handful of one-offs.
+
+The pass deliberately left code spans and fenced blocks alone: a label quoted inside backticks is a quotation, and adding a space inside it would make the quotation wrong. Verified afterwards — 292 files changed, character-for-character only spaces inserted, line counts unchanged.
+
+**Separately noted, not fixed:** `REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md` and the matching `CHANGELOG.md` entries carry an older corruption where whole audit sentences lost their spaces — *237uniqueFullmarkers minuspausedN-Iα-025*, *Fivecompletedreviews, Nochange1/5*. Seventeen lines in each file. That is a work log rather than a reader-facing document, and the sentences still parse as figures; it is recorded here rather than rewritten.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## Forty costs in the 1001–1043 set (first slice)
 
 The 1001–1043 registry needed no Appearance work — the tail only ever reached the statistics field — so this slice is forty single-line rewrites, all of them item-specific.
@@ -7050,7 +7061,7 @@ Owner authorization: “P + I Mean Later We Fix SE Apperance Too So Shape And Ty
 
 **Recovery:** Workspace had cumulative143body changes but old10cd20aHEAD/index. Preserved inherited.patch outsideGit; fetched assignedbranch90300091; everytrackedworkingbody matched remote and untrackedR32 matched remote byte-for-byte. Mixed-index-only alignment restored90300091 withoutchangingfilebodies, deletingownerfiles orforcepush. Cleanbeforethisunit. No prior143unitrepeated.
 
-**Fresh selection:**237uniqueFullmarkers minuspausedN-Iα-025 andscope-unconfirmedC-IIIγ-062=235countedFull/301,66remainingincluding2exclusions,64eligiblepending. Non-SEBook excluded. Weapon236/287,51remaining;14outsideWeapon scope(9noexternal/5exceptions), repeatszero. Pending-only prose-screen ranking:907BreathingStone .003460956;918NinetySeconds .003459459;912ElevenFiftyNine .003343683;185WhisperingGallery .003277424;108Animus .003195617. Reserves720Aphasia .003189793;051HappyMask .003166436. No unreadfilemarkedNochange, no selectedfileassumeddefective.
+**Fresh selection:** 237uniqueFullmarkers minuspausedN-Iα-025 andscope-unconfirmedC-IIIγ-062=235countedFull/301,66remainingincluding2exclusions,64eligiblepending. Non-SEBook excluded. Weapon236/287,51remaining;14outsideWeapon scope(9noexternal/5exceptions), repeatszero. Pending-only prose-screen ranking:907BreathingStone .003460956;918NinetySeconds .003459459;912ElevenFiftyNine .003343683;185WhisperingGallery .003277424;108Animus .003195617. Reserves720Aphasia .003189793;051HappyMask .003166436. No unreadfilemarkedNochange, no selectedfileassumeddefective.
 
 **Method:** Wholeprimary/exactidentity-resolvedsources/history; R18short/carefulpredeclare; actualappearance/Tale-time review; R19evidenceandholds; wholefinalreread/checks; individualgate/push. Baselinecompare557candidates/861itempairs/287completesets; couples0/301files,0sectionpairs. Candidate is not confirmeddefect; couple is prose-overlapdossierpair, not equipmentpair. Fixphaseis source-supportedconsistencyrepair, broaderlaterdesignpass separate. Inherited142/143sourceconflictsandlaterappearancework remainbacklog, not declaredresolved. Batch301separatelyblockedoneightownerbodiesandchosen4+4generate/validatebeforewikicopy. PR14ownercontrolled; stayassignedbranch.
 
@@ -7256,7 +7267,7 @@ Owner authorization: “p + Later We Fixed Everything That We Just Talk About.�
 
 **Later-fix direction:** Carry forward every unresolved issue from the Batch142close and five detailed unit evidence entries. They remain open for a later source-supported repair pass, not erased, declared solved, or forcibly normalized now. In particular: Relicfalchion/Hammer/mallet and source scopes; DeadAirblade/maul/Room/origin/cost scopes; Glassblade/shard/range/viewing/counselling scopes; SeedMaul/CannonRoom/dormancy/classification/bearing/Stigma scopes; BorderTreeTanto/Rootclub/classification/extraction/suit/charm/datedmanagement scopes. EarlierTale/laterAppearance may legitimately be distinct states, but no unsupported transition is invented. All detailed holds remain in the shipped Batch142 records, not reduced to this short checklist. This owner instruction is a deferred repair intention, not permission to claim all source contradictions have one answer.
 
-**Fresh pending-only ranking:**232unique Full review markers minuspausedN-Iα-025 andscope-unconfirmedC-IIIγ-062=230countedFull/301;69eligiblepending,71remainingincludingtwo exclusions. BrokenPromise160 remains included from completedB112unit3. OpeningWeapon231/287,56remain;14outsideWeapon scope(9noexternal/5exceptions). Non-SEBook excluded. Counts independent; repeat exactWeaponreviews earnzero.
+**Fresh pending-only ranking:** 232unique Full review markers minuspausedN-Iα-025 andscope-unconfirmedC-IIIγ-062=230countedFull/301;69eligiblepending,71remainingincludingtwo exclusions. BrokenPromise160 remains included from completedB112unit3. OpeningWeapon231/287,56remain;14outsideWeapon scope(9noexternal/5exceptions). Non-SEBook excluded. Counts independent; repeat exactWeaponreviews earnzero.
 
 Selected order: Lacrima N-Iα-905 .003708551; Atlas O-Iα-169 .003703704; ObservingBird C-IIIγ-031 .003680589; SkyofBorrowedFaces O-IIIγ-926 .003654549; WalkingCalendar C-IVδ-220 .003519356. NextreserveBreathingStone C-IVδ-907 .003460956. Ranking is prose screening, not five known defects. Recompute if ladderextensionearned; no substitutions or credits merely fromselection.
 
@@ -7921,7 +7932,7 @@ Full R12 dossier links:
 - [[SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-II%CE%B2-801_Mirror_of_Soaking_%EC%86%9F%EC%95%84%EC%98%A4%EB%A5%B8_%EA%B1%B0%EC%9A%B8.md "SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울.md")]
 - [[SE-O-IIIγ-924_Weighted_Silence_침묵의_구역](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-III%CE%B3-924_Weighted_Silence_%EC%B9%A8%EB%AC%B5%EC%9D%98_%EA%B5%AC%EC%97%AD.md "SE-O-IIIγ-924_Weighted_Silence_침묵의_구역.md")]
 
-**Independent Full-SE coverage:**210/301=69.77%;91/301 remain,89 eligible pending and2 excluded025/062.212 total dispositions include those two excluded dossiers. Full increment+5. **Independent Weapon coverage:**216/287=75.26%;71/287 remain; increment+4. DebtScale exact pair already counted inBatch86/77b132de adds0, not repeated credit. Weapon candidate screen301 mapped,292 SideCodices,287 complete sets,861 item pairs,14 primaries outside complete-pair scope (9 no externalSide,5 exception sets); complete screening is not completed individual review. Uncapped before/after comparator byte-identical. No conflicts manufactured or adjudicated by source majority.
+**Independent Full-SE coverage:** 210/301=69.77%;91/301 remain,89 eligible pending and2 excluded025/062.212 total dispositions include those two excluded dossiers. Full increment+5. **Independent Weapon coverage:** 216/287=75.26%;71/287 remain; increment+4. DebtScale exact pair already counted inBatch86/77b132de adds0, not repeated credit. Weapon candidate screen301 mapped,292 SideCodices,287 complete sets,861 item pairs,14 primaries outside complete-pair scope (9 no externalSide,5 exception sets); complete screening is not completed individual review. Uncapped before/after comparator byte-identical. No conflicts manufactured or adjudicated by source majority.
 
 **Validation:** each final primary verifyRESIDUAL0/seam[]/pipeTrue/dupes[],tplRESIDUE0,sectfile0 qualifying sections above0.05,wikistdmeetsTrue,wholefileGENERIC0.005. Genuine couples0/301 unchanged,filescarrying0/301,sectionpairs0; this counts pairs of dossiers sharing enough section prose, not matching equipment fields. An incorrect couples invocation with nested directory/--help returned0/0 and was rejected; final no-argument301-file scan matches opening exactly.44 testsPASS. ArchivePASS1928 UTF files,52/52 codices,198/198 sets; audit’s290 scoped entity tally is not the301 full-review denominator. Timeline1793/0 contradictions,seam1761/0,box1928/0 crooked rows. Per-file and full gate explicit successes read. gitdiffcheck clean.
 

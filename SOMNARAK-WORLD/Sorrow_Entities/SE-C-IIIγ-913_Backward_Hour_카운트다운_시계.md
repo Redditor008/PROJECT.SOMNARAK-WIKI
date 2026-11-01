@@ -177,7 +177,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 **Ability:** Grudge against the Mind. Struck targets spend the following hour certain that something of theirs is about to expire, and in four of fourteen cases they were right.
 
-**Bearer cost:**The wielder keeps the hour afterwards — certain that something of theirs is about to expire, unable to say which, and right about it two times in seven.
+**Bearer cost:** The wielder keeps the hour afterwards — certain that something of theirs is about to expire, unable to say which, and right about it two times in seven.
 
 ### M.A.W. Suit — Backward Hour's Veil
 
@@ -195,7 +195,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 **Ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.
 
-**Bearer cost:**The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought.
+**Bearer cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought.
 
 ### M.A.W. Stigma — Backward Hour's Token
 
@@ -209,7 +209,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 **Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
 
-**Bearer cost:**The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
+**Bearer cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
 *Eight in nine years, in each case to a Warden who held a high-rate reading privately until the occurrence had ended rather than announcing it in the room. Four Wardens have announced one; none of them has been given anything, and the bay is explicit that announcing is an honest mistake.*
 

@@ -187,7 +187,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Ability:** Void damage against the Soul — identity, memory, sense of self — carried in the strike as this holding's signature. Recipients describe the wound as a missing middle: a sentence they are certain they heard in full and cannot now reproduce past a certain point, with no sense of what was there.
 
-**Bearer cost:**Small, unattributable things go first — a route, a name at a counter, the arrangement of a room they know well — and the Armoury records the charge against the wielder rather than the piece. On this set the cost is discovered by colleagues rather than by the wielder, which is why the piece is issued one watch at a time.
+**Bearer cost:** Small, unattributable things go first — a route, a name at a counter, the arrangement of a room they know well — and the Armoury records the charge against the wielder rather than the piece. On this set the cost is discovered by colleagues rather than by the wielder, which is why the piece is issued one watch at a time.
 
 ### M.A.W. Suit — Fading Whisper's Veil
 
@@ -205,7 +205,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Ability:** Turns Void pressure aside from the Soul. It holds against the pressure and not against the fade: a wearer inside the zone still loses definition with everybody else, and the veil's note is that the protection here is against the element and not against the event. Worn against Fading Whisper's kind of pressure, with that qualification on the line.
 
-**Bearer cost:**The wearer comes to feel faintly absent to themselves — present, recorded and not entirely convinced of either — and reports it as standing slightly outside a room they are clearly in. On this set the Armoury re-assesses a week after return, because the charge does not present on the day.
+**Bearer cost:** The wearer comes to feel faintly absent to themselves — present, recorded and not entirely convinced of either — and reports it as standing slightly outside a room they are clearly in. On this set the Armoury re-assesses a week after return, because the charge does not present on the day.
 
 ### M.A.W. Stigma — Fading Whisper's Key
 
@@ -219,7 +219,7 @@ The breech is fitted with an internal lead baffler that silences the detonation 
 
 **Ability:** Opens access to one erased-memory fragment, not a complete reconstruction of the lost place. Record the fragment and the present-memory cost with equal prominence.
 
-**Bearer cost:**The user loses certainty about one present memory.
+**Bearer cost:** The user loses certainty about one present memory.
 
 *Fading Whisper's Key is not issued and cannot be applied for. It has been conferred twice, both times on a transcriber who filed a watch in which they had understood nothing and written down exactly that.*
 

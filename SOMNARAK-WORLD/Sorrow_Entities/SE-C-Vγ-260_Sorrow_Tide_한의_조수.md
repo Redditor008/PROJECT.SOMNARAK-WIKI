@@ -182,7 +182,7 @@ Escalation is a peak that does not recede. Record the nine station readings hour
 
 **Ability:** Weight against the Han. Struck targets carry the following night's Tide early — by about four hours — which is the only known way to be ahead of it and has never once been useful.
 
-**Bearer cost:**The wielder ages. The Armoury's ledger puts it at eleven days per rotation, measured against bone and not against appearance, and the figure has held across all three wielders.
+**Bearer cost:** The wielder ages. The Armoury's ledger puts it at eleven days per rotation, measured against bone and not against appearance, and the figure has held across all three wielders.
 
 ### M.A.W. Suit — The Tide Mantle
 
@@ -200,7 +200,7 @@ Escalation is a peak that does not recede. Record the nine station readings hour
 
 **Ability:** Resistance to Weight against the Han, and the only equipment in the registry that lets a Warden work a whole red night outdoors. Eleven such nights are on file and all eleven were shelter-welfare rounds.
 
-**Bearer cost:**A constant low fatigue that does not lift on rest days and that all three wearers describe as the feeling of having been up all night the night before.
+**Bearer cost:** A constant low fatigue that does not lift on rest days and that all three wearers describe as the feeling of having been up all night the night before.
 
 ### M.A.W. Stigma — The Tide Stone
 
@@ -214,7 +214,7 @@ Escalation is a peak that does not recede. Record the nine station readings hour
 
 **Ability:** Absorbs a limited amount of Tide pressure.
 
-**Bearer cost:**Becomes heavier and emotionally saturated after each use.
+**Bearer cost:** Becomes heavier and emotionally saturated after each use.
 
 *Nineteen in sixty years and every one of them to shelter staff rather than to Wardens. The almanac office notes the pattern in its annual return and has never been asked to account for it.*
 

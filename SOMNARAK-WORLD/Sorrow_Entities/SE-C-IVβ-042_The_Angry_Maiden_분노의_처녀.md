@@ -196,7 +196,7 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 
 **Ability:** Grudge damage to the Body. The blade carries the archetype and is issued only to bearers who have passed the no-open-grievance screening; the armoury treats that as a property of the piece rather than a precaution around it, having twice watched it fail to discharge for a bearer who had not.
 
-**Bearer cost:**The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Bearer cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Fury Plate
 
@@ -214,7 +214,7 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 
 **Ability:** Resists Grudge pressure on the Body. Issued for the full watch and worn through the cooling hour, which thermal crews insisted on after two wearers removed it early and were found still carrying the load at the handover.
 
-**Bearer cost:**Dulled reflexes for about two days, measured and found real and modest. Wearers describe it as the slowness of having already decided not to answer.
+**Bearer cost:** Dulled reflexes for about two days, measured and found real and modest. Wearers describe it as the slowness of having already decided not to answer.
 
 ### M.A.W. Stigma — The Fury Blade
 
@@ -228,7 +228,7 @@ Flerehan and Ferrehan lower the gauge; Viderehan holds it level; Pugnahan is pro
 
 **Ability:** The pendant goes cold against the throat when the bearer is about to argue, and warm when they are about to agree with something they do not believe. It has no offensive function and the earlier description of it as dealing fire damage was drawn from the weapon's data sheet.
 
-**Bearer cost:**The bearer carries an anger that is not theirs and that has a clear object and no person at the end of it. It lifts when the pendant comes off, and four bearers have recorded that the lifting is the hardest part.
+**Bearer cost:** The bearer carries an anger that is not theirs and that has a clear object and no person at the end of it. It lifts when the pendant comes off, and four bearers have recorded that the lifting is the hardest part.
 
 *The pendant has been granted five times, each to a worker who recorded in a finding that an act had been wrongful when the easier and equally defensible course was to record only that a person had died. Three of the five were asked by their own office to reconsider. The holding records the pattern and will not make it a criterion.*
 

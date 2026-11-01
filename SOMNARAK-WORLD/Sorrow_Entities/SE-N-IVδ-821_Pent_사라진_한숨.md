@@ -204,7 +204,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and the signature is a pressure that arrives after the blow and does not leave: those struck describe the impact as something that settles across the ribs rather than passing through them.
 
-**Bearer cost:**The wielder's old injuries ache and prolonged use leaves faint bruising across the ribs and diaphragm, where a held breath sits.
+**Bearer cost:** The wielder's old injuries ache and prolonged use leaves faint bruising across the ribs and diaphragm, where a held breath sits.
 
 ### M.A.W. Suit — The Vanished Plate
 
@@ -222,7 +222,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against sustained structural force. It holds against pressure and does nothing about the burning, which carries no measurable temperature and therefore engages no rating in the set.
 
-**Bearer cost:**The wearer's reflexes dull and their breathing shallows without their noticing; wearers are checked for it at handover, by a colleague, because they do not report it themselves.
+**Bearer cost:** The wearer's reflexes dull and their breathing shallows without their noticing; wearers are checked for it at handover, by a colleague, because they do not report it themselves.
 
 ### M.A.W. Stigma — The Vanished Breath
 
@@ -236,7 +236,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 **Ability:** Releases one suppressed breath and calms panic.
 
-**Bearer cost:**The wearer feels every exhaustion hidden nearby.
+**Bearer cost:** The wearer feels every exhaustion hidden nearby.
 
 *The breath-token is given and never made: it appears after a successful cycle at the entity's own disposition, on a worker who took relief against the clock without arguing for it and without mentioning it afterwards.*
 

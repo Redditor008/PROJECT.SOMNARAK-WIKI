@@ -204,7 +204,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the instrument's signature in the strike: the target is left certain of a direction that does not exist.
 
-**Bearer cost:**The wielder loses small, nameless memories with each use, and the loss is entered against the piece rather than the person. On an instrument whose whole reading is direction, the bearers' note is that what goes first is the way home.
+**Bearer cost:** The wielder loses small, nameless memories with each use, and the loss is entered against the piece rather than the person. On an instrument whose whole reading is direction, the bearers' note is that what goes first is the way home.
 
 ### M.A.W. Suit — The Lost Veil
 
@@ -222,7 +222,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Ability:** Grants resistance to Void damage and protects the Soul — identity, memory and sense of self — worn against this holding's particular pressure: the compass does not attack a direction, it removes the confidence that any direction is right.
 
-**Bearer cost:**The wearer feels faintly absent to themselves, and the wearer is the last person to notice; the second worker's call stands against the wielder's.
+**Bearer cost:** The wearer feels faintly absent to themselves, and the wearer is the last person to notice; the second worker's call stands against the wielder's.
 
 ### M.A.W. Stigma — The Lost Compass
 
@@ -236,7 +236,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Ability:** Shows which direction is wrong.
 
-**Bearer cost:**It never reveals which direction is right.
+**Bearer cost:** It never reveals which direction is right.
 
 *Seven charms exist and every one was granted after a session in which the Warden logged a revolution count and resisted the standing temptation to pick the instrument up and see what it did.*
 

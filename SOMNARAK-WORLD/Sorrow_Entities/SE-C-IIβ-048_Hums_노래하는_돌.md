@@ -215,7 +215,7 @@ Escalation on this file is not an event with a boundary; it is the register goin
 
 **Ability:** Lament damage to the mind. The requiem carries the stone's signature — a melody with nobody left to sing it — and what it opens in a target is the memory of a voice rather than of a person.
 
-**Bearer cost:**The wielder carries its unwept grief and weeps involuntarily, usually while humming.
+**Bearer cost:** The wielder carries its unwept grief and weeps involuntarily, usually while humming.
 
 ### M.A.W. Suit — The Singing Shroud
 
@@ -233,7 +233,7 @@ Escalation on this file is not an event with a boundary; it is the register goin
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this post produces. Under the shroud a worker can sit through forty minutes of a stranger's funeral song without standing up, and can walk back out of the gallery without humming — which is the property the whole set is graded on, and the one the wearer notices least.
 
-**Bearer cost:**The wearer goes numb to small pleasures first — food, weather, the end of a shift — and then to music, which they begin to report as information about a key and a tempo. The order is the warning: a wearer who says a song was in D minor and cannot say whether they liked it has been under the shroud too long.
+**Bearer cost:** The wearer goes numb to small pleasures first — food, weather, the end of a shift — and then to music, which they begin to report as information about a key and a tempo. The order is the warning: a wearer who says a song was in D minor and cannot say whether they liked it has been under the shroud too long.
 
 ### M.A.W. Stigma — The Singing Pebble
 
@@ -247,7 +247,7 @@ Escalation on this file is not an event with a boundary; it is the register goin
 
 **Ability:** Calms nearby personnel and reduces emotional distress.
 
-**Bearer cost:**Sings at random, including during operations.
+**Bearer cost:** Sings at random, including during operations.
 
 *The singing pebble is not manufactured. The stone gives one to a worker who learned a song and sang it somewhere else, to somebody, and has given none to a worker who filed a faithful transcription.*
 

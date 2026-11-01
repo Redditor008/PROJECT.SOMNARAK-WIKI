@@ -181,7 +181,7 @@ The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spir
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the source's signature: the struck lose the end of whatever sentence they were saying, and remember having been about to say something.
 
-**Bearer cost:**The bearer takes on grief that was never shed and weeps without an account of whose it is; on a long issue the weeping becomes ordinary and stops being reported. The file records that the charge reverses on the return.
+**Bearer cost:** The bearer takes on grief that was never shed and weeps without an account of whose it is; on a long issue the weeping becomes ordinary and stops being reported. The file records that the charge reverses on the return.
 
 ### M.A.W. Suit — The Silenced Shroud
 
@@ -199,7 +199,7 @@ The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spir
 
 **Ability:** Turns Lament aside from the Mind — emotional stability and willpower — which is the pressure the Choir applies and the only kind it has. The shroud is the piece the stage crew is issued, and it works by making the wearer harder to recognise rather than harder to reach.
 
-**Bearer cost:**The wearer goes numb to small pleasures and does not notice it happening, which on this holding shows first in a report that stops mentioning anything that was good about the shift.
+**Bearer cost:** The wearer goes numb to small pleasures and does not notice it happening, which on this holding shows first in a report that stops mentioning anything that was good about the shift.
 
 ### M.A.W. Stigma — The Silenced Lyre
 
@@ -213,7 +213,7 @@ The Hollow Choir is a Fragment (III) Subject of Major (γ) potency, Subject-Spir
 
 **Ability:** Holds a small field of calm around the bearer and quiets hostile feeling inside it — which the file notes is the one piece in the set that works by doing the opposite of the holding's own procedure.
 
-**Bearer cost:**The bearer's own feelings go quiet for as long as the lyre sounds, and come back only when it stops — so the bearer tends not to stop, which the armoury counts as the charge rather than an accident.
+**Bearer cost:** The bearer's own feelings go quiet for as long as the lyre sounds, and come back only when it stops — so the bearer tends not to stop, which the armoury counts as the charge rather than an accident.
 
 *The Silenced Lyre is not issued and cannot be requested. It has been conferred 2 times, in both cases on a warden who sat through a full group without transcribing anything, having been sent in to transcribe — the wing's only recorded method, and one it does not attempt to reproduce.*
 

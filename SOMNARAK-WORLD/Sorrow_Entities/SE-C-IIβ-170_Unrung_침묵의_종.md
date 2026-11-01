@@ -209,7 +209,7 @@ A direct strike releases a single pale impact circle that swallows nearby sound 
 
 **Ability:** *Hear Outside* — *Mute Ring* strikes one active warning-pressure target and creates a bounded silence field around it. The field separates its warning from surrounding sound while the external partner receives and records the signal.
 
-**Bearer cost:**The wielder hears nothing while the field holds, and for roughly an hour afterwards hears everything a half-second late. The armoury's note records that bearers describe the second part as worse.
+**Bearer cost:** The wielder hears nothing while the field holds, and for roughly an hour afterwards hears everything a half-second late. The armoury's note records that bearers describe the second part as worse.
 
 ### M.A.W. Suit — The Soundless Velvet Cassock
 
@@ -230,7 +230,7 @@ The wearer appoints an outside alert partner, not a second person hidden inside 
 
 **Ability:** *Outside Thread* — while the assigned alert partner confirms a live warning channel outside the veil, the cassock resists Void silence pressure and can reject one Void silence surge, routing the warning status to the partner. Worn for the full session on the marked line and kept on for the walk out, which the station clerks insisted on after two workers removed it at the boundary and gave accounts they later could not stand behind.
 
-**Bearer cost:**The wearer feels faintly absent to themselves, and reports that their own voice reaches them late. It clears within a day and three wearers have described the clearing as the moment they realised they had been shouting.
+**Bearer cost:** The wearer feels faintly absent to themselves, and reports that their own voice reaches them late. It clears within a day and three wearers have described the clearing as the moment they realised they had been shouting.
 
 ### M.A.W. Stigma — The Muffled Clapper Brooch
 
@@ -247,7 +247,7 @@ The warning gap is one missing element at a time, not the missing person’s mot
 
 **Ability:** The pin goes cold against the breast when the bearer is about to let something go unsaid. It has no dampening function. Its cold identifies something left unsaid, not proof of who suppressed it; neither a complete warning nor its truth can be reconstructed from that chill.
 
-**Bearer cost:**The bearer loses a word now and then, mid-sentence, always a word they were about to use to soften something. Four bearers have recorded the pattern independently and the armoury has declined to call it an effect.
+**Bearer cost:** The bearer loses a word now and then, mid-sentence, always a word they were about to use to soften something. Four bearers have recorded the pattern independently and the armoury has declined to call it an effect.
 
 *Eleven times the brooch has gone out, each to a worker who escalated a warning past a desk that had gone silent. Seven were afterwards told, informally, that they had embarrassed somebody. The file notes the pattern; it refuses to make a criterion of it.*
 

@@ -208,7 +208,7 @@ There is no event here in the sense the word is used elsewhere in this archive. 
 
 **Ability:** Deals Void damage to the Soul. The lens shows the target the finished version of something they abandoned, in full detail, correctly specified, and lets them stand in it for as long as the bearer holds the disc steady.
 
-**Bearer cost:**The wielder loses the ability to remember their own unfinished work as unfinished. Projects they dropped years ago return to them as completed, and they have to be shown the file to be convinced otherwise.
+**Bearer cost:** The wielder loses the ability to remember their own unfinished work as unfinished. Projects they dropped years ago return to them as completed, and they have to be shown the file to be convinced otherwise.
 
 ### M.A.W. Suit — The Melting Veil
 
@@ -228,7 +228,7 @@ Upward-flowing seams surround one current-body outline. Binding confirms a prese
 
 **Ability:** Grants resistance to Void damage. The veil holds the wearer's sense of what they have and have not actually done, which is the specific thing this structure dissolves.
 
-**Bearer cost:**The wearer stops announcing things. Plans are made, funded and carried out in silence, and colleagues report that they only learn of the wearer's work once it is already standing.
+**Bearer cost:** The wearer stops announcing things. Plans are made, funded and carried out in silence, and colleagues report that they only learn of the wearer's work once it is already standing.
 
 ### M.A.W. Stigma — The Melting Brick
 
@@ -244,7 +244,7 @@ Its projection keeps intended use and occupant flow distinct from completed wall
 
 **Ability:** Reveals the intended purpose of an unfinished structure.
 
-**Bearer cost:**The user feels every future that structure could have held.
+**Bearer cost:** The user feels every future that structure could have held.
 
 *The brick is not issued. It appears in the operative's effects after a session in which a withdrawal was published somewhere in the city that day, and never after a session in which one was not. Four have been recorded in sixty years.*
 

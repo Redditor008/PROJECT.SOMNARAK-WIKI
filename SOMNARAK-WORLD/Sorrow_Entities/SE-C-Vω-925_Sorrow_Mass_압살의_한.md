@@ -159,7 +159,7 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 
 **Damage:** Weight 8–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels the load register in each strike: the weapon does not cut flesh so much as hand the target a share of what the structure below has been carrying, which the gauges record and the target's own account never does.
-**Bearer cost:**The wielder's own share of the load goes unrecorded — the gauges read the structure below and nothing at the hand that struck.
+**Bearer cost:** The wielder's own share of the load goes unrecorded — the gauges read the structure below and nothing at the hand that struck.
 
 ### M.A.W. Suit — Sorrow Mass's Veil
 

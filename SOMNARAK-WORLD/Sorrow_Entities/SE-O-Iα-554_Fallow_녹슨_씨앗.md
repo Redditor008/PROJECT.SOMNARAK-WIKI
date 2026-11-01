@@ -239,7 +239,7 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Ability:** Deals Lament damage to the Mind, carrying the seed's expectation — targets act as though waiting for something and surrender initiative.
 
-**Bearer cost:**The wielder begins keeping appointments no one made, and reports reluctance to leave a post once taken.
+**Bearer cost:** The wielder begins keeping appointments no one made, and reports reluctance to leave a post once taken.
 
 **Weapon account boundary:** The linked Requiem is a root-grained crystal sickle that removes detached invasive growth without cutting the seed; its care leaves the grain unpolished. That is a different implement from the Chronometer described here. Matching damage and cost do not establish a clock-to-sickle transformation, a time-bubble range or a corrosion-tick falloff. Retain the two accounts for adjudication; neither authorises striking or opening Fallow’s casing.
 
@@ -259,7 +259,7 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Ability:** Grants resistance to Lament damage, insulating the Mind with the seed's indifference to barren ground and to the passage of unproductive time.
 
-**Bearer cost:**The wearer stops noticing deterioration — in equipment, in quarters, and in themselves.
+**Bearer cost:** The wearer stops noticing deterioration — in equipment, in quarters, and in themselves.
 
 **Shroud inspection:** The individual record’s blue Han-silk and wearer-line roots differ from the local orange woven-creeper description. Keep the inspections attributable: its card calls for storage away from soil, water and growing light, checking the wearer line and retiring it for reweaving if rust crosses that boundary. Dulled joy must not be praised as patience. Neither the resistance nor a feeling of endurance makes tending the source acceptable.
 
@@ -275,7 +275,7 @@ The chronometer ticks with loud, rhythmic mechanical clicks that echo through si
 
 **Ability:** Grows a small shelter from local sorrow.
 
-**Bearer cost:**The shelter remembers everyone who abandoned it.
+**Bearer cost:** The shelter remembers everyone who abandoned it.
 
 *Fallow grants its stigma to workers who complete a cycle without disturbing the seed. It cannot be manufactured, and no worker has received it twice.*
 

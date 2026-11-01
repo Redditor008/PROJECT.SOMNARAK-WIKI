@@ -190,7 +190,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Ability:** Weight against the Han. The target's own reserves come back lighter afterwards and they cannot say by how much, which the Armoury has measured and the targets cannot feel.
 
-**Bearer cost:**The wielder feels progressively heavier and ages slightly, and begins to find gaps in indexes intolerable.
+**Bearer cost:** The wielder feels progressively heavier and ages slightly, and begins to find gaps in indexes intolerable.
 
 ### M.A.W. Suit — The Relic Burden
 
@@ -208,7 +208,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Ability:** Converts incoming force into endurance.
 
-**Bearer cost:**The wearer feels every loss attached to the object.
+**Bearer cost:** The wearer feels every loss attached to the object.
 
 **Burden debrief:** Preserve the mantle’s undescribed shoulder patch as a marker, not a proposed outline of the relic. Its endurance benefit does not establish who owned the lost thing. Record losses felt during wear alongside the wearer’s sealed possession descriptions; feeling another loss is not the same observation as losing a description of one’s own object. If the expedition is being recounted as autobiography, the witness names the source event during relinquishment. Keep both costs on file rather than treating attribution as restoration.
 
@@ -224,7 +224,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Ability:** The bearer can tell, without checking, whether a record has a description against it. Accurate 61 times out of 61, and the Archive has stopped treating it as a curiosity and started using it.
 
-**Bearer cost:**The bearer can tell at a glance which records have nothing written under them, so the Archive walks them past shelves instead of asking, and the shelves are long.
+**Bearer cost:** The bearer can tell at a glance which records have nothing written under them, so the Archive walks them past shelves instead of asking, and the shelves are long.
 
 *The stigma is not manufactured. It is given to a worker who described a destroyed record in the register rather than numbering it, and has never been given to one who told the entity the relic was a legend.*
 

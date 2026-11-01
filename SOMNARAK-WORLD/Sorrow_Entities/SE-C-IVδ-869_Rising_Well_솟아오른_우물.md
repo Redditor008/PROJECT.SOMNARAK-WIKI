@@ -183,7 +183,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 **Ability:** Grudge against the Body. Struck targets become certain of the cause of something they have no information about, and will defend it; fourteen strikes, fourteen confident and unfounded accounts.
 
-**Bearer cost:**Old wounds ache, and the wielder begins supplying reasons for things they have not investigated.
+**Bearer cost:** Old wounds ache, and the wielder begins supplying reasons for things they have not investigated.
 
 ### M.A.W. Suit — Rising Well Plate
 
@@ -201,7 +201,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 **Ability:** Resistance to Grudge against the Body, and the reason the contact worker can stand a four-minute approach rather than the ninety seconds the unprotected record shows.
 
-**Bearer cost:**Reflexes dull, and the wearer stops saying *I don't know* — which the station measures, because it is the sentence this holding is managed with.
+**Bearer cost:** Reflexes dull, and the wearer stops saying *I don't know* — which the station measures, because it is the sentence this holding is managed with.
 
 ### M.A.W. Stigma — Rising Well Stone
 
@@ -215,7 +215,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 
 **Ability:** Reveals suppressed anger and its emotional depth.
 
-**Bearer cost:**The wearer hears anger in every silence.
+**Bearer cost:** The wearer hears anger in every silence.
 
 *Four in nine years, in every case to a worker who finished a shift without offering an explanation for the burial. Nineteen workers have offered one; none has been given anything, and the station is careful to record that all nineteen were trying to help.*
 

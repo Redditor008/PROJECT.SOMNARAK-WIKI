@@ -176,7 +176,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 **Ability:** *Down Where They Stand* — the struck body lies down rather than falls, and the sleep is the wound. Nobody has been carried clear of it, because the no-carry rule runs from the first second.
 
-**Bearer cost:**The wielder dreams the district’s dream on the night after use — the same streets, the same sky — and wakes on their own in their own bed. It is logged as an exposure, counted in the series, and has never once progressed to a sleep that could not be ended.
+**Bearer cost:** The wielder dreams the district’s dream on the night after use — the same streets, the same sky — and wakes on their own in their own bed. It is logged as an exposure, counted in the series, and has never once progressed to a sleep that could not be ended.
 
 **Edge attribution:** The individual Weapon record requires attribution review before cleaning or rest, retaining bearer, trigger, source response, cost and unresolved detail. Its warning is first-person ownership of an event that the same record leaves unrecorded; do not supply a patient-zero account to complete that field. A named witness states the source title and event while the bearer relinquishes the Edge. Keep the unknown event marked as unknown. This item procedure does not authorize contact with a sleeper or passing the piece between holders inside the district.
 
@@ -196,7 +196,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 **Ability:** *Not Carried* — the wearer cannot be lifted while the hood is up. Void pressure turns aside into the weave's dead weight, and the cost is that a wearer who goes down stays down until they wake on their own.
 
-**Bearer cost:**The wearer becomes difficult to remember, even to themselves, while the protection is worn.
+**Bearer cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
 **Veil custody:** The Suit’s individual record also warns that the source sorrow can begin to feel autobiographical. Record that identification separately from the wearer becoming hard to remember; neither makes the wearer a reliable substitute for the written custody chain. The entry requires attribution review before maintenance and witnessed relinquishment without a refund of its cost. Those controls belong at the staging-point return already specified here, not at a handover inside the cordon. The witness requirement supplies no exception to the no-touch rule.
 
@@ -212,7 +212,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 **Ability:** *First Sleeper* — it goes cold when the nearest body inside the line has lain down. That is the only warning the cordon gets before the contact rule resumes.
 
-**Bearer cost:**The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
+**Bearer cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
 **Token review:** The Stigma’s individual entry distinguishes a brief missing word or face from adopting the source history as one’s own. It lists first-person identification as the first failure sign and a source response recurring away from contact as escalation. Retain the bearer, trigger, response, cost and unresolved detail before cleaning or rest. Its named-witness relinquishment procedure does not change the primary recovery rule: the Token is taken only after waking. No account of an unknown formation event is invented to satisfy the item’s binding wording.
 

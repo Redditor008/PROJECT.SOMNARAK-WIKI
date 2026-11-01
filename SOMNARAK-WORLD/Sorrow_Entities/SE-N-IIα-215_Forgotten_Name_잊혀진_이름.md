@@ -173,7 +173,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 **Ability:** Void damage to the Soul. The scabbard is inscribed with rows of anonymous registry numbers and the armoury's note records that eleven of them have since been matched to destroyed files, by an archivist nobody asked to try.
 
-**Bearer cost:**Small nameless memories, for about a day. In every logged instance what goes is something nobody else was present for, which four wielders noticed separately and none of them could prove.
+**Bearer cost:** Small nameless memories, for about a day. In every logged instance what goes is something nobody else was present for, which four wielders noticed separately and none of them could prove.
 
 ### M.A.W. Suit — The Name Veil
 
@@ -191,7 +191,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 **Ability:** *Witness Lining* holds several independent identity paths at once: each inner name-thread remains valid only while its writer can still connect that written form to the person inside. The Veil is worn for the watch and kept on through the silent slate comparison, which the carriers insisted on after two workers removed it early and wrote names they afterwards could not account for.
 
-**Bearer cost:**The wearer feels faintly absent to themselves, and in four recorded cases has had to check their own papers to be sure of their name. It clears within a day and the check is now part of the gate procedure rather than a sign of trouble.
+**Bearer cost:** The wearer feels faintly absent to themselves, and in four recorded cases has had to check their own papers to be sure of their name. It clears within a day and the check is now part of the gate procedure rather than a sign of trouble.
 
 ### M.A.W. Stigma — The Name Thread
 
@@ -205,7 +205,7 @@ The blade flat is polished to an immaculate mirror finish revealing tiny micro-c
 
 **Ability:** The thread holds one name against loss, chosen once and not changeable. Five bearers, five names, and the holding records all five choices in the folder with the bearers' consent: three were strangers from the register.
 
-**Bearer cost:**The bearer hears every name nearby that nobody is saying. It does not stop at the district boundary and it does not stop when the thread comes off for the first day. Four of the five asked to keep it anyway.
+**Bearer cost:** The bearer hears every name nearby that nobody is saying. It does not stop at the district boundary and it does not stop when the thread comes off for the first day. Four of the five asked to keep it anyway.
 
 *The thread has come up five times, and every time to a worker who entered an uncorroborated statement on a permanent record when the easier and equally correct course lay in leaving it out. Three of the five were asked by their own office to withdraw it. The file carries the pattern and expressly declines to make it a test.*
 

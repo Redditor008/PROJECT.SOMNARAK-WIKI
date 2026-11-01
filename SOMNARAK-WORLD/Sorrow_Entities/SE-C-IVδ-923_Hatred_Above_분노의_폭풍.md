@@ -174,7 +174,7 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 **Falloff Rule:** None; 100% damage to the selected target only.
 **Damage Application:** Direct Grudge damage; the overhead anomaly’s spread does not add targets to the Edge’s strike.
 **Ability:** *Nearest Body* — the strike goes to the closest body and cannot be aimed past it. The bearer's own colleague, standing where colleagues stand, is on the list by geometry and not by intent: sixty-three incidents, sixty-three times the nearest colleague.
-**Bearer cost:**The wielder's own anger arrives without a subject — nine to fourteen seconds into an argument, in a room where nothing has happened — and the blade does not name who it is for.
+**Bearer cost:** The wielder's own anger arrives without a subject — nine to fourteen seconds into an argument, in a room where nothing has happened — and the blade does not name who it is for.
 
 ### M.A.W. Suit — Hatred Above's Veil
 
@@ -198,7 +198,7 @@ The shelter does not remove the bodily record of small insults. Stiffening refle
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** *Step Back* — it goes cold the moment somebody within reach has answered back. That is the only warning the piece gives, and the only one that has ever ended an incident.
-**Bearer cost:**Old injuries and old resentments sharpen whenever the Token is used.
+**Bearer cost:** Old injuries and old resentments sharpen whenever the Token is used.
 
 The source event remains unidentified. Carrying the Token does not supply its missing history or make the nearest colleague responsible for it. First-person ownership of that unknown history is a warning sign; the return review keeps uncertainty rather than completing the account for the bearer.
 *A Token is found at the far edge of the footprint, on the outward side of the line, by the next person to cross alone. It has never been recovered by a pair and has never been found inside the marked rectangle.*

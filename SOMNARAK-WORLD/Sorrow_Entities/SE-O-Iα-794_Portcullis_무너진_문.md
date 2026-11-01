@@ -204,7 +204,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Ability:** Forged from a demolished building's hinge and still behaving like one — it levers a target's composure apart at the joint rather than breaking it, finding the seam where someone is already giving way.
 
-**Bearer cost:**The wielder weeps while using it, without warning and without any accompanying feeling they can identify, and reports afterwards that the grief did not seem to be theirs. Personnel find this harder to tolerate than injury and should be rotated before they stop mentioning it.
+**Bearer cost:** The wielder weeps while using it, without warning and without any accompanying feeling they can identify, and reports afterwards that the grief did not seem to be theirs. Personnel find this harder to tolerate than injury and should be rotated before they stop mentioning it.
 
 ### M.A.W. Suit — The Collapsed Shroud
 
@@ -222,7 +222,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Ability:** Han-silk wrapping that keeps the wearer's composure intact under Lament pressure, drawing tighter as it approaches the frame it was taken from.
 
-**Bearer cost:**The shroud protects by closing. It shuts out the small sorrows and shuts out the small pleasures with them, and wearers describe the following days as a corridor they walked down without stopping anywhere.
+**Bearer cost:** The shroud protects by closing. It shuts out the small sorrows and shuts out the small pleasures with them, and wearers describe the following days as a corridor they walked down without stopping anywhere.
 
 ### M.A.W. Stigma — The Collapsed Key
 
@@ -236,7 +236,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 **Ability:** Opens one blocked passage for a few seconds.
 
-**Bearer cost:**The user feels the departure of everyone who once waited behind it.
+**Bearer cost:** The user feels the departure of everyone who once waited behind it.
 
 *The Key is given, never taken. It appears only on a worker who finished a Ferrehan cycle at the threshold without once asking to be let through, and no procedure has produced one deliberately.*
 

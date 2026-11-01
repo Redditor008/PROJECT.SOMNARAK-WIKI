@@ -192,7 +192,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Ability:** Closes minor wounds at a touch — the one M.A.W. piece in the wing that heals, which the armoury notes without explanation and the holding has stopped trying to account for.
 
-**Bearer cost:**Nothing the wielder feels while it is drawn is their own; it returns, in full, when they put it down.
+**Bearer cost:** Nothing the wielder feels while it is drawn is their own; it returns, in full, when they put it down.
 
 ### M.A.W. Suit — Nemo's Shroud
 
@@ -210,7 +210,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Ability:** Holds off the weeping long enough to stand a full watch and write legibly.
 
-**Bearer cost:**Small pleasures stop registering. Wearers notice it first in food.
+**Bearer cost:** Small pleasures stop registering. Wearers notice it first in food.
 
 ### M.A.W. Stigma — Nemo's Charm
 
@@ -224,7 +224,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 
 **Ability:** The bearer can tell whether a person in front of them is recorded anywhere in the Company's registers, and cannot tell where.
 
-**Bearer cost:**The bearer weeps in their sleep and wakes without knowing it has happened.
+**Bearer cost:** The bearer weeps in their sleep and wakes without knowing it has happened.
 
 *The charm is given, not issued, and only after a cycle in which a name was read and recorded without being spoken back. Five exist.*
 

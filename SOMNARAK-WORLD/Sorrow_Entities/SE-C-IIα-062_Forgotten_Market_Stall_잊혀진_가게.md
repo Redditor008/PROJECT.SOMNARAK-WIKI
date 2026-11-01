@@ -213,7 +213,7 @@ Escalation here is commercial rather than physical. Record the bearing at which 
 
 **Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and the strike is a transaction: what it opens in the target is what the target could not account for.
 
-**Bearer cost:**Each use is paid in small change the wielder cannot enter in a book: a name, a shopfront, a coin that was in the pocket yesterday.
+**Bearer cost:** Each use is paid in small change the wielder cannot enter in a book: a name, a shopfront, a coin that was in the pocket yesterday.
 
 ### M.A.W. Suit — The Merchant's Veil
 
@@ -233,7 +233,7 @@ The Veil is cut for the stall's kind of trading and the file records no other us
 
 **Ability:** Wards the Soul against Void pressure and nothing else: the veil is cut for the stall's kind of trading, and the file records no other use for it.
 
-**Bearer cost:**the wearer grows faintly unaccounted for — present, but not entered anywhere — and the second worker reads it rather than the wearer.
+**Bearer cost:** the wearer grows faintly unaccounted for — present, but not entered anywhere — and the second worker reads it rather than the wearer.
 
 ### M.A.W. Stigma — The Merchant's Purse
 
@@ -247,7 +247,7 @@ The Veil is cut for the stall's kind of trading and the file records no other us
 
 **Ability:** Produces a small, useful object at an unexpected time.
 
-**Bearer cost:**Takes a coin, button, or minor memory as payment.
+**Bearer cost:** Takes a coin, button, or minor memory as payment.
 
 *The Merchant's Purse is not manufactured and cannot be requisitioned; the stall gives it, rarely, and the armoury has never identified a condition that predicts one.*
 

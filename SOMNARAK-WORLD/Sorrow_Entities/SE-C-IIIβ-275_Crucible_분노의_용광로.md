@@ -208,7 +208,7 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 **Ability:** Shapes Han more quickly when used against hostile force.
 
-**Bearer cost:**The wielder feels anger toward every object they alter.
+**Bearer cost:** The wielder feels anger toward every object they alter.
 
 ### M.A.W. Suit — The Rage Plate
 
@@ -226,7 +226,7 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body — the physical form and its structural integrity — and it does so by absorbing the shift's held heat rather than deflecting it; the harness is warm to the touch after a watch, and warmest where the wearer has been keeping quiet.
 
-**Bearer cost:**The wearer's reflexes dull. Armoury entries describe it as being armoured by resentment: the plate answers slowly and so does the person inside it, and this is the figure the field rows exist to catch.
+**Bearer cost:** The wearer's reflexes dull. Armoury entries describe it as being armoured by resentment: the plate answers slowly and so does the person inside it, and this is the figure the field rows exist to catch.
 
 ### M.A.W. Stigma — The Rage Charm
 
@@ -240,7 +240,7 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 **Ability:** A minor boon tied to this holding's own nature: it sharpens the wearer's sense of what is being left unsaid, which is useful at the hearth and awkward everywhere else, because the effect does not switch off at the door.
 
-**Bearer cost:**The bearer hears what is not being said in every room they walk into, and the charm has no switch to fit on the door.
+**Bearer cost:** The bearer hears what is not being said in every room they walk into, and the charm has no switch to fit on the door.
 
 *Five charms exist. All five went to Wardens who had complied with the naming order in front of a superior, which is the part of the standing order that is hardest to obey.*
 

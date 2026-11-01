@@ -211,7 +211,7 @@ The seam's light turns toward healing or harm once the bearer names a function. 
 
 **Ability:** Before contact, the bearer declares one of two modes: minor Lament pressure against the Mind — emotional stability and willpower — or a small pain-draw from a willing target. The pain-draw is healing-adjacent but not cost-free; it transfers emotional pressure into the bearer, while a harmful strike awakens the source's grief. The Requiem channels the Healer's signature and can give the target more than asked for, so consent and the declared mode remain mandatory.
 
-**Bearer cost:**On a pain-draw, the bearer absorbs the treated pain; after a strike, the bearer feels the target's sorrow. Extended use builds the care burden that endangered the Kind Healer. This file records its deeper toll as the holding's unwept grief, which brings unexplained weeping that can become ordinary; the cost is charged to the wielder, not the blade.
+**Bearer cost:** On a pain-draw, the bearer absorbs the treated pain; after a strike, the bearer feels the target's sorrow. Extended use builds the care burden that endangered the Kind Healer. This file records its deeper toll as the holding's unwept grief, which brings unexplained weeping that can become ordinary; the cost is charged to the wielder, not the blade.
 
 ### M.A.W. Suit — The Gentle Shroud
 
@@ -231,7 +231,7 @@ Two short pale seams cross the shoulders where a second caregiver rests their ha
 
 **Ability:** Buffers low-grade Lament and protects the Mind — emotional stability and willpower — so the wearer can support a wounded person without taking all the pain alone. Full function requires a second willing caregiver; solo use reduces protection and begins care-overload accumulation.
 
-**Bearer cost:**During active care mode, minor joys become distant; the two shoulder seams remain visible until the pair rests. This file records the deeper numbness on the weeping side of the set as unremitting at the limit, so a colleague checks the wearer at return and withholds reissue when the baseline question cannot be answered.
+**Bearer cost:** During active care mode, minor joys become distant; the two shoulder seams remain visible until the pair rests. This file records the deeper numbness on the weeping side of the set as unremitting at the limit, so a colleague checks the wearer at return and withholds reissue when the baseline question cannot be answered.
 
 ### M.A.W. Stigma — The Gentle Touch
 
@@ -247,7 +247,7 @@ The corresponding item record describes a coin-sized open palm with a short cord
 
 **Ability:** Once per day, consensual touch can relieve a minor physical wound or an immediate panic symptom. It cannot treat a major injury, cure a Fracture, or replace medical work; a witness records both the wound and the follow-up.
 
-**Bearer cost:**The wearer absorbs the pain being healed; the ache never fully fades.
+**Bearer cost:** The wearer absorbs the pain being healed; the ache never fully fades.
 
 *Fourteen touches exist. Each was formed at an authorised treatment and given to the attendant who timed the shudder afterwards, never to the person who was healed.*
 

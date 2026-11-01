@@ -205,7 +205,7 @@ A bright tonal shimmer lies across the flat and fades into sorrow as the hilt is
 
 **Ability:** Lament damage to the mind, carrying the Echo's own signature — joy heard from outside, after the fact — and what it opens in a target is the sense that the good hour they are standing in is already over.
 
-**Bearer cost:**The wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing.
+**Bearer cost:** The wielder carries the Echo's unwept grief and weeps involuntarily, most often immediately after laughing.
 
 **Requiem care:** A willing witness names the connected joy and absence with the bearer. Mocking grief or forcing cheer silences the blade and turns its output into an internal ache; that is a rejection, not a reason to strike again for a tone. Store the Requiem in a sound-damp case rather than a recording vault. For shutdown the witness covers the hilt chime, names the loss and sheathes it. Snapping the blade spreads a laugh-to-grief loop among nearby listeners, so destruction is not the recorded return procedure.
 
@@ -227,7 +227,7 @@ Small bell-like folds run the hem, each holding a slightly different curve; the 
 
 **Ability:** Lament is turned aside from the mind rather than from the body, and the mind is the only place this holding presses: a worker in the shroud can sit a whole turn of the sound without standing up at the moment it turns.
 
-**Bearer cost:**The wearer goes numb to small pleasures and reports it first as other people's jokes arriving as information.
+**Bearer cost:** The wearer goes numb to small pleasures and reports it first as other people's jokes arriving as information.
 
 **Shroud care:** The cloth holds resonance, not ownership of the community’s actual laughter. Choose a communal witness who can distinguish relief from emotional shutdown. Flat folds mark the attempt to avoid sadness and loss of Lament protection; they are not evidence that the source loop has fallen silent. After use, acknowledge an actual happy memory and a loss-memory, then hang the garment in its open Commons case. For shutdown the witness folds the hem inward, names the final note and removes it; cutting the folds releases a scattered laugh-loop.
 
@@ -245,7 +245,7 @@ The surface is smooth and carries no visible clapper, and the bell stays silent 
 
 **Ability:** Creates a brief field of genuine emotional relief.
 
-**Bearer cost:**The relief ends by replaying a memory of what has been lost.
+**Bearer cost:** The relief ends by replaying a memory of what has been lost.
 
 *The bell is not manufactured. Risus gives one to a worker who heard their own laugh in the loop and stayed in the room, and has given none to anyone who went looking for the source.*
 

@@ -230,7 +230,7 @@ The alloy is cut with crystal taken from the bell's rim, and the blade keeps the
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Tollcut channels The Orphaned Bell's lament signature, causing soundless shockwaves that shatter the composure of connected targets. The pattern needs a mark: the primary target must carry a recent loss, a spoken name, or active Lament pressure, and a target without an active grief link takes only the blade's lower value and produces no name-record at all.
 
-**Bearer cost:**The wielder feels the entity's unwept grief; three consecutive swings blur one personal childhood memory until written down or spoken aloud. The blade is extracted only after an approved Named Vigil — the bearer carries a documented name through one complete toll sequence and does not try to stop the sound — and afterwards the Bell does not weaken visibly while the person who stood the vigil does. A bearer who turns the blade on a memory, on a witness, or on somebody for mourning hears the Bell without pause: the edge stays sharp and every strike is redirected inward as Lament pressure until the piece goes back to the tower.
+**Bearer cost:** The wielder feels the entity's unwept grief; three consecutive swings blur one personal childhood memory until written down or spoken aloud. The blade is extracted only after an approved Named Vigil — the bearer carries a documented name through one complete toll sequence and does not try to stop the sound — and afterwards the Bell does not weaken visibly while the person who stood the vigil does. A bearer who turns the blade on a memory, on a witness, or on somebody for mourning hears the Bell without pause: the edge stays sharp and every strike is redirected inward as Lament pressure until the piece goes back to the tower.
 
 ### M.A.W. Suit — The Lament's Shroud
 
@@ -250,7 +250,7 @@ The Shroud is vigil-restricted issue for the same reason it is gifted: it is cut
 
 **Ability:** *Listener's Margin* grants resistance to Lament damage by storing one named memory in the Shroud's hem rather than letting it overwrite the wearer's short-term recall. It can hold three unrecorded names; at a fourth, all stored names speak at once inside the wearer's thoughts.
 
-**Bearer cost:**The wearer becomes numb to minor joys; the armoury note is that nobody has ever filed it as a loss, which is exactly what this cost looks like from the inside.
+**Bearer cost:** The wearer becomes numb to minor joys; the armoury note is that nobody has ever filed it as a loss, which is exactly what this cost looks like from the inside.
 
 ### M.A.W. Stigma — Lament's Edge
 
@@ -266,7 +266,7 @@ Lament's Edge is a memory anchor for the Bell's named grief and never a purchase
 
 **Ability:** When a nearby person suppresses a grief-linked memory, the charm grows heavy and points toward their chest, revealing the act of hiding without revealing the memory. Once per day, *Remembered Strike* lets the bearer name a recorded missing person before striking a marked target, disorienting them and reducing combat response for one turn.
 
-**Bearer cost:**The bearer hears the Bell's midnight toll whenever they leave a child's question unanswered, strongest around abandoned records, unregistered districts and sealed Archive pages.
+**Bearer cost:** The bearer hears the Bell's midnight toll whenever they leave a child's question unanswered, strongest around abandoned records, unregistered districts and sealed Archive pages.
 
 *The charm is not issued from stores. It turns up on a worker who has completed a full toll standing, and the armoury records four percent of such watches and no pattern in which four.*
 

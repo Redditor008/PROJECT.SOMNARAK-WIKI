@@ -187,7 +187,7 @@ The table is read against the register rather than against the gauge, because on
 
 **Ability:** Deals Lament damage to the mind. The requiem channels grief for something that has not happened, and the certainty it opens is not fear but information: a target under it reports having been told rather than warned, which is the state the shroud exists to let a worker finish the session in.
 
-**Bearer cost:**The wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health.
+**Bearer cost:** The wielder carries the entity's unwept grief and weeps involuntarily, generally for somebody who is in the room and in good health.
 
 ### M.A.W. Suit — The Melted Shroud
 
@@ -205,7 +205,7 @@ The table is read against the register rather than against the gauge, because on
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies; it has never struck anybody. The shroud is what allows a worker to be shown a future loss, write it in the register and go home, and the numbness it leaves is the price of that and is entered as such.
 
-**Bearer cost:**The wearer goes numb to small pleasures, and reports it first as an inability to enjoy anything that is going to end — which on this wing is most things, and is the cost in the form the duty officer actually has to act on.
+**Bearer cost:** The wearer goes numb to small pleasures, and reports it first as an inability to enjoy anything that is going to end — which on this wing is most things, and is the cost in the form the duty officer actually has to act on.
 
 ### M.A.W. Stigma — The Melted Halo
 
@@ -219,7 +219,7 @@ The table is read against the register rather than against the gauge, because on
 
 **Ability:** Reveals approaching emotional danger.
 
-**Bearer cost:**The wearer grieves possible futures before they happen.
+**Bearer cost:** The wearer grieves possible futures before they happen.
 
 *The halo is given and never made. It appears on a worker who was shown a death, wrote it in the register, and did not go and warn anybody — the file records that no worker who acted on a vision has ever been given one, however well the action turned out.*
 

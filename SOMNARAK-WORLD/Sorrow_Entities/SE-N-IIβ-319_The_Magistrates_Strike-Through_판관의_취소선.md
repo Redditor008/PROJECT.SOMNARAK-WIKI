@@ -195,7 +195,7 @@ The tip does not cut flesh; it strikes through intent. When driven into an enemy
 
 **Ability:** *Strike From Record* — Attacks deal Void damage directly to enemy intent. On hit, reduces target's attack power by -2 for 2 turns as their aggressive purpose is erased.
 
-**Bearer cost:**The wielder forgets common nouns and proper names during combat shifts.
+**Bearer cost:** The wielder forgets common nouns and proper names during combat shifts.
 
 ### M.A.W. Suit — The Cancelled Robe
 
@@ -213,7 +213,7 @@ The tip does not cut flesh; it strikes through intent. When driven into an enemy
 
 **Ability:** Superior defense against Void and psychological mind attacks. Reduces psychic panic duration by 50% across the wearer.
 
-**Bearer cost:**The wearer's physical presence feels faint; allies frequently look past them without noticing they are speaking.
+**Bearer cost:** The wearer's physical presence feels faint; allies frequently look past them without noticing they are speaking.
 
 ### M.A.W. Stigma — The Lime Thumb
 
@@ -227,7 +227,7 @@ The tip does not cut flesh; it strikes through intent. When driven into an enemy
 
 **Ability:** Enhances analytical detachment, preventing cognitive breakdown during severe mental pressure.
 
-**Bearer cost:**The wearer's voice becomes permanently hoarse and raspy, reduced to a dry whisper.
+**Bearer cost:** The wearer's voice becomes permanently hoarse and raspy, reduced to a dry whisper.
 
 ### M.A.W. Use Notes
 

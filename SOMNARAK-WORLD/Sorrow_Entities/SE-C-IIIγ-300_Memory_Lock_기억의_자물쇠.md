@@ -192,7 +192,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and carries the source's signature: the strike does not take a memory so much as put it out of reach, and the target can still name exactly what has gone.
 
-**Bearer cost:**The wielder loses small, nameless memories with each use.
+**Bearer cost:** The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Secret Veil
 
@@ -210,7 +210,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 **Ability:** Turns Void damage aside from the Soul — identity, memory and the sense of the self — which is the pressure this holding applies and the only kind it has. The veil is the piece the armoury is least uneasy about, concealment of the person being what the vault already does.
 
-**Bearer cost:**The wearer feels faintly absent to themselves.
+**Bearer cost:** The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Secret Key
 
@@ -224,7 +224,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 **Ability:** Opens one sealed memory, once, for the bearer alone; the vault records the withdrawal and the plate never closes the same way twice.
 
-**Bearer cost:**The bearer pays with a memory of their own, chosen by the plate and not by them, and the exchange does not reverse: the key opens, and something of the bearer's becomes unavailable in its place.
+**Bearer cost:** The bearer pays with a memory of their own, chosen by the plate and not by them, and the exchange does not reverse: the key opens, and something of the bearer's becomes unavailable in its place.
 
 *The Secret Key is not manufactured and cannot be requisitioned; the Lock confers it rarely, and in every recorded case on a worker who had declined an opportunity to learn something they were entitled to learn.*
 

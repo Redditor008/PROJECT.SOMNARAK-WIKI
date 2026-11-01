@@ -205,7 +205,7 @@ A central fuller runs two-thirds of the blade and carries four ceremonial mercy 
 
 **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — in the holding's own dulled register: no ringing, no rebound, and the weight arrives after the blow does, because inside the field everything issued arrives late.
 
-**Bearer cost:**The wielder grows progressively heavier with each strike, and prolonged use ages them slightly; both figures are entered against the piece at the end of the rotation rather than carried by the bearer's own estimate.
+**Bearer cost:** The wielder grows progressively heavier with each strike, and prolonged use ages them slightly; both figures are entered against the piece at the end of the rotation rather than carried by the bearer's own estimate.
 
 ### M.A.W. Suit — The Frozen Mantle
 
@@ -223,7 +223,7 @@ A central fuller runs two-thirds of the blade and carries four ceremonial mercy 
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Broken Clocktower's kind of pressure.
 
-**Bearer cost:**the fatigue does not lift for the length of the rotation, and the mantle is taken off the wearer at the port by somebody else, because the wearer's own reading of how heavy it has grown is the one this file does not trust.
+**Bearer cost:** the fatigue does not lift for the length of the rotation, and the mantle is taken off the wearer at the port by somebody else, because the wearer's own reading of how heavy it has grown is the one this file does not trust.
 
 ### M.A.W. Stigma — The Frozen Minute
 
@@ -237,7 +237,7 @@ A central fuller runs two-thirds of the blade and carries four ceremonial mercy 
 
 **Ability:** Slows perception for one brief interval.
 
-**Bearer cost:**The user loses an equivalent portion of lifespan.
+**Bearer cost:** The user loses an equivalent portion of lifespan.
 
 *Nine charms exist. Each was given after a full Ferrehan watch completed on the clock rather than on the wearer's judgement of when it had been long enough.*
 

@@ -190,7 +190,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Ability:** Deals Void damage against the Soul — identity, memory and sense of self — and channels the holding's own signature: the target is left certain of a duty nobody has been able to name, which is the condition the chains impose on the room.
 
-**Bearer cost:**Small nameless memories go with each use — a room without a door, a day that will not account for itself — and the loss is permanent, filed against the bearer rather than the piece.
+**Bearer cost:** Small nameless memories go with each use — a room without a door, a day that will not account for itself — and the loss is permanent, filed against the bearer rather than the piece.
 
 **Lens authority boundary:** The Weapon’s source-trace describes attribution before uncoupling an immediate hazard. That language supplies no new power to cut the chamber’s chains. Naming every link leaves the withdrawal of cutting authority exactly where the Apex record puts it; the obstructed corridor still requires the long route. Keep the bearer’s lost small memories on their own return sheet, not among the municipal undertakings used to identify a link. The named-witness shutdown in the item record preserves that distinction while the Lens is relinquished. It does not restore the missing hours or remove a metre from the survey.
 
@@ -210,7 +210,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Ability:** Grants resistance to Void damage and protects the Soul — identity, memory and sense of self — worn against this holding's particular pressure: nothing here strikes the body, and what the veil actually buys is a worker who can stand in the room without taking on a duty the chains have been holding for them.
 
-**Bearer cost:**The wearer thins against their own account: not forgotten, not changed, simply fainter to themselves in a way colleagues notice before the bearer does.
+**Bearer cost:** The wearer thins against their own account: not forgotten, not changed, simply fainter to themselves in a way colleagues notice before the bearer does.
 
 **Veil watch comparison:** Compare two different accounts at withdrawal: whether the room felt comfortably safe, and whether the wearer still feels present in their own week. The first belongs to this holding’s comfort screen; the second is the Suit’s cost. A heavy hem may locate the ambient line but answers neither question. Preserve a first-person account of the district’s source event as the individual Suit’s corrosion warning, rather than correcting the speaker’s words into an ordinary recollection. Relinquishing the Veil does not justify extending the watch or skipping the route that avoids the links.
 
@@ -226,7 +226,7 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Ability:** Reveals invisible bonds and restraints.
 
-**Bearer cost:**The wielder feels every bond they cannot escape.
+**Bearer cost:** The wielder feels every bond they cannot escape.
 
 **Lantern reading:** This piece reveals bonds while making the bearer feel the ones they cannot escape. Keep what was seen beside what was felt, with the undertaking named where it is known and left unknown where it is not. Neither account substitutes for the outside surveyor’s extent in metres or makes an open link a lock. A bearer who starts speaking the district’s history as their own has reached the warning in the individual Stigma record, not gained a better claim to interpret every obligation in the room. Record the unresolved bond without testing it by severance.
 

@@ -226,7 +226,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Ability:** Void against the soul. The target feels like a guest wherever they are — in their own quarters, at their own desk — for about a day. Fourteen strikes, and the only variation in the accounts is how long it took the target to mention it.
 
-**Bearer cost:**Small nameless memories, and the first to go is always which rooms the wielder is entitled to enter. They keep the map and lose the permission.
+**Bearer cost:** Small nameless memories, and the first to go is always which rooms the wielder is entitled to enter. They keep the map and lose the permission.
 
 ### M.A.W. Suit — The Shadow Veil
 
@@ -244,7 +244,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Ability:** *Held Room* — strongly resists Void inside one witnessed location by making the room feel inhabitable rather than abandoned. When the threshold witness names the wearer and confirms an open exit, the Veil repels one wave of room-to-room drift. It supports the occupancy; it is not what makes sitting the shift possible, and it needs the second person at the doorway.
 
-**Bearer cost:**The wearer calls their own quarters *the accommodation*. Three wielders, three identical phrasings, none of them aware of having changed the word.
+**Bearer cost:** The wearer calls their own quarters *the accommodation*. Three wielders, three identical phrasings, none of them aware of having changed the word.
 
 ### M.A.W. Stigma — The Shadow Hearth
 
@@ -258,7 +258,7 @@ The blade's heavy forward balance generates tremendous chopping velocity in clos
 
 **Ability:** *Let It Settle* — creates a small low-light area where displaced sorrow can settle, only while a person consents to remain in the circle and a follow-up witness has accepted the later account. It cannot confine anyone or substitute for actual shelter.
 
-**Bearer cost:**The wearer carries the settled grief after the light goes out.
+**Bearer cost:** The wearer carries the settled grief after the light goes out.
 
 *Seven in nine years, every one to a worker who sat out a full shift in the assigned room. Nobody who has driven it out of a room has ever received anything, including the two workers who did so correctly under orders.*
 

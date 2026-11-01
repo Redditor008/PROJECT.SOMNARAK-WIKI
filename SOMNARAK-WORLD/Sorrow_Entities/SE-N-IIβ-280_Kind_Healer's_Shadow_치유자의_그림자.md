@@ -185,7 +185,7 @@ Capillary fullers are etched into the flat in the layout of a ward dosing chart,
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Kind Healer's Shadow's lament signature in the strike.
 
-**Bearer cost:**The wielder hears the Commons call bell at the cleaver's pitch when the bell is not ringing, and checks the corridor to be sure.
+**Bearer cost:** The wielder hears the Commons call bell at the cleaver's pitch when the bell is not ringing, and checks the corridor to be sure.
 
 ### M.A.W. Suit — The Healer's Shroud
 
@@ -204,7 +204,7 @@ The linen holds no crease and takes no stain; Lament beads run off it and leave 
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Kind Healer's Shadow's kind of pressure.
 
-**Bearer cost:**The wearer becomes numb to minor joys.
+**Bearer cost:** The wearer becomes numb to minor joys.
 
 ### M.A.W. Stigma — The Healer's Echo
 
@@ -218,7 +218,7 @@ The linen holds no crease and takes no stain; Lament beads run off it and leave 
 
 **Ability:** Causes minor wounds to close over time.
 
-**Bearer cost:**The wearer absorbs the pain of the healing.
+**Bearer cost:** The wearer absorbs the pain of the healing.
 
 *Nothing issues the Healer's Echo and no request can be made for one. It has gone out twice, both times to a Warden who sat a whole Ferrehan cycle at a bedside and filed the patient's notes before her own.*
 

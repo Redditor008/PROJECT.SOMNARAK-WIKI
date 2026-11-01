@@ -202,7 +202,7 @@ Escalation here is the longing-field expanding during activation, not the carvin
 
 **Ability:** Deals Lament damage, attacking the Mind (composure, certainty of being grounded). A thrust cast upward — the target feels the lurch of sudden, unwanted flight, and the worse lurch of the fall.
 
-**Bearer cost:**The wielder, for days, feels the ache of wings they do not have, and glances too often at the sky.
+**Bearer cost:** The wielder, for days, feels the ache of wings they do not have, and glances too often at the sky.
 
 ### M.A.W. Suit — The Glider's Mantle
 
@@ -219,7 +219,7 @@ Escalation here is the longing-field expanding during activation, not the carvin
 
 **Ability:** A mantle of stone-feathers that absorbs Lament pressure and shields the wearer's composure against the pull of the sky. It is strongest against the very longing it is made of.
 
-**Bearer cost:**The wearer grows restless on the ground — pacing, climbing, choosing high rooms — unable to settle.
+**Bearer cost:** The wearer grows restless on the ground — pacing, climbing, choosing high rooms — unable to settle.
 
 ### M.A.W. Stigma — The Glowing Eye
 
@@ -232,7 +232,7 @@ Escalation here is the longing-field expanding during activation, not the carvin
 
 **Ability:** An eye-stone that flares warm in the presence of a deep, unspoken longing — warning the bearer of wishes too large to be granted safely.
 
-**Bearer cost:**The bearer dreams, nightly, of flying — and wakes, each morning, on the ground, and grieves a thing they cannot name.
+**Bearer cost:** The bearer dreams, nightly, of flying — and wakes, each morning, on the ground, and grieves a thing they cannot name.
 
 *The Glowing Eye is not manufactured and cannot be requisitioned. It has been conferred four times, in each case on a worker who ended a channel at the limit without being told, and declined the second channel afterwards.*
 

@@ -193,7 +193,7 @@ The clear water trickling within the shrine never overflows its drainage trough.
 
 **Ability:** Grudge damage to the body, delivered as weight rather than as a blow. The shrine carries the entity's self-blame into the strike and falls hardest on anyone it has already decided to shelter.
 
-**Bearer cost:**Old wounds ache and faint bruising rises, in the pattern of a load carried across the shoulders.
+**Bearer cost:** Old wounds ache and faint bruising rises, in the pattern of a load carried across the shoulders.
 
 ### M.A.W. Suit — Cenotaph Plate
 
@@ -213,7 +213,7 @@ Shared load channels run shoulder to shoulder, each traced to a named team membe
 
 **Ability:** Turns Grudge aside from the body, which is the only damage this entity delivers. The plate is what permits a worker to be standing on the span when it gives way.
 
-**Bearer cost:**Reflexes dull and the wearer becomes slow to step off a surface that has started to move, which on this post is the exact hesitation the entity punishes.
+**Bearer cost:** Reflexes dull and the wearer becomes slow to step off a surface that has started to move, which on this post is the exact hesitation the entity punishes.
 
 ### M.A.W. Stigma — Cenotaph Ring
 
@@ -229,7 +229,7 @@ The Ring holds manipulation aside without holding true loss away. Treating real 
 
 **Ability:** Prevents emotional manipulation during rescue work.
 
-**Bearer cost:**The wearer feels every person they cannot save.
+**Bearer cost:** The wearer feels every person they cannot save.
 
 *The ring is never manufactured. It goes to a worker who said out loud whose responsibility the crossing was, and none has ever gone to a worker who took the whole of it onto themselves.*
 

@@ -246,7 +246,7 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Ability:** Deals Grudge damage against the Body — structure, footing, the integrity of what is standing. The Oak-Blade lands with the dull concussive weight of a shed branch and breaks guard stances rather than cutting through them.
 
-**Bearer cost:**The wielder's old injuries ache in the days after use, and prolonged carriage leaves faint bruising along the forearms that no impact accounts for.
+**Bearer cost:** The wielder's old injuries ache in the days after use, and prolonged carriage leaves faint bruising along the forearms that no impact accounts for.
 
 ### M.A.W. Suit — Sleeping Tree Plate
 
@@ -264,7 +264,7 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against weight, impact and the slow compression this source specialises in. The Plate is rated for falling mass as well as for grudge, which is the pairing this holding actually requires.
 
-**Bearer cost:**The wearer's reflexes dull by a measurable fraction, as though armoured in patience; wearers describe seeing a thing coming and declining, briefly, to move.
+**Bearer cost:** The wearer's reflexes dull by a measurable fraction, as though armoured in patience; wearers describe seeing a thing coming and declining, briefly, to move.
 
 ### M.A.W. Stigma — Sleeping Tree Bracelet
 
@@ -278,7 +278,7 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Ability:** Conceals the wearer's movement and emotional presence.
 
-**Bearer cost:**The wearer becomes difficult to remember.
+**Bearer cost:** The wearer becomes difficult to remember.
 
 *The Bracelet is given, never made. It is offered after a successful cycle at the source's discretion, which on this holding means it is offered by something asleep, and no procedure compels it.*
 

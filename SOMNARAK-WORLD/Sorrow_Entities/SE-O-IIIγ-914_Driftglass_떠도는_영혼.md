@@ -237,7 +237,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Ability:** Lament damage to the mind. The pike carries the record's signature — an arrival that never resolves into recognition — and what it opens in a target is the conviction that the ground under them belongs to somebody else's journey, and that they are the one who wandered into it.
 
-**Bearer cost:**The wielder carries its unwept grief and weeps involuntarily, most often on returning home at the end of a rotation.
+**Bearer cost:** The wielder carries its unwept grief and weeps involuntarily, most often on returning home at the end of a rotation.
 
 ### M.A.W. Suit — Driftglass Shroud
 
@@ -255,7 +255,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure here. The shroud does not stop the wearer reading every corridor as open; it stops the reading from mattering, which is what allows a walker to stay beside the drift for hours without needing to know where either of them is going.
 
-**Bearer cost:**The wearer stops minding small pleasures and starts describing their own quarters as a place they pass through; walkers who have worn the shroud for a full season are the ones who ask for the posting again.
+**Bearer cost:** The wearer stops minding small pleasures and starts describing their own quarters as a place they pass through; walkers who have worn the shroud for a full season are the ones who ask for the posting again.
 
 ### M.A.W. Stigma — Driftglass Lantern
 
@@ -269,7 +269,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Ability:** Reveals safe routes through unfamiliar sorrow.
 
-**Bearer cost:**The user feels every place they have left behind.
+**Bearer cost:** The user feels every place they have left behind.
 
 *The lantern is not manufactured. Driftglass gives one to a worker who walked a full transit without once suggesting a turning, and has given none to anybody who held a door.*
 

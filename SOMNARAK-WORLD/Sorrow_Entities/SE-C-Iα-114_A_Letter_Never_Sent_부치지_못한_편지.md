@@ -195,7 +195,7 @@ The blade is bloodless-cold, leaving frost rimes along wound channels. When swun
 
 **Ability:** *Belated Regard* — Attacks deal Lament damage, targeting the mind. On critical hit, inflicts -2 Speed on target as phantom regret burdens their legs.
 
-**Bearer cost:**The wielder's fingers remain ice-cold for an hour after combat.
+**Bearer cost:** The wielder's fingers remain ice-cold for an hour after combat.
 
 ### M.A.W. Suit — The Dispatch Greatcoat
 
@@ -213,7 +213,7 @@ The blade is bloodless-cold, leaving frost rimes along wound channels. When swun
 
 **Ability:** Grants superior resistance to Lament pressure. When the wearer's Composure falls below 30%, releases a faint blue chime that restores 5 Composure.
 
-**Bearer cost:**The wearer feels the relentless ticking of a station countdown clock in their chest.
+**Bearer cost:** The wearer feels the relentless ticking of a station countdown clock in their chest.
 
 ### M.A.W. Stigma — The Blue Wax Stamp
 
@@ -227,7 +227,7 @@ The blade is bloodless-cold, leaving frost rimes along wound channels. When swun
 
 **Ability:** Protects the wearer from sudden panic spikes caused by environmental isolation.
 
-**Bearer cost:**The wearer compulsively pats their chest pocket to check for an unsent letter.
+**Bearer cost:** The wearer compulsively pats their chest pocket to check for an unsent letter.
 
 ### M.A.W. Use Notes
 

@@ -221,7 +221,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Ability:** Lament against the Mind. What it opens in a target is everything they have kept off the floor — the private version of a public year — and the eleven struck workers all described the same sensation of being read back to themselves.
 
-**Bearer cost:**The wielder carries its unwept grief and weeps involuntarily, most often in public and mid-sentence.
+**Bearer cost:** The wielder carries its unwept grief and weeps involuntarily, most often in public and mid-sentence.
 
 ### M.A.W. Suit — The Sunken Shroud
 
@@ -239,7 +239,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure here. What it buys is a full session on the crystal with the wearer still able to speak normally, which without it lasts about an hour.
 
-**Bearer cost:**The wearer goes numb to small pleasures and finds the Market's noise — which is mostly cheerful — hard to be in. Two of the three asked to be moved to a quieter posting and neither connected the request to the set.
+**Bearer cost:** The wearer goes numb to small pleasures and finds the Market's noise — which is mostly cheerful — hard to be in. Two of the three asked to be moved to a quieter posting and neither connected the request to the set.
 
 ### M.A.W. Stigma — The Sunken Root
 
@@ -253,7 +253,7 @@ Compressed gas cylinders discharge the harpoon with bone-crushing force up to th
 
 **Ability:** Reveals hidden emotional roots beneath a person's public identity.
 
-**Bearer cost:**The wearer becomes unable to maintain a false expression.
+**Bearer cost:** The wearer becomes unable to maintain a false expression.
 
 *Nine in eleven years, every one to a worker who read something true aloud on the floor with traders listening. None has gone to anybody who read to an empty aisle, and 41 cycles were worked that way.*
 

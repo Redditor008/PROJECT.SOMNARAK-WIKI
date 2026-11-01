@@ -158,7 +158,7 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 
 **Damage:** Weight 11–21 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Weight against the Body. Struck targets' breathing slows to nine a minute for about an hour; fourteen strikes, fourteen identical rates, and no reported distress in any of them.
-**Bearer cost:**The wielder keeps the wall's rate for the rest of the shift — nine a minute, unnoticed, until somebody else counts it.
+**Bearer cost:** The wielder keeps the wall's rate for the rest of the shift — nine a minute, unnoticed, until somebody else counts it.
 
 ### M.A.W. Suit — Breathing Stone's Veil
 

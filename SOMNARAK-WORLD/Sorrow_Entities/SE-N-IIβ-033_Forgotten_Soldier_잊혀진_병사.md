@@ -193,7 +193,7 @@ The behavior table is a snapshot and not a system, and the classification and or
 
 **Ability:** Deals Grudge damage against the Body (physical form, structural integrity), channeling the signature the schedule sealed; it lands on load-bearing frames the way he lands on doors.
 
-**Bearer cost:**The wielder's old wounds ache, and the ache is entered against them on the same page as the salute, whether the piece was used correctly or not.
+**Bearer cost:** The wielder's old wounds ache, and the ache is entered against them on the same page as the salute, whether the piece was used correctly or not.
 
 **Fang return check:** Its individual record adds faint bruising under prolonged use and identifies speaking of the Soldier’s event in first person as a failure sign. Cleaning or rest follows attribution review, with the bearer, trigger, source response, cost and unresolved detail retained. A named witness states the source title and event as the wielder relinquishes the Fang. That item shutdown does not refund the cost or replace the primary record’s rotation stand-down.
 
@@ -213,7 +213,7 @@ The behavior table is a snapshot and not a system, and the classification and or
 
 **Ability:** Grudge pressure that reaches the wearer meets the plate first, and the plate does not yield: it protects the Body (physical form, structural integrity) against the same force he has been standing in since the roll was sealed.
 
-**Bearer cost:**The wearer's reflexes dull, as if the harness were standing them at attention, and that dulling is what the four decades of stand-downs have in common.
+**Bearer cost:** The wearer's reflexes dull, as if the harness were standing them at attention, and that dulling is what the four decades of stand-downs have in common.
 
 **Plate attribution:** The individual Suit record treats the source sorrow becoming autobiographical as a risk, not proof that the wearer has earned the Soldier’s service. Its recorded progression runs from first-person identification to a source response repeated outside contact. A named witness states the title and event while the Plate is relinquished; maintenance waits for attribution review. The second worker’s baseline comparison still governs the primary account’s stand-down, including dulling that outlasts wear.
 
@@ -229,7 +229,7 @@ The behavior table is a snapshot and not a system, and the classification and or
 
 **Ability:** Deals increased damage to oath-breakers and those who abandoned their duties.
 
-**Bearer cost:**The wielder experiences the Soldier's frustration—the anger of being forgotten.
+**Bearer cost:** The wielder experiences the Soldier's frustration—the anger of being forgotten.
 
 *The Duty Blade — Accessory (Stigma) — is never issued and cannot be requested. It appears after a watch in which somebody said the words unprompted, and never after one in which the words came off an instruction card.*
 

@@ -215,7 +215,7 @@ Escalation here is measured on the card, not on the gauge: the strip is graded b
 
 **Ability:** Deals Weight damage against the Han (sorrow reserves, karmic debt); the strike carries the holding's own figure, sixty-one millimetres of depth in nineteen millimetres of steel, and the armoury enters it as a transcription rather than a trial.
 
-**Bearer cost:**The wielder feels progressively heavier — a weight the tray scale never registers — and prolonged use ages them slightly; the file keeps both figures and reconciles neither.
+**Bearer cost:** The wielder feels progressively heavier — a weight the tray scale never registers — and prolonged use ages them slightly; the file keeps both figures and reconciles neither.
 
 ### M.A.W. Suit — The Void Mantle
 
@@ -233,7 +233,7 @@ Escalation here is measured on the card, not on the gauge: the strip is graded b
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Empty Mask's kind of pressure.
 
-**Bearer cost:**A constant low fatigue the wearer attributes to the shift rather than the coat; the second worker keeps the hour it is first mentioned and reads the entry against the tray log.
+**Bearer cost:** A constant low fatigue the wearer attributes to the shift rather than the coat; the second worker keeps the hour it is first mentioned and reads the entry against the tray log.
 
 ### M.A.W. Stigma — The Void Mask
 
@@ -247,7 +247,7 @@ Escalation here is measured on the card, not on the gauge: the strip is graded b
 
 **Ability:** Makes the wearer unrecognizable.
 
-**Bearer cost:**The wearer slowly loses their own identity.
+**Bearer cost:** The wearer slowly loses their own identity.
 
 *Eight charms exist and three are worn. The acquisition record notes, without comment, that the five declined were declined by the five workers with children named on their file.*
 

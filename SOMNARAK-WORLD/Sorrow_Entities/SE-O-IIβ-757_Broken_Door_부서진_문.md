@@ -200,7 +200,7 @@ Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly 
 
 **Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and those hit report the sound of a door closing somewhere behind them.
 
-**Bearer cost:**The wielder's old injuries ache and prolonged use leaves faint bruising across the shoulder, as though from leaning on something that gave way.
+**Bearer cost:** The wielder's old injuries ache and prolonged use leaves faint bruising across the shoulder, as though from leaning on something that gave way.
 
 ### M.A.W. Suit — The Broken Plate
 
@@ -218,7 +218,7 @@ Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly 
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against the force of enforced separation. The rating is modest and the protection is specific, and the file recommends it for threshold work rather than for engagements.
 
-**Bearer cost:**The wearer's reflexes dull and their leave-takings shorten. Wearers stop saying goodbye properly, first at work and then elsewhere, and are generally unaware of having changed.
+**Bearer cost:** The wearer's reflexes dull and their leave-takings shorten. Wearers stop saying goodbye properly, first at work and then elsewhere, and are generally unaware of having changed.
 
 ### M.A.W. Stigma — The Broken Hinge
 
@@ -232,7 +232,7 @@ Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly 
 
 **Ability:** Prevents forced separation for a short time.
 
-**Bearer cost:**The wearer feels every departure occurring nearby.
+**Bearer cost:** The wearer feels every departure occurring nearby.
 
 *Four Stigmas have come from this source in six years and all four appeared on the hand that was nearest the frame. None was requested, none was refused, and the Gardens office records them as the holding's only outward act.*
 

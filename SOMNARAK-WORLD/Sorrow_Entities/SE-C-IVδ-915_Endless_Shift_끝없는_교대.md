@@ -161,7 +161,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 
 **Damage:** Weight 11–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Weight against the Han. Struck targets lose their sense of how long the engagement lasted and will defend a figure that is out by half, which has twice complicated an incident report into uselessness.
-**Bearer cost:**The wielder's own account of how long the shift lasted is out by half, and the cutlass does not say in which direction.
+**Bearer cost:** The wielder's own account of how long the shift lasted is out by half, and the cutlass does not say in which direction.
 
 ### M.A.W. Suit — Endless Shift's Veil
 

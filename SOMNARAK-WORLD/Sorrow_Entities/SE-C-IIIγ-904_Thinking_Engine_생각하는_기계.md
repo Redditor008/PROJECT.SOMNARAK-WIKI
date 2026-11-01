@@ -203,7 +203,7 @@ Escalation here is extension into live work. Record the first altered return, th
 
 **Damage:** Lament 14–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Lament against the Mind. Struck targets arrive at a true conclusion they had no evidence for; fourteen strikes, eleven verified conclusions, and three that were wrong and were defended at length.
-**Bearer cost:**The wielder starts arriving at conclusions the same way the blade hands them over: whole, unargued, and with nothing to point at that produced them.
+**Bearer cost:** The wielder starts arriving at conclusions the same way the blade hands them over: whole, unargued, and with nothing to point at that produced them.
 
 **Edge custody:** Keep the selected-target strike separate from the Engine’s sector-wide record alteration; the linked item specifies a single target at full damage, not a room-wide prediction attack. Log headache, source attribution and any conclusion offered without reasons before cleaning or resting the blade. If the bearer starts describing Seol’s loss as their own, the named witness states the source and event while the bearer relinquishes the piece; shutdown does not refund the cost. The local pale-crystal single edge and the index’s gear-toothed slab have no documented exchange of form. A missing reconciliation is not permission to bolt a cog onto this blade or call its pulse a new mechanism.
 

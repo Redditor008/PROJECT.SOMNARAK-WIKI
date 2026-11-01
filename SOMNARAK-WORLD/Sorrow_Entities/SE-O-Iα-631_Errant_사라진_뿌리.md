@@ -188,7 +188,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Ability:** Weight damage against the Han, and a specific after-effect that the Armoury has logged on every one of the nineteen recorded strikes: the target cannot, for some minutes afterward, remember the name of the street they currently live on. It returns. Nobody has yet been struck twice.
 
-**Bearer cost:**The wielder grows heavier by degrees and prolonged use ages them slightly — a small charge by the wing's standards, and one that has never been observed to reverse between postings.
+**Bearer cost:** The wielder grows heavier by degrees and prolonged use ages them slightly — a small charge by the wing's standards, and one that has never been observed to reverse between postings.
 
 ### M.A.W. Suit — The Rootless Mantle
 
@@ -206,7 +206,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Ability:** Resistance to Weight against the Han. The wing's note is that it protects best in the room it was issued in and measurably less well elsewhere in the facility, which the Armoury has tested three times and cannot explain.
 
-**Bearer cost:**The wearer stops unpacking. It presents as fatigue and it is not: lockers stay packed, quarters stay bare, and the first two wielders both had their belongings still in crates when the set was recalled for review.
+**Bearer cost:** The wearer stops unpacking. It presents as fatigue and it is not: lockers stay packed, quarters stay bare, and the first two wielders both had their belongings still in crates when the set was recalled for review.
 
 ### M.A.W. Stigma — The Rootless Charm
 
@@ -220,7 +220,7 @@ Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mas
 
 **Ability:** Prevents forced displacement and spatial confusion.
 
-**Bearer cost:**The wearer feels every place they have lost.
+**Bearer cost:** The wearer feels every place they have lost.
 
 *One Stigma in nine years, to a warden in her eleventh year at this facility who had worked the holding twice. The wing records it as the only occasion on which the root has given anything to the person it was least interested in.*
 

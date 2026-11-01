@@ -189,7 +189,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 **Ability:** *Asleep Where They Stand* — the cut does its work on the dream register and leaves the body where it was put. Nothing struck by it has ever woken to fight, and nothing struck by it has needed nursing for the wound.
 
-**Bearer cost:**The wielder sleeps heavily for two nights after use and wakes normally both times. Logged every occasion, never exceeded, and specifically distinguished on the form from the sleep the block itself produces.
+**Bearer cost:** The wielder sleeps heavily for two nights after use and wakes normally both times. Logged every occasion, never exceeded, and specifically distinguished on the form from the sleep the block itself produces.
 
 ### M.A.W. Suit — Unwaking Block's Veil
 
@@ -207,7 +207,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 **Ability:** *Way Out* — the wearer cannot lose the door they came in by. The mantle holds the route and the plan together under Lament pressure, and will not hold either past the threshold the plan was signed at.
 
-**Bearer cost:**The wearer carries Unwaking Block's grief into every quiet moment; small joys feel distant until the suit is removed.
+**Bearer cost:** The wearer carries Unwaking Block's grief into every quiet moment; small joys feel distant until the suit is removed.
 
 ### M.A.W. Stigma — Unwaking Block's Token
 
@@ -221,7 +221,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 **Ability:** *Ninth Door* — it goes cold at a doorway that was not on the last survey. Four parties have trusted it, and every one of them signed the plan outside.
 
-**Bearer cost:**The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present.
+**Bearer cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present.
 
 *A Token is found in a room that appears on one plan only. The surveyor who finds it marks the room and the room is never found again; four pieces, four unrepeatable rooms, each with its single plan filed beside the recovery note.*
 

@@ -192,7 +192,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Ability:** The hammer transfers load rather than delivering it. A struck target carries the blow's weight for the rest of the engagement — movement and actions slowed cumulatively — and sets it down only when the engagement ends. Against a target that is already carrying something it does nothing at all.
 
-**Bearer cost:**The wielder cannot put the hammer down while anyone in their team is still standing. This is not a compulsion they report noticing; it is observed from outside, and four separate squad leads have filed the same note about four different bearers.
+**Bearer cost:** The wielder cannot put the hammer down while anyone in their team is still standing. This is not a compulsion they report noticing; it is observed from outside, and four separate squad leads have filed the same note about four different bearers.
 
 ### M.A.W. Suit — The Bridge Brace
 
@@ -210,7 +210,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Ability:** Supports damaged structures and absorbs collapse pressure.
 
-**Bearer cost:**The wearer feels every person who could not be supported.
+**Bearer cost:** The wearer feels every person who could not be supported.
 
 ### M.A.W. Stigma — The Bridge Charm
 
@@ -224,7 +224,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Ability:** While the fragment is carried, the bearer cannot be the only survivor of an incident — in all four recorded cases where a bearer's team took casualties, the bearer fell with them. The Armoury classes this as a hazard and issues it anyway, at the bearer's written request, which all four gave.
 
-**Bearer cost:**The bearer carries a piece they know the behaviour of in a bad incident, which is the whole price of it: four have been issued and all four were requested in writing.
+**Bearer cost:** The bearer carries a piece they know the behaviour of in a bad incident, which is the whole price of it: four have been issued and all four were requested in writing.
 
 *Four fragments have been issued in nineteen years and every one followed a cycle in which a worker took a share of the thirty-one out loud. The Armoury has never obtained one from a cycle closed any other way.*
 

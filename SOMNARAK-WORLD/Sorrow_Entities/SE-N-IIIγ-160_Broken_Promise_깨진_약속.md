@@ -202,7 +202,7 @@ Escalation here is a Transform expansion of the binding rather than a event of a
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and carries the source's signature: the struck feel the strike as a thing already owed, and it lands hardest on those who meant what they said.
 
-**Bearer cost:**Old injuries ache and prolonged use leaves bruising in the same lines, and the armoury records that the blade takes the ache out of the bearer's own undertaking rather than adding to it.
+**Bearer cost:** Old injuries ache and prolonged use leaves bruising in the same lines, and the armoury records that the blade takes the ache out of the bearer's own undertaking rather than adding to it.
 
 ### M.A.W. Suit — The Promise Plate
 
@@ -220,7 +220,7 @@ Escalation here is a Transform expansion of the binding rather than a event of a
 
 **Ability:** Turns Grudge aside from the Body — physical form and structural integrity — which is the pressure this object applies and the only kind it has. The plate is issued to the terminal crew, and it protects by making the wearer's commitments unreadable to the fragments rather than by hardening anything.
 
-**Bearer cost:**Reflexes dull and the wearer begins answering everything with a qualified yes, which the terminal crew reads as the stand-down sign and the wearer reads as good manners.
+**Bearer cost:** Reflexes dull and the wearer begins answering everything with a qualified yes, which the terminal crew reads as the stand-down sign and the wearer reads as good manners.
 
 ### M.A.W. Stigma — The Promise Shard
 
@@ -234,7 +234,7 @@ Escalation here is a Transform expansion of the binding rather than a event of a
 
 **Ability:** Strengthens a sworn promise — the bearer's spoken undertaking reads to the fragments as the genuine article, which is the only recorded method of getting the arrangement to hold still on request.
 
-**Bearer cost:**The wearer takes physical pain the moment the promise is broken, and the pain arrives wherever the breach occurred rather than where the body was; the file records 3 ledger entries of sureties never discharged.
+**Bearer cost:** The wearer takes physical pain the moment the promise is broken, and the pain arrives wherever the breach occurred rather than where the body was; the file records 3 ledger entries of sureties never discharged.
 
 *The Promise Shard is not issued and cannot be requested. It has been conferred 3 times, in each case on an operative who stated honest uncertainty aloud in the chamber and was not believed by their own team.*
 

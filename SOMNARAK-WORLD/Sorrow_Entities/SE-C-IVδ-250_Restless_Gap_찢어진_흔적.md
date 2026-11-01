@@ -190,7 +190,7 @@ What it throws is incandescent phosphor, and a dark chamber caught by that flare
 
 **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — and carries the source's signature: what the strike takes is not what the target knows but the order they know it in.
 
-**Bearer cost:**The bearer grows progressively heavier across a shift and ages slightly over a long issue; the file notes that neither shows while the bearer is reading from the day book, which is exactly when the charge is being carried.
+**Bearer cost:** The bearer grows progressively heavier across a shift and ages slightly over a long issue; the file notes that neither shows while the bearer is reading from the day book, which is exactly when the charge is being carried.
 
 ### M.A.W. Suit — The Trace Mantle
 
@@ -208,7 +208,7 @@ What it throws is incandescent phosphor, and a dark chamber caught by that flare
 
 **Ability:** Grants resistance to Weight damage, covering the Han — the sorrow a responder holds in reserve, and the karmic debt standing against it. It is worn into Restless Gap’s kind of pressure and does the one thing the Trace cannot — it holds the wearer’s own sequence together, so what the wearer owes stays in the order the wearer put it in.
 
-**Bearer cost:**The wearer picks up a low fatigue that never clears properly, and after a full shift in the Commons it is the fatigue that walks out with them rather than the zone.
+**Bearer cost:** The wearer picks up a low fatigue that never clears properly, and after a full shift in the Commons it is the fatigue that walks out with them rather than the zone.
 
 ### M.A.W. Stigma — The Trace Anchor
 
@@ -222,7 +222,7 @@ What it throws is incandescent phosphor, and a dark chamber caught by that flare
 
 **Ability:** Anchors the wearer to a place and personal memory.
 
-**Bearer cost:**The wearer cannot leave an anchored location without emotional pain.
+**Bearer cost:** The wearer cannot leave an anchored location without emotional pain.
 
 *The Trace Charm is not issued. It is found in a pocket after a session in which the worker's own continuous account survived the chamber intact, and in no other circumstance.*
 

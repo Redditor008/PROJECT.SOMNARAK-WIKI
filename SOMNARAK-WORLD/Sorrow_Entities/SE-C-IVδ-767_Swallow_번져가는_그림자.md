@@ -191,7 +191,7 @@ The escalation reads differently from a stock containment event, and the watch l
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the source's signature: the struck cannot say whose grief they are feeling, only that it is not theirs and that it has weight.
 
-**Bearer cost:**The bearer takes on grief that has never been cried out, and weeps on a long issue without being able to say over what; the charge reverses on return, which the file counts as the one mercy in the set.
+**Bearer cost:** The bearer takes on grief that has never been cried out, and weeps on a long issue without being able to say over what; the charge reverses on return, which the file counts as the one mercy in the set.
 
 ### M.A.W. Suit — The Fading Veil
 
@@ -209,7 +209,7 @@ The escalation reads differently from a stock containment event, and the watch l
 
 **Ability:** Takes one emotional surge out of the air and holds it, which is the only piece the night shift asks for by name after a bad hour on the chalk.
 
-**Bearer cost:**The wearer feels every sorrow the Veil has absorbed. The held surge is cargo, not a new part of the wearer’s history. Continued use can erase that distinction: the sorrow begins to sound autobiographical, and a description in first person is a corrosion sign rather than proof of ownership.
+**Bearer cost:** The wearer feels every sorrow the Veil has absorbed. The held surge is cargo, not a new part of the wearer’s history. Continued use can erase that distinction: the sorrow begins to sound autobiographical, and a description in first person is a corrosion sign rather than proof of ownership.
 
 ### M.A.W. Stigma — The Fading Charm
 
@@ -223,7 +223,7 @@ The escalation reads differently from a stock containment event, and the watch l
 
 **Ability:** Carries a small boon out of the holding's own register — the bearer can tell an attribution that is true from one that is merely spoken, and only while the charm is on them.
 
-**Bearer cost:**The bearer hears which attributions are merely spoken, in every conversation at the wall and in their own account of the shift.
+**Bearer cost:** The bearer hears which attributions are merely spoken, in every conversation at the wall and in their own account of the shift.
 
 *The Fading Charm is not manufactured and not requested. It has been granted eleven times, every time to a worker whose attribution screen had come back clean twice running, which the wing has noticed and has declined to describe as a reward.*
 

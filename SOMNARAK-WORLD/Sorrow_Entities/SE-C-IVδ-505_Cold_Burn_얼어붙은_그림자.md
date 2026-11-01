@@ -190,7 +190,7 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Cold Burn's void signature in the strike.
 
-**Bearer cost:**Each discharge takes one small memory that had no name to begin with. The bearer cannot report the loss, so the Armoury counts it against the piece instead of against the person carrying it.
+**Bearer cost:** Each discharge takes one small memory that had no name to begin with. The bearer cannot report the loss, so the Armoury counts it against the piece instead of against the person carrying it.
 
 ### M.A.W. Suit — Cold Burn Veil
 
@@ -208,7 +208,7 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 **Ability:** Grants resistance to Void damage, and stands between the wearer and the Soul register she works in — identity, memory, the sense of being somebody — which is what she attacks at the door. The veil is woven against her kind of pressure and against no other holding's.
 
-**Bearer cost:**The wearer comes off the shift faintly absent to themselves, as though the round had been worked by somebody else with their name on it.
+**Bearer cost:** The wearer comes off the shift faintly absent to themselves, as though the round had been worked by somebody else with their name on it.
 
 ### M.A.W. Stigma — Cold Burn Ring
 
@@ -222,7 +222,7 @@ It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to 
 
 **Ability:** Allows silent movement and concealment.
 
-**Bearer cost:**The wearer feels every duty they have abandoned.
+**Bearer cost:** The wearer feels every duty they have abandoned.
 
 *The stigma is given, not issued, and only to an observer who has completed a full posting without a single unannounced hand-off. Six exist.*
 

@@ -191,7 +191,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Ability:** Void against the Mind. Struck targets make errors for some hours and remain certain throughout; the Armoury requires a second signature on anything a struck worker writes that day.
 
-**Bearer cost:**The wielder cannot tell afterwards which of their own work was checked and which merely felt checked, which is why the second signature is a procedure rather than a reassurance.
+**Bearer cost:** The wielder cannot tell afterwards which of their own work was checked and which merely felt checked, which is why the second signature is a procedure rather than a reassurance.
 
 ### M.A.W. Suit — Lethe's Veil
 
@@ -209,7 +209,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
-**Bearer cost:**The wearer becomes difficult to remember, even to themselves, while the protection is worn.
+**Bearer cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
 ### M.A.W. Stigma — Lethe's Token
 
@@ -223,7 +223,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 
-**Bearer cost:**The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
+**Bearer cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 
 *Nine in fifteen years, each to a worker who reported their own first mistake to the reader before the reader called it. Four workers have managed that; five of the nine tokens went to the same person.*
 

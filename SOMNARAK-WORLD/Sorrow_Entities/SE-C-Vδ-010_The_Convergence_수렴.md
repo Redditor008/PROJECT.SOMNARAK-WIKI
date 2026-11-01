@@ -197,7 +197,7 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 **Ability:** Extreme Weight against the Han. No Appeal compresses the space around a target into one point; it has been drawn in drill, never in a formation, and the Armoury's note records that drawing it in a formation would mean somebody had stopped pulling.
 
-**Bearer cost:**The wielder feels progressively heavier; after each discharge, the bearer experiences every nearby person’s self-accusation as their own, causing excruciating mental and spinal strain.
+**Bearer cost:** The wielder feels progressively heavier; after each discharge, the bearer experiences every nearby person’s self-accusation as their own, causing excruciating mental and spinal strain.
 
 ### M.A.W. Suit — The Absolute Mantle
 
@@ -215,7 +215,7 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 **Ability:** Resistance to Weight against the Han. Worn by the separation teams, all three of them, and the only equipment issued for this holding.
 
-**Bearer cost:**A constant low fatigue, and the habit of counting — under the breath, to twelve, at odd moments. Every separation-team member reports it and the station treats it as training rather than as an effect.
+**Bearer cost:** A constant low fatigue, and the habit of counting — under the breath, to twelve, at odd moments. Every separation-team member reports it and the station treats it as training rather than as an effect.
 
 ### M.A.W. Stigma — The Absolute Verdict
 
@@ -229,7 +229,7 @@ The planetary hoops spin along multiple axes with zero friction, warping backgro
 
 **Ability:** Forces a target to experience their full karmic debt at once.
 
-**Bearer cost:**The wielder experiences the weight of every sentence delivered.
+**Bearer cost:** The wielder experiences the weight of every sentence delivered.
 
 *None, and none is expected. A Stigma comes from a source to a worker who has completed a cycle with it; nothing has ever completed a cycle with this one, and the thirty-six seconds on record were spent taking it apart.*
 

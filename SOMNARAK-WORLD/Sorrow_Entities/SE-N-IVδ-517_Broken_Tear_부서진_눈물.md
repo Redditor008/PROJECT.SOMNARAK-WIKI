@@ -184,7 +184,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower. What the strike carries is a grief with no subject attached to it, which recipients describe as weeping for somebody they cannot identify and cannot stop picturing.
 
-**Bearer cost:**The wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of release afterward.
+**Bearer cost:** The wielder carries the entity's unfinished grief and weeps without cause, more often the longer the piece is held, and never with any sense of release afterward.
 
 ### M.A.W. Suit — Broken Tear Shroud
 
@@ -202,7 +202,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against sorrow that is not the wearer's own. It holds against the pressure and not against the sound, which is not an attack and which every wearer reports hearing exactly as clearly as they did without it.
 
-**Bearer cost:**Small pleasures go dull in the wearer — food, warmth, good news from home — while large griefs arrive at full strength; the Armoury books it as a one-way exchange rather than as a tolerance.
+**Bearer cost:** Small pleasures go dull in the wearer — food, warmth, good news from home — while large griefs arrive at full strength; the Armoury books it as a one-way exchange rather than as a tolerance.
 
 ### M.A.W. Stigma — Broken Tear Shard
 
@@ -216,7 +216,7 @@ The prism sheds continuous streams of luminous blue tears that dissolve before t
 
 **Ability:** Absorbs one emotional shock and preserves its memory.
 
-**Bearer cost:**The wearer hears the preserved crying during sleep.
+**Bearer cost:** The wearer hears the preserved crying during sleep.
 
 *The Stigma from this source is issued rather than manufactured, and it appears after a cycle the entity closes cleanly. No entrant has ever been able to name what made that cycle different from the ones that produced nothing, and the Armoury logs the uncertainty as part of the item's record rather than resolving it.*
 

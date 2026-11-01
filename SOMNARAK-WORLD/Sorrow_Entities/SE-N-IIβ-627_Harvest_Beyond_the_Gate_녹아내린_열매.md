@@ -187,7 +187,7 @@ The tallow coat insulates the blade against electrical discharge and softens the
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and channels the orchard's signature in the strike: the target is left carrying a desire they had already given up on, at full strength and with nowhere to put it.
 
-**Bearer cost:**Old wounds ache in the wielder, and prolonged use leaves faint bruising where nothing struck; the ache is filed against the piece because the wielder reports it as weather rather than as damage.
+**Bearer cost:** Old wounds ache in the wielder, and prolonged use leaves faint bruising where nothing struck; the ache is filed against the piece because the wielder reports it as weather rather than as damage.
 
 ### M.A.W. Suit — The Melting Plate
 
@@ -205,7 +205,7 @@ The tallow coat insulates the blade against electrical discharge and softens the
 
 **Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this orchard's particular pressure: nothing here strikes at the body, and what the armour actually lets the wearer do is stand in the rows without the fruit answering. The binding escort must repeat a desire without converting it into a commitment. Joint delay while offering reassurance and sweet residue held in the seams are warning signs, not reasons to promise faster relief. The Plate can bear the speaker's anger without requiring the speaker to become hopeful.
 
-**Bearer cost:**Reflexes thin in the wearer, as if the body had picked up a grudge of its own, and the wearer is the last to register it — every stand-down on this set has been called by the second worker, never by the person carrying it.
+**Bearer cost:** Reflexes thin in the wearer, as if the body had picked up a grudge of its own, and the wearer is the last to register it — every stand-down on this set has been called by the second worker, never by the person carrying it.
 
 ### M.A.W. Stigma — The Melting Seed
 
@@ -219,7 +219,7 @@ The tallow coat insulates the blade against electrical discharge and softens the
 
 **Ability:** Reveals the desire behind a person's anger. The Seed presents that wanting in the speaker's sensory language, not as destination coordinates or a judgement of feasibility. Do not read it aloud without consent. A kitchen taste can stand for a future rather than a room someone wants occupied again; the speaker's correction governs that distinction. Recognition does not oblige the bearer to promise fulfillment, and a revealed wish is not an instruction to route people back through the Gate.
 
-**Bearer cost:**The wearer feels every desire that cannot be fulfilled.
+**Bearer cost:** The wearer feels every desire that cannot be fulfilled.
 
 *Nine seeds exist and not one will germinate. Each was taken from a fruit at the instant it began to turn, which is the only way anything has ever left this site whole.*
 

@@ -203,7 +203,7 @@ It asks a great deal of the arm that carries it. Driven butt-first into the grou
 
 **Ability:** Deals Grudge damage against the Body — footing, structure, the ability to stay upright. Planted and struck, the sceptre carries the source's signature into the floor, and the stagger it produces arrives a moment after the blow rather than with it.
 
-**Bearer cost:**The wielder's old injuries ache for days after a planting, and prolonged use raises faint bruising along the shoulders that the weight alone does not explain.
+**Bearer cost:** The wielder's old injuries ache for days after a planting, and prolonged use raises faint bruising along the shoulders that the weight alone does not explain.
 
 ### M.A.W. Suit — The Echo Plate
 
@@ -222,7 +222,7 @@ The rings sound continuously as the wearer moves, and the harness works by answe
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against concussive and acoustic force. The resonance rings detune an incoming echo before it reaches the wearer, which is the only recorded defence against this source's primary effect.
 
-**Bearer cost:**The wearer's reflexes dull measurably, armoured in something nearer resentment than patience, and the rings continue to sound faintly for some hours after the plate is removed.
+**Bearer cost:** The wearer's reflexes dull measurably, armoured in something nearer resentment than patience, and the rings continue to sound faintly for some hours after the plate is removed.
 
 ### M.A.W. Stigma — The Echo Flame
 
@@ -236,7 +236,7 @@ The rings sound continuously as the wearer moves, and the harness works by answe
 
 **Ability:** Burns hostile echoes and silences their spread.
 
-**Bearer cost:**The lantern burns away one of the user's own repeated memories.
+**Bearer cost:** The lantern burns away one of the user's own repeated memories.
 
 *Seven Flames in eleven years, every one of them after a watch in which the chamber did not grow. The vault reports the correlation each year and each year declines to call it a reward.*
 

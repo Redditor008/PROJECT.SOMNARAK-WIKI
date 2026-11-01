@@ -190,7 +190,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 **Ability:** Void damage to identity and memory rather than to the body. The lance carries the holding's own signature — the strike does not add a wound so much as remove the account of one, and what a target cannot describe afterwards they cannot report.
 
-**Bearer cost:**Small nameless memories, unreportable by the person losing them. On this post the lance has never been discharged; the cost is recorded against the two clearance exercises that used it on rooted floor seams, and both bearers had to have their notes countersigned for a fortnight.
+**Bearer cost:** Small nameless memories, unreportable by the person losing them. On this post the lance has never been discharged; the cost is recorded against the two clearance exercises that used it on rooted floor seams, and both bearers had to have their notes countersigned for a fortnight.
 
 ### M.A.W. Suit — Redacted Veil
 
@@ -208,7 +208,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 **Ability:** Wards the Soul — identity and memory — against Void, which here means the wearer keeps the ability to say which of their recollections they can cite a source for. It does not stop the gap; it keeps the wearer from furnishing it. Binding requires an Archive witness who can still read the current wearer's name through the fabric, with the identity card visible at the collar. That is a check on the living bearer, not an invitation to name the figure's absent subject. If the name cannot be read, the Veil is not worn.
 
-**Bearer cost:**A faint absence the wearer describes as their own history sounding like something they were told. It is the state the holding watches for rather than the state it forbids, and no bearer has yet reported it while it was still early.
+**Bearer cost:** A faint absence the wearer describes as their own history sounding like something they were told. It is the state the holding watches for rather than the state it forbids, and no bearer has yet reported it while it was still early.
 
 ### M.A.W. Stigma — Redacted Ring
 
@@ -222,7 +222,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 **Ability:** Reveals what is missing from a person's history. Under Archive witness, the reading marks one missing element and the boundary of the fragments around it; it supplies neither a complete identity nor a motive. A blank year may be recorded as a blank year, not as proof of the explanation the bearer wanted. Keep the evidence boundary with the reading, and enter the loss of certainty separately. The Ring does not turn a more confident account into a more complete record.
 
-**Bearer cost:**The wearer loses certainty about one remembered event.
+**Bearer cost:** The wearer loses certainty about one remembered event.
 
 *Four rings exist. Each was given to a worker who completed a full posting without once offering the figure a name, which is harder than the protocol makes it sound.*
 

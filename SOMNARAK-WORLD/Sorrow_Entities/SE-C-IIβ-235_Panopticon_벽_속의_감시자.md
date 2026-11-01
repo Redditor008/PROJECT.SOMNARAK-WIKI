@@ -195,7 +195,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Ability:** Void against the Soul. The struck target becomes certain they are being watched and is correct, which fourteen targets have reported as the worst part of it.
 
-**Bearer cost:**Small nameless memories, and specifically the unwitnessed ones — hours the wielder spent alone and can no longer produce.
+**Bearer cost:** Small nameless memories, and specifically the unwitnessed ones — hours the wielder spent alone and can no longer produce.
 
 **Urn custody:** Keep the porcelain vessel and its collected condensation attributed to this local record; neither is an eye cut from the wall or the short-handled Weapon Lens in the separate item file. The Single strike does not turn pacification into unrecorded area coverage, and no Tick interval is supplied here. Before issue seal the bearer’s account of an unwitnessed hour; review it at return and end use when they cannot produce such an hour. Record the missing memory rather than fill it from a wall’s perspective. The separate Lens shutdown cannot be silently applied to the urn as proof of identical form or function.
 
@@ -215,7 +215,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Ability:** Resistance to Void against the Soul, and the only reason a Warden can work a full set of rounds without the name-calling starting.
 
-**Bearer cost:**The wearer feels faintly absent to themselves and checks mirrors more than they used to.
+**Bearer cost:** The wearer feels faintly absent to themselves and checks mirrors more than they used to.
 
 **Veil custody:** A shared Void rating does not make observation into consent. Record the wearer’s absence and any performance freeze separately from the ability to complete the rounds. For care, hang the Veil without recording devices and let the wearer keep the undisclosed fact private rather than turn maintenance into another surveillance return. The helped person or assigned partner addresses the wearer by name, not role, for removal. The linked record’s declared-intervention condition remains attached to that record; a protective piece does not grant the observer an authority the Standing Hand rule withholds.
 
@@ -231,7 +231,7 @@ The urn continuously condenses cold sorrow-dew on its exterior surface, which tr
 
 **Ability:** Reveals what a structure has witnessed.
 
-**Bearer cost:**The wearer cannot forget anything they observe through it.
+**Bearer cost:** The wearer cannot forget anything they observe through it.
 
 *Twelve lenses exist. Each formed at the moment a Warden acknowledged the gaze aloud for the first time, and the wing issues them without ceremony because a presentation would require an audience.*
 

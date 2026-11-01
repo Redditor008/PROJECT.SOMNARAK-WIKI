@@ -208,7 +208,7 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 
 **Ability:** A struck target is made to remember the blow for longer than it lasted. Damage is ordinary; the effect is that the target cannot act on the following cycle without first re-living the impact, which costs them the initiative and nothing else. Against anything without memory the flail is a heavy stick.
 
-**Bearer cost:**After the third strike the wielder begins to recall the fight in the wrong order, and continues to recall it in the wrong order permanently. Three veterans of Collector's Row can give exact accounts of engagements whose sequence they will defend and which the duty log contradicts.
+**Bearer cost:** After the third strike the wielder begins to recall the fight in the wrong order, and continues to recall it in the wrong order permanently. Three veterans of Collector's Row can give exact accounts of engagements whose sequence they will defend and which the duty log contradicts.
 
 **Weapon custody:** The memory-crystal flail is an extracted piece, not permission to cut a source link. The source-trace cost additionally records growing heaviness and slight ageing; keep those observations beside reordered combat recall rather than silently substitute either for the other. Before cleaning or resting the weapon, preserve the bearer’s exact account and its attribution. A named witness states the Chain’s title and the households’ preservation event while the weapon is relinquished. That shutdown preserves the record, not a guaranteed restoration of memory.
 
@@ -228,7 +228,7 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 
 **Ability:** The wearer's own history is held out of reach of anything that reads it. Memory-drawing effects take the mantle's borrowed recollections first and return nothing when they are exhausted. The wearer cannot be made to forget while it is worn, including by the facility's own procedures, which is why it is logged and not freely issued.
 
-**Bearer cost:**The mantle's borrowed recollections surface at rest rather than in action. Wearers sleep badly in the week after a deployment and describe the dreams as somebody else's and uninteresting.
+**Bearer cost:** The mantle's borrowed recollections surface at rest rather than in action. Wearers sleep badly in the week after a deployment and describe the dreams as somebody else's and uninteresting.
 
 **Mantle custody:** Keep the shoulder garment separate from wearing the whole source Chain. Borrowed dreams after deployment and the source-trace’s constant fatigue are both review fields; the collar’s temperature contrast identifies the garment but does not establish the source relic’s elapsed-wear thresholds. Preserve attribution before the Mantle is cleaned or rested. The witness names the households’ memory-preservation event during relinquishment, without treating removal as repayment of what the bearer has carried.
 
@@ -244,7 +244,7 @@ The Chain does not escalate outward. It escalates by growing, and the growth is 
 
 **Ability:** Allows two people to share one memory safely.
 
-**Bearer cost:**The shared memory becomes a burden carried by both.
+**Bearer cost:** The shared memory becomes a burden carried by both.
 
 *The Chain has issued four Stigmas and all four went to the Warden who completed the count rather than to the worker who sat the cycle. The Armoury records this as the only predictable Stigma pattern in the registry.*
 

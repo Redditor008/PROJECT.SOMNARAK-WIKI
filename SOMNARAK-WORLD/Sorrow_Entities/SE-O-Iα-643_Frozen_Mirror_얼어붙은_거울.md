@@ -220,7 +220,7 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Ability:** Deals Grudge damage against the Body — structure, footing, physical integrity. The Stiletto's punctures seal themselves in frozen vascular blockage, so wounds taken from it bleed later rather than at the time.
 
-**Bearer cost:**The wielder's old injuries ache in the cold for days afterward, and prolonged carriage raises faint bruising that no impact in the log accounts for.
+**Bearer cost:** The wielder's old injuries ache in the cold for days afterward, and prolonged carriage raises faint bruising that no impact in the log accounts for.
 
 ### M.A.W. Suit — The Frozen Plate
 
@@ -238,7 +238,7 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against the hard, still, locking variety this source produces. The Plate is rated for cold as well as for grudge; both ratings are listed and neither substitutes for the other.
 
-**Bearer cost:**The wearer's reflexes dull by a measurable fraction, armoured in something closer to resentment than to patience; wearers report seeing a thing coming and declining to move out of its way.
+**Bearer cost:** The wearer's reflexes dull by a measurable fraction, armoured in something closer to resentment than to patience; wearers report seeing a thing coming and declining to move out of its way.
 
 ### M.A.W. Stigma — The Frozen Reflection
 
@@ -252,7 +252,7 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Ability:** Reveals hidden anger beneath grief.
 
-**Bearer cost:**The wearer cannot easily separate their anger from another person's.
+**Bearer cost:** The wearer cannot easily separate their anger from another person's.
 
 *Four Reflections in eight years. All four appeared after a cycle in which the viewer's post-statement named somebody they had already forgiven, which is a pattern of four and is recorded as a pattern of four and nothing more.*
 

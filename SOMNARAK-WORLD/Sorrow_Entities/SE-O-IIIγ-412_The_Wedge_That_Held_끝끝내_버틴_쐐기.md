@@ -194,7 +194,7 @@ The strike face is flat and scarred by thousands of impacts. When swung with mom
 
 **Ability:** *Fault Line Cleave* — Heavy kinetic blow that ignores 30% of target physical defense. On critical hit, inflicts Stagger on targets below 50% HP.
 
-**Bearer cost:**The wielder's arms ache with bone-deep fatigue after three consecutive swings.
+**Bearer cost:** The wielder's arms ache with bone-deep fatigue after three consecutive swings.
 
 ### M.A.W. Suit — The Smelter's Apron
 
@@ -212,7 +212,7 @@ The strike face is flat and scarred by thousands of impacts. When swung with mom
 
 **Ability:** Grants superior resistance to Grudge and thermal damage. When struck by physical attacks, reflects 10% of damage back to the attacker as Crimson sparks.
 
-**Bearer cost:**The wearer radiates constant, dry fever-heat (39°C body temperature).
+**Bearer cost:** The wearer radiates constant, dry fever-heat (39°C body temperature).
 
 ### M.A.W. Stigma — The Eighteen Brands
 
@@ -226,7 +226,7 @@ The strike face is flat and scarred by thousands of impacts. When swung with mom
 
 **Ability:** Prevents the operative from being knocked down or staggered by frontal impacts.
 
-**Bearer cost:**The wearer experiences intense phantom burns across their wrists whenever an ally takes damage.
+**Bearer cost:** The wearer experiences intense phantom burns across their wrists whenever an ally takes damage.
 
 ### M.A.W. Use Notes
 

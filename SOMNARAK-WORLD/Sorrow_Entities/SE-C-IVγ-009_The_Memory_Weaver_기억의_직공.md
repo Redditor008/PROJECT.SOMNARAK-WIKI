@@ -195,7 +195,7 @@ Before anybody is posted to the library, the Work Types are read against the bre
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Memory Weaver's thread-cutting technique to unravel the victim's immediate recollections.
 
-**Bearer cost:**The wielder loses small, nameless memories with each use; excessive stitching causes personal childhood memories to blur.
+**Bearer cost:** The wielder loses small, nameless memories with each use; excessive stitching causes personal childhood memories to blur.
 
 **Awl accountability:** The individual Weapon requires a documented personal memory anchor before deployment. Its warning is not merely that the cut costs recall: the implement cannot distinguish a false recollection from a painful true one without the bearer’s certainty. Record the selected thread and the action taken rather than accepting relief as proof that the choice was correct. Its return-of-memory account depends on recording and responsibility; that is not a guarantee that the primary’s blurred childhood memories return. Neither account permits an improvised trade or an overwhelming personal offer in place of the written authorization.
 
@@ -215,7 +215,7 @@ Before anybody is posted to the library, the Work Types are read against the bre
 
 **Ability:** It turns a Void strike, and what it is really turning is the theft. While the veil is on, a memory taken from the wearer comes back inside the shift and usually inside the hour; the armoury logs the return rather than the resistance. The filing is explicit that the veil does nothing at all for the body.
 
-**Bearer cost:**What the wearer can report about the shift thins out. They are present, and other people remember them being there, but the version they give afterwards reads as second-hand — as if they had been told about the sitting rather than having worked it.
+**Bearer cost:** What the wearer can report about the shift thins out. They are present, and other people remember them being there, but the version they give afterwards reads as second-hand — as if they had been told about the sitting rather than having worked it.
 
 **Veil position checks:** The Suit’s own limit requires verbal check-ins and written positions because allies can lose hold of the wearer in memory too. Keep the outside worker’s count beside the bearer’s account; a route entry reading “unconfirmed companion” is not evidence that the person stayed away. After removal, the item describes a need for direct reintroduction, while the primary records a thinning account of the shift. Note each independently. Neither friendly recognition nor the listed resistance replaces the scheduled inventory or proves that every taking has been detected.
 
@@ -231,7 +231,7 @@ Before anybody is posted to the library, the Work Types are read against the bre
 
 **Ability:** Makes the wearer invisible to memory-based attacks.
 
-**Bearer cost:**The mask feeds on the memories it protects; the wearer slowly loses their own memories.
+**Bearer cost:** The mask feeds on the memories it protects; the wearer slowly loses their own memories.
 
 **Mask life log:** The Stigma record requires a weekly written life log for active bearers and stores the charm face down on pale cloth. Its account puts unrecorded smells, routes, casual names and room shapes among the first losses; an unchanged mission objective does not establish an unchanged life. Keep that weekly record distinct from the annual baseline and the ninety-day repeat inventory. Protection consumes adjacent memory rather than restoring ownership of what the Weaver holds. Do not turn the item’s limited targeting defenses into a claim that the bearer is safe from all takings.
 

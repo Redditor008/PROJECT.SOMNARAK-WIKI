@@ -191,7 +191,7 @@ Escalation is width. Record the gap at the three marked stations, the difference
 
 **Ability:** Weight against the Han. Struck targets cannot tell, for some hours, which of two rooms they were in; fourteen strikes, fourteen reports, and in nine of them the two rooms were in different buildings.
 
-**Bearer cost:**The wielder ages slightly, and begins mixing up which of two similar things belongs to them.
+**Bearer cost:** The wielder ages slightly, and begins mixing up which of two similar things belongs to them.
 
 ### M.A.W. Suit — The Wall's Absence
 
@@ -209,7 +209,7 @@ Escalation is width. Record the gap at the three marked stations, the difference
 
 **Ability:** Creates a temporary boundary against hostile force.
 
-**Bearer cost:**The wearer feels everyone kept on the other side.
+**Bearer cost:** The wearer feels everyone kept on the other side.
 
 ### M.A.W. Stigma — The Wall's Charm
 
@@ -223,7 +223,7 @@ Escalation is width. Record the gap at the three marked stations, the difference
 
 **Ability:** The bearer can feel where a boundary used to be — a filled doorway, a removed fence, a merged ward line — and has been used four times to recover plans the mapping office had lost.
 
-**Bearer cost:**The bearer keeps finding the old lines — walls taken down, doors filled in, a ward boundary moved a metre — and the charm never says which were removed by order and which quietly.
+**Bearer cost:** The bearer keeps finding the old lines — walls taken down, doors filled in, a ward boundary moved a metre — and the charm never says which were removed by order and which quietly.
 
 *The Wall's Charm is not issued. It is found after a session in which the history was stated in full and the crossing was made anyway, and never after a session in which the line was merely surveyed.*
 

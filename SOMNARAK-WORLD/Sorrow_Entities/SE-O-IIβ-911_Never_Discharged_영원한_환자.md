@@ -163,7 +163,7 @@ The table says the two available Work Types both reduce the gauge and does not s
 
 **Damage:** Weight 11–17 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Struck targets feel the wound for some minutes and are not wounded. The Armoury has logged fourteen strikes, fourteen reported injuries, and fourteen examinations finding nothing whatever.
-**Bearer cost:**The wielder carries the injuries they give: nothing shows on the bearer either, and the examinations find nothing whatever in both directions.
+**Bearer cost:** The wielder carries the injuries they give: nothing shows on the bearer either, and the examinations find nothing whatever in both directions.
 
 ### M.A.W. Suit — Never Discharged's Veil
 

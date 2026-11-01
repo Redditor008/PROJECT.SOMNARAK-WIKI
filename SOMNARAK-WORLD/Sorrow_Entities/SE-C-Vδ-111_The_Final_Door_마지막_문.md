@@ -219,7 +219,7 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 
 **Ability:** Void against the Soul. The target loses the thread between their memories — the connections rather than the contents — and describes their own history afterwards as a list of facts about somebody they know well.
 
-**Bearer cost:**Small nameless memories, and always the connective ones: how a room smelled, which way a stair turned, who was standing where.
+**Bearer cost:** Small nameless memories, and always the connective ones: how a room smelled, which way a stair turned, who was standing where.
 
 ### M.A.W. Suit — The Unknown — No Extraction Veil
 
@@ -237,7 +237,7 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 
 **Ability:** Resistance to Void against the Soul, and the only reason any Keeper has ever been recovered intact from the threshold. It was worn on the Year 4,218 contact and the Armoury's position is that it is the reason she is alive.
 
-**Bearer cost:**The wearer feels faintly absent to themselves, and answers to their own name a half-beat late.
+**Bearer cost:** The wearer feels faintly absent to themselves, and answers to their own name a half-beat late.
 
 ### M.A.W. Stigma — Unknown — No Extraction Authorized
 
@@ -251,7 +251,7 @@ The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging t
 
 **Ability:** Unknown.
 
-**Bearer cost:**Presumed catastrophic. No M.A.W. extraction is authorized.
+**Bearer cost:** Presumed catastrophic. No M.A.W. extraction is authorized.
 
 *None. In ninety-four cycles this holding has given nothing to anybody, which the Keepers record as the only entirely consistent fact in the file after the thirteen seconds.*
 

@@ -192,7 +192,7 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 
 **Limit:** It cannot distinguish a responsible party from someone trapped in the same system; document the target relationship before activation.
 
-**Bearer cost:**Old wounds ache, and every unspoken resentment rises until another person acknowledges it without calling it ingratitude. The primary also records deep bruising after prolonged use and says the acknowledgment must be heard by an ally.
+**Bearer cost:** Old wounds ache, and every unspoken resentment rises until another person acknowledges it without calling it ingratitude. The primary also records deep bruising after prolonged use and says the acknowledgment must be heard by an ally.
 
 ### M.A.W. Suit — The Resentment Plate
 
@@ -210,7 +210,7 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 
 **Ability:** Refuse the Blow hardens against direct Grudge impacts when the bearer is pressured to accept an imposed role or burden. The primary's boundary-standing protection from taking on the Triplets' debt remains a separate local claim.
 
-**Bearer cost:**The wearer's reflexes dull toward reconciliation; help can feel like another demand until the Plate is removed and the wearer rests. The primary notes that onset is silent and a second worker calls it.
+**Bearer cost:** The wearer's reflexes dull toward reconciliation; help can feel like another demand until the Plate is removed and the wearer rests. The primary notes that onset is silent and a second worker calls it.
 
 ### M.A.W. Stigma — The Resentment Gauntlet
 
@@ -224,7 +224,7 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 
 **Ability:** Remember the Cost marks a target who wronged the bearer or someone under the bearer's protection. Subsequent direct attacks gain clarity against that target; the mark cannot determine intent and fades only after the target's account is heard or the grievance is released.
 
-**Bearer cost:**While the mark remains active, the bearer cannot forgive, even if forgiveness would be freely chosen. The local record's broader post-conflict resentment remains a separate observation.
+**Bearer cost:** While the mark remains active, the bearer cannot forgive, even if forgiveness would be freely chosen. The local record's broader post-conflict resentment remains a separate observation.
 
 *The Resentment Gauntlet is not issued and cannot be requested. It has been conferred 3 times, in each case on a Warden who named the injustice out loud, accurately, with nothing added and no apology attached — the same sentence the containment condition requires, which is why the conferral is treated as evidence that the condition can be met at all.*
 

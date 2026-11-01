@@ -169,7 +169,7 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Ability:** Grudge damage to the body, delivered by weight rather than by edge. The beam carries the guilt of a promise that was not kept, and it lands heaviest on entities built out of one.
 
-**Bearer cost:**The yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no injury on file.
+**Bearer cost:** The yoke is carried across the shoulders and goes on being carried after it is set down. The ache settles where the beam sat and corresponds to no injury on file.
 
 ### M.A.W. Suit — The Empty Plate
 
@@ -187,7 +187,7 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Ability:** Turns Grudge aside from the body, which is barely what the Rope attacks. The plate is worn here for the long shifts rather than the short ones, and it protects nothing the Rope is actually reaching for.
 
-**Bearer cost:**The wearer becomes slower to answer and slower to leave, and reports afterwards that the shift felt shorter than it was.
+**Bearer cost:** The wearer becomes slower to answer and slower to leave, and reports afterwards that the shift felt shorter than it was.
 
 ### M.A.W. Stigma — The Empty Knot
 
@@ -201,7 +201,7 @@ Carried across the shoulders like a penitent yoke, the beam radiates suffocating
 
 **Ability:** Reveals bonds that were never reciprocal.
 
-**Bearer cost:**The wearer feels every abandoned expectation nearby.
+**Bearer cost:** The wearer feels every abandoned expectation nearby.
 
 *The knot is not issued. The Rope offers one after work that ended a wait honestly, and it has never offered one to a worker who was still waiting for someone of their own.*
 

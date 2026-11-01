@@ -206,7 +206,7 @@ Record the words spoken, by whom, whether they were on the script, the interval 
 
 **Ability:** Deals Weight damage, attacking both body and resolve. A stroke of the plume lays the weight of a granted wish onto the target — the heaviness of getting exactly what one asked for.
 
-**Bearer cost:**The wielder finds, for days after, that their own wishes come true in small and unwelcome ways.
+**Bearer cost:** The wielder finds, for days after, that their own wishes come true in small and unwelcome ways.
 
 ### M.A.W. Suit — The Gilded Shroud
 
@@ -223,7 +223,7 @@ Record the words spoken, by whom, whether they were on the script, the interval 
 
 **Ability:** A shroud of tarnished angel-feathers that absorbs Weight pressure and shields both resolve and body. It is strongest against the very heaviness it is made of.
 
-**Bearer cost:**The wearer becomes unwilling to ask anyone for anything, even small things — and quietly resentful of those who ask of them.
+**Bearer cost:** The wearer becomes unwilling to ask anyone for anything, even small things — and quietly resentful of those who ask of them.
 
 ### M.A.W. Stigma — The Blue-Black Tear
 
@@ -236,7 +236,7 @@ Record the words spoken, by whom, whether they were on the script, the interval 
 
 **Ability:** A tear that darkens from blue to black in the presence of a cruel or selfish wish, warning the bearer before the wish is spoken — the angel's last gift to the kind.
 
-**Bearer cost:**The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for.
+**Bearer cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for.
 
 *The Angel's Stigma is not manufactured and cannot be requisitioned. It has been conferred five times, in every case on a worker who completed a full shift in the alcove without speaking a word that was not on the page.*
 

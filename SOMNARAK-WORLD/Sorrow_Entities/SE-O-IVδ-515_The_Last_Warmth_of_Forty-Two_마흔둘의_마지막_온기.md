@@ -209,7 +209,7 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 
 **Ability:** *Final Breath Skewer* — Deals massive Lament damage. On critical hit, inflicts Freezing (Target loses 2 Speed and 1 Action Slot for 2 turns).
 
-**Bearer cost:**The wielder exhales continuous plumes of white frost vapor, even in desert heat.
+**Bearer cost:** The wielder exhales continuous plumes of white frost vapor, even in desert heat.
 
 ### M.A.W. Suit — The Seventh Division Parka
 
@@ -227,7 +227,7 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 
 **Ability:** Supreme resistance against Lament and cryogenic damage. When wearer's HP falls below 25%, releases an automatic frost shield that absorbs 50 damage.
 
-**Bearer cost:**The wearer feels an overwhelming desire to hold hands with nearby allies, terrified of being left behind.
+**Bearer cost:** The wearer feels an overwhelming desire to hold hands with nearby allies, terrified of being left behind.
 
 ### M.A.W. Stigma — The Solder Badge
 
@@ -241,7 +241,7 @@ The translucent crystal blade radiates an intense cryogenic haze. Piercing attac
 
 **Ability:** Emits a constant warming aura that protects the bearer from all environmental freezing and hypothermia effects.
 
-**Bearer cost:**The bearer weeps quietly and involuntarily whenever parting ways with an acquaintance.
+**Bearer cost:** The bearer weeps quietly and involuntarily whenever parting ways with an acquaintance.
 
 ### M.A.W. Use Notes
 

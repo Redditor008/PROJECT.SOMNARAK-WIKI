@@ -210,7 +210,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** *Hollow Toll* — Void damage at Range 3. The pulse is inaudible to everyone including the targets, which is the armoury's stated design intent and the reason the piece is restricted: a weapon drawn from this holding is not permitted to announce itself.
 
-**Bearer cost:**The wielder is deaf for as long as the field holds. It returns. The armoury has never attempted to shorten it.
+**Bearer cost:** The wielder is deaf for as long as the field holds. It returns. The armoury has never attempted to shorten it.
 
 ### M.A.W. Suit — The Resonance-Dampening Shroud
 
@@ -229,7 +229,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** Resists Void pressure on the Soul. Issued to the officer carrying the fork, who walks away from the plinth until the tone stops and is therefore the one person in the room who cannot wear ear protection.
 
-**Bearer cost:**The wearer feels faintly absent from themselves for about a day. Nine of twelve wearers describe it, unprompted, as being in a room where nobody is expecting anything of them.
+**Bearer cost:** The wearer feels faintly absent from themselves for about a day. Nine of twelve wearers describe it, unprompted, as being in a room where nobody is expecting anything of them.
 
 ### M.A.W. Stigma — The Hollow Bell Pendant
 
@@ -244,7 +244,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** The chime swings with the wearer's step and does not ring, and it goes cold at the throat when its wearer is about to accept a document in place of a check. It has no other function.
 
-**Bearer cost:**The bearer occasionally loses a spoken word mid-sentence. Colleagues report it as a stammer the bearer did not have before and which does not appear in writing.
+**Bearer cost:** The bearer occasionally loses a spoken word mid-sentence. Colleagues report it as a stammer the bearer did not have before and which does not appear in writing.
 
 *The pendant has been granted five times, each to a worker who refused to certify something on the strength of a record and said so in writing, knowing it would be overruled. Three of the five were overruled. The holding records the pattern and has refused to make it a qualification, on the ground that a refusal performed for an object is not a refusal.*
 

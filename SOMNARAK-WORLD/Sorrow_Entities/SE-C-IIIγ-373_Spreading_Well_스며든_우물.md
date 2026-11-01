@@ -203,7 +203,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 
 **Ability:** *Channel Opening* — clears up to three obstructions from one consented grief route, dealing Lament damage against the Mind — emotional stability and willpower — only as the blockage gives. It is never used to deliver grief to a convenient witness, widen flow for extraction, or clear a route without acknowledging the affected site; origin, destination, consent and residual flow are mapped before the blade is dried. (Blade form remains held across its three records.)
 
-**Bearer cost:**the wielder carries the entity's unwept grief for as long as they carry the blade, and past a season of it the weeping starts unbidden. The Armoury records the symptom against the wielder, on the file's own logic: what accumulates here is the work, not the steel.
+**Bearer cost:** the wielder carries the entity's unwept grief for as long as they carry the blade, and past a season of it the weeping starts unbidden. The Armoury records the symptom against the wielder, on the file's own logic: what accumulates here is the work, not the steel.
 
 ### M.A.W. Suit — The Spreading Shroud
 
@@ -221,7 +221,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 
 **Ability:** *Linked Carrier* — wards the Mind — emotional stability and willpower — against Lament pressure so a follower can walk a grief route without identity absorption. Binding requires named witnesses at origin and destination, and the dry identity line is checked before every crossing; a carrier who becomes an endpoint is the first failure. The resistance table also records Weight protection; this network-specific use account does not replace those separate resistance values.
 
-**Bearer cost:**the wearer goes numb to minor joys before noticing, and the second worker is the one who reads it — on a set issued one rotation at a time, the numbness is entered whether or not the wearer agrees.
+**Bearer cost:** the wearer goes numb to minor joys before noticing, and the second worker is the one who reads it — on a set issued one rotation at a time, the numbness is entered whether or not the wearer agrees.
 
 ### M.A.W. Stigma — The Spreading Vial
 
@@ -235,7 +235,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 
 **Ability:** Carries a small amount of sorrow to a *consenting* distant witness. Both witnesses are confirmed before opening, and the Vial closes after acknowledgment, not after emotional resolution; consent assumed, or a witness appointed as absorber, is a failure, not a use.
 
-**Bearer cost:**The carrier feels the grief at both origin and destination.
+**Bearer cost:** The carrier feels the grief at both origin and destination.
 
 *The Vial cannot be requisitioned and is not manufactured. It has been conferred eleven times, each time on a worker who traced a channel to its end and reported the address rather than the distance.*
 

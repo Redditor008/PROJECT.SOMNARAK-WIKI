@@ -190,7 +190,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 **Ability:** Lament damage to the mind rather than the body. The pike carries the record's signature, which is a boundary kept properly that failed regardless, and what it opens in a target is every precaution they have relied on without ever testing.
 
-**Bearer cost:**The wielder carries its unwept grief and weeps involuntarily, most often while signing a safety certificate.
+**Bearer cost:** The wielder carries its unwept grief and weeps involuntarily, most often while signing a safety certificate.
 
 ### M.A.W. Suit — The Fallen Barrier
 
@@ -208,7 +208,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 **Ability:** Absorbs one impact meant for the wearer.
 
-**Bearer cost:**The shield cracks into the wearer's memory of safety.
+**Bearer cost:** The shield cracks into the wearer's memory of safety.
 
 ### M.A.W. Stigma — The Fallen Charm
 
@@ -222,7 +222,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 **Ability:** The charm prevents its bearer from being reassured. Statements that something is certainly safe are heard as the words they are, without the comfort attaching, which personnel describe as unpleasant and which has twice resulted in a work stoppage that was afterwards found to be justified.
 
-**Bearer cost:**The bearer cannot be reassured: a statement that something is certainly safe arrives as the words only, and the charm offers nothing to put in their place.
+**Bearer cost:** The bearer cannot be reassured: a statement that something is certainly safe arrives as the words only, and the charm offers nothing to put in their place.
 
 *The fallen charm is not manufactured. Breach gives one to a worker who told a team what could go wrong before they went in, and has given none to anybody who told them not to worry.*
 

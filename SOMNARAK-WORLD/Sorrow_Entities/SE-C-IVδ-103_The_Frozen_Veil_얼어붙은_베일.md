@@ -206,7 +206,7 @@ The table is read against the shell rather than against the gauge, because on th
 
 **Ability:** Void damage to the soul — to identity and the capacity for attachment rather than the body. The lens carries the Veil's signature, which is a century of distance, and what it opens in a target is the suspicion that they never felt as much as they claimed to.
 
-**Bearer cost:**The wielder loses small nameless memories with each use, and loses the feeling attached to large ones while retaining the facts.
+**Bearer cost:** The wielder loses small nameless memories with each use, and loses the feeling attached to large ones while retaining the facts.
 
 ### M.A.W. Suit — The Cold Veil
 
@@ -224,7 +224,7 @@ The table is read against the shell rather than against the gauge, because on th
 
 **Ability:** *Quiet Perimeter* — strongly resists Void by creating a contained emotional distance. It holds only inside the anchor protocol: one living attachment named, two anchors chosen, and termination authority held outside the wearer. The suit is not what makes standing at the line safe; the anchors are.
 
-**Bearer cost:**The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performing accurately.
+**Bearer cost:** The wearer feels faintly absent to themselves, and reports their own warmth toward others as something they are performing accurately.
 
 ### M.A.W. Stigma — The Cold Heart
 
@@ -238,7 +238,7 @@ The table is read against the shell rather than against the gauge, because on th
 
 **Ability:** *Cold Shelter* — for one authorized emergency interval, makes the wearer immune to emotional manipulation. It is released only by the paired sequence (welfare authority plus relationship anchor) after the threat ends; it is never left active past the threat.
 
-**Bearer cost:**Also prevents genuine emotion; the wearer cannot feel anything while its protection holds.
+**Bearer cost:** Also prevents genuine emotion; the wearer cannot feel anything while its protection holds.
 
 *The cold heart is not manufactured. The Veil gives one to a worker who cried in its chamber about something that had nothing to do with it, and has given none to any participant in a sanctioned exercise.*
 

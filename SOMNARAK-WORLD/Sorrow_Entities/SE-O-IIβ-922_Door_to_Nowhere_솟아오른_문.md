@@ -205,7 +205,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Ability:** Grudge against the Body, and the targets report the same after-effect: for an hour or so they cannot bring themselves to go through a doorway first.
 
-**Bearer cost:**Old wounds ache, and the wielder waits at thresholds — holding doors, standing back, letting others pass — beyond what courtesy accounts for.
+**Bearer cost:** Old wounds ache, and the wielder waits at thresholds — holding doors, standing back, letting others pass — beyond what courtesy accounts for.
 
 ### M.A.W. Suit — Door to Nowhere Shield
 
@@ -223,7 +223,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Ability:** Prevents forced confinement briefly.
 
-**Bearer cost:**The wearer feels every exit denied to someone else.
+**Bearer cost:** The wearer feels every exit denied to someone else.
 
 **Shield attribution:** The hinge-plate belongs to the wearable harness, not to a shrinking source door. Before cleaning or resting it, retain the denied-exit report and identify whose confinement was felt. Recounting the resident’s lockdown as the wearer’s own life is the source-trace warning; the terminal record is the manifestation using its bearer as a new site, not successful escape. A named witness states the source title and event as the wearer relinquishes the Shield. That shutdown preserves attribution and does not refund its cost.
 
@@ -239,7 +239,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Ability:** The charm cools when the bearer is standing in a place they are not permitted to leave, which is the only warning anybody carries for an unannounced closure and is used for that rather than for work.
 
-**Bearer cost:**The bearer learns the charm's cold as the only warning of a closure, so every warm room afterwards reads as one they could still walk out of.
+**Bearer cost:** The bearer learns the charm's cold as the only warning of a closure, so every warm room afterwards reads as one they could still walk out of.
 
 *Nine in eleven years, every one to a worker who stood in front of an opening and logged it shut. Not one has gone to anybody who named a choice at the handle, and four people have.*
 

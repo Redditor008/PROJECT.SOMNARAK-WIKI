@@ -214,7 +214,7 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 **Ability:** Weight damage against the Han — the reserves and what is owed. The edge leaves spores in the wound that drain momentum from whatever the target does next, so the blade's work is done after the cut rather than during it.
 
-**Bearer cost:**The bearer gets heavier without gaining weight, and prolonged use ages them slightly, most visibly in the hands. The armoury records the ageing against the wielder's ledger rather than against the piece, and on this set that has never been contested.
+**Bearer cost:** The bearer gets heavier without gaining weight, and prolonged use ages them slightly, most visibly in the hands. The armoury records the ageing against the wielder's ledger rather than against the piece, and on this set that has never been contested.
 
 ### M.A.W. Suit — Flowing Seed Mantle
 
@@ -232,7 +232,7 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 **Ability:** Wards the Han against Weight damage, which is this holding's whole manner of pressing. The mantle does not stop the ground from getting heavier; it stops the wearer from carrying the ground away with them after they step off it.
 
-**Bearer cost:**A constant low fatigue, low enough that bearers stop noticing it and are told to report it anyway. Two returns state that the bearers recognised it only after a week in another post.
+**Bearer cost:** A constant low fatigue, low enough that bearers stop noticing it and are told to report it anyway. Two returns state that the bearers recognised it only after a week in another post.
 
 ### M.A.W. Stigma — Flowing Seed Vial
 
@@ -246,7 +246,7 @@ The blade flat is etched with botanical germination diagrams filled with dark co
 
 **Ability:** Absorbs emotional pressure from a room.
 
-**Bearer cost:**The wearer carries the pressure afterward.
+**Bearer cost:** The wearer carries the pressure afterward.
 
 *Nineteen vials exist. Seventeen went to Wardens of this posting; the other two were given to drafters in the inquiry office who had never seen the entity, which the Warden Record notes without explaining.*
 

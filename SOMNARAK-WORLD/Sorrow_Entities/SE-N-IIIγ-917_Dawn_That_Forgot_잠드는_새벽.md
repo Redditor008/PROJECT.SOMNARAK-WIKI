@@ -165,7 +165,7 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 **Damage:** Void 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** *First Hour* — the strike takes the hour after waking rather than the body. The target keeps the day and loses the dawn of it, and cannot afterwards say what they had meant to do before the bell.
-**Bearer cost:**The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes. It is counted as an exposure on the infirmary’s running total, like everything else here.
+**Bearer cost:** The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes. It is counted as an exposure on the infirmary’s running total, like everything else here.
 
 **Edge exposure account:** The Weapon’s individual cost describes emotional numbness toward Void; this record describes waking slowly for a week. Log the two observations without treating one as proof of the other. A bearer may be lucid and still several seconds behind their eyes. Taking the Edge inside counts even if no strike was made, and neither a quiet blade nor an uneventful watch cancels that entry. The item’s source event remains unrecorded: attribution review must keep that absence instead of borrowing a resident’s dream to complete it.
 

@@ -191,7 +191,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Ability:** Lament against the Mind. Targets afterwards cannot be sure anything they said was received, and will ask — repeatedly, politely — for a few hours. Fourteen strikes, fourteen identical reports.
 
-**Bearer cost:**The wielder weeps involuntarily, and can no longer leave a question unanswered in conversation, which colleagues report as exhausting.
+**Bearer cost:** The wielder weeps involuntarily, and can no longer leave a question unanswered in conversation, which colleagues report as exhausting.
 
 ### M.A.W. Suit — The Drowned Shroud
 
@@ -209,7 +209,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Ability:** Turns Lament aside from the mind, which is the only register this holding occupies. What it buys is the hour it takes for the interval to be measured properly, and nothing else; it does not make the voices easier to hear.
 
-**Bearer cost:**The wearer goes numb to minor joys, and hears their own speech as if it were coming from the next room.
+**Bearer cost:** The wearer goes numb to minor joys, and hears their own speech as if it were coming from the next room.
 
 **Shroud anchor and care:** Bind only with an external voice anchor and a current air check. Inspect the dry breath line before wear, then dry the piece in open air while a partner confirms the wearer's present breathing rhythm. The recorded failures are treating memory as physical water, an anchor who shouts, and following an unreachable call. Resistance is not permission to enter the remembered inundation or dispense with the partner.
 
@@ -225,7 +225,7 @@ Cold seawater constantly sweats from the fuller grooves, pooling along the quill
 
 **Ability:** Carries a voice through submerged or sealed spaces.
 
-**Bearer cost:**The wearer hears calls from people who cannot be reached.
+**Bearer cost:** The wearer hears calls from people who cannot be reached.
 
 *The stigma is not manufactured. It is given to a Warden who answered the call without offering anything, and has never been given to one who told it that help was on the way.*
 

@@ -208,7 +208,7 @@ Escalation here is range and rate, not force. Record the first trigger, the firs
 
 **Ability:** Void against the Soul. Struck targets know the direction of something they have lost and nothing else about it — not what, not when — which all fourteen described as worse than not knowing.
 
-**Bearer cost:**Small nameless memories, and specifically the ones that would locate a thing: where it was kept, which room, which shelf.
+**Bearer cost:** Small nameless memories, and specifically the ones that would locate a thing: where it was kept, which room, which shelf.
 
 ### M.A.W. Suit — The Lost Veil
 
@@ -226,7 +226,7 @@ Escalation here is range and rate, not force. Record the first trigger, the firs
 
 **Ability:** Resistance to Void against the Soul, and the reason a channeller can hold a settled bearing for the full two minutes without starting to walk.
 
-**Bearer cost:**The wearer feels faintly absent to themselves and stops being able to find their own belongings in their own quarters.
+**Bearer cost:** The wearer feels faintly absent to themselves and stops being able to find their own belongings in their own quarters.
 
 ### M.A.W. Stigma — The Lost Compass
 
@@ -240,7 +240,7 @@ Escalation here is range and rate, not force. Record the first trigger, the firs
 
 **Ability:** Reveals which direction is wrong for the current objective.
 
-**Bearer cost:**It never identifies the correct direction.
+**Bearer cost:** It never identifies the correct direction.
 
 *Two in nine years, in both cases to a Warden who logged a bearing, closed the case, and did not follow it. Four parties have followed one; none of them has been given anything and all four write-ups are sealed.*
 

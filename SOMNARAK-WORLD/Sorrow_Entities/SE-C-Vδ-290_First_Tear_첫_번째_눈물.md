@@ -211,7 +211,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Ability:** Lament damage to the mind — emotional stability and willpower. It carries the first grief there was, and what it opens in a target is every loss they have had, undifferentiated and at once. The bearer must name the source event as unknown and pre-city and never their own; the first failure sign is describing it in the first person, and shutdown is a named witness stating the source title while the bearer relinquishes the piece. (Identity against *The First Requiem* remains held; no numeric profile is imported.)
 
-**Bearer cost:**The wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field duty afterwards at their own request.
+**Bearer cost:** The wielder carries the first grief and weeps involuntarily. Three authorised uses exist in the archive and all three bearers were retired from field duty afterwards at their own request.
 
 ### M.A.W. Suit — The First Shroud
 
@@ -226,7 +226,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 - Weight: 0.8 (Warded)
 **Ability:** Resists Lament, protecting emotional stability and willpower. It holds only while the bearer keeps the source distinct — naming the event unknown and pre-city — and only under the management condition with the Gauge below 25%; violating that limit reverses the benefit and raises the source Gauge. It is issued for the observation rota and has never been needed; the Tear has not attacked anyone.
 
-**Bearer cost:**The wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the medical office budgets a fortnight.
+**Bearer cost:** The wearer goes numb to small pleasures, and the numbness is slower to lift than with any other shroud on issue — the medical office budgets a fortnight.
 
 ### M.A.W. Stigma — The First Charm
 
@@ -237,7 +237,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 **Effect:** +3 stat bonus when working the source entity
 **Ability:** A minor boon tied to the source sorrow, mirroring its nature rather than serving the rota. The bearer names the event as unknown and accepts the same management limit as the set; shutdown requires a named witness to state the source title while the bearer relinquishes it, and describing the first grief as one's own is the first failure sign.
 
-**Bearer cost:**The bearer says the event is unknown every time they work it, and no watch on file records that getting any easier to say.
+**Bearer cost:** The bearer says the event is unknown every time they work it, and no watch on file records that getting any easier to say.
 
 *The first charm is not manufactured and has not been granted within living memory. It was in the vault at inventory, it has been worn by every senior observer since, and it is handed on rather than issued.*
 

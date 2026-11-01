@@ -210,7 +210,7 @@ The blade holds one historical shape at a time, and it takes that shape only aft
 
 **Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and what the struck report is a moment of not recognising the room they are standing in — the relic's own condition, handed on at arm's length.
 
-**Bearer cost:**The wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and declines to explain.
+**Bearer cost:** The wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also mislay small possessions at a rate the wing has measured and declines to explain.
 
 ### M.A.W. Suit — Home to No One Who Knew Me's Plate
 
@@ -230,7 +230,7 @@ Its plates change shape when nobody is watching, and only the current-name strip
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against the force this source carries. It gives no protection whatever against the confusion effect, which is not pressure and passes through every rating in the set.
 
-**Bearer cost:**The wearer's reflexes dull and their sense of belonging somewhere dulls with them. Wearers describe their own quarters as a place they are staying.
+**Bearer cost:** The wearer's reflexes dull and their sense of belonging somewhere dulls with them. Wearers describe their own quarters as a place they are staying.
 
 ### M.A.W. Stigma — Home to No One Who Knew Me's Ember
 
@@ -246,7 +246,7 @@ The black core inside the charm is keyed to what is missed rather than to fire, 
 
 **Ability:** Recalls one lost object to the wearer's hand.
 
-**Bearer cost:**The wearer feels the object's entire history as personal grief.
+**Bearer cost:** The wearer feels the object's entire history as personal grief.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the relic's own disposition, as unscheduled as its own appearances are, and nothing in the procedures obliges an object to part with anything.*
 

@@ -188,7 +188,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 **Ability:** The fang's damage is Grudge, booked against the Body on the armoury's own figures, which the sheet defines as physical form and structural integrity, with Double Mouth's grudge signature carried into the strike rather than any force the wielder brings to it. Those figures are transcribed and not observed. This holding has never produced a physical injury and the Threat Assessment's line that it makes no physical attacks is accurate, so what the fang does in a fight is a number on a sheet and nothing anybody has witnessed. Instead of that it does the second tone's work: a wielder carrying it into a room where two accounts disagree reports the disagreement arriving already answered, from the wrong side, and the answer is not giving dates.
 
-**Bearer cost:**The wielder's old wounds ache; each of them registers again in a room where nothing has touched them, and long use leaves faint bruising sitting exactly where those old injuries sit. The toll is dated and baselined before the piece goes out on the sheet and entered hour by hour while it is out, and a rhythm across the shift ends the use: one entry is a note, a pattern is a stand-down. The fang has been drawn here twice, both times at the hands of workers under instruction to leave it racked, and both entries stand in the field record with the hour written against them.
+**Bearer cost:** The wielder's old wounds ache; each of them registers again in a room where nothing has touched them, and long use leaves faint bruising sitting exactly where those old injuries sit. The toll is dated and baselined before the piece goes out on the sheet and entered hour by hour while it is out, and a rhythm across the shift ends the use: one entry is a note, a pattern is a stand-down. The fang has been drawn here twice, both times at the hands of workers under instruction to leave it racked, and both entries stand in the field record with the hour written against them.
 
 ### M.A.W. Suit — The Twofold Plate
 
@@ -206,7 +206,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 **Ability:** The plate resists Grudge damage, and the thing it protects is the Body in the sheet's sense of that word, form and integrity alike, worn against Double Mouth's kind of pressure rather than against any impact. In practice the plate does what the long listen does: it lets the wearer stay where two accounts do not agree and come out of the shift less damaged by it. Agreement between those two accounts is not something the plate produces, and nobody has ever issued it on that basis. The resistances on the sheet belong to the wing, while the piece's own disposition is the dulling on the next line, and that is the reason the rating covers what the kit does to a holding and nothing else.
 
-**Bearer cost:**The wearer's reflexes dull, plated over the way a held grudge plates them, and that dullness is how every stand-down on this set has been caught. It is not pain, and nobody wearing the plate notices it arriving. At the limit the bearer stops registering the toll altogether and only the slowness shows, so the piece is taken back and a second worker judges it, not the bearer: is the dullness still in their hands, and do they still catch a dropped thing. The bearer cannot answer for themselves on this. The collar going cold where the plate rests is the one sign wearers report without being asked.
+**Bearer cost:** The wearer's reflexes dull, plated over the way a held grudge plates them, and that dullness is how every stand-down on this set has been caught. It is not pain, and nobody wearing the plate notices it arriving. At the limit the bearer stops registering the toll altogether and only the slowness shows, so the piece is taken back and a second worker judges it, not the bearer: is the dullness still in their hands, and do they still catch a dropped thing. The bearer cannot answer for themselves on this. The collar going cold where the plate rests is the one sign wearers report without being asked.
 
 ### M.A.W. Stigma — The Twofold Voice
 
@@ -220,7 +220,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 **Ability:** Separates truth from emotional distortion in a spoken account.
 
-**Bearer cost:**The wearer hears contradictions in every conversation.
+**Bearer cost:** The wearer hears contradictions in every conversation.
 
 *Seven charms exist and two are worn. The acquisition note records that the holding does not consider the charm a reward and has said so in writing twice.*
 

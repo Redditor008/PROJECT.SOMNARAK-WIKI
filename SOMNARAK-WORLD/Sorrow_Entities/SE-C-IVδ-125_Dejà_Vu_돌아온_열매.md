@@ -175,7 +175,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Ability:** The Void Skewer separates an intrusive return image from the present space it overlays after current date, place and one present relationship are stated. It does not deny the memory's meaning, restore the lost home/person, or make a physical returned object appear in the bearer's hands.
 
-**Bearer cost:**Small, unattributable things go first: a route, a name at a counter, the face of somebody dealt with last month. The charge is cumulative on this set and is measured at 90 days against a baseline taken before issue; the Armoury's note is that it is reported by colleagues before the wielder notices it.
+**Bearer cost:** Small, unattributable things go first: a route, a name at a counter, the face of somebody dealt with last month. The charge is cumulative on this set and is measured at 90 days against a baseline taken before issue; the Armoury's note is that it is reported by colleagues before the wielder notices it.
 
 ### M.A.W. Suit — The Returning Veil
 
@@ -193,7 +193,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Ability:** *Current Outline* strongly resists Void return pressure by distinguishing the wearer's present self from a memory or object that has reappeared too late. When the witness speaks the three-part current anchor and the wearer answers with a present choice, *Here, Now* rejects one return-image surge for that escalation; answering only with a past fact freezes the anchor and returns resistance to normal.
 
-**Bearer cost:**The wearer comes to feel faintly absent to themselves — present, recorded, and not entirely convinced of either — and reports the present as slightly less convincing than their recollection of it, which is the same sentence the ninety-day measurement produces.
+**Bearer cost:** The wearer comes to feel faintly absent to themselves — present, recorded, and not entirely convinced of either — and reports the present as slightly less convincing than their recollection of it, which is the same sentence the ninety-day measurement produces.
 
 ### M.A.W. Stigma — The Returning Seed
 
@@ -207,7 +207,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Ability:** Recalls one lost memory with exceptional clarity.
 
-**Bearer cost:**The wearer temporarily loses a present memory of equal emotional weight.
+**Bearer cost:** The wearer temporarily loses a present memory of equal emotional weight.
 
 *The Returning Stigma is issued rather than manufactured, and it has been conferred 3 times on the same kind of worker: one who asked to be withdrawn from a watch they were not finding unpleasant, which is the single act the holding treats as a correct reading of itself.*
 

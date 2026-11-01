@@ -176,7 +176,7 @@ Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan
 
 **Ability:** Silent passage through reflective surfaces, over short distances, by the wielder alone. Used four times, all four in the gazetteer vault, all four to reach shelving that could not be approached without disturbing a seal.
 
-**Bearer cost:**The wielder carries, for about a day, the anger of people whose ward is not on a map. Three wielders have said they would rather keep it than have it explained, and the armoury has stopped offering the counselling referral as a condition of issue.
+**Bearer cost:** The wielder carries, for about a day, the anger of people whose ward is not on a map. Three wielders have said they would rather keep it than have it explained, and the armoury has stopped offering the counselling referral as a condition of issue.
 
 ### M.A.W. Suit — Mirror of Rising Mantle
 
@@ -194,7 +194,7 @@ Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan
 
 **Ability:** Wards Weight pressure on the Han. Required dress for the evening reading on any day the previous figure exceeded a metre and a half, after two readers found the walk to the scale uphill enough to lean against the wall.
 
-**Bearer cost:**A constant low fatigue, roughly that of a long day already worked, persisting about six hours after removal. It is the most tolerated cost in the wing and the establishment has never had difficulty staffing the reading.
+**Bearer cost:** A constant low fatigue, roughly that of a long day already worked, persisting about six hours after removal. It is the most tolerated cost in the wing and the establishment has never had difficulty staffing the reading.
 
 ### M.A.W. Stigma — Mirror of Rising Charm
 
@@ -208,7 +208,7 @@ Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan
 
 **Ability:** The bearer's hand is steady copying out a struck name, and the copy is legible even where the original plate is worn. Eleven of the two hundred and twelve restorations were transcribed by charm bearers from plates the gazetteer office had written off as unreadable.
 
-**Bearer cost:**A half-step slower at everything, permanently while worn. Two bearers have been moved off response rosters because of it, both at their own request and both after reading the dispatch directorate's statement.
+**Bearer cost:** A half-step slower at everything, permanently while worn. Two bearers have been moved off response rosters because of it, both at their own request and both after reading the dispatch directorate's statement.
 
 *The charm has been granted seven times, every one of them to a worker who entered a ward's old name on a document where only the current one was required. Four were asked to amend the document. None did. The Market records the pattern, declines to make it a criterion, and declines equally to pretend it has not noticed.*
 

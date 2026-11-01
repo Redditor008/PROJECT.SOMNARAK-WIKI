@@ -183,7 +183,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Ability:** Void damage to the Soul. The five globes chime pure tones as they align, which the armoury concedes is an unfortunate property for a piece drawn from this holding, and which it has twice declined to engineer out on the ground that the sound is load-bearing in the mechanism.
 
-**Bearer cost:**Small nameless memories, one or two a use, never recoverable and never important. Wielders report the loss as the sensation of having been about to say something.
+**Bearer cost:** Small nameless memories, one or two a use, never recoverable and never important. Wielders report the loss as the sensation of having been about to say something.
 
 ### M.A.W. Suit — The Voice Veil
 
@@ -201,7 +201,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Ability:** Resists Void pressure on the Soul. Issued to the Warden holding the tape at the far stud, who works with their back to the figure for the length of the measurement and is the only person in the chamber who cannot see it.
 
-**Bearer cost:**The wearer feels faintly absent from themselves for about a day. Eight of eleven wearers describe it, unprompted, as being in a room where nobody can hear them, and all eight add that it is not frightening, only tiring.
+**Bearer cost:** The wearer feels faintly absent from themselves for about a day. Eight of eleven wearers describe it, unprompted, as being in a room where nobody can hear them, and all eight add that it is not frightening, only tiring.
 
 ### M.A.W. Stigma — The Voice Amplifier
 
@@ -215,7 +215,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Ability:** The bearer cannot be made inaudible. Their voice carries through the silence, through the pressure, and through the moment in a breach when nobody else in the room can form words.
 
-**Bearer cost:**The bearer hears every unheard plea within about forty metres — not screams, mostly: people asking for things quietly and being talked past. It stops when the amplifier comes off.
+**Bearer cost:** The bearer hears every unheard plea within about forty metres — not screams, mostly: people asking for things quietly and being talked past. It stops when the amplifier comes off.
 
 *The amplifier has been granted five times, each to a worker who kept answering after the session had formally closed and the chamber had been logged as cleared. Three were reprimanded for the overrun. The holding records the pattern and refuses to make it a criterion, on the ground that an answer given in order to be given a thing is not an answer.*
 

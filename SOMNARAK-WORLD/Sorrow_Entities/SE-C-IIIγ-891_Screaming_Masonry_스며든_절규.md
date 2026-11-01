@@ -226,7 +226,7 @@ Escalation here is absorption. Record the bearing, the vibration amplitude along
 
 **Ability:** The maul's damage is Weight, landed on the Han, which the sheet glosses as the sorrow held in reserve and the debt carried against it, with Screaming Masonry's weight signature in the strike and none of the wielder's in it. The pattern is a skewer down a line: the primary takes the whole of it, then a falloff to 70 and then 50 across the two targets it pierces, three at the most. The listed multiplier is applied to direct damage and to Tick damage separately, never once between them. The Maul’s source record interrupts an immediate manifestation only after attribution to Screaming Masonry. Making obligations legible does not establish audible sound, and no higher or lower grade is inferred from that distinction.
 
-**Bearer cost:**Heaviness accumulates on the wielder with use and does not leave when the maul goes back in the rack. Prolonged use ages them slightly, which the survey enters as a line and the medical side has never been asked about. Keep the local compulsion to voice grievances beside, not in place of, the source’s shared corrosion: treating the district’s event as the bearer’s autobiography. The nearby team bears consequences too, but the individual cost is not a set-wide resilience timer.
+**Bearer cost:** Heaviness accumulates on the wielder with use and does not leave when the maul goes back in the rack. Prolonged use ages them slightly, which the survey enters as a line and the medical side has never been asked about. Keep the local compulsion to voice grievances beside, not in place of, the source’s shared corrosion: treating the district’s event as the bearer’s autobiography. The nearby team bears consequences too, but the individual cost is not a set-wide resilience timer.
 
 ### M.A.W. Suit — Screaming Masonry Mantle
 
@@ -246,7 +246,7 @@ The mantle's safety doctrine is written on its own inner hem in the source's res
 
 **Ability:** Resistance to Weight damage; the Han is what stands behind it — the sorrow held in reserve, and the debt standing against it — worn against Screaming Masonry's kind of pressure. On the sheet the mantle reads warded against Weight at 0.5, normal against Lament and Grudge, and weak against Void at 1.5; it is therefore chosen for a holding where duty accumulates and not for one where something is cut.
 
-**Bearer cost:**The wearer carries a constant low fatigue, the kind the survey logs and nobody treats, because it never rises to the level of a symptom and never clears either. It is entered at the door and entered again at the desk, and a mantle returned with the fatigue already standing in its bearer is not reissued that week. The exact Suit record names low fatigue as an operational cost; it is not cancelled by the absence of a new complaint. Resistance carries the wearer through pressure, not through a proof of recovery, and a logged cost is not clinical clearance.
+**Bearer cost:** The wearer carries a constant low fatigue, the kind the survey logs and nobody treats, because it never rises to the level of a symptom and never clears either. It is entered at the door and entered again at the desk, and a mantle returned with the fatigue already standing in its bearer is not reissued that week. The exact Suit record names low fatigue as an operational cost; it is not cancelled by the absence of a new complaint. Resistance carries the wearer through pressure, not through a proof of recovery, and a logged cost is not clinical clearance.
 
 ### M.A.W. Stigma — Screaming Masonry Ring
 
@@ -262,7 +262,7 @@ The ring is conferred and never requisitioned, and what it returns is an itemisa
 
 **Ability:** Reveals lies and hidden obligations.
 
-**Bearer cost:**The wearer feels the burden behind every deception.
+**Bearer cost:** The wearer feels the burden behind every deception.
 
 *The Screaming Masonry Ring is conferred rather than made, and no requisition reaches it. Nine workers carry it. Every one of them finished a transcript that named somebody still living in the district, and not one of them stopped at the name.*
 

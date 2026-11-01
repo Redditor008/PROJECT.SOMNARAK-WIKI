@@ -66,7 +66,7 @@ From the wiki research, Tool Abnormalities have three distinct types:
 |**Channeled Use Tools**|09 classification|Have a constant work use that can be cancelled when ordered again. Have a "Time of Use" to unlock information.|Don't Touch Me (O-05-47)|
 |**Equippable Tools**|09 classification|An Agent equips upon use. When equipped, they grant their effects to the Agent.|Crumbling Armor (O-05-61)|
 
-**Note:** The Kind Echo (SE-C-Iα-000) is the SOMNARAK equivalent of the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations.
+**Note:**  The Kind Echo (SE-C-Iα-000) is the SOMNARAK equivalent of the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations.
 
 ### VII. SOMNARAK-Specific Systems (No Direct L Corp Equivalent)
 
@@ -84,13 +84,13 @@ From the wiki research, Tool Abnormalities have three distinct types:
 
 When a SOMNARAK Sorrow Entity arrives in the PM universe through the Well of Cogito:
 
-1. **Classification Crisis:** The entity would be classified as an Abnormality, but the SECC system doesn't map perfectly to the L Corp system. The Well would attempt to convert it using the mapping tables.
+1. **Classification Crisis:**  The entity would be classified as an Abnormality, but the SECC system doesn't map perfectly to the L Corp system. The Well would attempt to convert it using the mapping tables.
     
-2. **Work Type Adaptation:** L Corp employees would need to learn SOMNARAK's Work Types (Flerehan, Pugnahan, Viderehan, Ferrehan) or map them to existing works (Attachment, Repression, Insight, Instinct).
+2. **Work Type Adaptation:**  L Corp employees would need to learn SOMNARAK's Work Types (Flerehan, Pugnahan, Viderehan, Ferrehan) or map them to existing works (Attachment, Repression, Insight, Instinct).
     
 3. **R.D. Attribute Development:** L Corp employees exposed to Han would develop new stats (Composure, Resolve, Clarity, Resilience) that don't exist in standard employees.
     
-4. **Equipment Translation:** M.A.W. would be converted to E.G.O, but the extraction method differs (resonance vs. facility systems).
+4. **Equipment Translation:**  M.A.W. would be converted to E.G.O, but the extraction method differs (resonance vs. facility systems).
     
 5. **The Terminal (S.A.M.S.):** Would contain the conversion tables and serve as a bridge between the two systems.
     

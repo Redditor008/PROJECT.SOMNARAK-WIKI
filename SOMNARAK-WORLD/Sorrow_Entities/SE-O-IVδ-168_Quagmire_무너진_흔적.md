@@ -208,7 +208,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Ability:** A brass thurible trailing lavender smoke that holds an emotional oasis around its bearer — the smoke steadies composure against anything the Desolate puts in front of the eyes, and the hot bowl does the rest at close quarters.
 
-**Bearer cost:**The bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tears run underneath it, which colleagues find more unsettling than panic would be.
+**Bearer cost:** The bearer weeps, steadily and without distress, for travellers they never met and cannot name. The composure the censer grants is genuine and the tears run underneath it, which colleagues find more unsettling than panic would be.
 
 ### M.A.W. Suit — The Trace Shroud
 
@@ -226,7 +226,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Ability:** Han-silk wrapping that holds the wearer's composure under Lament pressure, tightening as it nears the line it was drawn from.
 
-**Bearer cost:**The shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Desolate steady, competent, and unable to say whether the trip back was good or bad.
+**Bearer cost:** The shroud protects by filtering out everything below a certain weight, and it cannot tell a small grief from a small pleasure. Wearers come off the Desolate steady, competent, and unable to say whether the trip back was good or bad.
 
 ### M.A.W. Stigma — The Trace Lantern
 
@@ -240,7 +240,7 @@ The aromatic smoke creates an emotional oasis that shields the bearer's composur
 
 **Ability:** Reveals hidden routes beneath sorrow and dust.
 
-**Bearer cost:**The user hears every traveler who never arrived.
+**Bearer cost:** The user hears every traveler who never arrived.
 
 *The Trace Lantern is given, not taken. It has appeared only on workers who recovered a name and filed it, and no procedure has produced one deliberately.*
 

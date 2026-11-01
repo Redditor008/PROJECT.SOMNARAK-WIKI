@@ -175,7 +175,7 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 
 **Ability:** The narcotic round deepens sleep in whatever it strikes. On this holding it is carried for the corridor and has never been fired inside the zone.
 
-**Bearer cost:**Small unremarkable memories go; the wielder does not notice which, which is how the armoury knows the count is right.
+**Bearer cost:** Small unremarkable memories go; the wielder does not notice which, which is how the armoury knows the count is right.
 
 ### M.A.W. Suit — The Sleeping Veil
 
@@ -195,7 +195,7 @@ The waiting worker’s account and the template reading remain separate: resista
 
 **Ability:** Holds the Void pressure off long enough to stand the full wait at the template line.
 
-**Bearer cost:**The wearer feels faintly absent to themselves and reports it late, usually when somebody else mentions it first, which is how the delay gets into the record rather than the absence.
+**Bearer cost:** The wearer feels faintly absent to themselves and reports it late, usually when somebody else mentions it first, which is how the delay gets into the record rather than the absence.
 
 ### M.A.W. Stigma — The Sleeping Reflection
 
@@ -211,7 +211,7 @@ Keep its reading of another person’s exhaustion separate from the bearer’s i
 
 **Ability:** The bearer can see how tired the person in front of them actually is, which the counselors consider the most dangerous useful thing in the armoury.
 
-**Bearer cost:**The bearer sees pity in every face, including the faces of people who are not feeling any.
+**Bearer cost:** The bearer sees pity in every face, including the faces of people who are not feeling any.
 
 *The tile is given, not issued, and only to a worker who has filed a retrospective report without softening it. Seven exist.*
 

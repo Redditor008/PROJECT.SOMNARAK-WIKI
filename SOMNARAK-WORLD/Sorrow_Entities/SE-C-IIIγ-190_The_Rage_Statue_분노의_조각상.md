@@ -214,7 +214,7 @@ The breastplate is embedded with jagged chips of white marble and cooled red sla
 
 **Ability:** *Pyric Tempering* — Absorbs incoming Grudge and heat damage, converting stored thermal energy into kinetic speed (+10% attack speed when bearer is below 50% HP).
 
-**Bearer cost:**The wearer's thoughts run hot; small grievances feel immediately personal and urgent.
+**Bearer cost:** The wearer's thoughts run hot; small grievances feel immediately personal and urgent.
 
 ### M.A.W. Stigma — The Chiseled Knuckle Stigma
 
@@ -233,7 +233,7 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 **Ability:** *Stonefist Resolve* — Unarmed strikes deal +4 Grudge damage; bearer gains +1 Resilience and cannot have weapons knocked from their grip. This additional combat effect is recorded only in the primary.
 
-**Bearer cost:**The bearer's fingers become stiff and cold during periods of calm.
+**Bearer cost:** The bearer's fingers become stiff and cold during periods of calm.
 
 *The Chiseled Knuckle is not manufactured and is not issued on request. It has gone out twice, in both cases to a Warden who named the wrong over the channel while standing inside the corrupted radius and got it right first time.*
 

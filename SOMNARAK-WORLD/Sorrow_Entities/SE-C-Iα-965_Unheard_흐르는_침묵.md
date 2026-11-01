@@ -183,7 +183,7 @@ Read the responses against the classification. Unheard is a Subject whose manife
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — in the holding's own register: a strike that carries nothing to hear, which is why the wound and the silence arrive together.
 
-**Bearer cost:**The wielder's old wounds ache from the first hour, and prolonged use leaves faint bruising in patterns the Armoury has photographed and does not explain; both are entered against the piece at the end of the rotation.
+**Bearer cost:** The wielder's old wounds ache from the first hour, and prolonged use leaves faint bruising in patterns the Armoury has photographed and does not explain; both are entered against the piece at the end of the rotation.
 
 ### M.A.W. Suit — Unheard Plate
 
@@ -201,7 +201,7 @@ Read the responses against the classification. Unheard is a Subject whose manife
 
 **Ability:** Wards the wearer against Grudge pressure — plate against the hush rather than armour against a blow — and the file records no other use for it.
 
-**Bearer cost:**Reaction time falls away under a resentment the wearer did not arrive with, and the wearer stops mentioning it, which is why the second worker watches for it: on a Unheard plate the end point is the wearer's own silence about the cost.
+**Bearer cost:** Reaction time falls away under a resentment the wearer did not arrive with, and the wearer stops mentioning it, which is why the second worker watches for it: on a Unheard plate the end point is the wearer's own silence about the cost.
 
 ### M.A.W. Stigma — Unheard Lantern
 
@@ -215,7 +215,7 @@ Read the responses against the classification. Unheard is a Subject whose manife
 
 **Ability:** Makes hidden lies and suppressed endings visible.
 
-**Bearer cost:**The wielder feels the entity's anger at every ignored voice.
+**Bearer cost:** The wielder feels the entity's anger at every ignored voice.
 
 *Six lanterns exist. Each was issued to a Warden who recorded, in their own hand and over their own name, something a person had only said aloud — which is irregular, which is unusable, and which the wing has never once refused to allow.*
 

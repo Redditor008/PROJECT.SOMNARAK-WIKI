@@ -238,7 +238,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Sorrow Seed's weight signature in the strike.
 
-**Bearer cost:**The wielder's own pace drops to the seed's: a hand's width at a time, in one direction, and no shift on file records the bearer noticing it happen.
+**Bearer cost:** The wielder's own pace drops to the seed's: a hand's width at a time, in one direction, and no shift on file records the bearer noticing it happen.
 
 ### M.A.W. Suit — The Sorrow Mantle
 
@@ -256,7 +256,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Sorrow Seed's kind of pressure.
 
-**Bearer cost:**The wearer carries a constant low fatigue that the Armoury logs and nobody treats.
+**Bearer cost:** The wearer carries a constant low fatigue that the Armoury logs and nobody treats.
 
 ### M.A.W. Stigma — Sorrow Seed
 
@@ -270,7 +270,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 **Ability:** Can be planted to grow a minor entity for research, in the linked Stigma record. That canonical use is not authorised inside this holding's enclosure, where no planting test is permitted.
 
-**Bearer cost:**Uncontrolled growth if not tended.
+**Bearer cost:** Uncontrolled growth if not tended.
 
 *The eleven seed-charms were granted on watches in which the observer wrote down a roster balance they knew would embarrass the duty office, and filed it anyway.*
 

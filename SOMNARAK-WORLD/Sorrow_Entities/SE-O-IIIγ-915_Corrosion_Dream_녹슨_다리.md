@@ -190,7 +190,7 @@ Corroded as it looks, the edge is polished to a razor. The cutlass is built for 
 
 **Ability:** Void damage to the soul. The blade carries the span's signature, and what it takes from a target is the recollection of a plan they abandoned at the drawing stage, which does not return.
 
-**Bearer cost:**The wielder loses small, nameless memories, beginning with the names of places they intended to go and did not.
+**Bearer cost:** The wielder loses small, nameless memories, beginning with the names of places they intended to go and did not.
 
 ### M.A.W. Suit — The Rusted Span
 
@@ -210,7 +210,7 @@ The span is worn at 35 Sorrow Echoes a deployment and its effect is the dreamed 
 
 **Ability:** Creates a temporary path through hostile space.
 
-**Bearer cost:**The wearer feels everyone who cannot follow.
+**Bearer cost:** The wearer feels everyone who cannot follow.
 
 ### M.A.W. Stigma — The Rusted Charm
 
@@ -226,7 +226,7 @@ It is a head-slot stigma, and what it shows is the failed crossing and the peopl
 
 **Ability:** The charm warms when the bearer is within reach of something they have given up on, which is a navigational aid rather than a comfort and is used as one.
 
-**Bearer cost:**The bearer learns where every abandoned thing in the district is, and the charm warms the same for all of them.
+**Bearer cost:** The bearer learns where every abandoned thing in the district is, and the charm warms the same for all of them.
 
 *The stigma is not made anywhere. It goes to a Warden who named the crossing and the loss in one sentence, and it has never once gone to one who told the figure the bridge would be built.*
 

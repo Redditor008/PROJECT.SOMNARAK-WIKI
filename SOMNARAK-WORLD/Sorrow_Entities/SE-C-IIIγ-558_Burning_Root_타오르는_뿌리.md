@@ -187,7 +187,7 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Burning Root's weight signature in the strike.
 
-**Bearer cost:**The wielder is held to the piece's own recovery rule — one breath and one true statement of present responsibility between attacks — and the bearers who cannot produce the statement are the ones who get hurt.
+**Bearer cost:** The wielder is held to the piece's own recovery rule — one breath and one true statement of present responsibility between attacks — and the bearers who cannot produce the statement are the ones who get hurt.
 
 Binding asks the wielder to name a duty chosen and a duty inherited. Ledgerbreak exposes an inherited burden feeding present Weight pressure; it cannot erase a debt, absolve harm or damage freely chosen care. A false strike transfers the targeted obligation to the wielder. Continuous swinging bends the pierce line toward family members, including people outside the room. Three unresolved debt-line strikes carry severe corrosion risk, so a count of successful impacts is not evidence of a safe sequence.
 
@@ -207,7 +207,7 @@ Binding asks the wielder to name a duty chosen and a duty inherited. Ledgerbreak
 
 **Ability:** Allows the wearer to endure recurring physical and emotional strain.
 
-**Bearer cost:**The wearer begins to miss the burden when it is absent.
+**Bearer cost:** The wearer begins to miss the burden when it is absent.
 
 The Familiar Burden binds without a family ledger; a written debt record closes the collar before deployment. Its protection depends on the wearer being able to state what the load is for. Three simultaneous recurring loads root the hem into the floor; a fourth makes the suit treat the wearer as structural support and resist removal. Relief at putting it on, calling rest abandonment and inventing further duties are warning signs, not devotion. At emergency release the temporary right-shoulder mission-knot is cut while the wearer says, “The work ended before I did.” Support the resulting lightness vertigo without putting the suit back on.
 
@@ -223,7 +223,7 @@ The Familiar Burden binds without a family ledger; a written debt record closes 
 
 **Ability:** Grants a minor boon tied to Burning Root's sorrow; the effect mirrors the entity's nature. The *Unentered Name* distinguishes the bearer from one inherited obligation for a work cycle: the name blurs in written accounts while the amount stays readable. A second Charm becomes inert ash.
 
-**Bearer cost:**The bearer's own name is the one that blurs: for a cycle they are the person who is not on the document, and afterwards they have to check which name they answer to.
+**Bearer cost:** The bearer's own name is the one that blurs: for a cycle they are the person who is not on the document, and afterwards they have to check which name they answer to.
 
 Willingly signing another person’s obligation as proof of belonging completes the stamped root into a surname. In that corrupted state Resolve is granted only while the inherited demand is obeyed; the seal must be removed rather than counted as functioning protection. Removal requires the bearer to name a relationship that would survive without debt while a second person lifts the Charm. Direction is temporarily lost afterward, so the bearer is not sent home alone.
 

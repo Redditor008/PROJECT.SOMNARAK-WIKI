@@ -200,7 +200,7 @@ The widening here is documentary, not thermal or structural: the hall takes in c
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — with the hall's own method: not a single argument but a room of them, and what the target comes away holding is contradiction.
 
-**Bearer cost:**the wielder carries the hall's unwept grief for as long as the blade is on them, and after a season of it the weeping begins unasked. The Armoury enters the symptom against the wielder, following the file's own logic: what accumulates on this posting is the work, not the steel.
+**Bearer cost:** the wielder carries the hall's unwept grief for as long as the blade is on them, and after a season of it the weeping begins unasked. The Armoury enters the symptom against the wielder, following the file's own logic: what accumulates on this posting is the work, not the steel.
 
 ### M.A.W. Suit — The Gallery Shroud
 
@@ -218,7 +218,7 @@ The widening here is documentary, not thermal or structural: the hall takes in c
 
 **Ability:** Wards the Mind — emotional stability, willpower — where the pressure is Lament and nowhere else; the treatment is the hall's own, cut for sorrow that arrives as a voice, and the record holds no other order for it.
 
-**Bearer cost:**the wearer loses their footing with minor joys first, and the loss is not theirs to report: the pair system requires the second worker to log it, and on a set issued for a single rotation the entry stands whether or not the wearer agrees the numbness is there.
+**Bearer cost:** the wearer loses their footing with minor joys first, and the loss is not theirs to report: the pair system requires the second worker to log it, and on a set issued for a single rotation the entry stands whether or not the wearer agrees the numbness is there.
 
 ### M.A.W. Stigma — The Gallery Stone
 
@@ -232,7 +232,7 @@ The widening here is documentary, not thermal or structural: the hall takes in c
 
 **Ability:** Reveals the name attached to a forgotten image.
 
-**Bearer cost:**The wearer hears every name they cannot recover.
+**Bearer cost:** The wearer hears every name they cannot recover.
 
 *The Gallery Stone is not manufactured and not issued on request. It has been granted four times, and each grant falls in the same week as one of the four documentary restorations, which the wing has recorded without offering an explanation for it.*
 

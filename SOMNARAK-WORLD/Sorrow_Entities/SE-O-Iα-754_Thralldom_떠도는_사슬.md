@@ -188,7 +188,7 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Ability:** Scores a line across the floor that nothing crosses at full speed, halving the movement of anything that tries — a thirty-six inch sword etched with land deeds, which settles the question of where a thing may go by the oldest available method.
 
-**Bearer cost:**Every injury the wielder has ever recovered from begins to ache again, and faint bruising surfaces along the lines of old breaks. Nothing new is damaged. The body is simply reminded of everything it has already been held by.
+**Bearer cost:** Every injury the wielder has ever recovered from begins to ache again, and faint bruising surfaces along the lines of old breaks. Nothing new is damaged. The body is simply reminded of everything it has already been held by.
 
 **Voluntary return:** The individual Weapon record requires care to remain distinct from restraint, with an open exit preserved. Its warning progression is blurred attribution, compulsion accepted as normal, then the originating event repeated through the operator. Record source, bearer, trigger, result and unresolved uncertainty before debrief; cleaning or rest follows that review. A named witness restates the resolution while the bearer relinquishes the blade voluntarily. Taking it by force is not the shutdown described in that record, and no piece claims to resolve the Chain alone.
 
@@ -208,7 +208,7 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Ability:** Han-iron plate that shifts and breathes with the wearer and hardens against Grudge pressure, keeping a body intact against something that binds and drags rather than strikes.
 
-**Bearer cost:**The harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers report that stepping back out of a bad situation now requires a decision where it used to require none.
+**Bearer cost:** The harness answers slightly after the wearer does. Nothing is prevented, but every movement away from something becomes deliberate, and wearers report that stepping back out of a bad situation now requires a decision where it used to require none.
 
 **Working exit:** The Plate’s individual history records release only when its own wearer could leave. The open door is therefore part of that test, not a promise made by the person supervising it. Source emotion entering the wearer can make custody feel like protection, while the primary account records withdrawal becoming deliberate. Preserve both observations in debrief rather than treating compliance as consent. Its recorded emergency procedure requires voluntary relinquishment while a named witness restates the resolution; maintenance follows the debrief, with unresolved uncertainty still attached.
 
@@ -224,7 +224,7 @@ The sword marks territorial boundaries across chamber floors. Entities crossing 
 
 **Ability:** Reveals bonds that have become coercive.
 
-**Bearer cost:**The wearer feels every bond they have left behind.
+**Bearer cost:** The wearer feels every bond they have left behind.
 
 **Unattached link:** The individual Stigma history distinguishes acknowledging an obligation from fastening it to a body. Its corrosion account makes the danger concrete: the single link starts seeking a second and then a third as compulsion becomes ordinary. Keep the source, bearer, trigger, result and unresolved uncertainty for debrief before rest or cleaning. A named witness restates the resolution while the bearer gives it up voluntarily. Revealing a coercive bond does not authorize replacing it with a new one, even when the bearer calls the replacement care.
 

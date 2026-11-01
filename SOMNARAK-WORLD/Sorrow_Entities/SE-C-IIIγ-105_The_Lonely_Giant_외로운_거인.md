@@ -198,7 +198,7 @@ A load-limit line crosses the broad, unpolished head. The ribbed haft ends in an
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Lonely Giant's weight signature in the strike.
 
-**Bearer cost:**The wielder's own frame carries the archetype's weight, which is why the fitting is checked before every issue — the maul does not tell its bearer when it has become too much.
+**Bearer cost:** The wielder's own frame carries the archetype's weight, which is why the fitting is checked before every issue — the maul does not tell its bearer when it has become too much.
 
 ### M.A.W. Suit — The Giant's Mantle
 
@@ -218,7 +218,7 @@ The collar opens onto a narrow space only after the wearer names somewhere to re
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Lonely Giant's kind of pressure.
 
-**Bearer cost:**The wearer carries a low fatigue that rest does not clear, and the onset is invisible from the inside — the second worker is the one who enters it, never the wearer.
+**Bearer cost:** The wearer carries a low fatigue that rest does not clear, and the onset is invisible from the inside — the second worker is the one who enters it, never the wearer.
 
 ### M.A.W. Stigma — The Giant's Ring
 
@@ -234,7 +234,7 @@ For *Leave Room*, identify the load’s owner and receive permission before the 
 
 **Ability:** Grants extraordinary strength and resistance to physical force.
 
-**Bearer cost:**Everything touched feels heavier—objects, people, and the world itself.
+**Bearer cost:** Everything touched feels heavier—objects, people, and the world itself.
 
 *Seven rings exist. Each came off crystal the Giant shed where it sat, and each is oversized past any standard fitting — a fact the wing noticed and chose not to correct.*
 

@@ -185,7 +185,7 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the shadow itself works: not by striking, but by being overlooked until the target's own certainty begins to come apart.
 
-**Bearer cost:**The wielder carries the holding's unwept grief — weeping arrives unbidden and out of proportion, the intervals are logged by the second worker, and prolonged use lengthens them.
+**Bearer cost:** The wielder carries the holding's unwept grief — weeping arrives unbidden and out of proportion, the intervals are logged by the second worker, and prolonged use lengthens them.
 
 ### M.A.W. Suit — The Shadow Shroud
 
@@ -204,7 +204,7 @@ The route line follows the overlooked trace; the identity mark keeps the wearer 
 
 **Ability:** Wards the Mind against Lament pressure and nothing else: the shroud is cut for the shadow's kind of pressure, and the file records no other use for it.
 
-**Bearer cost:**the wearer goes numb to minor joys, and because the loss is quiet the second worker logs it rather than the wearer.
+**Bearer cost:** the wearer goes numb to minor joys, and because the loss is quiet the second worker logs it rather than the wearer.
 
 ### M.A.W. Stigma — The Shadow Song
 
@@ -218,7 +218,7 @@ The route line follows the overlooked trace; the identity mark keeps the wearer 
 
 **Ability:** Allows the wearer to perceive people or places erased from ordinary awareness.
 
-**Bearer cost:**The wearer becomes easier for others to forget.
+**Bearer cost:** The wearer becomes easier for others to forget.
 
 *Fourteen songs exist. The file notes that every holder was granted one after a cycle in which they sang badly and kept going, and declines to draw a conclusion from it.*
 

@@ -211,7 +211,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 **Ability:** *Before Zero* — once the external verifier confirms the due date, one support action and a protected rest interval, the maul disperses one imminent Weight surge long enough for the team to complete the next verified action. It cannot cancel a debt or move a deadline by force, and it has never been raised in the clock room, where striking the holding is prohibited.
 
-**Bearer cost:**A heaviness that accumulates across a shift and a slight ageing that does not reverse. One wielder has been retired on it, early, on the establishment's full pension.
+**Bearer cost:** A heaviness that accumulates across a shift and a slight ageing that does not reverse. One wielder has been retired on it, early, on the establishment's full pension.
 
 ### M.A.W. Suit — The Deadline Mantle
 
@@ -229,7 +229,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 **Ability:** *Scheduled Pause* — while a verified plan and named support person remain active, the mantle spreads deadline Weight through its incomplete hem marks; when the support person declares the planned rest interval, it holds one deadline-induced Weight spike while the wearer steps into the pause. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief.
 
-**Bearer cost:**A constant low fatigue, about that of a long day already worked, persisting some hours after removal. It is the most tolerated cost in the Row and the clock room has never lacked volunteers.
+**Bearer cost:** A constant low fatigue, about that of a long day already worked, persisting some hours after removal. It is the most tolerated cost in the Row and the clock room has never lacked volunteers.
 
 ### M.A.W. Stigma — The Deadline Watch
 
@@ -243,7 +243,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 **Ability:** *Plan Beyond It* — the watch shows no date until an external verifier is identified; then it marks one verified obligation's due point and the planned support action toward it. It cannot verify an unreviewed claim or change a due date. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people, and that telling people is the rule's job and not a bearer's.
 
-**Bearer cost:**The mechanism, audible in sleep, every night, for as long as the charm is held and about a month after it is given up. Nine of the eleven have kept it anyway. The counselling wing logs this one because the armoury has no column for it.
+**Bearer cost:** The mechanism, audible in sleep, every night, for as long as the charm is held and about a month after it is given up. Nine of the eleven have kept it anyway. The counselling wing logs this one because the armoury has no column for it.
 
 *The watch-charm has been granted eleven times, every one of them to a worker who told a claimant the published date to their face when it would have been easier and equally proper to let the letter do it. Four of the eleven did so knowing the claimant would miss it anyway. The Row records the pattern, declines to make it a criterion, and does not pretend the pattern is a comfortable one.*
 

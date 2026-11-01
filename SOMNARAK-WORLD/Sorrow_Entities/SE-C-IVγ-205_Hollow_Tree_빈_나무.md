@@ -191,7 +191,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 **Ability:** Absorbs Han-energy from the surrounding environment.
 
-**Bearer cost:**The wielder feels the emptiness of every place they enter.
+**Bearer cost:** The wielder feels the emptiness of every place they enter.
 
 ### M.A.W. Suit — The Hollow Bark-Carapace
 
@@ -210,7 +210,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 **Ability:** Resistance to Weight against the Han, and the reason a warden can sit a full hour inside the trunk rather than the twenty minutes the unprotected record shows.
 
-**Bearer cost:**A constant low fatigue, and the sense of having been useful at something the wearer cannot name.
+**Bearer cost:** A constant low fatigue, and the sense of having been useful at something the wearer cannot name.
 
 ### M.A.W. Stigma — The Splintered Gullet
 
@@ -225,7 +225,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 **Ability:** The bearer knows, without checking, whether a thing they are holding was made for a purpose that still exists. Tested 41 times against the Gardens' own stores; 38 correct.
 
-**Bearer cost:**The bearer cannot pick up a tool without learning what it was made for, and most of what the Gardens stores was made for work that no longer exists.
+**Bearer cost:** The bearer cannot pick up a tool without learning what it was made for, and most of what the Gardens stores was made for work that no longer exists.
 
 *Eleven gullets exist. Each was cut from heartwood taken at a long Flerehan watch, and each was issued to the Warden who sat that watch rather than to the wing that scheduled it.*
 

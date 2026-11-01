@@ -164,7 +164,7 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 
 **Damage:** Lament 14–23 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** *Not On the List* — the strike does its work on the phantasmal register, and a struck body does not show the wound until the hour has ended. The column never turns for it: in thirty-four occurrences nothing has made it change course.
-**Bearer cost:**The wielder counts things afterwards — chairs, windows, people in a corridor — and arrives at a figure before deciding to. It fades within a week and is noted on the sheet because the counting is the job and the habit is therefore hard to see.
+**Bearer cost:** The wielder counts things afterwards — chairs, windows, people in a corridor — and arrives at a figure before deciding to. It fades within a week and is noted on the sheet because the counting is the job and the habit is therefore hard to see.
 
 **Edge cost distinction:** The linked Weapon records a persistent low-grade headache with each use. This holding separately records involuntary counting afterward; neither observation is proof of the other. Keep both with the bearer record rather than rewriting the unknown formation event or treating the blade as permission to strike a walker.
 

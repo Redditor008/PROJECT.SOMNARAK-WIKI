@@ -197,7 +197,7 @@ At rest the blade folds into a small circlet around a blue hilt, too narrow to w
 
 **Ability:** Lament damage to the mind. The crown-wrought blade carries his signature — a question with no answer behind it — and what it opens in a target is the memory of somebody they stopped visiting.
 
-**Bearer cost:**The wielder carries his unwept grief and weeps involuntarily, most often while writing a handover note.
+**Bearer cost:** The wielder carries his unwept grief and weeps involuntarily, most often while writing a handover note.
 
 ### M.A.W. Suit — The Crown of Shroud
 
@@ -217,7 +217,7 @@ The collar carries a departure time signed by wearer and relief. *Visible Handov
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this holding produces; the file credits it with nothing else. What it buys a worker is the interval between the question and the urge to answer it, which on this post is the whole of the craft.
 
-**Bearer cost:**The wearer goes numb to small pleasures, and reports children's voices elsewhere in the facility as unusually loud.
+**Bearer cost:** The wearer goes numb to small pleasures, and reports children's voices elsewhere in the facility as unusually loud.
 
 ### M.A.W. Stigma — The Crown of Tears
 
@@ -233,7 +233,7 @@ A line sharpens for a consented observation, not for an accusation. *Name the Br
 
 **Ability:** Reveals bonds, attachments, broken links, and emotional connections between people.
 
-**Bearer cost:**Every broken bond appears to the wearer as their own loss.
+**Bearer cost:** Every broken bond appears to the wearer as their own loss.
 
 *The crown of tears is not manufactured. He gives one to a worker who told him they were leaving the post for good and said so to his face, and has given none to anyone who simply stopped appearing on the rota.*
 

@@ -226,7 +226,7 @@ The sheer fabric drifts as if floating submerged in liquid, blurring the wearer�
 
 **Ability:** *Oneiric Distortion* — Grants +20% evasion against ranged attacks and line projectiles as incoming projectiles bend through the blurred dream fabric.
 
-**Bearer cost:**The wearer experiences occasional microsleep episodes while resting.
+**Bearer cost:** The wearer experiences occasional microsleep episodes while resting.
 
 ### M.A.W. Stigma — The Floating Dream Catcher Orb
 
@@ -244,7 +244,7 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 **Ability:** *Lucid Buffer* — Absorbs up to 5 points of direct Lament damage per turn into the orb; grants +1 Clarity.
 
-**Bearer cost:**The floating orb casts faint violet reflections in mirrors even in total darkness.
+**Bearer cost:** The floating orb casts faint violet reflections in mirrors even in total darkness.
 
 *Nine orbs exist. Each was struck after a watch in which a Warden stopped short of understanding the shard and reported doing so, which is the only service this holding recognises.*
 

@@ -208,7 +208,7 @@ The disc stays blank until a Gate whisper enters the room and then fractures the
 
 **Ability:** Void damage to the soul rather than the body — to what a target is and to the words they have for it. Ground from the Gate's own material, the lens opens in a target the sense that there is a word for their situation which they have never been told.
 
-**Bearer cost:**Small nameless memories with each use, and the names of things more readily than the things. Wielders describe it as an outage of one word at a time, usually arriving in the middle of a sentence.
+**Bearer cost:** Small nameless memories with each use, and the names of things more readily than the things. Wielders describe it as an outage of one word at a time, usually arriving in the middle of a sentence.
 
 ### M.A.W. Suit — The Unknown — Extraction Veil
 
@@ -228,7 +228,7 @@ Thirteen pale seams run from collar to floor and darken one for each second of a
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Bearer cost:**The wearer feels faintly absent to themselves and afterwards describes their own reports as the work of somebody competent and unfamiliar — a cost that has never once been raised as a complaint, which the medical office finds more notable than the absence.
+**Bearer cost:** The wearer feels faintly absent to themselves and afterwards describes their own reports as the work of somebody competent and unfamiliar — a cost that has never once been raised as a complaint, which the medical office finds more notable than the absence.
 
 ### M.A.W. Stigma — The Unknown — Extraction Charm
 
@@ -244,7 +244,7 @@ Thirteen blank notches are cut into its rim as a counting device for a window no
 **Effect:** +3 Composure during source work
 **Ability:** The charm keeps its bearer from being able to repeat the whispering. Bearers can hear it and cannot reproduce it, in speech or in writing, and this is the boon rather than a limitation of the item.
 
-**Bearer cost:**The bearer hears the whispering and cannot give it back — not in speech, not in writing — so the one thing the watch is asked to report is the one thing the charm will not let them say.
+**Bearer cost:** The bearer hears the whispering and cannot give it back — not in speech, not in writing — so the one thing the watch is asked to report is the one thing the charm will not let them say.
 
 *The charm is not manufactured. The Gate gives one to a worker who heard it clearly and wrote nothing down, and has given none to any member of a translation team.*
 

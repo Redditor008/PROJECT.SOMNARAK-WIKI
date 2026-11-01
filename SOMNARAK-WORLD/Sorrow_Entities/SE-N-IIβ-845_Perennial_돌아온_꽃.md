@@ -217,7 +217,7 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 
 **Ability:** Weight damage to the Han — to sorrow reserves and karmic debt rather than to the body. The maul carries the accumulation of four abandonments into the blow and lands heaviest on anyone who has left somewhere and gone back.
 
-**Bearer cost:**The wielder grows progressively heavier and ages slightly, in the way the ground here has aged: by rounds of being left.
+**Bearer cost:** The wielder grows progressively heavier and ages slightly, in the way the ground here has aged: by rounds of being left.
 
 ### M.A.W. Suit — The Returning Mantle
 
@@ -235,7 +235,7 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 
 **Ability:** Turns Weight aside from the Han — sorrow reserves and karmic debt rather than the body — which is the only pressure this record delivers. The mantle is what lets a worker stand on the patch for the length of a session under the full accumulation of four abandonments without stepping off.
 
-**Bearer cost:**The wearer carries a constant low fatigue, and the file's warning is that it reads as an ordinary heavy day: the wearer stops noticing and the observer stops asking, which is how the rotation's second man came to be the one who noticed.
+**Bearer cost:** The wearer carries a constant low fatigue, and the file's warning is that it reads as an ordinary heavy day: the wearer stops noticing and the observer stops asking, which is how the rotation's second man came to be the one who noticed.
 
 ### M.A.W. Stigma — The Returning Petal
 
@@ -249,7 +249,7 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 
 **Ability:** The petal shows what a place is owed. Worn on site, it makes visible which ground has been returned to and left, and how many times — which is how two unrecorded foundings were identified.
 
-**Bearer cost:**The wearer carries the weight of every return and abandonment they witness, including the ones that are nothing to do with them.
+**Bearer cost:** The wearer carries the weight of every return and abandonment they witness, including the ones that are nothing to do with them.
 
 *The petal is not manufactured. Perennial gives one to a worker who left the patch where it was standing, and has given none to a worker who tidied the site before leaving.*
 

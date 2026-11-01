@@ -190,7 +190,7 @@ Along its cutting edge runs a section that cannot be seen from either side, so t
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Carrying Nothing's grudge signature in the strike.
 
-**Bearer cost:**The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Bearer cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
 ### M.A.W. Suit — The Absent Plate
 
@@ -210,7 +210,7 @@ Behind the shoulders rides an empty load frame built to carry a burden with no s
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Carrying Nothing's kind of pressure.
 
-**Bearer cost:**The wearer's reflexes dull, as if armored by resentment.
+**Bearer cost:** The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Absent Burden
 
@@ -226,7 +226,7 @@ The pull under the charm is real and measurable and attached to nothing anyone c
 
 **Ability:** Converts invisible emotional pressure into physical strength.
 
-**Bearer cost:**The wearer feels every absence as a personal obligation.
+**Bearer cost:** The wearer feels every absence as a personal obligation.
 
 *Six charms exist. The acquisition note records that all six were given after a worker completed an approach without offering the figure an explanation of what it was carrying.*
 

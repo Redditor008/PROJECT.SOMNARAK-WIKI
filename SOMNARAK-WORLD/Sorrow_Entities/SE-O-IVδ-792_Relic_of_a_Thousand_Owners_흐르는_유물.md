@@ -192,7 +192,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Ability:** Slows hostile emotional momentum.
 
-**Bearer cost:**The wielder feels every exile carried by the weapon.
+**Bearer cost:** The wielder feels every exile carried by the weapon.
 
 ### M.A.W. Suit — The Flowing Shroud
 
@@ -210,7 +210,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against grief that belongs to other people. It holds against the pressure and not against the names, which are not an attack and which every wearer reports hearing as clearly as they did without it.
 
-**Bearer cost:**The wearer stops feeling small pleasures and begins keeping whatever comes their way; handing anything on gets harder with every cycle.
+**Bearer cost:** The wearer stops feeling small pleasures and begins keeping whatever comes their way; handing anything on gets harder with every cycle.
 
 ### M.A.W. Stigma — The Flowing Charm
 
@@ -224,7 +224,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Ability:** Grants a minor boon drawn from the source's own nature — anything the bearer carries for somebody else is never lost, never damaged, and never mislaid, for as long as it remains someone else's.
 
-**Bearer cost:**The bearer carries other people's things perfectly and cannot set any of them down, because the moment a thing becomes theirs the charm stops holding it.
+**Bearer cost:** The bearer carries other people's things perfectly and cannot set any of them down, because the moment a thing becomes theirs the charm stops holding it.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, which is the only transfer anything in this chamber has ever completed cleanly.*
 

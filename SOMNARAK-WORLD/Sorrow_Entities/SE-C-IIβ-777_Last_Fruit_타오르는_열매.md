@@ -197,7 +197,7 @@ The response table retains Pugnahan to document why it is barred; an Increase en
 
 **Ability:** Grudge against the Body. Struck targets are hungry for the rest of the day — specifically hungry, for a particular thing they cannot have — and all fourteen named the thing without being asked.
 
-**Bearer cost:**Old wounds ache, and the wielder loses interest in food they have been looking forward to.
+**Bearer cost:** Old wounds ache, and the wielder loses interest in food they have been looking forward to.
 
 ### M.A.W. Suit — The Burning Plate
 
@@ -215,7 +215,7 @@ The response table retains Pugnahan to document why it is barred; an Increase en
 
 **Ability:** Resistance to Grudge against the Body, and the reason a warden can stand a trading day at the pitch without the wanting starting.
 
-**Bearer cost:**Reflexes dull, and the wearer stops asking for things — including reasonable things, including help.
+**Bearer cost:** Reflexes dull, and the wearer stops asking for things — including reasonable things, including help.
 
 ### M.A.W. Stigma — The Burning Seed
 
@@ -229,7 +229,7 @@ The response table retains Pugnahan to document why it is barred; an Increase en
 
 **Ability:** Converts suppressed desire into brief physical strength.
 
-**Bearer cost:**The wearer feels desire as heat whenever it is denied.
+**Bearer cost:** The wearer feels desire as heat whenever it is denied.
 
 *Eleven seed-charms exist. Nine were granted on sessions where the Warden left without taking the fruit that was placed within reach; the other two were granted on sessions where the Warden took it and said so in the log.*
 

@@ -191,7 +191,7 @@ All Work responses are recorded, but Pugnahan is prohibited rather than availabl
 
 **Ability:** Void against the Soul. Struck targets forget, for some hours, what they were on their way to do, which fourteen targets described as the most disorienting part of the engagement.
 
-**Bearer cost:**Small nameless memories, and always the handovers: the wielder loses their recollection of having been relieved.
+**Bearer cost:** Small nameless memories, and always the handovers: the wielder loses their recollection of having been relieved.
 
 ### M.A.W. Suit — The Guardian Veil
 
@@ -209,7 +209,7 @@ All Work responses are recorded, but Pugnahan is prohibited rather than availabl
 
 **Ability:** Resistance to Void against the Soul, and the reason a Warden can hold the four-metre line for a full cycle without the grey reaching them.
 
-**Bearer cost:**The wearer feels faintly absent to themselves and will not leave a post until somebody physically takes their place.
+**Bearer cost:** The wearer feels faintly absent to themselves and will not leave a post until somebody physically takes their place.
 
 ### M.A.W. Stigma — The Guardian Wing
 
@@ -223,7 +223,7 @@ All Work responses are recorded, but Pugnahan is prohibited rather than availabl
 
 **Ability:** Absorbs damage intended for other people.
 
-**Bearer cost:**The wearer cannot flee while someone else remains in danger.
+**Bearer cost:** The wearer cannot flee while someone else remains in danger.
 
 *Eight wings exist. Each was shed at a post the Bird had held and then relinquished, which has happened eight times, and the wing refuses to call the number a coincidence while declining to say what else it might be.*
 

@@ -220,7 +220,7 @@ Its note reaches one listener only; nearby personnel hear nothing, and the weapo
 
 **Ability:** Lament damage to the mind rather than the body — it works on composure and on the will to stay somewhere. The requiem carries the Tree's displacement into the sound, and what it opens is the wish to go home.
 
-**Bearer cost:**The wielder carries the Tree's unwept grief and weeps involuntarily afterwards, generally once they are somewhere familiar.
+**Bearer cost:** The wielder carries the Tree's unwept grief and weeps involuntarily afterwards, generally once they are somewhere familiar.
 
 ### M.A.W. Suit — The Returning Shroud
 
@@ -240,7 +240,7 @@ It lets a worker stand under the Tree and still want their own quarters afterwar
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure the Tree exerts — and it turns aside only the Lament, not the recognition. The worker still sees a home in front of them and still knows the walk to it; what the shroud removes is the grief that would otherwise arrive with the knowing, and that is the difference between standing a full cycle and leaving before the branches stop moving.
 
-**Bearer cost:**The wearer goes numb to small comforts — a familiar route, a known voice in the corridor — and tends to notice only when the shroud comes off.
+**Bearer cost:** The wearer goes numb to small comforts — a familiar route, a known voice in the corridor — and tends to notice only when the shroud comes off.
 
 ### M.A.W. Stigma — The Returning Leaf
 
@@ -256,7 +256,7 @@ It is worn at the tail and cannot be issued. The Tree releases it to a worker wh
 
 **Ability:** Reveals the memory of a place before it was altered.
 
-**Bearer cost:**The wearer feels the grief of every person who returned too late.
+**Bearer cost:** The wearer feels the grief of every person who returned too late.
 
 *The leaf is not manufactured. The Tree releases one to a worker who described the ground as changed and did not soften it, and it has released none to anyone who promised the place could be put back.*
 

@@ -191,7 +191,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 **Ability:** Its Skewer cracks a compressed Grudge/breath-pressure field open only after a relief person and stop condition are named; it is not a tool for forcing an exhausted bearer or target to continue. Issued for Zone E border work, where the cold is weather; it has never been carried into the chamber and the standing order is that it never will be.
 
-**Bearer cost:**Old injuries ache and faint bruising appears along the forearm. Four wielders have been retired early on it, all four at full pension, all four from the border towers.
+**Bearer cost:** Old injuries ache and faint bruising appears along the forearm. Four wielders have been retired early on it, all four at full pension, all four from the border towers.
 
 ### M.A.W. Suit — The Frozen Breath
 
@@ -209,7 +209,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 **Ability:** Wards emotional pressure and panic, which is exactly what the corridor produces during a withdrawal.
 
-**Bearer cost:**The wearer cannot express exhaustion while it is on — cannot say they are tired, cannot show it, and does not feel it until it is removed. The chamber considers this the most dangerous property of any piece in the wing, and the veil is accordingly not worn on watch, only during withdrawal, and is removed by a second person who checks the wearer's breathing before handing it back.
+**Bearer cost:** The wearer cannot express exhaustion while it is on — cannot say they are tired, cannot show it, and does not feel it until it is removed. The chamber considers this the most dangerous property of any piece in the wing, and the veil is accordingly not worn on watch, only during withdrawal, and is removed by a second person who checks the wearer's breathing before handing it back.
 
 ### M.A.W. Stigma — The Frozen Charm
 
@@ -223,7 +223,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 **Ability:** The bearer knows when somebody near them is working past the point at which they should have stopped, and knows it before the person does. The Watch Office has twice asked for a bearer on the roster desk and has twice been refused, because a roster officer who can feel it will start making exceptions, and exceptions are the thing the Hard Stop exists to abolish.
 
-**Bearer cost:**A shortened temper, and specifically with people who will not go home. Three of the seven bearers have formal complaints on file for it and the chamber has recorded, under each, that the complaint is justified and the behaviour is understood.
+**Bearer cost:** A shortened temper, and specifically with people who will not go home. Three of the seven bearers have formal complaints on file for it and the chamber has recorded, under each, that the complaint is justified and the behaviour is understood.
 
 *The seven frozen charms were granted to workers who ended a shift on the hour with the cycle unfinished, which the chamber calls going home badly and the roster calls compliance.*
 

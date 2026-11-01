@@ -201,7 +201,7 @@ The escalation here is not an event at all; it is a measurement that keeps comin
 
 **Ability:** *Glacial Refraction* — Deals Lament damage at Range 4. Targets struck suffer a 25% reduction in movement and attack speed from freezing sorrow crystallization.
 
-**Bearer cost:**The wielder carries a share of the unwept grief the piece was cut from, and it comes out as weeping without occasion — usually at home, usually at nothing in particular, and never with a sense of release afterwards. The Armoury books it as the charge on all three pieces and pays it whether the use was correct or not.
+**Bearer cost:** The wielder carries a share of the unwept grief the piece was cut from, and it comes out as weeping without occasion — usually at home, usually at nothing in particular, and never with a sense of release afterwards. The Armoury books it as the charge on all three pieces and pays it whether the use was correct or not.
 
 ### M.A.W. Suit — The Frost-Veiled Mourning Gown
 
@@ -220,7 +220,7 @@ The escalation here is not an event at all; it is a measurement that keeps comin
 
 **Ability:** Turns Lament pressure aside from the Mind. It holds against the pressure and not against the sitting: a wearer inside the field still meets their own grief exactly as they would without it, and the gown's note is that the protection here is against the Gardens and not against the bench.
 
-**Bearer cost:**Small joys go dull for the wearer while unwept grief arrives at full strength, which the Armoury records as a one-way exchange: the gown keeps out the surroundings and lets through the thing the surroundings are for.
+**Bearer cost:** Small joys go dull for the wearer while unwept grief arrives at full strength, which the Armoury records as a one-way exchange: the gown keeps out the surroundings and lets through the thing the surroundings are for.
 
 ### M.A.W. Stigma — The Unmelting Teardrop Brooch
 
@@ -235,7 +235,7 @@ The escalation here is not an event at all; it is a measurement that keeps comin
 
 **Ability:** Increases resistance to emotional attacks and slows close-range attackers.
 
-**Bearer cost:**The wearer becomes more easily moved to tears.
+**Bearer cost:** The wearer becomes more easily moved to tears.
 
 *Six brooches exist and none of them was granted for a work result. All six went to Wardens at the end of a Consolihan watch, which is the only occasion this holding has ever given anything to anybody.*
 

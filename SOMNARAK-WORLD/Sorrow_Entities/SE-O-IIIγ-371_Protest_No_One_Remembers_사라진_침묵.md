@@ -198,7 +198,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Ability:** Deals Void damage against the Soul — identity, memory, and the sense of having been present. The strike carries the source's signature, and those hit report losing the thread of what they were saying.
 
-**Bearer cost:**The wielder loses small memories with each use, and specifically spoken ones: what was agreed in a conversation, who said which part of it, whether they objected at the time.
+**Bearer cost:** The wielder loses small memories with each use, and specifically spoken ones: what was agreed in a conversation, who said which part of it, whether they objected at the time.
 
 ### M.A.W. Suit — The Vanished Veil
 
@@ -216,7 +216,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Ability:** Grants resistance to Void pressure, shielding the Soul against erasure of identity and memory. It holds against the entity's pressure and does nothing about the silence itself, which is not an attack and passes through every rating in the set.
 
-**Bearer cost:**The wearer feels faintly absent to themselves, and others overlook them — not deliberately, but in the way a room overlooks someone who has not spoken yet.
+**Bearer cost:** The wearer feels faintly absent to themselves, and others overlook them — not deliberately, but in the way a room overlooks someone who has not spoken yet.
 
 ### M.A.W. Stigma — The Vanished Word
 
@@ -230,7 +230,7 @@ The reversed blade design allows for powerful downward hooking strikes and sweep
 
 **Ability:** Preserves one spoken word from erasure.
 
-**Bearer cost:**The wearer hears every word removed from nearby conversations.
+**Bearer cost:** The wearer hears every word removed from nearby conversations.
 
 *The tile is conferred, never issued. It appears after a successful cycle at the entity's own disposition, on a worker who kept the running sheet through the whole watch, and no run of good results has ever produced one on request.*
 

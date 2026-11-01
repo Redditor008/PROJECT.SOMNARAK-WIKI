@@ -203,7 +203,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Ability:** The Possibility Cut severs false historical certainty across up to three claims while preserving emotional meaning. It removes the claim that something happened, not the feeling; the strike leaves a gap in the target's certainty rather than a wound.
 
-**Bearer cost:**Small, nameless memories go first: the bearer cannot say what is missing, only that a room they walked through last week is now a wall with no door in it. The loss is permanent, and the file counts it in pieces of a week rather than in hours.
+**Bearer cost:** Small, nameless memories go first: the bearer cannot say what is missing, only that a room they walked through last week is now a wall with no door in it. The loss is permanent, and the file counts it in pieces of a week rather than in hours.
 
 ### M.A.W. Suit — The Missing Column
 
@@ -221,7 +221,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Ability:** Present Foundation stabilizes the wearer against spatial and emotional absence while they keep possibility distinct from memory. It binds only above surveyed current ground.
 
-**Bearer cost:**The wearer feels every future that did not occur.
+**Bearer cost:** The wearer feels every future that did not occur.
 
 ### M.A.W. Stigma — The Missing Charm
 
@@ -235,7 +235,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Ability:** Marks a vision as memory, possibility, or unknown — the three categories named by the linked item record.
 
-**Bearer cost:**The bearer can tell a memory from a possibility and can no longer treat any of their own recollections as simply having happened.
+**Bearer cost:** The bearer can tell a memory from a possibility and can no longer treat any of their own recollections as simply having happened.
 
 *The Missing Charm is not issued and cannot be requested. It has been conferred 2 times, both to Wardens who reported what they had seen inside the ring in the conditional — *there would be a door here* — and refused, at debrief, to be led into the past tense about it.*
 

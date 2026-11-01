@@ -234,7 +234,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the bloom's signature in the strike: the target is left carrying a moment of mourning that belongs to somebody else, which is the vault's whole problem arriving on the field.
 
-**Bearer cost:**The wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began.
+**Bearer cost:** The wielder weeps involuntarily, and cannot afterwards recall the moment at which any of their own griefs began.
 
 ### M.A.W. Suit — The Sorrow Shroud
 
@@ -252,7 +252,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 **Ability:** Turns Lament aside from the mind. The suit lets a worker stand beside a bloom that is actively taking without becoming the one it takes from.
 
-**Bearer cost:**The wearer goes numb to minor joys, and finds funerals easy.
+**Bearer cost:** The wearer goes numb to minor joys, and finds funerals easy.
 
 ### M.A.W. Stigma — The Sorrow Petal
 
@@ -266,7 +266,7 @@ The blade surface remains permanently damp with chilled water droplets that seep
 
 **Ability:** Makes the wearer's grief visible as beauty rather than weakness.
 
-**Bearer cost:**The wearer cannot hide sadness.
+**Bearer cost:** The wearer cannot hide sadness.
 
 *The stigma is not manufactured. It is given to a worker who carried a petal to the person it came from, and has never been given for a petal filed by date.*
 

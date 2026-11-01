@@ -199,7 +199,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** Lament against the Mind. This local record is not *The Gentle Requiem*, the Kind Healer's actual `SE-071-B` weapon. Its relation to the linked *Dawn of Requiem* remains unresolved, and no reissue lineage from the Kind Healer's set is established.
 
-**Bearer cost:**The wielder weeps without warning and without distress, which is the Healer's recorded toll and not a new finding.
+**Bearer cost:** The wielder weeps without warning and without distress, which is the Healer's recorded toll and not a new finding.
 
 ### M.A.W. Suit — The Dawn of Shroud
 
@@ -217,7 +217,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** Resistance to Lament against the Mind. In the local issue account it is restricted to four named protocol holders and to nobody else; that account presupposes the twelfth recipient is known, which the chain records do not establish.
 
-**Bearer cost:**The wearer becomes numb to minor joys, which in a Confession Protocol team is an occupational problem rather than an inconvenience: the protocol depends on somebody recognising a true statement when they hear one.
+**Bearer cost:** The wearer becomes numb to minor joys, which in a Confession Protocol team is an occupational problem rather than an inconvenience: the protocol depends on somebody recognising a true statement when they hear one.
 
 ### M.A.W. Stigma — The Dawn of Charm
 
@@ -231,7 +231,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** The bearer can tell a genuine confession from a performed one. Tested forty-one times against sealed statements and correct in thirty-eight, which is the single most important number in this file and the reason the piece is issued at all.
 
-**Bearer cost:**The bearer hears which confessions are performed, which makes them the wrong person to confess to and the right one to send in where somebody is about to lie.
+**Bearer cost:** The bearer hears which confessions are performed, which makes them the wrong person to confess to and the right one to send in where somebody is about to lie.
 
 *None, and the entry is kept to say so. A Stigma is given by a source to a worker who has completed a cycle with it; this source has not formed, and the eleven blessings on the register were given by the Kind Healer to people who had no idea what chain they were in.*
 

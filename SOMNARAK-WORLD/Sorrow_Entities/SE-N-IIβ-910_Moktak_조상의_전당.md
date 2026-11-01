@@ -165,7 +165,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 
 **Damage:** Weight 11–17 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** A struck target is given a turn in a conversation it is not part of. The blow lands as an interruption rather than an impact: the target stops mid-action for the length of one exchange, and anything it was about to do is taken by whatever else is in the room. Against entities with no speech register the mallet does nothing at all, which is most of them.
-**Bearer cost:**The wielder answers a turn nobody gave them — in an empty room, a conversation nobody in it started.
+**Bearer cost:** The wielder answers a turn nobody gave them — in an empty room, a conversation nobody in it started.
 
 ### M.A.W. Suit — Moktak's Veil
 

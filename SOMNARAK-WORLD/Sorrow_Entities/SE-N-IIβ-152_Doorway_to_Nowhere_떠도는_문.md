@@ -194,7 +194,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Ability:** Lament damage to the Mind. The censer's smoke will not pass through a doorway of any kind, found by accident in Year 4229 and recorded as a property; the armoury notes that it has made the piece useless in exactly the places people most want to carry it.
 
-**Bearer cost:**Involuntary weeping, for about a day, and in every logged instance it starts in a doorway. Six wielders recorded that independently before anyone compared them.
+**Bearer cost:** Involuntary weeping, for about a day, and in every logged instance it starts in a doorway. Six wielders recorded that independently before anyone compared them.
 
 ### M.A.W. Suit — The Wandering Shroud
 
@@ -212,7 +212,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Ability:** *Current Side* wards Lament pressure on the Mind by keeping the wearer's body and address distinguishable from a shown room. In *Close the Frame*, the return partner names the physical landmark and the bearer answers from the current room, closing one threshold-memory surge without deleting the home memory. It is kept on to the vehicle after two workers removed it in the corridor and gave their home addresses wrong.
 
-**Bearer cost:**Small pleasures go flat for about a day. Wearers describe it as the feeling of being between addresses, which the counselling wing has recorded in those words from five people who had not spoken to each other.
+**Bearer cost:** Small pleasures go flat for about a day. Wearers describe it as the feeling of being between addresses, which the counselling wing has recorded in those words from five people who had not spoken to each other.
 
 ### M.A.W. Stigma — The Wandering Key
 
@@ -226,7 +226,7 @@ Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines.
 
 **Ability:** *Remembered Handle* identifies a nearby remembered threshold without proving that the place survives or can be reached. *Open Briefly* creates one temporary passage for orientation, farewell or limited recovery only after a return partner confirms the current anchor and closure cue; it cannot retrieve people from the past, create a permanent route or override a closed physical boundary. It has been used four times in twenty-seven years, including one unauthorised use, and all four are documented in full.
 
-**Bearer cost:**The bearer afterwards loses the place: not the memory, the sense that it was ever theirs. Of the four, three recorded that they would do it again and the fourth asked for the key to be destroyed.
+**Bearer cost:** The bearer afterwards loses the place: not the memory, the sense that it was ever theirs. Of the four, three recorded that they would do it again and the fourth asked for the key to be destroyed.
 
 *The key has been granted seven times, every one to a worker who wrote a return condition into an order they could have left open. Four of the seven had to deliver the answer themselves when the date came. The holding records the pattern and will not make it a criterion.*
 

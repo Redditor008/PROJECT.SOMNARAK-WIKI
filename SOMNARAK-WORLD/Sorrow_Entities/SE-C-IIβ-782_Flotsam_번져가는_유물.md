@@ -175,7 +175,7 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 
 **Ability:** Grudge against the Body. Struck targets cannot name the function of anything they are holding for some minutes, which fourteen targets described as the most ordinary and most frightening effect they had met.
 
-**Bearer cost:**Old wounds ache, and the wielder forgets what their own equipment is for — briefly, and then not briefly.
+**Bearer cost:** Old wounds ache, and the wielder forgets what their own equipment is for — briefly, and then not briefly.
 
 **Fang custody:** Keep direct and Tick applications separate within the selected-target coverage; the source’s spread through shelves is not extra targets for the blade. Before rest or cleaning, attribute the household’s lost purpose and record old-wound ache, faint bruising from the linked item, and any use the bearer can no longer state. Correct operation is not proof that the equipment-cost has stopped: the over-runs kept using their pieces after losing that explanation. If the bearer adopts the household history as their own, a named witness states source and event while receiving the Fang. Its local curved form and the index’s straight patina-banded form remain unreconciled; no reshaping is documented.
 
@@ -195,7 +195,7 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 
 **Ability:** Resistance to Grudge against the Body, and the reason a warden can complete a full inventory pass without losing the thread of what they are counting.
 
-**Bearer cost:**Reflexes dull, and the wearer stops labelling things — their own kit, their own files — because it stops seeming necessary.
+**Bearer cost:** Reflexes dull, and the wearer stops labelling things — their own kit, their own files — because it stops seeming necessary.
 
 **Plate care:** The unmatched stores tag identifies this harness; do not supply a plausible missing inventory number to make the record appear complete. Seal the wearer’s own explanations of their kit before deployment, and have the partner track omitted labels as well as dulling reflexes. Grudge resistance can help a pass continue without recovering knowledge already lost. Review source attribution before resting the Plate, and use the named-witness relinquishment if the lost household is becoming the wearer’s own account. Keep the off-site use-description intact; storing its only copy in the affected volume would place the countermeasure among what the holding consumes.
 
@@ -211,7 +211,7 @@ Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge exp
 
 **Ability:** Prevents one object's history from fading.
 
-**Bearer cost:**The wearer feels the object's entire chain of owners.
+**Bearer cost:** The wearer feels the object's entire chain of owners.
 
 *Two in nine years, in both cases to a Warden who correctly named the use of an object nobody else in the room could place — once a surveyor's level, once a child's shoe last. Both names were checked against the makers' records and both were right.*
 
