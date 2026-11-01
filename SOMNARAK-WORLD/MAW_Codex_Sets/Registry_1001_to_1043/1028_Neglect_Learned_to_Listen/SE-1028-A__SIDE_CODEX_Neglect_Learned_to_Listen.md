@@ -19,10 +19,10 @@ The Whisper formed from burdens discarded by the city. The grief of people and r
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIβ-270 [WP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: possession only; the patch has never left the ward / Place-Grudge |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / Zone B, Old Lament |
-| Gauge / Pressure | 357/357; starts 35–50% / 10–23 per hit · Weight |
+| Gauge / Pressure | 357/357; starts 35–50% / no hit band — the pressure is a duty transferring into the worker |
 | Observation | 2 — Basic |
 | Formation event | Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening. |
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-909 [N]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: possession only; nothing crosses the walls, and the Pillar stands in one more mind, then another |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -44,58 +44,46 @@
 - Its shadow reaches into forgotten rooms, and personnel occasionally return with recollections belonging to no one on the roster. These are logged and not acted upon.
 - Yield is drawn from what passes the pillar, so a cycle in which nothing is allowed through produces nothing.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **Why this file has no combat actions.** There is nothing in the room to engage. The Pillar stands in the worker's own thinking, its shadow reaches into rooms they have forgotten, and colleagues standing beside them see nothing at all. The file's own stat row used to call the resistance figures *a formality: there is nothing to strike and nothing striking*, and that sentence is the record.
 
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — stationary within consciousness and never observed to move; spread is measured in declined reliefs, not metres |
-| **Resistance** | 45 per cent against Void pressure and 35 against everything else, which for a holding that stands still in the worker's own thinking is a formality: there is nothing to strike and nothing striking. The gauge opens at 950 and trips at 90 per cent, and the drain runs 5 Composure per turn while it is unopposed. Working protection is the rota: one observer, relief issued as an order, and a declined relief executed anyway. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 950/950 |
-| **Han Pressure [ATK]** | 28–60 per turn of exposure · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Containment event — possession, no breach counter.** Nothing crosses the walls. The Pillar stands in one more mind, then another, moving by who is thinking of their duties rather than by distance; the gauge trips at 90 per cent and no counter is filed.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A pale pillar-shaped presence standing asleep inside a worker's consciousness: no physical place in the room, a shadow running down into things forgotten, bloodless-cold and smelling of ash. |
+| **Perceptible to** | The observer only. A pale column standing in their own thinking, a shadow reaching into rooms they had forgotten, and the certainty that the colleague beside them is looking at an untouched room. |
+| **Who it takes** | Whoever has gone longest without being relieved. The manifestation completes quietly — extended contact produces a worker who will not go off shift — and the first sign from outside is a roster where one name keeps volunteering. |
+| **Activation threshold** | Sorrow Gauge ≥ 90 per cent, read against declined reliefs: the drain rises five for each worker who declines and falls five for each who accepts, and elapsed time does not enter the calculation. |
+| **Sorrow Gauge [HP]** | 950/950 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan and Ferrehan; Viderehan lists the duties (Stable). Pugnahan raises the Pillar through the worker's thoughts and is logged as an escalation, not an attack. |
-| **Battlefield** | Zone E, Border region |
+| **Valid Work Types** | Flerehan and Ferrehan; Viderehan lists the duties and holds stable. Pugnahan raises the Pillar through the worker's thoughts and is logged as an escalation, not an attack. |
+| **Location** | Zone E, Border region |
 | **Resolution Condition** | Ground the worker and establish a rotation of duty |
+| **Recovery** | Relief is issued as an order and not offered as an escape, and a declined relief is executed anyway. The rotation is entered on the rota sheet, which is a containment document here and is audited on the same schedule as the physical measurements; the response leader is sent home first if their relief is due. |
 
-### Combat Actions
+### Possession Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Settling* [**Debuff**] } | "The pillar sinks — slowly, in its sleep — and the structure above groans and shifts." | [Nothing moves in the room. Inside the observer's thinking a pale column settles its weight onto the duties already standing there.] | *The worker loses Composure and identity cohesion. Record the newly noticed obligation verbatim; the second worker, not the observer, owns the clock and the relief.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the first sign occurs: the observer becomes aware of an obligation they had not thought about that day. |
-| { *The Dreaming Foundation* [**Debuff**] } | "The pillar dreams of bearing impossible weight — and the dream is so vivid the weight becomes real." | [The shadow reaches a forgotten room and returns a real obligation — a debt, a visit never made, a promise — verified accurate against outside records.] | *The worker loses Composure under weight with no physical source. Log the returned obligation and offer administrative time after the watch; do not act on it from inside the exposure.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the shadow reaches a forgotten room and an obligation the worker had genuinely lost returns. |
-| { *The Sleep-Twitch* [**Attack**] } | "The pillar spasms in its sleep — a violent, involuntary shift." | [Confrontation reads as an attempt to put the duties down, and the Pillar rises through the worker's thoughts without hostility and without stopping.] | *Heavy Void pressure on identity cohesion. Stop confronting: ground the worker, let grief through under Flerehan or rest under Ferrehan, and log the attempt as an escalation.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When Pugnahan or any attempt to force the duties down is made against the Pillar. |
-| { *The Full Awakening* [**Attack**] } | "The pillar wakes — and the first thing a load-bearing support does when it wakes is realize how heavy everything is." | [The whole weight the pillar has been holding comes back through it at once, and every duty standing on it changes hands in the same moment.] | *A heavy Void convulsion through the worker's identity. The counselor asks in plain words what the worker is trying to leave behind; relief is then issued as an order, not offered as an escape.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a duty-bearer attempts to step out from under their own past instead of accepting ordered relief. |
-| { *The Waking Structure* [**Ultimate**] } | "Every pillar in the field wakes — and the combined realization of structural burden collapses everything." | [The duties stop being one worker's post: the waking spread puts every obligation in the Border region into whoever is nearest to it.] | *All exposed suffer Void erosion for three turns. Establish the rotation by order before anything else, muster by name at fixed points, and send the response leader home first if their relief is due.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 90% threshold with a relief declined in the Border region. |
+| Event | What the Pillar does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Settling* [**Register**] } | Settles its weight inside the observer's thinking onto duties already standing there, and the first sign is that the worker becomes aware of an obligation they had not thought about that day. | Record the newly noticed obligation verbatim. The second worker, not the observer, owns the clock and the relief. | Nothing moves in the room. The identification is by conditions of appearance, never by a physical marker, and a colleague beside the observer sees an untouched room. |
+| { *The Dreaming Foundation* [**Exposure**] } | Reaches a forgotten room and returns a real obligation — a debt, a visit never made, a promise — verified accurate against outside records. | Log the returned obligation, offer administrative time after the watch, and do not act on it from inside the exposure. | The accuracy is the pressure. What is returned is checkable, which is why the file forbids acting on it while the worker is still standing in it. |
+| { *The Sleep-Twitch* [**Refusal**] } | Rises through the worker's thoughts without hostility and without stopping when anyone attempts to put the duties down; confrontation is read as an attempt to shed the load. | Stop confronting. Ground the worker, let grief through under Flerehan or rest under Ferrehan, and log the attempt as an escalation rather than an attack. | This is the refusal in the record: the holding will not be argued out of a duty, and the only successful approach is a rota. |
+| { *The Waking Structure* [**Overload**] } | At 90 per cent with a relief declined in the Border region, every obligation in the region transfers into whoever is nearest to it — which in this facility means the worker longest on post. | Establish the rotation by order before anything else, muster by name at fixed points, and send the response leader home first if their relief is due. | The transfer is the event. It is not a blow and it has no source in the room; the roster is the exposure record and is read as one. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first — for Dormant Monolith there are no physical markers to work from. Identify it by the conditions of appearance: a pale column standing in the observer's own thinking, a shadow running into rooms they had forgotten, and the fact that colleagues standing beside them see nothing at all — then the approach is set and the positions are taken.
-2. **Clash:** There is nothing in the room to engage. The Pillar stands in the worker's own thinking, and the encounter is conducted there — Viderehan to set out the duties holding them in place, Flerehan to let the grief through, Ferrehan to find out whether they can rest while the obligations are still outstanding. Pugnahan raises the Pillar through their thoughts and is logged as an escalation, not an attack.
-3. **Resolution:** The cycle closes when the worker has been grounded and a duty rotation is standing, entered in the rota sheet and audited on the same schedule as the physical measurements. Nothing else counts as closed here: the Pillar is contained by the rotation and by nothing else, which makes the rota a containment document rather than an administrative one.
+1. **What is confirmed:** that the observer is seeing it and nobody else is — a pale column in their own thinking, a shadow in a forgotten room, colleagues looking at an untouched chamber — and the rota, read as a document, before anything is said to the worker.
+2. **What the watch does:** Viderehan to set out the duties holding the worker in place, Flerehan to let the grief through, Ferrehan to establish whether they can rest while the obligations are outstanding; the second worker keeps the clock and the relief, and a declined relief is executed anyway.
+3. **How it closes:** the close is the file's documented suppression condition: **Ground the worker and establish a rotation of duty** — entered on the rota sheet and audited with the physical measurements, because the Pillar is contained by the rotation and by nothing else.
 
 ### Consequences
 
-- Personnel who fail to resist the entity’s pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
+- Personnel who fail to resist the entity's pressure suffer severe degradation of their **Composure** and identity cohesion, accelerating Sorrow Gauge escalation.
 - Extended contact does not produce a crisis; it produces a worker who will not go off shift. The manifestation completes quietly, and the first sign from outside is a roster where one name keeps volunteering. Supervisors are briefed to read the roster as an exposure record.
 - Every activation of the zweihander, the shield or the charm is paid in the wielder's own continuity: small memories, unnamed, gone without a gap where they were. The pieces work precisely as described. What they take is not the thing the wielder would have chosen to give, because choosing requires remembering what is there.
-- Without a rotation established, nothing breaks. The Pillar simply goes on standing, and the duties it holds pass to whoever is nearest to them — which in this facility means the worker who has been on the post longest. The recorded breach is the moment that transfer becomes irreversible.
+- Without a rotation established, nothing breaks. The Pillar simply goes on standing, and the duties it holds pass to whoever is nearest to them — which in this facility means the worker who has been on the post longest. The recorded event is the moment that transfer becomes irreversible.
 
 ## Appearance
 **Primary Form:** A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms.
@@ -123,7 +111,7 @@
 
 **Form record:** The Tale traces a worker's mind becoming a load-bearing pillar, not a stone version of the worker's body. The present column is encountered within consciousness; its pale surface and shadow are the observer's report, not features available to a camera or to a colleague beside them.
 
-**Transform record held:** The breach table describes spread from mind to mind with nothing crossing the walls. The Apex account instead describes passing through structure and filling corridors. No recorded external anatomy or transition joins those descriptions. Keep the named-muster response, but do not turn either account into a witnessed walking column or silently declare the corridor account only a metaphor.
+**Transform record held:** The event table describes spread from mind to mind with nothing crossing the walls. The Apex account instead describes passing through structure and filling corridors. No recorded external anatomy or transition joins those descriptions. Keep the named-muster response, but do not turn either account into a witnessed walking column or silently declare the corridor account only a metaphor.
 
 **Appearance protocol:** There is nothing to photograph. Record the pale surface as the observer describes it, the depth the shadow reaches, and the rooms it reaches into — forgotten rooms, usually the observer's own. Note that the recollections brought back from them belong to no one on the roster. Those are logged verbatim and not acted upon.
 
@@ -150,13 +138,13 @@
 None of the four rows above carries its own meaning. Read them with the classification and the element in hand, because the same movement means different things at different tiers. Dormant Monolith is a Subject with Subject-Mind manifestation and Void expression, held at the Border region in Zone E, and no assumption from any other holding in this wing transfers across to it. The file's standing caution is the one that matters most on a Mind-type: a watch can close with every number flat and still put a worker on the rota for a post they never agreed to hold.
 
 **Reading the response:** Softening and a falling gauge mean the worker has let something through rather than discharged it, and the distinction matters at the next shift. A rising Pillar means the work was taken as an attempt to put the duties down, which this entity does not permit and does not punish — it simply rises. The most reliable reading is taken from whether the worker goes home afterwards.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"The Pillar stands in one more mind, then another. Account for the workers and execute the relief."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Transform — the duties change hands; nothing crosses the walls |
 | **Movement** | Nothing crosses the walls. The Pillar stands in one more mind, then another, moving by who is thinking of their duties rather than by distance. |
 | **Effect** | The Pillar stands in one more mind, then another: exposed workers report emptiness, then a full room they are not allowed to leave, and the roster begins showing one name volunteering every time. |
 | **Secondary Effect** | Duties transfer to whoever is nearest to them — in this facility, the worker longest on post. Shadow depth tracks declined reliefs, never elapsed hours. |
@@ -165,9 +153,9 @@ None of the four rows above carries its own meaning. Read them with the classifi
 
 ### Escalation Notes
 
-- **Breach type:** Transform — the entity's form shifts, altering reality around it.
+- **Event type (non-breach):** Transform — the duties change hands, and nothing crosses the walls.
 - **Containment priority:** Establish the rotation before anything else, and establish it by order rather than by invitation — this entity's hold is on people who will not stand down when asked. Grounding the worker comes second; the transformation completes in whoever is still on post.
-- **Sorrow Gauge on breach:** It tracks refused rest. Every member of the response team who stays past their relief raises it, and it falls the moment a relief is accepted — including the relief of the person leading the response. A breach here has been ended twice by sending the team home and once by a supervisor going first.
+- **Sorrow Gauge in the event:** It tracks refused rest. Every member of the response team who stays past their relief raises it, and it falls the moment a relief is accepted — including the relief of the person leading the response. A breach here has been ended twice by sending the team home and once by a supervisor going first.
 
 ## M.A.W. Equipment
 
@@ -377,7 +365,7 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 
 **Operational interpretation:** This file describes something that only exists where somebody is already carrying too much, which makes the record accurate about the entity and conditional on the reader. Every figure in it assumes a worker with unresolved responsibilities, because no one else has ever seen it. Where the file and the worker disagree, the worker is the measurement.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any breach in the Border region, and after any change to the duty rota — the last unconditionally, since the rota is this entity's containment and an unreviewed change to it is an unreviewed change to containment. A review is not a means of assessing whether a worker is overcommitted.
+**Review requirement:** Re-verify after any Sorrow Tide, after any containment event in the Border region, and after any change to the duty rota — the last unconditionally, since the rota is this entity's containment and an unreviewed change to it is an unreviewed change to containment. A review is not a means of assessing whether a worker is overcommitted.
 ## Apex Record
 
 ### The Pillar Inside

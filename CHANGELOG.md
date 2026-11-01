@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Two more possessions, and the rule about leaving a file alone (2026-11-01)
+
+Owner: *"If any SE is not fixed, make sure it is because nothing needs changing — not because you are waiting for my answer, and not because you are lazily holding it."*
+
+**Recorded as a working rule, not a promise.** A dossier is left as it stands only when its own text supports what it says; anything else is either fixed in the same pass or named with the reason it cannot be — never parked for an answer. The three "breach" survivors in this leg are the test case: *a breach of the posting instruction*, *the prohibition has been breached once* and *a breach of duty converted into a written one* are all breaches of rules, and no amount of sweeps should take them out. That is a judgment made on the sentence, not a deferral.
+
+**Neglect, Learned to Listen** is now a possession record. Nothing about it ever moved: the patch advances along connected metal and old masonry in sixty-eight years and has *never left the Old Lament ward* and *never injured anybody*, while its `Entity Type` still said *Can breach via Transform* and its stat line sold *10–23 per hit · Weight* for a place with no body. What it takes is the worker who answers — the reply is retained and returned later in the worker's own voice, and four workers have heard themselves apologising from inside a pipe. The `Recovery` row is the file's own mechanism turned into an instruction: the reply is never argued with and never repeated back, the line is written down in the words it was heard in, and the duty that comes back with the worker is given a named post, because an unassigned duty is what makes the extent grow.
+
+**Dormant Monolith** was the easiest possession case in the archive and had been filed as a breach for as long as the file existed. Its Movement row reads *stationary within consciousness, not a physical place in the room*, and its own event table opens with the sentence that settles the question: *nothing crosses the walls*. The Pillar stands in one more mind, then another, moving by who is thinking of their duties rather than by distance — the only vector is a worker who will not go off shift, and the first sign from outside is a roster where one name keeps volunteering. The gauge is counted in declined reliefs and not in hours; the recovery is an order rather than an offer, a declined relief executed anyway, and a rota audited like a physical measurement. Four combat actions became four possession events, each keeping the instruction the old table had buried in its effect column.
+
+**Both codexes synced**, Type and Gauge / Pressure rows: Neglect from *Can breach via Transform* and *10–23 per hit · Weight*; Dormant Monolith from *Can breach* and *28–60 per hit · Void*. Both now say what the holding does to the person.
+
+**A file I read and left alone, with the reason.** Fallow, The Debtor, Hollow Tree, The Silent Child and Caller's Bloom all read as possession at first pass and none of them qualify: each one walks — Fallow *rampages on its limbs, crashing through walls*, Hollow Tree *walks out slowly and puts its roots down through whatever floor it reaches*, the Silent Child *walks out*. R-28 is explicit that a dossier whose breach type is Escape is not touched, whatever the quota says; the difference between Atlas and Fallow is not the vocabulary, it is that Atlas has never moved and Fallow has.
+
+**Checks:** `breach` RE 80.7% · SE 42.1% · OP 57.5%, floors met, non-breaching overall **165 / 301** · `wikistd` 301/301 · `label_lint` 301 · `check_stat_bands` PASS (210 straddling) · `check_links` 0 broken.
+
 ## Possession: corruption that works on the agent (2026-11-01)
 
 Owner: *"Now add in Possession — it is still corruption but it affects the agent. You know, like the Singing Machine and Cherry Blossoms from L Corp. And still continue fixing with logic."*

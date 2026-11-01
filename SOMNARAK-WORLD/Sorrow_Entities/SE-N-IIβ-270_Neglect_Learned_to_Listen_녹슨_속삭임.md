@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-270 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: possession only; the patch has never left the Old Lament ward, and what it takes is the worker who answers it |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -44,51 +44,39 @@
 - Speech near the containment zone is restricted to operational necessity. The entity retains everything said and returns it at unpredictable intervals.
 - Yield rises with the volume of speech absorbed since the previous extraction, so quiet periods reduce recoverable Han-Energy.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **Why this file has no combat actions.** The patch is a place: it has no body, no travel, and no blow. Its own Consequences say it *has never injured anybody* and has *never left the Old Lament ward* in sixty-eight years. What it does is listen, keep, and give back — and the person who answers is the thing that changes.
 
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — no body travel speed is recorded; extent is traced against fixed survey panels as the affected surfaces spread |
-| **Resistance** | 25% against Weight pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 357/357 |
-| **Han Pressure [ATK]** | 10–23 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Containment event — possession, no breach counter.** The extent moves along connected metal and old masonry; the entity does not move at all. The activation is read on the gauge at 60 per cent and the record files no counter.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A rust-coloured patch of the Old Lament where whispers cling to walls, pipes and abandoned metal, the corrosion itself the residue of old words. Lead-cold, wet iron, no body — only the rusting sound. |
+| **Perceptible to** | The rust patterns rearranging into legible fragments of overheard speech, and the repeat: everything said near the patch comes back later, at an interval the record has never been able to predict. |
+| **Who it takes** | The one who answers. The worker begins replying aloud — reasonably, often apologetically — and the reply is kept. Not the frightened and not the injured: the polite and the dutiful, the same disposition the holding was made of. |
+| **Activation threshold** | Sorrow Gauge ≥ 60 per cent. No breach counter applies; the extent is traced against the fixed survey panels rather than measured off the rust. |
+| **Sorrow Gauge [HP]** | 357/357 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Old Lament |
+| **Valid Work Types** | Viderehan and Ferrehan only; the object cannot be engaged emotionally or confronted, and speech near the zone is restricted to operational necessity. |
+| **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Preserve and acknowledge what was discarded; do not simply remove the rust |
+| **Recovery** | The reply is never argued with and never repeated back. The worker is walked out of earshot, the line they heard is written down in the words they heard it in, and the duty that comes back with them is given a named post — an unassigned duty is what makes the extent grow, and a named one is the only thing that has ever held it. Four workers have heard themselves apologising from inside a pipe, and two did not finish the rotation. |
 
-### Combat Actions
+### Possession Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Corroded Word* [**Debuff**] } | "The whisper is old — so old it has rusted — and the rust flakes off into your ears as it speaks." | [The Whisper's corrosion transfers to the target; their own thoughts oxidize.] | *Target suffers -10 Resolve; their mind is rusting.* **[10 Weight DMG [Weight]]** | When the target hears the Whisper. |
-| { *The Flaking Voice* [**Debuff**] } | "Each word loses another layer — and beneath the rust, the original meaning is sharp and furious." | [The Whisper's decay reveals its angry core.] | *Target loses 10 Resolve; the original intent is violent.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Rust-Cough* [**Attack**] } | "The whisper coughs — a spray of corroded words, sharp as filings." | [A burst of rust-word shrapnel.] | *Inflicts Weight pressure and one wound of inhaled corrosion.* **[14-22 Weight DMG [Weight]]** | When the Whisper is disturbed. |
-| { *The Full Corrosion* [**Attack**] } | "Every rusted word, cleaned of decay at once — and the original fury beneath is staggering." | [The Whisper's complete de-rusting reveals its full ancient anger.] | *A heavy Black revelation; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Whisper is scraped clean. |
-| { *The Rusted Chorus* [**Ultimate**] } | "Every whisper in the field corrodes — and beneath all the rust, the same ancient fury." | [The Whisper extends its corrosion across the whole area.] | *All in range suffer Weight pressure for three turns of rusting words.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the patch does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Answer* [**Register**] } | Notes the reply. Any reply — an apology, a correction, a polite half-sentence to a wall — is retained in the surface and added to what the patch is made of. | Speech to operational necessity only. Nothing is answered, including by the second person, and the exchange is written down as it happens rather than afterwards. | Nothing is aimed. The failure is answering, and the answer is what the holding takes: four workers have heard themselves apologising from inside a pipe. |
+| { *The Return* [**Exposure**] } | Gives the reply back later, in the worker's own voice, at an interval nothing on the file predicts. | Log the returned line verbatim, with the hour it was heard and which panel it came out of; take the worker off earshot and do not play it back to them. | The returned voice is accurate. Two of the four who heard themselves did not finish the rotation, and neither gave a reason the wing could use. |
+| { *The Refusal* [**Refusal**] } | Will not be cleaned. Removal, scraping, sealing and painting have all been tried; the maintenance crews established before the facility was involved that cleaning increases both the weight and the extent, and were instructed to carry on cleaning for a further eleven months. | Nothing is cleaned, scraped, sealed or painted. Re-trace the edge, photograph the lettered panels, and pull the fortnight's restructuring schedules. | This is the refusal in the record. The ward was told to keep doing the thing that made it larger, and the file states that without excusing it. |
+| { *The Carried Duty* [**Overload**] } | Puts work onto people who were not asked: three Wardens rotated off this holding were afterwards found carrying duties nobody had given them, in their own time. | Look for the duty and name the post it belongs to. The establishment office has twice cited the carrying as evidence the post is working, which the file records as the objection it is. | An unresolved session leaves the trace larger at the next survey, and the holding does not call that an escalation. The event was a phrase typed in an establishment office, nine to sixteen days before the panels moved. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Neglect Learned to Listen is confirmed by the traced extent against the last survey, not by the rust. The corrosion looks the same at eight square metres and at a hundred and ninety, and four early reports describe an unchanged patch on days the trace differed by thirty square metres. The team establishes its position and its withdrawal before the cycle opens.
-2. **Clash:** Viderehan and Ferrehan only. The extent is traced onto the fixed panel survey — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling — and the trace is made during the session, on the panels, not reconstructed from the photographs afterwards.
-3. **Resolution:** Second trace and the documented condition: **Preserve and acknowledge what was discarded; do not simply remove the rust.** Removal has been tried. The ward's maintenance crews established before the facility was involved that cleaning increases both the weight and the extent, recorded it accurately, reported it upward, and were instructed to carry on cleaning for a further eleven months.
+1. **What is confirmed:** the traced extent against the last survey and against the fixed panels — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling — and never the rust, which looks the same at eight square metres as at a hundred and ninety.
+2. **What the watch does:** Viderehan and Ferrehan only; the trace made on the panels during the session rather than reconstructed from photographs afterwards; the fortnight's restructuring schedules pulled and read for a duty recorded as absorbed, shared or picked up by the wider team.
+3. **How it closes:** the close is the file's documented suppression condition: **Preserve and acknowledge what was discarded; do not simply remove the rust** — and the extent is re-traced at the panels, never at the wall.
 
 ### Consequences
 
