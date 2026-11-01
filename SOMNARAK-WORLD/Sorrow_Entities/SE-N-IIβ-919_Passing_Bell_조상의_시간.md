@@ -44,51 +44,35 @@
 - The dead speak to each other, not to the living. Personnel who answer are recorded as having answered, and are not reassigned to the hour.
 - Yield is bounded by the hour's duration, which makes this the only row in its class with a yield ceiling bounded by the recorded hour, not proof of a daily recurrence.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight. There is nothing present to resist; the hour has no physical component and no instrument has ever registered a sound, which is why the record is handwritten. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 495/495 |
-| **Han Pressure [ATK]** | 14–20 per turn of exposure · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** It is an hour, not a body: the Entity Type files it as Time, the Notes say the entity *is an hour rather than a body*, and the Battle Phases asked for the clash row to be struck because there is nothing to engage. What happens is that two transcribers write down a conversation between the dead, and the dead do not look up.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Moderate temporal/transcription hazard; not a Sovereign classification |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A fixed sector in Zone A during one hour per cycle, when the voices of the dead become audible to each other and not to the living |
+| **Perceptible to** | The room first, sounding like a room with more people in it; then the pressure, reported as fatigue in the legs and a reluctance to speak, which lasts until the hour closes |
+| **Activation threshold** | 3 cycles — and the threshold identifies the recurring-hour record rather than a physical switch. The hour arrives and cannot be moved, shortened or skipped |
+| **Sorrow Gauge [HP]** | 495/495 — the containment meter, read at the station |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-919 |
-| **Resolution Condition** | The hour ends, both transcripts are sealed unread, and the warnings are copied into the ledger. The gauge falls on the copying and not on the hour, which the station established in Year 4,230 and has not been able to explain since. |
+| **Location** | SECTOR-N-919, contained |
+| **Resolution Condition** | Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "The air thickens and the room sounds like a room with more people in it." | [The opening minute, which is the same every time and is the only cue the transcribers get.] | *10 Weight to everyone in the sector; no instrument registers anything.* **[10 Weight DMG [Weight]]** | At the start of the hour, once per cycle, 71 times in six years. |
-| { *The Spirit Surge* [**Attack**] } | "One of them stops talking to the others." | [A voice turns toward the living, which it is not supposed to do and which has happened four times.] | *18 Weight to the transcriber addressed; on all four occasions the voice used the transcriber's own surname and nothing else.* **[18 Weight DMG [Weight]]** | When a transcriber answers, or asks a question aloud. |
-| { *The Settling* [**Attack**] } | "They all say the same thing at the same time, and it is a date." | [The hour collapses into a single line delivered in unison.] | *20 Weight to everybody present.* **[20 Weight DMG [Weight]]** | Twice. Both dates had passed. Both corresponded to industrial accidents in the zone that the facility had recorded as having no casualties. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The hour does not close and the voices are in the corridors, still talking to each other." | [The sector boundary stops holding and the conversation continues through Zone A.] | *20 Weight per cycle for three cycles to everyone in the zone.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once, in Year 4,232; it lasted three hours and nothing was said in the corridors that had not been said in the sector. |
+| Event | What the hour does | What the transcribers carry out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Opens with the same minute every time: the air thickens, the room sounds occupied, and nothing an instrument can hear occurs. | Two books opened in opposite corners, and the first line written as spoken. | Seventy-one hours in six years. Six years of recording attempts have produced six hours of tape silence, which is why the record is handwritten. |
+| { *The Turning Voice* [**Refusal**] } | Lets one of the dead stop talking to the others and turn toward the living — four times in six years, and never more than a surname. | An entry recording what was said, and no reply. Anyone who answers is recorded as having answered and is not reassigned to the hour. | The prohibition is not ceremony. The voice is not supposed to turn, and the file treats the four turns as the hour's one refusal to be a recording. |
+| { *The Unison Date* [**Exposure**] } | Collapses the whole conversation into a single line delivered in unison, twice, both dates a date that had already passed. | Two transcripts, side by side, unreconciled — and a warning that arrives after the accident it referred to. | Both dates corresponded to industrial accidents the facility had recorded as having no casualties. The file does not resolve that, and the transcripts are not reconciled. |
+| { *The Hour That Did Not Close* [**Overload**] } | Fails to end once, in Year 4,232, above 65 per cent: the voices continue into the corridors for three hours. | Three hours of boundary work, and the entry that nothing said in the corridors had not already been said in the sector. | The one recorded expansion. Nothing new was said, and the containment note records that as the reason it was survivable. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Two transcribers take opposite corners with their own books and pencils. No recorder is brought — six years of attempts have produced six hours of silence on tape — and no questions are prepared, because questions cannot be asked.
-2. **Clash:** None, and the station has asked for the row to be struck. There is nothing to engage; there is an hour of other people's conversation and two people writing it down.
-3. **Resolution:** The hour ends mid-sentence, every time. Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled. It closes against the documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled**.
+1. **What is confirmed:** two transcribers, opposite corners, their own books and pencils, no recorder, and the hour — which does not move for anybody's convenience.
+2. **What the watch does:** writes. No questions are prepared because questions cannot be asked aloud; nobody answers a voice even when it uses a surname; Viderehan is the hour itself and Ferrehan is staying for all of it, which is where the gauge falls.
+3. **How it closes:** the hour ends mid-sentence, every time, against the file's documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled** — sealed, copied, and filed side by side, never reconciled.
 
 ### Consequences
 

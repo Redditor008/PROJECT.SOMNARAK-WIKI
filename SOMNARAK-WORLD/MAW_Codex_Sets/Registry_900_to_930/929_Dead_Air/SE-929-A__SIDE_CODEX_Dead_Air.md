@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Spirit |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Weight / SECTOR-N-929, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / 17–29 per hit · Weight |
+| Gauge / Pressure | 500/500; starts 35–50% · Weight — no attack pattern: the hazard is a fixed pressure that spreads and has never produced a figure or a sound (Contact Record, R-36) |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

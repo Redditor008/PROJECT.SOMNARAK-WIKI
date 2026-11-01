@@ -44,51 +44,35 @@
 - Crews work on physical line signals rather than speech, and a missed signal ends the session for the rotation.
 - Drawing anything off this ground is a risk standing by itself and is authorised by itself.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Weight pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
-| **Han Pressure [ATK]** | 17–29 per turn of exposure · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Dead Air is pressure and not a body: the Movement row fixes it to a position and says it spreads rather than moves, and the Operational Notes are explicit that no figure and no sound have ever been reported and that the lean, bearing and apparent mass are subjective entries rather than instrument readings. What a watch survives is an hour of being leaned on by somebody who is not there.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major pressure hazard; not a Sovereign classification |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it |
+| **Perceptible to** | The lean first, which every person volunteers a mass for without being asked; the barometer records atmospheric pressure and never the lean itself |
+| **Activation threshold** | Three ignored conditions escalate it. No gauge threshold governs the start of a watch |
+| **Sorrow Gauge [HP]** | 500/500 — the containment meter, read at the station |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-929 |
-| **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not. Containment here is a clerical act: there is nothing to subdue, and the two rooms taken in seventeen years were recovered by redrawing the boundary on the plan, not by any work performed in them. |
+| **Location** | SECTOR-N-929, contained |
+| **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the weight." | [The entity's spirit pressure settles over the target.] | *Target feels the weight of weight sorrow.* **[10 Weight DMG [Weight]]** | When the entity first fixes on a target. |
-| { *The Spirit Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of weight spirit sorrow.] | *Weight damage strikes the target; the gauge spikes.* **[21 Weight DMG [Weight]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full Weight pressure on one point of contact.] | *A devastating Weight strike; the target comes out of it carrying noticeably more than they went in with.* **[29 Weight DMG [Weight]]** | When the entity is cornered or starved. |
-| { *The Spirit Collapse* [**Ultimate**] } | "The spirit breaks — and everything it held comes loose." | [The entity's full weight sorrow unleashed in every direction.] | *All personnel suffer Weight erosion for three turns.* **[23 Weight DMG [Weight] (AoE, x3 turns)]** | Once the gauge it has been filling passes 65 per cent. |
+| Event | What the pressure does | What the crew carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Settles over the room as a lean from one side, with an apparent direction and mass and no apparition. | A mass entered in the column the form keeps for exactly this, offered before anybody asks for it. | Nothing appears, nothing sounds, and the barometer reads weather. The register is the sensation and the file treats the sensation as the record. |
+| { *The Leaning* [**Exposure**] } | Concentrates, once the watch has run, until the dead are briefly and tangibly present as pressure rather than as figures. | An hour sat to its end, with the bearing and the estimated mass written down as estimates. | The estimates get heavier with consecutive watches — about four kilograms per watch until rotation — and reset when the Warden comes back. |
+| { *The Lost Voices* [**Refusal**] } | Takes the crew's own voices first when conditions are ignored — the first sign in the spirit register, and the only one that arrives before anything is felt. | Physical line signals instead of speech, and a session ended for the rotation on any missed signal. | This is the refusal in the record: the holding answers a raised voice by removing the voice, and the wing stopped arguing with it. |
+| { *The Spirit Collapse* [**Overload**] } | Loses everything it was holding at once, across the whole room, once the gauge it has been filling passes 65 per cent. | Three turns of Weight pressure on everyone present, and a boundary that is redrawn on the plan rather than recovered in the room. | Containment here is clerical. The two rooms taken in seventeen years came back by redrawing the boundary, not by any work performed in them. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is confirmed first — a sense of being leaned on from behind, with a direction and an apparent weight, in a room with nobody in it. Personnel volunteer a mass without being asked, and the form carries a column for it for that reason. Dead Air is checked against the designation, the positions are taken, and the cycle opens.
-2. **Clash:** The Types are worked and the kit is carried while the holding runs through the combat actions its record sets out.
-3. **Resolution:** The watch ends at the hour. The Warden hands over the form, the relief reads the barometer, and the pressure — both kinds — is where it was. No watch in the series has ever been ended early by the holding; four have been ended early by the Warden. It closes against the documented suppression condition: **The Warden hands over the form, the relief reads the barometer**.
+1. **What is confirmed:** the marker — a lean from behind with a direction and an apparent mass in an empty room — the barometer, and the form, which carries a mass column for the reason the file gives.
+2. **What the watch does:** Viderehan reads the room; Ferrehan sits the hour. Crews work on physical line signals rather than speech, every entry is written as an estimate, and a blank form is a completed watch rather than a failure.
+3. **How it closes:** the hour ends and the Warden hands the form over while the relief reads the barometer — the file's documented suppression condition: **The watch is sat to its end and the form is filed, blank or not**. Gauge relief is not described as recovery of rooms, because the rooms were never recovered by Work.
 
 ### Consequences
 

@@ -43,51 +43,35 @@
 - The 16–22 Han-Energy yield is standard for the band, and the vessel is destructible, which puts a γ-scale Han Dust figure of roughly 100 kilograms to a tonne on the table. That figure has been raised at two budget hearings. Both times the proposal was that the wall be broken for dust, and both times the answer referred the hearing to the suppression condition rather than to the economics.
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Material is taken from the shed crystal at the base and never cut from a standing section, since cutting the wall is indistinguishable, from the entity's side, from working on its buildings.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Grudge. Nothing has been swung at it; the one documented attempt to cut a standing section was abandoned at the planning stage when the Gate warden pointed out that cutting the wall and working on its buildings are the same act from the entity's side. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per turn of exposure · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** It is a wall standing near the Gate, and the Movement row files it as a structure or location. Nothing has been swung at it, and the combat rows describe the wall coming apart in its own grief rather than anything aimed: what a watch has to survive is twenty turns in front of half-built rooms with the materials to hand, doing nothing.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A wall of dark wet crystal near the Exile's Gate, burning with red light along its surface and leaking sorrow like sweat — fever-hot, damp, weeping even as it burns |
+| **Perceptible to** | The wet first, then the heat; the half-built shelters along its length are legible to anyone who stands in front of them long enough |
+| **Activation threshold** | Sorrow Gauge ≥ 75%. No count is listed and none may be inferred into the empty row |
+| **Sorrow Gauge [HP]** | 653/653 — the containment meter, read at the marked stations |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone E, Exile's Gate vicinity |
+| **Valid Work Types** | Viderehan and Ferrehan only, worked from the city side; no part of any cycle involves approaching the shelter ground |
+| **Location** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Acknowledge both departure and destination; do not complete its buildings |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Weeping Mortar* [**Debuff**] } | "The wall is sweating — not water, but old, angry tears — and the mortar is dissolving." | [The Wall's sorrow-sweat undermines its own structure; the target senses the decay.] | *Target suffers -10 Resilience; the wall is dissolving in its own grief.* **[10 Grudge DMG [Grudge]]** | When the target stands near the Wall. |
-| { *The Spreading Damp* [**Debuff**] } | "The wet spreads — along the floor, up your legs — and wherever it reaches, the surface turns soft with resentment." | [The Wall's moisture carries rage; the target is contaminated.] | *Target loses 10 Resilience; the anger in the water is palpable.* **[10 Grudge DMG [Grudge]]** | When the target wades through. |
-| { *The Sodden Blow* [**Attack**] } | "A chunk of waterlogged wall breaks free — heavy, saturated, and furious." | [A soaking wall-section collapses.] | *Inflicts Grudge pressure and one drenching, crushing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Wall is struck. |
-| { *The Full Dissolve* [**Attack**] } | "The section nearest the finished roof goes to liquid and comes down the slope with the shelter in it." | [The wall sheds the length adjacent to anything completed, and the runoff carries the completed thing away.] | *24–36 Grudge and a 15% Gauge surge to whoever did the finishing; observers at the marked stations are above the runoff line.* **[24-36 Grudge DMG [Grudge]]** | When any structure it has begun is completed, roofed, or made habitable. Once, in Year 4,233, by a well-meaning SED detachment. |
-| { *The Sorrow Swamp* [**Ultimate**] } | "The ground between the Gate and the Desolate goes to standing water and the road out is impassable for a day." | [Runoff saturates the exile route itself, which is the one piece of ground the wall has never built on.] | *12–20 Grudge per cycle for three cycles to anyone crossing it.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, recorded twice, both within a week of a mass expulsion order. |
+| Event | What the wall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Weeping Mortar* [**Register**] } | Sweats something that is not water and dissolves its own mortar with it, so the structure under the sheen is always slightly less there than it was. | The survey of the length between the two end posts, taken from the marked stations on the city side. | The wall is its own first casualty. Nothing it does is aimed, and the reading is of a building coming apart in grief rather than of a body acting. |
+| { *The Spreading Damp* [**Exposure**] } | Carries the wet outward along the floor, and wherever it reaches the surface turns soft with resentment under the boot. | The marked-station discipline kept to the letter, and no wading through anything to reach a part of the length that can be read from the road. | The contamination is a ground condition, not a blow. The stations exist so that nobody has to find that out at first hand. |
+| { *The Collapse* [**Refusal**] } | Breaks a waterlogged section free when it is struck — heavy, saturated, and already falling before anything touches it. | The entry against the attempt, and the standing order that no tool is laid against an unfinished structure for any purpose, including bracing one that looks unsafe. | The instinct to make a half-built thing safe is the most common unauthorised act on the file, and the refusal is the wall's answer to it. |
+| { *The Full Dissolve* [**Overload**] } | Takes the length nearest a finished roof down the slope with the shelter in it, whenever any structure it began is completed, roofed or made habitable. | Observers kept above the runoff line, and the completion entered as the cause rather than the consequence. | Once, in Year 4,233, by a well-meaning SED detachment. The file is careful that the damage was done by finishing, not by the wall. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team takes the marked stations on the city side, surveys the length between the two end posts, and agrees who will speak and in what words. The wording is agreed in advance because this holding responds to phrasing and not to facts.
-2. **Clash:** Twenty turns, Viderehan and Ferrehan only, worked from the city side of the wall with the wilderness edge left clear. No tool is laid against an unfinished structure for any purpose, including bracing one that looks unsafe, and the standing order says so explicitly because the instinct to make a half-built thing safe is the most common unauthorised act recorded at this holding.
-3. **Resolution:** The departures are stated, the destinations are stated as far as they are known, and every roofless beginning is left exactly as it stands. The second half of that is the whole difficulty of the posting: twenty turns in front of half-built rooms, with materials to hand, doing nothing.
+1. **What is confirmed:** the marked stations on the city side, the two end posts and the length between them, the wilderness edge left clear, and who will speak and in what words — the wording agreed in advance, because the holding responds to phrasing and not to facts.
+2. **What the watch does:** Viderehan reads the wall and the shelters; Ferrehan is the standing itself, twenty turns on the city side, doing nothing. No tool is laid against an unfinished structure for any purpose, and nobody crosses onto the shelter ground.
+3. **How it closes:** the departures are stated, the destinations stated as far as they are known, and every roofless beginning left exactly as it stands, against the file's documented suppression condition: **Acknowledge both departure and destination; do not complete its buildings**.
 
 ### Consequences
 
