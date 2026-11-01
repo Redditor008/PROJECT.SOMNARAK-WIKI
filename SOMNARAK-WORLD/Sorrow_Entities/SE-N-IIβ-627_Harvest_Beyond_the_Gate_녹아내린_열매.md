@@ -44,51 +44,36 @@
 - Everything on the tree turns to liquid at contact, so the inventory is a count and a position and nothing more. One seed has left this site whole in sixty years, and it will not grow.
 - Fruit sets as arrivals come through the Gate and stops entirely in the weeks when nobody comes out; in those weeks the frontage does not pull back, it simply stops advancing.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure; 15% against everything else. Nothing is rated against the fruit itself, which does not pursue: it hangs, it draws exiles the way the gate does, and it melts when it is touched, so the percentages describe the pressure coming off rows nobody has put a hand into. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per turn of exposure · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and the Resistance row says it outright: the fruit does not pursue, it hangs, it draws exiles the way the gate does, and it melts when it is touched. What is done about it is a pace of the frontage and a promise not made.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
-| **Starting Sorrow Gauge** | Never zero: 35–50%, because the Crop is already up before the watch begins. |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone E, Exile's Gate vicinity |
+| **Mode of presence** | Orchard rows under permanently wet crimson ground at the Exile's Gate, dark fruit hanging in heavy clusters, and the rows still legible under the pool. The frontage advances about a foot a week inside an active exile season and has never afterwards retracted. |
+| **Perceptible to** | The smell first — sweet and burned at once — then the crimson ground underfoot and the shape of rows beneath it. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing. |
+| **Handling** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 415/415 |
+| **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
+| **Valid Work Types** | Viderehan and Ferrehan only, both from the path. Viderehan reads the rows as a record of what was promised and not kept; Ferrehan is the patient pacing of a frontage that gains about a foot a week, which is the only work that has ever held it. |
+| **Location** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Let the fruit decay naturally; do not promise return |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Drip* [**Debuff**] } | "The fruit in your hand is melting — juice running between your fingers — and the juice is hot with old fury." | [The Fruit's dissolution releases liquid anger; the target is splashed.] | *Target suffers -10 Resilience; the dripping rage burns.* **[10 Grudge DMG [Grudge]]** | When the target holds the Fruit. |
-| { *The Losing Form* [**Debuff**] } | "The fruit cannot hold its shape — collapsing inward — and the collapse carries the anger of impermanence." | [The Fruit's formlessness spreads; the target's own solidity wavers.] | *Target loses 10 Resilience; they feel themselves softening.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
-| { *The Scalding Splash* [**Attack**] } | "A glob of molten fruit flies — burning, sticky, and furious." | [A splatter of superheated fruit-matter strikes.] | *Inflicts Grudge pressure and one searing, clinging wound.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Liquefaction* [**Attack**] } | "The fruit melts entirely — becoming a pool of liquid, concentrated rage." | [Crushed or opened, one fruit gives up everything it was keeping: a desire somebody had abandoned, at full strength and aimed at whoever touched it.] | *A heavy Crimson flood; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Fruit is crushed. |
-| { *The Molten Orchard* [**Ultimate**] } | "Every fruit in the field melts — and the combined liquid rage floods everything." | [Every cluster in the rows gives way at once and the ground the rows were visible through rises to meet the workers.] | *All in range suffer Grudge pressure for three turns of molten harvest.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the orchard does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Drip* [**Register**] } | Runs juice out of any fruit taken into a hand — hot, and old with fury — and the ground under the rows is permanently wet with the same. The fruit does not leave the rows to deliver it; the hand brings itself. | Paces the frontage before the cycle and enters the day's reading, and keeps the party on the path so that no hand is ever in the rows to begin with. | The percentages on this holding describe pressure coming off rows nobody has put a hand into. That sentence is the record: there is no engagement, only a ground working at its own pace. |
+| { *The Losing Form* [**Exposure**] } | Collapses the shape of whatever lingers near it and lets the collapse carry outward, so that a worker's sense of their own solidity wavers alongside the fruit. | Keeps the cycle short and upwind, and walks the party out before the half-hour at which the middle of the morning starts going. | Past that mark the loss is of the morning rather than of the body, and the file records it as a smell arriving before the worker can say what is missing. Nothing physical has been recorded off a whole watch on the path. |
+| { *The Full Liquefaction* [**Attachment**] } | Gives up everything a fruit was keeping when it is crushed or opened — a desire somebody had abandoned, at full strength, arriving in the person who touched it. | Files the cycle as a feeding, enters it against the worker rather than the orchard, and does not send a second worker after the first. | A cycle that ends with a fruit touched is filed as a feeding whatever the worker intended. That is the whole of this holding's failure mode, and it is a hand and not a pursuit. |
+| { *The Molten Orchard* [**Overload**] } | Melts every cluster in the rows at once, and the ground the rows were visible through rises to meet the workers standing on it. | Clears the frontage by head count, closes the path, and re-paces the boundary when the ground has set again. | The flood is measured afterwards and never during, because there is nowhere to stand and read it. What the file keeps is the frontage: about a foot a week in an active exile season, and never once retracted. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The file's own marker is checked first: dark fruit in heavy clusters over ground permanently wet and crimson, air sweet and burned at once, and orchard rows still legible under the pool. Harvest Beyond the Gate is confirmed against the designation, the day's reading is entered, and the positions are taken along the rows rather than across them.
-2. **Clash:** Viderehan or Ferrehan from the path, upwind wherever the wind allows. Nobody steps onto the crimson ground, nobody picks, and the frontage is paced before the cycle and again after it.
-3. **Resolution:** The rows are left alone and nothing is promised — the documented suppression condition: **Let the fruit decay naturally; do not promise return**. It holds so long as no fruit has been handled and nobody has told anybody they would come back; a cycle that ends with a fruit touched is filed as a feeding, whatever the worker intended.
+1. **What is confirmed:** the frontage paced from the gate, the wind direction for the cycle, and the head count of a party that will stay on the path.
+2. **What the watch does:** Viderehan for what the rows record about promises and Ferrehan for the patient pacing, with nobody stepping onto the crimson ground, nobody picking, and nothing said about anybody coming back.
+3. **How it closes:** the close is the file's documented condition: **Let the fruit decay naturally; do not promise return** — and a cycle in which a promise of return was made within sight of the Gate ends the condition the same way a picked fruit does.
 
 ### Consequences
 

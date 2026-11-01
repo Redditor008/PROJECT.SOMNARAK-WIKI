@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / SECTOR-C-915, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / 30–39 per hit · Weight |
+| Gauge / Pressure | 750/750; starts 35–50% / Weight — no attack pattern; the sealed timepiece read at the door against the station log is the reading |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-1041 -->
+**Resolution:** Relief is taken at the door, in person, with both timepieces read aloud. The rostered hour has elapsed on all 611 shifts without varying by a second. <!-- SE-1041 -->
 
 ## WITNESS RECORD — *The Endless Shift Source-Trace*
 

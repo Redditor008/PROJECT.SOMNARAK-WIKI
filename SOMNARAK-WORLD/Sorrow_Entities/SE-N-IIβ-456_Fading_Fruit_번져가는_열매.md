@@ -44,51 +44,36 @@
 - Nothing has ever been harvested. Fruit taken from the branch thins to nothing before it reaches a mouth, no sample has survived transit, and the empty stems are the only recoverable material in the holding's history.
 - Yield tracks arrivals rather than cycle length, and arrivals are never named. The ward asked for that before the holding existed and the facility agreed, which is the only concession of its kind in the wing.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed garden; output is measured by seasonal fruit-set and empty-stem counts and by footprint movement toward the marked corners |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types. The working safeguards are the Ferrehan hour with hands kept down, picking nothing, acknowledging the named desire without promising fulfilment, and reporting fruit-set and empty-stem counts side by side |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 357/357 |
-| **Han Pressure [ATK]** | 7–18 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and the record's own account of what goes wrong is a hand going out on its own. Nothing in this garden has a reach: the reach is the worker's, which is why the safeguards are an hour with hands kept down and two counts reported side by side.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A garden of heavy fruit at Collector's Row where every fruit set on the branch is matched by an empty stem — four thousand one hundred and nineteen of each in the worst season on file. A lean season shows the finest garden, and the count is what identifies it rather than the look of the trees. |
+| **Perceptible to** | The set count first, taken at the fall against the empty stems, which have always matched it exactly. Then, for a worker standing in the rows, the specific thing they earned and never received, arriving without being looked for. |
+| **Handling** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 357/357 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rows and the standing desire without promising anything, and Ferrehan is the hour stood in the garden with hands kept down; the reach, when it comes, is the reading. |
+| **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Withering* [**Debuff**] } | "The fruit in your hand is going translucent — losing substance, losing color, losing its reason to exist." | [Fruit at shoulder height goes translucent as the worker's hand starts toward it and the specific thing they earned but never received comes to mind.] | *Target suffers -10 Resilience; the stopped reach is logged with the minute and the hand returns to their side.* **[10 Grudge DMG [Grudge]]** | When the target first reaches toward fruit in the rows or names a specific entitlement they earned but did not receive. |
-| { *The Losing Shape* [**Debuff**] } | "The fruit cannot hold its form — and neither can you, near it. Edges blur. Definition fails." | [The boundary between wanting, being owed and being promised collapses; every visible fruit thins as the record is written.] | *Target loses 10 Resilience; hunger transfers to the operators until desire, debt, authority and feasible action are recorded in separate fields.* **[10 Grudge DMG [Grudge]]** | When a desire is promised fulfilment, treated as proof of entitlement, monetized, or itself recorded as debt. |
-| { *The Final Juice* [**Attack**] } | "You close your hand on it and there is a drop, bitter, warm, and then a wet stem and nothing. Four Wardens have done this. All four reported it." | [The fruit discharges as it goes.] | *Grudge pressure and one wound of concentrated ending.* **[14-22 Grudge DMG [Grudge]]** | When a fruit is picked — which is prohibited, and has happened four times. |
-| { *The Total Fade* [**Attack**] } | "Four thousand one hundred and nineteen set that season, and four thousand one hundred and nineteen stems, and the counter finished both lists." | [The completed fall count proves the whole season vanished on the branch: every set fruit is matched by an empty stem.] | *Heavy Grudge pressure across the posted workers; no personnel Gauge is inferred. Both lists are filed whole and the quarter's set-off return is pulled.* **[24-36 Grudge DMG [Grudge]]** | When the completed fall set count exceeds two thousand and matches the empty-stem count. |
-| { *The Empty Harvest* [**Ultimate**] } | "Every fruit in the field fades — and the orchard becomes a collection of absences, each one shaped like hunger." | [The footprint reaches toward a marked corner while fruit across the beds thins before it can be taken.] | *All personnel inside the footprint suffer Grudge pressure for three turns; corners are walked, hands stay empty, and no harvest is promised.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥60%. |
+| Event | What the garden does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Withering* [**Register**] } | Thins the fruit at shoulder height as a worker's hand starts toward it, and puts the specific entitlement they earned and never received into the front of their mind while the hand is still moving. | Logs the stopped reach with the minute, and writes the hand returning to the side as the reading rather than as an incident. | Nothing is taken. The stopped reach is the event, and the minute is what gives it a shape — which is why the standing order is an hour at the marked distance and not a walk among the rows. |
+| { *The Losing Shape* [**Exposure**] } | Blurs the edges of every visible fruit when a desire is promised fulfilment, treated as proof of entitlement, or recorded as debt; hunger transfers to the operators and the boundary between wanting and being owed goes with it. | Keeps desire, debt, authority and feasible action in four separate fields, and checks the fields against each other before the watch leaves the garden. | Four fields instead of one is the whole method. A worker who cannot hold does not break down — they reach, and the row that catches it is the one that keeps desire apart from entitlement. |
+| { *The Final Juice* [**Attachment**] } | Gives up the fruit entirely when a hand closes on it: a drop, bitter and warm, and then a wet stem and nothing. Four Wardens have done this, and all four reported themselves. | Records the picking against the worker rather than the garden, files the feeding, and pulls that quarter's set-off return. | The fruit does not answer a pick with a blow; it is simply no longer there. That is why the file can afford to leave the rows open and why the count is the only containment that holds. |
+| { *The Total Fade* [**Overload**] } | Completes the season on the branch: every set fruit matched by an empty stem, both lists finished, and the whole fall vanished before anything was taken. | Files both lists whole — four thousand one hundred and nineteen and four thousand one hundred and nineteen — and pulls the quarter's set-off return with them. | No personnel gauge is inferred from the count; the two lists are the record and they match exactly. A worker who cannot hold brings themselves to file the set-off late, and seventeen Wardens came off this rota and were later found handing entitlements over entire. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Recognition comes before anything: the count and the bare stems identify the Fruit, not the look of the trees. A lean season shows the finest garden — heavy blossom, fruit setting early, and nothing in thirty-one years grander than the spring of Year 4230 — and only then are the approach set and the positions taken.
-2. **Clash:** Viderehan and Ferrehan only; Flerehan and Pugnahan are N/A under the Object/Place Work Rule. The reading is the set count: fruit that formed on the branch across the season, counted at the fall against the empty stems, which have always matched it exactly. Three hundred and forty is baseline. The recorded range is ninety-six to four thousand one hundred and nineteen.
-3. **Resolution:** The watch closes only when the desire has been acknowledged with no fulfilment promised, nothing has been picked, the set count and stem count are reported side by side, and the Gauge is below 25%. **Acknowledge desire without promising fulfillment** is the management condition; suppression and harvesting are not routes.
+1. **What is confirmed:** the set count and the empty-stem count against the last full season, the four fields — desire, debt, authority, feasible action — kept apart, and the hands of everybody on the rota.
+2. **What the watch does:** Viderehan for the rows and the standing desire and Ferrehan for the hour stood with hands down, with nothing picked and no fulfilment promised at any point in the watch.
+3. **How it closes:** the close is the file's documented condition: **The desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25%** — and a watch that ended with a fruit touched is filed as a feeding, whatever the worker intended.
 
 ### Consequences
 

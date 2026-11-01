@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Six that measure rather than meet (2026-11-01)
+
+Thirteenth batch, and the first that leaves the relic shelf entirely. Every one of these is a holding whose event is a reading — a sealed timepiece, a foundation gauge, a shutter time, a set count, a paced frontage, a waking hour — and every one of them was filed with a battle length.
+
+- **Endless Shift** (`C-IVδ-915`) — *stationary, spreads rather than moves*, and the escalation note had said for years that there is nothing in the sector to strike. It is re-typed out of the breach census: the hour lengthens inside the same four walls, the boundary does not move, and stepping through the door ends it within the minute.
+- **Sorrow Mass** (`C-Vω-925`) — a Sovereign, and the batch's hardest call. It is uncontained and has never been held, which means it has nothing to break: *broken free* was the one thing its own location row made impossible. Re-typed to non-breaching expansion, and the City-Scale section's line now says what the file actually means — a Sovereign that has never been held and therefore has nothing to break.
+- **Dawn That Forgot** (`N-IIIγ-917`) — a lit district that will not wake. Its own event note says nobody in the widened streets has ever reported injury, and the whole watch is two shutter times taken from outside the line.
+- **Fading Fruit** (`N-IIβ-456`) — a garden where every set fruit is matched by an empty stem. Nothing in it has a reach; the reach is the worker's, which is why the safeguards are an hour with hands kept down and two counts reported side by side.
+- **Harvest Beyond the Gate** (`N-IIβ-627`) — its Resistance row already said the fruit does not pursue and the percentages describe pressure off rows nobody has put a hand into. One row still had a glob of molten fruit *flying*; the record now says what the trigger always said — the fruit gives way in the hand that squeezed it, and no fruit has ever left the rows.
+- **Dreaming Plague** (`N-IVδ-927`) — the holding has no reach of its own and has never taken a person who was not touching another person. The cordon is not a fight; it is a wait with a notebook at the end of it, and the close is a signature.
+
+**One survivor, and its reason on the page.** **Sky of Borrowed Faces** (`O-IIIγ-926`) keeps its combat record: the site stays put, but a projection reaches off the surface toward an observer who has stood in front of one surface for over a minute, and contact has been reported. It gains a reason line and loses a hedge — its breach row used to say that whether the four expansions counted as breach events was *unresolved*, which is a file telling a reader it does not know what it is. It has expanded and withdrawn four times with nobody doing anything about it and no damage at any extent; that is expansion in place, and now it says so.
+
+**Three template resolutions retired.** Endless Shift, Sorrow Mass and Dreaming Plague each carried the same side-codex line — *reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved* — while their dossiers closed on a handover at a door, on a survey stable for four consecutive watches, and on a signature. The subject cards now carry the dossier's own close.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `seam_lint` 0 · `timeline_lint` 0 · `label_lint` 0 · `check_links` 0 broken. **One hundred and four Contact Records; a hundred and ninety-seven combat records remain, and most of those are honest.**
+
 ## Five holdings whose own rows said nothing was coming (2026-11-01)
 
 Twelfth batch, and the first outside the relics. All five were already classified non-breaching and all five still carried a battle table, and in every case one of their own rows had been quietly correcting it for years.

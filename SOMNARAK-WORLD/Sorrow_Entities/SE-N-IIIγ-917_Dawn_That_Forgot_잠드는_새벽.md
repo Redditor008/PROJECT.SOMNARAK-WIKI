@@ -44,51 +44,36 @@
 - Handover is written and countersigned at the door, because spoken handover has repeatedly failed to survive the gap.
 - Extraction is authorized apart from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Void pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
-| **Han Pressure [ATK]** | 17–29 per turn of exposure · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the file's own event note says that nobody in the widened streets has ever reported injury. What the holding does is hold a morning shut, and the whole of the watch is two shutter times taken from outside the line.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major temporal/dream hazard; not a Sovereign classification |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A lit district that will not wake. The mismatch is the entity: the sky does its part and the residents cannot open their eyes, and the sleepers are people within its extent rather than any anatomy of the holding. Nothing in the district has ever been damaged. |
+| **Perceptible to** | The shutters — the first one opening and the last one opening, timed from the perimeter post — and, from the sleepers themselves, an account that arrives consistently and is not confusion and not dreaming: a morning attended from the wrong side of the eyelids. |
+| **Handling** | The post is held without entering, the first shutter and the last are timed, and the pair goes into the series. Neither Work Type has ever produced an early waking, and the rotation exists because of the standing, not the sleepers. |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-917 |
+| **Valid Work Types** | Viderehan and Ferrehan only, both performed from the perimeter. Viderehan is the watch itself and makes the dream pressure legible under sustained observation; Ferrehan is holding the post for the length of an episode without sending anybody in. |
+| **Location** | SECTOR-N-917, contained |
 | **Resolution Condition** | The district opens its eyes. Mean elapsed time from sunrise, seventy-one minutes; range forty to a hundred and ten; twenty-nine episodes and no exceptions. Nothing has ever shortened one and the file lists what has been tried. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Stalled Watch* [**Debuff**] } | "The clock reaches the hour before dawn and stays there, and nothing on the shift ends." | [The hour the dawn forgot to close settles over the target and does not lift.] | *Target carries the weight of a night that will not end.* **[10 Void DMG [Void]]** | When the shift first walks into the stall. |
-| { *The Forgetting Spreads* [**Attack**] } | "You cannot remember whether the sun came up yesterday, and the doubt is the point." | [The forgetting moves out of the stall in every direction at once.] | *The doubt does the work, and the hour is forgotten in turn.* **[21 Void DMG [Void]]** | When the stall is entered a second time. |
-| { *Nobody Remembers the Sunrise* [**Attack**] } | "Ask the room when the light last came — four answers, none of them the same, all of them certain." | [The stall closes on one point and the whole shift loses the same hour together.] | *The certainty does the damage; the gauge surges across the ground.* **[29 Void DMG [Void]]** | When the stall is pressed or the shift is forced across it. |
-| { *The Sleep That Takes the Sky* [**Ultimate**] } | "Dawn breaks over every district at once — and nobody watching it can say whether the sun rose or the sky simply stopped." | [The stall goes out to the horizon and the day does not start anywhere in it.] | *All personnel suffer Void erosion for three turns, and the date is entered from the records rather than from memory.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the morning does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Stalled Watch* [**Register**] } | Reaches the hour before dawn and stays there: the light comes, the shift does not end, and nothing in the district starts. | Starts the clock at the first shutter and stops it at the last, from the perimeter post, and enters the pair against the twenty-nine-episode series. | Timing is the whole instrument. There is no measurement of the condition inside a sleeper, so the shutter pair is the only figure the file has ever had — mean seventy-one minutes, range forty to a hundred and ten. |
+| { *The Forgetting Spreads* [**Contagion**] } | Moves the doubt outward in every direction at once: a worker stops being sure whether the sun came up yesterday, and the doubt is the transferable part. | Records the account of anybody who will give one, separately and before they have spoken to anybody else, and does not discuss the hour among the watch. | The doubt spreads by being said aloud in a room where nobody can settle it, which is why separate accounts are taken and compared afterwards rather than during. |
+| { *Nobody Remembers the Sunrise* [**Exposure**] } | Closes the stall on one point, so that the whole shift loses the same hour together and four people give four different answers, each of them certain. | Enters the date from the records rather than from anybody's memory, and does not press the stall — pressing has never produced an earlier shutter. | The certainty is the exposure. Four accounts that disagree and are each held firmly are the file's description of an episode that has run past its mean, and they are recorded as four accounts and not as one fact. |
+| { *The Sleep That Takes the Sky* [**Overload**] } | At sixty-five per cent the stall goes out to the horizon and the day does not start anywhere inside it; the district is lit and every district beside it is waiting too. | Closes the perimeter, takes the shutter times from the outermost post that still has a view, and reinstates the series from the records rather than from the day. | Void erosion is the cost to the watchers and not to the sleepers, and the date is entered from the records. Nothing has ever shortened an episode and the file lists what has been tried. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Dawn That Forgot is confirmed by the awareness. Sleepers report knowing that morning had come and being unable to open their eyes, and they report it consistently — not confusion, not dreaming, but a morning attended from the wrong side of the eyelids. The team establishes its position and its withdrawal before the cycle opens.
-2. **Clash:** The team performs Work Types and uses M.A.W. equipment while the entity follows Dawn That Forgot's recorded combat actions.
-3. **Resolution:** People get up. The post records the minute the first shutter opens and the minute the last one does, and the pair of figures goes into the series. There is no suppression step because there has never been anything to suppress — the district is read against the documented suppression condition: **the first shutter and the last shutter are timed from the perimeter post**.
+1. **What is confirmed:** the perimeter post and its view, the sunrise time entered from the records, and the last shutter time from the previous episode in the series.
+2. **What the watch does:** Viderehan for the dream pressure and Ferrehan for holding the post through an episode, with nobody sent in and no attempt made to wake a sleeper.
+3. **How it closes:** the close is the file's documented condition: **the first shutter and the last shutter are timed from the perimeter post** — the district opens its eyes, mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. An episode closed on anybody's account of the morning rather than on the two shutter times is entered as unmeasured.
 
 ### Consequences
 

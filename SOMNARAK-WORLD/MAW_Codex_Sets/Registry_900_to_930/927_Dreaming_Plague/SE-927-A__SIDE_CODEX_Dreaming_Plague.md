@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Dream |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / SECTOR-N-927, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / 30–40 per hit · Void |
+| Gauge / Pressure | 750/750; starts 35–50% / Void — no attack pattern; the waking time on the clock is the reading, mean four hours eleven minutes |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-927 -->
+**Resolution:** The sleeper wakes on their own and the cordon is lifted by the person who set it; the account is taken and signed before the district reopens. <!-- SE-927 -->
 
 ## WITNESS RECORD — *The Dreaming Plague Source-Trace*
 

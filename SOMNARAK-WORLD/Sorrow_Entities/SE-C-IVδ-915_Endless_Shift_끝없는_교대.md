@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-915 [WT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Non-breaching: expansion only; the hour a worker has worked lengthens inside the same four walls, the boundary does not move, and stepping through the door ends it within the minute |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -44,51 +44,36 @@
 - Crews are relieved against the facility clock at the door and never against their own sense of elapsed time.
 - Extraction is separately authorised and is costed in subjective hours rather than in elapsed ones, which is the only line in the Armoury's ledger that uses the crew's own clock.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight. There is nothing in the sector to strike; the figure is carried from the schedule and the station has asked twice for the subjective-hour column to replace it. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 30–39 per turn of exposure · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the escalation note says it in as many words: there is nothing in the sector to strike. The holding is an hour that runs heavier than the clock, and the whole of the work is a sealed timepiece and a handover taken at the door.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A rostered shift in the Zone D Forge District that does not end for the crew on it. There is no body, no apparition and no sound; the crew works correctly, the clock on the wall is removed, and the hour the worker believes they have worked stops agreeing with the hour the station is paying for. |
+| **Perceptible to** | The sealed timepiece, and nothing else that can be trusted. The first sign is that a worker stops looking at the clock — in 611 shifts, on every worker, without exception — and after that the only reading that survives is the pair of timepieces read aloud at the door. |
+| **Handling** | Timepieces sealed at the door by the relief warden, who also writes the hour; relief taken in person at the door with both timepieces read aloud; no unsealed clock carried in and none on the sector's walls. A worker who states their elapsed time aloud has made it worse for everybody in earshot. |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-915 |
+| **Valid Work Types** | Viderehan and Ferrehan only, and both shorten the subjective span without altering the elapsed duration. Viderehan makes the weight legible as a reading rather than as a feeling; Ferrehan is sitting the hour out at the marked distance without letting the crew's own account of it become the record. |
+| **Location** | SECTOR-C-915, contained |
 | **Resolution Condition** | The rostered hour elapses and the crew leaves. 611 shifts; the elapsed hour has never varied by a second and the subjective span has run from four hours to just under nine. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "You have been here a while. The clock on the wall disagrees and you stop looking at it." | [Subjective time begins outrunning elapsed time within the first minutes.] | *10 Weight. Every worker, every shift, without exception in 611.* **[10 Weight DMG [Weight]]** | On entry. |
-| { *The Weight Surge* [**Attack**] } | "Somebody says how long they have been on, and they are wrong, and they are certain." | [A worker states their own elapsed time aloud and the error compounds for everyone who heard it.] | *18 Weight to everybody in the sector.* **[18 Weight DMG [Weight]]** | When elapsed time is discussed inside the boundary. Prohibited for this reason. |
-| { *The Settling* [**Attack**] } | "The shift does not end. The relief arrives and you keep working, and it seems correct." | [A worker fails to leave at the end of the rostered hour and does not register the handover.] | *26 Weight. Nine occurrences; the longest was eleven elapsed hours and the worker reported it as a long day.* **[26 Weight DMG [Weight]]** | When relief is not taken at the door. |
-| { *The Weight Collapse* [**Ultimate**] } | "Every crew in the wing works through their relief at the same moment and none of them notices." | [The subjective span propagates to adjacent sectors.] | *20 Weight per cycle for three cycles to everybody on shift.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, twice, both during quarters when the wing was short-handed. |
+| Event | What the hour does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Begins outrunning the clock within the first minutes of every shift, so that the worker has been here a while and the clock on the wall disagrees and gets looked at less and less. | Seals the crew's timepieces at the door and records the hour before anybody steps in, with an outside warden holding the sealed pair. | It happens to every worker on every shift, all 611 of them, which is why the sealed timepiece exists and the worker's own sense of the hour is entered as an account rather than a reading. |
+| { *The Weight Surge* [**Exposure**] } | Compounds the error the moment a worker states their elapsed time aloud: the figure is wrong, they are certain of it, and everybody who heard it now carries it too. | Forbids the subject, and treats a worker who discusses time inside the boundary as having contaminated the room rather than having made a mistake. | Discussing elapsed time inside the boundary is prohibited for exactly this reason. The row is not about the telling; it is about the hour being wrong in a voice the crew trusts. |
+| { *The Settling* [**Attachment**] } | Runs on past the rostered hour for a worker whose relief was not taken at the door. They do not stop working, they do not register the handover, and they report afterwards that they were relieved on time. | Takes relief in person, by name, at the door — an outside extraction crew collects workers individually and is forbidden from picking up a tool or helping with a task inside. | Nine occurrences, the longest eleven elapsed hours, and the worker's own account of it afterwards was a long day. All nine were failures of the handover and not of anything the sector did. |
+| { *The Weight Collapse* [**Overload**] } | Carries the subjective span into adjacent sectors at sixty-five per cent, so that every crew in the wing works through their relief at the same moment and none of them notices. | Reconciles the sealed readings against the station log and the foreman's register afterwards, by name, and enters the hours retrospectively. | Recorded twice, both during quarters when the wing was short-handed — which is the only condition under which the handover at the door was skipped. The station has reconciled 94 hours from sealed readings alone. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The crew's timepieces are sealed at the door by the relief warden, who also records the hour. Nobody carries an unsealed clock inside and the sector has none on its walls.
-2. **Clash:** None. There is a sector in which time is heavier than it should be and a crew working a rostered hour in it; the row is retained because the form requires one.
-3. **Resolution:** Relief is taken at the door, in person, with both timepieces read aloud. The handover is the containment measure and the nine failures are all failures of the handover rather than of anything the sector did. It closes against the documented suppression condition: **Relief is taken at the door, in person, with both timepieces read aloud**.
+1. **What is confirmed:** the sealed timepieces and the hour written at the door, the names on the relief roster, and the foreman's register open beside the station log for the reconciliation afterwards.
+2. **What the watch does:** Viderehan to make the weight legible and Ferrehan to sit the hour at the marked distance, with the crew carrying no unsealed clock, nobody stating their elapsed time aloud, and relief taken in person at the door by an outside warden.
+3. **How it closes:** the close is the file's documented condition: **Relief is taken at the door, in person, with both timepieces read aloud** — and the rostered hour has elapsed on every one of 611 shifts without varying by a second, so a shift that closed on the crew's own account of the hour is entered as unclosed.
 
 ### Consequences
 
@@ -146,21 +131,21 @@ It does not rage and does not weep. It persists, and the persistence is the whol
 
 Endless Shift is a Time holding with Time-Weight manifestation and Weight expression at SECTOR-C-915. Flerehan and Pugnahan are unavailable. Both valid Work Types shorten the subjective span without altering the elapsed duration, and no cycle in the holding's history has produced a handover. The district's output is needed, the work proceeds correctly, and that is the difficulty rather than the reassurance.
 
-## Breach Behavior
+## Expansion Behavior
 
-> *"Endless Shift has broken free. It goes by the shift a person believes they have worked, not by the roster; anybody who thinks they are due relief is already on its list."*
+> *"Endless Shift is running long. It goes by the shift a person believes they have worked, not by the roster; anybody who thinks they are due relief is already standing inside it."*
+
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's weight influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Weight pressure radiates — the weight register makes it personal, targeted, unavoidable. |
-| **First Target** | Whoever has been on longest, by their own reckoning rather than by the roster. It has never selected by seniority, posting or proximity in 611 shifts. |
-| **Escalation** | +5 Weight drain per cycle while a worker remains past relief. It does not pursue and does not spread to anybody who has left; stepping through the door ends it within the minute. |
+| **Expansion Trigger** | Three ignored conditions, and the first of them happens on every shift: within the first minutes the hour begins outrunning the clock, and the worker stops looking at it. Nothing announces the start. |
+| **Expansion Rate** | Nothing is added to the sector and nothing leaves it. The span lengthens inside the same four walls while the elapsed hour does not move at all — 611 shifts, never a second's variance, with the subjective span running from four hours to just under nine. |
+| **Expansion Effect** | Weight in the time register: the shift gets longer, the worker keeps working correctly, and the error compounds out loud whenever somebody states their elapsed time to somebody who believes them. |
+| **Containment** | Relief taken in person at the door with both timepieces read aloud, the sealed pair reconciled against the station log and the foreman's register, and an outside extraction crew collecting workers by name and taking up no tool inside. |
 
 ### Escalation Notes
 
 - **Containment priority:** Take relief in person at the door and reconcile the sealed timepieces with the station log and foreman’s register. An outside extraction crew collects workers by name and must not help with any task or pick up a tool inside; there is nothing in the sector to strike.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% for each hour worked in the wing beyond a rostered shift without being entered on a timesheet. It falls 10% for each such hour entered retrospectively, which the station has done 94 times from the sealed readings alone.
+- **Sorrow Gauge on expansion:** Starts at 40% and rises 10% for each hour worked in the wing beyond a rostered shift without being entered on a timesheet. It falls 10% for each such hour entered retrospectively, which the station has done 94 times from the sealed readings alone.
 
 ## M.A.W. Equipment
 

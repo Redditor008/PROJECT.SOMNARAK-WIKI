@@ -20,11 +20,11 @@ Dark trees in Collector’s Row bear warm bitter fruit that fades just before ea
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 35–50% / 7–18 |
+| Gauge / Pressure | 357/357; starts 35–50% / Grudge — no attack pattern; the set count against the empty-stem count is the reading |
 | Observation | 2 |
 | Set | The Unclaimed Harvest |
 
-Only Viderehan and Ferrehan are valid. **Resolution:** acknowledge desire without promising fulfillment.
+Only Viderehan and Ferrehan are valid. **Resolution:** the desire acknowledged and no fulfilment promised, nothing picked, the set count and the stem count taken and reported side by side, and the gauge below 25%.
 
 ## M.A.W. SET — *The Unclaimed Harvest*
 

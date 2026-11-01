@@ -44,52 +44,36 @@
 - Containment is cordon and wait. There is nothing in the chamber to suppress, and waking a sleeper early has never been achieved.
 - Yield is recovered from the shared dream once it ends, and scales with the number of sleepers it held rather than with its duration.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 30–40 per turn of exposure · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the file's own event note says the holding has no reach of its own and has never taken a person who was not touching another person. The cordon is not a fight; it is a wait with a notebook at the end of it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Critical contact-transmitted dream hazard; not a Sovereign classification |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A normally breathing person asleep in the open, and a district around them that agrees. Independent sleepers describe the same streets in the same order, which the counsellors' standing note calls the most troubling feature of the file precisely because dreams do not ordinarily agree. |
+| **Perceptible to** | The agreement first, then the second sleeper: one unprompted sleep inside a widened boundary, after which the contact rule resumes and has held for every subsequent case. The sound they report is the approaching sound, nearer each time. |
+| **Handling** | The cordon held without touching or moving the sleeper, the account taken on waking in a separate place from any other sleeper, barriers back on the rack, and no M.A.W. piece handed between personnel inside the district. |
+| **Activation threshold** | Sorrow Gauge ≥ 60%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-927 |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the separate account on waking, which is the only content the file has ever had; Ferrehan is the wait outside reach, which has held for every case and neither approach has ever produced an early waking. |
+| **Location** | SECTOR-N-927, contained |
 | **Resolution Condition** | The sleeper wakes on their own and the cordon is lifted by the person who set it. Resolution is a timekeeping exercise — mean duration four hours eleven minutes, longest nine hours, none unresolved — and no work performed on a sleeper has ever altered the figure. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Incubation* [**Debuff**] } | "No one catches it on purpose. The morning simply arrives with a symptom that answers to someone else's name." | [The infection plants its first sign and waits for the carrier to breathe on a neighbour.] | *The mark multiplies through ordinary contact; the Gauge rises each round it goes unnoticed.* **[9 Void DMG [Void]]** | When a sleeper's dream is first borrowed. |
-| { *The Coughing Choir* [**Attack**] } | "One throat starts it, and by evening the street is singing a note none of them were taught." | [Every infected voice picks up the same pattern and passes it along in unison.] | *Void damage reaches everyone within earshot; each new carrier feeds the Gauge.* **[16 Void DMG [Void] (AoE)]** | When three carriers share the same air. |
-| { *The Fever Dream* [**Attack**] } | "Your dream walks in before you do, and it is wearing a face you have not met." | [The plague lays its own dream over the sleeper's and walks the sleeper through it.] | *The target spends their next action inside the borrowed dream while the Gauge climbs.* **[26 Void DMG [Void]]** | When the carrier is exhausted or handled carelessly. |
-| { *The Brightening* [**Ultimate**] } | "The district wakes up cured. Every one of them is somebody else now." | [The plague lets go in a single morning and keeps everything it learned from the people it touched.] | *All personnel lose the day above; recoveries taken inside the radius fail together.* **[22 Void DMG [Void] (AoE, x2 turns)]** | When the Gauge reaches its registered ceiling. |
+| Event | What the plague does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Incubation* [**Register**] } | Plants the first sign in somebody who did not catch it on purpose: the morning arrives, and with it a symptom that answers to somebody else's name. Nothing approaches; the sleeper is already asleep. | Sets the cordon and starts the clock, and takes the sleeper's name, the site, and the hour — three fields and no diagnosis. | No other content changes and no physical effect has ever been recorded. The incubation is registered as a sleeper, a place and an hour, because those three are what the duration series is built on. |
+| { *The Coughing Choir* [**Contagion**] } | Picks up one pattern in every infected voice once three carriers share the same air, so that a street sings a note none of them were taught and each new carrier feeds the gauge. | Keeps the barriers on the rack until the account is signed, and forbids a hand on a person anywhere inside the radius. | The holding's only transmission route is a hand on a person. That is why the M.A.W. set is drawn and returned at the staging point by one named holder per shift, and why a piece is never handed between two people in the district. |
+| { *The Fever Dream* [**Exposure**] } | Lays its own dream over the sleeper's and walks them through it, so that a sleeper meets a face they have not been introduced to and spends the next part of the day inside somebody else's account. | Waits, does not wake them, and takes the account before anybody has spoken to the sleeper about it. | Four cases on file ended with the colleague who had carried the sleeper now asleep themselves, all of them before the no-carry rule — which is where the rule came from and why the cordon is held by people who are not touching anybody. |
+| { *The Brightening* [**Overload**] } | Lets go in a single morning and keeps everything it learned: the district wakes up cured and every one of them is somebody else, and recoveries taken inside the radius fail together. | Records every account before the district reopens, and does not reopen on anything but a signed account. | The close is a signature and not a treatment. Mean duration four hours eleven minutes, longest nine, none unresolved, and no work performed on a sleeper has ever altered the figure. |
 
+### Watch Sequence
 
-### Battle Phases
-
-1. **Tension:** The team identifies Dreaming Plague by the agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree. The team confirms the approach and takes position before anything else is attempted.
-2. **Clash:** The attending crew holds the cordon without touching or moving the sleeper. Observation takes the separate account on waking; endurance is the wait outside reach. Equipment issue and return stay at the staging point, and neither Work approach has documented an early waking.
-3. **Resolution:** The sleeper sits up. The attending crew takes their account before anyone speaks to them about it, in a separate place from any other sleeper, and the barriers go back on the rack. The district reopens the moment the account is signed. It closes against the documented suppression condition: **The sleeper wakes on their own and the cordon is lifted by the person who set it**.
+1. **What is confirmed:** the sleeper's name, the site and the hour on the clock, the cordon line and who set it, and the staging point where the set is drawn and returned.
+2. **What the watch does:** Viderehan for the separate account on waking and Ferrehan for the wait outside reach, with nobody touching or moving a sleeper and no piece handed between people inside the district.
+3. **How it closes:** the close is the file's documented condition: **The sleeper wakes on their own and the cordon is lifted by the person who set it** — a timekeeping exercise with a mean of four hours eleven minutes, and an account signed before the district reopens.
 
 ### Consequences
 

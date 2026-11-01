@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / SECTOR-N-917, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / 17–29 per hit · Void |
+| Gauge / Pressure | 500/500; starts 35–50% / Void — no attack pattern; the first shutter and the last shutter, timed from the perimeter post, are the reading |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-917 -->
+**Resolution:** The district opens its eyes. Mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. <!-- SE-917 -->
 
 ## WITNESS RECORD — *The Dawn That Forgot Source-Trace*
 

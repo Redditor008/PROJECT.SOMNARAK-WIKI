@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Weight |
 | Coherence / Potency | Sovereign (V) / Catastrophic (ω) |
 | Element / Location | Weight / SECTOR-C-925, UNCONTAINED |
-| Gauge / Pressure | 1000/1000; starts 35–50% / 50–59 per hit · Weight |
+| Gauge / Pressure | 1000/1000; starts 35–50% / Weight — no attack pattern; the adjacent foundation gauges and the unbroken deflection survey are the reading |
 | Observation | 5 — Sovereign |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-925 -->
+**Resolution:** There is no resolution condition. A site is closed out when the deflection survey reads stable for four consecutive watches; the ledger records no event ended by anything the facility did. <!-- SE-925 -->
 
 ## WITNESS RECORD — *The Sorrow Mass Source-Trace*
 

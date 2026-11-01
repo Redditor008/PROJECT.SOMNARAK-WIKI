@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vω-925 [WH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only; it has never been held and has nothing to break, so it seeps upward through whatever is load-bearing at the pace of a slow leak |
 | **Coherence** | Sovereign (V) |
 | **Potency** | Catastrophic (ω) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -44,51 +44,36 @@
 - Crews are withdrawn on elapsed time. Personnel inside the volume consistently underestimate how long they have been in it.
 - Extraction is authorized apart from the work cycle and is never attempted from within the volume.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 25% against Weight pressure; 18% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 1000/1000 |
-| **Han Pressure [ATK]** | 50–59 per turn of exposure · Weight |
-| **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | ω — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the file's own consequence section says nothing in this holding has ever been fought and the equipment record contains no entry describing an attempt. It is also uncontained: there is no container to break, so what it does is seep, and what the Directive does is measure it and clear floors.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Sovereign encounter |
-| **Coherence** | Sovereign (V) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A thickening under the Alpha Tree where Han density is so concentrated that the weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. It has no apparition, no voice and no manifestation the eye can find: only mass, and a floor plate that bows under nothing. |
+| **Perceptible to** | The habit first — the long way round the stairs, and nobody reports it — then the foundation gauges disagreeing with their neighbours, then doors that bind and tools that drop from hands. Personnel describe nothing worse than a long shift; the survey says otherwise and the survey is what is believed. |
+| **Handling** | The gauge round walked on the watch, the deflection survey kept unbroken, and a floor cleared on the first confirmed thickening rather than on a complaint. Nothing is suppressed and nothing is lifted that the Mass is carrying: the doctrine is stamped by three Directors and reads, in full, *Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down.* |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [HP]** | 1000/1000 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Catastrophic · R.D. Comprehension Level 5 — Sovereign |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-925 |
+| **Valid Work Types** | Viderehan and Ferrehan only, and both are survey work: observation is the gauge round and endurance is the continuous deflection watch that nobody has ever been allowed to interrupt. The holding has never been worked in the ordinary sense and the Directorate has never scheduled one. |
+| **Location** | SECTOR-C-925, uncontained |
 | **Resolution Condition** | There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time. A site is closed out when the deflection survey reads stable for four consecutive watches. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It arrives as a habit, not as a load: the long way round the stairs, and nobody has reported it." | [The volume settles over a working floor, and the gauges disagree with their neighbours before any single series begins to trend.] | *10 Weight to every person inside, logged by instrument ahead of any account from the people themselves.* **[10 Weight DMG [Weight] (AoE)]** | On the first shift inside the volume, and on every shift after it until the survey reads stable. |
-| { *The Weight Surge* [**Attack**] } | "The floor plate bows and the survey was already on the watch." | [A confirmed thickening takes the storey below, in the order the ledger records: foundation, stairwell, then the living floor, and never skipping a level.] | *15 Weight to whoever is standing on the storey when it takes the load. Three evacuations ordered on one reading were later found unnecessary, and all three were upheld.* **[15 Weight DMG [Weight]]** | When a confirmed thickening is left in place past the watch instead of being cleared. |
-| { *The Settling* [**Attack**] } | "The ward below is ours, and the ward is the only sharp boundary the record has ever shown." | [The pressure concentrates on the living floor; the reading above the ward plate is flat while the members below carry what no survey has written down.] | *20 Weight to the crew on the floor, and by this point the complaint sheet has been reading it as fatigue for two years.* **[20 Weight DMG [Weight]]** | When the sequence reaches the living floor — the third stage, after the foundation and the stairwell. |
-| { *The Weight Collapse* [**Ultimate**] } | "Nothing is released. The members have been bowing for months; failure is only the moment the deflection stops being recoverable." | [After the foundation and stairwell stages, an uncleared load reaches the living floor and structural members pass endurance; floors and wards fail in sequence rather than discharging across a district at once.] | *17 Weight per turn for three turns to everyone remaining in the affected structure. The ledger's only reading above 80% was taken after the floors had already gone.* **[17 Weight DMG [Weight] (AoE, x3 turns)]** | When the third-stage living floor is left uncleared until its load-bearing members fail. |
+| Event | What the Mass does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Settles over a working floor as a habit rather than a load, and the gauges disagree with their neighbours before any single series begins to trend. Nothing is announced and nobody inside reports it. | Reads the adjacent foundation gauges before taking anybody's account, checks the crew against elapsed time at the door, and enters the first series of the shift. | The weight is the one thing in the archive an instrument measures better than a person. Crews underestimate how long they have been inside the volume, so the door check is kept on the same sheet as the gauges. |
+| { *The Weight Surge* [**Exposure**] } | Takes the storey below in the ledger's own order — foundation, stairwell, then the living floor — and never skips a level. Doors bind, floor plates bow, and a worker standing on the storey when it takes the load carries it in the body. | Clears the floor on the first confirmed thickening, and records the three evacuations that were ordered on one reading, later found unnecessary, and upheld anyway. | The order is the reading and it has never varied across seventeen events. An evacuation that turned out unnecessary is entered as upheld, because the sequence is the only thing on this holding that has ever been predictable. |
+| { *The Settling* [**Refusal**] } | Does not answer force and does not respond to argument: it is not suppressed, only surveyed, cleared and structurally carried. The ward plate is the one sharp boundary the record has shown, and the pressure above it stays flat while the members below carry what no survey has written down. | Leaves the ward plate alone, inspects the wards beneath a cleared floor, and keeps the survey running on the structure whether or not anybody is still working in it. | The refusal is the structural one. Nothing here has ever been fought — there is no attempt in the equipment record — and the crushed wards were evacuated on the strength of a survey while the complaints about them had been on file for two years, read as fatigue. |
+| { *The Weight Collapse* [**Overload**] } | Lets an uncleared load reach the living floor until members pass endurance, and floors and wards fail in sequence rather than discharging across a district at once. Nothing is released at the moment of failure; the members have been bowing for months. | Closes the site out only when the deflection survey reads stable for four consecutive watches, and keeps the failed wards standing, stabilised, as the record. | The ledger's only reading above eighty per cent was taken after the floors had already gone, which is why the figure is filed as a record of failure and never as a threshold to act at. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The approach is confirmed on the foundation gauges and not on anybody's account. Crews are checked against elapsed time at the door, because personnel inside the volume consistently underestimate how long they have been in it, and the ward plate is the one boundary in the record that has ever been sharp.
-2. **Clash:** The round is a survey and nothing else: Viderehan on the gauge walk and Ferrehan on the continuous deflection watch, with the set issued for measurement rather than for suppression. Nothing here is fought; the crew's whole output is the reading that lets a floor be cleared in time.
-3. **Resolution:** The floor is cleared, the wards beneath it are inspected, and the survey continues on the structure whether or not anyone is still working in it. Nothing is suppressed, withdrawn from, or defeated; the event ends when the millimetres stop.
+1. **What is confirmed:** the adjacent foundation gauges read before anyone's account, the deflection survey unbroken from the previous watch, and the ward plate as the boundary the readings are taken either side of.
+2. **What the watch does:** the gauge round under Viderehan and the continuous deflection watch under Ferrehan, with the set issued for measurement and never for suppression, and the floor cleared on the first confirmed thickening.
+3. **How it closes:** there is no close of the ordinary kind — the file says so: **There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time** — and a site is closed out only when the survey reads stable for four consecutive watches.
 
 ### Consequences
 
@@ -146,21 +131,21 @@ The weight is the one thing in this archive that an instrument measures better t
 
 Management: walk the gauge round on the watch, keep the deflection survey unbroken, and clear a floor on the first confirmed thickening rather than on the second — there is nothing here to weep with and nothing to confront, only load, and the three evacuations ordered on a single reading were upheld.
 
-## Breach Behavior
+## Expansion Behavior
 
-> *"Sorrow Mass has broken free. It puts the load into the structure before it puts it into the people — floors bow, doors bind — and it goes to what has been carried longest unsaid rather than to fresh grief."*
+> *"Sorrow Mass has taken the storey below. It puts the load into the structure before it puts it into the people — floors bow, doors bind — and it goes to what has been carried longest unsaid rather than to fresh grief."*
+
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | Upward, through whatever is load-bearing, at the pace of a slow leak. Seventeen major pressure events are on the Directorate ledger; in every one the sequence was the same — foundation, stairwell, then the living floor — and in none of them did it skip a level. |
-| **Effect** | The structure takes the load before the people do. Tools drop, doors bind, floor plates bow, and personnel describe nothing worse than a long shift until the deflection survey says otherwise. The crushed wards failed in that order and are kept standing, stabilised, as the record of it. |
-| **First Target** | The foundations, and after them whatever has been carried longest without being said. The Mass has never manifested where grief is fresh: the inventory aisles of the Deep Vault, the sealed wing behind the Insight Forge, the stairwells the night shift uses. It arrives under places, not at people. |
-| **Escalation** | Pressure rises by confirmed storey of seep—foundation, stairwell, living floor—rather than by turn; it is not suppressed, only surveyed, cleared and structurally carried. |
+| **Expansion Trigger** | Three ignored conditions, and the earliest sign is a habit rather than a load: the long way round the stairs, taken by crews who never report it. The foundation gauges disagree with their neighbours before any single series begins to trend. |
+| **Expansion Rate** | Upward, through whatever is load-bearing, at the pace of a slow leak — and by confirmed storey rather than by turn. Seventeen major pressure events are on the ledger; in every one the sequence was foundation, stairwell, then the living floor, and in none of them did it skip a level. |
+| **Expansion Effect** | The structure takes the load before the people do. Tools drop, doors bind, floor plates bow, and personnel describe nothing worse than a long shift until the deflection survey says otherwise. The crushed wards failed in that order and are kept standing, stabilised, as the record of it. |
+| **Containment** | No physical suppression. Read the adjacent foundation gauges, keep the deflection survey unbroken, clear the floor on the first confirmed thickening, and let the lightening rites lift what the Mass is carrying — walls do not stop it and seals do not hold it, so the floor is cleared and the burden is set down rather than blocked. |
 
 ### Escalation Notes
 
 - **Containment priority:** No physical suppression. Read adjacent foundation gauges, keep the deflection survey unbroken, and clear the floor on the first confirmed thickening.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per confirmed storey of seep rather than per turn. The crushed wards event is the only reading above 80% in the ledger and it was taken after the floors had already gone.
+- **Sorrow Gauge on expansion:** Opens at 40% and rises 10% per confirmed storey of seep rather than per turn. The crushed wards event is the only reading above 80% in the ledger and it was taken after the floors had already gone.
 
 ## M.A.W. Equipment
 
@@ -319,7 +304,7 @@ Archivists note the Mass never manifests where grief is fresh. It gathers where 
 
 ## City-Scale Impact & Directorate Posture
 
-As a Hazard-grade Sovereign able to breach via Transform, Sorrow Mass is the only V-rank entity the Directorate manages without ever scheduling a work. Posture is entirely architectural: load-distribution wards under every floor plate, compression-zone evacuation drills each cycle, and standing orders that no warden remain alone in a flagged stairwell. The official doctrine, stamped by three Directors in succession, reads in full: *"Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down."*
+As a Hazard-grade Sovereign that has never been held and therefore has nothing to break, Sorrow Mass is the only V-rank entity the Directorate manages without ever scheduling a work. Posture is entirely architectural: load-distribution wards under every floor plate, compression-zone evacuation drills each cycle, and standing orders that no warden remain alone in a flagged stairwell. The official doctrine, stamped by three Directors in succession, reads in full: *"Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down."*
 
 ## Sovereign Chronicle
 

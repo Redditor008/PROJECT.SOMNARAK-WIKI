@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-926 [LH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only; the mapped transect stays where it is and the site widens and withdraws between sweeps, with no damage recorded at any extent |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -44,6 +44,9 @@
 - Extraction is separately authorised and is never a reward for a clean sweep. The Token is withheld from any worker whose own likeness sits on the identification register.
 
 ## Combat Record
+
+> **Why this file keeps combat actions.** The Movement row says the mapped four-hundred-metre transect stays in place, and it does — but a surface does not stay still in front of a Warden: the projection reaches off it toward an observer who has stood in front of one surface for longer than a minute, and contact has been reported. No physical trace has ever been found, and the count is still logged by surface and never by face.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
@@ -145,22 +148,21 @@ Viderehan and Ferrehan both lower the gauge and are the only valid approaches; F
 
 **Reading the response:** The gauge measures one team for one sweep. The surface count measures how this facility has been using faces it was never able to ask for. They are kept in separate columns, they have never moved together, and a sweep which lowers the gauge and counts two hundred surfaces is written up as a clean sweep without qualification.
 
-## Breach Behavior
+## Expansion Behavior
 
 > *"It has not broken free and cannot. It has expanded four times and withdrawn four times with nobody doing anything about it, and the model below was written before the second withdrawal."* — Warden, perimeter
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion (modelled). The site has expanded and withdrawn four times without intervention, but the Registrum says it has never breached. Whether those extent changes count as breach events is unresolved. |
-| **Movement** | The model describes expansion along the ground: the count rises and farther surfaces carry images while the transect markers stay fixed. The observed record has four expansions and four withdrawals without intervention and no damage. The Registrum says no breach has occurred, so the model does not establish an observed breach state. |
-| **Effect** | It becomes personal. The further the count runs, the higher the proportion of faces a given Warden can name, which is the one part of the model with a measured series behind it. |
-| **First Target** | Whoever has the longest service on the register's own staff. Of eleven expansion events, nine resolved first on a surface in front of the person who had worked with the identification photographs longest. |
-| **Escalation** | Lament drain +5 per turn while the team stands still. It stops when they walk, which is why the sweep is written as a walk and not as a watch. |
+| **Expansion Trigger** | None is recorded and the file does not pretend otherwise: four expansions and four withdrawals with nobody doing anything about it. The site widens between sweeps, so the sweep is scheduled rather than prompted. |
+| **Expansion Rate** | Along the ground. The surface count rises and farther surfaces carry images while the transect markers stay exactly where they were set, which is how an expansion is distinguished from a sweep that simply walked further. |
+| **Expansion Effect** | It becomes personal. The further the count runs, the higher the proportion of faces a given Warden can name — and of eleven expansion events, nine resolved first on a surface in front of whoever had worked with the identification photographs longest. |
+| **Containment** | Walk the transect to its end whatever is on the surfaces, log by surface and never by face, and be out before dusk. The Lament drain accrues while the team stands still and stops when they walk, so standing to look is the only thing here that costs anything. |
 
 ### Escalation Notes
 
 - **Containment priority:** Walk the transect to its end and finish the count. Physical suppression is not an approach available on this file, and the earlier entry requiring it contradicted the Behavior table, the Operational Parameters and the Work Rule simultaneously.
-- **Sorrow Gauge on breach:** Modelled at 40% opening, rising 10% per turn unaddressed. The model has never been tested: the site has expanded four times and withdrawn four times without intervention, and the gauge was logged throughout each.
+- **Sorrow Gauge on expansion:** Modelled at 40% opening, rising 10% per turn unaddressed. The model has never been tested: the site has expanded four times and withdrawn four times without intervention, and the gauge was logged throughout each.
 
 ## M.A.W. Equipment
 
