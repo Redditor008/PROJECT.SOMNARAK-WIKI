@@ -148,15 +148,6 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** A wish — spoken or clearly thought — directed at the statue.
-
-**Effect:** The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade.
-
-**Duration:** Until the wish is granted and its price has settled.
-
-**Risk:** Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

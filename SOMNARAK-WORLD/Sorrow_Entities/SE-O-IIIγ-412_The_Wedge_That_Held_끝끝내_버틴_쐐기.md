@@ -146,15 +146,6 @@ Ferrehan here is worked in heat-resistant leather and nothing else. Show the iro
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
-
-**Activation Trigger:** Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).
-
-**Effect:** Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag.
-
-**Duration:** Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter.
-
-**Risk:** The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering.
-
 ### Tool Use Profile — A-Relic
 
 | Field | Record |

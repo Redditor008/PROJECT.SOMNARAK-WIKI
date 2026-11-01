@@ -170,15 +170,6 @@ Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expre
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic shows a place that has been demolished, accurately, including the people who were in it**
 > **An abandoned channel puts the same room into every window in the wing for a day**
-
-**Activation Trigger:** Physical contact and intentional interaction.
-
-**Effect:** An open channel shows a demolished place, including the people who were in it, to the viewer at the glass. The mirror stays in its frame; an abandoned channel puts the reflected room into other windows rather than releasing its occupants.
-
-**Duration:** Continuous while channeled
-
-**Risk:** Prolonged contact causes cognitive and emotional fatigue.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

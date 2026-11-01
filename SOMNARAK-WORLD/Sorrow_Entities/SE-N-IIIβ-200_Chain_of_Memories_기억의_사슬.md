@@ -162,15 +162,6 @@ The table understates one thing and should be read with it in mind: the Chain's 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Trades Recall For Resilience, And The Trade Does Not Reverse On Removal**
-
-**Activation Trigger:** Touching a link while naming its owner.
-
-**Effect:** Connects the user's memory to the memory contained in the link.
-
-**Duration:** Until the link is released.
-
-**Risk:** The user's identity may become tangled with another person's past.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

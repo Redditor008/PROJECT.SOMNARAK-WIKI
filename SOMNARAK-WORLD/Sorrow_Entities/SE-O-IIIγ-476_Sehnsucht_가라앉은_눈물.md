@@ -154,15 +154,6 @@ Sehnsucht is an Object/Place with Object-Void manifestation and Weight expressio
 > **This Relic benefits the facility by returning a burying to the ground it was taken from, and the ground keeps the receipt.**
 > **This Relic alters the operator by handing them a weight with no cause attached, which is the one case they are least equipped to carry.**
 > **This Relic extracts personal resilience slowly, in fatigue and in years, and gives neither back.**
-
-**Activation Trigger:** Touch or excavation attempt.
-
-**Effect:** Releases a memory of the sorrow into the worker.
-
-**Duration:** Until the memory is acknowledged.
-
-**Risk:** The worker may become unable to leave the site.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

@@ -146,15 +146,6 @@ Memory Lock is an Object/Place with Object-Void manifestation and Void expressio
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** Touch and a truthful admission from the worker.
-
-**Effect:** Allows one sealed memory to whisper through the lock.
-
-**Duration:** Until the whisper ends.
-
-**Risk:** The listener may become obsessed with opening the vault.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

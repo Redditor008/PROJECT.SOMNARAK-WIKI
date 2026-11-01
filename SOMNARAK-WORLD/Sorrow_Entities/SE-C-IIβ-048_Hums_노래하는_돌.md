@@ -151,15 +151,6 @@ Read the table with the register open beside it, because the gauge is measuring 
 > **This Relic returns songs to the district, which is the benefit and cannot be banked.**
 > **This Relic alters the district's register over years rather than the sector over hours.**
 > **This Relic is capable of losing a song permanently through a single untended transfer.**
-
-**Activation Trigger:** Still air, sufficient sorrow, or deliberate listening.
-
-**Effect:** Plays a song of the dead and establishes an emotional connection to its source.
-
-**Duration:** Until the listener stops listening or the song ends.
-
-**Risk:** The Stone may sing at inconvenient moments and provoke unexpected grief.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

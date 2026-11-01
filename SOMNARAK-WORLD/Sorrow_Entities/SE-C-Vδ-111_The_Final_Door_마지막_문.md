@@ -153,15 +153,6 @@ The Work Type table applies and tells you almost nothing. The two series that ma
 > **Worked, never opened**
 > **Holding the channel steadies containment readings facility-wide; it also leaves the channeler certain they know what is behind the door**
 > **An abandoned channel does not close cleanly: residue compounds in the vault and the whisper lengthens for the following quarter**
-
-**Activation Trigger:** Touch, sustained listening, or unknown conditions.
-
-**Effect:** The Door may whisper a buried truth for exactly thirteen seconds.
-
-**Duration:** Thirteen seconds per whisper; the Door reseals itself afterward.
-
-**Risk:** The truth may be too heavy to carry and may destabilize the listener.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

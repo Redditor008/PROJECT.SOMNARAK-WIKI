@@ -147,15 +147,6 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
-
-**Activation Trigger:** Grinding the chalk along the floor to complete a closed unbroken circle around allies.
-
-**Effect:** The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes.
-
-**Duration:** 30 Seconds (1 Combat Turn / 5 Sub-actions).
-
-**Risk:** The chalk is completely expended; all sheltered operatives forget their own family name for the shift.
-
 ### Tool Use Profile — A-Relic
 
 | Field | Record |

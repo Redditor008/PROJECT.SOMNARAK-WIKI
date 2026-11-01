@@ -169,15 +169,6 @@ Read the table as a duty roster rather than as a set of levers. Neither approach
 > **No facility benefit is authorized from this Relic**
 > **No operative alteration has been attempted or is permitted**
 > **Extended use is untested by design; exposure is capped at the four minutes the reading takes**
-
-**Activation Trigger:** None authorized. Touch is forbidden.
-
-**Effect:** Unknown. Proximity produces a complete emotional history of sorrow.
-
-**Duration:** Unknown.
-
-**Risk:** Immediate emotional overload and possible Fracture.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

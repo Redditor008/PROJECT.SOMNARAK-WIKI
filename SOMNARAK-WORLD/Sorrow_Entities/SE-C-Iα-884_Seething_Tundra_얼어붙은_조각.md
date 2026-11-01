@@ -143,15 +143,6 @@ The Work Type rows are steady and the count is not. Thirty-one tears at first su
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic steadies every containment unit in the sector while somebody holds it, and charges the holder for the service**
 > **An abandoned channel vents across the sector and the anger arrives in other people as their own**
-
-**Activation Trigger:** Direct touch.
-
-**Effect:** Transfers a stored emotional memory into the user.
-
-**Duration:** Until the memory is acknowledged.
-
-**Risk:** The user may mistake the Shard's anger for their own, and nine of the eleven misattributions on record were recognised only by a second person in the room.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

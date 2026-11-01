@@ -154,15 +154,6 @@ The table lists Work Types and the Gardens series has never found one that moves
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **Channel overload on this relic vents outward across the Gardens and holds the flame elevated for nine days**
-
-**Activation Trigger:** Turning the rusted bronze door handle with deliberate intent.
-
-**Effect:** Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes.
-
-**Duration:** Continuous while the door leaf is held ajar.
-
-**Risk:** Looking back through the threshold causes profound vertigo and 10 Void damage.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

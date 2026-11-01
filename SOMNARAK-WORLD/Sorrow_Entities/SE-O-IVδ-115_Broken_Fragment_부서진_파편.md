@@ -154,15 +154,6 @@ Broken Fragment is an Object/Place with Object-Weight manifestation and Weight e
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Touch or attempt to lift the Fragment.
-
-**Effect:** Displays the burden carried by the monument's former community.
-
-**Duration:** Until contact ends.
-
-**Risk:** The worker may become unable to move under inherited weight.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

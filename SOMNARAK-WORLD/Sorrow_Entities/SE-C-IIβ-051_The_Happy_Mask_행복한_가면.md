@@ -151,15 +151,6 @@ The Happy Mask is an Object/Place — Object-Void manifestation, Void expression
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Direct contact and placement over the face.
-
-**Effect:** Makes the wearer appear happy regardless of their true state.
-
-**Duration:** Until an external person removes it.
-
-**Risk:** The wearer cannot express genuine sadness while it is worn.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

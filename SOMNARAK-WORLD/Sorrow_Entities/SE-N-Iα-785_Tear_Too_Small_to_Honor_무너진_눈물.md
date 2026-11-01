@@ -154,15 +154,6 @@ The two valid responses do different work and the difference is the whole method
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Transfers a Grief That Is Not the Bearer's**
-
-**Activation Trigger:** Touch.
-
-**Effect:** Transfers the feeling of the original grief.
-
-**Duration:** Until the object is placed down deliberately.
-
-**Risk:** The worker may carry shame for mourning.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

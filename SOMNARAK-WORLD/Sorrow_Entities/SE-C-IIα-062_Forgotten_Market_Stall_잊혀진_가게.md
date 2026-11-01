@@ -167,15 +167,6 @@ Forgotten Market Stall is an Object/Place with Object-Void manifestation and Voi
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic draws on the buyer's own stock and settles up at the point of sale**
-
-**Activation Trigger:** Nightfall in the Forgotten Market and concentrated nostalgia or grief.
-
-**Effect:** The Stall manifests and offers impossible goods. Purchased memories may be experienced as if personally lived.
-
-**Duration:** Until dawn or until the market's emotional demand is satisfied.
-
-**Risk:** The buyer may acquire a memory that never belonged to them or lose a small personal memory as payment.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

@@ -144,15 +144,6 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
-
-**Activation Trigger:** Throwing or shatter-striking the quartz vial against a solid surface or target core.
-
-**Effect:** Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed.
-
-**Duration:** Cryogenic Stasis lasts 2 full Combat Turns (12 battle rounds).
-
-**Risk:** The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours.
-
 ### Tool Use Profile — A-Relic
 
 | Field | Record |

@@ -138,15 +138,6 @@ The table means nothing without its frame. Element, coherence and manifestation 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Touching the fallen door while naming a destination.
-
-**Effect:** A short passage opens into the memory of the place named — the memory only, never the place, and never for anybody but the speaker.
-
-**Duration:** Until the memory fades.
-
-**Risk:** The operative may stay at the threshold inwardly after the light has gone, and talking them back out is the relief's job and the reason a relief is named beforehand.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

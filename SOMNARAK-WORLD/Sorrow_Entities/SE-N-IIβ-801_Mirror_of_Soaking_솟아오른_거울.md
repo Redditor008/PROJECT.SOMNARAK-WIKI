@@ -159,15 +159,6 @@ The table is a diagnostic, not a prescription, and on this record it is short by
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Leaves the Wearer Unable to Hear Overreaction as an Explanation**
-
-**Activation Trigger:** Direct gaze or touching the reflective surface.
-
-**Effect:** Displays hidden anger and its original injustice.
-
-**Duration:** Until the viewer looks away.
-
-**Risk:** Emotional escalation and projection of rage onto nearby people.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Relic: the duplicate Duration and Risk block removed (2026-11-01)
+
+Every relic was saying the same four things twice. `## Activation Behavior` carried a flat `**Activation Trigger:** / **Effect:** / **Duration:** / **Risk:**` block, and immediately below it the `### Tool Use Profile` restated all four as table rows, often word for word. A handler reading down the page met the same duration twice and the same burn risk twice, which is how a limit gets ignored.
+
+**Fifty files** carried the flat block as a straight copy of the profile. It is gone, and the profile stands as the single record: activation, effect, duration, termination and risk in one table. **Two more** had already drifted apart and were folded by hand rather than deleted: [The Echo Compass](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md) now states in the `Duration` row that the certified protocol caps a channel at two minutes and the text never reconciled the cap; its `Risk` row carries the finding that no holder has ever experienced the following as a compulsion. [Crucible](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-275_Crucible_분노의_용광로.md) records that fuel and bellows are irrelevant because the file demonstrated it twice by withholding both, and that the object the forge makes is one nobody ordered.
+
+**One parked contradiction closed.** The Compass ended its Consequences on *whether this is a breach-equivalent spread or an uncontrolled activation remains unresolved*, which is the kind of sentence a dossier is not allowed to leave standing. Nothing leaves the stand: an abandoned channel turns the needle and the district instruments disagree with themselves for a day, and three have been observed agreeing with it. That is an effect of an open channel under the activation-only category, and the field is read by how many instruments in the district now agree. Its Threat Assessment line no longer says the instrument *transforms*.
+
+**Thirty-two relics still differ** between the flat block and the profile, in both directions, and each needs reading rather than deleting. That is the next batch; the queue is unchanged at 52 relics, of which this pass closes the duplication on 52.
+
+**Checks:** `wikistd` 301/301 · `label_lint` 301, 0 violations · `check_stat_bands` PASS · `check_links` 0 broken.
+
 ## Animus: the anger that takes the person who answers it (2026-11-01)
 
 `[Animus](SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-108_Animus_떠도는_흔적.md)` was classified *Can breach* and its event row said **Transform**, while every line of evidence in the same file described something else. The First Target row says *nobody*; the eleven recorded strikes all happened where a worker stepped into the line; the excursions end at a boundary wall where the line stops and fades and it has never entered a building. Nothing about that is a transformation of the trace.

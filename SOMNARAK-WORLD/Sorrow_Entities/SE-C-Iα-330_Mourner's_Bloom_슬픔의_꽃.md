@@ -147,15 +147,6 @@ Use the table as a diagnostic, never as a system: the classification and the ori
 
 **Reading the response:** A falling count means a petal was matched to its owner and claimed. Stability under Viderehan is correct. The count rises each time a moment is taken and filed by date alone, and the vault's own rule against recording whose moment is in which is the reason the count has only ever risen except in the year the register was opened.
 ## Activation Behavior
-
-**Activation Trigger:** Grief expressed near the flower.
-
-**Effect:** Crystallizes one moment of mourning into a petal.
-
-**Duration:** Until the grief is acknowledged and released.
-
-**Risk:** The flower may hold a moment past the point at which its owner has moved on, and the owner cannot ask for it back without being told it was taken.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

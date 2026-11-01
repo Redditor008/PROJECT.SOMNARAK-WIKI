@@ -159,15 +159,6 @@ Read the gauge only beside the form it was taken in: this holding's response dep
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use** — the warning is the whole handling note, and the numbers underneath it are measured on the bearer rather than on the object.
-
-**Activation Trigger:** Touch or recognition by someone who remembers it.
-
-**Effect:** Returns a lost object or memory to its previous location briefly.
-
-**Duration:** Until the returned thing is acknowledged or forgotten again.
-
-**Risk:** The user may confuse return with restoration and lose present memories.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

@@ -154,15 +154,6 @@ The gauge here is read against the transcript rather than against the room. A st
 > **This Relic benefits the facility by making an uncompleted sentence into a record, and the record cannot be completed.**
 > **This Relic alters the operator's recall before anything else: what they transcribe starts arriving in their memory as something they said themselves.**
 > **This Relic extracts personal resilience in halves — the listener keeps the words and loses the certainty about whose they were.**
-
-**Activation Trigger:** Holding the object and speaking a name into it.
-
-**Effect:** Returns one broken whisper as a complete emotional message.
-
-**Duration:** The message lasts until understood or forgotten.
-
-**Risk:** The listener may mistake another person's final words for their own memory.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

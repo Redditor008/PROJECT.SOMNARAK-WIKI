@@ -169,15 +169,6 @@ Read the table as the holding's whole method rather than as a menu. Conservatory
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Attempting to reconstruct the remembered structure.
-
-**Effect:** Rebuilds one room for a short time.
-
-**Duration:** Until the memory can no longer support the form.
-
-**Risk:** The reconstructed room may consume the observer's present identity.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

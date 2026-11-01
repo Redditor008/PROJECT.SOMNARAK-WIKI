@@ -159,15 +159,6 @@ Gauge behaviour here is a property of the vault rather than of any approach. Vid
 > **A relic for measurement only — no piece has ever affected the Gate**
 > **The audible range widens through the vault; the slab itself does not move**
 > **An untended channel vents uncontained Void resonance across SECTOR-A-01**
-
-**Activation Trigger:** Touch or sustained listening; no approved method exists.
-
-**Effect:** May whisper a buried truth for thirteen seconds.
-
-**Duration:** Exactly thirteen seconds.
-
-**Risk:** The truth may destabilize the listener or the city.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

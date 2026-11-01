@@ -143,15 +143,6 @@ Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
-
-**Activation Trigger:** Carrying the Lantern into a debt-bearing area.
-
-**Effect:** Illuminates hidden karmic obligations.
-
-**Duration:** Until the Lantern is set down.
-
-**Risk:** The carrier feels every debt revealed.
-
 ### Tool Use Profile — A-Relic
 
 | Field | Record |

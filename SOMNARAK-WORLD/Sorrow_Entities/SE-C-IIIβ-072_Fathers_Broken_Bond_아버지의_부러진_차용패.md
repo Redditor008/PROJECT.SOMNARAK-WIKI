@@ -144,15 +144,6 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
-
-**Activation Trigger:** Snapping the octagonal brass tablet in two along its scored center line with both hands.
-
-**Effect:** Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards.
-
-**Duration:** Instantaneous purge; debuff clearance is permanent for current battle.
-
-**Risk:** The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn).
-
 ### Tool Use Profile — A-Relic
 
 | Field | Record |

@@ -159,15 +159,6 @@ Redcage is an Object/Place with Object-Grudge manifestation and Grudge expressio
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Touching or attempting to open the Cage.
-
-**Effect:** Releases a wave of anger and memories of unjust imprisonment.
-
-**Duration:** Until the attempt stops and the injustice is acknowledged aloud. Nothing is closed, because there is nothing to close.
-
-**Risk:** The user may become convinced they are imprisoned even in open space.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

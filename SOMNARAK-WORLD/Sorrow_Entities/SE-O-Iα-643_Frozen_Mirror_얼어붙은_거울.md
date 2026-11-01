@@ -156,15 +156,6 @@ The table has two performable rows and both describe the same act at different d
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Worn past two minutes this relic returns other people's anger as the wearer's own, and the wearer cannot tell the difference afterward**
-
-**Activation Trigger:** Direct gaze.
-
-**Effect:** Reflects suppressed grief as frozen anger.
-
-**Duration:** Until the viewer looks away.
-
-**Risk:** The viewer may mistake reflected rage for personal intent.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

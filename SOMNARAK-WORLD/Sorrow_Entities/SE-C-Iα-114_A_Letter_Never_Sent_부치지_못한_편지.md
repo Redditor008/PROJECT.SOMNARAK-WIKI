@@ -145,15 +145,6 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 > **This Relic Benefits the Facility Once, as Emergency Squad Stabilization**
 > **Its Battlefield Effect is Restoration Only — Panic Cured, Composure Returned, Nothing Altered Beyond That**
 > **This Relic is Irrevocably Consumed upon Activation**
-
-**Activation Trigger:** Breaking the indigo crystal wax seal and opening the envelope flap.
-
-**Effect:** The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3.
-
-**Duration:** Instantaneous discharge; effect lasts for 1 full combat phase (6 turns).
-
-**Risk:** The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement.
-
 ### Tool Use Profile — A-Relic
 
 | Field | Record |

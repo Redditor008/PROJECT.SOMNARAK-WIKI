@@ -159,15 +159,6 @@ The Work Type rows are steady and the silences are not. Nine years of them: long
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Worn, this relic makes the bearer pleasant company; it does not give the pleasantness back**
-
-**Activation Trigger:** Wearing the mask or laughing near it.
-
-**Effect:** Produces an appearance of effortless happiness.
-
-**Duration:** Until removed by another person.
-
-**Risk:** The wearer cannot stop laughing to express grief.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

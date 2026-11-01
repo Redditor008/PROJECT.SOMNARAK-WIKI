@@ -159,15 +159,6 @@ The table is the whole method, and it is short because the holding is narrow. Fr
 > **This Relic displays the lives and the injustice attached to the structure. It has never harmed anybody.**
 > **This Relic cannot be moved, thawed or tidied. Custody is not restraint.**
 > **The only measure that has ever lowered its reading is a sentence with a subject in it.**
-
-**Activation Trigger:** Touch or attempts to move the ruin.
-
-**Effect:** Displays the lives and injustice attached to the structure.
-
-**Duration:** Until contact ends.
-
-**Risk:** The worker may become fixed in the ninth day; four have been withdrawn from the rota for it and all four returned.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

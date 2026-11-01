@@ -159,15 +159,6 @@ The gauge here rises and falls with the shift and explains nothing. The figure t
 > **This Relic benefits the facility by turning an unstated grievance into finished work, which is the whole of this District's output and none of its record.**
 > **This Relic is capable of altering the district it stands in: the floor holds the heat, the output rises with it, and no figure the Company reads can see both at once.**
 > **This Relic can carry a channel overload, and a conduit released without the working volume cleared vents the shift's whole held heat at once.**
-
-**Activation Trigger:** Material left within the working volume while somebody present is carrying a grievance they have not stated. Both conditions are required and the second is the one the sweep cannot catch.
-
-**Effect:** The metal is worked to the shape of the unstated grievance. Edges tempered here run twenty per cent further through armour than they have any right to, and stay hot in the hand.
-
-**Duration:** Until the grievance is stated aloud. Fuel and bellows are irrelevant and the file has demonstrated this twice by withholding both.
-
-**Risk:** Third-degree burns to the channeller, and an object nobody ordered.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -176,9 +167,9 @@ The gauge here rises and falls with the shift and explains nothing. The figure t
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Material in the working volume plus an unstated grievance in the room. |
 | **Primary Effect** | The metal takes the shape of the thing not said; the edge runs twenty per cent further through armour. |
-| **Duration** | Until somebody says it. Not until the fuel runs out, which has been tested. |
+| **Duration** | Until somebody says it aloud. Not until the fuel runs out: the file has demonstrated this twice by withholding fuel and bellows both. |
 | **Termination / Return** | The channel is closed deliberately, at the hearth, by the operator, and the sweep is signed before anybody steps back from the anvil; a conduit released without the volume cleared vents the shift's held heat at once, which is the only way this holding has ever injured anybody. |
-| **Risk** | Severe burns, and an unordered object that must be logged, photographed and destroyed elsewhere. |
+| **Risk** | Third-degree burns to the channeller, and an object nobody ordered, which must be logged, photographed and destroyed elsewhere. |
 
 **Operational Rule:** The channel is never left untended and is never worked by somebody who has declined to answer the naming question at the door. Both rules came from the same incident and are in the standing order rather than in guidance.
 
@@ -419,7 +410,7 @@ Crucible is what that arrangement looks like with a floor under it. It shapes th
 
 **Operational interpretation:** Read the idle floor series before anything else on this sheet, and read the sweep sheet immediately after it: 61, 68 and 74 degrees off cold stone on one side, two full signatures and a time on the other. Everything else here — the gauge, the Work Types, the M.A.W. costs — is subordinate to those two records. The holding is a floor that has been absorbing an arrangement nobody wrote down, and the file will be wrong the moment that arrangement changes; where it does, enter the contradiction as the finding rather than tidying it away.
 
-**Review requirement:** After every activation, Sorrow Tide, transformation attempt or unusual interaction: re-take the idle reading at the fixed point, re-inspect the walls, confirm the working volume empty, and re-read the sweep sheet for both signatures and the time. Two items are specific to this holding. The naming order is read aloud at the hearth on the first watch of every rotation, and the Grievance Office's four refusals are re-read in full at annual review, unaltered.
+**Review requirement:** After every activation, Sorrow Tide or unusual interaction: re-take the idle reading at the fixed point, re-inspect the walls, confirm the working volume empty, and re-read the sweep sheet for both signatures and the time. Two items are specific to this holding. The naming order is read aloud at the hearth on the first watch of every rotation, and the Grievance Office's four refusals are re-read in full at annual review, unaltered.
 ## Warden Record
 
 ### Forging Without a Smith

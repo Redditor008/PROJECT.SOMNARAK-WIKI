@@ -159,15 +159,6 @@ Frozen Echo is an Object/Place with Object-Weight manifestation and Lament expre
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Touch.
-
-**Effect:** Projects the emotional history of one former owner.
-
-**Duration:** Until the contact ends.
-
-**Risk:** The user may confuse another life with their own, and may continue to do so after the contact has ended. Both long exposures on file required a second person to establish which memories belonged to the handler.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

@@ -159,15 +159,6 @@ The two available approaches divide the work between what the span shows and wha
 > **This Relic makes a distance legible. It does not cross it, shorten it or sign for it.**
 > **This Relic escalates with proxies: every act done for somebody else is a plank.**
 > **One person may carry the entire relationship. It is always the helpful one.**
-
-**Activation Trigger:** Touching one end while naming the other person.
-
-**Effect:** Creates a temporary emotional connection.
-
-**Duration:** Until the connection is acknowledged or withdrawn.
-
-**Risk:** One person may carry the entire relationship.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

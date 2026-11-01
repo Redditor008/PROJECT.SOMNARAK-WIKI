@@ -167,15 +167,6 @@ Grimoire is an Object with Object-Tale manifestation and Grudge expression, held
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic writes an account that is true, in a hand you know, about something nobody has settled**
-
-**Activation Trigger:** Physical contact and intentional interaction.
-
-**Effect:** Projects concentrated Grudge sorrow resonance across the immediate perimeter.
-
-**Duration:** Continuous while equipped
-
-**Risk:** Prolonged contact causes cognitive and emotional fatigue.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

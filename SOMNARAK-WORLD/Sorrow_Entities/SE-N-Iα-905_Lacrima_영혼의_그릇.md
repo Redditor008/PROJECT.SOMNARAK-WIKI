@@ -169,15 +169,6 @@ Viderehan lowers the gauge: the pleading becomes legible as pleading, which is n
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Handling of the lid, and the third ignored reading in a quarter. The counter runs down from three.
-
-**Effect:** The gap widens and the light reaches into the corridor; everyone inside the radius hears the pleading as personally addressed.
-
-**Duration:** Until the lid is re-seated by hand. One minute, one person, three for three.
-
-**Risk:** Uncorroborated transcripts. The bearer becomes certain of what is being said and writes it down at length.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

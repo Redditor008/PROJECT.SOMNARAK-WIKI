@@ -167,15 +167,6 @@ The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudg
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Removes the Bearer's Ability to Call a Halt**
-
-**Activation Trigger:** Direct contact or deliberate binding to a worker.
-
-**Effect:** The bound worker's movement speed increases dramatically, but all movement becomes dance-like and increasingly compulsory.
-
-**Duration:** Until an outside person removes the chains or the entity's gauge is reduced.
-
-**Risk:** The worker may lose the ability to remain still and dance until physical collapse.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

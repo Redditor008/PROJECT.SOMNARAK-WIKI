@@ -143,15 +143,6 @@ Soaking Shard is an Object/Place with Object-Void manifestation and Lament expre
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** Touch or tears falling onto the surface.
-
-**Effect:** Releases one preserved memory as liquid vision.
-
-**Duration:** Until the vision is absorbed or evaporates.
-
-**Risk:** The worker may lose a memory to replace the released one.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

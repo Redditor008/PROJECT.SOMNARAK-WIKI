@@ -138,15 +138,6 @@ Read the table as a description of what the chamber will do with you rather than
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Disclosure Beyond the Chamber**
-
-**Activation Trigger:** Presenting unfinished craftsman's tools before the dormant pedestal.
-
-**Effect:** Awakens a dormant resonance field that reinforces all allied armor by +20% and restores weapon sharpness.
-
-**Duration:** Continuous while the channeler maintains the ritual posture.
-
-**Risk:** The relic demands completion; withdrawing tools before the pulse concludes cracks their structural durability.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

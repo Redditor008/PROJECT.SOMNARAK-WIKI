@@ -175,15 +175,6 @@ Broken Mirror is an Echo (II) Object/Place with Object-Void manifestation and Vo
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Look into this relic and it will show you the years you asked to have taken out**
-
-**Activation Trigger:** Direct gaze or physical contact.
-
-**Effect:** Projects one suppressed memory in full sensory and emotional detail, from the viewer's own history, selected by nothing anybody has been able to identify.
-
-**Duration:** Until the viewer looks away or the memory completes.
-
-**Risk:** Identity crisis and acute distress, with Fracture recorded twice at the far end of prolonged exposure. The viewing itself is not the main hazard; the weeks afterwards are.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

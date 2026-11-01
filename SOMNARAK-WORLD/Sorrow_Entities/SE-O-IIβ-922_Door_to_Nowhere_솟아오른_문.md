@@ -157,15 +157,6 @@ Both usable Work Types hold the gauge or lower it a little, and neither has ever
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic shows the road not taken, and the viewer will afterwards remember having taken it**
-
-**Activation Trigger:** Touching the handle while naming a choice.
-
-**Effect:** Displays the path that choice might have opened.
-
-**Duration:** Until the memory closes.
-
-**Risk:** The worker may abandon the present for a route that was never available; three have resigned within a fortnight of a viewing and all three cited a decision taken years earlier.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

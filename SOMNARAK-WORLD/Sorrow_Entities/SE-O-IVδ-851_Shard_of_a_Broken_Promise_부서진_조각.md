@@ -154,15 +154,6 @@ The Work Type column is not the reading here; the pitch is. Resting value is 112
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic answers a promise with protection and a false promise with a new fracture, and it is never wrong about which it has been given**
-
-**Activation Trigger:** Touch while repeating the original promise.
-
-**Effect:** Creates a brief protective field.
-
-**Duration:** Until the promise is fulfilled or withdrawn honestly.
-
-**Risk:** A false repetition causes the Shard to fracture further.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

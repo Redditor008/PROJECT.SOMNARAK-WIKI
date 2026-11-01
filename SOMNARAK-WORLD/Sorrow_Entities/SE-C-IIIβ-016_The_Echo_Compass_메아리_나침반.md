@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-016 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on hold the compass and name a lost thing |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on hold the compass and name a lost thing, and an abandoned channel spreads the pointing into the district's instruments |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Restless and seeking |
 | **Potency** | Moderate (β) |
@@ -96,7 +96,7 @@
 - The failure here is following. The worker stops recording the bearing and starts walking along it, and both early incidents began exactly that way.
 - Long exposure produces the holding's signature state: a worker who understands, correctly and in detail, that grief is in every direction, and who cannot find a reason to choose one.
 - The Lost equipment lends the wearer the needle's certainty and takes the ability to stop searching. Every wielder's debrief has recorded an old unresolved question taken up again.
-- The record calls this transformation, not escape: the pointing spreads and other instruments in the sector begin agreeing. The classification says non-breaching; whether this is a breach-equivalent spread or an uncontrolled activation remains unresolved.
+- Nothing leaves the stand. What spreads is the pointing: an abandoned channel leaves the needle turning and the district's own instruments unreliable for a day, with three in the sector observed agreeing with it. That is an effect of an open channel under the activation-only category rather than a second event type, and the field is read by how many instruments in the district now agree.
 
 ## Appearance
 **Physical Form:** A palm-sized tarnished-brass compass with no cardinal markings and a bone needle that twitches and drags toward concentrated grief. Held in hand, the needle warms and presses against the glass; casing letters rearrange when unobserved. It never points north.
@@ -159,15 +159,6 @@ The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic gives an accurate bearing to something lost, and does not care whether anybody wanted it found**
 > **An abandoned channel leaves the needle turning and the district's own instruments unreliable for a day**
-
-**Activation Trigger:** Hold the Compass and name a lost thing.
-
-**Effect:** Points toward the nearest related sorrow source.
-
-**Duration:** The activation text says until the source is acknowledged or the Compass is put down. The certified protocol separately caps a channel at two minutes; the record does not reconcile the duration with that limit.
-
-**Risk:** The holder may follow the needle indefinitely, and will not experience the following as a compulsion — both incidents on file describe it afterwards as the obvious thing to have been doing.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -176,9 +167,9 @@ The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Hold the Compass and name a lost thing. |
 | **Primary Effect** | Points toward the nearest related sorrow source. |
-| **Duration** | Until the source is acknowledged or the Compass is put down. |
+| **Duration** | Until the source is acknowledged or the Compass is put down. The certified protocol separately caps a channel at two minutes, and the record has never reconciled the cap with the activation text. |
 | **Termination / Return** | The operator closes the channel deliberately, sets the Compass on the stand, and shuts the case before standing up. Abandoning an open channel vents Void resonance across the sector and has done once. |
-| **Risk** | Indefinite following. The bearing is always valid, there is always more grief further along it, and nothing in the instrument ever says stop. |
+| **Risk** | Indefinite following, and the holder will not experience it as a compulsion — both incidents on file describe it afterwards as the obvious thing to have been doing. The bearing is always valid, there is always more grief further along it, and nothing in the instrument ever says stop. |
 
 **Operational Rule:** Continuous concentration, an open conduit, two minutes, and a case-holder who is not the channeller. The channel cannot substitute for scheduled Work and has twice been proposed as a search method, which is what the two-minute limit exists to prevent.
 
@@ -401,7 +392,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 **Common Name:** The Echo Compass
 **Containment Status:** Contained — SECTOR-D-01, Forge District, in a sealed opaque case. The archive deep room named in earlier revisions was the holding site before the fourth year and is not current.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It cannot escape and does not need to: it transforms, spreads its pointing into adjacent instruments, and reliably induces indefinite following in whoever holds it. The earlier entry describing the threat as low with no event risk is an error and is corrected here.
+**Threat Assessment:** Moderate (β). It cannot escape and does not need to: it stays on its stand and its pointing spreads into adjacent instruments, and it reliably induces indefinite following in whoever holds it. The earlier entry describing the threat as low with no event risk is an error and is corrected here.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge. The earlier entry naming Viderehan as the only valid Work Type is an error and is corrected here.
 - Not to be used for navigation. The needle is accurate and useless, which are not opposites here.

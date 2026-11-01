@@ -159,15 +159,6 @@ Cracked Mirror is an Object/Place with Object-Void manifestation and Void expres
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Direct gaze.
-
-**Effect:** Shows the viewer's true self without social masks.
-
-**Duration:** Until the viewer looks away.
-
-**Risk:** Identity crisis and emotional overload.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

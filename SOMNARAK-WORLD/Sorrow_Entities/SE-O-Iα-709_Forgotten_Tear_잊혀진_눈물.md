@@ -154,15 +154,6 @@ The Work Type table is not the instrument here and the vault stopped relying on 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Held past two minutes, this relic hands its grievance over and the holder cannot afterward tell it from their own**
-
-**Activation Trigger:** Touch.
-
-**Effect:** Transfers the forgotten grievance into the holder's awareness.
-
-**Duration:** Until the Tear is placed down consciously.
-
-**Risk:** The holder may mistake the old anger for a current injustice.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

@@ -165,15 +165,6 @@ Duri's Heart is an Object with Object-Body manifestation and Weight expression, 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic keeps the bearer's heart at a rate that is not theirs, through anything**
-
-**Activation Trigger:** Physical contact and intentional interaction.
-
-**Effect:** Projects concentrated Weight sorrow resonance across the immediate perimeter.
-
-**Duration:** Continuous while equipped
-
-**Risk:** Prolonged contact causes cognitive and emotional fatigue.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

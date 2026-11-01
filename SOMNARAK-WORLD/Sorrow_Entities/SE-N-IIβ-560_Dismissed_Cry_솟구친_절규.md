@@ -159,15 +159,6 @@ The two available approaches split the work between what the cry is about and wh
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Touch or vocal aggression nearby.
-
-**Effect:** Releases the emotional force of the original protest.
-
-**Duration:** Until the anger is acknowledged.
-
-**Risk:** The user may speak the scream through their own body.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

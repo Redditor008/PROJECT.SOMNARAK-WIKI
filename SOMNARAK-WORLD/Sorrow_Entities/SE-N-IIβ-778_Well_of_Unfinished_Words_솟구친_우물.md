@@ -159,15 +159,6 @@
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** Leaning over the stone coping and whispering an unsaid confession.
-
-**Effect:** Acoustic reverberation silences hostile psychic chants across Range Band 2, preventing mental panic cascades.
-
-**Duration:** Continuous while the whisper echoes within the shaft.
-
-**Risk:** The well swallows the speaker's voice; the operative is afflicted with muteness for the remainder of the shift.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

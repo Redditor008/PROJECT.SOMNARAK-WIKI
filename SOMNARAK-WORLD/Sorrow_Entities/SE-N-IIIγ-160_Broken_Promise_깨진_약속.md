@@ -143,15 +143,6 @@ Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Gr
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Speaking a promise while touching a shard.
-
-**Effect:** Binds the speaker to the promise emotionally and physically.
-
-**Duration:** Until fulfilled, honestly withdrawn, or broken.
-
-**Risk:** A broken promise causes the object's shards to appear around the speaker.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

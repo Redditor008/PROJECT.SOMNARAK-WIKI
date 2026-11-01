@@ -138,15 +138,6 @@ Apocrypha is an Object/Place with Place-Void manifestation and Void expression, 
 > **This Relic benefits the facility only by being left alone and marked.**
 > **This Relic alters the ground it stands on and nothing else; the frost is the whole of its footprint.**
 > **This Relic is capable of taking heat out of a party in under a minute, and the limit is the only instrument.**
-
-**Activation Trigger:** Reading the recovery kit list aloud at the outline.
-
-**Effect:** While the list is read the air goes still — completely, the way nothing in the Desolate is still — and the cold stops being ambient and starts taking heat out of the party. Nothing is suppressed and nothing is protected; relief under it is a warning sign.
-
-**Duration:** Continuous while the list is being read.
-
-**Risk:** Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |

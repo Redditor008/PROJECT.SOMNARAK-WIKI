@@ -153,16 +153,6 @@ The table lists two usable Work Types and the survey office has never been able 
 ## Activation Behavior
 
 **Projected planting, not a performed trial:** The sustained observation record says that planting in sorrow-rich ground has not been done and is prohibited. Read the following growth and absorption effects as the recorded projection, not a successful survey method. The wearable I-Relic account below also claims skin-dependent operation; no observed transition here establishes that as the same condition as planting in soil. Preserve that discrepancy without equipping the source to test it, and do not confuse wearing derived M.A.W. with wearing the seed itself.
-
-
-**Activation Trigger:** Planting the Seed in sorrow-rich soil.
-
-**Effect:** Begins a slow, uncertain growth that may form a new entity.
-
-**Duration:** Indefinite.
-
-**Risk:** The growth may absorb nearby grief and become uncontrollable.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |

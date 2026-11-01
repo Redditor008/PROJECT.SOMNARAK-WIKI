@@ -161,15 +161,6 @@ Learned Your Face is an Object/Place with Object-Void manifestation and Void exp
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic has Venting History: Two Abandoned Channels on Record**
-
-**Activation Trigger:** Direct gaze.
-
-**Effect:** Shows the viewer's sorrow without its usual defenses.
-
-**Duration:** Until the viewer looks away.
-
-**Risk:** Emotional overload, and the loss of any reliable boundary between the viewer's own grief and the one in the glass. Both of the long exposures on file ended with the channeller unable to say which was which.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
