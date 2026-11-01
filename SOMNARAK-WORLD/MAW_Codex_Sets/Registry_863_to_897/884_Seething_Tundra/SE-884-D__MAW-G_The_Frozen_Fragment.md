@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Frozen Fragment
 
-> *“The Frozen Fragment remembers Seething Tundra; the bearer must not mistake memory for permission.”*
+> *"Every surge it stops is stored unchanged inside the bearer. A long service ends with them full of other people's weather."*
 
 ---
 

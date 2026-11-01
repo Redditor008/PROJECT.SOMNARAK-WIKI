@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Bridge of the Unchosen Shield
 
-> *“Bridge of the Unchosen Shield remembers Bridge of the Unchosen; the bearer must not mistake memory for permission.”*
+> *"It opens the way through a feeling and closes behind you. The feeling stays on the far side, still unaddressed."*
 
 ---
 

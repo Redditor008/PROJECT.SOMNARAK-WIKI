@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Screaming Masonry Maul
 
-> *“Screaming Masonry Maul remembers Screaming Masonry; the bearer must not mistake memory for permission.”*
+> *"These walls were built out of duties nobody finished. Every blow adds one more of the wielder's to the pile."*
 
 ---
 

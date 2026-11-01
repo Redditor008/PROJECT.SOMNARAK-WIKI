@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Screaming Masonry Mantle
 
-> *“Screaming Masonry Mantle remembers Screaming Masonry; the bearer must not mistake memory for permission.”*
+> *"Every obligation in the room settles on the wearer. A season of it leaves them answering duties nobody assigned."*
 
 ---
 

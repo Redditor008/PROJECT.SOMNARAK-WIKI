@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Returning Requiem
 
-> *“The Returning Requiem remembers Homecoming Tree; the bearer must not mistake memory for permission.”*
+> *"It strikes twice: once where the building stands and once where it stood. The second hit is the one that lands."*
 
 ---
 

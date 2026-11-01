@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Empty Veil
 
-> *“The Empty Veil remembers Absent Landmark; the bearer must not mistake memory for permission.”*
+> *"The wearer becomes hard to place in their own memories, and goes looking for themselves in rooms that have already been cleared."*
 
 ---
 

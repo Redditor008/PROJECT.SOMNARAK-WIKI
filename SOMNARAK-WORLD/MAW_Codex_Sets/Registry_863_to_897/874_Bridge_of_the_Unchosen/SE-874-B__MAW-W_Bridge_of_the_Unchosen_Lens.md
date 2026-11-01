@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Permafrost Star-Ring
 
-> *“Bridge of the Unchosen Lens remembers Bridge of the Unchosen; the bearer must not mistake memory for permission.”*
+> *"Seven cups of borrowed starlight hang at eye level. The wearer holds the moment before a choice and never finishes crossing."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Returning Shroud
 
-> *“The Returning Shroud remembers Homecoming Tree; the bearer must not mistake memory for permission.”*
+> *"It keeps a version of home that nothing in the present is allowed to revise. Its wearers defend a place that is gone."*
 
 ---
 

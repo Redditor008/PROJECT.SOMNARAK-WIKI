@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twenty-one epigraphs in 863–897 (batch 58)
+
+The Empty Lens, the Homecoming Tree, the Bridge of the Unchosen, the Frozen Tear, the Screaming Masonry, Repose and Welcome Haven. All twenty-one records in the range now open on their own line.
+
+The Sunken Culverin was dredged up still loaded, which is why the crews have been firing at the space where the tower used to be. The Returning Requiem strikes twice, and the second hit is the one that lands. The Screaming Masonry Maul adds one more unfinished duty to the pile with every blow; the Frozen Fragment ends a long service full of other people's weather.
+
+Twenty-one of twenty-one pass `quote_audit.py --check` with no exact duplicate and no nearest match inside the threshold.
+
+**Left:** 294 epigraphs on the formula.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The epigraphs start coming off the formula (batch 57)
 
 Three hundred and forty-five item records opened with the same line: *"{Item} remembers {Entity}; the bearer must not mistake memory for permission."* The guide retired it and the archive had not followed. This batch re-authors thirty of them — the whole of `043_to_055`, `821_to_852` and `993_to_997`.

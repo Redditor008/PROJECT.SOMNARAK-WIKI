@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Bridge of the Unchosen Charm
 
-> *“Bridge of the Unchosen Charm remembers Bridge of the Unchosen; the bearer must not mistake memory for permission.”*
+> *"It keeps a decision open a while longer. Carried long enough, none of them are ever made."*
 
 ---
 

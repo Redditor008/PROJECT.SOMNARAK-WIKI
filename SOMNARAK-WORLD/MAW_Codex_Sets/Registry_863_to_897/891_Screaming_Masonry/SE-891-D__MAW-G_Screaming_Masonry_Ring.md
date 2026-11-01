@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Screaming Masonry Ring
 
-> *“Screaming Masonry Ring remembers Screaming Masonry; the bearer must not mistake memory for permission.”*
+> *"It makes every hidden obligation legible and puts the wearer on the hook for it. The debts are all theirs now."*
 
 ---
 

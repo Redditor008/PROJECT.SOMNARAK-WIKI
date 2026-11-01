@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Resting Veil
 
-> *“The Resting Veil remembers Survivors' Breath; the bearer must not mistake memory for permission.”*
+> *"The wearer falls asleep inside their own attention, and is absent for longer each time it happens."*
 
 ---
 

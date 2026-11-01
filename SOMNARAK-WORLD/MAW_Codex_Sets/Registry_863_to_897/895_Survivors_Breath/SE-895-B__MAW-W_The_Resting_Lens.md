@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Repose Awl
 
-> *“The Resting Lens remembers Survivors' Breath; the bearer must not mistake memory for permission.”*
+> *"An awl for the place where a person keeps their composure. It opens, and the calm runs out with everything else."*
 
 ---
 

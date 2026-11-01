@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Broken Charm
 
-> *“The Broken Charm remembers Welcome Haven; the bearer must not mistake memory for permission.”*
+> *"It makes the bearer open where they ought to be closed. After enough use, everything comes through the door."*
 
 ---
 

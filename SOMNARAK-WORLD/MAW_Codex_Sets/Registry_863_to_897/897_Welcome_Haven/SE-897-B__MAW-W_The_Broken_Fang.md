@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Breach-Pike
 
-> *“The Broken Fang remembers Welcome Haven; the bearer must not mistake memory for permission.”*
+> *"It is made for a hole that is already open. Every blow spends a piece of the wielder's own cover."*
 
 ---
 

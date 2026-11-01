@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Resting Breath
 
-> *“The Resting Breath remembers Survivors' Breath; the bearer must not mistake memory for permission.”*
+> *"A calm moment, borrowed from the bearer's next hour. Spend enough and there is no hour left to rest in."*
 
 ---
 

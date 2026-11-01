@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Frozen Veil
 
-> *“The Frozen Veil remembers Seething Tundra; the bearer must not mistake memory for permission.”*
+> *"It keeps a grief exactly as it was on the day it was kept. After a season, the keeper is part of the exhibit."*
 
 ---
 

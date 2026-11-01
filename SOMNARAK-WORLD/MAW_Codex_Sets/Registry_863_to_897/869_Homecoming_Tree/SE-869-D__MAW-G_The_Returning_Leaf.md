@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Returning Leaf
 
-> *“The Returning Leaf remembers Homecoming Tree; the bearer must not mistake memory for permission.”*
+> *"It shows a place as it used to be, and takes the route you knew to make room for the showing."*
 
 ---
 

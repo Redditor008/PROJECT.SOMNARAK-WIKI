@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Sunken Culverin
 
-> *“The Empty Lens remembers Absent Landmark; the bearer must not mistake memory for permission.”*
+> *"It was dredged up still loaded. The crews have been firing at the space where the tower used to be ever since."*
 
 ---
 

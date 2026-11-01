@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Broken Barrier
 
-> *“The Broken Barrier remembers Welcome Haven; the bearer must not mistake memory for permission.”*
+> *"It takes a breach into itself and passes the rest on. The wearer is more exposed after every hit it stops."*
 
 ---
 

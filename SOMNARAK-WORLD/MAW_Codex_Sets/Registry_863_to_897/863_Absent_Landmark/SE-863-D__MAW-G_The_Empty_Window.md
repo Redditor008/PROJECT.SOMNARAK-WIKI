@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Empty Window
 
-> *“The Empty Window remembers Absent Landmark; the bearer must not mistake memory for permission.”*
+> *"Every space it reveals costs the bearer a room out of their own recall. The house remembers more than they do."*
 
 ---
 

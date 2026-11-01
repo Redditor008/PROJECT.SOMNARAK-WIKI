@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Permafrost Awl
 
-> *“The Frozen Lens remembers Seething Tundra; the bearer must not mistake memory for permission.”*
+> *"It finds where a person is holding their breath and puts a needle through it. The wielder's own next exhale is the price."*
 
 ---
 
