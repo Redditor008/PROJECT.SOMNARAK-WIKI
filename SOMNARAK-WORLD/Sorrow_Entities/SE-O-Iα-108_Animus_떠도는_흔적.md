@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-108 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: possession only; a voice that stays on its route and takes the warden who answers it |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -39,62 +39,50 @@
 ### Operational Notes
 
 - A successful cycle lets the trace fade from the Commons for a while, which is the only outcome this holding offers and is not a resolution. It returns on its own schedule along a different line, equally angry, and no nearer knowing why.
-- Both readings are live. The listed threshold is 4, a count that runs down one step per failed or refused cycle; the Combat Record separately sets activation at a Sorrow Gauge of 45%, and the gauge reaching that figure activates the entity whatever the count still stands at. The count is generous and the percentage is low, which is a combination that produces frequent minor activations and almost no warning time.
+- Both readings are live. The listed threshold is 4, a count that runs down one step per failed or refused cycle; the contact record separately sets activation at a Sorrow Gauge of 45%, and the gauge reaching that figure activates the entity whatever the count still stands at. The count is generous and the percentage is low, which is a combination that produces frequent minor activations and almost no warning time.
 - The exposure here is slow and is not measured in gauge points. It is measured in whether a warden has started to believe something about the cause, which the station checks for every quarter and has found eleven times in nine years.
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction from a trace this thin is marginal work and the yield is small; what comes out is a length of anger with no object attached, and the pieces look for one.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **Why this file has no combat actions.** The trace has never altered course for a person. Its own First Target row says *nobody*; its eleven recorded strikes all happened where a worker stepped into the line; and nine years of transcripts contain no pursuit, no approach, and no stop made because somebody was standing in the way. What this holding takes is a warden, and it takes them by the answer.
 
-| Stat | Value |
-|---|---|
-| **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Grudge. There is nothing to resist and nothing to strike; the trace is a line of heat in air, and the two occasions somebody attempted to stand in its path are logged as having had no effect on it and a considerable one on them. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Containment event — possession, no escape.** The line walks its route and stops at the boundary walls; it has never entered a building. Nothing crosses the containment line here. What crosses is a reason, given to the voice by the person standing beside it, and the person then carries the anger that reason gave an object to.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A thin red line of heat at about head height, a faint voice travelling along it, and footprints of light that fade when nobody is looking at them. Sixty-one distinct words in nine years and no proper noun of any kind — no name, no place, no date. |
+| **Perceptible to** | Paired observers, separately and in writing. The line is an instrument record; the voice is a transcript; a print has never been secured as an instrument record, because the evidence this entity leaves requires a witness to keep existing. |
+| **Who it takes** | The warden who answers. Not the one who listens and not the one who is frightened — the one who supplies a reason: a cause named, a party blamed, a feud identified, a hypothesis spoken aloud, even a speculative passage from a report read out near the line. Sincerity, accuracy and tentativeness make no difference; what registers is that a reason was offered. Eleven settled beliefs in nine years, every one of them formed privately and reported afterwards as something the warden heard. |
+| **Activation threshold** | Sorrow Gauge ≥ 45 per cent; a listed count of 4 that runs down one step per failed or refused cycle and has never carried a unit or a schedule anywhere on the record (R-06). |
+| **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone D, Mantle Commons |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan and Ferrehan, worked in pairs, one either side, each with their own book. |
+| **Location** | Zone D, Mantle Commons |
 | **Resolution Condition** | Do not supply a false reason; observe and endure until it fades |
+| **Recovery** | Say plainly, out loud, that the cause is not known and will not be supplied, and file the interval's transcript uninterpreted. The sentence in standing use is the shortest containment measure in the wing — *I do not know why you are angry* — and it is said without apology, because an apologetic delivery has twice been followed by somebody volunteering a theory to fill the gap. The belief is not argued out of a person on the ground: eleven statements are sealed at the Commons station, each written by a warden who had formed one, and the practice is to write it down and rotate that person off the holding. |
 
-### Combat Actions
+### Possession Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Moving Stain* [**Debuff**] } | "A mark appears on your hand — then moves up your arm — it is alive, and it is migrating." | [The Trace's mobility allows it to spread across the target; the mark is exploring them.] | *Target suffers -10 Resilience; the stain is colonizing their body.* **[10 Grudge DMG [Grudge]]** | When the Trace touches the target. |
-| { *The Spreading Trail* [**Debuff**] } | "The trace leaves a trail wherever it goes — and the trail is also alive, and also spreading." | [The Trace's trail creates a network of contamination; the target is the terrain.] | *Target loses 10 Resilience; they are becoming the map of the trace's journey.* **[10 Grudge DMG [Grudge]]** | When the target moves. |
-| { *The Snap-Back* [**Attack**] } | "The wandering trace whips back — from wherever it roamed — and strikes like a returning projectile." | [ A returning trace-strike.] | *Inflicts Grudge pressure and one wound of delivered marks.* **[14-22 Grudge DMG [Grudge]]** | When the Trace is caught. |
-| { *The Full Migration* [**Attack**] } | "The line doubles back on itself and the voice says one word, loudly, and the word is not in the list." | [A new word enters the lexicon, which has happened five times in nine years and never twice in a year.] | *24–36 Grudge and a 15% Gauge surge to whoever was nearest; the word is entered in the list and dated.* **[24-36 Grudge DMG [Grudge]]** | When its route is blocked, enclosed, or walked in the opposite direction. |
-| { *The Traced World* [**Ultimate**] } | "Heat lines open along every path across the Commons at once, all of them walking, none of them going anywhere." | [The route multiplies across the whole green and the voice comes from all of them.] | *12–20 Grudge per cycle for three cycles to anybody on the Commons.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, twice recorded, both in the fortnight after an inquiry into the original quarrel reported. |
+| Event | What the trace does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Answer* [**Register**] } | The warden replies to the voice — a cause named, a party blamed, a feud identified, or simple agreement offered, especially agreement. The anger acquires an object it did not previously have, and the object is a person. | Transcribe what was said and log who said it. Do not answer the warden's account on the ground; take a written statement and file it with the eleven. | Both recorded instances were followed by the trace walking the same stretch for eleven and nine days. Nothing was aimed at anybody: the route lengthened, and the warden held the reason. |
+| { *The Reason Wanted* [**Exposure**] } | With continued exposure the voice begins to seem intelligible. The fragments fit a story, the warden comes close to understanding what this is about, and the line dims while it happens. | Read the watch on what the worker has started to believe rather than on the gauge, and check it quarterly. A fluent account of the quarrel is a symptom and not a finding. | The failure state is almost indistinguishable from competent work. That is why the station keeps the word count per watch: it runs between 40 and 300 and falls as a watch goes on, with no exception in 340 transcripts, and a watch where the count rises has only ever meant that somebody spoke to it. |
+| { *The Refusal* [**Refusal**] } | It refuses nothing and refuses nobody, and it will not stop asking. The refusal in this record belongs to the warden: declining to say the sentence, or filling the silence because the silence itself has become unbearable. | Say the sentence plainly and without apology. Do not fill the gap, and do not treat a theory offered here as misconduct — the tendency is the hazard, not an offence. | An apologetic delivery has twice been followed by somebody volunteering a theory. The refusal is always made in good faith and never looks like one. |
+| { *The Inherited Weight* [**Overload**] } | Above 65 per cent the anger has an object inside the watch rather than in the voice: heat lines open along every path across the Commons at once, all of them walking, none of them arriving, and the voice comes out of all of them. Twice recorded. | Clear the heat-lines, keep the pairs together, say the sentence, and stop all causal discussion on the ground. The two inquiries into the original quarrel are closed to the watch while this state holds. | Both recordings fall in the fortnight after an inquiry reported. A report answering *what was the quarrel about* is a reason offered within hearing of the holding, at scale, by people who were not standing beside it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Two observers pick the line up where it crosses the east path and fall in beside it, one either side, each with their own book. Neither reads the other's until the watch is over.
-2. **Clash:** Ten turns, all four Work Types available, and one rule holds throughout and is read aloud before entry: nobody offers it a reason. Not a name, not a faction, not a family, not a hypothesis, not a reconstruction of what the quarrel might have been. The voice is transcribed as heard and left uninterpreted.
-3. **Resolution:** The line thins and goes out, usually within three hours and never predictably. The two transcripts are filed side by side, unreconciled, and any difference between them is left standing; 340 paired transcripts exist and the station has never allowed one to be merged into the other.
+1. **What is confirmed:** the route walked and where the line entered and left; its height, length and temperature taken by instrument rather than by hand; the words heard transcribed verbatim with nothing supplied where they are indistinct; the word count per watch set against the same pair's last three; and, before entry, that neither observer has read the other's book.
+2. **What the watch does:** pairs, one either side of the line, separate books, neither reading the other's until the watch is over. All four Work Types are available. Nobody offers it a reason — not a name, not a faction, not a family, not a hypothesis, not a reconstruction of what the quarrel might have been. Where the two accounts disagree, both are kept and neither is corrected against the other; 340 paired transcripts exist and the station has never allowed one to be merged into the other.
+3. **How it closes:** the close is the file's documented suppression condition — **Do not supply a false reason; observe and endure until it fades.** The line thins and goes out, usually within three hours and never predictably, and the two transcripts are filed side by side, unreconciled.
 
 ### Consequences
 
 - The failure here is an answer. A warden who replies to the voice — even agreeing with it, especially agreeing with it — has given the anger an object, and both recorded instances were followed by the trace walking the same stretch for eleven and nine days respectively.
 - Extended exposure carries a cumulative risk with a specific shape here. Each additional minute increases the worker's need for the anger to make sense, and that need is the thing the holding actually damages. Personnel who stay too long begin constructing a cause, privately and convincingly, and report it afterwards as something they heard.
 - The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to let a wrong go unexplained, and the loss is not noticed as a loss.
-- If the condition is not met the trace's form shifts and the Commons shift with it, which is the Transform breach on the classification. The alteration is small and local and consists, on every record to date, of the surrounding space rearranging itself into somewhere an old argument happened.
+- Nothing here is fought and nothing is forced. The trace walks its route, stops at the walls and goes out on its own schedule; the damage is done standing still beside it, by a person who could not leave the question open. Every one of the eleven was rotated off the holding rather than reasoned with, and none of the eleven has been recorded as doing harm with the belief they carried.
 
 ## Appearance
 **Primary Form:** An ethereal trace that wanders through the Commons as a red line of heat and a faint disembodied voice.
@@ -159,9 +147,11 @@ The inherited quarrel belongs to the origin account; it does not establish a for
 The table measures the gauge, which moves very little here, and misses the variable the station actually tracks: the word count per watch. It runs between 40 and 300 and falls as a watch goes on, with no exception in 340 transcripts. A watch where the count rises has only ever meant one thing, which is that somebody spoke to it.
 
 **Reading the response:** Read it in the line and in what the worker has started to believe. A falling gauge presents as thinning — the thread dimming, the voice dropping below the transcription threshold, the heat falling toward the ambient. The pressure eases and nothing is answered; the grievance is no closer to being known. A rising gauge presents as **sense**. The voice begins to seem intelligible, the fragments start to fit a story, and the worker finds themselves close to understanding what this is about. That is the failure state and it is almost indistinguishable from competent work. The entity carries anger with the reason burned out of it, and the one thing it will take from a person is a reason — and once given, on the two occasions it was given, the anger acquired an object it had not previously had.
-## Breach Behavior
+## Containment Event Behavior
 
-**State change:** The Transform record concerns the trace and the surrounding Commons shifting into somewhere an old argument happened. The brief outline seen with the Angry Maiden is recorded separately in Appearance States; that interaction does not, by itself, establish a breach or a return to a former human body.
+> **Containment event — possession, no escape.** The line walks its route and stops at the boundary walls; nothing in this record enters a building. What changes hands is the reason a warden supplies, and the warden carries it out of the Commons.
+
+**State change:** The event concerns the warden and the reason, not the shape of the trace. The brief outline seen with the Angry Maiden is recorded separately in Appearance States; that interaction does not by itself establish a containment event or a return to a former human body.
 
 **Retained non-breach mechanic:** Observe and endure without supplying a reason for the anger. A supplied cause gives the anger an object; a change in the appearance of the line or its surroundings does not license inventing one.
 
@@ -169,18 +159,18 @@ The table measures the gauge, which moves very little here, and misses the varia
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Transform |
+| **Event Type** | Possession — the answer is taken and the anger acquires an object; nothing leaves the ground it walks |
 | **Movement** | The heat-line walks beyond the Commons without pursuing personnel. Recorded excursions end at a boundary wall where it stops and fades; anyone in its path must step aside rather than block it. |
-| **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Effect** | Nothing is scorched at rest. A warden who supplies a cause hands the anger an object, and both recorded instances were followed by the trace walking the same stretch for eleven and nine days. |
+| **Secondary Effect** | A settled belief, formed privately, held convincingly, and reported afterwards as something heard. |
 | **First Target** | Nobody. In nine years it has not altered course for a person, approached one, or stopped walking because one was there; the eleven strikes on file all occurred where a worker had stepped into the line. |
 | **Escalation** | +5 Resilience drain per cycle while a worker remains in the line, which is a measure of standing in a thing rather than of the thing advancing. Step out and it stops; nothing follows. |
 
 ### Escalation Notes
 
-- **Breach type:** It walks off the Commons. Three times, all three ending at a boundary wall where the line simply stopped and faded; it has never entered a building and has never been observed to turn a corner it had not turned before.
-- **Containment priority:** Stabilize reality through combined Work Types before the transformation completes.
-- **Sorrow Gauge on breach:** Opens at 40% and moves on explanation rather than on elapsed time. Each 10% is added when a reason is supplied within hearing: a cause named, a party blamed, a feud identified, a hypothesis spoken aloud, or a speculative passage from a report read out near the line. Sincerity, accuracy and tentativeness make no difference; what registers is that a reason was offered. Each 10% comes off when a worker says plainly, out loud, that the cause is not known and will not be supplied, and the transcript for that interval is filed uninterpreted. Silence holds it steady. The phrase in standing use is the shortest containment measure in this wing — I do not know why you are angry — and personnel are taught to say it without apology, because an apologetic delivery has twice been followed by somebody volunteering a theory to fill the gap.
+- **Event type (non-breach):** It walks off the Commons — three times, all three ending at a boundary wall where the line simply stopped and faded; it has never entered a building and has never been observed to turn a corner it had not turned before. What recurs inside the Commons is smaller and worse: a warden answers, and from that hour the quarrel has a suspect.
+- **Containment priority:** Keep the watch paired and keep the reason unspoken. There is nothing here to stabilise and nothing to force; the only lever the record has found is whether anybody supplies a cause while the line is in hearing.
+- **Sorrow Gauge in the event:** Opens at 40% and moves on explanation rather than on elapsed time. Each 10% is added when a reason is supplied within hearing: a cause named, a party blamed, a feud identified, a hypothesis spoken aloud, or a speculative passage from a report read out near the line. Sincerity, accuracy and tentativeness make no difference; what registers is that a reason was offered. Each 10% comes off when a worker says plainly, out loud, that the cause is not known and will not be supplied, and the transcript for that interval is filed uninterpreted. Silence holds it steady. The phrase in standing use is the shortest containment measure in this wing — I do not know why you are angry — and personnel are taught to say it without apology, because an apologetic delivery has twice been followed by somebody volunteering a theory to fill the gap.
 
 ## M.A.W. Equipment
 
@@ -377,7 +367,7 @@ Some sorrows mourn a grievance. Animus mourns the lost cause — the anger carri
 - A word outside the list of 61, a rising count, or the line doubling back on itself.
 **Observation Notes:**
 - A quarrel inherited until the reason was gone, with no counterparty named anywhere in the record.
-- See Combat Record for engagement history.
+- See Contact Record for the eleven statements and what happened to the wardens who made them.
 - Two pieces; wielders name a wronging colleague and it is a different colleague every rotation.
 **Cross-References:** The Rusted Soul, The Angry Maiden, The Forgotten Soldier (no third session), the lexicon of 61 words, and the sealed file of eleven incompatible beliefs.
 **Faction Involvement:** SED (D-territory exploration)
@@ -387,7 +377,7 @@ Some sorrows mourn a grievance. Animus mourns the lost cause — the anger carri
 
 **Operational interpretation:** The suppression condition here is a prohibition rather than an action. Do not supply a false reason; observe and endure until it fades. An archive exists to establish causes, and this is the holding where establishing one is the harm — not because the answer would be wrong, though it would, but because this entity has no object for its anger and a supplied reason gives it one. The wing has twice commissioned historical work on the original quarrel. Both inquiries produced coherent, well-sourced, mutually incompatible accounts, and both were followed by a measurable fortnight of activity at the Commons. The second inquiry's findings were sealed rather than filed, and the minute ordering the seal says that the Directorate had learned something about itself and not about the grievance. Where the entity contradicts this record, trust the entity; preserve the contradiction as evidence rather than normalising it.
 
-**Review requirement:** Every breach, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the exposure log, the position and the state of the Commons before work resumes. Two further items are required here. Transcripts are checked for interpretation — any sentence describing what the voice meant is struck from the record and noted as struck, with no consequence to the author, because supplying meaning is what a literate person does with an incomplete sentence. And any worker who has formed a settled belief about the cause is rotated off the holding and asked to write the belief down for the sealed file rather than being argued out of it, since arguing has been tried and entrenches it.
+**Review requirement:** Every containment event, Sorrow Tide or Ordeal invalidates the baseline; re-verify the gauge, the exposure log, the position and the state of the Commons before work resumes. Two further items are required here. Transcripts are checked for interpretation — any sentence describing what the voice meant is struck from the record and noted as struck, with no consequence to the author, because supplying meaning is what a literate person does with an incomplete sentence. And any worker who has formed a settled belief about the cause is rotated off the holding and asked to write the belief down for the sealed file rather than being argued out of it, since arguing has been tried and entrenches it.
 ## Trivia
 
 - The entity's original grievance has never been recovered.

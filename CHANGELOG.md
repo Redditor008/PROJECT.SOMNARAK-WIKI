@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Animus: the anger that takes the person who answers it (2026-11-01)
+
+`[Animus](SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-108_Animus_떠도는_흔적.md)` was classified *Can breach* and its event row said **Transform**, while every line of evidence in the same file described something else. The First Target row says *nobody*; the eleven recorded strikes all happened where a worker stepped into the line; the excursions end at a boundary wall where the line stops and fades and it has never entered a building. Nothing about that is a transformation of the trace.
+
+What the file actually documents is a transmission. A warden replies to the voice — *even agreeing with it, especially agreeing with it* — and the anger acquires an object. The exposure is measured in what a warden has started to believe rather than in gauge points, checked quarterly, eleven found in nine years, each written down and sealed and the person rotated off. That is possession in R-28 terms: the holding does not need to move, because the person carries it out.
+
+**What changed.** The `Entity Type` cell now reads *Non-breaching: possession only; a voice that stays on its route and takes the warden who answers it*. `## Combat Record` is a `## Contact Record`, with `Who it takes` naming the one who supplies a reason rather than the one who listens or the one who is frightened, and `Recovery` carrying the sentence in standing use, *I do not know why you are angry*, said without apology because an apologetic delivery has twice been followed by somebody volunteering a theory to fill the gap. The four events are the answer, the reason wanted, the refusal — which belongs to the warden in this file, not the entity — and the inherited weight at 65 per cent, both of whose recordings fall in the fortnight after an inquiry supplied a cause at scale. `## Breach Behavior` is `## Containment Event Behavior`, the event row is possession, and the template line *stabilise reality before the transformation completes* is gone: there is nothing to stabilise here and the only lever is whether anyone supplies a cause while the line is in hearing.
+
+**Two internal references repaired** that had pointed at sections which no longer exist: the Operational Notes now cite the contact record for the 45 per cent reading, and the Containment & Handling footer sends the reader to the eleven statements instead of to an engagement history the file has never had.
+
+**Codex synced** (`SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-A__SIDE_CODEX_Animus.md`): type to *Non-breaching: possession only (Subject-Spirit)*, and the pressure row from `Grudge 3–10` to *no hit band — the pressure is a cause taken into the warden who answers*.
+
+**Checks:** `wikistd` 301/301 · `label_lint` 301, 0 violations · `check_stat_bands` PASS · `check_links` 0 broken.
+
 ## Ten relic dossiers stop claiming Transform (2026-11-01)
 
 All ten of these carried `Can breach via Transform` in the `Entity Type` cell while the body of the same file said the opposite. Their neighbours in the queue had a `## Breach Behavior` section to argue with; these ten have none at all. They document activation only, which is R-28 first evidence test, and the cell had been generator output since the file was written.

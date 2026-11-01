@@ -543,7 +543,7 @@ A complete roster of every catalogued entity — each with its SECC designation,
 | `N-IVδ-157 [WP]` | [The Sleeping Sigh](../../Sorrow_Entities/SE-N-IVδ-157_Torpor_잠든_한숨.md) (잠든 한숨) | Weight | Per entity classification. See SECC Classification table for details. |
 | `N-IVδ-159 [O]` | [The Frozen Sigh](../../Sorrow_Entities/SE-N-IVδ-159_Apnea_얼어붙은_한숨.md) (얼어붙은 한숨) | Grudge | Per entity classification. See SECC Classification table for details. |
 | `N-IVδ-315 [LO]` | [The Collapsed Seed](../../Sorrow_Entities/SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md) (무너진 씨앗) | Lament | Per entity classification. See SECC Classification table for details. |
-| `N-IVδ-339 [LS]` | [The Collapsed Wall](../../Sorrow_Entities/SE-N-IVδ-339_Breach_무너진_벽.md) (무너진 벽) | Lament | Per entity classification. See SECC Classification table and Combat Record for threat details. |
+| `N-IVδ-339 [LS]` | [The Collapsed Wall](../../Sorrow_Entities/SE-N-IVδ-339_Breach_무너진_벽.md) (무너진 벽) | Lament | Per entity classification. See SECC Classification table and Contact Record for threat details. |
 | `N-IVδ-489 [LS]` | [The Forgotten Silence](../../Sorrow_Entities/SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md) (잊혀진 침묵) | Lament | Per entity classification. See SECC Classification table and Combat Record for threat details. |
 | `N-IVδ-517 [LS]` | [The Broken Tear](../../Sorrow_Entities/SE-N-IVδ-517_Broken_Tear_부서진_눈물.md) (부서진 눈물) | Lament | Per entity classification. See SECC Classification table and Combat Record for threat details. |
 | `N-IVδ-525 [GS]` | [The Flowing Bridge](../../Sorrow_Entities/SE-N-IVδ-525_Cenotaph_흐르는_다리.md) (흐르는 다리) | Grudge | Per entity classification. See SECC Classification table for details. |

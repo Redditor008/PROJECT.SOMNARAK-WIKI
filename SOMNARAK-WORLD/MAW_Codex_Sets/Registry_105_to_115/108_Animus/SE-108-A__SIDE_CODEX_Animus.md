@@ -21,12 +21,12 @@
 |---|---|
 | Entity | Animus — 떠도는 흔적 |
 | Sorrow Category | Outside Sorrow |
-| Type / Manifestation | Subject — Subject-Spirit |
+| Type / Manifestation | Subject — Non-breaching: possession only (Subject-Spirit) |
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Grudge |
 | Location | Zone D, Mantle Commons |
 | Form | A thin red heat-line in the air, with a faint voice traveling along the path of someone still walking after they are gone. |
-| Gauge / pressure | 25–40% / Grudge 3–10 |
+| Gauge / pressure | 25–40% / no hit band — the pressure is a cause taken into the warden who answers |
 | Comprehension Level | 1 — Observed |
 | M.A.W. Set | Lost Cause |
 
