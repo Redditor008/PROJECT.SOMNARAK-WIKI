@@ -29,7 +29,7 @@ Thinking Engine's Edge is the weapon record of the Thinking Engine set — γ-gr
 |---:|---:|---:|---|---:|
 | Lament 14–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Thinking Engine's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge strikes a mind the way a dial is turned: each blow leaves the wielder with a thought they did not finish and cannot restart. Wielded long, they answer questions asked a week ago.
 
 ## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Weapon Record*
 

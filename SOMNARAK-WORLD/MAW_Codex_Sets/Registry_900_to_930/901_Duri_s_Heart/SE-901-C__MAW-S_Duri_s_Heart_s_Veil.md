@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Duri's Heart's Veil is the suit record of the Duri's Heart set — β-grade, Weight- aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the body register of sorrow the heavy object carries. Binding names Duri's Heart's event — Not recorded, provenance withheld by the wound itself — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a constant low fatigue, as though Duri's Heart's burden settles on the wearer's shoulders and stays there for the length of the shift. The source-trace fixed doctrine: the object recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil uncouples the hazard only after attribution to Duri's Heart. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Duri's Heart's Veil is the suit record of the Duri's Heart set — β-grade, Weight- aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the body register of sorrow the heavy object carries. Binding names Duri's Heart's event — Not recorded, provenance withheld by the wound itself — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the preservation: the wearer goes on because the crystal will not let them stop, and a season of it leaves them unable to tell fatigue from stillness. The source-trace fixed doctrine: the object recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil uncouples the hazard only after attribution to Duri's Heart. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Duri's Heart's Veil is the suit record of the Duri's Heart set — β-grade, Wei
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue, as though Duri's Heart's burden settles on their shoulders. Continued use makes Duri's Heart's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil lends the wearer a preserved heart's endurance: they go on because the crystal will not let them stop. Worn long, the wearer cannot tell fatigue from stillness.
 
 ## ITEM-SPECIFIC HISTORY — *The Duri s Heart Source-Trace: Suit Record*
 

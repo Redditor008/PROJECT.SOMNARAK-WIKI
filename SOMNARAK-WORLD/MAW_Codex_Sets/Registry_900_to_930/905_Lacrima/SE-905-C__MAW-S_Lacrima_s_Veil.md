@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Lacrima's Veil is the suit record of the Lacrima set — α-grade, Void-aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the spirit register of sorrow condensed in the tear. Binding names Lacrima's event — Not recorded, grief distilled past the point of narrative — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is dissolution at the edges: the wearer becomes difficult to remember, even to themselves, while the protection is worn, identity blurring the way salt water blurs a window. The source- trace fixed doctrine: the object recognizes patience, its void pressure settling gradually under sustained presence, and the Veil contains the hazard only after attribution to Lacrima. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Lacrima's Veil is the suit record of the Lacrima set — α-grade, Void-aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the spirit register of sorrow condensed in the tear. Binding names Lacrima's event — Not recorded, grief distilled past the point of narrative — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the lid: the wearer's self leaks into the room and is not returned, and a season of wear leaves them faintly absent and inclined to call it tiredness. The source- trace fixed doctrine: the object recognizes patience, its void pressure settling gradually under sustained presence, and the Veil contains the hazard only after attribution to Lacrima. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Lacrima's Veil is the suit record of the Lacrima set — α-grade, Void-aligned,
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn. Continued use makes Lacrima's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil is a lid that will not seat: worn, the wearer's self leaks slowly into the room and is not given back. Worn long, they feel faintly absent and put it down to tiredness.
 
 ## ITEM-SPECIFIC HISTORY — *The Lacrima Source-Trace: Suit Record*
 

@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The oldest eight sets (batch 52)
+
+`Registry_900_to_930` is the archive's earliest range and the worst preserved: every cost in it was a stock sentence chosen by element, so a Lament weapon said the same thing whether it cut flesh or cut a story. This batch rewrites `900` through `907` — the Vellum Man, Duri's Heart, Goru's Fist, Glass Elsewhere, the Thinking Engine, Lacrima, the Grimoire and the Breathing Stone — twenty-four records, field and Appearance paragraph both.
+
+The costs are now grounded in the piece's own material. Vellum Man's Edge cuts the story a body tells about its loss and takes its payment out of the wielder's own account. Glass Elsewhere's Veil puts the wearer behind glass, where the reflection moves on after they stop. The Grimoire's Token enters every slight in the body's ledger in ink that does not fade. The Breathing Stone's Token makes every load set down settle back by morning.
+
+Most of these sets still file their source event as *Not recorded* — a gap in the source-trace doctrine rather than in the cost, and it is recorded on the debt list rather than papered over here.
+
+**Left:** 51 records in this range, and 41 in `1001_to_1043`.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## Forty-two more costs in the 1001–1043 set (second slice)
 
 Sets from the Facsimile through the Kind Healer's Shadow. Where a record already had a first clause worth keeping — the Promise Shard's pain arriving early, the Rebirth Ember returning with the memory of dying, the Memory Link's burden carried by both parties — that clause stays and only the tail is replaced. The rest take a full rewrite off the ability.

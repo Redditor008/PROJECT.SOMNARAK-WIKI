@@ -21,14 +21,14 @@
 
 ## Appearance
 
-Glass Elsewhere's Token is the stigma record of the Glass Elsewhere set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's phantasmal sorrow, crystallized into wearable form, a chip of the pane that still faces its elsewhere. Binding names Glass Elsewhere's event — Not recorded, the view intact and the viewer unknown — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a brief erasure: the bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma, the world going glassy exactly where it was best known. The source-trace fixed doctrine: the object permits study, its phantasmal pressure becoming legible under sustained observation, and the Token witnesses the hazard only after attribution to Glass Elsewhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Glass Elsewhere's Token is the stigma record of the Glass Elsewhere set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's phantasmal sorrow, crystallized into wearable form, a chip of the pane that still faces its elsewhere. Binding names Glass Elsewhere's event — Not recorded, the view intact and the viewer unknown — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the delay: a familiar word or face goes missing for a few seconds and returns slightly wrong, and a season of carrying it leaves the bearer's own name arriving late. The source-trace fixed doctrine: the object permits study, its phantasmal pressure becoming legible under sustained observation, and the Token witnesses the hazard only after attribution to Glass Elsewhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma. Continued use makes Glass Elsewhere's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token is a shard of somewhere else: carried, it takes a familiar word or face for a few seconds and gives it back slightly wrong. Carried long, the bearer's own name arrives late.
 
 ## ITEM-SPECIFIC HISTORY — *The Glass Elsewhere Source-Trace: Stigma Record*
 

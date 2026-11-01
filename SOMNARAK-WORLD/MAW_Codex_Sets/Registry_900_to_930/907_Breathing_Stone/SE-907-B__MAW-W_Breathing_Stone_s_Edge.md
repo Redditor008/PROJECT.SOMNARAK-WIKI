@@ -29,7 +29,7 @@ Breathing Stone's Edge is the weapon record of the Breathing Stone set — δ-gr
 |---:|---:|---:|---|---:|
 | Weight 11–21 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Breathing Stone's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge strikes with a wall's indifference: each blow makes the wielder's own body feel like a thing being leaned on. Wielded long, they stop noticing when they are the support.
 
 ## ITEM-SPECIFIC HISTORY — *The Breathing Stone Source-Trace: Weapon Record*
 

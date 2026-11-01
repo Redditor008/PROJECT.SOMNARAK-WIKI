@@ -29,7 +29,7 @@ Vellum Man's Edge is the weapon record of the Vellum Man set — α-grade, Lamen
 |---:|---:|---:|---|---:|
 | Lament 8–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Vellum Man's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge cuts the story a body tells about its loss and takes its pay out of the wielder's own: every strike removes a line from the account they would give of themselves. Wielded long, the wielder can say what happened and not why it mattered.
 
 ## ITEM-SPECIFIC HISTORY — *The Vellum Man Source-Trace: Weapon Record*
 

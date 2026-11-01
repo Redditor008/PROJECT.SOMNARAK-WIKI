@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Vellum Man's Veil is the suit record of the Vellum Man set — α-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the tale register of sorrow that the subject's paper body carries. Binding names Vellum Man's event — Not recorded, the wound filed without its story — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost follows the wearer home: Vellum Man's grief rides into every quiet moment, and small joys feel distant until the Veil is removed. The source-trace fixed doctrine: the subject recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil interrupts the hazard only after attribution to Vellum Man. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Vellum Man's Veil is the suit record of the Vellum Man set — α-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the tale register of sorrow that the subject's paper body carries. Binding names Vellum Man's event — Not recorded, the wound filed without its story — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the register itself: any account of grief can be heard without being moved by it, and a season of wear leaves the wearer unable to be moved by their own. The source-trace fixed doctrine: the subject recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil interrupts the hazard only after attribution to Vellum Man. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Vellum Man's Veil is the suit record of the Vellum Man set — α-grade, Lament-
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries Vellum Man's grief into every quiet moment; small joys feel distant until the suit is removed. Continued use makes Vellum Man's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil holds the tale register off: worn, the wearer can hear any account of grief without being moved by it. Worn long, the wearer can no longer be moved by their own.
 
 ## ITEM-SPECIFIC HISTORY — *The Vellum Man Source-Trace: Suit Record*
 

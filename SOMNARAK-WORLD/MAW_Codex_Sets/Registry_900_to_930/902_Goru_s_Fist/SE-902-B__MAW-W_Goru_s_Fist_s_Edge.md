@@ -29,7 +29,7 @@ Goru's Fist's Edge is the weapon record of the Goru's Fist set — γ-grade, Gru
 |---:|---:|---:|---|---:|
 | Grudge 14–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences mild memory fragmentation with each use. Continued use makes Goru's Fist's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge lands like a fist that has already closed: each strike leaves the wielder's hand a little more stone. Wielded long, they cannot open it to drop anything.
 
 ## ITEM-SPECIFIC HISTORY — *The Goru s Fist Source-Trace: Weapon Record*
 

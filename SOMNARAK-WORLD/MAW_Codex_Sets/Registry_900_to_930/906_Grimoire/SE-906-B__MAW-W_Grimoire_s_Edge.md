@@ -29,7 +29,7 @@ Grimoire's Edge is the weapon record of the Grimoire set — β-grade, Grudge-al
 |---:|---:|---:|---|---:|
 | Grudge 11–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Grimoire's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge writes the grievance as it lands: each strike adds a line to the wielder's own account and none of it can be crossed out. Wielded long, the wielder reads their history as a list of what was done to them.
 
 ## ITEM-SPECIFIC HISTORY — *The Grimoire Source-Trace: Weapon Record*
 

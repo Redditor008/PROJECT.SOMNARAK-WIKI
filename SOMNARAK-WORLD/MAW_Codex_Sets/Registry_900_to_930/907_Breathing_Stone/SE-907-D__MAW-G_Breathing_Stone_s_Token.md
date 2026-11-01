@@ -21,14 +21,14 @@
 
 ## Appearance
 
-Breathing Stone's Token is the stigma record of the Breathing Stone set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's body sorrow, crystallized into wearable form, a pebble that still rises and falls faintly against the collarbone. Binding names Breathing Stone's event — Not recorded, the breath kept and the breather lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is gravitational: the bearer moves as though carrying an invisible load that grows heavier near unresolved debt, the stone's inhale deepening wherever something is owed. The source-trace fixed doctrine: the place permits study, its body pressure becoming legible under sustained observation, and the Token severs the hazard only after attribution to Breathing Stone. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Breathing Stone's Token is the stigma record of the Breathing Stone set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's body sorrow, crystallized into wearable form, a pebble that still rises and falls faintly against the collarbone. Binding names Breathing Stone's event — Not recorded, the breath kept and the breather lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the settling: every load the bearer sets down returns to them by morning, and a season of carrying it leaves them sleeping against the door. The source-trace fixed doctrine: the place permits study, its body pressure becoming legible under sustained observation, and the Token severs the hazard only after attribution to Breathing Stone. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt. Continued use makes Breathing Stone's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token is a warm fleck of breathing stone: carried, it makes every load the bearer sets down settle back onto them by morning. Carried long, they sleep against the door.
 
 ## ITEM-SPECIFIC HISTORY — *The Breathing Stone Source-Trace: Stigma Record*
 

@@ -21,14 +21,14 @@
 
 ## Appearance
 
-Lacrima's Token is the stigma record of the Lacrima set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's spirit sorrow, crystallized into wearable form, the tear worn openly that was never allowed to fall. Binding names Lacrima's event — Not recorded, mourning with the mourner redacted — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a flicker of loss: the bearer occasionally misplaces a familiar word or face for a few seconds after invoking the stigma, small evaporations from the surface of memory. The source-trace fixed doctrine: the object permits study, its spirit pressure becoming legible under sustained observation, and the Token discharges the hazard only after attribution to Lacrima. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Lacrima's Token is the stigma record of the Lacrima set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's spirit sorrow, crystallized into wearable form, the tear worn openly that was never allowed to fall. Binding names Lacrima's event — Not recorded, mourning with the mourner redacted — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the seating: a familiar word or face slips loose for a few seconds at a time, and a season of carrying it leaves the bearer holding the lid of themselves shut. The source-trace fixed doctrine: the object permits study, its spirit pressure becoming legible under sustained observation, and the Token discharges the hazard only after attribution to Lacrima. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma. Continued use makes Lacrima's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token is a chip of fired clay from a vessel with no maker: carried, it lets a familiar word or face slip its seat for a few seconds. Carried long, the bearer keeps the lid of themselves pressed down.
 
 ## ITEM-SPECIFIC HISTORY — *The Lacrima Source-Trace: Stigma Record*
 
