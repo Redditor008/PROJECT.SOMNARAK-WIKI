@@ -33,12 +33,12 @@ The Dawn of Shroud is a deep-blue shroud of soft Han silk that drapes over the s
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Suit Record*
 
-The first bearer of The Dawn of Shroud encountered this source response: Pins the worker beneath accumulated sorrow. The suit witnesses the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Dawn of Shroud encountered this source response: Pins the worker beneath accumulated sorrow. The suit witnesses the immediate hazard only after the team attributed it to Dawn of Mourning. A wearer described their own losses in the third person until the Shroud stopped telling them apart from the source's, and the binding follows that habit.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dawn of Mourning's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wearer speaks of themselves in the third person in rooms where nothing is being warded.
 - Terminal state: Dawn of Mourning's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Genuine confession before the twelfth blessing; no reliable post-formation method exists” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Dawn of Shroud encountered this source response: Pins th
 
 ## SET RELATIONSHIP
 
-Within *Dawn of Mourning — Witnessed Form*, The Dawn of Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dawn of Mourning — Witnessed Form*, The Dawn of Shroud performs the suit role while the other pieces preserve attribution and survival. The set holds only while the wearer's own losses can still be named in the first person; the first slip takes the Shroud out.
 
 ---
 

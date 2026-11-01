@@ -35,12 +35,12 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 ## ITEM-SPECIFIC HISTORY — *The Well of Unfinished Words Source-Trace: Weapon Record*
 
-The first bearer of The Listening Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Well of Unfinished Words. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Listening Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Well of Unfinished Words. A wielder finished the sentence the Sceptre had cut in half, the strikes stopped landing mid-word, and the bind was written from that bout.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Well of Unfinished Words's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the interruption moves into the wielding itself, and the record of each strike ends in the middle.
 - Terminal state: Well of Unfinished Words's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Allow testimony to finish; do not drain the Well” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Listening Requiem encountered this source response: N/A 
 
 ## SET RELATIONSHIP
 
-Within *Well of Unfinished Words — Witnessed Form*, The Listening Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Well of Unfinished Words — Witnessed Form*, The Listening Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set once the wielder finishes a sentence before the blow lands.
 
 ---
 

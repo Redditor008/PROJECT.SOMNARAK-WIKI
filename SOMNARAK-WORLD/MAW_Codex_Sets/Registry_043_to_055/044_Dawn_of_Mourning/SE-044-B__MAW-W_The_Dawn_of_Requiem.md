@@ -33,12 +33,12 @@ Han crystal drawn out long and pale blue with a soft milky finish, the Dawn of R
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Weapon Record*
 
-The first bearer of The Dawn of Requiem encountered this source response: Sentences aggression immediately. The weapon marks the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Dawn of Requiem encountered this source response: Sentences aggression immediately. The weapon marks the immediate hazard only after the team attributed it to Dawn of Mourning. A wielder mistook the grief arriving in their hands for their own, swung through it, and the mourning took the strike personally; the binding is the report filed after that bout.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dawn of Mourning's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the half-beat lengthens until the grief is in the hands before the target is chosen.
 - Terminal state: Dawn of Mourning's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Genuine confession before the twelfth blessing; no reliable post-formation method exists” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Dawn of Requiem encountered this source response: Senten
 
 ## SET RELATIONSHIP
 
-Within *Dawn of Mourning — Witnessed Form*, The Dawn of Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dawn of Mourning — Witnessed Form*, The Dawn of Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on the first blow thrown without letting the grief arrive first.
 
 ---
 

@@ -32,12 +32,12 @@ Petals of milky blue crystal, folded closed and joined at a silver pin: the Dawn
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Stigma Record*
 
-The first bearer of The Dawn of Charm encountered this source response: Sees every hidden guilt in the observer. The stigma isolates the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Dawn of Charm encountered this source response: Sees every hidden guilt in the observer. The stigma isolates the immediate hazard only after the team attributed it to Dawn of Mourning. A bearer pardoned somebody who had not asked, in the source's words, and the Charm's binding was written from the account that followed.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dawn of Mourning's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pardons begin closing accounts the bearer has no standing in, and the voice does not stop at the bearer's own mouth.
 - Terminal state: Dawn of Mourning's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Genuine confession before the twelfth blessing; no reliable post-formation method exists” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Dawn of Charm encountered this source response: Sees eve
 
 ## SET RELATIONSHIP
 
-Within *Dawn of Mourning — Witnessed Form*, The Dawn of Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dawn of Mourning — Witnessed Form*, The Dawn of Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of resonance the moment it answers a plea that was never made.
 
 ---
 

@@ -35,12 +35,12 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 ## ITEM-SPECIFIC HISTORY — *The Miscast Source-Trace: Weapon Record*
 
-The first bearer of The Torn Edge encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Edge encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Miscast. A wielder finished a task, could not believe it, and struck the works again; the Sundial's binding dates from that hour.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Miscast's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the hour it tells stops advancing, and the wielder keeps working inside the same minute.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-779 -->
@@ -49,7 +49,7 @@ The first bearer of The Torn Edge encountered this source response: N/A — Obje
 
 ## SET RELATIONSHIP
 
-Within *Miscast — Witnessed Form*, The Torn Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Miscast — Witnessed Form*, The Torn Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on the first task the wielder puts down finished.
 
 ---
 

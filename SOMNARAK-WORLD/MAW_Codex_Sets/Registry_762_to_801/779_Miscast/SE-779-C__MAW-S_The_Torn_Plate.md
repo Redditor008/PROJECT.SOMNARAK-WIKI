@@ -33,12 +33,12 @@ The Torn Plate is the suit record of Miscast’s set, granting resistance to Gru
 
 ## ITEM-SPECIFIC HISTORY — *The Miscast Source-Trace: Suit Record*
 
-The first bearer of The Torn Plate encountered this source response: Tests the worker's patience with repeated failed reunions. The suit redirects the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Plate encountered this source response: Tests the worker's patience with repeated failed reunions. The suit redirects the immediate hazard only after the team attributed it to Miscast. A wearer held a wall together after the wall was done and would not leave it, and the Plate has been bound to that watch since.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Miscast's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the sense of near-completion arrives before the first blow, and the wearer works through relief to reach it.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-779 -->
@@ -47,7 +47,7 @@ The first bearer of The Torn Plate encountered this source response: Tests the w
 
 ## SET RELATIONSHIP
 
-Within *Miscast — Witnessed Form*, The Torn Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Miscast — Witnessed Form*, The Torn Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer believes the job is nearly complete; the moment they know it is finished, the Plate drops out.
 
 ---
 

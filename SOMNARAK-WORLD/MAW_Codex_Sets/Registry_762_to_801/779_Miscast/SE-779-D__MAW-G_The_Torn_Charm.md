@@ -32,12 +32,12 @@ The Torn Charm is the stigma record of Miscast’s set — tail-slot, bestowed a
 
 ## ITEM-SPECIFIC HISTORY — *The Miscast Source-Trace: Stigma Record*
 
-The first bearer of The Torn Charm encountered this source response: Reveals its former function. The stigma stays the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Charm encountered this source response: Reveals its former function. The stigma stays the immediate hazard only after the team attributed it to Miscast. A bearer mislaid a grievance and kept the job it belonged to, and the Charm's binding is the record of what was never raised.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Miscast's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the grievances are mislaid faster than they are raised, and the bearer keeps jobs they cannot give a reason for.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-779 -->
@@ -46,7 +46,7 @@ The first bearer of The Torn Charm encountered this source response: Reveals its
 
 ## SET RELATIONSHIP
 
-Within *Miscast — Witnessed Form*, The Torn Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Miscast — Witnessed Form*, The Torn Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the first time the bearer raises the grievance instead of losing it.
 
 ---
 

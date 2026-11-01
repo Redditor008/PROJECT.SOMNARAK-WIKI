@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Nine more records, three more sources (batch 79)
+
+`SE-044` Dawn of Mourning, `SE-778` Listening, `SE-779` Torn — **nine records, twenty-seven sentences**, all written from the cost line already in the file. The Dawn of Requiem's binding dates from a wielder who mistook the grief arriving in their hands for their own and swung through it; the Listening Vial drops out of its set when it is asked to keep something the bearer already remembers; the Torn Plate holds resonance only while the wearer believes the work is nearly done, and loses it the moment they know it is finished.
+
+**24 of 345 done. 321 remain.** Each set is now a straight read: three cost lines, three escalation bullets, three resonance endings.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The same three sentences, nine more records (batch 78)
 
 `SE-767` Swallow, `SE-775` Cleaved, `SE-777` Last Fruit: **nine records, twenty-seven sentences**, each written from that record's own cost line — the Fading Requiem now holds its set only while every call goes into a gap the wielder was given; the Torn Veil loses the set the first time its wearer cannot describe themselves; the Burning Seed drops out the day the want is said aloud before it is spent. The escalation bullets go the same way: the Fading Charm's forgetting spreads to everyone who has the bearer's name in writing, the Torn Keystone starts steadying things nobody asked it to steady.

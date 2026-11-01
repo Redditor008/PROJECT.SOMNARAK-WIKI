@@ -33,12 +33,12 @@ The Listening Shroud is the suit record of the Well of Unfinished Words’ set, 
 
 ## ITEM-SPECIFIC HISTORY — *The Well of Unfinished Words Source-Trace: Suit Record*
 
-The first bearer of The Listening Shroud encountered this source response: Requires the worker to remain and listen without interruption. The suit severs the immediate hazard only after the team attributed it to Well of Unfinished Words. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Listening Shroud encountered this source response: Requires the worker to remain and listen without interruption. The suit severs the immediate hazard only after the team attributed it to Well of Unfinished Words. A wearer tried to end a conversation and found they had only left it, and the Shroud's binding is the transcript of that attempt.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Well of Unfinished Words's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the sentences of other people start arriving a room ahead of the people speaking them.
 - Terminal state: Well of Unfinished Words's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Allow testimony to finish; do not drain the Well” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Listening Shroud encountered this source response: Requi
 
 ## SET RELATIONSHIP
 
-Within *Well of Unfinished Words — Witnessed Form*, The Listening Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Well of Unfinished Words — Witnessed Form*, The Listening Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer leaves conversations rather than ending them; the first clean ending takes the Shroud out.
 
 ---
 
