@@ -35,12 +35,12 @@ Eight cylindrical brass pendulum weights stamped with minute indices dangle alon
 
 ## ITEM-SPECIFIC HISTORY — *The Broken Clock Source-Trace: Suit Record*
 
-The first bearer of The Pendulum-Weighted Greatcoat encountered this source response: Stretches a minute into an hour to test resolve. The suit discharges the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Pendulum-Weighted Greatcoat encountered this source response: Stretches a minute into an hour to test resolve. The suit discharges the immediate hazard only after the team attributed it to The Broken Clock. A wearer stood in exactly the place they had been put for four hours after the order to move, and the Mantle’s binding is the duty board from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Broken Clock's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the standing reaches the walk between posts, and the wearer stops between rooms for no reason they can give.
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-044 -->
@@ -49,7 +49,7 @@ The first bearer of The Pendulum-Weighted Greatcoat encountered this source resp
 
 ## SET RELATIONSHIP
 
-Within *The Broken Clock — Witnessed Form*, The Pendulum-Weighted Greatcoat performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Broken Clock — Witnessed Form*, The Pendulum-Weighted Greatcoat performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still wants to move; the first hour they do not, the Mantle is out.
 
 ---
 

@@ -33,12 +33,12 @@ The Willing Chains Lens is the weapon record of the Willing Chains set — β-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Willing Chains Source-Trace: Weapon Record*
 
-The first Willing Chains Lens field bearer encountered this source response: Chains lash outward and spread faster. The weapon uncouples the immediate hazard only after the team attributed it to Willing Chains. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Willing Chains Lens field bearer encountered this source response: Chains lash outward and spread faster. The weapon uncouples the immediate hazard only after the team attributed it to Willing Chains. A wielder came off a strike bound to an obligation they had never agreed to and could not put it down, and the Lens’s binding is the chain register from that deployment.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Willing Chains's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the obligations begin arriving from districts the wielder has not worked, and the hold tightens before the blow lands.
 - Terminal state: Willing Chains's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not cut blindly; identify what each chain represents” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Willing Chains Lens field bearer encountered this source response: Cha
 
 ## SET RELATIONSHIP
 
-Within *Willing Chains — Witnessed Form*, Willing Chains Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Willing Chains — Witnessed Form*, Willing Chains Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a blow thrown without taking on a hold.
 
 ---
 

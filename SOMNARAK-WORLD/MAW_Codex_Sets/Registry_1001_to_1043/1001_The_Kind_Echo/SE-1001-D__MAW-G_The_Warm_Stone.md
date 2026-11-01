@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Kind Echo Source-Trace: Stigma Record*
 
-The first bearer of The Warm Stone encountered this source response: The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. The stigma discharges the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Warm Stone encountered this source response: The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. The stigma discharges the immediate hazard only after the team attributed it to The Kind Echo. A specialist carried a Stone for a decade and read the warmth instead of the gauge, and the Stone’s binding is the review that found the readings had been skipped.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Kind Echo's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the warmth arrives before the pressure, and the specialist is reassured by a reading nobody has taken.
 - Terminal state: The Kind Echo's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Complete one full Work Type cycle. Any work type succeeds.” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Warm Stone encountered this source response: The entity 
 
 ## SET RELATIONSHIP
 
-Within *The Kind Echo — Witnessed Form*, The Warm Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Kind Echo — Witnessed Form*, The Warm Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone’s resonance ends the moment its bearer checks the gauge instead of the hand.
 
 ---
 

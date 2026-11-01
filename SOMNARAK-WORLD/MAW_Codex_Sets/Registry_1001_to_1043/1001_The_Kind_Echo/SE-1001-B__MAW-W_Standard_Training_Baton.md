@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Kind Echo Source-Trace: Weapon Record*
 
-The first Standard Training Baton field bearer encountered this source response: The entity does not resist. It dims slightly, as if saddened by the aggression, then brightens again when the confrontation ends. It holds no grudge. The weapon stays the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Standard Training Baton field bearer encountered this source response: The entity does not resist. It dims slightly, as if saddened by the aggression, then brightens again when the confrontation ends. It holds no grudge. The weapon stays the immediate hazard only after the team attributed it to The Kind Echo. A trainee carried the Baton for a season and had to be retaught their grip before they were issued anything that mattered, and the Baton’s binding is the training note from that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Kind Echo's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unlearning begins before the issue, and the trainee grips live equipment the way the Baton taught them.
 - Terminal state: The Kind Echo's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Complete one full Work Type cycle. Any work type succeeds.” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Standard Training Baton field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *The Kind Echo — Witnessed Form*, Standard Training Baton performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Kind Echo — Witnessed Form*, Standard Training Baton performs the weapon role while the other pieces preserve attribution and survival. The Baton’s set holds on the practice floor alone; issued to a live watch it is inert, and the other pieces do not answer to it.
 
 ---
 

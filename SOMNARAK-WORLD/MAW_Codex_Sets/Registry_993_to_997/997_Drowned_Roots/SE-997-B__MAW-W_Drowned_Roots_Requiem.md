@@ -33,12 +33,12 @@ The Drowned Roots Requiem is the weapon record of the Drowned Roots set — γ-g
 
 ## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Weapon Record*
 
-The first Drowned Roots Requiem field bearer encountered this source response: Resists and burns with anger. The weapon severs the immediate hazard only after the team attributed it to Drowned Roots. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Drowned Roots Requiem field bearer encountered this source response: Resists and burns with anger. The weapon severs the immediate hazard only after the team attributed it to Drowned Roots. A wielder fought from the floor of a room that had no water in it and could not say when the depth had arrived, and the Requiem’s binding is the report filed from that bout.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Drowned Roots's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the water rises before the strike, and the second blow of a pair is thrown from deeper than the first.
 - Terminal state: Drowned Roots's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Drowned Roots Requiem field bearer encountered this source response: R
 
 ## SET RELATIONSHIP
 
-Within *Drowned Roots — Witnessed Form*, Drowned Roots Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Drowned Roots — Witnessed Form*, Drowned Roots Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a shot fired with the wielder’s feet under them.
 
 ---
 

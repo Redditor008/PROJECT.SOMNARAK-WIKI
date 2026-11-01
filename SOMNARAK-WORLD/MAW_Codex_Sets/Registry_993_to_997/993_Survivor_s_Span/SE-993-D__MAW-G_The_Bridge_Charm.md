@@ -32,12 +32,12 @@ The Bridge Charm is the stigma record of the Survivor's Span set — head-slot, 
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor's Span Source-Trace: Stigma Record*
 
-The first bearer of The Bridge Charm encountered this source response: Reveals the travelers lost in the collapse. The stigma interrupts the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Bridge Charm encountered this source response: Reveals the travelers lost in the collapse. The stigma interrupts the immediate hazard only after the team attributed it to Survivor's Span. A bearer crossed at the pace of the slowest person on the span and arrived last for the fourth time, and the Charm’s binding is the crossing log from that relief.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Survivor's Span's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pace is set by whoever is furthest behind, including people not on the bridge.
 - Terminal state: Survivor's Span's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Bridge Charm encountered this source response: Reveals t
 
 ## SET RELATIONSHIP
 
-Within *Survivor's Span — Witnessed Form*, The Bridge Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Survivor's Span — Witnessed Form*, The Bridge Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set on a crossing the bearer makes at their own speed.
 
 ---
 

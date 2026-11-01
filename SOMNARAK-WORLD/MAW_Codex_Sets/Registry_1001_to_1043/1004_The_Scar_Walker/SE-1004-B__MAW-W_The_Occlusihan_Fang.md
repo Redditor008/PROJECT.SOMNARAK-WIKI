@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Scar Walker Source-Trace: Weapon Record*
 
-The first bearer of The Occlusihan Fang encountered this source response: Treats aggression as desecration and attacks. The weapon contains the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Occlusihan Fang encountered this source response: Treats aggression as desecration and attacks. The weapon contains the immediate hazard only after the team attributed it to The Scar Walker. A wielder’s oldest scar split along its first line in a place that had been ruled on years before, and the Fang’s binding is the judgment entry from that case.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Scar Walker's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wounds and the verdicts stop being separable, and the wielder flinches at the paperwork as much as the knife.
 - Terminal state: The Scar Walker's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Show respect, salute its duty, and acknowledge its sacrifice” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Occlusihan Fang encountered this source response: Treats
 
 ## SET RELATIONSHIP
 
-Within *The Scar Walker — Witnessed Form*, The Occlusihan Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Scar Walker — Witnessed Form*, The Occlusihan Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow struck at a wound its wielder has never had ruled on.
 
 ---
 

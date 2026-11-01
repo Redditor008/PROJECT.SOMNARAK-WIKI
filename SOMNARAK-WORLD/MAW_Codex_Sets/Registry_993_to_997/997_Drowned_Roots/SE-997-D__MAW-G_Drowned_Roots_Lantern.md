@@ -32,12 +32,12 @@ The Drowned Roots Lantern is the stigma record of the Drowned Roots set — tail
 
 ## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Stigma Record*
 
-The first Drowned Roots Lantern field bearer encountered this source response: Reveals the soldier's erased history. The stigma opens the immediate hazard only after the team attributed it to Drowned Roots. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Drowned Roots Lantern field bearer encountered this source response: Reveals the soldier's erased history. The stigma opens the immediate hazard only after the team attributed it to Drowned Roots. A bearer remembered every person they had healed and nothing of being held, and the Lantern’s binding is the ward ledger from that season.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Drowned Roots's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the drinking reaches comforts the bearer never received, and the healing goes on without a wound in front of it.
 - Terminal state: Drowned Roots's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Drowned Roots Lantern field bearer encountered this source response: R
 
 ## SET RELATIONSHIP
 
-Within *Drowned Roots — Witnessed Form*, Drowned Roots Lantern performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Drowned Roots — Witnessed Form*, Drowned Roots Lantern performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set when the bearer is comforted and keeps it.
 
 ---
 

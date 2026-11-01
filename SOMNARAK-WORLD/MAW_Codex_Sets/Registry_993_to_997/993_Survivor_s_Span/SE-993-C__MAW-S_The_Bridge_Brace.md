@@ -33,12 +33,12 @@ The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Wei
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor's Span Source-Trace: Suit Record*
 
-The first bearer of The Bridge Brace encountered this source response: Tests whether the worker can stand beneath shared weight. The suit isolates the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Bridge Brace encountered this source response: Tests whether the worker can stand beneath shared weight. The suit isolates the immediate hazard only after the team attributed it to Survivor's Span. A wearer braced a wall for six hours and took the collapse into the wrist, and the Brace’s binding is the muster note from that relief.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Survivor's Span's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the leaning arrives in rooms with nothing to hold, and the wearer stands braced against air.
 - Terminal state: Survivor's Span's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Bridge Brace encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *Survivor's Span — Witnessed Form*, The Bridge Brace performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Survivor's Span — Witnessed Form*, The Bridge Brace performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can stand without bracing something; the first room that reads as a fall waiting, the Brace is out.
 
 ---
 

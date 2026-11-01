@@ -33,12 +33,12 @@ The Willing Chains Veil is the suit record of the Willing Chains set — β-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Willing Chains Source-Trace: Suit Record*
 
-The first Willing Chains Veil field bearer encountered this source response: Tests whether the worker can endure without accepting a false bond. The suit opens the immediate hazard only after the team attributed it to Willing Chains. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Willing Chains Veil field bearer encountered this source response: Tests whether the worker can endure without accepting a false bond. The suit opens the immediate hazard only after the team attributed it to Willing Chains. A wearer could not be removed from an agreement three seasons after making it, and the Veil’s binding is the minute of that meeting.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Willing Chains's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the binding reaches agreements the wearer only heard discussed, and rooms are tied to them by proximity.
 - Terminal state: Willing Chains's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not cut blindly; identify what each chain represents” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Willing Chains Veil field bearer encountered this source response: Tes
 
 ## SET RELATIONSHIP
 
-Within *Willing Chains — Witnessed Form*, Willing Chains Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Willing Chains — Witnessed Form*, Willing Chains Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still name one thing they have not agreed to; the first they cannot, the Veil is out.
 
 ---
 

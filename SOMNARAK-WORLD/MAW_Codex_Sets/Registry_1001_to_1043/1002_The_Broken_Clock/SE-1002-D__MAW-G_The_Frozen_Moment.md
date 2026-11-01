@@ -34,12 +34,12 @@ The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exa
 
 ## ITEM-SPECIFIC HISTORY — *The Broken Clock Source-Trace: Stigma Record*
 
-The first bearer of The Frozen Escapement Wheel encountered this source response: Reveals patterns in the loop's structure. The stigma redirects the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Escapement Wheel encountered this source response: Reveals patterns in the loop's structure. The stigma redirects the immediate hazard only after the team attributed it to The Broken Clock. A bearer paid eleven minutes out of a shift and could not account for them, and the Moment’s binding is the time sheet with the gap in it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Broken Clock's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wheel starts drawing minutes it has no record of, and the bearer’s age is entered twice with different answers.
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-044 -->
@@ -48,7 +48,7 @@ The first bearer of The Frozen Escapement Wheel encountered this source response
 
 ## SET RELATIONSHIP
 
-Within *The Broken Clock — Witnessed Form*, The Frozen Escapement Wheel performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Broken Clock — Witnessed Form*, The Frozen Escapement Wheel performs the stigma role while the other pieces preserve attribution and survival. The Moment drops out of the set on a use whose minutes the bearer gets back.
 
 ---
 

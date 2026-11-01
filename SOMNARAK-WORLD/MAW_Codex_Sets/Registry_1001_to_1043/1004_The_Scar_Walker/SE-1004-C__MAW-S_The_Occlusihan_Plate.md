@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Scar Walker Source-Trace: Suit Record*
 
-The first bearer of The Occlusihan Plate encountered this source response: Follows and tests the visitor's resolve without striking if respect is maintained. The suit discharges the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Occlusihan Plate encountered this source response: Follows and tests the visitor's resolve without striking if respect is maintained. The suit discharges the immediate hazard only after the team attributed it to The Scar Walker. A wearer could not be talked out of a first verdict three reviews later, and the Plate’s binding is the third review’s minute.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Scar Walker's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the certainty arrives before the evidence, and the body moves with a decision the wearer has not made yet.
 - Terminal state: The Scar Walker's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Show respect, salute its duty, and acknowledge its sacrifice” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Occlusihan Plate encountered this source response: Follo
 
 ## SET RELATIONSHIP
 
-Within *The Scar Walker — Witnessed Form*, The Occlusihan Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Scar Walker — Witnessed Form*, The Occlusihan Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one verdict can still be revised; the first that cannot, the Plate is out.
 
 ---
 

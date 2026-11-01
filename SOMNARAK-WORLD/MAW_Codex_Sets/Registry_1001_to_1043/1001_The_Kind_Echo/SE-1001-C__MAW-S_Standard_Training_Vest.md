@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Kind Echo Source-Trace: Suit Record*
 
-The first Standard Training Vest field bearer encountered this source response: The entity remains present and warm. The trainee endures its faint Lament field — which is so gentle that endurance is barely tested. The entity seems to appreciate the company. The suit contains the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Standard Training Vest field bearer encountered this source response: The entity remains present and warm. The trainee endures its faint Lament field — which is so gentle that endurance is barely tested. The entity seems to appreciate the company. The suit contains the immediate hazard only after the team attributed it to The Kind Echo. A worker kept the Vest on past the hall and stopped noticing when the pressure was real, and the Vest’s binding is the incident note from that shift.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Kind Echo's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the flatness spreads to gauges the worker is meant to be reading, and the readings stop arriving at all.
 - Terminal state: The Kind Echo's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Complete one full Work Type cycle. Any work type succeeds.” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Standard Training Vest field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *The Kind Echo — Witnessed Form*, Standard Training Vest performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Kind Echo — Witnessed Form*, Standard Training Vest performs the suit role while the other pieces preserve attribution and survival. The Vest keeps its set only while it is being trained in; worn on a live watch it protects nothing and the resonance lapses.
 
 ---
 

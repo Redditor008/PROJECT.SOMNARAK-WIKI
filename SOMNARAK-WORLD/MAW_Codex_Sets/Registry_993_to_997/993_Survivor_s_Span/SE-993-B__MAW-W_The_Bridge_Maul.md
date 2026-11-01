@@ -35,12 +35,12 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor's Span Source-Trace: Weapon Record*
 
-The first bearer of The Bridge Maul encountered this source response: Broken spans strike the tunnel walls. The weapon witnesses the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Bridge Maul encountered this source response: Broken spans strike the tunnel walls. The weapon witnesses the immediate hazard only after the team attributed it to Survivor's Span. A wielder finished a crossing further from the bank than they had started and could not walk back along the bridge, and the Orrery’s binding is the survey from that span.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Survivor's Span's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: each strike carries the wielder past the gap rather than across it, and the starting bank goes out of sight.
 - Terminal state: Survivor's Span's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Bridge Maul encountered this source response: Broken spa
 
 ## SET RELATIONSHIP
 
-Within *Survivor's Span — Witnessed Form*, The Bridge Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Survivor's Span — Witnessed Form*, The Bridge Maul performs the weapon role while the other pieces preserve attribution and survival. The Orrery leaves the set on a blow thrown from the bank its wielder began on.
 
 ---
 

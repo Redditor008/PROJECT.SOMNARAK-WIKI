@@ -33,12 +33,12 @@ The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Suit Record*
 
-The first Drowned Roots Shroud field bearer encountered this source response: Tests whether the worker can remain beneath its branches. The suit uncouples the immediate hazard only after the team attributed it to Drowned Roots. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Drowned Roots Shroud field bearer encountered this source response: Tests whether the worker can remain beneath its branches. The suit uncouples the immediate hazard only after the team attributed it to Drowned Roots. A wearer took an hour to register a grief told to them directly and did not notice the delay, and the Shroud’s binding is the note made at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Drowned Roots's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the delay lengthens past the shift, and the wearer is told about their own losses days after them.
 - Terminal state: Drowned Roots's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Drowned Roots Shroud field bearer encountered this source response: Te
 
 ## SET RELATIONSHIP
 
-Within *Drowned Roots — Witnessed Form*, Drowned Roots Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Drowned Roots — Witnessed Form*, Drowned Roots Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing in the room reaches the wearer sharply; the first shift where nothing does, the Shroud is out.
 
 ---
 

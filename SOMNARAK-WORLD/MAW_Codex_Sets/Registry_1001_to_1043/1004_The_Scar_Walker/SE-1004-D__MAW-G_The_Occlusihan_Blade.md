@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Scar Walker Source-Trace: Stigma Record*
 
-The first bearer of The Occlusihan Blade encountered this source response: Watches the observer, allowing study from a respectful distance. The stigma redirects the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Occlusihan Blade encountered this source response: Watches the observer, allowing study from a respectful distance. The stigma redirects the immediate hazard only after the team attributed it to The Scar Walker. A bearer carried the Occlusihan’s fury out of a fight and set it down on the nearest person, and the Blade’s binding is the complaint filed after that evening.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Scar Walker's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the fury arrives before the fight and settles on whoever is nearest, whether or not the case concerns them.
 - Terminal state: The Scar Walker's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Show respect, salute its duty, and acknowledge its sacrifice” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Occlusihan Blade encountered this source response: Watch
 
 ## SET RELATIONSHIP
 
-Within *The Scar Walker — Witnessed Form*, The Occlusihan Blade performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Scar Walker — Witnessed Form*, The Occlusihan Blade performs the stigma role while the other pieces preserve attribution and survival. The Blade drops out of the set on a day the bearer’s anger is their own.
 
 ---
 

@@ -35,12 +35,12 @@ The head mounts a 38cm anchor escapement wheel with four broken teeth that expos
 
 ## ITEM-SPECIFIC HISTORY — *The Broken Clock Source-Trace: Weapon Record*
 
-The first bearer of The Shattered Escapement-Cudgel encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Shattered Escapement-Cudgel encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to The Broken Clock. A wielder came out of a season with hands older than the rest of them, and the Frozen Maul’s binding is the medical note from that return.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Broken Clock's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the time comes out of the middle of the day rather than its end, and the wielder loses hours they were standing in.
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-044 -->
@@ -49,7 +49,7 @@ The first bearer of The Shattered Escapement-Cudgel encountered this source resp
 
 ## SET RELATIONSHIP
 
-Within *The Broken Clock — Witnessed Form*, The Shattered Escapement-Cudgel performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Broken Clock — Witnessed Form*, The Shattered Escapement-Cudgel performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that costs its wielder nothing they can measure.
 
 ---
 

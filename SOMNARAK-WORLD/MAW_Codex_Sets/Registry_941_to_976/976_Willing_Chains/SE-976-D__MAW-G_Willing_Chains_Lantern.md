@@ -32,12 +32,12 @@ The Willing Chains Lantern is the stigma record of the Willing Chains set — he
 
 ## ITEM-SPECIFIC HISTORY — *The Willing Chains Source-Trace: Stigma Record*
 
-The first Willing Chains Lantern field bearer encountered this source response: Reveals what each chain binds. The stigma stabilizes the immediate hazard only after the team attributed it to Willing Chains. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Willing Chains Lantern field bearer encountered this source response: Reveals what each chain binds. The stigma stabilizes the immediate hazard only after the team attributed it to Willing Chains. A bearer answered a chain that belonged to somebody in the next room, and the Lantern’s binding is the response log from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Willing Chains's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the visible bonds start feeling like the bearer’s before they are read, and the room’s obligations are taken up on sight.
 - Terminal state: Willing Chains's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not cut blindly; identify what each chain represents” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Willing Chains Lantern field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Willing Chains — Witnessed Form*, Willing Chains Lantern performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Willing Chains — Witnessed Form*, Willing Chains Lantern performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set when the bearer lets one visible chain stand unanswered.
 
 ---
 

@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 94)
+
+`SE-976` Willing Chains, `SE-993` Bridge, `SE-997` Drowned Roots, `SE-1001` Kind Echo, `SE-1002` Broken Clock, `SE-1004` Scar Walker — **eighteen records, fifty-four sentences.**
+
+**The Kind Echo was the one set that could not be written the usual way.** Its three cost lines all say the same thing — *None meaningful* — because it is the training dummy, inert by design. A binding written from a cost that does not exist would be an invention, so the three pieces state what is actually true of them: the Baton's set holds on the practice floor alone and does not answer outside it, the Vest keeps resonance only while it is being trained in, and the Warm Stone's ends the moment its bearer checks the gauge instead of the hand. That is the exemption `C-Iα-000` already carries, written into the sentences rather than around them.
+
+The other five read straight off their cost lines: the Willing Chains Veil holds while the wearer can still name one thing they have not agreed to; the Bridge Charm drops out on a crossing the bearer makes at their own speed; the Occlusihan Plate keeps resonance while one verdict can still be revised.
+
+**228 of 345 done. 117 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 93)
 
 `SE-949` Stormscale, `SE-954` Sleeping, `SE-959` Uprooted, `SE-965` Unheard, `SE-967` Relic, `SE-973` Torn — **eighteen records, fifty-four sentences.** The Uprooted set is the cleanest here: every round is fired from where the wielder used to stand, so the Requiem's binding is the billet record of a posting they can no longer return to, and it loses the set on a shot fired from where they are standing now. The Unheard Plate keeps resonance while its wearer can still describe one thing that happened to them, and the Relic Charm drops out the moment something is written down with the bearer still in it.
