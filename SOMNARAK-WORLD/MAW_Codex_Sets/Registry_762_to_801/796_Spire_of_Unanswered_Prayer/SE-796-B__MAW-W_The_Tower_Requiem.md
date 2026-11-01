@@ -31,7 +31,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Spire of Unanswered Prayer's source sorrow feel autobiographical.
+**Operational / binding cost:** The strike rings a note the community never finished: each blow makes the wielder hear one more unanswered request. Wielded long, they answer everything and finish nothing.
 
 ## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Weapon Record*
 

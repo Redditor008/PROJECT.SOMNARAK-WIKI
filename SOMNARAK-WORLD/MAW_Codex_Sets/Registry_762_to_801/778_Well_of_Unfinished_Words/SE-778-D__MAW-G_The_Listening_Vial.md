@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Listening Vial is the stigma record of the Well of Unfinished Words’ set — tail- slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its ability answers the source wound: it preserves one spoken testimony without interruption, one account carried whole from speaker to record — what the dispersed mourners were never granted. Binding names the source event — border mourners gathered to speak of the dead but were dispersed before anyone finished, their words sinking into the ground — and accepts the set’s limit: allow testimony to finish; do not drain the Well. The cost shadows the ability: the wearer hears the testimony whenever the vial is closed, the words replaying against the stopper, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the grief embedded in the water, uncoupling the immediate hazard only after attribution to the Well — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Listening Vial is the stigma record of the Well of Unfinished Words’ set — tail- slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its ability answers the source wound: it preserves one spoken testimony without interruption, one account carried whole from speaker to record — what the dispersed mourners were never granted. Binding names the source event — border mourners gathered to speak of the dead but were dispersed before anyone finished, their words sinking into the ground — and accepts the set’s limit: allow testimony to finish; do not drain the Well. The cost is the content: a voice goes into the Vial and the bearer keeps only the fact of being trusted with it, until their memory is all confidences and no words. The source-trace fixed doctrine: the stigma reveals the grief embedded in the water, uncoupling the immediate hazard only after attribution to the Well — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer hears the testimony whenever the vial is closed. Continued use makes Well of Unfinished Words's source sorrow feel autobiographical.
+**Operational / binding cost:** The Vial keeps a testimony whole and keeps it from the bearer: once a voice is in it, the wearer cannot remember what was said, only that they were trusted with it. Filled often, the bearer's memory is all confidences and no content.
 
 ## ITEM-SPECIFIC HISTORY — *The Well of Unfinished Words Source-Trace: Stigma Record*
 

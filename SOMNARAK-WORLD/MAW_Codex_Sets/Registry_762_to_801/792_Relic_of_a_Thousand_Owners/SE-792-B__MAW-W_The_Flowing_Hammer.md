@@ -31,7 +31,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels every exile carried by the weapon. Continued use makes Relic of a Thousand Owners's source sorrow feel autobiographical.
+**Operational / binding cost:** The Falchion slows a feeling by handing it on: each strike passes the wielder's momentum to the blade, and the blade keeps it. Wielded long, the wielder cannot start anything.
 
 ## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Weapon Record*
 

@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Burning Plate is the suit record of Last Fruit’s set, granting resistance to Grudge damage and protecting the Body against the pressure of an ignited, denied longing. Binding is testimonial: the wearer names Last Fruit’s event — a child was forbidden the last fruit from a dying tree, and the denied longing ignited into a figure — and accepts the set’s limit: name the desire; do not promise to fulfill it. The operational cost is the Grudge standard for armor: the wearer’s reflexes dull, as if armored by resentment, and continued use makes the sorrow feel autobiographical — the forbidden fruit reappearing in the wearer’s own inventory of refusals. The source- trace set the doctrine: the suit tests whether the worker can remain near what they want but cannot have — proximity to desire held without promise — and it isolated the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Burning Plate is the suit record of Last Fruit’s set, granting resistance to Grudge damage and protecting the Body against the pressure of an ignited, denied longing. Binding is testimonial: the wearer names Last Fruit’s event — a child was forbidden the last fruit from a dying tree, and the denied longing ignited into a figure — and accepts the set’s limit: name the desire; do not promise to fulfill it. The cost is the reach: the Plate stops the blow and the wanting together, and a season of wear leaves the wearer never reaching for anything. The source- trace set the doctrine: the suit tests whether the worker can remain near what they want but cannot have — proximity to desire held without promise — and it isolated the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Burning Plate is the suit record of Last Fruit’s set, granting resistance 
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Last Fruit's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate armours the body in refusal: it stops the blow and makes the wearer unable to want anything they cannot have. Worn long, they stop reaching.
 
 ## ITEM-SPECIFIC HISTORY — *The Last Fruit Source-Trace: Suit Record*
 

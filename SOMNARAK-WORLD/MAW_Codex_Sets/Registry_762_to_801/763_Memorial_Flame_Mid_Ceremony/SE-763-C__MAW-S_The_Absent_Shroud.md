@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Extinguished Mourner's Shroud is the suit record of Memorial Flame Mid-Ceremony’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a mourning interrupted and never resumed. Binding is testimonial: the wearer names the source event — a memorial flame extinguished during an Alpha Tree evacuation, the mourners scattered before the ceremony could finish — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The operational cost is numbness to minor joys, and continued use makes the source sorrow feel autobiographical — the unfinished ceremony entering the wearer’s calendar of debts. The first field bearer’s source-trace set the doctrine: the suit tests whether the worker can mourn without a visible object — grief practiced against darkness — and it stabilized the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Extinguished Mourner's Shroud is the suit record of Memorial Flame Mid-Ceremony’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a mourning interrupted and never resumed. Binding is testimonial: the wearer names the source event — a memorial flame extinguished during an Alpha Tree evacuation, the mourners scattered before the ceremony could finish — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The cost is the unfinished sentence: feelings begin in the wearer and complete nowhere, and a season of it fills a drawer with letters nobody was meant to send. The first field bearer’s source-trace set the doctrine: the suit tests whether the worker can mourn without a visible object — grief practiced against darkness — and it stabilized the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Extinguished Mourner's Shroud is the suit record of Memorial Flame Mid-Cerem
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Memorial Flame Mid-Ceremony's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud keeps the mind still by keeping it unfinished: worn, the wearer begins every feeling and completes none. Worn long, they have a full drawer of unsent letters and no memory of writing them.
 
 ## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Suit Record*
 

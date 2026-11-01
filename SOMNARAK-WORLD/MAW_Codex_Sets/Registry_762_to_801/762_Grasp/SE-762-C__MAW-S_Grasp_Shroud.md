@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Grasp Shroud is the suit record of Grasp’s set, granting resistance to Lament damage and protecting the Mind against the source’s pressure: the pull of an impossible rescue, the call that can be neither answered nor ignored. Binding is testimonial: the wearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer kept calling across the gap until the calls became a burning figure — and accepts the set’s limit: do not promise rescue; acknowledge the limits of one person. The operational cost is numbness to minor joys, and continued use makes the source sorrow feel autobiographical — the rescuer’s vigil misfiling itself as the wearer’s memory. The first field bearer’s source-trace set the doctrine: the suit tests whether the worker can remain near impossible rescue, and it witnessed the immediate hazard only after the team attributed it to Grasp; treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from describing Grasp’s event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the wearer as its new site. Violating the limit reverses the benefit and raises the source Gauge.
+The Grasp Shroud is the suit record of Grasp’s set, granting resistance to Lament damage and protecting the Mind against the source’s pressure: the pull of an impossible rescue, the call that can be neither answered nor ignored. Binding is testimonial: the wearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer kept calling across the gap until the calls became a burning figure — and accepts the set’s limit: do not promise rescue; acknowledge the limits of one person. The cost is the distance: everything reaches the wearer through a bridge that is no longer there, and a season of wear teaches them to stop expecting answers. The first field bearer’s source-trace set the doctrine: the suit tests whether the worker can remain near impossible rescue, and it witnessed the immediate hazard only after the team attributed it to Grasp; treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from describing Grasp’s event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the wearer as its new site. Violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Grasp Shroud is the suit record of Grasp’s set, granting resistance to Lam
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Grasp's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud muffles the mind against Lament by standing in the gap itself: worn, the wearer hears everything at one remove, as if across a bridge that is no longer there. Worn long, they stop expecting answers.
 
 ## ITEM-SPECIFIC HISTORY — *The Grasp Source-Trace: Suit Record*
 

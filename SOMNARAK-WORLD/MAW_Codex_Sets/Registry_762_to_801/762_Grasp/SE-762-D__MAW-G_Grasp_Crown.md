@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Grasp Crown is the stigma record of Grasp’s set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its ability is the set’s gentlest: healing minor wounds through warm sorrow. Binding is testimonial: the bearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer continued calling across the gap until the calls became a burning figure — and accepts the set’s limit: do not promise rescue; acknowledge the limits of one person. The operational cost is its shadow: the wearer feels the rage of every failed rescue, and continued use makes the source sorrow feel autobiographical. The first field bearer’s source-trace fixed the doctrine: the stigma reveals the failed rescue and its victims, and it isolated the immediate hazard only after the team attributed it to Grasp — treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from describing the event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Grasp Crown is the stigma record of Grasp’s set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its ability is the set’s gentlest: healing minor wounds through warm sorrow. Binding is testimonial: the bearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer continued calling across the gap until the calls became a burning figure — and accepts the set’s limit: do not promise rescue; acknowledge the limits of one person. The cost is the voice: each wound it warms takes a little of the bearer's, and a season of carrying it leaves them unable to raise it at all. The first field bearer’s source-trace fixed the doctrine: the stigma reveals the failed rescue and its victims, and it isolated the immediate hazard only after the team attributed it to Grasp — treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from describing the event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels the rage of every failed rescue. Continued use makes Grasp's source sorrow feel autobiographical.
+**Operational / binding cost:** The Crown heals by warming the wound with somebody else's insistence: each closing takes a little of the bearer's voice. Carried long, the bearer can no longer raise their voice at all.
 
 ## ITEM-SPECIFIC HISTORY — *The Grasp Source-Trace: Stigma Record*
 

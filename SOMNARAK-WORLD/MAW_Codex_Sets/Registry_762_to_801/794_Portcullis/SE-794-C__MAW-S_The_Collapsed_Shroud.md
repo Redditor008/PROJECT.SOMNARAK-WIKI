@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Collapsed Shroud is the suit record of Portcullis’ set, granting resistance to Lament damage and protecting the Mind against the pressure of a door that closed with people on both sides. Binding is testimonial: the wearer names Portcullis’ event — a tunnel collapse sealed a door while people were still on both sides of it — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the sealed threshold installing itself among the wearer’s own unfinished goodbyes. The source- trace set the doctrine: the suit tests whether the worker can remain at a blocked threshold — presence held where passage is impossible, the station the collapse forced on everyone — and it stayed the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Collapsed Shroud is the suit record of Portcullis’ set, granting resistance to Lament damage and protecting the Mind against the pressure of a door that closed with people on both sides. Binding is testimonial: the wearer names Portcullis’ event — a tunnel collapse sealed a door while people were still on both sides of it — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the door: the wearer can shut a feeling behind them, and it waits on the other side; a season of shutting leaves none of them openable alone. The source- trace set the doctrine: the suit tests whether the worker can remain at a blocked threshold — presence held where passage is impossible, the station the collapse forced on everyone — and it stayed the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Collapsed Shroud is the suit record of Portcullis’ set, granting resistanc
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Portcullis's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud protects the mind by putting a door in it: worn, the wearer can shut a feeling behind them for a while, and it waits on the other side. Worn long, they have shut so many that they cannot open one without letting the rest through.
 
 ## ITEM-SPECIFIC HISTORY — *The Portcullis Source-Trace: Suit Record*
 

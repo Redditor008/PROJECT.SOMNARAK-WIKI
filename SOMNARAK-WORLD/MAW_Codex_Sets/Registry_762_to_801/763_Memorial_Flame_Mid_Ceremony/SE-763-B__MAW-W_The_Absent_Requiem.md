@@ -31,7 +31,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Memorial Flame Mid-Ceremony's source sorrow feel autobiographical.
+**Operational / binding cost:** The Bodkin strikes the way a flame is put out — quickly, and by taking the air: each hit leaves the wielder silent for a breath, exactly long enough for someone else to finish the sentence. Wielded long, the wielder's own words arrive last.
 
 ## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Weapon Record*
 

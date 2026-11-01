@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The 762–801 set closes
+
+All thirty-nine item records in `Registry_762_to_801` now carry a cost written for the piece that charges it. Every one of the thirteen sets in the range is complete: grasp, memorial flame, swallow, cleaved, last fruit, the well, miscast, flotsam, the garden stone, the thousand-owner relic, the portcullis, the spire, and the mirror.
+
+The range had the same defect as `043_to_055`: one shared tail and six shared first clauses. What replaces it is read off the ability. The Collapsed Shroud puts a door in the mind and the shut feeling waits on the other side; the Torn Keystone holds a falling house and not its own name; the Rage Plate holds the wearer's anger against the inside of the plate until it is warm to the touch and the wearer is pleasant.
+
+Thirty-one of the thirty-nine also restated the old cost in the Appearance paragraph. Those sentences are rewritten with the field.
+
+**Left:** 255 records across `863_to_897`, `900_to_930`, `941_to_976`, and `1001_to_1043`.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## Thirty item costs that belong to their item
 
 The codex item records carried one sentence between them: *Continued use makes {{entity}}'s source sorrow feel autobiographical.* Three hundred and forty-five records, one tail. It said nothing about the piece it was attached to — a flintlock and a sleeping-pillow charged the same price — and the guide retired it two passes ago without the archive following.

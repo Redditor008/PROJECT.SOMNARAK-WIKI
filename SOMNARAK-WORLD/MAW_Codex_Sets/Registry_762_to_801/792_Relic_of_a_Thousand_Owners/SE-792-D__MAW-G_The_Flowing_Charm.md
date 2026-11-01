@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Flowing Charm is the stigma record of the Relic of a Thousand Owners’ set — tail- slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to the Relic’s sorrow, shaped like the wandering it embodies. Binding names the source event — a relic passed from one exile to another until its history became a wandering figure — and accepts the set’s limit: do not claim ownership; document its owners. The cost arrives at night: the bearer weeps in their sleep, the carried exiles grieving on their own schedule, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the chain of exiles who carried it — the full succession of hands made visible, exactly what the limit demands documented — and it marked the immediate hazard only after attribution to the Relic. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Flowing Charm is the stigma record of the Relic of a Thousand Owners’ set — tail- slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to the Relic’s sorrow, shaped like the wandering it embodies. Binding names the source event — a relic passed from one exile to another until its history became a wandering figure — and accepts the set’s limit: do not claim ownership; document its owners. The cost is the belonging: the Charm endears the bearer to whoever is nearest and never to themselves, and a season of it leaves them belonging to every room and to none. The source-trace fixed doctrine: the stigma reveals the chain of exiles who carried it — the full succession of hands made visible, exactly what the limit demands documented — and it marked the immediate hazard only after attribution to the Relic. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer weeps in their sleep. Continued use makes Relic of a Thousand Owners's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm makes the bearer easy to hand on: held, it endears them to whoever they are nearest and not to themselves. Carried long, the bearer belongs to every room and to no one.
 
 ## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Stigma Record*
 

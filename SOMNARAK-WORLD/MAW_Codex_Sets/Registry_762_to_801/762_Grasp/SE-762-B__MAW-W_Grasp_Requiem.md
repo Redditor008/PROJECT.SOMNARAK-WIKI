@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Grasp Requiem is the weapon record of Grasp’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer continued calling across the gap until the calls became a burning figure — and accepts the limit that defines the whole set: do not promise rescue; acknowledge the limits of one person. The operational cost is the Lament standard at full intensity: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the source sorrow feel autobiographical. The first field bearer’s source-trace fixed the doctrine: when fire rose and the Bridge lashed outward, the weapon marked the immediate hazard only after the team attributed it to Grasp — and treating the response as the bearer’s own story reproduced the source wound, establishing the present binding rule. Corrosion runs from the bearer describing Grasp’s event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site. Violating the limit reverses the weapon’s benefit and raises the source Gauge.
+The Grasp Requiem is the weapon record of Grasp’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer continued calling across the gap until the calls became a burning figure — and accepts the limit that defines the whole set: do not promise rescue; acknowledge the limits of one person. The cost is the unanswered call: the strike carries the wielder's voice across a gap and brings back only the not-answering, and a season of it leaves them calling after the fight has ended. The first field bearer’s source-trace fixed the doctrine: when fire rose and the Bridge lashed outward, the weapon marked the immediate hazard only after the team attributed it to Grasp — and treating the response as the bearer’s own story reproduced the source wound, establishing the present binding rule. Corrosion runs from the bearer describing Grasp’s event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site. Violating the limit reverses the weapon’s benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Grasp Requiem is the weapon record of Grasp’s set, a Lament instrument att
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Grasp's source sorrow feel autobiographical.
+**Operational / binding cost:** Every call the wielder makes with it is a call into a gap that does not answer: the strike carries their voice across, and what comes back is the not-answering. Wielded long, the wielder keeps calling after the fight ends.
 
 ## ITEM-SPECIFIC HISTORY — *The Grasp Source-Trace: Weapon Record*
 

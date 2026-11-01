@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Torn Charm is the stigma record of Miscast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Miscast’s sorrow, the artifact’s residue returning a usefulness shaped like its grievance. Binding is testimonial: the bearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is behavioral: the bearer’s temper shortens, the fragments’ impatience leaking into the carrier, and continued use makes the sorrow feel autobiographical. The source-trace fixed the doctrine: the stigma reveals its former function — the purpose the failed extraction interrupted — and it stayed the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Torn Charm is the stigma record of Miscast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Miscast’s sorrow, the artifact’s residue returning a usefulness shaped like its grievance. Binding is testimonial: the bearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the grievance: the Charm quiets the anger at whatever stopped the work, and a season of carrying it leaves the bearer mislaying their complaints and keeping the jobs. The source-trace fixed the doctrine: the stigma reveals its former function — the purpose the failed extraction interrupted — and it stayed the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer's temper shortens. Continued use makes Miscast's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm offers the comfort of the almost-finished: held, it quiets the bearer's anger at whatever stopped them. Carried long, they mislay their grievances and keep the jobs.
 
 ## ITEM-SPECIFIC HISTORY — *The Miscast Source-Trace: Stigma Record*
 

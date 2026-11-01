@@ -31,7 +31,7 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Tear Too Small to Honor's source sorrow feel autobiographical.
+**Operational / binding cost:** The Awl punctures what people keep flat: each strike opens a grief the wielder had pressed down. Wielded long, the wielder has no surface left to hide anything under.
 
 ## ITEM-SPECIFIC HISTORY — *The Tear Too Small to Honor Source-Trace: Weapon Record*
 

@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Tower Shroud is the suit record of the Spire of Unanswered Prayer’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a community’s song outliving the community. Binding is testimonial: the wearer names the source event — a Desolate community vanished beneath a Han surge, and survivors carried its tower-song into the city — and accepts the set’s limit: listen to the song; do not silence it. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the vanished settlement claiming a place in the wearer’s own past. The source-trace set the doctrine: the suit tests whether the worker can remain beneath the falling grief — standing under the song’s weight as it comes down, sheltered but not exempted — and it opened the immediate hazard only after the team attributed it to the Spire. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Tower Shroud is the suit record of the Spire of Unanswered Prayer’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a community’s song outliving the community. Binding is testimonial: the wearer names the source event — a Desolate community vanished beneath a Han surge, and survivors carried its tower-song into the city — and accepts the set’s limit: listen to the song; do not silence it. The cost is the height: the wearer stays dry and hears the water from up here, and a season of it stops them going down to help. The source-trace set the doctrine: the suit tests whether the worker can remain beneath the falling grief — standing under the song’s weight as it comes down, sheltered but not exempted — and it opened the immediate hazard only after the team attributed it to the Spire. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Tower Shroud is the suit record of the Spire of Unanswered Prayer’s set, g
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Spire of Unanswered Prayer's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud holds the mind above the surge: worn, the wearer stays dry and hears the water from up here. Worn long, they stop going down to help.
 
 ## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Suit Record*
 

@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Torn Keystone is the stigma record of Cleaved’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is the set’s constructive turn: it stabilizes damaged structures and reveals hidden architectural weaknesses, the unfinished tower’s expertise lent to salvageable buildings. Binding names Cleaved’s event — a tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan — and accepts the set’s limit: do not complete the structure; document what was intended and lost. The operational cost follows the ability: the user feels every abandoned plan connected to the structure, each wall invoiced in outlived intentions, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the planned building and the people who would have lived there, and it severed the immediate hazard only after attribution to Cleaved — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Torn Keystone is the stigma record of Cleaved’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is the set’s constructive turn: it stabilizes damaged structures and reveals hidden architectural weaknesses, the unfinished tower’s expertise lent to salvageable buildings. Binding names Cleaved’s event — a tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan — and accepts the set’s limit: do not complete the structure; document what was intended and lost. The cost is the bearing: every wall it steadies takes one certainty about the wearer's own shape, until they can hold a falling house and not their own name. The source-trace fixed doctrine: the stigma reveals the planned building and the people who would have lived there, and it severed the immediate hazard only after attribution to Cleaved — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The user feels every abandoned plan connected to the structure. Continued use makes Cleaved's source sorrow feel autobiographical.
+**Operational / binding cost:** The Keystone steadies a structure and takes its bearings from the bearer: each stabilization costs the wearer one certainty about their own shape. Used long, they can hold a falling wall and not their own name.
 
 ## ITEM-SPECIFIC HISTORY — *The Cleaved Source-Trace: Stigma Record*
 

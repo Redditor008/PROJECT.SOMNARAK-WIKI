@@ -31,7 +31,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Mirror of Soaking's source sorrow feel autobiographical.
+**Operational / binding cost:** The Brazier burns what was swallowed: each strike spends a grievance the wielder kept quiet, and they remember it afterwards. Wielded long, the wielder is missing the reasons they ever stayed polite.
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Weapon Record*
 

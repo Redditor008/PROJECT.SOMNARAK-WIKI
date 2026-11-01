@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Purple Wick Stigma is the stigma record of Memorial Flame Mid-Ceremony’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its ability completes the set’s logic: revealing hidden grief in a darkened space, as the lost memorial once did for its mourners. Binding is testimonial: the bearer names the source event — a memorial flame extinguished during an Alpha Tree evacuation, the ceremony never completed — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The operational cost follows the light: the user carries the grief revealed after the light fades, and continued use makes the source sorrow feel autobiographical. The source-trace fixed the doctrine: the stigma reveals the memorial and its tenders, and it severed the immediate hazard only after the team attributed it to the source — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Purple Wick Stigma is the stigma record of Memorial Flame Mid-Ceremony’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its ability completes the set’s logic: revealing hidden grief in a darkened space, as the lost memorial once did for its mourners. Binding is testimonial: the bearer names the source event — a memorial flame extinguished during an Alpha Tree evacuation, the ceremony never completed — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The cost is the dark: every grief it shows the bearer burns a little of their own night, and a season of carrying it leaves them sleeping only in lit rooms. The source-trace fixed the doctrine: the stigma reveals the memorial and its tenders, and it severed the immediate hazard only after the team attributed it to the source — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The user carries the grief revealed after the light fades. Continued use makes Memorial Flame Mid-Ceremony's source sorrow feel autobiographical.
+**Operational / binding cost:** The Wick shows grief in the dark and spends itself showing it: each revelation burns a little of the bearer's own night. Carried long, the bearer sleeps only in lit rooms.
 
 ## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Stigma Record*
 

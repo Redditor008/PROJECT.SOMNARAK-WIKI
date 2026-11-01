@@ -31,7 +31,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Well of Unfinished Words's source sorrow feel autobiographical.
+**Operational / binding cost:** The Sceptre strikes in the middle of things: each blow interrupts the wielder's own sentence. Wielded long, they have not finished a thought since they took it up.
 
 ## ITEM-SPECIFIC HISTORY — *The Well of Unfinished Words Source-Trace: Weapon Record*
 

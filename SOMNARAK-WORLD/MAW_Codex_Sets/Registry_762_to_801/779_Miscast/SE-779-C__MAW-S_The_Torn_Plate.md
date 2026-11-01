@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Torn Plate is the suit record of Miscast’s set, granting resistance to Grudge damage and protecting the Body against the pressure of fragments that remember an unfinished task. Binding is testimonial: the wearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Grudge standard for armor: the wearer’s reflexes dull, as if armored by resentment, and continued use makes the sorrow feel autobiographical — the failed extraction replaying as if it had been the wearer’s own error. The source-trace set the doctrine: the suit tests the worker’s patience with repeated failed reunions — the fragments attempting and missing reassembly, the wearer enduring each miss — and it redirected the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Torn Plate is the suit record of Miscast’s set, granting resistance to Grudge damage and protecting the Body against the pressure of fragments that remember an unfinished task. Binding is testimonial: the wearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the nearness: the Plate convinces the wearer the job is nearly done, and a season of wear leaves them never putting it down. The source-trace set the doctrine: the suit tests the worker’s patience with repeated failed reunions — the fragments attempting and missing reassembly, the wearer enduring each miss — and it redirected the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Torn Plate is the suit record of Miscast’s set, granting resistance to Gru
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Miscast's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate holds the body together the way a failed casting holds its shape: it stops the blow and leaves the wearer convinced the job is nearly complete. Worn long, they never stop.
 
 ## ITEM-SPECIFIC HISTORY — *The Miscast Source-Trace: Suit Record*
 
