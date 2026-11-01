@@ -8,6 +8,27 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Ten relic dossiers stop claiming Transform (2026-11-01)
+
+All ten of these carried `Can breach via Transform` in the `Entity Type` cell while the body of the same file said the opposite. Their neighbours in the queue had a `## Breach Behavior` section to argue with; these ten have none at all. They document activation only, which is R-28 first evidence test, and the cell had been generator output since the file was written.
+
+| Dossier | What its own text had been saying all along |
+|---|---|
+| [Broken Whisper](SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md) | *nothing escapes here and nothing needs to* |
+| [Sehnsucht](SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-476_Sehnsucht_가라앉은_눈물.md) | *failure here is not a breach. It is depth* |
+| [Door to Nowhere](SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-922_Door_to_Nowhere_솟아오른_문.md) | *an unresolved appearance does not breach. The door simply withdraws* |
+| [Frozen Mirror](SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-643_Frozen_Mirror_얼어붙은_거울.md) | *without resolution it does not escape; it transforms* |
+| [Forgotten Tear](SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-709_Forgotten_Tear_잊혀진_눈물.md) | *there is no breach counter and nothing to escape* |
+| [Quagmire](SOMNARAK-WORLD/Sorrow_Entities/SE-O-IVδ-168_Quagmire_무너진_흔적.md) | *no pursuit, no breach counter, one injury in the record* |
+
+**What changed.** The cell now states the category with that dossier own evidence: the drift that stays in the underground Han currents, the line that does not move while the ground under it does, the judged area that travels while the crystal stays on its stand. Each file gains a `Special activation — no counter` callout at the head of its activation section, written from its own mechanism rather than a stock sentence. Four prose lines that still called the change of state *the breach type on the classification* now call it the event type, and two that called an escalation *not the standard breach event* now call it the containment event.
+
+**Codex rows synced** where a Side Codex exists and carried the same claim: Door to Nowhere, Shard of a Broken Promise and Portcullis, each from *Activation only* to *Non-breaching: activation only*. Five of the ten have no Side Codex at all, and the other two, Sehnsucht and Quagmire, never wrote a breach type into the codex to begin with, which is why the sync is three and not ten.
+
+**Where this leaves the relic set:** 92.8 per cent of the 83 relic dossiers are now non-breaching, and four still claim a breach: Duri Heart, Grimoire, Glass Elsewhere and Lacrima, all of which carry a real `## Breach Behavior` section and need a whole read rather than a cell change.
+
+**Checks:** `breach` RE 92.8 %, SE 42.1 %, OP 57.5 %; floors met; non-breaching overall **175 / 301**. `wikistd` 301/301; `label_lint` 301; `check_stat_bands` PASS; `check_links` 0 broken.
+
 ## Two more possessions, and the rule about leaving a file alone (2026-11-01)
 
 Owner: *"If any SE is not fixed, make sure it is because nothing needs changing — not because you are waiting for my answer, and not because you are lazily holding it."*
