@@ -157,8 +157,8 @@ Feu Follet is a Subject with Subject-Mind manifestation and Lament expression, h
 |---|---|
 | **Event Type** | Corrupt |
 | **Movement** | Feu Follet intensifies in place, warping the containment zone outward. It ignites personnel with sorrow-fire. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
+| **Effect** | The flame appears over the water and its face belongs to whoever is looking. Composure drains not from fear but from the interval between seeing somebody loved and seeing them made of will-o'-the-wisp. |
+| **Secondary Effect** | The flame is over the water and the wail comes off the far bank, which is empty. What fractures is the worker's certainty about which side of the water they are standing on. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 

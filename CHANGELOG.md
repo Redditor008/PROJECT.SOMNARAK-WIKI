@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Breach rows that read like the holding they belong to (2026-11-01)
+
+**Forty-six Movement rows had one of two sentences.** Thirty files said *"Mobile — walks upright; can breach and pursue."* and sixteen said *"Mobile — drifts or flows through the area"* or *"moves as a creature (crawls, walks, slithers, or prowls)"*. The 26 files of the first group all carried a bespoke breach-movement row further down the same page, and in at least two cases that row said the opposite of the boilerplate: *Rising Wall* is described as standing beside grief and never pursuing, *Gavel* as walking to the room where a decision is being made and standing there. Every Movement row now says what the holding actually does, in the file's own terms — the Six-Fold Choir walks its route and stops at whoever is carrying the most, the Gavel walks and stands, the Barrier of Nothing walks out and is not recorded pursuing anything.
+
+**Six secondary `Position / movement` rows** in the Detailed Appearance Profile said the same stock things and now match the primary row.
+
+**Five stock breach Effects** — *"The air fills with audible weeping"*, *"an overwhelming sorrow that pools in the chest"*, *"a spreading numbness that erases names and faces"*, *"waves of cold grief"*, *"identity and memory begin to dissolve"*, *"the entity's anger becomes physical"* — were carried identically across thirty-five files. Each is now that holding's own event: the Revenant's rope remembered as cut by everybody in the room and each of them remembering cutting it, the Well's water coming up with the district's rage in it, the Echo answering a kindness until twenty correct answers in a row is the most dangerous thing on the file.
+
+**`O-IIIγ-920` Once Upon a Time:** the Trivia section still said the register *walks up to one person with a story attached*, against a Movement row that is `Stationary — a fixed position` and an Appearance note that the source is an hour with a fixed reach and not a narrator's body. The line now reads *gives a story to one person at a time* — the reach is unchanged, the walking is gone, and the Contact Record still stands.
+
+**The five-file possession queue is closed as not-possession.** `C-IVδ-255` Rising Wall, `C-IVδ-140` Gavel, `N-IIIγ-283` Barrier of Nothing, `O-Iα-973` Yggdrasil Wound and `O-IVδ-151` Border Tree each carry `Can breach`, and Possession is a non-breaching class by law (Leg 28). Neither do any of them reach into an agent and act through one: the Revenant crawls the annex looking for a **saint**, the Chainbound shuts doors and travels the maintenance network, Yggdrasil's own account has nobody and nothing for a target and personnel caught between halves, and Border Tree grows a branch across the route rather than entering a worker. `O-Iα-108` Animus remains the wing's possession record.
+
+**Verification:** `seam_lint` PASS 100 %, `section_logic` 0, `check_stat_bands` PASS, `check_links` 0 broken, `breach.py` RE 81/83 · SE 80/179 · OP 34/39 = 195/301.
+
+
 ## Where the file pointed at itself instead of saying the thing (2026-11-01)
 
 Twenty-fifth batch, and the largest of the prose passes: **one hundred and twenty files**, no structural change to any of them.

@@ -154,7 +154,7 @@ Rising Well is a Subject with Subject-Mind manifestation and Grudge expression, 
 |---|---|
 | **Event Type** | Transformation in place |
 | **Movement** | The rim appears at floor level throughout the structure and draws personnel toward the depths by acting on their intentions. People walk to it and can explain why. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Effect** | The Well opens under the district and the rage comes up with the water. It does not aim; the damage is indexed to whatever was built over it, and the people are hit standing on the thing the rage was for. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
 | **First Target** | The worker in contact. It has never reached past them to the outside observer, in either ascent, which is the whole basis of the two-worker rule. |
 | **Escalation** | +5 Resilience drain per cycle while the shaft is rising. It does not travel; the rise is vertical and the radius of effect grows with the height. |

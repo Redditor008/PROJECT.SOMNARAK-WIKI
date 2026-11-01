@@ -161,7 +161,7 @@ Work on this holding is a sitting job and the readings reflect it. Flerehan and 
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | He walks out and searches, at a child's pace, room by room, and has never passed a door without looking inside it. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
+| **Effect** | He asks the same question in the same order of whoever he finds, and does not stop asking when there is no answer. The compulsion to announce a departure spreads to anyone who hears him. |
 | **Secondary Effect** | Everyone he has asked finds themselves unable to leave the room without announcing it, for several hours afterwards. |
 | **First Target** | Whoever worked most closely with the person who left the rotation. |
 | **Escalation** | Drain rises by 5 each time somebody answers him with a reassurance, and not at all for the time he spends walking. |

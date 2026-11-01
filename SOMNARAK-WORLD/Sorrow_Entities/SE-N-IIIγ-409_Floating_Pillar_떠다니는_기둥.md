@@ -139,8 +139,8 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 |---|---|
 | **Event Type** | Transformation in place |
 | **Movement** | It does not pursue and has never approached anybody. The absence widens from where it stands, taking names and faces out of reach of the people holding them, and personnel are affected where they are. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Effect** | The absence where somebody used to lean becomes the whole of the recollection, and the person themselves is what goes out of it. Nothing there is erased on purpose and nothing survives in the right order. |
+| **Secondary Effect** | The surface thins at the edges of whoever is nearest, and what thins first is the recollection of being held. Nothing approaches; the absence is simply where a person used to lean. |
 | **First Target** | Whoever is standing nearest, without exception: it does not select, does not approach and has never moved toward anybody — the numbness arrives where people are, along the row's own gradient. |
 | **Escalation** | Clarity drain rises by 5 a turn until the work stops it, and the sign to watch is not the gauge but the sound: when the bay begins going deaf, the watch ends there and the reading is taken from the last clean sheet. |
 

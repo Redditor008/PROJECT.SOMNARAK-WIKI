@@ -157,7 +157,7 @@ Myrmidon holds a Subject-Lament manifestation and a Grudge expression, and is st
 |---|---|
 | **Event Type** | Corrupt |
 | **Movement** | Myrmidon remains in place while the Corrupt zone warps and spreads. The effect can crack walls and harm personnel within it; field expansion is not the figure escaping to hunt. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Effect** | The Myrmidon's discipline is the anger: it keeps formation until it does not, and what comes apart then is whatever stands in the formation. Its own line is what it cracks through first. |
 | **Secondary Effect** | It looks for the grievance a worker has not raised. Crews describe being watched while it decides, and the standing note in the file is that the one it picks is never the angriest person present — it is the one with something still unsaid about the institution they work for. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Every turn the holding stays free the pressure climbs; Resilience drain rises by 5 a turn until it is suppressed. |

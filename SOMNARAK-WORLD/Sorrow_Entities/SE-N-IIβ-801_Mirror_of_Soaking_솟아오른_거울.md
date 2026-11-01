@@ -373,7 +373,7 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 **Common Name:** Mirror of Soaking
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Per entity classification. See SECC Classification table for details.
+**Threat Assessment:** Moderate (β) to the district and severe to the person who works it. The Mirror does not pursue, does not retaliate and has never reverted inside a session; what it does is take the anger a worker brought to the glass and give it back at the full size of the Row's, readable as a reflection and not as a memory. The failures on file are all of one kind — someone worked it holding something in.
 **Containment & Handling Procedures:**
 - The session is measured in centimetres: the surface height is read off the floor mark at the start and at the end, and both figures go on the sheet.
 - Nobody works the Mirror holding something in. The surface reddens toward whoever does, and the reading is lost before it is taken. Flerehan and Pugnahan are unavailable to an Object and are not to be improvised.

@@ -152,8 +152,8 @@ The four Work Types divide into two pairs and the file is unusually explicit abo
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Ephemera tears loose and pursues personnel with deliberate steps. It collapses the facility structure around it. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
+| **Effect** | The dust line sheds ahead of the figure and the settlement comes back around whoever breathes it. Cold grief is the most accurate description the file has: what arrives is a place a worker cannot name and cannot stop missing. |
+| **Secondary Effect** | The dust carries the settlement around the worker and the wail is the settlement's own, recovered in proportion to how much of it the worker has breathed. Clarity falls furthest in those who remember the place best. |
 | **First Target** | Whoever is standing in the dispersal field downwind, in the order the wind puts them in. The figure itself has never selected anybody; on all three sector sweeps the affected personnel were the ones the shed material reached, and the crew inside the upwind margin was untouched. |
 | **Escalation** | The pressure does not build with time. It builds with the definition rate — as the outline fails, more material is in the air at once — and it stops when the figure finishes scattering, which is its own event and not a suppression. |
 

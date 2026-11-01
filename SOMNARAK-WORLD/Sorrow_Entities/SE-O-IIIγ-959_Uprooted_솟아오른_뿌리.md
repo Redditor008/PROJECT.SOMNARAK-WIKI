@@ -157,7 +157,7 @@ The table's two usable rows both reduce the gauge and the station cannot tell th
 | **Breach Type** | Escape from the agreed surveyed route, not from a cell; the route, schedule and open-ground agreement are the holding. |
 | **Movement** | Without resolution the entity does not rage; it simply continues, and continuing is the breach. It leaves the surveyed line, takes a route nobody has mapped, and raises its unfinished structures in occupied ground — which is how a holding that has never killed anybody becomes a district emergency. Whatever is standing on a foundation. It has never reached toward a person in open ground and every strike on file was taken by somebody inside a structure or on a floor slab. |
 | **Effect** | Weeping, from no direction, loud enough to make conversation difficult. Surveyors describe it as coming from the ground rather than from the entity and the two parties who have tried to locate it independently disagreed by ninety degrees. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Secondary Effect** | The ground under the standing becomes foundation and the foundation remembers being built on. Sorrow pools in the chest at the height of whatever the building used to be, which is why the record measures the reach against a reference and never against a person. |
 | **First Target** | Whatever is standing on a foundation. It has never reached toward a person in open ground and every strike on file was taken by somebody inside a structure or on a floor slab. |
 | **Escalation** | +5 Composure drain per cycle while it is rising rather than travelling. Travelling is its ordinary state and costs nothing; rising has happened four times in nine years. |
 

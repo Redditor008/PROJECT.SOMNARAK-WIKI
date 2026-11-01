@@ -154,8 +154,8 @@ Willing Chains is a Subject with Subject-Grudge manifestation and Void expressio
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | The figure stays where it is. What expands is the bound volume around it, which warps outward and takes in whatever surfaces it reaches. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Effect** | The chains hold and the held stop being able to name the room. Nothing is taken; what goes out of reach is the vocabulary for wanting to leave it. |
+| **Secondary Effect** | The chains fasten on whatever is inside the warped volume and hold it in place. Nothing is erased; what goes is the wish to be anywhere else, and with it the names of the places one wanted to be. |
 | **First Target** | Nobody is chosen and nothing is pursued. The binding takes whoever is inside the warped volume, and personnel are bound in place rather than dragged anywhere. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Clarity drain increases by 5 per turn until suppressed. |
 

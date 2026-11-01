@@ -153,7 +153,7 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It leaves on foot at a walking pace and goes to the room where a decision is being made about somebody who is not in it. It stands there. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Effect** | The judgement lands on whatever is being decided in the room, and the structure is merely the first thing that failed to answer. Courtrooms and council chambers take the crack before anybody inside them does. |
 | **Secondary Effect** | Everything unsaid in the room becomes difficult to keep unsaid; personnel report volunteering information nobody asked them for. |
 | **First Target** | Whoever in the room is chairing. |
 | **Escalation** | Drain rises by 5 for each decision concluded in its presence without the subject being heard, and not at all for the time it spends standing in an adjourned room. |

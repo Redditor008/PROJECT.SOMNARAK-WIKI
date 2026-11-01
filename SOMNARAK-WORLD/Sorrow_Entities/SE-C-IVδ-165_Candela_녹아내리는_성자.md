@@ -153,8 +153,8 @@ The table is read against the register rather than against the gauge, because on
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It leaves the chamber and walks to wherever the person it has been grieving for is working. It reaches toward them and does nothing else. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
+| **Effect** | The candle burns down and the saint's face runs. Grief arrives as cold because the heat went with the wax, and the wax went first. |
+| **Secondary Effect** | The wail runs down the candle as the wax runs: audible while the flame is still taller than the wick, and gone the moment the saint's shape stops being a shape. |
 | **First Target** | Whoever is named in the most recent vision, wherever in the facility they are. |
 | **Escalation** | Drain rises by 5 for each attempt to prevent what it has shown, and holds steady for as long as it is allowed to walk and reach. |
 

@@ -156,8 +156,8 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | It does not pursue. The event is Corrupt: it holds its volume and the bay warps around it, cracking the walls, with the weeping audible through the whole Forge floor. Personnel are affected where they stand rather than hunted. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Effect** | The bay's record of itself becomes legible all at once: every injury in the Forge is visible to everybody standing in it, and none of it can be un-seen or re-filed. |
+| **Secondary Effect** | Everything the bay has ever recorded about a person is legible at once, and none of it can be re-filed: the injuries, the shifts, the reasons. It arrives in the chest because the room's record of a worker is heavier than the worker's own. |
 | **First Target** | Whoever is nearest the volume it holds, which on a staffed bay means whoever has not yet reached the marked positions — the event does not seek anybody and has never moved toward a person. |
 | **Escalation** | Each turn the volume holds, the crying rises and the will to continue thins further; the effect has never been observed to ease while anything is being cut, struck or thrown inside the seal, and it stops when the work inside the bay stops. No per-turn drain figure has ever been measured from inside a event. |
 

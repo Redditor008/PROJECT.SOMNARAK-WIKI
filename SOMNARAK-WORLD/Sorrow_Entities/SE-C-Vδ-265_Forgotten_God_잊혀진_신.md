@@ -158,8 +158,8 @@ No Work Type has been applied in nineteen years. The table is inherited from the
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Contingency profile only. The entity has never left the vault and has never been observed awake; if the seal failed it would walk, and the facility plans for that on the strength of its coherence rather than on anything witnessed. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Effect** | The vault is larger than the building permits and the god is in it. Clarity drains in the order the register was kept: first what the six witnesses said, then which six they were. |
+| **Secondary Effect** | The vault's register carries six names of people who can say the god is down there and no other account of it. The numbness follows that shape: the certainty of having known something important and the faces that went with it. |
 | **First Target** | Unestablished. The planning assumption is the nearest personnel, recorded as an assumption rather than an observation. |
 | **Escalation** | +5 Clarity drain per cycle while the interval is irregular. It has been irregular on four occasions, for a total of eleven hours, and has returned to 41 seconds each time without intervention. |
 

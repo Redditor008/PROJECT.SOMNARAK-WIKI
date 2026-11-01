@@ -154,7 +154,7 @@ The four responses in the table are the whole mechanism, and they do not work th
 |---|---|
 | **Breach Type** | Transform |
 | **Movement** | Nothing moves and no corridor closes. It extends from mind to mind along the line of people who have been told that everything is in hand. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
+| **Effect** | The wall falls outward and the corridor beyond it is the one a worker remembers from another wing. The cold is the draft through the gap; the grief is the recognition. |
 | **Secondary Effect** | Every barrier in the sector — doors, rails, procedures — is experienced as decorative for the duration. |
 | **First Target** | Whoever last assured somebody else that a thing was safe. |
 | **Escalation** | Drain rises by 5 for each further assurance issued while it is loose, and does not rise during a silence or an honest briefing. |

@@ -139,8 +139,8 @@ Read this table as a description of what the song does rather than as a menu of 
 |---|---|
 | **Event Type** | Transformation in place |
 | **Movement** | Déjà Vu widens past the marked boundary like a spreading tide. It reaches whoever is inside the affected area; it does not seek anybody out. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Effect** | The day repeats with one detail moved, and each pass takes a name out of the worker's account of it. Clarity drains by the detail that nobody can find. |
+| **Secondary Effect** | The boundary widens past the line and the day inside it has already happened. Names and faces go first because the widening is the place forgetting what it was, and it forgets the people in the same order it forgot the hour. |
 | **First Target** | Whoever is inside the marked boundary when it widens. The event does not seek anybody out; it spreads past the line like a tide, and the people it reaches are the people who were standing where the boundary used to be — which is why the perimeter is worked from outside it and the roster is written down. |
 | **Escalation** | Every turn the volume holds, the Clarity drain rises by 5 and the song draws further past the last peg. It has never been observed to fall while anyone remains inside, and it stops when the boundary is re-established and the workers are out; nobody inside reports wanting to leave, so the decision belongs to the spotter and is not referred to the room. |
 

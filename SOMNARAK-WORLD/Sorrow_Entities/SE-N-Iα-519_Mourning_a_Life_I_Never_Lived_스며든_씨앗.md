@@ -185,8 +185,8 @@ Escalation here is measured in centimetres of floor. The file's own log runs thi
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | The net flows out across the floor at walking pace and does not rise or strike. Personnel are affected by standing in its extent, and it settles longest around whoever has the most left open. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Effect** | The net has taken plans before, and it takes the names out of them. A worker who said what they were going to do an hour ago can describe the intention exactly and cannot say who it was for. |
+| **Secondary Effect** | The low net flows across the floor to whoever has most recently said what they were going to do. It does not take the plan; it takes the names and faces in it, and leaves the intention intact and unattributed. |
 | **First Target** | Whoever has most recently said what they were going to do. |
 | **Escalation** | Drain rises by 5 for each open intention voiced while the net is loose, and not at all for the time it spends spreading in silence. |
 

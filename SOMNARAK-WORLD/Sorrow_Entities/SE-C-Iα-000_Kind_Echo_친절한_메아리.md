@@ -169,8 +169,8 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | Kind Echo intensifies in place, warping the containment zone outward. It reaches whoever is inside the affected area; it does not seek anybody out. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
+| **Effect** | The Echo answers a kindness with the same kindness, and it does not know when to stop. Composure drains by repetition rather than by harm: twenty correct answers in a row is the most dangerous thing that happens here. |
+| **Secondary Effect** | The Echo returns the worker's own distress in a patient voice until the worker cannot tell which of the two is speaking. Nobody has ever been hurt by it; the harm is entirely in the interval before they notice. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Composure drain increases by 5 per turn until suppressed. |
 

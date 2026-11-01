@@ -297,7 +297,7 @@ And twenty-three workers refused to leave their posts and were disciplined for i
 
 The chamber's median flat period was two days last quarter. It was six when I came into this post and nineteen in the worst quarter on record. That is the whole of my evidence and it is a number taken off people's faces.
 
-**Threat rating:** Per entity classification. See SECC Classification table for details.
+**Threat rating:** Critical (δ). The hazard is not aggression but the breathing: proximity suspends the reflex quietly enough that a worker notices on the way out, and the entity has never struck anybody at all. Its danger is that it does nothing while doing the work.
 
 ## 최종 관찰 (Final Observation)
 

@@ -165,8 +165,8 @@ Nothing in the table above means anything read on its own. The element, the cohe
 |---|---|
 | **Event Type** | Corrupt |
 | **Movement** | The figure stays where it is. The dream expands past the seal in a widening radius, and personnel do not notice crossing into it. |
-| **Effect** | Identity and memory begin to dissolve, draining clarity. |
-| **Secondary Effect** | A spreading numbness that erases names and faces. |
+| **Effect** | The dream expands while the shard lies still, and what the dream offers is the end of feeling. Identity goes first because the offer is genuinely kind. |
+| **Secondary Effect** | The dream expands while the figure stays where it lies, and the dream is of wanting to stop feeling something. The numbness is what that wish feels like when it is granted to somebody who did not ask in those words. |
 | **First Target** | Whoever in range most wants to stop feeling something. |
 | **Escalation** | The radius widens each turn the sleep stays disturbed; Clarity drain increases by 5 for each person inside it, and does not fall when the radius later contracts. |
 

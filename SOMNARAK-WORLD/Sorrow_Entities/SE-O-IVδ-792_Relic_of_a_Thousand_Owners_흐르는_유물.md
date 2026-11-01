@@ -156,8 +156,8 @@ Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation an
 |---|---|
 | **Event Type** | Corrupt |
 | **Movement** | Relic of a Thousand Owners pulses with concentrated force, cracking the walls around it. It does not pursue; withdraw radially from the fixed point. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Effect** | Every previous owner is present and none of them agrees on what the object is for. Whoever holds it inherits the disagreement rather than the history. |
+| **Secondary Effect** | Every owner's grievance is present at once and each of them blames a different party. What pools in the chest is not one sorrow but a room full of them arguing about who is owed. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
 | **Escalation** | Every turn the figure stays loose the pressure climbs; Composure drain rises by 5 a turn until something suppresses it. |
 

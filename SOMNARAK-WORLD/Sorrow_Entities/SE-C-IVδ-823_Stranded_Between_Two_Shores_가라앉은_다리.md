@@ -139,7 +139,7 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | It does not leave the tunnel and does not pursue. It collapses under anyone who steps onto it, re-forms within the hour, and sits lower afterwards. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
+| **Effect** | Both shores are present at once and neither can be reached. Anybody in the span remembers standing on the far side without being able to say when. |
 | **Secondary Effect** | Everyone in the tunnel hears voices from the far mouth, and the far mouth hears theirs; neither set of voices belongs to the living teams. |
 | **First Target** | Whoever is standing nearest the midpoint. |
 | **Escalation** | Drain rises by 5 for each further attempt to cross, and does not rise while both mouths are held and nobody moves. |

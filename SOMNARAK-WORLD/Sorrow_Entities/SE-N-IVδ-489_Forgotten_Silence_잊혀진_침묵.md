@@ -141,8 +141,8 @@ Read the gauge only beside the room: this entity's response depends on element, 
 |---|---|
 | **Event Type** | Corrupt |
 | **Movement** | The figure does not move. The quiet does, spreading outward from the chamber, and personnel inside it find their own speech arriving thinned and unheard. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Effect** | Speech fails in the order people stopped speaking. Nobody in the radius can say the oldest thing they are carrying, and the quiet widens by one for each of them. |
+| **Secondary Effect** | Every person in range loses the oldest thing they have not said. The loss does not feel like forgetting; it feels like having decided not to say it, in a room where everybody has made the same decision. |
 | **First Target** | Whoever in range is carrying the oldest unsaid thing. |
 | **Escalation** | The quiet widens with every truth withheld inside it; Composure drain increases by 5 for each person who has stopped speaking, and does not fall again until somebody does. |
 

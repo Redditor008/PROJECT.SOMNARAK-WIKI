@@ -152,8 +152,8 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | Grasp is recorded relocating to another gap in the Desolate, including former gaps since filled in. No recorded position is inside a structure; do not turn those relocations into a facility pursuit route. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Effect** | The near side hears the caravan and the far side of the bridge is still there to be seen. Workers stay in earshot long after there is anything to hear. |
+| **Secondary Effect** | The voice calls across the gap and the near side answers. It is not the grief that costs the worker; it is that answering is possible, at the top of the throat, for as long as they are in earshot. |
 | **First Target** | Whoever has the longest service. Across eleven incidents the voice has gone to the most experienced person present every time, which the station treats as the single most dangerous fact in this file. |
 | **Escalation** | +5 Composure drain per cycle while a worker remains in earshot. It does not approach, pursue or reach for anybody on the near side; the drain is the cost of staying to listen. |
 

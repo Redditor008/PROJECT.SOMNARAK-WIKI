@@ -160,7 +160,7 @@ The Work Type table describes an hour in a street and misses the whole mechanism
 |---|---|
 | **Breach Type** | Corrupt |
 | **Movement** | It drifts at shoulder height along the arcade and cracks nothing. It follows the person who most recently handled a file about the raids. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
+| **Effect** | The voice becomes identifiable to everybody except the person it belongs to, and each attempt to place it changes it. |
 | **Secondary Effect** | The crying is audible through two walls and cannot be recorded; instruments return the room tone and nothing else. |
 | **First Target** | Whoever last signed a missing-person file closed. |
 | **Escalation** | Drain rises by 5 for each attempt to identify or silence the voice, and not at all for the time anybody spends listening to it. |

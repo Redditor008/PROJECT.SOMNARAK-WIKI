@@ -156,8 +156,8 @@ The four Types have distinct responses: Flerehan recognises, Ferrehan tests the 
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It leaves on foot and walks the corridors at a traveller's pace, the offered end held out to whoever it passes. Nobody is hunted; everybody is asked. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
-| **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
+| **Effect** | The rope is remembered as having been cut, by everybody in the room, at the same moment — and each of them remembers cutting it. |
+| **Secondary Effect** | The end of the rope is offered to whoever is passed, and taking it is remembered afterwards as the moment they let go. The sorrow arrives in the chest as a debt of strength nobody remembers agreeing to. |
 | **First Target** | Whoever has taken the end before. It returns to them in preference to anyone closer. |
 | **Escalation** | Drain rises by 5 for each person who accepts the end while it is free, and not at all for the time it spends walking unanswered. |
 

@@ -185,7 +185,7 @@ Escalation is downward growth. Record the depth at eleven points, the entry read
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It does not charge and does not surface. The root mass spreads under the floor, fastest beneath whichever stall has gone quiet. |
-| **Effect** | The air fills with audible weeping, eroding the will to continue. |
+| **Effect** | Every document still buried under the south arcade becomes legible to anyone standing on the Market floor, all at once, and cannot be put back. |
 | **Secondary Effect** | Everyone standing over the spread finds themselves unable to say anything personal aloud, and notices only afterwards. |
 | **First Target** | Whoever on the floor is carrying something they have told nobody. |
 | **Escalation** | Drain rises by 5 for each thing concealed above while it is loose, and falls back a step whenever something is said out loud on the floor. |

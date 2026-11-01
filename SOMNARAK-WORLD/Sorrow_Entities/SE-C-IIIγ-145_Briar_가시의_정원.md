@@ -184,7 +184,7 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It comes off its ground and moves on its own limbs, tracking motion rather than people. It does not hunt indiscriminately: a worker who stops moving is passed over, and the record holds no exception. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Effect** | Briar closes on whatever stands inside the boundary, and the wall is only the first thing it has to reach across. Nothing in the record shows it choosing between a person and a structure; that distinction arrives later, in the casualty list. |
 | **Secondary Effect** | A wave of pure malice that seeks out unresolved conflict. |
 | **First Target** | Whoever moves fastest. The vines track motion, and a worker who stops moving is passed over entirely. |
 | **Escalation** | While it is unopposed the pressure grows and the Resilience drain climbs by 5 a turn until the holding is suppressed. The growth is not a pursuit; it is the ground getting deeper. |

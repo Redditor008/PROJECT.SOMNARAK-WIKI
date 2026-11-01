@@ -139,8 +139,8 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 |---|---|
 | **Event Type** | Transformation in place |
 | **Movement** | Expands as a volume rather than as a figure: the affected ground grows outward and crossing it fails. Nothing pursues anybody. |
-| **Effect** | Waves of cold grief wash over personnel, draining composure. |
-| **Secondary Effect** | A keening wail that fractures emotional stability. |
+| **Effect** | The bridge is crossed alone and the crossing is remembered as having been shared. Cold is the plainest way to say what a worker feels when the person beside them turns out to have been a recollection. |
+| **Secondary Effect** | The voice comes from the far side of the crossing and it is one's own voice, calling from a bridge that was not shared. Clarity drops at the point of recognising the speaker. |
 | **First Target** | Nobody is targeted. The harm falls on whoever next attempts to cross the affected ground, which in practice means whoever is trying to reach the people already inside it. |
 | **Escalation** | For every turn the holding stays free its pressure grows, and the Composure drain adds 5 a turn until the watch ends it. |
 

@@ -157,7 +157,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It does not travel. It stops appearing in the chamber and starts appearing on the forge floor, one place at a time, closest to whoever last told somebody to stop. |
-| **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
+| **Effect** | The fury is swallowed, kept, and returns at the size it was kept. It breaks out through the containment rather than through anybody's body, and the personnel are struck by what the wall fails to hold. |
 | **Secondary Effect** | Everyone within sight of it finds they cannot cry, including those who want to, for as long as it is present. |
 | **First Target** | Not the person grieving. The person who stopped them. |
 | **Escalation** | Drain rises by 5 for each further interruption while it is loose, and does not rise at all for time spent present in a room where somebody is allowed to weep. |
