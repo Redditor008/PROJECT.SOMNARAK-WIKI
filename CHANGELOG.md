@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The source-trace doctrine, written per item (batch 71)
+
+The doctrine sentence is the last clause of every M.A.W. record's history paragraph, and in eighteen weapon records it read the same way: **"the object gave no transcribable field response"** — *object*, *place*, *time-manifestation* or *hazard*, with the noun swapped. Eighteen weapons that had in fact produced a great deal of apparatus were all describing themselves as unreadable.
+
+Each now names its own instrument: Goru's Fist records nothing because *"the room's beat is the only instrument"*; Grimoire keeps no account because *"the page count against a weighted cover is the only figure the source gives up"*; Passing Bell registers nothing *"there being no instrument that has ever caught a sound here"*; Once Told writes nothing of the telling and leaves *"the lag between a word and its arrival"* as the only instrument. The attribution clause behind each one is untouched.
+
+**Dead Air's three records carried a second copy of the same fault.** All three contained the identical sentence, and the suit and the stigma each called themselves **the Edge** — the weapon's noun in two records that are not the weapon. The same class as the Suit-block-carries-the-Weapon's-Category defect fixed in an earlier pass. Each now has its own sentence and its own noun.
+
+**Also closed:** two more archetype twins. The Denial Veil no longer opens on the Joy Veil's *"pale, near-transparent veil of fine Han gossamer"*, and the Burden Maul's haft no longer ends in the Void Maul's and the Giants Maul's *"Weight Han-grip … squared pommel"*.
+
+**Appearance couples: 112 → 108, and no pair now shares more than five six-word windows** (the strongest was 32 when this pass opened). Nine pairs sit at five, all of them the veil, mantle and requiem families sharing a material vocabulary rather than a paragraph.
+
+**One structural finding, recorded and not yet acted on.** Comparing every record's filename against its `# M.A.W. … — name` heading, **232 of 852 do not match** — the file carries the set-slot name the record had before it was renamed (`The_Debt_Mantle.md` holding *The Collector's Oilskin Trench-Coat*). The mismatch is systematic rather than random, and the filenames are load-bearing: index pages, cross-references and the registry all address the path. Renaming them is a 232-file move with link rewriting, not a text edit, and it is a decision for the owner rather than a chore to run inside a prose pass.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The Appearance template, worked down from nine near-verbatim pairs to none (batch 70)
 
 Batch 69 closed five Appearance twins; this pass took the rest of the pile. Measured on shared six-word windows between records in different sets, the wing opened at **163 couples, nine of them sharing ten or more windows** — records describing the same object twice under two names.
