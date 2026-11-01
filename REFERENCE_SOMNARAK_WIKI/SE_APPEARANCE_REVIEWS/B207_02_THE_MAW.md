@@ -2,6 +2,8 @@
 
 **Status: HELD.** Rechecked The Maw under R-34 with the owner appearance lens: the current body is the district itself — buildings inclining toward sound, ground that never finished setting, a 41-marker perimeter, and a current cycle of silence — with the Walking District held as a registered, unwitnessed event form. Fourteen repairs remove the invented heart, dragging tar, crushing strike and tracking mark from combat, bind every row to checkable conduct at the line (speech, standing duration, raised voices, a published denial, a third formal refusal), and record the linked Grip/Shroud/Relic mechanics as disputed descriptions rather than an issued kit, since Side Codex A prohibits extraction outright. Credit stays +0; the dossier remains HELD.
 
+**Owner record, 2026-11-01 — the event form now has a filed silhouette.** The owner supplied the Walking District's shape: a jaw the size of the district on two enormous legs, two clawed hands, no eyes and no need of them, a mouth that is a hole with a jagged rim working like a sand-worm's, and a thousand blue eyes at its centre. The dossier records it under Appearance States. This does not reopen the repairs above: those struck model-invented anatomy — an invented heart, dragging tar, a crushing strike — and the entry above is owner canon, entered with its provenance. The distinction is the whole of the difference, and the file now states it in place.
+
 ## Changes made to the primary dossier
 
 - `R01-pressure-resilience` (short field correction)

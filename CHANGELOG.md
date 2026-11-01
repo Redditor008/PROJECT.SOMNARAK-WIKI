@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Walking District has a body on file (2026-11-01)
+
+Owner: *"The Walking District now, and its shape is monstrous — big jaw district with two enormous legs and claws like two hands; it doesn't have eyes but can see; its mouth is a hole with jagged sharp edges that keep moving like a sand-worm's mouth; and in the middle you could see a thousand blue glowing eyes."*
+
+Until now the file refused the body. The `B207` appearance review had struck what it called *an imagined giant's anatomy* — an invented heart, dragging tar, a crushing strike, a tracking mark — because none of it was attested, and the event form was held as a registered, unwitnessed silhouette-less reserve. That reading was correct about model-invented anatomy and wrong to conclude the form could never have one. It has one now, and it came from the owner rather than from an archivist's imagination.
+
+**Recorded under Appearance States** as the registered silhouette, in the order a witness would take it in: the mass (a jaw the size of the district that made it, streets and lifted ground gathered into one wedge opening forward), the two enormous legs, the two clawed hands at the front, the absence of eyes on a figure that sees, the mouth that is a hole whose jagged rim keeps working like a sand-worm's, and the thousand blue eyes at the centre of it — the citizens, and the only part of the figure looking back.
+
+**What the entry does not do.** It does not become a sighting. The form has still never been observed walking, the standing response remains withdrawal, and the Appearance protocol now tells a report to describe the file's silhouette and add no anatomy beyond it. It also does not become a weapon: legs and claws are what the field will see, and the combat rows stay exactly as filed, because a shape is not a pattern.
+
+**Two readings entered with it.** The eyes are blue while the entity's element of record is Grudge, crimson; the archive does not re-element the Maw on the strength of a colour, and the eyes belong to the thousand. And the figure's way of finding — no eyes, yet it sees — is read from the district's own sixty-year habit of leaning toward sound, which is why a whispering crew is already located and a silent one, for as long as it is silent, is not.
+
+**Where it was carried.** The dossier's Physical Form cell, Appearance States table and silhouette block, the Expansion Behavior state-change line, the *Confession Refused* combat move, the Trivia, and the sentence in *The foundation, the voices and the registered figure* that had said a blade's jaws are not the district's mouth — the district has a mouth now, and the stiletto's jaws still are not it. Outside the dossier: the Entity Codex's brevian line, `R-08` (a filed silhouette is not a sighting), the Universal Table's Maw phase and housing note, and the Conversion Guide's Protocol 01 and sovereign-tier example.
+
+**Supersession recorded in place.** `B207_02_THE_MAW.md` gains a dated note that the owner's entry does not reopen the repairs above it: those struck anatomy the archive invented, and this is anatomy the owner supplied, with its provenance on the line.
+
+**Checks:** `seam_lint` 1,767 · `label_lint` 301 · `check_links` 3,995 / 0 broken · `audit_lore_archive` PASS · box symmetry PASS · `git diff --check` clean.
+
 ## The fixes behind the labels: terminus records rebuilt, the folder made one shape (2026-11-01)
 
 The previous entry classed two dossiers as Special Abnormalities and stopped there. A class row is not a conversion, and the owner said so: *"go again this time with doing fixed not just labeling and holding it over and over."* This entry is the work the row was standing in for.

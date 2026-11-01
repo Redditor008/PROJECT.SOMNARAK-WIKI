@@ -1114,7 +1114,7 @@ When a **Place-Tale Sorrow Entity** breaches in Lobotomy Corporation (most notab
 - Any employee standing on the affected floor suffers continuous 25 Black Damage per second.
 
 #### Phase 2: The Walking Maw Metamorphosis (`C-IVω-001-B [GS]`)
-- The architecture detaches from the subterranean bedrock. The whispering masonry, pipes, and tar coalesce into an enormous, multi-legged stone colossus.
+- The architecture detaches from the subterranean bedrock. The whispering masonry, pipes, and tar coalesce into a single jaw-shaped mass on **two** enormous legs, with two clawed hands at its front, no eyes, and a mouth that is a working hole of jagged edge with a thousand blue eyes at its centre (the dossiered event silhouette).
 - Its SECC code shifts from `[GP]` (Place) to `[GS]` (Breaching Subject).
 - It enters the main departmental corridors as an **ALEPH-class mobile colossus**.
 
@@ -1830,7 +1830,7 @@ These are **partial worked exercises**, not signed conversion records. They prov
 - **Letter (T):** City Sorrow · Origin = the Cheongula, one thousand citizens consumed · Tale = atrocity and its denial → **T**.
 - **Class (07):** Entity Type *Place*; the body is the district itself — leaning buildings, unset ground, a 41-marker perimeter → **07** (PS extension). Serial `001 → 0001`.
 - **Risk:** Threat Score IV (4) + ω (5) = **9 → ALEPH**, matching the Section VIII roster and the canon examples in Chapter 4. The Walking District (`-B [GS]`) is a containment **state** of this same code under Section VI, not a second designation. Attachment/Repression prohibited (Place) until that state.
-- **Housing (Whole, Place-as-room):** the unit does not contain the Maw — under Sections I.4 and VI the room *is* its Containment Form, the standing precedent for Scale-Incompatible, Extraction-Compatible. Breach Form = the dossiered Walking District (`-B [GS]`) state; band declared **Well-attenuated, 25–50% of district scale**, with escalation to full district scale reserved as an in-story crisis — the Well losing its grip.
+- **Housing (Whole, Place-as-room):** the unit does not contain the Maw — under Sections I.4 and VI the room *is* its Containment Form, the standing precedent for Scale-Incompatible, Extraction-Compatible. Breach Form = the dossiered Walking District (`-B [GS]`) state — the filed silhouette: jaw-mass, two enormous legs, two clawed hands, no eyes, working mouth, a thousand blue eyes at the centre; band declared **Well-attenuated, 25–50% of district scale**, with escalation to full district scale reserved as an in-story crisis — the Well losing its grip.
 
 #### 3. Conservatory — `N-IVδ-852 [N]` → **`F-07-0852`**, WAW
 - **Letter (F):** Inner Sorrow · Origin = a caretaker who overloaded a structure to save a home · Tale = moral parable of preservation that destroys → fable structure takes **F** under the decision order.

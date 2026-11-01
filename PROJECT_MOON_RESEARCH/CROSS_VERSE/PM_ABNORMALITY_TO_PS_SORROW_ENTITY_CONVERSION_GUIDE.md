@@ -58,7 +58,7 @@ Every standard contained entity, Ranks I through IV, sits inside a calibrated 15
 
 The old 10,000 ceiling survives only as the top of this tier, and only for macro-scale horrors:
 
-- **Eligible:** Rank V Sovereigns, and any lower rank whose Threat Score reaches 9 — *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*), V + ω, at 12,000 HP; or a Rank IV district colossus such as *The Maw* (`C-IVω-001`, IV + ω = 9 → ALEPH), whose breaching state is *The Walking District* (`C-IVω-001-B [GS]`, 보행하는 구라 / *Bohaenghaneun Gura*).
+- **Eligible:** Rank V Sovereigns, and any lower rank whose Threat Score reaches 9 — *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*), V + ω, at 12,000 HP; or a Rank IV district colossus such as *The Maw* (`C-IVω-001`, IV + ω = 9 → ALEPH), whose breaching state is *The Walking District* (`C-IVω-001-B [GS]`, 보행하는 구라 / *Bohaenghaneun Gura*) — a jaw-shaped mass on two enormous legs, two clawed hands, no eyes, and a mouth of working jagged edge with a thousand blue eyes inside it.
 - **Encounter shape:** never a single containment room. These are multi-phase departmental Realizations or citywide crisis raids, run over days.
 
 ### II.3 Planetary geography
@@ -306,7 +306,9 @@ Facility-scale crisis systems convert at this same register and are carried by r
 
 Project Moon keeps an entity's code and form through a breach. Rare Somnarak apex entities change both, by one of three filed protocols.
 
-**Protocol 01 — Place to Subject (the Maw Protocol).** Contained, `C-IVω-001 [GP]` *The Maw* (구라 / *Gura*) is a stationary Place entity in Zone B, and only Viderehan and Ferrehan are valid. When expansion passes the containment perimeter, masonry, asphalt and trapped souls lift off the bedrock as `C-IVω-001-B [GS]` *The Walking District* (보행하는 구라 / *Bohaenghaneun Gura*), and in the breaching Subject state all four works apply — Pugnahan against the stone legs, Flerehan to reach the weeping inside.
+**Protocol 01 — Place to Subject (the Maw Protocol).** Contained, `C-IVω-001 [GP]` *The Maw* (구라 / *Gura*) is a stationary Place entity in Zone B, and only Viderehan and Ferrehan are valid. When expansion passes the containment perimeter, masonry, asphalt and trapped souls lift off the bedrock as `C-IVω-001-B [GS]` *The Walking District* (보행하는 구라 / *Bohaenghaneun Gura*) — a jaw the size of the district on two enormous legs, two clawed hands at its front, no eyes and no need of them, and a mouth that is a working hole of jagged edge with a thousand blue eyes at its centre. **The silhouette is on file; the walking is not.** No one has observed the form in motion, so the shape is a thing to recognise, not a sighting to cite.
+
+The state's work rule shifts with the body: while it is a Place, only Viderehan and Ferrehan are valid; once it has gathered, the two-work-type law no longer binds, because the form is a Subject with a mouth and hands. What does not change is the standing response — withdrawal — and a conversion must not treat the new silhouette as a licence to invent a work loop or an attack pattern the record never filed.
 
 **Protocol 02 — Sequential phase (the Kind Healer Cycle).** `C-Iα-071 [LS]` *The Kind Healer* → `C-IIIγ-071b [LS]` *The Patient Martyr* → `C-Vω-071c [LS]` *The Apostle Maker*. The code updates as Coherence rank and Potency grade escalate.
 
