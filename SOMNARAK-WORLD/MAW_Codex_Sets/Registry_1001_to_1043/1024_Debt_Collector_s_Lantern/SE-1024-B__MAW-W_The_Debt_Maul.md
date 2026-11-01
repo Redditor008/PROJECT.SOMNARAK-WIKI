@@ -28,7 +28,7 @@
 
 **Operational / binding cost:** The Maul collects: each blow moves a little of what the wielder owes onto what they hit, and their shadow lags by exactly the amount. Wielded long, the shadow walks in and the body arrives after.
 
-## ITEM-SPECIFIC HISTORY — *The Debt Collector s Lantern Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Debt Collector's Lantern Source-Trace: Weapon Record*
 
 The first bearer of The Collector's Vigil-Lantern encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon uncouples the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

@@ -32,12 +32,12 @@ The Grasp Crown is the stigma record of Grasp’s set — tail-slot, bestowed at
 
 ## ITEM-SPECIFIC HISTORY — *The Grasp Source-Trace: Stigma Record*
 
-The first Grasp Crown field bearer encountered this source response: Reveals the failed rescue and its victims. The stigma isolates the immediate hazard only after the team attributed it to Grasp. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Grasp Crown field bearer encountered this source response: Reveals the failed rescue and its victims. The stigma isolates the immediate hazard only after the team attributed it to Grasp. A bearer who took the insistence for their own care healed nothing afterwards, and the Crown's binding is the note taken at that bedside.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grasp's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the insistence warms the bearer where no wound exists, and the voice spent on it does not come back.
 - Terminal state: Grasp's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not promise rescue; acknowledge the limits of one person” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Grasp Crown field bearer encountered this source response: Reveals the
 
 ## SET RELATIONSHIP
 
-Within *Grasp — Witnessed Form*, Grasp Crown performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grasp — Witnessed Form*, Grasp Crown performs the stigma role while the other pieces preserve attribution and survival. The Crown drops out of the set the moment it warms a wound nobody insisted on.
 
 ---
 

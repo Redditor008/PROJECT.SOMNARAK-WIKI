@@ -30,7 +30,7 @@ Duri's Heart's Token is the stigma record of the Duri's Heart set — head-slot,
 
 **Operational / binding cost:** The Token is a chip of a heart that kept beating: carried, it makes the bearer's own pulse feel borrowed. Carried long, they put a hand to their chest to check it is still theirs.
 
-## ITEM-SPECIFIC HISTORY — *The Duri s Heart Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Duri's Heart Source-Trace: Stigma Record*
 
 The first Duri's Heart's Token field bearer encountered this source response: Read the darkening series against the beat from outside the glass; the two together resolve into a record, and neither is legible alone. The stigma opens the immediate hazard only after the team attributed it to Duri's Heart. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

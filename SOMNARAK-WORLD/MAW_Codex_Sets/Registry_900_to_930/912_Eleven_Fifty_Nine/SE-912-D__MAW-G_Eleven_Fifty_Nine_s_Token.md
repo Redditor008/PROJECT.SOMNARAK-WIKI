@@ -30,7 +30,7 @@ Eleven Fifty-Nine's Token is the stigma record of the Eleven Fifty-Nine set — 
 
 **Operational / binding cost:** The Token is a stopped minute worn against the skin: it fills the bearer's sleep with a grief that has one minute left to happen. Carried long, the bearer wakes braced for news.
 
-## ITEM-SPECIFIC HISTORY — *The Eleven Fifty Nine Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Eleven Fifty-Nine Source-Trace: Stigma Record*
 
 The first Eleven Fifty-Nine's Token field bearer encountered this source response: Log the onset minute from two opposite ends of the sector; the two entries agree, the content is one grievance held identically at both, and no single account is the reading. The stigma marks the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

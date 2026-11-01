@@ -31,7 +31,7 @@ Eleven Fifty-Nine's Veil is the suit record of the Eleven Fifty-Nine set — γ-
 
 **Operational / binding cost:** The Veil lends the wearer the last minute's composure: while worn, nothing has happened yet and nothing can be concluded. Worn long, they cannot finish a sentence that would end something.
 
-## ITEM-SPECIFIC HISTORY — *The Eleven Fifty Nine Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Eleven Fifty-Nine Source-Trace: Suit Record*
 
 The first Eleven Fifty-Nine's Veil field bearer encountered this source response: Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. The suit interrupts the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

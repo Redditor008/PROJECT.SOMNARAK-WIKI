@@ -31,7 +31,7 @@ Duri's Heart's Edge is the weapon record of the Duri's Heart set — β-grade, W
 
 **Operational / binding cost:** The Edge strikes with a weight the body recognises before the mind does: each blow settles in the wielder as one more thing the body has to hold. Wielded long, the wielder stands the way someone stands who is carrying a heart in both hands.
 
-## ITEM-SPECIFIC HISTORY — *The Duri s Heart Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Duri's Heart Source-Trace: Weapon Record*
 
 The first Duri's Heart's Edge field bearer encountered this source response: N/A The weapon severs the immediate hazard only after the team attributed it to Duri's Heart. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

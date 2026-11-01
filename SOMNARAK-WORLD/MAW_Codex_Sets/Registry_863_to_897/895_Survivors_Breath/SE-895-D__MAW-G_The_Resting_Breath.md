@@ -30,7 +30,7 @@ The Resting Breath is the stigma record of Survivors’ Breath’s set — head-
 
 **Operational / binding cost:** The Breath grants a moment of rest and takes it from the bearer's own: each calm borrowed from the next hour. Used long, the bearer is calm and has not slept.
 
-## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Survivors' Breath Source-Trace: Stigma Record*
 
 The first bearer of The Resting Breath encountered this source response: Reveals the crises that produced each breath. The stigma severs the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

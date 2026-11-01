@@ -33,12 +33,12 @@ The Grasp Requiem is the weapon record of Grasp’s set, a Lament instrument att
 
 ## ITEM-SPECIFIC HISTORY — *The Grasp Source-Trace: Weapon Record*
 
-The first Grasp Requiem field bearer encountered this source response: Fire rises and the Bridge lashes outward. The weapon marks the immediate hazard only after the team attributed it to Grasp. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Grasp Requiem field bearer encountered this source response: Fire rises and the Bridge lashes outward. The weapon marks the immediate hazard only after the team attributed it to Grasp. The first wielder to call the gap their own wound had the not-answering answer, and the present binding was written from that transcript.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grasp's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wielder answers in the gap's voice in rooms where nobody has called, and the answer arrives before the question.
 - Terminal state: Grasp's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not promise rescue; acknowledge the limits of one person” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Grasp Requiem field bearer encountered this source response: Fire rise
 
 ## SET RELATIONSHIP
 
-Within *Grasp — Witnessed Form*, Grasp Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grasp — Witnessed Form*, Grasp Requiem performs the weapon role while the other pieces preserve attribution and survival. The set holds only while the wielder calls into a gap they have been given; a call into anything else takes the Requiem out of it.
 
 ---
 

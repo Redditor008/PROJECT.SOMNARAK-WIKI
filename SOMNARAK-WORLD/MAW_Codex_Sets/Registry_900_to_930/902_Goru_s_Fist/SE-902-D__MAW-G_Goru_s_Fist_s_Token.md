@@ -30,7 +30,7 @@ Goru's Fist's Token is the stigma record of the Goru's Fist set — head-slot, b
 
 **Operational / binding cost:** The Token keeps a clenched hand clenched: carried, it sharpens every old injury and every old resentment at once, and neither resolves while it is warm. Carried long, the bearer greets people with their fists already closed.
 
-## ITEM-SPECIFIC HISTORY — *The Goru s Fist Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Goru's Fist Source-Trace: Stigma Record*
 
 The first Goru's Fist's Token field bearer encountered this source response: Read the beat against the gallery clock; over a sustained watch the rhythm resolves into a grievance with a subject, a date and a sum owed. The stigma contains the immediate hazard only after the team attributed it to Goru's Fist. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

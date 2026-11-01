@@ -8,6 +8,25 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Escalation and resonance written per item, and a stripped name repaired (batch 77)
+
+Three sentences sit in all **345** modern codex records word for word, and none of them is in a template, a guide or the standard:
+
+> Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+> \- Escalation: the item repeats the source response outside contact.
+> Full-set resonance ends when the recorded resolution is met.
+
+They are filler in the three places a record is most specific about itself — how it goes wrong, what it does past the limit, and what ends the set. **Six records now have their own**, two full sets:
+
+- **`SE-762` Grasp.** The Requiem's binding dates from the wielder who called the gap their own wound and had the not-answering answer back; its escalation is answering in the gap's voice in rooms where nobody called; it leaves the set on a call into a gap nobody gave. The Shroud's one-remove hearing closes to the inside of the wearer's mouth. The Crown drops out the moment it warms a wound nobody insisted on.
+- **`SE-763` Memorial Flame Mid-Ceremony.** The Bodkin's binding dates from the strike thrown through a stolen breath, which hit the source instead of the target; its silence now outlasts the striking. The Shroud's unfinished feelings begin finishing themselves in the source's order. The Wick's resonance ends when it is asked to show a grief the bearer has already buried.
+
+**`763-C` also carried the same doctrine twice** — the long corrosion sentence *and* the short one directly beneath it. The short one is gone.
+
+**Thirty-three records named their own source wrongly in three places at once.** The template filled the source-trace title by stripping punctuation, so *Goru's Fist* became *Goru s Fist*, *Debt Collector's Lantern* became *Debt Collector s Lantern*, *Three Forty-Seven* became *Three Forty Seven* and *Memorial Flame Mid-Ceremony* became *Mid Ceremony* — in the section heading, in the *"attributed it to"* clause and in the field-bearer line. Each file's own failure section gave the correct spelling, and each of the 33 now matches it. **Drift between a record's source-trace title and its own failure section: 0.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS · `review.py` `heading` 0.
+
 ## The doubled article, in five constructions (batch 76)
 
 Every modern codex record opens its history section with the same sentence shape, and where the item's own name carries a *The*, the template stacked them:

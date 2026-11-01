@@ -31,7 +31,7 @@ Eleven Fifty-Nine's Edge is the weapon record of the Eleven Fifty-Nine set — �
 
 **Operational / binding cost:** The Edge lands at one minute to midnight and stays there: each strike puts the wielder back at the last minute of a night they cannot finish. Wielded long, they sleep with the light on and cannot say why.
 
-## ITEM-SPECIFIC HISTORY — *The Eleven Fifty Nine Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Eleven Fifty-Nine Source-Trace: Weapon Record*
 
 The first Eleven Fifty-Nine's Edge field bearer encountered this source response: N/A The weapon isolates the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

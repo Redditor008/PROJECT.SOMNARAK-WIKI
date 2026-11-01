@@ -33,12 +33,12 @@ The Grasp Shroud is the suit record of Grasp’s set, granting resistance to Lam
 
 ## ITEM-SPECIFIC HISTORY — *The Grasp Source-Trace: Suit Record*
 
-The first Grasp Shroud field bearer encountered this source response: Tests whether the worker can remain near impossible rescue. The suit witnesses the immediate hazard only after the team attributed it to Grasp. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Grasp Shroud field bearer encountered this source response: Tests whether the worker can remain near impossible rescue. The suit witnesses the immediate hazard only after the team attributed it to Grasp. One wearer adopted the gap as personal grief, the one-remove muffling stopped, and the source spoke at their own volume; the binding dates from that case.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grasp's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the one-remove hearing closes to arm's length, and then to the inside of the wearer's own mouth.
 - Terminal state: Grasp's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not promise rescue; acknowledge the limits of one person” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Grasp Shroud field bearer encountered this source response: Tests whet
 
 ## SET RELATIONSHIP
 
-Within *Grasp — Witnessed Form*, Grasp Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grasp — Witnessed Form*, Grasp Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds only while the wearer keeps the one remove; at arm's length the four pieces are strangers in the same room.
 
 ---
 

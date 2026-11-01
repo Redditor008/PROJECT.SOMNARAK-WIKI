@@ -31,7 +31,7 @@ Goru's Fist's Edge is the weapon record of the Goru's Fist set — γ-grade, Gru
 
 **Operational / binding cost:** The Edge lands like a fist that has already closed: each strike leaves the wielder's hand a little more stone. Wielded long, they cannot open it to drop anything.
 
-## ITEM-SPECIFIC HISTORY — *The Goru s Fist Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Goru's Fist Source-Trace: Weapon Record*
 
 The first Goru's Fist's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Goru's Fist. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

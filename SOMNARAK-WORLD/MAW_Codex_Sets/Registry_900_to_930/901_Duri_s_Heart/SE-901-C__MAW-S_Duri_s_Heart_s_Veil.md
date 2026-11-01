@@ -31,7 +31,7 @@ Duri's Heart's Veil is the suit record of the Duri's Heart set — β-grade, Wei
 
 **Operational / binding cost:** The Veil lends the wearer a preserved heart's endurance: they go on because the crystal will not let them stop. Worn long, the wearer cannot tell fatigue from stillness.
 
-## ITEM-SPECIFIC HISTORY — *The Duri s Heart Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Duri's Heart Source-Trace: Suit Record*
 
 The first Duri's Heart's Veil field bearer encountered this source response: Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. The suit uncouples the immediate hazard only after the team attributed it to Duri's Heart. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

@@ -30,14 +30,14 @@ The Purple Wick Stigma is the stigma record of Memorial Flame Mid-Ceremony’s s
 
 **Operational / binding cost:** The Wick shows grief in the dark and spends itself showing it: each revelation burns a little of the bearer's own night. Carried long, the bearer sleeps only in lit rooms.
 
-## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid-Ceremony Source-Trace: Stigma Record*
 
-The first bearer of The Purple Wick Stigma encountered this source response: Reveals the memorial and those who tended it. The stigma severs the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Purple Wick Stigma encountered this source response: Reveals the memorial and those who tended it. The stigma severs the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. A bearer who counted the burned nights as their own grief woke unable to sleep at all, and the Wick's binding is the note written at that bedside.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Memorial Flame Mid-Ceremony's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the Wick draws on nights the bearer has not lived yet, and the dark around them stops showing anything.
 - Terminal state: Memorial Flame Mid-Ceremony's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Complete the memorial without attempting to recreate the original flame” reverses the item’s benefit and raises the source Gauge.
@@ -46,7 +46,7 @@ The first bearer of The Purple Wick Stigma encountered this source response: Rev
 
 ## SET RELATIONSHIP
 
-Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Purple Wick Stigma performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Purple Wick Stigma performs the stigma role while the other pieces preserve attribution and survival. The Wick's resonance ends when it is asked to show a grief the bearer has already buried.
 
 ---
 

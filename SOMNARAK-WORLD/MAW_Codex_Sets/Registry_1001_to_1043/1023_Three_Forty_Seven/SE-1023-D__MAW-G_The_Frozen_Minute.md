@@ -26,7 +26,7 @@
 
 **Operational / binding cost:** The user loses an equivalent portion of lifespan, paid in advance: each minute takes a fraction of what the bearer has left, and the fraction is written nowhere they can read it.
 
-## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Three Forty-Seven Source-Trace: Stigma Record*
 
 The first bearer of The Frozen Minute encountered this source response: Shows the event frozen at 3:47. The stigma witnesses the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

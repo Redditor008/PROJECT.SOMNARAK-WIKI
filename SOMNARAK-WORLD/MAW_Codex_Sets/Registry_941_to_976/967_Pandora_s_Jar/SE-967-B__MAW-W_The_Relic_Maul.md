@@ -33,7 +33,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Operational / binding cost:** The Cleaver opens what was sealed and puts the record of it where the wielder cannot reach: each blow removes a line about the fight from the wielder's memory. Wielded long, the wielder has fought many battles and remembers none of them.
 
-## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Pandora's Jar Source-Trace: Weapon Record*
 
 The first bearer of The Relic Maul encountered this source response: Burns with retaliatory fury. The weapon opens the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

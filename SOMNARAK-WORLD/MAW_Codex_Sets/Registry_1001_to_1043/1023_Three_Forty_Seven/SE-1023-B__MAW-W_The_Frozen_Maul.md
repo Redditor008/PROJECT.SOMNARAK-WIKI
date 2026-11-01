@@ -27,7 +27,7 @@
 
 **Operational / binding cost:** The Maul moves inside the frozen minute: each blow spends forty-seven seconds the wielder will not remember spending. Wielded long, the wielder has lost hours and cannot say where they went.
 
-## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Three Forty-Seven Source-Trace: Weapon Record*
 
 The first bearer of The Frozen Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

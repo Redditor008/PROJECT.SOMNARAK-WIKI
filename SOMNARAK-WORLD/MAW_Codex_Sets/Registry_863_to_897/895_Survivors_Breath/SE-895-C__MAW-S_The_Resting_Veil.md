@@ -31,7 +31,7 @@ The Resting Veil is the suit record of Survivors’ Breath’s set, granting res
 
 **Operational / binding cost:** The Veil gives the wearer somewhere to rest that nothing can reach: worn, they fall asleep inside their own attention. Worn long, they are absent for longer and longer intervals.
 
-## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Survivors' Breath Source-Trace: Suit Record*
 
 The first bearer of The Resting Veil encountered this source response: Tests whether the worker can rest without abandoning duty. The suit stabilizes the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

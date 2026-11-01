@@ -26,7 +26,7 @@
 
 **Operational / binding cost:** The wearer cannot hide sadness — it shows as beauty on them, and the showing is the price: every grief they would have kept private is now something people compliment.
 
-## ITEM-SPECIFIC HISTORY — *The Mourner s Bloom Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Mourner's Bloom Source-Trace: Stigma Record*
 
 The first bearer of The Sorrow Petal encountered this source response: Reveals the emotion in each petal. The stigma marks the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

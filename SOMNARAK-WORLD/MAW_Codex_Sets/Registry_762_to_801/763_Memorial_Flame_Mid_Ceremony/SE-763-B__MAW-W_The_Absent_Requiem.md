@@ -33,14 +33,14 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Operational / binding cost:** The Bodkin strikes the way a flame is put out — quickly, and by taking the air: each hit leaves the wielder silent for a breath, exactly long enough for someone else to finish the sentence. Wielded long, the wielder's own words arrive last.
 
-## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid-Ceremony Source-Trace: Weapon Record*
 
-The first bearer of The Soul-Seeking Candelabrum encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Soul-Seeking Candelabrum encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. A wielder treated the stolen breath as their own silence, struck through it, and hit the source instead of the target; the binding dates from that strike.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Memorial Flame Mid-Ceremony's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the silence between hits lengthens past a breath, and it no longer ends when the striking does.
 - Terminal state: Memorial Flame Mid-Ceremony's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Complete the memorial without attempting to recreate the original flame” reverses the item’s benefit and raises the source Gauge.
@@ -49,7 +49,7 @@ The first bearer of The Soul-Seeking Candelabrum encountered this source respons
 
 ## SET RELATIONSHIP
 
-Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Soul-Seeking Candelabrum performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Soul-Seeking Candelabrum performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set the first time its silence is spent on someone who is still speaking.
 
 ---
 

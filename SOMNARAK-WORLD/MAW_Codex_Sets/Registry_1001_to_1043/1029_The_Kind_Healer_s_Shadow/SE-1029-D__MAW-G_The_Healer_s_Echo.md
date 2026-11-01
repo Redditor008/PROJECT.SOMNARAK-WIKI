@@ -26,7 +26,7 @@
 
 **Operational / binding cost:** The Echo closes a wound by taking the pain into the bearer and filing it as theirs: after enough healing, they cannot tell an injury they were given from one they were born with.
 
-## ITEM-SPECIFIC HISTORY — *The Kind Healer s Shadow Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Kind Healer's Shadow Source-Trace: Stigma Record*
 
 The first bearer of The Healer's Echo encountered this source response: Reveals the healer whose compassion formed it. The stigma interrupts the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

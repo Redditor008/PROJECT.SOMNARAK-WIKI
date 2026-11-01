@@ -27,7 +27,7 @@
 
 **Operational / binding cost:** The wielder cannot ignore what the light shows, and the showing is the charge: each debt it reveals becomes one the bearer now knows about and answers for.
 
-## ITEM-SPECIFIC HISTORY — *The Debt Collector s Lantern Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Debt Collector's Lantern Source-Trace: Stigma Record*
 
 The first Pale Wick Stigma field bearer encountered this source response: Reveals hidden debts and their origins. The stigma stabilizes the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

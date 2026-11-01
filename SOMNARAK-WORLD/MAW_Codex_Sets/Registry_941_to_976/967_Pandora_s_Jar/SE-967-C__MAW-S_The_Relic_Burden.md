@@ -31,7 +31,7 @@ The Relic Burden is the suit record of the Pandora's Jar set — δ-grade, Weigh
 
 **Operational / binding cost:** The Burden converts the blow into more of the same: worn, the wearer is stronger every time they are hit and never releases it. Worn long, the wearer's body is a sealed container of force.
 
-## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Pandora's Jar Source-Trace: Suit Record*
 
 The first bearer of The Relic Burden encountered this source response: Tests the worker beneath increasing heat. The suit stabilizes the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

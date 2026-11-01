@@ -31,7 +31,7 @@ The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Wei
 
 **Operational / binding cost:** The Brace takes the collapse into itself and then into the wrist: while worn, the wearer stands and everything they brace leans on them. Worn long, a room with nothing to hold reads as a fall waiting.
 
-## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Survivor's Span Source-Trace: Suit Record*
 
 The first bearer of The Bridge Brace encountered this source response: Tests whether the worker can stand beneath shared weight. The suit isolates the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

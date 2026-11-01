@@ -33,7 +33,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Operational / binding cost:** The Orrery swings through the arc of a bridge that is no longer there: every strike carries the wielder across a gap they are still standing in. Each blow leaves them a little further from the bank they started on.
 
-## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Survivor's Span Source-Trace: Weapon Record*
 
 The first bearer of The Bridge Maul encountered this source response: Broken spans strike the tunnel walls. The weapon witnesses the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

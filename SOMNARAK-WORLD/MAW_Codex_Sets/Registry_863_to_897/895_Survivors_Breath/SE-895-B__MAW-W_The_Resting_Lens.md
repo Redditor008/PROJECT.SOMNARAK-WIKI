@@ -33,7 +33,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Operational / binding cost:** The Awl punctures the place a person holds their breath: each strike costs the wielder their own next exhale. Wielded long, the wielder fights without breathing.
 
-## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Survivors' Breath Source-Trace: Weapon Record*
 
 The first bearer of The Resting Lens encountered this source response: Becomes a harsh wind and spreads through the halls. The weapon opens the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

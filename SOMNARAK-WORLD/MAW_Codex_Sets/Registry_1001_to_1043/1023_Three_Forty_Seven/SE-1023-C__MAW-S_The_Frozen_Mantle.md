@@ -27,7 +27,7 @@
 
 **Operational / binding cost:** The Mantle holds the wearer in the moment before impact: worn, they are permanently braced, and bracing costs what standing costs. Worn long, they cannot be surprised and cannot rest.
 
-## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Three Forty-Seven Source-Trace: Suit Record*
 
 The first bearer of The Frozen Mantle encountered this source response: Tests the worker inside stretched time. The suit marks the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

@@ -31,7 +31,7 @@ Goru's Fist's Veil is the suit record of the Goru's Fist set — γ-grade, Grudg
 
 **Operational / binding cost:** The Veil holds the grudge in the body instead of the mind: worn, the wearer's arms stay half-raised and their reactions stiffen at every slight. Worn long, they stand like someone about to hit a thing that is not there.
 
-## ITEM-SPECIFIC HISTORY — *The Goru s Fist Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Goru's Fist Source-Trace: Suit Record*
 
 The first Goru's Fist's Veil field bearer encountered this source response: Stay in the room with empty hands for the length of a shift; the tempo settles to the rate of whoever is standing there, and the endurance is spent not reaching for the stone. The suit stays the immediate hazard only after the team attributed it to Goru's Fist. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
