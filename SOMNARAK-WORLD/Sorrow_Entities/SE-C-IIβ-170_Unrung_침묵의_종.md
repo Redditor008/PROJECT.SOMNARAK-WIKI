@@ -143,26 +143,17 @@ Two figures come off this holding, and they are not answering the same question.
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** A hand laid on the rim with the words spoken aloud, by one person, that they are listening. It has happened once in the holding's history and the words are not recorded, because no two of the three present agree on them.
-
-**Effect:** One sealed door opens, or one warning that was raised and never answered is delivered to whoever is standing there. The single recorded instance delivered a warning from a file none of the three present had clearance for, to those three and to nobody else.
-
-**Duration:** Until the door is closed again or the warning is understood by the person it reached. The holding notes that understanding is not a condition anybody can certify, and that this has never been resolved.
-
-**Risk:** The bearer afterwards cannot leave a warning unanswered. All three of the recorded instance escalated matters past silent desks within the year; two were disciplined for it and one was promoted.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Fixed-site contact use** — worked at the plinth where it stands; never equipped, carried or mounted elsewhere |
-| **Activation** | A hand on the rim and the spoken statement, by one person, that they are listening. One recorded instance; the wording is not on file. |
-| **Primary Effect** | One sealed door opened, or one unanswered warning delivered to whoever is present. |
-| **Duration** | Until the door is closed or the warning is understood, a condition nobody can certify. |
+| **Activation** | A hand laid on the rim with the words spoken aloud, by one person, that they are listening. One recorded instance, and the wording is not on file because no two of the three present agree on it. |
+| **Primary Effect** | One sealed door opens, or one warning raised and never answered is delivered to whoever is standing there. The single recorded instance delivered a warning from a file none of the three present had clearance for, to those three and to nobody else. |
+| **Duration** | Until the door is closed again or the warning is understood by the person it reached — a condition nobody can certify, which the holding notes and has never resolved. |
 | **Termination / Return** | Hand off the rim, walk out along the marked line, and give the account at the station before speaking to anyone else who was present. The separate-accounts provision is the whole of the detachment protocol here. |
-| **Risk** | The bearer cannot afterwards leave a warning unanswered. Two disciplined, one promoted. |
+| **Risk** | The bearer afterwards cannot leave a warning unanswered. All three of the recorded instance escalated matters past silent desks within the year, two were disciplined for it and one was promoted. |
 
 **Operational Rule:** The relic cannot be taken from the plinth and is worked where it stands. It does not replace the session; containment remains Viderehan and Ferrehan, with Ferrehan primary.
 

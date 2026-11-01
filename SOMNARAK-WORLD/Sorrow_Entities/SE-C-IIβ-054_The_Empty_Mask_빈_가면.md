@@ -151,26 +151,17 @@ The gauge on an object held with three others is close to meaningless and the ho
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Contact. Placement over the face is the completed form and is not required; a palm on the inner surface for eight seconds has produced every stage of the record.
-
-**Effect:** Others cannot hold the wearer's identity. They see a person, address them correctly in the moment, and cannot afterwards say who was in the room.
-
-**Duration:** Until somebody else says the wearer's name to them and the wearer answers to it.
-
-**Risk:** Progressive identity loss. The documented early sign is a worker giving a service number where a name was asked for, promptly and without noticing.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | Contact; eight seconds of palm against the inner surface is sufficient. |
-| **Primary Effect** | Others cannot retain who the wearer is, during or afterwards. |
-| **Duration** | Until another person says the wearer's name and the wearer answers to it. |
+| **Activation** | Contact. Placement over the face is the completed form and is not required; eight seconds of a palm against the inner surface has produced every stage of the record. |
+| **Primary Effect** | Others cannot hold the wearer’s identity during or afterwards: they see a person, address them correctly in the moment, and cannot afterwards say who was in the room. |
+| **Duration** | Until somebody else says the wearer’s name to them and the wearer answers to it. |
 | **Termination / Return** | The piece comes off when a second person says the wearer's name and the wearer answers to it; the tray log closes the entry. Forced removal without the naming is entered as an injury to the handler, and the near miss that produced the sleeping-person clause is the standing example. |
-| **Risk** | Progressive identity loss, first presenting as a service number offered in place of a name. |
+| **Risk** | Progressive identity loss, whose documented early sign is a worker giving a service number where a name was asked for, promptly and without noticing. |
 
 **Operational Rule:** The relic functions only while carried, and this holding does not issue it for field use. Two handlers, tray to tray, no exceptions on record and one near miss that produced the sleeping-person clause.
 

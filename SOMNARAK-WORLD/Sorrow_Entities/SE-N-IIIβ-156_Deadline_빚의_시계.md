@@ -162,26 +162,17 @@ Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Obje
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** Bare contact by a person carrying an unlodged entitlement or an outstanding obligation. People with neither get nothing; the face stays where it was for the previous reader.
-
-**Effect:** The hands resolve onto that person's next published date and run to it in real time.
-
-**Duration:** Until the hand is lifted, or until the underlying obligation changes, at which point the hands jump without warning.
-
-**Risk:** The reader may recognise the date. Nine have. Four of the nine finished the watch.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Contact reading only** — no channel is held or carried away; the hand lifts, the reading is entered, and the contact ends |
-| **Activation** | Bare contact by a person with an unlodged entitlement or an outstanding obligation. |
-| **Primary Effect** | That person's next published date, counted in days and running. |
-| **Duration** | Until the hand is lifted or the obligation changes. The jump on a change is instantaneous and has no warning. |
+| **Activation** | Bare contact by a person carrying an unlodged entitlement or an outstanding obligation. People with neither get nothing, and the face stays where it was for the previous reader. |
+| **Primary Effect** | The hands resolve onto that person’s next published date and run to it in real time, counted in days. |
+| **Duration** | Until the hand is lifted or the underlying obligation changes, at which point the hands jump instantly and without warning. |
 | **Termination / Return** | The hand is lifted deliberately and the reading entered before the reader leaves the room. A reading carried out of the room unwritten is treated as not taken. |
-| **Risk** | Recognition of the date. Nine cases; nobody in the room may ask whose it is. |
+| **Risk** | The reader may recognise the date; nine have, and four of the nine finished the watch. Nobody in the room may ask whose it is. |
 
 **Operational Rule:** The reading requires an undivided watch and is void if the reader is interrupted. Two readers are present and neither sees the other's figure; the instrument cannot be checked against anything, including itself, and the standing order states that it is unverifiable and is logged anyway.
 

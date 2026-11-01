@@ -160,15 +160,6 @@ The Work Type table holds steady here and the patrol sheet does not. The gauge t
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic shows a shift that was worked by somebody else, and the viewer will file it as their own unless a second person ends the viewing**
-
-**Activation Trigger:** Touch or direct gaze.
-
-**Effect:** Shows the room beyond as it stood when the length was last walked, including the people, who do not look back.
-
-**Duration:** Until the viewer looks away, and the viewer is never the one who ends it; every recorded viewing was ended by a second person.
-
-**Risk:** The viewer may mistake a borrowed room for personal history, and four have filed accounts of a shift they never worked.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -176,10 +167,10 @@ The Work Type table holds steady here and the patrol sheet does not. The gauge t
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Touch or direct gaze. |
-| **Primary Effect** | Shows the room beyond as it stood when the length was last walked, people included. |
-| **Duration** | Until the viewer looks away, which in every recorded case required a second person. |
+| **Primary Effect** | Shows the room beyond as it stood when the length was last walked, people included, and they do not look back. |
+| **Duration** | Until the viewer looks away — and the viewer is never the one who ends it; every recorded viewing was ended by a second person. |
 | **Termination / Return** | A second person ends the viewing by saying the viewer's name and the current date. Nothing else has ever worked; the viewer cannot end it themselves and has never, in nine years, tried to. |
-| **Risk** | The viewer may file a shift they never worked; four have. |
+| **Risk** | The viewer may mistake a borrowed room for personal history. Four have filed accounts of a shift they never worked. |
 
 **Operational Rule:** The present pane remains in its tunnel wall; the two attempted removals did not relocate it. The I-Relic mounting account supplies no successful removal or portable state, so do not use that instruction to carry the source window on a bearer. Viewing cannot replace the patrol round: the holding’s standing warning is that it was twice treated as a substitute for walking. Keep any claimed limit beyond the last worked length separate from proof of source portability.
 

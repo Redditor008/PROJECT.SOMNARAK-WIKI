@@ -166,26 +166,17 @@ Work Type data is one input among many, and the code and the coherence level dec
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic draws personal resilience out of a bearer across a long use** — the drain is slow, it shows first as stillness, and it is why the post runs on a timed watch with a named relief.
-
-**Activation Trigger:** Direct line of sight into the pane. There is no equipping and no handling; looking is the whole mechanism.
-
-**Effect:** A life outside the tunnel, continuing, with the viewer absent from it. It is not the viewer's memory and has never twice been the same life.
-
-**Duration:** Until the viewer looks away, which is the measurement: 4.2 minutes on the quarterly mean three years ago, 8.8 now.
-
-**Risk:** The viewer does not resume. The sign is not distress; it is a worker still facing the pane with their own task behind them and no sense of time having passed.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Line-of-sight viewing; the source pane stays fixed in the wall** |
-| **Activation** | Line of sight. No handling, no cooldown, no detachment procedure. |
-| **Primary Effect** | An outside life in progress without the viewer in it. |
-| **Duration** | Until the viewer looks away; mean unbroken hold 8.8 minutes and rising. |
+| **Activation** | Direct line of sight into the pane. There is no equipping and no handling; looking is the whole mechanism. |
+| **Primary Effect** | A life outside the tunnel, continuing, with the viewer absent from it. It is not the viewer’s memory and it has never twice been the same life. |
+| **Duration** | Until the viewer looks away, which is the measurement: 4.2 minutes on the quarterly mean three years ago, 8.8 now. |
 | **Termination / Return** | The viewing ends when the operative looks away. No source pane is unequipped, removed or returned; record who ended the gaze and whether the viewer resumed present work. The contradictory wear-based log below does not establish a detachment procedure. |
-| **Risk** | Failure to resume, detected on the roster rather than at the pane. |
+| **Risk** | The viewer does not resume. The sign is not distress but a worker still facing the pane with their own task behind them and no sense of time having passed, detected on the roster rather than at the pane. |
 
 **Operational Rule:** The relic requires line of sight and nothing else — it begins the moment the operative looks and ends the moment they look away, with no detachment procedure and no cooldown. It cannot be used to work the Window, and it grants no authority over it; Viderehan and Ferrehan remain the only valid responses.
 

@@ -155,13 +155,7 @@ The table is a diagnostic to read, not a procedure to follow: it says which Work
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
 
-**Activation Trigger:** New routes destroyed without witness, or an expedition treats the Trace as a shortcut to safety.
-
-**Effect:** Compass needles point along the broken line; travellers lose direction and feel they have failed to arrive wherever they stand.
-
-**Duration:** Until forward movement stops, a current route map and return line are re-established, and discovered names are preserved.
-
-**Risk:** A worker may keep walking past the endpoint in the reasonable conviction that they are still mid-journey, or hear unfinished footsteps as their own.
+> **What the Trace does on its own.** New routes destroyed without witness set it moving, or an expedition treating the Trace as a shortcut to safety. Compass needles then point along the broken line, travellers lose direction and feel they have failed to arrive wherever they stand, and it holds until forward movement stops, a current route map and return line are re-established, and the discovered names are preserved. A worker may keep walking past the endpoint in the reasonable conviction that they are still mid-journey, or hear unfinished footsteps as their own. The profile above is the relic’s use; this is the entity’s own activation, and the file keeps them apart on purpose.
 
 ### Tool Use Profile — I-Relic
 

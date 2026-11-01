@@ -159,26 +159,17 @@ The gauge on a site holding is a shift reading. The figure that is kept is the d
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector Alteration — the field, not the fabric**
 > **This Relic bleeds channel resonance when the pendulum is left untended**
-
-**Activation Trigger:** Manual rotation of the escapement wheel, which is performed only under the Tool protocol, or an abrupt change in the pressure at the tower base.
-
-**Effect:** A six-metre dilation field. Anything issued into it arrives late — a blow, a shout, an order — by about two turns, and the lateness is symmetrical.
-
-**Duration:** Continuous while the pendulum swings, which is continuous. The field is ended by closing the channel, not by waiting.
-
-**Risk:** Your own people are slowed identically, and crossing the perimeter costs a half-minute of severe disorientation. Both effects have been used against this facility by nobody; every casualty has come from a second instruction.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
-| **Activation** | Escapement rotation under Tool protocol, or an abrupt pressure change at the base. |
-| **Primary Effect** | Six-metre field in which everything issued arrives about two turns late, symmetrically. |
-| **Duration** | Continuous. The pendulum does not stop; the channel is closed deliberately. |
+| **Activation** | Manual rotation of the escapement wheel under the Tool protocol, or an abrupt change in the pressure at the tower base. |
+| **Primary Effect** | A six-metre dilation field in which everything issued arrives about two turns late — a blow, a shout, an order — and the lateness is symmetrical. |
+| **Duration** | Continuous while the pendulum swings, which is continuous. The field ends by closing the channel, not by waiting. |
 | **Termination / Return** | The channel is closed deliberately by the operator, on the call of somebody standing outside the field; releasing the conduit without closing it vents uncontained Weight resonance across the sector, which is why the closing order is never given from inside. |
-| **Risk** | Symmetrical slowing of your own people; half a minute of disorientation on crossing out. |
+| **Risk** | Your own people are slowed identically, and crossing the perimeter costs half a minute of severe disorientation. No enemy has ever used either effect; every casualty on file came from a second instruction. |
 
 **Operational Rule:** The channel requires an operator who is being timed by somebody outside the field. An untended channel destabilises, and an operator inside it is the last person able to judge how long it has been open.
 

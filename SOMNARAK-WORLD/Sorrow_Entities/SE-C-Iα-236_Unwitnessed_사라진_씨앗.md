@@ -159,26 +159,17 @@ Ferrehan lowers the gauge and Viderehan holds it level, and both are performed w
 > **This Relic is measured in millimetres, after the fact, by an instrument nobody watched.**
 > **No perimeter effect has ever been instrumented. There is no channel and nothing bleeds.**
 > **Mark the absence; do not excavate or plant into it.**
-
-**Activation Trigger:** A person entered on this facility's registers with no recorded beginning. The land has nothing to do with it; the correlation with registrations was established in Year 4229 and the correlation with Desolate soil conditions has been tested four times and failed four times.
-
-**Effect:** A slow deepening of the hollow, measurable only after the fact. There is no perimeter effect; the phrase survived from a template and no instrument has ever registered anything beyond the outline.
-
-**Duration:** It does not end and has never reversed. The shallowest reading in the series is four millimetres and the hollow has never once returned to the ground plane.
-
-**Risk:** To the operator, involuntary weeping and numbness to small pleasures. To the site, nothing: it is not destabilised by anything and four hundred years of attempts to destabilise it are documented in the folder as failures.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Absence.** The one piece of apparatus is an unattended dial logger on a fixed tripod; nothing is channelled, held or operated in person. |
-| **Activation** | A person registered here with no recorded beginning. Not a property of the land; four soil-condition tests, four failures. |
-| **Primary Effect** | Deepening of the hollow, read after the fact. No perimeter effect has ever been instrumented. |
-| **Duration** | Permanent. No reading has ever returned to the ground plane. |
+| **Activation** | A person entered on this facility’s registers with no recorded beginning. The land has nothing to do with it: the registrations correlation was established in Year 4229, and the soil-condition correlation has been tested four times and failed four times. |
+| **Primary Effect** | A slow deepening of the hollow, measurable only after the fact. There is no perimeter effect — the phrase survived from a template, and no instrument has registered anything beyond the outline. |
+| **Duration** | It does not end and has never reversed. The shallowest reading in the series is four millimetres, and the hollow has never returned to the ground plane. |
 | **Termination / Return** | Recovery on day seven: approach, lift the logger, read the week. The trace stops within four seconds of arrival, every time. No conduit exists to vent, and no instrument has ever registered anything beyond the outline. |
-| **Risk** | Weeping and flattened affect in the operator. The site itself has never been destabilised by anything attempted on it. |
+| **Risk** | To the operator, involuntary weeping and numbness to small pleasures. To the site, nothing: four hundred years of attempts to destabilise it are documented in the folder as failures. |
 
 **Operational Rule:** The relic is the one piece in the archive that requires the operator's absence. A channel held in person yields nothing at all, which was established over eighty years of patient failure before anybody thought to walk away and come back.
 

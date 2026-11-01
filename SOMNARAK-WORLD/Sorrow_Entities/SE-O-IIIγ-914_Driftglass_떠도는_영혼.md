@@ -171,13 +171,7 @@ Escalation here is spatial and quiet. Record the junction sequence, the drift he
 > **This Relic alters the operator first: whoever carries it starts reading every road as open and none as theirs.**
 > **This Relic extracts personal resilience in hours, and gives it back as a reluctance to go home.**
 
-**Activation Trigger:** Any attempt to direct its route — a door closed ahead of it, a corridor cleared, a destination named in its hearing.
-
-**Effect:** Personnel lose the sense of belonging anywhere in particular, and report it late, if at all.
-
-**Duration:** Until an anchor from outside the city is acknowledged, which slows the drift and does not stop it.
-
-**Risk:** Major (γ). The operator starts planning the route on the holding's behalf, and by the time they notice, they believe they are helping.
+> **What the drift does when anyone tries to steer it.** Any attempt to direct its route triggers it: a door closed ahead of it, a corridor cleared, a destination named in its hearing. Personnel then lose the sense of belonging anywhere in particular and report it late, if at all, until an anchor from outside the city is acknowledged — which slows the drift and does not stop it. The operator who starts planning the route on the holding’s behalf is the documented failure state, and by the time they notice, they believe they are helping. The profile above is what the worn piece does; this is what the drift does, and the two are not the same mechanism.
 
 ### Tool Use Profile — I-Relic
 

@@ -159,26 +159,17 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Contact, or anger directed at it on purpose. Anger merely carried into the vault deepens the grade without activating it.
-
-**Effect:** It takes the hostility and keeps it. Nothing is returned, discharged or reduced; the holding has never given anything back except in the one recorded way.
-
-**Duration:** Indefinite. The release condition in the file requires the grievance to be acknowledged by whoever it was against, and that has happened eleven times in four thousand and nine.
-
-**Risk:** It can return the whole store to one person at once. Twice on record, both to operatives who shouted at it.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | Contact, or deliberate projection of anger. |
-| **Primary Effect** | Absorption and indefinite storage of hostile emotion. |
-| **Duration** | Until acknowledgement, which the record shows is not a condition the Company's procedures can produce. |
+| **Activation** | Contact, or anger directed at it on purpose. Anger merely carried into the vault deepens the grade without activating it. |
+| **Primary Effect** | It takes the hostility and keeps it. Nothing is returned, discharged or reduced, and the holding has never given anything back except in the one recorded way. |
+| **Duration** | Indefinite. The release condition requires the grievance to be acknowledged by whoever it was against, which has happened eleven times in four thousand and nine. |
 | **Termination / Return** | The carriage profile applies to the mounted vault plate, not to the shadow, which cannot be lifted, carried or detached. Operatives release the plate and withdraw beyond the chalk; nothing is returned anywhere. |
-| **Risk** | Single-recipient discharge of the entire store. Two occurrences, both following raised voices. |
+| **Risk** | It can return the whole store to one person at once — twice on record, both to operatives who shouted at it. |
 
 **Operational Rule:** The plate works where it is bolted, in the vault, within sight of the outline. Nothing it does replaces the scheduled cycle, which remains Viderehan and Ferrehan.
 

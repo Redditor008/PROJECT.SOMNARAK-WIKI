@@ -149,26 +149,17 @@ Beating Relic is an Object of Fragment (III) coherence — Object-Body manifesta
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Bare-handed grip. Gloved contact does nothing and has been tested to the satisfaction of two review boards.
-
-**Effect:** The relic takes the bearer's pulse and the bearer's resentment together, granting +20% melee kinetic force and Grudge resistance while steadily accelerating the heart and moving Goru's fury into the bearer's own reasoning, where it arrives as conviction rather than as rage.
-
-**Duration:** While held in the bare hand, until released onto the containment plinth.
-
-**Risk:** Past sixty seconds, acute tachycardia, hyper-aggression and emotional haemorrhage as the bearer's pulse locks to the relic's tempo rather than the reverse.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable in the bare hand only; cannot be mounted, rigged, or left gripping anything.** |
-| **Activation** | Bare-handed grip; gloved contact produces nothing. |
-| **Primary Effect** | Pulse and resentment synchronised: +20% melee kinetic force and Grudge resistance, with continuous heart acceleration and transfer of the originating fury into the bearer's reasoning. |
-| **Duration** | While held bare-handed, until released onto the plinth. |
+| **Activation** | Bare-handed grip. Gloved contact produces nothing and has been tested to the satisfaction of two review boards. |
+| **Primary Effect** | The relic takes the bearer’s pulse and the bearer’s resentment together: +20% melee kinetic force and Grudge resistance, with the heart accelerating continuously and Goru’s fury arriving in the bearer’s own reasoning as conviction. |
+| **Duration** | While held in the bare hand, until released onto the containment plinth. |
 | **Termination / Return** | The bearer releases onto the plinth under the detachment protocol, hand opened slowly. Premature return or wear past the threshold extracts severe Grudge trauma, and the forced detachments on file produced the longest recoveries in the wing. |
-| **Risk** | Acute tachycardia, hyper-aggression and emotional haemorrhage past sixty seconds, with the bearer's pulse locking to the relic's tempo. |
+| **Risk** | Past sixty seconds, acute tachycardia, hyper-aggression and emotional haemorrhage, as the bearer’s pulse locks to the relic’s tempo rather than the reverse. |
 
 **Operational Rule:** It functions only in a bare hand and cannot be mounted, rigged, or left gripping anything. It does not substitute for a scheduled cycle, and containment remains Viderehan and Ferrehan whatever a handler is carrying.
 

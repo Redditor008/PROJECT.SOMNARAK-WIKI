@@ -159,15 +159,6 @@ Ferrehan lowers the gauge and the endurance it tests is precise: the worker stan
 > **This Relic gives one sealed warning, or one sealed passage. It does not take instruction on which.**
 > **This Relic has never rung, and the containment does not attempt to make it.**
 > **The bearer afterwards cannot sign anything they have not personally checked.**
-
-**Activation Trigger:** Touch while saying, “I am listening.”
-
-**Effect:** One sealed warning read out, or one sealed passage opened. Never both from the same approach, and the choice of which is not made by the bearer.
-
-**Duration:** Until the warning is understood — which is assessed by a second officer, not by the bearer — or until the passage closes on its own.
-
-**Risk:** The bearer afterwards cannot sign anything they have not personally checked. It is not a scruple; it is an incapacity, and it has ended two administrative careers.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -175,10 +166,10 @@ Ferrehan lowers the gauge and the endurance it tests is precise: the worker stan
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **At the plinth; nothing is equipped or mounted.** The bell is hung where it has always been and is approached, not carried. |
 | **Activation** | Touch while saying, “I am listening.” |
-| **Primary Effect** | One sealed warning, or one sealed passage. Never both from one approach. |
-| **Duration** | Until a second officer certifies the warning understood, or the passage closes. |
+| **Primary Effect** | One sealed warning read out, or one sealed passage opened — never both from the same approach, and the choice of which is not made by the bearer. |
+| **Duration** | Until the warning is understood, which a second officer assesses and the bearer cannot, or until the passage closes on its own. |
 | **Termination / Return** | The bearer takes their hand off the rim and the second officer closes the record; there is nothing to detach and nothing is returned anywhere. No physical hazard is on record at any radius in sixty-four years — the cost is the bearer's capacity to certify, and it is not refunded. |
-| **Risk** | Permanent inability to certify anything the bearer has not personally tested. Two careers ended. |
+| **Risk** | The bearer afterwards cannot sign anything they have not personally checked. It is not a scruple but an incapacity, and it has ended two administrative careers. |
 
 **Operational Rule:** Requests to use the relic are decided above the level of the staff who submit them, because the choice between a warning and a passage is not made by the bell and the authority to accept whichever comes must sit with someone who can act on it. It has no field application. Eleven requests, four approvals, all documented with their grounds.
 

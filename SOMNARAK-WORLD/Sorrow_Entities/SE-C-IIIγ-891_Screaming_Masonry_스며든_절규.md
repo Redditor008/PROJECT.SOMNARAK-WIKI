@@ -159,26 +159,17 @@ Screaming Masonry is a Fragment (III) Object/Place of Major (γ) potency, Object
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** A new obligation left undischarged within the district, which in Old Lament is a daily event and is why the relic is never cold.
-
-**Effect:** +3 to the working attribute against this entity, and a standing +10% resistance to Weight damage, for as long as the shard is borne.
-
-**Duration:** For as long as it is worn, until the removal condition is met and the detachment is completed in order.
-
-**Risk:** Emotional strain rising with every quarter-minute of wear, and destabilisation of the bearer where the wear is extended or the detachment is rushed.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Personal bearing only under the local I-Relic protocol; mounting or rigging is forbidden.** The fit to the drifting shard remains undocumented. |
-| **Activation** | A new obligation left undischarged within the district. |
-| **Primary Effect** | +3 to the working attribute against the source entity, with +10% Weight resistance while borne. |
-| **Duration** | Continuous while worn, until the removal condition is met. |
+| **Activation** | A new obligation left undischarged within the district — which in Old Lament is a daily event, and the reason the relic is never cold. |
+| **Primary Effect** | +3 to the working attribute against this entity, and a standing +10% resistance to Weight damage, for as long as the shard is borne. |
+| **Duration** | For as long as it is worn, until the removal condition is met and the detachment is completed in order. |
 | **Termination / Return** | The bearer unequips under the detachment protocol, slowly and in order. Premature return or wear past the safe threshold inflicts severe Weight trauma, and both have occurred in this containment. |
-| **Risk** | Rising emotional strain with wear; destabilisation of the bearer; and, on forced detachment, acute panic lasting hours. |
+| **Risk** | Emotional strain rising with every quarter-minute of wear, and destabilisation of the bearer where the wear is extended or the detachment rushed; a forced detachment leaves acute panic lasting hours. |
 
 **Operational Rule:** The relic works only while borne by a person and cannot be mounted, rigged or left in place. It does not substitute for a scheduled cycle, and containment remains Viderehan and Ferrehan whatever the bearer is carrying.
 

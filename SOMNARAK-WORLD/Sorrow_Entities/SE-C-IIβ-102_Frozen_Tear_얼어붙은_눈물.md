@@ -155,26 +155,17 @@ Two rows of this table are blank by rule rather than by result, and the two that
 > **This Relic permits grief to be visible inside its radius without consequence. It does not soothe, suppress or treat.**
 > **This Relic is never touched, under any authority. The prohibition is the containment.**
 > **Contact delivers the originator's grief entire. Proximity only surfaces your own.**
-
-**Activation Trigger:** None. Being inside the field is sufficient and nothing need be done at all.
-
-**Effect:** Inside the radius, distress is simply allowed to be present. It is not soothed, suppressed or treated as a lapse of composure.
-
-**Duration:** As long as the person stays, and by every account a little while after.
-
-**Risk:** Contact delivers the originator's grief entire. No authorised worker has touched it; the two unauthorised instances are in the sealed counselling series.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Proximity only; nothing is equipped, mounted or carried.** The carrying profile for this class is theoretical and has never been authorised as a trial. |
-| **Activation** | None. Proximity alone. |
-| **Primary Effect** | A radius in which grief is permitted to be visible without consequence. |
-| **Duration** | While the person remains, plus a short carry-over. |
+| **Activation** | None. Being inside the field is sufficient and nothing need be done at all. |
+| **Primary Effect** | A radius in which grief is permitted to be visible without consequence: distress is simply allowed to be present, and is not soothed, suppressed or treated as a lapse of composure. |
+| **Duration** | As long as the person stays, and by every account a little while after. |
 | **Termination / Return** | Theoretical. The relic profile assumes an operative who has equipped it, and nobody ever has; the class entry is retained for completeness and flagged as untested. |
-| **Risk** | Contact transfers the full original grief. Untested under authority and not to be tested. |
+| **Risk** | Contact delivers the originator’s grief entire. No authorised worker has touched it; the two unauthorised instances are in the sealed counselling series, and it is not to be tested. |
 
 **Operational Rule:** The field works at a distance, which is fortunate, because the relic protocol for this class requires carrying it and the standing order forbids touching it. Where the two conflict the standing order governs.
 

@@ -143,15 +143,6 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 > **A finding may state what was done, what was not done, what was available, and what was known at the time.**
 > **It may not state what would have happened had another course been taken.**
 > **You have found a principled reason to stop apologising. — family representative, at the consultation**
-
-**Activation Trigger:** Regret focused on an unchosen path.
-
-**Effect:** The frost advances past the third stone and the far end becomes marginally clearer — never clear, marginally clearer — and every operative present afterwards reports a different thing resolving out of it.
-
-**Duration:** While equipped. The relic will not release from a bearer who has an unwithdrawn finding of their own stating an outcome for a course not taken. There is no injury in the refusal and no warning; it simply stays on.
-
-**Risk:** The bearer becomes certain. Of the six long-term bearers, four afterwards wrote findings that had to be withdrawn, and in each case the withdrawn sentence was the only one in the document stating a result rather than an option.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -159,10 +150,10 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Regret focused on an unchosen path. |
-| **Primary Effect** | Frost advances past the third stone; the far end clarifies slightly and differently for every observer present. |
-| **Duration** | While equipped; will not release from a bearer holding an unwithdrawn counterfactual finding. |
+| **Primary Effect** | Frost advances past the third stone and the far end becomes marginally clearer — never clear, marginally clearer — and every operative present afterwards reports a different thing resolving out of it. |
+| **Duration** | While equipped. The relic will not release from a bearer holding an unwithdrawn finding of their own that states an outcome for a course not taken; there is no injury in the refusal and no warning, it simply stays on. |
 | **Termination / Return** | Returned the same evening unless the bearer holds an unwithdrawn finding stating an outcome for a course not taken, in which case it simply stays on. There is no injury in the refusal and no warning. |
-| **Risk** | Progressive certainty about unexamined outcomes. Four of six long-term bearers issued findings that were later withdrawn. |
+| **Risk** | The bearer becomes certain. Of the six long-term bearers, four afterwards wrote findings that had to be withdrawn, and in each case the withdrawn sentence was the only one in the document stating a result rather than an option. |
 
 **Operational Rule:** The relic is carried by the officer presenting a finding to a hearing, on the day they present it, and returned the same evening. It has no field application, has never been issued for one, and the three requests to take it past the Gardens perimeter are all in the folder with their refusals.
 

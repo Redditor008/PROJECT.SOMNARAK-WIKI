@@ -159,26 +159,17 @@ The table holds steady and the cards do not. What the Gardens tracks is the prop
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Worn over the face this relic makes grief invisible, including to the person having it**
-
-**Activation Trigger:** Placing it over a face. This has not happened since the frame was built and the nine historical instances are the whole of the activation record.
-
-**Effect:** The wearer cannot be recognised and can feel every unexpressed grief within the dulled volume, including the ones their colleagues are entitled to keep.
-
-**Duration:** Until another person lifts it off. Nine wearers, nine removals by somebody else, no exceptions.
-
-**Risk:** Continuous weeping that does not stop while it is on, and knowledge of colleagues' private losses that the wearer afterwards cannot unknow and must not repeat.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | Placement over a face; prohibited absolutely since the frame was built. |
-| **Primary Effect** | Concealment of the wearer, and access to every unexpressed grief inside the dulled volume. |
-| **Duration** | Until somebody else lifts it off; the wearer cannot. |
+| **Activation** | Placement over a face. Prohibited absolutely since the frame was built; the nine historical instances are the whole of the activation record. |
+| **Primary Effect** | Concealment of the wearer, and access to every unexpressed grief inside the dulled volume — including the ones their colleagues are entitled to keep. |
+| **Duration** | Until another person lifts it off; the wearer cannot. Nine wearers, nine removals by somebody else, no exceptions. |
 | **Termination / Return** | Somebody else lifts it off; the wearer cannot, in nine recorded instances without exception. The assigned remover approaches from behind, names the wearer, and waits for a responsive answer before lifting. Afterwards the card is written and filed unread, as at the end of any watch. |
-| **Risk** | Unstoppable weeping, and private knowledge the wearer did not ask for and cannot return. |
+| **Risk** | Continuous weeping that does not stop while it is on, and knowledge of colleagues’ private losses that the wearer afterwards cannot unknow and must not repeat. |
 
 **Operational Rule:** The relic is not issued and is not carried. The frame is the containment and its specification is in the file, which is unusual for a fitting and deliberate.
 

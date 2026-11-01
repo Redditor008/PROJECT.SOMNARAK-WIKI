@@ -160,13 +160,7 @@ The table is correct and the measurement is the girth. It grows while dormant at
 **Reading the response:** Read it in the sleep. A falling gauge presents as settling — the creak lengthening, the roots slackening by a measurable fraction around what they hold, the cold easing toward ambient. The entity is quieter and it is not safer; this is stabilisation of a dormancy, not the resolution of anything. A rising gauge presents as liveliness, which is the hazard: the dream pressing further out of the body, phantom branches resolving at the edge of vision, the canopy appearing fuller than the measurements allow. Personnel find this beautiful and have said so in the logs. Any response the file does not describe is reported the same day — but the single observation that outranks every other is movement, of any size, anywhere on the body, because nothing in this record has ever moved.
 ## Activation Behavior
 
-**Activation Trigger:** Touching the roots while repeating the promise.
-
-**Effect:** Shows the dream of the life the travelers intended to build.
-
-**Duration:** Until the dream ends.
-
-**Risk:** The worker may attempt to complete someone else's promise.
+> **What the Tree does when it is woken.** Touching the roots while repeating the promise shows the dream of the life the two travellers intended to build — the house, the years, the two of them old at the same time — and it lasts until the dream ends. The operator does not have to take the wood onto the body to be shown it, and what the dream shows was never promised to them.
 
 ### Tool Use Profile — I-Relic
 

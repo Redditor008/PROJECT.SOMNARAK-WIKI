@@ -156,13 +156,7 @@ What the gauge does here has to be read against what the Seed is: an Object/Plac
 
 
 
-**Activation Trigger:** None known. The Seed has never been planted and the prohibition on attempting it is unconditional; what the file calls activation is the overnight crawl, which happens whether anybody is present or not.
-
-**Effect:** A measured displacement of 4–31 cm along one bearing, and nothing else. The claim that it would grow into an entity shaped by nearby sorrow is a two-hundred-year-old inference from the split shell, has never been tested, and is retained here only because the prohibition rests on it.
-
-**Duration:** Continuous. The crawl has never stopped for longer than the eleven days it spent against the wall in Year 4229.
-
-**Risk:** Unquantified, and the room says so rather than filling the field. What is quantified is that the Seed has injured nobody, bound nobody and grown nothing in two hundred and sixty years.
+> **What the Seed does on its own.** No trigger is known. The Seed has never been planted and the prohibition on attempting it is unconditional; what the file calls activation is the overnight crawl, which happens whether anybody is present or not. It is a measured displacement of 4–31 cm along one bearing and nothing else, it has never stopped for longer than the eleven days it spent against the wall in Year 4229, and in two hundred and sixty years it has injured nobody, bound nobody and grown nothing. The claim that it would grow into an entity shaped by nearby sorrow is a two-hundred-year-old inference from the split shell, never tested, retained only because the prohibition rests on it. The contact effect in the profile above is a separate thing and is not this.
 
 ### Tool Use Profile — O-Relic
 

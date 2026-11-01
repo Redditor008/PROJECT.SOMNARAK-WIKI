@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The last twenty-seven Relic activation blocks, merged field by field (2026-11-01)
+
+The relic duplication pass deleted fifty blocks that were straight copies and merged six that had drifted. Twenty-seven were still standing because the two versions had each kept something the other dropped, and they are now closed.
+
+**Twenty-three were the same fact said twice, and the profile row now carries the fuller wording** — the eight seconds of palm on the inner surface that is enough to complete the Empty Mask, the service number a worker gives instead of a name as the first sign of identity loss, the quarter-minute that is enough for Screaming Masonry to begin destabilising its bearer, the four to nine seconds in which Miscast works and always has. Where the row held something the block did not, that clause was kept as well: the acute panic lasting hours after a forced detachment, the two disciplined and one promoted out of the Unrung Bell's single instance, the reassignment on request and without inquiry after an operative finds themselves in the debt line they are reading.
+
+**Four were not duplicates at all, and the audit is what caught it.** In the Sorrow Seed, the Sleeping Tree, Driftglass and the Quagmire, the flat block described what the *entity* does when it activates and the Tool Use Profile described what the *worn piece* does — two mechanisms in one file, and deleting either would have lost one of them. The Flat block is now a named paragraph that says which is which: *what the Seed does on its own*, *what the Tree does when it is woken*, *what the drift does when anyone tries to steer it*, *what the Trace does on its own*. The Sorrow Seed's paragraph keeps the sentence that makes the distinction explicit, because its own profile already insisted the contact effect *is distinct from entity activation and from germination*.
+
+**Every relic in the wing now states activation, effect, duration, termination and risk in exactly one place.** There are no `**Activation Trigger:**` / `**Duration:**` / `**Risk:**` flat blocks left anywhere in the 301 dossiers.
+
+**Checks:** `section_logic` 0 findings · `wikistd` 301/301 · `label_lint` 301 · `check_stat_bands` PASS · `check_links` 0 broken · `seam_lint` 0 · `timeline_lint` 0.
+
 ## The Border Tree, and the checks that grew out of reading it (2026-11-01)
 
 Reading the Border Tree section by section produced the pass's clearest single case. Its classification said `Object/Place`, its identification profile said `Subject`, its physical form described *a colossal creeping tree — a multi-limbed body with roots like legs*, and its `Breach Type` said **Escape** while its own escalation note read *escape in classification only. Nothing bursts out: the roots are already under the floor on both sides of whatever line is currently drawn, and what the breach does is close crossings*. Three sections, three different answers.

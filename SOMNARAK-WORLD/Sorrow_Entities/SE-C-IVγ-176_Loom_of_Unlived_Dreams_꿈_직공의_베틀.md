@@ -159,26 +159,17 @@ The row that matters here is the one that looks like the safe option. Viderehan 
 > **This Relic returns a person's own future to them, which the wing has never learned to bank.**
 > **This Relic alters rooms adjacent to the frame and personnel at close range; four rooms are on record.**
 > **This Relic is capable of holding a worker past the clock, and the holding is argued rather than forced.**
-
-**Activation Trigger:** Contact with the weave, or entry to any Dream Chamber inside the marked radius.
-
-**Effect:** A future is woven out as a temporary reality, complete and inhabitable, lasting as long as its source does.
-
-**Duration:** For as long as the future being woven has anything left to draw on; the shortest on record ran four minutes and the longest the better part of a day.
-
-**Risk:** The dreamer may decline to come back, and the decline is lucid rather than confused; two refusals in the file were argued, at length, by people who knew exactly where they were.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Timed contact exposure** — nobody operates or channels the Loom; contact begins at the weave and ends at the clock |
-| **Activation** | Touching a thread or entering a Dream Chamber nearby. |
-| **Primary Effect** | A whole future rendered inhabitable for a time — complete, pleasant, and accurate to what the person was preparing for. |
-| **Duration** | Until its source runs out. The clock ends the exposure; the dreamer never does. |
+| **Activation** | Contact with the weave, or entry to any Dream Chamber inside the marked radius. |
+| **Primary Effect** | A whole future woven out as a temporary reality — complete, inhabitable, and accurate to what the person was preparing for — lasting as long as its source does. |
+| **Duration** | Until its source runs out; the shortest on record ran four minutes and the longest the better part of a day. The clock ends the exposure; the dreamer never does. |
 | **Termination / Return** | The clock ends the watch, not the dreamer: separation is performed by the duty officer at the timed mark and the record states plainly that no worker has ever ended their own exposure voluntarily. Leaving the frame and leaving the future are the same act, and the file measures both by the finished length. |
-| **Risk** | A lucid refusal to come back. Two are in the file and both were argued coherently by people who knew where they were. |
+| **Risk** | A lucid refusal to come back, which is argued rather than confused: the two refusals in the file were made, at length, by people who knew exactly where they were. |
 
 **Operational Rule:** No channel is held open by concentration. Work uses two anchors — one in the Dream, one in waking space — and the timed rotation: the clock is read aloud, current physical anchors are named, and at the mark the duty officer ends the exposure and lets the dream fade rather than prolonging it. Prolonged channeling feeds the weave; force against thread or shuttle is prohibited.
 

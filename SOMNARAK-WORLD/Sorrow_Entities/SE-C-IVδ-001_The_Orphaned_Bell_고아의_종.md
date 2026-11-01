@@ -154,13 +154,6 @@ The Orphaned Bell is an Object/Place — Lament for its manifestation, Lament fo
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
-**Activation Trigger:** Midnight, the Consolihan anniversary, or concentrated grief concerning missing children.
-
-**Effect:** The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress.
-
-**Duration:** While equipped, until the removal condition is met.
-
-**Risk:** Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia.
 ### O-Relic (Officium) — Channeled Invocation
 
 | Field | Detail |

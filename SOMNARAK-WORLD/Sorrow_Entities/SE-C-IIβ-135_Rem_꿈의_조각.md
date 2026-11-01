@@ -153,26 +153,17 @@ Read the responses against the classification. Rem is filed as an Object/Place w
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic draws on the bearer's own dream-life and returns it thinner**
-
-**Activation Trigger:** Contact at the forehead, or sleep within the drift. Both are recorded; the second accounts for most of the series.
-
-**Effect:** A lucid reverie that clears confusion and returns +20 Composure. The sleeper cannot afterwards say what they were shown.
-
-**Duration:** While contact or sleep continues, and no longer.
-
-**Risk:** Leaving it is hard. Withdrawal brings drowsiness and -2 Movement Speed, and two Wardens have had to be carried out of the drift.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | Forehead contact, or sleep inside the four-metre drift. |
-| **Primary Effect** | Lucid reverie; confusion cleared; +20 Composure on waking, with no recall of content. |
-| **Duration** | For the length of the contact or the sleep. |
+| **Activation** | Contact at the forehead, or sleep within the four-metre drift; the second accounts for most of the series. |
+| **Primary Effect** | A lucid reverie that clears confusion and returns +20 Composure on waking, and the sleeper cannot afterwards say what they were shown. |
+| **Duration** | While contact or sleep continues, and no longer. |
 | **Termination / Return** | Breaking contact ends it at once. There is no detachment procedure because the shard is never carried away from the drift; the class entry assumes otherwise and is wrong for this piece. |
-| **Risk** | Reluctance to leave, drowsiness, -2 Movement Speed, and in two cases assisted extraction. |
+| **Risk** | Leaving it is hard: withdrawal brings drowsiness and -2 Movement Speed, and two Wardens have had to be carried out of the drift. |
 
 **Operational Rule:** The relic works where it hangs and is not carried. Nothing it does replaces the scheduled cycle, and the cycle remains Viderehan and Ferrehan.
 

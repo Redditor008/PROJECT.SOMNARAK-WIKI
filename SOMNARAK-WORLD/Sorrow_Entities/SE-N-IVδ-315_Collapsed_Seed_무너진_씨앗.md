@@ -147,15 +147,6 @@ Flerehan and Pugnahan are genuinely unavailable rather than inadvisable. There i
 
 **Reading the response:** A falling gauge means the worker waited without forcing anything, which is the whole of what Ferrehan asks here. A rising gauge almost always means somebody tried to finish something — pruned a shoot, proposed a conclusion, or told the chamber what it would have been. The pulse ignores all of this. It has never responded to a session in five years of paired records, and a supervisor who writes up a pulse change as a work result is corrected on the sheet.
 ## Activation Behavior
-
-**Activation Trigger:** Planting or watering the Seed with sorrow.
-
-**Effect:** Begins a partial manifestation that stops at the same point every time — roughly a third of a form, always the same third, and never the same form. Four recorded instances, four different partial shapes, one identical stopping point.
-
-**Duration:** Until the relic is lifted clear of any medium it can root into. Bare panel is sufficient; the operator does not need to reach a sealed container, and the instruction says so because three operators have tried to and lost time.
-
-**Risk:** Whatever emerges cannot be identified, including afterwards, including from recordings. Two inquiries have tried. The hazard is therefore not that it is catastrophic but that nothing learned from it can be carried to the next occasion.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -163,10 +154,10 @@ Flerehan and Pugnahan are genuinely unavailable rather than inadvisable. There i
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Dry, unplanted containment worked from outside the line — never equipped or worn** |
 | **Activation** | Planting the Seed or watering it with sorrow. No operator takes it onto the body. |
-| **Primary Effect** | Partial manifestation, consistently arrested at the same point, never the same form twice. |
-| **Duration** | Until lifted clear of any rootable medium. Bare panel is sufficient. |
+| **Primary Effect** | A partial manifestation that stops at the same point every time — roughly a third of a form, always the same third, never the same form. Four recorded instances, four different partial shapes, one identical stopping point. |
+| **Duration** | Until the relic is lifted clear of any medium it can root into; bare panel is sufficient. The operator does not need to reach a sealed container, and the instruction says so because three operators have tried to and lost time. |
 | **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
-| **Risk** | Unidentifiable in the moment and unidentifiable on review; nothing learned transfers to the next occurrence. |
+| **Risk** | Whatever emerges cannot be identified — in the moment, afterwards, or from recordings; two inquiries have tried. The hazard is not that it is catastrophic but that nothing learned from it can be carried to the next occasion. |
 
 **Operational Rule:** The relic is not carried into the chamber and never has been. It is worked in the panel store, against lifted root material, by the inspector on duty, and the authorisation to take it past the containment line has been sought four times and refused four times.
 

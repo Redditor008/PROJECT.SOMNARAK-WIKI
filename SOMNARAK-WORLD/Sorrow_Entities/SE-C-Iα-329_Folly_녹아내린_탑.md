@@ -159,15 +159,6 @@ Viderehan holds the gauge level and moves nothing, which reads as a wasted sessi
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Attempts to complete the abandoned plan.
-
-**Effect:** The lean increases between one and three degrees and holds there. The interior opens rooms that follow the drawing rather than the structure, and an operative can walk into one and find it specified down to the window furniture, for people who never arrived.
-
-**Duration:** While equipped. The relic will not come out of its bracket while the bearer is carrying an undertaking of their own that has been dropped and not published as dropped. There is no injury in the refusal; it simply does not release.
-
-**Risk:** The bearer stops announcing. Of the five recorded long-term bearers, three never again published a programme under their own name, and all three said the same thing when asked: that the safest undertaking is one nobody has been told about.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -175,10 +166,10 @@ Viderehan holds the gauge level and moves nothing, which reads as a wasted sessi
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Attempts to complete the abandoned plan. |
-| **Primary Effect** | Lean increases one to three degrees and holds; interior rooms open to the drawing, fully specified, unoccupied. |
-| **Duration** | While equipped; will not release from a bearer holding an unpublished withdrawal of their own. |
+| **Primary Effect** | The lean increases between one and three degrees and holds there, and the interior opens rooms that follow the drawing rather than the structure — specified down to the window furniture, for people who never arrived. |
+| **Duration** | While equipped. The relic will not come out of its bracket while the bearer is carrying an undertaking of their own that has been dropped and not published as dropped; there is no injury in the refusal, it simply does not release. |
 | **Termination / Return** | The operative returns the relic to its bracket at the end of the day it was carried. The bracket will not release, or re-seat, while the bearer is carrying an undertaking of their own that has been dropped and not published as dropped; there is no injury and no struggle in the refusal — the bearer publishes first and returns the relic after. |
-| **Risk** | Progressive refusal to announce anything. Three of five long-term bearers never published under their own name again. |
+| **Risk** | The bearer stops announcing. Of the five recorded long-term bearers, three never again published a programme under their own name, and all three gave the same reason: that the safest undertaking is one nobody has been told about. |
 
 **Operational Rule:** The relic is read, not used. It has no application against another entity and has never been issued for one. It is carried by the officer responsible for posting withdrawals, on the days they post them, and returned the same evening.
 

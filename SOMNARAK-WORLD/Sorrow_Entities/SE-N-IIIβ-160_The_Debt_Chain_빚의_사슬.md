@@ -162,26 +162,17 @@ Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** A link touched with the bare hand while the debtor's name cut into it is spoken aloud. Gloves do not work and have been tried.
-
-**Effect:** The obligation's whole history returns — amount, date, discharge, inheritance, and the full line of sureties behind it, as far as the signatures ran.
-
-**Duration:** Until the hand comes off the link. The history stops mid-sentence and does not resume on re-contact; the link must be worked again from the beginning.
-
-**Risk:** The operative may appear in the line they are reading. Fourteen have. Reassignment is on request and without inquiry.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | A bare hand on the link and the cut name spoken aloud; gloves do not work. |
-| **Primary Effect** | The obligation's full history, including every surety behind it to the end of the signatures. |
-| **Duration** | Until the hand comes off. It does not resume; the link is worked again from the beginning. |
+| **Activation** | A link touched with the bare hand while the debtor’s name cut into it is spoken aloud. Gloves do not work and have been tried. |
+| **Primary Effect** | The obligation’s whole history returns — amount, date, discharge, inheritance, and the full line of sureties behind it as far as the signatures ran. |
+| **Duration** | Until the hand comes off the link. The history stops mid-sentence and does not resume on re-contact; the link is worked again from the beginning. |
 | **Termination / Return** | The hand is lifted clear and the link left supported, never dropped. A link released under load has twice deformed, and both deformations lengthened the run. |
-| **Risk** | Finding yourself in the line. Fourteen cases; reassignment on request, no inquiry. |
+| **Risk** | The operative may appear in the line they are reading. Fourteen have; reassignment is on request and without inquiry. |
 
 **Operational Rule:** The relic works only under the operative's own bare hand, and only on a link whose name can still be read. Four hundred and twelve links in the exposed gallery have worn illegible and are entered in the inventory as unreadable rather than as blank, a distinction argued over at length and settled in writing.
 

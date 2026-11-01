@@ -159,15 +159,6 @@ Viderehan holds the gauge level and shows the worker what the artifact was for, 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Arranging the fragments in their former order.
-
-**Effect:** The fragments hold their arrangement and the artifact does, briefly, what it was made to do. It works. It has always worked, in every trial, which is the finding the whole file turns on.
-
-**Duration:** Until the pieces separate, which they do, every time, without exception, in between four and nine seconds.
-
-**Risk:** The user inherits the frustration, and it is not frustration at a failure. It is the specific anger of having been ready.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
@@ -175,10 +166,10 @@ Viderehan holds the gauge level and shows the worker what the artifact was for, 
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Arranging the fragments in their former order. |
-| **Primary Effect** | The intended function, performed correctly, for four to nine seconds. |
-| **Duration** | Four to nine seconds. The separation has never been prevented. |
+| **Primary Effect** | The intended function, performed correctly, for four to nine seconds — the fragments hold their arrangement and the artifact does, briefly, what it was made to do. It works, and has worked in every trial, which is the finding the whole file turns on. |
+| **Duration** | Four to nine seconds, until the pieces separate; the separation has never been prevented, and it happens every time without exception. |
 | **Termination / Return** | The pieces separate by themselves in four to nine seconds; there is nothing to detach and no safe-threshold extraction. The relic is returned the same day it was issued, and the bearer's list is read back by somebody else before the folder closes. |
-| **Risk** | Inherited frustration — specifically, the anger of readiness that was never called on. |
+| **Risk** | Inherited frustration, and not the frustration of a failure — it is the specific anger of having been ready. |
 
 **Operational Rule:** The relic is issued to the officer chairing a postings board, for the sitting, and returned the same day. It has no field application and has never been issued for one; the four requests to take it outside a board sitting are in the folder with their refusals.
 

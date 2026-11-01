@@ -139,26 +139,17 @@ A stable gauge does not mean a safe encounter here, and the figure is not the le
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Bare contact with the rusted mass itself. There is no pedestal; the older entry describing one was a transcription from another holding's profile.
-
-**Effect:** A downward field that anchors everything standing on the ground within the affected front. Nothing can be moved, lifted or pulled free while it holds, including personnel.
-
-**Duration:** Continuous while contact is maintained, and for as long afterwards as it takes the subsidence to settle.
-
-**Risk:** The load rises steeply with time in contact and produces joint and spinal injury that the wing's own surgeons describe as indistinguishable from forty years of heavy labour.
-
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | Bare contact with the mass. |
-| **Primary Effect** | Everything on the affected ground is anchored and cannot be moved, including the operative. |
-| **Duration** | While contact lasts, plus the settling period. |
+| **Activation** | Bare contact with the rusted mass itself. There is no pedestal; the older entry describing one was a transcription from another holding’s profile. |
+| **Primary Effect** | A downward field that anchors everything standing on the affected ground within the reach of the rust. Nothing can be moved, lifted or pulled free while it holds, personnel included. |
+| **Duration** | Continuous while contact is maintained, and for as long afterwards as it takes the subsidence to settle. |
 | **Termination / Return** | There is no return because there is nothing to carry: the mass is contacted at the site and released by breaking contact, and releasing it early under load is what produces the spinal injuries the wing’s surgeons describe. |
-| **Risk** | Steeply rising load; joint and spinal injury of a permanent kind. |
+| **Risk** | The load rises steeply with time in contact and produces joint and spinal injury the wing’s own surgeons describe as indistinguishable from forty years of heavy labour. |
 
 **Operational Rule:** The mass is not carried and cannot be. Relic use is contact at the site, under the same margin discipline as everything else here, and it replaces no scheduled Work Type.
 

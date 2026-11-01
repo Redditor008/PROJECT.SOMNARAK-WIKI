@@ -143,26 +143,17 @@ Diagnostic use only: the table sorts which approach settles this instrument and 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**
-
-**Activation Trigger:** Contact with a destination spoken aloud. Never performed under authority; the trigger is documented so that it can be avoided.
-
-**Effect:** The needle would settle, once, toward the nearest concentration of grief rather than toward the place named.
-
-**Duration:** Until the holder accepts the bearing it gave instead of the one they asked for.
-
-**Risk:** The holder follows it. The two unauthorised historical instances both ended with a person arriving somewhere true, useless and far from where they had meant to go.
-
 ### Tool Use Profile — A-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **A-Relic** |
 | **Use Mode** | **Single-use / consumable discharge** |
-| **Activation** | Contact plus a spoken destination. Not authorised. |
-| **Primary Effect** | A single settled bearing, toward grief and not toward the destination. |
-| **Duration** | Until the bearing given is accepted in place of the one asked for. |
+| **Activation** | Contact with a destination spoken aloud. Never performed under authority; the trigger is documented so that it can be avoided. |
+| **Primary Effect** | A single settled bearing, once, toward the nearest concentration of grief rather than toward the place named. |
+| **Duration** | Until the holder accepts the bearing it gave instead of the one they asked for. |
 | **Termination / Return** | Theoretical. The class profile holds that discharge consumes the relic entirely; the discharge has never been performed here and the holding has been worked by observation for centuries without diminishing. |
-| **Risk** | The holder follows the bearing, indefinitely, and is correct to. |
+| **Risk** | The holder follows it — indefinitely, and they are correct to. Both unauthorised historical instances ended with a person arriving somewhere true, useless and far from where they had meant to go. |
 
 **Operational Rule:** Single-use and therefore never used. The standing instruction is that an instrument which can be spent exactly once is worth more unspent, and no Director has yet disagreed in writing.
 
