@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Ruin Pillow
 
-> *“The Ruin Pillow remembers Repose; the bearer must not mistake memory for permission.”*
+> *"Sleep on it and the past becomes a list you can recite and cannot feel. It is filed perfectly."*
 
 ---
 

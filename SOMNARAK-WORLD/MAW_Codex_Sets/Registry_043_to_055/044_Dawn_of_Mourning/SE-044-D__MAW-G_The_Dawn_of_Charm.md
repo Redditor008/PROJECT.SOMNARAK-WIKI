@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Dawn of Charm
 
-> *“The Dawn of Charm remembers Dawn of Mourning; the bearer must not mistake memory for permission.”*
+> *"It answers for you in your own voice, and the answer is always the same one: forgiven, forgiven, forgiven."*
 
 ---
 

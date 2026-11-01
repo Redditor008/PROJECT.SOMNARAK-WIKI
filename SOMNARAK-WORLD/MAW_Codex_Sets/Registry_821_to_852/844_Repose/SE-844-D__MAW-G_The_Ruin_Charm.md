@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Ruin Charm
 
-> *“The Ruin Charm remembers Repose; the bearer must not mistake memory for permission.”*
+> *"It offers the rest of something already finished. Take it often enough and nothing gets started."*
 
 ---
 

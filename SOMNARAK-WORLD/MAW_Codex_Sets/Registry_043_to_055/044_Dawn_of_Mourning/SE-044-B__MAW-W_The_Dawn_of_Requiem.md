@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Dawn of Requiem
 
-> *“The Dawn of Requiem remembers Dawn of Mourning; the bearer must not mistake memory for permission.”*
+> *"The blade warms a half-beat before it lands. That is not the edge reaching you; it is the grief it has already been asked to forgive."*
 
 ---
 

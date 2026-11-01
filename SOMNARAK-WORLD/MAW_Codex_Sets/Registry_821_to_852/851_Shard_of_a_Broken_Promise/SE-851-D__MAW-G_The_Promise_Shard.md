@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Promise Shard
 
-> *“The Promise Shard remembers Shard of a Broken Promise; the bearer must not mistake memory for permission.”*
+> *"It prevents one betrayal and hands you the doubt it used. The checking becomes the thing you were spared."*
 
 ---
 

@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The epigraphs start coming off the formula (batch 57)
+
+Three hundred and forty-five item records opened with the same line: *"{Item} remembers {Entity}; the bearer must not mistake memory for permission."* The guide retired it and the archive had not followed. This batch re-authors thirty of them — the whole of `043_to_055`, `821_to_852` and `993_to_997`.
+
+Each new line is drawn from the piece's own record and passes the identity test: cover the item's name and the line no longer works for anything else. The Vanished Plate keeps *damage that lands is filed under not yet*, which is what a plate made of a worker's refusal to complain would say. The Returning Maul charges *a walk with everything you ever hit*. The Bridge Brace turns an unfurnished room into *a fall waiting*.
+
+Every line was checked with `tools/auditors/quote_audit.py --check`: thirty of thirty report **no exact duplicate**, none above the nearest-match threshold, all inside the 8–32 word band, no digits, no names, no codes. Registers vary deliberately — warning, documentary record, elegy, found speech — because a wing that speaks in one voice reads as generated even when no two lines match.
+
+**Left:** 315 epigraphs still on the formula.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## Every M.A.W. block in a dossier now states what it takes (batch 56)
 
 The item pages had been brought up to the cost law; the same equipment reproduced inside the dossiers had not. Twenty-seven blocks carried an Ability and no price at all, and two more carried one under a label of their own — `**Suit cost and unresolved form:**` and `**Veil bearer cost:**`.

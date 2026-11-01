@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Ruin Astral-Disc
 
-> *“The Ruin Requiem remembers Repose; the bearer must not mistake memory for permission.”*
+> *"The rings turn and wait for you to agree the target has earned it. Agreement arrives before evidence now."*
 
 ---
 

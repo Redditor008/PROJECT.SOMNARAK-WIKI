@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Bridge Brace
 
-> *“The Bridge Brace remembers Survivor's Span; the bearer must not mistake memory for permission.”*
+> *"Everything it supports leans on the wrist. An unfurnished room begins to read as a fall waiting."*
 
 ---
 

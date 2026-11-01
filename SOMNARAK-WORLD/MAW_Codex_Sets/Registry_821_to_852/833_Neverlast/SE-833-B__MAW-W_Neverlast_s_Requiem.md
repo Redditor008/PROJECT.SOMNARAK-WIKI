@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Rusted Lock-Pistol
 
-> *“Neverlast's Requiem remembers Neverlast; the bearer must not mistake memory for permission.”*
+> *"The lock grinds before it fires, and for one breath afterwards you are back at the moment you decided to."*
 
 ---
 

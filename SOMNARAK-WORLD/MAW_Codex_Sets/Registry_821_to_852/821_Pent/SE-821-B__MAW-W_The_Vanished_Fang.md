@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Vanished Flintlock
 
-> *“The Vanished Fang remembers Pent; the bearer must not mistake memory for permission.”*
+> *"The charge comes out of the shooter, not the barrel. Worse hands than ours have learned that and kept firing."*
 
 ---
 

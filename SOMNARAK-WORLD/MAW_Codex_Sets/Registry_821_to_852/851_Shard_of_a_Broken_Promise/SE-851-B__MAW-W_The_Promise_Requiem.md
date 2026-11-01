@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Covenant Arbalest
 
-> *“The Promise Requiem remembers Shard of a Broken Promise; the bearer must not mistake memory for permission.”*
+> *"The magazine is full and not one bolt will leave for a target you have not sworn against."*
 
 ---
 

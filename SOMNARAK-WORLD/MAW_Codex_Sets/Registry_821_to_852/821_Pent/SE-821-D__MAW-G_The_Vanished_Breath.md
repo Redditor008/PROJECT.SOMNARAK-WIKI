@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Vanished Breath
 
-> *“The Vanished Breath remembers Pent; the bearer must not mistake memory for permission.”*
+> *"It lets out the breath somebody else was holding. The bearer never takes one back."*
 
 ---
 

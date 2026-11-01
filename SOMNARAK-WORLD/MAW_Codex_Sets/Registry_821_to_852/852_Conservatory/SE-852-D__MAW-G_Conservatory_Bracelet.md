@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Conservatory Bracelet
 
-> *“Conservatory Bracelet remembers Conservatory; the bearer must not mistake memory for permission.”*
+> *"Every collapse it stops passes into the wrist. The bearer ends up standing under every load in the room."*
 
 ---
 

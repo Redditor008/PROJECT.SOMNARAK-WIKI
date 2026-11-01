@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Promise Shroud
 
-> *“The Promise Shroud remembers Shard of a Broken Promise; the bearer must not mistake memory for permission.”*
+> *"Every word you have given sits at the collar as weight. A season of it leaves no future tense."*
 
 ---
 

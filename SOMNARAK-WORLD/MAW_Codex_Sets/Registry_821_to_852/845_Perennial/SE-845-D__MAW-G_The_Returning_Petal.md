@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Returning Petal
 
-> *“The Returning Petal remembers Perennial; the bearer must not mistake memory for permission.”*
+> *"It shows you what owes what, and the seeing is charged: every debt it lets you notice becomes yours."*
 
 ---
 

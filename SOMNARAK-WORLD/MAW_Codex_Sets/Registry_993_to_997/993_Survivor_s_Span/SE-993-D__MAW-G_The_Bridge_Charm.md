@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Bridge Charm
 
-> *“The Bridge Charm remembers Survivor's Span; the bearer must not mistake memory for permission.”*
+> *"You cross at the speed of the slowest person on the bridge, and after a season you stop arriving anywhere first."*
 
 ---
 

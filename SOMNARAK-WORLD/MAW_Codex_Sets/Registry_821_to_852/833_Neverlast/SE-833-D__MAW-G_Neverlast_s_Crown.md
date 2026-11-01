@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Neverlast's Crown
 
-> *“Neverlast's Crown remembers Neverlast; the bearer must not mistake memory for permission.”*
+> *"A crisis lasts hours in it. The ordinary hours after are the ones nobody remembers spending."*
 
 ---
 

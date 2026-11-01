@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Vanished Plate
 
-> *“The Vanished Plate remembers Pent; the bearer must not mistake memory for permission.”*
+> *"Damage that lands is filed under not yet. It is how a body stays wounded for hours and reports nothing."*
 
 ---
 

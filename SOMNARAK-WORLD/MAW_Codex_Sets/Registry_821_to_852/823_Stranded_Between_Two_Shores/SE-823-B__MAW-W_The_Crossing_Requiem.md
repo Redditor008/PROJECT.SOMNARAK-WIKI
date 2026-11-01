@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Crossing Requiem
 
-> *“The Crossing Requiem remembers Stranded Between Two Shores; the bearer must not mistake memory for permission.”*
+> *"Every blow is finished from the wrong bank. After enough of them, both shores answer when you call."*
 
 ---
 

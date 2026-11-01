@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Forgotten Ruin-Glyph
 
-> *“Conservatory Fang remembers Conservatory; the bearer must not mistake memory for permission.”*
+> *"It strikes with the weight of a place that fell and takes one still standing out of your memory for the trouble."*
 
 ---
 

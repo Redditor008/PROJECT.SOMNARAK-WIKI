@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Drowned Roots Requiem
 
-> *“Drowned Roots Requiem remembers Drowned Roots; the bearer must not mistake memory for permission.”*
+> *"Every shot lowers you. The water in the memory reaches the chest, and then the fighting is on the floor."*
 
 ---
 

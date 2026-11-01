@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Neverlast's Shroud
 
-> *“Neverlast's Shroud remembers Neverlast; the bearer must not mistake memory for permission.”*
+> *"It holds every grief that touches it and gives them back when it comes off. Its bearers stop taking it off."*
 
 ---
 

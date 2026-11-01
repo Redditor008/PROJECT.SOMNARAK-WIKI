@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Crossing Shroud
 
-> *“The Crossing Shroud remembers Stranded Between Two Shores; the bearer must not mistake memory for permission.”*
+> *"A room full of grief can be crossed without being moved by anyone in it. Nothing crosses back."*
 
 ---
 

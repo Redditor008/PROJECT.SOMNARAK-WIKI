@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Returning Maul
 
-> *“The Returning Maul remembers Perennial; the bearer must not mistake memory for permission.”*
+> *"What the maul strikes comes back to the shoulder as weight. A long service is a walk with everything you ever hit."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Dawn of Shroud
 
-> *“The Dawn of Shroud remembers Dawn of Mourning; the bearer must not mistake memory for permission.”*
+> *"Worn long enough, a person can name every grief in the room without being reached by one."*
 
 ---
 

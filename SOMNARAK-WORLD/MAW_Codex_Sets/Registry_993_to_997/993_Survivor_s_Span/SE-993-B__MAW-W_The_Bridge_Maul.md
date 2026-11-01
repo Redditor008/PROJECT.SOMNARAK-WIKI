@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Arch-Span Orrery
 
-> *“The Bridge Maul remembers Survivor's Span; the bearer must not mistake memory for permission.”*
+> *"It swings through the arc of a bridge that is no longer there, and each blow leaves you further from the bank you started on."*
 
 ---
 

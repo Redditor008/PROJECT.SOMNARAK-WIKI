@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Returning Mantle
 
-> *“The Returning Mantle remembers Perennial; the bearer must not mistake memory for permission.”*
+> *"The body arrives a step after the intent. Wear it a season and you stop having intentions that require movement."*
 
 ---
 

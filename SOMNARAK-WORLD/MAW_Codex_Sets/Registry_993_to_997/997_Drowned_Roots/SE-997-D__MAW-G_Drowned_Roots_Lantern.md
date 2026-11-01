@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Drowned Roots Lantern
 
-> *“Drowned Roots Lantern remembers Drowned Roots; the bearer must not mistake memory for permission.”*
+> *"It closes the wound and takes a memory of being comforted as payment. Heal enough and you remember everyone but yourself."*
 
 ---
 

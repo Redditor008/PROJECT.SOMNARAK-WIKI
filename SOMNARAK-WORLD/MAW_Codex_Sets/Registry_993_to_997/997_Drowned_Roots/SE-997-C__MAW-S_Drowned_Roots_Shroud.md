@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Drowned Roots Shroud
 
-> *“Drowned Roots Shroud remembers Drowned Roots; the bearer must not mistake memory for permission.”*
+> *"Nothing reaches you sharply in it. A grief takes an hour to arrive; a season takes you out of reach entirely."*
 
 ---
 

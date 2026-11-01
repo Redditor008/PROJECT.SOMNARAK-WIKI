@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Crossing Chain
 
-> *“The Crossing Chain remembers Stranded Between Two Shores; the bearer must not mistake memory for permission.”*
+> *"The bridge is woven from what ties you to where you came from. Every crossing spends a little of the road home."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Conservatory Plate
 
-> *“Conservatory Plate remembers Conservatory; the bearer must not mistake memory for permission.”*
+> *"It will not let you move out of the shape you were hit in. After a while that reads as bearing."*
 
 ---
 
