@@ -190,7 +190,7 @@ Escalation here is the root line. Record the trigger where one is identifiable, 
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Weeping Willow's sorrow to dissolve active aggression into quiet farewells.
 
-**Cost:** The wielder feels the entity's unwept farewells; prolonged use causes involuntary weeping.
+**Bearer cost:**The wielder feels the entity's unwept farewells; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Willow Cloak
 
@@ -208,7 +208,7 @@ Escalation here is the root line. Record the trigger where one is identifiable, 
 
 **Ability:** Makes the wearer emotionally difficult to perceive.
 
-**Cost:** The wearer feels every ending nearby.
+**Bearer cost:**The wearer feels every ending nearby.
 
 ### M.A.W. Stigma — The Willow Charm
 
@@ -222,7 +222,7 @@ Escalation here is the root line. Record the trigger where one is identifiable, 
 
 **Ability:** When the bearer and affected person or witness agree that one specific task, phase, or farewell has ended, the Charm creates a short calm interval for a closing ritual; it cannot make grief disappear or substitute for consent.
 
-**Cost:** The bearer can hold a calm for one ending at a time, and the interval does not stretch to the second thing they had meant to say.
+**Bearer cost:**The bearer can hold a calm for one ending at a time, and the interval does not stretch to the second thing they had meant to say.
 
 *The Willow Charm is never issued and cannot be asked for. Five times it has been conferred, each time on a Warden who sat the whole collection beside a mourner who had stayed past closing instead of asking them to leave.*
 

@@ -204,7 +204,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** Void damage to the soul — to identity rather than the body. The lance carries the record's signature, which is an object whose meaning died with its owner, and what it opens in a target is the question of what they would be reduced to on a kit list.
 
-**Cost:** The wielder loses small nameless memories with each use, and what goes first is not the memory but the reason for keeping the thing at all: the coat that was somebody's, the ticket in the drawer, the box nobody opens. Holders under this lance have been recorded clearing their lockers of objects they could no longer explain, in the ordinary course of an ordinary week.
+**Bearer cost:**The wielder loses small nameless memories with each use, and what goes first is not the memory but the reason for keeping the thing at all: the coat that was somebody's, the ticket in the drawer, the box nobody opens. Holders under this lance have been recorded clearing their lockers of objects they could no longer explain, in the ordinary course of an ordinary week.
 
 ### M.A.W. Suit — Apocrypha Veil
 
@@ -222,7 +222,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand at the outline for a full session and still own their own belongings afterwards.
 
-**Cost:** The wearer feels faintly absent to themselves and starts describing their own possessions as things they are looking after for somebody — which the file treats as a plain statement of the holding's own condition rather than as a symptom, and pulls the wearer off the site on the first report of it.
+**Bearer cost:**The wearer feels faintly absent to themselves and starts describing their own possessions as things they are looking after for somebody — which the file treats as a plain statement of the holding's own condition rather than as a symptom, and pulls the wearer off the site on the first report of it.
 
 ### M.A.W. Stigma — Apocrypha Shard
 
@@ -236,7 +236,7 @@ The lance point radiates an intense aura of sub-zero cold that freezes moisture 
 
 **Ability:** Preserves one unfinished message.
 
-**Cost:** The wearer hears every farewell left unsaid nearby.
+**Bearer cost:**The wearer hears every farewell left unsaid nearby.
 
 *The shard is not manufactured. Apocrypha gives one to a worker who wrote down what a dead colleague's possession meant to them, and has given none to anybody who catalogued one as unidentified.*
 

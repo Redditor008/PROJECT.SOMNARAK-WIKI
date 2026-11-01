@@ -213,7 +213,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Ability:** Weight against the Body. Struck targets' hearts hold a steady rate for some hours regardless of what happens to them, which fourteen targets have described as the calmest and worst experience of their service.
 
-**Cost:** The wielder cannot get their own heart to rise to anything, not a chase and not an alarm, and the calm in the chest is not theirs.
+**Bearer cost:**The wielder cannot get their own heart to rise to anything, not a chase and not an alarm, and the calm in the chest is not theirs.
 
 ### M.A.W. Suit — Duri's Heart's Veil
 
@@ -231,7 +231,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.
 
-**Cost:** A constant low fatigue, and a pulse that will not rise. Three wearers; all three were taken off field duty on that ground and none of them agreed with the decision.
+**Bearer cost:**A constant low fatigue, and a pulse that will not rise. Three wearers; all three were taken off field duty on that ground and none of them agreed with the decision.
 
 ### M.A.W. Stigma — Duri's Heart's Token
 
@@ -245,7 +245,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 
-**Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
+**Bearer cost:**The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
 *Eight in forty-eight years, in each case to a worker who ended their own cycle at four hundred beats rather than being called off. Nobody who was called off has received one, and the station is careful to add that being called off is correct procedure and not a fault.*
 

@@ -175,7 +175,7 @@ It goes fully transparent at the exact boundary where a final image ends, and th
 
 **Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and carries the source's signature: the struck lose a parting, selected by nothing anybody has identified, and cannot say which one.
 
-**Cost:** The bearer loses one small, nameless memory with each discharge while indexed facts remain, and the Armoury records the loss against the bearer rather than against the piece.
+**Bearer cost:**The bearer loses one small, nameless memory with each discharge while indexed facts remain, and the Armoury records the loss against the bearer rather than against the piece.
 
 ### M.A.W. Suit — The Final Veil
 
@@ -195,7 +195,7 @@ Thousands of indistinct faces cross the outer cloth — the final moments it has
 
 **Ability:** Turns Void aside from the Soul — identity, memory and the sense of self — which is the pressure this holding applies and the only kind it has. The veil is the piece the vault rotation is issued, and it protects by making the wearer harder to reach rather than harder to read.
 
-**Cost:** The wearer reads as faintly absent to themselves, and the file's caution is that this presents a week later rather than on the day — which is why reassessment is scheduled rather than requested.
+**Bearer cost:**The wearer reads as faintly absent to themselves, and the file's caution is that this presents a week later rather than on the day — which is why reassessment is scheduled rather than requested.
 
 ### M.A.W. Stigma — The Final Hour
 
@@ -211,7 +211,7 @@ It carries no hands and no numerals — an empty watch face for a measurement no
 
 **Ability:** Shows the moment immediately before a target's death — the bearer's own, or a named other's, and the file records that no observer has ever asked for a second look.
 
-**Cost:** The wearer sees their own final moment whenever the watch stops, which on a night rotation means whenever they close their eyes, and the charge is recorded as the reason the token is more often refused than accepted.
+**Bearer cost:**The wearer sees their own final moment whenever the watch stops, which on a night rotation means whenever they close their eyes, and the charge is recorded as the reason the token is more often refused than accepted.
 
 *A Stigma from this source appears in the slot rather than in the chamber: the observer passes a slip in, and what comes back is the Final Hour token. It has happened four times, each after a name-passing cycle, and each observer reported writing the same name twice without meaning to.*
 

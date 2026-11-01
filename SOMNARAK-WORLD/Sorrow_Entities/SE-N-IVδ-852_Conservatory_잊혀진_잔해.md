@@ -220,7 +220,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 **Ability:** Deals Grudge damage against the Body — structural integrity and physical composure — and the signature it carries is domestic rather than martial: those struck report heat on the skin, the smell of a house fire, and a sudden detailed recollection of a room they have never stood in. Binding is testimonial: the bearer names Conservatory's event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry limit, the management condition satisfied with the Sorrow Gauge held below 25%. The glyphs isolate only a hazard already attributed to Conservatory, interlocking defensively under kinetic attack; treating the event as the bearer's own story is the first corrosion sign, and shutdown is a named witness stating the event while the bearer relinquishes the piece.
 
-**Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also report their own homes feeling provisional, as though lent to them.
+**Bearer cost:**The wielder's old injuries ache and prolonged use leaves faint bruising. Wielders also report their own homes feeling provisional, as though lent to them.
 
 ### M.A.W. Suit — Conservatory Plate
 
@@ -240,7 +240,7 @@ Worn through a long session, the harness dulls the wearer's reflexes as if resen
 
 **Ability:** Grants resistance to Grudge pressure against the Body under the same testimonial binding — the caretaker's event named, the management condition satisfied with the Sorrow Gauge held below 25%. Its doctrine is the caretaker's error inverted: it lets a wearer remain present without rebuilding, and it interrupts a hazard only after attribution to Conservatory. No heat clearance is certified by the source record; margin temperature is still taken by instrument, never by hand, whatever the wearer is wearing.
 
-**Cost:** The wearer's reflexes dull and their attachment to places sharpens unhelpfully. Wearers become reluctant to leave rooms they have worked in, and the reluctance outlasts the shift.
+**Bearer cost:**The wearer's reflexes dull and their attachment to places sharpens unhelpfully. Wearers become reluctant to leave rooms they have worked in, and the reluctance outlasts the shift.
 
 ### M.A.W. Stigma — Conservatory Bracelet
 
@@ -256,7 +256,7 @@ The protection it lends is never the wearer's own: it holds neighbouring structu
 
 **Ability:** Protects others from structural collapse — the crystallized disaster lending out the protection it could not provide at home — but it marks a hazard only after attribution to Conservatory and under the same binding: the caretaker's event named, the management condition satisfied with the Sorrow Gauge held below 25%. It shows the devotion and the overload together; a wearer who starts telling the collapse as their own failure is already corroding.
 
-**Cost:** The wearer feels every place they failed to preserve.
+**Bearer cost:**The wearer feels every place they failed to preserve.
 
 *The bracelet is never manufactured and never issued: it appears after a successful cycle at the entity's own disposition, on a worker who stood a full session in the margin and put nothing right, and no care, accuracy or length of service obliges one.*
 

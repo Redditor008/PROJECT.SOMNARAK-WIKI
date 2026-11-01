@@ -189,7 +189,7 @@ Its edge keeps that hairline of brighter iron only while the blade is drawn, and
 
 **Ability:** Exposes and strikes the target's greatest wrongdoing.
 
-**Cost:** The wielder feels the judgment of every person they condemn.
+**Bearer cost:**The wielder feels the judgment of every person they condemn.
 
 ### M.A.W. Suit — The Iron Plate
 
@@ -209,7 +209,7 @@ The bands are set squared and overlapped so the weight sits on the shoulders rat
 
 **Ability:** Turns Grudge pressure aside from the body, protecting physical form and structural integrity. The plate supports a worker standing under the sealed face for a submission; its resistance is not resistance to the verdict itself, which the encounter record distinguishes from pressure.
 
-**Cost:** Reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself.
+**Bearer cost:**Reflexes dull, and the wearer becomes slow to withdraw a statement — which in this chamber costs more than the slowness itself.
 
 ### M.A.W. Stigma — The Iron Charm
 
@@ -225,7 +225,7 @@ The chain is short enough that the charm sits high, and that turn toward the spe
 
 **Ability:** The charm makes its wearer audible to authority: a statement made while wearing it is entered in full rather than summarised, once. It is the thing the Row's courts never granted.
 
-**Cost:** The bearer's words go into the record whole exactly once, and afterwards they can hear how much of any sentence survives being summarised.
+**Bearer cost:**The bearer's words go into the record whole exactly once, and afterwards they can hear how much of any sentence survives being summarised.
 
 *The charm is not manufactured. Gavel gives one to a worker who submitted the part of the record that told against them, and has given none to a worker who won a session.*
 

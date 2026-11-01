@@ -193,7 +193,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Ability:** A spearhead that never finishes forming — the leaf blade runs molten along its outer edge and holds a true point regardless, driving burn-holes through shield frames that ordinary bronze would only dent.
 
-**Cost:** Old injuries ache and faint bruising surfaces along the lines of them. Nothing new is broken; the body simply raises, again, every complaint it has already made and had treated and closed.
+**Bearer cost:**Old injuries ache and faint bruising surfaces along the lines of them. Nothing new is broken; the body simply raises, again, every complaint it has already made and had treated and closed.
 
 ### M.A.W. Suit — The Melted Plate
 
@@ -211,7 +211,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Ability:** Han-iron plate that holds its shape against Grudge pressure and carries the faint tallow smell of its origin, keeping a body structurally sound in a corridor where the walls are being cracked.
 
-**Cost:** The plate responds a half-beat late, so that every reaction becomes a decision. Wearers describe it as always being about to say something and arriving at the words after the moment has passed.
+**Bearer cost:**The plate responds a half-beat late, so that every reaction becomes a decision. Wearers describe it as always being about to say something and arriving at the words after the moment has passed.
 
 ### M.A.W. Stigma — The Melted Word
 
@@ -225,7 +225,7 @@ The spearhead maintains an extraordinary cutting edge despite its liquid boundar
 
 **Ability:** Preserves one spoken sentence from decay or distortion.
 
-**Cost:** The wearer hears every incomplete accusation nearby.
+**Bearer cost:**The wearer hears every incomplete accusation nearby.
 
 *The Word is given, never issued. It has appeared only on workers who sat a whole cycle of fragments without supplying an ending, and no procedure has produced one on purpose.*
 

@@ -189,7 +189,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Face Beneath Masks's void signature in the strike.
 
-**Cost:** What goes is small and personal and the wielder does not notice: a street name, a face at a table, the thing a relative used to say — which is why the eighteen-item schedule is administered to bearers by somebody else, and why the Armoury files the loss against the piece and not against the person.
+**Bearer cost:**What goes is small and personal and the wielder does not notice: a street name, a face at a table, the thing a relative used to say — which is why the eighteen-item schedule is administered to bearers by somebody else, and why the Armoury files the loss against the piece and not against the person.
 
 ### M.A.W. Suit — The Wall Veil
 
@@ -207,7 +207,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Ability:** Void is what this holding puts out, and this is what turns it aside. The Soul is kept whole — the name, the history, the bare fact of being somebody.
 
-**Cost:** The wearer grows a little less present to themselves, the way a person does after years of wearing a face that was never theirs.
+**Bearer cost:**The wearer grows a little less present to themselves, the way a person does after years of wearing a face that was never theirs.
 
 ### M.A.W. Stigma — The Wall Shard
 
@@ -221,7 +221,7 @@ The culverin fires dense canister shot filled with lead shrapnel and salt-gravel
 
 **Ability:** Blocks unwanted emotional intrusion.
 
-**Cost:** The wearer may block helpful connection as well.
+**Bearer cost:**The wearer may block helpful connection as well.
 
 *The Wall Shard is not issued and cannot be applied for. It has been conferred five times, in each case on a worker who answered a carrier's question about themselves honestly when they were not required to.*
 

@@ -208,7 +208,7 @@ The sheer veil is embroidered with fine silver weeping tear motifs that diffuse 
 
 **Ability:** *Veil of Lament* — Blurs the wearer's silhouette in trailing sorrow silk, granting +15% evasion against ranged projectiles and dampening psychological shockwaves.
 
-**Cost:** The wearer feels cold tears tracing their cheeks whenever near deep sorrow.
+**Bearer cost:**The wearer feels cold tears tracing their cheeks whenever near deep sorrow.
 
 ### M.A.W. Stigma — The Obsidian Tear Drop Earring
 
@@ -225,7 +225,7 @@ The cold obsidian stone absorbs excess light and psychic vibration, maintaining 
 
 **Ability:** *Clear-Eyed Mourning* — Grants the wearer +1 Clarity and total immunity to blinding visual flashes.
 
-**Cost:** The wearer becomes easily moved to tears by minor melancholy.
+**Bearer cost:**The wearer becomes easily moved to tears by minor melancholy.
 
 *The Obsidian Tear Drop Earring is not manufactured and cannot be requisitioned. It has been conferred six times, in each case on a worker who wept beside the statue and did not afterwards apologise for it in the log.*
 

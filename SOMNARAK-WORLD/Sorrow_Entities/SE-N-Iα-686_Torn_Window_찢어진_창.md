@@ -206,7 +206,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Ability:** Grudge against the Body, and the mark it leaves is a bruise in the shape of a palm — not the wielder's, and not the same one twice. Fourteen strikes, fourteen different hands.
 
-**Cost:** Old injuries ache — specifically ones the wielder got at work, and in the order they got them.
+**Bearer cost:**Old injuries ache — specifically ones the wielder got at work, and in the order they got them.
 
 **Sabre and linked Fang:** The steel-and-green-glass sabre is not a documented new state of the crimson Han-iron Fang. Keep the local palm-shaped bruise and work-injury ache apart from the linked Fang’s attributed phantom-grip cut. That record names a single-target pattern, not an attack across every hand in the source glass. Log a hand’s attribution before the Fang’s cleaning; an unattributed cut transfers the farewell rather than harmlessly missing. Its witness names room and owner as the viewer looks away. This is linked-item custody, not authority to slash the pane or assurance that the local sabre can release a viewing.
 
@@ -226,7 +226,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Ability:** Resistance to Grudge against the Body. The crystal panel also shows, to anybody standing behind the wearer, the corridor as it was ten years ago — which the Armoury regards as a defect and has twice been asked to leave alone.
 
-**Cost:** Reflexes dull, and the wearer stops turning round when somebody comes up behind them.
+**Bearer cost:**Reflexes dull, and the wearer stops turning round when somebody comes up behind them.
 
 **Plate care:** Record the wearer’s current location outside all windows before inspection. A corridor seen behind the back panel does not establish that the wearer has entered that past corridor. Monitor dulled reflexes and failure to turn toward a person approaching from behind; protection against Grudge is not protection against mistaken ownership of the room. The linked harness’s locked stride requires acknowledgment of the remembered room’s occupant, not an extra forward step. Its external monitor covers the pane and guides the wearer backward. Keep that account distinct from the fixed source’s name-and-date termination, and retain the sealed roster for the later comparison.
 
@@ -242,7 +242,7 @@ The glass-edged blade delivers devastating lacerating wounds with minimal cuttin
 
 **Ability:** Reveals the emotional history of an object.
 
-**Cost:** The wearer feels every hand that ever touched it.
+**Bearer cost:**The wearer feels every hand that ever touched it.
 
 *Six Stigmas in nine years and every one of them went to a worker who had walked a disused length that nobody had any reason to walk. Not one has ever been given for anything done at the glass. The tunnel office treats this as the holding's clearest statement about itself.*
 

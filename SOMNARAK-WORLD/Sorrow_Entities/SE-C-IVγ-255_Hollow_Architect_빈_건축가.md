@@ -190,7 +190,7 @@ Incomplete plan sections mark the striking faces. Binding names the intended occ
 
 **Ability:** Breaks raised structure. In holding doctrine it is a floor tool for extraction and has no offensive role at all.
 
-**Cost:** The wielder carries weight for days afterwards and tires early. Two extraction leads have handed it back.
+**Bearer cost:**The wielder carries weight for days afterwards and tires early. Two extraction leads have handed it back.
 
 ### M.A.W. Suit — The Architect's Mantle
 
@@ -210,7 +210,7 @@ Open seams correspond to missing walls, doors and supports. Tools, cargo or anot
 
 **Ability:** Holds off the chamber's Weight pressure long enough to work a full Ferrehan stand.
 
-**Cost:** A low constant fatigue that does not clear on rest days.
+**Bearer cost:**A low constant fatigue that does not clear on rest days.
 
 ### M.A.W. Stigma — The Architect's Compass
 
@@ -226,7 +226,7 @@ Its needle has no cardinal scale; it follows intended circulation through doors,
 
 **Ability:** Shows what a damaged building was meant to be. The liaison office uses it on municipal surveys and has never been refused.
 
-**Cost:** The wearer feels what the building was for, including the buildings they live and work in.
+**Bearer cost:**The wearer feels what the building was for, including the buildings they live and work in.
 
 *The Compass is issued by the entity, not manufactured, and only to a worker who has recorded an intention it showed them. Eleven exist. The liaison office holds the register.*
 

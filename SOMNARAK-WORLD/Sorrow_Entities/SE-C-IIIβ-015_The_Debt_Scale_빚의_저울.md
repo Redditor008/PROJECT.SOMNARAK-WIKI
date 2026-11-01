@@ -204,7 +204,7 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 
 **Ability:** Deals Void damage straight into the Soul register — what a party remembers, who they take themselves to be, and the open account they feel standing behind both — and the strike carries the Scale's own void signature, which is why the wound reads like a settlement rather than a blow.
 
-**Cost:** The piece spends the wielder’s unlabelled memories, a few at a time, and a bearer who keeps firing it begins to mistake exactness for justice.
+**Bearer cost:**The piece spends the wielder’s unlabelled memories, a few at a time, and a bearer who keeps firing it begins to mistake exactness for justice.
 
 ### M.A.W. Suit — The Balance Veil
 
@@ -222,7 +222,7 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 
 **Ability:** Grants resistance to Void damage; while the veil is worn the Soul register holds together — who the wearer takes themselves to be, what they remember, and the feeling of standing answerable for something — which is precisely what the Scale otherwise weighs out of a person. The veil is meant for this holding's pressure and for nobody else's.
 
-**Cost:** The wearer thins out in their own estimation, as though the account of them were being read over by somebody else, and it stays that way while the veil is on.
+**Bearer cost:**The wearer thins out in their own estimation, as though the account of them were being read over by somebody else, and it stays that way while the veil is on.
 
 ### M.A.W. Stigma — The Balance Pendant
 
@@ -235,7 +235,7 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 
 **Ability:** Shows the karmic debt of another person.
 
-**Cost:** The wearer experiences the debt observed.
+**Bearer cost:**The wearer experiences the debt observed.
 
 *The Balance Pendant is neither issued nor asked for. Three Wardens hold it, each having turned down a measurement the file shows they had every right to take.*
 

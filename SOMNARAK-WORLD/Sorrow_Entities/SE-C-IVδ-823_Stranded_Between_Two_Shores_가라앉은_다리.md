@@ -173,7 +173,7 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 
 **Ability:** Lament damage to the mind. The requiem carries the entity's signature — a journey stopped at the midpoint — and what it opens in a target is the certainty that they will not finish whatever they are currently doing.
 
-**Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere.
+**Bearer cost:**The wielder carries the entity's unwept grief and weeps involuntarily, most often at the point of arriving somewhere.
 
 ### M.A.W. Suit — The Crossing Shroud
 
@@ -191,7 +191,7 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure here, and does nothing about the pull. The shroud is what lets a worker hold one mouth for a full shift with the sobbing coming from the other end, and it is issued in pairs for that reason: a bearer working alone reports the span descending regardless of the reading.
 
-**Cost:** The wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular feeling attached.
+**Bearer cost:**The wearer goes numb to small pleasures and reports arrivals — home, the end of a rotation — as having no particular feeling attached.
 
 ### M.A.W. Stigma — The Crossing Chain
 
@@ -205,7 +205,7 @@ Read the table as a schedule of who is audible to whom, not as a catalogue of op
 
 **Ability:** Creates a temporary bridge across physical or emotional gaps.
 
-**Cost:** The wearer feels the grief of everyone who crosses.
+**Bearer cost:**The wearer feels the grief of everyone who crosses.
 
 *The chain is not manufactured. It is given to a worker who held one mouth while somebody else held the other, and is given to both of them or to neither; there is no record of a single chain being issued.*
 

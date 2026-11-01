@@ -192,7 +192,7 @@ Swung with centrifugal force, the heavy octagonal brass tally-head crushes armor
 
 **Ability:** *Indenture Crush* — Attacks deal heavy Weight damage to target stance. On critical hit, inflicts Bind (Speed reduced to 1 for 1 turn) as debt gravity anchors the target.
 
-**Cost:** The wielder feels an invisible chain dragging behind their heels during movement.
+**Bearer cost:**The wielder feels an invisible chain dragging behind their heels during movement.
 
 ### M.A.W. Suit — The Diver's Grease-Skins
 
@@ -210,7 +210,7 @@ Swung with centrifugal force, the heavy octagonal brass tally-head crushes armor
 
 **Ability:** High resistance to Weight and crushing forces. Grants immunity to movement speed reduction caused by environmental sludge or mire.
 
-**Cost:** The wearer's movements feel slightly sluggish, as though wading through chest-deep stagnant water.
+**Bearer cost:**The wearer's movements feel slightly sluggish, as though wading through chest-deep stagnant water.
 
 ### M.A.W. Stigma — The Snapped Half
 
@@ -224,7 +224,7 @@ Swung with centrifugal force, the heavy octagonal brass tally-head crushes armor
 
 **Ability:** Stabilizes the bearer's psychological threshold against escalating pressure.
 
-**Cost:** The bearer compulsively checks ledger receipts and loan documents, terrified of unseen obligations.
+**Bearer cost:**The bearer compulsively checks ledger receipts and loan documents, terrified of unseen obligations.
 
 ### M.A.W. Use Notes
 

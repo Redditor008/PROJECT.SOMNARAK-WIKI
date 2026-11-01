@@ -197,7 +197,7 @@ Two-thirds of the blade carries the fuller, and down the fuller run four mercy s
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the return in the strike: the target hears the kindest thing ever said to them, in the voice of somebody who is not there.
 
-**Cost:** The wielder carries the holding's unwept grief and weeps without meaning to; prolonged use makes the weeping ordinary rather than remarkable, and the piece is issued one rotation at a time because the cost does not show on the day.
+**Bearer cost:**The wielder carries the holding's unwept grief and weeps without meaning to; prolonged use makes the weeping ordinary rather than remarkable, and the piece is issued one rotation at a time because the cost does not show on the day.
 
 ### M.A.W. Suit — The Kindness Shroud
 
@@ -215,7 +215,7 @@ Two-thirds of the blade carries the fuller, and down the fuller run four mercy s
 
 **Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — and it is worn against this holding's particular pressure: a return cannot be argued with or deflected, and the piece's job is to let the wearer hear it and not answer.
 
-**Cost:** The wearer goes numb to minor joys. The onset is not announced and the wearer is the last person to notice it, so a colleague checks it at the return of the piece against one question: what last pleased you, and when.
+**Bearer cost:**The wearer goes numb to minor joys. The onset is not announced and the wearer is the last person to notice it, so a colleague checks it at the return of the piece against one question: what last pleased you, and when.
 
 ### M.A.W. Stigma — The Kindness Stone
 
@@ -229,7 +229,7 @@ Two-thirds of the blade carries the fuller, and down the fuller run four mercy s
 
 **Ability:** Calms people near the wearer.
 
-**Cost:** The wearer feels every kindness that was refused nearby.
+**Bearer cost:**The wearer feels every kindness that was refused nearby.
 
 *Four stones exist. All four were granted to Wardens who heard their own voice come back at them and reported it the same day, which is the thing the rotation exists to catch and the thing almost nobody does.*
 

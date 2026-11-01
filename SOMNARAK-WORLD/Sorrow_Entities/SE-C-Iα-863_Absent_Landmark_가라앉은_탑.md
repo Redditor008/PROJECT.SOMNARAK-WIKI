@@ -190,7 +190,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Ability:** Void damage to the soul. What it takes from a target is their sense of where they are, so that familiar ground must be navigated by reading signs like a stranger.
 
-**Cost:** The wielder loses small, nameless memories, beginning with the routes they used to walk without thinking.
+**Bearer cost:**The wielder loses small, nameless memories, beginning with the routes they used to walk without thinking.
 
 ### M.A.W. Suit — The Empty Veil
 
@@ -208,7 +208,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Ability:** Turns Void aside from the soul. The suit is what lets a worker stand at the corner for a full cycle without the vertigo of turning toward something that is not there.
 
-**Cost:** The wearer loses the habit of the corner — the unthinking turn — and finds they need the printed map in districts they have lived in for years. The Armoury records that as the piece working and not as the wearer failing.
+**Bearer cost:**The wearer loses the habit of the corner — the unthinking turn — and finds they need the printed map in districts they have lived in for years. The Armoury records that as the piece working and not as the wearer failing.
 
 ### M.A.W. Stigma — The Empty Window
 
@@ -222,7 +222,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 **Ability:** Reveals spaces removed from a structure.
 
-**Cost:** The wearer sees every empty room as occupied by memory.
+**Bearer cost:**The wearer sees every empty room as occupied by memory.
 
 *Nothing manufactures the stigma. It goes to a worker who gave directions by the tower in a written report; nobody who climbed it has ever received one.*
 

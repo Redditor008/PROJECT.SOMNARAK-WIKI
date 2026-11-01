@@ -205,7 +205,7 @@ The cannon throws incandescent phosphor pellets; a dark room goes gold. Under th
 
 **Ability:** *Ledger's Illumination* — Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Projects a focused beam of heavy light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the weight of their debt anchors their feet to the ground.
 
-**Cost:** The wielder feels progressively heavier; prolonged use causes their shadow to lag slightly behind their body.
+**Bearer cost:**The wielder feels progressively heavier; prolonged use causes their shadow to lag slightly behind their body.
 
 ### M.A.W. Suit — The Collector's Oilskin Trench-Coat
 
@@ -224,7 +224,7 @@ The cannon throws incandescent phosphor pellets; a dark room goes gold. Under th
 
 **Ability:** Grants strong resistance to Weight damage, anchoring the bearer's Han against karmic crushing and environmental burden fields.
 
-**Cost:** The wearer carries a constant low fatigue and cannot run lightly.
+**Bearer cost:**The wearer carries a constant low fatigue and cannot run lightly.
 
 ### M.A.W. Stigma — Pale Wick Stigma
 
@@ -239,7 +239,7 @@ The cannon throws incandescent phosphor pellets; a dark room goes gold. Under th
 
 **Ability:** Reveals debts hidden from ordinary records.
 
-**Cost:** The wielder cannot ignore what the light shows.
+**Bearer cost:**The wielder cannot ignore what the light shows.
 
 *No one issues the Pale Wick and no one can ask for it. Twice it has been conferred, both times on a Warden who read their own itemisation out to the watch instead of keeping it — not a procedure, and never required of anyone.*
 

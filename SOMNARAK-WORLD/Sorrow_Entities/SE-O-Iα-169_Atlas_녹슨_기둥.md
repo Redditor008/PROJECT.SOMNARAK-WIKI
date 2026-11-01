@@ -199,7 +199,7 @@ The thick spine allows for heavy chopping and prying without risking blade fract
 
 **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt. The strike carries the source's signature, and those hit report the sensation of being handed something heavy by someone who then walks away.
 
-**Cost:** The wielder grows heavier by degrees and ages slightly with prolonged use. The characteristic complaint is not fatigue but reluctance to be relieved.
+**Bearer cost:**The wielder grows heavier by degrees and ages slightly with prolonged use. The characteristic complaint is not fatigue but reluctance to be relieved.
 
 ### M.A.W. Suit — The Rusted Brace
 
@@ -217,7 +217,7 @@ The thick spine allows for heavy chopping and prying without risking blade fract
 
 **Ability:** Supports damaged structures.
 
-**Cost:** The wearer feels responsible for every supported thing.
+**Bearer cost:**The wearer feels responsible for every supported thing.
 
 ### M.A.W. Stigma — The Rusted Charm
 
@@ -231,7 +231,7 @@ The thick spine allows for heavy chopping and prying without risking blade fract
 
 **Ability:** Grants a minor boon drawn from the source's own nature — the bearer can hold a position, a load or a line longer than their condition should allow, and will not notice having passed the point where they should have stopped.
 
-**Cost:** The bearer will not notice stopping being an option, which is the piece working as designed — it lends endurance and takes the warning that would have ended the shift.
+**Bearer cost:**The bearer will not notice stopping being an option, which is the piece working as designed — it lends endurance and takes the warning that would have ended the shift.
 
 *A Stigma out of this source is given, not made. One appears after a successful cycle at the entity's own disposition; service at the pillar entitles nobody to one.*
 

@@ -187,7 +187,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Somnium's lament signature in the strike.
 
-**Cost:** The wielder begins to dream, waking, about the things they have not done. The weeping is incidental and is not the cost; the cost is that the dreams are accurate, specific, and still available.
+**Bearer cost:**The wielder begins to dream, waking, about the things they have not done. The weeping is incidental and is not the cost; the cost is that the dreams are accurate, specific, and still available.
 
 ### M.A.W. Suit — The Dream Shroud
 
@@ -205,7 +205,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 **Ability:** Grants resistance to Lament damage. The shroud does not block the dream. It keeps the wearer able to tell that they are being offered one, which is the whole of the protection available here.
 
-**Cost:** The wearer stops wanting things. Not painfully — they simply find that they no longer make requests, and the quarterly comparison picks it up as an absence rather than as an addition.
+**Bearer cost:**The wearer stops wanting things. Not painfully — they simply find that they no longer make requests, and the quarterly comparison picks it up as an absence rather than as an addition.
 
 ### M.A.W. Stigma — The Dream Thread
 
@@ -219,7 +219,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 
 **Ability:** Allows controlled entry into another person's dream.
 
-**Cost:** The wearer carries an emotional fragment from every dream entered.
+**Bearer cost:**The wearer carries an emotional fragment from every dream entered.
 
 *The thread-band is neither issued nor asked for. It has appeared 9 times, and on every one of those occasions the recipient had put in a formal request that quarter which came back refused in writing, with a ground given. No recipient has ever explained the pattern, and the holding does not claim to have either.*
 

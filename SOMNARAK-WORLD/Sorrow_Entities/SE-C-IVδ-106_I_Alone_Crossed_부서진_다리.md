@@ -173,7 +173,7 @@ I Alone Crossed is a Subject with Subject-Mind manifestation and Lament expressi
 
 **Ability:** Deals heavy Lament damage, attacking the Mind (emotional stability, willpower). Channels the survivor's agony of the collapsed span, cleaving through isolation panic and redirecting the trauma of collapse outward.
 
-**Cost:** The wielder feels the entity's unwept survivor grief; prolonged use causes severe vertigo and involuntary weeping whenever crossing thresholds alone.
+**Bearer cost:**The wielder feels the entity's unwept survivor grief; prolonged use causes severe vertigo and involuntary weeping whenever crossing thresholds alone.
 
 A debrief partner shares the failure account before issue and before any reissue. Naming a factor outside the bearer’s control is required for recognition; claiming either sole blame or sole innocence widens the break and rejects use. Between completed swings, take one full breath and check balance. Maintenance places the blade across a map with at least two safe exits and one uncontrollable factor, never across a single name. For shutdown the partner covers the broken fuller with the route card, says “we crossed together,” and sheaths it; breaking the blade risks a bridge-collapse hallucination.
 
@@ -195,7 +195,7 @@ The wearer binds with a named partner, return route and boundary beyond which th
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against I Alone Crossed's kind of pressure.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Bearer cost:**The wearer becomes numb to minor joys.
 
 For care, both partners trace departure and return on the completed route map before folding the cloth. In an emergency the partner touches the marker, names the abort direction and unfastens the Shroud from the rear. Cutting it during a false-bridge event risks a looped crossing perception; protection does not make a solitary crossing safe.
 
@@ -213,7 +213,7 @@ For care, both partners trace departure and return on the completed route map be
 
 **Ability:** Reveals the emotional routes between people.
 
-**Cost:** The wearer feels every failed crossing they witness.
+**Bearer cost:**The wearer feels every failed crossing they witness.
 
 The route partner closes the Lantern after the review schedules a next action with the people involved; storage waits until the blue depth stops moving. For emergency shutdown, close the shutter, cover the top loop and name a connection that held. Breaking it releases the mapped failed crossings into the bearer’s sleep.
 

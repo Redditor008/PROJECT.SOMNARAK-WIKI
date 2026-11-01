@@ -191,7 +191,7 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 
 **Ability:** Lament against the Mind. The target recalls, at once, every conversation of theirs that stopped without ending — not arguments, the file is specific: the ones that were simply interrupted and never resumed. Fourteen strikes and fourteen accounts that use almost the same phrasing.
 
-**Cost:** The wielder carries its unwept grief and weeps involuntarily, most often on hearing a voice stop mid-sentence.
+**Bearer cost:**The wielder carries its unwept grief and weeps involuntarily, most often on hearing a voice stop mid-sentence.
 
 ### M.A.W. Suit — The Crying Shroud
 
@@ -210,7 +210,7 @@ It is drawn in long, fluid arcs, whether the wielder is mounted or standing. The
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this holding exerts. What it buys is an hour of standing inside the crying without reaching for it; it does nothing at all about wanting to.
 
-**Cost:** Other people's distress becomes something the wearer hears rather than something that reaches them. Colleagues notice it first, and on this set they have been asked to.
+**Bearer cost:**Other people's distress becomes something the wearer hears rather than something that reaches them. Colleagues notice it first, and on this set they have been asked to.
 
 ### M.A.W. Stigma — The Crying Ember
 
@@ -224,7 +224,7 @@ It is drawn in long, fluid arcs, whether the wielder is mounted or standing. The
 
 **Ability:** Detects hidden sorrow nearby.
 
-**Cost:** The wearer hears grief even where no sound exists.
+**Bearer cost:**The wearer hears grief even where no sound exists.
 
 *Nine Stigmas in eleven years, every one to a worker who sat through the whole session without asking whose voice it was. Three workers have identified the voice correctly, from the Row's own records, and not one of them has ever received anything.*
 

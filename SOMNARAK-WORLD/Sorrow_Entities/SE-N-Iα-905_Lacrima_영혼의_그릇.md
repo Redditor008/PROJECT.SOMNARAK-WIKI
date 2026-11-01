@@ -217,7 +217,7 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 **Ability:** The target hears, once, a single clear word in a voice they know. The armoury's note records that the effect was never designed, was discovered in testing, and has twice ended an engagement without a second strike.
 
-**Cost:** A headache that lasts about a day, and the wielder's own name sounding slightly wrong to them for the length of it.
+**Bearer cost:**A headache that lasts about a day, and the wielder's own name sounding slightly wrong to them for the length of it.
 
 **Edge custody:** The one clear word belongs to this derived weapon’s target effect, not to a newly corroborated transcript from the source jar. Keep the continuing-pleading Tick’s duration separate from the direct strike and retain the selected-target limit; the corridor’s audible radius is not blade spread. Record the bearer’s headache and altered sense of their own name before rest or cleaning. The linked item requires attribution review and named-witness relinquishment if source sorrow becomes autobiographical. Its missing event is not completed by inventing a dead mourner. The local single edge and the index’s wrapped-droplet silhouette remain different same-item accounts without a demonstrated reshaping.
 
@@ -237,7 +237,7 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 **Ability:** Resists Void pressure. Issued to the second listener, whose job is to hear nothing and write that down, and who needs the protection more than the first listener does.
 
-**Cost:** The wearer is difficult to remember while it is worn. Colleagues walk past them. It ends when the veil comes off and nobody has reported it lasting.
+**Bearer cost:**The wearer is difficult to remember while it is worn. Colleagues walk past them. It ends when the veil comes off and nobody has reported it lasting.
 
 **Veil care:** A near-colourless garment that shifts with its wearer is not an emitted body from the jar. Keep the second listener identified in the session record while the Veil makes that person easy to overlook; forgetting the worker does not invalidate a blank sheet or make the first listener’s longer one correct. Track the source-linked self-forgetting separately from colleagues walking past. The local ordinary cost ends on removal, but the linked attribution failure still requires a witness to receive the piece. Its resistance is not permission to merge transcripts or to substitute a protected listener’s certainty for agreement.
 
@@ -253,7 +253,7 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 **Ability:** The token is cold against the skin whenever its bearer is about to write down a word they did not hear. It has no other function and cannot be aimed.
 
-**Cost:** A familiar word or a familiar face gone for a few seconds. It comes back. Bearers describe the few seconds, unprompted and almost without variation, as the worst thing in the wing.
+**Bearer cost:**A familiar word or a familiar face gone for a few seconds. It comes back. Bearers describe the few seconds, unprompted and almost without variation, as the worst thing in the wing.
 
 *The token has been granted seven times. Each recipient had, in the preceding quarter, recorded that they could make nothing out, on a day when the first listener had filed a transcript. The holding records the pattern and has twice refused to let it be described as a reward for honesty, on the ground that a worker performing deafness to earn a token is the same failure wearing better clothes.*
 

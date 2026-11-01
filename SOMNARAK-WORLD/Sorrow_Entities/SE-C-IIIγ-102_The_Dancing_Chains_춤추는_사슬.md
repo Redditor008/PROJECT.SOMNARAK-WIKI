@@ -216,7 +216,7 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 **Ability:** Deals Grudge damage against the Body (physical form, structural integrity), and the strike carries the compulsion rather than the rage: the target's own next movement arrives faster than they meant it to.
 
-**Cost:** The wielder's old wounds ache and their pace stops being theirs to set, which the armoury enters as one cost with two signs rather than two costs.
+**Bearer cost:**The wielder's old wounds ache and their pace stops being theirs to set, which the armoury enters as one cost with two signs rather than two costs.
 
 ### M.A.W. Suit — The Dancing Plate
 
@@ -234,7 +234,7 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 **Ability:** Wards the Body — physical form, structural integrity — against Grudge damage of the kind this cell produces, so that the wearer stays standing through what the figure asks of them.
 
-**Cost:** The wearer's reflexes dull, as if the plate were deciding when they move, and the dulling is how every stand-down on this set has presented.
+**Bearer cost:**The wearer's reflexes dull, as if the plate were deciding when they move, and the dulling is how every stand-down on this set has presented.
 
 ### M.A.W. Stigma — The Dancing Shoes
 
@@ -248,7 +248,7 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 **Ability:** Greatly increases movement speed and evasive reflexes.
 
-**Cost:** The shoes want to dance; resisting the urge to move requires constant effort.
+**Bearer cost:**The shoes want to dance; resisting the urge to move requires constant effort.
 
 *The Dancing Shoes are not manufactured and are not requested; the chains confer them, rarely, and in every recorded instance on somebody who had performed a removal rather than on somebody who had been bound.*
 

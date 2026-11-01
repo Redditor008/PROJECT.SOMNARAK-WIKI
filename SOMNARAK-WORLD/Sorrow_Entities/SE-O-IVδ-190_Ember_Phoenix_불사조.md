@@ -183,7 +183,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Ability:** Deals Grudge damage against the Body — structural integrity and the physical capacity to continue. The strike carries the source's signature, and those hit describe the wound as something they have had before.
 
-**Cost:** The wielder's old injuries ache, every one of them, in the order they were received. Prolonged use leaves faint bruising over scars that healed years ago.
+**Bearer cost:**The wielder's old injuries ache, every one of them, in the order they were received. Prolonged use leaves faint bruising over scars that healed years ago.
 
 ### M.A.W. Suit — The Rebirth Plate
 
@@ -201,7 +201,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against the kind of force that expects you to get up again. Rated highly for sustained engagements, which is the only kind this source produces.
 
-**Cost:** The wearer's reflexes dull and their sense of their own limits dulls with them. Wearers work past exhaustion without registering it and are poor judges of their own fitness to continue; the medical hold on this piece exists for that reason.
+**Bearer cost:**The wearer's reflexes dull and their sense of their own limits dulls with them. Wearers work past exhaustion without registering it and are poor judges of their own fitness to continue; the medical hold on this piece exists for that reason.
 
 ### M.A.W. Stigma — The Rebirth Ember
 
@@ -215,7 +215,7 @@ The culverin discharges volcanic fire-slugs wrapped in dense black soot that exp
 
 **Ability:** Revives the wearer once after fatal injury.
 
-**Cost:** The wearer returns carrying the emotional memory of dying.
+**Bearer cost:**The wearer returns carrying the emotional memory of dying.
 
 *The Stigma here is a gift rather than a manufacture. One arrives when a cycle has succeeded, on the entity's own initiative, unbidden as the next ignition, and no procedure, however correctly run, has ever called one up.*
 

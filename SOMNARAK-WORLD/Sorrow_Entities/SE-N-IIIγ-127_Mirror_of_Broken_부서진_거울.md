@@ -195,7 +195,7 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 **Ability:** Weight against the Han. Struck targets spend the following hours certain that an earlier version of themselves was the real one, which all fourteen described as neither pleasant nor distressing.
 
-**Cost:** The wielder ages slightly, and misplaces which decade a memory belongs to.
+**Bearer cost:**The wielder ages slightly, and misplaces which decade a memory belongs to.
 
 ### M.A.W. Suit — The Broken Mantle
 
@@ -213,7 +213,7 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 **Ability:** Resistance to Weight against the Han, and the reason a warden can work the shard field for a full cycle without arguing with the reflections.
 
-**Cost:** A constant low fatigue, and the habit of correcting other people's accounts of their own pasts.
+**Bearer cost:**A constant low fatigue, and the habit of correcting other people's accounts of their own pasts.
 
 **Mantle grounding:** Select the grounding partner and exit route before entering Dream pressure. The mirrored black seams can hold separate silhouettes while the garment’s weight is distributed over the shoulders. A present choice and the partner’s exit cue open them against a direct surge; self-suppression instead closes the seams and loses the protection. After use, debrief beside non-facing mirrors and fold the garment between them. For shutdown the partner opens the centre seam, states the route and removes it from both shoulders; cutting a seam releases a Weight echo into the nearest reflection.
 
@@ -229,7 +229,7 @@ Each facet reflects a different perspective of the surrounding room at impossibl
 
 **Ability:** Anchors the wearer between conflicting identities.
 
-**Cost:** The wearer feels the weight of every self they abandoned.
+**Bearer cost:**The wearer feels the weight of every self they abandoned.
 
 *Nine reflections exist. Each was cut from a shard that had stopped returning a face, and each is issued with the standing order that its bearer never describe what they see in it to anybody, including a counsellor.*
 

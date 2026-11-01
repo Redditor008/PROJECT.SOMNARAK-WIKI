@@ -197,7 +197,7 @@ The knives respond instantly to telekinetic hand gestures, flying through the ai
 
 **Ability:** Grudge against the Body, with the source's whole character in the after-effect: a brief, complete, specific fury directed at nobody. Those struck describe knowing exactly how angry they are and having nowhere at all to put it. It lasts about a minute and all eleven described it in nearly the same words.
 
-**Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising, in the pattern of grips rather than blows — as though someone had taken hold of them.
+**Bearer cost:**The wielder's old injuries ache and prolonged use leaves faint bruising, in the pattern of grips rather than blows — as though someone had taken hold of them.
 
 ### M.A.W. Suit — The Trace Plate
 
@@ -215,7 +215,7 @@ The knives respond instantly to telekinetic hand gestures, flying through the ai
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against anger that has no object. It is rated against duration rather than force, which suits a source that has been going for generations.
 
-**Cost:** The wearer's reflexes dull and their grudges lengthen. Wearers remain annoyed about things for considerably longer than the things warrant, and do not connect this to the equipment.
+**Bearer cost:**The wearer's reflexes dull and their grudges lengthen. Wearers remain annoyed about things for considerably longer than the things warrant, and do not connect this to the equipment.
 
 ### M.A.W. Stigma — The Trace Ember
 
@@ -229,7 +229,7 @@ The knives respond instantly to telekinetic hand gestures, flying through the ai
 
 **Ability:** Reveals the emotional residue left by a past event.
 
-**Cost:** The wearer may inherit anger without learning its cause.
+**Bearer cost:**The wearer may inherit anger without learning its cause.
 
 *Two Stigmas in nine years, with nothing in common between the cycles that produced them. The station's entry reads that no reason has been established and that establishing reasons is the one thing this holding punishes.*
 

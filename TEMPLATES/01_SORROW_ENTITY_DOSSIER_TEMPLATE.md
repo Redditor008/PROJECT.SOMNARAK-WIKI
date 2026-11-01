@@ -186,6 +186,8 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
+> **Two labels, one price each.** `**Cost:**` is what the piece costs in Sorrow Echoes — a figure, on the stats line. `**Bearer cost:**` is what it takes from the person carrying it, and it sits under the Ability it is derived from. A block with two `**Cost:**` rows makes the reader guess which is which, and a block with no `**Bearer cost:**` has not said what the piece costs its bearer at all.
+
 ### M.A.W. Weapon — {{Name}}
 
 **Type:** Weapon | **Grade:** {{α–ω}} | **Element:** {{…}}
@@ -200,7 +202,7 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 **Damage Application:** {{…}}
 
 **Ability:** {{What this piece does that no other piece does, from the entity's own nature.}}
-**Cost:** {{What it takes from the wielder, derived from the Ability in the line above. Never a sentence another piece uses; never “with each use” filler.}}
+**Bearer cost:** {{What it takes from the wielder, derived from the Ability in the line above. Never a sentence another piece uses; never “with each use” filler.}}
 
 {{Optional: custody note, one paragraph, in-world.}}
 
@@ -218,7 +220,7 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 **Acquisition Probability:** {{2–5%}}
 **Effect:** {{the passive figure and what it is measured against here}}
 **Ability:** {{the specific boon — what it lets the bearer do}}
-**Cost:** {{what it takes, derived from the Ability. The four retired stock families — *moves a little slower*, *temper shortens*, *weeps in their sleep*, *forgets a word* — are defects in any file.}}
+**Bearer cost:** {{what it takes, derived from the Ability. The four retired stock families — *moves a little slower*, *temper shortens*, *weeps in their sleep*, *forgets a word* — are defects in any file.}}
 
 {{Optional: charm custody / responsibility note, in-world.}}
 

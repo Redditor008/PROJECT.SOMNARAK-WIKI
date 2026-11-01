@@ -211,7 +211,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 **Ability:** Weight damage to the Han. The maul is not used on the chain and never has been; it was forged for vessel work in the Row and has been drawn six times in sixteen years.
 
-**Cost:** A heaviness that accumulates across a shift and a slight ageing that does not reverse. Two wielders have been retired on it, both early, both on the establishment's full pension and neither with any argument from the Row.
+**Bearer cost:**A heaviness that accumulates across a shift and a slight ageing that does not reverse. Two wielders have been retired on it, both early, both on the establishment's full pension and neither with any argument from the Row.
 
 ### M.A.W. Suit — The Binding Mantle
 
@@ -229,7 +229,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 **Ability:** Turns Weight pressure aside before it reaches the Han, so a long walk down the run costs the wearer the walk and nothing further. Required dress for any shift expected to pass twenty links: two surveyors walked the forty-link gallery in ordinary cover and could not straighten up afterwards, and both were back on the run inside a week once the mantle had been issued to them. The warding lasts only while the mantle is worn and answers only Weight. It answers nothing for what the links say, and wearers who expect it to are the ones who come off the run early.
 
-**Cost:** A steady low fatigue while the mantle stays on, close to what a full day of ordinary labour leaves behind, and removal does not end it: it runs some hours past the walk and has cleared by the next morning in every logged case. The Han carries no mark from it, so the Row's medics will sign a second walk on the same day. It remains the cost the Row tolerates best, and the survey has never lacked volunteers. Two crews have asked for the mantle to stay on after their count was closed, and both were refused, the request being written up as a note on the weave rather than on the crews.
+**Bearer cost:**A steady low fatigue while the mantle stays on, close to what a full day of ordinary labour leaves behind, and removal does not end it: it runs some hours past the walk and has cleared by the next morning in every logged case. The Han carries no mark from it, so the Row's medics will sign a second walk on the same day. It remains the cost the Row tolerates best, and the survey has never lacked volunteers. Two crews have asked for the mantle to stay on after their count was closed, and both were refused, the request being written up as a note on the weave rather than on the crews.
 
 ### M.A.W. Stigma — The Binding Chain
 
@@ -243,7 +243,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 **Ability:** The bearer sees, in any room, who in it stands behind whom. The Row restricts the piece to the gallery by written instruction, after a bearer wore it into a staff canteen and could not afterwards unsee the arrangement of the tables.
 
-**Cost:** The bearer carries the weight of every link they read, about a day apiece. On a forty-link shift that is forty days of weight arriving together, which is why the chain stigma and the full survey are never assigned to the same person.
+**Bearer cost:**The bearer carries the weight of every link they read, about a day apiece. On a forty-link shift that is forty days of weight arriving together, which is why the chain stigma and the full survey are never assigned to the same person.
 
 *The chain has been granted nine times, every one of them to a worker who refused to stand surety for a colleague and said plainly why. Six of the nine report that the refusal cost them the friendship. The Row records the pattern, declines to make it a criterion, and declines equally to pretend the pattern is comfortable.*
 

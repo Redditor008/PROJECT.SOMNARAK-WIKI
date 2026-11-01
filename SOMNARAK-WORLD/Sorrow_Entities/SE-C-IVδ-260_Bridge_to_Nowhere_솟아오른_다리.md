@@ -191,7 +191,7 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 
 **Ability:** Lament damage to the mind. What the requiem opens in a target is the certainty of being on the way somewhere; it does not add a wound so much as a destination, and the destination is not theirs.
 
-**Cost:** The wielder carries the Bridge's unwept grief and weeps involuntarily, most often on arriving somewhere familiar.
+**Bearer cost:**The wielder carries the Bridge's unwept grief and weeps involuntarily, most often on arriving somewhere familiar.
 
 ### M.A.W. Suit — The Memory Shroud
 
@@ -209,7 +209,7 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 
 **Ability:** Wards the mind against Lament, which is the only pressure this holding applies. The shroud is what lets a worker cross the span and still know which journey was theirs; it does not prevent the crossing and is not meant to.
 
-**Cost:** The wearer goes numb to small pleasures and reports first that arriving anywhere has stopped feeling like anything — a description the counsellors treat as a finding rather than as fatigue.
+**Bearer cost:**The wearer goes numb to small pleasures and reports first that arriving anywhere has stopped feeling like anything — a description the counsellors treat as a finding rather than as fatigue.
 
 ### M.A.W. Stigma — The Memory Span
 
@@ -223,7 +223,7 @@ The escalation pattern here is measured in span rather than in turns: the Bridge
 
 **Ability:** Allows the wearer to cross one remembered distance.
 
-**Cost:** The wearer feels the final goodbye of everyone who crossed.
+**Bearer cost:**The wearer feels the final goodbye of everyone who crossed.
 
 *The span is not manufactured and cannot be requisitioned. The Bridge gives one to a worker who crossed and turned back; it has never given one to a worker who used the crossing to reach the other side of anything. Two are in the Gardens, and the file records which crossing each was given after.*
 

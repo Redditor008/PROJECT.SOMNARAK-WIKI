@@ -197,7 +197,7 @@ The gauge response only means anything read against the feeding ledger. Flerehan
 
 **Ability:** Deals Weight damage, attacking both body and resolve. A thrust that lands like a sinking stone — the target feels pulled downward, as if the floor had become deep water.
 
-**Cost:** The wielder occasionally feels they are breathing water, and must sit a moment to remember air.
+**Bearer cost:**The wielder occasionally feels they are breathing water, and must sit a moment to remember air.
 
 ### M.A.W. Suit — The White Scale
 
@@ -214,7 +214,7 @@ The gauge response only means anything read against the feeding ledger. Flerehan
 
 **Ability:** A scaled vest that absorbs Weight pressure and shields both resolve and body. It is strongest against the very heaviness it is made of — the wearer does not drown in the fish's air.
 
-**Cost:** The wearer grows still and quiet, unwilling to make waves — in conversation, in motion, in mood.
+**Bearer cost:**The wearer grows still and quiet, unwilling to make waves — in conversation, in motion, in mood.
 
 ### M.A.W. Stigma — The Black Drop
 
@@ -227,7 +227,7 @@ The gauge response only means anything read against the feeding ledger. Flerehan
 
 **Ability:** A drop that grows heavy and warm in the presence of a hidden appetite — warning the bearer of predators that look smaller than they are.
 
-**Cost:** The bearer feels, now and then, an inexplicable thirst that drinking does not quench.
+**Bearer cost:**The bearer feels, now and then, an inexplicable thirst that drinking does not quench.
 
 *The Black Drop is not manufactured and cannot be requisitioned. It has been conferred nine times, in every case on a worker who completed a full bank watch without issuing the ration in a year when the ration was still standing.*
 

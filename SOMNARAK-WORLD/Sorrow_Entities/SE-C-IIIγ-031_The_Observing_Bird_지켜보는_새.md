@@ -189,7 +189,7 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 **Ability:** *All-Seeing Drain* — Deals Lament damage across Range 5 (Room). Every hostile entity within the bearer's direct field of view continuously loses Han / Mind stability over time. While not an instant burst, the unrelenting psychological pressure wears down target defenses and inflicts steady tick damage until the target collapses.
 
-**Cost:** The wielder keeps seeing what the eye has outlined in blue — the concealed thing, the unacknowledged grief — in rooms where nothing is being worked and there is no way to stop looking.
+**Bearer cost:**The wielder keeps seeing what the eye has outlined in blue — the concealed thing, the unacknowledged grief — in rooms where nothing is being worked and there is no way to stop looking.
 
 ### M.A.W. Suit — The Feathered Shroud of Scrutiny
 
@@ -208,7 +208,7 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 **Ability:** Resistance to Lament damage; the Mind is what stands behind it — emotional stability, willpower, the capacity to stay in the room. On the sheet it reads Lament resistant at 0.4 and Weight warded at 0.8, with Grudge normal and Void weak at 1.6; the shroud is taken onto the perch and nowhere that cuts or strikes. It does not make the wearer less visible. Being seen in full is what the garment is for.
 
-**Cost:** The minor joys are the first thing the wearer loses, which is the cost the file states and the reason the shroud is issued for one watch at a time and never for a whole shift. It is written down at the door and struck out at the desk; a wearer reporting that flatness still standing the next morning is not issued again that week. Three sit on the sheet and the rotation between them is deliberate.
+**Bearer cost:**The minor joys are the first thing the wearer loses, which is the cost the file states and the reason the shroud is issued for one watch at a time and never for a whole shift. It is written down at the door and struck out at the desk; a wearer reporting that flatness still standing the next morning is not issued again that week. Three sit on the sheet and the rotation between them is deliberate.
 
 ### M.A.W. Stigma — The Third Sclera
 
@@ -223,7 +223,7 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 **Ability:** Shows the history and sorrow embedded in anything observed.
 
-**Cost:** Once sorrow is seen, the wearer cannot look away from it mentally.
+**Bearer cost:**Once sorrow is seen, the wearer cannot look away from it mentally.
 
 *No requisition has ever produced the Watcher's Stigma; it is given. Eleven workers hold it, and every one of the eleven filed a disclosure sheet against their own interest in the same cycle.*
 

@@ -231,7 +231,7 @@ Carved stone drainage channels trace across the shoulder plates, continually ven
 
 **Ability:** *Aqueous Dissipation* — Converts 20% of incoming direct physical and Lament impacts into weeping liquid runoff, dispersing force across the damp pleated linen.
 
-**Cost:** The wearer feels permanently chilled to the bone; minor joy feels emotionally muffled.
+**Bearer cost:**The wearer feels permanently chilled to the bone; minor joy feels emotionally muffled.
 
 ### M.A.W. Stigma — The Weeping Gargoyle Brooch
 
@@ -248,7 +248,7 @@ A droplet of glowing blue sorrow water continuously beads at the lower lip of th
 
 **Ability:** *Shared Wellspring* — Restores 2 SP to the bearer whenever an adjacent ally suffers Lament damage.
 
-**Cost:** The brooch slowly dampens the bearer's shirt with cold, salt-scented water.
+**Bearer cost:**The brooch slowly dampens the bearer's shirt with cold, salt-scented water.
 
 *The Weeping Gargoyle Brooch is not manufactured and is not issued; the Fountain gives it, rarely, and in every recorded case to somebody who had sat with it off duty.*
 

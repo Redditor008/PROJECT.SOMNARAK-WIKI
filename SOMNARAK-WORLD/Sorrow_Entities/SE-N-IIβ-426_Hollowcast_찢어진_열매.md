@@ -205,7 +205,7 @@ Flerehan lowers the gauge and it is the hardest Work Type in the file to perform
 
 **Ability:** Grudge damage to the Body. The target feels, for the duration, the specific anger of a complaint they filed and never heard back about. The armoury did not design this and cannot remove it.
 
-**Cost:** Old injuries ache and bruise faintly without impact. Wielders consistently report that the ache is in a place they were hurt at work, and four of them had to look up the incident to confirm it.
+**Bearer cost:**Old injuries ache and bruise faintly without impact. Wielders consistently report that the ache is in a place they were hurt at work, and four of them had to look up the incident to confirm it.
 
 ### M.A.W. Suit — The Torn Plate
 
@@ -223,7 +223,7 @@ Flerehan lowers the gauge and it is the hardest Work Type in the file to perform
 
 **Ability:** Resists Grudge pressure. Issued to the sighting officer, who must stand at the line while the figure reaches, and who is the one person in the room who cannot step back.
 
-**Cost:** Reflexes dull. Wearers are slower to flinch and slower to help, and the second of those is the one the welfare office logs.
+**Bearer cost:**Reflexes dull. Wearers are slower to flinch and slower to help, and the second of those is the one the welfare office logs.
 
 ### M.A.W. Stigma — The Torn Bracelet
 
@@ -237,7 +237,7 @@ Flerehan lowers the gauge and it is the hardest Work Type in the file to perform
 
 **Ability:** The bracelet warms against the skin when its wearer is about to offer reassurance. It has no other function, cannot be aimed, and is described in the duty log as the most disliked object in the holding.
 
-**Cost:** For about a day afterwards the wearer's comfort lands badly on people close to them. Nothing physical. It is the tone, and the wearer cannot hear it.
+**Bearer cost:**For about a day afterwards the wearer's comfort lands badly on people close to them. Nothing physical. It is the tone, and the wearer cannot hear it.
 
 *The bracelet has been granted six times, always to a worker who, in session, declined to tell it that it was all right. The holding records the pattern, refuses to call it a reward, and has twice rejected proposals to make it a qualification, on the ground that a worker withholding comfort to earn an object is performing the thing instead of doing it.*
 

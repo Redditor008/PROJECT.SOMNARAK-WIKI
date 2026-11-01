@@ -188,7 +188,7 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 **Ability:** Weight damage, delivered to the Han — the sorrow it is holding back, and the debt standing against that — with Deteriorata's own weight signature behind the blow and nothing the wielder brings to it. One thrust can take three targets, the first at full effect, the two behind it at 70 and 50 per cent. Every figure on this row is armoury transcription rather than observation: the Maul is the shoring commander's tool on this holding and has never been brought down on the entity, doctrine being explicit that there is no assault here.
 
-**Cost:** Each use leaves the wielder heavier than the last one did, and use past that leaves them older rather than injured — a wearing that the ledger enters as nothing and the person carries as years. The shoring commander's rotation is fixed before the cycle begins and not during it, and that is the point of fixing it: anyone still carrying that heaviness into the next watch is stood down, whether or not they say so.
+**Bearer cost:**Each use leaves the wielder heavier than the last one did, and use past that leaves them older rather than injured — a wearing that the ledger enters as nothing and the person carries as years. The shoring commander's rotation is fixed before the cycle begins and not during it, and that is the point of fixing it: anyone still carrying that heaviness into the next watch is stood down, whether or not they say so.
 
 ### M.A.W. Suit — The Saint's Fragment
 
@@ -206,7 +206,7 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 **Ability:** Allows the wearer to endure immense physical pressure.
 
-**Cost:** The wearer becomes unable to set down responsibilities.
+**Bearer cost:**The wearer becomes unable to set down responsibilities.
 
 ### M.A.W. Stigma — The Saint's Charm
 
@@ -220,7 +220,7 @@ The Behavior table contains the holding's own trap and the wing states it here r
 
 **Ability:** Grants a minor boon tied to Deteriorata's sorrow; the effect mirrors the entity's nature.
 
-**Cost:** The bearer learns to read warmth as bad news — the charm says somebody is grieving in the next room and says nothing about whether they are permitted to go in.
+**Bearer cost:**The bearer learns to read warmth as bad news — the charm says somebody is grieving in the next room and says nothing about whether they are permitted to go in.
 
 *The stigma is given, not issued, and only to a worker who has been ordered out of the chamber on the clock and has gone without arguing. Nine exist.*
 

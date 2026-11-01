@@ -210,7 +210,7 @@ The three-edged blade is etched with micro-capillary fullers that siphon condens
 
 **Ability:** *Veil Bastion* — Absorbs incoming projectile damage and can launch the barbed javelin to impale and root targets for 1 turn.
 
-**Cost:** The wielder weeps without feeling anything, at ordinary moments, and reports no sadness with it.
+**Bearer cost:**The wielder weeps without feeling anything, at ordinary moments, and reports no sadness with it.
 
 ### M.A.W. Suit — The Pallbearer's Layered Shroud
 
@@ -230,7 +230,7 @@ The shroud neither turns a blow aside nor hardens against one. It surrenders a l
 
 **Ability:** High absorption against Lament and psychological stress, dissipating impact through layered cloth.
 
-**Cost:** The wearer displays all grief openly through continuous tears.
+**Bearer cost:**The wearer displays all grief openly through continuous tears.
 
 ### M.A.W. Stigma — The Weeping Veil Clip
 
@@ -245,7 +245,7 @@ The shroud neither turns a blow aside nor hardens against one. It surrenders a l
 
 **Ability:** Reduces mental composure loss from allied defeats or team distress.
 
-**Cost:** The bearer weeps softly in their sleep.
+**Bearer cost:**The bearer weeps softly in their sleep.
 
 *Four clips exist. All four were given to Wardens who completed a posting without once lifting the veil from its frame, which is not difficult and is nevertheless the whole of the discipline here.*
 

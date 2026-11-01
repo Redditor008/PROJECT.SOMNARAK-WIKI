@@ -212,7 +212,7 @@ Nothing about it invites a second glance: its face holds the room dimly the way 
 
 **Ability:** *Shared Reflection* — deals Void damage against the Soul — identity, memory, the sense of self — by separating a target from an identity overload caused by reflected grief, opening a boundary long enough for a companion to name the person's present body. It binds only with a mirror witness, cannot reveal secrets or prove a grief belongs to anyone, and clouds to full opacity the moment it is used to pry; the companion shutters the face to end every use and a debrief is mandatory afterwards.
 
-**Cost:** Small memories go with each use and none of them are the ones that mattered; the armoury enters them in the same column as the learned-face count, because both are paid once and kept.
+**Bearer cost:**Small memories go with each use and none of them are the ones that mattered; the armoury enters them in the same column as the learned-face count, because both are paid once and kept.
 
 ### M.A.W. Suit — The Sorrow Veil
 
@@ -232,7 +232,7 @@ Worn, it reads as a thin silver-grey film over ordinary clothing, and from certa
 
 **Ability:** Wards the Soul — identity, memory, the sense of self — against Void reflection pressure while preserving the companion thread, so the wearer stands in the mirror's field as a person accompanied rather than absorbed and what they are shown stays a reading rather than becoming a verdict. It binds only to a named witness who can stop the exposure and unfastens it at the first loss-of-self sign; refuse companionship and the collar fades, and a threadless Veil is sealed.
 
-**Cost:** The wearer thins to themselves by a degree the counsellors treat as the boundary case rather than the comfort it is mistaken for.
+**Bearer cost:**The wearer thins to themselves by a degree the counsellors treat as the boundary case rather than the comfort it is mistaken for.
 
 ### M.A.W. Stigma — The Sorrow Lens
 
@@ -248,7 +248,7 @@ Ground fine enough that looking through it feels like looking slightly deeper th
 
 **Ability:** Reveals hidden sorrow in another person only with that person's consent and under an empathy witness; pointed at anyone without consent it warms and shows nothing. The correct outcome of a reading is an offered support option, never a declaration of understanding. The witness covers it after each use, a pendant grown heavy with unreturned sorrows is rested, and breaking it spreads the last observed grief into the bearer's own senses.
 
-**Cost:** The wearer feels the observed sorrow as personal experience.
+**Bearer cost:**The wearer feels the observed sorrow as personal experience.
 
 *The Sorrow Lens is not made and cannot be asked for. It has been conferred four times, each time on a channeller who closed the channel when the clock-holder called it rather than when the reflection finished.*
 

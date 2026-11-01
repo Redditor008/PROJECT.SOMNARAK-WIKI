@@ -192,7 +192,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Ability:** Deals Lament damage against the Mind — composure, willpower, orientation. The discharge is near-silent, and targets consistently report the paralysis arriving before they registered that anything had been fired.
 
-**Cost:** The wielder carries the grief of ground that would not hold. Prolonged use produces involuntary weeping, usually at the end of a march rather than during one.
+**Bearer cost:**The wielder carries the grief of ground that would not hold. Prolonged use produces involuntary weeping, usually at the end of a march rather than during one.
 
 **Rifle attribution:** The ebony-and-brass rifle is derived equipment, not the serpent’s body or a severed tendril carried as a gun. Its source-trace warning is the user recounting the settlement’s departures as their own life. Record involuntary weeping and source attribution before cleaning or resting the weapon. For shutdown, a named witness states the title and relocation event while the user relinquishes it. The no-burning rule remains a condition of the binding; the weapon’s issue is not permission to cut or burn the source.
 
@@ -212,7 +212,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Ability:** Slows the wearer's perception of time during crisis.
 
-**Cost:** The wearer feels the sorrow of every place they have left.
+**Bearer cost:**The wearer feels the sorrow of every place they have left.
 
 **Shield debrief:** Keep the root-fibre harness’s crisis-time benefit separate from the sorrow of places the wearer has left. The posting answer and abandoned belongings are useful evidence precisely because that sorrow can be mistaken for a reasonable decision to move. Review attribution before the harness is rested. If the settlement’s history is being told as autobiography, a named witness states the source event during relinquishment; removing the harness does not promise that the recorded sorrow ends.
 
@@ -228,7 +228,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Ability:** Grants a small, persistent steadiness on unfamiliar ground — the bearer finds routes easily and is rarely lost, which is the sorrow of the source turned the right way round.
 
-**Cost:** The bearer stops asking anybody the way, because the charm is rarely wrong and they can no longer tell rarely from never.
+**Bearer cost:**The bearer stops asking anybody the way, because the charm is rarely wrong and they can no longer tell rarely from never.
 
 *Five Charms in nine years and all five on nights when the party named every site it crossed. The station reports the correlation plainly and notes that naming is already required, so nothing follows from it operationally.*
 

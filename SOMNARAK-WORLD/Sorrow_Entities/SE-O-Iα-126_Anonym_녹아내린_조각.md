@@ -176,7 +176,7 @@ The weapon fires solid balls of compressed, burning tallow that splatter across 
 
 **Ability:** Fires compressed balls of burning tallow that spread on impact and keep burning — the wound is to the sense of self, and targets describe afterwards not pain but a difficulty saying what was hit.
 
-**Cost:** Each shot takes a small memory, and the loss is undetectable by design — what goes is minor and unlabelled, the name of a corridor, a face from a previous posting, the reason a habit was started. Wielders never notice the absence. Their colleagues do.
+**Bearer cost:**Each shot takes a small memory, and the loss is undetectable by design — what goes is minor and unlabelled, the name of a corridor, a face from a previous posting, the reason a habit was started. Wielders never notice the absence. Their colleagues do.
 
 ### M.A.W. Suit — The Melting Veil
 
@@ -196,7 +196,7 @@ A clear collar line carries a witness-held thread, readable under the bearer’s
 
 **Ability:** Near-translucent Han-gossamer that holds the wearer's identity together under Void pressure, drawing tighter the closer it comes to the awareness it was taken from.
 
-**Cost:** The veil protects the self by holding it slightly apart from the wearer. Nothing is lost and nothing hurts; wearers simply report watching themselves complete the shift, competently, from a short distance behind their own eyes.
+**Bearer cost:**The veil protects the self by holding it slightly apart from the wearer. Nothing is lost and nothing hurts; wearers simply report watching themselves complete the shift, competently, from a short distance behind their own eyes.
 
 The bearer and witness review a dissolvable name strip beside a present self-chosen action, then remove the strip rather than entering it into general surveillance. An invisible collar thread is overload. For emergency removal the witness frees the thread, speaks the chosen name once and lays the Veil on neutral grounding cloth; cutting active fabric produces false reflections in nearby glass.
 
@@ -214,7 +214,7 @@ Its warning concerns loss of self-recognition in another person, not the content
 
 **Ability:** Reveals emotional erosion before it becomes identity loss.
 
-**Cost:** The wearer feels pity from every observer.
+**Bearer cost:**The wearer feels pity from every observer.
 
 A second Reflection adds layers of pity, not clearer data. Record the erosion pattern, available support and consent boundary with the witness; store the tile face-down in soft cloth instead of displaying it as a warning. For release the witness covers its face, names the support plan and removes it. Shattering the glass makes the surrounding pity arrive at once.
 

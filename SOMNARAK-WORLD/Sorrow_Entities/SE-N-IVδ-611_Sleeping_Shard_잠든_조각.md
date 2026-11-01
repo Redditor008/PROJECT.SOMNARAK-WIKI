@@ -202,7 +202,7 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 
 **Ability:** Void damage to the soul rather than the body — identity, memory, and the sense of being continuous with yesterday. The knife carries a piece of the Shard's sleep into the cut, and what it opens does not bleed.
 
-**Cost:** Small nameless memories go with every use, and the wielder cannot audit the loss, because the faculty that would have noticed is the one being spent.
+**Bearer cost:**Small nameless memories go with every use, and the wielder cannot audit the loss, because the faculty that would have noticed is the one being spent.
 
 ### M.A.W. Suit — Sleeping Shard Veil
 
@@ -220,7 +220,7 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 
 **Ability:** Turns Void aside from the soul, which is the only pressure this entity applies and the one that leaves nothing to show afterwards. The veil is the reason long observations are possible here at all.
 
-**Cost:** The wearer feels faintly absent to themselves, as though watching the shift from a short distance behind their own shoulder.
+**Bearer cost:**The wearer feels faintly absent to themselves, as though watching the shift from a short distance behind their own shoulder.
 
 ### M.A.W. Stigma — Sleeping Shard Vial
 
@@ -234,7 +234,7 @@ Designed for brutal trench defense, the knife combines punching blunt trauma wit
 
 **Ability:** Suppresses emotional manipulation temporarily.
 
-**Cost:** The user loses small personal memories during sleep.
+**Bearer cost:**The user loses small personal memories during sleep.
 
 *The vial is not manufactured. The Shard gives one after a cycle that left the sleep undisturbed, and no worker who has woken it has been given one since.*
 

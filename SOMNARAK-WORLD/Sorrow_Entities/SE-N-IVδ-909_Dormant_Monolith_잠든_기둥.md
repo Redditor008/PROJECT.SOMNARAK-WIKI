@@ -178,7 +178,7 @@ It wants two hands and shoulders used to bearing weight, and it is carried at th
 
 **Ability:** Void damage to the soul rather than the body — identity, memory, the continuity that lets a person know which obligations are theirs. The zweihander carries the Pillar's dormancy into the strike, and what it opens does not wake.
 
-**Cost:** Small nameless memories go with each use. The wielder cannot audit the loss; the faculty that would notice is the one being spent.
+**Bearer cost:**Small nameless memories go with each use. The wielder cannot audit the loss; the faculty that would notice is the one being spent.
 
 ### M.A.W. Suit — Dormant Monolith Shield
 
@@ -198,7 +198,7 @@ The ward-block at the boss stops whatever arrives at it and stops it in place, w
 
 **Ability:** Slows time perception and stabilizes the wearer — the pillar's stillness lent out as composure, slow enough to hear the post's own duties being listed. It does not keep their weight off: nothing on this file lifts a duty off its named holder, and the wearer feels every duty they have postponed while the shield is set.
 
-**Cost:** The wearer feels every duty they have postponed.
+**Bearer cost:**The wearer feels every duty they have postponed.
 
 ### M.A.W. Stigma — Dormant Monolith Charm
 
@@ -212,7 +212,7 @@ The ward-block at the boss stops whatever arrives at it and stops it in place, w
 
 **Ability:** The charm lets the wearer set a duty down briefly without the sense of having abandoned it. The relief lasts about an hour and is not cumulative.
 
-**Cost:** The bearer gets one hour of setting a duty down without the sense of having abandoned it, and the hour does not carry over to the next duty or the next day.
+**Bearer cost:**The bearer gets one hour of setting a duty down without the sense of having abandoned it, and the hour does not carry over to the next duty or the next day.
 
 *The charm is not manufactured. The Pillar gives one after a cycle that ended with the worker relieved on time, and it has never given one to a worker who stayed.*
 

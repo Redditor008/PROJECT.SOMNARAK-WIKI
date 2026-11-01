@@ -191,7 +191,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 
 **Ability:** Grudge damage to the body rather than to the mind — the one place this entity's pressure lands as force. The blade carries the denial it was cut from, and what it opens is not so much a wound as a failure to be able to describe the wound afterwards.
 
-**Cost:** Old wounds ache and prolonged use leaves faint bruising, in the pattern of a blow taken while moving. Both were entered in the first issue log and neither has been revised, because the bearers report them late and the second worker reports them first.
+**Bearer cost:**Old wounds ache and prolonged use leaves faint bruising, in the pattern of a blow taken while moving. Both were entered in the first issue log and neither has been revised, because the bearers report them late and the second worker reports them first.
 
 ### M.A.W. Suit — Swallowed Fury's Plate
 
@@ -209,7 +209,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 
 **Ability:** Turns Grudge aside from the body, which is the only damage this entity delivers. The plate is what allows a worker to stand near it through a long approach without needing to be composed.
 
-**Cost:** Reflexes dull, and the wearer's face stops showing what they are feeling, which on this post is the precise shape of the problem.
+**Bearer cost:**Reflexes dull, and the wearer's face stops showing what they are feeling, which on this post is the precise shape of the problem.
 
 ### M.A.W. Stigma — Swallowed Fury's Ember
 
@@ -223,7 +223,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 
 **Ability:** Converts suppressed emotion into a brief burst of strength.
 
-**Cost:** The wearer loses the ability to hide their grief.
+**Bearer cost:**The wearer loses the ability to hide their grief.
 
 *Nothing makes the ember and nothing requisitions it. It is given to a worker who cried in front of the holding and did not apologise afterwards; nobody who held it in until the session closed has ever received one. Three are in the district, and the file records which shift each was given after.*
 

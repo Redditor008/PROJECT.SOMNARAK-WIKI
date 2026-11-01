@@ -186,7 +186,7 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 
 **Ability:** Deals Lament damage against the Mind — composure, willpower, and the capacity to decline. The Requiem carries the calling into the strike, and targets cut by it report being briefly addressed.
 
-**Cost:** The wielder inherits the unanswered call. Prolonged use produces involuntary weeping, and operators begin finishing sentences that were spoken to somebody else.
+**Bearer cost:**The wielder inherits the unanswered call. Prolonged use produces involuntary weeping, and operators begin finishing sentences that were spoken to somebody else.
 
 ### M.A.W. Suit — Grasp Shroud
 
@@ -204,7 +204,7 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against the particular weight of a rescue that cannot be completed. The Shroud is rated against the heat as well as the grief; both are listed and neither is removed by the other.
 
-**Cost:** The wearer stops being asked for help. Colleagues cannot say why and the wearer does not notice; the Armoury found it by comparing duty rosters and seeing that two wielders' names had quietly dropped off every informal list in their wing.
+**Bearer cost:**The wearer stops being asked for help. Colleagues cannot say why and the wearer does not notice; the Armoury found it by comparing duty rosters and seeing that two wielders' names had quietly dropped off every informal list in their wing.
 
 ### M.A.W. Stigma — Grasp Crown
 
@@ -218,7 +218,7 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 
 **Ability:** Heals minor wounds through warm sorrow.
 
-**Cost:** The wearer feels the rage of every failed rescue.
+**Bearer cost:**The wearer feels the rage of every failed rescue.
 
 *The Crown is given, never made. It is granted during a successful cycle, at the source's discretion, and no procedure or stated probability obliges it to appear.*
 

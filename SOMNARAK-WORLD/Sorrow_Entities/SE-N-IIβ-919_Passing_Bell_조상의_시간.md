@@ -174,7 +174,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 **Ability:** Struck targets hear, for a few seconds, a conversation they are not part of. Fourteen strikes, fourteen reports, and in four of them the target recognised a voice.
 
-**Cost:** The wielder stops being sure which conversations they were actually in, and the piece offers no test for it.
+**Bearer cost:**The wielder stops being sure which conversations they were actually in, and the piece offers no test for it.
 
 ### M.A.W. Suit — Passing Bell's Veil
 
@@ -192,7 +192,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 **Ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
 
-**Cost:** A low constant fatigue, and the habit of pausing before answering anybody — half a second, consistently — as though waiting for somebody else to finish.
+**Bearer cost:**A low constant fatigue, and the habit of pausing before answering anybody — half a second, consistently — as though waiting for somebody else to finish.
 
 ### M.A.W. Stigma — Passing Bell's Token
 
@@ -206,7 +206,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 **Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
 
-**Cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
+**Bearer cost:**The bearer moves as though carrying an invisible load that grows heavier near unresolved debt.
 
 *Three Stigmas in six years, all three following hours in which a warning was transcribed identically in both books. Most hours produce two transcripts that differ somewhere.*
 

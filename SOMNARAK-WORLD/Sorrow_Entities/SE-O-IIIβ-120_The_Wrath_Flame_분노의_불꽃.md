@@ -193,7 +193,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Ability:** Grudge damage to the body, delivered by weight and by steam at once. The censer carries the Flame's grievance into the strike, which means it lands hardest on whatever the wielder is actually angry about.
 
-**Cost:** Old wounds ache first — the ones long healed, in the order they were received — and faint bruising rises along the same lines.
+**Bearer cost:**Old wounds ache first — the ones long healed, in the order they were received — and faint bruising rises along the same lines.
 
 ### M.A.W. Suit — The Rage Plate
 
@@ -211,7 +211,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Ability:** Turns Grudge aside from the body, which is the pressure the Flame delivers and very nearly the only one it delivers. Against Void or Weight the plate is worse than wearing nothing, and the Scar is short of neither.
 
-**Cost:** Reflexes slow. The wearer answers a half-second late and remains certain they answered at once.
+**Bearer cost:**Reflexes slow. The wearer answers a half-second late and remains certain they answered at once.
 
 ### M.A.W. Stigma — The Rage Ember
 
@@ -225,7 +225,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Ability:** Converts the wearer's anger into physical heat.
 
-**Cost:** Anger becomes visible and difficult to suppress.
+**Bearer cost:**Anger becomes visible and difficult to suppress.
 
 *The ember is given, not made. The Flame offers one after work it judged respectful, and it has never offered a second to the same worker.*
 

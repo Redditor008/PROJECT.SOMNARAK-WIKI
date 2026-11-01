@@ -221,7 +221,7 @@ The broad crescent blade performs sweeping horizontal cuts that reap through cro
 
 **Ability:** Void damage to the soul rather than the body — to identity and to the sense of self. The glaive carries the holding's signature, which is grief with nothing underneath it, and what it opens in a target is doubt about whether a thing they clearly remember ever occurred.
 
-**Cost:** Small nameless memories with each use, and the losses go unnoticed by the wielder — which is why the usage log is countersigned, and why the countersignature is the only reliable entry in it.
+**Bearer cost:**Small nameless memories with each use, and the losses go unnoticed by the wielder — which is why the usage log is countersigned, and why the countersignature is the only reliable entry in it.
 
 The glaive's identity wound and its wielder's memory loss are entered separately. A target doubting a clearly remembered event has suffered the effect described here; that doubt is not evidence that the event was imaginary. The counter-signing worker keeps the usage account because the wielder does not notice the small losses. Neither a confident account nor an unchanged recollection proves the cost absent. The original plan stays with the second worker, who can compare what was written with what the bearer can still recognise without supplying a replacement history. The sorrow of an unrealised life remains real even where no remembered event can be verified.
 
@@ -241,7 +241,7 @@ The glaive's identity wound and its wielder's memory loss are entered separately
 
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand inside the net's extent and still be certain of their own history.
 
-**Cost:** The wearer feels faintly absent to themselves and reports it most often as other people's greetings seeming to be meant for somebody else — a description the medical office has recorded verbatim from every wearer on this set.
+**Bearer cost:**The wearer feels faintly absent to themselves and reports it most often as other people's greetings seeming to be meant for somebody else — a description the medical office has recorded verbatim from every wearer on this set.
 
 It is inspected with the present identity line traced first — confirmed warm, confirmed lived-in — before any of the imagined roots are examined, and roots found crossing toward the line are documented rather than pruned in anger, because this piece's work is distance and not denial. Its care record distinguishes three failures without ranking their severity: the present treated as a consolation prize, the lived life demoted to whatever remained after the good ones fell through; the imagined life adopted, the wearer moving into a root system that grew from nothing; and Void removing grief and possibility together, mourning and dreaming erased in one wipe that leaves neither loss nor hope.
 
@@ -257,7 +257,7 @@ It is inspected with the present identity line traced first — confirmed warm, 
 
 **Ability:** Reveals whether a remembered possibility ever existed.
 
-**Cost:** The user loses one imagined future from memory.
+**Bearer cost:**The user loses one imagined future from memory.
 
 Each spent future is entered by its outline before use, so that what the audit costs is at least remembered as having been imaginable. Its failures: a possibility treated as worthless, the audit curdled into contempt for imagining anything at all; ambiguous evidence forced binary by a bearer who needs a verdict; and a lost future replaced immediately, the grief of the spent possibility papered over with a fresh fantasy before it can be felt.
 

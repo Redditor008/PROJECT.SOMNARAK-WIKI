@@ -193,7 +193,7 @@ The outside of it weeps. Condensation runs down the body into a shallow tray fix
 
 **Ability:** Deals Grudge damage against the Body — structural integrity and the join between a person and themselves. The strike carries the source's signature, and those hit report a brief sense of being two people disagreeing.
 
-**Cost:** The wielder's old injuries ache, particularly ones received in service. Prolonged use leaves faint bruising in a clean line down the sternum.
+**Bearer cost:**The wielder's old injuries ache, particularly ones received in service. Prolonged use leaves faint bruising in a clean line down the sternum.
 
 ### M.A.W. Suit — Myrmidon's Plate
 
@@ -211,7 +211,7 @@ The outside of it weeps. Condensation runs down the body into a shallow tray fix
 
 **Ability:** Grants resistance to Grudge pressure, holding the Body together against forces that work by division. It is rated for cohesion rather than for impact, which is an unusual specification and the correct one against this source.
 
-**Cost:** The wearer's reflexes dull and their obedience sharpens. Wearers follow instructions faster and question them less, and the second effect is the one the medical hold on this piece was written for.
+**Bearer cost:**The wearer's reflexes dull and their obedience sharpens. Wearers follow instructions faster and question them less, and the second effect is the one the medical hold on this piece was written for.
 
 ### M.A.W. Stigma — Myrmidon's Pendant
 
@@ -225,7 +225,7 @@ The outside of it weeps. Condensation runs down the body into a shallow tray fix
 
 **Ability:** Reveals the hidden conflict between a person's loyalty and their grief.
 
-**Cost:** The wearer feels every divided loyalty as personal pain.
+**Bearer cost:**The wearer feels every divided loyalty as personal pain.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, and no record of service, merit or repetition obliges one.*
 

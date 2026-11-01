@@ -189,7 +189,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Ability:** Lament against the Mind. This is the vault's own gallery piece and behaves as it does elsewhere; its entry here is a reissue and is marked as one.
 
-**Cost:** Involuntary weeping without accompanying grief, which the vault's staff regard as the ordinary price of gallery duty and which is logged per shift.
+**Bearer cost:**Involuntary weeping without accompanying grief, which the vault's staff regard as the ordinary price of gallery duty and which is logged per shift.
 
 ### M.A.W. Suit — The Forgotten Shroud
 
@@ -207,7 +207,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Ability:** Resistance to Lament against the Mind. Issued to all three gallery posts and to nobody else; the vault does not hold a second set.
 
-**Cost:** Numbness to minor joys, and — specific to this posting — an increased rate of forgetting the holding between shifts, which is the reason the third post writes the log.
+**Bearer cost:**Numbness to minor joys, and — specific to this posting — an increased rate of forgetting the holding between shifts, which is the reason the third post writes the log.
 
 ### M.A.W. Stigma — The Forgotten Crown
 
@@ -221,7 +221,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Ability:** Commands hesitation and respect from nearby entities.
 
-**Cost:** The wearer hears prayers directed at the God and cannot answer them.
+**Bearer cost:**The wearer hears prayers directed at the God and cannot answer them.
 
 *The Answered Prayer is not manufactured and is not granted on request; the entity bestows it, rarely, on a crew member who has kept the lament with a full heart, and the armoury has never been able to predict one.*
 

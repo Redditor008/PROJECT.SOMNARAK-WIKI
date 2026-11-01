@@ -187,7 +187,7 @@ Viderehan and Ferrehan both lower the gauge and are the only valid approaches; F
 
 **Ability:** Lament damage to one named target. The blade will not discharge across a group and will not discharge at all against anyone whose likeness is on the identification register, a property found in Year 4231 and never explained.
 
-**Cost:** The wielder loses faces for about a day — not names, faces — and recovers them. Four wielders have recorded that the ones that come back last are the ones they knew best.
+**Bearer cost:**The wielder loses faces for about a day — not names, faces — and recovers them. Four wielders have recorded that the ones that come back last are the ones they knew best.
 
 ### M.A.W. Suit — Sky of Borrowed Faces's Veil
 
@@ -205,7 +205,7 @@ Viderehan and Ferrehan both lower the gauge and are the only valid approaches; F
 
 **Ability:** High Lament resistance, and the wearer's own features do not appear on any reflective surface on the site while it is worn. The second property is the reason it is worn and the reason it is worn by the counter.
 
-**Cost:** Small pleasures flatten out for about a day. Wearers describe it as the feeling of having been photographed without being asked, which the counselling wing has recorded in those words from six separate people who had not spoken to each other.
+**Bearer cost:**Small pleasures flatten out for about a day. Wearers describe it as the feeling of having been photographed without being asked, which the counselling wing has recorded in those words from six separate people who had not spoken to each other.
 
 ### M.A.W. Stigma — Sky of Borrowed Faces's Token
 
@@ -219,7 +219,7 @@ Viderehan and Ferrehan both lower the gauge and are the only valid approaches; F
 
 **Ability:** The token warms against the head when the bearer is about to agree to a use of someone's likeness. It has no other function and does not protect against anything.
 
-**Cost:** The bearer dreams as somebody on the register and wakes still holding it for an hour. Nine bearers, nine accounts, and in every one the dreamer is being looked at rather than looking.
+**Bearer cost:**The bearer dreams as somebody on the register and wakes still holding it for an hour. Nine bearers, nine accounts, and in every one the dreamer is being looked at rather than looking.
 
 *Nine times the Token has gone out, each time to a Warden who refused a likeness request they had the standing to grant. Six of the nine were told off the record that they had made a colleague's work harder. The holding keeps the count and will not turn it into a rule.*
 

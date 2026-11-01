@@ -187,7 +187,7 @@ Read the responses against the classification. Cleaved is a Subject with a Subje
 
 **Ability:** Void damage against the Soul — identity, memory and the self. The disc does not cut so much as subtract: the struck party loses the name of what it is looking at before anything else goes, and putting the piece down does not bring the name back.
 
-**Cost:** Each use costs the wielder a small, nameless memory — the drawer the cutlery lives in, a street that used to lead somewhere — and the Armoury logs them as they are reported rather than waiting for a season's total.
+**Bearer cost:**Each use costs the wielder a small, nameless memory — the drawer the cutlery lives in, a street that used to lead somewhere — and the Armoury logs them as they are reported rather than waiting for a season's total.
 
 ### M.A.W. Suit — The Torn Veil
 
@@ -207,7 +207,7 @@ Its protection does not restore memories already lost. The issue account keeps t
 
 **Ability:** wards the Soul against Void pressure, which is the only pressure this holding applies. It cannot return a name that has already gone; it stops the drain at the hem, and on this set the hem is the whole of the protection.
 
-**Cost:** the wearer goes faintly absent from the inside — present to the room, unanswered to themselves — and every stand-down on this set was caught by the second worker noticing a sentence with no first person in it.
+**Bearer cost:**the wearer goes faintly absent from the inside — present to the room, unanswered to themselves — and every stand-down on this set was caught by the second worker noticing a sentence with no first person in it.
 
 ### M.A.W. Stigma — The Torn Keystone
 
@@ -223,7 +223,7 @@ The Keystone lends structural knowledge without granting permission to finish th
 
 **Ability:** Stabilizes damaged structures and reveals hidden architectural weaknesses.
 
-**Cost:** The user feels every abandoned plan connected to the structure.
+**Bearer cost:**The user feels every abandoned plan connected to the structure.
 
 *Eleven keystones exist. Every one was cut from the foundation stone of a works that was suspended and never resumed, and the scheme number is on the reverse of each.*
 

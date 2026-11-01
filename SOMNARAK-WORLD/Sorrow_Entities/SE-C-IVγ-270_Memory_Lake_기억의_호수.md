@@ -188,7 +188,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Ability:** Lament damage to the Mind. The rod is a surveyor's instrument before it is a weapon and is used here for its boundary function; it has never been swung at anything in this chamber.
 
-**Cost:** Involuntary weeping, usually while surveying and usually without an accompanying feeling, which the surveyors find worse than if there were one.
+**Bearer cost:**Involuntary weeping, usually while surveying and usually without an accompanying feeling, which the surveyors find worse than if there were one.
 
 ### M.A.W. Suit — The Lake Shroud
 
@@ -206,7 +206,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Ability:** *Current Pulse* lets historical lives reflect across the dark outer layer without entering the wearer's identity while the station partner confirms the warm pulse line and two current anchors. Required dress at the stations for any watch following a margin advance above eight centimetres; it is not diving equipment and may not enter the Lake.
 
-**Cost:** A numbness to small pleasures that is indistinguishable, in the debrief answers, from the holding's own flattening — which is why the shroud is logged with the time it went on and the time it came off.
+**Bearer cost:**A numbness to small pleasures that is indistinguishable, in the debrief answers, from the holding's own flattening — which is why the shroud is logged with the time it went on and the time it came off.
 
 ### M.A.W. Stigma — The Lake Flask
 
@@ -220,7 +220,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Ability:** Holds one witnessed memory in liquid form as custody, not collection, until it is returned at the witnessed shore; it is not an archive shelf and does not preserve an unwitnessed sample. Four recorded uses concerned accounts of dead colleagues the Records Office declined to file; the bearers have not been asked whose, and the orientation card notes that they will not be.
 
-**Cost:** The death or loss attached to the memory is felt in full every time the flask is opened, at the same strength as the first time, and does not attenuate with repetition. Two holders have opened theirs once.
+**Bearer cost:**The death or loss attached to the memory is felt in full every time the flask is opened, at the same strength as the first time, and does not attenuate with repetition. Two holders have opened theirs once.
 
 *The Flask has been granted to six recorded bearers at stations where the conversation column was kept unbroken through a full watch, which the counselors regard as the only voluntary act this holding permits.*
 

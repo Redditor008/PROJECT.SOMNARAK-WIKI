@@ -195,7 +195,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Ability:** *Held Threshold* — planted across a doorway, the keyhead bars anything that cannot be argued with; swung, it does its work on the lament register and reaches whoever is behind the door as readily as whoever is in front of it. Nothing about the piece can be hurried.
 
-**Cost:** The wielder weeps on the first use of each shift, briefly and without cause, and this is treated as a calibration rather than a side effect — a piece that does not produce it is withdrawn and re-seated at the staging point.
+**Bearer cost:**The wielder weeps on the first use of each shift, briefly and without cause, and this is treated as a calibration rather than a side effect — a piece that does not produce it is withdrawn and re-seated at the staging point.
 
 ### M.A.W. Suit — Miasma's Veil
 
@@ -213,7 +213,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Ability:** *Own Face* — the wearer walks a weeping corridor and comes out with their own grief and their own face. The bank's Lament runs off the short cape into the door gap the cape was cut short to keep clear, which is the whole of the design.
 
-**Cost:** The wearer carries Miasma's grief into every quiet moment; small joys feel distant until the suit is removed.
+**Bearer cost:**The wearer carries Miasma's grief into every quiet moment; small joys feel distant until the suit is removed.
 
 ### M.A.W. Stigma — Miasma's Token
 
@@ -227,7 +227,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Ability:** *Mean Dwell* — it goes cold once a bank has thinned past the mean dwell the file records, and that cold is the only signal a spotter has that the run is walkable. It has never been wrong and it has never been early.
 
-**Cost:** The bearer dreams in tears drawn from Miasma's sorrow and wakes with another person's grief still present.
+**Bearer cost:**The bearer dreams in tears drawn from Miasma's sorrow and wakes with another person's grief still present.
 
 *A Token is found at a junction post, on the floor at the spotter’s feet, after a run in which the spotter did not move. Every recovered piece in this holding has come from a post that was never left unobserved.*
 

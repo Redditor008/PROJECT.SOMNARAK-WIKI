@@ -205,7 +205,7 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 
 **Ability:** Drives a narrow, deep Lament wound into the target's composure — a single small hurt placed with enough force that it cannot be waved away, which is the only argument this entity has ever been able to make.
 
-**Cost:** The wielder weeps, at inconvenient times, for a loss that is not theirs and that they cannot name. Operatives have reported finding the weeping more humiliating than any injury the awl has caused them, which is itself the toll.
+**Bearer cost:**The wielder weeps, at inconvenient times, for a loss that is not theirs and that they cannot name. Operatives have reported finding the weeping more humiliating than any injury the awl has caused them, which is itself the toll.
 
 ### M.A.W. Suit — Tear Too Small to Honor Shroud
 
@@ -225,7 +225,7 @@ The Shroud protects by scale and says so: it discards every feeling below a cert
 
 **Ability:** Han-silk wrapping that holds the wearer's composure intact under Lament pressure, cool against the skin and lit faintly enough to be read by in the dark of the Gardens.
 
-**Cost:** Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small pleasure; wearers keep their stability and lose the taste of ordinary good days.
+**Bearer cost:**Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small pleasure; wearers keep their stability and lose the taste of ordinary good days.
 
 ### M.A.W. Stigma — Tear Too Small to Honor Ring
 
@@ -239,7 +239,7 @@ The Shroud protects by scale and says so: it discards every feeling below a cert
 
 **Ability:** Allows the wearer to heal minor wounds through touch.
 
-**Cost:** The wearer feels the weight of every sorrow encountered.
+**Bearer cost:**The wearer feels the weight of every sorrow encountered.
 
 *The Ring is given, not taken. It appears on workers who finished a Ferrehan cycle without once calling the assignment minor, and no deliberate procedure has ever produced one.*
 

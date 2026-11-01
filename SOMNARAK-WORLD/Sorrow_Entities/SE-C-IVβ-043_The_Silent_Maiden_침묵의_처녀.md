@@ -196,7 +196,7 @@ Read this table as a list of things done to her rather than as a set of options,
 
 **Ability:** Void damage against the Soul — identity, memory, sense of self — carried in the strike as this holding's signature. Recipients describe the wound as a gap rather than a pain: something they were holding about themselves is simply not there afterwards, and they cannot say what it was.
 
-**Cost:** What the wielder loses is small and unattributable: a route they used to know, the name of a shop, the face of somebody they dealt with last month. The charge is cumulative and the Armoury's note is that it is discovered by other people before the wielder notices anything.
+**Bearer cost:**What the wielder loses is small and unattributable: a route they used to know, the name of a shop, the face of somebody they dealt with last month. The charge is cumulative and the Armoury's note is that it is discovered by other people before the wielder notices anything.
 
 ### M.A.W. Suit — The Silence Veil
 
@@ -214,7 +214,7 @@ Read this table as a list of things done to her rather than as a set of options,
 
 **Ability:** Turns Void pressure aside from the Soul. It holds against the pressure and not against being overlooked: a wearer in the Sisters' chamber is exactly as easy to walk past as anybody else, and the veil does not make its wearer noticeable, which the Armoury records as the difference between this piece and the danger it is issued against.
 
-**Cost:** The wearer comes to feel faintly absent to themselves — present, recorded, and not entirely convinced of either — and reports it as a room they are standing slightly outside of. After extended use, reintroduce the wearer by name. The Veil comes from its sealed pouch immediately before deployment and returns to water afterwards. Its head-and-shoulder drape ends at the collarbone in a fine, unhemmed edge; under Void pressure a faint grey texture replaces its near-transparency.
+**Bearer cost:**The wearer comes to feel faintly absent to themselves — present, recorded, and not entirely convinced of either — and reports it as a room they are standing slightly outside of. After extended use, reintroduce the wearer by name. The Veil comes from its sealed pouch immediately before deployment and returns to water afterwards. Its head-and-shoulder drape ends at the collarbone in a fine, unhemmed edge; under Void pressure a faint grey texture replaces its near-transparency.
 
 ### M.A.W. Stigma — The Silence Cloak
 
@@ -228,7 +228,7 @@ Read this table as a list of things done to her rather than as a set of options,
 
 **Ability:** Makes the wearer silent; sound does not carry from them.
 
-**Cost:** The wearer cannot speak above a whisper.
+**Bearer cost:**The wearer cannot speak above a whisper.
 
 *Seven cloaks exist. Each was issued for a sighting: a Warden who noticed a person nobody had noticed, inside the facility, off the file, and wrote the name down.*
 

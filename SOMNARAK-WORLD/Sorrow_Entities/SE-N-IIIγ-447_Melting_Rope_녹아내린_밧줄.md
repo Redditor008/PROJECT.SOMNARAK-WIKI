@@ -185,7 +185,7 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — in the shape of a slackening line: the strike does not cut so much as take up the tension until the target's own grip is what fails.
 
-**Cost:** The wielder carries the grief the line never got to spend — weeping arrives without a cause the wearer can name, the second worker logs the intervals, and prolonged use lengthens them.
+**Bearer cost:**The wielder carries the grief the line never got to spend — weeping arrives without a cause the wearer can name, the second worker logs the intervals, and prolonged use lengthens them.
 
 ### M.A.W. Suit — The Melting Shroud
 
@@ -203,7 +203,7 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 **Ability:** Wards the Mind against Lament pressure and against nothing else: the shroud is cut for the rope's kind of grief, and the file records no other use for it.
 
-**Cost:** the wearer goes numb to minor joys, and the numbness is logged by the second worker rather than the wearer, because a person losing the small pleasures is the last one to notice it.
+**Bearer cost:**the wearer goes numb to minor joys, and the numbness is logged by the second worker rather than the wearer, because a person losing the small pleasures is the last one to notice it.
 
 ### M.A.W. Stigma — The Melting Knot
 
@@ -217,7 +217,7 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 **Ability:** Preserves one emotional connection through distance.
 
-**Cost:** The wearer feels the connection dissolve whenever it is not reciprocated.
+**Bearer cost:**The wearer feels the connection dissolve whenever it is not reciprocated.
 
 *Nine knots exist. Each is a length cut from a reformed end at the moment of waking, and each was issued to a Warden who recorded a dream-account the Register would not confirm or deny.*
 

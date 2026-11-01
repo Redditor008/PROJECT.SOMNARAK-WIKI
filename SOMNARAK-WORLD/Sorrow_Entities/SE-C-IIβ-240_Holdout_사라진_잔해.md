@@ -196,7 +196,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Ability:** Grudge against the Body. Struck targets are unable to discard anything for the rest of the day — paper, broken tools, food — and all fourteen reported it as mild and found their pockets full at the end of the shift.
 
-**Cost:** Old wounds ache, and the wielder's quarters fill with things that should have gone.
+**Bearer cost:**Old wounds ache, and the wielder's quarters fill with things that should have gone.
 
 **Broadsword custody:** Its local silvered arming-sword form is not established as another state of the separately linked Ruin Fang. Retain the selected-target limit and log old-wound ache, accumulating possessions and the stores clerk’s observations before return. The sealed inventory belongs to the bearer’s review, not a test of whether they will surrender their history. Do not assign the Fang’s absent-boundary cutting, wet-edge cleaning or memorial shutdown to this sword merely because the numerical profiles agree. The corroborated-map requirement remains evidence in the Fang record, not permission to carve the remembered room.
 
@@ -216,7 +216,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Ability:** Absorbs structural shock.
 
-**Cost:** The wearer experiences the collapse stored in the plate.
+**Bearer cost:**The wearer experiences the collapse stored in the plate.
 
 **Plate care:** Absorbing structural shock postpones its price; it does not erase the collapse. Keep the harness outside the marked room and record each stored impact against corroborated collapse evidence. Release stored shock only into the external test frame, without supplying an imagined sound or missing impact. For removal the wearer lies flat outside the footprint while a partner releases the plates in reverse collapse order. A missing or disputed room is not a place to install the wearer as a replacement wall, even when the plates match surviving masonry profiles.
 
@@ -232,7 +232,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Ability:** The bearer can tell whether a structure they are standing in is scheduled for demolition. Tested against the works programme 41 times; 39 correct, and both errors were buildings whose schedule changed the following week.
 
-**Cost:** The bearer cannot stand in a room without knowing whether it is scheduled to come down, and there is no version of that knowledge that stays at work.
+**Bearer cost:**The bearer cannot stand in a room without knowing whether it is scheduled to come down, and there is no version of that knowledge that stays at work.
 
 *Five charms exist. Four went to Wardens who held the top floor in mind for a full interval; the fifth to the Warden who first noticed that the plates read higher when fewer rooms resolve.*
 

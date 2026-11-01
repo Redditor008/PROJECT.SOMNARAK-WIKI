@@ -268,7 +268,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** Catastrophic Grudge against the Body. The linked item record (The Maw's Grip) describes instead a posture-shattering *Cheongula Cleave* that bypasses physical armor and leaves bleeding Grudge residue, draining the wielder's Composure toward meltdown. Neither account makes this an issued weapon: Side Codex A prohibits extraction outright, the piece's own form is disputed between stiletto and cleaver, and no jaws belong to a district whose observed shape is streets and ground. What the Armoury certifies is only that it has been drawn twice in sixty years and discharged once.
 
-**Cost:** The wielder experiences unbearable phantom hunger; prolonged use causes their jaw muscles to spasm and ache, and leaves deep, permanent bruising along the chest and arms.
+**Bearer cost:**The wielder experiences unbearable phantom hunger; prolonged use causes their jaw muscles to spasm and ache, and leaves deep, permanent bruising along the chest and arms.
 
 ### M.A.W. Suit — The Cheongula — Forbidden Plate
 
@@ -286,7 +286,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** Resistance to Grudge against the Body, and a second property the Armoury did not design: the wearer hears the thousand as individuals rather than as a sound. Three wearers; all three asked to be relieved. The linked item record (The Maw's Shroud) instead describes a stone cloak anchoring the bearer against knockdown and displacement, at guilt that refuses lament-based healing; under Side Codex A's prohibition neither version is certified as an issued canonical suit, and the two profiles are not normalized.
 
-**Cost:** The wearer forgets one person they knew. Not a fact about them — the person. It is permanent, it is chosen by the piece, and it is written into the issue form in those words.
+**Bearer cost:**The wearer forgets one person they knew. Not a fact about them — the person. It is permanent, it is chosen by the piece, and it is written into the issue form in those words.
 
 ### M.A.W. Stigma — The Cheongula — Forbidden Extraction
 
@@ -300,7 +300,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** Unknown locally. Extraction would mean wearing the sorrow of the thousand consumed citizens. The linked item record (The Maw's Relic) describes a neck torque projecting municipal authority that quiets low-rank murmurs and fragments, at a permanently multiplied voice; with extraction prohibited by Side Codex A and the slot, rate and effect all in dispute, that description is recorded, not adopted.
 
-**Cost:** Presumed catastrophic identity and emotional collapse; extraction is forbidden by the Director.
+**Bearer cost:**Presumed catastrophic identity and emotional collapse; extraction is forbidden by the Director.
 
 *Four Stigmas in sixty years, each one on the day a name was added to the roll. The Architects report the correlation to the Directorate in every quarterly return and have never once been asked about it.*
 

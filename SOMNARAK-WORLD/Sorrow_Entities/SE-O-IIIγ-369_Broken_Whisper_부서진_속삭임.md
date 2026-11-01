@@ -218,7 +218,7 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to leave a thing unfinished. The strike carries the source's signature, and targets report hearing the beginning of a sentence at the moment of impact.
 
-**Cost:** The wielder carries the grief of an appeal that was never heard. Prolonged use brings on involuntary weeping, and the file notes where it arrives: mid-sentence, in the middle of a routine report.
+**Bearer cost:**The wielder carries the grief of an appeal that was never heard. Prolonged use brings on involuntary weeping, and the file notes where it arrives: mid-sentence, in the middle of a routine report.
 
 ### M.A.W. Suit — Broken Whisper's Shroud
 
@@ -236,7 +236,7 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against the particular weight of interruption. It does not shield against the content of what is heard, which arrives as speech rather than as pressure and is unaffected by any resistance rating.
 
-**Cost:** The wearer goes numb to small joys, and finds conversation effortful in a specific way: they stop finishing their own sentences, and stop noticing that they have stopped.
+**Bearer cost:**The wearer goes numb to small joys, and finds conversation effortful in a specific way: they stop finishing their own sentences, and stop noticing that they have stopped.
 
 ### M.A.W. Stigma — Broken Whisper's Bell
 
@@ -250,7 +250,7 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Ability:** Carries a spoken message through walls and tunnels.
 
-**Cost:** The wearer loses the ability to hear ordinary whispers for a time.
+**Bearer cost:**The wearer loses the ability to hear ordinary whispers for a time.
 
 *A Stigma from this source is given, never made. It comes up during a successful cycle at the holding's own disposition, unbidden and unrepeatable, and no procedure and no stated probability obliges it — the armoury adds nothing to that wording, and on this set the four per cent on the line above has never been treated as a promise.*
 

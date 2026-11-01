@@ -206,7 +206,7 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 
 **Ability:** *Wall Pressure / Make a Way* — a Weight Skewer into a present debt barrier, not a person. With custodian review and an identified support route it holds one Wall-like surge open long enough for people to reach review, care or transit; used as advantage, it becomes immovable.
 
-**Cost:** The wielder takes the wall's side of the exchange: what the ram holds open for other people, the bearer afterwards cannot move past.
+**Bearer cost:**The wielder takes the wall's side of the exchange: what the ram holds open for other people, the bearer afterwards cannot move past.
 
 ### M.A.W. Suit — The Mason's Mortar-Crusted Hauberk
 
@@ -227,7 +227,7 @@ The broad backplate records each absorbed Weight impact as a ledger mark readabl
 
 **Ability:** *Stored Weight / Discharge Route* — converts direct Weight impact into visible ledger marks on the backplate. One mark releases only when a debt custodian confirms a support or review action; hiding the plate closes it and drops protection to normal.
 
-**Cost:** The shield becomes heavier with every absorbed impact.
+**Bearer cost:**The shield becomes heavier with every absorbed impact.
 
 ### M.A.W. Stigma — The Unpaid Brick Shard
 
@@ -244,7 +244,7 @@ The block-shaped charm lights toward the obligation closing a current route, not
 
 **Ability:** *Open Review* — with a custodian present and the affected person’s support, reveals the first review or support action that can keep an obligation block from closing a route. It cannot forgive debt, set a judgement or bypass consent.
 
-**Cost:** The bearer cannot walk a route without reading the obligations on it, and there is no version of that walk in which they are only a person going somewhere.
+**Bearer cost:**The bearer cannot walk a route without reading the obligations on it, and there is no version of that walk in which they are only a person going somewhere.
 
 *The Unpaid Brick Shard is never issued and no one may ask for it. Four times it has gone out, each to a Warden who completed a Viderehan cycle on a block belonging to a household they knew and filed the record unaltered.*
 

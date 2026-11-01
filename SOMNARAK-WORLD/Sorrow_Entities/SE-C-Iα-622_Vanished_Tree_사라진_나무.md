@@ -188,7 +188,7 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Ability:** Grudge against the Body. Struck targets cannot be photographed clearly for about a day; eleven attempts on file, eleven exposures showing the person's outline and not their face.
 
-**Cost:** Old wounds ache, and documents the wielder has handled go astray — not destroyed, simply never found again.
+**Bearer cost:**Old wounds ache, and documents the wielder has handled go astray — not destroyed, simply never found again.
 
 **Fang target and care:** The linked Fang distinguishes an active erasing mechanism from a finished loss; the local photographed-target effect does not establish that distinction by itself. In the item record, striking empty ground to keep a revealed road present injured the bearer. Its maintenance uses decommissioned seal material and a blank contemporary map without drawing the missing roads onto it. Shutdown states what is proven and what is gone while the blade is laid outside the phantom shadow, reopening an old wound rather than refunding the cost. None of this is permission to strike the Tree or backfill a new attack pattern.
 
@@ -208,7 +208,7 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Ability:** Resistance to Grudge against the Body. The linked Shadow Stand supports a recorder’s body but does not make an erased floor load-bearing. A report of protection during Return is not an entry authorisation: the holding’s ordinary work instruction remains outside the shade, without trying to hold the Tree in place.
 
-**Cost:** Reflexes dull, and the wearer's name stops appearing on circulation lists it used to be on.
+**Bearer cost:**Reflexes dull, and the wearer's name stops appearing on circulation lists it used to be on.
 
 **Plate return:** Keep the carrying medium distinct from a containment stake. Assemble the plates on current stone with a deliberate gap, and do not replace a vanished part without physical verification. Refusing to leave an incomplete entry is a warning, not dedication. To shut down the linked harness, close the field note and name a present landmark, opening it from the missing-plate side; never pull a wearer toward the hollow ring or brace phantom architecture to keep the record open.
 
@@ -224,7 +224,7 @@ The table applies and the number the station keeps is visible seconds per pass, 
 
 **Ability:** Reveals erased routes and settlements.
 
-**Cost:** The wearer feels every place they cannot restore.
+**Bearer cost:**The wearer feels every place they cannot restore.
 
 *Nine pendants exist. Each was granted after a session in which the Warden recorded the shade as larger than the previous stake and said so, which has not always been the comfortable thing to write.*
 

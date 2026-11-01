@@ -208,7 +208,7 @@ Escalation here is a language event rather than a pressure event. Record the fir
 
 **Ability:** Void damage to the soul. The lens shows the target the street as it stood and the street as it was left, in that order, and the damage is done between the two images.
 
-**Cost:** The wielder loses small, nameless memories, beginning with the names of streets they grew up on.
+**Bearer cost:**The wielder loses small, nameless memories, beginning with the names of streets they grew up on.
 
 **Record safeguard:** The Lens’s individual codex requires the wielder to name the responsible institution and compare every excision with an independent resident record. Missing data stays blank. Losing a memory must not feel like exoneration, and an edge turning toward frozen residents suspends the correction. For shutdown, Yuna reads the verified cause aloud while the Lens faces away from the ruin; the forfeited operator memory does not return. No cut supplies a missing resident’s name or permits striking the ice. The register remains evidence in its own right, not a list reconstructed from what the Lens leaves visible.
 
@@ -228,7 +228,7 @@ Escalation here is a language event rather than a pressure event. Record the fir
 
 **Ability:** Turns Void aside from the soul. The suit is what allows a worker to stand in the bay through a full reading without being fixed in the final moment of the clearance.
 
-**Cost:** The wearer feels faintly absent to themselves, and reads official language with an accuracy that colleagues find difficult.
+**Bearer cost:**The wearer feels faintly absent to themselves, and reads official language with an accuracy that colleagues find difficult.
 
 **Present-day anchors:** Binding the Veil requires the wearer’s current name, location and year. Frost on those anchors and repetition of final gestures are corrosion signs, not successful identification with a resident. Two present witnesses call the wearer’s name and year during shutdown while the wearer turns away from the ruin. All three anchors are rewritten after deployment, and the Veil is aired outside Collector territory. This identity check does not replace the lens-mount step-back or the independent comparison with the sealed street-name list.
 
@@ -244,7 +244,7 @@ Escalation here is a language event rather than a pressure event. Record the fir
 
 **Ability:** Makes the wearer nearly invisible to emotional attacks.
 
-**Cost:** The wearer absorbs sorrow whenever they calm another person.
+**Bearer cost:**The wearer absorbs sorrow whenever they calm another person.
 
 *The stigma is not manufactured. It is given to a worker who named the agent of the clearance in a document that did not require it, and has never been given for a reading alone.*
 

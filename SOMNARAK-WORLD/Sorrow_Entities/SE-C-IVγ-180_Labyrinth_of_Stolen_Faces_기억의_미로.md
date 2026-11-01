@@ -190,7 +190,7 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 
 **Ability:** Void damage to identity and memory rather than to the body. The lens does not blind or mark; it opens the same doubt the Maze runs on — the target begins to sort their own recollections into ones they attended and ones they have only been told about, and the sorting does not stop when the light stops.
 
-**Cost:** Small nameless memories go with each use, and the wielder cannot report the loss — what is gone leaves no outline to notice. The usage log therefore requires a countersignature at end of shift, and the countersignature is taken from a colleague rather than from the wielder.
+**Bearer cost:**Small nameless memories go with each use, and the wielder cannot report the loss — what is gone leaves no outline to notice. The usage log therefore requires a countersignature at end of shift, and the countersignature is taken from a colleague rather than from the wielder.
 
 **Lens custody:** The individual Weapon record requires the source event and the anchor-and-time limit to remain attached to use. Its first warning is the bearer describing the collected lives as personal history; this differs from noticing a missing memory, which the primary account says the wielder cannot do. Cleaning or rest follows attribution review of bearer, trigger, source response, cost and unresolved detail. A named witness states the Labyrinth’s title and event while the Lens is relinquished. The lost memories are not refunded by that shutdown.
 
@@ -210,7 +210,7 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil is what allows a worker to stand in a corridor made of someone else's life and remain certain of their own.
 
-**Cost:** The wearer goes faintly absent to themselves and reports it as their own history beginning to sound like something they were told. Nobody has described this as frightening at the time; it is the debrief that turns it into a finding.
+**Bearer cost:**The wearer goes faintly absent to themselves and reports it as their own history beginning to sound like something they were told. Nobody has described this as frightening at the time; it is the debrief that turns it into a finding.
 
 **Veil review:** The Suit’s individual record warns about the opposite movement as well: the source sorrow begins to feel autobiographical. First-person ownership of the Maze’s event and a source response recurring outside contact are its recorded warning and escalation. Keep those entries distinct from the wearer’s own history sounding second-hand in debrief. Attribution review precedes maintenance; a named witness states title and event while the Veil is relinquished. Resistance does not suspend the outside counselor’s comparison against the wearer’s record.
 
@@ -226,7 +226,7 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 
 **Ability:** Always points toward the wearer's own memories.
 
-**Cost:** It cannot distinguish a painful memory from a safe exit.
+**Bearer cost:**It cannot distinguish a painful memory from a safe exit.
 
 **Key direction:** The individual Stigma record binds the bearer to maintaining an anchor and limiting exploration, despite its pointer always seeking their own memories. A direction that feels personally accurate therefore does not replace the written route or the handler’s line. The item record marks adopting the source event as one’s own as a failure sign and requires attribution review before cleaning or rest. Its shutdown is relinquishment while a named witness states the source title and event, not following the pointer farther inside. Removal preserves the record without refunding the carrying cost.
 

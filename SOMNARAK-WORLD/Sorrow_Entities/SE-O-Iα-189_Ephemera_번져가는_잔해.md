@@ -188,7 +188,7 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 
 **Ability:** Deals Lament damage to the Mind, carrying the settlement's vanishing — targets lose track of what they were defending and disengage.
 
-**Cost:** The wielder's recent memories thin first, and they begin relying on written logs for events within the same shift.
+**Bearer cost:**The wielder's recent memories thin first, and they begin relying on written logs for events within the same shift.
 
 ### M.A.W. Suit — The Fading Shroud
 
@@ -206,7 +206,7 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 
 **Ability:** Grants resistance to Lament damage, insulating the Mind by making the wearer slightly harder for sorrow to locate.
 
-**Cost:** The wearer becomes difficult for colleagues to remember, and is repeatedly omitted from rosters.
+**Bearer cost:**The wearer becomes difficult for colleagues to remember, and is repeatedly omitted from rosters.
 
 ### M.A.W. Stigma — The Fading Brick
 
@@ -220,7 +220,7 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 
 **Ability:** Preserves one memory of a destroyed place.
 
-**Cost:** The wearer hears the ruin's final silence.
+**Bearer cost:**The wearer hears the ruin's final silence.
 
 *Ephemera grants its stigma to workers who name the settlement correctly at the close of a cycle. It cannot be manufactured, and no worker has received it twice.*
 

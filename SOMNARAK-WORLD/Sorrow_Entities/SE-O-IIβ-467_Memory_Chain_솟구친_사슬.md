@@ -188,7 +188,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Ability:** Lament against the Mind, and the after-effect is the source's whole nature in miniature: those struck recognise somebody they have never met, briefly and completely, and several have described reaching for the person's name. The name does not come. Nine on file, nine identical accounts.
 
-**Cost:** The wielder carries the grief of a bond kept alive by one side only. Prolonged use causes involuntary weeping, most often while reading correspondence.
+**Bearer cost:**The wielder carries the grief of a bond kept alive by one side only. Prolonged use causes involuntary weeping, most often while reading correspondence.
 
 ### M.A.W. Suit — The Soaking Shroud
 
@@ -206,7 +206,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against the specific weight of remembering a relationship alone. It does not shield against the memories themselves, which arrive as information rather than as pressure and pass through the rating untouched.
 
-**Cost:** The wearer goes numb to small joys, and in particular to the small pleasure of being remembered; wearers stop noticing when they are greeted by name.
+**Bearer cost:**The wearer goes numb to small joys, and in particular to the small pleasure of being remembered; wearers stop noticing when they are greeted by name.
 
 ### M.A.W. Stigma — The Soaking Link
 
@@ -220,7 +220,7 @@ Cranking the handle discharges a continuous rolling stream of heavy lead slugs w
 
 **Ability:** Allows two consenting people to share one memory temporarily.
 
-**Cost:** Both people feel the grief attached to the memory.
+**Bearer cost:**Both people feel the grief attached to the memory.
 
 *Four Stigmas in eleven years, and all four surfaced during a transit in which a name was returned. The station reports the correlation and declines to call it a rule, since nineteen returns have produced four Stigmas and the other fifteen produced nothing.*
 

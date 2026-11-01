@@ -195,7 +195,7 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Debtor's weight signature in the strike.
 
-**Cost:** The wielder puts down what the strike settled and picks up the obligation instead, and the weight does not come off when the maul does.
+**Bearer cost:**The wielder puts down what the strike settled and picks up the obligation instead, and the weight does not come off when the maul does.
 
 The Maul’s Shared Load function carries measured Weight through the strike line rather than making an obligation disappear. It can distribute load across hostile barriers or willing allied carriers. Consent remains a limit on giving a burden to another person: a forced transfer returns doubled to the bearer. A line that can reach three targets is not authority to nominate three unwilling people as carriers, and a successful blow does not close the account that supplied it.
 
@@ -215,7 +215,7 @@ The Maul’s Shared Load function carries measured Weight through the strike lin
 
 **Ability:** It turns a Weight strike, but only the part of one that is owed: the mantle answers pressure with a claim behind it and does nothing at all against a blow that has none. It is proved against the Han, which the record glosses here as the reserves and the debt carried in them, and the filing says plainly that it guards nothing else.
 
-**Cost:** The wearer is tired the entire time they have it on, a flat weariness that neither builds nor lifts. The Armoury enters it on every issue form and has never written a treatment against it, there being nothing to treat.
+**Bearer cost:**The wearer is tired the entire time they have it on, a flat weariness that neither builds nor lifts. The Armoury enters it on every issue form and has never written a treatment against it, there being nothing to treat.
 
 The mantle’s care follows the carried load as well as the cloth. Its front strip is left outward when folded, and the garment rests on a wooden stand off duty. Recording, sharing or resolving the burden is part of its return, not an optional explanation attached to a clean piece of fabric. The observer compares fatigue with the issue baseline before authorising another rotation; removal alone is not the recovery check.
 
@@ -231,7 +231,7 @@ The mantle’s care follows the carried load as well as the cloth. Its front str
 
 **Ability:** Allows the wearer to bear extraordinary physical and emotional weight.
 
-**Cost:** The wearer feels the weight of everything carried and cannot easily put it down.
+**Bearer cost:**The wearer feels the weight of everything carried and cannot easily put it down.
 
 *The Burden Chain is conferred rather than issued, and no request reaches it. Twice it has been given, both times to a Warden who refused a share the Debtor offered, said why in plain words, and did not apologise for saying it.*
 

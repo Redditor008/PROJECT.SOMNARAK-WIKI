@@ -185,7 +185,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Ability:** Void damage to the Soul. The target loses the detail they were least sure of — not the strongest memory, the weakest one — and the piece has no setting and no aim beyond that.
 
-**Cost:** The wielder loses small, unnamed things from their own home. They are reported afterwards as a wrongness in a room rather than as a missing object, and no wielder has ever named what went.
+**Bearer cost:**The wielder loses small, unnamed things from their own home. They are reported afterwards as a wrongness in a room rather than as a missing object, and no wielder has ever named what went.
 
 ### M.A.W. Suit — The Ruin Veil
 
@@ -203,7 +203,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Ability:** Resists Void pressure on the Soul. Worn by the officer carrying the plan sheet, since the sheet-holder stands nearest and the record of what was built must survive the session intact.
 
-**Cost:** The wearer feels faintly absent from their own rooms for about a day afterwards. Ten of eleven wearers describe it unprompted in the same three words and the eleventh had not slept at home that week.
+**Bearer cost:**The wearer feels faintly absent from their own rooms for about a day afterwards. Ten of eleven wearers describe it unprompted in the same three words and the eleventh had not slept at home that week.
 
 ### M.A.W. Stigma — The Ruin Shard
 
@@ -217,7 +217,7 @@ The weapon launches heavy square-headed bolts attached to microscopic retrieval 
 
 **Ability:** Reconstructs one remembered room for a short time.
 
-**Cost:** The user loses a present detail from their own home.
+**Bearer cost:**The user loses a present detail from their own home.
 
 *The shard has been granted five times, always to a worker who, in the session, declined to hatch a panel they were not certain of. The holding records the pattern, has declined twice to call it a reward, and has never promoted it to a rule, on the ground that a worker performing uncertainty to earn a charm is the furnished state with extra steps.*
 

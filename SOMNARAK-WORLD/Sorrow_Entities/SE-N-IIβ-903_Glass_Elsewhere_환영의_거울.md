@@ -209,7 +209,7 @@ Escalation here is recorded in categories and durations. Log what class of thing
 
 **Damage:** Void 11–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Void against the Mind. Struck targets see, briefly, the room they most want to be in; fourteen strikes, and eleven of the fourteen named a place that has been demolished.
-**Cost:** The wielder sees the room they would rather be in at the edge of every other room, and cannot check whether it is one of the demolished ones.
+**Bearer cost:**The wielder sees the room they would rather be in at the edge of every other room, and cannot check whether it is one of the demolished ones.
 
 **Edge custody:** The near-colourless glass blade is derived equipment, not the standing pane made portable. Its Single strike belongs to the selected target only; the source mirror’s expansion is not extra weapon coverage. Record the wielder’s headache and any first-person claim about the source before cleaning or resting the Edge. Witness-led relinquishment must identify the holding without inventing its unrecorded formation event or identifying a reflected face. Keep the missing attribution explicit: shutdown preserves the record and does not refund the cost.
 

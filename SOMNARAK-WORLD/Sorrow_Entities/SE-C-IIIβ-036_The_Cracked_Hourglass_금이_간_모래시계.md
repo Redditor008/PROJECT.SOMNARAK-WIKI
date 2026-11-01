@@ -234,7 +234,7 @@ Fine golden sand continuously trickles from hidden shoulder reservoirs down the 
 
 **Ability:** *Temporal Particulate Screen* — Incoming projectiles have a 25% chance to miss or suffer 30% damage reduction as they pass through the drifting sand screen.
 
-**Cost:** The wearer's footsteps leave fine sand traces regardless of terrain.
+**Bearer cost:**The wearer's footsteps leave fine sand traces regardless of terrain.
 
 ### M.A.W. Stigma — The Micro-Hourglass Choker
 
@@ -250,7 +250,7 @@ The fine sand within the pendant flows upward against gravity whenever the beare
 
 **Ability:** *Adrenaline Inversion* — Upon taking a critical hit, wielder gains a 1.5-second burst of 100% Evasion and +30% movement speed (cooldown: 60 seconds).
 
-**Cost:** The glass vial grows ice-cold against the throat when temporal abilities trigger.
+**Bearer cost:**The glass vial grows ice-cold against the throat when temporal abilities trigger.
 
 *The Micro-Hourglass Choker is neither issued nor asked for. It has been conferred 2 times, in both cases on a Warden who spent an authorised examination slot on a grain belonging to somebody they had never heard of.*
 

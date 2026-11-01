@@ -210,7 +210,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity) — one target at a time, the way the source holding does it. What the brazier really carries is the pooled anger of the Row, and it spends that inheritance in single measures.
 
-**Cost:** Each swing is paid out of the wielder's own patience: the sense of having been dismissed once too often arrives after the fight, unnamed, and prolonged use leaves the old wounds aching on the shift's own schedule.
+**Bearer cost:**Each swing is paid out of the wielder's own patience: the sense of having been dismissed once too often arrives after the fight, unnamed, and prolonged use leaves the old wounds aching on the shift's own schedule.
 
 ### M.A.W. Suit — The Rage Plate
 
@@ -228,7 +228,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 **Ability:** Turns Grudge aside from the body, which is the only damage this record delivers. The plate is what allows a worker to stand in front of the surface for a full session without stepping out of its line.
 
-**Cost:** Reflexes dull, and the wearer becomes slow to answer provocation — which on this post reads as composure and is not.
+**Bearer cost:**Reflexes dull, and the wearer becomes slow to answer provocation — which on this post reads as composure and is not.
 
 ### M.A.W. Stigma — The Rage Lens
 
@@ -242,7 +242,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 **Ability:** Reveals hidden anger and the object of its grievance.
 
-**Cost:** The wearer hears anger in every neutral statement.
+**Bearer cost:**The wearer hears anger in every neutral statement.
 
 *The lens is not manufactured. The Mirror gives one to a worker who wrote down what the anger was about, and has given none to a worker who calmed a colleague down.*
 

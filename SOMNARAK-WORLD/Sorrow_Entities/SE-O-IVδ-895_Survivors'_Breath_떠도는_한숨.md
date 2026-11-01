@@ -196,7 +196,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Ability:** A bone needle that stays ice-cold and numbs the vocal cords on contact — targets struck by it do not cry out, and the quiet is the weapon's actual function.
 
-**Cost:** Each strike takes something small and unlabelled: a shift that was worked, a conversation in a corridor, the hour at which something was decided. Nothing important goes. Wielders discover the gaps months later, when asked to account for a period they can no longer narrate.
+**Bearer cost:**Each strike takes something small and unlabelled: a shift that was worked, a conversation in a corridor, the hour at which something was decided. Nothing important goes. Wielders discover the gaps months later, when asked to account for a period they can no longer narrate.
 
 ### M.A.W. Suit — The Resting Veil
 
@@ -214,7 +214,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Ability:** Near-translucent Han-gossamer that holds the wearer's identity intact under Void pressure, carrying the faint cold scent of the air the Sigh moves through.
 
-**Cost:** The veil keeps the self intact by holding it a little away from the body. Wearers report that their own breathing starts to sound like someone else's in the room, and that they stop being able to tell tiredness from boredom — which matters, because this posting depends on telling them apart.
+**Bearer cost:**The veil keeps the self intact by holding it a little away from the body. Wearers report that their own breathing starts to sound like someone else's in the room, and that they stop being able to tell tiredness from boredom — which matters, because this posting depends on telling them apart.
 
 ### M.A.W. Stigma — The Resting Breath
 
@@ -228,7 +228,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 **Ability:** Calms panic and grants one moment of emotional rest.
 
-**Cost:** The wearer feels the exhaustion of everyone nearby afterward.
+**Bearer cost:**The wearer feels the exhaustion of everyone nearby afterward.
 
 *The Resting Breath is given, not taken. It has appeared only on workers who stood down when they were told to and came back for the next cycle, and no procedure has produced one deliberately.*
 

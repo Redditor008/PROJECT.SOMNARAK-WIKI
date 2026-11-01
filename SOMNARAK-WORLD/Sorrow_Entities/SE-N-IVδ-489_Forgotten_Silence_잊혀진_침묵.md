@@ -175,7 +175,7 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 **Ability:** Lament damage to the mind rather than the body — it goes for composure and for the will to keep something in. The claymore carries the entity's quiet into the blow, and what it opens comes out as speech the target did not intend.
 
-**Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, at intervals, for some time afterwards and generally not in the chamber.
+**Bearer cost:**The wielder carries the entity's unwept grief and weeps involuntarily, at intervals, for some time afterwards and generally not in the chamber.
 
 ### M.A.W. Suit — The Quiet Shroud
 
@@ -195,7 +195,7 @@ It is issued under the set's own condition rather than a procedure: a quiet belo
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this entity exerts. The shroud is what makes a long observation survivable here, and it is the reason observers can leave still holding what they came in with.
 
-**Cost:** The wearer goes numb to small pleasures — the first mouthful of something hot, a joke landing — and does not notice the absence until somebody else does.
+**Bearer cost:**The wearer goes numb to small pleasures — the first mouthful of something hot, a joke landing — and does not notice the absence until somebody else does.
 
 ### M.A.W. Stigma — The Quiet Lens
 
@@ -211,7 +211,7 @@ The lens is not manufactured and cannot be requested: it condenses after an exch
 
 **Ability:** Reveals the emotional meaning behind silence.
 
-**Cost:** The wearer hears every silence as an unanswered question.
+**Bearer cost:**The wearer hears every silence as an unanswered question.
 
 *The lens is not manufactured. The entity gives one after an exchange that went both ways, and it has never given one to a worker who only listened.*
 

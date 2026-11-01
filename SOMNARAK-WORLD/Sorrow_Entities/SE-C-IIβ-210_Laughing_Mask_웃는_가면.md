@@ -203,7 +203,7 @@ Escalation is silence getting shorter. Record the pitch, the volume, every silen
 
 **Ability:** Void against the Soul. What it opens in a target is every occasion they have said they were fine and were not, in order, which most targets describe as a longer list than they expected.
 
-**Cost:** Small nameless memories, the first being what the wielder was like before this posting. Colleagues notice; the wielder does not.
+**Bearer cost:**Small nameless memories, the first being what the wielder was like before this posting. Colleagues notice; the wielder does not.
 
 ### M.A.W. Suit — The Laughter Veil
 
@@ -221,7 +221,7 @@ Escalation is silence getting shorter. Record the pitch, the volume, every silen
 
 **Ability:** Turns Void aside from the soul, which is the only pressure here. The veil lets a worker sit through a full session of imitated laughter without their own face joining in.
 
-**Cost:** The wearer catches their own reflection being pleasant at nobody, which three of them have reported as the single most unsettling thing in their service.
+**Bearer cost:**The wearer catches their own reflection being pleasant at nobody, which three of them have reported as the single most unsettling thing in their service.
 
 ### M.A.W. Stigma — The Laughter Facade
 
@@ -235,7 +235,7 @@ Escalation is silence getting shorter. Record the pitch, the volume, every silen
 
 **Ability:** Conceals emotional distress behind convincing laughter.
 
-**Cost:** The wearer hears their own laughter after the Stigma mask-charm is removed.
+**Bearer cost:**The wearer hears their own laughter after the Stigma mask-charm is removed.
 
 *The facade is not manufactured. The Mask gives one to a worker who told a trader the truth about a bad day across a counter, and has given none to anybody who was polite about it.*
 

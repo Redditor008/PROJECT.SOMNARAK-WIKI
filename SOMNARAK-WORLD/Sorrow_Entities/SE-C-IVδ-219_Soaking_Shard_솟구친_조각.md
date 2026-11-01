@@ -202,7 +202,7 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the shard's signature: what the blade opens is not a wound but the certainty that something a worker thought sealed has been moving all along.
 
-**Cost:** The bearer carries the shard's unwept grief and weeps without being able to account for whose it is; prolonged use makes the weeping ordinary. The charge does reverse on the return — the file records that — which is the one difference between the blade and the vault.
+**Bearer cost:**The bearer carries the shard's unwept grief and weeps without being able to account for whose it is; prolonged use makes the weeping ordinary. The charge does reverse on the return — the file records that — which is the one difference between the blade and the vault.
 
 ### M.A.W. Suit — Soaking Shard Shroud
 
@@ -220,7 +220,7 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Soaking Shard's kind of pressure.
 
-**Cost:** Minor joys go flat in the wearer, quietly and early: the second worker checks at the return of the piece, because nothing about this flattening announces itself from the inside.
+**Bearer cost:**Minor joys go flat in the wearer, quietly and early: the second worker checks at the return of the piece, because nothing about this flattening announces itself from the inside.
 
 ### M.A.W. Stigma — Soaking Shard Pendant
 
@@ -234,7 +234,7 @@ Escalation here is volumetric. Record the sump reading at the start and end of t
 
 **Ability:** Absorbs one emotional attack and stores it as a memory.
 
-**Cost:** Stored grief leaks into sleep: the bearer dreams somebody else's unsealed loss and wakes certain it is theirs. Of the 3 pieces this is the one whose cost presents loudest, which the armoury records as the reason it is issued last.
+**Bearer cost:**Stored grief leaks into sleep: the bearer dreams somebody else's unsealed loss and wakes certain it is theirs. Of the 3 pieces this is the one whose cost presents loudest, which the armoury records as the reason it is issued last.
 
 *The pendant is not issued and cannot be requested. It turns up on a worker who has stood a full rotation in the wet — the armoury's line is 4 per cent of them — and the file keeps that number because nobody has ever been able to predict which 4.*
 

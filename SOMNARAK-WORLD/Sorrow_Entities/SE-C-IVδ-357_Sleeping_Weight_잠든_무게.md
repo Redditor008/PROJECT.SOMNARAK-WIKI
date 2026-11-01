@@ -169,7 +169,7 @@ All four Work Types are available and three lower the gauge. The reading the sta
 
 **Ability:** Weight against the Han. Struck targets cannot carry anything heavier than their own hands for about an hour, and the fourteen on file all describe the sensation as relief rather than weakness.
 
-**Cost:** The wielder ages, measurably, at eleven days a rotation, signed for in advance against the bone survey.
+**Bearer cost:**The wielder ages, measurably, at eleven days a rotation, signed for in advance against the bone survey.
 
 ### M.A.W. Suit — The Resting Burden
 
@@ -187,7 +187,7 @@ All four Work Types are available and three lower the gauge. The reading the sta
 
 **Ability:** The wearer carries the measured load without bracing, which is the whole requirement of Ferrehan in this holding.
 
-**Cost:** The wearer cannot tell when a duty of theirs has ended. Supervisors are required to tell them in words, on a schedule, which is the Second Service applied to the suit.
+**Bearer cost:**The wearer cannot tell when a duty of theirs has ended. Supervisors are required to tell them in words, on a schedule, which is the Second Service applied to the suit.
 
 ### M.A.W. Stigma — The Resting Charm
 
@@ -201,7 +201,7 @@ All four Work Types are available and three lower the gauge. The reading the sta
 
 **Ability:** The bearer can tell how much of a shared load each person is actually carrying, to within a few kilogrammes, which is why the division sheet is now checked by the bearer rather than by the senior.
 
-**Cost:** The bearer can tell what everybody else in the room is carrying, and there is no arrangement of that knowledge in which they stop being the one who knows.
+**Bearer cost:**The bearer can tell what everybody else in the room is carrying, and there is no arrangement of that knowledge in which they stop being the one who knows.
 
 *The Resting Charm is not issued from stores. It appears in a bearer's pocket after a session in which the words were said and the load fell, and never after one in which they were not.*
 

@@ -199,7 +199,7 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 **Limit:** The target cannot speak normally during the interval; the effect protects silence but does not choose what it means.
 
-**Cost:** The primary records small memories of being attended to lost with each use. Exact item `SE-025-B` records one ordinary sentence lost when it matters most; no source maps the two costs.
+**Bearer cost:**The primary records small memories of being attended to lost with each use. Exact item `SE-025-B` records one ordinary sentence lost when it matters most; no source maps the two costs.
 
 ### M.A.W. Suit — The Silence Veil
 
@@ -217,7 +217,7 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 **Ability:** Reduces low-grade Void effects that erase identity, dismiss the wearer, or make them difficult to recognize. It does not make the wearer louder; allies must still choose to listen.
 
-**Cost:** After removal, the wearer feels faintly absent, especially in crowded rooms or formal meetings. The primary also records being overlooked in queues, rosters, and at the ends of conversations.
+**Bearer cost:**After removal, the wearer feels faintly absent, especially in crowded rooms or formal meetings. The primary also records being overlooked in queues, rosters, and at the ends of conversations.
 
 ### M.A.W. Stigma — The Silence Ring
 
@@ -231,7 +231,7 @@ The rubberized grip absorbs all vibration, ensuring silent deployment from conce
 
 **Ability:** Once per shift, creates a ten-second quiet field around a willing person or small group. It blocks disruptive sound but permits writing, touch, or agreed signals. The primary's former always-silent / “voice out of the hand” account and Master Entry 567 remain unresolved against this item-specific effect.
 
-**Cost:** After use, the bearer cannot speak above a whisper until the next rest period, as item D records. Side A gives the full-set resonance cost as the remainder of the shift; the primary's earlier while-worn duration remains unresolved.
+**Bearer cost:**After use, the bearer cannot speak above a whisper until the next rest period, as item D records. Side A gives the full-set resonance cost as the remainder of the shift; the primary's earlier while-worn duration remains unresolved.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the Child's own disposition, and the file observes that it has most often followed a cycle in which nothing was asked of it.*
 

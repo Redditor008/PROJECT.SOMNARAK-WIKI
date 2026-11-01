@@ -190,7 +190,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Ability:** Breaks Weight-dense material. On this holding it is kept for the mirror frames and the Row's fabric and has never been swung at anything living or otherwise.
 
-**Cost:** The wielder carries weight for days and tires early; two have handed it back inside a month.
+**Bearer cost:**The wielder carries weight for days and tires early; two have handed it back inside a month.
 
 **Issue control:** The Shadow Maul’s individual record requires a named financial reviewer, a verified balance and a marked uncertainty before it rises. The reviewer names a balance fact the weapon cannot override. A shadow pointing toward a person before verification suspends use; a hidden disputed field reopens review. The opaque case sleeve and the affected person’s name are the recorded shutdown, not breaking the Maul. These controls do not authorize striking Harbinger: the Row’s maul remains assigned to mirror frames and fabric, with no tested attack on the holding.
 
@@ -210,7 +210,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Ability:** The wearer moves unheard and is briefly hard to place in a room — useful on the Row, where the watch is kept by not being noticed.
 
-**Cost:** People forget the wearer was present. Three have been left off duty rosters by supervisors who had spoken to them that morning.
+**Bearer cost:**People forget the wearer was present. Three have been left off duty rosters by supervisors who had spoken to them that morning.
 
 **Return control:** The Step’s individual record assigns a partner who can locate, call and retrieve the wearer. Before concealment, both test the return call in a lit corridor and record the expected return point. A fading heel mark or a step without a shadow stops the movement; secrecy is not a reason to remain concealed. The partner calls the task, touches the heel return mark and releases the catch. Cutting both greaves loose risks an unlocatable shadow state, so the roster check after return remains necessary even when the call was answered.
 
@@ -226,7 +226,7 @@ The gauge on this holding is a poor instrument and the wing has said so for deca
 
 **Ability:** The bearer knows, standing in a room, which people in it have something pending against them. Not what, and not when.
 
-**Cost:** The bearer slows, and stops in doorways, and is late to things they were early for.
+**Bearer cost:**The bearer slows, and stops in doorways, and is late to things they were early for.
 
 *The charm is given and never issued, and only to a worker who showed a subject their own distance series when asked. Four of them exist.*
 

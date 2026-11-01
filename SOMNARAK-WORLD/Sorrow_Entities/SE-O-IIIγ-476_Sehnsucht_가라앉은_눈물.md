@@ -205,7 +205,7 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Ability:** Deals Weight damage against the Han — the sorrow reserves, and the karmic debt carried against them — and what it channels from Sehnsucht is the part that does the work: a burden with nothing attached to it, which the body reads as weight and the mind keeps trying to account for.
 
-**Cost:** The wielder grows progressively heavier and ages slightly, and reports their own history as something carried rather than lived.
+**Bearer cost:**The wielder grows progressively heavier and ages slightly, and reports their own history as something carried rather than lived.
 
 ### M.A.W. Suit — Sehnsucht Mantle
 
@@ -223,7 +223,7 @@ The weapon fires ampoules filled with hyper-concentrated Lament brine that shatt
 
 **Ability:** Grants resistance to Weight damage, protecting the Han — the sorrow reserves and the karmic debt against them — and it does so by taking the load before the wearer does: the mantle is what a bearer is carrying instead of the grief, for as long as the session lasts.
 
-**Cost:** The wearer carries a constant low fatigue that does not lift between rotations, and reports it as heaviness in the shoulders rather than as tiredness — the wearer's own description is the more accurate one on this piece, and the file enters it in that form.
+**Bearer cost:**The wearer carries a constant low fatigue that does not lift between rotations, and reports it as heaviness in the shoulders rather than as tiredness — the wearer's own description is the more accurate one on this piece, and the file enters it in that form.
 
 Binding requires a named exit and no excavation tools. After the session the wearer re-anchors at the current camp: tents, roster and meal schedule are the ordinary elsewhere to return to, rather than an explanation of the feeling. The mantle’s horizontal departure line is traced by hand at each anchoring. A bearer unable to find that line by touch does not return the next day, even if the resistance figures still hold. Forgetting the exit and adopting the buried grief as identity are failures of departure, not evidence that a longer vigil is required.
 
@@ -239,7 +239,7 @@ Binding requires a named exit and no excavation tools. After the session the wea
 
 **Ability:** Anchors the wearer against emotional pressure.
 
-**Cost:** The wearer carries the buried grief afterward.
+**Bearer cost:**The wearer carries the buried grief afterward.
 
 The Shard’s anchoring must not become refusal to feel. Its other recorded failures are treating the carried sorrow as personal memory and becoming unable to leave the site. Care therefore takes place in witnessed rest away from The Scar, not in solitary rest beside the object. The steel stays cold through a correct discharge; warmth is evidence that something is still being kept. The witness observes that condition rather than supplying the reason for the grief.
 

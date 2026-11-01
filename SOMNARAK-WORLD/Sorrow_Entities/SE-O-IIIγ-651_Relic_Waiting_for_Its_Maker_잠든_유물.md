@@ -204,7 +204,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Ability:** Deals Void damage against the Soul — identity, memory, and the sense of being for something. The strike carries the source's signature, and those hit report forgetting, briefly, what they had been about to do.
 
-**Cost:** The wielder loses small memories with each use, and specifically intentions: errands set out on and abandoned, sentences begun and dropped, the reason for having come into a room.
+**Bearer cost:**The wielder loses small memories with each use, and specifically intentions: errands set out on and abandoned, sentences begun and dropped, the reason for having come into a room.
 
 ### M.A.W. Suit — Relic Waiting for Its Maker's Cover
 
@@ -222,7 +222,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Ability:** *Unattended Presence* conceals the wearer's presence from attentive observers and keeps the listening walls from focusing on them; the named external monitor remains part of the equipment, because the same silence also blocks requests for help.
 
-**Cost:** The wearer becomes unable to share secrets or ask for help.
+**Bearer cost:**The wearer becomes unable to share secrets or ask for help.
 
 ### M.A.W. Stigma — Relic Waiting for Its Maker's Charm
 
@@ -236,7 +236,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Ability:** Grants a minor boon drawn from the source's own nature — anything the bearer sets down stays exactly where it was left, undisturbed and unfound by anyone else, for as long as the bearer intends to return for it.
 
-**Cost:** The bearer can leave anything anywhere and be sure of finding it again, which means they never have to decide what they are finished with.
+**Bearer cost:**The bearer can leave anything anywhere and be sure of finding it again, which means they never have to decide what they are finished with.
 
 *The Charm is conferred and never issued: it appears after a successful cycle at the chamber's own disposition, on a worker who kept silence in the room for the whole watch, and the file records that pattern without pretending to know why the chamber chooses.*
 

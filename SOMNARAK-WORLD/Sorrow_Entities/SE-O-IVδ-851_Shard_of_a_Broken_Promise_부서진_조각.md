@@ -205,7 +205,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Ability:** Deals Lament damage to the Mind, carrying the shard's judgment — targets are measured against a promise they did not make, and falter.
 
-**Cost:** The wielder begins holding others to undertakings never given, and reports difficulty distinguishing an expectation from an agreement.
+**Bearer cost:**The wielder begins holding others to undertakings never given, and reports difficulty distinguishing an expectation from an agreement.
 
 ### M.A.W. Suit — The Promise Shroud
 
@@ -223,7 +223,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Ability:** Grants resistance to Lament damage, insulating the Mind with the shard's own certainty that the fault lies elsewhere.
 
-**Cost:** The wearer stops accepting blame, including where it is properly theirs.
+**Bearer cost:**The wearer stops accepting blame, including where it is properly theirs.
 
 ### M.A.W. Stigma — The Promise Shard
 
@@ -237,7 +237,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 **Ability:** Protects the wearer from one anticipated betrayal.
 
-**Cost:** The wearer feels every broken promise in the surrounding area.
+**Bearer cost:**The wearer feels every broken promise in the surrounding area.
 
 *The shard grants its stigma to workers who read the break aloud without defending themselves. It cannot be manufactured, and no worker has received it twice.*
 

@@ -189,7 +189,7 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Ability:** Grudge against the Body, with a reported after-effect the Armoury has logged on all eleven strikes: the target spends the following minutes unable to finish a sentence they had started before being hit. They can begin new ones. The interrupted one does not come back.
 
-**Cost:** The wielder's old injuries ache and prolonged use leaves faint bruising on the shoulders and the crown of the head, where the weight of the absent structure is felt.
+**Bearer cost:**The wielder's old injuries ache and prolonged use leaves faint bruising on the shoulders and the crown of the head, where the weight of the absent structure is felt.
 
 **Orrery custody:** Its bronze miniature hovers with the bearer; the cleared plot does not follow it. The local single-target shadow rule does not make the source footprint portable or give the slowing field an unrecorded reach. Keep the direct impact separate from the stated lingering weight, and leave the unquantified Tick multiplier unresolved rather than supply a damage schedule. Record old-injury ache, shoulder and crown bruising, and the colleague’s sentence-completion report; end the rotation on that report, not on the wielder’s reassurance. The separate crimson Fang record is not an alternate Orrery pose established by this file.
 
@@ -209,7 +209,7 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Ability:** Resistance to Grudge against the Body. It protects against the pressure and not against the recollection; wielders report remembering, with complete clarity, a conversation they never had, and the rating column has nothing to say about that.
 
-**Cost:** The wearer's reflexes dull and their sense of place grows unreliable in built-up streets; wearers mis-step on stairs and stop at floors that are not their own.
+**Bearer cost:**The wearer's reflexes dull and their sense of place grows unreliable in built-up streets; wearers mis-step on stairs and stop at floors that are not their own.
 
 **Plate custody:** Keep the missing panel unfilled and record a changed door-shaped gap as a condition, not a repair opportunity. Work remains outside the absent foundation; Grudge resistance does not make phantom stairs load-bearing or remove the false conversation. Separate the plates on current ground for maintenance and mark revealed missing rooms as non-load-bearing. If the wearer begins treating a stair or beam as support, close the vigil and have them move out of the shadow under their own power. Record dulled reflexes and unreliable placement as well as the shared speech cost.
 
@@ -225,7 +225,7 @@ The miniature tower hovers alongside the bearer, projecting a localized temporal
 
 **Ability:** Reveals hidden spaces removed from a structure.
 
-**Cost:** The user feels the final moments of those who occupied them.
+**Bearer cost:**The user feels the final moments of those who occupied them.
 
 *Three Stigmas in eleven years, all three to wardens who had read the memorial list more than fifty times. None appeared during a cycle; all three were noticed the following morning, which the wing has decided not to interpret.*
 

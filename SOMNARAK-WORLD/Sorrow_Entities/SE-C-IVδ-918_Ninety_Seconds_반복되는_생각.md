@@ -175,7 +175,7 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 
 **Damage:** Void 11–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Void against the Mind. Struck targets return to the beginning of whatever they were thinking about, once, and describe the effect afterwards as being gently interrupted by themselves.
-**Cost:** The wielder's own thinking resets at the blade's interval: the same idea arrives twice, and the second time it feels like the first.
+**Bearer cost:**The wielder's own thinking resets at the blade's interval: the same idea arrives twice, and the second time it feels like the first.
 
 **Edge handling:** The near-colourless blade is extracted equipment, not a solid part found inside the empty radius. Its attack pattern is Single, and the thought interruption belongs to the struck target; the source interval’s repeated passes are not additional weapon strikes. Watch the user’s emotional numbness and attribution before cleaning or resting the Edge. A witness-led relinquishment names the source holding without inventing the unrecorded formation event or soliciting the bearer’s worst thought. Record that attribution limit with the shutdown rather than fill the missing history with private content.
 

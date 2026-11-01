@@ -219,7 +219,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 
 **Ability:** Raises a negotiated barrier against a defined hostile crossing while preserving an agreed passage for non-hostile people. The bearer, counterpart and oversight witness agree on whom it protects and how the barrier will be lowered. It cannot trap civilians or treat someone as hostile merely for coming from the other side. A unilateral crossing order binds the bearer to the same restriction rather than granting control of the line.
 
-**Cost:** The bearer cannot cross a boundary they have created: the tanto's line holds them on the far side of it, and the set's own note is that bearers learn this at the worst possible moment.
+**Bearer cost:**The bearer cannot cross a boundary they have created: the tanto's line holds them on the far side of it, and the set's own note is that bearers learn this at the worst possible moment.
 
 ### M.A.W. Suit — The Border Plate
 
@@ -237,7 +237,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 
 **Ability:** Han-iron plate that stiffens against Grudge pressure and holds the wearer's body together under the weight of roots and the slow failure of anything the Tree has grown — worn on this post because the work is standing still while the ground moves.
 
-**Cost:** The harness tightens near its source and does not loosen after: the wearer moves at the Tree's own pace, deliberate and unhurried, and finds that stepping aside from anything has become somebody else's decision — which is how every stand-down on this set has been caught.
+**Bearer cost:**The harness tightens near its source and does not loosen after: the wearer moves at the Tree's own pace, deliberate and unhurried, and finds that stepping aside from anything has become somebody else's decision — which is how every stand-down on this set has been caught.
 
 ### M.A.W. Stigma — The Border Charm
 
@@ -251,7 +251,7 @@ The wielder's grip draws small drops of blood from the thorns, attuning the blad
 
 **Ability:** The charm lets its bearer feel where a line has been drawn before anybody announces it — useful at a negotiation table and intolerable at home, which the Armoury records as the reason it is issued for the season and not the year.
 
-**Cost:** The bearer's temper shortens: lines that were never visible start feeling like lines, and the second worker watches for it at the return rather than during the rotation.
+**Bearer cost:**The bearer's temper shortens: lines that were never visible start feeling like lines, and the second worker watches for it at the return rather than during the rotation.
 
 *The Border Charm is given, not taken. It appears on a worker who has completed a Ferrehan cycle without choosing a side, and no procedure has ever reproduced it deliberately — the armoury's line is 4 per cent, and the file keeps the number as an open question rather than a rate.*
 

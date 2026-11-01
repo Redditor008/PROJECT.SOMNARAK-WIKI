@@ -233,7 +233,7 @@ Eight cylindrical brass pendulum weights stamped with minute indices dangle alon
 
 **Ability:** *Inertial Anchor* — Converts kinetic and gravitational displacement into grounded weight. Bearer cannot be involuntarily knocked back or tripped by attacks dealing under 25 Weight damage.
 
-**Cost:** The wearer carries a constant low physical fatigue from the coat's persistent inertial drag.
+**Bearer cost:**The wearer carries a constant low physical fatigue from the coat's persistent inertial drag.
 
 **Watch discipline:** Grounding against recoil does not make the Greatcoat a clock. The outside worker still reads each interval and the wearer still answers it; apparent steadiness under the hem weights cannot stand in for that reply. The individual suit record treats the district’s history becoming autobiographical as its first corrosion sign and requires attribution review before care. A named witness states the event when the coat is relinquished. Fatigue and the inside-interval entry remain on the return record even when no displacement occurred.
 
@@ -251,7 +251,7 @@ The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exa
 
 **Ability:** *Subjective Dialing* — Expands the bearer's perceptual reaction window, granting +5% critical evasion and immunity to stagger from minor temporal slows.
 
-**Cost:** The bearer occasionally experiences subjective tinnitus mimicking an irregular pocket-watch escapement.
+**Bearer cost:**The bearer occasionally experiences subjective tinnitus mimicking an irregular pocket-watch escapement.
 
 *The Frozen Escapement Wheel is neither issued nor asked for. It has been conferred 3 times, each on a Warden who broke off on a missed acknowledgement at a moment when they were certain they had answered.*
 

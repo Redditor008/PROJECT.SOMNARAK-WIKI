@@ -170,7 +170,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 **Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — and the strike carries the absence's own signature: the target's certainties read afterwards as arrangements.
 
-**Cost:** Small memories go with each use, and the ledger's note is that the wielder notices the gaps in the unremarkable things first: rota names, stall numbers, the faces of people they deal with weekly.
+**Bearer cost:**Small memories go with each use, and the ledger's note is that the wielder notices the gaps in the unremarkable things first: rota names, stall numbers, the faces of people they deal with weekly.
 
 ### M.A.W. Suit — The Empty Veil
 
@@ -188,7 +188,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 **Ability:** It holds the Soul — who the wearer is, what they remember, the sense of having a self at all — against Void. Void is the sole pressure the gap puts out.
 
-**Cost:** The account the wearer can give of who they are thins by a measurable degree. The armoury logs the thinning as a reading and lets it stand as the toll, not as a symptom.
+**Bearer cost:**The account the wearer can give of who they are thins by a measurable degree. The armoury logs the thinning as a reading and lets it stand as the toll, not as a symptom.
 
 ### M.A.W. Stigma — The Empty Pillar
 
@@ -202,7 +202,7 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 **Ability:** Reveals false supports and hidden instability. The diagnosis is not a verdict: verify current help through behavior, stated limits and reciprocal acknowledgment, without replacing consent with diagnostic certainty.
 
-**Cost:** The wearer feels every support they once imagined.
+**Bearer cost:**The wearer feels every support they once imagined.
 
 *The Empty Pillar is not made and cannot be asked for. It has been conferred three times, each time on a worker who told a colleague plainly that something they were relying on was not there.*
 

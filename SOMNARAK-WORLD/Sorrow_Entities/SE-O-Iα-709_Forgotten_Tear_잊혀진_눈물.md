@@ -200,7 +200,7 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 
 **Ability:** A sealed ampoule of unwept tears mounted on the forearm; uncorked, it projects a cone of tranquilizing vapour that settles raging thralls, and struck with, it drives the brass cradle into whatever the vapour did not reach.
 
-**Cost:** Old injuries ache and faint bruising rises along the lines of them. Nothing new is damaged. The body raises, once more, every complaint it has already made and had settled.
+**Bearer cost:**Old injuries ache and faint bruising rises along the lines of them. Nothing new is damaged. The body raises, once more, every complaint it has already made and had settled.
 
 ### M.A.W. Suit — Forgotten Tear Plate
 
@@ -218,7 +218,7 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 
 **Ability:** Han-iron plate that hardens against Grudge pressure and settles cold against the skin, keeping a body structurally intact in a vault where the pressure is physical rather than emotional.
 
-**Cost:** The harness answers a half-beat late, so that stepping aside becomes a decision rather than a reflex. Wearers describe the shift afterwards as one long argument they were always slightly behind in.
+**Bearer cost:**The harness answers a half-beat late, so that stepping aside becomes a decision rather than a reflex. Wearers describe the shift afterwards as one long argument they were always slightly behind in.
 
 ### M.A.W. Stigma — Forgotten Tear Shard
 
@@ -232,7 +232,7 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 
 **Ability:** Reveals suppressed anger.
 
-**Cost:** The wearer feels anger whose origin is unclear.
+**Bearer cost:**The wearer feels anger whose origin is unclear.
 
 *The Shard is given, not taken. It has appeared only on workers who held the Tear for a full cycle, set it down consciously, and could still name whose anger it was afterwards. No procedure has produced one deliberately.*
 

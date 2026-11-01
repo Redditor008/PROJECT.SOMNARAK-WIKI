@@ -186,7 +186,7 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 
 **Ability:** The fang carries the Whisper's own grudge into the cut, and the wound it opens is the one the warning was meant to prevent. The damage is taken on the Body, and it is taken before anything is said.
 
-**Cost:** Every old injury the wielder arrived with starts to throb in the order it was sustained, oldest first, and the bruising that follows a strike comes up in the shape of the grip rather than of the blow.
+**Bearer cost:**Every old injury the wielder arrived with starts to throb in the order it was sustained, oldest first, and the bruising that follows a strike comes up in the shape of the grip rather than of the blow.
 
 Binding requires one confirmed danger direction and one unknown, stated together. The two independent fragment transcripts are kept along opposite edges during cleaning; only matching sounds are cleaned, and blank intervals remain unpolished. An edge made continuous by a guess has ceased to preserve the warning. The Fang is lowered when the confirmed danger ends, even if the sentence does not: a resolved warning repeated by the blade can turn against the responder.
 
@@ -206,7 +206,7 @@ Binding requires one confirmed danger direction and one unknown, stated together
 
 **Ability:** The plate turns a Grudge strike the way a closed shutter turns weather — the blow lands, and what reaches the wearer is the noise of it rather than the weight. It is proved against Grudge and against little else; the filing states that the harness was tested on the Body and makes no claim for the mind underneath it.
 
-**Cost:** The wearer answers late. Not slowly — the motion runs at its usual speed and simply begins a beat after it should, which on the floor is recorded as the difference between stepping back and being stepped into.
+**Bearer cost:**The wearer answers late. Not slowly — the motion runs at its usual speed and simply begins a beat after it should, which on the floor is recorded as the difference between stepping back and being stepped into.
 
 An external waking recorder is assigned before the Plate is worn. The harness holds physical continuity through collapsing dream-space, not the accuracy of an interpretation or the speed needed to escape it. Care is performed with the wearer awake, tapping plates in fragment order and leaving unknown intervals silent. At removal the recorder states the present location and confirmed danger, then releases the slowest joint last. The person who can still move promptly is responsible for the return; the harness cannot lend that speed to its wearer.
 
@@ -222,7 +222,7 @@ An external waking recorder is assigned before the Plate is worn. The harness ho
 
 **Ability:** Preserves a warning through interference.
 
-**Cost:** The wearer hears every warning that arrives too late.
+**Bearer cost:**The wearer hears every warning that arrives too late.
 
 The Thread stiffens around speculative words. Fluency without new evidence is a failure, not recovery of the scout’s sentence, and repeated late voices can make a current warning inaudible. Its care record separates the original pulse, noise and silence; a guess is never entered as another part of the signal. The Tail slot and four-percent bestowal describe how it is carried and received, not a right to circulate what it carries.
 

@@ -204,7 +204,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 
 **Ability:** Weight damage to the Han rather than to the body. The culverin carries eleven years of deferred rest into the discharge and lands heaviest on anyone who has been awake longest.
 
-**Cost:** The wielder grows progressively heavier and ages slightly, in the manner of a person who has not slept properly for a season.
+**Bearer cost:**The wielder grows progressively heavier and ages slightly, in the manner of a person who has not slept properly for a season.
 
 ### M.A.W. Suit — The Sleeping Mantle
 
@@ -222,7 +222,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 
 **Ability:** Wards the Han against Weight — the reserves and the karmic debt this pressure goes after. On this post it is worn for the standing rather than for the strike: the mantle is what lets a watcher remain upright through an interval while the person they are watching sleeps.
 
-**Cost:** A constant low fatigue that the wearer stops reporting after the first season, which is why the roster, and not the wearer, is asked whether the piece should be reissued.
+**Bearer cost:**A constant low fatigue that the wearer stops reporting after the first season, which is why the roster, and not the wearer, is asked whether the piece should be reissued.
 
 ### M.A.W. Stigma — The Sleeping Breath
 
@@ -236,7 +236,7 @@ The weapon discharges high-pressure gusts of freezing, condensed breath harveste
 
 **Ability:** Forces a moment of restorative calm on the wearer, at a time of the entity's choosing rather than theirs.
 
-**Cost:** The wearer feels all the exhaustion the surrounding camp is suppressing, including the exhaustion of people who have insisted they are fine.
+**Bearer cost:**The wearer feels all the exhaustion the surrounding camp is suppressing, including the exhaustion of people who have insisted they are fine.
 
 *The breath-token is not manufactured and cannot be requisitioned. The site gives one to a worker who lay down on it and let somebody else keep the watch; it has never given one to a worker who volunteered for the extra rotation instead. Three are held, and the service record of each bearer is checked before reissue.*
 

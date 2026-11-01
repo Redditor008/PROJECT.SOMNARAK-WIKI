@@ -190,7 +190,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 
 **Ability:** The struck target loses the ability to finish an account of what just happened — reports written after a strike stop mid-sentence, and every one of the nine on file stops at a different point with no injury to explain it.
 
-**Cost:** The wielder's own account stops at the point where the strike was made, so the report of the fight is the one page they cannot finish.
+**Bearer cost:**The wielder's own account stops at the point where the strike was made, so the report of the fight is the one page they cannot finish.
 
 ### M.A.W. Suit — Vellum Man's Veil
 
@@ -208,7 +208,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 
 **Ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.
 
-**Cost:** The wearer carries Vellum Man's grief into every quiet moment; small joys feel distant until the suit is removed.
+**Bearer cost:**The wearer carries Vellum Man's grief into every quiet moment; small joys feel distant until the suit is removed.
 
 ### M.A.W. Stigma — Vellum Man's Token
 
@@ -222,7 +222,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 
-**Cost:** The bearer dreams in tears drawn from Vellum Man's sorrow and wakes with another person's grief still present.
+**Bearer cost:**The bearer dreams in tears drawn from Vellum Man's sorrow and wakes with another person's grief still present.
 
 *Two Stigmas have come from this holding in nineteen years, both to transcribers who finished a tale after the shift bell and stayed in the chair to do it. The sector logs them without comment and has not drawn a rule from a sample of two.*
 

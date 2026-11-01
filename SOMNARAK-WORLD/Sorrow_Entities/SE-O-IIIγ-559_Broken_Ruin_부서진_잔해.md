@@ -184,7 +184,7 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Ability:** Lament against the Mind. What it takes is the willingness to leave a thing broken: struck targets begin repairing something — a strap, a stall frame, a report — within the hour, and nine of the eleven on file did not notice until it was pointed out.
 
-**Cost:** The wielder carries the grief of a place that cannot be returned to. Prolonged use causes involuntary weeping, most often on arriving home at the end of a shift.
+**Bearer cost:**The wielder carries the grief of a place that cannot be returned to. Prolonged use causes involuntary weeping, most often on arriving home at the end of a shift.
 
 ### M.A.W. Suit — The Ruin Shroud
 
@@ -202,7 +202,7 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Ability:** Grants resistance to Lament pressure, shielding the Mind against the particular weight of displacement. It is rated for long watches rather than for impact, which is the only engagement profile this source produces.
 
-**Cost:** The wearer goes numb to small joys, and to the comforts of familiar places in particular. Wearers report that their quarters stop feeling like anywhere specific.
+**Bearer cost:**The wearer goes numb to small joys, and to the comforts of familiar places in particular. Wearers report that their quarters stop feeling like anywhere specific.
 
 ### M.A.W. Stigma — The Ruin Fragment
 
@@ -216,7 +216,7 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Ability:** Preserves one memory of a destroyed place.
 
-**Cost:** The wearer hears the sounds of its collapse.
+**Bearer cost:**The wearer hears the sounds of its collapse.
 
 *Six Stigmas in nine years, every one of them after an account that reached the collapse itself. None has gone to a warden who was taking notes at the time, which the station records as an observation of six cases and not as a rule.*
 

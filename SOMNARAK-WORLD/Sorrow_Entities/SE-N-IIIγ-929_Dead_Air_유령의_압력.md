@@ -162,7 +162,7 @@ The weight is reported, not measured, and the archive is careful to keep those t
 
 **Damage:** Weight 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** *Sat to the End* — the strike presses the room's pressure back along the line it came by, which buys the watch its last quarter-hour and nothing past it. It does not drive anything out, and it has never been used to try.
-**Cost:** The wielder begins estimating weights. Doorways, colleagues, furniture — a figure in kilograms arrives unbidden and is usually close. It fades within a day of setting the piece down and has never been reported as distressing.
+**Bearer cost:**The wielder begins estimating weights. Doorways, colleagues, furniture — a figure in kilograms arrives unbidden and is usually close. It fades within a day of setting the piece down and has never been reported as distressing.
 
 ### M.A.W. Suit — Dead Air's Veil
 

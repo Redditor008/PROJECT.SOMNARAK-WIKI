@@ -200,7 +200,7 @@ When brought down upon the earth, it produces no metallic clang, but a deep seis
 
 **Ability:** *Memorial Break* — when the bearer strikes ground, barrier or structure while naming the person or group being protected, the Monument sends a seismic shockwave through it and every grounded hostile body in the room goes to its knees under the weight of the unforgotten dead. It is the Colossus's gait at a human scale, no clang and only the slow double beat, and a death that has been dismissed becomes physically inescapable to whoever dismissed it. It cannot safely strike a Colossus tear-building unless the Archive has cleared that structure for removal.
 
-**Cost:** The wielder feels progressively heavier; carried by someone who dismisses an identified death, the weapon becomes impossibly heavy to lift, causing joint strain and bone ache.
+**Bearer cost:**The wielder feels progressively heavier; carried by someone who dismisses an identified death, the weapon becomes impossibly heavy to lift, causing joint strain and bone ache.
 
 ### M.A.W. Suit — The Mourning Mantle
 
@@ -220,7 +220,7 @@ On a route it does one thing and nothing else: companions walking an approved ev
 
 **Ability:** *Procession Pace* — while the wearer walks an approved evacuation or memorial route, nearby companions move through low-grade Weight pressure without losing their first step to the burden; stopping, denying or abandoning the route ends it. The piece also halves the Weight damage that reaches the wearer: Lament and Grudge pass at full strength and Void lands at one and a half times, so the Mantle protects a route and its wearer's standing in the Colossus's weight, not general combat anywhere else in the city.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Bearer cost:**The wearer carries a constant low fatigue.
 
 ### M.A.W. Stigma — The Mourning Shell
 
@@ -236,7 +236,7 @@ It is a head-slot charm and it is displayed in the Archive beside the route repo
 
 **Ability:** *Bear the Unnamed* — once a day the bearer may take one ally's current Weight-pressure condition onto themselves for ten minutes, converting part of ordinary physical impact into emotional heaviness that is felt later. It is not invulnerability: the Shell cannot absorb a Sovereign-scale collapse or a fatal direct strike.
 
-**Cost:** The wearer experiences every death the Colossus has mourned. Prolonged use causes uncontrollable weeping.
+**Bearer cost:**The wearer experiences every death the Colossus has mourned. Prolonged use causes uncontrollable weeping.
 
 *The Mourning Shell is the registry's name for the piece the grounds call the Pallbearer's Grip. It is not issued and cannot be requested; it has been conferred on workers who taught the entity a name belonging to nobody they were related to and nobody they had been assigned to find.*
 

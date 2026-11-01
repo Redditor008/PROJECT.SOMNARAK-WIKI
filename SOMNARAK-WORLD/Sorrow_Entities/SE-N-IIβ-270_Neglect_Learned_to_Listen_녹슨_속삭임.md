@@ -198,7 +198,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Ability:** Weight damage to the Han. Planted, the rod draws a line and the line belongs to the person who planted it; entities crossing it go numb. It is the only object in this holding's orbit that makes something definitively somebody's responsibility, and the armoury has never been comfortable with how much personnel like it.
 
-**Cost:** The wielder grows heavier by the hour and ages slightly over a career of use. Eleven long-term wielders, eleven identical reports, no variation worth recording.
+**Bearer cost:**The wielder grows heavier by the hour and ages slightly over a career of use. Eleven long-term wielders, eleven identical reports, no variation worth recording.
 
 ### M.A.W. Suit — Neglect Learned to Listen's Mantle
 
@@ -216,7 +216,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Ability:** Resists Weight pressure on the Han. Issued to the officer tracing the edge, who kneels at the panels for the length of the survey and is therefore the closest and the most spoken to.
 
-**Cost:** A constant low fatigue that does not lift with rest and lasts about three days. Wearers describe it as the tiredness of a day in which nothing was finished.
+**Bearer cost:**A constant low fatigue that does not lift with rest and lasts about three days. Wearers describe it as the tiredness of a day in which nothing was finished.
 
 ### M.A.W. Stigma — Neglect Learned to Listen's Bell
 
@@ -230,7 +230,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Ability:** Carries a quiet message through walls, to one named person, and will not send to a group. The restriction is in the piece and has defeated every attempt to work around it.
 
-**Cost:** The bearer hears every message that fails to arrive — not their own, everybody's. It is a continuous low traffic of unreceived things and it stops when the bell comes off.
+**Bearer cost:**The bearer hears every message that fails to arrive — not their own, everybody's. It is a continuous low traffic of unreceived things and it stops when the bell comes off.
 
 *The bell has been granted five times, each to a worker who refused, in writing, to accept a duty that had not been assigned to their post, knowing how it would read. Four of the five were overruled. The holding records the pattern and declines to call it a reward, noting that a refusal made to be noticed is not a refusal.*
 

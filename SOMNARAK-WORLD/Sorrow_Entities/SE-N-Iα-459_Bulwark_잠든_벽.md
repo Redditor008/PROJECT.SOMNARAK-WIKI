@@ -188,7 +188,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Ability:** Void damage to the Soul. Built as a fortress piece meant to fire through a file of targets and it does not; it strikes one and stops. The armoury recorded the departure in Year 4209 and has not explained it.
 
-**Cost:** Small nameless memories, for about a day — never a face or a name, always a thing somebody once offered them. Six wielders have described the same category independently.
+**Bearer cost:**Small nameless memories, for about a day — never a face or a name, always a thing somebody once offered them. Six wielders have described the same category independently.
 
 ### M.A.W. Suit — Bulwark Plate
 
@@ -206,7 +206,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Ability:** Dampens emotional intrusion, which on this holding means the wearer can sit the hour without the quiet getting into them. It is issued for the watch and taken back at the gate, and the taking back is a rule rather than a procedure.
 
-**Cost:** The wearer becomes hard to reach for about a day. It is the only cost in the wing that the person paying it does not report, and the holding therefore requires the relief to report it instead.
+**Bearer cost:**The wearer becomes hard to reach for about a day. It is the only cost in the wing that the person paying it does not report, and the holding therefore requires the relief to report it instead.
 
 ### M.A.W. Stigma — Bulwark Charm
 
@@ -220,7 +220,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Ability:** The charm goes cold against the head when the bearer is about to say that they are fine. It confers nothing else and the holding has stopped describing it as a boon.
 
-**Cost:** The bearer loses a word now and then, and in every logged instance it was a word they were about to use to decline something. Four bearers recorded the pattern separately before anyone compared them.
+**Bearer cost:**The bearer loses a word now and then, and in every logged instance it was a word they were about to use to decline something. Four bearers recorded the pattern separately before anyone compared them.
 
 *The charm has gone out seven times, each to a worker who took a thing nobody had offered them by request. Four of the seven had turned the same provision down twice when the form was in their own hands. The holding keeps the count and refuses to turn it into a rule.*
 

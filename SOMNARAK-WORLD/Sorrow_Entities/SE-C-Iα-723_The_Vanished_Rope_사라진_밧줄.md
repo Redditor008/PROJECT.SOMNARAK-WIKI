@@ -192,7 +192,7 @@ The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs
 
 **Ability:** The censer strikes the mind and not the body. It channels a bond cut mid-length, and what it opens in a target is the conviction that somebody is still attached to the far end of whatever they happen to be carrying.
 
-**Cost:** The wielder carries the entity's unwept grief and weeps involuntarily, most often while putting the censer down.
+**Bearer cost:**The wielder carries the entity's unwept grief and weeps involuntarily, most often while putting the censer down.
 
 ### M.A.W. Suit — The Severed Shroud
 
@@ -212,7 +212,7 @@ The cloth settles only on a wearer who has stopped trying to pull somebody back:
 
 **Ability:** The only pressure this holding applies is to the mind, and the shroud is proof against it — there is no record anywhere in the file of a physical injury. It is what lets a worker accept the offered end and hand it back without carrying it out of the chamber.
 
-**Cost:** Numbness to small pleasures, reported first as other people's company not registering — a description the medical office has recorded in almost those words from every wearer on this set.
+**Bearer cost:**Numbness to small pleasures, reported first as other people's company not registering — a description the medical office has recorded in almost those words from every wearer on this set.
 
 ### M.A.W. Stigma — The Severed Knot
 
@@ -228,7 +228,7 @@ It is a tail-slot charm and it cannot be asked for. The knot arrives at the end 
 
 **Ability:** Reveals the emotional bonds between nearby people.
 
-**Cost:** The wearer feels every broken bond as personal loss.
+**Bearer cost:**The wearer feels every broken bond as personal loss.
 
 *No workshop makes the knot. It is given to a worker who held the end and then said who was missing from it, and it has never once been given to anybody who tied off safely.*
 

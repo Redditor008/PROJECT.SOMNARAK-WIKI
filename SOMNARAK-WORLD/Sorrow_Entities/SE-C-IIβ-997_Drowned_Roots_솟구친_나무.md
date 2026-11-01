@@ -185,7 +185,7 @@ The table reads as a trial with the face uncovered: Flerehan brings a branch dow
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — the way the source holding delivers it: not a blow to be resisted but a grief arriving with nowhere to be put, which is what the weapon leaves behind.
 
-**Cost:** the wielder carries the holding's unwept grief for as long as they carry the blade, and past a season of it the weeping begins involuntarily. The Armoury records the symptom against the wielder, on the file's own logic: it is the work that accumulates, not the steel.
+**Bearer cost:**the wielder carries the holding's unwept grief for as long as they carry the blade, and past a season of it the weeping begins involuntarily. The Armoury records the symptom against the wielder, on the file's own logic: it is the work that accumulates, not the steel.
 
 ### M.A.W. Suit — Drowned Roots Shroud
 
@@ -203,7 +203,7 @@ The table reads as a trial with the face uncovered: Flerehan brings a branch dow
 
 **Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure, and against nothing else; the shroud was cut for one holding's kind of grief and the file records no other use for it.
 
-**Cost:** the wearer goes numb to minor joys first and notices it last, and the second worker reads it long before the wearer does.
+**Bearer cost:**the wearer goes numb to minor joys first and notices it last, and the second worker reads it long before the wearer does.
 
 ### M.A.W. Stigma — Drowned Roots Lantern
 
@@ -217,7 +217,7 @@ The table reads as a trial with the face uncovered: Flerehan brings a branch dow
 
 **Ability:** Heals minor wounds through warm, sorrowful light.
 
-**Cost:** The wearer becomes difficult for others to remember.
+**Bearer cost:**The wearer becomes difficult for others to remember.
 
 *Eleven lanterns exist. Each was taken from a branch that had stopped moving, and each is issued with the name of a soldier who has no entry, written inside the housing where only the bearer will see it.*
 

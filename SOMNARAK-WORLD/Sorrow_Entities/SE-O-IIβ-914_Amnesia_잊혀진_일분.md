@@ -165,7 +165,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Damage:** Void 11–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** The struck target cannot say, for about a minute afterward, what they were doing immediately before the strike. They retain their name and their face; it is only the intention that goes, which is the holding's first symptom and the only part of it the Armoury was able to take.
-**Cost:** The wielder loses the minute before the strike: the intention goes first, exactly as it does in the quarry, and the name and the face stay.
+**Bearer cost:**The wielder loses the minute before the strike: the intention goes first, exactly as it does in the quarry, and the name and the face stay.
 
 ### M.A.W. Suit — Amnesia's Veil
 
@@ -187,7 +187,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which means on a watch at the line, which is the only kind of cycle this holding has
 **Ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
-**Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the Token.
+**Bearer cost:**The bearer occasionally loses a familiar word or face for a few seconds after invoking the Token.
 
 *No direct Stigma offer is recorded from the holding. The Token is the set's 5% Head Stigma, not a third extraction from the radius.*
 

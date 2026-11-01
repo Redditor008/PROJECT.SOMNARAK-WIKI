@@ -166,7 +166,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 **Damage:** Lament 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Lament against the Mind. Struck targets think of one particular person for the rest of the night, and all fourteen have said the person was somebody they had been meaning to contact.
-**Cost:** The wielder cannot put the one person down: after a strike they think of somebody they have been meaning to contact, for the rest of the night, and cannot decide whether to send the message.
+**Bearer cost:**The wielder cannot put the one person down: after a strike they think of somebody they have been meaning to contact, for the rest of the night, and cannot decide whether to send the message.
 
 ### M.A.W. Suit — Eleven Fifty-Nine's Veil
 

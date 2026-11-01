@@ -208,7 +208,7 @@ Escalation here is written in three figures that have nothing to do with the fra
 
 **Ability:** *Unweave Line* — the Skewer loosens a temporary dream reality where it has begun overwriting a current room, unpicking the construct a line at a time rather than tearing it. At full activation, *Let the Cloth End* dissolves one escalating woven construct across the line and returns its emotional material to the Loom's custody. It cannot decide which future was worth living, and using it to force a dreamer out or keep a dream alive knots the thread and ends activation.
 
-**Cost:** The wielder carries the frame's own residue, which is not grief but the unconfirmed: they begin describing their work in the future tense, and prolonged use brings involuntary weeping at moments that have nothing to do with sorrow. Rostered to the clock, as everything on this file is.
+**Bearer cost:**The wielder carries the frame's own residue, which is not grief but the unconfirmed: they begin describing their work in the future tense, and prolonged use brings involuntary weeping at moments that have nothing to do with sorrow. Rostered to the clock, as everything on this file is.
 
 ### M.A.W. Suit — The Dream Shroud
 
@@ -226,7 +226,7 @@ Escalation here is written in three figures that have nothing to do with the fra
 
 **Ability:** *Double Weave* — with both collar anchor knots held by separate waking and Dream witnesses, the Shroud keeps the wearer's current body and Dream identity distinct from a woven temporary reality; on this post the felt effect is that it blunts the frame's accuracy, so the future is seen as a set of facts rather than a room to walk into. Triggered *Anchor Knot*: when both anchors jointly invoke the return cue, the Shroud breaks one Dream bleed and sets the wearer back into current space. With either anchor treated as optional it gives only ordinary resistance, and cutting a knot leaves the wearer split between construct and room.
 
-**Cost:** The wearer goes flat to small pleasures, and the loss is recorded on this file in the wearer's own words rather than the medical office's: the first thing to go is the taste of a good morning, and the last is the ability to be pleased for somebody else. Both return within a week of coming off the rotation, and the file notes that no wearer has been able to say whether the flatness is the residue or the protection.
+**Bearer cost:**The wearer goes flat to small pleasures, and the loss is recorded on this file in the wearer's own words rather than the medical office's: the first thing to go is the taste of a good morning, and the last is the ability to be pleased for somebody else. Both return within a week of coming off the rotation, and the file notes that no wearer has been able to say whether the flatness is the residue or the protection.
 
 ### M.A.W. Stigma — The Dream Shuttle
 
@@ -240,7 +240,7 @@ Escalation here is written in three figures that have nothing to do with the fra
 
 **Ability:** *Weave Once* — with consent and double anchors, the Shuttle weaves one controlled illusion for care, training or safe route visualisation, built only from a personal memory the bearer voluntarily names. Passive *Loose Thread* senses where an imagined construct is trying to become permanent. The illusion cannot replace reality or sustain itself after its emotional source closes, and weaving from another person's memory without consent produces a blank illusion that absorbs the bearer's own current detail.
 
-**Cost:** The user contributes a personal memory to the dream.
+**Bearer cost:**The user contributes a personal memory to the dream.
 
 *Fourteen shuttles exist. Each was taken from the beam at the end of a finished length, never cut from the weave, and each is issued with the timed-rotation rule attached to it in writing.*
 

@@ -219,7 +219,7 @@ Escalation here is radius and recurrence, not force. Record the first trigger, t
 
 **Ability:** Void against the Soul. Struck targets recall, for about an hour, a period they had paid to have removed — fourteen strikes, and eleven of the fourteen were able to name the clerk who processed the erasure.
 
-**Cost:** Small nameless memories, which on this set are returned to the Archive's register as recovered rather than lost, and the Armoury has never been comfortable with that entry.
+**Bearer cost:**Small nameless memories, which on this set are returned to the Archive's register as recovered rather than lost, and the Armoury has never been comfortable with that entry.
 
 ### M.A.W. Suit — The Reflection Veil
 
@@ -237,7 +237,7 @@ Escalation here is radius and recurrence, not force. Record the first trigger, t
 
 **Ability:** Resistance to Void against the Soul, and the reason a second worker can stand at the line through a viewing without the fragments reaching them.
 
-**Cost:** The wearer feels faintly absent to themselves, and begins doubting which of their own memories were ever removed.
+**Bearer cost:**The wearer feels faintly absent to themselves, and begins doubting which of their own memories were ever removed.
 
 ### M.A.W. Stigma — The Reflection Shard
 
@@ -251,7 +251,7 @@ Escalation here is radius and recurrence, not force. Record the first trigger, t
 
 **Ability:** Shows the true reflection of a person—their hidden sorrow and secret wounds.
 
-**Cost:** The wearer sees the hidden pain of everyone they observe.
+**Bearer cost:**The wearer sees the hidden pain of everyone they observe.
 
 *Two in nine years, in both cases to a Warden who completed an authorised viewing and declined to have their own erased period read back to them afterwards. Eleven have asked to hear it; none has been given anything, and the Archive records that asking is reasonable.*
 

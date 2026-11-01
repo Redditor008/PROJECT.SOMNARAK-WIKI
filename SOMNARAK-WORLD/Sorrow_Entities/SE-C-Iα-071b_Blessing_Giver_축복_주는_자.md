@@ -176,7 +176,7 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 **Appearance:** A slim, pale hand-shaped focus that glows faintly gold when held.
 
 **Ability:** Restores HP and Composure to a target on hit; marks the target with a residual warmth that provides +2 to all attributes for the work cycle.
-**Cost:** The wielder feels a pull toward the Kind Healer chain. Extended use may result in an unsolicited blessing.
+**Bearer cost:**The wielder feels a pull toward the Kind Healer chain. Extended use may result in an unsolicited blessing.
 
 ### M.A.W. Suit — The Brightened Cloak
 
@@ -189,7 +189,7 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 - Void: 1.6 (Weak)
 - Weight: 0.8 (Warded)
 **Ability:** Grants resistance to Lament pressure. The cloak's glow can stabilize a worker's composure during difficult work cycles.
-**Cost:** The wearer feels increasingly warm, increasingly comfortable, increasingly reluctant to take the cloak off. The comfort is not free.
+**Bearer cost:**The wearer feels increasingly warm, increasingly comfortable, increasingly reluctant to take the cloak off. The comfort is not free.
 
 ### M.A.W. Stigma — The Mark
 
@@ -198,7 +198,7 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 
 **Effect:** +1 stat bonus when working the source entity
 **Ability:** Once per day, the bearer can heal a colleague for 15 HP. The healing is genuine and carries no mark.
-**Cost:** Each healing brings the bearer one step closer to the chain. After 12 healings, the Stigma transforms.
+**Bearer cost:**Each healing brings the bearer one step closer to the chain. After 12 healings, the Stigma transforms.
 
 ### M.A.W. Use Notes
 

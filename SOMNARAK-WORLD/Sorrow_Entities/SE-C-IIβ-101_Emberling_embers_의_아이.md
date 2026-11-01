@@ -219,7 +219,7 @@ The lower hem is singed into permanent glowing charcoal edges that never burn th
 
 **Ability:** *Insulating Embers* — Grants total immunity to freeze/frost debuffs and converts 15% of absorbed Lament damage into warm SP recovery.
 
-**Cost:** The cloak constantly leaves soot marks on hands and gear.
+**Bearer cost:**The cloak constantly leaves soot marks on hands and gear.
 
 ### M.A.W. Stigma — The Smoldering Charcoal Brooch
 
@@ -236,7 +236,7 @@ A dormant orange ember pulses deep within the fractured black mineral, glowing b
 
 **Ability:** *Warmth in Ash* — Bearer regains +1 SP every 5 seconds while in combat; immunity to hypothermia and shivering penalties.
 
-**Cost:** The skin beneath the brooch becomes warm and faintly discolored by fine ash.
+**Bearer cost:**The skin beneath the brooch becomes warm and faintly discolored by fine ash.
 
 *The Smoldering Charcoal Brooch is not manufactured and cannot be requisitioned. It has been conferred five times, in each case on a Warden who stayed past the end of their watch without logging the extra time and without mentioning it afterwards.*
 

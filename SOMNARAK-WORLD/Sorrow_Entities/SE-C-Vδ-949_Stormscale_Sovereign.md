@@ -189,7 +189,7 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 **Ability:** Deals Mixed damage, cycling through all four sorrows over each strike — body, mind, both, and soul in sequence. A wound that cannot be defended against with any single resistance.
 
-**Cost:** The wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest.
+**Bearer cost:**The wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest.
 
 ### M.A.W. Suit — The Two-Halves Mantle
 
@@ -206,7 +206,7 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 **Ability:** A mantle of two halves that spreads the wearer's resistance evenly across all four sorrows — uniquely, it has no weakness and no special strength, holding all elements at a steady, enduring rate.
 
-**Cost:** The wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element.
+**Bearer cost:**The wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element.
 
 ### M.A.W. Stigma — The Mismatched Eye
 
@@ -219,7 +219,7 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 **Ability:** An eye-pair that sees all four sorrows at once without confusion — granting the bearer, briefly, the Sovereign's own comprehensive sight, the ability to read any entity's full elemental nature at a glance.
 
-**Cost:** The bearer dreams, nightly, of being two things at once — and wakes uncertain, for a moment, which one they are.
+**Bearer cost:**The bearer dreams, nightly, of being two things at once — and wakes uncertain, for a moment, which one they are.
 
 *The Eye was harvested with the other two pieces and was not granted by the Sovereign. No work has ever been done on it, so no second Stigma can be drawn.*
 

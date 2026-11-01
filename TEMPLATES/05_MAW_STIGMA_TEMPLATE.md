@@ -77,6 +77,8 @@ Registry Code: `MAW-G-{{NUM}}-01`
 
 ### Wielder Cost (Brief)
 
+Filed as `**Bearer cost:**` in the dossier block. A Stigma has no Echo price — it is found, not bought — so a `**Cost:**` row on a Stigma is a mislabelled bearer cost every time.
+
 {{One sentence, derived from the Passive Effect or Ability directly above it, and used by no other stigma in the archive. “Brief” is a length, not a licence to be vague: it should be short, concrete and checkable.}}
 
 **Retired — do not use:** *The bearer moves a little slower.* · *The bearer's temper shortens.* · *The bearer weeps in their sleep.* · *The bearer occasionally forgets a word.* · *The wielder experiences a persistent low-grade headache with each use.* · any sentence already charged by another piece.

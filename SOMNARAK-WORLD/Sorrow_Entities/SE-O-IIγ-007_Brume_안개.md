@@ -221,7 +221,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Ability:** The strike lands on the Soul — on identity, on memory, on the sense of having somewhere to go back to. It carries the source's signature, and targets come out of it briefly unsure which way they came in.
 
-**Cost:** The wielder loses small memories with each use, always ones too minor to notice going: a turning, a face in a crowd, the name of a place they passed through once.
+**Bearer cost:**The wielder loses small memories with each use, always ones too minor to notice going: a turning, a face in a crowd, the name of a place they passed through once.
 
 ### M.A.W. Suit — The Hope Veil
 
@@ -239,7 +239,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Ability:** Grants resistance to Void pressure, shielding the Soul against erosion of identity and memory. It is rated for the interior of the bank and is the only piece in the set cleared for extended wear inside one.
 
-**Cost:** The wearer feels faintly absent to themselves, as though watching their own shift from a short distance behind it. The sensation persists for some hours after the piece is removed.
+**Bearer cost:**The wearer feels faintly absent to themselves, as though watching their own shift from a short distance behind it. The sensation persists for some hours after the piece is removed.
 
 ### M.A.W. Stigma — The Hope Lantern
 
@@ -253,7 +253,7 @@ The blade is lightweight and perfectly balanced three inches ahead of the guard.
 
 **Ability:** Creates a field of hope that counters despair-based effects. Its directional aid requires a real physical anchor; where none exists, the Lantern shows nothing. A next step toward rope, another person or an exit is not a promise of a safe journey home. The thumb-sized case has a dark frame and a small cord ring, with no opening for a wick; its bearer cannot supply a missing destination by tending it like an ordinary lamp.
 
-**Cost:** The flame draws from the user's own hope and dims as that hope is exhausted.
+**Bearer cost:**The flame draws from the user's own hope and dims as that hope is exhausted.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, as unpredictable as the fog's own course, and no procedure obliges one.*
 

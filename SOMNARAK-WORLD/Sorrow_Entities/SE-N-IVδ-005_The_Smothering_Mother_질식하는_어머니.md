@@ -201,7 +201,7 @@ The sheer mass of the blade delivers devastating chopping strikes capable of sev
 
 **Ability:** Deals Grudge damage to the Body and channels the Mother's signature as *Bring Them Back*. It triggers when a marked ally is fleeing, falling, or being pulled away, or when a hostile target tries to disengage; against a hostile, the Weapon clamps and drags it into point-blank reach, while for a willing ally it serves as an emergency tether. It cannot distinguish care from possession; repeated use on the same ally creates resistance and panic.
 
-**Cost:** Each use recalls a person who left without returning. After three uses in one encounter, a Composure check determines whether the bearer refuses nearby allies' retreat. The primary's field record also notes aching old wounds, severe bruising, and panic when allies move out of reach; track these signs separately.
+**Bearer cost:**Each use recalls a person who left without returning. After three uses in one encounter, a Composure check determines whether the bearer refuses nearby allies' retreat. The primary's field record also notes aching old wounds, severe bruising, and panic when allies move out of reach; track these signs separately.
 
 ### M.A.W. Suit — The Embrace Plate
 
@@ -221,7 +221,7 @@ Its overlapping plates curve inward like arms; when a marked ally within five me
 
 **Ability:** Grudge resistance protects the Body. *Closed Circle* absorbs a portion of a direct physical hit to a marked ally within five metres, reducing that ally's impact once per encounter; the wearer's movement speed drops one tier until the pressure is released through rest, Ferrehan, or the encounter's end.
 
-**Cost:** The wearer's reflexes dull while the armor is active, as if armored by resentment; each protected ally begins to feel like someone the wearer alone is responsible for saving.
+**Bearer cost:**The wearer's reflexes dull while the armor is active, as if armored by resentment; each protected ally begins to feel like someone the wearer alone is responsible for saving.
 
 ### M.A.W. Stigma — The Embrace
 
@@ -237,7 +237,7 @@ The overlapping hands fasten without a cord to a seam, belt loop, or tail attach
 
 **Ability:** The Stigma slightly redistributes impact toward the bearer when a nearby ally would be knocked down by a physical hit. Once per day, *Hold Fast* prevents one adjacent ally from being moved, pulled, or knocked down for ten seconds; it blocks voluntary as well as forced movement.
 
-**Cost:** The bearer becomes compelled to keep nearby people within sight. After *Hold Fast*, leaving the protected ally behind causes escalating Composure loss until a clear confirmation that the ally is safe.
+**Bearer cost:**The bearer becomes compelled to keep nearby people within sight. After *Hold Fast*, leaving the protected ally behind causes escalating Composure loss until a clear confirmation that the ally is safe.
 
 *Eleven Embraces have ever been given. The number is the number of times Soojin applied for a certificate, which the extraction wing has recorded as a coincidence, in those words, in a note that nobody in the chamber accepts.*
 

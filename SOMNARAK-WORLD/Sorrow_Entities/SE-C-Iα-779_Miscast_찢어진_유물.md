@@ -210,7 +210,7 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 **Ability:** Strikes land harder against anything incomplete — a part-built wall, a half-made tool, a structure under repair. Against finished work it is the weakest weapon in the armoury and is issued on that understanding.
 
-**Cost:** It resists every completed action. The wielder's follow-through drags on anything they are about to finish, and the drag is strongest on the last movement of a task.
+**Bearer cost:**It resists every completed action. The wielder's follow-through drags on anything they are about to finish, and the drag is strongest on the last movement of a task.
 
 ### M.A.W. Suit — The Torn Plate
 
@@ -228,7 +228,7 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 **Ability:** Resists Grudge pressure. Issued to the bench officer, who stands closest to the drift for the longest and may not step back during a reading.
 
-**Cost:** Reflexes dull and the wearer becomes slow to volunteer. It passes within the day and is logged because two wearers did not report a fault they had seen.
+**Bearer cost:**Reflexes dull and the wearer becomes slow to volunteer. It passes within the day and is logged because two wearers did not report a fault they had seen.
 
 ### M.A.W. Stigma — The Torn Charm
 
@@ -242,7 +242,7 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 **Ability:** The charm pulls, faintly and continuously, toward whatever in the room is unfinished. It cannot be aimed, has no strength worth measuring, and is used by three Wardens as a way of finding what they have left undone.
 
-**Cost:** The bearer's temper shortens, specifically and only toward people who waste prepared work. Colleagues describe it as fair and unpleasant in equal measure.
+**Bearer cost:**The bearer's temper shortens, specifically and only toward people who waste prepared work. Colleagues describe it as fair and unpleasant in equal measure.
 
 *The charm has been granted four times, each to a worker who closed a session with the gap wider than they found it and wrote that down without softening it. The holding records the pattern and has declined to call it a reward, noting that the entity is the last thing in the archive anyone should learn to please.*
 

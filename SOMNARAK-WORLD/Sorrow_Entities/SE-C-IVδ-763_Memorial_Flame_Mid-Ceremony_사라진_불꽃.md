@@ -189,7 +189,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Ability:** *Soul-Seeker Conflagration* — Unleashes tracking purple flame wisps across Range 4 (Long). The wisps home onto target weak points, bypassing cover to inflict heavy Lament damage that erodes Composure and triggers panic buildup.
 
-**Cost:** The wielder watches shadows for the flare in rooms where the bodkin was never drawn, and cannot tell afterwards whether the marking went out with the wisp.
+**Bearer cost:**The wielder watches shadows for the flare in rooms where the bodkin was never drawn, and cannot tell afterwards whether the marking went out with the wisp.
 
 **Bodkin return:** The individual Weapon entry requires the bearer, trigger, source response, cost and unresolved detail to survive into attribution review before cleaning or rest. Its first warning is describing the evacuation’s unfinished mourning as personal history, beyond the involuntary weeping already priced here. A named witness states the source title and event during relinquishment, without refunding the cost. That is an equipment shutdown record, not authority to speak in the vault, confront the Place or perform the interrupted ceremony. The source event is not completed by reciting its description.
 
@@ -210,7 +210,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Ability:** Everything this holding puts out is Lament, and the shroud is what it breaks against. What it keeps intact is the Mind — the steadiness of feeling, and the will. The wing keeps it for the rite that never finished.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Bearer cost:**The wearer becomes numb to minor joys.
 
 **Shroud review:** The Suit’s record adds source sorrow becoming autobiographical to the loss of minor joys. Preserve those as different observations: the bearer may cease noticing pleasure without yet claiming the evacuation as their own past. Attribution precedes cleaning or rest, and witnessed relinquishment does not erase the toll. Record equipment failure without transferring the counsellors’ confidential account into the entry register. The Shroud’s protection of emotional steadiness cannot stand in for the mandatory counsellor contact after exposure or make joining the scene permissible.
 
@@ -227,7 +227,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Ability:** Reveals hidden grief in a darkened space.
 
-**Cost:** The user carries the grief revealed after the light fades.
+**Bearer cost:**The user carries the grief revealed after the light fades.
 
 **Wick attribution:** The Stigma file treats claiming the scattered mourners’ event in first person as its first failure sign; a source response recurring outside contact is escalation. Carry the unresolved detail with the bearer, trigger, response and cost into maintenance review instead of filling the gap with a guessed identity for the dead. Its named-witness shutdown preserves the record while leaving the revealed grief’s cost paid. Neither seeing hidden grief nor retaining it supplies a right to disclose counselling content, announce names before entry or relight the absent fire.
 

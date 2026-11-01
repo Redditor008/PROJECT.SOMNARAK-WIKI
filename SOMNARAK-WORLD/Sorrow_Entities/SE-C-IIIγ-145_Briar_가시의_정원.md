@@ -241,7 +241,7 @@ Petrified rose briars spiral across the iron chain links, reinforcing key impact
 
 **Ability:** *Reciprocal Barbs* — Reflects 30% of incoming melee physical damage back to the attacker as skewer Grudge laceration.
 
-**Cost:** The wearer experiences continuous minor prickling against their ribs and shoulders.
+**Bearer cost:**The wearer experiences continuous minor prickling against their ribs and shoulders.
 
 ### M.A.W. Stigma — The Piercing Briar Coronet
 
@@ -258,7 +258,7 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 
 **Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Resilience during sustained engagements.
 
-**Cost:** The coronet leaves small red puncture dots across the hairline when unequipped.
+**Bearer cost:**The coronet leaves small red puncture dots across the hairline when unequipped.
 
 *The Piercing Briar Coronet is conferred, never issued and never requested. It has gone out three times, and every time to a worker who was gripped and did not pull free.*
 

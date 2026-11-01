@@ -215,7 +215,7 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Happy Mask's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Bearer cost:**The wielder loses small, nameless memories with each use.
 
 ### M.A.W. Suit — The Joy Veil
 
@@ -233,7 +233,7 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against The Happy Mask's kind of pressure.
 
-**Cost:** The wearer feels faintly absent to themselves.
+**Bearer cost:**The wearer feels faintly absent to themselves.
 
 ### M.A.W. Stigma — The Joy Facade
 
@@ -247,7 +247,7 @@ There is no event pattern to describe. The mask does not move, has never moved, 
 
 **Ability:** Makes the wearer appear cheerful and emotionally stable.
 
-**Cost:** Prevents genuine expression of sadness while worn.
+**Bearer cost:**Prevents genuine expression of sadness while worn.
 
 *The Joy Facade is neither made nor requisitioned. Three times it has been placed on a Warden who put their own name on the room list for a reading that came back warm.*
 

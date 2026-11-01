@@ -210,7 +210,7 @@ The thurible vents continuous streams of scalding sulfurous steam that burn orga
 
 **Ability:** Grudge damage against the Body, delivered as heat and weight. The censer carries the Cage's anger rather than channeling it: the steam is the holding's own store, and it does not distinguish between the person who was wronged and the person holding the chain.
 
-**Cost:** The bearer's old injuries ache in the order they were received, and the chain leaves a bruise across the palm that the armoury has learned to expect. Prolonged use leaves both, and the file records the pairing rather than treating either as a complaint.
+**Bearer cost:**The bearer's old injuries ache in the order they were received, and the chain leaves a bruise across the palm that the armoury has learned to expect. Prolonged use leaves both, and the file records the pairing rather than treating either as a complaint.
 
 **Release discipline:** The exact Weapon record requires a known person to be released, a real safe route and an authority or support group ready to receive them. It cannot determine legal innocence or turn retaliation into liberation. Without a safe route it refuses the release and returns pressure to the bearer; every claimed release remains subject to external review. Keep that limit without pretending the unresolved Fang and Censer descriptions document a transformation.
 
@@ -232,7 +232,7 @@ Its case carries one condition in the wearer's own hand: the plate may never be 
 
 **Ability:** Absorbs and reflects rage-based attacks.
 
-**Cost:** The wearer feels every unjust confinement represented by the shield.
+**Bearer cost:**The wearer feels every unjust confinement represented by the shield.
 
 ### M.A.W. Stigma — The Cage Charm
 
@@ -248,7 +248,7 @@ It is issued with a partner and never alone: a candidate accepts an oversight pa
 
 **Ability:** A minor boon borrowed from the holding's patience: the charm holds one grievance for the bearer without letting it harden and gives it back when asked. It cannot hold two.
 
-**Cost:** The bearer can set one grievance down for a while; the second one the charm will not take, and it is always the second one that follows them home.
+**Bearer cost:**The bearer can set one grievance down for a while; the second one the charm will not take, and it is always the second one that follows them home.
 
 *The Cage Charm is not manufactured and cannot be requested; the object confers it rarely, and the armoury has never identified what distinguishes the sessions that produce one.*
 

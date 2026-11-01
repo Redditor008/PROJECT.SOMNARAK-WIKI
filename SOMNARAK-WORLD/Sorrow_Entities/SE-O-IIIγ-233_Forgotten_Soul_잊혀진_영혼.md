@@ -189,7 +189,7 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 
 **Ability:** Lament against the Mind. What it opens is the recollection of every person the target has counted without naming — queues, casualty figures, work parties — and for most Wardens the list runs longer than they expect and takes about a day to stop arriving.
 
-**Cost:** The wielder weeps involuntarily, and stops being able to read a casualty total without working out who is inside the round number.
+**Bearer cost:**The wielder weeps involuntarily, and stops being able to read a casualty total without working out who is inside the round number.
 
 ### M.A.W. Suit — The Soul Shroud
 
@@ -207,7 +207,7 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 
 **Ability:** Turns Lament aside from the mind. The suit is what lets a Warden walk the full track beside the figure without reaching for something to call it.
 
-**Cost:** The wearer goes numb to minor joys, and begins to find their own name sounding arbitrary when spoken.
+**Bearer cost:**The wearer goes numb to minor joys, and begins to find their own name sounding arbitrary when spoken.
 
 ### M.A.W. Stigma — The Soul Thread
 
@@ -221,7 +221,7 @@ The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Opera
 
 **Ability:** Keeps a fading identity connected to the living.
 
-**Cost:** The wearer hears the forgotten person's grief during sleep.
+**Bearer cost:**The wearer hears the forgotten person's grief during sleep.
 
 *Eleven in nine years, every one to a Warden who walked the track without naming the figure. Not one has gone to anybody who used a working label for it in the log, and the station's log still shows four such labels, left in place deliberately as a record of what does not work.*
 

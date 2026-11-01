@@ -210,7 +210,7 @@ There is no escalation pattern here and this section exists to say what replaces
 
 **Ability:** Weight against the Han — the strike lands on what the target is still carrying rather than on the body, and the Armoury's own note is that the maul adds the weight of a bank to a blow and the River does nothing else to anybody.
 
-**Cost:** The wielder feels progressively heavier through a shift and does not report it; the second worker's log is the record, not the wielder's account. Long service on the maul leaves bearers carrying weight that the medical office can measure and cannot remove.
+**Bearer cost:**The wielder feels progressively heavier through a shift and does not report it; the second worker's log is the record, not the wielder's account. Long service on the maul leaves bearers carrying weight that the medical office can measure and cannot remove.
 
 ### M.A.W. Suit — The River Mantle
 
@@ -228,7 +228,7 @@ There is no escalation pattern here and this section exists to say what replaces
 
 **Ability:** Weight resistance of a grade the archive issues to nobody else, and the reason is in the wearers: it is worn by readers who hold position at open water, and the mantle is what keeps the load off the Han long enough for an interval to be stood.
 
-**Cost:** The wearer carries a constant low fatigue, and it is slower to lift than the shift that caused it. Readers on the mantle are retired early for dreams, which is the office's whole vocabulary for what the current leaves behind.
+**Bearer cost:**The wearer carries a constant low fatigue, and it is slower to lift than the shift that caused it. Readers on the mantle are retired early for dreams, which is the office's whole vocabulary for what the current leaves behind.
 
 ### M.A.W. Stigma — The River Stone
 
@@ -242,7 +242,7 @@ There is no escalation pattern here and this section exists to say what replaces
 
 **Ability:** Absorbs sorrow from the surrounding environment.
 
-**Cost:** The stone becomes heavier with every sorrow absorbed.
+**Bearer cost:**The stone becomes heavier with every sorrow absorbed.
 
 *The Coin is granted by the River and not made. Every bearer dreams the deaths of strangers, nightly, without exception, and the Directorate quietly doubles their counselling allocation rather than asking any of them to surrender it.*
 

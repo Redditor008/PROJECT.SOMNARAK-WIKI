@@ -211,7 +211,7 @@ Dense layers of compacted corvid down beneath the woolen shell cushion incoming 
 
 **Ability:** *Karmic Counterweight* — Reduces incoming Grudge damage by 25% when the attacker has dealt damage within the last 3 seconds.
 
-**Cost:** The coat grows physically heavier as the wielder witnesses allies taking damage.
+**Bearer cost:**The coat grows physically heavier as the wielder witnesses allies taking damage.
 
 ### M.A.W. Stigma — The Suspended Balance Scale
 
@@ -228,7 +228,7 @@ The delicate brass needle tilts continuously between the two pans in response to
 
 **Ability:** *Impartial Reckoning* — Increases critical hit rate by +10% against targets with higher maximum health than the bearer.
 
-**Cost:** The needle's constant movement creates a faint, persistent prickling sensation over the breastbone.
+**Bearer cost:**The needle's constant movement creates a faint, persistent prickling sensation over the breastbone.
 
 *Nobody makes or requisitions the Scale-Stigma. It has been conferred 6 times, every one of them on a worker who sat out a whole watch and never once asked where they stood on the scale.*
 

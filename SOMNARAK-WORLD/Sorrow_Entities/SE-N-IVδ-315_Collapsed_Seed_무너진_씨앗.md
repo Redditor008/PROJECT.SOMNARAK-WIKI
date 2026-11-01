@@ -228,7 +228,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Collapsed Seed's lament signature in the strike.
 
-**Cost:** The wielder is shown their own abandoned work, completed, in full detail. Involuntary weeping is listed in older ledgers as the cost and is not; it is a symptom, and the armoury note asks that the distinction be respected because the real cost does not present at the time.
+**Bearer cost:**The wielder is shown their own abandoned work, completed, in full detail. Involuntary weeping is listed in older ledgers as the cost and is not; it is a symptom, and the armoury note asks that the distinction be respected because the real cost does not present at the time.
 
 ### M.A.W. Suit — Collapsed Seed Shroud
 
@@ -246,7 +246,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Collapsed Seed's kind of pressure.
 
-**Cost:** The wearer stops beginning things. Not finishing — beginning. Three long-term wearers filed no new proposal of any kind during their term and all three described the period afterwards as restful.
+**Bearer cost:**The wearer stops beginning things. Not finishing — beginning. Three long-term wearers filed no new proposal of any kind during their term and all three described the period afterwards as restful.
 
 ### M.A.W. Stigma — Collapsed Seed Core
 
@@ -260,7 +260,7 @@ Designed for close-quarters grappling and underhand thrusts, the dagger slips ea
 
 **Ability:** Generates a protective growth around the user.
 
-**Cost:** The growth feeds on the user's memories of future possibilities.
+**Bearer cost:**The growth feeds on the user's memories of future possibilities.
 
 *The core-stone has been granted four times, and on each occasion the recipient had, that quarter, filed a written report on something they had looked for and failed to find. The holding records the pattern without claiming to understand it and without putting it forward as an incentive.*
 

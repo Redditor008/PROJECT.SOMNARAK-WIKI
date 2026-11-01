@@ -191,7 +191,7 @@ There is no escalation here, and the corridor stopped writing as though there we
 
 **Ability:** Lament damage to the Mind. The blade is issued for Zone B work generally and has never been drawn in the corridor, where the walls are not to be touched for any reason.
 
-**Cost:** Involuntary weeping, usually hours later and usually in the wrong place. Seven wielders have been excused interview duty on it, which is this facility's only standing accommodation of the kind.
+**Bearer cost:**Involuntary weeping, usually hours later and usually in the wrong place. Seven wielders have been excused interview duty on it, which is this facility's only standing accommodation of the kind.
 
 **Phrase boundary:** The Requiem’s individual record binds the wielder to repeat the last confirmed lyric and keep the lost part silent. A missing note is not a target, and an invented ending is the first false cut. Its shutdown sheathes the blade at the break without adding a line. None of those instructions permits drawing it against the corridor: the local watch keeps the blade undrawn and the plaster untouched. The delayed weeping belongs on the bearer’s return record even when the night’s transcription is complete.
 
@@ -211,7 +211,7 @@ There is no escalation here, and the corridor stopped writing as though there we
 
 **Ability:** Wards Lament pressure on the Mind. Required dress for the transcriber on any night following a count above sixty.
 
-**Cost:** A flattening of small pleasures that lasts about as long as the posting. The corridor records it because the shroud is worn by the one person in the building whose work is to write down other people's last half-sentences.
+**Bearer cost:**A flattening of small pleasures that lasts about as long as the posting. The corridor records it because the shroud is worn by the one person in the building whose work is to write down other people's last half-sentences.
 
 **Listener care:** The Shroud’s record distinguishes listening from understanding; surviving the sequence is not proof of either a recovered history or a complete statement. Breath that cannot stop with the phrase and cloth that supplies an ending are failure signs. The shroud never covers a fresco. Removal is during the natural silence after the confirmed phrase, not mid-note, and relief still occurs only between songs. At noon it hangs in open air while the wearer listens to a complete living song chosen by that singer, not selected as a prescribed treatment.
 
@@ -227,7 +227,7 @@ There is no escalation here, and the corridor stopped writing as though there we
 
 **Ability:** People in distress near the bearer find their own words more easily and finish more of their sentences. The interview register has asked three times for a bearer to be posted to the statement rooms and has been refused three times, on the ground that a statement finished because of a charm is not a statement the giver chose to finish.
 
-**Cost:** The bearer hears, in ordinary speech, the exact moment a person decides not to finish a sentence. Three bearers have resigned from interview duties on that ground and all three resignations are attached here rather than in a personnel file.
+**Bearer cost:**The bearer hears, in ordinary speech, the exact moment a person decides not to finish a sentence. Three bearers have resigned from interview duties on that ground and all three resignations are attached here rather than in a personnel file.
 
 *The eleven wall stones were granted on nights when the transcriber wrote a break word that named a serving officer, and did not soften it.*
 

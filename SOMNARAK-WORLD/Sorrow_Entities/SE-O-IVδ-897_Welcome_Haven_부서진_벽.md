@@ -189,7 +189,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Ability:** An eight-foot breaching tool that opens barricaded doors and splits armoured sorrow carapaces — leverage first, then the pneumatic hammer, which is to say it takes walls apart for a living.
 
-**Cost:** Old injuries ache and faint bruising rises along the lines of them. Nothing new is broken; the body simply reopens every complaint it had already settled, which is the pike's entire argument in miniature.
+**Bearer cost:**Old injuries ache and faint bruising rises along the lines of them. Nothing new is broken; the body simply reopens every complaint it had already settled, which is the pike's entire argument in miniature.
 
 **Binding and return:** The individual Weapon record requires the bearer to name the collapse that left residents exposed and accept the admission condition. A first-person account of that event is a corrosion sign, not authority to speak for the households. Record the trigger, response, cost and unresolved detail before attribution review and rest. At shutdown a named witness states Welcome Haven’s title and event while the bearer relinquishes the pike. Its capacity to dismantle a barricade never authorizes Pugnahan against this holding or makes a replacement wall a containment measure.
 
@@ -209,7 +209,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Ability:** Absorbs one breach impact.
 
-**Cost:** The shield remembers every person it failed to protect.
+**Bearer cost:**The shield remembers every person it failed to protect.
 
 **Spent protection:** Enter whether the Barrier has already taken its one breach impact before issue; the resistance figures do not renew that absorption. The individual suit record calls for attribution review and witness-led relinquishment, but neither cleaning, rest nor shutdown clears the remembered failures or supplies a second impact. The wearer’s account becoming autobiographical is a separate corrosion sign from the plate’s memory. Keep both on the return sheet rather than interpreting a quiet bearer as a restored shield.
 
@@ -225,7 +225,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Ability:** The charm reveals what a relied-on structure would leave exposed—the people and rooms behind it—rather than certifying another structure safe. Bearers experience that revelation as early warning, often about failures nobody present has the authority or budget to fix.
 
-**Cost:** The bearer sees the people behind the structure they are standing behind and stops being able to promise anybody that it will hold.
+**Bearer cost:**The bearer sees the people behind the structure they are standing behind and stops being able to promise anybody that it will hold.
 
 *The Broken Charm is given, not taken. It has appeared only on workers who stood before this entity unshielded and named a failure they were personally answerable for, and no procedure has produced one deliberately.*
 

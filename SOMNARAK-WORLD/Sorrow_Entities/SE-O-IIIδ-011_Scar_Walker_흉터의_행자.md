@@ -201,7 +201,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Grudge damage to the body, delivered by a weapon of solidified anger. The chalice carries the Walker's grievance against the living into the strike and bites deepest on anyone who has walked over a grave without knowing it.
 
-**Cost:** Old wounds ache, in the order they were received, and faint bruising rises along the same lines.
+**Bearer cost:**Old wounds ache, in the order they were received, and faint bruising rises along the same lines.
 
 ### M.A.W. Suit — The Occlusihan Plate
 
@@ -219,7 +219,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Turns Grudge aside from the body, which is what the Walker's weapon delivers and the only pressure it has ever applied. The plate is rated for a blow that has been struck four times in the whole record.
 
-**Cost:** Reflexes dull. The wearer becomes slow to step aside and slow to give way, which on this post is the precise behaviour that provokes the entity.
+**Bearer cost:**Reflexes dull. The wearer becomes slow to step aside and slow to give way, which on this post is the precise behaviour that provokes the entity.
 
 ### M.A.W. Stigma — The Occlusihan Blade
 
@@ -233,7 +233,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Delivers devastating damage to those who have wronged others.
 
-**Cost:** The wielder experiences the Occlusihan's fury as if it were their own.
+**Bearer cost:**The wielder experiences the Occlusihan's fury as if it were their own.
 
 *The blade is not manufactured. The Walker offers one to a visitor who left the site as they found it, and it has never offered one to a team that entered under suppression orders.*
 

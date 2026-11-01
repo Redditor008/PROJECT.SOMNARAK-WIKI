@@ -190,7 +190,7 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 
 **Ability:** Grudge damage to the Body. The blade will not release its charge until the wielder has fixed on one target and is looking at them; swung at a crowd or at nothing it does ordinary blade damage and nothing else, which the armoury has documented and never explained.
 
-**Cost:** Old wounds ache and faint bruising appears where the wielder was injured years before. It fades in a week. Two wielders have asked in writing that the effect be left alone.
+**Bearer cost:**Old wounds ache and faint bruising appears where the wielder was injured years before. It fades in a week. Two wielders have asked in writing that the effect be left alone.
 
 **Binding check:** The Fang’s individual record requires the bearer to name the conflict route and accept “Map the trace and stop repeating the grievance.” It records first-person identification with that history as the first failure sign, not as improved attribution. Record the wielder, trigger, source response, cost and unresolved detail before cleaning or resting the blade. A named witness states the source title and event while the wielder relinquishes it; that shutdown does not refund the old pain. These item controls do not make Pugnahan valid against the Place.
 
@@ -210,7 +210,7 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 
 **Ability:** Resists Grudge pressure on the Body. Issued to the circuit walker, who is alone on the route for the length of the measurement and has nobody to hand the plate to if it becomes intolerable.
 
-**Cost:** Dulled reflexes for about two days, which the medical wing has measured and found to be real and modest. Wearers describe it as the slowness of having already decided not to react.
+**Bearer cost:**Dulled reflexes for about two days, which the medical wing has measured and found to be real and modest. Wearers describe it as the slowness of having already decided not to react.
 
 **Attribution review:** The Plate’s individual record distinguishes protection of the Body from accepting the source event as the wearer’s own. Describing the feud in first person is its warning sign; repeating the source response away from contact is its recorded escalation. Cleaning or rest follows attribution review, not merely the end of the circuit. For removal, a named witness states Anger Underfoot’s title and formation event while the wearer relinquishes the Plate. The item record does not promise that removal cancels the measured reflex cost.
 
@@ -226,7 +226,7 @@ Nothing escalates on the cobbles. The trace has advanced for a hundred and ten y
 
 **Ability:** Shows who walked a route angry and in what order. It does not show why and it does not show faces, and the armoury's note records that this is a property of the holding and not a defect of the piece.
 
-**Cost:** The bearer carries the anger of everyone who walked the route, with no sense of what any of it was about. It lifts when the token comes off and three bearers have said the lifting is worse than the carrying.
+**Bearer cost:**The bearer carries the anger of everyone who walked the route, with no sense of what any of it was about. It lifts when the token comes off and three bearers have said the lifting is worse than the carrying.
 
 *The mark has been granted 5 times, every one of them to a worker who put their own name to an answer they could have sent out under a department's. 2 of them were told by their supervisors that they had exposed themselves for nothing, and both agreed, and both went and did it again. The holding writes the pattern down and will not turn it into a criterion.*
 

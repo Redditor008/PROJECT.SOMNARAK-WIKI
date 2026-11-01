@@ -199,7 +199,7 @@ Appearance : A standardized pneumatic training carbine constructed from reinforc
 The weapon fires non-lethal compressed sorrow-pellets through an eight-groove rifled barrel. Its side gauge displays pressure levels calibrated in Sorrow Echo bars with an automatic safety release near the trigger.
 
 **Ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new specialists how M.A.W. weapons feel in the hand.
-**Cost:** None meaningful. The baton is inert enough for extended carry without toll.
+**Bearer cost:**None meaningful. The baton is inert enough for extended carry without toll.
 
 ### M.A.W. Suit — Standard Training Vest
 
@@ -215,7 +215,7 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Appearance:** A lightweight vest of woven Han-crystal thread, pale blue. Comfortable. Standard issue.
 
 **Ability:** Grants minor resistance to Lament pressure. Like the baton, it is a training tool — it teaches the body what M.A.W. armor feels like.
-**Cost:** None meaningful at this grade.
+**Bearer cost:**None meaningful at this grade.
 
 ### M.A.W. Stigma — The Warm Stone
 
@@ -227,7 +227,7 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Appearance:** A small, smooth, warm stone of pale blue Han-crystal that fits in the palm. It hums faintly.
 
 **Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
-**Cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
+**Bearer cost:**None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
 
 *Nothing on this bench manufactures a stigma. Kind Echo gives one after a successful work, at random, and the giving is the whole of the transaction: no requisition, no schedule, no request.*
 

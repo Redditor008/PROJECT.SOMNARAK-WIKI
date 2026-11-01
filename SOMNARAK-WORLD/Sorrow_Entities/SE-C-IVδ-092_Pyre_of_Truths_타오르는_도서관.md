@@ -199,7 +199,7 @@ Escalation here has a signature the sheet already names: the first heat gathers 
 
 **Ability:** Deals heavy Grudge damage, attacking the Body (physical form, structural integrity). Witness's Flame channels the Pyre's incendiary sorrow to burn through active attempts to seize, destroy, or silence verified records.
 
-**Cost:** The wielder's old scars and burn marks ache; prolonged use leaves severe heat blisters and crimson bruising across the bearer's arms.
+**Bearer cost:**The wielder's old scars and burn marks ache; prolonged use leaves severe heat blisters and crimson bruising across the bearer's arms.
 
 **Lance accountability:** The individual Weapon requires an action record before cooling, not a second confrontation to justify the first. Preserve the named record or person, the reviewer and the point at which the threat ended beside the bearer’s old-injury symptoms. Its remaining Fang and Skewer wording is a documented terminology hold; it does not grant a second form or another attack pattern. The filed account establishes custody of an action report, not provenance for a book that appeared in the stacks. No weapon authorization admits a sealed transcript to the public Archive.
 
@@ -219,7 +219,7 @@ Escalation here has a signature the sheet already names: the first heat gathers 
 
 **Ability:** Grants resistance to Grudge damage, and what it covers is the Body (physical form, structural integrity). Worn against Pyre of Truths’s kind of pressure, the plate behaves as the library does: it lets the heat reach the wearer’s judgement while the pages underneath stay whole.
 
-**Cost:** The wearer’s reflexes go slow, in the manner of a reader who has taken in an argument and has not yet worked out the answer to it.
+**Bearer cost:**The wearer’s reflexes go slow, in the manner of a reader who has taken in an argument and has not yet worked out the answer to it.
 
 **Plate withdrawal:** The individual Suit’s transfer trial failed when the wearer delayed leaving to make an opponent understand. That is the useful comparison for slow reflexes here: log the observer’s end condition and whether withdrawal followed it, rather than accepting continued resistance as permission to remain. Its maintenance record uses a non-classified document with a known provenance. Do not substitute a sealed Pyre transcript merely because the wearer knows it to be true. The reviewer can end the defense; that authority does not create the custody chain the Archive still lacks.
 
@@ -235,7 +235,7 @@ Escalation here has a signature the sheet already names: the first heat gathers 
 
 **Ability:** Reveals one truth hidden by the city.
 
-**Cost:** Burns after reading; the reader carries the knowledge permanently.
+**Bearer cost:**Burns after reading; the reader carries the knowledge permanently.
 
 **Page consequence hold:** Before opening, the individual Stigma permits return to the blank-state folio; after reading, it records no physical removal and requires consequence review. Keep those stages distinct when a bearer asks to give the Page back. Its named recipient and disclosure duties stand beside this primary’s sealed-transcription restriction, not above it. Record any requested disclosure and the authority that refused it without manufacturing an admissible provenance. Park’s item history says the content could not be fully repeated, while this primary’s testimony says it could; neither account is completed from the other.
 

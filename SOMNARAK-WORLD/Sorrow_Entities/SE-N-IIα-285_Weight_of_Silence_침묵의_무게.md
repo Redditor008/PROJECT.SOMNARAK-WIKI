@@ -188,7 +188,7 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Ability:** Weight against the Han. Struck targets cannot finish a sentence for some minutes — they start, stop, and do not try again — and the fourteen on file all described the experience as familiar.
 
-**Cost:** The wielder speaks less. The Armoury counts words at issue and at return and the reduction has run between a fifth and a half.
+**Bearer cost:**The wielder speaks less. The Armoury counts words at issue and at return and the reduction has run between a fifth and a half.
 
 **Separate weapon records:** The local clapperless bronze bell and its pressure wave remain the Memorial-Bell description. The linked Silence Maul instead has a mouth-shaped recess, takes one offered word and grounds after acting on an obstruction; the field word was “door,” not a request for the surrounding account. Its confession-strike and loaded-assumption warnings belong to that Maul record. Do not fit a recess to the bell, transfer the Maul’s Single pattern to its wave, or use equal core values as a transformation account. The source has no body to strike, which does not prevent extracted equipment having a physical form.
 
@@ -208,7 +208,7 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Ability:** Resistance to Weight against the Han, and the reason a Warden can hold the chair for a full shift without going quiet themselves.
 
-**Cost:** A constant low fatigue, and the habit of letting other people finish first — always, including when they are wrong.
+**Bearer cost:**A constant low fatigue, and the habit of letting other people finish first — always, including when they are wrong.
 
 **Optional quiet:** The matte black Han-weave mantle leaves the mouth uncovered. Its linked field account reduced pressure before the silent group’s first word; protection is not conditional on making the wearer talk. Keep a listener and a private exit available. A closed exit until speech is given, praise of silence that makes speech disloyal, or the wearer disappearing from shared attention are failure warnings. Hang it in a room with an open exit and no questions, cleared after somebody enters and leaves without explanation. The wearer removes it personally unless help is requested; fatigue does not grant another person control of that choice.
 
@@ -224,7 +224,7 @@ Striking the outer rim with an Specialist's fist produces no audible sound wave,
 
 **Ability:** Prevents external sound from disturbing the wearer.
 
-**Cost:** The wearer feels every unspoken word nearby.
+**Bearer cost:**The wearer feels every unspoken word nearby.
 
 *Twenty-two weights exist and nineteen were granted after cycles in which the Warden spoke first. The file records the pattern and declines to call it a rule.*
 

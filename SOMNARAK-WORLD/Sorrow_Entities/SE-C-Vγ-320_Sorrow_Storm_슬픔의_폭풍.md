@@ -187,7 +187,7 @@ The Storm does not escalate in the sense this section is written for: it arrives
 
 **Ability:** Weight against the Han — the strike lands on what the target is carrying and adds the weight of a shelter door to it. The Armoury's note is that the piece channels the Storm's signature and that the Storm itself does nothing to anybody through it.
 
-**Cost:** The wielder feels progressively heavier across a shift and does not report it. The second worker's log is the record on this piece, and the maul is weighed at the door before and after every use.
+**Bearer cost:**The wielder feels progressively heavier across a shift and does not report it. The second worker's log is the record on this piece, and the maul is weighed at the door before and after every use.
 
 ### M.A.W. Suit — The Storm Shield
 
@@ -205,7 +205,7 @@ The Storm does not escalate in the sense this section is written for: it arrives
 
 **Ability:** Protects against Storm pressure.
 
-**Cost:** The shield absorbs the Storm's sorrow and becomes heavier.
+**Bearer cost:**The shield absorbs the Storm's sorrow and becomes heavier.
 
 ### M.A.W. Stigma — The Storm Charm
 
@@ -219,7 +219,7 @@ The Storm does not escalate in the sense this section is written for: it arrives
 
 **Ability:** The bearer reads falling pressure as information rather than as dread, which is the only condition under which anybody works a wall and keeps thinking — and it is the reason the charms are issued by the ring rather than by the Armoury.
 
-**Cost:** The bearer stops being afraid of falling pressure, which is the point, and also the reason they are the last person to leave a wall that is going.
+**Bearer cost:**The bearer stops being afraid of falling pressure, which is the point, and also the reason they are the last person to leave a wall that is going.
 
 *Twenty-two charms exist, each struck from a barometer that failed on Storm duty. They are issued by the ring and not by the Directorate, and every one carries its instrument's final reading on the back.*
 

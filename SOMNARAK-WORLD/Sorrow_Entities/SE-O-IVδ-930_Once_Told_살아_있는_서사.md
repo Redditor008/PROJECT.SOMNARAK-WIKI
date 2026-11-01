@@ -163,7 +163,7 @@ Observation is the silent inventory walk and photographic comparison; endurance 
 
 **Damage:** Lament 11–18 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Struck targets afterward describe the blow in far more detail than they witnessed — accurately, in all fourteen cases, including details from behind them.
-**Cost:** The wielder's account of a strike is fuller than what they saw of it, and nothing afterwards tells them which parts they were present for.
+**Bearer cost:**The wielder's account of a strike is fuller than what they saw of it, and nothing afterwards tells them which parts they were present for.
 
 ### M.A.W. Suit — Once Told's Veil
 

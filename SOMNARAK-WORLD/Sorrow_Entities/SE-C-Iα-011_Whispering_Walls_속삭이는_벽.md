@@ -196,7 +196,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the site's signature: the struck do not hear a voice they can name, they hear the beginning of a confidence that stops once they turn to it.
 
-**Cost:** The bearer takes on grief that has never been shed, and cries without an account of whose it is; on a long issue the weeping becomes ordinary and stops being reported. The charge reverses on return, which the file records as the one mercy in the set.
+**Bearer cost:**The bearer takes on grief that has never been shed, and cries without an account of whose it is; on a long issue the weeping becomes ordinary and stops being reported. The charge reverses on return, which the file records as the one mercy in the set.
 
 ### M.A.W. Suit — The Listening Shroud
 
@@ -214,7 +214,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Turns Lament aside from the Mind — emotional stability and willpower — which is the pressure this site applies and the only kind it has ever applied. It is the wing's least-issued suit and its most-returned, because it works by making the wearer less able to hear what they came to listen for.
 
-**Cost:** The wearer goes numb to small pleasures — a warm room, a familiar voice, the first decent weather of the year — and the numbness does not announce itself, which is why the second worker is the one who asks.
+**Bearer cost:**The wearer goes numb to small pleasures — a warm room, a familiar voice, the first decent weather of the year — and the numbness does not announce itself, which is why the second worker is the one who asks.
 
 ### M.A.W. Stigma — The Listening Stone
 
@@ -228,7 +228,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Lets the bearer hear sorrow held in any wall, in any district, which is the only recorded method of finding a whisper run before it has been mapped.
 
-**Cost:** The whispers stay on afterwards as a background that never entirely goes quiet: the bearer hears the beginnings of speech in plumbing, wind and empty offices, and the seven-day check exists because of this line.
+**Bearer cost:**The whispers stay on afterwards as a background that never entirely goes quiet: the bearer hears the beginnings of speech in plumbing, wind and empty offices, and the seven-day check exists because of this line.
 
 *The Listening Stone is never issued and no one may ask for it. It has been released twice, each time to a chronicler who stood a full night at the boundary and answered the walls aloud where there was nobody to hear them do it.*
 

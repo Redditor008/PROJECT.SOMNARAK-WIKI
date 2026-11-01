@@ -168,7 +168,7 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — carrying the source's signature: the wound closes cleanly and the strike leaves the struck unable to set anything down for the rest of the hour.
 
-**Cost:** Old injuries ache and prolonged use leaves bruising in the same lines. The file adds the detail the armoury keeps repeating: nothing here takes memory or composure, and the charge is still the heaviest in the bay because it attaches to the ordinary act of finishing with a thing.
+**Bearer cost:**Old injuries ache and prolonged use leaves bruising in the same lines. The file adds the detail the armoury keeps repeating: nothing here takes memory or composure, and the charge is still the heaviest in the bay because it attaches to the ordinary act of finishing with a thing.
 
 ### M.A.W. Suit — Floating Well Plate
 
@@ -186,7 +186,7 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 **Ability:** Turns Grudge aside from the Body — physical form and structural integrity — which is the only pressure this holding applies and the only kind it has ever applied. The plate is rated for a load that arrives from underneath a person's expectations, which is why the bay's own note is that it reads the shoulders and not the gauge.
 
-**Cost:** Reflexes thin and the wearer begins to move as though braced — the bay's stand-down signal, because a worker who has started carrying their own body like equipment has already stopped setting things down.
+**Bearer cost:**Reflexes thin and the wearer begins to move as though braced — the bay's stand-down signal, because a worker who has started carrying their own body like equipment has already stopped setting things down.
 
 ### M.A.W. Stigma — Floating Well Ring
 
@@ -200,7 +200,7 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 **Ability:** Closes minor wounds on contact and, for the length of the cycle, leaves the bearer able to put a finished tool down on the floor — the single ability in the set that the bay asks for by name.
 
-**Cost:** The wearer loses the memories that attach to their own anger: not the anger, which stays, and not the events, which do — the connections between them, so that grievance arrives without its evidence.
+**Bearer cost:**The wearer loses the memories that attach to their own anger: not the anger, which stays, and not the events, which do — the connections between them, so that grievance arrives without its evidence.
 
 *The Floating Well Ring is not manufactured and cannot be requisitioned. It has been conferred 4 times, each on a worker who stood the full cycle inside the clearance with the rim directly overhead — which the wing records as four people who did the one thing the procedures forbid and came out with a ring.*
 

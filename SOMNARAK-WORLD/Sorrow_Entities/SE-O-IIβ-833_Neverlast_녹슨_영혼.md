@@ -178,7 +178,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 **Ability:** Lament damage to the mind, carried in the ball as the rust signature. What it opens in a target is every arrangement they made that the other party never came back for — the mechanism first and the memory afterwards, which is the order the two bearers described and the order the Armoury records it in.
 
-**Cost:** The wielder weeps involuntarily, most often on arriving somewhere early and waiting.
+**Bearer cost:**The wielder weeps involuntarily, most often on arriving somewhere early and waiting.
 
 ### M.A.W. Suit — Neverlast's Shroud
 
@@ -198,7 +198,7 @@ The protection belongs to a watch actually sat, not to an assurance that another
 
 **Ability:** Turns Lament aside from the mind. The suit is what lets a worker sit a full watch beside the figure without offering it a return date.
 
-**Cost:** The wearer goes numb to minor joys, and stops noticing when they themselves are kept waiting.
+**Bearer cost:**The wearer goes numb to minor joys, and stops noticing when they themselves are kept waiting.
 
 ### M.A.W. Stigma — Neverlast's Crown
 
@@ -214,7 +214,7 @@ The Crown changes the bearer’s perception within an emotional crisis; it does 
 
 **Ability:** Slows the wearer's perception of time during emotional crises.
 
-**Cost:** The wearer absorbs the pain of those they heal or comfort.
+**Bearer cost:**The wearer absorbs the pain of those they heal or comfort.
 
 *The stigma is not manufactured. It is given to a worker who finished a watch they were entitled to leave, and has never been given to one who promised to return.*
 

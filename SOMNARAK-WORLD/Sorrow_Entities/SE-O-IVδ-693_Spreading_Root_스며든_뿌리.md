@@ -183,7 +183,7 @@ Planted into the ground, the spurs burrow deep into structural foundations to de
 
 **Ability:** Weight damage to the Han rather than to the body — it goes for sorrow reserves and karmic debt, and a target with little of either barely registers the blow. The sceptre carries buried mass into the strike and lands hardest on whoever is already carrying the most.
 
-**Cost:** The wielder grows heavier by degrees and ages slightly with prolonged use. Neither effect reverses, and both are recorded in hours rather than in uses.
+**Bearer cost:**The wielder grows heavier by degrees and ages slightly with prolonged use. Neither effect reverses, and both are recorded in hours rather than in uses.
 
 ### M.A.W. Suit — The Rootbound Mantle
 
@@ -201,7 +201,7 @@ Planted into the ground, the spurs burrow deep into structural foundations to de
 
 **Ability:** Wards the Han against Weight — the reserves and the karmic debt a strike of this kind goes looking for. It is worn on this post for the floors rather than for the entity: the pressure comes up through the ground, and the mantle is what keeps the wearer's own weight from being added to it.
 
-**Cost:** A constant low fatigue that the wearer stops reporting after the first few shifts, which is why the second worker's reading is the one the file keeps.
+**Bearer cost:**A constant low fatigue that the wearer stops reporting after the first few shifts, which is why the second worker's reading is the one the file keeps.
 
 ### M.A.W. Stigma — The Rootbound Staff
 
@@ -215,7 +215,7 @@ Planted into the ground, the spurs burrow deep into structural foundations to de
 
 **Ability:** Anchors the wearer against physical and emotional force.
 
-**Cost:** The wearer becomes increasingly unable to leave a place they have entered.
+**Bearer cost:**The wearer becomes increasingly unable to leave a place they have entered.
 
 *The staff is not manufactured. The Root offers one after a cycle in which its history was heard to the end, and it has never offered one where a root was cut.*
 

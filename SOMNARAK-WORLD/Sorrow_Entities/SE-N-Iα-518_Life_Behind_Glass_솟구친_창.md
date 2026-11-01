@@ -217,7 +217,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Ability:** Turns slowly on its own axis and throws shifting coloured mosaics across the chamber; anyone standing in the projection is worn down by what the light shows them rather than by the light itself.
 
-**Cost:** The wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening minutes beyond saying that the colours had not finished.
+**Bearer cost:**The wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening minutes beyond saying that the colours had not finished.
 
 ### M.A.W. Suit — Life Behind Glass Shroud
 
@@ -235,7 +235,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Ability:** Han-silk wrapping that holds the wearer's composure steady under Lament pressure, tightening as it nears the pane it was drawn from.
 
-**Cost:** The shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else; wearers remain entirely steady and describe the shift afterwards as something they saw rather than something they were in.
+**Bearer cost:**The shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else; wearers remain entirely steady and describe the shift afterwards as something they saw rather than something they were in.
 
 ### M.A.W. Stigma — Life Behind Glass Shard
 
@@ -249,7 +249,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Ability:** Shows distant emotional events.
 
-**Cost:** The wearer feels the sorrow of every view.
+**Bearer cost:**The wearer feels the sorrow of every view.
 
 *The Shard is given, not taken. It has only ever appeared on workers who completed a Ferrehan cycle and then left the tunnel without looking back at the pane, and no procedure has reproduced one deliberately.*
 

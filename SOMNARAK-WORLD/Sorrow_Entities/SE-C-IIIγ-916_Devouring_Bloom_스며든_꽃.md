@@ -240,7 +240,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 
 **Ability:** Deals Weight damage against the Han — the sorrow reserves and the karmic debt — and channels the bloom's signature in the strike. The target carries the mass of what it has refused to put down, read off the same scale the section's engineer uses on the petals.
 
-**Cost:** The wielder feels progressively heavier and the progression is filed against the front reading rather than the calendar; prolonged use ages them slightly, and the sign the armoury watches for is the bearer beginning to hand nothing back at the end of a task.
+**Bearer cost:**The wielder feels progressively heavier and the progression is filed against the front reading rather than the calendar; prolonged use ages them slightly, and the sign the armoury watches for is the bearer beginning to hand nothing back at the end of a task.
 
 ### M.A.W. Suit — Devouring Bloom Mantle
 
@@ -258,7 +258,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Devouring Bloom's kind of pressure.
 
-**Cost:** The wearer carries a constant low fatigue that rest does not lift, and the charge the armoury actually files is this set's signature one: the wearer begins keeping objects — memorial objects especially — and cannot afterwards explain holding on to them.
+**Bearer cost:**The wearer carries a constant low fatigue that rest does not lift, and the charge the armoury actually files is this set's signature one: the wearer begins keeping objects — memorial objects especially — and cannot afterwards explain holding on to them.
 
 ### M.A.W. Stigma — Devouring Bloom Key
 
@@ -272,7 +272,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 
 **Ability:** Heals minor wounds through touch.
 
-**Cost:** The wearer ages faster with each use.
+**Bearer cost:**The wearer ages faster with each use.
 
 *The Devouring Bloom Key is not manufactured and is not issued on request; the bloom confers it rarely, and in every recorded case on a worker who had put a petal back.*
 

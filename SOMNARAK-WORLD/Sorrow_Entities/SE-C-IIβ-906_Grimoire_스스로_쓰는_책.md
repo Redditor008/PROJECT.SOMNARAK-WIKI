@@ -215,7 +215,7 @@ Escalation here is driven entirely from the human side. Record the opening time,
 
 **Ability:** Grudge against the Mind. The struck target recalls, in order and in detail, every complaint they have made that was never answered — fourteen strikes, fourteen lists, and three of them were long enough to be filed as evidence in their own right.
 
-**Cost:** The wielder keeps their own unanswered complaints in order, and finds the keeping has begun whether or not they meant it to.
+**Bearer cost:**The wielder keeps their own unanswered complaints in order, and finds the keeping has begun whether or not they meant it to.
 
 ### M.A.W. Suit — Grimoire's Veil
 
@@ -233,7 +233,7 @@ Escalation here is driven entirely from the human side. Record the opening time,
 
 **Ability:** Grants resistance to Grudge damage, protecting against the tale register of sorrow.
 
-**Cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought.
+**Bearer cost:**The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought.
 
 ### M.A.W. Stigma — Grimoire's Token
 
@@ -247,7 +247,7 @@ Escalation here is driven entirely from the human side. Record the opening time,
 
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 
-**Cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
+**Bearer cost:**The bearer feels old injuries and old resentments sharpen whenever the stigma is used.
 
 *Four in eleven years, in each case to a worker who closed the cover at the end of a cycle without having read a word of what was on the page. Nobody who read first has ever been given one, and 61 workers have read first.*
 

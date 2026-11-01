@@ -196,7 +196,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and carries the source's signature: the strike lands like a duty being discharged rather than a blow being thrown, and it does not stop at a yield.
 
-**Cost:** Old injuries ache in the cold and prolonged use leaves bruising in the same places. The file lists the charge as the mildest in the wing and notes that it is also the most reported, because an ache is easy to blame on weather.
+**Bearer cost:**Old injuries ache in the cold and prolonged use leaves bruising in the same places. The file lists the charge as the mildest in the wing and notes that it is also the most reported, because an ache is easy to blame on weather.
 
 ### M.A.W. Suit — The Duty Plate
 
@@ -214,7 +214,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 **Ability:** Turns Grudge aside and keeps the Body whole — the flesh, and the frame that holds it. The wing issues it against this knight, whose pressure is Grudge from end to end.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Bearer cost:**The wearer's reflexes dull, as if armored by resentment.
 
 ### M.A.W. Stigma — The Duty Shield
 
@@ -230,7 +230,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 **Limit:** The wearer cannot retreat until the protected person is formally relieved, reaches safety, or explicitly refuses the protection.
 
-**Cost:** The wearer feels every fear the protected person hid during the encounter.
+**Bearer cost:**The wearer feels every fear the protected person hid during the encounter.
 
 *The Duty Shield is not issued on request and cannot be bought. It has been conferred 4 times, each on a warden who stepped off the route to let somebody else pass and was saluted for it — which the wing treats as the only known method of manufacture.*
 

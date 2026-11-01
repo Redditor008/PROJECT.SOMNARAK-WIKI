@@ -193,7 +193,7 @@ Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Gr
 
 **Ability:** *Rim Cut* — deals Grudge damage against the Body — physical form and structural integrity — only by severing unstable material or a phantasmal barrier along a verified surface path to a confirmed living target. Binding requires both that target and that route; a downward cut toward an unbodied voice curves back toward the wielder's oldest scar, and the blade cools at the true edge between attacks. It never damages the hidden space itself.
 
-**Cost:** the wielder carries the Well's toll — old wounds aching, bruising after a long shift — and past a season of it the aching arrives without the shift. The Armoury records the symptom against the wielder, on the file's own logic: what accumulates here is the work, not the steel.
+**Bearer cost:**the wielder carries the Well's toll — old wounds aching, bruising after a long shift — and past a season of it the aching arrives without the shift. The Armoury records the symptom against the wielder, on the file's own logic: what accumulates here is the work, not the steel.
 
 ### M.A.W. Suit — Broken Well Plate
 
@@ -211,7 +211,7 @@ Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Gr
 
 **Ability:** *True-Edge Brace* — wards the Body — physical form and structural integrity — against Grudge pressure by anchoring one foot and the pelvis outside a verified opening. It binds only after the wearer marks a physical boundary and names the colleague responsible for calling them back. It does not prevent voluntary descent; it forces the wearer to feel the boundary being chosen, and contracts if they cross while claiming they were pulled.
 
-**Cost:** the wearer's reactions dull the way a person's do after a season at a rim — slower to step, slower to commit weight — and the second worker reads it long before the wearer does.
+**Bearer cost:**the wearer's reactions dull the way a person's do after a season at a rim — slower to step, slower to commit weight — and the second worker reads it long before the wearer does.
 
 ### M.A.W. Stigma — Broken Well Lantern
 
@@ -225,7 +225,7 @@ Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Gr
 
 **Ability:** *Understructure Light* — reveals cavities, collapsed passages and concealed structural spaces as clean contours. A living signal reads steady only when independently verified; the Lantern cannot locate a soul, memory or phantasmal voice, and a blank reading is active safety information, never equipment failure. Naming a dead person as the current target makes it assemble a false route from every place they were not found.
 
-**Cost:** The wearer sees every failed rescue in the light.
+**Bearer cost:**The wearer sees every failed rescue in the light.
 
 *The Lantern cannot be requested and is not issued. It has been conferred three times, and each time on a Warden who sat the full session at the rail and gave the depth immediately afterwards, including when it was their own number that stood apart from the crew's.*
 

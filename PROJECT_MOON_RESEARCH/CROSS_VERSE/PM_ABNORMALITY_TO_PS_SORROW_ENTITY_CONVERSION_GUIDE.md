@@ -424,7 +424,7 @@ An emptied SP pool is **Panic** — fought, suppressed and recovered like any ot
 
 ### VIII.4 The cost line is the piece's own
 
-Every M.A.W. piece charges its bearer, and the charge is written twice: inside the dossier's embedded block as `**Cost:**`, and on the item page as `**Operational / binding cost:**`. Both are the same price, and both must be this piece's.
+Every M.A.W. piece charges its bearer, and the charge is written twice: inside the dossier's embedded block as `**Bearer cost:**`, and on the item page as `**Operational / binding cost:**`. `**Cost:**` on the stats line is the Echo price and nothing else; a Stigma has no price at all, since it is found rather than bought. Both are the same price, and both must be this piece's.
 
 The archive converted the whole equipment layer through five stock cost families — *the bearer moves a little slower* (12 Weight stigmas), *the bearer's temper shortens* (11 Grudge), *the bearer weeps in their sleep* (11 Lament), *the bearer occasionally forgets a word* (6 Void), and six weapon sentences doing the same job (*a persistent low-grade headache with each use*, *emotional numbness toward the source entity's element*, *chronic fatigue in the dominant hand*, *progressively heavier; prolonged use ages them slightly*, *the entity's unwept grief*, *mild memory fragmentation*). Forty stigmas shared four sentences between them, which made four whole elements of the catalogue read as one piece with four labels, and made the moment a bearer learns what they have agreed to the least specific moment in the file.
 

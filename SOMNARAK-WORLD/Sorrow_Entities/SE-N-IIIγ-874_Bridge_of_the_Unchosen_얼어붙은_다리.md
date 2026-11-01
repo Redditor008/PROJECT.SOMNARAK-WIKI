@@ -209,7 +209,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Thei
 
 **Ability:** Deals Void damage to the Soul. The ring shows the target one option that was genuinely available to them, at the moment it was available, standing open. It does not show them where it led. The armoury's note is that every attempt to extend the piece to show outcomes has failed, and that the failures are the reason it is trusted.
 
-**Cost:** The wielder loses the ability to let a question stay open. Decisions get made faster and earlier, and colleagues report the change as decisiveness for about a year before anyone calls it what it is.
+**Bearer cost:**The wielder loses the ability to let a question stay open. Decisions get made faster and earlier, and colleagues report the change as decisiveness for about a year before anyone calls it what it is.
 
 ### M.A.W. Suit — Bridge of the Unchosen Shield
 
@@ -229,7 +229,7 @@ It is fitted only under a spoken event: the wearer names the crossing that was a
 
 **Ability:** Allows a brief crossing through emotional obstruction.
 
-**Cost:** The wearer feels the weight of every road not taken.
+**Bearer cost:**The wearer feels the weight of every road not taken.
 
 ### M.A.W. Stigma — Bridge of the Unchosen Charm
 
@@ -245,7 +245,7 @@ It is a head-slot charm and it reads the decision rather than the life beyond it
 
 **Ability:** The charm goes cold in the hand when the wearer is about to assert something they do not know. It has no other function, it cannot be aimed, and four Wardens have described it as the single most unpleasant object in the wing.
 
-**Cost:** The bearer feels the cold a half-second before they assert something they do not know, and that half-second has no other use.
+**Bearer cost:**The bearer feels the cold a half-second before they assert something they do not know, and that half-second has no other use.
 
 *The charm has been granted six times. Each recipient had, in the preceding quarter, withdrawn or rewritten a finding of their own that stated an outcome for a course not taken. The holding records the pattern and has refused, twice, to let it be described as a reward.*
 

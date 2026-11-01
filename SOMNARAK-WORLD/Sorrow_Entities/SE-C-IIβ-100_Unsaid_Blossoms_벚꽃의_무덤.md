@@ -190,7 +190,7 @@ There is no escalation here and the Gardens stopped writing as though there were
 
 **Ability:** Lament damage to the Mind. The blade is issued for Gardens work generally and has never been drawn inside the marker ring, where the standing order's first line applies.
 
-**Cost:** Weeping at the wrong time, usually days later and usually mid-sentence. Four wielders have been moved off notification duties because of it.
+**Bearer cost:**Weeping at the wrong time, usually days later and usually mid-sentence. Four wielders have been moved off notification duties because of it.
 
 ### M.A.W. Suit — The Unsaid Shroud
 
@@ -208,7 +208,7 @@ There is no escalation here and the Gardens stopped writing as though there were
 
 **Ability:** Wards Lament pressure on the Mind. Required dress for the counter on any day following a sealed-zone incident.
 
-**Cost:** A flattening of small pleasures lasting roughly the length of the posting. It is recorded here rather than in the armoury's ledger because the armoury has no column for it.
+**Bearer cost:**A flattening of small pleasures lasting roughly the length of the posting. It is recorded here rather than in the armoury's ledger because the armoury has no column for it.
 
 ### M.A.W. Stigma — The Unsaid Petal
 
@@ -222,7 +222,7 @@ There is no escalation here and the Gardens stopped writing as though there were
 
 **Ability:** One withheld sentence spoken to a memory of the person it was meant for. Nine bearers; nine sentences; the facility has never asked any of them what was said and the count book notes that it never will.
 
-**Cost:** The sentence cannot be withdrawn, softened or amended once spoken, and the memory it is spoken to does not answer. Two of the nine have said they would not use it again; both said so in writing and both letters are kept here.
+**Bearer cost:**The sentence cannot be withdrawn, softened or amended once spoken, and the memory it is spoken to does not answer. Two of the nine have said they would not use it again; both said so in writing and both letters are kept here.
 
 *The nine petal-tiles were granted to counters who took a day's fall after a sealed-zone incident, when the store was heaviest and the count would have been easy to round.*
 

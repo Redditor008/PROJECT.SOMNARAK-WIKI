@@ -190,7 +190,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Memory Rain's lament signature in the strike.
 
-**Cost:** The wielder counts the lantern's flicker instead of sleeping, because the flicker is the only reading the piece gives and it is worst in a quiet room.
+**Bearer cost:**The wielder counts the lantern's flicker instead of sleeping, because the flicker is the only reading the piece gives and it is worst in a quiet room.
 
 ### M.A.W. Suit — The Memory Umbrella
 
@@ -208,7 +208,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Protects the wearer from memory-based attacks.
 
-**Cost:** The umbrella fills with memories that must later be processed.
+**Bearer cost:**The umbrella fills with memories that must later be processed.
 
 ### M.A.W. Stigma — The Memory Charm
 
@@ -222,7 +222,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Grants a minor boon tied to Memory Rain's sorrow; the effect mirrors the entity's nature.
 
-**Cost:** The bearer checks standing water for warmth out of habit, and after enough cycles is checking rooms for the same thing.
+**Bearer cost:**The bearer checks standing water for warmth out of habit, and after enough cycles is checking rooms for the same thing.
 
 *Nobody issues the Charm. It settles on whoever stands a fall from beginning to end — eleven of sixty-one falls on record, the only regularity this file has ever found, and useless to plan around.*
 

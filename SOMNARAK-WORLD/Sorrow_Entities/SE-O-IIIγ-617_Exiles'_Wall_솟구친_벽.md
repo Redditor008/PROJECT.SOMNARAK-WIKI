@@ -185,7 +185,7 @@ Carried into containment zones, the stele radiates the collective endurance of t
 
 **Ability:** Grudge against the Body, with a consistent after-effect: those struck cannot, for some hours, finish any task they begin. They start willingly and stop partway, and all nine on file described it afterward in the same terms — not an inability, simply the sense that finishing was not theirs to do.
 
-**Cost:** The wielder's old injuries ache in damp weather and prolonged use leaves faint bruising across the forearms, in the pattern of someone who has been carrying building stone.
+**Bearer cost:**The wielder's old injuries ache in damp weather and prolonged use leaves faint bruising across the forearms, in the pattern of someone who has been carrying building stone.
 
 ### M.A.W. Suit — Exiles' Wall Plate
 
@@ -203,7 +203,7 @@ Carried into containment zones, the stele radiates the collective endurance of t
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against blunt and structural force. It does nothing against the runoff, which is not pressure, soaks through every rating in the set, and leaves the wearer cold for hours afterward.
 
-**Cost:** The wearer's reflexes dull and they become slow to leave a place — last out of a room, last off a shift, reluctant to move on when told to.
+**Bearer cost:**The wearer's reflexes dull and they become slow to leave a place — last out of a room, last off a shift, reluctant to move on when told to.
 
 ### M.A.W. Stigma — Exiles' Wall Ring
 
@@ -217,7 +217,7 @@ Carried into containment zones, the stele radiates the collective endurance of t
 
 **Ability:** Allows the wearer to sense hostile border pressure.
 
-**Cost:** The wearer absorbs the sorrow of every exile nearby.
+**Bearer cost:**The wearer absorbs the sorrow of every exile nearby.
 
 *Five Stigmas in nine years and all five followed a cycle in which a destination was stated for the first time. The Gate station reports them to SED along with the survey, since SED's expedition schedule is the only thing that has ever produced one.*
 

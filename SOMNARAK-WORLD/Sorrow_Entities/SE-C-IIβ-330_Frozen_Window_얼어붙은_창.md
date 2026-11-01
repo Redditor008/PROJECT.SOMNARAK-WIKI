@@ -215,7 +215,7 @@ Intricate frost fern patterns shift across the central glass pane in response to
 
 **Ability:** *Shut-Out Bastion* — Reduces incoming physical and Weight damage by 20% when facing attackers directly, reflecting kinetic force back as cold air.
 
-**Cost:** The wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement.
+**Bearer cost:**The wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement.
 
 ### M.A.W. Stigma — The Rime-Pane Monocle
 
@@ -232,7 +232,7 @@ Delicate frost fractures run through the lens without obscuring vision, highligh
 
 **Ability:** *Thermal Fracture Sight* — Increases critical hit rate by 8% against slowed, rooted, or frozen targets by highlighting structural cold stress points.
 
-**Cost:** The right eye perceives the world in chilled blue tones.
+**Bearer cost:**The right eye perceives the world in chilled blue tones.
 
 *The Rime-Pane Monocle is not issued and cannot be requested. It has been conferred 2 times, in both cases on a Warden who walked the full circuit beside the figure, logged the scene types from the 9-category list, and transcribed none of the content — the conferral is a record of what was not written down as much as of what was done.*
 

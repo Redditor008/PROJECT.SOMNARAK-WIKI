@@ -210,7 +210,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Ability:** Lament damage to the mind rather than the body. The sceptre channels what the Well is holding — sentences that were never completed — and what it opens in a target is the need to say something they have not said.
 
-**Cost:** The wielder carries the Well's unwept grief and may weep involuntarily, usually part-way through saying something else. Continued use makes the source sorrow feel autobiographical.
+**Bearer cost:**The wielder carries the Well's unwept grief and may weep involuntarily, usually part-way through saying something else. Continued use makes the source sorrow feel autobiographical.
 
 ### M.A.W. Suit — The Listening Shroud
 
@@ -230,7 +230,7 @@ The slow-drying cloth marks each session, while its protective role is condition
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies. The shroud is what allows a worker to stand at the coping for a full session and still be able to end it.
 
-**Cost:** The wearer goes numb to small pleasures and may first notice that other people's good news no longer registers. Continued use makes the source sorrow feel autobiographical.
+**Bearer cost:**The wearer goes numb to small pleasures and may first notice that other people's good news no longer registers. Continued use makes the source sorrow feel autobiographical.
 
 ### M.A.W. Stigma — The Listening Vial
 
@@ -246,7 +246,7 @@ When closed, it brings the preserved testimony to hearing; its cost is a replaye
 
 **Ability:** Preserves one spoken testimony without interruption.
 
-**Cost:** The wearer hears the testimony whenever the vial is closed. Continued use makes the source sorrow feel autobiographical.
+**Bearer cost:**The wearer hears the testimony whenever the vial is closed. Continued use makes the source sorrow feel autobiographical.
 
 *No one manufactures the vial. It comes from the Well to a worker who carried a testimony through to its last word without once speaking across it; no worker who ended a session on the clock has ever been given one.*
 

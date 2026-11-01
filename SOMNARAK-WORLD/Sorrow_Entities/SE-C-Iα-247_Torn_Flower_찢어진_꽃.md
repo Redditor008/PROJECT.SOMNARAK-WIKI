@@ -183,7 +183,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 
 **Ability:** The flat heals one minor current wound; the edge deals Grudge pressure. It must not be used to heal the source tear, a memorial scar, or a wound the bearer needs hidden: the linked Sword record says the blade cuts instead.
 
-**Cost:** The wielder's touch harms people they love.
+**Bearer cost:**The wielder's touch harms people they love.
 
 ### M.A.W. Suit — Torn Flower Plate
 
@@ -201,7 +201,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 
 **Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — and it is worn against this holding's particular pressure: nothing here lashes out unprovoked, and the armour answers the reach that comes of being handled.
 
-**Cost:** Reflexes dull in the wearer, as though the body had taken on a resentment of its own, and the wearer is the last to notice; the armoury files the onset against the piece, since it never announces itself.
+**Bearer cost:**Reflexes dull in the wearer, as though the body had taken on a resentment of its own, and the wearer is the last to notice; the armoury files the onset against the piece, since it never announces itself.
 
 ### M.A.W. Stigma — Torn Flower Charm
 
@@ -215,7 +215,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 
 **Ability:** Grants a minor boon tied to Torn Flower's sorrow; the effect mirrors the holding's nature — a grudge carried and not acted on, which the behaviour table gives as the only way this bloom is ever worked.
 
-**Cost:** The bearer can tell at a glance what somebody else finished by hand, and can no longer look at their own work without asking the same question of it.
+**Bearer cost:**The bearer can tell at a glance what somebody else finished by hand, and can no longer look at their own work without asking the same question of it.
 
 *Nine charms exist. Every one was granted on a session that ended with the worker walking away from the flower without having touched it, which is the whole of the work here.*
 

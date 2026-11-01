@@ -200,7 +200,7 @@ All four Work Types are listed as valid and only three are performed. Pugnahan r
 
 **Ability:** Weight damage to the Han. The ring will not discharge against a person whose record opens at zero, which since the write-off means it will not discharge against most of this facility, and the armoury has declined to call that a fault.
 
-**Cost:** The wielder grows heavier through the day and is measurably older by a little afterwards. The infirmary has quantified it once, declined to publish the figure, and gives it to any bearer who asks.
+**Bearer cost:**The wielder grows heavier through the day and is measurably older by a little afterwards. The infirmary has quantified it once, declined to publish the figure, and gives it to any bearer who asks.
 
 ### M.A.W. Suit — The Penitent's Shackled Vestments
 
@@ -219,7 +219,7 @@ All four Work Types are listed as valid and only three are performed. Pugnahan r
 
 **Ability:** Wards Weight pressure on the Han. Worn for the session and kept on until the counselor's door, which was added after two sitters removed it at the chamber threshold and gave accounts they afterwards withdrew.
 
-**Cost:** A low fatigue that does not lift for about two days and that wearers consistently under-report, so the relief reports it instead.
+**Bearer cost:**A low fatigue that does not lift for about two days and that wearers consistently under-report, so the relief reports it instead.
 
 The mantle separates carrying a burden from identifying oneself with it. Its panel nearest the heart darkens when a burden is classified as inherited rather than personal, holding that distinction for the operation without cancelling legal, emotional or social consequences. Removal returns recognition of what was deferred. The pale pressure mark left in the cloth and the wearer's account therefore belong together: staying upright at the table is not evidence that the burden has gone. Naming the deferred burden aloud to another person lightens the mantle; it does not settle the debt.
 
@@ -236,7 +236,7 @@ The mantle separates carrying a burden from identifying oneself with it. Its pan
 
 **Ability:** The bearer sees what other people owe, and whether they incurred it. It cannot be switched off, it works in corridors and canteens, and six bearers have described it as the worst thing in the armoury.
 
-**Cost:** The bearer carries the weight of every obligation they see for as long as they see it. Four have asked to keep the scar after rotation. All four requests were refused, and the refusals are in the folder with the reasons.
+**Bearer cost:**The bearer carries the weight of every obligation they see for as long as they see it. Four have asked to keep the scar after rotation. All four requests were refused, and the refusals are in the folder with the reasons.
 
 *The scar has been granted six times, every one to a worker who wrote off a balance they were entitled to collect. Four of the six were asked by their own office to reconsider and did not. The holding records the pattern and will not make it a criterion.*
 

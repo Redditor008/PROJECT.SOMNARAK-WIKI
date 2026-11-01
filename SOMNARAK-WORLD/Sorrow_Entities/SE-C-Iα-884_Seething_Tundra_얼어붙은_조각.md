@@ -209,7 +209,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Ability:** Void damage to the soul. The awl carries the shard's signature, and what it takes from a target is the recollection of something they kept instead of saying.
 
-**Cost:** The wielder loses small, nameless memories, beginning with the reasons they gave things to people.
+**Bearer cost:**The wielder loses small, nameless memories, beginning with the reasons they gave things to people.
 
 ### M.A.W. Suit — The Frozen Veil
 
@@ -227,7 +227,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Ability:** Grants resistance to Void, protecting identity and sense of self while a worker holds the shard. It supports the identification of a transferred feeling as somebody else's; it is not a prerequisite for the channel, and the second person's question still does that work.
 
-**Cost:** The wearer keeps things. Tickets, pencil stubs, a button; they cannot say why and cannot throw them out, and all three wielders' quarters have been found with a drawer of them.
+**Bearer cost:**The wearer keeps things. Tickets, pencil stubs, a button; they cannot say why and cannot throw them out, and all three wielders' quarters have been found with a drawer of them.
 
 ### M.A.W. Stigma — The Frozen Fragment
 
@@ -241,7 +241,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 **Ability:** Protects against emotional surges.
 
-**Cost:** The wearer becomes emotionally cold and distant.
+**Bearer cost:**The wearer becomes emotionally cold and distant.
 
 *Eleven in eleven years, every one to a worker who said aloud whose anger it was before leaving the room. Not one has gone to a worker who carried it out unsaid, and 61 workers have.*
 

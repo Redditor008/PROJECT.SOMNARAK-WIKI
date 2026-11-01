@@ -214,7 +214,7 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and carries the source's signature: the strike arrives on a beat the target has already been keeping for several seconds without noticing.
 
-**Cost:** Old injuries ache and prolonged use leaves bruising in the same lines, paid whether the work was correct or not — the file's own note, because a piece cut from a performance charges the bearer the same for standing still as for dancing.
+**Bearer cost:**Old injuries ache and prolonged use leaves bruising in the same lines, paid whether the work was correct or not — the file's own note, because a piece cut from a performance charges the bearer the same for standing still as for dancing.
 
 ### M.A.W. Suit — The Performer's Silk Robe & Ghostly Stole
 
@@ -233,7 +233,7 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 
 **Ability:** Turns Grudge aside from the Body — physical form and structural integrity — which is the pressure this holding applies and the only kind it has ever applied; the robe is rated for a performance, not for a fight, which is why the rail crew wears it and the floor party does not.
 
-**Cost:** Reflexes thin and the wearer's tempo slows a fraction behind every beat in the room — the armoury's earliest stand-down signal on this set, and the one every bearer tries to argue away.
+**Bearer cost:**Reflexes thin and the wearer's tempo slows a fraction behind every beat in the room — the armoury's earliest stand-down signal on this set, and the one every bearer tries to argue away.
 
 ### M.A.W. Stigma — The Hollow Porcelain Shard
 
@@ -249,7 +249,7 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 
 **Ability:** Sharpens agility, balance and reflexes for as long as the cycle runs, which on this holding is the same thing as sharpening the wearer's capacity to keep going.
 
-**Cost:** Stillness becomes difficult: the wearer paces, taps and keeps time against nothing, and reports the urge as an obligation rather than a pleasure.
+**Bearer cost:**Stillness becomes difficult: the wearer paces, taps and keeps time against nothing, and reports the urge as an obligation rather than a pleasure.
 
 *The Hollow Porcelain Shard is never issued and never requested. It has gone out 2 times, both to a warden who held the rail through a whole Ferrehan cycle without once looking away, then filed the duration without comment — the only method this wing has on record.*
 

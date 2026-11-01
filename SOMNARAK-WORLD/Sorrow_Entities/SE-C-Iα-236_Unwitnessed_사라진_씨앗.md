@@ -210,7 +210,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Ability:** Lament damage to the Mind. The three gimbal rings turn around an empty obsidian core and the armoury's note records that two attempts to seat a stone in that core were made, both successful mechanically, and that the piece did nothing at all until the core was emptied again.
 
-**Cost:** Involuntary weeping, beginning before the wielder notices it in nine recorded uses out of eleven, and stopping of its own accord within the hour.
+**Bearer cost:**Involuntary weeping, beginning before the wielder notices it in nine recorded uses out of eleven, and stopping of its own accord within the hour.
 
 ### M.A.W. Suit — The Seedless Shroud
 
@@ -228,7 +228,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Ability:** Resists Lament pressure on the Mind. Issued to the recovery operator for the walk in, which is the only four seconds of this posting in which anybody is near the site while it is active.
 
-**Cost:** Numbness to small pleasures for about four days. Wearers report that the large ones are untouched and that this makes it worse rather than better.
+**Bearer cost:**Numbness to small pleasures for about four days. Wearers report that the large ones are untouched and that this makes it worse rather than better.
 
 ### M.A.W. Stigma — The Seedless Pod
 
@@ -242,7 +242,7 @@ The outer rings rotate smoothly in counter-synchronous orbits, projecting dim as
 
 **Ability:** Keeps one thing in its earliest state for as long as it is worn — a cutting, a draft, a first entry. It has no combat application and the armoury has never pretended that it does.
 
-**Cost:** The bearer feels every future that did not start within about forty metres. It is not grief; wearers describe it as a crowded quiet, and it stops when the pod comes off.
+**Bearer cost:**The bearer feels every future that did not start within about forty metres. It is not grief; wearers describe it as a crowded quiet, and it stops when the pod comes off.
 
 *The pod has been granted 5 times, every one of them to a worker who went back and filled in a Before Us page for somebody whose file had already been closed, long after any decision turned on it. 3 of those 5 did it while on leave. The holding writes the pattern down and refuses to make it a criterion, on the ground that a beginning entered in order to be credited is a beginning written for the writer rather than for the person it belongs to.*
 

@@ -8,6 +8,28 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## One label for the price, another for what it takes (2026-11-01)
+
+A dossier's M.A.W. block used `**Cost:**` twice. Once on the stats line, for the twenty-five Sorrow Echoes. Once under the Ability, for the weeping, the missing hour, the memory the piece keeps. Two rows with one label, in the same block, meaning different things — and a reader who wanted to know what a piece actually cost its bearer had to work out which row was which from context.
+
+The label is now split: `**Cost:**` is the Echo price on the stats line, and `**Bearer cost:**` is what the piece takes. **820 rows across 288 dossiers** were renamed, and nothing else about them changed. Seventeen suits and one weapon already used the new label, which is where the convention came from; the rest now agree with them.
+
+The renaming also made the gaps countable, which is the other half of the point:
+
+| Block | Missing | Count |
+|---|---|---|
+| M.A.W. Weapon | bearer cost, price present | 10 |
+| M.A.W. Weapon | price, bearer cost present | 3 |
+| M.A.W. Suit | bearer cost, price present | 1 |
+| M.A.W. Suit | price, bearer cost present | 3 |
+| M.A.W. Suit | both | 1 |
+| M.A.W. Stigma | bearer cost (no price by design — a Stigma is found, not bought) | 17 |
+
+A Stigma has no Echo price at all, so its single cost row was always the bearer cost and is now labelled as one: 272 rows, archive-wide.
+
+**The standard follows the data.** The dossier template now states the two-label rule above the scaffold, and its Weapon and Stigma placeholders write `**Bearer cost:**`. The weapon, suit and Stigma templates say the same in their own sections. Both cross-verse guides follow: the conversion guide's §VIII.4 and the containment guide's cost row.
+
+
 ## Eight equipment sets stop being three sentences (2026-11-01)
 
 Eight dossiers carried a M.A.W. set whose three pieces were three template sentences: a weapon that *channels {element} {register} sorrow in each strike*, a suit that *grants resistance to {element} damage*, and a stigma that is *a fragment of the entity's {register} sorrow, crystallized into wearable form*. Between them they described twenty-four pieces and named nothing.

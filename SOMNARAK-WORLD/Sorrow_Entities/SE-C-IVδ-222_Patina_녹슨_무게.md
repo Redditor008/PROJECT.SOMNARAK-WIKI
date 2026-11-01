@@ -203,7 +203,7 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 
 **Ability:** Deals Grudge damage against the Body (physical form, structural integrity), carrying the mass's own signature into the strike: what the target is standing on is included in the weight.
 
-**Cost:** The wielder's old wounds ache, and they ache on the way home rather than at the strike — the toll this file already records, paid whether the use was correct or not.
+**Bearer cost:**The wielder's old wounds ache, and they ache on the way home rather than at the strike — the toll this file already records, paid whether the use was correct or not.
 
 ### M.A.W. Suit — Patina Plate
 
@@ -221,7 +221,7 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 
 **Ability:** Converts hostility into physical resistance, the way the border ground converts a quarrel into load: nothing is destroyed, everything is borne.
 
-**Cost:** The wearer feels inherited anger toward strangers, and first notices it in how they answer somebody who has done nothing to them.
+**Bearer cost:**The wearer feels inherited anger toward strangers, and first notices it in how they answer somebody who has done nothing to them.
 
 ### M.A.W. Stigma — Patina Charm
 
@@ -235,7 +235,7 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 
 **Ability:** Steadies the bearer's own grievance for the length of a session, which is why the charm is issued to those working the line and not otherwise.
 
-**Cost:** The bearer's grievance goes quiet for the length of a session and is waiting, unchanged, at the end of it — which is why the charm is issued to the line and to nobody with a complaint.
+**Bearer cost:**The bearer's grievance goes quiet for the length of a session and is waiting, unchanged, at the end of it — which is why the charm is issued to the line and to nobody with a complaint.
 
 *Six charms exist and all six went to Wardens who completed a renewal walk in bad weather rather than rescheduling it. The file records the dates and not the weather; the families remember the weather.*
 

@@ -88,6 +88,8 @@ Resistance math: Damage Taken = Incoming × Multiplier. `0.3 = 70% reduction`. `
 
 ### Wielder Cost (Ambient)
 
+Filed as `**Bearer cost:**` in the dossier block. `**Cost:**` is the Echo price on the stats line and nothing else.
+
 {{Slow erosion, derived from the Defensive Trait above it. Work the trait backwards: if the suit keeps the wearer from being moved, the wearer can no longer tell what they were standing for; if it thins the wearer's presence to protect them, nobody can hold them in mind afterwards. One sentence, this suit only.}}
 
 **Retired — do not use:** *the wearer becomes numb to minor joys* · *the bearer's temper shortens* · any sentence already charged by another suit in the archive.
