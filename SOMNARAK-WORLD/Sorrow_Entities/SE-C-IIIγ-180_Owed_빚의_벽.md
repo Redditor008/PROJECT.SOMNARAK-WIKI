@@ -44,51 +44,36 @@
 - No breach counter: it expands along the Row rather than breaching. The end of the inscription and the two ends of the structure are marked physically every session against the forty-one fixed marks.
 - Extraction draws from surface residue under separate authorisation and has never reduced a dimension; the residue is swept, weighed, and returned to the yield account.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Weight pressure and 25% against anything else as formal ratings for a wall that has never once been forced. Working protection is measurement: both ends against the forty-one fixed marks, monitored duration with a relief plan set before approach, and blocks read with a debt custodian who preserves the dispute fields. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 726/726 |
-| **Han Pressure [ATK]** | 16–37 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says the wall is *stationary — fixed across the thoroughfare; the wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction*. The file's own row on demolition says it plainly: nothing breaks free, the wall is unmarked tomorrow and the equipment that struck it is not.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Impenetrable and heavy |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A wall across the thoroughfare with debts on it, growing a block at a time between watches. No block has ever been seen arriving and no block has ever come away; the masonry gains length and height the way a ledger gains interest. |
+| **Perceptible to** | The length at both ends of the thoroughfare first, measured against the marks; then the names on the face, which are not carved. A worker at the face meets an obligation pressing as Weight rather than a brick arriving. |
+| **Handling** | Measure, record, acknowledge. The work is read with a debt custodian, the dispute fields are preserved, and the monitored duration is set before anybody approaches — a worker who says the weight feels ordinary is withdrawn first. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 726/726 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the debt on the face and holds the gauge; Ferrehan is bearing the face without adding to the load, and lowers it. Demolition is not a Work Type and never has been. |
+| **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | Measure and acknowledge the debt; the Wall cannot be demolished |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Unpaid Invoice* [**Debuff**] } | "Nothing slides into place. Between two watches a block is simply there, and the debt on it has your name uncarved into it." | [Growth is found, never witnessed. At the face the worker meets an obligation pressing as Weight, not a brick arriving.] | *The worker suffers -10 Resolve. Read the block with a debt custodian and preserve its dispute fields; do not weep at a wall instead of reviewing the system feeding it.* **[10 Weight DMG [Weight]]** | When a worker approaches the face and the measurement closes on a block found since the last watch. |
-| { *The Compounding Interest* [**Debuff**] } | "The wall is no taller than it was. You have simply stopped noticing the weight, which is worse." | [Nothing compounds in the masonry. What compounds is the worker's own unperformed obligation becoming structural the longer the load is borne without relief.] | *The worker loses 10 Resolve. Enforce the monitored duration and relief plan set before approach; a worker who says the weight feels ordinary is withdrawn first.* **[10 Weight DMG [Weight]]** | When a worker remains at the face past the monitored duration without relief. |
-| { *The Foreclosure* [**Attack**] } | "Nothing breaks free. The wall is unmarked tomorrow; the equipment that struck it is not." | [No block has ever come away. A strike or demolition attempt returns its whole load on the attempt itself, as both filed attempts did: equipment destroyed, structure unmarked.] | *Heavy Weight pressure on the crew making the attempt. Stop the work, record the attempt against the marks, and return to measure-record-acknowledge; demolition is not an available Work Type.* **[14-22 Weight DMG [Weight]]** | When the Wall is struck or demolition is attempted. |
-| { *The Total Default* [**Attack**] } | "The whole face is still standing in the morning. The thoroughfare on both ends of it is shorter than it was." | [The Wall does not come down. In a total-default expansion both ends pass their marks in one interval and another stretch of road stops being usable at once.] | *A heavy Weight load on everyone at the face. Measure both ends before anything else, clear the newly obstructed stretch, notify the municipal office the same day, and extend the diversion; nothing here is taken apart.* **[24-36 Weight DMG [Weight]]** | When an expansion interval takes both ends past their fixed marks. |
-| { *Everyone Owes Everything* [**Ultimate**] } | "The Wall runs outward — a brick for every person standing in the field — until nothing can be seen that is not owed." | [Citywide debt becomes a conscience field: roads close, the air grows heavy, and every worker carries their own recognized burden at once.] | *Weight presses on every worker for three turns. Open alternate support routes and preserve each obligation record with its context; do not attempt demolition or concealment.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold in an expansion on new or unpaid obligation. |
+| Event | What the Wall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Unpaid Invoice* [**Register**] } | Gains a block between two watches, with the debt on it and the worker's name not yet carved into it. Nothing slides into place and nothing is heard arriving. | Measures both ends of the thoroughfare against the marks, records the block against the dispute fields with a debt custodian, and does not weep at a wall instead of reviewing the system feeding it. | Growth is found, never witnessed. The measurement is the reading and the marks at both ends are the instrument, which is also why the thoroughfare is measured before the face is. |
+| { *The Compounding Interest* [**Exposure**] } | Does nothing to the masonry. What compounds is the worker's own unperformed obligation becoming structural the longer the load is carried without relief, until the weight stops registering as weight. | Enforces the monitored duration set before approach, and withdraws the worker who says it feels ordinary rather than the worker who complains. | The file's caution is inverted from every other holding in the wing: the one who has stopped noticing is the casualty, and the one who is still uncomfortable is the reading. |
+| { *The Foreclosure* [**Refusal**] } | Returns the whole load of a strike on the attempt itself. Two demolition attempts are on file and both ended the same way — the equipment destroyed, the structure unmarked. | Does not strike it and does not attempt demolition at any gauge. The attempt is recorded against the marks and the cycle returns to measure-record-acknowledge. | The refusal is the unmarked face. Nothing has ever come away from this wall, so there is nothing to fight and no version of the work in which striking it is a step. |
+| { *The Total Default* [**Overload**] } | Passes both ends of the thoroughfare in one interval, so that another stretch of road stops being usable at once while the face itself is still standing in the morning. | Clears the road on the length reading rather than on a sighting, and measures both ends before anything else. | A total-default expansion is recorded by the road it takes and not by the wall it leaves. The metres lost are the measure, which is why the marks are set at both ends and not at the face. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is checked — the uncarved names, the sound of a page turning — against the Row's three ordinary boundary walls, which stay silent and blank. Owed is confirmed against the designation, the marks are taken, and the cycle opens.
-2. **Clash:** Four turns at the face, observation and endurance only. Nobody climbs it, nobody strikes it, and the marks are read at the start and the end of every turn by two people independently.
-3. **Resolution:** The watch ends in containment, under management or in retreat, or on the suppression condition entered below: **Measure and acknowledge the debt; the Wall cannot be demolished**. The clause is absolute on this ground — nothing here is taken apart, and the count is left where it stands.
+1. **What is confirmed:** the length at both ends of the thoroughfare against the marks, the block count with the debt custodian present, and the monitored duration set before anybody approaches the face.
+2. **What the watch does:** Viderehan for the debt on the face and Ferrehan for bearing it without adding to the load, with the dispute fields preserved and nothing struck, drilled or pulled.
+3. **How it closes:** the close is the file's documented condition: **Measure and acknowledge the debt; the Wall cannot be demolished** — and a watch that ends with anything removed from the face has not closed at all, because nothing has ever come away from it.
 
 ### Consequences
 

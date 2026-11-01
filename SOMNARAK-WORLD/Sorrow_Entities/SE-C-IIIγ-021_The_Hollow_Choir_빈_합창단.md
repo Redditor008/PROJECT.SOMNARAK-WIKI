@@ -44,51 +44,36 @@
 - Emotional pressure is the hazard and volume is not. An operative who recognises a voice is withdrawn from the rotation at once and is not returned to it; eleven have been withdrawn on that ground.
 - Extraction carries the same recognition hazard as contact and is run as a separate event, with the extraction crew drawn from outside the district wherever the roster allows.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0 m/s — the choir is a place; what spreads is the sound, and the place does not travel |
-| **Resistance** | 35 per cent against Lament pressure and 25 against everything else, and the numbers describe a choir rather than a fighter: the Choir does not pursue, so a crew holds against its own recognition. The gauge opens full at 726 and trips at 75 per cent, and the file allows 5 turns from the stage edge. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 726/726 |
-| **Han Pressure [ATK]** | 15–33 per turn of exposure · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and the file says in its own rows that bodily injury on this holding belongs to one prohibited experiment and not to the Choir. What arrives is voices, and what they take is the end of a sentence.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Personality and response shaped by music |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A chamber of sound in the amphitheatre rather than a figure in it: one voice beginning at a time, unfinished, then more of them, and none of the songs ever ending. Nothing is visible and nothing moves; the zone is the holding. |
+| **Perceptible to** | The weeping in the corridor air before the amphitheatre door, then the number of voices, then the silence where an ending should have been. Staff are found standing still mid-action, which is how the roster learns before the instruments do. |
+| **Handling** | Sing back. A voice is given in return, the acknowledgement is made aloud in the chamber, and nobody attempts to finish the song or to stop it — every escalation on file followed an attempt to do one of those two things. |
+| **Activation threshold** | 2 missed conditions |
+| **Sorrow Gauge [HP]** | 726/726 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | SECTOR-C-01, amphitheater in Zone C; contained |
+| **Valid Work Types** | All four are available to a Subject. Flerehan meets the unfinished grief, Pugnahan confronts the refusal to end, Viderehan reads the count of voices, and Ferrehan sits the chamber without adding to it; the two that lower the gauge fastest are the two that do not ask the song to conclude. |
+| **Location** | SECTOR-C-01, amphitheater in Zone C |
 | **Resolution Condition** | Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Voice* [**Debuff**] } | "One voice begins — thin, unfinished, the sound of someone who never got to end their song." | [A single mournful voice rises from the Choir; the target hears a grief that is not theirs.] | *Target suffers -10 Composure; the note lodges in them.* **[10 Lament DMG [Lament]]** | When the Choir begins to sing. |
-| { *The Swelling Chorus* [**Debuff**] } | "More voices join — and none of them are whole." | [The Choir's numbers swell; the unfinished voices layer into a pressure.] | *Target loses 10 Composure; the harmony presses in from all sides.* **[10 Lament DMG [Lament]]** | When the target stays within earshot. |
-| { *The Broken Harmony* [**Attack**] } | "The chord splits — and what it opens is not skin. It is the place where you were about to finish a sentence." | [A discordant strike: the harmony fractures and the break lands as pressure on the Mind, the only kind this holding has. Bodily injury on this file belongs to one prohibited experiment, not to the Choir.] | *Inflicts Lament pressure; the worker loses the end of what they were saying and remembers having been about to say it.* **[14-22 Lament DMG [Lament]]** | When the Choir is interrupted. |
-| { *The Anthem* [**Attack**] } | "Every group at once — and still nothing ends. A hundred and forty-four beginnings, all breaking where they always break, together." | [All twelve groups sound simultaneously; no song has finished in the recorded life of this holding, and none finishes here. What overwhelms is the simultaneity of the breaks.] | *A heavy Deep Blue wave; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Choir is commanded — every escalation on file followed an attempt to finish the song or to stop it. |
-| { *The Requiem* [**Ultimate**] } | "Everyone sings — the dead, the lost, the ones who never finished." | [The overlap opens to anything unfinished and the chamber sounds like a building with a hundred and forty-four reasons in it.] | *All in range suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Choir does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Voice* [**Register**] } | Starts one voice, thin and unfinished, the sound of somebody who never got to end their song; the note lodges in whoever hears it and the corridor is closed at both ends. | Counts the voices against the last watch and marks the door, and notes who is on the roster inside earshot before the count begins. | Nothing is done to the Choir and nothing is done to the building. The register is a count of beginnings, and it has never yet been a count of endings. |
+| { *The Swelling Chorus* [**Exposure**] | Adds voices until the unfinished ones layer into a pressure that comes in from all sides, and the harmony presses rather than strikes. | Keeps the interval short, reads the count from the door rather than from inside, and walks out anybody who has stopped speaking in sentences. | A worker who cannot hold does not break down; they stop mid-action and are found standing still. The file's description of the end state is a person who knows exactly what they were about to say and cannot say it. |
+| { *The Broken Harmony* [**Refusal**] } | Splits the chord when it is interrupted, and what it opens is not skin — it is the place where a worker was about to finish a sentence. | Does not interrupt. No command is given, no silence imposed and no song conducted to its end; the standing instruction is that all three are the same mistake. | The file is blunt about the mechanism: this holding's pressure lands on the mind and is the only kind it has, and bodily injury here belongs to one prohibited experiment. Attempting to stop the song is what makes the break audible. |
+| { *The Anthem* [**Overload**] } | Sounds all twelve groups at once — a hundred and forty-four beginnings, every one breaking where it always breaks, and not one of them finishing. | Clears the corridor, withdraws the roster, and records the simultaneity rather than an attempt to restore order in it. | What overwhelms is the simultaneity, not any single voice. The count of 144 is the record, and the file has never had a report of a song that ended. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification rests on two things — the surfaces sounding rather than a voice from a body, and every line stopping mid-phrase. The district keeps two choirs of ordinary singers and both of them finish their lines, which is the whole of the distinction. Positions are taken at the stage edge before the cycle opens.
-2. **Clash:** Five turns, worked from the stage edge. Nobody sings a line the Choir has not sung first, nobody completes a broken phrase, and the group pattern is logged every turn.
-3. **Resolution:** The cycle closes when the crew has sung back, and the file's suppression condition: **sing to it, acknowledge the voices and give them a voice in return; attempts to impose silence fail** — held without exception, because every escalation on file followed an attempt to finish the song or to stop it. The count has held at 144 through two Tides and both containment events, and the file's position is that the number is the holding and the singing is the only instrument that reads it.
+1. **What is confirmed:** the count of voices against the previous watch, the roster inside earshot, and the corridor closed at both ends.
+2. **What the watch does:** the acknowledgement given aloud and a voice given in return, with nobody commanding silence, nobody conducting an ending, and the exposure shortened for anybody who has stopped speaking in sentences.
+3. **How it closes:** the close is the file's documented condition: **Sing to it. Acknowledge the voices and give them a voice in return. Attempts to impose silence fail** — and a watch that ended in silence is entered as an escalation, because silence is the one thing the file has never achieved.
 
 ### Consequences
 
@@ -453,7 +438,7 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 726/726, pressure 15–33 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 5 turns, the weapon at 7–12 and 40 Echoes, the shroud at 35, the lyre at 4 per cent and +2, 2 conferrals, 144 voices in 12 groups, and a 1-hour listening cap.
+- The register keeps its own figures in numerals for look-up: gauge 726/726, exposure pressure 15–33 per turn in the chamber, resistance 35 / 25 per cent, threshold 75 per cent, 5 turns to the count of voices.
 
 - The count of a hundred and forty-four has not moved despite later silencings elsewhere in the city, which the wing regards as the most important negative finding in the file.
 - Its songs hold particulars the official record has lost or denies — 61 of them appear in no Archive holding and 9 are contradicted by one — and none of them can be used for anything, for the reason set out in the Warden Record.

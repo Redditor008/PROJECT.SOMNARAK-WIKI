@@ -44,51 +44,36 @@
 - Day to day the hazard is mass, not malice: it is logged with the engineers as live load on the Gate apron. It has struck twice, both times at a worker re-entering by the wrong route.
 - Recovery of the Blade from the cordon is separately authorised and has been exercised once.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0 m/s — it holds the Gate; under a Corrupt event it intensifies in place and does not advance |
-| **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that the guardian is not what a worker resists: it holds the Gate where it stands, and what the percentages describe is the rage of a post that has never been relieved. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per turn of exposure · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — holds its ground at the Gate*, and the file's own account of its worst row is that no shield-slam and no advance were ever recorded: six and a half centuries of ledgers place the figure nowhere but at the Gate. The two injuries on file are procedural, and both were workers re-entering by the wrong route.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — a single continuous duty, unbroken since before the facility |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A figure at the Exile's Gate with an arm wide enough to close the passage, standing where the ledgers have always put it. It does not advance, does not charge and does not follow anybody away from the threshold. |
+| **Perceptible to** | The arm across the passage first, then the sound that is not quite a voice and not quite a roar, and the absolute clarity that the answer is no. Anybody who has already been read as inbound meets the threshold rather than the figure. |
+| **Handling** | State the purpose of departure at the gate and do not attempt to return through it. The post makes no exceptions, and the roster is briefed on that before the shift rather than at the threshold. |
+| **Activation threshold** | 1 — counts down; a single ignored condition events it |
+| **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | SECTOR-E-01, Zone E — guards the Exile's Gate |
+| **Valid Work Types** | All four are available to a Subject. Flerehan for the grief of the ones who left, Pugnahan for the refusal itself, Viderehan for the ledger, and Ferrehan for standing at a gate that will not open; the counting row is what makes this a one-condition holding. |
+| **Location** | SECTOR-E-01, Zone E |
 | **Resolution Condition** | State the purpose of departure; do not attempt to return through the Gate |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Blocking Arm* [**Debuff**] } | "The guardian extends one arm across the gateway — and the arm is wider than the passage." | [The Guardian blocks the target; the denial of passage is absolute.] | *Target suffers -10 Resilience; they are not getting through.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Gate. |
-| { *The Warning Growl* [**Debuff**] } | "A sound — not quite a voice, not quite a roar — that says, more clearly than words: turn back." | [The Guardian's threat presses on the target; their resolve weakens.] | *Target loses 10 Resilience; the warning is not a suggestion.* **[10 Grudge DMG [Grudge]]** | When the target does not retreat. |
-| { *The Shield-Bash* [**Attack**] } | "Nothing charges. The mass is simply already there, square to the passage, and meeting it wrongly is the whole of the impact." | [No shield-slam and no advance: six and a half centuries of ledgers record the figure nowhere but at the Gate. The two injuries in the file were workers re-entering by the wrong route, answered at the threshold.] | *Inflicts Grudge pressure; the wound on record is the procedural kind — a worker read as inbound by a post that makes no exceptions.* **[14-22 Grudge DMG [Grudge]]** | When the target challenges the Guardian — which the holding reads as an attempted return. |
-| { *The Sealed Gate* [**Attack**] } | "The gate slams shut behind you — and now you are on this side, and the guardian is between you and the way out." | [The exit is closed from the outbound side, and the figure turns to face somebody who is now, by the ledger's own rule, inbound.] | *A heavy Crimson entrapment; the gauge jumps 15 at a stroke.* **[24-36 Grudge DMG [Grudge]]** | When anyone attempts to return. |
-| { *The Eternal Watch* [**Ultimate**] } | "No second guardian appears at any other gate. What spreads is the radius: the zone warps outward past the cordon marks, and every doorway inside it is kept the same way — anyone in it is treated as inbound." | [The vigil does not travel. Under a Corrupt event the holding intensifies in place and the ground it governs takes in more of the district.] | *Every worker in range takes Grudge pressure across 3 turns inside the widened radius; three cordons have been lost to barrier failure this way, all costed in the file.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the guardian does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Blocking Arm* [**Register**] } | Extends one arm across the gateway, wider than the passage, and the denial of passage is absolute. It does not move the arm toward anybody. | States the purpose of departure aloud at the gate, records it, and confirms the roster's outbound route before the shift rather than at the threshold. | Nothing is charged and nothing is chased. The arm is already there, and the whole of the reading is whether a worker is outbound or inbound by the ledger's own rule. |
+| { *The Warning Growl* [**Exposure**] } | Makes a sound that is not quite a voice and not quite a roar and says, more clearly than words, turn back. Resolve weakens in the listener; the figure does not close the distance. | Turns back. The warning is taken as the instruction it is, and no attempt is made to argue the passage at the threshold. | The file's word for this is a warning and not a threat, and the distinction is the record's: nothing has followed a worker away from the Gate in six and a half centuries. |
+| { *The Shield-Bash* [**Refusal**] } | Does not bash. There is no shield-slam and no advance; the mass is simply already square to the passage, and meeting it wrongly is the whole of the impact. Both injuries on file were workers re-entering by the wrong route, answered at the threshold. | Keeps the outbound route clear and the inbound route closed, and treats a worker read as inbound as out of the watch rather than as a casualty to be recovered. | The wound on record is procedural: a post that makes no exceptions reads a returning worker as inbound. That is why the threshold is briefed before the shift, and why nobody argues it at the gate. |
+| { *The Sealed Gate* [**Overload**] } | Closes the exit from the outbound side, and the figure turns to face somebody who has become, by the ledger's own rule, inbound. | Closes the route from the watch's end rather than from the gate's, takes the head count, and records who was outbound at the moment of the seal. | The entrapment is a rule before it is a wall. The figure never moves; what changes is which side of the ledger a person is standing on, and the head count is the only instrument that catches the change. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Aegis is confirmed by an armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised. Before anything else is tried the pair fixes where it will stand and how it will withdraw.
-2. **Clash:** Every approach is authorised singly and every worker states their direction aloud at the threshold before the cycle opens. Outbound and inbound are different procedures here and the holding draws no distinction the Directorate's people do not draw first.
-3. **Resolution:** The Gate is left in containment, in management, in retreat, or standing as it always has, and the entry is made under the suppression condition: **State the purpose of departure; do not attempt to return through the Gate**. The condition is satisfied once the departing worker has said aloud where they are going and for what, and has not turned back at the threshold; a cycle that ends with anybody reaching for the inbound side is filed as a return attempt, whatever was meant by it.
+1. **What is confirmed:** who is outbound and on what stated purpose, the route out recorded before the shift, and the ledger line each worker will be read against at the threshold.
+2. **What the watch does:** Viderehan for the ledger and Ferrehan for standing at a gate that will not open, with the purpose of departure stated aloud and no attempt made to return through it.
+3. **How it closes:** the close is the file's documented condition: **State the purpose of departure; do not attempt to return through the Gate** — and a worker who returns by the wrong route is entered as inbound, which is the whole of what the two injuries on file have in common.
 
 ### Consequences
 

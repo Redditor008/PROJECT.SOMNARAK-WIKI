@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five holdings whose own rows said nothing was coming (2026-11-01)
+
+Twelfth batch, and the first outside the relics. All five were already classified non-breaching and all five still carried a battle table, and in every case one of their own rows had been quietly correcting it for years.
+
+- **Hollow Choir** (`C-IIIγ-021`) — a chamber of sound, not a figure in one. Its own pressure row says bodily injury on this file belongs to one prohibited experiment and not to the Choir; what it does is take the end of a sentence. A hundred and forty-four beginnings in twelve groups, and the record has never had a report of a song that ended.
+- **Owed** (`C-IIIγ-180`) — a wall that gains length and height between watches, never witnessed arriving. Two demolition attempts are on file and both ended identically: the equipment destroyed, the structure unmarked. Demolition is not a Work Type and never has been.
+- **Midnight Choir** (`C-IIβ-245`) — eleven painted mouths, opening on the hour to the minute in sixty-one years. The instrument is the book kept open through the night, with every break word entered verbatim, including the nine that were serving officers' names.
+- **Sleeping Weight** (`C-IVδ-357`) — recumbent for eleven years, and the register's own word for it was an escape until the holding's row corrected it: it does not rise, does not walk and does not pursue. The waking entry is modelled, recorded and unobserved.
+- **Aegis** (`C-IVδ-200`) — the figure at the Exile's Gate, arm across the passage, and six and a half centuries of ledgers placing it nowhere else. No shield-slam and no advance: both injuries on file are procedural, and both are workers who re-entered by the wrong route.
+
+**A missing row, found by the conversion.** Sleeping Weight had no `Sorrow Gauge [HP]` figure anywhere outside its battle table — which is to say the holding's own stat line lived only in the section that was being removed. It now stands in the Operational Parameters block at 809/809, where every other dossier keeps it, and the Contact Record carries the same number.
+
+**Where the counts stand.** Ninety-eight dossiers now carry a Contact Record; two hundred and three still carry combat, which is the honest number — most of the wing can in fact fight. What has closed is the specific class this pass was for: holdings that cannot close distance, cannot strike, and had been filed anyway with a battle length and a threat role.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS (0 missing, 0 under band) · `breach.py` every floor met.
+
 ## The five that fight, and why each of them keeps its record (2026-11-01)
 
 Eleventh batch closes the relic pass. One file converts; five do not, and this entry is as much about the five — each of them now says, in its own first paragraph, why a combat record is the honest form for it.

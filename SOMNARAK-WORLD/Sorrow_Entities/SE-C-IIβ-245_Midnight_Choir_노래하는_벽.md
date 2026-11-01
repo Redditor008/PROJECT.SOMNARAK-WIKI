@@ -44,51 +44,37 @@
 - No breach counter. The audible field has never exceeded the corridor's ninety-four metres, and the boundary is chalked at both ends before the rotation begins because the expansion entries in this file predate anybody measuring it.
 - Extraction draws on residue at the corridor ends under separate authorization. No recording device is left running; the prohibition is absolute and is explained in the Watch Record rather than here.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed in plaster; the performance is measured in songs begun and songs broken off, not in turns |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
-| **Activation threshold** | Midnight, nightly, without variation; the gauge has never been a trigger and the entry claiming 60% is withdrawn |
-| **Sorrow Gauge [HP]** | 407/407 |
-| **Han Pressure [ATK]** | 9–23 per turn of exposure · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — eleven frescoes in load-bearing plaster; only the painted mouths work, and only after midnight*. Nothing in this holding has a reach: what it does is open on the hour and stop, mid-word, and the watch's whole task is writing down where it stopped.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | The sequence — forty minutes to six hours, set by the night's count (nine to eighty-one songs). Nothing here is measured in turns. |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats singing |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | Eleven painted mouths in the plaster of a load-bearing wall, closed all day and opening at midnight on the hour. In sixty-one years the first mouth has never been a minute late and never a minute early. |
+| **Perceptible to** | The first note on the hour, then the break — always inside a word rather than at the end of a line — and then the next song starting immediately. The corridor is closed at both ends before the sequence begins. |
+| **Handling** | The book is open before midnight and stays open: every count and every break word entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure attached afterwards. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 407/407 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Old Lament — ambient |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the sequence and holds the gauge; Ferrehan is the transcription kept through a night that does not resolve, and it lowers the gauge. Recording is not a Work Type, which is why the fourth voice is prohibited rather than scheduled. |
+| **Location** | Zone B, Old Lament |
 | **Resolution Condition** | The night's count and every break word are entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure is attached |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *Midnight* [**Debuff**] } | "The first mouth opens on the hour. In sixty-one years it has never been a minute late and never a minute early." | [The sequence begins; the corridor is closed at both ends.] | *The transcriber suffers -10 Composure; the book is open and must stay open.* **[10 Lament DMG [Lament]]** | At midnight, nightly. |
-| { *The Break* [**Debuff**] } | "It stops mid-word. Not at the end of a line — inside a word, and the word is written down exactly as it was cut." | [A song ends part-way; the break word is taken verbatim.] | *The transcriber loses 10 Composure; the next song begins immediately.* **[10 Lament DMG [Lament]]** | On each unfinished song. |
-| { *The Named Officer* [**Attack**] } | "Nine times a break word has been a serving officer's name, and nine times it has gone into the book unaltered." | [A break word names somebody in the building.] | *Lament pressure on the transcriber; the entry stands as heard.* **[14-22 Lament DMG [Lament]]** | When a break word names a person. |
-| { *Eighty-One* [**Attack**] } | "The longest night on record. Eighty-one songs begun, seventy-seven broken off, and that quarter the register closed eight hundred and three statements unfinished." | [The night's count exceeds sixty songs.] | *Heavy Lament pressure; the gauge rises 15%.* **[24-36 Lament DMG [Lament]]** | On any count above sixty. |
-| { *The Fourth Voice* [**Ultimate**] } | "Three recordings exist. Each carries a voice that was not in the corridor and is not in the plaster. Nobody has been willing to authorise a fourth." | [A recording device is left running through a sequence.] | *All present suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Prohibited; recorded here because it has happened three times. |
+| Event | What the Choir does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *Midnight* [**Register**] } | Opens the first mouth on the hour, on time to the minute, and begins a song that will not be finished. | Has the book open and the corridor closed at both ends before the hour, and enters the count as it happens rather than after the night has ended. | The count is the reading and the book is the instrument. The corridor being closed is not a containment measure — it is there so that the count is not contaminated by somebody walking through the sequence. |
+| { *The Break* [**Exposure**] } | Stops mid-word, inside the word rather than at the end of the line, and starts the next song immediately, so that the night accumulates breaks faster than usual writing can hold them. | Writes the break word exactly as it was cut, keeps the book open, and does not complete the word from context for the reader's benefit. | Verbatim is the whole standard here. A completed word is a fiction the quarter's unfinished-statement figure would then contradict, and the figure is what the register closes on. |
+| { *The Named Officer* [**Refusal**] } | Puts a serving officer's name where a word broke — nine times on record, and nine times it went into the book unaltered. | Enters the name as heard and lets it stand. The entry is not softened, initialled or referred upward before it is written. | The refusal here belongs to the watch, not to the wall: the file requires the name to be written, and the pressure is the pressure to leave it out. That is what the Lament reading on the transcriber is. |
+| { *The Fourth Voice* [**Contagion**] } | Leaves a voice in a recording that was not in the corridor and is not in the plaster. Three recordings exist and every one of them carries it. | Prohibits a fourth recording and records the prohibition rather than the reason for it in the night's book. | Nothing has ever been authorised a fourth time, and the three existing recordings are the whole of the evidence. The standing order is what happens instead of an experiment. |
+| { *Eighty-One* [**Overload**] } | Runs the longest night on record — eighty-one songs begun, seventy-seven broken off — and the quarter afterwards closes with eight hundred and three statements unfinished. | Records the count above sixty as an overrun, attaches the quarter's unfinished-statement figure, and does not attempt to shorten the night. | The night is what it is and the book records it. Eight hundred and three is not a consequence of the Choir's night; it is the figure the register closes the quarter on, which is how the wall's work and the district's books are kept in one account. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team identifies Midnight Choir by eleven frescoes of named dead along ninety-four metres of east corridor, pigment salt-damp and smelling of cold rain, silent until midnight. If anything is heard before midnight or outside the ninety-four metres, clear the corridor and walk it again: the sound does not match this holding’s recorded field. Confirm both chalk marks and the previous night’s count before taking position with the verbatim book; no unexplained sound is accepted as an early performance.
-2. **Clash:** There is no clash. The corridor is attended for the whole performance and the night's count is taken: how many songs were begun, how many broke off, and at what words. Work Types hold the attending party steady through it; nothing done by the party has ever shortened, lengthened or altered a performance.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Listen and catalogue; do not silence the walls**.
+1. **What is confirmed:** the book open and the corridor closed at both ends before the hour, the count from the previous night, and the transcriber named for the night.
+2. **What the watch does:** Viderehan for the sequence and Ferrehan for the transcription kept through to the last break, with every break word entered verbatim and no word completed from context.
+3. **How it closes:** the close is the file's documented condition: **The night's count and every break word are entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure is attached** — and a night entered from memory in the morning is not a close at all.
 
 ### Consequences
 

@@ -27,6 +27,7 @@
 | **Risk tier** | Critical (δ) |
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
+| **Sorrow Gauge [HP]** | 809/809 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn from something asleep under an unfinished foundation. The deep tunnels station has asked four times for the yield to be halved and the cycles doubled, on the grounds that two quiet visits are safer than one long one. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
@@ -44,51 +45,36 @@
 - Burden pressure reaches personnel as fatigue before the gauge responds; crews are rotated on a timer.
 - Extraction is separately authorised and never follows a quiet shift; both pieces were cut during the fourth hour of a watch, when the breathing is deepest, by a team that had rehearsed the cut in silence upstairs.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0 m/s — recumbent; it has not changed posture in the record and has never stood |
-| **Resistance** | 45% against Weight. Nothing has been struck and nothing will be. The standing order is that any contact with the mass is an incident and any noise above a spoken voice is reportable. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 809/809 |
-| **Han Pressure [ATK]** | 29–63 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *recumbent — it has not changed posture in the holding's record and has never stood*, and the classification corrects the register's own word for it: an escape was filed, and the holding's row says it does not rise, does not walk and does not pursue. The terminal row is modelled and has never been observed.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A mass lying in the deep tunnels that has not changed posture since the record began, breathing slowly enough that the floor moves with it. Every prop in the cut has been replaced four times; the roof has held every time. |
+| **Perceptible to** | The floor first — a redistribution of load underfoot — then the pressure, which reads as being inside somebody else's sleep. The sound it makes is a sigh, and a sigh here is enough to buckle a wall. |
+| **Handling** | Say the words at the ladder foot before going up, share the burden rather than concentrating it on one person, and do not touch the structure above it. Nobody tries to wake it to see what happens. |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
+| **Sorrow Gauge [HP]** | 809/809 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone B, lower tunnel, nine hundred metres in, beneath the unfinished works |
+| **Valid Work Types** | All four are available to a Subject. Flerehan meets the sleep itself, Pugnahan confronts whoever proposes waking it, Viderehan reads the load, and Ferrehan carries a share of it without concentrating the burden. The two that lower the gauge are the two that do not touch the structure. |
+| **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | Say the words at the ladder foot; do not wake it; do not touch the structure above it |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Restless Turn* [**Debuff**] } | "It stirs in its sleep, and the whole floor shifts under you." | [The Weight turns over in slumber; the ground lurches and the pressure redistributes.] | *Target suffers -10 Resolve from the sudden shift of mass.* **[10 Weight DMG [Weight]]** | When the Weight is disturbed in its sleep. |
-| { *The Dreaming Pressure* [**Debuff**] } | "Its dreams press outward — and you are inside one now." | [The Weight's dreams seep into the waking space; the target moves through someone else's sleep.] | *Target loses 10 Resolve; reality feels half-dissolved.* **[10 Weight DMG [Weight]]** | When the target lingers near the sleeper. |
-| { *The Sighing Blow* [**Attack**] } | "Even its sigh, in sleep, is enough to buckle a wall." | [A sleeping sigh becomes a wave of crushing weight rolling outward.] | *Inflicts Weight pressure and one heavy wound.* **[14-22 Weight DMG [Weight]]** | When the Weight is touched or startled. |
-| { *The Waking Fit* [**Attack**] } | "It nearly wakes, and the almost is worse than the sleep." | [A convulsion of near-waking; the mass shifts a few centimetres and the tunnel takes the load.] | *24–36 Weight to everybody in the cut; the props have been replaced four times and the roof has held every time.* **[24-36 Weight DMG [Weight]]** | When the burden is concentrated on one person rather than shared. |
-| { *If It Wakes* [**Ultimate**] } | "Do not let it wake. If it wakes the weight of it is on all of you." | [Full waking. Modelled, never observed.] | *Projected as facility-threatening; the entry exists so the standing order has something to point at.* **[Projected]** | Never recorded in eleven years. The nearest approach was the Year 4,233 fit, which lasted nine seconds. |
+| Event | What the Weight does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Restless Turn* [**Register**] } | Turns over in its sleep and the whole floor shifts underfoot as the mass redistributes. It does not wake and does not come towards anybody. | Reads the floor at the marked pins, counts the props against the last visit, and checks the ladder foot before anyone goes up. | The instrument is the floor, not the sleeper. The props have been replaced four times in eleven years and the roof has held on every one of those occasions, which is the whole of the file's reassurance. |
+| { *The Dreaming Pressure* [**Exposure**] } | Lets its dreams press into the waking space, so that a worker near it moves through somebody else's sleep and reality reads as half-dissolved around the edges. | Keeps the interval short, shares the burden across the party, and withdraws the worker who stops being able to say which of the two they are in. | Nothing is struck and nothing is offered. What the near-watch takes is the boundary between the tunnel and the dream, and the file's rule about sharing the burden is aimed at the load rather than at the dream. |
+| { *The Sighing Blow* [**Refusal**] } | Sighs in its sleep when it is touched or startled — and the sigh buckles a wall. It does not wake to do it and does not turn towards the sound. | Does not touch it and does not startle it. The structure above is left alone, and a party that has disturbed the floor is walked out rather than talked down. | The refusal is sleep. Everything the holding does, it does without waking, and the one response the file describes for a startle is a change in the room and not in the figure. |
+| { *If It Wakes* [**Overload**] } | Has never woken. Full waking is modelled, recorded and unobserved — the entry exists so that the standing order has something to point at, and the nearest approach was a nine-second fit in Year 4233. | Enters the fit as an event, takes the load readings at the pins, and does not go up to see whether the roof will hold. | Eleven years and no waking, and the file says so in the same breath as the standing order. The order is not a prediction; it is the whole of what the facility has to offer against a number nobody has measured. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The party of four goes down together, confirms the props, and divides the shift's lifting between them in advance — in writing, at the head of the stair, before anybody is tired enough to volunteer for more.
-2. **Clash:** The crew works from the ladder foot outward, calling the load reading at each station as they pass it. Pugnahan is listed as valid and has been used twice in the holding's history; both occasions are the two highest readings on record and both are cited in the standing order against a third.
-3. **Resolution:** The shift ends with the burden shared as written and the breathing unchanged. 211 shifts; the four occasions somebody took more than their share are the four Waking Fits on file.
+1. **What is confirmed:** the floor at the marked pins, the prop count against the last visit, the weight shared across the party rather than concentrated, and the words said at the ladder foot.
+2. **What the watch does:** Viderehan for the load and Ferrehan for carrying a share of it, with nobody touching the structure above and nobody proposing that it be woken to see.
+3. **How it closes:** the close is the file's documented condition: **Say the words at the ladder foot; do not wake it; do not touch the structure above it** — and a watch that ended with the sleeper disturbed is entered as an open cycle, however still the room was afterwards.
 
 ### Consequences
 
