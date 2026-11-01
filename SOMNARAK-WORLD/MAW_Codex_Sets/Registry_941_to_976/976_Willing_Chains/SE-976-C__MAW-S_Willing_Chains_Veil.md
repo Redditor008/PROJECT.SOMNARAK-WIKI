@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Willing Chains Veil
 
-> *“Willing Chains Veil remembers Willing Chains; the bearer must not mistake memory for permission.”*
+> *"The wearer cannot be removed from what they have agreed to. They become the thing the room is tied to."*
 
 ---
 

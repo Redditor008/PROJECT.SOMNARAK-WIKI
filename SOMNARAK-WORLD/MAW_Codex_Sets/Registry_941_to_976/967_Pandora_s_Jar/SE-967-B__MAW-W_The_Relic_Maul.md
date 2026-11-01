@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Pandora War-Cleaver
 
-> *“The Relic Maul remembers Pandora's Jar; the bearer must not mistake memory for permission.”*
+> *"It opens what was sealed and puts the record of the opening somewhere the wielder cannot reach. Many battles, no memory of them."*
 
 ---
 

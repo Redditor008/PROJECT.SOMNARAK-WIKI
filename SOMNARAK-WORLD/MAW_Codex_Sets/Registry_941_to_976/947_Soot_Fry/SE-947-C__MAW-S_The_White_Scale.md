@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The White Scale
 
-> *“The White Scale remembers The Soot Fry; the bearer must not mistake memory for permission.”*
+> *"It absorbs weight by becoming the surface it is struck on, and keeps every hit it takes. The body becomes a riverbed."*
 
 ---
 

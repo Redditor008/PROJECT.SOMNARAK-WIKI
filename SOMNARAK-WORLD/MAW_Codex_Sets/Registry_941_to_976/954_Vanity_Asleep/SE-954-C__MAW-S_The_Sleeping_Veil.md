@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Sleeping Veil
 
-> *“The Sleeping Veil remembers Vanity Asleep; the bearer must not mistake memory for permission.”*
+> *"Nothing in the present can revise the wearer while it is on. They come out of it unchanging and unreachable."*
 
 ---
 

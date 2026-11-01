@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Torn Veil
 
-> *“The Torn Veil remembers Yggdrasil Wound; the bearer must not mistake memory for permission.”*
+> *"The wearer is coherent and incomplete, holding only what fits inside a single memory. A stranger with good recall."*
 
 ---
 

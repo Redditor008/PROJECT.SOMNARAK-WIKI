@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Still Current
 
-> *“The Still Current remembers The Soot Fry; the bearer must not mistake memory for permission.”*
+> *"The thrust sinks like a stone into water and drags the wielder's footing after it. They stand lower than the ground they fight on."*
 
 ---
 

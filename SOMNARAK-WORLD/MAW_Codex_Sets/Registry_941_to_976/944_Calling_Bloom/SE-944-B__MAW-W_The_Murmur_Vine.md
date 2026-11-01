@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Murmur Vine
 
-> *“The Murmur Vine remembers Calling Bloom; the bearer must not mistake memory for permission.”*
+> *"It repeats a voice back at whoever holds it, and the voice is always your own name in somebody else's mouth."*
 
 ---
 

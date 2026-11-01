@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Black Drop
 
-> *“The Black Drop remembers The Soot Fry; the bearer must not mistake memory for permission.”*
+> *"It weighs appetite, and it weighs the bearer's along with everyone else's, until they cannot tell a want they have from one they have been shown."*
 
 ---
 

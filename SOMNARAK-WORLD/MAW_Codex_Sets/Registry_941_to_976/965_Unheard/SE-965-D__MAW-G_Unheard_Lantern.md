@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Unheard Lantern
 
-> *“Unheard Lantern remembers Unheard; the bearer must not mistake memory for permission.”*
+> *"It shows every ending that was suppressed, and none of them can be told afterwards. The bearer is full and silent."*
 
 ---
 

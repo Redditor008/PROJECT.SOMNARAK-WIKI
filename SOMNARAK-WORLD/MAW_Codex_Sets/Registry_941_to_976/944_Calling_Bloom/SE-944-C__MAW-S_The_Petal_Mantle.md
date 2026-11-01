@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Petal Mantle
 
-> *“The Petal Mantle remembers Calling Bloom; the bearer must not mistake memory for permission.”*
+> *"The present is muffled so a remembered voice can be heard more clearly. The wearer answers it in company."*
 
 ---
 

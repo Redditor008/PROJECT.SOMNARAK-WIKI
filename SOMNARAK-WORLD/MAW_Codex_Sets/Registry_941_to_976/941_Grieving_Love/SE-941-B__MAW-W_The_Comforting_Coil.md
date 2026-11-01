@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Comforting Coil
 
-> *“The Comforting Coil remembers Grieving Love; the bearer must not mistake memory for permission.”*
+> *"It draws a sorrow out of whoever it touches, and the wielder's own composure pays the solvent. Nobody treats the one holding it."*
 
 ---
 

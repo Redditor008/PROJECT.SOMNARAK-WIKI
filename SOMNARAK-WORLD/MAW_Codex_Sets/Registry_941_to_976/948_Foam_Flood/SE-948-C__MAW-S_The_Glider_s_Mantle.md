@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Glider's Mantle
 
-> *“The Glider's Mantle remembers The Foam Flood; the bearer must not mistake memory for permission.”*
+> *"The wearer is calm and slightly airborne. A season of it leaves them no longer wanting to come down."*
 
 ---
 

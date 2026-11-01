@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Two-Halves Mantle
 
-> *“The Two-Halves Mantle remembers The Stormscale Sovereign; the bearer must not mistake memory for permission.”*
+> *"Nothing is stopped in it, only halved. A season of wear spreads the wearer's own grief thin enough that it never resolves."*
 
 ---
 

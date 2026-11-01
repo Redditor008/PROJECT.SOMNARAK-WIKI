@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Uprooted Shield
 
-> *“Uprooted Shield remembers Uprooted; the bearer must not mistake memory for permission.”*
+> *"The worst moment takes longer in it, and so does leaving the worst moment. Its wearers are still in a crisis from years ago."*
 
 ---
 

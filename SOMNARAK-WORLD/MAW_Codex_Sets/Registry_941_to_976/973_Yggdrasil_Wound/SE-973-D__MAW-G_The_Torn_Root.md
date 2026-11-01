@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Torn Root
 
-> *“The Torn Root remembers Yggdrasil Wound; the bearer must not mistake memory for permission.”*
+> *"It holds two memories at once and passes the strain into the bearer, until the bearer holds everything and can retrieve nothing."*
 
 ---
 

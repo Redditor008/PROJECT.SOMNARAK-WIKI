@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Tear Pendant
 
-> *“The Tear Pendant remembers Grieving Love; the bearer must not mistake memory for permission.”*
+> *"It warms for every grief nobody says aloud. The bearer cannot stop noticing, and is the only one in the district still awake to it."*
 
 ---
 

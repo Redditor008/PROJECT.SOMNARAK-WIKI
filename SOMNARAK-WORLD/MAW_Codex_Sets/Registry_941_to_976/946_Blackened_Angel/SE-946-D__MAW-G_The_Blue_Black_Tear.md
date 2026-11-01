@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Blue-Black Tear
 
-> *“The Blue-Black Tear remembers Blackened Angel; the bearer must not mistake memory for permission.”*
+> *"It darkens for a cruel wish and takes a little of the bearer's good opinion as the reading fee."*
 
 ---
 

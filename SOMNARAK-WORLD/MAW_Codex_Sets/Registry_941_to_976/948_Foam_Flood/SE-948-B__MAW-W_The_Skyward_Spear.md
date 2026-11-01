@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Skyward Spear
 
-> *“The Skyward Spear remembers The Foam Flood; the bearer must not mistake memory for permission.”*
+> *"Each cast gives the wielder's footing to the sky. Long service leaves them unable to tell being lifted from being taken."*
 
 ---
 

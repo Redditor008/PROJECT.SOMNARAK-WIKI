@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Mourner's Film
 
-> *“The Mourner's Film remembers Grieving Love; the bearer must not mistake memory for permission.”*
+> *"What reaches the wearer passes clean. Their own grief stays in the membrane, and everyone near them is worse for it."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Mismatched Eye
 
-> *“The Mismatched Eye remembers The Stormscale Sovereign; the bearer must not mistake memory for permission.”*
+> *"It sees all four at once and hands the bearer the whole of it. They end up watching everything and doing none of it."*
 
 ---
 

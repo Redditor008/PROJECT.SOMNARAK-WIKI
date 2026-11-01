@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Unheard Fang
 
-> *“Unheard Fang remembers Unheard; the bearer must not mistake memory for permission.”*
+> *"It lands and nothing is heard of it. The wielder is shouting with no way to confirm the shout."*
 
 ---
 

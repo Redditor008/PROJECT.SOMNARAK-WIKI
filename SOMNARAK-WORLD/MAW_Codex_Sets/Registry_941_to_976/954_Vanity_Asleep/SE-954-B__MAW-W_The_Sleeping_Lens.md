@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Somnolent Trench-Rifle
 
-> *“The Sleeping Lens remembers Vanity Asleep; the bearer must not mistake memory for permission.”*
+> *"The rifle puts what it hits to sleep without waking it, and takes a little of the wielder's own alertness for each shot."*
 
 ---
 

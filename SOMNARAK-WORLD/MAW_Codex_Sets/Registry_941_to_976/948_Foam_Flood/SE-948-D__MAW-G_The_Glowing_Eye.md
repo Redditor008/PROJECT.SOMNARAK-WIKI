@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Glowing Eye
 
-> *“The Glowing Eye remembers The Foam Flood; the bearer must not mistake memory for permission.”*
+> *"It flares for a longing nobody has said and hands that longing to the bearer. The whole of what they want is other people's."*
 
 ---
 

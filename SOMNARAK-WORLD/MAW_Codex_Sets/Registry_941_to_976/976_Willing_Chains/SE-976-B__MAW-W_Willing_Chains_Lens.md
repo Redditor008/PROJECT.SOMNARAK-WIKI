@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Willing Chains Lens
 
-> *“Willing Chains Lens remembers Willing Chains; the bearer must not mistake memory for permission.”*
+> *"Every blow drags the wielder into the same hold it strikes at. A season of it leaves them bound to a dozen districts."*
 
 ---
 

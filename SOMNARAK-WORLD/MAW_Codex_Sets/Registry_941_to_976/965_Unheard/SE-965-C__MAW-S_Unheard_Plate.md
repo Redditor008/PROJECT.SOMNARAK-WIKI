@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Unheard Plate
 
-> *“Unheard Plate remembers Unheard; the bearer must not mistake memory for permission.”*
+> *"The wearer is entirely unhurt and cannot describe what happened to them. No account of any fight survives."*
 
 ---
 

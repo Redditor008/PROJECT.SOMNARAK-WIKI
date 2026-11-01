@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Relic Charm
 
-> *“The Relic Charm remembers Pandora's Jar; the bearer must not mistake memory for permission.”*
+> *"Each use removes one record of the bearer. Carry it long enough and nothing left says they exist."*
 
 ---
 

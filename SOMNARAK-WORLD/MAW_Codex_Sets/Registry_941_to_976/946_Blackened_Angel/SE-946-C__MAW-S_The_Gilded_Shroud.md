@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Gilded Shroud
 
-> *“The Gilded Shroud remembers Blackened Angel; the bearer must not mistake memory for permission.”*
+> *"Every wish made near the wearer settles into the cloth. The robe is a ledger of what people secretly asked for."*
 
 ---
 

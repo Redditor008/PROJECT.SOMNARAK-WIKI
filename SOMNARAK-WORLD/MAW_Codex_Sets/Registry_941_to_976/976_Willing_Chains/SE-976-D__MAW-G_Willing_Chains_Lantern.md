@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Willing Chains Lantern
 
-> *“Willing Chains Lantern remembers Willing Chains; the bearer must not mistake memory for permission.”*
+> *"Every chain it makes visible feels like the bearer's own, and they end up answering every chain in the room."*
 
 ---
 

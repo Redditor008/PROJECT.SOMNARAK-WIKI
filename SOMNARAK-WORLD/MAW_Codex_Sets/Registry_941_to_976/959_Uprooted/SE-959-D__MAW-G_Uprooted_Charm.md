@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Uprooted Charm
 
-> *“Uprooted Charm remembers Uprooted; the bearer must not mistake memory for permission.”*
+> *"It gives the bearer somewhere to belong and moves it once they do. They are always unpacked."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Tarnish Plume
 
-> *“The Tarnish Plume remembers Blackened Angel; the bearer must not mistake memory for permission.”*
+> *"Every stroke spends something the wielder said they wanted, and by the end of a season the wishes left in them are all other people's."*
 
 ---
 

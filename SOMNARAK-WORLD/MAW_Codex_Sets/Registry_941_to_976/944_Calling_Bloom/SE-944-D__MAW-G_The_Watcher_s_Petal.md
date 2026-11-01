@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Watcher's Petal
 
-> *“The Watcher's Petal remembers Calling Bloom; the bearer must not mistake memory for permission.”*
+> *"It tells the bearer when a voice in the room is not the speaker's own. It tells them in that voice."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Relic Burden
 
-> *“The Relic Burden remembers Pandora's Jar; the bearer must not mistake memory for permission.”*
+> *"The wearer is stronger every time they are struck and never releases it. The body ends up a sealed container of force."*
 
 ---
 

@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Thirty-six epigraphs in 941–976 (batch 59)
+
+The Grieving Love, Calling Bloom, Blackened Angel, Soot Fry, Foam Flood, Stormscale Sovereign, Vanity Asleep, Uprooted, Unheard, Pandora's Jar, Yggdrasil Wound and Willing Chains sets — the whole range, thirty-six records.
+
+The Murmur Vine repeats a voice back at whoever holds it and the voice is always your own name in somebody else's mouth. The Gilded Shroud is a ledger of what people secretly asked for. The Unheard Fang lands and nothing is heard of it; the Relic Charm removes one record of the bearer per use until nothing left says they exist.
+
+Thirty-six of thirty-six clear `quote_audit.py --check`.
+
+**Left:** 258 epigraphs on the formula.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## Twenty-one epigraphs in 863–897 (batch 58)
 
 The Empty Lens, the Homecoming Tree, the Bridge of the Unchosen, the Frozen Tear, the Screaming Masonry, Repose and Welcome Haven. All twenty-one records in the range now open on their own line.

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Fourfold Fang
 
-> *“The Fourfold Fang remembers The Stormscale Sovereign; the bearer must not mistake memory for permission.”*
+> *"All four sorrows cycle through the wielder before any of them reach the target. By the end of a season they cannot say which one is theirs."*
 
 ---
 

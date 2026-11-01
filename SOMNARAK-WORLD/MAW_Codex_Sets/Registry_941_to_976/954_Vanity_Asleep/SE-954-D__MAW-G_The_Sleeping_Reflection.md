@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Sleeping Reflection
 
-> *“The Sleeping Reflection remembers Vanity Asleep; the bearer must not mistake memory for permission.”*
+> *"It shows the bearer their own exhaustion and leaves it with them: everything they now know about themselves and cannot act on."*
 
 ---
 

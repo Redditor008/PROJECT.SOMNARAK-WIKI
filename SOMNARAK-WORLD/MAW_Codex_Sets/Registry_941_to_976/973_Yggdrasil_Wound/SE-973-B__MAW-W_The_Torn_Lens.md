@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Wounded Tree-Censer
 
-> *“The Torn Lens remembers Yggdrasil Wound; the bearer must not mistake memory for permission.”*
+> *"The censer swings the one memory the wielder is allowed to keep. Every arc spends one of the others."*
 
 ---
 
