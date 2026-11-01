@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the tale pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Records the manifestations and names the tellers available in the district register. The hour cannot be struck or shortened, so what observation produces is the list of who could tell it. | Decrease |
+| **Ferrehan** (Endurance) | The party stays the hour inside the radius and takes what the others in the radius get: the certainty of having been left out of the story. Nothing else the hour offers is available to anybody who was not told one. | Decrease |
 
 ### Operational Work Notes
 

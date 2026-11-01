@@ -122,8 +122,8 @@ What it does to a building is measurable in millimetres a month. What it does to
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the weight pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the adjacent foundation gauges and the deflection survey, which is where the mass shows. What the eye reports in the aisle is nothing; the load is in the floor. | Decrease |
+| **Ferrehan** (Endurance) | A party stands the aisle for a full cycle while the gauges are read at intervals. Nothing presses on a person here — the endurance is the floor’s — and the session ends when the deflection moves. | Decrease |
 
 ### Operational Work Notes
 

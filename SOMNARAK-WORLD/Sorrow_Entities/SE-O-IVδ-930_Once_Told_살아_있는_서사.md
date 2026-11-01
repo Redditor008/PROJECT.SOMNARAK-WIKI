@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the tale pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the ground and the standing manifestations from a silent party on a written plan. Anything spoken in the sector is content, and the file is careful about which incidents it treats as ordinary response. | Decrease |
+| **Ferrehan** (Endurance) | The party works the full cycle in silence, on the written plan, and leaves without adding to the inventory. What endurance buys here is a session in which nobody told the ground anything. | Decrease |
 
 ### Operational Work Notes
 

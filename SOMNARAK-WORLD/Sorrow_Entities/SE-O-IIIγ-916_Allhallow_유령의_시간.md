@@ -127,8 +127,8 @@ Nobody has ever spoken to one of them and nobody has tried. The prohibition on a
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the phantasmal pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the hour from behind the line and records what walks in order: sixty minutes between first figure and last, which has been the same thirty-four times. | Decrease |
+| **Ferrehan** (Endurance) | Two posts count independently for the whole hour and reconcile afterwards without averaging or correcting either total. Endurance here is holding a count for an hour without deciding which of the two is right. | Decrease |
 
 ### Operational Work Notes
 

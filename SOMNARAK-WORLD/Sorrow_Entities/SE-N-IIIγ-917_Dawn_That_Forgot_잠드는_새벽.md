@@ -128,8 +128,8 @@ What the page described is this: the sun comes up over a district and the distri
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the dream pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the ambient series in the form it was filed and looks for the clustering after sunrise. One entry at a time shows nothing; the reading only exists in the series. | Decrease |
+| **Ferrehan** (Endurance) | The party holds the perimeter post from before sunrise until the last shutter opens and logs the three times. The endurance is a watch that begins earlier than the event and ends after it. | Decrease |
 
 ### Operational Work Notes
 

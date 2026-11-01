@@ -140,8 +140,8 @@ The mind descriptor is not a label on this file. It is the channel, and the enti
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the mind pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Counts the passes and nothing else. Observation returns the same ninety seconds every time, so what a session establishes is how many repetitions an observer survives before they lose the sense of having decided already. | Decrease |
+| **Ferrehan** (Endurance) | A party holds the marked radius for the full interval and says nothing about the content, using the agreed content-free exit question at the end. A party that argues with the thought has substituted a different session and the record will say so. | Decrease |
 
 ### Operational Work Notes
 

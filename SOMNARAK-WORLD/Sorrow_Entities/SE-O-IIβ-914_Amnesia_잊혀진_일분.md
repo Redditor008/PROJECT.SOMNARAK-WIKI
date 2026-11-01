@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the void pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the minute from outside the surveyed line and records the roll call afterwards. Nothing told to anybody inside during the minute survives, and saying a name widens the area. | Decrease |
+| **Ferrehan** (Endurance) | The party stays the minute outside the line and completes the roll call and survey when it ends. Endurance here is not entering: the one thing a party must not do to help is go in and say who somebody is. | Decrease |
 
 ### Operational Work Notes
 

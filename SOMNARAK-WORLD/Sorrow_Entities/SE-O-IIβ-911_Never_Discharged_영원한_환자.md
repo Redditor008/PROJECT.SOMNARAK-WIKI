@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Times the loop from outside the door and reads the corridor’s own figure. The weight arrives as tiredness, so the only reading that can be trusted is the clock. | Decrease |
+| **Ferrehan** (Endurance) | A party keeps the door shut and stays for the whole loop, timing it from outside. The endurance is spent against a tiredness that is not theirs and does not lift when the loop does. | Decrease |
 
 ### Operational Work Notes
 

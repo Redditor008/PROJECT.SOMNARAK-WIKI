@@ -140,8 +140,8 @@ The practical consequence is that this holding cannot be screened by gauge, beca
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the mind pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the chart and not the corridor. What a worker can describe afterwards is the route their own thinking took, which is why no two accounts of Floor 4 have ever matched and why the file keeps both. | Decrease |
+| **Ferrehan** (Endurance) | A party walks the tended line for the full cycle without stopping and without a work goal. Standing still is what the corridors do the work on, so the endurance here is motion, and a party that endures by holding position has done the opposite of the Work Type. | Decrease |
 
 ### Operational Work Notes
 

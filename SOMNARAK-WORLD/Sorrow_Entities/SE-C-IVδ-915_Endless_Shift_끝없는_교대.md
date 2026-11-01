@@ -124,8 +124,8 @@ It does not rage and does not weep. It persists, and the persistence is the whol
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the weight pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the sealed timepieces against the station log and the foreman’s register. The pressure is legible as the discrepancy between three clocks, not as a feeling in the room. | Decrease |
+| **Ferrehan** (Endurance) | A party works the station’s own shift in front of somebody who writes the hours down. The sorrow is labour that was performed and not counted, so the endurance asked for is the full shift entered, and a party that leaves unrecorded has done the work for nothing. | Decrease |
 
 ### Operational Work Notes
 

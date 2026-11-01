@@ -128,8 +128,8 @@ What the holding shows is a place that is gone, accurately enough for district r
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the phantasmal pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the gap for ninety seconds at a time and enters what appears in the flat as a category and not a description, which is the only form the record accepts. | Decrease |
+| **Ferrehan** (Endurance) | The party holds the room past the ninety-second close with the clock-holder naming the date at the cut. Anybody who recognises somebody in the glass is withdrawn and somebody else takes the remainder of the session. | Decrease |
 
 ### Operational Work Notes
 

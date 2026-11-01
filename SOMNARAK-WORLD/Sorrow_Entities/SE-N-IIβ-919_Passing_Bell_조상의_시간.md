@@ -128,8 +128,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Records who heard the bell and who did not, which is the whole of the reading: the bell is heard by whoever will be affected and by nobody else. | Decrease |
+| **Ferrehan** (Endurance) | The party keeps the no-speaking rule through a passing and overruns it rather than breaking it. The warning is the only thing that can be given, and it is given in writing, under the established procedure. | Decrease |
 
 ### Operational Work Notes
 

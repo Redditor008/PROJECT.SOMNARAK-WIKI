@@ -127,8 +127,8 @@ It does not act. Across seventeen years it has taken two rooms and injured no on
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Sits the room and writes down the lean, the bearing and the mass exactly as volunteered, then reads the barometer at handover, which records none of it. The file wants both numbers kept apart. | Decrease |
+| **Ferrehan** (Endurance) | A party takes the full watch and files the form whether or not anything leaned. The blank form is the result: three times the rate of reported lean comes from watches that went in expecting one. | Decrease |
 
 ### Operational Work Notes
 

@@ -128,8 +128,8 @@ So the containment is spacing. Eighteen metres by eleven, marked on the floor, l
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the grudge pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the grudge pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the widened footprint and the nine-to-fourteen-second window from behind the marked line, alone, at a distance re-surveyed each session; company at the edge is what the three recorded incidents have in common. | Decrease |
+| **Ferrehan** (Endurance) | The party stands in the corridor through an anger that has no subject and gives it none. Endurance here is silence and separation; a party that answers it has supplied the target the anomaly could not find on its own. | Decrease |
 
 ### Operational Work Notes
 

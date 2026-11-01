@@ -125,8 +125,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Measures the vessel and reads the register, sixty-one years of it, in which the absence of an event is entered as a finding rather than as a gap. | Decrease |
+| **Ferrehan** (Endurance) | The party re-seats the lid by hand and re-measures, and stays with the jar through the interval afterwards. Nothing here has ever required suppressing; the session ends when the reading has been taken twice and agrees. | Decrease |
 
 ### Operational Work Notes
 

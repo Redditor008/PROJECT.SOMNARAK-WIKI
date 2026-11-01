@@ -143,8 +143,8 @@ Containment took fourteen hours and the margin was narrow. What it contains is n
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the dream pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Maps the block again from the street side every session, because the building is not the shape it was last time. Forty surveys and no two agree, and the disagreement is the reading. | Decrease |
+| **Ferrehan** (Endurance) | The party holds the outside call for the full night and leaves at the called time, without entering a door that is not on the plan. What the watch buys is a record of the block unchanged while somebody was awake in it. | Decrease |
 
 ### Operational Work Notes
 

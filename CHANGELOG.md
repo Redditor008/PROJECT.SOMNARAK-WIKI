@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twenty Work-Type tables that had stopped describing the work (2026-11-01)
+
+The last of the big stock families, and the one a reader hits first. Twenty dossiers answered two of their four Work Type rows with the same sentence pair — *Permits study; the <x> pressure becomes legible under sustained observation* and *Recognizes patience; the <x> pressure settles gradually under sustained presence* — changing only the element word. A Warden reading three of them in a row learned nothing about the holding, and the pair quietly asserted that endurance means waiting, which is wrong on most of these files.
+
+Forty rows now say what the work is. The Labyrinth's endurance is motion, because standing still is what the corridors do the work on. Endless Shift asks for the full shift entered in front of somebody writing the hours down. Ninety Seconds is measured in repetitions survived, and a party that argues with the thought has run a different session. Miasma is read from outside the bank and endured by walking out and seeing whether anybody carries a sorrow they cannot account for. Hatred Above asks for silence and separation, and answering it supplies the target the anomaly could not find.
+
+Sorrow Mass is read at the foundation gauges — the endurance is the floor's, not the party's. The Unwaking Block is mapped again from the street every session and held from outside for the full night. Dawn That Forgot is a watch that starts before sunrise and ends after the last shutter. Dead Air's reward for a full watch is a blank form, and the blank form is the result. Glass Elsewhere is a category-only log on a ninety-second channel. Moktak's endurance is staying to adjournment, at four hours on the log for a thirty-one-minute wait. Passing Bell is a no-speaking rule kept past the overrun, with the warning in writing. Dreaming Plague asks a party to cordon and let somebody wake unaided. Lacrima asks for the lid re-seated by hand and the reading taken twice. Allhallow is two posts counting independently for an hour. Once Upon charges the party the certainty of exclusion. Weighted Silence is held at the markers, never crossed. Never Discharged is timed from outside a shut door. Amnesia's endurance is not entering. Once Told asks for a full cycle in silence on a written plan.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0 · `check_stat_bands` PASS · `breach.py` floors met.
+
+
 ## The last eight stock weapon costs (2026-11-01)
 
 With these, no weapon or suit block in the archive charges a stock sentence. Four Lament pieces took *the entity's unwept grief, prolonged use causes involuntary weeping*, and four took *mild memory fragmentation*.

@@ -127,8 +127,8 @@ The containment ran fourteen hours and was built out of a chain, twelve posts, a
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the void pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Sights the edge from the markers and never past them. What a session establishes is the shape of the silence from the outside, which is all that has ever been measured of it. | Decrease |
+| **Ferrehan** (Endurance) | A party holds position at the markers for the full cycle without speaking and without crossing for a reading. The silence is not something a body can be sent into and reported on. | Decrease |
 
 ### Operational Work Notes
 

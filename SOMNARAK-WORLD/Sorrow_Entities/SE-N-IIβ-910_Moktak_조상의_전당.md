@@ -128,8 +128,8 @@ The hall does not mourn the families. It keeps their meeting open. Every evening
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the spirit pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the seating plan against the attendance count from outside the dusk line. What can be established is who the room counted, which is not the same as who was in it. | Decrease |
+| **Ferrehan** (Endurance) | The party sits the wider hall for the full sitting and stays until adjournment, because leaving early is the thing the room records as absence. The single recorded instance shows four hours on the duty log for a thirty-one-minute wait. | Decrease |
 
 ### Operational Work Notes
 

@@ -128,8 +128,8 @@ Only one element moves. Later sleepers put the sound nearer than earlier ones, e
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the dream pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the void pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Reads the sleepers’ accounts against the street corner they all describe, from outside the line. The value of the session is in how closely the descriptions agree, not in how many there are. | Decrease |
+| **Ferrehan** (Endurance) | The party cordons and waits for unaided waking, and does not carry, shake or touch the sleeper. The endurance asked for is standing still while somebody sleeps, and every attempt to shorten it has added a sleeper. | Decrease |
 
 ### Operational Work Notes
 

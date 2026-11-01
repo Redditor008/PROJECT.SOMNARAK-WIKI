@@ -145,8 +145,8 @@ So the containment is a conversation. Doors open, two spotters, and somebody say
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the lament pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the lament pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Watches from outside the bank — what the fog carries and who comes out of it carrying something. Nobody observes from inside, because a sorrow acquired in there is filed as a discovery. | Decrease |
+| **Ferrehan** (Endurance) | The party walks the run with the doors held open and the spotters posted, and the measure of the session is taken afterwards: whether anybody came out with names and streets they cannot account for. | Decrease |
 
 ### Operational Work Notes
 
