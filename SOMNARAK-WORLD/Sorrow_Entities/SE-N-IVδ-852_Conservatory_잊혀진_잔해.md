@@ -45,51 +45,36 @@
 - It protects the absent and burns around those who are present, so crews work the perimeter and never the interior centre.
 - Yield falls permanently each time a section of the outline is lost, which caps extraction per structure rather than per cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure; 35% against other pressure types. Nothing resists resemblance: it is the one input the margin cannot be rated against |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 873/873 |
-| **Han Pressure [ATK]** | 30–65 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says the holding remains at the Mask Market margin, and its own attack row says no stone falls — there is not one brick of the original house in the crystal — and that it has never injured anybody who stayed on the permitted path. Its mass repositions; it does not pursue.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A ruin-shaped object of red-black crystal preserving the outline of a beloved place, standing at the Mask Market margin. Its mass moves between the approach and the empty interior, and a fixed site does not follow anybody off the path. |
+| **Perceptible to** | The outline first, at fourteen marked stations; then the warmth of a room that is not being offered, and the detail sharpening until the shape reads as the house. |
+| **Handling** | Nothing in the radius is built, braced, shored, tidied or shifted to resemble the house. A recollection resembling it is removed and logged with the name of whoever introduced it, and the margin is walked for combustible material before anything else is attempted. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 873/873 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, Mask Market |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the love and the failure together, which cannot be separated, and holds the gauge; Ferrehan stands in the margin of a house built for people who are not coming and puts nothing right, which is the row that lowers it. |
+| **Location** | Zone C, Mask Market |
 | **Resolution Condition** | the outline holds at every marked station through a full cycle and nothing in the radius has been rebuilt, braced or shored |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Unremembered* [**Debuff**] } | "The ruin is vast — enormous — and no one has any memory of what it was, or who built it, or why it fell." | [The flavor line is the error this holding punishes: the builder, the purpose and the fall are all on file. What presses on the worker is fidelity — detail sharpening until the outline reads as the house and they can say where the table was.] | *The worker suffers -10 Resilience. Enter the report as a personnel effect, not a finding; anybody who reports a memory of the house is stood down the same day.* **[10 Grudge DMG [Grudge]]** | When a worker on the permitted path begins seeing the house rather than the shape of it. |
-| { *The Buried Purpose* [**Debuff**] } | "The ruin had a reason once — and the reason has been forgotten, and the forgetting makes the ruin angrier." | [The reason was never buried: a caretaker overloaded a Han structure to save a home. Anger in the radius does nothing measurable; affection and resemblance move the reading every time, and the heat answers inside a minute.] | *The worker loses 10 Resilience. Remove whatever resembles the house — plan, object or recollection — log who introduced it, and walk the margin for combustible material before anything else is attempted.* **[10 Grudge DMG [Grudge]]** | When a plan, object or recollection resembling the house is introduced into the radius. |
-| { *The Falling Stone* [**Attack**] } | "A stone detaches from the forgotten ruin — and no one remembers it was there until it hits." | [No stone falls: there is not one brick of the original house in the crystal, and this holding has never injured anybody who stayed on the permitted path. What a rebuilding attempt costs is outline — the east range lost 2.3 metres of wall run in one reaction and they have not come back.] | *Heavy Grudge pressure on Resilience; resistance failure here furnishes rather than wounds. Stop all building, bracing, propping or shoring, let any reconstruction lapse rather than dismantling it, and re-survey the fourteen stations before work resumes.* **[14-22 Grudge DMG [Grudge]]** | When something in the radius is built, braced, shored, tidied or shifted to resemble the house. |
-| { *The Full Uncovering* [**Attack**] } | "The room comes back whole — table, window, the worn place by the door — and it is accurate, and accuracy is the attack." | [One room rebuilds for as long as the memory can support the form: warm, furnished, accurate — and the pleasant familiarity a worker feels inside it is the first symptom of the recorded risk, the room consuming the observer's present identity.] | *A heavy Grudge surge; the worker's Sorrow Gauge rises 15% and their own quarters stop feeling like theirs for the rest of the day. The second present calls it: step back onto the permitted path and let the room lapse — taking it apart by hand converts an authorised use into the act the holding is made of.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When a reconstruction attempt is sustained until one room completes. |
-| { *The City of Forgetting* [**Ultimate**] } | "The margin goes red — every station brightening at once, as though the whole floor plan had been recognised." | [The whole surviving outline brightens together and reads, for the duration, as finished rooms; the permanently lost east range does not return inside the effect, and cooling afterwards restores nothing.] | *All in range lose Resilience for three turns and cannot say afterwards which rooms they walked through were real. Withdraw unshielded personnel along the permitted path rather than directly away, verify from the instrument record whether the event was activation or extension, and brace nothing on the way out.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold during a reconstruction attempt. |
+| Event | What the Conservatory does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Fourteen Stations* [**Register**] } | The outline holds at fourteen marked stations and the mass places itself between the approach and the empty interior. | The stations are surveyed from the permitted path and re-surveyed after any reaction, and the position of the mass is recorded against both. | Anybody who reports a memory of the house is stood down the same day, and the report is entered as a personnel effect rather than as a finding. |
+| { *The Sharpening* [**Exposure**] } | Detail sharpens until the outline reads as the house and the worker can say where the table was. The description arrives accurate and is not theirs. | Nothing resembling the house is carried into the radius, and what is already there is removed and logged with the introducer's name. | Composure goes into standing in a house that is not being offered, and the gauge rises on the accuracy rather than on the distress. |
+| { *The Rebuild* [**Refusal**] } | No stone falls, and there is not one brick of the original house in the crystal. What a rebuilding attempt costs is outline: the east range lost 2.3 metres of wall run in one reaction and has not come back. | All building, bracing, propping, shoring and tidying stops, and a reconstruction is allowed to lapse rather than taken apart by hand. | The refusal is exact. The object does not push anybody off the path, and what it takes is the attempt to put the house right. |
+| { *The Room Whole* [**Overload**] } | One room rebuilds for as long as the memory can support it — warm, furnished, accurate — and the familiarity a worker feels inside it is the first symptom. | The second present calls it, the worker steps back onto the permitted path, and the room is allowed to lapse rather than dismantled. | The worker's own quarters stop feeling like theirs for the rest of the day, and the recollection they carry out of that room is warm, detailed and false. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is the outline. Half the Market margin is crystalline and red; this is the one whose edge is drawn as a floor plan, accurate to a house that no longer stands and holding not one brick of it. Check the fourteen stations against the standing architectural record, read the margin temperature by instrument, and walk the permitted path for combustible material before positions are taken.
-2. **Clash:** Viderehan and Ferrehan are worked from the permitted path across a long engagement, with the heat margin monitored throughout. Nothing is brought into the radius that resembles any part of the house, and nothing is said inside it about the house that the survey cannot support.
-3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey entries for that watch have been checked against the standing architectural record — which on this holding means the team measured a house that is not there and confirmed that the file still describes it correctly.
+1. **What is confirmed:** the outline at all fourteen marked stations, the position of the mass against the approach, and whether anything in the radius has been built, braced or shored since the last cycle.
+2. **What the watch does:** Viderehan shows the love and the failure together and Ferrehan stands in the margin without putting anything right. Nothing is carried in that resembles the house, and the interior is left furnished by nobody.
+3. **How it closes:** the close is the file's documented condition: **the outline holds at every marked station through a full cycle and nothing in the radius has been rebuilt, braced or shored.**
 
 ### Consequences
 

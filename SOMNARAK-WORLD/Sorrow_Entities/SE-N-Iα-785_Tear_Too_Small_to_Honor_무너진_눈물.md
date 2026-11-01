@@ -44,51 +44,36 @@
 - A yield of 10–14 and a difficulty rating of Low describe the extraction, not the encounter. Personnel are reminded that this entity exists because somebody applied exactly that kind of arithmetic to a grief and concluded it did not merit the effort.
 - Extraction requires lifting the Tear, and the Tear has never been lifted without emotional distress in any logged instance. Schedule it as a contact operation with a counsellor present, not as an incidental pickup at the end of a Viderehan cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 227/227 |
-| **Han Pressure [ATK]** | 3–9 per hit · Lament |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row gives it no movement at all — pressed flat against the soil beneath its Garden stone, unable to fall further or to rise — and the record says plainly that no fragment flies and the Tear has never harmed anybody who did not lift it. Every logged lift produced distress in the person lifting.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A tear-shaped object crushed flat against the soil beneath its Garden stone, still wet despite being crystallised, salt-cold, in soil that has never closed over it. What changes is its height above the soil, by tenths of a millimetre. |
+| **Perceptible to** | The height above the soil first, which is the only series that answers; then the wetness that should have dried, and the judgement the surface reflects — that this one does not belong here. |
+| **Handling** | Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set down deliberately rather than put down. No grief in the room is ranked against another in its hearing. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 227/227 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan surfaces the loss that made it — as small as advertised — and holds the gauge flat, because the object was never hidden from sight, only from acknowledgement; Ferrehan holds a grief that feels too minor to hold and declines to put it down early, which is the row that lowers it. |
+| **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%; the four measurements are taken before and after contact. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Spilled Drop* [**Debuff**] } | "Nothing falls and nothing shatters — the Tear is already flat against the soil and cannot fall further. What reaches the target is the wish to say *just* and *only* about it." | [The gauge rises on the wording of what is said, which is why remarks are kept verbatim.] | *Target suffers -10 Composure; the ranking has begun out loud.* **[10 Lament DMG [Lament]]** | When a grief in the Gardens is ranked against another. |
-| { *The Spreading Pool* [**Debuff**] } | "There are no fragments and no pool to look into: one crystal, still wet, salt-cold, in soil that has never closed over it. The face it reflects is a judgement — this one does not belong here." | [Width does not move and moisture does not move; only the height series answers, by tenths of a millimetre.] | *Target loses 10 Composure; they have begun applying the Tear's judgement to themselves.* **[10 Lament DMG [Lament]]** | When the target measures their own loss against the monuments. |
-| { *The Glass Shard* [**Attack**] } | "No fragment flies. The Tear has never harmed anybody who did not lift it, and every logged lift has produced distress in the person lifting." | [A lift is a scheduled contact operation with a counsellor present, never an incidental pickup; the wound is the transfer, which ends only when the bearer sets it down deliberately.] | *Inflicts Lament pressure; dropping it does not end the transfer.* **[14-22 Lament DMG [Lament]]** | When the Tear is lifted. |
-| { *The Full Shatter* [**Attack**] } | "It cannot reconstitute and it cannot detonate — the shame that collapsed it forbids expansion. The full effect is quieter: a worker describing genuine losses as not worth logging." | [Withholding complaints and declining counselling is the full manifestation of this entity, and it is routinely mistaken for professionalism.] | *A heavy Deep Blue pressure; the target's Sorrow Gauge surges 15% while their conduct improves on paper.* **[24-36 Lament DMG [Lament]]** | When the Tear is passed over — a skipped cycle is itself the trigger. |
-| { *The Sea of Broken Tears* [**Ultimate**] } | "Every tear that was ever ranked below somebody else's — all of it at once, at full size." | [The ranking fails across the field; nothing can be held at the scale it was offered at.] | *All in range lose Clarity for three turns, and every remark that ranked a grief is logged as recorded under load.* **[2 Lament DMG [Lament] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Tear does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Height* [**Register**] } | It is pressed flat and cannot fall further or rise. The only thing that changes is its height above the soil, by tenths of a millimetre. | The four measurements are taken before and after contact, and the caliper series is never broken across a shift. | Width does not move and moisture does not move. The height series is the only answer the object gives, which is why it is the one that is kept. |
+| { *The Ranking* [**Exposure**] } | What reaches a worker is the wish to say *just* and *only* about a grief, and the gauge rises on the wording of what is said. | Remarks are kept verbatim, because the gauge moves on the wording rather than on the sentiment behind it. | The failure does not injure, it ranks. The worker's Clarity goes into the sorting, and the log shows it before the worker does. |
+| { *The Lift* [**Refusal**] } | No fragment flies and nothing shatters. It has never harmed anybody who did not lift it, and every logged lift produced distress in the person lifting. | A lift is a scheduled contact operation with a counsellor present, never an incidental pickup, and the object is set down deliberately rather than put down. | The refusal is flatness: the object cannot be made to do anything, and the transfer ends when the bearer sets it down. |
+| { *The Improvement on Paper* [**Overload**] } | The full manifestation is quieter than any of that: a worker describing genuine losses as not worth logging, withholding complaints and declining counselling. | A skipped cycle is itself the trigger, so the cycle is not skipped, and conduct is checked against the log rather than against the person's own account of it. | Their conduct improves on paper while the gauge climbs, which is how the office knows to look and why professionalism is treated as the symptom here. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The worker locates the Tear beneath its stone in the Echo Gardens, notes the ring of flowers that grows around it and never across it, and confirms that only Viderehan and Ferrehan are available against an Object-Void.
-2. **Clash:** Ten turns at most, against 227 points of pressed-down Lament and a Han pressure that never exceeds nine. The difficulty is not survival. It is that the worker must keep taking a three-point entity seriously for the full duration, and the entity measures whether they do.
-3. **Resolution:** The cycle closes when a worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%.
+1. **What is confirmed:** the four measurements of height above the soil, the moisture the crystal should not still have, and whether the last cycle was worked at all.
+2. **What the watch does:** Viderehan surfaces the loss and Ferrehan holds it for its own duration without ranking it. Nothing is lifted outside a scheduled operation, and no remark that ranks one grief against another is left out of the log.
+3. **How it closes:** the close is the file's documented condition: **A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%; the four measurements are taken before and after contact.**
 
 ### Consequences
 

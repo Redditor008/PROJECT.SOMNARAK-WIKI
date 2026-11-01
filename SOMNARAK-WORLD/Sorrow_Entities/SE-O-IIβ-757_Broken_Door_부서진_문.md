@@ -44,51 +44,36 @@
 - The yield is highest exactly when the holding is least safe, because both follow the flame. A grade-four autumn evening is the best cycle on the ledger and also the state in which three of the four handle incidents occurred; the Gardens office caps autumn bookings at two a week for that reason and has refused every request to raise it.
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is taken from this source is a piece of a threshold nobody chose, and the pieces hold that character: they divide things cleanly and without malice, and the division is not reversible by the person who made it.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge. The remaining figure is nominal: nothing has been swung at this holding since Year 4,231, when a demolition order was issued, withdrawn after four days, and has not been reissued. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and its own attack row says there is no projectile and no wound: the collapse divides the ground between two people and never strikes them. In six years it has injured four people, and every one of them was holding the handle.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A broken door standing alone in the Echo Gardens with two boards and one hinge missing, its frame burning with a small persistent fire across the gaps. The hinges are attached to no wall, the door hangs against a plumb mark on the ground, and the doorway gives onto the instant before a break. |
+| **Perceptible to** | The fire first, graded every ten minutes against the posted scale; then the hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it. |
+| **Handling** | The threshold is stood at the side of the frame rather than in front of it, the flame graded and the hinge angle read against the plumb mark. Nobody turns the handle, and nobody closes the door by hand — the Gardens office does not permit the attempt. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the moment the home was broken and holds the gauge; Ferrehan requires the worker to remain at the threshold, and is the row that lowers it. |
+| **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Splintered Frame* [**Debuff**] } | "Two boards and one hinge are missing, and the flame burns across the gaps without closing them." | [There is no splinter to sense. What the worker reads is the grade: flame every ten minutes against the posted scale, hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it.] | *-10 Resilience in whoever stands in front of the opening instead of at the side of the frame; the doorway gives onto the instant before a break, not onto a place.* **[10 Grudge DMG [Grudge]]** | When a worker takes the front position rather than the side one. |
-| { *The Sealed Opening* [**Debuff**] } | "A door with no wall cannot be shut, and nothing here seals anything." | [The opening is impassable because it does not lead anywhere a person could be afterward. The prohibition is the seal, and it is the first line of the booking form.] | *-10 Resilience; the failure here is conversational — a departure mentioned within earshot raises the grade within about forty seconds.* **[10 Grudge DMG [Grudge]]** | When somebody within earshot begins talking about a person who left. |
-| { *The Flying Splinter* [**Attack**] } | "In six years it has injured four people, and every one of them was holding the handle." | [No projectile and no wound. The escalation has one shape: a name, a grade, a step — and the person who steps toward the frame denies having moved.] | *Grudge pressure lands as the need to say something to somebody who is not present; personnel leave the Gardens composing conversations they will not have.* **[14-22 Grudge DMG [Grudge]]** | When the handle is turned while a name is spoken — the only combination of four that has ever opened it. |
-| { *The Full Collapse* [**Attack**] } | "The frame comes apart and every piece lands between two people, never on them." | [The collapse divides the ground rather than striking anybody — recorded once, in the Year 4,231 demolition attempt.] | *24–36 Grudge and a 15% Gauge surge to the pair the wreckage lands between; a lone worker takes nothing.* **[24-36 Grudge DMG [Grudge]]** | Only when two or more people attempt to force or dismantle it together. |
-| { *Every Door Breaks* [**Ultimate**] } | "Every door in the Gardens stands open at once and none of them leads anywhere." | [The holding's condition propagates to the thresholds around it: open, attached to nothing, impassable.] | *12–20 Grudge per cycle for three cycles to anyone who tries to pass through one of them; standing still costs nothing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, which the Gardens series records twice, both on the anniversary of the Echo incident. |
+| Event | What the Door does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Grade* [**Register**] } | The flame burns every ten minutes against the posted scale, the door hangs at an angle against the plumb mark, and a rectangular shadow lies on the ground with no wall to cast it. | All three are read together, because the flame answers speech and the other two answer time. | What moves the flame is not a Work Type: a departure mentioned within earshot raises the grade within about forty seconds, in 186 of 201 logged mentions. |
+| { *The Departure* [**Exposure**] } | The failure here is conversational. A worker who begins talking about somebody who left is already inside it, and the flame will be a grade higher before the sentence is finished. | The first mention is logged, because catching it there is the whole purpose of the ledger. | Every additional minute in front of the opening increases the worker's need to say something to somebody who is not present. |
+| { *The Handle* [**Refusal**] } | No projectile and no wound. The escalation has one shape: a name, a grade, a step — and the person who steps toward the frame denies having moved. | The handle is not turned and the frame is not forced or dismantled; in six years the only attempt was the 4231 demolition, withdrawn after four days. | Four people have been hurt here and every one of them was holding the handle, which is why the prohibition is written as a prohibition rather than as a caution. |
+| { *The Collapse* [**Overload**] } | The frame comes apart and every piece lands between two people and never on them; a lone worker takes nothing at all. | Force and dismantling are not attempted, and a collapse that has already happened is recorded rather than cleared. | The collapse divides the ground rather than striking anybody, which is also why this file transforms rather than escalates. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team takes the side position, posts the flame scale where both observers can see it, and agrees aloud which of them holds the ledger. No part of the approach requires getting closer than four metres, and the Gardens office treats any approach inside that as the start of an incident rather than part of a cycle.
-2. **Clash:** Sixteen turns, Viderehan and Ferrehan only, worked from the side of the frame rather than from in front of it. The handle is not turned. Nobody stands in the opening, nobody reaches through it, and the flame grade is taken at the start and end of every turn in which a departure is mentioned.
-3. **Resolution:** The cycle closes when the gauge falls below 25% and the leave-taking has been completed — which here is a procedural step rather than a courtesy, and is logged as one.
+1. **What is confirmed:** the flame grade against the posted scale, the hinge angle against the plumb mark, and the plumb mark itself before anybody stands at the threshold.
+2. **What the watch does:** Viderehan shows the moment the home was broken and Ferrehan stays at the threshold. The frame is stood beside rather than in front of, the handle is not turned, and the first mention of a departure is logged.
+3. **How it closes:** the close is the file's documented condition: **The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt.**
 
 ### Consequences
 
@@ -386,7 +371,7 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 - Escalation is a name, a grade, and a step, in that order and within about forty seconds.
 **Observation Notes:**
 - The origin is a lawful property division signed by seven people, and the settlement is kept in the ledger's front cover.
-- See Combat Record for engagement history.
+- See Contact Record for contact history.
 - Two boards and a hinge have been cut from the frame; the authorisation has not been renewed and the Armoury recommends it never is.
 **Cross-References:** The Collapsed Door, The Wandering Door and The Echo of Laughter, and the Archive's eleven-page composite of the room.
 **Faction Involvement:** The Echo Gardens office holds the ledger and the flame scale; the Archive holds the room composite and the four contact accounts; the Armoury holds the lapsed cutting authorisation.

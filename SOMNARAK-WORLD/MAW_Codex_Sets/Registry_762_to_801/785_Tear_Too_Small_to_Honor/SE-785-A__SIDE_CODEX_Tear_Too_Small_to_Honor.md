@@ -22,7 +22,7 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 | Type / Manifestation | Object/Place — Non-breaching: activation only. Unworked, it does not escape and does not grow / Object-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone D, Echo Gardens |
-| Gauge / Pressure | 227/227; starts 25–40% / 3–9 per hit · Lament |
+| Gauge / Pressure | 227/227; starts 25–40% / Lament — no attack pattern; the height above the soil, in tenths of a millimetre, is the reading |
 | Observation | 1 — Initial |
 | Formation event | A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object. |
 

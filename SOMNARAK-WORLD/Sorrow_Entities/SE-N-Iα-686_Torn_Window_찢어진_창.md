@@ -44,51 +44,36 @@
 - Four workers have their hands in this window. All four are still serving. Two have asked to be shown which hand is theirs and both requests were refused by the Warden personally.
 - Two pieces, cut from the cracked edge rather than the pane, under a standing instruction that no extraction may touch a part of the glass that carries a hand. The ledger records which shards were rejected and why.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Grudge. The cracks have not closed or widened in nine years of calipered measurement; the one strike on record changed the count and not the glass. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 221/221 |
-| **Han Pressure [ATK]** | 2–8 per hit · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed in the tunnel wall at chest height* — two removal attempts cracked the surround and left the pane where it was — and the record's own note is that the one strike in nine years changed the count and not the glass. Nothing here moves toward anybody.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A cracked pane of red-black crystal set in the tunnel wall at chest height, broken across its surface, reflecting hands rather than faces and letting no light through. Two removal attempts cracked the surround and left the pane in place. |
+| **Perceptible to** | The cold off the glass first and the draft through the tear, carrying old anger; then the reflected hands, which are the register, because the pane remembers every person who has touched it. |
+| **Handling** | Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on the glass — all four failures on record were a palm on a flat cool surface at hand height at the end of a shift. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 221/221 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, deep tunnels |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the history of the room beyond the pane and holds the gauge; Ferrehan tests whether the worker can look without entering the memory, and is the row that lowers it. |
+| **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Broken View* [**Debuff**] } | "Through the torn window, you see something that is not there — and it sees you back." | [The Window's tear shows the target an impossible view; their perception warps.] | *Target suffers -10 Resilience; they cannot trust their eyes.* **[10 Grudge DMG [Grudge]]** | When the target looks through the Window. |
-| { *The Draft* [**Debuff**] } | "Cold air, and old anger, blow through the tear." | [The torn gap channels resentment; the target is buffeted by carried rage.] | *Target loses 10 Resilience; the anger in the draft is palpable.* **[10 Grudge DMG [Grudge]]** | When the target lingers near the gap. |
-| { *The Glass Tooth* [**Attack**] } | "A shard of the torn window juts out — and the window bites." | [A jagged fragment of broken window slashes.] | *Inflicts Grudge pressure and one sharp, cutting wound.* **[14-22 Grudge DMG [Grudge]]** | When the Window is touched. |
-| { *The Full Smash* [**Attack**] } | "The pane comes in, and every shard lands palm-up." | [The glass fails inward and the fragments arrange themselves.] | *24–36 Grudge and a 15% Gauge surge to whoever struck it; the pane is whole again within the hour and the count is one higher.* **[24-36 Grudge DMG [Grudge]]** | When the window is struck. Once, in Year 4,230, and the shards were found in a layer one deep across the floor. |
-| { *Every Window Breaks* [**Ultimate**] } | "Every pane in the lower network shows hands, and all of them are pressing from the far side." | [The reflection propagates to every glass surface underground.] | *12–20 Grudge per cycle for three cycles to anybody who looks at one.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,233 Tide; the tunnel office counted hands on 61 separate panes and recorded no pane with more than 41. |
+| Event | What the Window does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Tear* [**Register**] } | Through the tear there is a room that is not there, and it looks back; the pane reflects hands rather than faces and lets no light through. | The pane is read from the side of the frame, the caliper count taken, and the view described aloud rather than entered. | Past about twenty minutes the viewer begins to recognise the crews in the shown room. They do not know them, and six accounts describe greeting somebody. |
+| { *The Draft* [**Exposure**] } | Cold air and old anger come through the tear, and what it carries is the history of the room beyond rather than anything the window does. | The reader stands to the side of the frame, keeps the caliper series unbroken, and does not lean into the gap. | The pane remembers every person who has touched it, which is why the touch is the failure on this file and the looking is not. |
+| { *The Glass Tooth* [**Refusal**] } | The shard juts out of the frame and does not leave it. It has never been removed: two attempts cracked the surround and left the pane where it was. | Nothing is swung at it and nothing is levered out; the one strike on record changed the count and not the glass. | The cut comes from a fixed edge at hand height, so the instruction is about where the hands go rather than about what the object does. |
+| { *The Pane Whole Again* [**Overload**] } | Struck once, in Year 4230, the pane came in and the shards were found in a layer one deep across the floor; within the hour the pane was whole again and the count was one higher. | The count is retaken against the overlay and the walk is logged before the strike is written up. | An unwalked length does not escalate. It stays on the sheet uncrossed and the next cycle opens four to six points higher. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Two workers reach the window by the maintained route, confirm the count against the last sheet, and agree which of them will walk the length and which will stay at the glass. Neither of them has a free hand; both carry the lamp and the sheet deliberately.
-2. **Clash:** Do not fight the pane. The team counts hands, works Viderehan and Ferrehan only and leaves the glass untouched. Logging the name of an accidental toucher is required incident evidence, not permission to add another hand or repeat the contact. Flerehan and Pugnahan are not merely invalid here; the two attempts on record each added a hand and neither removed one.
-3. **Resolution:** End the viewing with a second person saying the viewer’s name and the current date. Compare the two counts and attach the patrol sheet for the disused lengths; the fixed pane is not unmounted as an encounter-ending step. There is no authorised suppression step or breach counter, but a touch, strike or held gaze still has recorded consequences.
+1. **What is confirmed:** the caliper count against the overlay, the four-to-six-point question of whether the last length was walked, and the patrol sheet itself before the shift begins.
+2. **What the watch does:** Viderehan reads the room beyond the tear from the side of the frame and Ferrehan looks without entering the memory. Nobody puts a palm on the glass, and the length that was shown is walked end to end by two people.
+3. **How it closes:** the close is the file's documented condition: **The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive.**
 
 ### Consequences
 
@@ -400,7 +385,7 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 - Touch or a held gaze; only a second person saying the viewer's name and the date ends a viewing.
 **Observation Notes:**
 - Four generations of tunnel crews resting a palm on a cool surface at the end of a shift.
-- See Combat Record for engagement history.
+- See Contact Record for contact history.
 - Two pieces from the cracked edge, eleven shards rejected for carrying a hand; wielders file other people's shifts.
 **Cross-References:** The Broken Mirror, The Whispering Walls (eleven names recovered), The Torn Trace (closed), the lower network patrol sheet, and the eleven rejected shards in the Armoury ledger.
 **Faction Involvement:** SED (C-territory exploration)

@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five relics fixed in place, holding the line (2026-11-01)
+
+Seventh batch. Four are immovable and the fifth cannot be lifted without a counsellor present, and every one of them had been filed with a battle length.
+
+- **Torn Window** (`N-Iα-686`) — *fixed in the tunnel wall at chest height*; two removal attempts cracked the surround and left the pane where it was, and the one strike in nine years changed the count and not the glass. What the file actually measures is whether the length the window showed was walked.
+- **Tear Too Small to Honor** (`N-Iα-785`) — pressed flat against the soil beneath its Garden stone and unable to fall further or rise; *no fragment flies*, and it has never harmed anybody who did not lift it. The reading is its height above the soil, by tenths of a millimetre.
+- **Conservatory** (`N-IVδ-852`) — remains at the Mask Market margin; *no stone falls*, there is not one brick of the original house in the crystal, and it has never injured anybody who stayed on the permitted path. Its mass repositions and does not pursue.
+- **The Wedge That Held** (`O-IIIγ-412`) — *stationary — a discrete object*; the pulses through the floor and the heat shimmer are not travel, the discharge requires the wedge to be driven, and it ends in inert slag.
+- **Broken Door** (`O-IIβ-757`) — *stationary — a structure or location*; *no projectile and no wound*, and the collapse divides the ground between two people rather than striking them. All four injuries in six years were somebody holding the handle.
+
+**The one that kept its strangest rule.** The Broken Door's failure is conversational, not physical: a departure mentioned within earshot raises the flame about forty seconds later, in 186 of 201 logged mentions, and the whole ledger exists to catch the first mention. That sits in the Contact Events now rather than in an attack row that described a wound nobody has ever received.
+
+**Two dangling references closed.** The Torn Window and the Broken Door both carried a Trivia line reading *See Combat Record for engagement history*; both now point at the contact record. They were the last two in the converted set.
+
+**Side codices.** Four of the five have one, and each `Gauge / Pressure` row lost its per-hit band, including two with the older bare form: *221/221; starts 25–40% / Grudge — no attack pattern; the caliper count and the walked length on the patrol sheet are the reading*, and the same shape for the Tear, the Conservatory and the Door.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `check_links` 0 broken · `breach.py` unchanged. **Thirty-five converted, twenty-two relic `Combat Record`s still to read.**
+
 ## Five relics that count, span or show (2026-11-01)
 
 Sixth batch. Two of these are the archive's two great survey instruments — a clock that counts down debt and a chain that counts surety — and both were filed with a battle length and an attack band.

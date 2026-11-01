@@ -14,7 +14,7 @@ Door to No One formed from a family home divided before goodbye, leaving a door 
 | Type | Object/Place / Place-Grudge |
 |---|---|
 | Element / Location | Grudge / Zone D, Echo Gardens |
-| Gauge / Pressure | 415/415 / 10–23 |
+| Gauge / Pressure | 415/415; starts 35–50% / Grudge — no attack pattern; the flame grade against the posted scale is the reading |
 | Work | only Viderehan shows the breaking and Ferrehan remains at the threshold; emotional engagement and confrontation are invalid |
 | Resolution | acknowledge both sides without forcing the threshold to reunite them |
 

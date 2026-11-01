@@ -44,50 +44,36 @@
 - The class exists for one bad hour: a single-use A-Relic goes into a catastrophic squad failure, and nothing about the deployment can be taken back.
 - The M.A.W. here is drawn from what a route leaves behind — the residue of a controlled termination, or the crystallized husk of an old working.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — stationary artifact |
-| **Resistance** | 40% against Grudge pressure; 25% against other pressure types as formal ratings. Working protection is handling discipline: tongs or heat-resistant leather only, the original hemp left in place, transport solely in shock-absorbing pneumatic crates, continuous oil-quench spray on the basalt pedestal, and no kinetic impact testing without Level 4 Directorate sign-off. |
-| **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 680/680 |
-| **Han Pressure [ATK]** | 22–45 per hit · Grudge |
-| **Coherence modifier** | III — complex tactical resonance |
-| **Potency modifier** | γ — major armor fracture capability |
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own note is that pulses through the floor, a twitch under rough handling and heat shimmer are not autonomous travel. The full discharge requires the wedge to be driven, and it ends in inert slag rather than in an exchange.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Offensive Consumable / Breaching Instrument |
-| **Coherence** | Fragment (III) — Jagged, furious resolve |
-| **Primary Pressure** | Physical / structural pressure |
+| **Mode of presence** | A four-sided iron wedge with a beaten head, original greasy hemp wrapping and chiselled apprentice codes, on a pedestal in the Outer Bastion Arsenal. Solid porous iron, a 115°C core and an 85–140°C surface, with no liquid reserve anywhere in it. |
+| **Perceptible to** | The heat first — the tip scorches untreated wood within five seconds — then the wrapping blackening, eighteen micro-vibrations a minute through the plinth, and a ringing that carries through stone floors within six metres. |
+| **Handling** | Tongs or heat-resistant leather only, and the original hemp left wound. Two hands on the wrap, the pedestal cleared before anything is lifted, and no flinching at the plinth, because hesitation is a measured input here rather than a courtesy. |
+| **Activation threshold** | Single-use impact trigger — consumed upon activation |
+| **Sorrow Gauge [HP]** | 680/680 |
 | **Starting Sorrow Gauge** | 40–60% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-O-04, Outer Bastion Arsenal — contained; any other ground only under a deployment order |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan records thermal cycles and crack propagation along the shaft and holds the gauge; Ferrehan endures holding the hot hemp wrap without dropping the weight, and lowers it. |
+| **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
 | **Resolution Condition** | The wedge is driven into bedrock or target carapace, releasing its tectonic fury |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *Scorched Hem* [**Debuff**] } | "The hemp wrapping blackens further, shedding hot sparks." | [Fever-dry heat off iron whose tip scorches untreated wood within five seconds. Show it fear of burns and the temperature answers the hesitation directly, up by +20°C; the wrap cools slightly instead for apprentice and junior hands.] | *The handler suffers -8 Resolve. Heavy gloves or tongs, the original hemp left wound, and no flinching at the pedestal — hesitation is a measured input here.* | When approached within heat reach without tongs or heat-resistant leather. |
-| { *Tectonic Pulse* [**Debuff**] } | "The iron shaft twitches as if struck by an invisible hammer." | [Eighteen micro-vibrations a minute through the plinth, and a twitch under rough handling. Dropped on concrete it spends a minor shockwave that shatters floor tiles in a two-metre radius — a dropped-object accident, not the discharge, and no evidence the relic can be spent twice.] | *12 Grudge damage around the drop point. Pneumatic crates for any movement, two hands or tongs on the wrap, and the pedestal area cleared before the wedge is lifted at all.* | When the wedge is dropped or handled roughly. |
-| { *Anvil Resentment* [**Attack**] } | "The spike emits a high-pitched metallic shriek of overstressed iron." | [Rhythmic ringing carries through stone floors within six metres, and a widening event changes the four-sided form before the resonance settles back to black iron. No two widenings in this armory have run the same course.] | *16 Grudge damage across Range Band 1. Hold the grip to the anvil until the reading settles, and enter only the four recorded fields: what set it going, the first change in form, how far the heat reached, and where it settled.* | When a widening runs through the iron during handling or a work cycle. |
-| { *Magma Weep* [**Attack**] } | "Boiling Grudge Han-sap beads along the tapered tip." | [Nothing weeps from it: this is solid porous iron at a 115°C core and an 85–140°C surface, with no liquid reserve. What the flavor line is reaching for is the interaction rise — kept near The Crucible or The Rage Forge, the surface climbs toward melting, which is a separation failure, not a secretion.] | *Grudge heat pressure on anybody inside the shimmer. Restore separation from thermal holdings, keep the quench spray running, and reserve armor fracture for the one deliberate discharge — proximity heat has never taken durability off anything.* | When separation from The Crucible, The Rage Forge or another thermal holding is allowed to lapse. |
-| { *Fault-Line Fury* [**Ultimate**] } | "The entire spike glows cherry-red, threatening premature detonation." | [There is no premature detonation on this record: the full act is deliberate and singular. Driven into stone, bedrock or carapace by a heavy kinetic strike, the wedge gives one omnidirectional seismic shockwave and is thereafter inert slag. The file's general rising-Gauge clause still lacks a crosswalk to this strike, and impact testing to settle the question is prohibited.] | *Range Band 3: 50% of hostile armor shattered, 25–40 Grudge damage, all targets knocked down for 1 turn; the striker takes severe forearm recoil and thermal blistering. Reserved for sovereign-class targets and heavy carapace work — spending it on anything small is a misappropriation of an irreplaceable sacrifice.* | When a deployment order is executed with a heavy driving strike (hammer, maul or breaching ram) at Sorrow Gauge ≥ 70%. |
+| Event | What the Wedge does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Thermal Run* [**Register**] } | The surface sits between 85 and 140 degrees over a 115-degree core, and the tip scorches untreated wood within five seconds. | Thermal cycles and crack propagation are logged along the shaft, and nothing that can burn stands on the pedestal. | Kept near the Crucible or the Rage Forge the surface climbs toward melting, which is a separation failure and not a secretion. |
+| { *The Hesitation* [**Exposure**] } | Shown any fear of burns, the iron answers the hesitation directly, up by twenty degrees; the wrap cools slightly instead for apprentice and junior hands. | Handling is in tongs or heat-resistant leather, and nobody flinches at the pedestal, because the flinch is the input. | The cost lands on the holder's Resolve rather than on their tissue, and the surface reads the hand in front of it before the hand has arrived. |
+| { *The Drop* [**Refusal**] } | Dropped on concrete it spends a minor shockwave that shatters floor tiles in a two-metre radius — a dropped-object accident rather than the discharge, and no evidence the relic can be spent twice. | Pneumatic crates for movement, two hands or tongs on the wrap, and the pedestal cleared before the wedge is lifted at all. | Nothing is swung at it and nothing is driven in to test it. The one discharge in this record is a decision, not a drill. |
+| { *The Anvil Ring* [**Overload**] } | A widening event changes the four-sided form and the ringing carries through stone floors within six metres; no two widenings in this armoury have run the same course. | The grip is held to the anvil until the reading settles, and only four fields are entered: what set it going, the first change in form, how far the heat reached, and where it settled. | The failure the armoury plans against is a discharge spent on something small, which leaves the next bad hour with nothing held. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The construct is identified as single-use, the plinth and quench line are checked, and the question put before anybody touches it is whether this is the emergency the wedge was kept for.
-2. **Clash:** The armory team runs Viderehan on its own quota and Ferrehan in the heavy gloves, keeping one eye on the sector's stability the whole time.
-3. **Resolution:** The cycle closes on quota met, or on the discharge itself — a deliberate deployment against an existential breach, after which the wedge is a story and a residue of inert slag.
+1. **What is confirmed:** the surface temperature against the 85–140 degree band, the crack series along the shaft, and the separation from any thermal holding that would push the surface toward melting.
+2. **What the watch does:** Viderehan records the thermal cycles and Ferrehan endures the wrap without dropping the weight. Tongs or leather stay on, the hemp stays wound, and nobody tests the wedge to see what it would do.
+3. **How it closes:** the close is the file's documented condition: **The wedge is driven into bedrock or target carapace, releasing its tectonic fury** — once, after which the iron is slag and nothing is left to extract, repair or rekindle.
 
 ### Consequences
 
