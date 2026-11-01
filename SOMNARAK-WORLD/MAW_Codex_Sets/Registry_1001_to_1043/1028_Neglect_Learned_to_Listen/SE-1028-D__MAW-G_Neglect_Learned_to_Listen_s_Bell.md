@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The user hears every message that fails to arrive. Continued use makes Neglect Learned to Listen's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer hears every message that fails to arrive, and hears it in their own name: carried long, they answer letters nobody sent.
 
 ## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Stigma Record*
 

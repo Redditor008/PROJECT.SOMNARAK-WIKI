@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Forty-two more costs in the 1001–1043 set (second slice)
+
+Sets from the Facsimile through the Kind Healer's Shadow. Where a record already had a first clause worth keeping — the Promise Shard's pain arriving early, the Rebirth Ember returning with the memory of dying, the Memory Link's burden carried by both parties — that clause stays and only the tail is replaced. The rest take a full rewrite off the ability.
+
+Some of these are the best work in the set because the entity gave the piece something to charge: the Debt Maul moves a little of what the wielder owes onto what they hit and their shadow lags by exactly the amount; the Three Forty Seven Maul spends forty-seven seconds the wielder will not remember spending; the Kind Healer's Shadow Requiem cures the target and hands their loss to whoever swung.
+
+A naming hazard worth recording: `1023_Three_Forty_Seven` and `1002_Broken_Clock` contain files with identical basenames (`SE-1023-B__MAW-W_The_Frozen_Maul.md` and `SE-1002-B__MAW-W_The_Frozen_Maul.md`). Any future batch must key on the registry folder, never the filename alone.
+
+**Left:** 41 records in `1001_to_1043`, and 75 in `900_to_930` which also needs its Appearance paragraphs.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The space the labels were missing
 
 Every bold field label in the archive was checked for the space that has to follow it. 835 slots across 292 files had none: the label closed and the value began immediately, so `**Bearer cost:**The wearer…` rendered as bold text welded to its own sentence. All 820 of the bearer-cost rows written in batch 44 were in that state, along with 20 `**Cost:**` rows, 4 `**Operational / binding cost:**` rows and a handful of one-offs.

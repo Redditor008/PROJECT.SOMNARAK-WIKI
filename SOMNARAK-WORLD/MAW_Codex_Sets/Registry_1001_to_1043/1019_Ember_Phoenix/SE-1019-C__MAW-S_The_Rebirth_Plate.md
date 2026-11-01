@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Ember Phoenix's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate keeps the body in the shape it died in, so nothing new may happen to it: worn, the wearer's reactions slow to whatever pace they had at the end. Worn long, they stop flinching.
 
 ## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Suit Record*
 

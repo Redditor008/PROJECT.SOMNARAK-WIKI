@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Weight 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Neglect Learned to Listen's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul strikes with a message that never arrived: each blow delivers it on the wielder's own account. Wielded long, the wielder is carrying other people's correspondence.
 
 ## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Weapon Record*
 

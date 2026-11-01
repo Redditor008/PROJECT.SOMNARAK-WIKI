@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Restless Gap's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle keeps the wearer where they agreed to stay: worn, they are heavy in the anchor's direction and light everywhere else. Worn long, they cannot be talked into travelling.
 
 ## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Suit Record*
 

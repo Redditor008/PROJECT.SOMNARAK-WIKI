@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The shared memory becomes a burden carried by both. Continued use makes Chain of Memories's source sorrow feel autobiographical.
+**Operational / binding cost:** The shared memory becomes a burden carried by both, and the link runs both ways: whatever the wearer hands over is administered back to them, and both parties keep the version that hurts.
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Stigma Record*
 

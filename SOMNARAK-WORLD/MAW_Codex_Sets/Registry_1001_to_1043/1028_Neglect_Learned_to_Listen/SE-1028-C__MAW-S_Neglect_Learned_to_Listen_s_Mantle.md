@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Neglect Learned to Listen's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle takes the weight of every message the wearer failed to answer: worn, the post arrives in the body instead of the hands. Worn long, they are bent under letters.
 
 ## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Suit Record*
 

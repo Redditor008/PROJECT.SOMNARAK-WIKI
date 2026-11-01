@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Weight 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Chain of Memories's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul strikes with the weight of what the wielder remembers: each blow adds one memory to the head of the weapon and takes it out of the wielder. Wielded long, the wielder swings a whole life at strangers.
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Weapon Record*
 

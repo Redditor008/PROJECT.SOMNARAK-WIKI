@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Anger Underfoot's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate absorbs a grudge by standing on the place it happened: worn, the wearer's reactions slow to the pace of whoever walked the ground first. Worn long, they take the long way and cannot say why.
 
 ## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Suit Record*
 

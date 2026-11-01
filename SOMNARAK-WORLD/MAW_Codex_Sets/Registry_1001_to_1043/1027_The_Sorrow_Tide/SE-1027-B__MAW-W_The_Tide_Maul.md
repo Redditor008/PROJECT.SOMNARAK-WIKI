@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Weight 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes The Sorrow Tide's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul comes in with the water: each blow lands a little later than the wielder swung it, and the delay lengthens. Wielded long, the wielder is swinging at where the fight used to be.
 
 ## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Weapon Record*
 

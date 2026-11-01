@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer suffers physical pain if the promise is broken. Continued use makes Facsimile's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer suffers physical pain if the promise is broken, and the pain arrives early: the closer the wearer gets to keeping it, the more it costs to consider not keeping it.
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Stigma Record*
 

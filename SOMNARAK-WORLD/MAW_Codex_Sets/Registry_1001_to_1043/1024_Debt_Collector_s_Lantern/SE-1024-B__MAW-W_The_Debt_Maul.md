@@ -26,7 +26,7 @@
 |---:|---:|---:|---|---:|
 | Weight 6–10 | 3 (Normal) | 4 (Long) | Focused Ray / 100% damage to the primary target in the beam. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use causes their shadow to lag slightly behind their body. Continued use makes Debt Collector's Lantern's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul collects: each blow moves a little of what the wielder owes onto what they hit, and their shadow lags by exactly the amount. Wielded long, the shadow walks in and the body arrives after.
 
 ## ITEM-SPECIFIC HISTORY — *The Debt Collector s Lantern Source-Trace: Weapon Record*
 

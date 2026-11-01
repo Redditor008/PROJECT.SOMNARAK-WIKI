@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Three Forty-Seven's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle holds the wearer in the moment before impact: worn, they are permanently braced, and bracing costs what standing costs. Worn long, they cannot be surprised and cannot rest.
 
 ## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Suit Record*
 

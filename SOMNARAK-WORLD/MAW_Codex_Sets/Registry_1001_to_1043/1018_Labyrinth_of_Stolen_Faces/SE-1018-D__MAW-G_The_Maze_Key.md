@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** It cannot distinguish a painful memory from a safe exit. Continued use makes Labyrinth of Stolen Faces's source sorrow feel autobiographical.
+**Operational / binding cost:** It cannot distinguish a painful memory from a safe exit, and it chooses for the bearer: after enough turns every way out looks like the memory it was running from.
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Stigma Record*
 

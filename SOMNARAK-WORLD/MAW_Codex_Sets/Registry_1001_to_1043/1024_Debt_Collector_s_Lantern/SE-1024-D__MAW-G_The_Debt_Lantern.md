@@ -25,7 +25,7 @@
 **Slot / Chance:** Eye / Face / 5%
 **Bonus:** Grants detection of hidden karmic hazards in dark zones and increases Resolve against Weight pressure.
 
-**Operational / binding cost:** The wielder cannot ignore what the light shows. Continued use makes Debt Collector's Lantern's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder cannot ignore what the light shows, and the showing is the charge: each debt it reveals becomes one the bearer now knows about and answers for.
 
 ## ITEM-SPECIFIC HISTORY — *The Debt Collector s Lantern Source-Trace: Stigma Record*
 

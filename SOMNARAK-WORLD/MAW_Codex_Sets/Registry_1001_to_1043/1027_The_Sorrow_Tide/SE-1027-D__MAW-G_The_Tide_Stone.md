@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** Becomes heavier and emotionally saturated after each use. Continued use makes The Sorrow Tide's source sorrow feel autobiographical.
+**Operational / binding cost:** It becomes heavier and emotionally saturated after each use and releases neither: used long, the stone is a small saturated sea the bearer has to carry.
 
 ## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Stigma Record*
 

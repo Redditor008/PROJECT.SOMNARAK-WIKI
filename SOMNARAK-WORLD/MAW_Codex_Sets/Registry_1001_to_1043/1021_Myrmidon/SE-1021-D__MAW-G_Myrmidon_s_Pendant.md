@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels every divided loyalty as personal pain. Continued use makes Myrmidon's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer feels every divided loyalty as personal pain, and the Pendant bills by the revelation: each division it shows stays attached to the person it was about.
 
 ## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Stigma Record*
 

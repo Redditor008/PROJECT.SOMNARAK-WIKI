@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Void 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Aphonia's source sorrow feel autobiographical.
+**Operational / binding cost:** The Lens takes the sound of the wielder's own voice as its toll: each use spends a small, nameless memory, and afterwards they cannot recall what they said. Used long, the wielder hears their own words only in other people's reports.
 
 ## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Weapon Record*
 

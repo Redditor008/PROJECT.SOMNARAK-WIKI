@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Labyrinth of Stolen Faces's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil protects the self by hiding it: worn, the wearer becomes hard to find inside their own mind and gets back only by following whoever is walking toward them. Worn long, they are lost on purpose.
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Suit Record*
 

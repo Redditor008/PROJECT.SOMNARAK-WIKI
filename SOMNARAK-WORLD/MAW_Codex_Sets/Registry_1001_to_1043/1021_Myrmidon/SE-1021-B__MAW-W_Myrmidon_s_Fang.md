@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Myrmidon's source sorrow feel autobiographical.
+**Operational / binding cost:** The Fang strikes on somebody's order: each blow makes the wielder follow a command they did not give, and they cannot say whose it was. Wielded long, they are certain they chose this.
 
 ## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Weapon Record*
 

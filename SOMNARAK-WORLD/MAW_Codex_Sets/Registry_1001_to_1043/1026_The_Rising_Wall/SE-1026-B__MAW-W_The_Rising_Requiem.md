@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes The Rising Wall's source sorrow feel autobiographical.
+**Operational / binding cost:** The Requiem rises with the wall: each strike lifts a measure of the wielder's grief one storey higher and leaves it there. Wielded long, the wielder fights from under an accumulation they cannot step out of.
 
 ## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Weapon Record*
 

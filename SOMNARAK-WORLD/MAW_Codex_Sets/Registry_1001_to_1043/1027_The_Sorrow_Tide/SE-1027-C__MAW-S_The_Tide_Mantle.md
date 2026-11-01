@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes The Sorrow Tide's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle lets the tide through in measured amounts: worn, each hour costs the wearer a little of their standing. Worn long, they live permanently at the waterline.
 
 ## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Suit Record*
 

@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Myrmidon's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate is a loyalty worn as armour: it stops the blow and leaves the wearer unable to hold two obligations at once. Worn long, they cannot tell which loyalty came first.
 
 ## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Suit Record*
 

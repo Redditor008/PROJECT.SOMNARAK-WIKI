@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes The Kind Healer's Shadow's source sorrow feel autobiographical.
+**Operational / binding cost:** The Requiem heals by taking the wound's grief onto the wielder: each strike cures the target and hands their loss to whoever swung. Wielded long, the wielder is a hospital for everything they have treated.
 
 ## ITEM-SPECIFIC HISTORY — *The The Kind Healer s Shadow Source-Trace: Weapon Record*
 

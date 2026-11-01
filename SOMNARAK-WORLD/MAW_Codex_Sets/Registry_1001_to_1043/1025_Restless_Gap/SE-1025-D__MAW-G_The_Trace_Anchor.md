@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer cannot leave an anchored location without emotional pain. Continued use makes Restless Gap's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer cannot leave an anchored place without emotional pain, and the pain is real: after a season they stop testing it and call the stillness a choice.
 
 ## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Stigma Record*
 

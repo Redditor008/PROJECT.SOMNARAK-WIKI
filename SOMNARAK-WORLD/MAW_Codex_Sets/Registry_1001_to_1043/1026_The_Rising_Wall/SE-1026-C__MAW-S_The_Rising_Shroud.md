@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes The Rising Wall's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud holds the wearer above the water line: worn, they miss everything that happens below it, including the parts aimed at them. Worn long, they are dry and uninformed.
 
 ## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Suit Record*
 

@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer hears every unheard plea nearby. Continued use makes Aphonia's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer hears every unheard plea nearby, and hearing is the price: each plea that never reached anyone arrives at once, and the bearer answers it in a voice that carries further than they intended.
 
 ## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Stigma Record*
 

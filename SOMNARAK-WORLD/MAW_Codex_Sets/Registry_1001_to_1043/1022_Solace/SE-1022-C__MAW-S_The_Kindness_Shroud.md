@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Solace's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud keeps the small joys out first: worn, nothing pleasant gets under it and the large ones follow at the rate the wearer needs them. Worn long, the wearer is calm and remembers liking things.
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Suit Record*
 

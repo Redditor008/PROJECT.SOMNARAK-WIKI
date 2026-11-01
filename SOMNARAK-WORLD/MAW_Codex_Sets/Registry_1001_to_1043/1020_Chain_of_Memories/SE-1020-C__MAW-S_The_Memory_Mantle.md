@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Chain of Memories's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle carries what the wearer would rather hand to somebody else: worn, each shared memory lands on their shoulders as fatigue. Worn long, they sleep badly and dream of other people's rooms.
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Suit Record*
 

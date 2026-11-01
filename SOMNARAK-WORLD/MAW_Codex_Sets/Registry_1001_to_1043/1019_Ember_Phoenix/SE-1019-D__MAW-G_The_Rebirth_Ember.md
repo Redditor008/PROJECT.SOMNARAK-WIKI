@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer returns carrying the emotional memory of dying. Continued use makes Ember Phoenix's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer returns carrying the emotional memory of dying, and there is nowhere to file it. After the second return they stop describing the first.
 
 ## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Stigma Record*
 

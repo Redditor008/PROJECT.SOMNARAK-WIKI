@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer cannot lie about attachment. Continued use makes The Rising Wall's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer cannot lie about attachment: every bond the Pendant makes legible reads as confession when denied, and the bearer's silence is taken as the loudest of them.
 
 ## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Stigma Record*
 

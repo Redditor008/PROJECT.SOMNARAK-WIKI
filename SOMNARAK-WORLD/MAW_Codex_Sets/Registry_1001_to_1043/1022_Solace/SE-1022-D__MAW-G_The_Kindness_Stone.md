@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels every kindness that was refused nearby. Continued use makes Solace's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer feels every kindness refused nearby, and each one stays as a debt they did not incur. After a season they are gentle with everyone and tired by all of it.
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Stigma Record*
 

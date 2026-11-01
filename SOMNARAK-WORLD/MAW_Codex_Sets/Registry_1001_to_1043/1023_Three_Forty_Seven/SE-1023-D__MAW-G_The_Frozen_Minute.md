@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The user loses an equivalent portion of lifespan. Continued use makes Three Forty-Seven's source sorrow feel autobiographical.
+**Operational / binding cost:** The user loses an equivalent portion of lifespan, paid in advance: each minute takes a fraction of what the bearer has left, and the fraction is written nowhere they can read it.
 
 ## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Stigma Record*
 

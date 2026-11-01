@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Weight 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Three Forty-Seven's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul moves inside the frozen minute: each blow spends forty-seven seconds the wielder will not remember spending. Wielded long, the wielder has lost hours and cannot say where they went.
 
 ## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Weapon Record*
 

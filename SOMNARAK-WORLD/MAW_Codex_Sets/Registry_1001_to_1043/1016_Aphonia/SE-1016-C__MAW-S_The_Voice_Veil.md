@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Aphonia's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil holds the wearer's voice inside: while worn, nothing they say rises above a murmur, and they stop being able to tell whether they were heard. Worn long, they stop trying.
 
 ## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Suit Record*
 

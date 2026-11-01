@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer carries the anger of every person who walked it. Continued use makes Anger Underfoot's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer carries the anger of every person who walked the path, and none of it is returned when they leave: the route's whole history stays in their temper.
 
 ## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Stigma Record*
 
