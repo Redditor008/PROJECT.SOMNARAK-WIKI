@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Bridge of the Unchosen Charm is the stigma record of its source’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to the Bridge’s sorrow, shaped like its hesitation. Binding names the source event — a person abandoned a crossing at the last moment, the path freezing around the decision — and accepts the set’s limit: acknowledge possibility without treating it as history. The cost is linguistic: the bearer occasionally forgets a word, speech acquiring its own abandoned crossings, and prolonged use makes the sorrow autobiographical. The source- trace fixed doctrine: the stigma shows the choice at the center of the crossing — not the life beyond the bridge but the decision itself, the point where the walker turned back — the only fact the set recognizes — and it uncoupled the hazard only after attribution to the Bridge. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Bridge of the Unchosen Charm is the stigma record of its source’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to the Bridge’s sorrow, shaped like its hesitation. Binding names the source event — a person abandoned a crossing at the last moment, the path freezing around the decision — and accepts the set’s limit: acknowledge possibility without treating it as history. The cost is the instant: it freezes the moment before commitment, and a season of carrying it leaves the bearer never having made one. The source- trace fixed doctrine: the stigma shows the choice at the center of the crossing — not the life beyond the bridge but the decision itself, the point where the walker turned back — the only fact the set recognizes — and it uncoupled the hazard only after attribution to the Bridge. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer occasionally forgets a word. Continued use makes Bridge of the Unchosen's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm freezes the instant before commitment: held, it lets the bearer keep a decision open a while longer. Carried long, they have never made one.
 
 ## ITEM-SPECIFIC HISTORY — *The Bridge of the Unchosen Source-Trace: Stigma Record*
 

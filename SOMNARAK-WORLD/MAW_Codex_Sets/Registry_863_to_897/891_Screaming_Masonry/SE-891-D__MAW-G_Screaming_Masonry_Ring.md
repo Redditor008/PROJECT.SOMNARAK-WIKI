@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Screaming Masonry Ring is the stigma record of its source’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is forensic: it reveals lies and hidden obligations, the concealed debts generations of failure taught the walls to hold. Binding names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. The cost accompanies every disclosure: the wearer feels the burden behind every deception, each revealed lie arriving with the weight that made someone tell it, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the obligations behind the cry — the scream parsed into specific unfulfilled duties, grievance given its itemized bill — and it witnessed the immediate hazard only after attribution to Screaming Masonry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Screaming Masonry Ring is the stigma record of its source’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is forensic: it reveals lies and hidden obligations, the concealed debts generations of failure taught the walls to hold. Binding names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. The cost is the hook: every hidden obligation it makes legible becomes the bearer's, and a season of wear leaves them everywhere the debts are. The source-trace fixed doctrine: the stigma reveals the obligations behind the cry — the scream parsed into specific unfulfilled duties, grievance given its itemized bill — and it witnessed the immediate hazard only after attribution to Screaming Masonry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels the burden behind every deception. Continued use makes Screaming Masonry's source sorrow feel autobiographical.
+**Operational / binding cost:** The Ring makes every hidden obligation legible and puts the wearer on the hook for it. Worn long, the wearer is everywhere the debts are.
 
 ## ITEM-SPECIFIC HISTORY — *The Screaming Masonry Source-Trace: Stigma Record*
 

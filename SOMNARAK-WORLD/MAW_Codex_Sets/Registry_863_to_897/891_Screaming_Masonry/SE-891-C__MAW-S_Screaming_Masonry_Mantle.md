@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Screaming Masonry Mantle is the suit record of its source’s set, granting resistance to Weight damage and protecting the Han — sorrow reserves, karmic debt — against the pressure of duties mortared into walls by generations who failed one another. Binding is testimonial: the wearer names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. That limit is the garment’s entire safety doctrine: the walls’ cry is real but is no summons to answer for every failure in the stone. The operational cost is a constant low fatigue, and continued use makes the sorrow feel autobiographical — the masonry’s debts migrating onto the wearer’s ledger. The source-trace set the doctrine: the suit weighs the worker’s resolve, and it marked the immediate hazard only after attribution to Screaming Masonry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Screaming Masonry Mantle is the suit record of its source’s set, granting resistance to Weight damage and protecting the Han — sorrow reserves, karmic debt — against the pressure of duties mortared into walls by generations who failed one another. Binding is testimonial: the wearer names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. That limit is the garment’s entire safety doctrine: the walls’ cry is real but is no summons to answer for every failure in the stone. The cost is the settling: every obligation in the room settles on the wearer, and a season of wear leaves them answering to duties nobody assigned. The source-trace set the doctrine: the suit weighs the worker’s resolve, and it marked the immediate hazard only after attribution to Screaming Masonry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Screaming Masonry Mantle is the suit record of its source’s set, granting 
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Screaming Masonry's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle absorbs duty the way walls absorb sound: worn, every obligation in the room settles on the wearer. Worn long, the wearer answers to duties nobody assigned them.
 
 ## ITEM-SPECIFIC HISTORY — *The Screaming Masonry Source-Trace: Suit Record*
 

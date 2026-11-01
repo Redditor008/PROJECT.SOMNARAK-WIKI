@@ -31,7 +31,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Absent Landmark's source sorrow feel autobiographical.
+**Operational / binding cost:** The culverin fires into space that has already been cleared: each shot spends a little of the wielder's certainty that the work is finished. Served long, the crew keeps firing at a tower that is not there.
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Weapon Record*
 

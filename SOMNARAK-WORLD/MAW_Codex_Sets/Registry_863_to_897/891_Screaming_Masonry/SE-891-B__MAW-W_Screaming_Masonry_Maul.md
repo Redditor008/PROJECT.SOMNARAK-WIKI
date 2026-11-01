@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Screaming Masonry Maul is the weapon record of its source’s set, a Weight instrument attacking the Han — sorrow reserves, karmic debt — by channeling the source’s weight signature into the strike. Binding is testimonial: the bearer names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. The operational cost is the Weight standard: the wielder feels progressively heavier, prolonged use ages them slightly, and continued use makes the sorrow feel autobiographical — generations of other people’s unkept obligations invoicing themselves to the wielder’s account. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon interrupts the immediate hazard only after attribution to Screaming Masonry, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Screaming Masonry Maul is the weapon record of its source’s set, a Weight instrument attacking the Han — sorrow reserves, karmic debt — by channeling the source’s weight signature into the strike. Binding is testimonial: the bearer names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. The cost is the ledger in the wall: each blow adds the wielder's own unfinished duty to the strike and leaves it there, until they carry a building's worth of promises. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon interrupts the immediate hazard only after attribution to Screaming Masonry, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Screaming Masonry Maul is the weapon record of its source’s set, a Weight 
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Screaming Masonry's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul weighs what was never done: each blow adds the wielder's own unfulfilled duty to the strike and leaves it there. Wielded long, the wielder is carrying a building's worth of unfinished promises.
 
 ## ITEM-SPECIFIC HISTORY — *The Screaming Masonry Source-Trace: Weapon Record*
 

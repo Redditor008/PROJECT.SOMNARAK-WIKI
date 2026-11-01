@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Empty Veil of Absent Landmark’s set grants resistance to Void damage, protecting the Soul against the pressure of a shape the district cannot stop looking for. Binding is testimonial: the wearer names Absent Landmark’s event — an Old Lament tower collapsed and was cleared, but the district continued looking for its shape — and accepts the set’s limit: record its former location; do not attempt to rebuild it around the entity. The operational cost is the Void standard for armor: the wearer feels faintly absent to themselves, presence thinned by the protection that maintains it, and continued use makes the sorrow feel autobiographical — the missing tower entering the wearer’s own skyline. The source-trace set the doctrine: the suit tests whether the worker can remain before an absence — standing at the cleared site without flinching toward reconstruction — and it redirected the immediate hazard only after attribution to Absent Landmark. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Empty Veil of Absent Landmark’s set grants resistance to Void damage, protecting the Soul against the pressure of a shape the district cannot stop looking for. Binding is testimonial: the wearer names Absent Landmark’s event — an Old Lament tower collapsed and was cleared, but the district continued looking for its shape — and accepts the set’s limit: record its former location; do not attempt to rebuild it around the entity. The cost is the space: a wearer of the Empty Veil is hard to place in their own memories, and a season of wear sends them looking for themselves in rooms they have cleared. The source-trace set the doctrine: the suit tests whether the worker can remain before an absence — standing at the cleared site without flinching toward reconstruction — and it redirected the immediate hazard only after attribution to Absent Landmark. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Empty Veil of Absent Landmark’s set grants resistance to Void damage, prot
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Absent Landmark's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil protects identity by leaving a space where the wearer used to be: worn, they are hard to place in their own memories. Worn long, they go looking for themselves in rooms they have cleared.
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Suit Record*
 

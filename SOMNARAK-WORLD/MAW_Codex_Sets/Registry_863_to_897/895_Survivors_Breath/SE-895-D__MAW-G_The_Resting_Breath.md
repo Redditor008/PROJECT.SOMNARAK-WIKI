@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Resting Breath is the stigma record of Survivors’ Breath’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability administers what the source is made of lacking: it calms panic and grants one moment of emotional rest, one sanctioned pause in a city that sighed instead of stopping. Binding names the source event — citizens sighed after repeated crises until the collective breath became a wandering presence — and accepts the set’s limit: permit rest; do not force personnel to continue working through it. The cost arrives after the calm: the wearer feels the exhaustion of everyone nearby afterward, granted rest repaid in ambient fatigue, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the crises that produced each breath — the sighs traced back to their emergencies — and it severed the immediate hazard only after attribution to Survivors’ Breath. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Resting Breath is the stigma record of Survivors’ Breath’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability administers what the source is made of lacking: it calms panic and grants one moment of emotional rest, one sanctioned pause in a city that sighed instead of stopping. Binding names the source event — citizens sighed after repeated crises until the collective breath became a wandering presence — and accepts the set’s limit: permit rest; do not force personnel to continue working through it. The cost is the borrowing: every calm moment comes out of the bearer's next hour, until they are calm and have not slept. The source-trace fixed doctrine: the stigma reveals the crises that produced each breath — the sighs traced back to their emergencies — and it severed the immediate hazard only after attribution to Survivors’ Breath. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels the exhaustion of everyone nearby afterward. Continued use makes Survivors' Breath's source sorrow feel autobiographical.
+**Operational / binding cost:** The Breath grants a moment of rest and takes it from the bearer's own: each calm borrowed from the next hour. Used long, the bearer is calm and has not slept.
 
 ## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Stigma Record*
 

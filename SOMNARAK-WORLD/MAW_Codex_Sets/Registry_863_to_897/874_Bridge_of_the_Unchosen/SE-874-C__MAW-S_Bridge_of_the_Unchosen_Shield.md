@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Bridge of the Unchosen Shield is the suit record of its source’s set, and its canonical ability is passage: it allows a brief crossing through emotional obstruction, the frozen bridge briefly walkable for someone who does not mistake the far side for a life owed. Binding is testimonial: the wearer names the source event — a person abandoned a crossing at the last moment, and the path froze around the decision — and accepts the set’s limit: acknowledge possibility without treating it as history. The operational cost is the weight of every road not taken — the Shield’s crossings paid for in the accumulated heaviness of alternatives — and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit tests whether the worker can cross without claiming the alternative life — transit permitted, tenancy refused — and it severed the immediate hazard only after attribution to the Bridge. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Bridge of the Unchosen Shield is the suit record of its source’s set, and its canonical ability is passage: it allows a brief crossing through emotional obstruction, the frozen bridge briefly walkable for someone who does not mistake the far side for a life owed. Binding is testimonial: the wearer names the source event — a person abandoned a crossing at the last moment, and the path froze around the decision — and accepts the set’s limit: acknowledge possibility without treating it as history. The cost is the far side: the feeling stays where it was crossed, and the wearer ends up on the other side of every argument and no closer to the person. The source-trace set the doctrine: the suit tests whether the worker can cross without claiming the alternative life — transit permitted, tenancy refused — and it severed the immediate hazard only after attribution to the Bridge. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Bridge of the Unchosen Shield is the suit record of its source’s set, and 
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels the weight of every road not taken. Continued use makes Bridge of the Unchosen's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shield opens the way through a feeling and closes behind the wearer: each crossing leaves the feeling on the far side, still unaddressed. Used long, the wearer is on the other side of every argument and no closer to the person.
 
 ## ITEM-SPECIFIC HISTORY — *The Bridge of the Unchosen Source-Trace: Suit Record*
 

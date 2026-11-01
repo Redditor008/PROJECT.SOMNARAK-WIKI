@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Broken Charm is the stigma record of Welcome Haven’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Welcome Haven’s sorrow, shaped like its failed shelter. Binding names the source event — a border wall collapsed during an Outside Sorrow surge, leaving residents exposed — and accepts the set’s limit: admit the wall failed; do not promise perfect protection. The cost is behavioral: the bearer’s temper shortens, the breach’s grievance leaking into the carrier, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals what the wall failed to protect — the residents and rooms behind the breach made visible, failure measured in casualties rather than masonry — and it interrupted the immediate hazard only after attribution to Welcome Haven. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Broken Charm is the stigma record of Welcome Haven’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Welcome Haven’s sorrow, shaped like its failed shelter. Binding names the source event — a border wall collapsed during an Outside Sorrow surge, leaving residents exposed — and accepts the set’s limit: admit the wall failed; do not promise perfect protection. The cost is the opening: it makes the bearer open where they should be closed, and a season of carrying it lets everything through. The source-trace fixed doctrine: the stigma reveals what the wall failed to protect — the residents and rooms behind the breach made visible, failure measured in casualties rather than masonry — and it interrupted the immediate hazard only after attribution to Welcome Haven. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer's temper shortens. Continued use makes Welcome Haven's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm welcomes what comes through so it will not break the door: held, it makes the bearer open where they should be closed. Carried long, the bearer lets in everything.
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Stigma Record*
 

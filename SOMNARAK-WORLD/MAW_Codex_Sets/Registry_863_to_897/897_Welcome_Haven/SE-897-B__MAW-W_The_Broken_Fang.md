@@ -31,7 +31,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Welcome Haven's source sorrow feel autobiographical.
+**Operational / binding cost:** The Pike strikes through a gap that has already opened: each blow spends a piece of the wielder's cover. Wielded long, the wielder has nothing left between themselves and what comes through.
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Weapon Record*
 

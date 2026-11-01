@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The 863–897 set closes
+
+Twenty-one item records in `Registry_863_to_897`, seven sets: the empty lens, the homecoming tree, the bridge of the unchosen, the frozen tear, the screaming masonry, repose, and welcome haven. The range is now clear of the shared tail.
+
+The Sunken Culverin fires into space that has already been cleared and spends the crew's certainty that the work is finished. The Returning Requiem's strike arrives twice, once where the target is and once where it used to be. The Frozen Fragment stores every surge it stops, unchanged, until the bearer is full of other people's weather.
+
+Eighteen Appearance paragraphs restated the old cost and now carry the matching sentence.
+
+**Left:** 234 records, in `900_to_930` (75), `941_to_976` (36), and `1001_to_1043` (123).
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The 762–801 set closes
 
 All thirty-nine item records in `Registry_762_to_801` now carry a cost written for the piece that charges it. Every one of the thirteen sets in the range is complete: grasp, memorial flame, swallow, cleaved, last fruit, the well, miscast, flotsam, the garden stone, the thousand-owner relic, the portcullis, the spire, and the mirror.

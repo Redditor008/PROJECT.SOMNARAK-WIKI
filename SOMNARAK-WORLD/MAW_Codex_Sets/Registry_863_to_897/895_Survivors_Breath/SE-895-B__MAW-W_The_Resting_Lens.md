@@ -31,7 +31,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 |---:|---:|---:|---|---:|
 | Void 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Survivors' Breath's source sorrow feel autobiographical.
+**Operational / binding cost:** The Awl punctures the place a person holds their breath: each strike costs the wielder their own next exhale. Wielded long, the wielder fights without breathing.
 
 ## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Weapon Record*
 

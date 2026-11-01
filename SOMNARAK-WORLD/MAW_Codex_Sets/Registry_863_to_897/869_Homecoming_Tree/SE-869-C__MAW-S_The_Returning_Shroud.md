@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Returning Shroud is the suit record of the Homecoming Tree’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a home that no longer matches its memory. Binding is testimonial: the wearer names the source event — a displaced community returned to its original border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the failed homecoming installing itself in the wearer’s own geography of returns. The source- trace set the doctrine: the suit requires the worker to remain beneath it without claiming ownership — shelter accepted on the terms the returned community faced, gratitude without title — and it contained the immediate hazard only after attribution to the Homecoming Tree. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Shroud is the suit record of the Homecoming Tree’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a home that no longer matches its memory. Binding is testimonial: the wearer names the source event — a displaced community returned to its original border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. The cost is the revision: nothing in the present can change the wearer's version of home, and a season of wear leaves them defending a settlement that no longer exists. The source- trace set the doctrine: the suit requires the worker to remain beneath it without claiming ownership — shelter accepted on the terms the returned community faced, gratitude without title — and it contained the immediate hazard only after attribution to the Homecoming Tree. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Returning Shroud is the suit record of the Homecoming Tree’s set, granting
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Homecoming Tree's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud keeps grief off by keeping the wearer's version of home intact: worn, nothing about the present can revise it. Worn long, the wearer defends a settlement that no longer exists.
 
 ## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Suit Record*
 

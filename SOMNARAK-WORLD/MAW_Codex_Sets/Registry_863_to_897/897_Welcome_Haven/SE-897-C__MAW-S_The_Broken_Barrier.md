@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Broken Barrier is the suit record of Welcome Haven’s set, and its canonical ability is a single honest promise: it absorbs one breach impact — not perfect protection — the claim the limit forbids — but one failure’s worth of shelter, guaranteed. Binding is testimonial: the wearer names the source event — a border wall collapsed during an Outside Sorrow surge, leaving residents exposed — and accepts the set’s limit: admit the wall failed; do not promise perfect protection. The operational cost is the armor’s own conscience: the shield remembers every person it failed to protect, the roster of the exposed carried in the metal, and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit tests whether the worker can stand before failed safety — facing the collapsed wall without pretending it held — and it isolated the immediate hazard only after attribution to Welcome Haven. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Broken Barrier is the suit record of Welcome Haven’s set, and its canonical ability is a single honest promise: it absorbs one breach impact — not perfect protection — the claim the limit forbids — but one failure’s worth of shelter, guaranteed. Binding is testimonial: the wearer names the source event — a border wall collapsed during an Outside Sorrow surge, leaving residents exposed — and accepts the set’s limit: admit the wall failed; do not promise perfect protection. The cost is the exposure: each impact it takes leaves the wearer more exposed than before, and a season of it leaves the wearer as the gap. The source-trace set the doctrine: the suit tests whether the worker can stand before failed safety — facing the collapsed wall without pretending it held — and it isolated the immediate hazard only after attribution to Welcome Haven. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Broken Barrier is the suit record of Welcome Haven’s set, and its canonica
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The shield remembers every person it failed to protect. Continued use makes Welcome Haven's source sorrow feel autobiographical.
+**Operational / binding cost:** The Barrier takes one breach into itself and passes the rest on: each impact absorbed leaves the wearer more exposed than before. Worn long, the wearer is the gap.
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Suit Record*
 

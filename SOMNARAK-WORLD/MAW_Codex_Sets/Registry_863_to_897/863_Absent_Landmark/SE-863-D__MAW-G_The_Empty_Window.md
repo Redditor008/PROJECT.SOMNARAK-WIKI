@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Empty Window is the stigma record of Absent Landmark’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is architectural recall: it reveals spaces removed from a structure, demolished and cleared spaces made briefly legible. Binding names Absent Landmark’s event — an Old Lament tower collapsed and was cleared, the district still looking for its shape — and accepts the set’s limit: record its former location; do not attempt to rebuild it around the entity. The cost is perceptual and permanent while worn: the wearer sees every empty room as occupied by memory, vacancy abolished from their vision, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma shows the lives that once filled its rooms — the tower repopulated for the duration of a reading, testimony without reconstruction — and it stayed the immediate hazard only after attribution to Absent Landmark. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Empty Window is the stigma record of Absent Landmark’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is architectural recall: it reveals spaces removed from a structure, demolished and cleared spaces made briefly legible. Binding names Absent Landmark’s event — an Old Lament tower collapsed and was cleared, the district still looking for its shape — and accepts the set’s limit: record its former location; do not attempt to rebuild it around the entity. The cost is the doorway: every space it reveals takes a room's worth of the bearer's own recall, until their memory has more doorways than rooms. The source-trace fixed doctrine: the stigma shows the lives that once filled its rooms — the tower repopulated for the duration of a reading, testimony without reconstruction — and it stayed the immediate hazard only after attribution to Absent Landmark. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer sees every empty room as occupied by memory. Continued use makes Absent Landmark's source sorrow feel autobiographical.
+**Operational / binding cost:** The Window shows the bearer what a building has lost and asks for the same in return: each removed space it reveals takes a room's worth of the bearer's own recall. Carried long, the bearer's memory has more doorways than rooms.
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Stigma Record*
 

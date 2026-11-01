@@ -31,7 +31,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 |---:|---:|---:|---|---:|
 | Void 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Bridge of the Unchosen's source sorrow feel autobiographical.
+**Operational / binding cost:** The Ring holds the wielder at the moment before a choice: every strike is thrown from the last step they did not take. Wielded long, the wielder can no longer finish crossing anything.
 
 ## ITEM-SPECIFIC HISTORY — *The Bridge of the Unchosen Source-Trace: Weapon Record*
 

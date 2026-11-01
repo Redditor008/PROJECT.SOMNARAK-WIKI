@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Returning Requiem is the weapon record of the Homecoming Tree’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a displaced community returned to its original border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the unrecognizable homecoming filing itself among the wielder’s own returns. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stays the immediate hazard only after attribution to the Homecoming Tree, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Requiem is the weapon record of the Homecoming Tree’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a displaced community returned to its original border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. The cost is the second arrival: each blow takes the wielder's ability to recognise a place as it now is, until they greet strangers as old friends. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stays the immediate hazard only after attribution to the Homecoming Tree, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Returning Requiem is the weapon record of the Homecoming Tree’s set, a Lam
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Homecoming Tree's source sorrow feel autobiographical.
+**Operational / binding cost:** The Requiem's strike arrives twice — once where the target is, once where it used to be. Each blow costs the wielder the ability to recognise a place as it now is. Wielded long, the wielder greets strangers as old friends.
 
 ## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Weapon Record*
 

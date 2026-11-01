@@ -31,7 +31,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Seething Tundra's source sorrow feel autobiographical.
+**Operational / binding cost:** The Awl pricks the place where a feeling was going to be kept: each strike preserves something of the wielder's and hardens it. Wielded long, the wielder's grief is a set of stones they cannot put down.
 
 ## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Weapon Record*
 

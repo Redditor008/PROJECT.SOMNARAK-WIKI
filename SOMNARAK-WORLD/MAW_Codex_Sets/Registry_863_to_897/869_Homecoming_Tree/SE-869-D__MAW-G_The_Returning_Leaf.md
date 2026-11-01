@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Returning Leaf is the stigma record of the Homecoming Tree’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is honest retrospection: it reveals the memory of a place before it was altered, the old settlement shown as record, not claim. Binding names the source event — a displaced community returned to its border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. Its cost is communal: the wearer feels the grief of every person who returned too late, each reading attended by the delayed homecoming, and prolonged use makes the sorrow autobiographical. The source- trace fixed doctrine: the stigma shows the settlement before and after abandonment — both states in one view, the change itself the subject — and it discharged the hazard only after attribution to the Tree. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Leaf is the stigma record of the Homecoming Tree’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is honest retrospection: it reveals the memory of a place before it was altered, the old settlement shown as record, not claim. Binding names the source event — a displaced community returned to its border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. The cost is the displacement: each showing of a place as it used to be takes what the bearer knew of it now, until they cannot find their way down their own street. The source- trace fixed doctrine: the stigma shows the settlement before and after abandonment — both states in one view, the change itself the subject — and it discharged the hazard only after attribution to the Tree. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels the grief of every person who returned too late. Continued use makes Homecoming Tree's source sorrow feel autobiographical.
+**Operational / binding cost:** The Leaf shows the wearer how a place used to be, and the showing displaces what they knew of it now. Used repeatedly, the wearer cannot find their way through their own street.
 
 ## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Stigma Record*
 
