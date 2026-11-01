@@ -1004,10 +1004,12 @@ A rated entity still has to be worked by people. This chapter pairs the four dis
 
 | L Corp Work Type | PS Analog (Axis · Element) | Method | Subject Discipline Profile | Non-Subject `[O/P/T/H]` Rule |
 |---|---|---|---|---|
-| **Instinct** | **Ferrehan (인내한 / *Innaehan* — Endurance)** — Mental · Weight | Bear the filed ambient burden and presence | Positive *High* / Negative *Moderate* — Risk: *Exhaustion* | **Permitted** — *Gravitational Bearing* |
-| **Insight** | **Viderehan (관조한 / *Gwanjohan* — Observation)** — Mental · Void | Witness and record the filed signs and patterns at the filed observation position | Positive *Low* / Negative *Low* — Risk: *Mental fatigue* | **Permitted** — *Memory Witnessing* |
-| **Attachment** | **Flerehan (통곡한 / *Tonggokhan* — Tears / Catharsis)** — Physical · Lament | Empathic dialogue and reciprocal weeping | Positive *Moderate* / Negative *Low* — Risk: *Emotional drain* | **PROHIBITED** — filed backfire (0 PE) |
-| **Repression** | **Pugnahan (격투한 / *Gyeoktuhan* — Confrontation)** — Physical · Grudge | Confront and resist the filed aggression or contact | Positive *High* / Negative *High* — Risk: *Physical damage* | **PROHIBITED** — filed backfire (0 PE) |
+| **Instinct** | **Ferrehan (페레한 — Endurance)** — Mental · Weight | Bear the filed ambient burden and presence | Positive *High* / Negative *Moderate* — Risk: *Exhaustion* | **Permitted** — *Gravitational Bearing* |
+| **Insight** | **Viderehan (비데레한 — Observation)** — Mental · Void | Witness and record the filed signs and patterns at the filed observation position | Positive *Low* / Negative *Low* — Risk: *Mental fatigue* | **Permitted** — *Memory Witnessing* |
+| **Attachment** | **Flerehan (플레레한 — Tears / Catharsis)** — Physical · Lament | Empathic dialogue and reciprocal weeping | Positive *Moderate* / Negative *Low* — Risk: *Emotional drain* | **PROHIBITED** — filed backfire (0 PE) |
+| **Repression** | **Pugnahan (푸그나한 — Confrontation)** — Physical · Grudge | Confront and resist the filed aggression or contact | Positive *High* / Negative *High* — Risk: *Physical damage* | **PROHIBITED** — filed backfire (0 PE) |
+
+**The four names are Latin roots welded to Han, and the Korean follows the name.** The world codex spells them 비데레한 · 페레한 · 플레레한 · 푸그나한, and the romanization *is* the work's name — Viderehan, Ferrehan, Flerehan, Pugnahan. A second set of forms is in circulation in the comparison registers — 관조한 / *Gwanjohan*, 인내한 / *Innaehan*, 통곡한 / *Tonggokhan*, 격투한 / *Gyeoktuhan* — and every one of them is a **translation of the work**, not another name for it: 관조한 means observation, 통곡한 means wailing. Filing 관조한 beside *Gwanjohan* is coherent; filing it beside *Viderehan* is three names in one cell. Where a quoted in-world line uses the translated form — a Directorate briefing that says *Flerehan (통곡한)* — the quotation stands as the speaker's usage, and the record still files 플레레한.
 
 The Subject-column profiles are the R.D. codex's generic Positive/Negative Han-Energy tendencies and discipline risks per discipline. They profile the discipline, never the entity: a converted record's work favor, PE yield, and counter movement read from the entity's Behavior table and filed counter law (Work-Outcome Translation in Detail, this chapter), never from this table. The Axis · Element pair likewise names the Somnarak discipline's form; it does not make that work favorable to every entity of the named Element.
 
@@ -1259,10 +1261,12 @@ For Core Stat locomotion, fixed stays fixed unless the Breach Form files movemen
 
 | Filed battle-engine pacing | LC breach movement profile | Suppression note |
 |---|---|---|
-| Speed 1–2 · 1 AP: one basic strike or one node shift | Slow roam; short reposition between attacks | Contain by corridor control; do not let a slow profile be read as a safe profile |
-| Speed 3–4 · 2 AP: move + strike, or brace + strike | Standard roam; attacks on the move between adjacent rooms | Focus fire during transit; guard elevators and department doors |
-| Speed 5–6 · 3 AP: repositioning with a filed tactical or resonance skill | Fast roam or multi-room pressure; short warning before pattern skills | Pre-position resistant suits; interrupt at the filed stagger or pattern line |
-| Speed 7+ · 4+ AP: multi-action pacing and multi-node dashes | Fast multi-room or facility-pressure movement; blink, teleport, or phase movement only where filed | Treat distance as no defense; suppression is a department plan, not a chase |
+| Speed 2–3 · 2 AP: one basic strike or one node shift | Slow roam; short reposition between attacks | Contain by corridor control; do not let a slow profile be read as a safe profile |
+| Speed 4–5 · 3 AP: move + strike, or brace + strike | Standard roam; attacks on the move between adjacent rooms | Focus fire during transit; guard elevators and department doors |
+| Speed 6–7 · 4 AP: repositioning with a filed tactical or resonance skill, multi-node dashes | Fast roam or multi-room pressure; short warning before pattern skills | Pre-position resistant suits; interrupt at the filed stagger or pattern line |
+| Speed 8+ · **4 AP, no fifth band** | Fast multi-room or facility-pressure movement; blink, teleport, or phase movement only where filed | Treat distance as no defense; suppression is a department plan, not a chase |
+
+**The bands are the engine's, and four AP is the ceiling.** `ACTION_DICE_AND_CLASH_RULES.md` sets 2–3 → 2 AP, 4–5 → 3 AP, 6–7 → 4 AP, and one AP buys one die; the battle system's role table reads inside that (a Speed 5–8 vanguard files 3 to 4 AP, a Ballast Heavy at 2–4 files 1 to 2). A table that starts at Speed 1 and tops out at *4+ AP* has invented a fifth band and given a Speed 5 body one AP less than the engine does. Speed below 2 exists in the dossiers as pursuit pace, not as a budget.
 
 The Range Band below is the reach filed for an **entity attack pattern**. A weapon's Range value converts with the equipment in Chapter 8 and does not lengthen the entity's own reach.
 
@@ -1353,6 +1357,39 @@ At Degree I, Corrosion files as a shift-limit and bearer-history warning unless 
 | M.A.W. Stigma | E.G.O Gift | The Gift output carries no E.G.O Risk Level; the Stigma's Greek grade remains source provenance. Slot carries over (Head, Tail→Brooch-equivalent by department fitting practice, Hand/Arm, etc.); the dossier's acquisition probability is recorded as the observed Gift rate; conferred-not-manufactured Stigmas remain Gift-only and cannot be produced with PE-Boxes. |
 
 Where the source dossier and its linked item records disagree on a piece's form, profile or even existence (extraction prohibited on one page, a full set on another), Extraction produces **nothing** and files the disagreement: an unresolved equipment record is a management fact, not a license to synthesize the missing piece. Producible quantity and PE-Box cost otherwise follow standard LC observation-gated production keyed to the Section IX unlock track; where the dossier files a finite set count, that count caps production absolutely.
+
+#### 3a. The stock ceiling — five per kind
+
+`Maximum Amount` is the figure the source dossier files. It is **stock, not history**: the number of that piece the home Archive may hold from that source at once. It is not a lifetime total, not a cap on how many have ever existed, and not the number a single bearer may carry — so it converts into a **production cap**, and nothing else.
+
+| Filed figure | Band word | What it means at the L Corp output |
+|---:|---|---|
+| 1 | **Held** | One piece exists. Its issue is an event, its loss ends the line, and no second unit may be produced |
+| 2 | **Limited** | Two in hand; one spare, and the spare is watched |
+| 3 | **Standard** | A working stock; a team can be equipped without borrowing |
+| 4 | **Stocked** | A comfortable reserve, held against attrition |
+| 5 | **Abundant** | The full ceiling; issued without a case being written |
+
+**Five is the ceiling for each kind** — five Weapons, five Suits, five Stigmas from one source, fifteen in all, whatever its risk level. Three is the number of *kinds*, not of copies: one extraction yields a three-piece set, and the set may be produced to the ceiling five times over.
+
+**The figure falls only when a held piece leaves the Archive's hands, and there are exactly four ways:**
+
+1. **Dissolution** — the piece loses coherence and returns to its source.
+2. **Missing** — out of the Archive's hands and unaccountable. A piece merely overdue is not missing.
+3. **Broken** — destroyed. Damage short of destruction is not breakage.
+4. **100% inheritance** — the piece passes wholly to one holder and stops being stock: *it becomes that agent*, or *it is Echo-Core bound*.
+
+**Fusion is not a fifth event.** A fused piece is one piece, still counted, still on the record; fusion changes the piece's **state**, not the Archive's **stock**. Director Majin's *Reaper Hungered* leaves the count because an Echo-Core holds it, not because it is fused. No piece is retired twice and none is retired for being fused alone.
+
+**Everything else leaves the figure standing** — issue, loan, vaulting, a sealed case, wear, damage short of destruction, corrosion short of takeover, and the bearer's death where the piece survives them. Lowering a figure because a piece is *out* destroys stock on paper without destroying a piece.
+
+**A Stigma files two figures.** `Acquisition Probability` is the **rate at which the Gift slot is filled**; `Maximum Amount` is the **size of the holding**. A Stigma is bestowed at random on a successful work and never manufactured, so bestowal raises the count toward the ceiling and the same four events lower it. Neither figure replaces the other, and a Gift output that files a rate and no ceiling has filed half the record.
+
+**A record with no figure is not unlimited.** The ceiling is still five and the stock is simply unrecorded; the record owes the number. Across the 852 home item records, **199 state a figure** — Weapon 98, Suit 101, Stigma 0 — and **653 do not**; none files above five and none files zero, so the ceiling holds in the data as well as in the law.
+
+**An Ordeal is not a source.** The twenty Ordeal types hold no cell, take no Work and yield no M.A.W.; nothing is extracted from them and they contribute to no ceiling.
+
+Full law: `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` §I.1 · binding rule `REFERENCE_SOMNARAK_WIKI/RULES/R-37_MAW_STOCK_CEILING.md`.
 
 ### Equipment Names and Grade Channels
 
@@ -1703,10 +1740,10 @@ This lexicon serves authors and creators adapting scenarios, dialogue, or lore b
 | **PE-Box / NE-Box** | **Han Yield (  한 생산량   )** | The measure of positive extraction vs volatile waste per cycle. |
 | **Qliphoth Meltdown / Ordeal Cadence** | **Han-Density Threshold & Watch Time (사경)** | The crisis clock, not the same anatomy: PS files one density gauge whose bands open First → Tide Watch Ordeal manifestations (§9.1). A Watch is an Ordeal severity Time, not an all-day weather state laid over contained entities. |
 | **Qliphoth Counter** | **Activation Threshold ([N]) · Sorrow Gauge % (`X` tally) · Activation (condition)** | Three trigger classes, kept apart. A filed numeral is the threshold and runs down exactly as the native counter does. An `X` display over a working tally converts as the Gauge percentage; an `X` with nothing behind it files Activation, never an invented meter. A condition with no tally stays Activation. Neither number is ever derived from the other. |
-| **Insight Work** | **Viderehan (  관조한   / *Gwanjohan*)** | Containment via witness and record at the filed observation position. |
-| **Instinct Work** | **Ferrehan (  인내한   / *Innaehan*)** | Containment via direct physical endurance inside the chamber. |
-| **Attachment Work** | **Flerehan (  통곡한   / *Tonggokhan*)** | Containment via reciprocal empathetic weeping and emotional dialogue. |
-| **Repression Work** | **Pugnahan (  격투한   / *Gyeoktuhan*)** | Containment via filed confrontation and resistance. |
+| **Insight Work** | **Viderehan (비데레한)** | Containment via witness and record at the filed observation position. |
+| **Instinct Work** | **Ferrehan (페레한)** | Containment via direct physical endurance inside the chamber. |
+| **Attachment Work** | **Flerehan (플레레한)** | Containment via reciprocal empathetic weeping and emotional dialogue. |
+| **Repression Work** | **Pugnahan (푸그나한)** | Containment via filed confrontation and resistance. |
 | **Sanity (SP)** | **Composure (  침착성   )** | Mental equilibrium; when depleted, operative enters Pre-Fracture Panic. |
 | **HP (Health Points)** | **Sorrow Gauge / Physical Durability** | Structural or biological integrity of entities and operatives. |
 | **The Manager (X)** | **Distributed R.D. command** | No single chair: Majin holds supreme authority; Seiyon manages administration, schedules, and communications; Echo-Core leads and Field Commanders run floor assignment and response. Dekan is the Floor 2 / Zone B Containment Lead, not a universal dispatch seat. |

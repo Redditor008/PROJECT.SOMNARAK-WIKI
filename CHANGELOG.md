@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The second guide, compared — and an AP table a whole band out (107)
+
+The guide was compared twice and came back clean both times. This pass pointed the same machinery at the **other** direction's authority — `PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`, the Universal Table — on the theory that two documents written from one template keep one set of defects. The theory held.
+
+**The AP table was shifted by an entire band.** Speed 1–2 → 1 AP · 3–4 → 2 · 5–6 → 3 · **7+ → 4+**. The engine sets 2–3 → 2 · 4–5 → 3 · 6–7 → 4, four AP maximum. A body at **Speed 5 got two AP in the Universal Table and three in the engine** — one die per turn, permanently, for every contained entity at that band. The table also invented a fifth band (`7+ · 4+ AP`) that the engine does not have. Realigned, with the reason written beside it.
+
+**The work names were carrying three names in one cell.** `Viderehan (관조한 / Gwanjohan)` is a Latin-derived name, a Korean translation of a *different* word, and a romanization of that translation, stacked as though they were one term. The world codex spells 비데레한, and beats `Gwanjohan` **1,098 files to 7**. The four rows now read 페레한 · 비데레한 · 플레레한 · 푸그나한 — and a paragraph states that the translated set (관조한 · 인내한 · 통곡한 · 격투한) is a reading aid for a bilingual table, with the standing note that a quoted Directorate line using *Flerehan (통곡한)* stands as the speaker's usage and is not to be "corrected" either.
+
+**The stock law was in one direction only.** The Universal Table is the both-direction authority and the guide cites its Appendix A for coverage — but Chapter 8 had no `Maximum Amount` at all, only a line about producible quantity. **New §3a** carries the ceiling into the L Corp output: five per kind as a **production cap**, the five band words, the four decrements, fusion as a change of state and never a decrement, the Stigma's two figures (rate of arrival vs size of holding), the 199-of-852 survey, and the rule that an Ordeal is not a source.
+
+**The four P's were already right here** — *Passives, Panic, Parry & Protection, and Posture*, with the line *"four combat domains, not four reaction dice"* — which is the sentence the conversion guide needed and did not have. No change made; it is now a check instead.
+
+**The auditor grew from 44 to 60 checks** and covers both documents: filed spellings in each, the translation-pair prohibition, every AP row parsed and bounded (`≤4 AP`, no band below Speed 2), the pillars in both, and the stock ceiling with its four decrements and the fusion carve-out. `60 pass · 0 fail`.
+
+**Gate:** 60/60 guide checks · `check_links` 0 broken (4,289) · `seam_lint` · `section_logic`.
+
 ## The conversion guide, compared a second time — and found inventing a raid (106)
 
 Batch 105 read the guide against the archive. This one read it against the archive **again, looking for what a first pass would not think to doubt** — the case studies, the foreign-language glosses, and the numbers that only exist in one file. It found one entry that was almost entirely fiction and eight that were half-right.

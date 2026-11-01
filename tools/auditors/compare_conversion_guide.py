@@ -132,6 +132,31 @@ def main():
     mag = read('SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md')
     ck('X.4 A-Relic single-use', 'A-Relic (Arcanum)' in mag and 'A-Relic' in g)
 
+    # 13 — the Universal Table (the both-direction authority) carries the same laws
+    uni = read('PROJECT_MOON_RESEARCH/CROSS_VERSE/PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md')
+    for ko, latin in [('비데레한', 'Viderehan'), ('페레한', 'Ferrehan'),
+                      ('플레레한', 'Flerehan'), ('푸그나한', 'Pugnahan')]:
+        ck(f'universal: work {latin} filed spelling', f'{latin} ({ko}' in uni)
+    ck('universal: no translation pair beside a Latin name',
+       not any(x in uni for x in ['(관조한 / *Gwanjohan*', '(인내한 / *Innaehan*',
+                                   '(통곡한 / *Tonggokhan*', '(격투한 / *Gyeoktuhan*']))
+    for band, ap in [('2–3', 2), ('4–5', 3), ('6–7', 4)]:
+        ck(f'universal: AP {band} -> {ap}', f'Speed {band} · {ap} AP' in uni)
+    ap_rows = re.findall(r'^\|\s*Speed ([0-9]+)[–+]([0-9]*) · ([0-9]+)\+? AP', uni, re.M)
+    ck('universal: AP rows parsed', len(ap_rows) >= 3, f'{len(ap_rows)} rows')
+    ck('universal: no AP above four',
+       all(int(ap) <= 4 for _, _, ap in ap_rows),
+       str([r for r in ap_rows if int(r[2]) > 4]))
+    ck('universal: no band starting below Speed 2',
+       all(int(lo) >= 2 for lo, _, _ in ap_rows),
+       str([r for r in ap_rows if int(r[0]) < 2]))
+    ck('universal: four pillars named', 'Passives, Panic, Parry & Protection, and Posture' in uni)
+    ck('universal: stock ceiling', 'supports up to five' in uni or 'five is the ceiling' in uni.lower())
+    ck('universal: four decrements', all(x in uni for x in
+                                         ['**Dissolution**', '**Missing**', '**Broken**', '**100% inheritance**']))
+    ck('universal: fusion not a decrement', 'Fusion is not a fifth event' in uni)
+    ck('universal: stigma two figures', 'Acquisition Probability' in uni and 'Maximum Amount' in uni)
+
     verbose = '-v' in sys.argv or '--verbose' in sys.argv
     bad = [c for c in CHECKS if not c[1]]
     if verbose:
