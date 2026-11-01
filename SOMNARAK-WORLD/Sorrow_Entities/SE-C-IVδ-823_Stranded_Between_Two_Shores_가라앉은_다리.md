@@ -44,51 +44,36 @@
 - Emotional pressure acts on crews who attempt to resolve the separation; intervention is prohibited by standing order.
 - Extraction is a separate risk event with its own authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0 m/s — a structure; the location is the entity and it does not travel |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the pressure this file is actually kept for — the pull of an unfinished journey — which is read as composure loss rather than as damage and is not the kind of pressure this table measures |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 809/809 |
-| **Han Pressure [ATK]** | 25–53 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and its third row states it in the plainest terms in the file: nothing collapses underfoot and nobody is immersed, and no wound is produced. What moves is the span, and what is read is how much lower it sits than last quarter.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A span across a flooded section, worked from both of its mouths at once, with audible weeping filling the tunnel from both ends. One name list is read at each shore and neither is read without the other; the span answers by sitting lower at the next depth reading. |
+| **Perceptible to** | The weeping first, thirty-one names near and twenty-six far, and then the difficulty of finishing a shift in a tunnel where nobody steps anywhere. The pull toward the midpoint is toward the furthest point from either mouth. |
+| **Handling** | Listen between the sobs and name both shores. A single mouth worked alone sinks the span further than two mouths worked for a shift, so the watch is written as one-sided working rather than as hours. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 809/809 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan, worked from both mouths at once. Pugnahan stays in the table because it was tried; on this holding it is entered as a failure, not an option. |
-| **Battlefield** | Zone B, deep tunnels |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan, worked from both mouths at once. Pugnahan stays in the record because it was tried: the bridge cracks and the tunnel fills with tears, which is the span answering and not the holding being hurt. |
+| **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | Listen between the sobs and name both shores |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Waterlogged Plank* [**Debuff**] } | "Thirty-one near. Twenty-six far. Say both." | [Audible weeping fills the section from both mouths at once; nobody steps anywhere, and the will to finish the shift is what erodes.] | *Target suffers -10 Composure; the unfinished journey is carried for the rest of the cycle.* **[10 Lament DMG [Lament]]** | When the tunnel is worked from one mouth only. |
-| { *The Rising Flood* [**Debuff**] } | "Now count the other." | [One column of names is read without the other; the span answers the way it answered nine years of a single list — by sitting lower at the next depth reading.] | *Target loses 10 Composure; descent, not water, is what rises against the crew.* **[10 Lament DMG [Lament]]** | When one shore is named and the other is not. |
-| { *The Breaking Plank* [**Attack**] } | "The span bears weight convincingly, and for long enough to be halfway." | [Nothing collapses underfoot and nobody is immersed: voice contact between the two mouths lapses, and the pull toward the midpoint is the whole of the event.] | *Inflicts Lament pressure as separation reasserted; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When voice contact between the mouths is lost. |
-| { *The Undertow* [**Attack**] } | "The water beneath the span climbs the arches with no tide behind it, and the pull is toward the place the crossing stopped." | [The target is dragged toward the midpoint of the span, the furthest point from both mouths.] | *A heavy Deep Blue pull; the target's Sorrow Gauge surges 15%, and the depth is read twice — at the drag and at release.* **[24-36 Lament DMG [Lament]]** | When the Bridge is overloaded, or when a worker stands at the midpoint unroped. |
-| { *The Final Crossing* [**Ultimate**] } | "The span finishes its descent, and the working floor goes under with it." | [The Bridge completes the descent recorded in the quarterly surveys, submerging the floor of the tunnel.] | *All personnel suffer Lament pressure for three turns as the crossing drowns; the depth log is read at the end of it before anything else is moved.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the span does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Waterlogged Plank* [**Register**] } | Fills the section with audible weeping from both mouths at once, so that nobody steps anywhere and the unfinished journey is carried for the rest of the cycle. | Posts a reader at each mouth before the cycle opens and records the two counts independently — thirty-one near, twenty-six far, said aloud and said both. | The two counts are the identification. A single list read without the other is the failure the next row describes, so the watch does not begin until both mouths have a reader and both have spoken. |
+| { *The Rising Flood* [**Exposure**] } | Reads one column of names without the other, and answers the way it answered nine years of a single list — by sitting lower at the next depth reading rather than by rising. | Reads both lists together at every interval, and enters the depth at each reading so the drop can be attributed to the shift that caused it. | The risk does not accumulate with minutes; it accumulates with one-sided working. A team at a single mouth for an hour has sunk the span further than a team at both for a shift, and the depth log is the only record that shows it. |
+| { *The Breaking Plank* [**Refusal**] } | Bears weight convincingly, and for long enough to be halfway — which is the danger and not an attack. Nothing collapses underfoot and nobody is immersed; voice contact between the mouths is what lapses. | Holds voice contact as the load-bearing element, and turns both crews back the moment either mouth stops hearing the other. | The plank in the name is not the hazard. The file says so in the row and repeats it in the consequences: what fails is the line between two people, and the pull toward the midpoint is the whole of the event. |
+| { *The Final Crossing* [**Overload**] } | Completes the descent recorded in the quarterly surveys and the working floor goes under with it — a reading arriving, not a blow. | Clears the tunnel, reads the depth log at the end of it before anything else is moved, and re-surveys rather than sending a crew back for equipment. | The descent was in the surveys before it happened. The file's own instruction is to read the log first, because the only thing lost in a completed descent is the record of how far it had already gone. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The reading that confirms it is not the arches but the absence under them: ribbed arches, a permanently wet surface, and continuous surveyed floor where a bridge ought to have a gap. Position and withdrawal are established before the cycle opens, and the depth is taken against the tunnel datum at both mouths, because the two readings have never been identical and the difference between them is the first sign of a descent.
-2. **Clash:** The session is worked from both tunnel mouths at once and never from one. Flerehan's decrease is audible — a worker weeping within earshot of the far mouth, and the span answering by coming up; Ferrehan's is silent and consists of two people staying where they are until the sobbing stops. Pugnahan is entered in the record as a failure on this holding rather than as an option, and the flood it brings is entered as damage to the tunnel rather than as pressure on the crew. No part of the work involves getting to the other side.
-3. **Resolution:** There is no suppression condition to fall back on. The session closes on the documented condition — **Listen between the sobs and name both shores** — the thirty-one near names and the twenty-six far names read into their own columns, aloud, by the two teams at once, with voice contact held throughout.
+1. **What is confirmed:** a reader at each mouth, the near and far counts said aloud together, and the last depth reading attributed to the shift that produced it.
+2. **What the watch does:** Flerehan for weeping with the span and Ferrehan for staying while the sobs subside, with Viderehan for the people who tried to cross — from both ends, never one.
+3. **How it closes:** the close is the file's documented condition: **Listen between the sobs and name both shores** — and a crew that has lost both mouths to the pull is withdrawn and re-briefed rather than reinforced.
 
 ### Consequences
 

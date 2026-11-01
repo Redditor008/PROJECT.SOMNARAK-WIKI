@@ -44,51 +44,36 @@
 - There is no breach counter for this holding. Nobody speaks inside the scene: whatever the outcome of the shift, taking part in the rite is entered as a protocol breach, and the entry is made whether or not anything went wrong.
 - Residue is recovered from the ceremonial ground under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 993/993 |
-| **Han Pressure [ATK]** | 27–60 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and the holding is the place a flame stood and no longer does. There is nothing here that closes distance and nothing that lifts a hand: the file's own account of a bad watch is that the worker comes away carrying somebody else's bereavement, and the bereavement is the hazard.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A cold absence where a memorial flame stood in the Alpha Tree vault, held at the same moment of the rite every time — the people who tended it present in the showing and not in the room. Ash settles where nothing has burned. |
+| **Perceptible to** | The memory of warmth first, which is colder than the cold; then the draft that takes away what warmth the visitor brought with them; then the soot, settling like black snow on surfaces that have not been hot for years. |
+| **Handling** | Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief carried in is kept rather than adopted — the first sign the file watches for is a worker describing somebody else's bereavement in the first person. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 993/993 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree vault |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the memorial and the people who tended it, held at the same moment of the rite every time; Ferrehan is staying the full entry while carrying grief that is not the worker's and not trying to make it theirs. |
+| **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Complete the memorial without attempting to recreate the original flame |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Last Ember* [**Debuff**] } | "You remember warmth — and the remembering is colder than the cold." | [The Flame shows the memory of its warmth; the absence aches.] | *Target suffers -10 Composure; the lost heat is felt as cold.* **[10 Lament DMG [Lament]]** | When the target approaches the dark. |
-| { *The Cold Draft* [**Debuff**] } | "A draft moves through — and it carries away whatever warmth you had left." | [The Flame's absence draws the target's warmth out.] | *Target loses 10 Composure; the chill settles into them.* **[10 Lament DMG [Lament]]** | When the target lingers in the dark. |
-| { *The Soot Fall* [**Attack**] } | "Ash, where the flame once was, rises and falls like black snow." | [A fall of cold soot scourges the area.] | *Inflicts Lament pressure and one gritting, cold wound.* **[14-22 Lament DMG [Lament]]** | When the Flame is disturbed. |
-| { *Where It Burned* [**Attack**] } | "The place the flame left behind opens — and the absence is a wound." | [The place the fire used to stand opens, and the cold coming out of it arrives at whoever has been standing closest to the warmth.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Flame is invoked or struck. |
-| { *The Eternal Dark* [**Ultimate**] } | "The last light goes out — for everyone — and will not come back." | [The last warm surface in the vault goes cold at once, and the dark that follows behaves like something with a direction to it.] | *All personnel suffer Lament pressure for three turns in the lightless dark.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the absence does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Last Ember* [**Register**] } | Shows the memory of its own warmth, so that the remembering is colder than the cold and the visitor feels heat they are not being given. | Confirms the site by the three things that make it this holding — the ash where nothing burned, the rite held at one moment, the cold in a vault that has not been opened to weather — and begins the entry. | What is registered is an absence with a date on it. Nothing is lit, nothing is relit, and the warmth in the room is the visitor's own arriving and being compared, unfavourably, with remembered heat. |
+| { *The Cold Draft* [**Exposure**] } | Draws whatever warmth the visitor brought out of them, and the draft moves through the vault carrying it away in the direction of the doorway. | Ends the entry on the clock rather than at the complaint, and takes the worker out before the draft has taken what they walked in with. | Clarity thins while the log records one movement, because nothing in the room separates the two. The entry is timed for that reason and is not extended for a good session. |
+| { *The Soot Fall* [**Refusal**] } | Settles cold soot like black snow on everything in the vault when the site is disturbed — and nothing has burned here for years, so the fall is grit that must be brushed off rather than an ember that must be put out. | Does not disturb the site, and treats the fall as contamination of instruments rather than as fire: lenses are cleared, intakes covered, and the reading delayed until the air has settled. | The soot is the file's one physical event and it is a nuisance rather than a blow. What it costs is the readings lost to a fouled lens, and the entry is written off rather than reconstructed from memory. |
+| { *The Eternal Dark* [**Overload**] } | Takes the last warm surface in the vault cold at once, and the dark that follows behaves like something with a direction to it, so that every surface reads as further away than it is. | Clears the vault, works by the doorway light only, and does not attempt to trace the direction the dark appears to have. | The mistake the file names is treating the direction as a route. Nothing follows anybody through it; the sense of direction is the reading and not a pursuer, and the ledger is closed from the door. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** What identifies the holding is heat running backwards. A room that is warm with a cold corridor outside it, a shaped darkness where a fire ought to stand, and no light coming off it — none of that belongs to any other holding in the register. Positions and the withdrawal are set before the cycle opens.
-2. **Clash:** Nothing is exchanged and nothing is said. The worker stands in a warm room with a cold shape in it while the rite holds where it holds, and the only live decision is the clock.
-3. **Resolution:** The cycle closes with the memorial completed and the original fire left alone: nothing relit, nothing substituted, nobody speaking inside the scene. The registration carries the file's own condition: **complete the memorial without attempting to recreate the original flame** — the one instruction this holding has, and the one every relief crew breaks first, because relighting a fire is the obvious way to be kind.
+1. **What is confirmed:** the ash where nothing burned, the rite held at one moment, and the cold of a vault that has not been opened to weather.
+2. **What the watch does:** Viderehan for the memorial and the people who tended it and Ferrehan for carrying grief that is not the worker's, with nothing relit, nothing substituted and the entry timed from the door.
+3. **How it closes:** the close is the file's documented condition: **Complete the memorial without attempting to recreate the original flame** — and the completion is written as the rite finished, not as the flame restored.
 
 ### Consequences
 
@@ -461,7 +446,7 @@ The research office's objection is on the file and is read at every annual revie
 
 
 
-- For the register's look-up, digits as the file keeps them: gauge 993/993 · pressure 27–60 per hit · resistance 45 / 35 per cent · threshold 90 per cent · weapon 14–22 at 50 Echoes · suit 45 · Stigma 4 per cent · Max 2 pieces per issue.
+- For the register’s look-up, digits as the file keeps them: gauge 993/993, the rite held at one moment, resistance 45 / 35 per cent, threshold 90 per cent, and the ash where nothing burned. There is no pressure figure, because nothing here is directed at anybody.
 
 ### Registry Trivia
 

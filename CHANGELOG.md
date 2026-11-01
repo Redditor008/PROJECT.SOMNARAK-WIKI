@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Four weathers, and a thing that can reach across its own rim (2026-11-01)
+
+Seventeenth batch. Four conversions and one keeper, and the keeper is the interesting one because it is the first time in three batches that a stationary holding has been able to reach.
+
+- **Memorial Flame Mid-Ceremony** (`C-IVδ-763`) — the place a flame stood. Ash settles where nothing has burned, the rite is held at the same moment every time, and a bad watch produces a worker describing somebody else's bereavement in the first person. Its combat table had a *fall of cold soot* scourging the area; the soot is a nuisance that fouls a lens, not a blow.
+- **Stranded Between Two Shores** (`C-IVδ-823`) — *nothing collapses underfoot and nobody is immersed*, and its third row adds *no wound is produced*. Thirty-one names near, twenty-six far, and the risk accumulating with one-sided working rather than with minutes.
+- **Hatred Above** (`C-IVδ-923`) — a hazard fixed overhead that has never descended. Its own first row says the pressure settles *without ever descending*, and the whole incident record turns on one sentence: the composure loss is booked to whoever answered, not to whoever shouted.
+- **Sorrow Tide** (`C-Vγ-260`) — a nightly height the city sits under. *Nothing crests and nothing strikes*, and the injuries are all one circumstance: outdoors, alone, after the peak. The resolution row begins with the word *impossible*, and it is kept.
+
+**The keeper.** **Broken Well** (`C-IIβ-565`) stays a Combat Record. The figure remains joined to the dry rim, and leaning and turning there are not travel — but a thing that cannot leave a rim can still reach across it, and under Pugnahan the file records the figure striking at whoever is nearest the edge. The prohibition there is on the Work Type, and the table is the reason the prohibition is procedural. A rationale blockquote now sits above the stat line and the record is unchanged.
+
+**Denied on the page, kept in the codex.** Each of the four converted had a `per hit` band in its side codex — 27–60, 25–53, 30–42, 14–31 — against files that say in their own words that nothing is directed at anybody. The rows now carry the instrument instead: the ash and the one-moment rite, the two counts said aloud together, the inward-angled read from outside the rectangle, the nine station readings an hour after dawn.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and twenty-three Contact Records.**
+
 ## Five rooms that keep what was said in them (2026-11-01)
 
 Sixteenth batch. These five are places rather than things — a gallery, a footprint, a bridge, an overlay, a vault — and in each of them the only thing that advances is what was already held.

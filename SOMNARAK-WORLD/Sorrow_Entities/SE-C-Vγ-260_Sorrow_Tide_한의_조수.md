@@ -44,51 +44,36 @@
 - No breach counter applies. The high-water mark is recorded at every session, since the mark is the only measure the Tide reliably leaves.
 - Extraction is never attempted during a rise and all three pieces were cut at slack, in the hour before dawn, which is the only hour this holding has that resembles stillness.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight. The figure describes a person standing in it and nothing else; there is no body, no boundary and nothing to strike, and the column is kept because the almanac uses it to advise shelter thresholds. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 14–31 per hit · Weight |
-| **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and its own third row says the sentence outright: nothing crests and nothing strikes. The Tide is a height the city sits under for part of the night, and the resolution row begins with the word *impossible*.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Sovereign (V) — Autonomous and cyclical |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A nightly rise of weight over ground it has already covered, arriving in the legs and the chest first, peaking before midnight and receding at dawn. No wave is seen. Nine stations report the onset within the same eleven minutes; the almanac predicts the timing to within forty minutes and has never predicted the height. |
+| **Perceptible to** | Standing becoming work, and the weight in the legs and chest before it is anywhere else; then, after the peak, the specific difficulty of being outdoors and alone, which is the only thing every serious injury in sixty years has in common. |
+| **Handling** | Impossible to contain; use the Tide shelters and the shared mourning protocols. The shelters are free, unregistered and deliberately unstaffed by anybody in uniform — the almanac is published rather than circulated internally for the same reason. |
+| **Activation threshold** | Periodic / expansion event — no breach counter |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | All zones — periodic phenomenon |
+| **Valid Work Types** | Viderehan and Ferrehan only, and neither is a lever on the Tide. Viderehan reveals the grief currents across the city and the gauge does not move; Ferrehan is enduring the wave until dawn, which is the whole of what any crew has ever been able to do. |
+| **Location** | All zones — periodic phenomenon |
 | **Resolution Condition** | Impossible; use Tide shelters and shared mourning protocols |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Slack Tide* [**Debuff**] } | "It is the only hour this holding has that resembles stillness." | [Slack is not a gathering threat; it is when the pieces were cut, when the ebb crew receives the flood crew, and when the gauge readings are taken an hour after dawn.] | *-10 Resolve in anybody who mistakes the quiet for safety and stays out through the next onset; the onset has arrived within eleven minutes of sunset for sixty years.* **[10 Weight DMG [Weight]]** | At slack, in the hour before dawn. |
-| { *The Rising* [**Debuff**] } | "The sun goes down and the city gets heavier — in the legs and the chest first." | [No wave is seen. Standing becomes work, every station reports within the same eleven minutes, and the shelter doors are the response.] | *-10 Resolve; the almanac predicts the timing to within forty minutes and has never predicted the height.* **[10 Weight DMG [Weight]]** | Nightfall, citywide, every night. |
-| { *The Break* [**Attack**] } | "Nothing crests and nothing strikes. The failure here is being alone outdoors after the peak." | [Every serious injury in sixty years has that in common and nothing else; the shelters exist for exactly that, free, unregistered, and deliberately unstaffed by anybody in uniform.] | *Weight pressure lands on the person who is outdoors and alone; with other people, indoors, the Tide has never seriously harmed anybody.* **[14-22 Weight DMG [Weight]]** | After the peak, on a street, alone. |
-| { *The Spring Tide* [**Attack**] } | "Everything that grieves in the city rises on the same minute." | [The Tide peaks across all zones simultaneously instead of rolling district by district.] | *Heavy Weight to everybody outdoors; the gauge at all nine stations reads within two points of the others, which it otherwise never does.* **[Weight DMG [Weight]]** | On the nights the almanac marks in red — nineteen a year, predicted correctly 188 times out of 203. |
-| { *The Flood* [**Ultimate**] } | "It does not recede at dawn." | [The Tide fails to fall and the day begins under the night's weight.] | *Weight erosion across the city for as long as it lasts.* **[Weight DMG [Weight] (AoE)]** | Four times in sixty years. The longest ran nine hours past dawn, the shelters stayed open, and the city's own phrase for that morning is still in use. |
+| Event | What the Tide does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Slack Tide* [**Register**] } | Holds the only hour the holding has that resembles stillness — the hour before dawn, when the pieces are cut, the ebb crew receives the flood crew, and the gauges are read. | Takes the nine station readings an hour after dawn, and returns the ebb crew to the shelters rather than leaving them out for the next onset. | Slack is not a gathering threat and it is not safety. The onset has arrived within eleven minutes of sunset for sixty years, and the register exists to stop the quiet being read as an all-clear. |
+| { *The Rising* [**Exposure**] } | Arrives citywide with no wave to see: standing becomes work, every station reports inside the same eleven minutes, and the shelter doors are the response. | Closes the streets on the almanac's time rather than on the first report, and does not re-open them for anybody's errand. | The almanac has never predicted the height. What it predicts is when people need to be indoors, which is the only part of the event a city can act on, and it has been right 188 times out of 203. |
+| { *The Break* [**Refusal**] } | Does nothing. Nothing crests and nothing strikes; the failure is a person alone outdoors after the peak, and that is the only pattern the injury record holds. | Pairs every outdoor post, and clears the streets of anybody unaccompanied after the peak rather than directing them. | The row is the file's own statement that the danger is a circumstance and not an actor. The holding has never seriously harmed anybody who was indoors with other people, which is the entire basis of the shelter programme. |
+| { *The Flood* [**Overload**] } | Fails to recede at dawn, so the day begins under the night's weight and the weight stays across the city for as long as it lasts — four times in sixty years, the longest nine hours past dawn. | Keeps the shelters open past their hour, extends the shared mourning protocols through the day, and does not stand the city down until the nine stations agree. | There is no resolution to default from. The Tide rises, peaks and recedes, and the only variable the city controls is how many people are inside when it does — which is why the eventual close is written as a count and not a condition. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The almanac is checked against the hour, the shelters are confirmed open and staffed, and the nine gauge stations report in before sunset. The preparation is municipal rather than operational and takes most of the afternoon.
-2. **Clash:** None, on any night, ever. The row has been struck from the operational order three times and reinstated three times by a form that cannot hold a holding with no opponent.
-3. **Resolution:** Dawn. Containment is impossible and the file has said so since the first page; what the city does instead is open the Tide shelters and run the shared mourning protocols, and the measure of a good night is the attendance figure rather than the gauge.
+1. **What is confirmed:** the nine station readings an hour after dawn, the almanac's timing for the night, and the shelter roster for the streets that stay open.
+2. **What the watch does:** Viderehan for the grief currents across the city and Ferrehan for enduring the wave until dawn, with the reading taken from the stations and nothing attempted against the Tide itself.
+3. **How it closes:** the close is the file's documented condition: **Impossible; use Tide shelters and shared mourning protocols** — and the only figure that closes a Tide night is how many people were indoors when it peaked.
 
 ### Consequences
 

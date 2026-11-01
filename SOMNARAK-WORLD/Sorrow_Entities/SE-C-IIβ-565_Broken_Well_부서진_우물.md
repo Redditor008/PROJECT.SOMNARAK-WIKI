@@ -45,6 +45,8 @@
 - Extraction is separately authorised and is taken at the rail, never over it.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The Movement row says the half-flesh, half-mist figure remains joined to the dry rim, and it does — leaning and turning there are not travel away from the opening. But a thing that cannot leave the rim can still reach across it: under Pugnahan the rim hardens, the reported depth jumps, and the figure strikes at whoever is nearest the edge. The prohibition is on the Work Type, not on the record, and the table below is the reason the prohibition is written into procedure rather than left to a briefing.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

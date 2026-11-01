@@ -44,51 +44,36 @@
 - Crews work in sight of one another and are withdrawn as a unit if any dispute is logged.
 - Extraction is authorized apart from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Grudge pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 30–42 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the footprint widens while the anomaly stays fixed overhead*, its terminal row describes the pressure let go across a marked rectangle rather than at a body, and the fourth word of its own text is the denial: the grudge pressure settles over a target *without ever descending*.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Critical Grudge hazard; not a Sovereign classification |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A colder, brighter rectangle of floor eighteen metres by eleven, under a corridor where nothing visible or audible hangs above it. The grudge pressure is measured from the sides, at an angle, by instruments that cannot be placed where the readings would be best. |
+| **Perceptible to** | The weight of a grudge that has no subject in it, settling over whoever is standing nearest; then the pressure acquiring a direction — onto one point of the floor, and onto the person who answered rather than the person who shouted. |
+| **Handling** | Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on file; the mean is under two minutes and is not an upper bound, because the one answered incident lasted four and a half. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-923 |
+| **Valid Work Types** | Viderehan and Ferrehan only. Both are performed from outside the marked rectangle: observation is the inward-angled watch, and endurance is the discipline of the interval — standing and waiting your turn from the floor that is not under it. |
+| **Location** | SECTOR-C-923, contained |
 | **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Opening distance is the response across the 63 incidents on file. Mean duration is under two minutes, not an upper bound: an answered incident lasted four and a half. Keep silence while the affected worker recovers; the longer record does not authorize subdual. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It arrives empty, and then it arrives at somebody." | [The anomaly's grudge pressure settles over the target from above, without ever descending.] | *Target feels the weight of grudge sorrow, and the weight has no subject in it yet.* **[10 Grudge DMG [Grudge]]** | When the entity first fixes on a target. |
-| { *The Grudge Surge* [**Attack**] } | "The sorrow sharpens and takes the nearest body." | [A concentrated burst of grudge pressure out of the anomaly, aimed at whoever is standing closest to it.] | *Grudge damage strikes the target and the gauge spikes. The target is chosen by distance and by nothing at all besides distance.* **[18 Grudge DMG [Grudge]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once the pressure has a direction in it." | [The anomaly focuses its full grudge weight on one point of the floor and picks the person who answered, not the one who shouted.] | *A devastating Grudge strike; the target's Sorrow Gauge surges, and the composure loss is booked to whoever replied.* **[26 Grudge DMG [Grudge]]** | When the entity is cornered or starved. |
-| { *The Grudge Collapse* [**Ultimate**] } | "The grudge breaks, and what it had been holding comes loose all at once." | [The anomaly's full grudge sorrow let go in every direction across the marked rectangle, eighteen metres by eleven.] | *All personnel suffer Grudge erosion for three turns, whether they stood under it or only near somebody who did.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the pressure does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Settles over whoever is under it from above, without ever descending, carrying a weight of grudge sorrow that has no subject in it yet. | Confirms the rectangle and the overhead absence before anything is said, and notes who is standing inside the marked floor and who is only near it. | The register is the rectangle, not the sky. What is read is a colder, brighter patch of floor and an overhead that cannot be looked at, because there is nothing there to look at. |
+| { *The Grudge Surge* [**Exposure**] } | Concentrates into a burst that takes the nearest body — chosen by distance and by nothing at all besides distance. | Brings everybody out of the rectangle, and does not ask who was closest, because the file says proximity is the only selection criterion the holding has. | Composure loss belongs to the person who answered, not the person who shouted. That sentence is the whole of the operational method here, and it is why the response to a surge is distance rather than argument. |
+| { *The Settling* [**Refusal**] } | Puts the pressure's full weight on one point of the floor and picks the person who answered, not the person who shouted — the selection arriving, not a blow. | Keeps silence through the recovery, and records what the affected worker said while under it rather than asking them afterwards. | Prolonged exposure produces nothing physical. What it produces is remembered speech: people recall with great precision what they said while they were under it, which is why the reconciliation is left entirely to them. |
+| { *The Grudge Collapse* [**Overload**] } | Lets the full grudge sorrow go in every direction across the marked rectangle, so that a person near somebody under it is eroded as well as the person standing in it. | Clears the footprint to the marked edges and past them, closes the corridor until the pressure reads back at baseline, and books the erosion to everybody who was within the rectangle or beside somebody who was. | The expansion is the footprint and the anomaly does not move to make it. Four incidents over ninety seconds are in the file and every one of them involved a colleague replying, which is why silence during recovery is written as a rule and not a courtesy. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team identifies Hatred Above by a directionless fury that arrives after nine to fourteen seconds beneath the footprint and then settles on whoever is nearest. The interval supports the crossing rule. Confirm the posted approach and take the watch position outside the footprint before attempting observation; do not wait beneath it to reproduce the anger for identification.
-2. **Clash:** Both valid Work Types are performed outside the line: inward-angled observation and waiting for the crossing interval. The separate equipment crossing record is not a work station beneath the anomaly. If anger appears, open distance and do not answer; no contest with an overhead body is documented.
-3. **Resolution:** Distance, a barrier if one is to hand, and silence from everybody else. The worker comes back on their own. The team does not debrief them at the spot and does not require them to say anything about it afterwards. It closes against the documented suppression condition: **open the distance, hold the silence, and let the range do the rest**.
+1. **What is confirmed:** the marked rectangle, the overhead absence, and who is standing inside it as against who is near it.
+2. **What the watch does:** Viderehan for the inward-angled watch and Ferrehan for the interval stood from outside the rectangle, with distance opened and no reply given.
+3. **How it closes:** the close is the file's documented condition: **The affected worker is at distance, has stopped shouting, and has not been answered** — and silence is kept through the recovery, because the longer record does not authorize subdual.
 
 ### Consequences
 
