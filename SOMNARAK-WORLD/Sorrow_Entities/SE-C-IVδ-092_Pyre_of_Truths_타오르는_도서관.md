@@ -44,51 +44,36 @@
 - No breach counter. The heat field expands through Zone B on hostile intent, and its boundary is instrumented because the skin reads it wrongly in both directions.
 - Transcription and deposit are a separate authorisation, run by clerks on the same rotation cap as the readers.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure and 35% against other types — a fire that gives ground slowly and only where the room lets it |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 846/846 |
-| **Han Pressure [ATK]** | 29–62 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed — a place; it does not move, and the fire expands rather than travelling*, and the fire's own description refuses the genre: nothing in this chamber has ever been charred, including paper held directly in the fire, and a firestorm is precisely what it has refused to be for decades. Its phases said it plainly before this pass did — there is no exchange to win.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A standing fire in a library that has burned for decades without producing ash. The books turn their own pages and stay bound, no shelf has gone up, and the air at face height and the air against a bare hand refuse to agree about the heat. |
+| **Perceptible to** | The heat in the visitor's own written notes before the shelves are touched — the first warning is addressed to the person and not the collection — then the bay-by-bay closures, each logged with its second count. |
+| **Handling** | Enter with one written question and leave exactly as the room was found. Nothing is seized, destroyed or enumerated; curiosity is the whole of the permitted errand, and a team that arrives with a list reads nothing at all. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 846/846 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-02, Zone B — contained |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan lets the fire light the book that answers the question actually being asked, which is not always the question the observer thought they were asking; Ferrehan is holding position in the stacks and reading what the fire permits. |
+| **Location** | SECTOR-B-02, Zone B |
 | **Resolution Condition** | Approach with curiosity rather than possession or destruction |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Spark* [**Debuff**] } | "Nothing ignites here. The fire has burned for decades and the chamber has never produced ash; what catches, on entry, is the visitor's own written notes warming in their hand." | [Heat gathers in the intruder's paperwork before it touches a shelf — the first warning is addressed to the person, not the collection.] | *Target suffers -10 Resilience; knowledge that cannot be used begins to weigh.* **[10 Grudge DMG [Grudge]]** | On entry with the wrong errand. |
-| { *The Spreading Fire* [**Debuff**] } | "The flames do not jump shelf to shelf eating books — nothing in this chamber has ever been charred, including paper held directly in the fire. What spreads is access refused, bay by bay." | [Shelves close in sequence ahead of an approach that reads as inventory; each closure is logged with its second count.] | *Target loses 10 Resilience; what is unbearable is how much is intact and unusable.* **[10 Grudge DMG [Grudge]]** | When the target lingers with a list. |
-| { *The Burning Page* [**Attack**] } | "No page flies free and no page is anybody's last words — the books turn themselves and stay bound. What the fire lights, for a reader who disturbed it, is the book that answers the question actually being asked." | [The adjacent answers are the ones the counsellors see most of; the page permitted is the whole of the effect.] | *Inflicts Grudge pressure; the searing is a sentence read and not citable anywhere.* **[14-22 Grudge DMG [Grudge]]** | When the Library is disturbed. |
-| { *The Full Inferno* [**Attack**] } | "The library does not erupt and no shelf goes up — a firestorm is exactly what this fire has refused to be for decades. What fills is the corridor: crimson flame, falling oxygen, and a suppressed record become emotionally inescapable." | [The boundary is read from instruments, because the face and the hand disagree about the heat and both are wrong.] | *A heavy Crimson pressure with nothing combusting inside it; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | On hostile intent — to seize, destroy or enumerate. |
-| { *The Ashes of Everything* [**Ultimate**] } | "There are no ashes and never have been. The fire does not run to every archive in the world; it runs the perimeter of this sector, and the darkness it threatens is the opposite of burning — everything here made legible at once, and none of it admissible." | [Withdraw, declare the preservation purpose aloud, and let an archive-authorised witness negotiate the return path.] | *All in range suffer Grudge pressure for three turns inside the spread, where the air is thin and the record will not stop being present.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the fire does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Spark* [**Register**] } | Warms the visitor's own paperwork in their hand before they reach a shelf, on entry with the wrong errand. Nothing ignites and the chamber has never produced ash. | Marks the fire line and checks the designation against three things — nothing burning down, the books turning their own pages, the air at hand and at face height disagreeing — before the cycle opens. | The disagreement between the air at face height and the air against a bare hand is the identification and also the reason the boundary is read from instruments: the face and the hand are both wrong, and both are wrong differently. |
+| { *The Spreading Fire* [**Exposure**] } | Closes bays in sequence ahead of an approach that reads as inventory, so that what becomes unbearable is how much is intact and unusable rather than how much is gone. | Keeps to one written question, and reads the closure count as the session's measure rather than the number of pages seen. | A session's worth is counted in pages permitted. A team arriving with a list reads nothing at all, which is the file's own sentence and the only operational rule the room enforces by itself. |
+| { *The Burning Page* [**Refusal**] } | Turns no page loose and lets nothing fly free; what it lights, for a reader who disturbed it, is the book that answers the question actually being asked — a sentence read and not citable anywhere. | Does not attempt to take, copy or photograph a page, and records the permitted reading as permitted rather than as a finding of the visit. | When resistance fails here nothing is injured and nothing burns. What the worker carries out is knowledge that is exact, permanent and unusable outside the sealed transcription process, and the Resilience is spent living alongside it. |
+| { *The Full Inferno* [**Overload**] } | Fills the corridor instead of the shelves at hostile intent — crimson flame, falling oxygen, a suppressed record become emotionally inescapable — with nothing combusting inside it. | Withdraws, declares the preservation purpose aloud, and lets an archive-authorised witness negotiate the return path. | The escalation runs the perimeter of this sector and not the world; there are no ashes and never have been. The declaration is the only exit the file records, which is why it is written into the response sequence rather than left to the moment. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The standing fire is read first — nothing in the room is burning down, the books turn their own pages, and the air at face height and the air against a bare hand refuse to agree — and the designation is checked against all three. Positions are taken, the fire line is marked, and the cycle opens.
-2. **Clash:** There is no exchange to win. The observer enters with one written question, reads what the flames permit, and comes out; the session's measure is pages permitted, and a team that arrives with a list reads nothing at all.
-3. **Resolution:** The cycle closes when the room has been entered on the file's own terms and left exactly as it was found. The registration carries its condition: **approach with curiosity rather than possession or destruction** — the clause crews break first, because a library invites handling, and what this one keeps are records it has never let anybody read to order.
+1. **What is confirmed:** the fire line and the three identification readings, the one written question the observer entered with, and the preservation purpose declared at the threshold.
+2. **What the watch does:** Viderehan for the book that answers the question actually asked and Ferrehan for holding position in the stacks, with nothing seized, destroyed or enumerated and the room left as it was found.
+3. **How it closes:** the close is the file's documented condition: **Approach with curiosity rather than possession or destruction** — the clause crews break first, because a library invites handling, and what this one keeps are records that cannot be handled.
 
 ### Consequences
 

@@ -44,51 +44,36 @@
 - Identity pressure acts on anybody standing under the gap. The floor below is kept clear at all times and station time at the sighting marks is capped at ninety minutes.
 - Nothing can be extracted; there is no vessel and no material. The holding's only outputs are the position record and the verbatim log of what the voice says.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0 m/s — one position and one elevation; what changes is rotation, measured against the sighting marks |
-| **Resistance** | 35% against Void pressure, 25% against other pressure types — a standing figure, since there is no body to strike: the absence has no surface, no material and no vessel, and nothing has ever been extracted from it. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 752/752 |
-| **Han Pressure [ATK]** | 15–34 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it *holds one position and one elevation above the Market floor and has never been observed to travel, rise, or settle*, and states the rest plainly: it does not pursue and has never approached anybody. The absence widens from where it stands, taking names and faces out of the arrangements that rest on it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 45–65% — the figure the bay is holding when the Pillar is first perceived, not a property of the Pillar. |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone C, Mask Market |
+| **Mode of presence** | A pillar holding one elevation above the Mask Market floor with nothing carrying it, and below it the floor the drawings show, the floor the marketmen stand on, carrying nothing either. Confirmation is the gap and the two-directional voice, never the elevation. |
+| **Perceptible to** | The voice first, in both directions at once, and the gap; the elevation is recorded against a floor that has never been levelled to anything outside the Market, and the cover sheet says the series is internally consistent and externally unreferenced. |
+| **Handling** | Work from the two sighting marks and never from beneath the gap. Positions are read at the start and end of every turn by both observers independently, and no reading is discarded for disagreeing with the other. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 653/653 |
+| **Starting Sorrow Gauge** | 45–65% |
+| **Valid Work Types** | All four are available to a Subject. Flerehan softens the voice and sharpens the outline of the absence; Pugnahan makes it rise and removes nearby sound, which is why it raises the gauge; Viderehan shows the worker what they have been leaning on; Ferrehan tests whether they can stand without it. |
+| **Location** | Zone C, Mask Market |
 | **Resolution Condition** | Establish real support; do not replace the missing thing with another illusion |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Hover* [**Debuff**] } | "The pillar floats — and under it the floor the drawings show, the floor the marketmen stand on, is not carrying anything." | [The absence of any foundation transmits downward, the way an unbuilt column does.] | *Target suffers a Void mark; the ground beneath them is uncertain.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stands under the Pillar. |
-| { *The Unstable Arch* [**Debuff**] } | "The gap turns — and every arrangement in the row that rested on a column at F7 turns with it." | [The Pillar's instability reaches whatever the building has been using instead of a foundation.] | *Target loses clarity; nothing they were leaning on reads as reliable.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Dropped Pillar* [**Attack**] } | "The pillar falls — straight down, enormous, and the void beneath rushes up to meet it." | [The Pillar descends onto the target with full mass.] | *Inflicts Void damage; the impact erodes a vast portion.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
-| { *The Foundation Void* [**Attack**] } | "The void beneath the pillar opens wide — and the floor the two marks are set into is the floor that is going." | [The Pillar's void-base opens and takes the reference point with it.] | *A heavy Void opening; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
-| { *Everything Floats* [**Ultimate**] } | "Every pillar lifts — every as-built drawing is contradicted at once — and the whole field is suspended over nothing that anybody can certify." | [The Pillar spreads its hover to every support in the row.] | *All in range suffer Void erosion for three turns in the void-suspended ruin.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the pillar does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Hover* [**Register**] } | Floats at one elevation with nothing under it, and the absence of a foundation transmits downward the way an unbuilt column does, so that the ground beneath whoever stands there is uncertain. | Takes both bearings independently from the two sighting marks, confirms the designation against the gap and the voice, and records the elevation knowing it is unreferenced. | The elevation is a number the file keeps and does not trust. What is confirmed is the gap and the two-directional voice, and the two bearings are taken separately because the file does not discard a reading for disagreeing. |
+| { *The Unstable Arch* [**Exposure**] } | Turns the arrangements in the row that rested on a column at F7, so that nothing a worker was leaning on reads as reliable any more. | Reads positions at the start and the end of every turn from both marks, and never works from beneath the gap. | Nothing moves and nothing is thrown; what erodes is the worker's confidence in supports they had not previously examined. Twelve turns worked from the marks is the whole of the cycle, and the marks are where the party stays. |
+| { *The Dropped Pillar* [**Refusal**] } | Does not drop. It has never been observed to rise, settle or travel, and the file's own Movement row is the reason there is no descent in its record: the mass stays at its elevation while the ground below is the thing that is going. | Does not strike it, undermine it or test the gap, and records the void beneath as a reading rather than as a target. | The failure here is substitution. A worker who loses the thread offers the voice something else to be — a colleague, a rule, the wing itself — and the gauge climbs on the offer, which is why the standing condition is about support and not about the pillar. |
+| { *The Foundation Void* [**Overload**] } | Opens the void beneath wide enough that the floor the two marks are set into is the floor that is going, and the reference point goes with it. | Re-establishes both marks from a fresh reference before the next cycle, and enters the loss of the old reference as a permanent change to the survey. | Long exposure removes the floor from under things that are genuinely load-bearing, and the holding treats a worker who has begun querying real supports as exposed rather than insightful. The marks are re-set from outside for the same reason. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is the gap and the two-directional voice, and never the elevation: the elevation is recorded against a floor that has never been levelled to anything outside the Market, and the file's own cover sheet says the series is internally consistent and externally unreferenced. Confirm the designation, take both bearings independently, and open the cycle.
-2. **Clash:** Twelve turns, worked from the two sighting marks and never from beneath the gap. Positions are read at the start and the end of every turn, by both observers independently, and no reading is discarded for disagreeing with the other.
-3. **Resolution:** The cycle ends on containment, management, retreat, or the documented condition: **Establish real support; do not replace the missing thing with another illusion**. The close is a worker standing without the support being named for them, and nobody is ever told that anything is holding.
+1. **What is confirmed:** both bearings from the two sighting marks, the gap and the two-directional voice as the designation, and a fresh external reference for the marks.
+2. **What the watch does:** Viderehan for what the worker has been leaning on and Ferrehan for standing without it, from the marks and never from beneath the gap, with both observers reading independently.
+3. **How it closes:** the close is the file's documented condition: **Establish real support; do not replace the missing thing with another illusion** — and the close is a worker standing without the support being named for them.
 
 ### Consequences
 

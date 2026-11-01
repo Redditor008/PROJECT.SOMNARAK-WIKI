@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-C-912, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / 17–29 per hit · Lament |
+| Gauge / Pressure | 500/500; starts 35–50% / Lament — no attack pattern; the onset minute logged from two opposite ends of the sector is the reading |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-912 -->
+**Resolution:** Notification given, and the hour sat through in place. No response shortens the hour and the drain stops of its own accord at its end. <!-- SE-912 -->
 
 ## WITNESS RECORD — *The Eleven Fifty Nine Source-Trace*
 

@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Grudge |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-913, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / 17–25 per hit · Grudge |
+| Gauge / Pressure | 500/500; starts 35–50% / Grudge — no attack pattern; the rate at the fixed points, per street, is the reading |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-913 -->
+**Resolution:** Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. Nothing shortens an occurrence. <!-- SE-913 -->
 
 ## WITNESS RECORD — *The Backward Hour Source-Trace*
 

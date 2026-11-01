@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five where the file had already written the denial (2026-11-01)
+
+Fifteenth batch. In four of the five the sentence that made the conversion necessary was already in the dossier, in a row nobody reads twice — a Movement line, a combat move, a phase note. The work was to make the section agree with it.
+
+- **Eleven Fifty-Nine** (`C-IIIγ-912`) — an hour, not an object. Onset is simultaneous across the district and there is no first and no nearest; the two most distant observers on record logged it in the same minute. The station has ninety-four word-for-word notebook matches across 611 nights and has stopped trying to explain them.
+- **Backward Hour** (`C-IIIγ-913`) — *nothing is walking out of the sector*, in the file's own words. What climbs is the rate at the fixed points and the number of streets reaching the dangerous band; the count a worker voices aloud is always accurate to the end, and the lapse at zero is legally valid every time.
+- **Pyre of Truths** (`C-IVδ-092`) — a fire that has burned for decades without producing ash, has never charred a page, and refuses to be a firestorm. Its phases had said *there is no exchange to win* while the table carried a full inferno.
+- **Rift** (`C-IVδ-193`) — the cleanest denial in the batch, in the combat move itself: *nobody has been struck by anything here in 132 years, and the Armoury keeps the row because the pressure is real even though the wall is not.*
+- **Floating Pillar** (`N-IIIγ-409`) — a column at one elevation that has never been observed to travel, rise or settle, and a file that says so in the Movement row while its table carried a descent onto the target.
+
+**Two that keep their combat records.** **Fading Fruit** was already converted, but **Memory Rain** (`C-IIβ-250`) is left alone: its drops harden mid-fall into needles, which is a blow the file has never denied. **Panopticon** (`C-IIβ-235`) is left alone for the same reason and a better one — a limb comes out of the plaster and takes hold, and eleven reaches are on file, every one of them toward somebody who had stopped moving.
+
+**The invented-descenders.** Both Rift and Floating Pillar had a blow written into the table that their own Movement rows make impossible: a returned slam that nothing returns, and a dropped pillar that has never been seen to drop. In each case the replacement describes what the file actually records — an onset distance that stands four metres from a worker who declined the naming, and a foundation that is the thing going, not the column.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `seam_lint` 0 · `timeline_lint` 0 · `label_lint` 0 · `check_links` 0 broken. **One hundred and fourteen Contact Records.**
+
 ## Five where the only thing that moves is the extent (2026-11-01)
 
 Fourteenth batch. Every one of these is an extent — a stain line, a wall run, a chair count, a doorway, a surveyed radius — and in each case the file had already said, somewhere other than the combat table, that nothing was coming.

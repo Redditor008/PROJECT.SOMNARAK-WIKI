@@ -44,53 +44,36 @@
 - Timekeeping is rotated inside the shift rather than held by one person, for that reason and for no other. The rotation is enforced by the standing order and has never been waived.
 - Extraction is authorised separately from the work cycle and is not attempted during an occurrence, the district being ungovernable for the duration.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Grudge. No clock has been stopped, removed or replaced during an occurrence; the one attempt to unplug a face in Year 4,230 left it running backward on no power for the remaining eleven minutes. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
-| **Han Pressure [ATK]** | 17–25 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *no source position or travelling body*, and the event note says it outright: keep reading the fixed points, nothing is walking out of the sector. There is no clock-body at the marker — the timepieces show the occurrence and the fast streets take it hardest.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major district-wide temporal and Grudge exposure |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A twelve-hour occurrence measured at fixed points across the district. Every timepiece in the sector reverses together, including sealed and unpowered ones, and the reversal is silent — nobody has ever noticed it start. |
+| **Perceptible to** | The second hand going the wrong way and the room agreeing with it; then the count, voiced aloud by somebody who was not asked and cannot stop until it reaches zero. At zero, a permission that somebody holds lapses. |
+| **Handling** | Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shortens an occurrence and nothing is suppressed; the rates fall again at the twelfth hour. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-913 |
-| **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. Nothing shortens an occurrence. Read the fixed points, deploy by rate, stand down at the end, reconcile the clocks. |
+| **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time. Viderehan reads the rate across the fixed-point network; Ferrehan is working the full twelve hours inside a street that is turning on itself, which is the only approach that lowers the carry. |
+| **Location** | SECTOR-C-913, contained |
+| **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. Nothing shortens an occurrence. Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "The second hand goes the wrong way and the room agrees with it." | [Every timepiece in the sector reverses together, including sealed and unpowered ones.] | *10 Grudge to everybody present; the reversal is silent and nobody has ever noticed it start.* **[10 Grudge DMG [Grudge]]** | At the beginning of every occurrence. |
-| { *The Grudge Surge* [**Attack**] } | "Somebody in the room starts counting down out loud without being asked to." | [A worker begins voicing the count and cannot stop until it reaches zero.] | *18 Grudge to the counter; the count is always accurate to the end of the occurrence.* **[18 Grudge DMG [Grudge]]** | When the high-rate reading is spoken aloud. |
-| { *The Settling* [**Attack**] } | "The count reaches zero and a permission that somebody holds is gone." | [A revocable warrant, licence or authorisation held by a person present lapses at the end of the count.] | *26 Grudge. Forty-one lapses in nine years, every one of them legally valid and none of them appealed successfully.* **[26 Grudge DMG [Grudge]]** | At the end of a high-rate occurrence. |
-| { *The Grudge Collapse* [**Ultimate**] } | "Every permission in the wing runs its countdown at once." | [All revocable authorisations in the sector reach their expiry together.] | *20 Grudge per cycle for three cycles to everyone holding one.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; 188 warrants lapsed in a single afternoon and 94 were never reissued. |
+| Event | What the hour does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Reverses every timepiece in the sector at once, silently, so that the room agrees with a second hand going the wrong way and nobody notices the moment it started. | Reads the fixed-point network at the start of the occurrence and enters the rate per street before anything is deployed. | The rate is the instrument and the street is the unit. Nothing is walking anywhere, so the response is deployment by reading — the fast streets take it hardest and which streets those are is not known until the figures come in. |
+| { *The Grudge Surge* [**Exposure**] } | Puts the count into somebody's mouth: a worker voices it aloud without being asked and cannot stop until it reaches zero, and the count is always accurate to the end of the occurrence. | Lets the count run rather than interrupting it, and keeps a second person beside the counter for the whole of it. | Interrupting the count is not in the file and there is no version of the record where it helped. What the occurrence does to a person is make them accurate against their will, and the watch carries the person rather than the count. |
+| { *The Settling* [**Refusal**] } | Lapses a revocable warrant, licence or authorisation held by somebody present at the end of the count — forty-one in nine years, every one legally valid and none successfully appealed. | Reconciles the warrant book against the lapse list afterwards and reissues what the office will reissue, without contesting the lapse. | The lapse is real and it is not negotiable; the file's own figure is that 188 warrants lapsed in one afternoon and 94 were never reissued. What the holding takes cannot be argued back, only re-registered. |
+| { *The Grudge Collapse* [**Overload**] } | Runs every permission in the wing down to its expiry together at sixty-five per cent, once, in a single afternoon. | Stands down at the twelfth hour, takes the lapse count from the book rather than from the offices, and files the workers who cannot accept a reversal as withdrawn rather than as a discipline matter. | Repeated exposure leaves a worker unable to accept any reversal of any decision, however trivial, and the roster treats that as a withdrawal criterion. Nothing in the occurrence is answered by force; there is nothing present to answer it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The bay arrives with the sealed reference clock, confirms the rate against it, and establishes which permissions are held by people in the room. The second part takes longer than the first and is the part that matters.
-2. **Clash:** Four turns, observation and endurance only, conducted from the fixed reading points rather than from any position relative to the entity, which has no position. Rates are recorded at each turn without announcing the high-rate reading. Keep that figure private until the occurrence ends, as the count-trigger and Token record require; a need to report is not permission to speak it into the room.
-3. **Resolution:** The cycle ends on management or on the twelfth hour, whichever comes first, and it is always the twelfth hour. The documented condition is readings taken, presence deployed by rate, and the clocks reconciled afterwards.
-
-Management: No suppression is possible. Record the start, deploy presence to the highest-rate points and nowhere else, stand Wardens down at the end, and reconcile every clock in the district before the next shift.
+1. **What is confirmed:** the fixed-point readings at the start of the occurrence, the warrant book for everybody on the deployment, and the twelfth-hour figure from the previous event.
+2. **What the watch does:** Viderehan for the rate across the network and Ferrehan for working the twelve hours, with deployment by street reading and nobody contesting a lapse at the moment it happens.
+3. **How it closes:** the close is the file's documented condition: **Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book** — nothing shortens an occurrence, and the rates fall again at the twelfth hour.
 
 ### Consequences
 

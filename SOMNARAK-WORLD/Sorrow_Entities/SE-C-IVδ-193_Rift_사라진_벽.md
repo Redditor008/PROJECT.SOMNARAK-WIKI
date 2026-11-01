@@ -44,51 +44,36 @@
 - There is no breach counter. Crews lay physical line from the marked station on a perpendicular bearing, and any route off it is outside containment, because a crew that loses the perpendicular stops being able to find the holding.
 - Nothing may be constructed on, across or within the stated distance of the line, and the municipal office is bound by the same instruction by agreement rather than by authority.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Weight. There is nothing to resist; the holding is an absence on a line, and the four attempts to mark it physically have all been removed overnight — pegs, paint and a chalked string. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 25–55 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed to its line, which widens rather than travels; two surveyed shifts of position in 132 years*, and the record's own combat move says it outright: nobody has been struck by anything here in 132 years, and the Armoury keeps the row only because the pressure is real even though the wall is not.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | The absence of a party wall along a line in Old Lament, with two sides that differ in temperature and a gap that is measured rather than seen. The line widens; it has moved twice in 132 years and both shifts were surveyed. |
+| **Perceptible to** | The temperature difference across the line first — the two sides are walked with the old ward plan and marked where they differ — then the gap width, which narrows four to eleven centimetres after a full naming and not at all after a partial one. |
+| **Handling** | Name the history of the boundary before anything is said about the present: which two communities, when they were made one, and by whose order. The line is walked with the old ward plan and nothing is pegged, because pegs do not last the night. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 846/846 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Old Lament — ambient |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what the wall separated and what it protected — two different lists, and the difference between them is the holding's most-cited record — and Ferrehan is the crossing made after the history has been stated, which is the only crossing the gauge responds to. |
+| **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Name the history of the boundary before crossing |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Missing Barrier* [**Debuff**] } | "The wall is gone — and the space where it was aches with the weight of everything it held back." | [The Wall's absence presses on the target; they feel exposed.] | *Target suffers -10 Resolve; they are unprotected where they should be safe.* **[10 Weight DMG [Weight]]** | When the target crosses where the Wall was. |
-| { *The Phantom Barrier* [**Debuff**] } | "You still feel it — solid, cold, pressing — but it is not there." | [The ghost-weight of the vanished Wall settles on the target.] | *Target loses 10 Resolve; they brace against nothing.* **[10 Weight DMG [Weight]]** | When the target leans on the absence. |
-| { *The Returned Slam* [**Attack**] } | "Nothing comes back. The pressure front is simply there, all at once, at the distance the station predicted — and a worker who has not said the dates meets the full weight of a wall that is not in front of them." | [The onset arrives as one step rather than a gradient; nobody has been struck by anything here in 132 years, and the Armoury keeps the row because the pressure is real even though the wall is not.] | *Inflicts Weight pressure; workers who decline the naming turn back at about four metres, which is where the onset stood two surveys ago.* **[14-22 Weight DMG [Weight]]** | When the absence is probed. |
-| { *The Held-Back Flood* [**Attack**] } | "Everything the wall was holding back arrives through the gap at once." | [The absence releases what the boundary had been keeping apart — noise, weather, people, obligation.] | *24–36 Weight to anybody on the line; the three occurrences each coincided with a formal merger of two administrative areas.* **[24-36 Weight DMG [Weight]]** | When a boundary elsewhere in the city is abolished on paper. |
-| { *Every Wall Gone* [**Ultimate**] } | "For a few minutes there are no partitions anywhere in the district and everyone can hear everyone." | [Interior boundaries across the zone stop functioning as separations.] | *12–20 Weight per cycle for three cycles to everyone indoors.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once; the district's complaints office received ninety-four submissions that week and none of them was about the entity. |
+| Event | What the absence does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Missing Barrier* [**Register**] } | Presses on whoever crosses where the wall was, so that the space aches with the weight of everything it held back and the walker feels exposed where they should be safe. | Walks the line with the old ward plan, marks where the two sides differ in temperature, and takes the gap width before anybody crosses. | The gap is the instrument: nothing is pegged, because pegs do not last the night, and the line has moved twice in 132 years both times by survey rather than by sighting. |
+| { *The Phantom Barrier* [**Exposure**] } | Leaves the ghost-weight of the wall on anybody who leans on the absence, so that they brace against nothing and lose track of which side they started on. | Keeps the approach perpendicular and from the marked station, and records which side each worker started on before the cycle rather than after. | Past about half an hour on the line a worker loses the side they came from. Three wardens have walked out of the wrong end of the street and filed from the wrong ward office, which is why the plan is carried and not remembered. |
+| { *The Returned Slam* [**Refusal**] } | Arrives as one step rather than a gradient at the distance the station predicted — and nobody has been struck by anything here in 132 years, because there is nothing in front of them to be struck by. | Notes where the onset stood at the last survey, and turns back a worker who declines the naming rather than walking them through it. | A worker who declines the naming turns back at about four metres, which is where the onset stood two surveys ago. That figure is the record's whole account of the pressure: it has a distance and it has no author. |
+| { *The Held-Back Flood* [**Overload**] } | Releases what the boundary was keeping apart when a boundary elsewhere in the city is abolished on paper — noise, weather, people, obligation, arriving through the gap at once. | Records the municipal event that coincided with the onset, and holds the line until the three or four hours of pressure have passed. | The three recorded occurrences each coincided with a formal merger of two administrative areas. The holding has no interest in the district's paperwork; the district's paperwork is simply the same event written down twice. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team walks the line with the old ward plan, marks where the two sides differ in temperature, and notes the gap width. Nothing is pegged; pegs do not last the night.
-2. **Clash:** There is nothing to clash with. The crew holds the perpendicular approach from the marked station, states the history at the line, and reads the onset distance; the only way to make this holding worse in a session is to work across the line instead of along one side of it.
-3. **Resolution:** Name the history of the boundary before anything is said about the present — which two communities, when they were made one, and by whose order. 188 cycles; the gap narrows four to eleven centimetres after a full naming and not at all after a partial one.
+1. **What is confirmed:** the two sides walked against the old ward plan and their temperature difference, the gap width, and which side each worker started the cycle on.
+2. **What the watch does:** Viderehan for what the wall separated and what it protected and Ferrehan for the crossing made after the naming, with the history of the boundary stated before anything is said about the present.
+3. **How it closes:** the close is the file's documented condition: **Name the history of the boundary before crossing** — 188 cycles, the gap narrowing four to eleven centimetres after a full naming and not at all after a partial one.
 
 ### Consequences
 

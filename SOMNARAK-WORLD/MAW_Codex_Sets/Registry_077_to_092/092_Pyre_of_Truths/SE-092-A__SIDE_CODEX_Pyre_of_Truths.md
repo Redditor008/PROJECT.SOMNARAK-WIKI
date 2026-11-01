@@ -26,7 +26,7 @@
 | Element | Grudge |
 | Location | SECTOR-B-02, Zone B |
 | Form | A vast wooden library burning in crimson fire; books turn their own pages and survive until their truth is read. |
-| Gauge / pressure | 60–80% / Grudge 29–62 |
+| Gauge / pressure | 846/846; starts 60–80% / Grudge — no attack pattern; the fire line and the pages permitted are the reading |
 | Comprehension Level | 3 — Understood |
 | M.A.W. Set | Cindered Testament |
 

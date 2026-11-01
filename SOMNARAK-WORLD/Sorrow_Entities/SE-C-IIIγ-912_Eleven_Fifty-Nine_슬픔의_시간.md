@@ -44,51 +44,36 @@
 - Personnel carry external timepieces checked against the facility clock at the door in both directions. The discrepancies are logged and have never once been in the minute column.
 - Extraction is a separate authorisation and carries the full temporal exposure; it is not scheduled inside the hour, which is the only facility activity for which that is true.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Lament. There is nothing to resist and no instrument has ever registered the hour; the station's whole apparatus is a roster, a chair and a notebook per observer. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
-| **Han Pressure [ATK]** | 17–29 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *no locomotion or point of arrival — onset is simultaneous throughout the affected district*, and the event section adds that there is no first and no nearest: the two most distant observers on record logged the onset in the same minute. It is an hour, and an hour does not strike anybody.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major shared-grief exposure, with cumulative effects on observers |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A district interval rather than a clock's body: the public dial stays at the named minute while external timepieces run on. At three o'clock everybody awake in the sector is thinking about somebody, and so is everybody else. |
+| **Perceptible to** | The convergence first — two people in different rooms writing down the same sentence — then the localisation, when the hour belongs to one person in the room and everybody else is remembering their dead. Nobody has ever reported the onset as unpleasant. |
+| **Handling** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times; nothing shortens the hour, and no response has ever changed it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-912 |
+| **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time and the other two are unavailable to it. Viderehan reads the convergence as a series; Ferrehan is sitting the hour through in place, which lowers the carry and does not shorten anything. |
+| **Location** | SECTOR-C-912, contained |
 | **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. No response shortens the hour. Notification given, and the hour sat through in place. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "At three o'clock exactly you are thinking about somebody, and so is everybody else awake in the sector." | [The hour arrives at once, in every waking person, as the same kind of thought.] | *10 Lament to everybody awake; nobody has reported the onset as unpleasant.* **[10 Lament DMG [Lament]]** | At 0300, nightly. |
-| { *The Lament Surge* [**Attack**] } | "Two people in different rooms write down the same sentence." | [The content converges; separate observers record identical phrasing without contact.] | *18 Lament. Across 611 nights the notebooks have matched word for word on 94 occasions, which the station cannot explain and has stopped trying to.* **[18 Lament DMG [Lament]]** | When two or more observers are on station in the same sector. |
-| { *The Settling* [**Attack**] } | "The hour belongs to one person in the room and everybody else is remembering their dead." | [The content localises onto a single observer's loss and is shared by all present.] | *26 Lament, heaviest on the person whose grief it is.* **[26 Lament DMG [Lament]]** | When somebody bereaved within the month is rostered. The roster is built to prevent this and has failed nine times. |
-| { *The Lament Collapse* [**Ultimate**] } | "The hour runs long and the district does not go back to sleep." | [0300 extends past 0400 and the effect holds across the sector.] | *20 Lament per cycle for three cycles to everyone awake.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice; both times the hour ran to 0520 and both mornings the district's absence rate was the highest on record. |
+| Event | What the hour does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Arrives at 0300 in every waking person at once, as the same kind of thought, and the two most distant observers log the onset in the same minute. | Marks the onset minute from two positions at opposite ends of the sector, and enters the notebooks separately before either is read. | Onset is simultaneous and that is the whole of the containment: there is no nearest point to be cleared and no direction to fall back along. The onset minute is the register. |
+| { *The Lament Surge* [**Contagion**] } | Converges the content until separate observers record identical phrasing without contact — ninety-four word-for-word matches across 611 nights, which the station cannot explain and has stopped trying to. | Files the two notebooks unread by either writer, and records the match as a match rather than editing one against the other. | The convergence is the reading and the station does not attempt a mechanism. Two independent sheets that agree are worth more to this file than one reconciled account, which is the opposite of how it is filed elsewhere in the wing. |
+| { *The Settling* [**Exposure**] } | Localises onto a single observer's loss and shares it with everybody present, heaviest on the person whose grief it is. The roster is built to prevent it and has failed nine times. | Keeps the recently bereaved off the roster, and when it has failed, records the failure rather than the worker's handling of it. | Repeated exposure layers: after enough hours a worker can no longer separate their own grief from the district's, and that is the measurable threshold at which Fracture risk rises here — the only effect of its kind this holding has. |
+| { *The Lament Collapse* [**Overload**] } | Runs past 0400 twice on record, both times to 0520, and holds the whole sector awake through it; both mornings the district's absence rate was the highest on record. | Records the hour's end from external timepieces, not from the dial, and holds personnel in place until the hour has ended by itself. | The drain stops of its own accord at the hour's end whatever anybody has done, which is why the response is notification and a place to sit rather than any intervention at all. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The observer is on station before 0255 with a notebook and nobody else's notebook. The roster is checked against the bereavement register first; that check does not replace the external timepiece checks at the door or the independent notebooks. The grief cannot be prevented by preparation; the roster instead avoids assigning a newly bereaved observer to the documented shared-loss trigger.
-2. **Clash:** Four turns, observation and endurance only, at the assigned station. There is no source body to approach; hold position rather than following another person’s grief, and keep the personal account separate from the other observers’ notebooks. Timepieces are read aloud at each turn by two people.
-3. **Resolution:** The cycle ends on management or on 0400, whichever comes first, and it is always 0400. It closes against the documented suppression condition: **Notification given, and the hour sat through in place**. Nobody leaves the district before 0400 and nobody is told to stop grieving.
+1. **What is confirmed:** the public dial against external timepieces, two observer positions at opposite ends of the sector, and the bereavement check on the roster.
+2. **What the watch does:** Viderehan for the convergence as a series and Ferrehan for sitting the hour through in place, with notification given to the affected district and no attempt made to shorten anything.
+3. **How it closes:** the close is the file's documented condition: **Notification given, and the hour sat through in place** — no response shortens the hour, and the drain stops of its own accord at the hour's end.
 
 ### Consequences
 
