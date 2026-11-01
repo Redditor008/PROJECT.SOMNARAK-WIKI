@@ -164,7 +164,7 @@ Feu Follet is a Subject with Subject-Mind manifestation and Lament expression, h
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The flame grows by comfort: the zone widens each time somebody present is reassured, and closes on nothing else.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge in the event:** Opens at 40% and is driven by comfort rather than by elapsed time. Each reassurance offered or accepted inside the warped zone adds 10% — a hand on the shoulder, a promise that this is nearly over, a worker telling a frightened colleague that it is alright — because comfort is the material this entity is made of and it does not distinguish kind intent from any other. Each 10% comes off when a present, physically checkable sensation is stated aloud and confirmed by a second person: an instrument reading, the texture of the floor, the time. Standing in silence holds it steady. The instruction that follows is genuinely hard to obey and the briefing says so plainly — inside this zone, personnel do not comfort each other, they ground each other, and the difference has to be rehearsed before it is needed.
 

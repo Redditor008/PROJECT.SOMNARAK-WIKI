@@ -164,7 +164,7 @@ The table above is a diagnostic to be read, not a procedure to be followed: it s
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The flame spreads to whatever it reads as disrespect, and it goes on reading while anybody is watching it.
 - **Containment priority:** Acknowledge first, endure second, seal only if both fail. A seal on an entity that answers conduct reads as the facility walking away from the subject, and the one time it was tried the zone held and the gauge did not fall for eleven days.
 - **Sorrow Gauge in the event:** Begins wherever the last disrespect left it and climbs for as long as the event is watched rather than addressed. Acknowledgement of the dead, spoken aloud by anyone present — including the response team — drops it by ten points, and the drop holds only so long as nobody laughs.
 

@@ -149,7 +149,7 @@
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The cell holds and the rust spreads through the wing, fed by every watch booked in advance and then missed.
 - **Containment priority:** Do not seal the cell; the four events on record all began with the watch being stood down and a seal is a second absence. Send one person in, seated, and have the duty office cancel every forward booking on the rota for that week.
 - **Sorrow Gauge in the event:** Opens at 40% and rises 10% for each watch booked in advance and then missed, facility-wide, not only at this cell. It falls 10% when a worker who left the rotation returns once and states the reason; six such returns are on record and all six lowered it.
 

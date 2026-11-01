@@ -163,7 +163,7 @@ Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation an
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The relic holds its ground and the zone around it takes on the claims of every owner at once, widening with each new one.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge in the event:** Opens at 40% and moves on claims rather than on time. It climbs 10% each time somebody present asserts a right to the object — picking it up, naming a keeper for it, proposing a destination, or speaking of it as belonging to the facility — and 10% again for any approach from a party asserting descent from a recorded owner. It falls 10% for each owner newly documented by name during the response, with their register reference attached. Documenting an owner is the only action that lowers it, and the documentation has to be of somebody else.
 

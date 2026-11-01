@@ -148,7 +148,7 @@ Read the gauge only beside the room: this entity's response depends on element, 
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The quiet widens past the figure without moving it, and every unsaid thing inside the zone is one more step of it.
 - **Containment priority:** Do not order silence in the affected zone. A sealed, quiet room is the condition this entity extends, and the instruction has twice been given by reflex and twice made the readings worse. Have the response team say what they came in holding, then work inward.
 - **Sorrow Gauge in the event:** It does not climb on its own. Each truth withheld inside the affected zone raises it, each truth named aloud lowers it, and nobody has to be listening for either to count. The event ends when the zone has fewer unspoken things in it than it started with, which is why the response team is debriefed before it is deployed rather than after.
 

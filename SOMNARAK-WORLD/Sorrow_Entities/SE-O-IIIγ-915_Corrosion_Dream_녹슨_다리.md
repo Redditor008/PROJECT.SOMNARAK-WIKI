@@ -162,7 +162,7 @@
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The rust spreads through the drawings and the yard, and every subscription in the district return is fuel for it.
 - **Containment priority:** Do not seal the works yard and do not remove the drawings; the one removal on record took the figure to the records office instead, which is worse. Sign something. The approach table lists confrontation as an increase and the four events ended on a signature, not on suppression.
 - **Sorrow Gauge in the event:** Opens at 40% and rises 10% for each works subscription or repair allocation in the district returned to its subscribers without being spent. It falls 10% for each crossing repair actually attempted and recorded as failed, with costs, and the archive notes that a failure on paper has never once raised it.
 

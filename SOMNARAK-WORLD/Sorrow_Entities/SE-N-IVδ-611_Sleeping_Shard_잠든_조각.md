@@ -176,7 +176,7 @@ Nothing in the table above means anything read on its own. The element, the cohe
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The shard stays where it lies and the dream expands outward from it, taking the wish to stop feeling something as its fuel.
 - **Containment priority:** Do not force the waking — a forced waking is the one action this entity answers. Set an anchor first, quieten the zone second, and accept a slow recovery of the radius over a fast one.
 - **Sorrow Gauge in the event:** It climbs on disturbance and settles on anchoring, and neither of the two runs to a clock. A voice in the chamber, a light brought near, a hand on the crystal: every one of those is entered as a step up. A correctly placed anchor takes it down and keeps taking it down for as long as the anchor holds, which the rota has never recorded past a single shift.
 

@@ -145,7 +145,7 @@ The table above is a diagnostic to read, not a procedure to follow: it states wh
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The rope is in the room and the room becomes the thing being held: every promise to come back feeds it, and none of them is ever collected.
 - **Containment priority:** Do not seal and wait it out — a sealed zone is a room full of people expecting the door to open, and that is the condition the entity feeds on. End the waits aloud instead, one at a time, starting with the response team's own.
 - **Sorrow Gauge in the event:** It does not climb on a timer. It climbs each time somebody inside the affected zone says they will come back — to a colleague, to a patient, into a handset — and it falls when a wait is ended out loud and truthfully, including a wait nobody was keeping. This event is resolved by language, which is why the response team is briefed on what not to promise before it is briefed on anything else.
 

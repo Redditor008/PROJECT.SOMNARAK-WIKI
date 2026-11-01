@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Nine non-breach events that were all the same event (2026-11-01)
+
+Nine Contact Records carried the identical line under `Event type (non-breach)`: *Corrupt — the containment zone warps and spreads.* The nine holdings have nothing else in common. Each now names its own event, and each is indexed to the thing the file already measures: Forgotten Silence widens one step per unsaid thing, Soaking Rope turns the room into the thing being held, Wrath Flame spreads to whatever it reads as disrespect and keeps reading while it is watched, Neverlast is fed by every watch booked in advance and then missed, Relic of a Thousand Owners widens with each new claim.
+
+**Checks:** `seam_lint` PASS · `section_logic` 0.
+
+
 ## The last three stock breach effects (2026-11-01)
 
 **Sixteen more secondary-effect and effect rows** came off the same list as the last pass, in four families that had been copied across the holdings: *"an oppressive mass that makes breathing feel like lifting"*, *"an absence that eats the edges of reality"*, *"the containment zone loses definition, colors fade, sounds vanish"*, *"a resentful fury that burns through containment barriers"*, *"a gravitational dread that accelerates debt and decay"*.

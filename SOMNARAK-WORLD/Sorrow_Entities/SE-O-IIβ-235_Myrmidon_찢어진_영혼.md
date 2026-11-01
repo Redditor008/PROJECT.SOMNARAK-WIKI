@@ -164,7 +164,7 @@ Myrmidon holds a Subject-Lament manifestation and a Grudge expression, and is st
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt. The formation holds and the zone warps inside it, moving on representation rather than on anything the watch does.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
 - **Sorrow Gauge in the event:** Opens at 40% and moves on representation rather than on elapsed time. Each 10% is added when the institution is spoken for inside the zone — a policy explained, an order justified, a decision defended, 'we' used in place of 'I', or insignia carried in on a collar or a cuff. Accuracy is no defence and neither is good intent; the entity is reacting to the fact of representation. Each 10% comes off when a worker says something true in their own name and at their own risk: that what was done to his family was wrong, that the proceedings were the facility's doing, that they are sorry and have no authority to offer anything more. Silence holds it steady. The briefing states the obvious and uncomfortable consequence — the people required to do this are employed by the body they are required not to defend, and the wing has never pretended that is a small thing to ask.
 
