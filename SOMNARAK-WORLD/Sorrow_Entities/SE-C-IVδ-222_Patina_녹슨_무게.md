@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-222 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; bare contact with the rusted mass itself. There is no pedestal; the older entry describing one was a transcription from another holding's profile. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; bare contact with the rusted mass itself. There is no pedestal here, and no reading is ever taken from one. |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
@@ -145,7 +145,7 @@ A stable gauge does not mean a safe encounter here, and the figure is not the le
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | Bare contact with the rusted mass itself. There is no pedestal; the older entry describing one was a transcription from another holding’s profile. |
+| **Activation** | Bare contact with the rusted mass itself. There is no pedestal, and the marking is entered wherever the bare hand met the rust. |
 | **Primary Effect** | A downward field that anchors everything standing on the affected ground within the reach of the rust. Nothing can be moved, lifted or pulled free while it holds, personnel included. |
 | **Duration** | Continuous while contact is maintained, and for as long afterwards as it takes the subsidence to settle. |
 | **Termination / Return** | There is no return because there is nothing to carry: the mass is contacted at the site and released by breaking contact, and releasing it early under load is what produces the spinal injuries the wing’s surgeons describe. |

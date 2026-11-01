@@ -40,7 +40,7 @@
 
 - In two hundred and sixty years of record the Seed has not germinated, has not spoiled and has not changed in any measurable property. The soil around it is ordinary Gardens soil and has been tested nine times.
 - Work settles the observers. The Seed is unchanged by it, and no cycle in the record has produced any sign of growth, decay, or response of any kind.
-- Ferrehan is primary and Viderehan the reading instrument; the Registrum's entry naming Viderehan primary has been corrected against the Behavior table, which has shown Viderehan Stable and Ferrehan Decrease for as long as the table has existed.
+- Ferrehan is primary and Viderehan the reading instrument; Viderehan has read Stable and Ferrehan Decrease for as long as the table has existed, which is why the reading instrument is not the work.
 - No breach counter. The daily crawl and bearing are chalked and photographed before anything else happens in the chamber, and the previous night's figures are read aloud at the start of the watch.
 - Residue is collected from the bed under separate authorization. The standing prohibition on speaking of one's own losses inside the enclosure binds collection staff identically and is not waived for short visits.
 

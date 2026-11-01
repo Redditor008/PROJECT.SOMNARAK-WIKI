@@ -363,7 +363,7 @@ Some sorrows are about the debt. This one is about the days between somebody dec
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It has never touched anybody, never spoken and never been observed to act, and three studies looking for an effect on neighbouring holdings returned nil. The documented harms are social — an obligation made legible to a whole room except its subject, and three transfer requests last year from colleagues rather than from the followed worker — and the closing interval, which removes whatever warning a person might otherwise have had.
 **Containment & Handling Procedures:**
-- Ferrehan is primary — the ordinary shift worked with it behind you — with Flerehan beside it; Viderehan takes the balance and its origin. The earlier entry naming Viderehan primary has been corrected against the Behavior table. Pugnahan is not applied.
+- Ferrehan is primary — the ordinary shift worked with it behind you — with Flerehan beside it; Viderehan takes the balance and its origin. Pugnahan is not applied.
 - It is never faced, approached, or photographed; the watch is kept in the fixed mirrors, which are cleaned on a logged schedule.
 - The distance series belongs to the subject: shown on request, inside the hour, no reason required.
 - Personnel named in an announcement are told that they have been named and come off the rotation until the interval passes.

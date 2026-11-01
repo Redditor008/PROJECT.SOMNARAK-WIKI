@@ -327,7 +327,7 @@ The relations below are canonical points of contact rather than alliances. None 
 | **The Inheritor** | Described as fighting against its roots, and the only relation in the file recorded as hostile. | Five co-presences. One produced a brief rise in both gauges at under four metres; the other four produced nothing, and no target selection or defensive response was observed in any. The hostility is recorded as unreplicated. | All five co-presences, both gauge series, and the single rise with its distance. |
 | **The Inherited Debt** | Said to provide this entity's family pathways, which would make it the source of the route. | Six co-presences and a map comparison. The routes are projected from the Collector registers and match without reference to that entity, including on three occasions when it was absent from the district entirely. The provision language is withdrawn here. | All six co-presences, the three absences, and the full route-projection series. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with temperature, rooting and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with temperature, rooting and gauge established for each party. Then take the temperature at the same distance on both sides, the rooting depth of the second holding, and both gauges, and record whether the ground it had crossed was still warm once it was gone.
 
 ## 이야기 (Narratio) — The Tale
 

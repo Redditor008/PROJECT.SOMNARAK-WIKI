@@ -354,7 +354,7 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 **Common Name:** The Kind Healer’s Shadow
 **Containment Status:** Ambient — Zone D, Mantle Commons. The Zone B cell recorded in earlier revisions was the fourteen-month confinement and is not current; the circumstances of that period are set out in the Watch Record.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It is gentle, it has never injured anybody, and it transforms: three events are on file in which the attendance divided across the whole ward. The earlier entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Moderate (β). It is gentle, it has never injured anybody, and it transforms: three events are on file in which the attendance divided across the whole ward.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan both lower the gauge; Viderehan holds it level and Pugnahan achieves nothing. The earlier entry naming Flerehan as the only valid Work Type contradicts the Behavior table and is corrected here.
 - It stays when everybody else has gone, which is the whole of what it does and the reason the ward asks for it.

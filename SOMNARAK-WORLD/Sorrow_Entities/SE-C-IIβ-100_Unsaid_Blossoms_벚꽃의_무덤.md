@@ -166,7 +166,7 @@ There is no escalation here and the Gardens stopped writing as though there were
 | **Risk** | Moderate (β) Place-Lament producing Lament pressure, borne by the counter and by nobody outside the marker ring. |
 | **Management** | Count whole, store unread, keep voices low; and the Last Channel — one personal message from any worker in a sealed or failing zone, taken on a separately staffed line, never refused, relayed verbatim within twenty-four hours. |
 
-**Activation reporting order:** the day's fall count → the running store total → the heavy-air boundary against its markers → the quarter's refused-message figure from the net traffic return → nothing else. No blossom is opened, read, sampled or described. Viderehan and Ferrehan only; Flerehan and Pugnahan are structurally impossible on a Place, and the Registrum entry naming Flerehan the only valid Work Type has been corrected against the Behavior table.
+**Activation reporting order:** the day's fall count → the running store total → the heavy-air boundary against its markers → the quarter's refused-message figure from the net traffic return → nothing else. No blossom is opened, read, sampled or described. Viderehan and Ferrehan only; Flerehan and Pugnahan are structurally impossible on a Place, and their rows are kept in order to say so.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -368,7 +368,7 @@ Some sorrows mourn what was lost. This one counts what there was still time to s
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β), corrected from the earlier Minimal entry, which contradicted the SECC header. In fifty-two years the site has injured nobody, held nobody and spread nowhere, and the pressure falls on the counter alone. It is consequential because the day's fall is the only instrument this facility has for what its own people were not permitted to say while sealed in, and because the rule written on the strength of it has cost fifty-two seconds of median channel degradation, twenty-two unwithdrawable messages, three marriages and one injured Warden.
 **Containment & Handling Procedures:**
-- Ferrehan is primary and Viderehan is the record. The earlier entry naming Flerehan the only valid Work Type prescribed an N/A row on a Place and has been corrected against the Behavior table.
+- Ferrehan is primary and Viderehan is the record. Flerehan and Pugnahan stay in the table only to say that a Place cannot be wept with or confronted, and neither has ever been worked here.
 - The tree flowers out of season, continuously, and the fall is counted individually at a fixed hour and entered unrounded; estimates are refused.
 - Blossoms are gathered daily and stored unread. The store is substantial and will not be examined; the sentences are not the facility's to read.
 - Voices are kept low inside the marker ring by instruction. The blossoms close on any raised voice and the day's count is then void.

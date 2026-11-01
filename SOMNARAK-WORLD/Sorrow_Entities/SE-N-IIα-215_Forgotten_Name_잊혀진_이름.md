@@ -400,7 +400,7 @@ A citizen died with nobody present and their documents did not survive, and the 
 
 ## Trivia
 
-- It holds more firmly the more people carry it, provided none of them says it. The older entry describing a chorus speaking together is the error that cost this holding four months and is retained here only so that the correction is visible.
+- It holds more firmly the more people carry it, provided none of them says it. Twenty carriers are no worse than one, and twenty who confer before writing are no better than none.
 - The name has never been conclusively recovered and the three paper copies have differed from each other in four separate years.
 - Nine Wardens have been certain of a name that none of the three copies contained. All nine were confident; none was corroborated; the slates are written alone because of them.
 - Eleven anonymous registry numbers on the Epitaph Tanto's scabbard have been matched to destroyed files. Nobody commissioned the work and nobody has stopped it.

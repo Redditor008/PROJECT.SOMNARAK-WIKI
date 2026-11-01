@@ -372,7 +372,7 @@ Some sorrows are about debt. Broken Promise is about the betrayal — the promis
 **Common Name:** Broken Promise
 **Containment Status:** Contained — SECTOR-C-01, Collector's Row, in a mount on the Row floor rather than in a cell.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It binds anybody who undertakes anything in contact with it, expands by Transform beyond the perimeter, and has produced two recorded expansion events. The earlier entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). It binds anybody who undertakes anything in contact with it, expands by Transform beyond the perimeter, and has produced two recorded expansion events.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and Viderehan holds the gauge level. Earlier copies named Pugnahan, which the Behavior table records as unavailable to an Object/Place; that line is an error and is corrected here.
 - Make no undertaking inside the perimeter, to the holding or to each other, and answer the gate question honestly on the way out.

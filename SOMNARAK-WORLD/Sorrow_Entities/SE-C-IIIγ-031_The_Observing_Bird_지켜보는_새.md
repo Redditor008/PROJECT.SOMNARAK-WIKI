@@ -329,7 +329,7 @@ The Bird is read here as one line of a larger figure rather than a specimen stan
 | **The Kind Healer** | Cannot hide from its gaze. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Maw** | Records the Maw's expansion. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record what the second entity did while it believed nothing was watching. The Bird's whole subject is observation, and a pair that knows it is being recorded is the one condition under which these readings are worthless.
 
 ## 이야기 (Narratio) — The Tale
 

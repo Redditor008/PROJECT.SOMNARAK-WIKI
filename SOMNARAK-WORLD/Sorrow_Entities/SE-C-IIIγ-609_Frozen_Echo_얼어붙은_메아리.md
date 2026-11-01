@@ -184,7 +184,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 | **Risk** | Major (γ). Lament pressure carrying a stranger's life into the handler, with a permanent imprint left in the object for every contact. |
 | **Management** | Viderehan and Ferrehan only, under certified relic protocol, with one named handler, single-use gloves, a clock-holder with authority to call the end, and the imprint count entered before the stand is closed. |
 
-**Activation reporting order:** trigger → first change in the imprints → field edge → handler's language at each interval → duration → management condition. The Viderehan and Ferrehan restriction is correct on this holding and is not a template line.
+**Activation reporting order:** trigger → first change in the imprints → field edge → handler's language at each interval → duration → management condition. Only Viderehan and Ferrehan are reported in that order, because the crystal holds the minute rather than performing it. Both are taken from outside the field edge, and neither adopts the minute as their own.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -371,7 +371,7 @@ Some sorrows are owned. Frozen Echo is a sorrow that lost its owner — or rathe
 **Common Name:** Frozen Echo
 **Containment Status:** Contained — the Desolate, near the Scar
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). A relic crowded with borrowed lives that enters the handler through contact and does not leave cleanly; each contact is permanent in the object and cumulative in the person. The older entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). A relic crowded with borrowed lives that enters the handler through contact and does not leave cleanly; each contact is permanent in the object and cumulative in the person.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only. Ferrehan is the approach that lowers the gauge and Viderehan is the one most often authorised.
 - Handling is limited to two minutes, which is the figure in the tool profile; the ten minutes printed in earlier revisions is wrong and dangerous and is corrected here.

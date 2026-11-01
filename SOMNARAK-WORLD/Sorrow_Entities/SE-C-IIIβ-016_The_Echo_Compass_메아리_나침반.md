@@ -184,7 +184,7 @@ Escalation here is range and rate, not force. Record the first trigger, the firs
 | **Risk** | Moderate (β). Void pressure carrying an accurate and unusable answer, with a following risk that presents to the follower as ordinary good sense. |
 | **Management** | Viderehan and Ferrehan only, under certified relic protocol, with a case-holder, a two-minute channel limit, bearings logged in degrees, and no bearing translated into a location by anybody at any time. |
 
-**Activation reporting order:** trigger → first-response range → rate of swing → whether other instruments agreed → duration → management condition. The Viderehan and Ferrehan restriction is correct on this holding and is not a template line.
+**Activation reporting order:** trigger → first-response range → rate of swing → whether other instruments agreed → duration → management condition. Only Viderehan and Ferrehan are reported in that order, because a compass has nothing to weep with and no face to be confronted at. What the swings are read for is a pattern that never resolves to a target.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.

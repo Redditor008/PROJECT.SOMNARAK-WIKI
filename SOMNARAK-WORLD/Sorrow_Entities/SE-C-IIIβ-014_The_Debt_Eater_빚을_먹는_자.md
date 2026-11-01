@@ -297,7 +297,7 @@ The denial and exhaustion of people burdened by obligations they never chose.
 Management: Provide a specific amount of Echoes for absorption. Once fed, the fog dissipates.  Its activity increases during the Sorrow Tide.
 
 **Entry 5 — <Structural, Not Singular>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+The Debt Eater is held at the Collectors’ Row because that is where the figure is kept, and the figure is the whole of it: the accumulation rises without interruption because burden taken off a debtor does not disperse anywhere. Take the holding out of the Row and there is nothing left to measure — the fog is what the district would not settle, and the Row is where the district still goes to be told what it owes.
 
 ## 최종 관찰 (Final Observation)
 

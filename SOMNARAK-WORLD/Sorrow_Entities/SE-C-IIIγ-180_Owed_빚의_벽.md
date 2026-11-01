@@ -347,7 +347,7 @@ The relations below are filed as points of contact, not alliances. None is settl
 | **The Debt Eater** | Said to remove individual obligations but never the total. | Six co-presences. The Eater took what it takes; no block went transparent, no course was lost, no dimension altered, and the transparent count was identical before and after on all six occasions. Whatever it removes is not what this structure is made of. | All six co-presences, the transparent counts, the measurement sheets, and the Eater's intake log. |
 | **The Inherited Debt** | Said to add family obligation to the structure, which would make it the only identified source of growth. | Four co-presences. No growth was recorded during or after any of the four, against marks read by two people independently. The wall grew in those quarters at its ordinary rate, including in the quarter when the Debt was absent from the district entirely. | All four co-presences, the mark series, and the absent-quarter comparison. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with measurements, transparent count and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with measurements, transparent count and gauge established for each party. Then count the new blocks, take the wall's height and thickness, and record whether the second holding stood on the debt side or the payment side. The wall buds on one of them only.
 
 ## 이야기 (Narratio) — The Tale
 

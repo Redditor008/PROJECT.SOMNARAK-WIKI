@@ -200,7 +200,7 @@ Escalation here is radius and recurrence, not force. Record the first trigger, t
 | **Risk** | Minor (α) by potency and considerably worse than that by consequence: low Void pressure, no event pattern, and an identity hazard that 2 personnel have not returned to duty from. |
 | **Management** | Viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. |
 
-**Activation reporting order:** trigger → radius edge from the case → vault response in the stacks → personnel effect → duration → management condition. The Viderehan and Ferrehan restriction is correct on this holding and is not a template line.
+**Activation reporting order:** trigger → radius edge from the case → vault response in the stacks → personnel effect → duration → management condition. Only Viderehan and Ferrehan are reported in that order, because the mirror shows a memory rather than answering one. Viderehan holds the viewing to the painted line and Ferrehan checks the shard count before the session is closed.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.

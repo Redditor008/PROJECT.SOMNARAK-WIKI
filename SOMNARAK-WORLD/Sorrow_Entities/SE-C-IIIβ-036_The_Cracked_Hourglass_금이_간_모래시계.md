@@ -351,7 +351,7 @@ The relations below are canonical points of contact rather than alliances. None 
 | **The Grieving Colossus** | Pauses on the Alpha Tree approach and is described as listening to it. | Two co-presences, the pause on both, at a range of sixty to ninety metres. The rate did not alter, the crack did not move, and the Colossus resumed on its own both times. Nothing passed in either direction and nothing was exchanged. | Both co-presences, the pause durations, the rate and crack readings, and both flat gauges. |
 | **The Broken Clock** | The temporal kinship recorded in the cross-references, and the only pairing in this file anybody outside the wing asks about. | Six co-presences. The Clock's interval and this holding's tick were compared directly across all six and are unrelated; they do not converge, diverge, or hold any ratio. The kinship is thematic and the wing has said so twice in writing. | All six co-presences, the paired interval and tick series, and the two written answers. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with rate, crack and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with rate, crack and gauge established for each party. Then record the crack's rate across the pair, whether the sand kept its direction, both gauges, and whether the grain count was still where it was left once the two were separated.
 
 ## 이야기 (Narratio) — The Tale
 

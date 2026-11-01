@@ -278,8 +278,8 @@ The grief of prayers answered by abandonment and faith forgotten after it was no
 **Entry 4 — <Containment Notice>**
 Management: Do not wake, address, or attempt extraction. Maintain the sealed vault. Work response — Flerehan: Dreams of ancient prayers become gentler. (Decrease); Pugnahan: The vault fills with divine pressure. (Increase); Viderehan: Reveals fragments of the first settlers' faith. (Stable); Ferrehan: Tests whether the worker can endure a god's dream without waking it. (Decrease). The Library contains scripture associated with it.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <— The Vault Is Half the File>**
+The chamber is larger than the building above it allows, and it registers on all four elemental scales at once. Both of those are findings about the vault rather than about the god, which is why this file’s containment section is a survey and not a lock, and why six people in the vault’s establishment can say it is down there without ever having seen it.
 
 ## 최종 관찰 (Final Observation)
 

@@ -385,7 +385,7 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 **Common Name:** Learned Your Face
 **Containment Status:** Contained — Alpha Tree, Zone A
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It shows a viewer the grief they have hidden and keeps their face afterwards; the hazard is permanent recognition and the loss of the boundary between one's own sorrow and a reflected one. The older entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). It shows a viewer the grief they have hidden and keeps their face afterwards; the hazard is permanent recognition and the loss of the boundary between one's own sorrow and a reflected one.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only. Ferrehan is the approach that lowers the gauge and Viderehan is the one most often authorised.
 - Nobody looks without authorisation, and authorisation is given by name, for one session, by the officer who holds the learned-face count.

@@ -336,7 +336,7 @@ This bird is read among the holdings it shares ground with, not as a specimen in
 | **The Observing Bird** | Provides evidence for the Bird's calculations. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Guarding Bird** | Protects the judgment process. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then weigh the pair and weigh the same two apart, on the same pan and in the same hour: the Bird's reading is a difference, and a difference taken across two days is not a reading.
 
 ## 이야기 (Narratio) — The Tale
 

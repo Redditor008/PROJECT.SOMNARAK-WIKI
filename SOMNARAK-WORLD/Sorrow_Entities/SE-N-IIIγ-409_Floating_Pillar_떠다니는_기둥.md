@@ -338,7 +338,7 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 **Common Name:** Floating Pillar
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It is the shape of an imagined protector, holding nothing up; proximity produces the vertigo of collapsed trust, and a transform event takes names and faces out of reach across the Market row. The older entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). It is the shape of an imagined protector, holding nothing up; proximity produces the vertigo of collapsed trust, and a transform event takes names and faces out of reach across the Market row.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; it is a Subject, and the older entry restricting work to Viderehan is an error.
 - The absence holds its elevation and cannot be brought down, and no attempt to ground it has been authorised since the second year.

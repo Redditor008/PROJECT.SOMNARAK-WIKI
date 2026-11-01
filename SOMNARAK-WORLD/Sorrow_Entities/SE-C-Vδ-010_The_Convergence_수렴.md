@@ -296,8 +296,8 @@ The belief that every existence carries an unavoidable sentence.
 **Entry 4 — <Containment Notice>**
 Management: Separate Entities 031, 032, and 033 within twelve seconds.  Judgment is always “Guilty,” regardless of conduct or history.
 
-**Entry 5 — <Director's Memo, Eyes Only>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <— Formed of What Is Already There>**
+The Convergence is not in the zone so much as made of what is already in it: three Birds, one formation, thirty-six seconds in total across three occurrences. It has no location of its own to add to a map, which is why the station redraws the sector after every formation instead of plotting the entity.
 
 ## 최종 관찰 (Final Observation)
 

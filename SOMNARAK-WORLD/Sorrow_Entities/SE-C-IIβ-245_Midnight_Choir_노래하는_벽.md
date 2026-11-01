@@ -375,7 +375,7 @@ Some sorrows are about endings. This one is about the half-sentence — said onc
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β), corrected from the earlier Low entry, which contradicted the SECC header. In sixty-one years the corridor has injured nobody and held nobody; the pressure falls almost wholly on the single worker holding the verbatim book, whose rotation is four nights a quarter for that reason. The holding is consequential because its nightly count is the only instrument this facility has for statements closed half-said, and because the rule written on the strength of it reached two thousand one hundred and forty bereaved people, a hundred and forty-eight of whom did not want to be reached.
 **Containment & Handling Procedures:**
-- Ferrehan is primary and Viderehan is the transcription. The earlier entry naming Flerehan primary prescribed an N/A row on a Place and has been corrected against the Behavior table.
+- Ferrehan is primary and Viderehan is the transcription. Flerehan stays in the table only to say that a Place cannot be wept with, and it has never been worked here.
 - The singing is bounded, not boundless: ninety-four metres, measured nightly for sixty-one years, never once exceeded.
 - Attend the whole sequence; relief between songs only, never mid-song. Count and break words entered verbatim before the corridor is left.
 - No recording device is left running. Three recordings exist and each carries a fourth voice; no fifth has been authorised and the corridor does not expect one to be.

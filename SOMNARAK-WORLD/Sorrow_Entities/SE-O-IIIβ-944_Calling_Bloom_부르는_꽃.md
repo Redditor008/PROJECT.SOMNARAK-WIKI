@@ -328,7 +328,7 @@ Calling Bloom must be assessed as part of an entity network, not as an isolated 
 | **The Kind Echo** | Two callers — one who offers a kind word, one who steals a loved one's. | The Bloom grows still and quiet beside the Echo, as though recognising a gentler version of her own calling; both gauges dip. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Vanished Seed** | Two vanishings — one who vanished and grew, one who vanished and waited. | A quiet, sorrowful resonance; both seem to wait for someone who will not arrive. Calming but deeply sad. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Observe the two entities separately first. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Observe the two entities separately first. Then record whether the second entity answered, at what distance it first answered, and whether the answer persisted once the two were separated. The Bloom's only act is a call, and the call is measured in replies.
 
 ## 이야기 (Narratio) — The Tale
 

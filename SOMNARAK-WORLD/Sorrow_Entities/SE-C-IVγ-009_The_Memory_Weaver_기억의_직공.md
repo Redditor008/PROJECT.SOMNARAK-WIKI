@@ -339,7 +339,7 @@ This file is a strand of a larger weave and not a portrait hung on its own; the 
 | **The Forgotten Soldier** | The loom holds the Soldier's missing years and will not give them back. | Rejection again, but a held one: the Soldier stands at the door and the loom goes on weaving. No contact is to be forced, and the reason the loom will not trade is entered as read. | The separation kept, the hour it began, the trigger, both gauges, and whether the Soldier's missing years were offered in trade. |
 | **The Final Door** | One keeps what is behind it; the other keeps what it took from those who went in. | A link forms between two holdings that both refuse to open, and it holds longest when nobody asks either of them a question. | What moved between the two, who permitted it, how long the link lasted, and whether anything crossed back. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then check whose memories were in the web before the pairing and whose were in it after, by name against the register. The theft is silent, and the only evidence it ever leaves is a name in the wrong place.
 
 ## 이야기 (Narratio) — The Tale
 

@@ -368,7 +368,7 @@ Some sorrows mourn what was destroyed. This one weighs what was never credited, 
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Major (γ), corrected from the earlier Low entry. It has never pursued anybody and has injured nobody directly. The documented harms are enclosure — three floor extractions of four to nine hours, following Pugnahan or an attempt to finish a structure — and futility transfer, in which a worker begins using the entity's vocabulary about their own duties. The second is why this file screens conversationally at every post-contact review.
 **Containment & Handling Procedures:**
-- Ferrehan is primary — the long stand inside unfinished work — with Flerehan beside it and Viderehan used to take an intention. The earlier entry naming Viderehan primary has been corrected against the Behavior table. Pugnahan is prohibited.
+- Ferrehan is primary — the long stand inside unfinished work — with Flerehan beside it and Viderehan used to take an intention. Pugnahan is prohibited.
 - Nothing it has started may be finished by anybody, including by accident. The three escalations on record all followed completion attempts.
 - Clearing is on a fixed cycle, brisk, unexamined, and weighed. Crews are instructed not to look at what they are taking down and are forbidden to apologise to the entity aloud.
 - The Issued Record is a containment condition of this holding and binds every programme the Company cancels, whatever it was built for.

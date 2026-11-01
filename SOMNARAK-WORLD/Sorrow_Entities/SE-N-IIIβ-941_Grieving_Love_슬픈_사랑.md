@@ -333,7 +333,7 @@ She has to be read as one point in a network rather than as a file on a shelf. E
 | **The Ember Child** | Grief given a small body, and a large one leaning down toward it. | The warmth pulls her in close; her colour brightens and the weeping slows to almost nothing. | How near she came, how long the two stayed, the trigger, both gauges, and the state of the child's light afterwards. |
 | **The Lonely Giant** | Two outstretched reaches — one reaching up for company, one out for comfort. | Longing answers longing; both gauges climb the longer the two are kept in sight of one another. | The separation the watch kept, the hour the climb started, the trigger, both gauges, and what each did once out of view. |
 
-**Interaction procedure:** Observe the two entities separately first. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Observe the two entities separately first. Then record whether the second entity's features resolved further or less far in the pairing than alone, and at what distance the resolving stopped. On this holding the resolution is the reading.
 
 ## 이야기 (Narratio) — The Tale
 

@@ -311,8 +311,8 @@ The grief of promises trapped in repetition and time that cannot progress.
 **Entry 4 — <Bound to the Loop>**
 The Clock is linked to the time loop and cannot leave its origin point.
 
-**Entry 5 — <Grief Grown Into the Place>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <Seven Metres and the Loop>**
+The distortion field stops at seven metres because the loop it formed from had a footprint and the footprint ended there. The vault was chosen around that figure rather than the other way about: the Clock stands where the repeating year ran through the floor, and the file’s containment measurement is a distance from a point on a floor plan.
 
 ## 최종 관찰 (Final Observation)
 
@@ -353,7 +353,7 @@ The relations below are canonical points of contact rather than alliances. None 
 | **The Sorrow Tide** | It runs faster during the Tide, which is the one claim here that has survived testing. | Eleven Tide weeks logged against thirty-one ordinary weeks. Reversals are roughly twice as frequent during a Tide and stops are shorter; the effect is real, repeatable, and has no operational use, since the field does not enlarge and nothing else alters. | The full week-by-week series, the reversal counts, and the boundary probes throughout. |
 | **The Final Door** | Said to stop entirely near the Door, which would be the only recorded case of anything halting it. | Two co-presences at the permitted separation. The hands stopped on both occasions, for forty and for fifty-five minutes, and the wing's own note records that stops of that length occur unprompted several times a year. Two observations and no control. | Both co-presences, the stop durations, and the unprompted-stop distribution. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with face series, stop durations, boundary and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with face series, stop durations, boundary and gauge established for each party. Then take the distortion field's edge against the seven-metre mark before and after the pairing, and record whether the second entity was inside it at the change. The field does not extend for company.
 
 ## 이야기 (Narratio) — The Tale
 

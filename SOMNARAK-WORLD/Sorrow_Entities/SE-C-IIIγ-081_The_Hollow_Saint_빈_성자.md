@@ -285,8 +285,8 @@ The emptiness of giving everything away and discovering that healing others did 
 **Entry 4 — <Identity Anchors>**
 Management: Do not feed it grief; establish distance and identity anchors. Work response — Flerehan: Reaches toward shared grief and absorbs it. (Decrease); Pugnahan: Resists and pulls harder at the worker's sorrow. (Increase); Viderehan: Reveals the emptiness where its identity used to be. (Stable); Ferrehan: Tests the worker by drawing sorrow out slowly. (Decrease). It becomes more active during the Sorrow Tide.
 
-**Entry 5 — <Grief Built Into the Ground>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <The Route Through the Ward>**
+She walks SECTOR-B-02 the way she walked the ward she came from, and the route she takes is the shortest line between whoever is carrying the most pain. That is why the wing draws its sheltering arrangements around where the burden is rather than around where the entity is — on this holding the two are rarely in the same room.
 
 ## 최종 관찰 (Final Observation)
 
@@ -328,7 +328,7 @@ The relations below are points of contact and not alliances. None is closed, and
 | **The Debt Eater** | The Eater can take burden away, which would in principle give the Saint something she cannot otherwise obtain. | Three sessions. The Eater consumed normally; the Saint's hollow was unchanged on imaging and her reach did not alter. What the Eater removes is not what the Saint is missing. | All three sessions, the imaging before and after, and the unchanged reach. |
 | **The Frozen Veil (destroyed)** | Both were absences, and the Veil was the only absence she was ever observed to approach deliberately. | Two co-presences before the Veil's destruction. She reached and took nothing; the Veil's cold was not available to her in any form the instruments could detect. The record is retained because it is the only negative case of its kind. | Both co-presences, the null result, and the note that the Veil cannot now be retested. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record who in the pairing was carrying the most before and after, and whether her route changed when the burden changed hands. On this holding the selection is the measurement.
 
 ## 이야기 (Narratio) — The Tale
 

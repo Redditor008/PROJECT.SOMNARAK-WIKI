@@ -350,7 +350,7 @@ This pool is read against the other standing water and against the Gardens. Each
 | **The Weeping Statue** | The Statue's tears reach the pool by way of the same low ground. | No measurable effect in either direction across eleven co-presences. The Statue's rate did not change and the Fountain's level moved no more than it moves on an ordinary day. | The eleven co-presences, with the level series for each. |
 | **The Echo Gardens** | The beds take the overflow and are visibly healthier for it. | The only interaction on file with a positive sign, and it is horticultural rather than resonant: the flowers do better, the moss lives where it should not, and no entity-level reading in either direction has ever moved. | The bed survey, the moss line series, and the gardeners' own notes, which predate the registry. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record whether the basin's own level moved. The Fountain has never moved and nothing has ever lowered its level, so a change there is the only result a pairing can produce that a solo watch cannot.
 
 ## 이야기 (Narratio) — The Tale
 

@@ -341,7 +341,7 @@ The rows below are filed as points of contact, not alliances, and none is settle
 | **The Shadow at the Door** | Said to become visible in the light, which is the one claim here with anything behind it. | Five co-presences. The Shadow is visible in the lit area and is also visible in lamplight, candlelight and daylight; a control run with an ordinary lamp produced the same visibility. The effect is illumination and is not a relation. | All five co-presences, the ordinary-lamp control, and the visibility notes. |
 | **The Inherited Debt** | Said to reveal the first hand that incurred a burden. | Four co-presences. The light is brighter near it, as it is near any heavy obligation, and no origin has ever been identified by this means; the wing has recorded in writing that *brighter is not earlier*. | All four co-presences, the intensity series, and the written correction. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with intensity, radius and gauge established for each party before anything is brought near the mount. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with intensity, radius and gauge established for each party before anything is brought near the mount. Then take the lantern's brightness at a fixed distance from the second entity — before, during and after — and record whether the glow fell when the two were separated. Brightness is the only channel this piece has.
 
 ## 이야기 (Narratio) — The Tale
 

@@ -320,8 +320,8 @@ The pain of being hurt repeatedly and discovering that gentleness did not preven
 **Entry 4 — <Passage Through the Thorns>**
 Work response — Viderehan: Shows the grievance behind each flower. (Stable); Ferrehan: Allows passage only if the worker endures the thorns. (Decrease). It expands during the Sorrow Tide.
 
-**Entry 5 — <Sorrow Woven Into the Fabric>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <The Margin Is the Holding>**
+Briar is not a plant standing on the margin; the margin is what it is made of. The ground on either side of it carries the same grievance, which is why this file measures growth in frontage and never in metres from a centre, and why the margin survey predates the containment order by four years.
 
 ## 최종 관찰 (Final Observation)
 
@@ -363,7 +363,7 @@ The relations below are points of contact and not alliances. None is closed, and
 | **The Angry Maiden** | The blooms brighten in the Maiden's presence, the only effect on this file with a consistent direction. | Four co-presences. Brightness rose on all four and the reach did not move on any of them. Nothing passed to the Maiden that the wing could measure, and her own series was flat. The effect is recorded as real, one-directional and operationally useless. | The four co-presences, the brightness records, and the Maiden's flat series held beside them. |
 | **The Grieving Fountain** | The Fountain is said to soften the paths, a claim resting on two early accounts by the same Warden. | Six co-presences. The paths opened on one and closed on two. The wing records the claim as unsupported and keeps the Warden's accounts in full with the later data attached. | The six co-presences, the path records, and the two original accounts with their author named. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record which way the blooms were facing at the first shared change and at the last: the tracking is the whole of the response, and its bearing is entered against the ground rather than against the party.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -399,7 +399,7 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 **Common Name:** Briar
 **Containment Status:** Contained — near Echo Gardens, Zone D
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). A thicket of armed memorial planting that grips, drags and draws blood, and that comes off its ground entirely in an escape event. The older entry describing the threat as moderate understates it and is corrected here.
+**Threat Assessment:** Major (γ). A thicket of armed memorial planting that grips, drags and draws blood, and that comes off its ground entirely in an escape event. Its moderate grading described the ground it stands on and not the thing that comes off it.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; Ferrehan is the working approach, and Pugnahan is prohibited by standing order despite being valid.
 - Nothing is touched and nothing is cut, including dead growth, including growth across the fence line.

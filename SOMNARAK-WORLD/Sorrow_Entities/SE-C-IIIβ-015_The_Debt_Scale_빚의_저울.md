@@ -289,8 +289,8 @@ The grief of people judged by corrupt systems and the fear of an impartial measu
 **Entry 4 — <Daily Use on the Row>**
 Work response — Viderehan: Displays the structure of a person's obligations. (Stable); Ferrehan: Holds the worker beneath the emotional weight of measurement. (Decrease). Collectors use it daily despite citizen opposition.
 
-**Entry 5 — <Woven Into the Zone>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <The Scale and the Office>**
+The Scale is always correct by its own definition, which is a sentence about the office and not about the object. A measure is impartial only where somebody else has already decided what goes on the pan, and the Collectors’ register has been making that decision for longer than the SECC has been keeping the file. The two are read together or the reading means nothing.
 
 ## 최종 관찰 (Final Observation)
 
@@ -329,7 +329,7 @@ The three relations entered below are points of contact, not alliances. None is 
 | **The Iron Judge** | Said to use the Scale as evidence, which is a claim about the Judge and not about this holding. | Four co-presences. The Scale produced no reading on request, produced the same unrequested dish movements it produces alone, and the Judge's conduct was unaltered. The wing has recorded in writing that the Scale gives evidence to nobody. | All four co-presences, the dish series, and the written statement. |
 | **The Weighting Bird** | Both are said to calculate guilt and obligation, which is the most asserted pairing in this file's history. | Five co-presences. The Bird's weighings and this holding's dish positions were compared across all five and agree no better than chance; two of the five disagree in direction. Two instruments of the same subject that cannot be made to corroborate each other. | All five co-presences, the paired comparison, and the two disagreements in full. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with dish positions, circle and gauge established for each party. Then record the first shared change, its range, duration and trigger, both gauges, and whether anything persists once the parties are separated.
+**Interaction procedure:** Solo baselines first, across several cycles, with dish positions, circle and gauge established for each party. Then put the same figure to the pan twice, from two parties in the same hour, and record whether the two readings agree — the Scale is always correct by its own definition, so a disagreement is the one reading it cannot produce on its own.
 
 ## 이야기 (Narratio) — The Tale
 

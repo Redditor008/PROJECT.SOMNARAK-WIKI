@@ -362,7 +362,7 @@ Some sorrows are about exclusion. This one is about the exclusion nobody is enfo
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ), corrected from the earlier Low entry. It obstructs nothing, pursues nobody and has never injured a worker. The documented harm is the dream-rust duration, which is measured in days, has lengthened across the life of the holding, and falls heaviest on the workers of this facility who are carrying a bar nobody can lift.
 **Containment & Handling Procedures:**
-- Ferrehan is primary — the long stand on the transit line — with Flerehan beside it; Viderehan records who stood on either side. The earlier entry naming Viderehan primary has been corrected against the Behavior table.
+- Ferrehan is primary — the long stand on the transit line — with Flerehan beside it; Viderehan records who stood on either side.
 - Pugnahan is not applied: it hardens the plates and narrows the dream-space across everybody sleeping in the wing.
 - One barrier test per session, by one named worker, recorded.
 - Panel impressions taken each cycle, dated, boxed in order, and not interpreted.

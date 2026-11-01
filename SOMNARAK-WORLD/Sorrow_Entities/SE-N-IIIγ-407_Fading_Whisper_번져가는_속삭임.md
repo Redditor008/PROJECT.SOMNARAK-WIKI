@@ -355,7 +355,7 @@ Some sorrows are about losing memory. Fading Whisper is about the place the memo
 **Common Name:** Fading Whisper
 **Containment Status:** Contained — Zone A, at the Alpha Tree. Earlier entries placing the holding in Zone D refer to the transcript store and not to the entity.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It guards the gap left by a removed memory; proximity produces the awareness of an absence that cannot be named, and a transform event strips definition from the surrounding zone. The older entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). It guards the gap left by a removed memory; proximity produces the awareness of an absence that cannot be named, and a transform event strips definition from the surrounding zone.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; it is a Subject, and the older entry restricting work to Viderehan is an error.
 - The guardian is spent by being remembered. Watch lengths are capped for that reason and the cap is enforced by a second person.

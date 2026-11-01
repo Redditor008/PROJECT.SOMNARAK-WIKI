@@ -182,7 +182,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 | **Risk** | Major (γ). Void pressure producing grief for people who never existed, over a ring that travels with the stone and crosses ground nobody has assessed. |
 | **Management** | Survey from the line, photograph the face, hold the travelling exclusion, brief the possibility-not-memory distinction first, and never dig. |
 
-**Activation reporting order:** trigger → displacement since last survey → radius of reported structures → personnel effect → duration → management condition. The Viderehan and Ferrehan restriction is correct on this holding and is not a template line.
+**Activation reporting order:** trigger → displacement since last survey → radius of reported structures → personnel effect → duration → management condition. Only Viderehan and Ferrehan are reported in that order, because a pillar cannot be wept with and has nothing to be confronted at. The displacement since the last survey is entered before the radius of reported structures, and the two are never combined into one figure.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -369,7 +369,7 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 **Common Name:** Sunken Pillar
 **Containment Status:** Mobile — the Desolate
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). A migrating Place-Void that carries a travelling exclusion across unassessed ground and induces grief for people who were never born. The earlier entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). A migrating Place-Void that carries a travelling exclusion across unassessed ground and induces grief for people who were never born.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge and Viderehan is the one most often authorised. The earlier entry naming Viderehan as primary is incomplete and is corrected here.
 - It is sinking and moving at once. Measure the exposed height against the external datum and the position against the last fixed station, every survey, both.

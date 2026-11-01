@@ -353,7 +353,7 @@ Some sorrows are about the original wound. Rising Well is about the inheritance 
 **Common Name:** Rising Well
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). The Well of inherited fury opens in the minds of people who were given no reason for it; proximity produces rage without a remembered cause, and an event turns that rage on the structure and on everyone inside it. The older entry describing the threat as moderate understates it and is corrected here.
+**Threat Assessment:** Critical (δ). The Well of inherited fury opens in the minds of people who were given no reason for it; proximity produces rage without a remembered cause, and an event turns that rage on the structure and on everyone inside it. The moderate grading it once carried described the memory of the Well and not the well.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; Pugnahan deepens the shaft and is used only to provoke a reading that cannot be obtained otherwise, on written authority.
 - The rage has an origin and it is documented in the chamber file. What it has no access to is the person who caused it, all of whom are long dead.

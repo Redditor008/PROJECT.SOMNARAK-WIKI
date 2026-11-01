@@ -294,8 +294,8 @@ The grief of a soldier who fought for a cause that no longer exists and remained
 **Entry 4 — <Containment Notice>**
 Management: Salute its duty, acknowledge its sacrifice, and assign a clear completed task.  The Knight salutes courage in enemies, Frays, and criminals alike.
 
-**Entry 5 — <Archive Note>**
-The archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.
+**Entry 5 — <Sixteen Hours of SECTOR-B-01>**
+The circuit is the holding. Sixteen hours of SECTOR-B-01 walked to the metre, surveyed and marked, is the only fixed thing about an armour with nothing inside it — and every account of the Knight that has ever been written down is an account of that route being kept.
 
 ## 최종 관찰 (Final Observation)
 
@@ -373,7 +373,7 @@ Some sorrows mourn a loss. The Hollow Knight mourns a reason — the cause that 
 **Common Name:** The Hollow Knight
 **Containment Status:** Contained — SECTOR-B-01, Zone B. The border-district entry in earlier revisions refers to the recovery site and not to the holding.
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ). An Entity-coherence Subject of considerable mass that events by Transform and fills a wing when it does, and whose ordinary operation imposes the exhaustion of purposeless duty on everybody working near it. The earlier entry describing the threat as low is an error and is corrected here.
+**Threat Assessment:** Major (γ). An Entity-coherence Subject of considerable mass that events by Transform and fills a wing when it does, and whose ordinary operation imposes the exhaustion of purposeless duty on everybody working near it.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan both lower the gauge and are the authorised approaches. Pugnahan is prohibited on this holding.
 - The post is a route, not a point. Keep it clear and surveyed; the Knight walks it for sixteen hours and stands at the first station for the other eight.

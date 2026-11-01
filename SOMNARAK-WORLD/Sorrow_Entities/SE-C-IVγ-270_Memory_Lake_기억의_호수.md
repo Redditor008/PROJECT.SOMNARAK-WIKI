@@ -40,7 +40,7 @@
 
 - No inflow has ever been found and the level is constant across every logged season. The surveyed margin nonetheless moves, slightly and not monotonically, which is the holding's one measurable behaviour and has never been reconciled with the constant level.
 - Work stills the surface for a shift and nothing else. Nothing has ever been recovered from this lake — not memory, not liquid, not the sounding weight's explanation — and no cycle has altered the level.
-- Ferrehan is primary, station-bound and long; Viderehan is the sounding record. The Registrum's entry naming Viderehan primary has been corrected against the Behavior table.
+- Ferrehan is primary, station-bound and long; Viderehan is the sounding record.
 - No breach counter. The saturated margin is staked at every session and never carried forward, because a carried figure would hide exactly the small non-monotonic movement the series exists to catch.
 - No liquid, memory or margin sample is extracted under this file. The entry prohibition covers personnel, contact and instrumentation lowered on lines; equipment custody, where separately recorded, is not a sampling route.
 
@@ -372,7 +372,7 @@ Some sorrows mourn the forgotten. This one takes delivery of them — every life
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Major (γ), corrected from the earlier Low entry, which contradicted the SECC header. It has never injured anybody, held anybody or acted on anything; the documented harm is the flattening, which arrives through silence at the stations rather than through the water, and the recognition hazard, which is managed by rotation. It is consequential because its margin is the only instrument this facility has for its own refusal to write anything down about its dead, and because the rule written on the strength of that margin has already cost one supervisor a career on an allegation afterwards shown to be mistaken.
 **Containment & Handling Procedures:**
-- Ferrehan is primary — the long station watch — and Viderehan is the sounding record. The earlier entry naming Viderehan primary has been corrected against the Behavior table.
+- Ferrehan is primary — the long station watch — and Viderehan is the sounding record. They are not interchangeable: one lowers the gauge and the other only measures it.
 - No entry, no contact, nothing lowered on a line. Stations worked in pairs with the conversation requirement kept and the column marked honestly; a run of unkept entries stands both workers down.
 - No scene attributed to any person in any report. Recognition reported at once and the observer rotated off for the cycle, explained at the time as not punitive.
 - Attested Recollection binds every service-death record this facility closes, and it stands as a containment condition of the holding rather than a house practice.

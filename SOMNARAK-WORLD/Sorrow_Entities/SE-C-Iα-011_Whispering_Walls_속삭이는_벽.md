@@ -175,7 +175,7 @@ Escalation here is reach along the fabric. Record the trigger, the wall run wher
 | **Risk** | Minor (α). Low Lament pressure over a very large area, in a district where the affected population is residential rather than operational and is not withdrawn at the end of a shift. |
 | **Management** | Viderehan and Ferrehan only, by night, with the boundary walked and marked each rotation, occupied dwellings logged by reference, and acknowledgment given aloud at the limit of the field. |
 
-**Activation reporting order:** trigger → wall run → boundary against the marked line → occupied dwellings affected → hour and duration → acknowledgment given. The Viderehan and Ferrehan restriction is correct on this site and is not a template line.
+**Activation reporting order:** trigger → wall run → boundary against the marked line → occupied dwellings affected → hour and duration → acknowledgment given. Only Viderehan and Ferrehan are reported in that order, because a wall cannot be wept with and there is nothing in a corridor to confront. The boundary against the marked line is entered before the occupied dwellings are counted.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.

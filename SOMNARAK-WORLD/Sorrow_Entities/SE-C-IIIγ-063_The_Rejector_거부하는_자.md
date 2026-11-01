@@ -363,7 +363,7 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 **Common Name:** The Rejector
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). He is defined by absence and is dangerous for that reason: he cannot be deterred, bargained with, ordered or driven, and an escape drains definition out of whatever corridor he is standing in. The older entry describing the threat as low mistakes quietness for safety and is corrected here.
+**Threat Assessment:** Major (γ). He is defined by absence and is dangerous for that reason: he cannot be deterred, bargained with, ordered or driven, and an escape drains definition out of whatever corridor he is standing in. The failure this record exists to prevent is reading the quiet as safety — a man who refuses everything is not a man who can be left alone.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; Ferrehan is the only one that moves the gauge, and Viderehan is the one most often used.
 - The quietest of the three, and the only one who answers questions in full.

@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The sentences where the file talked about its own drafting (2026-11-01)
+
+Twenty-fourth batch. No dossier changed hands here — this one is all prose, and all of it is the archive explaining itself instead of describing a holding.
+
+**Thirty-two correction notes that corrected nothing.** Sentences like *"The earlier entry naming Viderehan primary has been corrected against the Behavior table"*, *"The older entry describing the threat as low is an error and is corrected here"* and *"The Viderehan and Ferrehan restriction is correct on this holding and is not a template line"* appeared across twenty files. Most of them pointed at entries that no longer exist — the fix had already landed and the apology stayed. The rest were the file asserting its own bespoke status, which is the one thing a reader will not believe on the file's word.
+
+**Where a note was doing real work, the work stayed.** Unsaid Blossoms keeps the record of the chorus error that cost it four months — once, not twice; the second copy said the same thing in different words and is now a line about the mechanism instead. Patina's two pedestal rows still say there is no pedestal, because that is a reading instruction; they no longer say whose profile the pedestal was transcribed from.
+
+**Fourteen interaction procedures** still ended in the same sentence — *record the first shared change, the distance, duration, trigger, effect on the battlefield, and whether the effect remains after separation* — which asks a Warden to measure everything and therefore tells them nothing. Each now names the one thing that holding's pairing can actually produce: the pan's two readings on the same figure, the crack's rate across the pair, whether the blooms' bearing moved, whose names are in the web before and after, the lantern's brightness at a fixed distance.
+
+**Eight Story Logs closed on the same paragraph** — *the archive cross-references this entity with its registered location — the sorrow was not singular but structural, woven into the fabric of the zone itself.* Every one of those eight had something specific and better to say: the Clock's seven metres is the loop's footprint, Briar's margin is what it is made of and is why its growth is measured in frontage, the Convergence has no location of its own to add to a map.
+
+**Two double dots, caught by `seam_lint`** in the first pass of edits and fixed before the gate. That check exists for exactly this and it earned its place tonight.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `seam_lint` 100.0% clean · `check_links` 0 broken.
+
 ## Forty-six movement rows that said nothing (2026-11-01)
 
 Twenty-third batch, and the largest single edit of the run by file count — not because anything was decided, but because one sentence had been standing in for an answer.
