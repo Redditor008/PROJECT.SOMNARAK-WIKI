@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Suit Record*
 
-The first bearer of The Echo Plate encountered this source response: Tests whether the worker can remain while the sound burns away. The suit witnesses the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Plate encountered this source response: Tests whether the worker can remain while the sound burns away. The suit witnesses the immediate hazard only after the team attributed it to Heirloom. A wearer answered a present quarrel with one older than they were, and the Plate’s binding is the family case file from that hearing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Heirloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the inherited charge arrives before anything is said, and nothing the wearer hears now gets past it.
 - Terminal state: Heirloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Stop repetition and identify the original voice” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Echo Plate encountered this source response: Tests wheth
 
 ## SET RELATIONSHIP
 
-Within *Heirloom — Witnessed Form*, The Echo Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Heirloom — Witnessed Form*, The Echo Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing said to the wearer today can still reach them; the first it cannot, the Plate is out.
 
 ---
 

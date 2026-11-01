@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Suit Record*
 
-The first Well Within Plate field bearer encountered this source response: Tests whether the worker can hear anger without inheriting it. The suit contains the immediate hazard only after the team attributed it to Well Within. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Well Within Plate field bearer encountered this source response: Tests whether the worker can hear anger without inheriting it. The suit contains the immediate hazard only after the team attributed it to Well Within. A wearer was calm, heavy and impossible to hurry through a shift that should have ended them, and the Plate’s binding is that duty board.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Well Within's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the suppression reaches anger the wearer has never had, and it goes further in with nowhere left to go.
 - Terminal state: Well Within's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not invent a cause; document the fragments and ground the subject” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Well Within Plate field bearer encountered this source response: Tests
 
 ## SET RELATIONSHIP
 
-Within *Well Within — Witnessed Form*, Well Within Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Well Within — Witnessed Form*, Well Within Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one anger can still come out of the wearer; the first shift none does, the Plate is out.
 
 ---
 

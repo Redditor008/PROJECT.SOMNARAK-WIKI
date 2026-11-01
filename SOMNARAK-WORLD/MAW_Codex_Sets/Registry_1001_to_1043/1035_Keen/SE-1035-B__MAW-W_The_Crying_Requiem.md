@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Weapon Record*
 
-The first bearer of The Crying Requiem encountered this source response: Spins and emits a sharper cry. The weapon interrupts the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crying Requiem encountered this source response: Spins and emits a sharper cry. The weapon interrupts the immediate hazard only after the team attributed it to Keen. A wielder heard the note in a quiet room three weeks after the fight, and the Requiem’s binding is the audiometric note from that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Keen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pitch stays through sleep and arrives in rooms where nothing has been struck.
 - Terminal state: Keen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen without attempting to identify or silence the cry” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Crying Requiem encountered this source response: Spins a
 
 ## SET RELATIONSHIP
 
-Within *Keen — Witnessed Form*, The Crying Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Keen — Witnessed Form*, The Crying Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which the note stops.
 
 ---
 

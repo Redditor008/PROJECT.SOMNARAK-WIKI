@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Stigma Record*
 
-The first Well Within Stone field bearer encountered this source response: Reveals echoes of the forgotten event. The stigma discharges the immediate hazard only after the team attributed it to Well Within. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Well Within Stone field bearer encountered this source response: Reveals echoes of the forgotten event. The stigma discharges the immediate hazard only after the team attributed it to Well Within. A bearer answered somebody in a still room where nobody had spoken, and the Stone’s binding is the incident note from that hour.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Well Within's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the silence gets louder than the speech, and the bearer answers rooms that have been quiet for years.
 - Terminal state: Well Within's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not invent a cause; document the fragments and ground the subject” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first Well Within Stone field bearer encountered this source response: Revea
 
 ## SET RELATIONSHIP
 
-Within *Well Within — Witnessed Form*, Well Within Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Well Within — Witnessed Form*, Well Within Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set in a silence the bearer lets stand unanswered.
 
 ---
 

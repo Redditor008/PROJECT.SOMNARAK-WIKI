@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Ruin Source-Trace: Stigma Record*
 
-The first bearer of The Ruin Shard encountered this source response: Reveals which parts are memory and which are invention. The stigma stabilizes the immediate hazard only after the team attributed it to Dreaming Ruin. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Shard encountered this source response: Reveals which parts are memory and which are invention. The stigma stabilizes the immediate hazard only after the team attributed it to Dreaming Ruin. A bearer could rebuild a room from memory and had lost the colour of their own door, and the Shard’s binding is the inventory taken from that home.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dreaming Ruin's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the payment is taken before the reconstruction, and the bearer’s home is emptied of things they have not yet rebuilt.
 - Terminal state: Dreaming Ruin's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Wake with an anchor and preserve the memory without rebuilding it” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Ruin Shard encountered this source response: Reveals whi
 
 ## SET RELATIONSHIP
 
-Within *Dreaming Ruin — Witnessed Form*, The Ruin Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dreaming Ruin — Witnessed Form*, The Ruin Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set on a use paid for out of nothing.
 
 ---
 

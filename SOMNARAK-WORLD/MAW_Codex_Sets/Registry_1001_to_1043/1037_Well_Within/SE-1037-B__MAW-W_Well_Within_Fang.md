@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Weapon Record*
 
-The first Well Within Fang field bearer encountered this source response: The well rises through the worker's thoughts. The weapon stays the immediate hazard only after the team attributed it to Well Within. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Well Within Fang field bearer encountered this source response: The well rises through the worker's thoughts. The weapon stays the immediate hazard only after the team attributed it to Well Within. A wielder bruised in the shape of a strike they had never taken, and the Well Within Fang’s binding is the medical note from that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Well Within's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the anger comes up before the blow, and the wielder is bruised from the inside in rooms with nothing to fight.
 - Terminal state: Well Within's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not invent a cause; document the fragments and ground the subject” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Well Within Fang field bearer encountered this source response: The we
 
 ## SET RELATIONSHIP
 
-Within *Well Within — Witnessed Form*, Well Within Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Well Within — Witnessed Form*, Well Within Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow after which the anger is still where it was kept.
 
 ---
 

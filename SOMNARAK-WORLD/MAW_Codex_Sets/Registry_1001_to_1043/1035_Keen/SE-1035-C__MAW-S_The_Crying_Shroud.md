@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Suit Record*
 
-The first bearer of The Crying Shroud encountered this source response: Follows the worker until they can endure the sound. The suit marks the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crying Shroud encountered this source response: Follows the worker until they can endure the sound. The suit marks the immediate hazard only after the team attributed it to Keen. A wearer was the steadiest person in the room and could not say what they liked, and the Shroud’s binding is the character note filed from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Keen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the hard-to-interest spreads to the work, and the wearer is calm through a crisis they should have answered.
 - Terminal state: Keen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen without attempting to identify or silence the cry” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Crying Shroud encountered this source response: Follows 
 
 ## SET RELATIONSHIP
 
-Within *Keen — Witnessed Form*, The Crying Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Keen — Witnessed Form*, The Crying Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing still interests the wearer; the first watch nothing does, the Shroud is out.
 
 ---
 

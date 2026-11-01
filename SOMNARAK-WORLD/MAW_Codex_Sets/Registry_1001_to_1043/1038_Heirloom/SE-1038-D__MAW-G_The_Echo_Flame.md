@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Stigma Record*
 
-The first bearer of The Echo Flame encountered this source response: Reveals how the grievance spread. The stigma isolates the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Flame encountered this source response: Reveals how the grievance spread. The stigma isolates the immediate hazard only after the team attributed it to Heirloom. A bearer came out of a season having lost the things they did every day and keeping the repetitions nobody noticed, and the Flame’s binding is the habit register from that year.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Heirloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the repetitions go before the echo they were silencing, and the bearer’s ordinary mornings go with them.
 - Terminal state: Heirloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Stop repetition and identify the original voice” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Echo Flame encountered this source response: Reveals how
 
 ## SET RELATIONSHIP
 
-Within *Heirloom — Witnessed Form*, The Echo Flame performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Heirloom — Witnessed Form*, The Echo Flame performs the stigma role while the other pieces preserve attribution and survival. The Flame drops out of the set on a night it silences an echo and costs its bearer nothing.
 
 ---
 

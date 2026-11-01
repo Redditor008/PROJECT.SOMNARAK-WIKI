@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Stigma Record*
 
-The first bearer of The Crying Ember encountered this source response: Reveals the original moment of mourning. The stigma witnesses the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crying Ember encountered this source response: Reveals the original moment of mourning. The stigma witnesses the immediate hazard only after the team attributed it to Keen. A bearer answered a grief in their sleep and the answer was logged by whoever was in the room, and the Ember’s binding is that night note.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Keen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the hearing reaches grief that has not been felt yet, and the bearer answers losses before they are losses.
 - Terminal state: Keen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen without attempting to identify or silence the cry” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Crying Ember encountered this source response: Reveals t
 
 ## SET RELATIONSHIP
 
-Within *Keen — Witnessed Form*, The Crying Ember performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Keen — Witnessed Form*, The Crying Ember performs the stigma role while the other pieces preserve attribution and survival. The Ember drops out of the set in a quiet the bearer leaves quiet.
 
 ---
 

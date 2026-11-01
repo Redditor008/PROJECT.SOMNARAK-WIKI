@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Fifteen records, five sources (batch 100)
+
+`SE-1034` Resting, `SE-1035` Crying, `SE-1036` Ruin, `SE-1037` Well Within, `SE-1038` Echo — **fifteen records, forty-five sentences.** The Resting Burden holds resonance while its wearer can be told one task is finished and believe it; the Ruin Veil keeps its set while the wearer can still see one room as it is; the Echo Plate holds while one thing said to the wearer today can still reach them.
+
+**330 of 345 done. 15 remain — the last five sets of the wing.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Fifteen records, five sources (batch 99)
 
 `SE-1029` Kind Healer's Shadow, `SE-1030` First Tear, `SE-1031` Sorrow Seed, `SE-1032` Sorrow Bloom, `SE-1033` Apocrypha — **fifteen records, forty-five sentences.** The Healer's Requiem loses its set on a blow after which the wielder is carrying only their own grief; the Apocrypha Veil holds while one thing the wearer said can still be quoted back to them; the First Shroud keeps resonance while one small pleasure still arrives before the large ones.

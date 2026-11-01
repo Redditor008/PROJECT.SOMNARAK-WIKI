@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Weapon Record*
 
-The first bearer of The Echo Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon marks the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon marks the immediate hazard only after the team attributed it to Heirloom. A wielder’s wounds were older than they were and the Echo Fang’s binding is the family injury record that listed them
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Heirloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the injuries open at depths they were first given, and the wielder reopens what the family had healed.
 - Terminal state: Heirloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Stop repetition and identify the original voice” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Echo Fang encountered this source response: N/A — Obje
 
 ## SET RELATIONSHIP
 
-Within *Heirloom — Witnessed Form*, The Echo Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Heirloom — Witnessed Form*, The Echo Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow that opens a wound struck this year.
 
 ---
 

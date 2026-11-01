@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Weapon Record*
 
-The first bearer of The Resting Maul encountered this source response: The tunnel grows heavier and the figure stirs. The weapon redirects the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Maul encountered this source response: The tunnel grows heavier and the figure stirs. The weapon redirects the immediate hazard only after the team attributed it to Unreleased Beam. A wielder came out of a season able to lift less and swing it further, and the Resting Maul’s binding is the weigh-in from that return.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unreleased Beam's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the weight returns before the swing, and the wielder is carrying a blow they have not thrown.
 - Terminal state: Unreleased Beam's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; distribute the burden among a team” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Resting Maul encountered this source response: The tunne
 
 ## SET RELATIONSHIP
 
-Within *Unreleased Beam — Witnessed Form*, The Resting Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unreleased Beam — Witnessed Form*, The Resting Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a swing after which its wielder weighs what they did before it.
 
 ---
 

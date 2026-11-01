@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Ruin Source-Trace: Suit Record*
 
-The first bearer of The Ruin Veil encountered this source response: Tests whether the worker can leave the ruin. The suit opens the immediate hazard only after the team attributed it to Dreaming Ruin. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Veil encountered this source response: Tests whether the worker can leave the ruin. The suit opens the immediate hazard only after the team attributed it to Dreaming Ruin. A wearer could not stop seeing what the room would look like empty and was reported faintly absent from it, and the Veil’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dreaming Ruin's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the ruin arrives before the room, and the wearer describes a place that is still standing as though it had come down.
 - Terminal state: Dreaming Ruin's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Wake with an anchor and preserve the memory without rebuilding it” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Ruin Veil encountered this source response: Tests whethe
 
 ## SET RELATIONSHIP
 
-Within *Dreaming Ruin — Witnessed Form*, The Ruin Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dreaming Ruin — Witnessed Form*, The Ruin Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still see one room as it is; the first they cannot, the Veil is out.
 
 ---
 

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Suit Record*
 
-The first bearer of The Resting Burden encountered this source response: Tests the worker beneath increasing pressure. The suit stays the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Burden encountered this source response: Tests the worker beneath increasing pressure. The suit stays the immediate hazard only after the team attributed it to Unreleased Beam. A wearer was still standing under a wall that had been rebuilt two years earlier, and the Burden’s binding is the completion certificate for that rebuild.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unreleased Beam's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the removal of the ending reaches duties the wearer has never been assigned, and they stand under all of them.
 - Terminal state: Unreleased Beam's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; distribute the burden among a team” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Resting Burden encountered this source response: Tests t
 
 ## SET RELATIONSHIP
 
-Within *Unreleased Beam — Witnessed Form*, The Resting Burden performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unreleased Beam — Witnessed Form*, The Resting Burden performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be told one task is finished and believe it; the first they cannot, the Burden is out.
 
 ---
 

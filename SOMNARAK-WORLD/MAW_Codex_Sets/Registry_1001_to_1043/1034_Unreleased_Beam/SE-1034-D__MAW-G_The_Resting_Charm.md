@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Stigma Record*
 
-The first bearer of The Resting Charm encountered this source response: Shows the task it never believed was complete. The stigma contains the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Charm encountered this source response: Shows the task it never believed was complete. The stigma contains the immediate hazard only after the team attributed it to Unreleased Beam. A bearer moved at the pace of something not yet released and was a season slower by the end of it, and the Charm’s binding is the pace recorded across that year.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unreleased Beam's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pace slows past walking, and the bearer is overtaken by errands they set themselves.
 - Terminal state: Unreleased Beam's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; distribute the burden among a team” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Resting Charm encountered this source response: Shows th
 
 ## SET RELATIONSHIP
 
-Within *Unreleased Beam — Witnessed Form*, The Resting Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unreleased Beam — Witnessed Form*, The Resting Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set on a day the bearer moves at the speed of something released.
 
 ---
 
