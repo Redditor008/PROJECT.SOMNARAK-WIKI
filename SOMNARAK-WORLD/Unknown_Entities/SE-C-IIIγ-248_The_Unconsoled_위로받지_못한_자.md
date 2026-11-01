@@ -44,6 +44,8 @@
 - Extraction from a load-bearing sorrow was argued over for two years before the first attempt. The Archive's objection — that removing any part of the foundation grief removes part of the foundation — was never answered, only overruled, and is minuted in the Old Lament file beside each of the three extractions.
 
 ## Combat Record
+> **Why this file keeps combat actions.** It is seated for the whole of a recorded corruption and it is not seated the rest of the time: the Movement row gives seated or slow-walking with a surveyed drift toward the Alpha Tree’s roots. A holding that walks toward the roots can close distance, which is the first thing a Contact Record has to be able to deny.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

@@ -44,6 +44,8 @@
 - Taking M.A.W. stock is its own authorised event and is never a prize hung on a clean cycle. Here the draw comes off the figure and never off the object in its hands — a distinction the briefing repeats twice, because the object is the one thing in the chamber nobody may put a hand to.
 
 ## Combat Record
+> **Why this file keeps combat actions.** It holds its ground for the whole of an appearance, and that is the only thing it holds: a glob of the flowing relic lifts off it and flies, and the file calls the result a projectile of liquefied relic-matter. The relic does not walk; it throws, and what it throws arrives.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

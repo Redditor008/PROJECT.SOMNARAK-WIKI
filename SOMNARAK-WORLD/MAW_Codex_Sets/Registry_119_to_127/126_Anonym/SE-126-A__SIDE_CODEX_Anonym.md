@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | Zone E, Border region |
 | Form | A pale melting shard in consciousness, assembling a watching figure from fragments that dissolve when focused on. |
-| Gauge / pressure | 25–40% / Void 3–10 |
+| Gauge / pressure | 198/198; starts 25–40% / Void — no attack pattern; whether a worker can still name themselves and the person beside them is the instrument |
 | Comprehension Level | 1 — Observed |
 | M.A.W. Set | Held Shape |
 

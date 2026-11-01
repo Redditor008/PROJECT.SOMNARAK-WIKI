@@ -43,51 +43,36 @@
 - Personnel are rotated on a social rather than a safety schedule. A warden who becomes familiar to one side of the junction stops being neutral furniture and starts being that side's warden, and twice the seam has drifted toward whichever side the duty officer drank tea on.
 - Extraction here removes a piece of the junction and the junction is where people live. Both completed extractions were taken from the shuttered shopfronts rather than from the seam, with the owners' written consent, and the consent forms are filed in the dossier because the Commons insisted on it.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0.0 m/s (fixed) |
-| **Resistance** | 40% against Void. The other figures are untested and will stay untested: the junction is inhabited, Pugnahan is invalid for a Place, and nobody is willing to find out what forcing the seam does to the shopfronts on either side of it. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Entity Type row says *object / place — non-breaching: expansion only; the line widens block by block when both groups are present and silent, and nothing a junction does could be called a blow*, and the Movement row says the same in one word: stationary, a place or zone, spreads rather than moves.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20+ turns |
-| **Threat Role** | Area hazard |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A four-way junction in the Mantle Commons with a side to everything. The line is not painted and not built; it is a place where a resident's feet stop, and the crossing is registered and handed back to the crosser as their own reluctance. |
+| **Perceptible to** | The stop first — a road crossed ten thousand times, and the feet will not go — then the etiquette, enforced by everybody present and decided by nobody, and afterwards remembered by none of them. |
+| **Handling** | A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, painted, paved over or officially abolished; the Commons has tried all three and the file records what each attempt cost. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 55–70% |
-| **Difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | A four-way junction in the Mantle Commons, Zone D |
+| **Valid Work Types** | Viderehan and Ferrehan, and the file says plainly that the table is nearly useless here. Viderehan maps the line, reveals which residents belong to which side, and shows how recently they were friends; Ferrehan is standing at the line long enough to become a neutral third presence both sides will approach. |
+| **Location** | A four-way junction in the Mantle Commons, Zone D |
 | **Resolution Condition** | A resident from one side speaks honestly to a resident on the other — about anything |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Step Over* [**Debuff**] } | "You are standing in the road you have crossed ten thousand times and your feet have stopped, and you cannot say what stopped them." | [The seam registers a crossing and the crosser's own reluctance is handed back to them as fact.] | *The target cannot re-cross for the remainder of the hour and will not be able to explain why to anyone who asks.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | On any crossing by a person who lives in the Commons. Visitors cross freely and feel nothing. |
-| { *The Unspoken Rule* [**Debuff**] } | "Everyone on the far pavement is being perfectly polite to you, and you understand that you have done something, and so do they, and nobody will say it." | [The junction's unwritten etiquette is enforced by the people in it, without any of them deciding to.] | *The target's Clarity falls and keeps falling while they remain; the residents enforcing it will later have no memory of having done so.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | After roughly four minutes on the opposite side. |
-| { *The Redraw* [**Attack**] } | "It moves, and it does not move around you." | [The seam re-draws on a new bearing and takes the nearest person as its new reference point.] | *2 Void, and the target's own household is afterward on two different sides of the junction.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When anyone attempts to mark, paint, or physically erase the seam. |
-| { *The Taboo* [**Attack**] } | "Five years of mornings nobody brought tea arrive in one piece, and they arrive in the order they happened." | [Every uncrossed day since the division is counted out against whoever forced the seam.] | *3 Void and a 15% Gauge surge; the target can afterward name every neighbour they stopped speaking to and the date each one stopped.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the seam is forced, paved over, or officially abolished. The Commons has tried all three. |
-| { *Every Line at Once* [**Ultimate**] } | "The Commons wakes up and every doorway has a side, every stairwell has a side, and the market has four." | [The division propagates along the district's existing social seams — trade, parish, shift pattern — all at once.] | *2 Void per cycle for three cycles to everyone in the Commons; afterward the new seams persist at reduced strength and must each be closed by conversation like the original.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Above 65%, and only ever at dawn — all four recorded propagations began between first light and the opening of the market. |
+| Event | What the line does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Step Over* [**Register**] } | Registers a crossing and hands the crosser's own reluctance back to them as a fact, so that the feet stop and the person cannot say what stopped them. Visitors cross freely and feel nothing. | Confirms the line by asking residents rather than by measuring the junction, and records who lives on which side. | The line exists where the people who live here say it does, and it is invisible to anybody who does not. That is why the register is taken from residents and not from a survey — a plan of this junction would show four roads and no seam. |
+| { *The Unspoken Rule* [**Exposure**] } | Enforces the junction's etiquette through everybody in it, without any of them deciding to, and the residents enforcing it will later have no memory of having done so. | Keeps the watch on the neutral ground, and records what was said rather than asking anybody afterwards what they meant. | The enforcement is unanimous and unattributable, which is why the record is written at the time. Asking afterwards returns politeness and no memory, and the file notes that the residents are not lying. |
+| { *The Redraw* [**Refusal**] } | Re-draws on a new bearing and takes the nearest person as the reference point — it moves, and it does not move around you. | Does not mark, paint or physically erase the seam, and re-surveys the line's bearing by resident report after any attempt that has already happened. | The redraw is the file's only movement and it is a boundary arriving somewhere else, not a blow. What it costs is a household split across a junction — after which the same address is on two sides of a line nobody drew. |
+| { *Every Line at Once* [**Overload**] } | Propagates along the district's existing seams — trade, parish, shift pattern — until every doorway has a side, every stairwell has a side and the market has four. | Stands the whole Commons down, records the new seams individually, and closes them one conversation at a time rather than at once. | The new seams persist at reduced strength afterwards and each must be closed by conversation like the original. That sentence is the reason the close is a spoken exchange between two residents and not a containment state: this line is undone by the same act that made it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team reads the board before anything else — the running total of metres closed, posted at the fountain — and notes the date of the last entry. A board that has not moved in nine days is the operational warning this entity gives, and it is the only one.
-2. **Clash:** There is nothing to fight and the team does not try. The work consists of being present at the fountain, which is the one object both sides still claim, and of being visibly useless there — the junction's residents will cross to speak to a warden who is plainly not doing anything, and will not cross to one who is working.
-3. **Resolution:** Somebody says something true across the seam. It does not have to be large and the record is explicit that it usually is not — the largest single contraction on file, a metre and a half, followed a complaint about the price of lamp oil.
+1. **What is confirmed:** the line's position by resident report, which residents live on which side, and the neutral ground the watch will stand on.
+2. **What the watch does:** Viderehan for the map of the line and the friendships it has already cut, and Ferrehan for standing at the junction long enough to be approachable by both sides.
+3. **How it closes:** the close is the file's documented condition: **A resident from one side speaks honestly to a resident on the other — about anything** — and the line closes by conversation, which is the only thing that has ever closed one.
 
 ### Consequences
 

@@ -45,6 +45,8 @@
 - Recovery of anything left inside the five-metre line is separately authorised and is carried out by a second Warden, never by the person who dropped it.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The Stone Fist comes down. The statue is stationary and Pugnahan is prohibited at it, but the file records the fist arriving on whoever is standing in front of it, and a blow that lands is a blow whatever the rest of the body is doing.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

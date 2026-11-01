@@ -45,6 +45,8 @@
 - Extraction is separately authorised and is cut from plaster around a closed position, never from an open eye.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The Reach is exactly what a Contact Record cannot describe: a limb comes out of the plaster and takes hold of a person. Eleven reaches are on file and four of those were swallowed, and nothing in the dossier denies a single one of them.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

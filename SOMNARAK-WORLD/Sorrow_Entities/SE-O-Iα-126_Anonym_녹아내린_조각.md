@@ -43,51 +43,36 @@
 - A yield of 10–14 at Low difficulty conceals an unusual demand: this entity is worked in the mind and the exposure is to the worker's sense of who they are, which recovers slowly and is not detected by any screening the facility currently runs at shift end.
 - Extraction from an entity with no vessel is performed entirely in perception, and the operative performing it is the only instrument available. It is scheduled separately, with a second worker present whose sole duty is to use the operative's name at intervals.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | Not a quantity here — the Shard occupies no space and does not travel; it is perceived inside consciousness and spreads through the awareness of whoever is on the border line. |
-| **Resistance** | 15% against Void pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Entity Type row says *nothing leaves, because nothing was ever in one place*, and its own third row says it twice: nothing splashes, nothing lands on anybody, it cannot touch anyone and has never produced an injury. The fourth row adds the other half — it cannot be struck, having no vessel — so there is nothing here to fight and nothing here that fights.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A border-region shard perceived inside consciousness rather than standing anywhere, spreading through the awareness of whoever is on the line. Nothing drips that is not a description of the visitor, and the floor stays dry. |
+| **Perceptible to** | An outline going blurry at the edges, and the inability to say where the visitor stops and the air begins; then the identity beginning to run while the memory stays intact, which is why it is missed. |
+| **Handling** | Use names and present anchors, and do not force a fixed identity. Confident assertions of what something is are the wound here: confrontation insists on what a thing is, and the insisting is the harm. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone E, Border region |
+| **Valid Work Types** | All four have responses and only two are safe. Flerehan holds it together around shared grief, giving more fragments held longer and never attempting a face; Ferrehan is staying the full interval and remaining recognisable to yourself while the grounds for that dissolve. Pugnahan melts it faster and pushes it further into thought. |
+| **Location** | Zone E, Border region |
 | **Resolution Condition** | Use names and present anchors; do not force a fixed identity |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Soft Edge* [**Debuff**] } | "Your outline goes blurry at the edges — and you cannot tell where you stop and the air begins." | [The Shard melts the target's boundaries; definition fails.] | *Target suffers a Void mark; they are less solid than they were.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Shard is approached. |
-| { *The Run* [**Debuff**] } | "Something drips — and you realize with horror that it is you." | [The target begins to lose cohesion; identity runs.] | *Target loses clarity; they cannot hold their shape together.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers in the melt. |
-| { *The Pool* [**Attack**] } | "Nothing splashes and nothing lands on anybody — it cannot touch anyone and has never produced an injury. What arrives is a description: the target hears themselves accurately recorded as somebody they are not." | [No glob of melted self exists to strike with; identity confidence dissolves while memory stays intact, which is why it is missed.] | *Inflicts Void damage; the record is recited correctly and stops being believed.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When somebody is told, with complete confidence, what they are. |
-| { *The Dissolve* [**Attack**] } | "The melting accelerates — and everything you were comes apart at once." | [The edges of whoever is nearest start going soft, and the softening runs inward faster than anybody can name what is being lost.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | Under Pugnahan, or any confident assertion of a fixed identity — it cannot be struck, having no vessel. |
-| { *The Puddle* [**Ultimate**] } | "The floor stays dry. What goes is the room's grip on its own roster: two people on the same shift give different accounts of who was present." | [The melt stops being a property of the figure and becomes the room's willingness to let its own edges go; personnel stop using one another's names, then stop noticing.] | *All in range suffer Void erosion for three turns as names fail.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the shard does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Soft Edge* [**Register**] } | Melts the boundary of whoever approaches until definition fails and they are less solid than they were, without anything leaving the border region. | Posts a named anchor — one person, one name, one present fact — before anybody steps onto the line. | The register is a name. The holding's whole method is the erosion of names, so the watch begins by proving one, out loud, in the present tense, before any work starts. |
+| { *The Run* [**Exposure**] } | Begins losing cohesion in the visitor while leaving memory intact, so that the person can still describe themselves accurately and no longer believes the description. | Ends the interval on the clock, and asks each worker to name themselves and the person beside them before leaving the zone. | Identity confidence goes and memory stays, which is why it is missed. The file's own account of the harm is that the record is recited correctly and then stops being believed — a thing only another person can catch. |
+| { *The Pool* [**Refusal**] } | Does nothing to anybody. What arrives is a description: the target hears themselves accurately recorded as somebody they are not, and there is no glob of melted self anywhere that could strike them. | Does not argue with the description, does not correct it, and does not supply a better one; the anchor is restated and the turn ends. | The temptation is to answer a false description with a true one, and a true one is still an assertion of a fixed identity — the exact thing this holding feeds on. The response is a name, not a case. |
+| { *The Puddle* [**Overload**] } | Stops being a property of the figure and becomes the room's willingness to let its own edges go: personnel stop using one another's names, and then stop noticing. | Ends the watch, restores names pair by pair from the roster, and does not reopen the zone until every present person has been named by somebody else. | The floor stays dry throughout. What goes is the room's grip on its own roster, and the recovery is the reverse of that: two people, one name each, said aloud until both are believed. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team registers the Shard inside awareness rather than in the room, confirms each member can still state their own name and posting without hesitation, and agrees who will speak the names aloud during the cycle.
-2. **Clash:** Ten turns, none of them physical. Flerehan and Ferrehan bring the gauge down, Viderehan holds it level, and Pugnahan melts the figure faster and pushes it further through thought — so the engagement is decided by how the party speaks to each other while it is present.
-3. **Resolution:** The cycle closes with names used aloud, present-tense anchors running, and no fixed identity imposed on anybody in the room. The registration carries the file's own condition: **use names and present anchors; do not force a fixed identity** — the clause that costs relief crews the most, because the decent instinct at the counter is to settle the question of who somebody is.
+1. **What is confirmed:** the named anchor in the present tense, the interval marked on the clock, and who will name whom on the way out.
+2. **What the watch does:** Flerehan for holding together around shared grief and Ferrehan for staying recognisable to yourself, with present anchors supplied from the roster and no fixed identity asserted at anyone.
+3. **How it closes:** the close is the file's documented condition: **Use names and present anchors; do not force a fixed identity** — and the zone does not reopen until every present person has been named by somebody else.
 
 ### Consequences
 

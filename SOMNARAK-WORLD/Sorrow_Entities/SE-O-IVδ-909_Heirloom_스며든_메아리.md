@@ -44,6 +44,8 @@
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. This source yields no vessel to break, so extraction is taken from the sound itself, and the δ-grade set that results carries the source's defining property — it repeats.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The chamber keeps its position and the sound does not. Under provocation the echo sharpens to a single cutting frequency and lands on a worker as their own voice weaponised — a focused strike in the file’s words, arriving from a fixed room that never moves to deliver it.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

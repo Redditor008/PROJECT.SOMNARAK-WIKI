@@ -43,51 +43,36 @@
 - The exposure is the party's own vocabulary. Nothing here reaches for anybody; everything that has happened in this sector was described by a person first.
 - Three pieces, extracted under a written plan with no spoken word exchanged at any point. The plan ran to eleven pages because every instruction had to be unambiguous on paper.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Lament. There is nothing present to resist — the sector is open ground — and what arrives in it has the properties of whatever was described, which is why the resistance column has never been usable here. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 30–38 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the utterance log manifests at once across the fixed sector and nothing travels*, and the file's whole method is a negative one: the party leaves having added nothing to the sector. The only weapon in this file is a sentence, and it is carried in by the visitor.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Critical tale-manifestation hazard; not a Sovereign classification |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A fixed sector where what is described arrives with the properties stated and no others. Nothing about it is visible between cycles; the ground gets ready, and it becomes obvious that something is about to. |
+| **Perceptible to** | The lag between a spoken word and its arrival, running four to forty seconds and never once exceeding a minute — the only reliable warning the sector gives, and it is given after the mistake. |
+| **Handling** | Silence. The whole watch is kept without speaking aloud, and the inventory is walked photographically. A lower gauge does not erase a claw mark or establish that a description is safe. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-O-930 |
+| **Valid Work Types** | Viderehan and Ferrehan only. Observation is the silent inventory walk and the photographic comparison; endurance is keeping the entire watch without speaking, which is the whole of the discipline this holding asks for. |
+| **Location** | SECTOR-O-930, contained |
 | **Resolution Condition** | The party leaves the sector having added nothing to it. 61 silent cycles have closed that way; four have not, and all four are in the utterance log with the teller's name. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "The ground gets ready. Nothing changes; it simply becomes obvious that something is about to." | [The sector's response to a voice begins before the sentence is finished.] | *10 Lament to the speaker; the lag between the words and the manifestation runs 4 to 40 seconds and has never exceeded a minute.* **[10 Lament DMG [Lament]]** | The moment anybody speaks aloud. |
-| { *The Tale Surge* [**Attack**] } | "What you described is here, and it is exactly as you described it." | [The manifestation arrives with the properties stated and no others.] | *18 Lament to the teller. Fidelity is total: the Year 4,231 wolf had the limp the teller gave it.* **[18 Lament DMG [Lament]]** | On completion of any spoken description. |
-| { *The Settling* [**Attack**] } | "Somebody tells a story with a person in it." | [A named human being is described and the sector supplies one.] | *22 Lament. It has happened once. The figure matched the description, answered to the name, and was still there when the party withdrew.* **[22 Lament DMG [Lament]]** | When any description includes a person. Prohibited absolutely since Year 4,232. |
-| { *The Tale Collapse* [**Ultimate**] } | "Everything anybody has ever said here happens again, at once." | [The whole utterance log manifests simultaneously across the sector.] | *20 Lament per cycle for three cycles to everyone inside.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, in Year 4,234; twenty manifestations ran together for nine minutes and all of them are still there. |
+| Event | What the sector does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Begins responding to a voice before the sentence is finished, so that the ground is already preparing while the words are still being said. | Confirms the sector from the perimeter with the inventory walk, and records the lag on the first cycle as a baseline for the watch. | Sixty-one cycles have closed with nothing added. That count is the register: a holding whose baseline is silence is identified by how long it can be kept, not by what appears in it. |
+| { *The Tale Surge* [**Exposure**] } | Arrives exactly as described — no more and no less — and the fidelity is total: the Year 4,231 wolf had the limp the teller gave it. | Ends the walk on the first spoken word, photographs whatever arrived, and debriefs in writing rather than aloud. | The fidelity is the warning. A sector that supplies exactly what is described is a sector that supplies nothing on its own, and every difference between two manifest versions came from two different tellers. |
+| { *The Settling* [**Refusal**] } | Supplies a named human being when one is described — happened once, matched the description, answered to the name, and was still there when the party withdrew. Prohibited absolutely since Year 4,232. | Speaks no description containing a person, and does not test the prohibition to see whether it still holds. | The file does not close this event and does not try to. What it does instead is put the prohibition in the sharpest language it owns, and the response is a rule rather than a procedure: nobody describes anybody here. |
+| { *The Tale Collapse* [**Overload**] } | Runs the whole utterance log at once — everything anybody has ever said in the sector — for nine minutes, and every manifestation stays afterwards. | Withdraws, closes the sector, and re-inventories from the perimeter before any attempt to sort what is there from what was described. | Twenty manifestations ran together in Year 4,234 and all of them are still there. That is why the close is a count of what was added and not a count of what was removed: nothing here has ever been removed. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Hand signals are agreed at the boundary, the written work plan is distributed, and the party enters without speaking. Nobody carries a radio and nobody works this sector alone, for the obvious reason.
-2. **Clash:** None. There is nothing to engage. The station has asked for the row to be struck and has been refused twice on the grounds that the form is standard.
-3. **Resolution:** The party leaves and the inventory is checked against the last one: twenty manifestations, photographed, unchanged. A cycle adds nothing to the inventory, which is the only success condition this holding has. It closes against the documented suppression condition: **A cycle adds nothing to the inventory, which is the only success condition this holding has**.
+1. **What is confirmed:** the perimeter and the inventory photographs, the lag baseline taken on the first cycle, and the silence of everybody on the watch.
+2. **What the watch does:** Viderehan for the silent inventory walk and Ferrehan for keeping the whole watch without speaking, with nothing described aloud at any point.
+3. **How it closes:** the close is the file's documented condition: **The party leaves the sector having added nothing to it** — sixty-one cycles have closed that way, and the four that did not are in the log with the teller's name.
 
 ### Consequences
 

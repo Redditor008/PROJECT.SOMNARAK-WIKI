@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Three where the only weapon is a sentence (2026-11-01)
+
+Twentieth batch. All three sit in the same corner of the archive — a thing that harms by describing, naming or forgetting — and all three say so in their own text without any help from this pass.
+
+- **Once Told** (`O-IVδ-930`) — a sector where what is described arrives with the properties stated and no others. *Nothing travels*, the Entity Type row says, and the only thing that ever damaged anybody here was a spoken sentence, carried in by the visitor. Sixty-one silent cycles have closed clean; the four that did not are in the log with the teller's name.
+- **Anonym** (`O-Iα-126`) — the most explicit denial in the archive: *nothing splashes and nothing lands on anybody, it cannot touch anyone and has never produced an injury*, and in the next row *it cannot be struck, having no vessel*. Identity confidence goes while memory stays, which is why it is missed, and the recovery is two people naming each other until both are believed.
+- **The Unspoken Line** (`C-IVδ-251`) — a junction where a resident's feet stop. The line is not painted and not built; it is undone by the same act that made it, which is one honest sentence between two neighbours. Its own Work Type notes said the table was nearly useless here, and the record now agrees.
+
+**Three keepers.** **Relic of a Thousand Owners** (`O-IVδ-792`) — a glob of the relic lifts and flies, and the file calls the result a projectile. **Heirloom** (`O-IVδ-909`) — the echo sharpens to a cutting frequency and lands as a focused strike from a room that never moves. **The Unconsoled** (`C-IIIγ-248`) — seated during a recorded corruption, and slow-walking with a surveyed drift the rest of the time; a holding that walks toward the roots can close distance.
+
+**Two older keepers given their reason.** Rage Statue (`C-IIIγ-190`) and Panopticon (`C-IIβ-235`) were decided as keepers two batches ago and had the combat record but not the justification above it. Both now carry it, and every combat record left in this queue has one.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and thirty-three Contact Records; 8 combat keepers carry a rationale blockquote.**
+
 ## Four hours and an absence (2026-11-01)
 
 Nineteenth batch. Four conversions, two keepers, and one dangling cross-reference caught by the linter for the first time.
