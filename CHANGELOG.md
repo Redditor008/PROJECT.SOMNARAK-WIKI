@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The same three sentences, nine more records (batch 78)
+
+`SE-767` Swallow, `SE-775` Cleaved, `SE-777` Last Fruit: **nine records, twenty-seven sentences**, each written from that record's own cost line — the Fading Requiem now holds its set only while every call goes into a gap the wielder was given; the Torn Veil loses the set the first time its wearer cannot describe themselves; the Burning Seed drops out the day the want is said aloud before it is spent. The escalation bullets go the same way: the Fading Charm's forgetting spreads to everyone who has the bearer's name in writing, the Torn Keystone starts steadying things nobody asked it to steady.
+
+**Progress: 15 of the 345 records carry their own escalation and resonance sentences. 330 remain**, and the change is mechanical to extend — each set is read once, and its three pieces are written against the three cost lines that already sit in the record.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Escalation and resonance written per item, and a stripped name repaired (batch 77)
 
 Three sentences sit in all **345** modern codex records word for word, and none of them is in a template, a guide or the standard:

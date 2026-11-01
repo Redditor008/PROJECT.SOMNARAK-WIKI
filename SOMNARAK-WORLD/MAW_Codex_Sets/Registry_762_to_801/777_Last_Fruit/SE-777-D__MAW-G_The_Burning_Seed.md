@@ -32,12 +32,12 @@ The Burning Seed is the stigma record of Last Fruit’s set — tail-slot, besto
 
 ## ITEM-SPECIFIC HISTORY — *The Last Fruit Source-Trace: Stigma Record*
 
-The first bearer of The Burning Seed encountered this source response: Reveals the desire beneath the anger. The stigma interrupts the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Burning Seed encountered this source response: Reveals the desire beneath the anger. The stigma interrupts the immediate hazard only after the team attributed it to Last Fruit. A bearer used the Seed to be strong without saying what for, and the force outlived the want; the binding dates from that shift.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Last Fruit's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the strength stays after the unspoken want has been spent, and it answers to nothing the bearer can name.
 - Terminal state: Last Fruit's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Name the desire; do not promise to fulfill it” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Burning Seed encountered this source response: Reveals t
 
 ## SET RELATIONSHIP
 
-Within *Last Fruit — Witnessed Form*, The Burning Seed performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Last Fruit — Witnessed Form*, The Burning Seed performs the stigma role while the other pieces preserve attribution and survival. The Seed drops out of the set the first time the bearer says the want aloud before spending it.
 
 ---
 

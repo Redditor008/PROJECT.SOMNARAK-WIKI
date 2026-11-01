@@ -32,12 +32,12 @@ The Torn Keystone is the stigma record of Cleaved’s set — head-slot, bestowe
 
 ## ITEM-SPECIFIC HISTORY — *The Cleaved Source-Trace: Stigma Record*
 
-The first bearer of The Torn Keystone encountered this source response: Reveals the planned building and the people who would have lived there. The stigma severs the immediate hazard only after the team attributed it to Cleaved. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Keystone encountered this source response: Reveals the planned building and the people who would have lived there. The stigma severs the immediate hazard only after the team attributed it to Cleaved. A bearer spent certainties until they could hold a wall and not their own name, and the Keystone's binding is the record of that wall.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Cleaved's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the Keystone begins steadying things nobody asked it to steady, and takes its bearings from whoever is nearest.
 - Terminal state: Cleaved's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not complete the structure; document what was intended and lost” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Torn Keystone encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Cleaved — Witnessed Form*, The Torn Keystone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cleaved — Witnessed Form*, The Torn Keystone performs the stigma role while the other pieces preserve attribution and survival. The Keystone drops out of resonance when it steadies something that was not falling.
 
 ---
 

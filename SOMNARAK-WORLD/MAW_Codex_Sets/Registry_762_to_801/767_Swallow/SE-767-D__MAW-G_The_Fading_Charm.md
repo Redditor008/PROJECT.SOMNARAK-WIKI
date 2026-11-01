@@ -32,12 +32,12 @@ The Fading Charm is the stigma record of Swallow’s set — tail-slot, bestowed
 
 ## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Stigma Record*
 
-The first bearer of The Fading Charm encountered this source response: Reveals the people whose sorrow feeds it. The stigma stays the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Charm encountered this source response: Reveals the people whose sorrow feeds it. The stigma stays the immediate hazard only after the team attributed it to Swallow. A bearer gave until nobody could place them, and the Charm's binding is written from an introduction that was never returned.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Swallow's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the forgetting spreads past the bearer to everyone who has their name in writing.
 - Terminal state: Swallow's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Name the source of the grief and return emotional ownership” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Fading Charm encountered this source response: Reveals t
 
 ## SET RELATIONSHIP
 
-Within *Swallow — Witnessed Form*, The Fading Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Swallow — Witnessed Form*, The Fading Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the moment somebody remembers the bearer without being reminded to.
 
 ---
 

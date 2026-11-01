@@ -33,12 +33,12 @@ The Torn Veil is the suit record of Cleaved’s set, granting resistance to Void
 
 ## ITEM-SPECIFIC HISTORY — *The Cleaved Source-Trace: Suit Record*
 
-The first bearer of The Torn Veil encountered this source response: Forces the worker to endure the feeling of almost-arrival. The suit stabilizes the immediate hazard only after the team attributed it to Cleaved. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Veil encountered this source response: Forces the worker to endure the feeling of almost-arrival. The suit stabilizes the immediate hazard only after the team attributed it to Cleaved. A wearer let the thinning stand as their own choice, and the Veil stopped keeping a description at all; the binding follows that deployment.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Cleaved's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wearer is walked past in corridors they have worked for years, and does not correct anyone.
 - Terminal state: Cleaved's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not complete the structure; document what was intended and lost” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Torn Veil encountered this source response: Forces the w
 
 ## SET RELATIONSHIP
 
-Within *Cleaved — Witnessed Form*, The Torn Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cleaved — Witnessed Form*, The Torn Veil performs the suit role while the other pieces preserve attribution and survival. The set holds only while the wearer can still describe themselves; the first blank takes the Veil out of it.
 
 ---
 

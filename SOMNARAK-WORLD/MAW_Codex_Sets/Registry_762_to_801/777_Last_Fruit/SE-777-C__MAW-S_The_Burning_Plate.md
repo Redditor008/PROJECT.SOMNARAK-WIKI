@@ -33,12 +33,12 @@ The Burning Plate is the suit record of Last Fruit’s set, granting resistance 
 
 ## ITEM-SPECIFIC HISTORY — *The Last Fruit Source-Trace: Suit Record*
 
-The first bearer of The Burning Plate encountered this source response: Tests whether the worker can remain near what they want but cannot have. The suit isolates the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Burning Plate encountered this source response: Tests whether the worker can remain near what they want but cannot have. The suit isolates the immediate hazard only after the team attributed it to Last Fruit. A wearer refused so completely that the Plate read the refusal as armour and stopped letting anything in; the binding is written from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Last Fruit's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wants pare back to what is already in the hand, and then the hand stops reaching for it.
 - Terminal state: Last Fruit's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Name the desire; do not promise to fulfill it” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Burning Plate encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Last Fruit — Witnessed Form*, The Burning Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Last Fruit — Witnessed Form*, The Burning Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still reaches for one thing; the Plate drops out on the day they stop.
 
 ---
 

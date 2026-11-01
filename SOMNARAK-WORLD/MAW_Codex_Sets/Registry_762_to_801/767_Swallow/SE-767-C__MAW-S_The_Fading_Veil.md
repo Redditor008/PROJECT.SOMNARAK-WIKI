@@ -33,12 +33,12 @@ The Fading Veil is the suit record of Swallow’s set, and its canonical ability
 
 ## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Suit Record*
 
-The first bearer of The Fading Veil encountered this source response: Tests whether the worker can carry grief without claiming it. The suit redirects the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Veil encountered this source response: Tests whether the worker can carry grief without claiming it. The suit redirects the immediate hazard only after the team attributed it to Swallow. A wearer read the absorbed panic as their own and could not set it down, and the Veil has been bound to that reading since.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Swallow's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cloth stops taking one surge and begins taking every feeling in the room, in the order they arrive.
 - Terminal state: Swallow's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Name the source of the grief and return emotional ownership” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Fading Veil encountered this source response: Tests whet
 
 ## SET RELATIONSHIP
 
-Within *Swallow — Witnessed Form*, The Fading Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Swallow — Witnessed Form*, The Fading Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the Veil carries one surge only; a second one in the cloth takes it out of the set.
 
 ---
 

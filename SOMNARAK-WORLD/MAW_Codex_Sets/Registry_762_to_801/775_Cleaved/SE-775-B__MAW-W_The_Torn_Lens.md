@@ -33,12 +33,12 @@ The Torn Lens is the weapon record of Cleaved’s set, a Void instrument attacki
 
 ## ITEM-SPECIFIC HISTORY — *The Cleaved Source-Trace: Weapon Record*
 
-The first bearer of The Torn Lens encountered this source response: It splits further and burns through nearby walls. The weapon opens the immediate hazard only after the team attributed it to Cleaved. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Lens encountered this source response: It splits further and burns through nearby walls. The weapon opens the immediate hazard only after the team attributed it to Cleaved. A wielder named the missing stair a personal loss, and the Lens took something with a name in it; the bind was written then.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Cleaved's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the gaps stop being small and nameless, and the wielder's own account of the week has a hole they cannot see.
 - Terminal state: Cleaved's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not complete the structure; document what was intended and lost” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Torn Lens encountered this source response: It splits fu
 
 ## SET RELATIONSHIP
 
-Within *Cleaved — Witnessed Form*, The Torn Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cleaved — Witnessed Form*, The Torn Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on the first blow struck at a target that is finished.
 
 ---
 
