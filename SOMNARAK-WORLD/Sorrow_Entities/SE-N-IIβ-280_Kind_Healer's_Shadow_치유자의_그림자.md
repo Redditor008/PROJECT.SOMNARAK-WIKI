@@ -185,7 +185,7 @@ Capillary fullers are etched into the flat in the layout of a ward dosing chart,
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Kind Healer's Shadow's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder hears the Commons call bell at the cleaver's pitch when the bell is not ringing, and checks the corridor to be sure.
 
 ### M.A.W. Suit — The Healer's Shroud
 

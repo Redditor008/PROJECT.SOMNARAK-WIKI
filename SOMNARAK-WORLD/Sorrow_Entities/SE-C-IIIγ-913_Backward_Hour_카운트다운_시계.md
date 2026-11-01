@@ -177,7 +177,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 **Ability:** Grudge against the Mind. Struck targets spend the following hour certain that something of theirs is about to expire, and in four of fourteen cases they were right.
 
-**Cost:** The wielder experiences mild memory fragmentation with each use.
+**Cost:** The wielder keeps the hour afterwards — certain that something of theirs is about to expire, unable to say which, and right about it two times in seven.
 
 ### M.A.W. Suit — Backward Hour's Veil
 

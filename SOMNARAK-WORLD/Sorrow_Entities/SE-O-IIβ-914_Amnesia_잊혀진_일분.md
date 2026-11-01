@@ -165,7 +165,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Damage:** Void 11–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** The struck target cannot say, for about a minute afterward, what they were doing immediately before the strike. They retain their name and their face; it is only the intention that goes, which is the holding's first symptom and the only part of it the Armoury was able to take.
-**Cost:** The wielder experiences mild memory fragmentation with each use.
+**Cost:** The wielder loses the minute before the strike: the intention goes first, exactly as it does in the quarry, and the name and the face stay.
 
 ### M.A.W. Suit — Amnesia's Veil
 

@@ -189,7 +189,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Ability:** *Soul-Seeker Conflagration* — Unleashes tracking purple flame wisps across Range 4 (Long). The wisps home onto target weak points, bypassing cover to inflict heavy Lament damage that erodes Composure and triggers panic buildup.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder watches shadows for the flare in rooms where the bodkin was never drawn, and cannot tell afterwards whether the marking went out with the wisp.
 
 **Bodkin return:** The individual Weapon entry requires the bearer, trigger, source response, cost and unresolved detail to survive into attribution review before cleaning or rest. Its first warning is describing the evacuation’s unfinished mourning as personal history, beyond the involuntary weeping already priced here. A named witness states the source title and event during relinquishment, without refunding the cost. That is an equipment shutdown record, not authority to speak in the vault, confront the Place or perform the interrupted ceremony. The source event is not completed by reciting its description.
 

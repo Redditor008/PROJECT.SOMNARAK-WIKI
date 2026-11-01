@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The last eight stock weapon costs (2026-11-01)
+
+With these, no weapon or suit block in the archive charges a stock sentence. Four Lament pieces took *the entity's unwept grief, prolonged use causes involuntary weeping*, and four took *mild memory fragmentation*.
+
+The Watcher's Unblinking Eye leaves its wielder seeing what the eye outlined in blue in rooms where nothing is being worked. The Vigil Hand-Cannon leaves them counting the lantern's flicker instead of sleeping. The Candelabrum Bodkin leaves them watching shadows for a flare in rooms where the weapon was never drawn. The Surgeon's Cleaver leaves them hearing the Commons call bell at the cleaver's own pitch.
+
+Backward Hour's Edge leaves its wielder with the hour the targets get — certain something of theirs is about to expire, right two times in seven. Duri's Heart's Edge will not let the bearer's own heart rise to a chase or an alarm. Passing Bell's Edge leaves its wielder unsure which conversations they were in. The Driftglass Harpoon-Pike takes the intention out of the minute before the strike, and leaves the name and the face, exactly as the holding does.
+
+The same stock families remain in the side-codex item records, which are a separate layer and are now the whole of the remaining queue for this defect: 345 `**Operational / binding cost:**` lines, each ending with the same *continued use makes the source sorrow feel autobiographical* clause.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0.
+
+
 ## Ten mauls and blades that had stopped saying what they take (2026-11-01)
 
 Two more cost sentences, ten more pieces: *progressively heavier; prolonged use ages them slightly* on five Weight mauls, and *chronic fatigue in the dominant hand* on five Edges. The first was describing an age cost the archive nowhere else supports; the second described a hand, on five blades whose actual work is done on the target's memory of events.

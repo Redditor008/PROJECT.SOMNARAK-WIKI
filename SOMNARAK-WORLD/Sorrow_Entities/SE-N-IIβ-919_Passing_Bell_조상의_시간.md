@@ -174,7 +174,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 **Ability:** Struck targets hear, for a few seconds, a conversation they are not part of. Fourteen strikes, fourteen reports, and in four of them the target recognised a voice.
 
-**Cost:** The wielder experiences mild memory fragmentation with each use.
+**Cost:** The wielder stops being sure which conversations they were actually in, and the piece offers no test for it.
 
 ### M.A.W. Suit — Passing Bell's Veil
 

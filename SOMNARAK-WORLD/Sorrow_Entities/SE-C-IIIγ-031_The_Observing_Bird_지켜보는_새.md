@@ -189,7 +189,7 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 **Ability:** *All-Seeing Drain* — Deals Lament damage across Range 5 (Room). Every hostile entity within the bearer's direct field of view continuously loses Han / Mind stability over time. While not an instant burst, the unrelenting psychological pressure wears down target defenses and inflicts steady tick damage until the target collapses.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder keeps seeing what the eye has outlined in blue — the concealed thing, the unacknowledged grief — in rooms where nothing is being worked and there is no way to stop looking.
 
 ### M.A.W. Suit — The Feathered Shroud of Scrutiny
 

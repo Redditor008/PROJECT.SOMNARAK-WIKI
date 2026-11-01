@@ -213,7 +213,7 @@ Escalation here is uniquely predictable. The beat does not vary, the step does n
 
 **Ability:** Weight against the Body. Struck targets' hearts hold a steady rate for some hours regardless of what happens to them, which fourteen targets have described as the calmest and worst experience of their service.
 
-**Cost:** The wielder experiences mild memory fragmentation with each use.
+**Cost:** The wielder cannot get their own heart to rise to anything, not a chase and not an alarm, and the calm in the chest is not theirs.
 
 ### M.A.W. Suit — Duri's Heart's Veil
 

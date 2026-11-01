@@ -190,7 +190,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Memory Rain's lament signature in the strike.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder counts the lantern's flicker instead of sleeping, because the flicker is the only reading the piece gives and it is worst in a quiet room.
 
 ### M.A.W. Suit — The Memory Umbrella
 
