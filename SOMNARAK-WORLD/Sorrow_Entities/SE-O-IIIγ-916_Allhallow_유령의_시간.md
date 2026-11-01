@@ -188,6 +188,7 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** *Sixty* — it goes cold at the hour's end, measured from the first walker, across every occurrence on file. Bearers describe the cold as the most reliable fact in the district.
+**Bearer cost:** The cold at the hour's end is the most reliable fact in the district, and the bearer trusts it the way other people trust a clock — which is why they are still in the line when it closes.
 *A Token is found at a marker post after an hour in which the two counts came within ten of each other. Three pieces, three close reconciliations; nothing has ever been recovered from an hour the posts disagreed on.*
 
 **Token bearer limit:** The linked Stigma records dreams in tears from the source sorrow and waking with another person's grief. That bearer cost is distinct from finding a token after close tallies, and a source-work bonus does not establish the identity of a face in the column.

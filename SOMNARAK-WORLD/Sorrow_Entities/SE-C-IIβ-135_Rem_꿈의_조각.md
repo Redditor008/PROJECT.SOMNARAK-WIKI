@@ -193,6 +193,7 @@ The escalation signal on this holding is agreement, not violence. Personnel reco
 **Range:** 4 (Long: 4–12m levitating strikes)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
+**Bearer cost:** Sustaining the cage drains cognitive stamina: the wielder cannot run while it holds, and for a while afterwards cannot remember deciding anything at all.
 
 **Attack Pattern:** Tri-Prism Dart / Somnolent Orbit
 **Target Coverage:** Designated single target or 3 converging vectors

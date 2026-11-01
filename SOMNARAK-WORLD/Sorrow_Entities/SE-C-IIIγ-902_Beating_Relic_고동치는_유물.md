@@ -213,6 +213,7 @@ Escalation here is transfer. The relic cannot leave the plinth under its own pow
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity; the token is warm at all times and does not beat.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
+**Bearer cost:** The Token beats with the relic: worn, the bearer's own pulse falls into the stone's rhythm, and a hand's width of their chest is always a beat behind.
 *The Token is neither manufactured nor requisitioned. It has gone out three times, in each case to a Warden who released the relic at the protocol time while in the middle of making a point.*
 
 **Token cost and custody:** Use sharpens old injuries and old resentments; log both rather than record only the warm coin and source-work bonus. The token does not beat, so neither its warmth nor the bearer’s certainty is a substitute for the separately counted source tempo. Review attribution before cleaning or resting it. A named witness attends relinquishment without treating a first-person account of the Pits as recovered history. Continued autobiographical identification is a corrosion sign, not evidence that the bearer has become Goru, and no return refunds the cost.

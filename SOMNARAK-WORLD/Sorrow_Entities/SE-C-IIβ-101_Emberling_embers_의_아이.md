@@ -186,6 +186,7 @@ Emberling is a Subject with Subject-Body manifestation and Lament expression, he
 **Range:** 4 (Long: 6–18m standoff)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
+**Bearer cost:** The carbine vents onto the wielder's own gloves: each shot raises their body temperature and singes what they wear, and they stop feeling the heat before they stop taking it.
 
 **Attack Pattern:** Incandescent Cinder Blast / Area Spark Igniter
 **Target Coverage:** Forward cone; up to 3 targets

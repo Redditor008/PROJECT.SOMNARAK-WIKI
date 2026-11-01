@@ -197,6 +197,7 @@ Escalation here is spatial and slow. Record the flow at onset, the level against
 **Range:** 4 (Long: 4–7m spray)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The basin condenses sorrow into the wielder's hands: sustained use induces weeping and blurs their sight, so the last thing they see clearly in a fight is the first thing they will regret.
 
 **Attack Pattern:** Conical Torrent / Hydro-Erosion
 **Target Coverage:** 60-degree forward cone; up to 4 targets

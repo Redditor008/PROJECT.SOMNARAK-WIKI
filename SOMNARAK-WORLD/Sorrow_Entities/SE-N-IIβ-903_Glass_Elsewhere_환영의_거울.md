@@ -235,6 +235,7 @@ Escalation here is recorded in categories and durations. Log what class of thing
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's channels, which run ninety seconds and are followed by an hour with a counsellor
 **Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
+**Bearer cost:** The Token is a shard of the room that is not there: worn, the bearer's reflection arrives a beat late, and they learn not to check it.
 *Five in nineteen years, in every case to a Warden who logged a recognition by category and did not name the place. Nineteen have named one; none has been given anything, and the file records that naming is a natural thing to do and is the reason the categories exist.*
 
 **Token cost and custody:** Invocation can briefly erase a familiar word or face from the bearer’s recall. Log the lapse and its duration without copying the face or treating the pressed door-number as permission to identify a household. The source-work bonus does not extend the channel limit. Review attribution before cleaning or resting the Token; a witness records relinquishment and the unresolved source-history field rather than manufacture a named formation event. This return does not promise to restore what the bearer has lost.

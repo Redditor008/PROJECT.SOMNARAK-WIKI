@@ -180,6 +180,7 @@ The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation an
 **Range:** 2 (Short: 1.5m reach)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The heat travels up the iron haft: two consecutive slams demand a pause to vent or the wielder takes the burn themselves, and the pause is where their anger goes.
 
 **Attack Pattern:** Overhand Crush / Thermal Eruption
 **Target Coverage:** Designated primary target + 3m outward ground starburst

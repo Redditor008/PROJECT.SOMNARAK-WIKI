@@ -181,6 +181,7 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's rounds; the bearer's gauge readings are trusted by one grade, which is the only allowance the survey has ever made for anybody.
 **Ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
+**Bearer cost:** The Token carries a grain of the mass: worn, every load the bearer sets down is back by morning and slightly heavier than it was.
 *A Token is found set into a floor plate during a stabilisation lift, always in a structure that held. None has ever been recovered from the crushed wards, which have been lifted twice.*
 
 ### M.A.W. Use Notes

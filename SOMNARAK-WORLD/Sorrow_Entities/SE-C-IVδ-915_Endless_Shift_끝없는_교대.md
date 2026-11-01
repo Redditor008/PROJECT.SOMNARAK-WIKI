@@ -183,6 +183,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which is to say during one rostered hour that will not feel like one
 **Ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
+**Bearer cost:** The Token adds every finished task to the shoulders: worn, the bearer is bent under a list that only grows, and rest does not shorten it.
 *The Shift's Stigma is not manufactured and cannot be requisitioned. It has been conferred six times, in every case on an extraction crew member who was asked for help inside the district and refused.*
 
 **Equipment and clock:** The Veil’s turning shoulder gears and the Token’s impossible stamped hour are equipment markers, not visible anatomy of the Time holding. The exact linked Edge records the shift lengthening by an hour per blow, the Veil putting the wearer on shift permanently, and the Token adding each finished task to a list that only grows. Keep these costs beside, not instead of, the local set-wide loss of usable time arithmetic. The named Edge and crystal-reticle archetype do not establish a transformation from the local naval Cutlass. Their unresolved form gives no authority to substitute Corrosion Dream’s same-suffix equipment.

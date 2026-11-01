@@ -185,6 +185,7 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which is to say while sitting out an hour with a register on your knee
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
+**Bearer cost:** The Token keeps a story's frame: worn, every loss the bearer takes arrives with a beginning and a moral that is not theirs.
 *Six Stigmas in six years, every one of them during an hour in which a story with no living recogniser was named by its number rather than left unmentioned.*
 
 ### M.A.W. Use Notes

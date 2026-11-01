@@ -202,6 +202,7 @@ Escalation here is the radius. Record the trigger, the probe reading at which th
 **Attack Pattern:** Overhand Arc / Temporal Impact
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The ticking travels up the shaft into the wrists: consecutive strikes numb the forearms, and the pendulum keeps the beat after the wielder has stopped swinging.
 
 Appearance : A 135cm heavy two-handed polearm forged from an aged brass pendulum shaft, featuring a dark calfskin grip and a fractured clockwork gear head. The weapon radiates a faint hum of ticking gears and is counterweighted by a faceted lead pommel.
 

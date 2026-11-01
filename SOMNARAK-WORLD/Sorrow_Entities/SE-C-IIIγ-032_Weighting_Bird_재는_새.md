@@ -178,6 +178,7 @@ The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 w
 **Range:** 3 (Medium: 15m line shot / Instant)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The pistol only fires on a named act: the wielder states what the target did and carries the uncertainty of that judgement separately from the recoil. Consecutive shots stiffen the trigger until the hand has to be argued with.
 
 **Attack Pattern:** Skewer / Dual Slug / Calibrated Guilt Impact
 **Target Coverage:** Line; up to 3 targets in direct trajectory

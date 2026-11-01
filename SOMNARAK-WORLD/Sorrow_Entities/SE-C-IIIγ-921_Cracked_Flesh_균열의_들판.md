@@ -224,6 +224,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles. The Stigma's surface carries the fracture pattern of the square metre it was conferred on, and the bay keeps the grid reference beside the award.
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
+**Bearer cost:** The Stigma wears as a crack: every slight opens on the skin as a hairline that heals wrong, and the bearer's injuries keep the shape of what caused them.
 
 **Stigma custody:** The individual record names sharpening old injuries and resentments as the Stigma’s cost. That report does not change the field’s painless onset or explain what its ninety-three patterns depict. Keep the award’s grid reference beside the equipment record, and keep clinical detail under the person’s existing consent arrangements. Before care, distinguish the bearer’s reaction from the unrecorded formation event; no convincing personal account fills that absence. The working bonus does not make a pause safe, excuse self-timing or convert an award for calling one’s own pause into permission to exceed the threshold.
 *Seven in nine years, in each case to a worker who called their own pause before the second warden called it. Nobody who was called has received one, and the bay's note repeats that being called is correct and not a fault.*

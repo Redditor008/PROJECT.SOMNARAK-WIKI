@@ -179,6 +179,7 @@ Weeping Statue is a Subject with Subject-Lament manifestation and Lament express
 **Range:** 2 (Short: 1.2m reach)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
+**Bearer cost:** The ribbon at the wrist restricts the blood and must be released between engagements: the wielder's hands keep the pressure afterwards and cannot hold anything gently.
 
 Appearance : A 62cm precision stiletto sculpted entirely from ash-grey porous travertine stone without metal components. The blade features a triangular cross-section ground to a needle point, with weeping eye glyphs etched into each facet.
 

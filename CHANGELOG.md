@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Every M.A.W. block in a dossier now states what it takes (batch 56)
+
+The item pages had been brought up to the cost law; the same equipment reproduced inside the dossiers had not. Twenty-seven blocks carried an Ability and no price at all, and two more carried one under a label of their own — `**Suit cost and unresolved form:**` and `**Veil bearer cost:**`.
+
+All twenty-nine now carry `**Bearer cost:**`, derived from that block's own ability. The ten legacy weapons are the old schema with a `*Cost & Drawback:*` bullet inside the move set, so each took its price from the burden the weapon already imposes: the Chrono-Orrery borrows a second per suspension and pays in vertigo, the Scale-Pistol only fires on a named act and stiffens its own trigger, the Mullion-Pike leaves the wielder's grip as the last warm part of them.
+
+The nineteen stigma and suit blocks were mostly still on the generic "fragment of the entity's sorrow, crystallized into wearable form" ability. Their costs come from the item's role instead: Beating Relic's Token puts the bearer's pulse a beat behind the stone's, the Moktak Token assigns a seat that cannot be given back, and the Allhallow Token leaves the bearer trusting the cold more than the clock and still in the line when it closes.
+
+Two of these blocks also had the wrong body underneath: the Labyrinth's Suit and the Moktak Veil were carrying copy-pasted greatsword descriptions. The costs are right; the appearances are logged on the existing duplicate-cluster debt rather than rewritten here.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS · `audit_lore_archive` 47/47.
+
+
 ## The last forty-one item costs, and the tail is gone (batch 55)
 
 `1029` through `1042`: the Kind Healer's Shadow, the First Tear, the Sorrow Seed, Mourner's Bloom, Apocrypha, Unreleased Beam, Keen, Dreaming Ruin, Well Within, Heirloom, the Labyrinth of the Unfinished Mind, the Wanderer Without a Destination, Endless Shift, and the Hour the Dead Walk. Forty-one records, and with them the last of the shared tail.

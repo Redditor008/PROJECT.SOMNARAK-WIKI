@@ -208,6 +208,7 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 **Range:** 4 (Long: 5–20m pneumatic harpoon)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
+**Bearer cost:** The cable pulls both ways: the pneumatic kick wrenches the shoulder, and every spooled line takes a little of the wielder's reach home with it.
 
 **Attack Pattern:** Skewer / Harpoon Puncture with Tensile Wire Tether
 **Target Coverage:** Up to three targets along one designated line

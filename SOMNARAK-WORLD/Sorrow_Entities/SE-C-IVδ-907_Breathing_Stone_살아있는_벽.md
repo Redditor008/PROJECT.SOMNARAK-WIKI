@@ -180,6 +180,7 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which consist of standing on a line and counting
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
+**Bearer cost:** The Token breathes a wall's slow breath: worn, the bearer's own breathing falls behind it and they hold still when they should move.
 *Three in nineteen years, in every case to a worker who reported an unauthorised touch — their own. Nobody who concealed one has been given anything, and the station's note is that there have been eleven touches and three reports.*
 
 ### M.A.W. Use Notes

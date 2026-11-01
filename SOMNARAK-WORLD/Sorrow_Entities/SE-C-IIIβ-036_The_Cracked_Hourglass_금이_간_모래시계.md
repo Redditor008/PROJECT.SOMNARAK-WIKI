@@ -201,6 +201,7 @@ Escalation here is rate and crack. Record the trigger, the rate at which the fal
 **Range:** 4 (Long: 4–15m projected sand vortex)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
+**Bearer cost:** Each suspension borrows a second the wielder has not been given: the Orrery takes it from their own account of the fight, and the debt lands as inner-ear vertigo and a moment they cannot account for.
 
 **Attack Pattern:** Concentric Beam / Chrono-Singularity
 **Target Coverage:** Line beam + 4m radius impact vortex

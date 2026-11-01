@@ -188,6 +188,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat during the hour and nothing outside it, which makes this the only piece in the Armoury with a duty window printed on the issue slip.
 **Ability:** A fragment of the entity's lament sorrow, crystallized into wearable form.
+**Bearer cost:** The Token holds the last minute open: worn, the bearer cannot conclude anything, and every conversation they end they end by leaving it.
 *Six in eleven years, in each case to an observer who sat the whole hour on station and wrote their own notebook without reading anybody else's first. Eleven observers have compared notebooks during the hour; none has been given anything, and the station notes that comparing is a natural thing to do and is also how the 94 matches were nearly lost.*
 
 ### M.A.W. Use Notes

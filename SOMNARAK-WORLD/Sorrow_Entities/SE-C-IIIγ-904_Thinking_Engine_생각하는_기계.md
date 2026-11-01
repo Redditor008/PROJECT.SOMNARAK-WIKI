@@ -228,6 +228,7 @@ Escalation here is extension into live work. Record the first altered return, th
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
+**Bearer cost:** The Token keeps a thought turning: worn, the bearer wakes having finished a calculation they never started and cannot say what it was for.
 *Five in nineteen years, in each case to a worker who finished a cycle without opening a sheet. Forty-one sheets have been opened, nineteen of them by people who had authority to and none of whom has been given anything.*
 
 **Token follow-up:** Record dream-tears and waking borrowed grief from the linked Token account, even though the local token stays cold and silent. Silence identifies the piece; it cannot certify that the Engine is not computing about its bearer, since sheets also name staff who have never entered the wing. Keep the award for an unopened sheet distinct from a claim that the bearer is safe to read one. A witness preserves whose sorrow is being carried, and receives the token if that boundary fails; the subject’s finding is still not a conversation to have informally. Neither dream cost nor shared certainty-cost is cancelled by taking the token off.

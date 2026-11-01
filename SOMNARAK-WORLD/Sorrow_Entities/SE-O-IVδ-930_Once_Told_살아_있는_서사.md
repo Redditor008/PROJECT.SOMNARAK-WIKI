@@ -185,6 +185,7 @@ Observation is the silent inventory walk and photographic comparison; endurance 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which are silent, so the bonus amounts to steadier hands on a camera
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
+**Bearer cost:** The Token makes the sentence true: worn, whatever the bearer says about themselves becomes the account they wake up inside.
 *Two Stigmas in eleven years, both after cycles in which a party completed four hours inside the boundary without a word spoken. The station notes it and makes nothing of it.*
 
 **Token bearer cost:** The linked Stigma records dreams in tears from the source sorrow and waking with another person's grief. Record that aftermath separately from the silent-work bonus and the credibility effect of carrying equipment. The word cut into the Token remains unread aloud; a gift is not an exception to the sector's speech rule.

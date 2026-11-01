@@ -186,6 +186,7 @@ Frozen Window is an Echo (II) Subject with Subject-Grudge manifestation and Weig
 **Range:** 3 (Medium: 2.2m reach + 4m ranged frost-shatter)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
+**Bearer cost:** The cold oak chills the hands that hold it: breath fogs, the fingers slow, and the wielder's grip on the shaft is the last part of them that stays warm.
 
 Appearance : A 210cm cruciform polearm whose main shaft is fashioned from a dark structural oak window mullion bound in iron corner brackets. The head mounts four rectangular panes of unmelting glacial glass set into iron glazing frames.
 

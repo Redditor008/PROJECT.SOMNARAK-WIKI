@@ -201,6 +201,7 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's passes, which is to say for ninety seconds at a time
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
+**Bearer cost:** The Token holds the loop: worn, the bearer repeats the last ninety seconds of a habit without noticing, and the repetition is never stored.
 *Four in nineteen years, in every case to an extraction team member who left on the first exit question rather than the second. Nineteen workers have needed the second; none has been given anything and the file is explicit that needing it is ordinary.*
 
 **Token cost:** After invocation, the bearer can lose a familiar word or face for a few seconds. Preserve the occurrence and duration as an item-cost record without writing down the source thought. The token’s warmth is an equipment observation, not an instrument for sensing the invisible boundary. Attribution review precedes cleaning or resting; witness-led relinquishment is recorded without manufacturing a formation event to satisfy the missing source-history field. The extraction team’s observed award pattern is not a reason to pressure a worker to refuse a needed second question.

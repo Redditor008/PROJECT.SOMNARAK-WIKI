@@ -184,6 +184,7 @@ The weight is reported, not measured, and the archive is careful to keep those t
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** *Last Quarter* — it goes cold in the final quarter-hour of a watch, which is the one thing a sitter in that room cannot learn any other way. It does not say whether the form will be blank.
+**Bearer cost:** The bearer learns the watch's last quarter and cannot learn anything else in it: the cold is the only fact in the room, and the form is always blank.
 *A Token is found on the form, weighting the page down, at the end of a watch in which the Warden wrote nothing. Four of the five recovered pieces came from blank watches, and the fifth is annotated as a probable filing error.*
 
 ### M.A.W. Use Notes

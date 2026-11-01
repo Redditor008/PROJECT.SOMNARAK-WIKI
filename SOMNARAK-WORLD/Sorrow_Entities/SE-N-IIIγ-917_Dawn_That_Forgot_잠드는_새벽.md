@@ -191,6 +191,7 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** *Line Moved* — it goes cold when the boundary has passed the post's own step. The third widening was called on that cold, four hours before the survey found the street.
+**Bearer cost:** The cold arrives before the order does: the bearer moves the post, widens the line and is never contradicted, which is why they stop waiting for the survey to agree.
 **Token lapse:** The individual Stigma records a familiar word or face briefly lost after invocation. Preserve the reported lapse with the occasion of use, separately from the district’s failure to wake; a few seconds on the bearer are not a new shutter time. The source-work bonus makes no claim to shorten an episode, and the six recovered pieces establish six watched episodes rather than a technique for entering the zone. Keep an unrecorded source event unrecorded even when the bearer’s account becomes personal. The infirmary receives the exposure; the facility receives only its fitness judgment.
 
 *A Token is found at the perimeter post after an episode has been watched end to end by one person. Six pieces, six unbroken watches; nothing has ever been recovered from inside the zone.*

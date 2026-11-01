@@ -197,7 +197,7 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 - Weight: 0.8 (Warded)
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
-**Suit cost and unresolved form:** The linked Veil charges difficulty remembering the wearer, including the wearer’s own self-image, separately from the set’s comfort with unresolved matters. Record bearer, deployment and return with a witness before that absence is mistaken for a missing issue entry. Its protection does not remove the anchor or permit travel beyond the surveyed limit. The local greatsword description remains unreconciled with the Suit role; do not turn it into a garment by inventing folds or a worn state. Attribution review precedes cleaning or rest, and witnessed relinquishment must not expose a private transcript as a substitute for missing source history.
+**Bearer cost:** The Veil keeps the wearer's mind off the direct route: while worn, nothing in their own head can be reached except by walking to it, and the wearer is difficult to remember, including by themselves. **Unresolved form:** Record bearer, deployment and return with a witness before that absence is mistaken for a missing issue entry. Its protection does not remove the anchor or permit travel beyond the surveyed limit. The local greatsword description remains unreconciled with the Suit role; do not turn it into a garment by inventing folds or a worn state. Attribution review precedes cleaning or rest, and witnessed relinquishment must not expose a private transcript as a substitute for missing source history.
 
 ### M.A.W. Stigma — Labyrinth of the Unfinished Mind's Token
 
@@ -208,6 +208,7 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's descents, which are walks through 41 rooms with somebody talking the whole time
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
+**Bearer cost:** The Token gives a turn back to whoever is lost: worn, the bearer's own route is the one that changes when they help somebody else.
 *Two in nineteen years, in both cases to an anchor who terminated a descent early against the entrants' objection. Both were right and both were argued with at the time; the file keeps the arguments.*
 
 **Token cost and custody:** Invocation can briefly cost a familiar word or face; note the lapse alongside the unfinished rim sentence rather than assume a cool token has no immediate toll. The source-work bonus is not permission to extend a descent, finish the inscription or contest an anchor’s pull. Review attribution before cleaning or resting it, with a named witness attending relinquishment. A first-person source claim is a corrosion sign, not authority to open the drawer. Preserve the gap in the formation record and the entrant’s transcript custody separately; neither return nor a completed argument refunds the cost.

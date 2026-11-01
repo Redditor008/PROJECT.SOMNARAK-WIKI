@@ -185,6 +185,7 @@ The table says the two available Work Types both reduce the gauge and does not s
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 to the working stat on this holding's cycles, which means on a watch at a window with a clock
 **Ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
+**Bearer cost:** The Token holds the frozen instant: worn, the bearer's shift does not end and their wound does not resolve, and neither of those feels like a problem.
 *Two Stigmas in nine years, both to wardens who had signed the discharge book every day of a long posting. The wing records that fact and declines to make anything of it.*
 
 ### M.A.W. Use Notes

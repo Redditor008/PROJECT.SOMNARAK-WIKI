@@ -177,7 +177,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** The wearer is read by the hall as attending rather than intruding. Seats are not added for a robed worker and the closing order skips them, which is the only known method of sitting a full interval without accruing a place in it. The robe does not reduce Weight damage taken outside the hall.
 
-**Veil bearer cost:** The linked Suit records constant low fatigue, as though the hall's burden rests on the shoulders. Record that cost separately from its local seating-status claim and asymmetric warmth. Wearing it does not itself override the file's non-entry order or establish that equipment use inside the hall has been authorized.
+**Bearer cost:** The hall reads the wearer as attending and never as leaving: they can sit a full interval without accruing a place, and they cannot be dismissed from one. The burden of the hall still rests on the shoulders while it is worn. Record that cost separately from its local seating-status claim and asymmetric warmth. Wearing it does not itself override the file's non-entry order or establish that equipment use inside the hall has been authorized.
 
 ### M.A.W. Stigma — Moktak's Token
 
@@ -188,6 +188,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 Resolve while the bearer is seated and nothing at all while they are standing. The marker is the only piece in the Moktak set whose benefit can be measured on a worker outside the hall.
 **Ability:** The bearer is counted. In any room with a fixed seating arrangement they are assigned a place without asking and are never the one left standing; in a room with no arrangement the Stigma does nothing. Nine of the eleven recovered markers carry a number from the front eight groups.
+**Bearer cost:** The bearer is counted wherever the seats are fixed: a place is assigned without asking, and there is no way to give it back.
 *A Token appears on a seat, not on a person. It is found after the hour, on the chair the worker occupied, and the Warden who lifts it records which household’s group the seat belongs to — the back three groups have never produced one.*
 
 **Token bearer cost:** The linked Stigma records an invisible load that grows heavier near unresolved debt. This is a bearer effect, not evidence that the source hall has moved or that a household has acknowledged the wearer. Keep that cost distinct from the marker's local seating benefit and from the still-disputed material provenance.
