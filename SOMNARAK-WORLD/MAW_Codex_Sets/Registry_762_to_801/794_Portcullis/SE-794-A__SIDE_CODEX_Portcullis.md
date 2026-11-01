@@ -19,7 +19,7 @@ The Door formed from a passage closed before someone could leave. The burden of 
 | Field | Canonical record |
 |---|---|
 | Source designation | O-Iα-794 [LO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone B, deep tunnels |
 | Gauge / Pressure | 198/198; starts 25–40% · Lament — no attack pattern: the door does not strike at anyone, and the exposure is the route it shows and the name somebody says (Contact Record, R-36) |

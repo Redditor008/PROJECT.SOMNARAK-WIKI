@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-709 [GO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a discrete crystal that sits where it is placed and is carried by its handler |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
@@ -148,6 +148,8 @@ The Work Type table is not the instrument here and the vault stopped relying on 
 
 **Reading the response:** Viderehan holds the gauge level and reveals the grievance beneath the grief — the Tear is not reluctant to be read, since being overlooked rather than examined is what formed it. Ferrehan brings the gauge down, and the phrasing of the test in the Behavior table is exact and should not be softened: it measures whether the worker can hold it **without claiming it**. Both failures are common and they look nothing alike. A worker who refuses the anger finds the Tear growing heavier in their hand until they cannot keep hold of it. A worker who takes the anger up finds it light, warm and comfortable, and will produce an excellent cycle log and a grievance against a colleague within the week. The gauge moves in the right direction for both of them.
 ## Activation Behavior
+
+> **Special activation — no counter.** A discrete crystal sits where it is placed and is carried by its handler; there is no counter and nothing to escape.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-643 [GO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a discrete mirror drifting with the Desolate’s cold currents, not a walking creature |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
@@ -95,7 +95,7 @@
 - The failure here is specific and the wing has learned to spot it in one line: the viewer names somebody they had not thought of in years, with complete certainty, and in the present tense. Nine such sheets exist. Six of the nine named a person who was dead.
 - Extended contact erodes recognition rather than resilience in the ordinary sense. Operators who view repeatedly describe their own face as belonging to a colleague, then to nobody; the progression is gradual, it is recorded in three separate case files, and it has never reversed on its own.
 - Every M.A.W. activation is charged in the currency of the source. The Stiletto aches in old wounds, the Plate dulls the reflexes it protects, and the Reflection hands its wearer other people's anger as though it were their own — which is the originating risk of this entity, issued as equipment.
-- Without resolution it does not escape; it transforms, which is the breach type recorded in the classification. The surface stops reflecting and starts keeping, and the record of what it has kept is held in the crack pattern rather than anywhere a file can reach.
+- Without resolution it does not escape; it transforms, which is the event type recorded on the record. The surface stops reflecting and starts keeping, and the record of what it has kept is held in the crack pattern rather than anywhere a file can reach.
 
 ## Appearance
 **Physical Form:** A mirror of red-black ice that moves with the Desolate's cold currents. Its surface reflects grief as frozen anger.
@@ -150,6 +150,8 @@ The table has two performable rows and both describe the same act at different d
 
 **Reading the response:** Read it in the ice and in the operator, and treat the second as the primary instrument. A falling gauge presents as clarity — the red-black thinning toward the edges, the song dropping below the carrying distance, the cracks holding at their recorded width. The entity is quieter; nothing has been resolved, and the gauge will be back where it started within a week of normal traffic. A rising gauge presents as heat, which is the paradox worth knowing before the first cycle: an object this cold reports its agitation as warmth in the people looking at it. They become irritable, specific, and certain. If an operator leaves a cycle angry at a named colleague, that is the reading. It goes on the sheet as a reading and never as a disclosure about the colleague. Anything the file does not describe — a face in the surface above all — is reported the same day.
 ## Activation Behavior
+
+> **Special activation — no counter.** A discrete mirror drifts with the Desolate’s cold currents and is not a walking creature, and nothing here escapes.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**

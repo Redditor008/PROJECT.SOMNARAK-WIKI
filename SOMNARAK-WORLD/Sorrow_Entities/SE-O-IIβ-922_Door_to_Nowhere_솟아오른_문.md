@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-922 [O]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
@@ -151,6 +151,8 @@ Both usable Work Types hold the gauge or lower it a little, and neither has ever
 
 **Reading the response:** A falling handle means the week's orders named the alternatives they refused. Stability under Viderehan is correct. The handle rises when anyone within reach says they had no choice, when a closure is justified in writing as unavoidable, and it has risen most on the orders that were, by every operational measure, entirely correct.
 ## Activation Behavior
+
+> **Special activation — no counter.** It rises out of the floor, holds position and withdraws; an unresolved appearance is a withdrawal and not an escape.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**

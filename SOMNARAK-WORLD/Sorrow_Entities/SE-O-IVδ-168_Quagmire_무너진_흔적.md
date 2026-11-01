@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-168 [O]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; the line does not move and what shifts is the ground beneath it |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
@@ -149,6 +149,8 @@ The table is a diagnostic to read, not a procedure to follow: it says which Work
 **Reading the response:** Viderehan holds the gauge level and reveals the route together with its missing travellers, which is the single most useful output this holding produces and changes nothing about its state — it is a witness function, not a treatment. Ferrehan brings the gauge down, and the test is whether the worker can remain at the end of a journey: stay at the point where the road stops, for the full cycle, without walking on and without turning back. Both failures are logged and they look nothing alike. A worker who walks on has joined the journey; a worker who leaves early has done what everyone else did. A falling gauge here means somebody stood at the end of a road for twenty-four turns on purpose.
 ## Activation Behavior
 
+> **Special activation — no counter.** The line does not move and the ground beneath it does, and the facility cannot see this one coming from the Desolate.
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
@@ -186,7 +188,7 @@ The table is a diagnostic to read, not a procedure to follow: it says which Work
 
 ### Escalation Notes
 
-Escalation here takes one shape and is not the standard breach event: the survey line stops matching the ground. The watch enters the first trigger, the change visible in the Object-Weight form, the distance at which the effect begins, and the line where the resonance settles. Lament is the element and the Desolate by the Scar the post, so emotional and behavioural indicators are written in beside the physical telemetry.
+Escalation here takes one shape and is not the standard containment event: the survey line stops matching the ground. The watch enters the first trigger, the change visible in the Object-Weight form, the distance at which the effect begins, and the line where the resonance settles. Lament is the element and the Desolate by the Scar the post, so emotional and behavioural indicators are written in beside the physical telemetry.
 
 **Response sequence:** Count the party, then survey. There is no perimeter to hold in open Desolate and nothing to clear, but personnel have walked the line's length without noticing, so the first action is a head count against the manifest and the second is a check that everybody is still at the end rather than along it. Then establish whether the activation was local or whether a road was destroyed elsewhere — the trigger is usually somewhere else entirely, and a team searching the Desolate for a cause will not find one.
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-369 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; it drifts in the underground Han currents and the record files no pursuit |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
@@ -95,7 +95,7 @@
 - A worker who cannot hold against this sorrow stops transcribing and starts resolving: the pressure erodes **Clarity**, the fragments begin completing each other in the head rather than on the page, and the instability goes back into the Sorrow Gauge as coherence.
 - The effects compound with duration, and the compounding is quiet. The longer a worker listens the more strongly the fragments cohere in their head, until half-words they transcribed separately have become, without any decision being taken, a single remembered sentence. Nobody reports this, because by then it does not feel like a symptom. It feels like having understood.
 - Each M.A.W. activation debits the wielder past what the grade ledger records, but the costs stay piece-specific: the Weapon carries weeping and heard-grief/personal-memory confusion, the Shroud numbs minor joys while preserving speaker/recipient separation, and the Bell temporarily removes ordinary whispers. The confidence about which remembered words were one's own is checked where the relevant piece touches it; it is not projected across the set.
-- Without resolution the sorrow does not disperse — it transforms, which is the breach type on the classification. The fragments stop drifting apart and begin arriving in sequence, and personnel in the tunnel find themselves listening to something that is finally making sense, which is the single worst condition this holding can be in.
+- Without resolution the sorrow does not disperse — it transforms, which is the event type on the record. The fragments stop drifting apart and begin arriving in sequence, and personnel in the tunnel find themselves listening to something that is finally making sense, which is the single worst condition this holding can be in.
 
 ## Appearance
 **Physical Form:** A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents.
@@ -148,6 +148,8 @@ The gauge here is read against the transcript rather than against the room. A st
 
 **Reading the response:** Read it in the transcript. A falling gauge presents as spacing — longer gaps between fragments, fewer overlapping voices, the whispering retreating toward the crystal. The pressure is absorbed and the source is untouched; the sentences are no nearer finishing than they were. A rising gauge presents as coherence. Fragments begin arriving in a plausible order, the half-words start completing each other, and the transcriber finds the work getting easier. That is the warning and it arrives disguised as progress. If the entity does something the file does not record, write it down before discussing it with anybody, because this is the one holding where comparing notes verbally is itself an intervention — two people agreeing on what they heard will produce a sentence neither of them transcribed.
 ## Activation Behavior
+
+> **Special activation — no counter.** It drifts in the underground Han currents and the record files no pursuit; the gauge is the whole mechanism here.
 
 > **This Relic benefits the facility by making an uncompleted sentence into a record, and the record cannot be completed.**
 > **This Relic alters the operator's recall before anything else: what they transcribe starts arriving in their memory as something they said themselves.**

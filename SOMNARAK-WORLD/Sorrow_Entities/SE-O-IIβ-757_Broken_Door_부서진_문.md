@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-757 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a structure stands where it is and has never been recorded in transit |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
@@ -148,6 +148,8 @@ The table lists Work Types and the Gardens series has never found one that moves
 
 **Reading the response:** Read it in the flame. A falling gauge presents as a lower grade — the fire sinking toward the sill, the char cooling, the smell of cold rain coming through over the smoke. The pressure eases and nothing is mended; the door still opens onto no one. A rising gauge presents as **hope of return**. The flame climbs, the opening clarifies, and the people in front of it begin to talk about putting the home back as it was — which is the one thing that reliably feeds this fire, and which is not a failure of judgement so much as the ordinary response of decent people to a visible division. The Gardens' own visitor figures track the flame grade through the busy seasons. The relationship is apparent, it is unexplained, and the file prints both series side by side rather than asserting a cause.
 ## Activation Behavior
+
+> **Special activation — no counter.** A structure stands where it is, and the gauge at 60 per cent is the entire activation; no count is listed and none is implied.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-851 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; the judged area travels and the crystal does not |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
@@ -148,6 +148,8 @@ The Work Type column is not the reading here; the pitch is. Resting value is 112
 
 **Reading the response:** Success is read from the hum rather than from the crystal, which is unchanged by every cycle on record. A worker who expects the break to close will report failure on a successful cycle, and this is the single commonest reporting error on this row. The reliable indicators are the hum's pitch, which falls before it quietens, and the salt-cold, which retreats from the vault walls inward rather than fading evenly. Both lag the actual response by several minutes, so a cycle is not closed at the first drop in pitch but at the second consecutive reading that confirms it. Where the two indicators disagree, the hum is treated as authoritative, because the cold persists in vault stone well after the shard has disengaged and will hold a false reading for most of an hour.
 ## Activation Behavior
+
+> **Special activation — no counter.** The judged area travels and the crystal does not; the shard extends its judgment outward rather than escaping it.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
@@ -409,7 +411,7 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 
 **Operational interpretation:** the SECC classification has to be read with the Alpha Tree vault record open beside it. The shard sits in the register as Object-Void, yet on the floor it acts as a standing judgment, and the two readings are meant to be held together instead of being folded into a single one; two attempts to have it re-filed as a hazard were turned down, because the crystal is still a discrete body that can be broken. In practice the classification decides how the thing is handled and the vault record decides when. A crew working from the classification alone will under-resource the vault survey, and that survey is the larger half of the job. Any point on which the two conflict is itself the finding: log the divergence and leave the record alone.
 
-**Review requirement:** Once the vault has been through a breach, an expansion or a transformation — or an anomaly, or a Sorrow Tide — it is surveyed again from the beginning: the gauge, then the seal, the exposure log for the personnel and the recorded spread of the judged area are each checked before work resumes. The hum has been known to lengthen during a Tide while the crystal itself never shifts position, and that is why a survey taken beforehand cannot be carried into the next one. Each survey is written into the original record rather than a fresh file being opened, so the pace at which the hum extends stays comparable from one Tide to the next.
+**Review requirement:** Once the vault has been through a containment event, an expansion or a transformation — or an anomaly, or a Sorrow Tide — it is surveyed again from the beginning: the gauge, then the seal, the exposure log for the personnel and the recorded spread of the judged area are each checked before work resumes. The hum has been known to lengthen during a Tide while the crystal itself never shifts position, and that is why a survey taken beforehand cannot be carried into the next one. Each survey is written into the original record rather than a fresh file being opened, so the pace at which the hum extends stays comparable from one Tide to the next.
 ## Apex Record
 
 ### The Break That Does Not Close

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-794 [LO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a structure stands where it is and has never been recorded in transit |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
@@ -133,6 +133,8 @@ The table means nothing without its frame. Element, coherence and manifestation 
 **Reading the response:** Viderehan holds the gauge level. Looking reveals the people and the route beyond the door, and the Door neither resists the looking nor benefits from it — being seen was never the problem, since everyone involved could see perfectly well what was on the other side. Ferrehan lowers the gauge, because enduring here means remaining at a blocked threshold without forcing it and without leaving it: standing where the waiting happened, for the length of the cycle, on purpose. A falling gauge means a worker has managed that. A rising gauge, in nearly every logged case, follows a worker trying to help — clearing stone, testing the frame, or promising the Door something — and the attempt is understandable enough that it should be recorded without censure and corrected without delay.
 ## Activation Behavior
 
+> **Special activation — no counter.** A structure stands where it is, and the trigger is a destination said aloud at the threshold rather than a count.
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
@@ -170,7 +172,7 @@ The table means nothing without its frame. Element, coherence and manifestation 
 
 ### Escalation Notes
 
-Escalation here has one shape and is not the standard breach event: the door begins to remember a second destination. The watch logs the first trigger, the change to the Object-Weight form itself, the range at which the effect begins, and the line where the resonance settles. Lament is the element and the deep tunnels of Zone B the post, so emotional and behavioural indicators are written in beside the physical telemetry.
+Escalation here has one shape and is not the standard containment event: the door begins to remember a second destination. The watch logs the first trigger, the change to the Object-Weight form itself, the range at which the effect begins, and the line where the resonance settles. Lament is the element and the deep tunnels of Zone B the post, so emotional and behavioural indicators are written in beside the physical telemetry.
 
 **Response sequence:** Control speech before you control the ground. The activation condition for this entity is a named destination spoken aloud at the threshold, which means the ordinary language of an emergency response — ordering personnel back to the surface, calling a muster point, telling someone to get home — is itself the trigger. Responders use designations and directions only: *back along the tunnel*, *to the marker*, *to me*. Then establish who touched the leaf, how long the memory held, and whether it has faded. Do not attempt to clear the stone. The collapse is not debris; it is the entity.
 

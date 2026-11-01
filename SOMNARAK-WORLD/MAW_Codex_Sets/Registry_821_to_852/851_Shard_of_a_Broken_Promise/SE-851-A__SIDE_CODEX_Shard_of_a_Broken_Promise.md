@@ -19,7 +19,7 @@ The Shard formed from a promise broken while the promised object remained intact
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IVδ-851 [LO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone A, Alpha Tree vault |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |

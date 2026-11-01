@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-115 [WO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; it has never been displaced laterally and its only recorded motion is settling |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
@@ -95,7 +95,7 @@
 - The failure here is not distress. A worker under the holding's pressure keeps working, reports that they are fine, and gradually stops moving; the gauge climbs on exactly that, and the team notices before the worker does.
 - Time is the entity's instrument in a literal sense, since its mass increases with age and nothing in the record has ever reversed that. Prolonged exposure saturates the worker in the same direction: slower movement, a reluctance to stand up, and the settled conviction that something inherited is owed and must be carried.
 - M.A.W. activation is an exchange with no negotiation in it. The registry catalogues the parameters and the bearer pays in body and years, and from this source the payment has a characteristic shape: the wielder begins taking on obligations that were never theirs, and declines help in doing so.
-- An unresolved encounter transforms rather than ending, which is the breach type on the classification. Nothing escapes here and nothing needs to; the fragment stays where it is and the bowl around it becomes something other than ground.
+- An unresolved encounter transforms rather than ending, which is the event type on the record. Nothing escapes here and nothing needs to; the fragment stays where it is and the bowl around it becomes something other than ground.
 
 ## Appearance
 **Physical Form:** A heavy fragment of black crystal broken from an unknown monument. It rests on the ground but presses through the surrounding landscape.
@@ -148,6 +148,8 @@ Broken Fragment is an Object/Place with Object-Weight manifestation and Weight e
 
 **Reading the response:** Read it in the instruments, because there is nothing to read in the object. A falling gauge presents as stillness: the displacement rate easing toward its long baseline, the bowl floor holding between surveys, the cracking sound from the crystal dropping below the recording threshold. The pressure eases and the mass does not; a lower gauge is a window and not a door, and the fragment is as unliftable at 20% as at 80%. A rising gauge presents as **urgency** — the readings quicken, the bowl deepens visibly between two surveys, and the team in attendance begins to feel that something ought to be done about this. That feeling is the reading. On this holding it is also the hazard, since every recorded escalation began with somebody competent deciding that the situation warranted action.
 ## Activation Behavior
+
+> **Special activation — no counter.** It has never been displaced laterally and its only motion is settling; the gauge at 90 per cent is the whole mechanism.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**

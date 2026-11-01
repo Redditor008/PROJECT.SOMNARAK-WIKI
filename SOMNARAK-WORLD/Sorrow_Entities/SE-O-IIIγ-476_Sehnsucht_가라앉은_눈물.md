@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-476 [WO]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; it holds its position on the ground and sinks when reached for, and nothing on record has brought it back up faster |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
@@ -148,6 +148,8 @@ Sehnsucht is an Object/Place with Object-Void manifestation and Weight expressio
 
 **Reading the response:** A rising object means somebody mourned at the site and let the cause stay missing. Stability under Viderehan is correct. The reading worsens — the object sinks — on reaching, probing and digging, and equally on any confident account of why a person present is feeling what they feel.
 ## Activation Behavior
+
+> **Special activation — no counter.** It holds its position on the ground and sinks whenever anyone reaches for it; depth is the only thing that changes.
 
 > **This Relic benefits the facility by returning a burying to the ground it was taken from, and the ground keeps the receipt.**
 > **This Relic alters the operator by handing them a weight with no cause attached, which is the one case they are least equipped to carry.**
