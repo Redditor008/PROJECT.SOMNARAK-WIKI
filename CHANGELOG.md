@@ -8,6 +8,34 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Not everything fights: the first Contact Records (2026-11-01)
+
+Owner: *"Can you fix a lot of SE that should never have combat section and escape section, and HP and counter and combat move that need to have a logically fixed — logically meant the fix has to go into the logic path, not the template path."*
+
+Every one of the 301 dossiers carries `## Combat Record`, `### Combat Actions`, a `Han Pressure [ATK]` line, `Battle Length`, `Threat Role`, and a table with `[**Attack**]` and `[**Ultimate**]` rows. For a third of them the file's own text denies the section it is carrying. The prose had been corrected row by row while the scaffolding stayed and kept asserting an encounter that never happened — Apocrypha's attack row was written around the fact that nothing launches, the Portcullis's phases say *the Door does not strike at anyone*, and Hums records in its Resistance line that *the stone does not attack, and the two resistances are recorded because the encounter sheet has the field*. The sheet, not the entity.
+
+**`R-36` is filed** — [Not Everything Fights](REFERENCE_SOMNARAK_WIKI/RULES/R-36_NOT_EVERYTHING_FIGHTS.md), `REFERENCE_SOMNARAK_WIKI/RULES/R-36_NOT_EVERYTHING_FIGHTS.md`. A dossier converts only where its own text satisfies all three: it cannot close distance, it does not strike, and nothing on the file records a pursuit, an aim or a blow. A conversion is never made to hit a number, and an entity that moves, hunts or aims keeps its Combat Record however much template furniture it is carrying. The Walking District's two owner-directed event-form moves stay exactly where they are.
+
+**Five records converted this pass**, each read whole and each written from its own evidence:
+
+| Dossier | What replaced the combat section | Why |
+|---|---|---|
+| [Hums](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-048_Hums_노래하는_돌.md) | Contact Record · four contact events · watch sequence | Sits in its case and has never moved; the file says it does not attack |
+| [Apocrypha](SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-340_Apocrypha_얼어붙은_유물.md) | Contact Record · four contact events · watch sequence | A frozen outline with nothing in it; two hypothermia cases are the entire incident record |
+| [The Portcullis](SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-794_Portcullis_무너진_문.md) | Contact Record · four contact events · watch sequence | Nothing has fallen in sixty years and the survey resolves a millimetre |
+| [Seething Tundra](SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md) | Contact Record · four contact events · watch sequence | Never moved itself, never struck in handling, nothing launches |
+| [The Empty Mask](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | Contact Record · four contact events · watch sequence | Stationary when unworn, and the only hand that moves it is a named handler's |
+
+**What each conversion does, rather than relabels.** `Han Pressure [ATK]`, `Speed`, `Battle Length`, `Threat Role` and the coherence/potency modifier rows are **gone**, not reworded. `Sorrow Gauge [HP]` stays and stays in band — it is the pressure meter the Behavior thresholds and the resolution condition are read against, and `R-36` removes an attack line, not the entity. `### Combat Actions` becomes `### Contact Events`, whose categories come from the entity's own behaviour (`Register`, `Exposure`, `Refusal`, `Contagion`, `Attachment`, `Overload`) and never from the attack vocabulary. `### Battle Phases` becomes `### Watch Sequence`: what is confirmed, what the watch does, how it closes. The numbers that survive are the ones already on the file — Hums's 281 songs and 44 carriers, the Empty Mask's four minutes and sixty-one millimetres, Seething Tundra's 31 tears to 38, Patina's 9, 14, 19-millimetre series — and none of them is turned into damage against a target, because there is no target.
+
+**Each dossier opens with its own reason line**, not a shared one, and the first sentence of each says what the thing does instead of fighting: Hums sings to one listener, Apocrypha holds a space where a farewell would have been, the Portcullis shows a route it will not open, Seething Tundra lends an instant and the anger in it, the Empty Mask reads deeper than it is.
+
+**Dependent surfaces carried with them.** The five Side Codexes lose the `per hit` band and name the absence instead (`462/462; starts 35–50% · Lament — no attack pattern`), and their trigger pages were re-lettered to the events that now exist — Hums's *Full Symphony* is *The Register*, the Empty Mask's *Face-Blow* is *The Closed Distance*, its *Sea of Masks* is *The Vacuum, chamber-wide*. `tools/wikistd.py` accepts `## Contact Record` in the stats slot, because that slot's purpose is what meeting this thing does, not the word combat. [check_stat_bands.py](tools/check_stat_bands.py) requires a Gauge in either shape, requires an attack row in a Combat Record, and reports a Contact Record that still carries one as a contradiction.
+
+**The queue, by evidence, not by quota.** Twenty-two further dossiers the same scan flagged and this pass did not reach: The Sorrow Fountain, Weeping Willow, Foam Flood, Unrung, Broken Compass, Patina, Debt-Collector's Lantern, Labyrinth of Stolen Faces, Blackened Angel, Soaking Shard, Seething Tundra's neighbour The Final Door, Bridge of the Unchosen, Relic Waiting for Its Maker, Quagmire, The Unspoken Line, Forgotten Silence, Soaking Rope, Neverlast, Repose, The Unconsoled, The Maw (held — its two moves are owner-directed and it is not a conversion candidate), and the Music Box of Agony (held until its newly filed stat line is re-read against this rule). Each will be converted on its own evidence in filed order.
+
+**Checks:** `check_stat_bands` 0 missing · 0 under band · 14 over ceiling · 235 straddling · 1 exempt · `wikistd` 301/301 · `check_links` 4,007 / 0 broken · `label_lint` 301 · `seam_lint` 1,767 · `timeline_lint` 1,800 · `audit_lore_archive` PASS · box symmetry PASS · `git diff --check` clean.
+
 ## Every stat line inside its risk tier (2026-11-01)
 
 Owner: *"Check all SE hp + atk to make sure that none is under the risk level except the Kind Echo — it is a non-standard SE."*

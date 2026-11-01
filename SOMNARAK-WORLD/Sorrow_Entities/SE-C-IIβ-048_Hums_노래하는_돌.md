@@ -45,58 +45,42 @@
 - No breach counter applies. Ordinary sessions are not public and do not create a widening audible field; only competing demands or separate-melody extraction produce the chamber-wide Deep Tone, so the gallery is cleared to one listener before work begins.
 - Extraction is a separate authorization and carries the same auditory exposure.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; output is measured by the song sung, the one listener addressed, and movement in the living-carrier register |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Neither figure has ever been reached in anger: the stone does not attack, and the two resistances are recorded because the encounter sheet has the field. The working safeguards are one listener in the room, no shaking/striking/covering or attempt to stop the song, no competing requests or separate-melody extraction, and the carrier register reported before any gauge claim. |
-| **Activation threshold** | Full Archive Wake at Sorrow Gauge ≥65% after three distinct songs have been interrupted |
-| **Sorrow Gauge [HP]** | 462/462 |
-| **Han Pressure [ATK]** | 9–22 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Hums sits in its case on open display and has never moved, and the file says so twice — in the Movement row and again in the Resistance line, where the two percentages are recorded *because the encounter sheet has the field* rather than because anything reached the stone in anger. What it does is sing to one listener until that listener can sing the song back. That is the whole of the hazard, and it needs a contact record, not a battle.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats singing |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | One palm-sized stone in a case, warmer than the room it is in, singing to one person at a time and never to two |
+| **Perceptible to** | Anyone inside the chamber: the warmth first, then a low tone felt in the chest rather than heard |
+| **Activation threshold** | Sorrow Gauge ≥ 65%, reached after three distinct songs have been interrupted. No breach counter is listed on this file and none is implied |
+| **Sorrow Gauge [HP]** | 462/462 — the containment meter. It climbs with archiving rather than with time: every song filed as a record and not taken up by a living voice raises the reading |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-D-02, Echo Gardens — contained/open display |
+| **Valid Work Types** | Viderehan and Ferrehan only, and here the two mean the same task: sit through the song to the end and be able to sing it afterwards |
+| **Location** | SECTOR-D-02, Echo Gardens — contained/open display |
 | **Resolution Condition** | The song sung is learned by a living person well enough to sing unaccompanied, and the Sorrow Gauge falls below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Note* [**Debuff**] } | "The stone begins to hum — low, old, felt more in the chest than the ears." | [One low tone identifies the nearest emotionally resonant listener; no second listener is addressed.] | *The identified listener suffers -10 Clarity as the first note settles inside them; the register records listener and song before any interpretation.* **[10 Lament DMG [Lament]]** | When local air movement falls below the active garden threshold. |
-| { *The Resonance* [**Debuff**] } | "The hum finds your frequency — and now you cannot stop singing along." | [The song links the silent listener to a dead singer or lost memory; it does not end merely because the listener walks away.] | *The listener loses 10 Clarity. If listening is abandoned rather than genuinely ended, the unfinished song leaves residue in dreams; recognition alone does not make the listener a carrier.* **[10 Lament DMG [Lament]]** | When the listener holds the Stone and remains silent through one full phrase. |
-| { *The Sharp Chord* [**Attack**] } | "The note sharpens to a point — and the point is aimed at you." | [A sharp chord cuts through the interruption; the interrupted phrase is not counted as learned.] | *Inflicts Lament pressure and one ringing wound to the interrupting listener. The session sheet records the interruption and does not enter a carrier unless the song is later sung back unaccompanied.* **[14-22 Lament DMG [Lament]]** | When the Stone is shaken, struck or covered, or the listener attempts to stop the song. |
-| { *The Deep Tone* [**Attack**] } | "The stone drops to a register lower than hearing — and the weight of it is crushing." | [Subsonic Lament pressure expands through the garden chamber while competing demands pull at separate melodies.] | *Heavy Lament pressure to personnel inside the chamber; no personnel Sorrow Gauge is inferred. Competing requests and extraction attempts stop, the room returns to one listener, and no carrier is entered from a divided hearing.* **[24-36 Lament DMG [Lament]]** | When multiple people demand different songs or attempt to extract separate melodies. |
-| { *The Full Symphony* [**Ultimate**] } | "The stone sings every song it ever absorbed — a whole symphony of grief." | [A three-turn choral field opens over the register's unresolved account: 281 songs heard, 44 with a living carrier, 6 in the hands of one person each.] | *All in range suffer Lament pressure for three turns. The Archive recorder remains present, and the close is still graded by named living carriers—not by the number of accurate transcriptions produced during the field.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥65% after three distinct songs have been interrupted. |
+| Event | What the stone does | What the listener carries out | Reading |
+|---|---|---|---|
+| { *The Warmth* [**Register**] } | Sits warmer than the room and sings only when the air is still and the sorrow in the chamber is concentrated. Nothing about the stone changes when it is being listened to. | The confirmation that this is the singing one and not another display piece, and no more than that. | Warmth is the only field instrument the Gardens has for it; the room's noise floor and the number of people present are logged beside it. |
+| { *The One Listener* [**Exposure**] } | Addresses one emotionally resonant listener with a single low tone; the second listener in the room is not addressed and has never been. The song links the listener to the singer it came from and does not end when they walk away. | Clarity first and the reading after, in that order; the song arrives as an intact thing and stays intact until something can sing it. | **Clarity is the pressure, not the gauge.** The effect does not intensify with duration — it intensifies with archiving. |
+| { *The Interrupted Phrase* [**Refusal**] } | Cuts the phrase when a session is curtailed or a song is taken apart for extraction rather than learned. The chord is the only sharp sound in the register and it is over in a breath. | A fragment of the song that cannot be completed, and a session that does not close: the interrupted phrase is not counted as learned. | The file's own standard — a transcript without a singer is not a session — is what the stone is enforcing here. |
+| { *The Register* [**Overload**] } | Under competing demands, or an attempt to extract a melody separately, drops to a register lower than hearing and lets the whole account sound at once: **281 songs heard, 44 with a living carrier**. | Every unlifted song in the chamber at once, which is not a memory the listener can hold and not one they can put down. | This is the condition the gallery is cleared to one listener for, and the reason separate extraction is a separate authorisation rather than a routine one. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Hums is confirmed by the warmth. Several small objects are displayed in the Gardens; this is the palm-sized dark one that is warmer than the room and sings to one person at a time. The team establishes its position, its withdrawal, and the register entry for the song currently being sung — 281 heard, 44 carried, 6 held by a single person — because the whole cycle is graded against that line.
-2. **Clash:** The session is one worker, one quiet room, one song. Viderehan catalogues what is sung; Ferrehan is a matter of listening through to the end, which takes between four and forty minutes and must not be curtailed. Nobody takes notes during the singing — the sheet is filled in afterwards, from memory, deliberately.
-3. **Resolution:** The session closes when the song sung has been learned by the listener well enough to sing back unaccompanied, and the reading falls below 25%. A session that produces a transcript and no singer has not closed; by the register's own figures it has made things slightly worse.
+1. **What is confirmed:** the stone is identified by the warmth; the room's noise floor, the number of people present and the songs currently awaiting a carrier are read off the register before anyone sits down.
+2. **What the watch does:** one worker, one quiet room, one song. Viderehan catalogues what is sung; Ferrehan listens through to the end, which takes between four and forty minutes and must not be curtailed. Nobody takes notes aloud while the stone is singing.
+3. **How it closes:** the song sung has been learned well enough to sing back unaccompanied and the reading falls below 25%. A session that produces a transcript and no singer has not closed, and the interruption is logged against the register rather than the worker.
 
 ### Consequences
 
-- A worker who cannot hold against the entity's sorrow becomes a conduit, and the file's ordering matters: their **Clarity** goes first and the reading follows. The pressure is not violent and does not need to be. It is an entire life's music arriving at once in a person who has no place to keep it, and what comes back up the channel is the instability that makes the next session worse for whoever takes it.
-- The effect does not intensify with duration. It intensifies with archiving. Every song filed as a record and not taken up by a living voice raises the reading, and the facility's own catalogue is the largest single body of such filings in existence.
-- The requiem, the shroud and the pebble are all made from music that outlived everybody who knew it. Each activation borrows a measure of that survival and the operator keeps it. The recorded cost is not grief. It is that the operator cannot get a tune out of their head and, on questioning, cannot say where they learned it.
-- Left unresolved, the sorrow does not dissipate and does not lash out either: it turns inward on the Gardens and thickens the register. Every month the reading stays above 25% the stone gains songs and loses carriers, and the two movements are recorded on the same page — 281 heard against 44 carried is where the file stood when this sheet was written, and the column that moves is always the second one.
+- A worker who cannot hold against the entity's sorrow becomes a conduit, and the file's ordering matters: their **Clarity** goes first and the reading follows. The pressure is not violent and does not need to be. It is an entire life's music arriving in one room with nothing between it and the person hearing it.
+- The effect does not intensify with duration. It intensifies with archiving. Every song filed as a record and not taken up by a living voice raises the reading, and the facility's own catalogue is the largest single body of such filings in the Gardens.
+- The requiem, the shroud and the pebble are all made from music that outlived everybody who knew it. Each activation borrows a measure of that survival and the operator keeps it. The recorded cost is not grief. It is that the operator cannot afterwards hear the song without knowing who is missing from it.
+- Left unresolved, the sorrow does not dissipate and does not lash out either: it turns inward on the Gardens and thickens the register. Every month the reading stays above 25% the stone gains songs and loses carriers, and the two movements are recorded side by side because the file has never seen one without the other.
 
 ## Appearance
 **Physical Form:** A small, smooth, dark stone warm to the touch. It sings under the right conditions.

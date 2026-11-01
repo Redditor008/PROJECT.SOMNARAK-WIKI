@@ -22,7 +22,7 @@ The Door formed from a passage closed before someone could leave. The burden of 
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone B, deep tunnels |
-| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
+| Gauge / Pressure | 198/198; starts 25–40% · Lament — no attack pattern: the door does not strike at anyone, and the exposure is the route it shows and the name somebody says (Contact Record, R-36) |
 | Observation | 1 — Initial |
 | Formation event | A tunnel collapse sealed a door while people were still on both sides of it. |
 

@@ -12,7 +12,7 @@ import sect
 
 PARITY = [
     ('classification', ['## SECC Classification']),
-    ('stats',          ['## Combat Record']),
+    ('stats',          ['## Combat Record', '## Contact Record']),
     ('work results',   ['## Behavior']),
     ('event behaviour',['## Breach Behavior', '## Activation Behavior',
                         '## Expansion Behavior', '## Containment Event Behavior']),

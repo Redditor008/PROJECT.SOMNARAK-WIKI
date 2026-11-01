@@ -45,57 +45,41 @@
 - No breach counter applies. The affected ground is staked at every session, since the boundary cannot be judged by surface appearance.
 - Extraction draws from the surface layer under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void as a formal rating; the shard has never been struck in handling and never melts. Working protection is the channel protocol: touch only under authorization, a second person in the room asking every minute who the operator is angry at, and deliberate closure with the anger attributed aloud. Past one minute the channel drains 4 Composure every 10 seconds. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 208/208 |
-| **Han Pressure [ATK]** | 3–9 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The shard sits on its tray in Zone D, palm-sized, the one object of its kind the Gardens holds. It has never moved itself and has never been struck in handling, and the old attack row had to be written around the fact that nothing launches. What it does is hold one instant of somebody else's life where it can be looked at, and hand over the anger that came with it to whoever touches it under authorisation.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A palm-sized shard on a tray, under a standard lamp at a marked distance; two counters on opposite sides of it |
+| **Perceptible to** | Cold that answers along the hairline rather than through the room, and a room whose pace slows while the shard is out |
+| **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
+| **Sorrow Gauge [HP]** | 208/208 — the containment meter; it is read before and after every cycle and the two readings are the cycle's own record |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
-| **Resolution Condition** | The two counts agree and the memory, if one rose, has been attributed aloud to the mourner rather than to the worker. 188 cycles; the counts have disagreed eleven times and every disagreement was resolved by a third count rather than by discussion. |
+| **Location** | Zone D, Echo Gardens |
+| **Resolution Condition** | The count is taken twice and agrees, and any memory that rose has been attributed aloud to the mourner rather than carried out. 188 cycles; the counts have disagreed eleven times and every disagreement was resolved by the second count |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Cold Core* [**Debuff**] } | "Nothing in the room is moving, including the thing you were about to say." | [The cold reaches the room's pace rather than its temperature; the room is colder than the shard can account for before anybody touches it.] | *1 Void to Composure. Workers describe losing the sentence they had prepared and not getting it back; neither counter speaks a number aloud until both have finished.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the shard is brought out on its tray and the counting session opens. |
-| { *The Suspended Moment* [**Debuff**] } | "You can see the counter, and the clerk, and her face as she is asked the second time." | [The preserved instant is legible to anyone who looks closely, and is always the same instant.] | *1 Void, and the viewer can afterwards describe a room in the Gardens as it was eleven years ago. Whatever detail arrives is the mourner's; it is attributed aloud before the session closes, never adopted.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a counter stares into the ice under the standard lamp during the count. |
-| { *The Ice Spear* [**Attack**] } | "Nothing launches. The cold answers along the hairline, from exactly where it sits on the tray." | [The shard has never moved itself and has never been struck in handling; the only physical marking on record is the Angry Maiden hairline, which has not spread in six years.] | *Heavy Void pressure on Composure. End the session, photograph the hairline, and take both counts; physical contact beyond authorized touch requires the Warden's signature.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the shard is physically struck or its retained hairline is stressed — recorded only inside an authorized joint session. |
-| { *The Full Shatter* [**Attack**] } | "The anger in it arrives all at once and it arrives as yours." | [The stored memory transfers whole and is reported in the first person.] | *3 Void to whoever touched it; the recipient will defend the grievance as their own until the second person's question — who are you angry at — gets it named aloud as the mourner's.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Shard is touched under a channel and the memory is not acknowledged aloud afterwards. |
-| { *The Frozen Instant* [**Ultimate**] } | "Every unspoken thing in the Gardens' deposit room goes cold at once." | [The effect propagates to the deposits — the mementoes left without an account.] | *2 Void per cycle for three cycles to anyone in the deposit room. Close the channel deliberately and say aloud whose anger it was; then count. Recorded once, in Year 4,233, when eleven deposits were found cold and three depositors returned that week to say what they had meant.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥45% activation threshold and a channel is dropped or left untended in the deposit room. |
+| Event | What the shard does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Room's Pace* [**Register**] } | Slows the room rather than chilling it: nothing in the room is moving, including the thing the worker was about to say. | The confirmation that the shard is out and reading, before anything is counted. | The cold reaches the room's pace, not its temperature, and the file warns the two apart. |
+| { *The Suspended Moment* [**Exposure**] } | Holds one instant where anyone who looks closely can read it: the counter, the clerk, her face as she is asked the second time. It is the same instant every time and it is never the worker's. | A memory that is legible and complete and does not belong to them, and the certainty that it is being kept for somebody. | The instant is always the same one; the file's protection is that it must be attributed aloud before the cycle ends. |
+| { *The Hairline* [**Exposure**] } | Answers along the hairline from exactly where it sits on the tray. It does not launch and it has never been struck in handling. | The cold at skin level and, if it is handled, the stored memory whole and in the first person. | Touch is a separately authorised channel with a second person in the room asking everything twice; the working protection is the protocol, not a stat. |
+| { *The Borrowed Anger* [**Contagion**] } | Transfers what it holds without asking and without altering it, and the recipient reports it in the first person as their own. | An anger about something real, at somebody who exists, which is not theirs and which they will act on if nobody names it. | Carried out unnamed, it adds a tear. The count went from 31 at first survey to 38, and every one of the seven additions followed a cycle where somebody left without saying whose anger it was. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The shard is brought out on its tray, the standard lamp is set at the marked distance, and the two counters take opposite sides. Neither says a number aloud until both have finished.
-2. **Clash:** There is nothing to fight. The team counts the trapped tears under the lamp and works Viderehan and Ferrehan only; the shard stays on its tray, because touch is a separately authorized channel with a second person asking every minute who the operator is angry at. Flerehan and Pugnahan are invalid; the shard is already somebody's attempt to handle a feeling by holding it.
-3. **Resolution:** The cycle ends when the count is taken twice and agrees, any memory that rose has been attributed aloud to the mourner rather than carried out, the Gardens' deposit book for the week is attached, and the shard is returned to its tray. There is no suppression step and the shard has never been warmer than the room.
+1. **What is confirmed:** the shard on its tray, the standard lamp set at the marked distance, the two counters on opposite sides, and the week's deposit book attached to the cycle.
+2. **What the watch does:** there is nothing to fight. The team counts the tears under the lamp and works Viderehan and Ferrehan only; the shard stays on its tray, because touch is a separate authorisation with a second person asking everything twice.
+3. **How it closes:** the count is taken twice and agrees, any memory that rose is attributed aloud to the mourner rather than carried out, and the shard goes back to the shelf with both readings on the sheet.
 
 ### Consequences
 
 - The failure here is carrying the anger out of the room without naming it. It is not dramatic: the worker simply leaves annoyed, about something real, at somebody who exists.
 - Past about fifteen minutes the grievance acquires detail that was not in it — a date, a room, a thing somebody said — and the detail is consistent between workers, which is how the Gardens knows the memory is the mourner's and not theirs.
-- The set's costs are domestic but not pooled: the awl takes small nameless memories beginning with the reasons things were given; the veil's wearer keeps small objects they cannot explain or throw away; the fragment's wearer goes emotionally cold and distant.
+- The set's costs are domestic but not pooled: the awl takes small nameless memories beginning with the reasons things were given; the veil's wearer keeps small objects they cannot explain or throw away; the fragment's wearer goes cold at the hands and does not notice.
 - An unresolved cycle does not event anything. It adds a tear. The count has gone from 31 at first survey to 38, and every one of the seven additions followed a cycle in which somebody left without saying whose anger it was.
 
 ## Appearance

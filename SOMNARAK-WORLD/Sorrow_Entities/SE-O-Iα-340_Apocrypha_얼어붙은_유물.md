@@ -44,51 +44,35 @@
 - Ten to fourteen Han-Energy is low and the work is physically undemanding. The cost is in the Ferrehan posting, which teams rate the hardest endurance duty on the Desolate rota: standing in weatherless cold for a full session and getting no answer.
 - Extraction from a Place-manifestation is marginal work and the three pieces here were taken from the frost rather than from the outline, which has never been touched by anything.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Apocrypha is a frozen patch of ground holding the outline of a relic nobody has identified, recorded at nine sites and never once seen to travel between them. There is nothing inside the outline to touch, nothing has ever been touched by an instrument, and no shard has ever launched from it — the file's own combat text was written around that three times over. Its hazard is a forgetting that arrives without an object to blame, and that belongs in a contact record.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | An outline of an absent object, held in frost, at one site at a time; nine sites are recorded and no transit between them has ever been witnessed |
+| **Perceptible to** | Cold without weather, and then the certainty of having forgotten to say something, attached to whatever the worker is already carrying |
+| **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
+| **Sorrow Gauge [HP]** | 198/198 — the containment meter; it climbs while a worker tries to work out what the forgotten thing was |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate — mobile |
-| **Resolution Condition** | Mark the site and speak the farewell that was missed |
+| **Valid Work Types** | Viderehan and Ferrehan only — sight reading for the fragments of purpose, endurance for the weatherless cold |
+| **Location** | The Desolate — one marked site, revisited rather than followed |
+| **Resolution Condition** | Mark the site and speak the farewell that was missed, in the exact words, and let the gauge fall below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Frost Spread* [**Debuff**] } | "The frost does not creep and the cold is not alive. It forms in the air around an empty shape, and it is the whole of this holding's footprint." | [Nothing reaches for anybody's feet; the first sign is cold without weather, then the certainty of having forgotten to say something.] | *Target suffers a Void mark; the certainty attaches itself to whatever they are carrying grief about.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the outline. |
-| { *The Frozen Memory* [**Debuff**] } | "Nobody touches the relic, because there is nothing there to touch — the outline has never been touched by anything, including instruments, and no memory is imparted by it." | [What the target receives is their own unsaid thing acquiring a shape, confidently and wrongly; the file treats every such attachment as evidence about the worker.] | *Target loses clarity; the explanation they invent on the spot is logged, not believed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At the outline, in silence. |
-| { *The Ice Shard* [**Attack**] } | "Nothing breaks free and nothing has ever been fought here — the incidents on file are two hypothermia cases and four reconstructions that should not have been drawn." | [No splinter launches from an empty outline. Inside a reading, the cold moves from the air into the person, and past sixty seconds the exposure is hypothermic regardless of clothing.] | *Inflicts Void damage; the route in is a document read aloud, not a blow.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | While the kit list is being read. |
-| { *The Deep Freeze* [**Attack**] } | "The relic unleashes its stored cold — everything within reach goes solid." | [The Relic flash-freezes the area around the target, and the record's note is that the ground is not being violent: the cold is what the site does when a list is stopped halfway.] | *A heavy Void freeze; the target's Sorrow Gauge surges 15% and the 198 line is untouched — nothing has been done to the outline, and the outline has never been touched by anything.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a reader abandons the recovery list mid-item. |
-| { *The Glacier* [**Ultimate**] } | "The relic's cold does not stop — it freezes the whole field, and the frost is permanent." | [The Relic extends its permafrost across the entire area, and the frost is permanent in the ordinary sense the wing uses for a marked site: it stays until the site goes ordinary and the holding is somewhere else.] | *All in range suffer Void erosion for three turns in the deep freeze. The pressure is the cold the party brought on itself by not marking the site; the series this action answers to is the register of unidentified effects, 1,384 of them, none with a disposal date.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the reading runs past the sixty-second limit — the gauge reaches 65% on exposure, never on provocation. |
+| Event | What the site does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Cold Without Weather* [**Register**] } | Forms frost in the air around an empty shape and nowhere else. The frost does not creep, and the cold is not alive. | Cold on a day that has no weather, which is how the site is found and how it is confirmed as this one and not another. | The footprint of the holding is the frost ring; there is no other instrument that reads it. |
+| { *The Unsaid Thing* [**Exposure**] } | Gives the worker's own unsaid thing a shape, confidently and without detail, until they are sure they left something undone and cannot name it. | Anger before sadness, reliably, and in people with nothing to be angry about. | The file's reading is that an unsaid farewell goes sour rather than quiet. None of it is imparted by the outline; the outline only holds the space where it would have been. |
+| { *The Untouched Outline* [**Refusal**] } | Nothing. Nothing reaches for anybody's feet, no memory is given up by the shape, and the outline has never been touched by anything, instruments included. | Two hypothermia cases and four reconstructions that should not have been drawn — the whole of the incident record. | This is the part of the file that refuses to be a combat record: the only injuries on it came from standing in cold for too long. |
+| { *The Other Site* [**Contagion**] } | On failure, opens beside a different abandoned camp at the same dimensions, and the previous site goes cold and ordinary. | A second location to survey, with the same outline in it and the first one now empty. | Failure is not a breach and produces no pursuit: the site moves, the object does not exist to move. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team fixes the grid reference, measures the distance to the nearest abandoned camp, and obtains from the expedition office the list of unidentified items it is currently holding. The third item is collected before departure and never reconstructed afterwards.
-2. **Clash:** There is nothing in the outline to work against. Viderehan shows fragments of a purpose the archive cannot complete; Ferrehan is a matter of standing in weatherless cold without obtaining an answer, which teams report as the hardest endurance posting in the Desolate rota. Nothing is dug, lifted or thawed.
-3. **Resolution:** The site is marked, the farewell is spoken and written down in the exact words, and the gauge falls below 25% — the documented suppression condition: **Mark the site and speak the farewell that was missed**. Nothing is recovered and nothing is explained; the file's own standard for a closed cycle is that the object is no longer anonymous to the people who stood at the outline, and that the camp's next visitor will find the marker before they find the frost.
+1. **What is confirmed:** the grid reference, the distance to the nearest abandoned camp, and the expedition office's list of unidentified items currently held — the third item on that list is collected before departure and never reconstructed afterwards.
+2. **What the watch does:** there is nothing in the outline to work against. Viderehan shows fragments of a purpose the archive cannot complete; Ferrehan is standing in weatherless cold without obtaining an answer, which teams report as the hardest endurance posting in the Desolate rota.
+3. **How it closes:** the site is marked, the farewell is spoken and written down in the exact words, and the gauge falls below 25%. Nothing is recovered and nothing is explained.
 
 ### Consequences
 

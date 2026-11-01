@@ -45,58 +45,42 @@
 - No breach counter exists. It is held with the Troupe and the group's burden pressure is logged together; the Mask's own contribution is read off the card grade instead.
 - Extraction is separately authorised and has been exercised once, for a handler who could produce her service number faster than her name three days running.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Weight pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 411/411 |
-| **Han Pressure [ATK]** | 9–22 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Empty Mask is stationary when it is not being worn, and the record is explicit that it moves only with the hand that lifts it — the old face-blow row had to say so in the middle of an attack line: *it does not come at you, the hand that moved it was yours*. A thing whose only violence is a handler's own hand needs a handling record, and the file has one in everything but name.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats emptiness |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | One blank mask on a tray among four held with the Masked Troupe, stationary until a named hand lifts it |
+| **Perceptible to** | The depth first: sixty-one millimetres of interior in a nineteen-millimetre object, read by probe and graded against the printed card |
+| **Activation threshold** | Sorrow Gauge ≥ 60%. There is no breach counter on this holding, and the file says none is implied |
+| **Sorrow Gauge [HP]** | 411/411 — the containment meter; the first sign of it climbing is a handler offering a service number where a name was asked for |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, contained with the Masked Troupe |
-| **Resolution Condition** | A second person says the wearer's name back to them. The wearer saying it alone has never once been sufficient on this holding. |
+| **Valid Work Types** | Viderehan and Ferrehan only, two handlers present throughout, the glow graded against the card at the start and end |
+| **Location** | SECTOR-C-01, contained with the Masked Troupe |
+| **Resolution Condition** | A second person says the wearer's name and the wearer answers to it. Self-naming has never once been sufficient on this holding |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Hollow Face* [**Debuff**] } | "The mask stares — and behind the eye-holes, there is nothing. No face. No soul. Just weight." | [The Mask's emptiness presses on the target; they feel the void behind the surface.] | *Target suffers -10 Resolve; the absence is heavy.* **[10 Weight DMG [Weight]]** | When the target regards the Mask. |
-| { *The Gravity of Nothing* [**Debuff**] } | "The emptiness behind the mask pulls at you — and nothing has never been this heavy." | [The Mask's void-interior generates gravitational pull; the target is drawn in.] | *Target loses 10 Resolve; the nothing is dragging them.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Face-Blow* [**Attack**] } | "It does not come at you. It is simply nearer the face than it was, and the hand that moved it was yours." | [Handled without a second person present, the relic closes the distance to the handler's face; the object itself does not travel.] | *Inflicts Weight pressure and one wound of hollow impact.* **[14-22 Weight DMG [Weight]]** | When handled alone, in event of the two-person rule. |
-| { *The Full Vacuum* [**Attack**] } | "The mask opens wide at last, and what comes out of it is not emptiness but appetite: everything the holding has never been able to hand back." | [The depth that reads sixty-one millimetres in a nineteen-millimetre object gives way, and the pull is toward the inner surface.] | *The target's Sorrow Gauge surges 15% and their own name is briefly not available to them.* **[24-36 Weight DMG [Weight]]** | When the depth in the mask gives way. |
-| { *The Sea of Masks* [**Ultimate**] } | "Every face in the room is replaced by the same blank interior, and every one of them is a person who applied in writing and was right to." | [The withdrawal right's arithmetic made visible: the field fills with featureless faces, each one a name the desk is forbidden to count.] | *All in range take Weight pressure for three turns; a handler in the area cannot answer to their own name for the duration.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the mask does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The Hollow Face* [**Register**] } | Shows nothing behind the eye-holes and reads deeper than it is: sixty-one millimetres into nineteen, steady across every probe taken. | The weight of an interior that has no bottom, felt before anything is worn. | The probe depth and the card grade are the identification; four masks are held and no reflection distinguishes this one from the other three. |
+| { *The Gravity of Nothing* [**Exposure**] } | Presses inward on whoever is holding it, without mass, without movement, and without ever being nearer their face than their own hand has put it. | Ten Resolve at a time, and the sensation that the emptiness is heavy rather than empty. | Nothing about the mask travels; the exposure is entirely a matter of how long a hand keeps it lifted. |
+| { *The Closed Distance* [**Exposure**] } | Does nothing at all — until it is handled without a second person present, at which point the distance closed between it and the handler's face is closed by the handler. | Identity confusion inside four minutes, measured, beginning with a service number offered promptly and without noticing. | This is the whole basis of the two-person rule. The object is never the thing that moved. |
+| { *The Vacuum* [**Contagion**] } | Opens at depth and gives back what the holding has never been able to hand back — everything the withdrawal right could not return. | A handler who walks their own round and answers the door, and is not there for it. | The file's worst outcome is not an injury: it is a worker whose name has been replaced by a number that the archive can still look up. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first — the probe depth, sixty-one millimetres into nineteen, and the card grade against the printed strip; four masks are held with the Troupe and no reflection distinguishes this one from the other three. Mirror confirmation is unavailable and is not to be attempted; the approach is then set with both handlers named and the tray log open.
-2. **Clash:** Viderehan and Ferrehan only, two handlers present throughout, the glow graded against the card at the start and end. Nobody present is unconscious, asleep, or sedated; that clause is enforced literally and was written after an infirmary corridor.
-3. **Resolution:** A second person says the wearer's name and the wearer answers to it; the relic returns to the tray, both handlers can still give their own names without pausing, and the gauge closes below 25%. Self-naming has never been sufficient on this holding.
+1. **What is confirmed:** the probe depth, the card grade against the printed strip, and which of the four Troupe masks is on the tray. Mirror confirmation is unavailable and is not to be attempted.
+2. **What the watch does:** Viderehan and Ferrehan with two handlers present throughout, the glow graded at the start and the end, and nobody present unconscious, asleep or sedated — a clause enforced literally.
+3. **How it closes:** a second person says the wearer's name and the wearer answers to it, the mask goes back on the tray, both handlers can still give their own names without pausing, and the gauge closes below 25%.
 
 ### Consequences
 
-- A handler who fails to resist does not report it: the documented first sign is a service number offered where a name was asked for, promptly and without noticing, which is why the second worker's read is the record and the handler's is not.
-- Extended contact does one documented thing and does it quickly: unsupervised handling produces identity confusion inside four minutes, measured, and the two-person rule is built on that figure. The first sign is a service number offered where a name was asked for; past two minutes of contact the wearer may not recognise themselves at all, and the entry is then made by the second worker about a handler who cannot be asked.
-- Every piece in this set carries the holding's discrepancy with it and the toll is entered piece by piece: a heaviness the tray scale never registers for the maul, a constant low fatigue the wearer blames on the shift for the mantle, and an identity slowly not returned for the charm — paid whether the use was correct or not.
-- Unresolved, nothing leaves the tray and the file says so: there is no breach counter on this holding and the Mask has never moved except by a hand whose name is entered. What an unresolved handling produces is a handler who walks out as a number and a card series that keeps rising on its own schedule — 3.1, 4.0, 5.2 — whether or not anybody worked the watch well.
+- A handler who fails to resist does not report it: the documented first sign is a service number offered where a name was asked for, promptly and without noticing, which is why the second worker's read is the record and the handler's own read is not.
+- Extended contact does one documented thing and does it quickly: unsupervised handling produces identity confusion inside four minutes, measured, and the two-person rule is built on that figure.
+- Every piece in this set carries the holding's discrepancy with it and the toll is entered piece by piece: a heaviness the tray scale never registers for the maul, a constant low fatigue the wearer blames on the shift for the mantle, and for the fragment a face the wearer cannot describe and does not want to.
+- Unresolved, nothing leaves the tray and the file says so: there is no breach counter on this holding and the Mask has never moved except by a hand whose name is entered. What an unresolved handling produces is a handler who walks their round correctly and is not there for it.
 
 ## Appearance
 **Physical Form:** A blank, featureless mask of dense black material — a smooth face-shaped void, impossibly deep within. **Movement:** Stationary when unworn — a mask moves only with the wearer.

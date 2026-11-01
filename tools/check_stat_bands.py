@@ -15,7 +15,10 @@ Tier is filed by score, not by the diagonal: Coherence rank (I=1 ... V=5) + Pote
 (alpha=1 ... omega=5), 2-3 ZAYIN / 4-5 TETH / 6 HE / 7-8 WAW / 9-10 ALEPH.
 
 What fails
-  * a dossier with no `Sorrow Gauge [HP]` or no `Han Pressure [ATK]` row at all;
+  * a dossier with no `Sorrow Gauge [HP]` row at all;
+  * a `## Combat Record` dossier with no `Han Pressure [ATK]` row;
+  * a `## Contact Record` dossier (R-36: a fixed thing that never strikes) that still files an
+    attack row, or that has neither section shape;
   * an HP base below the tier floor;
   * an ATK range whose high end is below the tier floor (the whole range sits under the band).
 
@@ -98,9 +101,20 @@ def main():
 
         tier = tier_of(RANK[r.group(1)] + GRADE[g.group(1)])
         tiers[tier] = tiers.get(tier, 0) + 1
+        contact = '## Contact Record' in text
+        combat = '## Combat Record' in text
         hp_cell, atk_cell = row(text, r'Sorrow Gauge \[HP\]'), row(text, r'Han Pressure \[ATK\]')
-        if hp_cell is None or atk_cell is None:
-            missing.append('%s: %s missing' % (name, 'HP row' if hp_cell is None else 'ATK row'))
+        if hp_cell is None:
+            missing.append('%s: no Sorrow Gauge [HP] row' % name)
+            continue
+        if not contact and not combat:
+            missing.append('%s: neither a Combat Record nor a Contact Record' % name)
+            continue
+        if contact and atk_cell is not None:
+            missing.append('%s: Contact Record still carries Han Pressure [ATK]' % name)
+            continue
+        if combat and atk_cell is None:
+            missing.append('%s: Combat Record has no Han Pressure [ATK] row' % name)
             continue
         if code in EXEMPT:
             exempted.append('%s (%s, %s)' % (name, tier, hp_cell.strip()))
@@ -113,6 +127,8 @@ def main():
         elif hp[0] > hp_ceil:
             ceiling.append('%s [%s] HP %s over ceiling %d'
                            % (name, tier, hp_cell.strip(), hp_ceil))
+        if not atk:
+            continue
         if atk[-1] < atk_floor:
             under.append('%s [%s] ATK %s wholly under floor %d'
                          % (name, tier, atk_cell.strip(), atk_floor))

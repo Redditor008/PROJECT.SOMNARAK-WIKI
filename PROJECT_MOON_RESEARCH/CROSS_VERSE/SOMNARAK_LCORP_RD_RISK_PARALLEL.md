@@ -518,7 +518,7 @@ Side-by-side comparison of which sections exist in each system's document:
 7. Preserve the **5 × 5 × 5** code system: Origin (3+), Coherence (5), Potency (5), Element (5), Manifestation (5).
 8. Preserve **Somnarak Elements**: Lament/Grudge/Void/Weight/Mixed.
 9. **R.D. Attributes** (Composure/Resolve/Clarity/Resilience) are crossover stats for L Corp employees exposed to Han — they start at Level 0.
-10. Every Somnarak entity file follows the **fixed template structure** (SECC Classification → Operational Parameters → Combat Record → Appearance → Origin → Behavior → Breach → M.A.W. → Observation → Story Log → Final Observation → Flavor → Interactions → Tale → Testimony → Record → Trivia → Document Info).
+10. Every Somnarak entity file follows the **fixed template structure** (SECC Classification → Operational Parameters → Combat Record → Appearance → Origin → Behavior → Breach → M.A.W. → Observation → Story Log → Final Observation → Flavor → Interactions → Tale → Testimony → Record → Trivia → Document Info). The single substitution is the stats section: a fixed thing that never strikes files a **Contact Record** in that slot under `R-36`, with the same six columns of evidence and no attack line, and its Escape Information is filed as an absence rather than a shape.
 11. External crossover or parody entities go outside the main canon roster.
 12. Uploaded canon/reference files remain immutable.
 
