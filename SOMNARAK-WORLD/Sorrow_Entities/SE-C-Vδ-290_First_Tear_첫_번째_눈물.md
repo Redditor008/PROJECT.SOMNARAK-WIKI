@@ -237,7 +237,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 **Effect:** +3 stat bonus when working the source entity
 **Ability:** A minor boon tied to the source sorrow, mirroring its nature rather than serving the rota. The bearer names the event as unknown and accepts the same management limit as the set; shutdown requires a named witness to state the source title while the bearer relinquishes it, and describing the first grief as one's own is the first failure sign.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer says the event is unknown every time they work it, and no watch on file records that getting any easier to say.
 
 *The first charm is not manufactured and has not been granted within living memory. It was in the vault at inventory, it has been worn by every senior observer since, and it is handed on rather than issued.*
 

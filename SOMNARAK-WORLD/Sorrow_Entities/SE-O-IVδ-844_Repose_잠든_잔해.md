@@ -209,7 +209,7 @@ The cold glass carries a rest boon, not a title to the ground beneath it. Its +3
 
 **Ability:** The charm lets its bearer rest properly in places where rest is not possible — on rubble, in corridors, through alarms — and they wake unrefreshed in a way no measurement detects.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer can sleep anywhere and wake unrefreshed, and no measurement on file tells that apart from having rested.
 
 *The Ruin Charm is given, not taken. It has appeared only on workers who completed a full cycle without once raising their voice and read the count aloud at the end of it. No procedure has produced one deliberately.*
 

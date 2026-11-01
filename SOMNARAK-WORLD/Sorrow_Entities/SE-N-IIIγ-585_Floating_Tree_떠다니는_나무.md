@@ -263,7 +263,7 @@ The living vines absorb emotional recoil, anchoring the wielder against heavy im
 
 **Ability:** Grants a minor boon tied to Floating Tree's sorrow, and the effect mirrors the holding exactly: for a time the bearer can find the way back to a place they half-remember, which is the one thing the tree itself cannot do.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer can walk back to a place they half-remember, and comes back from it with the memory thinner than the route.
 
 **Map without a center:** The individual Charm record warns that using its lines to prove land ownership or a true homeland reverses them toward destroyed ground and can compel sleepwalking. Review with at least three living participants, drawing people before paths and leaving the center blank. After a displacement surge, its recorded care is suspension under open sky for a full sleep period. For removal, each visible participant names another living person while Yeonhwa closes the route without a destination. The bearer cannot dream of home for seven nights afterwards.
 

@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eleven Lament charms, and what each one costs its bearer (2026-11-01)
+
+The third element of the same set. Eleven Lament Han-crystal Stigmas all took their price in the same sentence — *The bearer weeps in their sleep* — which is a cost that a reader can neither check nor see happen, and which made three elements of the Stigma catalogue read as one piece with three labels on it.
+
+Each now takes what its own ability has already said it would. The Willow Charm lends a calm for exactly one ending. The Frozen Echo Charm means a silent room can no longer be taken for an empty one. The Memory Charm leaves its bearer checking standing water for warmth, and then checking rooms. The Fading Charm hears which attributions are merely spoken. The First Charm requires the event to be named unknown every time, and no watch records that getting easier. The Dawn of Charm hears which confessions are performed. The Floating Charm walks its bearer back to a half-remembered place and returns them with the memory thinner than the route. The Fallen Charm removes reassurance without offering anything in its place. The Uprooted Charm stops its bearer asking the way, since they can no longer tell rarely from never. The Flowing Charm carries everything anybody else owns perfectly and will not let its bearer set any of it down. The Ruin Charm grants sleep anywhere and no measurement that can tell it from rest.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0.
+
+
 ## Eleven Grudge charms that each take something else (2026-11-01)
 
 The same defect as the Weight set, one element over: eleven Stigmas of Grudge Han-iron all cost their bearer a shortened temper. The line is gone, and each piece now takes what its own ability has already shown the reader it can take.

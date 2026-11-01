@@ -223,7 +223,7 @@ The escalation reads differently from a stock containment event, and the watch l
 
 **Ability:** Carries a small boon out of the holding's own register — the bearer can tell an attribution that is true from one that is merely spoken, and only while the charm is on them.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer hears which attributions are merely spoken, in every conversation at the wall and in their own account of the shift.
 
 *The Fading Charm is not manufactured and not requested. It has been granted eleven times, every time to a worker whose attribution screen had come back clean twice running, which the wing has noticed and has declined to describe as a reward.*
 

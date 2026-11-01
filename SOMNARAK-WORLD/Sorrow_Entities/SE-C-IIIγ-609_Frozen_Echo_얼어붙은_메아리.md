@@ -235,7 +235,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 **Ability:** Grants a minor boon tied to Frozen Echo's sorrow; the effect mirrors the entity's nature.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer can no longer take a silent room for an empty one.
 
 *The Frozen Echo Charm is not issued and cannot be requested. It has been conferred 3 times, in each case on a handler who set the object down at the clock-holder's call while still in the middle of somebody else's life — the file keeps the 3 as its only evidence that the call can be obeyed.*
 

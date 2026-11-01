@@ -222,7 +222,7 @@ The cannon fires incandescent phosphor pellets that illuminate dark chambers wit
 
 **Ability:** Grants a minor boon tied to Memory Rain's sorrow; the effect mirrors the entity's nature.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer checks standing water for warmth out of habit, and after enough cycles is checking rooms for the same thing.
 
 *Nobody issues the Charm. It settles on whoever stands a fall from beginning to end — eleven of sixty-one falls on record, the only regularity this file has ever found, and useless to plan around.*
 

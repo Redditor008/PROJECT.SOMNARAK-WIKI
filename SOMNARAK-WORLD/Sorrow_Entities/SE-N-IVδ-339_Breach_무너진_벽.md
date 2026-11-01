@@ -222,7 +222,7 @@ The pike's length holds large sorrow entities at bay outside claw reach. The tat
 
 **Ability:** The charm prevents its bearer from being reassured. Statements that something is certainly safe are heard as the words they are, without the comfort attaching, which personnel describe as unpleasant and which has twice resulted in a work stoppage that was afterwards found to be justified.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer cannot be reassured: a statement that something is certainly safe arrives as the words only, and the charm offers nothing to put in their place.
 
 *The fallen charm is not manufactured. Breach gives one to a worker who told a team what could go wrong before they went in, and has given none to anybody who told them not to worry.*
 

@@ -222,7 +222,7 @@ Escalation here is the root line. Record the trigger where one is identifiable, 
 
 **Ability:** When the bearer and affected person or witness agree that one specific task, phase, or farewell has ended, the Charm creates a short calm interval for a closing ritual; it cannot make grief disappear or substitute for consent.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer can hold a calm for one ending at a time, and the interval does not stretch to the second thing they had meant to say.
 
 *The Willow Charm is never issued and cannot be asked for. Five times it has been conferred, each time on a Warden who sat the whole collection beside a mourner who had stayed past closing instead of asking them to leave.*
 

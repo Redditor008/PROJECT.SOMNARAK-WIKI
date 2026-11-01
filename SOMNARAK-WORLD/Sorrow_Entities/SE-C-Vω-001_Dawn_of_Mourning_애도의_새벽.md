@@ -231,7 +231,7 @@ The weapon absorbs darkness, emitting a faint warm luminescence that glimmers li
 
 **Ability:** The bearer can tell a genuine confession from a performed one. Tested forty-one times against sealed statements and correct in thirty-eight, which is the single most important number in this file and the reason the piece is issued at all.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer hears which confessions are performed, which makes them the wrong person to confess to and the right one to send in where somebody is about to lie.
 
 *None, and the entry is kept to say so. A Stigma is given by a source to a worker who has completed a cycle with it; this source has not formed, and the eleven blessings on the register were given by the Kind Healer to people who had no idea what chain they were in.*
 

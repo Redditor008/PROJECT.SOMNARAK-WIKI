@@ -228,7 +228,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Ability:** Grants a small, persistent steadiness on unfamiliar ground — the bearer finds routes easily and is rarely lost, which is the sorrow of the source turned the right way round.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer stops asking anybody the way, because the charm is rarely wrong and they can no longer tell rarely from never.
 
 *Five Charms in nine years and all five on nights when the party named every site it crossed. The station reports the correlation plainly and notes that naming is already required, so nothing follows from it operationally.*
 

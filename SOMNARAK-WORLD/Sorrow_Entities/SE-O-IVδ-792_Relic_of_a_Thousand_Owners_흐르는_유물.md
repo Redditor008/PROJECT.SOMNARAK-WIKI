@@ -224,7 +224,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 **Ability:** Grants a minor boon drawn from the source's own nature — anything the bearer carries for somebody else is never lost, never damaged, and never mislaid, for as long as it remains someone else's.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer carries other people's things perfectly and cannot set any of them down, because the moment a thing becomes theirs the charm stops holding it.
 
 *A Stigma from this source is given, never made. It appears after a successful cycle at the entity's own disposition, which is the only transfer anything in this chamber has ever completed cleanly.*
 
