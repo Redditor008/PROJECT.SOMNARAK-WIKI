@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Flowing Shroud
 
-> *“The Flowing Shroud remembers Relic of a Thousand Owners; the bearer must not mistake memory for permission.”*
+> *"Nothing settles on the wearer, including the reasons to feel it. They are calm and cannot say why."*
 
 ---
 

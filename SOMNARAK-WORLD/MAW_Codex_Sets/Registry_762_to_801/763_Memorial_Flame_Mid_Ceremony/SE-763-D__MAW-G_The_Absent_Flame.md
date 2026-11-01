@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Purple Wick Stigma
 
-> *“The Purple Wick Stigma remembers Memorial Flame Mid-Ceremony; the bearer must not mistake memory for permission.”*
+> *"It shows grief in the dark and burns a little of the bearer's own night for the showing. They sleep only in lit rooms."*
 
 ---
 

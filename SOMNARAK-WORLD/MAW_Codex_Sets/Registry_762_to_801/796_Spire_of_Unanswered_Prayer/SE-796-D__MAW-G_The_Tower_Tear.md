@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Tower Tear
 
-> *“The Tower Tear remembers Spire of Unanswered Prayer; the bearer must not mistake memory for permission.”*
+> *"The shelter is made out of the bearer's belief that it will hold, and each field spends a little of it."*
 
 ---
 

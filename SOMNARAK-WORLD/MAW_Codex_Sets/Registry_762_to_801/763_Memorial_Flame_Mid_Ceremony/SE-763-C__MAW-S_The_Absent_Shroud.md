@@ -1,6 +1,6 @@
 # M.A.W. PROTECTIVE ATTIRE — The Extinguished Mourner's Shroud
 
-> *“The Extinguished Mourner's Shroud remembers Memorial Flame Mid-Ceremony; the bearer must not mistake memory for permission.”*
+> *"Feelings begin in the wearer and complete nowhere. A season of it fills a drawer with letters nobody was meant to send."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Burning Fang
 
-> *“The Burning Fang remembers Last Fruit; the bearer must not mistake memory for permission.”*
+> *"Each strike spends something the wielder wanted and did not take. They end up fighting with an appetite they cannot name."*
 
 ---
 

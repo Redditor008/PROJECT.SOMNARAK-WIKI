@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Grasp Crown
 
-> *“Grasp Crown remembers Grasp; the bearer must not mistake memory for permission.”*
+> *"It warms a wound with somebody else's insistence and takes a little of the bearer's voice for each closing."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Burning Seed
 
-> *“The Burning Seed remembers Last Fruit; the bearer must not mistake memory for permission.”*
+> *"Each burst of strength spends a want the bearer has never said aloud. They are strong and cannot say what for."*
 
 ---
 

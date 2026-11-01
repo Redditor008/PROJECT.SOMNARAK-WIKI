@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Tower Shroud
 
-> *“The Tower Shroud remembers Spire of Unanswered Prayer; the bearer must not mistake memory for permission.”*
+> *"The wearer stays dry and hears the water from up here. A season of it stops them going down to help."*
 
 ---
 

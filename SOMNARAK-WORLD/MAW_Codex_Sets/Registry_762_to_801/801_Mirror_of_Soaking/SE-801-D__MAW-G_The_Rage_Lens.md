@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Rage Lens
 
-> *“The Rage Lens remembers Mirror of Soaking; the bearer must not mistake memory for permission.”*
+> *"Every anger it shows leaves one in the bearer's hands that was never theirs. They cannot tell which grievance is their own."*
 
 ---
 

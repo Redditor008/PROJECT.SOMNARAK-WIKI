@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Fading Veil
 
-> *“The Fading Veil remembers Swallow; the bearer must not mistake memory for permission.”*
+> *"The absorbed surge stays in the cloth and cannot be put down. The Veil grows heavy with other people's panic."*
 
 ---
 

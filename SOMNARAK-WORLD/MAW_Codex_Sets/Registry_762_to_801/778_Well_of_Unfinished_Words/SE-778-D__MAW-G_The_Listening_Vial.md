@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Listening Vial
 
-> *“The Listening Vial remembers Well of Unfinished Words; the bearer must not mistake memory for permission.”*
+> *"A voice goes into the vial and the bearer keeps only the fact of being trusted with it. All confidences, no words."*
 
 ---
 

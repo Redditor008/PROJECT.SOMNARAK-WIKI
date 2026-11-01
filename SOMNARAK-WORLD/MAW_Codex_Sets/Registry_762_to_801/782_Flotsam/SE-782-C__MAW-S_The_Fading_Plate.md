@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Fading Plate
 
-> *“The Fading Plate remembers Flotsam; the bearer must not mistake memory for permission.”*
+> *"The wearer's scars stop explaining themselves. A season of it leaves them unmarked and unaccounted for."*
 
 ---
 

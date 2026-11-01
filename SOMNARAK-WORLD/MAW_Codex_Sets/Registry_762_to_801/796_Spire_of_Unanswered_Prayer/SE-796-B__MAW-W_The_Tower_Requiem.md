@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Sinking Chime-Tower
 
-> *“The Tower Requiem remembers Spire of Unanswered Prayer; the bearer must not mistake memory for permission.”*
+> *"Each blow adds one more unanswered request to what the wielder can hear. They answer everything and finish nothing."*
 
 ---
 

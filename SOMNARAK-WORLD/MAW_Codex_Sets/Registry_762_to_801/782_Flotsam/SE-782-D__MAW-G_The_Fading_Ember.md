@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Fading Ember
 
-> *“The Fading Ember remembers Flotsam; the bearer must not mistake memory for permission.”*
+> *"Each history it saves is paid out of the bearer's own. They keep everything and remember home as an inventory."*
 
 ---
 

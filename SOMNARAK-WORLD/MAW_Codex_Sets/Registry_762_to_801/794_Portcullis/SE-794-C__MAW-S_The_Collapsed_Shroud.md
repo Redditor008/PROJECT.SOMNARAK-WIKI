@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Collapsed Shroud
 
-> *“The Collapsed Shroud remembers Portcullis; the bearer must not mistake memory for permission.”*
+> *"The wearer can shut a feeling behind a door and it waits on the other side. Shut enough of them and none open alone."*
 
 ---
 

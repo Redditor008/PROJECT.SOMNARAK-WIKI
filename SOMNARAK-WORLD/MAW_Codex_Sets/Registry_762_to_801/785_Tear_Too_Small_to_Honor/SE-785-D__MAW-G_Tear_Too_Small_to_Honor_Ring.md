@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Tear Too Small to Honor Ring
 
-> *“Tear Too Small to Honor Ring remembers Tear Too Small to Honor; the bearer must not mistake memory for permission.”*
+> *"Each wound it closes takes one memory of being comforted. Heal enough and the bearer heals everyone and remembers none of it."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Grasp Shroud
 
-> *“Grasp Shroud remembers Grasp; the bearer must not mistake memory for permission.”*
+> *"Everything reaches the wearer at one remove, as though across a bridge that is no longer there. They stop expecting answers."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Torn Keystone
 
-> *“The Torn Keystone remembers Cleaved; the bearer must not mistake memory for permission.”*
+> *"Every wall it steadies takes one certainty about the wearer's own shape. They can hold a falling house and not a name."*
 
 ---
 

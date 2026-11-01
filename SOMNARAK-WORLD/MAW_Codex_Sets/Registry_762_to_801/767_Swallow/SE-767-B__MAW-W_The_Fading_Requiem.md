@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Fading Requiem
 
-> *“The Fading Requiem remembers Swallow; the bearer must not mistake memory for permission.”*
+> *"Every blow takes something small out of the wielder's outline. Comrades learn to aim around them."*
 
 ---
 

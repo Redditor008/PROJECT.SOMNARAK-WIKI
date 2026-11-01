@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Vigilance Sceptre
 
-> *“The Listening Requiem remembers Well of Unfinished Words; the bearer must not mistake memory for permission.”*
+> *"Every blow interrupts the wielder's own sentence. They have not finished a thought since they took it up."*
 
 ---
 

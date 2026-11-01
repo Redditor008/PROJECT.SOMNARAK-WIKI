@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Collapsed Key
 
-> *“The Collapsed Key remembers Portcullis; the bearer must not mistake memory for permission.”*
+> *"Each opening leaves the bearer between two closed ends of the passage. They are always the last one through."*
 
 ---
 

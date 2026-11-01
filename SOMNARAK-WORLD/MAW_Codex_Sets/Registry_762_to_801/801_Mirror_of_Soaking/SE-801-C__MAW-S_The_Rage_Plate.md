@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Rage Plate
 
-> *“The Rage Plate remembers Mirror of Soaking; the bearer must not mistake memory for permission.”*
+> *"The wearer's own anger is held against the inside of the plate. A season leaves the plate warm and the wearer pleasant."*
 
 ---
 

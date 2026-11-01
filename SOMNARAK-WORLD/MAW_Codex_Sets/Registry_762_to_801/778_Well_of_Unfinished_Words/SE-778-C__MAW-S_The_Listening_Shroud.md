@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Listening Shroud
 
-> *“The Listening Shroud remembers Well of Unfinished Words; the bearer must not mistake memory for permission.”*
+> *"The wearer hears every unfinished sentence in the room and none of their own. They can leave a conversation but never end one."*
 
 ---
 

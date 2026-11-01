@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Flowing Charm
 
-> *“The Flowing Charm remembers Relic of a Thousand Owners; the bearer must not mistake memory for permission.”*
+> *"It endears the bearer to whoever is nearest and never to themselves. They belong to every room and to none."*
 
 ---
 

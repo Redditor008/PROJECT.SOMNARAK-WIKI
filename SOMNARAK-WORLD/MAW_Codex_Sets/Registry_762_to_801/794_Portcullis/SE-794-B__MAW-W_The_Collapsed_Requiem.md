@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Ruined Jamb-Knife
 
-> *“The Collapsed Requiem remembers Portcullis; the bearer must not mistake memory for permission.”*
+> *"It closes once, completely, and on both sides at the same time. Its wielder cuts first and cannot remember faces."*
 
 ---
 

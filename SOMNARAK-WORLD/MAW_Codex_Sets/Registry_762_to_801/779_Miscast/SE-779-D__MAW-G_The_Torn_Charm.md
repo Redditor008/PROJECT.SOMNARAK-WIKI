@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Torn Charm
 
-> *“The Torn Charm remembers Miscast; the bearer must not mistake memory for permission.”*
+> *"It quiets the anger at whatever stopped the work. The bearer ends up mislaying their complaints and keeping the jobs."*
 
 ---
 

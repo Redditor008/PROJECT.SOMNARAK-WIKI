@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Thirty-nine epigraphs in 762–801 (batch 60)
+
+Grasp, the memorial flame, Swallow, Cleaved, Last Fruit, the Well of Unfinished Words, Miscast, Flotsam, the garden stone, the thousand-owner relic, the portcullis, the spire, and the mirror. The whole range, thirty-nine records.
+
+The Candelabrum Bodkin puts a flame out the way a hand does — quickly, and by taking the air. The Listening Vial keeps all confidences and no words. The Collapsed Key leaves its bearer always the last one through. The Flowing Shroud leaves a person calm and unable to say why.
+
+Thirty-nine of thirty-nine clear `quote_audit.py --check`; zero duplicate epigraphs anywhere in the codex sets.
+
+**Left:** 219 epigraphs on the formula, in `900_to_930` and `1001_to_1043`.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## Thirty-six epigraphs in 941–976 (batch 59)
 
 The Grieving Love, Calling Bloom, Blackened Angel, Soot Fry, Foam Flood, Stormscale Sovereign, Vanity Asleep, Uprooted, Unheard, Pandora's Jar, Yggdrasil Wound and Willing Chains sets — the whole range, thirty-six records.

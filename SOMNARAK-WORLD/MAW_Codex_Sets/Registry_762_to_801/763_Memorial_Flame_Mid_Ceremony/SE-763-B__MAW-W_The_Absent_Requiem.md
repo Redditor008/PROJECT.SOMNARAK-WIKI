@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Candelabrum Bodkin
 
-> *“The Soul-Seeking Candelabrum remembers Memorial Flame Mid-Ceremony; the bearer must not mistake memory for permission.”*
+> *"It puts a flame out the way a hand does: quickly, and by taking the air. The wielder is the last to speak."*
 
 ---
 

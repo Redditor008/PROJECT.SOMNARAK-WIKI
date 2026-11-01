@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Torn Plate
 
-> *“The Torn Plate remembers Miscast; the bearer must not mistake memory for permission.”*
+> *"The Plate convinces its wearer that the job is nearly complete. A season of wear means it is never put down."*
 
 ---
 

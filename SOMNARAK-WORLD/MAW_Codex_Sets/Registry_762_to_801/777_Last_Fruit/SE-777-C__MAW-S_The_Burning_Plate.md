@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Burning Plate
 
-> *“The Burning Plate remembers Last Fruit; the bearer must not mistake memory for permission.”*
+> *"It stops the blow and the wanting together. A season of wear leaves its bearer never reaching for anything."*
 
 ---
 

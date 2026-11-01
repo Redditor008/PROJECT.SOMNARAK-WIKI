@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Tear-Drop Awl
 
-> *“Tear Too Small to Honor Requiem remembers Tear Too Small to Honor; the bearer must not mistake memory for permission.”*
+> *"It punctures what people keep flat. A long wielding leaves no surface left to hide anything under."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Tear Too Small to Honor Shroud
 
-> *“Tear Too Small to Honor Shroud remembers Tear Too Small to Honor; the bearer must not mistake memory for permission.”*
+> *"Grief is pressed flat enough to carry. A season of it means it cannot be found when it is needed, and returns all at once."*
 
 ---
 

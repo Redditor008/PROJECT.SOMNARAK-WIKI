@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Torn Veil
 
-> *“The Torn Veil remembers Cleaved; the bearer must not mistake memory for permission.”*
+> *"The wearer grows harder to describe and easier to walk past, until they are absent from their own account."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Fading Charm
 
-> *“The Fading Charm remembers Swallow; the bearer must not mistake memory for permission.”*
+> *"Each kindness spends an introduction. Carried long enough, the bearer is known by everyone and remembered by none."*
 
 ---
 

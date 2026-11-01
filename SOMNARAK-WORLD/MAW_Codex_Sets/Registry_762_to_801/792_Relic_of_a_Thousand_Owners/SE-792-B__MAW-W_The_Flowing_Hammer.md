@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Cascading Falchion
 
-> *“The Flowing Hammer remembers Relic of a Thousand Owners; the bearer must not mistake memory for permission.”*
+> *"The falchion keeps the wielder's momentum and does not give it back. After a season they cannot start anything."*
 
 ---
 

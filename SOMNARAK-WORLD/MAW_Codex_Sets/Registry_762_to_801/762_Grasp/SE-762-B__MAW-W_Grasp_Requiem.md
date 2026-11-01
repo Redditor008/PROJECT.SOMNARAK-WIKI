@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Grasp Requiem
 
-> *“Grasp Requiem remembers Grasp; the bearer must not mistake memory for permission.”*
+> *"Every call it carries across a gap comes back as the not-answering. Its wielders keep calling after the fight has ended."*
 
 ---
 

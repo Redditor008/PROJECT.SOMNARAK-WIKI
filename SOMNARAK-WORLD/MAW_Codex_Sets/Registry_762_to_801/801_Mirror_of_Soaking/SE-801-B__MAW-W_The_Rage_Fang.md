@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Grudge Brazier
 
-> *“The Rage Fang remembers Mirror of Soaking; the bearer must not mistake memory for permission.”*
+> *"It burns what was swallowed. Each strike spends a grievance the wielder kept quiet, and they remember it afterwards."*
 
 ---
 

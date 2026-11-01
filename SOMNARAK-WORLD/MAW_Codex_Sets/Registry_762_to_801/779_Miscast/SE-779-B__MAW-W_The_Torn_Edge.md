@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Fracture Sundial
 
-> *“The Torn Edge remembers Miscast; the bearer must not mistake memory for permission.”*
+> *"It strikes harder against what is damaged and takes from the wielder the sense that the work is finished. They cannot put anything down."*
 
 ---
 

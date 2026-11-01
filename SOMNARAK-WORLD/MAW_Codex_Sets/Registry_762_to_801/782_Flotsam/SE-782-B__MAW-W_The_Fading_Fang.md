@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Fading Fang
 
-> *“The Fading Fang remembers Flotsam; the bearer must not mistake memory for permission.”*
+> *"Each blow burns away why the thing in the hand mattered. The wielder carries it and cannot say what it was for."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Torn Lens
 
-> *“The Torn Lens remembers Cleaved; the bearer must not mistake memory for permission.”*
+> *"A stair, a nickname, the route home: one per blow, until the wielder's past has gaps the size of what they landed."*
 
 ---
 
