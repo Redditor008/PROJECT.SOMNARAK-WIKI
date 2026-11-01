@@ -45,51 +45,36 @@
 - No breach counter applies; it is not the kind of thing that events. Crews mark their position with chalked tags at ten-link intervals, because the links are indistinguishable by eye and a surveyor who loses their place begins the run again.
 - Extraction draws on link residue under separate authority, granted eleven times, the residue falling in the ten to one hundred kilogram Han Dust band. No link has ever been removed.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Weight pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 435/435 |
-| **Han Pressure [ATK]** | 10–23 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it is *fixed in the ground beneath the Row* — it lengthens between surveys but does not travel — and the file's own note is that it has never left the gallery, never bound anybody, and never produced a link around a living wrist. The one blow on record is eighteen years old and is the reason striking is prohibited.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Binding and connecting |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A massive chain of crystallised debts fixed in the ground beneath Collector's Row, every link carrying a distinct obligation and many links standing surety for the next. New links appear between surveys and are recorded with a date of appearance and nothing else. |
+| **Perceptible to** | The weight under the hand first, which is measurable and increases with contact; then the run — the length of a sequence in which each name guarantees the next, which is the only instrument the holding has. |
+| **Handling** | Supported, never lifted. Forty links and forty names to a shift, and the shift stops at forty even when the reader knows a name. Nothing is struck, nothing is turned to read its underside, and the run is counted twice when it passes forty. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan touches the link, names the debtor, and the obligation's history returns whole — amount, date, whether it was discharged, whether it was inherited, and who stood behind it — and holds level; Ferrehan is a shift walking forty links and reading forty names, and lowers the gauge. |
+| **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's cascade register produced and read aloud in the gallery, every pursuit beyond a first guarantor named with its authorising officer, and the gauge below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *Your Own Name* [**Debuff**] } | "Fourteen operatives have found their own name cut into a link while reading a history on somebody else's behalf. Reassignment is on request and without inquiry, and the instruction exists because the first one to find hers did not ask." | [The operative appears in the surety line they are reading.] | *Resolve -10; reassignment is offered on request and without inquiry.* **[10 Weight DMG [Weight]]** | When the operative appears in a returned history. |
-| { *Heavier Under The Hand* [**Debuff**] } | "The increase is not an illusion and it has been measured. The figures are held and kept out of the briefing, because a Warden who has seen them handles the chain worse." | [The link gains mass under sustained contact.] | *Resolve -10 and the survey slows; the chain is supported, never lifted.* **[10 Weight DMG [Weight]]** | On contact held past one minute. |
-| { *The Prohibited Strike* [**Attack**] } | "Struck once, in Year 4224. The link shortened. The run went up by nine and stayed up for two years." | [A link deforms under the blow and the sequence tightens.] | *Heavy Weight pressure; the run lengthens and does not recover.* **[14-22 Weight DMG [Weight]]** | If a link is struck, which is prohibited. |
-| { *Sixty-One* [**Attack**] } | "Year 4229. Sixty-one consecutive links, each name standing behind the next, and the surveyor walked the whole run twice because nobody upstairs believed the first count." | [The longest sequence on record is read off in a single survey.] | *Heavy Weight pressure across the crew; the Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | At a run above forty. |
-| { *The Whole Row* [**Ultimate**] } | "Modelled only. It has never left the gallery, never bound anybody, and never produced a link around a living wrist." | [Projected extension across the district.] | *Area Weight pressure over three turns, unobserved, retained as a planning figure.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Gauge 65%, not reached. |
+| Event | What the Chain does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Run* [**Register**] } | New links appear between surveys, dated and nothing else, and consecutive links stand surety for one another; the longest such sequence is the only instrument the holding has. | The survey walks the run and reads names, forty to a shift, and the sequence is counted rather than estimated. | The inventory has refused from the first cycle to write down the names cut into the links, so the register is the length and never the roll. |
+| { *Heavier Under the Hand* [**Exposure**] } | The link gains mass under sustained contact. The increase is not an illusion and has been measured. | The chain is supported and never lifted, and contact past one minute slows the survey and is logged as such. | A warden who has seen the figures handles the chain worse, which is why they are kept out of the briefing and why the withholding is written down. |
+| { *The Prohibited Strike* [**Refusal**] } | Struck once, in Year 4224: the link shortened, the run went up by nine, and it stayed up for two years. | No link is struck, turned or lifted, and the prohibition is enforced in the gallery rather than recorded after the fact. | The refusal is that force tightens it. The one blow on record made the sequence longer, and it did not come back. |
+| { *Sixty-One* [**Overload**] } | In Year 4229 sixty-one consecutive links, each name standing behind the next, were read off in a single survey. | A run above forty is counted twice by two surveyors and read aloud in the gallery at the quarter. | Resolve fails here as a compulsion to keep reading: eleven people did not stop, which is why the forty-link rule exists. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team confirms the chalked origin and the cut gallery, then counts the run; it does not weigh the chain. The inventory grows every month, but length has never predicted the run. What matters is the longest sequence of consecutive links standing surety for one another, measured against last quarter before a reading begins.
-2. **Clash:** Viderehan and Ferrehan only; Ferrehan lowers the gauge and Viderehan holds it level. The reading is the run: the longest sequence of consecutive links on which each link's name appears as surety on the next, counted at the quarterly survey. Baseline three. Floor one, ceiling sixty-one.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **What is confirmed:** the length of the run against the last survey, the date of every new link, and the weight under the hand at the start and the end of contact.
+2. **What the watch does:** Viderehan touches the link and reads back the obligation whole, Ferrehan walks forty links and reads forty names. The chain is supported rather than lifted, the shift stops at forty, and a name the surveyor knows does not extend it.
+3. **How it closes:** the close is the file's documented condition: **The quarter's cascade register produced and read aloud in the gallery, every pursuit beyond a first guarantor named with its authorising officer, and the gauge below 25%.**
 
 ### Consequences
 

@@ -45,51 +45,36 @@
 - Crossing alone is the single prohibited action. The structure extends to meet a solitary worker and does not retract until the shift ends.
 - Yield accumulates while it waits, so cycles that leave it uncrossed return more than cycles that engage it.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure and 15% against everything else. The two figures are taken from the span's own material — empty crystal grown out of an obligation rather than out of stone — and the record's note is that it is accordingly durable against the pressure it was made from and only ordinarily sturdy against anything else. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 386/386 |
-| **Han Pressure [ATK]** | 7–17 per turn of exposure · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary, and it spreads rather than moves* — crystal reaching across whatever documents and floors are in contact with it, both ends terminating in air. The file says plainly that nobody stands on it, that it carries nothing, and that crossing is the single prohibited action.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A bridge-shaped object of empty crystal, grown out of an obligation rather than out of stone, reaching across the ledgers and floors of Collector's Row. One end terminates in air and so does the other; nothing about it is fixed except the two unfinished ends. |
+| **Perceptible to** | The span first, measured against the room's own fittings and the ledger pages it lies across rather than against a shore; then the unsteadiness, which is in the worker who is about to help rather than in the ground. |
+| **Handling** | Nobody crosses and nobody performs a service for anybody else inside the reading. The session stops at the first such act and not the third, because the span reads every one of them as a crossing. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 386/386 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the connection the span was trying to make and holds the reading steady, which is the correct result here and not a failed suppression; Ferrehan waits at one end for the length of a session without starting across, and lowers the gauge. |
+| **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | Both parties enter the distance in their own hand, with no proxy and no single signature, and the Sorrow Gauge falls below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Extended Span* [**Debuff**] } | "Nothing grows plank by plank and nothing is hungry — empty crystal reaching across the nearest connected document, and stopping where the connections stop. The hunger people report is their own conviction that somebody ought to have come by now." | [The extension is measured against the room's own fittings and against the ledger pages it is lying across, not against a shore.] | *Target suffers -10 Resilience; the span will not stop reaching, because reaching is all it is.* **[10 Grudge DMG [Grudge]]** | When the target waits at one end. |
-| { *The Sway* [**Debuff**] } | "The span does not sway underfoot, because nobody stands on it: it terminates in air at both ends, it carries nothing, and crossing is the single prohibited action on this file. The unsteadiness is in the worker who is about to help." | [The first small service — a form carried, a question answered for somebody — is the reading; the session stops at the first such act, not the third.] | *Target loses 10 Resilience; the ground was never the untrustworthy part.* **[10 Grudge DMG [Grudge]]** | When the target starts acting on another's behalf. |
-| { *The Splinter Plank* [**Attack**] } | "There are no planks and nothing wooden anywhere in the record. What breaks loose, when it does, is an entry: a document connecting two people who have not spoken, now with crystal lying across both their names." | [The audit reports span sightings as a relationship finding, not as a containment event.] | *Inflicts Grudge pressure; the wound is documentary and is entered by name.* **[14-22 Grudge DMG [Grudge]]** | When the span enters a new ledger. |
-| { *The Collapse* [**Attack**] } | "It cannot give way, because it was never carrying anything, and there is no chasm under it — no river below and no shore ahead. What gives way is the solitary crosser's version of events." | [A worker who crosses alone arrives nowhere, both ends still in air, and finds the whole relationship in their own hands.] | *A heavy Crimson fall with no height to it; the target's Sorrow Gauge surges 15%. The 386 HP line is untouched — the Bridge does not break, because it was never carrying anything.* **[24-36 Grudge DMG [Grudge]]** | When a worker crosses alone, which is the single prohibited action. |
-| { *Bridges Panopticon* [**Ultimate**] } | "The bridge does not stop — it spans the whole field, wall to wall, and then keeps going." | [The Bridge engulfs the entire area in its hungry extension, and the extension is through documents as much as through air.] | *All personnel suffer Grudge pressure for three turns under the spreading span. What spreads is not the crystal but the obligation: the filings it lands across are the ones with two names and no response.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the span has begun to reach documents rather than a room. |
+| Event | What the Bridge does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Extended Span* [**Register**] } | It reaches across the nearest connected document and stops where the connections stop. Nothing grows plank by plank and nothing is hungry. | The extension is measured against the room's fittings and the ledger pages it crosses, not against a shore, and the new span is dated. | The hunger people report is their own conviction that somebody ought to have come by now, and the file records it as a report rather than a reading. |
+| { *The Sway* [**Exposure**] } | The span does not sway underfoot, because nobody stands on it. The unsteadiness is in the worker who is about to help, and the first small service is the reading. | The session stops at the first act performed on another's behalf — a form carried, a question answered for somebody, a signature taken up. | The ground was never the untrustworthy part, which is the sentence the file puts in the middle of this exposure. |
+| { *The Prohibited Crossing* [**Refusal**] } | It cannot give way, because it was never carrying anything: no river below it and no shore ahead of it. | Crossing is the single prohibited action on this file, and no worker starts across to see where it goes. | The refusal is structural. The ends stay in air whether or not anybody is watching, and no crossing has ever been made. |
+| { *The Proxy* [**Overload**] } | What gives way is the solitary crosser's version of events: a worker who crosses alone arrives nowhere, both ends still in air, and finds the whole relationship in their own hands. | The effect is counted in proxies rather than in time — a payment made quietly, a form signed for a relative, a message passed on rather than sent. | The 386 line is untouched. The Bridge does not break, because it was never carrying anything. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Friendless Bridge is confirmed by the endings, and confirmed twice, because the archive holds more than one span-shaped record and they require opposite things. This is the one made of empty crystal that terminates in air at both ends and lies across documents rather than ground, and the team reads both ends before anything else: the point where it stops in air, and the pages it has grown over. Position and withdrawal are fixed before the cycle opens, and the first entry made on anybody's behalf cancels the session.
-2. **Clash:** The work is done on the ledgers the span has grown into, not on the crystal. Viderehan shows the connection it was trying to build and holds the reading steady; Ferrehan requires the worker to wait at one end without starting across, which is harder than it reads, because the span appears to be waiting for them specifically.
-3. **Resolution:** The session closes when both parties to the original obligation have entered, each in their own hand, that the distance between them has not been crossed — and the reading falls below 25%. One signature closes nothing here, however senior the signatory.
+1. **What is confirmed:** where the span ends, which documents it lies across, and the count of acts already performed on somebody else's behalf this watch.
+2. **What the watch does:** Viderehan reads the connection the span was trying to make and Ferrehan waits at one end without starting across. The session ends at the first proxy, nobody crosses, and nothing is measured against a shore.
+3. **How it closes:** the close is the file's documented condition: **Both parties enter the distance in their own hand, with no proxy and no single signature, and the Sorrow Gauge falls below 25%.**
 
 ### Consequences
 

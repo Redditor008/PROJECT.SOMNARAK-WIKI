@@ -45,50 +45,36 @@
 - Because destruction is irreversible, all work is conducted under two-person authorisation and the implement is removed from the chamber between cycles.
 - Yield must be extracted before any drawing work begins. Once the circle closes there is nothing left to extract from.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — stationary artifact |
-| **Resistance** | 35% against Void pressure and 20% against the rest — an instrument of law, and it holds against anything that would overrule it |
-| **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 480/480 |
-| **Han Pressure [ATK]** | 10–22 per hit · Void |
-| **Coherence modifier** | II — focused protective boundary |
-| **Potency modifier** | β — absolute sanctuary warding |
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own note is that the implement does not travel on its own or grow into a chamber. What it does is powder, hush and the removal of a name from a record, and none of that is aimed at anybody.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 14 turns |
-| **Threat Role** | Defensive Consumable / Protective Sanctuary |
-| **Coherence** | Echo (II) — Silent erasing trace |
-| **Primary Pressure** | Identity / memory pressure |
+| **Mode of presence** | An octagonal mineral stick in the Deep Tribunal Archive, shedding fine lime-white powder from its surface. The powder is material the implement has left behind and the closed chalk circle is the activated boundary; both are logged separately from the stick's own dimensions and mass. |
+| **Perceptible to** | The powdering first — pale dust hanging in dry, odourless air — then the attenuation, a room in which voices fail to carry and words vanish in the throat. |
+| **Handling** | Silk-lined gloves throughout, because bare skin past twenty seconds and an operative begins signing false confessions or striking their own name from duty rosters. The existing arc is logged without being extended, and the chalk is kept away from identity records. |
+| **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
+| **Sorrow Gauge [HP]** | 480/480 |
 | **Starting Sorrow Gauge** | 30–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Floor 6 Tribunal Antechamber / Deep Sector |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan monitors surface powdering and acoustic absorption at the plinth and holds level; Ferrehan holds the chalk without drawing a line, resisting the urge to strike through their own identity, and lowers the gauge. |
+| **Location** | SECTOR-N-06, Deep Tribunal Archive — contained |
 | **Resolution Condition** | The chalk circle is drawn and consumed, erecting a 30-second sanctuary ward |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| {{ *Pale Dust Fall* [**Debuff**] }} | "Fine white powder sloughs from the cylinder, hanging in the air." | [The air turns dry and odorless; memories of legal verdicts grow hazy.] | *Target loses 6 Clarity.* | When touched with bare skin. |
-| {{ *Struck Line* [**Debuff**] }} | "A pale line appears on the plinth without physical contact." | [Looking at the line causes brief disorientation.] | *Target takes 8 Void damage.* | When an operator hesitates during logging. |
-| {{ *The Magistrate's Silence* [**Attack**] }} | "A deep, suffocating hush descends within a five-meter radius." | [Voices fail to produce sound; words vanish in the throat.] | *Inflicts Silence on all targets for 1 turn.* | When spoken to loudly. |
-| {{ *Erasing Touch* [**Attack**] }} | "The chalk residue numbs the operator's fingertips down to the bone." | [The operator momentarily forgets why they entered the chamber.] | *Target loses 10 Composure.* | When handled without fabric gloves. |
-| {{ *Registry Void* [**Ultimate**] }} | "The chalk vibrates frantically, leaking clouds of lime-white fog." | [The room blurs as if struck from municipal records.] | *All units suffer 15 Void damage.* | When Sorrow Gauge reaches 60%. |
+| Event | What the Strike-Through does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Powdering* [**Register**] } | Fine white powder sloughs from the cylinder, the air turns dry and odourless, and memories of legal verdicts grow hazy. | Surface powdering and acoustic absorption are logged at the plinth without extending the existing arc. | The powder is material the implement has left behind and is not a replacement stick, which the file states to stop the assumption being made. |
+| { *The Silence* [**Exposure**] } | A hush descends inside five metres and words vanish in the throat; under bare contact the operative's fingertips go numb to the bone and they forget why they entered the chamber. | Silk-lined gloves throughout, bare skin capped at twenty seconds, and an operative who signs anything is removed from the post at once. | The loss is of voice and identity rather than of tissue, and the record that matters afterwards is the roster. |
+| { *The Struck Name* [**Refusal**] } | It does not strike anybody. Turned on the person holding it, it acts clerically: the name comes off the roster and the confession gets signed. | Ferrehan holds the chalk without drawing a line, and the forbidden identity stroke is not made even to test it. | The refusal is that there is nothing here to fight. The instrument acts on records, and the record it amends most easily is the operative's own. |
+| { *The Circle* [**Overload**] } | Completed, the circle grinds the implement to dust and erects a thirty-second ward. Left half drawn, it leaves an uncontrollable silence anomaly that suppresses voice communication. | The lead states which of the two is happening before the chalk goes to the floor, and a partially drawn circle is completed rather than abandoned. | Controlled inscription grants absolute immunity from mental wipeout for thirty seconds, which is the whole of what this object is for. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
-2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The watch closes on the standard containment quotas, or the Relic is deliberately spent to answer an existential breach of the facility — and the file registers a suppression condition: **Draw the circuit by hand and complete it, or leave the chalk on the tray**. The clause is the whole of the handling discipline: the chalk is never delegated, and a circle is never left half-drawn.
+1. **What is confirmed:** the powdering rate at the plinth, the acoustic absorption of the room, and whether the existing arc has been touched since the last watch.
+2. **What the watch does:** Viderehan reads the plinth and Ferrehan holds the chalk without drawing a line. Gloves stay on, identity records stay out of the room, and the arc is logged rather than extended.
+3. **How it closes:** the close is the file's documented condition: **The chalk circle is drawn and consumed, erecting a 30-second sanctuary ward** — after which the implement is gone and the circle is all that is left of it.
 
 ### Consequences
 

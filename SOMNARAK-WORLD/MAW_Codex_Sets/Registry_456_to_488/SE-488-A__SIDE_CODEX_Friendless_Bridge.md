@@ -20,7 +20,7 @@ An empty-crystal bridge spreads across Collector’s Row ledgers without connect
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 35–50% / 7–17 |
+| Gauge / Pressure | 386/386; starts 35–50% / Grudge — no attack pattern; how far the span reaches across the ledgers is the reading |
 | Observation | 2 |
 | Set | The Mutual Crossing |
 

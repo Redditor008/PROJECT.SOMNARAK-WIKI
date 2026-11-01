@@ -45,51 +45,36 @@
 - No breach counter applies to this fixed O-Relic: it activates under contact rather than leaving the bracket. The interval is logged at every watch because it is the only quantity this entity produces, and a watch that returns no reading is written up as a failed watch.
 - Residue recovery is separately authorised and has been granted twice, both times after a face repair. The clock has never been dismantled and the prohibition on winding it is absolute.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Weight pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 435/435 |
-| **Han Pressure [ATK]** | 10–23 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device whose internal parts may move*, and the clock cannot be wound, does not reset, and has never run backwards; mechanical intervention is prohibited, and the prohibition dates from the one occasion it was tried. What the file holds is a figure each reader takes privately.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Anxious and counting |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A battered clock with a cracked face, standing in the clock room on Collector's Row, warm from no source within a band so narrow that the temperature is logged every watch precisely because it has never moved. Its hands count down to personal debt deadlines rather than to hours. |
+| **Perceptible to** | The mechanism first, audible anywhere in the room; then the face, which resolves separately for each observer — two people read the same glass and read different figures, and neither is wrong. |
+| **Handling** | Not wound, not struck, not reset. Readings are taken at the watch and entered with the reader's name against the figure or the line struck through, and nobody in the room is permitted to ask whose date it is. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan resolves the date behind the face — which entitlement, published when, and the officer who would apply it — and holds level; Ferrehan is the watch spent in a warm room with an audible mechanism, taking a figure nobody else in the building can check, and lowers the gauge. |
+| **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *Your Own Reading* [**Debuff**] } | "You read fifty-eight days. The man beside you reads nine. Neither of you is wrong and neither of you is allowed to ask." | [The face resolves separately for each observer.] | *Resolve -10; the reading is entered with the reader's name or struck through.* **[10 Weight DMG [Weight]]** | On first sight of the face. |
-| { *Acceleration* [**Debuff**] } | "A new obligation anywhere on the Row and the hands take it up within the hour. The log is an unintended record of borrowing and the facility does not share it." | [The rate increases as obligations are incurred nearby.] | *Resolve -10; the watch is extended and a second reader is called.* **[10 Weight DMG [Weight]]** | When the rate changes mid-watch. |
-| { *The Prohibited Repair* [**Attack**] } | "Struck once, in Year 4226. The glass broke, the hands did not pause, and the interval that watch read four days. His account runs to two pages and never says what he expected." | [The face is broken; the mechanism is unaffected.] | *Heavy Weight pressure and one laceration; the interval collapses for the watch.* **[14-22 Weight DMG [Weight]]** | If the clock is struck or wound, both prohibited. |
-| { *Zero* [**Attack**] } | "Year 4231. Every reader in the building took the same figure for the first and only time, and the figure was nought. It was the quarter we extinguished four thousand one hundred claims." | [A reading below seven days is the room's near-zero figure: the hands are running short and falling is the bad direction.] | *Heavy Weight pressure across the room. Nothing in the room is touched first: pull the quarter's time-bar list and name every extinguished entitlement with its published date, its value, the officer who applied it, and whether the holder was known to be ill, absent or bereaved.* **[24-36 Weight DMG [Weight]]** | At a reading below seven days. |
-| { *Every Clock On The Row* [**Ultimate**] } | "Modelled only. No other timepiece in the district has ever been affected, and the Row has checked them at every quarter for fifteen years." | [Projected spread to adjacent timepieces at the escalation threshold; no such spread has ever been observed.] | *Area Weight pressure over three turns, unobserved, retained as a planning figure. End contact, enter both figures unreconciled, and check the Row's other timepieces before the watch is written up.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 60% (projected; not reached on record). |
+| Event | What the Deadline does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *Your Own Reading* [**Register**] } | The face resolves separately for each observer. Two people read the same glass and read different figures, and neither of them is wrong. | Both figures are entered with the reader's name, and the standing order forbids anybody in the room from asking whose date it is. | The file keeps the disagreement rather than reconciling it, and a reading that has been struck through is still a reading. |
+| { *The Acceleration* [**Exposure**] } | The hands take up a new obligation anywhere on the Row within the hour, and the watch log becomes an unintended register of local borrowing. | The rate is logged and not shared outside the clock room, and the reasoning for withholding it is recorded with the figure. | Resolve fails here as recognition: a reader works out whose date they are looking at, usually their own, and nine have. |
+| { *The Prohibited Repair* [**Refusal**] } | It cannot be wound and does not reset. Struck once in Year 4226, the glass broke, the hands did not pause, and the interval that watch read four days. | Mechanical intervention is prohibited and the prohibition dates from that occasion; nobody touches the hands to see what happens. | The refusal is that nothing is answered: breaking the face does not do anything to the mechanism. |
+| { *Zero* [**Overload**] } | A reading below seven days is the near-zero figure, and falling is the bad direction. In Year 4231 every reader in the building took the same figure for the first and only time, and the figure was nought. | The quarter's time-bar list is pulled and every extinguished entitlement named with its published date, its value, the officer who applied it, and whether the holder was known to be ill, absent or bereaved. | The only thing that has ever slowed the hands was a rule signed in the claims office, which is why the close on this file is a list rather than an action. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is checked (read the hands and log the reader. The face is unverifiable by design — two people in the same room get different figures and neither is wrong — and a reading entered without a name attached is void and is struck through rather than erased) and Deadline is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** Viderehan and Ferrehan only; Ferrehan lowers the gauge and Viderehan holds it level. The reading is the interval: the number of days the hands show remaining to the duty Warden, taken at the start of watch and logged with the reader's name because the face shows a different figure to every observer. Baseline fifty-eight days. Here the reading falling is the bad direction. Floor zero, ceiling six hundred and eleven.
-3. **Resolution:** The watch closes when both readers have entered their own figures against their own names, unreconciled, contact has ended inside the posted limits, and the quarter's time-bar list has been read in the room with each extinguished entitlement named. A good watch in a short-interval quarter is written up as a good watch; the gauge measures the watch and the interval measures the registry.
+1. **What is confirmed:** the temperature against the band it has never left, the figure each reader takes, and the rate at which the hands are running this watch against the last.
+2. **What the watch does:** Ferrehan spends the watch in the room taking the figure and Viderehan resolves the date behind it. Both figures are entered under their readers' names, nobody asks whose date it is, and nobody puts a tool to the mechanism.
+3. **How it closes:** the close is the file's documented condition: **The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25%.**
 
 ### Consequences
 

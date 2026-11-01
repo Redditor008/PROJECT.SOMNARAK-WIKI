@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five relics that count, span or show (2026-11-01)
+
+Sixth batch. Two of these are the archive's two great survey instruments — a clock that counts down debt and a chain that counts surety — and both were filed with a battle length and an attack band.
+
+- **Deadline** (`N-IIIβ-156`) — *stationary — a device whose internal parts may move*; it cannot be wound, does not reset and has never run backwards, and the ban on mechanical intervention dates from the one occasion it was tried. Two people read the same glass and read different figures, and neither of them is wrong.
+- **The Debt Chain** (`N-IIIβ-160`) — *fixed in the ground beneath the Row*; it lengthens between surveys but does not travel, has never bound anybody, and never produced a link around a living wrist. The one blow on record, in 4224, shortened a link and put the run up by nine for two years.
+- **Friendless Bridge** (`N-IIβ-488`) — *stationary, and it spreads rather than moves*, both ends terminating in air. The file's own line is that nobody stands on it, it carries nothing, and crossing is the single prohibited action.
+- **The Magistrate's Strike-Through** (`N-IIβ-319`) — *stationary — a discrete object*, and the implement does not travel on its own. What it does is powder a room, hush it, and take a name off a roster.
+- **Life Behind Glass** (`N-Iα-518`) — the window is fixed in the tunnel wall with no hinge or opening on either face, and the resistance note says there is nothing to strike and confrontation is invalid. The hazard is a worker standing still, apparently attentive, for longer than their shift.
+
+**What replaced the exchange.** Each record now carries the register that file actually keeps — the two readers' disagreeing figures, the length of a surety run, how far the span reaches across the ledgers, the powdering rate at a plinth, the first-look time and how long a gaze lasts — and a Watch Sequence that closes on the file's own condition.
+
+**The one rule that had to move intact.** Life Behind Glass forbids both the obvious interventions: nobody touches the viewer and nobody covers the glass. The relief interrupts by stepping into the line of sight, and that instruction now sits in the Handling row rather than inside a combat move.
+
+**Side codices.** Four of the five have one, and each row lost its per-hit band, including two that used the older `Gauge / pressure` spelling: *435/435; starts 35–50% / Weight — no attack pattern; each reader's own countdown is the reading*, and the same form for the Chain, the Bridge and the Window.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `seam_lint` 0 · `breach.py` unchanged. **Thirty converted, twenty-seven relic `Combat Record`s still to read.**
+
 ## Five relics whose harm was clerical (2026-11-01)
 
 Fifth batch, and the run of them where "damage" turns out to mean paperwork: a fork walk, a logger trace, a frost pattern, a lean on a cord, a register that has to be destroyed rather than corrected.

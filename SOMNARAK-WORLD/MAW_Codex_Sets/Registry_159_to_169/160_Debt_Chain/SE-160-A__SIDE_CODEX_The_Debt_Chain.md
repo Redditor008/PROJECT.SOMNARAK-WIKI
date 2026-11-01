@@ -26,7 +26,7 @@
 | Element | Weight |
 | Location | SECTOR-C-01, Collector’s Row |
 | Form | A massive chain of crystallized debts, each cold heavy link inscribed with a name and dragging across the ground behind whoever bears it. |
-| Gauge / pressure | 35–50% / Weight 8–20 |
+| Gauge / pressure | 435/435; starts 35–50% / Weight — no attack pattern; the length of a surety run is the reading |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Named Obligation |
 

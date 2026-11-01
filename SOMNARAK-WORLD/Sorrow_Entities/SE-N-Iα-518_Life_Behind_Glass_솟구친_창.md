@@ -44,51 +44,36 @@
 - The 10–14 yield is drawn in minutes at the glass, and the exposure it costs is not measured in pressure but in duration. Rotation schedules, not protective equipment, are the controlling variable for this assignment.
 - Extraction requires a worker to hold the view deliberately rather than observe it, which is the one behaviour this entity rewards and the one it punishes. Book it as its own operation with a named relief who is instructed to interrupt.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure and 5% against other types as a formal rating; there is nothing to strike and confrontation is invalid. Working protection is the timed watch: a timekeeper who does not look, a named relief instructed to step into the line of sight, and no second consecutive cycle. Drain is measured in hold duration — minutes at the pane — not in pressure per turn. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 204/204 |
-| **Han Pressure [ATK]** | 3–9 per hit · Lament |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary* — the window is fixed in the tunnel wall with no hinge, mounting or opening mechanism on either face — and the file's own resistance note says there is nothing to strike and confrontation is invalid. What it does is show a life that continues without the viewer.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A window-shaped object, warm and wet to the hand and seated in the tunnel wall as though the masonry were built around it, with dark rain falling behind the pane as its resting marker. It does nothing whatever when approached and shows no outside world until somebody looks directly into it. |
+| **Perceptible to** | The dark rain first, then the warmth and damp of the pane on the tunnel side; under direct gaze, a life that is not the viewer's continuing without them, and never the same life twice. |
+| **Handling** | A timed watch with a timekeeper who does not look at the pane. The relief interrupts by stepping into the line of sight — no touching the viewer and no covering the glass — and the first-look time is written before anything else is recorded. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 204/204 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, deep tunnels |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows a life that is not the worker's and moves the gauge not at all, because being observed is what this entity already is; Ferrehan holds the view without reaching for it and without turning away for a full cycle, and lowers the gauge. |
+| **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Running Pane* [**Debuff**] } | "The window is running with water — not rain, not condensation, but old tears — and the view through it is distorted by grief." | [Direct gaze begins the display: an unfamiliar life continuing without the viewer, behind rain that never reaches the tunnel side.] | *The viewer loses Clarity; the scene is grief-colored from the first look. The timekeeper writes the first-look time before anything else is recorded.* **[10 Lament DMG [Lament]]** | When a worker looks directly into the pane. |
-| { *The Rising Damp* [**Debuff**] } | "The water climbs the frame — seeping into the walls — and wherever it reaches, the structure weeps." | [Nothing spreads through the tunnel. The hold deepens in the one place the file measures: the viewer has stopped hearing the room they are standing in.] | *The viewer loses Clarity. The relief steps into the line of sight — no touching the viewer and no covering the glass — and the moment speech stopped landing is entered in the log.* **[10 Lament DMG [Lament]]** | When the viewer stops responding to the timekeeper's speech while still facing the pane. |
-| { *The Cold Pane* [**Attack**] } | "The view is taken away mid-scene — and every minute of it lands at once." | [The pane cannot slam; it has no hinge. What lands is the forced ending itself, recorded by the viewer as something done to them.] | *Heavy Lament pressure on Clarity. Re-brief the relief: interrupt by line of sight only, then take the scene in the viewer's own words before they leave the tunnel.* **[14-22 Lament DMG [Lament]]** | When a viewer is pulled away or touched, or the glass is covered, instead of the line of sight being interrupted. |
-| { *The Full Deluge* [**Attack**] } | "The shift ended around him — and every hour he did not spend arrives at once." | [The pane has never broken and holds no water on the tunnel side. What pours through is accumulated duration: a worker still facing the glass with their task behind them.] | *A heavy Lament flood through Clarity, with no account of the hours between. Recovery is measured by whether the worker resumes initiating tasks, and the roster — not the pane — is examined first.* **[24-36 Lament DMG [Lament]]** | When a viewer is found still at the pane past the end of their shift, unanswered on the roster check. |
-| { *The Weeping Building* [**Ultimate**] } | "Every face in the gallery is turned the same way — and nobody is working." | [No other window weeps; the gallery itself becomes an audience, every worker present watching and none of them keeping time.] | *All present suffer Lament pressure for three turns. An outside relief steps into lines of sight one viewer at a time and checks the shift board before the tunnel is re-entered.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥45% activation threshold with every worker present watching and no timekeeper outside the view. |
+| Event | What the Window does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Rain* [**Register**] } | Dark rain falls behind the pane and the pane is warm and damp on the tunnel side, and nothing else happens however long anybody stands there. | The timekeeper writes the first-look time before anything else is recorded, and the resting marker is checked against the last watch. | It does nothing whatever when approached, so the reading comes from a viewer who has already looked rather than from the glass. |
+| { *The Life* [**Exposure**] } | Under direct gaze an unfamiliar life continues without the viewer, grief-coloured from the first look, and the hold deepens in one place: the viewer stops hearing the room they are standing in. | The relief steps into the line of sight — no touching, no covering — and the moment speech stopped landing is entered in the log. | Duration is the entire hazard: nothing about a long exposure looks harmful from outside, and the worker is simply standing still, apparently attentive. |
+| { *The Cold Pane* [**Refusal**] } | The pane cannot slam, because it has no hinge, and the view is taken away mid-scene rather than ended. | The gaze is ended voluntarily, and the scene is taken in the viewer's own words before they leave the tunnel. | The refusal is mechanical: there is nothing to strike and no opening to force, which is why the only lever on this file is the line of sight. |
+| { *The Shift Ends Around Them* [**Overload**] } | Past the end of the shift a worker still facing the glass takes every hour they did not spend arriving at once, with no account of the hours between. | The roster is checked rather than the pane, and recovery is measured by whether the worker resumes initiating tasks instead of waiting to be assigned them. | The gauge rises because the party has stopped working and become an audience. The pane does nothing at all, which is the mechanism. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team locates the pane in the tunnel wall, confirms it is showing falling rain rather than a scene, logs the time at which each worker first looks at it, and establishes who is responsible for calling them away.
-2. **Clash:** There is no exchange of blows. The Window shows each worker a life they did not take, and the encounter proceeds for as long as they keep watching it; gauge movement tracks whether anyone in the party is still working or whether all of them are now an audience.
-3. **Resolution:** The cycle closes when every worker present has looked away under their own power and reported what they saw, with the gauge back beneath 25%.
+1. **What is confirmed:** the resting marker and the first-look time, the size of the audience — how many faces are turned the same way — and the shift board, before anybody is spoken to.
+2. **What the watch does:** Viderehan shows the life that is not the worker's and Ferrehan holds the view without reaching for it or turning away. The relief interrupts by line of sight only, and the scene is taken in the viewer's own words before they leave the tunnel.
+3. **How it closes:** the close is the file's documented condition: **End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it.**
 
 ### Consequences
 
