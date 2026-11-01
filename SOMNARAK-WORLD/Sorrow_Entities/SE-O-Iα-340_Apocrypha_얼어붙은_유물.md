@@ -16,7 +16,7 @@
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — A frozen patch of Desolate ground holding the outline of an unknown relic — frost forming around the empty space where the relic should be, not on anything solid. Bloodless-cold, it smells of ash; felt by the cold it leaves, not by its presence. |
 | **Movement** | Stationary at any given site and recorded at nine of them; it does not travel between them in any observed way, and no transit has ever been witnessed. |
-| **Location** | The Desolate — mobile |
+| **Location** | The Desolate — one marked site, revisited rather than followed |
 | **R.D. Comprehension Level** | 1 — Initial |
 
 ## Operational Parameters
@@ -93,7 +93,7 @@
 - **Primary marker:** A frozen patch of Desolate ground containing the outline of an unknown relic. Frost forms around empty space rather than an object.
 - **Position / movement:** It is stationary and it is not always in the same place. The outline has been surveyed at nine separate sites, always beside a camp that was abandoned rather than struck, and it does not travel between them in any observed way. Record the grid reference, the distance to the nearest abandoned camp, and the outline's dimensions, which never change.
 - **Element signature:** Void
-- **Registered location:** The Desolate — mobile
+- **Registered location:** The Desolate — one marked site, revisited rather than followed
 
 ### Detailed Appearance Profile
 
@@ -290,7 +290,7 @@ The three pieces came out of the frost, not the outline, and all three carry the
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Apocrypha (O-Iα-340 [VP]) is a Place-Void manifestation expressing Void, and the effects office files the Relic under the property of the dead that nobody came back for: an object lost before its owner could say farewell. Held at The Desolate — mobile. The Relic has no confirmed physical core.
+Apocrypha (O-Iα-340 [VP]) is a Place-Void manifestation expressing Void, and the effects office files the Relic under the property of the dead that nobody came back for: an object lost before its owner could say farewell. Held at The Desolate — one marked site, revisited rather than followed. The Relic has no confirmed physical core.
 
 **Entry 2 — <Effects Office Return: Unidentified Property of the Dead>**
 Items held by the expedition effects office as unidentified property of the dead: one hundred and twelve. Returned to a family in the last decade: nine. Entered with a note of what the object meant to the person — written by anyone who knew them, in any words, however uncertain — thirty-one. The remaining seventy-two are catalogued by material, dimension and weight. The outline's surveyed dimensions have never changed. The number of sites it has appeared at has risen by one in each of the last four years.
@@ -374,7 +374,7 @@ Some sorrows mourn a carrier. Apocrypha mourns the unexplained — the object wh
 
 **Classification:** Sorrow Entity — `O-Iα-340 [VP]` · Void · Place-Void manifestation
 **Common Name:** Apocrypha
-**Containment Status:** Contained — The Desolate — mobile
+**Containment Status:** Contained — The Desolate — one marked site, revisited rather than followed
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minor (α). It injures nobody who does not stand in the stillness; the hazard is hypothermia inside a reading and an anger that attaches itself to the wrong person afterwards.
 **Containment & Handling Procedures:**
