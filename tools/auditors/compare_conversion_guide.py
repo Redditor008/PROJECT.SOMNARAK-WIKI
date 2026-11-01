@@ -169,6 +169,20 @@ def main():
     ck('stub: Somnarak accessory is a Stigma', 'M.A.W. Stigma' in stub)
     ck('stub: no M.A.W. Gift row', 'M.A.W. Gift' not in stub)
 
+    # 15 — the risk-level vocabulary lives in the guides, never on a dossier
+    import glob as _glob
+    dossiers = _glob.glob('SOMNARAK-WORLD/Sorrow_Entities/SE-*.md')
+    levels = ('ZAYIN', 'TETH', 'HE', 'WAW', 'ALEPH')
+    with_level = [p for p in dossiers
+                  if any(re.search(rf'\b{lv}\b', read(p)) for lv in levels)]
+    ck('no dossier files a risk level', not with_level,
+       f'{len(with_level)} file(s): {[p.split("/")[-1][:26] for p in with_level][:3]}')
+    graded = sum(1 for p in dossiers
+                 if re.search(r'\*\*Risk tier\*\*\s*\|\s*(Minor|Moderate|Major|Critical|Catastrophic)', read(p)))
+    ck('every dossier grades its risk tier', graded == len(dossiers), f'{graded}/{len(dossiers)}')
+    ck('guide states the two vocabularies', 'Two vocabularies, and only one of them is on the dossier' in g)
+    ck('guide does not claim a dossier files ALEPH', 'files ALEPH' not in g)
+
     verbose = '-v' in sys.argv or '--verbose' in sys.argv
     bad = [c for c in CHECKS if not c[1]]
     if verbose:

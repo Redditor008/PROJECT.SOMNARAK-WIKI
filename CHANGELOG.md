@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Two vocabularies, and only one of them is on the file (109)
+
+The comparison has now been run four times and each pass found a different *kind* of wrong: a wrong band, a wrong name, a missing law, and this one — **a true statement about the wrong document.**
+
+**"The Maw is IV + ω = 9 and files ALEPH."** The arithmetic is right and the verb is wrong. Checked across all 290 dossiers: **not one files ZAYIN, TETH, HE, WAW or ALEPH.** Every dossier's `Risk tier` row carries the **Potency grade word** — `Minor (α)` 49 · `Moderate (β)` 82 · `Major (γ)` 84 · `Critical (δ)` 70 · `Catastrophic (ω)` 3 — and the letter levels exist only in the guides and the comparison codexes. The Maw's own row reads `Catastrophic (ω)`, which is its grade restated, not a risk level.
+
+So the guide now states the direction: **the grade is filed, the level is derived.** A conversion writes both down; it does not replace the one on the file with the one it computed, and it does not describe its own derivation as a filed fact. Every sentence of the form *X files ALEPH* is now a check that fails if it reappears.
+
+**Three more documents brought to the same vocabulary.** The comparison twin (`CROSS_VERSE/COMPLETE_SYSTEM_COMPARISON…`) still stacked a Latin name beside a translation's romanization — `Viderehan (관조한 / Gwanjohan)` — in eight rows; all eight now read the filed spelling, with one paragraph explaining that the translated set is a reading aid and that a quoted Directorate line using *Flerehan (통곡한)* stands as the speaker's usage. Its equipment-triad row now carries the ceiling. The **summary stub** — 117 lines, the least-read file in the folder — still called the Somnarak accessory **M.A.W. Gift** in two rows; that is now Stigma, with `Gift` kept where it belongs, on the L Corp side.
+
+**One owner item left standing, named rather than touched.** `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` line 217 says the archive *"retains identical capability badges in all 82 Relic-Entity dossiers."* Both halves are wrong: the measured count is **83** (`tools/breach.py`), and **no dossier carries a capability badge at all** — the strings appear only in comparison documents. The CROSS_VERSE twin already carries the corrected wording. CANON is an owner file under A5, so it is flagged here with the replacement ready rather than edited.
+
+**The auditor is at 69 checks** and now also asserts that no dossier carries a risk level, that every dossier grades its tier, and that the guide states the two-vocabulary rule.
+
+**Gate:** 69/69 · `check_links` 0 broken (4,289) · `seam_lint` · `section_logic`.
+
 ## The second guide, compared — and an AP table a whole band out (107)
 
 The guide was compared twice and came back clean both times. This pass pointed the same machinery at the **other** direction's authority — `PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`, the Universal Table — on the theory that two documents written from one template keep one set of defects. The theory held.
