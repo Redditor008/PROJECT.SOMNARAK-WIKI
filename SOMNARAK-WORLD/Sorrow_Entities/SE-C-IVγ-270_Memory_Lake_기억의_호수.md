@@ -44,51 +44,36 @@
 - No breach counter. The saturated margin is staked at every session and never carried forward, because a carried figure would hide exactly the small non-monotonic movement the series exists to catch.
 - No liquid, memory or margin sample is extracted under this file. The entry prohibition covers personnel, contact and instrumentation lowered on lines; equipment custody, where separately recorded, is not a sampling route.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed basin; output is measured as margin displacement in centimetres per month from fixed stations |
-| **Resistance** | 40% against Lament pressure, 30% against every other kind. Pressure ratings do not replace the working safeguards: fixed stations only, paired conversation, scenes attributed to nobody, immediate rotation after recognition, and no entry or contact |
-| **Activation threshold** | None recorded. The margin moves monthly without reference to the gauge, which has never preceded a movement |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 18–41 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and the holding is a lake: a slow dark surface under the Echo Gardens that reflects a life instead of a face. Nothing here closes distance, and the file's account of a bad watch is a flattening in the debrief rather than an injury in the body.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Entity (IV) — Self-aware, reflective, deep |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A subterranean lake of liquid memory beneath the Echo Gardens — not water but a slow, dark, viscous surface that returns the viewer's whole life rather than their face. The shore is cold stone, and the soundings are taken from stations. |
+| **Perceptible to** | A scene instead of a reflection — somebody's kitchen, in winter, with the light wrong — and then recognition, which is the moment the station loses the observer and the reason the rotation is changed that day and not the next. |
+| **Handling** | Enter the month's soundings unrounded from every station, attribute no scene in any report to a person, and mark the conversation column honestly. Two people stand each watch and are required to talk, because silence has preceded every flattening serious enough to require a stand-down. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-D-02, beneath the Echo Gardens |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns scenes from lives, unattributable and unverifiable, and the month's soundings; Ferrehan is the watch stood at a station without silence. |
+| **Location** | SECTOR-D-02, beneath the Echo Gardens |
 | **Resolution Condition** | The month's soundings are entered unrounded from every station, no scene in any report is attributed to a person, and the conversation column is marked honestly |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *A Scene, Not a Face* [**Debuff**] } | "You look down expecting yourself and get somebody's kitchen, in winter, with the light wrong." | [The surface returns a life instead of a reflection.] | *Target suffers -10 Composure; the scene is recorded and left unattributed.* **[10 Lament DMG [Lament]]** | On looking into the water from a station. |
-| { *Recognition* [**Debuff**] } | "You know whose kitchen it is. That is the moment the station loses you, and it is why you are rotated off today and not tomorrow." | [The observer identifies the life in the scene.] | *Target loses 10 Composure; rotation off the station for the cycle, not punitive.* **[10 Lament DMG [Lament]]** | On any recognition, reported or suspected. |
-| { *The Returned Weight* [**Attack**] } | "The line came back whole, the weight came back whole, and the markings were in a different order. Four explanations, four objections, one glass case." | [An object is lowered into the water.] | *Lament pressure across the stations; entry discipline is re-read aloud.* **[14-22 Lament DMG [Lament]]** | When any object or instrument is lowered into the water — prohibited; recorded because it happened once. |
-| { *Eleven Centimetres* [**Attack**] } | "The largest monthly advance on record, in the quarter four hundred and twelve service deaths closed with nothing in them but a grade and a date." | [The surveyed margin advances more than eight centimetres in a month.] | *Heavy Lament pressure; both station workers are stood down, a fresh party re-stakes the margin, and the quarter's service-death returns are pulled the same day. No Gauge rise is inferred from the movement.* **[24-36 Lament DMG [Lament]]** | On any advance above eight centimetres. |
-| { *Closed With a Grade and a Date* [**Ultimate**] } | "Read out the year's death files at the stations: an hour and a half of dates, and not one thing learned about one person." | [The annual service-death return is read aloud at the stations.] | *Everyone present takes Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the annual service-death return is read aloud at the stations. |
+| Event | What the lake does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *A Scene, Not a Face* [**Register**] } | Returns a life instead of a reflection, and the scene is recorded and left unattributed because there is nothing in it that could be attributed. | Enters the sounding unrounded and the scene as seen, with no name anywhere in the entry, and marks who was at which station. | The unrounded figure is the register. Rounding a sounding is the one error this file can actually detect, because the margin is measured in centimetres and a rounded number hides a month. |
+| { *Recognition* [**Exposure**] } | Puts a worker in the position of knowing whose kitchen it is, and the knowing is the moment the station loses them. | Rotates the observer off the station for the cycle on any recognition, reported or suspected, and does not ask whether they were certain. | Suspicion is enough, and the file says the rotation is not punitive. A worker who has recognised somebody will look again to confirm it, and looking again is the whole of the exposure. |
+| { *The Returned Weight* [**Refusal**] } | Does nothing to anybody. What the row records is a line that came back whole with its markings in a different order — four explanations, four objections, one glass case — after an instrument was lowered into the water. | Does not lower anything into the lake, and records the once it happened as a prohibition with a date on it rather than as a capability. | The row is titled for a weight and describes a survey problem. Nothing was struck, nothing was pulled under, and the holding's answer to an instrument in the water was to give it back rearranged. |
+| { *Eleven Centimetres* [**Overload**] } | Advances its surveyed margin by more than eight centimetres in a month — the largest on record arriving in the quarter four hundred and twelve service deaths closed with nothing in them but a grade and a date. | Stands both station workers down, re-stakes the margin with a fresh party, and pulls the quarter's service-death returns the same day. | No gauge rise is inferred from the movement, which is the file's own instruction and the most disciplined line in it. The margin is a measurement, and the reading that matters is what the district's paperwork was doing at the time. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification rests on a still black surface in a stone basin under the Gardens, a surface that shows scenes rather than faces, with fixed sounding stations set around it and no shore visible at the deepest point. Anybody standing at the water's edge instead of at a station means the holding is being mishandled. The approach is confirmed on that basis and positions are taken before anything else is tried.
-2. **Clash:** Nothing is done to the lake. The stations sound the margin, the pair converse aloud at intervals about matters unrelated to the holding, and the month's figures are set against the Records Office return for death files closed with no attributed account. Work Types hold the pair steady at the stations; they do not touch the water, and nothing ever will.
-3. **Resolution:** The watch ends only when the month's soundings are entered unrounded from every station, every scene is recorded without attribution, the conversation column is marked honestly, access remains sealed and no memory has been claimed. **Seal access and catalogue memories without claiming them** is the management condition; suppression is not a route.
+1. **What is confirmed:** the month's soundings from every station, the margin against its markers, and two people on the watch who will talk to each other.
+2. **What the watch does:** Viderehan for the scenes and the soundings and Ferrehan for standing the station without silence, with nothing lowered into the water and no scene attributed to a person.
+3. **How it closes:** the close is the file's documented condition: **The month's soundings are entered unrounded from every station, no scene in any report is attributed to a person, and the conversation column is marked honestly** — and silence at the stations is the one thing the record treats as a warning.
 
 ### Consequences
 

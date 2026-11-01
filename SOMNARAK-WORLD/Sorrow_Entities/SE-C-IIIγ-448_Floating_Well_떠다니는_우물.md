@@ -44,51 +44,36 @@
 - Grudge expression reaches personnel as structural strain rather than as anger; the gantry below is load-tested to a fixed schedule even though nothing has ever rested on the gantry.
 - Recovery of anything that enters the clearance beneath the rim is a separate exposure event under its own authorisation, and is never undertaken by the Warden who noticed it.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | None lateral — the Well does not chase and has never left its two square metres. The rate on this record is vertical: rim height against the gantry scale, read at the start and end of every turn. |
-| **Resistance** | 35 per cent against Grudge pressure and 25 against everything else — and the numbers describe the bay more than the entity: the Well does not chase, so a crew holds against the load in the air above Bay Four rather than against anything aimed. The gauge opens full at 660 and trips at 75 per cent, and the file gives a cycle 4 turns before the rim is past the clearance. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 660/660 |
-| **Han Pressure [ATK]** | 17–39 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it rises and settles *over the same two square metres since the holding opened*, does not drift laterally, and has not touched ground since it rose — and its rows say the rest: nothing pours and nobody is soaked, no vortex seizes anybody, and whoever is nearest is drawn in rather than pursued. What it has is area.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A well-shaped pressure floating above the Forge floor rather than sitting on it, its rim dark crystal and its shaft opening not into earth but into consciousness. There is no water in it; the sounding line lowered in the third year came back dry and exactly as long as it went in. |
+| **Perceptible to** | The depth reading from beside it, which is wrong; then the floor under the rim, which stops reading as a place for things, so that a worker is still carrying a finished tool at the end of a shift and cannot say why. |
+| **Handling** | Create a safe mourning place and do not force it downward. Flerehan lowers the rim and makes the grief inside shareable rather than sealed; Ferrehan is standing in the clearance beneath an open rim and staying. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 660/660 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone D, Forge District |
+| **Valid Work Types** | All four have responses; Pugnahan is excluded by standing order. Flerehan brings the rim down; Viderehan shows what the depth holds — the Terrace households, their griefs, and the ground those griefs were meant for; Ferrehan tests whether a worker can stay in the clearance. |
+| **Location** | Zone D, Forge District |
 | **Resolution Condition** | Create a safe mourning place; do not force it downward |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Hover* [**Debuff**] } | "There is no water in it — the sounding line lowered in the third year came back dry and exactly as long as it went in. What rises is the rim, and what descends inside the opening is weight." | [The rim climbs a few centimetres and the load arrives on the shoulders rather than as sound.] | *Target suffers -10 Resilience; the wrongness is a depth that reads deep from beside it.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Well. |
-| { *The Upturned Flood* [**Debuff**] } | "Nothing pours and nobody is soaked. Under the rim the floor stops reading as a place for things, and the worker is still carrying a finished tool at the end of the shift." | [No flood reverses; the clearance does its documented work on whoever lingers in it — a grief precisely describable and located nowhere.] | *Target loses 10 Resilience; they cannot find anywhere to set anything down.* **[10 Grudge DMG [Grudge]]** | When the target lingers beneath the Well. |
-| { *The Whirlpool* [**Attack**] } | "No vortex seizes anybody. The rim widens overhead where no barrier in the wing is rated, and whoever is nearest is drawn in rather than pursued." | [The opening expands in place; personnel inside the widened rim move toward the depth without being struck or chased.] | *Inflicts Grudge pressure; the wound is being drawn, slowly, by area rather than by intent.* **[14-22 Grudge DMG [Grudge]]** | When the rim widens past the marked clearance. |
-| { *The Inverted Deluge* [**Attack**] } | "The well does not empty, because there is nothing in it to empty and nothing can be removed from it. Struck, it surges upward out of reach and vents pressure across the bay." | [The rim climbs fast, the bay's air goes with it, and the gantry's strain gauges move before anybody notices.] | *A heavy Crimson surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Well is struck — Pugnahan, excluded by standing order. |
-| { *The Sky-Sea* [**Ultimate**] } | "The room is never underwater. The rim widens until the clearance beneath it is no longer a clearance, and the load is on the shoulders of everyone in Bay Four at once." | [Expansion in place: the boundary moves, not the entity, and escalation is tied to area — a slow event and a fast one of the same final diameter end at the same number.] | *All personnel suffer Grudge pressure for three turns under the widened rim.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the well does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Hover* [**Register**] } | Climbs a few centimetres and puts its load on the shoulders of whoever is beside it, arriving as weight rather than as sound. | Reads the rim height and the clearance beneath it before anybody stands under, and confirms the holding by the dry sounding line. | The register is a height and a clearance. The line came back dry and exactly as long as it went in, and the file has never asked it a second time — a well that holds nothing cannot be sounded for depth, only for position. |
+| { *The Upturned Flood* [**Exposure**] } | Does not pour. Under the rim the floor stops reading as a place for things, and the worker cannot find anywhere to set anything down, so the grief becomes precisely describable and located nowhere. | Ends the turn on the clock, and checks what each worker is still carrying at the end of it — tools, gauge cases, anything finished and not put down. | The injury is caught by language and not by the gauge. That sentence is the file's own, and it is why the watch asks what a worker is carrying rather than how they say they feel. |
+| { *The Whirlpool* [**Refusal**] } | Widens its rim overhead where no barrier in the wing is rated, and whoever is nearest is drawn in rather than pursued. Nothing is struck and nobody is chased. | Withdraws the crew past the marked clearance when the rim widens, and does not go looking for a grip on the thing that is doing the drawing. | Being drawn by area is not being pursued, and the file is careful about the difference. The response is distance from a widening circle, not from an animal — which is also why the bay has a clearance marked on its floor rather than a net above it. |
+| { *The Sky-Sea* [**Overload**] } | Widens until the clearance beneath the rim is no longer a clearance, and the load is on the shoulders of everyone in Bay Four at once. The room is never underwater and the well never empties. | Stops work in the bay, re-marks the clearance from a fresh reference, and does not attempt to bring the rim down. | Expansion moves the boundary rather than the thing, and escalation is tied to area. The prohibition on forcing it downward is the same rule read from the other end: the only variable this holding has is how much room it is given. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification rests on the suspension and on the shadow that should be there and is not — every other dark-rimmed fixture in the Forge stands on the floor and casts one. The marked clearance is read at the top of the watch, the estimator is named, and the approach is set from outside it before the cycle opens.
-2. **Clash:** Four turns from outside the marked clearance, Flerehan and Ferrehan only. Rim height is read at the start and end of every turn, and nothing is thrown, lifted toward, or dropped beneath the opening.
-3. **Resolution:** The cycle closes when a mourning place has been made real and reachable, on ground the mourners have some claim to stand on, and the rim has come down by itself. The file's one recorded success took 11 months of pouring at a cairn and a shelf the households built; its removal sent the rim up 17 centimetres in 9 weeks, and nothing has brought it back since. Nothing is ever forced downward: both weighted-line attempts are on file and both widened the rim.
+1. **What is confirmed:** the rim height and the clearance beneath it, the marked floor line, and what each worker is still carrying at the end of the turn.
+2. **What the watch does:** Flerehan for bringing the rim down and Ferrehan for standing in the clearance, with Viderehan for the Terrace households and nothing done to force the well downward.
+3. **How it closes:** the close is the file's documented condition: **Create a safe mourning place; do not force it downward** — and the severity of a shift is read from what workers could not put down.
 
 ### Consequences
 
@@ -434,7 +419,7 @@ The minute records the objection as **correct in all three parts**. It records t
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 660/660, pressure 17–39 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 4 turns, the blade at 10–15 damage and 50 Echoes, the plate at 45, the ring at 4 per cent and +3, and 4 conferrals.
+- The register keeps its own figures in numerals for look-up: gauge 660/660, resistance 35 / 25 per cent, and no pressure figure — what is read is the rim height and the clearance beneath it, threshold 75 per cent, 4 turns, the blade at 10–15 damage and 50 Echoes, the plate at 45, the ring at 4 per cent and +3, and 4 conferrals.
 
 - There is no water in it. What the opening descends into is weight, and the sounding line lowered in the third year came back dry and exactly as long as it went in.
 - It descends when a grief is given a place to rest, and only then, and only where the place is real, reachable, and on ground the mourners have some claim to be standing on.

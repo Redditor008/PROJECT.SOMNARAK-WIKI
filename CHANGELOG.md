@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The last two stationary holdings (2026-11-01)
+
+Twenty-second batch, and the end of a queue. After this one, every non-breaching dossier in the archive whose Movement row says it cannot close distance either carries a Contact Record or carries a written reason above its stat line for keeping the combat table.
+
+- **Floating Well** (`C-IIIγ-448`) — rises and settles over the same two square metres and has not touched ground since it rose. Nothing pours and nobody is soaked; no vortex seizes anybody; whoever is nearest is *drawn in rather than pursued*. What the holding actually has is area, and the bay has a clearance marked on its floor rather than a net above it.
+- **Mnemosyne** (`C-IVγ-270`) — a lake under the Echo Gardens that reflects a life instead of a face. The work is a sounding entered unrounded, a scene entered without a name, and two people on the watch required to talk, because silence at the stations preceded every stand-down in the record.
+- **Dreaming Ruin is not in this batch.** It was reverted in the previous commit — it builds at eleven logged points in the Market and therefore moves, which R-36 makes decisive whatever its attack row says.
+
+**What the last two have in common.** Both files had already written their own containment in a place nobody looks for it: Floating Well's own row says the drawing-in is not a pursuit, and Mnemosyne's says no gauge rise is to be inferred from the movement of its margin. Neither sentence needed a section deleted to agree with it; both needed a section replaced so that the rest of the dossier could stop arguing with them.
+
+**The queue, counted.** Sixteen non-breaching dossiers still carried a `Stationary`/`Fixed`/`Seated` movement row and a combat table when this run began this morning. Eleven were converted, three were put back after the movement test was applied properly, and two were already keepers standing on the Walking District precedent. No stationary holding remains.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and thirty-seven Contact Records.**
+
 ## Two that the record had already acquitted (2026-11-01)
 
 Twenty-first batch, and the smallest of the run. Two conversions, three corrections in the other direction, and a rule read again more strictly than the previous twenty batches had read it.
