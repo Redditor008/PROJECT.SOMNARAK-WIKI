@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The corrosion opener, second batch (104)
+
+**Eighteen more, and 121 is now 103.** The sentence is still `Treating the response as autobiography reproduced the wound and fixed the rule.` — it survives here because these records carry a **source-trace doctrine** clause one line above it, and the doctrine is what the replacement is built from: the record already says what the piece does *and* what happens when it is read the wrong way, so the sentence only has to say the reading out loud.
+
+The frames are deliberately not alike, because eighteen sentences in one construction is a formula whatever they say:
+
+- **Absent Landmark's Empty Window** — *Read as a room the bearer had lost, the tower was furnished from their own furniture: what it showed as testimony it then collected as residence, and the doorway stayed open behind them.*
+- **The Broken Barrier** — *One held impact reads as a guarantee, and the reading is where it goes wrong: the wearer stood behind a promise already spent, took the next breach in the body, and became the gap the wall had been.*
+- **Vellum Man's Edge** — *The wielder took it as their own story being told well: each cut thinned their feeling for the register the Edge worked in, and the last pages came out clean because there was nothing left in them to smudge.*
+
+**Four were rewritten twice.** The first draft had echoed its own cost line — the *memorial with no living occupant*, the *overworked heart*, the *grief with a story and no author* — and a paragraph that says a thing and then says it again is a defect whether or not a checker sees it. All four were rebuilt off the doctrine clause instead, which is the only clause in the paragraph that had not yet been spoken from.
+
+Couple test on the eighteen new sentences: **0 shared six-word windows.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The extraction ceiling, stated (batch 103)
 
 The archive has filed a `Maximum Amount` in M.A.W. records since the templates were written, and never once said what the figure meant. **How many of a piece can exist, per Sorrow Entity, per type** had no answer in the codex — only a number in a table that four different readings could claim.
