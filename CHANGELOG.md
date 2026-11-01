@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The corrosion opener, written per item (batch 102)
+
+The residue the last entry named is real and it is the same defect in a second place. Where the three bullets I had just finished sat in the failure section, this one sits in the corrosion paragraph: **`Treating the response as autobiography reproduced the wound and fixed the rule.`** in **139 records**, and the long variant that opens *Treating the response as the bearer's own story…* in **4** more. A second sentence, `Corrosion runs from first-person description of the event…`, opens **165** paragraphs, and it is the next thing after this.
+
+**Eighteen rewritten this batch**, each from the doctrine clause already sitting one sentence earlier:
+
+- **Last Fruit's Burning Seed** — *read as the bearer's own admission, the record became a confession they had never made: the want stayed unspoken and the strength went on arriving for it.*
+- **Neverlast's Shroud** — *read as the wearer's own patience, the waiting became a virtue instead of a store: the cloth was never taken off, and the years it held arrived in one undivided moment at the end.*
+- **The Promise Shard** — *read as the bearer's own doubt, the prevented betrayal was charged to them in full: they could not trust anybody without checking, and the checking became the betrayal they had been spared.*
+
+**121 remain in that sentence.** It is the only one of its class left in the wing.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The stock bullets are gone: 345 of 345 (batch 101)
 
 `SE-1039` Labyrinth of the Unfinished Mind, `SE-1040` Wanderer Without a Destination, `SE-1041` Endless Shift, `SE-1042` Hour the Dead Walk, `SE-1043` Miasma — **the last fifteen records.** These are the 900-range redesignations, the ones filed at registry numbers a thousand apart from their own codes, and every one of them had been carrying the same three sentences since the template was written.
