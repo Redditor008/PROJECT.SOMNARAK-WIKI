@@ -33,12 +33,12 @@ Dawn That Forgot's Edge is the weapon record of the Dawn That Forgot set — γ-
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn That Forgot Source-Trace: Weapon Record*
 
-The first Dawn That Forgot's Edge field bearer encountered this source response: N/A The weapon stays the immediate hazard only after the team attributed it to Dawn That Forgot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dawn That Forgot's Edge field bearer encountered this source response: N/A The weapon stays the immediate hazard only after the team attributed it to Dawn That Forgot. A wielder spent a week arriving several seconds behind their own eyes and the lag outlasted the piece, and the Edge’s binding is the infirmary’s running total from that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dawn That Forgot's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the lag stops being counted as a symptom and starts being counted as the wielder’s normal pace.
 - Terminal state: Dawn That Forgot's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-917 -->
@@ -47,7 +47,7 @@ The first Dawn That Forgot's Edge field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a morning the wielder is awake in their own time.
 
 ---
 

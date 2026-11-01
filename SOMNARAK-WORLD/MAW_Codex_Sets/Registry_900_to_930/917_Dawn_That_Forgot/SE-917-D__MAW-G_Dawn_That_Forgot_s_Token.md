@@ -32,12 +32,12 @@ Dawn That Forgot's Token is the stigma record of the Dawn That Forgot set — he
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn That Forgot Source-Trace: Stigma Record*
 
-The first Dawn That Forgot's Token field bearer encountered this source response: Time the first shutter and the last from the perimeter post; the gap between them is the reading, and seventy-one minutes across twenty-nine episodes is the whole of it. The stigma discharges the immediate hazard only after the team attributed it to Dawn That Forgot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dawn That Forgot's Token field bearer encountered this source response: Time the first shutter and the last from the perimeter post; the gap between them is the reading, and seventy-one minutes across twenty-nine episodes is the whole of it. The stigma discharges the immediate hazard only after the team attributed it to Dawn That Forgot. A bearer came off post carrying only the Token and could not say what had become of the rest, and the Token’s binding is the kit check from that relief.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dawn That Forgot's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the other pieces start feeling unreliable in the bearer’s hand, and they are left at the gate rather than in the pouch.
 - Terminal state: Dawn That Forgot's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-917 -->
@@ -46,7 +46,7 @@ The first Dawn That Forgot's Token field bearer encountered this source response
 
 ## SET RELATIONSHIP
 
-Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer carries something else and trusts it.
 
 ---
 

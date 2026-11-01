@@ -32,12 +32,12 @@ Amnesia's Token is the stigma record of the Amnesia set — head-slot, bestowed 
 
 ## ITEM-SPECIFIC HISTORY — *The Amnesia Source-Trace: Stigma Record*
 
-The first Amnesia's Token field bearer encountered this source response: Complete the roll call at the line and survey the radius; the two together are the reading, and the roll is the only record of who was inside the minute. The stigma contains the immediate hazard only after the team attributed it to Amnesia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Amnesia's Token field bearer encountered this source response: Complete the roll call at the line and survey the radius; the two together are the reading, and the roll is the only record of who was inside the minute. The stigma contains the immediate hazard only after the team attributed it to Amnesia. A bearer recognised a whole ward and knew none of them, and the Token’s binding is the roster they signed without a hesitation.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Amnesia's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the faces come back sharper and the attachments do not return at all, and greetings get warmer as the names go.
 - Terminal state: Amnesia's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-914 -->
@@ -46,7 +46,7 @@ The first Amnesia's Token field bearer encountered this source response: Complet
 
 ## SET RELATIONSHIP
 
-Within *Amnesia — Witnessed Form*, Amnesia's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Amnesia — Witnessed Form*, Amnesia's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer can attach one thing to one face.
 
 ---
 

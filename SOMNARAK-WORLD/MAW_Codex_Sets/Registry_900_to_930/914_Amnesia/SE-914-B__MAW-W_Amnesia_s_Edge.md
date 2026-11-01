@@ -35,12 +35,12 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 ## ITEM-SPECIFIC HISTORY — *The Amnesia Source-Trace: Weapon Record*
 
-The first Amnesia's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Amnesia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Amnesia's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Amnesia. A wielder could not say what they had been angry about by the end of a bout they had won, and the Edge’s binding is the report written from that bout.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Amnesia's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the nameless things begin leaving between strikes, and the wielder loses the street they are fighting in.
 - Terminal state: Amnesia's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-914 -->
@@ -49,7 +49,7 @@ The first Amnesia's Edge field bearer encountered this source response: N/A The 
 
 ## SET RELATIONSHIP
 
-Within *Amnesia — Witnessed Form*, Amnesia's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Amnesia — Witnessed Form*, Amnesia's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown for a reason its wielder can still name.
 
 ---
 

@@ -32,12 +32,12 @@ Eleven Fifty-Nine's Token is the stigma record of the Eleven Fifty-Nine set — 
 
 ## ITEM-SPECIFIC HISTORY — *The Eleven Fifty-Nine Source-Trace: Stigma Record*
 
-The first Eleven Fifty-Nine's Token field bearer encountered this source response: Log the onset minute from two opposite ends of the sector; the two entries agree, the content is one grievance held identically at both, and no single account is the reading. The stigma marks the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Eleven Fifty-Nine's Token field bearer encountered this source response: Log the onset minute from two opposite ends of the sector; the two entries agree, the content is one grievance held identically at both, and no single account is the reading. The stigma marks the immediate hazard only after the team attributed it to Eleven Fifty-Nine. A bearer woke braced for news on four consecutive mornings and the news never arrived, and the Token’s binding is the sleep log from those nights.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Eleven Fifty-Nine's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the minute starts arriving while the bearer is awake, and they wait for something one minute away all shift.
 - Terminal state: Eleven Fifty-Nine's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-912 -->
@@ -46,7 +46,7 @@ The first Eleven Fifty-Nine's Token field bearer encountered this source respons
 
 ## SET RELATIONSHIP
 
-Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a night the bearer sleeps through without bracing.
 
 ---
 

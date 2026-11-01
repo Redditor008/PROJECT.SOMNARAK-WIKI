@@ -32,12 +32,12 @@ The Devouring Bloom Key is the stigma record of the Devouring Bloom set — head
 
 ## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Stigma Record*
 
-The first Devouring Bloom Key field bearer encountered this source response: Reveals the sorrow attached to each petal. The stigma stabilizes the immediate hazard only after the team attributed it to Devouring Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Devouring Bloom Key field bearer encountered this source response: Reveals the sorrow attached to each petal. The stigma stabilizes the immediate hazard only after the team attributed it to Devouring Bloom. A bearer closed eleven wounds in a night and could not account for the year afterwards, and the Key’s binding is the ward ledger from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Devouring Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the years come out faster than the wounds close, and the bearer is asked their age twice in a shift.
 - Terminal state: Devouring Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Witness the memories and prevent unauthorized petal collection” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Devouring Bloom Key field bearer encountered this source response: Rev
 
 ## SET RELATIONSHIP
 
-Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Key performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Key performs the stigma role while the other pieces preserve attribution and survival. The Key drops out of the set when the bearer refuses one wound.
 
 ---
 

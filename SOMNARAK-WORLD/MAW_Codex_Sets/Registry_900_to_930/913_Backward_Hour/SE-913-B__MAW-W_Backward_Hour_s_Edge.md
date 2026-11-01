@@ -33,12 +33,12 @@ Backward Hour's Edge is the weapon record of the Backward Hour set — γ-grade,
 
 ## ITEM-SPECIFIC HISTORY — *The Backward Hour Source-Trace: Weapon Record*
 
-The first Backward Hour's Edge field bearer encountered this source response: N/A The weapon severs the immediate hazard only after the team attributed it to Backward Hour. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Backward Hour's Edge field bearer encountered this source response: N/A The weapon severs the immediate hazard only after the team attributed it to Backward Hour. A wielder settled a grievance that was settled again by morning and could not afterwards recall anything improving, and the Edge’s binding is the note taken at that bench.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Backward Hour's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the reversals arrive faster than the settlements, and the wielder stops reporting the good ones.
 - Terminal state: Backward Hour's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-913 -->
@@ -47,7 +47,7 @@ The first Backward Hour's Edge field bearer encountered this source response: N/
 
 ## SET RELATIONSHIP
 
-Within *Backward Hour — Witnessed Form*, Backward Hour's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Backward Hour — Witnessed Form*, Backward Hour's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which something stays better.
 
 ---
 

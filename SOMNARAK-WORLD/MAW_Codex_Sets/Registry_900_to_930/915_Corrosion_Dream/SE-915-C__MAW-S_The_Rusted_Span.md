@@ -33,12 +33,12 @@ The Rusted Span is the suit record of the Corrosion Dream set — γ-grade, Void
 
 ## ITEM-SPECIFIC HISTORY — *The Corrosion Dream Source-Trace: Suit Record*
 
-The first bearer of The Rusted Span encountered this source response: Keeps singing until the worker can remain with the distance. The suit marks the immediate hazard only after the team attributed it to Corrosion Dream. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rusted Span encountered this source response: Keeps singing until the worker can remain with the distance. The suit marks the immediate hazard only after the team attributed it to Corrosion Dream. A wearer crossed a span alone for the fourth time with people left on the near side, and the Span’s binding is the crossing log from that relief.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Corrosion Dream's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the leaving behind becomes the arrangement rather than the cost, and the wearer crosses without looking back for the others.
 - Terminal state: Corrosion Dream's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not promise reunion; name both the crossing and the loss” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Rusted Span encountered this source response: Keeps sing
 
 ## SET RELATIONSHIP
 
-Within *Corrosion Dream — Witnessed Form*, The Rusted Span performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Corrosion Dream — Witnessed Form*, The Rusted Span performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still counts who did not come across; the first crossing they do not count takes the Span out.
 
 ---
 

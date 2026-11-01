@@ -33,12 +33,12 @@ Amnesia's Veil is the suit record of the Amnesia set — β-grade, Void-aligned,
 
 ## ITEM-SPECIFIC HISTORY — *The Amnesia Source-Trace: Suit Record*
 
-The first Amnesia's Veil field bearer encountered this source response: Stay on the line through the full minute without prompting anybody; the pressure settles at the roll call, and the silence until it is the endurance. The suit stays the immediate hazard only after the team attributed it to Amnesia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Amnesia's Veil field bearer encountered this source response: Stay on the line through the full minute without prompting anybody; the pressure settles at the roll call, and the silence until it is the endurance. The suit stays the immediate hazard only after the team attributed it to Amnesia. A wearer went on being exactly themselves and could not confirm one thing about it, and the Veil’s binding is the review in which they were asked to.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Amnesia's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the gap stops being unfelt, and the wearer begins asking colleagues to describe them.
 - Terminal state: Amnesia's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-914 -->
@@ -47,7 +47,7 @@ The first Amnesia's Veil field bearer encountered this source response: Stay on 
 
 ## SET RELATIONSHIP
 
-Within *Amnesia — Witnessed Form*, Amnesia's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Amnesia — Witnessed Form*, Amnesia's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can confirm one thing about themselves without help; the first answer they take from somebody else, the Veil is out.
 
 ---
 

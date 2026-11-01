@@ -33,12 +33,12 @@ Eleven Fifty-Nine's Edge is the weapon record of the Eleven Fifty-Nine set — �
 
 ## ITEM-SPECIFIC HISTORY — *The Eleven Fifty-Nine Source-Trace: Weapon Record*
 
-The first Eleven Fifty-Nine's Edge field bearer encountered this source response: N/A The weapon isolates the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Eleven Fifty-Nine's Edge field bearer encountered this source response: N/A The weapon isolates the immediate hazard only after the team attributed it to Eleven Fifty-Nine. A wielder struck at one minute to midnight three nights in a row and slept with the light on from the third, and the Edge’s binding is the duty card from that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Eleven Fifty-Nine's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the last minute begins arriving before the strike, and the wielder is already in it when the target is chosen.
 - Terminal state: Eleven Fifty-Nine's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-912 -->
@@ -47,7 +47,7 @@ The first Eleven Fifty-Nine's Edge field bearer encountered this source response
 
 ## SET RELATIONSHIP
 
-Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown in a night its wielder can finish.
 
 ---
 

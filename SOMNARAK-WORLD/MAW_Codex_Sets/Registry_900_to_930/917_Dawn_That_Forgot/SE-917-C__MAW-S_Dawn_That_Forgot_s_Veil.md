@@ -33,12 +33,12 @@ Dawn That Forgot's Veil is the suit record of the Dawn That Forgot set — γ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn That Forgot Source-Trace: Suit Record*
 
-The first Dawn That Forgot's Veil field bearer encountered this source response: Stay on the post until the district is awake, without calling down to anybody in it; the pressure settles at the opening, and the waiting is the work. The suit contains the immediate hazard only after the team attributed it to Dawn That Forgot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dawn That Forgot's Veil field bearer encountered this source response: Stay on the post until the district is awake, without calling down to anybody in it; the pressure settles at the opening, and the waiting is the work. The suit contains the immediate hazard only after the team attributed it to Dawn That Forgot. A wearer was told about six mornings they had been present for, and the Veil’s binding is the duty sheet for that week with their name on every line.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dawn That Forgot's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the mornings go before the wearer has lived them, and the week is described to the wearer in advance.
 - Terminal state: Dawn That Forgot's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-917 -->
@@ -47,7 +47,7 @@ The first Dawn That Forgot's Veil field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can say what they did in one dawn; the first morning they take on report, the Veil is out.
 
 ---
 

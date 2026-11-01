@@ -33,12 +33,12 @@ Backward Hour's Veil is the suit record of the Backward Hour set — γ-grade, G
 
 ## ITEM-SPECIFIC HISTORY — *The Backward Hour Source-Trace: Suit Record*
 
-The first Backward Hour's Veil field bearer encountered this source response: Hold a reading point for the whole twelve hours without leaving it; the pressure settles around the worker who stays, and what the post buys is interval. The suit uncouples the immediate hazard only after the team attributed it to Backward Hour. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Backward Hour's Veil field bearer encountered this source response: Hold a reading point for the whole twelve hours without leaving it; the pressure settles around the worker who stays, and what the post buys is interval. The suit uncouples the immediate hazard only after the team attributed it to Backward Hour. A wearer stopped settling anything after the fourth settlement came unsettled, and the Veil’s binding is the fourth case file.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Backward Hour's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the hour runs back through the wearer’s own remedies, and their injuries are old again by morning.
 - Terminal state: Backward Hour's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-913 -->
@@ -47,7 +47,7 @@ The first Backward Hour's Veil field bearer encountered this source response: Ho
 
 ## SET RELATIONSHIP
 
-Within *Backward Hour — Witnessed Form*, Backward Hour's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Backward Hour — Witnessed Form*, Backward Hour's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still settles one thing; the first slight they leave standing takes the Veil out.
 
 ---
 

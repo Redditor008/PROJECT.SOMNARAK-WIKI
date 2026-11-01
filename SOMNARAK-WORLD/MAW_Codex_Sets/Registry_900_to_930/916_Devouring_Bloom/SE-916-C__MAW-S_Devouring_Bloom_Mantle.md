@@ -33,12 +33,12 @@ The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-
 
 ## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Suit Record*
 
-The first Devouring Bloom Mantle field bearer encountered this source response: Tests whether the worker can bear its growing weight. The suit opens the immediate hazard only after the team attributed it to Devouring Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Devouring Bloom Mantle field bearer encountered this source response: Tests whether the worker can bear its growing weight. The suit opens the immediate hazard only after the team attributed it to Devouring Bloom. A wearer held a line for six hours, was unhurt throughout it, and was lighter at the end than at the start, and the Mantle’s binding is that muster form.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Devouring Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the feeding starts arriving between watches, and the wearer reports steady health while the weight comes off.
 - Terminal state: Devouring Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Witness the memories and prevent unauthorized petal collection” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Devouring Bloom Mantle field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still eats and keeps it; the first watch they do not, the Mantle is out.
 
 ---
 

@@ -32,12 +32,12 @@ Backward Hour's Token is the stigma record of the Backward Hour set — head-slo
 
 ## ITEM-SPECIFIC HISTORY — *The Backward Hour Source-Trace: Stigma Record*
 
-The first Backward Hour's Token field bearer encountered this source response: Take the rate at the fixed points, street by street, and compare the series; the reversal resolves into a specific undoing with a date, a street and an instrument behind it. The stigma opens the immediate hazard only after the team attributed it to Backward Hour. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Backward Hour's Token field bearer encountered this source response: Take the rate at the fixed points, street by street, and compare the series; the reversal resolves into a specific undoing with a date, a street and an instrument behind it. The stigma opens the immediate hazard only after the team attributed it to Backward Hour. A bearer’s oldest injury and oldest resentment sharpened in the same night and neither was better by daylight, and the Token’s binding is the morning form that recorded both.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Backward Hour's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the reversal reaches things the bearer had healed before they took up the piece at all.
 - Terminal state: Backward Hour's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-913 -->
@@ -46,7 +46,7 @@ The first Backward Hour's Token field bearer encountered this source response: T
 
 ## SET RELATIONSHIP
 
-Within *Backward Hour — Witnessed Form*, Backward Hour's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Backward Hour — Witnessed Form*, Backward Hour's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a morning when something has healed.
 
 ---
 

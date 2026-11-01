@@ -33,12 +33,12 @@ Eleven Fifty-Nine's Veil is the suit record of the Eleven Fifty-Nine set — γ-
 
 ## ITEM-SPECIFIC HISTORY — *The Eleven Fifty-Nine Source-Trace: Suit Record*
 
-The first Eleven Fifty-Nine's Veil field bearer encountered this source response: Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. The suit interrupts the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Eleven Fifty-Nine's Veil field bearer encountered this source response: Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. The suit interrupts the immediate hazard only after the team attributed it to Eleven Fifty-Nine. A wearer gave a report in which nothing had yet happened and could not be got to conclude any of it, and the Veil’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Eleven Fifty-Nine's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unfinished sentence reaches the closing of watches, and the wearer’s shift is signed off with nothing decided.
 - Terminal state: Eleven Fifty-Nine's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-912 -->
@@ -47,7 +47,7 @@ The first Eleven Fifty-Nine's Veil field bearer encountered this source response
 
 ## SET RELATIONSHIP
 
-Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Eleven Fifty-Nine — Witnessed Form*, Eleven Fifty-Nine's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can finish one sentence that ends something; the first they cannot takes the Veil out.
 
 ---
 
