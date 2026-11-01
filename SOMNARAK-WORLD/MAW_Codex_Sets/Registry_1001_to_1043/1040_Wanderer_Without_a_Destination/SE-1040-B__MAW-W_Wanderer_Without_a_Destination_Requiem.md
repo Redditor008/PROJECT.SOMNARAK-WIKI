@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Wanderer Without a Destination Requiem
 
-> *“Wanderer Without a Destination Requiem remembers Wanderer Without a Destination; the bearer must not mistake memory for permission.”*
+> *"It strikes with the grief of never arriving, and every blow puts the wielder's destination further off."*
 
 ---
 

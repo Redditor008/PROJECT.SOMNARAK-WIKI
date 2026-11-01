@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Well Within Stone
 
-> *“Well Within Stone remembers Well Within; the bearer must not mistake memory for permission.”*
+> *"The wearer hears anger in every silence, and the quiet ones are the loudest."*
 
 ---
 

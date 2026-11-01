@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Labyrinth of the Unfinished Mind's Edge
 
-> *“Labyrinth of the Unfinished Mind's Edge remembers Labyrinth of the Unfinished Mind; the bearer must not mistake memory for permission.”*
+> *"It cuts the thought before it finishes, and leaves the wielder with a headache where the idea was going to be."*
 
 ---
 

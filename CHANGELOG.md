@@ -8,15 +8,27 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Forty-two epigraphs continue 1001–1043 (batch 64)
+
+The second forty-two — First Tear through Miasma. Each of these entities issues a weapon, a suit and a stigma against one cost, so the epigraph has to distinguish three objects drawing on the same price without naming any of them: the First Requiem spends the first grief ever shed out of the wielder's supply, the First Shroud takes the first joy before the wearer can notice which one it was, and the First Charm hands the first grief back at night on a schedule that is not the bearer's.
+
+**One couple found and closed while writing them.** The First Requiem's cost ended *"Wielded long, the wielder is dry-eyed and everyone they have fought is weeping"* — the same sentence, word for word, that ends Icedrop's Tear Requiem in `1010_Icedrop`. A scan of all 345 codex cost fields found exactly one shared sentence of eight words or more between two different registry folders, and it was this one; the First Requiem's closing now reads *"the wielder keeps nothing of their own and everyone they have struck is weeping."* Zero shared cost sentences remain. The epigraph law is what surfaced it: a line that would work for two records is not an epigraph for either.
+
+Forty-two of forty-two clear `quote_audit.py --check`; structure re-checked (quote, blank, `---`) across the range, 0 bad.
+
+**Left:** 42 epigraphs, all in `1001_to_1043`.
+
 ## Forty-two epigraphs open 1001–1043 (batch 63)
 
 The oldest range gives up its first forty-two — Kind Echo's training kit, the Broken Clock triad, Scar Walker, Forgotten Soldier, Night Peddler, Giver of Blessing, Maker of Apostle, Honest Reflection, Icedrop, Weight of All Owed, Wrath Flame, Undersong, Gavel, Facsimile.
 
 These records sit close to one another by design — one entity, one weapon, one suit, one stigma — so the line had to separate three closely related objects without naming a code or a figure. Where the cost had a hand written on it the epigraph follows it: the Standard Training Baton's harm is that the grip must be unlearned; the Warm Stone's cost is that free warmth stops the gauge from being read; the Merchant's Purse chooses its own payment and prefers what the bearer would have kept; the Iron Verdict stacks, and the last verdict is the wielder's.
 
-Forty-two of forty-two clear `quote_audit.py --check`; ledger regenerated at 301 rows, 0 duplicate families.
+Forty-two of forty-two clear `quote_audit.py --check`.
 
 **Left:** 84 epigraphs, all in `1001_to_1043`.
+
+**Correction to batch 61's note:** `QUOTE_REGISTER_LEDGER.md` covers the **301 dossiers only**, not the M.A.W. codex records. Regenerating it after codex epigraph work is a no-op — `git diff` on the file is empty — and the codex epigraphs are verified one at a time by `quote_audit.py --check`, not by the ledger.
 
 ## Forty-two epigraphs close 900–930 (batch 62)
 

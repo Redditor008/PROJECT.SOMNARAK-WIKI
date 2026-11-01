@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The First Charm
 
-> *“The First Charm remembers The First Tear; the bearer must not mistake memory for permission.”*
+> *"It keeps the first grief as a keepsake and hands it back at night on a schedule that is not the bearer's."*
 
 ---
 

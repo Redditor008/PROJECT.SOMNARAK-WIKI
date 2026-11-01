@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Labyrinth of the Unfinished Mind's Token
 
-> *“Labyrinth of the Unfinished Mind's Token remembers Labyrinth of the Unfinished Mind; the bearer must not mistake memory for permission.”*
+> *"A familiar word goes for a few seconds after each use and comes back without the route it was found on."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Echo Plate
 
-> *“The Echo Plate remembers Heirloom; the bearer must not mistake memory for permission.”*
+> *"A family grudge worn as armour: the blow stops, and the wearer is slow to forgive anything nobody told them about."*
 
 ---
 

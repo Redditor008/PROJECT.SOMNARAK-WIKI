@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The First Requiem
 
-> *“The First Requiem remembers The First Tear; the bearer must not mistake memory for permission.”*
+> *"It strikes with the first grief anyone ever shed, and pays for the blow out of the wielder's own supply."*
 
 ---
 
@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 5–25 | 5 (Instant) | 5 (Room) | AoE / Center 100% → inner zone 70% → outer zone 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The Requiem strikes with the first grief anyone ever shed: each blow moves the wielder's own tears into the target's account. Wielded long, the wielder is dry-eyed and everyone they have fought is weeping.
+**Operational / binding cost:** The Requiem strikes with the first grief anyone ever shed: each blow moves the wielder's own tears into the target's account. Wielded long, the wielder keeps nothing of their own and everyone they have struck is weeping.
 
 ## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Weapon Record*
 

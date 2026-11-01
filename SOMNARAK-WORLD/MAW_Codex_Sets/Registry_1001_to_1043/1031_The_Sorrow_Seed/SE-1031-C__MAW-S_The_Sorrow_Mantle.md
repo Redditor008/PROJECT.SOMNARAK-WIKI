@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Sorrow Mantle
 
-> *“The Sorrow Mantle remembers The Sorrow Seed; the bearer must not mistake memory for permission.”*
+> *"Whatever is set down in the wearer's presence takes root in them, and they end the season carrying a crop they never planted."*
 
 ---
 

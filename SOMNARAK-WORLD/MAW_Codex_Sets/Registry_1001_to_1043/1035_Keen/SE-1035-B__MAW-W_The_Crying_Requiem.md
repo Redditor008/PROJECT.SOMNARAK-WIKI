@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Crying Requiem
 
-> *“The Crying Requiem remembers Keen; the bearer must not mistake memory for permission.”*
+> *"Every strike carries a grief with a pitch to it, and the pitch stays in the wielder's ears after the fight is over."*
 
 ---
 

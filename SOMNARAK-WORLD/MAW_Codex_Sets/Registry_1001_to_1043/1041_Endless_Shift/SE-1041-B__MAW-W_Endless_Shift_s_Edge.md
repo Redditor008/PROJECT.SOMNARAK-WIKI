@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Endless Shift's Edge
 
-> *“Endless Shift's Edge remembers Endless Shift; the bearer must not mistake memory for permission.”*
+> *"Each blow adds an hour to the shift, and the shift is still running when the hand is worn through."*
 
 ---
 

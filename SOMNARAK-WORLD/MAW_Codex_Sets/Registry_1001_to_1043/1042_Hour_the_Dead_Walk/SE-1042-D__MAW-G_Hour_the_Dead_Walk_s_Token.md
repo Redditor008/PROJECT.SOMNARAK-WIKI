@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Hour the Dead Walk's Token
 
-> *“Hour the Dead Walk's Token remembers Hour the Dead Walk; the bearer must not mistake memory for permission.”*
+> *"It arrives at the hour with grief belonging to somebody the bearer has never met, and they wake already mourning."*
 
 ---
 

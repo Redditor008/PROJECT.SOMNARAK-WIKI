@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Miasma's Edge
 
-> *“Miasma's Edge remembers Miasma; the bearer must not mistake memory for permission.”*
+> *"The wielder weeps once at the start of a shift and cannot say for whom. A piece that weeps early is destroyed."*
 
 ---
 

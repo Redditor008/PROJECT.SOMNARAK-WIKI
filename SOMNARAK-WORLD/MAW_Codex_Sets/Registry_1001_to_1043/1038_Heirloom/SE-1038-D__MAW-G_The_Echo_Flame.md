@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Echo Flame
 
-> *“The Echo Flame remembers Heirloom; the bearer must not mistake memory for permission.”*
+> *"Every echo it silences is paid for with one of the bearer's own repeated memories, and the repetitions go first."*
 
 ---
 

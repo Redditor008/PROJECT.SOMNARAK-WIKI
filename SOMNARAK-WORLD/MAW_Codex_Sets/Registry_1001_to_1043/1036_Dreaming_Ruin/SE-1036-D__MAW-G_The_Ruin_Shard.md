@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Ruin Shard
 
-> *“The Ruin Shard remembers Dreaming Ruin; the bearer must not mistake memory for permission.”*
+> *"It rebuilds a room out of memory and takes the present detail as payment. The bearer can reconstruct any room but their own."*
 
 ---
 

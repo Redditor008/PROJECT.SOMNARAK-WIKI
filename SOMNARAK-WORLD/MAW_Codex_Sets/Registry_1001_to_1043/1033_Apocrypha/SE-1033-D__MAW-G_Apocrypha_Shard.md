@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Apocrypha Shard
 
-> *“Apocrypha Shard remembers Apocrypha; the bearer must not mistake memory for permission.”*
+> *"Every farewell left unsaid nearby is filed with the bearer as a message they failed to deliver."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Crying Shroud
 
-> *“The Crying Shroud remembers Keen; the bearer must not mistake memory for permission.”*
+> *"The small joys go out of hearing range first. What is left of the wearer is calm, level, and very hard to interest."*
 
 ---
 

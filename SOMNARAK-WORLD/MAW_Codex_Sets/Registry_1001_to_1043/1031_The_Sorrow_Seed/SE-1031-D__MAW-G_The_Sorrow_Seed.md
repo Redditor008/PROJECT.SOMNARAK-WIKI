@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Sorrow Seed
 
-> *“The Sorrow Seed remembers The Sorrow Seed; the bearer must not mistake memory for permission.”*
+> *"It grows toward whoever tends it. A bearer who stops gardening stops ageing, and loses the words for what they were for."*
 
 ---
 

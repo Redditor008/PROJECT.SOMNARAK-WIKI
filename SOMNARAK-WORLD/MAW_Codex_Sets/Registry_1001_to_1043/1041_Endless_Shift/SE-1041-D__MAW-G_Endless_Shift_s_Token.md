@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Endless Shift's Token
 
-> *“Endless Shift's Token remembers Endless Shift; the bearer must not mistake memory for permission.”*
+> *"It adds the bearer's unfinished work to their shoulders and takes nothing off when a task is finished."*
 
 ---
 

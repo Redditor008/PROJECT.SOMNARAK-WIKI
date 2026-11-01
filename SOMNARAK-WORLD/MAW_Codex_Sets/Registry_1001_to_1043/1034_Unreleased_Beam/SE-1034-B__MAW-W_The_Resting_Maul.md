@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Resting Maul
 
-> *“The Resting Maul remembers Unreleased Beam; the bearer must not mistake memory for permission.”*
+> *"It puts its weight down on the wielder between swings. Each blow comes back heavier, and they swing it further each time."*
 
 ---
 

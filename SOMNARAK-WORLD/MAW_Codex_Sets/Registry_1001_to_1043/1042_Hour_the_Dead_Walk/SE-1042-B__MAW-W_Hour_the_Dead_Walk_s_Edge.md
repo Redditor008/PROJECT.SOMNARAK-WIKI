@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Hour the Dead Walk's Edge
 
-> *“Hour the Dead Walk's Edge remembers Hour the Dead Walk; the bearer must not mistake memory for permission.”*
+> *"It strikes in the hour the dead walk. The wielder hears footsteps keeping pace, and they stop when the wielder stops."*
 
 ---
 

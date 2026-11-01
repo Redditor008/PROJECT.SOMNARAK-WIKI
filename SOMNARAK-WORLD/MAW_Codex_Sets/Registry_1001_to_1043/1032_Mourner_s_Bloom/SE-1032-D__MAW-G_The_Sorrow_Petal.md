@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Sorrow Petal
 
-> *“The Sorrow Petal remembers Mourner's Bloom; the bearer must not mistake memory for permission.”*
+> *"Every grief the wearer would have kept private shows on them as beauty, and people compliment it."*
 
 ---
 

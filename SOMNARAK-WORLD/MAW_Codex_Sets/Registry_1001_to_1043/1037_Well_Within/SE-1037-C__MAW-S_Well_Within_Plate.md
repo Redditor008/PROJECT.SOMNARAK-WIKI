@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Well Within Plate
 
-> *“Well Within Plate remembers Well Within; the bearer must not mistake memory for permission.”*
+> *"It armours the wearer in their own suppression. The blow stops and the anger underneath has nowhere to go."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Echo Fang
 
-> *“The Echo Fang remembers Heirloom; the bearer must not mistake memory for permission.”*
+> *"It strikes with a grievance older than the wielder. Their wounds come out older than they are."*
 
 ---
 

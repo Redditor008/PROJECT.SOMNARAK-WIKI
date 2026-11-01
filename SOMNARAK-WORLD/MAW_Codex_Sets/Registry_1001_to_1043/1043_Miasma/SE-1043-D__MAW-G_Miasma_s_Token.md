@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Miasma's Token
 
-> *“Miasma's Token remembers Miasma; the bearer must not mistake memory for permission.”*
+> *"It is checked against a slate cord at every junction, and the bearer cannot pass one without reaching for it."*
 
 ---
 

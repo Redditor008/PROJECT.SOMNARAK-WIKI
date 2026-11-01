@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Ruin Lens
 
-> *“The Ruin Lens remembers Dreaming Ruin; the bearer must not mistake memory for permission.”*
+> *"It strikes the thing as it will be when it is ruined, and charges the wielder a memory of the place they are standing in."*
 
 ---
 

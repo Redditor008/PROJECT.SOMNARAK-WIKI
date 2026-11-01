@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Miasma's Veil
 
-> *“Miasma's Veil remembers Miasma; the bearer must not mistake memory for permission.”*
+> *"The wearer cannot tell a strange grief from the one they came in with, and starts asking the cape which is which."*
 
 ---
 

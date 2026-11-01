@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Sorrow Requiem
 
-> *“The Sorrow Requiem remembers Mourner's Bloom; the bearer must not mistake memory for permission.”*
+> *"It opens the target the way a bloom opens and takes the wielder's own closing with it. Nothing they mourn can be finished."*
 
 ---
 

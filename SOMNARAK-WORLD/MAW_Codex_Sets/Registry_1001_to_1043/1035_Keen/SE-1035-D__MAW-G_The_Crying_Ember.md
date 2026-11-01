@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Crying Ember
 
-> *“The Crying Ember remembers Keen; the bearer must not mistake memory for permission.”*
+> *"The wearer hears grief where no sound exists, and answers it in their sleep."*
 
 ---
 

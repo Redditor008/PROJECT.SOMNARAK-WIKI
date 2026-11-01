@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Apocrypha Lens
 
-> *“Apocrypha Lens remembers Apocrypha; the bearer must not mistake memory for permission.”*
+> *"It cuts at the version a person gives of themselves, and bills the wielder's own account for the difference."*
 
 ---
 

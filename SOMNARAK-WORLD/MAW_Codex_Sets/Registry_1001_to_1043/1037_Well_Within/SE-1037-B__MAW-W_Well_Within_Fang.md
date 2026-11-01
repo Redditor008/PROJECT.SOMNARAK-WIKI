@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Well Within Fang
 
-> *“Well Within Fang remembers Well Within; the bearer must not mistake memory for permission.”*
+> *"It strikes what a person has been holding down, and the wielder bruises in the shape of their own withheld anger."*
 
 ---
 

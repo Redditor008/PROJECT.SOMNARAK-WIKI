@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Apocrypha Veil
 
-> *“Apocrypha Veil remembers Apocrypha; the bearer must not mistake memory for permission.”*
+> *"It protects a name by removing the record of it. The wearer ends up absent to themselves, having said everything they believe."*
 
 ---
 

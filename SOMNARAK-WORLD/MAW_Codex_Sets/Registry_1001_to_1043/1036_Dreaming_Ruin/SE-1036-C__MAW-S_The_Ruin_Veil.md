@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Ruin Veil
 
-> *“The Ruin Veil remembers Dreaming Ruin; the bearer must not mistake memory for permission.”*
+> *"The wearer sees every room as it will look empty, and is safe from the Void the whole time they are looking."*
 
 ---
 

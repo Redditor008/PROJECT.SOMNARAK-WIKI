@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Sorrow Maul
 
-> *“The Sorrow Maul remembers The Sorrow Seed; the bearer must not mistake memory for permission.”*
+> *"It plants a piece of the wielder in whatever it strikes, and the ground keeps it. By season's end the district is a garden and the wielder is thin."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Wanderer Without a Destination Shroud
 
-> *“Wanderer Without a Destination Shroud remembers Wanderer Without a Destination; the bearer must not mistake memory for permission.”*
+> *"It takes the small joys at every stop and returns them nowhere, so the wearer cannot settle long enough to notice."*
 
 ---
 

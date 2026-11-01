@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Endless Shift's Veil
 
-> *“Endless Shift's Veil remembers Endless Shift; the bearer must not mistake memory for permission.”*
+> *"It puts the wearer on shift permanently: the work is never finished and rest is not counted as rest."*
 
 ---
 

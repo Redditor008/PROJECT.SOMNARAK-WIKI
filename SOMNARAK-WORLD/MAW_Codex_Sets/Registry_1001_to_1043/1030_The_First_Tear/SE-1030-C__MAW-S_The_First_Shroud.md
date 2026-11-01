@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The First Shroud
 
-> *“The First Shroud remembers The First Tear; the bearer must not mistake memory for permission.”*
+> *"The first joy goes before the wearer can notice which one it was. The composure that follows frightens the people who knew them."*
 
 ---
 

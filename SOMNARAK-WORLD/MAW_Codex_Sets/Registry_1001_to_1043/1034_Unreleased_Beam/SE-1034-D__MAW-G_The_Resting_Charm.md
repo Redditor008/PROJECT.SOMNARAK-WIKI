@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Resting Charm
 
-> *“The Resting Charm remembers Unreleased Beam; the bearer must not mistake memory for permission.”*
+> *"It lends the bearer a beam's patience: they move at the pace of something that has not been released, and slower each season."*
 
 ---
 

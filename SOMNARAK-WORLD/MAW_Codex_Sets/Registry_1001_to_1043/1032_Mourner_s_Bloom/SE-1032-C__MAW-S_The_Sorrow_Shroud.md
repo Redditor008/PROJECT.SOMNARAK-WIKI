@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Sorrow Shroud
 
-> *“The Sorrow Shroud remembers Mourner's Bloom; the bearer must not mistake memory for permission.”*
+> *"Worn, grief stays open to the air and the smallest ones go first. Worn long, the wearer is beautiful and cannot stop being looked at."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Resting Burden
 
-> *“The Resting Burden remembers Unreleased Beam; the bearer must not mistake memory for permission.”*
+> *"It lets the wearer hold anything and removes the one thing that would ever tell them to stop."*
 
 ---
 

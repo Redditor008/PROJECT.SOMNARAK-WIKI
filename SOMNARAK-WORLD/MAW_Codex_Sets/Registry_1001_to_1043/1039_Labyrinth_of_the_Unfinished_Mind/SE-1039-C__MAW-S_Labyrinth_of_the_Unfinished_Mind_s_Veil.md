@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Labyrinth of the Unfinished Mind's Veil
 
-> *“Labyrinth of the Unfinished Mind's Veil remembers Labyrinth of the Unfinished Mind; the bearer must not mistake memory for permission.”*
+> *"It guards the self by making it unfindable, even to the wearer. The corridors rearrange to keep it that way."*
 
 ---
 

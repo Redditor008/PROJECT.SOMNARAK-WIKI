@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Hour the Dead Walk's Veil
 
-> *“Hour the Dead Walk's Veil remembers Hour the Dead Walk; the bearer must not mistake memory for permission.”*
+> *"It holds the wearer inside that hour, where the dead are company and the living are the ones who are missing."*
 
 ---
 

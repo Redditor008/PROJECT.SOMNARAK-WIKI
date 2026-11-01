@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Wanderer Without a Destination Lantern
 
-> *“Wanderer Without a Destination Lantern remembers Wanderer Without a Destination; the bearer must not mistake memory for permission.”*
+> *"It keeps a count of every place the bearer has left behind, and they walk toward whichever one hurts most."*
 
 ---
 
