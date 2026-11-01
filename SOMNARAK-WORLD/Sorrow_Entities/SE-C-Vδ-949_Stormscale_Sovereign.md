@@ -8,6 +8,7 @@
 |---|---|
 | **Designation** | `C-Vδ-949 [MS]` |
 | **Entity Type** | **Subject** — Non-breaching: transformation in place; the fourfold tide spreads beneath its flight path; every sector it overflies is cycled through all four sorrows |
+| **Special Class** | **Special Abnormality** — the terminus of the Soot Fry (`C-IIβ-947`) and Foam Flood (`C-IIIγ-948`) line; never acquired, never separately contained, produced only by their reunion (`R-35`). |
 | **Coherence** | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
@@ -38,6 +39,7 @@
 
 ### Operational Notes
 
+- **Special Abnormality (`R-35`).** The Sovereign is the terminus of the Soot Fry and Foam Flood line, not an intake of its own: no work loop, no counter and no yield belong to it, and the reunion of its halves is the whole of its activation condition. It is filed under that line and never renumbered into a parallel entry.
 - The Sovereign is latent and has no containment of its own, because it has never manifested.
 - The activation condition is the reunion of the Soot Fry and the Foam Flood. There is no counter and no gradual approach to it.
 - Work is performed on the two separately and never in proximity; the separation is the containment measure.

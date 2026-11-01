@@ -176,6 +176,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **Activation Threshold** — a filed count `[N]` | **Qliphoth Counter** reaching 0 | Same number, same direction, same drivers |
 | **Sorrow Gauge** reaching its filed percentage — the `[X]` tally | a Qliphoth Counter shown as **`X`** over a working tally | The hidden tally's completion point, not the numeral's |
 | **Activation** — a condition with no tally | *(no counter, or a counterless trigger)* | The condition itself; nothing accumulates, nothing is metered |
+| **Special Abnormality** — the terminus of a transformation line | *(no Qliphoth Counter; the line's completion is the trigger)* | Apocalypse Bird `O-02-63` and WhiteNight there; the Stormscale Sovereign `C-Vδ-949`, the Dawn of Mourning `C-Vω-001` and the Walking District `C-IVω-001-B [GS]` here (`R-35`) |
 | **Sorrow Tide** (nightly Han surge) | **Qliphoth Meltdown** | Escalation event |
 | **Ordeals** | **Ordeals** | External hostile events (5 Colors × 4 Watches) |
 | **Instant Fracture** | **Instant Death / Instakill** | ω-grade (ALEPH) entity special |

@@ -4,6 +4,8 @@ Counted 2026-10-26 over the authoritative 301-dossier ledger corpus (`SE_APPEARA
 
 **Answer: 153 of 301 SEs (50.8%) are Special Activation** — they have **no Breach Behavior section and no breach counter**. How they react is set by a trigger, a channel, an event-in-place, or a standing condition, not by filling a Sorrow Gauge breach counter.
 
+**A subclass inside that count is the Special Abnormality** (`R-35`, owner-stated 2026-11-01): the terminus of a transformation line, never acquired as itself and therefore never given a work loop, a yield or a counter. The Stormscale Sovereign `C-Vδ-949` is the worked case; the Dawn of Mourning `C-Vω-001` is the same class and carries a historical/projected deck instead, so the section heading does not decide it.
+
 ## Method (structural, reproducible)
 
 A dossier counts as Special Activation when its behavior block is one of the following instead of `## Breach Behavior`:

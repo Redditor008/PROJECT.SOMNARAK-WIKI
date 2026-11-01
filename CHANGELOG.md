@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Special Abnormality — a form that is never acquired (2026-11-01)
+
+Owner: *"Because Apo Bird Act Like The Sovereign Dragon From P.S. They Are Both End Of Transformation Line Or Like Plague Doctor and Kind Healer/the MAW From P.S. … The Two Activation Transform SE Really Need An Update Because They Should Never Be File Like Normal SE But Like Special Abno."*
+
+The objection was right, and it resolves the `X` question the last entry left open. Apocalypse Bird is not an entity with a missing counter. It is the **end of a line** — the form the three birds produce — and nothing ever acquired it, so there was never a holding for a counter to measure.
+
+**The class, stated as `R-35`.** A Special Abnormality is the terminus of a transformation line: never picked up as itself, no work loop, no yield, no counter, filed under its line. The test is provenance, not power — the Dawn of Mourning is the heaviest entry in the registry and is still special, because nothing ever had to acquire it. Both archives have them: Apocalypse Bird and WhiteNight there; the Stormscale Sovereign, the Dawn of Mourning and the Walking District here.
+
+**The two dossiers updated.** The Stormscale Sovereign `C-Vδ-949` and the Dawn of Mourning `C-Vω-001` now carry a `Special Class` row directly under `Entity Type`, naming the line each terminates and the condition that completes it, plus a first Operational Notes bullet stating the class. `Entity Type` is untouched, so the non-breach floors still count them where they always did.
+
+**The guide.** Section VII.1 now separates the three readings of `X` — a hidden tally, a terminus, an ordinary blank — and answers each differently; a new §VII.4 carries the class test, the members on both sides, the code rule and the conversion law (an event with a condition and a resolution; no work types, no yield, no M.A.W. production line unless a piece is filed). Section XI gains line 12.
+
+**Protocol 03 was wrong in every name it used.** The guide had *The Black Tear* `SE-C-IVγ-948 [WS]` and *The White Spark* `SE-N-IVγ-947 [VS]` fusing into *Yin and Yang Sovereign*. The archive holds the Soot Fry `C-IIβ-947 [WS]` and the Foam Flood `C-IIIγ-948 [LO]`, whose reunion produces the Stormscale Sovereign `C-Vδ-949 [MS]` — a flood dragon split black and white, manifest once and latent since. Corrected, with the two halves named as ordinary holdings and the dragon as the terminus.
+
+**Where the class is recorded.** `RULES/R-35_SPECIAL_ABNORMALITY.md` and its README row; the label vocabulary (`Special Class`, `Transformation Line`); the Universal Table's counter table, its designation law and its §II.4 state rule; the Risk Parallel's activation mapping; and a subclass pointer in `SPECIAL_ACTIVATION_SE.md`, since a terminus is usually counterless and a counterless entity is not usually a terminus.
+
+**Correction to the previous entry.** The relic share is **83 of 301**, counted by `tools/breach.py` as its RE group — not 88. The checklist line now names the tool instead of freezing a number that drifts.
+
+**Checks:** `seam_lint` 1,767 · `label_lint` 301 · `timeline_lint` 1,800 · `check_links` 3,995 / 0 broken · `audit_lore_archive` PASS · box symmetry PASS · `breach.py` floors OK (RE 79.5% · SE 30.5% · OP 51.2%) · `git diff --check` clean.
+
 ## Logic audit of the PM → PS Conversion Guide (2026-11-01)
 
 The guide was re-read whole against the wiki and the Drive reference set — the Combined Overhaul and the Tool Abnormality research — and then examined for internal contradiction rather than for wording. Every defect found is fixed in place.
@@ -33,7 +53,7 @@ The guide was re-read whole against the wiki and the Drive reference set — the
 - **Composure Load** was a tax on the grade in the guide and a per-piece filed burden in the Table; **M.A.W. Meltdown** was a permanent fusion at zero Composure, which the Table calls Panic and explicitly not a transformation. Both rewritten to the Table's law.
 - The guide now separates the two records that share the name **Sorrow Gauge**: the pressure percentage and the HP pool.
 
-**Smaller repairs.** Section IX.1 listed Luminous Bracelet as single-use (it is equippable, O-09-95), Flesh Idol as equippable (it is channeled), and *Therapy Device*, which is not an L Corp Abnormality. The SECC format line was missing the `SE-` prefix, the element/manifestation tag and the C/N/O origin letters. The checklist's "at least 25.0% Relic-Entity balance" had no source anywhere in the archive and is replaced by the filing check plus the archive's actual shape mix, 88 relics of 301 (29.2%). "The Walking Maw" is not a name — the breach state is *The Walking District*. The subtitle advertised the 10,000 HP calibration that the body calls non-canonical, and the Dawn of Mourning carried an `L` element tag against an all-four record.
+**Smaller repairs.** Section IX.1 listed Luminous Bracelet as single-use (it is equippable, O-09-95), Flesh Idol as equippable (it is channeled), and *Therapy Device*, which is not an L Corp Abnormality. The SECC format line was missing the `SE-` prefix, the element/manifestation tag and the C/N/O origin letters. The checklist's "at least 25.0% Relic-Entity balance" had no source anywhere in the archive and is replaced by the filing check plus the tool that counts the archive's actual shape mix (`tools/breach.py`, currently 83 relics of 301). "The Walking Maw" is not a name — the breach state is *The Walking District*. The subtitle advertised the 10,000 HP calibration that the body calls non-canonical, and the Dawn of Mourning carried an `L` element tag against an all-four record.
 
 **Checks:** `seam_lint` 1,767 · `label_lint` 301 · `timeline_lint` 1,800 · `check_links` 3,994 / 0 broken · `audit_lore_archive` PASS · box symmetry PASS · `git diff --check` clean.
 

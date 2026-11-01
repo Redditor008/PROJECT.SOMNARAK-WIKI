@@ -441,7 +441,7 @@ The ordinary serial is the Sorrow Entity's **own SECC numerical designation with
 
 #### 4. States, transformations and aliases
 
-Breach and transformation states do **not** mint new codes. A Place→Subject event (SECC `[GP]` → `[GS]`, `-B` forms, phase cycles) is written as a **containment state line under the same designation**, with the work-rule shift of Section VI. The SECC designation, Korean name and registry seed (where one exists) travel in Basic Info as aliases for cross-archive retrieval.
+Breach and transformation states do **not** mint new codes. A Place→Subject event (SECC `[GP]` → `[GS]`, `-B` forms, phase cycles) is written as a **containment state line under the same designation**, with the work-rule shift of Section VI. A Special Abnormality (`R-35`) is filed under its line the same way, whether the terminus keeps a suffixed state code (`-B`) or already carries its own filed designation: it is indexed under the line and never renumbered into a parallel entry. The SECC designation, Korean name and registry seed (where one exists) travel in Basic Info as aliases for cross-archive retrieval.
 
 **Quick maps and this designation law.** The owner's earlier quick references designate more simply — Origin C→O · N→T · O→O/M, serial carried unchanged (e.g. `T-02-16`). Those maps remain valid *reading* aids and govern already-filed legacy pairings when they are read into an SE → Abnormality record, but designation **assignment** for transported SEs follows this Section II only (three-field letter read; `0###` serial), as directed for this overhaul. Where the two disagree on a legacy entity, both codes ride as aliases; neither is ever renumbered to match the other.
 
@@ -751,7 +751,8 @@ Tier is set by the owner's **Threat Score** — read from the transformation tab
 |---|---|
 | **Counter numeral [N]** | **Activation Threshold**, identical number and direction, with the native's drivers quoted one for one — including drivers that belong to the facility rather than the entity |
 | **Counter shown as `X`** with a hidden tally | **Sorrow Gauge**, percentage. The hidden count is real and converts as an accumulating read; `Counter: —` is wrong on these entities |
-| **`X` with no tally at all** | **Activation** only. The percentage is carried where the dossier already files one (R-07), and no number is invented |
+| **`X` with no tally, on an ordinary entity** | **Activation** only. The percentage is carried where the dossier already files one (R-07), and no number is invented |
+| **A terminus form — a Special Abnormality** | **No counter, by construction** (`R-35`). The form was never acquired, so there is no holding to count; the line's completion files as Activation and the record is indexed under the line — Apocalypse Bird and WhiteNight there, the Stormscale Sovereign, the Dawn of Mourning and the Walking District here |
 | **Condition, no counter** | **Activation**, condition quoted verbatim. Nothing accumulates, so nothing is given a meter |
 | **Numeral and hidden tally together** | Both live; either fires; neither overrides the other (R-06) |
 

@@ -256,7 +256,8 @@ L Corp's counter display carries **three** trigger systems and admits to one of 
 - **Counter [N]** — a numeral, and the ability fires when it runs out. **Old Lady** (O-01-12) displays 4, and that single numeral is moved by two unrelated systems: it drops by one whenever work on any other Abnormality in the facility finishes, and it rises by one on her own Good or Normal results. One display, two drivers, neither of them visible on the counter.
 - **Counter [X]** — the display declines to answer. It shows no numeral, and the game's own text glosses that as *not using a counter*. The gloss is not a fact about the entity; it is a fact about the screen. It cannot tell you whether a tally exists behind the X, so the behaviour has to.
   - **A hidden tally is real.** **Bloodbath** (T-05-51) shows X and still counts: every employee dragged into the tub raises a visible hand, three hands mean the next work kills instantly regardless of level, and a kill resets the tally. The entity is counting. It is simply not counting where you can see it. This hidden tally is what the Codex calls **Special Activation**.
-  - **No tally is equally real.** **Apocalypse Bird** (O-02-63) shows X, breaches, and counts nothing — its arrival is a condition met elsewhere in the facility, not an accumulation. **One Sin and Hundreds of Good Deeds** (O-03-03) shows X and has nothing to fire at all. A display that refuses to answer has not answered "one".
+  - **The form is a terminus.** **Apocalypse Bird** (O-02-63) shows X and counts nothing because it is not a holding at all: it is what the three birds produce when all three are out at once. Nothing ever acquired it, so there is no counter to display. It files as a **Special Abnormality** under §VII.4, under its line.
+  - **The form is simply counterless.** **One Sin and Hundreds of Good Deeds** (O-03-03) shows X and has nothing to fire at all — an ordinary ZAYIN, acquired, contained and worked, that never breaches. File Activation, or no counter, and invent nothing.
 - **Activation** — a condition with no tally at all. An employee of a given stat enters, a mood is met, a timer expires. Nothing accumulates.
 
 The conversion keeps the three apart.
@@ -265,7 +266,8 @@ The conversion keeps the three apart.
 |---|---|---|
 | **Counter [N]** | **Activation Threshold** | Same number, same direction, same drivers. A 4 becomes a 4 and runs down for the reasons the native gives |
 | **Counter [X]** with a hidden tally — Special Activation | **Sorrow Gauge** — the pressure percentage, never the HP pool | The hidden count is real, so it converts as a gauge: it accumulates, it reads as a percentage, and it fires at its filed activation percentage |
-| **Counter [X]** with no tally behind it | **Activation** — or nothing at all | The X is honest here. File the condition that actually fires the entity, and if nothing fires it, file no counter and invent no meter |
+| **Counter [X]** on a terminus — a Special Abnormality | **No counter**; the line's completion is the Activation | The form was never acquired, so nothing is measured. §VII.4 governs the record |
+| **Counter [X]** with no tally, on an ordinary entity | **Activation** — or nothing at all | The X is honest here. File the condition that actually fires the entity, and if nothing fires it, file no counter and invent no meter |
 | **Activation** — condition, no tally | **Activation** | Filed as a condition, with no number invented beside it. Nothing accumulates, so nothing is given a meter |
 
 Five rules follow.
@@ -308,7 +310,25 @@ Project Moon keeps an entity's code and form through a breach. Rare Somnarak ape
 
 **Protocol 02 — Sequential phase (the Kind Healer Cycle).** `C-Iα-071 [LS]` *The Kind Healer* → `C-IIIγ-071b [LS]` *The Patient Martyr* → `C-Vω-071c [LS]` *The Apostle Maker*. The code updates as Coherence rank and Potency grade escalate.
 
-**Protocol 03 — Binary convergence (the Yin-Yang Axis).** `SE-C-IVγ-948 [WS]` *The Black Tear* and `SE-N-IVγ-947 [VS]` *The White Spark* fuse on mutual breach into `SE-C-Vδ-949` *Yin and Yang Sovereign*.
+**Protocol 03 — Binary convergence (the Yin-Yang Dragon).** `C-IIβ-947 [WS]` *The Soot Fry* and `C-IIIγ-948 [LO]` *The Foam Flood* are held apart by standing order; their reunion produces `C-Vδ-949 [MS]` *The Stormscale Sovereign* (음양룡), a flood dragon split black and white down its length, manifest once in the historical record and latent since. The two halves are ordinary holdings and may be worked separately; the dragon is a **Special Abnormality** under §VII.4, filed as the terminus of their line and never as an intake.
+
+### VII.4 Special Abnormalities — a form the archive never acquired
+
+Some entities are not holdings. They are the **terminus of a transformation line**: the form a line produces when it completes, which is never acquired, contained, worked or extracted as itself. L Corp has them — **Apocalypse Bird** (O-02-63) is what the three birds make, and **WhiteNight** is what the Plague Doctor makes. Somnarak has them — the **Stormscale Sovereign** (`C-Vδ-949`) is what the Soot Fry and the Foam Flood make, the **Dawn of Mourning** (`C-Vω-001`) is what the Kind Healer's twelfth blessing makes, and the **Walking District** (`C-IVω-001-B [GS]`) is what the Maw's perimeter makes.
+
+| Test | Special Abnormality | Ordinary entity |
+|---|---|---|
+| Picked up as itself? | Never — it is reached from something else | Yes, by its own intake |
+| Work loop? | None; nothing is worked on it | Yes, or a filed non-work relation |
+| Counter? | None; a counter measures a holding | Yes, or a filed Activation |
+| Code? | The line's, as a terminus — `-B` where the state files that way, or its own designation where the record already carries one, never renumbered | Its own |
+| Conversion | An event with a condition and a resolution | A body with a work loop |
+
+The test is **provenance, not power**. The Dawn of Mourning is the heaviest record in the registry and is still special, because nothing ever had to acquire it. Its trigger is the completion of its line, filed as an Activation condition in words — a reunion, a twelfth blessing, a perimeter crossed — and its resolution is the line's own closure: a confession before completion, a selfless wish, the enforced separation of two halves.
+
+**The counter question settles itself.** An `X` on a terminus is neither a hidden tally nor a blank: there is no holding for a counter to measure. An `X` with no tally on an ordinary entity is a different thing again. Both read `X`; only the record tells them apart.
+
+Nothing here reaches the two-work-type law, because there is no work. A Special Abnormality takes no work table, no PE yield and no M.A.W. production line unless the record files a piece; its appearance and equipment convert as appearance and equipment and nothing else. On the L Corp side the rule runs backwards unchanged: Apocalypse Bird is not an intake, it is what the three birds produce.
 
 ---
 
@@ -405,6 +425,7 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 
 - **PM source:** *Apocalypse Bird* (ALEPH).
 - **PS entity:** `SE-C-Vω-001 [MS]` *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*).
+- **Terminus to terminus.** The source is a Special Abnormality — what the three birds produce — and the conversion is the Kind Healer's. Neither was ever acquired, so neither takes a work loop; §VII.4 governs both, and the pair is the cleanest terminus-to-terminus read in the file.
 - **Profile:** City Sorrow `C-`, Rank V Sovereign, Grade ω Catastrophic, Mixed element (cycles Crimson, Blue, Black, Pale White).
 - **Durability:** Sorrow Gauge 12,000/12,000, run as a multi-phase sovereign raid.
 - **Mechanics:** three targetable core organs — the Beak of Hunger, the Scales of Debt, the Blind Lamp — and destructible limbs that require synchronised interception across the ten nodes.
@@ -447,9 +468,14 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 | 09. M.A.W.       : Weapon, suit and gift assigned across the five      |
 |                   weight classes                                       |
 | 10. RE-QUOTA     : Relic-Entities file as A/O/I Relic, never           |
-|                    Subject; archive mix 88 of 301 (29.2%)              |
+|                    Subject; the RE share is counted by tools/breach.py |
 | 11. COUNTER      : Three triggers: [N] numeral to Threshold,           |
 |                    [X] hidden tally to Gauge, condition to             |
 |                    Activation; an X with no tally is Activation        |
+| 12. SPECIAL      : Terminus forms — Apocalypse Bird and WhiteNight     |
+|                    there; the Stormscale Sovereign, the Dawn of        |
+|                    Mourning and the Walking District here — file as    |
+|                    Special Abnormality: no work loop, no yield,        |
+|                    no counter (R-35)                                   |
 +========================================================================+
 ```

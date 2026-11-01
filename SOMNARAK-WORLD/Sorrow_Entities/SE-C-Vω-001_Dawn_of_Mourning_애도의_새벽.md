@@ -8,6 +8,7 @@
 |---|---|
 | **Designation** | `C-Vω-001 [LS]` |
 | **Entity Type** | **Subject** — Catastrophic transformation |
+| **Special Class** | **Special Abnormality** — the terminus of the Kind Healer chain (`C-Iα-071` → Blessing Giver → Apostle Maker), reached at the twelfth blessing; never acquired, never contained, filed under the chain (`R-35`). |
 | **Coherence** | Sovereign (V) — Absolute and divine |
 | **Potency** | Catastrophic (ω) — City-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -38,6 +39,7 @@
 
 ### Operational Notes
 
+- **Special Abnormality (`R-35`).** The Dawn is the terminus of the Kind Healer chain, not an intake of its own: no work session, no counter and no collected yield belong to it, and completion of the twelfth blessing is the whole of its activation condition. The Hand of Hope, the chain's other branch, is carried in this record rather than filed separately.
 - The Dawn carries all four sorrows and is the heaviest single entry in the registry by every measure the facility keeps.
 - No work session exists for this holding, and no work is recorded as reducing its pressure. The operational instrument is the blessing register, not an approach procedure.
 - There is no ignored-condition protocol and no approach to verify. The only recorded provision sits before completion: a genuine confession. No reliable post-formation response is established.

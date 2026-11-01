@@ -62,6 +62,8 @@ EXTRA_LABELS = {
     "Length / Diameter", "Lull", "M.A.W. Extraction", "Metallurgy",
     "Metamorphosis Type", "Mineral Structure", "OBSERVATION FAIL", "Origin",
     "Recession", "Residue Adhesion", "SECC Designation", "Seal Compound",
+    # R-35: the terminus of a transformation line is classed, not re-typed
+    "Special Class", "Transformation Line",
     "Seam Weakness", "Speed / Expansion", "Suppression", "Surface Markings",
     "Surge", "Termination Method", "Thermal Delta", "Thermal Equilibrium",
     "Thermal Output", "Threat Score", "Visual confirmation", "Weight",
