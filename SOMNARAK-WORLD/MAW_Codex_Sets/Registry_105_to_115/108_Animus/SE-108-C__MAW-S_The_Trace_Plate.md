@@ -20,7 +20,7 @@
 | Set | Lost Cause |
 | Type / grade / element | Suit / α — Minor / Grudge |
 | Status | Active; low-grade residue-response issue |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Specialist Minho Ashford |
 | Resting form | A light crimson harness with a faint char scent and one unfilled line down the center plate. |
 | Active form | The unfilled line glows where an inherited anger is trying to become a current action. |

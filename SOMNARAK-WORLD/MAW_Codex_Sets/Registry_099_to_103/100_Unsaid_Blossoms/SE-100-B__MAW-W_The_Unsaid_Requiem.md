@@ -20,7 +20,7 @@
 | Set | Last Sentences |
 | Type / grade / element | Weapon / β — Moderate / Lament |
 | Status | Active; disclosure-purpose review required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Sooah Park |
 | Resting form | A slim blue Han-crystal blade with one petal suspended just beneath the guard. |
 | Active form | The petal becomes a line of blue script that drifts along the edge without forming readable words. |

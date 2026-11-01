@@ -20,7 +20,7 @@
 | Set | Witnessed Route |
 | Type / grade / element | Weapon / α — Minor / Lament |
 | Status | Active; return-line issue required |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Cartographer Yeonhwa |
 | Resting form | A small blue blade with a broken route line within the crystal and no point facing forward by default. |
 | Active form | The route line turns toward the team’s mapped return direction rather than the collapsed trace. |

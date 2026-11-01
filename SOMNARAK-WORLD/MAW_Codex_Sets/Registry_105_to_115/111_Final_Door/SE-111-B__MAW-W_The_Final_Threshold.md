@@ -33,7 +33,7 @@ A slender needle-glaive forged from black petrified boundary crystal, resting in
 | Attack Pattern | Piercing |
 | Target Coverage | 1 target; penetrates through to secondary target directly behind |
 | Falloff Rule | 100% damage to front target; 60% Void damage to rear target. |
-| Max Amount | 2 |
+| Max Amount | 2 — Limited |
 | Echo cost | 50 Sorrow Echoes |
 | Canonical ability | Cuts at boundary definitions; instantly terminates low-tier barrier projections and temporal echoes. |
 | Bearer cost | Each strike removes 2 seconds of the wielder's recent auditory memory; extended battle leaves temporary deafness. |

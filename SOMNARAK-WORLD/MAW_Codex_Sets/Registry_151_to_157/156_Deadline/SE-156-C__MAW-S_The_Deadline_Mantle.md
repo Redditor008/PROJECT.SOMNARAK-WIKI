@@ -20,7 +20,7 @@
 | Set | Time to Act |
 | Type / grade / element | Suit / β — Moderate / Weight |
 | Status | Active; deadline-support and rest plan required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | A black mantle with faint concentric clock marks at the hem, each mark incomplete. |
 | Active form | The marks slow around the wearer and distribute deadline Weight through the fabric. |

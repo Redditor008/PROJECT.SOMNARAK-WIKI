@@ -20,7 +20,7 @@
 | Set | Witnessed Shelter |
 | Type / grade / element | Suit / β — Moderate / Void |
 | Status | Active; threshold witness required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | Pale gossamer with a dark band at the hem that looks like a doorway seen from the wrong side. |
 | Active form | The fabric outlines the room’s edges and dulls the pull of empty corridors. |

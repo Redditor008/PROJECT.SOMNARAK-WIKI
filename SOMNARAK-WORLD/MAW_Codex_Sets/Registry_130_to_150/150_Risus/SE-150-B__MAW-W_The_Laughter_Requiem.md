@@ -20,7 +20,7 @@
 | Set | Joy After |
 | Type / grade / element | Weapon / α — Minor / Lament |
 | Status | Active; joy-and-loss witness required |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Chronicler Minseo |
 | Resting form | A small blue blade with a bright tonal shimmer that fades to sorrow when the hilt is gripped. |
 | Active form | The edge gives a brief laugh-like chime before releasing a quiet Lament line. |

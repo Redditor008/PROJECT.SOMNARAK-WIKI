@@ -20,7 +20,7 @@
 | Set | Unspent Ember |
 | Type / grade / element | Protective Attire (Fire-Retardant Spun Asbestos & Coarse Ash Wool) / β / Lament |
 | Status | Active; post-exposure warmth review mandatory |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Haneulash Yoon |
 | Resting form | A blue shroud woven around a faint ash-coloured lining, cool to the skin but warm-looking at the edges. |
 | Active form | The lining gathers a dim ember-glow around a bearer who is sharing a space without demanding touch. |

@@ -20,7 +20,7 @@
 | Set | Known Balance |
 | Type / grade / element | Suit, greave-plate / β — Moderate / Weight |
 | Status | Active; return-call partner required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | Black greave plates with a faintly delayed shadow at each heel. |
 | Active form | Footsteps become quiet and the wearer slips through debt-pressure zones with brief shadow-like concealment. |

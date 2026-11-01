@@ -20,7 +20,7 @@
 | Set | Wake With It |
 | Type / grade / element | Protective Attire (Translucent Dream-Spun Silk & Veil) / β / Lament |
 | Status | Active; externally anchored Dream use only |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Dreamer Sora |
 | Resting form | A soft deep-blue shroud with a subtle warmth at the inner collar that never reaches the skin. |
 | Active form | The fabric produces a faint room-like outline around the wearer, preserving their waking body’s boundary in the Dream. |

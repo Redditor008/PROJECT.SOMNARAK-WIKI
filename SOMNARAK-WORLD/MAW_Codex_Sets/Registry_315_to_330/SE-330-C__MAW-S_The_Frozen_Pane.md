@@ -22,7 +22,7 @@
 | **Category** | SUIT (Reinforced Glass Louver Cuirass) |
 | **Grade** | β — Moderate |
 | **Element** | Weight |
-| **Maximum Amount** | 4 — Standard Cadre |
+| **Maximum Amount** | 4 — Stocked (Standard Cadre) |
 | **Echo Cost** | 20 Sorrow Echoes |
 | **Bearer Requirement** | Must wear alongside an accompaniment partner and record current endpoint |
 | **Status** | Active, restricted issue |

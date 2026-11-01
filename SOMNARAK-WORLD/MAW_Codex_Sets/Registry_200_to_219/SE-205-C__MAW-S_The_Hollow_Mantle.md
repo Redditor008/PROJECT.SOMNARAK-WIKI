@@ -55,7 +55,7 @@ A stable Mantle condenses from the burden left on a Ferrehan worker’s shoulder
 |---|---|
 | Type | Armor — mantle |
 | Grade / element | γ — Major / Weight |
-| Maximum amount | 3 — controlled operational issue |
+| Maximum amount | 3 — Standard (controlled operational issue) |
 | Echo cost | 35 Sorrow Echoes |
 | Operational cost | Constant low fatigue while sealed |
 | Binding cost | Progressive difficulty distinguishing chosen responsibility from burdens accepted by habit |

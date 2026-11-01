@@ -20,7 +20,7 @@
 | Set | Named Obligation |
 | Type / grade / element | Weapon / β — Moderate / Weight |
 | Status | Active; debt-custody issue only |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Minho Ashford |
 | Resting form | A black maul with a single open chain link set into the head, never bearing a name. |
 | Active form | The link opens into a short Weight line around a coercive obligation field. |

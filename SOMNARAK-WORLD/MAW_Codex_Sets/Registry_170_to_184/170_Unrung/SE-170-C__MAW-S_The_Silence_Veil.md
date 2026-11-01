@@ -20,7 +20,7 @@
 | Set | Heard Warning |
 | Type / grade / element | Suit / β — Moderate / Void |
 | Status | Active; external alert chain required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | Pale gossamer with a bell-shaped blank at the collar and no rustle when folded. |
 | Active form | The fabric mutes intrusive Void pressure around the wearer while an external alert thread remains visible. |

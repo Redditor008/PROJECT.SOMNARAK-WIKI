@@ -20,7 +20,7 @@
 | Set | Held Shape |
 | Type / grade / element | Weapon / α — Minor / Void |
 | Status | Active; chosen-name witness required |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Specialist Nari Kwon |
 | Resting form | A thin pale Lens whose edge softens and reforms when seen from different angles. |
 | Active form | A light line surrounds a fragmenting self-image without closing it into a fixed outline. |

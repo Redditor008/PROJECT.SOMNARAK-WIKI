@@ -21,7 +21,7 @@
 | Set | Heard Warning |
 | Type / grade / element | Weapon (RELIQUARY — Censer/Bell) / β — Moderate / Void |
 | Status | Active; alert-partner issue required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Sentinel Harin |
 | Resting form | A Void Han-glass hammer with a bell-shaped hollow inside the head and no audible movement. |
 | Active form | A single pale impact circle spreads outward, swallowing nearby sound within a defined space. |

@@ -20,7 +20,7 @@
 | Set | Shared Support |
 | Type / grade / element | Weapon / α — Minor / Weight |
 | Status | Active; repair-and-relief plan required |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Specialist Minho Ashford |
 | Resting form | A small black maul with rust lines that appear only when a nearby support is overloaded. |
 | Active form | The head sends a short dark brace line from one stressed point to a prepared replacement. |

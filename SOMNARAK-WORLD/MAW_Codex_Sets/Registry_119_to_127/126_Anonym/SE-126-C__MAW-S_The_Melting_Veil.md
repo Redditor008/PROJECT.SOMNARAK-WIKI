@@ -20,7 +20,7 @@
 | Set | Held Shape |
 | Type / grade / element | Suit / α — Minor / Void |
 | Status | Active; chosen-name witness deployment only |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | Pale gossamer that softens at the edges but retains a clear central collar line. |
 | Active form | The Veil moves like a dissolving outline around the wearer while a witness-held thread marks the current self. |

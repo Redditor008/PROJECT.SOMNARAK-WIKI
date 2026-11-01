@@ -20,7 +20,7 @@
 | Set | Joy After |
 | Type / grade / element | Suit / α — Minor / Lament |
 | Status | Active; communal-witness issue |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Specialist Kkotlom Lee |
 | Resting form | A light blue shroud with small bell-like folds along the hem. |
 | Active form | Each fold catches a laugh, an exhale, or a tear before releasing it as a softer shared tone. |

@@ -60,7 +60,7 @@ A bearer who draws it to “make emptiness useful” feels the intake turn inwar
 | Range | 3 — Medium |
 | Attack pattern | Skewer |
 | Coverage / falloff | Line, up to 3 targets: 100% → 70% → 50% |
-| Maximum amount | 3 — controlled operational issue |
+| Maximum amount | 3 — Standard (controlled operational issue) |
 | Echo cost | 40 Sorrow Echoes |
 | Corrosion risk | Severe during environmental overdraw |
 

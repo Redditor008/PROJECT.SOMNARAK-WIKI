@@ -20,7 +20,7 @@
 | Set | Borrowed Absence |
 | Type / grade / element | Suit / β — Moderate / Void |
 | Status | Active; paired deployment only |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | A folded sheet of near-transparent Han-gossamer, cool at the collar and too light to feel until it moves. |
 | Active form | It hangs around the wearer like a displaced afterimage; observers see the space beside them before they see the wearer. |

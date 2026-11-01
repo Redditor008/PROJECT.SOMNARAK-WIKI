@@ -20,7 +20,7 @@
 | Set | Carried Threshold |
 | Type / grade / element | Suit / β — Moderate / Lament |
 | Status | Active; return-partner issue only |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | A deep-blue shroud with a thin charred seam that resembles a doorframe around the wearer’s shoulders. |
 | Active form | The seam creates a stable outline between a memory-room and the bearer’s current body. |

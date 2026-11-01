@@ -20,7 +20,7 @@
 | Set | Unspent Ember |
 | Type / grade / element | RANGE / GUN SHAPE (Flintlock Cinder Carbine & Brass Hearth-Hopper) / β / Lament |
 | Status | Active; a return-chair plan is required before issue |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Handler Soojin |
 | Resting form | An 85cm fire-charred ash-wood and riveted-iron carbine; its brass breech remains red-hot, while one coal-red mote rests in the open hopper without giving physical heat. |
 | Active form | The mote brightens as the lever cycles; the carbine launches three high-velocity embers that detonate into scattering orange sparks at Range 4. |

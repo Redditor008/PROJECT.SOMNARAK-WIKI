@@ -8,6 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The extraction ceiling, stated (batch 103)
+
+The archive has filed a `Maximum Amount` in M.A.W. records since the templates were written, and never once said what the figure meant. **How many of a piece can exist, per Sorrow Entity, per type** had no answer in the codex — only a number in a table that four different readings could claim.
+
+**The law is now written, in three places that cannot drift apart:** [`SOMNARAK_MAW_CODEX.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md) §I.1 (the full text with the field table), [`R-37`](REFERENCE_SOMNARAK_WIKI/RULES/R-37_MAW_STOCK_CEILING.md) (the binding rule), and the three M.A.W. templates (the row, plus a short form beside it).
+
+**Five per kind.** One entity supports up to five Weapons, five Suits, five Stigmas — fifteen pieces, whatever the source's rank. The registry's long-standing *"up to three pieces"* line is a count of **kinds**, not of stock, and §I.1 now says so in the same sentence so the two can never be read for each other again.
+
+**The band word is fixed to the figure:** `1 — Held · 2 — Limited · 3 — Standard · 4 — Stocked · 5 — Abundant`.
+
+**The count falls only four ways.** Dissolution · missing · broken · **100% inheritance** — and inheritance has two filed forms, *it becomes that agent* and *it is Echo-Core bound*. **Fusion is not a fifth event:** a fused piece is still one piece, still counted, still on the record. Director Majin's *Reaper Hungered* left the count because the Echo-Core holds it, not because it is fused, which is exactly the distinction the armament table has carried all along without the stock law noticing it.
+
+**Everything else leaves the figure standing:** issue, loan between wards, vaulting, a sealed case, ordinary wear, damage short of destruction, corrosion short of takeover, and the bearer's death where the piece survives them.
+
+**Stigmas file both figures from this batch.** `Acquisition Probability` is the **rate of arrival**; `Maximum Amount` is the **size of the holding**. One field had been asked to answer the other's question, which is why 284 Stigma records looked like they were missing data rather than answering a different question.
+
+**The field, surveyed — and two false bases corrected.** `Maximum / Echo Cost` also appears as a **column header** in the combat stat tables (362 rows that are headers, not amounts), and many records carry both an amount row and an echo-cost row (counting matches instead of records double-counts them). Parsed with the label as the **first cell of its own row**, the true picture is **199 of 852 records state a figure** — Weapon 98, Suit 101, Stigma 0 — and **653 do not**. No record files above five; none files zero.
+
+**Forty-eight records corrected** to their own figures (`4 — Limited` → `4 — Stocked` in 24; `5 — Standard` → `5 — Abundant` in 12; the remaining twelve making room for a descriptive note without losing it). Every note preserved in parentheses; no figure touched. Re-scan: **0 misfiles**. The audit is [`MAW_STOCK_CEILING_AUDIT_2026-11-02.md`](REFERENCE_SOMNARAK_WIKI/AUDITS/MAW_STOCK_CEILING_AUDIT_2026-11-02.md).
+
+**The 653 blanks are a debt, not a ruling** — a record with no figure is *not yet counted*, never unlimited, and filling one requires that record's own extraction history.
+
+**Gate:** `seam_lint` · `section_logic` · `check_links` 0 broken (4,285 links).
+
 ## The corrosion opener, written per item (batch 102)
 
 The residue the last entry named is real and it is the same defect in a second place. Where the three bullets I had just finished sat in the failure section, this one sits in the corrosion paragraph: **`Treating the response as autobiography reproduced the wound and fixed the rule.`** in **139 records**, and the long variant that opens *Treating the response as the bearer's own story…* in **4** more. A second sentence, `Corrosion runs from first-person description of the event…`, opens **165** paragraphs, and it is the next thing after this.

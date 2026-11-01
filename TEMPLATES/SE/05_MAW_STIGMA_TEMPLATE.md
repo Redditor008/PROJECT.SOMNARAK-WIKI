@@ -51,8 +51,11 @@ Registry Code: `MAW-G-{{NUM}}-01`
 | **Grade** | {{α / β / γ / δ / ω}} |
 | **Element** | {{Grudge / Lament / Void / Weight}} |
 | **Slot** | {{Head / Face / Chest / etc. — where manifestation appears}} |
+| **Maximum Amount** | {{1–5 — Held / Limited / Standard / Stocked / Abundant}} |
 | **Acquisition Probability** | {{2–5% per successful work cycle}} |
 | **Status** | {{Granted at random — not stockpiled}} |
+
+> **Maximum Amount is stock, and the ceiling is five.** The figure is how many of this piece the Archive may hold from this source at once, not how many have ever existed and not how many a bearer may carry. It falls only on **dissolution, loss, destruction, or 100% inheritance** — the piece becoming its agent, or being Echo-Core bound. Fusion is a change of state, not a decrement. Issue, loan, vaulting and damage short of destruction leave the figure standing. Full law: `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` §I.1.
 
 ### Appearance
 

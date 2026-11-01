@@ -20,7 +20,7 @@
 | Set | Last Sentences |
 | Type / grade / element | Suit / β — Moderate / Lament |
 | Status | Active; monitored for joy-numbing saturation |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Haneulash Yoon |
 | Resting form | A blue wrap with pale petal veins at the hem; the fabric remains dry despite a faint rain scent. |
 | Active form | The petals darken around the wearer’s shoulders, separating one arriving sorrow from the next. |

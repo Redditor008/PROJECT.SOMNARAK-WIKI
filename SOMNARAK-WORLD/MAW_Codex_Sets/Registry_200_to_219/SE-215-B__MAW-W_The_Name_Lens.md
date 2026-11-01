@@ -62,7 +62,7 @@ A bearer binds by naming one personal memory that will not be entered into the o
 | Range | 2 — Short |
 | Attack pattern | Single |
 | Coverage / falloff | One independently attested target; 100% |
-| Maximum amount | 5 — regular qualified allocation |
+| Maximum amount | 5 — Abundant (regular qualified allocation) |
 | Echo cost | 15 Sorrow Echoes |
 | Operational cost | One small, nameless memory per discharge |
 | Corrosion risk | Moderate under repeated naming conflict |

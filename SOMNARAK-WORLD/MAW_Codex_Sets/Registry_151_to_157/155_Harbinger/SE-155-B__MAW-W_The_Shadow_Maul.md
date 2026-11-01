@@ -20,7 +20,7 @@
 | Set | Known Balance |
 | Type / grade / element | Weapon / β — Moderate / Weight |
 | Status | Active; verified-balance issue required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Minho Ashford |
 | Resting form | A compact Weight Han-steel maul whose head casts a shadow in the wrong direction. |
 | Active form | The shadow lengthens from the maul toward the current Weight pressure it is targeting. |

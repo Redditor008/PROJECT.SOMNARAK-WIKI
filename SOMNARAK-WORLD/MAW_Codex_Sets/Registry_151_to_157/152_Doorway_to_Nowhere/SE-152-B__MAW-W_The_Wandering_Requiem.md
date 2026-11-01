@@ -20,7 +20,7 @@
 | Set | Carried Threshold |
 | Type / grade / element | Weapon / β — Moderate / Lament |
 | Status | Active; physical return partner required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Nari Kwon |
 | Resting form | A slender blue blade with a charred door-grain pattern beneath the glass. |
 | Active form | The pattern opens into a narrow threshold line that points toward the bearer’s current return route. |

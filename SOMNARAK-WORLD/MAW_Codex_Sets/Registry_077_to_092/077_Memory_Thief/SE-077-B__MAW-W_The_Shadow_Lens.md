@@ -20,7 +20,7 @@
 | Set | Borrowed Absence |
 | Type / grade / element | Weapon / β — Moderate / Void |
 | Status | Active; issue only with a paired identity-verification partner |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Nari Kwon |
 | Resting form | A coin-wide, nearly colourless Han-glass disc. Its edge holds a black crescent that never stays in the same position. |
 | Active form | A thin circular aperture opens in front of the bearer’s hand; the target sees their own recognition hesitate inside it. |

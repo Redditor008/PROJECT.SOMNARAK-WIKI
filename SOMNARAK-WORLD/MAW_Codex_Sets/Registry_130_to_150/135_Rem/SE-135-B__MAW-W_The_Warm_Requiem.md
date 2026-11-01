@@ -20,7 +20,7 @@
 | Set | Wake With It |
 | Type / grade / element | FANTASY (Telekinetically Suspended Lavender Prisms & Astral Somnolence Halo) / β / Lament |
 | Status | Active; waking-anchor issue |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Dreamer Sora |
 | Resting form | Three twenty-centimeter, diamond-faceted lavender prisms hover above the bearer’s open hand in a slow triangular orbit; they have no physical handles or cords. |
 | Active form | The prisms answer telekinetic gestures, launch in high-speed piercing trajectories up to Range 4, then return to orbit; their violet dream trails point toward the waking anchor. |

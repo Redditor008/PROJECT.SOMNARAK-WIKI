@@ -20,7 +20,7 @@
 | Set | Borrowed Motion |
 | Type / grade / element | Weapon (FANTASY — Spectral Glove & 3 Daggers) / β — Moderate / Grudge |
 | Status | Active; issued only with a declared endpoint and rest partner |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Sentinel Harin |
 | Resting form | A pale gossamer mourning silk glove with three floating silver daggers hovering in stasis around the palm. |
 | Active form | Subtle finger choreography sends all three daggers darting independently in rapid telekinetic arcs, trailing red ribbon afterimages. |

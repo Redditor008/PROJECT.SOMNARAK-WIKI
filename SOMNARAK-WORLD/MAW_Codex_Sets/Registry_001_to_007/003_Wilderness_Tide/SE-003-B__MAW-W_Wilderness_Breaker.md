@@ -33,7 +33,7 @@ A massive hydraulic poleaxe forged from consolidated border salt-slag and harden
 | Attack Pattern | Heavy Cleave |
 | Target Coverage | 1 primary target; causes minor stagger to adjacent units |
 | Falloff Rule | 100% damage to main target; 50% kinetic shockwave to enemies in adjacent grid nodes. |
-| Max Amount | 3 |
+| Max Amount | 3 — Standard |
 | Echo cost | 35 Sorrow Echoes |
 | Canonical ability | Deals heavy Weight damage; knocks back targets by 1 grid node if their Posture is below 50%. |
 | Bearer cost | The wielder feels the perpetual chill of damp wilderness salt against their skin, reducing natural health recovery. |

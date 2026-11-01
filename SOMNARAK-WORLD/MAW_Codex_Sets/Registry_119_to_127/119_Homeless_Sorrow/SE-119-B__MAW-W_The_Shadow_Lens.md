@@ -20,7 +20,7 @@
 | Set | Witnessed Shelter |
 | Type / grade / element | Weapon / β — Moderate / Void |
 | Status | Active; location witness required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Nari Kwon |
 | Resting form | A pale circular Lens with a dark room-shaped depth at its center and no reflected ceiling. |
 | Active form | The Lens traces a thin white outline around one person or pressure point, as if giving it a temporary address. |

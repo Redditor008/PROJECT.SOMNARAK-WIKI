@@ -31,7 +31,7 @@ A heavy reinforced mantle and breastplate constructed from layered tidal bedrock
 | Grudge resistance | 0.9 (Resistant) |
 | Void resistance | 1.1 (Vulnerable) |
 | Weight resistance | 0.5 (Highly Resistant) |
-| Max Amount | 3 |
+| Max Amount | 3 — Standard |
 | Echo cost | 35 Sorrow Echoes |
 | Canonical ability | Grants massive resistance to Weight pressure; wearer is completely immune to forced grid displacement and knockbacks. |
 | Bearer cost | Movement cost is increased by 1 AP when attempting to advance more than 2 grid nodes in a single turn. |

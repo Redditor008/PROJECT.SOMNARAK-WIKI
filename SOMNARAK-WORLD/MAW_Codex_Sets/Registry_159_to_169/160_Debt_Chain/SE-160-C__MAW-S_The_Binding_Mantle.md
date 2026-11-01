@@ -20,7 +20,7 @@
 | Set | Named Obligation |
 | Type / grade / element | Suit / β — Moderate / Weight |
 | Status | Active; custody-partner issue |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | A black mantle with a loose chain pattern that never closes around the wearer’s body. |
 | Active form | The pattern distributes observed Weight along the hem while leaving the wearer’s hands free. |

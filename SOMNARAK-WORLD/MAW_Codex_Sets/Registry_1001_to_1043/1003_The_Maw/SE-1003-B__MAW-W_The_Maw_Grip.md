@@ -33,7 +33,7 @@ A massive black-iron executioner's cleaver embedded with compressed fragments of
 | Attack Pattern | Heavy Cleave |
 | Target Coverage | 1 target; creates a 1-node shockwave on impact |
 | Falloff Rule | 100% damage to primary target; immediately destroys any target's active Posture Shield. |
-| Max Amount | 1 |
+| Max Amount | 1 — Held |
 | Echo cost | 60 Sorrow Echoes |
 | Canonical ability | Carries the weight of the First Sorrow; bypasses all physical armor and inflicts 5 turns of bleeding Grudge residue. |
 | Bearer cost | Each strike drains 5 points of the wielder's Composure; reaching 0 Composure triggers an immediate Cheongula Meltdown. |

@@ -27,7 +27,7 @@
 |---|---|
 | **Type** | Armor — Weight mantle |
 | **Grade** | δ — Critical |
-| **Maximum Amount** | 2 — sealed historical pair |
+| **Maximum Amount** | 2 — Limited (sealed historical pair) |
 | **Echo Cost** | 45 Sorrow Echoes |
 
 ### Appearance

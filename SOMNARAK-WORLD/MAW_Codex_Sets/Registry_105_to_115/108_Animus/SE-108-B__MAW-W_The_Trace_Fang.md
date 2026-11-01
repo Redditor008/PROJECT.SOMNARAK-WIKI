@@ -20,7 +20,7 @@
 | Set | Lost Cause |
 | Type / grade / element | Weapon / α — Minor / Grudge |
 | Status | Active; residue-context log mandatory |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Specialist Sooah Park |
 | Resting form | A small Grudge Han-iron fang with a faintly quivering edge and a warm red thread trapped under the metal. |
 | Active form | The red thread reaches from the tip toward the nearest active Grudge residue. |

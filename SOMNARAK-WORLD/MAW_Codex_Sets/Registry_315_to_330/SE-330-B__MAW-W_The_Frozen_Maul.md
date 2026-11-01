@@ -22,7 +22,7 @@
 | **Category** | MELEE (Glazed Mullion Polearm) |
 | **Grade** | β — Moderate |
 | **Element** | Weight |
-| **Maximum Amount** | 4 — Standard Cadre |
+| **Maximum Amount** | 4 — Stocked (Standard Cadre) |
 | **Echo Cost** | 25 Sorrow Echoes |
 | **Bearer Requirement** | Must name a definitive route endpoint and observe a completed circuit |
 | **Status** | Active, restricted issue |

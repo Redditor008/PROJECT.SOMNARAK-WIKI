@@ -31,7 +31,7 @@ A heavy floor-length shroud of pale white acoustic silk, woven with threads spun
 | Grudge resistance | 0.8 (Resistant) |
 | Void resistance | 0.4 (Highly Resistant) |
 | Weight resistance | 0.8 (Resistant) |
-| Max Amount | 2 |
+| Max Amount | 2 — Limited |
 | Echo cost | 50 Sorrow Echoes |
 | Canonical ability | Grants extraordinary protection against Void and erasure anomalies; wearer cannot be targeted by instant-panic effects. |
 | Bearer cost | The wearer cannot vocalize above a whisper while wearing the veil; peripheral vision is reduced by 20%. |

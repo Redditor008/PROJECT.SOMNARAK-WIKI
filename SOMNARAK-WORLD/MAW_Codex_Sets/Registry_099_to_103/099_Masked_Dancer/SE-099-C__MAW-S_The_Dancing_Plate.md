@@ -20,7 +20,7 @@
 | Set | Borrowed Motion |
 | Type / grade / element | Protective Attire (Ceremonial Silk Robe & Stole) / β — Moderate / Grudge |
 | Status | Active; scheduled rest checks required |
-| Maximum amount | 4 — Limited |
+| Maximum amount | 4 — Stocked |
 | Current bearer | Specialist Kkotlom Lee |
 | Resting form | Billowing black and crimson ceremonial silk robe with elongated sleeves and a fluttering ribbon stole. |
 | Active form | Each plate shifts a fraction of a beat ahead of the wearer, catching impact in the direction of movement. |

@@ -50,10 +50,12 @@ Registry Code: `MAW-W-{{NUM}}-01`
 | **Category** | {{MELEE / RANGED / PIERCE / LINE RESONANCE}} |
 | **Grade** | {{α / β / γ / δ / ω}} |
 | **Element** | {{Grudge / Lament / Void / Weight}} |
-| **Maximum Amount** | {{1–4 — Limited}} |
+| **Maximum Amount** | {{1–5 — Held / Limited / Standard / Stocked / Abundant}} |
 | **Echo Cost** | {{20–80 Sorrow Echoes}} |
 | **Bearer Requirement** | {{Vigil/weight/memory condition — must echo Side Codex}} |
 | **Status** | {{Active, restricted issue / Vaulted / Field trial}} |
+
+> **Maximum Amount is stock, and the ceiling is five.** The figure is how many of this piece the Archive may hold from this source at once, not how many have ever existed and not how many a bearer may carry. It falls only on **dissolution, loss, destruction, or 100% inheritance** — the piece becoming its agent, or being Echo-Core bound. Fusion is a change of state, not a decrement. Issue, loan, vaulting and damage short of destruction leave the figure standing. Full law: `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` §I.1.
 
 ### Appearance
 

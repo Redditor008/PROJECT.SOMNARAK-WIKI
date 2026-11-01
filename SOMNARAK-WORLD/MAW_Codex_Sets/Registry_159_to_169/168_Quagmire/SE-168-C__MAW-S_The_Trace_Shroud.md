@@ -20,7 +20,7 @@
 | Set | Witnessed Route |
 | Type / grade / element | Suit / α — Minor / Lament |
 | Status | Active; map-custodian and return-line issue |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Cartographer Yeonhwa |
 | Resting form | A blue shroud with a faint crystal route line running from collar to hem and ending before the floor. |
 | Active form | The line becomes a visible return thread between the wearer and the current camp marker. |

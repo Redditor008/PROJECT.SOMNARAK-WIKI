@@ -20,7 +20,7 @@
 | Set | Shared Support |
 | Type / grade / element | Suit, braced harness / α — Minor / Weight |
 | Status | Active; Forge rotation issue |
-| Maximum amount | 5 — Standard |
+| Maximum amount | 5 — Abundant |
 | Current bearer | Specialist Hanul Grey |
 | Resting form | A lightweight black harness with rusted support ribs across shoulders and back. |
 | Active form | The ribs extend short dark braces toward a nearby stressed structure or person-sized load. |

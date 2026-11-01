@@ -22,7 +22,7 @@
 | **Category** | FANTASY (Singularity Maul / Orbiting Core) |
 | **Grade** | δ — Critical |
 | **Element** | Weight |
-| **Maximum Amount** | 2 — historical sealed pair |
+| **Maximum Amount** | 2 — Limited (sealed historical pair) |
 | **Echo Cost** | 50 Sorrow Echoes |
 | **Issue Status** | Prohibited except Convergence contingency authority |
 

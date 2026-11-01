@@ -60,7 +60,7 @@ A person who claims to have no protected memory sees their own face disappear fr
 | Range | 2 — Short |
 | Attack pattern | Single |
 | Coverage / falloff | One designated target; 100% |
-| Maximum amount | 4 — stocked only for qualified teams |
+| Maximum amount | 4 — Stocked (only for qualified teams) |
 | Echo cost | 25 Sorrow Echoes |
 | Operational cost | One small, nameless memory per completed discharge |
 | Corrosion risk | Moderate; severe if fired into genuine affect |
