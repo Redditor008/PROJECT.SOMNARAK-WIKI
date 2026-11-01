@@ -33,12 +33,12 @@ The Empty Veil of Absent Landmark’s set grants resistance to Void damage, prot
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Suit Record*
 
-The first bearer of The Empty Veil encountered this source response: Tests whether the worker can remain before an absence. The suit redirects the immediate hazard only after the team attributed it to Absent Landmark. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Empty Veil encountered this source response: Tests whether the worker can remain before an absence. The suit redirects the immediate hazard only after the team attributed it to Absent Landmark. A wearer searched a cleared room for themselves and found only the clearance mark, and the Empty Veil’s binding is the sweep record left behind.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Absent Landmark's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the space where the wearer used to be starts appearing in other people’s accounts of them.
 - Terminal state: Absent Landmark's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Record its former location; do not attempt to rebuild it around the entity” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Empty Veil encountered this source response: Tests wheth
 
 ## SET RELATIONSHIP
 
-Within *Absent Landmark — Witnessed Form*, The Empty Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Absent Landmark — Witnessed Form*, The Empty Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be placed in one of their own memories; the first sweep with none takes the Veil out.
 
 ---
 

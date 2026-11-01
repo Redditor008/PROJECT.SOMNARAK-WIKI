@@ -32,12 +32,12 @@ The Empty Window is the stigma record of Absent Landmark’s set — head-slot, 
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Stigma Record*
 
-The first bearer of The Empty Window encountered this source response: Shows the lives that once filled its rooms. The stigma stays the immediate hazard only after the team attributed it to Absent Landmark. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Empty Window encountered this source response: Shows the lives that once filled its rooms. The stigma stays the immediate hazard only after the team attributed it to Absent Landmark. A bearer recalled six doorways and three rooms in a building they had lived in for a decade, and the Window’s binding is the survey written from that count.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Absent Landmark's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the recall keeps the thresholds and loses the floors, and the bearer navigates by where a room used to be.
 - Terminal state: Absent Landmark's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Record its former location; do not attempt to rebuild it around the entity” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Empty Window encountered this source response: Shows the
 
 ## SET RELATIONSHIP
 
-Within *Absent Landmark — Witnessed Form*, The Empty Window performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Absent Landmark — Witnessed Form*, The Empty Window performs the stigma role while the other pieces preserve attribution and survival. The Window drops out of the set when it shows a loss the bearer can still enter.
 
 ---
 

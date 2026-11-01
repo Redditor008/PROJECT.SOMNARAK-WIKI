@@ -35,12 +35,12 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 ## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Weapon Record*
 
-The first Conservatory Fang field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Conservatory. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Conservatory Fang field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Conservatory. A wielder could describe a collapsed arcade in detail and not the street they lived on, and the Ruin-Glyph’s binding is the statement taken at that yard.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Conservatory's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the standing places begin going first, and the wielder asks directions to rooms they have used for years.
 - Terminal state: Conservatory's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-852 -->
@@ -49,7 +49,7 @@ The first Conservatory Fang field bearer encountered this source response: N/A �
 
 ## SET RELATIONSHIP
 
-Within *Conservatory — Witnessed Form*, Conservatory Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Conservatory — Witnessed Form*, Conservatory Fang performs the weapon role while the other pieces preserve attribution and survival. The Glyph leaves the set on a blow thrown without the fall of a place behind it.
 
 ---
 

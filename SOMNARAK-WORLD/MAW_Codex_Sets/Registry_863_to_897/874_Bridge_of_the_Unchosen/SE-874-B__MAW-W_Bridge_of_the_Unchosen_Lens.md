@@ -35,12 +35,12 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 ## ITEM-SPECIFIC HISTORY — *The Bridge of the Unchosen Source-Trace: Weapon Record*
 
-The first Bridge of the Unchosen Lens field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Bridge of the Unchosen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Bridge of the Unchosen Lens field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Bridge of the Unchosen. A wielder struck from the step they had not taken and could not afterwards cross a room, and the Star-Ring’s binding is the note taken at that doorway.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Bridge of the Unchosen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unfinished crossings accumulate, and each blow is thrown from a morning the wielder never chose.
 - Terminal state: Bridge of the Unchosen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge possibility without treating it as history” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first Bridge of the Unchosen Lens field bearer encountered this source respo
 
 ## SET RELATIONSHIP
 
-Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Lens performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set when a strike is thrown from where the wielder is standing.
 
 ---
 

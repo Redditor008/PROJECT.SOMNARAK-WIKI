@@ -32,12 +32,12 @@ The Bridge of the Unchosen Charm is the stigma record of its source’s set — 
 
 ## ITEM-SPECIFIC HISTORY — *The Bridge of the Unchosen Source-Trace: Stigma Record*
 
-The first Bridge of the Unchosen Charm field bearer encountered this source response: Shows the choice at the center of the crossing. The stigma uncouples the immediate hazard only after the team attributed it to Bridge of the Unchosen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Bridge of the Unchosen Charm field bearer encountered this source response: Shows the choice at the center of the crossing. The stigma uncouples the immediate hazard only after the team attributed it to Bridge of the Unchosen. A bearer kept a decision open for eleven years and reported it, accurately, as still being considered, and the Charm’s binding is the minute from that meeting.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Bridge of the Unchosen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the open decisions begin multiplying, and the bearer holds several at once without noticing they are all the same one.
 - Terminal state: Bridge of the Unchosen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge possibility without treating it as history” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Bridge of the Unchosen Charm field bearer encountered this source resp
 
 ## SET RELATIONSHIP
 
-Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the moment the bearer makes a decision in front of a witness.
 
 ---
 

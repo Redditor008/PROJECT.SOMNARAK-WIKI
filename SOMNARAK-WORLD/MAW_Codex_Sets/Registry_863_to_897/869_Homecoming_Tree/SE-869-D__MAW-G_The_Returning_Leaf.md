@@ -32,12 +32,12 @@ The Returning Leaf is the stigma record of the Homecoming Tree’s set — tail-
 
 ## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Stigma Record*
 
-The first bearer of The Returning Leaf encountered this source response: Shows the settlement before and after abandonment. The stigma discharges the immediate hazard only after the team attributed it to Homecoming Tree. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Leaf encountered this source response: Shows the settlement before and after abandonment. The stigma discharges the immediate hazard only after the team attributed it to Homecoming Tree. A bearer could not find their own street because they were looking at how it used to run, and the Leaf’s binding is the route written from that confusion.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Homecoming Tree's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the displacing starts arriving unprompted, and the bearer turns into a doorway that moved ten years ago.
 - Terminal state: Homecoming Tree's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Mark the place as changed; do not attempt to restore a false past” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Returning Leaf encountered this source response: Shows t
 
 ## SET RELATIONSHIP
 
-Within *Homecoming Tree — Witnessed Form*, The Returning Leaf performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Homecoming Tree — Witnessed Form*, The Returning Leaf performs the stigma role while the other pieces preserve attribution and survival. The Leaf drops out of the set when the bearer reaches a place without being shown it first.
 
 ---
 

@@ -33,12 +33,12 @@ The Bridge of the Unchosen Shield is the suit record of its source’s set, and 
 
 ## ITEM-SPECIFIC HISTORY — *The Bridge of the Unchosen Source-Trace: Suit Record*
 
-The first Bridge of the Unchosen Shield field bearer encountered this source response: Tests whether the worker can cross without claiming the alternative life. The suit severs the immediate hazard only after the team attributed it to Bridge of the Unchosen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Bridge of the Unchosen Shield field bearer encountered this source response: Tests whether the worker can cross without claiming the alternative life. The suit severs the immediate hazard only after the team attributed it to Bridge of the Unchosen. A wearer came out the far side of an argument and found the feeling still waiting on the near one, and the Shield’s binding is the minute recorded from that room.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Bridge of the Unchosen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the crossings lengthen, and the wearer is on the far side of conversations that have not begun.
 - Terminal state: Bridge of the Unchosen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge possibility without treating it as history” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Bridge of the Unchosen Shield field bearer encountered this source res
 
 ## SET RELATIONSHIP
 
-Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Shield performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Shield performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still returns through the feeling they crossed; the first crossing left unanswered takes the Shield out.
 
 ---
 

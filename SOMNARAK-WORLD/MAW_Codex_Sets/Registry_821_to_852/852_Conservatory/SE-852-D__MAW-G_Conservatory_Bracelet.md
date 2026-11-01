@@ -32,12 +32,12 @@ The Conservatory Bracelet is the stigma record of Conservatory’s set — tail-
 
 ## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Stigma Record*
 
-The first Conservatory Bracelet field bearer encountered this source response: Shows the love and failure behind the structure. The stigma marks the immediate hazard only after the team attributed it to Conservatory. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Conservatory Bracelet field bearer encountered this source response: Shows the love and failure behind the structure. The stigma marks the immediate hazard only after the team attributed it to Conservatory. A bearer carried three load-bearing looks through a shift and could not say which wall had been theirs, and the Bracelet’s binding is the load sheet filed that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Conservatory's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the loads arrive from rooms the bearer is not standing in, and the wrist takes them anyway.
 - Terminal state: Conservatory's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-852 -->
@@ -46,7 +46,7 @@ The first Conservatory Bracelet field bearer encountered this source response: S
 
 ## SET RELATIONSHIP
 
-Within *Conservatory — Witnessed Form*, Conservatory Bracelet performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Conservatory — Witnessed Form*, Conservatory Bracelet performs the stigma role while the other pieces preserve attribution and survival. The Bracelet drops out of the set when the bearer sets down a load they did not take on.
 
 ---
 

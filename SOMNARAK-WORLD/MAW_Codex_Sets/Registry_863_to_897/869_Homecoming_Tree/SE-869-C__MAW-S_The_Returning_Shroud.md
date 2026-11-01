@@ -33,12 +33,12 @@ The Returning Shroud is the suit record of the Homecoming Tree’s set, granting
 
 ## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Suit Record*
 
-The first bearer of The Returning Shroud encountered this source response: Requires the worker to remain beneath it without claiming ownership. The suit contains the immediate hazard only after the team attributed it to Homecoming Tree. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Shroud encountered this source response: Requires the worker to remain beneath it without claiming ownership. The suit contains the immediate hazard only after the team attributed it to Homecoming Tree. A wearer argued a boundary against a settlement that had been resettled two valleys over, and the Shroud’s binding is the survey they were defending.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Homecoming Tree's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the present stops revising the version at all, and the wearer describes the ward from a map nobody has used in years.
 - Terminal state: Homecoming Tree's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Mark the place as changed; do not attempt to restore a false past” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Returning Shroud encountered this source response: Requi
 
 ## SET RELATIONSHIP
 
-Within *Homecoming Tree — Witnessed Form*, The Returning Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Homecoming Tree — Witnessed Form*, The Returning Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still lets one thing about the present change their mind; the first refusal takes the Shroud out.
 
 ---
 

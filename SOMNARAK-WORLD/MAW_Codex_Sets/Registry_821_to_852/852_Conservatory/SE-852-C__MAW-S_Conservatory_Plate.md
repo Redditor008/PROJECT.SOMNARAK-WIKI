@@ -33,12 +33,12 @@ The Conservatory Plate is the suit record of Conservatory’s set, granting resi
 
 ## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Suit Record*
 
-The first Conservatory Plate field bearer encountered this source response: Tests whether the worker can remain without rebuilding. The suit interrupts the immediate hazard only after the team attributed it to Conservatory. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Conservatory Plate field bearer encountered this source response: Tests whether the worker can remain without rebuilding. The suit interrupts the immediate hazard only after the team attributed it to Conservatory. A wearer kept the shape of a beam fall while walking upright through a green room, and the Plate’s binding is the examination recorded from that walk.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Conservatory's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the held posture sets into the joint, and the wearer reports it as bearing rather than injury.
 - Terminal state: Conservatory's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-852 -->
@@ -47,7 +47,7 @@ The first Conservatory Plate field bearer encountered this source response: Test
 
 ## SET RELATIONSHIP
 
-Within *Conservatory — Witnessed Form*, Conservatory Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Conservatory — Witnessed Form*, Conservatory Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still move out of the shape they were hit in; the first shape that will not release takes the Plate out.
 
 ---
 

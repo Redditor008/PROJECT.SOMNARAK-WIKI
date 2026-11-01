@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twelve records, four sources (batch 83)
+
+`SE-852` Conservatory, `SE-863` Empty, `SE-869` Returning, `SE-874` Bridge of the Unchosen — **twelve records, thirty-six sentences.** The Conservatory Plate holds resonance while its wearer can still move out of the shape they were hit in; the Empty Veil needs the wearer to be findable in one of their own memories; the Permafrost Star-Ring loses its set the moment a strike is thrown from where the wielder is actually standing.
+
+**72 of 345 done. 273 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Twelve records, four sources (batch 82)
 
 `SE-833` Neverlast, `SE-844` Ruin, `SE-845` Returning, `SE-851` Promise — **twelve records, thirty-six sentences.** Neverlast's Shroud keeps resonance only while the wearer still takes it off at the end of a watch; the Returning Mantle holds while its wearer still has one intention that requires movement; the Promise Shard drops out the first time the bearer trusts somebody without checking.
