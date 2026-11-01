@@ -44,51 +44,36 @@
 - The pressure acts on who the operative believes is leaving. Crews state their own names aloud on exit, in the corridor, to the officer at the door, every time.
 - Extraction is authorised separately and remains paired work: two independent witness accounts are required before the Lens may act, and no extraction responder enters the chamber alone.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — the figure is stationary; output is measured by flicker rate, slip count, and whether the Corrupt pulse reaches paired observers |
-| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The safeguards are two observers together, absolute silence with written slips, no responder alone, no face transcription, no Pugnahan or attempted erasure, and each operative stating their own name aloud on exit. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 22–48 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — it has not moved from the centre of the vault in the whole of the record, and nothing it does requires it to*, and its terminal row describes a figure pulsing in place while the vault loses definition. What arrives is an ending, and an ending does not pursue anybody.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — complete, final, and composed entirely of other people's last minutes |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A figure at the centre of the Alpha Tree deep vault, holding the final moments of the dead. Looking at it places the emotional shape of one last moment directly into the observer, and the same moment is never given twice. |
+| **Perceptible to** | The last memory first, arriving whole rather than in parts; then the edge of recall, where the material turns from somebody else's ending to the worker's own possible one, and beyond it only blank. |
+| **Handling** | Do not erase or rewrite a final moment. The vault takes the Burial Office's unattended-interment return through the slot — one printed name sheet and the office's own covering note — and nothing else is passed in. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Flerehan primary; Viderehan for an authorised selected record; Ferrehan on short rotation. Pugnahan is prohibited, not valid work here |
-| **Battlefield** | SECTOR-A-01, Alpha Tree deep vault |
-| **Resolution Condition** | Do not erase or rewrite a final moment. Under the current vault protocol the complete Burial Office unattended-interment return is passed through the slot—one printed name to a slip, in silence—and any witnessed moment is recorded exactly without a claim of delivery |
+| **Valid Work Types** | Flerehan primary, Viderehan for an authorised selected record, Ferrehan on short rotation; Pugnahan is prohibited. Flerehan renders the endings that were good ones, which the file calls the only unambiguously good material in the Entity-grade records. |
+| **Location** | SECTOR-A-01, Alpha Tree deep vault |
+| **Resolution Condition** | Do not erase or rewrite a final moment. Under the current vault protocol the Burial Office unattended-interment return is passed through the slot and nothing else is passed in. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Fading Image* [**Debuff**] } | "A memory appears — the last one. After this, there is nothing else to remember." | [Looking at the figure places the emotional shape of one final moment directly into the observer; the same moment is never shown twice to that observer.] | *The observer suffers a Void mark and loses Composure; the paired observer records only count, duration and slip number, never a claimed face.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When an observer first looks directly at the translucent figure in the vault. |
-| { *The Edge of Recall* [**Debuff**] } | "You are at the end of remembering — and beyond this memory, there is only blank." | [Prolonged contact turns from another person's ending to the worker's own possible ending.] | *The worker loses Composure and experiences their death as settled rather than prospective; the pair ends the interval and post-contact existential review is mandatory.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When Ferrehan or prolonged paired observation continues past the first glimpse and the worker is shown the approach of their own ending. |
-| { *The Final Frame* [**Attack**] } | "The last memory sharpens to a point — crystallized, eternal, and sharp enough to cut." | [One selected final moment remains long enough to be documented, then returns to the multitude without confirming any interpretation.] | *Inflicts Void pressure on the authorised witness. The record preserves exactly what appeared and preserves disagreement; it is not testimony, absolution, accusation, prophecy or a delivered message.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When Viderehan with identity and clearance selects one named dead person's final moment. |
-| { *The Full Recall* [**Attack**] } | "The last memory releases everything it held — a lifetime, compressed into one final, devastating burst." | [Fear and regret are released when the collection is forced to answer the living; a whole ending arrives unsummarised.] | *Heavy Void pressure to the forcing worker; no personnel Sorrow Gauge is inferred. Work stops, the pair withdraws together, and names are stated aloud outside the door.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When Pugnahan or any attempt to force, erase or rewrite a final moment into a preferred answer is made. |
-| { *The Blank After* [**Ultimate**] } | "The last memory fades — and now everyone has reached the end of remembering, and beyond is only void." | [The figure pulses in place as the vault loses definition: colour drains, sound stops carrying, and edges thin outward from the wall.] | *All personnel reached by the pulse suffer Void erosion and lose memories of partings for three turns. The zone is sealed, nobody enters alone, and Viderehan plus Ferrehan are used without destroying the exposed memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90% and the Corrupt pulse begins. |
+| Event | What the vault does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Fading Image* [**Register**] } | Places the emotional shape of one final moment into whoever looks, whole, and does not give the same one twice. It stays at the centre of the vault while it does it. | Records the moment as received and not as described, and marks the register so the next watch is not given the same one. | Nothing is asked of the figure and nothing is taken from it. The register is a list of endings already shown, and it is the reason a second watch does not repeat a first one's material. |
+| { *The Edge of Recall* [**Exposure**] } | Turns from somebody else's ending to the worker's own possible one the longer the contact runs, until the material is the observer's and no longer the vault's. | Ends the sitting on the short rotation, and takes the worker out at the point the material turns rather than at the point they report it. | The longer the exposure runs, the deeper the ending sets: once the wave has shown a worker their last moment, the showing does not stop with the wave. That is why the rotation is short and why it is not extended for a good session. |
+| { *The Final Frame* [**Refusal**] } | Holds one selected final moment sharp and still long enough to be documented, then returns it to the multitude — the sharpness is the file's word, not a blade, and nothing leaves the centre of the vault. | Documents the one moment under Viderehan authorization and lets it go back with the rest, without attempting to keep it. | The file allows one record per sitting and no more. What it takes back is the rest, and the worker who tries to keep a moment is the one who ends the watch holding an ending that was never theirs to hold. |
+| { *The Blank After* [**Overload**] } | Pulses in place while the vault loses definition — colour drains, sound stops carrying, the space stops resolving — and beyond the last memory there is only void. | Clears the vault, ends the rotation, and closes the slot; nothing is passed in until the space resolves again. | The terminal event is a change in the room and not a blow, and the figure has not moved to bring it about. What it costs is Composure first and then whatever the vault was holding, which the worker carries out of the door. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification rests on the vault before the figure: no shadows anywhere, cold, light, faintly smelling of ash, and a translucent standing shape that never holds a face for longer than a sixth of a second. Nothing here moves toward anybody, and the approach is set accordingly — two operatives, silence, and the slot used for every word that has to leave the room.
-2. **Clash:** Worked in silence, by two operatives, with the flicker rate counted from the frame marks and the slot used for every word that has to leave the room.
-3. **Resolution:** The cycle closes when a final moment has been acknowledged and recorded and nothing has been erased. The file's own standing order is narrower than the condition: the Burial Office's unattended-interment names go into the chamber through the slot, one to a slip, in silence, and the older instruction — acknowledge and record — was logged as unperformed for 11 years because the city's rules forbid a worker to perform it. Nothing written on a slip but the name as printed.
+1. **What is confirmed:** the register of endings already shown, the authorization for a single Viderehan record, and the short rotation with its end marked on the clock.
+2. **What the watch does:** Flerehan for the good endings and Ferrehan on the short rotation, with Viderehan for the one authorized record, the slot closed, and nothing erased or rewritten.
+3. **How it closes:** the close is the file's documented condition: **Do not erase or rewrite a final moment** — with the Burial Office return passed through the slot when it comes, and nothing else passed in.
 
 ### Consequences
 
@@ -448,7 +433,7 @@ Three instructions govern the passing. Pass every name; a part-passed return has
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 750/750, pressure 22–48 per hit, resistance 45 / 35 per cent, threshold 90 per cent, the disc at 10–15 and 50 Echoes, the veil at 45, the token at 4 per cent and +3, 4 conferrals, the flicker at 6.4 against 4.6 two years before, and 11 years of the older instruction logged unperformed.
+- The register keeps its own figures in numerals for look-up: gauge 750/750, the disc at 10–15, threshold 90 per cent, resistance 45 / 35 per cent, and the slot protocol as written. There is no pressure figure, because nothing here is directed at anybody.
 
 - It remembers deaths that no document contains.
 - It has never shown a final moment twice to the same observer.

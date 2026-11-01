@@ -44,51 +44,36 @@
 - No breach counter applies. The crossing is entered as a structural load rather than as a route, and personnel do not cross it for access; the Gardens roster is written so that no task requires the far side, because there is no far side.
 - Residue is recovered from the deck under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament, which is what a remembered journey presses with; 35% against everything else. Neither figure has ever decided a session here — the span's length has, and it is taken before and after every cycle. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 837/837 |
-| **Han Pressure [ATK]** | 22–48 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and one of its own combat rows says it in terms: nothing falls and nothing is struck. What a crossing costs is a route that is not the worker's, and the containment reading is a tape measure.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A bridge standing over the Echo Gardens with nothing at either end worth reaching, part-lengthened by every crossing nobody recognised. It is sealed and still lengthens; the span is the reading and it does not fly, walk or reach. |
+| **Perceptible to** | The route underfoot — road, weather, departing people — resolving around whoever stands on the deck, and the length behind them on the way back, which gets shorter by fractions rather than by steps. |
+| **Handling** | Mark the crossing as memory and let the Bridge settle: every crossing is named aloud as a crossing and not as a journey, and the span is measured out and back on every watch. The route is never walked as though it led anywhere. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 837/837 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the bridge's former route and the people who used it; Ferrehan is standing the span without treating the far end as a destination, which is the only approach that lowers the carry. |
+| **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Mark the crossing as memory and allow the Bridge to settle |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Lift* [**Debuff**] } | "You are part-way through a journey, and it is not yours." | [Standing on the deck, the target acquires another traveller's crossing: the route underfoot is remembered, not present.] | *Target suffers -10 Composure; what drains per crossing is Clarity about which journey is theirs.* **[10 Lament DMG [Lament]]** | When the target stands on the Bridge. |
-| { *The Inverted View* [**Debuff**] } | "I knew the turning they were heading for. I have never been there and I knew it." | [The remembered route resolves around the target — road, weather, departing people — and the Gardens go thin behind it.] | *Target loses 10 Composure; present ground loses to a crossing remembered in detail.* **[10 Lament DMG [Lament]]** | When the target looks along the span toward the figures. |
-| { *The Falling Plank* [**Attack**] } | "What stopped me was realising I had started planning what to do when I got across." | [Nothing falls and nothing is struck: the target begins treating the far end as a destination, and the span answers by lengthening.] | *Inflicts Lament pressure as a present-tense journey; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When a crossing is made toward somewhere. |
-| { *The Apex* [**Attack**] } | "It got shorter behind me on the way back. Not quickly. But it did." | [A crossing is turned back and the added length is entered against it; every journey borrowed on the way out is carried home.] | *A heavy Deep Blue plunge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the span is overloaded, or a crossing is turned back. |
-| { *The Sky-Bridge* [**Ultimate**] } | "A sealed Bridge still lengthens. The containment reading is a tape measure." | [Growth, not flight: unrecognised crossings add span across the Gardens until the road is named aloud and the structure settles.] | *All in range suffer Lament pressure for three turns of borrowed journeys.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% while a crossing is in progress. |
+| Event | What the bridge does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Lift* [**Register**] } | Gives whoever stands on the deck another traveller's crossing: the route underfoot is remembered rather than present, and the worker is part-way through a journey that is not theirs. | Measures the span at both ends before anybody steps on, and records the route as a memory on the sheet rather than as a direction. | The effect intensifies with use rather than with duration — a worker who stands on the span for an hour is less affected than one who crosses it four times. That is why the span is measured and not walked. |
+| { *The Inverted View* [**Exposure**] } | Resolves the remembered road, weather and departing people around the target and lets the Gardens recede behind it, so that the route reads as somewhere that could be reached. | Ends the turn on the number of crossings, not the clock, and records each crossing against the worker who made it. | Clarity drains by the number of crossings a worker makes rather than by time spent. A watch is written as a crossing count, which is the only measure this holding respects. |
+| { *The Falling Plank* [**Refusal**] } | Falls on nobody. The recorded failure is a worker realising they had started planning what to do when they got across — nothing falls and nothing is struck, and the plank is in the file as a name rather than a hazard. | Watches for planning rather than for the floor: a worker who begins arranging the far end is taken off the deck and the crossing is closed. | The route is what gets under a person and the deck is not. This is the one row where the file's own text states the denial outright, and it is the row the walkers are briefed on. |
+| { *The Apex* [**Overload**] } | Turns a crossing back on the worker and enters the added length against the span, so that the bridge is longer behind them than it was in front, every time, by a little. | Measures the span again at the close, enters the added length as permanent, and reports the crossing that caused it by name. | Growth, not flight. An unrecognised crossing adds span across the Gardens until the road is named aloud and the length is given back — which is the whole of the containment, and the reason the tape measure is the instrument. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Confirmation is the path-stones and the absent gap: worn flagstones from a road no current survey carries, laid over flat ground with nothing under them. Two Echo Gardens records are bridges and they are opposites, so the designation is settled before anything else. Positions are taken at the near footing rather than on the deck, and the span's length is measured before the cycle opens.
-2. **Clash:** Viderehan shows the former route and the people who used it, and holds the gauge steady while it does. Ferrehan asks the worker to walk the span and arrive nowhere — to cross a memory without treating it as a way of getting somewhere. The gauge falls on the second and only on the second.
-3. **Resolution:** The session closes when the crossing has been recorded as a memory with the road named out loud in the structure's presence, which is also the only thing on record that makes the Bridge thinner. The condition this record carries is **Mark the crossing as memory and allow the Bridge to settle**; a shift that ends with the span longer than it began has not closed, and the added length is entered against the crossing rather than against the crew.
+1. **What is confirmed:** the span measured at both ends, the crossing count from the previous watch, and the naming of the route aloud before anybody steps onto the deck.
+2. **What the watch does:** Viderehan for the bridge's former route and Ferrehan for standing the span without treating the far end as a destination, with each crossing counted against a name.
+3. **How it closes:** the close is the file's documented condition: **Mark the crossing as memory and allow the Bridge to settle** — and the span is measured out and back at the close, because a sealed bridge still lengthens.
 
 ### Consequences
 

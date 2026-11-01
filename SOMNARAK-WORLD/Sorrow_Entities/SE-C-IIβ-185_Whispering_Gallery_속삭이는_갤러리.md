@@ -44,51 +44,36 @@
 - There is no breach counter. The carrying field widens through Zone B, and its edge is walked and marked at every session rather than inferred from the previous reading.
 - Residue is recovered from the gallery curve under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types — and the second figure has never been reached here, because nothing in the hall has ever moved toward a person. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 365/365 |
-| **Han Pressure [ATK]** | 8–19 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed — a hall; it does not move, and the carry widens rather than travelling*, and the consequence section is explicit: nothing here has ever moved toward a person, and when the reading is lost what takes the damage is the worker. Pugnahan has nothing to confront in a hall.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A gallery of framed pictures in Zone B whose frames give up histories — districts, trades, the years they worked — and never a name or a face. Two hundred and twelve speakers with nothing in common but the room, every one of them wrong in their own direction. |
+| **Perceptible to** | A voice almost recognised, breathing a secret the listener never told anybody; then the multiplication, until the walls are full of it and no two voices agree about the person standing in them. |
+| **Handling** | Walk the full length answering nothing, and restore names where the frames have lost them rather than supplying details the record does not hold. The watch does not argue with a voice and does not correct one. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 365/365 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-01, Zone B |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the histories the frames give up; Ferrehan is the worker walking the full length answering nothing, which is harder on the fifth walk than the first and is the only approach that lowers the carry. |
+| **Location** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | Restore names and listen without replacing missing details |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Whisper* [**Debuff**] } | "A voice you almost recognize breathes a secret you never told anyone." | [A whisper surfaces in the Gallery; the target hears their own secret spoken back.] | *Target suffers -10 Composure; something private has been exposed.* **[10 Lament DMG [Lament]]** | When the target enters the Gallery. |
-| { *The Echo Chamber* [**Debuff**] } | "The whisper repeats — and multiplies — until the walls are full of it." | [The whisper echoes and breeds; the secret grows louder.] | *Target loses 10 Composure; the walls will not stop talking.* **[10 Lament DMG [Lament]]** | When the target remains in the Gallery. |
-| { *The Spoken Truth* [**Attack**] } | "The gallery says aloud the one thing you never wanted heard — and it cuts." | [A revealed truth strikes like a blade.] | *Inflicts Lament pressure and one wound of exposure.* **[14-22 Lament DMG [Lament]]** | When the Gallery is provoked. |
-| { *The Chorus of Lies* [**Attack**] } | “Every voice in the gallery speaks at once, and no two of them agree about you.” | [Two hundred and twelve speakers with nothing in common but the room, all of them wrong in their own direction.] | *A heavy Lament charge; the target's Sorrow Gauge surges 15% while the walls contradict each other.* **[24-36 Lament DMG [Lament]]** | When the Gallery is commanded or struck. |
-| { *Every Secret Told* [**Ultimate**] } | “The hall gives up everything it has ever been told, and puts no name to any of it.” | [The carry widens and every confidence held in the room comes back at once, unattributed.] | *All in range take Lament pressure for three turns in the cacophony.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the gallery does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Whisper* [**Register**] } | Breathes a secret the listener never told anybody into the room, in a voice they almost recognise, and the wall carries it. | Walks the length at a steady pace, and counts the frames whose histories have gone missing rather than the voices. | Nothing has ever moved toward a person here. The register is the frame count and the missing names, and the voices are recorded as voices — not as evidence of anything they say. |
+| { *The Echo Chamber* [**Exposure**] } | Repeats and multiplies the whisper until the walls are full of it, and the private names begin to arrive at the point where the voice becomes distinguishable. | Ends the walk at the recommended cycle, and takes the worker out at the first audible familiarity rather than at the first complaint. | Clarity goes first, and with it the familiarity the watch reports — that is the file's own order of events, and it is why the walk ends on the clock and not on the worker's report. |
+| { *The Chorus of Lies* [**Refusal**] } | Speaks with every voice at once when it is commanded or struck, and no two of them agree about anybody. It does not answer force; it contradicts it. | Does not command the room and does not answer a single voice. The walk continues, the answers stay unspoken, and the discrepancy is written down rather than resolved. | Two hundred and twelve speakers, each wrong in their own direction, is the file's description of the event. The refusal is not silence — it is the gallery declining to be corrected, which is why the watch writes contradictions instead of settling them. |
+| { *Every Secret Told* [**Contagion**] } | Gives up everything the hall has ever been told and puts no name to any of it, so that every confidence held in the room comes back at once and unattributed. | Clears the gallery, records the number of frames that produced a voice, and does not transcribe what was said. | The carry widens rather than travels, and what it carries is unattributed by construction. A transcript would attribute it, which is the one thing the room cannot do and the watch must not. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Confirm at the door and in the first minute: blank oval faces in cracked oil with four exceptions, the hum read off the contact gauge seated in the boards, and your own voice coming back from a position you are not standing in. The offset of each listener's voice is established before the walk begins; the marker is the offset and the gauge, not the whispering, which neither starts nor stops for the visitor.
-2. **Clash:** There is no clash. The team walks the hall end to end, reads the contact gauge, counts voices against the standing list of 212, and leaves; the session fails if anybody answers a voice, and it fails more seriously if anybody writes down who they think it was.
-3. **Resolution:** The watch closes on the file's own condition — **Restore names and listen without replacing missing details** — which on this holding means paper: a name goes up when a document says so and on nothing else, and the walk supplies nothing. The session fails if anybody answers a voice, and fails more seriously if anybody writes down who they think it was; the gauge is read at the close and the confirmation that no identification was recorded is entered on the sheet.
+1. **What is confirmed:** the frame count and the names still present, the recommended cycle from the last walk, and the two people who will walk it in silence.
+2. **What the watch does:** Viderehan for the histories the frames give up and Ferrehan for the silence kept along the full length, with names restored where they are missing and no detail supplied where they are not.
+3. **How it closes:** the close is the file's documented condition: **Restore names and listen without replacing missing details** — and a walk that ended in an argument with a voice is entered as a walk that did not happen.
 
 ### Consequences
 

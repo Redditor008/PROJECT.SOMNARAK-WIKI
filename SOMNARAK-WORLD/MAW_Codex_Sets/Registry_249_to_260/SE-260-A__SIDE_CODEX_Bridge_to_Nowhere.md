@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Lament |
 | Form | A memory-crystal bridge of worn route stones rising over no physical gap and connecting shores that no longer exist. |
-| Gauge / Pressure | 60–80% / Lament 22–48 |
+| Gauge / Pressure | 837/837; starts 60–80% / Void — no attack pattern; the span measured out and back is the reading |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Remembered Crossing |
 

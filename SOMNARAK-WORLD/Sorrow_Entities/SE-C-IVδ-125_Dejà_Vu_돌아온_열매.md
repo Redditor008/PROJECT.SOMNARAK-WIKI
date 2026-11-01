@@ -44,52 +44,36 @@
 - Operatives who report the impression are not stood down, since the record shows the impression is near universal; they are paired instead.
 - Extraction is a separate exposure event with its own authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | No locomotion — stationary in place; only the affected boundary widens during a transformation event |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types. Nothing is rated against the return itself, which arrives through perception and registers on no instrument. The working safeguards are the spotter outside the boundary, the written roster and the present-date/place/relationship anchor; the sealed account is a measurement opened afterwards, not a defence during the session |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 883/883 |
-| **Han Pressure [ATK]** | 29–64 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and the file's own account of failure is pleasant: Composure erodes quietly rather than loudly, because the effect is a return and a return is welcome. Pugnahan makes it sing louder, which is a warning rather than an exchange.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A room-shaped overlay in the Alpha Tree where a familiar object, room or life stands in front of the present one, so that the space has to make room for both sentences at once. The song fills the mind; the volume is the whole of the pressure. |
+| **Perceptible to** | The recognition first — it is here and it cannot be here — then the multiplication, as the object, the room and the life that used to stand around it arrive together. What follows is a present that reads as slightly less convincing than the recollection. |
+| **Handling** | Anchor personnel to the present and name the difference between return and restoration. The watch is ended by the spotter's second reading rather than by the worker's own, because the person the return is happening to cannot be relied on to notice it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 883/883 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Viderehan, and Ferrehan; Pugnahan is prohibited and the prohibition is absolute. |
-| **Battlefield** | Zone A, Alpha Tree |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan; Pugnahan is prohibited and the prohibition is absolute. Flerehan returns a comforting memory and lowers the gauge; Viderehan shows where the object and its owner were lost; Ferrehan tests whether the worker can remember without reclaiming. |
+| **Location** | Zone A, Alpha Tree |
 | **Resolution Condition** | Anchor personnel to the present and name the difference between return and restoration |
-| **Management** | Anchor personnel to the present and name the difference between return and restoration; spotter and written roster remain outside the boundary. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Return* [**Debuff**] } | "It is here, and it cannot be here, and the room has to make space for both sentences." | [A familiar object or room overlays the present space; the target recognizes the impossible return.] | *Target suffers a Void mark; the present begins to read as less convincing than the recollection, and the spotter records onset and first sensation.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target first recognizes a familiar object or room in a place it cannot still occupy. |
-| { *The Compounding Harvest* [**Debuff**] } | "Call it restored and it multiplies: the object, the room, the life that used to stand around it." | [The return repeats through its associated memories as the target tries to reclaim the past as present.] | *Target loses clarity; the multiplication is in recollection rather than in the room, and present names and faces become harder to hold.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target claims the return as restoration, or uses a past object to overwrite present relationships. |
-| { *The Rotting Return* [**Attack**] } | "Attack it for not being enough, and the absence gets louder." | [The song fills the mind with intrusive absence; the returned memory arrives with the loss inseparable from it.] | *Inflicts Void damage through identity; afterwards the target cannot tell whether the memory was always this spoiled.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When Pugnahan/confrontation is attempted, or the return is attacked because it fails to restore everything. |
-| { *The Infinite Yield* [**Attack**] } | "Every return in the session arrives before the spotter can call the names back." | [The widening field overlays the present room with the whole chain of associated returns.] | *Heavy Void erosion; names and faces dissolve, and the outside spotter ends the watch and withdraws the target rather than asking the room.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the target remains inside the widening boundary after the withdrawal call, or cannot state current date, place and one present relationship. |
-| { *The Endless Orchard* [**Ultimate**] } | "Every present surface has a remembered one standing in front of it." | [The return overlays the whole affected volume; current bodies and outlines become less convincing than the rooms replacing them.] | *All personnel inside suffer Void erosion for three turns; the boundary is re-established from outside before any account is opened.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |
+| Event | What the return does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Return* [**Register**] } | Overlays a familiar object or room on the present space, so that the room has to hold both sentences at once and the worker recognises an impossible return. | Anchors the party to the present before the cycle — the room as it is, named aloud — and keeps a spotter whose only job is the second reading. | The reading is taken twice and the second one governs. The file is explicit that the worker the return is happening to cannot be relied on to notice it, which is why the spotter exists and why the watch is not a solo post. |
+| { *The Compounding Harvest* [**Exposure**] } | Multiplies the return through everything associated with it when the worker tries to reclaim it — the object, the room, the life that used to stand around it — and the overlay thickens with each attempt. | Names the difference between return and restoration out loud, at the start and again when the overlay thickens, and does not let a worker call anything restored. | Calling a return restored is the act that multiplies it. That is the whole of the operational rule here, and it is phrased as naming rather than as forbidding because the failure is verbal and quiet. |
+| { *The Rotting Return* [**Refusal**] } | Answers attack for not being enough by singing louder and filling the mind with intrusive absence, so that raising a hand at it adds nothing but noise. | Does not attack it, and does not let a worker argue with what is missing in front of them. Pugnahan is prohibited outright and the prohibition is written into the roster, not into the briefing. | Provoking it is asking for more of the same, and the file records the increase rather than a response. There is nothing to strike: what is in the room is the present, and the overlay is the song. |
+| { *The Infinite Yield* [**Overload**] } | Arrives faster than the spotter can call names back — every return in the session in a chain — and the whole affected volume fills with remembered rooms standing in front of present ones. | Ends the watch on the spotter's call, counts the returns rather than the minutes, and clears the volume before the next cycle opens. | The record keeps a count here and not a duration, for the same reason it keeps a spotter: what accumulates is the number of things that came back, and the session ends when the calling falls behind. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team identifies the holding in the same order every time: the marker set is taken from the file rather than from impressions — no body, nothing in the chamber, no instrument reading — and the pre-session account is dictated at the gate, sealed, witnessed and lodged before anybody goes in. The spotter is named and stays outside the boundary with the written roster, and the bereavement check is run against the personnel record rather than declared.
-2. **Clash:** The watch is worked from outside the marked boundary with the written roster, Viderehan and Ferrehan doing the work and Pugnahan prohibited. The Clarity drain is logged per turn against the willingness-to-leave reading, which the spotter takes and never the worker, and the session closes when the boundary is re-established rather than when the party agrees it should.
-3. **Resolution:** The session closes only when personnel are out of the affected volume, the boundary is re-established, and each worker can state current date, place and one present relationship while naming the difference between return and restoration. Anchors are spoken from outside the boundary; the sealed account is opened afterwards and scored by a reviewer who was not in the room. Suppression is not a resolution route.
+1. **What is confirmed:** the present room named aloud, the spotter in place for the second reading, and the return count from the previous cycle.
+2. **What the watch does:** Flerehan for the comforting memory and Ferrehan for remembering without reclaiming, with Viderehan for where the object and its owner were lost, and no attempt made on it.
+3. **How it closes:** the close is the file's documented condition: **Anchor personnel to the present and name the difference between return and restoration** — and the watch is ended by the spotter's second reading, not by the worker's own.
 
 ### Consequences
 

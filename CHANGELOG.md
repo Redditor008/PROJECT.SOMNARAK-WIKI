@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five rooms that keep what was said in them (2026-11-01)
+
+Sixteenth batch. These five are places rather than things — a gallery, a footprint, a bridge, an overlay, a vault — and in each of them the only thing that advances is what was already held.
+
+- **Whispering Gallery** (`C-IIβ-185`) — *fixed — a hall; it does not move, and the carry widens rather than travelling.* Its own consequence section had the sentence the combat table needed: nothing here has ever moved toward a person. Two hundred and twelve speakers, every one of them wrong in their own direction, and a walk that answers none of them.
+- **Holdout** (`C-IIβ-240`) — stones return into the old survey's positions and never travel out of the outline. The file's own worst case says the stones are gone again before anybody can be crushed and the injuries are all from the noise and the air, so the return is now recorded as a noise event with hearing and breathing checked.
+- **Bridge to Nowhere** (`C-IVδ-260`) — the clearest denial row in the batch is its own: *nothing falls and nothing is struck.* What gets under a worker is the route, not the deck; the effect intensifies with use rather than duration, so a watch is written as a crossing count and the instrument is a tape measure.
+- **Déjà Vu** (`C-IVδ-125`) — a return that is pleasant, which is why it is dangerous. Composure erodes quietly rather than loudly, and the watch is ended by the spotter's second reading because the person it is happening to cannot be relied on to notice it.
+- **Every Last Goodbye** (`C-IVδ-230`) — a figure that has not moved from the centre of the vault in the whole of the record. What it does is show an ending, one at a time, and never the same one twice; the register of endings already shown is the file's instrument and the short rotation is its only defence.
+
+**The one word that had to go.** Every Last Goodbye's `The Final Frame` described a final moment *sharpened to a point, sharp enough to cut*. In the same row the file says what actually happens: one selected final moment stays long enough to be documented and then returns to the multitude. The sharpness is the file's own word for the clarity of the showing, and it is now written as the sharpness of a still frame rather than as a blade.
+
+**Where the four numbers went.** Each of these had a `per hit` band in its side codex — 10–23, 22–48, 29–62 — and none of them has ever hit anything. The rows now carry the figure that is actually read: a footprint against an old survey, a span measured out and back, a spotter's second reading, a register of endings already shown.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and nineteen Contact Records; a nineteenth of the archive has been re-read this turn.**
+
 ## Five where the file had already written the denial (2026-11-01)
 
 Fifteenth batch. In four of the five the sentence that made the conversion necessary was already in the dossier, in a row nobody reads twice — a Movement line, a combat move, a phase note. The work was to make the section agree with it.

@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | Zone A, Alpha Tree |
 | Form | A fruit-shaped presence in consciousness: a familiar object returning to a place where it cannot possibly still exist. |
-| Gauge / pressure | 60–80% / Void 29–62 |
+| Gauge / pressure | 883/883; starts 60–80% / Void — no attack pattern; the spotter’s second reading and the return count are the instrument |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Return Without Reclaiming |
 

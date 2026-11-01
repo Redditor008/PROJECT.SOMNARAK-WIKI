@@ -44,51 +44,36 @@
 - No breach counter. Vault load rises with the holding and is read off plates, never judged by eye; the eye reports nothing at all here.
 - There is no residue to recover and the standing authorisation is kept open anyway, in case the holding ever leaves anything behind.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge. There is nothing standing to resist; the returned stones are cold, ordinary and immovable — a crane was brought in once and could not lift one. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed footprint in the Alpha Tree vault; stones return into the old survey's positions rather than travel out of the outline*, and the file's own account of its worst event is that the stones are gone again before anybody can be crushed and the injuries are all from the noise and the air.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A resolved outline in a vault where the ruin used to stand, and stones returning into the old survey's positions inside it. The shape of what was there still presses on the air, and the foundation beneath is smooth, old and exposed. |
+| **Perceptible to** | The shape of a ruin that is not there, then the pacing — long-serving wardens walk the rooms out unconsciously, and the briefing asks them to notice rather than to stop. |
+| **Handling** | Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, because all three of the recorded returns followed a written proposal filed elsewhere in the building. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree vault |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rooms in order with the people who used them; Ferrehan is staying inside the resolved walls for the interval, knowing they go when the watching stops. |
+| **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Memorialize the structure; do not reconstruct a false version |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Missing Rubble* [**Debuff**] } | "The ruin is gone — but the shape of what it was still presses on the air." | [The Ruin's phantom presence marks the target with what was here.] | *Target suffers -10 Resilience; they feel the weight of a ruin that is not there.* **[10 Grudge DMG [Grudge]]** | When the target enters where the Ruin was. |
-| { *The Perfect Foundation* [**Debuff**] } | "Without the ruin, the foundation is exposed — smooth, old, and angry at being built on." | [The Ruin's absence reveals the foundation's old resentment.] | *Target loses 10 Resilience; the base layer is furious.* **[10 Grudge DMG [Grudge]]** | When the target probes the absence. |
-| { *The Ghost Collapse* [**Attack**] } | "The ruin comes back for one instant — falling, all of it, onto you." | [The Ruin briefly manifests and collapses.] | *Inflicts Grudge pressure and one crushing, phantom wound.* **[14-22 Grudge DMG [Grudge]]** | When the absence is challenged. |
-| { *The Full Return* [**Attack**] } | "Every vanished stone comes back at once, at full weight, in the order it fell." | [The structure reconstitutes in a second and collapses in the next.] | *24–36 Grudge to anybody standing in the footprint; the stones are gone again before anybody can be crushed, and the injuries are all from the noise and the air.* **[24-36 Grudge DMG [Grudge]]** | When somebody proposes rebuilding. Three occurrences, each within a day of a written proposal. |
-| { *Every Ruin Returns* [**Ultimate**] } | "Every demolished thing in the zone stands up again and falls again, together." | [The return propagates to the zone's cleared sites.] | *12–20 Grudge per cycle for three cycles across the zone.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the week the Zone A clearance programme was announced. |
+| Event | What the outline does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Missing Rubble* [**Register**] } | Leaves the shape of the ruin pressing on the air where the ruin is not, and marks whoever walks in with the weight of what was here. | Surveys the footprint against the old survey and records which positions stand empty, before anything is said about the site. | The footprint is the fixed thing and the stones move inside it. That is the whole of the geometry here, and it is why the survey is walked first and the outline described second. |
+| { *The Perfect Foundation* [**Exposure**] } | Exposes the foundation without the ruin on it — smooth, old and furious at having been built on — and the base layer reads as the resentful thing rather than the absent one. | Records the foundation readings separately from the outline, and keeps a worker who has begun pacing rooms on the record rather than off it. | Past about forty minutes in the footprint, workers begin pacing out rooms. It is unconscious, every long-serving warden has done it, and the file treats it as a reading rather than a lapse. |
+| { *The Ghost Collapse* [**Refusal**] } | Does not fall on anybody. The stones return into their old positions and are gone again before anybody can be crushed; what reaches the workers is the noise and the air, and the file says so in the row. | Records the return as a noise event, checks hearing and breathing on everybody inside the footprint, and does not go looking for crush injuries that the record says do not occur. | The refusal is the geometry: a ruin that reassembles in place and does not travel out of its outline has nothing to drop on a person. What it can do is a bang in an enclosed vault. |
+| { *The Full Return* [**Overload**] } | Stands every vanished stone back up at full weight, in the order it fell, and takes it away again in the next moment — three occurrences, each within a day of a written proposal. | Withdraws the proposal route from the site's own paperwork, records the return against the proposal that preceded it, and re-surveys the footprint afterwards. | The failure here is a plan for the site, and it does not have to be spoken in the vault. That is why the prohibition is on the paperwork rather than on the visit: the holding answers a decision nobody visiting it made. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team counts the stones present in the footprint, photographs the arrangement, and confirms against the last count. Nobody stands inside the outline while the count is being taken.
-2. **Clash:** Viderehan is a Warden standing in the vault and deliberately remembering the building until the walls resolve; Ferrehan is staying in the resolved rooms for the interval. Plate load is read throughout. Do not touch or try to shift the resolved fabric. Its appearance under remembering is not permission to test the walls as ordinary masonry; the separate crane attempt failed to lift a returned stone. Keep plate readings independent of what the watcher sees.
-3. **Resolution:** The structure is memorialised — named aloud, with what it was for — and nothing is proposed for the ground. 188 cycles; the stone count has fallen by one or two after a memorial reading and has never fallen for any other reason.
+1. **What is confirmed:** the footprint against the old survey, the foundation readings taken separately, and the absence of any proposal for the site anywhere in the building's paperwork.
+2. **What the watch does:** Viderehan for the rooms and the people who used them and Ferrehan for standing inside walls that go when the watching stops, with nothing rebuilt, sketched or costed.
+3. **How it closes:** the close is the file's documented condition: **Memorialize the structure; do not reconstruct a false version** — and an unworked quarter adds stones to the footprint, which is the only growth this holding has.
 
 ### Consequences
 
