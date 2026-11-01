@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Suit Record*
 
-The first The Trace Mantle field bearer encountered this source response: Tests whether the worker can endure discontinuity. The suit contains the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Mantle encountered this source response: Tests whether the worker can endure discontinuity. The suit contains the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

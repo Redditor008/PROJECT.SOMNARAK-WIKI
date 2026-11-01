@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Stigma Record*
 
-The first The Voice Amplifier field bearer encountered this source response: Reveals the places from which the pleas came. The stigma redirects the immediate hazard only after the team attributed it to Aphonia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Voice Amplifier encountered this source response: Reveals the places from which the pleas came. The stigma redirects the immediate hazard only after the team attributed it to Aphonia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -33,7 +33,7 @@ The Glider's Mantle is the suit record of the Foam Flood set — γ-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Suit Record*
 
-The first The Glider's Mantle field bearer encountered this source response: The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. The suit interrupts the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Glider's Mantle encountered this source response: The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. The suit interrupts the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

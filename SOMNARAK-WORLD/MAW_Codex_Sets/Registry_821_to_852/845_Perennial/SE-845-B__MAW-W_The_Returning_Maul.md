@@ -33,7 +33,7 @@ The Returning Maul is the weapon record of Perennial’s set, a Weight instrumen
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Weapon Record*
 
-The first The Returning Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

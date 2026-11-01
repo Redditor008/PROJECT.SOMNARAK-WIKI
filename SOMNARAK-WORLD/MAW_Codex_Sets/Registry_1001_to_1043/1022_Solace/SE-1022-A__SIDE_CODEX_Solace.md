@@ -40,7 +40,7 @@ The Echo formed from kindness that became rare enough to crystallize. The grief 
 
 ## WITNESS RECORD — *The Solace Source-Trace*
 
-During the The Solace Source-Trace, the field team preserved this source fact: Countless small acts—food shared, doors held, wounds tended—gathered into a voice. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a city where compassion is treated as exceptional.
+During *The Solace Source-Trace*, the field team preserved this source fact: Countless small acts—food shared, doors held, wounds tended—gathered into a voice. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a city where compassion is treated as exceptional.
 
 ## M.A.W. SET — *Solace — Witnessed Form*
 

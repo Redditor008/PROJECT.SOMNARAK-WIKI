@@ -40,7 +40,7 @@ The Sigh formed from exhaustion that could not become rest. The grief of survivi
 
 ## WITNESS RECORD — *The Survivors Breath Source-Trace*
 
-During the The Survivors Breath Source-Trace, the field team preserved this source fact: Citizens sighed after repeated crises until the collective breath became a wandering presence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of surviving one more day without believing the next will be easier.
+During *The Survivors Breath Source-Trace*, the field team preserved this source fact: Citizens sighed after repeated crises until the collective breath became a wandering presence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of surviving one more day without believing the next will be easier.
 
 ## M.A.W. SET — *Survivors' Breath — Witnessed Form*
 

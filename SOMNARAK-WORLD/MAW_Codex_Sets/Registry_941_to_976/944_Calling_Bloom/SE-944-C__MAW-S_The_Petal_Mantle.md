@@ -33,7 +33,7 @@ The Petal Mantle is the suit record of the Calling Bloom set — β-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Suit Record*
 
-The first The Petal Mantle field bearer encountered this source response: The worker endures the calling without answering; the child wanders closer, then away, calmed that someone did not run. The suit discharges the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Petal Mantle encountered this source response: The worker endures the calling without answering; the child wanders closer, then away, calmed that someone did not run. The suit discharges the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

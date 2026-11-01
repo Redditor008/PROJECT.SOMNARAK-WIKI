@@ -33,7 +33,7 @@ The Murmur Vine is the weapon record of the Calling Bloom set — β-grade, Lame
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Weapon Record*
 
-The first The Murmur Vine field bearer encountered this source response: She flinches and the bloom shrieks in a dozen stolen voices at once; aggression reads to her as the brother she cannot find turning away. The weapon contains the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Murmur Vine encountered this source response: She flinches and the bloom shrieks in a dozen stolen voices at once; aggression reads to her as the brother she cannot find turning away. The weapon contains the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

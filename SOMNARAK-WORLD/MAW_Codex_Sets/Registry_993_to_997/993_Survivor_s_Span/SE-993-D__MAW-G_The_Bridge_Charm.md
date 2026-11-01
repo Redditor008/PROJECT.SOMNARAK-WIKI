@@ -32,7 +32,7 @@ The Bridge Charm is the stigma record of the Survivor's Span set — head-slot, 
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Stigma Record*
 
-The first The Bridge Charm field bearer encountered this source response: Reveals the travelers lost in the collapse. The stigma interrupts the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Bridge Charm encountered this source response: Reveals the travelers lost in the collapse. The stigma interrupts the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

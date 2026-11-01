@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Fang strikes on behalf of a duty the wielder never took on: each blow makes them answer for somebody else's neglect. Wielded long, the wielder is angry about things they never knew happened.
 
-## ITEM-SPECIFIC HISTORY — *The The Forgotten Soldier Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Forgotten Soldier Source-Trace: Weapon Record*
 
-The first The Duty Fang field bearer encountered this source response: Attacks, forcing acknowledgment through violence. The weapon witnesses the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Duty Fang encountered this source response: Attacks, forcing acknowledgment through violence. The weapon witnesses the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Stigma Record*
 
-The first The Maze Key field bearer encountered this source response: Reveals the memory architecture. The stigma uncouples the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Maze Key encountered this source response: Reveals the memory architecture. The stigma uncouples the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

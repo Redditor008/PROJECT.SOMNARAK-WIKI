@@ -33,7 +33,7 @@ The Returning Shroud is the suit record of the Homecoming Tree’s set, granting
 
 ## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Suit Record*
 
-The first The Returning Shroud field bearer encountered this source response: Requires the worker to remain beneath it without claiming ownership. The suit contains the immediate hazard only after the team attributed it to Homecoming Tree. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Shroud encountered this source response: Requires the worker to remain beneath it without claiming ownership. The suit contains the immediate hazard only after the team attributed it to Homecoming Tree. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Stigma Record*
 
-The first The Frozen Minute field bearer encountered this source response: Shows the event frozen at 3:47. The stigma witnesses the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Minute encountered this source response: Shows the event frozen at 3:47. The stigma witnesses the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

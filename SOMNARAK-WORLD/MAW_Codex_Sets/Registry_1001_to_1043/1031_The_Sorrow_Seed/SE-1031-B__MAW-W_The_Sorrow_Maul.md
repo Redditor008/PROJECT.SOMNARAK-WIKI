@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Maul plants what it strikes: each blow leaves something of the wielder in the ground, and it grows at their expense. Wielded long, the wielder is thinner and the district is a garden.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Seed Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Sorrow Seed Source-Trace: Weapon Record*
 
-The first The Sorrow Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

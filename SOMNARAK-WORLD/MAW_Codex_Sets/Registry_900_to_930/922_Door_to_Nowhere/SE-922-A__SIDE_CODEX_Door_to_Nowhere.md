@@ -40,7 +40,7 @@ The Door formed from the anger of being denied an exit. The weight of a threshol
 
 ## WITNESS RECORD — *The Door to Nowhere Source-Trace*
 
-During the The Door to Nowhere Source-Trace, the field team preserved this source fact: A resident was trapped during a district lockdown, watching a door rise beyond reach. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of a threshold that existed but could not be crossed.
+During *The Door to Nowhere Source-Trace*, the field team preserved this source fact: A resident was trapped during a district lockdown, watching a door rise beyond reach. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of a threshold that existed but could not be crossed.
 
 ## M.A.W. SET — *Door to Nowhere — Witnessed Form*
 

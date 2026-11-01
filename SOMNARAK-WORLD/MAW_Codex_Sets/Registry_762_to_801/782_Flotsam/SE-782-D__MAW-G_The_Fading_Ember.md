@@ -32,7 +32,7 @@ The Fading Ember is the stigma record of Flotsam’s set — tail-slot, bestowed
 
 ## ITEM-SPECIFIC HISTORY — *The Flotsam Source-Trace: Stigma Record*
 
-The first The Fading Ember field bearer encountered this source response: Shows the relic's fading history. The stigma contains the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Ember encountered this source response: Shows the relic's fading history. The stigma contains the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -38,9 +38,9 @@ The Soldier formed from a border soldier — real name erased from the Archive �
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns
 
-## WITNESS RECORD — *The The Forgotten Soldier Source-Trace*
+## WITNESS RECORD — *The Forgotten Soldier Source-Trace*
 
-During the The The Forgotten Soldier Source-Trace, the field team preserved this source fact: He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."* Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: A lifetime of sacrifice made invisible, and the weight of being forgotten by the very city he defended.
+During *The Forgotten Soldier Source-Trace*, the field team preserved this source fact: He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."* Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: A lifetime of sacrifice made invisible, and the weight of being forgotten by the very city he defended.
 
 ## M.A.W. SET — *The Forgotten Soldier — Witnessed Form*
 

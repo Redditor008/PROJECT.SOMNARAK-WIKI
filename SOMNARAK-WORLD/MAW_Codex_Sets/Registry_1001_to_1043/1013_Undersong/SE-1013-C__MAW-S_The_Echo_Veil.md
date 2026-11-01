@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Suit Record*
 
-The first The Echo Veil field bearer encountered this source response: Continues calling while testing whether the worker will keep listening. The suit contains the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Veil encountered this source response: Continues calling while testing whether the worker will keep listening. The suit contains the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

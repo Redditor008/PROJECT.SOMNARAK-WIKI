@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Stigma Record*
 
-The first The Crying Ember field bearer encountered this source response: Reveals the original moment of mourning. The stigma witnesses the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crying Ember encountered this source response: Reveals the original moment of mourning. The stigma witnesses the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

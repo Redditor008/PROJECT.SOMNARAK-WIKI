@@ -40,7 +40,7 @@ The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 
 ## WITNESS RECORD — *The Wanderer Without a Destination Source-Trace*
 
-During the The Wanderer Without a Destination Source-Trace, the field team preserved this source fact: A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of wandering after every destination has become unfamiliar.
+During *The Wanderer Without a Destination Source-Trace*, the field team preserved this source fact: A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of wandering after every destination has become unfamiliar.
 
 ## M.A.W. SET — *Wanderer Without a Destination — Witnessed Form*
 

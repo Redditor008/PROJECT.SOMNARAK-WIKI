@@ -40,7 +40,7 @@ Grieving Love formed when a living woman fell into a vat of concentrated Han she
 
 ## WITNESS RECORD — *The Grieving Love Source-Trace*
 
-During the The Grieving Love Source-Trace, the field team preserved this source fact: Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The intimate, private grief of loving someone who was dying, and the guilt of not finishing the cure in time.
+During *The Grieving Love Source-Trace*, the field team preserved this source fact: Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The intimate, private grief of loving someone who was dying, and the guilt of not finishing the cure in time.
 
 ## M.A.W. SET — *Grieving Love — Witnessed Form*
 

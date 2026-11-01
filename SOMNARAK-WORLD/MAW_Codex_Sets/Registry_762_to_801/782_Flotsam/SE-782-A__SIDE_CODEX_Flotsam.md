@@ -40,7 +40,7 @@ The Relic formed from a treasured object becoming meaningless over time. The gri
 
 ## WITNESS RECORD — *The Flotsam Source-Trace*
 
-During the The Flotsam Source-Trace, the field team preserved this source fact: A household relic passed through generations until no one remembered its purpose; its history began to burn away. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being used, loved, and then forgotten.
+During *The Flotsam Source-Trace*, the field team preserved this source fact: A household relic passed through generations until no one remembered its purpose; its history began to burn away. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being used, loved, and then forgotten.
 
 ## M.A.W. SET — *Flotsam — Witnessed Form*
 

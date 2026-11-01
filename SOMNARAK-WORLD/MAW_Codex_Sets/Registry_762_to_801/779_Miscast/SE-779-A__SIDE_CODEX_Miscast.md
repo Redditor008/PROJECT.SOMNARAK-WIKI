@@ -40,7 +40,7 @@ The Relic formed from an object destroyed before its work was complete. The grie
 
 ## WITNESS RECORD — *The Miscast Source-Trace*
 
-During the The Miscast Source-Trace, the field team preserved this source fact: A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being made for a purpose and broken before fulfilling it.
+During *The Miscast Source-Trace*, the field team preserved this source fact: A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being made for a purpose and broken before fulfilling it.
 
 ## M.A.W. SET — *Miscast — Witnessed Form*
 

@@ -40,7 +40,7 @@ The Bridge formed from the dream of a connection that could not be repaired. The
 
 ## WITNESS RECORD — *The Corrosion Dream Source-Trace*
 
-During the The Corrosion Dream Source-Trace, the field team preserved this source fact: A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness of reaching the other side and finding no one waiting.
+During *The Corrosion Dream Source-Trace*, the field team preserved this source fact: A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness of reaching the other side and finding no one waiting.
 
 ## M.A.W. SET — *Corrosion Dream — Witnessed Form*
 

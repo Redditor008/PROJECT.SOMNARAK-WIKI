@@ -35,7 +35,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 ## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Weapon Record*
 
-The first The Frozen Lens field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

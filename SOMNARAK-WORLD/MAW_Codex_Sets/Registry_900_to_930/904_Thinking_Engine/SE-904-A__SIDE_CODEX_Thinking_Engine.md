@@ -40,7 +40,7 @@ A Fragment (III) Object at Major (γ) potency, Lament-aligned, held at SECTOR-C-
 
 ## WITNESS RECORD — *The Thinking Engine Source-Trace*
 
-During the The Thinking Engine Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Thinking Engine Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Thinking Engine — Witnessed Form*
 

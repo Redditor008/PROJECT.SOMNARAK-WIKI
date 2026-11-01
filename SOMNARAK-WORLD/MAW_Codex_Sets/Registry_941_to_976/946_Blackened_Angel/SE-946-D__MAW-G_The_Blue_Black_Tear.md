@@ -32,7 +32,7 @@ The Blue-Black Tear is the stigma record of the Blackened Angel set — hand-slo
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Stigma Record*
 
-The first The Blue-Black Tear field bearer encountered this source response: The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. The stigma uncouples the immediate hazard only after the team attributed it to Blackened Angel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Blue-Black Tear encountered this source response: The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. The stigma uncouples the immediate hazard only after the team attributed it to Blackened Angel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

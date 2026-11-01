@@ -40,7 +40,7 @@ The Pillar formed from responsibility that became a permanent mental structure. 
 
 ## WITNESS RECORD — *The Dormant Monolith Source-Trace*
 
-During the The Dormant Monolith Source-Trace, the field team preserved this source fact: A border worker carried family and community obligations until the mind became a sleeping pillar. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being held in place by duties no one else remembers.
+During *The Dormant Monolith Source-Trace*, the field team preserved this source fact: A border worker carried family and community obligations until the mind became a sleeping pillar. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being held in place by duties no one else remembers.
 
 ## M.A.W. SET — *Dormant Monolith — Witnessed Form*
 

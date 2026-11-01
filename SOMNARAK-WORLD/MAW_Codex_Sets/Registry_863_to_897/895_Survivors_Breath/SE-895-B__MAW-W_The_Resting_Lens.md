@@ -35,7 +35,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 ## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Weapon Record*
 
-The first The Resting Lens field bearer encountered this source response: Becomes a harsh wind and spreads through the halls. The weapon opens the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Lens encountered this source response: Becomes a harsh wind and spreads through the halls. The weapon opens the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

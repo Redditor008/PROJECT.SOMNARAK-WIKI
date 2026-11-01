@@ -40,7 +40,7 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 
 ## WITNESS RECORD — *The Tear Too Small to Honor Source-Trace*
 
-During the The Tear Too Small to Honor Source-Trace, the field team preserved this source fact: A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.
+During *The Tear Too Small to Honor Source-Trace*, the field team preserved this source fact: A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.
 
 ## M.A.W. SET — *Tear Too Small to Honor — Witnessed Form*
 

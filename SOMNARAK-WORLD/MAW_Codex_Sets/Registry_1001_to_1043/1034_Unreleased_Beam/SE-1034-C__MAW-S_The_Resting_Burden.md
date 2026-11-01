@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Suit Record*
 
-The first The Resting Burden field bearer encountered this source response: Tests the worker beneath increasing pressure. The suit stays the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Burden encountered this source response: Tests the worker beneath increasing pressure. The suit stays the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

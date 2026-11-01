@@ -40,7 +40,7 @@ The Chain formed from memories passed through families and communities. The weig
 
 ## WITNESS RECORD — *The Chain of Memories Source-Trace*
 
-During the The Chain of Memories Source-Trace, the field team preserved this source fact: Families traded memories to preserve history after records were destroyed; the memories crystallized into links. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of remembering for people who cannot or will not remember themselves.
+During *The Chain of Memories Source-Trace*, the field team preserved this source fact: Families traded memories to preserve history after records were destroyed; the memories crystallized into links. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of remembering for people who cannot or will not remember themselves.
 
 ## M.A.W. SET — *Chain of Memories — Witnessed Form*
 

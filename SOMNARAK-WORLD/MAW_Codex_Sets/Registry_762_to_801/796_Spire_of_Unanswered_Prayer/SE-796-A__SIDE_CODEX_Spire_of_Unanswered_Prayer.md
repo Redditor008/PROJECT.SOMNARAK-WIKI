@@ -40,7 +40,7 @@ The Tower formed from an Outside Sorrow settlement that never stopped mourning i
 
 ## WITNESS RECORD — *The Spire of Unanswered Prayer Source-Trace*
 
-During the The Spire of Unanswered Prayer Source-Trace, the field team preserved this source fact: A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of looking upward for rescue that never descended.
+During *The Spire of Unanswered Prayer Source-Trace*, the field team preserved this source fact: A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of looking upward for rescue that never descended.
 
 ## M.A.W. SET — *Spire of Unanswered Prayer — Witnessed Form*
 

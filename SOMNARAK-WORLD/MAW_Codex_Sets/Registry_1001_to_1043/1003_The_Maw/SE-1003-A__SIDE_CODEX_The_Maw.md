@@ -38,9 +38,9 @@ The Maw is the site of the Cheongula, the First Sorrow. The rage and terror of o
 **Trigger:** Increase in the city's collective sorrow.  
 **Resolution:** No true containment is possible. Architects reinforce the perimeter while Taeho negotiates with the thousand
 
-## WITNESS RECORD — *The The Maw Source-Trace*
+## WITNESS RECORD — *The Maw Source-Trace*
 
-During the The The Maw Source-Trace, the field team preserved this source fact: During the early Consolihan, the weakest and poorest citizens were told they were being relocated. The ground opened, Han consumed them slowly, and their bodies, memories, and loves became the foundation of the city. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The rage and terror of one thousand citizens deliberately sacrificed as structural material for the growing city.
+During *The Maw Source-Trace*, the field team preserved this source fact: During the early Consolihan, the weakest and poorest citizens were told they were being relocated. The ground opened, Han consumed them slowly, and their bodies, memories, and loves became the foundation of the city. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The rage and terror of one thousand citizens deliberately sacrificed as structural material for the growing city.
 
 ## M.A.W. STATUS
 

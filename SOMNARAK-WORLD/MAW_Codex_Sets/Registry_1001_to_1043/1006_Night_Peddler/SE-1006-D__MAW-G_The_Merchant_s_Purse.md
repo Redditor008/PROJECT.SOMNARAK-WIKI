@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Stigma Record*
 
-The first The Merchant's Purse field bearer encountered this source response: Goods reveal hidden histories and former owners. The stigma uncouples the immediate hazard only after the team attributed it to Night Peddler. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Merchant's Purse encountered this source response: Goods reveal hidden histories and former owners. The stigma uncouples the immediate hazard only after the team attributed it to Night Peddler. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

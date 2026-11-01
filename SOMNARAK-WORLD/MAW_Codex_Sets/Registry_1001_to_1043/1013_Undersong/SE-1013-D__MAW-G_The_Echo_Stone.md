@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Stigma Record*
 
-The first The Echo Stone field bearer encountered this source response: Reveals fragments of the places from which it called. The stigma discharges the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Stone encountered this source response: Reveals fragments of the places from which it called. The stigma discharges the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

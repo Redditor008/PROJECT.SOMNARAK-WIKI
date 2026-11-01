@@ -40,7 +40,7 @@ The Mirror formed from memories that citizens asked the Keepers to seal away. De
 
 ## WITNESS RECORD — *The Honest Reflection Source-Trace*
 
-During the The Honest Reflection Source-Trace, the field team preserved this source fact: Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Denial—the grief of truths too painful to preserve and too persistent to destroy.
+During *The Honest Reflection Source-Trace*, the field team preserved this source fact: Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Denial—the grief of truths too painful to preserve and too persistent to destroy.
 
 ## M.A.W. SET — *Honest Reflection — Witnessed Form*
 

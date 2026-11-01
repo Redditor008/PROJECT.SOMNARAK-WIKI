@@ -33,7 +33,7 @@ The Frozen Veil of Seething Tundra’s set grants resistance to Void damage, pro
 
 ## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Suit Record*
 
-The first The Frozen Veil field bearer encountered this source response: Remains cold while testing the worker's patience. The suit discharges the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Veil encountered this source response: Remains cold while testing the worker's patience. The suit discharges the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

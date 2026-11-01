@@ -33,7 +33,7 @@ Han crystal drawn out long and pale blue with a soft milky finish, the Dawn of R
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Weapon Record*
 
-The first The Dawn of Requiem field bearer encountered this source response: Sentences aggression immediately. The weapon marks the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Dawn of Requiem encountered this source response: Sentences aggression immediately. The weapon marks the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

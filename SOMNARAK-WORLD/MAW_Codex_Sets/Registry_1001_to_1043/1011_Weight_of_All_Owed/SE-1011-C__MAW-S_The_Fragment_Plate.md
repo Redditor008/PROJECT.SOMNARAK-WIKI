@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Suit Record*
 
-The first The Fragment Plate field bearer encountered this source response: Tests whether the worker can remain beneath its pressure. The suit marks the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fragment Plate encountered this source response: Tests whether the worker can remain beneath its pressure. The suit marks the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

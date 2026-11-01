@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Stigma Record*
 
-The first The Iron Charm field bearer encountered this source response: Shows the evidence used in its judgment. The stigma isolates the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Iron Charm encountered this source response: Shows the evidence used in its judgment. The stigma isolates the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

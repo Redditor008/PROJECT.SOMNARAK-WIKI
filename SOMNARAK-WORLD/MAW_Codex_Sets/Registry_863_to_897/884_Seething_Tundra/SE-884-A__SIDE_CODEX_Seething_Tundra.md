@@ -40,7 +40,7 @@ The Shard formed from sorrow that was shaped into an object rather than spoken. 
 
 ## WITNESS RECORD — *The Seething Tundra Source-Trace*
 
-During the The Seething Tundra Source-Trace, the field team preserved this source fact: A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Rage made cold by exhaustion and grief.
+During *The Seething Tundra Source-Trace*, the field team preserved this source fact: A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Rage made cold by exhaustion and grief.
 
 ## M.A.W. SET — *Seething Tundra — Witnessed Form*
 

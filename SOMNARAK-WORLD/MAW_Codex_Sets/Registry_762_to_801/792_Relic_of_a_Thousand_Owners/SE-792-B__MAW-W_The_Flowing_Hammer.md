@@ -35,7 +35,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 
 ## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Weapon Record*
 
-The first The Flowing Hammer field bearer encountered this source response: It flows around aggression and returns it as force. The weapon isolates the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Flowing Hammer encountered this source response: It flows around aggression and returns it as force. The weapon isolates the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

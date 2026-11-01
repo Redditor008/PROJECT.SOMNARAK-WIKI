@@ -40,7 +40,7 @@ The Trace formed from a life broken into disconnected pieces. The weight of surv
 
 ## WITNESS RECORD — *The Restless Gap Source-Trace*
 
-During the The Restless Gap Source-Trace, the field team preserved this source fact: A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of surviving while no longer feeling connected to one's own past.
+During *The Restless Gap Source-Trace*, the field team preserved this source fact: A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of surviving while no longer feeling connected to one's own past.
 
 ## M.A.W. SET — *Restless Gap — Witnessed Form*
 

@@ -40,7 +40,7 @@ The Bridge formed from crossings interrupted by catastrophe. The grief of journe
 
 ## WITNESS RECORD — *The Stranded Between Two Shores Source-Trace*
 
-During the The Stranded Between Two Shores Source-Trace, the field team preserved this source fact: A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of journeys ended between one shore and another.
+During *The Stranded Between Two Shores Source-Trace*, the field team preserved this source fact: A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of journeys ended between one shore and another.
 
 ## M.A.W. SET — *Stranded Between Two Shores — Witnessed Form*
 

@@ -40,7 +40,7 @@ The Tree formed from the rage of a soldier never honored. The grief of sacrifice
 
 ## WITNESS RECORD — *The Drowned Roots Source-Trace*
 
-During the The Drowned Roots Source-Trace, the field team preserved this source fact: A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of sacrifice denied recognition and turned into resentment.
+During *The Drowned Roots Source-Trace*, the field team preserved this source fact: A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of sacrifice denied recognition and turned into resentment.
 
 ## M.A.W. SET — *Drowned Roots — Witnessed Form*
 

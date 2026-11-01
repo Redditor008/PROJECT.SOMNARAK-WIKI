@@ -40,7 +40,7 @@ The Bridge formed from a crossing destroyed while people were still on it. The g
 
 ## WITNESS RECORD — *The Grasp Source-Trace*
 
-During the The Grasp Source-Trace, the field team preserved this source fact: A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of trying to rescue people who could no longer be reached.
+During *The Grasp Source-Trace*, the field team preserved this source fact: A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of trying to rescue people who could no longer be reached.
 
 ## M.A.W. SET — *Grasp — Witnessed Form*
 

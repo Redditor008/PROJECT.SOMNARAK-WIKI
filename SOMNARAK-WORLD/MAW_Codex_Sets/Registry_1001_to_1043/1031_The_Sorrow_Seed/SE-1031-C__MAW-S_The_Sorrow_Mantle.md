@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Mantle makes the wearer into soil: while worn, everything set down in their presence takes root in them. Worn long, they are carrying a season they did not plant.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Seed Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Sorrow Seed Source-Trace: Suit Record*
 
-The first The Sorrow Mantle field bearer encountered this source response: Tests whether the worker can hold potential without planting it. The suit redirects the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Mantle encountered this source response: Tests whether the worker can hold potential without planting it. The suit redirects the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

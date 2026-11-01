@@ -40,7 +40,7 @@ The Mirror formed from self-knowledge that people were too exhausted to face. Th
 
 ## WITNESS RECORD — *The Vanity Asleep Source-Trace*
 
-During the The Vanity Asleep Source-Trace, the field team preserved this source fact: Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of seeing oneself clearly and still being unable to change.
+During *The Vanity Asleep Source-Trace*, the field team preserved this source fact: Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of seeing oneself clearly and still being unable to change.
 
 ## M.A.W. SET — *Vanity Asleep — Witnessed Form*
 

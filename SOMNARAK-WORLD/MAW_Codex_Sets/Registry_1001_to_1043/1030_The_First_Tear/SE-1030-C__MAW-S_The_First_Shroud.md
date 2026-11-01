@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Shroud takes the first joy first: worn, the wearer loses the small pleasures before the large ones and does not notice the order. Worn long, they are composed in a way that frightens people who knew them.
 
-## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The First Tear Source-Trace: Suit Record*
 
-The first The First Shroud field bearer encountered this source response: Tests whether the observer can bear total grief. The suit severs the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The First Shroud encountered this source response: Tests whether the observer can bear total grief. The suit severs the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -33,7 +33,7 @@ The Fading Plate is the suit record of Flotsam’s set, granting resistance to G
 
 ## ITEM-SPECIFIC HISTORY — *The Flotsam Source-Trace: Suit Record*
 
-The first The Fading Plate field bearer encountered this source response: Tests whether the worker can hold a memory without possessing it. The suit stays the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Plate encountered this source response: Tests whether the worker can hold a memory without possessing it. The suit stays the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -35,7 +35,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 ## ITEM-SPECIFIC HISTORY — *The Portcullis Source-Trace: Weapon Record*
 
-The first The Collapsed Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collapsed Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

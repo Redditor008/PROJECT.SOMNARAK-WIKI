@@ -40,7 +40,7 @@ The Flower formed from one honest moment of mourning. The need for grief to be v
 
 ## WITNESS RECORD — *The Mourner s Bloom Source-Trace*
 
-During the The Mourner s Bloom Source-Trace, the field team preserved this source fact: A gardener cried over a lost parent, and a flower grew from the tears. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The need for grief to be visible and beautiful rather than hidden.
+During *The Mourner s Bloom Source-Trace*, the field team preserved this source fact: A gardener cried over a lost parent, and a flower grew from the tears. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The need for grief to be visible and beautiful rather than hidden.
 
 ## M.A.W. SET — *Mourner's Bloom — Witnessed Form*
 

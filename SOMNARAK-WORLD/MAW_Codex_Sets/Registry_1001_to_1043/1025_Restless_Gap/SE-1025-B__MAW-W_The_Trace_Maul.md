@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Weapon Record*
 
-The first The Trace Maul field bearer encountered this source response: Space around it tears and grows heavier. The weapon stays the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Maul encountered this source response: Space around it tears and grows heavier. The weapon stays the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

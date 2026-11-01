@@ -40,7 +40,7 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 
 ## WITNESS RECORD — *The Conservatory Source-Trace*
 
-During the The Conservatory Source-Trace, the field team preserved this source fact: A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of loving a place so fiercely that preservation became destruction.
+During *The Conservatory Source-Trace*, the field team preserved this source fact: A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of loving a place so fiercely that preservation became destruction.
 
 ## M.A.W. SET — *Conservatory — Witnessed Form*
 

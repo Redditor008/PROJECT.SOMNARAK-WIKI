@@ -35,7 +35,7 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 ## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Weapon Record*
 
-The first The Ruin Requiem field bearer encountered this source response: The dream shifts into a destructive collapse. The weapon uncouples the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Requiem encountered this source response: The dream shifts into a destructive collapse. The weapon uncouples the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

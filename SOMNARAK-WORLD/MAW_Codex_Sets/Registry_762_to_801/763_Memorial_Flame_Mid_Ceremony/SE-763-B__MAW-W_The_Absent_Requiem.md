@@ -35,7 +35,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 ## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Weapon Record*
 
-The first The Soul-Seeking Candelabrum field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Soul-Seeking Candelabrum encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

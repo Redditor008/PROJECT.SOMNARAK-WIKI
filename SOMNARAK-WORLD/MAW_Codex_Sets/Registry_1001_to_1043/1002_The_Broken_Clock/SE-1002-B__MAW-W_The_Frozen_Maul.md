@@ -33,9 +33,9 @@ The head mounts a 38cm anchor escapement wheel with four broken teeth that expos
 
 **Operational / binding cost:** The cudgel swings with hours the wielder has not been given: each blow spends time out of the end rather than the middle. Wielded long, the wielder's hands are older than the rest of them.
 
-## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Broken Clock Source-Trace: Weapon Record*
 
-The first The Shattered Escapement-Cudgel field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Shattered Escapement-Cudgel encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

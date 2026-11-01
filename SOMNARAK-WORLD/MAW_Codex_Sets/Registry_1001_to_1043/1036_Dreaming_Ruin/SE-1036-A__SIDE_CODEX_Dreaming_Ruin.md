@@ -40,7 +40,7 @@ The Ruin formed from a home remembered after it was destroyed. The pain of retur
 
 ## WITNESS RECORD — *The Dreaming Ruin Source-Trace*
 
-During the The Dreaming Ruin Source-Trace, the field team preserved this source fact: A household was lost, but its former residents continued dreaming of the rooms. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of returning to a place that exists only as memory.
+During *The Dreaming Ruin Source-Trace*, the field team preserved this source fact: A household was lost, but its former residents continued dreaming of the rooms. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of returning to a place that exists only as memory.
 
 ## M.A.W. SET — *Dreaming Ruin — Witnessed Form*
 

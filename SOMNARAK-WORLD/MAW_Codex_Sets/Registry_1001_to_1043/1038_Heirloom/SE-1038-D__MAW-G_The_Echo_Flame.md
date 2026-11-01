@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Stigma Record*
 
-The first The Echo Flame field bearer encountered this source response: Reveals how the grievance spread. The stigma isolates the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Flame encountered this source response: Reveals how the grievance spread. The stigma isolates the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

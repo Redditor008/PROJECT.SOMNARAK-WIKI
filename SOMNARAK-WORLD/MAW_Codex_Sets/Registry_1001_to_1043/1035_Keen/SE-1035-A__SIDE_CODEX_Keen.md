@@ -40,7 +40,7 @@ The Fragment formed from a cry that ended while its sorrow continued. The persis
 
 ## WITNESS RECORD — *The Keen Source-Trace*
 
-During the The Keen Source-Trace, the field team preserved this source fact: A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The persistence of grief after the person who expressed it has vanished.
+During *The Keen Source-Trace*, the field team preserved this source fact: A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The persistence of grief after the person who expressed it has vanished.
 
 ## M.A.W. SET — *Keen — Witnessed Form*
 

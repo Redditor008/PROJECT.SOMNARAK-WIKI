@@ -33,7 +33,7 @@ The Returning Mantle is the suit record of Perennial’s set, granting resistanc
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Suit Record*
 
-The first The Returning Mantle field bearer encountered this source response: Tests whether the worker can stand beneath karmic weight. The suit contains the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Mantle encountered this source response: Tests whether the worker can stand beneath karmic weight. The suit contains the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -40,7 +40,7 @@ The Trace formed from a grievance carried through places rather than people. The
 
 ## WITNESS RECORD — *The Anger Underfoot Source-Trace*
 
-During the The Anger Underfoot Source-Trace, the field team preserved this source fact: A route through Mantle Commons held years of conflict; the repeated anger marked the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of anger remaining after every person who caused it has gone.
+During *The Anger Underfoot Source-Trace*, the field team preserved this source fact: A route through Mantle Commons held years of conflict; the repeated anger marked the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of anger remaining after every person who caused it has gone.
 
 ## M.A.W. SET — *Anger Underfoot — Witnessed Form*
 

@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The Charm gives the bearer the first grief as a keepsake: carried, they weep in their sleep on a schedule that is not theirs, and the first tear is always the one that wakes them.
 
-## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The First Tear Source-Trace: Stigma Record*
 
-The first The First Charm field bearer encountered this source response: Shows the shape of sorrow before language. The stigma uncouples the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The First Charm encountered this source response: Shows the shape of sorrow before language. The stigma uncouples the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

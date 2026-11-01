@@ -33,7 +33,7 @@ The Burning Fang is the weapon record of Last Fruit’s set, a Grudge instrument
 
 ## ITEM-SPECIFIC HISTORY — *The Last Fruit Source-Trace: Weapon Record*
 
-The first The Burning Fang field bearer encountered this source response: Sparks burst outward and the figure burns brighter. The weapon witnesses the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Burning Fang encountered this source response: Sparks burst outward and the figure burns brighter. The weapon witnesses the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

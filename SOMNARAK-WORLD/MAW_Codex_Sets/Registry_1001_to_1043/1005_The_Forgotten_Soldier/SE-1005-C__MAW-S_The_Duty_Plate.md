@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Plate carries an obligation nobody assigned the wearer and will not put it down. Worn long, they defend a post nobody remembers occupying.
 
-## ITEM-SPECIFIC HISTORY — *The The Forgotten Soldier Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Forgotten Soldier Source-Trace: Suit Record*
 
-The first The Duty Plate field bearer encountered this source response: Stands guard over the worker; enduring his presence reduces distress. The suit isolates the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Duty Plate encountered this source response: Stands guard over the worker; enduring his presence reduces distress. The suit isolates the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

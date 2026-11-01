@@ -40,7 +40,7 @@ The entity formed from a wall that failed to protect the people behind it. The f
 
 ## WITNESS RECORD — *The Welcome Haven Source-Trace*
 
-During the The Welcome Haven Source-Trace, the field team preserved this source fact: A border wall collapsed during an Outside Sorrow surge, leaving residents exposed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The fury of discovering that safety was promised but never delivered.
+During *The Welcome Haven Source-Trace*, the field team preserved this source fact: A border wall collapsed during an Outside Sorrow surge, leaving residents exposed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The fury of discovering that safety was promised but never delivered.
 
 ## M.A.W. SET — *Welcome Haven — Witnessed Form*
 

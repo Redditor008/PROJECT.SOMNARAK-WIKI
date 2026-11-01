@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** Uncontrolled growth if not tended, and it is tended by the bearer: each planting draws the season out of them, so a bearer who stops gardening stops ageing and stops being able to say what they are for.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Seed Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Sorrow Seed Source-Trace: Stigma Record*
 
-The first The Sorrow Seed field bearer encountered this source response: Reveals possible forms it could grow into. The stigma stays the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Seed encountered this source response: Reveals possible forms it could grow into. The stigma stays the immediate hazard only after the team attributed it to The Sorrow Seed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

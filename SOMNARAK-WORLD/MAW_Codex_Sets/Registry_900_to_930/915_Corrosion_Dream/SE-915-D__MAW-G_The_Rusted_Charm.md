@@ -32,7 +32,7 @@ The Rusted Charm is the stigma record of the Corrosion Dream set — head-slot, 
 
 ## ITEM-SPECIFIC HISTORY — *The Corrosion Dream Source-Trace: Stigma Record*
 
-The first The Rusted Charm field bearer encountered this source response: Reveals the failed crossing and those left behind. The stigma witnesses the immediate hazard only after the team attributed it to Corrosion Dream. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rusted Charm encountered this source response: Reveals the failed crossing and those left behind. The stigma witnesses the immediate hazard only after the team attributed it to Corrosion Dream. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

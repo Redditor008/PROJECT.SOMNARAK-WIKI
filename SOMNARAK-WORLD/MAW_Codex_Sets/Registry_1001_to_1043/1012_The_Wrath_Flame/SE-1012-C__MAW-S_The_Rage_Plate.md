@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Plate absorbs the blow and banks the anger: worn, the wearer's reactions slow by exactly what they are not saying. Worn long, they are placid and cannot move quickly.
 
-## ITEM-SPECIFIC HISTORY — *The The Wrath Flame Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Wrath Flame Source-Trace: Suit Record*
 
-The first The Rage Plate field bearer encountered this source response: Tests the worker by burning nearby without striking. The suit opens the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Plate encountered this source response: Tests the worker by burning nearby without striking. The suit opens the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

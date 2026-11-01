@@ -40,7 +40,7 @@ The Tear formed from sorrow too deep to flow. The grief of someone unable to cry
 
 ## WITNESS RECORD — *The Icedrop Source-Trace*
 
-During the The Icedrop Source-Trace, the field team preserved this source fact: A mourner's first and only tear froze before it could fall. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of someone unable to cry despite having lost everything.
+During *The Icedrop Source-Trace*, the field team preserved this source fact: A mourner's first and only tear froze before it could fall. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of someone unable to cry despite having lost everything.
 
 ## M.A.W. SET — *Icedrop — Witnessed Form*
 

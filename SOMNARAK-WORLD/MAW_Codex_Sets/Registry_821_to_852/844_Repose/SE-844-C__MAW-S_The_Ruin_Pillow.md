@@ -33,7 +33,7 @@ The Ruin Pillow is the suit record of Repose’s set, and its canonical ability 
 
 ## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Suit Record*
 
-The first The Ruin Pillow field bearer encountered this source response: Tests whether the worker can remain near sleeping grief. The suit opens the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Pillow encountered this source response: Tests whether the worker can remain near sleeping grief. The suit opens the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

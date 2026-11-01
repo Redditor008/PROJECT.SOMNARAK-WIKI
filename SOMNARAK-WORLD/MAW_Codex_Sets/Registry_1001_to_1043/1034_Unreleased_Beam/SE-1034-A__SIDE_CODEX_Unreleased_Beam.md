@@ -40,7 +40,7 @@ The Weight formed from responsibility carried unconsciously. The grief of doing 
 
 ## WITNESS RECORD — *The Unreleased Beam Source-Trace*
 
-During the The Unreleased Beam Source-Trace, the field team preserved this source fact: A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of doing what must be done without receiving recognition or rest.
+During *The Unreleased Beam Source-Trace*, the field team preserved this source fact: A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of doing what must be done without receiving recognition or rest.
 
 ## M.A.W. SET — *Unreleased Beam — Witnessed Form*
 

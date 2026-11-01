@@ -40,7 +40,7 @@ An Echo (II) Time at Moderate (β) potency, Void-aligned, held at SECTOR-O-914. 
 
 ## WITNESS RECORD — *The Amnesia Source-Trace*
 
-During the The Amnesia Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Amnesia Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Amnesia — Witnessed Form*
 

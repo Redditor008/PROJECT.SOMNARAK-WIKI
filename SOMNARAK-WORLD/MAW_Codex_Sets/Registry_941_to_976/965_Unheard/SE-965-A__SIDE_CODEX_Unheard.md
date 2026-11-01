@@ -40,7 +40,7 @@ The entity formed from a city that stopped listening to its own final words. The
 
 ## WITNESS RECORD — *The Unheard Source-Trace*
 
-During the The Unheard Source-Trace, the field team preserved this source fact: A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of reaching the end of speech and discovering that no one fought to preserve it.
+During *The Unheard Source-Trace*, the field team preserved this source fact: A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of reaching the end of speech and discovering that no one fought to preserve it.
 
 ## M.A.W. SET — *Unheard — Witnessed Form*
 

@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** Anger becomes visible and difficult to suppress, and visible is the price: everyone nearby reacts to a feeling the bearer can no longer withdraw while the ember is warm.
 
-## ITEM-SPECIFIC HISTORY — *The The Wrath Flame Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Wrath Flame Source-Trace: Stigma Record*
 
-The first The Rage Ember field bearer encountered this source response: Shows flashes of the six factions and the battle. The stigma stabilizes the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Ember encountered this source response: Shows flashes of the six factions and the battle. The stigma stabilizes the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

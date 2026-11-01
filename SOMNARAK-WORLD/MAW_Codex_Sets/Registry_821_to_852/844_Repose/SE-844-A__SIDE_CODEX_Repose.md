@@ -40,7 +40,7 @@ The Ruin formed from a settlement that died while its survivors continued mourni
 
 ## WITNESS RECORD — *The Repose Source-Trace*
 
-During the The Repose Source-Trace, the field team preserved this source fact: An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of grieving a place that can no longer be restored.
+During *The Repose Source-Trace*, the field team preserved this source fact: An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of grieving a place that can no longer be restored.
 
 ## M.A.W. SET — *Repose — Witnessed Form*
 

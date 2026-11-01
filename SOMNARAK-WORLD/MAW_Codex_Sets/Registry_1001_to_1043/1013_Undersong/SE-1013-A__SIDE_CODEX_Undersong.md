@@ -40,7 +40,7 @@ The Echo formed from calls for help that went unanswered. The despair of asking 
 
 ## WITNESS RECORD — *The Undersong Source-Trace*
 
-During the The Undersong Source-Trace, the field team preserved this source fact: People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The despair of asking for rescue and learning that no one was coming.
+During *The Undersong Source-Trace*, the field team preserved this source fact: People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The despair of asking for rescue and learning that no one was coming.
 
 ## M.A.W. SET — *Undersong — Witnessed Form*
 

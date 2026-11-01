@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Weapon Record*
 
-The first The Voice field bearer encountered this source response: Confrontation is met with Divine Command — the entity speaks, and marked personnel obey. Unmarked personnel face the entity's full attention. The weapon isolates the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Voice encountered this source response: Confrontation is met with Divine Command — the entity speaks, and marked personnel obey. Unmarked personnel face the entity's full attention. The weapon isolates the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

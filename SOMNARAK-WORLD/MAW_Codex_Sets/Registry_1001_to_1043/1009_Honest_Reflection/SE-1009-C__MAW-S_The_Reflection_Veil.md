@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Honest Reflection Source-Trace: Suit Record*
 
-The first The Reflection Veil field bearer encountered this source response: Shows the viewer's worst memory; facing it reduces distress. The suit uncouples the immediate hazard only after the team attributed it to Honest Reflection. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Reflection Veil encountered this source response: Shows the viewer's worst memory; facing it reduces distress. The suit uncouples the immediate hazard only after the team attributed it to Honest Reflection. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

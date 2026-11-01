@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Fang reopens what healed wrong: every blow it lands splits the wielder's own oldest scar along its first line, and the seam hurts in the place it was ruled on. Wielded long, the wielder cannot separate their wounds from the verdict that made them.
 
-## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Scar Walker Source-Trace: Weapon Record*
 
-The first The Occlusihan Fang field bearer encountered this source response: Treats aggression as desecration and attacks. The weapon contains the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Occlusihan Fang encountered this source response: Treats aggression as desecration and attacks. The weapon contains the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

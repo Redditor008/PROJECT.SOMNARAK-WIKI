@@ -32,7 +32,7 @@ The Flowing Charm is the stigma record of the Relic of a Thousand Owners’ set 
 
 ## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Stigma Record*
 
-The first The Flowing Charm field bearer encountered this source response: Reveals the chain of exiles who carried it. The stigma marks the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Flowing Charm encountered this source response: Reveals the chain of exiles who carried it. The stigma marks the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -40,7 +40,7 @@ A Fragment (III) Hazard at Major (γ) potency, Grudge-aligned, body-manifesting,
 
 ## WITNESS RECORD — *The Cracked Flesh Source-Trace*
 
-During the The Cracked Flesh Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Cracked Flesh Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Cracked Flesh — Witnessed Form*
 

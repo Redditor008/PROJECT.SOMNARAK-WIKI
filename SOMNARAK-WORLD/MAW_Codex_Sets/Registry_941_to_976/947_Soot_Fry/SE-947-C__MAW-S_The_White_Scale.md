@@ -33,7 +33,7 @@ The White Scale is the suit record of the Soot Fry set — β-grade, Weight-alig
 
 ## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Suit Record*
 
-The first The White Scale field bearer encountered this source response: The worker endures the heavy, drowning air at the bank without flinching or reaching; the fish calms, the stillness easing. The suit redirects the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The White Scale encountered this source response: The worker endures the heavy, drowning air at the bank without flinching or reaching; the fish calms, the stillness easing. The suit redirects the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

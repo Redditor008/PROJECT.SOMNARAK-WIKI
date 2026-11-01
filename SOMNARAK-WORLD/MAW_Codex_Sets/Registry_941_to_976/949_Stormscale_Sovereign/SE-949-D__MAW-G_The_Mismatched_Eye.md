@@ -32,7 +32,7 @@ The Mismatched Eye is the stigma record of the The Stormscale Sovereign set — 
 
 ## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Stigma Record*
 
-The first The Mismatched Eye field bearer encountered this source response: Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. The stigma opens the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Mismatched Eye encountered this source response: Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. The stigma opens the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

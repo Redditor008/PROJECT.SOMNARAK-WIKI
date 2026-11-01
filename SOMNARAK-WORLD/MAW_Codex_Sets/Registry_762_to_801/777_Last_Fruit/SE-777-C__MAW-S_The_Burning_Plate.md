@@ -33,7 +33,7 @@ The Burning Plate is the suit record of Last Fruit’s set, granting resistance 
 
 ## ITEM-SPECIFIC HISTORY — *The Last Fruit Source-Trace: Suit Record*
 
-The first The Burning Plate field bearer encountered this source response: Tests whether the worker can remain near what they want but cannot have. The suit isolates the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Burning Plate encountered this source response: Tests whether the worker can remain near what they want but cannot have. The suit isolates the immediate hazard only after the team attributed it to Last Fruit. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

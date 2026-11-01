@@ -40,7 +40,7 @@ The Well formed from mourning that had no witness. The need to tell a loss and f
 
 ## WITNESS RECORD — *The Well of Unfinished Words Source-Trace*
 
-During the The Well of Unfinished Words Source-Trace, the field team preserved this source fact: Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The need to tell a loss and find no one willing to hear it.
+During *The Well of Unfinished Words Source-Trace*, the field team preserved this source fact: Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The need to tell a loss and find no one willing to hear it.
 
 ## M.A.W. SET — *Well of Unfinished Words — Witnessed Form*
 

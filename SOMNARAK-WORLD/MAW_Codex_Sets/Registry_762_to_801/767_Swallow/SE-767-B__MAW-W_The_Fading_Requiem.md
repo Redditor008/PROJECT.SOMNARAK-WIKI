@@ -33,7 +33,7 @@ The Fading Requiem is the weapon record of Swallow’s set, a Lament instrument 
 
 ## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Weapon Record*
 
-The first The Fading Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

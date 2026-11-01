@@ -40,7 +40,7 @@ The Mirror formed from rage that could not be spoken safely. The grief of injust
 
 ## WITNESS RECORD — *The Mirror of Soaking Source-Trace*
 
-During the The Mirror of Soaking Source-Trace, the field team preserved this source fact: Citizens swallowed rage under debt and order until suppressed anger became a reflective object. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of injustice left unnamed and anger treated as unacceptable.
+During *The Mirror of Soaking Source-Trace*, the field team preserved this source fact: Citizens swallowed rage under debt and order until suppressed anger became a reflective object. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of injustice left unnamed and anger treated as unacceptable.
 
 ## M.A.W. SET — *Mirror of Soaking — Witnessed Form*
 

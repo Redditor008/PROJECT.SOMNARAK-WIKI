@@ -33,7 +33,7 @@ The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Wei
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Suit Record*
 
-The first The Bridge Brace field bearer encountered this source response: Tests whether the worker can stand beneath shared weight. The suit isolates the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Bridge Brace encountered this source response: Tests whether the worker can stand beneath shared weight. The suit isolates the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

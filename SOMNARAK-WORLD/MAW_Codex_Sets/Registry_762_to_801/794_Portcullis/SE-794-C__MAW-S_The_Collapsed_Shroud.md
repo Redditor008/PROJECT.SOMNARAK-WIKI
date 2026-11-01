@@ -33,7 +33,7 @@ The Collapsed Shroud is the suit record of Portcullis’ set, granting resistanc
 
 ## ITEM-SPECIFIC HISTORY — *The Portcullis Source-Trace: Suit Record*
 
-The first The Collapsed Shroud field bearer encountered this source response: Tests whether the worker can remain at a blocked threshold. The suit stays the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collapsed Shroud encountered this source response: Tests whether the worker can remain at a blocked threshold. The suit stays the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

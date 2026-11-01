@@ -35,7 +35,7 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Weapon Record*
 
-The first The Sleeping Lens field bearer encountered this source response: Its reflection fractures into hostile versions of the worker. The weapon marks the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sleeping Lens encountered this source response: Its reflection fractures into hostile versions of the worker. The weapon marks the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

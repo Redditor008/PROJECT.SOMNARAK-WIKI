@@ -32,7 +32,7 @@ The Torn Charm is the stigma record of Miscast’s set — tail-slot, bestowed a
 
 ## ITEM-SPECIFIC HISTORY — *The Miscast Source-Trace: Stigma Record*
 
-The first The Torn Charm field bearer encountered this source response: Reveals its former function. The stigma stays the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Charm encountered this source response: Reveals its former function. The stigma stays the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

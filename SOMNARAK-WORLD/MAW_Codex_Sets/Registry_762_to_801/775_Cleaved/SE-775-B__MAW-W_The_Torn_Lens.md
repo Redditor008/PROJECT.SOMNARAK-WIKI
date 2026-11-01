@@ -33,7 +33,7 @@ The Torn Lens is the weapon record of Cleaved’s set, a Void instrument attacki
 
 ## ITEM-SPECIFIC HISTORY — *The Cleaved Source-Trace: Weapon Record*
 
-The first The Torn Lens field bearer encountered this source response: It splits further and burns through nearby walls. The weapon opens the immediate hazard only after the team attributed it to Cleaved. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Lens encountered this source response: It splits further and burns through nearby walls. The weapon opens the immediate hazard only after the team attributed it to Cleaved. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -40,7 +40,7 @@ The Shadow formed from grief that outlived the person who first carried it. The 
 
 ## WITNESS RECORD — *The Swallow Source-Trace*
 
-During the The Swallow Source-Trace, the field team preserved this source fact: A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of mourning someone else's loss until it becomes indistinguishable from your own.
+During *The Swallow Source-Trace*, the field team preserved this source fact: A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of mourning someone else's loss until it becomes indistinguishable from your own.
 
 ## M.A.W. SET — *Swallow — Witnessed Form*
 

@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Stigma Record*
 
-The first The Resting Charm field bearer encountered this source response: Shows the task it never believed was complete. The stigma contains the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Charm encountered this source response: Shows the task it never believed was complete. The stigma contains the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

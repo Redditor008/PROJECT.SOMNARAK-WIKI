@@ -32,7 +32,7 @@ The Relic Charm is the stigma record of the Pandora's Jar set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Stigma Record*
 
-The first The Relic Charm field bearer encountered this source response: Reveals fragments of the missing relic's history. The stigma severs the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Relic Charm encountered this source response: Reveals fragments of the missing relic's history. The stigma severs the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

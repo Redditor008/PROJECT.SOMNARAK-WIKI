@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Suit Record*
 
-The first The Promise Plate field bearer encountered this source response: Tests whether the worker will make a promise without certainty. The suit stabilizes the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Plate encountered this source response: Tests whether the worker will make a promise without certainty. The suit stabilizes the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

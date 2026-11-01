@@ -33,9 +33,9 @@ Eight cylindrical brass pendulum weights stamped with minute indices dangle alon
 
 **Operational / binding cost:** The coat keeps the wearer upright by lending them the pendulum's patience: each hour worn costs an hour of wanting to move. Worn long, the wearer stands exactly where they were put.
 
-## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Broken Clock Source-Trace: Suit Record*
 
-The first The Pendulum-Weighted Greatcoat field bearer encountered this source response: Stretches a minute into an hour to test resolve. The suit discharges the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Pendulum-Weighted Greatcoat encountered this source response: Stretches a minute into an hour to test resolve. The suit discharges the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

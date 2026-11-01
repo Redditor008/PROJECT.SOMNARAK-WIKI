@@ -2391,7 +2391,7 @@ Each Pylon is a self-contained department — extending downward into the depths
 
 **The Director's secret:** The Absolvohan's Han-crystal stockpile is stored beneath Floor 1 — in a hidden vault that only the Director and Secretary know about.
 
-**The Secretary's secret:** The Mnemonic Generator — the device that stabilizes the facility and creates the the Cycle — is built into the structure of The Hand itself. It cannot be removed without destroying the facility.
+**The Secretary's secret:** The Mnemonic Generator — the device that stabilizes the facility and creates the Cycle — is built into the structure of The Hand itself. It cannot be removed without destroying the facility.
 
 ---
 

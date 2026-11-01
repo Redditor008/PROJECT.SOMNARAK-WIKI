@@ -40,7 +40,7 @@ A Hazard of Entity (IV) coherence at Critical (δ) potency, Lament-aligned, held
 
 ## WITNESS RECORD — *The Miasma Source-Trace*
 
-During the The Miasma Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Miasma Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Miasma — Witnessed Form*
 

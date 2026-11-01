@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Stigma Record*
 
-The first The Memory Link field bearer encountered this source response: Displays the relationships between memories. The stigma marks the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Memory Link encountered this source response: Displays the relationships between memories. The stigma marks the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -38,9 +38,9 @@ The Wall formed from love that was never returned. The burden of remembering som
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Patient endurance and honest acknowledgment
 
-## WITNESS RECORD — *The The Rising Wall Source-Trace*
+## WITNESS RECORD — *The Rising Wall Source-Trace*
 
-During the The The Rising Wall Source-Trace, the field team preserved this source fact: A citizen waited for a love that never answered; the waiting became a rising wall. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of remembering someone who did not remember you.
+During *The Rising Wall Source-Trace*, the field team preserved this source fact: A citizen waited for a love that never answered; the waiting became a rising wall. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of remembering someone who did not remember you.
 
 ## M.A.W. SET — *The Rising Wall — Witnessed Form*
 

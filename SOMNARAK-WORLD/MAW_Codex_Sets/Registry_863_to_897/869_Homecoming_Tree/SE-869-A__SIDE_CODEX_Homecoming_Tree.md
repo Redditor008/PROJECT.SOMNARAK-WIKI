@@ -40,7 +40,7 @@ The Tree formed from the grief of returning to a place that no longer recognized
 
 ## WITNESS RECORD — *The Homecoming Tree Source-Trace*
 
-During the The Homecoming Tree Source-Trace, the field team preserved this source fact: A displaced community returned to its original border settlement and found it transformed beyond recognition. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The loss of home through time, absence, and change.
+During *The Homecoming Tree Source-Trace*, the field team preserved this source fact: A displaced community returned to its original border settlement and found it transformed beyond recognition. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The loss of home through time, absence, and change.
 
 ## M.A.W. SET — *Homecoming Tree — Witnessed Form*
 

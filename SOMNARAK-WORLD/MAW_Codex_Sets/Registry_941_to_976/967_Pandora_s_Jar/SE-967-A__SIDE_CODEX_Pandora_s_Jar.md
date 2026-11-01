@@ -40,7 +40,7 @@ The entity formed from the grief of a relic erased from history. The pain of los
 
 ## WITNESS RECORD — *The Pandora s Jar Source-Trace*
 
-During the The Pandora s Jar Source-Trace, the field team preserved this source fact: A treasured artifact disappeared during a Desolate expedition; records of it were later removed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of losing an object that carried a people's identity.
+During *The Pandora s Jar Source-Trace*, the field team preserved this source fact: A treasured artifact disappeared during a Desolate expedition; records of it were later removed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of losing an object that carried a people's identity.
 
 ## M.A.W. SET — *Pandora's Jar — Witnessed Form*
 

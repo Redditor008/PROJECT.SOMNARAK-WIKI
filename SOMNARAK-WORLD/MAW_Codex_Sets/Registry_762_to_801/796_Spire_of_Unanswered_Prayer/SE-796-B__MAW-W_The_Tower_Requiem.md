@@ -35,7 +35,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 ## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Weapon Record*
 
-The first The Tower Requiem field bearer encountered this source response: The voice becomes a storm of hot tears. The weapon uncouples the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tower Requiem encountered this source response: The voice becomes a storm of hot tears. The weapon uncouples the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

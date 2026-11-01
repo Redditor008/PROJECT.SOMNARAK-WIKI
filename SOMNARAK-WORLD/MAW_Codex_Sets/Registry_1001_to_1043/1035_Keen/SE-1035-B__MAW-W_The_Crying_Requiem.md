@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Weapon Record*
 
-The first The Crying Requiem field bearer encountered this source response: Spins and emits a sharper cry. The weapon interrupts the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crying Requiem encountered this source response: Spins and emits a sharper cry. The weapon interrupts the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

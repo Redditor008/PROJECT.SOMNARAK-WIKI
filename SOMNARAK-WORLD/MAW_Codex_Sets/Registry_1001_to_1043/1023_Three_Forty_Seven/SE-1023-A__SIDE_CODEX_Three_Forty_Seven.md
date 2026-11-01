@@ -40,7 +40,7 @@ The Clocktower formed from a moment that could not end. The weight of waiting in
 
 ## WITNESS RECORD — *The Three Forty Seven Source-Trace*
 
-During the The Three Forty Seven Source-Trace, the field team preserved this source fact: An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of waiting inside an event with no conclusion.
+During *The Three Forty Seven Source-Trace*, the field team preserved this source fact: An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of waiting inside an event with no conclusion.
 
 ## M.A.W. SET — *Three Forty-Seven — Witnessed Form*
 

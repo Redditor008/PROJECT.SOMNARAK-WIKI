@@ -32,7 +32,7 @@ The Glowing Eye is the stigma record of the Foam Flood set — head-slot, bestow
 
 ## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Stigma Record*
 
-The first The Glowing Eye field bearer encountered this source response: The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. The stigma marks the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Glowing Eye encountered this source response: The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. The stigma marks the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Weapon Record*
 
-The first The Resting Maul field bearer encountered this source response: The tunnel grows heavier and the figure stirs. The weapon redirects the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Maul encountered this source response: The tunnel grows heavier and the figure stirs. The weapon redirects the immediate hazard only after the team attributed it to Unreleased Beam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

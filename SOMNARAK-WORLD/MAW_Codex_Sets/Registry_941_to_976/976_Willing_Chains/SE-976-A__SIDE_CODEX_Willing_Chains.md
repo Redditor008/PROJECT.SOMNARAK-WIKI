@@ -40,7 +40,7 @@ The Chain formed from bonds that became imprisonment. The grief of being held by
 
 ## WITNESS RECORD — *The Willing Chains Source-Trace*
 
-During the The Willing Chains Source-Trace, the field team preserved this source fact: A district was bound by debt and duty until the obligations became a living chain. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being held by systems, promises, or relationships that no longer protect.
+During *The Willing Chains Source-Trace*, the field team preserved this source fact: A district was bound by debt and duty until the obligations became a living chain. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being held by systems, promises, or relationships that no longer protect.
 
 ## M.A.W. SET — *Willing Chains — Witnessed Form*
 

@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Requiem heals by taking the wound's grief onto the wielder: each strike cures the target and hands their loss to whoever swung. Wielded long, the wielder is a hospital for everything they have treated.
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Healer s Shadow Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Kind Healer s Shadow Source-Trace: Weapon Record*
 
-The first The Healer's Requiem field bearer encountered this source response: Retreats from aggression. The weapon witnesses the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Healer's Requiem encountered this source response: Retreats from aggression. The weapon witnesses the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

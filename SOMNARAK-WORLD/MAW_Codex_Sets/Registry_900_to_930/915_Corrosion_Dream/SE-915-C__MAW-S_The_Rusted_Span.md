@@ -33,7 +33,7 @@ The Rusted Span is the suit record of the Corrosion Dream set — γ-grade, Void
 
 ## ITEM-SPECIFIC HISTORY — *The Corrosion Dream Source-Trace: Suit Record*
 
-The first The Rusted Span field bearer encountered this source response: Keeps singing until the worker can remain with the distance. The suit marks the immediate hazard only after the team attributed it to Corrosion Dream. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rusted Span encountered this source response: Keeps singing until the worker can remain with the distance. The suit marks the immediate hazard only after the team attributed it to Corrosion Dream. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

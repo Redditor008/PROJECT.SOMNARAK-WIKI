@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The doubled article, in five constructions (batch 76)
+
+Every modern codex record opens its history section with the same sentence shape, and where the item's own name carries a *The*, the template stacked them:
+
+> The first **The** Frozen Lens field bearer encountered this source response…
+
+That is in **198 records**. It was not alone. The section heading read `## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Weapon Record*` in **30 records**; the side-codex witness record rendered the same stacking three deep — `During the The The Kind Echo Source-Trace, the field team preserved this source fact` — in **11 records**; **105** more side codices, whose entities do not begin with *The*, carried the plain double `During the The Night Peddler Source-Trace`; and one master codex line read *"creates the the Cycle."*
+
+**All 345 are repaired, and the doubling is at zero across the whole archive.** The field-bearer sentence now reads *"The first bearer of The Frozen Lens encountered this source response"*, which is what it meant and does not stack the article. The headings keep their name once. `SE_APPEARANCE_REVIEWS` and the audit records that quote the defect were left alone — they are quoting it on purpose.
+
+**One earlier audit recorded this class as 23 instances.** It searched a single construction (`the The <Name>`), which is why it read as a curiosity rather than a template fault; the sweep above covers five.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS · `check_links` 0 broken.
+
 ## The charm formula, and three other sentence families (batch 75)
 
 The residue the last entry called "house vocabulary" was not vocabulary. Reading the top of it, the archive's Stigma records were opening on one formula: **"[Name] is a small [colour] [material] charm shaped like a …"** in **31 records** — *a small pale-glass charm shaped like a face*, *a small charm of pale Han glass shaped like a folded sheet*, *a small charm of dark Han metal shaped like a barred window*. Every fact in those openings is correct and stays; the construction is what eight hundred years of Armoury paperwork would not do twice.

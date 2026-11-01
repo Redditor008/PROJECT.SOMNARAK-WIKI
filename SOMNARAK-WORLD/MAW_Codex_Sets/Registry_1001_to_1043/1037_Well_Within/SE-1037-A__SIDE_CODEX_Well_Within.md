@@ -40,7 +40,7 @@ The Well formed from rage buried so deeply that it became an inner landscape. An
 
 ## WITNESS RECORD — *The Well Within Source-Trace*
 
-During the The Well Within Source-Trace, the field team preserved this source fact: A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Anger without a remembered cause and the exhaustion of carrying inherited fury.
+During *The Well Within Source-Trace*, the field team preserved this source fact: A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Anger without a remembered cause and the exhaustion of carrying inherited fury.
 
 ## M.A.W. SET — *Well Within — Witnessed Form*
 

@@ -40,7 +40,7 @@ The Whisper formed from burdens discarded by the city. The grief of people and r
 
 ## WITNESS RECORD — *The Neglect Learned to Listen Source-Trace*
 
-During the The Neglect Learned to Listen Source-Trace, the field team preserved this source fact: Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of people and responsibilities treated as refuse.
+During *The Neglect Learned to Listen Source-Trace*, the field team preserved this source fact: Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of people and responsibilities treated as refuse.
 
 ## M.A.W. SET — *Neglect Learned to Listen — Witnessed Form*
 

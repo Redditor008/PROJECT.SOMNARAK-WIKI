@@ -38,9 +38,9 @@ The Shadow formed from compassion left behind by healers who died. The grief of 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Accept its help and acknowledge the healer it carries
 
-## WITNESS RECORD — *The The Kind Healer s Shadow Source-Trace*
+## WITNESS RECORD — *The Kind Healer s Shadow Source-Trace*
 
-During the The The Kind Healer s Shadow Source-Trace, the field team preserved this source fact: A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of healing others while leaving no one to continue the work.
+During *The Kind Healer s Shadow Source-Trace*, the field team preserved this source fact: A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of healing others while leaving no one to continue the work.
 
 ## M.A.W. SET — *The Kind Healer's Shadow — Witnessed Form*
 

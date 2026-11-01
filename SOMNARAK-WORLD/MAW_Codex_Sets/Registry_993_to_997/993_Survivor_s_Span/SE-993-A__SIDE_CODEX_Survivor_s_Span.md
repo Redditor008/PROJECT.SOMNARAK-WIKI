@@ -40,7 +40,7 @@ The entity formed from a bridge collapse remembered by one survivor. The burden 
 
 ## WITNESS RECORD — *The Survivor s Span Source-Trace*
 
-During the The Survivor s Span Source-Trace, the field team preserved this source fact: A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of carrying everyone who did not make it across.
+During *The Survivor s Span Source-Trace*, the field team preserved this source fact: A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of carrying everyone who did not make it across.
 
 ## M.A.W. SET — *Survivor's Span — Witnessed Form*
 

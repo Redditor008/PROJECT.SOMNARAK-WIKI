@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Stigma Record*
 
-The first The Brand field bearer encountered this source response: Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. The stigma marks the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Brand encountered this source response: Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. The stigma marks the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

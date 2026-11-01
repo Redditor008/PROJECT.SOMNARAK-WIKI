@@ -40,7 +40,7 @@ The Echo formed from anger repeated until it no longer belonged to anyone. The e
 
 ## WITNESS RECORD — *The Heirloom Source-Trace*
 
-During the The Heirloom Source-Trace, the field team preserved this source fact: A grievance was repeated through generations until the words became an empty fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of inherited fury that consumes both victim and bearer.
+During *The Heirloom Source-Trace*, the field team preserved this source fact: A grievance was repeated through generations until the words became an empty fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The exhaustion of inherited fury that consumes both victim and bearer.
 
 ## M.A.W. SET — *Heirloom — Witnessed Form*
 

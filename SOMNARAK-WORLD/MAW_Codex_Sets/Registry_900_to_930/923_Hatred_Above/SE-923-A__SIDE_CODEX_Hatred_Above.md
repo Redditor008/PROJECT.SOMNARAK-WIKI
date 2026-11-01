@@ -40,7 +40,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Grudge-aligned, held at SECTOR-C
 
 ## WITNESS RECORD — *The Hatred Above Source-Trace*
 
-During the The Hatred Above Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Hatred Above Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Hatred Above — Witnessed Form*
 

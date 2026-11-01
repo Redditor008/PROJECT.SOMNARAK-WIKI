@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Requiem strikes with the first grief anyone ever shed: each blow pays the target out of the wielder's own tears and leaves the wielder owing more. Wielded long, the wielder keeps nothing of their own and everyone they have struck is weeping.
 
-## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The First Tear Source-Trace: Weapon Record*
 
-The first The First Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The First Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to The First Tear. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

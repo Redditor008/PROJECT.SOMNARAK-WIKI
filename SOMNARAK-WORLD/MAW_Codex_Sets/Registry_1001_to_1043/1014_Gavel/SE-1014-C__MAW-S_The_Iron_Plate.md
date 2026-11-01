@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Suit Record*
 
-The first The Iron Plate field bearer encountered this source response: Makes the worker wait beneath its gaze. The suit witnesses the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Iron Plate encountered this source response: Makes the worker wait beneath its gaze. The suit witnesses the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

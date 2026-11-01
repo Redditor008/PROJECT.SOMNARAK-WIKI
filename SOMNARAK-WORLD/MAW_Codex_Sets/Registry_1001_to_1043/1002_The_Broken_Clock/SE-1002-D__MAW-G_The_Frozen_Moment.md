@@ -32,9 +32,9 @@ The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exa
 
 **Operational / binding cost:** The wearer ages faster; every use consumes minutes of life. The wheel does not return them and has no idea whose they were.
 
-## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Broken Clock Source-Trace: Stigma Record*
 
-The first The Frozen Escapement Wheel field bearer encountered this source response: Reveals patterns in the loop's structure. The stigma redirects the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Escapement Wheel encountered this source response: Reveals patterns in the loop's structure. The stigma redirects the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

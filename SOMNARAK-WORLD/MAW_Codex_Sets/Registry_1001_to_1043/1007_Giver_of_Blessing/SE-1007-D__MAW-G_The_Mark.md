@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Stigma Record*
 
-The first The Mark field bearer encountered this source response: Observation reveals the current blessing count and the identities of marked personnel. Critical for monitoring the chain. The stigma stays the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Mark encountered this source response: Observation reveals the current blessing count and the identities of marked personnel. Critical for monitoring the chain. The stigma stays the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

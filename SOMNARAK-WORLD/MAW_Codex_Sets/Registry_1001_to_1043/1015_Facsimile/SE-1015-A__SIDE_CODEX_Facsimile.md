@@ -40,7 +40,7 @@ The object formed from a promise that was used as a weapon. Betrayal—the grief
 
 ## WITNESS RECORD — *The Facsimile Source-Trace*
 
-During the The Facsimile Source-Trace, the field team preserved this source fact: A Collector promised debt relief, then used the promise to secure another obligation. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Betrayal—the grief of believing words and discovering that they were never intended to hold.
+During *The Facsimile Source-Trace*, the field team preserved this source fact: A Collector promised debt relief, then used the promise to secure another obligation. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Betrayal—the grief of believing words and discovering that they were never intended to hold.
 
 ## M.A.W. SET — *Facsimile — Witnessed Form*
 

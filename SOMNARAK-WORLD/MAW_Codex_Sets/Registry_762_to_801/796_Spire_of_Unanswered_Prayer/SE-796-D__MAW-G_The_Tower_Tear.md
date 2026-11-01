@@ -32,7 +32,7 @@ The Tower Tear is the stigma record of the Spire of Unanswered Prayer’s set �
 
 ## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Stigma Record*
 
-The first The Tower Tear field bearer encountered this source response: Reveals the settlement beneath the song. The stigma stabilizes the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tower Tear encountered this source response: Reveals the settlement beneath the song. The stigma stabilizes the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -32,7 +32,7 @@ The Crossing Chain is the stigma record of Stranded Between Two Shores’ set �
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Stigma Record*
 
-The first The Crossing Chain field bearer encountered this source response: Shows the people who tried to cross. The stigma severs the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crossing Chain encountered this source response: Shows the people who tried to cross. The stigma severs the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

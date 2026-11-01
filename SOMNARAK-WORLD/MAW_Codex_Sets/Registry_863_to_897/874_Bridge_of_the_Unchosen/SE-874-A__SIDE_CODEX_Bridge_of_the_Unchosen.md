@@ -40,7 +40,7 @@ The Bridge formed from a crossing that was never taken. The grief of what could 
 
 ## WITNESS RECORD — *The Bridge of the Unchosen Source-Trace*
 
-During the The Bridge of the Unchosen Source-Trace, the field team preserved this source fact: A person abandoned a crossing at the last moment; the path froze around the decision. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of what could have been if someone had chosen differently.
+During *The Bridge of the Unchosen Source-Trace*, the field team preserved this source fact: A person abandoned a crossing at the last moment; the path froze around the decision. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of what could have been if someone had chosen differently.
 
 ## M.A.W. SET — *Bridge of the Unchosen — Witnessed Form*
 

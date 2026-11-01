@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Maul comes in with the water: each blow lands a little later than the wielder swung it, and the delay lengthens. Wielded long, the wielder is swinging at where the fight used to be.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Weapon Record*
 
-The first The Tide Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tide Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

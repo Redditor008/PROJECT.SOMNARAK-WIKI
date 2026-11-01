@@ -35,7 +35,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 ## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Weapon Record*
 
-The first The Relic Maul field bearer encountered this source response: Burns with retaliatory fury. The weapon opens the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Relic Maul encountered this source response: Burns with retaliatory fury. The weapon opens the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

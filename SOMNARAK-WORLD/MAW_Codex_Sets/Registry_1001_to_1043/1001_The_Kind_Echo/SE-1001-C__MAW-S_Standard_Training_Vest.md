@@ -27,7 +27,7 @@
 
 **Operational / binding cost:** None meaningful at this grade. It protects nothing worth protecting outside the hall, and a worker who keeps it on stops noticing when the pressure is real.
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Kind Echo Source-Trace: Suit Record*
 
 The first Standard Training Vest field bearer encountered this source response: The entity remains present and warm. The trainee endures its faint Lament field — which is so gentle that endurance is barely tested. The entity seems to appreciate the company. The suit contains the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

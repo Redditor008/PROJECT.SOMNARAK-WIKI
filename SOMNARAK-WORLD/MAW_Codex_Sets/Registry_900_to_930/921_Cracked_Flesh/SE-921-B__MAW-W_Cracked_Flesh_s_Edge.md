@@ -33,7 +33,7 @@ The Awakened Marrow-Spike & Tendril is the weapon record of the Cracked Flesh se
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Weapon Record*
 
-The first The Awakened Marrow-Spike & Tendril field bearer encountered this source response: N/A The weapon witnesses the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Awakened Marrow-Spike & Tendril encountered this source response: N/A The weapon witnesses the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -40,7 +40,7 @@ The Dawn is the catastrophic historical form of the Kind Healer. In the current 
 
 ## WITNESS RECORD — *The Dawn of Mourning Source-Trace*
 
-During the The Dawn of Mourning Source-Trace, the field team preserved this source fact: In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Compassion transformed into judgment after absorbing twelve complete burdens.
+During *The Dawn of Mourning Source-Trace*, the field team preserved this source fact: In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Compassion transformed into judgment after absorbing twelve complete burdens.
 
 ## M.A.W. SET — *Dawn of Mourning — Witnessed Form*
 

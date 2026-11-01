@@ -40,7 +40,7 @@ The Scream formed from obligations that were never fulfilled. The pressure of pr
 
 ## WITNESS RECORD — *The Screaming Masonry Source-Trace*
 
-During the The Screaming Masonry Source-Trace, the field team preserved this source fact: Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pressure of promises and duties accumulating until the body could no longer carry them.
+During *The Screaming Masonry Source-Trace*, the field team preserved this source fact: Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pressure of promises and duties accumulating until the body could no longer carry them.
 
 ## M.A.W. SET — *Screaming Masonry — Witnessed Form*
 

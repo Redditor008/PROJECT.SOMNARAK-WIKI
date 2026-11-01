@@ -40,7 +40,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Void-aligned, held at SECTOR-N-9
 
 ## WITNESS RECORD — *The Dreaming Plague Source-Trace*
 
-During the The Dreaming Plague Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Dreaming Plague Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Dreaming Plague — Witnessed Form*
 

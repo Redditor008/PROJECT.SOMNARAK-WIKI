@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wearer cannot lie about attachment: every bond the Pendant makes legible reads as confession when denied, and the bearer's silence is taken as the loudest of them.
 
-## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Rising Wall Source-Trace: Stigma Record*
 
-The first The Rising Pendant field bearer encountered this source response: Reveals the memories the city erased. The stigma isolates the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rising Pendant encountered this source response: Reveals the memories the city erased. The stigma isolates the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

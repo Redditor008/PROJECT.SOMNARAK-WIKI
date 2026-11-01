@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Suit Record*
 
-The first The Brightened Cloak field bearer encountered this source response: Enduring the Giver of Blessing's presence without acting is the safest option — but the entity will still attempt to bless if the worker remains too long. The suit redirects the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Brightened Cloak encountered this source response: Enduring the Giver of Blessing's presence without acting is the safest option — but the entity will still attempt to bless if the worker remains too long. The suit redirects the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

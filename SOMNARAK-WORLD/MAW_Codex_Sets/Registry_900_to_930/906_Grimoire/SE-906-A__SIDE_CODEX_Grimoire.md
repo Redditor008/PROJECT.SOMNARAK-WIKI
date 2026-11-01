@@ -40,7 +40,7 @@ An Echo (II) Object at Moderate (β) potency, Grudge-aligned, held at SECTOR-C-9
 
 ## WITNESS RECORD — *The Grimoire Source-Trace*
 
-During the The Grimoire Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Grimoire Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Grimoire — Witnessed Form*
 

@@ -33,7 +33,7 @@ The Flowing Shroud is the suit record of the Relic of a Thousand Owners’ set, 
 
 ## ITEM-SPECIFIC HISTORY — *The Relic of a Thousand Owners Source-Trace: Suit Record*
 
-The first The Flowing Shroud field bearer encountered this source response: Tests whether the worker can hold history without possession. The suit interrupts the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Flowing Shroud encountered this source response: Tests whether the worker can hold history without possession. The suit interrupts the immediate hazard only after the team attributed it to Relic of a Thousand Owners. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

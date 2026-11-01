@@ -32,7 +32,7 @@ The Tear Pendant is the stigma record of the Grieving Love set — neck-slot, be
 
 ## ITEM-SPECIFIC HISTORY — *The Grieving Love Source-Trace: Stigma Record*
 
-The first The Tear Pendant field bearer encountered this source response: Studied gently, she grows still and lets the worker see the bright pulse of the cure — and the name she keeps murmuring. The stigma discharges the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tear Pendant encountered this source response: Studied gently, she grows still and lets the worker see the bright pulse of the cure — and the name she keeps murmuring. The stigma discharges the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

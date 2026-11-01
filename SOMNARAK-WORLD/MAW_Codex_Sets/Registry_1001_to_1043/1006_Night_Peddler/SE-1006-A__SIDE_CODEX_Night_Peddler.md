@@ -40,7 +40,7 @@ The Stall formed from the grief of merchants whose livelihoods vanished as the c
 
 ## WITNESS RECORD — *The Night Peddler Source-Trace*
 
-During the The Night Peddler Source-Trace, the field team preserved this source fact: The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The loss of commerce, community, and the ordinary exchanges that made a life feel real.
+During *The Night Peddler Source-Trace*, the field team preserved this source fact: The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The loss of commerce, community, and the ordinary exchanges that made a life feel real.
 
 ## M.A.W. SET — *Night Peddler — Witnessed Form*
 

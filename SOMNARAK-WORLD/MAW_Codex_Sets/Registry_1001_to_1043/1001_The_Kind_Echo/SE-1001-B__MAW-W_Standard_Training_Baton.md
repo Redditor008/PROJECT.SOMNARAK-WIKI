@@ -27,7 +27,7 @@
 
 **Operational / binding cost:** None meaningful. The baton is inert enough for extended carry without toll, and that is the whole cost: a trainee who learns on it must unlearn the grip before holding anything that matters.
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Kind Echo Source-Trace: Weapon Record*
 
 The first Standard Training Baton field bearer encountered this source response: The entity does not resist. It dims slightly, as if saddened by the aggression, then brightens again when the confrontation ends. It holds no grudge. The weapon stays the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 

@@ -32,7 +32,7 @@ The Rage Lens is the stigma record of the Mirror of Soaking’s set — tail-slo
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Stigma Record*
 
-The first The Rage Lens field bearer encountered this source response: Reveals the event that created the anger. The stigma interrupts the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Lens encountered this source response: Reveals the event that created the anger. The stigma interrupts the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

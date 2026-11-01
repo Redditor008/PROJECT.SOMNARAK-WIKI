@@ -40,7 +40,7 @@ Calling Bloom formed when a curious child touched a watching flower at the heart
 
 ## WITNESS RECORD — *The Calling Bloom Source-Trace*
 
-During the The Calling Bloom Source-Trace, the field team preserved this source fact: Nari, a wilderness scavenger child, heard what she believed was her brother Seojun crying for help deep in the wood. She ran past the safe outskirts, past the mushroom-beds she knew, all the way to the clearing at the wood's centre — and found no brother, only a single small flower with an eye. Curious, she touched it. She was gone before her hand came away. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: A child's love for her brother, and the guilt of going looking for him and never coming back.
+During *The Calling Bloom Source-Trace*, the field team preserved this source fact: Nari, a wilderness scavenger child, heard what she believed was her brother Seojun crying for help deep in the wood. She ran past the safe outskirts, past the mushroom-beds she knew, all the way to the clearing at the wood's centre — and found no brother, only a single small flower with an eye. Curious, she touched it. She was gone before her hand came away. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: A child's love for her brother, and the guilt of going looking for him and never coming back.
 
 ## M.A.W. SET — *Calling Bloom — Witnessed Form*
 

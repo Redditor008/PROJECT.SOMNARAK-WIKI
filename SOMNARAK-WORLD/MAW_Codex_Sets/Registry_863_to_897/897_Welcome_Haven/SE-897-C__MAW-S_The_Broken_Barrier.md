@@ -33,7 +33,7 @@ The Broken Barrier is the suit record of Welcome Haven’s set, and its canonica
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Suit Record*
 
-The first The Broken Barrier field bearer encountered this source response: Tests whether the worker can stand before failed safety. The suit isolates the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Broken Barrier encountered this source response: Tests whether the worker can stand before failed safety. The suit isolates the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

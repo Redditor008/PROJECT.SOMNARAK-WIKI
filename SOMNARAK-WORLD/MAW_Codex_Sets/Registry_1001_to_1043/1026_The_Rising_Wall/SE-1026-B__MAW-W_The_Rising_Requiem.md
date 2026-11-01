@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Requiem rises with the wall: each strike lifts a measure of the wielder's grief one storey higher and leaves it there. Wielded long, the wielder fights from under an accumulation they cannot step out of.
 
-## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Rising Wall Source-Trace: Weapon Record*
 
-The first The Rising Requiem field bearer encountered this source response: It hardens against aggression. The weapon marks the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rising Requiem encountered this source response: It hardens against aggression. The weapon marks the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

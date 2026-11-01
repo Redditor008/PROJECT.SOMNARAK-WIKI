@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Stigma Record*
 
-The first The Kindness Stone field bearer encountered this source response: Reveals the act that formed the Echo. The stigma contains the immediate hazard only after the team attributed it to Solace. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Kindness Stone encountered this source response: Reveals the act that formed the Echo. The stigma contains the immediate hazard only after the team attributed it to Solace. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

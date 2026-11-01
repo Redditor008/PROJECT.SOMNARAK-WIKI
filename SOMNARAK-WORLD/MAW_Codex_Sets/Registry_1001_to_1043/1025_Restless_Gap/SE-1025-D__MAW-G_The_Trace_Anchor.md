@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Stigma Record*
 
-The first The Trace Anchor field bearer encountered this source response: Shows fragments of the life that was divided. The stigma discharges the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Anchor encountered this source response: Shows fragments of the life that was divided. The stigma discharges the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

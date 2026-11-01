@@ -40,7 +40,7 @@ The Maze formed from confusion between memory, dream, and reality. The fear of n
 
 ## WITNESS RECORD — *The Labyrinth of Stolen Faces Source-Trace*
 
-During the The Labyrinth of Stolen Faces Source-Trace, the field team preserved this source fact: Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The fear of not knowing which parts of one's history are true.
+During *The Labyrinth of Stolen Faces Source-Trace*, the field team preserved this source fact: Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The fear of not knowing which parts of one's history are true.
 
 ## M.A.W. SET — *Labyrinth of Stolen Faces — Witnessed Form*
 

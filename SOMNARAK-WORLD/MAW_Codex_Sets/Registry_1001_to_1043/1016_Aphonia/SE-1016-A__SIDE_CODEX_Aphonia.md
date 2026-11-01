@@ -40,7 +40,7 @@ The Scream formed from pleas for help that no one heard. The despair of screamin
 
 ## WITNESS RECORD — *The Aphonia Source-Trace*
 
-During the The Aphonia Source-Trace, the field team preserved this source fact: Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The despair of screaming until the voice becomes absence.
+During *The Aphonia Source-Trace*, the field team preserved this source fact: Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The despair of screaming until the voice becomes absence.
 
 ## M.A.W. SET — *Aphonia — Witnessed Form*
 

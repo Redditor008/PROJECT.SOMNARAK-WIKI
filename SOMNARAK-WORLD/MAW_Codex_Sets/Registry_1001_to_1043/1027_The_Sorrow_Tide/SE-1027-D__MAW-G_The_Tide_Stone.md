@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** It becomes heavier and emotionally saturated after each use and releases neither: used long, the stone is a small saturated sea the bearer has to carry.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Stigma Record*
 
-The first The Tide Stone field bearer encountered this source response: The Tide reveals grief currents across the city. The stigma severs the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tide Stone encountered this source response: The Tide reveals grief currents across the city. The stigma severs the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

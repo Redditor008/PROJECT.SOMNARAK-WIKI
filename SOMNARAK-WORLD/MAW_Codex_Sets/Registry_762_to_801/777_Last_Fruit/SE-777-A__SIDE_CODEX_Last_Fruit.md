@@ -40,7 +40,7 @@ The entity formed from desire denied until it became anger. The grief of wanting
 
 ## WITNESS RECORD — *The Last Fruit Source-Trace*
 
-During the The Last Fruit Source-Trace, the field team preserved this source fact: A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of wanting something simple and being taught that wanting was shameful.
+During *The Last Fruit Source-Trace*, the field team preserved this source fact: A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of wanting something simple and being taught that wanting was shameful.
 
 ## M.A.W. SET — *Last Fruit — Witnessed Form*
 

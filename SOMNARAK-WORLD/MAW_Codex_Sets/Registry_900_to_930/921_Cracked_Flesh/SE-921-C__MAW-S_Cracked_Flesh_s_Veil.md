@@ -33,7 +33,7 @@ The Suture-Cracked Hauberk is the suit record of the Cracked Flesh set — γ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Suit Record*
 
-The first The Suture-Cracked Hauberk field bearer encountered this source response: Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. The suit isolates the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Suture-Cracked Hauberk encountered this source response: Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. The suit isolates the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

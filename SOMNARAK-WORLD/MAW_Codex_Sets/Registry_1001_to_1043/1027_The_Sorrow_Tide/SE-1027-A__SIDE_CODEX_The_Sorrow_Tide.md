@@ -38,9 +38,9 @@ The Tide is the natural rhythm of a city built on sorrow. The city's collective 
 **Trigger:** Nightfall and accumulated city-wide sorrow.  
 **Resolution:** Impossible; use Tide shelters and shared mourning protocols
 
-## WITNESS RECORD — *The The Sorrow Tide Source-Trace*
+## WITNESS RECORD — *The Sorrow Tide Source-Trace*
 
-During the The The Sorrow Tide Source-Trace, the field team preserved this source fact: Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The city's collective grief suppressed by daylight and released through night.
+During *The Sorrow Tide Source-Trace*, the field team preserved this source fact: Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The city's collective grief suppressed by daylight and released through night.
 
 ## M.A.W. SET — *The Sorrow Tide — Witnessed Form*
 

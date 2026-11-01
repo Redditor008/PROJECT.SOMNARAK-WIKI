@@ -40,7 +40,7 @@ The Judge formed from the sorrow of people subjected to impartial systems that w
 
 ## WITNESS RECORD — *The Gavel Source-Trace*
 
-During the The Gavel Source-Trace, the field team preserved this source fact: Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being measured by rules that refused to understand circumstances.
+During *The Gavel Source-Trace*, the field team preserved this source fact: Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of being measured by rules that refused to understand circumstances.
 
 ## M.A.W. SET — *Gavel — Witnessed Form*
 

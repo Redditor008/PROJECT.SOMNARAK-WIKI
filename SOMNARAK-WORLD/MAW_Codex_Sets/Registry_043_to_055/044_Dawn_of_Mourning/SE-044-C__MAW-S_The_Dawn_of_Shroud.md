@@ -33,7 +33,7 @@ The Dawn of Shroud is a deep-blue shroud of soft Han silk that drapes over the s
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Suit Record*
 
-The first The Dawn of Shroud field bearer encountered this source response: Pins the worker beneath accumulated sorrow. The suit witnesses the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Dawn of Shroud encountered this source response: Pins the worker beneath accumulated sorrow. The suit witnesses the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

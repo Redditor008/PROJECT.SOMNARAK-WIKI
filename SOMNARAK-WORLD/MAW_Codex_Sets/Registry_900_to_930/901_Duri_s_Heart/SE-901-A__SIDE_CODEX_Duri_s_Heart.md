@@ -40,7 +40,7 @@ An Echo (II) Object at Moderate (β) potency, Weight-aligned, held at SECTOR-C-9
 
 ## WITNESS RECORD — *The Duri s Heart Source-Trace*
 
-During the The Duri s Heart Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Duri s Heart Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Duri's Heart — Witnessed Form*
 

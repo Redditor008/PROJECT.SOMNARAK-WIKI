@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Fang strikes where the wielder was hurt: each blow makes their old injuries ache in sympathy with the target's. Wielded long, the wielder cannot tell whose pain started it.
 
-## ITEM-SPECIFIC HISTORY — *The The Wrath Flame Source-Trace: Weapon Record*
+## ITEM-SPECIFIC HISTORY — *The Wrath Flame Source-Trace: Weapon Record*
 
-The first The Rage Fang field bearer encountered this source response: Attacks with concentrated heat. The weapon uncouples the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Fang encountered this source response: Attacks with concentrated heat. The weapon uncouples the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

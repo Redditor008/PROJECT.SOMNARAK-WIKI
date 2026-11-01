@@ -40,7 +40,7 @@ A Sovereign (V) Hazard at Catastrophic (ω) potency, Weight-aligned, registered 
 
 ## WITNESS RECORD — *The Sorrow Mass Source-Trace*
 
-During the The Sorrow Mass Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Sorrow Mass Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Sorrow Mass — Witnessed Form*
 

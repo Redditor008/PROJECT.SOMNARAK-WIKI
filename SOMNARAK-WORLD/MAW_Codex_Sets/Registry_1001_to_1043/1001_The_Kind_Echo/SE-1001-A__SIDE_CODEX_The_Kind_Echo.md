@@ -38,9 +38,9 @@ The Kind Echo formed from the collective comfort the city's first settlers gave 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Complete one full Work Type cycle. Any work type succeeds.
 
-## WITNESS RECORD — *The The Kind Echo Source-Trace*
+## WITNESS RECORD — *The Kind Echo Source-Trace*
 
-During the The The Kind Echo Source-Trace, the field team preserved this source fact: The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not grief, not rage — the Lament of people who cared for each other in the dark. The softest sorrow in the Weeping.
+During *The Kind Echo Source-Trace*, the field team preserved this source fact: The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not grief, not rage — the Lament of people who cared for each other in the dark. The softest sorrow in the Weeping.
 
 ## M.A.W. SET — *The Kind Echo — Witnessed Form*
 

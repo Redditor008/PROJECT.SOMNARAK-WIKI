@@ -40,7 +40,7 @@ The Root formed from a life forced to grow in hostile ground. The grief of belon
 
 ## WITNESS RECORD — *The Uprooted Source-Trace*
 
-During the The Uprooted Source-Trace, the field team preserved this source fact: A Desolate settlement moved repeatedly, leaving its roots and structures behind each time. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of belonging nowhere and building without a place to remain.
+During *The Uprooted Source-Trace*, the field team preserved this source fact: A Desolate settlement moved repeatedly, leaving its roots and structures behind each time. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of belonging nowhere and building without a place to remain.
 
 ## M.A.W. SET — *Uprooted — Witnessed Form*
 

@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Weapon Record*
 
-The first The Gentle Hand field bearer encountered this source response: Confrontation does not deter the Giver of Blessing — she absorbs aggression and converts it into warmth. Each confrontation cycle may trigger a "Refused Blessing" backlash. The weapon discharges the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Gentle Hand encountered this source response: Confrontation does not deter the Giver of Blessing — she absorbs aggression and converts it into warmth. Each confrontation cycle may trigger a "Refused Blessing" backlash. The weapon discharges the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

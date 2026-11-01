@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Stigma Record*
 
-The first The Trace Mark field bearer encountered this source response: Shows the sequence of events that left it. The stigma interrupts the immediate hazard only after the team attributed it to Anger Underfoot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Mark encountered this source response: Shows the sequence of events that left it. The stigma interrupts the immediate hazard only after the team attributed it to Anger Underfoot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

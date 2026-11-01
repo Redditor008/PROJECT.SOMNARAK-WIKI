@@ -33,7 +33,7 @@ The Two Halves Mantle is the suit record of the The Stormscale Sovereign set —
 
 ## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Suit Record*
 
-The first The Two-Halves Mantle field bearer encountered this source response: The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. The suit uncouples the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Two-Halves Mantle encountered this source response: The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. The suit uncouples the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

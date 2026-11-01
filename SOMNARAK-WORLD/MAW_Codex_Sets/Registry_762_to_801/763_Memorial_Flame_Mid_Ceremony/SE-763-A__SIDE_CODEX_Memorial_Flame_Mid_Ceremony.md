@@ -40,7 +40,7 @@ The Flame formed from a fire extinguished before its owner could grieve. The pai
 
 ## WITNESS RECORD — *The Memorial Flame Mid Ceremony Source-Trace*
 
-During the The Memorial Flame Mid Ceremony Source-Trace, the field team preserved this source fact: A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of losing warmth and having someone else's grief enter your body.
+During *The Memorial Flame Mid Ceremony Source-Trace*, the field team preserved this source fact: A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of losing warmth and having someone else's grief enter your body.
 
 ## M.A.W. SET — *Memorial Flame Mid-Ceremony — Witnessed Form*
 

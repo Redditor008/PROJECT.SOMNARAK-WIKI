@@ -32,7 +32,7 @@ The Fissured Skin Stigma is the stigma record of the Cracked Flesh set — head-
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Stigma Record*
 
-The first The Fissured Skin Stigma field bearer encountered this source response: Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. The stigma interrupts the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fissured Skin Stigma encountered this source response: Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. The stigma interrupts the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

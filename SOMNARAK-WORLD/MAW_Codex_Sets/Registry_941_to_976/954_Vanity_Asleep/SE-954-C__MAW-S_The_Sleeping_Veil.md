@@ -33,7 +33,7 @@ The Sleeping Veil is the suit record of the Vanity Asleep set — γ-grade, Void
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Suit Record*
 
-The first The Sleeping Veil field bearer encountered this source response: Remains asleep while the worker waits for the reflection to appear. The suit witnesses the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sleeping Veil encountered this source response: Remains asleep while the worker waits for the reflection to appear. The suit witnesses the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

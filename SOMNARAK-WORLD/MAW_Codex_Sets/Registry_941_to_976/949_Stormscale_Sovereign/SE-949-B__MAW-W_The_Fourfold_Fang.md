@@ -33,7 +33,7 @@ The Fourfold Fang is the weapon record of the The Stormscale Sovereign set — �
 
 ## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Weapon Record*
 
-The first The Fourfold Fang field bearer encountered this source response: It turns the full weather against the source of aggression — the rain, the wind, the weight of the sky; opposition reads to it as the hundred-year flood being blamed on it, which it cannot bear. The weapon severs the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fourfold Fang encountered this source response: It turns the full weather against the source of aggression — the rain, the wind, the weight of the sky; opposition reads to it as the hundred-year flood being blamed on it, which it cannot bear. The weapon severs the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -32,7 +32,7 @@ The Watcher's Petal is the stigma record of the Calling Bloom set — head-slot,
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Stigma Record*
 
-The first The Watcher's Petal field bearer encountered this source response: Studied calmly, the bloom turns its eye on the observer and is, briefly, seen in return — its mimicry laid bare, the way a charm is laid bare when you see the trick of it. The stigma redirects the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Watcher's Petal encountered this source response: Studied calmly, the bloom turns its eye on the observer and is, briefly, seen in return — its mimicry laid bare, the way a charm is laid bare when you see the trick of it. The stigma redirects the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

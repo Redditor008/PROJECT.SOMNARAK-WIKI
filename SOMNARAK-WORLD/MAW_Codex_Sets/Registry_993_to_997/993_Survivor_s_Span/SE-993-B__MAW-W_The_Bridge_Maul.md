@@ -35,7 +35,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Weapon Record*
 
-The first The Bridge Maul field bearer encountered this source response: Broken spans strike the tunnel walls. The weapon witnesses the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Bridge Maul encountered this source response: Broken spans strike the tunnel walls. The weapon witnesses the immediate hazard only after the team attributed it to Survivor's Span. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

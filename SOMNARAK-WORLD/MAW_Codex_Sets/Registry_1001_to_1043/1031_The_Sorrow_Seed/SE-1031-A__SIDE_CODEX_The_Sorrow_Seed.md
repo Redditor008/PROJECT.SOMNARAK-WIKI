@@ -38,9 +38,9 @@ The Seed formed from concentrated grief waiting for a form. Potential sorrow—t
 **Trigger:** Planting in sorrow-rich soil.  
 **Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1031 -->
 
-## WITNESS RECORD — *The The Sorrow Seed Source-Trace*
+## WITNESS RECORD — *The Sorrow Seed Source-Trace*
 
-During the The The Sorrow Seed Source-Trace, the field team preserved this source fact: A grief fragment crystallized in the Echo Gardens and entered dormancy. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Potential sorrow—the fear that pain will become something larger than the person who felt it.
+During *The Sorrow Seed Source-Trace*, the field team preserved this source fact: A grief fragment crystallized in the Echo Gardens and entered dormancy. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Potential sorrow—the fear that pain will become something larger than the person who felt it.
 
 ## M.A.W. SET — *The Sorrow Seed — Witnessed Form*
 

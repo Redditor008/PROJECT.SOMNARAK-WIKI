@@ -32,7 +32,7 @@ The Frozen Fragment is the stigma record of Seething Tundra’s set — head-slo
 
 ## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Stigma Record*
 
-The first The Frozen Fragment field bearer encountered this source response: Reveals the memory embedded in its surface. The stigma redirects the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Fragment encountered this source response: Reveals the memory embedded in its surface. The stigma redirects the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

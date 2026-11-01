@@ -33,7 +33,7 @@ The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, gr
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Suit Record*
 
-The first The Crossing Shroud field bearer encountered this source response: Requires the worker to remain while the sobs subside. The suit stabilizes the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crossing Shroud encountered this source response: Requires the worker to remain while the sobs subside. The suit stabilizes the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

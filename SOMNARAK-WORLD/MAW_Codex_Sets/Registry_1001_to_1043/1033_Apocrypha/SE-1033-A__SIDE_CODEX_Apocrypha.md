@@ -40,7 +40,7 @@ The Relic formed from an object lost before its owner could say farewell. The em
 
 ## WITNESS RECORD — *The Apocrypha Source-Trace*
 
-During the The Apocrypha Source-Trace, the field team preserved this source fact: A traveler froze in the Desolate while carrying a relic no one else could identify. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness of an object whose meaning was never explained.
+During *The Apocrypha Source-Trace*, the field team preserved this source fact: A traveler froze in the Desolate while carrying a relic no one else could identify. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness of an object whose meaning was never explained.
 
 ## M.A.W. SET — *Apocrypha — Witnessed Form*
 

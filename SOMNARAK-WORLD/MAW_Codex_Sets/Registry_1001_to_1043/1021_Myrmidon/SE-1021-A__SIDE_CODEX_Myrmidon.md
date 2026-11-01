@@ -40,7 +40,7 @@ The Soul formed from a person divided by betrayal. The grief of loving someone o
 
 ## WITNESS RECORD — *The Myrmidon Source-Trace*
 
-During the The Myrmidon Source-Trace, the field team preserved this source fact: A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of loving someone or something that became the instrument of one's harm.
+During *The Myrmidon Source-Trace*, the field team preserved this source fact: A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of loving someone or something that became the instrument of one's harm.
 
 ## M.A.W. SET — *Myrmidon — Witnessed Form*
 

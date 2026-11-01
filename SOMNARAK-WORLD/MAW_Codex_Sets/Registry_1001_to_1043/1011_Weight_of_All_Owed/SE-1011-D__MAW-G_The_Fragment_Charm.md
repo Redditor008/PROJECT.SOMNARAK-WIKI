@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Stigma Record*
 
-The first The Fragment Charm field bearer encountered this source response: Reveals the monument's debt history. The stigma witnesses the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fragment Charm encountered this source response: Reveals the monument's debt history. The stigma witnesses the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

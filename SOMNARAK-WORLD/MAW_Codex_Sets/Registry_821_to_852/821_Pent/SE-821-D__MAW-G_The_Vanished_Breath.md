@@ -32,7 +32,7 @@ The Vanished Breath is the stigma record of Pent’s set — tail-slot, bestowed
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Stigma Record*
 
-The first The Vanished Breath field bearer encountered this source response: Reveals the worker and the moment of collapse. The stigma discharges the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Vanished Breath encountered this source response: Reveals the worker and the moment of collapse. The stigma discharges the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

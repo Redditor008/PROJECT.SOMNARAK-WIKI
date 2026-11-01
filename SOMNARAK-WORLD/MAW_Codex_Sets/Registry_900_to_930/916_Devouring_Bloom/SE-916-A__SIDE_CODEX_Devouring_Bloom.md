@@ -40,7 +40,7 @@ The Flower formed from sorrow preserved as weight. The burden of carrying grief 
 
 ## WITNESS RECORD — *The Devouring Bloom Source-Trace*
 
-During the The Devouring Bloom Source-Trace, the field team preserved this source fact: Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of carrying grief until it becomes beautiful but impossible to move.
+During *The Devouring Bloom Source-Trace*, the field team preserved this source fact: Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of carrying grief until it becomes beautiful but impossible to move.
 
 ## M.A.W. SET — *Devouring Bloom — Witnessed Form*
 

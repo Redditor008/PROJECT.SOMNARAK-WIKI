@@ -32,7 +32,7 @@ The Purple Wick Stigma is the stigma record of Memorial Flame Mid-Ceremony’s s
 
 ## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid Ceremony Source-Trace: Stigma Record*
 
-The first The Purple Wick Stigma field bearer encountered this source response: Reveals the memorial and those who tended it. The stigma severs the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Purple Wick Stigma encountered this source response: Reveals the memorial and those who tended it. The stigma severs the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

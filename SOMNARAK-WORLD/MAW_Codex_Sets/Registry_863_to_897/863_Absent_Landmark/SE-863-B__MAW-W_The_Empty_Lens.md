@@ -35,7 +35,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Weapon Record*
 
-The first The Empty Lens field bearer encountered this source response: The ground pulls it downward. The weapon discharges the immediate hazard only after the team attributed it to Absent Landmark. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Empty Lens encountered this source response: The ground pulls it downward. The weapon discharges the immediate hazard only after the team attributed it to Absent Landmark. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -38,9 +38,9 @@ The Flame formed from the rage of the six factions that fought in the Occlusihan
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Bow or salute; acknowledge the war and the dead
 
-## WITNESS RECORD — *The The Wrath Flame Source-Trace*
+## WITNESS RECORD — *The Wrath Flame Source-Trace*
 
-During the The The Wrath Flame Source-Trace, the field team preserved this source fact: The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Fury at a war that consumed lives and left its reason behind.
+During *The Wrath Flame Source-Trace*, the field team preserved this source fact: The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Fury at a war that consumed lives and left its reason behind.
 
 ## M.A.W. SET — *The Wrath Flame — Witnessed Form*
 

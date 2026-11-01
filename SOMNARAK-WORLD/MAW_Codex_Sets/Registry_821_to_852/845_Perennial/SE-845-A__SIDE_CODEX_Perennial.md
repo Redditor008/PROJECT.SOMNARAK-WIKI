@@ -40,7 +40,7 @@ The Flower formed from a place that was repeatedly abandoned. The burden of retu
 
 ## WITNESS RECORD — *The Perennial Source-Trace*
 
-During the The Perennial Source-Trace, the field team preserved this source fact: A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of returning to a location that can no longer return anything to you.
+During *The Perennial Source-Trace*, the field team preserved this source fact: A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of returning to a location that can no longer return anything to you.
 
 ## M.A.W. SET — *Perennial — Witnessed Form*
 

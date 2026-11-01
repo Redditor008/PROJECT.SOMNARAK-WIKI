@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Shroud holds the wearer above the water line: worn, they miss everything that happens below it, including the parts aimed at them. Worn long, they are dry and uninformed.
 
-## ITEM-SPECIFIC HISTORY — *The The Rising Wall Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Rising Wall Source-Trace: Suit Record*
 
-The first The Rising Shroud field bearer encountered this source response: Pushes against the worker until patience wins. The suit witnesses the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rising Shroud encountered this source response: Pushes against the worker until patience wins. The suit witnesses the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

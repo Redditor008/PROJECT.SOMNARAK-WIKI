@@ -40,7 +40,7 @@ The Soul formed from the grief of a friend who was abandoned. The confusion of b
 
 ## WITNESS RECORD — *The Neverlast Source-Trace*
 
-During the The Neverlast Source-Trace, the field team preserved this source fact: A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The confusion of being left without explanation and the longing for acknowledgment.
+During *The Neverlast Source-Trace*, the field team preserved this source fact: A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The confusion of being left without explanation and the longing for acknowledgment.
 
 ## M.A.W. SET — *Neverlast — Witnessed Form*
 

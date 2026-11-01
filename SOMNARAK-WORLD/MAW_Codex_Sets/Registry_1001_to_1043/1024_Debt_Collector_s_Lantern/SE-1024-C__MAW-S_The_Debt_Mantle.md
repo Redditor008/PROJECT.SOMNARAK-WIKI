@@ -30,7 +30,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Debt Collector s Lantern Source-Trace: Suit Record*
 
-The first The Collector's Oilskin Trench-Coat field bearer encountered this source response: Remains beside the worker while the burden is measured. The attire opens the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collector's Oilskin Trench-Coat encountered this source response: Remains beside the worker while the burden is measured. The attire opens the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

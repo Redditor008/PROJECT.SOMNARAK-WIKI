@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Three Forty Seven Source-Trace: Suit Record*
 
-The first The Frozen Mantle field bearer encountered this source response: Tests the worker inside stretched time. The suit marks the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Mantle encountered this source response: Tests the worker inside stretched time. The suit marks the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

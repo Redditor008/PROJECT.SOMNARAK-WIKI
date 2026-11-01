@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Suit Record*
 
-The first The Echo Plate field bearer encountered this source response: Tests whether the worker can remain while the sound burns away. The suit witnesses the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Plate encountered this source response: Tests whether the worker can remain while the sound burns away. The suit witnesses the immediate hazard only after the team attributed it to Heirloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -40,7 +40,7 @@ A Residue (I) Subject at Minor (α) potency, Lament-aligned and tale-shaped, hel
 
 ## WITNESS RECORD — *The Vellum Man Source-Trace*
 
-During the The Vellum Man Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Vellum Man Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Vellum Man — Witnessed Form*
 

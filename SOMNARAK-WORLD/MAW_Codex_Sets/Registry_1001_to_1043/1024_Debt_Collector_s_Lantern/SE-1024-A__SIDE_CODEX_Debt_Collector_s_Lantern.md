@@ -40,7 +40,7 @@ The Lantern formed from the sorrow of collecting from others. The weight of taki
 
 ## WITNESS RECORD — *The Debt Collector s Lantern Source-Trace*
 
-During the The Debt Collector s Lantern Source-Trace, the field team preserved this source fact: A Collector carried a lantern through debtors' homes and began seeing their burdens as light. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of taking payment while knowing the system is unfair.
+During *The Debt Collector s Lantern Source-Trace*, the field team preserved this source fact: A Collector carried a lantern through debtors' homes and began seeing their burdens as light. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The weight of taking payment while knowing the system is unfair.
 
 ## M.A.W. SET — *Debt-Collector's-Lantern — Witnessed Form*
 

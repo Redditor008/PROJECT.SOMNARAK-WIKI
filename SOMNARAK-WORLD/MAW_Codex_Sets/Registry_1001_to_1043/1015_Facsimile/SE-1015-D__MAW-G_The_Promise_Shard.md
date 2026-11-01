@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Stigma Record*
 
-The first The Promise Shard field bearer encountered this source response: Reveals the original promise and its betrayal. The stigma severs the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Shard encountered this source response: Reveals the original promise and its betrayal. The stigma severs the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

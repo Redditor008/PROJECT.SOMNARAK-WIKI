@@ -32,7 +32,7 @@ Petals of milky blue crystal, folded closed and joined at a silver pin: the Dawn
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Stigma Record*
 
-The first The Dawn of Charm field bearer encountered this source response: Sees every hidden guilt in the observer. The stigma isolates the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Dawn of Charm encountered this source response: Sees every hidden guilt in the observer. The stigma isolates the immediate hazard only after the team attributed it to Dawn of Mourning. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

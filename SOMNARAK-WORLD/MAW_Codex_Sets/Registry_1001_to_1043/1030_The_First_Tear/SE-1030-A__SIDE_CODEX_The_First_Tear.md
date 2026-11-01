@@ -38,9 +38,9 @@ The Tear is believed to be the first sorrow ever felt on Mugenhan. The original 
 **Trigger:** None authorized. Touch is forbidden.  
 **Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1030 -->
 
-## WITNESS RECORD — *The The First Tear Source-Trace*
+## WITNESS RECORD — *The First Tear Source-Trace*
 
-During the The The First Tear Source-Trace, the field team preserved this source fact: Unknown. It occurred before Han became structural and before Somnarak existed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The original moment when someone lost something they loved.
+During *The First Tear Source-Trace*, the field team preserved this source fact: Unknown. It occurred before Han became structural and before Somnarak existed. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The original moment when someone lost something they loved.
 
 ## M.A.W. SET — *The First Tear — Witnessed Form*
 

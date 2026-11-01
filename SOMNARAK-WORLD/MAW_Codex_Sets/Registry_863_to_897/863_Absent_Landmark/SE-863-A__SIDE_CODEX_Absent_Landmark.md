@@ -40,7 +40,7 @@ The Tower formed from a structure that became a person only after it was lost. T
 
 ## WITNESS RECORD — *The Absent Landmark Source-Trace*
 
-During the The Absent Landmark Source-Trace, the field team preserved this source fact: An Old Lament tower collapsed and was cleared, but the district continued looking for its shape. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness left when a familiar landmark disappears.
+During *The Absent Landmark Source-Trace*, the field team preserved this source fact: An Old Lament tower collapsed and was cleared, but the district continued looking for its shape. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The emptiness left when a familiar landmark disappears.
 
 ## M.A.W. SET — *Absent Landmark — Witnessed Form*
 

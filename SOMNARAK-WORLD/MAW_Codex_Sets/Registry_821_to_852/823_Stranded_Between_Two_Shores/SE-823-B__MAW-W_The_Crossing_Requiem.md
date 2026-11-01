@@ -33,7 +33,7 @@ The Crossing Requiem is the weapon record of Stranded Between Two Shores’ set,
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Weapon Record*
 
-The first The Crossing Requiem field bearer encountered this source response: The bridge cracks and the tunnel fills with tears. The weapon opens the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crossing Requiem encountered this source response: The bridge cracks and the tunnel fills with tears. The weapon opens the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

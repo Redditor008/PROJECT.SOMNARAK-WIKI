@@ -33,7 +33,7 @@ The Fading Fang is the weapon record of Flotsam’s set, a Grudge instrument att
 
 ## ITEM-SPECIFIC HISTORY — *The Flotsam Source-Trace: Weapon Record*
 
-The first The Fading Fang field bearer encountered this source response: Heat spreads across nearby objects. The weapon redirects the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Fang encountered this source response: Heat spreads across nearby objects. The weapon redirects the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

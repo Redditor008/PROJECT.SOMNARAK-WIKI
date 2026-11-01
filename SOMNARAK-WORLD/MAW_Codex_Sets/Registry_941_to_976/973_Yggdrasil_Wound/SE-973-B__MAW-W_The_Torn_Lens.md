@@ -35,7 +35,7 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 ## ITEM-SPECIFIC HISTORY — *The Yggdrasil Wound Source-Trace: Weapon Record*
 
-The first The Torn Lens field bearer encountered this source response: The tree tears further through the worker's thoughts. The weapon severs the immediate hazard only after the team attributed it to Yggdrasil Wound. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Lens encountered this source response: The tree tears further through the worker's thoughts. The weapon severs the immediate hazard only after the team attributed it to Yggdrasil Wound. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

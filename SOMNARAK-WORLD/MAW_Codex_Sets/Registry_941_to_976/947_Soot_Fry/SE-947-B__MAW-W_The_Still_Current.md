@@ -33,7 +33,7 @@ The Still Current is the weapon record of the Soot Fry set — β-grade, Weight-
 
 ## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Weapon Record*
 
-The first The Still Current field bearer encountered this source response: It recoils into the deep of the puddle and the water blackens; aggression reads to it as something being withheld — food, or a name it cannot remember. The weapon discharges the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Still Current encountered this source response: It recoils into the deep of the puddle and the water blackens; aggression reads to it as something being withheld — food, or a name it cannot remember. The weapon discharges the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

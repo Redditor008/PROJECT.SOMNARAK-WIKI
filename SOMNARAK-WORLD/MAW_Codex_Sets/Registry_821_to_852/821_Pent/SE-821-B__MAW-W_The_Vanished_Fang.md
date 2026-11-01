@@ -35,7 +35,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Weapon Record*
 
-The first The Vanished Fang field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Vanished Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

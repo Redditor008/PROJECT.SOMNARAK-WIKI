@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Mourner s Bloom Source-Trace: Suit Record*
 
-The first The Sorrow Shroud field bearer encountered this source response: Blooms slowly beside a patient worker. The suit interrupts the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sorrow Shroud encountered this source response: Blooms slowly beside a patient worker. The suit interrupts the immediate hazard only after the team attributed it to Mourner's Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

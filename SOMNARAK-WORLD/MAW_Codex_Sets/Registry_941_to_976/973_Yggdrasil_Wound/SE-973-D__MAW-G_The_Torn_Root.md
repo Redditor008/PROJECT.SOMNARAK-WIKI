@@ -32,7 +32,7 @@ The Torn Root is the stigma record of the Yggdrasil Wound set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Yggdrasil Wound Source-Trace: Stigma Record*
 
-The first The Torn Root field bearer encountered this source response: Shows the memory held on each side of the split. The stigma opens the immediate hazard only after the team attributed it to Yggdrasil Wound. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Root encountered this source response: Shows the memory held on each side of the split. The stigma opens the immediate hazard only after the team attributed it to Yggdrasil Wound. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

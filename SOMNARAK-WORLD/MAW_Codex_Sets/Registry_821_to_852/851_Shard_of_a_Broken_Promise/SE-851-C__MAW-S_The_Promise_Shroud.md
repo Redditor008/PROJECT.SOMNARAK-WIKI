@@ -33,7 +33,7 @@ The Promise Shroud is the suit record of the Shard of a Broken Promise’s set, 
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Suit Record*
 
-The first The Promise Shroud field bearer encountered this source response: Tests whether the worker can remain without repairing it. The suit redirects the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Shroud encountered this source response: Tests whether the worker can remain without repairing it. The suit redirects the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

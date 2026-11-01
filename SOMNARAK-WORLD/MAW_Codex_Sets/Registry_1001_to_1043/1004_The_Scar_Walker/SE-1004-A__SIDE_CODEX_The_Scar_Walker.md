@@ -38,9 +38,9 @@ The Walker formed from the collective rage of the six factions that fought in th
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Show respect, salute its duty, and acknowledge its sacrifice
 
-## WITNESS RECORD — *The The Scar Walker Source-Trace*
+## WITNESS RECORD — *The Scar Walker Source-Trace*
 
-During the The The Scar Walker Source-Trace, the field team preserved this source fact: Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Fury over a war that destroyed lives and left its dead without meaningful remembrance.
+During *The Scar Walker Source-Trace*, the field team preserved this source fact: Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Fury over a war that destroyed lives and left its dead without meaningful remembrance.
 
 ## M.A.W. SET — *The Scar Walker — Witnessed Form*
 

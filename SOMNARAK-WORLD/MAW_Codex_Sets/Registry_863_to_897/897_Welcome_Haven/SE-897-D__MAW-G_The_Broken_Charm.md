@@ -32,7 +32,7 @@ The Broken Charm is the stigma record of Welcome Haven’s set — tail-slot, be
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Stigma Record*
 
-The first The Broken Charm field bearer encountered this source response: Reveals what the wall failed to protect. The stigma interrupts the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Broken Charm encountered this source response: Reveals what the wall failed to protect. The stigma interrupts the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

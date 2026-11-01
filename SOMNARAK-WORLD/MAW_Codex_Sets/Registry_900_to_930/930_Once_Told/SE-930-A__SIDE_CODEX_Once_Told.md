@@ -40,7 +40,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Lament-aligned, held at SECTOR-O
 
 ## WITNESS RECORD — *The Once Told Source-Trace*
 
-During the The Once Told Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Once Told Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Once Told — Witnessed Form*
 

@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Suit Record*
 
-The first The Crying Shroud field bearer encountered this source response: Follows the worker until they can endure the sound. The suit marks the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crying Shroud encountered this source response: Follows the worker until they can endure the sound. The suit marks the immediate hazard only after the team attributed it to Keen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

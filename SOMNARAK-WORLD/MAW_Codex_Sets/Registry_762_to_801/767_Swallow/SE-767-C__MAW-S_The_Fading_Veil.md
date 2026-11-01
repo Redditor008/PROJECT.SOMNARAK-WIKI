@@ -33,7 +33,7 @@ The Fading Veil is the suit record of Swallow’s set, and its canonical ability
 
 ## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Suit Record*
 
-The first The Fading Veil field bearer encountered this source response: Tests whether the worker can carry grief without claiming it. The suit redirects the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Veil encountered this source response: Tests whether the worker can carry grief without claiming it. The suit redirects the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

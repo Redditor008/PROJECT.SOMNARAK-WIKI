@@ -32,7 +32,7 @@ The Listening Vial is the stigma record of the Well of Unfinished Words’ set �
 
 ## ITEM-SPECIFIC HISTORY — *The Well of Unfinished Words Source-Trace: Stigma Record*
 
-The first The Listening Vial field bearer encountered this source response: Reveals the grief embedded in the water. The stigma uncouples the immediate hazard only after the team attributed it to Well of Unfinished Words. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Listening Vial encountered this source response: Reveals the grief embedded in the water. The stigma uncouples the immediate hazard only after the team attributed it to Well of Unfinished Words. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -40,7 +40,7 @@ The Tree formed from a mind divided by loss. The grief of a person whose identit
 
 ## WITNESS RECORD — *The Yggdrasil Wound Source-Trace*
 
-During the The Yggdrasil Wound Source-Trace, the field team preserved this source fact: A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a person whose identity split around an event they could not survive remembering.
+During *The Yggdrasil Wound Source-Trace*, the field team preserved this source fact: A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a person whose identity split around an event they could not survive remembering.
 
 ## M.A.W. SET — *Yggdrasil Wound — Witnessed Form*
 

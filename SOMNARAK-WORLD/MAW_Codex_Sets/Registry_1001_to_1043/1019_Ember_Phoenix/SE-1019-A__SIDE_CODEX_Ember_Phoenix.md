@@ -40,7 +40,7 @@ The Phoenix formed from survival that became another kind of death. The burden o
 
 ## WITNESS RECORD — *The Ember Phoenix Source-Trace*
 
-During the The Ember Phoenix Source-Trace, the field team preserved this source fact: A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of having to rise again when no one asks whether you are ready.
+During *The Ember Phoenix Source-Trace*, the field team preserved this source fact: A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of having to rise again when no one asks whether you are ready.
 
 ## M.A.W. SET — *Ember Phoenix — Witnessed Form*
 

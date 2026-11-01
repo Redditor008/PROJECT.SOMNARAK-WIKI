@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Weapon Record*
 
-The first The Echo Lens field bearer encountered this source response: The call becomes distant but does not stop. The weapon stays the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Lens encountered this source response: The call becomes distant but does not stop. The weapon stays the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

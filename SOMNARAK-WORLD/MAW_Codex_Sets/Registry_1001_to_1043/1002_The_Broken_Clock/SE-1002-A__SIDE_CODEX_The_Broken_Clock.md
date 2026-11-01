@@ -38,9 +38,9 @@ The Clock formed from the city's frustration with the repeating time loop of Yea
 **Trigger:** Proximity, direct contact, or hostile intent.  
 **Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-044 -->
 
-## WITNESS RECORD — *The The Broken Clock Source-Trace*
+## WITNESS RECORD — *The Broken Clock Source-Trace*
 
-During the The The Broken Clock Source-Trace, the field team preserved this source fact: The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of promises trapped in repetition and time that cannot progress.
+During *The Broken Clock Source-Trace*, the field team preserved this source fact: The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of promises trapped in repetition and time that cannot progress.
 
 ## M.A.W. SET — *The Broken Clock — Witnessed Form*
 

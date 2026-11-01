@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Stigma Record*
 
-The first The Unmelting Teardrop Brooch field bearer encountered this source response: Reveals the instant the tear crystallized. The stigma contains the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Unmelting Teardrop Brooch encountered this source response: Reveals the instant the tear crystallized. The stigma contains the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

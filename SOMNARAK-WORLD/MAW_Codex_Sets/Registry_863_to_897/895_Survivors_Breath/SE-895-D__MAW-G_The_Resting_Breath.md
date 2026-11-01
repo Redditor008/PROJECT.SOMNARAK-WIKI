@@ -32,7 +32,7 @@ The Resting Breath is the stigma record of Survivors’ Breath’s set — head-
 
 ## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Stigma Record*
 
-The first The Resting Breath field bearer encountered this source response: Reveals the crises that produced each breath. The stigma severs the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Breath encountered this source response: Reveals the crises that produced each breath. The stigma severs the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

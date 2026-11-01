@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Weapon Record*
 
-The first The Glacial Tear-Mirror field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Glacial Tear-Mirror encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

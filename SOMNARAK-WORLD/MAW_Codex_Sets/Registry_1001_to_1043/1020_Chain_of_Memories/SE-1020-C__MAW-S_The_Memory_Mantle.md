@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Suit Record*
 
-The first The Memory Mantle field bearer encountered this source response: Tests whether the worker can carry shared history. The suit interrupts the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Memory Mantle encountered this source response: Tests whether the worker can carry shared history. The suit interrupts the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

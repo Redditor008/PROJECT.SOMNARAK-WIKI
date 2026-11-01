@@ -40,7 +40,7 @@ The Sigh formed from a breath erased before it could be released. The grief of e
 
 ## WITNESS RECORD — *The Pent Source-Trace*
 
-During the The Pent Source-Trace, the field team preserved this source fact: A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of exhaustion denied until even relief disappears.
+During *The Pent Source-Trace*, the field team preserved this source fact: A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of exhaustion denied until even relief disappears.
 
 ## M.A.W. SET — *Pent — Witnessed Form*
 

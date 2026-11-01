@@ -32,7 +32,7 @@ The Promise Shard is the stigma record of the Shard of a Broken Promise’s set 
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Stigma Record*
 
-The first The Promise Shard field bearer encountered this source response: Shows the promise and the moment it failed. The stigma stays the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Shard encountered this source response: Shows the promise and the moment it failed. The stigma stays the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -33,7 +33,7 @@ The Listening Shroud is the suit record of the Well of Unfinished Words’ set, 
 
 ## ITEM-SPECIFIC HISTORY — *The Well of Unfinished Words Source-Trace: Suit Record*
 
-The first The Listening Shroud field bearer encountered this source response: Requires the worker to remain and listen without interruption. The suit severs the immediate hazard only after the team attributed it to Well of Unfinished Words. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Listening Shroud encountered this source response: Requires the worker to remain and listen without interruption. The suit severs the immediate hazard only after the team attributed it to Well of Unfinished Words. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

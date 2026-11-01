@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Weapon Record*
 
-The first The Iron Verdict field bearer encountered this source response: Treats aggression as guilt. The weapon marks the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Iron Verdict encountered this source response: Treats aggression as guilt. The weapon marks the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

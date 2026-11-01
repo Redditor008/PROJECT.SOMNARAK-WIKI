@@ -40,7 +40,7 @@ The Tower formed from a structure that was never completed. The grief of a futur
 
 ## WITNESS RECORD — *The Cleaved Source-Trace*
 
-During the The Cleaved Source-Trace, the field team preserved this source fact: A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a future promised by architecture but never built.
+During *The Cleaved Source-Trace*, the field team preserved this source fact: A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a future promised by architecture but never built.
 
 ## M.A.W. SET — *Cleaved — Witnessed Form*
 

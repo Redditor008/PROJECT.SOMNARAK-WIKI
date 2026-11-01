@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Suit Record*
 
-The first The Frost-Veiled Mourning Gown field bearer encountered this source response: Tests whether the worker can sit beside grief without touching it. The suit stays the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frost-Veiled Mourning Gown encountered this source response: Tests whether the worker can sit beside grief without touching it. The suit stays the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

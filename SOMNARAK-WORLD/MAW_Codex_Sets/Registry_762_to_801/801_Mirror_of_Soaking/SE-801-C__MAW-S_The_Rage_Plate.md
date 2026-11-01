@@ -33,7 +33,7 @@ The Rage Plate is the suit record of the Mirror of Soaking’s set, granting res
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Suit Record*
 
-The first The Rage Plate field bearer encountered this source response: Forces the worker to remain before their own rage. The suit isolates the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Plate encountered this source response: Forces the worker to remain before their own rage. The suit isolates the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -40,7 +40,7 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 
 ## WITNESS RECORD — *The Foam Flood Source-Trace*
 
-During the The Foam Flood Source-Trace, the field team preserved this source fact: Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a shape carved for flight that has never flown. The dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise.
+During *The Foam Flood Source-Trace*, the field team preserved this source fact: Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a shape carved for flight that has never flown. The dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise.
 
 ## M.A.W. SET — *The Foam Flood — Witnessed Form*
 

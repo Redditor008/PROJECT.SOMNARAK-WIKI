@@ -33,7 +33,7 @@ The Resting Veil is the suit record of Survivors’ Breath’s set, granting res
 
 ## ITEM-SPECIFIC HISTORY — *The Survivors Breath Source-Trace: Suit Record*
 
-The first The Resting Veil field bearer encountered this source response: Tests whether the worker can rest without abandoning duty. The suit stabilizes the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Veil encountered this source response: Tests whether the worker can rest without abandoning duty. The suit stabilizes the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

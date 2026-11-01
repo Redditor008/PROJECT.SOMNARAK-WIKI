@@ -33,7 +33,7 @@ The Vanished Plate of Pent’s set grants resistance to Grudge damage, protectin
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Suit Record*
 
-The first The Vanished Plate field bearer encountered this source response: Tests whether personnel can rest without shame. The suit contains the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Vanished Plate encountered this source response: Tests whether personnel can rest without shame. The suit contains the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

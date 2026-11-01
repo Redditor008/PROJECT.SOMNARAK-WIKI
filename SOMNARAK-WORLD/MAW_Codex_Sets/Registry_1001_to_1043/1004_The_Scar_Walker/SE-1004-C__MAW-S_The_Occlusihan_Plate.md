@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Plate hardens a judgement into armour: while worn, the wearer cannot revise a first verdict, and the body moves with the certainty of somebody who has already decided. Worn long, they cannot be talked out of anything.
 
-## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Scar Walker Source-Trace: Suit Record*
 
-The first The Occlusihan Plate field bearer encountered this source response: Follows and tests the visitor's resolve without striking if respect is maintained. The suit discharges the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Occlusihan Plate encountered this source response: Follows and tests the visitor's resolve without striking if respect is maintained. The suit discharges the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

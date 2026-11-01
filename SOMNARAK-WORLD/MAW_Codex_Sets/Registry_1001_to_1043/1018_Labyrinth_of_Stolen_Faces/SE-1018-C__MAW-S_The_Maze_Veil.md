@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Suit Record*
 
-The first The Maze Veil field bearer encountered this source response: Tests whether the worker can continue without a stable map. The suit severs the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Maze Veil encountered this source response: Tests whether the worker can continue without a stable map. The suit severs the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

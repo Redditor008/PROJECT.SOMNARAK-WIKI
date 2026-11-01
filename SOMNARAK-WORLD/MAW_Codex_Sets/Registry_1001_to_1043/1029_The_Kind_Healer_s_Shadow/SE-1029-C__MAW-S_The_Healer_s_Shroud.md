@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Shroud keeps the small joys out the way a ward keeps the draft out: nothing pleasant gets under it, and the ones it lets through arrive already thinned. Worn long, only the wounds still arrive.
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Healer s Shadow Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Kind Healer s Shadow Source-Trace: Suit Record*
 
-The first The Healer's Shroud field bearer encountered this source response: Heals slowly and patiently near the worker. The suit isolates the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Healer's Shroud encountered this source response: Heals slowly and patiently near the worker. The suit isolates the immediate hazard only after the team attributed it to The Kind Healer's Shadow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

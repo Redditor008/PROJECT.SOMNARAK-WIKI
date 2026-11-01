@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** The wielder experiences the Occlusihan's fury as if it were their own. The fury stays after the fight and settles on whoever is nearest.
 
-## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Scar Walker Source-Trace: Stigma Record*
 
-The first The Occlusihan Blade field bearer encountered this source response: Watches the observer, allowing study from a respectful distance. The stigma redirects the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Occlusihan Blade encountered this source response: Watches the observer, allowing study from a respectful distance. The stigma redirects the immediate hazard only after the team attributed it to The Scar Walker. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

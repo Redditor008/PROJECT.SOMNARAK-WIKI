@@ -33,7 +33,7 @@ The Empty Veil of Absent Landmark’s set grants resistance to Void damage, prot
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Suit Record*
 
-The first The Empty Veil field bearer encountered this source response: Tests whether the worker can remain before an absence. The suit redirects the immediate hazard only after the team attributed it to Absent Landmark. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Empty Veil encountered this source response: Tests whether the worker can remain before an absence. The suit redirects the immediate hazard only after the team attributed it to Absent Landmark. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

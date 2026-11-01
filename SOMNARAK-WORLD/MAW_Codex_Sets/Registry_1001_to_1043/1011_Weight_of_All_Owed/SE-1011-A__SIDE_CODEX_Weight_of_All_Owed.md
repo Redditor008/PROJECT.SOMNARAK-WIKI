@@ -40,7 +40,7 @@ The Fragment formed from a monument broken by accumulated obligation. The burden
 
 ## WITNESS RECORD — *The Weight of All Owed Source-Trace*
 
-During the The Weight of All Owed Source-Trace, the field team preserved this source fact: A border monument commemorating generations of debt was shattered during an uprising; one fragment remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of history condensed into one piece too heavy to move.
+During *The Weight of All Owed Source-Trace*, the field team preserved this source fact: A border monument commemorating generations of debt was shattered during an uprising; one fragment remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of history condensed into one piece too heavy to move.
 
 ## M.A.W. SET — *Weight of All Owed — Witnessed Form*
 

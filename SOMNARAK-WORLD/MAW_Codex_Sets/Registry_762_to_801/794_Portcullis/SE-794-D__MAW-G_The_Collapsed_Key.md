@@ -32,7 +32,7 @@ The Collapsed Key is the stigma record of Portcullis’ set — tail-slot, besto
 
 ## ITEM-SPECIFIC HISTORY — *The Portcullis Source-Trace: Stigma Record*
 
-The first The Collapsed Key field bearer encountered this source response: Reveals the people and route beyond the door. The stigma contains the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collapsed Key encountered this source response: Reveals the people and route beyond the door. The stigma contains the immediate hazard only after the team attributed it to Portcullis. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

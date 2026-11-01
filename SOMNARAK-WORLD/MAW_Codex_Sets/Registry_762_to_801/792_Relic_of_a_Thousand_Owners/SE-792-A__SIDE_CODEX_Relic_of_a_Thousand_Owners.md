@@ -40,7 +40,7 @@ The Relic formed from an object carried through many exiles. The grief of surviv
 
 ## WITNESS RECORD — *The Relic of a Thousand Owners Source-Trace*
 
-During the The Relic of a Thousand Owners Source-Trace, the field team preserved this source fact: A relic passed from one exile to another until its history became a wandering figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of surviving every owner and belonging to none.
+During *The Relic of a Thousand Owners Source-Trace*, the field team preserved this source fact: A relic passed from one exile to another until its history became a wandering figure. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of surviving every owner and belonging to none.
 
 ## M.A.W. SET — *Relic of a Thousand Owners — Witnessed Form*
 

@@ -32,7 +32,7 @@ The Black Drop is the stigma record of the Soot Fry set — hand-slot, bestowed 
 
 ## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Stigma Record*
 
-The first The Black Drop field bearer encountered this source response: Studied calmly, the silhouette holds still and the full body can be mapped without a lunge; the eye watches, and watches, and watches. The stigma stays the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Black Drop encountered this source response: Studied calmly, the silhouette holds still and the full body can be mapped without a lunge; the eye watches, and watches, and watches. The stigma stays the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -40,7 +40,7 @@ An Entity (IV) Time at Critical (δ) potency, Void-aligned, mind-manifesting, he
 
 ## WITNESS RECORD — *The Ninety Seconds Source-Trace*
 
-During the The Ninety Seconds Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Ninety Seconds Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Ninety Seconds — Witnessed Form*
 

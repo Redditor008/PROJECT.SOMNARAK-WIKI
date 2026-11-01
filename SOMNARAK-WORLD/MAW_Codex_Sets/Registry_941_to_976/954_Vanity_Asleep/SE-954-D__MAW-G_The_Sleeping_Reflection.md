@@ -32,7 +32,7 @@ The Sleeping Reflection is the stigma record of the Vanity Asleep set — head-s
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Stigma Record*
 
-The first The Sleeping Reflection field bearer encountered this source response: Reveals a truth the worker has avoided. The stigma isolates the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sleeping Reflection encountered this source response: Reveals a truth the worker has avoided. The stigma isolates the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

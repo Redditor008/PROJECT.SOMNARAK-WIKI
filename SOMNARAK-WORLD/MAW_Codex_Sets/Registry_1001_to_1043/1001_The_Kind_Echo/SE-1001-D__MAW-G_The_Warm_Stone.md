@@ -26,9 +26,9 @@
 
 **Operational / binding cost:** None. The entity gives freely, which is the cost: a specialist who has carried one for a decade trusts the warmth and stops reading the gauge.
 
-## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Stigma Record*
+## ITEM-SPECIFIC HISTORY — *The Kind Echo Source-Trace: Stigma Record*
 
-The first The Warm Stone field bearer encountered this source response: The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. The stigma discharges the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Warm Stone encountered this source response: The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. The stigma discharges the immediate hazard only after the team attributed it to The Kind Echo. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -32,7 +32,7 @@ The Fading Charm is the stigma record of Swallow’s set — tail-slot, bestowed
 
 ## ITEM-SPECIFIC HISTORY — *The Swallow Source-Trace: Stigma Record*
 
-The first The Fading Charm field bearer encountered this source response: Reveals the people whose sorrow feeds it. The stigma stays the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fading Charm encountered this source response: Reveals the people whose sorrow feeds it. The stigma stays the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

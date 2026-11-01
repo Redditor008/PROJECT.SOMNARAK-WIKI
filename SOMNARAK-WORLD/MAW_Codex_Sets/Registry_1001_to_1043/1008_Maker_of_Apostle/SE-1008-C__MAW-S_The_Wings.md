@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Suit Record*
 
-The first The Wings field bearer encountered this source response: Enduring the Maker of Apostle's presence without acting is the only non-confrontational option. Each turn endured without triggering conversion allows one more turn of monitoring. The suit interrupts the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Wings encountered this source response: Enduring the Maker of Apostle's presence without acting is the only non-confrontational option. Each turn endured without triggering conversion allows one more turn of monitoring. The suit interrupts the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

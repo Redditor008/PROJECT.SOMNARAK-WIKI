@@ -40,7 +40,7 @@ The Shard formed from a promise broken while the promised object remained intact
 
 ## WITNESS RECORD — *The Shard of a Broken Promise Source-Trace*
 
-During the The Shard of a Broken Promise Source-Trace, the field team preserved this source fact: An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of trusting words more than circumstances.
+During *The Shard of a Broken Promise Source-Trace*, the field team preserved this source fact: An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The pain of trusting words more than circumstances.
 
 ## M.A.W. SET — *Shard of a Broken Promise — Witnessed Form*
 

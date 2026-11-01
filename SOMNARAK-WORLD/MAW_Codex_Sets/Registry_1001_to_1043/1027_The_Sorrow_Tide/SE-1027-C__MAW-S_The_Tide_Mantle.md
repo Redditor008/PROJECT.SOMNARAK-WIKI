@@ -27,9 +27,9 @@
 
 **Operational / binding cost:** The Mantle lets the tide through in measured amounts: worn, each hour costs the wearer a little of their standing. Worn long, they live permanently at the waterline.
 
-## ITEM-SPECIFIC HISTORY — *The The Sorrow Tide Source-Trace: Suit Record*
+## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Suit Record*
 
-The first The Tide Mantle field bearer encountered this source response: Personnel endure the wave until dawn. The suit stabilizes the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tide Mantle encountered this source response: Personnel endure the wave until dawn. The suit stabilizes the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

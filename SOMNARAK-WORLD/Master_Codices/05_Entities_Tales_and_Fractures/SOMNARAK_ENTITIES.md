@@ -119,7 +119,7 @@ The mother who lost them is still alive — it lives in the Echo Gardens, visiti
 | **3** | The Apostle Maker | `III-γ-071` | 12 personnel receive blessings — they become "Apostles" | Danger rises — Rank III Fragment level |
 | **4** | **The Dawn of Mourning** | `V-Ω-001` | 12th blessing completes — entity transforms | **CATASTROPHIC** — Ω level |
 
-**The The Dawn of Mourning** is the most dangerous entity in Somnarak's history. It appears as a divine figure — wings of sorrow, crown of Han-crystal, voice of a thousand weeping. It does not attack directly. It **judges** — and its judgment is always **crucifixion**.
+**The Dawn of Mourning** is the most dangerous entity in Somnarak's history. It appears as a divine figure — wings of sorrow, crown of Han-crystal, voice of a thousand weeping. It does not attack directly. It **judges** — and its judgment is always **crucifixion**.
 
 **How to prevent:**
 - Do not allow the entity to bless more than 11 personnel

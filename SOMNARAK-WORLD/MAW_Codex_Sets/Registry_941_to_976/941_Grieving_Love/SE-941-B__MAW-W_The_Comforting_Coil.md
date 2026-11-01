@@ -33,7 +33,7 @@ The Comforting Coil is the weapon record of the Grieving Love set — β-grade, 
 
 ## ITEM-SPECIFIC HISTORY — *The Grieving Love Source-Trace: Weapon Record*
 
-The first The Comforting Coil field bearer encountered this source response: She flinches and recoils, the slime roiling; aggression reads to her as rejection, the one thing she cannot bear. The weapon stays the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Comforting Coil encountered this source response: She flinches and recoils, the slime roiling; aggression reads to her as rejection, the one thing she cannot bear. The weapon stays the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -33,7 +33,7 @@ The Gilded Shroud is the suit record of the Blackened Angel set — γ-grade, We
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Suit Record*
 
-The first The Gilded Shroud field bearer encountered this source response: The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. The suit severs the immediate hazard only after the team attributed it to Blackened Angel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Gilded Shroud encountered this source response: The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. The suit severs the immediate hazard only after the team attributed it to Blackened Angel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

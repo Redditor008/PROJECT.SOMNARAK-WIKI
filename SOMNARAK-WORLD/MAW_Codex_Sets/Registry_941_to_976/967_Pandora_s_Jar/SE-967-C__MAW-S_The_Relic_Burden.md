@@ -33,7 +33,7 @@ The Relic Burden is the suit record of the Pandora's Jar set — δ-grade, Weigh
 
 ## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Suit Record*
 
-The first The Relic Burden field bearer encountered this source response: Tests the worker beneath increasing heat. The suit stabilizes the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Relic Burden encountered this source response: Tests the worker beneath increasing heat. The suit stabilizes the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

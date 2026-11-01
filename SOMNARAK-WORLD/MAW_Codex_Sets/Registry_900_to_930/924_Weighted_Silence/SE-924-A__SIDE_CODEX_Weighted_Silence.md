@@ -40,7 +40,7 @@ A Fragment (III) Hazard at Major (γ) potency, Void-aligned, held at SECTOR-O-92
 
 ## WITNESS RECORD — *The Weighted Silence Source-Trace*
 
-During the The Weighted Silence Source-Trace, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Weighted Silence Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
 
 ## M.A.W. SET — *Weighted Silence — Witnessed Form*
 

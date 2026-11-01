@@ -33,7 +33,7 @@ The Mourner's Film is the suit record of the Grieving Love set — β-grade, Lam
 
 ## ITEM-SPECIFIC HISTORY — *The Grieving Love Source-Trace: Suit Record*
 
-The first The Mourner's Film field bearer encountered this source response: The worker endures her cold, clinging field without pulling away; she calms, comforted that someone did not leave. The suit contains the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Mourner's Film encountered this source response: The worker endures her cold, clinging field without pulling away; she calms, comforted that someone did not leave. The suit contains the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

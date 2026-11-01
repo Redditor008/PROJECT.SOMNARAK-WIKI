@@ -40,7 +40,7 @@ The Door formed from a passage closed before someone could leave. The burden of 
 
 ## WITNESS RECORD — *The Portcullis Source-Trace*
 
-During the The Portcullis Source-Trace, the field team preserved this source fact: A tunnel collapse sealed a door while people were still on both sides of it. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of being trapped at the moment of departure.
+During *The Portcullis Source-Trace*, the field team preserved this source fact: A tunnel collapse sealed a door while people were still on both sides of it. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The burden of being trapped at the moment of departure.
 
 ## M.A.W. SET — *Portcullis — Witnessed Form*
 

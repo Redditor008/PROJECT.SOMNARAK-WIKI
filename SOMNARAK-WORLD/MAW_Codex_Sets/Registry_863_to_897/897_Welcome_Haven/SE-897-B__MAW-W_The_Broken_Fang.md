@@ -35,7 +35,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Weapon Record*
 
-The first The Broken Fang field bearer encountered this source response: Attacks with burning fragments. The weapon witnesses the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Broken Fang encountered this source response: Attacks with burning fragments. The weapon witnesses the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
