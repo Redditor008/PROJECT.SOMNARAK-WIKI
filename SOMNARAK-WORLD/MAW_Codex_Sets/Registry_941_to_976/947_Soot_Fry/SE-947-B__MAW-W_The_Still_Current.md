@@ -33,12 +33,12 @@ The Still Current is the weapon record of the Soot Fry set — β-grade, Weight-
 
 ## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Weapon Record*
 
-The first bearer of The Still Current encountered this source response: It recoils into the deep of the puddle and the water blackens; aggression reads to it as something being withheld — food, or a name it cannot remember. The weapon discharges the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Still Current encountered this source response: It recoils into the deep of the puddle and the water blackens; aggression reads to it as something being withheld — food, or a name it cannot remember. The weapon discharges the immediate hazard only after the team attributed it to The Soot Fry. A wielder sat down at a bank to remember how to breathe and could not say afterwards why they had stopped, and the Current’s binding is the note taken there.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Soot Fry's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the water arrives in rooms with no water in them, and the wielder sits down mid-shift.
 - Terminal state: Soot Fry's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Still Current encountered this source response: It recoi
 
 ## SET RELATIONSHIP
 
-Within *The Soot Fry — Witnessed Form*, The Still Current performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Soot Fry — Witnessed Form*, The Still Current performs the weapon role while the other pieces preserve attribution and survival. The Current leaves the set on a breath its wielder takes without thinking about it.
 
 ---
 

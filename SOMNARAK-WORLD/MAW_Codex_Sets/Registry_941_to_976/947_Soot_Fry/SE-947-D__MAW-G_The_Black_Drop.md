@@ -32,12 +32,12 @@ The Black Drop is the stigma record of the Soot Fry set — hand-slot, bestowed 
 
 ## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Stigma Record*
 
-The first bearer of The Black Drop encountered this source response: Studied calmly, the silhouette holds still and the full body can be mapped without a lunge; the eye watches, and watches, and watches. The stigma stays the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Black Drop encountered this source response: Studied calmly, the silhouette holds still and the full body can be mapped without a lunge; the eye watches, and watches, and watches. The stigma stays the immediate hazard only after the team attributed it to The Soot Fry. A bearer could not tell a hunger of their own from one they had been shown, and the Drop’s binding is the note from that mess table.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Soot Fry's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the weighed appetites outnumber the bearer’s own, and the bearer eats for other people.
 - Terminal state: Soot Fry's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Black Drop encountered this source response: Studied cal
 
 ## SET RELATIONSHIP
 
-Within *The Soot Fry — Witnessed Form*, The Black Drop performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Soot Fry — Witnessed Form*, The Black Drop performs the stigma role while the other pieces preserve attribution and survival. The Drop drops out of the set on a hunger the bearer can name as theirs.
 
 ---
 

@@ -33,12 +33,12 @@ Once Told's Veil is the suit record of the Once Told set — δ-grade, Lament-al
 
 ## ITEM-SPECIFIC HISTORY — *The Once Told Source-Trace: Suit Record*
 
-The first Once Told's Veil field bearer encountered this source response: Keep the room for the full cycle and speak nothing worth repeating; the pressure settles around a party that gives it no new telling. The suit witnesses the immediate hazard only after the team attributed it to Once Told. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Once Told's Veil field bearer encountered this source response: Keep the room for the full cycle and speak nothing worth repeating; the pressure settles around a party that gives it no new telling. The suit witnesses the immediate hazard only after the team attributed it to Once Told. A wearer was still waiting to be described when the shift ended, and the Veil’s binding is the duty board from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Once Told's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the waiting moves out of the telling and into the work, and the wearer holds a post nobody has written a reason for.
 - Terminal state: Once Told's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-930 -->
@@ -47,7 +47,7 @@ The first Once Told's Veil field bearer encountered this source response: Keep t
 
 ## SET RELATIONSHIP
 
-Within *Once Told — Witnessed Form*, Once Told's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Once Told — Witnessed Form*, Once Told's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still corrects the account of themselves; the first version they let stand, the Veil is out.
 
 ---
 

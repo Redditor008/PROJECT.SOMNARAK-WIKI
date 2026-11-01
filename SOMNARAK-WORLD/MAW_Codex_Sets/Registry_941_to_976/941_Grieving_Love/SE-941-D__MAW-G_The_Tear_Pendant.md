@@ -32,12 +32,12 @@ The Tear Pendant is the stigma record of the Grieving Love set — neck-slot, be
 
 ## ITEM-SPECIFIC HISTORY — *The Grieving Love Source-Trace: Stigma Record*
 
-The first bearer of The Tear Pendant encountered this source response: Studied gently, she grows still and lets the worker see the bright pulse of the cure — and the name she keeps murmuring. The stigma discharges the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tear Pendant encountered this source response: Studied gently, she grows still and lets the worker see the bright pulse of the cure — and the name she keeps murmuring. The stigma discharges the immediate hazard only after the team attributed it to Grieving Love. A bearer was the only person on the Row still awake to what nobody was saying, and the Pendant’s binding is the register kept from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grieving Love's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the warming arrives for griefs the bearer cannot act on, in rooms they are only passing through.
 - Terminal state: Grieving Love's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not flee her embrace — sit with her grief until she lets go of her own accord” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Tear Pendant encountered this source response: Studied g
 
 ## SET RELATIONSHIP
 
-Within *Grieving Love — Witnessed Form*, The Tear Pendant performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grieving Love — Witnessed Form*, The Tear Pendant performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when somebody says theirs out loud.
 
 ---
 

@@ -33,12 +33,12 @@ The Gilded Shroud is the suit record of the Blackened Angel set — γ-grade, We
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Suit Record*
 
-The first bearer of The Gilded Shroud encountered this source response: The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. The suit severs the immediate hazard only after the team attributed it to Blackened Angel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Gilded Shroud encountered this source response: The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. The suit severs the immediate hazard only after the team attributed it to Blackened Angel. A wearer was found carrying a ledger nobody had given them, in other people’s handwriting, and the Shroud’s binding is that ledger.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Blackened Angel's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cloth starts collecting wishes made far from the wearer, and it gets heavier between shifts.
 - Terminal state: Blackened Angel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Gilded Shroud encountered this source response: The work
 
 ## SET RELATIONSHIP
 
-Within *Blackened Angel — Witnessed Form*, The Gilded Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Blackened Angel — Witnessed Form*, The Gilded Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still knows which wish in the cloth is their own; the first one they cannot place, the Shroud is out.
 
 ---
 

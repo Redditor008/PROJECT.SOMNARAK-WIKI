@@ -33,12 +33,12 @@ The Glider's Mantle is the suit record of the Foam Flood set — γ-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Suit Record*
 
-The first bearer of The Glider's Mantle encountered this source response: The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. The suit interrupts the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Glider's Mantle encountered this source response: The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. The suit interrupts the immediate hazard only after the team attributed it to The Foam Flood. A wearer stopped wanting to come down and had to be called in from the roof twice, and the Mantle’s binding is the second call log.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Foam Flood's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the airborne calm reaches the ground floor, and the wearer is reported calm and a hand’s width off the floor.
 - Terminal state: Foam Flood's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Glider's Mantle encountered this source response: The wo
 
 ## SET RELATIONSHIP
 
-Within *The Foam Flood — Witnessed Form*, The Glider's Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Foam Flood — Witnessed Form*, The Glider's Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still wants to come down; the first watch they do not, the Mantle is out.
 
 ---
 

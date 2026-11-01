@@ -33,12 +33,12 @@ The Petal Mantle is the suit record of the Calling Bloom set — β-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Suit Record*
 
-The first bearer of The Petal Mantle encountered this source response: The worker endures the calling without answering; the child wanders closer, then away, calmed that someone did not run. The suit discharges the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Petal Mantle encountered this source response: The worker endures the calling without answering; the child wanders closer, then away, calmed that someone did not run. The suit discharges the immediate hazard only after the team attributed it to Calling Bloom. A wearer answered a voice in a room where nobody had spoken, and the Mantle’s binding is the incident note from that post.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Calling Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the present goes quieter than the remembered, and the wearer stops hearing the relief bell.
 - Terminal state: Calling Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Petal Mantle encountered this source response: The worke
 
 ## SET RELATIONSHIP
 
-Within *Calling Bloom — Witnessed Form*, The Petal Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Calling Bloom — Witnessed Form*, The Petal Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still hear the present over the voice; the first watch they cannot, the Mantle is out.
 
 ---
 

@@ -32,12 +32,12 @@ The Blue-Black Tear is the stigma record of the Blackened Angel set — hand-slo
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Stigma Record*
 
-The first bearer of The Blue-Black Tear encountered this source response: The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. The stigma uncouples the immediate hazard only after the team attributed it to Blackened Angel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Blue-Black Tear encountered this source response: The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. The stigma uncouples the immediate hazard only after the team attributed it to Blackened Angel. A bearer wept when a colleague got exactly what they had asked for and could not say why, and the Tear’s binding is the note made at that desk.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Blackened Angel's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the weeping arrives before the wish is granted, and the bearer cannot tell whose relief they are feeling.
 - Terminal state: Blackened Angel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Blue-Black Tear encountered this source response: The st
 
 ## SET RELATIONSHIP
 
-Within *Blackened Angel — Witnessed Form*, The Blue-Black Tear performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Blackened Angel — Witnessed Form*, The Blue-Black Tear performs the stigma role while the other pieces preserve attribution and survival. The Tear drops out of the set on a day the bearer’s own relief is the first one they feel.
 
 ---
 

@@ -33,12 +33,12 @@ The Skyward Spear is the weapon record of the Foam Flood set — γ-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Weapon Record*
 
-The first bearer of The Skyward Spear encountered this source response: N/A — Object entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Skyward Spear encountered this source response: N/A — Object entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to The Foam Flood. A wielder walked up a stair instead of forward along a corridor and could not account for it, and the Spear’s binding is the report filed from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Foam Flood's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the walking-up starts happening on flat ground, and the wielder glances at the ceiling before the door.
 - Terminal state: Foam Flood's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Skyward Spear encountered this source response: N/A — 
 
 ## SET RELATIONSHIP
 
-Within *The Foam Flood — Witnessed Form*, The Skyward Spear performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Foam Flood — Witnessed Form*, The Skyward Spear performs the weapon role while the other pieces preserve attribution and survival. The Spear leaves the set on a watch the wielder walks forward for.
 
 ---
 

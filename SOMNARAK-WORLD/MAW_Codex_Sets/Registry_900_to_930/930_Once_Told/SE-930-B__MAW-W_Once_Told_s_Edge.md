@@ -33,12 +33,12 @@ Once Told's Edge is the weapon record of the Once Told set — δ-grade, Lament-
 
 ## ITEM-SPECIFIC HISTORY — *The Once Told Source-Trace: Weapon Record*
 
-The first Once Told's Edge field bearer encountered this source response: N/A The weapon marks the immediate hazard only after the team attributed it to Once Told. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Once Told's Edge field bearer encountered this source response: N/A The weapon marks the immediate hazard only after the team attributed it to Once Told. A wielder’s account of themselves was repeated back to them as something that had happened, and the Edge’s binding is the telling as it was filed.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Once Told's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the lines are added before the strikes, and the wielder reads a week they have not had yet.
 - Terminal state: Once Told's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-930 -->
@@ -47,7 +47,7 @@ The first Once Told's Edge field bearer encountered this source response: N/A Th
 
 ## SET RELATIONSHIP
 
-Within *Once Told — Witnessed Form*, Once Told's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Once Told — Witnessed Form*, Once Told's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown at anything that has not already been said.
 
 ---
 

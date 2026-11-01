@@ -32,12 +32,12 @@ The Watcher's Petal is the stigma record of the Calling Bloom set — head-slot,
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Stigma Record*
 
-The first bearer of The Watcher's Petal encountered this source response: Studied calmly, the bloom turns its eye on the observer and is, briefly, seen in return — its mimicry laid bare, the way a charm is laid bare when you see the trick of it. The stigma redirects the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Watcher's Petal encountered this source response: Studied calmly, the bloom turns its eye on the observer and is, briefly, seen in return — its mimicry laid bare, the way a charm is laid bare when you see the trick of it. The stigma redirects the immediate hazard only after the team attributed it to Calling Bloom. A bearer stopped believing any thought in the room was being thought for the first time, and the Petal’s binding is the note written at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Calling Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the watching moves from above the line of sight to behind the bearer’s own eyes.
 - Terminal state: Calling Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Watcher's Petal encountered this source response: Studie
 
 ## SET RELATIONSHIP
 
-Within *Calling Bloom — Witnessed Form*, The Watcher's Petal performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Calling Bloom — Witnessed Form*, The Watcher's Petal performs the stigma role while the other pieces preserve attribution and survival. The Petal drops out of the set on a day the bearer has one thought nobody else has had.
 
 ---
 

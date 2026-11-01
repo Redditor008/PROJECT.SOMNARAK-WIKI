@@ -33,12 +33,12 @@ The Tarnish Plume is the weapon record of the Blackened Angel set — γ-grade, 
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Weapon Record*
 
-The first bearer of The Tarnish Plume encountered this source response: N/A — Object entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Blackened Angel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tarnish Plume encountered this source response: N/A — Object entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Blackened Angel. A wielder’s wishes came true in small and unwelcome ways for eleven days, and the Plume’s binding is the log kept across them.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Blackened Angel's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wishes that land are the ones the wielder never meant, and the ones they did mean stop arriving.
 - Terminal state: Blackened Angel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Tarnish Plume encountered this source response: N/A — 
 
 ## SET RELATIONSHIP
 
-Within *Blackened Angel — Witnessed Form*, The Tarnish Plume performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Blackened Angel — Witnessed Form*, The Tarnish Plume performs the weapon role while the other pieces preserve attribution and survival. The Plume leaves the set on a wish its wielder made on purpose and got.
 
 ---
 

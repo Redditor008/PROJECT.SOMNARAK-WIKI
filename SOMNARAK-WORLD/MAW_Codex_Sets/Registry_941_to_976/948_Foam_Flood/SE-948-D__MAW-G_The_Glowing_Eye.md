@@ -32,12 +32,12 @@ The Glowing Eye is the stigma record of the Foam Flood set — head-slot, bestow
 
 ## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Stigma Record*
 
-The first bearer of The Glowing Eye encountered this source response: The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. The stigma marks the immediate hazard only after the team attributed it to The Foam Flood. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Glowing Eye encountered this source response: The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. The stigma marks the immediate hazard only after the team attributed it to The Foam Flood. A bearer found everything they were reaching for belonged to somebody else, and the Eye’s binding is the note written at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Foam Flood's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the flares arrive for longings never said in the bearer’s hearing, and the reaching starts before the wanting.
 - Terminal state: Foam Flood's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Glowing Eye encountered this source response: The carvin
 
 ## SET RELATIONSHIP
 
-Within *The Foam Flood — Witnessed Form*, The Glowing Eye performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Foam Flood — Witnessed Form*, The Glowing Eye performs the stigma role while the other pieces preserve attribution and survival. The Eye drops out of the set on a thing the bearer wants that nobody else has wanted.
 
 ---
 

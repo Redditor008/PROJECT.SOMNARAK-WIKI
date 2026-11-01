@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 92)
+
+`SE-930` Once Told, `SE-941` Comforting, `SE-944` Murmur, `SE-946` Tarnish, `SE-947` Still Current, `SE-948` Skyward — **eighteen records, fifty-four sentences.** Once Told's Veil keeps resonance only while the wearer still corrects the account of themselves; the Mourner's Film holds while the wearer's own grief is behind the membrane and still findable; the Gilded Shroud needs the wearer to know which wish in the cloth is theirs.
+
+**192 of 345 done. 153 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 91)
 
 `SE-924` Weighted Silence, `SE-925` Sorrow Mass, `SE-926` Sky of Borrowed Faces, `SE-927` Dreaming Plague, `SE-928` Lethe, `SE-929` Dead Air — **eighteen records, fifty-four sentences.** The two hardest sets in the wing are in this group, because their cost lines are written as procedure rather than as prose: Dead Air says the wielder *"begins estimating weights… and arrives at a figure in kilograms before deciding to"*, so its Edge is bound to a form filled in before anyone asked for the figure, and keeps its set only while the wielder throws a blow without a weight in their head. Lethe's Veil is worse — the cost line says the forgetting *reads as recovery* — so its resonance needs the wearer to name one thing they have forgotten, and its escalation is that the forgetting gets logged as treatment.

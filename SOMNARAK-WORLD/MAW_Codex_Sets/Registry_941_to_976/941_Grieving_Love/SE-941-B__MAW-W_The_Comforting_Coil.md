@@ -33,12 +33,12 @@ The Comforting Coil is the weapon record of the Grieving Love set — β-grade, 
 
 ## ITEM-SPECIFIC HISTORY — *The Grieving Love Source-Trace: Weapon Record*
 
-The first bearer of The Comforting Coil encountered this source response: She flinches and recoils, the slime roiling; aggression reads to her as rejection, the one thing she cannot bear. The weapon stays the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Comforting Coil encountered this source response: She flinches and recoils, the slime roiling; aggression reads to her as rejection, the one thing she cannot bear. The weapon stays the immediate hazard only after the team attributed it to Grieving Love. A wielder spent a shift drawing grief out of other people and finished it with nobody drawing any out of them, and the Coil’s binding is that duty sheet.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grieving Love's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the solvent runs short, and the Coil starts taking the wielder’s composure without a target to give it to.
 - Terminal state: Grieving Love's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not flee her embrace — sit with her grief until she lets go of her own accord” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Comforting Coil encountered this source response: She fl
 
 ## SET RELATIONSHIP
 
-Within *Grieving Love — Witnessed Form*, The Comforting Coil performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grieving Love — Witnessed Form*, The Comforting Coil performs the weapon role while the other pieces preserve attribution and survival. The Coil leaves the set on a blow after which somebody has seen to the wielder.
 
 ---
 

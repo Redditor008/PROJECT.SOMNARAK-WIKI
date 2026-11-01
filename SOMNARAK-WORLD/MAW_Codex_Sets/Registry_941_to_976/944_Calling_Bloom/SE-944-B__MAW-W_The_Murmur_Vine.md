@@ -33,12 +33,12 @@ The Murmur Vine is the weapon record of the Calling Bloom set — β-grade, Lame
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Weapon Record*
 
-The first bearer of The Murmur Vine encountered this source response: She flinches and the bloom shrieks in a dozen stolen voices at once; aggression reads to her as the brother she cannot find turning away. The weapon contains the immediate hazard only after the team attributed it to Calling Bloom. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Murmur Vine encountered this source response: She flinches and the bloom shrieks in a dozen stolen voices at once; aggression reads to her as the brother she cannot find turning away. The weapon contains the immediate hazard only after the team attributed it to Calling Bloom. A wielder apologised to three living colleagues in one shift and could not say what for, and the Vine’s binding is the note made at the third.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Calling Bloom's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the visits arrive with a list attached, in the order the failures happened.
 - Terminal state: Calling Bloom's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Murmur Vine encountered this source response: She flinch
 
 ## SET RELATIONSHIP
 
-Within *Calling Bloom — Witnessed Form*, The Murmur Vine performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Calling Bloom — Witnessed Form*, The Murmur Vine performs the weapon role while the other pieces preserve attribution and survival. The Vine leaves the set on a blow thrown in a room with nobody left in it to fail.
 
 ---
 

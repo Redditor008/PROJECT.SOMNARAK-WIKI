@@ -33,12 +33,12 @@ The White Scale is the suit record of the Soot Fry set — β-grade, Weight-alig
 
 ## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Suit Record*
 
-The first bearer of The White Scale encountered this source response: The worker endures the heavy, drowning air at the bank without flinching or reaching; the fish calms, the stillness easing. The suit redirects the immediate hazard only after the team attributed it to The Soot Fry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The White Scale encountered this source response: The worker endures the heavy, drowning air at the bank without flinching or reaching; the fish calms, the stillness easing. The suit redirects the immediate hazard only after the team attributed it to The Soot Fry. A wearer took a hit and kept it, and the examination found the blow still in the body a week later, and the Scale’s binding is that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Soot Fry's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the received hits accumulate without a mark, and the wearer reports the weight of blows nobody can see.
 - Terminal state: Soot Fry's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The White Scale encountered this source response: The worker
 
 ## SET RELATIONSHIP
 
-Within *The Soot Fry — Witnessed Form*, The White Scale performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Soot Fry — Witnessed Form*, The White Scale performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still put one of them down; the first week they cannot, the Scale is out.
 
 ---
 

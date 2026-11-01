@@ -33,12 +33,12 @@ The Mourner's Film is the suit record of the Grieving Love set — β-grade, Lam
 
 ## ITEM-SPECIFIC HISTORY — *The Grieving Love Source-Trace: Suit Record*
 
-The first bearer of The Mourner's Film encountered this source response: The worker endures her cold, clinging field without pulling away; she calms, comforted that someone did not leave. The suit contains the immediate hazard only after the team attributed it to Grieving Love. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Mourner's Film encountered this source response: The worker endures her cold, clinging field without pulling away; she calms, comforted that someone did not leave. The suit contains the immediate hazard only after the team attributed it to Grieving Love. A wearer came off a bereavement ward dry while the ward was worse, and the Film’s binding is the note filed at that handover.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grieving Love's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the membrane stops discriminating, and the wearer stays dry in rooms where the grief is their own.
 - Terminal state: Grieving Love's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not flee her embrace — sit with her grief until she lets go of her own accord” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Mourner's Film encountered this source response: The wor
 
 ## SET RELATIONSHIP
 
-Within *Grieving Love — Witnessed Form*, The Mourner's Film performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grieving Love — Witnessed Form*, The Mourner's Film performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s own grief is still behind the membrane and still there; the first time they cannot find it, the Film is out.
 
 ---
 
