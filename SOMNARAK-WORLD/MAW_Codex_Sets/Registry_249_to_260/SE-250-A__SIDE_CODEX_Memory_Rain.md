@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Lament |
 | Form | Slow glassy tear-drops containing faces, hair, skin, visible voices, places, and feelings that dissolve into memory on contact. |
-| Gauge / Pressure | 35–50% / Lament 10–23 |
+| Gauge / Pressure | 415/415; starts 35–50% / Lament — no attack pattern; the rate, extent and duration of the fall are the instrument |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Anchored Downpour |
 

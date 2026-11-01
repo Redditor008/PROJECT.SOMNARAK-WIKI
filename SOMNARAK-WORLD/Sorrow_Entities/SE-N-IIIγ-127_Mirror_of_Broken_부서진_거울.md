@@ -45,6 +45,8 @@
 - Extraction is separately authorised, taken from shed shard rather than from the figure, and is never granted as a reward for a clean shift.
 
 ## Combat Record
+> **Why this file keeps combat actions.** A shard leaves the arrangement and slams into a person — the file’s own words for the third row are *a weighted shard impacts the target*, and it fires when the pattern is disturbed. The holding does not travel beyond the Gate vicinity, but a thing fixed in place can still throw what it is made of, and the shard arrangement returning afterwards is exactly what a thrown piece does.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

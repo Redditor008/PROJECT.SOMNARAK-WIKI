@@ -44,51 +44,36 @@
 - Workers straighten their own collars, hair and posture during a session, almost all of them, usually without noticing. It is logged and not corrected; the counselors asked for it to be left alone.
 - There is nothing to extract. It has never moved toward a worker, and the only thing that leaves the zone with anybody is the report they write in the corridor.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0 m/s — stationary and asleep; posture corrections are found between sessions and not walked |
-| **Resistance** | 35% against Void pressure and 25% against everything else — resistance that matters mostly because nothing here is ever struck |
-| **Activation threshold** | Sorrow Gauge ≥ 75%, or any attempt to wake or reposition the figure |
-| **Sorrow Gauge [HP]** | 739/739 |
-| **Han Pressure [ATK]** | 17–39 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary and asleep; posture corrections are found only between sessions and measured against the template*, and its own combat row states the denial in five words: no splinter leaves the glass. What leaves is the sentence, and a sentence is spoken by a worker rather than thrown by a mirror.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A sleeping, mirror-like figure at the template line in Zone A, with the account of what it is doing written in the corridor rather than in the glass. Posture corrections are found between sessions and measured against the template, which is the only movement the record holds. |
+| **Perceptible to** | An empty surface while the worker faces it, and the sense of a judgement being held rather than stated — the pressure arriving as certainty that an unwritten limitation is being applied, with no sentence to read and nothing to appeal. |
+| **Handling** | Do not wake it. Say aloud, in the zone, one judgement you believe is held about you that nobody has said to you. The old instruction to look at the reflection without turning away describes something no worker has ever been able to do. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 739/739 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for record; Pugnahan has a recorded adverse response and is not applied |
-| **Battlefield** | Zone A, Alpha Tree |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for the record only. Pugnahan has a recorded adverse response and is not applied: the surface fractures into hostile versions of the worker and stays fractured for the cycle. |
+| **Location** | Zone A, Alpha Tree |
 | **Resolution Condition** | Do not wake it. Say aloud, in the zone, one judgement you believe is held about you that nobody has said to you. The old instruction to look at the reflection without turning away describes something no worker has ever been able to do. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Drowsy Surface* [**Debuff**] } | "Nothing in the glass while you face it. The account is written in the corridor." | [The empty surface is faced, the worker turns away, and the retrospective impression pulls at identity.] | *Target suffers a Void mark from deferred self-knowledge.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the worker turns from the mirror and writes the report. |
-| { *The Lucid Dream* [**Debuff**] } | "It was being careful with me, the way you are careful with somebody who is not going to be told something." | [The remembered expression is pity, not accusation; no direct reflection is seen.] | *Target loses clarity; an unsaid judgement becomes harder to dismiss.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the corridor account is written before it softens. |
-| { *The Dream Shard* [**Attack**] } | "No splinter leaves the glass. What leaves is the sentence." | [A worker says aloud one judgement they believe is held about them; the figure remains asleep and unmoved.] | *Inflicts Void pressure as the avoided truth is spoken.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the unspoken sentence is said in the zone. |
-| { *The Waking* [**Attack**] } | "It has never woken. The posture changed while somebody was looking." | [An attempted waking makes the arrangement shift under direct observation; the eyes stay closed and nobody approaches.] | *A heavy Void surge; the gauge of whoever attempted the waking climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When somebody attempts to wake or reposition the figure. |
-| { *The Shared Dream* [**Ultimate**] } | "Two thousand and forty limitations in force, and not one of them written down." | [The zone thins and no surface reflects; every worker present feels managed around an unwritten sentence.] | *Void erosion presses on everyone in the corrupted zone for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the sleeper does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Drowsy Surface* [**Register**] } | Gives nothing back: nothing in the glass while the worker faces it, and the account written in the corridor instead. The worker turns away and the turn is the register. | Records the template displacement and the posture against the last session, and notes who faced the glass and for how long. | The figure is measured between sessions and never within one. That is not a preference; the record holds no session in which a correction was seen happening, only a difference found afterwards. |
+| { *The Lucid Dream* [**Exposure**] } | Lets the worker read a remembered expression as pity, and be careful with the reading, the way you are careful with somebody who is not going to be told something. | Ends the session at the allowed interval and asks for the sentence rather than for a description of the face. | Certainty without a sentence is the failure this holding produces, and the counter to it is speech. The briefing asks for the sentence before the worker leaves the zone, because outside it the certainty has nowhere to go. |
+| { *The Dream Shard* [**Refusal**] } | Sends nothing out of the glass. What crosses the room is the worker's own sentence, said aloud, naming one judgement they believe is held about them; the figure stays asleep and does not stir. | Takes the sentence as the session's whole yield, and does not press for a second one or a better one. | No splinter leaves the glass — the file's own words, and the reason this record has no attack in it. The only projectile in the room is a spoken judgement, and it travels from the worker outward. |
+| { *The Shared Dream* [**Overload**] } | Thins the zone while remaining asleep: colour and sound go out of it, no surface reflects, and every worker present is left holding a limitation that was never written down. | Seals the room only as far as the corridor, records the spoken sentence from each worker present, and reopens only after one has been said. | Sealing the room alone has never ended it; speech has, twice. The file is unusually explicit about the count, and the two occasions are the whole of its evidence — which is why the close is a spoken sentence rather than a containment state. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification runs on the template displacement and the sleeping posture, never on the reflection: the reflection is only ever available to somebody who has already turned away, and by then the moment for identifying anything has passed. The designation is confirmed against the classification table, the approach is set, and the positions are taken.
-2. **Clash:** Flerehan and Ferrehan from the template line, with the mirror at the observer's back for the walk out. Pugnahan is not applied: it fractures the surface into hostile versions of the worker and the gauge stays up for the remainder of the cycle. Nobody attempts to catch the reflection directly; nobody ever has.
-3. **Resolution:** Lay the template, read the four-point displacement, wait without waking or repositioning, turn away, and say aloud one judgement believed to be held but never stated. Write the retrospective account in the corridor before it softens. The old direct-gaze instruction is struck: nobody has seen this reflection while facing it.
+1. **What is confirmed:** the template displacement and posture against the last session, the corridor account, and who among the watch will speak before leaving the zone.
+2. **What the watch does:** Flerehan for the kindness the surface returns and Ferrehan for the long wait at the template line, with Viderehan running for the record and nothing done to wake it.
+3. **How it closes:** the close is the file's documented condition: **Do not wake it. Say aloud, in the zone, one judgement you believe is held about you that nobody has said to you** — and without that sentence the corruption widens around a figure that still does not stir.
 
 ### Consequences
 

@@ -45,6 +45,8 @@
 - There is nothing to extract. It does not approach, does not touch, and has never been within two metres of a worker who did not walk to it.
 
 ## Combat Record
+> **Why this file keeps combat actions.** A reach with contact: the soul returns to its own site and does not travel, but under challenge it stretches out and touches, and the file records the cold of the grave arriving through the hand rather than through the room. A hand that arrives is a blow whatever the feet are doing.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

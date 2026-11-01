@@ -43,51 +43,36 @@
 - Yield is 10 to 14 per cycle, the lowest band in the wing, and the exposure is the quietest. The infirmary's note records that this holding produces fewer incidents and more resignations than any other in Zone D.
 - Extraction needs its own authorisation and is never paid out as a prize for an uneventful watch. No worker carrying an open welfare indicator against their name is issued the charm.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void pressure, 5% against every other kind |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device, internal parts may move*, and its two terminal rows are marked in the file itself as modelled only: in thirty years it has not woken. What the wall does when it turns over is crack mortar along four feet of its own face, and nothing follows it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A wall squatting in the empty lot behind the fourth barrack, asleep, giving off a deep structural hum — the sound a stone makes while it dreams. The quiet reaches out from it across the lot and into the barrack yard, and six expansions are on file. |
+| **Perceptible to** | The hum first, then the settling: the wall drops a fraction in its sleep and the floor cracks where it settles. The sleep-twitch cracks mortar along four feet of the face, once, and nothing follows it. |
+| **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Forge District |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what was available and not asked for — the fund, the rotation, the open door, the one-page form — and has never shown a refusal in thirty years; Ferrehan is the full hour sat beside it without knocking. |
+| **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |
 | **Resolution Condition** | Presence offered and entry not forced: the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Snore* [**Debuff**] } | "The wall gives off a deep structural hum, the sound a stone makes while it dreams." | [The dormant resonance passes into the target and settles there.] | *The target takes a Void mark; the wall's sleep passes to them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Leaning on the Wall. |
-| { *The Settling* [**Debuff**] } | "The wall drops a fraction in its sleep, and the floor cracks where it settles." | [The settling in the Wall's dream leaves the ground unsteady.] | *The target's clarity slips; the ground is moving under them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Lingering near the face. |
-| { *The Sleep-Twitch* [**Attack**] } | "The mortar cracks along four feet of the face, once, and nothing follows it. It has not woken. It has turned over." | [An involuntary structural convulsion.] | *Inflicts Void damage; the crack warps space.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a watch is cut short before the hour. |
-| { *The Full Awakening* [**Attack**] } | "Modelled only. In thirty years it has not woken, and the first thing a barrier would do on waking is decide what to keep out." | [Reconstruction; never observed.] | *A heavy Void activation; the target's Sorrow Gauge rises 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | Modelled at a recession below one millimetre. Not recorded. |
-| { *Every Wall Wakes* [**Ultimate**] } | "Modelled only, like the row above it. In thirty years the wall has never woken, and what rises past the chalk in the meantime is not barriers stirring but the quiet doing its ordinary work." | [Reconstruction; never observed. The documented analogue is expansion: the quiet reaches further across the lot and people inside it stop raising things.] | *Everyone in range takes Void erosion for three turns; on record, the harm is applications not made and things not raised, twice first noticed from a blank complaint book.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | Modelled at a gauge past 65%. Six expansions in thirty years, all identified afterwards from the marks. |
+| Event | What the wall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Snore* [**Register**] } | Gives off a deep structural hum that passes into whoever is standing near and settles there, the way a low note does in a room with hard walls. | Takes the gauge before approaching the face, and stands the hour at the chalk line rather than at the wall. | The register is the hum and the chalk line, and the figure is the gauge. Nothing here has ever approached anybody: the quiet reaches across the lot, and the lot is where it stops. |
+| { *The Settling* [**Exposure**] } | Drops a fraction in its sleep, and the floor cracks where it settles — the ground going unsteady under a visitor who has stayed too close for too long. | Records the crack width against the last survey, and moves the chalk line out if the ground has moved with it. | The wall's movement is downward and inward and stops there. What the file measures is the floor, and the settling is a survey change rather than an event that can be answered. |
+| { *The Sleep-Twitch* [**Refusal**] } | Cracks the mortar along four feet of its face, once, and nothing follows it. It has not woken; it has turned over. Nothing is thrown, nothing falls, and the crack is the whole of it. | Does not knock, call or test the crack while the wall is under; notes the four-foot run and repairs it on the next maintenance rotation. | This is the row that would read as a blow in any other file. Here the file says plainly where it lands: on the wall's own mortar, once, and nothing follows it — which is why the response is a repair order and not a withdrawal. |
+| { *Every Wall Wakes* [**Overload**] } | Nothing. The row is modelled only, and the file says so in the row above it: in thirty years the wall has never woken, and what rises past the chalk in the meantime is not barriers but the quiet. | Records an expansion of the quiet past the chalk, and re-marks the line rather than reinforcing it. | Six expansions are on file and not one of them is a wall standing up. The holding's growth is in the reach of the quiet, which is why the containment work here is a chalk line maintained and not a barrier built. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The caliper reading is checked, never the figure. At the lowest recessions the relief is obvious and at the highest it is nearly invisible, which means the wall most resembles a sleeping person on the very days the reading is best. Bulwark is confirmed against the designation on that basis; positions are taken and the cycle is opened.
-2. **Clash:** Viderehan and Ferrehan are the whole of the work; Flerehan and Pugnahan do not apply under the Object/Place Work Rule. What is read is the recession — how far the carved brow sits below the plane of the wall face, in millimetres, taken with the fixed caliper bridge at the close of the hour. Baseline is 11 millimetres and the recorded range runs from 0 to 96.
-3. **Resolution:** The cycle is over when the offered thing has been taken, refused, or left standing — or under this lot's own suppression condition: **Offer presence without forcing entry**.
+1. **What is confirmed:** the gauge below twenty-five per cent, the chalk line as last surveyed, and the crack widths against the previous reading.
+2. **What the watch does:** Viderehan for what was available and not asked for and Ferrehan for the full hour sat beside it without knocking, with nothing asked and the face left untested.
+3. **How it closes:** the close is the file's documented condition: **Presence offered and entry not forced** — the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25%.
 
 ### Consequences
 

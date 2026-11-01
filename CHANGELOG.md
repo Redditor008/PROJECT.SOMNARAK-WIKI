@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Three that never reach, and three that can (2026-11-01)
+
+Eighteenth batch. The queue is thinning and the judgements are getting finer, which is why this one is split.
+
+**Converted.** **Memory Rain** (`C-IIβ-250`) — a fall of drops carrying recollections, ending on one row that reads like an attack and is not one: a drop hardens on the way down and lands wherever it was already falling. The response is cover, not confrontation. **Vanity Asleep** (`N-IIIγ-954`) — the file says it in five words: *no splinter leaves the glass.* What crosses the room is the worker's own sentence. **Bulwark** (`N-Iα-459`) — a sleeping wall whose sleep-twitch cracks the mortar along four feet of its own face, once, and nothing follows it; its two terminal rows are marked in the file as modelled only.
+
+**Kept, with the reason written above the stat line.** **Mirror of Broken** (`N-IIIγ-127`) — a weighted shard impacts a person; the holding stays at the Gate, the shards do not. **Fading Whisper** (`N-IIIγ-407`) — a crystallized word-fragment launches and flies free, and the Void damage is attached to the fragment and not the listening. **Nemo** (`N-IIIγ-589`) — the returned soul stretches out and touches under challenge, and the cold arrives through the hand rather than through the room.
+
+**The line, stated once.** A holding that cannot walk can still throw. The conversions above are cases where nothing leaves the entity and nothing arrives at a body: weather that falls, a sleeping figure that sends nothing out, a wall that cracks itself. The keepers are cases where a piece does leave or a hand does arrive. That is a narrower line than "stationary, therefore harmless", and it is the one the records actually support.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and twenty-six Contact Records; 6 combat keepers now carry a rationale blockquote.**
+
 ## Four weathers, and a thing that can reach across its own rim (2026-11-01)
 
 Seventeenth batch. Four conversions and one keeper, and the keeper is the interesting one because it is the first time in three batches that a stationary holding has been able to reach.

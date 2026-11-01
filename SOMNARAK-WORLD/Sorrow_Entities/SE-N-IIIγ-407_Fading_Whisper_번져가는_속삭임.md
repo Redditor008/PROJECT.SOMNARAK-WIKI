@@ -45,6 +45,8 @@
 - Nothing is extracted. The only product of a watch is a transcript, and the transcript is filed by two people who did not confer.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The row that keeps this file is `The Sharp Fragment`: a crystallized word-fragment launches and flies free, and the file attaches Void damage to it rather than to the listening. Nothing here denies a strike — what the Movement row denies is that the Whisper approaches, withdraws or follows, and a fragment leaving is none of those three.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

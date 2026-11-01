@@ -44,51 +44,36 @@
 - No breach counter exists here. What gets logged is the gap between falls, because the gap is the one number on this file that has ever been seen to move.
 - What the fall leaves is drawn out of standing water, and only under separate authorisation.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types — the lower figure taken while the falls are still standing, the higher once the ground has begun to dry |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and the Weather is rain: it falls where it falls, nothing in it chooses a body, and nothing here has ever travelled toward a person. The one sharp thing in the record is a drop of its own rain hardening on the way down, which is a hazard of standing under it and not a blow from the holding.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats falling |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A fall over Zone D that lands memories instead of water — each drop carrying a recollection somebody had forgotten, thickening into a downpour of different griefs, and widening across the Gardens until nobody can say which recollection is theirs. |
+| **Perceptible to** | The first drop on the skin, and inside it something the visitor had put down years ago; then the saturation, as every drop is a different loss and the visitor is standing in all of them at once. |
+| **Handling** | Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and the beads cannot: nothing inside one has ever been written down on purpose, and the worker's whole job is to hold on to which life is theirs. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens — periodic |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan catalogues the fall; Ferrehan is standing under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. |
+| **Location** | Zone D, Echo Gardens — periodic |
 | **Resolution Condition** | Collect drops carefully and provide identity anchors |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Drop* [**Debuff**] } | "A drop of rain lands on you — and inside it, a memory you had forgotten." | [The Rain begins; each drop carries a recollection.] | *Target suffers -10 Composure; old memories surface unbidden.* **[10 Lament DMG [Lament]]** | When the Rain begins to fall. |
-| { *The Downpour* [**Debuff**] } | "The rain thickens — and every drop is a different grief, a different loss." | [The Rain intensifies; the target is saturated with memories.] | *Target loses 10 Composure; the flood of recollection is overwhelming.* **[10 Lament DMG [Lament]]** | When the target stands in the Rain. |
-| { *The Sharp Drop* [**Attack**] } | "A raindrop hardens mid-fall — becoming a needle of condensed memory." | [A crystallized memory-drop strikes.] | *Inflicts Lament pressure and one small, precise wound of recalled pain.* **[14-22 Lament DMG [Lament]]** | When the Rain is disturbed. |
-| { *The Full Deluge* [**Attack**] } | "Every memory the rain ever held — released at once, a waterfall of pure recollection." | [Every fall the Gardens have held since the last clear season comes down at once, sieving through whoever is standing under it.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15% as the recollection takes hold.* **[24-36 Lament DMG [Lament]]** | When the Rain is struck. |
-| { *The Flooded Mind* [**Ultimate**] } | "Everyone is caught in the rain now — and no one can tell whose memories are whose." | [The fall widens until the whole field is under it, and nobody can say which recollection is theirs.] | *All in range suffer Lament pressure for three turns while the rain keeps falling on them.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the fall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Drop* [**Register**] } | Lands one drop carrying a forgotten recollection, and the visitor has it back whether or not they wanted it; old memories surface unbidden. | Records the rate, extent and duration of the fall before anybody stands in it, and marks the two identity anchors each worker will hold for the turn. | The fall is catalogued and the beads are not. That distinction is the whole of the method here: what can be measured is the weather, and what cannot be written down is the thing inside the drop. |
+| { *The Downpour* [**Exposure**] } | Thickens until every drop is a different grief and a different loss, so that standing in it is standing in a hundred bereavements at once. | Ends the turn on the timekeeper's allowance rather than on a complaint, and takes the worker out under cover rather than under a coat. | Clarity shatters while the gauge climbs, and the file enters both on the same line because neither arrives alone. The turn is timed for that reason and is not extended for a dry one. |
+| { *The Sharp Drop* [**Refusal**] } | Hardens one of its own drops on the way down into a needle of condensed memory, which stings wherever it lands and leaves a small precise wound of recalled pain. It does not lift, aim or throw: the drop was already falling. | Works under cover where cover exists, keeps hands and faces out of the fall, and treats a stung worker as weather-injured — cleaned, dressed, and off the fall for the turn. | This is the row that reads like an attack and is not one. What a drop can do is land; the record has no case of a needle going anywhere but down, which is why the response is cover and not confrontation. |
+| { *The Flooded Mind* [**Overload**] } | Widens until the whole field is under it, and nobody under the fall can say which recollection belongs to whom. | Clears the field, stops the catalogue, and re-establishes identity anchors for everybody who was standing in it before anybody is debriefed. | A cycle left unfinished is not a cycle that lapses: the rain keeps falling with nobody standing in it, and it spreads. That is why the field clears and the anchors come first, and why the debrief waits until each person can say whose life is theirs. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** What identifies the holding is a clear sky and what sits in the beads beneath it. Several records in the Gardens carry memory; this is the one that arrives from nowhere and is gone inside an hour. The positions and the withdrawal are set before the cycle opens.
-2. **Clash:** There is nothing to fight. The fall keeps its own rate, the crew works under it inside the time limit, and the only decisions on the table are how long to stay and whether anybody gets called out early.
-3. **Resolution:** The cycle closes when the drops have been lifted one at a time and every bearer has had an identity anchor in hand before the fall ends — the file's documented suppression condition: **collect drops carefully and provide identity anchors**. What crews get wrong is the word 'carefully': the drops are not dangerous to touch, they are dangerous to keep, and the anchor is what stops a bearer from filing somebody else's memory as their own.
+1. **What is confirmed:** the rate, extent and duration of the fall, the two identity anchors each worker will hold, and the timekeeper's allowance for the turn.
+2. **What the watch does:** Viderehan for the catalogue of the fall and Ferrehan for standing under it holding on to which life is theirs, with nothing inside a drop written down on purpose.
+3. **How it closes:** the close is the file's documented condition: **Collect drops carefully and provide identity anchors** — and a turn ends when the timekeeper calls it, not when the worker has gathered enough.
 
 ### Consequences
 
@@ -397,7 +382,7 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 **Operational interpretation:** This is weather and the file is a weather log with a conscience. There is no containment, no seal, no counter and nothing to approach; the entity arrives over the Gardens, falls for as long as it falls, and leaves small memories lying about until they go. What the document is actually for is the handling of what the fall does to people, and on that it is specific: nothing is collected, nothing is examined, nothing is asked, and the single container of material that was gathered before the rule existed stays sealed in the inventory with that note against it. Where the entity does something this file does not describe, write it down and leave the contradiction standing.
 
 **Review requirement:** After every fall: interval, duration, intensity, extent, personnel present, and the time each of them was called out. Three further items apply here. The sealed container is confirmed present and unopened at each inventory, by two people, and the confirmation is the whole of the inspection. Any request to stand a fall unhooded is logged with its refusal attached, both kept unredacted at the requester's wish. And the weeping reported after a fall is counted but never followed up, because following it up would mean asking what the worker saw.
-- The file keeps its figures in numerals so the register can be read against them: gauge 415/415 · pressure 10–23 per hit, Lament element, resistance 25 / 15 per cent · yield 12–18 per cycle · Lament weapon 5–9 at 25 Echoes · suit 20 · Max 4 pieces · acquisition 5 per cent.
+- The file keeps its figures in numerals so the register can be read against them: gauge 415/415 · Lament element, resistance 25 / 15 per cent, and no pressure figure — the fall is measured by rate, extent and duration · yield 12–18 per cycle · Lament weapon 5–9 at 25 Echoes · suit 20 · Max 4 pieces · acquisition 5 per cent.
 ## Watch Record
 
 ### Rain From a Clear Sky
