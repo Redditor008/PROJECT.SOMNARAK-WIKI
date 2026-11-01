@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Merchant's Veil
 
-> *“The Merchant's Veil remembers Night Peddler; the bearer must not mistake memory for permission.”*
+> *"The seller is kept out of the sale. The wearer goes faintly absent from themselves while the transaction completes."*
 
 ---
 

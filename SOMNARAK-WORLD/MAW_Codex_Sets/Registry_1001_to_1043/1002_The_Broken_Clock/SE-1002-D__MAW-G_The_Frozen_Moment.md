@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Frozen Escapement Wheel
 
-> *“The Frozen Escapement Wheel remembers The Broken Clock; the bearer must not mistake memory for permission.”*
+> *"Every use consumes minutes of life. The wheel does not return them and has no idea whose they were."*
 
 ---
 

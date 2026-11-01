@@ -1,6 +1,6 @@
 # M.A.W. PROTECTIVE ATTIRE — The Frost-Veiled Mourning Gown
 
-> *“The Frost-Veiled Mourning Gown remembers Icedrop; the bearer must not mistake memory for permission.”*
+> *"The small joys go first and the large ones follow at the rate the wearer needs them. In the end only grief still arrives."*
 
 ---
 

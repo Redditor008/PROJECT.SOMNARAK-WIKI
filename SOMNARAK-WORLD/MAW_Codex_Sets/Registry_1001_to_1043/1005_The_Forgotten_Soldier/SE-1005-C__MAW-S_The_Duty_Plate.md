@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Duty Plate
 
-> *“The Duty Plate remembers The Forgotten Soldier; the bearer must not mistake memory for permission.”*
+> *"It carries an obligation nobody assigned the wearer and will not put it down. They defend a post nobody remembers occupying."*
 
 ---
 

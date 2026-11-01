@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Brand
 
-> *“The Brand remembers Maker of Apostle; the bearer must not mistake memory for permission.”*
+> *"It answers whether or not the bearer wants it answered, and after enough resonance they stop noticing which of them moved first."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Promise Shard
 
-> *“The Promise Shard remembers Facsimile; the bearer must not mistake memory for permission.”*
+> *"The pain of breaking it arrives early: the closer the wearer gets to keeping the promise, the more it costs to consider not keeping it."*
 
 ---
 

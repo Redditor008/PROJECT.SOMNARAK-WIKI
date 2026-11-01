@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Occlusihan Blade
 
-> *“The Occlusihan Blade remembers The Scar Walker; the bearer must not mistake memory for permission.”*
+> *"The fury arrives as though it were the wielder's own. It stays after the fight and settles on whoever is nearest."*
 
 ---
 

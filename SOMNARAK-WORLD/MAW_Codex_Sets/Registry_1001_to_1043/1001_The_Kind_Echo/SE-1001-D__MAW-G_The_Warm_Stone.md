@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Warm Stone
 
-> *“The Warm Stone remembers The Kind Echo; the bearer must not mistake memory for permission.”*
+> *"It gives freely, which is the cost. A specialist who has carried one a decade trusts the warmth and stops reading the gauge."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Rage Fang
 
-> *“The Rage Fang remembers The Wrath Flame; the bearer must not mistake memory for permission.”*
+> *"The wielder's old injuries ache in sympathy with the target's, until they cannot tell whose pain started it."*
 
 ---
 

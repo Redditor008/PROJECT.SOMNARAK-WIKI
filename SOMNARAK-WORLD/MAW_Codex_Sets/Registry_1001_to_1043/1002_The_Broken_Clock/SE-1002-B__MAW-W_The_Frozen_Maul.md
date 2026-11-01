@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Shattered Escapement-Cudgel
 
-> *“The Shattered Escapement-Cudgel remembers The Broken Clock; the bearer must not mistake memory for permission.”*
+> *"It swings with hours the wielder has not been given, and spends them out of the end rather than the middle."*
 
 ---
 

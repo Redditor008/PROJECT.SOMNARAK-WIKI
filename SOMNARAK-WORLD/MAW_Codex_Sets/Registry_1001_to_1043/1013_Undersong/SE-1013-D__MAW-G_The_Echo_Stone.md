@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Echo Stone
 
-> *“The Echo Stone remembers Undersong; the bearer must not mistake memory for permission.”*
+> *"The calls arrive over conversation after enough wear, and the bearer answers them."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Voice
 
-> *“The Voice remembers Maker of Apostle; the bearer must not mistake memory for permission.”*
+> *"The voice is not the wearer's, it is the chain's, and after enough commands the chain's sentences arrive in their mouth unprompted."*
 
 ---
 

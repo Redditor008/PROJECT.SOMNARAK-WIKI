@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Reflection Shard
 
-> *“The Reflection Shard remembers Honest Reflection; the bearer must not mistake memory for permission.”*
+> *"The bearer carries every hidden pain they have looked at, and none of it can be put down."*
 
 ---
 

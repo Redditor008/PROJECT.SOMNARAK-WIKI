@@ -1,6 +1,6 @@
 # M.A.W. PROTECTIVE ATTIRE — The Pendulum-Weighted Greatcoat
 
-> *“The Pendulum-Weighted Greatcoat remembers The Broken Clock; the bearer must not mistake memory for permission.”*
+> *"It keeps the wearer upright by lending them the pendulum's patience. Each hour worn costs an hour of wanting to move."*
 
 ---
 

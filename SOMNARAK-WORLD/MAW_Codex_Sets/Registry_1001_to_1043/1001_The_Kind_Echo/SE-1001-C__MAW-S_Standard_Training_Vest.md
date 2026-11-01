@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Standard Training Vest
 
-> *“Standard Training Vest remembers The Kind Echo; the bearer must not mistake memory for permission.”*
+> *"It protects nothing worth protecting outside the hall, and a worker who keeps it on stops noticing when the pressure is real."*
 
 ---
 

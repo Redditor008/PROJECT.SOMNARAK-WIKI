@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Fragment Plate
 
-> *“The Fragment Plate remembers Weight of All Owed; the bearer must not mistake memory for permission.”*
+> *"The fragments accumulate, and each one is answered as if the wearer had agreed to it."*
 
 ---
 

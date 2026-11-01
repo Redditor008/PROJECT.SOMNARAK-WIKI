@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Standard Training Baton
 
-> *“Standard Training Baton remembers The Kind Echo; the bearer must not mistake memory for permission.”*
+> *"It is made to be harmless, and the harm is the training: whoever learns the grip on this must unlearn it before touching anything that matters."*
 
 ---
 

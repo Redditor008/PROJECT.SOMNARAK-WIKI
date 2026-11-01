@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Duty Blade
 
-> *“The Duty Blade remembers The Forgotten Soldier; the bearer must not mistake memory for permission.”*
+> *"The frustration of being forgotten outlasts the reason for it, and the bearer begins to feel forgotten in rooms where they are known."*
 
 ---
 

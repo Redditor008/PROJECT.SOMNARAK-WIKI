@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Echo Veil
 
-> *“The Echo Veil remembers Undersong; the bearer must not mistake memory for permission.”*
+> *"The wearer answers to their own name a beat late, and the echo is what people end up knowing."*
 
 ---
 

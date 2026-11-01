@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Duty Fang
 
-> *“The Duty Fang remembers The Forgotten Soldier; the bearer must not mistake memory for permission.”*
+> *"It strikes on behalf of a duty the wielder never took on. They end up angry about things they never knew happened."*
 
 ---
 

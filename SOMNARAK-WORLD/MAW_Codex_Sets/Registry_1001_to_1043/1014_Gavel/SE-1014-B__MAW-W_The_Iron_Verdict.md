@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Iron Verdict
 
-> *“The Iron Verdict remembers Gavel; the bearer must not mistake memory for permission.”*
+> *"The verdicts stack, and the last one is always the wielder's."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Promise Fang
 
-> *“The Promise Fang remembers Facsimile; the bearer must not mistake memory for permission.”*
+> *"It keeps a promise made before the wielder arrived, until they are paying debts they never agreed to."*
 
 ---
 

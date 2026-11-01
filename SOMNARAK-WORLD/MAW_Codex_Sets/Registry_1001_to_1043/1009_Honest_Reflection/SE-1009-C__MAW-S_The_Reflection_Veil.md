@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Reflection Veil
 
-> *“The Reflection Veil remembers Honest Reflection; the bearer must not mistake memory for permission.”*
+> *"The wearer watches their own life at one remove and cannot be reached through it, and after a season the reflection moves first."*
 
 ---
 

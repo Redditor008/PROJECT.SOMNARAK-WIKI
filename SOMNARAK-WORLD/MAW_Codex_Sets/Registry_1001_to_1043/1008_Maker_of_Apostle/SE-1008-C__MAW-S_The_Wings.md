@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Wings
 
-> *“The Wings remembers Maker of Apostle; the bearer must not mistake memory for permission.”*
+> *"The pull sharpens with wear until the wearer cannot tell an order from an invitation, and goes."*
 
 ---
 

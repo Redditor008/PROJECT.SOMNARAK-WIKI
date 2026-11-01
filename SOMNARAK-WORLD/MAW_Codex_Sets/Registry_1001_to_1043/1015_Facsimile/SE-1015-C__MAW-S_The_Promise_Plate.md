@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Promise Plate
 
-> *“The Promise Plate remembers Facsimile; the bearer must not mistake memory for permission.”*
+> *"It stops the blow and makes the wearer slow to credit any evidence that the promise is failing."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Merchant's Purse
 
-> *“The Merchant's Purse remembers Night Peddler; the bearer must not mistake memory for permission.”*
+> *"It takes a coin, a button, or a memory, and it chooses. The things it likes best are the ones the bearer would have kept."*
 
 ---
 

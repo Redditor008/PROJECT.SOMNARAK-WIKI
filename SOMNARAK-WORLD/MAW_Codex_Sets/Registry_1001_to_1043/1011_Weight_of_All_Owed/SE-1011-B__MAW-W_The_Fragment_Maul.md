@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Fragment Maul
 
-> *“The Fragment Maul remembers Weight of All Owed; the bearer must not mistake memory for permission.”*
+> *"Each swing adds a piece of the wielder's own past to its head, until they swing and cannot lift what they remember."*
 
 ---
 

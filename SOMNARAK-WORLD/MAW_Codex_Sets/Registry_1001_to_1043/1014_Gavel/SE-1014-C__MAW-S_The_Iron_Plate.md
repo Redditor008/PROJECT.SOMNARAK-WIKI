@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Iron Plate
 
-> *“The Iron Plate remembers Gavel; the bearer must not mistake memory for permission.”*
+> *"It stops the blow and makes the wearer slow to consider new evidence, until they cannot be moved from a first opinion."*
 
 ---
 

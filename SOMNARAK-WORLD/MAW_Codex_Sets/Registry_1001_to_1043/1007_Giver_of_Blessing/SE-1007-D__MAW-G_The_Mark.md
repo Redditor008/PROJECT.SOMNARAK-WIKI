@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Mark
 
-> *“The Mark remembers Giver of Blessing; the bearer must not mistake memory for permission.”*
+> *"The count does not pause. A bearer who stops healing still carries the number they reached."*
 
 ---
 

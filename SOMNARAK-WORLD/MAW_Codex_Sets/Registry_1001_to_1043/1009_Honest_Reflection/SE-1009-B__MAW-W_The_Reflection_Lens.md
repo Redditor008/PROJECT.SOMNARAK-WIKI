@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Reflection Lens
 
-> *“The Reflection Lens remembers Honest Reflection; the bearer must not mistake memory for permission.”*
+> *"It shows a person what they are and charges the wielder for the showing. They end up remembering other people's faces and not what they were looking at."*
 
 ---
 

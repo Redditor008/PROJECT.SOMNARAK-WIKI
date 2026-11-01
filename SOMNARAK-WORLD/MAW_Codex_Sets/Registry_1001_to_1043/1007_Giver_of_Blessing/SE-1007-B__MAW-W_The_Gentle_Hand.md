@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Gentle Hand
 
-> *“The Gentle Hand remembers Giver of Blessing; the bearer must not mistake memory for permission.”*
+> *"A blessing may arrive before it is asked for, and after enough healing the wielder's hands reach for whoever is closest."*
 
 ---
 

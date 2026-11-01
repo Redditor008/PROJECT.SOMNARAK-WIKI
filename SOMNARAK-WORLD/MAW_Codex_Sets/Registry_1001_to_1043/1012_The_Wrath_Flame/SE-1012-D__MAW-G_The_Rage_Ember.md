@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Rage Ember
 
-> *“The Rage Ember remembers The Wrath Flame; the bearer must not mistake memory for permission.”*
+> *"Everyone nearby reacts to a feeling the bearer can no longer withdraw while the ember is warm."*
 
 ---
 

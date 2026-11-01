@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Unmelting Teardrop Brooch
 
-> *“The Unmelting Teardrop Brooch remembers Icedrop; the bearer must not mistake memory for permission.”*
+> *"The wearer weeps at things that have not happened and cannot say why."*
 
 ---
 

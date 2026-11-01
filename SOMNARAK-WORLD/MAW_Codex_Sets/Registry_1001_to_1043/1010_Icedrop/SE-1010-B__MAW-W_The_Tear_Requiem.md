@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Glacial Tear-Mirror
 
-> *“The Glacial Tear-Mirror remembers Icedrop; the bearer must not mistake memory for permission.”*
+> *"It moves the wielder's own tears into the target's account. The wielder is dry-eyed and everyone they have fought is weeping."*
 
 ---
 

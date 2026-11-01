@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Merchant's Lens
 
-> *“The Merchant's Lens remembers Night Peddler; the bearer must not mistake memory for permission.”*
+> *"It prices what it looks at, and the coin is a small, nameless memory. The wielder's past is a shop with most of the stock sold."*
 
 ---
 

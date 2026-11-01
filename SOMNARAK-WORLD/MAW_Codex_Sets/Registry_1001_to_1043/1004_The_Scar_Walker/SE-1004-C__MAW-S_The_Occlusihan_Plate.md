@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Occlusihan Plate
 
-> *“The Occlusihan Plate remembers The Scar Walker; the bearer must not mistake memory for permission.”*
+> *"A verdict hardened into armour. The wearer cannot revise a first judgement, and moves with the certainty of somebody who has already decided."*
 
 ---
 

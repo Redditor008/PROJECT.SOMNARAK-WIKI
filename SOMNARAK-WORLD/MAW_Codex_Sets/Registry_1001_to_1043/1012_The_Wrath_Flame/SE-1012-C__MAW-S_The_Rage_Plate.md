@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Rage Plate
 
-> *“The Rage Plate remembers The Wrath Flame; the bearer must not mistake memory for permission.”*
+> *"The reactions slow by exactly what the wearer is not saying. They end up placid and unable to move quickly."*
 
 ---
 

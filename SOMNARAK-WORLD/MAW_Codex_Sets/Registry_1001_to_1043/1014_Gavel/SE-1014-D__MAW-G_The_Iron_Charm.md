@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Iron Charm
 
-> *“The Iron Charm remembers Gavel; the bearer must not mistake memory for permission.”*
+> *"The temper shortens to the edge of the verdict, and after a season everything reads as evidence."*
 
 ---
 

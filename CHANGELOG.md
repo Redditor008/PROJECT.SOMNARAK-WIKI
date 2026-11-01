@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Forty-two epigraphs open 1001–1043 (batch 63)
+
+The oldest range gives up its first forty-two — Kind Echo's training kit, the Broken Clock triad, Scar Walker, Forgotten Soldier, Night Peddler, Giver of Blessing, Maker of Apostle, Honest Reflection, Icedrop, Weight of All Owed, Wrath Flame, Undersong, Gavel, Facsimile.
+
+These records sit close to one another by design — one entity, one weapon, one suit, one stigma — so the line had to separate three closely related objects without naming a code or a figure. Where the cost had a hand written on it the epigraph follows it: the Standard Training Baton's harm is that the grip must be unlearned; the Warm Stone's cost is that free warmth stops the gauge from being read; the Merchant's Purse chooses its own payment and prefers what the bearer would have kept; the Iron Verdict stacks, and the last verdict is the wielder's.
+
+Forty-two of forty-two clear `quote_audit.py --check`; ledger regenerated at 301 rows, 0 duplicate families.
+
+**Left:** 84 epigraphs, all in `1001_to_1043`.
+
 ## Forty-two epigraphs close 900–930 (batch 62)
 
 The second half of the oldest range — Dawn That Forgot through Once Told — forty-two records. `Registry_900_to_930` is now entirely off the formula: all ninety-three.

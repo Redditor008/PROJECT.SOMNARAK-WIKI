@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Occlusihan Fang
 
-> *“The Occlusihan Fang remembers The Scar Walker; the bearer must not mistake memory for permission.”*
+> *"It reopens what healed wrong. The wielder's old injuries ache where they were deserved, and cannot be separated from the verdict that made them."*
 
 ---
 

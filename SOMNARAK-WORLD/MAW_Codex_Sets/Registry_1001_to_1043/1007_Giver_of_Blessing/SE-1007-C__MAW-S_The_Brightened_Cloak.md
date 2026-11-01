@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Brightened Cloak
 
-> *“The Brightened Cloak remembers Giver of Blessing; the bearer must not mistake memory for permission.”*
+> *"It is worn longer and for less reason each season: to bed, then to work it is not needed for, and the comfort is never free."*
 
 ---
 

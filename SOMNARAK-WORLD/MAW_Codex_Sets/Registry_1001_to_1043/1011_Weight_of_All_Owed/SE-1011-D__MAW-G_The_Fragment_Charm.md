@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Fragment Charm
 
-> *“The Fragment Charm remembers Weight of All Owed; the bearer must not mistake memory for permission.”*
+> *"The bearer moves at the speed of a thing being remembered, and it takes longer every season."*
 
 ---
 

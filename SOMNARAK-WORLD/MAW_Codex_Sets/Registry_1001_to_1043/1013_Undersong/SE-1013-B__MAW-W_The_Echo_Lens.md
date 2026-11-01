@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Echo Lens
 
-> *“The Echo Lens remembers Undersong; the bearer must not mistake memory for permission.”*
+> *"It repeats what it has seen and takes the original. The wielder's past becomes all replay."*
 
 ---
 
