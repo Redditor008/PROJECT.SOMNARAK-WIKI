@@ -45,51 +45,35 @@
 - No breach counter is kept. The audible field widens from the tower, and its edge is confirmed by instrument at every session.
 - Extraction is authorized outside the work cycle and carries the same auditory exposure as standing in the field — the toll is indifferent to where a crew happens to be standing when it comes.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed bell and tower; output is measured by toll interval and duration, face count, and the instrument-confirmed acoustic-circle radius |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 65% during an active toll (Gauge Overflow) |
-| **Sorrow Gauge [HP]** | 818/818 |
-| **Han Pressure [ATK]** | 28–61 per turn of exposure · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** A bell three metres tall, hung fixed inside a tower that was built around it, and sounding with no hand to swing it: the Movement row says a structure or location, and the file says nothing here can be bargained with and that the record describes what the toll does on the way past rather than anything a team can influence. What a watch survives is the interval it stands through.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Self-aware, communicates through tolling |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A dark Han-crystal bell in a tower built around it, beaded with cold, its corroded surface warped into small reaching hands, ringing without being struck |
+| **Perceptible to** | The toll first, through walls, floors and bone; then the blue veins brightening inside the rim, and the faces that open on the tower as the bell takes up a name |
+| **Activation threshold** | Midnight inside the tower's audible district, the consolihan anniversary, or concentrated grief concerning missing children. No breach counter is kept |
+| **Sorrow Gauge [HP]** | 818/818 — the containment meter, read at the tower |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-01 — special tower in Zone B; contained |
-| **Resolution Condition** | The bell stays anchored in its tower; nothing is ever moved or struck. Pugnahan intensifies the tolling and Flerehan does not apply to a structure, so the encounter ends with a completed Ferrehan watch — standing, in the assigned pair, until the toll finishes of its own accord. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Nothing else in the set applies to a tower that sounds without being struck |
+| **Location** | SECTOR-B-01 — special tower in Zone B; contained |
+| **Resolution Condition** | The bell stays anchored in its tower; nothing is ever moved or struck; the watch ends with a completed Ferrehan interval, standing in the assigned pair until the toll finishes of its own accord |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Toll* [**Debuff**] } | "The bell tolls once — and the sound passes through walls, floors, and bones alike." | [Blue veins brighten inside the rim; one toll propagates through tower stone and nearby streets.] | *The first person who hears it suffers -10 Clarity and is marked with an unnamed loss.* **[10 Lament DMG [Lament]]** | When the local clock reaches midnight inside the tower's audible district. |
-| { *The Echoing Loss* [**Debuff**] } | "The ringing will not stop — and with it, small pieces of who you were slip away." | [The toll acquires a relevant name as a tower face appears or turns outward, or sustains around a marked hearer who does not leave the sound.] | *Target loses 10 Clarity; faces and names begin to blur, and any name heard is written unaltered to the name log.* **[10 Lament DMG [Lament]]** | When either (a) at least three people inside the tower boundary speak of, search for, or grieve a lost child, or (b) a person marked by the First Toll remains inside the audible boundary through one full toll interval. |
-| { *The Mourning Blade* [**Attack**] } | "The bell's grief sharpens into a single cutting note aimed at the heart." | [Tower windows darken and the hanging frame vibrates without wind; the cutting note finds a marked hearer. Simple grief does not arm this row.] | *Inflicts Lament pressure and one wound of sorrow.* **[14-22 Lament DMG [Lament]]** | When the bell body is struck, an unauthorized extraction is attempted, or a removal/separation effort is directed at the bell. |
-| { *The Chorus of the Missing* [**Attack**] } | "Every child the bell mourns speaks at once — a chorus that breaks the steady heart." | [The bell gathers the grief of every missing child into one overwhelming peal through tower and streets.] | *Crushing Lament pressure to all hearers in the tower district; no personnel Sorrow Gauge is inferred. Every new face position and name heard is recorded before any further intervention.* **[24-36 Lament DMG [Lament]]** | After a direct strike on the bell or an extraction/separation violation. |
-| { *The Unanswered Vigil* [**Ultimate**] } | "The bell rings and rings for children who will never come home — and the whole tower weeps with it." | [Every face in the tower opens its mouth at once; the vigil expands beyond the tower through the district.] | *All personnel and civilians in the affected district suffer Lament pressure for three turns; this is not ordinary midnight operation.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥65% during an active toll. |
+| Event | What the bell does | What the pair carries out | Reading |
+|---|---|---|---|
+| { *The First Toll* [**Register**] } | Tolls once at midnight and the sound goes through walls, floors and bone alike; blue veins brighten inside the rim. | A worker marked with an unnamed loss, entered on the sheet before the next interval. | The bell is confirmed by hand: the corrosion has warped into small reaching shapes and no other holding in Zone B carries that. |
+| { *The Echoing Loss* [**Exposure**] } | Takes up a relevant name as a face appears or turns outward on the tower, and holds it for as long as a marked hearer stays inside the sound. | Faces and names blurring in the marked worker, with every name heard written unaltered into the name log. | The name is the instrument. The file is explicit that the log takes what was heard and not what seemed likely. |
+| { *The Mourning Blade* [**Refusal**] } | Sharpens its grief into a single cutting note when the body is struck, when extraction is attempted without authorisation, or when a separation is tried. | A refused provocation, an entry against the attempt, and nobody touching the bell again in that cycle. | Simple grief does not arm this row. It is the file's one answer to interference, and it is why the bell is never struck. |
+| { *The Unanswered Vigil* [**Overload**] } | Opens every face on the tower at once and carries the vigil out past the tower and through the district. | Three turns of Lament pressure across everyone in the affected district, entered as not an ordinary midnight operation. | The escalation is acoustic and total. Nothing is aimed, nothing travels, and the bell does not leave its frame for any part of it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The pair confirms the Bell by hand. The corrosion on its surface has warped into small reaching shapes, and no other holding in Zone B carries that. The pair marks where it will stand and where it will withdraw to before the cycle opens.
-2. **Clash:** Nothing here can be bargained with. The pair stands braced, the timekeeper outside the acoustic circle holds the clock, and the recorded combat actions describe what the toll does on the way past rather than anything the team can influence.
-3. **Resolution:** The watch resolves only when the toll has finished, the assigned pair has stood it through, the timekeeper outside the circle closes the interval record, and every new face and heard name has been entered. **The bell stays anchored, Pugnahan is never attempted, and the watch is completed standing in pair**; emergency withdrawal preserves personnel but does not count as resolution, and nothing here is suppression.
+1. **What is confirmed:** the pair by hand against the reaching corrosion, the marks where it will stand and withdraw to, the instrument-confirmed acoustic radius, and the timekeeper posted outside the circle with the clock.
+2. **What the watch does:** the pair stands the toll braced; Viderehan records every new face position and every name heard, unaltered; Ferrehan is the standing itself, in the assigned pair, for the duration of the toll. Pugnahan is never attempted and Flerehan does not apply to a structure.
+3. **How it closes:** the toll finishes of its own accord, the timekeeper outside the circle closes the interval record, and the watch meets the file's documented suppression condition: **The bell stays anchored in its tower; nothing is ever moved or struck; the watch ends with a completed Ferrehan interval, standing in the assigned pair until the toll finishes of its own accord**. Emergency withdrawal preserves personnel and does not count.
 
 ### Consequences
 

@@ -45,51 +45,35 @@
 - No breach counter applies; the holding escalates on condition rather than on a count. Personnel make no undertakings of any kind inside the perimeter, including procedural ones and including the ordinary courtesies of a shift handover.
 - Shard residue is swept from the Row floor under separate authorisation, outside the work cycle, and is weighed; the weights are the basis of the fracture diagram.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35 per cent against Grudge pressure and 25 against everything else, on a fixed object that has never pursued anybody: what a crew holds against is the habit of promising. The gauge opens full at 693 and trips at 75 per cent, and the file allows 4 turns of observation and endurance only. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 693/693 |
-| **Han Pressure [ATK]** | 14–32 per turn of exposure · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** It is a shattered contract hovering in pieces over the Row floor — a discrete object, in the Movement row's words — and nothing is thrown from it: the shard row says so in its own line, and every injury on record was sustained by somebody who had broken something they had said. What the site does is hold people to undertakings, and what a watch survives is four turns of not making any.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Bitter and betrayed |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A shattered contract of red Han-crystal, its fragments hovering and rearranging into signatures that never complete, fever-cold and smelling of char, on the floor of Collector's Row |
+| **Perceptible to** | The arrangement first — fragments leaning toward whoever is speaking — and the cold, against the Row's other red-crystal objects, which are inert and warm |
+| **Activation threshold** | An undertaking spoken in contact with a shard. No breach counter; the holding escalates on condition rather than on a count |
+| **Sorrow Gauge [HP]** | 693/693 — the containment meter, read at the perimeter |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Collector's Row |
-| **Resolution Condition** | Viderehan and Ferrehan only. The 25% figure is the consequence, not the objective, on every Broken Promise cycle logged. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Flerehan and Pugnahan are not merely unhelpful here but unavailable, this being an object |
+| **Location** | SECTOR-C-01, Collector's Row |
+| **Resolution Condition** | Viderehan and Ferrehan worked under certified Tool protocol, and the gauge brought under 25 per cent |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Oath's Remains* [**Debuff**] } | "The promise is broken — and the shards of the vow lodge in your chest, sharp with old betrayal." | [The Promise's fragments embed in the target; the betrayal is internal.] | *Target suffers -10 Resilience; they carry someone else's broken word.* **[10 Grudge DMG [Grudge]]** | When the target enters the Promise's domain. |
-| { *The Broken Word* [**Debuff**] } | "The sound of the promise breaking echoes — a snap, a tear — and every time it echoes, you feel it in your own trust." | [The Promise's breaking reverberates; the target's own faith cracks.] | *Target loses 10 Resilience; they cannot trust anything.* **[10 Grudge DMG [Grudge]]** | When the target hears the echo. |
-| { *The Shard-Strike* [**Attack**] } | "Nothing is thrown. The arrangement sharpens toward whoever has just undertaken something, and the fragments hold a signature one stroke longer than they should." | [The shards cut crystal readily and flesh seldom; every injury on record is shallow, and every one was sustained by somebody who had broken a thing they had said.] | *Inflicts Grudge pressure; the wound of broken trust is the binding taking hold, not a projectile.* **[14-22 Grudge DMG [Grudge]]** | When an undertaking is spoken in contact with a shard. |
-| { *The Full Fracture* [**Attack**] } | "Every promise that was ever broken — every shattered vow — converges and detonates." | [Every undertaking the object has ever held comes back at once, and the arrangement stops pretending to be a signature.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Promise is confronted. |
-| { *Every Promise Breaks* [**Ultimate**] } | "Now every vow in the field shatters — every commitment, every oath — and no one can trust anyone anymore." | [The binding widens out past the perimeter until the whole Row is holding undertakings nobody can stand behind.] | *All in range suffer Grudge pressure for three turns of universal betrayal.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the contract does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Oath's Remains* [**Register**] } | Lodges the fragments of a broken vow in whoever enters the domain, sharp with a betrayal that is not theirs. | A Resilience reading taken at the perimeter, and the standing order read aloud at the door before anybody crosses it. | The identification is the arrangement and the cold. The Row's other red-crystal objects are inert and warm, which is the whole of the field test. |
+| { *The Broken Word* [**Exposure**] } | Lets the snap of the promise reverberate, and every repetition takes a little more of the hearer's trust with it. | Four turns of observation and endurance only, with nothing said that could be construed as an undertaking. | The file's standing order is unusually absolute: no undertakings of any kind inside the perimeter, including procedural ones and including the courtesies of a shift handover. |
+| { *The Shard-Strike* [**Refusal**] } | Sharpens the arrangement toward whoever has just undertaken something, and holds a signature one stroke longer than it should. | The binding taking hold rather than a wound: every injury on record is shallow, and every one belongs to somebody who broke a thing they had said. | Nothing is thrown. The row says it in as many words, and the harm is the binding, not a projectile. |
+| { *Every Promise Breaks* [**Overload**] } | Widens the binding past the perimeter until the whole Row is holding undertakings nobody can stand behind. | A district of people held to promises they cannot identify, and both recorded events identified only afterwards, by staff finding themselves bound to things said in a corridor. | The expansion is by Transform, not escape: the object stays on its floor and what travels is the binding. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification rests on the arrangement and the cold: fragments rearranging toward whoever speaks, and a surface fever-cold to the hand where the Row's other red-crystal objects are inert and warm. Positions are set at the perimeter, the standing order is read aloud at the door, and nothing that could be construed as an undertaking is said.
-2. **Clash:** Four turns, observation and endurance only. Nothing is said aloud that could be construed as an undertaking, and the team lead holds the single sheet on which the session's management condition is written.
-3. **Resolution:** The cycle closes on two conditions and no others: Viderehan and Ferrehan worked under certified Tool protocol, and the gauge brought under 25 per cent. Nothing else is counted as a closing — the file's own record is that a cycle which ends with the arrangement merely quiet is not closed at all, since the fracture diagram fills whether or not the wing has done anything.
+1. **What is confirmed:** the arrangement, the cold against the Row's warm crystal, the perimeter marks, and the single sheet on which the session's management condition is written — held by the team lead, not carried by a worker.
+2. **What the watch does:** Viderehan reads the fragments and the signatures; Ferrehan is the four turns of observation and endurance, worked under certified Tool protocol with nothing spoken that could be construed as an undertaking. Nobody says a promise, including the ordinary ones.
+3. **How it closes:** the file's own phase row fixes two conditions and no others, and the watch meets them: **Viderehan and Ferrehan worked under certified Tool protocol, and the gauge brought under 25 per cent**. A cycle that ends with the arrangement merely quiet is not closed at all, because the fracture diagram fills whether or not the wing has done anything.
 
 ### Consequences
 

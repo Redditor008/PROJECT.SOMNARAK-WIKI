@@ -44,51 +44,35 @@
 - No breach counter applies. The affected area spreads underfoot, and its edge is marked on the floor at every session.
 - Residue is recovered from the floor surface under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 225/225 |
-| **Han Pressure [ATK]** | 2–8 per turn of exposure · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The trace is a route, not a body: the Movement row calls it a structure or location, and the file says plainly that *it advances; it does not travel*. Nothing here burns, nothing has been injured in a hundred and ten years, and its one documented response to personnel is to thicken where an argument is conducted over it. What a watch has to survive is standing on ground that is still angry at nobody.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A thin crimson trace spreading across cobbles, floors, walls and empty surfaces — a footprint with no walker — chalked at twelve fixed radial stations |
+| **Perceptible to** | Instrument first: the advance past last session's chalk, in centimetres. Felt afterwards as a fever-cold anger with no object in it, which the counselling wing distinguishes from anger because it cannot be discharged |
+| **Activation threshold** | A conduct grievance closed against a department, a post or a rotation rather than a named respondent. No counter and no gauge threshold on the file |
+| **Sorrow Gauge [HP]** | 225/225 — the containment meter, read on the circuit |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Mantle Commons |
+| **Valid Work Types** | Viderehan and Ferrehan only. Pugnahan is not merely invalid here but impossible |
+| **Location** | Zone D, Mantle Commons |
 | **Resolution Condition** | Map the trace and stop repeating the grievance |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Mark* [**Debuff**] } | "A stain appears on your hand — and it is shaped like a grudge you have been holding." | [The Trace marks the target; the stain is their own resentment.] | *Target suffers -10 Resilience; the mark is from within.* **[10 Grudge DMG [Grudge]]** | When the target is touched by the Trace. |
-| { *The Bleed* [**Debuff**] } | "The mark spreads — from hand to arm to chest — and it does not wash off." | [The Trace extends across the target; the resentment grows.] | *Target loses 10 Resilience; the stain covers more of them.* **[10 Grudge DMG [Grudge]]** | When the target fails to clean the mark. |
-| { *The Branding* [**Attack**] } | "The trace thickens underfoot — fever-cold, as always; nothing here burns, and in a hundred and ten years it has injured nobody. What deepens is the fury, and it still has nothing in it." | [The Trace thickens where it is argued over; the mark that sets is on the ground, not the skin.] | *Inflicts Grudge pressure; the harm is objectless fury taken on at route strength, and the circuit is void from that station.* **[14-22 Grudge DMG [Grudge]]** | When an argument is conducted over the Trace — its one documented response to personnel, logged nineteen times, none sanctioned. |
-| { *The Full Contamination* [**Attack**] } | "The fury has come over the whole of you — and it is still nobody's. There is no one at the end of it to finish it with." | [No takeover is on record: the trace has never left the Commons or crossed a dwelling threshold. What saturates is the sensation, which the counselling wing distinguishes from anger because it cannot be discharged.] | *A heavy Crimson saturation; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the worker carries their own grievance onto the route and finishes it there. |
-| { *The Contagion* [**Ultimate**] } | "It does not hop. Nothing has ever been seen to move. A fortnight later the red edge is a street further on, and everyone crossing the new ground feels the same empty fury at once." | [The Trace advances surface to surface, eleven to twenty days behind a closure, and has never left the Commons in a hundred and ten years.] | *Everyone in range takes Grudge pressure for three turns while the new ground reads hot; the event was a signature in the complaints office, not anything on the cobbles.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| Event | What the trace does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The First Mark* [**Register**] } | Marks a hand with a stain shaped like a grievance the person has been holding, and the stain has no author but them. | Recognition that the thing on the skin is their own resentment, itemised. | Nothing reaches out. The mark is described in the file as being from within, which is why the counselling wing reads it before the site does. |
+| { *The Bleed* [**Exposure**] } | Extends from hand to arm to chest and does not wash off while the carrying continues. | A mark that widens with the resentment rather than with the exposure, and a worker who cannot clean it off by scrubbing. | The remedy is not cleaning. It is the circuit, walked alone, with nothing carried onto the route. |
+| { *The Thickening* [**Refusal**] } | Thickens where it is argued over — the one documented response to personnel, logged nineteen times, none sanctioned. | A site that reads hotter at the same session it was argued on, and a station circuit voided from that point. | The file's own line: nothing here burns, and in a hundred and ten years it has injured nobody. What deepens is the fury, and it still has nothing in it. |
+| { *The Contagion* [**Contagion**] } | Advances surface to surface eleven to twenty days behind a closure taken at the complaints office, and has never left the Commons or crossed a dwelling threshold. | A fortnight's grievances to pull and case numbers to read, because the event is a signature in an office and not anything on the cobbles. | The lag was established in Year 4231 and is the strongest evidence in the folder. A crew that treats the advance as a field event will stand watching a red line that does nothing. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** What confirms this one is the advance against the chalk, never the trace itself. The crimson reads the same at a still quarter as it does at 94 centimetres, and 7 early reports describe a site that never changed across quarters in which the edge crossed a street. Position and withdrawal are both settled before the cycle opens.
-2. **Clash:** The reading is the advance of the crimson edge past the previous session's chalk line, in centimetres, at twelve fixed radial stations set into the cobbles, reported as the largest single advance. Seven at baseline, zero at the floor, ninety-four at the ceiling.
-3. **Resolution:** Second circuit of the twelve stations, the new line chalked, and the documented condition: **Map the trace and stop repeating the grievance.** The second half of that sentence was treated as decoration for ninety years and is the operative half.
+1. **What is confirmed:** the twelve chalked stations, last session's line, and the fortnight's closed conduct grievances — before anybody walks the route.
+2. **What the watch does:** one worker walks the twelve stations in fixed order and in silence; Viderehan reads the trace as a sequence of who stood where and for how long; Ferrehan is the full circuit with no argument, no grievance of the worker's own and no conversation carried onto it.
+3. **How it closes:** second circuit of the twelve stations with the new line chalked, against the file's documented suppression condition: **Map the trace and stop repeating the grievance**. The second clause is the containment; the first is only how it is measured.
 
 ### Consequences
 

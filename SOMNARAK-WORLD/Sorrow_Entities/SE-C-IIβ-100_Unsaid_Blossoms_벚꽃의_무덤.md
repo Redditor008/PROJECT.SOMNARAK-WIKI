@@ -44,51 +44,35 @@
 - No breach counter. The furthest open blossom is marked at every session and has stayed inside the same ring for fifty-two annual surveys; the flowering does not spread and the entries below claiming it does have been corrected.
 - Residue from the bed is the extraction source, authorized separately. Fallen blossoms are not residue: they are gathered, counted and stored unread, and the store is now substantial and will not be examined.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed; output is measured in blossoms fallen per day, counted at the same hour |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
-| **Activation threshold** | None. The fall is continuous and has never once been triggered by a gauge reading; the 60% entry is withdrawn |
-| **Sorrow Gauge [HP]** | 445/445 |
-| **Han Pressure [ATK]** | 8–18 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** One grave, one tree of true living wood, and a fall that happens in still air: the Movement row says nothing moves but the blossoms coming down, and the Battle Phases said outright that there is no clash and the standing order forbids treating the site as though there could be. What happens here is a count, taken in silence, against a store nobody is allowed to read.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats blooming |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A single marked grave under a living cherry whose blossoms are pale crystal, salt-cold and never rotting, with a chalked marker ring and a locked store at the edge of it |
+| **Perceptible to** | The fall first — crystal petals coming down in still air at the same hour — then the heavy air inside the ring, and the smell of cold rain and old flowers |
+| **Activation threshold** | None. The fall is continuous, observer-independent, and has never once followed a gauge reading |
+| **Sorrow Gauge [HP]** | 445/445 — the containment meter, read at the count |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-D-02, Echo Gardens |
+| **Valid Work Types** | Viderehan and Ferrehan only. Flerehan and Pugnahan are structurally impossible on a Place |
+| **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Day's Fall* [**Debuff**] } | "Forty-one today. We have counted every one since the store was opened and we have read none of them." | [The day's fall is counted into the store, blossom by blossom.] | *The counter suffers -10 Composure; the figure is entered unrounded.* **[10 Lament DMG [Lament]]** | At the daily count. |
-| { *The Store* [**Debuff**] } | "Nine hundred thousand sentences in a locked room, and not one of them is ours to read." | [The store is opened to receive the day's count and closed again.] | *The counter loses 10 Composure; the store is not examined.* **[10 Lament DMG [Lament]]** | Daily, on storage. |
-| { *Spoken Aloud* [**Attack**] } | "Somebody said a name at normal volume inside the ring. Every open blossom shut at once and the day's fall was void." | [Speech within the marker ring closes the bloom.] | *Lament pressure on all present; the day is marked void in the series.* **[14-22 Lament DMG [Lament]]** | On any raised voice inside the ring. |
-| { *Three Hundred and Eighty* [**Attack**] } | "The heaviest day on record, the morning after the Fourthmonth seal. Eleven workers were inside it and the net refused nine personal messages that night." | [The day's fall exceeds three hundred.] | *Heavy Lament pressure; the gauge rises 15%.* **[24-36 Lament DMG [Lament]]** | On any fall above three hundred. |
-| { *Four Hundred and Eleven* [**Ultimate**] } | "That is how many messages this building refused on the operational net while people were sealed in. Every refusal was correct. The tree has a day's fall for all of them." | [The quarter's refused-message return is read at the graveside, quietly.] | *All present suffer Lament pressure for three turns.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | On publication of the quarterly net traffic return. |
+| Event | What the site does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Day's Fall* [**Register**] } | Drops blossom after blossom for as long as the hour lasts, at a rate nobody has ever seen vary with weather, season or attendance. | A count taken at the same hour, blossom by blossom, entered unrounded into the series. | Forty-one is an ordinary day. The number is the whole of the observation and there is no reading to be had from the tree itself. |
+| { *The Closing* [**Refusal**] } | Shuts every open blossom at once and voids the day's fall if anybody speaks aloud inside the ring, including speech addressed to a third person. | A silence kept by instruction, not by ceremony — the Wardens proposed it and the administration made it mandatory. | This is the site's only response to personnel, and it is a refusal to go on being counted. A bloom that stays open under a raised voice is not this holding. |
+| { *The Store* [**Exposure**] } | Receives the day's count into a locked room that is now nine hundred thousand sentences deep and is not examined. | Storage, a seal check, and the discipline of not reading what is inside. | Nothing has ever been read out of the store. The temptation is the hazard, and the file records it as such. |
+| { *Four Hundred and Eleven* [**Overload**] } | Answers the quarter's refused-message return with the heaviest falls on record — three hundred and eighty, four hundred and eleven — reading the operational net's own arithmetic back at the graveside. | The quarter's traffic return, read quietly, and the heaviest days entered beside the ordinary ones. | Every refusal was correct. The tree has a day's fall for all of them, and the file does not call that a punishment. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is checked (a single marked grave under a living cherry whose blossoms are pale crystal, salt-cold, falling in still air and never rotting; a chalked marker ring for the heavy-air boundary; a locked store. If blossoms are being opened, read, or carried off the site, the holding is being mishandled and the count is stopped) and Unsaid Blossoms is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** There is no clash and the standing order's first line forbids treating the site as though there could be: this is a burial place before it is a containment. What the party does is count the day's fall, blossom by blossom, into the store without reading a single one, and hold the count against the quarter's traffic return from the operational net.
-3. **Resolution:** There is no containment, retreat or suppression outcome to achieve at the grave; the cycle closes on the documented condition alone: **The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached**.
+1. **What is confirmed:** the marker ring and its outlying markers, the store's seal, yesterday's count, and the hour — which does not move for anybody's convenience.
+2. **What the watch does:** Ferrehan counts the fall standing, in the fall, in silence; Viderehan keeps the record and confirms the ring. Nothing is opened, read, estimated or carried off the site.
+3. **How it closes:** the day's fall counted whole and entered unrounded, the store sealed behind it, against the file's documented suppression condition: **The day's fall is counted whole, entered unrounded, and stored unread, with the quarter's refused-message figure attached**.
 
 ### Consequences
 

@@ -45,51 +45,35 @@
 - No breach counter is kept for the Mask. It is housed with the rest of the Troupe, and escalation in one member is logged against all of them.
 - Recovery of the implement is authorized separately from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 394/394 |
-| **Han Pressure [ATK]** | 8–20 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** It is a mask in a tray. The Movement row calls it a device, and the file's own last line says it has no recorded means of leaving that tray and that no violent exit or travelling body is established. What it does is grin at whoever comes near and take the expression off their face when it is worn — neither of which is a blow.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats smiling |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A lacquered mask with a fixed gentle smile, warm to the touch and sized to a face, in its tray with the lid down, in a vault that holds four masks answering to roughly the same description |
+| **Perceptible to** | The smile first, and the warmth in the lacquer that should not be there; the interior is dark and wrong and absorbs the wearer's own expression so only the painted one shows |
+| **Activation threshold** | Direct contact, and placement over the face. No breach counter is kept for the Mask |
+| **Sorrow Gauge [HP]** | 394/394 — the containment meter, read at the tray |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, contained with the Masked Troupe |
-| **Resolution Condition** | Viderehan and Ferrehan only; certified Tool protocol; the mask is never worn; tray thermometer logged at both ends of every cycle; the room list recorded in full — the only close a The Happy Mask cycle has. |
+| **Valid Work Types** | Viderehan and Ferrehan only. The entity is an Object and the other two Work Types are unavailable to it |
+| **Location** | SECTOR-C-01, contained with the Masked Troupe |
+| **Resolution Condition** | Viderehan and Ferrehan only; certified Tool protocol; the mask is never worn; tray thermometer logged at both ends of every cycle; the room list recorded in full |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Painted Smile* [**Debuff**] } | "The mask grins — and the grin is so wide, so bright, that your own smile rises to meet it, and neither is real." | [The Mask imposes false happiness; the target's genuine emotions are suppressed.] | *Target suffers a Void mark; their real feelings are being buried.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target sees the Mask. |
-| { *The Hiding Place* [**Debuff**] } | "There is nothing at all behind the smile, and the nothing wants something." | [The hollow inside pulls the wearer in, and what sits behind the joy becomes something they can feel.] | *Clarity goes; the borrowed happiness is eating into them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Mask is on somebody's face. |
-| { *The Beaming Strike* [**Attack**] } | "The mask flashes its brightest smile — and the brightness burns." | [A burst of false joy strikes the target like light.] | *Inflicts Void damage; the artificial happiness erodes real identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mask is struck. |
-| { *The Shattered Smile* [**Attack**] } | "The mask splits, and the void that had been wearing joy for a face shows through." | [The break leaves the hollow where anyone can see it.] | *A heavy Void rupture; the reading jumps 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Mask takes damage. |
-| { *Everyone Is Happy Now* [**Ultimate**] } | "The smile gets onto every face in the room, and the same void stands behind all of them." | [The borrowed joy runs out until it covers the whole floor.] | *Everyone in range takes Void erosion for three turns of hollow happiness.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| Event | What the mask does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Painted Smile* [**Register**] } | Grins widely enough that the person looking at it smiles back, and neither expression is theirs. | A smile that arrives without being chosen, and the distinct absence of the feeling that should have produced it. | The Mask is identified by tray number before the lid is lifted: four masks here answer to roughly the same description and two of them punish handling. |
+| { *The Hiding Place* [**Exposure**] } | Shows, to anyone wearing it, the hollow behind the joy — and the hollow wants something. | A clarity that goes out of their keeping, and a borrowed happiness that has to be maintained. | Nobody puts it on. The clause in the resolution is discipline rather than caution, and it is written that way because it was entered after the first warm reading. |
+| { *The Brightness* [**Refusal**] } | Answers a strike with its brightest smile, and the brightness burns; the lacquer holds no blade and returns nothing physical. | A flare of false joy across whoever is nearest, and real identity eroded in the person looking. | The file's one violent-sounding row is a face. It has never left the tray, and the record says plainly that it has no means to. |
+| { *Everyone Is Happy Now* [**Overload**] } | Past the 65 per cent reading, puts the smile onto every face in the room and the same void behind all of them. | Three turns of hollow happiness that end when the room is cleared, and a floor full of people wearing something they did not put on. | The escalation is a spread and not a pursuit. Closing the lid and clearing the room ends it, which is what the vault has done every time. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The Mask is identified by tray number and designation before anybody lifts the lid: 4 masks in this vault answer to roughly the same description, and 2 of them punish handling. The approach is confirmed and the pair takes its marks before a hand goes near the lid.
-2. **Clash:** The pair works the standard Work Types and draws on M.A.W. equipment while the entity follows The Happy Mask's recorded combat actions. Sorrow Gauge movement decides how far it escalates.
-3. **Resolution:** The watch is closed at the standard quotas, or on the suppression condition the seniors entered after the first warm reading: **Viderehan and Ferrehan only; the mask is never worn and the tray reading is logged at both ends of the cycle**. The clause is discipline and not caution: nobody puts the thing on, and the two readings at the tray are what the day is written from.
+1. **What is confirmed:** the tray number, the designation, the lid, the tray thermometer at the start of the cycle, and the room list — before a hand goes near the lid.
+2. **What the watch does:** Viderehan and Ferrehan work the room and not the mask, because the reading is of the people present and changes only when they do. The mask stays in its tray, the lid goes back down, and the second thermometer reading is taken at the close.
+3. **How it closes:** against the file's documented suppression condition: **Viderehan and Ferrehan only; certified Tool protocol; the mask is never worn; tray thermometer logged at both ends of every cycle; the room list recorded in full** — then the lid closed, the room cleared, the names logged, and the vault left for a full cycle.
 
 ### Consequences
 

@@ -45,51 +45,35 @@
 - No breach counter. The level is gauged from the archive floor every watch, and the annual rise is the only number this holding reports upward.
 - Residue is lifted from the rim stone under separate authorisation, never from the liquid, and never by anybody who has looked in that month.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Void. The liquid has never been sampled; the two proposals to draw a flask are in the Armoury ledger and the second was refused in one line — *we would be holding somebody's memory in a cupboard.* |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 587/587 |
-| **Han Pressure [ATK]** | 15–34 per turn of exposure · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** A well is a structure and the Movement row says so; the shaft has never been entered, nobody descends, and the two attempts to descend were refused before they reached the chamber. What the rim does is give back what settled into it, in the voice of whoever it came from, and what a watch has to survive is looking in.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — patient; it does not act within an encounter so much as outlast it |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A deep stone well beneath the Grand Archive, rim worn and dark, filled with something that is not water and reflects the viewer's past rather than their face |
+| **Perceptible to** | The surface first — slow and viscous, blood-warm, numb and faintly sweet, smelling of ash — and then a voice out of it that belongs to somebody, sometimes to nobody the facility can identify |
+| **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
+| **Sorrow Gauge [HP]** | 587/587 — the containment meter, read at the rim |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, beneath the Grand Archive |
+| **Valid Work Types** | Viderehan and Ferrehan only, both at the rim, Viderehan never alone and never by the Warden on watch |
+| **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **Resolution Condition** | Seal access and permit only supervised viewing |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Surface Ripple* [**Debuff**] } | "Something moves in the water and it is a face you had put out of your mind on purpose." | [A memory the observer had deliberately set aside returns to the surface.] | *Void pressure; the observer can name the memory afterwards and 94 of 188 have declined to.* **[Void DMG [Void]]** | Within the first minutes at the rim. |
-| { *The Long Ago* [**Debuff**] } | "The old grief comes up colder than the liquid and in better order than you left it." | [Older material surfaces, organised and dated.] | *Void pressure; the accuracy is the hazard — observers describe recovered memories as corrected rather than recalled.* **[Void DMG [Void]]** | Past about twenty minutes at the rim. |
-| { *The Drowned Face* [**Attack**] } | "A face surfaces — and it is not glad to be remembered." | [A memory given form rises and strikes.] | *Inflicts Void damage; a forgotten wound reopens.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Well is disturbed. |
-| { *The Bottom of the Well* [**Attack**] } | "The one you built the well over comes up last." | [The oldest held memory surfaces whole.] | *Heavy Void damage to whoever is looking in; four occurrences, all four observers were relieved at the time and none has worked the rim since.* **[Void DMG [Void]]** | When somebody looks directly into the liquid. |
-| { *Every Memory at Once* [**Ultimate**] } | "It overflows, and everything it has ever held comes over the rim together." | [The well floods the chamber with everything in it.] | *Void erosion to everyone present for three cycles; the flood recedes by itself and leaves the floor dry.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once, in the week the Archive's deposit backlog passed four hundred leaves. |
+| Event | What the well does | What the observer carries out | Reading |
+|---|---|---|---|
+| { *The Surface Ripple* [**Register**] } | Returns, within the first minutes at the rim, something the observer had deliberately put out of mind. | A memory they can name afterwards and would rather not — 94 of 188 have declined to. | Nothing is aimed and nothing is thrown. The well gives back what settled into it, in the voice of whoever it came from. |
+| { *The Long Ago* [**Exposure**] } | Past about twenty minutes at the rim, older material surfaces organised, dated and colder than the liquid. | Material that arrives corrected rather than recalled — better ordered than it was lived, and more flattering to nobody. | The accuracy is the hazard. Observers describe it as being told, and the record it produces is why everything is written in the chamber. |
+| { *The Bottom of the Well* [**Refusal**] } | Brings up last the one the well was built over, whole, to whoever looks directly into the liquid. | Four occurrences, four observers relieved at the time, none of whom has worked the rim since. | This is the refusal in the record: the well will not leave the oldest thing buried. Access is sealed and viewing is supervised because of these four rows and no other reason. |
+| { *Every Memory at Once* [**Overload**] } | Overflows the rim with everything it has ever held, once, above 65 per cent, in the week the Archive's deposit backlog passed four hundred leaves. | Void erosion across the chamber for three cycles, and a floor that is dry again by itself. | The flood recedes and leaves nothing behind. The failure it records is not the water — it is the months the level was allowed to rise. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Two observers take the rim, the cover stays on, and the roles are set at the door: one speaks to the well, one watches the speaker and never looks at the surface. The roles do not swap mid-cycle.
-2. **Clash:** Viderehan at the rim by a rostered worker, never by the Warden on watch, and never alone. Ferrehan is holding position beside an open cover for the stated interval. Everything seen is written down in the chamber before anybody leaves it.
-3. **Resolution:** The record is written in the chamber, at the rim, before anybody leaves. 188 cycles; the four written outside the chamber are the four the Archive has had to discard as unreliable, and all four authors insisted at the time that they remembered perfectly.
+1. **What is confirmed:** the cover, the rim gauge read against the archive floor, the pair on the rim, and the roles set at the door — one speaks to the well, one watches the speaker and never looks at the surface. The roles do not swap mid-cycle.
+2. **What the watch does:** Viderehan at the rim by a rostered worker in pairs, never by the Warden on watch; Ferrehan is holding position beside an open cover for the stated interval. Everything seen is written down in the chamber before anybody leaves it.
+3. **How it closes:** 188 cycles on the file, and the close is the file's documented suppression condition: **Seal access and permit only supervised viewing** — with the record written at the rim before the chamber is left. The four written outside are the four the Archive has discarded as unreliable, and all four authors insisted at the time that they remembered perfectly.
 
 ### Consequences
 
