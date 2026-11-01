@@ -33,12 +33,12 @@ The Frozen Veil of Seething Tundra’s set grants resistance to Void damage, pro
 
 ## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Suit Record*
 
-The first bearer of The Frozen Veil encountered this source response: Remains cold while testing the worker's patience. The suit discharges the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Veil encountered this source response: Remains cold while testing the worker's patience. The suit discharges the immediate hazard only after the team attributed it to Seething Tundra. A wearer could not be corrected by anything that happened for a full season and was reported as unchanged, and the Veil’s binding is that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Seething Tundra's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wearer revises nothing at all, and answers questions about themselves from an account written years ago.
 - Terminal state: Seething Tundra's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-884 -->
@@ -47,7 +47,7 @@ The first bearer of The Frozen Veil encountered this source response: Remains co
 
 ## SET RELATIONSHIP
 
-Within *Seething Tundra — Witnessed Form*, The Frozen Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Seething Tundra — Witnessed Form*, The Frozen Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing can still change the wearer’s mind about themselves; the first revision refused takes the Veil out.
 
 ---
 

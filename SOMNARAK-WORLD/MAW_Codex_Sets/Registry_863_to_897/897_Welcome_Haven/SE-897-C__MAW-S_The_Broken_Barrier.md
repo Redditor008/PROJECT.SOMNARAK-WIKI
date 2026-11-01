@@ -33,12 +33,12 @@ The Broken Barrier is the suit record of Welcome Haven’s set, and its canonica
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Suit Record*
 
-The first bearer of The Broken Barrier encountered this source response: Tests whether the worker can stand before failed safety. The suit isolates the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Broken Barrier encountered this source response: Tests whether the worker can stand before failed safety. The suit isolates the immediate hazard only after the team attributed it to Welcome Haven. A wearer took a breach into the plate and stood in it, and the Broken Barrier’s binding is the account written from inside the opening.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Welcome Haven's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wearer stops absorbing at all and becomes the passage, and things cross where they stand.
 - Terminal state: Welcome Haven's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Admit the wall failed; do not promise perfect protection” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Broken Barrier encountered this source response: Tests w
 
 ## SET RELATIONSHIP
 
-Within *Welcome Haven — Witnessed Form*, The Broken Barrier performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Welcome Haven — Witnessed Form*, The Broken Barrier performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer is still between the breach and the room; the first crossing they wave through takes the Barrier out.
 
 ---
 

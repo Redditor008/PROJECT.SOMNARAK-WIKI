@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twelve records, four sources (batch 85)
+
+`SE-884` Seething Tundra, `SE-891` Screaming Masonry, `SE-895` Survivor's Breath, `SE-897` Welcome Haven — **twelve records, thirty-six sentences.** The Frozen Veil keeps resonance while one thing can still change its wearer's mind about themselves; the Screaming Masonry Ring drops out the first time a debt is settled without the bearer present; the Broken Barrier holds only while the wearer is still standing between the breach and the room, and loses the set the first time they wave something through.
+
+**84 of 345 done. 261 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The Conversion Guide, audited line by line (batch 84)
 
 The guide was read whole and every claim it makes about the archive was tested against the archive. Four statements did not survive:

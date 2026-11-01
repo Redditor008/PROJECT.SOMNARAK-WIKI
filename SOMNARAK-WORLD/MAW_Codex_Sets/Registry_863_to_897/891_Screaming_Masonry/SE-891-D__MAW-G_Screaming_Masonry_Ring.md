@@ -32,12 +32,12 @@ The Screaming Masonry Ring is the stigma record of its source’s set — head-s
 
 ## ITEM-SPECIFIC HISTORY — *The Screaming Masonry Source-Trace: Stigma Record*
 
-The first Screaming Masonry Ring field bearer encountered this source response: Reveals the obligations behind the cry. The stigma witnesses the immediate hazard only after the team attributed it to Screaming Masonry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Screaming Masonry Ring field bearer encountered this source response: Reveals the obligations behind the cry. The stigma witnesses the immediate hazard only after the team attributed it to Screaming Masonry. A bearer turned up at every outstanding debt in the ward for a month and could not say who had asked them, and the Ring’s binding is the register kept that month.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Screaming Masonry's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the obligations become legible at a distance, and the bearer is already walking before they have read them.
 - Terminal state: Screaming Masonry's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge duties without accepting impossible blame” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Screaming Masonry Ring field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Ring performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Ring performs the stigma role while the other pieces preserve attribution and survival. The Ring drops out of the set when a debt is settled without the bearer being present.
 
 ---
 

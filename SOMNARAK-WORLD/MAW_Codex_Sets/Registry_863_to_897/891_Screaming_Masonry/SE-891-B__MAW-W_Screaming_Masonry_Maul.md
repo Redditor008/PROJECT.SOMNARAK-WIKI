@@ -33,12 +33,12 @@ The Screaming Masonry Maul is the weapon record of its source’s set, a Weight 
 
 ## ITEM-SPECIFIC HISTORY — *The Screaming Masonry Source-Trace: Weapon Record*
 
-The first Screaming Masonry Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Screaming Masonry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Screaming Masonry Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Screaming Masonry. A wielder added an unfulfilled duty to a strike and then carried the building it belonged to for a year, and the Maul’s binding is that year’s weight sheet.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Screaming Masonry's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unfinished promises start arriving from other people’s ledgers, and the wielder strikes in their names.
 - Terminal state: Screaming Masonry's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge duties without accepting impossible blame” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Screaming Masonry Maul field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow thrown for a duty already discharged.
 
 ---
 

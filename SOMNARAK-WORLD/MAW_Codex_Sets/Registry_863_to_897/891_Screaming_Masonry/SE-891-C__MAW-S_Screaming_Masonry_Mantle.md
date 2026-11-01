@@ -33,12 +33,12 @@ The Screaming Masonry Mantle is the suit record of its source’s set, granting 
 
 ## ITEM-SPECIFIC HISTORY — *The Screaming Masonry Source-Trace: Suit Record*
 
-The first Screaming Masonry Mantle field bearer encountered this source response: Weighs the worker's resolve. The suit marks the immediate hazard only after the team attributed it to Screaming Masonry. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Screaming Masonry Mantle field bearer encountered this source response: Weighs the worker's resolve. The suit marks the immediate hazard only after the team attributed it to Screaming Masonry. A wearer answered a summons addressed to somebody else and was not corrected, and the Mantle’s binding is that roster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Screaming Masonry's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the duties arrive without a name on them, and the wearer takes them all as their own.
 - Terminal state: Screaming Masonry's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge duties without accepting impossible blame” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Screaming Masonry Mantle field bearer encountered this source response
 
 ## SET RELATIONSHIP
 
-Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still tell an assigned duty from an absorbed one; the first one they cannot takes the Mantle out.
 
 ---
 

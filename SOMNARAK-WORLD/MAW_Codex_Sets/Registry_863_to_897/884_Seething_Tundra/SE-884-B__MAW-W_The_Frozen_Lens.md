@@ -35,12 +35,12 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 ## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Weapon Record*
 
-The first bearer of The Frozen Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Seething Tundra. A wielder hardened a grievance into stone and could not afterwards put it down, and the Awl’s binding is the weight recorded at that bench.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Seething Tundra's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the preserved things stop being feelings and start being furniture, and the wielder sets them in rooms they live in.
 - Terminal state: Seething Tundra's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-884 -->
@@ -49,7 +49,7 @@ The first bearer of The Frozen Lens encountered this source response: N/A — Ob
 
 ## SET RELATIONSHIP
 
-Within *Seething Tundra — Witnessed Form*, The Frozen Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Seething Tundra — Witnessed Form*, The Frozen Lens performs the weapon role while the other pieces preserve attribution and survival. The Awl leaves the set on the first strike that preserves something the wielder was ready to put down.
 
 ---
 

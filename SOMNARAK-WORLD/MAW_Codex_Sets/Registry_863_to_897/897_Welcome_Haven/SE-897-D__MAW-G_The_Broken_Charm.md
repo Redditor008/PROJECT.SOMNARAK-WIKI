@@ -32,12 +32,12 @@ The Broken Charm is the stigma record of Welcome Haven’s set — tail-slot, be
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Stigma Record*
 
-The first bearer of The Broken Charm encountered this source response: Reveals what the wall failed to protect. The stigma interrupts the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Broken Charm encountered this source response: Reveals what the wall failed to protect. The stigma interrupts the immediate hazard only after the team attributed it to Welcome Haven. A bearer let something through to keep a door intact and reported the door as still standing, and the Charm’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Welcome Haven's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the bearer opens before anything has asked, in rooms with nothing to let through.
 - Terminal state: Welcome Haven's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Admit the wall failed; do not promise perfect protection” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Broken Charm encountered this source response: Reveals w
 
 ## SET RELATIONSHIP
 
-Within *Welcome Haven — Witnessed Form*, The Broken Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Welcome Haven — Witnessed Form*, The Broken Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the first time the bearer refuses what comes through.
 
 ---
 

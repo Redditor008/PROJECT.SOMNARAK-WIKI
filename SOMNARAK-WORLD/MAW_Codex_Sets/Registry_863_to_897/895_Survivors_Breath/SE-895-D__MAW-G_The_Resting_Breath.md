@@ -32,12 +32,12 @@ The Resting Breath is the stigma record of Survivors’ Breath’s set — head-
 
 ## ITEM-SPECIFIC HISTORY — *The Survivors' Breath Source-Trace: Stigma Record*
 
-The first bearer of The Resting Breath encountered this source response: Reveals the crises that produced each breath. The stigma severs the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Breath encountered this source response: Reveals the crises that produced each breath. The stigma severs the immediate hazard only after the team attributed it to Survivors' Breath. A bearer borrowed three hours of calm in a shift and had not slept by the end of it, and the Breath’s binding is the sleep log for that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Survivors' Breath's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the calm is borrowed further ahead, and the bearer stops sleeping in order to pay for it.
 - Terminal state: Survivors' Breath's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Permit rest; do not force personnel to continue working through it” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Resting Breath encountered this source response: Reveals
 
 ## SET RELATIONSHIP
 
-Within *Survivors' Breath — Witnessed Form*, The Resting Breath performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Survivors' Breath — Witnessed Form*, The Resting Breath performs the stigma role while the other pieces preserve attribution and survival. The Breath drops out of the set when the bearer sleeps without borrowing.
 
 ---
 

@@ -33,12 +33,12 @@ The Resting Veil is the suit record of Survivors’ Breath’s set, granting res
 
 ## ITEM-SPECIFIC HISTORY — *The Survivors' Breath Source-Trace: Suit Record*
 
-The first bearer of The Resting Veil encountered this source response: Tests whether the worker can rest without abandoning duty. The suit stabilizes the immediate hazard only after the team attributed it to Survivors' Breath. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Resting Veil encountered this source response: Tests whether the worker can rest without abandoning duty. The suit stabilizes the immediate hazard only after the team attributed it to Survivors' Breath. A wearer was found asleep with their eyes open at a post they had not left, and the Resting Veil’s binding is the incident note from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Survivors' Breath's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the intervals lengthen into whole shifts, and the wearer is reported present throughout them.
 - Terminal state: Survivors' Breath's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Permit rest; do not force personnel to continue working through it” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Resting Veil encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *Survivors' Breath — Witnessed Form*, The Resting Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Survivors' Breath — Witnessed Form*, The Resting Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be woken by somebody else; the first interval nobody can break takes the Veil out.
 
 ---
 

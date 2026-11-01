@@ -35,12 +35,12 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Weapon Record*
 
-The first bearer of The Broken Fang encountered this source response: Attacks with burning fragments. The weapon witnesses the immediate hazard only after the team attributed it to Welcome Haven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Broken Fang encountered this source response: Attacks with burning fragments. The weapon witnesses the immediate hazard only after the team attributed it to Welcome Haven. A wielder struck through a gap and found the cover behind it gone, and the Breach-Pike’s binding is the report filed after that entry.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Welcome Haven's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cover is spent before the strike is thrown, and the wielder opens the ground they are standing on.
 - Terminal state: Welcome Haven's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Admit the wall failed; do not promise perfect protection” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Broken Fang encountered this source response: Attacks wi
 
 ## SET RELATIONSHIP
 
-Within *Welcome Haven — Witnessed Form*, The Broken Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Welcome Haven — Witnessed Form*, The Broken Fang performs the weapon role while the other pieces preserve attribution and survival. The Pike leaves the set on a blow thrown from a position the wielder still holds.
 
 ---
 

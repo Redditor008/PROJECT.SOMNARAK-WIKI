@@ -32,12 +32,12 @@ The Frozen Fragment is the stigma record of Seething Tundra’s set — head-slo
 
 ## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Stigma Record*
 
-The first bearer of The Frozen Fragment encountered this source response: Reveals the memory embedded in its surface. The stigma redirects the immediate hazard only after the team attributed it to Seething Tundra. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Fragment encountered this source response: Reveals the memory embedded in its surface. The stigma redirects the immediate hazard only after the team attributed it to Seething Tundra. A bearer sat through four surges and was found carrying all four in their own body, and the Fragment’s binding is the note made at that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Seething Tundra's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the stored weather begins arriving from rooms the bearer has never entered, and it does not thaw.
 - Terminal state: Seething Tundra's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-884 -->
@@ -46,7 +46,7 @@ The first bearer of The Frozen Fragment encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Seething Tundra — Witnessed Form*, The Frozen Fragment performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Seething Tundra — Witnessed Form*, The Frozen Fragment performs the stigma role while the other pieces preserve attribution and survival. The Fragment drops out of the set when the bearer lets one stored moment go.
 
 ---
 
