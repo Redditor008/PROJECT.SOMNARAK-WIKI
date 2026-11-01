@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Memory Mantle
 
-> *“The Memory Mantle remembers Chain of Memories; the bearer must not mistake memory for permission.”*
+> *"Each memory the wearer hands to somebody else lands on their own shoulders as fatigue, and they dream of other people's rooms."*
 
 ---
 

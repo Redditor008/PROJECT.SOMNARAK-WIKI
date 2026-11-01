@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Frozen Minute
 
-> *“The Frozen Minute remembers Three Forty-Seven; the bearer must not mistake memory for permission.”*
+> *"Each minute takes a fraction of what the bearer has left, and the fraction is written nowhere they can read it."*
 
 ---
 

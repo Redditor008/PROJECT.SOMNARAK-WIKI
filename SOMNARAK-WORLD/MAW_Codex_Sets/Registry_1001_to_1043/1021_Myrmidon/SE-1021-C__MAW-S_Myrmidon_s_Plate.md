@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Myrmidon's Plate
 
-> *“Myrmidon's Plate remembers Myrmidon; the bearer must not mistake memory for permission.”*
+> *"It is a loyalty worn as armour: the blow stops, and the wearer cannot hold two obligations at once."*
 
 ---
 

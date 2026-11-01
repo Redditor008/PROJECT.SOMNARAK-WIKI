@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Rebirth Fang
 
-> *“The Rebirth Fang remembers Ember Phoenix; the bearer must not mistake memory for permission.”*
+> *"It strikes from the last death it survived, and the wielder fights with the memory of being killed."*
 
 ---
 

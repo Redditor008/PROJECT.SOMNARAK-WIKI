@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Memory Maul
 
-> *“The Memory Maul remembers Chain of Memories; the bearer must not mistake memory for permission.”*
+> *"Every blow adds one memory to the head of the weapon and takes it out of the wielder. They end up swinging a whole life at strangers."*
 
 ---
 

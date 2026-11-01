@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Healer's Shroud
 
-> *“The Healer's Shroud remembers The Kind Healer's Shadow; the bearer must not mistake memory for permission.”*
+> *"It keeps the draft out the way a ward does: nothing pleasant gets under it, and only the wounds still arrive."*
 
 ---
 

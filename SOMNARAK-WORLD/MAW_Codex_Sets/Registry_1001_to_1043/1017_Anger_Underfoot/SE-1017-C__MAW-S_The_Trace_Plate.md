@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Trace Plate
 
-> *“The Trace Plate remembers Anger Underfoot; the bearer must not mistake memory for permission.”*
+> *"It absorbs a grudge by standing where it happened. The wearer's reactions slow to the pace of whoever walked the ground first."*
 
 ---
 

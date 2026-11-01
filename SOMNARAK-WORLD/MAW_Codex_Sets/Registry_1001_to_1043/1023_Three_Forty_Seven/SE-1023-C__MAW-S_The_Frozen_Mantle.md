@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Frozen Mantle
 
-> *“The Frozen Mantle remembers Three Forty-Seven; the bearer must not mistake memory for permission.”*
+> *"It holds the wearer in the moment before impact. Bracing costs what standing costs, and they cannot be surprised or rest."*
 
 ---
 

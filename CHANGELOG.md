@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The last forty-two close the epigraph programme (batch 65)
+
+`SE-1016` Aphonia through `SE-1029` The Kind Healer — the final forty-two, and with them the retired formula is gone from the codex entirely: **`grep -rl "must not mistake memory for permission" SOMNARAK-WORLD/MAW_Codex_Sets` returns 0.** All 345 M.A.W. item records now open on a line that could only have been written for that object.
+
+The batch also closed the second of the two shared cost sentences found while writing the epigraphs. **The Kindness Shroud** (`SE-1022-C`) and **The Healer's Shroud** (`SE-1029-C`) carried the same paragraph with one clause inserted — *keeps the small joys out first … nothing pleasant gets under it and the large ones follow at the rate the wearer needs them* — sixteen shared seven-word windows, the worst couple in the codex cost field. The Kindness Shroud now reads in Solace's own terms: comfort leaves through it and does not return, and whatever the wearer gives away comes out of a store that is not refilled. **The First Requiem** (`SE-1030-B`) likewise repeated Icedrop's mechanism sentence; it now pays the target out of the wielder's own tears and leaves the wielder owing more. Zero cost sentences of eight words or more are now shared between two registry folders.
+
+Both guides were corrected to match. `GUIDES/SE_QUOTE_GUIDE.md` closed the *"epigraph formula is retired"* section, and records two lessons from the pass: an epigraph may not borrow a sentence the cost field shares with another record, and `QUOTE_REGISTER_LEDGER.md` is the **dossier** ledger — it covers the 301 dossiers, does not list codex records, and produces no diff when regenerated after codex work. `GUIDES/CONTENT_AND_VISUAL_STANDARDS.md` now marks the family **retired and cleared, 0 left**.
+
+Forty-two of forty-two clear `quote_audit.py --check`; structure re-checked across the whole range, 0 bad.
+
+**Epigraph programme: 345 → 0.** The remaining shared-phrase couples in the codex cost field (the *Wielded long, the wielder…* frame and its neighbours) are the next pass, not this one.
+
 ## Forty-two epigraphs continue 1001–1043 (batch 64)
 
 The second forty-two — First Tear through Miasma. Each of these entities issues a weapon, a suit and a stigma against one cost, so the epigraph has to distinguish three objects drawing on the same price without naming any of them: the First Requiem spends the first grief ever shed out of the wielder's supply, the First Shroud takes the first joy before the wearer can notice which one it was, and the First Charm hands the first grief back at night on a schedule that is not the bearer's.

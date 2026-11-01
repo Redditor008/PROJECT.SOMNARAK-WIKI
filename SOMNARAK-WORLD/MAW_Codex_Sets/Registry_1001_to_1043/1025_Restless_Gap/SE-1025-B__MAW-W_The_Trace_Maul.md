@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Trace Maul
 
-> *“The Trace Maul remembers Restless Gap; the bearer must not mistake memory for permission.”*
+> *"Each blow carries the weight of the place the wielder cannot leave, and every fight happens at the same fixed point."*
 
 ---
 

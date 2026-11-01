@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Neglect Learned to Listen's Mantle
 
-> *“Neglect Learned to Listen's Mantle remembers Neglect Learned to Listen; the bearer must not mistake memory for permission.”*
+> *"The post arrives in the body instead of the hands, and the wearer is bent under letters they failed to answer."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Rising Pendant
 
-> *“The Rising Pendant remembers The Rising Wall; the bearer must not mistake memory for permission.”*
+> *"No bond the Pendant makes legible can be denied, and the bearer's silence is taken as the loudest confession of them all."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Voice Veil
 
-> *“The Voice Veil remembers Aphonia; the bearer must not mistake memory for permission.”*
+> *"Nothing the wearer says rises above a murmur, and after a while they stop being able to tell whether they were heard."*
 
 ---
 

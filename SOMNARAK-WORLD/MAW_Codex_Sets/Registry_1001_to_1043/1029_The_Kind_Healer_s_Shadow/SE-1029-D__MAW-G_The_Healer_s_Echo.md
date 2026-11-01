@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Healer's Echo
 
-> *“The Healer's Echo remembers The Kind Healer's Shadow; the bearer must not mistake memory for permission.”*
+> *"The Echo takes the pain into the bearer and files it as theirs, until they cannot tell a given injury from a born one."*
 
 ---
 

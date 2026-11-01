@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Trace Fang
 
-> *“The Trace Fang remembers Anger Underfoot; the bearer must not mistake memory for permission.”*
+> *"It strikes with the anger of everyone who has walked this path before, and the wielder ends up angry about routes they have never taken."*
 
 ---
 

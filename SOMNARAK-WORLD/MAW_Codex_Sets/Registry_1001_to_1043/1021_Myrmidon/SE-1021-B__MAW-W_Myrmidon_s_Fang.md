@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Myrmidon's Fang
 
-> *“Myrmidon's Fang remembers Myrmidon; the bearer must not mistake memory for permission.”*
+> *"Each blow follows a command the wielder did not give, and they cannot say whose it was. Wielded long, they are certain they chose this."*
 
 ---
 

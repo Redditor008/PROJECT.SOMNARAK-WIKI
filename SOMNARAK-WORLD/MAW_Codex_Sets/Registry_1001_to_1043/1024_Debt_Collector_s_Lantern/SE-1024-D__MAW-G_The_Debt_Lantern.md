@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Pale Wick Stigma
 
-> *“Pale Wick Stigma remembers Debt Collector's Lantern; the bearer must not mistake memory for permission.”*
+> *"The wielder cannot ignore what the light shows. Every debt it reveals becomes one the bearer answers for."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Neglect Learned to Listen's Maul
 
-> *“Neglect Learned to Listen's Maul remembers Neglect Learned to Listen; the bearer must not mistake memory for permission.”*
+> *"Each blow delivers a message that never arrived, on the wielder's own account. They end up carrying other people's correspondence."*
 
 ---
 

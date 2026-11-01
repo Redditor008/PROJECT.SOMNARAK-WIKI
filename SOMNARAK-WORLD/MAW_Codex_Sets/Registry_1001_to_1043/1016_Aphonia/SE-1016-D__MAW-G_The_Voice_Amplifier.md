@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Voice Amplifier
 
-> *“The Voice Amplifier remembers Aphonia; the bearer must not mistake memory for permission.”*
+> *"Every plea that never reached anyone arrives at once, and the bearer answers in a voice that carries further than they intended."*
 
 ---
 

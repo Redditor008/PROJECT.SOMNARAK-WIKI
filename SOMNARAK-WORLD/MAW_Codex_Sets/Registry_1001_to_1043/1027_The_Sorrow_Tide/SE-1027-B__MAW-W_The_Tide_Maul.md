@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Tide Maul
 
-> *“The Tide Maul remembers The Sorrow Tide; the bearer must not mistake memory for permission.”*
+> *"Each blow lands a little later than the wielder swung it, and the delay lengthens. They swing at where the fight used to be."*
 
 ---
 

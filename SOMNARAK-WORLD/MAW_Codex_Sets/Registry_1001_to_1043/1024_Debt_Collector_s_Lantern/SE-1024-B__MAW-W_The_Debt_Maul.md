@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Collector's Vigil-Lantern
 
-> *“The Collector's Vigil-Lantern remembers Debt Collector's Lantern; the bearer must not mistake memory for permission.”*
+> *"Each blow moves a little of what the wielder owes onto what they hit, and their shadow lags by exactly the amount."*
 
 ---
 

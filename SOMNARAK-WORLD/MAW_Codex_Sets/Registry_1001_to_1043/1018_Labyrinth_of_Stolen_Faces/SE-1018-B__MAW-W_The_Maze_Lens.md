@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Maze Lens
 
-> *“The Maze Lens remembers Labyrinth of Stolen Faces; the bearer must not mistake memory for permission.”*
+> *"It takes a turn and a name with each use. The wielder's past is largely corridor."*
 
 ---
 

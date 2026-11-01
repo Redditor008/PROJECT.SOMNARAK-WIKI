@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Frozen Maul
 
-> *“The Frozen Maul remembers Three Forty-Seven; the bearer must not mistake memory for permission.”*
+> *"Each blow spends forty-seven seconds the wielder will not remember spending, and the hours go missing without a note."*
 
 ---
 

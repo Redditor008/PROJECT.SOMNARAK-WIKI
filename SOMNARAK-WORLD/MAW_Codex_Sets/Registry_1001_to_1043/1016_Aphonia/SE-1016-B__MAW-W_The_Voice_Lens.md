@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Voice Lens
 
-> *“The Voice Lens remembers Aphonia; the bearer must not mistake memory for permission.”*
+> *"It takes the sound of the wielder's own voice as toll, so what they said survives only in other people's reports of it."*
 
 ---
 

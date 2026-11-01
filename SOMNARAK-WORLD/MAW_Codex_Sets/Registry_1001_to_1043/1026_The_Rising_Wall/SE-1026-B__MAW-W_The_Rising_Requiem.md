@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Rising Requiem
 
-> *“The Rising Requiem remembers The Rising Wall; the bearer must not mistake memory for permission.”*
+> *"Every strike lifts a measure of the wielder's grief one storey higher and leaves it there. They fight from underneath it."*
 
 ---
 

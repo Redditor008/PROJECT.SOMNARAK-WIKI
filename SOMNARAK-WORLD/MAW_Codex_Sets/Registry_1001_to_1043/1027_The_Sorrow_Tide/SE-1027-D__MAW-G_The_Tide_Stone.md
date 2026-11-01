@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Tide Stone
 
-> *“The Tide Stone remembers The Sorrow Tide; the bearer must not mistake memory for permission.”*
+> *"It becomes heavier and more saturated with every use and releases neither, until the bearer carries a small sea."*
 
 ---
 

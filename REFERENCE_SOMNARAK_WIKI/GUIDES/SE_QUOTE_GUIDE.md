@@ -118,4 +118,9 @@ That is a template artefact, not a quote. It survives because it is grammatical,
 
 A quote earns its place when it could only have come from this file: a line of the record's own testimony, a phrase from the event, a sentence in the voice of whoever keeps the ledger and signs it. The tests in this guide apply unchanged — no exact duplicate, inside the word band, register decided — and one more: **cover the item's name and read the line again.** If it still works for any of the other 344 pieces, it is not this piece's quote.
 
-Open family, recorded for the next pass: 345 records, one line. (The cost tail beside it on the same 345 records has since been cleared item by item; this epigraph is now the last shared line in the set.)
+**Closed.** All 345 records were rewritten one at a time, and `grep -rl "must not mistake memory for permission" SOMNARAK-WORLD/MAW_Codex_Sets` now returns **0**. The family is a defect on the day it is written; it is not an alternative.
+
+Two things this pass learned, both now part of the test:
+
+- **The epigraph cannot borrow a sentence the cost field shares with another record.** Two of the 345 shared a distinctive cost sentence with a second record, and a line drawn from the shared part would have failed the cover-the-name test while looking perfectly specific. Both shared sentences were rewritten before the epigraphs above them were written.
+- **`QUOTE_REGISTER_LEDGER.md` is the dossier ledger.** It covers the 301 dossiers in `SOMNARAK-WORLD/Sorrow_Entities/` and does not list M.A.W. codex records; regenerating it after codex work produces no diff. Step 5 above applies to dossier quotes. A codex epigraph is verified by `--check` on the line and by `--file` on its own file.

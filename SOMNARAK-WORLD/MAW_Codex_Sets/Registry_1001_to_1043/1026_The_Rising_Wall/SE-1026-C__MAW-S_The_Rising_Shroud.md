@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Rising Shroud
 
-> *“The Rising Shroud remembers The Rising Wall; the bearer must not mistake memory for permission.”*
+> *"It holds the wearer above the water line, so they miss everything that happens below it, including the parts aimed at them."*
 
 ---
 

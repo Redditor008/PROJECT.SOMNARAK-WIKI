@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Tide Mantle
 
-> *“The Tide Mantle remembers The Sorrow Tide; the bearer must not mistake memory for permission.”*
+> *"The tide comes through in measured amounts, and each hour costs the wearer a little of their standing."*
 
 ---
 

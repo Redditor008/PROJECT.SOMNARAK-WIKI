@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Maze Veil
 
-> *“The Maze Veil remembers Labyrinth of Stolen Faces; the bearer must not mistake memory for permission.”*
+> *"It hides the self so well that the wearer needs somebody walking toward them in order to get back."*
 
 ---
 

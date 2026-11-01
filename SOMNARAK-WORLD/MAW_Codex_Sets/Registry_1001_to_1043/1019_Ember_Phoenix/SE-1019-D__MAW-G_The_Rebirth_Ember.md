@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Rebirth Ember
 
-> *“The Rebirth Ember remembers Ember Phoenix; the bearer must not mistake memory for permission.”*
+> *"The wearer comes back carrying the memory of dying and there is nowhere to file it. By the second return they stop describing the first."*
 
 ---
 

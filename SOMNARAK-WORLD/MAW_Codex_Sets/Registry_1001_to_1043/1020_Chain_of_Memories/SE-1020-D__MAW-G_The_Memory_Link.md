@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Memory Link
 
-> *“The Memory Link remembers Chain of Memories; the bearer must not mistake memory for permission.”*
+> *"Whatever the wearer hands over comes back administered to them, and both parties keep the version that hurts."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Trace Anchor
 
-> *“The Trace Anchor remembers Restless Gap; the bearer must not mistake memory for permission.”*
+> *"The wearer cannot leave an anchored place without real pain, and after a season they stop testing it."*
 
 ---
 

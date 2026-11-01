@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Neglect Learned to Listen's Bell
 
-> *“Neglect Learned to Listen's Bell remembers Neglect Learned to Listen; the bearer must not mistake memory for permission.”*
+> *"The bearer hears every message that fails to arrive, in their own name, and answers letters nobody sent."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Kindness Shroud
 
-> *“The Kindness Shroud remembers Solace; the bearer must not mistake memory for permission.”*
+> *"Comfort leaves through it and does not come back. Worn, the wearer is calm and remembers liking things."*
 
 ---
 
@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The Shroud keeps the small joys out first: worn, nothing pleasant gets under it and the large ones follow at the rate the wearer needs them. Worn long, the wearer is calm and remembers liking things.
+**Operational / binding cost:** Comfort leaves through it and does not return: whatever the wearer gives away in warmth comes out of their own store, and the store is not refilled. Worn long, they are calm and remember liking things.
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Suit Record*
 

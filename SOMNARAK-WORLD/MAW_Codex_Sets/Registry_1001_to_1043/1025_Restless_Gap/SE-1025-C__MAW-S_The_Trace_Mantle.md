@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Trace Mantle
 
-> *“The Trace Mantle remembers Restless Gap; the bearer must not mistake memory for permission.”*
+> *"It keeps the wearer where they agreed to stay: heavy in the anchor's direction and light everywhere else."*
 
 ---
 

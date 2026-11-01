@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Kindness Stone
 
-> *“The Kindness Stone remembers Solace; the bearer must not mistake memory for permission.”*
+> *"Every kindness refused nearby stays with the wearer as a debt they did not incur."*
 
 ---
 

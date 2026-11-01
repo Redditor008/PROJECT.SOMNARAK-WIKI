@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Trace Mark
 
-> *“The Trace Mark remembers Anger Underfoot; the bearer must not mistake memory for permission.”*
+> *"The wearer carries the anger of every person who walked the path, and none of it is returned when they leave."*
 
 ---
 

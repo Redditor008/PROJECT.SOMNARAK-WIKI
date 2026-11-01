@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Healer's Requiem
 
-> *“The Healer's Requiem remembers The Kind Healer's Shadow; the bearer must not mistake memory for permission.”*
+> *"It cures the target and hands their loss to whoever swung. Wielded long, the wielder is a hospital for everything they have treated."*
 
 ---
 

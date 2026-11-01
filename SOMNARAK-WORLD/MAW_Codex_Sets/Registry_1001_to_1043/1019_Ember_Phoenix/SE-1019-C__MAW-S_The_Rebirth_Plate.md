@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Rebirth Plate
 
-> *“The Rebirth Plate remembers Ember Phoenix; the bearer must not mistake memory for permission.”*
+> *"It keeps the body in the shape it died in, so nothing new may happen to it. After a while the wearer stops flinching."*
 
 ---
 

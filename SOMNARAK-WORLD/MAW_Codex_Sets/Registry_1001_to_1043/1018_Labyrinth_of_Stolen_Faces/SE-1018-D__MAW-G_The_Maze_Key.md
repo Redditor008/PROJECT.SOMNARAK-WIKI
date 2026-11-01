@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Maze Key
 
-> *“The Maze Key remembers Labyrinth of Stolen Faces; the bearer must not mistake memory for permission.”*
+> *"It cannot tell a painful memory from a safe exit, and it chooses for the bearer every time."*
 
 ---
 

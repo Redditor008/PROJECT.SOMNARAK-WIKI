@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Myrmidon's Pendant
 
-> *“Myrmidon's Pendant remembers Myrmidon; the bearer must not mistake memory for permission.”*
+> *"It bills by the revelation: each divided loyalty it shows stays attached to the person it was about."*
 
 ---
 

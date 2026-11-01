@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Kindness Requiem
 
-> *“The Kindness Requiem remembers Solace; the bearer must not mistake memory for permission.”*
+> *"It gives the target a comfort nobody asked for and takes the wielder's own. Wielded long, they hand out kindness and receive none."*
 
 ---
 

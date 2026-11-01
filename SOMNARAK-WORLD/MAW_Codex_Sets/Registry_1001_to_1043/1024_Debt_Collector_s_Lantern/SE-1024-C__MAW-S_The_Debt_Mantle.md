@@ -1,6 +1,6 @@
 # M.A.W. PROTECTIVE ATTIRE — The Collector's Oilskin Trench-Coat
 
-> *“The Collector's Oilskin Trench-Coat remembers Debt Collector's Lantern; the bearer must not mistake memory for permission.”*
+> *"It holds the wearer's weight and the district's: nothing is carried lightly and nothing is ever set down."*
 
 ---
 
