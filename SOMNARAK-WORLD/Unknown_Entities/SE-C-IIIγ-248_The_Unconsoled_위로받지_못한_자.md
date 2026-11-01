@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–75% |
 | **Han-Energy yield** | 14–18 per cycle, with no recorded failure in four years — the steadiest return of any γ on the Zone B ledger. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Activation threshold** | 2 |
+| **Activation threshold** | The founding wall darkens from the base upward, forty minutes to two hours before an expansion; Sorrow Gauge ≥ 80% |
 | **Tool / M.A.W. grade** | γ · γ — the exact Side and all three item records grade the set. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -52,7 +52,7 @@
 |---|---|
 | **Speed** | 0.6 m/s |
 | **Resistance** | 45% against Lament. Nothing else has been tested: Pugnahan is forbidden here on structural grounds and the other figures in this row would be guesses. |
-| **Activation threshold** | Sorrow Gauge ≥ 70% |
+| **Activation threshold** | Sorrow Gauge ≥ 80% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |

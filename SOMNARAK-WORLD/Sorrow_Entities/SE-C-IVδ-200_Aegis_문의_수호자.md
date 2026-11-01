@@ -51,11 +51,11 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | 0 m/s — it holds the Gate; under a Corrupt event it intensifies in place and does not advance |
 | **Resistance** | 45 per cent against Grudge pressure and 35 against anything else, with the file's own note that the guardian is not what a worker resists: it holds the Gate where it stands, and what the percentages describe is the rage of a post that has never been relieved. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Grudge |
+| **Han Pressure [ATK]** | 29–64 per turn of exposure · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

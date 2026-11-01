@@ -54,7 +54,7 @@
 | **Resistance** | 35% against Grudge. Nothing has been swung at it; the one documented attempt to cut a standing section was abandoned at the planning stage when the Gate warden pointed out that cutting the wall and working on its buildings are the same act from the entity's side. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per hit · Grudge |
+| **Han Pressure [ATK]** | 18–41 per turn of exposure · Grudge |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

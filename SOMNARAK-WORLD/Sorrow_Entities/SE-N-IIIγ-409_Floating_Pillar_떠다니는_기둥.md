@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.95 m/s |
+| **Speed** | 0 m/s — one position and one elevation; what changes is rotation, measured against the sighting marks |
 | **Resistance** | 35% against Void pressure, 25% against other pressure types — a standing figure, since there is no body to strike: the absence has no surface, no material and no vessel, and nothing has ever been extracted from it. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 752/752 |

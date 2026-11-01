@@ -32,7 +32,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Sorrow Gauge ≥ 75% or forced persona conflict |
+| **Activation threshold** | Sorrow Gauge ≥ 85% or forced persona conflict |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -54,7 +54,7 @@
 |---|---|
 | **Speed** | 2.35 m/s; 3.10 m/s during synchronized movement |
 | **Resistance** | 35% against Mixed pressure; 20% against single-element pressure |
-| **Activation threshold** | Sorrow Gauge ≥ 75% or three control conflicts |
+| **Activation threshold** | Sorrow Gauge ≥ 85% or three control conflicts |
 | **Sorrow Gauge [HP]** | 837/837 |
 | **Han Pressure [ATK]** | 27–59 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 12–18 per successful work cycle, read against how long the crew actually stayed in the room |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Sorrow Gauge ≥ 70%, or when offered comfort and then refused |
+| **Activation threshold** | Sorrow Gauge ≥ 75%, or when offered comfort and then refused |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -55,7 +55,7 @@
 |---|---|
 | **Speed** | 0.9 m/s |
 | **Resistance** | 40% against Lament pressure and 20% against other types — a body that gives way rather than fights, which is why pressure alone moves her so little |
-| **Activation threshold** | Sorrow Gauge ≥ 70% |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 540/540 |
 | **Han Pressure [ATK]** | 9–20 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |

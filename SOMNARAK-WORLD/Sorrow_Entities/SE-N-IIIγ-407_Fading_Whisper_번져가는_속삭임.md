@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.95 m/s |
+| **Speed** | 0 m/s — it holds the ground the erased place stood on; it does not approach, withdraw or follow |
 | **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing is rated against the fade itself, which is not pressure: definition drains out of the zone and out of the listener, no instrument takes a reading of it, and the only defence on file is a written break |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 693/693 |

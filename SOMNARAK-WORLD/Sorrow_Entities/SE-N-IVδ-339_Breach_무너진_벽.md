@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | 0 m/s — a place; it spreads rather than moves |
 | **Resistance** | 45% against Lament, which is what it is made of; 35% against everything else — and resistance of any kind is the wrong instinct here, because a boundary of this kind falls when it is pushed against |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 827/827 |

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 40–55% |
 | **Han-Energy yield** | 6–9 per cycle, the lowest return on the Zone D ledger, and the Directorate's energy office has twice proposed removing it from the roster on that ground. Both proposals were refused by the Commons, which does not want the route unattended. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **Activation threshold** | A pause of more than a minute with an unplaceable letter in hand — the precursor to all three spikes on file; Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -52,7 +52,7 @@
 |---|---|
 | **Speed** | 0.9 m/s |
 | **Resistance** | 30% against Weight. It does not resist anything else because it does not resist: in six years of observation the figure has never once moved away from an approach, a reading, a hand, or a blow. |
-| **Activation threshold** | Sorrow Gauge ≥ 50% |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Han Pressure [ATK]** | 10–23 per hit · Weight |
 | **Coherence modifier** | III — affects behavior complexity and response speed |

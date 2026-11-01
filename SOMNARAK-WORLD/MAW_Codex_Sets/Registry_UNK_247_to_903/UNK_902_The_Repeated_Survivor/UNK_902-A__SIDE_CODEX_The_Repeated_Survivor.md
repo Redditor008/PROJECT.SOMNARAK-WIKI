@@ -23,7 +23,7 @@ A former R.D. agent retained thousands of historical Absolvohan iterations that 
 | Element / Location | Void with Weight/Grudge undertones / Hand of Change, mobile |
 | Gauge / Pressure | 993/993; starts 70–90% / 24–52 Grudge |
 | Movement / Resistance | 2.80 m/s / 50% Void, 30% other |
-| Trigger | Gauge ≥80% or personnel recognizing the loop |
+| Trigger | Gauge ≥ 95% or personnel recognizing the loop |
 | Resolution | Endure the performance without performing it |
 
 Viderehan retrieves loop fragments. Ferrehan outlasts the scene without taking a mark. Flerehan reaches the buried agent but is severely unstable; Pugnahan feeds rehearsed violence.
@@ -41,7 +41,7 @@ Viderehan retrieves loop fragments. Ferrehan outlasts the scene without taking a
 | Location | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
 | R.D. Comprehension Level | 5 — Sovereign-grade monitoring (loop-anomaly) |
 | Starting Sorrow Gauge | 70–90% |
-| Activation threshold | Sorrow Gauge ≥ 80% or a personnel member recognizing the loop |
+| Activation threshold | Sorrow Gauge ≥ 95% or a personnel member recognizing the loop |
 | Sorrow Gauge [HP] | 993/993 |
 | Han Pressure [ATK] | 24–52 per hit · Grudge |
 | Speed | 2.80 m/s (moves as if it has walked this route a thousand times — it has) |

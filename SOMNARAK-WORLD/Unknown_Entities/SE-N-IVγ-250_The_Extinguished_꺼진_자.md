@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 65–80% |
 | **Han-Energy yield** | 12–16 per cycle, and only from Ferrehan. No other Work Type has produced a yield here, because no other Work Type has produced a completed cycle. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Activation threshold** | 2 |
+| **Activation threshold** | The gold at the edges brightens ten to forty minutes ahead of every filed escalation; Sorrow Gauge ≥ 85% |
 | **Tool / M.A.W. grade** | β — Weapon, Suit and Stigma |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -52,7 +52,7 @@
 |---|---|
 | **Speed** | 1.8 m/s |
 | **Resistance** | 40% against Grudge. Against anything carrying a Hope signature it resists nothing at all and closes the distance instead — the only entity in the Zone D ledger whose resistance profile is better read as a preference. |
-| **Activation threshold** | Sorrow Gauge ≥ 70% |
+| **Activation threshold** | Sorrow Gauge ≥ 85% |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 18–41 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |

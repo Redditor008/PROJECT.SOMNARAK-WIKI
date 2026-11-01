@@ -45,58 +45,42 @@
 - No breach counter applies. The wetted area spreads across the vault floor, and its edge is marked physically at every session.
 - Residue is collected from the wetted margin under separate authorisation and never from the vessel: the sump accounts for the fluid that leaves the chamber, and the file treats a shortfall there as the first sign of a bad session.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; output is measured by sump volume, chalked wetted margin, profile-gauge height and withdrawal readings |
-| **Resistance** | 45 per cent against Lament pressure and 35 against anything else, with the file's own note that the shard does not strike: it seeps, it is rooted in the floor, and what a worker actually resists is the pull of a sealed grief found still moving. Work from the marked standpoint behind the chalk with two inside and one outside on clock/sump; do not touch crystal or runoff, strike/shatter it, or fill, fuse, cap or polish over the crack. A mourning worker withdraws, the volume ledger takes that withdrawal as a reading, and a dry period follows. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 30–66 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The shard is rooted in the chamber floor and has never been lifted; what moves is the wetted margin, chalked at every session. The old attack rows had it whipping through the air, which the Movement row contradicts in one sentence. Nothing here swings, launches or pursues: a hand or a tear opens a channel, and the channel is what the watch is for.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A crystal shard rooted in the chamber floor, slick with old tears, with a chalked line round the wetted margin |
+| **Perceptible to** | The wet edge first — the surface is slick where nothing has spilled — and then the runoff, which pools memories at the worker's feet |
+| **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
+| **Sorrow Gauge [HP]** | 750/750 — the containment meter, read behind the chalk at the open and the close |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree vault |
-| **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, the Gauge falls below 25%, and sump/margin are re-read. No replacement memory is forced into the crack and no crystal is cut or sealed over. |
+| **Location** | Zone A, Alpha Tree vault |
+| **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, and the gauge falls below the threshold on the sheet |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Wet Edge* [**Debuff**] } | "The shard is slick with old tears — and the edge slips through armor like it is not there." | [A channel opens at the wet face and one preserved memory leaves as a liquid vision; the rooted shard does not move or cut.] | *The contacting worker suffers -10 Clarity and may lose a memory in exchange. Record trigger, face response, chalked margin and sump before personnel interpretation.* **[10 Lament DMG [Lament]]** | When touch or falling tears reach the crystal surface. |
-| { *The Drip* [**Debuff**] } | "Each drip from the shard carries a memory — and the memories pool at your feet." | [The open channel's runoff quickens and the wetted margin advances beyond the previous chalk while the vision remains unfinished.] | *Workers inside lose 10 Clarity to saturation. The outside worker calls rotation from the sump/clock; nobody steps into runoff to inspect it.* **[10 Lament DMG [Lament]]** | When an open channel remains unwitnessed or unfinished and the margin/sump rises between readings. |
-| { *The Slick Cut* [**Attack**] } | "The shard whips through the air — trailing water, trailing sorrow, cutting clean." | [Impact marks the surface and liquid output rises along the wet edge; the rooted shard itself does not whip or strike.] | *Inflicts Lament pressure and one soaking emotional wound to personnel inside the margin. Impact stops at once, the crack is read only from the marked standpoint, and no cleaning or repair touches the face.* **[14-22 Lament DMG [Lament]]** | When the crystal is struck or its surface is physically marked. |
-| { *The Full Soak* [**Attack**] } | "The shard releases every drop it ever held — a blade that becomes a wave." | [Breaking the crystal releases the stored soak through the chamber rather than destroying the grief that carries it.] | *Heavy Lament pressure to personnel in the wetted chamber; no personnel Gauge jump is inferred. Withdraw behind chalk, account for sump shortfall, and inspect the floor from below before re-entry.* **[24-36 Lament DMG [Lament]]** | When the crystal is shattered or the source crack is forcibly broken open. |
-| { *The Drowned Edge* [**Ultimate**] } | "Every shard in the field goes slick — and the air itself becomes wet with grief." | [At high Gauge every wet edge in the chamber carries Lament while the crack remains open.] | *All workers inside the wetted margin suffer Lament pressure for three turns. The pair withdraws together, volume is read before interpretation, and the channel is later closed deliberately below 25%—never by sealing the crack.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |
+| Event | What the shard does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Wet Edge* [**Register**] } | Stands slick with old tears in a chamber where nothing has spilled, and the wetted margin sits inside its chalk. | The confirmation that the shard is open enough to read and not open enough to touch. | The margin is chalked at every session; the chalk is the only instrument that has ever mattered here. |
+| { *The Drip* [**Exposure**] } | Lets runoff quicken along the crystal, and each drop carries a memory that pools at the worker's feet. | Other people's recollection at floor level, gathering where they are standing. | Nothing is thrown and nothing is aimed; the memories arrive by gravity. |
+| { *The Channel* [**Exposure**] } | Opens a channel at contact or at a tear, and the released vision runs until it is witnessed to evaporation or absorption. | A memory that must be watched to its end, and a channel that must be closed deliberately from behind the chalk rather than left to run dry. | The crack is left open and unsealed; the channel is what is closed, and the difference is the whole method. |
+| { *The Drowned Margin* [**Contagion**] } | At the upper gauge every surface in the vault goes slick and the wetted margin walks past its chalk. | Wet air, wet stone, and a margin that has to be rechalked outward before the next session. | The shard has not moved for any of it. The spread is the water and the chalk is where it is read. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The wet is the whole identification: a blue shard standing in its own fluid inside a vault that reads dry, with the margin already chalked from the last session. Position and withdrawal are set before the cycle opens, the profile gauge is read from the marked standpoint, and nobody steps inside the chalk line to check anything.
-2. **Clash:** Nothing is exchanged. The crew holds position in a wet chamber while the shard does what it does, and the live decisions are the rotation clock and the moment a worker is sent out.
-3. **Resolution:** The released vision is witnessed to evaporation or absorption and the channel is closed deliberately from behind the chalk; the crack itself is left open and unsealed. The condition is met only with Gauge below 25%, the new margin chalked against the old, sump volume accounted for, and no worker carrying a replacement memory out as the price of closure.
+1. **What is confirmed:** the wet edge, the chalk line and the dryness outside it, and the gauge behind the chalk before anybody steps in.
+2. **What the watch does:** Viderehan reads the runoff and the pooled memories; Ferrehan stands the margin without touching the crystal. The channel is closed from behind the chalk, by hand, deliberately.
+3. **How it closes:** the released memory has been witnessed to evaporation or absorption, the channel closed, the crack left open as filed, and the gauge below the sheet's threshold.
 
 ### Consequences
 
-- Failing here costs twice over: the worker takes the pressure into their own **Clarity**, and the shard grows on what the worker cannot hold — the file's oldest observation is that this holding gets larger when it is mourned at.
-- Duration works for the shard and not against it. A long rotation lets sorrow saturation build inside the operative until the collapse the classification was written to prevent arrives on its own terms, and the record carries it in three forms: in the head, in the body, and in the vault floor. The chamber keeps its own clock, which is the sump. It fills at a rate, and a session running past that rate has already begun to pay.
-- Working the M.A.W. set is an exchange with nothing negotiable inside it. The equipment registry gives the parameters and a price in Sorrow Echoes. The second price comes out of the bearer rather than out of the vault, and it is what the wearer is afterwards. Nobody has ever written that second figure down, which is the gap the field use record exists to close.
-- An encounter that nobody settles does not stay where it was left. The shard runs its documented event pattern instead, and sorrow that was never settled takes the exit the containment work failed to give it: the wetted margin jumps without a matching sump volume, the sump reads short, and the fluid ends up somewhere no drain was laid to catch it. Two sessions of that kind are on record and both are the reason the floor is inspected from below.
+- A worker who touches the surface without authorisation takes the channel whole: the memory arrives complete and personal and cannot be handed back, and the gauge rises by the recovery time.
+- Prolonged work at the margin produces the vault's own fatigue: personnel report wet hands in dry rooms and a grief they cannot attach to anything they did.
+- The set is made from what the shard releases and carries the same cost: the lens keeps what it was shown, the veil keeps the damp off and the weight on, and the fragment is always wet at the hand.
+- Unresolved, the margin advances and the chalk is redrawn. The shard stays where it is rooted, which is the only movement the file records of it, and that is to say none.
 
 ## Appearance
 **Physical Form:** A large shard of blue crystal that rises from the floor and remains wet with liquid memory.

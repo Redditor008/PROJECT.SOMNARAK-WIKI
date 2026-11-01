@@ -55,7 +55,7 @@
 | **Resistance** | 30% against Weight. There is nothing present to resist; the hour has no physical component and no instrument has ever registered a sound, which is why the record is handwritten. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 495/495 |
-| **Han Pressure [ATK]** | 14–20 per hit · Weight |
+| **Han Pressure [ATK]** | 14–20 per turn of exposure · Weight |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 

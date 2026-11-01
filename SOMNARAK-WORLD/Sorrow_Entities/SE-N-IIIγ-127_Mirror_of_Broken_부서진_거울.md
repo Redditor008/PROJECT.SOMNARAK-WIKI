@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.95 m/s |
+| **Speed** | 0 m/s — fixed to the Gate vicinity; the shards return after disturbance and travel no further than the pattern |
 | **Resistance** | 35% against Weight. The shards cannot be swept, moved or collected; four attempts are on file and in each case the pieces were back in the same arrangement by morning. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |

@@ -40,7 +40,7 @@ Flerehan synchronizes grief and lowers pressure; Pugnahan forces the Founder’s
 | Location | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
 | R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 60–75% |
-| Activation threshold | 2 |
+| Activation threshold | The founding wall darkens from the base upward, forty minutes to two hours before an expansion; Sorrow Gauge ≥ 80% |
 | Sorrow Gauge [HP] | 653/653 |
 | Han Pressure [ATK] | 18–41 per hit · Lament |
 | Speed | 0.6 m/s |

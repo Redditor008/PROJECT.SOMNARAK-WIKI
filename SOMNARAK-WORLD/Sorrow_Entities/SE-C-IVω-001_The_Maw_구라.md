@@ -54,10 +54,10 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — the ordinary district has no travel speed; movement of the registered Walking District is a separate event-form record |
-| **Resistance** | 50% against Grudge. The figure is meaningless and is carried because the form requires it: the holding is a district, nothing has ever been struck, and the perimeter is made of Architects' reinforcement rather than of anything that resists. |
-| **Activation threshold** | Sorrow Gauge ≥ 95% |
+| **Resistance** | 50% against Grudge, filed on the event form. Nothing has ever been struck in the district: the perimeter is Architects' reinforcement and a survey, not a thing that resists, and the figure describes the Walking District rather than the place. |
+| **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
 | **Sorrow Gauge [HP]** | 1000/1000 |
-| **Han Pressure [ATK]** | 44–111 per hit · Grudge · **Instant Fracture on critical** |
+| **Han Pressure [ATK]** | 44–111 per event-form strike · Grudge · **Instant Fracture on critical** — event form only. The district has no hands, no eyes and no reach |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
 
@@ -66,8 +66,8 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 30 turns |
-| **Threat Role** | Sovereign encounter |
+| **Battle Length** | Long — 30 turns, event form only (`C-IVω-001-B [GS]`). The district form has no turn structure: the clash row was struck from every operational order in Year 4,221 |
+| **Threat Role** | Sovereign encounter — event form only. The place form is managed by perimeter survey and negotiation, and there is no encounter to prepare for |
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 75–95% |

@@ -51,7 +51,7 @@ A translucent commoner remains perpetually mid-bow along the old Dawn routes, ca
 | Location | Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D |
 | R.D. Comprehension Level | 2 — Basic |
 | Starting Sorrow Gauge | 40–55% |
-| Activation threshold | 1 |
+| Activation threshold | A pause of more than a minute with an unplaceable letter in hand; Sorrow Gauge ≥ 60% |
 | Sorrow Gauge [HP] | 435/435 |
 | Han Pressure [ATK] | 10–23 per hit · Weight |
 | Speed | 0.9 m/s |

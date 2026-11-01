@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | 0 m/s — a structure; the location is the entity and it does not travel |
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the pressure this file is actually kept for — the pull of an unfinished journey — which is read as composure loss rather than as damage and is not the kind of pressure this table measures |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 809/809 |

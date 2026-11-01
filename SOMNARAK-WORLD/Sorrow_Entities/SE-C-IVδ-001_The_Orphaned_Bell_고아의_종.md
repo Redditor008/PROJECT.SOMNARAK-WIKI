@@ -56,7 +56,7 @@
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 65% during an active toll (Gauge Overflow) |
 | **Sorrow Gauge [HP]** | 818/818 |
-| **Han Pressure [ATK]** | 28–61 per hit · Lament |
+| **Han Pressure [ATK]** | 28–61 per turn of exposure · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

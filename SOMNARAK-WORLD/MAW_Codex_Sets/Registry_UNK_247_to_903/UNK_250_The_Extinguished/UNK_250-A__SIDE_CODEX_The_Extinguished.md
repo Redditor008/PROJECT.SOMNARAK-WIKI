@@ -40,7 +40,7 @@ Honest Flerehan may remain stable; false comfort escalates. Pugnahan feeds its f
 | Location | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
 | R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 65–80% |
-| Activation threshold | 2 |
+| Activation threshold | The gold at the edges brightens, ten to forty minutes ahead of every filed escalation; Sorrow Gauge ≥ 85% |
 | Sorrow Gauge [HP] | 750/750 |
 | Han Pressure [ATK] | 18–41 per hit · Grudge |
 | Speed | 1.8 m/s |

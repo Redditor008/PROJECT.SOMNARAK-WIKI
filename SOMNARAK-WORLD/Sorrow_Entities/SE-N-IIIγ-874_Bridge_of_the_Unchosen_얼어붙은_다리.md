@@ -45,58 +45,42 @@
 - There is no breach counter. Crossing is not used for access under standing order, and the deck is treated as a structural load only.
 - Residue is recovered from the deck under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 699/699 |
-| **Han Pressure [ATK]** | 17–39 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Bridge is fixed, surveyed annually, and has not varied in sixty years. Its own rows say the rest: *no shard has ever broken free, the deck has not shed a stone, and the span is never struck*. What it does is stand where an unchosen path would have gone, and what it does to a crew is make a possibility look like a history.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A frozen span in the Echo Gardens, measured every session, with a deck that has held its shape since before the survey began |
+| **Perceptible to** | The deck first — a foot set on it does not continue — and then the regret of whoever is standing on it |
+| **Activation threshold** | Sorrow Gauge ≥ 75%, reached on regret focused on an unchosen path. No count is listed |
+| **Sorrow Gauge [HP]** | 699/699 — the containment meter, read at the span and at the station |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
+| **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Acknowledge possibility without treating it as history |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Iced Span* [**Debuff**] } | "Steps taken on the deck do not continue — the foot stays where it was set — and the prohibition is three stones, absolute, imposed before the first incident. Nobody is trapped on one side; nobody has ever been allowed far enough to be." | [The frost advances past the marked stone by about two hand-spans, in silence, which is the only visible event this holding has ever produced.] | *Target suffers a Void mark; the crossing stays possible to describe and impossible to conclude.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the frost crosses the third stone. |
-| { *The Deepening Cold* [**Debuff**] } | "The frost looks the same at four millimetres and at ninety-six. Three early reports describe the deck as unchanged on days the probe recorded a forty-millimetre swing, and nothing freezes that a standing observer can watch happening." | [The deepening is a number at the next reading, not a weather front; the event happened when a finding was signed, in a warmer room.] | *Target loses clarity; the cold is in the figure, not the air.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the probe returns deeper than the last session. |
-| { *The Ice-Lance* [**Attack**] } | "No shard has ever broken free; the deck has not shed a stone in sixty years, and the span is never struck — Pugnahan is not a Work Type here and the prohibition on the near end predates any incident an attack could answer." | [What strikes is a sentence: the worker begins describing the other side in the past tense as something that was taken from them, and the gauge rises with every such sentence.] | *Inflicts Void damage; warmth erodes exactly as fast as certainty grows.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker states what the other path held. |
-| { *The Full Shatter* [**Attack**] } | "The span does not detonate and there is no wood in it to burst. What breaks is a finding: twenty-two of ninety-four in the first return contained a sentence stating what would have happened, and every one had to be withdrawn." | [A counterfactual read aloud at a public hearing by a man who meant it as an apology took the frost to ninety-six millimetres, the deepest figure on record.] | *A heavy Void ice-burst of withdrawn prose; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a finding states an outcome for a course not taken. |
-| { *The Frozen Crossing* [**Ultimate**] } | "The ice does not travel to other bridges. This wing holds five, they behave nothing alike, and none of them has ever been brought here or affected by this one. What generalises is the sentence — every board of this facility can write it." | [A swing of twenty millimetres or more between readings opens a documents search, not a field response: which board reported that week, and what did it say would have happened?] | *All in range suffer Void erosion for three turns of boards writing would-haves.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Bridge does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Iced Span* [**Register**] } | Takes a step and does not continue it: the foot stays where it was set, and the prohibition is three stones wide. | The end of the walk, at a place where the deck visibly goes on. | The span and the clearance are measured every session and both are known to mean nothing. |
+| { *The Deepening Cold* [**Exposure**] } | Frosts to four millimetres and to ninety-six and looks the same either way. Three early reports describe the deck as unchanged under both readings. | A cold that gives no reading by eye, and a survey that has to be trusted over the senses. | The instrument is the record. The file's own warning is that the frost is not a gauge. |
+| { *The Finding* [**Exposure**] } | Nothing physical. What breaks in a bad session is a finding: twenty-two of the surveyed crossings turn out to have been read from the wrong station. | A corrected survey, and a crew that has to re-enter what it already concluded on the deck. | The span is never struck and never sheds. The failure mode is arithmetic. |
+| { *The Five Bridges* [**Refusal**] } | Does not travel to the other bridges. Five are held in this wing, they behave nothing alike, and none of them has ever moved. | The temptation to generalise from this span to another, which the file refuses in a row of its own. | The frozen crossing is not a spreading event. What spreads is the inclination to compare. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The frost probe goes into the deck at the third stone and the depth is written before anything else. Thirty millimetres is baseline; the recorded range is four to ninety-six. The probe point is fixed, marked, and has not moved in sixty years, because a depth taken somewhere else is not a reading, it is a number.
-2. **Clash:** Viderehan and Ferrehan from the near end only. Nobody goes past the first three stones; the prohibition is absolute, it was imposed before the first incident rather than after one, and the file notes that as unusual. Steps taken on the deck do not continue — the foot stays where it was set — and that has only ever been confirmed at the near end because nobody has been allowed further.
-3. **Resolution:** The session closes on a second probe and the documented condition: **Acknowledge possibility without treating it as history.** The worker may say that the crossing was available. The worker may not say what would have happened on the other side of it. The distinction is the whole holding and it is harder to keep than it reads.
+1. **What is confirmed:** the span, the clearance, and the station the readings are taken from — with last year's figures beside the instrument, because the deck has no variance to show by eye.
+2. **What the watch does:** two probes at the documented stations and a worker who may say the crossing was available. The worker may not say what would have happened on it.
+3. **How it closes:** against the file's documented suppression condition: **Acknowledge possibility without treating it as history** — with the second probe entered beside the first and the disagreement, if there is one, recorded rather than argued.
 
 ### Consequences
 
-- Composure fails here in the direction of certainty. The worker becomes sure of what the other path held — not wistful, sure — and begins describing it in the past tense as something that was taken from them. The gauge rises with every such sentence and the worker is not aware of having said one.
-- Long exposure produces a reviewer who writes conclusions the evidence does not carry. Three Wardens rotated off this holding were afterwards found to have issued findings stating what would have happened had a different order been given, and all three findings had to be withdrawn.
-- The ring shows a target the option they did not take, standing open, at the moment it was open. It does not show them the outcome of it. That restraint is designed into the piece and is the only reason it is still issued.
-- An unresolved session leaves the frost deeper at the next reading and the holding does not treat that as an escalation. The deck has never extended, never shed a stone, and never reached past its own abutments in sixty years of record.
+- A worker who treats the crossing as a history takes the regret with them: the file records it as a grief for a life they did not lead, carried out of the Echo Gardens and into the shift.
+- Long attendance produces the wing's own state: crews who cannot stop comparing the five bridges, and who begin to read the span as a moral question rather than a survey.
+- The set is cut from a span that has never been crossed and carries that: the veil keeps the cold off, the lens shows the deck as measured rather than as remembered, and the weapon is heavy in a way that has nothing to do with its weight.
+- Unresolved, the survey is retaken. Nothing moves, nothing breaks and nothing leaves, and the sixty-year record continues without a single variance.
 
 ## Appearance
 **Physical Form:** A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost.

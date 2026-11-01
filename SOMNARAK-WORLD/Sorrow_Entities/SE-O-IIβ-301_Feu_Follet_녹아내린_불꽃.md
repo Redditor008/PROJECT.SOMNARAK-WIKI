@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s |
+| **Speed** | 0 m/s — the core holds its position; what travels is the perception of it |
 | **Resistance** | 25% against Lament pressure; 15% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |

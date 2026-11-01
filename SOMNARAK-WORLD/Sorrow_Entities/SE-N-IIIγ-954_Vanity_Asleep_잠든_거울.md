@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.95 m/s |
+| **Speed** | 0 m/s — stationary and asleep; posture corrections are found between sessions and not walked |
 | **Resistance** | 35% against Void pressure and 25% against everything else — resistance that matters mostly because nothing here is ever struck |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, or any attempt to wake or reposition the figure |
 | **Sorrow Gauge [HP]** | 739/739 |

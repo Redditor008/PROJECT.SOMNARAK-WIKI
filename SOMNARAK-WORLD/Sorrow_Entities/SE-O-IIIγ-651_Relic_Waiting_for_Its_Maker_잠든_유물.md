@@ -44,58 +44,42 @@
 - The 16–22 Han-Energy yield is ordinary for the band and is drawn from a chamber rather than from the relic, since the relic cannot be reached. What the exposure costs is paid in what workers say and cannot unsay, which is not a quantity the yield table has a column for.
 - Extraction is a separate authorised event, never a reward attached to a good cycle, and it takes from the chamber and not from the sleeping thing at its centre. Every piece in the set shares the source's defining trait: each one is unmistakably for something, and nobody can say what. The armoury's note adds the part that matters at issue, which is that a piece meant for an unnamed purpose makes its wielder look, to everybody including themselves, like a person with a purpose.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed chamber; output is measured by plumb-line lean at four stations against attributed entries in the open speech log |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types. Nothing resists the lean: it is measured at four stations and recorded, not opposed |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The relic is asleep in a fixed chamber, the walls lean inward in place, and no breach counter exists. Its rows describe a hum, a glow, and an involuntary twitch — none of them aimed at anything. What a watch has to survive here is attention: a chamber that rewards silence and punishes being described.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | An unrecovered relic in a sealed chamber whose walls lean inward, asleep and unnamed, with a plumb line and a slate at the door |
+| **Perceptible to** | The hum first, felt in the teeth and the deep brain rather than heard, and then the lean of the walls, which is not only structural |
+| **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
+| **Sorrow Gauge [HP]** | 653/653 — the containment meter, read at the door against the plumb |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, Mask Market |
+| **Location** | Zone C, Mask Market |
 | **Resolution Condition** | Speak only what the worker accepts responsibility for carrying |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Dormant Pulse* [**Debuff**] } | "The relic hums in its sleep — a frequency too low to hear, felt only in the teeth and the deep brain." | [The attentive quiet turns toward a confidence spoken instead of written; one wall takes a step in the plumb reading.] | *Target suffers a Void mark; the spoken words are entered in full, attributed, and cannot be withdrawn.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target speaks a confidential matter aloud in the chamber, especially to shed responsibility for carrying it. |
-| { *The Dream-Glow* [**Debuff**] } | "The relic glows faintly — dreaming of the power it used to hold — and the glow pulls at your own stored energy." | [A copied symbol begins to read as a command; the two transcriptions in the log no longer agree.] | *Target loses clarity and one intended word; form, orientation and sequence are preserved, but no meaning is assigned.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a surfaced symbol is translated, completed, or treated as the relic's purpose. |
-| { *The Sleep-Reflex* [**Attack**] } | "The relic twitches — an involuntary discharge of dormant power." | [The resonance pulse answers the object presented before the pedestal; the unseen center itself is neither seen nor contacted.] | *Inflicts Void damage; tools withdrawn before the pulse concludes crack through their structure, and all four plumb stations are read again.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When unfinished craftsman's tools are presented before the dormant pedestal. |
-| { *The Full Awakening* [**Attack**] } | "The relic wakes — for one instant at the full power it was built to hold, and the chamber is lit by something that was never finished." | [Assigning the relic a purpose and speaking an assembled activation phrase sends the pulse through every leaning wall; this is a side-codex incident, not observed movement by the unseen object.] | *Heavy Void surge; nearby personnel lose identity anchors and the plumb readings step inward at every station until the phrase is retracted and responsibility accepted.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a purpose or activation command is assigned to the relic. |
-| { *The Waking Vault* [**Ultimate**] } | "Every wall in the chamber leans at once — the lean was never only structural." | [The attentive quiet turns outward; all four stations move together.] | *All personnel in the chamber lose Composure for three turns, and anything entered in the speech log during those turns is marked as recorded under load.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥75%. |
+| Event | What the relic does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Dormant Pulse* [**Register**] } | Hums in its sleep at a frequency too low to hear, felt in the teeth and the deep brain, and steady. | The recognition that the chamber is occupied, and that the occupant has not moved for as long as the file runs. | The hum is the register and the plumb is the instrument; the two are read together at the open and the close. |
+| { *The Dream-Glow* [**Exposure**] } | Glows faintly while it dreams of the power it used to hold, and the glow pulls at stored energy in whoever is nearest. | A fatigue with no work behind it, and the sense of having been spent on something they did not agree to. | Nothing is drained from the room; the pull is on the worker's own reserve, which is why the wall readings are taken at the person as well. |
+| { *The Sleep-Reflex* [**Exposure**] } | Twitches: an involuntary discharge of dormant power that answers the object's own dreaming and not the room. | A pulse through the chamber that is over before it can be reacted to, and no second one in the same session. | The reflex is not aimed and nothing is directed. The file records it as a discharge, and the plumb records whether the walls moved with it. |
+| { *The Waking Vault* [**Contagion**] } | Leans every wall in the chamber at once, and the lean turns out never to have been only structural. | A chamber that has been listening, at a lean that has been measurable the whole time. | Unresolved, this is the shape of the escalation. The relic does not rise; the room answers for it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first — Relic Waiting for Its Maker is recognised by the room, since the relic cannot be seen. This is the chamber whose walls are out of plumb inward on every wall at once, which no structural account of the Mask Market has ever explained — then the approach is set and the positions are taken.
-2. **Clash:** Twenty turns, Viderehan and Ferrehan only, conducted in silence and on slates. Nothing confidential is spoken aloud in the chamber at any point in the engagement, and the plumb line is read at the start and the end of every turn in which anybody speaks at all.
-3. **Resolution:** The watch closes when work returns to silence and slates, anything spoken is entered in full and attributed beside the matching plumb movement, and the relic remains asleep, unseen and unnamed. **Speak only what the worker accepts responsibility for carrying** is the management condition; no interpretation, completion or activation phrase is a resolution.
+1. **What is confirmed:** the hum, the plumb, and the lean of each wall against last quarter's slate — read before a word is spoken in the chamber.
+2. **What the watch does:** quiet work and slates. Viderehan reads the lean and the glow; Ferrehan keeps the silence. Anything said in the chamber is entered in full and attributed beside the matching plumb movement.
+3. **How it closes:** against the file's documented suppression condition: **Speak only what the worker accepts responsibility for carrying** — with the relic asleep, unseen and unnamed.
 
 ### Consequences
 
-- If resistance fails the chamber does not attack; it becomes more attentive, and the worker's Composure goes into filling the quiet. The Gauge escalates on what is said rather than on what is done, and every accelerated cycle in this file's record began with somebody talking.
-- Extended exposure carries a cumulative risk that works through the urge to confide. The chamber is quiet, attentive and apparently private, and the longer a worker stands in it the more reasonable it seems to say the thing they have not said to anyone. Personnel do not report this as pressure. They report it as having felt comfortable.
-- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: the charge from this source is taken in purpose, and wielders describe a growing certainty that they were meant for something, with no corresponding sense of what.
-- If the condition is not met the chamber transforms rather than releasing anything. The walls lean further, the space narrows, and the Mask Market's adjoining stalls report their own rooms feeling attentive — which is the word used in the complaints and the word the file has kept.
+- A worker who speaks more than they will carry gives the chamber something to lean on: the plumb moves, the lean is entered against the session, and the relic is one line further from being described correctly.
+- Long attendance produces the Mask Market's own quiet: personnel who stop speaking in rooms with corners and are rotated without being told why.
+- The set is cut from a relic nobody has named and carries that: the veil holds the hum out, the lens shows the lean as it is rather than as it was measured, and the fragment is cold in a way the hand cannot account for.
+- Unresolved, the chamber keeps leaning and the slates keep filling. Nothing wakes, nothing leaves, and the maker remains unidentified.
 
 ## Appearance
 **Physical Form:** A chamber in the Mask Market containing an unnamed relic asleep beneath leaning walls. The walls bend inward as if listening.

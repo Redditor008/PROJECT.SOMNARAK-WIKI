@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | 0 m/s — recumbent; it has not changed posture in the record and has never stood |
 | **Resistance** | 45% against Weight. Nothing has been struck and nothing will be. The standing order is that any contact with the mass is an incident and any noise above a spoken voice is reportable. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 809/809 |

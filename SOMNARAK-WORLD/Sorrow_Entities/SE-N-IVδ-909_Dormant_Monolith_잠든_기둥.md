@@ -55,7 +55,7 @@
 | **Resistance** | 45 per cent against Void pressure and 35 against everything else, which for a holding that stands still in the worker's own thinking is a formality: there is nothing to strike and nothing striking. The gauge opens at 950 and trips at 90 per cent, and the drain runs 5 Composure per turn while it is unopposed. Working protection is the rota: one observer, relief issued as an order, and a declined relief executed anyway. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 950/950 |
-| **Han Pressure [ATK]** | 28–60 per hit · Void |
+| **Han Pressure [ATK]** | 28–60 per turn of exposure · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

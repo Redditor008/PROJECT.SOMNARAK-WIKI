@@ -22,7 +22,7 @@ The Maw is the site of the Cheongula, the First Sorrow. The rage and terror of o
 | Type / Manifestation | Place — Can Transform into Breach Subject entity (Place→Subject breach) when expansion exceeds Zone B containment / Place-Tale |
 | Coherence / Potency | Entity (IV) — Self-aware, ancient, hungry / Catastrophic (ω) — City-threatening |
 | Element / Location | Grudge / Zone B district — UNCONTAINED |
-| Gauge / Pressure | 1000/1000; starts 75–95% / 44–111 per hit · Grudge · Instant Fracture on critical |
+| Gauge / Pressure | 1000/1000; starts 75–95% · Grudge — no attack in the district form: the place has no hands and no reach, and the two secondary moves belong to the event form `C-IVω-001-B [GS]` alone |
 | Observation | 5 — Sovereign |
 | Formation event | During the early Consolihan, the weakest and poorest citizens were told they were being relocated. The ground opened, Han consumed them slowly, and their bodies, memories, and loves became the foundation of the city. |
 

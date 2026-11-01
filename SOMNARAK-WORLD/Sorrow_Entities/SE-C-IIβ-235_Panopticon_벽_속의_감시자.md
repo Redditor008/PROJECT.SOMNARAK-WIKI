@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s |
+| **Speed** | 0 m/s — a place; the watching spreads and the structure does not move |
 | **Resistance** | 25% against Void. There is nothing to resist: the entity is in the plaster, the stone and the shadow of every surface on the old rounds, and the wing has never proposed a measure against the walls of its own building. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 445/445 |

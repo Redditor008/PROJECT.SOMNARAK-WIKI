@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.95 m/s |
+| **Speed** | 0 m/s — a return-site figure; disappearance and reappearance are logged as returns, not travel |
 | **Resistance** | 35% against Lament pressure and 25% against everything else — resistance that has never been the point on a file where the harm arrives through the hearing |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, or any attempt to read a name back to it |
 | **Sorrow Gauge [HP]** | 673/673 |

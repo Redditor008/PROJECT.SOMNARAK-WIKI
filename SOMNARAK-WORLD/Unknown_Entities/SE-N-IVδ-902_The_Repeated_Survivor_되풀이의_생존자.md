@@ -34,7 +34,7 @@
 | **Starting Sorrow Gauge** | 70–90% |
 | **Han-Energy yield** | 18–26 Han-Energy per successful work cycle |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 |
-| **Activation threshold** | Sorrow Gauge ≥ 80% or a personnel member recognizing the loop |
+| **Activation threshold** | Sorrow Gauge ≥ 95% or a personnel member recognizing the loop |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -56,7 +56,7 @@
 |---|---|
 | **Speed** | 2.80 m/s (moves as if it has walked this route a thousand times — it has) |
 | **Resistance** | 50% against Void pressure; 30% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 80% or loop-recognition by personnel |
+| **Activation threshold** | Sorrow Gauge ≥ 95% or loop-recognition by personnel |
 | **Sorrow Gauge [HP]** | 993/993 |
 | **Han Pressure [ATK]** | 24–52 per hit · Grudge |
 | **Coherence modifier** | IV — retention across iterations (paradoxical) |

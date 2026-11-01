@@ -61,11 +61,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Soprano Shear* [**Attack**] } | "A crystalline whistle splits the gale, piercing ear-canals and stone alike." | [Directs a focused acoustic needle-lance through the primary target.] | *Deals 18-26 Void skewer damage; inflicts Deafened for 3 turns.* **[18-26 Pale DMG]** | When target enters 20m perimeter. |
-| { *Bedrock Cleave* [**AoE**] } | "The spire bores downward, splitting the cliff face beneath advancing boots." | [Drives its base into the rock, triggering an acoustic seismic rift.] | *Creates difficult terrain; deals 14 Weight damage and causes trip.* **[14 Weight DMG]** | When flanked by two or more melee operatives. |
-| { *Needle Flurry* [**Barrage**] } | "A halo of singing glass slivers descends like an inverted blizzard." | [Launches dozens of spinning acoustic shards across the engagement lane.] | *All targets take 12-16 Lament damage; reduces Posture by 25%.* **[12-16 Blue DMG]** | At engagement round 2. |
-| { *Counter-Phase Scream* [**Disruption**] } | "The pitch inverts, canceling out spoken commands and breath." | [Emits an ultrasonic shockwave that disrupts atmospheric pressure.] | *Silences squad communication for 2 turns; drains 15 Composure.* **[15 Pale DMG]** | When Sorrow Gauge reaches 60%. |
-| { *Harmonic Null* [**Ultimate**] } | "The entire mountain wall vibrates in unison until stone turns to flour." | [Synchronizes with local mountain ley-resonance to release a massive blast.] | *Deals 32-44 Void AoE damage to all targets within 30 meters.* **[32-44 Pale DMG]** | When Sorrow Gauge reaches 90%. |
+| { *Soprano Shear* [**Attack**] } | "A crystalline whistle splits the gale, piercing ear-canals and stone alike." | [Directs a focused acoustic needle-lance through the primary target.] | *Deals 18-26 Void skewer damage; inflicts Deafened for 3 turns.* **[18-26 PALE DMG]** | When target enters 20m perimeter. |
+| { *Bedrock Cleave* [**AoE**] } | "The spire bores downward, splitting the cliff face beneath advancing boots." | [Drives its base into the rock, triggering an acoustic seismic rift.] | *Creates difficult terrain; deals 14 Weight damage and causes trip.* **[14 BLACK DMG]** | When flanked by two or more melee operatives. |
+| { *Needle Flurry* [**Barrage**] } | "A halo of singing glass slivers descends like an inverted blizzard." | [Launches dozens of spinning acoustic shards across the engagement lane.] | *All targets take 12-16 Lament damage; reduces Posture by 25%.* **[12-16 WHITE DMG]** | At engagement round 2. |
+| { *Counter-Phase Scream* [**Disruption**] } | "The pitch inverts, canceling out spoken commands and breath." | [Emits an ultrasonic shockwave that disrupts atmospheric pressure.] | *Silences squad communication for 2 turns; drains 15 Composure.* **[15 PALE DMG]** | When Sorrow Gauge reaches 60%. |
+| { *Harmonic Null* [**Ultimate**] } | "The entire mountain wall vibrates in unison until stone turns to flour." | [Synchronizes with local mountain ley-resonance to release a massive blast.] | *Deals 32-44 Void AoE damage to all targets within 30 meters.* **[32-44 PALE DMG]** | When Sorrow Gauge reaches 90%. |
 
 ## Comprehension Levels
 

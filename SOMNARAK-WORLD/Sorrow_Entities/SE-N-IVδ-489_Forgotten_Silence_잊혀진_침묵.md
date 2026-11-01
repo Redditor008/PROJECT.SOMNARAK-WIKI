@@ -51,11 +51,11 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | 0 m/s — the figure holds its position; the quiet spreads beyond it and the figure does not |
 | **Resistance** | 45% against Lament pressure; 35% against everything else. Nothing is rated against the quiet itself, which does not strike: the figure holds still and the silence spreads, so the percentages describe what a worker carries into the chamber and how much of it the room takes. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 984/984 |
-| **Han Pressure [ATK]** | 31–67 per hit · Lament |
+| **Han Pressure [ATK]** | 31–67 per turn of exposure · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

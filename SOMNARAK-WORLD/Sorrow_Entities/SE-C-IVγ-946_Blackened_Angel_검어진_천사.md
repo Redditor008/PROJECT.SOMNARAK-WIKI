@@ -45,59 +45,42 @@
 - Crews are briefed to speak only scripted lines inside the room, and the script is read from the page rather than from memory.
 - Relic recovery is separately authorized and is never an outcome of a routine shift.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized encounter values for a fixed or expanding entity. Objects and Places do not perform ordinary Subject attacks unless their canon supports an active manifestation; their battlefield is an object effect, activation field, or environment.
-
-| Stat | Value |
-|---|---|
-| **Speed / Expansion** | 0 m/s (fixed); the tarnish spreads ~1.5 m per turn while active |
-| **Resistance** | 45% against Weight pressure; 25% against other pressure types |
-| **Activation threshold** | A spoken wish directed at the statue |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 30–44 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The statue does not move from its alcove, and nothing it does is aimed: it grants what is asked of it, and the asking is the whole of the event. What spreads is the tarnish, outward from the base with every cruel wish. A fixed figure that answers wishes has a contact record, and the harm on the file is the harm the wisher asked for.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt |
-| **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 55–75% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Monitored |
+| **Mode of presence** | A blackened stone angel in the Tarnished Shrine with a dish of tears at its feet; the statue stays in the alcove and the tarnish does the travelling |
+| **Perceptible to** | The tarnish first, spreading from the base, and then the sense that a wish has been heard and is being weighed |
+| **Activation threshold** | A wish — spoken or clearly thought — directed at the statue. No percentage and no count are listed |
+| **Sorrow Gauge [HP]** | 750/750 — the containment meter; each granting deepens the black by a shade |
+| **Starting Sorrow Gauge** | 55–75%, because it begins each cycle already heavy with old wishes |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Tarnished Shrine, SECTOR-A-04, Zone A |
+| **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A |
 | **Resolution Condition** | Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand |
 
-### Combat Actions
+### Contact Events
 
-> **Reading its combat:** Blackened Angel does not strike; it grants. Every "attack" is a wish answered — and an answer, now, always costs the wisher something, because the angel has lost its trust in what people ask for. The danger is the oldest danger of any wishing thing: be careful what you ask for, because it cannot refuse, and the price has grown heavier since it stopped being gold.
+| Event | What the angel does | What the wisher carries out | Reading |
+|---|---|---|---|
+| { *The Petitioner's Wish* [**Register**] } | Grants a small wish exactly as it was asked, and the granting lands on the wisher like a weight they did not order. | The weight of having been answered, which the file records as resolve and health paid out at once. | There is no aim in this and no target: the wish names its own object, and the statue only answers. |
+| { *The Black Tear* [**Exposure**] } | Weeps a single tear into the dish, and the sorrow in it spreads outward through the floor of the shrine. | Days of heaviness afterwards, grieving losses that are not entirely theirs. | The tear is the register of the cycle; the dish's level is read at open and close. |
+| { *The Granted Ill* [**Contagion**] } | Does exactly what was asked when the wish was for another's harm, swiftly and precisely, and its black deepens a shade for having done it. | A harm done at their request, and a mirror of it paid back on them, and a tarnish line a little further toward the Face. | This is the file's worst row and it is still not a strike: the statue has no reach and the harm is carried out where the wish pointed. |
+| { *The Face* [**Overload**] } | Cannot refuse anything, so at the threshold it does the only thing left to it and changes its face into a look no mind was made to hold. | A face they cannot afterwards describe, and the standing order that nobody is to look for it twice. | The Face is what full activation looks like on a fixed statue. Nothing leaves the shrine. |
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Petitioner's Wish* [**Debuff**] } | "You speak a small wish — and it is granted, just as you asked. But the granting lands on you like a weight you did not order." | [The angel answers the wish exactly, then lets the cost of it settle onto the wisher.] | *The target feels the granted wish fold back as burden; resolve and body both dip under the weight of getting what they wanted.* **[10 Weight DMG [Weight]]** | When a wish is spoken before it. |
-| { *The Black Tear* [**Field**] } | "A single tear slides down the blackened cheek and patters into the dish — and the sorrow in it spreads outward through the floor." | [The angel weeps a black tear; the grief pools and radiates from the dish in a slow, heavy ring.] | *All within the ring feel an old, accumulated sadness press down on body and mind at once.* **[10-14 Weight DMG [Weight]]** | When the Sorrow Gauge passes 60%. |
-| { *The Granted Ill* [**Attack**] } | "If the wish was for another's harm, the harm is done — swiftly, exactly, and the angel's black deepens a shade for having granted it." | [A cruel wish manifests on its target, and the tarnish on the statue spreads another inch in payment.] | *The named sufferer takes the wished harm; the wisher takes the mirror of it, for the angel no longer gives cruelty cleanly.* **[14-22 Weight DMG [Weight]]** | When a wish for another's misfortune is spoken. |
-| { *The Spreading Tarnish* [**Expansion**] } | "The black runs out across the floor like spilled ink, climbing the alcove walls, reaching for the wisher's feet." | [The corruption blooms outward from the statue's base, a spreading field of accumulated cruelty made solid.] | *The field widens; resolve and health erode together wherever the tarnish touches.* **[18-28 Weight DMG [Weight]]** | When three cruel wishes have been granted in one cycle. |
-| { *The Face That Cannot Be Understood* [**Ultimate**] } | "It can refuse nothing — so it does the only thing left to it. Its face changes into a look no mind was made to hold." | [The angel snaps; its features rearrange into an expression beyond comprehension, and forces the wisher to meet it.] | *All in range are gripped for three turns by a sight that the mind cannot contain — the cruel go mad, and even the kind are never quite the same.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+### Watch Sequence
 
-### Battle Phases
-
-1. **Tension:** Personnel confirm the Weight signature and the rule of the Shrine before entering: no wishes, spoken or thought, in the angel's presence. The team establishes who will empty the dish of tears and whether they can hold resolve under the field.
-2. **Clash:** The team performs Viderehan and Ferrehan — studying the angel's wish-record, enduring the heavy field — while the tarnish is kept from spreading. No one speaks a wish. The Gauge falls when the angel's own grief is named aloud and the dish is emptied by hand.
-3. **Resolution:** The team achieves containment, management, or the documented suppression condition: **Do not make a wish — name the angel's grief aloud, and let the dish of tears be emptied by hand**. The encounter ends not by breaking the statue, but by giving the betrayed angel the one kindness it can still receive: being seen, and no longer asked for things.
+1. **What is confirmed:** the tarnish line against the alcove base, the level in the dish, and that nobody in the party is holding a wish they have not said out loud to themselves.
+2. **What the watch does:** Viderehan reads the tarnish and the dish; Ferrehan stands in the shrine without asking for anything, in words or otherwise. Wishes are neither made nor tested.
+3. **How it closes:** against the file's documented suppression condition: **Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand**.
 
 ### Consequences
 
 - A worker who speaks even a small wish is answered at once — and pays the price in resolve and health, for the angel no longer grants cleanly.
 - A cruel wish harms its target, but the wisher pays a mirror of the harm, and the statue's tarnish spreads a little further toward the threshold of the Face.
 - Prolonged exposure to the black-tear field leaves personnel heavy and sad for days, grieving losses that are not entirely their own.
-- If the resolution condition is not met, the angel activates fully: the tarnish floods the Shrine, and the Face manifests to whatever wisher is present — and what is seen there cannot be unseen.
+- If the resolution condition is not met, the angel activates fully: the tarnish floods the Shrine, and the Face manifests to whatever wisher is present — and what is seen there is not recorded twice.
 
 ## Appearance
 

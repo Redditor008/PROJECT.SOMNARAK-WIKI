@@ -88,7 +88,7 @@
 
 1. **Tension:** The approach is made along the tunnel floor with lamps down, because the Span orients on raised light the way it once oriented on the crossing's lamps. The name list is read out before anyone speaks to it. A team that has not read the list is not permitted past the junction.
 2. **Clash:** The engagement is a conversation about responsibility and is lost by winning it. Every logged escalation followed a worker telling the Span that the collapse was not its fault; every logged de-escalation followed a worker taking a share of it. Wardens are instructed to say *we* and never *you*.
-3. **Resolution:** The Span sets the wreck down of its own accord, which it does roughly once in five cycles, and the team leaves while it is seated. Nothing else counts as a resolution — driving it back into the deep tunnels resets the cycle and has never lowered the gauge below 40%.
+3. **Resolution:** The Span sets the wreck down of its own accord, which it does roughly once in five cycles, and the team leaves while it is seated. Nothing else counts as a resolution — driving it back into the deep tunnels resets the cycle and has never lowered the gauge below 30%.
 
 ### Consequences
 

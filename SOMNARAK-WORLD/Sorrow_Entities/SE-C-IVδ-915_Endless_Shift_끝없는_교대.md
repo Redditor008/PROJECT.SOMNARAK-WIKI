@@ -55,7 +55,7 @@
 | **Resistance** | 30% against Weight. There is nothing in the sector to strike; the figure is carried from the schedule and the station has asked twice for the subjective-hour column to replace it. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 30–39 per hit · Weight |
+| **Han Pressure [ATK]** | 30–39 per turn of exposure · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

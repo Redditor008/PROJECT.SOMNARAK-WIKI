@@ -56,7 +56,7 @@
 | **Resistance** | 40% against Weight pressure; 30% against other pressure types. The second figure is defensive only: nothing on this file arrives as anything but Weight, and the field does not care what the watch was carrying when the pendulum swung. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 772/772 |
-| **Han Pressure [ATK]** | 14–31 per hit · Weight |
+| **Han Pressure [ATK]** | 14–31 per turn of exposure · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

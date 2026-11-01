@@ -51,11 +51,11 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.95 m/s |
+| **Speed** | 0 m/s — the choir is a place; what spreads is the sound, and the place does not travel |
 | **Resistance** | 35 per cent against Lament pressure and 25 against everything else, and the numbers describe a choir rather than a fighter: the Choir does not pursue, so a crew holds against its own recognition. The gauge opens full at 726 and trips at 75 per cent, and the file allows 5 turns from the stage edge. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 726/726 |
-| **Han Pressure [ATK]** | 15–33 per hit · Lament |
+| **Han Pressure [ATK]** | 15–33 per turn of exposure · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

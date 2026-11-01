@@ -55,7 +55,7 @@
 | **Resistance** | 25% against Lament pressure; 15% against other pressure types |
 | **Activation threshold** | Midnight, nightly, without variation; the gauge has never been a trigger and the entry claiming 60% is withdrawn |
 | **Sorrow Gauge [HP]** | 407/407 |
-| **Han Pressure [ATK]** | 9–23 per hit · Lament |
+| **Han Pressure [ATK]** | 9–23 per turn of exposure · Lament |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 

@@ -37,39 +37,35 @@
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
 
-## Combat Record
+## Contact Record
 
-> The Music Box does not attack. Its hazard is the lullaby: a listener who hears the full recitation begins to circle the same "carousel of agony" the song describes — heart vanishing, self forgetting — until they fade.
+> **Why this file has no combat actions.** The record says it in its own words above — *the Music Box does not attack; its hazard is the lullaby* — and the Speed row puts the case at 0 m/s with the figurine turning on its post. Nothing in the file aims, closes distance or lands a blow: a listener is emptied by hearing, not by being struck, and the only thing in the vault that moves is a mechanism rotating where it was set.
 
-### Core Stat Line
-
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
+| Field | Value |
 |---|---|
-| **Speed** | 0 m/s — the case sits where it is put; the figurine turns on its post |
-| **Resistance** | 0 per cent against every element it has been read for — Weight, Void, Lament and Grudge alike. The case is ordinary craftsmanship and the record keeps the destruction test unfiled rather than calling it favourable; what the box does not resist is being listened to. |
+| **Mode of presence** | A 25 × 15 cm box, black top, white bottom, pink lining, sitting where it was put in the acoustic-isolation vault, with a weeping figurine on a post that turns only while the lid is open |
+| **Perceptible to** | The lullaby by ear at about ten metres, muffled by the vault rather than stopped by it; ash smell and bloodless cold on approach; the figurine's turning once the lid is up |
 | **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
-| **Sorrow Gauge [HP]** | 420/420 |
-| **Han Pressure [ATK]** | 12–20 per note · Void (Acoustic emptying) |
-| **Coherence modifier** | II — repeats one lullaby without variation; response is the same at the thousandth playing as at the first |
-| **Potency modifier** | γ — one full recitation takes a piece of self-memory, and three take the listener |
+| **Sorrow Gauge [HP]** | 420/420 — the containment meter, read at the vault door |
+| **Starting Sorrow Gauge** | 45–65% |
+| **Valid Work Types** | Viderehan (map the song) and Ferrehan (endure it). Objects and Places are not engaged through Flerehan and are not confronted through Pugnahan |
+| **Location** | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
+| **Resolution Condition** | Close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Note* [**Debuff**] } | "The music box winds itself — and the first note is a frequency of pain that bypasses the ears entirely." | [The Music Box's opening note resonates with the target's pain receptors.] | *Target suffers a Void mark; pain is becoming audible.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Music Box winds. |
-| { *The Building Crescendo* [**Debuff**] } | "The melody climbs one note at a time, and every note is a different flavour of pain." | [The scale rises and the target is the instrument it is played on.] | *The target's clarity goes; something else is doing the playing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Standing inside the range through a movement. |
-| { *The Discordant Strike* [**Attack**] } | "A wrong note lands, and the wrongness drives in like a spike." | [One sour note is aimed straight at the target.] | *Void damage lands, and the sound of it wears at identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | On disturbing the Music Box. |
-| { *The Full Symphony* [**Attack**] } | "The final movement arrives and every note of pain in the box sounds at once." | [Everything the Music Box has been keeping comes out in a single performance.] | *A heavy Void crescendo; the meter climbs 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the point the Music Box is silenced. |
-| { *The Orchestra of Agony* [**Ultimate**] } | "The room turns into one instrument, the melody comes from every side at once, and nobody is left out of it." | [The Music Box carries its melody over the whole area.] | *Everyone in range takes Void erosion for three turns while the music plays.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |
+| Event | What the box does | What the listener carries out | Reading |
+|---|---|---|---|
+| { *The First Note* [**Register**] } | Winds itself and sounds a first note at a frequency that goes past the ears entirely. | A note already inside them, with no moment at which they agreed to it. | There is no operator and no visible winding; the impossible spring is the first detail recorded at every contact. |
+| { *The Building Crescendo* [**Exposure**] } | Climbs one note at a time, each a different flavour of pain, and the scale is enough — nothing has to be aimed. | A listener's clarity going out of their keeping while they stand in range. | The instrument is the listener. The box does not single one out, and the file does not pretend it does. |
+| { *The Full Recitation* [**Contagion**] } | Plays a recitation through to the end; three take the listener, and a faded listener is a still, translucent figure seated where they were. | Self-memory leaving by degrees: a worker who has to check their own name against the slate. | A faded listener cannot be brought back by force and no attempt is made to try. The found listener is still seated in the vault. |
+| { *The Orchestra of Agony* [**Overload**] } | Past the 65% gate the room becomes one instrument: the melody arrives from every side and nobody is left out of it. | Void erosion across the whole vault for as long as the song runs, with no body to strike and nowhere inside the range to stand clear. | The escalation is acoustic and total. The response is distance and a closed lid, not an engagement. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identify the boundary of the lullaby's audible range; confirm the lid state; select Viderehan (map the song) or Ferrehan (endure it).
-2. **Clash:** Personnel observe the figurine and the lyric, or endure a full recitation without fading. The Gauge rises with each cycle.
-3. **Resolution:** The watch ends against the documented suppression condition: **close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self**. A faded listener cannot be brought back by force, and no attempt is made to try.
+1. **What is confirmed:** the lid state, the boundary of the audible range against the ~10 m ordinary reach, the recitation count on the slate, and the Clarity of every listener in the vault.
+2. **What the watch does:** Viderehan maps the range and transcribes the lyric only while the box plays, to confirm it has not changed. Ferrehan sits out every verse and, at the last line, says their own name aloud. Nobody logs the lyrics from memory.
+3. **How it closes:** against the file's documented suppression condition: **Close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self** — with the lid dropping shut on its own entered as a clean close rather than a fault, and the figurine's audible weeping recorded beside it.
 
 ### Consequences
 

@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s |
+| **Speed** | 0 m/s — an artwork; it has never moved and there is no locomotion to state |
 | **Resistance** | 25% against Lament pressure, 15% against other pressure types — read at the pool's edge, since nothing here has ever been struck in anger and Pugnahan's nineteen logged attempts returned no response at all. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 394/394 |

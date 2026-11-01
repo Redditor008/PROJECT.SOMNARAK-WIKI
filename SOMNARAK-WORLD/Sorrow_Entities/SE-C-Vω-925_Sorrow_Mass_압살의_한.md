@@ -55,7 +55,7 @@
 | **Resistance** | 25% against Weight pressure; 18% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 1000/1000 |
-| **Han Pressure [ATK]** | 50–59 per hit · Weight |
+| **Han Pressure [ATK]** | 50–59 per turn of exposure · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
 

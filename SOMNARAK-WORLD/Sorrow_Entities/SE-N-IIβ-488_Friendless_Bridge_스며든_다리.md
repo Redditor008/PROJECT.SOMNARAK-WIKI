@@ -56,7 +56,7 @@
 | **Resistance** | 25% against Grudge pressure and 15% against everything else. The two figures are taken from the span's own material — empty crystal grown out of an obligation rather than out of stone — and the record's note is that it is accordingly durable against the pressure it was made from and only ordinarily sturdy against anything else. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 386/386 |
-| **Han Pressure [ATK]** | 7–17 per hit · Grudge |
+| **Han Pressure [ATK]** | 7–17 per turn of exposure · Grudge |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 

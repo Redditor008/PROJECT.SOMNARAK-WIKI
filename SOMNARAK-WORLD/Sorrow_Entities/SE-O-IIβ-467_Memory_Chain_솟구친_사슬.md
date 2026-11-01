@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s |
+| **Speed** | 0 m/s — a place; it spreads rather than moves |
 | **Resistance** | 25% against Lament. It is almost never visible and has never been touched; the Gardens station notes that a resistance figure for a voice travelling along a line in the air is a column the form requires and nothing more. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |

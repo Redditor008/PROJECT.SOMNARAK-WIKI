@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | Corrupt pulse: event begins at 40% and adds 10% for every unanswered interval; combat threshold ≥90% |
+| **Activation threshold** | Corrupt pulse: event begins at 85% and adds 10% for every unanswered interval; combat threshold ≥90% |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Subject-Void figure; destroying an exposed final memory is prohibited and no vessel route is recorded |
 | **Han Dust Drop (Vessel Destruction)** | — |

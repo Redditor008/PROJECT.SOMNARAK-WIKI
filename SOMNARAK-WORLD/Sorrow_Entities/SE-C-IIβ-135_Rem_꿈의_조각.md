@@ -56,7 +56,7 @@
 | **Resistance** | 25% ward against Lament, 15% against everything else — and at the Gates only the first is ever tested. Nothing here strikes a body; the pressure is Lament or it is nothing, and the second figure stands against a class of harm the shard has never once produced. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 357/357 |
-| **Han Pressure [ATK]** | 9–21 per hit · Lament |
+| **Han Pressure [ATK]** | 9–21 per turn of exposure · Lament |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 

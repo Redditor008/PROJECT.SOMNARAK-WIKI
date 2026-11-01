@@ -55,7 +55,7 @@
 | **Resistance** | 25% against Grudge pressure; 15% against everything else. Nothing is rated against the fruit itself, which does not pursue: it hangs, it draws exiles the way the gate does, and it melts when it is touched, so the percentages describe the pressure coming off rows nobody has put a hand into. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
+| **Han Pressure [ATK]** | 10–23 per turn of exposure · Grudge |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
 

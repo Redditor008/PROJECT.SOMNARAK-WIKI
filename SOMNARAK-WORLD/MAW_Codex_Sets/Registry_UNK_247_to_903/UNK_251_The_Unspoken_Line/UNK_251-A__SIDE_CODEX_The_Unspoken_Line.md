@@ -39,7 +39,7 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 | Location | A four-way junction in the Mantle Commons, Zone D |
 | R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 55–70% |
-| Activation threshold | 2 |
+| Activation threshold | Nine days without a board entry, the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
 | Sorrow Gauge [HP] | 910/910 |
 | Han Pressure [ATK] | 29–64 per hit · Void |
 | Speed | 0.0 m/s (fixed) |

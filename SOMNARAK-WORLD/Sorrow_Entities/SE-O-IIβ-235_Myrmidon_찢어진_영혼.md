@@ -50,7 +50,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 1.45 m/s |
+| **Speed** | 0 m/s — one position within the registered area; what changes is which of the two selves is dominant |
 | **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 415/415 |

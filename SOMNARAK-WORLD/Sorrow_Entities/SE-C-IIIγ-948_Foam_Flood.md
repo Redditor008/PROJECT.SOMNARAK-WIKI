@@ -45,52 +45,35 @@
 - Personnel are briefed that the longing is the hazard rather than the water, and that the impulse to touch the stone is the entity acting.
 - Relic recovery is authorized separately and is not treated as an outcome of a successful shift.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized encounter values for a fixed or expanding entity. Objects and Places do not perform ordinary Subject attacks unless their canon supports an active manifestation; their battlefield is an object effect, activation field, or environment.
-
-| Stat | Value |
-|---|---|
-| **Speed / Expansion** | 0 m/s (fixed); the longing-field expands ~1.2 m per turn while active |
-| **Resistance** | 45% against Lament pressure; 25% against other pressure types |
-| **Activation threshold** | A hand laid upon the carving (or bare skin within the field) |
-| **Sorrow Gauge [HP]** | 600/600 |
-| **Han Pressure [ATK]** | 12–24 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The carving in the Dry Riverbed Vault does not move and has never moved; what moves is its longing, radiating outward as a field. Nothing in the vault is thrown, bitten or struck, and the only thing a hand laid on the stone produces is a wish to leave the ground. A carving that makes people want to fly has a contact record, not a battle.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Feels everything, and cannot lift from the earth |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A stone dragon carved in the vault wall with its wings held still, white eyes lit; the field, not the carving, is what reaches the room |
+| **Perceptible to** | The eyes first — cold, blue and impossibly far — and then the floor, which stops feeling like the place a person belongs |
+| **Activation threshold** | A hand laid upon the carving, or bare skin inside the longing-field. No percentage and no count are listed |
+| **Sorrow Gauge [HP]** | 600/600 — the containment meter, read at the vault door; each channeling deepens the carving's grief rather than easing it |
 | **Starting Sorrow Gauge** | 50–70% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Monitored |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
+| **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | **Resolution Condition** | Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim |
 
-### Combat Actions
+### Contact Events
 
-> **Reading its combat:** The Foam Flood does not strike; it *yearns.* Every effect is the carving's longing made contagious — the wish to fly, poured into whoever touches it or stands too long in its field. The danger is the sweetest danger of any wishing thing: it offers you the sky, and the sky is not yours to have.
+| Event | What the carving does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Glowing Eyes* [**Register**] } | Brightens the white eyes to the light of an open sky, cold and blue and far away, and holds it. | The recognition that the vault is under a field rather than under a roof, and the first pull of the floor. | The eyes are the register. Their going dim is the only closing signal the file records. |
+| { *The Pull of the Sky* [**Exposure**] } | Radiates the longing outward, and the blue above the vault seems suddenly close and very much where the worker belongs. | A heartsickness for the sky that lasts days, and a restlessness on the ground that is mistaken for fatigue. | Prolonged exposure is not injury. The file's whole record of it is people staring upward. |
+| { *The Rising* [**Exposure**] } | Lifts a handspan without touching anybody: the field raises what is inside it, and the worker's own wish does the rest. | One held breath of flight, and, untreated, the attempt to take it further from whatever height is available. | This is the file's one physical hazard and it is the worker's own doing once the field has done the lifting. |
+| { *The Longing Made Wide* [**Contagion**] } | Pours the wish across the vault floor like a wind that is not there, and everything it touches wants to rise: the field floods the vault and spreads beyond it. | A vault in which every object and every person is straining upward, and no one on the floor to hold them. | Unresolved, this is what the field does. It is a spread in place and not a breach; the carving stays in its wall. |
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Pull of the Sky* [**Debuff**] } | "You look up, and the blue above the vault seems, suddenly, very close — and very much where you belong." | [The carving's longing radiates; the target feels the urge to rise, to leave the ground, to fly.] | *Composure thins as the wish to fly settles in; the target forgets, briefly, that they cannot.* **[8 Lament DMG [Lament]]** | When the target enters the field. |
-| { *The Glowing Eyes* [**Field**] } | "The dragon's white eyes brighten, and the light of them is the light of an open sky — cold, blue, and impossibly far." | [The eyes cast a soft sky-light; all in the field are bathed in the longing the carving has held for as long as it has stood.] | *All within feel the ache of a grounded thing made for flight; composure drains with every glance upward.* **[8-12 Lament DMG [Lament]]** | When the Sorrow Gauge passes 60%. |
-| { *The Rising* [**Attack**] } | "Your feet leave the floor — not much, a handspan — and for one held breath you are flying, you are finally flying." | [The field lifts the target a fraction off the ground in a brief, glorious, stolen flight — then drops them.] | *The brief flight costs the target's composure; the fall, when it ends, costs more.* **[12-18 Lament DMG [Lament]]** | When the target lingers in the field. |
-| { *The Longing Made Wide* [**Expansion**] } | "The wish pours out across the vault floor like a wind that is not there, and everything it touches wants to rise." | [The longing-field blooms outward; loose objects drift, and personnel strain toward the ceiling, held only by weight.] | *The field widens; composure erodes across the room as the shared ache of grounded wings spreads.* **[14-22 Lament DMG [Lament]]** | When the carving is touched with bare skin. |
-| { *The Shape That Should Have Flown* [**Ultimate**] } | "The stone dragon holds its carved wings still — and you feel, all at once, the whole of its grief: the long, long ache of rising that never rose." | [The carving pours its entire sealed longing into the field; the grief of a flight that never happened floods all present.] | *All in range are gripped for three turns by a sorrow so vast it aches to fly — the carving's whole history of grounded wanting.* **[10-16 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+### Watch Sequence
 
-### Battle Phases
-
-1. **Tension:** Personnel confirm the Lament signature and the rule of the Vault before entering: no bare skin on the carving, no flight attempted. The team establishes who can hold composure under the pull of the sky.
-2. **Clash:** The team performs Viderehan and Ferrehan — studying the carving's record, enduring the longing-field — while keeping the field from expanding. No one touches the stone ungloved. The Gauge falls when the sky it cannot reach is named aloud.
-3. **Resolution:** The team achieves containment, management, or the documented suppression condition: **Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim**. The encounter ends not by moving the carving, but by acknowledging, for it, the one thing it has wanted for as long as it has stood and never had.
+1. **What is confirmed:** the eyes, the field's edge against the vault floor, and that nobody is bare-skinned inside it. The carving is not approached and not touched.
+2. **What the watch does:** Viderehan reads the field and the wall; Ferrehan stands in it without laying a hand on anything. The wish is not spoken, not granted, and not wished for.
+3. **How it closes:** against the file's documented suppression condition: **Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim**.
 
 ### Consequences
 

@@ -56,7 +56,7 @@
 | **Resistance** | 35% against Void. The liquid has never been sampled; the two proposals to draw a flask are in the Armoury ledger and the second was refused in one line — *we would be holding somebody's memory in a cupboard.* |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 587/587 |
-| **Han Pressure [ATK]** | 15–34 per hit · Void |
+| **Han Pressure [ATK]** | 15–34 per turn of exposure · Void |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

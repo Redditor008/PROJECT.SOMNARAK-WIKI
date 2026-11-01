@@ -44,58 +44,42 @@
 - No breach counter applies. Crews lay physical line from the entrance and recover it on exit; a route not on the line is not a route.
 - Extraction is authorized apart from the work cycle and is never attempted off the line.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 40% against Void, which is what the walls are made of; 30% against everything else, and the second figure has never been reached by an entrant who stayed on the line |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 18–41 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Labyrinth is a place. Nothing in it chases anybody, nothing in it strikes, and the corridors rearrange rather than move; there is no body to fight and no distance to close. What it does is take the memories that enter it and rebuild the walls around them, and the whole hazard is what a person remembers while standing in a corridor.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Entity (IV) — Self-aware, labyrinthine, trapping |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A maze beneath Old Lament that is walked rather than met; its corridors keep the shape of the last visitor's memory |
+| **Perceptible to** | The wrong turn first — an exit that does not lead back the way the entrant came — and then the walls, which are furnished with things the entrant has never told anyone |
+| **Activation threshold** | Sorrow Gauge ≥ 75%, reached as new forgotten memories enter the maze. No count is listed |
+| **Sorrow Gauge [HP]** | 750/750 — the containment meter; it climbs on every act of remembering or forgetting inside the walls |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-02, beneath Old Lament |
+| **Location** | SECTOR-B-02, beneath Old Lament |
 | **Resolution Condition** | Maintain a memory anchor and limit exploration time |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Wrong Turn* [**Debuff**] } | "The corridor takes one step while you are not looking, and every exit now leads somewhere you did not walk in from." | [The Maze rearranges behind the target; the route they entered by is no longer the route back.] | *Target suffers a Void mark; their own memories are being overwritten.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target enters the Maze, or first steps off the line. |
-| { *The Dead End* [**Debuff**] } | "The corridor stops at a wall of the one thing you have never told anyone." | [The Maze presents the target with a recollection they had kept out of every debrief.] | *Target loses clarity; the protected memory is exposed and vulnerable.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target turns by recollection rather than by the written route. |
-| { *The Shifting Wall* [**Attack**] } | "The wall comes across the corridor the way a page turns, and the half-scene behind it keeps playing." | [The Maze's structure shifts with the visitor's own act of recall and closes the corridor they were standing in.] | *Inflicts Void damage; the pushed memory overwrites a portion of identity.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When somebody inside remembers something aloud. |
-| { *The Center* [**Attack**] } | "There is a middle to the tangle, and everything that ever sank has been waiting in it." | [The Maze's core releases the accumulated mass; the corridor count stops meaning anything.] | *A heavy Void flood; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the line runs out at depth, or the anchor point is reached. |
-| { *Everyone Is Lost in Memory* [**Ultimate**] } | "The rearrangement stops being a corridor and starts being the room you are standing in, and the surface above it." | [The Maze expands past its own walls and takes the field; there is no outside left to be hauled back to.] | *All in range suffer Void erosion for three turns of being lost in memory.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with the line still out. |
+| Event | What the Labyrinth does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Wrong Turn* [**Register**] } | Takes one step while nobody is looking, and every exit then leads somewhere the entrant did not walk in from. | The loss of the way back, which is how the maze is identified as entered rather than merely found. | The corridor count is the measurement; it is read at the anchor and entered before anything else is discussed. |
+| { *The Dead End* [**Exposure**] } | Stops a corridor at a wall made of the one thing the worker has never told anybody, and holds it there in plain view. | Their own withheld memory, presented complete, in a place with no one to say it to and no way to unsee it. | This is the file's real pressure: the walls are furnished from the entrant, and nothing is taken that was not brought in. |
+| { *The Shifting Wall* [**Exposure**] } | Turns a wall across the corridor the way a page turns, and the half-scene behind it keeps playing. | A recollection interrupted mid-sentence and left running, with the way past it now closed. | The wall is not a blow. The file records no impact, no crush and no pursuit in any corridor. |
+| { *The Center* [**Contagion**] } | Opens the middle of the tangle, where everything that ever sank has been waiting, and lets the corridor carry it out. | The accumulated mass of other people's unplaced lives, arriving all at once and belonging to nobody in the room. | Unresolved, the maze is left larger and the anchors spent, and the next team walks the shape this one's memory gave it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Confirmation comes from the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and shift when somebody remembers rather than when somebody walks. The line is paid out and the anchor set while the team is still outside, because the position that will be withdrawn from is the one place inside that does not move.
-2. **Clash:** The work is navigation. Viderehan reads the memory architecture from a fixed position and holds the reading steady; Ferrehan requires the worker to keep moving without a map that stays true between corridors. The rule that governs both is that the route is taken from the written anchor and never from recollection.
-3. **Resolution:** The session closes on the line: the entrant is hauled back to the anchor, the corridor count is read and entered, and the wall contents are written down before anybody discusses them. The condition on the record is **Maintain a memory anchor and limit exploration time**, and a session that ends with the entrant navigating back on their own has not ended; it has been logged as a recovery.
+1. **What is confirmed:** the entrance, the anchor, and the corridor count before the first turn. Time inside is capped before anybody enters, not during.
+2. **What the watch does:** the entrant is walked on a line and hauled back to the anchor at the first overrun; the walls' contents are written down as they appear, and nothing in them is discussed inside the maze.
+3. **How it closes:** against the file's documented suppression condition: **Maintain a memory anchor and limit exploration time** — with the entrant out, the count read, and the contents entered before anybody talks about them.
 
 ### Consequences
 
-- Failed resistance is a double loss: the worker takes the walls' pressure directly on their **Composure**, and the Maze rises on the destabilisation — the rearrangement is fed by a mind that cannot hold its own account steady, and the file has never seen the gauge come down inside a session.
-- Time inside is capped, but the hazard is recall rather than duration. The walls rearrange on every act of remembering or forgetting, so twenty minutes of reminiscing moves the Maze further than two hours walked in silence. The depth limit is line length set by the handler chief and the counselors, shortened three times in the record and lengthened never.
-- The lens, the veil and the key are all made from lives that could not be placed. Each activation borrows a measure of that displacement and the operator keeps it. The recorded cost is not amnesia. It is that the operator's certainties and their guesses begin to feel identical from the inside.
-- An unresolved session leaves the Maze larger and the anchors spent. Nothing transforms: the corridors keep the shape the last visitor's memory gave them, and the next team's written route no longer matches the ground. The one thing that does not change is the entrance, which is why every measurement in this file is a count of corridors from it.
+- Failed resistance is a double loss: the worker takes the walls' pressure directly on their **Composure**, and the Maze rises on the destabilisation — the rearrangement is the entity's answer to being read.
+- Time inside is capped, but the hazard is recall rather than duration. The walls rearrange on every act of remembering or forgetting.
+- The lens, the veil and the key are all made from lives that could not be placed. Each activation borrows a measure of that displacement and the operator keeps it.
+- An unresolved session leaves the Maze larger and the anchors spent. Nothing transforms: the corridors keep the shape the last visitor's memory gave them.
 
 ## Appearance
 **Physical Form:** A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget.

@@ -56,7 +56,7 @@
 | **Resistance** | 35 per cent against Grudge pressure and 25 against everything else, on a fixed object that has never pursued anybody: what a crew holds against is the habit of promising. The gauge opens full at 693 and trips at 75 per cent, and the file allows 4 turns of observation and endurance only. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 693/693 |
-| **Han Pressure [ATK]** | 14–32 per hit · Grudge |
+| **Han Pressure [ATK]** | 14–32 per turn of exposure · Grudge |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

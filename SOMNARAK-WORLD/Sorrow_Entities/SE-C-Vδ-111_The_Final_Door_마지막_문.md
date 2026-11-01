@@ -45,58 +45,42 @@
 - There is no breach counter. The standing order is that the Door is not opened, and the order does not depend on the gauge reading.
 - Extraction is authorised separately and never from the threshold: the two pieces were cut from the frame's outer stone, four metres from the face, by a team working with their backs to it.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 50% against Void. The figure is formal. Nothing has been swung at this door and nothing will be; the Keepers' standing order calls any contact with the face an incident regardless of intent. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 1000/1000 |
-| **Han Pressure [ATK]** | 25–55 per hit · Void |
-| **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Door is a structure and does not move; its own attack row says so in the middle of the label — *nothing strikes; a hand reaches the face, and the contact is the whole of it*. What it does is stand there, and what the watch is for is the whisper that comes occasionally and must be written down before anybody speaks.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Sovereign (V) — Autonomous, mysterious |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A sealed door in the deepest Alpha Tree vault, standing exactly as it has stood, with nothing behind it that the record can describe |
+| **Perceptible to** | The finality first — the shape of there being nothing after it — and then, rarely, the whisper |
+| **Activation threshold** | Touch, sustained listening, or conditions the file records as unknown. No percentage and no count are listed |
+| **Sorrow Gauge [HP]** | 1000/1000 — the containment meter, read at the vault door |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
-| **Resolution Condition** | The listener writes down the whisper before speaking to anybody and leaves the vault. 94 cycles, 41 whispers; the transcripts are sealed on the spot and compared only by the Archive Lead. |
+| **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
+| **Resolution Condition** | The listener writes down the whisper before speaking to anybody and leaves the vault. 94 cycles, 41 whispers; the transcripts are sealed on the same day |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Last Threshold* [**Debuff**] } | "There is nothing after this door. Not a room — nothing. You can feel the shape of that." | [The Door's finality presses on anybody at the threshold.] | *Void pressure; the listener's own plans for the following week become difficult to recall.* **[Void DMG [Void]]** | On approach, every cycle, with no exceptions in ninety-four. |
-| { *The No-Return* [**Debuff**] } | "Open it and you do not come back — and it is in no hurry, because everybody who has stood here has thought about it." | [The Door's permanence bears down.] | *Void pressure, rising with time at the threshold; 61 of 94 cycle reports include the sentence "I considered it."* **[Void DMG [Void]]** | After about four minutes at the marked distance. |
-| { *The Iron Frame* [**Attack**] } | "Nothing strikes. A hand reaches the face, and the contact is the whole of it." | [The Door does not move and the frame does not act; the one recorded contact is priced entirely in what the Keeper could no longer recall.] | *Void damage to the Soul; the one worker who reached the face in Year 4,218 was recovered intact and could not afterwards name her own mother.* **[Void DMG [Void]]** | On contact with the face. Once. |
-| { *The Full Opening* [**Attack**] } | "Nobody who sealed it is available to ask." | [Projected only: an opening has never been observed, and nothing in this file describes what an opening would admit.] | *Facility-threatening. Never observed. The entry exists because the Keepers require the consequence to be written down where the standing order can point at it.* **[Projected]** | If the Door is ever opened. |
-| { *Every Door Is the Last* [**Ultimate**] } | "Every door in the facility is this door, and behind each of them is the same nothing." | [The finality propagates to every threshold in the building.] | *Void erosion to everyone passing through any doorway.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%. Once, for eleven minutes, in Year 4,229; nobody in the facility would go through a door and the shift simply stopped. |
+| Event | What the Door does | What the listener carries out | Reading |
+|---|---|---|---|
+| { *The Last Threshold* [**Register**] } | Stands as a door with nothing after it, and lets that be felt without being shown. | The shape of the nothing, which is how the vault is identified and why the register is kept outside it. | Nothing about the Door changes. The identification is the absence, and the file is careful that it is not a vision. |
+| { *The No-Return* [**Exposure**] } | Waits, in no hurry, while the listener thinks about opening it. | The certainty that opening it means not coming back, which every person who has stood here has considered. | No person has opened it in 94 cycles. The file's prohibition is the whole of its containment. |
+| { *The Face* [**Exposure**] } | Nothing. A hand reaches the face of the door and the contact is the whole of it: no pull, no strike, no answer. | A flat palm against a sealed door, and the knowledge that this was all it was ever going to be. | This is the row that replaces a strike, and it says so in the file's own words. |
+| { *The Whisper* [**Contagion**] } | Occasionally speaks, for about thirteen seconds, to a listener alone. 41 whispers are on the record across 94 cycles. | Something that must be written down before it is said to anybody, sealed the same day, and never repeated back into the vault. | Nobody has stayed for a second whisper, and the record does not say whether a second one is possible. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The Keeper descends to SECTOR-A-01, stands at the marked distance, and starts the watch. Nothing else is prepared. There is no perimeter to set and nothing to deploy against a sealed door.
-2. **Clash:** None, and the row has been struck from the operational order twice and reinstated twice by a form that will not accept its absence. The Keepers' note beside it reads: *there is no clash; there is a door.*
-3. **Resolution:** The whisper, if it comes, lasts thirteen seconds. The listener writes it down, seals it, and goes up. Nobody has ever stayed for a second whisper and the record does not say whether a second one is possible.
+1. **What is confirmed:** the seal, the vault's own register, and the name of the listener who will be alone in front of the door. The transcript book is opened before the vault is.
+2. **What the watch does:** the listener stands, listens, and writes. Nobody speaks in the vault; nobody discusses a whisper inside it; nothing is tested against the door to see whether it answers.
+3. **How it closes:** the listener writes down the whisper, or the thirteen seconds pass, and leaves the vault; the transcript is sealed on the same day and entered against the cycle.
 
 ### Consequences
 
-- The failure here is a hand on the face of the door. It has happened once in ninety-four cycles and the Keeper who did it was the most experienced person then serving.
-- Past about four minutes the listener begins planning how it could be opened. The plans are competent. 61 of 94 reports contain one and the standing order requires them to be written down rather than suppressed.
-- Both pieces take small nameless memories — not names or faces, the Armoury is precise about this, but the things between them: a street's smell, the order of a staircase, which hand somebody wrote with.
-- There is no escalation path short of opening. The Door does not expand, event or pursue; it has been in the same stone for longer than the city and the only thing that has ever changed about it is who is standing in front of it.
+- A listener who speaks before writing loses the whisper and takes the finality instead: the file records it as a grief with no object, and the cycle is entered as unresolved rather than failed.
+- Sustained listening produces the vault's own state — a person who has heard the nothing and cannot put it into a sentence — and the rotation is written into the rota rather than offered as a courtesy.
+- The set is cut from a door that has never been opened and carries that in the wearing: the veil keeps the whisper in, the lens cannot hold it, and the weapon has an edge for something that will not be there.
+- Unresolved, the Door stands. Nothing escalates, nothing leaves, and the transcript book fills at the rate the vault chooses.
 
 ## Appearance
 **Physical Form:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.

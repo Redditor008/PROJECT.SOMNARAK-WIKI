@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 55–70% |
 | **Han-Energy yield** | 10–14 per cycle, and the cycle is a conversation between two residents rather than a work performed by staff. The R.D. is the only party in the Commons that gains anything measurable from it, which the junction's residents have noticed and said so. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Activation threshold** | 2 |
+| **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -52,7 +52,7 @@
 |---|---|
 | **Speed** | 0.0 m/s (fixed) |
 | **Resistance** | 40% against Void. The other figures are untested and will stay untested: the junction is inhabited, Pugnahan is invalid for a Place, and nobody is willing to find out what forcing the seam does to the shopfronts on either side of it. |
-| **Activation threshold** | Sorrow Gauge ≥ 65% |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 29–64 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
