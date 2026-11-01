@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Two Suits that described weapons (batch 74)
+
+A sweep of all 290 dossiers for cross-class bodies — a Suit or Stigma whose Appearance describes an edged weapon, a Weapon whose Appearance describes a garment — returned seven hits, and **two of them were real**.
+
+**`C-IVδ-909`, the Veil of the Labyrinth of the Unfinished Mind**, had a six-foot two-handed greatsword for an Appearance: four-foot blade, parrying rings, quillons that rang like tuned chimes. That is archetype `MAW-W-909`'s Weapon body, pasted into a Suit block, and the file knew it — its Bearer cost carried the instruction *"do not turn it into a garment by inventing folds or a worn state"*, and its Weapon custody line referred to *"the disputed Suit's greatsword reach."* An instruction to a future editor, sitting in the fiction, is a holding, and this archive does not hold. The Veil now describes what its own Ability and Bearer cost already required: dressed-stone grey gossamer on a plain circlet, carrying a slow copy of whatever the nearest wall is inscribing, so that a wearer's own thoughts take the corridor's route and have to be walked to. The greatsword is recorded once, where it belongs — in the source review, as the archetype's form.
+
+**`O-Iα-453`, the Crying Shroud**, had a cavalry sabre for an Appearance — thirty-two inches along the curve, pipe-backed spine, three-bar hilt — and two sentences of sword drill beneath it. The previous pass had left it standing deliberately, on the note *"Preserve both primary forms rather than moving either."* That note is now superseded: the Master Codex classifies the entry as Vestments & Outerwear, the shroud's Ability turns Lament aside from the mind, and a sabre cannot do that. The Shroud keeps the mist that was the sabre's best detail — it sits in the folds and lifts a hand's width off the hem — and the blade is recorded as archetype `MAW-W-453`'s Weapon body.
+
+**The other five were not defects.** Three Stigmas are *blade-pendants*, a shape not a weapon; one is a key-charm; `N-IIβ-280`'s ward coat references the stamp struck on the cleaver's butt; and `N-IVδ-909`'s Suit is a black basalt shield, which is armour, described as cut from the same stone as the set's sword.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS · `check_links` 0 broken.
+
 ## The record checked itself (batch 73)
 
 The last entry closed by reporting a filename-to-title mismatch in **232 of 852** codex records. That figure does not survive a re-run. Compared exactly — the title's name part against the filename's name part, punctuation and case normalised — **123 records** disagree, not 232. The larger number came from a looser test that counted a name as a mismatch whenever it did not appear *literally* inside the title line, which flags *The Debt Lens* against *The Debt Prism* even though the two share the name the file is really carrying. The correct breakdown: **seven** differ only by a descriptor (*The Judgment Scale* → *The Suspended Balance Scale*, *The Tear Earring* → *The Obsidian Tear Drop Earring*), and **116** name a different object altogether (*The Laments Requiem* → *The First Dawn Stiletto*). The smaller figure does not make the rename question easier — it is still the archive's addressing scheme — but the record should not overstate its own findings.
