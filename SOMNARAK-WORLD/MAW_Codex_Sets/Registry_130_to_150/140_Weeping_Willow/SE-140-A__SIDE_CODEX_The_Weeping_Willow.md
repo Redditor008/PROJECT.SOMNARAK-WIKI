@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A massive living willow whose long branches carry pale crystal tear-leaves that shatter silently when they fall. |
-| Gauge / pressure | 45–65% / Lament 18–41 |
+| Gauge / pressure | 653/653; starts 45–65% · Lament — no attack pattern: rooted, and no branch lashes; the spread is the root line and the saturated boundary (Contact Record, R-36) |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Gentle Endings |
 

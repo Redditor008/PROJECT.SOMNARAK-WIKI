@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | SECTOR-D-02, Echo Gardens |
 | Form | A low moss-ringed basin that weeps warm saline grief into a bottomless pool which reflects no face. |
-| Gauge / pressure | 45–65% / Lament 18–41 |
+| Gauge / pressure | 653/653; starts 45–65% · Lament — no attack pattern: the basin has never moved, and the escalation is metres of damp and a moss line (Contact Record, R-36) |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Shared Current |
 

@@ -44,58 +44,42 @@
 - No breach counter: it spreads at the root rather than escaping. The saturated boundary is marked at every session and the marks are kept, which is the only growth record this holding has.
 - Extraction draws on the collected leaf material under separate authorisation. What that arrangement actually consists of is set out in the last section of the Warden Record and is not an ordinary yield account.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | About a third of the pressure — 35 per cent — when what presses is Lament, and a quarter when it is not. Neither figure describes a pursuit, because the tree cannot follow anybody: what the crew has to survive is the decision to stay under it. The gauge begins full at 653, its trip point sits at 75 per cent, and four turns is all the file allows. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | Full at 653, and still full at the close. The tree spends nothing of what it fills with. |
-| **Han Pressure [ATK]** | Lament, and it arrives as a band rather than a figure — 18 to 41 a strike, and the band widens the longer a crew has been standing beneath the canopy. |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The willow is living and rooted, the spread is at the root, and the file's own branch row says what it is: *no branch lashes and the tree has never harmed anybody*. What it does is hold endings on a terrace until they are acknowledged, and what moves is the saturated boundary. A rooted thing with a boundary has a contact record.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long. Twenty turns is what the file plans against, and it is a plan rather than a measurement — nothing on this terrace has ever finished early. |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Ancient and sorrowful |
-| **Primary Pressure** | Clarity |
-| **Starting Sorrow Gauge** | Between 45 and 65 per cent at the bell. Which end it opens at depends on what the terrace has already been asked to hold. |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-D-02, Echo Gardens |
+| **Mode of presence** | A willow on the Gardens terrace, living and rooted; the root line is the edge of what it is holding and it moves outward only |
+| **Perceptible to** | The tear-leaves first, and then the ground, which stops drying at the boundary before anything else changes |
+| **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
+| **Sorrow Gauge [HP]** | 653/653 — full at the open and still full at the close. The tree spends nothing of what it fills with, so the number is a ceiling rather than a reserve |
+| **Starting Sorrow Gauge** | Between 45 and 65 per cent at the bell; which end it opens at depends on what the terrace has already been asked to hold |
+| **Valid Work Types** | Viderehan and Ferrehan only, this being a Place. Ferrehan is the sole approach that lowers the gauge |
+| **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit beneath it and allow endings to be acknowledged |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Dripping Branches* [**Debuff**] } | "The willow weeps onto your shoulders — and it was already mourning something of yours." | [Crystal tear-leaves settle on whoever sits beneath, and dissolve where the sitter has stayed with them; nothing drapes and nothing reaches for anyone.] | *-10 Composure to whoever remains beneath the canopy; the grief is not contagious, it is addressed.* **[10 Lament DMG [Lament]]** | When a sitter stays beneath the canopy while the fall is running. |
-| { *The Rooted Sorrow* [**Debuff**] } | "The roots damage nothing. They only make the ground stop drying." | [The saturated boundary passes its mark outward; visitors newly inside the line relive their own farewells without the shelter the canopy gives.] | *10 Composure lost by anyone crossing ground that has stopped draining; the new line is dated before the watch closes.* **[10 Lament DMG [Lament]]** | When somebody crosses into ground newly inside the saturated boundary. |
-| { *The Whipping Branch* [**Attack**] } | "The branches shudder in a wind nobody else feels." | [No branch lashes and the tree has never harmed anybody; the labour is the decision to stay upright and dry-eyed underneath a thing that is holding an ending of yours.] | *Lament pressure held as one long ache rather than a wound; workers who begin speaking of living people in the past tense are withdrawn.* **[14-22 Lament DMG [Lament]]** | When the band widens the longer a crew has been standing beneath the canopy. |
-| { *The Full Weeping* [**Attack**] } | "Every leaf down at once, and the break can be felt in the teeth." | [The fall thickens at a district-wide ending the terrace has been asked to hold; it is measured, not answered — nothing here is cut or struck and never has been.] | *A heavy Deep Blue downpour; the watching crew's gauge surges 15% while the boundary is re-marked and dated.* **[24-36 Lament DMG [Lament]]** | When a closure, clearance or unattended death lands on the district in a single day. |
-| { *The Drowned Grove* [**Ultimate**] } | "The willow's roots spread — and everywhere they reach, the ground weeps." | [The root line runs out past the terrace and the saturated boundary goes with it, taking the dry ground first.] | *All in range suffer Lament pressure for three turns in the weeping grove.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the willow does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Tear-Leaves* [**Register**] } | Weeps crystal tear-leaves onto whoever sits beneath, and they settle on the shoulders without weight. | The recognition that it was already mourning something of theirs, which is how the terrace is identified as this tree and not the next one. | The leaves are the register and the only thing that falls; nothing else about the tree moves. |
+| { *The Saturated Boundary* [**Exposure**] } | Makes the ground beneath stop drying. The saturated line passes its mark outward, and visitors newly inside it relive an ending they had not been holding. | Wet ground underfoot, and an account they were not ready to give arriving anyway. | The roots damage nothing; the line is measured from the terrace and entered against the quarter. |
+| { *The Decision to Stay* [**Attachment**] } | Shudders in a wind nobody else feels and does not lash. Staying upright and seated under it is the labour, and it is asked of the worker rather than done to them. | The full weight of sitting still while the endings of other people are opened around them, which is the highest-toll work in the Gardens and is not shortened. | The file's own warning is that a crew which leaves early takes the endings with it and the terrace keeps them anyway. |
+| { *The Root Line* [**Contagion**] } | Runs out past the terrace at a district-wide ending the terrace has been asked to hold, and the saturated boundary goes with it. | A boundary that has moved and will not come back, measured rather than fought. | This is the spread of record. Nothing is cut and nothing swept while anybody is sitting under the canopy, and the access stays open. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification rests on the ground and the sound: earth that gives slightly where it should be dry, and a fall of pale crystal that breaks without any noise. The Gardens' four ordinary willows are dry beneath and their leaves are leaves. Positions are taken from the margin, and the saturated boundary is marked at both ends of the cycle.
-2. **Clash:** Four turns from the margin, observation and endurance only. Nothing is cut, nothing is swept while anyone is sitting beneath it, and the saturated boundary is marked at both ends of the cycle.
-3. **Resolution:** The cycle is over once the crew has sat beneath the canopy, the endings have been acknowledged, the access is left open, and the collection waits until after closing. While anybody is sitting there nothing is cut and nothing is swept — and the closing mark is the boundary, since what is transacted below has never been what ended a cycle.
+1. **What is confirmed:** the tear-leaves, the saturated line at the terrace edge, and the state of the root line against last quarter. The crew records the figure the terrace sets rather than the one it expected.
+2. **What the watch does:** the crew sits beneath the canopy and lets the endings be acknowledged aloud. Viderehan reads the register; Ferrehan sits it out, and Ferrehan is the only approach that lowers the gauge. While anybody is sitting there nothing is cut and nothing is swept.
+3. **How it closes:** against the file's documented suppression condition: **sit beneath it and allow endings to be acknowledged** — with the collection waiting until after closing and the access left open.
 
 ### Consequences
 
-- The failure here is anticipation. A worker who cannot hold begins grieving endings that have not happened yet — a parent still living, a posting not yet finished — and reports it with embarrassment, accurately, for weeks.
-- Long exposure produces the Gardens' characteristic state: the worker becomes unable to treat anything as ongoing, speaks of their own circumstances in the past tense, and is withdrawn when the roster notices the tense rather than the mood.
-- The Willow equipment lends the bearer the capacity to sit with an ending and takes the ability to hurry one. Every bearer's ledger entry records the ending they were holding at activation, by name, and the entries are not redacted.
-- Unresolved, it expands at the root rather than event: the saturated ground reaches further into the Gardens, and the terraces it reaches do not drain afterwards.
+- A worker who cannot sit takes the endings with them: the account goes into the shift's own grief, and the terrace keeps a record of it whether or not the worker does.
+- Long attendance produces what the Gardens calls a rooted watch: personnel who cannot leave the terrace and have to be told to, and who report the tree as nearer than it is.
+- The set takes from the tree and gives back in the same currency: the veil keeps the water off and carries the damp, the charm holds one ending at the age it was found, and the weapon remembers a season it never saw.
+- Unresolved, the root line advances and the boundary goes with it. The tree does not stop where it is for the reason that it cannot; it stops where it is because that is where it is rooted, and the file is careful about the difference.
 
 ## Appearance
 **Physical Form:** A massive living willow whose branches carry pale crystal tear-leaves that shatter silently when they land. Its leaves fall like slow rain.
