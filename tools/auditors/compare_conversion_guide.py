@@ -157,6 +157,18 @@ def main():
     ck('universal: fusion not a decrement', 'Fusion is not a fifth event' in uni)
     ck('universal: stigma two figures', 'Acquisition Probability' in uni and 'Maximum Amount' in uni)
 
+    # 14 — the comparison twin and the summary stub carry the same vocabulary
+    twin = read('PROJECT_MOON_RESEARCH/CROSS_VERSE/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md')
+    ck('twin: no false badge-count claim',
+       not re.search(r'identical capability badges in all', twin)
+       and 'Dossier-specific warning banners' in twin)
+    ck('twin: no translation pair beside a Latin name',
+       not re.search(r'Viderehan \(\s*관조한', twin))
+    ck('twin: triad ceiling stated', 'supports up to **five pieces of each kind**' in twin)
+    stub = read('PROJECT_MOON_RESEARCH/CROSS_VERSE/COMPLETE SYSTEM COMPARISON-SOMNARAK vs. Lobotomy Corporation.md')
+    ck('stub: Somnarak accessory is a Stigma', 'M.A.W. Stigma' in stub)
+    ck('stub: no M.A.W. Gift row', 'M.A.W. Gift' not in stub)
+
     verbose = '-v' in sys.argv or '--verbose' in sys.argv
     bad = [c for c in CHECKS if not c[1]]
     if verbose:

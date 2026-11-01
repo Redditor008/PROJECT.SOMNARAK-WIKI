@@ -49,7 +49,7 @@
 |**M.A.W.** (Materialized Agony Wear)|**E.G.O** (Extermination of Geometrical Organ)|Equipment extracted from entities|
 |**M.A.W. Weapon**|**E.G.O Weapon**|Changes damage type and attack value|
 |**M.A.W. Suit**|**E.G.O Suit**|Changes damage resistances|
-|**M.A.W. Gift**|**E.G.O Gift**|Passive stat buff, random acquisition|
+|**M.A.W. Stigma**|**E.G.O Gift**|Passive buff, bestowed at random on a successful work rather than bought. `Gift` is the L Corp word and stays on the L Corp side|
 |**M.A.W. Grade α**|**E.G.O Grade ZAYIN**|Lowest tier|
 |**M.A.W. Grade β**|**E.G.O Grade TETH**||
 |**M.A.W. Grade γ**|**E.G.O Grade HE**||
@@ -106,7 +106,7 @@ When a SOMNARAK Sorrow Entity arrives in the PM universe through the Well of Cog
 |**Origin**|Formation story, sorrow source|Origin story (if available)|
 |**Behavior**|Work Type responses|Work Preferences/Favor|
 |**Breach Behavior**|Detailed breach mechanics|Escape Information|
-|**Equipment**|M.A.W. (Weapon, Suit, Gift)|E.G.O (Weapon, Suit, Gift)|
+|**Equipment**|M.A.W. (Weapon, Suit, **Stigma**)|E.G.O (Weapon, Suit, **Gift**)|
 |**Observation Log**|Progressive observations|Encyclopedia sections|
 |**Story Log**|Lore entries unlocked by observation|Story tab entries|
 |**Final Observation**|Choice-based event|N/A|
