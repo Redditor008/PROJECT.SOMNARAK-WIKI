@@ -22,7 +22,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 **Five sentences about the file's own drafting history** went, because there was no longer anything to correct: *"the older entry describing the threat as low is an error and is corrected here"* pointed at an entry that had already been fixed. Two Story Log Entry 5s (*The Debtor*, *Home to No One Who Knew Me*) still carried the stock paragraph while wearing bespoke headings; the Debtor's now says what the arithmetic in the Row actually is, and the Director's Minute on the Non-Interference Rule is finally written in the Director's voice.
 
-**Two `Element` rows contradicted their own Origin** — neither the wish-born entity nor the cycle-born one has a Wish or Cycle element; both now carry the Weight their Panels assign them. **Two double dots** introduced by my own splices were caught by `seam_lint` and fixed before the gate.
+**Two registry closers** — *"The Unknown Sorrow Entity registry describes a living, wish-born phenomenon — not a permanently complete classification"* — answered a review requirement by restating the archive's own caveat. Each now says what that review has to check on that file: both identities checked separately and never explained by one half alone; the iteration count written down between resets rather than after them, because whoever carries it through a reset is the only reliable witness that the reset happened. **Two double dots** introduced by my own splices were caught by `seam_lint` and fixed before the gate.
 
 **Checks:** `seam_lint` PASS 100 % · `section_logic` 0 · `check_stat_bands` PASS · `label_lint` 0 · `timeline_lint` PASS · `check_links` 0 broken · `breach.py` 195/301.
 
