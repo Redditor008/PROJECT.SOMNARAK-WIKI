@@ -305,7 +305,7 @@ A whisper melts before it reaches the wall. The small figure beside you loses a 
 
 **When the entity activates:** The Gauge tips. The Subject-Body does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Grudge is no longer atmospheric. It is operational.
 
-**After departure:** After contact, the body holds what the mind files away. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The transcript has an ending, and nobody at the table wrote it. The Grudge is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
 ### Interaction Pattern
 

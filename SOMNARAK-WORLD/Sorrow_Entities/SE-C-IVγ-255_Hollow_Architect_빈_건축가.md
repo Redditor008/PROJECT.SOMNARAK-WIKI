@@ -366,7 +366,7 @@ Some sorrows mourn what was destroyed. This one weighs what was never credited, 
 **Common Name:** Hollow Architect
 **Containment Status:** Contained — Zone B, Old Lament, behind a marked line and no door; cleared on a fixed cycle and weighed out. The earlier Zone A entry contradicted the SECC header and has been corrected.
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ), corrected from the earlier Low entry. It has never pursued anybody and has injured nobody directly. The documented harms are enclosure — three floor extractions of four to nine hours, following Pugnahan or an attempt to finish a structure — and futility transfer, in which a worker begins using the entity's vocabulary about their own duties. The second is why this file screens conversationally at every post-contact review.
+**Threat Assessment:** Major (γ). It has never pursued anybody and has injured nobody directly. The documented harms are enclosure — three floor extractions of four to nine hours, following Pugnahan or an attempt to finish a structure — and futility transfer, in which a worker begins using the entity's vocabulary about their own duties. The second is why this file screens conversationally at every post-contact review.
 **Containment & Handling Procedures:**
 - Ferrehan is primary — the long stand inside unfinished work — with Flerehan beside it and Viderehan used to take an intention. Pugnahan is prohibited.
 - Nothing it has started may be finished by anybody, including by accident. The three escalations on record all followed completion attempts.

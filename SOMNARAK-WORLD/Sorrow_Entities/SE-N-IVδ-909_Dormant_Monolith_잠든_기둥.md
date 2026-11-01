@@ -295,7 +295,7 @@ A pillar rises inside your mind, holding up a ceiling no one else can see. You a
 
 **When the entity activates:** Somebody declines a relief. Nothing becomes louder or faster and nothing in the room changes; the pillar simply stands a little deeper in the thinking of whoever is still on post, and the roster is where an outsider would see it first.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The roster shows the same name volunteering for the next shift before the report is filed. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
 ### Interaction Pattern
 

@@ -357,7 +357,7 @@ Some sorrows are about weakness. This one is about work nobody wrote down, and i
 **Common Name:** Deteriorata
 **Containment Status:** Contained — SECTOR-B-02, Zone B; routes surveyed weekly around the suspended field, viewing capped on the supervisor's clock. The earlier Zone C entry contradicted the SECC header and is the originating district, not the holding.
 **Comprehension Level:** 2 — Basic, per the SECC header; the earlier Advanced entry contradicted it.
-**Threat Assessment:** Major (γ), corrected from the earlier Low entry. It has never pursued or struck anybody and resists nothing. The documented harms are structural — buckled floors and bowed walls along any path it takes in breach — and saint-drift, in which a worker begins absorbing load silently and declining relief, which is why relief here is ordered rather than requested.
+**Threat Assessment:** Major (γ). It has never pursued or struck anybody and resists nothing. The documented harms are structural — buckled floors and bowed walls along any path it takes in breach — and saint-drift, in which a worker begins absorbing load silently and declining relief, which is why relief here is ordered rather than requested.
 **Containment & Handling Procedures:**
 - Flerehan is primary. Ferrehan is capped, witnessed and logged by name, because what it transfers is load and silent load-bearing is the condition this holding screens for; the earlier entry naming Ferrehan primary sat badly against the file's own counseling regime. Pugnahan is prohibited.
 - It can move and has: it walks slowly, has left the chamber twice, and kneels wherever it stops. The earlier line calling it immobile contradicted the Movement field, the breach record and Entry 2.

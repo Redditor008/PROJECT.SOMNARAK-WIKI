@@ -328,7 +328,7 @@ The walls lean inward before the Well appears. Liquid climbs from a hole in the 
 
 **When the entity activates:** The shift happens between one breath and the next. The Place-Lament crosses from presence to action, and the Lament goes from weather to weapon.
 
-**After departure:** After contact, the body holds what the mind files away. The Lament is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The sentence gets finished somewhere else — out loud, days later, to whoever will stand still for it. The Lament is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
 ### Interaction Pattern
 

@@ -312,7 +312,7 @@ The shadow stands at the vault approach, mid-round, between one door and the nex
 
 **When the entity activates:** The Gauge tips. The Subject-Grudge does not become louder or faster — it becomes realer, as if the Veil were a pane of glass and the entity were pressing against it from the other side. The Void is no longer atmospheric. It is operational.
 
-**After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
+**After departure:** The corridor is signed off while the workers beside it are still checking doors nobody asked them to check. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
 ### Interaction Pattern
 

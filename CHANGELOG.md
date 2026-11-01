@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Seventeen lines that told the reader about the filing rather than the file (2026-11-01)
+
+Three families of scaffolding, each of which reads as an edit rather than as a record.
+
+Four files opened their **After departure** note with the same sentence — *After contact, the body holds what the mind files away* — and then said the specific thing. The opener is gone and the specific thing is now first: Cold Burn's corridor is signed off while the workers beside it are still checking doors nobody asked them to check; the Well of Unfinished Words gets its sentence finished out loud, days later, to whoever will stand still for it; the Dormant Monolith's roster shows the same name volunteering before the report is filed; Aphasia's transcript has an ending nobody at the table wrote.
+
+Eight **Threat Assessment** lines carried the history of their own correction — *corrected from the earlier Low entry, which contradicted the SECC header*. Four had no reason attached and are now plain assessments. Four named a genuine discrepancy in the Registrum, and those keep it in the file's own voice: the Unsaid Blossoms, Midnight Choir and Memory Lake entries now simply state the grade, and the Sorrow Seed states the discrepancy as a record — *an earlier Registrum entry read it as Entity (IV) and Major (γ) in both fields* — rather than as a note about who fixed it.
+
+Five **Stat interpretation** notes began *β across the set and correctly rated against entities* and then spent a paragraph on the people cost. Each now opens by saying what the grade is worth and what it misses, so the paragraph after it lands: the Unrung's grade is right and is the wrong axis; the Doorway's does not reach the cost written under it; Aphonia's is the easiest thing on the file to agree with; the Inherited Debt's is beside the point; Neglect Learned to Listen's real record is about people.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0 · `check_stat_bands` PASS.
+
+
 ## Twenty Work-Type tables that had stopped describing the work (2026-11-01)
 
 The last of the big stock families, and the one a reader hits first. Twenty dossiers answered two of their four Work Type rows with the same sentence pair — *Permits study; the <x> pressure becomes legible under sustained observation* and *Recognizes patience; the <x> pressure settles gradually under sustained presence* — changing only the element word. A Warden reading three of them in a row learned nothing about the holding, and the pair quietly asserted that endurance means waiting, which is wrong on most of these files.

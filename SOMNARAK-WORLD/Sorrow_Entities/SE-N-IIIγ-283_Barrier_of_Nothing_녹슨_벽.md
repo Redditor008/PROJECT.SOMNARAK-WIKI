@@ -360,7 +360,7 @@ Some sorrows are about exclusion. This one is about the exclusion nobody is enfo
 **Common Name:** Barrier of Nothing
 **Containment Status:** Contained in place — Zone E, Exile's Gate vicinity, transit line and no door; Pugnahan not applied; panel impressions filed unread. The earlier Gate District entry contradicted the SECC header.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ), corrected from the earlier Low entry. It obstructs nothing, pursues nobody and has never injured a worker. The documented harm is the dream-rust duration, which is measured in days, has lengthened across the life of the holding, and falls heaviest on the workers of this facility who are carrying a bar nobody can lift.
+**Threat Assessment:** Major (γ). It obstructs nothing, pursues nobody and has never injured a worker. The documented harm is the dream-rust duration, which is measured in days, has lengthened across the life of the holding, and falls heaviest on the workers of this facility who are carrying a bar nobody can lift.
 **Containment & Handling Procedures:**
 - Ferrehan is primary — the long stand on the transit line — with Flerehan beside it; Viderehan records who stood on either side.
 - Pugnahan is not applied: it hardens the plates and narrows the dream-space across everybody sleeping in the wing.

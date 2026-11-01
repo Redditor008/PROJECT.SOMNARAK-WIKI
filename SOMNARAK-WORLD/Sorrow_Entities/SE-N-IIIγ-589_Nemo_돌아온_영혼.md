@@ -357,7 +357,7 @@ Some sorrows mourn exile. This one mourns the return, and it has been counting o
 **Common Name:** Nemo
 **Containment Status:** Contained in place — Zone A, Alpha Tree, two-person watch at the mapped loss-sites. The earlier Old Lament entry contradicted the SECC header.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ), corrected from the earlier Low entry. It is stationary, has never approached a worker, and has injured nobody. The documented harms are the two corrupt events, both ended by speech, and the effect on the watch itself: workers who spend cycles writing other people's names without speaking them, and who go and check that their own service is recorded somewhere.
+**Threat Assessment:** Major (γ). It is stationary, has never approached a worker, and has injured nobody. The documented harms are the two corrupt events, both ended by speech, and the effect on the watch itself: workers who spend cycles writing other people's names without speaking them, and who go and check that their own service is recorded somewhere.
 **Containment & Handling Procedures:**
 - Flerehan is primary, with Ferrehan for the long watch; Viderehan records the return. Pugnahan is not applied.
 - Names are written, counted, left unspoken and never searched against any register. Both restrictions are original and reaffirmed at every review.

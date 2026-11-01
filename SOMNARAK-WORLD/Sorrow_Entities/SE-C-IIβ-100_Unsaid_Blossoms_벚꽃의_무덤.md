@@ -366,7 +366,7 @@ Some sorrows mourn what was lost. This one counts what there was still time to s
 **Common Name:** Unsaid Blossoms
 **Containment Status:** Contained in place — SECTOR-D-02, Echo Gardens; one grave, one tree, a chalked marker ring surveyed annually, and a sealed store of counted blossoms
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β), corrected from the earlier Minimal entry, which contradicted the SECC header. In fifty-two years the site has injured nobody, held nobody and spread nowhere, and the pressure falls on the counter alone. It is consequential because the day's fall is the only instrument this facility has for what its own people were not permitted to say while sealed in, and because the rule written on the strength of it has cost fifty-two seconds of median channel degradation, twenty-two unwithdrawable messages, three marriages and one injured Warden.
+**Threat Assessment:** Moderate (β). In fifty-two years the site has injured nobody, held nobody and spread nowhere, and the pressure falls on the counter alone. It is consequential because the day's fall is the only instrument this facility has for what its own people were not permitted to say while sealed in, and because the rule written on the strength of it has cost fifty-two seconds of median channel degradation, twenty-two unwithdrawable messages, three marriages and one injured Warden.
 **Containment & Handling Procedures:**
 - Ferrehan is primary and Viderehan is the record. Flerehan and Pugnahan stay in the table only to say that a Place cannot be wept with or confronted, and neither has ever been worked here.
 - The tree flowers out of season, continuously, and the fall is counted individually at a fixed hour and entered unrounded; estimates are refused.

@@ -255,7 +255,7 @@ The Inheritance Set's resonance is *Name the Chain*. All pieces are worn during 
 | **At limit** | The clock stops the session. Extensions are not available, have never been granted, and the request form was removed from the chamber's stationery in the holding's first year. The sitter counts their entries at the table before standing up. |
 | **After use** | Mantle to the counselor's door, counselor contact the same day without exception, each entry checked against the instruments and marked verified, unverifiable or contradicted, and the offer of counselor contact repeated at intervals for as long as the worker remains in service. Several have taken it up years later. The lineage reading is archived formally before the resonance's inherited fear is treated as discharged. |
 
-**Stat interpretation:** β across the set and correctly rated against entities. Against people it costs a day of weight, two of fatigue, a little age, and the permanent sight of what everyone around you owes, and the establishment has a column for the first two.
+**Stat interpretation:** β against entities, and the figure is not wrong so much as beside the point. Against people it costs a day of weight, two of fatigue, a little age, and the permanent sight of what everyone around you owes, and the establishment has a column for the first two.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced, and every step of the advance came from a sitter's account checked afterwards against paper. Nothing here was learned by instrument, because there is no instrument; the Apex Record states that plainly and this file does not improve on it.

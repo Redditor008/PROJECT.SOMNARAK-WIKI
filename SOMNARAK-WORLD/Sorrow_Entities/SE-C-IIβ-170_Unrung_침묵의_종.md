@@ -268,7 +268,7 @@ Before deployment test the external channel, current response authority and end 
 | **At limit** | Session length, longest delay, and the operative's account taken at the station before they speak to anyone else present. Fourteen such accounts have gone to the directorate and two warnings were reopened. |
 | **After use** | Hand off the rim, cassock kept on to the boundary, hearing check at one hour and one day, and the sealed declaration read back. No operative has ever asked for theirs to be destroyed. |
 
-**Stat interpretation:** β across the set and correctly rated against entities. Against people it costs an hour of deafness, a day of lateness, an occasional softening word, and an inability to leave a warning unanswered that two of three bearers have been disciplined for, and the establishment has a column for the first three.
+**Stat interpretation:** β is right about entities and the grade is the wrong axis for everything after it here. Against people it costs an hour of deafness, a day of lateness, an occasional softening word, and an inability to leave a warning unanswered that two of three bearers have been disciplined for, and the establishment has a column for the first three.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
