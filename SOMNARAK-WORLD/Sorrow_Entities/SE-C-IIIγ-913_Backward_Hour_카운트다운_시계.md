@@ -386,7 +386,7 @@ The facility's own series therefore records the only act anybody has ever found 
 
 The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the Research Division's statistician. It holds that the lapses fall overwhelmingly on staff whose permissions are renewable rather than permanent, that this is a property of the establishment and not of the holding, and that the facility is therefore choosing who the clock reaches.
 
-The minute records the objection as **correct in all three parts**. It records that a reinstatement was costed in the sixth year — the ninety-four unreissued warrants restored, funded from the containment line rather than from establishment — at a figure the finance office described as immaterial. It was not done. The minute records the item as outstanding and the ninety-four as outstanding with it.
+Three parts are named and three are upheld; the minute then proceeds to what was done about them. It records that a reinstatement was costed in the sixth year — the ninety-four unreissued warrants restored, funded from the containment line rather than from establishment — at a figure the finance office described as immaterial. It was not done. The minute records the item as outstanding and the ninety-four as outstanding with it.
 
 ## Trivia
 

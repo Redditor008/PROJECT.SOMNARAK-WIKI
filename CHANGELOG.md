@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Thirty-nine minutes that recorded their objection in the same sentence (2026-11-01)
+
+The archive's best device is the minuted objection: a formal finding entered against the Directorate in the file's own record, upheld. Thirty-nine dossiers opened that finding with the identical sentence — *The minute records the objection as correct in all three parts* — and a reader who opens two dossiers in the same week sees the same clerk at the same table.
+
+Each minute now reads in its own register: the clerk who wrote nothing in the margin; the entry countersigned by the officer whose decision it concerns; the minute that agrees with all three parts before saying what was done instead; the minute whose second half is composed of remedies; the one that says so before it says anything else; the one that ends where the objection ended. Where a minute genuinely records something else — the eleven files whose objection is minuted every year and never withdrawn — nothing was changed, because those already say which body raised it and what it holds.
+
+The phrase survives only inside these new sentences, in the ordinary way a legal term does. The sentence it used to be does not.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0.
+
+
 ## Seventeen lines that told the reader about the filing rather than the file (2026-11-01)
 
 Three families of scaffolding, each of which reads as an edit rather than as a record.

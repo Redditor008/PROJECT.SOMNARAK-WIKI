@@ -404,7 +404,7 @@ The consequence is in the bays. A trainee is posted in advance against a vacancy
 
 The objection is minuted at the annual review, raised by the bay's senior Warden and supported by the wing's own compliance officer, which is unusual and is noted as such. It holds that the facility relies on the prediction to fill a specific post in a specific bay while maintaining that it takes no decision about the person in it, and that this distinction is sound in law and meaningless to the nineteen; that the register cannot be validated now in any case, because the facility's own response to a prediction is part of the conditions under which the prediction is tested, and no control group can be constructed without deliberately understaffing a bay; and that the only people in the facility who do not know what the Engine has written about them are the people it has written about.
 
-The minute records the objection as **correct in all three parts**. It records that an instruction was drafted — the register to be aggregated at source, counts only, so that an altered result could not name anybody — and that it was not issued, because aggregation at source would have required the personnel office to change a form. The nine named sheets predate the draft and are still in the safe.
+The objection is entered as correct in all three parts, and the rest of the minute is written as though that had never been in question. It records that an instruction was drafted — the register to be aggregated at source, counts only, so that an altered result could not name anybody — and that it was not issued, because aggregation at source would have required the personnel office to change a form. The nine named sheets predate the draft and are still in the safe.
 
 ## Trivia
 

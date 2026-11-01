@@ -371,7 +371,7 @@ The second cost is procedural and is the one the objection turns on. The hour ha
 
 The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the district council's observer. It holds that the hour is a nightly exposure affecting the whole district, that it is recorded as ordinary absence, and that the people worst affected are those who have lost somebody recently and are therefore least able to say so on a form.
 
-The minute records the objection as **correct in all three parts**. It records that an amendment was drafted in the fourth year — the hour entered in the exposure schedule as a recognised category, with no payment attached, so that the following morning could be recorded truthfully. The amendment required no funding. It has not been made, and the minute has carried it forward eleven times with the drafting note still attached.
+The minute finds it correct in all three parts and gives no reason, the finding resting on the evidence set out above. It records that an amendment was drafted in the fourth year — the hour entered in the exposure schedule as a recognised category, with no payment attached, so that the following morning could be recorded truthfully. The amendment required no funding. It has not been made, and the minute has carried it forward eleven times with the drafting note still attached.
 
 ## Trivia
 

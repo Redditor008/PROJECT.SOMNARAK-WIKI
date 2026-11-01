@@ -403,7 +403,7 @@ Exposures are kept sub-threshold by design: trainees enter in supervised parties
 
 The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the infirmary's registrar. It holds that the facility's exposure schedule cannot record a painless injury, that the prints are therefore accruing against nobody, and that the staff most exposed are the ones with the longest clean medical records.
 
-The minute records the objection as **correct in all three parts**. It records that a substitute was designed in the sixth year — a synthetic timed-dwell cordon on the drill ground, costed at the price of two weeks' surfacing — which would let the bay train the walking pace without using the field. It was not built. The minute notes the item as carried, and it has been carried nine times.
+It is minuted as correct in all three of its parts, which the file notes is not the same as being acted on. It records that a substitute was designed in the sixth year — a synthetic timed-dwell cordon on the drill ground, costed at the price of two weeks' surfacing — which would let the bay train the walking pace without using the field. It was not built. The minute notes the item as carried, and it has been carried nine times.
 
 ## Trivia
 
