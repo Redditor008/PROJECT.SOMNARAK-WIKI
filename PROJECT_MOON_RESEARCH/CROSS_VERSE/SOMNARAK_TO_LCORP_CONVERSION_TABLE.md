@@ -23,6 +23,7 @@
 | **Element: Void (White/Pale)** | **PALE Damage** | Attacks Soul / percentage-based / identity erasure |
 | **Element: Weight (Black)** | **BLACK Damage** | Attacks both HP and Sanity (mixed) |
 | **Element: Mixed** | **Multiple Damage Types** | Entity deals 2+ damage types |
+| **Element: Hope** (native-only) | **(no counterpart)** | Dawn-grade ordnance, Sovereign tier only; its work is to reset breaking points rather than to deal a type. Capital **Ω** is reserved for Hope Intensity. No PM damage type converts into it |
 | **Manifestation: Subject** | **Humanoid / Creature** | Can breach, move, act independently |
 | **Manifestation: Object** | **Inanimate / Tool-type (code 04/09)** | Fixed, can breach via Transform; may activate |
 | **Manifestation: Place** | **Location-type** | The location itself is the abnormality |
