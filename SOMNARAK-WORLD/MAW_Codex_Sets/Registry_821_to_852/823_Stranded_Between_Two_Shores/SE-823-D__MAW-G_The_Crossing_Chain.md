@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Crossing Chain is the stigma record of Stranded Between Two Shores’ set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability answers the source wound directly: it creates a temporary bridge across physical or emotional gaps, the collapsed crossing restored in miniature. Binding names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The cost is every restoration’s toll: the wearer feels the grief of everyone who crosses, each passage invoiced in its passenger’s sorrow, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma shows the people who tried to cross — the defeated attempts made visible — and it severed the immediate hazard only after attribution to the source. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Crossing Chain is the stigma record of Stranded Between Two Shores’ set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability answers the source wound directly: it creates a temporary bridge across physical or emotional gaps, the collapsed crossing restored in miniature. Binding names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The cost is the material: the bridge is woven from the bearer's own attachments, so each crossing spends a little of the road home. The source-trace fixed doctrine: the stigma shows the people who tried to cross — the defeated attempts made visible — and it severed the immediate hazard only after attribution to the source. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels the grief of everyone who crosses. Continued use makes Stranded Between Two Shores's source sorrow feel autobiographical.
+**Operational / binding cost:** Each bridge is built out of the bearer's own attachments: a crossing spends a little of what ties them to where they came from. Used repeatedly, they can reach anyone and return to nobody.
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Stigma Record*
 

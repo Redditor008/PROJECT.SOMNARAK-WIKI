@@ -21,14 +21,14 @@
 
 ## Appearance
 
-Neverlast’s Crown is the stigma record of Neverlast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is temporal mercy: it slows the wearer’s perception of time during emotional crises, granting inside one moment the patience the source was never given across years. Binding names Neverlast’s event — a friendship ended in disappearance, the remaining grief unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The cost is empathic intake: the wearer absorbs the pain of those they heal or comfort, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine with its rarest response: the entity opens its history to the worker — the crystallized grief willing to be read by someone who stays — and the stigma discharged the immediate hazard only after attribution to Neverlast. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Neverlast’s Crown is the stigma record of Neverlast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is temporal mercy: it slows the wearer’s perception of time during emotional crises, granting inside one moment the patience the source was never given across years. Binding names Neverlast’s event — a friendship ended in disappearance, the remaining grief unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The cost is the ratio: a crisis stretches to hours while the ordinary hours after it pass unseen, until the bearer's memory holds emergencies and little else. The source-trace fixed doctrine with its rarest response: the entity opens its history to the worker — the crystallized grief willing to be read by someone who stays — and the stigma discharged the immediate hazard only after attribution to Neverlast. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer absorbs the pain of those they heal or comfort. Continued use makes Neverlast's source sorrow feel autobiographical.
+**Operational / binding cost:** The Crown stretches the crisis and shortens everything else: minutes of grief last hours, and the ordinary hours after them pass unseen. Worn long, the bearer's memory is all emergency and no childhood.
 
 ## ITEM-SPECIFIC HISTORY — *The Neverlast Source-Trace: Stigma Record*
 

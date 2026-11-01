@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Vanished Breath is the stigma record of Pent’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability administers the mercy the source denied itself: it releases one suppressed breath and calms panic, the held sigh finally permitted its exit. Binding names Pent’s event — a worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness — and accepts the set’s limit: permit rest and acknowledge exhaustion as real. The operational cost extends the ability’s sensitivity: the wearer feels every exhaustion hidden nearby, each concealed fatigue registering on the carrier, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma reveals the worker and the moment of collapse — the hidden failure finally witnessed — and it discharged the immediate hazard only after attribution to Pent. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Vanished Breath is the stigma record of Pent’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability administers the mercy the source denied itself: it releases one suppressed breath and calms panic, the held sigh finally permitted its exit. Binding names Pent’s event — a worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness — and accepts the set’s limit: permit rest and acknowledge exhaustion as real. The cost extends the ability's sensitivity: every held breath nearby registers on the bearer, and the permission they keep granting is never one they take. The source-trace fixed doctrine: the stigma reveals the worker and the moment of collapse — the hidden failure finally witnessed — and it discharged the immediate hazard only after attribution to Pent. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels every exhaustion hidden nearby. Continued use makes Pent's source sorrow feel autobiographical.
+**Operational / binding cost:** The stigma does one thing well — it lets out the breath someone was holding — and it takes the wearer's sense of when to stop: every held breath nearby registers, and they cannot rest while anyone still needs permission. Carried long, the wearer grants that permission constantly and never takes it; the first sign is that they have stopped sighing.
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Stigma Record*
 

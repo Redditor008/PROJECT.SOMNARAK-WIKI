@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Drowned Roots Lantern is the stigma record of the Drowned Roots set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability heals minor wounds through warm, sorrowful light, the erased soldier still keeping watch over the living. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is contagious erasure: the wearer becomes difficult for others to remember, borrowing the soldier's condition with the soldier's stigma. The source-trace fixed doctrine: the Lantern revealed the soldier's erased history, service recovered even where the name could not be, and it opens the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Drowned Roots Lantern is the stigma record of the Drowned Roots set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability heals minor wounds through warm, sorrowful light, the erased soldier still keeping watch over the living. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is the light's source: each wound the Lantern closes takes a memory of being comforted from the bearer, until they remember everyone they have healed and nothing of being held. The source-trace fixed doctrine: the Lantern revealed the soldier's erased history, service recovered even where the name could not be, and it opens the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer becomes difficult for others to remember. Continued use makes Drowned Roots's source sorrow feel autobiographical.
+**Operational / binding cost:** The Lantern heals whoever it lights and drinks from the bearer to do it: every wound closed takes a memory of being comforted. Lit often, the bearer remembers everyone they have healed and nothing of what it was like to be held.
 
 ## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Stigma Record*
 

@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Returning Mantle is the suit record of Perennial’s set, granting resistance to Weight damage and protecting the Han — sorrow reserves, karmic debt — against the pressure of ground layered with repeated abandonment. Binding is testimonial: the wearer names Perennial’s event — a settlement was founded, abandoned, rebuilt, and abandoned again, each return leaving another layer of grief in the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The operational cost is a constant low fatigue — the Mantle spreading the strata’s weight thin — and continued use makes the sorrow feel autobiographical, the settlement’s cycles rehearsed in the wearer’s own returns. The source-trace set the doctrine: the suit tests whether the worker can stand beneath karmic weight — upright under the accumulated debt of every founding and every leaving — and it contained the immediate hazard only after attribution to Perennial. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Mantle is the suit record of Perennial’s set, granting resistance to Weight damage and protecting the Han — sorrow reserves, karmic debt — against the pressure of ground layered with repeated abandonment. Binding is testimonial: the wearer names Perennial’s event — a settlement was founded, abandoned, rebuilt, and abandoned again, each return leaving another layer of grief in the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The cost is lag: the body arrives a step after the intent, and a season of that leaves the wearer with no intentions that require movement. The source-trace set the doctrine: the suit tests whether the worker can stand beneath karmic weight — upright under the accumulated debt of every founding and every leaving — and it contained the immediate hazard only after attribution to Perennial. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Returning Mantle is the suit record of Perennial’s set, granting resistanc
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Perennial's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle turns Weight into lag: the wearer is unhurt and always a step late, their body arriving after their intent. Worn long, they stop having intentions that require movement.
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Suit Record*
 

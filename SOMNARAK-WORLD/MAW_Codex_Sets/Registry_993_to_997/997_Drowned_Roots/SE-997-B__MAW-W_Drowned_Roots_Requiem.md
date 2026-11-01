@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Drowned Roots Requiem is the weapon record of the Drowned Roots set — γ-grade, Lament-aligned, striking at 7–12 Lament at fast speed and medium range in a pierce pattern, three uses at 40 Sorrow Echoes each — and its canonical ability deals Lament damage against the Mind, emotional stability and willpower, channeling the specter's lament signature. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is borrowed mourning: the wielder feels the entity's unwept grief, and prolonged use causes involuntary weeping. The source-trace fixed doctrine: pressed, the specter resists and burns with anger, erasure answered with fire, and the Requiem severs the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Drowned Roots Requiem is the weapon record of the Drowned Roots set — γ-grade, Lament-aligned, striking at 7–12 Lament at fast speed and medium range in a pierce pattern, three uses at 40 Sorrow Echoes each — and its canonical ability deals Lament damage against the Mind, emotional stability and willpower, channeling the specter's lament signature. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is the depth: each shot lowers the wielder, the remembered water rising to the chest, and long enough at it puts the fight on the floor. The source-trace fixed doctrine: pressed, the specter resists and burns with anger, erasure answered with fire, and the Requiem severs the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Drowned Roots Requiem is the weapon record of the Drowned Roots set — γ-g
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Drowned Roots's source sorrow feel autobiographical.
+**Operational / binding cost:** The shot pulls the wielder down with it: each strike lowers them, and the water in the memory rises to the chest. Fought in long enough, they stop noticing the depth and fight from the floor.
 
 ## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Weapon Record*
 

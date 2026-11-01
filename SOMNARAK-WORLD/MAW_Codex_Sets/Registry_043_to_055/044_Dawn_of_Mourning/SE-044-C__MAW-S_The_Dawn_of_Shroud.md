@@ -21,7 +21,7 @@
 
 ### Appearance
 
-The Dawn of Shroud is a deep-blue shroud of soft Han silk that drapes over the shoulders and chest in broad, rounded folds. The outer weave is smooth with a faint silver sheen along the hem, while the inner lining is dark and cool. A single pale seam runs from the left shoulder to the right hip and brightens when the Shroud records the source event the wearer has named. The cloth is heavier than it appears and settles against the body without being tied, so that the wearer must actively remove it by hand. It resists Lament pressure and shields the mind without deadening the wearer's sense of the sorrow itself. In prolonged wear the seam remains faintly luminous, and the bearer loses access to minor joys. The hem is finished with a single line of silver thread, and the cloth keeps the shape of the last shoulder it covered until it is folded away.
+The Dawn of Shroud is a deep-blue shroud of soft Han silk that drapes over the shoulders and chest in broad, rounded folds. The outer weave is smooth with a faint silver sheen along the hem, while the inner lining is dark and cool. A single pale seam runs from the left shoulder to the right hip and brightens when the Shroud records the source event the wearer has named. The cloth is heavier than it appears and settles against the body without being tied, so that the wearer must actively remove it by hand. It resists Lament pressure and shields the mind without deadening the wearer's sense of the sorrow itself. The seam brightens as the Shroud takes on what it wards, and a wearer who keeps it on for a season can name every grief in the room without being reached by one. The hem is finished with a single line of silver thread, and the cloth keeps the shape of the last shoulder it covered until it is folded away.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Dawn of Shroud is a deep-blue shroud of soft Han silk that drapes over the s
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1.0 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 1 / 65 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Dawn of Mourning's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud holds what it wards at arm's length: worn, it lets the wearer name a grief without feeling it, so their own losses must be described in the third person before they land. Worn past a season, the distance spreads to everything worth feeling, and the wearer keeps a written list of what they ought to be moved by.
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Suit Record*
 

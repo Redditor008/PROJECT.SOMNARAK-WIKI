@@ -28,7 +28,7 @@ The Dawn of Charm is a small pale-glass pendant shaped like a folded flower, its
 **Slot / Chance:** Tail / 3%  
 **Bonus:** +4 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer weeps in their sleep. Continued use makes Dawn of Mourning's source sorrow feel autobiographical.
+**Operational / binding cost:** The charm answers every plea for comfort with a sentence of the source's, spoken in the bearer's own voice. Carried past a season, the bearer begins pardoning people who never asked, closing accounts on other people's behalf.
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Stigma Record*
 

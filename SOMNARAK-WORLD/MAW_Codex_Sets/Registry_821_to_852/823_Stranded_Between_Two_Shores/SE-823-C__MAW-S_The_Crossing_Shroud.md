@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, granting resistance to Lament damage and protecting the Mind against the pressure of a separation that no crossing can repair. Binding is testimonial: the wearer names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the survivors’ stranded vigil installing itself in the wearer’s own geography. The source-trace set the doctrine: the suit requires the worker to remain while the sobs subside — protection conditioned on staying through the weeping rather than past it — and it stabilized the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, granting resistance to Lament damage and protecting the Mind against the pressure of a separation that no crossing can repair. Binding is testimonial: the wearer names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The cost is the corridor it makes of the wearer: a room full of grief can be crossed without being moved by anyone in it, and after a season of wear nothing crosses back. The source-trace set the doctrine: the suit requires the worker to remain while the sobs subside — protection conditioned on staying through the weeping rather than past it — and it stabilized the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, gr
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Stranded Between Two Shores's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud holds Lament off by standing between the wearer and every feeling worth having: worn, the wearer can cross a room full of grief without being moved by anyone in it. Worn long, people pass through them and leave nothing behind.
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Suit Record*
 

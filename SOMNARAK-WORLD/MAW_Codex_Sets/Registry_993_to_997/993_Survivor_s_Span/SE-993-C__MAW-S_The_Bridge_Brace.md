@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Weight- aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 20 Sorrow Echoes a deployment — and its canonical ability supports damaged structures and absorbs collapse pressure, the failed bridge's duty taken up by its own record. Binding names the source event — a tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear — and accepts the set's limit: do not blame the worker; share the names of those lost. The cost is a roll call: the wearer feels every person who could not be supported. The source-trace fixed doctrine: the Span tests whether the worker can stand beneath shared weight, guilt divided until it is carryable, and the Brace isolates the hazard only after attribution to Survivor's Span. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Weight- aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 20 Sorrow Echoes a deployment — and its canonical ability supports damaged structures and absorbs collapse pressure, the failed bridge's duty taken up by its own record. Binding names the source event — a tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear — and accepts the set's limit: do not blame the worker; share the names of those lost. The cost is the lean: everything the Brace supports leans on the wrist, and a season of it makes an unfurnished room read as a fall waiting. The source-trace fixed doctrine: the Span tests whether the worker can stand beneath shared weight, guilt divided until it is carryable, and the Brace isolates the hazard only after attribution to Survivor's Span. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Wei
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels every person who could not be supported. Continued use makes Survivor's Span's source sorrow feel autobiographical.
+**Operational / binding cost:** The Brace takes the collapse into itself and then into the wrist: while worn, the wearer stands and everything they brace leans on them. Worn long, a room with nothing to hold reads as a fall waiting.
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Suit Record*
 

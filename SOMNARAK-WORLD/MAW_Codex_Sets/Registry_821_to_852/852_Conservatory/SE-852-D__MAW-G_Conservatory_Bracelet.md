@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Conservatory Bracelet is the stigma record of Conservatory’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability redeems the source’s failure in miniature: it protects others from structural collapse, the crystallized disaster lending out the protection it could not provide at home. Binding names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is retrospective: the wearer feels every place they failed to preserve, each protected structure invoiced against the unprotected ones, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the stigma shows the love and failure behind the structure — the devotion and the overload presented together, inseparable — and it marked the immediate hazard only after attribution to Conservatory. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Conservatory Bracelet is the stigma record of Conservatory’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability redeems the source’s failure in miniature: it protects others from structural collapse, the crystallized disaster lending out the protection it could not provide at home. Binding names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the transfer: every collapse the Bracelet stops passes into the wrist, until the bearer stands under every load in the room and cannot say which is theirs. The source-trace fixed doctrine: the stigma shows the love and failure behind the structure — the devotion and the overload presented together, inseparable — and it marked the immediate hazard only after attribution to Conservatory. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer feels every place they failed to preserve. Continued use makes Conservatory's source sorrow feel autobiographical.
+**Operational / binding cost:** The Bracelet braces everyone but its wearer: each collapse it stops passes into the wrist. Carried long, the bearer stands under every load in the room and can no longer tell which one is theirs.
 
 ## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Stigma Record*
 

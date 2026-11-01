@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Vanished Plate of Pent’s set grants resistance to Grudge damage, protecting the Body against the pressure of an exhaustion that refused to be witnessed. Binding is testimonial: the wearer names Pent’s event — a worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness — and accepts the set’s limit: permit rest and acknowledge exhaustion as real. The operational cost is the Grudge standard for armor: the wearer’s reflexes dull, as if armored by resentment, and continued use makes the sorrow feel autobiographical — the worker’s hidden collapse rehearsing itself in the wearer’s own refusals to stop. The source-trace set the doctrine: the suit tests whether personnel can rest without shame — the precise capacity whose absence created the source — and it contained the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Vanished Plate of Pent’s set grants resistance to Grudge damage, protecting the Body against the pressure of an exhaustion that refused to be witnessed. Binding is testimonial: the wearer names Pent’s event — a worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness — and accepts the set’s limit: permit rest and acknowledge exhaustion as real. The cost is the refusal it is made of: damage that lands is stopped and filed under *not yet*, so an untreated wound gives no pain to warn the wearer, and a season of it teaches them to report neither exhaustion nor injury. The source-trace set the doctrine: the suit tests whether personnel can rest without shame — the precise capacity whose absence created the source — and it contained the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Vanished Plate of Pent’s set grants resistance to Grudge damage, protectin
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Pent's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate is armour made of somebody's refusal to complain: it stops the blow and files the damage under *not yet*, so the wearer fights on with untreated wounds and no pain to warn them. Worn long, the wearer cannot tell exhaustion from injury and reports neither.
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Suit Record*
 

@@ -31,7 +31,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Pent's source sorrow feel autobiographical.
+**Operational / binding cost:** The shot is paid for out of the wielder's own body: the powder burns from their reserves, and the arm that fired aches to the bone before the smoke clears. Fired often, the wielder stops reading the ache as theirs — it becomes the target's, which is how they keep firing.
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Weapon Record*
 

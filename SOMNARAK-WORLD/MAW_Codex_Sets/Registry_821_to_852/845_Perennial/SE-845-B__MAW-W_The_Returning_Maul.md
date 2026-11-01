@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Returning Maul is the weapon record of Perennial’s set, a Weight instrument attacking the Han — sorrow reserves, karmic debt — by channeling the source’s weight signature into the strike. Binding is testimonial: the bearer names Perennial’s event — a settlement was founded, abandoned, rebuilt, and abandoned again, each return leaving another layer of grief in the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The operational cost is the Weight standard: the wielder feels progressively heavier, prolonged use ages them slightly, and continued use makes the sorrow feel autobiographical — the layered abandonments compacting into the wielder’s own account of places left. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stays the immediate hazard only after attribution to Perennial, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Returning Maul is the weapon record of Perennial’s set, a Weight instrument attacking the Han — sorrow reserves, karmic debt — by channeling the source’s weight signature into the strike. Binding is testimonial: the bearer names Perennial’s event — a settlement was founded, abandoned, rebuilt, and abandoned again, each return leaving another layer of grief in the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The cost is the return: what the Maul strikes comes back to the shoulder as weight, and the load of a season is everything the wielder has ever hit. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stays the immediate hazard only after attribution to Perennial, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Returning Maul is the weapon record of Perennial’s set, a Weight instrumen
 |---:|---:|---:|---|---:|
 | Weight 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Perennial's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul comes back to the hand that swung it and brings the weight with it: every blow the wielder lands returns as a load on the shoulder. The load never leaves, so the wielder ends up walking with everything they ever hit.
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Weapon Record*
 

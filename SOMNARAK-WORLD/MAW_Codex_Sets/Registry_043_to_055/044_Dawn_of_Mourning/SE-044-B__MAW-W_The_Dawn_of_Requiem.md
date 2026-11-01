@@ -29,7 +29,7 @@ The Dawn of Requiem is a long, pale-blue blade of Han crystal with a soft, milky
 |---:|---:|---:|---|---:|
 | Lament 13-20 | 4 (Very Fast) | 4 (Long) | — / — | 1 / 70 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Dawn of Mourning's source sorrow feel autobiographical.
+**Operational / binding cost:** Every blow the Requiem lands passes through the wielder first: the target's grief arrives in their hands a half-beat before the strike does, and the swing has to be aimed through it. Wielded past a season, the wielder stops choosing targets and starts choosing debts — every opponent reads as the person who should have been forgiven.
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn of Mourning Source-Trace: Weapon Record*
 

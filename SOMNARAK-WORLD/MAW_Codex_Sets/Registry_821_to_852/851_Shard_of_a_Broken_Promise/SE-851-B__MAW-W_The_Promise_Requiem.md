@@ -31,7 +31,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Shard of a Broken Promise's source sorrow feel autobiographical.
+**Operational / binding cost:** The Arbalest only fires at what the wielder has promised to end: to aim it, they must first bind themselves to the target in words. Each promise kept with it is one they now have to keep.
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Weapon Record*
 

@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Bridge Charm is the stigma record of the Survivor's Span set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability grants a minor boon tied to the Span's sorrow, the effect mirroring the entity's nature: survival reframed as testimony rather than debt. Binding names the source event — a tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear — and accepts the set's limit: do not blame the worker; share the names of those lost. The cost is a slowing: the bearer moves a little heavier, pallbearer's pace in ordinary corridors. The source-trace fixed doctrine: the Charm reveals the travelers lost in the collapse, the survivor's private weight converted into shared names, and it interrupts the hazard only after attribution to Survivor's Span. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Bridge Charm is the stigma record of the Survivor's Span set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability grants a minor boon tied to the Span's sorrow, the effect mirroring the entity's nature: survival reframed as testimony rather than debt. Binding names the source event — a tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear — and accepts the set's limit: do not blame the worker; share the names of those lost. The cost is the pace: the bearer crosses at the speed of the slowest person on the bridge, and after a season stops arriving anywhere first. The source-trace fixed doctrine: the Charm reveals the travelers lost in the collapse, the survivor's private weight converted into shared names, and it interrupts the hazard only after attribution to Survivor's Span. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer moves a little slower. Continued use makes Survivor's Span's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm ties the bearer's pace to whoever they are helping: they cross at the speed of the slowest person on the bridge. Carried long, they stop arriving anywhere first and stop minding.
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Stigma Record*
 

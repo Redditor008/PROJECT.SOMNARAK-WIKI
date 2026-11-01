@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grade, Lament-aligned, resistant to Lament at 0.4 while enduring Weight at 0.8 and running weak to Void at 1.6, worn at 35 Sorrow Echoes a deployment — and its canonical ability grants resistance to Lament damage, protecting the Mind beneath branches grown from a duty nobody recorded. Binding names the source event — a soldier's name was erased from the war record, the forgotten duty growing into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is anhedonia: the wearer becomes numb to minor joys while the Shroud is worn. The source-trace fixed doctrine: the specter tests whether the worker can remain beneath its branches, and the Shroud uncouples the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grade, Lament-aligned, resistant to Lament at 0.4 while enduring Weight at 0.8 and running weak to Void at 1.6, worn at 35 Sorrow Echoes a deployment — and its canonical ability grants resistance to Lament damage, protecting the Mind beneath branches grown from a duty nobody recorded. Binding names the source event — a soldier's name was erased from the war record, the forgotten duty growing into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is the sinking: nothing reaches the wearer sharply, a grief takes an hour to arrive, and a season of wear leaves them unreachable even to themselves. The source-trace fixed doctrine: the specter tests whether the worker can remain beneath its branches, and the Shroud uncouples the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grad
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Drowned Roots's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud shields the mind by sinking it: worn, the wearer feels nothing sharply and every grief takes an hour to reach them. Worn long, they are unreachable even to themselves.
 
 ## ITEM-SPECIFIC HISTORY — *The Drowned Roots Source-Trace: Suit Record*
 

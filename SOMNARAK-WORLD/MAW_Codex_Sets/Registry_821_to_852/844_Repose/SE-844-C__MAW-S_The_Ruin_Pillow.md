@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Ruin Pillow is the suit record of Repose’s set, and its canonical ability is precisely fitted to its sleeping source: it protects the wearer from memory-collapse effects, armor for standing inside a dream where a settlement falls forever. Binding is testimonial: the wearer names Repose’s event — an Outside Sorrow settlement collapsed, and its last survivor carried the ruin into a sleep that became permanent — and accepts the set’s limit: do not wake it; reduce noise and acknowledge the dead. The operational cost follows the wearer home: they dream of every ruin they have passed, the day’s wreckage replayed nightly, and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit tests whether the worker can remain near sleeping grief — presence held beside a sorrow that must not be disturbed, vigilance practiced at a whisper — and it opened the immediate hazard only after attribution to Repose. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Ruin Pillow is the suit record of Repose’s set, and its canonical ability is precisely fitted to its sleeping source: it protects the wearer from memory-collapse effects, armor for standing inside a dream where a settlement falls forever. Binding is testimonial: the wearer names Repose’s event — an Outside Sorrow settlement collapsed, and its last survivor carried the ruin into a sleep that became permanent — and accepts the set’s limit: do not wake it; reduce noise and acknowledge the dead. The cost follows the wearer home: the day's wreckage replays nightly, and after a season the dead of every ruin they have passed take the places of the people they actually lost. The source-trace set the doctrine: the suit tests whether the worker can remain near sleeping grief — presence held beside a sorrow that must not be disturbed, vigilance practiced at a whisper — and it opened the immediate hazard only after attribution to Repose. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Ruin Pillow is the suit record of Repose’s set, and its canonical ability 
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer dreams of every ruin they have passed. Continued use makes Repose's source sorrow feel autobiographical.
+**Operational / binding cost:** The Pillow holds a memory together by taking the stake out of it: protected, the wearer remembers everything accurately and cares about none of it. Slept on through a season, their past becomes a list they can recite and cannot feel.
 
 ## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Suit Record*
 

@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Neverlast’s Shroud is the suit record of Neverlast’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a grief that crystallized waiting for an answer that never came. Binding is testimonial: the wearer names Neverlast’s event — a friendship ended with one person disappearing, and the remaining grief stayed unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the abandonment slowly re-addressed to the wearer’s own friendships. The source-trace set the doctrine: the suit weighs the worker’s resolve and patience — protection rated not against impact but against the long, answerless waiting that is this source’s native element — and it contained the immediate hazard only after attribution to Neverlast. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Neverlast’s Shroud is the suit record of Neverlast’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a grief that crystallized waiting for an answer that never came. Binding is testimonial: the wearer names Neverlast’s event — a friendship ended with one person disappearing, and the remaining grief stayed unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The cost is delay rather than armour: every grief that touches the wearer is held in the cloth, and the years stored there arrive the moment the Shroud comes off. The source-trace set the doctrine: the suit weighs the worker’s resolve and patience — protection rated not against impact but against the long, answerless waiting that is this source’s native element — and it contained the immediate hazard only after attribution to Neverlast. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Neverlast’s Shroud is the suit record of Neverlast’s set, granting resistanc
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Neverlast's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud's protection is delay rather than armour: it holds off every grief that touches the wearer and keeps it in the cloth. Taken off after long wear, the stored years arrive at once, which is why its bearers stop taking it off.
 
 ## ITEM-SPECIFIC HISTORY — *The Neverlast Source-Trace: Suit Record*
 

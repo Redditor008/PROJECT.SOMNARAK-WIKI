@@ -31,7 +31,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 |---:|---:|---:|---|---:|
 | Weight 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Survivor's Span's source sorrow feel autobiographical.
+**Operational / binding cost:** The Orrery swings through the arc of a bridge that is no longer there: every strike carries the wielder across a gap they are still standing in. Each blow leaves them a little further from the bank they started on.
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor s Span Source-Trace: Weapon Record*
 

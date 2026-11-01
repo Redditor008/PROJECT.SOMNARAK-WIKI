@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Promise Shroud is the suit record of the Shard of a Broken Promise’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a vow that outlived its keeping. Binding is testimonial: the wearer names the source event — an artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived — and accepts the registry’s limit: the entity- specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the broken vow quietly countersigned in the wearer’s name. The source-trace set the doctrine: the suit tests whether the worker can remain without repairing it — presence held beside a failure that must be witnessed, not fixed — repair would deny the breaking — and it redirected the immediate hazard only after attribution to the Shard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Promise Shroud is the suit record of the Shard of a Broken Promise’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a vow that outlived its keeping. Binding is testimonial: the wearer names the source event — an artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived — and accepts the registry’s limit: the entity- specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the promises: every word the wearer has given sits at the collar as weight, and a season of wear leaves them with no future tense. The source-trace set the doctrine: the suit tests whether the worker can remain without repairing it — presence held beside a failure that must be witnessed, not fixed — repair would deny the breaking — and it redirected the immediate hazard only after attribution to the Shard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Promise Shroud is the suit record of the Shard of a Broken Promise’s set, 
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Shard of a Broken Promise's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud keeps Lament out by keeping promises in: worn, every word the wearer has given sits at the collar as weight. Worn long, the wearer stops speaking in the future tense.
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Suit Record*
 

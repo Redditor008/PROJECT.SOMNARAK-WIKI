@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Conservatory Plate is the suit record of Conservatory’s set, granting resistance to Grudge damage and protecting the Body against the pressure of a rescue that destroyed what it meant to save. Binding is testimonial: the wearer names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity- specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Grudge standard for armor: the wearer’s reflexes dull, as if armored by resentment, and continued use makes the sorrow feel autobiographical — the collapse refiling itself under the wearer’s own failures. The source-trace set the doctrine: the suit tests whether the worker can remain without rebuilding — the caretaker’s error inverted into discipline, presence where intervention would overload the wound again — and it interrupted the immediate hazard only after attribution to Conservatory. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Conservatory Plate is the suit record of Conservatory’s set, granting resistance to Grudge damage and protecting the Body against the pressure of a rescue that destroyed what it meant to save. Binding is testimonial: the wearer names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity- specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the shape it holds: the Plate will not let the wearer move out of the posture they were hit in, and a season of that reads as bearing. The source-trace set the doctrine: the suit tests whether the worker can remain without rebuilding — the caretaker’s error inverted into discipline, presence where intervention would overload the wound again — and it interrupted the immediate hazard only after attribution to Conservatory. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Conservatory Plate is the suit record of Conservatory’s set, granting resi
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Conservatory's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate holds the body together the way the Conservatory holds a fragment: it stops the structure failing and will not let the wearer move out of the shape they were hit in. Worn long, the wearer keeps the posture of their worst injury and calls it bearing.
 
 ## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Suit Record*
 

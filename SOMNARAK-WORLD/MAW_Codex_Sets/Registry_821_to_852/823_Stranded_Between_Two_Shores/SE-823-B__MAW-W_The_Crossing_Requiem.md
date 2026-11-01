@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Crossing Requiem is the weapon record of Stranded Between Two Shores’ set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the severed families’ separation filing itself among the wielder’s own. The source-trace fixed the doctrine: when the bridge cracked and the tunnel filled with tears, the weapon opened the immediate hazard only after the team attributed it to the source — and treating the response as the bearer’s own story reproduced the wound, establishing the present binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+The Crossing Requiem is the weapon record of Stranded Between Two Shores’ set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return — and accepts the set’s limit: listen between the sobs and name both shores. The cost is the crossing: every blow reads the ground beneath the wielder as the wrong shore for a moment, and enough of them leave the wielder answering to whichever side speaks last. The source-trace fixed the doctrine: when the bridge cracked and the tunnel filled with tears, the weapon opened the immediate hazard only after the team attributed it to the source — and treating the response as the bearer’s own story reproduced the wound, establishing the present binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Crossing Requiem is the weapon record of Stranded Between Two Shores’ set,
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Stranded Between Two Shores's source sorrow feel autobiographical.
+**Operational / binding cost:** Each blow makes the ground under the wielder read as the wrong shore for a moment, and the strike has to be finished from there. After enough blows they cannot say which side of the fight they belong to and will answer to either.
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Weapon Record*
 

@@ -31,7 +31,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Conservatory's source sorrow feel autobiographical.
+**Operational / binding cost:** The Glyph strikes with the weight of a place that fell: each blow costs the wielder one memory of a place still standing. Wielded long, their memory is all ruins and no rooms.
 
 ## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Weapon Record*
 

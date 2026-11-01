@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Thirty item costs that belong to their item
+
+The codex item records carried one sentence between them: *Continued use makes {{entity}}'s source sorrow feel autobiographical.* Three hundred and forty-five records, one tail. It said nothing about the piece it was attached to — a flintlock and a sleeping-pillow charged the same price — and the guide retired it two passes ago without the archive following.
+
+This batch rewrites the whole `**Operational / binding cost:**` field for thirty records, both clauses, in three registry ranges: `043_to_055`, `821_to_852`, and `993_to_997`. Each cost is now read off the ability directly above it. The Vanished Plate files damage under *not yet* because it is armour made of a worker's refusal to complain. The Returning Maul charges the shoulder with everything it has ever hit. The Drowned Roots Lantern takes a memory of being comforted for each wound it closes.
+
+Where the item's Appearance paragraph restated the old cost — nineteen of the thirty — that sentence is rewritten to match, so the clothing and the statistics field no longer disagree.
+
+**Left:** 294 records still carry the tail in `762_to_801`, `863_to_897`, `900_to_930`, `941_to_976`, and `1001_to_1043`.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The root, finished
 
 Two leftovers from the move: the old `SE_CATEGORIES/` directory (files gone, folder still there) and `EXPANSION_RESEARCH_STORY_AND_BATTLE.md`, which had been in the root since the design phase and belonged with the other canon documents. The empty directory is removed and the file is now `CANON/EXPANSION_RESEARCH_STORY_AND_BATTLE.md`, with its links rewritten.
