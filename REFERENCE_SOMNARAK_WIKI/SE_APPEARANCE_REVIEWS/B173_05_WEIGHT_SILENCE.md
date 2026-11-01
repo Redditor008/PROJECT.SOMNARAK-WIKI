@@ -77,9 +77,9 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
-    "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/AUDITS/MAW_PERSONALIZE_PROGRESS.md"
   ],
   "reasoning": "Whole431-line original and exactA–D/README read. InnerWeight/EchoSubjectWeight/incorporeal→fiveprotectivehouseholdsilences→ambientCommons darkthirdpartyedge/leadcold/wetstone→personcarriedmovement/doorwayglow→count/consent/unforcedspeech→transformspreading/forcedconfession→institutionalreply/debrief/hazardnote→derivedbell-vs-maul/mantle/token traced. R18predeclared2short/4careful. Nonorganicbodylesssource doesnotrequirebody-shapedgear; no forcedhumanoid, massclearance or guessedconfession.",
   "history": "PriorB107unit5cb013b39 whole/exactBsourcecoverage and primaryfullreviewparagraph explicitlyverify alreadycredited, so no duplicateTypes/Weaponcredits. Exact285 notWeightedSilence924. Master463–465index503–505/details5979–6010; Entity522; fullTale1558694–8749 preservesβ/ZoneC/Level2; CSV575–578; archetype181Bell/Room; disposition197Neutral; personalization409–415Maul read. α3–6/2/2,5/15 core agrees but Bellwavevs MaulSingle/100not normalized. Suit1/1/1.5/.5,5/10; StigmaHead5%+1Resolve exact agrees except primarybeltwear. B107fullWIP6706–6758 andCHANGELOG6194–6195 checked.",
@@ -103,9 +103,9 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
-    "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/AUDITS/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
   },
   "final_sha": "e0c06d5b5523009b4495d9c6c80ca07998d0a11c3846216eb6863de3021bdf44",
   "before_words": 6448,

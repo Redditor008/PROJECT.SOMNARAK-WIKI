@@ -102,6 +102,20 @@ colleague."* Plain diction + an unstated catastrophe does the work; the genre ne
 3. `quote_audit.py --check "<draft>"` — no match, word count inside the band; decide the register type now.
 4. Replace the blockquote line in place; run the per-dossier checks (`verify.py`, `sectfile.py`, `tpl.py`, `wikistd.py`).
 5. **`R-30` read-back:** `quote_audit.py --file <path>` — the written quote, its type, `no exact duplicate` — then
-   regenerate the ledger (`quote_audit.py --ledger REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md`) so the new
+   regenerate the ledger (`quote_audit.py --ledger REFERENCE_SOMNARAK_WIKI/REGISTRY/QUOTE_REGISTER_LEDGER.md`) so the new
    quote sits in it against the same type. The fix's record carries the new quote **and** its type.
 6. Commit and push the unit (`A0`); one `gate.sh` for the docs row (`R-12`).
+
+---
+
+## The epigraph formula is retired
+
+345 item records in `SOMNARAK-WORLD/MAW_Codex_Sets/` open with the same line, with the nouns swapped:
+
+> *"{Item} remembers {Entity}; the bearer must not mistake memory for permission."*
+
+That is a template artefact, not a quote. It survives because it is grammatical, sounds like the register, and sits where a reader looks first — which is exactly what makes it expensive: 345 openings that tell a reader nothing about the object they are about to read.
+
+A quote earns its place when it could only have come from this file: a line of the record's own testimony, a phrase from the event, a sentence in the voice of whoever keeps the ledger and signs it. The tests in this guide apply unchanged — no exact duplicate, inside the word band, register decided — and one more: **cover the item's name and read the line again.** If it still works for any of the other 344 pieces, it is not this piece's quote.
+
+Open family, recorded for the next pass: 345 records, one line.

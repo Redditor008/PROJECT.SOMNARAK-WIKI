@@ -77,8 +77,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-C__MAW-S_Eleven_Fifty_Nine_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-D__MAW-G_Eleven_Fifty_Nine_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
   ],
   "reasoning": "Full390-line original and exact912A–D read. City sorrow→bodiless TimeLament→publicclock versus externalclocks→simultaneous district grief and independent suppliedmemories→normal and explicit highGauge extended nights→stationary Work/roster/notes→portable derived set traced. R18 predeclared1batch-short/7careful-detail: own Recommendedresponse copied into ResolutionCondition; authored type, riskrole, visibleapparatus signature, three-subject profile, roster preparation, station-position instruction and itemcare. Conditional extended timing is documented, not an invented alternate body.",
@@ -102,8 +102,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-C__MAW-S_Eleven_Fifty_Nine_s_Veil.md": "edf134af58c683ce3e776e172d692d020995e15d87ed2d4e0eb249ee73b83ecd",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/912_Eleven_Fifty_Nine/SE-912-D__MAW-G_Eleven_Fifty_Nine_s_Token.md": "e4acc65cd21efebdb46fa1845f45a21227b7640673080208c697977de2ff6714",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
   },
   "outputs": {

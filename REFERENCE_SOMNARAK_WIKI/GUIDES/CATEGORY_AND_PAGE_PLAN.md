@@ -160,3 +160,20 @@ Categories: Ordeals | BLUE | Mechanics
 8. Search index entries + the single wiki zip.
 
 Not this turn: 275 remaining SE dossiers, 1,196 M.A.W. registry files, splitting Absolvohan/SED/UCD (those already sit on the analog hubs).
+
+---
+
+## Heading chooser, for any page that quotes a dossier's event section
+
+When a page summarises an entity's failure mode, the heading it uses must match the dossier's own `**Entity Type**` verdict:
+
+| What the dossier shows | The heading | The fields it carries |
+|---|---|---|
+| Leaves containment and roams | `## Breach Behavior` | Breach Type · Movement · Effect · Secondary Effect · First Target · Escalation |
+| Extends, roots, thickens, widens in place | `## Expansion Behavior` | Expansion Trigger · Expansion Rate · Expansion Effect · Containment |
+| Is used, worn or spent | `## Activation Behavior` | Tool Class · Use Mode · Activation · Primary Effect · Duration · Termination / Return |
+| Warps its own zone; nothing walks out | `## Containment Event Behavior` | Event Type · Movement · Effect · Secondary Effect · First Target |
+| Forms where the parts already are and ceases when they part | `## Formation Behavior` | Event Type · the same five rows |
+| Appears where it appears and does not travel | `## Manifestation Behavior` | Event Type · Movement · Effect · First Target |
+
+A page that gives a Place a breach summary is wrong even if it cites the dossier, because the dossier no longer says that. Two worked corrections: **Dead Air** (`N-IIIγ-929`) moved to `## Expansion Behavior` after seventeen years of records showed four rooms taken along shared walls and never an exterior one; **The Convergence** (`C-Vδ-010`) moved to `## Containment Event Behavior` with `**Event Type** | Formation`, after a `Breach Type | Escape` row was found four lines under the file's own note that it does not escape and has never attempted to.

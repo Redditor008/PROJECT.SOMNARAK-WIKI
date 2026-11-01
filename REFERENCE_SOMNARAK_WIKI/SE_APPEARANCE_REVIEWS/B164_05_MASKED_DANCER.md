@@ -162,9 +162,9 @@ Owner's latest p + always5perbatch continues this same frozen batch, not a new o
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
-    "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/AUDITS/MAW_PERSONALIZE_PROGRESS.md"
   ],
   "scope": "Use actual recorded conditional pauses and current camera closure to repair uninterrupted-body and present-access absolutes; preserve living humanoid source and fused mask through ordinary, paused and Escape states. Separate actual partner/endpoint and item costs without resolving same-item physical conflicts or authorizing floor entry. Qualify the SECC Physical Form and identification marker as ordinary repetition with documented pauses; no anatomy/material/type change.",
   "reasoning": "Whole487-line original read. This SubjectBody is explicitly living flesh under fused porcelain, moving upright as a dancer formed from collectively denied movement. That humanoid design is supported, not imposed on every human sorrow. Primaryeleven stoppages/eighttroupevisits and exactA/B/C voluntary pauses establish same-body conditions that literal-never-stop summaries omit. Escape is the same dancer following a viewer, not indiscriminate hunting or anatomy change. Current closure is explicitly camera-only; earlier rail work cannot be represented as presently performed.",
@@ -191,9 +191,9 @@ Owner's latest p + always5perbatch continues this same frozen batch, not a new o
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
-    "REFERENCE_SOMNARAK_WIKI/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/AUDITS/MAW_PERSONALIZE_PROGRESS.md": "7364aea671b14a2ccf59db20c2c49f5419c0c5685818fb0a2a8632afccd8d49b"
   },
   "base_commit": "bff4f407eb7af57ea6bd17741f30f18070cd6cea",
   "validation": {

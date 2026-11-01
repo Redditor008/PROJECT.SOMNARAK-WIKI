@@ -34,7 +34,7 @@ allowed to sound the way it does.
 | `quote_audit.py --check "<draft>"` | no exact duplicate; inside the 5–46 word band; flags named |
 | `quote_audit.py --file <path>` | the written quote, **its type**, `no exact duplicate` |
 | `quote_audit.py --verify` | `301 / 301 quotes typed`; `duplicate families: 0 / 301`; census per type |
-| `quote_audit.py --ledger REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md` | regenerated ledger — new quote present, same type |
+| `quote_audit.py --ledger REFERENCE_SOMNARAK_WIKI/REGISTRY/QUOTE_REGISTER_LEDGER.md` | regenerated ledger — new quote present, same type |
 
 The classifier is the deterministic first-match order in `tools/auditors/quote_audit.py`; the taxonomy and its
 genre evidence are in `ABNORMALITY_QUOTE_RESEARCH_2026-10-07.md`. Register *variety* across the wing is a goal

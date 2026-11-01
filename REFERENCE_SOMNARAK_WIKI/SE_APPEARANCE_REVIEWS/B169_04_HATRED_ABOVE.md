@@ -80,8 +80,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/923_Hatred_Above/SE-923-C__MAW-S_Hatred_Above_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/923_Hatred_Above/SE-923-D__MAW-G_Hatred_Above_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
   ],
   "reasoning": "Complete370-line original/exact923A–D read. CityGrudge Hazard is invisible fixedoverhead influence, not a cloud/worker/humanoid; angry subject targets nearestotherperson. Full chain includes unknown firstorigin versus datedincident, litfloorartificialcue, sideinstruments, delayedfury/crossing, wideninggeometry, outsidelineWork, unrecordedwords/privacy, derivedmarkinggear distinctpiececosts. Predeclared R18:0batch-short/9careful-detail; qualify fixedExpansion/Criticalrole, durationmean notupperbound, malformedTension, outsideWorkClash, concrete profile, noninterrogativeidentification, separationpriority andperimetersensors.",
@@ -104,8 +104,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/923_Hatred_Above/SE-923-C__MAW-S_Hatred_Above_s_Veil.md": "39b3961c1eb9ac90cbb8e8a3f7f9a7fb895ce7ed59a1d67b2d8e13a9fe17744a",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/923_Hatred_Above/SE-923-D__MAW-G_Hatred_Above_s_Token.md": "ead88f5a1e0857b7f22d670db898d2108eeaf65eab0eddbdde5ec5f7d85d8aef",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
   },
   "checks": {

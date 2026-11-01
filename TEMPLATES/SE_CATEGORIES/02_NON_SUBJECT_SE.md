@@ -20,7 +20,7 @@ Only **Viderehan (Observation)** and **Ferrehan (Endurance)** are valid. **Flere
 
 ## Failure mode
 
-Not an escape by a being. A Non-Subject **transforms, expands, spreads, or activates in place**: a boundary moves, an hour lengthens, a room gains a door, pressure becomes physical where it already stood. Where the dossier uses `## Breach Behavior`, read "breach" as that in-place change of reach or state, and read "First Target" as a *condition that selects* (a covered face, a spoken name, a person standing in the flow) — never as a choice, because there is no chooser.
+Not an escape by a being. A Non-Subject **transforms, expands, spreads, or activates in place**: a boundary moves, an hour lengthens, a room gains a door, pressure becomes physical where it already stood. A Non-Subject dossier **does not head `## Breach Behavior`** and does not carry a `| **Breach Type** |` row: it heads the section by what actually happens — `## Expansion Behavior`, `## Activation Behavior`, `## Containment Event Behavior`, `## Formation Behavior` or `## Manifestation Behavior` — and reads "First Target" as a *condition that selects* (a covered face, a spoken name, a person standing in the flow), never as a choice, because there is no chooser. `tools/section_logic.py` fails the contradiction, and the nine cells the archive had to re-type were all in this category.
 
 ## Document structure / template checklist (measured practice)
 
@@ -44,3 +44,13 @@ Sources this folder consolidates (nothing here overrides them):
 - [The_REVERIE_DIRECTORATE.md](../../SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md) — the Relic-Entity System chapter (search "RELIC-ENTITY TOOL CLASSES MATRIX").
 - [SOMNARAK_ENTITY_CODEX.md](../../SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md) and [SOMNARAK_MAW_CODEX.md](../../SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md) — the short relic-class tables.
 - [01_SORROW_ENTITY_DOSSIER_TEMPLATE.md](../SE/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md) — the single writing scaffold (see the template note in the README of this folder).
+
+## Header law (R-28) — what this category's files may print
+
+Three fields decide everything a reader sees at the top of a dossier, and all three follow the category:
+
+- **`**Entity Type**` states a verdict**, never a description. `Can breach via {Breach / Expansion / Corruption / Possession / Manifestation}` or `Non-breaching: {Activation / Expansion / Containment Event / Formation / Manifestation} only; {the file's own evidence}`. A cell that describes the holding and gives no verdict is invisible to `tools/breach.py`, which counts a file as non-breaching only when the word *breach* is absent.
+- **The event heading matches the verdict.** A file that leaves containment and roams heads `## Breach Behavior` and carries the `| **Breach Type** |` row. Every other file heads `## Expansion Behavior` (Expansion Trigger · Rate · Effect · Containment), `## Activation Behavior` (Tool Use Profile), `## Containment Event Behavior` (`**Event Type**`), `## Formation Behavior` or `## Manifestation Behavior` — and carries **no** `Breach Type` row. `tools/section_logic.py` fails the contradiction.
+- **The gauge label follows the heading** — `on breach` · `on expansion` · `on formation` · `in the event` · `on activation` — and its figure comes out of the file's own `**Escalation**` row. *Starts at 40%, rises 10%/turn* is retired.
+
+And one more, which no tool checks: **a Combat Record is earned**. Where the holding cannot fight, the section is `## Contact Record` and the file says so in a line before the block; where it keeps its rows, it says why they are kept. R-36 decides: the Movement row is Stationary / Fixed / Motionless / Seated / Recumbent / Rooted or the body says it has never moved; the record says it does not strike; nothing records pursuit, aim or a blow.

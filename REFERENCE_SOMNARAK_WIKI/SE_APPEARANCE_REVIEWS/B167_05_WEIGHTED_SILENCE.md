@@ -69,8 +69,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/924_Weighted_Silence/SE-924-C__MAW-S_Weighted_Silence_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/924_Weighted_Silence/SE-924-D__MAW-G_Weighted_Silence_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete363-line primary and exact924A–D read. Hazard-Void is absence of sound in a radius, not a visible body/materialsphere; survey markers identify extent rather than source anatomy. Origin is responders/paired-specificity reports rather than invented grief biography. Whole chain includes abrupt edge/subjective centre-weight, time/slate unreliability, outside survey Work, inconsistent expansion/history, generic attacks, apparatus-derived pieces, borrowed hand signals and paper-only comparisons. Scope: actual breach category, Major risk, radius not across, no universal loss/recovery claim, Gauge directions and detailed absence/apparatus/witness organisation.",
   "history": "Exact924A–D, registry1055–1058, archetype383 and disposition339 read. Primary/B γVoid14–20 Normal2 Short2 Single100%4/25; C L/G/V/W1/1/.3/.8 4/20; DHead5%+1 align. Same Weapon SilenceLens Instant archetype versus Short trembling glass blade remains. Suit cost and D word/face-loss align; neither requires donor materialbody. No dedicated Master exact-name match. Archived B48unit3 quote/R29 closure and B49unit2 prose history read; these do not prove unique equipment-review eligibility. +0/+0 withheld conservatively, not asserted duplicate.",
@@ -92,8 +92,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/924_Weighted_Silence/SE-924-C__MAW-S_Weighted_Silence_s_Veil.md": "ea01423bc8222bb942255c9814f717f2d691bcfafb4270e5aa9b1095dfdbccfc",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/924_Weighted_Silence/SE-924-D__MAW-G_Weighted_Silence_s_Token.md": "71bd7ffac5d90e6ab612aa2b3b7a5ad0652c2c2157d63d5d2cbc21a78cbcfb22",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

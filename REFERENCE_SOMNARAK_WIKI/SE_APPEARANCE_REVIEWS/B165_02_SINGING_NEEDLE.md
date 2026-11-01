@@ -64,7 +64,7 @@ Complete final primary read in document order after actual five validators; fing
   "sources": [
     "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md",
     "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "scope": "Correct whole-column hovering ambiguity using explicit boring/surfacing record; label projected fragment-based blunt vulnerability and base-node proposal untried, and synthesize body/halo/equipment boundaries. No dimension, speed, instrument count or threshold changed.",
   "reasoning": "Complete207-line original, physical column and field song reviewed together. Subject/Phenomenon acoustic crystal body fits tectonic rupture sorrow without human anatomy. Column moves in rock, halo hovers and falls under counter-phase. Wind40knots and proximity100m are separate conditions, not different forms. Apparent blanket blunt vulnerability and mandatory base attack conflict with explicit never-tried spire account and need qualification.",
@@ -83,7 +83,7 @@ Complete final primary read in document order after actual five validators; fing
   "source_hashes": {
     "SOMNARAK-WORLD/Unknown_Entities/SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md": "8607750a2835db62a6f034a708045dc371f21cc890501f3937341702aacbe95d",
     "SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/CANON_TIMELINE.md": "cb7bf669d6dc3b678fd03b8023b783fee958b4260ddec774e05ec746fe32385d",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

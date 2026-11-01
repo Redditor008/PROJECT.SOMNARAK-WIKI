@@ -9,7 +9,7 @@ The kit is branched by category, so a search for "what generates a dossier" does
 | Branch | Holds | Start here |
 |---|---|---|
 | [`SE/`](SE/README.md) | The primer, the dossier template, the side codex, and the three M.A.W. piece templates (00–05) | [`SE/00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md`](SE/00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md) |
-| [`SE_CATEGORIES/`](SE_CATEGORIES/README.md) | The five category definitions and their five category templates: Subject, Non-Subject, I / O / A Relic | [`SE_CATEGORIES/README.md`](SE_CATEGORIES/README.md) |
+| [`SE_CATEGORIES/`](TEMPLATES/SE_CATEGORIES/README.md) | The five category definitions and their five category templates: Subject, Non-Subject, I / O / A Relic | [`TEMPLATES/SE_CATEGORIES/README.md`](TEMPLATES/SE_CATEGORIES/README.md) |
 | [`SYSTEMS/`](SYSTEMS/README.md) | One template per world system: Ordeal, Hope Transformation, Unknown Entity, Echo Core, Master Codex, Absolvohan, Katabagil, Katharcheok, Gieok, Jipyeongseondae, Story Canto, Mugenhan (06–17) | [`SYSTEMS/README.md`](SYSTEMS/README.md) |
 | [`GAME/`](GAME/README.md) | Combat engine, battle scenario, boss mechanics, squad archetype (18–21) | [`GAME/README.md`](GAME/README.md) |
 | [`FORMAT/`](FORMAT/README.md) | Boxes and tables, canonical naming and banned strings, wiki-part reference (22–24) | [`FORMAT/README.md`](FORMAT/README.md) |

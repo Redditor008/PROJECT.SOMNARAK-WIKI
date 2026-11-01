@@ -86,8 +86,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-D__MAW-G_Ninety_Seconds_s_Token.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete408-line original/exact918A–D/README read. CityVoid/TimeMind→gradualpressure/noidentifiedincident→nonphysicalfixedpaint-markedradius→entry/repeatedpersonalworstthought→validViderehanFerrehan→passcount/contentfreephysicalexit→exceptionalMindCollapse→paper-onlyinteractions→derivedblade/veil/token traced. R18predeclared3short/6careful. Equipment canhavevisiblebodywithoutmakingdonorphysical. Repairs do notinventmaterialbreach or coerciveprivatecontentcollection.",
   "history": "B144unit2 acdab076 previouslycompleteexact918A–D/sourcefullset/Weapon review readcurrentWIP3885–3905 and B144closure3730 context. +0/+0 repeatcredits. Freshregistry1031–1034/archetype377/disposition334fullrow; exactMasterMAW/Tale/Entitysearch has no dedicated918entry (Entity359pendingindex only). No same-numberClocksubstituted. OriginalB42condition/interaction,B46quote,B68Resistanceprose notnewcredits. δVoid11–16/2Normal/2ShortSingle100%,4/25; C1/1/.3/.8,4/20; DHead5%+1sourcework retained.",
@@ -108,8 +108,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-D__MAW-G_Ninety_Seconds_s_Token.md": "574520d62197e6eb52d380cebb1e0f7a4f83ad059fb8a06cf1c69d8b2af7876f",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md": "973a8b4ee120f31c2e8a557b72bcfb09765901c6dc24af2d3fe5491bbf5118b9",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "final_sha": "50b207e71fa6db10522ce47ab1cef6945be1d18eba81722c509bd769cb5ff461",
   "before_words": 6503,

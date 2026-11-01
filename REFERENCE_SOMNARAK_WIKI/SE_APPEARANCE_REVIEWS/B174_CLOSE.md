@@ -54,8 +54,8 @@ The five individually pushed reviews:
 - [SOMNARAK_MAW_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md)
 - [SOMNARAK_ENTITY_TALES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 
 [Individual raw evidence](B174_01_UPROOTED.md). Commit [0ebd5fe875e488767276906a05bc4101937a5eaf](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/0ebd5fe875e488767276906a05bc4101937a5eaf) — PUSH VERIFIED.
 
@@ -88,8 +88,8 @@ The five individually pushed reviews:
 - [SOMNARAK_MAW_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md)
 - [SOMNARAK_ENTITY_TALES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 
 [Individual raw evidence](B174_02_CHAIN_OF_MEMORIES.md). Commit [c2e0cd2d7495b5b636d1235fbb103379018f3725](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/c2e0cd2d7495b5b636d1235fbb103379018f3725) — PUSH VERIFIED.
 
@@ -119,8 +119,8 @@ The five individually pushed reviews:
 - [SE-918-D__MAW-G_Ninety_Seconds_s_Token.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/918_Ninety_Seconds/SE-918-D__MAW-G_Ninety_Seconds_s_Token.md)
 - [README.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/README.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 
 [Individual raw evidence](B174_03_NINETY_SECONDS.md). Commit [3ffc0ca6de2e49c68313ce7da8f727e6257db764](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/3ffc0ca6de2e49c68313ce7da8f727e6257db764) — PUSH VERIFIED.
 
@@ -152,8 +152,8 @@ The five individually pushed reviews:
 - [SOMNARAK_MAW_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md)
 - [SOMNARAK_ENTITY_TALES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 
 [Individual raw evidence](B174_04_MIRROR_OF_BROKEN.md). Commit [69f6004e9694f2c065a277b41590706c1e9f623f](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/69f6004e9694f2c065a277b41590706c1e9f623f) — PUSH VERIFIED.
 
@@ -185,8 +185,8 @@ The five individually pushed reviews:
 - [SOMNARAK_MAW_CODEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md)
 - [SOMNARAK_ENTITY_TALES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md)
 - [MAW_EQUIPMENT_MASTER_REGISTRY.csv](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv)
-- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md)
-- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md)
+- [MAW_WEAPON_ARCHETYPES.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md)
+- [ENTITY_DISPOSITION_INDEX.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md)
 
 [Individual raw evidence](B174_05_RISUS.md). Commit [4452575cf7992bd6cf020c40dab7259ed69ea8aa](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/4452575cf7992bd6cf020c40dab7259ed69ea8aa) — PUSH VERIFIED.
 

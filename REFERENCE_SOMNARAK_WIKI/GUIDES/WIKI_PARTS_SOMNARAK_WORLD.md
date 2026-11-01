@@ -152,7 +152,7 @@ Verified on `arena/01a0b699-project-somnarak-wiki` — 1,710 files (2026-09-29).
 
 ```markdown
 <!-- OUT-OF-UNIVERSE REFERENCE — DO NOT COPY PM TERMS INTO CANON BODY -->
-<!-- Whole-universe index via REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md — SOMNARAK-WORLD + Abnormalities mirrors §§1–13 -->
+<!-- Whole-universe index via REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md — SOMNARAK-WORLD + Abnormalities mirrors §§1–13 -->
 ```
 
 ---

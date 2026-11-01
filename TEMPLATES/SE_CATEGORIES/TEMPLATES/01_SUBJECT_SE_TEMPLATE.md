@@ -24,6 +24,15 @@
 
 Shared laws (all five templates): SECC designation is `Origin–Coherence+Potency–Number` (C City 도한 / N Inner 내한 / O Outside 외한; I–V; α/β/γ/δ/ω) and is immutable once filed. Element is exactly one of Grudge / Lament / Void / Weight unless a canon source itself records otherwise. Geography is not an entity. In-world dates use the Year 4,2xx frame. Vocabulary is `Sorrow Entity`, `SECC`, `M.A.W.`, `Han` — never imported terms from other franchises. A contradiction between two sources **inside** the dossier (Tale vs Origin, local equipment vs Side Codex) is recorded as standing evidence, never silently averaged away.
 
+**Laws added after the archive-wide pass — these outrank the scaffold where they conflict.**
+
+- **The category chooses the section.** `## Breach Behavior` is for a holding that leaves containment and roams. Expansion in place → `## Expansion Behavior` (Expansion Trigger · Expansion Rate · Expansion Effect · Containment). Use, wear or spend → `## Activation Behavior` (Tool Use Profile: Tool Class · Use Mode · Activation · Primary Effect · Duration · Termination). A zone that warps where it stands → `## Containment Event Behavior` (`**Event Type**`). Formed where the parts already are → `## Formation Behavior`. Appears where it appears and does not travel → `## Manifestation Behavior`. `tools/section_logic.py` fails a file whose `**Entity Type**` and event heading disagree, and a non-breaching file may not carry a `| **Breach Type** |` row at all.
+- **The gauge label follows the section** — `on breach` · `on expansion` · `on formation` · `in the event` · `on activation` — and its figure comes out of the file's own `**Escalation**` row. *Starts at 40%, rises 10%/turn* is retired archive-wide.
+- **A Combat Record is earned.** Where the holding cannot fight, the section is `## Contact Record` and the file says why in one line before the block: *Why this file has no combat actions.* Where it keeps its rows, say why they are kept: *Why this file keeps combat actions.* R-36's three tests decide it: the Movement row reads Stationary / Fixed / Motionless / Seated / Recumbent / Rooted or the body says it has never moved; the record says it does not strike; and nothing records pursuit, aim or a blow.
+- **Work rows are written per holding.** *Permits study; the … pressure becomes legible under sustained observation* and *Recognizes patience; the … settles gradually under sustained presence* are retired — twenty dossiers carried that pair at once. Viderehan says what observation of *this* holding yields. Ferrehan says what a party does for a full cycle and what the endurance is spent on. The Movement and Effect rows decide both, and on a stationary holding endurance is rarely patience.
+- **A cost is the ability, read backwards.** `**Cost:**` is the Echo price. `**Bearer cost:**` is what the piece takes from the person carrying it, derived from the Ability directly above it; `grep` the finished sentence across `SOMNARAK-WORLD/` and expect **one** hit. The retired weapon costs (*a persistent low-grade headache*, *emotional numbness toward the element*, *chronic fatigue in the hand*, *progressively heavier*, *unwept grief*, *memory fragmentation*) and the four retired stigma sentences (*moves a little slower*, *temper shortens*, *weeps in their sleep*, *forgets a word*) are defects on the day they are written.
+- **The file keeps no notes about its own editing.** No *corrected from*, no review dates, no *the record has been updated*, no sentence explaining how reliable the record is. If the file has to tell the reader it is honest, the honesty is not in the file.
+
 ## SCAFFOLD — FILL EVERY PLACEHOLDER IN ORDER
 
 ~~~markdown
@@ -72,7 +81,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 - {{what yield and risk vary with, if not seniority or equipment, say so}}
 - {{extraction: separate authorisation, its scheduling limits}}
 
-## Combat Record
+## {{Combat Record / Contact Record}} — keep one, delete the other
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
@@ -175,7 +184,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 {{How to read the table: it is a diagnostic, not a procedure. Restate the classification once in prose, name the two cautions a worker needs (nothing carries over from a similarly named holding; a flat gauge is not a free watch), each grounded in this file.}}
 
 **Reading the response:** {{what a falling, stable, and rising gauge each look like here, in observable terms — and which instrument outranks the room's mood}}
-## Breach Behavior
+## {{Breach / Expansion / Activation / Containment Event Behavior}}
 
 > *“{{the breach announcement as the facility words it — name, place, first instruction}}”*
 
@@ -219,7 +228,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 
 **Ability:** {{what it does beyond damage, in the entity's own logic}}
 
-**Cost:** {{the wielder's price — this piece only, never the set's blended toll}}
+**Bearer cost:** {{the wielder's price — this piece only, never the set's blended toll}}
 
 ### M.A.W. Suit — {{Suit name}}
 
@@ -237,7 +246,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 
 **Ability:** {{which pressure it answers, and against what it is worse than nothing}}
 
-**Cost:** {{the wearer's price — this piece only}}
+**Bearer cost:** {{the wearer's price — this piece only}}
 
 ### M.A.W. Stigma — {{Stigma name}}
 
@@ -251,7 +260,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 
 **Ability:** {{what it does}}
 
-**Cost:** {{the bearer's price — this piece only}}
+**Bearer cost:** {{the bearer's price — this piece only}}
 
 {{OPTIONAL italic provenance line: how this piece comes to exist — bestowed, extracted, cut, found — only if a source in this file supports it.}}
 
@@ -457,4 +466,8 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 - [ ] `python3 tools/sectfile.py <file>` → 0 sections over 0.05.
 - [ ] `python3 tools/wikistd.py <file>` → `meets True` (parity/condition/series/disposition clean).
 - [ ] `python3 tools/sect.py <file>` → GENERIC at template-furniture level only; no prose line shared with another dossier beyond standard headings/blockquotes.
+- [ ] Event heading matches the `**Entity Type**` cell and the gauge label matches the heading (`python3 tools/section_logic.py` → PASS).
+- [ ] A Contact Record carries its *Why this file has no combat actions* line; a Combat Record carries its *Why this file keeps combat actions* line.
+- [ ] Every `**Bearer cost:**` derives from the Ability above it and returns exactly one hit across `SOMNARAK-WORLD/`.
+- [ ] No filing note, no stock Work-Type sentence, and no retired cost family anywhere in the file.
 - [ ] File name matches `SE-{CODE}_{English_Name}_{Korean_Name}.md` exactly, then ship via `bash tools/gate.sh "<message>"` and confirm PUSH VERIFIED.

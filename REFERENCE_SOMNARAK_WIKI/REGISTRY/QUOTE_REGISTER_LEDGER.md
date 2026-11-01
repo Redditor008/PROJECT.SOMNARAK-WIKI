@@ -313,5 +313,5 @@ deterministic first-match order in `tools/auditors/quote_audit.py` (`--verify` r
 
 - Register census at write time: R7 1 / 301 · R1 15 / 301 · R1b 13 / 301 · R2 27 / 301 · R3 16 / 301 · R4 7 / 301 · R5 25 / 301 · R8 197 / 301.
 - Duplicate families: **0 / 301**.
-- Re-run: `python3 tools/auditors/quote_audit.py --verify` (table) or `--ledger REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md` (write).
+- Re-run: `python3 tools/auditors/quote_audit.py --verify` (table) or `--ledger REFERENCE_SOMNARAK_WIKI/REGISTRY/QUOTE_REGISTER_LEDGER.md` (write).
 

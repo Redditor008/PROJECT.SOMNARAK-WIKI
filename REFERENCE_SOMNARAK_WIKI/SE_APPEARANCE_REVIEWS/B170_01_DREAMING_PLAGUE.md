@@ -100,8 +100,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-C__MAW-S_Dreaming_Plague_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-D__MAW-G_Dreaming_Plague_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md"
   ],
   "reasoning": "Whole385-line original and exact927A–D read. InnerVoid Hazard-Dream is shared sleep-state, normally breathing affected people and reported dream geography; no organic sourcebody or visible approaching pursuer. Whole chain covers recognition/history, firstsleep/contact/transport expansion, cordon Work/natural waking, isolated accounts/ordinal distance, paper interactions and staging-point derived gear. Predeclared R18:0batch-short/14careful-detail, independently authored: nonbody/type/role, five touch-versus-proximity summaries, no-contact Clash/priority, nonpromissory timing, account agreement, one air-trigger copyedit removing known substring seam without changing its held claim, concrete multi-subject profile.",
@@ -124,8 +124,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-C__MAW-S_Dreaming_Plague_s_Veil.md": "b306f52ac62228d8426d1e3067df6f5c6b92ca5688a7dae0a73a2ef7d0eefa4e",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/927_Dreaming_Plague/SE-927-D__MAW-G_Dreaming_Plague_s_Token.md": "a7b2b14b94767aa784aa49b2d542ddf4396efe3e2e9825640e2142d8145e8aac",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d"
   },
   "outputs": {

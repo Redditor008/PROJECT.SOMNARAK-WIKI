@@ -5501,8 +5501,8 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | Entity Template (Subject) | Subject Entity Template — Subject entities (canonical authoring schema) |
 | Entity Template (Object) | Object/Place Entity Template — Object/Place entities (canonical authoring schema) |
 | `../04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md` | The Three Corporations — game framework |
-| `../../../REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md` | Name Registry — 195+ names, mixed naming rules, 15 documentation authors |
-| `../../../REFERENCE_SOMNARAK_WIKI/SOMNARAK_DOCUMENT_RULES.md` | Document Classification Rules — ID format, dates, authors, classifications |
+| `../../../REFERENCE_SOMNARAK_WIKI/REGISTRY/SOMNARAK_NAME_REGISTRY.md` | Name Registry — 195+ names, mixed naming rules, 15 documentation authors |
+| `../../../REFERENCE_SOMNARAK_WIKI/GUIDES/SOMNARAK_DOCUMENT_RULES.md` | Document Classification Rules — ID format, dates, authors, classifications |
 | `../03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md` | Ordeal system framework — 5 Colors × 4 Watches, threat tiers, suppression |
 | `SOMNARAK_GEOLOGY.md` | Planetary Geology — Four Corners, macro-terrains, and natural landmarks |
 | `Mugenhan_Ecology/` | Planetary Biosphere — 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 MSF |

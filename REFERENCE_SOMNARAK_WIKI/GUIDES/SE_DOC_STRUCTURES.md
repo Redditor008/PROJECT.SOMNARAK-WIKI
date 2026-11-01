@@ -66,3 +66,17 @@ Two consequences for the work:
 
 - A unit on a relic file has three sections that non-relic files do not have, and they are the sections most often shared, because they were generated from one pattern per class. Editing one relic file's `### Log and Method` moves its ties against the other 52, 27 or 6 files of the same class.
 - A unit on a Subject or Non-Subject file has no triad at all, so its overlaps live in `### Core Stat Line`, `### Consequences`, `## Operational Parameters` and the M.A.W. cells. Different structure, different queue.
+
+---
+
+## Where the structure stops deciding
+
+The five structures fix which sections a file *has*. Three further decisions are made by the file's own record, and a template that pre-empts them generates the defect:
+
+| Decision | Who makes it | What breaks if the template decides |
+|---|---|---|
+| Which event section the file heads | The `**Entity Type**` verdict. `Can breach via …` → `## Breach Behavior` with a `Breach Type` row. Anything non-breaching → `## Expansion Behavior`, `## Activation Behavior`, `## Containment Event Behavior`, `## Formation Behavior` or `## Manifestation Behavior`, and **no** `Breach Type` row | A Place that never leaves containment heading `## Breach Behavior`, which is the single most common contradiction in the archive's history. `tools/section_logic.py` fails it |
+| Combat Record or Contact Record | R-36's three tests: Movement reads Stationary / Fixed / Motionless / Seated / Recumbent / Rooted (or the body says it never moved); the record says it does not strike; nothing records pursuit, aim or a blow | A whole Combat Record on a file whose Battle Phases say *Clash: None available*, and an Escape Information section on something that cannot leave. Current census: **142 Contact / 159 Combat** |
+| What the Work rows say | The `**Movement**` row and the event section's `**Effect**` row | The stock pair *Permits study …* / *Recognizes patience …*, which asserts that endurance means stillness on holdings where stillness is exactly what the room charges for |
+
+The structure is a shape, not a verdict. When a file's record contradicts the shape, the record wins and the section changes — that is the *Logic Path, Not Template Path* rule, and it outranks every table in this folder.

@@ -81,8 +81,8 @@ Complete final primary read in document order after actual five validators; fing
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/919_Passing_Bell/SE-919-C__MAW-S_Passing_Bell_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/919_Passing_Bell/SE-919-D__MAW-G_Passing_Bell_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "scope": "Qualify PhysicalForm as explicitly non-corporeal rather than Organic, and Transform as temporal overrun. Correct Sovereign role, unsupported physical suppression and during-hour-only relief/daily-recurrence claims using actual transcript/overrun/delayed-copy records. No dimension, count, event or new body invented.",
   "reasoning": "Entire365-line primary and exact919A–D read. Time-Spirit, audible unrecordable voices and no visual/physical component require non-corporeal presentation; Organic is an unsupported physical-body label. One three-hour expansion is an explicit exception to normal hour, not an invented transformation. No-speaking/ninevoices/twohandscript books are concrete witness organisation, not donor silhouette. Copy-after relief conflicts with hour-only Gauge statement; dated token and physical blade are derived equipment, not evidence of source flesh.",
@@ -106,8 +106,8 @@ Complete final primary read in document order after actual five validators; fing
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/919_Passing_Bell/SE-919-C__MAW-S_Passing_Bell_s_Veil.md": "66d5cc63c1288d0d6da2f2f2a978ac5360672dd636d85ff60df4be612bf75f69",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/919_Passing_Bell/SE-919-D__MAW-G_Passing_Bell_s_Token.md": "7ec07aa4757fa6b26e69b894de46228ecfd271271e24357f2acdb050eb847e4f",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

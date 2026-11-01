@@ -19,7 +19,7 @@ If you are repairing an existing dossier, do not re-decide: run the ten-second t
 
 ## What all five templates share (the modern spine)
 
-Title + epigraph → SECC Classification → Operational Parameters + Operational Notes → Combat Record (Core Stat Line, Operational Record, five Combat Actions, Battle Phases, Consequences) → Appearance (Identification, Detailed Appearance Profile, protocol) → Origin → Behavior + Operational Work Notes + Reading the response → failure section (category-specific) → M.A.W. Equipment (Weapon, Suit, Stigma, Use Notes, piece-specific Field Use Record, Stat interpretation) → Observation Log + Progression → Story Log (5 entries) → Final Observation → Flavor Text quartet → Interaction Pattern + Record → Tale → Testimonium (5 voices) → Registrum + Registry Addendum → Warden/Watch Record → Trivia + Registry Trivia → Document Information.
+Title + epigraph → SECC Classification → Operational Parameters + Operational Notes → **Combat Record or Contact Record** (R-36 decides; Core Stat Line, Operational Record, five Combat Actions, Battle Phases, Consequences) — then → Appearance (Identification, Detailed Appearance Profile, protocol) → Origin → Behavior + Operational Work Notes + Reading the response → failure section (category-specific) → M.A.W. Equipment (Weapon, Suit, Stigma, Use Notes, piece-specific Field Use Record, Stat interpretation) → Observation Log + Progression → Story Log (5 entries) → Final Observation → Flavor Text quartet → Interaction Pattern + Record → Tale → Testimonium (5 voices) → Registrum + Registry Addendum → Warden/Watch Record → Trivia + Registry Trivia → Document Information.
 
 ## What is actually different (the whole point of five files)
 
@@ -27,7 +27,7 @@ Title + epigraph → SECC Classification → Operational Parameters + Operationa
 |---|---|---|---|---|---|
 | Valid Work Types | all four | Viderehan + Ferrehan | Viderehan + Ferrehan | Viderehan + Ferrehan | Viderehan + Ferrehan |
 | Object/Place Work Rule banner | never | yes | yes | yes | yes |
-| Failure section | `## Breach Behavior` (it acts, chooses a First Target) | `## Breach Behavior` read as in-place change of state/reach, + Detailed Activation Record | `## Activation Behavior` + relic triad | `## Activation Behavior` + relic triad | `## Activation Behavior` + relic triad |
+| Failure section | The heading the record earns: `## Breach Behavior` where it leaves containment, else Expansion · Containment Event · Manifestation (R-28) | Expansion · Activation · Containment Event · Formation · Manifestation — **never** `## Breach Behavior`, never a `Breach Type` row | `## Activation Behavior` + relic triad | `## Activation Behavior` + relic triad | `## Activation Behavior` + relic triad |
 | Tool Use Profile / Log and Method | forbidden | forbidden | required (equippable) | required (channeled) | required (single-use) |
 | Termination story | Resolution Condition performed | recorded condition ends the rise | manual unequip | formal channel closure | consumption — no return |
 | First Target | a recorded choice | a selecting condition | threshold/cascade scope | threshold/cascade scope | threshold/cascade scope |
@@ -47,3 +47,7 @@ Title + epigraph → SECC Classification → Operational Parameters + Operationa
 - Keep the Korean section headings exactly as scaffolded — the tools and the archive key on them.
 - Brackets and braces inside Combat Actions (`[move]`, `{ *Name* [**Attack**] }`) are literal archive style, not placeholders.
 - Ship one dossier per validated push through `tools/gate.sh`, after the template's checklist, ending in PUSH VERIFIED.
+
+## Updated after the archive-wide pass
+
+All five templates now carry the same six laws above the scaffold — category chooses the section, gauge label follows the section, a Combat Record is earned, Work rows are written per holding, a cost is the ability read backwards, and the file keeps no notes about its own editing — and each checklist ends with the four lines that check them. The `**Cost:**` placeholders for bearer costs are now `**Bearer cost:**`, so a finished file cannot confuse the Echo price with what the piece takes from the person carrying it.

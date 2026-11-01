@@ -68,7 +68,7 @@ Complete final primary read in document order after actual five validators; fing
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "PROJECT_MOON_RESEARCH/CROSS_VERSE/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md"
   ],
   "scope": "Add supported chronological/conditional identification and body/wing/person/equipment distinctions. Correct fixed-colour claim using explicit reversible-colour record, remove exclusive nonconfrontational wording, and mark never-extracted gear conditional. Preserve unresolved span, branch, trigger and source chronology instead of inventing solutions.",
@@ -92,7 +92,7 @@ Complete final primary read in document order after actual five validators; fing
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITIES.md": "24f41a255e0a80e63a6914a5bb3c786af2ee983bbb243a68afcec37cf178d735",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "PROJECT_MOON_RESEARCH/CROSS_VERSE/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md": "4e493173a1885b4913005f624e261e17b71950b2aba4a70eefb3e2786d2a702a",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B157_02_KIND_HEALER.md": "6c01413953b8215e9abfa8571c9536ff98d535c114e2acd5b50f64fc5e38f0a9"
   },
   "checks": {

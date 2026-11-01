@@ -56,14 +56,14 @@ V7-2. Add the label linter to CI.
 Fix: add a step that runs python3 tools/label_lint.py.
 V7-3. The catalog header is stale.
 
-REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md now has 291 rows. Lines 4, 11 and 13 still say "284 Unique" and "284 rows ... pending indexation".
+REFERENCE_SOMNARAK_WIKI/REGISTRY/SORROW_ENTITIES_CATALOG.md now has 291 rows. Lines 4, 11 and 13 still say "284 Unique" and "284 rows ... pending indexation".
 SOMNARAK-WORLD/Pages/01-Main Page.md, line 5, says "284 cataloged SECC".
 Fix: change these to 291 and delete the "pending indexation" sentence.
 V7-4. Leftover old counts.
 
 README_STORY_REFERENCE_GUIDE.md, lines 18 and 56, say "292". Change them to 291.
 SOMNARAK-WORLD/Pages/07-Sorrow Entities.md, line 234, says "all 285 SECC codes".
-Optional, historical: REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md, line 330.
+Optional, historical: REFERENCE_SOMNARAK_WIKI/REGISTRY/REGISTRY_MASTER_STATUS.md, line 330.
 V7-5. Boilerplate (low priority).
 
 Agree one measure, because the author's figure is 13.4% and mine is about 37%. A small tool could report both.

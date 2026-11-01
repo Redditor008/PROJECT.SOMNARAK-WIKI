@@ -11,7 +11,7 @@
 > Before reading any other file, dossier, or codex in `SOMNARAK-WORLD/`, you **MUST** read **[`Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`](Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md)** to achieve 100% full context of the world's cosmology, core metaphors, and societal laws!  
 > For the complete 5-stage reading roadmap and contextual guide, see **[`README_FIRST.md`](README_FIRST.md)**.
 
-> **Whole-Universe Wiki Part (Out-of-Universe, Cleaner Overview):** For a **Description + Information + Explanation** distillation of this entire archive — written natively for our universe, not as a comparison — see [`../REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md`](../REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md), the out-of-universe companion to this in-universe tree.
+> **Whole-Universe Wiki Part (Out-of-Universe, Cleaner Overview):** For a **Description + Information + Explanation** distillation of this entire archive — written natively for our universe, not as a comparison — see [`../REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md`](../REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md), the out-of-universe companion to this in-universe tree.
 
 ---
 

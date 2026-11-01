@@ -223,3 +223,30 @@ Appearance : <Normal / Simple Appearance Paragraph>
   - Follows on the next line after an empty paragraph break without a heading or prefix.
   - Details specific mechanical components, moving gears/vents/seams, engravings, sorrow vapor/light emissions, textural contrasts, and atmospheric phenomena.
   - Constraint: Strictly between **20 words min and 66 words max**. Detailed and concrete for vector/SVG rendering, yet free of convoluted jargon.
+
+---
+
+## The cost law, since the whole framework rests on it
+
+Variety in this archive was never a matter of finding new adjectives for the same three harms. The rule is mechanical:
+
+> **Write the Ability first, then read it backwards.**
+
+| Piece | Ability | Cost, read backwards |
+|---|---|---|
+| Sorrow Mass's Edge | hands the target a share of what the structure below is carrying | the wielder's own share goes unrecorded — the gauges read the structure and nothing at the hand that struck |
+| The Threshold Ward-Staff | bars a doorway planted; reaches whoever is behind it swung | the wielder weeps once at the start of a shift and cannot say for whom; a piece that stops doing it is re-seated and one that does it early is destroyed |
+| Breathing Stone's Edge | struck targets breathe at nine a minute | the wielder keeps the wall's rate for the rest of the shift, unnoticed, until somebody else counts it |
+
+If the Ability line were deleted, the Cost line could not be written. That is the test: **a cost that survives the removal of its own ability is a stock sentence with a new subject.**
+
+**Two labels, one price each.** `**Cost:**` on the stats line is the Echo price. `**Bearer cost:**` under the Ability is what the piece takes. A block with two `**Cost:**` rows makes the reader guess. (820 rows were renamed across 288 dossiers to settle this; a Stigma has no Echo price at all, because it is found rather than bought.)
+
+**The retired families** — all of them defects on the day they are written:
+
+- Weapons: *a persistent low-grade headache with each use* · *emotional numbness toward the source entity's element* · *chronic fatigue in the dominant hand* · *progressively heavier; prolonged use ages them slightly* · *the entity's unwept grief; prolonged use causes involuntary weeping* · *mild memory fragmentation*
+- Stigmas: *moves a little slower* · *temper shortens* · *weeps in their sleep* · *forgets a word*
+- Suits: *numb to minor joys*
+- Every piece: *Continued use makes {entity}'s source sorrow feel autobiographical*
+
+**Verify before commit:** `grep` the finished sentence against `SOMNARAK-WORLD/` and expect exactly **one** hit — the file you are writing.

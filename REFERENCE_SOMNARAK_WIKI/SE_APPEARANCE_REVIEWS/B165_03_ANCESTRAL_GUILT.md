@@ -63,7 +63,7 @@ Complete final primary read in document order after actual five validators; fing
     ]
   ],
   "sources": [
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md",
     "CHANGELOG.md",
     "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md"
   ],
@@ -83,7 +83,7 @@ Complete final primary read in document order after actual five validators; fing
   "before_words": 3125,
   "after_words": 3471,
   "source_hashes": {
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30",
     "CHANGELOG.md": "6c64bf5a0644c9c2dddcadd2b4486dce0123a883d54e6a26eb047f402db17ce6",
     "REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md": "1d6c4142d7326dd5c584b1ae3e0275fedea89e348f5ba0a49f03424a1e01c704"
   },

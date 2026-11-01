@@ -85,3 +85,17 @@
 ---
 
 *Relearned 2026-09-29 from wiki.gg + fandom Abnormalities (§§1-9), One Sin and Hundreds of Good Deeds (non-tool), Yang (tool, Equippable) — 3 Main + 2 Sub = 5 categories, 2 individual ways (non-tool vs tool → 3).*
+
+---
+
+## The category does not decide the heading — the record does
+
+The five categories fix the Work Types and the presence of the relic triad. They do **not** fix the event section, and treating them as if they did is how the archive ended up with Places heading `## Breach Behavior`.
+
+| Category | Valid Work Types | Event section |
+|---|---|---|
+| Subject SE (142) | all four, subject to the file's own prohibitions | `## Breach Behavior` only where the file actually leaves containment; otherwise Expansion · Containment Event · Manifestation, by the record |
+| Non-Subject SE (71) | Viderehan + Ferrehan only | Expansion · Activation · Containment Event · Formation · Manifestation. **Never** `## Breach Behavior`, and **never** a `Breach Type` row |
+| I / O / A Relic (53 / 28 / 7) | Viderehan + Ferrehan only | `## Activation Behavior`, with the relic triad beneath it |
+
+And the `**Entity Type**` cell must state a verdict, not a description: *Can breach via X*, or *Non-breaching: category only; the file's own evidence*. Nine dossiers were carrying descriptions in that cell — *Hazard — an affected air volume pools in sublevels and can extend upward*, *Subject — a drifting ember carrying an interrupted cry* — which read fine and answered nothing, and were invisible to a census that counts a file as non-breaching only when the word *breach* is absent.

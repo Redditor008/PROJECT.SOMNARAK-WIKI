@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Every template and every guide now says what the last season learned
+
+The dossier template was updated first and the other forty were left behind, which is how a standard rots: a writer who opens the category template instead of the dossier template gets the old rules back. This pass moves the rules into every scaffold and every guide.
+
+**The five category templates** — Subject, Non-Subject, I-Relic, O-Relic, A-Relic — each gained the same six laws above the fill-in block, and each scaffold changed shape where it used to pre-empt the record:
+
+- `## Combat Record` became `## {{Combat Record / Contact Record}} — keep one, delete the other`, because R-36 decides between them and the template should not.
+- The Subject and Non-Subject scaffolds stopped printing `## Breach Behavior`. Subject now offers the heading that matches the verdict; Non-Subject offers Expansion / Activation / Containment Event / Formation / Manifestation and says plainly that `## Breach Behavior` and a `Breach Type` row are forbidden on a file that does not leave containment.
+- The three bearer-cost placeholders in every scaffold — weapon, suit, Stigma — are now `**Bearer cost:**`, so a finished file cannot confuse the Echo price with what the piece takes.
+- Every checklist gained four lines: heading matches the `**Entity Type**` cell; the Contact-or-Combat note is present; every `**Bearer cost:**` derives from its Ability and greps to one hit; no filing note, stock Work-Type sentence, or retired cost family anywhere in the file.
+
+**The five category definition files** each gained a *Header law* section — the verdict rule, the heading rule, the gauge label, and the R-36 test — and two of them were corrected outright. `02_NON_SUBJECT_SE.md` used to instruct a writer that where a Non-Subject dossier says `## Breach Behavior`, one should read "breach" as an in-place change; that instruction is how 71 files were told to keep a heading they were not entitled to. It now says the opposite, and names the nine cells the archive had to re-type.
+
+**Seven guides** gained the section each one was missing: where the structure stops deciding (`SE_DOC_STRUCTURES`), the stock-prose table with the nine retired families and the three free tests (`CONTENT_AND_VISUAL_STANDARDS`), the cost law with worked examples (`MAW_VARIETY_DESIGN_FRAMEWORK`), the category-does-not-decide-the-heading map (`RELEARN_FIVE_CATEGORIES`), the page-level heading chooser with the Dead Air and Convergence corrections (`CATEGORY_AND_PAGE_PLAN`), what Special Activation is not (`SPECIAL_ACTIVATION_SE`), and the 345-record epigraph formula, recorded as retired and as an open family (`SE_QUOTE_GUIDE`).
+
+**One drafting standard corrected in passing:** `CONTENT_AND_VISUAL_STANDARDS` was teaching `Appearance : ` — with the space before the colon — as the M.A.W. appearance label. It is `**Appearance:**`.
+
+**Checks:** `check_links` 0 broken · `text_box` PASS · `label_lint` 0 · `section_logic` PASS.
+
+
 ## Ninety-four files find a home (structural)
 
 The repository root had become a corridor with everything piled in it: twenty-four loose files, a flat `TEMPLATES/` of twenty-five numbers whose meaning had to be memorised, and fifty reference documents sitting beside the five that were rules. Two branches of the same subject — the five category definitions and the category templates — lived in a folder of their own, one level away from the twenty-five templates they belong with.

@@ -73,8 +73,8 @@ Complete final primary read in document order after actual five validators; fing
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/900_Vellum_Man/SE-900-C__MAW-S_Vellum_Man_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/900_Vellum_Man/SE-900-D__MAW-G_Vellum_Man_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "scope": "Align Transform/escape and Sovereign-role wording with two walking escapes and Minor classification; restore four Subject work types supported by table/Registrum; distinguish manuscript body/pages/person-effects/equipment. Preserve cross-source force, reading-method and extraction inconsistencies.",
   "reasoning": "Entire347-line original read, then complete exact900A–D. Paper/ink Subject-Tale, directional legibility, up-running shimmer, walking desk visits and remembered text match forgotten-story sorrow. No witnessed alternate transformed body; hostile hunting language is unsupported by explicit two escape accounts. Formal two-work restriction conflicts with four available responses. A/B equal-force response conflicts with primary no-force outcome. Instruments/direct reading/no working instrument statements and unique eleven/missing eleven require actual evidence, not a new form.",
@@ -98,8 +98,8 @@ Complete final primary read in document order after actual five validators; fing
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/900_Vellum_Man/SE-900-C__MAW-S_Vellum_Man_s_Veil.md": "bfd172e6ca4a49246f7456ecac0e5383c3463afa22156e496820280a366e4f18",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/900_Vellum_Man/SE-900-D__MAW-G_Vellum_Man_s_Token.md": "84da7be3f0d3daf4404264479239ba1465a62dd96bb3b05424461030628b69ac",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

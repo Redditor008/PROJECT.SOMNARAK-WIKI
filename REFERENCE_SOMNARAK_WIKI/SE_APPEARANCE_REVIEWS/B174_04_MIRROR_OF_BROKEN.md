@@ -88,8 +88,8 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete429-line original/exactA183/B105/C101/D98/README, Master/Tale/historyread. InnerWeightSubjectDream→unnamedexileidentityleftbehind/Tale→variablemirrorblackcrystalfigureversusphysicalshardfield→sleep-onlyzoneevent/noexternaltravel→acknowledgewithoutrealselfranking/Workprohibition→shardvsfaceinventories→partner-boundderivedSkewer/Mantle/Reflection traced. R18predeclared4short/5careful. Preserve genuine visual/mode ambiguity instead ofinventingwaking-to-dream transformation.",
   "history": "Exact127A–D all4/4. CSV374–377, archetype105RoomPrism, disposition224Neutral; Entity506BrokenMirroralias; Master415–417table455–457/details5451–5483; fullTale1397836–7888 historicalEchoII/Moderate/LowvsprimaryIIIγ preserved. B910f8ad16d independentexactWeapontitle/formhold currentWIP7510–7532 and CHANGELOG6422–6425 read; B56series40736ff VOL02 125–154 notnewequipmentcredit. +0/+0 conservatively no duplicate all-types/sourceWeaponcoverage. Primary/A/BγWeight7–12/Fast3/Medium3/Skewer3/10070 50,max3/40; C1/1/1.5/.5,max3/35; DHead4%+2 align, CSVgeneric5%notrewritten.",
@@ -112,8 +112,8 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "final_sha": "71726eaf4ae10d910c7978f66d7d2dc8b2c5c1cb16ba7794976aec599866754a",
   "before_words": 6534,

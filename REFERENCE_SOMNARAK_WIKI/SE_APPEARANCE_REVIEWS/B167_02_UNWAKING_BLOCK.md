@@ -70,8 +70,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/908_Unwaking_Block/SE-908-C__MAW-S_Unwaking_Block_s_Veil.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/908_Unwaking_Block/SE-908-D__MAW-G_Unwaking_Block_s_Token.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Complete363-line primary and exact908A–D read. Place-Dream is anomalous architecture around living sleepers, not Organic anatomy. Building immobility, shifting survey routes and annexing door are distinct spatial conditions. Sorrow is custodial continuing sleep and irreversible domestic loss, with district nurses/families distinct from survey party. Trace includes clock-called Work/Gauge, generic physical suppression/targeted combat, plans, paper-only pairings, resident history and derived rod/lining/plate gear. Scope: actual architectural label, annexation rather than unqualified Transform, risk role, successful session condition, no demonstrated physical suppression, concrete domestic/spatial/witness organisation.",
   "history": "Exact908A–D, registry991–994, archetype361 and disposition344 read; no dedicated Master exact-name match found. Primary/B γLament14–19 Normal2 Short2 Single100%4/25; C L/G/V/W.3/1/1.2/.8 4/20; DHead5%+1 align. Same Weapon Short sleeping-isometric-block archetype versus primary crystal blade and B headache versus primary two nights heavy sleep remain. Archived B36unit2 0287db5, B45unit8 quote and B49unit7 prose history read, not unique equipment-review proof. +0/+0 conservatively withheld rather than inferred duplicated or unique.",
@@ -94,8 +94,8 @@
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/908_Unwaking_Block/SE-908-C__MAW-S_Unwaking_Block_s_Veil.md": "22aba7365f81c7855d3de20066c03d2f66107919d72a1c77c856f03e272510e9",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/908_Unwaking_Block/SE-908-D__MAW-G_Unwaking_Block_s_Token.md": "9e20e912f109c6748bbabfe09e9ea8c8c14da6f222baa2d58e42fa507f3ea4ec",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "checks": {
     "verify": "RESIDUAL 0\nseam []\npipe True\ndupes []\n",

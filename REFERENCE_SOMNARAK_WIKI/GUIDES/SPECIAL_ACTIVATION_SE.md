@@ -30,3 +30,13 @@ Strictest wording subsets across the corpus: **117** files state "no breach coun
 **Expansion Behavior / manifestation in place (35):** `C-IIIγ-140`, `C-IIIγ-180`, `C-IIIγ-649`, `C-IIβ-100`, `C-IIβ-185`, `C-IIβ-240`, `C-IIβ-245`, `C-IIβ-250`, `C-IVγ-180`, `C-IVγ-270`, `C-IVδ-092`, `C-IVδ-193`, `C-IVδ-251`, `C-IVδ-260`, `C-IVδ-763`, `C-IVδ-767`, `C-IVω-001`, `C-Iα-011`, `C-Iα-150`, `C-Iα-175`, `C-Iα-240`, `C-Vγ-225`, `C-Vγ-260`, `C-Vγ-320`, `N-IIβ-270`, `N-IIβ-456`, `N-IIβ-627`, `N-IVδ-157`, `N-IVδ-821`, `N-Iα-459`, `O-IIIγ-617`, `O-IIβ-677`, `O-IIγ-007`, `O-IVδ-909`, `O-Iα-169`
 
 *Scan script and raw table were session artifacts (`/tmp/special_activation_scan.json`); recount any time by scanning ledger paths for the three behavior-block headers above.*
+
+---
+
+## What "Special Activation" is not
+
+Three things get confused with it, and the differences matter when a page is written:
+
+- **It is not a breach class.** A Special Activation is a marking on a file: the file has no breach counter, or no gauge that governs it, or both. Whether the file breaches at all is a separate question answered by its `**Entity Type**` verdict, and a Special Activation file can be a non-breaching one.
+- **An `X` on a terminus is neither a hidden tally nor a blank.** On the Stormscale Sovereign and the Dawn of Mourning there is no holding for a counter to measure, so the `X` records that the question does not arise. An `X` on an ordinary entity with a hidden tally is a different thing wearing the same letter.
+- **Special Abnormality is a class, not a behaviour.** A terminus filed under R-35 takes no work table, no PE yield and no M.A.W. production line unless the record files a piece. Apocalypse Bird is not an intake; it is what the three birds produce.

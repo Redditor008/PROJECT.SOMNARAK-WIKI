@@ -54,8 +54,8 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "sources_read": "Complete439-line original including whole PurposeNote, post-review history and WardenRecord. All exact033A–D complete: gratitude, relief resonance, Lens fair/cruel threshold and conscious release, Veil mark and thanks, Wing once-per-encounter/broad danger/fear. Master65–67/detail1091–1121; Entity373; completeTale9 480–533; Registry66–69/archetype72/disposition125. Current and both archived WIP/CHANGELOG by full identity, names, exactpair;113inventory explicitly only componentSuit checked as Convergence control. Longname prose-overlap list inspected as list, not source review. All-ref B history only10cd20a.",
   "history": "No prior independent exactSE033B/MAW-W-033-01 or full-set review found in current/archived logs; no equipment_reviews row. Batch113 read033C only to test Convergence assembly, not033A–D or Weapon coverage. R29/post prose/disposition repairs are not exact equipment comparison. Fresh +1Types/+1Weapon; no body/SE completion credit.",
@@ -128,8 +128,8 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "validation": {
     "verify": {

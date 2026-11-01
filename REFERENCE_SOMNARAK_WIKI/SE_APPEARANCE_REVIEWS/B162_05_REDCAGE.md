@@ -55,8 +55,8 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "sources_read": "Whole497-line original including entire409Bars/QuashedIsNotInnocent/ThereAreNoCells appendices. Exact120A–D complete, D65–82care/history/shutdown reopened after combinedoutput truncation. Aside explicitly sourceI-Relic neverworn/issued, echoes not bars; fullAcknowledgeBars/noverdict and OpenBar. B wholeofficialFang/restingactiveversusCenserappearance/saferelease/receiver/authority/oversight/rejection/shutdown; C conditionalone-strike openexit/closedgrid emergency; D singlebarrier/noguilt/unknownfact/oversight/emergency. Mastertable95–97/detail1421–1453; Registry362–365/archetype102; Entity383; fullTale19 1055–1110; Neutraldisposition273. Exact122unit5 5fa0baf/WIP4381–4383 and90unit2 aaf937e1 inbothlogs, cross101 WrathFlame held as differentbetaentity/pair.",
   "history": "Batch90unit2 aaf937e1 already reviewed120B/MAW-W-120 and correctedSideWeapontitlewhileholdingFang/Censer. Batch122unit5 5fa0baf completed full120A–D review; repeatedpair+0. Equipmentbaselinealreadyabsorbs these; no freshTypes/Weapon credits. No sharedWrathFlameitem or SEcompletion inferred.",
@@ -142,8 +142,8 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "validation": {
     "verify": {

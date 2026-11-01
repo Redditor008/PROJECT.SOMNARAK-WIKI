@@ -97,8 +97,8 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
   ],
   "reasoning": "Full441-line original→exact1020A–D/README→Master412–414/Tale138→source/nonbreach/indumentum/crystal-chain/growthandwarmfacelessoldend→posture/tension/touch+name→wearunwind/permanentexchange→count/order/interactions→three derivedpieces traced. R18predeclared4short/7careful. Repairs keep stationaryobject and observed arrangementchanges distinct, remove broken Appearanceprotocol and genericPeople/ID, separate sourcewear timeline from extractedpieceuse, and stop claiming every holder knows the unidentified face.",
   "history": "Exact1020 hasN-IIIβ-200, notunrelatedSE200 source suffix or O-IIβ-467MemoryChain reviewed110/161. CSV242–245; archetype420; Entity505; Master452–454/5418–5450; completeTale1387783–7835; disposition352Neutral; WIP7910–7930 seventyreplacements oldprosepass, notexactMAW-W-1020-01/fullsetdisposition. Current and archivedWIP/CHANGELOG identity/1020/MemoryMaul history checked; noequipmentrow forsourceN-IIIβ-200. Fresh+1Types/+1Weapon. βWeight5–9/2/2ShortSingle100,4/25; C1/1/1.5/.5,4/20; DHead5%workingbonus numericalagreement. WeaponBcontainsnoAppearance; RoomfuneralDao archetype vsprimaryShortflail isnotdonor/equipmentdifference.",
@@ -122,8 +122,8 @@
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",
     "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv": "338e2d9107ace059d26567f9d31220134751f460862ca9dde6a4d2b20071fdd8",
-    "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
-    "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
+    "REFERENCE_SOMNARAK_WIKI/GUIDES/MAW_WEAPON_ARCHETYPES.md": "4e79d0152fcbbb9df6c5b274aaacf8e346377a139850dea6da8e8ce546732399",
+    "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md": "e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30"
   },
   "final_sha": "b06051f6b51268461d5f093500bbe771e67145332b9b145e35f3b824418a45b5",
   "before_words": 6496,
