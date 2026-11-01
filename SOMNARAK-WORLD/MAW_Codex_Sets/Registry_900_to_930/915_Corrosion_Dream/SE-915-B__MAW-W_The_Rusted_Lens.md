@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Corrosion Cutlass
 
-> *“The Rusted Lens remembers Corrosion Dream; the bearer must not mistake memory for permission.”*
+> *"It cuts at the finished thing. Every blow makes something the wielder built read as already ruined."*
 
 ---
 

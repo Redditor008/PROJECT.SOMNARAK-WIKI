@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Amnesia's Veil
 
-> *“Amnesia's Veil remembers Amnesia; the bearer must not mistake memory for permission.”*
+> *"The wearer is thinned rather than protected: hard to describe, easy to walk past, and the thinning is not felt as loss."*
 
 ---
 

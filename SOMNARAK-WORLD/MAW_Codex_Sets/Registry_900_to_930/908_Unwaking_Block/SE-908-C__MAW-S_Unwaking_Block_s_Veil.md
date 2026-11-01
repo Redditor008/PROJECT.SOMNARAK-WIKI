@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Unwaking Block's Veil
 
-> *“Unwaking Block's Veil remembers Unwaking Block; the bearer must not mistake memory for permission.”*
+> *"The wearer cannot lose the door they came in by. The mantle holds the route and the plan, and will not hold either past the hour."*
 
 ---
 

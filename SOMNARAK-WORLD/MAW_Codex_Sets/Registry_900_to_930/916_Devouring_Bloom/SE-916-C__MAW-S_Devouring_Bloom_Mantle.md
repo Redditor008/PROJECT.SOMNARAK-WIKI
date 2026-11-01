@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Devouring Bloom Mantle
 
-> *“Devouring Bloom Mantle remembers Devouring Bloom; the bearer must not mistake memory for permission.”*
+> *"It holds the line and eats what holds it. Its wearers stay steady, unhurt, and lighter than they were."*
 
 ---
 

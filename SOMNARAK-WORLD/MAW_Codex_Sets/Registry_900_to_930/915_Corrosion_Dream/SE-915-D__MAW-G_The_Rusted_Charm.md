@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Rusted Charm
 
-> *“The Rusted Charm remembers Corrosion Dream; the bearer must not mistake memory for permission.”*
+> *"Every plan the bearer makes reads as already half-eaten, and the reading does not reverse."*
 
 ---
 

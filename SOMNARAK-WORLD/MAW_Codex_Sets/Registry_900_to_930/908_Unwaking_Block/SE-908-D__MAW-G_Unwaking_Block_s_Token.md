@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Unwaking Block's Token
 
-> *“Unwaking Block's Token remembers Unwaking Block; the bearer must not mistake memory for permission.”*
+> *"It goes cold at a doorway that was not on the last survey. Four parties have trusted it, and every one of them signed the plan outside."*
 
 ---
 

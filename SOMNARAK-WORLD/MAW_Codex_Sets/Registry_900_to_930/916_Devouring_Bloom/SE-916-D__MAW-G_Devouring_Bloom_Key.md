@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Devouring Bloom Key
 
-> *“Devouring Bloom Key remembers Devouring Bloom; the bearer must not mistake memory for permission.”*
+> *"It closes a wound and takes the years back out of the healer. A season of it is readable on their face."*
 
 ---
 

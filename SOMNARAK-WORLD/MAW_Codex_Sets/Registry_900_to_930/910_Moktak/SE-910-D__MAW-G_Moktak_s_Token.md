@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Moktak's Token
 
-> *“Moktak's Token remembers Moktak; the bearer must not mistake memory for permission.”*
+> *"Every duty the bearer has set down returns at its original weight. They end up holding the whole line's load."*
 
 ---
 

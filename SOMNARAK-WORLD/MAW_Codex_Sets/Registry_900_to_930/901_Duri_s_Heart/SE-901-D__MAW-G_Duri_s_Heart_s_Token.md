@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Duri's Heart's Token
 
-> *“Duri's Heart's Token remembers Duri's Heart; the bearer must not mistake memory for permission.”*
+> *"A chip of a heart that kept beating. The bearer's own pulse begins to read as borrowed, and they check it with a hand."*
 
 ---
 

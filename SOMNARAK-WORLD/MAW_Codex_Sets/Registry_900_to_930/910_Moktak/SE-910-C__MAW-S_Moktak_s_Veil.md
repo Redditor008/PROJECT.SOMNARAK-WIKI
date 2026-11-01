@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Moktak's Veil
 
-> *“Moktak's Veil remembers Moktak; the bearer must not mistake memory for permission.”*
+> *"The wearer can wait through anything and cannot be hurried, and a season of it leaves them unable to be moved to leave."*
 
 ---
 

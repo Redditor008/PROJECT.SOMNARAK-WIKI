@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Devouring Bloom Maul
 
-> *“Devouring Bloom Maul remembers Devouring Bloom; the bearer must not mistake memory for permission.”*
+> *"It takes a bite with every swing, and what it strikes is diminished by less than the wielder is."*
 
 ---
 

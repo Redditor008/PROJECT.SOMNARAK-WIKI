@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Breathing Stone's Edge
 
-> *“Breathing Stone's Edge remembers Breathing Stone; the bearer must not mistake memory for permission.”*
+> *"It strikes with a wall's indifference, and the wielder's own body starts to feel like a thing being leaned on."*
 
 ---
 

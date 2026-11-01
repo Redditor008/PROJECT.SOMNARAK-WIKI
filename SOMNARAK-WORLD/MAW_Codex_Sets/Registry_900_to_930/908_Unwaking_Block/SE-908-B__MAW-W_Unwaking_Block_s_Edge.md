@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Unwaking Block's Edge
 
-> *“Unwaking Block's Edge remembers Unwaking Block; the bearer must not mistake memory for permission.”*
+> *"The cut does its work on the dream register and leaves the body where it was put. Nothing struck by it has ever woken to fight."*
 
 ---
 

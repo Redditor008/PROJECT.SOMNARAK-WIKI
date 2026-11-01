@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Amnesia's Token
 
-> *“Amnesia's Token remembers Amnesia; the bearer must not mistake memory for permission.”*
+> *"A word or a face returns without its associations. The bearer recognises everyone and knows none of them."*
 
 ---
 

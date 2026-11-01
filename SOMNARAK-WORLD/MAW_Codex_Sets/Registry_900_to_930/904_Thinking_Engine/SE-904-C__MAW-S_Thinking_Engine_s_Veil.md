@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Thinking Engine's Veil
 
-> *“Thinking Engine's Veil remembers Thinking Engine; the bearer must not mistake memory for permission.”*
+> *"Grief is processed in it rather than felt, and the queue never empties. Its wearers can describe a feeling exactly and not have it."*
 
 ---
 

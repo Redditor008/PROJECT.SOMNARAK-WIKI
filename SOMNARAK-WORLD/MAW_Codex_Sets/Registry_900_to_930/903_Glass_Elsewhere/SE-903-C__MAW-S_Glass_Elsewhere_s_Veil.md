@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Glass Elsewhere's Veil
 
-> *“Glass Elsewhere's Veil remembers Glass Elsewhere; the bearer must not mistake memory for permission.”*
+> *"The wearer is hard to remember, even by themselves, and the reflection goes on moving after they stop."*
 
 ---
 

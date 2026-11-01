@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Goru's Fist's Edge
 
-> *“Goru's Fist's Edge remembers Goru's Fist; the bearer must not mistake memory for permission.”*
+> *"The blow lands like a fist that has already closed, and the wielder's hand is a little more stone for it."*
 
 ---
 

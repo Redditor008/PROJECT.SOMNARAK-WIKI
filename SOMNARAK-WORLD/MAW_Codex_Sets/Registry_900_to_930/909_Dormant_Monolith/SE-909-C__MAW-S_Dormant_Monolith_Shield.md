@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Dormant Monolith Shield
 
-> *“Dormant Monolith Shield remembers Dormant Monolith; the bearer must not mistake memory for permission.”*
+> *"The day takes as long in it as standing still takes. Its wearers come out unhurried, unmoved, and further behind each time."*
 
 ---
 

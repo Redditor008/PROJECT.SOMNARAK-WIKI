@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Eleven Fifty-Nine's Veil
 
-> *“Eleven Fifty-Nine's Veil remembers Eleven Fifty-Nine; the bearer must not mistake memory for permission.”*
+> *"Nothing has happened yet in it and nothing concludes. Its wearers cannot finish a sentence that would end anything."*
 
 ---
 

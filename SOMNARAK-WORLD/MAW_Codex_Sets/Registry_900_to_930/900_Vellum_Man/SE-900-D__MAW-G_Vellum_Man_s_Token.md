@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Vellum Man's Token
 
-> *“Vellum Man's Token remembers Vellum Man; the bearer must not mistake memory for permission.”*
+> *"A page torn out of somebody else's account. Its bearer dreams a grief that has a plot and no author."*
 
 ---
 

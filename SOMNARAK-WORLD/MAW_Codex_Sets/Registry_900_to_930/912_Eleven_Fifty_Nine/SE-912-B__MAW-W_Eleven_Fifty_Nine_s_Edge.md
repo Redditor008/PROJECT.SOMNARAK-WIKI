@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Eleven Fifty-Nine's Edge
 
-> *“Eleven Fifty-Nine's Edge remembers Eleven Fifty-Nine; the bearer must not mistake memory for permission.”*
+> *"It lands at one minute to midnight and stays there. The wielder sleeps with the light on and cannot say why."*
 
 ---
 

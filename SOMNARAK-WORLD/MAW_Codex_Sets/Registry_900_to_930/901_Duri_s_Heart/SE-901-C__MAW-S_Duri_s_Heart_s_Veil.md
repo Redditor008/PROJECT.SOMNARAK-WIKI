@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Duri's Heart's Veil
 
-> *“Duri's Heart's Veil remembers Duri's Heart; the bearer must not mistake memory for permission.”*
+> *"The wearer goes on because the crystal will not let them stop. After a season they cannot tell fatigue from stillness."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Glass Elsewhere's Edge
 
-> *“Glass Elsewhere's Edge remembers Glass Elsewhere; the bearer must not mistake memory for permission.”*
+> *"It cuts where a person is not. After enough strikes the wielder flinches at their own reflection in a window."*
 
 ---
 

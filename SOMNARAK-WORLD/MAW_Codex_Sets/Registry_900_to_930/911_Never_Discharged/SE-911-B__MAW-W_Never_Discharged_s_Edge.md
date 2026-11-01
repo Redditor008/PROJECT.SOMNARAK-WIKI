@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Never Discharged's Edge
 
-> *“Never Discharged's Edge remembers Never Discharged; the bearer must not mistake memory for permission.”*
+> *"It strikes inside the frozen instant of a medical bay, and the wielder is always the one standing over the table afterwards."*
 
 ---
 

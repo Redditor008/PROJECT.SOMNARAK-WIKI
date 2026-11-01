@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Duri's Heart's Edge
 
-> *“Duri's Heart's Edge remembers Duri's Heart; the bearer must not mistake memory for permission.”*
+> *"It strikes with a weight the body understands before the mind does, and leaves the wielder holding one more thing they cannot put down."*
 
 ---
 

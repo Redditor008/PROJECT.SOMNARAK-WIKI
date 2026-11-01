@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Grimoire's Edge
 
-> *“Grimoire's Edge remembers Grimoire; the bearer must not mistake memory for permission.”*
+> *"It writes the grievance as it lands, in ink that cannot be crossed out. The wielder reads their own history as a list of what was done to them."*
 
 ---
 

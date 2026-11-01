@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Fifty-one epigraphs in 900–916 (batch 61)
+
+The first half of the oldest range: Vellum Man through the Devouring Bloom, seventeen sets, fifty-one records.
+
+These are the pieces whose entities are hours, walls and apparatus rather than creatures, so the lines had to carry their own weather. Unwaking Block's Edge does its work on the dream register and leaves the body where it was put. The Dormant Monolith Charm lets every postponed duty go quiet until the bearer is rested and cannot account for the year. The Eleven Fifty-Nine Token fills sleep with a grief that has one minute left to happen. The Devouring Bloom Key closes a wound and takes the years back out of the healer.
+
+Fifty-one of fifty-one clear `quote_audit.py --check`.
+
+**Left:** 168 epigraphs on the formula — `917_to_930` and the whole of `1001_to_1043`.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## Thirty-nine epigraphs in 762–801 (batch 60)
 
 Grasp, the memorial flame, Swallow, Cleaved, Last Fruit, the Well of Unfinished Words, Miscast, Flotsam, the garden stone, the thousand-owner relic, the portcullis, the spire, and the mirror. The whole range, thirty-nine records.

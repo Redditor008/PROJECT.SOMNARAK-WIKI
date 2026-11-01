@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Never Discharged's Veil
 
-> *“Never Discharged's Veil remembers Never Discharged; the bearer must not mistake memory for permission.”*
+> *"The wound never resolves in it and the shift never ends. Its wearers stop expecting either to."*
 
 ---
 

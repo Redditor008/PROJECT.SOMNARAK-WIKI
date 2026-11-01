@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Grimoire's Token
 
-> *“Grimoire's Token remembers Grimoire; the bearer must not mistake memory for permission.”*
+> *"A page that fills itself. Old injuries and old resentments sharpen together until the bearer cannot say which is throbbing."*
 
 ---
 

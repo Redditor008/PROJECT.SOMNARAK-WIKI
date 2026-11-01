@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Thinking Engine's Edge
 
-> *“Thinking Engine's Edge remembers Thinking Engine; the bearer must not mistake memory for permission.”*
+> *"It turns a mind the way a dial is turned. The wielder is left with a thought they did not finish and cannot restart."*
 
 ---
 

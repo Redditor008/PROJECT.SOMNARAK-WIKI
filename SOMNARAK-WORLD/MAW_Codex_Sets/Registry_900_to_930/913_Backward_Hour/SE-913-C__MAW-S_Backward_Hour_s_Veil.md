@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Backward Hour's Veil
 
-> *“Backward Hour's Veil remembers Backward Hour; the bearer must not mistake memory for permission.”*
+> *"Every slight the wearer settles comes unsettled again by morning, and after a season they stop settling anything."*
 
 ---
 

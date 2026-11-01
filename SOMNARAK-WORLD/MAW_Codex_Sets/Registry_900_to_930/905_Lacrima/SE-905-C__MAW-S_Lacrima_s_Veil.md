@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Lacrima's Veil
 
-> *“Lacrima's Veil remembers Lacrima; the bearer must not mistake memory for permission.”*
+> *"A lid that will not seat. The wearer's self leaks slowly into the room and is not given back."*
 
 ---
 

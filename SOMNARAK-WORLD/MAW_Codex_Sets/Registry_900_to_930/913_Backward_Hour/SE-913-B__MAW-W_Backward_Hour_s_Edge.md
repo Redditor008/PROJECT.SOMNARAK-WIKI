@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Backward Hour's Edge
 
-> *“Backward Hour's Edge remembers Backward Hour; the bearer must not mistake memory for permission.”*
+> *"It takes a good thing back one step with every blow: a debt repaid, an apology accepted, a wound closed."*
 
 ---
 

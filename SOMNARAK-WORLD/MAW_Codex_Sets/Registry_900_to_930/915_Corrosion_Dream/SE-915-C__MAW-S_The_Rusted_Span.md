@@ -1,6 +1,6 @@
 # M.A.W. SUIT — The Rusted Span
 
-> *“The Rusted Span remembers Corrosion Dream; the bearer must not mistake memory for permission.”*
+> *"The span carries the wearer across and leaves behind everyone it could not take. Crossing alone becomes the ordinary case."*
 
 ---
 

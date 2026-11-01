@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Dormant Monolith Charm
 
-> *“Dormant Monolith Charm remembers Dormant Monolith; the bearer must not mistake memory for permission.”*
+> *"Every postponed duty goes quiet in it and stops counting. A season of carrying it leaves the bearer rested and unable to account for the year."*
 
 ---
 

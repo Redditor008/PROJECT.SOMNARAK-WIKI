@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Eleven Fifty-Nine's Token
 
-> *“Eleven Fifty-Nine's Token remembers Eleven Fifty-Nine; the bearer must not mistake memory for permission.”*
+> *"A stopped minute worn against the skin. It fills the bearer's sleep with a grief that has one minute left to happen."*
 
 ---
 

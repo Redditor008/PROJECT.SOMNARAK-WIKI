@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Thinking Engine's Token
 
-> *“Thinking Engine's Token remembers Thinking Engine; the bearer must not mistake memory for permission.”*
+> *"A gear off a thinking thing. It turns the bearer's grief over at night, in order, and resolves none of it."*
 
 ---
 

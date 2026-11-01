@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Lacrima's Token
 
-> *“Lacrima's Token remembers Lacrima; the bearer must not mistake memory for permission.”*
+> *"A chip of fired clay from a vessel with no maker. Words and faces slip their seat in the bearer and return without it."*
 
 ---
 

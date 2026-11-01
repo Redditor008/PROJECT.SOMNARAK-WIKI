@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Moktak's Edge
 
-> *“Moktak's Edge remembers Moktak; the bearer must not mistake memory for permission.”*
+> *"It strikes the spirit the way a hall strikes a guest: the wielder is smaller in a room that has not changed size."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Backward Hour's Token
 
-> *“Backward Hour's Token remembers Backward Hour; the bearer must not mistake memory for permission.”*
+> *"The bearer's healing runs backwards. Old injuries and old resentments sharpen each night and are no better by daylight."*
 
 ---
 

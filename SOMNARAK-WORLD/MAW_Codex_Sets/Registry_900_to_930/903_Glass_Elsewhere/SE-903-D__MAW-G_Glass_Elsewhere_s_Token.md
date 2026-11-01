@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Glass Elsewhere's Token
 
-> *“Glass Elsewhere's Token remembers Glass Elsewhere; the bearer must not mistake memory for permission.”*
+> *"A shard of somewhere else. A familiar word or face goes missing for a few seconds and comes back slightly wrong."*
 
 ---
 

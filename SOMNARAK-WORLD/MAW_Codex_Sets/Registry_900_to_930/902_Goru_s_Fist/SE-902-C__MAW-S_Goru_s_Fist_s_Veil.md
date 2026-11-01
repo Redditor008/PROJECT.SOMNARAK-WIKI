@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Goru's Fist's Veil
 
-> *“Goru's Fist's Veil remembers Goru's Fist; the bearer must not mistake memory for permission.”*
+> *"The grudge sits in the arms instead of the mind. Its wearers stand half-raised, waiting for a thing that is not there."*
 
 ---
 

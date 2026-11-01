@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Driftglass Harpoon-Pike
 
-> *“Amnesia's Edge remembers Amnesia; the bearer must not mistake memory for permission.”*
+> *"It takes the memory before it takes anything else: a street, a habit, the reason they were angry. They fight well and cannot say for what."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Never Discharged's Token
 
-> *“Never Discharged's Token remembers Never Discharged; the bearer must not mistake memory for permission.”*
+> *"Every hour of rest adds one unanswered call to the bearer's shoulders. A season of it teaches them not to rest."*
 
 ---
 

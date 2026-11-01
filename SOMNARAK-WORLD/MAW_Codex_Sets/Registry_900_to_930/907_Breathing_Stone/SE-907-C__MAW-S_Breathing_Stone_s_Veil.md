@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Breathing Stone's Veil
 
-> *“Breathing Stone's Veil remembers Breathing Stone; the bearer must not mistake memory for permission.”*
+> *"The wearer holds the line because holding is what they are made of, and cannot leave the post long enough to be treated."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Lacrima's Edge
 
-> *“Lacrima's Edge remembers Lacrima; the bearer must not mistake memory for permission.”*
+> *"It spills what a person has kept sealed, and takes a small, nameless memory out of the wielder for the spilling."*
 
 ---
 

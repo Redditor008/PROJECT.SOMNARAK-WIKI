@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Vellum Man's Edge
 
-> *“Vellum Man's Edge remembers Vellum Man; the bearer must not mistake memory for permission.”*
+> *"It cuts the story a body tells about its loss, not the body. The wielder loses a line of their own account with every strike."*
 
 ---
 

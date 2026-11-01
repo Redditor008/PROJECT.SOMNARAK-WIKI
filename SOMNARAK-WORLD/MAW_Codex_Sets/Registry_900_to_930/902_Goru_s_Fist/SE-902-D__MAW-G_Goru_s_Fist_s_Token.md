@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Goru's Fist's Token
 
-> *“Goru's Fist's Token remembers Goru's Fist; the bearer must not mistake memory for permission.”*
+> *"Old injuries and old resentments sharpen together and neither resolves. The bearer greets people with closed fists."*
 
 ---
 

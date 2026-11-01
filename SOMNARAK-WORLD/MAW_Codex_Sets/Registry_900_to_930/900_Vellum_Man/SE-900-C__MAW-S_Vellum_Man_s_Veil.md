@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Vellum Man's Veil
 
-> *“Vellum Man's Veil remembers Vellum Man; the bearer must not mistake memory for permission.”*
+> *"Any account of grief can be heard in it without being moved by one. A season of wear and the wearer cannot be moved by their own."*
 
 ---
 

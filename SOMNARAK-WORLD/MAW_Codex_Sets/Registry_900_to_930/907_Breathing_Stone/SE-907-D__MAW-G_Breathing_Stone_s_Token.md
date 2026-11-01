@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Breathing Stone's Token
 
-> *“Breathing Stone's Token remembers Breathing Stone; the bearer must not mistake memory for permission.”*
+> *"A warm fleck of breathing stone. Every load the bearer sets down is back on them by morning."*
 
 ---
 

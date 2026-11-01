@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Echoing Zweihander
 
-> *“Dormant Monolith Lens remembers Dormant Monolith; the bearer must not mistake memory for permission.”*
+> *"It cuts at what a person is meant to be doing and moves the obligation to whoever was hit. The wielder's own list empties."*
 
 ---
 

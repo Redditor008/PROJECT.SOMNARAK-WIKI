@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Grimoire's Veil
 
-> *“Grimoire's Veil remembers Grimoire; the bearer must not mistake memory for permission.”*
+> *"Every slight is entered in the body's ledger instead of the mind's. The hand steadies and the temper does not."*
 
 ---
 
