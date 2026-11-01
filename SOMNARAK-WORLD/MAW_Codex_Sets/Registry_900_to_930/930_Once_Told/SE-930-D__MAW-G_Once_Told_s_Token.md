@@ -21,14 +21,14 @@
 
 ## Appearance
 
-Once Told's Token is the stigma record of the Once Told set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's tale sorrow, crystallized into wearable form, the residue of a single telling worn as proof it happened at all. Binding names Once Told's event — Not recorded, even the registry unable to make it twice-told — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives at night: the bearer dreams in tears drawn from Once Told's sorrow and wakes with another person's grief still present, an audience of one for a story already over. The source-trace fixed doctrine: the hazard permits study, its tale pressure becoming legible under sustained observation, and the Token isolates the hazard only after attribution to Once Told. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Once Told's Token is the stigma record of the Once Told set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's tale sorrow, crystallized into wearable form, the residue of a single telling worn as proof it happened at all. Binding names Once Told's event — Not recorded, even the registry unable to make it twice-told — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the sentence: the grief the story required arrives as the bearer's own, and a season of carrying it leaves them unable to tell which losses were written for them. The source-trace fixed doctrine: the hazard permits study, its tale pressure becoming legible under sustained observation, and the Token isolates the hazard only after attribution to Once Told. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer dreams in tears drawn from Once Told's sorrow and wakes with another person's grief still present. Continued use makes Once Told's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token is a sentence about the bearer that has become true: it fills their sleep with a grief the story required them to have, and they wake with it as their own.
 
 ## ITEM-SPECIFIC HISTORY — *The Once Told Source-Trace: Stigma Record*
 

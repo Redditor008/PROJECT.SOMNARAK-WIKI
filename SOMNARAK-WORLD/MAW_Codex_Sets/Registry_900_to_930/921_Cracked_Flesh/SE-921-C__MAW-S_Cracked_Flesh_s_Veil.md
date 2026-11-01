@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Suture-Cracked Hauberk is the suit record of the Cracked Flesh set — γ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against the body register of sorrow that splits along old grievances. Binding names Cracked Flesh's event — Not recorded, the injury legible, the injurer gone — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is somatic: the wearer holds every slight in their body, reflexes stiffening, anger arriving before thought, the suit's protection traced in the same crack pattern it guards against. The source-trace fixed doctrine: the hazard recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil isolates the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Suture-Cracked Hauberk is the suit record of the Cracked Flesh set — γ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against the body register of sorrow that splits along old grievances. Binding names Cracked Flesh's event — Not recorded, the injury legible, the injurer gone — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the footing: the ground always reads as about to give, so the body braces, and a season of it leaves the wearer unable to stand still in an open room. The source-trace fixed doctrine: the hazard recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil isolates the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Suture-Cracked Hauberk is the suit record of the Cracked Flesh set — γ-gr
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.3 (Resistant) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought. Continued use makes Cracked Flesh's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil holds the grudge in the ground rather than the body: while worn, the wearer's footing is always about to crack and their reactions brace for it. Worn long, they cannot stand still in an open room.
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Suit Record*
 

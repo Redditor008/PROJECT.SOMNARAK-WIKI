@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Door to Nowhere Charm is the stigma record of the Door to Nowhere set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Door's sorrow, the effect mirroring the entity's nature: an opening acknowledged without being trusted. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is temperamental: the bearer's temper shortens, the lockdown's frustration seeping into small delays. The source-trace fixed doctrine: the Charm shows why the exit was denied, the lockdown's logic laid open at last, and it uncouples the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Door to Nowhere Charm is the stigma record of the Door to Nowhere set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Door's sorrow, the effect mirroring the entity's nature: an opening acknowledged without being trusted. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the way out: every room has an exit only the bearer can see, and a season of carrying it shortens their temper with anyone who cannot find one. The source-trace fixed doctrine: the Charm shows why the exit was denied, the lockdown's logic laid open at last, and it uncouples the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer's temper shortens. Continued use makes Door to Nowhere's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm keeps a door within reach that opens on nothing: carried, it gives the bearer a way out of every room and takes their patience for the ones who have none.
 
 ## ITEM-SPECIFIC HISTORY — *The Door to Nowhere Source-Trace: Stigma Record*
 

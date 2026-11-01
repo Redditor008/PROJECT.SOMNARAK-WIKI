@@ -29,7 +29,7 @@ Once Told's Edge is the weapon record of the Once Told set — δ-grade, Lament-
 |---:|---:|---:|---|---:|
 | Lament 11–18 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Once Told's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge makes what it touches true by saying so: each blow adds a line to the wielder's own story that they did not choose and cannot unsay. Wielded long, their account of themselves is a thing that happened to them.
 
 ## ITEM-SPECIFIC HISTORY — *The Once Told Source-Trace: Weapon Record*
 

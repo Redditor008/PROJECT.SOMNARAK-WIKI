@@ -29,7 +29,7 @@ Once Upon's Edge is the weapon record of the Once Upon set — γ-grade, Lament-
 |---:|---:|---:|---|---:|
 | Lament 14–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Once Upon's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge tells the wound as a story with a shape: each strike gives the wielder's own history a beginning, a middle and a moral it did not have. Wielded long, they cannot describe anything that happened without making it mean something.
 
 ## ITEM-SPECIFIC HISTORY — *The Once Upon Source-Trace: Weapon Record*
 

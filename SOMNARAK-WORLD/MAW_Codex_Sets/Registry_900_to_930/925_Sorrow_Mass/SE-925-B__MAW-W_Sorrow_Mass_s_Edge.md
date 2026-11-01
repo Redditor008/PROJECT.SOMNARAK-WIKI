@@ -29,7 +29,7 @@ Sorrow Mass's Edge is the weapon record of the Sorrow Mass set — ω-grade, the
 |---:|---:|---:|---|---:|
 | Weight 8–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Sorrow Mass's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge weighs as much as everything beneath it: each blow puts a fraction of that beneath the wielder's feet. Wielded long, they walk as though the floor owes them something.
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Mass Source-Trace: Weapon Record*
 

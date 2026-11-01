@@ -21,14 +21,14 @@
 
 ## Appearance
 
-Sorrow Mass's Token is the stigma record of the Sorrow Mass set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's weight sorrow, crystallized into wearable form, one grain of the Catastrophic mass small enough to carry and heavy enough to remember. Binding names Sorrow Mass's event — Not recorded, an origin buried under everything that has landed on it since — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is gravitational: the bearer moves as though carrying an invisible load that grows heavier near unresolved debt, the grain answering to every unpaid thing nearby. The source-trace fixed doctrine: the hazard permits study, its weight pressure becoming legible under sustained observation, and the Token opens the hazard only after attribution to Sorrow Mass. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Sorrow Mass's Token is the stigma record of the Sorrow Mass set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's weight sorrow, crystallized into wearable form, one grain of the Catastrophic mass small enough to carry and heavy enough to remember. Binding names Sorrow Mass's event — Not recorded, an origin buried under everything that has landed on it since — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the accumulation: every load the bearer picks up is a little heavier and setting it down returns nothing, and a season of it leaves them unable to put anything down twice. The source-trace fixed doctrine: the hazard permits study, its weight pressure becoming legible under sustained observation, and the Token opens the hazard only after attribution to Sorrow Mass. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt. Continued use makes Sorrow Mass's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token is a grain of concentrated Han: carried, it adds a little to every load the bearer picks up and returns nothing when they set it down.
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Mass Source-Trace: Stigma Record*
 

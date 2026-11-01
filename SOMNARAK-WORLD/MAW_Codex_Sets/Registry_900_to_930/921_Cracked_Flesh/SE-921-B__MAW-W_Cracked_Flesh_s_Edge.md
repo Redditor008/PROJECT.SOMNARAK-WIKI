@@ -29,7 +29,7 @@ The Awakened Marrow-Spike & Tendril is the weapon record of the Cracked Flesh se
 |---:|---:|---:|---|---:|
 | Grudge 14–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Cracked Flesh's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge opens the ground a body stands on: each blow makes the wielder's own footing read as the thing about to give. Wielded long, they stand like someone waiting for the floor to fail.
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Weapon Record*
 

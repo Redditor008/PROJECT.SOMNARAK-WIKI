@@ -29,7 +29,7 @@ Lethe's Edge is the weapon record of the Lethe set — γ-grade, Void-aligned, s
 |---:|---:|---:|---|---:|
 | Void 14–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences chronic fatigue in the dominant hand with each use. Continued use makes Lethe's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge cuts the memory before the body: each strike removes a small, nameless thing from the wielder and leaves the target's account of the fight intact. Wielded long, they are the only one who cannot say what happened.
 
 ## ITEM-SPECIFIC HISTORY — *The Lethe Source-Trace: Weapon Record*
 

@@ -29,7 +29,7 @@ Ninety Seconds's Edge is the weapon record of the Ninety Seconds set — δ-grad
 |---:|---:|---:|---|---:|
 | Void 11–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Ninety Seconds's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge cuts the same thought ninety times: each strike puts the wielder back at the beginning of one they have already had. Wielded long, they answer a question with the reply they rehearsed in the loop.
 
 ## ITEM-SPECIFIC HISTORY — *The Ninety Seconds Source-Trace: Weapon Record*
 

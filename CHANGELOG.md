@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The oldest range closes (batch 54)
+
+`918` through `930` — Ninety Seconds, Passing Bell, Once Upon, Cracked Flesh, Door to Nowhere, Sorrow Mass, Sky of Borrowed Faces, Lethe, Once Told. Twenty-seven records. `Registry_900_to_930` is now clear of the shared tail, and with it the last range that restated the old cost inside the Appearance paragraph.
+
+These sets are intervals, places and gases rather than creatures, and the costs follow: the Ninety Seconds Veil holds the wearer in an interval that will not advance, so ninety seconds pass and nothing after them arrives; Lethe's Veil clears the mind by forgetting and the forgetting reads as recovery; Once Told's Token leaves the bearer mourning a loss the story required them to have. The Passing Bell's Token makes every name the bearer has ever been given sound as though it were being read out for the last time.
+
+**Left:** 41 records, all in `1001_to_1043`.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The oldest eight sets, second half (batch 53)
 
 `909` through `916`: the Dormant Monolith, Moktak, Never Discharged, Eleven Fifty-Nine, Backward Hour, Amnesia, Corrosion Dream, Devouring Bloom. Twenty-four records, field and paragraph.

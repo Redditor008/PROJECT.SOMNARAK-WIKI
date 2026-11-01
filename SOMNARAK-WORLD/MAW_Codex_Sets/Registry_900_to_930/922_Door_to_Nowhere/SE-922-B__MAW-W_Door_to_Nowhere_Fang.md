@@ -31,7 +31,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Door to Nowhere's source sorrow feel autobiographical.
+**Operational / binding cost:** The Fang opens a door in what it hits and closes it behind: each blow makes the wielder's own way out a little less certain. Wielded long, they check behind them for the exit.
 
 ## ITEM-SPECIFIC HISTORY — *The Door to Nowhere Source-Trace: Weapon Record*
 

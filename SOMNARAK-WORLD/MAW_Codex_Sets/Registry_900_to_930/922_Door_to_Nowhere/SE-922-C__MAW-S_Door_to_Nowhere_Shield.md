@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Door to Nowhere Shield is the suit record of the Door to Nowhere set — δ-grade, Grudge-aligned, resistant to Grudge at 0.4 while running sharply weak to Void at 1.8 and Weight at 1.2, worn at 45 Sorrow Echoes a deployment — and its canonical ability prevents forced confinement briefly, the locked district's lesson inverted into an unlockable moment. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is empathic: the wearer feels every exit denied to someone else, each escape invoiced against the still-confined. The source-trace fixed doctrine: the Door tests whether the worker can stand before an opening without using it, and the Shield severs the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Door to Nowhere Shield is the suit record of the Door to Nowhere set — δ-grade, Grudge-aligned, resistant to Grudge at 0.4 while running sharply weak to Void at 1.8 and Weight at 1.2, worn at 45 Sorrow Echoes a deployment — and its canonical ability prevents forced confinement briefly, the locked district's lesson inverted into an unlockable moment. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the exit: the wearer can always leave and can bring nobody with them, and a season of it leaves them the only one who gets out. The source-trace fixed doctrine: the Door tests whether the worker can stand before an opening without using it, and the Shield severs the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Door to Nowhere Shield is the suit record of the Door to Nowhere set — δ-
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels every exit denied to someone else. Continued use makes Door to Nowhere's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shield holds a door open for the wearer and for nobody else: while worn, they can always leave and cannot bring anyone with them. Worn long, they are the only one who gets out.
 
 ## ITEM-SPECIFIC HISTORY — *The Door to Nowhere Source-Trace: Suit Record*
 
