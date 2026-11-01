@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-357 [WS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: an expansion in place. The register files an escape and the holding's own row corrects it — it does not rise, does not walk and does not pursue, and what leaves the chamber is the load, not the figure |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -146,14 +146,14 @@
 All four Work Types are available and three lower the gauge. The reading the station actually keeps is the division sheet: whether the shift's lifting was shared as written. Across 211 shifts the gauge has fallen on every shift where it was and risen on every shift where it was not, without a single exception, which is the cleanest correlation in the deep tunnels file.
 
 **Reading the response:** A falling gauge means four people did a quarter each. It rises when one person did more, when the party worked in silence past the fourth hour, and — twice — when the shift was worked by three because the fourth had been reassigned upstairs.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"Load at station one is off the sheet. He has not moved. Nobody is being hunted — get the works above cleared."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
-| **Movement** | None. It does not rise, does not walk and does not pursue; the breach is the load leaving the chamber upward through the rock. |
+| **Event Type** | Expansion — the load rising through the rock above the chamber, not the figure leaving it |
+| **Movement** | None. It does not rise, does not walk and does not pursue; the event is the load leaving the chamber upward through the rock. |
 | **Effect** | Load rises everywhere above him at once, heaviest directly overhead, where the unfinished works stand. |
 | **Secondary Effect** | Personnel at every level report a duty they are failing to discharge and cannot name. Reports come in from people who have never been in the tunnel. |
 | **First Target** | Nobody. There is no target in this holding's record and the response card is drawn from that absence: clear the works, do not deploy wardens into the tunnel. |
@@ -161,9 +161,9 @@ All four Work Types are available and three lower the gauge. The reading the sta
 
 ### Escalation Notes
 
-- **Breach type:** Escape in classification only. It does not leave and has never stood up; what escapes the chamber is the load, which rises through the rock and reaches the works above as weight.
+- **Event type (non-breach):** Expansion in place. It does not leave and has never stood up; what leaves the chamber is the load, which rises through the rock and reaches the works above as weight, and the figure has never been anywhere other than under the unfinished foundation it was poured against.
 - **Containment priority:** Clear the works above, then send one person to the ladder foot to say the words. Physical suppression has been tried twice and is the reason the order exists.
-- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% an interval while the load is unanswered. It falls only when somebody at the ladder foot says the words aloud, which is the one intervention in this holding with a measured effect.
+- **Sorrow Gauge at the event:** Opens at 40% and climbs 10% an interval while the load is unanswered. It falls only when somebody at the ladder foot says the words aloud, which is the one intervention in this holding with a measured effect.
 
 ## M.A.W. Equipment
 

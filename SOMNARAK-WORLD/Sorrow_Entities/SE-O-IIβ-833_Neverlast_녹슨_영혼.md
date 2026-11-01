@@ -43,58 +43,42 @@
 - Yield is unaffected by seniority. The only variable that has ever moved it is whether the watch was sat to its end, which is why the posting is staffed from whoever is already in the building.
 - Extraction is authorised separately and never scheduled against a watch, so that nobody has a reason to be in the room other than being in the room.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | None — the figure is motionless and has never moved. The only rate on this record is the spread's: roughly a metre a minute along the floor while the cell is empty, halting the turn somebody sits down. |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types. Nothing is rated against the spread, which is not pressure: it advances along the floor at roughly a metre a minute, it crosses the cell wall, and the only instrument that has ever halted it is somebody sitting down in the chair and staying there. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Neverlast has never moved; only the corrosion and the angle of the outstretched arm alter between cycles. Its own rust-shard row says what the file is: *nothing is launched and nothing is aimed*. What it does is hold an arm out and let the rust come off it, at about a metre a minute, onto whoever is sitting closest.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A corroded figure in Old Lament, still, with one arm outstretched and the reach held; dark tear-crystal beneath the rust |
+| **Perceptible to** | The stillness first and the overlay second — several corroded figures are catalogued here and this is the one that does not move at all |
+| **Activation threshold** | **3**, filed in the register with no unit and no decrement schedule; the operative condition this file can state is **Sorrow Gauge ≥ 60%**. Neither channel is inferred from the other |
+| **Sorrow Gauge [HP]** | 415/415 — the containment meter; it rises on absence of any kind, a cancelled watch or a return promised and not made |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone B, Old Lament — contained/ambient |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan and Ferrehan — and on this file Pugnahan is treated as a walkout |
+| **Location** | Zone B, Old Lament — contained/ambient |
 | **Resolution Condition** | Remain with it and acknowledge the abandonment; do not promise a return |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Oxidized Aura* [**Debuff**] } | "The soul is rusted — orange-brown patches on its spiritual surface — and the corrosion is spreading to you." | [The Soul's corrosion transfers to the target's own spirit; they feel oxidized.] | *Target suffers -10 Composure; their soul is rusting.* **[10 Lament DMG [Lament]]** | When the target encounters the Soul. |
-| { *The Flaking Spirit* [**Debuff**] } | "Pieces of the rusted soul flake away — and each piece carries a corroded memory." | [The Soul's decay sheds contaminated fragments; the target absorbs them.] | *Target loses 10 Composure; the rusted memories are toxic.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Rust-Shard* [**Attack**] } | "A flake comes off the left shoulder, where the flaking is heaviest, and settles on whoever is sitting closest. Nothing is launched and nothing is aimed; the figure has never struck first." | [The corrosion sheds and is carried out on the worker, which is how the fortnight of noticing every late arrangement begins.] | *Inflicts Lament pressure; the wound is a schedule recalled in order.* **[14-22 Lament DMG [Lament]]** | When a watch is sat beside it — the only contact this record contains. |
-| { *The Full Corrosion* [**Attack**] } | "The reach is held past the point where anybody could answer it, and the rust comes off the arm in a sheet." | [The holding spends a whole cycle's corrosion on the target at once.] | *A heavy corroded cloud; the target's Sorrow Gauge surges 15%, and every arrangement they are currently late for arrives in order.* **[24-36 Lament DMG [Lament]]** | When the Soul is confronted. |
-| { *The Rusted Afterlife* [**Ultimate**] } | "Everything the corrosion has ever touched begins to fatigue at once, and the air tastes of wet iron." | [The spread leaves the floor and fills the area instead.] | *All in range suffer Lament pressure for three turns of rusting spirits; nothing in range keeps an appointment on time.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What Neverlast does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Stillness* [**Register**] } | Does not move and has never moved; the corrosion and the angle of the arm are the only things that change between cycles. | The confirmation that this is the figure that does not move, which is how it is told from the others catalogued in Old Lament. | Identification is stillness plus overlay, in that order; the traced spread is the number that goes on the sheet. |
+| { *The Corrosion* [**Exposure**] } | Advances along the floor at roughly a metre a minute and transfers to whoever is closest, without leaving the figure. | A fatigue they will attribute to the shift, and an air that tastes of wet iron where the front has been. | What breaches is the corrosion and not the figure; the file records the spread as a rate and a boundary. |
+| { *The Shed Sheet* [**Exposure**] } | Sheds a flake from the left shoulder, where the flaking is heaviest, and it settles on whoever is sitting closest. Nothing is launched and nothing is aimed. | A corroded memory that was not theirs, arriving whole enough to be recognised and not complete enough to be placed. | The one place this file could have been written as a strike, and the record refuses it in the row itself. |
+| { *The Reach Held* [**Attachment**] } | Holds the arm out past the point where anybody could answer it and spends a whole cycle's corrosion doing it. | The wish to say something reassuring, which is the one prohibited sentence on this file in any form. | Attendance is the work: a watch sat in full lowers the reading for that cycle and consumes nothing, and nothing about this holding is ever finished. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Neverlast is confirmed by stillness and by the overlay, in that order. Several corroded figures are catalogued in Old Lament, and this is the one that does not move at all, is dark tear-crystal beneath the rust, and has a traced spread that grows every cycle without ever consuming anything. The position and the withdrawal route are established before the cycle opens, and the arrival time is written down on entry, because on this cell arrival is itself a measurement.
-2. **Clash:** The work is attendance. Flerehan is answering the reach and lowers the reading; Ferrehan is sitting the full watch without leaving early; Pugnahan is treated as a walkout and raises it. The one prohibited sentence is any form of "I'll come back" — a worker who says it is replaced for the cycle, and the replacement is told why in front of the figure.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Remain with it and acknowledge the abandonment; do not promise a return** — the watch sat to its end, the departure time entered against the one on the rota, and nothing said in the cell that could be read as an undertaking.
+1. **What is confirmed:** the stillness, the overlay and the traced spread against the last survey, and the departure time on the rota that the watch will be measured against.
+2. **What the watch does:** attendance. Flerehan is answering the reach and lowers the reading; Ferrehan is sitting the full watch without leaving early; Pugnahan counts as a walkout and raises it. Nobody promises a return in any wording.
+3. **How it closes:** the watch is sat to its end against the documented suppression condition: **Remain with it and acknowledge the abandonment; do not promise a return**. The gauge is entered against the cycle.
 
 ### Consequences
 
-- Nothing is channelled and nobody is destroyed. The failure is an empty chair: the reading rises on absence of any kind, and it rises whether or not the absence had anything to do with this cell.
-- Exposure is cumulative in a way the reading does not show. The gauge can sit flat for a whole rotation and the worker still comes away with a fortnight of noticing every arrangement they are late for; the watch length is therefore capped by the duty office and not by the gauge, and a worker who asks to stay longer is refused in writing.
-- The M.A.W. is never costless, and the toll is not exacted per swing: the pistol has been drawn twice in eleven years and discharged never, and the costs on file are weeping on arrival, numbness to minor joys, and time slowed inside somebody else's crisis.
-- It has never intentionally breached and has no breach protocol. Unresolved, the rust leaves the traced edge toward where the rota used to hang, the new area is permanent by the week, and the whole of the response is unchanged: somebody sits down.
+- A watch sat in full reduces the pressure for that cycle and consumes nothing. Nothing about this holding is ever finished; it is simply attended or not attended.
+- The reading rises on absence of any kind — a cancelled watch, a short one, a return that the duty log shows was promised and not made — and it rises whether or not the absence had anything to do with this cell.
+- The set carries the reach and the rust: the maul's weight that the tray scale never registers, the mantle's low fatigue, and the fragment's face that the wearer cannot describe and does not want to.
+- Unattended, the corrosion advances and the boundary moves; the figure stays where it is. There is no pursuit in this file and the reach has never closed on anybody.
 
 ## Appearance
 **Primary Form:** A motionless figure of dark tear-crystal gone orange with corrosion, one arm out, weeping. **Attitude:** it is reaching, and it was reaching before anybody arrived to see it.

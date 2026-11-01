@@ -45,57 +45,41 @@
 - No breach counter. The front is staked every session and the subsidence is surveyed quarterly: 9, 14, 19 millimetres across three years.
 - Residue is lifted from the front under separate authorisation, by a party that does not include anybody screened positive for grievance in the preceding month.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Grudge pressure, 35% against other pressure types — margin figures throughout; nothing here has ever been measured in contact, the one attempt having cost two monuments and a season of readings. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Grudge |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Patina is a discrete object that has never moved, and nobody enters the ground it is affecting — the record is read from the margin and says so in the middle of its own attack rows: *no shard flies; this holding has never struck anybody and nobody strikes it*. What it does is keep a rust front advancing through whatever is standing in it. A front is surveyed, not fought.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A mass on affected ground, held inside a staked front; nothing about it travels and nobody bears its weight |
+| **Perceptible to** | The vegetation line first, which dies back before the instruments register anything, and then the orange stain on stone, fired clay and painted timber alike |
+| **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
+| **Sorrow Gauge [HP]** | 910/910 — the containment meter, read at the stakes |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone E, Border region |
+| **Valid Work Types** | Viderehan from the margin, Ferrehan briefly and under screening |
+| **Location** | Zone E, Border region |
 | **Resolution Condition** | Acknowledge the original conflict without assigning it to the living |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Flaking Mass* [**Debuff**] } | "The weight sits on your shoulders — and with every breath, a little more of it flakes away as rust. But it never gets lighter." | [Nothing settles on anybody; nobody enters the affected ground. Read from the margin, the load rises with how long the crew stands at the line.] | *-10 Resilience in the margin workers; what the rust eats is their distance — an old wrong of their own surfaces on the way home, and exit screening exists to catch it.* **[10 Grudge DMG [Grudge]]** | When a party holds at the margin monuments through a full reading cycle. |
-| { *The Orange Stain* [**Debuff**] } | "Where the rust touches, it stains — stone, fired clay, painted timber — and it does not stop at metal." | [The front takes markers of every material indifferently; nobody bears the Weight, ever, and nothing standing on the ground can be moved once contact anchors it.] | *10 Resilience lost by the team that has to write off another marker and re-establish the stake from the district survey.* **[10 Grudge DMG [Grudge]]** | When the front crosses a marker of a material the district had not seen fail before. |
-| { *The Rust Blade* [**Attack**] } | "A flake of rust hardens — and the district learns about it from the vegetation before the instruments do." | [No shard flies; this holding has never struck anybody and nobody strikes it. The vegetation line dies back weeks ahead of the mass increase, and that is the strike — early, unhurried, and read in time or not.] | *Grudge pressure lands as grievance: a jagged inherited anger surfaces in personnel who only stood at the margin.* **[14-22 Grudge DMG [Grudge]]** | When the district above is quarrelling and the dieback has passed the staked line. |
-| { *The Structural Failure* [**Attack**] } | "The weight gives way — not from force, but from rust, and the rust has taken stone, fence and marker alike." | [Nothing is dropped and nothing implodes; the ground simply keeps the 9, 14, 19 millimetre series going down, through markers and instruments alike.] | *A heavy Crimson depth rather than an explosion; the watching crew's gauge surges 15% as another span of disputed ground becomes irreversible.* **[24-36 Grudge DMG [Grudge]]** | When a quarter's subsidence exceeds the preceding figure and the mediators are notified the same day. |
-| { *Everything Corrodes* [**Ultimate**] } | "The rust spreads to everything — stone, timber, painted markers — and it stops at no line the survey can find." | [The ground's corrosion extends across the whole front, through the markers holding it and the instruments measuring it.] | *All in range suffer Grudge pressure for three turns as the front advances.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What Patina does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Flaking Mass* [**Register**] } | Sits with its weight on the ground and does not settle on anybody. The surface flakes and the mass does not get lighter. | The reading from the margin, and the understanding that the ground under the stakes is what is being measured rather than the object. | Nobody enters the affected ground; the flaking is read at a distance and the stakes are the only instrument that matters. |
+| { *The Orange Stain* [**Exposure**] } | Takes markers of every material indifferently — stone, fence, fired clay, painted timber — and does not stop at metal. | A front that has to be restaked further out each quarter, and a survey that records it in millimetres rather than in casualties. | No worker bears the Weight at any point; the exposure in this file is to the ground, not to the body. |
+| { *The Front* [**Contagion**] } | Keeps going: 9, 14 and 19 millimetres across three years, through the markers holding the line and the structures behind them. | A subsidence series, and a boundary that is moving rather than an entity that is. | This is the expansion the Entity Type records. It is the ground advancing and not the holding leaving, which is why the quarters are comparable. |
+| { *The Original Conflict* [**Attachment**] } | Nothing. Standing at the margin for a sustained watch surfaces the worker's own old wrongs, frequently ones they had considered settled. | Grievances they had put down, picked back up, and the wish to assign one of them to somebody alive. | The resolution condition is the whole of the protection: acknowledge the conflict without handing it to the living. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first — the vegetation line dies back ahead of a mass increase and is the earliest indicator this holding has. It was first reported by a member of one of the border families, credited by name in the protocol; then the approach is set from the district road and the positions are taken at the margin monuments.
-2. **Clash:** Work is done from the margin monuments and never from inside the affected ground. Viderehan reads the rust and the vegetation line; Ferrehan holds the line briefly and heavily, and the worker is screened on the way out.
-3. **Resolution:** The session closes with containment, management, retreat, or the documented suppression condition: **Acknowledge the original conflict without assigning it to the living** — reached at the margin, in conversation, and never as a finding between the families.
+1. **What is confirmed:** the vegetation line, the orange stain, and the state of the stakes against last quarter's survey — read from the margin, because the ground inside the front is not entered.
+2. **What the watch does:** Viderehan from the margin and Ferrehan briefly under screening. The mediators are told what the ground is doing the same day, and that notification is part of the containment.
+3. **How it closes:** the original conflict is acknowledged without being assigned to the living, and the gauge falls below the threshold the quarter is held against.
 
 ### Consequences
 
-- When a worker breaks under the entity’s load, the Sorrow Gauge climbs and their **Resilience** Fractures with it—the exit screen is built to catch the first sign, which is why it is a conversation about something else and why the worker is told so beforehand.
-- Sustained standing at the margin produces the holding’s own kind of harm: workers surface old wrongs of their own, frequently ones they had considered settled, and are rotated rather than asked to resolve them—distance is the wing’s answer here, not catharsis.
-- Wielding a M.A.W. piece cut from Patina extracts the toll the file already records, whether the use was correct or not: the wielder’s old wounds ache, and prolonged use leaves faint bruising. The armory ledger carries that cost and does not treat it as a defect in the piece.
+- When a worker breaks under the entity's load, the Sorrow Gauge climbs and their **Resilience** Fractures with it — the exit screen is built to catch the first sign, which is why it is a conversation about something else and not a question about the ground.
+- Sustained standing at the margin produces the holding's own kind of harm: workers surface old wrongs of their own, frequently ones they had considered settled, and are rotated rather than asked to resolve them — distance is the treatment.
+- Wielding a M.A.W. piece cut from Patina extracts the toll the file already records, whether the use was correct or not: the wielder's old wounds ache, and prolonged use leaves faint bruising. The armoury ledger carries that cost.
 - When resolution fails, nothing spectacular follows. The mass keeps sinking, the rust keeps advancing through markers of every material, and the failure is carried quietly into the next quarterly figure.
 
 ## Appearance

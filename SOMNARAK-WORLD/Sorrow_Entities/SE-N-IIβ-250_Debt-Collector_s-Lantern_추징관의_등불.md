@@ -45,57 +45,41 @@
 - The lit radius grows by a measurable margin at the end of every failed cycle and has never contracted. The current figure, the figure at commissioning, and every step between are on one sheet in the folder.
 - Han-Energy yield scales with the lit area rather than with the quality of the work, which is the single most consequential sentence in this file and is the subject of the last section of the Watch Record.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Weight pressure, which is the Lantern’s own element, and 15% against whatever else the vault brings to bear on it |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 386/386, and the mount is where that number lives — the lantern has never been lifted off it for a reading, nor will be |
-| **Han Pressure [ATK]** | 10–23 · Weight, arriving as a showing rather than as a blow: the Lantern makes the debt visible and the weight of it does what follows |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Lantern is fixed to its mount on Collector's Row and has never been lifted off it for a reading, and its own pressure line records that what it delivers arrives *as a showing rather than as a blow*. What it does is make a debt visible until the person carrying it pays attention to it. That is a contact record's subject, and the file already reads it that way everywhere except in the section heading.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats glowing |
-| **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 35–50%; a session that opens at the upper end has generally been watched glowing for some while before anybody went in |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, Collector's Row — ambient |
-| **Resolution Condition** | Viderehan and Ferrehan only, at the fixed mount, with the gauge pulled below 25% before the cycle may be entered as a close. On Collector’s Row the order has never varied: the two Work Types do the lowering, and a gauge that came down on its own has never been accepted as a close. |
+| **Mode of presence** | A cold light on a fixed mount at the Row's floor mark; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing |
+| **Perceptible to** | Anyone inside the lit area: their own obligations, written where they can be read, including the ones they have not thought about in years |
+| **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below |
+| **Sorrow Gauge [HP]** | 386/386, and the mount is where that number lives — the lantern has never been lifted off it for a reading, nor will be |
+| **Starting Sorrow Gauge** | 35–50%, higher on the nights when the Row has more outstanding than it has managed to settle |
+| **Valid Work Types** | Viderehan and Ferrehan only, at the fixed mount |
+| **Location** | Zone C, Collector's Row — ambient |
+| **Resolution Condition** | Viderehan and Ferrehan at the fixed mount, with the gauge pulled below 25% before the cycle may be entered as a close |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Searching Light* [**Debuff**] } | "The lantern does not move; the light does — and where it settles, your debts become visible, written on your skin." | [The Lantern's beam exposes the target's obligations; they are laid bare.] | *Target suffers -10 Resolve; everything they owe is illuminated.* **[10 Weight DMG [Weight]]** | When the Lantern's light touches them. |
-| { *The Exposure* [**Debuff**] } | "The light lingers — and the longer it stays on you, the more debts it finds, and the deeper they go." | [The Lantern's scrutiny deepens; the target's hidden debts surface.] | *Target loses 10 Resolve; the debts are older and larger than they knew.* **[10 Weight DMG [Weight]]** | When the target stays in the light. |
-| { *The Burning Beam* [**Attack**] } | "The lantern brightens on one figure — and what concentrates is not heat; the light has been tested and gives none. What concentrates is the entry." | [The light settles on a single obligation and stays there until it is legible to everyone standing in the room.] | *Inflicts Weight pressure; the harm is the itemisation made public, and the threat record stands: it injures nobody and has never injured anybody.* **[14-22 Weight DMG [Weight]]** | When an obligation enters the light and is not admitted. The Lantern is not lifted, on this trigger or any other. |
-| { *The Full Reveal* [**Attack**] } | "The lantern shines at full power — every debt, every obligation, every unpaid thing, exposed at once." | [The Lantern's total illumination is overwhelming.] | *A heavy Black exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | At the close of a failed cycle, when the lit edge passes the floor mark and the obligations in the new ground become visible to bystanders. The glass has not broken in nine years and smashing is not an event this file records. |
-| { *The Spotlight* [**Ultimate**] } | "The lantern's light fills the field — and beneath it, everyone's debts are visible, and everyone owes, and everyone pays." | [The Lantern extends its illumination across the whole area.] | *All in range suffer Weight pressure for three turns under the debt-light.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Lantern does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Cold Light* [**Register**] } | Burns cold at the mount and gives no heat — tested, and it gives none. It settles on one figure at a time. | The recognition that the light has chosen them, and the first of their obligations arriving legible. | The identification is the cold light and the floor mark; confusing it with the Row's oil lamp is how reports from outside the wing begin. |
+| { *The Searching Light* [**Exposure**] } | Exposes the obligations of whoever it settles on, written on the skin, in an order the light chooses rather than the worker. | Their own debts, itemised, beginning with the ones they had stopped counting. | Nothing is being weighed by the lantern; what concentrates is the entry, and the file is careful that the light has no heat in it. |
+| { *The Deepening* [**Exposure**] } | Stays on the same figure and finds more the longer it stays: entries the worker does not regard as debts, and obligations to people who are dead. | A list that gets longer while they stand still, and the Row's characteristic state afterwards — seeing everybody they meet as a quantity. | Long exposure does not intensify the light; it itemises further. The three debriefs that use the same phrase about family are the record of it. |
+| { *The Lit Row* [**Contagion**] } | On an unresolved cycle the lit area takes in more of the Row, and the obligations inside it become visible to anyone standing there. The boundary does not come back. | A second stretch of street in the light, and everyone in it readable, whether or not they are owed anything. | This is the file's expansion by Transform, and it is why the radius is walked at the open and the close of every watch. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The cold light and the floor mark make the identification; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing. The crew takes its position and fixes its line of withdrawal before the first turn.
-2. **Clash:** Four turns at the mount, nothing but watching and holding. Nobody carries the lantern, nobody tilts it, and the radius is walked at the open and close of every turn.
-3. **Resolution (Debt-Collector's-Lantern):** The watch closes by holding, management or withdrawal, or against the documented suppression condition: **the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%**.
+1. **What is confirmed:** the cold light against the warm oil lamp, the floor mark, and the line of withdrawal fixed before the first reading — the Row's other lamp has been mistaken for this one in reports from outside the wing.
+2. **What the watch does:** four readings at the mount, watching and holding. Nobody carries the lantern, nobody tilts it, and the radius is walked at the open and the close.
+3. **How it closes:** the management condition is satisfied and the gauge falls below 25% before the cycle is entered as a close.
 
 ### Consequences
 
-- The failure mode is itemisation. A worker who cannot hold has their own obligations read out to them in full, including the ones they have not thought about in years and the ones they do not regard as debts.
-- Long exposure produces the Row's characteristic state: the worker begins to see everybody they meet as a quantity, and three debriefs use the same phrase about family — *I could see what they came to.*
-- The Vigil equipment lights what the wearer owes before it lights anything else. Every ledger entry for this holding records the wearer's own figure at the moment of activation, and those figures are not redacted.
+- The failure mode is itemisation. A worker who cannot hold has their own obligations read out to them in full, including the ones they have not thought about in years and the ones they do not regard as debts at all.
+- Long exposure produces the Row's characteristic state: the worker begins to see everybody they meet as a quantity, and three debriefs use the same phrase about family — *I could see what they came in owing*.
+- The Vigil equipment lights what the wearer owes before it lights anything else. Every ledger entry for this holding records the wearer's own figure at the moment of activation.
 - Unresolved, it expands by Transform: the lit area takes in more of the Row, the obligations inside it become visible to anyone standing there, and the boundary does not come back.
 
 ## Appearance

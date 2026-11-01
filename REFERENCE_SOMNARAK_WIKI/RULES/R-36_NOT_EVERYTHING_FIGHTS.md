@@ -61,7 +61,10 @@ meets this thing*, and that function survives even when the fight does not.
   where the dossier already has them (a Composure cost, a gauge threshold, a count of what was
   taken); nothing is converted into damage against a target, because there is no target.
 - **`### Watch Sequence`** in place of `### Battle Phases`, with the same three movements — what is
-  confirmed, what the watch does, how it closes — written as a watch rather than a clash.
+  confirmed, what the watch does, how it closes — written as a watch rather than a clash. The close
+  names the file's **documented suppression condition** in its own wording and in the colon form
+  `condition: **…**`, because `R-29`'s condition clause and `wikistd.py` read it from there; a
+  Watch Sequence that paraphrases it silently drops the dossier out of the nine-section parity.
 - **`### Consequences` stays**, unchanged. It was never the template's.
 
 **The Sorrow Gauge stays and keeps its band.** `R-36` removes an attack line, not the entity's

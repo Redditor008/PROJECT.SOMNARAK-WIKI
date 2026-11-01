@@ -45,58 +45,42 @@
 - No breach counter exists. Activation remains the hand on the rim with listening spoken aloud, recorded once; the gauge at 60 per cent is only the field escalation threshold. The delay lengthens rather than any boundary expanding, and it is clocked at the station every session because a delay cannot be noticed by someone standing inside it.
 - Residue recovery is separately authorised and has been granted twice in sixty years, both times to the Menders and both times refused on review before the second grant was made.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% where the pressure is Void; each of the other registers meets 15%, and the first of those two figures is what the district pays for, since what Unrung hands back is absence and not force. Resistance is never judged by ear from inside the field: hand signals only, the arrival delay clocked by the clerk outside it, and no striking to test whether the field persists. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 · marked line, the reading belonging to the line and not to the bell, which is the only distance this file permits |
-| **Han Pressure [ATK]** | 7–16 · Void, counted by arrival instead of by strike, the warning reaching the worker some time after the moment it was given |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Unrung is a bell on a plinth that has not moved, sounded or left its mount in twenty-four years, and the reading is taken eight metres away on a marked line rather than at the object. The old attack rows had to say so: *the bell does not move*, and what arrives arrives late. Its hazard is a delay, and a delay is measured, not fought.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats not ringing |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50%, with the watch writing down which end of the band the session opened at, a high opening usually meaning the warning has already been answered once |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Mode of presence** | A bell on a plinth, read from a marked line eight metres out; the reading belongs to the line and not to the bell |
+| **Perceptible to** | The absence of a sound that should have come — the bell is heard as lateness before it is heard at all |
+| **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
+| **Sorrow Gauge [HP]** | 415/415 · marked line — the number belongs to the measurement station rather than to the bell |
+| **Starting Sorrow Gauge** | 35–50%, with the watch writing down which end of the band the session opened at; a high opening usually means the warning has already been answered late |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, near the Orphaned Bell |
-| **Resolution Condition** | The Ferrehan session is completed on the marked line, the operative's account is taken separately at the station, the arrival delay is clocked, and any warning surfaced is assigned to a named person with authority to act. A low gauge alone does not close the session: the gauge and the delay answer separate questions. |
+| **Location** | SECTOR-A-01, near the Orphaned Bell |
+| **Resolution Condition** | The Ferrehan session is completed on the marked line, the operative's account is taken separately at the station, and the arrival delay is clocked against the fortnight's closed warnings |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Held Breath* [**Debuff**] } | "The bell should be ringing — but it is not, and the silence is worse than any sound." | [A worker who waits for a ring to certify the session stands inside the delay with nothing arriving; performed listening has never moved it.] | *The worker gains a Void mark. Stop waiting for sound: return to hand signals and let the station clerk clock the arrival delay from outside the field.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker waits for the Bell to ring instead of working the clocked session. |
-| { *The Swallowed Sound* [**Debuff**] } | "You try to speak — and the bell eats your words before they leave your mouth." | [Speech inside the field arrives thinned and late, at the wrong distance; calling out only lengthens the confusion.] | *The speaker loses the thread of their own sentence. Stop talking, change to hand signals, and let the station log the signal against its timestamp.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker speaks or calls out inside the field instead of using hand signals. |
-| { *The Silent Toll* [**Attack**] } | "There is no swing and no sound, and the impact reaches you a moment after it has already happened to you." | [The bell does not move. Forced or prolonged contact makes the bearer's own perceptions arrive out of order, each sensation filed after the next.] | *Inflicts Void damage as acute disorientation. End contact by the detachment protocol — hand off the rim, out along the marked line, account at the station — and never by pulling the hand away by force.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When rim contact is prolonged past two minutes or the hand is removed by force. |
-| { *The Absent Peal* [**Attack**] } | "Every sound it should have made at the hour it should have made them, delivered at once, twenty-four years late and in absolute silence." | [A delay past thirty seconds is not an event in the chamber; it is the clock reporting how this facility has been closing its warnings.] | *Heavy Void pressure on everyone still working the line. Close the session by hand signals, verify clock and clerk, and open the documents search: every warning closed in the preceding fortnight with no acknowledgement in any recipient's own hand, listed by reference number.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the clocked arrival delay exceeds thirty seconds. |
-| { *The Eternal Silence* [**Ultimate**] } | "The bell stops every sound in the field — and nothing in the room can be answered in time." | [At the escalation threshold the field takes every voice in range at once; nobody inside it can tell how long it has lasted.] | *All in range suffer Void erosion for three turns. Withdraw along the marked line on hand signals only, cassock on to the boundary, and give separate accounts at the station before speaking to anyone else present.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 60%. |
+| Event | What the bell does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Held Breath* [**Register**] } | Does not ring. One point nine seconds is the baseline delay between a reference tone being struck at the plinth and being heard at the station; the recorded range runs from zero to forty-one. | The wait itself, entered in the log, and the certainty — with no sound to contradict it — that the session has not started. | The delay is the whole of the identification: Unrung and the Orphaned Bell are indistinguishable by eye at any range, and four written confusions are on record. |
+| { *The Swallowed Sound* [**Exposure**] } | Takes speech in the field and gives it back thinned and late, at the wrong distance. Nothing is struck and nothing is broken. | Their own voice arriving after they have finished speaking it, which is the first sign the gauge is climbing. | Calling out across the field is not a way to be heard sooner; the file's method is that the station records the interval and nobody shouts. |
+| { *The Late Impact* [**Exposure**] } | Nothing. On forced or prolonged contact the field delivers what has already happened — the impact reaches the worker a moment after it has happened to them. | The event twice, once in the body and once in the hearing, and no way to tell which one they are in. | The bell has never moved and never sounded; the impact is a delay arriving, not a blow landing. |
+| { *The Absent Peal* [**Contagion**] } | Past thirty seconds of delay, delivers every sound it should have made at the hours it should have made them, at once, twenty-four years late and in absolute silence. | A room in which nothing can be answered in time, and a warning that has already expired by the time it is heard. | It has never escalated: the delay has lengthened and shortened for twenty-four years and the escalation model is reconstruction. This row is what the model says, not what the bell has done. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Clock the arrival delay at the fixed station and confirm designation C-IIβ-170 before positions are taken and the session opens. Unrung and the Orphaned Bell are indistinguishable by eye at any range; four written confusions are on record despite that briefing.
-2. **Clash:** Viderehan and Ferrehan only. The reading is the arrival delay: a reference tone is struck at the plinth and the listening station eight metres out records the interval before it is heard at all. One point nine seconds is baseline. The recorded range is zero to forty-one.
-3. **Resolution:** The watch closes at the station, not at the plinth: three honest strikes clocked, the operative's account taken separately before they speak to anyone else present, the delay entered against the fortnight's closed warnings, and any warning surfaced put into a named hand with authority to act. A low gauge with a long delay is written up as exactly that and nothing more.
+1. **What is confirmed:** the arrival delay clocked at the fixed station and designation `C-IIβ-170` confirmed before positions are taken — with the plinth and the Orphaned Bell both in sight, because the two cannot be told apart without the file.
+2. **What the watch does:** Viderehan and Ferrehan on the marked line, a reference tone struck at the plinth, the station eight metres out recording the interval before it is heard at all, and no shouting across the field.
+3. **How it closes:** three honest strikes clocked, the operative's account taken separately before they speak to anyone else present, the delay entered against the fortnight's closed warnings, and any warning surfaced put into a named hand with authority to act on it.
 
 ### Consequences
 
-- Composure fails here as lateness. The worker begins hearing their own speech arrive after they have finished saying it, loses the thread, and raises the gauge by their own distress rather than by anything the bell does.
-- Long exposure produces a worker who escalates everything. Nine Wardens rotated off this holding were afterwards recorded as going over a desk's head on matters well below the hazard threshold, and the directorate's objection to the containment rule names all nine by number.
-- The set takes hearing, presence and spoken words, each for about a day. The armoury enters the costs in a single line and adds underneath that no bearer has ever asked for the brooch's countersignature provision to be withdrawn.
-- It has never escalated. The delay has lengthened and shortened for twenty-four years and the bell has not moved, not sounded, and not left the plinth; the escalation model below is reconstruction and is labelled as such throughout.
+- Composure fails here as lateness. The worker begins hearing their own speech arrive after they have finished saying it, loses the thread, and raises the gauge by their own distress rather than by anything the bell did.
+- Long exposure produces a worker who escalates everything. Nine Wardens rotated off this holding were afterwards recorded as going over a desk's head on matters well below the hazard threshold.
+- The set takes hearing, presence and spoken words, each for about a day. The armoury enters the costs in a single line and adds underneath that no bearer has ever asked for the brooch's countersignature.
+- It has never escalated. The delay has lengthened and shortened for twenty-four years and the bell has not moved, not sounded, and not left the plinth; the escalation model below is reconstruction and is labelled as such.
 
 ## Appearance
 **Primary Form:** A bell identical in shape to the Orphaned Bell but completely silent. Its surface absorbs sound instead of producing it.

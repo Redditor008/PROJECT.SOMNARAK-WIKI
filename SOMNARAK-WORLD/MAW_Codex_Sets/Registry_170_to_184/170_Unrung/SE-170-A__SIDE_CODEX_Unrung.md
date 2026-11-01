@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | SECTOR-A-01, near the Orphaned Bell |
 | Form | A pale silent bell shaped like the Orphaned Bell, absorbing sound instead of making it—the Bell’s hushed twin. |
-| Gauge / pressure | 35–50% / Void 8–20 |
+| Gauge / pressure | 415/415; starts 35–50% · Void — no attack pattern: the bell has not moved or sounded in twenty-four years, and the reading is the arrival delay at the marked line (Contact Record, R-36) |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Heard Warning |
 

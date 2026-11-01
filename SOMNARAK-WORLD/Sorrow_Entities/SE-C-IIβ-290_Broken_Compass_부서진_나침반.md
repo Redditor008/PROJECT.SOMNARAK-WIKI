@@ -45,59 +45,42 @@
 - No breach counter. The influenced radius widens; bearings taken inside it are discarded, never corrected, after three withdrawn maps.
 - Extraction is separately authorised and takes casing residue only. The needle is not touched under any authority.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure; 15% against everything else. Nothing is rated against the spinning itself, which is not an attack: the instrument is read from a cradle at a distance, and the 25 describes the pressure that comes off a compass nobody is holding. Working protection is that distance — cradle mounting, timed counts, bearings inside the radius discarded rather than corrected, and no contact with a destination spoken aloud. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 369/369 |
-| **Han Pressure [ATK]** | 9–23 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Compass sits in a cradle and nobody holds it — that is the first paragraph of the method and the reason the cradle exists. Its own needle-strike row had to be written around the finding that answers when the case is knocked: *nothing launches and nothing is aimed*, which the file calls worse. A device whose failure is a direction rather than a blow needs a reading record.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — the same turn, repeated, for as long as the record goes back |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, mounted in a cradle and never lifted out of it |
+| **Perceptible to** | The needle: it has not settled in centuries, and it answers a hand at the cradle long before it answers anything else |
+| **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
+| **Sorrow Gauge [HP]** | 369/369 — the containment meter, read from the cradle; holding the instrument alters the figure, which is why nobody does |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-D-01, Forge District |
-| **Resolution Condition** | Cradle mounting — the only close a Broken Compass cycle has. |
+| **Valid Work Types** | Viderehan and Ferrehan only — a timed revolution count from the cradle, and sitting with a spinning instrument for the interval without picking it up |
+| **Location** | SECTOR-D-01, Forge District |
+| **Resolution Condition** | Cradle mounting — the only close a Broken Compass cycle has |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Spinning Needle* [**Debuff**] } | "The compass needle spins wildly — and watching it, your sense of direction comes apart." | [Nobody holds it. Read from the cradle, the needle still couples to the watcher: it spins faster for an uncertain handler, which makes it an instrument for measuring the person counting it.] | *The handler suffers a Void mark to Composure. Certainty is entered before and after the count, shown to nobody who writes rosters, and the counselling referral is automatic.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a handler takes the timed count while carrying an undecided question of their own. |
-| { *The Wrong Way* [**Debuff**] } | "It points — but at nothing, at the void between directions — and following it leads nowhere." | [The needle does not settle; it slows, briefly, toward a concentration of grief. The harm begins when somebody treats that slowing as information about the way.] | *The handler loses Composure. The slowing is logged with its orientation and never plotted; any bearing influenced by it is discarded, not corrected.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a slowing is read as a bearing — plotted, corrected, or followed — instead of entered unplotted. |
-| { *The Needle-Strike* [**Attack**] } | "The case is knocked — and what answers is not aimed at anyone. That is worse." | [Impact detaches the needle; nothing launches and nothing is aimed. The instrument simply stops being an instrument in the one way the file has never had to record.] | *Heavy Void pressure on Composure. End the session, widen the discard radius, and do not touch the needle — it is not touched under any authority; the case was opened once in three hundred years.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Compass is struck or knocked in its cradle — prohibited at all times and never a Work response. |
-| { *The Full Disorientation* [**Attack**] } | "Every direction becomes the wrong one simultaneously — and the wrongness is a void." | [The Compass is not shattered; it is never struck. What fails together is every bearing taken inside the radius on the day somebody decides to salvage one.] | *A heavy Void wave through Composure. The corrected bearing and every map that took it are withdrawn — three already have been — and the stations are re-sited outside the widened radius.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a bearing taken inside the influenced radius is corrected and used instead of discarded. |
-| { *No One Knows Where They Are* [**Ultimate**] } | "Every compass in the field breaks — and without direction, everyone is simply lost." | [No other compass breaks; the discard radius itself fails, and bearing stations re-sited outside it begin returning unusable readings.] | *All in range suffer Void erosion for three turns of being lost. Widen the radius on the evidence, re-site every station, discard the affected bearings uncorrected, and keep the discharge trigger unapproached.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥60% activation threshold and outside bearings start failing beyond the current discard radius. |
+| Event | What the instrument does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Spinning Needle* [**Register**] } | Turns without settling, in a case whose crack is warm while the metal around it is not. It couples to the worker who watches it and to nothing else in the room. | A sense of direction coming apart at the edges, and the certainty that the needle is answering them rather than north. | The needle's revolutions and its slowings are the measurement; both are counted from the cradle and neither is a strike. |
+| { *The Wrong Way* [**Exposure**] } | Points at the void between directions. It does not settle and it does not aim; it slows, briefly, toward a concentration of whatever is out there. | A bearing that can be followed and leads nowhere, and the growing wish to follow it. | The slowings are logged with their times; a needle that steadies is the warning, not the relief. |
+| { *The Knocked Case* [**Exposure**] } | Nothing. Impact detaches the needle and the instrument simply stops, and what answers is not aimed at anyone — which the file records as worse than a strike. | A directionless room, and a crew that no longer agrees with its own map. | The compass is never shattered and never struck; the case is not to be knocked, and the reason is in this row rather than in a damage figure. |
+| { *The Discard Radius* [**Contagion**] } | At the escalation threshold the radius itself fails rather than any other compass: bearings go together, and the ground stops agreeing with the map the crew brought in. | Every direction wrong at once, in everyone inside the radius, with no instrument to check it against. | No other compass breaks. The file's own instruction is that the radius is the event and the instrument is only where it is measured. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is matched against the file: a tarnished brass case cracked and warm at the crack while the metal round it is bloodless-cold, a needle that has not settled in centuries, and a face carrying no markings at all. The designation is checked, the cradle is verified before the timer starts, and the handler's certainty is entered before anything else is done.
-2. **Clash:** Nobody holds it. Viderehan is a timed revolution count from the cradle; Ferrehan is sitting with a spinning instrument for the interval and not picking it up. Holding the compass alters the figure, which is the first paragraph of the method and the reason for the cradle.
-3. **Resolution:** The watch closes on containment, management, retreat, or the suppression condition this file documents: **cradle mounting — the only close a Broken Compass cycle has**. The condition is met when the instrument is back in the cradle, the revolutions and slowings are entered unplotted, the discard radius has been widened where the evidence called for it, and the discharge trigger has not been approached; a bearing corrected instead of discarded is the one ending the file treats as a failure.
+1. **What is confirmed:** the marker against the file — tarnished brass, warm at the crack, cold metal round it, a face with no markings at all, a needle that has not settled in centuries — and the cradle verified before the count begins.
+2. **What the watch does:** nobody holds it. Viderehan is a timed revolution count from the cradle; Ferrehan is sitting with a spinning instrument for the interval and not picking it up.
+3. **How it closes:** on cradle mounting — the instrument back in the cradle, the revolutions and the slowings entered unplotted, and the gauge closed below 25%.
 
 ### Consequences
 
 - A failed resist at the instrument goes straight into the handler's bearings: **Composure** drains while the needle keeps turning, and the Gauge takes up the room that leaves.
 - Minutes add up on the wrong side after the recommended cycle: drift first, then Fracture, then the ground stops agreeing with the map the crew brought in.
-- The set takes three different things and field work confirms each separately: the weapon's nameless memories, the veil-wearer's faint absence from themselves, and a charm that can refuse a direction but never offer one. No reading from this instrument is handed over free.
-- If the resolution condition goes unmet, nothing is released and nobody is holding anything: the count series and the radius simply continue into the next sheet, and the one discharge that could change the state remains theoretical, unperformed, and unapproached.
-
+- The set takes three different things and field work confirms each separately: the weapon's nameless memories, the veil-wearer's faint absence from themselves, and a charm that can refuse a direction.
+- If the resolution condition goes unmet, nothing is released and nobody is holding anything: the count series and the radius simply continue into the next sheet, and the one discharge that could change them is not something this file can schedule.
 
 ## Appearance
 **Physical Form:** A broken compass whose needle spins without settling. Its casing is cracked and warm.

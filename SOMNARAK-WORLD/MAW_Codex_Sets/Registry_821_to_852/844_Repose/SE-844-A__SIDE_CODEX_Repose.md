@@ -22,7 +22,7 @@ The Ruin formed from a settlement that died while its survivors continued mourni
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone B, Old Lament — ambient             |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 910/910; starts 60–80% · Lament — no attack pattern: recumbent, never risen, never pursued; what moves is the dream and the structures it holds (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | Formation event | An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent. |
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-844 [N]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: an expansion in place. The register files an escape and the holding's own row refuses it — nothing has ever risen, walked or pursued, and what propagates is the dream through the structures it is holding up |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -43,58 +43,42 @@
 - A yield of 20–28 at Severe difficulty is drawn from a sleeping Critical-tier holding by workers who must remain quiet throughout. The limiting factor is not stamina or protection but noise discipline, and it degrades with fatigue long before anything else does.
 - Extraction means taking material from the rubble a sleeping person is built out of, by hand, without tools that make noise. It is scheduled separately, performed by the smallest practicable party, and abandoned at the first change in the figure's breathing.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — recumbent; it has never risen, walked or pursued. Measure breathing at 10–12/min, posture, sound floor and the standing-structure survey. |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Establish the sound floor and breathing rate before approach, use hand signals and the smallest practicable party, and bring no powered equipment, alarm or Astral-Disc into the Old Lament. Tell personnel which surveyed buildings are dream-held; stop at any breathing change and close only after the dead are acknowledged below the floor. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Repose is recumbent — it has never risen, never walked and never pursued, and the file says the breach classification is the register's rather than the holding's. What moves is the dream, outward through the structures it has been holding up. The record's own instruction is that this is not to be fought: twenty-four turns beside something that does not fight back and must not be made to.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A sleeping figure among the Old Lament rubble, breathing barely, holding up the structures it lies in |
+| **Perceptible to** | The breath, the sound floor of the area, and the half-visible architecture of what it is dreaming |
+| **Activation threshold** | **1** — a single failed cycle wakes it. Read beside **Sorrow Gauge ≥ 90%**; the count has never run down and the waking has never been observed |
+| **Sorrow Gauge [HP]** | 910/910 — the containment meter, read at the perimeter against the sound floor |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone B, Old Lament — ambient |
+| **Valid Work Types** | Flerehan and Ferrehan, quietly, with the names read at the close |
+| **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Do not wake it; reduce noise and acknowledge the dead |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Ancient Breath* [**Debuff**] } | "The ruin breathes — barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages." | [The sleeper's measured exhalation carries the settlement's exhaustion through the quiet perimeter; the figure does not wake or target anyone.] | *Personnel inside the sound floor suffer -10 Clarity. Record breathing at 10–12/min, limb position and arrival sound floor by hand signal before any work begins.* **[10 Lament DMG [Lament]]** | When the approach party first takes the breathing and sound-floor readings inside the Old Lament perimeter. |
-| { *The Dreaming Stone* [**Debuff**] } | "In its sleep, the ruin dreams of what it was — a temple, a fortress, a home — and the dreams manifest as half-visible architecture." | [The survey finds personnel inside one of the standing structures absent from every pre-collapse plan; its walls are being held by the sleeper's dream.] | *Personnel in that structure lose 10 Clarity. Mark it against the 56-building survey, tell the occupants what is holding it up, and move by hand signal without striking or testing the fabric.* **[10 Lament DMG [Lament]]** | When a worker is identified inside a dream-held building or a previously standing surveyed structure changes between readings. |
-| { *The Falling Capital* [**Attack**] } | "A carved capital — the top of a column — shakes loose in the ruin's sleep and drops." | [Handling the rubble that forms the sleeper or a dream-held wall lets real and dreamed fabric fail together.] | *Inflicts Lament pressure and one heavy structural wound. All handling stops silently; check breathing first, then compare the affected building with both independent surveys before anyone re-enters.* **[14-22 Lament DMG [Lament]]** | When personnel touch, move or extract rubble from the figure or a dream-held structure. |
-| { *The Full Awakening* [**Attack**] } | "The ruin wakes — and the first thing it does is remember what it was, and the memory is devastating." | [Projected, never-observed response: a resolution violation changes the breathing and the settlement's final day returns through every dream-held structure at once.] | *Heavy Lament pressure; no personnel Gauge surge is inferred. Freeze all movement and machinery, restore the sound floor, and acknowledge the dead by recovered name and exact remainder. This protocol is untested, not a proven recovery.* **[24-36 Lament DMG [Lament]]** | When excavation across the sleeper or an alarm, powered tool or raised voice breaks the sound floor and alters the 10–12/min breathing. |
-| { *The Waking City* [**Ultimate**] } | "Every ruin in the field awakens — and the combined recollection of forgotten history crushes everything." | [At breach threshold the dream stops holding the surveyed settlement evenly; collapse risk propagates through the 56 dream-held buildings rather than through every ruin in the world.] | *All personnel inside surveyed dream-held structures suffer Lament pressure for three turns. Evacuate silently by level and hand signal, keep the names reading below the floor, and do not use Pugnahan, alarms or powered rescue tools.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90% while the dream remains load-bearing. |
+| Event | What Repose does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Ancient Breath* [**Register**] } | Breathes barely — a slow exhalation of dust and millennia — and the breath carries the weight of forgotten ages. It does not otherwise move. | The sound floor of the area, established before anything else is done, and the certainty that everything that follows depends on it staying where it is. | The breath is both the identification and the constraint; the whole file is written around not adding to it. |
+| { *The Dreaming Stone* [**Exposure**] } | Dreams of what it was — a temple, a fortress, a home — and the dream shows as half-visible architecture standing in the rubble. | Surfaces that can be walked on and structures that only hold while it is asleep. | The dream is what supports the ground; there is nothing here to strike and striking it is what the file exists to prevent. |
+| { *The Falling Capital* [**Exposure**] } | Nothing. A carved capital works loose in the sleep and drops; the handling of rubble is what disturbs it, not the ruin. | A collapse hazard of their own making, in a place where the floor is held up by a dream. | The one injury route on this file runs through the workers' hands rather than through the holding. |
+| { *The Waking City* [**Contagion**] } | **Projected and never observed:** at the threshold the dream stops holding the settlement evenly, and every ruin in range remembers what it was at once. | A recorded breach nobody has seen, which the file enters as reconstruction and instructs personnel to treat as unobserved rather than as known. | This is why the response is silence: any protocol requiring an alarm, a klaxon or a raised voice is counter-indicated, and noise is treated as the hazard. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team locates the sleeping figure among the Old Lament rubble, establishes the sound floor of the area, confirms that no powered equipment is present, and agrees the withdrawal signal — which is given by hand, not by voice.
-2. **Clash:** Twenty-four turns beside something that does not fight back and must not be made to. The only live contests are noise, fatigue and the urge to intervene: breathing, sound floor, dream-held structures and first-person attribution are checked while Pugnahan, alarms, powered tools and the Astral-Disc remain prohibited.
-3. **Resolution:** The cycle closes quiet: noise held down across the whole perimeter, the dead acknowledged by name where the names are known, and the sleep left unbroken. The file writes its own condition into the registration — **do not wake it; reduce noise and acknowledge the dead** — and everything about the site is arranged around the first clause, including the survey work that goes on around the sleeper rather than across it.
+1. **What is confirmed:** the sleeping figure among the rubble, the sound floor of the area, the absence of powered equipment, and a withdrawal signal that is given by hand rather than by voice.
+2. **What the watch does:** twenty-four turns beside something that does not fight back and must not be made to. The live contests are noise, fatigue, the structures the dream holds, and the temptation to attribute the dream to somebody in the room.
+3. **How it closes:** quiet held down across the whole perimeter, the dead acknowledged by name where the names are known, and the sleep left unbroken.
 
 ### Consequences
 
-- Resistance failure channels the entity’s sorrow directly into the worker, destroying their **Clarity** and feeding the Sorrow Gauge.
-- Prolonged exposure puts personnel inside the dream rather than beside it. Workers relive a collapse that is not theirs and report the ground becoming unsafe underfoot, and the reports are not metaphorical — the architecture around this holding is partly dreamed, and which parts is not always established in advance.
-- Every piece drawn from the Ruin charges in sleep. The disc lights what cannot be seen and leaves its wielder weeping while awake; the Pillow guards the wearer's memory against collapse and fills their nights with every ruin they have ever walked past; the Charm takes its payment after the shift, from a bearer who weeps in their sleep and does not know it until they are told.
-- Failure here has one specific meaning: it wakes. What follows is recorded in the breach section and has never been observed, because the threshold has never been reached — and personnel should treat an unobserved breach protocol as an untested one rather than as a reassurance.
+- A failed cycle has one meaning here: it wakes. What follows is filed as reconstruction, has never been observed, and is treated as unobserved rather than as known.
+- Long attendance produces the file's own fatigue: workers report the rubble moving under them when it has not, and are sat down rather than argued with.
+- The set is quiet in the same way and for the same reason: the shroud holds silence, the fragment keeps the dust off, and neither is permitted within the perimeter once the sound floor is set.
+- Unresolved, the dream keeps holding the structures up and the reading stays where it was. Nothing ruptures and nothing leaves; the perimeter is walked again at the next quarter.
 
 ## Appearance
 **Primary Form:** A sleeping humanoid built out of the ruins of a struck-off Outside Sorrow settlement — broken timber, collapsed stone and ash fused into a resting body. **Respiration:** ten to twelve a minute, unvarying across the whole record, and the first thing measured on every entry.
@@ -145,13 +129,13 @@
 None of the four rows above means anything torn out of context; the element, the coherence and the manifestation together decide what each Work Type can do here, and the notes below are as far as the wing's understanding goes on that. Repose is a Subject with Subject-Lament manifestation and Lament expression, held ambient in Old Lament at Zone B, and no assumption from any other holding in the register transfers to it. The caution that matters most is written for the quiet ones: a watch can close with every reading flat and still put a worker in the position of having dreamed somebody else's ruin all the way home.
 
 **Reading the response:** Flerehan brings the gauge down and the figure sleeps more peacefully as the ruins settle — grief shared quietly is the one thing this holding has ever been observed to accept. Ferrehan brings it down by endurance: the test is whether the worker can remain near sleeping grief, which sounds undemanding and is not, because nothing happens for twenty-four turns and the pressure is entirely the worker's own urge to do something. Viderehan holds level and shows the settlement's final day, which is valuable for the record and changes nothing here. Pugnahan raises the gauge and turns the dream into a collapse, and personnel should understand what that means literally: the structures around them are partly dreamed, and the dream is where the damage lands first.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"Repose is stirring. It has not risen. Stop everything that makes a noise and get the names read."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
+| **Event Type** | Expansion — the dream propagating outward through the structures it holds, not the figure leaving |
 | **Movement** | It does not rise and does not walk. What moves is the dream, outward through the structures it has been holding up, and what follows the dream is the collapse of whatever it stops holding. |
 | **Effect** | Cold grief in waves, draining Clarity, strongest in personnel standing inside a dreamed building at the time. |
 | **Secondary Effect** | A keening that is not from the figure's mouth but from the timber and stone of the body, and which registers on the acoustic log before anyone hears it. |
@@ -160,9 +144,9 @@ None of the four rows above means anything torn out of context; the element, the
 
 ### Escalation Notes
 
-- **Breach type:** Escape in the register's classification only. Nothing has ever left: the figure has never risen, and what propagates in a breach is the dream, through the structures the dream is holding up.
+- **Event type (non-breach):** Expansion in place. Nothing has ever left: the figure has never risen, and what propagates is the dream, through the structures the dream is holding up.
 - **Containment priority:** Silence and acknowledgement, and nothing else. The standard response is counter-indicated at every point: Pugnahan turns the dream destructive, a Warden detail moving at speed through rubble is the loudest thing the Old Lament will hear that week, and sealing corridors around a holding whose dreams are holding those corridors up is self-defeating. Reduce noise to the established floor, stand personnel still, and have someone read the count of the settlement's dead aloud, quietly. The management condition is three instructions and all three are about volume.
-- **Sorrow Gauge on breach:** Indexed to sound and to acknowledgement. Rises 10% for every alarm, klaxon, powered tool or raised voice within the Old Lament, measured at the figure rather than at the source. Falls 10% each time the settlement's dead are acknowledged aloud below the sound floor. A silent response holds it level; a conventional emergency response — which is loud by design — drives it up faster than anything the entity does.
+- **Sorrow Gauge at the event:** Indexed to sound and to acknowledgement. Rises 10% for every alarm, klaxon, powered tool or raised voice within the Old Lament, measured at the figure rather than at the source. Falls 10% each time the settlement's dead are acknowledged aloud below the sound floor. A silent response holds it level; a conventional emergency response — which is loud by design — drives it up faster than anything the entity does.
 
 ## M.A.W. Equipment
 
@@ -403,7 +387,7 @@ The person who carried the settlement into sleep is the file's central figure an
 
 ### Structural Collapse
 
-In a breach the facility fabric comes down around it, and the response plan is evacuation by level rather than by wing, because the failure propagates vertically. The plan was rewritten after a drill revealed that the original horizontal scheme assumed floors that would not be there. The rewrite was substantial, took most of a year, and was conducted by the engineering staff rather than by operations, which is recorded in the file as the correct allocation and as a departure from standard practice that should be repeated anywhere else the hazard is the building.
+In an escalation event the facility fabric comes down around it, and the response plan is evacuation by level rather than by wing, because the failure propagates vertically. The plan was rewritten after a drill revealed that the original horizontal scheme assumed floors that would not be there. The rewrite was substantial, took most of a year, and was conducted by the engineering staff rather than by operations, which is recorded in the file as the correct allocation and as a departure from standard practice that should be repeated anywhere else the hazard is the building.
 
 ### Quiet Observation
 

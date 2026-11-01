@@ -43,58 +43,42 @@
 - Yield is low and steady at 10–14, drawn from the tension rather than from the work, so a well-run cycle and a poor one return almost the same figure.
 - Extraction is authorised separately and takes fibre, never tension. Every piece in the set holds its shape as though something were pulling on the other end of it.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Grudge pressure and 5% against everything else — low figures for something that is never struck, only held |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 204/204 |
-| **Han Pressure [ATK]** | 3–9 per hit · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Rope hangs taut at its post with nothing at the far end of it, and it has never travelled: the attitude moves and the rope does not. Its own rows had to be written around that — *nothing touches your wrist*, *no strands leave the chamber*. What it does is extend a wait into a room and put an absent name in front of whoever is already holding one.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A single end standing taut at its post, in a wing of bound and knotted holdings; only this one is taut with nothing on the other end |
+| **Perceptible to** | The tension itself, and the name the observer thought of without being asked |
+| **Activation threshold** | **4**, and the count runs down on promises: each undertaking given inside the radius takes one, whoever gives it and whoever it is given to, and the fourth brings the Corrupt event. Read beside **Sorrow Gauge ≥ 45%**; either channel fires activation and neither overrides the other |
+| **Sorrow Gauge [HP]** | 204/204 — the containment meter, read at the post and at the doorway |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone A, Alpha Tree |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan and Ferrehan — naming the wait, tightening it, sight reading and endurance, in that order of risk |
+| **Location** | Zone A, Alpha Tree |
 | **Resolution Condition** | Do not promise return; release the rope consciously |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Slipknot* [**Debuff**] } | "Nothing touches your wrist, and the pressure is already there." | [The single end stays at its post; attention closes around one absent name.] | *Target suffers -10 Resilience; the wait has found its hold.* **[10 Grudge DMG [Grudge]]** | When the target begins waiting for someone. |
-| { *The Tightening* [**Debuff**] } | "The promise is still active in the room, and thought keeps making room for it." | [The line tautens at its fitting; thought narrows around the expected return.] | *Target loses 10 Resilience; each return to the thought is harder to leave.* **[10 Grudge DMG [Grudge]]** | When the target cannot end the wait aloud. |
-| { *The Fray* [**Attack**] } | "One wait becomes many: every unanswered bond pulls at once." | [No strands leave the chamber; separate expectations surface together.] | *Inflicts Grudge pressure as many thin stings of recollection.* **[14-22 Grudge DMG [Grudge]]** | When the waiting is resisted rather than named. |
-| { *The Hanging* [**Attack**] } | "The present drops away beneath the one still holding on." | [Attention is lifted out of the room toward the absent return; the body is not touched.] | *A heavy Crimson strain; the target's Sorrow Gauge climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | When an undertaking inside the radius pulls the line taut. |
-| { *Every Knot Undone* [**Ultimate**] } | "Everybody present is holding a line that is not there." | [The rope remains at its post while the waiting extends through the radius.] | *Grudge pressure presses on everyone for three turns while the waits are sustained.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Rope does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Taut Line* [**Register**] } | Stands taut at the post with nothing at the far end. It is not reached for; it is already in the room with anyone who is waiting for somebody. | The recognition that the wait they are carrying has been in the room since before they arrived. | Identification runs on the single end and the tension; other bound holdings sit in this wing and none of them is taut. |
+| { *The Absent Name* [**Exposure**] } | Closes attention around one absent name without touching the worker — nothing lands on the wrist and no strand leaves the chamber. | Thought narrowing to one expected return, and every undertaking given inside the radius counted against the threshold. | The pressure is Grudge and it arrives through attention rather than contact, which is why the worker's own account is the instrument. |
+| { *The Extended Wait* [**Contagion**] } | Extends the waiting outward from the chamber while the rope stays exactly where it is. Personnel inside the radius begin holding a line that is not there. | A room in which everybody is waiting for somebody, and a radius that has to be walked to be known. | The waiting is what moves; the file is explicit that the rope does not travel, and the boundary is recorded rather than the object. |
+| { *Every Knot Undone* [**Overload**] } | One wait becomes many: every unanswered bond inside the radius pulls at once, and the body is still not touched. | The present dropping away beneath the one thing they are still holding on to. | At the escalation threshold the radius is the event. Nothing is released and nobody is holding anything: the wait simply extends into the next sheet. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification runs on the single end and on the tension itself. Other bound and knotted holdings sit in this wing; only this one stands taut with nothing at the far end of it. The designation is checked against the classification table; only then are the approach and the standing marks fixed, in that order.
-2. **Clash:** The Rope does not have to be reached; it is already in the room with anyone who is waiting for somebody. Work proceeds by Flerehan and Ferrehan — naming the wait, then enduring it without taking hold — while Pugnahan tightens the one thing it is meant to loosen. The gauge tracks what the team is privately hoping for rather than what it is doing.
-3. **Resolution:** The watch finishes in containment, in retreat, in management, or on the register's suppression condition for this holding: **Do not promise return; release the rope consciously**. The clause governs the whole watch: nothing on this ground promises anybody back, and the line is let go by hand rather than dropped.
+1. **What is confirmed:** the single end, the tension, and designation against the classification table — other bound and knotted holdings sit in this wing, and only this one stands taut with nothing at the far end of it. The name the observer thought of is asked for and may be declined.
+2. **What the watch does:** Flerehan and Ferrehan — naming the wait, then enduring it without taking hold. Pugnahan is permitted and tightens the one thing it touches; every undertaking spoken inside the radius is logged with its wording and counted.
+3. **How it closes:** the rope is released consciously and nobody promises a return. The count against threshold 4, the tension and the bearing at open and close, and every undertaking given are entered in the post-contact review.
 
 ### Consequences
 
 - If a wait is taken up rather than ended aloud, **Resilience** falls for as long as it is sustained; every undertaking spoken inside the radius also counts toward threshold 4.
-- Extended exposure does not injure the body, and that is the difficulty: a worker can stand a full shift beside the Rope and come out unmarked and attached. The attachment is to somebody absent, usually somebody real, and it strengthens quietly past the recommended cycle. Workers are stood down when they begin checking whether a message has arrived.
-- The beam, the plate and the knot each carry the same expectation out of the Rope and into the wearer, and expectation is not spent by being moved. What the M.A.W. gives is an awareness of bonds that were never returned, the wearer's own included. Nothing here is extracted for free; the cost is paid in a currency the body does not register.
-- If the release is not made consciously, nothing dramatic follows. The Rope stays held, the worker leaves still holding it, and the encounter is recorded as unresolved rather than failed. Unresolved encounters accumulate against the worker who had them, and the record shows that they do not accumulate against anyone else.
+- The set takes what holding costs: the band names who the wearer is waiting for, the shroud quiets the room, and the cord tightens what the bearer has already promised. Each is entered separately in the armoury ledger.
+- If the release is not made consciously, nothing dramatic follows. The Rope stays held, the worker leaves still holding it, and the encounter is recorded as unresolved rather than failed. Unresolved encounters accumulate against the next watch's count.
+- The wing's own rule governs the whole file: nothing on this ground promises a return, and the language used in the room is part of the containment rather than a courtesy.
 
 ## Appearance
 **Primary Form:** An empty rope-shaped figure that watches from the edge of consciousness. It has no visible hands or face.
