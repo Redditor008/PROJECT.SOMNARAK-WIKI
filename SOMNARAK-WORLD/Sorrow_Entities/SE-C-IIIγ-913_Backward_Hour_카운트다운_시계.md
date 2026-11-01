@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Grudge. No clock has been stopped, removed or replaced during an occurrence; the one attempt to unplug a face in Year 4,230 left it running backward on no power for the remaining eleven minutes. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 478/478 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 17–25 per hit · Grudge |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

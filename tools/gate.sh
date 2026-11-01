@@ -55,6 +55,7 @@ check "[PASS] 0 timeline contradictions"                 python3 tools/timeline_
 check "[PASS] 0 semantic seams"                          python3 tools/seam_lint.py
 check "BROKEN TOTAL: 0"                                  python3 tools/check_links.py
 check "[PASS] 0 label or code-tag violations found!"     python3 tools/label_lint.py
+check "OVERALL STAT BANDS: PASS"                         python3 tools/check_stat_bands.py
 check "RESULT: PASSED"                                   python3 tools/text_box_double_checker.py
 
 if [ -f tools/tests/test_linters.py ]; then

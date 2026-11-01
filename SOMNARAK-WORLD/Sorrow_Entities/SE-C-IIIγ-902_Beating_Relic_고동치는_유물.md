@@ -55,7 +55,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 427/427 — read at the plinth and again in the hand; the figure tracks the bearer’s pulse rather than the watch. |
+| **Sorrow Gauge [HP]** | 500/500 — read at the plinth and again in the hand; the figure tracks the bearer’s pulse rather than the watch. |
 | **Han Pressure [ATK]** | 17–26 on every strike · Grudge, taken off the beat rather than off the blow |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

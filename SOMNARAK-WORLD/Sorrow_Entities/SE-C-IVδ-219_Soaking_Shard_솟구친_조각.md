@@ -55,7 +55,7 @@
 | **Speed** | N/A — fixed object; output is measured by sump volume, chalked wetted margin, profile-gauge height and withdrawal readings |
 | **Resistance** | 45 per cent against Lament pressure and 35 against anything else, with the file's own note that the shard does not strike: it seeps, it is rooted in the floor, and what a worker actually resists is the pull of a sealed grief found still moving. Work from the marked standpoint behind the chalk with two inside and one outside on clock/sump; do not touch crystal or runoff, strike/shatter it, or fill, fuse, cap or polish over the crack. A mourning worker withdraws, the volume ledger takes that withdrawal as a reading, and a dry period follows. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 650/650 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 30–66 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
@@ -470,7 +470,7 @@ The safety office's objection is on the file and has never been answered. The co
 
 - Some of the film runs up the faces rather than down, which the engineers log and have stopped trying to explain.
 - A released vision stops when the chamber empties, and the volume it took is never recovered at the sump.
-- The figures below are written as numerals so the register can find them: gauge 650/650, pressure 30–66 per hit, battle length 24 turns, the channel timings 10 / 30 / 60 / 120 seconds, a 4 per cent acquisition line on the pendant, and 2 pieces per issue.
+- The figures below are written as numerals so the register can find them: gauge 750/750, pressure 30–66 per hit, battle length 24 turns, the channel timings 10 / 30 / 60 / 120 seconds, a 4 per cent acquisition line on the pendant, and 2 pieces per issue.
 
 
 

@@ -21,7 +21,7 @@ A spent Hope Bearer’s figure wanders an outer Zone D shelter, hostile to aband
 |---|---|
 | Coherence / Potency | IV / γ |
 | Element | Grudge |
-| Gauge / Pressure | 683/683; starts 65–80% / 18–41 Grudge |
+| Gauge / Pressure | 750/750; starts 65–80% / 18–41 Grudge |
 | Movement / Resistance | 1.8 m/s / 40% Grudge, 25% other |
 | Resolution | Sustained Ferrehan: a light that stays now and promises no forever |
 
@@ -41,7 +41,7 @@ Honest Flerehan may remain stable; false comfort escalates. Pugnahan feeds its f
 | R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 65–80% |
 | Activation threshold | 2 |
-| Sorrow Gauge [HP] | 683/683 |
+| Sorrow Gauge [HP] | 750/750 |
 | Han Pressure [ATK] | 18–41 per hit · Grudge |
 | Speed | 1.8 m/s |
 | Resistance | 40% against Grudge pressure; 25% against other pressure types |

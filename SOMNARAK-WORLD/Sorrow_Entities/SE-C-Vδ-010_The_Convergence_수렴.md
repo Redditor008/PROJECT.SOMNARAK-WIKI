@@ -54,7 +54,7 @@
 | **Speed** | 2.80 m/s |
 | **Resistance** | 50% against Weight. Untested and untestable — nothing has been struck in any of the three formations, because every second available was spent on the separation. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 977/977 |
+| **Sorrow Gauge [HP]** | 1000/1000 |
 | **Han Pressure [ATK]** | 25–53 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

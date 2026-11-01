@@ -27,7 +27,7 @@
 | **Risk tier** | Major (γ) |
 | **Entity role** | High-Altitude Acoustic Hazard |
 | **Primary pressure** | Auditory Rupture / Void Composure Shred |
-| **Starting Sorrow Gauge** | 740/740 |
+| **Starting Sorrow Gauge** | 750/750 |
 | **Han-Energy yield** | 15–20 Han-Energy per acoustic harmonic dampening |
 | **Work difficulty** | High · R.D. Comprehension Level 3 |
 | **Activation threshold** | Wind shear exceeding 40 knots |
@@ -52,7 +52,7 @@
 | **Speed** | 1.8 m/s |
 | **Resistance** | 70% against Void; 50% against Lament; 30% against Weight; Weak to Grudge (0% resistance) |
 | **Activation threshold** | Operatives entering within 100 meters |
-| **Sorrow Gauge [HP]** | 740 / 740 |
+| **Sorrow Gauge [HP]** | 750 / 750 |
 | **Han Pressure [ATK]** | 20–35 per burst · Void (Acoustic piercing) |
 | **Coherence modifier** | IV — Complex acoustic synchronization |
 | **Potency modifier** | γ — Deadly to unarmored personnel |

@@ -55,7 +55,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 50% against Lament pressure; 40% against other pressure types as formal ratings. Working protection is the series itself: two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal and no question ever put to it. No field has been measured to resist against; the figures are prophylactic, not observed. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 600/600 |
+| **Sorrow Gauge [HP]** | 1000/1000 |
 | **Han Pressure [ATK]** | 29–64 per hit · Lament |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

@@ -53,8 +53,8 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Lament. There is nothing present to resist — the sector is open ground — and what arrives in it has the properties of whatever was described, which is why the resistance column has never been usable here. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
-| **Han Pressure [ATK]** | 14–22 per hit · Lament |
+| **Sorrow Gauge [HP]** | 750/750 |
+| **Han Pressure [ATK]** | 30–38 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

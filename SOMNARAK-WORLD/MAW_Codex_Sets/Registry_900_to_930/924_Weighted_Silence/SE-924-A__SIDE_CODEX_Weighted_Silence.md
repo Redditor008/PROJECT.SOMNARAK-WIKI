@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Void |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / SECTOR-O-924, contained |
-| Gauge / Pressure | 438/438; starts 35–50% / 17–24 per hit · Void |
+| Gauge / Pressure | 500/500; starts 35–50% / 17–24 per hit · Void |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

@@ -11,6 +11,7 @@ tools/
 ├── README.md                                 # This document
 ├── audit_lore_archive.py                     # Master archive auditor (blocking merge gate)
 ├── check_box_symmetry.py                     # Text box width and border symmetry checker
+├── check_stat_bands.py                       # Sorrow Gauge / Han Pressure inside the risk tier band
 ├── timeline_lint.py                          # Pan-repo canon timeline & chronological validator
 ├── seam_lint.py                              # Semantic seam, editing-splice, and PM term linter
 ├── box_formatter.py                          # TablesGenerator-based 74-col grid table and ASCII box generator
@@ -33,6 +34,7 @@ tools/
 | :--- | :--- | :--- |
 | **`audit_lore_archive.py`** | Master audit across UTF-8, codices, 291 SEs, 198 MAW sets, auxiliary collections, and box symmetry. Blocks merge if any sub-check fails. | `python3 tools/audit_lore_archive.py [--json] [--verbose]` |
 | **`check_box_symmetry.py`** | Audits ASCII text boxes across all markdown files for row-length and display-width symmetry. | `python3 tools/check_box_symmetry.py [--fix]` |
+| **`check_stat_bands.py`** | Every Sorrow Entity's filed `Sorrow Gauge [HP]` and `Han Pressure [ATK]` against the risk tier band of Conversion Guide §III. Tier is filed by score (Coherence rank + Potency grade). Fails on a missing row, an HP base under the floor, or an ATK range wholly under it; prints HP bases over the ceiling and counts ranges that straddle the floor, without rescaling either. Kind Echo `C-Iα-000` is the one exempt record. | `python3 tools/check_stat_bands.py [--verbose \| --strict]` |
 | **`timeline_lint.py`** | Scans all files pan-repo for chronological contradictions against the Year 4,238 / Cycle 1,778 baseline. | `python3 tools/timeline_lint.py` |
 | **`seam_lint.py`** | Detects revision splices, punctuation collisions (`.,`), and un-whitelisted PM terminology. | `python3 tools/seam_lint.py` |
 | **`generate_canonical_metrics_registry.py`** | Inspects filesystem on disk to regenerate authoritative `CANONICAL_METRICS.json` and `CANONICAL_METRICS.md`. | `python3 tools/generate_canonical_metrics_registry.py` |

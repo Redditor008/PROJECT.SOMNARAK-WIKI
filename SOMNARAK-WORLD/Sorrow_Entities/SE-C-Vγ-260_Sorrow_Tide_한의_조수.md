@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Weight. The figure describes a person standing in it and nothing else; there is no body, no boundary and nothing to strike, and the column is kept because the almanac uses it to advise shelter thresholds. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 709/709 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 14–31 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

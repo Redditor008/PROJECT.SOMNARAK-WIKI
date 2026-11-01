@@ -54,8 +54,8 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Grudge pressure; 21% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 482/482 |
-| **Han Pressure [ATK]** | 14–26 per hit · Grudge |
+| **Sorrow Gauge [HP]** | 750/750 |
+| **Han Pressure [ATK]** | 30–42 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

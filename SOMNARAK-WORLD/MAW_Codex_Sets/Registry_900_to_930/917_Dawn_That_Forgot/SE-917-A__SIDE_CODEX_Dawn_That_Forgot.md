@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / SECTOR-N-917, contained |
-| Gauge / Pressure | 464/464; starts 35–50% / 17–29 per hit · Void |
+| Gauge / Pressure | 500/500; starts 35–50% / 17–29 per hit · Void |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

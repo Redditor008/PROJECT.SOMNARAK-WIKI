@@ -55,7 +55,7 @@
 | **Resistance** | 50% against Weight pressure; 40% against other pressure types. Resistance buys distance work only: the exclusion radius is set from the gauge, the route ahead is cleared rather than defended, names are spoken at contact, and consecutive tours are limited by roster because exposure accumulates across tours. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 2600/2600 |
-| **Han Pressure [ATK]** | 22–48 per hit · Weight |
+| **Han Pressure [ATK]** | 50–76 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

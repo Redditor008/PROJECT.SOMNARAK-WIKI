@@ -55,7 +55,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Lament. Nothing has been attempted against the casing; it is a working mechanism and the two proposals to stop it were refused on the ground that nobody can say what it is computing. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 404/404 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 17–23 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

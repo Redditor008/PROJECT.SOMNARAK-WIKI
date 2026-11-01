@@ -53,7 +53,7 @@
 | **Speed** | 1.8 m/s |
 | **Resistance** | 40% against Grudge. Against anything carrying a Hope signature it resists nothing at all and closes the distance instead — the only entity in the Zone D ledger whose resistance profile is better read as a preference. |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 683/683 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 18–41 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

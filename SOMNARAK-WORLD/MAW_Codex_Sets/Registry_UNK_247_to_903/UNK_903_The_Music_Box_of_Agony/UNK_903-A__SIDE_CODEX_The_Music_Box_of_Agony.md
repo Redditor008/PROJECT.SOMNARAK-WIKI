@@ -21,7 +21,7 @@ A black-and-white music box with pink lining loops the same comfort song until l
 |---|---|
 | Coherence / Potency | II / γ |
 | Element / Location | Void with Lament surface / Echo Gardens acoustic vault |
-| Gauge | Starts 45–65% |
+| Gauge / Pressure | 420/420; starts 45–65% / 12–20 per note · Void |
 | Trigger | Lid opened or one full recitation heard |
 | Valid Work | Viderehan and Ferrehan only |
 | Resolution | Endure one recitation and speak the listener’s own name at its close |
@@ -40,6 +40,8 @@ A black-and-white music box with pink lining loops the same comfort song until l
 | Location | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
 | R.D. Comprehension Level | 3 — Elevated |
 | Starting Sorrow Gauge | 45–65% |
+| Sorrow Gauge [HP] | 420/420 |
+| Han Pressure [ATK] | 12–20 per note · Void |
 | Activation threshold | The lid is opened, or the lullaby is listened to beyond one full recitation |
 
 ## M.A.W. SET — *Name After the Lullaby*

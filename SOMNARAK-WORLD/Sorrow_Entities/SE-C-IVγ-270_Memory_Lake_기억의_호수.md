@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed basin; output is measured as margin displacement in centimetres per month from fixed stations |
 | **Resistance** | 40% against Lament pressure, 30% against every other kind. Pressure ratings do not replace the working safeguards: fixed stations only, paired conversation, scenes attributed to nobody, immediate rotation after recognition, and no entry or contact |
 | **Activation threshold** | None recorded. The margin moves monthly without reference to the gauge, which has never preceded a movement |
-| **Sorrow Gauge [HP]** | 683/683 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

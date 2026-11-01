@@ -55,7 +55,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 50% against Void. The figure is formal. Nothing has been swung at this door and nothing will be; the Keepers' standing order calls any contact with the face an incident regardless of intent. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 750/750 |
+| **Sorrow Gauge [HP]** | 1000/1000 |
 | **Han Pressure [ATK]** | 25–55 per hit · Void |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

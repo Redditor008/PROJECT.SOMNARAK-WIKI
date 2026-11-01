@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Grudge. The ground has been cut, lifted and replaced in one square metre as a trial; the replacement cracked in the same pattern within eleven days and the trial has not been repeated. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 423/423 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 17–23 per hit · Grudge |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

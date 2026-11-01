@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 40% against Void, which is what the walls are made of; 30% against everything else, and the second figure has never been reached by an entrant who stayed on the line |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 683/683 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -421,7 +421,7 @@ Line length is set at the start of each cycle by a joint determination between t
 ### Registry Trivia
 
 - **Classification detail:** Labyrinth of Stolen Faces is an Object/Place with Entity (IV) — Self-aware, labyrinthine, trapping coherence and Major (γ) potency.
-- **Field detail:** Void is the defining element and the registered location is SECTOR-B-02, beneath Old Lament. The sheet stands at 683 / 683 with a starting gauge of 45–65 %, a yield of 16–22, resistance at 40 / 30 %, a 20-turn encounter and the ultimate waiting at 65 %.
+- **Field detail:** Void is the defining element and the registered location is SECTOR-B-02, beneath Old Lament. The sheet stands at 750 / 750 with a starting gauge of 45–65 %, a yield of 16–22, resistance at 40 / 30 %, a 20-turn encounter and the ultimate waiting at 65 %.
 - **Recognition detail:** Identify it by the walls. Several structures are catalogued beneath Old Lament; this is the one whose walls are translucent, hold faces, and move when somebody remembers something.
 - **Record detail:** Check the designation before entry. More than one undercroft record stores memory, and they differ on the decisive point — this one must be navigated from paper, not from recall.
 - **Containment detail:** The entity does not need to breach to be dangerous. It rearranges whenever anybody inside remembers anything, including personnel who entered to check the seals, and the containment reading is the corridor count to the anchor rather than the state of the entrance.

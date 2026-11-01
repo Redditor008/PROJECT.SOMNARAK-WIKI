@@ -54,7 +54,7 @@
 | **Speed** | Lead-slow — an old man's pace on a straight run, unvarying in direction; it has never pursued and cannot catch anybody walking away from it. The rate on this record is the traverse count, about 600 a season against the chalk tally. |
 | **Resistance** | 45% against Weight pressure; 35% against other pressure types — and on this holding the second figure is untested, because nothing here has ever needed to resist anything but the floor giving way. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 600/600 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 25–54 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
@@ -376,7 +376,7 @@ Some sorrows are personal. This one is a schedule. It is not the shape of a city
 
 ### Each Step Adds a Year
 
-Walking Calendar accumulates. Layers of stone, calendars, and worn city records compose the body, and each step adds another year to it, which makes the entity's mass a function of its movement rather than of time. The chamber is accordingly built long rather than large: a single straight run, surveyed, with the distance from end to end recorded and the entity's traverses counted. The traverse count is the holding's primary instrument and the only one that has ever predicted a gauge excursion from the 600 baseline. Crews describe reading it as watching an argument the city is having with itself at walking pace.
+Walking Calendar accumulates. Layers of stone, calendars, and worn city records compose the body, and each step adds another year to it, which makes the entity's mass a function of its movement rather than of time. The chamber is accordingly built long rather than large: a single straight run, surveyed, with the distance from end to end recorded and the entity's traverses counted. The traverse count is the holding's primary instrument and the only one that has ever predicted a gauge excursion from the 750 baseline. Crews describe reading it as watching an argument the city is having with itself at walking pace.
 
 ### Singing in Dates
 

@@ -54,7 +54,7 @@
 | **Speed** | 2.45 m/s |
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the sound, which is not an attack: suppression equipment does not touch it, and every wearer hears it exactly as clearly as they did without protection |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 700/700 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 30–65 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

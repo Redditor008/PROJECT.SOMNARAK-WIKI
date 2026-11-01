@@ -54,7 +54,7 @@
 | **Speed** | N/A — the figure is stationary; output is measured by flicker rate, slip count, and whether the Corrupt pulse reaches paired observers |
 | **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band on the register, and the file's reason is that nothing here is aimed: the vault leaks rather than strikes, so a crew holds against the room. The safeguards are two observers together, absolute silence with written slips, no responder alone, no face transcription, no Pugnahan or attempted erasure, and each operative stating their own name aloud on exit. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 620/620 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 22–48 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
@@ -396,7 +396,7 @@ It looks at the living as future memories, and this is the holding's defining di
 
 ### Final Moments of Peace
 
-Under Flerehan it shows final moments of love, acceptance, or peace, and the gauge falls from its 620 baseline. The material it shows is specific, and the observers who have received it describe it as the only unambiguously good thing in the Entity-grade files. Under confrontation it releases a wave of fear and regret, drawn from the same collection, and the wing's prohibition on Pugnahan is accordingly phrased more strongly here than anywhere else in the wing. The protocol's wording is unusually direct: the entity holds every ending the city has produced, and provoking it is asking for the worst of them.
+Under Flerehan it shows final moments of love, acceptance, or peace, and the gauge falls from its 750 baseline. The material it shows is specific, and the observers who have received it describe it as the only unambiguously good thing in the Entity-grade files. Under confrontation it releases a wave of fear and regret, drawn from the same collection, and the wing's prohibition on Pugnahan is accordingly phrased more strongly here than anywhere else in the wing. The protocol's wording is unusually direct: the entity holds every ending the city has produced, and provoking it is asking for the worst of them.
 
 ### The Endings It Keeps
 
@@ -448,7 +448,7 @@ Three instructions govern the passing. Pass every name; a part-passed return has
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 620/620, pressure 22–48 per hit, resistance 45 / 35 per cent, threshold 90 per cent, the disc at 10–15 and 50 Echoes, the veil at 45, the token at 4 per cent and +3, 4 conferrals, the flicker at 6.4 against 4.6 two years before, and 11 years of the older instruction logged unperformed.
+- The register keeps its own figures in numerals for look-up: gauge 750/750, pressure 22–48 per hit, resistance 45 / 35 per cent, threshold 90 per cent, the disc at 10–15 and 50 Echoes, the veil at 45, the token at 4 per cent and +3, 4 conferrals, the flicker at 6.4 against 4.6 two years before, and 11 years of the older instruction logged unperformed.
 
 - It remembers deaths that no document contains.
 - It has never shown a final moment twice to the same observer.

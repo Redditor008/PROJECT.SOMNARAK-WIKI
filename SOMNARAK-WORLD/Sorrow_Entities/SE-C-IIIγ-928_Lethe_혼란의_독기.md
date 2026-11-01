@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Void. There is nothing to strike; the holding is a density in the air and the only physical barrier that has ever affected it is a closed stair door, which slows the rise by about a fortnight per level. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 458/458 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 17–26 per hit · Void |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

@@ -46,9 +46,9 @@
 
 | Repository Scope | Programmatic File Count |
 | :--- | :--- |
-| **`SOMNARAK-WORLD/` Subtree** | **1899 files** |
+| **`SOMNARAK-WORLD/` Subtree** | **1902 files** |
 | **`docs/` Publishing Subtree** | **4 files** |
-| **Total Non-Git Repository Files** | **3031 files** |
+| **Total Non-Git Repository Files** | **3036 files** |
 
 ---
 

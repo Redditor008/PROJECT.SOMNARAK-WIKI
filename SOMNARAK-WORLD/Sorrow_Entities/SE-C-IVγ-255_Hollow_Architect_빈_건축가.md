@@ -54,7 +54,7 @@
 | **Speed** | 2.30 m/s |
 | **Resistance** | 40% against Weight pressure and 30% against everything else — resistance that lives in the design rather than in the frame |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, or any attempt to complete a structure |
-| **Sorrow Gauge [HP]** | 690/690 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 14–32 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

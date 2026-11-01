@@ -54,7 +54,7 @@
 | **Speed** | 2.45 m/s |
 | **Resistance** | 45% against Grudge pressure and 35% against everything else — resistance carried by the static rather than by anything that can be reached |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 680/680 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 24–52 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
@@ -390,7 +390,7 @@ What it produces is partial information, and partial information is its hazard. 
 
 ### Reforming the Whisper
 
-Under Flerehan the whisper reforms and becomes audible, and the gauge falls from its 680 baseline. This is the only condition under which the entity completes anything, and what it completes is a warning about a Han-storm to a caravan that is long since beyond warning. Workers who have received the completed message describe it as unbearable in a way that the fragments are not, which is the inverse of what the wing expected and is now stated plainly in the briefing. Under confrontation the dream-space collapses into red static, which ends the session, injures the worker, and teaches nothing. Pugnahan is prohibited and has not been attempted in a long time.
+Under Flerehan the whisper reforms and becomes audible, and the gauge falls from its 750 baseline. This is the only condition under which the entity completes anything, and what it completes is a warning about a Han-storm to a caravan that is long since beyond warning. Workers who have received the completed message describe it as unbearable in a way that the fragments are not, which is the inverse of what the wing expected and is now stated plainly in the briefing. Under confrontation the dream-space collapses into red static, which ends the session, injures the worker, and teaches nothing. Pugnahan is prohibited and has not been attempted in a long time.
 
 ### The Scout
 

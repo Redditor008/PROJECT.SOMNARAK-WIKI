@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Lament. There is nothing to resist and no instrument has ever registered the hour; the station's whole apparatus is a roster, a chair and a notebook per observer. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 465/465 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 17–29 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

@@ -54,7 +54,7 @@
 | **Speed** | 2.15 m/s |
 | **Resistance** | 35% against Grudge pressure; 25% against other pressure types. Resistance is never a licence to argue: response teams are screened for open grievances, nobody opens or answers in kind, fittings are load-checked on the gauge schedule, and both Sisters are read within the hour of any spike here. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 459/459 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 10–24 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |

@@ -41,6 +41,20 @@
 
 > The Music Box does not attack. Its hazard is the lullaby: a listener who hears the full recitation begins to circle the same "carousel of agony" the song describes — heart vanishing, self forgetting — until they fade.
 
+### Core Stat Line
+
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+
+| Stat | Value |
+|---|---|
+| **Speed** | 0 m/s — the case sits where it is put; the figurine turns on its post |
+| **Resistance** | 0 per cent against every element it has been read for — Weight, Void, Lament and Grudge alike. The case is ordinary craftsmanship and the record keeps the destruction test unfiled rather than calling it favourable; what the box does not resist is being listened to. |
+| **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
+| **Sorrow Gauge [HP]** | 420/420 |
+| **Han Pressure [ATK]** | 12–20 per note · Void (Acoustic emptying) |
+| **Coherence modifier** | II — repeats one lullaby without variation; response is the same at the thousandth playing as at the first |
+| **Potency modifier** | γ — one full recitation takes a piece of self-memory, and three take the listener |
+
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |

@@ -53,9 +53,9 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 683/683 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |
+| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 750/750 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 683/683 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -463,7 +463,7 @@ The wing clerks asked for one thing. Where a number falls to nil, let the people
 ### Registry Trivia
 
 - **Classification detail:** Loom of Unlived Dreams is an Object/Place with Entity (IV) — Self-aware, creative, manipulative coherence and Major (γ) potency.
-- **Field detail:** Lament, registered at SECTOR-A-01 near the Dream Gates, at 45–65% on the opening gauge, 683/683 on the stat line, 16–22 Han-Energy per rotation, and a finished length of 88 metres against 61 and 40 at the returns before it.
+- **Field detail:** Lament, registered at SECTOR-A-01 near the Dream Gates, at 45–65% on the opening gauge, 750/750 on the stat line, 16–22 Han-Energy per rotation, and a finished length of 88 metres against 61 and 40 at the returns before it.
 - **Recognition detail:** A loom of pale crystallised Dream-stuff, cold and salt-damp, cold rain on the air, with the shuttle crossing to no hand and a painted line on the floor between the frame and the weave.
 - **Record detail:** Read the closing fields against the header before citing any of them. The governing grade is Major (γ) at SECTOR-A-01 beside the Dream Gates; the common name is Loom of Unlived Dreams, with The Dream Weaver's Loom retained as an earlier designation and not as the entry; Ferrehan is the approach that lowers the gauge and Viderehan the recording one that holds it; the faction interest is A-territory; the M.A.W. grade is γ against three γ pieces; and the designation carries its `[LO]` tag. The Apex Record, the sealed-pair method, the painted boundary and the liaison authorisation are the load-bearing parts of this file and are not to be summarised down.
 - **Containment detail:** What is contained here is a clock and a line of paint. The frame is inert to every test and cannot be sealed in any sense that matters — the shuttle runs either way — so the containment measure is the timed rotation, the radius walked and re-marked from scratch, and the finished length read at every return. Four physical rooms adjacent to the frame have been altered by weavings on record and all four were restored when the weaving ended; the figure the wing actually watches is 88 metres, because it is the only one that has never gone down.

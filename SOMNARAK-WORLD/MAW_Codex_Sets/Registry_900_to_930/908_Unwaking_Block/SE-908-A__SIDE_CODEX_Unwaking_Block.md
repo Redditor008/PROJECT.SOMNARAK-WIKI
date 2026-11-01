@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Place — Can breach via Transform / Place-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-N-908, contained |
-| Gauge / Pressure | 468/468; starts 35–50% / 17–23 per hit · Lament |
+| Gauge / Pressure | 500/500; starts 35–50% / 17–23 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

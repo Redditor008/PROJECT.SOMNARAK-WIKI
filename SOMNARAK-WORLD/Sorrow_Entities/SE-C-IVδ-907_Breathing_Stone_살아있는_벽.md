@@ -54,8 +54,8 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Weight. The wall is load-bearing and the figure is a formality; nothing has been attempted against it and the structural office has written that nothing may be. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 429/429 |
-| **Han Pressure [ATK]** | 14–25 per hit · Weight |
+| **Sorrow Gauge [HP]** | 750/750 |
+| **Han Pressure [ATK]** | 30–41 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

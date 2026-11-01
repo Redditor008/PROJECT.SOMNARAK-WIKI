@@ -54,8 +54,8 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Void. There is nothing to resist; the labyrinth is corridors and doorways, and the hazard is the plan rather than the stone. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 481/481 |
-| **Han Pressure [ATK]** | 14–20 per hit · Void |
+| **Sorrow Gauge [HP]** | 750/750 |
+| **Han Pressure [ATK]** | 30–36 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

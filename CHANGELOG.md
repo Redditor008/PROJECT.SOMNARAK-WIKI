@@ -8,6 +8,42 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Every stat line inside its risk tier (2026-11-01)
+
+Owner: *"Check all SE hp + atk to make sure that none is under the risk level except the Kind Echo — it is a non-standard SE."*
+
+All 301 dossiers were read for the two rows that carry a body's weight: `Sorrow Gauge [HP]` and `Han Pressure [ATK]`. Fifty records were outside their tier or had no stat line at all; each one is inside its tier now, and none is under.
+
+**The bands are not invented for this check.** They are Section III of [the Conversion matrix](PROJECT_MOON_RESEARCH/CROSS_VERSE/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md) — `PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md`, the Sorrow Gauge and Han Pressure columns, read across as the dossier input check:
+
+| Tier | Score | Sorrow Gauge (HP) | Han Pressure (ATK) |
+|---|---|---|---|
+| **ZAYIN** | 2–3 | 150–300 | 06–14 |
+| **TETH** | 4–5 | 300–500 | 12–22 |
+| **HE** | 6 | 500–750 | 18–35 |
+| **WAW** | 7–8 | 750–1,000 | 30–55 |
+| **ALEPH** | 9–10 | 1,000–12,000 | 50–80 |
+
+Tier is filed by score, not by the diagonal: Coherence rank plus Potency grade, exactly as the matrix's own note says. Read that way the archive runs 50 ZAYIN, 83 TETH, 73 HE, 85 WAW and 10 ALEPH.
+
+**What the read found.** Forty-eight bodies sat under their floor on HP (Kind Echo excluded), fourteen had a Han Pressure range whose whole span was under the floor, and one record had neither row. Two hundred and forty ranges start under their tier's floor and end inside it; those were left as filed, because that is how four records in five are filed, and the directive is that nothing sits *under* its risk level, not that nothing touches the line. The Han Pressure check follows the same seam: it corrects a range that is under the band end to end, and leaves a range that starts low and finishes inside it.
+
+**How the figures moved, and why that way.** HP was raised to the tier floor — the smallest value the band allows — so that no dossier gained strength beyond the correction; the edit is the minimum the directive requires and nothing more. Han Pressure keeps the span it was filed with and shifts its low end to the floor: Hollow Tree `13–29` becomes `30–46`; Blackened Angel `12–26` becomes `30–44`; Stormscale `16–34` becomes `50–68`; Sorrow Mass `11–20` becomes `50–59`. The escalation inside each body is unchanged; only its floor moved.
+
+**Ten records could not be edited through the stat line, because the number does work in the prose.** The Silent Maiden's `427` is the Sisters' comparative scale (338 / 392 / 427) as well as her gauge; the Hollow Tree's `607` is a series that has risen each return (418, 511, 607); the Walking Calendar's `600` is a traverse count as well as a gauge. Those three were rebuilt across the whole file — the Maiden to `411 / 465 / 500`, the Tree to `561 / 654 / 750`, the Calendar's gauge to `750/750` with its traverse counts untouched at 600, where they belong. The remaining seven were a whole-token replacement with a count assertion, so a prose collision would have refused the edit rather than corrupt it: Hollow Knight `662→750`, Loom `683→750`, Labyrinth of Stolen Faces `683→750`, Soaking Shard `650→750`, Every Last Goodbye `620→750`, Collapsed Whisper `680→750`, Singing Needle `740→750`. The Needle's Han Pressure was raised in the same pass and then put back: `20–35` ends inside the WAW band, which is how two hundred and forty other records are filed, and correcting the archive's Han Pressure convention is a different instruction from this one. Every one of those ten was then re-read to confirm the sentences still say what they said.
+
+**One record had no stats at all.** The Music Box of Agony `N-IIγ-903` carries a Combat Record, five combat actions and a Consequences section, and had never had a `Core Stat Line`. It has one now, filed TETH as its score of 5 requires: `420/420` Sorrow Gauge, Han Pressure `12–20 per note · Void`, speed 0 with the case sitting where it is put, and resistance 0 per cent against every element — the case is ordinary craftsmanship, and the file records no successful destruction test, so nothing higher can be claimed. The block adds no capability the record did not already describe.
+
+**The Side Codexes carried the old numbers, and were carried with them.** Twenty-eight codex files changed. The sets mirror the dossier's stat line in a `Gauge / Pressure` row — two hundred and twelve of them carry one — and twenty-seven of those belong to records corrected in this pass. Left alone they would have contradicted the dossier on the same page of the same set: Thinking Engine `404/404` against `500/500`, Breathing Stone `429` and `14–25` against `750` and `30–41`, Stormscale `900/900` and `16–34` against `1000/1000` and `50–68`, Sorrow Mass `521` and `11–20` against `1000` and `50–59`. All twenty-seven were updated in the same row, with the element and the `starts X–Y%` figure left exactly as filed, and The Extinguished's separate `Sorrow Gauge [HP]` row was updated with its gauge row. The Music Box's codex, which had only `| Gauge | Starts 45–65% |`, now carries `420/420` and `12–20 per note · Void`. A gauge check across every codex whose designation matches a dossier now returns no disagreement.
+
+**What was not touched, and is now visible.** Fourteen records sit *above* their ceiling: The Debt Eater `506` and The Debt Scale `506` (TETH, ceiling 500), The Cracked Hourglass `501`, Father's Broken Bond `520`, Grieving Love `540`, Brume `623`, Apostle Maker `680` (TETH), Barrier of Nothing `752`, Floating Pillar `752`, Floating Tree `758` (HE), Blessing Giver `450`, A Letter Never Sent `310`, Vellum Man `406`, Lacrima `502` (ZAYIN). Each is a filed precedent, and two of them — Blessing Giver `450` and Apostle Maker `680` — are the derivative records of the Kind Healer chain, whose own gauge is `224/224`: they rise above the parent rather than tracking it, and nothing on either file explains the figure. They are recorded here rather than rescaled, because the owner's check runs one way and a ceiling correction is a different instruction.
+
+**The price of the ALEPH floor, stated rather than buried.** Sorrow Mass `521→1000`, First Tear `600→1000`, The Final Door `750→1000` and Stormscale Sovereign `900→1000` were written as narrative weights, and the band's floor now sits above where every one of them stood. No prose in any of the four quoted the old number, so nothing had to be rewritten; the dossiers read as they did, with a heavier stat line.
+
+**A check that stays.** [Stat band auditor](tools/check_stat_bands.py) — `tools/check_stat_bands.py` — is now part of [`gate.sh`](tools/gate.sh), so a dossier filed under its tier fails the gate instead of waiting for the next audit. It reads the bands from §III, files the tier by score, treats Kind Echo `C-Iα-000` as the exempt non-standard record the owner named, prints over-ceiling records one at a time, and counts straddling ranges without touching them.
+
+**Checks:** `check_stat_bands` 0 missing · 0 under band · 14 over ceiling · 240 straddling · 1 exempt · `seam_lint` 1,767 · `label_lint` 301 · `timeline_lint` 1,800 · `check_links` 3,998 / 0 broken · `audit_lore_archive` PASS · box symmetry PASS · 54 unit tests OK · `git diff --check` clean.
+
 ## Two secondary moves for the Walking District (2026-11-01)
 
 Owner: *"Add in secondary two new combat move that only the Walking District can do — Judgment Claw, and Judgment Sight."*

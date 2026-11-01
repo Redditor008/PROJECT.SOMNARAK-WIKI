@@ -54,8 +54,8 @@
 | **Speed** | 2.30 m/s |
 | **Resistance** | 40% against Weight. The trunk has never been cut; the one proposal to take a core sample is in the file under its author's name and was refused on the ground that the hollow is the entity and a sample would be of nothing. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 607/607 |
-| **Han Pressure [ATK]** | 13–29 per hit · Weight |
+| **Sorrow Gauge [HP]** | 750/750 |
+| **Han Pressure [ATK]** | 30–46 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 
@@ -165,7 +165,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 - **Breach type:** Escape. It leaves the chamber on root-legs, slowly, and roots itself into whatever floor it reaches.
 - **Containment priority:** Shore the load first and cut the entangled free second, in that order and never the other way. Pugnahan is prohibited; forcing it deepens the hollow and the hollow is what somebody must sit in next week.
-- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval, against a standing baseline of 607 on the Gardens scale. It settles only once the mass has been shored and the entangled are out, in that order.
+- **Sorrow Gauge on breach:** Opens at 40 per cent and takes 10 more each interval, against a standing baseline of 750 on the Gardens scale. It settles only once the mass has been shored and the entangled are out, in that order.
 
 ## M.A.W. Equipment
 
@@ -268,7 +268,7 @@ Every piece is hollow somewhere it should not be, and the set does to its wielde
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Figure from the board, acoustic rings read inner to outer, lean and mouth position logged, garden crew's note collected. |
-| **Sustained observation** | The standing figure is returned annually and has risen each time: 418, 511, 607. The trunk, the hollow and the absence of echo are unchanged throughout. |
+| **Sustained observation** | The standing figure is returned annually and has risen each time: 561, 654, 750. The trunk, the hollow and the absence of echo are unchanged throughout. |
 | **Activation or escalation** | A widening quiet at the rings, or any sound from inside the cavity. The acoustic warning leads the gauge by a margin the engineers trust. |
 | **Post-contact review** | Figure, rings, time spent inside the hollow by each worker, and a counsellor's word on anyone who sat a long watch. |
 
@@ -281,7 +281,7 @@ Every piece is hollow somewhere it should not be, and the set does to its wielde
 Hollow Tree walks the Echo Gardens at night on knotted root-legs: a dead tree the height of a building, stripped, with a trunk open from root to crown and nothing inside it. It was planted for a harvest that never came. The Gardens tended it correctly for sixty years and it grew enormous and empty.
 
 **Entry 2 — <Echo Gardens Watch, Year 4238>**
-Standing figure 607 on the Gardens scale, after 511 and 418. Acoustic ring readings show the quiet holding at its established radii. Hollow unchanged by measurement: no growth, no decay, no echo returned from within it in any year of the record.
+Standing figure 750 on the Gardens scale, after 654 and 561. Acoustic ring readings show the quiet holding at its established radii. Hollow unchanged by measurement: no growth, no decay, no echo returned from within it in any year of the record.
 Roots spread through the Echo Gardens. Personnel feel emotional emptiness and loss of purpose. Its hollow interior produces no echo.
 
 **Entry 3 — <Works Office, standing rule>**
@@ -391,7 +391,7 @@ Hollow Tree is empty without being dead, and the distinction is the holding's wo
 
 ### Warming the Interior
 
-Its Flerehan response is the gentlest in the Entity-grade files and the most demanding to deliver. Shared grief warms the interior and the gauge falls from its 607 baseline, but the warmth requires presence of a particular duration — brief work produces nothing measurable, and the response curve does not begin until a worker has been in contact longer than most protocols permit. The holding therefore runs long Flerehan watches with short rotations elsewhere in the wing to cover them, an arrangement the scheduling office dislikes and has never successfully challenged. Confrontation is prohibited on the usual grounds plus a specific one: the roots tighten and the hollow deepens, which means Pugnahan does not merely fail but enlarges the thing that must later be filled.
+Its Flerehan response is the gentlest in the Entity-grade files and the most demanding to deliver. Shared grief warms the interior and the gauge falls from its 750 baseline, but the warmth requires presence of a particular duration — brief work produces nothing measurable, and the response curve does not begin until a worker has been in contact longer than most protocols permit. The holding therefore runs long Flerehan watches with short rotations elsewhere in the wing to cover them, an arrangement the scheduling office dislikes and has never successfully challenged. Confrontation is prohibited on the usual grounds plus a specific one: the roots tighten and the hollow deepens, which means Pugnahan does not merely fail but enlarges the thing that must later be filled.
 
 ### The Silence It Takes
 
@@ -403,7 +403,7 @@ Its breach extends roots through the floor and entangles personnel, and the floo
 
 ### What the Standing Figure Is Measuring
 
-The Gardens scale runs to 1,000 and this holding is returned at 607, after 511 and 418. Nothing physical about it has altered in sixty years: the trunk neither grows nor rots, the hollow is the same cavity it was, the echo has never come back, and the quiet sits at its established radii except during a Tide. The figure does not track the gardens' own health, the Tide calendar or the wing's staffing. It matches a single line in the Works Office return: the number of people who completed thirty years of service and retired without having once been shown anything their work went into.
+The Gardens scale runs to 1,000 and this holding is returned at 750, after 654 and 561. Nothing physical about it has altered in sixty years: the trunk neither grows nor rots, the hollow is the same cavity it was, the echo has never come back, and the quiet sits at its established radii except during a Tide. The figure does not track the gardens' own health, the Tide calendar or the wing's staffing. It matches a single line in the Works Office return: the number of people who completed thirty years of service and retired without having once been shown anything their work went into.
 
 No worker here is told what their work is for. The task, the hours, the standard and the pay — those are stated plainly and in writing. The use is not, and no officer may state, imply or discuss it with the person doing it. The rule has a history and the history is squalid. Purpose was how unpaid hours were extracted: *this is for the city* has no overtime rate. Purpose let officers ask for devotion in place of wages and get it. Purpose kept men in posts that were killing them, because leaving looked like abandoning something larger than themselves, and the mortality figures from the purpose-talking decades are bound into the first volume. The present rule costs the Company a great deal in goodwill and has never been seriously challenged by anybody who has read those figures.
 

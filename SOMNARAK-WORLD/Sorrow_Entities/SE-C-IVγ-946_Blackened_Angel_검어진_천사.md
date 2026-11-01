@@ -55,8 +55,8 @@
 | **Speed / Expansion** | 0 m/s (fixed); the tarnish spreads ~1.5 m per turn while active |
 | **Resistance** | 45% against Weight pressure; 25% against other pressure types |
 | **Activation threshold** | A spoken wish directed at the statue |
-| **Sorrow Gauge [HP]** | 640/640 |
-| **Han Pressure [ATK]** | 12–26 per hit · Weight |
+| **Sorrow Gauge [HP]** | 750/750 |
+| **Han Pressure [ATK]** | 30–44 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

@@ -54,7 +54,7 @@
 | **Speed** | N/A — no independent movement has been timed. An encounter speed is a resolution convention only; it measures neither a walking body nor the interval before a sitter first perceives the shadow. |
 | **Resistance** | 35% against Weight pressure; 25% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 390/390 |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 9–21 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |

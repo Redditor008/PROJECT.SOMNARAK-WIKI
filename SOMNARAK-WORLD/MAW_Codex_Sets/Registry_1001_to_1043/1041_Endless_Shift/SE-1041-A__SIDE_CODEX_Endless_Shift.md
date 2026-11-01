@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / SECTOR-C-915, contained |
-| Gauge / Pressure | 472/472; starts 35–50% / 14–23 per hit · Weight |
+| Gauge / Pressure | 750/750; starts 35–50% / 30–39 per hit · Weight |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

@@ -54,7 +54,7 @@
 | **Speed** | N/A — no body or heading; onset and boundary are measured by the full pressure ring per turn |
 | **Resistance** | 45% against Weight pressure; 35% against other pressure types. Resistance is a shelter statistic, not a route into the wall: observe remotely, confirm every figure across the full ring, shelter by floor, account for people by name before archives, rotate Ferrehan crews, and keep discharge routes running. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 717/717 |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 13–30 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
