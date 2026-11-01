@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The template, the guide and the conversion now say what the last ten batches did (2026-11-01)
+
+Ten batches of fixes are worth nothing if the next file written puts the defects back. All three standards now carry them.
+
+**The template.** `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` is rewritten to the shape the archive actually uses — Contact Record as well as Combat Record, the event section by category, M.A.W. Weapon/Suit/Stigma with their own cost rule, Escalation Notes, Detailed Appearance Profile, Apex Record — and its DEEP KNOWLEDGE block now states the six laws the archive learned the hard way: the classification cell is a claim and the record is the answer; a holding that does not leave containment has no breach section; Work Type rows are written per holding, never as a pair; a cost is what the piece takes, not what it feels like; the file keeps no notes about its own editing; and where a holding cannot fight or flee it has neither a Combat Record nor an Escape. A category table sits above the scaffold, mapping what the record shows to the heading and the field names it earns, and the validation checklist has grown from eight lines to fifteen, each naming the tool that checks it.
+
+**The equipment templates.** `03`, `04` and `05` now retire the stock cost families by name and require the cost to be derived from the Ability above it, with a mechanical test: `grep` the finished sentence against `SOMNARAK-WORLD/` and expect exactly one hit. `02`, the Side Codex, states the set law for the item pages' `**Operational / binding cost:**` — one clause for what a use takes, one for what continued use does, and the *continued use makes the source sorrow feel autobiographical* tail retired after 345 records carried it verbatim.
+
+**The conversion guide.** `PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` gains four subsections and thirteen checklist lines. **VI.4** says the two-work-type law decides which rows exist and nothing about what they mean, with the stock pair quoted and retired. **VII.5** is R-28 in conversion terms: the category table, the Dead Air and Convergence cases in full, the gauge label that follows the section, and the nine cells that stated no verdict at all and were therefore invisible to `tools/breach.py`. **VII.6** is R-36 in conversion terms: the three tests, the Contact Record shape, and the keeper's note, which is a reason and never a label. **VIII.4** is the cost rule with four worked examples — ability first, then read it backwards — and the test that a cost which survives the deletion of its own Ability is a stock sentence with a new subject.
+
+**The containment guide.** `PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` gains **XXI.1**, seven laws for what each dossier surface must *say* rather than merely carry, each with what it rules out and where it is checked. The last of the seven is the one no tool checks and the one the whole pass exists for: read the finished record top to bottom as a stranger would, and treat a number that stops the reader, a sentence that could sit in any of forty files, and a paragraph that sounds like an edit rather than a record as defects.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0 · `timeline_lint` PASS · `check_links` 0 broken.
+
+
 ## Thirty-nine minutes that recorded their objection in the same sentence (2026-11-01)
 
 The archive's best device is the minuted objection: a formal finding entered against the Directorate in the file's own record, upheld. Thirty-nine dossiers opened that finding with the identical sentence — *The minute records the objection as correct in all three parts* — and a reader who opens two dossiers in the same week sees the same clerk at the same table.

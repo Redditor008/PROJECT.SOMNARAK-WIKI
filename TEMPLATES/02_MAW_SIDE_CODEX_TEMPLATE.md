@@ -13,6 +13,7 @@
 - **Quadripartite set is 4/4:** A Side Codex + B Weapon + C Suit + D Stigma share the same `SE-{{ID}}` and must all reference the same Linked Entity. `audit_lore_archive.py` checks `198/198 complete`.
 - **Appearance must be source-led:** Describe what the M.A.W. looks like as drawn from entity Description — not generic “sword” filler.
 - **Rejection Rule is mandatory:** Every M.A.W. has a condition where it punishes misuse.
+- **The item pages' cost field is one of the four things the set is judged on.** Each B/C/D record carries `**Operational / binding cost:**`, and it states two things in two clauses: what a single use takes from the bearer, and what continued use does to them. Both come out of that item's own canonical ability. The clause *Continued use makes {{entity}}'s source sorrow feel autobiographical* is **retired** — 345 item records carried it verbatim, which made the set's cost read as boilerplate rather than as a warning. A cost sentence that already exists in another record is a defect on the day it is written: `grep` it against `SOMNARAK-WORLD/` before committing and expect one hit.
 
 ---
 

@@ -12,6 +12,8 @@
 - **Resistances are multipliers:** `0.3–0.5` Resistant (strong), `0.8` Dulled, `1.0` Neutral, `1.2–1.6` Weak, `2.0` Vulnerable. Every suit must list all 4 elements. Typical pattern: strong against donor element, weak against its opposite.
 - **No “defense points” — use multipliers.** Example: `Void: 0.3 (Resistant)` not `+30 armor`.
 - **Wielder cost for suits is ambient** — wearer feels absent, cold, hollow, tethered, not acute memory loss per swing (that’s Weapon). Suits erode identity slowly.
+- **The item page repeats the cost, and must repeat the same one.** The B/C/D record's own `**Operational / binding cost:**` field states, in two clauses, what one use takes and what continued use does — the same price the embedded block charges, said in the item's own record. The *continued use makes the source sorrow feel autobiographical* tail is retired; a new item page writes its own.
+- **The suit's cost is what the protection costs, and it comes out of the Defensive Trait.** A suit that stops identity dissolution makes the wearer harder to find inside themselves; a suit that holds a line makes the wearer unable to leave it. The retired stock sentence — *the wearer becomes numb to minor joys* — and any other sentence used by a second suit is a defect. `grep` the final line against `SOMNARAK-WORLD/`: it must return one file.
 
 ---
 
@@ -86,7 +88,9 @@ Resistance math: Damage Taken = Incoming × Multiplier. `0.3 = 70% reduction`. `
 
 ### Wielder Cost (Ambient)
 
-{{Slow erosion sentence. E.g., “Wearer feels faintly absent to themselves; extended wear thins recognition of own reflection. Thins after removal with spoken naming ritual.”}}
+{{Slow erosion, derived from the Defensive Trait above it. Work the trait backwards: if the suit keeps the wearer from being moved, the wearer can no longer tell what they were standing for; if it thins the wearer's presence to protect them, nobody can hold them in mind afterwards. One sentence, this suit only.}}
+
+**Retired — do not use:** *the wearer becomes numb to minor joys* · *the bearer's temper shortens* · any sentence already charged by another suit in the archive.
 
 ## HISTORY OF USE
 
@@ -110,6 +114,6 @@ Resistance math: Damage Taken = Incoming × Multiplier. `0.3 = 70% reduction`. `
 - [ ] All 4 resistances listed as multipliers with verdict labels.
 - [ ] Strongest resistance aligns with donor element (or justified opposite).
 - [ ] Defensive Trait has Trigger + Effect + Limit.
-- [ ] Ambient Wielder Cost is slow/identity-based, not per-swing.
+- [ ] Ambient Wielder Cost is slow/identity-based, not per-swing — and is derived from the Defensive Trait, appearing in exactly one file archive-wide.
 - [ ] Appearance is woven/crystallized language, not “factory sewn.”
 - [ ] History has Date/Bearer/Result/Aftermath.

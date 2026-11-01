@@ -245,6 +245,27 @@ The box is the whole rule; the four points below are what it costs to break it.
 - **Flerehan and Pugnahan are marked `N/A`** on those classes, not merely discouraged.
 - **Backfire.** Attempting either produces immediate work failure, severe backfire trauma, and a Sorrow Gauge spike of **+30% to +50%**.
 
+### VI.4 The four rows are written per holding, not filled in as a pair
+
+The two-work-type law says **which** works are valid. It says nothing about what each row means, and a conversion that stops at the law produces the defect the archive spent a season removing: two stock rows, changing only the element word —
+
+- `Permits study; the <x> pressure becomes legible under sustained observation.`
+- `Recognizes patience; the <x> pressure settles gradually under sustained presence.`
+
+Those two sentences sat in twenty dossiers at once. A Warden reading three of them learned nothing about the holding, and the second row quietly asserted that endurance means waiting — wrong on most of the files, and on some of them exactly backwards. The Labyrinth of the Unfinished Mind charges nothing for walking and does the work on whoever stands still, so its Ferrehan row is *motion*; Dead Air rewards a full watch with a blank form, so its Ferrehan row is the blank form.
+
+A converted row answers, in this file's own terms:
+
+| Row | The question it answers | What a lazy row gets wrong |
+|---|---|---|
+| **Viderehan** | What does observation of *this* holding actually yield — which reading exists nowhere else? | Calls it study and names the element |
+| **Ferrehan** | What does a party *do* for a full cycle, and what is the endurance spent on? | Calls it patience and assumes stillness |
+| **Flerehan** | Only on a Subject: what does it do when spoken to, and what does the speaker lose? | Copies the Subject default |
+| **Pugnahan** | Only where a body can be met: what happens when it is struck? | Leaves an `N/A` off an Object/Place, or invents a duel |
+
+The rule for a conversion: read the `**Movement**` row and the event section's `**Effect**` row before writing the work table. They decide it. If the movement is stationary and the effect is the room working on whoever stays, then Ferrehan is not patience — it is whatever the room is already doing to a person who stays.
+
+
 ---
 
 ## Section VII: Meltdowns, watches and breach metamorphosis
@@ -332,6 +353,45 @@ The test is **provenance, not power**. The Dawn of Mourning is the heaviest reco
 
 Nothing here reaches the two-work-type law, because there is no work. A Special Abnormality takes no work table, no PE yield and no M.A.W. production line unless the record files a piece; its appearance and equipment convert as appearance and equipment and nothing else. On the L Corp side the rule runs backwards unchanged: Apocalypse Bird is not an intake, it is what the three birds produce.
 
+### VII.5 What does not breach has no breach section (R-28)
+
+A conversion inherits a classification cell and an event section, and they are the same claim. `tools/section_logic.py` fails a file that contradicts itself, and the two contradictions it catches most often are worth stating here.
+
+**The category decides the section.**
+
+| What the record actually shows | Section heading | Field names |
+|---|---|---|
+| It leaves containment and roams | `## Breach Behavior` | Breach Type · Movement · Effect · Secondary Effect · First Target · Escalation |
+| It extends, roots, thickens or widens in place | `## Expansion Behavior` | Expansion Trigger · Expansion Rate · Expansion Effect · Containment |
+| It is used, worn or spent | `## Activation Behavior` | Tool Use Profile: Tool Class · Use Mode · Activation · Primary Effect · Duration · Termination / Return |
+| It warps its own zone; nothing walks out | `## Containment Event Behavior` | Event Type · Movement · Effect · Secondary Effect · First Target |
+| It forms where the parts already are and ceases when they part | `## Containment Event Behavior` / `## Formation Behavior` | Event Type · the same five rows |
+| It appears where it appears and does not travel | `## Manifestation Behavior` | Event Type · Movement · Effect · First Target |
+
+A dossier whose `**Entity Type**` reads *non-breaching* may not head a `## Breach Behavior` section and may not carry a `| **Breach Type** |` row. The two files the archive converted at the end of that pass show both halves of the rule:
+
+- **Dead Air** (`N-IIIγ-929`) is four rooms taken one at a time along their shared walls, twice in seventeen years, never past an exterior wall. It was headed `## Breach Behavior` with a breach table offering a first target and a turn-by-turn drain the record never supports. It is now `## Expansion Behavior` — trigger, rate, effect, containment — and its `**Entity Type**` says *Non-breaching: expansion into adjoining rooms, twice, neither crossing an exterior wall.*
+- **The Convergence** (`C-Vδ-010`) carried a `| **Breach Type** | Escape |` row four lines under an escalation note reading *it does not escape and has never attempted to*. The cell claimed escape, the note denied it, the radio line announced a breakout, and every one of those was wrong in the same direction. It is now `## Containment Event Behavior` with `**Event Type** | Formation.`
+
+**The gauge label follows the section**, and the figure comes out of the file's own escalation row: `Sorrow Gauge on breach` · `on expansion` · `on formation` · `in the event` · `on activation`. Never `on breach` on a file that has no breach, and never the placeholder *Starts at 40%, rises 10%/turn*, which is retired archive-wide.
+
+**The cell must state something.** Nine dossiers were left with an `**Entity Type**` that described the holding and gave no verdict at all — *Hazard — an affected air volume pools in sublevels and can extend upward*, *Subject — a drifting ember carrying an interrupted cry*. A cell like that is invisible to `tools/breach.py`, which counts a file as non-breaching when the word *breach* is absent, so the census was reporting a share it could not see. Every cell now says *Can breach via X* or *Non-breaching: <category> only; <the file's own evidence>*, and the census figure is one it can defend.
+
+### VII.6 When the record has no fight in it (R-36)
+
+A converted record inherits a Combat Record because that is what the format carries. Where the holding cannot fight, the record does not lose its stat block — it loses the claim that anything in the file is a blow, and says so before the block rather than leaving the reader to work it out.
+
+> **Why this file has no combat actions.** {{what the file says instead — that the body has never moved, that nothing here pursues or aims, that the damage is the room's, and what a watch survives in its place.}}
+
+R-36 sets three tests, and a file must satisfy all three before it converts: the Movement row reads Stationary / Fixed / Motionless / Seated / Recumbent / Rooted, or the body says it has never moved; the record says it does not, or has never, struck; and nothing on the file records pursuit, aim or a blow. The replacement keeps the shape of a watch and drops the shape of a hunt — Mode of presence, Perceptible to, Handling, Activation threshold, Sorrow Gauge, Valid Work Types, Location, Resolution Condition, then Contact Events and a three-step Watch Sequence whose last step quotes the Resolution Condition's opening words.
+
+The counterpart is the keeper, and it is the harder case, because a file that keeps its rows has to earn them:
+
+> **Why this file keeps combat actions.** {{the one thing in this file that can be met, held or withstood, and why dropping the rows would leave a warden without an account of it.}}
+
+Eight files in the archive kept a Combat Record under a non-breaching cell and gave no reason; seventeen kept one and gave a reason. The eight now say why in their own terms — the chains whose body has never moved and which close on a worker where they stand, the room that has no position that could be approached, the flood that has to say what a flood costs somebody standing in it. A keeper note is a reason, never a label, and never *this entity is stationary* on a file whose Movement row already says so.
+
+
 ---
 
 ## Section VIII: Equipment — E.G.O and M.A.W.
@@ -361,6 +421,26 @@ Every standard Subject entity extracts three pieces.
 PM gear carries static requirements such as Fortitude III or Prudence II. Somnarak's wear may instead carry **Active Composure Load** — but the load is a ledger entry, not a tax on the grade. Each piece files its own SP-pool burden, with amount, form, trigger and duration written on the piece; a Grade δ or ω piece with nothing filed carries `Composure Load: —`. Neither Risk, Potency grade nor material class supplies a default, and several burdens on one bearer stay as separate lines instead of merging into a set-wide figure.
 
 An emptied SP pool is **Panic** — fought, suppressed and recovered like any other. It is not a transformation. **M.A.W. Corrosion** is a separate four-stage track — Whispers, Bleed, Merge, Takeover — driven by cumulative overuse, misuse, neglect or conflict, and it is the only road on which armour and bearer stop being separable. Reaching the last stage is an event with a filed history behind it, never the resting state of whoever simply ran out of Composure.
+
+### VIII.4 The cost line is the piece's own
+
+Every M.A.W. piece charges its bearer, and the charge is written twice: inside the dossier's embedded block as `**Cost:**`, and on the item page as `**Operational / binding cost:**`. Both are the same price, and both must be this piece's.
+
+The archive converted the whole equipment layer through five stock cost families — *the bearer moves a little slower* (12 Weight stigmas), *the bearer's temper shortens* (11 Grudge), *the bearer weeps in their sleep* (11 Lament), *the bearer occasionally forgets a word* (6 Void), and six weapon sentences doing the same job (*a persistent low-grade headache with each use*, *emotional numbness toward the source entity's element*, *chronic fatigue in the dominant hand*, *progressively heavier; prolonged use ages them slightly*, *the entity's unwept grief*, *mild memory fragmentation*). Forty stigmas shared four sentences between them, which made four whole elements of the catalogue read as one piece with four labels, and made the moment a bearer learns what they have agreed to the least specific moment in the file.
+
+The rule for a conversion is mechanical: **write the Ability first, then read it backwards.**
+
+| Piece | Ability | Cost, read backwards |
+|---|---|---|
+| Sorrow Mass's Edge | hands the target a share of what the structure below is carrying | the wielder's own share goes unrecorded — the gauges read the structure and nothing at the hand that struck |
+| The Uprooted Charm | the bearer is rarely lost | the bearer stops asking the way, because they can no longer tell rarely from never |
+| The Bridge Charm | +1 Resolve to every member of the team except the bearer | four issued in nineteen years and all four requested in writing |
+| Breathing Stone's Edge | struck targets breathe at nine a minute | the wielder keeps the wall's rate for the rest of the shift, unnoticed, until somebody else counts it |
+
+Two mechanical checks before committing a cost line: `grep` the sentence against `SOMNARAK-WORLD/` and expect **one** hit; and confirm that if the Ability line were deleted, the Cost line could not be written. A cost that survives its own ability's removal is a stock sentence with a new subject.
+
+The same rule governs the item pages' `**Operational / binding cost:**`. It states, in two clauses, what one use takes and what continued use does — and that second clause is the one the archive is still converting, because 345 item records carried the identical tail *Continued use makes {{source}}'s sorrow feel autobiographical*. A tail that appears on every record is not a behaviour; it is a template artefact wearing a warning's clothes.
+
 
 ---
 
@@ -479,5 +559,44 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 |                    Mourning and the Walking District here — file as    |
 |                    Special Abnormality: no work loop, no yield,        |
 |                    no counter (R-35)                                   |
++========================================================================+
+```
+
+**Thirteen further lines, added after the equipment pass.** They are the defects the checklist above could not see, because each of them passes every mechanical test and fails a reader.
+
+```text
++========================================================================+
+| 13. CELL CHECK   : Entity Type states a verdict — Can breach via X or  |
+|                    Non-breaching: category only + the file's evidence  |
+| 14. SECTION      : the event heading matches the category; no          |
+|                    ## Breach Behavior and no Breach Type row on a      |
+|                    non-breaching file (tools/section_logic.py)         |
+| 15. GAUGE LABEL  : on breach / on expansion / on formation / in the    |
+|                    event, matching the section; never the retired      |
+|                    placeholder Starts at 40%, rises 10%/turn           |
+| 16. WORK ROWS    : Viderehan and Ferrehan written for this holding;    |
+|                    the stock pair Permits study / Recognizes patience  |
+|                    is a defect                                         |
+| 17. FIGHT CHECK  : a Combat Record carries its Why this file keeps     |
+|                    combat actions line; a Contact Record carries its   |
+|                    Why this file has no combat actions line (R-36)     |
+| 18. MOVEMENT     : the Movement row and the Position / movement        |
+|                    bullet make the same claim                          |
+| 19. COST CHECK   : every M.A.W. Cost derives from the Ability above    |
+|                    it, and greps to exactly one file archive-wide      |
+| 20. ITEM COST    : Operational / binding cost states one-use and       |
+|                    continued-use, both this item's own                 |
+| 21. NO FILING    : no corrected-from, no review dates, no After        |
+|                    contact the body holds what the mind files away,    |
+|                    no beta-across-the-set openers                      |
+| 22. MINUTE       : the minuted objection is in this file's own voice,  |
+|                    with the body that raised it named                  |
+| 23. POSITION     : a non-breaching file's Attack rows are the room's   |
+|                    cost, not a blow's                                  |
+| 24. SPECIAL      : an X on a terminus is neither a tally nor a blank   |
+| 25. READER       : read the finished file top to bottom as a stranger  |
+|                    would; anything that makes them re-read a number,   |
+|                    or that sounds like an edit rather than a record,   |
+|                    is a defect even where no checker fires             |
 +========================================================================+
 ```

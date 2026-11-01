@@ -12,6 +12,8 @@
 - **Every B-file must have:** ITEM IDENTITY table, Appearance (source-led), Extraction History + Rejection Rule, COMBAT RECORD (Damage/Speed/Range/Falloff), Signature Ability, Wielder Cost, History of Use (incident + aftermath), Set Resonance.
 - **Combat math:** Damage element = one of 4 (Grudge/Lament/Void/Weight). Speed 1–6 (1 Very Slow, 6 Very Fast) maps to AP. Range 1–5 (Melee to Line). Falloff: `Primary 100% → first pierced 70% → second pierced 50%` for piercing weapons. Non-piercing uses single-target.
 - **Never write workshop manufacturing.** Crystallization language only.
+- **The item page repeats the cost, and must repeat the same one.** The B/C/D record's own `**Operational / binding cost:**` field states, in two clauses, what one use takes and what continued use does — the same price the embedded block charges, said in the item's own record. The *continued use makes the source sorrow feel autobiographical* tail is retired; a new item page writes its own.
+- **The cost is the ability, read backwards.** A weapon's `**Cost:**` line states what the piece takes from the wielder, and it must be derived from the `**Ability:**` two lines above it. The retired stock sentences — *a persistent low-grade headache with each use*, *emotional numbness toward the source entity's element*, *chronic fatigue in the dominant hand*, *progressively heavier; prolonged use ages them slightly*, *the entity's unwept grief; prolonged use causes involuntary weeping*, *mild memory fragmentation* — appear in no dossier, and a new one is a defect on the day it is written. If two weapons in the archive would charge the same sentence, at least one of them is wrong.
 
 ---
 
@@ -87,7 +89,9 @@ Registry Code: `MAW-W-{{NUM}}-01`
 
 ### Wielder Cost
 
-{{Intimate price per swing/shot. Must be personal — memory, voice, warmth, years, sensation. E.g., “Bearer hears fragment of Bell’s search after every swing. Three activations cause one childhood memory to blur until written/spoken aloud.” Specify stacking and recovery.}}
+{{The same price the `**Ability:**` line implies, said from the bearer's side. Work the Ability backwards: if the piece hands the target a share of what the structure below is carrying, the bearer's own share goes unrecorded; if it holds a row of readers at a task, the bearer finishes what they start at the ninth hour. One sentence, concrete, and specific to this piece — never a sentence another weapon in the archive uses. Specify stacking and recovery.}}
+
+**Retired — do not use:** *a persistent low-grade headache with each use* · *emotional numbness toward the source entity's element with each use* · *chronic fatigue in the dominant hand with each use* · *progressively heavier; prolonged use ages them slightly* · *feels the entity's unwept grief; prolonged use causes involuntary weeping* · *mild memory fragmentation with each use*.
 
 ## HISTORY OF USE
 
@@ -112,7 +116,7 @@ Registry Code: `MAW-W-{{NUM}}-01`
 - [ ] Speed 1–6 and Range 1–5 present with correct AP mapping in prose.
 - [ ] Falloff rule present where applicable; single-target weapons explicitly say “no falloff.”
 - [ ] Signature Ability has Trigger + Effect + Limit (all three).
-- [ ] Wielder Cost is personal (memory/voice/warmth/years), not generic “HP loss.”
+- [ ] Wielder Cost is personal (memory/voice/warmth/years), not generic “HP loss” — and is derived from this piece's Signature Ability, not from a stock family (`grep` the sentence against `SOMNARAK-WORLD/` before committing; it must return one file).
 - [ ] History of Use has Date + Bearer + Result + Aftermath (all four).
 - [ ] Rejection Rule is specific (misuse → specific redirection).
 - [ ] Zero banned strings; timeless archetype preserved.
