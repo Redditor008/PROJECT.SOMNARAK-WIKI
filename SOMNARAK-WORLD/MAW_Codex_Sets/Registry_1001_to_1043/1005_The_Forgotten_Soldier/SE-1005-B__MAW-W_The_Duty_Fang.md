@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Forgotten Soldier Source-Trace: Weapon Record*
 
-The first bearer of The Duty Fang encountered this source response: Attacks, forcing acknowledgment through violence. The weapon witnesses the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Duty Fang encountered this source response: Attacks, forcing acknowledgment through violence. The weapon witnesses the immediate hazard only after the team attributed it to The Forgotten Soldier. A wielder came off a strike angry about a neglect they had never heard of, and the Fang’s binding is the complaint they filed in somebody else’s name.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Forgotten Soldier's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the duties begin arriving with no one attached, and the wielder answers for neglects from districts they have not worked.
 - Terminal state: The Forgotten Soldier's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Duty Fang encountered this source response: Attacks, for
 
 ## SET RELATIONSHIP
 
-Within *The Forgotten Soldier — Witnessed Form*, The Duty Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Forgotten Soldier — Witnessed Form*, The Duty Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow thrown for a duty its wielder actually took on.
 
 ---
 

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Weapon Record*
 
-The first bearer of The Voice encountered this source response: Confrontation is met with Divine Command — the entity speaks, and marked personnel obey. Unmarked personnel face the entity's full attention. The weapon isolates the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Voice encountered this source response: Confrontation is met with Divine Command — the entity speaks, and marked personnel obey. Unmarked personnel face the entity's full attention. The weapon isolates the immediate hazard only after the team attributed it to Maker of Apostle. A wielder spoke in a sentence they had not composed and could not stop it leaving, and the Voice’s binding is the transcript from that command.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Maker of Apostle's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the chain’s sentences arrive before the wielder opens their mouth, and orders are given in their voice to people they have not briefed.
 - Terminal state: Maker of Apostle's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1008 -->
@@ -43,7 +43,7 @@ The first bearer of The Voice encountered this source response: Confrontation is
 
 ## SET RELATIONSHIP
 
-Within *Maker of Apostle — Witnessed Form*, The Voice performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Maker of Apostle — Witnessed Form*, The Voice performs the weapon role while the other pieces preserve attribution and survival. The Voice leaves the set on an order its wielder wrote themselves.
 
 ---
 

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Honest Reflection Source-Trace: Suit Record*
 
-The first bearer of The Reflection Veil encountered this source response: Shows the viewer's worst memory; facing it reduces distress. The suit uncouples the immediate hazard only after the team attributed it to Honest Reflection. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Reflection Veil encountered this source response: Shows the viewer's worst memory; facing it reduces distress. The suit uncouples the immediate hazard only after the team attributed it to Honest Reflection. A wearer’s reflection moved first, and the wearer watched it do so and did not correct it, and the Veil’s binding is the witness note from that ward.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Honest Reflection's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the one-remove viewing reaches their own decisions, and the wearer chooses at a distance from the choosing.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1009 -->
@@ -43,7 +43,7 @@ The first bearer of The Reflection Veil encountered this source response: Shows 
 
 ## SET RELATIONSHIP
 
-Within *Honest Reflection — Witnessed Form*, The Reflection Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Honest Reflection — Witnessed Form*, The Reflection Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be reached through the glass; the first watch they cannot, the Veil is out.
 
 ---
 

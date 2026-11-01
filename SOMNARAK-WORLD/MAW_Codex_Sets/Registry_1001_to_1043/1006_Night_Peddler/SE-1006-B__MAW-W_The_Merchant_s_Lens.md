@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Weapon Record*
 
-The first bearer of The Merchant's Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Night Peddler. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Merchant's Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Night Peddler. A wielder paid for a look with a face at a counter they had never expected to lose, and the Lens’s binding is the price book from that sale.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Night Peddler's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the Lens begins choosing items the wielder would have kept, and the cheapest thing in reach gets dearer.
 - Terminal state: Night Peddler's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1006 -->
@@ -43,7 +43,7 @@ The first bearer of The Merchant's Lens encountered this source response: N/A �
 
 ## SET RELATIONSHIP
 
-Within *Night Peddler — Witnessed Form*, The Merchant's Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Night Peddler — Witnessed Form*, The Merchant's Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a look it prices at nothing.
 
 ---
 

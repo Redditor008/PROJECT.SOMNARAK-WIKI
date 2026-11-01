@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Stigma Record*
 
-The first bearer of The Merchant's Purse encountered this source response: Goods reveal hidden histories and former owners. The stigma uncouples the immediate hazard only after the team attributed it to Night Peddler. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Merchant's Purse encountered this source response: Goods reveal hidden histories and former owners. The stigma uncouples the immediate hazard only after the team attributed it to Night Peddler. A bearer lost a button that had been on the same coat for nine years, and the Purse’s binding is the ledger entry it was taken under.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Night Peddler's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the Purse starts choosing things the bearer would have kept, and it chooses before the transaction begins.
 - Terminal state: Night Peddler's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1006 -->
@@ -42,7 +42,7 @@ The first bearer of The Merchant's Purse encountered this source response: Goods
 
 ## SET RELATIONSHIP
 
-Within *Night Peddler — Witnessed Form*, The Merchant's Purse performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Night Peddler — Witnessed Form*, The Merchant's Purse performs the stigma role while the other pieces preserve attribution and survival. The Purse drops out of the set on a payment the bearer chose to make.
 
 ---
 

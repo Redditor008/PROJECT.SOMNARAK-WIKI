@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Stigma Record*
 
-The first bearer of The Mark encountered this source response: Observation reveals the current blessing count and the identities of marked personnel. Critical for monitoring the chain. The stigma stays the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Mark encountered this source response: Observation reveals the current blessing count and the identities of marked personnel. Critical for monitoring the chain. The stigma stays the immediate hazard only after the team attributed it to Giver of Blessing. A bearer stopped healing at the ninth and still carried the nine, and the Mark’s binding is the count entered against their name.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Giver of Blessing's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the count runs on without healing to account for it, and the bearer reaches twelve with nothing done.
 - Terminal state: Giver of Blessing's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1007 -->
@@ -42,7 +42,7 @@ The first bearer of The Mark encountered this source response: Observation revea
 
 ## SET RELATIONSHIP
 
-Within *Giver of Blessing — Witnessed Form*, The Mark performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Giver of Blessing — Witnessed Form*, The Mark performs the stigma role while the other pieces preserve attribution and survival. The Mark drops out of the set when the count is read out and the bearer can say what it bought.
 
 ---
 

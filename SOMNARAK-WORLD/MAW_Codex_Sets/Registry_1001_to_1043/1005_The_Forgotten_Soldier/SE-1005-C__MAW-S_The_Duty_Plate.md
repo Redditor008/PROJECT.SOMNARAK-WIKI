@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Forgotten Soldier Source-Trace: Suit Record*
 
-The first bearer of The Duty Plate encountered this source response: Stands guard over the worker; enduring his presence reduces distress. The suit isolates the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Duty Plate encountered this source response: Stands guard over the worker; enduring his presence reduces distress. The suit isolates the immediate hazard only after the team attributed it to The Forgotten Soldier. A wearer defended a post nobody in the ward remembered occupying and would not be relieved of it, and the Plate’s binding is that duty board.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Forgotten Soldier's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the posts accumulate faster than the wearer can stand them, and the plate goes on over the previous one.
 - Terminal state: The Forgotten Soldier's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Duty Plate encountered this source response: Stands guar
 
 ## SET RELATIONSHIP
 
-Within *The Forgotten Soldier — Witnessed Form*, The Duty Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Forgotten Soldier — Witnessed Form*, The Duty Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can put one unassigned obligation down; the first they cannot, the Plate is out.
 
 ---
 

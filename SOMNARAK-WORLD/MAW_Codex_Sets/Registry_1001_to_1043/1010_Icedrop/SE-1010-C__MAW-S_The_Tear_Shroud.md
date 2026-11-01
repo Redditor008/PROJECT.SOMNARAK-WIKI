@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Suit Record*
 
-The first bearer of The Frost-Veiled Mourning Gown encountered this source response: Tests whether the worker can sit beside grief without touching it. The suit stays the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frost-Veiled Mourning Gown encountered this source response: Tests whether the worker can sit beside grief without touching it. The suit stays the immediate hazard only after the team attributed it to Icedrop. A wearer lost the minor joys first and did not notice until only grief still arrived, and the Shroud’s binding is the review that asked when they had last enjoyed anything.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Icedrop's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the joy goes before it is felt, and the wearer is told about their own good days afterwards.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1010 -->
@@ -43,7 +43,7 @@ The first bearer of The Frost-Veiled Mourning Gown encountered this source respo
 
 ## SET RELATIONSHIP
 
-Within *Icedrop — Witnessed Form*, The Frost-Veiled Mourning Gown performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Icedrop — Witnessed Form*, The Frost-Veiled Mourning Gown performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one small joy still reaches the wearer; the first shift with none, the Shroud is out.
 
 ---
 

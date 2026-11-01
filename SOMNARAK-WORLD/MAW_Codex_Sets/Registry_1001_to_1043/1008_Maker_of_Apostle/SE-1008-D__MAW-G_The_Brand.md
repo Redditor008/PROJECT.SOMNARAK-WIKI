@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Stigma Record*
 
-The first bearer of The Brand encountered this source response: Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. The stigma marks the immediate hazard only after the team attributed it to Maker of Apostle. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Brand encountered this source response: Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. The stigma marks the immediate hazard only after the team attributed it to Maker of Apostle. A bearer answered a chain activation three districts away and set out before anybody had told them, and the Brand’s binding is the alert log from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Maker of Apostle's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the resonance arrives before the chain activates, and the bearer answers calls that have not been made.
 - Terminal state: Maker of Apostle's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1008 -->
@@ -42,7 +42,7 @@ The first bearer of The Brand encountered this source response: Observation reve
 
 ## SET RELATIONSHIP
 
-Within *Maker of Apostle — Witnessed Form*, The Brand performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Maker of Apostle — Witnessed Form*, The Brand performs the stigma role while the other pieces preserve attribution and survival. The Brand drops out of the set when the bearer lets one activation go unanswered.
 
 ---
 

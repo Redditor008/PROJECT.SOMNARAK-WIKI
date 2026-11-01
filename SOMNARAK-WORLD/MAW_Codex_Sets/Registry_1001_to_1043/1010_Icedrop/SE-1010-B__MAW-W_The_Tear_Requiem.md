@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Weapon Record*
 
-The first bearer of The Glacial Tear-Mirror encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Glacial Tear-Mirror encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Icedrop. A wielder came out of a season dry-eyed with everyone they had fought weeping, and the Requiem’s binding is the ward ledger from that campaign.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Icedrop's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the tears move before the blow does, and the wielder’s grief arrives in the target’s account without a strike.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1010 -->
@@ -43,7 +43,7 @@ The first bearer of The Glacial Tear-Mirror encountered this source response: N/
 
 ## SET RELATIONSHIP
 
-Within *Icedrop — Witnessed Form*, The Glacial Tear-Mirror performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Icedrop — Witnessed Form*, The Glacial Tear-Mirror performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which its wielder weeps.
 
 ---
 

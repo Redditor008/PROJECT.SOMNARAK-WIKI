@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Honest Reflection Source-Trace: Stigma Record*
 
-The first bearer of The Reflection Shard encountered this source response: Reveals patterns in the viewer's history. The stigma opens the immediate hazard only after the team attributed it to Honest Reflection. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Reflection Shard encountered this source response: Reveals patterns in the viewer's history. The stigma opens the immediate hazard only after the team attributed it to Honest Reflection. A bearer carried every hidden pain they had looked at and could put none of it down, and the Shard’s binding is the list kept across that season.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Honest Reflection's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the looking becomes involuntary, and the hidden pain arrives from faces the bearer did not mean to observe.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1009 -->
@@ -42,7 +42,7 @@ The first bearer of The Reflection Shard encountered this source response: Revea
 
 ## SET RELATIONSHIP
 
-Within *Honest Reflection — Witnessed Form*, The Reflection Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Honest Reflection — Witnessed Form*, The Reflection Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set when the bearer puts one of them down.
 
 ---
 

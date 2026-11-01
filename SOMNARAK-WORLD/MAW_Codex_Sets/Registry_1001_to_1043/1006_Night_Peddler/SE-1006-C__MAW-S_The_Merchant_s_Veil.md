@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Suit Record*
 
-The first bearer of The Merchant's Veil encountered this source response: Offers increasingly tempting goods; resisting tests the worker. The suit severs the immediate hazard only after the team attributed it to Night Peddler. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Merchant's Veil encountered this source response: Offers increasingly tempting goods; resisting tests the worker. The suit severs the immediate hazard only after the team attributed it to Night Peddler. A wearer completed a transaction and could not remember being present for it, and the Veil’s binding is the sale record with their name on it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Night Peddler's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the absence reaches ordinary exchanges, and the wearer is missing from their own shift sheet.
 - Terminal state: Night Peddler's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1006 -->
@@ -43,7 +43,7 @@ The first bearer of The Merchant's Veil encountered this source response: Offers
 
 ## SET RELATIONSHIP
 
-Within *Night Peddler — Witnessed Form*, The Merchant's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Night Peddler — Witnessed Form*, The Merchant's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can recall one thing they did that day; the first day they cannot, the Veil is out.
 
 ---
 

@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Stigma Record*
 
-The first bearer of The Unmelting Teardrop Brooch encountered this source response: Reveals the instant the tear crystallized. The stigma contains the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Unmelting Teardrop Brooch encountered this source response: Reveals the instant the tear crystallized. The stigma contains the immediate hazard only after the team attributed it to Icedrop. A bearer wept at something that had not happened and could not say why, and the Pendant’s binding is the note made at that desk.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Icedrop's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the weeping is triggered by things a week out, and the bearer mourns losses before they are losses.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1010 -->
@@ -42,7 +42,7 @@ The first bearer of The Unmelting Teardrop Brooch encountered this source respon
 
 ## SET RELATIONSHIP
 
-Within *Icedrop — Witnessed Form*, The Unmelting Teardrop Brooch performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Icedrop — Witnessed Form*, The Unmelting Teardrop Brooch performs the stigma role while the other pieces preserve attribution and survival. The Pendant drops out of the set on a day the bearer’s tears match what has actually happened.
 
 ---
 

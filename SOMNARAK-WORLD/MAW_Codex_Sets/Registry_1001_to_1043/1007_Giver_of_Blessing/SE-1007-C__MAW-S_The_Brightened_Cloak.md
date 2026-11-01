@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Suit Record*
 
-The first bearer of The Brightened Cloak encountered this source response: Enduring the Giver of Blessing's presence without acting is the safest option — but the entity will still attempt to bless if the worker remains too long. The suit redirects the immediate hazard only after the team attributed it to Giver of Blessing. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Brightened Cloak encountered this source response: Enduring the Giver of Blessing's presence without acting is the safest option — but the entity will still attempt to bless if the worker remains too long. The suit redirects the immediate hazard only after the team attributed it to Giver of Blessing. A wearer took the cloak to bed and then to a post it was not needed for, and the Cloak’s binding is the duty sheet from that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Giver of Blessing's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the warmth arrives before the cold does, and the cloak is worn in rooms where nothing is being warded.
 - Terminal state: Giver of Blessing's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1007 -->
@@ -43,7 +43,7 @@ The first bearer of The Brightened Cloak encountered this source response: Endur
 
 ## SET RELATIONSHIP
 
-Within *Giver of Blessing — Witnessed Form*, The Brightened Cloak performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Giver of Blessing — Witnessed Form*, The Brightened Cloak performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still takes the cloak off at the end of a watch; the first night it stays on, the Cloak is out.
 
 ---
 

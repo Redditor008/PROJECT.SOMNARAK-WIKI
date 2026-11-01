@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 95)
+
+`SE-1005` Forgotten Soldier, `SE-1006` Night Peddler, `SE-1007` Giver of Blessing, `SE-1008` Maker of Apostle, `SE-1009` Honest Reflection, `SE-1010` Icedrop — **eighteen records, fifty-four sentences.** Three of these sets sit on the Kind Healer chain and are written so the chain shows through them: the Giver's Mark keeps its count whether or not the bearer keeps healing, and drops out of the set when the count is read out and the bearer can say what it bought; the Maker's Brand answers calls before they are made; the Giver's Cloak keeps resonance while its wearer still takes it off at the end of a watch.
+
+**246 of 345 done. 99 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 94)
 
 `SE-976` Willing Chains, `SE-993` Bridge, `SE-997` Drowned Roots, `SE-1001` Kind Echo, `SE-1002` Broken Clock, `SE-1004` Scar Walker — **eighteen records, fifty-four sentences.**
