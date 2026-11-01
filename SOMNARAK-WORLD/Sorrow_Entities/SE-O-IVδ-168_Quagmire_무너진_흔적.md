@@ -44,51 +44,36 @@
 - A yield of 20–28 at Severe difficulty is drawn out in the open Desolate near The Scar, hours from relief, with no containment structure of any kind. The exposure figure that matters for this holding is travel time, and it is not in the table.
 - Extraction means cutting crystal out of a line that is itself a record of people who were cut off. It is scheduled separately, and the segment removed is surveyed and logged in position before it is lifted, because the line cannot be put back.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per turn of exposure · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it is *fixed to its alignment* — the line does not move, the ground under it does — and the record's own note on its worst event is that nothing flares, strikes or is erased. What it takes is direction, and it takes it from whoever is standing on the line.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A broken run of heavy crystal lying across the Desolate on the alignment of a decommissioned road, frozen mid-stride. It bears weight without deforming and is the safest footing in the district; it gets heavier every time a road comes off a map. |
+| **Perceptible to** | The footsteps first — the worker's own steps make no sound and somebody else's arrive from the broken section — then the needle, which points along the broken line while every actual exit feels unfinished. |
+| **Handling** | The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody continuing past the end, and the worker stands where the road stops for the full cycle — neither walking on, which joins the journey, nor turning back. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate, near The Scar |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the route as it was walked and the party on it, in order, which is how the sixty-one gaits were separated out; Ferrehan stands where the road stops for the full cycle, and lowers the gauge. |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Map the Trace and preserve the names it carries |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *Somebody Else's Footsteps* [**Debuff**] } | "Your own steps make no sound. Somebody else's arrive from the broken section, in more gaits than your party has people." | [The Trace carries footsteps and produces none of its own; the target hears the missing party still mid-journey.] | *Target suffers -10 Clarity while trying to separate their own movement from the travellers'.* **[10 Lament DMG [Lament]]** | When the target steps onto the crystal line. |
-| { *The Compass Along the Line* [**Debuff**] } | "The needle does not spin. It points along the broken line, while every actual exit feels unfinished." | [Viderehan reveals route history, but direction fails if the collapsed alignment is mistaken for a current road.] | *Target loses 10 Clarity; they can read where the journey went and still not know how to leave.* **[10 Lament DMG [Lament]]** | When the target tries to navigate by the Trace. |
-| { *The Shortcut* [**Attack**] } | "It looks like a road. Every observer wants to follow it. That is the first warning, and it arrives dressed as common sense." | [Treating the collapsed route as a shortcut draws the target past the endpoint with the reasonable conviction that they are still mid-journey.] | *Inflicts Lament pressure through unfinished-arrival disorientation; nothing flares, strikes or is erased.* **[14-22 Lament DMG [Lament]]** | When an expedition treats the Trace as a shortcut to safety. |
-| { *A Route Gone Elsewhere* [**Attack**] } | "Nothing happens on the line. Somewhere else, a road has stopped existing with nobody there to write it down. The load cells know first." | [An unwitnessed route loss registers as added mass, new subsidence and pressure on the survey party; the Trace itself remains to be mapped.] | *Heavy Lament pressure; the reading jumps 15% while no mark is scraped away.* **[24-36 Lament DMG [Lament]]** | When a new route is destroyed without witness. |
-| { *No Arrival* [**Ultimate**] } | "The field is not erased. It is worse than that: every direction remains visible, and none of them feels like having arrived anywhere." | [Direction loss widens along the broken alignment until forward movement must stop and a current return line is re-established.] | *Everyone in range takes Lament pressure for three turns of unfinished arrival; names and route history remain the record to preserve, not the thing destroyed.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At the 90% Sorrow Gauge activation threshold. |
+| Event | What the Trace does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Footsteps* [**Register**] } | It carries footsteps and produces none of its own. The worker's own steps make no sound and somebody else's arrive from the broken section, in more gaits than the party has people. | The line is walked with a partner off it and a running head count, and the gaits are separated out from Viderehan's account rather than guessed at. | Sixty-one gaits have been separated out of one alignment, which is the number the file turns on and the reason the route is read in order. |
+| { *The Line* [**Exposure**] } | Clarity goes first as direction: the compass and the attention align with the broken route, every exit feels unfinished, and the worker may continue in good order past the end. | The off-line partner calls the end of the line and the head count is taken there, and anyone treating the alignment as a shortcut is turned around. | Extended exposure produces the conviction that the party is mid-journey and has somewhere still to reach, described afterwards as entirely reasonable at the time. |
+| { *The Endpoint* [**Refusal**] } | It does not flare, strike or erase anything. What it does is leave every direction visible and none of them feeling like having arrived anywhere. | Nobody walks on past the stop and nobody turns back early; the worker stands where the road stops for the full cycle, which is the only posture that is neither joining the journey nor abandoning it. | The refusal is arrival: there is nowhere to get to, and the object will not supply one. |
+| { *The Route Gone Elsewhere* [**Overload**] } | When a road somewhere else is destroyed without witness, nothing happens on the line: the load cells register it first, as added mass and new subsidence. | The reading is taken again against the load cells, and no mark is scraped away to make the figures agree. | The Trace itself remains to be mapped, and names and route history are the record to preserve rather than the thing that was destroyed. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team reaches the Trace, establishes which direction the line was travelling, confirms the survey equipment is working before anything else is attempted, and agrees that no one will walk the line's length until it has been measured.
-2. **Clash:** Twenty-four turns in open ground against 910 points of unfinished journey at 45% resistance to its own element. Nothing attacks. The pressure is 29 to 64 per turn of simply remaining at the end of a road that stopped, and parties fail this encounter by leaving rather than by being overcome.
-3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Map the Trace and preserve the names it carries**. Nothing on the ground is scraped, brushed or washed while the survey is open, and the names go into the record before the party leaves the Scar.
+1. **What is confirmed:** the mapped run against the last survey, the load-cell figures and the subsidence, and the head count before the line is stepped onto.
+2. **What the watch does:** Viderehan shows the route as it was walked and the party on it, and Ferrehan stands where the road stops for the full cycle. The partner stays off the line, the count is taken at the endpoint, and nobody treats the alignment as a shortcut.
+3. **How it closes:** the close is the file's documented condition: **Map the Trace and preserve the names it carries.**
 
 ### Consequences
 

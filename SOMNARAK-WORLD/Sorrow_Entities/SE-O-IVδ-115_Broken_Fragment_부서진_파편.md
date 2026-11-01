@@ -44,51 +44,36 @@
 - The 20–28 Han-Energy yield is high and the exposure that earns it is geological rather than personal. Nobody has reported an effect from proximity in the history of this holding. What the yield is actually balanced against is the ground, and the ground gives no warning.
 - Drawing M.A.W. out of this holding is an authorised event in its own right and is never hung on a good cycle as a prize. What comes away is a shard of something that is already a shard, and each piece carries the source's defining property: kept long enough, it puts on weight.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed and sinking; output is measured by three-dimensional ground displacement, bowl depth at four marked radii, cracking rate and abandoned-rigging position |
-| **Resistance** | 45% against Weight pressure, the element this fragment was broken in, and 35% against the rest of what the Border region can lay on it. Work only from the stable margin: no entry into the bowl, no contact, no lifting attempt, and nothing inside the bowl is stabilised, shored or recovered |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 · measured from the margin, no watch having ever been kept at the fragment itself |
-| **Han Pressure [ATK]** | 29–64 · element Weight, landing without the fragment moving once — the ground bows and the bearer takes the weight of it |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary and settling* — it has never been displaced laterally by anything, and its only recorded motion is downward into the ground it presses through. Its own attack row says no piece flies free: the load comes back through failing rigging and moving ground while the crystal does not move at all.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns, which is what a monument takes: the work is done from the margin and it cannot be hurried |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Resolve |
-| **Starting Sorrow Gauge** | 60–80%, opening higher after any shift in which a lifting attempt had to be refused |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone E, Border region |
+| **Mode of presence** | A heavy fragment of black crystal broken from an unknown monument, resting on the ground at the border in Zone E and pressing through the surrounding landscape. It is held by a survey network rather than by a wall, and it has never once got lighter. |
+| **Perceptible to** | The ground bowing at first contact, with names attached to promises and debts showing beneath the crystal; then the cracking rising above the recording threshold, and displacement readings quickening between surveys. |
+| **Handling** | Worked from the margin. Contact ends on a mobility check taken by another worker at one, five and fifteen minutes, the team calls the limit rather than the worker, and no mechanical or Han lifting load is ever applied to it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 910/910 — measured from the margin, no watch having ever been kept at the fragment itself |
+| **Starting Sorrow Gauge** | 60–80% |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the monument's debt history and moves nothing; Ferrehan is worked from the margin and tests whether a worker can remain beneath its pressure, and is the row that lowers the gauge. |
+| **Location** | Zone E, Border region |
 | **Resolution Condition** | Viderehan and Ferrehan from the margin, with the gauge ending below 25% because of that work and not because anybody aimed at the number. No cycle logged against Broken Fragment has ever closed by going after the figure directly. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Heavy Edge* [**Debuff**] } | "The fragment is denser than it should be — broken things, it turns out, are heavier than whole ones." | [At first hand contact the ground bows and names attached to promises or debts show beneath the crystal; the Fragment itself does not rise.] | *Target suffers -10 Resolve; contact ends and mobility is checked by another worker at one, five and fifteen minutes.* **[10 Weight DMG [Weight]]** | When the target first touches the Fragment. |
-| { *The Sharp Crack* [**Debuff**] } | "The fragment is still breaking — new cracks appearing in real-time — and each crack releases a burst of stored weight." | [Internal cracking crosses the recording threshold while the displacement readings quicken; urgency itself becomes the field sign.] | *Target loses 10 Resolve; they keep reporting that they are fine while their movement slows, so the team—not the worker—calls the limit.* **[10 Weight DMG [Weight]]** | When the crystal's cracking rises above the recording threshold and ground displacement quickens between surveys. |
-| { *The Shrapnel* [**Attack**] } | "The equipment fails, the rigging fails, or the ground gives — and the fragment is afterward exactly where it was." | [No piece flies free. The applied load comes back through failing rigging and moving ground while the crystal remains unmoved.] | *Inflicts Weight pressure and one wound of ongoing destruction to personnel inside the load path; the attempt is abandoned and nothing in the bowl is recovered.* **[14-22 Weight DMG [Weight]]** | When mechanical or Han lifting load is applied to the Fragment. |
-| { *The Full Shatter* [**Attack**] } | "It is getting heavier, measurably, and it has never once got lighter." | [No material detonation is observed. The displayed burden settles on the contacting worker until they stop moving and begin carrying it as their own.] | *Heavy Weight pressure and acute immobility without complaint; no personnel Sorrow Gauge is inferred. A named witness ends contact from stable ground and records mobility, not the worker's assurance.* **[24-36 Weight DMG [Weight]]** | When contact continues after a mobility check shows the worker slowing or stopped, or the worker begins describing the monument's burden in the first person. |
-| { *The Shrapnel Field* [**Ultimate**] } | "The fragment stays where it is and the bowl around it becomes something other than ground." | [Deformation runs outward along the bowl and approach ground; the load is read in displacement and station drift, not in flying material.] | *All personnel inside the deformation radius suffer Weight pressure for three turns and withdraw to externally verified stable ground; nothing is shored or recovered.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥90%. |
+| Event | What the Fragment does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Survey Station* [**Register**] } | Position is logged in three dimensions and the only motion is downward; its mass rises at a measured rate and has never fallen. | The position and the crack series are read from the margin at every survey, against the fixed station rather than against memory. | Ground displacement quickening between surveys is the sign, and it arrives before anything a worker can feel through their boots. |
+| { *The Burden on Contact* [**Exposure**] } | At first contact the ground bows and the names attached to promises and debts show beneath the crystal; the worker keeps reporting that they are fine while their movement slows. | Mobility is checked by another worker at one, five and fifteen minutes, and the team calls the limit rather than the worker. | The gauge climbs on exactly that assurance, which is why no personnel reading is ever inferred from what the worker says about themselves. |
+| { *The Load Path* [**Refusal**] } | No piece flies free. Applied load comes back through failing rigging and moving ground while the crystal remains exactly where it was. | No mechanical or Han lifting load is applied; the attempt is abandoned and nothing in the bowl is recovered. | The refusal is that force returns to the sender — nothing on this record has ever displaced it laterally. |
+| { *The Inheritance* [**Overload**] } | The displayed burden settles on the contacting worker until they stop moving and begin carrying it as their own, describing the monument's debt in the first person. | A named witness on stable ground ends contact and records mobility rather than the worker's assurance. | Unresolved, the shape changes rather than ends: the bowl stops being ground, and the load is read in station drift. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team establishes on stable ground beyond the deformation radius, confirms the survey stations against the external reference, starts the ground instruments, and fixes the withdrawal line. Nobody's position inside the bowl is ever part of the plan, because nobody is inside the bowl.
-2. **Clash:** Viderehan and Ferrehan are worked from the stable margin across a long engagement, with the ground-monitoring instruments running throughout. Nobody enters the bowl and nobody touches the fragment; the engagement is conducted at the distance the survey stations occupy, for the survey stations' reasons.
-3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey return has been filed — which on this holding means the team measured the displacement, entered the equivalent load with its derivation and circularity attached, and left the Fragment exactly where it was.
+1. **What is confirmed:** the three-dimensional position against the fixed station, the crack series against the recording threshold, and the displacement readings between surveys.
+2. **What the watch does:** Viderehan opens the debt history and Ferrehan stays under the pressure from the margin. Mobility checks are taken at one, five and fifteen minutes by somebody else, and no lifting load is applied.
+3. **How it closes:** the close is the file's documented condition: **Viderehan and Ferrehan from the margin, with the gauge ending below 25% because of that work and not because anybody aimed at the number.**
 
 ### Consequences
 
@@ -308,7 +293,7 @@ Work from the stable margin only. No entry into the bowl, no contact, no lifting
 **Entry 5 — <Director's Minute on the District Correspondence>**
 The origin is a border stone and the debt recorded on it. The monument was raised where two districts meet and its inscription was a ledger of obligations between them, entered honestly by both sides for as long as anybody was entering anything. When the obligation outgrew the stone, the stone broke, and the pieces stand where they fell. Nothing here plans, and nothing here is owed by anybody living — the file's own finding is that the fragment weighs exactly what was promised and that nobody has come to settle the account.
 
-**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat rating:** Per entity classification. See SECC Classification table and Contact Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

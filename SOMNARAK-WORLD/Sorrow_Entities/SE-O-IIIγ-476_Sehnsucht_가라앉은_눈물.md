@@ -44,51 +44,36 @@
 - The yield is ordinary for the band. The exposure is the transit: a Desolate posting near The Scar, two hours out and two hours back, with an escort requirement on every crossing.
 - Extraction is authorised separately and has been attempted three times. All three drove the object deeper — forty-one centimetres between them — and none recovered anything; the third is the reason reaching is now prohibited rather than discouraged.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Weight, the pressure the object is itself made of; 25% against everything else the open ground can bring |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed in plan, variable in depth* — it holds its position on the ground, sinks whenever somebody reaches for it, and rises while it is left alone. Nothing is aimed and nothing closes: what the file measures is the depth of the uppermost surface in centimetres and the lit area around it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A dark tear-shaped object half-buried in open ground in the Desolate, glowing faintly beneath the soil. It holds its position in plan and changes in depth: it sinks when anybody reaches for it and rises while it is left alone. |
+| **Perceptible to** | The glow under the ground first, then the depth of the uppermost surface below ground level, then the weight coming up through the boots from below rather than from anything in front of the worker. |
+| **Handling** | Reached for by nobody and brought up by nothing. The depth and the lit area are recorded at every watch, the worker sits beside it for the session without trying to raise it, and departure is timed by the watch commander rather than by the worker. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 653/653 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate, near The Scar |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the event under the forgotten grief and holds the depth steady, and nothing surfaces for it; Ferrehan sits beside buried sorrow for the length of the session without trying to bring it up, and is the only work that raises it. |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Grief is mourned at the site without a cause being supplied for it, and the Sorrow Gauge falls below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Deep Drop* [**Debuff**] } | "A tear falls — and keeps falling, far past the floor, into somewhere vast and dark." | [The Tear's descent pulls the target's attention downward.] | *Target suffers -10 Resolve; they are being drawn into the deep.* **[10 Weight DMG [Weight]]** | When the Tear falls. |
-| { *The Pressure Depth* [**Debuff**] } | "The further down it goes, the heavier it gets — and you are going down with it." | [The Tear's accumulated weight presses on the target from below.] | *Target loses 10 Resolve; the depth is crushing.* **[10 Weight DMG [Weight]]** | When the target follows the Tear. |
-| { *The Impact* [**Attack**] } | "The tear hits bottom — and the impact travels back up like a shockwave." | [The Tear's landing sends a wave of pressure upward.] | *Inflicts Weight pressure and one deep, resonant wound.* **[14-22 Weight DMG [Weight]]** | When the Tear is disturbed mid-fall. |
-| { *The Ocean of One Tear* [**Attack**] } | "One tear, at the bottom, becomes an ocean — and the ocean is heavy beyond measure." | [The Tear reveals its full, abyssal weight.] | *A crushing Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tear reaches the bottom. |
-| { *Everyone Goes Under* [**Ultimate**] } | "The tear-ocean rises — and there is no surface anymore." | [The Tear floods the entire field from below.] | *All personnel suffer Weight pressure for three turns in the tear-sea.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What Sehnsucht does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Depth* [**Register**] } | It holds position in plan and changes in depth, sinking when reached for and rising while it is left alone. | The depth of the uppermost surface is recorded in centimetres and the lit area measured at every watch. | Failure here is depth rather than a breach: the object goes further down, the lit area narrows, and nothing on record has brought it back up faster than mourning at the site has. |
+| { *The Accounting* [**Exposure**] } | The failure is a worker who starts accounting for their own sadness — naming a cause, building a reason — and the gauge climbs and the depth increases while they are still mid-sentence. | A cause is not supplied for the grief, and the sentence is not finished in the log. | Long sessions produce an unwillingness to leave, described afterwards as having had something left to do there, which is why departure is timed by the commander. |
+| { *The Reach* [**Refusal**] } | It sinks whenever somebody reaches for it. Nothing surfaces for a hand and nothing is learned about the cause. | Nobody reaches into the ground, no digging is authorised, and the object is never raised to be measured properly. | The refusal is the descent: the gesture toward it is answered by making it further away, which is the only reply it gives. |
+| { *The Weight Below* [**Overload**] } | It grows heavier when ignored, and the pressure arrives from underneath rather than from anything a worker can see. | The workers take the weight out of the ground on the way back rather than at the site, and the set's charge is logged as borrowed grief with no cause attached. | Bearers report the weight accurately and cannot say what it is for, which is the holding's own condition reproduced in a person. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team identifies Sehnsucht by the glow and the sinking. Several buried records are catalogued near The Scar; this is the tear-shaped one that is visible as light through the soil and that goes down whenever a hand goes toward it, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** Nothing is dug and nothing is touched. Viderehan reads the event under the forgotten grief and holds the depth steady; Ferrehan requires the worker to sit beside buried sorrow for the length of the session without trying to bring it up. A trowel on the inventory list is grounds for standing the team down.
-3. **Resolution:** The session closes when the object is nearer the surface than it was and the reading is below 25%. It rises for honest mourning that names no cause, and nothing else has ever raised it; a session that produced an explanation has not closed, whatever the explanation was.
+1. **What is confirmed:** the depth of the uppermost surface in centimetres, the lit area around it, and the party's head count before anybody sits down.
+2. **What the watch does:** Viderehan reads the event under the grief and Ferrehan sits beside it without trying to bring it up. Nothing is dug, nothing is reached for, and a worker who starts naming a cause is stopped mid-sentence.
+3. **How it closes:** the close is the file's documented condition: **Grief is mourned at the site without a cause being supplied for it, and the Sorrow Gauge falls below 25%.**
 
 ### Consequences
 

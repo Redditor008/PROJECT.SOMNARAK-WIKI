@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | The Desolate, near the Scar |
 | Form | A broken line of heavy crystal dragged across the ground: a collapsed route frozen mid-stride with the names of missing travelers held in its trace. |
-| Gauge / pressure | 60–80% / Lament 29–62 |
+| Gauge / pressure | 910/910; starts 60–80% / Lament — no attack pattern; the load cells and the head count are the reading |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Witnessed Route |
 

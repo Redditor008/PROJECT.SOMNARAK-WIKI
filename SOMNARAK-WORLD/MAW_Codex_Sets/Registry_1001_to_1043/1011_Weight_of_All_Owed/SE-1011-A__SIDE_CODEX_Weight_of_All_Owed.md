@@ -22,7 +22,7 @@ The Fragment formed from a monument broken by accumulated obligation. The burden
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / Zone E, Border region |
-| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Weight |
+| Gauge / Pressure | 910/910; starts 60–80% / Weight — no attack pattern; the three-dimensional position and station drift are the reading |
 | Observation | 2 — Basic |
 | Formation event | A border monument commemorating generations of debt was shattered during an uprising; one fragment remained. |
 

@@ -44,51 +44,36 @@
 - A yield of 10–14 at Low difficulty makes this a standard vault assignment, and the exposure it produces does not appear during the shift. It appears afterwards, in how the worker talks about their colleagues, and no part of the yield calculation accounts for that.
 - Extraction means cutting into a crystal formed around a live ember. It is scheduled as its own operation, and the extracting worker is weighed before and after and stood down for the remainder of the shift.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Grudge. It is a crystallised tear the size of a thumbnail and nothing has ever been swung at it; the resistance line is carried from the schedule and the vault has asked for it to be replaced by the mass series. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary under its own power* — it sits in a lined tray on the third shelf and has never moved itself — and everything this holding does, it does to the scale underneath it. What the file actually reads is a mass in grams.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A single dark tear crystallised around a small ember of anger, warm and heavy, sitting in a lined tray on the third shelf. It resists being put down, grows lighter when held honestly, and has never moved itself. |
+| **Perceptible to** | The weight in the hand first, between eleven and thirty-four grams across 212 cycles; then the warmth, and the grievance beneath the grief, which is what Viderehan reads. |
+| **Handling** | Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. A second worker opens the hand if the holder will not, and the 28 cycles that closed heavier are the record of who should not be rebooked. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree vault |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grievance beneath the grief and holds the gauge; Ferrehan tests whether the worker can hold it without claiming it, and lowers the gauge. |
+| **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The holder puts it down of their own accord and the closing weight is below the opening weight. 212 cycles are on file and 184 of them closed lighter; the 28 that did not are the vault's working record of who should not be rebooked. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Overlooked* [**Debuff**] } | "You feel unseen — and the feeling is not new. It has been waiting a long time." | [The Tear marks the target with neglect; they feel invisible.] | *Target suffers -10 Resilience; they have been overlooked.* **[10 Grudge DMG [Grudge]]** | When the target disregards the Tear. |
-| { *The Dry Stain* [**Debuff**] } | "Where a tear dried, years ago, with no one to see it — the stain still aches." | [The old dried-tear mark resonates with the target's own unacknowledged grief.] | *Target loses 10 Resilience; old, unseen wounds reopen.* **[10 Grudge DMG [Grudge]]** | When the target stays near the stain. |
-| { *The Salt Cut* [**Attack**] } | "The salt of an old, forgotten tear — crystallized, sharp, and angry at being ignored." | [A crust of old tear-salt lashes out, cutting like glass.] | *Inflicts Grudge pressure and one stinging, bitter cut.* **[14-22 Grudge DMG [Grudge]]** | When the Tear is disturbed. |
-| { *The Resentment* [**Attack**] } | "It becomes too heavy to hold and the holder will not open their hand." | [The mass rises past what a hand can keep closed, and the holder keeps it closed anyway.] | *24–36 Grudge and a 15% Gauge surge, all of it to the holder; the damage is to the hand and the arm.* **[24-36 Grudge DMG [Grudge]]** | When the holder insists the grievance is their own. Nine occasions, all nine ended by a second worker opening the hand. |
-| { *Every Forgotten Tear* [**Ultimate**] } | "Everything in the vault gains weight at once and the shelves complain." | [Mass propagates to the surrounding holdings for the duration.] | *12–20 Grudge per cycle for three cycles to anyone lifting anything in the room.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, recorded once; two shelf brackets failed and no holding was damaged. |
+| Event | What the Tear does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Scale* [**Register**] } | The mass sits between eleven and thirty-four grams and the variation is entirely a function of who is holding it; the heaviest readings have all come from holders who described the grievance as their own. | The opening and closing weights are taken at the scale, which is the instrument here rather than the Work Type table, and the vault stopped relying on that table in Year 4230. | A cycle that closes lighter is a cycle that worked, and the count of them is the vault's own measure of the post. |
+| { *The Claim* [**Exposure**] } | The failure is a sentence — *this happened to me* — and it is never said in those words; it arrives as a grievance of the holder's own, told with the old one's details attached, and the mass goes up while they are telling it. | The story is not finished in the log, and the sentence is not corrected to the holder's face. | Extended contact does not injure, it transfers: the conviction is lucid, specific and attached to real people the worker genuinely knows, and nothing about it resembles contamination from the inside. |
+| { *The Closed Hand* [**Refusal**] } | It resists being put down. The mass rises past what a hand can keep closed and the holder keeps it closed anyway, and the damage is to the hand and the arm. | Nine occasions on record and all nine ended with a second worker opening the hand, which is the only release this file has. | The refusal is the grip: the object will not go back on the tray by argument, and the vault's answer is a person rather than a procedure. |
+| { *The Weight in the Room* [**Overload**] } | Above sixty-five per cent everything in the vault gains weight at once and the shelves complain; recorded once, when two shelf brackets failed and no holding was damaged. | Anything being lifted is put down first, and the brackets are checked before the shelf is reloaded. | Unresolved, nothing erupts. The Tear simply becomes heavier, measurably, and the shelf it sits on is the first to say so. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The balance is zeroed, the tear is weighed alone, and the holder states on the sheet, before touching it, whether they are currently angry about anything. The answer is not assessed. It is simply kept, because the series only means something next to it.
-2. **Clash:** Ten turns in the Alpha Tree vault, with nothing to fight. The Tear sits where it is put and grows heavier or lighter in the worker's hand, and the engagement is decided by whether the worker can carry a grievance that does not belong to them without adopting it.
-3. **Resolution:** The cycle closes when the Tear has been held for its full duration and then set down consciously, by a worker who can still say whose anger it was, with the gauge back beneath 25%.
+1. **What is confirmed:** the opening weight on the scale, the weight of the tray without the Tear in it, and the name of whoever is booked to hold it.
+2. **What the watch does:** Viderehan reads the grievance beneath the grief and Ferrehan holds it without claiming it. The holder puts it down themselves, a second worker stands by to open the hand, and the closing weight is taken.
+3. **How it closes:** the close is the file's documented condition: **The holder puts it down of their own accord and the closing weight is below the opening weight** — and a cycle that closes heavier is entered against the rota rather than against the worker.
 
 ### Consequences
 
@@ -390,7 +375,7 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 - Touch is the trigger. End the hold at 30 grams or at the first living name, whichever comes first.
 **Observation Notes:**
 - An ordinary death, a mourner who was never identified, and four inconclusive attempts to identify them.
-- See Combat Record for engagement history.
+- See Contact Record for contact history.
 - Two pieces; the bonus is forfeited the moment the bearer calls the grievance their own.
 **Cross-References:** The Frozen Tear, The Rage Statue (suspended), The First Tear (ancestry marked unsupported), the 212-cycle mass series, and the Year 4,226 closing words.
 **Faction Involvement:** None. The holding has never left the vault and no faction has asked for access; the SED and UCD lines were struck in Year 4,233 as clerical carry-over.

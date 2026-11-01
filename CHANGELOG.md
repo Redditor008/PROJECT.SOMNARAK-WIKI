@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five relics that sink, settle, stand or rise (2026-11-01)
+
+Eighth batch — the last of the queue whose own rows deny an exchange. What is left after this is ten holdings that genuinely carry an attack, four files in the R-36 queue, and the four relic breach claimants.
+
+- **Sehnsucht** (`O-IIIγ-476`) — *fixed in plan, variable in depth*; it sinks whenever somebody reaches for it and rises while it is left alone. The reading is the depth of its uppermost surface in centimetres, and failure here is depth rather than a breach.
+- **Broken Fragment** (`O-IVδ-115`) — *stationary and settling*, never displaced laterally by anything; no piece flies free, and the applied load comes back through failing rigging while the crystal does not move.
+- **Quagmire** (`O-IVδ-168`) — *fixed to its alignment*; the line does not move and the ground under it does, and the file's own note on its worst event is that nothing flares, strikes or is erased.
+- **Forgotten Tear** (`O-Iα-709`) — *stationary under its own power*, sitting in a lined tray and never having moved itself; everything it does, it does to the scale underneath it.
+- **Door to Nowhere** (`O-IIβ-922`) — rises out of the floor and holds until it withdraws; nothing is thrown, and the four occasions anybody reached for the handle are the whole of the file.
+
+**Three records that read from an instrument rather than a move.** Sehnsucht is read in centimetres of depth, the Fragment in station drift and load cells, and the Tear in grams — eleven to thirty-four across 212 cycles, with the heaviest readings taken by holders who described the grievance as their own. In each case the Work Type table is not the instrument, and two of the three files said so before this pass.
+
+**The grip and the hand.** The Tear refuses to go back on the tray by argument: the mass rises past what a hand can keep closed and the holder keeps it closed anyway, and all nine occasions on record were ended by a second worker opening the hand. That is now the Contact Event and the Handling row both, because it is the only release the file has.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `seam_lint` 0 · `timeline_lint` 0 · `check_links` 0 broken · `breach.py` unchanged. **Forty converted, seventeen relic `Combat Record`s still to read — ten of which fight.**
+
 ## Five relics fixed in place, holding the line (2026-11-01)
 
 Seventh batch. Four are immovable and the fifth cannot be lifted without a counsellor present, and every one of them had been filed with a battle length.

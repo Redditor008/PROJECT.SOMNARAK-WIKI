@@ -44,51 +44,36 @@
 - The exposure is the handle. Four workers have reached for it in eleven years and all four were competent, senior, and able to explain afterwards exactly what they had been about to open.
 - M.A.W. extraction is a separate risk event and should not be treated as a free reward for ordinary work.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge. The door has been struck once, with a maul, in Year 4,231; the maul passed through the panel, the panel was undamaged, and the handle rose eleven centimetres that night. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it rises out of the floor without damaging it and holds position until opened or until it withdraws. Nothing here is thrown and nothing is aimed: the hinge that comes down falls from the door, and the four occasions the handle was reached for are the whole of the record.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A free-standing door and its frame, risen out of the floor of a room in Old Lament without damaging it, in a red frame with a char smell. It holds position until it is opened or until it withdraws, and walk-around observation finds the same door from the other side. |
+| **Perceptible to** | The frame's red pressure and the char first, then the handle height — 2.1 metres at first measurement and 2.6 now — which is the longitudinal reading the station keeps. |
+| **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle; the handle answers to the district, and every rise has fallen within a week when a movement order was in force. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Old Lament — ambient |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows why the exit was denied and holds the gauge; Ferrehan tests whether a worker can stand before an opening without using it, and lowers it. Both have never moved the handle. |
+| **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Lift* [**Debuff**] } | "The door rises — hinges creaking — pulling away from its frame, heading for the ceiling." | [The Door's ascent defies architecture; the target feels the wrongness.] | *Target suffers -10 Resilience; the rules are broken.* **[10 Grudge DMG [Grudge]]** | When the target sees the Door rise. |
-| { *The Floating Threshold* [**Debuff**] } | "The door hovers — and you could walk through it, if you could fly — and the temptation to try is maddening." | [The Door's hovering creates an inaccessible passage; the target is drawn to it.] | *Target loses 10 Resilience; they want to pass through.* **[10 Grudge DMG [Grudge]]** | When the target stares at the floating Door. |
-| { *The Falling Hinge* [**Attack**] } | "A hinge tears free from the rising door — heavy, iron, falling." | [ A metal hinge drops from the ascending Door.] | *Inflicts Grudge pressure and one heavy, metallic wound.* **[14-22 Grudge DMG [Grudge]]** | When the Door is struck. |
-| { *The Full Ascent* [**Attack**] } | "It goes up through the ceiling and keeps going, and the hole it leaves is not a hole in anything." | [The door ascends out of the room and the passage it tears does not close behind it.] | *24–36 Grudge and a 15% Gauge surge to anybody beneath it; the opening above persists for some hours and leads nowhere that can be surveyed.* **[24-36 Grudge DMG [Grudge]]** | When somebody reaches the handle. Four occasions. |
-| { *The Ascending House* [**Ultimate**] } | "Every door in the district goes up a hand's width, and then another, and the ground floor stops having exits." | [The ascent propagates to every threshold in Old Lament.] | *12–20 Grudge per cycle for three cycles to everyone indoors.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, recorded once, in the week three streets were sealed at the same time. |
+| Event | What the Door does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Rise* [**Register**] } | It comes up out of the floor without damaging it and holds, the frame red and the char smell arriving with it, and the handle height is the only figure that changes. | The room, the orientation and the handle height are recorded, and the room's real exit is kept clear during the observation. | The handle answers to the district rather than to the room: 2.1 metres at first measurement, 2.6 now, and every rise fell within a week of a movement order. |
+| { *The Threshold* [**Exposure**] } | The opening is inaccessible and the temptation to pass through it is the recorded effect; past about half an hour the room's own exits start to feel provisional. | The station names the feeling aloud so that people recognise it as the holding rather than as sense, and workers check the real exit. | The station's briefing exists to make the feeling recognisable, and a worker who has started checking doorways is already in the exposure. |
+| { *The Handle* [**Refusal**] } | It does not answer a hand. The failure is a sentence beginning *I should have*: said within reach of the handle it is the whole activation, and said from the doorway it does nothing at all. | The handle is not turned, nobody completes the illustration by stepping closer, and the door is not struck to see what the frame does. | The refusal is that the door leads nowhere that can be surveyed, and the only way to find that out is to be told it rather than to go through. |
+| { *The Ascent* [**Overload**] } | Reached for, the door goes up through the ceiling and keeps going, and the hole it leaves is not a hole in anything; the opening above persists for some hours. | The approach is cleared, the room's exits are re-checked, and the appearance is logged with the time the ascent began. | An unresolved appearance does not breach: the door withdraws and comes back somewhere else, usually within nine days, and the handle is higher. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team reaches the reported room, measures the handle from the floor, notes the hour, and stands outside the door's reach. Nobody stands between it and the room's real exit.
-2. **Clash:** There is nothing to fight and nothing to open. The team records the handle height, works Viderehan and Ferrehan only, and stands in front of the opening without using it, which is the whole of the endurance test. Flerehan and Pugnahan are invalid and the frame has reddened on both occasions either was attempted.
-3. **Resolution:** The cycle ends when the appearance is plotted on the floor plan, the handle height is logged, and the team withdraws leaving the door shut. There is no suppression step. The door removes itself, usually within the hour, and never rises in that room again.
+1. **What is confirmed:** the handle height against the last appearance, the frame's colour and the char smell, and the room's real exit, which stays clear throughout.
+2. **What the watch does:** Viderehan shows why the exit was denied and Ferrehan stands before the opening without using it. The door is walked around rather than approached, and nobody says *I should have* within reach of the handle.
+3. **How it closes:** the close is the file's documented condition: **The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one.**
 
 ### Consequences
 
@@ -395,7 +380,7 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 - A hand on the handle while naming a choice. Clear anybody who speaks a regret within arm's length.
 **Observation Notes:**
 - A lawful nine-day lockdown order, one resident inside it, and a handle that went up on the sixth day.
-- See Combat Record for engagement history.
+- See Contact Record for contact history.
 - The set is split into three M.A.W. pieces — Weapon, Suit, and Stigma. Wielders stop leaving rooms first and call it manners. The check is a doorway tally.
 **Cross-References:** The Collapsed Door, The Wandering Door (destinations fixed for a week), The Exile's Gate (no further pairing authorised), the lockdown order, and the eleven-year handle chart.
 **Faction Involvement:** SED (D-territory exploration)
