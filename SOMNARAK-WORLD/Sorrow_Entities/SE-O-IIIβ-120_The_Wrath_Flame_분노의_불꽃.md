@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Identification first — The Wrath Flame is recognised by the route and the crimson core before anything else. Several things burn at the Scar; only one of them walks a fixed line and stops when it is saluted — then the approach is set and the positions are taken.
+1. **Tension:** Identification first — The Wrath Flame is recognised by the route and the crimson core before anything else. The Scar burns in a dozen places; only one fire walks a fixed line and stops when it is saluted — then the approach is set and the positions are taken.
 2. **Clash:** The team works the Flame in the open at the Scar, where there is no cell wall to fall back behind and the only cover is conduct. Flerehan and Ferrehan carry the encounter; Pugnahan returns heat for heat and has never once been logged as useful. The gauge answers to how the team carries itself, not to how hard it presses.
 3. **Resolution:** The watch may finish with the Flame back on its route under management, in retreat, or on the rule the salute book was opened for: **Bow or salute; acknowledge the war and the dead**. There is no cell to finish it in; this holding has never been inside one.
 
@@ -152,8 +152,7 @@ The table above is a diagnostic to be read, not a procedure to be followed: it s
 
 > **Containment event — no breach counter.** There is a count here — three ignored conditions — and a gauge, and both are read where they stand: what widens is the zone around the flame, and the flame has never left its route.
 
-> *"The Wrath Flame has broken free. Ignites personnel with sorrow-fire."*
-
+> *"The Flame has stopped its patrol and gone hot where it stands. Get the one who made the gesture clear of the zone; the rest of the crew can hold the perimeter until the heat drops."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Corrupt |
@@ -318,7 +317,7 @@ Three holdings stand in the Flame's working range — The Scar Walker, The Forgo
 
 ### Entity Interaction Record
 
-The Flame is one of several things still carrying the Occlusihan at the Scar, and it behaves differently when another of them is present. The entries below are the relationships the record will stand behind. None of them are alliances. They are the war continuing to arrange its survivors.
+The Flame is one of the Occlusihan’s carriers still standing at the Scar, and it behaves differently when another carrier is present. The entries below are the relationships the record will stand behind. None of them are alliances. They are the war continuing to arrange its survivors.
 
 | Nearby holding | How the two have stood | What the watch logged | What the entry carries |
 |---|---|---|---|
@@ -439,7 +438,7 @@ Personnel are not instructed to read the returns and are not asked afterwards wh
 
 - **Classification detail:** The Wrath Flame files as a Subject; its coherence is Fragment (III) — Fierce and protective — at Moderate (β), Manageable potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is The Desolate, near The Scar.
-- **Recognition detail:** Identify it by the route and the crimson core before anything else. Several things burn at the Scar; only one of them walks a fixed line and stops when it is saluted.
+- **Recognition detail:** Identify it by the route and the crimson core before anything else. The Scar holds dozens of fires; only one of them walks a fixed line and stops when it is saluted.
 - **Record detail:** Check the designation against the file before work begins. The Scar holds more than one Grudge entity drawn from the same war, and they do not answer to the same conduct.
 - **Containment detail:** Containment here holds a behaviour, not a body; there is no cell, and the Flame has never been inside one. What keeps it quiet is a posted route, a briefed approach, and personnel who acknowledge the dead. Staff working nearby still report heat dreams and short tempers off shift.
 ## Document Information

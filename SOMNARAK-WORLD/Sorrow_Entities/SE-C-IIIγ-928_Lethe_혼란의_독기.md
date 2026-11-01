@@ -154,8 +154,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 ## Breach Behavior
 
-> *"Lethe has broken free. The void mind spreads."*
-
+> *"Lethe has broken free and is pooling. It fills the lowest occupied volume first and rises from there; clear the low levels, and send nobody down to confirm a reading the instruments cannot take."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion — by volume of air, upward from the sublevels. |

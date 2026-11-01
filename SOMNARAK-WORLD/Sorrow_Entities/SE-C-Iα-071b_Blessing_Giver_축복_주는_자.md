@@ -147,8 +147,7 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 
 ## Breach Behavior
 
-> *"Blessing Giver has broken free. She is seeking personnel. Do not let her touch you."*
-
+> *"Blessing Giver has broken free and is seeking the unmarked. Do not let her touch you; the marked are already walking toward her, and no instruction the wing has tried turns them round."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape — she leaves the training unit on foot and walks the facility looking for people to bless |

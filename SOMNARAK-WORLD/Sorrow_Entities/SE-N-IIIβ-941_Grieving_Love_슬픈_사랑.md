@@ -163,8 +163,7 @@ Read the gauge only against the rest of the sheet. She is a Subject with Subject
 
 ## Breach Behavior
 
-> *"Grieving Love has broken free. She is looking for someone to hold, and she will find one. Do not let it be you."*
-
+> *"Grieving Love has broken free and is looking to be held. She goes to whoever has been kindest to her that day; nobody opens their arms and nobody steps in, because the touch is what takes a person apart."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

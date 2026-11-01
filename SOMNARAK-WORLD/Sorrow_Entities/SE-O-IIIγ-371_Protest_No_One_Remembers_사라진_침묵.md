@@ -85,7 +85,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The team identifies Protest No One Remembers by the radius, since there is nothing else to identify. Approach until ordinary sound thins, mark where it stops, and confirm the upright voice-like proportions of the quiet space at the centre; several things in Zone D suppress sound, and only this one is shaped like somebody about to speak, confirms the approach, and takes position before anything else is attempted.
+1. **Tension:** The team identifies Protest No One Remembers by the radius, since there is nothing else to identify. Approach until ordinary sound thins, mark where it stops, and confirm the upright voice-like proportions of the quiet space at the centre; Zone D holds more than one patch of quiet, and only this one is shaped like somebody about to speak, confirms the approach, and takes position before anything else is attempted.
 2. **Clash:** Twenty turns in the Commons, all four Work Types available, conducted under the knowledge that nothing said during the engagement will be audible to anyone more than a few paces off. Teams work with pre-agreed hand signals and a written running sheet, and the running sheet is the engagement record, since no one outside the radius can hear enough to keep one.
 3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Record the absence without inventing its content** — in practice the running sheet closes with the gaps listed, the missing reference numbers named, and nothing supplied where the register is blank.
 
@@ -117,7 +117,7 @@
 | **Form** | A voice-shaped absence that moves through the Commons, making sound disappear around it. |
 | **Position / movement** | Mobile; drifts through the Commons at walking pace with the silent radius travelling with it, and shows no preferred route, boundary, or return point. |
 | **Material / signature** | Void. Ash, bloodless cold, and an upright voice-shaped quiet with the proportions of somebody standing to speak. |
-| **Distinctive markers** | A measurable radius and nothing else. Several things in Zone D suppress sound; only this one is shaped like a person about to say something. |
+| **Distinctive markers** | A measurable radius and nothing else. Quiet is not rare in Zone D; a quiet with the proportions of a person is. Only this one is shaped like somebody about to say something. |
 | **Identification** | Cross-check the markers against the designation before contact — a Fragment and a Sovereign can look alike in poor light, and here there is no form to look at, only a radius to measure. |
 
 ### Appearance States
@@ -157,8 +157,7 @@ The table is the whole of this holding's usable knowledge and it is deliberately
 **Reading the response:** Read it in the radius and in what the team starts to be able to say. A falling gauge presents as sound returning at the edges — footsteps audible again at the perimeter, then voices, the boundary drawing in toward the centre. Nothing is restored by that. The protest stays erased, and the Commons goes back to not remembering it. A rising gauge presents as **articulacy**. Personnel working in front of the absence begin to find they can say what the protest was about: its grievance, its demands, the names of the people who called it, arriving with the easy confidence of recollection rather than inference. None of it is recoverable from any source this facility holds. The entity cannot repeat a word that was never spoken, and neither can anyone else, so fluency about its content is not knowledge arriving — it is the sorrow filling its own hole, and it is the one development on this holding that requires an immediate stand-down.
 ## Breach Behavior
 
-> *"Protest No One Remembers has broken free. Hunts personnel indiscriminately."*
-
+> *"Protest No One Remembers has broken free. It takes whoever is speaking, or whoever has just stopped, and failing both the nearest person still holding a running sheet."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
@@ -441,7 +440,7 @@ The Commons registrar's objection was lodged at the time and has been renewed at
 
 - **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, `O-IIIγ-371 [VS]`; the grade is the read-out of both clocks, the counter at 2 and the gauge line at 75%, either standing alone.
 - **Field detail:** Element Void, registered to Zone D at the Mantle Commons, where the radius is measured from three fixed points and the tone test is run from a fixed listening station at every watch.
-- **Recognition detail:** Identify it by the radius, since there is nothing else to identify. Approach until ordinary sound thins, mark where it stops, and confirm the upright voice-like proportions of the quiet space at the centre; several things in Zone D suppress sound, and only this one is shaped like somebody about to speak.
+- **Recognition detail:** Identify it by the radius, since there is nothing else to identify. Approach until ordinary sound thins, mark where it stops, and confirm the upright voice-like proportions of the quiet space at the centre; Zone D holds more than one patch of quiet, and only this one is shaped like somebody about to speak.
 - **Record detail:** Erasure-derived holdings recur in the archive and the Commons has held more than one, so confirm the designation and the manifestation before a cycle is booked; what separates this entity is the absolute prohibition on supplying content — an assertion about the protest feeds it whether it arrives as an official denial or as an inference, and the file treats both as the same act.
 - **Containment detail:** Containment of this holding is, unavoidably, silence, and that is the difficulty rather than the solution. There is no enclosure — the entity drifts through the Commons and through structure alike — and what crosses every boundary is the quiet. Staff in adjacent spaces report conversations dying without anyone deciding to stop, and the complaint most often made is not fear but the sense of having been interrupted by nothing.
 ## Document Information

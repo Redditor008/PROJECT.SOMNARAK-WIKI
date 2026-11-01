@@ -152,8 +152,7 @@ The four responses split two and two, which is unusual for a Grudge subject and 
 **Reading the response:** A falling gauge under Flerehan means the reaching was answered rather than avoided; a falling gauge under Ferrehan means the worker stayed on a surface that was moving. Rising means the entity was treated as an obstruction in the corridor. The distinction personnel most often get wrong is that standing still on the span is participation, and stepping off it is not.
 ## Breach Behavior
 
-> *"Cenotaph has broken free. Collapses under anyone who crosses."*
-
+> *"Cenotaph has broken free and the span is giving way. Nobody crosses alone and nobody steps on without the rest of the team; a paired, signed-for crossing is the only one that has ever lowered the drain."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

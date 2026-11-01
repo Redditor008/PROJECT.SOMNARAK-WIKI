@@ -149,8 +149,7 @@ Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation an
 
 > **Containment event — no breach counter.** The gauge is a threshold and the claims on the object are what the watch counts. The figure intensifies where it stands and cracks the structure outward, and it has nowhere to leave to.
 
-> *"Relic of a Thousand Owners has broken free. It intensifies in place and makes the position untenable."*
-
+> *"Relic of a Thousand Owners has come to rest and gone loud. The weeping carries through the wall and the structure is cracking outward from the position; clear the wing and let it finish."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Corrupt |

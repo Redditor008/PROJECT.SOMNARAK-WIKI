@@ -364,7 +364,7 @@ Some sorrows mourn a home. Uprooted mourns the rooting — the attempt to belong
 **Threat Assessment:** Major, carried for the rising events and not for the travelling. Nine years, 84 plotted nights, four risings, three of them after somebody cut it; eleven injuries, no fatalities, two buildings lost.
 **Containment & Handling Procedures:**
 - Walk behind, plot the line, name every site crossed. Naming is worth nine to fourteen gauge points a night.
-- Standard R.D. containment protocols apply.
+- The route is mapped and witnessed, and the roots are never burned. Three of the four recorded risings followed somebody cutting them, and the file keeps the dates together for that reason.
 - It stops travelling and begins to rise. Three of the four risings followed a cut tendril.
 **Observation Notes:**
 - Nineteen sites with occupation dates; the intervals shorten the whole way down and the ground got better, not worse.

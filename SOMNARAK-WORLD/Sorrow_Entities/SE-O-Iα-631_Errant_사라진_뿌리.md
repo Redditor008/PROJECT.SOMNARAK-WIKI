@@ -118,7 +118,7 @@
 | **Position / movement** | Waits beneath floors and surfaces without warning; record where it emerged, what it reached for, and how long it stayed before sinking again. |
 | **Material / signature** | Pale trailing root-matter, lead-cold, smelling of wet stone, with no soil on it anywhere — nine years of swabs and not one grain. Record the fade line in centimetres from the floor and the number of root-fingers extended; both are stable within a session and both drift between them. |
 | **Distinctive markers** | A root system in the shape of a person that stops existing at about the waist, with nothing above it that it belongs to. Nothing else in the wing is incomplete in that direction; the other root-form holdings all have a tree. |
-| **Identification** | Verify the designation, the manifestation and the fade line against the file before Work begins; the wrong entity is the wrong sorrow, and several things in this wing look like roots. |
+| **Identification** | Verify the designation, the manifestation and the fade line against the file before Work begins; the wrong entity is the wrong sorrow, and this wing is nothing but roots. |
 
 **Appearance protocol:** Record the upper half in the ordinary way — the reach of the root-fingers, the pallor, the lead-cold and the smell of wet stone — and then record the lower half, which is the whole point of this entity and is not there. State the height at which the body stops being a body and becomes nothing, measured from the floor, every cycle; that figure varies and the variation is the holding's only responsive measurement. There is no tree. No trunk, no crown, nothing above it that it is the root of, and the file says so in the briefing because observers keep looking for one. Record what it reached toward and who was standing there. It reaches for people who feel ungrounded, which means the appearance log is quietly also a record of how the team is doing, and personnel are told that outright rather than discovering it later.
 
@@ -147,8 +147,7 @@ The table is accurate and incomplete in a way the wing has stopped trying to fix
 **Reading the response:** Read it in the reaching. A falling gauge presents as withdrawal — the root-fingers curling in, the fade line rising, the thing sinking back below the floor without having taken hold of anyone. The pressure drops and nothing is settled; it is still from nowhere. A rising gauge presents as **welcome**. The root reaches more readily, finds a worker more quickly, and the worker in question usually reports that it seems to know them. It does not. It has found somebody who is not sure where they belong, which at this facility is most people in their first year, and that is precisely why the cheapest holding in the wing is the one most often worked by the least settled staff.
 ## Breach Behavior
 
-> *"Errant has broken free. Grasps at ankles, dragging personnel down."*
-
+> *"Errant has broken free. It reaches for the person with the shortest posting in the room, in thirty-four of thirty-seven logged reaches; put the long-service crew in front and keep the newest warden out of it."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -355,7 +354,7 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 **Threat Assessment:** Minor and correctly graded. Nine years, nineteen strikes, no fatalities and no lasting injuries; the serious damage on record is a floor section the wing broke itself by walking the holding somewhere it should not have been walked.
 **Containment & Handling Procedures:**
 - The Work Type table is accurate and does not predict the session; the postings in the room do.
-- Standard R.D. containment protocols apply.
+- The anchor is current or the work does not start. The Root is not returned to an old home, and a warden who offers one has moved the holding somewhere it should not be walked.
 - It breaches downward and stops. Go to the lowest unoccupied storage level and wait.
 **Observation Notes:**
 - The first removal was never recorded, so the ground this holding came from cannot be identified and the file does not pretend otherwise.

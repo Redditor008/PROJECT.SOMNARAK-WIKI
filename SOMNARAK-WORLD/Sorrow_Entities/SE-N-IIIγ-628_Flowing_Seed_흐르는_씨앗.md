@@ -178,8 +178,7 @@ The escalation here is measured in metres rather than in turns. Record the advan
 **Activation reporting order:** pin reading → advance since the last watch → plate curve at the marked distances → softening of the ground behind it → personnel effect → whether the honours file has been read this posting. The last field is on the form because Wardens who have read it report the weight differently and the difference is consistent.
 ## Breach Behavior
 
-> *"Flowing Seed has broken free. Plants itself in personnel, growing within."*
-
+> *"Flowing Seed has broken free. It plants in whoever is standing on ground it has crossed, or in the person carrying a death that was never written down; the planting is not felt at the time, which is the whole danger."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

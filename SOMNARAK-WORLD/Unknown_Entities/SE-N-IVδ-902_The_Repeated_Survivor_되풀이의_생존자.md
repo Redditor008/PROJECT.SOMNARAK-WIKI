@@ -157,8 +157,7 @@ The Repeated Survivor cannot be managed as an ordinary hostile. It is a person-s
 
 ## Breach Behavior
 
-> *"Repeated Survivor has broken free. Loops, appearing wherever personnel just were."*
-
+> *"Repeated Survivor has broken free and is looping. It goes to the nearest person or to the one whose sorrow matches its origin, and it arrives where the crew has just been — the last place you stood is the dangerous one."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

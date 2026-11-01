@@ -363,7 +363,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding â€
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - The Work Type responses are set out in the Behavior section of this file.
-- Standard R.D. containment protocols apply.
+- Neither half of the answer is optional: the crossing is named and the loss is named, in that order. A promise of reunion ends the session and starts the event.
 - Escalation response is carried under Containment Event Behavior and Activation Behavior.
 **Observation Notes:**
 - See Origin section for formation and event details.

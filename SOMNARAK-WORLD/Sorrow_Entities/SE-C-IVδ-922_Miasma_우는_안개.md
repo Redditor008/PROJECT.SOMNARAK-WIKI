@@ -154,8 +154,7 @@ The pressure cannot be measured at all, which is the operational problem: the ho
 
 > **Containment event — no breach counter.** The bank extends into connected service runs and stays a bank; the gauge rises ten points per run entered.
 
-> *"Miasma has broken free. It fills the lower runs, and the weeping starts on its own."*
-
+> *"The Miasma is out of the vault level and running the service passages. Shut doors will not stop it — keep the district crews out of the lower runs, and send nobody down to look."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

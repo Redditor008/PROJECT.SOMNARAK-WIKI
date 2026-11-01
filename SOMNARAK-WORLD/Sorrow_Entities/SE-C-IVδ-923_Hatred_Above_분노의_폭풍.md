@@ -154,8 +154,7 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 
 > **Containment event — no breach counter.** The footprint widens while the anomaly stays fixed overhead; the gauge rises ten points per metre the marked line is out of date.
 
-> *"Hatred Above has broken free. The grudge grudge spreads."*
-
+> *"The footprint under Hatred Above has widened again. The hazard at the new edge is the nearest other person; separate the crews and hold the old line where it was."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

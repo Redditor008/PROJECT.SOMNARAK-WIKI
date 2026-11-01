@@ -148,8 +148,7 @@ Read the responses against the classification. Cleaved is a Subject with a Subje
 **Reading the response:** A falling gauge means the design was held in view for the length of the cycle. No Work Type amends the register, and the register is what the holding measures itself against, so a session that returns the gauge to 20 % leaves the scheme exactly as open as it found it. The reading that matters most for the record is the height, taken before and after from the same station: the seam and the bearing have never moved, and the height moves at every survey. Log the height first, the bearing second, and the register's standing third.
 ## Breach Behavior
 
-> *"Cleaved has broken free. Topples, crushing corridors."*
-
+> *"Cleaved has broken free and is moving on the skyline. It goes for the tallest thing on its route rather than for people; every casualty on the record was standing underneath something."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

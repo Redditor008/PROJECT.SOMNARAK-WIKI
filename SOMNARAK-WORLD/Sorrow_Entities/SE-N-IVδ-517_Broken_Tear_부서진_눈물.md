@@ -148,8 +148,7 @@ Read the table against the roster rather than as a menu, because on this holding
 **Reading the response:** Read it in the face and in the sound. A falling gauge presents as the figure becoming clearer — the fracture slowing, the features holding an arrangement for longer, the tone softening toward something a listener could follow. Clarity is the success signal here, not quiet, and an entrant who takes silence for progress has usually mistaken the figure withdrawing for the figure settling. A rising gauge presents as **eloquence**. The entrant begins to find the right things to say. Phrases arrive easily, sound true as they are spoken, and are received — and this is the single most dangerous condition in the chamber, because the figure comes apart when it is comforted dishonestly, and nothing feels less dishonest than fluent sympathy. The breaking is not a defence. It is the entity coming to pieces.
 ## Breach Behavior
 
-> *"Broken Tear has broken free. Floods corridors with sorrow."*
-
+> *"Broken Tear has broken free. It goes to whoever stands nearest, unless somebody in that corridor is carrying a sorrow of the same shape as hers — then it goes to them, and it does not hurry."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

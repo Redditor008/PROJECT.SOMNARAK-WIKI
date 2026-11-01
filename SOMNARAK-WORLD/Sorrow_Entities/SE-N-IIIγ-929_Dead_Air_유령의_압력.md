@@ -136,8 +136,7 @@ The weight is reported, not measured, and the archive is careful to keep those t
 
 ## Breach Behavior
 
-> *"Dead Air has broken free. The weight spirit spreads."*
-
+> *"Dead Air has broken free. It is reported by whoever is expecting it, at three times the rate on watches where the Warden went in looking for a figure; the order is to go in looking for nothing."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |

@@ -165,8 +165,7 @@ Responses here are conduct, not technique: the same lowered weapon reads one way
 **Reading the response:** A weapon coming off the shoulder and the escort shortening mean the visit has been accepted, and acceptance here is a judgement the Walker makes about the visitor rather than about the technique. A rising gauge means the approach was read as desecration, and the correction is not a stronger Work Type but an apology performed in the right order: salute, then the work, then the walk back at the escort's pace.
 ## Breach Behavior
 
-> *"Scar Walker has broken free. Patrols the perimeter and attacks intruders."*
-
+> *"The Scar Walker has broken free. It goes for whoever in the party last stood on the rift itself, and it will go through the rest of the party to reach them."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -372,8 +371,7 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
+- The salute is operational, not ceremonial: an escort that has not been formally dismissed follows visitors out of the sector, and dismissal is recorded by name.
 - For what happens when a watch goes wrong, the Breach Behavior and Activation Behavior sections carry it.
 **Observation Notes:**
 - Formation and the event itself are set out in the Origin section.

@@ -137,8 +137,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 ## Breach Behavior
 
-> *"Passing Bell has broken free. The weight spirit spreads."*
-
+> *"Passing Bell has broken free. It is not addressing anybody: the voices speak to each other, and they have spoken to a living person four times in seventy-one hours, each time after being spoken to first."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |

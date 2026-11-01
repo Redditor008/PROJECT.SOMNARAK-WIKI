@@ -157,8 +157,7 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 **Reading the response:** Read it in the stoop and in the figure. A falling gauge presents as the stoop easing by a degree or two and the recitation pausing; a rising one presents as the figure climbing faster than the shift's usual increment. The gauge instrument confirms both, hours later. The stoop mark and the recited total are what the watch actually works from.
 ## Breach Behavior
 
-> *"Debtor has broken free. Seeks out the indebted and the burdened."*
-
+> *"Debtor has broken free. Do not meet its eyes — that is the whole of it. Anyone who does starts carrying a share of a debt that is not theirs, and says so out loud."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

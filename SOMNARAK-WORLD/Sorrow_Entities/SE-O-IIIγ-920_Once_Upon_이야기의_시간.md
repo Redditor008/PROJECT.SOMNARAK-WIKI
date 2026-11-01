@@ -152,8 +152,7 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 
 > **Containment event — no breach counter.** Escalation makes the stories simultaneous and the source body is not transformed; the gauge rises ten points a cycle.
 
-> *"Once Upon has broken free. The lament tale spreads."*
-
+> *"Once Upon is running every story at once. Anybody who stops to listen is in the story; keep the crews walking through and keep the tale count on the slate, not in the corridor."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

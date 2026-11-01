@@ -154,8 +154,7 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 > **Containment event — no breach counter.** Episodes take neighbouring streets and no transformed body is documented; the gauge rises ten per cent per street taken.
 
-> *"Dawn That Forgot has broken free. The void dream spreads."*
-
+> *"Dawn That Forgot has taken the next street out. Read the boundary at first light; every household inside it now begins the day with an episode, and nobody there is injured by it."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

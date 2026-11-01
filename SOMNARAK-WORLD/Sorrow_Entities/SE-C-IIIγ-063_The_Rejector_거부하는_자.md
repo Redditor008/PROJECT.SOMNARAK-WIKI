@@ -151,8 +151,7 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 **Reading the response:** Read it in the silence and in the register. A falling gauge presents as a worker and an entity sitting together with nothing being asked, for a long time, and ends when the worker's own tolerance ends rather than when his does. A rising gauge presents the instant anybody tells him to do something; the rise is immediate, proportionate to how reasonable the instruction was, and does not come back down within the watch.
 ## Breach Behavior
 
-> *"Rejector has broken free. Hunts personnel indiscriminately."*
-
+> *"Rejector has broken free. Do not instruct him, do not correct him, do not say his designation aloud. Refusal needs something to refuse, and he takes the corridor's definition with it."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

@@ -156,8 +156,7 @@ Work on this holding is a sitting job and the readings reflect it. Flerehan and 
 **Reading the response:** A falling reading under Flerehan or Ferrehan means a worker stayed for the time they said they would stay and then left having said they were leaving. Stability under Viderehan is correct. The reading rises on reassurance — on anybody telling him that the person is coming back, that they would have had a good reason, or that he will understand when he is older.
 ## Breach Behavior
 
-> *"The Lost Prince has broken free. Searches for the person who lost him."*
-
+> *"The Lost Prince has broken free and is asking. He goes to whoever worked closest with the person who left the rotation; answer nothing, and announce any departure outside the room."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

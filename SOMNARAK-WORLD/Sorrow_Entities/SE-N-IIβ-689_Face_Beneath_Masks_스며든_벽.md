@@ -148,8 +148,7 @@ Face Beneath Masks is a Subject with Subject-Mind manifestation and Void express
 **Reading the response:** Read it in the schedule and not in the room. A falling gauge presents as items coming back — a name produced today that was unreachable last week — and as the carrier volunteering something nobody asked for. A rising gauge presents as fluency with no content: smooth, complete, agreeable answers that contain nothing. The file is blunt that a cooperative carrier with a rising score is the commonest missed escalation on this holding.
 ## Breach Behavior
 
-> *"Face Beneath Masks has broken free. Expands, crushing corridors shut."*
-
+> *"Face Beneath Masks has broken free and the corridor is closing. Get out of the near distance now; whatever it takes goes into the mask, and most of it comes back within a fortnight and some of it does not."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |

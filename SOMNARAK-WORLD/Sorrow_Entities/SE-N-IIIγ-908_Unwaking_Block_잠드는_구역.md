@@ -152,8 +152,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 ## Breach Behavior
 
-> *"Unwaking Block has broken free. The lament dream spreads."*
-
+> *"Unwaking Block has broken free. It takes a doorway rather than a person; find the door that was not on the last survey, because whoever is behind it went down together in one night and none of them woke where they lay down."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |

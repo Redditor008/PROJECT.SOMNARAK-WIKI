@@ -180,8 +180,7 @@ Escalation is downward growth. Record the depth at eleven points, the entry read
 **Activation reporting order:** depth and spread of the root mass → what was concealed above it in the preceding week, including anything withdrawn from display → what was read aloud on the floor, and by whom → the response in the crystal → the reading. The second and third fields are the mechanism; the rest is description.
 ## Breach Behavior
 
-> *"Banyan has broken free. Extends roots through the floor, entangling personnel."*
-
+> *"Banyan has broken free. It takes whoever on the floor is carrying something they have told nobody; the roots are incidental — the silence afterwards is the finding."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -393,8 +392,7 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). Eleven years, 188 readings, three descents, one flood, eleven strikes, no fatalities — and a root mass half a metre nearer the surface than when the crystal was laid.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
+- Nobody seals the roots again, and nobody works it alone: the condition is honest expression, and a watch that leaves the grief unsaid has left the work undone.
 - See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
 - See Origin section for formation and event details.

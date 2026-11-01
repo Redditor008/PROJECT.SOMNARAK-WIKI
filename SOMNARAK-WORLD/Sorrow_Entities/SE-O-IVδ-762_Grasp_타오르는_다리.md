@@ -147,8 +147,7 @@ The table's useful row is Flerehan, which is unusual on a δ-grade holding and w
 **Reading the response:** Read it in the calling. A decrease sounds like the voice losing its addressee — fewer names, longer gaps, the tone shifting from summons to weeping; the figure is being accompanied rather than answered, which is what Flerehan and Ferrehan are for. An increase sounds like success: the voice becomes specific, urgent and encouraging, as though the crossing were nearly complete. That is what the work having fed it sounds like, and it is pleasant to hear. Record the worker's condition separately from the gauge, because the two diverge here more than the standard form allows — a cycle that ends with the gauge down and the worker quietly convinced that the far side is reachable is a failed cycle and must be written up as one. If the figure says anything this file does not contain, and in particular anything that is true about the person it is speaking to, that is the most important line of the day.
 ## Breach Behavior
 
-> *"Grasp has broken free. Collapses under anyone who crosses."*
-
+> *"Grasp has broken free and the span is open. Across eleven incidents it has gone to the most experienced person present; the voice is the hazard, so the long-service wardens stay off the crossing."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -355,7 +354,7 @@ Some sorrows mourn the dead. Grasp mourns the reaching — the calls across the 
 **Threat Assessment:** Critical (δ). Nine years, 140 watches, one span event, three M.A.W. incidents, nineteen crossing proposals, no fatalities — and the station's own view that the figure has never hurt anybody and has very nearly killed four.
 **Containment & Handling Procedures:**
 - Flerehan softens it, Ferrehan outlasts it, Pugnahan sets the span alight. Forty minutes in earshot is the limit.
-- Standard R.D. containment protocols apply.
+- No promise of rescue is made across the span, by anybody, in any wording. The acknowledgement of one person's limits is the condition, and it is spoken before the watch begins rather than offered to the figure.
 - It relocates to another gap; eleven positions in nine years, four of them over ground that has been filled in.
 **Observation Notes:**
 - Thirty-one names on the departure roll, twenty-seven claimed, four read anyway every watch.

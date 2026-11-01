@@ -189,8 +189,7 @@ The escalation pattern is specific to Floating Tree: it is not a generic breach 
 **Activation reporting order:** shadow edge pegged → shadow area computed → height estimate stated as an estimate → current bearing → fragments fallen since the last session. The area is the figure that matters and the only one the file trends.
 ## Breach Behavior
 
-> *"Floating Tree has broken free. Extends roots through the floor, entangling personnel."*
-
+> *"Floating Tree has broken free and is under way. Stay out from under the crown — it takes whoever is directly beneath it, and it prefers personnel who have been resettled themselves."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

@@ -152,8 +152,7 @@ The table says the two available Work Types both reduce the gauge and does not s
 
 > **Containment event — no breach counter.** The loop interval contracts and the boundary extends for the duration; nothing travels, and the gauge rises ten points a cycle.
 
-> *"Never Discharged has broken free. The weight body spreads."*
-
+> *"The loop has shortened and the bay boundary has extended. Nobody inside the doorway is selected over anybody else; the scream arrives every forty-seven minutes and it belongs to everyone in the bay."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

@@ -352,7 +352,7 @@ Three records stand against this one in the vault index because each keeps a dif
 
 ### Entity Interaction Record
 
-Several things in the vault grew out of what was not there, and the three below are filed beside this one because standing near any of them makes it harder to describe the others accurately. None of the three is ally or enemy; the archive holds them as pairings of subject, and the traffic it can measure runs one way and thin.
+Growths out of what was not there are the vault’s ordinary product, and the three below are filed beside this one because standing near any of them makes it harder to describe the others accurately. None of the three is ally or enemy; the archive holds them as pairings of subject, and the traffic it can measure runs one way and thin.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|

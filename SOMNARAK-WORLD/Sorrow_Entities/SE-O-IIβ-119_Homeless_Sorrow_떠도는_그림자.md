@@ -185,8 +185,7 @@ Escalation here is a relocation, and it is almost always preceded by an empty ro
 **Activation reporting order:** hours present in the assigned room → sightings elsewhere in the district → any room, store or office reallocated in the sector that week → light levels during the session → the reading. The third field comes from the works office; teams are not to assume that a reallocation two floors away is irrelevant, because the log says otherwise.
 ## Breach Behavior
 
-> *"Homeless Sorrow has broken free. It follows personnel in their own shadows."*
-
+> *"Homeless Sorrow has broken free. It goes to whoever was most recently moved out of a workspace, and the rooms it passes take on the stillness of somewhere already abandoned."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

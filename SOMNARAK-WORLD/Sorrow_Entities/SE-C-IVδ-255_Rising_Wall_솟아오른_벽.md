@@ -148,8 +148,7 @@
 **Reading the response:** A falling reading shows in two places at once: the height against the marked face comes down, and the Wall reaches toward the worker rather than enclosing them. That reach is what the counsellors watch most closely, because it is gentle and because the origin is a citizen who waited for a love that never answered. A rising reading shows as height retained after the cycle and as a hardening no voice can talk back down; the file's sharpest instruction is that an enclosure is talked down by one voice and that nobody else contributes, a rule written after a senior officer intervened with every good intention and made the second incident unworkable.
 ## Breach Behavior
 
-> *"Rising Wall has broken free. Hunts personnel indiscriminately."*
-
+> *"Rising Wall has broken free and is moving on grief it can hear. It does not take the nearest body; it takes the loudest one, so clear whoever it is approaching rather than whoever is closest."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

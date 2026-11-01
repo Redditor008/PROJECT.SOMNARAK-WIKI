@@ -175,9 +175,9 @@ Escalation here is propagation along existing seams rather than expansion in met
 | **Primary effect** | Clarity loss; forgetfulness of neighbors and shared histories; on bad days, district-wide estrangement. |
 | **Escalation** | Exposure continues for: Until a cross-line conversation occurs or both groups withdraw. Each additional turn or work cycle must record personnel position, Sorrow Gauge change, and environmental damage. |
 | **Suppression** | Maintain a Ferrehan presence; encourage (never force) contact; place a Shared Glass at the seam. |
-| **Failure condition** | If suppression fails, remove nonessential personnel from A four-way junction in the Mantle Commons, Zone D, prevent additional resonance, and follow the entity's recorded movement or expansion pattern until the resolution condition is met. |
+| **Failure condition** | If suppression fails, remove nonessential personnel from the junction and its approaches, prevent additional resonance, and follow the line's recorded propagation pattern until the resolution condition is met. |
 
-**Expansion Behavior reporting order:** trigger → first visible change → first affected target → area of effect → escalation → suppression attempt → final condition. A expansion report is incomplete if it records only casualties and not the entity's behavior.
+**Expansion Behavior reporting order:** trigger → first visible change → first affected target → area of effect → escalation → suppression attempt → final condition. An expansion report is incomplete if it records only casualties and not what the line did at the seam.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form. Extraction is permitted; the relic set is fragile.

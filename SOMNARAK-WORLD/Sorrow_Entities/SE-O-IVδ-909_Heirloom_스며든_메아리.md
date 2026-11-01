@@ -373,7 +373,7 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 **Threat Assessment:** Critical by grade and slow by nature. Eleven years, 211 watches, 38 strikes, no fatalities, no hospitalisation — and 1.3 metres of vault consumed, none of it recoverable.
 **Containment & Handling Procedures:**
 - Viderehan shows the spread; Ferrehan outlasts it in about forty minutes. Attribute everything.
-- Standard R.D. containment protocols apply.
+- Repetition is stopped before it is attributed: an unattributed echo is written up with the door it stopped at, and the name behind the original voice is established from the hearing log, not from the warden who hears it.
 - Unattributed repetition is the trigger; the sound stops at any door already shut.
 **Observation Notes:**
 - Four recitation books a generation apart, the last of them naming nobody and nine words shorter.

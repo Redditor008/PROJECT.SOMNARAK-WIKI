@@ -147,8 +147,7 @@ The four responses divide into opening and carrying, and the division is the who
 **Reading the response:** Loosening roots and a falling gauge mean the buried history has been allowed up, and what comes with it belongs to the ground rather than to the worker. Hardening means the work was taken as an attempt to clear the Root away, and the spread that follows is not retaliation but the ordinary behaviour of something that grows when cut. The distinction is reliable enough to brief on.
 ## Breach Behavior
 
-> *"Spreading Root has broken free. Grasps at ankles, dragging personnel down."*
-
+> *"Spreading Root has broken free. It takes whoever is standing on ground with something buried under it; the floor buckles along the root line first, which is the only warning the watch gets."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -310,7 +309,7 @@ Three records are filed against this one because each keeps something that was p
 
 ### Entity Interaction Record
 
-The Old Lament holds several things that grew out of what was put under its floors and left there. The three below are filed alongside this one for that reason, and what happens between them happens underneath, where it is recorded afterwards by what the surface does. None of the three is an ally or an enemy, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise.
+What grew under the Old Lament’s floors was put there and left there, and it is not all one thing. The three below are filed alongside this one for that reason, and what happens between them happens underneath, where it is recorded afterwards by what the surface does. None of the three is an ally or an enemy, and no co-presence has been logged with both holdings' readings attached except where the row says otherwise.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|

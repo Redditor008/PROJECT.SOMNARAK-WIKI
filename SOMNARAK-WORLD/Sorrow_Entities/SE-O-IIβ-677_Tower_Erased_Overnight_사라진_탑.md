@@ -376,7 +376,7 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 **Threat Assessment:** Moderate inside the footprint in the ordinary peg-return record. Eleven years, three activations, eleven strikes, no fatalities and no permanent injuries are the stated watch return, not proof that the street is unconditionally safe: the separate Sorrow Tide record makes the leaning street impassable and applies pressure there. Preserve that exceptional condition when setting the perimeter.
 **Containment & Handling Procedures:**
 - Two of the four Work Types cannot be performed on an Object/Place and the other two amount to standing in a street and reading.
-- Standard R.D. containment protocols apply.
+- The footprint is surveyed at every watch and new material inside it is removed and recorded with the hour it was found. Nothing is built over the absence, and no warden is asked to say what used to stand there.
 - One trigger only: something placed inside the footprint. Remove it, record who authorised it, read the list.
 **Observation Notes:**
 - A lawful demolition schedule with a completed consultation line and an occupancy column filled in from the previous quarter.

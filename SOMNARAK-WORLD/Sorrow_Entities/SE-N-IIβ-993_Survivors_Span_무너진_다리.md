@@ -95,7 +95,7 @@
 - A worker who breaks here does not panic. They begin apologising — to the Span, to the names, to the tunnel — and cannot be stopped by instruction, only by being walked out. Four of the five recorded cases apologised for something that happened before they were born.
 - The hazard does not scale with time in the tunnel. It scales with how long the worker has been carrying something of their own: the two personnel hospitalised after contact had both lost a crew in the Fray, and both were cleared for the assignment because the file did not ask.
 - Every piece in this set makes the bearer harder to put down and heavier to be. The harness has never failed to hold a worker upright; two of its four bearers have asked to be relieved of it and both said the same thing — that they could not tell whether they were still standing because they chose to.
-- An unresolved cycle leaves the Span walking. It does not hide and it does not hunt; it paces the tunnel loop at roughly 1.2 m/s until the next team arrives, and the loop has widened by about forty metres a year since the file opened.
+- An unresolved cycle leaves the Span walking. It does not hide and it does not hunt; it paces the tunnel loop at its recorded 1.45 m/s until the next team arrives, and the loop has widened by about forty metres a year since the file opened.
 
 ## Appearance
 
@@ -123,7 +123,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A weeping figure shaped like a collapsed bridge, carrying broken spans across its shoulders. |
-| **Position / movement** | Walking the tunnel loop clockwise at about 1.2 m/s, never pausing at the same place twice in a shift except the junction where the Low Crossing's approach used to begin. |
+| **Position / movement** | Walking the tunnel loop clockwise at its recorded 1.45 m/s, never pausing at the same place twice in a shift except the junction where the Low Crossing's approach used to begin. |
 | **Material / signature** | Cracked span-stone and twisted reinforcement, lead-cold, smelling of wet stone and of the tunnel's own water. It drips continuously and the water is never found on the floor behind it. |
 | **Distinctive markers** | The road surface across its shoulders still carries its painted lane line, unbroken, which is how the Low Crossing was identified from the wreck it carries. |
 | **Identification** | Confirm the carried lane-marked wreck, the waterless drip and the shoulder position. Read the lost names in payroll order before the junction approach; neither a bridge-shaped weapon nor a guilt response alone identifies the Subject. |

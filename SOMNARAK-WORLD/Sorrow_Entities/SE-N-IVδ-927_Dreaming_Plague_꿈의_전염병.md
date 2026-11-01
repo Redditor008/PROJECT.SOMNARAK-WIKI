@@ -155,8 +155,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 > **Containment event — no breach counter.** The dream follows a carried sleeper and no transformed traveller is recorded; the gauge rises ten points per additional sleeper.
 
-> *"Dreaming Plague has broken free. The void dream spreads."*
-
+> *"The boundary has moved. Expect one unprompted sleeper inside it; after that the contact rule is back, so nobody lifts anybody and nothing is carried across the line."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

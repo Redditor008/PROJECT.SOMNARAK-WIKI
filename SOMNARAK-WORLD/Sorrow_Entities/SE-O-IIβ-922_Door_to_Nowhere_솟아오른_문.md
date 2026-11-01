@@ -391,7 +391,7 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 **Threat Assessment:** Moderate. Eleven years, 94 appearances, four handle contacts, one propagation, no fatalities — and a handle fifty centimetres further out of reach than when the record opened.
 **Containment & Handling Procedures:**
 - Measure the handle, log the room and hour, withdraw with it shut. Never open it.
-- Standard R.D. containment protocols apply.
+- The handle is measured at every appearance and the room and hour logged with it. The door withdraws on its own, never in under forty minutes and never past the end of a shift; nobody has ever made it leave.
 - A hand on the handle while naming a choice. Clear anybody who speaks a regret within arm's length.
 **Observation Notes:**
 - A lawful nine-day lockdown order, one resident inside it, and a handle that went up on the sixth day.

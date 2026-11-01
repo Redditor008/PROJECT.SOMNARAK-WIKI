@@ -148,8 +148,7 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 **Reading the response:** Read the approach temperature and the grip of the root-legs. A falling gauge presents as cooler approach and looser rooting; a rising one presents as outward strikes and fresh marks. The worker's sense of comfort is not an indicator of anything except exposure and has never once been one.
 ## Breach Behavior
 
-> *"Burning Root has broken free. Grasps at ankles, dragging personnel down."*
-
+> *"Burning Root has broken free and is rooting across the floor. Get onto the raised walkways — it takes the lowest point of contact, and the floor it crosses does not come back."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape — slow, unhurried, and route-limited. |

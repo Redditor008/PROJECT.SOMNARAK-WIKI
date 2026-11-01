@@ -382,7 +382,7 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 **Threat Assessment:** Moderate on paper and conditional in practice. In six years the holding has injured four people, all of whom turned the handle, and has never acted on anybody standing still. The demolition attempt is the only occasion on which it damaged anyone who was not holding it.
 **Containment & Handling Procedures:**
 - Work Types are recorded for completeness and none of them has been shown to move the flame; read the ledger instead.
-- Standard R.D. containment protocols apply.
+- The door is never closed by hand. It shuts of its own accord, the flame returns to grade one or below, and the Gardens office does not permit the attempt — the one demolition on file is also the only occasion it damaged somebody who was not holding it.
 - Escalation is a name, a grade, and a step, in that order and within about forty seconds.
 **Observation Notes:**
 - The origin is a lawful property division signed by seven people, and the settlement is kept in the ledger's front cover.

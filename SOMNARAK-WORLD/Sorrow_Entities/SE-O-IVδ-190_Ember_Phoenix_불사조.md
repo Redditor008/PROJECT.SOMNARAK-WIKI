@@ -147,8 +147,7 @@ The file carries a Subject-Body manifestation expressing Grudge, mobile across t
 **Reading the response:** Read it in the interval between collapse and re-ignition. A falling gauge presents as lengthening — the ash lying longer, the spark slower to come, the fire smaller when it does. The pressure is absorbed and the source is untouched; she is resting, not finished, and the next ignition is already on its way. A rising gauge presents as vigour. The returns come faster and bigger, the wings carry further, and the thing looks magnificent and unkillable in exactly the way the old stories describe. That is the failure state. Magnificence here is the measure of how little recovery she has been allowed. If the entity responds differently from the record, write it down before acting on it, and resist the particular temptation this holding produces, which is to read a strong return as a good outcome.
 ## Breach Behavior
 
-> *"Ember Phoenix has broken free. Ignites everything."*
-
+> *"Ember Phoenix has broken free and is alight. It goes to the nearest body or to the one whose sorrow matches its origin; the heat is the attack, and anything left standing in the room is fuel."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

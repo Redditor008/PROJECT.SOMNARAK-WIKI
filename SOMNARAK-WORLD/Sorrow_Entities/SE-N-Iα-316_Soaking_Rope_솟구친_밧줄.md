@@ -133,8 +133,7 @@ The table above is a diagnostic to read, not a procedure to follow: it states wh
 
 > **Containment event — no breach counter and no gauge threshold.** The activation is a count of promises made inside the zone — four of them — and it runs down on a wait ended out loud and truthfully. What extends is the waiting; the rope stays at its post.
 
-> *"Soaking Rope has broken free. Everyone in the zone is now waiting for someone."*
-
+> *"The Rope event is running and it has not moved from its post. Everyone in the zone is now waiting for somebody; end each wait out loud and do not tell anybody who they were waiting for."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Corrupt |

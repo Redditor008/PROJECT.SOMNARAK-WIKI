@@ -147,8 +147,7 @@ Read the table above as a diagnostic rather than a prescription: it names what s
 **Reading the response:** Flerehan and Ferrehan both bring the gauge down, by opposite routes. Weeping with it loosens the links and stops the crawling, because grief is what the binding was made of and it has never been met with any. Endurance works because Ferrehan here means staying beside the Chain without being fastened to it — present, unbound, and free to go — which is the arrangement the family could not manage. Viderehan holds level: it reveals the relationship behind the restraint, and the Chain neither resists the exposure nor gains from it. Pugnahan raises the gauge every time, without exception, and the reason is structural rather than temperamental. Confrontation is force applied to make something stay, and that is the exact act that produced this entity.
 ## Breach Behavior
 
-> *"Thralldom has broken free. Binds personnel, dragging them."*
-
+> *"Thralldom has broken free and has bound somebody. It binds rather than wounds, and every injury on the record came from a person pulling against the chain, so nobody pulls."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

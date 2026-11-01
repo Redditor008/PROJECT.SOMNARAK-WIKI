@@ -396,7 +396,7 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 **Threat Assessment:** Minor, and correctly so. Nine years, 118 cycles, one strike, fourteen M.A.W. strikes, no fatalities, no injuries beyond bruising — and four workers whose hands are in a window and who were all simply tired at the time.
 **Containment & Handling Procedures:**
 - Count the hands, say the number, walk the length shown, sign the sheet. Nobody touches the pane.
-- Standard R.D. containment protocols apply.
+- The count is the procedure: the hands showing in the pane are counted and the number said aloud at each pass, so that a pane showing one hand more than the shift has people is the reading that ends the watch.
 - Touch or a held gaze; only a second person saying the viewer's name and the date ends a viewing.
 **Observation Notes:**
 - Four generations of tunnel crews resting a palm on a cool surface at the end of a shift.

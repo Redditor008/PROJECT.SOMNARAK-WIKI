@@ -147,8 +147,7 @@ Grimoire is an Object with Object-Tale manifestation and Grudge expression, held
 
 ## Breach Behavior
 
-> *"Grimoire has broken free. The grudge tale spreads."*
-
+> *"Grimoire has broken free and is open. Nobody reads it and nobody looks over a reader's shoulder; the first person to break either rule writes the account for the rest of the wing."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion — the breach entry describes pages filling only while being read. The operational record says the book writes itself; whether these are separate modes or a contradiction is unresolved. |

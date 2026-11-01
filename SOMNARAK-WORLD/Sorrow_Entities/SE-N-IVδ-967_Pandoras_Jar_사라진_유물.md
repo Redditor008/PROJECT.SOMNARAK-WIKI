@@ -365,7 +365,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 **Threat Assessment (Pandora's Jar):** Critical (δ). 9 years, 94 cycles, 4 manifestations, 2 erasure events, no fatalities — and a baseline 11 degrees above ambient that no action has ever brought down.
 **Containment & Handling Procedures:**
 - Take the temperature, bear the heat, and name something that was lost — aloud, with a description, from the facility's own destruction entries. Viderehan and Ferrehan only.
-- Standard R.D. containment protocols apply.
+- Heat is the only instrument that finds it. Read the air temperature at every post before the Work Type is chosen, and carry the name of something the facility actually lost, described aloud, not a sentiment about loss.
 - See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
 - See Origin section for formation and event details.

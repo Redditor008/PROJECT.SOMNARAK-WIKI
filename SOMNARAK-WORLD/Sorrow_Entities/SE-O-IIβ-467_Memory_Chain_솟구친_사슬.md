@@ -117,7 +117,7 @@
 | **Form** | An ordinarily invisible chain heard as a voice moving link to link; rare visible records describe pale wet crystal in blue spirit-light, with no established visibility trigger. |
 | **Position / movement** | The voice travels along a fixed line; the chain’s spatial extension is logged separately from that audible transit. Record direction, measured transit time and inferred length, marking the last as an inference. |
 | **Material / signature** | A voice travelling along a fixed line in the air, one word per link, in one direction, at a constant rate. Visible perhaps once in twenty cycles as pale wet crystal. Record the transit time to the half-second and the order of the words. |
-| **Distinctive markers** | The interval. Several things in the Echo Gardens speak without a body; this is the one whose voice moves at an even rate along one axis and never doubles back, and the evenness is audible without a clock. |
+| **Distinctive markers** | The interval. The Echo Gardens are full of voices with no body behind them; this is the one whose voice moves at an even rate along one axis and never doubles back, and the evenness is audible without a clock. |
 | **Identification** | The designation is the first filter and the ear is the second, since the eye will usually have nothing to contribute. Confirm the designation, the manifestation and the recorded transit time agree before approaching. |
 
 **Appearance protocol:** Most cycles here have nothing visible in them at all, so the protocol records sound first: the direction the voice is travelling, the interval between links, the full transit time end to end, and the words, taken verbatim link by link in the order they were spoken — the order is the entity's only grammar and a paraphrase destroys it. On the rare occasions it shows itself as blue spirit-light, log the occurrence with every condition obtaining at the time, whether or not those conditions seem relevant. No condition has yet been found to predict visibility. The list is kept as a plain list precisely so that a pattern, if there is one, has somewhere to be noticed. Record whom it is standing beside, and record nothing about them — the choice of neighbour is not evidence of anything and must never be written as though it were.
@@ -147,8 +147,7 @@ The gauge moves very little and the clock moves a great deal. A baseline transit
 **Reading the response:** Read it in the voice and in the traverse. A falling gauge presents as slackening — the links loosening, the interval between them lengthening, the tone going from recitation to conversation. It is a window and not a door; the pressure returns unless the cycle is sustained, and nothing has been returned to anybody. A rising gauge presents as closeness: the voice tightens, speeds up, and begins using the worker's own recollections as links in the sequence. That is the warning sign and it does not feel like one. Document anything off-pattern the same day — a new word, a traverse that takes longer than the constant, a link that speaks out of order. The last of those has been recorded twice and both reports are flagged, because the order is the one thing this entity has never varied.
 ## Breach Behavior
 
-> *"Memory Chain has broken free. Binds personnel, dragging them."*
-
+> *"Memory Chain has broken free. It takes whoever is holding the book, not the timekeeper beside them; the words arrive out of order, and a recorder who hears two at once is finished for the session."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
@@ -358,7 +357,7 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 **Threat Assessment:** Moderate on the schedule and mild in practice. Eleven years, five order-collapses, nine strikes, no fatalities and no lasting injury; the standing cost is eleven recorders who came away remembering somebody they never met.
 **Containment & Handling Procedures:**
 - Two workers, one book, one clock. Transit time and word order are the readings.
-- Standard R.D. containment protocols apply.
+- Each returned memory is put back with its owner named in the book. An unnamed return is how the chain takes a link it was not owed.
 - The order breaking, or the line reaching the outer path; both have ended without intervention.
 **Observation Notes:**
 - Forty-one letters between six people over nine years, each repeating what all of them already knew.
@@ -402,7 +401,7 @@ People separated by exile went on holding their memories in common until the mem
 
 - **Classification detail:** Echo (II) coherence at Moderate (β) — six people, one shared past, and a voice that still divides it between them in order.
 - **Field detail:** Lament, along one fixed axis in the Echo Gardens, Zone D, worked by a recorder and a timekeeper standing a measured distance apart.
-- **Recognition detail:** Identify it by the travel and the interval. Several things in the Echo Gardens speak without a body; this is the one whose voice moves in one direction along a fixed line, at a constant rate, and which is almost never seen at all.
+- **Recognition detail:** Identify it by the travel and the interval. Disembodied speech is ordinary in the Echo Gardens; a voice that keeps one direction along a fixed line at a constant rate is not. This is the one that does, and it is almost never seen at all.
 - **Record detail:** Filed under both chain-forms and memory-forms, and the booking error that matters is between release and return. Several comparable holdings are managed by letting what they carry go. Here it is handed back, to a named person, one memory at a time.
 - **Containment detail:** It does not need to breach to reach anyone. Containment governs where the chain hangs and not what it carries, and what it carries moves between people who are nowhere near it — two staff on opposite shifts have recognised the same unfamiliar memory. The boundary limits movement; it has never limited connection, which is the one thing this entity does.
 ## Document Information

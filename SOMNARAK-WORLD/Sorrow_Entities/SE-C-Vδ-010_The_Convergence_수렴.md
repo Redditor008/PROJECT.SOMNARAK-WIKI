@@ -156,8 +156,7 @@ No Work Type has ever been applied to the fused form and the table is retained f
 **Reading the response:** Success is a separation time under twelve seconds. There is no gauge reading during a formation — nobody is reading instruments — and the station records the drill times instead, weekly, as the only measure that has ever predicted anything.
 ## Breach Behavior
 
-> *"Convergence has broken free. Unleashes all sorrows at once."*
-
+> *"Convergence has broken free and every sorrow is in it at once. It turns toward whoever is holding the Weighting Bird first; move the rest of the wing out from behind that Team, because the order of everything else has not mattered yet."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

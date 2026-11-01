@@ -148,8 +148,7 @@ Viderehan holds the gauge level and is the most dangerous Work Type on the table
 **Reading the response:** The gauge reports the session. The thread count reports the quarter, and it answers to the Personnel Directorate rather than to the team. A crew can work this holding perfectly for three months and find the count higher at the end of it, and that is not their failure; somewhere in the facility, people asked for things and were answered in conversation. The two figures are kept in separate columns on the sheet for exactly this reason, and a supervisor who merges them is corrected.
 ## Breach Behavior
 
-> *"Somnium has broken free. It takes the most tired person in the corridor first."*
-
+> *"Somnium has broken free. It takes the most tired person in the corridor, every recorded time; send the rested half of the rotation and stand the tired half down before they meet it."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

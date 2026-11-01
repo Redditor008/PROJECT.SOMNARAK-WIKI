@@ -152,8 +152,7 @@ Both usable Work Types are performed from the line and amount to standing there 
 
 > **Containment event — no breach counter.** The affected radius expands and no body transformation is recorded; the gauge rises ten points a cycle, read at the line.
 
-> *"Amnesia has broken free. The nameless minute takes a wider radius."*
-
+> *"The minute has widened. Everybody inside the radius loses the same unnamed thing at the same time, and no one is singled out. Do not tell anyone a name during it — that is what widened it before."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

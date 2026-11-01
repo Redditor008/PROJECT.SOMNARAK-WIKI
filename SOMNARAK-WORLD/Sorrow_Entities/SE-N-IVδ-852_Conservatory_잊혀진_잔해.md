@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** The marker is the outline. Several things in the Market margin are crystalline and red; this is the one whose shape is a floor plan, accurate to a house that no longer stands and holding not one brick of it. Check the fourteen stations against the standing architectural record, read the margin temperature by instrument, and walk the permitted path for combustible material before positions are taken.
+1. **Tension:** The marker is the outline. Half the Market margin is crystalline and red; this is the one whose edge is drawn as a floor plan, accurate to a house that no longer stands and holding not one brick of it. Check the fourteen stations against the standing architectural record, read the margin temperature by instrument, and walk the permitted path for combustible material before positions are taken.
 2. **Clash:** Viderehan and Ferrehan are worked from the permitted path across a long engagement, with the heat margin monitored throughout. Nothing is brought into the radius that resembles any part of the house, and nothing is said inside it about the house that the survey cannot support.
 3. **Resolution:** The cycle closes when the gauge falls below 25% and the survey entries for that watch have been checked against the standing architectural record — which on this holding means the team measured a house that is not there and confirmed that the file still describes it correctly.
 
@@ -499,7 +499,7 @@ The office's objection to the practice is on the file and is right. A consultee 
 
 - **Classification detail:** Object/Place with Entity (IV) coherence and Critical (δ) potency, `N-IVδ-852 [N]`; the grade is the resemblance rule the margin applies rather than anything the mass does with force.
 - **Field detail:** Element Grudge, registered to Zone C at the Mask Market margin, where the outline is checked at fourteen marked stations and the permitted path exists by the entity's tolerance rather than by any design of ours.
-- **Recognition detail:** Identify it by the outline. Several things in the Market margin are crystalline and red; this is the one whose shape is a floor plan, accurate to the door aperture, of a building that is not there.
+- **Recognition detail:** Identify it by the outline. Crystal red is common in the Market margin; a crystal edge cut to a door aperture is not. This is the one whose shape is a floor plan of a building that is not there.
 - **Record detail:** Place-attached and ruin-derived holdings recur in the archive and at least two others sit near this zone, so confirm the designation before a cycle is booked; what separates this one is that affection is the input and resemblance is the trigger — anger does nothing here and a plan does a great deal.
 - **Containment detail:** There is no cell and no door; containment is a cleared margin, a permitted path, and a standing arrangement with the municipal planning office. The influence that crosses the boundary is the heat and the reviews: four households in this district have built a different house than they intended because of a thing they were never shown, and the file says so in those words rather than in softer ones.
 ## Document Information

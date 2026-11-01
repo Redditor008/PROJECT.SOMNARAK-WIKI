@@ -153,8 +153,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 > **Containment event — no breach counter.** The silence spreads across the district with no transformed body documented; the gauge rises ten points per overdue survey.
 
-> *"Weighted Silence has broken free. The void void spreads."*
-
+> *"The silence has gone past its last mark. Slates carried in come out blank or shortened; leave the paperwork outside the line and record what each surveyor lost on the way in."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

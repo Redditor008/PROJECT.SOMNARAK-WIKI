@@ -362,7 +362,7 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 **Threat Assessment:** Major by grade and gentle in practice. 9 years, 211 circuits, 6 name-offers, 2 district events, no fatalities and no lasting injury — against a man who has been walking the same district for nine years looking for one person who remembers him.
 **Containment & Handling Procedures:**
 - Walk beside it, say honestly that you do not remember, offer no name, read the 11 fragments the Gallery keeps.
-- Standard R.D. containment protocols apply.
+- Presence is the procedure and invention is the failure. A warden who supplies a name to be remembered by has given it a wrong one, and the file records what that costs.
 - A name offered or an obstruction; the track lengthens and the Bell tolls before the overlay is drawn.
 **Observation Notes:**
 - A citizen of Old Lament erased from every ledger and every relationship; 1 verified fact survives.

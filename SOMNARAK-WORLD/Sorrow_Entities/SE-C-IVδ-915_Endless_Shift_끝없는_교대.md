@@ -148,8 +148,7 @@ Endless Shift is a Time holding with Time-Weight manifestation and Weight expres
 
 ## Breach Behavior
 
-> *"Endless Shift has broken free. The weight weight spreads."*
-
+> *"Endless Shift has broken free. It goes by the shift a person believes they have worked, not by the roster; anybody who thinks they are due relief is already on its list."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |

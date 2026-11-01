@@ -178,8 +178,7 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 **Activation reporting order:** what was done to the ground → the patch's position before and after → the distance it returned across → the layers visible in the exposed soil → the figure. The first field is placed first because in every logged activation it is an action taken by personnel, not an event the entity initiated.
 ## Breach Behavior
 
-> *"Perennial has broken free. It is walking back along old paths; spores settle along its route."*
-
+> *"Perennial has broken free and is walking back along its old paths, spores settling behind it. It does not hunt; whoever is standing on the ground it is returning to is in the event, so clear the route ahead rather than follow behind."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

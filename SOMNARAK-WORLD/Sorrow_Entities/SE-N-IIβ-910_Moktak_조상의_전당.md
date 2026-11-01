@@ -154,8 +154,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 
 > **Containment event — no breach counter.** The seating expands beyond the room and no travelling body is recorded; the gauge climbs ten points an evening the hall is left unattended.
 
-> *"Moktak has broken free. The weight spirit spreads."*
-
+> *"The seating at Moktak has expanded beyond the room. The chairs along the north wall read as occupied from the corridor, and anybody counted present cannot leave before the adjournment."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

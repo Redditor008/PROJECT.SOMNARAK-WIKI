@@ -153,8 +153,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 
 ## Breach Behavior
 
-> *"Vellum Man has broken free. The lament tale spreads."*
-
+> *"Vellum Man has broken free. It goes to the desk of whoever has an open tale in the register and stands there; it has never done anything else, and the desk is what gets cleared."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

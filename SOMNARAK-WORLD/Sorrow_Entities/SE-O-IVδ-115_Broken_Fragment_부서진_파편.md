@@ -405,7 +405,7 @@ Force does not move it. Attempts have been made — properly engineered, correct
 
 ### Increasing Weight
 
-Mass increases with age and the increase is measured indirectly, through ground displacement, because the fragment cannot be put on any scale. The displacement series is long, is consistent, and projects to figures the engineers describe as structurally meaningless at the current site. There is no plan to relocate it because it cannot be relocated. What exists instead is a ground-monitoring regime around the fragment and a standing assessment, reviewed annually, of how much of the surrounding landscape would be affected at various future points. The assessment is shared with the border district office. The office has acknowledged it each year and has never responded to its content.
+Mass increases with age and the increase is measured indirectly, through ground displacement, because the fragment cannot be put on any scale. The displacement series is long, is consistent, and projects to figures the engineers describe as structurally meaningless at the current site. There is no plan to relocate it because it cannot be relocated. What exists instead is a ground-monitoring regime around the fragment and a standing assessment, reviewed annually, of how much of the surrounding landscape would be affected at each of the horizon marks the survey projects. The assessment is shared with the border district office. The office has acknowledged it each year and has never responded to its content.
 
 ### Pressing Through
 

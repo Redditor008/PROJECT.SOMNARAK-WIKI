@@ -151,8 +151,7 @@ The Inheritor is a Fragment (III) Subject with Subject-Body manifestation and Gr
 **Reading the response:** Read it in the column and in the hands. A falling gauge presents as the motion state dropping a mark and the fists opening slightly; a rising one presents as continuous pacing with the hands closed tighter than the resting state. Both precede the instrument. The three-state column is the holding's primary record and is maintained in preference to anything finer.
 ## Breach Behavior
 
-> *"Inheritor has broken free. Hunts personnel indiscriminately."*
-
+> *"Inheritor has broken free. It does not choose: the Grudge goes into the walls, and anything held in a hand becomes hard to put down. Drop what you are carrying and clear the volume."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

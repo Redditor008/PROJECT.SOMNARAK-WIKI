@@ -155,8 +155,7 @@ The table is one input among many, and on this file the code and the coherence l
 **Reading the response:** A lower gauge is a window and not a door — the pressure returns unless the cycle is sustained, so what is achieved is stabilisation and not the end of the weeping. A rising gauge means the approach has asked her to stop, or has found the nerve of the origin; pull back and reassess before the work feeds the sorrow. Unusual responses precede events: log, flag, and adjust before the next assignment.
 ## Breach Behavior
 
-> *"The Grieving Maiden has broken free. Hunts personnel indiscriminately."*
-
+> *"The Grieving Maiden has broken free and is walking for her sisters. Get out from between her and them; she has never gone for personnel directly, and that is the only reason to move."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

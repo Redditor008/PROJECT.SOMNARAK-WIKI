@@ -120,7 +120,7 @@
 | **Form** | A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground. |
 | **Position / movement** | Mobile, drifting along the Han-flow lines at about walking pace; plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position. |
 | **Material / signature** | Void. Bone-white, cold and damp, faintly sweet with old flowers; muffled weeping at no locatable distance, and ground that measurably softens under the bank. |
-| **Distinctive markers** | Follows Han-flow lines through the Desolate. Moves at approximately walking speed. Carries the despair of nomads who wandered until hope failed. |
+| **Distinctive markers** | Follows Han-flow lines through the Desolate at roughly a walking pace. The bank crossing ground and the bank growing are recorded separately, and only the growing figure sets the perimeter. Carries the despair of nomads who wandered until hope failed. |
 | **Identification** | The designation is the first filter and the flow survey is the second; confirm the bearing, the pace and the manifestation agree with the file before anyone approaches the margin. |
 
 **Appearance protocol:** There is no body to describe, so the protocol describes an edge and an interior. For the edge: the height of the bank, the bearing and timed rate between surveyed markers, the sharpness of the boundary, and the depth at which a hand becomes invisible. For the interior, observe from the margin and record the sounds — weeping is the usual report, muffled, at no locatable distance — and the smell, which is cold and damp and faintly of old flowers and has been described in those terms by every observer since commissioning. Record what the ground does under the bank; it softens, and the softening is measurable. Never estimate distance from inside. The interior makes distance unreliable, and an interior estimate entered in a log has twice sent a recovery party to the wrong marker.
@@ -169,7 +169,7 @@ Brume is an Object/Place with Place-Phantasmal manifestation and Void expression
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Han-flow currents and concentrated sorrow draw the fog. |
-| **Expansion Rate** | Approximately 100 meters per hour, near walking speed. |
+| **Expansion Rate** | About a hundred metres an hour at the edge. That is a different measure from the pace the bank travels at — the fog arrives at a walk and its extent grows by the hour — and it is the edge figure the perimeter is drawn against. |
 | **Expansion Effect** | Hope drains away; movement becomes difficult and the affected area feels soft and unstable. |
 | **Containment** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. |
 
@@ -189,7 +189,7 @@ Expansion here is lateral and quiet. Record the bearing, the timed leading-edge 
 | **Trigger** | Han-flow currents and concentrated sorrow draw the fog. |
 | **Manifestation** | Place-Phantasmal |
 | **Primary effect** | Hope drains away; movement becomes difficult and the affected area feels soft and unstable. |
-| **Duration / rate** | Approximately 100 meters per hour, near walking speed. |
+| **Duration / rate** | Continues until the sorrow is acknowledged. The edge widens about a hundred metres an hour throughout, at a rate that does not change with wind, temperature or the number of people watching it. |
 | **Risk** | Major (γ). Hope drains, the ground softens, and the people inside stop wanting to leave while reporting that they are fine. |
 | **Management** | The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. |
 

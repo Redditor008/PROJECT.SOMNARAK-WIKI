@@ -202,8 +202,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 **Activation reporting order:** trigger → front position before and after, against the cut marks → root-leg positions → engineers' figure for the same section, entered unreconciled → floor and wall condition → personnel effect, including any petal handled → rate → management condition. All four Work Types are available; nothing is lifted at any stage.
 ## Breach Behavior
 
-> *"Devouring Bloom has broken free. Releases spores that infest personnel."*
-
+> *"Devouring Bloom has broken free. It is downwind of you or it is not; spores arrive ahead of the bloom, so move the crew crosswind and up and let the infestation order be recorded from there."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

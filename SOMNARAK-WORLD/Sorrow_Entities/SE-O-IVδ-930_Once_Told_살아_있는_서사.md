@@ -152,8 +152,7 @@ Observation is the silent inventory walk and photographic comparison; endurance 
 
 > **Containment event — no breach counter.** The utterance log manifests across the sector at once and nothing travels; the gauge rises ten points a cycle.
 
-> *"Once Told has broken free. The lament tale spreads."*
-
+> *"The utterance log has manifested across the sector at once. Whoever spoke last is inside it; silence is the only place to stand, and it has never answered a person who kept quiet."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

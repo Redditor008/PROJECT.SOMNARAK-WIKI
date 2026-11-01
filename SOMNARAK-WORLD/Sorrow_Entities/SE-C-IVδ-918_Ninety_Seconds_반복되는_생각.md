@@ -149,8 +149,7 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 
 ## Breach Behavior
 
-> *"Ninety Seconds has broken free. The void mind spreads."*
-
+> *"Ninety Seconds has broken free. It supplies nothing of its own — the thought is always the person's own, and it comes back every ninety seconds until the watch ends or the person does."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |

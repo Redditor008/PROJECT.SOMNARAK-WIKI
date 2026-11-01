@@ -156,8 +156,7 @@ The table above reads only against the classification, and a gauge that does not
 **Reading the response:** Read the gauge in visibility rather than in sound. A falling gauge shows as the Child resolving at the edge of vision — more solid, holding still, sometimes turning toward the watch — and a steady gauge after Pugnahan means the position was lost, not that nothing occurred. The file's idea of success is a party that has stopped asking it questions and does not mistake the empty corner for an empty garden.
 ## Breach Behavior
 
-> *"The Silent Child has broken free. Moves toward adults who might protect it."*
-
+> *"The Silent Child has broken free. It settles where somebody is seated and not talking, and from that point the person is missed in handovers, left off counts and spoken past."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

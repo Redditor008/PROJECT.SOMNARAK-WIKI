@@ -161,7 +161,7 @@ Read the Work Types for this file against the activation threshold and the kit c
 | Field | Detail |
 |---|---|
 | **Event Type** | Transformation in place |
-| **Movement** | It leaves by the nearest unattended opening at speed and takes from everybody on the way out. It does not seek anybody and has never doubled back. |
+| **Movement** | Fast and evasive, and never out of the Row: constant low lateral movement that never holds still and never closes on anybody. What leaves is the particular, not the Thief — it takes from everyone along the path and has never doubled back on one. |
 | **Effect** | Particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in. |
 | **Secondary Effect** | Crews stop agreeing about the last hour, which is how a loose Thief is usually detected at all. |
 | **First Target** | Nobody in particular. Everyone on its path loses something small; people two metres off the path lose nothing. |

@@ -148,8 +148,7 @@ Management: walk the gauge round on the watch, keep the deflection survey unbrok
 
 ## Breach Behavior
 
-> *"Sorrow Mass has broken free. The weight weight spreads."*
-
+> *"Sorrow Mass has broken free. It puts the load into the structure before it puts it into the people — floors bow, doors bind — and it goes to what has been carried longest unsaid rather than to fresh grief."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |

@@ -157,7 +157,7 @@ Fading Whisper is a Subject with Subject-Grudge manifestation and Void expressio
 | **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
 | **Secondary Effect** | An absence that eats the edges of reality. |
 | **First Target** | Whoever is closest to the position when the definition starts to go — the event does not move and does not seek anybody, and the speech is what spreads, so the affected are the people standing where the corridor used to be legible. |
-| **Escalation** | Each turn the zone is left to lose definition, the Clarity drain rises by 5 and the half-heard sentences grow more various; nothing is answered, nothing is completed, and no responder repeats back anything they think they heard, because repetition is how the volume rises. |
+| **Escalation** | Each turn the zone is left to lose definition, the Clarity drain rises by 5 and the half-heard sentences lose whatever they had in common; nothing is answered, nothing is completed, and no responder repeats back anything they think they heard, because repetition is how the volume rises. |
 
 ### Escalation Notes
 

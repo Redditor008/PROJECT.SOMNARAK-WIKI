@@ -137,8 +137,7 @@ Apostle Maker cannot be contained by normal means once activated. The entity mov
 
 ## Breach Behavior
 
-> *"Apostle Maker has broken free. She is converting the marked. The wings are forming. Identify the chain direction immediately."*
-
+> *"Apostle Maker has broken free and is converting. She takes the lowest-numbered marked person first; read the wing colour before counting anybody, because the colour is the chain direction."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape — the entity physically escapes and actively hunts the marked |

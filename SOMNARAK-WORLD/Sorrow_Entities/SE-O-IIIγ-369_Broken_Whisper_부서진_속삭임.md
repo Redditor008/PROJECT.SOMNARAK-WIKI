@@ -215,7 +215,7 @@ The whispering mist murmurs forgotten names and navigational headings in dead to
 
 **Ability:** Deals Lament damage against the Mind — composure, willpower, and the ability to leave a thing unfinished. The strike carries the source's signature, and targets report hearing the beginning of a sentence at the moment of impact.
 
-**Cost:** The wielder carries the grief of an appeal that was never heard. Prolonged use causes involuntary weeping, typically mid-sentence and typically while making a routine report.
+**Cost:** The wielder carries the grief of an appeal that was never heard. Prolonged use brings on involuntary weeping, and the file notes where it arrives: mid-sentence, in the middle of a routine report.
 
 ### M.A.W. Suit — Broken Whisper's Shroud
 
@@ -460,7 +460,7 @@ The counsellors' objection is standing and is the sharpest in the file. Handing 
 
 - **Classification detail:** Broken Whisper is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Lament is the whole of it and the registered location is Zone B, deep tunnels; the crystal drifts against the current running past it, a discrepancy logged every cycle since the holding was filed and never once explained — on this record that is the instrument rather than an anomaly.
-- **Recognition detail:** Identify it by the incompleteness. Several things in the deep tunnels whisper; this is the fractured crystal whose fragments never resolve into a sentence and whose drift does not match the current running past it.
+- **Recognition detail:** Identify it by the incompleteness. The deep tunnels whisper in many registers; this is the fractured crystal whose fragments never resolve into a sentence and whose drift does not match the current running past it.
 - **Record detail:** Whisper-form and voice-form entities recur through the archive and several share this one's element and zone. Confirm the designation and the manifestation before a cycle is booked: 11,400 fragments have been transcribed in 412 separate lists over 26 years, mean length 2.1 words, and not one of those lists has ever been merged — the instructions diverge at exactly that point.
 - **Containment detail:** Sealed does not mean silent, and in a tunnel system it barely means enclosed. The whispers carry further along the passages than the resonance figures predict and are reported as clearer near walls that hold older grief, so the practical boundary of this holding is the geology rather than the door. Personnel working unrelated tasks two junctions away have filed fragments. Those filings are kept with the holding, in list form, like every other.
 ## Document Information

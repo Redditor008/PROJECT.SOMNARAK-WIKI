@@ -155,8 +155,7 @@ The gauge table is not the containment measure here, and the file is unusually d
 **Reading the response:** Flerehan brings the gauge down and the Sigh settles around the worker like shared relief, which is the gentlest response recorded against any Critical holding and should not be mistaken for safety. Ferrehan brings it down by the harder route, and the test is stated precisely in the Behavior table: whether the worker can rest without abandoning duty. Both halves are load-bearing. A worker who refuses to rest fails it, and so does a worker who rests and does not come back. Viderehan holds level and reveals the crises that produced each breath, which is a long recitation and tells the party nothing they can act on. Pugnahan raises the gauge and turns the Sigh into a harsh wind that spreads through the halls — exhaustion does not respond to being pushed, and the entity demonstrates this every time it is tried.
 ## Breach Behavior
 
-> *"Survivors' Breath has broken free. Hunts personnel indiscriminately."*
-
+> *"Survivors' Breath has broken free. It targets nobody: it crosses the nearest occupied rooms and thins them, and the first wing to report a loss of definition is the one that has already been in it."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |

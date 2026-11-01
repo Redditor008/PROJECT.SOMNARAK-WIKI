@@ -152,7 +152,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The interval deepens and takes in more of the district; the gauge falls from 0400 regardless of response, and there is no other tally on the file.
+> **Containment event — no breach counter.** The interval deepens and takes in more of the district; the gauge climbs through the hour whatever anybody does, and there is no other tally on the file.
 
 > *"Eleven Fifty-Nine reaches beyond the usual district boundary. Notify the affected area and hold personnel in place; onset is simultaneous, not a travelling wave."*
 
@@ -167,7 +167,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 ### Escalation Notes
 
 - **Containment priority:** There is no containment action. Notify, hold personnel where they are, log the onset by external timepiece, and resume at 0400. Every attempt to work through it has produced worse figures than standing still.
-- **Sorrow Gauge in the event:** Opens at 50% at 0300 and falls steadily toward 0400 regardless of response. It cannot be suppressed, only outlasted, and the curve is the same whether the facility acts or does nothing at all.
+- **Sorrow Gauge in the event:** Opens at 50% at 0300 and climbs through the hour. Viderehan and Ferrehan work it back down and the climb resumes behind them, so the reading at 0400 is the same whether the facility acts or does nothing at all. Above 65% the hour runs on, which is the only thing on this file that has ever extended it.
 
 ## M.A.W. Equipment
 

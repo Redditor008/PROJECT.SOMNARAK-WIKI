@@ -156,8 +156,7 @@ Before anybody is posted to the library, the Work Types are read against the bre
 **Reading the response:** Three things go in the entry after a cycle — what the entity did, the state the worker left in, and what was actually recovered. A gauge on the way down means the surface pressure has eased. The structure underneath it is untouched, and the entry has to say so, because a reading showing only the drop will be filed as progress. A gauge on the way up means the Work Type has touched the origin. Withdraw, and do not run the same one again in that sitting.
 ## Breach Behavior
 
-> *"The Memory Weaver has broken free. Steals memories from everyone it passes."*
-
+> *"The Memory Weaver has broken free. It is not pursuing in the waking layer — it is withdrawing through the Dream layer; do not follow it, and do not offer a memory to bring it back."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape — and the only breach in the wing whose extent is established by survey rather than by observation. |

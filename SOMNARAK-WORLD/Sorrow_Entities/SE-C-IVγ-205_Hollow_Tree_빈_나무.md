@@ -150,8 +150,7 @@ All four Work Types are available and three of them work. What the table cannot 
 **Reading the response:** A falling gauge means somebody sat in it and did not plan anything for it. It rises on proposals — a planting scheme, a use, a conversion — and has risen four times on schemes that were never spoken aloud, which the Gardens records as a fact and declines to explain.
 ## Breach Behavior
 
-> *"Hollow Tree has broken free. Extends roots through the floor, entangling personnel."*
-
+> *"Hollow Tree has broken free and settled. It takes no interest in personnel; whatever is underfoot is what it takes, and a crew off the line of the settle is not in the event."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

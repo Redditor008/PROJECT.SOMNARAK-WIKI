@@ -351,7 +351,7 @@ Some sorrows mourn a place. Broken Ruin mourns the carrying — the disaster bro
 **Threat Assessment:** Major on the schedule and quiet in practice: 9 years, 2 breaches that both ended in conversation, 11 strikes and no fatalities. The recurring harm falls on wardens who try to help it, and on traders who never asked for a neighbour that weeps.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan reduce; Pugnahan increases and is not used; read the table beside the eligibility list.
-- Standard R.D. containment protocols apply.
+- The survivor's account is taken first and read back to them before anything is filed. The settlement is not reconstructed, and no warden is asked to say what it was called.
 - Material cycling through all three substances inside a minute is the only warning, and it has never been absent.
 **Observation Notes:**
 - A settlement fell, the survivors walked to the city, and the gate clerk wrote *stone* in the register without comment.

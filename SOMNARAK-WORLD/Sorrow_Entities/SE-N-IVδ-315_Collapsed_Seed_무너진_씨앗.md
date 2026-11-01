@@ -192,8 +192,7 @@ Escalation here is a rate change and nothing else, and the rate changes before a
 **Activation reporting order:** pulse rate, timed → panel condition → visible change at the split → sap volume → what inquiry anywhere in the facility was wound up that week and whether it filed. The last item is not optional and is the one that gets left off.
 ## Breach Behavior
 
-> *"Collapsed Seed has broken free. Plants itself in personnel, growing within."*
-
+> *"Collapsed Seed has broken free and is looking for substrate. It takes the nearest rootable surface, which in a corridor is usually a person's boots rather than the person, so keep moving and keep the floor clear."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -442,7 +441,7 @@ Blue sap runs continuously from the split in the shell and is collected at floor
 
 ### Pulse
 
-The pulsing is regular and is logged, and the log is the chamber's principal indicator because it changes before anything else does. A rate shift of any magnitude triggers a check of the root panels and a visual inspection from the observation position, in that order, and the ordering matters: the panels show what has already happened and the inspection shows what is happening, and the protocol wants the baseline established before anyone looks. Three breaches in the chamber's history were preceded by rate shifts recorded hours in advance. One was not, and the protocol says so in the same paragraph.
+The pulsing is regular and is logged, and the log is the chamber's principal indicator because it changes before anything else does. A rate shift of any magnitude triggers a check of the root panels and a visual inspection from the observation position, in that order, and the ordering matters: the panels show what has already happened and the inspection shows what is happening, and the protocol wants the baseline established before anyone looks. Three of the four breaches in the chamber's history were preceded by rate shifts recorded hours in advance. One was not, and the protocol says so in the same paragraph.
 
 ### What Did Not Grow
 

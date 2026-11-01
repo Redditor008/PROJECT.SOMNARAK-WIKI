@@ -351,7 +351,7 @@ Some sorrows mourn exile. Exiles' Wall mourns the building — the shelters star
 **Threat Assessment:** Major, with the qualification that the holding has never struck anybody who stayed on the city side of the line. Nine years, four injuries, all of them to people who built something; 71 metres of growth, none of it reversed; and the exile road flooded twice.
 **Containment & Handling Procedures:**
 - Two usable Work Types, and the wording matters more than either of them.
-- Standard R.D. containment protocols apply.
+- Every new foundation is numbered and plotted and left alone. A watch that finishes a structure on that line has done the one thing the file forbids, whatever the structure was for.
 - Growth is the escalation: survey the new end post and record what was said in the preceding hour.
 **Observation Notes:**
 - A Gate register with allocations, vacancy dates, and no instance of anybody being ordered out.

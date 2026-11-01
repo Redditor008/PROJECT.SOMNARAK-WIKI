@@ -148,14 +148,13 @@ The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and
 **Reading the response:** Read it in the reach and in the worker. A falling gauge presents as the hands drawing in a few centimetres; a rising one presents as the reach extending past its own resting measurement. The worker's state is the other half and is not self-reported — the crew partner reports it, because a worker who has just been emptied will say they are fine and will mean it.
 ## Breach Behavior
 
-> *"The Hollow Saint has broken free. Reaches toward personnel."*
-
+> *"The Hollow Saint has broken free. It reads burden before position; if you are carrying grief today, stand behind somebody who is not, and keep the watch log out of the affected volume."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | She walks out and moves toward burden rather than toward people. An unburdened worker can stand in her path and go unnoticed; this has been verified four times and is the basis of the response plan. |
 | **Effect** | Definition goes out of the affected volume. Colour thins, sound drops, and personnel stop being able to say why anything in the corridor mattered to them. |
-| **Secondary Effect** | An absence that takes the edges of things: documents become hard to care about, decisions go unmade, and the watch log for the period is typically blank rather than wrong. |
+| **Secondary Effect** | An absence that takes the edges of things: documents become hard to care about, decisions go unmade, and the watch log for the period comes back blank rather than wrong. |
 | **First Target** | Whoever carries the most grief. It detects burden before it detects position, and an unburdened worker can stand in its path unnoticed. |
 | **Escalation** | Each turn free, Clarity drain +5 until suppressed. |
 

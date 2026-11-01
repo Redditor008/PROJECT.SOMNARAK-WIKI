@@ -198,8 +198,7 @@ Escalation here is measured in square metres and in millimetres and in nothing e
 **Activation reporting order:** creeper advance → spine orientation → drop in ambient temperature → the smell of char and wet iron → extent of newly blighted ground, measured from the outer creeper tips rather than from the seed.
 ## Breach Behavior
 
-> *"Fallow has broken free. Plants itself in personnel, growing within."*
-
+> *"Fallow has broken free. It takes whatever iron is nearest — buckles, blades, stake heads, instrument casings — and the holding has never reached for a person who was not holding a tool."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -414,7 +413,7 @@ Some sorrows mourn barren ground. Fallow mourns the planting — the seed placed
 **Threat Assessment:** Minor, with the qualification that the damage is to ground and to equipment rather than to people. Eleven years, three injuries, all to surveyors who tried to lever the casing out; the standing total of blighted ground is 1,140 square metres and it has never gone down.
 **Containment & Handling Procedures:**
 - Two usable Work Types, indistinguishable on the numbers; schedule around rain instead.
-- Standard R.D. containment protocols apply.
+- The blighted area is measured against the last reading and the result entered whether or not it moved. It has been static on 34 of 61 surveys, and the wing treats the static reading as the normal one rather than as good news.
 - It drifts downwind. Intercept downwind and wait; do not bring it to station.
 **Observation Notes:**
 - Dead ground, one seed, one promise to return, and no evidence of bad faith anywhere in the record.

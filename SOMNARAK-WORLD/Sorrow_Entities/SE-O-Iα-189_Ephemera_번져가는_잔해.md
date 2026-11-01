@@ -147,8 +147,7 @@ The four Work Types divide into two pairs and the file is unusually explicit abo
 **Reading the response:** Success is read from the stability of the outline rather than from any change in the material, which is replaced continuously throughout every cycle on record. A worker who expects the figure to become solid will report failure on a successful cycle. The reliable indicators are the rate of shedding, which slows before it stops, and the legibility of the settlement in the dust, which sharpens as the figure settles — both lagging the actual response by several minutes, which is why a cycle closes on the second consecutive steady reading and not the first. Where the two disagree the shedding rate is authoritative, because legibility varies with available light as much as with the entity. A definition rate that turns from steady to falling is a breach warning and not a reading.
 ## Breach Behavior
 
-> *"Ephemera has broken free. Collapses the facility structure around it."*
-
+> *"Ephemera has broken free and the field is downwind. Take the crews out of its path in the order the wind puts them in; the figure itself has never selected anybody."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -353,8 +352,7 @@ Some sorrows mourn destruction. Ephemera mourns the forgetting — the place tha
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low to personnel who stay upwind; severe to the record. The figure's recorded attacks are the smallest part of the risk — 3–10 Lament per hit against 198 HP of gauge — and the cost that matters is the memory it draws out of whoever works it. The fourth failed cycle is the breach; the hazard between now and then is a worker who finishes a shift unable to say what they did in it, and whose account of the settlement is the last copy, and wrong.
 **Containment & Handling Procedures:**
-- Refer to entity’s Work Type responses in the Behavior section.
-- Standard R.D. containment protocols apply.
+- What remains is mapped and named and what is gone is left gone. A warden who chases the settlement as it was returns with an account of it, and the account is the wrong one.
 - See Breach Behavior or Activation Behavior for escalation response.
 **Observation Notes:**
 - See Origin section for formation and event details.

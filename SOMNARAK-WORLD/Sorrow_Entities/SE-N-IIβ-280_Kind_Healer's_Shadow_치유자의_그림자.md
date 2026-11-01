@@ -149,8 +149,7 @@ Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestati
 **Reading the response:** Read it in the attendance and in the worker afterwards. A falling gauge presents as it settling closer to the attended person; a rising one presents as it standing off, or attempting to attend somebody else, which has been recorded four times and never completed. The worker-side indicator is the depletion at the end of the hour, and it is logged by the worker and countersigned.
 ## Breach Behavior
 
-> *"Kind Healer's Shadow has broken free. Stalks personnel from their own shadows."*
-
+> *"Kind Healer's Shadow has broken free. It goes to whoever is most hurt rather than whoever is nearest, and in two of three events that was staff; pull the rota, because the ward dissolves itself before the response arrives."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |

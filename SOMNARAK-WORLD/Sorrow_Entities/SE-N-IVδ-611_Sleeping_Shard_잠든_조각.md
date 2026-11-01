@@ -160,8 +160,7 @@ Nothing in the table above means anything read on its own. The element, the cohe
 
 > **Containment event — no breach counter.** Two instruments here: the gauge is read as a threshold and the disturbance count is what triggers, and at four the sleep stops being anchored and widens. Neither number is a tally toward a breach.
 
-> *"Sleeping Shard has broken free. The dream is outside the chamber and personnel are inside the dream."*
-
+> *"The sleep is out of the chamber and into the corridor. Anyone standing in it loses names first; anchor them where they stand, before it takes the faces as well."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Corrupt |

@@ -168,8 +168,7 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 **Reading the response:** Read it in the tempo and in the worker. A falling gauge presents as steps per minute dropping and the sequence lengthening; a rising one presents as acceleration. The other indicator is in the observer: a Warden who has stopped finding the duration difficult has been on the rail too long, and that is a finding about the Warden rather than the holding.
 ## Breach Behavior
 
-> *"The Masked Dancer has broken free. It follows the longest-watching observer; clear the audience and break line of sight."*
-
+> *"The Masked Dancer has broken free. It has already chosen the longest watcher; clear the audience, break line of sight, and do not look at it to check whether the order worked."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

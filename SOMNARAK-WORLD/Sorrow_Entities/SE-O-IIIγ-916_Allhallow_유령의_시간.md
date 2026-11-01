@@ -153,8 +153,7 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 
 > **Containment event — no breach counter.** The walked line lengthens and the body does not change; the gauge rises ten per cent per extension, and nothing on the file runs a count.
 
-> *"Allhallow has broken free. The lament phantasmal spreads."*
-
+> *"The Allhallow line has lengthened into the Desolate. The third post stays refused; two counters, one at each end, and nothing on the added ground is entered as casualty ground."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |

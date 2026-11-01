@@ -207,8 +207,7 @@ Escalation is a change in the creak interval. It shortens before anything else h
 **Activation reporting order:** the contact or the gauge reading → who touched it and what they said → the first visible change in the body → the dream as reported → how long it lasted → the condition under which the operator stepped back. The dream account is taken before the operator has spoken to anybody else, because it comes back the same from every operator and the sameness is the finding. Viderehan and Ferrehan are the only Work Types from start to finish.
 ## Breach Behavior
 
-> *"Sleeping Tree has broken free. Extends roots through the floor, entangling personnel."*
-
+> *"Sleeping Tree has broken free. It does not reach for anybody, including the one who struck it; the damage is done by growth, so give it room rather than cover."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -418,7 +417,7 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 **Threat Assessment:** Major, and the grade belongs to the structure overhead. 6 years, 164 cycles, 3 growth events, 11 injuries, no fatalities and 1 gallery shut for a year — with a *can breach* classification carried by something that has never once moved.
 **Containment & Handling Procedures:**
 - Girth at four stations, creak interval over the hour, no contact with the roots.
-- Standard R.D. containment protocols apply.
+- The creak interval is the whole reading. It is taken over the hour, logged against the last four, and a shortening interval is acted on before anybody looks at the tree.
 - The creak interval shortens. Clear the gallery on that alone; twice it has been unnecessary and once it was not.
 **Observation Notes:**
 - Two travellers, one tree, one who came back, and a record that twice insists he never returned to it.

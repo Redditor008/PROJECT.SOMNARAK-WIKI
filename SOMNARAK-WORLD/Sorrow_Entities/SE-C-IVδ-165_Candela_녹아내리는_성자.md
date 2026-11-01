@@ -148,8 +148,7 @@ The table is read against the register rather than against the gauge, because on
 **Reading the response:** A falling gauge under Flerehan means the grief was shared rather than received; under Ferrehan it means the worker was shown a loss and let it stand as a possibility. Stability under Viderehan is correct and is not a failure. The gauge rises whenever anybody in the chamber starts planning around what they were shown — the entity reads the planning, not the outcome.
 ## Breach Behavior
 
-> *"Candela has broken free. Reaches toward personnel."*
-
+> *"Candela has broken free. It goes to whoever is named in the most recent vision, wherever they are in the facility; the name is the location, so read the visions before you search the corridors."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

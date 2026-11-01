@@ -156,8 +156,7 @@ The Debt Eater is a Subject of Fragment (III) coherence — its manifestation Su
 **Reading the response:** Read it in the gauge and in the accumulation figure, which do not move together. A falling gauge presents as the entity settling and holding one corner; the accumulation figure does not fall at all, ever, and a watch that reports both falling has mis-transcribed one of them.
 ## Breach Behavior
 
-> *"The Debt Eater has broken free. Seeks out the indebted and the burdened."*
-
+> *"The Debt Eater has broken free. It goes for the largest unsettled Echo balance in the corridor, not the nearest body; check your own ledger before you check anybody else's."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

@@ -148,8 +148,7 @@ Read the scale as a docket rather than as a gauge. The three quarters of this ta
 **Reading the response:** A falling scale means evidence was submitted — and the record shows it falls for evidence that damages the submitting team exactly as far as for evidence that helps them, because what it weighs is completeness, not innocence. A rising scale means somebody appealed to standing: rank, authorisation, urgency, or the fact that a decision had already been made elsewhere.
 ## Breach Behavior
 
-> *"Gavel has broken free. Hunts personnel indiscriminately."*
-
+> *"Gavel has broken free and is in the room. It goes for whoever is chairing, so the chair is empty before it arrives and nobody volunteers for the role."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |

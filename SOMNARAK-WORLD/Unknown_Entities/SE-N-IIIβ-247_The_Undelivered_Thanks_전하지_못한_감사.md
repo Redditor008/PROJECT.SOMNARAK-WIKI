@@ -156,8 +156,7 @@ The table records which Work Types calm it and omits whether the worker took a s
 **Reading the response:** Watch the bow. It deepens slightly when a stone is accepted and holds the deeper angle for the rest of the route, and that is the only acknowledgement this entity gives. Measure the satchel — the Gardens office photographs it against a marked post at the end of every route — and record whether any stone went cold, because a cold stone is a delivery that failed and the file has four of them.
 ## Breach Behavior
 
-> *"Undelivered Thanks has broken free. Bows to personnel, draining them with gratitude."*
-
+> *"Undelivered Thanks has broken free and is bowing. The bow is the attack: a weight settles on the chest of whoever it faces, so do not stand in front of it to be polite, and expect every debt in the radius to start reading as overdue."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
