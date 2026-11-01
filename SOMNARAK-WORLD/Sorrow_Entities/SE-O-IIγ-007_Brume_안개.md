@@ -44,6 +44,8 @@
 - Taking M.A.W. stock is an event with its own authorisation and is never a prize hung on a clean cycle. Drawing from a Place-manifestation is awkward work and the wing has only ever managed it at the margin, off the bank's edge rather than out of its body — which is why this set is small, and why every piece in it has something to do with direction.
 
 ## Combat Record
+> **Why this file keeps combat actions.** A bank of fog rolling on the Han-flow at a hundred metres an hour has no hands. Its rows describe what the bank does to whoever is inside it, and they are kept in the record's own form because the expansion is measured in the same metres the rows are costed in.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

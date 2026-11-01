@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eight files that keep a combat record and now say why (2026-11-01)
+
+Non-breaching files that keep a Combat Record are supposed to carry the reason in one line before the stat block. Eighteen did; eight did not, and those eight are the ones where a reader actually stops: the chains whose **body has never moved**, the room that **has no position that could be approached**, the border place that is **not a creature**, the river that flows and falls, the shard that drifts while it sleeps, the fog bank, the miasma, the pillar under the ground.
+
+Each now carries the note in its own words and for its own reason: the chains travel across surfaces and the binding closes on a worker where they stand; the trapped breath's damage is the room doing what the room does; the flood has to say what a flood costs somebody standing in it. None of them claims a blow that the file does not record — the notes say plainly that nothing here pursues or aims, and that the rows are the arrival rather than a target.
+
+The other seventeen non-breaching holdings that keep combat records were left alone on purpose: their Movement rows state locomotion in terms — flies and swims, walks a fixed route, drags itself on one tendril — and a note there would be a label rather than a fix.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `check_stat_bands` PASS.
+
+
 ## Forty-five places where the file answered a question by pointing at another section (2026-11-01)
 
 **Ten `Threat Assessment` rows read *"Per entity classification. See SECC Classification table for details."*** — a threat assessment that declines to assess the threat. Each now says what the holding does to a person and why it matters: Apnea's danger is that it does nothing while doing the work, the Mirror of Soaking's is that it gives the anger back at the size of the Row's, Welcome Haven's is the aftermath rather than the collapse, because shelter that was never anybody's to give leaves a population with no author and no one who can say sorry.

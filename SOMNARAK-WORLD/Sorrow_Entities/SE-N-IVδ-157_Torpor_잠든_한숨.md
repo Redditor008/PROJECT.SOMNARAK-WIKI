@@ -45,6 +45,8 @@
 - Yield rises with stored exhaustion, so the site is worked after long shifts rather than at the start of them.
 
 ## Combat Record
+> **Why this file keeps combat actions.** *A quiet border place rather than a creature*: what extends is the sleeping breath, across a camp, at the pace the camp is being denned in. Nobody is chased. The attack rows survive because the breath arrives whether or not anybody has noticed it arriving, and the record's job is to describe the arrival, not to provide a target.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

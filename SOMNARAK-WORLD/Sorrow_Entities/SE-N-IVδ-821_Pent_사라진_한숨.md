@@ -45,6 +45,8 @@
 - Yield rises the longer the sigh is withheld, so the site is deliberately left unworked between extractions.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The movement row says what the objection is: *a place and not a body — the trapped breath fills rooms where exhaustion is being held in, and has no position that could be approached.* The party is inside it. Its attack rows are the room doing what the room does, and a file that dropped them would leave a warden with no account of what happens between the door and the exit.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

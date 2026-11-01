@@ -45,6 +45,8 @@
 - Extraction takes bank residue under separate authority. The Extraction Hall taps the ward-flows far downstream and never the source, and no Director has amended that.
 
 ## Combat Record
+> **Why this file keeps combat actions.** A river does not swing, and this one does not either — it flows or it falls, and the damage is the water. The strike rows record the drowning rather than a blow, and they are kept because the alternative is a file that describes a flood without saying what a flood costs the person standing in it.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

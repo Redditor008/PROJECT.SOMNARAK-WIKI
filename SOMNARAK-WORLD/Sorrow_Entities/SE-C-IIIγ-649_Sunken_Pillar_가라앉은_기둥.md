@@ -45,6 +45,8 @@
 - Extraction is separately authorised and has never been granted. The holding's containment condition forbids excavation, which rules out every extraction method yet proposed.
 
 ## Combat Record
+> **Why this file keeps combat actions.** It moves, slowly and beneath the ground, and no survey has caught it twice in the same position — the exclusion travels with it. A wall that walks is a thing a party can be caught inside, and the strike rows are the ground opening under whoever was standing on the excluded span.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

@@ -45,6 +45,8 @@
 - Yield is taken from the tears, which slow on success. A perfectly worked cycle is therefore the least productive one.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The shard floats and drifts at chest height while it sleeps, and during a corrupt event it stays exactly where it is while the dream expands outward from it. Nothing is aimed. The attack rows are the dream, and the file keeps them because the sleep is the one state the wing can approach without waking it.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

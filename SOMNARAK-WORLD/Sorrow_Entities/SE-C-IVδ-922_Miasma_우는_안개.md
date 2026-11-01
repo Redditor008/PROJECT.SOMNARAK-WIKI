@@ -45,6 +45,8 @@
 - Extraction is a separate exposure event with its own authorization.
 
 ## Combat Record
+> **Why this file keeps combat actions.** It rolls along the lower corridors at walking pace and follows the connected service passages, which means it arrives without appearing to cross anything. No blow is struck. The attack rows are what breathing inside the corridor costs, and dropping them would leave the file unable to say why a shift that met nothing came out worse.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference.

@@ -45,6 +45,8 @@
 - Extraction is its own risk event under its own authorisation, granted per cycle and never folded into a normal approach: the set is drawn out of the links, and the Armoury's standing instruction is to open with everything closed and take nothing out.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The body has never moved, and the chains have: they travel across surfaces under their own account and the registered extent is ambient rather than a point. What a party meets is the binding closing on a worker and holding them where they stand, and the strike rows are that — the file says in terms that nothing here pursues or aims, and it is right about that, which is why the rows read as hold and tension rather than as approach.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
