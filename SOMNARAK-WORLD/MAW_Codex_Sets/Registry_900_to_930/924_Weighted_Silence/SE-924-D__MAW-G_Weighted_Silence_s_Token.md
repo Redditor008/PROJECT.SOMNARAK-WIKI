@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Weighted Silence's Token
 
-> *“Weighted Silence's Token remembers Weighted Silence; the bearer must not mistake memory for permission.”*
+> *"The cold is a measurement and not a warning, and the survey has written the figure down before anyone walked out to see it."*
 
 ---
 

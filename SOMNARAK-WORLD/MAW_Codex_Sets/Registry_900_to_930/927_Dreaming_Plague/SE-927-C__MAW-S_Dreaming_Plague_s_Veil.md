@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Dreaming Plague's Veil
 
-> *“Dreaming Plague's Veil remembers Dreaming Plague; the bearer must not mistake memory for permission.”*
+> *"The wearer cannot be lifted and finds they cannot lift either, and ends up standing over people they cannot carry out."*
 
 ---
 

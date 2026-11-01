@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Dead Air's Token
 
-> *“Dead Air's Token remembers Dead Air; the bearer must not mistake memory for permission.”*
+> *"The bearer knows the last quarter-hour and cannot say it out loud in the room, and ends up timing watches by it."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Lethe's Edge
 
-> *“Lethe's Edge remembers Lethe; the bearer must not mistake memory for permission.”*
+> *"It cuts the memory before the body and leaves the target's account of the fight entirely intact."*
 
 ---
 

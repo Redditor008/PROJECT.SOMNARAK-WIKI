@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Once Told's Veil
 
-> *“Once Told's Veil remembers Once Told; the bearer must not mistake memory for permission.”*
+> *"Everything the wearer does is already part of a story they cannot edit, and a season of it leaves them waiting to be described."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Passing Bell's Veil
 
-> *“Passing Bell's Veil remembers Passing Bell; the bearer must not mistake memory for permission.”*
+> *"The voices of the dead are clear in it and the living are muffled. Its wearers begin to prefer the company."*
 
 ---
 

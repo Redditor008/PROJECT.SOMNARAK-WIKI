@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Lethe's Token
 
-> *“Lethe's Token remembers Lethe; the bearer must not mistake memory for permission.”*
+> *"A word or a face returns without the reasons it mattered, and the bearer knows everyone and owes none of them anything."*
 
 ---
 

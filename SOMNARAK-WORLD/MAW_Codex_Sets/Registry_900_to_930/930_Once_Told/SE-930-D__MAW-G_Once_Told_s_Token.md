@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Once Told's Token
 
-> *“Once Told's Token remembers Once Told; the bearer must not mistake memory for permission.”*
+> *"The grief the story required arrives as the bearer's own, and they cannot tell which losses were written for them."*
 
 ---
 

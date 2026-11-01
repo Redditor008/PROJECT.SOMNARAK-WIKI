@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Sky of Borrowed Faces's Veil
 
-> *“Sky of Borrowed Faces's Veil remembers Sky of Borrowed Faces; the bearer must not mistake memory for permission.”*
+> *"The wearer is recognised by everyone and known by none, and after a season stops correcting anybody."*
 
 ---
 

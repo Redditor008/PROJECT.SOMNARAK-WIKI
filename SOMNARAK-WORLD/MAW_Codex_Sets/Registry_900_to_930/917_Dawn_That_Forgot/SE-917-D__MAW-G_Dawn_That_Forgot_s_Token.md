@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Dawn That Forgot's Token
 
-> *“Dawn That Forgot's Token remembers Dawn That Forgot; the bearer must not mistake memory for permission.”*
+> *"The cold is accurate, and everything else the bearer carries starts to feel unreliable beside it. In the end they carry nothing else."*
 
 ---
 

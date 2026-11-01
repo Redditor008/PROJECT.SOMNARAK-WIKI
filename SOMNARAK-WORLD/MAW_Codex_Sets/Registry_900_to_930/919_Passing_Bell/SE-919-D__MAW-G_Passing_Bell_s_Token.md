@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Passing Bell's Token
 
-> *“Passing Bell's Token remembers Passing Bell; the bearer must not mistake memory for permission.”*
+> *"Every name the bearer has ever been given sounds as though it is being read out for the last time."*
 
 ---
 

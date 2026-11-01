@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Ninety Seconds's Edge
 
-> *“Ninety Seconds's Edge remembers Ninety Seconds; the bearer must not mistake memory for permission.”*
+> *"It cuts the same thought ninety times. The wielder answers a question with the reply they rehearsed in the loop."*
 
 ---
 

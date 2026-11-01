@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Once Told's Edge
 
-> *“Once Told's Edge remembers Once Told; the bearer must not mistake memory for permission.”*
+> *"It makes what it touches true by saying so, and adds a line to the wielder's own story that they cannot unsay."*
 
 ---
 

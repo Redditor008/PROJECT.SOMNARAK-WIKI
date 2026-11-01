@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Once Upon's Edge
 
-> *“Once Upon's Edge remembers Once Upon; the bearer must not mistake memory for permission.”*
+> *"It gives the wielder's own history a beginning, a middle and a moral it did not have, and takes the plain account away."*
 
 ---
 

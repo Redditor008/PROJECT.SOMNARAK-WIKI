@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Dreaming Plague's Token
 
-> *“Dreaming Plague's Token remembers Dreaming Plague; the bearer must not mistake memory for permission.”*
+> *"The bearer checks the cordon cord whenever it goes cold, and after a while checks it before the cold."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Dreaming Plague's Edge
 
-> *“Dreaming Plague's Edge remembers Dreaming Plague; the bearer must not mistake memory for permission.”*
+> *"The wielder dreams the district's dream the night after use and wakes in their own bed, which is logged as an exposure."*
 
 ---
 

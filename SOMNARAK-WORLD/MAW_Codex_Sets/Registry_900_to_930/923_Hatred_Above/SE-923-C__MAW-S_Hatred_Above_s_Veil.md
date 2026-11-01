@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Hatred Above's Veil
 
-> *“Hatred Above's Veil remembers Hatred Above; the bearer must not mistake memory for permission.”*
+> *"Nothing said in it lands as an answer; everything lands as a verdict. Its wearers go silent in the rooms that need them to speak."*
 
 ---
 

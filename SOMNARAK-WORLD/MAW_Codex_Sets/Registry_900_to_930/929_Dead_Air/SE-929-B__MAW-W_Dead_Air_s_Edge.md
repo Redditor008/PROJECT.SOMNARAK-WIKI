@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Dead Air's Edge
 
-> *“Dead Air's Edge remembers Dead Air; the bearer must not mistake memory for permission.”*
+> *"The wielder begins estimating the weight of doorways, colleagues and furniture, and arrives at a figure before deciding to."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Door to Nowhere Shield
 
-> *“Door to Nowhere Shield remembers Door to Nowhere; the bearer must not mistake memory for permission.”*
+> *"The wearer can always leave and can bring nobody with them. After a season they are the only one who gets out."*
 
 ---
 

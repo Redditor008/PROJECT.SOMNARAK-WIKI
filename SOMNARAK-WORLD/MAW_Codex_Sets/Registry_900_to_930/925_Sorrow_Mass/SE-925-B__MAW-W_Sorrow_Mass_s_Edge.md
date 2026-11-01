@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Sorrow Mass's Edge
 
-> *“Sorrow Mass's Edge remembers Sorrow Mass; the bearer must not mistake memory for permission.”*
+> *"It weighs as much as everything beneath it, and puts a fraction of that under the wielder's feet."*
 
 ---
 

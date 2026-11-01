@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Weighted Silence's Veil
 
-> *“Weighted Silence's Veil remembers Weighted Silence; the bearer must not mistake memory for permission.”*
+> *"The cowl will not hold the wearer's own account, and it will not carry a note out for anybody else either."*
 
 ---
 

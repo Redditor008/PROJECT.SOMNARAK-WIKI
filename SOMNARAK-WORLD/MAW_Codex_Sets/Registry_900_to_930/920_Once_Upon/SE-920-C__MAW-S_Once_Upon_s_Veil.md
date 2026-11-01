@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Once Upon's Veil
 
-> *“Once Upon's Veil remembers Once Upon; the bearer must not mistake memory for permission.”*
+> *"What happens to the wearer is a chapter and not a consequence. They wait for the part where it turns out all right."*
 
 ---
 

@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — The Fissured Skin Stigma
 
-> *“The Fissured Skin Stigma remembers Cracked Flesh; the bearer must not mistake memory for permission.”*
+> *"Old injuries and old resentments sharpen together and neither closes while the bearer is standing."*
 
 ---
 

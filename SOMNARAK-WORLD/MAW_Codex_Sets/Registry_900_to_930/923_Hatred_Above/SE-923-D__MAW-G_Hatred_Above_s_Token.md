@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Hatred Above's Token
 
-> *“Hatred Above's Token remembers Hatred Above; the bearer must not mistake memory for permission.”*
+> *"The bearer's first response to contradiction is to step back, and the step moves into ordinary conversation where there is nowhere to step."*
 
 ---
 

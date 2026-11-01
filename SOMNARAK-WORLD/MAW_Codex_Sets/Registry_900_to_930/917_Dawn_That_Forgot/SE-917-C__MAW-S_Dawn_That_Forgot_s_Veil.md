@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Dawn That Forgot's Veil
 
-> *“Dawn That Forgot's Veil remembers Dawn That Forgot; the bearer must not mistake memory for permission.”*
+> *"The wearer keeps every dawn and cannot afterwards say what they did in it. A week of mornings has to be told back to them."*
 
 ---
 

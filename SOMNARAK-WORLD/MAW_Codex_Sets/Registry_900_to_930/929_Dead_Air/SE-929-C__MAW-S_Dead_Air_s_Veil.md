@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Dead Air's Veil
 
-> *“Dead Air's Veil remembers Dead Air; the bearer must not mistake memory for permission.”*
+> *"A muted exhaustion builds under the mantle, as though the pressure left by every cut-off voice were resting across the shoulders."*
 
 ---
 

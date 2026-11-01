@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Ninety Seconds's Token
 
-> *“Ninety Seconds's Token remembers Ninety Seconds; the bearer must not mistake memory for permission.”*
+> *"It wears a single thought thin. A word or a face comes back without where it was learned, and the bearer is fluent and unmoored."*
 
 ---
 

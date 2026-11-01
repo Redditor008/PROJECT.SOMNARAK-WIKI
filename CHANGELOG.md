@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Forty-two epigraphs close 900–930 (batch 62)
+
+The second half of the oldest range — Dawn That Forgot through Once Told — forty-two records. `Registry_900_to_930` is now entirely off the formula: all ninety-three.
+
+Several of these had a cost written with a hand on it, and the epigraph follows that rather than the generic register: Dawn That Forgot's Veil keeps every dawn the wearer cannot afterwards account for, so the line is a week of mornings that has to be told back to them. Hatred Above's Veil turns any answer into a verdict. Dead Air's Edge has the wielder estimating the weight of doorways and arriving at a figure before deciding to.
+
+Forty-two of forty-two clear `quote_audit.py --check`.
+
+**Left:** 126 epigraphs, all in `1001_to_1043`.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## Fifty-one epigraphs in 900–916 (batch 61)
 
 The first half of the oldest range: Vellum Man through the Devouring Bloom, seventeen sets, fifty-one records.

@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Awakened Marrow-Spike & Tendril
 
-> *“The Awakened Marrow-Spike & Tendril remembers Cracked Flesh; the bearer must not mistake memory for permission.”*
+> *"It opens the ground a body stands on. The wielder stands like someone waiting for the floor to fail."*
 
 ---
 

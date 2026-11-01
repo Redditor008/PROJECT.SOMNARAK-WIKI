@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Hatred Above's Edge
 
-> *“Hatred Above's Edge remembers Hatred Above; the bearer must not mistake memory for permission.”*
+> *"The wielder's anger arrives with its subject already chosen, and the subject is whoever is standing closest."*
 
 ---
 

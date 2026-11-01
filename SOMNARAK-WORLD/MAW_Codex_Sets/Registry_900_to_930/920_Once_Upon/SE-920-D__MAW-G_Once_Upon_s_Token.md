@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Once Upon's Token
 
-> *“Once Upon's Token remembers Once Upon; the bearer must not mistake memory for permission.”*
+> *"The grief arrives with a lesson attached that the bearer did not write, and they are consoled by something untrue."*
 
 ---
 

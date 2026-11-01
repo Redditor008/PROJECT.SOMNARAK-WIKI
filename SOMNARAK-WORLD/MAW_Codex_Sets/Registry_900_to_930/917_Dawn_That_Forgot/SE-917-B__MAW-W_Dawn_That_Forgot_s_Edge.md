@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Dawn That Forgot's Edge
 
-> *“Dawn That Forgot's Edge remembers Dawn That Forgot; the bearer must not mistake memory for permission.”*
+> *"The wielder wakes a week of mornings several seconds behind their own eyes, and the infirmary counts every one of them."*
 
 ---
 

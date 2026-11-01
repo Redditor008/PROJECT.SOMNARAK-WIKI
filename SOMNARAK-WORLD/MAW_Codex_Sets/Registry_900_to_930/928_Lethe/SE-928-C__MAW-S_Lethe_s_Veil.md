@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Lethe's Veil
 
-> *“Lethe's Veil remembers Lethe; the bearer must not mistake memory for permission.”*
+> *"The mind clears in it by forgetting, and the forgetting reads as recovery. Its wearers are calm and cannot account for the calm."*
 
 ---
 

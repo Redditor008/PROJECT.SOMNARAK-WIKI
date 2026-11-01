@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Passing Bell's Edge
 
-> *“Passing Bell's Edge remembers Passing Bell; the bearer must not mistake memory for permission.”*
+> *"It rings a bell the target has not been told about. The wielder stops mid-sentence to listen for a name they cannot place."*
 
 ---
 

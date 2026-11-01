@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Ninety Seconds's Veil
 
-> *“Ninety Seconds's Veil remembers Ninety Seconds; the bearer must not mistake memory for permission.”*
+> *"Ninety seconds pass in it and nothing after them arrives. Its wearers are hard to remember and cannot say when they last ate."*
 
 ---
 

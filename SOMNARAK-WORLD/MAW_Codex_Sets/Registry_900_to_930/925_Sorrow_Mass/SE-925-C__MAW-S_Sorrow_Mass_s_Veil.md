@@ -1,6 +1,6 @@
 # M.A.W. SUIT — Sorrow Mass's Veil
 
-> *“Sorrow Mass's Veil remembers Sorrow Mass; the bearer must not mistake memory for permission.”*
+> *"The wearer is impossible to move and impossible to lift, and ends up unable to be got out from under anything."*
 
 ---
 

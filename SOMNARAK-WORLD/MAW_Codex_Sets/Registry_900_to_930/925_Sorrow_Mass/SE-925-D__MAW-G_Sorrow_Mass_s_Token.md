@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Sorrow Mass's Token
 
-> *“Sorrow Mass's Token remembers Sorrow Mass; the bearer must not mistake memory for permission.”*
+> *"Every load the bearer picks up is a little heavier and setting it down returns nothing at all."*
 
 ---
 

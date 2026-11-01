@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Weighted Silence's Edge
 
-> *“Weighted Silence's Edge remembers Weighted Silence; the bearer must not mistake memory for permission.”*
+> *"The wielder loses the ability to hear the silence the piece works in, and keeps talking into it to check that something is there."*
 
 ---
 

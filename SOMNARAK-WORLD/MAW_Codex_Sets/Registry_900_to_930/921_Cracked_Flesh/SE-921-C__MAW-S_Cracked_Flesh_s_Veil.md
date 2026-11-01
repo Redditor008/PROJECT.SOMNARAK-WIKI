@@ -1,6 +1,6 @@
 # M.A.W. PROTECTIVE ATTIRE — The Suture-Cracked Hauberk
 
-> *“The Suture-Cracked Hauberk remembers Cracked Flesh; the bearer must not mistake memory for permission.”*
+> *"The footing always reads as about to give, so the body braces. Its wearers cannot stand still in an open room."*
 
 ---
 

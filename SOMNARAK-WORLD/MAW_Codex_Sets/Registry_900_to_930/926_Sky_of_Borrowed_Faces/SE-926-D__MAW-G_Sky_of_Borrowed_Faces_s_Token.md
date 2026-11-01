@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Sky of Borrowed Faces's Token
 
-> *“Sky of Borrowed Faces's Token remembers Sky of Borrowed Faces; the bearer must not mistake memory for permission.”*
+> *"The bearer's grief arrives with somebody else's face on it, and they wake having mourned as a person they never met."*
 
 ---
 

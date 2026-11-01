@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — The Threshold Ward-Staff
 
-> *“Door to Nowhere Fang remembers Door to Nowhere; the bearer must not mistake memory for permission.”*
+> *"It opens a door in what it hits and closes it behind. The wielder's own way out gets a little less certain each time."*
 
 ---
 

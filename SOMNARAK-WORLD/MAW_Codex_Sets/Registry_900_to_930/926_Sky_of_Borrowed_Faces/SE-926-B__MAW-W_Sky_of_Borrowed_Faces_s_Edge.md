@@ -1,6 +1,6 @@
 # M.A.W. WEAPON — Sky of Borrowed Faces's Edge
 
-> *“Sky of Borrowed Faces's Edge remembers Sky of Borrowed Faces; the bearer must not mistake memory for permission.”*
+> *"Each blow leaves the wielder wearing an expression that was never theirs. People greet them by the wrong name and are sure of it."*
 
 ---
 

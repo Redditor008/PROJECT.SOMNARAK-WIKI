@@ -1,6 +1,6 @@
 # M.A.W. STIGMA — Door to Nowhere Charm
 
-> *“Door to Nowhere Charm remembers Door to Nowhere; the bearer must not mistake memory for permission.”*
+> *"Every room has an exit only the bearer can see, and their patience with anyone who cannot find one wears through."*
 
 ---
 
