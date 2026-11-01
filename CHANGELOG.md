@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eleven Grudge charms that each take something else (2026-11-01)
+
+The same defect as the Weight set, one element over: eleven Stigmas of Grudge Han-iron all cost their bearer a shortened temper. The line is gone, and each piece now takes what its own ability has already shown the reader it can take.
+
+The Rage Charm's bearer hears what is not being said in every room they enter, with no door-side switch. The Cage Charm takes one grievance and refuses the second, which is the one that goes home. The Ruin Charm means its bearer cannot stand in a room without knowing whether it is scheduled to come down. The Iron Charm's words enter the record whole exactly once, and afterwards its bearer can hear how much of any sentence survives summarising. The Gatekeeper's Charm gives its bearer a count of everyone leaving through a door they hold and no column for anyone coming back — the Aegis ledger's own shape. The Patina Charm quiets a grievance for a session and hands it back unchanged. The Torn Flower Charm lets its bearer see what somebody else finished by hand and no longer look at their own work without the same question. The Soaking Shadow's Charm returns the grievance in the morning with the date still on it. The Scream Charm is heard out once, and leaves its bearer able to tell, in any room, when they are about to be talked over. The Door to Nowhere Charm teaches the cold of an unannounced closure, so every warm room reads as one that can still be left. The Broken Charm shows the people behind the structure, and its bearer stops being able to promise anybody that it will hold.
+
+The Gatekeeper's Charm carried a second reference to *the bearer's shortened temper* in its responsibility record, which now states what the note was actually distinguishing: a working cost rather than a current threat record or an order to close a passage.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0.
+
+
 ## Twelve charms that each weigh something different (2026-11-01)
 
 Twelve Stigmas carried the same sentence for their cost — *The bearer moves a little slower* — and all twelve were Weight-element pieces, so the line had drifted from a shared element into a shared value. Read side by side, they made the pieces interchangeable at exactly the point where a bearer learns what they have agreed to.

@@ -232,7 +232,7 @@ The central fuller runs two-thirds of the blade, engraved with four ceremonial m
 
 **Ability:** The bearer can tell whether a structure they are standing in is scheduled for demolition. Tested against the works programme 41 times; 39 correct, and both errors were buildings whose schedule changed the following week.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer cannot stand in a room without knowing whether it is scheduled to come down, and there is no version of that knowledge that stays at work.
 
 *Five charms exist. Four went to Wardens who held the top floor in mind for a full interval; the fifth to the Warden who first noticed that the plates read higher when fewer rooms resolve.*
 

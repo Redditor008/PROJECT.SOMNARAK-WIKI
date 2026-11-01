@@ -240,7 +240,7 @@ Escalation here is thermal and it has two markers the file trusts: the idle floo
 
 **Ability:** A minor boon tied to this holding's own nature: it sharpens the wearer's sense of what is being left unsaid, which is useful at the hearth and awkward everywhere else, because the effect does not switch off at the door.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer hears what is not being said in every room they walk into, and the charm has no switch to fit on the door.
 
 *Five charms exist. All five went to Wardens who had complied with the naming order in front of a superior, which is the part of the standing order that is hardest to obey.*
 

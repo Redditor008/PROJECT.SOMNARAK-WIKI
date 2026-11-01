@@ -235,7 +235,7 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 **Ability:** A minor boon drawn from what the holding is: the charm takes a grievance the wearer is obliged to carry and keeps it overnight, returning it in the morning with the date attached and the heat gone out of it.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer learns to hand the grievance over at the end of a watch and to collect it, dated, in the morning, and it is the date that stays on afterwards.
 
 *Twelve grade positions are reserved, one for each grade on the card. Eleven charms have been issued; the twelfth is held unstruck, by order, against the grade the holding has not yet reached.*
 

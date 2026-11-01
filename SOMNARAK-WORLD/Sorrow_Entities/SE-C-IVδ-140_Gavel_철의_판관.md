@@ -225,7 +225,7 @@ The chain is short enough that the charm sits high, and that turn toward the spe
 
 **Ability:** The charm makes its wearer audible to authority: a statement made while wearing it is entered in full rather than summarised, once. It is the thing the Row's courts never granted.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer's words go into the record whole exactly once, and afterwards they can hear how much of any sentence survives being summarised.
 
 *The charm is not manufactured. Gavel gives one to a worker who submitted the part of the record that told against them, and has given none to a worker who won a session.*
 

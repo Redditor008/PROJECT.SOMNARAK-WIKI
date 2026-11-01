@@ -215,7 +215,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 
 **Ability:** Grants a minor boon tied to Torn Flower's sorrow; the effect mirrors the holding's nature — a grudge carried and not acted on, which the behaviour table gives as the only way this bloom is ever worked.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer can tell at a glance what somebody else finished by hand, and can no longer look at their own work without asking the same question of it.
 
 *Nine charms exist. Every one was granted on a session that ended with the worker walking away from the flower without having touched it, which is the whole of the work here.*
 

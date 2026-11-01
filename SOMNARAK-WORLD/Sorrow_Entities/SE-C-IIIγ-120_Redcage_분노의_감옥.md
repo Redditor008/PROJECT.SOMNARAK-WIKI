@@ -248,7 +248,7 @@ It is issued with a partner and never alone: a candidate accepts an oversight pa
 
 **Ability:** A minor boon borrowed from the holding's patience: the charm holds one grievance for the bearer without letting it harden and gives it back when asked. It cannot hold two.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer can set one grievance down for a while; the second one the charm will not take, and it is always the second one that follows them home.
 
 *The Cage Charm is not manufactured and cannot be requested; the object confers it rarely, and the armoury has never identified what distinguishes the sessions that produce one.*
 

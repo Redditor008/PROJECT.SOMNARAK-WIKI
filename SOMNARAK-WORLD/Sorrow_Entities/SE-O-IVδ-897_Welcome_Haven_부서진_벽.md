@@ -225,7 +225,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 **Ability:** The charm reveals what a relied-on structure would leave exposed—the people and rooms behind it—rather than certifying another structure safe. Bearers experience that revelation as early warning, often about failures nobody present has the authority or budget to fix.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer sees the people behind the structure they are standing behind and stops being able to promise anybody that it will hold.
 
 *The Broken Charm is given, not taken. It has appeared only on workers who stood before this entity unshielded and named a failure they were personally answerable for, and no procedure has produced one deliberately.*
 

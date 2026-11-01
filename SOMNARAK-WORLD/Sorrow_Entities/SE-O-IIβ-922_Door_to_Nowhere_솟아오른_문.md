@@ -239,7 +239,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Ability:** The charm cools when the bearer is standing in a place they are not permitted to leave, which is the only warning anybody carries for an unannounced closure and is used for that rather than for work.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer learns the charm's cold as the only warning of a closure, so every warm room afterwards reads as one they could still walk out of.
 
 *Nine in eleven years, every one to a worker who stood in front of an opening and logged it shut. Not one has gone to anybody who named a choice at the handle, and four people have.*
 

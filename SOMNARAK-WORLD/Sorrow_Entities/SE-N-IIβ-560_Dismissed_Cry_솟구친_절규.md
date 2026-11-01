@@ -246,7 +246,7 @@ The interior contains the preserved breath and final unuttered declarations of c
 
 **Ability:** The charm makes the wearer audible. Objections raised while wearing it are heard out rather than talked over, once, by whoever is in the room — which is precisely what the original scream never got.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer's objection is heard out in full exactly once, and after that they can tell, in any room, when they are about to be talked over.
 
 **Charm wording:** After use, the Stigma’s care record requires the received statement exactly on one sheet and the bearer’s reaction on another, kept apart until it cools. Irritation at requests for exact wording is an early sign; omitted phrases returning during sleep are a later one. Do not smooth a forceful verb into a harmless replacement or label the bearer’s own reaction as the speaker’s testimony. The item warns that forced removal before receipt transfers the stored protest to the remover. Neither its pause nor the primary’s audibility effect licenses speaking over the complainant.
 

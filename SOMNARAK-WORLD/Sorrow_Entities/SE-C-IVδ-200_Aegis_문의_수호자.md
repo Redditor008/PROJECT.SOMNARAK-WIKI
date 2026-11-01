@@ -209,9 +209,9 @@ Treat the table as a snapshot and never as a system: the classification and the 
 
 **Ability:** Grants a minor boon tied to Aegis's sorrow; the effect mirrors the entity's nature.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer counts everyone who leaves through a door they are holding, and the charm gives them no column for anyone coming back.
 
-**Charm responsibility record:** The individual Stigma identifies a missing duty, not a person: its return-route test found an absent arrival medic. That history stands beside this primary’s four threshold-challenge awards, without merging their acquisition accounts. Record which responsibility the item names and which account is being followed. The bearer’s shortened temper is a cost, not a current threat record or an order to close a passage. The individual warning about a false denial mark on breakage remains attached to that source; it does not establish that this Gate has accepted any returnee.
+**Charm responsibility record:** The individual Stigma identifies a missing duty, not a person: its return-route test found an absent arrival medic. That history stands beside this primary’s four threshold-challenge awards, without merging their acquisition accounts. Record which responsibility the item names and which account is being followed. What the charm takes from its bearer is a working cost, and it is not a current threat record or an order to close a passage. The individual warning about a false denial mark on breakage remains attached to that source; it does not establish that this Gate has accepted any returnee.
 
 *Four charms exist. All four went to door Wardens who made the threshold challenge to a superior officer who had been outside for under two minutes, which is the duty and is harder than it reads.*
 

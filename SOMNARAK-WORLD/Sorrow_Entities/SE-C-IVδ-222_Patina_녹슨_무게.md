@@ -235,7 +235,7 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 
 **Ability:** Steadies the bearer's own grievance for the length of a session, which is why the charm is issued to those working the line and not otherwise.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer's grievance goes quiet for the length of a session and is waiting, unchanged, at the end of it — which is why the charm is issued to the line and to nobody with a complaint.
 
 *Six charms exist and all six went to Wardens who completed a renewal walk in bad weather rather than rescheduling it. The file records the dates and not the weather; the families remember the weather.*
 
