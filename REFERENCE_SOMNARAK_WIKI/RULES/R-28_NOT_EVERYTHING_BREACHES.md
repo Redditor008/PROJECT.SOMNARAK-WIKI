@@ -43,6 +43,11 @@ could not be met from qualifying dossiers alone, the honest answer would be to r
 
 - **Activation only** — a relic that is used, not contained against.
 - **Corruption** — the zone warps, degrades or turns; the entity stays in it.
+- **Possession** — corruption that works on the agent rather than on the room. The
+  holding does not move and does not need to: it takes the person who works it, and
+  the person becomes the vector. The native comparisons are the Singing Machine,
+  which calls its worker back to it, and the Cherry Blossoms, which keep the one who
+  tends them.
 - **Expansion** — it grows, spreads or lengthens in place.
 - **Manifestation** — it appears where it appears and does not travel.
 
@@ -90,3 +95,44 @@ escaping*, or *does not rupture or roam*. Those are the sentences the sweep exis
 A flavour quote is now category-specific: a corruption event reads *"…is turning the zone it stands
 in; nothing has left it"*, an expansion *"…is widening where it is; the boundary is moving, not the
 entity"*.
+
+## Possession (2026-11-01)
+
+**Stated by the archive owner:** *"Now add in Possession — it is still corruption, but it
+affects the agent."*
+
+Corruption is written as a property of the room: the zone warps, the entity stays. That
+covers a holding which changes the place it occupies. It does not cover the holding that
+leaves its room untouched and takes the person working it — the worker who will not hand
+over the post, who answers the voice and is answered back in their own voice later, who
+stops being able to put the load down. Those files were being written as breaches because
+the word *vector* had nowhere to go.
+
+**Possession is still corruption.** The difference is the direction of the effect: a
+corrupted zone changes what is inside it, and a possession changes the one who came in and
+then moves the change out through them. Nothing leaves containment, which is why the
+category belongs beside corruption and not beside escape.
+
+**The evidence test.** The dossier's own text must show the agent acting under the
+holding: a worker who declines to hand over, who answers and is retained, who carries the
+burden out of the room, who becomes useful and reluctant. A file that only says the worker
+is frightened, injured or unwell is not a possession and is not reclassified on the
+strength of it.
+
+**What a possession record carries.** The usual non-breaching reclassification — the
+`Entity Type` cell states the category and cites the dossier's own evidence, `## Breach
+Behavior` becomes `## Containment Event Behavior`, the `Breach type` rows become `Event
+type (non-breach)` — plus two rows a corruption record does not need:
+
+- **Who it takes** — the agent, and the selection rule if the file records one. An Atlas
+  takes the conscientious first, and the state presents as competence.
+- **Recovery** — what returns the person. This is the row that makes the category useful
+  in play: a corrupted zone is closed, a possessed agent is *brought back*, and the file
+  must say how. Atlas is the worked example: the relief interval is not waivable, the
+  incoming pair remove the worker physically, the removal is recorded as a holding event
+  and not as misconduct, and nineteen such removals stand in nine years.
+
+The event table is a `### Possession Events` table with the same four columns as a contact
+record — what the holding does, what the watch carries out, and what the reading is — and
+the watch sequence closes on the file's own suppression condition. A possession record
+never says *contain* where it means *recover*.

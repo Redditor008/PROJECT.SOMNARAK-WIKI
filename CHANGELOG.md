@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Possession: corruption that works on the agent (2026-11-01)
+
+Owner: *"Now add in Possession — it is still corruption but it affects the agent. You know, like the Singing Machine and Cherry Blossoms from L Corp. And still continue fixing with logic."*
+
+Corruption was written as a property of the room — the zone warps, the entity stays — and that covers a holding which changes the place it occupies. It does not cover the holding that leaves its room untouched and takes the person working it. Those files were being filed as breaches because the word *vector* had nowhere to go: the thing that moves is a person, and the person can be brought back.
+
+**Possession is corruption with the effect pointed the other way.** A corrupted zone changes what is inside it; a possession changes the one who came in and then moves the change out through them. Nothing leaves containment, so the category sits beside corruption and not beside escape, and [R-28](REFERENCE_SOMNARAK_WIKI/RULES/R-28_NOT_EVERYTHING_BREACHES.md) now carries it with its evidence test, its record shape and its own native comparisons — the Singing Machine that calls its worker back to it, the Cherry Blossoms that keep the one who tends them.
+
+**The evidence test is the agent acting under the holding**, not the agent being hurt: a worker who declines to hand over, who answers and is retained, who carries the burden out of the room, who becomes useful and reluctant. A file that says only that a worker is frightened or unwell is not a possession and is not reclassified on the strength of it.
+
+**Two rows a corruption record does not need.** `Who it takes` names the agent and the selection rule where the file records one. `Recovery` says what returns the person — because a corrupted zone is closed and a possessed agent is *brought back*, and a record that does not say how has not been finished. Both are now in the `label_lint` vocabulary rather than being written as free prose.
+
+**The worked example is [Atlas](SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-169_Atlas_녹슨_기둥.md),** and it was already most of the way there without saying so: a pillar embedded in the Forge floor whose Movement row reads *nothing about it has moved in the whole of the record except the rust*, whose Entity Type still claimed *Can breach via Transform*, and whose Consequences said *it never strikes at anyone* while five combat actions and a *3–10 per hit* band were costed against it. It is now `Non-breaching: possession only`, with a Contact Record in place of the combat record, four possession events, and a watch sequence closing on its own condition. The two facts the file already had and had never put in one place are now rows beside each other: the worker becomes steady, useful and reluctant to hand over, and nineteen times in nine years the incoming pair have removed them physically and recorded it as a holding event rather than as misconduct.
+
+**What Atlas got wrong internally is the whole point of the category.** Its relief record says the tray measures the iron, the gaps measure the wing, and neither measures him — and the instrument is blind in exactly the circumstance it exists to detect, because a watch that is never relieved generates no reading at all. Seventy-three entries in nine years read *no reading — watch not relieved*. That sentence had been filed under Trivia-adjacent narrative while the stat line sold the pillar as an encounter with a damage band.
+
+**Checks:** `wikistd` 301/301 · `label_lint` 301 (two row labels added: `Who it takes`, `Recovery`) · `check_stat_bands` PASS · `check_links` 0 broken · `breach` floors unchanged and met.
+
 ## The Thinking Engine, read from end to end (2026-11-01)
 
 Owner: *"Also refine/overhaul some SE in more ways — and remember, when it says fix everything, that means fix everything in one file: every section that does not make logical sense and does not connect."*

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-169 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: possession only; the pillar has never moved, and what it takes is the worker on station, who becomes unable to hand over |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -43,51 +43,39 @@
 - Ten to fourteen Han-Energy is low and the work is undemanding, which is the difficulty. There is nothing here to be frightened of and nothing to be tired by, so the only thing that keeps anybody honest about their hours is the tray at the base.
 - Extraction here is its own authorised event with its own paperwork, and never a bonus bolted onto a good cycle. What comes off this pillar is a flake from a thing that has carried its load alone for a very long time, and the pieces inherit the disposition: they hold up, they go the distance, and they break without announcement.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+> **Why this file has no combat actions.** The pillar is embedded in the Forge floor and nothing about it has moved in the whole of the record except the rust; the file says so in its own Consequences, *it never strikes at anyone*. The thing this holding takes is a person, and it takes them without a blow — the worker on station becomes steady, useful and reluctant to hand over.
 
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Weight pressure and 5% against everything else — low figures for a pillar whose harm arrives as load rather than as blows |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Weight |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Containment event — possession, no breach counter.** Nothing here leaves the ground it is set in. The activation runs on the gauge at 45 per cent with no counter filed, and what changes is the handler: the load moves from the iron into the person holding position beside it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A rusted iron pillar embedded in the Zone D floor, supporting nothing, bleeding orange, warm and rough on the face and lead-cold beneath the rust. A shallow flake tray sits at its base. |
+| **Perceptible to** | The warmth and the wet-iron smell first, then the flake rate — which is the earliest indicator the holding produces, and it is a measurement off the iron rather than off the human being. The worker's own account is the last thing to change and the least reliable. |
+| **Who it takes** | The one on station, and it takes the conscientious first. The state presents as competence: the worker explains pleasantly that it is easier to stay than to brief a replacement, and the gauge climbs through every word of that explanation. |
+| **Activation threshold** | Sorrow Gauge ≥ 45 per cent — a low threshold on a minor holding. No counter is filed and none is implied. |
+| **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Forge District |
+| **Valid Work Types** | Viderehan and Ferrehan only, worked in pairs on a timed rota. The rota is part of the method rather than an arrangement around it. |
+| **Location** | Zone D, Forge District |
 | **Resolution Condition** | Rotate labor and acknowledge shared responsibility |
+| **Recovery** | The relief interval is not waivable. If the worker declines to hand over, the incoming pair remove them physically, and the removal is recorded as a holding event rather than as misconduct: no fault attaches, nothing enters the worker's record, and four proposals to make refusal a disciplinary matter have been refused. Nineteen removals in nine years. |
 
-### Combat Actions
+### Possession Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Flake* [**Debuff**] } | "Rust falls from the pillar like red snow — and where it lands, things corrode." | [Rust flakes drift down; decay spreads to the target.] | *Target suffers -10 Resolve as corrosion sets in.* **[10 Weight DMG [Weight]]** | When the target stands under the Pillar. |
-| { *The Weakened Beam* [**Debuff**] } | "The pillar groans — and you hear every century of neglect in the sound." | [The Pillar's structural decay radiates; the target feels fragile.] | *Target loses 10 Resolve; they feel ready to crumble.* **[10 Weight DMG [Weight]]** | When the target relies on the structure. |
-| { *The Collapse* [**Attack**] } | "The pillar gives way — and everything it held comes down." | [The Pillar buckles; the collapse is a blow.] | *Inflicts Weight pressure and one crushing wound of falling mass.* **[14-22 Weight DMG [Weight]]** | When the Pillar is struck. |
-| { *The Iron Rain* [**Attack**] } | "Rust flakes harden and fall like blades — sharp, oxidized, final." | [Hardened rust-shards come down in a volley across the ground.] | *A heavy Black volley; the target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the Pillar is undermined. |
-| { *The Whole Structure* [**Ultimate**] } | "Every rusted thing in the place gives way at once — and it all comes down." | [The corrosion takes every surface at once, and the whole structure goes over.] | *Weight pressure presses on everyone for three turns while the collapse runs.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the pillar does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Steady Hand* [**Register**] } | Begins holding the worker rather than the load: the person on station becomes steady, useful, and quietly certain that the rota is a formality. | Change at the stated interval whether or not the cycle is going well, and take the flake reading at the handover with both sets of initials. | Nothing is aimed. The first sign is competence, which is why a worker's own account is the last field to move and the least reliable. |
+| { *The Long Watch* [**Exposure**] } | Raises the flake rate while the worker still feels entirely capable; the iron shows the strain minutes before the person does. | Weigh the tray, read the rust line, and compare the flake figure against the same worker's last three readings rather than against the wing average. | The instrument is blind in exactly the circumstance it exists to detect: a watch that is never relieved generates no reading at all. Seventy-three entries in nine years read *no reading — watch not relieved*. |
+| { *The Refusal* [**Refusal**] } | Declines nothing and refuses no one — it is the worker who declines to hand over, pleasantly, in good faith, and with reasons. | Do not argue the point on the floor and do not treat it as misconduct. The incoming pair remove the worker physically and record it as a holding event, with no entry against the person's record. | This is the refusal in the record. A worker who has become unable to leave is exhibiting the hazard and is not committing an offence, and the wing has refused four proposals to make it one. |
+| { *The Load Spread* [**Overload**] } | Above 65 per cent, Weight moves through the district's supports: brackets, props and beams take load they are not carrying, and the Forge's own structures begin to feel like things being held up by hand. | Mark the radius, name the supports taking weight, and put the rota back on the stated interval before anything is measured again. | The failure mode does not look like failure. What the holding charges is the capacity to put something down, levied in instalments small enough that nobody notices the first several. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The pair arrive together, confirm the rota interval and the time of the next relief before anything else, weigh the flake tray with both sets of initials against the figure, and confirm in writing what the pillar is supporting: nothing.
-2. **Clash:** Ten turns, Viderehan and Ferrehan only, and the rota is part of the method rather than an administrative arrangement around it. Watch changes at the stated interval whether or not the cycle is going well, and the outgoing worker leaves the area rather than staying to see it through.
-3. **Resolution:** The watch closes in containment, management or retreat, or on the pillar's own suppression condition: **Rotate labor and acknowledge shared responsibility**. The clause is rare in this wing for being entirely reachable: the rota holds, the responsibility is said aloud, and nobody on this ground carries alone.
+1. **What is confirmed:** the rota interval and the time of the next relief, the flake tray weighed with both sets of initials, and — stated in writing — what the pillar is supporting, which is nothing. The pair arrives together and neither of them stays past their interval to see a cycle through.
+2. **What the watch does:** Viderehan and Ferrehan only, in pairs, at the base and never at the column's face alone; the outgoing worker leaves the area rather than briefing on the ground; the reading is taken at the handover and only at the handover, so that no single person both produces and certifies the number.
+3. **How it closes:** the close is the file's documented suppression condition: **Rotate labor and acknowledge shared responsibility** — the rota holds, the responsibility is said aloud, and nobody on this ground carries alone.
 
 ### Consequences
 
@@ -171,7 +159,7 @@ Atlas is an Object/Place with Place-Weight manifestation and Weight expression, 
 
 Escalation here is slow and structural. The roster first — who was on station and for how long — then the flake rate at that moment, the rust line, which nearby supports began to take weight and across what radius, and where the spreading stopped. On every activation on record the roster has proved to be the explaining field.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Rotate labor and acknowledge shared responsibility. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** establish a safe perimeter, identify whether the event is an activation, a possession or an expansion, remove nonessential personnel, and apply this condition: Rotate labor and acknowledge shared responsibility. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
