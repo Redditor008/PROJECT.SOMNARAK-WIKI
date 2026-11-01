@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The archetype openers, and the last five-window pairs closed (batch 72)
+
+Every remaining Appearance couple was an opener: a veil that began *"near-transparent veil of pale Han gossamer"*, a mantle that began *"fabric that falls from the shoulders"*, a blade that began *"a long pale blue blade of"* or *"a short broad crimson blade of"*, a charm that began *"hangs from a short cord and rests against"*. Eight openings reworded, one side of each pair, and the pairs go with them.
+
+**Appearance couples: 108 → 99, and no pair now shares more than four six-word windows** — down from nine pairs at ten or more when this pass opened, and thirty-two shared windows in the worst one. Four shared windows is roughly *"the inner lining is smooth"*: the wing's material vocabulary, which no rewrite improves.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The source-trace doctrine, written per item (batch 71)
 
 The doctrine sentence is the last clause of every M.A.W. record's history paragraph, and in eighteen weapon records it read the same way: **"the object gave no transcribable field response"** — *object*, *place*, *time-manifestation* or *hazard*, with the noun swapped. Eighteen weapons that had in fact produced a great deal of apparatus were all describing themselves as unreadable.
