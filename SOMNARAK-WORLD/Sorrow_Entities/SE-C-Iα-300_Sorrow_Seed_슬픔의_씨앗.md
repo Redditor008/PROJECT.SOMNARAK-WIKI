@@ -238,7 +238,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Sorrow Seed's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder's own pace drops to the seed's: a hand's width at a time, in one direction, and no shift on file records the bearer noticing it happen.
 
 ### M.A.W. Suit — The Sorrow Mantle
 

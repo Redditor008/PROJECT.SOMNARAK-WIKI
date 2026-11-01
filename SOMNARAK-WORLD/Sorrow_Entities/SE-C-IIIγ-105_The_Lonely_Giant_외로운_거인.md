@@ -198,7 +198,7 @@ A load-limit line crosses the broad, unpolished head. The ribbed haft ends in an
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Lonely Giant's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder's own frame carries the archetype's weight, which is why the fitting is checked before every issue — the maul does not tell its bearer when it has become too much.
 
 ### M.A.W. Suit — The Giant's Mantle
 

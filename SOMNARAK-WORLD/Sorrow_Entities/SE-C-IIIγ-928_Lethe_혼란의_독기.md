@@ -191,7 +191,7 @@ Lethe is a Fragment (III) Hazard of Major (γ) potency, Hazard-Mind manifestatio
 
 **Ability:** Void against the Mind. Struck targets make errors for some hours and remain certain throughout; the Armoury requires a second signature on anything a struck worker writes that day.
 
-**Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
+**Cost:** The wielder cannot tell afterwards which of their own work was checked and which merely felt checked, which is why the second signature is a procedure rather than a reassurance.
 
 ### M.A.W. Suit — Lethe's Veil
 

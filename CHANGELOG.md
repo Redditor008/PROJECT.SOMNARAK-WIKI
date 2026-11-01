@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Ten mauls and blades that had stopped saying what they take (2026-11-01)
+
+Two more cost sentences, ten more pieces: *progressively heavier; prolonged use ages them slightly* on five Weight mauls, and *chronic fatigue in the dominant hand* on five Edges. The first was describing an age cost the archive nowhere else supports; the second described a hand, on five blades whose actual work is done on the target's memory of events.
+
+The five mauls now charge in the currency their own recovery and family rules already use. The Burden Maul's wielder picks up the obligation the strike settled and cannot put it down with the maul. The Giant's Maul puts the archetype's weight on the bearer's own frame, which is why the fitting is checked before issue — the piece does not warn its bearer. The Sarcophagus Wall-Ram leaves its wielder unable to pass what it held open for other people. The Familiar Maul holds its bearer to the piece's own recovery rule — one breath and one true statement of present responsibility — and the bearers who cannot make the statement are the ones who get hurt. The Sorrow Maul drops its wielder's pace to the seed's: a hand's width at a time, one direction, unnoticed.
+
+The five Edges take what their abilities imply instead. Eleven Fifty-Nine's Edge leaves its wielder thinking of somebody they have been meaning to contact, for a night, undecided. Lethe's Edge leaves them unable to tell which of their own reports was checked and which merely felt checked. The Corrosion Cutlass puts its wielder's own figure for the length of a shift out by half. Hatred Above's Edge gives the wielder an anger with no subject, nine to fourteen seconds in, exactly as the anomaly does. Never Discharged's Edge leaves the bearer carrying injuries that no examination finds, in both directions.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0.
+
+
 ## Thirteen blades whose price was a headache or a numbness (2026-11-01)
 
 Two more stock cost sentences had spread across the Weapon blocks: *a persistent low-grade headache with each use* on six Edges, and *emotional numbness toward the source entity's element with each use* on six more, plus one `**Bearer cost:**` variant on Cracked Flesh. Read one after another, six different blades charged the same coin.

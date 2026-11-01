@@ -206,7 +206,7 @@ Escalation here is length. Record the trigger where one is identifiable, the mar
 
 **Ability:** *Wall Pressure / Make a Way* — a Weight Skewer into a present debt barrier, not a person. With custodian review and an identified support route it holds one Wall-like surge open long enough for people to reach review, care or transit; used as advantage, it becomes immovable.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder takes the wall's side of the exchange: what the ram holds open for other people, the bearer afterwards cannot move past.
 
 ### M.A.W. Suit — The Mason's Mortar-Crusted Hauberk
 

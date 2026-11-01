@@ -195,7 +195,7 @@ The Debtor is a Fragment (III) Subject with Subject-Body manifestation and Weigh
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Debtor's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder puts down what the strike settled and picks up the obligation instead, and the weight does not come off when the maul does.
 
 The Maul’s Shared Load function carries measured Weight through the strike line rather than making an obligation disappear. It can distribute load across hostile barriers or willing allied carriers. Consent remains a limit on giving a burden to another person: a forced transfer returns doubled to the bearer. A line that can reach three targets is not authority to nominate three unwilling people as carriers, and a successful blow does not close the account that supplied it.
 

@@ -174,7 +174,7 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 **Falloff Rule:** None; 100% damage to the selected target only.
 **Damage Application:** Direct Grudge damage; the overhead anomaly’s spread does not add targets to the Edge’s strike.
 **Ability:** Channels Grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
-**Cost:** The wielder experiences chronic fatigue in the dominant hand with each use.
+**Cost:** The wielder's own anger arrives without a subject — nine to fourteen seconds into an argument, in a room where nothing has happened — and the blade does not name who it is for.
 
 ### M.A.W. Suit — Hatred Above's Veil
 

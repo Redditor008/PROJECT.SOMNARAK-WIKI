@@ -187,7 +187,7 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Burning Root's weight signature in the strike.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Cost:** The wielder is held to the piece's own recovery rule — one breath and one true statement of present responsibility between attacks — and the bearers who cannot produce the statement are the ones who get hurt.
 
 Binding asks the wielder to name a duty chosen and a duty inherited. Ledgerbreak exposes an inherited burden feeding present Weight pressure; it cannot erase a debt, absolve harm or damage freely chosen care. A false strike transfers the targeted obligation to the wielder. Continuous swinging bends the pierce line toward family members, including people outside the room. Three unresolved debt-line strikes carry severe corrosion risk, so a count of successful impacts is not evidence of a safe sequence.
 
