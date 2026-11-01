@@ -8,6 +8,27 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The stock clauses inside the modern cost field (batch 69)
+
+The 345 cost fields were written one at a time and every one of them is about its own object — but writing them one at a time still let a handful of clause shapes recur, and the recurrence runs *inside* the field rather than across whole fields. A shingle scan of all 345 found **47 pairs sharing a seven-word window between two different sets, eight of them sharing five or more.**
+
+Four clause families accounted for almost all of it:
+
+- **"each blow makes the wielder's old injuries ache …"** — the Occlusihan Fang, the Rebirth Fang, Well Within Fang, and six legacy records. Each now says what its own blow does: the Occlusihan splits the oldest scar along its first line; the Rebirth Fang puts the wielder back at the moment it ended.
+- **"it stops the blow and makes the wearer slow to …"** — five plate records, the Iron Plate, the Promise Plate, Myrmidon's Plate, the Echo Plate and the Burning Plate. Each plate now stops the blow in its own terms: the Iron Plate lands the hit on the decision, the Promise Plate answers with the terms of the vow, the Echo Plate answers with a quarrel older than the wearer.
+- **"a small, nameless memory"** — six lens and edge records spent the same coin. The Merchant's Lens now takes *one ordinary thing the wielder would never have missed — a price once quoted, a face at a counter*; the Ruin Lens takes a detail of the room the wielder is standing in; Lacrima's Edge lets one of the wielder's own sealed things out where they can watch it go.
+- **"a familiar word or face"** — four stigma records. The Lethe Token now loosens a name from the thing it names; Glass Elsewhere's Token holds a word a half-second out of true and hands it back at the wrong angle.
+
+**Result: 47 pairs → 19, and no pair now shares five or more seven-word windows.** What survives is house grammar — *Wielded long, the wielder…* — which is the codex's sentence frame and not a claim about any object.
+
+Two records also had a cost field of one sentence with no continued-use half — `SE-920-D` Once Upon's Token and `SE-1036-B`, the former a genuine gap and now two sentences. **49 fields state the price and its accumulation in a single sentence**, and that is not a gap: the colon carries the turn and both halves are present, so they were left alone rather than given a full stop to satisfy a count.
+
+**Five Appearance passages were near-verbatim twins in different sets** and were rewritten: the Denial Lens had been described with the Joy Lens's body (32 shared six-word windows), the Denial Shield with the Duty Shield's (26), the Resentment Plate with the Duty Plate's (11), the Void Mantle with the Burden Mantle's (17), and the Silence Veil with the Denial Veil's (15). Each now describes its own object's material and behaviour — the Void Mantle fulled until it holds its own shape, the Resentment Plate's seams opening dark under pressure. **Nine pairs at ten or more shared windows are down to five.**
+
+**Still open:** the remaining Appearance template, where 108 pairs share three or more six-word windows — mostly a common vocabulary of linings, glass behaviour and hem finishes rather than copied paragraphs. That is the next pass.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The 528 legacy codex records, read rather than counted (batch 68)
 
 Step three of the ordered pass: **what is actually wrong with the 507 old-layout item records** (the figure of 528 counted files that are not B/C/D records; 852 item records total — 345 current, 507 legacy). They were opened and read, not grepped, because the earlier phrase scan had already proved itself wrong twice.

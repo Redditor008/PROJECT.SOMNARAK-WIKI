@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The Plate armours the wearer in their own suppression: it stops the blow and leaves the anger underneath with nowhere to go. Worn long, the wearer's reactions slow by exactly what they are not saying.
+**Operational / binding cost:** The Plate armours the wearer in their own suppression: the blow lands on the anger instead of the body, and the anger has nowhere to go but further in. Worn long, the wearer is calm, heavy and impossible to hurry.
 
 ## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Suit Record*
 

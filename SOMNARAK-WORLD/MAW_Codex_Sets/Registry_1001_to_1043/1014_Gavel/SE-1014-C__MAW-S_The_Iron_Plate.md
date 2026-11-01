@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The Plate is a verdict worn as armour: it stops the blow and makes the wearer slow to consider any new evidence. Worn long, they cannot be moved from a first opinion.
+**Operational / binding cost:** The Plate is a verdict worn as armour: the blow lands on the decision rather than on the body, and the wearer takes the hit as confirmation that the first reading was right. Worn long, they cannot be moved from a first opinion.
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Suit Record*
 

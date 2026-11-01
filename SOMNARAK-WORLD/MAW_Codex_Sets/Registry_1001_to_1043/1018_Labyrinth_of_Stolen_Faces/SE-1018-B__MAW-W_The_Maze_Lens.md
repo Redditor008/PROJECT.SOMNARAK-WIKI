@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Void 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The Lens takes a turn and a name with each use: the wielder loses a small, nameless memory and finds a corridor that leads to somebody they no longer recognise. Used long, their past is largely corridor.
+**Operational / binding cost:** The Lens takes a turn and a name with each use: the corridor that opens is one the wielder used to know from the other end, and the person waiting in it has been met before. Used long, their past is largely corridor.
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Weapon Record*
 

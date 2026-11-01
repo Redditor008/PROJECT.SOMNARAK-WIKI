@@ -28,7 +28,7 @@ Once Upon's Token is the stigma record of the Once Upon set — head-slot, besto
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The Token is a story's ending worn against the skin: it fills the bearer's sleep with a grief that has been given a moral, and the moral is never theirs.
+**Operational / binding cost:** The Token is a story's ending worn against the skin: the bearer dreams the last page every night, and the lesson attached to it belongs to somebody else. Carried long, the bearer wakes having learned something they cannot use.
 
 ## ITEM-SPECIFIC HISTORY — *The Once Upon Source-Trace: Stigma Record*
 

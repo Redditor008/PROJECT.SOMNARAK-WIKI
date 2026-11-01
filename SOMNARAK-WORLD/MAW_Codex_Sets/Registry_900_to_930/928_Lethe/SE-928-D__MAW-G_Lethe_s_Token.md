@@ -28,7 +28,7 @@ Lethe's Token is the stigma record of the Lethe set — head-slot, bestowed at a
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The Token lets a familiar word or face go for a few seconds and does not return the reasons it mattered. Carried long, the bearer knows everyone and owes none of them anything.
+**Operational / binding cost:** The Token loosens a name from the thing it names: the word still comes when called, and the reason it was being held in the mouth does not. Carried long, the bearer knows everyone and owes none of them anything.
 
 ## ITEM-SPECIFIC HISTORY — *The Lethe Source-Trace: Stigma Record*
 

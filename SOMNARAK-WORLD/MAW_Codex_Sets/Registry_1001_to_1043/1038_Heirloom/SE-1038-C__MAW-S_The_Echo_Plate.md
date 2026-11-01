@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The Plate is a family grudge worn as armour: it stops the blow and leaves the wearer slow to forgive anything they have not been told about. Worn long, they inherit quarrels wholesale.
+**Operational / binding cost:** The Plate is a family grudge worn as armour: the blow lands and the wearer answers it with a quarrel older than they are, and nothing said to them now gets past the inherited charge. Worn long, they inherit quarrels wholesale.
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Suit Record*
 

@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The Fang reopens what healed wrong: each strike makes the wielder's old injuries ache where they were deserved. Wielded long, the wielder cannot separate their wounds from the verdict that made them.
+**Operational / binding cost:** The Fang reopens what healed wrong: every blow it lands splits the wielder's own oldest scar along its first line, and the seam hurts in the place it was ruled on. Wielded long, the wielder cannot separate their wounds from the verdict that made them.
 
 ## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Weapon Record*
 

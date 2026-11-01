@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The Shroud keeps the small joys out first, the way a ward keeps the draft out: worn, nothing pleasant gets under it and the large ones follow at the rate the wearer needs them. Worn long, only the wounds still arrive.
+**Operational / binding cost:** The Shroud keeps the small joys out the way a ward keeps the draft out: nothing pleasant gets under it, and the ones it lets through arrive already thinned. Worn long, only the wounds still arrive.
 
 ## ITEM-SPECIFIC HISTORY — *The The Kind Healer s Shadow Source-Trace: Suit Record*
 

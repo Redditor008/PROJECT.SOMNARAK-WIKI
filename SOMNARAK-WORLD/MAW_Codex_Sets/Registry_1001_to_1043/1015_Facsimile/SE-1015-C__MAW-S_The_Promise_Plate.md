@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The Plate is a promise worn as armour: it stops the blow and makes the wearer slow to credit any evidence that the promise is failing. Worn long, they cannot revise what they swore.
+**Operational / binding cost:** The Plate is a promise worn as armour: what strikes it is answered with the terms of the vow rather than with flesh, and anything the wearer now sees against the promise arrives already discounted. Worn long, they cannot revise what they swore.
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Suit Record*
 

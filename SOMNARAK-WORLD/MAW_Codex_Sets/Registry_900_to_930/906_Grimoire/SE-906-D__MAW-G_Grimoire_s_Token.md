@@ -28,7 +28,7 @@ Grimoire's Token is the stigma record of the Grimoire set — head-slot, bestowe
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The Token is a page that fills itself: carried, it sharpens old injuries and old resentments together until the bearer cannot tell which one is throbbing. Carried long, they keep the book closed with both hands.
+**Operational / binding cost:** The Token is a page that fills itself: carried, every scar it has an entry for aches in time with the grievance written beside it, and the bearer cannot tell which of the two is throbbing. Carried long, they keep the book closed with both hands.
 
 ## ITEM-SPECIFIC HISTORY — *The Grimoire Source-Trace: Stigma Record*
 

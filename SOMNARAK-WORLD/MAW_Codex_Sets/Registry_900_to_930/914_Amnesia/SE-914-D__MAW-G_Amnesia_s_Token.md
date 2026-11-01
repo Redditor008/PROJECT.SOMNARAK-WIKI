@@ -28,7 +28,7 @@ Amnesia's Token is the stigma record of the Amnesia set — head-slot, bestowed 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The Token takes a familiar word or face for a few seconds at a time and gives it back without its associations. Carried long, the bearer recognises everyone and knows none of them.
+**Operational / binding cost:** The Token lifts a face out of its context: the shape of it comes back clean, and everything that was attached to it does not. Carried long, the bearer recognises everyone and knows none of them.
 
 ## ITEM-SPECIFIC HISTORY — *The Amnesia Source-Trace: Stigma Record*
 

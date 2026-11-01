@@ -29,7 +29,7 @@ Lacrima's Edge is the weapon record of the Lacrima set — α-grade, Void-aligne
 |---:|---:|---:|---|---:|
 | Void 8–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The Edge spills what a person has kept sealed: each strike costs the wielder a small, nameless memory and leaves the jar of them a little emptier. Wielded long, they cannot say what they have been carrying.
+**Operational / binding cost:** The Edge spills what a person has kept sealed: each strike lets one of the wielder's own sealed things out, and they watch it go without being able to name it. Wielded long, they cannot say what they have been carrying.
 
 ## ITEM-SPECIFIC HISTORY — *The Lacrima Source-Trace: Weapon Record*
 

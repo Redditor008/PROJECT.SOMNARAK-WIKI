@@ -28,7 +28,7 @@ Glass Elsewhere's Token is the stigma record of the Glass Elsewhere set — head
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The Token is a shard of somewhere else: carried, it takes a familiar word or face for a few seconds and gives it back slightly wrong. Carried long, the bearer's own name arrives late.
+**Operational / binding cost:** The Token is a shard of somewhere else: carried, it holds a word or a face a half-second out of true and hands it back at the wrong angle. Carried long, the bearer's own name arrives late.
 
 ## ITEM-SPECIFIC HISTORY — *The Glass Elsewhere Source-Trace: Stigma Record*
 
