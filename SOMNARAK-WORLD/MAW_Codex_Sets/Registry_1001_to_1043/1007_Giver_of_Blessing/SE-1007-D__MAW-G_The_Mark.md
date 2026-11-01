@@ -24,7 +24,7 @@
 **Slot / Chance:** Hand / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** Each healing brings the bearer one step closer to the chain. After 12 healings, the Stigma transforms. Continued use makes Giver of Blessing's source sorrow feel autobiographical.
+**Operational / binding cost:** Each healing brings the bearer one step closer to the chain, and after twelve healings the Stigma transforms. The count does not pause: a bearer who stops healing still carries the number they reached.
 
 ## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Stigma Record*
 

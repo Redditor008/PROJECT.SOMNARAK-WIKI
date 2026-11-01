@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Icedrop's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud takes the small ones first: worn, minor joys are already gone and the larger ones follow at the rate the wearer needs them. Worn long, only grief still arrives.
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Suit Record*
 

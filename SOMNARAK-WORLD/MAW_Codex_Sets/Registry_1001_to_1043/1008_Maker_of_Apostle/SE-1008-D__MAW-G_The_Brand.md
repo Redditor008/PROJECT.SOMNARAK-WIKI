@@ -24,7 +24,7 @@
 **Slot / Chance:** Hand / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The brand is a chain-fragment. Wearing it connects the wearer to the Kind Healer transformation chain. If the chain activates nearby, the brand resonates. Continued use makes Maker of Apostle's source sorrow feel autobiographical.
+**Operational / binding cost:** The brand is a chain-fragment; wearing it connects the wearer to the Kind Healer transformation chain, and it resonates when the chain activates nearby. It answers whether or not the bearer wants it answered, and after enough resonance the bearer stops noticing which of them moved first.
 
 ## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Stigma Record*
 

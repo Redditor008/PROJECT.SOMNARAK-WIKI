@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Mixed 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** Each command damages the wearer's Composure. The voice is not theirs — it is the chain's. Continued use makes Maker of Apostle's source sorrow feel autobiographical.
+**Operational / binding cost:** Each command damages the wearer's Composure; the voice is not theirs, it is the chain's. Used often, the chain's sentences begin arriving in their mouth unprompted.
 
 ## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Weapon Record*
 

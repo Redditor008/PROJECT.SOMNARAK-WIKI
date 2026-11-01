@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes The Wrath Flame's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate absorbs the blow and banks the anger: worn, the wearer's reactions slow by exactly what they are not saying. Worn long, they are placid and cannot move quickly.
 
 ## ITEM-SPECIFIC HISTORY — *The The Wrath Flame Source-Trace: Suit Record*
 

@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes The Forgotten Soldier's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate carries an obligation nobody assigned the wearer and will not put it down. Worn long, they defend a post nobody remembers occupying.
 
 ## ITEM-SPECIFIC HISTORY — *The The Forgotten Soldier Source-Trace: Suit Record*
 

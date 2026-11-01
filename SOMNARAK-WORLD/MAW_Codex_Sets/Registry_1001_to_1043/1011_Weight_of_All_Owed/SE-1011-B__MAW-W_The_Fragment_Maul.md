@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Weight of All Owed's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul is assembled from what a thing used to be: each swing adds a piece of the wielder's own past to its head. Wielded long, the wielder swings and cannot lift what they remember.
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Weapon Record*
 

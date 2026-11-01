@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Night Peddler's source sorrow feel autobiographical.
+**Operational / binding cost:** The Lens prices what it looks at: each use spends a small, nameless memory as the coin. Wielded long, the wielder's past is a shop with most of the stock sold.
 
 ## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Weapon Record*
 

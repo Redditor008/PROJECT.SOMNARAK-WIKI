@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** None meaningful. The baton is inert enough for extended carry without toll. Continued use makes The Kind Echo's source sorrow feel autobiographical.
+**Operational / binding cost:** None meaningful. The baton is inert enough for extended carry without toll, and that is the whole cost: a trainee who learns on it must unlearn the grip before holding anything that matters.
 
 ## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Weapon Record*
 

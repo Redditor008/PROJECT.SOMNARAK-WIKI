@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer sees the hidden pain of everyone they observe. Continued use makes Honest Reflection's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer sees the hidden pain of everyone they observe, and it accumulates: the bearer carries every hidden pain they have looked at, and none of it can be put down.
 
 ## ITEM-SPECIFIC HISTORY — *The Honest Reflection Source-Trace: Stigma Record*
 

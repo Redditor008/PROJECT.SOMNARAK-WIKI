@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Undersong's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil keeps the wearer a step behind themselves: worn, they answer to their own name a beat late. Worn long, the echo is what people know.
 
 ## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Suit Record*
 

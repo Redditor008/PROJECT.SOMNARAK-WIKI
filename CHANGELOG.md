@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Forty costs in the 1001–1043 set (first slice)
+
+The 1001–1043 registry needed no Appearance work — the tail only ever reached the statistics field — so this slice is forty single-line rewrites, all of them item-specific.
+
+Half of these records already had a first clause with a hand on it, and where that was true the clause is kept and only the tail replaced. The Warm Stone has no cost and the cost is that a specialist who has carried one for a decade trusts the warmth and stops reading the gauge. The Merchant's Purse takes a coin, button or minor memory and chooses for itself, and the things it likes best are the ones the bearer would have kept. The Mark's count does not pause: a bearer who stops healing still carries the number they reached.
+
+The rest had stock first clauses and took a full rewrite: the Frozen Maul spends time out of the end rather than the middle, the Echo Veil leaves the wearer answering to their own name a beat late, the Iron Verdict stacks and the last judgement is always the wielder's.
+
+**Left:** 83 records in `1001_to_1043` and 75 in `900_to_930`, which last range also needs its Appearance paragraphs.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The 941–976 set closes
 
 Thirty-six item records in `Registry_941_to_976`, twelve sets, from the apothecary who spent herself drawing the Weeping-wasting out of somebody else to the district that was bound by debt until the obligations became a living chain. The range is clean.

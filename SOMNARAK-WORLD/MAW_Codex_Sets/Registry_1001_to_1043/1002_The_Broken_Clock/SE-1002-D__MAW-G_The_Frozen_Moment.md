@@ -30,7 +30,7 @@ The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exa
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer ages faster; every use consumes minutes of life. Continued use makes The Broken Clock's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer ages faster; every use consumes minutes of life. The wheel does not return them and has no idea whose they were.
 
 ## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Stigma Record*
 

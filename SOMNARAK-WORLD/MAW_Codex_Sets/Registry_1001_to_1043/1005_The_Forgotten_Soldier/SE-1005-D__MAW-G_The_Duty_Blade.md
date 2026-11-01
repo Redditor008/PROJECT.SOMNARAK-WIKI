@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wielder experiences the Soldier's frustration—the anger of being forgotten. Continued use makes The Forgotten Soldier's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder experiences the Soldier's frustration — the anger of being forgotten. It outlasts the reason for it, and the wielder begins to feel forgotten in rooms where they are known.
 
 ## ITEM-SPECIFIC HISTORY — *The The Forgotten Soldier Source-Trace: Stigma Record*
 

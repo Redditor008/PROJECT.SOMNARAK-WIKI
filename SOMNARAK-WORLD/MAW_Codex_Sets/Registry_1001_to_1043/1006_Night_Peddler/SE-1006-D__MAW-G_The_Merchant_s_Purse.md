@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** Takes a coin, button, or minor memory as payment. Continued use makes Night Peddler's source sorrow feel autobiographical.
+**Operational / binding cost:** Takes a coin, button, or minor memory as payment, and it chooses. The things it likes best are the ones the bearer would have kept.
 
 ## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Stigma Record*
 

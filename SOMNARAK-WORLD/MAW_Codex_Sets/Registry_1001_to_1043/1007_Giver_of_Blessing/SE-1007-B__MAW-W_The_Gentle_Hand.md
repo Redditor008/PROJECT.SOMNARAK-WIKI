@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 1 (Slow) | 1 (Close) | Single / 100% damage to the selected target only. | 5 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels a pull toward the Kind Healer chain. Extended use may result in an unsolicited blessing. Continued use makes Giver of Blessing's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder feels a pull toward the Kind Healer chain, and an unsolicited blessing may arrive before they ask for it. After enough healing, the wielder's hands reach for whoever is closest.
 
 ## ITEM-SPECIFIC HISTORY — *The Giver of Blessing Source-Trace: Weapon Record*
 

@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wielder experiences the Occlusihan's fury as if it were their own. Continued use makes The Scar Walker's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder experiences the Occlusihan's fury as if it were their own. The fury stays after the fight and settles on whoever is nearest.
 
 ## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Stigma Record*
 

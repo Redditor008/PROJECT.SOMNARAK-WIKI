@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** None meaningful at this grade. Continued use makes The Kind Echo's source sorrow feel autobiographical.
+**Operational / binding cost:** None meaningful at this grade. It protects nothing worth protecting outside the hall, and a worker who keeps it on stops noticing when the pressure is real.
 
 ## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Suit Record*
 

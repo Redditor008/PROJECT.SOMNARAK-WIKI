@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer hears unanswered calls whenever the stone is silent. Continued use makes Undersong's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer hears unanswered calls whenever the stone is silent, and the silence gets louder: after enough wear the calls arrive over conversation, and the bearer answers.
 
 ## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Stigma Record*
 

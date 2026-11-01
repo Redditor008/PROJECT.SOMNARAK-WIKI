@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Icedrop's source sorrow feel autobiographical.
+**Operational / binding cost:** The Requiem strikes with grief nobody has wept yet: each blow moves the wielder's own tears into the target's account. Wielded long, the wielder is dry-eyed and everyone they have fought is weeping.
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Weapon Record*
 

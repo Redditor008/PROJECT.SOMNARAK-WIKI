@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer's temper shortens. Continued use makes Gavel's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer's temper shortens to the edge of the verdict, and after a season everything reads as evidence.
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Stigma Record*
 

@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Night Peddler's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil keeps the seller out of the sale: worn, the wearer becomes faintly absent to themselves while the transaction completes. Worn long, they cannot remember being present for their own life.
 
 ## ITEM-SPECIFIC HISTORY — *The Night Peddler Source-Trace: Suit Record*
 

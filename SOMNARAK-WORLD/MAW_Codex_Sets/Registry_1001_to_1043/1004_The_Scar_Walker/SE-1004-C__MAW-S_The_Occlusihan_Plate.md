@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes The Scar Walker's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate hardens a judgement into armour: while worn, the wearer cannot revise a first verdict, and the body moves with the certainty of somebody who has already decided. Worn long, they cannot be talked out of anything.
 
 ## ITEM-SPECIFIC HISTORY — *The The Scar Walker Source-Trace: Suit Record*
 

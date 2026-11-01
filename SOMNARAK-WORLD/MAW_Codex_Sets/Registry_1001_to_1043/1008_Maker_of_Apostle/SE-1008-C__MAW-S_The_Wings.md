@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.6 (Warded) | 0.6 (Warded) | 0.6 (Warded) | 0.6 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** Wearing the wings for extended periods causes the wearer to feel "called" — a pull toward purpose they cannot identify. Continued use makes Maker of Apostle's source sorrow feel autobiographical.
+**Operational / binding cost:** Wearing the wings for extended periods leaves the wearer feeling "called" — a pull toward a purpose they cannot identify. It sharpens with wear until they cannot tell an order from an invitation, and go.
 
 ## ITEM-SPECIFIC HISTORY — *The Maker of Apostle Source-Trace: Suit Record*
 

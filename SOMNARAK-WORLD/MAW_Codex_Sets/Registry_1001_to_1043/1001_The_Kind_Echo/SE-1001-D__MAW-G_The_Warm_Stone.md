@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career. Continued use makes The Kind Echo's source sorrow feel autobiographical.
+**Operational / binding cost:** None. The entity gives freely, which is the cost: a specialist who has carried one for a decade trusts the warmth and stops reading the gauge.
 
 ## ITEM-SPECIFIC HISTORY — *The The Kind Echo Source-Trace: Stigma Record*
 

@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** Anger becomes visible and difficult to suppress. Continued use makes The Wrath Flame's source sorrow feel autobiographical.
+**Operational / binding cost:** Anger becomes visible and difficult to suppress, and visible is the price: everyone nearby reacts to a feeling the bearer can no longer withdraw while the ember is warm.
 
 ## ITEM-SPECIFIC HISTORY — *The The Wrath Flame Source-Trace: Stigma Record*
 

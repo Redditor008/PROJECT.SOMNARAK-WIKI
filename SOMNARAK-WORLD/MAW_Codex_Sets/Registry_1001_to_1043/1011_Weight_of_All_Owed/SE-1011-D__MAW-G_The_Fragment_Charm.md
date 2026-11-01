@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer moves a little slower. Continued use makes Weight of All Owed's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm lends the bearer a fragment's patience: they move at the speed of a thing being remembered, and it takes longer every season.
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Stigma Record*
 

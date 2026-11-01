@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Grudge 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Facsimile's source sorrow feel autobiographical.
+**Operational / binding cost:** The Fang keeps a promise made before the wielder arrived: each blow makes an old injury ache as if it were owed. Wielded long, the wielder pays debts they never agreed to.
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Weapon Record*
 

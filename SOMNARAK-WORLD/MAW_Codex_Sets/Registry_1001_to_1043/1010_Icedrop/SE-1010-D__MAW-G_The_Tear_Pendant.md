@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer becomes more easily moved to tears. Continued use makes Icedrop's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer becomes more easily moved to tears, and easily becomes easily: after enough wear the bearer weeps at things that have not happened and cannot say why.
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Stigma Record*
 

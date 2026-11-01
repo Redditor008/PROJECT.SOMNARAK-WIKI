@@ -31,7 +31,7 @@ The head mounts a 38cm anchor escapement wheel with four broken teeth that expos
 |---:|---:|---:|---|---:|
 | Weight 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes The Broken Clock's source sorrow feel autobiographical.
+**Operational / binding cost:** The cudgel swings with hours the wielder has not been given: each blow spends time out of the end rather than the middle. Wielded long, the wielder's hands are older than the rest of them.
 
 ## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Weapon Record*
 
