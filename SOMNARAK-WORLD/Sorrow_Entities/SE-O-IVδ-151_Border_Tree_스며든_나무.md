@@ -7,12 +7,12 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-151 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Subject** — Non-breaching: expansion only; it advances on its roots and does not stop, it has never pursued anybody, and the roots it sends up are ones already under the floor on both sides of the line |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
-| **Manifestation** | Place-Grudge |
+| **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A colossal creeping tree-monster whose trunk is a slow multi-limbed body, a vast plant-creature with roots like legs and branches like grasping claws. Fever-cold, it smells of char; it grips as it grows. |
 | **Movement** | Creeping — it advances on its roots at a pace confirmed by survey rather than by sight, and it does not stop. |
 | **Location** | Zone E, Border region |
@@ -104,7 +104,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Grudge
+- **Manifestation:** Subject-Grudge
 - **Primary marker:** Bark that reproduces the courses of old walls and barricades, present on this holding and on nothing else in Zone E.
 - **Position / movement:** Creeping. It advances on its roots too slowly to watch and too quickly to ignore; movement is confirmed only by resurveying the same marker across cycles.
 - **Element signature:** Grudge
@@ -158,9 +158,9 @@ Read the gauge only beside the ground: this holding's response depends on elemen
 
 ### Escalation Notes
 
-The escalation pattern is specific to Border Tree: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone E, Border region, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Border Tree: it is not a generic containment event. Personnel must record the first trigger, the first visible change in the Subject-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone E, Border region, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
 
-**Response sequence:** resurvey from the fixed markers, establish whether this is expansion or breach, withdraw anybody not needed — and then open a crossing rather than closing one, which is the reverse of the standard card and is correct here. Do not improvise with an unlisted Work Type; there is no one inside this holding for Flerehan or Pugnahan to reach.
+**Response sequence:** resurvey from the fixed markers, establish where the footprint now runs against the fixed markers, withdraw anybody not needed — and then open a crossing rather than closing one, which is the reverse of the standard card and is correct here. Do not improvise with an unlisted Work Type; there is no one inside this holding for Flerehan or Pugnahan to reach.
 
 
 ### Detailed Activation Record
@@ -168,20 +168,20 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New border conflict or forced displacement. |
-| **Manifestation** | Place-Grudge |
+| **Manifestation** | Subject-Grudge |
 | **Primary effect** | Crossings close by degrees and personnel lose the sense of which side they are on, at a range well beyond the marked perimeter. |
 | **Duration / rate** | Continuous, through foundations and boundary markers, measured in metres of frontage per year. |
 | **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Crossings held open and used in sight of the trunk; severed addresses read aloud on the day the visit list is published. |
 
 **Activation reporting order:** precipitating dispute → first structure entered → the crossing that became impassable → divided-belonging effects reported by personnel → metres gained → the boundary that was negotiated to stop it. The Tree does not respond to Flerehan or Pugnahan; there is nobody left in it to weep with or to confront.
-## Breach Behavior
+## Containment Event Behavior
 
 > *"Border Tree is through the floor on the east side. Nobody seal anything. Open the crossing and walk it both ways; rescue cuts only for a bound person."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
+| **Event Type** | Expansion — the footprint moves outward along the lines the region already runs and every sealed crossing is another line it can grow along; nothing has to burst out, because the roots are already under the floor on both sides |
 | **Movement** | It does not hunt and has never pursued anybody. Roots come up through the floor where the old line ran and bind whoever is standing on it. |
 | **Effect** | Grudge pressure outward from the trunk, scorching resilience, strongest along the line rather than nearest the body. |
 | **Secondary Effect** | Barriers fail preferentially: anything built as a barrier is the first structure the growth takes, which is why the response card prohibits building any. |
@@ -190,9 +190,9 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 
 ### Escalation Notes
 
-- **Breach type:** Escape in classification only. Nothing bursts out: the roots are already under the floor on both sides of whatever line is currently drawn, and what the breach does is close crossings.
+- **Event type (non-breach):** Nothing bursts out: the roots are already under the floor on both sides of whatever line is currently drawn, and what the event does is close crossings. It is filed here as an expansion and it is read on the footprint.
 - **Containment priority:** Do not barricade. Walls are the Tree's own material — its bark already reproduces the pattern of old barricades — and every corridor sealed against it is another line it can grow along. Keep crossings open and staffed.
-- **Sorrow Gauge on breach:** Indexed to crossings, not to time. Rises 8% for every doorway, corridor or gate sealed against the advance, and falls 5% for every crossing deliberately held open and used by personnel in full view of the trunk. A party that does nothing holds it level; a party that fortifies loses.
+- **Sorrow Gauge in the event:** Indexed to crossings, not to time. Rises 8% for every doorway, corridor or gate sealed against the advance, and falls 5% for every crossing deliberately held open and used by personnel in full view of the trunk. A party that does nothing holds it level; a party that fortifies loses.
 
 ## M.A.W. Equipment
 
@@ -389,7 +389,7 @@ Some sorrows mourn a home. Border Tree mourns the lines — the borders that mov
 **Common Name:** Border Tree
 **Containment Status:** Contained — Zone E, Border region
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). It has killed nobody and entangles only during a breach; the grade is for ground. It takes frontage every year, keeps everything it takes, and the perimeter on the map is a survey reference rather than a containment line.
+**Threat Assessment:** Critical (δ). It has killed nobody and entangles only during an event; the grade is for ground. It takes frontage every year, keeps everything it takes, and the perimeter on the map is a survey reference rather than a containment line.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only, which is not a procedural nicety: there is nobody left inside this holding to weep with or to confront.
 - Do not barricade. Keep crossings open, staffed and visibly used; the gauge rises for every doorway sealed and falls for every crossing held open in sight of the trunk.
@@ -431,7 +431,7 @@ The crimson matter the Tree produces is collected where it falls outside the cor
 
 ### Entanglement
 
-In a breach it sends roots through the floor and binds personnel. Cutting at the root is retained only to release a bound person; it is never Work, containment or a way to recover ground. Any rescue cut is entered as a new line drawn across the Tree, with its own expansion forecast, and cutting equipment staged at the cordon and stations is inspected weekly and counted aloud at handover because an item counted silently has twice been counted wrong.
+When the footprint crosses an old line it sends roots through the floor and binds whoever is standing on it. Cutting at the root is retained only to release a bound person; it is never Work, containment or a way to recover ground. Any rescue cut is entered as a new line drawn across the Tree, with its own expansion forecast, and cutting equipment staged at the cordon and stations is inspected weekly and counted aloud at handover because an item counted silently has twice been counted wrong.
 
 ### Re-siting
 

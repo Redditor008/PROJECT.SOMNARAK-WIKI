@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Border Tree, and the checks that grew out of reading it (2026-11-01)
+
+Reading the Border Tree section by section produced the pass's clearest single case. Its classification said `Object/Place`, its identification profile said `Subject`, its physical form described *a colossal creeping tree — a multi-limbed body with roots like legs*, and its `Breach Type` said **Escape** while its own escalation note read *escape in classification only. Nothing bursts out: the roots are already under the floor on both sides of whatever line is currently drawn, and what the breach does is close crossings*. Three sections, three different answers.
+
+It is a Subject, because it advances on its roots and does not stop; it is `Subject-Grudge`, matching its own Grudge element and its Grudge pressure line; and it is a **non-breaching expansion**, because nothing bursts out and the footprint is what moves. The event row now says so, the section is `## Containment Event Behavior`, and the response sequence no longer asks a watch to *establish whether this is expansion or breach* — it asks where the footprint now runs against the fixed markers, which is the only thing the file has ever asked.
+
+**The audit gained six more checks** from the same reading: a Work Type that *decreases* the gauge while the `Valid Work Types` row excludes it; a reason line that cites a Movement word its own row does not carry; a `### Watch Sequence` that does not have three movements; the same long sentence twice inside one file; an identification profile that states a different Entity Type from the classification above it; and an M.A.W. piece on an element the archive does not have — which caught one genuine oddity and cleared it, the Stormscale Sovereign's fourfold fang, whose `Mixed` element is explained in its own damage line as *cycles all four*.
+
+**Checks:** `section_logic` 0 findings · `wikistd` 301/301 · `label_lint` 301 · `check_stat_bands` PASS · `check_links` 0 broken · `breach` RE 92.8 % / SE 43.0 % / OP 87.2 %, non-breaching **188 / 301**.
+
 ## Every section read against every other section (2026-11-01)
 
 The keyword sweeps read the section that carries the claim. This pass read each dossier whole and asked whether its sections agree — and the answer, before any edit, was **eighteen dossiers whose own pages contradicted each other**. A new audit, `tools/section_logic.py`, now runs in the gate and checks thirteen things a single-section linter cannot see: the classification against the event heading, the two stat tables against each other, the resolution row against the sentence the watch is told to close on, the record section against the rows only it may carry, the detailed activation record against the classification, and the M.A.W. block against the trio it is supposed to be.

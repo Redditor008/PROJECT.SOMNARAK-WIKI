@@ -245,6 +245,63 @@ def audit(path):
         if '### Possession Events' not in h3s(t):
             add('possession', 'possession record carries no ### Possession Events')
 
+    # ---- 11e. a Work Type that moves the gauge but is not valid ------------
+    vt = row(t, 'Valid Work Types') or ''
+    if vt and 'only' in vt.lower():
+        allowed = set(re.findall(r'(Flerehan|Pugnahan|Viderehan|Ferrehan)', vt))
+        for h, lvl, parent, body in split(t):
+            if h != '## Behavior':
+                continue
+            for line in body.split('\n'):
+                m = re.match(r'\| \*\*(Flerehan|Pugnahan|Viderehan|Ferrehan)\*\*[^|]*\|[^|]*\|[^|]*?Decrease', line)
+                if m and m.group(1) not in allowed:
+                    add('work-types', '%s moves the gauge here but the Valid Work Types row excludes it'
+                        % m.group(1))
+
+    # ---- 11f. a reason line citing a Movement word the row does not carry ---
+    why = re.search(r'> \*\*Why this file has no combat actions\.\*\*(.+)', t)
+    mov = rows(t, 'Movement')
+    if why and mov:
+        joined = ' '.join(mov).lower()
+        for word in ('stationary', 'fixed', 'mobile', 'recumbent', 'rooted', 'seated', 'motionless'):
+            if re.search(r'movement row says[^.]{0,40}\b' + word, why.group(1), re.I) and word not in joined:
+                add('contact', 'the reason line cites %r, which the Movement row does not say' % word)
+
+    # ---- 11g. a watch sequence with the wrong number of movements -----------
+    for h, lvl, parent, body in split(t):
+        if h == '### Watch Sequence':
+            n = len(re.findall(r'^\d+\. ', body, re.M))
+            if n and n != 3:
+                add('watch', 'Watch Sequence has %d steps, not three' % n)
+
+    # ---- 11h. the same sentence twice inside one file -----------------------
+    seen_s = {}
+    for line in t.split('\n'):
+        s2 = line.strip()
+        if len(s2) < 90 or s2.startswith(('|', '>', '#', '-')):
+            continue
+        if s2 in seen_s:
+            add('repeat', 'the same sentence appears twice: %r' % s2[:80])
+            break
+        seen_s[s2] = 1
+
+    # ---- 11i. the identification profile restating a different type --------
+    typ = re.match(r'\*\*([^*]+)\*\*', etype)
+    for m in re.finditer(r'^- \*\*Entity Type:\*\*\s*(.+)$', t, re.M):
+        prof = m.group(1).strip()
+        cls = re.sub(r'\s*\(.*?\)', '', typ.group(1) if typ else '').strip()
+        if cls and prof.split('/')[0].strip() not in cls and cls.split('/')[0].strip() not in prof:
+            add('profile', 'identification profile says Entity Type %r, classification says %r'
+                % (prof, cls))
+
+    # ---- 11j. an M.A.W. piece on an element the archive does not have -------
+    for m in re.finditer(r'\*\*Type:\*\* (Weapon|Suit|Armor|Stigma) \| \*\*Grade:\*\* [^|]+ \| '
+                         r'\*\*Element:\*\* ([A-Za-z]+)', t):
+        if m.group(2) == 'Mixed' and re.search(r'cycles all four|all four elements', t):
+            continue
+        if m.group(2) not in ELEMS + ('Dream', 'Fracture', 'Tale'):
+            add('maw', '%s piece declares an unknown element %r' % (m.group(1), m.group(2)))
+
     # ---- 12. M.A.W. pieces ---------------------------------------------------
     maw = re.findall(r'^### M\.A\.W\. (Weapon|Suit|Stigma)', t, re.M)
     if maw and len(set(maw)) < 3 and 'M.A.W.' in t:
