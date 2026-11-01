@@ -53,7 +53,7 @@
 
 ### Appearance
 
-The Dancing Mask is a small charm of pale Han glass shaped like a smoothed half-face, with two closed eye points and a faint curve that suggests a smile no wider than a stitch. It hangs from a short thread loop and rests against the hip or chest. When a movement task is begun with a partner in hearing range, the mask sets a stable rhythm through uneven ground, crowd pressure, or a short evasive sequence, improving balance and agility. The glass is cold and light, and the shadowed points stay shut until the bearer denies fatigue, at which point they open into blank dark points and the rhythm speeds up. It is hung beside a written rest schedule after use, and the partner unfastens it only after the bearer's feet are still. The mask is hung beside a written rest schedule, and it is sealed only after the bearer's feet are flat and the partner has read the cue.
+Half a face in pale Han glass, smoothed down to two closed eye points and a curve that suggests a smile no wider than a stitch: the Dancing Mask. It hangs from a short thread loop and rests against the hip or chest. When a movement task is begun with a partner in hearing range, the mask sets a stable rhythm through uneven ground, crowd pressure, or a short evasive sequence, improving balance and agility. The glass is cold and light, and the shadowed points stay shut until the bearer denies fatigue, at which point they open into blank dark points and the rhythm speeds up. It is hung beside a written rest schedule after use, and the partner unfastens it only after the bearer's feet are still. The mask is hung beside a written rest schedule, and it is sealed only after the bearer's feet are flat and the partner has read the cue.
 
 ### Passive effect— *Sure Foot*
 

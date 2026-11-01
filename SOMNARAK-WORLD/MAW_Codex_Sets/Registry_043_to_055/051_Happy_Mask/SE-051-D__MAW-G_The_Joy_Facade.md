@@ -23,7 +23,7 @@
 
 ### Appearance
 
-The Joy Facade is a small mask charm of pale Han glass with no face except the suggestion of a smile, its surface polished on the outside and left rough on the inside. It hangs from a short cord and sits against the chest, where a hand can cover it. When the bearer wears it through a conversation or encounter, observers read the bearer as cheerful and emotionally stable, even when the bearer feels nothing of the kind. The charm is light and cold, and the polished smile never moves. Close companions can still sense the inconsistency, and the wearer cannot express genuine sadness while the Facade is active. After it is removed, the suppressed emotion returns with additional force, often at the moment the work is finished. The cord is knotted at the collar, where the polished smile faces outward and the rough side rests against the skin.
+Polished on the outside and left rough where it touches the skin, the Joy Facade is pale Han glass with no face on it except the suggestion of a smile. It hangs from a short cord and sits against the chest, where a hand can cover it. When the bearer wears it through a conversation or encounter, observers read the bearer as cheerful and emotionally stable, even when the bearer feels nothing of the kind. The charm is light and cold, and the polished smile never moves. Close companions can still sense the inconsistency, and the wearer cannot express genuine sadness while the Facade is active. After it is removed, the suppressed emotion returns with additional force, often at the moment the work is finished. The cord is knotted at the collar, where the polished smile faces outward and the rough side rests against the skin.
 
 ### Ability— Convincing Smile
 

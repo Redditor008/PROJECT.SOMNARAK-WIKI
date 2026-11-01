@@ -22,7 +22,7 @@
 
 ### Appearance
 
-The Fury Fang is a short, broad crimson blade of Han iron shaped like a hooked tooth, its inner edge sharp and its back thick enough to rest a thumb against. A line of darker red runs along the curve and glows only when the bearer names a specific harm, victim, and responsible action before a strike. The grip is black and wrapped with a deep finger notch, and the pommel is a small open ring that heats as the weapon takes on named anger. If the bearer strikes without a real account, the grip grows hot and the returned Grudge burns the hand instead of the target. At rest the Fang is cold and dull, the red line invisible; once a harm is named, the whole blade seems to tense toward the point. The ring pommel is threaded with a worn red cord, and the blade stays cold until the bearer names the harm that created the anger.
+Short and broad, a hooked tooth of crimson Han iron with its inner edge sharp and a back thick enough to rest a thumb against: the Fury Fang. A line of darker red runs along the curve and glows only when the bearer names a specific harm, victim, and responsible action before a strike. The grip is black and wrapped with a deep finger notch, and the pommel is a small open ring that heats as the weapon takes on named anger. If the bearer strikes without a real account, the grip grows hot and the returned Grudge burns the hand instead of the target. At rest the Fang is cold and dull, the red line invisible; once a harm is named, the whole blade seems to tense toward the point. The ring pommel is threaded with a worn red cord, and the blade stays cold until the bearer names the harm that created the anger.
 
 ### Ability— Named Anger
 

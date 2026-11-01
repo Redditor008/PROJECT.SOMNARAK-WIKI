@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The charm formula, and three other sentence families (batch 75)
+
+The residue the last entry called "house vocabulary" was not vocabulary. Reading the top of it, the archive's Stigma records were opening on one formula: **"[Name] is a small [colour] [material] charm shaped like a …"** in **31 records** — *a small pale-glass charm shaped like a face*, *a small charm of pale Han glass shaped like a folded sheet*, *a small charm of dark Han metal shaped like a barred window*. Every fact in those openings is correct and stays; the construction is what eight hundred years of Armoury paperwork would not do twice.
+
+Each of the 31 now opens on its own terms — the material first, the making first, the way it sits, the face that is polished and the face that is not, or a plain naming after a colon — and each keeps its colour, shape, size, attachment and every following sentence untouched. *"Black Han steel, cast as a shell no wider than the palm…"*, *"a face with nothing on it but two shallow hollows where eyes would go…"*, *"One petal of blue Han crystal, veined down the centre…"*.
+
+**Three more families went with it.** Four veils all hung *"from the crown to the chest/collarbone"* in the same construction (`033-C`, `063-C`, `081-C`, `103-C`); five Suits shared *"the inner lining is smooth and cool"* (`031-C`, `042-C`, `071-C`, `073-C`, `100-C`), one survivor kept so the phrase still exists in the wing where it earns its place. Then the last four pairs at four shared windows: two veils both *"almost invisible in a still room"* and gathering *"a faint grey texture under Void pressure"*, two charms both *"kept on its cord until the glass does not cool"*, two blades both running a seam *"from the collar to the point"*, two veils both saying *"does not make the wearer"*.
+
+**Appearance couples: 99 → 70, and no pair now shares more than three six-word windows.** Three is material language — *"a crimson harness of Han iron"*, *"the grip is long and wrapped in"*, *"the glass is almost transparent"* — which is how the wing describes its own materials and is not a sentence anyone copied.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Two Suits that described weapons (batch 74)
 
 A sweep of all 290 dossiers for cross-class bodies — a Suit or Stigma whose Appearance describes an edged weapon, a Weapon whose Appearance describes a garment — returned seven hits, and **two of them were real**.

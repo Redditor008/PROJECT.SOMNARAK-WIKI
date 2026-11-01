@@ -23,7 +23,7 @@
 
 ### Appearance
 
-The Tear Veil is a small clasp charm of pale blue glass shaped like a single falling drop, cut on one flat face so that a thin thread of light runs through it. It fastens to a collar or shoulder seam and rests warm against the cloth. When the bearer absorbs ambient Lament from a nearby person, the drop fills with a visible silver liquid and the bearer's eyes begin to water without any direct emotion of their own. The liquid does not dry; it stays until the grief is spoken, written, or shared with someone else. The charm is small and light, but after a full absorption it hangs heavily and the glass becomes cooler than the room. It cannot take a person's grief unless that person is present and open enough to let it. The clasp is worn on the collar of the off shoulder, and the drop stays silver-clear until the grief it carried has been spoken aloud.
+Cut flat on one face so that a thin thread of light runs through it, the Tear Veil is a single falling drop of pale blue glass with a clasp at the top. It fastens to a collar or shoulder seam and rests warm against the cloth. When the bearer absorbs ambient Lament from a nearby person, the drop fills with a visible silver liquid and the bearer's eyes begin to water without any direct emotion of their own. The liquid does not dry; it stays until the grief is spoken, written, or shared with someone else. The charm is small and light, but after a full absorption it hangs heavily and the glass becomes cooler than the room. It cannot take a person's grief unless that person is present and open enough to let it. The clasp is worn on the collar of the off shoulder, and the drop stays silver-clear until the grief it carried has been spoken aloud.
 
 ### Ability— Visible Grief
 
