@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Suture-Cracked Hauberk
+# M.A.W. SUIT — The Suture-Cracked Hauberk
 
 > *"The footing always reads as about to give, so the body braces. Its wearers cannot stand still in an open room."*
 

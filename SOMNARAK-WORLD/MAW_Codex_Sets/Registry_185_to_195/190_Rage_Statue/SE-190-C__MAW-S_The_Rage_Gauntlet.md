@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Sculptor's Flame-Hardened Apron & Cuirass
+# M.A.W. SUIT — The Sculptor's Flame-Hardened Apron & Cuirass
 
 > *“It makes resentment hit harder. It makes justice and retaliation harder to tell apart.”*
 

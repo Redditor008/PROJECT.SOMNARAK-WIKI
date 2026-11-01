@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Mourner's Pleated Peplos
+# M.A.W. SUIT — The Mourner's Pleated Peplos
 
 > *“It keeps a bearer from turning grief into stone inside the body.”*
 

@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Performer's Silk Robe & Ghostly Stole
+# M.A.W. SUIT — The Performer's Silk Robe & Ghostly Stole
 
 > *“The silks move best when the wearer knows they are allowed to stop moving.”*
 

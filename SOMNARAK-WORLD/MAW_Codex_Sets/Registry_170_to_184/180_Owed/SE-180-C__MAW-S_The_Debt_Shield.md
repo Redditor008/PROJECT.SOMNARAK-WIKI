@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Mason's Mortar-Crusted Hauberk
+# M.A.W. SUIT — The Mason's Mortar-Crusted Hauberk
 
 > *“It stores the impact. If no review follows, the stored weight becomes another wall.”*
 

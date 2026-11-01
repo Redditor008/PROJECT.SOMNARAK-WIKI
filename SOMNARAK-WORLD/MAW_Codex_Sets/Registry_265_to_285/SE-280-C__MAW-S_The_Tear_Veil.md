@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Pallbearer's Layered Shroud
+# M.A.W. SUIT — The Pallbearer's Layered Shroud
 
 > *“It absorbs the attack by making concealment impossible.”*
 

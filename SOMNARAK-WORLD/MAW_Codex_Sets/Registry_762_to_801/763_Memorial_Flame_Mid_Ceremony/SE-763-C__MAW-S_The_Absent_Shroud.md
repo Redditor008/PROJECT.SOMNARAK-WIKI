@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Extinguished Mourner's Shroud
+# M.A.W. SUIT — The Extinguished Mourner's Shroud
 
 > *"Feelings begin in the wearer and complete nowhere. A season of it fills a drawer with letters nobody was meant to send."*
 

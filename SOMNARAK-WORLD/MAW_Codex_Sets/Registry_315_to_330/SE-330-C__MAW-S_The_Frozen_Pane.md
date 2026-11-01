@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Shuttered Window-Plate
+# M.A.W. SUIT — The Shuttered Window-Plate
 
 > *“It absorbs the blow and shows every departure reflected in it.”*
 

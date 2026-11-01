@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Hollow Bark-Carapace
+# M.A.W. SUIT — The Hollow Bark-Carapace
 
 > *“It does not make the burden lighter. It leaves somewhere inside you for the burden not to become your whole shape.”*
 

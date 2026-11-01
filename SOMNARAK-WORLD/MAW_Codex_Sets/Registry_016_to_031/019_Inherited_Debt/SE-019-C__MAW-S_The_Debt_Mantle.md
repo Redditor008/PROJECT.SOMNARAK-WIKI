@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Penitent's Shackled Vestments
+# M.A.W. SUIT — The Penitent's Shackled Vestments
 
 > *“It lets the bearer carry a burden without mistaking the burden for a self.”*
 

@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Resonance-Dampening Shroud
+# M.A.W. SUIT — The Resonance-Dampening Shroud
 
 > *“It protects the listener from the void around the warning, not from responsibility for what was heard.”*
 

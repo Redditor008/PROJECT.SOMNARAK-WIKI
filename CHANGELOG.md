@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The record checked itself (batch 73)
+
+The last entry closed by reporting a filename-to-title mismatch in **232 of 852** codex records. That figure does not survive a re-run. Compared exactly — the title's name part against the filename's name part, punctuation and case normalised — **123 records** disagree, not 232. The larger number came from a looser test that counted a name as a mismatch whenever it did not appear *literally* inside the title line, which flags *The Debt Lens* against *The Debt Prism* even though the two share the name the file is really carrying. The correct breakdown: **seven** differ only by a descriptor (*The Judgment Scale* → *The Suspended Balance Scale*, *The Tear Earring* → *The Obsidian Tear Drop Earring*), and **116** name a different object altogether (*The Laments Requiem* → *The First Dawn Stiletto*). The smaller figure does not make the rename question easier — it is still the archive's addressing scheme — but the record should not overstate its own findings.
+
+**Seventeen Suit records were labelled in a vocabulary of their own.** Their titles read `M.A.W. PROTECTIVE ATTIRE — …` where the other 267 Suit records read `M.A.W. SUIT — …`. *Protective Attire* is a legitimate term inside a dossier's `**Category:**` line, where the review that calibrated `typemix` found both forms in use; it is not one of the triad names, and a title is where the triad is stated — LAW 6 gives Weapon, Suit, Stigma. All seventeen now read `M.A.W. SUIT`, and the wing's titles are **284 WEAPON / 284 SUIT / 284 STIGMA** — exact, which is what a 284-set archive should look like.
+
+**A duplicated clause run in the Soaking Rope.** `N-Iα-316` carried the same fifteen-clause description of unreached-for grief twice in one paragraph, separated only by a full stop and a lower-case *the*: *"…a tautness that has never once slackened into relief. the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come…"*. The repeat is removed, 45 words; the sentence now ends on the tautness and the defect is gone from `tools/review.py`'s `midlower` check, which was the only thing in the wing it still reported.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS · `review.py` `midlower` 0 · `typemix` 0.
+
 ## The archetype openers, and the last five-window pairs closed (batch 72)
 
 Every remaining Appearance couple was an opener: a veil that began *"near-transparent veil of pale Han gossamer"*, a mantle that began *"fabric that falls from the shoulders"*, a blade that began *"a long pale blue blade of"* or *"a short broad crimson blade of"*, a charm that began *"hangs from a short cord and rests against"*. Eight openings reworded, one side of each pair, and the pairs go with them.

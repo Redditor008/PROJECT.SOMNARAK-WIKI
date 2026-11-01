@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Collector's Oilskin Trench-Coat
+# M.A.W. SUIT — The Collector's Oilskin Trench-Coat
 
 > *"It holds the wearer's weight and the district's: nothing is carried lightly and nothing is ever set down."*
 

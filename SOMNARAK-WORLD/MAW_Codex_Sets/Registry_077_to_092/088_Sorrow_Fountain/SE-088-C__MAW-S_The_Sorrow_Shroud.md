@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Cistern-Keeper's Chiton & Mantle
+# M.A.W. SUIT — The Cistern-Keeper's Chiton & Mantle
 
 > *“The cloth does not say your grief is small. It says you do not have to let it arrive all at once.”*
 

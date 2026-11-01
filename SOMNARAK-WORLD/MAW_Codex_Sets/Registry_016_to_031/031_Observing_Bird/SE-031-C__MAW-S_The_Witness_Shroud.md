@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Feathered Shroud of Scrutiny
+# M.A.W. SUIT — The Feathered Shroud of Scrutiny
 
 > *“The Shroud protects a witness from breaking under what was seen. It does not allow the witness to unsee it.”*
 

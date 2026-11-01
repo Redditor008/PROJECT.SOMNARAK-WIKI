@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Pendulum-Weighted Greatcoat
+# M.A.W. SUIT — The Pendulum-Weighted Greatcoat
 
 > *"It keeps the wearer upright by lending them the pendulum's patience. Each hour worn costs an hour of wanting to move."*
 

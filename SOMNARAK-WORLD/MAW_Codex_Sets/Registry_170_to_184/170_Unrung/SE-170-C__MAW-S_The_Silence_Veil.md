@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Soundless Velvet Cassock
+# M.A.W. SUIT — The Soundless Velvet Cassock
 
 > *“It shields the wearer from Void noise. It must not make them disappear from the warning chain.”*
 

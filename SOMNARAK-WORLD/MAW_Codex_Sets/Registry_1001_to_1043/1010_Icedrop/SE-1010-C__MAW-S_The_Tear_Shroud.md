@@ -1,4 +1,4 @@
-# M.A.W. PROTECTIVE ATTIRE — The Frost-Veiled Mourning Gown
+# M.A.W. SUIT — The Frost-Veiled Mourning Gown
 
 > *"The small joys go first and the large ones follow at the rate the wearer needs them. In the end only grief still arrives."*
 

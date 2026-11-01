@@ -317,7 +317,7 @@ The rope absorbed the waiting. Day after day, month after month, the child's fai
 
 The Rope holds. It still holds — the way the child held, the way the child waited, the grip that was meant to receive the returning parent and that, denied the parent, learned to hold nothing, and to hold it faithfully, the way children hold promises, past reason, past evidence, past the point where holding serves any purpose except the holding itself.
 
-Come near the Rope and the grief of the unreached-for is what arrives — the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come, of a connection prepared in all sincerity for a meeting the world did not allow, and of a tautness that has never once slackened into relief. the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come, of a connection that was prepared in all sincerity for a meeting that the world did not allow.
+Come near the Rope and the grief of the unreached-for is what arrives — the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come, of a connection prepared in all sincerity for a meeting the world did not allow, and of a tautness that has never once slackened into relief.
 
 Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's faithful, endless readiness for a return that never happened, soaked into a rope that holds, still, the shape of a connection that was never completed.
 ## 증언 (Testimonium) — The Testimony
