@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Stigma Record*
 
-The first bearer of The Fragment Charm encountered this source response: Reveals the monument's debt history. The stigma witnesses the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fragment Charm encountered this source response: Reveals the monument's debt history. The stigma witnesses the immediate hazard only after the team attributed it to Weight of All Owed. A bearer moved at the speed of something being remembered and was a season slower by the end of it, and the Charm’s binding is the pace recorded across that year.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Weight of All Owed's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the remembering slows below walking pace, and the bearer is overtaken by their own errands.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1011 -->
@@ -42,7 +42,7 @@ The first bearer of The Fragment Charm encountered this source response: Reveals
 
 ## SET RELATIONSHIP
 
-Within *Weight of All Owed — Witnessed Form*, The Fragment Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Weight of All Owed — Witnessed Form*, The Fragment Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set on a day the bearer moves at their own speed.
 
 ---
 

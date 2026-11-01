@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Weapon Record*
 
-The first bearer of The Iron Verdict encountered this source response: Treats aggression as guilt. The weapon marks the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Iron Verdict encountered this source response: Treats aggression as guilt. The weapon marks the immediate hazard only after the team attributed it to Gavel. A wielder carried every judgment they had passed and the last one on the stack was theirs, and the Iron Verdict’s binding is the case sheet from that hearing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Gavel's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the verdict falls before the case, and the wielder condemns people they have not heard.
 - Terminal state: Gavel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Present context and evidence; do not appeal with status or force” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Iron Verdict encountered this source response: Treats ag
 
 ## SET RELATIONSHIP
 
-Within *Gavel — Witnessed Form*, The Iron Verdict performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Gavel — Witnessed Form*, The Iron Verdict performs the weapon role while the other pieces preserve attribution and survival. The Verdict leaves the set on a blow struck without a judgment behind it.
 
 ---
 

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Suit Record*
 
-The first bearer of The Voice Veil encountered this source response: Tests whether the worker can hear without sound. The suit discharges the immediate hazard only after the team attributed it to Aphonia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Voice Veil encountered this source response: Tests whether the worker can hear without sound. The suit discharges the immediate hazard only after the team attributed it to Aphonia. A wearer spoke at a murmur for a season and stopped being able to tell whether they had been heard, and the Veil’s binding is the relay note from that deployment.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Aphonia's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the murmur goes below the level of a room, and the wearer stops being answered at all and stops expecting to be.
 - Terminal state: Aphonia's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Say, “I hear you,” and remain present” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Voice Veil encountered this source response: Tests wheth
 
 ## SET RELATIONSHIP
 
-Within *Aphonia — Witnessed Form*, The Voice Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Aphonia — Witnessed Form*, The Voice Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still raises their voice once a watch; the first watch they do not, the Veil is out.
 
 ---
 

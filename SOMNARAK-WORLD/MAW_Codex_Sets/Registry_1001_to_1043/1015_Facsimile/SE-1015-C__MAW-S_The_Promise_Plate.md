@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Suit Record*
 
-The first bearer of The Promise Plate encountered this source response: Tests whether the worker will make a promise without certainty. The suit stabilizes the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Plate encountered this source response: Tests whether the worker will make a promise without certainty. The suit stabilizes the immediate hazard only after the team attributed it to Facsimile. A wearer answered a blow with the terms of a vow rather than with flesh and could not afterwards revise what it covered, and the Plate’s binding is the vow document as filed.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Facsimile's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the discounting begins before the evidence, and anything against the promise arrives at the wearer already reduced.
 - Terminal state: Facsimile's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1015 -->
@@ -43,7 +43,7 @@ The first bearer of The Promise Plate encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Facsimile — Witnessed Form*, The Promise Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Facsimile — Witnessed Form*, The Promise Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one term of the promise can still be argued; the first that cannot, the Plate is out.
 
 ---
 

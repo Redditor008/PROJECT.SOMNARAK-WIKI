@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Suit Record*
 
-The first bearer of The Iron Plate encountered this source response: Makes the worker wait beneath its gaze. The suit witnesses the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Iron Plate encountered this source response: Makes the worker wait beneath its gaze. The suit witnesses the immediate hazard only after the team attributed it to Gavel. A wearer took a hit as confirmation of a first reading and would not move off it three reviews later, and the Plate’s binding is the third review’s minute.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Gavel's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the confirmation arrives before the blow, and the wearer enters an argument having already decided it.
 - Terminal state: Gavel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Present context and evidence; do not appeal with status or force” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Iron Plate encountered this source response: Makes the w
 
 ## SET RELATIONSHIP
 
-Within *Gavel — Witnessed Form*, The Iron Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Gavel — Witnessed Form*, The Iron Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one first opinion can still be moved; the first that cannot, the Plate is out.
 
 ---
 

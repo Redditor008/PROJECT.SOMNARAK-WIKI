@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Weapon Record*
 
-The first bearer of The Voice Lens encountered this source response: The silent scream becomes physically painful. The weapon contains the immediate hazard only after the team attributed it to Aphonia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Voice Lens encountered this source response: The silent scream becomes physically painful. The weapon contains the immediate hazard only after the team attributed it to Aphonia. A wielder came out of a briefing with the room holding what had been said and the wielder holding none of it, and the Lens’s binding is the minute of that briefing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Aphonia's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the tone goes before the words, and the wielder’s sentences arrive in the room flattened while the wielder hears them in full.
 - Terminal state: Aphonia's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Say, “I hear you,” and remain present” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Voice Lens encountered this source response: The silent 
 
 ## SET RELATIONSHIP
 
-Within *Aphonia — Witnessed Form*, The Voice Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Aphonia — Witnessed Form*, The Voice Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a sentence its wielder hears after saying it.
 
 ---
 

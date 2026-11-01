@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Suit Record*
 
-The first bearer of The Echo Veil encountered this source response: Continues calling while testing whether the worker will keep listening. The suit contains the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Veil encountered this source response: Continues calling while testing whether the worker will keep listening. The suit contains the immediate hazard only after the team attributed it to Undersong. A wearer answered to their own name a beat late in a room where nobody had expected it, and the Veil’s binding is the roster note from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Undersong's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the echo becomes what colleagues know of the wearer, and the original is met less often than the copy.
 - Terminal state: Undersong's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Answer: “I hear you.” Never promise help you cannot provide” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Echo Veil encountered this source response: Continues ca
 
 ## SET RELATIONSHIP
 
-Within *Undersong — Witnessed Form*, The Echo Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Undersong — Witnessed Form*, The Echo Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can answer to their name on the first call; the second call that gets the answer, the Veil is out.
 
 ---
 

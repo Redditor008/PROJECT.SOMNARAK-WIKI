@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Wrath Flame Source-Trace: Weapon Record*
 
-The first bearer of The Rage Fang encountered this source response: Attacks with concentrated heat. The weapon uncouples the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Fang encountered this source response: Attacks with concentrated heat. The weapon uncouples the immediate hazard only after the team attributed it to The Wrath Flame. A wielder could not tell whether the pain in the room had started with them or the target, and the Fang’s binding is the report filed from that bout.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Wrath Flame's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the sympathy ache arrives before the blow, and the wielder’s old injuries answer targets they have not met.
 - Terminal state: The Wrath Flame's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Bow or salute; acknowledge the war and the dead” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Rage Fang encountered this source response: Attacks with
 
 ## SET RELATIONSHIP
 
-Within *The Wrath Flame — Witnessed Form*, The Rage Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Wrath Flame — Witnessed Form*, The Rage Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow thrown at a target whose pain the wielder did not take on.
 
 ---
 

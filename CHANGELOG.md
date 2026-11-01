@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 96)
+
+`SE-1011` Fragment, `SE-1012` Wrath Flame, `SE-1013` Echo, `SE-1014` Iron Verdict, `SE-1015` Promise, `SE-1016` Voice — **eighteen records, fifty-four sentences.** The Echo Veil is the one worth quoting: its cost says the wearer answers to their own name a beat late, and that *"the echo is what people know"*, so its resonance holds while the wearer answers on the first call and is lost the second time the answer goes to the copy. The Iron Verdict loses its set on a blow struck without a judgment behind it; the Voice Lens ends on a sentence its wielder hears after saying it.
+
+**264 of 345 done. 81 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 95)
 
 `SE-1005` Forgotten Soldier, `SE-1006` Night Peddler, `SE-1007` Giver of Blessing, `SE-1008` Maker of Apostle, `SE-1009` Honest Reflection, `SE-1010` Icedrop — **eighteen records, fifty-four sentences.** Three of these sets sit on the Kind Healer chain and are written so the chain shows through them: the Giver's Mark keeps its count whether or not the bearer keeps healing, and drops out of the set when the count is read out and the bearer can say what it bought; the Maker's Brand answers calls before they are made; the Giver's Cloak keeps resonance while its wearer still takes it off at the end of a watch.

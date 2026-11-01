@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Suit Record*
 
-The first bearer of The Fragment Plate encountered this source response: Tests whether the worker can remain beneath its pressure. The suit marks the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fragment Plate encountered this source response: Tests whether the worker can remain beneath its pressure. The suit marks the immediate hazard only after the team attributed it to Weight of All Owed. A wearer answered for an obligation that came with a fragment nobody had handed them, and the Plate’s binding is the list kept from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Weight of All Owed's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the fragments accumulate faster than they can be answered, and each one is treated as agreed.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1011 -->
@@ -43,7 +43,7 @@ The first bearer of The Fragment Plate encountered this source response: Tests w
 
 ## SET RELATIONSHIP
 
-Within *Weight of All Owed — Witnessed Form*, The Fragment Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Weight of All Owed — Witnessed Form*, The Fragment Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can refuse one fragment’s obligation; the first they cannot, the Plate is out.
 
 ---
 

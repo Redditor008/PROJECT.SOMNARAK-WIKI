@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Gavel Source-Trace: Stigma Record*
 
-The first bearer of The Iron Charm encountered this source response: Shows the evidence used in its judgment. The stigma isolates the immediate hazard only after the team attributed it to Gavel. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Iron Charm encountered this source response: Shows the evidence used in its judgment. The stigma isolates the immediate hazard only after the team attributed it to Gavel. A bearer read a routine enquiry as evidence and said so, and the Charm’s binding is the complaint filed after that exchange.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Gavel's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: everything reads as evidence before anything has been alleged, and the temper arrives with the file already open.
 - Terminal state: Gavel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Present context and evidence; do not appeal with status or force” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Iron Charm encountered this source response: Shows the e
 
 ## SET RELATIONSHIP
 
-Within *Gavel — Witnessed Form*, The Iron Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Gavel — Witnessed Form*, The Iron Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set on a day the bearer hears something that is not evidence.
 
 ---
 

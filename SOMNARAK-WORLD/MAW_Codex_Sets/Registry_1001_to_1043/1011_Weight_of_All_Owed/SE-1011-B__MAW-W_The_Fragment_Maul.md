@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Weapon Record*
 
-The first bearer of The Fragment Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Weight of All Owed. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fragment Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Weight of All Owed. A wielder could not lift the Maul because of what they remembered while swinging it, and the Maul’s binding is the weigh-in from that muster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Weight of All Owed's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the head takes pieces of the wielder’s past before the swing, and it grows heavier between bouts.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1011 -->
@@ -43,7 +43,7 @@ The first bearer of The Fragment Maul encountered this source response: N/A — 
 
 ## SET RELATIONSHIP
 
-Within *Weight of All Owed — Witnessed Form*, The Fragment Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Weight of All Owed — Witnessed Form*, The Fragment Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow struck with nothing of the wielder’s past in the head.
 
 ---
 

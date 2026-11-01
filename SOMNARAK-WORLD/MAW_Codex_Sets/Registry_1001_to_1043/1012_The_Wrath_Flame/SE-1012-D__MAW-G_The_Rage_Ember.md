@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Wrath Flame Source-Trace: Stigma Record*
 
-The first bearer of The Rage Ember encountered this source response: Shows flashes of the six factions and the battle. The stigma stabilizes the immediate hazard only after the team attributed it to The Wrath Flame. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Ember encountered this source response: Shows flashes of the six factions and the battle. The stigma stabilizes the immediate hazard only after the team attributed it to The Wrath Flame. A bearer’s anger was read off them by everybody in the room before they had spoken, and the Ember’s binding is the witness note from that shift.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Wrath Flame's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the visible anger arrives before the reason, and the room reacts to a feeling the bearer has not had yet.
 - Terminal state: The Wrath Flame's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Bow or salute; acknowledge the war and the dead” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Rage Ember encountered this source response: Shows flash
 
 ## SET RELATIONSHIP
 
-Within *The Wrath Flame — Witnessed Form*, The Rage Ember performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Wrath Flame — Witnessed Form*, The Rage Ember performs the stigma role while the other pieces preserve attribution and survival. The Ember drops out of the set on a day the bearer can put the anger down while it is warm.
 
 ---
 

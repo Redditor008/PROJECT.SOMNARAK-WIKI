@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Stigma Record*
 
-The first bearer of The Promise Shard encountered this source response: Reveals the original promise and its betrayal. The stigma severs the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Shard encountered this source response: Reveals the original promise and its betrayal. The stigma severs the immediate hazard only after the team attributed it to Facsimile. A bearer felt the cost of considering a break before there was a break to consider, and the Shard’s binding is the note made at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Facsimile's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pain arrives further out, and the bearer is charged for thinking about a promise they are keeping.
 - Terminal state: Facsimile's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1015 -->
@@ -42,7 +42,7 @@ The first bearer of The Promise Shard encountered this source response: Reveals 
 
 ## SET RELATIONSHIP
 
-Within *Facsimile — Witnessed Form*, The Promise Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Facsimile — Witnessed Form*, The Promise Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set on a day the bearer considers a break and pays nothing.
 
 ---
 

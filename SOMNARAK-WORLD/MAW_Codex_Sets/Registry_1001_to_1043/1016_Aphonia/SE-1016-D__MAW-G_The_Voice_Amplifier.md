@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Aphonia Source-Trace: Stigma Record*
 
-The first bearer of The Voice Amplifier encountered this source response: Reveals the places from which the pleas came. The stigma redirects the immediate hazard only after the team attributed it to Aphonia. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Voice Amplifier encountered this source response: Reveals the places from which the pleas came. The stigma redirects the immediate hazard only after the team attributed it to Aphonia. A bearer answered a plea that had never reached anybody and was heard three corridors away, and the Amplifier’s binding is the response log from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Aphonia's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pleas arrive over each other, and the bearer answers all of them in a voice that carries further than intended.
 - Terminal state: Aphonia's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Say, “I hear you,” and remain present” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Voice Amplifier encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Aphonia — Witnessed Form*, The Voice Amplifier performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Aphonia — Witnessed Form*, The Voice Amplifier performs the stigma role while the other pieces preserve attribution and survival. The Amplifier drops out of the set on a plea the bearer lets pass.
 
 ---
 

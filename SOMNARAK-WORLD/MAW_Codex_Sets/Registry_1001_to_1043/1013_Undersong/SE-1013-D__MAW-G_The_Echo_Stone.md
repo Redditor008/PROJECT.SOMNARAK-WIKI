@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Stigma Record*
 
-The first bearer of The Echo Stone encountered this source response: Reveals fragments of the places from which it called. The stigma discharges the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Stone encountered this source response: Reveals fragments of the places from which it called. The stigma discharges the immediate hazard only after the team attributed it to Undersong. A bearer answered a call that had never been made and could not afterwards find who had made it, and the Stone’s binding is the note from that corridor.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Undersong's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the calls arrive over conversation, and the bearer answers them mid-sentence to people who heard only one voice.
 - Terminal state: Undersong's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Answer: “I hear you.” Never promise help you cannot provide” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Echo Stone encountered this source response: Reveals fra
 
 ## SET RELATIONSHIP
 
-Within *Undersong — Witnessed Form*, The Echo Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Undersong — Witnessed Form*, The Echo Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set in a silence the bearer lets stand.
 
 ---
 

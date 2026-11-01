@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Weapon Record*
 
-The first bearer of The Promise Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Facsimile. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Facsimile. A wielder paid a debt they had never agreed to and could not find who had promised it, and the Fang’s binding is the pledge register from that year.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Facsimile's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the owed injuries arrive before the strike, and the wielder is paying on promises made before they were born.
 - Terminal state: Facsimile's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1015 -->
@@ -43,7 +43,7 @@ The first bearer of The Promise Fang encountered this source response: N/A — O
 
 ## SET RELATIONSHIP
 
-Within *Facsimile — Witnessed Form*, The Promise Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Facsimile — Witnessed Form*, The Promise Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow struck against a debt its wielder actually owes.
 
 ---
 

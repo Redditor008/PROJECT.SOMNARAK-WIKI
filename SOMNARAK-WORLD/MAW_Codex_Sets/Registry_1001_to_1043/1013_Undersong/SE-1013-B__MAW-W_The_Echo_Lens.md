@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Undersong Source-Trace: Weapon Record*
 
-The first bearer of The Echo Lens encountered this source response: The call becomes distant but does not stop. The weapon stays the immediate hazard only after the team attributed it to Undersong. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Echo Lens encountered this source response: The call becomes distant but does not stop. The weapon stays the immediate hazard only after the team attributed it to Undersong. A wielder could not say which side of the trade they had been on, and the Lens’s binding is the account written from that sitting.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Undersong's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the echo arrives before the original, and the wielder’s past is lived at one remove from the start.
 - Terminal state: Undersong's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Answer: “I hear you.” Never promise help you cannot provide” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Echo Lens encountered this source response: The call bec
 
 ## SET RELATIONSHIP
 
-Within *Undersong — Witnessed Form*, The Echo Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Undersong — Witnessed Form*, The Echo Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a blow after which its wielder can say what happened.
 
 ---
 
