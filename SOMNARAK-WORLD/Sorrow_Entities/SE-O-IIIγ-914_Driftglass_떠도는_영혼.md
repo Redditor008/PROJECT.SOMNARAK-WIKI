@@ -147,11 +147,11 @@
 Driftglass is an Object/Place with Object-Lament manifestation and Lament expression, registered to the Alpha Tree vaults and never in one place within them. Viderehan is taken alongside at the drift height. Ferrehan is the accompaniment, which is the whole of the posting and the whole of the hazard. Neither has ever shortened a route or ended one.
 
 **Reading the response:** A falling reading means it was accompanied and not steered, or that an anchor from outside the city was recognised. Stability under Viderehan is correct. The reading rises whenever its route is shaped by anybody — a closed door, a cleared corridor, a destination spoken aloud — and rises identically whether or not it takes the suggested turning.
-## Breach Behavior
+## Containment Event Behavior
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — the drift widens into corridors outside the mapped range; nothing escapes, because it was never held anywhere to escape from. |
+| **Event Type** | Expansion — the drift widens into corridors outside the mapped range; nothing escapes, because it was never held anywhere to escape from. |
 | **Movement** | Wanders the Alpha Tree corridors and vaults, never twice by the same route, at the speed of an unhurried walk. |
 | **Effect** | Personnel lose the sense of belonging anywhere in particular; the loss is reported late, if at all, and is visible in the route they take back. |
 | **Duration** | Until the session ends; an anchor slows the drift by about a fifth for the length of it and does not stop it, and no resting place has ever been found, built or accepted. |

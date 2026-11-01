@@ -22,7 +22,7 @@ The Maze formed from confusion between memory, dream, and reality. The fear of n
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
 | Coherence / Potency | Entity (IV) — Self-aware, labyrinthine, trapping / Major (γ) |
 | Element / Location | Void / SECTOR-B-02, beneath Old Lament |
-| Gauge / Pressure | 750/750; starts 45–65% / 18–41 per hit · Void |
+| Gauge / Pressure | 750/750; starts 45–65% · Void — no attack pattern: the Maze is a place, walked and mapped; nothing in it strikes (Contact Record, R-36) |
 | Observation | 3 — Advanced |
 | Formation event | Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place. |
 
