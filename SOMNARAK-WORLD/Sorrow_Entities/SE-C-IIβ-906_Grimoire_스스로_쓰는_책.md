@@ -215,7 +215,7 @@ Escalation here is driven entirely from the human side. Record the opening time,
 
 **Ability:** Grudge against the Mind. The struck target recalls, in order and in detail, every complaint they have made that was never answered — fourteen strikes, fourteen lists, and three of them were long enough to be filed as evidence in their own right.
 
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Cost:** The wielder keeps their own unanswered complaints in order, and finds the keeping has begun whether or not they meant it to.
 
 ### M.A.W. Suit — Grimoire's Veil
 

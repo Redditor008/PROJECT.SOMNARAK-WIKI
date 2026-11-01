@@ -178,7 +178,7 @@ Requiring tremendous physical strength to wield, the sceptre serves equally as a
 
 **Damage:** Void 11–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Void against the Mind. Struck targets complete somebody else's unfinished reasoning and find it convincing; fourteen strikes, and in four the completed argument was later traced to an entrant from a previous descent.
-**Cost:** The wielder experiences a persistent low-grade headache with each use.
+**Cost:** The wielder finishes other people's reasoning with arguments neither party started, and cannot always say which side of the exchange they were on.
 
 **Weapon custody:** Keep the local basalt sceptre, the Zweihander title and the separately linked Edge identity explicit; no source records a transformation between them. The linked Single pattern does not authorise transferring the local seismic effect to extra targets or giving the sceptre the disputed Suit’s greatsword reach. Log headache and first-person claims about the source before cleaning or resting the item. A named witness attends relinquishment; an entrant’s private wall-sentence is not the unrecorded formation event and cannot be read out as an invented binding history. Return does not refund the cost.
 

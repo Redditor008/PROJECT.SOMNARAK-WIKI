@@ -175,7 +175,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 **Ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.
 
-**Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
+**Cost:** The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there.
 
 ### M.A.W. Suit — Weighted Silence's Veil
 

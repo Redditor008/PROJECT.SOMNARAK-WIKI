@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Thirteen blades whose price was a headache or a numbness (2026-11-01)
+
+Two more stock cost sentences had spread across the Weapon blocks: *a persistent low-grade headache with each use* on six Edges, and *emotional numbness toward the source entity's element with each use* on six more, plus one `**Bearer cost:**` variant on Cracked Flesh. Read one after another, six different blades charged the same coin.
+
+Each cost is now the price the ability in the line above it implies. Thinking Engine's Edge leaves its wielder arriving at conclusions whole and unargued. Grimoire's Edge keeps the wielder's unanswered complaints in order whether they meant it or not. The Echoing Zweihander finishes other people's reasoning with arguments neither party started. Sorrow Mass's Edge leaves the wielder's own share of the load unrecorded by every gauge in the corridor. Glass Elsewhere's Edge shows the room the wielder would rather be in. Once Told's Edge gives an account fuller than what the wielder saw.
+
+Breathing Stone's Edge keeps its wielder at the wall's rate, nine a minute, until somebody else counts it. Ninety Seconds's Edge brings the same idea round twice. Vellum Man's Edge leaves the report of the fight the one page its wielder cannot finish. Moktak's Edge answers a turn nobody gave. Once Upon's Edge finishes an account without knowing where it was going. Weighted Silence's Edge keeps talking into a silence it can no longer hear. Cracked Flesh's numbness is now specific to Grudge — a thing taken, a ground lost, a debt unpaid, all arriving as weather — which the file's own attribution note already promised and now matches.
+
+The stock phrase survives in the side-codex item records that the Allhallow and Dawn That Forgot notes point at, where each dossier's *Edge cost distinction* paragraph depends on the difference between the dossier cost and the linked item's cost. That is an open queue, not a fix.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0 · `check_stat_bands` PASS.
+
+
 ## Six Void charms, and the fourth element done (2026-11-01)
 
 The Void Han-glass Stigmas closed the set: six pieces that all cost their bearer *a word, occasionally forgotten*, which is the least visible price in the catalogue and the fourth time the same sentence had been reused for a whole element.

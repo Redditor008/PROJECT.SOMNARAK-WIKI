@@ -190,7 +190,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 
 **Ability:** The struck target loses the ability to finish an account of what just happened — reports written after a strike stop mid-sentence, and every one of the nine on file stops at a different point with no injury to explain it.
 
-**Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
+**Cost:** The wielder's own account stops at the point where the strike was made, so the report of the fight is the one page they cannot finish.
 
 ### M.A.W. Suit — Vellum Man's Veil
 

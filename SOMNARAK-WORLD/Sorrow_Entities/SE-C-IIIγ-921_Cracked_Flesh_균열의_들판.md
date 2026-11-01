@@ -196,7 +196,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Falloff Rule:** 100% damage to the selected target only.
 
 **Ability:** Grudge against the Body. Struck targets carry a faint fracture pattern on the skin for some days — painless, superficial, and matching the ground where the blow landed.
-**Bearer cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
+**Bearer cost:** The bearer's response to Grudge dulls at the rate the fractures fade — a thing taken, a ground lost, a debt unpaid all arrive as weather — and the numbness does not lift between uses.
 
 **Weapon attribution:** The item requires the bearer, trigger, source response, cost and unresolved detail before cleaning or rest. Here the formation event remains unrecorded: a first-person account of it is a corrosion warning, not recovered evidence about who took the common ground. Keep the documented numbness toward Grudge distinct from the primary’s painless skin presentation. Neither a quieter emotional response nor relinquishing the implement establishes medical clearance. The clock-holder still confirms exit, and the two existing form profiles remain separate; the item’s short Single profile supplies no new coverage rule for the unfurled tendril.
 

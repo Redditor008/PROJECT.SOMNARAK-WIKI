@@ -163,7 +163,7 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 
 **Damage:** Lament 14–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Struck targets lose the thread of what they were saying and pick it up again somewhere else in the sentence. The Armoury logs it as a nuisance; the fourteen targets describe it as the most disorienting thing that has happened to them.
-**Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
+**Cost:** The wielder cannot tell where their own account was going, and finishes it anyway, which reads well in the log and not at all in the room.
 
 ### M.A.W. Suit — Once Upon's Veil
 
