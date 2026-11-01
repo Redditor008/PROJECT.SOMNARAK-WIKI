@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | The Desolate, near the Scar |
 | Form | A bridge-shaped consciousness perceived as an impossible span beneath the feet and a violent crossing replayed in the mind. |
-| Gauge / pressure | 60–80% / Lament 29–62 |
+| Gauge / pressure | 892/892; starts 60–80% / Lament — no attack pattern; the transcriber’s reply, and where the worker’s own line falls, are the instrument |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Far Shore |
 

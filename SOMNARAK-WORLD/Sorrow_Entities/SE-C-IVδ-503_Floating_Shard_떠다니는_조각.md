@@ -44,51 +44,36 @@
 - Emotional pressure acts on personnel who stand directly under the Shard; the floor beneath it is kept clear.
 - Extraction from the bay is a separate risk event with its own authorization, and on this holding the authorization is signed above the floor warden's clearance rather than after it, because the clearance can be called at sight and the extraction cannot be stopped once started.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the mirrored injury, which is not pressure and is not resisted by anything the armoury issues: harm done under the Shard returns to the person who did it, matched in kind and place |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 864/864 |
-| **Han Pressure [ATK]** | 25–54 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it *holds height without support and drifts slowly across the bay… has never left the bay and has never descended to the floor*, and the file's own rows do the rest of the work: it has never accelerated at anybody's face and never struck first, and the shard has never moved toward a person. Every injury recorded in this bay is a mirrored one.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | One large shard holding height over the Forge bay with no support under it, turning slowly, with the figure inside turning as it turns. It sheds fragments that are inert, it has never been contacted at the net, and it has never come down to the floor. |
+| **Perceptible to** | The light, which is not an identification but a reading about the room — it rises near whoever is hurt in it. Eleven times the light has come up with nothing logged, and eleven times somebody turned out to be injured. |
+| **Handling** | Do not dismiss the pain and do not promise impossible rescue. Flerehan draws it closer and softens the light; Ferrehan tests whether a worker can be pitied without surrendering to it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 864/864 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone D, Forge District |
+| **Valid Work Types** | All four apply. Flerehan brings it nearer and dims it; Viderehan opens the injuries it has witnessed; Ferrehan is the test of bearing pity without surrender; Pugnahan splits fragments away and lifts the gauge, and the fragments are collected within the shift and never left overnight. |
+| **Location** | Zone D, Forge District |
 | **Resolution Condition** | Do not dismiss the pain or promise impossible rescue |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Lazy Drift* [**Debuff**] } | "It does not mesmerize and it does not catch the light on purpose — one large shard holding height, turning slowly, with the figure inside turning as it turns. People look because the pity is already looking at them." | [Brightness is not an identification; the light in this state is a reading about the room, and it rises near whoever is hurt in it.] | *Target suffers -10 Composure; what they see in the break is their own unlogged injury, read back to them.* **[10 Lament DMG [Lament]]** | When the drift crosses the bay. |
-| { *The Gathering* [**Debuff**] } | "It does not multiply and there is no orbiting constellation of sharp edges — there is one shard, and the fragments it sheds are inert, collected by hand and stored. What gathers is attention, and all of it lands on the person who is hurt." | [Eleven times the light has come up with nothing logged; eleven times somebody turned out to be injured.] | *Target loses 10 Composure; every direction they turn, the witnessing is already there.* **[10 Lament DMG [Lament]]** | When the target remains still and unreported. |
-| { *The Sudden Spin* [**Attack**] } | "It has never accelerated at anybody's face and never struck first — every injury recorded in this bay is a mirrored one. What turns sharply is the figure inside, toward the exact person who has just been hurt." | [Harm done under the Shard returns to the person who did it, matched in kind and in place; nothing here needs to move for that.] | *Inflicts Lament pressure — the cut, where one occurs, is the doer's own, returned.* **[14-22 Lament DMG [Lament]]** | When anything inside the bay is cut, struck or dropped. |
-| { *The Full Cluster* [**Attack**] } | "No cloud closes in; the shard does not converge on a point and has never moved toward a person. What converges is the room's record of itself — every injury in the bay becoming legible at once, to everyone standing in it." | [Pugnahan splits fragments away and raises the gauge; the fragments shed are collected within the shift and are never left overnight.] | *A heavy Deep Blue legibility; the target's Sorrow Gauge surges 15% under the weight of what can suddenly be seen and cannot be un-seen.* **[24-36 Lament DMG [Lament]]** | When the Shard is confronted, or when anything in the bay is struck. |
-| { *The Shard Constellation* [**Ultimate**] } | "The whole sky of it does not come down — it has never descended to the floor and the net above the heat column has never been contacted. What comes down is the sound: the bay warps in place and the weeping becomes audible across the whole Forge floor." | [Seal the bay and endure; the pressure pools in the chest of everyone inside, and stops when the work inside stops.] | *All in range suffer Lament pressure for three turns inside the sealed volume; the weeping is audible through the seal for the whole of it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the shard does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Lazy Drift* [**Register**] } | Holds height and turns slowly, and the light in it rises near whoever is hurt in the bay — including the ones nobody has logged yet. | Confirms the holding by the light rather than by the shard, and checks the bay's injury log against what the light has found. | The light is the instrument and the shard is the occasion. Eleven times it has come up with nothing in the log and eleven times somebody turned out to be hurt, which is the whole of the file's case for watching it at all. |
+| { *The Gathering* [**Exposure**] } | Leaves the worker unable to be still and unreported: every direction they turn, the witnessing is already there, and the figure inside has already looked. | Ends the turn on the clock, and requires an injury report from every worker in the bay before anybody leaves it. | Nothing gathers except attention. The file is explicit that there is no orbiting constellation of sharp edges and that the fragments it sheds are inert and collected by hand, so the pressure is a room that has already noticed. |
+| { *The Sudden Spin* [**Refusal**] } | Returns harm to the person who did it, matched in kind and in place, when anything inside the bay is cut, struck or dropped. Nothing here needs to move for that. | Records who was doing what when the injury arrived, and does not look for a cut that came from the shard. | The mirrored injury is the file's central fact and the reason the record has no blow in it: what turns sharply is the figure inside, toward whoever has just been hurt, and the cut delivered is the doer's own. |
+| { *The Shard Constellation* [**Overload**] } | Does not come down. The sky of it stays where it has always been, the net is never contacted, and what arrives instead is the sound: the bay warps in place and the weeping becomes audible across the whole Forge floor. | Seals the bay, endures the three turns of pressure inside the sealed volume, and opens it when the work inside stops. | The pressure pools in the chest and stops when the work stops, which is the file's whole description of the event. It has never descended to the floor and the net has never been contacted — the seal is the answer to a sound, not to a descent. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification is made on two things and never on a third — the unsupported height against the painted scale, and the figure inside the crystal turning as the shard turns. Brightness is not an identification: the light is a reading about the room and rises near whoever is hurt in it. With the reading taken, the approach is set, the marked positions are manned and the floor beneath the volume is cleared before the cycle opens.
-2. **Clash:** Twenty-four turns, worked from the marked standing positions at the edge of the bay. Nothing is broken, cut, struck or dropped anywhere inside the bay for the duration, including on unrelated equipment, and the team's own injuries are the thing being managed rather than the entity's reach.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **Do not dismiss the pain or promise impossible rescue** — the pity is left standing as what it is, nobody tells the figure it could not have helped, and the cycle closes on the clock.
+1. **What is confirmed:** the light and where it rises, the bay's injury log checked against it, and the net above the heat column as last surveyed.
+2. **What the watch does:** Flerehan for bringing it closer and dimming it and Ferrehan for bearing pity without surrender, with Viderehan opening the injuries it has witnessed and no attempt made on it.
+3. **How it closes:** the close is the file's documented condition: **Do not dismiss the pain or promise impossible rescue** — and the dismissal of either is what the gauge registers, because the kindness is the attack.
 
 ### Consequences
 

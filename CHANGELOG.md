@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five that the record had already acquitted (2026-11-01)
+
+Twenty-first batch. The scan that found these looked for the archive's own acquittal language inside files still carrying a combat table, and five of them had written their verdicts so plainly that the conversion was mostly transcription.
+
+- **Floating Shard** (`C-IVδ-503`) — *it has never accelerated at anybody's face and never struck first*, and *the shard does not converge on a point and has never moved toward a person*. Every injury in the Forge bay is a mirrored one: harm done under the shard returns to whoever did it.
+- **Harbinger** (`N-IIIβ-155`) — the combat row itself says it: *the combat record describes a reflected reach, but the primary says Harbinger has never made contact*, and the action's own note adds *this action does not establish a physical wound*.
+- **Flotsam** (`C-IIβ-782`) — no position of its own, distributed across objects that are fading from memory. Everyone this holding has harmed was holding an outlined object, and nobody while standing near one.
+- **I Alone Crossed** (`C-IVδ-106`) — *no material falls; the chamber holds no bridge and never has*. What lands at full weight is the conviction that the worker underneath should have caught it, which is a verdict and not a blow.
+- **Dreaming Ruin** (`N-IIIγ-505`) — its attack row opens with *it has never struck at a person*, then describes the thing it actually does: builds across a bearing until a standing wall stops being one.
+
+**One keeper.** **Unheard** (`C-Iα-965`) is left as a Combat Record. It flows along the record stacks at walking pace and its own Entity Type row says the pressure turns physical — plaster cracks and ears bleed. A holding that moves and injures is not a holding this pass has anything to say about.
+
+**The narrower test, restated.** After twenty-one batches the line is: nothing that leaves the entity, nothing that arrives at a body, and no distance being closed — with the three exceptions written out above the stat line where they occur. Forty-five non-breaching dossiers still contain acquittal language and a combat table; eleven of them are now keepers with a reason, and the rest are the queue.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and thirty-eight Contact Records.**
+
 ## Three where the only weapon is a sentence (2026-11-01)
 
 Twentieth batch. All three sit in the same corner of the archive — a thing that harms by describing, naming or forgetting — and all three say so in their own text without any help from this pass.

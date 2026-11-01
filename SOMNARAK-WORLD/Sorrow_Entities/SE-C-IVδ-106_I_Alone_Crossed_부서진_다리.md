@@ -44,51 +44,36 @@
 - The claim is taken down word for word and never argued in the field; the reading of it happens off site, by people who were not in the chamber.
 - Extraction is authorized apart from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Lament pressure and 35% against everything else — high resistance on a file where the damage is done to nobody's body |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 892/892 |
-| **Han Pressure [ATK]** | 23–50 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it plainly — *does not travel; the subject is encountered where it is registered; what extends is the pressure, not the figure* — and the row that would otherwise carry a blow denies one outright: no material falls, and the chamber holds no bridge and never has.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | Not a structure but a bridge-shaped consciousness — a pressure in the mind more than a thing in the world, felt as the weight of a broken promise and a violent crossing. Those near it sense a span beneath their feet that is not there. |
+| **Perceptible to** | The gap and the wind through it first; then the dangling cable, which is temptation and not equipment; then the conviction, arriving at full weight, that the worker underneath should have caught what fell. |
+| **Handling** | State accurately where one person's responsibility ended — not that he is blameless, which it rejects, but where the line actually falls. Fourteen sessions in nineteen years are marked at the moment a transcriber answered it. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 892/892 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | The Desolate, near The Scar |
+| **Valid Work Types** | All four have responses. Flerehan stops the account mid-sentence and acknowledges that the worker has lost people too; Viderehan gives the crossing in the same words every time and stops short of saying the collapse was his doing; Ferrehan is holding one's own record of failing people alongside his; Pugnahan restates louder and faster, and is never authorised twice by the same supervisor. |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | State accurately where one person's responsibility ended — not that he is blameless, which it rejects, but where the line actually falls |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Missing Span* [**Debuff**] } | "Where the bridge should be — nothing. Just the gap, and the wind through it." | [The Bridge's absence creates a void the target must cross.] | *Target suffers -10 Composure; the gap is terrifying.* **[10 Lament DMG [Lament]]** | When the target reaches the break. |
-| { *The Hanging Cable* [**Debuff**] } | "A cable dangles from the broken edge — swaying, singing in the wind, tempting you to grab it." | [The Bridge's remnant offers false hope; the target is drawn toward the edge.] | *Target loses 10 Composure; the temptation of the dangling cable is strong.* **[10 Lament DMG [Lament]]** | When the target stands at the edge. |
-| { *The Falling Debris* [**Attack**] } | "Something overhead comes loose — a weight the mind insists is falling toward whoever is standing beneath." | [No material falls; the chamber holds no bridge and never has. What lands is the conviction, at full weight, that the worker underneath should have caught it.] | *Inflicts Lament pressure; the harm is entered as the worker's own failure, which is the only kind this holding deals.* **[14-22 Lament DMG [Lament]]** | When the break is disturbed. |
-| { *The Full Rupture* [**Attack**] } | "The last support gives way — and the entire remaining structure drops into the chasm." | [The last support lets go, and everything the crossing was holding comes down into the gap with it.] | *A heavy Deep Blue collapse; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the break is forced wider. |
-| { *Every Bridge Falls* [**Ultimate**] } | "The break spreads — to every bridge, every crossing, every connection in the field." | [The failure travels outward, and every crossing in range starts losing its supports in turn.] | *All in range suffer Lament pressure for three turns of broken crossings.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the pressure does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Missing Span* [**Register**] } | Opens a void where the bridge should be, and the worker at the break has to cross something that is not there and has never been. | Posts the transcriber before the account begins, and confirms the site by the gap and the salt-damp rather than by anything standing. | What is registered is an absence with weather in it. The file's own description of the place is a span felt beneath the feet that is not there, and the survey has never found one. |
+| { *The Hanging Cable* [**Exposure**] } | Dangles a cable from the broken edge, swaying and singing, and the temptation to grab it is the pressure rather than any force on the body. | Keeps the party back from the edge, and records every step a worker takes toward the dangling cable. | Fourteen sessions in nineteen years are marked at the point a transcriber answered instead of taking the account down, and every one of the fourteen shows the escalation inside the same session. The reply is the failure, not the proximity. |
+| { *The Falling Debris* [**Refusal**] } | Does not fall. There is nothing overhead to come loose and nothing below to be hit; what lands at full weight is the conviction that the worker underneath should have caught it. | Does not look up, does not check the structure, and records the conviction as the event rather than as evidence of one. | This is the row the whole file turns on: no material falls, and the harm is entered as the worker's own failure, which is the only kind this holding deals. A blow that exists only as a verdict still has to be answered, and the answer is where the line falls. |
+| { *Every Bridge Falls* [**Overload**] } | Spreads the break outward, and every crossing in range starts losing its supports in turn — the failure travelling through the record of crossings rather than through any structure. | Stops the watch, ends the account, and does not attempt a reconciliation in the same session. | Duration works against the crew in a specific order the file sets out: the stride first, workers adjusting for a span that is not there; then the pen, as the transcription starts agreeing; then the room, treating the account as settled fact. The watch ends before the pen. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Naming comes before everything — the account taken as a four-point pressure gradient, nothing behind it to look at, and the claim, spoken, of having gone over alone. No other file opens this way. The table settles the designation, the array is positioned, and the cycle opens only then.
-2. **Clash:** The account arrives and the crew writes it down without touching it. The live hazard is not the pressure but the crew's own agreement, and the timekeeper watches the pen, not the gauge.
-3. **Resolution:** The watch closes when one man's charge is drawn around honestly and left standing — the documented suppression condition: **Name the limits of one person's responsibility**. It stays closed only while that boundary holds; the moment anyone in the chamber takes the whole of the bridge onto one pair of shoulders, the cycle reopens.
+1. **What is confirmed:** the transcriber posted before the account begins, the party kept back from the edge, and the site confirmed by the gap rather than by a structure.
+2. **What the watch does:** Viderehan for the crossing in the same words every time and Ferrehan for holding one's own record of failing people alongside his, with Flerehan stopping the account when the worker's own losses arrive, and no reply given to it.
+3. **How it closes:** the close is the file's documented condition: **State accurately where one person's responsibility ended** — not that he is blameless, which it rejects, but where the line actually falls.
 
 ### Consequences
 

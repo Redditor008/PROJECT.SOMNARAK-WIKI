@@ -44,51 +44,36 @@
 - The structural pressure is literal. The bearing floor under the accumulation is instrumented and read at every session, and the reading has risen in each of the last four years.
 - Extraction is separately authorised and is never allowed to look like clearing the pile; objects removed from the pile have returned to it twice.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Grudge. Nothing can be struck; the entity is a condition that objects are in. Removing an outlined object from the store does not lift the outline and has been tried eleven times. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 462/462 |
-| **Han Pressure [ATK]** | 7–17 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it is *distributed across outlined objects, with no position of its own… does not pursue workers*, and carrying an outlined object away does not give it a travelling body either. The consequence section is equally plain: everyone this holding has harmed was harmed while holding an outlined object, and nobody while standing near one.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | Less a body than a burning pressure shaped like a relic just under the skin, visible only as a red outline flaring around objects that are fading from memory. Nothing solid to hold; heat and glow, char and old smoke. |
+| **Perceptible to** | The outline first, on the objects whose purpose is going; then the failing, which carries the anger of being forgotten — and the object's heat rises to about two metres when it is provoked. |
+| **Handling** | Name the owners and purpose, and do not force preservation. Handlers are the ones hurt; Viderehan gives the history face, then name, then purpose, in that order every time, and Ferrehan retracts the outline for the worker who can hold a memory without claiming it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 462/462 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone B, Old Lament |
+| **Valid Work Types** | All four have responses. Flerehan brightens the outline and shows the hands that used the object most recent first; Viderehan gives the history in order; Ferrehan tests whether a memory can be held without being claimed; Pugnahan spreads heat to everything within about two metres. |
+| **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Name the owners and purpose; do not force preservation |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Dimming* [**Debuff**] } | "The relic flickers — once bright, now failing — and the failing carries the anger of being forgotten." | [The Relic's power wanes; the fading itself radiates resentment.] | *Target suffers -10 Resilience; the dying relic infects them with obsolescence.* **[10 Grudge DMG [Grudge]]** | When the target holds the Relic. |
-| { *The Last Gasp* [**Debuff**] } | "It tries one more time to be what it was — and the effort nearly kills it, and the grief is enormous." | [The Relic's final efforts release despair at its own decline.] | *Target loses 10 Resilience; they feel the sorrow of a thing losing purpose.* **[10 Grudge DMG [Grudge]]** | When the target pushes the Relic. |
-| { *The Dying Flash* [**Attack**] } | "One last burst of old power — desperate, bright, and angry at going out." | [A final flare of the Relic's stored strength.] | *Inflicts Grudge pressure and one wound of dying light.* **[14-22 Grudge DMG [Grudge]]** | When the Relic is struck. |
-| { *The Full Extinguish* [**Attack**] } | "An object goes dark — finally — and what it was for goes with it." | [An outlined item loses its use permanently; it remains intact and becomes unusable because nobody can say what it was for.] | *24–36 Grudge to whoever was holding it; 611 items have gone this way and not one has been recovered.* **[24-36 Grudge DMG [Grudge]]** | When an object's last knowledgeable owner dies, leaves service, or forgets. |
-| { *Everything Fades* [**Ultimate**] } | "Every stored thing in the wing dims at once and the stores become a room full of shapes." | [The condition spreads across the whole store for the duration.] | *12–20 Grudge per cycle for three cycles to anybody working the stores.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the fortnight after the stores' oldest keeper retired. |
+| Event | What the pressure does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Dimming* [**Register**] } | Fails in an object and radiates the resentment of being forgotten, so that whoever is holding it feels obsolescence arriving as a property of themselves. | Confirms the holding by the outline and the smell, and lists the objects fading in the store rather than the ones already dark. | The register is a list of things whose purpose is going, in the order the outline appeared. Six hundred and eleven items have gone dark and not one has been recovered, which is why the list is written before anything is handled. |
+| { *The Last Gasp* [**Exposure**] } | Makes one more attempt to be what it was, at enormous cost to itself, and what the attempt releases is despair at its own decline. | Ends the turn at the interval, and takes the object out of the worker's hands before the second attempt rather than after the third. | The exhaustion is the holding's and the grief is the worker's, and the file separates them for a reason: an object that has been tried to death stays dark, and the worker who did the trying keeps the evening. |
+| { *The Dying Flash* [**Refusal**] } | Flares once, desperate, bright and angry at going out — a last burst of stored strength out of the object itself, with no direction in it. | Does not strike, drop or jolt an outlined object, and treats a flare as heat: hands clear, lens covered, and the item left where it lies. | Nothing here leaves a thing and travels. The flare is the object going out, which is why the response is distance and cover rather than a challenge — and why the fragments of a burnt-out relic are inert and collected by hand. |
+| { *Everything Fades* [**Overload**] } | Spreads across the whole store until every stored thing dims at once and the stores become a room full of shapes with nothing to say what they are for. | Closes the store, records which objects darkened in which order, and does not re-issue a single item until its purpose has been named by somebody. | Above 65% this has happened once, in the fortnight after the stores' oldest keeper retired. The holding's growth is in the outlines and not in the room, and the recovery is the same work in reverse: a person who can say what a thing was for. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The warden opens the inventory at the last entry, walks the racks, and lists every outlined item and every item that has lost its outline since the last pass. The inventory is the cycle; there is nothing to approach.
-2. **Clash:** Eight turns, worked from the inventory rather than at the pile. Each turn opens with a named object and its use read aloud; Pugnahan spreads the heat to adjacent items and is not authorised.
-3. **Resolution:** Name the owners and the purpose of as many outlined objects as anybody present can, and write both in the inventory. 188 passes; each named use holds that object's outline for a median of nine months and nothing else has ever held one.
+1. **What is confirmed:** the outlines and the order they appeared, the objects already dark, and who can name a purpose without being told one.
+2. **What the watch does:** Flerehan for the hands that used the object and Viderehan for the history face to name to purpose, with Ferrehan for holding a memory without claiming it — and no object forced to stay.
+3. **How it closes:** the close is the file's documented condition: **Name the owners and purpose; do not force preservation** — and an object whose purpose has been named comes back out of the list with a person's name beside it.
 
 ### Consequences
 

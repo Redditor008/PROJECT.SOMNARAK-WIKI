@@ -37,51 +37,36 @@
 | **Recommended response** | Bring the gauge down through the register's valid Work Types for a Subject-Dream; nothing improvised is authorised at the ruin. |
 
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Void pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 |
-| **Han Pressure [ATK]** | 18–41 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Its own attack row begins with the sentence that settles it: *it has never struck at a person.* It builds — a different part of the ruined room every time, and in sixty years never the same part twice — and what it costs is the worker's ability to tell a memory from a completion.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A dreamlike figure assembled from the pieces of a ruined room — broken plaster, splintered wood, a shattered window held in the shape of a person — rebuilding itself whenever somebody remembers it, and falling back to dust when nobody does. |
+| **Perceptible to** | The plan sheet first: count the hatched panels and write the number before anything else happens. Sixty-one is the baseline; the recorded range is thirty-eight to one hundred and seventy-one. |
+| **Handling** | Wake with an anchor and preserve the memory without rebuilding it. Supplied detail is circled, never hatched, and the difference between holding a room and finishing one is the whole of the discipline. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 653/653 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone C, Mask Market |
+| **Valid Work Types** | All four have responses. Flerehan rebuilds a portion the worker genuinely holds; Viderehan reveals which parts are memory and which are invention; Ferrehan tests whether the worker can leave the ruin; Pugnahan collapses what has been built and scatters the debris, and raises the reading. |
+| **Location** | Zone C, Mask Market |
 | **Resolution Condition** | Wake with an anchor and preserve the memory without rebuilding it |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Brick* [**Debuff**] } | "It builds a different part of the room every time, and in sixty years it has never built the same part twice." | [The plan sheet comes out first: count the hatched panels and write the number before anything else happens. Sixty-one is baseline; the recorded range is thirty-eight to one hundred and seventy-one.] | *A Void mark on the session, not the worker: whatever the figure builds is hatched live by the sheet officer, and nothing is hatched on inference.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At manifestation, wherever in the registered area it faces. |
-| { *The Accelerating Build* [**Debuff**] } | "The walls are not angrier. They are furnished — a door where a door would obviously go." | [Composure fails here as furnishing: the worker begins completing the room, and each completion is indistinguishable on the sheet from a genuine memory. Supplied detail is circled, never hatched.] | *Clarity taken in the furnished state: for about four months, the worker cannot say which rooms of their own childhood home they remember and which they have reconstructed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker supplies a part instead of holding one. |
-| { *The Falling Stone* [**Attack**] } | "It has never struck at a person. It builds, and whatever stands on the build bearing stops being a wall where the lost house had a doorway." | [Read the bearing off the last session log and evacuate the holding on that line first; twice, the holding behind the partition stood open for several minutes.] | *Void damage lands on containment, not bodies — numbness takes names and faces first, and in Year 4233 that cost the response eleven minutes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the build bearing crosses a standing partition. |
-| { *The Full Cycle* [**Attack**] } | "There is no cycle of build and collapse. The sheet moves when this facility writes to somebody that what they were given is equivalent to what they lost." | [A gain of twelve panels or more opens a documents search: which notices went out that fortnight, and how many carried the equivalence formula. It has succeeded twenty-six times out of twenty-nine.] | *The surge is ink, not energy: one word in one letter, served weeks after the dust settled by an office acting in good faith.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When notices carrying the equivalence formula are served. |
-| { *The Eternal Cycle* [**Ultimate**] } | "Eleven hundred notices, one word, a hundred and thirty-three panels in two months. Four years of named losses: thirty-eight." | [No loop extends anywhere. The plan has tracked the notice return for seven years and never once tracked the work done at the Market.] | *Void erosion across everyone named in no order, rehoused adequately and within eight weeks, with the parcel number the only identifier carried forward.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the facility substitutes a formula for a named loss at scale. |
+| Event | What the ruin does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Brick* [**Register**] } | Builds a different part of the room every time it manifests, and the facing decides which part. In sixty years it has never built the same part twice. | Posts the sheet officer, counts the hatched panels, and writes the number before anything else happens. | The panel count is the register: sixty-one baseline, thirty-eight to one hundred and seventy-one across the record. Nothing is hatched on inference, which is the one rule that makes the sheet worth keeping. |
+| { *The Accelerating Build* [**Exposure**] } | Furnishes rather than angers — a door where a door would obviously go — and the worker begins completing the room, each completion indistinguishable on the sheet from a genuine memory. | Circles every supplied detail and hatches only what the worker held before the session; the sheet officer, not the worker, decides which is which. | This is the only known way to corrupt the instrument and it is done by people trying to help. That sentence is why the record has a sheet officer in it at all, and why the officer's judgement is not appealable on the day. |
+| { *The Falling Stone* [**Refusal**] } | Strikes nobody. What it does instead is build across a bearing, so that whatever was standing where the lost house had a doorway stops being a wall and the holding behind it stands open. | Reads the bearing off the last session log and clears that line first, before the build reaches it. | Twice the holding behind the partition stood open for several minutes, and in Year 4,233 that cost the response eleven minutes. The row is titled for a stone and describes a wall that is no longer where it was — which is why the reading is a bearing and not a blow. |
+| { *The Full Cycle* [**Overload**] } | Adds twelve or more panels in a fortnight, and the surge that follows is ink rather than energy: one word in one letter, served weeks after the dust settled, by an office acting in good faith. | Opens a documents search for the notices that went out in that fortnight, and counts how many carried the equivalence formula. | The holding answers a sentence that says what somebody was given is equivalent to what they lost. Twenty-six of twenty-nine searches have found the letter; the other three are in the file as unresolved and are not written off as failures. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The plan sheet comes out first. One hundred and eighty-four gridded panels, hatched where the figure has built that part of the room at least once, blank where it never has. Count the hatched panels and write the number before anything else happens. Sixty-one is baseline; the recorded range is thirty-eight to one hundred and seventy-one.
-2. **Clash:** Flerehan and Ferrehan lower the gauge; Pugnahan raises it and has never once been authorised twice in a session. The figure builds while the team works, and whatever it builds is hatched onto the sheet in the moment, not reconstructed afterwards from memory, for reasons the wing considers too obvious to argue.
-3. **Resolution:** The documented suppression condition: **Wake with an anchor and preserve the memory without rebuilding it.** The worker may hold the room. The worker may not supply a missing part of it. Supplied detail hatches a panel that nobody remembers, and panels hatched that way have never gone blank again.
+1. **What is confirmed:** the panel count and the baseline, the build bearing from the last session log, and the notices served in the preceding fortnight.
+2. **What the watch does:** Flerehan for the portion the worker genuinely holds and Viderehan for which parts are memory and which are invention, with Ferrehan for leaving the ruin, and every supplied detail circled rather than hatched.
+3. **How it closes:** the close is the file's documented condition: **Wake with an anchor and preserve the memory without rebuilding it** — and the close is a worker who can leave the room without finishing it.
 
 ### Consequences
 
@@ -128,7 +113,7 @@
 | Work Type | Response | Gauge Change |
 |---|---|---|
 | **Flerehan** | Rebuilds a gentle portion of the remembered room. | Decrease |
-| **Pugnahan** | Collapses and throws dream debris. | Increase |
+| **Pugnahan** | Collapses what has already been built and scatters the debris across the floor — nothing is thrown at anybody, and the reading climbs on the collapse. | Increase |
 | **Viderehan** | Reveals which parts are memory and which are invention. | Stable |
 | **Ferrehan** | Tests whether the worker can leave the ruin. | Decrease |
 
