@@ -8,6 +8,28 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Thinking Engine, read from end to end (2026-11-01)
+
+Owner: *"Also refine/overhaul some SE in more ways — and remember, when it says fix everything, that means fix everything in one file: every section that does not make logical sense and does not connect."*
+
+One dossier taken through every section rather than one defect. [Thinking Engine](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md) is an `O-Relic` that had six contradictions standing at once, each in a different section, and no two of them visible from the same page.
+
+**The classification against the Movement row.** `Entity Type` said *Can breach via Transform*; `Movement` said *fixed apparatus, incapable of moving itself*; the section's own `Breach Type` said *expansion — of processing, not of form*. All three had been on the file together. The cell now reads *Non-breaching: expansion only* with that evidence, and `## Breach Behavior` is `## Containment Event Behavior`.
+
+**The flavour quote asserted the escape the file denies.** *"Thinking Engine has broken free. The lament mind spreads."* — a quote in a dossier whose housing cannot move. It now reads *"Thinking Engine is extending into the sector's work. The housing has not moved, and the figures coming back are not the ones that were sent."* R-28's third pass corrected quotes of exactly this shape; this one survived it.
+
+**A combat record for an object with no blow to strike.** Five combat actions were costed against a desk-sized apparatus whose pressure is a conclusion arriving in the reader's head, and the ATK row sold it as *17–23 per hit · Lament*. It is now a Contact Record in the relic grammar: mode of presence, what is perceptible, a `Handling` row (nobody lifts it, nobody stops it, tray covered before anything else), four contact events drawn from the file's own counts — 94 of 211 sheets naming somebody in the chamber, 61 verified outputs with 58 correct, nine sealed sheets concerning serving staff — and a watch sequence closing on the file's own condition.
+
+**A template resolution replaced by the file's own.** The old row read *Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved*, which says nothing the Work Type table has not already said. The condition the file actually documents is that interrupted work is what it reaches for, so the close is now **the work in front of it completed by hand and left where the lens can see it finished** — and it is written in the `suppression condition:` form the R-29 checker reads.
+
+**Two `### Escalation Notes` in one file.** The containment-event block carried one and the relic profile carried another, overlapping and disagreeing about what escalation is. They are now one: containment priority (halt computation; an idle sector offers it nothing to extend into), the gauge's behaviour (rises with altered returns, falls when they are traced and corrected at source), what to record, and the response sequence.
+
+**The flat quartet deleted.** `**Activation Trigger:**`, `**Effect:**`, `**Duration:**` and `**Risk:**` repeated the four cells of the `Tool Use Profile` underneath them. Deleting them changed no fact, which is the test for a duplicate rather than a summary.
+
+**Codex synced.** [Thinking Engine's Side Codex](SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/904_Thinking_Engine/SE-904-A__SIDE_CODEX_Thinking_Engine.md) carried the same two defects the dossier had: *Can breach via Transform* in the Type row, and *17–23 per hit · Lament* in the Gauge / Pressure row. Both now describe the pressure the holding actually applies.
+
+**Checks:** `wikistd` 301/301 · `label_lint` 301 · `check_stat_bands` PASS (213 straddling) · `check_links` 0 broken · `breach` SE 41.6%, all floors met.
+
 ## Corruption and expansion, on the record: twenty-three dossiers stop claiming a breach (2026-11-01)
 
 Owner: *"[p] + more non-breaching like corruption and more else, and also refine/overhaul some SE in more ways — and when it says fix everything, that means fix everything in one file, every section that does not make logical sense and does not connect."*

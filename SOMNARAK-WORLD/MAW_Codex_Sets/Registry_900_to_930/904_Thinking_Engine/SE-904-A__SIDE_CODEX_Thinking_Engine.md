@@ -19,10 +19,10 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIIγ-904 [LO] |
-| Type / Manifestation | Object — Can breach via Transform / Object-Mind |
+| Type / Manifestation | Object — Non-breaching: expansion only; the processing extends into nearby work and the housing cannot move / Object-Mind |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-C-904, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / 17–23 per hit · Lament |
+| Gauge / Pressure | 500/500; starts 35–50% / no hit band — the pressure is a conclusion arriving in the reader's own register |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

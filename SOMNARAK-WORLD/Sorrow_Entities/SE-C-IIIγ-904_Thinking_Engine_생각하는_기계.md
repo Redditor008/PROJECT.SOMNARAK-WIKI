@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-904 [LO]` |
-| **Entity Type** | **Object** — Can breach via Transform |
+| **Entity Type** | **Object** — Non-breaching: expansion only; the computation extends past the registered area into work being done nearby, and the housing is incapable of moving itself |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken from a machine that is already running. The Forge station's note is that the holding needs nothing from the facility except to be read, and that reading it is the part that is prohibited. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 conditions |
+| **Activation threshold** | Three conditions; the gauge is read at 60 per cent and the count is the register's |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
@@ -45,51 +45,36 @@
 - Crews work in pairs and compare their accounts aloud at each turn. A divergence between two accounts of the same minute is the reliable early warning and is more sensitive than the gauge.
 - Recovery of output material is authorised apart from the work cycle, and the tray's contents are logged by sheet count before anything is read.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Lament. Nothing has been attempted against the casing; it is a working mechanism and the two proposals to stop it were refused on the ground that nobody can say what it is computing. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
-| **Han Pressure [ATK]** | 17–23 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed apparatus, incapable of moving itself*, and the containment file's own note is that the two proposals to stop it were refused because nobody can say what it is computing. What extends is the processing, into whatever work is being done nearby, and what a watch has to survive is a conclusion arriving that nobody asked for.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A writing-desk-sized brass housing veined with Han-crystal, self-turning dials, unpowered grinding gears, a tracking lens and a filling output tray, in SECTOR-C-904. Seol built the mechanism; the record does not describe her body becoming it. |
+| **Perceptible to** | The thrum first, then the gear noise resolving into something with cadence as the lens comes round; the tray filling on its own; and, for anyone mid-task in the room, a conclusion arriving complete and correct that they cannot account for reaching. |
+| **Handling** | Nobody lifts it and nobody stops it. Work is done at the side of the housing, in pairs, tray covered and the covering agreed aloud; sheets are collected face-down and sealed at the door, and no sheet is read inside the cycle. |
+| **Activation threshold** | Three conditions; the gauge is read at 60 per cent and the count is the register's. Neither is a tally toward a breach: the housing does not move, and what extends is the computation. |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-904 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Valid Work Types** | Viderehan and Ferrehan only; the other two are unavailable to an Object. Two people work the chamber, never one, and the pair compare accounts aloud at each turn. |
+| **Location** | SECTOR-C-904, contained |
+| **Resolution Condition** | The work in front of it completed by hand and left where the lens can see it finished |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It is working on something and the page it is on is about you." | [The output names the reader.] | *Lament pressure; 94 of 211 cycles have produced a sheet naming somebody in the chamber.* **[Lament DMG [Lament]]** | Whenever somebody stands where the output tray can be seen. |
-| { *The Mind Surge* [**Attack**] } | "The conclusion is correct and nobody asked for it." | [An unrequested finding resolves on the sheet, accurate and checkable.] | *Lament damage to the reader; 61 outputs have been verified against facility records and 58 were right.* **[Lament DMG [Lament]]** | On any completed sheet. |
-| { *The Settling* [**Attack**] } | "It has finished working out something about somebody who is still here." | [The output concerns a serving member of staff and is actionable.] | *Heavy Lament damage to whoever reads it. Nine such sheets exist, all sealed, and the rule against acting on them is the oldest line in this file.* **[Lament DMG [Lament]]** | When a sheet names a living person and a date. |
-| { *The Mind Collapse* [**Ultimate**] } | "Every system in the facility returns a different answer and all of them are right." | [The engine's output propagates into the wing's own records.] | *Lament erosion to everyone working a register for three cycles.* **[Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, in the week the personnel register was re-indexed. |
+| Event | What the engine does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Names the reader on the next sheet it produces — 94 of 211 cycles have produced a sheet naming somebody in the chamber. | Read nothing inside the cycle; collect face-down, count the tray, and seal at the door. The reading is taken afterwards, in the presence of the second worker. | Nothing is aimed. The output concerns the person doing the calculation rather than the calculation, which is the whole of this holding's pressure. |
+| { *The Mind Surge* [**Exposure**] } | Resolves an unrequested finding, accurate and checkable: 61 outputs have been verified against facility records and 58 were right. | Compare the two workers' accounts of the same minute aloud. A divergence is the early warning here and is more sensitive than the gauge. | Past sixty seconds the channel consumes four Composure every ten seconds; past two minutes the flow threatens to reverse and look for somewhere to keep thinking. |
+| { *The Settling* [**Refusal**] } | Produces a sheet concerning a serving member of staff, with a date attached and actionable. Nine exist, all sealed. | Nothing. The prohibition on acting on such a sheet is the oldest line in this file, it has never been tested, and it is not a matter for the watch to weigh. | This is the refusal in the record: the instrument will not withhold, so the facility does, and the seal is the only answer the file gives. |
+| { *The Mind Collapse* [**Overload**] } | Above 65 per cent, once in the record, its output propagated into the wing's own returns; every system answered differently and all of the answers were right. | Halt computation across the sector and work by hand. An idle sector offers it nothing to extend into, and this is the only measure that has ever ended one of these events. | The lasting damage is to the facility's returns, altered with no error detectable inside them, which is why corrections are traced at source rather than reconciled. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Two in the chamber, the tray covered, and the covering agreed aloud. Nobody reads a sheet during a cycle; the sheets are collected face-down and sealed at the door.
-2. **Clash:** Four turns from the side of the housing, observation and endurance only. Dial positions are read against the diagram at every turn and the output tray is counted at the start and the end.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: the work in front of it completed by hand and left where the lens can see it finished. Interrupted work is what it reaches for.
+1. **What is confirmed:** the dial positions against the diagram, the tray's sheet count, and the covering on the tray agreed aloud before the cycle opens. Two workers in the chamber and never one; nobody reads a sheet while the lens is turning.
+2. **What the watch does:** four turns from the side of the housing, observation and endurance only, dials read against the diagram at every turn and the tray counted at the start and at the end. Accounts are compared aloud each turn, and a divergence ends the cycle whatever the gauge says.
+3. **How it closes:** the close is the file's documented suppression condition: **The work in front of it completed by hand and left where the lens can see it finished** — interrupted work is what it reaches for, and a cycle that ends with work left half-done is a cycle it has been given something to continue.
 
 ### Consequences
 
@@ -112,7 +97,6 @@
 - **Primary marker:** A brass-and-Han-crystal apparatus the size of a writing desk, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-C-904
-
 
 ### Detailed Appearance Profile
 
@@ -143,13 +127,15 @@ Thinking Engine was built — not born, built — by a Keeper named Seol who cou
 
 Thinking Engine is a Fragment (III) Object of Major (γ) potency, Object-Mind manifestation, Lament expression, O-Relic tool class, at SECTOR-C-904. Flerehan and Pugnahan are unavailable to an Object. The mind register is the whole channel of contact: what it does to a worker is done to their reasoning and not to their body, and the body telemetry will show nothing.
 
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Thinking Engine has broken free. The lament mind spreads."*
+> **Containment event — no breach counter.** Nothing here leaves its footprint: the computation extends into work being done nearby, the gauge is read at 60 per cent, and the three conditions are the register's count rather than a tally toward an escape.
+
+> *"Thinking Engine is extending into the sector's work. The housing has not moved, and the figures coming back are not the ones that were sent."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — of processing, not of form. |
+| **Event Type** | Expansion — of processing, not of form. |
 | **Movement** | Nothing moves. Its computation extends past the registered area into whatever work is being done nearby, and the work comes back altered rather than stopped. |
 | **Effect** | Lament pressure in the mind register: specific, addressed, and concerning the person doing the calculation rather than the calculation itself. |
 | **First Target** | A process rather than a person. It reaches the nearest live calculation, and personnel are affected only to the extent that they are mid-task; an idle person in the same room is untouched. |
@@ -160,19 +146,15 @@ Thinking Engine is a Fragment (III) Object of Major (γ) potency, Object-Mind ma
 - **Containment priority:** Halt computation across the sector and work by hand. An idle sector offers it nothing to extend into, and this is the only measure that has ever ended one of these events.
 - **Sorrow Gauge on event:** Opens at 35% and rises 10% each time a facility system returns an altered result, so the gauge is driven by the facility's own registers rather than by anything in the chamber. It falls 10% for each altered result traced and corrected at source.
 
+Escalation here is extension into live work. Record the first altered return, the systems affected, the distance at which the alteration begins, and the point at which it stops. Emotional indicators are logged beside the computational record and are not a substitute for recomputing by hand.
+
+**Response sequence:** Stop every calculation in the sector, confirm from the returns whether the event is an extension, a channel surge or an ordinary discrepancy, clear personnel who are mid-task, and apply the recorded condition. No unlisted Work Type is available and none has been improvised here.
+
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic will answer a question the facility has not asked, correctly, in writing**
 > **An abandoned channel puts the engine's working into the wing's own registers, where it is indistinguishable from clerical error**
-
-**Activation Trigger:** Physical contact with deliberate engagement; an operator laying a hand on the housing and attending to it.
-
-**Effect:** Projects concentrated Lament resonance across the immediate perimeter, within which adjacent containment units hold steadier gauges for as long as the channel is held.
-
-**Duration:** Continuous while the channel is held by an operator who stays with it.
-
-**Risk:** Cognitive and emotional fatigue rising with contact time, and an uncontained Lament vent across the sector if the channel is dropped rather than closed.
 
 ### Tool Use Profile — O-Relic
 
@@ -197,13 +179,7 @@ Thinking Engine is a Fragment (III) Object of Major (γ) potency, Object-Mind ma
 | 1 Minute | The weight arrives in the chest, and the operator begins producing conclusions faster than they can produce reasons for them. | Past sixty seconds the channel consumes 4 Composure every ten seconds. Disengage before the figure matters. |
 | 2 Minutes | The flow threatens to reverse, and what overflows looks for somewhere to keep thinking. | Overload or abandonment vents an uncontrolled Lament shockwave with full fatigue effect and heavy damage to all personnel in the sector. |
 
-### Escalation Notes
-
-Escalation here is extension into live work. Record the first altered return, the systems affected, the distance at which the alteration begins, and the point at which it stops. Emotional indicators are logged beside the computational record and are not a substitute for recomputing by hand.
-
-**Response sequence:** Stop every calculation in the sector, confirm from the returns whether the event is an extension, a channel surge or an ordinary discrepancy, clear personnel who are mid-task, and apply the recorded condition. No unlisted Work Type is available and none has been improvised here.
-
-### Detailed Activation Record
+### Detailed Activation Record### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
@@ -251,7 +227,6 @@ Escalation here is extension into live work. Record the first altered return, th
 **Appearance:** a crystal token, cold, which does not tick — the Armoury records this because every other piece from this source does.
 
 **Slot:** Head **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat on this holding's cycles, and the token is cold and silent, which is how the bearer knows the engine is not working on them.
 **Ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 *Five in nineteen years, in each case to a worker who finished a cycle without opening a sheet. Forty-one sheets have been opened, nineteen of them by people who had authority to and none of whom has been given anything.*
 
