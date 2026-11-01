@@ -99,9 +99,9 @@ The side-by-side worldbuilding comparison and the six contact geometries a story
 
 Designations convert by **assignment**, never by arithmetic.
 
-- **LC → PS.** An incoming Abnormality's LC code is recorded as an **alias** in the SECC profile. The SECC code itself is built from Somnarak fields and follows `SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]` — example `SE-C-IVβ-069 [WS]`. Origin reads `C` City Sorrow · `N` Inner Sorrow · `O` Outside Sorrow; the bracket carries the Element initial (`L` Lament · `G` Grudge · `W` Weight · `V` Void · `M` Mixed) and the physical type (`S` Subject · `O` Object · `P` Place · `T` Time · `H` Hazard). Nothing in it is transliterated from the LC code.
+- **LC → PS.** An incoming Abnormality's LC code is recorded as an **alias** in the SECC profile. The SECC code itself is built from Somnarak fields and follows `SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]` — example `SE-C-IVβ-069 [WS]`. Origin reads `C` City Sorrow · `N` Inner Sorrow · `O` Outside Sorrow; the bracket carries the Element initial and the physical type (the initial is the element the record **leads with**, so a body filing all four reads by its first-listed element — `C-Vω-001 [LS]` — and `M` is used only where the record files Mixed with no leading element, as `C-Vδ-949 [MS]` does) and the physical type (`S` Subject · `O` Object · `P` Place · `T` Time · `H` Hazard). Nothing in it is transliterated from the LC code.
 - **PS → LC.** The transported code `X-YY-0###` is built under **Section II of the [Universal Sorrow Entity to Abnormality Conversion Table](PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md)**: category letter from Sorrow Category, Origin and The Tale; class number from Entity and Tool Type, Physical Form and Appearance, with the current body governing; serial is `0` plus the SECC number, assigned once and never renumbered.
-- **The case studies in Section X predate the designation law.** They pair codes by hand (`F-01-69` → `SE-C-IVβ-069 [WS]`). Read them as worked precedents, not as a numbering rule, and apply the overhaul's Section II to any new conversion so the two archives stay mutually retrievable.
+- **The case studies in Section X predate the designation law, and two of the four are not filed records.** They pair codes by hand (`F-01-69` → `SE-C-IVβ-069 [WS]`), and the codes in §X.1 and §X.2 — `SE-C-Iα-033` and `SE-C-IVβ-069` — do not exist in the registry: they are worked examples of the arithmetic, kept for the reasoning and not for the files. The other two do resolve: §X.3 is `SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md` and §X.4 is `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md`. Read all four as precedents, not as a numbering rule, and apply the overhaul's Section II to any new conversion so the two archives stay mutually retrievable.
 
 ### III.4 Reading a transported Sorrow Entity backwards
 
@@ -389,7 +389,7 @@ The counterpart is the keeper, and it is the harder case, because a file that ke
 
 > **Why this file keeps combat actions.** {{the one thing in this file that can be met, held or withstood, and why dropping the rows would leave a warden without an account of it.}}
 
-Eight files in the archive kept a Combat Record under a non-breaching cell and gave no reason; seventeen kept one and gave a reason. The eight now say why in their own terms — the chains whose body has never moved and which close on a worker where they stand, the room that has no position that could be approached, the flood that has to say what a flood costs somebody standing in it. A keeper note is a reason, never a label, and never *this entity is stationary* on a file whose Movement row already says so.
+Twenty-seven records in the archive carry a keeper note today. Eight of them kept a Combat Record under a non-breaching cell and gave no reason at all; those eight now say why in their own terms — the chains whose body has never moved and which close on a worker where they stand, the room that has no position that could be approached, the flood that has to say what a flood costs somebody standing in it. A keeper note is a reason, never a label, and never *this entity is stationary* on a file whose Movement row already says so.
 
 
 ---
@@ -439,7 +439,7 @@ The rule for a conversion is mechanical: **write the Ability first, then read it
 
 Two mechanical checks before committing a cost line: `grep` the sentence against `SOMNARAK-WORLD/` and expect **one** hit; and confirm that if the Ability line were deleted, the Cost line could not be written. A cost that survives its own ability's removal is a stock sentence with a new subject.
 
-The same rule governs the item pages' `**Operational / binding cost:**`. It states, in two clauses, what one use takes and what continued use does — and that second clause is the one the archive is still converting, because 345 item records carried the identical tail *Continued use makes {{source}}'s sorrow feel autobiographical*. A tail that appears on every record is not a behaviour; it is a template artefact wearing a warning's clothes.
+The same rule governs the item pages' `**Operational / binding cost:**`. It states, in two clauses, what one use takes and what continued use does — and the second clause is where 345 item records once carried the identical tail *Continued use makes {{source}}'s sorrow feel autobiographical*. A tail that appears on every record is not a behaviour; it is a template artefact wearing a warning's clothes. That tail is now at **zero** across the archive, and the two mechanical checks below are what retired it.
 
 
 ---
@@ -485,6 +485,8 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 
 ## Section X: Case studies
 
+> **Status of these four (checked 2026-11-02).** §X.3 and §X.4 resolve to files in `SOMNARAK-WORLD/Sorrow_Entities/`; §X.1 and §X.2 are worked examples whose designations were never filed — they are here for the arithmetic and the reasoning, and the codes should not be searched for. Every worked number in all four does check out against this guide's own tables.
+
 ### X.1 ZAYIN / TETH Subject
 
 - **PM source:** *One Sin and Hundreds of Good Deeds* (O-03-03, ZAYIN).
@@ -508,7 +510,7 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 - **PM source:** *Apocalypse Bird* (ALEPH).
 - **PS entity:** `SE-C-Vω-001 [MS]` *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*).
 - **Terminus to terminus.** The source is a Special Abnormality — what the three birds produce — and the conversion is the Kind Healer's. Neither was ever acquired, so neither takes a work loop; §VII.4 governs both, and the pair is the cleanest terminus-to-terminus read in the file.
-- **Profile:** City Sorrow `C-`, Rank V Sovereign, Grade ω Catastrophic, Mixed element (cycles Crimson, Blue, Black, Pale White).
+- **Profile:** City Sorrow `C-`, Rank V Sovereign, Grade ω Catastrophic, all four elements — Lament, Grudge, Void and Weight — with Lament leading, which is why the bracket reads `[LS]` and not `[MS]`.
 - **Durability:** Sorrow Gauge 12,000/12,000, run as a multi-phase sovereign raid.
 - **Mechanics:** three targetable core organs — the Beak of Hunger, the Scales of Debt, the Blind Lamp — and destructible limbs that require synchronised interception across the ten nodes.
 - **M.A.W.:** *Twilight of Mugenhan*, Grade ω sovereign armour covering all four protections.

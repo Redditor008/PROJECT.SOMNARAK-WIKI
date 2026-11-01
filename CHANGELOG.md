@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Conversion Guide, audited line by line (batch 84)
+
+The guide was read whole and every claim it makes about the archive was tested against the archive. Four statements did not survive:
+
+- **Two of its four worked case studies point at codes that do not exist.** §X.1 cites `SE-C-Iα-033` *The Whispering Confessional* and §X.2 cites `SE-C-IVβ-069` *The Marksman of the Seventh Watch*; the registry holds neither, and `SE-033` is the Guarding Bird. The other two resolve — `SE-C-Vω-001` and `SE-N-IIβ-319`. Both sections are legitimate worked examples, so they stay, but Section X now opens with their status and §III.3 no longer calls all four filed precedents.
+- **The bracket law and the archive disagreed on the Dawn of Mourning.** The guide wrote `SE-C-Vω-001 [MS]`; the dossier, and the Forgotten God `C-Vδ-265`, both read `[LS]` because they file **all four elements with Lament leading**. The archive is right: `M` is for a record that files Mixed with no lead, as the Stormscale Sovereign `C-Vδ-949 [MS]` does — one precedent that covers all four files. The guide's bracket law now states the leading-element rule and §X.3 reads `[LS]`.
+- **The guide described a finished job as in progress.** §VIII.4 said the `Continued use makes … sorrow feel autobiographical` tail was *the one the archive is still converting*. It is at zero. The section now says so and points at the two checks that retired it.
+- **A count that had drifted.** §VII.6 gave eight plus seventeen keeper notes; there are twenty-seven records carrying one today. The sentence now states the count that can be re-run.
+
+**What checked out.** Both tools it invokes exist (`tools/breach.py`, `tools/section_logic.py`). Every working number in the four case studies is right: `IV + β = 6` → HE, `ceil(80 ÷ 1.8) = 45` against the HE attack band 18–35, a 220 Gauge and 08 Pressure inside ZAYIN, 720 inside the HE 500–750, 12,000 at the ALEPH ceiling; `V + ω = 10` → ALEPH; `II + β = 4` → TETH for a TETH tool. Its stat bands, tier cut-offs and two-work-type law match `tools/check_stat_bands.py` and `tools/section_logic.py`, which are what the gate runs. Its links resolve.
+
+**Gate:** `check_links` 0 broken · `seam_lint` 100.0 %.
+
 ## Twelve records, four sources (batch 83)
 
 `SE-852` Conservatory, `SE-863` Empty, `SE-869` Returning, `SE-874` Bridge of the Unchosen — **twelve records, thirty-six sentences.** The Conservatory Plate holds resonance while its wearer can still move out of the shape they were hit in; the Empty Veil needs the wearer to be findable in one of their own memories; the Permafrost Star-Ring loses its set the moment a strike is thrown from where the wielder is actually standing.
