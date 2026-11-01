@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Two secondary moves for the Walking District (2026-11-01)
+
+Owner: *"Add in secondary two new combat move that only the Walking District can do — Judgment Claw, and Judgment Sight."*
+
+The event form had a body and no moves, and it now has two. Both are filed in the Combat Actions table as **secondary** and **event-form only**.
+
+- **Judgment Claw** — the clawed hand comes down as a placement rather than a swipe. Reach is one district-block; structural Grudge **55–90** with **Instant Fracture on a critical**, drawn from the entity's filed 44–111 pressure line rather than invented beside it. The street it lands in becomes part of the figure, and there is no cover inside the perimeter that is cover.
+- **Judgment Sight** — the eyes belong to the thousand, not to the figure, and they open in the middle of the mouth. No damage: it marks by name everything within earshot, including the people who have not spoken, and the mark does not drop. Silence after the fact is not cover, and a marked target takes no defence roll against the Claw that follows.
+
+**The two are tied to each other and to what was already filed.** The Sight is how the figure finds, which is the district's own sixty-year habit of leaning toward sound carried into a body with no eyes; the Claw is the two clawed hands, the only part of the figure that reaches. The Sight marks, the Claw collects.
+
+**What the entry refuses.** It refuses a third move, a work loop and a sighting. Neither move exists while the designation reads `C-IVω-001 [GP]` — the district has no hands, no eyes and no reach — and a scope note under the table says a report describing the district striking or looking has described the wrong shape. Neither move has been observed used, the form has never been witnessed walking, and the standing response to a manifested Walking District remains withdrawal.
+
+**Superseded in place.** Last entry's line — *the combat rows stay exactly as filed, because a shape is not a pattern* — was right when it was written and is now overtaken by the owner's direction. The Appearance States note, the *foundation, voices and registered figure* paragraph, the Trivia, the Codex, `R-08`, the Universal Table's Maw phase and the Conversion Guide's Protocol 01 all say the same thing in the same words: two moves, event-only, unseen, and no others.
+
+**Checks:** `seam_lint` 1,767 · `label_lint` 301 · `check_links` 3,995 / 0 broken · `audit_lore_archive` PASS · box symmetry PASS · `git diff --check` clean.
+
 ## The Walking District has a body on file (2026-11-01)
 
 Owner: *"The Walking District now, and its shape is monstrous — big jaw district with two enormous legs and claws like two hands; it doesn't have eyes but can see; its mouth is a hole with jagged sharp edges that keep moving like a sand-worm's mouth; and in the middle you could see a thousand blue glowing eyes."*

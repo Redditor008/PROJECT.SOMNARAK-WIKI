@@ -4,6 +4,8 @@
 
 **Owner record, 2026-11-01 — the event form now has a filed silhouette.** The owner supplied the Walking District's shape: a jaw the size of the district on two enormous legs, two clawed hands, no eyes and no need of them, a mouth that is a hole with a jagged rim working like a sand-worm's, and a thousand blue eyes at its centre. The dossier records it under Appearance States. This does not reopen the repairs above: those struck model-invented anatomy — an invented heart, dragging tar, a crushing strike — and the entry above is owner canon, entered with its provenance. The distinction is the whole of the difference, and the file now states it in place.
 
+**Same day, owner direction:** two secondary combat moves were filed from that silhouette — *Judgment Claw* (the clawed hand placed, structural Grudge, instant fracture on a critical) and *Judgment Sight* (no damage; the thousand's eyes open in the mouth and mark by name everything within earshot). Both are marked **event form only**, both state that no one has seen them used, and neither touches the Place form's five rows. The earlier sentence that the silhouette is *a body, not a battle* is superseded by the owner's own direction, not by a review inference.
+
 ## Changes made to the primary dossier
 
 - `R01-pressure-resilience` (short field correction)

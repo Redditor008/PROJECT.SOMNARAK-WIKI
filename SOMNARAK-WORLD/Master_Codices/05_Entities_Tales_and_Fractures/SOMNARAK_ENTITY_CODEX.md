@@ -151,7 +151,7 @@ Certain extraordinary Sorrow Entities possess unstable or dual physical classifi
 
 1. **Place → Subject Metamorphosis (The Maw Archetype):**
    - **Baseline Contained Designation:** `C-IVω-001 [GP]` (Place-Tale / Stationary District in Zone B).
-   - **Breaching Subject Designation:** `C-IVω-001-B [GS]` (Breaching Subject-Tale / The Walking District). The event silhouette: a jaw the size of the district on two enormous legs, two clawed hands, no eyes, and a mouth that is a working hole of jagged edge with a thousand blue eyes at its centre.
+   - **Breaching Subject Designation:** `C-IVω-001-B [GS]` (Breaching Subject-Tale / The Walking District). The event silhouette: a jaw the size of the district on two enormous legs, two clawed hands, no eyes, and a mouth that is a working hole of jagged edge with a thousand blue eyes at its centre. Its two filed moves are event-form only and secondary — *Judgment Claw* and *Judgment Sight* — and neither has been observed in use.
    - **Operational Parameters Shift:** In its contained state (`[GP]`), only **Viderehan** and **Ferrehan** are valid (Two-Work-Type Rule). Upon containment failure, the architectural boundaries, whispering masonry, and tar detach from the bedrock, coalescing into an active, mobile colossal titan. In this breaching state (`[GS]`), all four Work Types become active combat vectors.
 
 2. **Sequential Phase Metamorphosis (Stage Progression):**

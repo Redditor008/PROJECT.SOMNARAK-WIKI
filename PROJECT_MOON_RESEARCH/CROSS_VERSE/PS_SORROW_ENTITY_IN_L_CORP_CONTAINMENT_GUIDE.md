@@ -1117,6 +1117,7 @@ When a **Place-Tale Sorrow Entity** breaches in Lobotomy Corporation (most notab
 - The architecture detaches from the subterranean bedrock. The whispering masonry, pipes, and tar coalesce into a single jaw-shaped mass on **two** enormous legs, with two clawed hands at its front, no eyes, and a mouth that is a working hole of jagged edge with a thousand blue eyes at its centre (the dossiered event silhouette).
 - Its SECC code shifts from `[GP]` (Place) to `[GS]` (Breaching Subject).
 - It enters the main departmental corridors as an **ALEPH-class mobile colossus**.
+- Its only two filed moves are secondary and event-only: *Judgment Claw* (structural Grudge, 55–90, instant fracture on a critical) and *Judgment Sight* (no damage; it marks by name everything within earshot, and a marked target takes no defence roll against the Claw). Both come from the filed silhouette — the clawed hands and the thousand eyes in the mouth — and neither has been observed in use.
 
 #### Phase 3: Suppression Doctrine
 - **Work Rule Shift:** While mobile, the entity can now be engaged with direct kinetic weaponry (Repression / Pugnahan) and empathetic counter-resonance (Attachment / Flerehan).
