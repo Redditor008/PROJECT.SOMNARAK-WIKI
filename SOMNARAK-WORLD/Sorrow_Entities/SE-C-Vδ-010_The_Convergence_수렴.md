@@ -162,7 +162,7 @@ No Work Type has ever been applied to the fused form and the table is retained f
 | **Breach Type** | Escape |
 | **Movement** | Floating and stationary. It has never moved during a formation and has never attempted to escape; it comes into existence where the three Birds already are and ceases when they are parted. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
+| **Secondary Effect** | Three Birds in one formation and the district's grief is the field they keep it in. What presses is the weather being made of what people owe each other. |
 | **First Target** | Whoever is holding the Weighting Bird. In all three formations the fused mask turned toward that team first, and the station has rotated the post monthly since the second. |
 | **Escalation** | Each turn free, Resolve drain +5 until suppressed. |
 

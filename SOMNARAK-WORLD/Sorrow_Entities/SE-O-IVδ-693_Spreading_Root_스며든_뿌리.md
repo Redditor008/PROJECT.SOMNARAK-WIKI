@@ -153,7 +153,7 @@ The four responses divide into opening and carrying, and the division is the who
 | **Breach Type** | Escape |
 | **Movement** | Spreading Root extends rather than flees: the beast-form drags onward while the threading thrashes through floor and wall. It grasps at ankles, dragging personnel down. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
+| **Secondary Effect** | The roots thread into floor and wall as it passes and the structure answers by getting heavier. What presses is the building, and the building is now partly the entity. |
 | **First Target** | Whoever is standing on ground with something buried under it. |
 | **Escalation** | Drain rises by 5 for each additional room the threading reaches, not for each turn elapsed; a Root that is spreading slowly escalates slowly. |
 

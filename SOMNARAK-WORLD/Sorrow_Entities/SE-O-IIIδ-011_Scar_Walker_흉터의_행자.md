@@ -171,7 +171,7 @@ Responses here are conduct, not technique: the same lowered weapon reads one way
 | **Breach Type** | Escape |
 | **Movement** | Mobile — walks upright along its patrol and keeps pace behind visitors; an undismissed escort follows them beyond the Scar, while desecration makes it close the distance. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Secondary Effect** | The fury is not aimed at the barrier; the barrier is simply in the way of the last person who stood on the rift. It goes through cordons the way it goes through the party, in a straight line and without stopping. |
 | **First Target** | Whoever in the party last stood on the rift itself. |
 | **Escalation** | Drain rises by 5 for each marker of the site left behind as the escort continues, and stops rising the moment the party turns back toward the Scar. |
 

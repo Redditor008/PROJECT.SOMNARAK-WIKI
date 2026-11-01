@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The last three stock breach effects (2026-11-01)
+
+**Sixteen more secondary-effect and effect rows** came off the same list as the last pass, in four families that had been copied across the holdings: *"an oppressive mass that makes breathing feel like lifting"*, *"an absence that eats the edges of reality"*, *"the containment zone loses definition, colors fade, sounds vanish"*, *"a resentful fury that burns through containment barriers"*, *"a gravitational dread that accelerates debt and decay"*.
+
+They are now the holding's own consequence. The Perennial's spores settle behind it and the weight is in how much of the ground is growing. The Errant surfaces where the ground has nothing left to say. The Frozen Veil's distance comes off the room first, and the walls stop being a boundary and become a preference. The Collapsed Whisper burns the barrier's certainty about where it is, and cordons fail from the inside. Scar Walker goes through a cordon the way it goes through a party, in a straight line and without stopping.
+
+**Checks:** `seam_lint` PASS · `section_logic` 0 · `check_stat_bands` PASS.
+
+
 ## Breach rows that read like the holding they belong to (2026-11-01)
 
 **Forty-six Movement rows had one of two sentences.** Thirty files said *"Mobile — walks upright; can breach and pursue."* and sixteen said *"Mobile — drifts or flows through the area"* or *"moves as a creature (crawls, walks, slithers, or prowls)"*. The 26 files of the first group all carried a bespoke breach-movement row further down the same page, and in at least two cases that row said the opposite of the boilerplate: *Rising Wall* is described as standing beside grief and never pursuing, *Gavel* as walking to the room where a decision is being made and standing there. Every Movement row now says what the holding actually does, in the file's own terms — the Six-Fold Choir walks its route and stops at whoever is carrying the most, the Gavel walks and stands, the Barrier of Nothing walks out and is not recorded pursuing anything.

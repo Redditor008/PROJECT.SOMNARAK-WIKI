@@ -153,7 +153,7 @@ The table is accurate and incomplete in a way the wing has stopped trying to fix
 | **Breach Type** | Escape |
 | **Movement** | Errant descends through floors rather than hunting along corridors. Its reaching and downward drag remain hazards; record the affected floor and the lowest unoccupied storage level. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
+| **Secondary Effect** | It comes up through the floor and goes back down, and whatever it reached for stays heavy. The weight is the ground's, and the ground is the part of the district that was removed twice. |
 | **First Target** | The person in the room who has been posted to this facility for the shortest time, in 34 of 37 logged reaches. The three exceptions were all workers who had transferred in from another district that month and whose posting length, on paper, was long. |
 | **Escalation** | +5 Resolve drain per cycle while it is loose, and a steady descent: in both breaches it went downward through floors rather than along corridors, and both ended in the sub-levels with the root motionless in a storage room nobody had unpacked. |
 

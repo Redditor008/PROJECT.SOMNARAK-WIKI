@@ -156,8 +156,8 @@ Fading Whisper is a Subject with Subject-Grudge manifestation and Void expressio
 |---|---|
 | **Event Type** | Transformation in place |
 | **Movement** | It stays where it is; the speech is what spreads. Half-heard sentences fill the corridors, each person hearing a different fragment, and nobody can agree afterwards on what was said. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
+| **Effect** | The ground where the erased place stood goes pale first, then quiet, then hard to look at directly. Nothing is taken from the room; the room is simply being drawn back toward the shape it had before. |
+| **Secondary Effect** | The erased place is still the shape of itself and everything near it is borrowed from that shape. Colours near the ground go first because the ground is what was erased. |
 | **First Target** | Whoever is closest to the position when the definition starts to go — the event does not move and does not seek anybody, and the speech is what spreads, so the affected are the people standing where the corridor used to be legible. |
 | **Escalation** | Each turn the zone is left to lose definition, the Clarity drain rises by 5 and the half-heard sentences lose whatever they had in common; nothing is answered, nothing is completed, and no responder repeats back anything they think they heard, because repetition is how the volume rises. |
 

@@ -160,8 +160,8 @@ The gauge table is not the containment measure here, and the file is unusually d
 |---|---|
 | **Breach Type** | Transform |
 | **Movement** | Survivors' Breath seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
+| **Effect** | The trail passes and the room behind it stops agreeing with itself: colours of two minds, sound arriving from the wrong side, one door where there were two. |
+| **Secondary Effect** | The pale trail is the only part of it that is anywhere. Where the voice passes, the edges of the room stop being edges and become things people agree about. |
 | **First Target** | Nobody is targeted. The breath crosses the nearest occupied rooms and thins them; the first wing to report loss of definition is whichever one holds the response, and the file records that the teams which notice first are usually the teams that have just come off a rotation. |
 | **Escalation** | The Clarity drain rises by 5 per turn for as long as nobody stands down, and stops rising the moment a rested replacement takes a position — a fall of 10% on the gauge at the same time. Suppression does not come from working harder; the remedy is the one the entity is made of, and the facility has to supply it. |
 

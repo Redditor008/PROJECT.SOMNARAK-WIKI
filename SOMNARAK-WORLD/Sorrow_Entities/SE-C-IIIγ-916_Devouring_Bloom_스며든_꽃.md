@@ -208,7 +208,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 | **Breach Type** | Escape |
 | **Movement** | It rampages on its root-legs and crashes through walls, slowly. The spores travel ahead of it and are the reason the breach is dangerous; the bloom itself can be outwalked. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
+| **Secondary Effect** | The spores hang where it has been and the wing's debts come due around the bloom. Nothing is accelerated; the bloom only makes the account legible. |
 | **First Target** | Whoever is downwind. The spores arrive before the bloom does, and infestation sets the order of casualties. |
 | **Escalation** | Each turn the bloom is left unworked its pressure grows and Resolve drain rises by 5. The bloom itself is slow; the counter is not, because the gauge climbs by 10% per worker infested rather than per turn, so a section holding 4 people climbs faster than the shift does. |
 

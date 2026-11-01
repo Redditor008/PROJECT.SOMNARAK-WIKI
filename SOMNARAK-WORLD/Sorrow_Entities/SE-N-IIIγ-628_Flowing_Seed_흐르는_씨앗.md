@@ -184,7 +184,7 @@ The escalation here is measured in metres rather than in turns. Record the advan
 | **Breach Type** | Escape |
 | **Movement** | Flowing Seed bursts free and crawls or slithers in search of prey. It plants itself in personnel, growing within. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
-| **Secondary Effect** | A gravitational dread that accelerates debt and decay. |
+| **Secondary Effect** | The seed drags its tendrils behind it and the surveyed pins fall behind faster than it moves. The district's debt is measured in what the seed has already gone past. |
 | **First Target** | The nearest person standing on ground it has crossed, or the one whose record carries a death nobody wrote down. The planting is not felt at the time and is found afterwards in the weight the person is carrying. |
 | **Escalation** | While it is free the ground keeps gaining weight and the Resolve drain rises by 5 per turn. Force has never reversed the advance; the only thing on record that has held it flat is the matter said aloud. |
 

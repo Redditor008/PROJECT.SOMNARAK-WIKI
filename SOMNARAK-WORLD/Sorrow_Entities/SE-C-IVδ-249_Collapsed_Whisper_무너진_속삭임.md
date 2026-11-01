@@ -155,7 +155,7 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 | **Event Type** | Transformation in place |
 | **Movement** | Expands as a volume rather than as a figure. Inside it, personnel cannot stop attending to something that is not being said; outside it, nothing happens at all. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Secondary Effect** | The whisper does not approach and is never at its last bearing. What it burns is the barrier's certainty about where it is — cordons fail from the inside, at the point somebody stopped believing the line meant anything. |
 | **First Target** | Nobody is selected. The affected volume takes whoever is standing in it, and the entity has never been observed to move toward a person. |
 | **Escalation** | For every turn the holding stays loose its pressure grows, and the Resilience drain adds 5 a turn until the watch ends it. |
 

@@ -162,7 +162,7 @@ The table's one surprise is Pugnahan, which raises the gauge and is still occasi
 | **Breach Type** | Escape |
 | **Movement** | The Span leaves its monitored loop with deliberate steps toward the heaviest carried load. Its recorded danger is the wreck and the structure accumulated along the route, not a bridge surface offered for crossing. |
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
+| **Secondary Effect** | The span takes the load off whoever is walking the loop and puts it on the corridor behind them. Breathing is heavy because the bridge is doing what a bridge does. |
 | **First Target** | Whoever is carrying the most — literally. It goes to the member of the team with the heaviest pack before it goes to the nearest, and in the two breaches on file it walked past three people to reach a Warden with a stretcher. |
 | **Escalation** | It does not accelerate. It accumulates: each cycle outside the loop the wreck grows by whatever structure it has passed under, and the Span has returned from both breaches carrying a section of corridor ceiling that was not part of the Low Crossing. |
 

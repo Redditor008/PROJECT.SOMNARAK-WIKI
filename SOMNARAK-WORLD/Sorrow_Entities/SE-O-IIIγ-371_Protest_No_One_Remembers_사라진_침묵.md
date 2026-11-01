@@ -162,8 +162,8 @@ The table is the whole of this holding's usable knowledge and it is deliberately
 |---|---|
 | **Breach Type** | Transform |
 | **Movement** | Protest No One Remembers seeps through the walls, filling every corridor. It hunts personnel indiscriminately. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
+| **Effect** | Silence is the medium. The wall stops returning sound, the cornicing stops casting a line, and what is left is an outline of the room that everybody present remembers differently. |
+| **Secondary Effect** | The silence widens by a step for every witness who can no longer say what they saw. What goes is not the memory but the outline it was drawn from. |
 | **First Target** | Whoever is speaking, or whoever has just stopped speaking; failing both, the nearest person still holding a running sheet, because the entity moves toward whatever is trying to be a record. |
 | **Escalation** | Each turn free, the radius widens by the width of a corridor and the tone test fails from one fixed point further out; Clarity drain rises by 5 per turn until suppressed. |
 

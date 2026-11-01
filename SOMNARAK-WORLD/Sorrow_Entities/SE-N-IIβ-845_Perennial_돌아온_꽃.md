@@ -184,7 +184,7 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 | **Breach Type** | Escape |
 | **Movement** | The patch walks out on its stem-legs and heads for ground it was previously removed from. Spores are released along the route and settle on whoever is in it; nobody is sought out. |
 | **Effect** | The ground takes weight unevenly underfoot and every step becomes effort; no buckling floor or bowing wall is recorded at the open site. |
-| **Secondary Effect** | An oppressive mass that makes breathing feel like lifting. |
+| **Secondary Effect** | The spores come off the route behind it and settle on everything it passed. The weight is not in the air; it is in how much of the ground is now growing. |
 | **First Target** | Whoever is standing on the ground it is returning to. |
 | **Escalation** | Drain rises by 5 for each clearance attempted while it is free, and does not rise at all for time spent letting it reoccupy the site. |
 

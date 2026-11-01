@@ -153,7 +153,7 @@ The file carries a Subject-Body manifestation expressing Grudge, mobile across t
 | **Breach Type** | Escape |
 | **Movement** | Ember Phoenix breaks loose and charges, thrashing. It ignites everything. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | A resentful fury that burns through containment barriers. |
+| **Secondary Effect** | The fire settles into a walk once it has burned, and what it walks through is the cordon. The ash is the part that gets up. |
 | **First Target** | The nearest personnel or the one whose sorrow matches its origin. |
 | **Escalation** | Each turn free, Resilience drain +5 until suppressed. |
 

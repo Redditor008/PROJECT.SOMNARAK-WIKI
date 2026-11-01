@@ -172,7 +172,7 @@ The table is read against the shell rather than against the gauge, because on th
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It walks out at an unhurried pace and follows whoever is nearest, without preference and without ever breaking into a run. |
-| **Effect** | The containment zone loses definition, colors fade, sounds vanish. |
+| **Effect** | The distance the Veil is made of comes off the room first: colours go flat, sound arrives late, and the walls stop being a boundary and become a preference. |
 | **Secondary Effect** | Everyone in the corridor stops minding what happens next, and reports it afterwards as having been calm at the time. |
 | **First Target** | The nearest person, chosen by distance only; it has never shown a preference. |
 | **Escalation** | Drain rises by 5 for each attempt to provoke feeling while it is loose, and not at all for the time it spends walking. |

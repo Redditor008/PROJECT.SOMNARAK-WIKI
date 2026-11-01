@@ -157,7 +157,7 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 | **Breach Type** | Escape |
 | **Movement** | He walks out and stands in a corridor. He does not hunt, has never struck anybody during an escape, and stalls in place entirely unless somebody gives him an instruction — refusal needs something to refuse. |
 | **Effect** | Definition drains out of the corridor around him: colour flattens, sound thins, and personnel lose the memory of what they said to him within the hour. |
-| **Secondary Effect** | An absence that eats the edges of reality. |
+| **Secondary Effect** | Instruction is what holds the corridor together. Where he stalls, the corridor stops having a near side and a far side, and the edges go out of the walls. |
 | **First Target** | Whoever attempts to give him an instruction. Refusal requires something to refuse. |
 | **Escalation** | Only one thing escalates this holding: an instruction. Clarity drains 5 per turn for as long as somebody is telling him what to do, and stops the moment the corridor is cleared of anyone who has a reason to manage him. |
 
