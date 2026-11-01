@@ -44,51 +44,36 @@
 - Observation records the hum, which rises in pitch as the break is approached. Endurance requires remaining in salt-cold air that smells of cold rain while the break is read aloud.
 - The yield of 20–28 Han-Energy is high for a stationary object and is drawn from the judgment rather than the crystal; a cycle in which no one is judged returns nothing at all.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Lament. The break has not widened or closed in fourteen years of calipered measurement, including after the Pugnahan attempt, which changed the sound and not the crystal. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object on a stand*, with the judged area travelling and the crystal staying where it is, and its own attack row says nothing is touched, nothing cuts, nothing launches and nothing is thrown. What the shard does is hum, and the vault reads the pitch before it reads the declaration.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A large shard of pale crystal with a clean break through its centre, fixed on a stand in the Alpha Tree vault with the break face turned to the wall. The break has not widened or closed in fourteen years of calipered measurement, and it hums at 112 hertz. |
+| **Perceptible to** | The pitch first, resting at 112 hertz since the one attempt against the break face took it there from 72; the rise begins before the worker is through the door, and it is read before the declaration is taken. |
+| **Handling** | Nothing is attempted against the break face, which has happened once and taken the pitch permanently; nothing is dampened mechanically, which has made it permanent three times. The break is calipered without being touched, and the worker is asked nothing about what the hum has already named. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree vault |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the promise and the moment it failed and holds the gauge; Ferrehan tests whether a worker can remain without repairing it, and is the row that lowers it. |
+| **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything. 408 cycles, 391 clean closes; the seventeen that were not all involve a sentence somebody wishes they had not said. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Jagged Edge* [**Debuff**] } | "112 hertz in an empty room. It is not waiting for you." | [Nothing is touched and nothing cuts: the hum presses on what the worker has already promised and not done, and the pressing is the injury.] | *Target suffers -10 Composure; the undeclared thing comes back to mind uninvited.* **[10 Lament DMG [Lament]]** | When a worker with something outstanding comes inside the judged area. |
-| { *The Embedded Splinter* [**Debuff**] } | "Workers coming off this holding write a letter. Or make a call." | [The shard stays on its stand; what follows the worker out is the conviction, with the texture of memory, that a promise has been broken by them.] | *Target loses 10 Composure; the conviction persists for days and resists correction by colleagues who were present.* **[10 Lament DMG [Lament]]** | When the worker lingers past the second confirming reading. |
-| { *The Flying Splinter* [**Attack**] } | "The one time somebody struck the break face, the pitch rose forty hertz and never came back down." | [Nothing launches and nothing is thrown; the strike lands as sound, and the permanent step from 72 to 112 hertz is on the chart to prove it.] | *Inflicts Lament pressure as the pitch takes a step it does not give back; the crystal is unmoved and unmoving.* **[14-22 Lament DMG [Lament]]** | When anything is attempted against the break face, which has happened once. |
-| { *The Shatterpoint* [**Attack**] } | "It names the undertaking you did not declare at the door." | [The hum resolves into the exact wording of a promise the worker has outstanding and has not disclosed.] | *24–36 Lament and a 15% Gauge surge to that worker alone; nobody else in the vault hears the words.* **[24-36 Lament DMG [Lament]]** | When an undeclared undertaking is carried past the threshold. Seventeen occasions, all seventeen later confirmed accurate by the worker. |
-| { *The Shard Storm* [**Ultimate**] } | "Every pane and vessel in the vault takes up the pitch and the whole room sounds like the break." | [The hum propagates into the surrounding glass and crystal and the judged area becomes the room.] | *12–20 Lament per cycle for three cycles to everyone inside the vault.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, recorded once, during the Year 4,234 inventory, when four workers were in the room with undeclared undertakings between them. |
+| Event | What the Shard does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Pitch* [**Register**] } | It hums at its resting value, and it rises by between six and thirty hertz in the presence of an undeclared undertaking — beginning before the worker is through the door. | The pitch is taken before the declaration, because 408 cycles have established it well enough that the vault now takes the pitch first. | Success is read from the hum rather than from the crystal, which is unchanged by every cycle on record. |
+| { *The Undeclared* [**Exposure**] } | The hum presses on what the worker has already promised and not done, the undeclared thing comes back to mind uninvited, and seventeen times it has resolved into the exact wording of an outstanding promise. | The pitch is read, the worker is asked nothing about the promise, and the session does not name what the hum has already named. All seventeen were later confirmed accurate by the worker. | Extended contact leaves personnel convinced they have broken a promise they cannot name, and the conviction arrives with the texture of memory rather than of suggestion. |
+| { *The Break Face* [**Refusal**] } | Nothing is touched and nothing cuts. The one time somebody struck the break face the pitch rose forty hertz and never came back down, and the crystal is unmoved and unmoving. | Nothing is attempted against the break face and nothing is dampened mechanically; three attempts at damping made the pitch permanent. | The refusal is the step in the chart: the object takes damage as a permanent change to its own sound and gives nothing back. |
+| { *The Undertaking* [**Overload**] } | A promise made in the room is the beginning of every incident — nearly always made to the shard, nearly always sincere — and without a close the hum does not subside and the vault is sealed for a full cycle. | The worker leaves without having undertaken anything, the sentence is entered against the cycle, and the vault is sealed rather than silenced. | 408 cycles, 391 clean closes, and the seventeen that were not all involve a sentence somebody wishes they had not said. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Personnel confirm the hum is audible, establish that the clean break faces away from the approach, and verify vault seal integrity before closing distance.
-2. **Clash:** The team works by Viderehan and Ferrehan only, reading the break aloud while the hum deepens and the salt-cold intensifies toward the vault floor.
-3. **Resolution:** There is no withdrawal version of the close. The cycle ends when the pitch has returned to its resting value at two consecutive readings, the declaration as given is in the book, and nobody in the room has undertaken anything — the documented condition being **the pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything**.
+1. **What is confirmed:** the pitch against its resting value taken before the declaration, the break measured by calipers without contact, and the break face still turned to the wall.
+2. **What the watch does:** Viderehan shows the promise and the moment it failed, Ferrehan remains without repairing it, and nobody undertakes anything in the room. The pitch is read again within ten minutes of the close.
+3. **How it closes:** the close is the file's documented condition: **The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything.**
 
 ### Consequences
 
@@ -392,7 +377,7 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 - Pitch rise is the only signal; measure the judged area from the break face, not from the crystal.
 **Observation Notes:**
 - A three-generation promise of protection, an evacuation order, and a household that believed the older statement.
-- See Combat Record for engagement history.
+- See Contact Record for contact history.
 - Two pieces, nine fractures between them, each dated and kept with the sentence that caused it.
 **Cross-References:** The Broken Promise (matching wording, unexplained), The Final Door (the 126-hertz fortnight), The Returning Relic (closed), the locked declaration book, and the Year 4,231 Pugnahan attempt.
 **Faction Involvement:** SED (D-territory exploration) · Judexhan (δ-grade high-threat)

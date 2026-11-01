@@ -45,51 +45,36 @@
 - There is no breach counter. The influenced radius widens, and its edge is marked physically at every session rather than carried forward.
 - Extraction draws from residue at the edge and is authorized apart from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 50% against Lament pressure; 40% against other pressure types as formal ratings. Working protection is the series itself: two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal and no question ever put to it. No field has been measured to resist against; the figures are prophylactic, not observed. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 1000/1000 |
-| **Han Pressure [ATK]** | 29–64 per hit · Lament |
-| **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — the crystal remains suspended above the pedestal*, with the pedestal and vault as its setting rather than its body, and its own attack row says no blade leaves the pedestal. What the vault holds is a reading: the height, taken nightly, because a record of a thing not moving is the only way anyone will notice if it ever does.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Sovereign (V) — Autonomous, ancient, singular |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A single crystallised tear smaller than a raindrop, suspended four centimetres above a sealed pedestal and glowing faintly blue. It has not moved in any direction by any measurable amount since instrumentation improved enough to say so. |
+| **Perceptible to** | The glow first, read against the band the series keeps; then the cold of the deep vault, and the sense both observers report separately that what is present is the shape of sorrow before language. |
+| **Handling** | Two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal, and no question ever put to it. Both observers write the figure independently and neither says it aloud in the vault. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 1000/1000 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, Alpha Tree deep vault — sealed |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the shape of sorrow before language and holds the gauge; Ferrehan is the scheduled reading itself and carries the decrease. Neither approach calms this holding and neither provokes it. |
+| **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | The nightly reading is taken, witnessed and entered without a gap in the series |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Original Drop* [**Debuff**] } | "This is the first tear ever shed — the prototype of all grief — and it has not dried in four thousand years." | [Nothing radiates; the instruments read the room and find the room. What the observer meets at the line is the shape of sorrow before language.] | *The observer suffers -10 Clarity. Both observers write the figure independently and neither says it aloud in the vault.* **[10 Lament DMG [Lament]]** | When an observer takes the nightly reading at the line under Viderehan. |
-| { *The Echoing First* [**Debuff**] } | "Every tear ever shed is an echo of this one — and being near the original makes you feel all of them." | [The Tear does nothing new. Past the reading, the observer's own losses arrive as echoes of the first, and the first sign is describing its unknown event in the first person.] | *The observer loses 10 Clarity. Enforce the four-minute cap; an observer who overruns is stood down from the rota whether or not they report symptoms.* **[10 Lament DMG [Lament]]** | When an observer remains in the vault past the four minutes the reading takes. |
-| { *The Salt Blade* [**Attack**] } | "Nothing hardens and nothing is forged. The crystal is smaller than a raindrop and the hand coming toward it is the emergency." | [No blade leaves the pedestal. An approach past the line is the vault's one true incident: the complete emotional history of sorrow arrives whole, belonging to nobody.] | *Heavy Lament pressure on Clarity. Secure the approaches, clear unshielded personnel, and restore the reading on time; touch is forbidden and no contact test is authorized to learn more.* **[14-22 Lament DMG [Lament]]** | When anyone crosses the line or attempts contact with the crystal. |
-| { *The Full Release* [**Attack**] } | "The first tear finally falls — completing a journey four thousand years overdue." | [It has never fallen, and nothing here completes a journey. What the record actually holds is a retrospective step: eleven unobserved nights in 4106, after which the figure never returned to its prior band.] | *A heavy Lament load carried as grief with no event attached, and a movement in the series that can never be dated. Report the night, the duration and the cause so far as known; the review examines the rota, not the Tear.* **[24-36 Lament DMG [Lament]]** | When a nightly reading is missed, late, or taken by one observer instead of two. |
-| { *The Ocean of the First* [**Ultimate**] } | "The first tear reaches the ground at last — and where it lands, an ocean forms, and the ocean is the source of all sorrow." | [No ocean forms in the vault. At threshold the recorded risk is immediate emotional overload and possible Fracture for everyone present — the whole history of sorrow at once, not water.] | *All in range suffer Lament pressure on Clarity for three turns. Withdraw everyone but the reading pair, bring the Gauge back under the management condition (below 25% before any attributed piece is used), and take the reading on time regardless.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥90% activation threshold with the none-authorized regime event (contact attempted, question posed, or the series suspended). |
+| Event | What the Tear does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Height* [**Register**] } | It holds four centimetres above the pedestal, and the glow does not vary with the approach used, the observer, the time of year, Sorrow Tides, or anything else the facility has thought to test. | The height and the glow are read nightly whether or not anything is expected to have changed, and both observers write the figure down separately. | A record of a thing not moving is the only way anyone will notice if it ever does, which is why the series carries more weight than any single night. |
+| { *The Four Minutes* [**Exposure**] } | The pressure passes into the worker whole: not a memory of a loss, but grief with no event attached, arriving complete and belonging to nobody. | Exposure is capped at the four minutes the reading takes, kept from the clock rather than from the observer's report, and an observer who overruns is stood down from the rota whether or not they report symptoms. | The Clarity it costs is spent faster than the gauge records, and the cap exists because nothing is known to be harmful and the vault declines to establish it. |
+| { *The Line* [**Refusal**] } | It does nothing. No blade leaves the pedestal, no contact test has ever been authorised, and an approach past the line produces the complete emotional history of sorrow arriving whole and belonging to nobody. | The approaches are secured and unshielded personnel cleared, and the reading is restored on time rather than the incident being investigated by touch. | The refusal is a ban: the file's only answer to curiosity about the crystal is that the question is not put to it. |
+| { *The Gap* [**Overload**] } | Nothing escalates. What the record holds is a retrospective step — eleven unobserved nights in 4106, after which the glow value never returned to its prior band. | The night, the duration and the cause so far as known are reported, and the review examines the missing nights rather than the crystal. | Nothing happened that night. The consequence is a series with a hole in it and no way afterwards to establish what moved or when — the loss is in the record, which is the only part of this entity the facility holds. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is checked (there is nothing to confuse it with. One crystallised tear, smaller than a raindrop, faint blue, four centimetres above a sealed pedestal, not falling. If something in this vault is falling, it is not this) and First Tear is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** There is no clash. The session consists of taking the nightly reading from the observation line and leaving. Viderehan shows the shape of sorrow before there was language for it; Ferrehan tests whether the observer can stay in the room while that is being shown. Neither approach is permitted to go beyond the line, and no approach has ever altered the Tear.
-3. **Resolution:** The session closes when the reading is taken, entered, countersigned and added to the series. There is no containment outcome to achieve here and no retreat to log; a session is successful if the series is one night longer than it was.
+1. **What is confirmed:** the height above the pedestal, the glow against its band, and the sealed setting, all read at the vault rather than reported from elsewhere.
+2. **What the watch does:** two observers take the four minutes, one reading and one writing, each entering the figure independently and neither saying it aloud in the room. Nothing touches the crystal and no question is put to it.
+3. **How it closes:** the close is the file's documented condition: **The nightly reading is taken, witnessed and entered without a gap in the series** — and the series, not the night, is the record.
 
 ### Consequences
 
@@ -130,7 +115,7 @@ The Object-Lament body is the single small salt crystal, not a person forever we
 
 The Tale reconstructs an earlier tear falling and proposes a descent from that first sorrow into rivers and the Weeping. Present vault observation records a suspended crystal that does not fall. An earlier origin account is not itself a current movement observation, and the succession chart is explicitly doctrine rather than an observed transfer between holdings. No described transition joins the reconstructed first drop to this pedestal, establishes the crystal's original dimensions, or turns the contemporary crystal into a river.
 
-The combat record now states the same limit in its own rows: no blade leaves the pedestal, no fall completes a journey and no ocean forms in the vault, because none of those events is established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation. The record also retains a non-breaching classification against the Side Codex's Transform claim, and a widening influenced radius against reports of no detectable field. Those disagreements remain open: neither a larger body nor a harmless object can be certified from the convenient half of the record. The attributed equipment likewise does not establish that the crystal grew into a greatsword or was cut to make one; its local inventory account records no extraction.
+The contact record now states the same limit in its own rows: no blade leaves the pedestal, no fall completes a journey and no ocean forms in the vault, because none of those events is established by the nightly series. They must not be used to illustrate an observed second body, a past vault flood or a reversible transformation. The record also retains a non-breaching classification against the Side Codex's Transform claim, and a widening influenced radius against reports of no detectable field. Those disagreements remain open: neither a larger body nor a harmless object can be certified from the convenient half of the record. The attributed equipment likewise does not establish that the crystal grew into a greatsword or was cut to make one; its local inventory account records no extraction.
 
 ## Origin
 - **Formation:** The Tear is believed to be the first sorrow ever felt on Mugenhan.

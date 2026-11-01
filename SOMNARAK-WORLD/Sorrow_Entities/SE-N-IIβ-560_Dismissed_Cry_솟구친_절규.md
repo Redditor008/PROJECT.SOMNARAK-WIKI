@@ -45,51 +45,36 @@
 - It produces no ordinary sound. Personnel register the scream as pressure behind the eyes, and acoustic instruments record nothing at all.
 - Tears soften the crystal surface and release a portion of the stored anger, which is the only condition under which yield can be extracted safely.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure and 15% against everything else. The figures are taken from the crystal's own composition, a solidified cry rather than a made thing, and the record's note is that it is accordingly stubborn against the pressure it was formed from and only ordinarily resistant to anything else. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 407/407 |
-| **Han Pressure [ATK]** | 9–21 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device whose internal parts may move*, and the record itself says it hangs where it was left and does not travel; its own attack row says no blade or water is formed. What it does is put a protest's content into the chest of everybody in the chamber, silently, without producing a sound.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A crystallised scream hanging in the air as a red object with a torn, mouth-like opening, producing no ordinary sound. It hangs where it was left; the height has risen slowly across the record, and the opening has twice turned to face the person speaking rather than the person working. |
+| **Perceptible to** | The pressure first — no sound reaches the instruments, and the teeth and sternum receive the sentence the ears have filed as noise — then the orientation of the torn opening, which is the register. |
+| **Handling** | Nothing is touched and nothing is shouted in the chamber. Height and orientation are recorded at each session, and a raised voice is treated as a second conversion of the protest into noise rather than as an answer to it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 407/407 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate, near The Scar |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan uncovers the injustice behind the scream and holds the reading steady — stability is the correct outcome here and is not a stalled session; Ferrehan asks the worker to remain beside sustained anger without taking it up and repeating it, and that restraint is where the decrease comes from. |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | The grievance is entered in the complaints register with a complainant named, and the Sorrow Gauge falls below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Unreceived Phrase* [**Debuff**] } | "No sound reaches the instruments. Your teeth and sternum receive the sentence your ears filed as noise." | [Silent heat and pressure make the protest's content felt before it is understood.] | *Target suffers -10 Resilience under silent Grudge pressure; no audible scream is produced.* **[10 Grudge DMG [Grudge]]** | On activation by touch or nearby vocal aggression. |
-| { *The Rising Reading* [**Debuff**] } | "It does not get louder. The fracture lines darken, and the pressure behind the eyes becomes pressure in the chest." | [Stored anger remains present while its content stays unrecorded.] | *Target loses 10 Resilience under sustained silent pressure; the gauge rises through non-reception, not runoff.* **[10 Grudge DMG [Grudge]]** | While the target remains in the field without the grievance being recorded. |
-| { *The Countershout* [**Attack**] } | "Drown it out," the order said — and every rib cage in the perimeter had to carry the command instead." | [Vocal aggression interrupts reception and the stored protest rebounds as a silent pressure wave.] | *Inflicts focused Grudge pressure on the interrupting speaker; no blade or water is formed.* **[14-22 Grudge DMG [Grudge]]** | When a raised voice or countershout interrupts the work. |
-| { *The Full Protest* [**Attack**] } | "Every unreceived syllable arrives at once — not as sound, but as heat, pressure, and a sentence no one wrote down." | [The crystal releases its stored protest while instruments remain silent and the 407 HP line remains the entity's gauge, not damage done by the release.] | *Heavy silent Grudge pressure; the target's Sorrow Gauge surges 15% because the content has again been converted into noise.* **[24-36 Grudge DMG [Grudge]]** | When somebody summarises what the chamber received as mere sound. |
-| { *Filed as Noise* [**Ultimate**] } | "The field does not fill with water. It fills with the consequences of calling a grievance a disturbance." | [Silent pressure extends through the area along the reports that misfiled the protest, forcing its content on every listener.] | *All in range suffer Grudge pressure for three turns. The reading stands 9 points higher where the last report called it an acoustic anomaly or pressure phenomenon, and 7 lower where it called it a grievance — the only figure in this file that responds to paperwork.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the reading passes the 60% activation mark and the chamber's report wording remains uncorrected. |
+| Event | What the Cry does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Height* [**Register**] } | It hangs where it was left and does not travel; the height it floats at has risen slowly across the record, and the torn opening has twice turned to face the person speaking rather than the person working. | Height and orientation are recorded at every session, and a turn is entered as an event rather than as a reading. | A protest turns toward whoever is talking rather than toward whoever is working, which is the whole of what the orientation means. |
+| { *The Unreceived* [**Exposure**] } | Silent heat and pressure make the protest's content felt before it is understood, and the worker begins rephrasing other people's objections for them — tidying the wording, making the complaint presentable. | The session ends at the first such act, because a summarised grievance is what this record was made from. | The Resilience loss shows up as the crew's own reports coming back told in the worker's voice. |
+| { *The Countershout* [**Refusal**] } | It answers a raised voice with a silent pressure wave and forms no blade and no water; what it refuses is the interruption. | Nobody shouts the chamber down. The standing instruction is that a countershout is not an intervention but a second conversion of the protest into noise. | The refusal is that force arrives back as pressure rather than as reply, which is why the one recorded attempt to drown it out failed in the same way the filing did. |
+| { *Filed as Noise* [**Overload**] } | Past the threshold the content arrives whole in every direction, along the reports that misfiled the protest. | The old reports are read in sequence before the session rather than after it, and the reading is taken again where the last report called it an acoustic anomaly or a pressure phenomenon. | The reading stands nine points higher on those files, and the escalation here is administrative: a grievance being re-summarised, with no ceiling to reach. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first — Dismissed Cry is recognised by the discrepancy. Several hot objects are catalogued near the Scar; this is the one that registers as sound to the personnel and as nothing to the instruments. The standing order is to show the crew the register entry before they are shown the entity, and to read back any earlier report filed on this record, because the wording of the last one is the reading the session starts from.
-2. **Clash:** Only two approaches exist here and neither is confrontation. Viderehan uncovers what the scream was about; Ferrehan asks the worker to stay beside sustained anger without taking it up and repeating it. The gauge falls under Ferrehan and holds under Viderehan, and raised voices anywhere in the chamber end the session.
-3. **Resolution:** The session closes when the gauge is under 25% and the grievance has been written down as a grievance — complainant, injustice, date — rather than as an acoustic event. A session that ends with the chamber quiet but the log reading "pressure phenomenon, no acoustic trace" has not resolved anything and the next shift will find the figure higher.
+1. **What is confirmed:** the height the crystal hangs at, the orientation of the torn opening, and the wording of the most recent report filed about it, read before anything is entered.
+2. **What the watch does:** Viderehan uncovers the injustice behind the scream and Ferrehan remains beside the anger without taking it up. Nobody raises a voice in the chamber, and the first act of tidying somebody else's objection ends the session.
+3. **How it closes:** the close is the file's documented condition: **The grievance is entered in the complaints register with a complainant named, and the Sorrow Gauge falls below 25%** — and the entry is a filing, not a reply.
 
 ### Consequences
 

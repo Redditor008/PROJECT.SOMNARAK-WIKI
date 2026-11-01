@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five relics that read rather than reach (2026-11-01)
+
+Fourth batch. All five are readings first and objects second, and in each case the old combat table had already written the denial in its own bracketed note.
+
+- **First Tear** (`C-Vδ-290`) — the crystal is suspended four centimetres above the pedestal and *no blade leaves the pedestal*. The record is the series: the height and the glow, taken nightly, because a record of a thing not moving is the only way anyone will notice if it ever does.
+- **Frozen Fury** (`C-IVδ-668`) — *immovable — not fixed by containment but simply unshiftable*, and *nothing detaches and nothing strikes; the fragment has never harmed anybody and the wing has twice refused to pretend otherwise*. What brightens is the luminance along the fracture edges under a step wedge at one metre.
+- **Miscast** (`C-Iα-779`) — *nothing flies, nothing strikes, and nobody has been injured here*; the fragments have not left the mount volume in fifty-one years, and the event the old row described was a certificate signed and filed.
+- **Dismissed Cry** (`N-IIβ-560`) — hangs where it was left and does not travel; *no blade or water is formed*. The protest arrives as heat and pressure in the sternum, and the failure is a worker tidying somebody else's objection into presentable wording.
+- **Shard of a Broken Promise** (`O-IVδ-851`) — stationary on a stand, with the judged area travelling and the crystal staying; *nothing is touched and nothing cuts, nothing launches and nothing is thrown*. Success is read from the hum, at 112 hertz, against a resting value it has never given back.
+
+**What the reader gets instead.** A reason line, the nine-row field table without Speed, Han Pressure, Battle Length or Threat Role, `### Contact Events` built from the register, the exposure, the refusal and the overload each file already describes, a three-movement `### Watch Sequence` closing on the file's own condition, and `### Consequences` untouched.
+
+**Prose that had to move with the table.** The First Tear's register note pointed at the *combat record* to prove its limit; it now points at the contact record. The Shard's Trivia line said *See Combat Record for engagement history*; it now says contact history, which is what the file holds. Frozen Fury's equipment row said *no combat benefit accrues*, which is true but had nothing left to deny; it reads *no benefit accrues* now.
+
+**Side codices.** All five have one, and each `Gauge / Pressure` row lost its per-hit band for what the relic actually does — *1000/1000; starts 60–80% / Lament — no attack pattern; the nightly height and glow reading is the whole of the record*, and the same form for Miscast, the Shard, Frozen Fury and the Dismissed Cry. Two of these live in registry folders keyed to a different number than the dossier, so they were joined on the `SECC Designation` line rather than on the filename.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `label_lint` 0 · `check_links` 0 broken · `breach.py` unchanged. **Twenty converted, thirty-seven relic `Combat Record`s still to read.**
+
 ## Five relics where the refusal was already written in the record (2026-11-01)
 
 Third batch off the relic queue, and the clearest one yet: four of these five had already put the denial inside their own combat table, and the fifth had it in its resistance note.

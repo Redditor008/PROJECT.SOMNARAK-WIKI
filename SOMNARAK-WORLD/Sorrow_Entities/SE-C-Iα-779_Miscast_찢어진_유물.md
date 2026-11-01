@@ -45,51 +45,36 @@
 - No breach counter applies. Structural pressure is logged at the mount rather than in the object, and the mount is load-checked at every session.
 - Residue is recovered from the mount under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 181/181 |
-| **Han Pressure [ATK]** | 3–10 per hit · Grudge |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and its own attack row says nothing flies, nothing strikes and nobody has been injured here. The fragments have not left the mount volume in fifty-one years, and the event that row describes was a certificate signed and filed.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A broken relic split into several floating metal pieces that pull toward one another and stop short by a measurable distance every time. The fragments drift continuously inside the mount volume and have never left it; a still fragment is the anomaly, and one has been seen twice. |
+| **Perceptible to** | The gap first — eleven millimetres at baseline, and it is the instrument rather than an absence — then the drift against the edge of the mount volume, and the weight of a purpose the pieces no longer have. |
+| **Handling** | Read optically twice a session, between the two largest fragments at their closest approach. Nothing is passed into the mount volume and nothing is helped together; a gap that widens by eight millimetres or more opens a documents search rather than a field response. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 181/181 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Forge District |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals what the artifact was for, in detail, including the specification language it was ordered against, and holds the gauge; Ferrehan watches the pieces approach and stop short, repeatedly, and lowers it. |
+| **Location** | Zone D, Forge District |
 | **Resolution Condition** | Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board, and the gauge below 25% — on Miscast the second follows the first and has never arrived without it. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Broken Edge* [**Debuff**] } | "Nothing breaks off. Nothing has left the mount volume in fifty-one years." | [What transfers is not a splinter but a list: at about the minute, the bearer begins naming their own preparations that were never called on, and the list is kept.] | *-10 Resilience, paid afterwards in unpaid hours closing out tasks nobody asked them to take.* **[10 Grudge DMG [Grudge]]** | When a session runs past its minute at the bench. |
-| { *The Missing Piece* [**Debuff**] } | "There is no missing piece. The gap is eleven millimetres at baseline and it is the instrument, not an absence." | [Read optically, twice a session, between the two largest fragments at their closest approach. The fragments look identical at one millimetre and at eighty-eight.] | *-10 Resilience as impatience: the worker begins willing the pieces together, then helping, then reaching — three displacements on record, each costing a quarter's readings.* **[10 Grudge DMG [Grudge]]** | When a hand goes toward the mount volume. |
-| { *The Flying Shard* [**Attack**] } | "Nothing flies, nothing strikes, and nobody has been injured here. The event was a certificate signed and filed." | [A widening of eight millimetres or more opens a documents search, not a field response: how many certifications passed twelve months with no posting and no written lapse.] | *Grudge pressure lands where the register says it does: on the named holders, listed rather than totalled — three reviews that gave totals were returned.* **[14-22 Grudge DMG [Grudge]]** | When the gap widens between consecutive readings. |
-| { *The Reassembled Fury* [**Attack**] } | "Arranged, they hold for four to nine seconds and the thing works — correctly, without difficulty — and then comes apart." | [Fourteen bearers have written the function down in matching specification language; disagreement has never occurred and would be the most important result this holding could produce.] | *The cost is that everybody in the room has now seen there was never anything wrong with it; boards have reversed decisions on the strength of one sitting.* **[24-36 Grudge DMG [Grudge]]** | When the relic is issued to the chair of a postings board, for the sitting. |
-| { *A Thousand Shards* [**Ultimate**] } | "It widened to eighty-eight millimetres during the proudest thing the district did that decade." | [No storm and no shrapnel. Four hundred workers certified against forty posts, taught properly, signed off in good faith — and the bench read the difference to the millimetre.] | *Grudge pressure distributed across every live, unused certificate on the register, until somebody posts it or lapses it in writing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When a training intake certifies far beyond the posts that exist. |
+| Event | What the Miscast does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Gap* [**Register**] } | The pieces pull toward one another and stop short every time; there is no missing piece, and the eleven millimetres at baseline is the instrument rather than an absence. | The gap is read optically twice a session between the two largest fragments at their closest approach and entered whether or not it has widened. | The pieces look identical at one millimetre and at eighty-eight, so the reading is the number and never the look. |
+| { *The Minute* [**Exposure**] } | Past its minute at the bench the bearer begins naming their own preparations that were never called on, and the list is kept. | A session runs to its minute, the list is written down after it, and the unpaid hours closing out tasks nobody asked for are entered against the post. | Long exposure produces a worker who cannot leave a job half-finished, at the holding or anywhere else; four Wardens rotated off this post were afterwards found working unpaid hours. |
+| { *The Mount Volume* [**Refusal**] } | Nothing flies, nothing strikes, and nothing has left the mount volume in fifty-one years. | Nothing is put into the volume and nothing is helped together; the three displacements on record each cost a quarter's readings, and the instruction is written against all three. | The refusal is that the object keeps its own containment: the drift is the normal state, and it will not be finished for anybody. |
+| { *The Sitting* [**Overload**] } | Issued to the chair of a postings board and arranged, it holds for four to nine seconds and works correctly without difficulty, and then comes apart — and everybody in the room has now seen there was never anything wrong with it. | Fourteen bearers have written the function down in matching specification language; the sitting is entered, and a disagreement between them would be the most important result this holding could produce. | The cost is institutional: boards have reversed decisions on the strength of one sitting, which is the same failure the artefact was made from. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team identifies Miscast by the gap against the last reading, not by the drift. The fragments look identical at one millimetre and at eighty-eight, and three early reports describe an unchanged holding on days the bench recorded a forty-millimetre difference, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** Viderehan and Ferrehan only, from the mount side. The optical bench takes the gap between the two largest fragments at the closest point of their approach, in millimetres, twice a session. Eleven millimetres is baseline. The recorded range is one to eighty-eight.
-3. **Resolution:** Second reading, mount load-check, and the session closed. There is no suppression condition on this holding and the file says so rather than printing one: the fragments have never been brought together and the containment does not attempt it.
+1. **What is confirmed:** the optical gap between the two largest fragments at their closest approach, the position of the pieces against the mount volume, and whether anything has been placed inside it.
+2. **What the watch does:** Viderehan reads what the artifact was for and Ferrehan watches the pieces fail to meet, again and again, without helping. A widening opens a documents search before it opens anything else.
+3. **How it closes:** the close is the file's documented condition: **Keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board, and the gauge below 25% — on Miscast the second follows the first and has never arrived without it.**
 
 ### Consequences
 

@@ -45,51 +45,36 @@
 - The file carries no breach counter. The affected radius grows along the Row, and its edge is marked physically at every session.
 - Extraction draws from residue at the edge under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Void pressure; 35% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 880/880 |
-| **Han Pressure [ATK]** | 29–62 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *immovable — not fixed by containment but simply unshiftable*, with two attempts sitting in the engineering file, and its own attack row says nothing detaches and nothing strikes: the fragment has never harmed anybody, and the wing has twice refused to pretend otherwise.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A fragment of a ruined building in black crystal, standing in a frozen bay on Collector's Row that sits under Forge heat it should not be cold in. It cannot be moved; what varies is the luminance along the fracture edges. |
+| **Perceptible to** | The luminance first, read in darkness against a step wedge at one metre and worthless from any other position; then the cold, and the crimson along the fractures that gives no warmth at all. |
+| **Handling** | Bay lights killed for the reading, the step wedge set at one metre, nothing touching the fragment. It is read weekly and the two engineering attempts to shift it are not repeated. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 880/880 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads what is under the ruin and holds the reading flat; Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away, and is the row that lowers the gauge. |
+| **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | Read the edges weekly — the only close a Frozen Fury cycle has. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Cold Archaeology* [**Debuff**] } | "It is not preserved in ice and there is no permafrost here — a slice of a broken building in black crystal, cold in a bay that sits under Forge heat, with crimson along the fractures that gives no warmth at all." | [Bay lights killed; the step wedge at one metre; the reading is worthless from any other position.] | *Target suffers a Void mark; the ancient grief is still alive.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | At the first edge reading. |
-| { *The Frozen Inhabitant* [**Debuff**] } | "Nobody is frozen inside it mid-scream. The residents are absent and unaccounted for, which is the whole of the injury; what watches you from the fragment is an open register with its incompleteness flagged on the first page." | [Viderehan holds the reading flat and still leaves the observer with names they would rather not have read.] | *Target loses clarity; the absent are the ones being looked at, and the look does not resolve.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target reads the register against the ruin. |
-| { *The Ice Slab* [**Attack**] } | "Nothing detaches and nothing strikes — the fragment has never harmed anybody and the wing has twice refused to pretend otherwise. What lands is the counterparty's own sentence, read back: the district was vacated, with nobody doing the vacating." | [The edges brighten on documents written without an agent; the two brightest readings on record both followed entries that were grammatically entirely proper.] | *Inflicts Void damage; the cold erodes the language a person hides inside.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | On a sentence with no subject in it. |
-| { *The Full Thaw* [**Attack**] } | "The ninth day does not end — the doorway, the crate, the half-swept step are all still there, and none of them are." | [The preserved moment runs on instead of resolving; what the fragment holds is offered to whoever is standing in it.] | *A heavy Void surge; the target's Sorrow Gauge rises 15% and the bearer describes the clearance in the present tense.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the fragment is forced past what it holds. |
-| { *The Glacier* [**Ultimate**] } | "The whole Row goes quiet and cold — not frozen water, frozen paperwork: every sentence in the district's file that never named anybody." | [The fragment's cold spreads along the Row, and the language in the room stops working.] | *All in range suffer Void erosion for three turns and cannot put a name to an actor in anything they write during them.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Frozen Fury does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Step Wedge* [**Register**] } | The luminance along the fracture edges is the whole of it, read in darkness against the wedge at one metre, with the crimson giving no warmth. | Bay lights killed, wedge at one metre, one reader and one to write; a reading taken from anywhere else is not entered. | A steady reading is not the same as a quiet cycle here, and the file says so in as many words. |
+| { *The Absent Register* [**Exposure**] } | Nobody is frozen inside it mid-scream. The residents are absent and unaccounted for, the open register has its incompleteness flagged on the first page, and the look does not resolve. | The register is read against the ruin and the names are not resolved afterwards, because resolving them is the sentence the holding exists to refuse. | The injury is administrative before it is emotional: the whole of it is a list of who is not there. |
+| { *The Ninth Day* [**Refusal**] } | It does not answer and has never harmed anybody. What lands on a worker is the counterparty's own sentence read back — the district was vacated, with nobody doing the vacating — and the two brightest readings on record both followed entries that were grammatically entirely proper. | The sentences that read brightest are logged against the reading; the register is not corrected to balance them. | The refusal is grammar. The fragment brightens on documents written without an agent and has no other reply. |
+| { *The Full Thaw* [**Overload**] } | Past the margin the preserved moment runs on instead of resolving: the ninth day does not end, and the doorway, the crate and the half-swept step are all still there and none of them are. | The step-back across the margin is ended by the bearer and logged with the hour; four workers have been withdrawn for it and all four returned. | What it delivers is tense rather than wounds, which is why the only close is the weekly reading: there is no ceiling to reach and no fail-safe to trip. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is the temperature and the edges. Kill the bay lights and read the fracture glow in darkness against the step wedge at one metre — crimson, silent, heatless, meaningless in any other condition — then confirm the designation, note the interior temperature no instrument will return a value for, and check the margin of original ground before positions are taken.
-2. **Clash:** The team fights nothing and moves nothing; the fragment weighs what a building weighs. The team reads the edge glow in the dark bay against the step wedge, works Viderehan and Ferrehan only, and states aloud at the start of the cycle who cleared the district. That sentence is part of the procedure and is minuted.
-3. **Resolution:** The cycle ends when the luminance reading agrees twice, the week's district paperwork is attached, and the margin of original ground has been swept by hand. There is no suppression step. The fragment has never harmed anybody and the holding has twice refused to pretend otherwise in order to justify its budget.
+1. **What is confirmed:** the luminance against the step wedge at one metre, the cold beneath Forge heat, and the state of the register that stands next to it.
+2. **What the watch does:** Viderehan reads what is under the ruin and keeps the reading flat, Ferrehan stands among the absent lives without tidying them, and the step-back across the margin is taken by the bearer before it is taken by the duty officer.
+3. **How it closes:** the close is the file's documented condition: **Read the edges weekly — the only close a Frozen Fury cycle has.** Any other ending is the margin being crossed and logged.
 
 ### Consequences
 
@@ -178,7 +163,7 @@ The table is the whole method, and it is short because the holding is narrow. Fr
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Nothing is lifted. The fragment rests exactly where the ninth day left it, and contact — which the cycle does not need — is what would start the display. | Read the edges in darkness against the step wedge. The lives and the injustice attached to the structure are the display; no resistance is granted for standing near them. |
-| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it, and well inside the first minute a worker in contact begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | State aloud, at the start of the cycle, who cleared the district; the sentence is part of the procedure and is minuted. Nothing sharpens and no combat benefit accrues — what accrues is the account. |
+| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it, and well inside the first minute a worker in contact begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | State aloud, at the start of the cycle, who cleared the district; the sentence is part of the procedure and is minuted. Nothing sharpens and no benefit accrues — what accrues is the account. |
 | 1 Minute | The sorrow starts presenting what it is owed: an account of the ninth day that the evidence supports and a list of the people who should have been named. | No toll is dealt on any cycle. The watch is for tense — the bearer beginning to describe the clearance in the present — which is the sign the step-back is due. |
 | 2 Minutes | In contact too long, the bearer stops standing with the grief and starts reporting from inside it: the boundary between the operative's present and the clearance's last hour gives way. | Nobody panics on schedule. Four workers have been withdrawn for exactly this and all four returned. The lens comes off with the mount and the bearer steps back behind the margin, because contact broken by being pushed away rather than ended by the bearer leaves the ninth day running. |
 
