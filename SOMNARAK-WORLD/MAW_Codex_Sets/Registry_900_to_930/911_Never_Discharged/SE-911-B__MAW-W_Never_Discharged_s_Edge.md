@@ -29,7 +29,7 @@ Never Discharged's Edge is the weapon record of the Never Discharged set — β-
 |---:|---:|---:|---|---:|
 | Weight 11–17 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences chronic fatigue in the dominant hand with each use. Continued use makes Never Discharged's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge strikes in the frozen instant of a medical bay: each blow makes the wielder the one standing over the table. Wielded long, their dominant hand shakes and they cannot say whose it was.
 
 ## ITEM-SPECIFIC HISTORY — *The Never Discharged Source-Trace: Weapon Record*
 

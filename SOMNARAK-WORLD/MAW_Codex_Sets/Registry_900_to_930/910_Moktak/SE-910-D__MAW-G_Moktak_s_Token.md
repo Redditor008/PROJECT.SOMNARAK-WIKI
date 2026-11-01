@@ -21,14 +21,14 @@
 
 ## Appearance
 
-Moktak's Token is the stigma record of the Moktak set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's spirit sorrow, crystallized into wearable form, one beat of the wooden bell carried where the pulse can answer it. Binding names Moktak's event — Not recorded, the prayer preserved without the petitioner — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is gravitational: the bearer moves as though carrying an invisible load that grows heavier near unresolved debt, the bell tolling weight wherever something is owed. The source-trace fixed doctrine: the place permits study, its spirit pressure becoming legible under sustained observation, and the Token uncouples the hazard only after attribution to Moktak. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Moktak's Token is the stigma record of the Moktak set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's spirit sorrow, crystallized into wearable form, one beat of the wooden bell carried where the pulse can answer it. Binding names Moktak's event — Not recorded, the prayer preserved without the petitioner — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the inheritance: every duty the bearer has set down returns at its original weight, and a season of carrying it leaves them holding the whole line's load. The source-trace fixed doctrine: the place permits study, its spirit pressure becoming legible under sustained observation, and the Token uncouples the hazard only after attribution to Moktak. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt. Continued use makes Moktak's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token is a bead from a hall of ancestors: carried, it makes every inherited duty the bearer has ever set down come back weighing the same as when it was handed over.
 
 ## ITEM-SPECIFIC HISTORY — *The Moktak Source-Trace: Stigma Record*
 

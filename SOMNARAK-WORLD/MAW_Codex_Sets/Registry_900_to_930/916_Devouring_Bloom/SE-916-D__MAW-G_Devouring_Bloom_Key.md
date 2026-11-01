@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Devouring Bloom Key is the stigma record of the Devouring Bloom set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is restorative: it heals minor wounds through touch, the memorial's tenderness passed on petal by petal. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is paid in years: the wearer ages faster with each use, healing bought at the memorial's own rate of accumulation. The source-trace fixed doctrine: the Key reveals the sorrow attached to each petal, every crystal traced to its name below the city, and it stabilizes the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Devouring Bloom Key is the stigma record of the Devouring Bloom set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is restorative: it heals minor wounds through touch, the memorial's tenderness passed on petal by petal. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is the years: each wound the Key closes takes a portion of the bearer's remaining time, and a season of healing is readable on their face. The source-trace fixed doctrine: the Key reveals the sorrow attached to each petal, every crystal traced to its name below the city, and it stabilizes the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer ages faster with each use. Continued use makes Devouring Bloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The Key heals by touch and takes the years back out of the healer: each wound closed costs the bearer a portion of their own remaining time.
 
 ## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Stigma Record*
 

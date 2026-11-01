@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The oldest eight sets, second half (batch 53)
+
+`909` through `916`: the Dormant Monolith, Moktak, Never Discharged, Eleven Fifty-Nine, Backward Hour, Amnesia, Corrosion Dream, Devouring Bloom. Twenty-four records, field and paragraph.
+
+Every one of these sets is a place, an hour or a state rather than a creature, so each cost had to be written from what the item does to time or place. The Dormant Monolith Shield slows the wearer's clock to a pillar's and the day takes as long as standing still takes. Eleven Fifty-Nine's Veil leaves nothing concluded, so the wearer cannot finish a sentence that would end anything. Backward Hour's Edge runs the wielder's improvements in reverse — a debt repaid, an apology accepted, a wound closed, each taken back one step. Corrosion Dream's Charm rusts the bearer's certainty first, so no plan reads as finishable.
+
+**Left:** 27 records in this range, all in the last group of sets, and 41 in `1001_to_1043`.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The oldest eight sets (batch 52)
 
 `Registry_900_to_930` is the archive's earliest range and the worst preserved: every cost in it was a stock sentence chosen by element, so a Lament weapon said the same thing whether it cut flesh or cut a story. This batch rewrites `900` through `907` — the Vellum Man, Duri's Heart, Goru's Fist, Glass Elsewhere, the Thinking Engine, Lacrima, the Grimoire and the Breathing Stone — twenty-four records, field and Appearance paragraph both.

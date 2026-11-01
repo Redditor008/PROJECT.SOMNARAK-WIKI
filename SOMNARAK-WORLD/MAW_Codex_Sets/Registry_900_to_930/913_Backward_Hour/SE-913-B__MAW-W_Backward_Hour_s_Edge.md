@@ -29,7 +29,7 @@ Backward Hour's Edge is the weapon record of the Backward Hour set — γ-grade,
 |---:|---:|---:|---|---:|
 | Grudge 14–21 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences mild memory fragmentation with each use. Continued use makes Backward Hour's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge counts backwards as it lands: each blow takes a good thing back one step — a debt repaid, an apology accepted, a wound closed. Wielded long, the wielder cannot remember anything getting better.
 
 ## ITEM-SPECIFIC HISTORY — *The Backward Hour Source-Trace: Weapon Record*
 

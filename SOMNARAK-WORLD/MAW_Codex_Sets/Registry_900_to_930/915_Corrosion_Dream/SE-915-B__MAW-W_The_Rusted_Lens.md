@@ -31,7 +31,7 @@ Despite its corroded appearance, the cutting edge is polished to razor sharpness
 |---:|---:|---:|---|---:|
 | Void 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Corrosion Dream's source sorrow feel autobiographical.
+**Operational / binding cost:** The Lens cuts at the finished thing: each blow makes one thing the wielder built read as already ruined. Wielded long, they cannot look at their own work without seeing the rust on it.
 
 ## ITEM-SPECIFIC HISTORY — *The Corrosion Dream Source-Trace: Weapon Record*
 

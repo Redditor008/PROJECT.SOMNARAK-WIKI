@@ -29,7 +29,7 @@ Moktak's Edge is the weapon record of the Moktak set — β-grade, Weight-aligne
 |---:|---:|---:|---|---:|
 | Weight 11–17 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Moktak's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge strikes the spirit the way a hall strikes a guest: each blow makes the wielder smaller in a room that has not changed size. Wielded long, they bow to furniture.
 
 ## ITEM-SPECIFIC HISTORY — *The Moktak Source-Trace: Weapon Record*
 

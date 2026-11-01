@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Never Discharged's Veil is the suit record of the Never Discharged set — β-grade, Weight-aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the body register of sorrow a perpetual posting accumulates. Binding names Never Discharged's event — Not recorded, the enlistment on file and the discharge nowhere — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a constant low fatigue, as though Never Discharged's burden settles on the wearer's shoulders, one more shift added to a watch that never rotates. The source-trace fixed doctrine: the time-manifestation recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil redirects the hazard only after attribution to Never Discharged. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Never Discharged's Veil is the suit record of the Never Discharged set — β-grade, Weight-aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the body register of sorrow a perpetual posting accumulates. Binding names Never Discharged's event — Not recorded, the enlistment on file and the discharge nowhere — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the frozen moment: the wound never resolves and the shift never ends, and a season of wear leaves the wearer no longer expecting either to. The source-trace fixed doctrine: the time-manifestation recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil redirects the hazard only after attribution to Never Discharged. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Never Discharged's Veil is the suit record of the Never Discharged set — β-gr
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue, as though Never Discharged's burden settles on their shoulders. Continued use makes Never Discharged's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil holds the wearer in the moment before treatment: while worn, the wound never resolves and the shift never ends. Worn long, they stop believing the shift can end.
 
 ## ITEM-SPECIFIC HISTORY — *The Never Discharged Source-Trace: Suit Record*
 

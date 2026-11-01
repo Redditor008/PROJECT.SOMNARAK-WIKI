@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-grade, Weight-aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 45 Sorrow Echoes a deployment — and its canonical ability grants resistance to Weight damage, protecting the Han, sorrow reserves and karmic debt, worn against exactly the Bloom's kind of pressure. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is a constant low fatigue, the memorial's mass distributed across the wearer's shift. The source-trace fixed doctrine: the Bloom tests whether the worker can bear its growing weight, and the Mantle opens the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-grade, Weight-aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 45 Sorrow Echoes a deployment — and its canonical ability grants resistance to Weight damage, protecting the Han, sorrow reserves and karmic debt, worn against exactly the Bloom's kind of pressure. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is the feeding: the Mantle holds the line and eats what holds it, and a season of wear leaves the wearer steady, unhurt and lighter than they were. The source-trace fixed doctrine: the Bloom tests whether the worker can bear its growing weight, and the Mantle opens the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes Devouring Bloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle feeds the wearer to the bloom a little at a time: it holds the line and eats what holds it. Worn long, the wearer is steady, unhurt, and lighter than they were.
 
 ## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Suit Record*
 

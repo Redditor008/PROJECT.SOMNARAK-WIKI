@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Rusted Span is the suit record of the Corrosion Dream set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 35 Sorrow Echoes a deployment — and its canonical ability creates a temporary path through hostile space, the dreamed bridge briefly rebuilt underfoot. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is communal: the wearer feels everyone who cannot follow, each crossing counted against those still on the far side. The source-trace fixed doctrine: the source keeps singing until the worker can remain with the distance, and the Span marks the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Rusted Span is the suit record of the Corrosion Dream set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 35 Sorrow Echoes a deployment — and its canonical ability creates a temporary path through hostile space, the dreamed bridge briefly rebuilt underfoot. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is the left-behind: the span carries the wearer across and leaves everyone it could not take, and a season of it makes crossing alone the ordinary case. The source-trace fixed doctrine: the source keeps singing until the worker can remain with the distance, and the Span marks the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Rusted Span is the suit record of the Corrosion Dream set — γ-grade, Void
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels everyone who cannot follow. Continued use makes Corrosion Dream's source sorrow feel autobiographical.
+**Operational / binding cost:** The Span holds a path open for as long as the wearer believes it will: it carries them across and leaves behind everyone it could not take. Worn long, the wearer crosses alone as a matter of course.
 
 ## ITEM-SPECIFIC HISTORY — *The Corrosion Dream Source-Trace: Suit Record*
 

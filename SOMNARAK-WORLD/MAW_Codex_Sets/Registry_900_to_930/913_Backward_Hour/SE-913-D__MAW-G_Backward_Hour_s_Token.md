@@ -21,14 +21,14 @@
 
 ## Appearance
 
-Backward Hour's Token is the stigma record of the Backward Hour set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's grudge sorrow, crystallized into wearable form, a clock hand that points at what already happened. Binding names Backward Hour's event — Not recorded, the retribution filed before the offense — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a whetting: old injuries and old resentments sharpen whenever the stigma is used, the bearer's history rewound to its angriest minute. The source-trace fixed doctrine: the manifestation permits study, its grudge pressure becoming legible under sustained observation, and the Token opens the hazard only after attribution to Backward Hour. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Backward Hour's Token is the stigma record of the Backward Hour set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's grudge sorrow, crystallized into wearable form, a clock hand that points at what already happened. Binding names Backward Hour's event — Not recorded, the retribution filed before the offense — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the countdown: old injuries and old resentments sharpen each night and are no better by daylight, and a season of carrying it leaves the bearer keeping both. The source-trace fixed doctrine: the manifestation permits study, its grudge pressure becoming legible under sustained observation, and the Token opens the hazard only after attribution to Backward Hour. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used. Continued use makes Backward Hour's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token runs the bearer's healing backwards: an old injury and an old resentment sharpen each night and are no better by daylight.
 
 ## ITEM-SPECIFIC HISTORY — *The Backward Hour Source-Trace: Stigma Record*
 

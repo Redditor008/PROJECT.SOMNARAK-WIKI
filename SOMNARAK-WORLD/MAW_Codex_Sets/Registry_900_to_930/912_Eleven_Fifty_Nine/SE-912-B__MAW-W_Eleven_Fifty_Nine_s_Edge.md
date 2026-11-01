@@ -29,7 +29,7 @@ Eleven Fifty-Nine's Edge is the weapon record of the Eleven Fifty-Nine set — �
 |---:|---:|---:|---|---:|
 | Lament 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences chronic fatigue in the dominant hand with each use. Continued use makes Eleven Fifty-Nine's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge lands at one minute to midnight and stays there: each strike puts the wielder back at the last minute of a night they cannot finish. Wielded long, they sleep with the light on and cannot say why.
 
 ## ITEM-SPECIFIC HISTORY — *The Eleven Fifty Nine Source-Trace: Weapon Record*
 

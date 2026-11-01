@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Dormant Monolith Charm is the stigma record of the Dormant Monolith set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Monolith's sorrow, the effect mirroring the entity's nature: stillness earned, not seized. Binding names the source event — a border worker carried family and community obligations until the mind became a sleeping pillar — and accepts the set's limit: ground the worker and establish a rotation of duty. The cost is small and linguistic: the bearer occasionally forgets a word, speech acquiring its own dormant stretches. The source-trace fixed doctrine: the Charm reveals the duties holding the worker in place, obligation made visible as architecture, and it interrupts the hazard only after attribution to Dormant Monolith. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Dormant Monolith Charm is the stigma record of the Dormant Monolith set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Monolith's sorrow, the effect mirroring the entity's nature: stillness earned, not seized. Binding names the source event — a border worker carried family and community obligations until the mind became a sleeping pillar — and accepts the set's limit: ground the worker and establish a rotation of duty. The cost is the filing: every postponed duty goes quiet and stops counting, and a season of carrying it leaves the bearer rested and unable to account for the year. The source-trace fixed doctrine: the Charm reveals the duties holding the worker in place, obligation made visible as architecture, and it interrupts the hazard only after attribution to Dormant Monolith. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer occasionally forgets a word. Continued use makes Dormant Monolith's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm files the bearer's duties where they cannot be reached: carried, each postponed obligation goes quiet and stops counting. Carried long, the bearer feels rested and cannot account for the year.
 
 ## ITEM-SPECIFIC HISTORY — *The Dormant Monolith Source-Trace: Stigma Record*
 

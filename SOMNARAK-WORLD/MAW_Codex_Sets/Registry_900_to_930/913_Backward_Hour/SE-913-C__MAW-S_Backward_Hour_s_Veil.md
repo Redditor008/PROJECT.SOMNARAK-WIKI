@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Backward Hour's Veil is the suit record of the Backward Hour set — γ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against a resentment that replays itself in reverse. Binding names Backward Hour's event — Not recorded, the grievance rewinding past its own cause — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is somatic: the wearer holds every slight in their body, reflexes stiffening, anger arriving before thought, the hour teaching its backward count to the pulse. The source-trace fixed doctrine: the manifestation recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil uncouples the hazard only after attribution to Backward Hour. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Backward Hour's Veil is the suit record of the Backward Hour set — γ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against a resentment that replays itself in reverse. Binding names Backward Hour's event — Not recorded, the grievance rewinding past its own cause — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the reversal: every slight the wearer settles comes unsettled again by morning, and a season of wear teaches them not to settle anything. The source-trace fixed doctrine: the manifestation recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil uncouples the hazard only after attribution to Backward Hour. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Backward Hour's Veil is the suit record of the Backward Hour set — γ-grade, G
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.3 (Resistant) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought. Continued use makes Backward Hour's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil holds a grudge in the body and runs the hour in reverse: worn, every slight the wearer settles comes unsettled again by morning. Worn long, they stop settling anything.
 
 ## ITEM-SPECIFIC HISTORY — *The Backward Hour Source-Trace: Suit Record*
 
