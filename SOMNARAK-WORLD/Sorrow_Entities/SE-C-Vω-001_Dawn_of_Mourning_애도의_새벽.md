@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 75–95% |
 | **Han-Energy yield** | 28–40 per cycle on paper, and nothing has ever been collected. This entity has not formed in the current cycle; the figure is modelled from the Kind Healer chain and the energy office carries it as a provision rather than a return. |
 | **Work difficulty** | No authorised work. “Extreme” is retained only as the historical/projected model's difficulty label · R.D. Comprehension Level 2 — Limited historical record |
-| **Activation threshold** | 1 — one twelfth-completion event; not a Sorrow Gauge percentage and not an activation currently in progress |
+| **Activation threshold** | The twelfth blessing completing — the closing of the Kind Healer's chain, filed as a condition. There is no counter: the form is never held, so there is nothing to count down |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — ω-grade |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -55,7 +55,7 @@
 |---|---|
 | **Speed** | No current speed. `2.95 m/s` is an unobserved value in the historical/projected formation model, not a measured travel speed for an entity that stands and sentences. |
 | **Resistance** | Projected only: 55% against All four — Lament, Grudge, Void, Weight pressure; 45% against other pressure types. No current encounter has tested either figure. |
-| **Activation threshold** | Historical/projected model: Sorrow Gauge ≥ 95%. This is not a live holding state in the current cycle. |
+| **Activation threshold** | The twelfth blessing completing — the chain's own condition, and the only trigger. The historical/projected model opens at the 75–95% pressure band and reaches ≥ 95% at judgment; that band is the model's opening pressure, not a counter, and no current-cycle holding state exists. |
 | **Sorrow Gauge [HP]** | Historical/projected record value: 12,000/12,000. |
 | **Han Pressure [ATK]** | 44–111 per hit · Lament wording preserved from the linked record · **Instant Fracture on critical**. The all-four element, Mixed action cycle and undefined critical rule are not reconciled here. |
 | **Coherence modifier** | V — affects behavior complexity and response speed |

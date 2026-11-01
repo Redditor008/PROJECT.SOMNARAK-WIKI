@@ -213,6 +213,8 @@ She learned to name what it felt, because naming was the only thing she could do
 
 The bond is called Efflorescence in the Directorate's taxonomy, which was written long after and does not use her name in the example. It means a person and a compatible entity recognize each other, merge without the person's control being lost, and come out changed and whole. The definition is accurate. It is also much tidier than the six years it took.
 
+## The Break
+
 ### The Walk Back
 
 She did not decide to go back. She decided to see the Gate again, which is a different decision, and she made it in her tenth year with the intention of turning around.

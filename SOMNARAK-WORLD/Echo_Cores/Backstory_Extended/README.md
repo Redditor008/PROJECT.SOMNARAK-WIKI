@@ -5,7 +5,7 @@
 **Governing standard:** [`00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md)  
 **Purpose:** Prepare a dedicated home for fuller named-character histories for the Nine Echo-Cores.
 
-> 📌 **Pinned reminder:** The structure and form are filed, and eight of the nine records are written and gated — `01` Majin through `08` Ishall. `09` Xyan is not written; its filename below is planned, not completed. Do not move or replace the nine canonical Echo-Core dossiers to fill them.
+> 📌 **Pinned reminder:** The structure and form are filed, and all nine records are written and gated — `01` Majin through `09` Xyan. Every file carries the same spine and the same `The Break` heading, at the module where the meaning of the past changes. Do not move or replace the nine canonical Echo-Core dossiers to fill them.
 
 ---
 

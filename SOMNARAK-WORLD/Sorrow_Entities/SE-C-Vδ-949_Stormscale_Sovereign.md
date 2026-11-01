@@ -29,10 +29,10 @@
 | **Entity role** | Subject — Transformation apex |
 | **Primary pressure** | All (cycles) |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 22–30 Han-Energy per successful work cycle |
-| **Work difficulty** | Extreme · R.D. Comprehension Level 4 — Mastered |
+| **Han-Energy yield** | — · no work loop exists. Nothing is collected from a form that is never held, and no yield figure is carried for it. |
+| **Work difficulty** | — · no work session exists. The field values below describe the manifested event, not a session anybody may run against it. |
 | **Activation threshold** | The reunion of the Soot Fry and the Foam Flood (FORBIDDEN) |
-| **Tool / M.A.W. grade** | δ |
+| **Tool / M.A.W. grade** | δ · filed from the historical resonance only. No production line exists and no piece is extracted from a held body. |
 | **Vessel-Destructible** | No — Sovereign; the form dissolves back into the fish, it cannot be shattered. |
 | **Han Dust Drop (Vessel Destruction)** | — (Sovereign; never vessel-destroyed) |
 | **Recommended response** | Do not allow the reunion. If the Sovereign manifests, the only recorded suppression is the same one that ended it the first time: a single selfless wish spoken by the transformed being — and that cannot be relied upon. Evacuate. |
@@ -70,8 +70,8 @@
 | **Coherence** | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself |
 | **Primary Pressure** | All (cycles) |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Extreme · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan (all are valid; none are sufficient) |
+| **Difficulty** | Extreme — event encounter. No work session, no approach procedure and no comprehension ladder apply. |
+| **Valid Work Types** | — · none. The four responses recorded under Behavior are field reactions to approach during manifestation, not work outcomes, and no session is authorised or possible. |
 | **Battlefield** | The sky and the river at once — the only field this entity occupies |
 | **Resolution Condition** | There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses. |
 
@@ -89,7 +89,7 @@
 ### Battle Phases
 
 1. **Tension:** There is no containment that holds a Sovereign. On manifestation, the only action is evacuation of every sector within flight-range, and the dispatch of the full containment arm to prevent, if it can be prevented, the reunion that would sustain the form.
-2. **Clash:** If engagement is unavoidable, all four Work Types are applied in rotating order — none holds alone. The team's only real goal is to buy time for the Sovereign to remember what it was, and to wish itself small again.
+2. **Clash:** If engagement is unavoidable, the four approaches are tried in rotating order — none holds alone, and none of them is work. The team's only real goal is to buy time for the Sovereign to remember what it was, and to wish itself small again.
 3. **Resolution:** The only documented resolution is the historical one: the Sovereign, moved by the disaster it caused, wished selflessly for the rain to stop — and the imperfect form, unable to hold a selfless wish, collapsed back into the fish. There is no guarantee a second manifestation would wish the same.
 
 ### Consequences
@@ -138,16 +138,18 @@
 
 ## Behavior
 
-| Work Type | Response | Gauge Change |
+**There is no work loop on this form.** Nobody is assigned to the Sovereign, no session is run against it, and no gauge is moved by a work outcome — it is never held, so there is nothing to hold it in. What follows records how it answers each kind of approach *during a manifestation*, and that is a field reaction, not a work response. The four names are the approaches the crews already know; the form answers them the way weather answers a question.
+
+| Approach | Response during manifestation | Reading |
 |---|---|---|
-| **Flerehan** (Tears / Lament) | Offered the grief of what it briefly was and lost, the Sovereign stills in the air, the rain easing — for a moment it remembers being whole. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | It turns the full weather against the source of aggression — the rain, the wind, the weight of the sky; opposition reads to it as the hundred-year flood being blamed on it, which it cannot bear. | Increase |
-| **Viderehan** (Observation / Void) | Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. | Stable |
-| **Ferrehan** (Endurance / Weight) | The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. | Decrease |
+| **Flerehan** (Tears / Lament) | Offered the grief of what it briefly was and lost, the Sovereign stills in the air, the rain easing — for a moment it remembers being whole. | The form eases; nothing is resolved |
+| **Pugnahan** (Confrontation / Grudge) | It turns the full weather against the source of aggression — the rain, the wind, the weight of the sky; opposition reads to it as the hundred-year flood being blamed on it, which it cannot bear. | The form hardens; the fall comes heavier |
+| **Viderehan** (Observation / Void) | Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. | The form can be read; it cannot be held |
+| **Ferrehan** (Endurance / Weight) | The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. | The crew lasts longer than the form does |
 
-### Operational Work Notes
+### Field Notes
 
-The gauge response is only meaningful in context. The Stormscale Sovereign is recorded as a Subject with Subject-Spirit manifestation and Mixed elemental expression — the only entity in the registry that cycles all four sorrows at once. The current record marks it Latent / Unmanifested; it has no fixed location because it has not, since the original transformation, been allowed to exist. A stable gauge, in the only historical encounter, did not last: the form is inherently unstable, and no Work Type has been shown to hold it.
+The gauge response is only meaningful in context. The Stormscale Sovereign is recorded as a Subject with Subject-Spirit manifestation and Mixed elemental expression — the only entity in the registry that cycles all four sorrows at once. The current record marks it Latent / Unmanifested; it has no fixed location because it has not, since the original transformation, been allowed to exist. A stable gauge, in the only historical encounter, did not last: the form is inherently unstable, and no approach has been shown to hold it.
 
 **Reading the response:** Work success, against a Sovereign, is not measured in damage prevented but in time bought. A decrease means the Sovereign has been moved, for a moment, toward remembrance — toward the selfless wish that ended it the first time. An increase means the form is straining harder, and the fall, when it comes, will be heavier. There is no documented strategy that defeats this entity; there is only the hope that it defeats itself, kindly, before it breaks.
 

@@ -161,6 +161,8 @@ The acoustics section says the phrase was assembled from residual memory and had
 
 Zyrak was called because she was the best Collector in the Row and the case was hers.
 
+## The Break
+
 ### The Killing
 
 The procedure for a manifested debtor is three steps. Contain. Confirm the manifestation is not recoverable. Terminate.

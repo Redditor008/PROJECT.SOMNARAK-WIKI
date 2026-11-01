@@ -354,6 +354,8 @@ He kept the ring in his hand and did not turn either key, and the Healer folded 
 
 That is the entry the record wants kept. It is not a compassionate act and this file will not call it one. It is the first time he filed a decision he could not justify by measurement, and it was the correct decision, and he has never been able to explain how he made it.
 
+## The Break
+
 ### Day 155 — The Twelfth
 
 > **[Ayshuk]** "Research report. The Kind Healer blessed a twelfth person today."

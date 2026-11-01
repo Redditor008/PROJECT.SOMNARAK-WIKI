@@ -1099,5 +1099,7 @@ No story file may cite this standard as authority for contradicting a dossier. T
 - Character files: **01** Majin through **09** Xyan filed, each on the pre-break/break/post-break spine, each validated and gated before the next began. The nine are closed.
 - Activated Echo-Core: **Xyan**, closed. The corpus has no tenth.
 - Next step: none in this folder. Work on these records is now revision, not authorship.
-- Outstanding owner decisions: the Solidification dating conflict held in file 01; the station and the double-dated return held in file 09; the Day 53 double exposure between 01 and 03; and whether 01–06 take the `The Break` heading so the folder has one shape.
+- **The `The Break` heading is settled and applied.** All nine files carry one, at the module where the meaning of the past changes: `01`–`03` under the heading that used to read *What Broke*, `04` at the killing, `05` at the twelfth blessing, `06` at the walk back through the Gate, and `07`–`09` where it already stood. The folder has one shape.
+- **The Day 53 double exposure is closed.** File `03` owns the scene and the measurement, and file `01` keeps the office exchange and the order with an explicit hand-back to `03` for what Dekan did with it. No line is now carried twice without a pointer.
+- Outstanding owner decisions: the Solidification dating conflict held in file 01; the station and the double-dated return held in file 09.
 - The nine canonical dossiers remain unchanged and authoritative.

@@ -864,6 +864,8 @@ He went back up. Dekan has said, in a statement taken for this record, that the 
 
 > **[Majin]** "Let it shift. As long as the lift operates, the facility holds."
 
+Dekan's own record carries what followed: the same four markers measured again, in the dark, with the android hand, and two methods agreeing on 2.3 centimetres. This file keeps only what was said in the office and what was ordered out of it.
+
 #### The Annex
 
 The callsign was not the part that stayed with him. The callsign was a fact about the wall.
@@ -944,7 +946,7 @@ Marjuk did not answer, and Majin did not press him, and the two of them stood in
 
 > **[Majin]** "Then it is a family tradition."
 
-### What Broke
+## The Break
 
 It was not the sentence. He had read the sentence before. Marjuk had quoted it on Day 121, in the last entry, and it had gone into the command register as an archival finding and had not changed a single order.
 

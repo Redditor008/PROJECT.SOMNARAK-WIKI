@@ -258,7 +258,7 @@ A pause. The pen came up.
 
 There is no field in the station log for what happened in the eleven seconds between the question and the answer, so the log contains the eleven seconds and nothing else.
 
-### What Broke
+## The Break
 
 It was not the question.
 

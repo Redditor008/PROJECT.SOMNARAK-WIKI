@@ -165,6 +165,8 @@ Read the code and the coherence level before trusting a flat read: those two, no
 | **4a (Hope)** | **The Hand of Hope** | Twelfth blessing completes in hope | **Hope transformation — V/Hope** |
 | **4b (Sorrow)** | **The Dawn of Mourning** | Twelfth blessing completes in unresolved sorrow | **Catastrophic — V/ω** |
 
+Stage 4b is a **Special Abnormality** (`R-35`): the chain's terminus, never acquired as an entity in its own right, and therefore carrying no work loop, no yield and no counter. It is filed under `C-Vω-001` and reached only by completing this chain.
+
 ## Breach Behavior
 
 > *"The Kind Healer has left the chamber. It is walking toward the injured. Clear its path and guide it back without striking it."*

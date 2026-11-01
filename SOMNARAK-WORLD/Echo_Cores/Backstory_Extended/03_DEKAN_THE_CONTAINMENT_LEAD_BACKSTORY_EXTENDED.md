@@ -265,7 +265,7 @@ He had to stop and start again, which he does not do.
 
 > **[Dekan]** *"...Understood, Director. The wardens will stand vigil in silence."*
 
-### What Broke
+## The Break
 
 It was not the clarity. He had heard clarity before, in fragments, in single words, in a name arriving through a wall at the wrong hour.
 

@@ -8,6 +8,32 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The fixes behind the labels: terminus records rebuilt, the folder made one shape (2026-11-01)
+
+The previous entry classed two dossiers as Special Abnormalities and stopped there. A class row is not a conversion, and the owner said so: *"go again this time with doing fixed not just labeling and holding it over and over."* This entry is the work the row was standing in for.
+
+**The Stormscale Sovereign was still filed as a worked entity.** It carried a `Han-Energy yield` of 22–30 per cycle, a work difficulty, a `Valid Work Types` row naming all four works, and a Behavior table with a Work Type column and a gauge-change column — a full work loop on a form nobody can be assigned to.
+
+- `Han-Energy yield` now reads `—`, with the reason: nothing is collected from a form that is never held.
+- `Work difficulty` and the Combat Record's `Difficulty` read `—` / `Extreme — event encounter`; the field values below them describe the manifested event, not a session.
+- `Valid Work Types` reads `— · none`.
+- The Behavior table is re-headed **Approach / Response during manifestation / Reading**, opened by the statement that there is no work loop, because the four names are the approaches crews already know and the form answers them the way weather answers a question. The gauge-change column, which implied work outcomes, is gone.
+- The Battle Phases no longer say "all four Work Types are applied"; they say the four approaches are tried, and none of them is work.
+
+**The Dawn of Mourning carried two different activation thresholds in one file.** The Operational Parameters row read `1 — one twelfth-completion event` — a numeral on a form that has no counter — while the Combat Record row read `Sorrow Gauge ≥ 95%`. Both now state the same thing: the trigger is the twelfth blessing completing, filed as a condition; the 75–95% band is the historical model's opening pressure and not a counter.
+
+**The relic and equipment framing was left honest rather than deleted.** The Sovereign's M.A.W. pieces stay, with the grade row now saying they are filed from the historical resonance only and that no production line exists; nothing is extracted from a held body because there is no held body.
+
+**The Kind Healer chain now names its own terminus.** Its Transformation Chain table gains a paragraph after Stage 4b stating that the Dawn is a Special Abnormality under `R-35`, reached only by completing the chain, and filed under `C-Vω-001`. Stages 2 and 3 already carried registry notes calling themselves stages; they are left as stages.
+
+**The backstory folder was carrying two shapes, and now carries one.** `01`–`06` were approved for the `The Break` heading and had not received it. `01`, `02` and `03` were filing the break as `### What Broke`; it is now `## The Break` in all three. `04` takes the heading at the killing, `05` at the twelfth blessing, `06` at the walk back through the Gate. With `07`–`09` already carrying it, all nine now mark the same structural point under the same name.
+
+**The Day 53 double exposure is closed, not held.** File `03` owns the scene — it has the full exchange, the raw capture and the second measurement — and already handed back to `01` for the order. File `01` was quoting the same opening exchange with no pointer; it now carries one line after the order sending the reader to `03` for the measurement Dekan took afterwards. Nothing was deleted from either file.
+
+**Two stale statements corrected.** `README.md` still said *eight of the nine records are written* and that `09` was planned rather than completed, while the same file's table marked `09` written; the pinned reminder now says all nine are written and gated and that every file carries `The Break`. `00_…STRUCTURE_AND_FORM.md` §XVII listed the Break heading and the Day 53 exposure as outstanding owner decisions; both are now recorded as settled, and the outstanding list is down to the Solidification dating and the two items held in file `09`.
+
+**Checks:** `seam_lint` 1,767 · `label_lint` 301 · `check_links` 3,995 / 0 broken · `audit_lore_archive` PASS · box symmetry PASS · `breach.py` floors OK · `git diff --check` clean.
+
 ## Special Abnormality — a form that is never acquired (2026-11-01)
 
 Owner: *"Because Apo Bird Act Like The Sovereign Dragon From P.S. They Are Both End Of Transformation Line Or Like Plague Doctor and Kind Healer/the MAW From P.S. … The Two Activation Transform SE Really Need An Update Because They Should Never Be File Like Normal SE But Like Special Abno."*
