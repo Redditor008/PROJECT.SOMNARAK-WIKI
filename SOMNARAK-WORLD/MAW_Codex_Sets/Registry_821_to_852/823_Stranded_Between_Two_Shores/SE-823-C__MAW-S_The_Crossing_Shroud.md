@@ -33,12 +33,12 @@ The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, gr
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Suit Record*
 
-The first bearer of The Crossing Shroud encountered this source response: Requires the worker to remain while the sobs subside. The suit stabilizes the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crossing Shroud encountered this source response: Requires the worker to remain while the sobs subside. The suit stabilizes the immediate hazard only after the team attributed it to Stranded Between Two Shores. A wearer walked a ward of mourners and was described, accurately, as not having been in it, and the Shroud’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Stranded Between Two Shores's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: people stop noticing the wearer has passed, and the room closes behind them like water.
 - Terminal state: Stranded Between Two Shores's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen between the sobs and name both shores” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Crossing Shroud encountered this source response: Requir
 
 ## SET RELATIONSHIP
 
-Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer is still moved by somebody in the room; the first crossing without it takes the Shroud out.
 
 ---
 

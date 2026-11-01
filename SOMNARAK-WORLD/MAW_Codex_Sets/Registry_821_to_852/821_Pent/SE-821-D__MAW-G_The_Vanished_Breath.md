@@ -32,12 +32,12 @@ The Vanished Breath is the stigma record of Pent’s set — tail-slot, bestowed
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Stigma Record*
 
-The first bearer of The Vanished Breath encountered this source response: Reveals the worker and the moment of collapse. The stigma discharges the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Vanished Breath encountered this source response: Reveals the worker and the moment of collapse. The stigma discharges the immediate hazard only after the team attributed it to Pent. A bearer granted permission to breathe until there was nobody left in the room to grant it, and the Breath’s binding is the count kept that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Pent's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: held breaths register from other floors, and the bearer stops sleeping between them.
 - Terminal state: Pent's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Permit rest and acknowledge exhaustion as real” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Vanished Breath encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Pent — Witnessed Form*, The Vanished Breath performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Pent — Witnessed Form*, The Vanished Breath performs the stigma role while the other pieces preserve attribution and survival. The Breath drops out of the set when the bearer rests while somebody nearby is still holding theirs.
 
 ---
 

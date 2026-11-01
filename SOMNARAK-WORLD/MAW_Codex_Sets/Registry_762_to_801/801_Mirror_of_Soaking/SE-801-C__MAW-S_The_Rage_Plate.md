@@ -33,12 +33,12 @@ The Rage Plate is the suit record of the Mirror of Soaking’s set, granting res
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Suit Record*
 
-The first bearer of The Rage Plate encountered this source response: Forces the worker to remain before their own rage. The suit isolates the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Plate encountered this source response: Forces the worker to remain before their own rage. The suit isolates the immediate hazard only after the team attributed it to Mirror of Soaking. A wearer was described as pleasant by three separate wardens in one week, and the Plate’s binding is that week’s character note.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mirror of Soaking's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the plate runs warm to the touch in an empty room, and the wearer’s courtesy stops matching anything they feel.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-801 -->
@@ -47,7 +47,7 @@ The first bearer of The Rage Plate encountered this source response: Forces the 
 
 ## SET RELATIONSHIP
 
-Within *Mirror of Soaking — Witnessed Form*, The Rage Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Mirror of Soaking — Witnessed Form*, The Rage Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s anger can still be got out of the plate; a plate that stays warm past the watch takes it out.
 
 ---
 

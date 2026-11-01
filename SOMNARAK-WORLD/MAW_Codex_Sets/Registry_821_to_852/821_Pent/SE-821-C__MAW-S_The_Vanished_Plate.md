@@ -33,12 +33,12 @@ The Vanished Plate of Pent’s set grants resistance to Grudge damage, protectin
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Suit Record*
 
-The first bearer of The Vanished Plate encountered this source response: Tests whether personnel can rest without shame. The suit contains the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Vanished Plate encountered this source response: Tests whether personnel can rest without shame. The suit contains the immediate hazard only after the team attributed it to Pent. A wearer finished a breach with a wound nobody had logged and a stride that had changed, and the Plate’s binding is the form filed after that muster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Pent's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: exhaustion and injury read the same, and the wearer cannot tell which of them is asking them to stop.
 - Terminal state: Pent's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Permit rest and acknowledge exhaustion as real” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Vanished Plate encountered this source response: Tests w
 
 ## SET RELATIONSHIP
 
-Within *Pent — Witnessed Form*, The Vanished Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Pent — Witnessed Form*, The Vanished Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s damage is still filed under *not yet*; the first entry moved to *now* takes the Plate out.
 
 ---
 

@@ -32,12 +32,12 @@ The Rage Lens is the stigma record of the Mirror of Soaking’s set — tail-slo
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Stigma Record*
 
-The first bearer of The Rage Lens encountered this source response: Reveals the event that created the anger. The stigma interrupts the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Lens encountered this source response: Reveals the event that created the anger. The stigma interrupts the immediate hazard only after the team attributed it to Mirror of Soaking. A bearer argued a grievance the room had already settled and could not say whose it had been, and the Lens’s binding is the minute taken at that meeting.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mirror of Soaking's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the borrowed angers outnumber the bearer’s own, and each arrives with a name attached that is not theirs.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-801 -->
@@ -46,7 +46,7 @@ The first bearer of The Rage Lens encountered this source response: Reveals the 
 
 ## SET RELATIONSHIP
 
-Within *Mirror of Soaking — Witnessed Form*, The Rage Lens performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Mirror of Soaking — Witnessed Form*, The Rage Lens performs the stigma role while the other pieces preserve attribution and survival. The Lens drops out of the set when it is asked to show an anger the bearer is already carrying.
 
 ---
 

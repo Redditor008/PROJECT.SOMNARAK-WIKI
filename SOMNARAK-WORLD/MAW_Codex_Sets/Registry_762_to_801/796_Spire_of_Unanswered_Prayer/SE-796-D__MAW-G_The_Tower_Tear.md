@@ -32,12 +32,12 @@ The Tower Tear is the stigma record of the Spire of Unanswered Prayer’s set �
 
 ## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Stigma Record*
 
-The first bearer of The Tower Tear encountered this source response: Reveals the settlement beneath the song. The stigma stabilizes the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tower Tear encountered this source response: Reveals the settlement beneath the song. The stigma stabilizes the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. A bearer sheltered a crowd under a field they had promised would hold, and it held; the Tear’s binding is the register of who stood beneath it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Spire of Unanswered Prayer's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the shelter starts being offered before anybody asks, and the bearer cannot name what it is holding off.
 - Terminal state: Spire of Unanswered Prayer's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen to the song; do not silence it” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Tower Tear encountered this source response: Reveals the
 
 ## SET RELATIONSHIP
 
-Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Tear performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Tear performs the stigma role while the other pieces preserve attribution and survival. The Tear drops out of the set the first time the bearer shelters somebody from something they cannot name.
 
 ---
 

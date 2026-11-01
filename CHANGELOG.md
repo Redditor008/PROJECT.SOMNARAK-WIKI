@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twelve records, four sources (batch 81)
+
+`SE-796` Sinking Chime-Tower, `SE-801` Rage, `SE-821` Vanished, `SE-823` Crossing — **twelve records, thirty-six sentences.** The Chime-Tower's Requiem holds its set only while its requests get answered *and* finished; the Rage Plate keeps resonance while the wearer's anger can still be got out of it; the Vanished Plate loses the set the first time a wound is filed under *now* instead of *not yet*.
+
+**48 of 345 done. 297 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Twelve records, four sources (batch 80)
 
 `SE-782` Fading, `SE-785` Tear Too Small to Honor, `SE-792` Flowing, `SE-794` Collapsed — **twelve records, thirty-six sentences.** The Fading Plate's scars stop explaining themselves; the Flowing Shroud keeps its set only while its wearer can name one reason they carry it; the Collapsed Key loses resonance the first time somebody crosses behind the bearer.

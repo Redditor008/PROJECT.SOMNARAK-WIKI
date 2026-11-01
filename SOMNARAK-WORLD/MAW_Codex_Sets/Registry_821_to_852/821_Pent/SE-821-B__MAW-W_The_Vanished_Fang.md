@@ -35,12 +35,12 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Weapon Record*
 
-The first bearer of The Vanished Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Pent. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Vanished Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Pent. A wielder put a third round through a target already down and read the ache as the target’s, and the Flintlock’s binding is the shot log from that volley.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Pent's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the ache arrives before the powder does, and it is filed under the target’s name every time.
 - Terminal state: Pent's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Permit rest and acknowledge exhaustion as real” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Vanished Fang encountered this source response: N/A — 
 
 ## SET RELATIONSHIP
 
-Within *Pent — Witnessed Form*, The Vanished Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Pent — Witnessed Form*, The Vanished Fang performs the weapon role while the other pieces preserve attribution and survival. The Flintlock leaves the set on the first round fired with the ache still in the wielder’s own arm.
 
 ---
 

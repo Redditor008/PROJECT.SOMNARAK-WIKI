@@ -35,12 +35,12 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Weapon Record*
 
-The first bearer of The Rage Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Mirror of Soaking. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rage Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Mirror of Soaking. A wielder spent a grievance carried eleven years in one strike and remembered it the moment the blow landed, and the Brazier’s binding follows that strike.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Mirror of Soaking's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the grievances surface between bouts, and the wielder is impolite in rooms where nothing was swallowed.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-801 -->
@@ -49,7 +49,7 @@ The first bearer of The Rage Fang encountered this source response: N/A — Obje
 
 ## SET RELATIONSHIP
 
-Within *Mirror of Soaking — Witnessed Form*, The Rage Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Mirror of Soaking — Witnessed Form*, The Rage Fang performs the weapon role while the other pieces preserve attribution and survival. The Brazier leaves the set when a strike is thrown for a grievance already said out loud.
 
 ---
 

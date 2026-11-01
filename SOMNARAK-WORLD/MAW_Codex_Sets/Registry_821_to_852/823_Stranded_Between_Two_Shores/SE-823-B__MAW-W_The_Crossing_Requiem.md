@@ -33,12 +33,12 @@ The Crossing Requiem is the weapon record of Stranded Between Two Shores’ set,
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Weapon Record*
 
-The first bearer of The Crossing Requiem encountered this source response: The bridge cracks and the tunnel fills with tears. The weapon opens the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crossing Requiem encountered this source response: The bridge cracks and the tunnel fills with tears. The weapon opens the immediate hazard only after the team attributed it to Stranded Between Two Shores. A wielder answered a call from the opposing line and was answered back, and the Crossing Requiem’s binding is the exchange written at that ford.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Stranded Between Two Shores's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wrong-shore moment stops ending with the blow and runs on between them.
 - Terminal state: Stranded Between Two Shores's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen between the sobs and name both shores” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Crossing Requiem encountered this source response: The b
 
 ## SET RELATIONSHIP
 
-Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set the moment its wielder will answer only one side.
 
 ---
 

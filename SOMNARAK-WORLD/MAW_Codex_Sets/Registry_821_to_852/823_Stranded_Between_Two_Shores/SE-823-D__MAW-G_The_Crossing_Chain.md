@@ -32,12 +32,12 @@ The Crossing Chain is the stigma record of Stranded Between Two Shores’ set �
 
 ## ITEM-SPECIFIC HISTORY — *The Stranded Between Two Shores Source-Trace: Stigma Record*
 
-The first bearer of The Crossing Chain encountered this source response: Shows the people who tried to cross. The stigma severs the immediate hazard only after the team attributed it to Stranded Between Two Shores. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Crossing Chain encountered this source response: Shows the people who tried to cross. The stigma severs the immediate hazard only after the team attributed it to Stranded Between Two Shores. A bearer reached a family that no longer knew them and returned to an address that had been let, and the Chain’s binding is the crossing written from that round.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Stranded Between Two Shores's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the bridges open to people the bearer has never met and close behind them to the ones they have.
 - Terminal state: Stranded Between Two Shores's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen between the sobs and name both shores” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Crossing Chain encountered this source response: Shows t
 
 ## SET RELATIONSHIP
 
-Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Chain performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Chain performs the stigma role while the other pieces preserve attribution and survival. The Chain drops out of the set when a crossing is made that costs the bearer nothing.
 
 ---
 

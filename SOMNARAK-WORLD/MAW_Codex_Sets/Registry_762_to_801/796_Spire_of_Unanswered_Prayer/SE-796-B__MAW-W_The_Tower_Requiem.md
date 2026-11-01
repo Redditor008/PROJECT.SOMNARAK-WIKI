@@ -35,12 +35,12 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 
 ## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Weapon Record*
 
-The first bearer of The Tower Requiem encountered this source response: The voice becomes a storm of hot tears. The weapon uncouples the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tower Requiem encountered this source response: The voice becomes a storm of hot tears. The weapon uncouples the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. The first wielder to answer a bell that had not rung in years found their own name in the request column, and the Requiem’s binding dates from that entry.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Spire of Unanswered Prayer's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unanswered requests begin arriving from rooms the wielder has never worked.
 - Terminal state: Spire of Unanswered Prayer's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen to the song; do not silence it” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Tower Requiem encountered this source response: The voic
 
 ## SET RELATIONSHIP
 
-Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on the first request the wielder both answers and finishes.
 
 ---
 

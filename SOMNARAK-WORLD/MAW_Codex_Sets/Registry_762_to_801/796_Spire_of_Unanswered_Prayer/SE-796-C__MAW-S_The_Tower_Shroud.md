@@ -33,12 +33,12 @@ The Tower Shroud is the suit record of the Spire of Unanswered Prayer’s set, g
 
 ## ITEM-SPECIFIC HISTORY — *The Spire of Unanswered Prayer Source-Trace: Suit Record*
 
-The first bearer of The Tower Shroud encountered this source response: Tests whether the worker can remain beneath the falling grief. The suit opens the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tower Shroud encountered this source response: Tests whether the worker can remain beneath the falling grief. The suit opens the immediate hazard only after the team attributed it to Spire of Unanswered Prayer. A wearer watched a channel from the upper gallery and filed a correct report from up there, and the Shroud’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Spire of Unanswered Prayer's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the wearer stops descending at all, and the water is described to them rather than met.
 - Terminal state: Spire of Unanswered Prayer's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Listen to the song; do not silence it” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Tower Shroud encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still goes down to help; a deployment spent entirely above takes the Shroud out.
 
 ---
 
