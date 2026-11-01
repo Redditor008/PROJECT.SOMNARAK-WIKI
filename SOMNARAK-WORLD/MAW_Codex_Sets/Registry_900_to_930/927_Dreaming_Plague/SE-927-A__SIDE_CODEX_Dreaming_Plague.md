@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IVδ-927 [VH] |
-| Type / Manifestation | Hazard — Can breach via Transform / Hazard-Dream |
+| Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Dream |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / SECTOR-N-927, contained |
 | Gauge / Pressure | 750/750; starts 35–50% / 30–40 per hit · Void |

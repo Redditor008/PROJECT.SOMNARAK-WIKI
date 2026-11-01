@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-910 [WP]` |
-| **Entity Type** | **Place** — Recorded breach expands the seating beyond the room, not a transformed travelling body |
+| **Entity Type** | **Place** — Non-breaching: expansion only; the seating expands beyond the room and no travelling body is recorded|
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - Threshold 3, with both valid approaches lowering the gauge. The hall rewards patience rather than intervention.
-- Pressure combines weight and spirit, and the breach type is Expansion; influence spreads beyond the hall rather than anything leaving it.
+- Pressure combines weight and spirit, and the event type is Expansion; influence spreads beyond the hall rather than anything leaving it.
 - Observation makes the spirit pressure legible. Presence settles the weight pressure, but only if the worker remains through the full dusk interval.
 - The figures appear only at dusk and resume conversations that ended centuries ago. Work scheduled outside that window records no activity and no gauge movement.
 - Yield is available only during the dusk manifestation, which caps extraction at one cycle per day regardless of staffing.
@@ -150,13 +150,15 @@ The hall does not mourn the families. It keeps their meeting open. Every evening
 
 The weight is real and measurable and it is also, in the strict sense, none of the worker’s business: it belongs to a dispute they are not party to. Both valid approaches work by being present without joining in. Personnel who try to follow the argument report the sharpest gauge readings of the hour, and the standing instruction is to attend the conversation without attending to it.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The seating expands beyond the room and no travelling body is recorded; the gauge climbs ten points an evening the hall is left unattended.
 
 > *"Moktak has broken free. The weight spirit spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The hall gains seats. Expansion is measured in chairs rather than in metres — forty-four becomes fifty-one, then sixty-three, the new positions appearing along the corridor outside the doors and filling at the next dusk. |
 | **Effect** | Anyone inside the widened seating is counted present. Personnel so counted report afterwards that they were unable to leave before the adjournment, and the duty log for the single recorded instance shows a four-hour sitting rather than thirty-one minutes. |
 | **First Target** | Nobody. The expansion follows the seating rather than the people: the first measurable change is recorded at the empty chairs along the north wall, which begin to read as occupied from the corridor while the hall itself is still shut. |
@@ -165,7 +167,7 @@ The weight is real and measurable and it is also, in the strict sense, none of t
 ### Escalation Notes
 
 - **Containment priority:** No physical suppression is documented. Retain the district's non-entry order and count against the plan; the attendance instructions elsewhere require review before they can authorize entry during the dusk interval.
-- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% each evening the hall is left unattended, not each turn — the only clock Moktak keeps is dusk, and an unattended week has been logged at 40, 50, 60, 70, 80, 90 and then flat.
+- **Sorrow Gauge in the event:** Opens at 40% and climbs 10% each evening the hall is left unattended, not each turn — the only clock Moktak keeps is dusk, and an unattended week has been logged at 40, 50, 60, 70, 80, 90 and then flat.
 
 ## M.A.W. Equipment
 

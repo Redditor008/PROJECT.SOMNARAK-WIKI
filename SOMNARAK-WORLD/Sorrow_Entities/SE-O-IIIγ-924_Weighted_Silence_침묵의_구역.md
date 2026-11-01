@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-924 [VH]` |
-| **Entity Type** | **Hazard** — Expansion is the recorded breach category; no transformed body is documented |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only; the silence spreads across the district and no transformed body is documented|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -149,13 +149,15 @@ The containment ran fourteen hours and was built out of a chain, twelve posts, a
 
 Nothing at this holding presses on a worker; what it removes is an instrument. Both valid approaches are run from outside the line — observation is the sighting itself, endurance is standing the full survey in the Desolate’s weather — and the gauge answers to patience here, never to insight.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The silence spreads across the district with no transformed body documented; the gauge rises ten points per overdue survey.
 
 > *"Weighted Silence has broken free. The void void spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The line moves outward in whole metres and only during the hours a survey is overdue. The single recorded expansion — fifty to fifty-three metres, Y4247 — reverted to fifty exactly when the series resumed, and the file refuses to call this a response, noting only the coincidence. |
 | **Effect** | The enlarged area takes in whatever stood in the extra three metres. In Y4247 that was a marker post and a radio relay. The post was recovered unchanged. The relay was recovered unchanged and has never transmitted since, and bench testing finds nothing wrong with it. |
 | **First Target** | The record, before any person. The first measurable loss in an expansion is the written trace of it: slates carried inside come out blank or shortened, and the Y4247 event was reconstructed afterwards from the marker survey rather than from any note made at the time. |
@@ -164,7 +166,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 ### Escalation Notes
 
 - **Containment priority:** Sight the edge from the markers and never send a body past them for a reading.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per overdue survey rather than per turn. It has reached 50% once, in Y4247, and has not been above 40% in the sixteen years since.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per overdue survey rather than per turn. It has reached 50% once, in Y4247, and has not been above 40% in the sixteen years since.
 
 ## M.A.W. Equipment
 

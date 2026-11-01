@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-913 [GT]` |
-| **Entity Type** | **Time** — A recurring district-wide period; recorded expansion raises reversal rates, not a travelling or transformed body |
+| **Entity Type** | **Time** — Non-breaching: expansion only; the reversal rate rises across more streets in the same period and nothing moves|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -152,13 +152,15 @@ What is certain is that the effect is graded rather than uniform, and that the g
 
 Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manifestation, Grudge expression, recorded at SECTOR-C-913 and occurring across Zone B. Flerehan and Pugnahan are unavailable to a Time. Both valid Work Types lower the gauge and neither affects an occurrence in progress; what they buy is interval, which is the only currency this holding has.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** What moves is the rate and the number of streets, never the source; the gauge opens at 60 per cent and falls a step an hour.
 
 > *"Backward Hour: the dangerous-rate band has reached more streets. Keep reading the fixed points; nothing is walking out of the sector."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — in rate and in the number of streets reaching the dangerous range, never in location. |
+| **Event Type** | Expansion — in rate and in the number of streets reaching the dangerous range, never in location. |
 | **Movement** | Nothing travels. The reversal rates climb across the fixed-point network until streets that are ordinarily slow are reading in the dangerous band, and fall again at the twelfth hour. |
 | **Effect** | Grudge in the Grudge register: not a mood but an argument, specific to the person, always concerning something that was given and then taken back. |
 | **First Target** | The whole district at once, but not equally. The entity is a twelve-hour period with no position from which to select anybody; the fast streets take it hardest, and which streets those are is not known until the readings come in. |
@@ -167,7 +169,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 ### Escalation Notes
 
 - **Containment priority:** No suppression is possible. Record the start, deploy presence to the highest-rate points and nowhere else, stand Wardens down at the end, and reconcile every clock in the district before the next shift.
-- **Sorrow Gauge on breach:** Opens at 60% and falls one step per hour elapsed. It is governed by the clocks and not by any response, and the curve is identical whether the facility deploys the full watch or nobody at all.
+- **Sorrow Gauge in the event:** Opens at 60% and falls one step per hour elapsed. It is governed by the clocks and not by any response, and the curve is identical whether the facility deploys the full watch or nobody at all.
 
 ## M.A.W. Equipment
 

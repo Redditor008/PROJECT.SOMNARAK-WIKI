@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-833 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; the figure has never moved, and what advances along the floor at a metre a minute is the corrosion |
 | **Coherence** | Echo (II) — Repeats waiting for acknowledgment |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -63,7 +63,7 @@
 | Event | What Neverlast does | What the worker carries out | Reading |
 |---|---|---|---|
 | { *The Stillness* [**Register**] } | Does not move and has never moved; the corrosion and the angle of the arm are the only things that change between cycles. | The confirmation that this is the figure that does not move, which is how it is told from the others catalogued in Old Lament. | Identification is stillness plus overlay, in that order; the traced spread is the number that goes on the sheet. |
-| { *The Corrosion* [**Exposure**] } | Advances along the floor at roughly a metre a minute and transfers to whoever is closest, without leaving the figure. | A fatigue they will attribute to the shift, and an air that tastes of wet iron where the front has been. | What breaches is the corrosion and not the figure; the file records the spread as a rate and a boundary. |
+| { *The Corrosion* [**Exposure**] } | Advances along the floor at roughly a metre a minute and transfers to whoever is closest, without leaving the figure. | A fatigue they will attribute to the shift, and an air that tastes of wet iron where the front has been. | What spreads is the corrosion and not the figure; the file records the spread as a rate and a boundary. |
 | { *The Shed Sheet* [**Exposure**] } | Sheds a flake from the left shoulder, where the flaking is heaviest, and it settles on whoever is sitting closest. Nothing is launched and nothing is aimed. | A corroded memory that was not theirs, arriving whole enough to be recognised and not complete enough to be placed. | The one place this file could have been written as a strike, and the record refuses it in the row itself. |
 | { *The Reach Held* [**Attachment**] } | Holds the arm out past the point where anybody could answer it and spends a whole cycle's corrosion doing it. | The wish to say something reassuring, which is the one prohibited sentence on this file in any form. | Attendance is the work: a watch sat in full lowers the reading for that cycle and consumes nothing, and nothing about this holding is ever finished. |
 
@@ -132,14 +132,16 @@
 **The behaviour table is a reading of one quantity, and the quantity is time.** Flerehan answers the reach and holds it longer the longer a worker stays seated; Ferrehan is that same stay with nothing to do, which the file rates as the harder of the two; Viderehan opens the waiting and leaves the gauge exactly where it was, which is correct here and is not a safety signal, because a stable reading beside this holding still costs the worker a fortnight of noticing every appointment they are late for. Pugnahan is the one approach that reliably raises the spread, and the file keeps both authorisations for it with the names on them. The single sentence forbidden anywhere near the cell is any form of *I'll come back*.
 
 **Reading the response:** A falling reading means the reach was answered and the watch was sat out in full. Stability under Viderehan is correct and expected. The reading rises on absence of any kind — a cancelled watch, a short one, a promised return that the duty log shows was not made — and it rises whether or not the absence had anything to do with this cell.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter and no gauge threshold.** The activation is a count of three, filed in the register with no unit attached. What advances is the corrosion, at a metre a minute; the figure does not move at all.
 
 > *"The figure is still where it was. The rust is not."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
-| **Movement** | The figure does not move and has never moved. What breaches is the corrosion, which advances along the floor at roughly a metre a minute and does not stop at the cell wall. |
+| **Event Type** | Corrupt |
+| **Movement** | The figure does not move and has never moved. What spreads is the corrosion, which advances along the floor at roughly a metre a minute and does not stop at the cell wall. |
 | **Effect** | Metal in the rust's path fatigues to the touch: hinges, rail clips, the clasps on a suit. Nothing organic is harmed. |
 | **Secondary Effect** | Every worker inside the spread recalls, unprompted and in order, each arrangement they are currently late for. |
 | **First Target** | No person. The rust travels toward the watch roster, and has reached the posted rota in all four recorded events. |
@@ -147,9 +149,9 @@
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Do not seal the cell; the four events on record all began with the watch being stood down and a seal is a second absence. Send one person in, seated, and have the duty office cancel every forward booking on the rota for that week.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each watch booked in advance and then missed, facility-wide, not only at this cell. It falls 10% when a worker who left the rotation returns once and states the reason; six such returns are on record and all six lowered it.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% for each watch booked in advance and then missed, facility-wide, not only at this cell. It falls 10% when a worker who left the rotation returns once and states the reason; six such returns are on record and all six lowered it.
 
 ## M.A.W. Equipment
 
@@ -239,7 +241,7 @@ Corrosion progresses from treating Neverlast’s event as one’s own to repeati
 **R.D. Comprehension Level:** 3 — Advanced. The level is high for a β-grade holding because eleven years of overlays make this one of the best-measured records in the wing, not because anything about it is hard to understand.
 
 **Key Observations:**
-- It has never intentionally breached. All four recorded spreads began with a watch being stood down.
+- It has never widened the zone on purpose. All four recorded spreads began with a watch being stood down.
 - Through a Tide the traced area roughly doubles, and the Tide weeks are also the weeks with the most cancelled watches, which the file notes without resolving.
 - Workers who sit the full watch report greater difficulty leaving appointments unkept elsewhere in their lives, for about a fortnight.
 - Staying is worth more than comforting. The gauge responds to the clock, not to the words.
@@ -264,7 +266,7 @@ Corrosion progresses from treating Neverlast’s event as one’s own to repeati
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Neverlast (O-IIβ-833 [LS]) is a Subject-Lament manifestation expressing Lament, held at Zone B in Old Lament. It has never moved, never struck first and never intentionally breached: what spreads is the rust along the floor, and what the rust is counting is the appointments the facility did not keep. Containment is attendance — the watch sat out in full, the figure addressed, and no return promised.
+Neverlast (O-IIβ-833 [LS]) is a Subject-Lament manifestation expressing Lament, held at Zone B in Old Lament. It has never moved, never struck first and never widened the zone on purpose: what spreads is the rust along the floor, and what the rust is counting is the appointments the facility did not keep. Containment is attendance — the watch sat out in full, the figure addressed, and no return promised.
 
 **Entry 2 — <Duty Office Return: Watches Sat and Watches Missed, Year 4238>**
 Watches scheduled at this cell in 4238: three hundred and sixty-five. Sat in full: three hundred and nine. Cancelled, shortened, or covered by nobody: fifty-six. New corrosion traced over the year: eleven thousand four hundred square centimetres, of which nine thousand one hundred was traced in the weeks containing a missed watch. The figure did not move during any of it. The duty office requested that this entry record that the fifty-six were operational, not negligent; the entry records it, and the figure is nevertheless nine thousand one hundred square centimetres further along.
@@ -368,7 +370,7 @@ Some sorrows mourn a departure. Neverlast mourns the silence after — the frien
 
 **Operational interpretation:** This file is a containment built on attendance, and nearly every number in it is a measurement of absence. Year 4238: 365 watches scheduled, 309 sat in full, 56 missed; 11,400 square centimetres of new corrosion traced cycle by cycle, of which 9,100 fell in the weeks containing a missed watch; four spreads in eleven years, each beginning with a watch stood down; one arm angle altered four times in eleven years, each time during an unstaffed watch. Read the overlay as the holding's own return of the undertakings the facility could not keep — the transfer return moves 4,300 staff a year at a median notice of nought days, and the null-entry board counts the cost without names, at 1,180 last year. The response procedure is one sentence long and has not changed: somebody sits down. Where the overlay contradicts this section, the overlay is right, and the contradiction is preserved as evidence rather than normalised.
 
-**Review requirement:** After any spread, breach, Sorrow Tide or joint session, re-take the measurements before the next work cycle: the traced area in square centimetres against last cycle, rust depth at the left shoulder, the arm angle to the centimetre, arrival and departure times against what was said, and whether anything said resembled an undertaking. Confirm that the forward rota holds nothing, that the null-entry sheet is current, and that no worker who once stated a time has been returned to the post without the reason being entered — all three are load-bearing on this cell and all three have failed at least once. The two cleanings on record are cited here as the reason the figure is never cleaned. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any spread, containment event, Sorrow Tide or joint session, re-take the measurements before the next work cycle: the traced area in square centimetres against last cycle, rust depth at the left shoulder, the arm angle to the centimetre, arrival and departure times against what was said, and whether anything said resembled an undertaking. Confirm that the forward rota holds nothing, that the null-entry sheet is current, and that no worker who once stated a time has been returned to the post without the reason being entered — all three are load-bearing on this cell and all three have failed at least once. The two cleanings on record are cited here as the reason the figure is never cleaned. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Watch Record
 
 ### Rust That Never Finishes

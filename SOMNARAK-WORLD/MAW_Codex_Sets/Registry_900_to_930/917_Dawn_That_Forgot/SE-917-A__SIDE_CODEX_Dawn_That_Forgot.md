@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIγ-917 [VT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Dream |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / SECTOR-N-917, contained |
 | Gauge / Pressure | 500/500; starts 35–50% / 17–29 per hit · Void |

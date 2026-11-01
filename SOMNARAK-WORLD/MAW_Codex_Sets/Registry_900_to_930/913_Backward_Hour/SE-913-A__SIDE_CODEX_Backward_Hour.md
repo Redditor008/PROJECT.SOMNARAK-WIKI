@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIIγ-913 [GT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Grudge |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Grudge |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-913, contained |
 | Gauge / Pressure | 500/500; starts 35–50% / 17–25 per hit · Grudge |

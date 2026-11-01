@@ -19,7 +19,7 @@ The Bridge formed from the dream of a connection that could not be repaired. The
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIγ-915 [VS] |
-| Type / Manifestation | Subject — Can breach / Subject-Dream |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / Zone D, Forge District |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Void |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-316 [D]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; the waiting extends across the affected zone while the rope stays hanging at its post |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Non-Organic — An empty rope-shaped figure that watches from the edge of consciousness — a loop of fibre with no visible hands or face, hanging as though from a neck that isn't there. Fever-cold, it smells of char; the shape of something tied and never untied. |
-| **Movement** | Stationary — hangs taut at its post; in breach the waiting extends while the rope does not travel. |
+| **Movement** | Stationary — hangs taut at its post; in the containment event the waiting extends while the rope does not travel. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -129,13 +129,15 @@
 The table above is a diagnostic to read, not a procedure to follow: it states which Work Type settles this holding and which one moves it. Soaking Rope stands as a Subject with Subject-Void manifestation and Grudge in its element, filed at Zone A, by the Alpha Tree. Two cautions travel with the entry. Nothing is inherited from a holding with a similar name — its neighbours are set out in their own section and none of them is this. And a flat gauge is no proof of a harmless watch: the figure can sit level while the worker is being reached through memory, ground or identity, and the cost of such an hour surfaces off the page.
 
 **Reading the response:** Loosening is success and it is visible — the taut line goes slack and the whole figure becomes easier to see rather than harder. Tightening is not an attack; it is the Rope answering a worker who is still privately expecting someone. The useful question after a work cycle is not what the team did but who each of them was thinking about, and it is the honest answers that correlate with the gauge.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter and no gauge threshold.** The activation is a count of promises made inside the zone — four of them — and it runs down on a wait ended out loud and truthfully. What extends is the waiting; the rope stays at its post.
 
 > *"Soaking Rope has broken free. Everyone in the zone is now waiting for someone."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | The Rope does not travel; the attitude does. The waiting extends outward from the chamber and personnel inside the radius begin holding a line that is not there. |
 | **Effect** | Expectation is imposed rather than pressure. Each person in range acquires someone to wait for, and Resilience falls for as long as the waiting is sustained. |
 | **Secondary Effect** | A tightening around thought that never touches the body. |
@@ -144,9 +146,9 @@ The table above is a diagnostic to read, not a procedure to follow: it states wh
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Do not seal and wait it out — a sealed zone is a room full of people expecting the door to open, and that is the condition the entity feeds on. End the waits aloud instead, one at a time, starting with the response team's own.
-- **Sorrow Gauge on breach:** It does not climb on a timer. It climbs each time somebody inside the affected zone says they will come back — to a colleague, to a patient, into a handset — and it falls when a wait is ended out loud and truthfully, including a wait nobody was keeping. This breach is resolved by language, which is why the response team is briefed on what not to promise before it is briefed on anything else.
+- **Sorrow Gauge in the event:** It does not climb on a timer. It climbs each time somebody inside the affected zone says they will come back — to a colleague, to a patient, into a handset — and it falls when a wait is ended out loud and truthfully, including a wait nobody was keeping. This event is resolved by language, which is why the response team is briefed on what not to promise before it is briefed on anything else.
 
 ## M.A.W. Equipment
 
@@ -226,7 +228,7 @@ Every item in this set is the Rope's condition carried in metal rather than ordi
 **R.D. Comprehension Level:** 1 — Initial
 
 - Visibility tracks the observer: people with somebody outstanding see it plainly, and people with nobody have reported an empty chamber.
-- Nothing has ever been touched, marked or restrained by it, in any account, including the breach events.
+- Nothing has ever been touched, marked or restrained by it, in any account, including the containment events.
 - It settles when a wait is ended out loud and truthfully, and does not settle when the same words are said as a procedure.
 
 **Personnel Note:** *"It was watching. I felt longing. The rope had no other end, but I had spent years holding it."* — Researcher, R.D.
@@ -353,7 +355,7 @@ Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's fai
 
 **Operational interpretation:** This file describes something that cannot be handled, only answered. Every figure in it — gauge, resistance, yield — is in practice a measurement of personnel, since the Rope does nothing unprompted and responds only to what the people in the room are already carrying. Read the management line first and the statistics second, and treat disagreement between them as evidence about the team rather than about the entity.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any breach in Zone A, and after any change of personnel on the post — the last of these more often than the others, because this entity's readings move with whoever is standing in front of it. A review that produces a different baseline has not found an error; it has found a different worker. Reviews are not to be used to question a worker's fitness.
+**Review requirement:** Re-verify after any Sorrow Tide, after any containment event in Zone A, and after any change of personnel on the post — the last of these more often than the others, because this entity's readings move with whoever is standing in front of it. A review that produces a different baseline has not found an error; it has found a different worker. Reviews are not to be used to question a worker's fitness.
 ## Tether Record
 
 ### The Line and the Bearing

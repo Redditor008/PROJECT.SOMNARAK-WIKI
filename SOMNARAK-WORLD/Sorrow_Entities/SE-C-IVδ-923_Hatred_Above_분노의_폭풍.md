@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-923 [GH]` |
-| **Entity Type** | **Hazard** — Stationary overhead influence; breach widens the footprint while the anomaly remains fixed |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only; the footprint widens while the anomaly stays fixed overhead|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -150,13 +150,15 @@ So the containment is spacing. Eighteen metres by eleven, marked on the floor, l
 
 The pressure is measured from the sides, at an angle, by instruments that cannot be placed where the readings would be best. Both valid approaches are performed from outside the marked rectangle: observation is the inward-angled watch, endurance is the discipline of the interval — standing and waiting your turn to cross when nothing appears to be wrong. The gauge answers to the interval being kept.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The footprint widens while the anomaly stays fixed overhead; the gauge rises ten points per metre the marked line is out of date.
 
 > *"Hatred Above has broken free. The grudge grudge spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The footprint widens on the floor while the anomaly overhead stays where it is, as though the cone had opened. Both recorded expansions were found by the marked line no longer matching where people started to stop walking, and both were re-marked rather than contested. |
 | **Effect** | The widened edge takes in whatever was sited just outside it — in Y4244, a relief point where two crews habitually waited together. Three incidents in nine days before the line was redrawn; all three involved people who were standing in company at a spot that had been safe the week before. |
 | **First Target** | The nearest other person, with no further criterion. Not the newest, not the most fatigued, not anyone with a history: the closest body. 63 incidents, 63 times the nearest colleague, and the file notes that this is the only thing about the holding that has never once varied. |
@@ -165,7 +167,7 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 ### Escalation Notes
 
 - **Containment priority:** Separate affected workers, keep silence and re-survey the marked footprint. The field record specifies separation rather than subdual; neither an enlarged line nor a prolonged exchange authorizes physical suppression of an unseen overhead body.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per metre the marked line is found to be out of date, not per turn. The Y4244 widening took it to 70% in nine days and it returned to 40% within a shift of the re-marking.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per metre the marked line is found to be out of date, not per turn. The Y4244 widening took it to 70% in nine days and it returned to 40% within a shift of the re-marking.
 
 ## M.A.W. Equipment
 

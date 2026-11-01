@@ -19,7 +19,7 @@ The Flame formed from the rage of the six factions that fought in the Occlusihan
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIβ-120 [GS] |
-| Type / Manifestation | Subject — Can breach / Subject-Body |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Body |
 | Coherence / Potency | Fragment (III) — Fierce and protective / Moderate (β) — Manageable |
 | Element / Location | Grudge / The Desolate, near The Scar |
 | Gauge / Pressure | 435/435; starts 35–50% / 10–23 per hit · Grudge |

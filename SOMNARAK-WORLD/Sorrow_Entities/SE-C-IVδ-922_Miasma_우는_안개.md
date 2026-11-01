@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-922 [LH]` |
-| **Entity Type** | **Hazard** — Rolling fog bank; breach extends its route into connected lower service runs |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only; the bank extends its route into connected service runs and the fog stays a bank|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -100,7 +100,7 @@
 
 **Visible bank, no figure within:** Draw the fog filling a lower corridor, not a person hidden in vapour. The record has photographs of the bank but no particulate, thermal or humidity departure from the ordinary corridor range. That instrument failure is not invisibility. Its grief has names and streets, but those particulars arrive in the exposed worker's recollection; they are not visible faces or writing in the fog. Who first supplied them remains unknown.
 
-**Route and witnesses:** The bank advances along a run and thins from its far end. The district's fixed junction posts are where the watching crew stands, not a stationary vessel from which the fog is emitted. Weeping bodies are affected people, not additional source bodies. Extending into a connected lower service passage is the recorded breach, not a transformation into an attacker. The spotter must retain the view without following it into the volume.
+**Route and witnesses:** The bank advances along a run and thins from its far end. The district's fixed junction posts are where the watching crew stands, not a stationary vessel from which the fog is emitted. Weeping bodies are affected people, not additional source bodies. Extending into a connected lower service passage is the recorded expansion, not a transformation into an attacker. The spotter must retain the view without following it into the volume.
 
 **Equipment is not an outline of the fog:** Corridor furniture supplies the recorded derived set, while the cape and Token have their own portable forms. Their solidity need not match a fog donor. The oak keyhead staff and the exact linked Edge still need an identity crosswalk; no pincer-bearing creature is inferred from an equipment archetype.
 
@@ -150,13 +150,15 @@ So the containment is a conversation. Doors open, two spotters, and somebody say
 
 The pressure cannot be measured at all, which is the operational problem: the holding is managed entirely by eye. Observation is the junction post; endurance is standing that post for a full cycle with the doors open and the corridor cold. The gauge responds to sightlines being kept, and to nothing else anyone has found.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The bank extends into connected service runs and stays a bank; the gauge rises ten points per run entered.
 
 > *"Miasma has broken free. It fills the lower runs, and the weeping starts on its own."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The bank takes the next run down rather than the next room across. Expansion has been into service passages connecting to the district, never upward and never through an occupied floor, and the two recorded instances both followed the same pipe route. |
 | **Effect** | District service crews, who are not facility personnel and have had no induction, weep in their own passages and are not told why by anybody standing nearby. The annual return to the district office exists because of this and lists two numbers: arrivals, and personnel caught. |
 | **First Target** | Whoever is behind a closed door. The bank passes sealed thresholds without measurable delay, so a shut door does not exclude anybody — it only removes the sightline. Twice a closed door turned a forty-second exposure into one of several minutes, and the standing order to hold doors open dates from the second. |
@@ -165,7 +167,7 @@ The pressure cannot be measured at all, which is the operational problem: the ho
 ### Escalation Notes
 
 - **Containment priority:** Hold the doors open and maintain the spotter posts. Wait for the far-junction call and near-junction read-back, then retain the recorded door-open interval before the spotters walk the run. Do not substitute a physical attack for either declaration.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per service run entered rather than per turn. It has stood at 60% once, for eleven days, and returned to 40% when the pipe route was grouted.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per service run entered rather than per turn. It has stood at 60% once, for eleven days, and returned to 40% when the pipe route was grouted.
 
 ## M.A.W. Equipment
 

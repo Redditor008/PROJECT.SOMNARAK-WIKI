@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-911 [WT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Body |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-O-911, contained |
 | Gauge / Pressure | 426/426; starts 35–50% / 14–21 per hit · Weight |

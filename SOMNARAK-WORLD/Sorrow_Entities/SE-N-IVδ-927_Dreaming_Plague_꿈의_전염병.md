@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-927 [VH]` |
-| **Entity Type** | **Hazard** — Dream-state transmitted by touch; recorded expansion follows a carried sleeper, not a transformed travelling body |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only; the dream follows a carried sleeper and no transformed traveller is recorded|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -151,13 +151,15 @@ Only one element moves. Later sleepers put the sound nearer than earlier ones, e
 
 There is no pressure on the body here at all. Both valid approaches are performed at arm’s length from a cordon line: observation is the account taken on waking, endurance is the attending itself, hours of standing next to somebody you are forbidden to touch. The gauge responds to the cordon being held, which is the only thing personnel actually do.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The dream follows a carried sleeper and no transformed traveller is recorded; the gauge rises ten points per additional sleeper.
 
 > *"Dreaming Plague has broken free. The void dream spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The affected district widens by whole blocks and only after a sleeper has been moved across a street while asleep. It happened twice, in the first year, and both times the new boundary ran along the route the carrier had walked. |
 | **Effect** | Within the widened boundary the first sleep occurs unprompted — no contact, no sleeper nearby, somebody simply lies down. After that first one the contact rule resumes and has held for every subsequent case. |
 | **First Target** | Whoever picks somebody up. The holding has no reach of its own and has never taken a person who was not touching another person; the two expansions on file were both carried into being by a rescuer. The no-carry rule is the containment. |
@@ -166,7 +168,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 ### Escalation Notes
 
 - **Containment priority:** Cordon and wait for unaided waking. Do not carry, shake or touch the sleeper in an attempt to suppress the dream; contact has added sleepers rather than shortened their sleep.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per additional sleeper rather than per turn. The largest chain recorded is six, in Y4232, before the rule; every chain since the rule has been one.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per additional sleeper rather than per turn. The largest chain recorded is six, in Y4232, before the rule; every chain since the rule has been one.
 
 ## M.A.W. Equipment
 
@@ -295,7 +297,7 @@ The void arrives in the dream register — not as a wave or a wall but as a shif
 
 This holding shares its register with three others: a zone that swallows sound, a dawn nobody can keep, and a vessel that holds what a soul leaves behind. All three sit beside the dream register in the appendix, filed for the review rather than for co-presence. What follows is read from the cordon's own series and from the story log's dated entries.
 
-**Interaction method:** Set the register's own figures first: the 318 accounts taken since Y4231, the seventeen years of the distance series, the no-carry rule and its one recorded breach. Then read the other record's series beside them, enter whether either series moved, and re-verify at the next stand-down.
+**Interaction method:** Set the register's own figures first: the 318 accounts taken since Y4231, the seventeen years of the distance series, the no-carry rule and the one occasion it was broken. Then read the other record's series beside them, enter whether either series moved, and re-verify at the next stand-down.
 
 | Which record is set beside it | What the two share on the page | What the account entered | What the series keeps |
 |---|---|---|---|

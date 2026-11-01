@@ -19,7 +19,7 @@ The Relic formed from an object carried through many exiles. The grief of surviv
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IVδ-792 [O] |
-| Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Phantasmal |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone E, Exile's Gate vicinity |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |

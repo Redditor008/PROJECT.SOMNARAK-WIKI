@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-914 [VT]` |
-| **Entity Type** | **Time** — Breach expands the affected radius; no body transformation is recorded |
+| **Entity Type** | **Time** — Non-breaching: expansion only; the affected radius expands and no body transformation is recorded|
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -148,13 +148,15 @@
 
 Both usable Work Types are performed from the line and amount to standing there with the board and the clocks. The table cannot hold the variable that matters, which is whether anybody crosses: 57 of the 61 minutes passed with nobody inside and cost the facility nothing at all, and the four that did not are the whole of this holding's history.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The affected radius expands and no body transformation is recorded; the gauge rises ten points a cycle, read at the line.
 
 > *"Amnesia has broken free. The nameless minute takes a wider radius."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The affected radius expands outward from the same epicentre. Survey its edge after the occurrence; the record does not establish damage to every object within it. |
 | **Effect** | Identity loss affects everyone inside the radius without selection. Being told a name during the minute does not restore it and has permanently widened the affected area. |
 | **First Target** | Everybody inside the radius at once. It has never selected, graded, or spared anyone, and the file notes this as the holding's one mercy: there is no such thing as being singled out by it. |
@@ -163,7 +165,7 @@ Both usable Work Types are performed from the line and amount to standing there 
 ### Escalation Notes
 
 - **Containment priority:** Remain outside the surveyed line, do not tell anyone inside who they are during the minute, then complete the roll call and survey. Do not cross the line or strike the chair as an improvised suppression step.
-- **Sorrow Gauge on breach:** 40% rising 10% a cycle, read at the line. The gauge is one of the few instruments that works here, and the wing has never established why it works when nothing else does.
+- **Sorrow Gauge in the event:** 40% rising 10% a cycle, read at the line. The gauge is one of the few instruments that works here, and the wing has never established why it works when nothing else does.
 
 ## M.A.W. Equipment
 

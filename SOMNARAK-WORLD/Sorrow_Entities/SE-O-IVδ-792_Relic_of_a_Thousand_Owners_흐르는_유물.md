@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-792 [O]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; it intensifies where it stands and cracks the structure outward from the position |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -145,13 +145,15 @@
 Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation and Lament expression, present at the Exile's Gate on no schedule and not contained in any sense the word ordinarily carries. All four Work Types apply. Flerehan softens the figure and opens one owner's grief, Viderehan gives the chain of exiles and moves nothing, Ferrehan tests whether a worker can hold a history without acquiring it, and Pugnahan returns whatever force is offered. The object in its hands is not worked, touched, or used for identification at any stage.
 
 **Reading the response:** Read it in the outline and in the relic's surface. A falling gauge presents as the figure settling — the shift between person and object slowing, one reading holding longer, the relic's flow quieting to a slow movement across its own surface. Nothing is resolved by that. The object still belongs to nobody and the names still outnumber the register. A rising gauge presents as **custody**. The worker begins to feel responsible for the object. It starts as a reasonable thought about where it should be kept, becomes a view about who is qualified to keep it, and ends with the worker explaining, calmly and at length, why they should be the one to carry it out. Nobody in that state believes they are claiming anything. The suppression condition is written against exactly this and is the only guard there is.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The gauge is a threshold and the claims on the object are what the watch counts. The figure intensifies where it stands and cracks the structure outward, and it has nowhere to leave to.
 
 > *"Relic of a Thousand Owners has broken free. It intensifies in place and makes the position untenable."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | Relic of a Thousand Owners pulses with concentrated force, cracking the walls around it. It does not pursue; withdraw radially from the fixed point. |
 | **Effect** | The air fills with audible weeping, eroding the will to continue. |
 | **Secondary Effect** | An overwhelming sorrow that pools in the chest. |
@@ -160,9 +162,9 @@ Relic of a Thousand Owners is a Subject with Subject-Phantasmal manifestation an
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Opens at 40% and moves on claims rather than on time. It climbs 10% each time somebody present asserts a right to the object — picking it up, naming a keeper for it, proposing a destination, or speaking of it as belonging to the facility — and 10% again for any approach from a party asserting descent from a recorded owner. It falls 10% for each owner newly documented by name during the response, with their register reference attached. Documenting an owner is the only action that lowers it, and the documentation has to be of somebody else.
+- **Sorrow Gauge in the event:** Opens at 40% and moves on claims rather than on time. It climbs 10% each time somebody present asserts a right to the object — picking it up, naming a keeper for it, proposing a destination, or speaking of it as belonging to the facility — and 10% again for any approach from a party asserting descent from a recorded owner. It falls 10% for each owner newly documented by name during the response, with their register reference attached. Documenting an owner is the only action that lowers it, and the documentation has to be of somebody else.
 
 ## M.A.W. Equipment
 
@@ -315,7 +317,7 @@ A figure flows across the Gate's shadow carrying a relic that has no fixed shape
 
 This holding is read against the Gate and the other records of objects that outlived their keepers, and the question put to every pairing is narrow: does the figure's route or outline change in the other presence. Nothing else has ever produced a measurable result here, and a pairing that produced only atmosphere is filed as producing nothing.
 
-**Interaction method:** Individual observation first, so that what each entity does alone is known before anything is claimed about a pair. The relations on file concern the Gate, its guardian, and other objects that outlived their keepers, so the question worth settling is whether the figure's route changes in another presence and whether its outline steadies or destabilises. Document what draws them together or pushes them apart, the range, the duration, the gauge and environmental effect on each side, and whatever lingers after separation. A result obtained once predicts nothing; a breach, a Sorrow Tide, an Ordeal or a transformation can alter the whole pattern, and the relation is re-verified each cycle.
+**Interaction method:** Individual observation first, so that what each entity does alone is known before anything is claimed about a pair. The relations on file concern the Gate, its guardian, and other objects that outlived their keepers, so the question worth settling is whether the figure's route changes in another presence and whether its outline steadies or destabilises. Document what draws them together or pushes them apart, the range, the duration, the gauge and environmental effect on each side, and whatever lingers after separation. A result obtained once predicts nothing; a containment event, a Sorrow Tide, an Ordeal or a transformation can alter the whole pattern, and the relation is re-verified each cycle.
 
 
 ### Entity Interaction Record
@@ -360,7 +362,7 @@ Some sorrows mourn an owner. Relic of a Thousand Owners mourns the having-none �
 **Common Name:** Relic of a Thousand Owners
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). It does not pursue. It intensifies where it stands, cracks the structure outward, and makes the position untenable; the standing hazard between breaches is the conviction it produces in competent people that they ought to look after it.
+**Threat Assessment:** Critical (δ). It does not pursue. It intensifies where it stands, cracks the structure outward, and makes the position untenable; the standing hazard between events is the conviction it produces in competent people that they ought to look after it.
 **Containment & Handling Procedures:**
 - All 4 Work Types valid; Flerehan and Ferrehan lower the gauge, Pugnahan gives the force back and lifts it.
 - Do not claim ownership in any form: no handling, no keeper named, no destination proposed, no reference to the object as the facility's.
@@ -375,9 +377,9 @@ Some sorrows mourn an owner. Relic of a Thousand Owners mourns the having-none �
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification is the frame and this record is the picture; read the Work Type responses, the breach geometry, the equipment charges and the interaction history together before acting on any entry. Then read the suppression condition, which is the whole of the holding's doctrine. Do not claim ownership; document its owners. Both halves are harder than they look. The prohibition binds the facility as much as the operator: this wing does not describe the object as its own in any correspondence, does not nominate a keeper for it, and does not adjudicate between the three parties who have written asserting descent from a recorded owner. All three approaches were acknowledged, none was resolved, and the covering note on the file gives the reason — the wing does not consider itself competent to decide, and the entity has shown no sign of recognising any of them. The positive half is the work. Owners are documented one at a time, by name, with a register reference where one exists and with the account marked unverified where one does not, and the schedule of unverified names grows faster than the traceable list and always will. The second difficulty is stated plainly in the protocol and not softened in any summary leaving this wing: the figure passes the Gate in both directions on no schedule, nothing here prevents it, and this entity is not contained in any meaningful sense. The facility's role is observation and record. Describing the arrangement as containment would be a convenience rather than a fact. Where the entity contradicts this record, trust the entity and preserve the contradiction.
+**Operational interpretation:** The classification is the frame and this record is the picture; read the Work Type responses, the event geometry, the equipment charges and the interaction history together before acting on any entry. Then read the suppression condition, which is the whole of the holding's doctrine. Do not claim ownership; document its owners. Both halves are harder than they look. The prohibition binds the facility as much as the operator: this wing does not describe the object as its own in any correspondence, does not nominate a keeper for it, and does not adjudicate between the three parties who have written asserting descent from a recorded owner. All three approaches were acknowledged, none was resolved, and the covering note on the file gives the reason — the wing does not consider itself competent to decide, and the entity has shown no sign of recognising any of them. The positive half is the work. Owners are documented one at a time, by name, with a register reference where one exists and with the account marked unverified where one does not, and the schedule of unverified names grows faster than the traceable list and always will. The second difficulty is stated plainly in the protocol and not softened in any summary leaving this wing: the figure passes the Gate in both directions on no schedule, nothing here prevents it, and this entity is not contained in any meaningful sense. The facility's role is observation and record. Describing the arrangement as containment would be a convenience rather than a fact. Where the entity contradicts this record, trust the entity and preserve the contradiction.
 
-**Review requirement:** Containment here is a process rather than a state, and after every incident, Sorrow Tide, Ordeal or unusual interaction the gauge, the exposure log, the figure's position and the fragment store are rechecked before work resumes, along with the activation count, which stands at 1 and leaves no margin. Four further items apply. Fragments left at its position are collected after departure and placed in sealed storage, identification is attempted, and the successes are the file's most uncomfortable documents, several items having been matched to people recorded as exiled and never heard from again; every match is notified to the relevant district office, and no notification has ever drawn a reply. The claims correspondence is reviewed without being decided. Any operator who proposed a destination for the object, however reasonably, is stood down the same day and the proposal is logged against the holding rather than against them, since custody is what this entity produces in people. And the radial withdrawal drill is rehearsed once a cycle with the neighbouring holding that shares the same breach geometry, alternating chambers so that each watch practises in a room it does not know — performance in the unfamiliar chamber is consistently worse and is recorded without comment, the two watches keep separate accounts of the exercise, and the accounts are exchanged annually and never combined.
+**Review requirement:** Containment here is a process rather than a state, and after every incident, Sorrow Tide, Ordeal or unusual interaction the gauge, the exposure log, the figure's position and the fragment store are rechecked before work resumes, along with the activation count, which stands at 1 and leaves no margin. Four further items apply. Fragments left at its position are collected after departure and placed in sealed storage, identification is attempted, and the successes are the file's most uncomfortable documents, several items having been matched to people recorded as exiled and never heard from again; every match is notified to the relevant district office, and no notification has ever drawn a reply. The claims correspondence is reviewed without being decided. Any operator who proposed a destination for the object, however reasonably, is stood down the same day and the proposal is logged against the holding rather than against them, since custody is what this entity produces in people. And the radial withdrawal drill is rehearsed once a cycle with the neighbouring holding that shares the same event geometry, alternating chambers so that each watch practises in a room it does not know — performance in the unfamiliar chamber is consistently worse and is recorded without comment, the two watches keep separate accounts of the exercise, and the accounts are exchanged annually and never combined.
 ## Apex Record
 
 ### The Flowing Relic
@@ -406,7 +408,7 @@ The figure moves between a person's outline and an object's and does not hold ei
 
 ### The Corrupt Event
 
-It intensifies in place and cracks the structure around it rather than moving, and the response is radial withdrawal from a fixed point, drilled from random starting positions. The drill is shared with another holding in the wing that has the same breach geometry, and the two chambers rehearse together once a cycle. The joint exercise was proposed by the watches themselves rather than by operations, on the practical ground that the two teams would otherwise be the only people in the facility who knew how to do it.
+It intensifies in place and cracks the structure around it rather than moving, and the response is radial withdrawal from a fixed point, drilled from random starting positions. The drill is shared with another holding in the wing that has the same event geometry, and the two chambers rehearse together once a cycle. The joint exercise was proposed by the watches themselves rather than by operations, on the practical ground that the two teams would otherwise be the only people in the facility who knew how to do it.
 
 ### The Joint Drill
 
@@ -442,7 +444,7 @@ What the wing could control was exposure, and it took the blunt option.
 
 **No member of staff works this holding more than once in their career.** Not once a year — once. The roster is drawn facility-wide, the name is struck off permanently afterwards, and there are no exceptions for rank, specialism or request; three requests to return have been received and all three were refused in the same terms, with the file noting that a request to return is itself a reportable observation and is logged as one.
 
-The cost is expertise, and the wing has never pretended otherwise. A δ holding with a Corrupt breach geometry is worked, every single time, by people who have never worked it before. Continuity exists only in the written protocol and in the two watch commanders who supervise from the road and have never themselves taken a cycle. **No worker in the facility has more than one cycle's experience of this entity, and no worker ever will.** Nobody accrues the specialism, nobody carries the uplift, and the people who would be best at this are, by rule, the people who are never allowed near it again.
+The cost is expertise, and the wing has never pretended otherwise. A δ holding with a Corrupt event geometry is worked, every single time, by people who have never worked it before. Continuity exists only in the written protocol and in the two watch commanders who supervise from the road and have never themselves taken a cycle. **No worker in the facility has more than one cycle's experience of this entity, and no worker ever will.** Nobody accrues the specialism, nobody carries the uplift, and the people who would be best at this are, by rule, the people who are never allowed near it again.
 
 The operations board's objection is minuted and read at every annual review. Deliberately preventing the accumulation of competence on a Critical holding transfers risk from the object to the staff; the one-cycle rule guarantees that every response is run by novices; and the policy is unfalsifiable, because the absence of a custody incident is read as proof it works and an incident would be read as proof it is needed. The minute records the objection as **correct, including the last point**, records that the wing has no answer to it, and leaves the rule in force.
 

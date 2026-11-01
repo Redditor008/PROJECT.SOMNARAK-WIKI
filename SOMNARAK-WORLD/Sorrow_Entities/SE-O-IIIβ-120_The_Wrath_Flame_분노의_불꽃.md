@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIβ-120 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; it halts and intensifies where it stands and the zone warps outward around it, and it has never left the route |
 | **Coherence** | Fragment (III) — Fierce and protective |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -148,14 +148,16 @@
 The table above is a diagnostic to be read, not a procedure to be followed: it states which Work Type settles this holding and which one moves it. The Flame stands as a Subject with Subject-Body manifestation and Grudge in its element, filed at The Desolate, near The Scar. Two cautions belong with the record. Nothing carries over from a holding whose name resembles this one; the Flame's neighbours are set out in their own section, and not one of them is this. And a gauge that does not move is not the same as a watch that cost nothing — the figure can sit flat while the worker is being reached through memory, ground or identity.
 
 **Reading the response:** The Flame answers conduct, so the response measures the worker as much as the entity. Dimming means the grief was named and accepted; it does not mean the fire is lower. Concentrated heat means the approach read as disrespect, whatever was intended, and the correction belongs in the bearing rather than in the technique. A salute returned is the clearest success this file records, and the exact words used are to be logged with it.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** There is a count here — three ignored conditions — and a gauge, and both are read where they stand: what widens is the zone around the flame, and the flame has never left its route.
 
 > *"The Wrath Flame has broken free. Ignites personnel with sorrow-fire."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
-| **Movement** | It halts and intensifies where it stands; the zone warps outward around it. It does not leave the route even in breach, which is the single most useful fact in this file. |
+| **Event Type** | Corrupt |
+| **Movement** | It halts and intensifies where it stands; the zone warps outward around it. It does not leave the route even in a containment event, which is the single most useful fact in this file. |
 | **Effect** | Resilience burns off everyone inside the warped zone, whether or not they were party to the offence. |
 | **Secondary Effect** | Barriers fail from the inside out; the Desolate has no structure here worth the name, which is the other reason conduct is the containment. |
 | **First Target** | Whoever showed contempt. Not the nearest, not the newest, and not the one who gave the order — the one who made the gesture, every time on record. |
@@ -163,9 +165,9 @@ The table above is a diagnostic to be read, not a procedure to be followed: it s
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Acknowledge first, endure second, seal only if both fail. A seal on an entity that answers conduct reads as the facility walking away from the subject, and the one time it was tried the zone held and the gauge did not fall for eleven days.
-- **Sorrow Gauge on breach:** Begins wherever the last disrespect left it and climbs for as long as the breach is watched rather than addressed. Acknowledgement of the dead, spoken aloud by anyone present — including the breach team — drops it by ten points, and the drop holds only so long as nobody laughs.
+- **Sorrow Gauge in the event:** Begins wherever the last disrespect left it and climbs for as long as the event is watched rather than addressed. Acknowledgement of the dead, spoken aloud by anyone present — including the response team — drops it by ten points, and the drop holds only so long as nobody laughs.
 
 ## M.A.W. Equipment
 
@@ -362,7 +364,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan. Pugnahan is valid and feeds it; every heat incident on file began with an approach the Flame read as disrespect.
 - Conduct, not distance. Personnel are briefed on bearing rather than on an exclusion zone, and the patrol map and the six burial returns are posted at the approach.
-- Do not seal first. Acknowledgement of the dead, spoken by anybody present including the breach team, drops the gauge ten points, and the drop holds only while nobody laughs.
+- Do not seal first. Acknowledgement of the dead, spoken by anybody present including the response team, drops the gauge ten points, and the drop holds only while nobody laughs.
 **Observation Notes:**
 - Six factions fought at the Scar, all six were destroyed by the war they fought, and none outlived its own dead long enough to bury them properly.
 - Salutes returned by the Flame, logged with the exact words used: 311. Heat incidents: 47 across the life of the holding. Both are kept in the same book.
@@ -375,7 +377,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 
 **Operational interpretation:** This file describes a fire contained by manners. Every figure in it — gauge, resistance, yield — assumes personnel who bow, and not one of them has been measured against personnel who refuse. The conduct instructions are the load-bearing part of the record; the statistics follow from them.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any breach at the Scar, and after any season in which the patrol route is seen to shift by more than a few metres. The route is the most reliable index this entity offers, and when it moves the rest of the file is provisional until it has been walked again. A review is not to be used to assign fault for an encounter that ended in heat.
+**Review requirement:** Re-verify after any Sorrow Tide, after any containment event at the Scar, and after any season in which the patrol route is seen to shift by more than a few metres. The route is the most reliable index this entity offers, and when it moves the rest of the file is provisional until it has been walked again. A review is not to be used to assign fault for an encounter that ended in heat.
 ## Warden Record
 
 ### It Patrols

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-301 [LS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; it does not pursue anyone, and the zone warps outward around where it stands |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -94,7 +94,7 @@
 - The failure here is pleasantness. A worker losing ground does not report pressure; they report a good shift, describe their own grief more smoothly than they did in the corridor, and are identified in debrief rather than in the room.
 - Extended exposure carries a cumulative and deceptive risk. The drift here is not toward panic but toward ease: minute by minute the room feels safer, the figure feels familiar, and the worker's account of their own grief becomes smoother and less accurate. Cognitive Fracture on this holding has been identified in debrief rather than in the room on every occasion so far.
 - The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and there is none here: a flame that burns without heat still consumes, and what it consumes is the capacity to be comforted by anything smaller than itself.
-- If the condition is not met the entity does not pursue anyone. It intensifies where it stands and the zone warps outward around it, which is the Corrupt breach on the classification, and the first personnel to notice are usually in adjacent rooms rather than in this one.
+- If the condition is not met the entity does not pursue anyone. It intensifies where it stands and the zone warps outward around it, which is the Corrupt event on the classification, and the first personnel to notice are usually in adjacent rooms rather than in this one.
 
 ## Appearance
 **Primary Form:** A melting flame perceived inside consciousness as a figure whose face changes with the observer's grief.
@@ -144,14 +144,16 @@
 
 Feu Follet is a Subject with Subject-Mind manifestation and Lament expression, held in Zone C at the Mask Market, and perceived inside consciousness rather than seen in the room. All four Work Types apply. Flerehan steadies the flame and opens the remembered warmth, Viderehan settles whether the fire was real or remembered and moves nothing, Ferrehan tests whether a worker can stay as a comfort changes, and Pugnahan melts through the worker's thoughts and raises the gauge every time.
 
-**Reading the response:** Read it in the melt rate and in the team, and weight the team heavily. A falling gauge presents as firming — the lower edge holding, the beat slowing to its recorded rhythm, the cold receding to the instrument reading. The entity is quieter and it is not resolved; it is a memory of comfort and nothing in a work cycle gives it the thing it is a memory of. A rising gauge presents as warmth. The room becomes pleasant, the figure becomes someone the worker is glad to see, and the melting accelerates while everybody present reports feeling better than when they came in. That combination is the reading and it is the only one that matters on this holding. Unusual responses precede breaches here reliably, and the most reliable of all is a team that has stopped using its anchors because the room no longer seems to need them.
-## Breach Behavior
+**Reading the response:** Read it in the melt rate and in the team, and weight the team heavily. A falling gauge presents as firming — the lower edge holding, the beat slowing to its recorded rhythm, the cold receding to the instrument reading. The entity is quieter and it is not resolved; it is a memory of comfort and nothing in a work cycle gives it the thing it is a memory of. A rising gauge presents as warmth. The room becomes pleasant, the figure becomes someone the worker is glad to see, and the melting accelerates while everybody present reports feeling better than when they came in. That combination is the reading and it is the only one that matters on this holding. Unusual responses precede containment events here reliably, and the most reliable of all is a team that has stopped using its anchors because the room no longer seems to need them.
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** It does not pursue anyone and nothing leaves the melted ground. The gauge is a threshold; what the watch actually counts is whether the team is still using its anchors.
 
 > *"Feu Follet’s Corrupt field is spreading through masks and minds. The core remains in place; anchor in present sensations."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | Feu Follet intensifies in place, warping the containment zone outward. It ignites personnel with sorrow-fire. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
@@ -160,9 +162,9 @@ Feu Follet is a Subject with Subject-Mind manifestation and Lament expression, h
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Opens at 40% and is driven by comfort rather than by elapsed time. Each reassurance offered or accepted inside the warped zone adds 10% — a hand on the shoulder, a promise that this is nearly over, a worker telling a frightened colleague that it is alright — because comfort is the material this entity is made of and it does not distinguish kind intent from any other. Each 10% comes off when a present, physically checkable sensation is stated aloud and confirmed by a second person: an instrument reading, the texture of the floor, the time. Standing in silence holds it steady. The instruction that follows is genuinely hard to obey and the briefing says so plainly — inside this zone, personnel do not comfort each other, they ground each other, and the difference has to be rehearsed before it is needed.
+- **Sorrow Gauge in the event:** Opens at 40% and is driven by comfort rather than by elapsed time. Each reassurance offered or accepted inside the warped zone adds 10% — a hand on the shoulder, a promise that this is nearly over, a worker telling a frightened colleague that it is alright — because comfort is the material this entity is made of and it does not distinguish kind intent from any other. Each 10% comes off when a present, physically checkable sensation is stated aloud and confirmed by a second person: an instrument reading, the texture of the floor, the time. Standing in silence holds it steady. The instruction that follows is genuinely hard to obey and the briefing says so plainly — inside this zone, personnel do not comfort each other, they ground each other, and the difference has to be rehearsed before it is needed.
 
 ## M.A.W. Equipment
 
@@ -263,7 +265,7 @@ Read the pieces separately. The disputed Weapon is credited with separating reme
 | **Activation or escalation** | Escalation presents as comfort. Record the moment the room was first described as pleasant, the moment anybody reassured anybody, and the length of the last gap in the anchor log. |
 | **Post-contact review** | Core series, anchor log with gaps marked, each witness's face report kept separate and unreconciled, and the agreement coefficient recomputed before the file is closed. |
 
-**Observation method:** Observe with the anchors running, and record the first visible sign, the first emotional sensation, the first instrument-measurable change in the room, and the condition that ended the encounter. Form follows sorrow and not purpose — a flame that melts is what a comfort looks like once it has begun to go, and it says nothing about intent. One warning belongs in the method rather than the escalation notes: the entity dissolves when it is confronted directly, this reads as a result, and it is not one. Nothing has been suppressed. The record of the Corrupt breach begins, on two occasions out of three, with a team reporting that they faced it down and it went out.
+**Observation method:** Observe with the anchors running, and record the first visible sign, the first emotional sensation, the first instrument-measurable change in the room, and the condition that ended the encounter. Form follows sorrow and not purpose — a flame that melts is what a comfort looks like once it has begun to go, and it says nothing about intent. One warning belongs in the method rather than the escalation notes: the entity dissolves when it is confronted directly, this reads as a result, and it is not one. Nothing has been suppressed. The record of the Corrupt event begins, on two occasions out of three, with a team reporting that they faced it down and it went out.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -315,7 +317,7 @@ This holding is read against the other records that take their shape from whoeve
 
 ### Entity Interaction Record
 
-This holding belongs with the sorrows that are shaped by whoever is looking rather than with the fixed objects of the Market. The rows below are canonical in the narrow sense that they were observed and filed; none of them is settled. Any of them may present as help, obstruction, indifference or a condition that only shows under load, and a single result carries no weight at all across a Tide, a breach elsewhere, an Ordeal or a transformation.
+This holding belongs with the sorrows that are shaped by whoever is looking rather than with the fixed objects of the Market. The rows below are canonical in the narrow sense that they were observed and filed; none of them is settled. Any of them may present as help, obstruction, indifference or a condition that only shows under load, and a single result carries no weight at all across a Tide, a containment event elsewhere, an Ordeal or a transformation.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -362,7 +364,7 @@ Some sorrows mourn comfort lost. Feu Follet mourns comfort dissolving — the me
 - Inside a warped zone personnel ground each other and do not comfort each other; every reassurance offered or accepted adds to the gauge.
 **Observation Notes:**
 - A traveller survived a Desolate night by a fire and outlived everyone who sat at it; the memory of the warmth decayed into this.
-- Nothing here has ever been fought. Two Corrupt breaches in three began with a team reporting that they had faced it down and it had gone out.
+- Nothing here has ever been fought. Two Corrupt eventes in three began with a team reporting that they had faced it down and it had gone out.
 - The set gives real warmth and bills afterwards; nothing in it is issued to a worker currently carrying a bereavement entry.
 **Cross-References:** The Gate officers' account of the traveller · the face schedule · the anchor-log review
 **Faction Involvement:** SED (Desolate-territory exploration)
@@ -372,7 +374,7 @@ Some sorrows mourn comfort lost. Feu Follet mourns comfort dissolving — the me
 
 **Operational interpretation:** The file is a map and the room is the territory, and the suppression condition is where the two diverge most sharply. Anchor the worker in present sensations — which is to say the containment measure for this holding is a practice carried out by the people being affected, continuously, at the moment they are least inclined to carry it out. There is no mechanism, no seal and no interlock behind it. The wing has twice proposed a technical substitute, an automated announcement of temperature and time on a timer, and both proposals were declined on the recorded ground that an anchor nobody has to speak is an anchor nobody has to mean. Those decisions are filed together, and so is the dissent. This record will be wrong eventually; when it is, the contradiction is worth more than the sentence it contradicts, and it is logged rather than smoothed away.
 
-**Review requirement:** Every breach, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the exposure log, the position and the zone boundary before work resumes. Two further items are required here. The anchor log is reviewed for gaps, and a gap is treated as information about the room rather than about the worker, since the entity's whole method is to make the anchors feel unnecessary. And the face reports go to the counselor and never to the line supervisor — a worker who saw a dead colleague in the flame has disclosed a bereavement they did not choose to disclose, and the wing's only decent response is to treat it as medical.
+**Review requirement:** Every containment event, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the exposure log, the position and the zone boundary before work resumes. Two further items are required here. The anchor log is reviewed for gaps, and a gap is treated as information about the room rather than about the worker, since the entity's whole method is to make the anchors feel unnecessary. And the face reports go to the counselor and never to the line supervisor — a worker who saw a dead colleague in the flame has disclosed a bereavement they did not choose to disclose, and the wing's only decent response is to treat it as medical.
 ## Watch Record
 
 ### A Flame Inside the Mind
@@ -385,7 +387,7 @@ The fire gives no heat and this is confirmed by the absence of any thermal readi
 
 ### It Dissolves When Faced
 
-Direct confrontation ends the manifestation and the standing order treats that as nothing gained. The perception stops, the figure goes out and the room empties, while the core's beat rate, the ring diameter and the melt rate run on through the whole episode without deviation — which is the reading that settles the question. Nothing was suppressed; the worker simply stopped being able to see it. Briefing teaches the method as a withdrawal aid and enters it under withdrawal, never under suppression, because two of the three Corrupt breaches on this holding opened with a team reporting that they had faced it down and it had gone out. The distinction is between ending a perception and suppressing the holding; withdrawal records must not collapse the two.
+Direct confrontation ends the manifestation and the standing order treats that as nothing gained. The perception stops, the figure goes out and the room empties, while the core's beat rate, the ring diameter and the melt rate run on through the whole episode without deviation — which is the reading that settles the question. Nothing was suppressed; the worker simply stopped being able to see it. Briefing teaches the method as a withdrawal aid and enters it under withdrawal, never under suppression, because two of the three Corrupt eventes on this holding opened with a team reporting that they had faced it down and it had gone out. The distinction is between ending a perception and suppressing the holding; withdrawal records must not collapse the two.
 
 ### A Fire That Saved Someone
 
@@ -428,7 +430,7 @@ Workforce planning's objection is minuted and read at every annual review. An un
 
 
 
-- Held as digits, for the register's own look-up: gauge 415/415 · pressure 10–23 per hit · resistance 25 / 15 per cent · threshold 60 per cent · blade 5–9 at 25 Echoes · suit 20 · Stigma 5 per cent · 3 flame-form holdings in the Mask Market · 2 of 3 Corrupt breaches opening on a reported suppression.
+- Held as digits, for the register's own look-up: gauge 415/415 · pressure 10–23 per hit · resistance 25 / 15 per cent · threshold 60 per cent · blade 5–9 at 25 Echoes · suit 20 · Stigma 5 per cent · 3 flame-form holdings in the Mask Market · 2 of 3 Corrupt eventes opening on a reported suppression.
 
 ### Registry Trivia
 

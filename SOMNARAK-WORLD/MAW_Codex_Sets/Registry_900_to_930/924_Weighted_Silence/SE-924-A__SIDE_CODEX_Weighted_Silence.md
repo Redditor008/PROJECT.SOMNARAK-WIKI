@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIγ-924 [VH] |
-| Type / Manifestation | Hazard — Can breach via Transform / Hazard-Void |
+| Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Void |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / SECTOR-O-924, contained |
 | Gauge / Pressure | 500/500; starts 35–50% / 17–24 per hit · Void |

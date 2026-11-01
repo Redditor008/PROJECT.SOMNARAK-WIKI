@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-911 [WT]` |
-| **Entity Type** | **Time** — Recorded escalation contracts the loop interval and temporarily extends its boundary |
+| **Entity Type** | **Time** — Non-breaching: expansion only; the loop interval contracts and the boundary extends temporarily; nothing travels|
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -148,13 +148,15 @@
 
 The table says the two available Work Types both reduce the gauge and does not say the thing the roster is built on: the fall comes after the second loop and never after the first. 611 cycles, no exception, no explanation. A warden who watches one loop and leaves has done nothing at all to the gauge, and the wing has stopped pretending to know why.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The loop interval contracts and the boundary extends for the duration; nothing travels, and the gauge rises ten points a cycle.
 
 > *"Never Discharged has broken free. The weight body spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | Normally bounded by the bay doorway. The recorded contraction temporarily extended the active boundary to the first corridor junction; no travelling soldier or transformed anatomical body is documented. |
 | **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
 | **First Target** | Anybody inside the doorway, equally. It has never selected between two people in the bay and both occasions with two present produced identical reports. |
@@ -163,7 +165,7 @@ The table says the two available Work Types both reduce the gauge and does not s
 ### Escalation Notes
 
 - **Containment priority:** Keep the door shut, time the loop from outside and follow the documented boundary rather than assuming the usual corridor position is always safe. The one contraction reversed without intervention; watching the required loops is not physical suppression of the soldier or scenery.
-- **Sorrow Gauge on breach:** 40%, rising 10% a cycle, read from the corridor. The Year 4,233 contraction is the only event that has taken it past 65% and the only occasion the bay has been larger than the bay.
+- **Sorrow Gauge in the event:** 40%, rising 10% a cycle, read from the corridor. The Year 4,233 contraction is the only event that has taken it past 65% and the only occasion the bay has been larger than the bay.
 
 ## M.A.W. Equipment
 

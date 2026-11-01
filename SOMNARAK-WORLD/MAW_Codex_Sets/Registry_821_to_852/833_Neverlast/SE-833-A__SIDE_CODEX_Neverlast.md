@@ -19,7 +19,7 @@ The Soul formed from the grief of a friend who was abandoned. The confusion of b
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-833 [LS] |
-| Type / Manifestation | Subject — Can breach / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Lament |
 | Coherence / Potency | Echo (II) — Repeats waiting for acknowledgment / Moderate (β) — Manageable |
 | Element / Location | Lament / Zone B, Old Lament — contained/ambient |
 | Gauge / Pressure | 415/415; starts 35–50% · Lament — no attack pattern: the figure has never moved, and the corrosion comes off the arm and settles (Contact Record, R-36) |

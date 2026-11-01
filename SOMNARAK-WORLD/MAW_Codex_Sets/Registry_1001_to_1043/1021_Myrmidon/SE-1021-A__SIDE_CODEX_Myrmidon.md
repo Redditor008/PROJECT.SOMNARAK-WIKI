@@ -19,7 +19,7 @@ The Soul formed from a person divided by betrayal. The grief of loving someone o
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-235 [GS] |
-| Type / Manifestation | Subject — Can breach / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: corruption only / Subject-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / Zone A, Alpha Tree |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Grudge |

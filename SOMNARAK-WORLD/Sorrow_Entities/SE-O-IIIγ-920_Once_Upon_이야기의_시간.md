@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-920 [LT]` |
-| **Entity Type** | **Time** — Recorded escalation makes stories simultaneous; no transformed source body is documented |
+| **Entity Type** | **Time** — Non-breaching: expansion only; escalation makes the stories simultaneous and no transformed source body is documented|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -148,13 +148,15 @@
 
 The table lists two Work Types and the useful figure is not in it: the gauge falls in proportion to how many tellers are named aloud during the hour. The correlation holds across all 94 hours and is the reason the register is kept by the district rather than by the wing — the names come from people who were there, and the archive has never been able to supply one itself.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** Escalation makes the stories simultaneous and the source body is not transformed; the gauge rises ten points a cycle.
 
 > *"Once Upon has broken free. The lament tale spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The recorded radius remains fixed. The exceptional escalation made registered stories run simultaneously rather than in sequence; it is not evidence of a larger boundary or a travelling source body. |
 | **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
 | **First Target** | Whoever is listening. Characters approach people who stop to hear them and ignore people who keep walking, which is the only behaviour in the file that resembles a choice. |
@@ -163,7 +165,7 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 ### Escalation Notes
 
 - **Containment priority:** Keep the perimeter, record the manifestations and name the tellers available in the district register. The hour ends on its own and cannot be struck or shortened; gauge relief does not remove a story or erase a named worker.
-- **Sorrow Gauge on breach:** 40% rising 10% a cycle, read from the perimeter. The Year 4,231 simultaneity is the only reading that has passed 65%.
+- **Sorrow Gauge in the event:** 40% rising 10% a cycle, read from the perimeter. The Year 4,231 simultaneity is the only reading that has passed 65%.
 
 ## M.A.W. Equipment
 

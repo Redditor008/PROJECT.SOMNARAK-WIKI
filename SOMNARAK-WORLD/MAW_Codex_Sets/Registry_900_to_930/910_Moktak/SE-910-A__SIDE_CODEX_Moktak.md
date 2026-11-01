@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIβ-910 [WP] |
-| Type / Manifestation | Place — Can breach via Transform / Place-Spirit |
+| Type / Manifestation | Place — Non-breaching: expansion only / Place-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-N-910, contained |
 | Gauge / Pressure | 410/410; starts 35–50% / 14–21 per hit · Weight |

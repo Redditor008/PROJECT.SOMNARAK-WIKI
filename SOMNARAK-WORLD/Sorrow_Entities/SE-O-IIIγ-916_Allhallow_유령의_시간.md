@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-916 [LT]` |
-| **Entity Type** | **Time** — Recorded breach lengthens the walked line; no body transformation is documented |
+| **Entity Type** | **Time** — Non-breaching: expansion only; the walked line lengthens and no body transformation is documented|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -149,13 +149,15 @@ Nobody has ever spoken to one of them and nobody has tried. The prohibition on a
 
 The pressure is not worked; the hour is counted. Observation is the tally itself, endurance is standing the full sixty minutes at a line you may not cross while people who look like the dead walk past it. The gauge moves when the counts are taken and reconciled, and for nothing that happens to the walkers — because nothing does.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The walked line lengthens and the body does not change; the gauge rises ten per cent per extension, and nothing on the file runs a count.
 
 > *"Allhallow has broken free. The lament phantasmal spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The walked line lengthens along the border rather than widening inward. Two extensions in seventeen years, both out into the Desolate, both found when the far post’s count began rising while the near post’s held steady. |
 | **Effect** | The extension takes in border ground, not buildings and not people; there has never been anybody living on the sections added. What it costs is a longer line to mark, a third post considered and refused, and a count that takes two people most of the hour. |
 | **First Target** | Nobody, and the record is explicit about it. In thirty-four occurrences no walker has ever changed course toward a person, and the four obstacle incidents establish that the column does not acknowledge what stands in its way rather than avoiding it. The danger here has always been the approach, and the approach is ours to make or not. |
@@ -164,7 +166,7 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 ### Escalation Notes
 
 - **Containment priority:** Keep both posts behind the marked line, count independently for the whole hour, then reconcile without averaging or correcting either total. Do not approach the walkers or attempt physical suppression.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per extension of the walked line rather than per turn. Two extensions, reading 60%, unchanged for eleven years.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per extension of the walked line rather than per turn. Two extensions, reading 60%, unchanged for eleven years.
 
 ## M.A.W. Equipment
 

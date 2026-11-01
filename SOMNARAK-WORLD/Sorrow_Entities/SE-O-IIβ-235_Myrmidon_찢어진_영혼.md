@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-235 [GS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; the zone warps and spreads and the figure remains in place inside it |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -94,7 +94,7 @@
 - The failure here is reasonableness. The worker begins explaining how a thing like that comes to happen, the procedure, the context, why no individual is really to blame — accurately, usually — and the gauge climbs on every sentence of it.
 - Extended contact invites the full manifestation: the two incompatible selves pulling apart hard enough to take the surrounding zone with them. Personnel caught in it describe being asked to choose between two things they believed at the same time, and finding that both answers are disloyal.
 - Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. The pieces from this source charge in commitment: the wielder becomes more certain of their obligations and less able to say to whom they are owed.
-- Without resolution the containment zone warps and spreads, which is the Corrupt breach on the classification. Nothing escapes. The zone itself becomes a place where allegiance does not resolve, and personnel inside it begin arguing a case neither of them holds.
+- Without resolution the containment zone warps and spreads, which is the Corrupt event on the classification. Nothing escapes. The zone itself becomes a place where allegiance does not resolve, and personnel inside it begin arguing a case neither of them holds.
 
 ## Appearance
 **Primary Form:** A torn translucent figure that weeps from a split in its chest. Its outline flickers as though divided into two incompatible memories.
@@ -145,13 +145,15 @@
 Myrmidon holds a Subject-Lament manifestation and a Grudge expression, and is stationed in Zone A at the Alpha Tree. All four Work Types apply. Flerehan reaches through the tear and lowers the gauge, Viderehan opens the betrayal and moves nothing, Ferrehan weighs whether a worker can stay without defending the system, and Pugnahan attacks representation and raises the gauge every time. It does not respond to personal identity at all. It responds to who a person is standing for.
 
 **Reading the response:** Read it in the split and in what the worker has just said. A falling gauge presents as narrowing — the tear closing by a measurable fraction, the flicker slowing, the weeping quieter. The pressure eases and the cause is untouched; he is not reconciled, he has been told the truth once by one person. A rising gauge presents as **reasonableness**. The room becomes a discussion, the worker finds themselves explaining how a thing like that comes to happen, what the procedure was, why no individual is really to blame, and every word of it may be accurate. That is the failure. This entity does not respond to personal identity at all; it responds to representation, and a worker who has begun speaking for the institution has become the institution in the only sense that matters here. If it responds differently from the record, write that down; and write down what was said in the thirty seconds before.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The count runs down one for each failed representation and the gauge is a threshold; neither is a tally toward a breach, and the figure stays where it was filed.
 
 > *"Myrmidon’s Corrupt field is spreading. The figure remains in place; do not speak for the institution."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | Myrmidon remains in place while the Corrupt zone warps and spreads. The effect can crack walls and harm personnel within it; field expansion is not the figure escaping to hunt. |
 | **Effect** | The entity's anger becomes physical, cracking walls and personnel alike. |
 | **Secondary Effect** | It looks for the grievance a worker has not raised. Crews describe being watched while it decides, and the standing note in the file is that the one it picks is never the angriest person present — it is the one with something still unsaid about the institution they work for. |
@@ -160,9 +162,9 @@ Myrmidon holds a Subject-Lament manifestation and a Grudge expression, and is st
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on breach:** Opens at 40% and moves on representation rather than on elapsed time. Each 10% is added when the institution is spoken for inside the zone — a policy explained, an order justified, a decision defended, 'we' used in place of 'I', or insignia carried in on a collar or a cuff. Accuracy is no defence and neither is good intent; the entity is reacting to the fact of representation. Each 10% comes off when a worker says something true in their own name and at their own risk: that what was done to his family was wrong, that the proceedings were the facility's doing, that they are sorry and have no authority to offer anything more. Silence holds it steady. The briefing states the obvious and uncomfortable consequence — the people required to do this are employed by the body they are required not to defend, and the wing has never pretended that is a small thing to ask.
+- **Sorrow Gauge in the event:** Opens at 40% and moves on representation rather than on elapsed time. Each 10% is added when the institution is spoken for inside the zone — a policy explained, an order justified, a decision defended, 'we' used in place of 'I', or insignia carried in on a collar or a cuff. Accuracy is no defence and neither is good intent; the entity is reacting to the fact of representation. Each 10% comes off when a worker says something true in their own name and at their own risk: that what was done to his family was wrong, that the proceedings were the facility's doing, that they are sorry and have no authority to offer anything more. Silence holds it steady. The briefing states the obvious and uncomfortable consequence — the people required to do this are employed by the body they are required not to defend, and the wing has never pretended that is a small thing to ask.
 
 ## M.A.W. Equipment
 
@@ -372,7 +374,7 @@ Some sorrows are about betrayal. Myrmidon is about the betrayal that divides —
 
 **Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any entry, and then read the suppression condition again, because it is the hardest instruction in this wing. Separate the person from the institution they represent; do not defend the institution. The institution is this one. The people asked to carry that out hold its warrants, draw its pay, and will be assessed by it at the end of the quarter, and the condition requires them to stand in a room and decline to speak for it. No procedural support exists for that position and the wing has not invented any, having concluded that a procedure authorising honesty would convert it into another instruction issued by the same body. What exists instead is the dress exemption, which is the only entry of its kind in the facility's instructions, and a convention that the person who speaks here speaks under their own name. Where the entity contradicts this file, trust the entity and log the contradiction unresolved.
 
-**Review requirement:** After any breach, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the containment field, the exposure log and the entity's position before work resumes. Two further items are required here. The cycle record is checked for institutional speech, and where it is found the finding goes to the briefing rather than to the worker's file — speaking for one's employer is a trained reflex and this holding is designed to elicit it. And nothing a worker says in this room, in their own name, about the facility or its past conduct may be cited in any proceeding concerning them. That protection is absolute, it is printed on the cycle sheet, and without it the containment condition cannot honestly be asked of anyone.
+**Review requirement:** After any containment event, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the containment field, the exposure log and the entity's position before work resumes. Two further items are required here. The cycle record is checked for institutional speech, and where it is found the finding goes to the briefing rather than to the worker's file — speaking for one's employer is a trained reflex and this holding is designed to elicit it. And nothing a worker says in this room, in their own name, about the facility or its past conduct may be cited in any proceeding concerning them. That protection is absolute, it is printed on the cycle sheet, and without it the containment condition cannot honestly be asked of anyone.
 ## Watch Record
 
 ### Torn in Two

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-930 [LH]` |
-| **Entity Type** | **Hazard** — Speech-conditioned manifestations at a fixed sector; the recorded breach repeats the utterance log, not a bodily transformation |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only; the utterance log manifests at once across the fixed sector and nothing travels|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -148,14 +148,16 @@
 
 Observation is the silent inventory walk and photographic comparison; endurance is keeping the whole watch without speaking. A lower gauge does not erase a claw mark or establish that a description is safe. Close the cycle against what was already present, and record the result on paper rather than describing the task aloud.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The utterance log manifests across the sector at once and nothing travels; the gauge rises ten points a cycle.
 
 > *"Once Told has broken free. The lament tale spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The recorded breach brings the utterance log into simultaneous manifestation across the sector. It supplies no surveyed outward boundary or universal object-corruption record. |
+| **Event Type** | Expansion |
+| **Movement** | The recorded event brings the utterance log into simultaneous manifestation across the sector. It supplies no surveyed outward boundary or universal object-corruption record. |
 | **Effect** | Ordinary response follows the speaker and spoken content; silent bystanders have not been selected in those incidents. The simultaneous recurrence has its own area-effect record and is not evidence of a pursuing body. |
 | **First Target** | Whoever spoke. It has never responded to a person who stayed silent, in eleven years, including people standing beside a speaker. |
 | **Escalation** | +5 Lament drain per cycle while a manifestation is forming. It stops when the thing described has arrived; the sector does not keep escalating, it simply finishes the sentence. |
@@ -163,7 +165,7 @@ Observation is the silent inventory walk and photographic comparison; endurance 
 ### Escalation Notes
 
 - **Containment priority:** Keep the party silent, use the agreed written plan and leave without adding to the inventory. Physical suppression has no recorded success; the documented removal attempts did not clear the standing manifestations.
-- **Sorrow Gauge on breach:** 40% rising 10% a cycle. The Year 4,234 simultaneity is the only breach and it ended by itself after nine minutes.
+- **Sorrow Gauge in the event:** 40% rising 10% a cycle. The Year 4,234 simultaneity is the only containment event and it ended by itself after nine minutes.
 
 ## M.A.W. Equipment
 

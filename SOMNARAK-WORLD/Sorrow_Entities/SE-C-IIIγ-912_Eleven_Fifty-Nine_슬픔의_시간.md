@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-912 [LT]` |
-| **Entity Type** | **Time** — Simultaneous district interval; recorded breach extends the affected boundary without a travelling body |
+| **Entity Type** | **Time** — Non-breaching: expansion only; the interval extends the affected boundary and no body travels|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -150,13 +150,15 @@ What is certain is that the effect is cumulative and that the cumulation is in t
 
 Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament manifestation, Lament expression, recorded at SECTOR-C-912 and occurring across the Mantle Commons. Flerehan and Pugnahan are unavailable to a Time. Both valid Work Types lower the gauge and neither shortens the hour, which is the distinction this file exists to make.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The interval deepens and takes in more of the district; the gauge falls from 0400 regardless of response, and there is no other tally on the file.
 
 > *"Eleven Fifty-Nine reaches beyond the usual district boundary. Notify the affected area and hold personnel in place; onset is simultaneous, not a travelling wave."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — of how many people are inside it, never of where it is. |
+| **Event Type** | Expansion — of how many people are inside it, never of where it is. |
 | **Movement** | Nothing travels. The hour reaches further out from the Commons than its usual boundary, so that districts which do not normally hold it do, and returns to the usual boundary afterwards without having left anything behind. |
 | **Effect** | Lament in the Lament register: specific, interior and identical in every person inside the boundary at the time. |
 | **First Target** | Every person in the district at once, because it is an hour. There is no first and no nearest; the two most distant observers on record logged the onset in the same minute. |
@@ -165,7 +167,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 ### Escalation Notes
 
 - **Containment priority:** There is no containment action. Notify, hold personnel where they are, log the onset by external timepiece, and resume at 0400. Every attempt to work through it has produced worse figures than standing still.
-- **Sorrow Gauge on breach:** Opens at 50% at 0300 and falls steadily toward 0400 regardless of response. It cannot be suppressed, only outlasted, and the curve is the same whether the facility acts or does nothing at all.
+- **Sorrow Gauge in the event:** Opens at 50% at 0300 and falls steadily toward 0400 regardless of response. It cannot be suppressed, only outlasted, and the curve is the same whether the facility acts or does nothing at all.
 
 ## M.A.W. Equipment
 

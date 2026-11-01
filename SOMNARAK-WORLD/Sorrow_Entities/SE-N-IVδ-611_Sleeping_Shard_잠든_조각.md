@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-611 [N]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; left unanchored the sleep widens from the chamber to the corridor to the people standing in it, and the figure never leaves the crystal |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -51,7 +51,7 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | 2.45 m/s |
+| **Speed** | 0.2 m/s — it drifts at chest height and the drift is slower than a walk |
 | **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band a δ holding carries here, and it is written for the dream rather than the figure: nothing in the chamber swings, so what a crew holds against is the radius. The gauge opens at 846 and trips at 90 per cent, and the drain runs 5 Clarity per turn per person inside it. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity’s sorrow becomes a conduit: raw pressure severely erodes their **Composure**, funneling cognitive instability back into the Sorrow Gauge.
 - The Shard's effects are a function of duration rather than intensity. A short cycle costs a worker nothing they will notice; a long one costs them particular memories, and the Shard does not choose which. The recommended cycle is set by what personnel can afford to lose, not by what they can endure.
 - Each use of the knife, the veil or the vial is paid out of the wielder's own continuity. The debit is small, unnamed and permanent: a face with no name left attached to it, a room with no reason left to be remembered. The equipment performs exactly as described. That is the difficulty with it.
-- Left unanchored, the sleep does not end. It widens. The dream takes in the chamber, then the corridor, then the people standing in it, and the recorded breach is simply the point at which more personnel are inside the dream than outside it.
+- Left unanchored, the sleep does not end. It widens. The dream takes in the chamber, then the corridor, then the people standing in it, and the recorded event is simply the point at which more personnel are inside the dream than outside it.
 
 ## Appearance
 **Primary Form:** A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams.
@@ -156,13 +156,15 @@
 Nothing in the table above means anything read on its own. The element, the coherence and the manifestation together decide what a Work Type can do here, and the notes below are the whole of what the wing has established about that.
 
 **Reading the response:** Success is a quieter sleep and slower tears — a change of degree rather than of state, measured against the start of the shift rather than against the file. An angry waking means the work turned into an attempt to take the grief away instead of to sit beside it. The Shard tells those two apart reliably. Personnel so far do not.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** Two instruments here: the gauge is read as a threshold and the disturbance count is what triggers, and at four the sleep stops being anchored and widens. Neither number is a tally toward a breach.
 
 > *"Sleeping Shard has broken free. The dream is outside the chamber and personnel are inside the dream."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | The figure stays where it is. The dream expands past the seal in a widening radius, and personnel do not notice crossing into it. |
 | **Effect** | Identity and memory begin to dissolve, draining clarity. |
 | **Secondary Effect** | A spreading numbness that erases names and faces. |
@@ -175,9 +177,9 @@ Nothing in the table above means anything read on its own. The element, the cohe
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Do not force the waking — a forced waking is the one action this entity answers. Set an anchor first, quieten the zone second, and accept a slow recovery of the radius over a fast one.
-- **Sorrow Gauge on breach:** It climbs on disturbance and settles on anchoring, and neither of the two runs to a clock. A voice in the chamber, a light brought near, a hand on the crystal: every one of those is entered as a step up. A correctly placed anchor takes it down and keeps taking it down for as long as the anchor holds, which the rota has never recorded past a single shift.
+- **Sorrow Gauge in the event:** It climbs on disturbance and settles on anchoring, and neither of the two runs to a clock. A voice in the chamber, a light brought near, a hand on the crystal: every one of those is entered as a step up. A correctly placed anchor takes it down and keeps taking it down for as long as the anchor holds, which the rota has never recorded past a single shift.
 
 ## M.A.W. Equipment
 

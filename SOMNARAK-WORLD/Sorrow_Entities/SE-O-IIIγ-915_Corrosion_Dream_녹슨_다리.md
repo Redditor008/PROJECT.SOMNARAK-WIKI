@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-915 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; the works yard corrodes outward from the drawings, and the four recorded events all arrived at the same yard |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - A finished cycle lowers the reading and does nothing past that: no session dismantles the span, dries it out, or makes it shorter by a metre.
-- A gauge on the climb, a cycle that fails, or a single clause of the activation order passed over is enough to begin what this file enters under breach, activation and expansion.
+- A gauge on the climb, a cycle that fails, or a single clause of the activation order passed over is enough to begin what this file enters under a containment event, activation and expansion.
 - Han-Energy off this holding is booked against the exposure it took to earn; a bigger yield would mean specialised crews, longer recovery, or harder containment, and the file says so.
 - Extraction here is a risk event in its own right and is never booked as a bonus for a normal shift.
 
@@ -79,7 +79,7 @@
 |---|---|---|---|---|
 | { *The Corroded Span* [**Debuff**] } | "The plates come away under the boot in flakes, and each flake is a piece of a plan that was never funded." | [The span's own decay is what the target is standing on.] | *Target suffers a Void mark; the ground they meant to cross stops being something they can plan on.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target steps on the Bridge. |
 | { *The Sagging Cable* [**Debuff**] } | "The cables are down to threads and they sing in the wind, and the note they sing is the one the song never finishes." | [The decayed supports carry the figure's missing note out to everybody present.] | *Target loses clarity; they hear the gap in the structure and cannot leave it alone.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target crosses. |
-| { *The Falling Flake* [**Attack**] } | "Nothing falls on anybody. Four breach events, four arrivals at the same works yard, and nothing has ever collapsed under anyone." | [The first target is the plan chest: drawings oxidise at the folds and the figures become unreadable before the drawing does.] | *Void damage lands on the estimates, not the estimators; personnel lose the recollection of one thing they meant to do and never did, and generally do not notice.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the figure stands over the drawings unaddressed. |
+| { *The Falling Flake* [**Attack**] } | "Nothing falls on anybody. Four containment events, four arrivals at the same works yard, and nothing has ever collapsed under anyone." | [The first target is the plan chest: drawings oxidise at the folds and the figures become unreadable before the drawing does.] | *Void damage lands on the estimates, not the estimators; personnel lose the recollection of one thing they meant to do and never did, and generally do not notice.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the figure stands over the drawings unaddressed. |
 | { *The Full Corrosion* [**Attack**] } | "It does not need to be struck. The fraction rises by a fifth each turn, and stops the turn a works order is signed in the room." | [Four events ended on a signature, not on suppression; the one removal of the drawings on record took the figure to the records office instead, which is worse.] | *A heavy Void settling; the gauge falls for each repair actually attempted and recorded as failed, with costs — a failure on paper has never once raised it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When nobody in the room will sign anything. |
 | { *The Rusted Field* [**Ultimate**] } | "Nine proposed, two built, one abandoned, six refunded — and the fraction followed each return inside the fortnight." | [No span fails anywhere. What goes is the district's willingness to begin, measured in quarters of plate to standing water by the same coarse series every week.] | *Void erosion across everybody whose plan is still in the drawer, looking like a plan; the annual attempted repair, failures published, has kept it at or below a half.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | In a year of refunds. |
 
@@ -145,13 +145,15 @@
 **The table reads the water fraction and nothing else.** Flerehan lowers the rusted hands and lowers the figure's water; Ferrehan stays beside it while the distance is admitted rather than closed; Viderehan shows the crossing that failed and the people left standing at the near end, and leaves the reading where it was, which on this holding is a result and not a null; Pugnahan turns the plates to edges and is the one approach that has never once brought the fraction down. The variable the table cannot show is the district's ledger: the fraction rose from a quarter to three quarters across 4238, and each of the six refunds was followed within the fortnight. A stable reading beside this figure still costs the observer a shift of standing where nobody was waiting.
 
 **Reading the response:** A falling water fraction means the crossing and the loss were both named and neither was repaired by promise. Stability under Viderehan is correct. It rises when reunion is offered, when the plates are met with force, and in any week the district returns money raised for a repair instead of spending it on one.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** The gauge is a threshold and the count is the activation's own. The yard corrodes outward from the drawings, and the record holds four arrivals and no departure.
 
 > *"It is in the works yard, standing over the drawings."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | It walks, slowly, and goes to wherever the district's unbuilt works are drawn or stored. Four events, four arrivals at the same yard. Nothing has ever collapsed under anyone. |
 | **Effect** | Drawings and estimates within the room oxidise at the folds, and the figures become unreadable before the drawing does. |
 | **Secondary Effect** | Personnel present lose the recollection of one thing they meant to do and never did, permanently, and generally do not notice. |
@@ -160,9 +162,9 @@
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — the containment zone warps and spreads.
+- **Event type (non-breach):** Corrupt — the containment zone warps and spreads.
 - **Containment priority:** Do not seal the works yard and do not remove the drawings; the one removal on record took the figure to the records office instead, which is worse. Sign something. The approach table lists confrontation as an increase and the four events ended on a signature, not on suppression.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each works subscription or repair allocation in the district returned to its subscribers without being spent. It falls 10% for each crossing repair actually attempted and recorded as failed, with costs, and the archive notes that a failure on paper has never once raised it.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% for each works subscription or repair allocation in the district returned to its subscribers without being spent. It falls 10% for each crossing repair actually attempted and recorded as failed, with costs, and the archive notes that a failure on paper has never once raised it.
 
 ## M.A.W. Equipment
 
@@ -263,7 +265,7 @@ The set binds on the event rather than on the effort: the bearer names Corrosion
 |---|---|
 | **Initial exposure** | The bay, the distance from the old abutment, the plate-to-water fraction in quarters, whether the hands are raised or lowered, and whether singing occurred; the dream report that preceded the encounter is attached before the measurements are read, because a dream report adjusts the rota automatically and the encounter does not wait for one. On the 4238 series the fraction ran from a quarter in the first third of the year to three quarters at the end of it. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The fraction is the instrument: it rises by a fifth each turn while the figure stands over the drawings unaddressed, and stops the turn a works order is signed in the room, whether or not the work is ever carried out. Across a year the same instrument reads the district — nine proposals, two completions, one abandonment and six refunds, with a rise inside the fortnight of each return, and the facility's own annual repair attempted against a withdrawn objection. On a breach the figure goes to the works yard, and the four events on record all ended on a signature rather than on suppression. |
+| **Activation or escalation** | The fraction is the instrument: it rises by a fifth each turn while the figure stands over the drawings unaddressed, and stops the turn a works order is signed in the room, whether or not the work is ever carried out. Across a year the same instrument reads the district — nine proposals, two completions, one abandonment and six refunds, with a rise inside the fortnight of each return, and the facility's own annual repair attempted against a withdrawn objection. On a containment event the figure goes to the works yard, and the four events on record all ended on a signature rather than on suppression. |
 | **Post-contact review** | The fraction at exit against the fraction at entry, and the bay it next appears in; whether the hands came down; whether anything was said in the room that resembled a promise, entered with the name of the person who said it; the sheets compared afterwards for the recollection somebody meant to act on and never did; and the week's works ledger set beside all of it. The last line of the record is the standing question, and it is answered plainly: the report is incomplete if it describes the figure and omits what the district stopped building. |
 
 **Observation method:** Record the dream report that preceded the encounter, the bay, the proportions on arrival and on leaving, and the district's works ledger for the week, which is the variable. The condition that ends the encounter is the Warden's shift. Appearance is diagnosis, not prediction; the proportions reveal the wound, not the next move.
@@ -362,7 +364,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 **Containment & Handling Procedures:**
 - The Work Type responses are set out in the Behavior section of this file.
 - Standard R.D. containment protocols apply.
-- Escalation response is carried under Breach Behavior and Activation Behavior.
+- Escalation response is carried under Containment Event Behavior and Activation Behavior.
 **Observation Notes:**
 - See Origin section for formation and event details.
 - See Combat Record for engagement history.
@@ -375,7 +377,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 
 **Operational interpretation:** The whole file is a ledger read against a proportion. The figure is estimated in quarters of plate to standing water — a coarse series kept consistently, which the file defends on the ground that a fine one taken irregularly is worth less than a blunt one taken every week. The quantities it answers to are the district's: nine crossing and span repairs proposed in 4238, two completed, one abandoned part-built, six funded and then cancelled with the money returned; a fraction that stood at a quarter in the first third of the year and three quarters by the end of it, each rise following a refund inside the fortnight. Read beside that the facility's own rule, adopted against a recorded objection that has never been withdrawn: one repair attempted every year without regard to likelihood of success, failures published with costs, three of the last five failed, and the fraction not above a half in any year since. The community asked one thing of this archive — that the money raised be recorded as raised — and the published ledger is the nearest thing to granting it that exists. Where the ledger and this section disagree, the ledger is right and the disagreement is preserved.
 
-**Review requirement:** Re-take the standing measurements after any breach, Tide, Ordeal or joint session and before the next work cycle: the bay, the distance from the old abutment, the plate-to-water proportion in quarters estimated on arrival and on leaving, whether the hands are raised or lowered, and whether singing occurred — entered as a yes or a no and never as a transcript, because a Warden who has crossed a boundary that broke behind them is not asked what was sung. Beside the measurements put the week's works ledger: proposals, completions, abandonments and refunds, with the return dates, since the six returns of 4238 each moved the fraction within the fortnight. Confirm that a works order has been signed at the yard in any week the figure arrived there, that no removal of the drawings has been attempted since the one that took the figure to the records office, and that nothing on the file promises the crossing will be rebuilt. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-take the standing measurements after any containment event, Tide, Ordeal or joint session and before the next work cycle: the bay, the distance from the old abutment, the plate-to-water proportion in quarters estimated on arrival and on leaving, whether the hands are raised or lowered, and whether singing occurred — entered as a yes or a no and never as a transcript, because a Warden who has crossed a boundary that broke behind them is not asked what was sung. Beside the measurements put the week's works ledger: proposals, completions, abandonments and refunds, with the return dates, since the six returns of 4238 each moved the fraction within the fortnight. Confirm that a works order has been signed at the yard in any week the figure arrived there, that no removal of the drawings has been attempted since the one that took the figure to the records office, and that nothing on the file promises the crossing will be rebuilt. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Warden Record
 
 ### Heard Only by Some

@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-922 [LH] |
-| Type / Manifestation | Hazard — Can breach via Transform / Hazard-Lament |
+| Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / SECTOR-C-922, contained |
 | Gauge / Pressure | 750/750; starts 35–50% / 30–40 per hit · Lament |

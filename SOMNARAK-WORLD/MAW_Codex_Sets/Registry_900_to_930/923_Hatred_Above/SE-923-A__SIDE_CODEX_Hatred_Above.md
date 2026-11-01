@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-923 [GH] |
-| Type / Manifestation | Hazard — Can breach via Transform / Hazard-Grudge |
+| Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge / SECTOR-C-923, contained |
 | Gauge / Pressure | 750/750; starts 35–50% / 30–42 per hit · Grudge |

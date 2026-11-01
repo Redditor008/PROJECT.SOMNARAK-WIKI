@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-126 [VS]` |
-| **Entity Type** | **Subject** — Can breach |
+| **Entity Type** | **Subject** — Non-breaching: corruption only; nothing leaves, because nothing was ever in one place, and the border region loses definition outward |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -94,7 +94,7 @@
 - Nothing here degrades loudly and nothing is severe on the day. The failure is a sentence: a worker's post-cycle self-description comes back shorter, flatter and more generic than the one they wrote before it — seven point four words shorter, on the current mean.
 - Extended contact produces identity erosion, and the documented course is specific: subjects lose confidence in their own identity rather than their memory of it. The worker can recite their name, record and history accurately throughout, and simply stops believing that any of it describes them.
 - Every piece drawn from the Shard charges in selfhood. The hand-cannon takes small nameless memories with each shot; the veil holds the soul intact and leaves its wearer faintly absent to themselves; the Reflection shows erosion in others before it becomes loss and makes its bearer the object of everyone's pity.
-- Unresolved, it does not escape — it spreads. The breach type is Corrupt, the zone warps outward from where the entity already is, and the first indication is usually that two people on the same shift give different accounts of who was present.
+- Unresolved, it does not escape — it spreads. The event type is Corrupt, the zone warps outward from where the entity already is, and the first indication is usually that two people on the same shift give different accounts of who was present.
 
 ## Appearance
 **Primary Form:** A melting shard, perceived inside consciousness rather than seen: a figure of pale fragments that assembles, watches without a face, and slides apart under attention. **Assay:** no two observers have produced the same description, and the spread between them is the measurement.
@@ -145,24 +145,26 @@
 Read the four rows above with the classification and the element in hand: the same movement means different things at different tiers, and none of it stands alone. Anonym is a Subject with Subject-Mind manifestation and Void expression, measured inside the personnel at the Zone E border rather than behind any barrier, and no assumption from another holding in the register transfers here. The caution this file repeats is written for a Mind-type: a watch can close flat on every reading and still leave a worker unable to say with confidence what they were called before the shift started.
 
 **Reading the response:** Flerehan brings the gauge down and the figure reforms gently around shared grief — it holds together best when it is grieved with rather than identified. Ferrehan brings it down by a harder route: the test is whether the worker can remain seen by the self, which means staying recognisable to themselves for the whole cycle while something is quietly dissolving the grounds for that. Viderehan holds level and shows the self before the erosion, which is informative and changes nothing. Pugnahan raises the gauge every time, melts the figure faster and pushes it further into thought, because confrontation insists on what something is and that insistence is the injury. The management condition states the balance exactly and personnel should not simplify it in either direction: use names and present anchors, and do not force a fixed identity.
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** Nothing leaves, because nothing was ever in one place. The gauge is a threshold, and the border loses definition outward from the fragment rather than the fragment moving.
 
 > *"Anonym is spreading. Nothing has left anywhere. Check who is on the line and get their names said."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Corrupt |
+| **Event Type** | Corrupt |
 | **Movement** | It intensifies where it already is, which is inside the personnel, and the region loses definition outward from them. It hunts nobody; it has no position from which to hunt. |
 | **Effect** | Confidence in identity dissolves while memory stays intact — the characteristic signature, and the reason it is missed. |
 | **Secondary Effect** | Personnel stop using one another's names, then stop noticing that they have stopped. |
-| **First Target** | Whoever is carrying it already. There is no nearest: distance to this entity is not a quantity, and the file has twice been wrong on that point in its own breach table. |
+| **First Target** | Whoever is carrying it already. There is no nearest: distance to this entity is not a quantity, and the file has twice been wrong on that point in its own event table. |
 | **Escalation** | While it is unopposed the pressure climbs: Clarity drain rises by 5 each turn until the cycle is brought back under a name and an anchor. The figure does not pursue; what rises is the room's willingness to let its own edges go. |
 
 ### Escalation Notes
 
-- **Breach type:** Corrupt — nothing leaves, because nothing was ever in one place; the border region itself begins to lose definition outward from the personnel who are already carrying it.
+- **Event type (non-breach):** Corrupt — nothing leaves, because nothing was ever in one place; the border region itself begins to lose definition outward from the personnel who are already carrying it.
 - **Containment priority:** There is nothing to seal — no door holds it, and the boundary runs through the staff. Get names said: each worker addressed by name and asked rather than told who they are, present-tense anchors running, and the reading-back performed at the close. Flerehan and Ferrehan, worked in pairs.
-- **Sorrow Gauge on breach:** Responds to certainty in both directions, which is unusual and is recorded here deliberately. It rises 10% each time personnel deny someone's account of themselves, and it rises 10% just the same each time personnel assert a fixed identity over someone — corrections, confident diagnoses, and telling a frightened colleague who they really are all count. It falls 10% when a worker is addressed by name and asked rather than told who they are. The vault note is accurate: certainty can destabilise it as much as denial.
+- **Sorrow Gauge in the event:** Responds to certainty in both directions, which is unusual and is recorded here deliberately. It rises 10% each time personnel deny someone's account of themselves, and it rises 10% just the same each time personnel assert a fixed identity over someone — corrections, confident diagnoses, and telling a frightened colleague who they really are all count. It falls 10% when a worker is addressed by name and asked rather than told who they are. The vault note is accurate: certainty can destabilise it as much as denial.
 
 ## M.A.W. Equipment
 

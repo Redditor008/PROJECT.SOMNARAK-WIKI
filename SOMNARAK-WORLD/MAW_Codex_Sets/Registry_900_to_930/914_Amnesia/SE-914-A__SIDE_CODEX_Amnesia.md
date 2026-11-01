@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIβ-914 [VT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Void |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Void |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void / SECTOR-O-914, contained |
 | Gauge / Pressure | 496/496; starts 35–50% / 14–26 per hit · Void |

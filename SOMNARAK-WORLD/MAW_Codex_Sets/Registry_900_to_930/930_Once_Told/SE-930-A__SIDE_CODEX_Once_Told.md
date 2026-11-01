@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IVδ-930 [LH] |
-| Type / Manifestation | Hazard — Can breach via Transform / Hazard-Tale |
+| Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Tale |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / SECTOR-O-930, contained |
 | Gauge / Pressure | 750/750; starts 35–50% / 30–38 per hit · Lament |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-917 [VT]` |
-| **Entity Type** | **Time** — Recorded expansion takes neighbouring streets between episodes; no transformed body is documented |
+| **Entity Type** | **Time** — Non-breaching: expansion only; episodes take neighbouring streets between them and no transformed body is documented|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -150,13 +150,15 @@ What the page described is this: the sun comes up over a district and the distri
 
 Sunrise and shutter times are recorded from the post, but no instrument measures the condition inside the sleepers. Timing an episode is not a direct measurement of the dream state. Both valid approaches are performed from the perimeter: observation is the watch itself, endurance is holding the post for the length of an episode without sending anyone in. The gauge answers to the watch being kept, which is the only act the holding permits.
 
-## Breach Behavior
+## Containment Event Behavior
+
+> **Containment event — no breach counter.** Episodes take neighbouring streets and no transformed body is documented; the gauge rises ten per cent per street taken.
 
 > *"Dawn That Forgot has broken free. The void dream spreads."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
+| **Event Type** | Expansion |
 | **Movement** | The affected zone takes in streets along its own boundary, by whole blocks, between one episode and the next. Three widenings in seventeen years, each one found by the post noticing shutters that stayed closed a street further out than last time. |
 | **Effect** | Households newly inside the line experience their first episode at the next dawn and every dawn the holding has thereafter. Nobody in the widened streets has ever reported injury; what they report is the loss of the early shift, and the district has rescheduled around it twice. |
 | **First Target** | Whoever sleeps nearest the boundary — geographically, not emotionally. The three widenings took the next street out in each case, in order, with no regard to who lived there, and the post predicted the third correctly from the first two. |
@@ -165,7 +167,7 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 ### Escalation Notes
 
 - **Containment priority:** Hold the perimeter post from before sunrise until the last shutter opens, and log the three times.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per street taken rather than per turn. It has stood at 70% since the third widening and has not moved in nine years.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per street taken rather than per turn. It has stood at 70% since the third widening and has not moved in nine years.
 
 ## M.A.W. Equipment
 

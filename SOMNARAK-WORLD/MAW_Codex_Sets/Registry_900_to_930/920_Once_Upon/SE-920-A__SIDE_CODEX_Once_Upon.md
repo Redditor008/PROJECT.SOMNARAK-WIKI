@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIγ-920 [LT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Tale |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Tale |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-O-920, contained |
 | Gauge / Pressure | 520/520; starts 35–50% / 17–26 per hit · Lament |
