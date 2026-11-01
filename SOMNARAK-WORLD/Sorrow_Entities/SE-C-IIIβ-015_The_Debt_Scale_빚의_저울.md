@@ -45,57 +45,42 @@
 - Mark the circle physically at every session. The radius is the only warning this holding gives, and the quarterly aggregate the Collector courts receive is calculated from it.
 - Extraction carries the same identity pressure as contact and crews are rotated accordingly; three extraction staff have asked, afterwards, to be told their own figure, and all three requests were refused.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Void pressure, and 20% against every other kind |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 506/506, taken off both dishes at once, a single-pan reading being the one thing the Scale refuses to give |
-| **Han Pressure [ATK]** | 8–19 with every stroke of the beam · Void, the lower figure for a party with nothing outstanding and the higher for one carrying a great deal |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** A balance-scale on a plinth is not a body and does not swing; the Movement row says *stationary*, and in nine years nothing on the record describes the instrument striking anybody. What it does is weigh — a hand on one dish, a figure returned as weight and feeling — and what a watch has to survive is being read.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium and unhurried — 16 turns, counted from the first weight laid on either dish |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Precise and impartial |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50%, beam near level when the watch opens, which then records the direction it leans |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, used by Collectors |
-| **Resolution Condition** | Two work types are permitted here, Viderehan and Ferrehan, and both of them only at the plinth, the Scale being far too heavy in consequence to be carried to the work. That 25% figure is what the beam settles at once a cycle has been done properly; no watch aims at it, on any cycle logged against The Debt Scale. |
+| **Mode of presence** | A balance-scale on a frame of yellowed articulating bone, plinth-mounted in SECTOR-C-01, two shallow crystal dishes hanging from it. The beam tips on its own and the dishes rise and settle without contact. A weighed circle is marked on the floor around the plinth and re-marked outward, never inward. |
+| **Perceptible to** | The warm dry bone first, which is the identification the courts' two ordinary balances fail; then the creak of the frame, the dishes settling unaided, and — for anyone standing inside the circle — the distinct sense of having been read. It displays no numerals anywhere. |
+| **Handling** | Not carried. A session is one hand on one dish at the plinth; both hands, lifting, turning or moving the instrument are outside the protocol and have never been authorised. |
+| **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
+| **Sorrow Gauge [HP]** | 506/506 — the containment meter, taken off both dishes at once, a single-pan reading being the one thing the Scale refuses to give |
+| **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
+| **Valid Work Types** | Viderehan and Ferrehan only, both at the plinth. Flerehan and Pugnahan are unavailable because this is an object. |
+| **Location** | SECTOR-C-01, used by Collectors |
+| **Resolution Condition** | Viderehan and Ferrehan only at the plinth. The 25% figure is what the beam settles at once a cycle has been done properly; no watch aims at it. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Reading* [**Debuff**] } | "The pan takes your measure, drops hard, and leaves you carrying the difference." | [The Scale weighs the target and marks them with the figure it found.] | *Target suffers a Void mark; their debt is visible to everyone present.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Scale is consulted or approached. |
-| { *The Tipping Balance* [**Debuff**] } | "The beam tips your way in a slow lean that does not stop." | [The balance keeps leaning and the owed weight settles lower on the target.] | *Target loses clarity as the weight of owed things settles on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target remains on the Scale. |
-| { *The Weight of Owed* [**Attack**] } | "What you owe, turned into stone, and dropped from height." | [The Scale makes one crushing mass out of the target's arrears.] | *Inflicts Void damage proportional to the debt.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target is judged and found short. |
-| { *The Overdraft* [**Attack**] } | "You owe past what you hold. The Scale collects the difference out of you." | [The overdraft is called in and taken from the target directly.] | *A heavy Void blow; the reading jumps 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Scale is struck or overloaded. |
-| { *The Bankruptcy* [**Ultimate**] } | "The Scale weighs the whole field at once, and nobody in it balances." | [The judgment widens out over the field and every debt is taken at the same moment.] | *Everyone in range takes Void erosion for three turns.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| Event | What the Scale does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The First Weighing* [**Register**] } | Takes the bearer's own measure before it takes anyone else's, on the first contact of the session, without being asked. | Nothing. The figure arrives as weight and feeling rather than as a number, and the bearer is asked for no permission and given no opportunity to decline. | Nothing is aimed and nothing is thrown. The instrument is impartial, which is the difficulty rather than the reassurance. |
+| { *The Lean* [**Exposure**] } | Past about thirty seconds, the beam stops returning to level; the owed weight settles and stays where it was put. | The bearer begins assessing everyone in the room, silently and accurately, and reports it afterwards with embarrassment. | The injury is arithmetic. The file records that nobody who has received their own figure has subsequently described themselves as owing nothing. |
+| { *The Refusal* [**Refusal**] } | Asked for a null reading, or for the measurement of a named person, it returns a figure anyway. It has never balanced empty in two thousand six hundred and four readings. | The request is refused by the facility, not by the instrument: nine refusals are on file, each signed and each setting out the reasoning in full. | This is the refusal in the record. An impartial measure of a person is not the same thing as a just one, and the opinion in the refusal file says so at length. |
+| { *The Widening* [**Overload**] } | Above 65 per cent, or after a cycle nobody could close, the weighed circle widens outward along the district floor and takes in a wider ring of households. | Mark the new line before anything else, clear unshielded personnel from the ground it has taken, and report the boundary to the Collector courts. | It expands by Transform and nothing has ever left the plinth. The circle has never contracted, and the quarterly aggregate is calculated from it — the base rate has been revised upward four times in nine years. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification rests on the unaided dish movement and on the warm bone; the courts' 2 ordinary balances are cold and still, and correspondence has mistaken them for the Scale twice. The approach is confirmed on that basis and positions are taken before anything else is attempted.
-2. **Clash:** Four turns at the plinth, observation and endurance only. Nobody places a hand on a dish, the circle is marked at the start and the end, and the dish positions are read by eye into the hand-ruled column.
-3. **Resolution:** The cycle ends the way the plinth record's own rule ends it — containment, retreat or management — or under the register's suppression condition: **Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person**.
+1. **What is confirmed:** the plinth, the unaided dish movement and the warm dry bone — the courts' two ordinary balances are cold and still, and correspondence has mistaken them for the Scale twice. The current mark is checked against the commissioning mark, which is never redrawn.
+2. **What the watch does:** Viderehan and Ferrehan at the plinth by rostered workers, no hand left on a dish past the stated interval, and the dish positions read by eye into the hand-ruled column that has not changed format since the containment opened. Instrumentation was attempted once and abandoned: the attached sensors altered the readings they were installed to record.
+3. **How it closes:** 2604 readings, and the close is the file's documented suppression condition: **Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person** — with the circle re-marked at the session's ends and the aggregate carried to the quarter on the strength of it.
 
 ### Consequences
 
 - The failure mode is arithmetic. A worker who cannot hold receives their own figure — not a number, a weight — and the file records that nobody who has received one has subsequently described themselves as owing nothing.
 - Long exposure produces the holding's characteristic state: the worker begins weighing other people silently and accurately, and loses the ability to regard anybody, including children, as owing nothing.
-- The Balance equipment measures the wearer before it measures anything else, every time, and the figure is entered in the ledger. No wearer has ever been permitted to read their own entry.
+- The relic profile's own cost is the same reading taken first rather than last — the bearer is measured before anything else is, every time, and the figure goes into the ledger. No wearer has ever been permitted to read their own entry.
 - Unresolved, it expands by Transform rather than escaping: the weighed circle widens, permanently, and everything inside the new line is now part of what the quarterly aggregate describes.
 
 ## Appearance
@@ -142,7 +127,6 @@
 | **Viderehan** | Shows the structure of an obligation rather than its size: what it rests on, what it was inherited from, and where it stops being traceable. | Stable |
 | **Ferrehan** | Holds the worker under the weight of being measured without taking a reading of them; lowers the gauge, and is the only approach that does. | Decrease |
 
-
 ### Operational Work Notes
 
 The Debt Scale is a Fragment (III) Object/Place; its potency is Moderate (β), its manifestation Object-Void, its expression Void. It rests on a plinth in SECTOR-C-01. Flerehan and Pugnahan are N/A because an object cannot be grieved with or fought. A level reading is not the same thing as a quiet cycle here: observation leaves the pans level, and the circle on the floor goes on doing what it does regardless.
@@ -152,35 +136,23 @@ The Debt Scale is a Fragment (III) Object/Place; its potency is Moderate (β), i
 
 > **Special activation — no counter.** The listed condition: *"a hand placed on one dish"*.
 
-
-
-
-
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** A hand placed on one dish.
-
-**Effect:** Displays the user's karmic debt as weight and feeling.
-
-**Duration:** Until the hand is removed.
-
-**Risk:** The measured burden may remain emotionally after the Scale resets.
 
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Continuous / channeled use — stationed at the plinth; nothing of it is worn or carried** |
 | **Activation** | A hand placed on one dish. |
 | **Primary Effect** | Displays the user's karmic debt as weight and feeling. |
 | **Duration** | Until the hand is removed. |
 | **Termination / Return** | The hand is lifted from the dish and the relic is unequipped under the detachment protocol. Premature return, or exceeding the threshold, leaves the measured weight in place after the instrument has reset. |
 | **Risk** | The measured burden may remain emotionally after the Scale resets. |
 
-**Operational Rule:** The relic works only while worn or carried and cannot replace a scheduled cycle; containment remains Viderehan and Ferrehan. The relic profile is authorised for operatives only, and no relic session has ever been authorised in respect of a member of the public.
+**Operational Rule:** The instrument is never carried and neither is any part of it. A session is one hand on one dish at the plinth, with a second person outside the line keeping the interval and re-marking the circle; containment remains Viderehan and Ferrehan. The profile is authorised for operatives only, and no relic session has ever been authorised in respect of a member of the public.
 
 ### Log and Method
 
@@ -260,7 +232,6 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the stat while working the entity this piece came from, and no bonus anywhere else.
 
 **Ability:** Shows the karmic debt of another person.
 
@@ -291,8 +262,6 @@ The pieces fitted to this pattern carry the holding forward rather than serving 
 - The Collector courts used it daily for eleven years before it was taken into containment, over documented citizen opposition throughout.
 
 **Personnel Note:** *"I wanted a fair measure my whole life. I stood in front of one for four minutes and understood that a fair measure of a person is not a kind one, and that nobody asked for the difference to be explained to them first."* — Specialist, Zone C patrol
-
-
 
 ### Observation Progression
 
@@ -336,8 +305,6 @@ The archive cross-references this entity with its registered location — the so
 
 The Scale appears simple: two dishes, a thin beam, no decoration. You touch one side and the room fills with the feeling of every promise you broke and every duty you neglected. The Scale does not accuse you. That is worse. It only shows the weight and waits.
 
-
-
 **At first contact:** A bone frame moving by itself, warm when it should be cold, creaking at the joint. The dishes are not level and were not level before anybody arrived, and nothing in the room explains which way they have gone.
 
 **With continued exposure:** You start to want your own figure. The file treats that wanting as the first measurable symptom rather than as curiosity, and the refusal to disclose figures exists because of what happened the two times it was not refused.
@@ -351,7 +318,6 @@ The Scale appears simple: two dishes, a thin beam, no decoration. You touch one 
 The Scale stands beside the district's other instruments of obligation, and it alone among them cannot be moved, so every relation below was brought to the plinth and tested there instead. Each has been observed and written up, and each has been left open: the Scale shows a weight and then waits, and filing a relation has never once been the same thing as settling it.
 
 **Interaction method:** Bring each party to the plinth alone first, across several cycles, and write down where the dishes come to rest, the circle they describe and the gauge, so the joint observation has something honest to be measured against. When two parties stand together, record the instant anything passes between them, how far it reaches, how long it holds, and what the trigger was, both gauges at that instant, and then what is still standing after they are separated. Every cycle is verified a second time before it goes into the file.
-
 
 ### Entity Interaction Record
 
@@ -478,8 +444,6 @@ The minute lets the objection stand on all three of its counts. It sets down tha
 
 - It displays no numerals anywhere. What it gives is weight and feeling, which is why every figure in this file is the wing's own conversion and is recorded as such.
 - It has never returned an empty balance in two thousand six hundred and four recorded readings, and the lowest of those is not close to empty.
-
-
 
 ### Registry Trivia
 

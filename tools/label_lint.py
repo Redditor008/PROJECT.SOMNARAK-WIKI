@@ -54,6 +54,8 @@ EXTRA_LABELS = {
     "Breach", "Breach Designation", "Breach Designation Shift", "Build",
     # R-28: non-breaching dossiers record containment events rather than breaches
     "Event", "Event Type", "Event Designation",
+    # Relic refinement: what a fixed instrument tolerates in the hand, not what it fights
+    "Handling", "Mode of presence", "Perceptible to",
     "Caught in the Storm", "Cold Burn", "Collar Seal", "Confession initiated",
     "Contained Designation", "Containment Status", "Dimensions / Mass",
     "Envelope Medium", "First Recorded", "Glass Medium", "Han Dust Drop",

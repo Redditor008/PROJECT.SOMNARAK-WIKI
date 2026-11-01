@@ -45,57 +45,42 @@
 - Weight accumulates faster than the gauge reflects. Watch posture and gait rather than the needle: the vault's own indicator is how long people take to cross it, and the figure is logged at both doors.
 - Extraction draws on the collected sand under separate authorisation. What that means in practice is the subject of the last section of the Warden Record and is not an ordinary yield arrangement.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Weight pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 501/501 |
-| **Han Pressure [ATK]** | 10–24 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the glass stands on its plinth in the Alpha Tree vault where it has stood since containment; nothing in the record has it striking anything. What it does is leak — the crack opens and closes with the pressure in the room, and the rate is what a watch is inside of.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Anxious about time |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | An ancient hourglass of crystallised time on its plinth in the Alpha Tree vault, frame dark and worn, one bulb cracked so that the sand — ground sorrow, not sand — leaks without end. The falling grains tick like a slowed heartbeat. |
+| **Perceptible to** | The tick and the thread running from the crack; the cold lead-heavy glass; the smell of wet stone and iron. Posture and gait across the vault change before the needle does, which is why the crossing time is logged at both doors. |
+| **Handling** | Not turned, not sealed, not carried. The glass does not reset and the volume in the lower bulb is unchanged between every pair of consecutive readings ever taken; a cycle that slows the fall for a shift has still not stopped it. |
+| **Activation threshold** | Touch or prolonged observation. No breach counter; the crack is gauged with the feeler strip before and after, at both doors. |
+| **Sorrow Gauge [HP]** | 501/501 — the containment meter, read at both doors rather than at the plinth |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, Alpha Tree vault — contained |
-| **Resolution Condition** | Viderehan and Ferrehan only at the plinth. The 25% figure is the consequence, not the objective, on every The Cracked Hourglass cycle logged. |
+| **Valid Work Types** | Viderehan and Ferrehan only at the plinth; Viderehan is also the only means by which a grain can be resolved into the moment it holds. |
+| **Location** | SECTOR-A-01, Alpha Tree vault — contained |
+| **Resolution Condition** | Viderehan and Ferrehan only at the plinth, and nobody stays past the fifteen-minute limit. The 25% figure is the consequence, not the objective. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Slipping Sand* [**Debuff**] } | "The sand slips faster — and you feel the years going with it." | [The Hourglass accelerates; the target feels time bleeding away.] | *Target suffers -10 Resolve as moments are stolen from them.* **[10 Weight DMG [Weight]]** | When the Hourglass is watched past the fifteen-minute limit; it is fixed on the plinth and never turned. |
-| { *The Crack Widens* [**Debuff**] } | "The glass fractures a little more, and time runs crooked through the gap." | [A new crack distorts time around the target; seconds stretch and collapse.] | *Target loses 10 Resolve; their timing falls apart.* **[10 Weight DMG [Weight]]** | When the target remains near the Hourglass. |
-| { *The Falling Glass* [**Attack**] } | "The weight of all the time you wasted, arriving at once." | [Nothing falls and nothing slams; the sand only leaks. What lands is the worker's own total, grasped whole and involuntarily priced.] | *Inflicts Weight pressure; the injury is arithmetic — they begin totalling their spent time out loud.* **[14-22 Weight DMG [Weight]]** | When somebody tries to seal the crack or turn the glass by force. |
-| { *The Last Grains* [**Attack**] } | "Nearly run out — that is what it makes you sure of, and it is never true: the glass regenerates, and the grains left weigh the most." | [The pressure concentrates around the prediction. The upper bulb has refilled after apparent exhaustion on four recorded occasions; there is no last grain.] | *A heavy Weight blow; the reading jumps 15%.* **[24-36 Weight DMG [Weight]]** | When an observer declares the sand almost gone or tries to predict the final grain. |
-| { *Out of Time* [**Ultimate**] } | "Nothing runs out — that is the point. The rate goes up across the whole vault, the crack gains, and the sand is suddenly in containers it was never collected into." | [The glass empties nowhere; the vault does the expanding — rate, crack and spread, the holding's documented Transform shape, with every person present inside the fifteen-minute arithmetic.] | *Everyone suffers Weight pressure for three turns while the rate holds high.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| Event | What the glass does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The Slipping Sand* [**Register**] } | Slows or quickens the fall with the pressure in the room, and the bearer's estimate of elapsed time stretches to match it. | Timing against the vault clock at every stage, and the crack gauged with the feeler strip before and after the sitting. | No blow is struck. The rate is the hazard, and the file's own indicator is how long people take to cross the vault. |
+| { *The Pricing* [**Exposure**] } | Past about thirty seconds, the bearer begins totalling their own spent time out loud, accurately, and stops being able to estimate intervals to within a factor of two. | Decline rest, report the sensation of being charged for waiting, and come off the cycle at the limit rather than at the end of the task. | The state is characteristic of the vault. Past sixty seconds, five Weight damage every fifteen seconds, and the bearer continues past a recall order. |
+| { *The Refusal* [**Refusal**] } | Cannot be turned, sealed or emptied. The upper bulb has refilled after apparent exhaustion on four recorded occasions, and there is no last grain. | Nobody declares the sand almost gone, and nobody predicts the final grain; the declaration is what concentrates the pressure, not what ends it. | This is the refusal in the record: the glass rises instead of running out, which is why the reading is taken from the crack and not from the bulb. |
+| { *Out of Time* [**Overload**] } | Above 65 per cent the rate rises across the whole vault, the crack gains on the quarter's figure, and sand reaches containers it was never collected into. | Clear the vault by the doors, gauge both, and log the crossing time at each; the limit applies to everyone present, working the cycle or not. | It expands by Transform rather than escaping. Nothing leaves the vault; the vault does the expanding. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification comes first: the glass is recognised by the tick and by the thread running from the crack, while the vault's 2 other glasses sit sealed, warm and silent. The approach is set after that, and the positions taken.
-2. **Clash:** Four turns at the plinth, observation and endurance only. The rate is timed against the vault clock at every turn and the crack is gauged with the feeler strip before and after.
-3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Viderehan and Ferrehan only at the plinth, and nobody stays past the fifteen-minute limit**. The clause is the file's whole practice: the two Work Types are the only ones worked here, and the limit is applied to every person in the vault and entered by name at both doors.
+1. **What is confirmed:** the tick, the thread from the crack, the feeler-strip gauge at both doors, and the check against the vault's two other glasses, which sit sealed, warm and silent. The approach is set afterwards and the positions taken.
+2. **What the watch does:** Viderehan and Ferrehan at the plinth, observation and endurance only; the rate timed against the vault clock and the crack gauged before and after. Every person in the vault is inside the fifteen-minute arithmetic, whatever they are doing in it.
+3. **How it closes:** the close is the file's documented suppression condition: **Viderehan and Ferrehan only at the plinth, and nobody stays past the fifteen-minute limit** — with the limit entered by name at both doors, which is the only record of it that has ever held up on review.
 
 ### Consequences
 
-- The failure here is arithmetic. A worker who cannot hold begins totalling their own spent time out loud, accurately, and the two Fracture risks on this holding both presented that way before anything else.
+- The failure here is arithmetic. A worker who cannot hold begins totalling their own spent time out loud, accurately, and the two Fracture risks on this holding both presented that way before anything else did.
 - Long exposure produces the vault's characteristic state: the worker becomes unable to spend time without pricing it, declines rest, and reports the sensation of being charged for waiting.
-- The Sandglass equipment is paid for in the bearer's own remaining time, in quantities the ledger records and no one has been able to independently verify. The entries are kept anyway and are not redacted.
+- The relic profile is paid for in the bearer's own remaining time, in quantities the ledger records and nobody has been able to verify independently. The entries are kept anyway and are not redacted.
 - Unresolved, it expands by Transform rather than escaping: the rate rises across the vault, the crack gains on the quarter's figure, and the sand reaches containers it was not collected into.
 
 ## Appearance
@@ -149,8 +134,6 @@
 - The rate rises when attention in the room is divided, reliably enough that the vault bars second tasks during a watch.
 - The upper bulb refills after any apparent exhaustion, which has been observed four times and never explained.
 
-
-
 ### Operational Work Notes
 
 The Cracked Hourglass is a Fragment (III) Object of Moderate (β) potency, Object-Weight manifestation, Weight expression, in the Alpha Tree deep vault. Flerehan and Pugnahan are N/A because an object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker a specific person's lost hour in full.
@@ -160,35 +143,23 @@ The Cracked Hourglass is a Fragment (III) Object of Moderate (β) potency, Objec
 
 > **Special activation — no counter.** Filed trigger: *"touch or prolonged observation"*.
 
-
-
-
-
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Touch or prolonged observation.
-
-**Effect:** Briefly slows time in the surrounding area.
-
-**Duration:** Until the sand flow stabilizes.
-
-**Risk:** The user's own lifespan is shortened by each use.
 
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Continuous / channeled use — stationed; the vault is the vessel and nobody carries it out** |
 | **Activation** | Touch or prolonged observation. |
 | **Primary Effect** | Briefly slows time in the surrounding area. |
 | **Duration** | Until the sand flow stabilizes. |
 | **Termination / Return** | Detach under the standard protocol and log the bearer's exposure against their lifetime total. Premature return, or exceeding the threshold, transfers the full Weight load and the ledger entry is made regardless. |
 | **Risk** | The user's own lifespan is shortened by each use. |
 
-**Operational Rule:** The relic works only while worn or carried and cannot replace a scheduled cycle; containment remains Viderehan and Ferrehan. Lifetime bearer exposure is capped by the roster and the cap has never been waived, including for the two occasions on which a waiver was formally requested.
+**Operational Rule:** Nothing here is worn and nothing leaves the vault. The relic is worked at the plinth with the feeler strip at both doors, and the fifteen-minute limit is applied to every person in the room, including those not on the cycle. Lifetime bearer exposure is capped by the roster and the cap has never been waived.
 
 ### Log and Method
 
@@ -276,7 +247,6 @@ The fine sand within the pendant flows upward against gravity whenever the beare
 
 **Slot:** Neck / Choker
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
 
 **Ability:** *Adrenaline Inversion* — Upon taking a critical hit, wielder gains a 1.5-second burst of 100% Evasion and +30% movement speed (cooldown: 60 seconds).
 
@@ -313,8 +283,6 @@ Each Sandglass piece is an extension of the holding rather than equipment. It pe
 
 **Personnel Note:**
 > *"The Keepers said the sand would never run out. That was not comforting. It meant the lesson was not about ending. It was about every grain we choose to waste."* — Researcher Euncris Park, Year 4218
-
-
 
 ### Observation Progression
 
@@ -358,8 +326,6 @@ Clocks in the adjoining corridor disagree with clocks elsewhere in the wing by b
 
 The sand falls in a room that feels too quiet. You watch one grain descend and feel a whole day disappear. The crack is small, but the fear beneath it is enormous. When you look away, time resumes. When you look back, the Hourglass is still leaking, patiently showing you that “later” is not a place anyone can guarantee.
 
-
-
 **At first contact:** The tick first, from the plinth, slower than a pulse and perfectly regular. Then the glass: cold from a pace away, heavy-looking in a way that nothing that size should be, with a thin steady thread of grey running out of the crack.
 
 **With continued exposure:** You begin counting. Workers describe totalling the day's wasted minutes involuntarily and with unusual accuracy, and the seven-day check exists because the counting continues outside the vault.
@@ -373,7 +339,6 @@ The sand falls in a room that feels too quiet. You watch one grain descend and f
 The glass is read beside the other things in the city that keep time or lose it. Every pairing below has been watched and entered, none of them is closed, and all 4 were watched with the vault sealed, which is the only arrangement in which the rate means anything at all.
 
 **Interaction method:** Set each party's baseline on its own across several cycles — rate, crack, gauge — before any joint watch. The first shared change goes in with its range, its duration and what set it off, the gauge on both sides, and whatever stays changed once they are apart. Re-check every cycle.
-
 
 ### Entity Interaction Record
 
@@ -505,8 +470,6 @@ The minute records the objection as **correct in all three parts**. It records t
 
 - The crack is part of the manifestation rather than damage to it, which is why sealing attempts fail without marking the glass.
 - The upper bulb has refilled 4 times, on each occasion shortly after a watch recorded that the holding had been understood.
-
-
 
 ### Registry Trivia
 

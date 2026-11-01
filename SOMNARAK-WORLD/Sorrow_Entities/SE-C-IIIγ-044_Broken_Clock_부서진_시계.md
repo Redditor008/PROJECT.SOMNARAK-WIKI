@@ -45,57 +45,42 @@
 - No breach counter: it expands rather than escapes. The distortion reaches outward from the storage bay along the Alpha Tree root lines, and three expansion events are recorded; nothing has ever left the bay.
 - Extraction runs under its own authorisation and does not alter the movement. The implement goes on keeping its own wrong time throughout, which crews are warned about because the discrepancy does not certify a safe exposure. Keep extraction timing separate from the source’s medical ageing, sequence loss and expansion risks.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Weight pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 739/739 |
-| **Han Pressure [ATK]** | 13–31 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the file's Three-metre clock cannot leave the bay it is bolted into; nothing on the record has ever seen it strike. What it does is keep the wrong hour in a seven-metre field, and what a watch has to survive is working inside that field by a clock kept outside it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Personality obsessed with time |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A three-metre clock of crystallised time in Alpha Tree deep storage, face dark, two hands and the fragments of others. Its distortion field reaches out to seven metres and is bounded on the floor by a chalk line that is drawn before the cycle and not after. |
+| **Perceptible to** | The tick first, which is the identification and which nobody has ever been able to count; then the cold lead-heavy casing gone green, the smell of wet stone, and — inside the line — the sensation of having already done the thing one is about to do. |
+| **Handling** | Not carried and not wound. The field is what travels; the instrument stays where it stands. Winding, forcing the hands, or attempting repair are prohibited rather than discouraged, and the two authorised interventions on file changed nothing. |
+| **Activation threshold** | Proximity, direct contact, or hostile intent. No breach counter; the field is read from the chalk line and the interval from the outside clock. |
+| **Sorrow Gauge [HP]** | 739/739 — the containment meter, read outside the line |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, Alpha Tree deep storage — contained |
-| **Resolution Condition** | Two things must hold at once, and they must hold in order: the gauge has to come in under 25%, and it has to get there on the outside clock rather than on anyone's sense of how long the sitting has run. Ferrehan is the recorded gauge-lowering Work Type; Viderehan provides observation while holding the gauge stable. Neither permits closing a sitting against a reading taken from inside the line. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Every cycle is worked by two people, one inside the radius and one outside it with the watch clock. |
+| **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
+| **Resolution Condition** | Work to the outside clock, keep the ten-minute limit, and never trust your own sense of the interval. The gauge comes in under 25 per cent on the outside clock or the sitting does not close. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Stopped Hand* [**Debuff**] } | "The hand freezes mid-tick — and for a moment, so does everything else." | [The Clock stops time locally; the target is caught mid-motion.] | *Target suffers -10 Resolve in the suspended instant.* **[10 Weight DMG [Weight]]** | When the Clock is consulted. |
-| { *The Wrong Hour* [**Debuff**] } | "The hands spin to an hour that does not exist — and your sense of time breaks with them." | [The Clock deranges time around the target.] | *Target loses 10 Resolve; past and future bleed together.* **[10 Weight DMG [Weight]]** | When the target lingers near the Clock. |
-| { *The Falling Gear* [**Attack**] } | "A gear breaks loose and flies — heavy, jagged, and exactly on time." | [A broken mechanism launches a part at the target.] | *Inflicts Weight pressure and one grinding wound.* **[14-22 Weight DMG [Weight]]** | When the Clock is struck. |
-| { *The Midnight Strike* [**Attack**] } | "It strikes an hour it has no claim on, and that hour is the worst of them." | [An hour that cannot exist comes off the bell, and the wrongness lands like a blow.] | *A heavy Black toll; the reading jumps 15%.* **[24-36 Weight DMG [Weight]]** | When the Clock is wound or pushed. |
-| { *Time Broken* [**Ultimate**] } | "Every clock stops at once, and time itself will not go forward." | [Time comes apart across the field and every hour in it is the wrong one.] | *Everyone takes Weight pressure for three turns of stopped time.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| Event | What the Clock does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The Wrong Hour* [**Register**] } | Moves its hands to a reading nobody set, and the bearer's own interval estimate is out by minutes inside the first minute. | Reading aloud each call from the outside clock, and acknowledging it; an unacknowledged reading ends the cycle at once, whatever else is in progress. | Nothing is aimed. The clock keeps no hour, and no two consecutive sessions in the record have ended on the same face. |
+| { *The Loop* [**Exposure**] } | Past about thirty seconds, the loop years present as recent: the duplicated notices, the twice-heard proceedings, the sense of having already done the thing. | The bearer repeats instructions back twice and does not notice; the second person logs it, because the bearer cannot. | The hazard is sequence, not force. Workers describe the shift accurately in the wrong order for hours afterwards. |
+| { *The Refusal* [**Refusal**] } | Will not be set, stopped or repaired. The hands settle where they settle and the two authorised interventions changed no reading at all. | The cycle is closed on the outside clock rather than on the face, always; no reading is ever taken from inside the line. | This is the refusal in the record. The attempt to repair it is prohibited because the attempt has already been made twice and the record is what is left of it. |
+| { *The Desynchronisation* [**Overload**] } | Above 75 per cent, the distortion reaches outward from the storage bay along the Alpha Tree root lines; three expansion events are recorded. | Personnel are withdrawn by the outside clock, not by anyone's estimate, and the new line is chalked before the bay is entered again. | It expands by Transform rather than escaping. Nothing has ever left the bay; what leaves is the radius. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The Clock is confirmed by the tick nobody can count and by the chalk mark on the floor. The bay holds 2 other clocks, both keeping honest time, and the watch reads them as its check. Positions are taken, and the withdrawal agreed, before the cycle opens.
-2. **Clash:** Four turns, timed by the outside clock and never by anyone inside the line. The inside worker acknowledges each reading aloud; an unacknowledged reading ends the cycle at once, whatever else is in progress.
-3. **Resolution:** The watch closes on the standard quotas, or against the documented suppression condition: **Work to the outside clock, keep the ten-minute limit, and never trust your own sense of the interval**. The clause is the whole of the discipline here: the party works in pairs, the outside clock is read aloud, and nobody's estimate goes on the sheet.
+1. **What is confirmed:** the tick nobody can count, the chalk mark on the floor, and the check against the two other clocks in the bay, both of which keep honest time. Positions and the withdrawal route are agreed before the line is crossed.
+2. **What the watch does:** Viderehan and Ferrehan, one inside the line and one outside it with the watch clock; every reading called aloud and acknowledged. The bearer's own ageing is measured against their service record at the end of the cycle, because the discrepancy shows in the joints and the teeth before it shows anywhere else.
+3. **How it closes:** the close is the file's documented suppression condition: **Work to the outside clock, keep the ten-minute limit, and never trust your own sense of the interval** — with the outside duration and the bearer's estimate entered side by side in the ledger, where the two have never once matched.
 
 ### Consequences
 
 - The failure mode is desynchronisation. A worker who cannot hold loses the order of what they have done, not the content, and will describe the shift accurately in the wrong sequence for hours afterwards.
 - Long exposure produces the bay's characteristic injury: the worker ages at a rate their records do not show, and the discrepancy is measurable in the joints and the teeth before it is measurable anywhere else.
-- The Escapement equipment lends the wearer the field and takes elapsed time from them directly. Every ledger entry records the outside duration and the wearer's estimate, and the two have never matched.
+- The relic profile's own toll is heaviest here, because the clock lends the field and takes elapsed time directly. Every entry records the outside duration and the wearer's estimate, and the two have never matched.
 - Unresolved, it expands by Transform rather than escaping: the radius grows along the root lines, and personnel in the enlarged field are in it before anybody has marked a new line on the floor.
 
 ## Appearance
@@ -149,8 +134,6 @@
 - Personnel age by the inside interval and are credited with the outside one, which is the subject of the last section of the Warden Record.
 - It cannot be moved from the instant that formed it, which is a statement about time rather than about mass and has twice been tested as such.
 
-
-
 ### Operational Work Notes
 
 Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight manifestation, Weight expression, in Alpha Tree deep storage. Flerehan and Pugnahan are N/A as Work Types. Physical striking, winding or pushing can still provoke the recorded mechanical responses; that does not make confrontation a valid Work Type. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker spends an unknown quantity of their own life inside the line.
@@ -160,35 +143,23 @@ Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight man
 
 > **Special activation — no counter.** Filed trigger: *"proximity, direct contact, or hostile intent"*.
 
-
-
-
-
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**
-
-**Activation Trigger:** Proximity, direct contact, or hostile intent.
-
-**Effect:** The clock's distortion field expands to seven meters; perception and biological time may desynchronize.
-
-**Duration:** Until the worker leaves the field or the Clock settles.
-
-**Risk:** Rapid aging, disorientation, and loss of temporal sequence.
 
 ### Tool Use Profile — I-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
+| **Use Mode** | **Continuous / channeled use — the field is carried by the bearer; the instrument never leaves the bay** |
 | **Activation** | Proximity, direct contact, or hostile intent. |
 | **Primary Effect** | The clock's distortion field expands to seven meters; perception and biological time may desynchronize. |
 | **Duration** | Until the worker leaves the field or the Clock settles. |
 | **Termination / Return** | Detach under the standard protocol, outside the line, with the outside clock read aloud at the moment of detachment. Premature return, or exceeding the threshold, transfers the full Weight load and the exposure is entered at the inside estimate. |
 | **Risk** | Rapid aging, disorientation, and loss of temporal sequence. |
 
-**Operational Rule:** The relic works only while worn or carried and cannot replace a scheduled cycle; containment remains Viderehan and Ferrehan. No bearer works this holding without a second person outside the line, and the requirement has never been waived.
+**Operational Rule:** Nothing here is worn and nothing here is carried out of the bay. The relic works while a worker stands inside the field and stops when they step outside it; the outside clock is read aloud at every detachment, and no bearer works this holding without a second person outside the line. The requirement has never been waived.
 
 ### Log and Method
 
@@ -277,7 +248,6 @@ The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exa
 
 **Slot:** Head / Temple
 **Acquisition Probability:** 4%
-**Effect:** +2 stat bonus when working the source entity
 
 **Ability:** *Subjective Dialing* — Expands the bearer's perceptual reaction window, granting +5% critical evasion and immunity to stagger from minor temporal slows.
 
@@ -314,8 +284,6 @@ Every Escapement piece is the holding's condition carried in metal rather than o
 
 **Personnel Note:**
 > *"Four minutes passed on my watch. My joints told me I had spent three hours there. I do not know which measurement was real."* — Researcher Euncris Park, Alpha Tree storage
-
-
 
 ### Observation Progression
 
@@ -359,8 +327,6 @@ The archive cross-references this entity with its registered location — the so
 
 Time stretches inside your bones. Your heartbeat races while your body seems still. The Clock's hands spin, reverse, and hesitate. Your watch gives one answer; the sky gives another. You are not lost in a room but in the question of when you are standing. The Clock ticks, tocks, and does neither.
 
-
-
 **At first contact:** The tick, which is audible from the bay door and cannot be counted. Then three metres of corroded casing with a dark face, and hands that are not all going the same way.
 
 **With continued exposure:** Your own sense of the interval detaches quietly and without any sensation of detaching. Workers describe the shift afterwards in the wrong order and with complete confidence, which is why the second person exists.
@@ -374,7 +340,6 @@ Time stretches inside your bones. Your heartbeat races while your body seems sti
 The Clock is read next to the other holdings that hold an hour or shed one, and the pairings listed below are what the archive has actually sat still for. None of them is settled. All 5 were watched from outside the line, and that is not a preference: the interval is the thing the Clock alters, so an instrument reading inside the line cannot time the sitting. Keep such readings and the worker’s estimate as attributed exposure evidence, never as the outside duration.
 
 **Interaction method:** Each party is measured on its own first, across several cycles, on its own figures — the face series, the length of the stops, the boundary, the gauge. Only then are the two watched together. When something shifts in both, the entry carries the range, how long it held, what started it, the gauge on each side, and what is still different once they are apart. Every cycle starts from a fresh baseline; nothing is carried over from the sitting before it.
-
 
 ### Entity Interaction Record
 
@@ -505,8 +470,6 @@ The minute records the objection as **correct in all three parts**. It records t
 
 - Its origin is the loop of 4222–4223, which is the best-documented period in the district's record precisely because so much of it was filed twice.
 - It has never escaped, being anchored to the instant that made it, though it has expanded three times; escape and expansion are different events and this file distinguishes them throughout.
-
-
 
 ### Registry Trivia
 
