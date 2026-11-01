@@ -67,7 +67,7 @@
 | Field | Value |
 |---|---|
 | **Battle Length** | Medium, at full duration — 16 turns, timed from first contact with the stone. |
-| **Threat Role** | Sovereign encounter |
+| **Threat Role** | Major encounter |
 | **Coherence** | Fragment (III) |
 | **Primary Pressure** | Composure |
 | **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened with the stone still on its plinth. |
