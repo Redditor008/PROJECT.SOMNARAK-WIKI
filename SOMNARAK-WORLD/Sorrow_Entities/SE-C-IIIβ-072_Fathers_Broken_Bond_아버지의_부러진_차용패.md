@@ -44,50 +44,36 @@
 - Single-use A-Relics are designed to be deployed during catastrophic squad crises; their activation is irreversible.
 - The integrated M.A.W. specifications do not authorize extraction from spent shards. The discharge record calls that residue inert and forbids extracting it again; no repeat harvest or restoration route is established here.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — stationary artifact |
-| **Resistance** | 35% against Weight pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 520/520 |
-| **Han Pressure [ATK]** | 12–24 per hit · Weight |
-| **Coherence modifier** | III — dense economic burden |
-| **Potency modifier** | β — massive burden release |
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own operational rule says a single-use relic is spent rather than stored. There is no range, no aim and no pursuit anywhere on the record: the Bond is lifted onto a balance, weighed, and once in the record's history snapped in two, and what it does then is a discharge rather than a blow.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 14 turns |
-| **Threat Role** | Gauge Purge Consumable / Indenture Breaker |
-| **Coherence** | Fragment (III) — Snapped indenture |
-| **Primary Pressure** | Han / burden pressure |
+| **Mode of presence** | A palm-sized octagonal tally-tablet of tarnished brass on the containment plinth in SECTOR-C-03, stamped with the Debt Concourse seal and pitted by sulfuric burns, forty tally-notches around the rim and a pre-scored seam down the centre. It is not weighed for curiosity. |
+| **Perceptible to** | The clatter of loose silver when the plinth is jostled, heard only by handlers who have debt of their own; then a weight that is not the weight of the brass, and the acid smell that pitted it. |
+| **Handling** | Lifted only onto the balance, with bare calloused hands, by a handler whose financial record is clean — outstanding municipal debt triples its mass within ten seconds, and that is the spinal injury on the record. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
+| **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
+| **Sorrow Gauge [HP]** | 520/520 — the containment meter, read at the plinth |
 | **Starting Sorrow Gauge** | 35–55% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Sector C Indenture Office / Concourse Sump |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the seal against the vault sheet; Ferrehan weighs it and holds it. A handler with an active corporate debt does not touch it bare-handed. |
+| **Location** | SECTOR-C-03, Collector's Vault — contained |
 | **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties; this is not a legal cancellation of every municipal loan |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| {{ *Lead Sinking* [**Debuff**] }} | "The token's weight suddenly doubles, cracking the wooden desk beneath it." | [Observers feel an invisible anvil pressing down on their shoulders.] | *Target loses 8 Resolve.* | When moved without pneumatic tongs. |
-| {{ *Indenture Clank* [**Debuff**] }} | "The faint sound of counting coins and iron chains rattles from the brass." | [Old debts and missed payments echo in the operator's conscience.] | *Target takes 10 Weight damage.* | When handled by an indebted operative. |
-| {{ *Tally Stain* [**Attack**] }} | "A dark grease of liquidated interest leaks from the center score line." | [The grease stains uniforms with indelible black marks.] | *Target suffers -10% Movement Speed.* | When examined closely. |
-| {{ *Collector's Gavel* [**Attack**] }} | "A dull, concussive thud resonates through the operator's skull." | [The sound of a gavel declaring total liquidation.] | *Inflicts 14 Weight damage across Range Band 1.* | When dropped or struck. |
-| {{ *Foreclosure Implosion* [**Ultimate**] }} | "Gravitational force pulls loose paper and dust toward the octagonal core." | [The token threatens to collapse the plinth through the floor.] | *All personnel in room suffer 18 Weight damage.* | When Sorrow Gauge reaches 60%. |
+| Event | What the Bond does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The Seal* [**Register**] } | It registers the handler before it is lifted: forty tally-notches, the indenture seal, and the acid pitting, all read against the vault sheet. | Viderehan checks the seal and the notch count against the sheet, and the weight is taken on the balance rather than in the hand. | A tally that does not match the sheet is the only thing on this file that stops a watch, and the seal is the first reading of every cycle. |
+| { *The Weight* [**Exposure**] } | Outstanding municipal debt triples its mass within ten seconds of a handler picking it up, and the handler's arms take the difference. | Ferrehan checks the handler's financial record before the lift and nothing else is held during it. | The spinal injury on the file is the exposure, and it happens before the object has done anything at all. |
+| { *The Sink* [**Refusal**] } | Unvented, the tablet sinks into the plinth under its own accumulating burden and takes the support foundations with it; it cannot be read, soothed or set down part-way. | The plinth is inspected after every watch and the foundations surveyed annually; nothing is propped under it, and once it has begun to sink nobody lifts it. | The refusal is gravity. There is no version of this record in which the object answers anything but the weight it carries. |
+| { *The Snap* [**Overload**] } | Once, and only once, the tablet is snapped along its pre-scored seam; the stored burden goes off as a Weight discharge across the room and the brass shatters into scrap. | Authorised only in a Level 3 crisis with the squad's gauge in the red. The handler snaps it with both hands and the discharge is entered against the squad rather than against the object. | A spent Bond is scrap, the process cannot be halted or refunded, and the wing has never held two. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The single-use A-Relic construct is identified, the seal checked against the vault sheet, and need judged coldly before anything is lifted. Nothing in SECTOR-C-03 is moved to find out what it weighs.
-2. **Clash:** Viderehan and Ferrehan are worked to take up ambient Han-Energy while the sector's stability is watched.
-3. **Resolution:** The watch closes on the standard quotas, or the Relic is spent on purpose to answer an existential breach of the facility — and the file registers a suppression condition: **Check the operator's debt record, keep both hands bare, and snap the seam only to lift a burden that will not wait**. The vault staff hold to that clause exactly: the seam is broken once, deliberately, with hands that can feel what they are taking, and the reading is entered afterwards.
+1. **What is confirmed:** the seal and the forty notches against the vault sheet, the balance, and the handler's own financial record, all checked before the tablet is lifted.
+2. **What the watch does:** Viderehan reads the seal and Ferrehan weighs it. The tablet goes onto the balance and back, never carried, and the snap is not considered until the gauge is in the red and the authorisation is written down.
+3. **How it closes:** the close is the file's documented condition: **The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties; this is not a legal cancellation of every municipal loan** — and the discharge is entered against the squad, never against the object.
 
 ### Consequences
 

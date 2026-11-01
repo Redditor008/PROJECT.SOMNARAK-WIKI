@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five more relics whose own rows already said they do not fight (2026-11-01)
+
+The next batch off the relic queue is the one where the file argues with itself: a movement row that says the object is fixed, and a `## Combat Record` underneath it carrying an attack band and a battle length. All five of these are spent or held rather than aimed, and each was converted on the record's own evidence rather than on how it looks.
+
+- **Father's Broken Bond** (`C-IIIβ-072`) — *stationary — a discrete object*; a tally-tablet that is lifted onto a balance and, once in its history, snapped in two. The record already says the spinal injury happens on the lift, before the object has done anything at all.
+- **Crucible** (`C-IIIβ-275`) — *fixed place — the hearth and working volume stay in situ*, and unattended metal shaping is activity inside that volume rather than locomotion. What it does is work on what is left in it while somebody in the room is angry about something they have not said.
+- **Redcage** (`C-IIIγ-120`) — *stationary — the frame has never moved from its marks*; the file says the cage has no inside anybody has ever been in. It enlarges outward against cut floor marks instead of travelling.
+- **Spreading Well** (`C-IIIγ-373`) — *stationary rim; the channels extend and have never withdrawn from ground reached*. Nothing is aimed: the hazard is a worker following a channel outward without noticing the distance.
+- **Broken Mirror** (`C-IIα-081`) — *stationary — a device*, keeping a shard count rather than a body. 211 sessions, 41 authorised viewings, and a count that has never changed; the failure is looking back a second time.
+
+**What each record now says instead.** A reason line drawn from the movement row or the record's own denial; the single `| Field | Value |` table with Mode of presence, Perceptible to, Handling, Activation threshold, the Sorrow Gauge in band, Starting Sorrow Gauge, Valid Work Types, Location and Resolution Condition, and no Speed, Han Pressure, Battle Length or Threat Role; `### Contact Events` drawn from the register, the exposure, the refusal and the overload the file already keeps; a three-movement `### Watch Sequence` closing on the file's documented condition; `### Consequences` untouched.
+
+**Two things the conversion had to settle.** The Crucible's activation needs both conditions at once — material in the working volume *and* somebody in the room carrying an unstated grievance — so the field table states the pair rather than a single trigger. The Spreading Well's unresolved state is not a flood but six unmatched reports of grief arriving in the worker nearest a branch; the file keeps the number of unmatched reports, not a count of possessions, and the Contact Record says so rather than inventing a possession count.
+
+**Side codices.** Two of the five have one, and each `Gauge / Pressure` row lost its per-hit band: *435/435; starts 35–50% / Grudge — no attack pattern; the fixed-point floor temperature is the reading*, and *561/561; starts 45–65% / Lament — no attack pattern; the stake line and the branch count are the reading*.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `wikistd` R-29 301/301 and R-27 section-clean 301 · `label_lint` 0 · `check_stat_bands` PASS · `breach.py` unchanged. **Ten converted, forty-seven relic `Combat Record`s still to read.**
+
 ## Five relics that were carrying a fight they do not have (2026-11-01)
 
 The relic queue starts with the objects whose own rows had already written the refusal. Each of these five is fixed in place, has never struck, and has no range or pursuit anywhere on its record; each was nonetheless filed with a `## Combat Record`, a `Han Pressure [ATK]` band, a battle length and a five-row table whose categories included `[**Attack**]` and `[**Ultimate**]`.

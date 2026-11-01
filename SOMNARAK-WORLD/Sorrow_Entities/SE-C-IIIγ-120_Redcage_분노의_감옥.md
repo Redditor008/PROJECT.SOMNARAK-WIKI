@@ -45,51 +45,36 @@
 - Grudge expression reaches the operative through the metal; gloves are mandatory and are replaced after each session.
 - Extraction is separate from work and never issued as a reward for a clean shift.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | Reads 35% against Grudge pressure and 25% against everything else; the bars take nothing themselves, and both figures are taken off the wave the Cage throws when a case is argued in front of it. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 — counted twice from the gap photographs at each watch, and it does not fall while the case is still being argued. |
-| **Han Pressure [ATK]** | 18–41 per hit · Grudge — the low end belongs to a worker the reasoning has not reached yet, the high end to one whose case has got good. |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — the frame has never moved from its marks*, and that it does not travel but enlarges outward against those marks. Nothing here strikes: the cage makes an injustice felt as confinement, and the record's harm is fury and the conviction of being held, both of which are taken by standing near it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns; no activation on record has ended on distance, force or time. |
-| **Threat Role** | Major encounter — the encounter is with the case the worker brings in, and the Cage only supplies the bars to argue it against. |
-| **Coherence** | Fragment (III) — Furious and trapped |
-| **Primary Pressure** | Resilience — tested against whether the worker can stand near rage without feeding it the argument it wants. |
-| **Starting Sorrow Gauge** | 45–65% — the low end belongs to watches where nobody has brought a grievance of their own into the hall. |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-01, Zone B — the hall around the enclosure; the instruction not to reach for the bars is given at its threshold. |
+| **Mode of presence** | An empty cage of vertical bars at SECTOR-B-01 — dark crimson, ridged, fused in places with calcified sinew and clenched-finger bone, pulsing together in a slow rhythm. The frame has never moved from its floor marks, and the marks are cut rather than chalked, so they are never moved back. |
+| **Perceptible to** | The pulse first, which the ward hears before anybody tells it what it is; then the warmth of the bars and the smell of a room that has been shut for a long time. The reading is the gap photographs. |
+| **Handling** | Not entered and not opened. The bars are not touched and nothing is reached through them; the gap photographs are taken from the same mark at every watch, and the count is made twice. |
+| **Activation threshold** | Touching the cage or attempting to open it — no breach counter. |
+| **Sorrow Gauge [HP]** | 653/653 — counted twice from the gap photographs at each watch |
+| **Starting Sorrow Gauge** | 45–65% |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the particular injustice that formed each bar and moves the gauge not at all; Ferrehan, standing near sustained rage without feeding it, is the only Work Type that lowers it. |
+| **Location** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | the injustice is read aloud — named, by somebody with no part in it — and the Sorrow Gauge falls below 25%. Nothing is reached through the bars. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Closed Door* [**Debuff**] } | "The bars fall into place — and you understand, slowly, that you are inside." | [The Cage seals around the target; the contained fury presses in.] | *Target suffers -10 Resilience; the cage has closed.* **[10 Grudge DMG [Grudge]]** | When the target enters the Cage. |
-| { *The Confined Fury* [**Debuff**] } | "The rage inside the bars has nowhere to go but through you." | [The Cage's trapped anger radiates; the target basks in stifled wrath.] | *Target loses 10 Resilience; the pressure of caged fury builds.* **[10 Grudge DMG [Grudge]]** | When the target remains caged. |
-| { *The Barred Wall* [**Attack**] } | "The bars themselves strike — the cage does not like being touched." | [The Cage's bars lash outward, punishing the confined.] | *Inflicts Grudge pressure and one bruising wound.* **[14-22 Grudge DMG [Grudge]]** | When the Cage is shaken. |
-| { *The Breaking Out* [**Attack**] } | "Something inside the cage breaks free — and it is furious at having been held." | [The contained rage erupts outward in a blast of released fury.] | *A heavy Crimson detonation; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Cage is struck or overloaded. |
-| { *The Prison Falls* [**Ultimate**] } | "The cage collapses inward — and the bars become the weapon." | [The Cage implodes, dragging everyone into its fury.] | *All personnel suffer Grudge pressure for three turns as the prison falls.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the cage does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Gap* [**Register**] } | It registers as a gap between bars and a pulse in the frame; the bar that formed from a particular injustice is the bar Viderehan opens. | The gap photographs are taken from the same mark as last time and the count is made twice, because a single count has been wrong on this holding before. | The gap count is the register, and the reading is taken from outside the marks rather than from the bars. |
+| { *The Tally* [**Exposure**] } | A worker who holds against it becomes furious, and the fury is coherent rather than wild: it attaches to a real grievance the worker already had, argues it well, and does not feel contaminated from the inside. | The watch is capped and rotated; anybody leaving it is asked about a grievance they already had rather than about the cage. | The long exposure is specific — the worker becomes convinced they are confined, in open ground, and it presents as grievance rather than fear. |
+| { *The Bars* [**Refusal**] } | Nothing is reached through them. The cage does not open, does not answer, and does not take anything that is offered to it. | Nothing is put through the bars and no attempt is made to open the door; the door is not the containment and the file says so. | The refusal is structural: the cage has no inside that anybody has ever been in, and the record keeps that as a finding rather than a gap. |
+| { *The Enlargement* [**Overload**] } | Above the cap the frame enlarges outward against the cut floor marks, and the ground it takes stays taken. | The marks are re-photographed and never reset; the watch withdraws on the enlargement rather than on the gauge, and the ward is told before the new line is cut. | The cage does not travel and does not chase: what moves is the frame's edge, and it has never been moved back. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first — Redcage is recognised by the absence of a door and by the dated marks cut into the floor around it; never by size, which is different from the last time anybody looked — then the approach is set and the positions are taken.
-2. **Clash:** Twelve turns, Viderehan and Ferrehan only, worked from outside the bars with gloves on. Nobody reaches between the bars, nobody attempts to open what has no door, and nobody argues with it — the gauge rises on resistance of any kind, including verbal.
-3. **Resolution:** Containment, management, retreat, or the documented condition: **the injustice is acknowledged aloud, in specific terms, by someone who had no part in it, and the gauge falls below 25%**.
+1. **What is confirmed:** the cut floor marks against last watch's photographs, the gap count taken twice, and the particular injustice that formed the bar Viderehan means to open.
+2. **What the watch does:** Viderehan opens the bar's injustice from outside the marks and Ferrehan stands near the rage without feeding it. Nobody touches the cage, nothing is passed through the bars, and the session is capped on the watch clock.
+3. **How it closes:** the close is the file's documented suppression condition: **the injustice is read aloud — named, by somebody with no part in it — and the Sorrow Gauge falls below 25%** — and nothing is reached through the bars at any point in the cycle.
 
 ### Consequences
 

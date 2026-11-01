@@ -45,51 +45,36 @@
 - There is no breach counter. The affected radius grows inside the Archive and its edge is remeasured from the case at every session; it has reached the second stack twice.
 - Extraction draws on residue at the corroded frame rather than on the glass, is separately authorised, and is not treated as routine recovery.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 20% against Void. The glass is already broken and cannot be broken further; the pieces have been counted at 188 since the first survey and have never gained or lost one. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 226/226 |
-| **Han Pressure [ATK]** | 3–10 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the record keeps a shard count rather than a body: 211 sessions and a count that has never changed. Nothing here strikes and nothing is aimed; what the mirror does is return a memory the viewer has suppressed, and the failure on the file is looking back at it a second time.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Echo (II) — Repeats showing reflections |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A cracked mirror of dark Han-crystal in a corroded frame at SECTOR-A-01, its surface shattered into facets that return not the present but a memory. It is mounted, the shard count is checked at every session, and the painted line on the floor is the only place the watch stands. |
+| **Perceptible to** | The memory first, which arrives as a place rather than as a reflection; then the cold of the facets and the dust the Archive has never got out of the frame. |
+| **Handling** | Not touched, not covered and not turned. One authorised viewing per session from the painted line, the shard count before and after, and the viewing logged against the Keepers' erasure register. |
+| **Activation threshold** | Direct gaze or physical contact — no breach counter. |
+| **Sorrow Gauge [HP]** | 226/226 — the containment meter, read at the painted line |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, Alpha Tree Archive — contained |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan holds the viewing to the painted line; Ferrehan checks the shard count and closes the session. |
+| **Location** | SECTOR-A-01, Alpha Tree Archive — contained |
 | **Resolution Condition** | The session closes with either one authorised viewing logged or none, and the shard count checked. 211 sessions, 41 authorised viewings, and a count that has never changed. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Crack* [**Debuff**] } | "A crack goes across your reflection and you feel where it went." | [The first fracture appears in the viewer's own image.] | *Void pressure; the viewer afterwards describes a specific thing about themselves as having been divided, and 188 of 211 have used the word *before*.* **[Void DMG [Void]]** | Within the first seconds of any viewing. |
-| { *The Fragmented Self* [**Debuff**] } | "There are a hundred of you in the glass and each one is a different year." | [The reflection separates into fragments, each showing a different period of the viewer's life.] | *Void pressure; viewers can name the year of each fragment and the Archive has checked eleven of those against service records and found them right.* **[Void DMG [Void]]** | Past about forty seconds of a viewing. |
-| { *The Flying Glass* [**Attack**] } | "A shard breaks free — and where it cuts, a piece of you goes with it." | [A mirror-shard flies, carrying away part of the target's identity.] | *Inflicts Void damage; a fragment of self is severed.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Mirror is struck. |
-| { *The Hundred Selves* [**Attack**] } | "Every shard holds a different you and none of them agrees with the others about what happened." | [The fragments argue; the viewer receives all accounts at once.] | *Heavy Void damage. Four occurrences, all four in viewings that ran past two minutes, and in each the viewer's own account of a past event changed afterwards and did not change back.* **[Void DMG [Void]]** | When a viewing is not ended at the two-minute call. |
-| { *The Shatter* [**Ultimate**] } | "Every reflective surface in the Archive divides at once and nobody in the building has one face." | [The fragmentation propagates to all reflective surfaces in the wing.] | *Void erosion to everybody in the Archive for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,232 verification exercise. |
+| Event | What the mirror does | What the viewer carries out | Reading |
+|---|---|---|---|
+| { *The Facet* [**Register**] } | It returns a memory the viewer has suppressed, as a place they can see into, and never the present room. | The viewing is held at the painted line, one authorised viewing per session, and the memory is written down rather than discussed while the glass is uncovered. | The register is the authorised-viewing count against the Keepers' erasure register; 41 viewings in nine years is the whole of it. |
+| { *The Second Look* [**Exposure**] } | The worker glances back to check a detail of what they saw, and the second look is the one every incident report turns on. | One look per session and no return to the line afterwards; the second warden counts the looks aloud. | Long exposure produces the holding's signature state: a memory the worker cannot place in their own life and cannot stop placing. |
+| { *The Count* [**Refusal**] } | It offers nothing back. The surface shows a memory and never an answer, and the shard count has not changed in 211 sessions. | Nothing is removed from the frame and nothing is pressed to it; the count is taken before the session and after it. | A count that has never changed is the refusal in the record's own numbers, and it is checked every time. |
+| { *The Widening* [**Overload**] } | Unresolved, it transforms rather than escapes: the radius widens into the stacks and the sealed vaults nearest the case begin to register at the door. | The stacks are walked after a widening, the painted line is moved only on the Warden's order, and no session is run while the vaults are registering. | Nothing leaves the frame. What widens is the range at which the Archive's own vaults answer the glass. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The glass is angled away from the room, the painted line is confirmed, and the session's viewing authorisation — one or none — is read aloud before anybody approaches. A session with no authorisation is the normal case.
-2. **Clash:** Four turns, worked from the painted line with the case open and the glass angled away from the floor. Nobody faces it who has not been authorised by name for that session.
-3. **Resolution:** The shard count is checked and the session is closed. Where a viewing was authorised, the viewer's account is taken immediately and sealed; the Archive holds 41 such accounts and has read none of them against each other.
+1. **What is confirmed:** the painted line, the shard count, and the authorisation against the Keepers' register, all taken before the glass is looked at.
+2. **What the watch does:** Viderehan holds the viewing at the line and Ferrehan counts the looks and the shards. The memory is written down afterwards, outside the room, and the glass is never covered or turned to see what it does.
+3. **How it closes:** the close is the file's documented suppression condition: **The session closes with either one authorised viewing logged or none, and the shard count checked** — 211 sessions, 41 authorised viewings, and a count that has never changed.
 
 ### Consequences
 

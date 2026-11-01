@@ -45,51 +45,36 @@
 - No breach counter: it does not leave its bed. It arrives somewhere by running there along the ground, and the stake lines are reset and dated at every session rather than merely inspected.
 - Rim residue is the extraction source under separate authorisation. The sluice function is a different matter entirely and is governed by the safety case described in the Warden Record.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Lament pressure; 25% against other pressure types as formal ratings — untested here, since the Well injures nobody and has never been hostile to anything. Working protection is the stake line: channels read from the line and never stepped in, every new end traced and acknowledged, and sluice runs held by an operator who closes gate first and conduit second. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 561/561 |
-| **Han Pressure [ATK]** | 18–42 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary rim; the channels extend and have never withdrawn from ground reached*. Nothing here is aimed and nothing is pursued: the water goes where the ground takes it, and the hazard on the record is a worker following a channel outward without noticing the distance.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A fixed stone rim in the Desolate near the Scar, its water never where it is put: thin branching channels of blue sorrow creeping away from a mouth that does not move. The stone is damp and salt-white, and the stake line is re-set at every survey. |
+| **Perceptible to** | The water first, then the cold coming off it, and then the branches, which are the reading and are staked and measured rather than followed. |
+| **Handling** | Not dammed and not bailed. The stake line is walked and renewed, the channels are never cut, and no worker follows a branch past the perimeter. |
+| **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
+| **Sorrow Gauge [HP]** | 561/561 — the containment meter, read at the stake line |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate, near The Scar |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker whose house a channel ends at; Ferrehan holds the stake line. A stable gauge is not a safe cycle here. |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Acknowledge each linked site; do not dam the channels |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Seep* [**Debuff**] } | "Water seeps from the well — not from the top, but through the stones, through the earth, spreading outward." | [Standing over a live channel, the worker receives the grief it is carrying: specific, complete, and attached to nobody they know.] | *The worker suffers -10 Clarity. Read the channel from the stake line — grief, site left, end it is running toward — and never step into it.* **[10 Lament DMG [Lament]]** | When a worker stands over a live channel to read it under Viderehan. |
-| { *The Rising Pool* [**Debuff**] } | "The water is no deeper. It is a line in the dust, and you have begun walking along it without deciding to." | [Nothing pools or rises; the depth at the rim has not changed in eleven years. What rises is the pull to follow a grief to its destination on foot.] | *The worker loses 10 Clarity. The second worker takes their arm — following stops when somebody does — and the seven-day check watches for unexplained walking.* **[10 Lament DMG [Lament]]** | When a worker lingers over a channel past the reading without relief. |
-| { *The Geyser* [**Attack**] } | "Nothing erupts. By morning the channel is flowing through a street it had never visited, and the dam is a monument to the attempt." | [The Well has never been hostile and does not retaliate. A dammed or diverted channel simply reappears beyond the work within a day, as both filed attempts ended.] | *Heavy Lament pressure on Clarity for the crew, and a new unacknowledged end to trace. Stop the work, re-stake outward only, and notify the district reached before the watch closes.* **[14-22 Lament DMG [Lament]]** | When a channel is dammed, diverted or stepped into. |
-| { *The Full Disgorgement* [**Attack**] } | “The well empties in one rush — every drop it has ever carried, and every end it was carrying them to.” | [The Well does not empty. What empties is a mishandled sluice: released out of order or abandoned, it vents uncontained resonance across the sector and posts an unlogged discharge to the network's far ends.] | *A heavy Lament vent: foundation saturation and caustic blue leakage locally, arrivals at occupied ends within days. Close gate first, conduit second, then close the discharge record before the operator stands down.* **[24-36 Lament DMG [Lament]]** | When a sluice run is released out of order, abandoned, or allowed to overload. |
-| { *The Sorrow Sea* [**Ultimate**] } | “The channels stop delivering and start arriving — all of them, everywhere at once.” | [Every channel sounds at once along the whole stake line — the only time the network reads as one thing — and unacknowledged mourning arrives at every end together.] | *All in range take Lament pressure on Clarity for three turns. Acknowledge each linked site, trace and name every new end, and notify every district reached; do not dam the channels.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold while new ends stand unacknowledged. |
+| Event | What the Well does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Branch* [**Register**] } | It puts out a new branch of blue water across ground the stake line did not hold, and the branch is the register. | The stake line is walked at the start of every survey, the new ground is measured against the last survey, and the branch is never cut to see where it goes. | The branches are counted and staked; a stable gauge with a new branch on the ground is the reading the file treats as a bad cycle. |
+| { *The Walk* [**Exposure**] } | A worker who cannot hold begins following a channel — outward, past the stake line, past the perimeter, without urgency and without noticing the distance. | Somebody takes their arm, and the watch enters the distance walked rather than the distance the channel runs. | The walk stops when a person is touched, which is the only intervention on this file that has ever worked. |
+| { *The Refusal* [**Refusal**] } | It has never withdrawn from ground reached. The water is not bailed, not dammed and not turned, and the rim does not move. | Nothing is lifted out of the channels and nothing is built across them; the site is acknowledged and left where it is. | The refusal is the ground: what the Well takes it keeps, and the record has no case of a channel retreating. |
+| { *The Linked Site* [**Overload**] } | Past the cap a channel ends at a building, and the building's grief arrives in the worker standing nearest the branch — six such reports are held and none has been matched to a person. | The site is acknowledged on the record, the branch is staked, and no attempt is made to identify the grief or to find its owner. | Six reports, none matched: the file keeps the number of unmatched reports rather than a count of possessions, because that is what the Well produces. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Confirm on the water and the ground rather than on the smell: a thin channel crossing dry dust, running uphill along the Han current instead of down the gradient, carrying no reflection, with the sound beneath it audible when nobody is trying to hear it. Desolate groundwater has a reflection, runs downhill and is silent. Re-stake the line, sound the rim, and list the ends reached since the last session before anything else is done.
-2. **Clash:** Four turns on the stake line, observation and endurance only. No channel is dammed, diverted or stepped in, and the ends reached since the last session are listed before anything else is done.
-3. **Resolution:** The watch closes on the file's own condition — **Acknowledge each linked site; do not dam the channels** — which means the line is re-staked outward only, every new end is traced and named, the district it lies in is notified before the watch closes, and nothing is diverted or stepped in. Both dam attempts are in the Warden Record; in the second the channel reappeared in a street inside a day, and there is no procedure for a third.
+1. **What is confirmed:** the stake line against last survey, the count of branches, and the buildings any branch runs toward, all taken before the ground is walked.
+2. **What the watch does:** Viderehan shows the worker whose house a channel ends at and Ferrehan holds the stake line; the walk is capped at the perimeter and every person on the survey is paired for the walk back.
+3. **How it closes:** the close is the file's documented suppression condition: **Acknowledge each linked site; do not dam the channels** — and the acknowledgement is entered against the site rather than against the worker, because the grief is the site's and not theirs.
 
 ### Consequences
 

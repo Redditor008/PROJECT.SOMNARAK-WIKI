@@ -45,51 +45,36 @@
 - Structural pressure is literal. Floor temperature and wall integrity are logged alongside the gauge; both have escalated ahead of the needle, the floor on every occasion and the walls twice.
 - Extraction draws from slag residue under its own authorization. Nothing produced unattended in the working volume is extracted; it is logged, photographed, and destroyed at the District furnace, which is not this one.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Grudge, the pressure the hearth is itself made of; 20% against everything else the room can bring |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 435/435 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed place — the hearth and working volume stay in situ*, and it adds that unattended metal shaping is activity inside that volume rather than locomotion of the holding. Nothing here aims or closes a distance: what the fire does is work on whatever is left in it while somebody in the room is carrying a grievance they have not said out loud.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Burning and creative |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A squat soot-blackened stone forge in the Forge District, built around a core of slow-pulsing crimson that is not fire, an anvil and tongs crusted black beside it. The hearth and its working volume have not moved; only the heat inside them does. |
+| **Perceptible to** | The heat first, which is the reading — idle floor temperature at the fixed point, 61, then 68, then 74 degrees across three years; then the smell of hot stone and the sound of metal being shaped by nobody. |
+| **Handling** | Nothing is left in the working volume and nothing is fed to it. The hearth is not quenched and the tongs are not moved; a worker who is angry about something unstated does not enter the volume until they have said it. |
+| **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
+| **Sorrow Gauge [HP]** | 435/435 — the containment meter, read at the hearth |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Forge District |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the floor temperature and the wall integrity; Ferrehan stands the watch in the heat without adding anything to the volume. |
+| **Location** | Zone D, Forge District |
 | **Resolution Condition** | Somebody states what they are angry about, aloud, in the room, naming it specifically. It has worked on every occasion it has been tried, which is every occasion the heat has risen. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Banked Coals* [**Debuff**] } | "The coals glow brighter the longer you stand here — feeding on what you will not admit." | [The Forge heats the target's resentment; old anger begins to smolder.] | *Target suffers -10 Resilience as their own rage is stoked.* **[10 Grudge DMG [Grudge]]** | When the target enters the Forge. |
-| { *The Bellows* [**Debuff**] } | "The bellows pump, and your anger rises with the flame." | [The Forge fans the target's temper; control slips.] | *Target loses 10 Resilience; small slights become unbearable.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the heat. |
-| { *The Hammer* [**Attack**] } | "The hammer comes down on the anvil of your resentment." | [A forged-rage strike — the Hammer shapes raw anger into a weapon and brings it down.] | *Inflicts Grudge pressure and one searing wound.* **[14-22 Grudge DMG [Grudge]]** | When the target confronts the Forge. |
-| { *The Quench* [**Attack**] } | "Red-hot rage, quenched in your skin." | [The Forge tempers a bolt of fury and hurls it, steaming, at the target.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Forge is attacked or overloaded. |
-| { *The Eruption* [**Ultimate**] } | "The Forge blows — and everything it held bursts out at once." | [The Forge erupts, spraying molten resentment across the entire area.] | *All personnel suffer Grudge pressure for three turns in the heat.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the forge does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Reading* [**Register**] } | The hearth registers the room before the room notices it: floor temperature at the fixed point climbs between watches with nothing burning, and wall integrity follows it twice. | Viderehan takes the floor temperature at the fixed point with nothing in the volume; Ferrehan reads the walls. Nothing is weighed, sampled or fed. | 61, then 68, then 74 degrees is the series the file keeps, and it has risen in years the hearth was worked and in years it was not. |
+| { *The Unsaid* [**Exposure**] } | A worker in the volume carrying an unstated grievance takes the pressure directly: Resilience drops, the gauge climbs, and it presents as temper long before it presents as damage. | The watch says aloud what it is angry about, specifically, before entering; anything left unsaid stays outside the room. | The file's own note is that the failure looks like a short temper for the first hour and like the gauge for the second. |
+| { *The Idle Fire* [**Refusal**] } | It does not go out and it does not answer. Nothing left in the volume is returned, and the room produces an object nobody ordered. | Nothing is quenched, nothing is fed, and no material is left in the volume between watches. | The refusal is the idle fire, which is why the reading is taken when nothing is burning. |
+| { *The Working Volume* [**Overload**] } | Past the recommended cycle the heat accumulates: floor temperature leads the gauge on every measured occasion, and the walls have followed it twice. | Withdraw on the floor temperature rather than on the gauge, and keep the room closed until the fixed point reads what it read at the start of the watch. | Time in the volume is cumulative and is counted in the same units as the gauge, so the watch is timed rather than measured. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification is by two documents, not by feel: the idle floor reading at the fixed point and the sweep sheet for the watch, signed in full with the time. The room feels like held breath whether the reading is 61 or 74, so the team takes the figure first and the positions afterwards.
-2. **Clash:** Viderehan and Ferrehan only. The working volume is swept and the sheet signed in full by both Wardens before anybody stands at the hearth, and anyone whose temper rises says aloud, in the room, what they are angry about.
-3. **Resolution:** The watch closes with an empty working volume, two full signatures on the sweep sheet, and the floor read again — and with at least one person having said aloud, in the room, what they came in carrying. The documented suppression condition is **Cool the anger through naming and controlled work**, and it has worked on every occasion the heat has risen.
+1. **What is confirmed:** the fixed-point floor temperature with nothing burning, the wall integrity, and what the watch is angry about, each taken before anybody steps into the working volume.
+2. **What the watch does:** Viderehan reads the floor and the walls and Ferrehan stands the heat. Nothing is left in the volume, nothing is fed to it, and the grievance is said out loud by the person carrying it rather than by whoever is senior.
+3. **How it closes:** the close is the file's documented suppression condition: **Somebody states what they are angry about, aloud, in the room, naming it specifically** — and it has worked on every occasion it has been tried, which is every occasion the heat has risen.
 
 ### Consequences
 
