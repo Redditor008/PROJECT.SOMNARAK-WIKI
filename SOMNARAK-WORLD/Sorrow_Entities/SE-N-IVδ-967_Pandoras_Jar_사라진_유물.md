@@ -370,7 +370,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 **Observation Notes:**
 - The formation is an absence: a relic taken off a Desolate expedition, a manifest with one line inked out, a customs weight, and a crating receipt. The archive states on its first page that it cannot establish these people existed.
 - The engagement history is a temperature: ten degrees a turn while nobody reads from the register, back to ambient on the turn a destroyed item is described aloud.
-- Nothing is extracted from this source without a separate authorisation, and the cost of each piece is entered on the equipment file rather than discovered in the field.
+- The Jar yields under its own authorisation and not as payment for a cycle, and the equipment file states the charge in advance.
 **Cross-References:** The Maw (nineteen degrees), The Forgotten Soldier (the only acknowledgement), The Burning Library (one inventory line), the facility's retention schedules, and the forty-one entries described retrospectively.
 **Faction Involvement:** Judexhan hold the δ-grade order. SED route expeditions around the heat and have supplied the only surviving expedition manifest from the relevant season, which lists the party, the ground covered, and — in the column where the finds should be — nothing at all.
 **Originator:** Unestablished, and recorded as unestablished rather than unknown; the difference is that the archive holds the shape of the deletion that removed them. See the Origin section.

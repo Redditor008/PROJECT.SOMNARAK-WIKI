@@ -319,7 +319,7 @@ What follows are measured contacts with other debt-bearers on Collector's Row, a
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. All three were proposed on the shared subject of debt, which on Collector's Row describes most of the register and distinguishes very little.
+All three pairings below were proposed on the shared subject of debt, which is the shortest route to a bad pairing available anywhere on Collector's Row. None is settled. All three were proposed on the shared subject of debt, which on Collector's Row describes most of the register and distinguishes very little.
 
 | The Root's neighbour | How the two are read together | What the watch logged | What the entry carries |
 |---|---|---|---|

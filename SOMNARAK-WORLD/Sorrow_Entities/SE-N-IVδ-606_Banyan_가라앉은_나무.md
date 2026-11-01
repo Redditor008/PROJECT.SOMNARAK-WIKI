@@ -397,7 +397,7 @@ Some sorrows are about hiding. Banyan is about the hidden that grew — the buri
 **Observation Notes:**
 - The formation is a pit under the south arcade. The Market buried its grief in writing because the floor was where business was done, and the eleven hundred documents in that pit are the only names it ever had.
 - The engagement history is short and it is all drain: five a turn for each thing concealed above it while it is loose, falling back a step whenever somebody says the thing out loud on the floor.
-- Nothing is extracted from this source without a separate authorisation, and the cost of each piece is entered on the equipment file rather than discovered in the field.
+- Extraction takes a written authorisation and a named cost before a piece leaves the vault; what the Market buried is not a supply.
 **Cross-References:** The Empty Mask (briefly transparent), The Happy Mask (the only reciprocal pairing), The Garden of Thorns, the 1,106 buried items, and the Market's minute of the decision to bury them.
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** The Mask Market community collectively. No individual is named in the manifest, by the community's own decision at the time of burial, and the archive has preserved that decision rather than reversing it.

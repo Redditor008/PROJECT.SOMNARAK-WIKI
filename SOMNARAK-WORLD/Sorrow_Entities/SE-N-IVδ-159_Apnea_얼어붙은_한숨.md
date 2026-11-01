@@ -87,7 +87,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Apnea is confirmed by a still, translucent figure of a single held breath, crimson cracks fixed across face and chest in a pattern that has not altered in twenty-four years of fixed-position photography, in a chamber with a pacing tone running. If the tone is not running, the chamber is closed and nobody is inside it. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Apnea is confirmed by a still, translucent figure of a single held breath, crimson cracks fixed across face and chest in a pattern that has not altered in twenty-four years of fixed-position photography, in a chamber with a pacing tone running. If the tone is not running, the chamber is closed and nobody is inside it. The team confirms the tone is running from outside the chamber, and does not open the door to check.
 2. **Clash:** The tone runs and the party breathes to it. Work is performed against a figure that neither advances nor retreats; what is measured is the worker's own breathing against the pacing tone, and the shift ends on the hour whether or not the cycle is finished.
 3. **Resolution:** The worker's breath is audible against the pacing tone and the worker leaves on the hour, with the cycle unfinished if the hour requires it. In a breach, resolution is withdrawal at a walk—not suppression.
 

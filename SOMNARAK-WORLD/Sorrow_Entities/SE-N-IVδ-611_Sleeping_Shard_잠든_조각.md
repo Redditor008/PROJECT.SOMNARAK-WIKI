@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Sleeping Shard is confirmed by the float and the curl. Several crystal-bearing entities are held in this wing; only this one carries the shard rather than being carried by it, and only this one is asleep. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Sleeping Shard is confirmed by the float and the curl. Several crystal-bearing entities are held in this wing; only this one carries the shard rather than being carried by it, and only this one is asleep. The team sets the anchor first and stands inside the reach of it; a forced waking is the one action the shard answers.
 2. **Clash:** There is no exchange of blows here. The team works at the edge of a sleep it must not interrupt — Flerehan to settle the weeping, Ferrehan to stay present without reaching, Viderehan to read the memory underneath. Every gauge movement is a statement about how quiet the room was.
 3. **Resolution:** The cycle closes with disturbance reduced, an anchor set within arm's reach, and the sleep uninterrupted; the file's condition is not to wake it, and every recorded escalation here began with an attempt to end the sleep rather than sit beside it. The anchor is a kept object with a known owner, replaced at each shift change, and a rota entry records whose object is in the chamber on which day.
 

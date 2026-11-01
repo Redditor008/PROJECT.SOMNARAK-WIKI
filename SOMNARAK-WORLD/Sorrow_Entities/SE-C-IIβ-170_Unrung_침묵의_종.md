@@ -343,7 +343,7 @@ You stand on the marked line and wait for the sound. Nothing comes, and then —
 
 **When the entity activates:** A hand on the rim, the words said once and aloud, and a sealed door opens or a warning nobody answered arrives in the room. There is nothing to see. A fortnight ago a reading went into a folder on the correct day and the person who filed it did everything right.
 
-**After departure:** You think of something you reported properly and never heard about again. Most people have one and most people name it before they reach the station. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You think of something you reported properly and never heard about again. Most people have one and most people name it before they reach the station. The wing asks for the report number and the date it was filed, and enters both beside the answer. Nobody has ever been able to produce them.
 
 ### Interaction Pattern
 

@@ -294,7 +294,7 @@ The burden of accepting responsibility for an obligation that outlived its origi
 Management: Carry part of the burden willingly; do not command him to put it down.  The Triplets cannot be permanently separated.
 
 **Entry 5 — <Old Grief in a New Shape>**
-The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
+A man borrowed on ordinary terms, paid for the rest of his life, and did not finish. The next three generations were bound by paper he had signed, and by the time the debt was an entity there was nobody left who could say what he had wanted the money for. What is standing in the Row is the arithmetic, not the man.
 
 ## 최종 관찰 (Final Observation)
 

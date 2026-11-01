@@ -331,7 +331,7 @@ This holding is read against the other things in the wing that register grief at
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled, and all three share the same structural weakness: the compass reports a direction and nothing else, so a pairing can only ever establish that two holdings are interested in the same quarter of the district.
+The pairings below are points of contact and nothing more; none of the three has been settled, and all three share the compass's structural weakness, which is that it reports a direction and never a target. None is settled, and all three share the same structural weakness: the compass reports a direction and nothing else, so a pairing can only ever establish that two holdings are interested in the same quarter of the district.
 
 | Related entity | What it is | What the settle rate did | Required record |
 |---|---|---|---|

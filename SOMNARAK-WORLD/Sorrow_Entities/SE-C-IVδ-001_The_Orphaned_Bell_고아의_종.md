@@ -328,7 +328,7 @@ Workers past roughly three hours in the tower may hear names. The name is writte
 Keep bell and tower anchored together; never strike, move or separate them. Record every new face before any other intervention. Viderehan observes names and faces between tolls, Ferrehan stands the toll in assigned pairs, and Pugnahan is prohibited because an attempt to silence the missing raises the Gauge.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The Director notes: this sorrow is representative, not anomalous. It is the city grief given form at this location — the wound made visible.
+The Director notes: this sorrow is representative, not anomalous. The bell is not a thing that arrived here. It is the district's grief, hung in the tower the district built, and it is doing what grief does when it is given a schedule.
 
 ## 최종 관찰 (Final Observation)
 

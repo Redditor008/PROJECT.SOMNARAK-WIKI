@@ -330,7 +330,7 @@ Metal scrapes against metal in the air. A relic tries to become whole and fails 
 
 **When the entity activates:** The pieces hold their order and the thing works. For four to nine seconds it does, correctly and without difficulty, what it was made to do. Then it comes apart, and everyone in the room has now seen that there was never anything wrong with it.
 
-**After departure:** You go back and look at something you trained for and were never asked to do. Most people have one. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You go back and look at something you trained for and were never asked to do. Most people have one. The wing asks for the training record. What comes back is a syllabus with the relevant week missing from it.
 
 ### Interaction Pattern
 

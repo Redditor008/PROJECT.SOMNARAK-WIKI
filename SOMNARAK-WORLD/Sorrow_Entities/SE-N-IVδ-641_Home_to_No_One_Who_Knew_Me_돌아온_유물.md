@@ -306,7 +306,7 @@ The instability of belonging—returning home only to find home has forgotten yo
 Work response — Viderehan: Shows the routes and hands through which it passed. (Stable); Ferrehan: Remains present while the worker bears uncertainty. (Decrease). Personnel report confusion between an object's former and current identity.
 
 **Entry 5 — <Director's Minute on the Non-Interference Rule>**
-The sorrow did not emerge from nothing. It grew around this location until it was dense enough to become the entity — old grief in a new shape.
+I have been asked four times to let the street be tidied, and four times I have written refused. The rule is not sentiment: the artifact is what the district did with it, and a district with its own record in hand will pick it up and carry it home again. What the street is missing is not the object. Leave it standing there.
 
 ## 최종 관찰 (Final Observation)
 

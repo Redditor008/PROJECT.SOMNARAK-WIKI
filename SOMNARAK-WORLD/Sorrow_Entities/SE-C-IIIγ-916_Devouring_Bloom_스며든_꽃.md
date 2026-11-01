@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Devouring Bloom is confirmed by the petals in the floor and walls behind it rather than by the bloom, which is not always where it was and is not always open. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Devouring Bloom is confirmed by the petals in the floor and walls behind it rather than by the bloom, which is not always where it was and is not always open. The team walks the walls first and opens the cycle only once the petal line has been followed to where it stops.
 2. **Clash:** Twelve turns. The growth front is marked against the cut wall marks before anything else and again at the close, the engineers' survey is walked alongside the Warden's, and no petal is cut, lifted, pocketed or sampled outside the authorised residue draw.
 3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Witness the memories and prevent unauthorized petal collection**.
 

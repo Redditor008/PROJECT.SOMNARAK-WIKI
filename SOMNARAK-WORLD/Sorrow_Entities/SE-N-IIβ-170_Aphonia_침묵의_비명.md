@@ -308,7 +308,7 @@ The figure screams in a silent corridor. Its mouth opens wider, but the air rema
 
 **When the entity activates:** On the third failed cycle the cry becomes audible for the first and only time, and the holding has eleven recordings of it, and they are not played at briefings. The yield for that cycle is nil; the Han is drawn from the silence, never from the sound.
 
-**After departure:** You go looking for somebody you stopped replying to. Most people have one. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You go looking for somebody you stopped replying to. Most people have one. The wing asks who, and then asks whether they were told. On this holding the second question is the one that gets answered.
 
 ### Interaction Pattern
 

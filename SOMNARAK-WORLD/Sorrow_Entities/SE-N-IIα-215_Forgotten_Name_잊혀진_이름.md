@@ -298,7 +298,7 @@ You have the first syllable and the second will not come. There is a voice helpi
 
 **When the entity activates:** Nothing. Then, at the end of the month, six slates with thirty-one disagreements between them and six people who were each certain. A quarter ago a file closed with nothing corroborated in it and was destroyed on schedule by people doing their jobs properly.
 
-**After departure:** You check your own name against your papers at the gate, which is procedure and takes a second. Then you think of something true about yourself that nobody alive could confirm. Almost everybody has one. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You check your own name against your papers at the gate, which is procedure and takes a second. Then you think of something true about yourself that nobody alive could confirm. Almost everybody has one. The wing enters the first name and ignores the second. Nothing has ever been recovered from the second, and the file does not treat that as an oversight.
 
 ### Interaction Pattern
 

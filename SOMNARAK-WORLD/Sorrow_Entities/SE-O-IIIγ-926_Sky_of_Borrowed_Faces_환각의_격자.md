@@ -294,7 +294,7 @@ Open ground, nothing on it, nothing ever on it. Then a wall, and a face on the w
 
 **When the entity activates:** The count runs and keeps running. There is nothing to see that you have not already seen; there are simply more surfaces. A fortnight ago an office approved a photograph for a poster, correctly, with every signature in place.
 
-**After departure:** You think about a photograph of yourself that exists somewhere you did not put it. Most people have one and most people name it before the vehicle reaches the gate. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You think about a photograph of yourself that exists somewhere you did not put it. Most people have one and most people name it before the vehicle reaches the gate. The wing asks where it was taken. The answer is always a place the worker has been, and never a camera they have seen.
 
 ## 상호작용 (Entity Interactions)
 

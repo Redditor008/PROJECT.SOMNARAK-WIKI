@@ -320,7 +320,7 @@ Heat gathers in the room like a held breath. The Maiden stands inside it, bright
 
 **When the entity activates:** The probe climbs and the fittings take it. There is nothing new to see; she is doing what she has done for two centuries. A fortnight ago an officer wrote that somebody had died by external means and stopped the sentence there because the law would not let him finish it.
 
-**After departure:** You think of something that was done to you, or to somebody of yours, that no document calls wrong. Most people have one and most people name it inside the hour. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You think of something that was done to you, or to somebody of yours, that no document calls wrong. Most people have one and most people name it inside the hour. The wing does not argue the point. It writes down what was done, in the worker's own words, and files it where the worker can go and read it later.
 
 ### Interaction Pattern
 

@@ -283,7 +283,7 @@ Fury at a war that consumed lives and left its reason behind.
 Management: Bow or salute; acknowledge the war and the dead. Work response — Flerehan: Fire dims in recognition of shared grief. (Decrease); Pugnahan: Attacks with concentrated heat. (Increase); Viderehan: Shows flashes of the six factions and the battle. (Stable); Ferrehan: Tests the worker by burning nearby without striking. (Decrease). It becomes active during the Sorrow Tide.
 
 **Entry 5 — <Archive Note>**
-The Director notes: this sorrow is representative, not anomalous. It is the city grief given form at this location — the wound made visible.
+The Director notes: this sorrow is representative, not anomalous. The flame is not an intruder. It is the disrespect the ward already contains, given somewhere to burn and a reason to be watched while it does.
 
 ## 최종 관찰 (Final Observation)
 

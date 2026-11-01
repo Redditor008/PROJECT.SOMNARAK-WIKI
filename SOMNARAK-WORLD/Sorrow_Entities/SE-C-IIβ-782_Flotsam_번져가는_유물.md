@@ -306,7 +306,7 @@ Compare named uses separately from outlined objects. The table records flat Jar 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled, and the Burning Library pairing — the one everybody asks about — is the only session in the file that recovered uses rather than losing them: eleven objects named from the Library's own catalogue, all eleven checked, all eleven correct.
+None of the pairings below is an alliance. The Burning Library pairing is the one everybody asks about and the only session in the file that recovered anything, which is precisely why it has not been repeated. None is settled, and the Burning Library pairing — the one everybody asks about — is the only session in the file that recovered uses rather than losing them: eleven objects named from the Library's own catalogue, all eleven checked, all eleven correct.
 
 | Related entity | What it is | What the named-use count did | Required record |
 |---|---|---|---|

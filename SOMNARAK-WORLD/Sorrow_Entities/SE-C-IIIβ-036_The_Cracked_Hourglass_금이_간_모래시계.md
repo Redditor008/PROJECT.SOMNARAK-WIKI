@@ -342,7 +342,7 @@ The glass is read beside the other things in the city that keep time or lose it.
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. Three of the four rest on a shared theme of time, which is the weakest ground for a pairing that this wing recognises, and the fourth rests on a single reading.
+None of the four pairings below is an alliance, and none is settled. Three of them rest on a shared theme of time, which is the weakest ground this wing recognises. None is settled. Three of the four rest on a shared theme of time, which is the weakest ground for a pairing that this wing recognises, and the fourth rests on a single reading.
 
 | What keeps or loses time | How the pairing has run | What the vault entered | What the file retains |
 |---|---|---|---|

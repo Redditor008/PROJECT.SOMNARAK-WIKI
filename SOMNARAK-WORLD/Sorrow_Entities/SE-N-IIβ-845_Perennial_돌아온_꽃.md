@@ -86,7 +86,7 @@
 
 ### Battle Phases
 
-1. **Tension:** Perennial is confirmed by the return. Several walking growths are catalogued in the Desolate; this is the one that comes back to the same ground after removal, and the ground is the part that identifies it. The team establishes its position and its withdrawal before the cycle opens.
+1. **Tension:** Perennial is confirmed by the return. Several walking growths are catalogued in the Desolate; this is the one that comes back to the same ground after removal, and the ground is the part that identifies it. The team marks the line of the last removal before anything else, because the return is measured from that ground and from nowhere else.
 2. **Clash:** Nothing is confronted and nothing is cleared. Viderehan reads the layers in the soil and holds the figure steady; Ferrehan asks the worker to stand on ground that is heavy with every return made to it, and to stay standing. The gauge falls under Ferrehan. It has never fallen under any procedure involving a tool.
 3. **Resolution:** The cycle closes when the site's history is entered in the file and the ground is left as found. There is no containment outcome, because the patch is in the soil rather than on it and the soil continues wherever the patch is standing; what the team files is the site sheet — the patch's position against the last survey, the layers visible at the cut face, and confirmation that nothing was removed, burned, lifted or described as cleared. The last field is the one that decides whether the next cycle starts higher.
 

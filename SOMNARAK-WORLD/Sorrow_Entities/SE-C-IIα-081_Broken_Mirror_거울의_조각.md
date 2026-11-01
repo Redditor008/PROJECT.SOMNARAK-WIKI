@@ -350,7 +350,7 @@ This holding is read against the other things in the Archive that hold, take, or
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. The wing's caution on all four is the same: anything that increases the number of viewings increases the number of people who have been handed back a year they paid to lose.
+None of the four below is settled. The wing's caution is the same on each: anything that raises the number of viewings raises the number of viewers, and the file has counted both. None is settled. The wing's caution on all four is the same: anything that increases the number of viewings increases the number of people who have been handed back a year they paid to lose.
 
 | Related entity | What it is | What the viewing count did | Required record |
 |---|---|---|---|

@@ -321,7 +321,7 @@ The metal beneath your hand is warm with old breath. Rust blooms around your fin
 
 **When the entity activates:** The patch advances along a pipe run, by a measurable area, over days rather than minutes. There is nothing to witness. Somewhere a fortnight ago a schedule was signed by somebody with no capacity to do anything else.
 
-**After departure:** You think of something at work that is nobody's. Most people have one and most people name it without hesitating. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You think of something at work that is nobody's. Most people have one and most people name it without hesitating. The wing asks whose it is, and accepts an answer of nobody's. That answer is entered as the finding.
 
 ### Interaction Pattern
 

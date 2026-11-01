@@ -343,7 +343,7 @@ The Clock is read next to the other holdings that hold an hour or shed one, and 
 
 ### Entity Interaction Record
 
-The relations below are canonical points of contact rather than alliances. None is settled. Four of the five rest on a shared theme of time, and the fifth is the only one in this file supported by a measurement anybody has repeated.
+The five pairings below are proposals and not agreements. Four rest on a shared theme of time, and the fifth is the only one in this file supported by more than the theme. None is settled. Four of the five rest on a shared theme of time, and the fifth is the only one in this file supported by a measurement anybody has repeated.
 
 | What keeps or loses time | How the pairing has run | What the bay entered | What the file retains |
 |---|---|---|---|

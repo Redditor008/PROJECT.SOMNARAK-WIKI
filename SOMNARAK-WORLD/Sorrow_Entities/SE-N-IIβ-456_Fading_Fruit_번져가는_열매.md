@@ -314,7 +314,7 @@ Rows of dark trees under heavy fruit, warm ground, bitter air, and beds still la
 
 **When the entity activates:** More fruit, and then more, and the beds are a pace nearer the north corner than they were in the spring. Nothing has happened here. A quarter ago a bonus fell due to somebody who owed money and went where it was always going to go.
 
-**After departure:** You name the thing. Everybody names a thing, and it is never money in general; it is the specific entitlement, with its year and its scheme and its amount, that you earned and did not hold. The counselling wing logs it and treats it as useful rather than as exposure.
+**After departure:** You name the thing. Everybody names a thing, and it is never money in general; it is the specific entitlement, with its year and its scheme and its amount, that you earned and did not hold. The wing asks for the year and the scheme. The worker can always give both, which is the part the file keeps pointing at.
 
 ### Interaction Pattern
 

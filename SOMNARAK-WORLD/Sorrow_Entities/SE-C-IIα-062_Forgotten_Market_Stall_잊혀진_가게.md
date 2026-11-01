@@ -310,7 +310,7 @@ The loss of commerce, community, and the ordinary exchanges that made a life fee
 Aggression causes immediate disappearance.
 
 **Entry 5 — <Representative, Not Anomalous>**
-The Director notes: this sorrow is representative, not anomalous. It is the city grief given form at this location — the wound made visible.
+The Director notes: this sorrow is representative, not anomalous. What is under the vault is not a curiosity the city grew: it is the city's own grief, standing where the city put it, in a shape that can be looked at.
 
 ## 최종 관찰 (Final Observation)
 
