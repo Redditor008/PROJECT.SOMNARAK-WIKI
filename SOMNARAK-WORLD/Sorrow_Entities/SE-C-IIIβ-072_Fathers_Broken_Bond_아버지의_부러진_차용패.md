@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-072 [WO]` |
-| **Entity Type** | **Object/Place** — Single-use fracture release |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use fracture release, spent by the snap and never rearmed |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Fragment (III) — Snapped indenture |
 | **Potency** | Moderate (β) |

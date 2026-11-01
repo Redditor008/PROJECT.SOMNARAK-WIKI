@@ -192,7 +192,7 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 
 - **Breach type:** Escape — recorded as such because the patch leaves its marked area, though what it is doing is going back to a place it was taken from.
 - **Containment priority:** Stop clearing it. Suppression is the mechanism that feeds this entity, and the three heaviest figures on record each follow a thorough removal. Mark the ground as abandoned, enter its history in the site file, and leave the patch standing — it has not crossed a boundary that was left in place.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises five points for each clearance attempted while it is free, and not at all for the time it spends walking back along its old paths. Letting it reoccupy the site is the cheaper watch by the gauge's own arithmetic, which is what the containment priority is built on.
 
 ## M.A.W. Equipment
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-453 [LS]` |
-| **Entity Type** | **Subject** — A drifting ember carrying an interrupted cry; escalation widens the audible street radius |
+| **Entity Type** | **Subject** — Can breach via Corrupt; a drifting ember carrying an interrupted cry, and the escalation widens the audible street radius rather than moving the ember |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |

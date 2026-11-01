@@ -162,7 +162,7 @@ The table is read against the register rather than against the gauge, because on
 
 - **Breach type:** Escape — it leaves the chamber and goes to find the people it has been grieving for, which is the behaviour the record classifies as hunting and is not pursuit in any ordinary sense.
 - **Containment priority:** Suppression accelerates the loss and has never ended an incident. Enter every vision in the prediction register as one possibility among several, in writing, where the figure can see it being written; the melting slows within minutes. The register is the containment apparatus and the chamber is incidental to it.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises five points for each attempt to prevent what it has shown, holding steady for as long as it is allowed to walk and reach. Written down and left alone, a watch ends lower than one that intervenes, which is the whole argument for the prediction register.
 
 ## M.A.W. Equipment
 

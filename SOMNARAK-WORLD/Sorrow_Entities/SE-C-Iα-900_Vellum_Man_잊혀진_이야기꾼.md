@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-900 [LS]` |
-| **Entity Type** | **Subject** — Recorded escapes consist of walking to an open tale's transcriber; no transformed escape body is documented |
+| **Entity Type** | **Subject** — Can breach via Escape; the recorded escapes consist of walking to an open tale's transcriber, and no transformed escape body is documented |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-928 [VH]` |
-| **Entity Type** | **Hazard** — An affected air volume pools in sublevels and can extend upward; no mobile occupant or travelling body is recorded |
+| **Entity Type** | **Hazard** — Can breach via Expansion; an affected air volume pools in the sublevels and extends upward, and no mobile occupant or travelling body is recorded |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

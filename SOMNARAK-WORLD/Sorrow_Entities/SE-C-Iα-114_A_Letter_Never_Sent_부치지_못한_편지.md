@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-114 [LO]` |
-| **Entity Type** | **Object/Place** — Single-use discharge upon unsealing |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use discharge on unsealing, and the envelope does not reseal |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Residue (I) — Unread, preserved plea |
 | **Potency** | Minor (α) |

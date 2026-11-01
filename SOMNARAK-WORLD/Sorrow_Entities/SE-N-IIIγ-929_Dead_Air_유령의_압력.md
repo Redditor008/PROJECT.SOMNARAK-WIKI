@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-929 [WH]` |
-| **Entity Type** | **Hazard** — Recorded breach is expansion into adjoining rooms; no transformed body is documented |
+| **Entity Type** | **Hazard** — Non-breaching: expansion into adjoining rooms, twice, neither crossing an exterior wall; no transformed body is documented |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -134,21 +134,21 @@ It does not act. Across seventeen years it has taken two rooms and injured no on
 
 The weight is reported, not measured, and the archive is careful to keep those two words apart here. Both valid approaches reduce the gauge and neither depends on anything being felt: observation is the watch, endurance is sitting the full six hours of it. The only instrumented quantity in the holding is the barometer, and it has never predicted a contact.
 
-## Breach Behavior
+## Expansion Behavior
 
-> *"Dead Air has broken free. It is reported by whoever is expecting it, at three times the rate on watches where the Warden went in looking for a figure; the order is to go in looking for nothing."*
+> *"Dead Air is reporting again. It is reported by whoever is expecting it, at three times the rate on watches where the Warden went in looking for a figure; the order is to go in looking for nothing."*
+
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The anomaly takes in adjacent rooms one at a time, in the order of their shared walls, and has done so twice. Neither expansion crossed an exterior wall of the building, and the file notes this is a description of what happened rather than a rule it expects to hold. |
-| **Effect** | Occupants of the newly taken rooms begin filing the same kind of entry — a bearing and a mass — without having been issued the form. Both expansions were identified this way, from clerical staff describing a lean in their own words before anyone told them the room had changed. |
-| **First Target** | Whoever is expecting it. Contact is reported at roughly three times the rate on watches where the Warden went in looking for a figure, and the briefing now says so out loud, in those words, before a first watch. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Weight drain increases by 5 per turn until suppressed. |
+| **Expansion Trigger** | Whoever is expecting it. Contact is reported at roughly three times the rate on watches where the Warden went in looking for a figure, and the briefing now says so out loud, in those words, before a first watch. |
+| **Expansion Rate** | One room at a time, in the order of their shared walls. Twice in seventeen years, and neither expansion crossed an exterior wall of the building. |
+| **Expansion Effect** | Occupants of the newly taken rooms begin filing the same kind of entry — a bearing and a mass — without having been issued the form. Both expansions were identified this way, from clerical staff describing a lean in their own words before anyone told them the room had changed. |
+| **Containment** | Three ignored conditions. The perimeter is the building's own exterior, checked rather than assumed, because the file records what happened twice and does not offer it as a rule. |
 
 ### Escalation Notes
 
 - **Containment priority:** Complete the watch and file the form, blank or not. Read the barometer at handover; boundary changes are entered on the plan, not treated as a body to subdue.
-- **Sorrow Gauge on breach:** Opens at 40% and rises 10% per room taken, not per turn. Two rooms have been taken in seventeen years and the reading has never exceeded 60%.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per room taken, not per turn. Two rooms have been taken in seventeen years and the reading has never exceeded 60%.
 
 ## M.A.W. Equipment
 

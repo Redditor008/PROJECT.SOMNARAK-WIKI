@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-412 [GP]` |
-| **Entity Type** | **Object/Place** — Single-use kinetic discharge |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use kinetic discharge, spent by the blow that drives it |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Fragment (III) — Jagged, furious resolve |
 | **Potency** | Major (γ) |

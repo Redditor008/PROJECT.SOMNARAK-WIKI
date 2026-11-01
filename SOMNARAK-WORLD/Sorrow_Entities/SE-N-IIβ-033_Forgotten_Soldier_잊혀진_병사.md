@@ -171,7 +171,7 @@ The behavior table is a snapshot and not a system, and the classification and or
 
 - **Breach type:** Escape — he leaves the corridor and walks. It is not a hunt: on every logged occasion he has gone to the nearest door that faces the old boundary and stood in it.
 - **Containment priority:** Send one person to say the words. Physical suppression has been authorised twice, worked both times, and cost eleven frames and a broken arm against a procedure that costs a sentence.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises five points for each turn he stands in the doorway. Suppression stops the rise — twice authorised, twice worked, and it cost eleven frames and a broken arm — while a single person saying the words ends the event before the first turn is counted.
 
 ## M.A.W. Equipment
 

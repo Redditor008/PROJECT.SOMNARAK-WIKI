@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-319 [VO]` |
-| **Entity Type** | **Object/Place** — Single-use boundary inscription |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use boundary inscription, ground into the floor to close the circle |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Silent erasing trace |
 | **Potency** | Moderate (β) |

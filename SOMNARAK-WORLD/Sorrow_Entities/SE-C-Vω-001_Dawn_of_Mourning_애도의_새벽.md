@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vω-001 [LS]` |
-| **Entity Type** | **Subject** — Catastrophic transformation |
+| **Entity Type** | **Subject** — Can breach via Transform; a catastrophic transformation, and the change is the city's rather than the body's |
 | **Special Class** | **Special Abnormality** — the terminus of the Kind Healer chain (`C-Iα-071` → Blessing Giver → Apostle Maker), reached at the twelfth blessing; never acquired, never contained, filed under the chain (`R-35`). |
 | **Coherence** | Sovereign (V) — Absolute and divine |
 | **Potency** | Catastrophic (ω) — City-threatening |

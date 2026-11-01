@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIγ-071c [LS]` |
-| **Entity Type** | **Subject** — Advanced transformation entity |
+| **Entity Type** | **Subject** — Can breach via Escape; an advanced transformation entity, and the escape is a body leaving the unit rather than a change of form |
 | **Coherence** | II — Echo (the original healer is nearly gone; something else is driving) |
 | **Potency** | γ — Major (the chain is accelerating toward completion) |
 | **Sorrow Category** | City Sorrow (도한) with strong Hope resonance |

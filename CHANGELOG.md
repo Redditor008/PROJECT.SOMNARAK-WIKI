@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twenty places where the classification disagreed with the record (2026-11-01)
+
+The `**Entity Type**` cell and the section heading are the first two things a reader takes a dossier's shape from, and twenty files contradicted themselves between them.
+
+Three sections were headed as breaches on holdings whose own text says nothing leaves. **Dead Air** (`N-IIIγ-929`) had `## Breach Behavior` over four rooms that are taken one at a time along their shared walls, twice in seventeen years, neither time past an exterior wall — it is now `## Expansion Behavior`, with trigger, rate, effect and containment in place of a breach table that offered a "first target" and a turn-by-turn drain the file's own account never supports. **Breathing Stone** (`C-IVδ-907`) carried the heading one batch past its conversion; **The Convergence** (`C-Vδ-010`) was the plainest case in the archive — a `**Breach Type**` row reading *Escape* four lines under an escalation note reading *it does not escape and has never attempted to*, so it is now `## Containment Event Behavior` with an `**Event Type**` of Formation, and the Warden radio line no longer shouts that it has broken free. Its escalation row said *each turn free*; it now says each turn the formation holds, which is the same number without the contradiction.
+
+Nine `Entity Type` cells stated no breach claim at all — five of them because the sentence had been rewritten as description and lost the verdict. Each now says what the record shows: **C-IIIγ-928** breaches by expansion and has no travelling body; **C-Iα-071b**, **C-Iα-071c** and **C-Iα-900** breach by escape; **C-Vω-001** by transform; **O-Iα-453** by corrupt, and the escalation widens the audible radius rather than moving the ember. **C-Iα-150** and **C-Iα-240** are non-breaching, one as a region of laughter and one as a voice with no position to be contained at; **O-IVδ-515** is a single-use cryogenic burst and says so.
+
+Two strays were left over from the older wording: **Grimoire** (`C-IIβ-906`) had a radio line reporting that it *has broken free and is open* on a file that says in terms it cannot move and has never left its lectern, and **Harvest Beyond the Gate** (`N-IIβ-627`) still weighed its work types *against the breach threshold* on a holding that expands a foot a week.
+
+Finally, six escalation blocks still carried the placeholder sentence *Starts at 40%, rises 10%/turn* — the only six left in the archive. Each is now derived from that file's own escalation row and nothing else: the Lost Prince rises only when somebody answers him with a reassurance and not at all while he walks; Candela rises on each attempt to prevent what it has shown; Cold Burn rises per cycle the lattice extends and does not fall until the revoked order is named; the Convergence rises per turn the formation holds; **N-IIβ-033** rises per turn in the doorway, where suppression costs frames and a sentence costs nothing; Perennial rises on each clearance attempted and not at all while it is allowed to walk back.
+
+The non-breaching share moved to **192 of 301** (RE 81/83, SE 76/179, OP 35/39) — the nine cells that gained a verdict were being counted as non-breaching by having no verdict at all, which is not the same thing.
+
+**Checks:** `section_logic` PASS (0 findings) · `seam_lint` 100.0% · `label_lint` 0 · `check_stat_bands` PASS · `timeline_lint` PASS · `check_links` 0 broken · `breach.py` floors met.
+
+
 ## Eight files that keep a combat record and now say why (2026-11-01)
 
 Non-breaching files that keep a Combat Record are supposed to carry the reason in one line before the stat block. Eighteen did; eight did not, and those eight are the ones where a reader actually stops: the chains whose **body has never moved**, the room that **has no position that could be approached**, the border place that is **not a creature**, the river that flows and falls, the shard that drifts while it sleeps, the fog bank, the miasma, the pillar under the ground.

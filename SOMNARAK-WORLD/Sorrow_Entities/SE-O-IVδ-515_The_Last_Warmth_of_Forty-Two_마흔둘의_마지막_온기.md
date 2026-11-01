@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-515 [LO]` |
-| **Entity Type** | **Object/Place** — Single-use cryogenic burst |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use cryogenic burst, spent by the vial being opened and never rearmed |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Entity (IV) — Collective frozen farewell |
 | **Potency** | Critical (δ) |

@@ -163,7 +163,7 @@ The gauge here is unhelpful and the wing says so. The figure that is read is the
 
 - **Breach type:** Escape — it leaves the chamber along its own lattice and continues its rounds elsewhere. It has never pursued a worker who kept looking at it.
 - **Containment priority:** No suppression. Pugnahan multiplies the regrowth. Clear the reflective surfaces along its route, keep eyes on it the whole way, and send somebody who can name a revoked order.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises five points for each cycle the lattice is left extending. It stops rising between cycles but does not fall: the reading only comes down when somebody names an order and the person who revoked it, which is the one ending this file records.
 
 ## M.A.W. Equipment
 

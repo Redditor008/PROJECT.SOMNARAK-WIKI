@@ -170,7 +170,7 @@ Work on this holding is a sitting job and the readings reflect it. Flerehan and 
 
 - **Breach type:** Escape. He leaves the Gardens and moves through the facility at a child's walking pace, asking the same question of everyone he meets.
 - **Containment priority:** Do not suppress. Confrontation raises the reading by the approach table's own figures, and the two recorded Warden deployments both ended with a longer incident and a crown point lost. Send the person he is looking for, if they are still employed here, to tell him they are not coming back.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on breach:** Opens at 40% and rises five points each time somebody answers him with a reassurance. It does not move for the time he spends walking, so a long quiet incident reads exactly like a short one — which is why the briefing forbids answering him at all rather than forbidding the watch to take time.
 
 ## M.A.W. Equipment
 

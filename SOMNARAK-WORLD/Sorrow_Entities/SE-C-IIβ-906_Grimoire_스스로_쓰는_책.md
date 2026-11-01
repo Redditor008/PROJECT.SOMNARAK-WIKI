@@ -132,7 +132,7 @@ Grimoire is an Object with Object-Tale manifestation and Grudge expression, held
 
 ## Expansion Behavior
 
-> *"Grimoire has broken free and is open. Nobody reads it and nobody looks over a reader's shoulder; the first person to break either rule writes the account for the rest of the wing."*
+> *"Grimoire is open and filling. Nobody reads it and nobody looks over a reader's shoulder; the first person to break either rule writes the account for the rest of the wing."*
 
 | Field | Detail |
 |---|---|

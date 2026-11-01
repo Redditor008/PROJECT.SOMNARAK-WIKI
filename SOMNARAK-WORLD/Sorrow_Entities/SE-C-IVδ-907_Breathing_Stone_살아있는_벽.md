@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-907 [WP]` |
-| **Entity Type** | **Place** — Can breach via Expansion |
+| **Entity Type** | **Place** — Non-breaching: expansion only; the surface extends along the fixed wall run and has never crossed a doorway or reached the floor |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -130,22 +130,21 @@ The practical consequence is that nothing here can be screened by gauge. A gauge
 
 Breathing Stone is a Place with Place-Body manifestation and Weight expression, held in situ at SECTOR-C-907. Flerehan and Pugnahan are unavailable to a Place. Both valid Work Types lower the gauge and neither requires contact. The corridor is in daily use and has never harmed anybody in it, and the whole of this file's difficulty is in the word *harmed*.
 
-## Breach Behavior
+## Expansion Behavior
 
 > *"Breathing Stone is extending along the wall span. Keep to the marked line and do not touch the surface."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The affected surface extends along the fixed wall run; it has never crossed a doorway or reached the floor. |
-| **Effect** | The weight is the building's and it arrives through the corridor: warmth at thirty-four degrees, a rate at nine a minute, and a body that finds itself keeping time with a wall. |
-| **First Target** | Whoever stops. It has never affected anybody walking past at a normal pace, in nineteen years of a corridor used by the whole wing, and the entire containment is the instruction not to stop. |
-| **Escalation** | +5 Weight drain per cycle while somebody stands on the near side. It does not reach the far side of the corridor, which is where the marked line is and why it is there. |
+| **Expansion Trigger** | Whoever stops. It has never affected anybody walking past at a normal pace, in nineteen years of a corridor used by the whole wing, and the entire containment is the instruction not to stop. |
+| **Expansion Rate** | The surface extends along the fixed wall run, and only along it. It has never crossed a doorway and has never reached the floor. |
+| **Expansion Effect** | The weight is the building's and it arrives through the corridor: warmth at thirty-four degrees, a rate at nine a minute, and a body that finds itself keeping time with a wall. |
+| **Containment** | No physical suppression and no contact. The marked line on the far side is the whole of it, the exclusion on the maintenance schedule is permanent, and five Weight drain accrues per cycle to anybody who stands on the near side. |
 
 ### Escalation Notes
 
 - **Containment priority:** No physical suppression or contact. Keep to the marked line on the far side; use Viderehan and Ferrehan without touching the span.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn for as long as the wall's rate is left running. Nothing done to the wall changes the rate, because the gauge is reading the building and the building takes no instruction.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% per turn for as long as the wall's rate is left running. Nothing done to the wall changes the rate, because the gauge is reading the building and the building takes no instruction.
 
 ## M.A.W. Equipment
 

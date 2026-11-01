@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iβ-071b [LS]` |
-| **Entity Type** | **Subject** — Active blessing-seeker in the healer’s middle stage; successive marks brighten the retained healer silhouette |
+| **Entity Type** | **Subject** — Can breach via Escape; an active blessing-seeker in the healer's middle stage, and successive marks brighten the retained healer silhouette |
 | **Coherence** | I — Residue (the healer's original self is fading) |
 | **Potency** | β — Moderate (escalating from α) |
 | **Sorrow Category** | City Sorrow (도한) with Hope resonance |

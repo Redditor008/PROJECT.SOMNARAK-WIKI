@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-240 [LO]` |
-| **Entity Type** | **Object/Place** — Can spread |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation only; the voice arrives behind a listener and is gone from where it was, and it holds no position to be contained at |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |

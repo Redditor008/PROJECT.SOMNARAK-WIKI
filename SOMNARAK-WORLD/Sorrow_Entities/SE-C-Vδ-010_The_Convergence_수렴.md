@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-010 [WS]` |
-| **Entity Type** | **Subject** — Breach-event manifestation |
+| **Entity Type** | **Subject** — Non-breaching: manifestation only; the three Birds form at one station and the fused mask comes into being where they already are, and parting them ends it |
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -154,23 +154,23 @@
 No Work Type has ever been applied to the fused form and the table is retained for the three components. What the station tracks instead is the drill: 188 timed separations in eleven years, median eight seconds, and three live formations at nine, eleven and eleven. The margin has never been more than three seconds and twice it was one.
 
 **Reading the response:** Success is a separation time under twelve seconds. There is no gauge reading during a formation — nobody is reading instruments — and the station records the drill times instead, weekly, as the only measure that has ever predicted anything.
-## Breach Behavior
+## Containment Event Behavior
 
-> *"Convergence has broken free and every sorrow is in it at once. It turns toward whoever is holding the Weighting Bird first; move the rest of the wing out from behind that Team, because the order of everything else has not mattered yet."*
+> *"Convergence has formed and every sorrow is in it at once. It turns toward whoever is holding the Weighting Bird first; move the rest of the wing out from behind that Team, because the order of everything else has not mattered yet."*
 | Field | Detail |
 |---|---|
-| **Breach Type** | Escape |
+| **Event Type** | Formation. Three Birds held at one station and parted again; nothing here escapes and nothing has ever attempted to. |
 | **Movement** | Floating and stationary. It has never moved during a formation and has never attempted to escape; it comes into existence where the three Birds already are and ceases when they are parted. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | Three Birds in one formation and the district's grief is the field they keep it in. What presses is the weather being made of what people owe each other. |
 | **First Target** | Whoever is holding the Weighting Bird. In all three formations the fused mask turned toward that team first, and the station has rotated the post monthly since the second. |
-| **Escalation** | Each turn free, Resolve drain +5 until suppressed. |
+| **Escalation** | Each turn the formation holds, Resolve drain +5. Parting the three Birds ends it; nothing struck at the fused mask has ever shortened an event. |
 
 ### Escalation Notes
 
 - **Event type:** Formation. It does not escape and has never attempted to; it comes into existence where the three Birds already are and ceases when they are parted.
 - **Containment priority:** Separation, not suppression. Three teams pull three Birds apart against the twelve-second clock; nothing is struck, because every second spent on anything else is taken from the window.
-- **Sorrow Gauge on breach:** Starts at 40%, rises 10%/turn.
+- **Sorrow Gauge on formation:** Opens at 40% and rises five points for each turn the three Birds are held in the same station. Parting them ends the formation and the reading with it; nothing done to the fused mask moves either number, which is why the procedure is three teams and a twelve-second clock.
 
 ## M.A.W. Equipment
 

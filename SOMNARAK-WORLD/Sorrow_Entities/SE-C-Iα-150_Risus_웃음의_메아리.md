@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-150 [LO]` |
-| **Entity Type** | **Object/Place** — Can spread |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the laughter spreads through the Commons as a region of sound, and there is no body or source to contain |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
