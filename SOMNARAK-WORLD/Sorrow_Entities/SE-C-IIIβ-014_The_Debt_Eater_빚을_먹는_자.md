@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A hunched humanoid scarcely a meter tall, wrapped in skin so thin and dry it is nearly translucent — the color of old, damp-stained paper — through which the dull white gleam of its bones shows. It has no mouth; its hands are oversized, soft, cold, and faintly sticky, like something that has been handling wet clay. It smells of dust and old ledgers. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile on foot. In breach it moves by balance rather than by geography, reaching the largest unsettled account before the nearest person. |
 | **Location** | SECTOR-C-01, Zone C — Collector use; contained |
 | **R.D. Comprehension Level** | 2 — Basic |
 

@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A quiet border place where every sound, however sharp, softens into a single sleeping breath; the ground is soft, the air presses down. Lead-heavy, it smells of wet stone; no body — only the hush that puts the world to sleep. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | A quiet border place rather than a creature: what extends is the sleeping breath, across a camp, at the pace the camp is being denied rest. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 3 — Advanced |
 

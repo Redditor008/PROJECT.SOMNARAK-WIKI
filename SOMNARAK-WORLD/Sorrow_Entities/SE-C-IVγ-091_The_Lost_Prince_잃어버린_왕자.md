@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A translucent child-like figure, half-flesh and half-light, wearing a small crown of crystallized tears. He flickers as he wanders, asking where the person who lost him has gone. Salt-damp and faintly warm, he smells of cold rain; his hand passes halfway through yours. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at a child's pace, room by room, and he has never passed a door without looking inside it. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 

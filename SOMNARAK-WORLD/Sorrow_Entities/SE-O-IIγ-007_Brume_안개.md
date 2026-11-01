@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Place-Phantasmal |
 | **Physical Form** | Non-Organic — Not a creature but a drifting bank of bone-white sorrow-mist that rolls across the Desolate — cold, damp, faintly sweet with the smell of old flowers. Those caught in it lose direction and memory; there is no body to strike, only the fog, and the muffled weeping inside it. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Rolls across the Desolate as a bank on the Han-flow current, widening about a hundred metres an hour and taking the direction the flow already has. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 1 — Initial |
 

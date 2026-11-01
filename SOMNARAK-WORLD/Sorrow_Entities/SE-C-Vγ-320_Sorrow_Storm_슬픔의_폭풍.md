@@ -44,51 +44,36 @@
 - No counter exists and none is possible. During a passage the order is shelter, roll-call and the discharge channels; containment is not among the options.
 - Extraction is separately authorised, taken from the crystalline rainfall after a wall clears, and never once during one.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — no body or heading; onset and boundary are measured by the full pressure ring per turn |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types. Resistance is a shelter statistic, not a route into the wall: observe remotely, confirm every figure across the full ring, shelter by floor, account for people by name before archives, rotate Ferrehan crews, and keep discharge routes running. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 13–30 per hit · Weight |
-| **Coherence modifier** | V — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Battle Phases state it without hedging — *there is no clash under the wall* — and two rows carry the same denial: *the Storm has not been roused by the crew*, and *the Storm has no intent and was not waiting*. It does not travel as a body; it forms over the city and runs the connected Han flows, reaching every zone within a watch.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Sovereign (V) — answers to nothing, forms on its own schedule, ends without transition |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A city-wide storm of concentrated Han — black clouds that are not weather, a rain of dark crystal, a pressure that bends walls out of true. No body, only the storm; lead-heavy and smelling of wet stone. |
+| **Perceptible to** | The pressure drop first, days before the black ceiling is visible; then the first gust carrying old grief like grit, and the crystal rain arriving after the ring has already said so. |
+| **Handling** | Acknowledge sorrow and shelter until the Storm passes. Sirens on full-ring confirmation only, shelter by floor, a named roll-call, people secured before archives, and resumption in stages on the ring's word. Shelter is success, not defeat of the weather. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | All zones — periodic phenomenon |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is barometers in triplicate, gauge tapes running continuously and the sounding line in the shaft, all read from the ring; Ferrehan is standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals — the only thing that moves the gauge, and it moves it a little. |
+| **Location** | All zones — periodic phenomenon |
 | **Resolution Condition** | Acknowledge sorrow and shelter until the Storm passes |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Gathering Clouds* [**Debuff**] } | "The pressure drops — and you feel every sorrow in the city pressing down with it." | [Ring pressure falls for days before the black ceiling is visible; the air thickens with accumulated Weight.] | *Personnel in the affected wards suffer Resolve pressure. Sound the sirens only on full-ring confirmation, shelter by floor, and begin the named roll-call; do not enter the forming wall for data.* **[10 Weight DMG [Weight]]** | When ring pressure remains below the standing minimum for three consecutive quarter-hours. |
-| { *The First Gust* [**Debuff**] } | "The wind comes — and it carries old grief like grit." | [The first sorrow-laden gust catches personnel still outside the shelter line.] | *Exposed personnel lose Resolve and cannot stand straight under the gust. Move immediately to the nearest staffed shelter by the lowest-pressure checked route; lowest pressure is not called safe.* **[10 Weight DMG [Weight]]** | When personnel remain in the open after the shelter order. |
-| { *The Hail* [**Attack**] } | "The hail falls — each stone a condensed, heavy sorrow." | [Dark crystal rain and fallen Weight masses hammer the exposed route during an active wall; the Storm has not been “roused” by the crew.] | *Inflicts Weight pressure and bruising exposure. Keep the group moving under monitored shelter, clear only fallen load from the evacuation line, and never aim a Maul or discharge at the cloud layer.* **[14-22 Weight DMG [Weight]]** | When crystal rain is falling on personnel outside adequate shelter during an active wall. |
-| { *The Eye* [**Attack**] } | "The ring reads a false clear, one station against the others, and the crew that acts on it walks back under a wall that never left." | [An unconfirmed local lull is mistaken for passage; the Storm has no intent and was not waiting.] | *Heavy Weight falls on whoever left the shelter line. One station is no station: confirm pressure across the full ring and resume only in stages on the ring's word.* **[24-36 Weight DMG [Weight]]** | When a single-station clear reading is acted on before confirmation across all stations. |
-| { *The Full Tempest* [**Ultimate**] } | "The whole storm breaks at once, and the city finds out what it has been holding." | [A confirmed wall runs at full citywide pressure for one night to nine days, with crystal rain in every zone and other holdings pressing harder on containment.] | *All affected wards take Weight pressure for three turns. Secure people before archives, maintain discharge routes, rotate sheltered crews, and expect structural damage and new crystallizations after passage; shelter is success, not defeat of the weather.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 75% during a full-ring-confirmed wall. |
+| Event | What the storm does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Gathering Clouds* [**Register**] } | Drops ring pressure for days before anything is visible, and the air thickens with accumulated Weight across the affected wards. | Confirms on the ring before it is confirmed by eye, and takes shelter by floor with a named roll-call before the ceiling arrives. | Nothing is reported upward on one station. That rule was written by the false-clear and the wall inscription still records what it cost, which is why the register is a ring reading and not a sighting. |
+| { *The First Gust* [**Exposure**] } | Catches whoever is still outside the shelter line and carries old grief like grit, so that the worker cannot stand straight under it. | Moves to the nearest staffed shelter by the lowest-pressure checked route, and marks the lowest pressure as checked rather than safe. | Lowest pressure is not called safe anywhere in this file. The distinction is the whole of the evacuation discipline here, and it is why the route is chosen by figure rather than by distance. |
+| { *The Hail* [**Refusal**] } | Falls on the exposed route as dark crystal and fallen Weight mass, and does not come at anybody: it falls where the crew already is, out of a wall the crew was warned about. | Keeps the party moving under monitored shelter, clears fallen load from the evacuation line only, and never aims a Maul or a discharge at the cloud layer. | The row that reads like an attack is weather doing what weather does to people standing in it. Aiming at the cloud is the one prohibited act, and the prohibition is written into the response rather than left to judgement. |
+| { *The Full Tempest* [**Overload**] } | Runs at full citywide pressure for one night to nine days, with crystal rain in every zone and every other holding in the city pressing harder on its own containment. | Secures people before archives, holds the discharge routes, rotates sheltered crews, and expects structural damage and new crystallizations after passage. | The passage is the dose and there is no shorter one. The crews who come out changed are the ones who stood longest at the ballast anchors, which is work the roster cannot avoid giving to somebody — and the file writes that down rather than smoothing it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The Storm is confirmed on the ring before it is confirmed by eye — falling pressure over days, read across every station, with the crystalline rain and the cloud ceiling arriving after it. Nothing is reported upward on one station; the false-clear taught the ring that, and the wall inscription still records what it cost. The team takes shelter by floor and marks its withdrawal before the cycle opens.
-2. **Clash:** There is no clash under the wall. Crews work earthed and ballasted, call the ring pressure aloud at the quarter-hour, and log their own heart rates beside the dials so that dread and weight can be told apart.
-3. **Resolution:** There is nothing to resolve and the file says so. The passage ends when the ring says it ends; the crews come up, the roll-call is repeated against the floor lists, and resumption runs in stages on the ring's word rather than on anybody's judgment that the sky looks better. Containment is not among the outcomes available here, so the recorded condition is the shelter itself.
+1. **What is confirmed:** the full ring's pressure across every station, the floor lists for the roll-call, and the shelter floors with their discharge routes.
+2. **What the watch does:** Viderehan for the instruments read from the ring and Ferrehan for standing it out inside the perimeter on ballast anchors, earthed, with the figures called aloud at the quarter-hour.
+3. **How it closes:** the close is the file's documented condition: **Acknowledge sorrow and shelter until the Storm passes** — and resumption runs in stages on the ring's word rather than on anybody's judgement that the sky looks better.
 
 ### Consequences
 

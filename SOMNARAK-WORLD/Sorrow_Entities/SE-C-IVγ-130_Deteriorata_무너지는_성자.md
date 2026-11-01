@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A saint-like humanoid of cracking stone sheathed in dark Han-crystal; pieces crumble constantly from its body but dissolve before reaching the floor, so it is forever falling apart and forever whole. Lead-cold and heavy, it smells of wet stone. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at a slow walk that ends in a kneel wherever it stops, carrying the suspended field with it. It has never pursued a worker. |
 | **Location** | SECTOR-B-02, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |
 

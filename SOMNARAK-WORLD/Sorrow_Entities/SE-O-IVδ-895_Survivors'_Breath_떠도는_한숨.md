@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — An ethereal breath moving through the Old Lament as a voice with no body — visible only as a pale trail hanging in cold air. Bloodless-cold, it smells of ash; a sigh that left its speaker and never stopped wandering. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | A voice with no body moving through the Old Lament, visible only as a pale trail in cold air. Nobody is targeted; the rooms it crosses are what thins. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 

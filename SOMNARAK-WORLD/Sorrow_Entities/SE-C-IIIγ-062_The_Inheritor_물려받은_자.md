@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A muscular, middle-aged man of true flesh and bone, fists clenched at his sides, his face locked between anger and exhaustion. His skin is flushed dark, heat radiating from him; tendons stand out in his neck and forearms. He is fever-hot, and the air carries the smell of char and old smoke. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at an unhurried walk with no particular direction — all four breaches on file ended in a corridor it had no reason to be in. |
 | **Location** | SECTOR-C-01, contained with the Debt Triplets |
 | **R.D. Comprehension Level** | 2 — Basic |
 

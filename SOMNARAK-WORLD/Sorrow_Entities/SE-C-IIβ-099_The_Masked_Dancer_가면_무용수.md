@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A graceful humanoid of true flesh and bone, ordinarily dancing in precise repeated steps, with shared-performance pauses documented below; its face is hidden behind a smiling mask fused to the skin. The body beneath is fever-hot and fluid; the real face is unknown. It smells of char and old smoke. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at a dancing pace that follows rather than hunts, and it has never been recorded continuing without somebody in view of it. |
 | **Location** | SECTOR-C-01, Mask Market — contained |
 | **R.D. Comprehension Level** | 2 — Basic |
 

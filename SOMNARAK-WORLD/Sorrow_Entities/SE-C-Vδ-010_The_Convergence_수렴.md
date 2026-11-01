@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Body — fusion of the Three Birds |
 | **Physical Form** | Mixed — A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies merged into one Sovereign form, wings layered over wings, the three beaks closed into a single mask, markings braided blue-crimson-white. It radiates all three sorrows at once; lead-heavy and cold, it smells of cold rain, char, and ash together. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Floating and stationary: it comes into existence where the three Birds already are, has never moved during a formation, and ceases when they are parted. |
 | **Location** | Forms only when Entities 031–033 breach simultaneously |
 | **R.D. Comprehension Level** | 3 — Advanced |
 

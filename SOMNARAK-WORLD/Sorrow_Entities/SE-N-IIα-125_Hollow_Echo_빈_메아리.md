@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A voice with no stable body — at times a faint translucent outline, but mostly just sound, present everywhere at once. Bloodless-cold, it smells of ash; nothing to see, only the echo repeating a grief with no source. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | A voice without a stable body; it is present wherever in the district a name is being reached for, and has never been timed crossing a room. |
 | **Location** | Zone D, Echo Gardens — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
 

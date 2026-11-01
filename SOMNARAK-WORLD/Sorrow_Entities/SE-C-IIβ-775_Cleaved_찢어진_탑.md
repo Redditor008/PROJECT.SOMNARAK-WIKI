@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A tall figure whose body resembles a tower split cleanly down the middle, burning at the seam, its upper half leaning toward a skyline that is not there. Stone-flesh and live fire braided together; bloodless-cold and fever-hot. It smells of ash and char. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at a walking pace to the tallest standing structure within reach, then leans on it until it comes down. It goes for skylines and not for people. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 

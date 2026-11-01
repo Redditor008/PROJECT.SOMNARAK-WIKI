@@ -44,51 +44,36 @@
 - Viewing is single-pass and logged by name. Repeat viewers report the face becoming familiar, which the counselling wing treats as the one genuine hazard this holding has.
 - Extraction is separately authorised and has been granted four times, all four for vessel work on the frame rather than the glass. The glass is not to be struck, moved, cleaned, or covered.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — it does not travel. The rise is vertical, within the surface, and is measured in metres of height rather than metres per second |
-| **Resistance** | 15% against Weight pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 217/217 |
-| **Han Pressure [ATK]** | 3–9 per hit · Weight |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row is the whole of it: it *occupies one reflective face and rises within it*, has never left the plane of a surface, and has never crossed the room. The one injury on the file is dated and caused by a worker — in Year 4221 somebody struck the glass, and nine kilograms of it came down at a weight nothing that size should have.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A dream-figure rising out of a mirror's surface, its reflection arriving first and the body pulling up after, as though it climbs out of its own image. The mirror stays behind it, empty, and the rise is measured against a scale painted on the wall. |
+| **Perceptible to** | The height of the glass's lower edge at the eighteen-hundred reading — nothing else. A worker's impression of how high it looks has disagreed with the scale in roughly a third of logged watches. |
+| **Handling** | Read the ward's name aloud from the strike list, with its date and the signing officer's name, and add nothing the list does not contain. Pugnahan is prohibited; Flerehan holds the reading level; the single-pass rule exists because of nine workers who passed the fourth viewing before anybody was counting. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 217/217 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone C, Mask Market |
+| **Valid Work Types** | All four have responses and only three may be used. Viderehan is primary and the reading falls on the following evening in about two watches out of three; Ferrehan is standing before a face that is nobody's for a watch; Flerehan holds the reading to the centimetre and nineteen flat years of it are in the series; Pugnahan is prohibited. |
+| **Location** | Zone C, Mask Market |
 | **Resolution Condition** | The ward's name read aloud from the strike list, with its date and the name of the officer who signed it, and nothing added that the list does not contain |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Rise* [**Debuff**] } | "Forty centimetres this evening. It was thirty-one yesterday and nobody in the Market did anything differently." | [The glass stands higher against the painted scale.] | *Resolve -10 while the watch tries to account for it.* **[10 Weight DMG [Weight]]** | At the eighteen-hundred reading. |
-| { *The Face That Is Nobody's* [**Debuff**] } | "It is not you and it is not anyone you know, and the next person in sees the same one." | [The face in the glass is consistent between viewers and matches no living person.] | *Resolve -10; repeat viewers report it becoming familiar.* **[10 Weight DMG [Weight]]** | On a second viewing by the same worker. |
-| { *The Prohibited Strike* [**Attack**] } | "Hit it once, in Year 4221, and nine kilograms of glass came down at a weight nothing that size should have." | [A shard falls with mass well beyond its size.] | *Heavy Weight pressure and one crush injury; the only injuries on this file.* **[14-22 Weight DMG [Weight]]** | If the glass is struck, which is prohibited. |
-| { *Two Point Six* [**Attack**] } | "Nine wards struck in one sitting, and by the Ninthmonth the glass was higher than a man could reach and stopped there." | [The rise reaches the top of the painted scale.] | *Heavy Weight pressure across the watch; the Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | At a rise above two metres. |
-| { *Every Glass in the Market* [**Ultimate**] } | "Modelled only. Nothing in this room has ever affected a surface in the next one, and the Market's other mirrors have been watched for nineteen years." | [Projected spread to adjacent reflective surfaces.] | *Area Weight pressure over three turns, unobserved and retained as a planning figure.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | Gauge 65%, not reached. |
+| Event | What the mirror does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Rise* [**Register**] } | Stands higher against the painted scale — forty centimetres this evening against thirty-one the day before — and nobody in the Market did anything differently. | Reads the scale on the wall at eighteen hundred, not the glass, and enters the height in metres of the lower edge above the floor. | Baseline 0.4 metres, floor zero, ceiling 2.6. The rise is the only measurement this holding has ever produced, and it is taken from a painted scale precisely because the eye cannot be trusted with it. |
+| { *The Face That Is Nobody's* [**Exposure**] } | Shows the same face to every viewer, matching no living person, and repeat viewers report it becoming familiar at around the fourth viewing. | Enforces the single-pass rule, and records the name any worker gives the face without putting that name on the file. | Eleven workers have given the Market a name for it, no two the same, and all eleven were certain. That line is why the name goes in the margin and not in the record, and why the fourth viewing is the documented edge. |
+| { *The Prohibited Strike* [**Refusal**] } | Does not strike back. The glass breaks downward under a hand that hits it, with a mass out of all proportion to its size, and two workers were injured by falling glass that a worker had knocked loose. | Does not touch the glass with anything, and if it has been struck, treats the crew for crush injury and re-reads the scale at the next evening measurement. | The whole of the injury on this file is dated, one act, and self-inflicted. The glass stood eleven centimetres higher the next evening and did not come back down for a year, which is the only retaliation the record contains and it is a measurement. |
+| { *Two Point Six* [**Overload**] } | Reaches the top of the painted scale and stops there — nine wards struck in one sitting, and by the Ninthmonth the glass was higher than a man could reach. | Halts all work on the glass, reads the strike list in full, and re-enters the ceiling of the scale as the binding figure. | Nothing in this room has ever affected a surface in the next one, and the Market's other mirrors have been watched for nineteen years. The ceiling is a physical stop and the file treats it as the limit of the holding rather than of the instrument. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is checked (read the scale on the wall, not the glass. The rise is the only measurement this holding has ever produced, and a worker's impression of how high it looks has disagreed with the scale in roughly a third of logged watches) and Mirror of Rising is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** Viderehan and Ferrehan lower the gauge, Flerehan holds it level, Pugnahan raises it and is prohibited. The reading is the rise: the height in metres of the glass's lower edge above the floor at the eighteen-hundred measurement, read off a scale painted on the wall behind it. Baseline 0.4 m. Floor zero, ceiling 2.6 m.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Name what is known without inventing the missing parts**.
+1. **What is confirmed:** the eighteen-hundred reading against the painted scale, the pass each worker is on, and the strike-list extract with its date and signing officer.
+2. **What the watch does:** Viderehan for the name read aloud from the list with nothing added, Ferrehan for the watch stood before the face, and Flerehan held flat — with the glass untouched and the single-pass rule kept.
+3. **How it closes:** the close is the file's documented condition: **The ward's name read aloud from the strike list, with its date and the name of the officer who signed it, and nothing added that the list does not contain** — with the reading entered in metres and nothing reverted.
 
 ### Consequences
 

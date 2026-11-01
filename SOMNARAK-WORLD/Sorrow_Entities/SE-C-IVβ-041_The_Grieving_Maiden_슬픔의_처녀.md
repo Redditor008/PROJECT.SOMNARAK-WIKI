@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A young woman's figure of true flesh and bone, weeping without cease — skin pale and damp, hair plastered, dress soaked as though she has stood in the rain for years. She is warm, alive, and unbearably sad; tears track her cheeks, and the air smells of cold rain on old cloth. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach on a route to her sisters, making no distinction between persons: she goes through whatever is in the way and toward nothing else. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A woman's figure, soaked through, moving slowly and only toward her sisters' side of the corridor. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Grieving Maiden cycle against the previous reading. |
+| **Position / movement** | Mobile in breach on a route to her sisters, going through whatever is in the way. Recorded at every Grieving Maiden cycle against the previous reading. |
 | **Material / signature** | Lament. Warm damp skin, cold rain on old cloth, continuous low weeping, and standing water that has to be drained. |
 | **Distinctive markers** | Sister-distance, sump volume, and whether the story she is telling has reached the illness yet. |
 | **Identification** | Check the corridor. If the other two are not within sister-range, whatever you are looking at has already been moved and the ledger will show it by evening. |

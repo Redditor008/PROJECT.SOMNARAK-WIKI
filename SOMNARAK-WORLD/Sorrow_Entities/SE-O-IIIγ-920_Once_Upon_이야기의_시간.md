@@ -325,7 +325,7 @@ What recurs most often are conclusions rather than beginnings, and the file repo
 
 - One of the first catalogued **Time-Tale** entities in Somnarak.
 - Nothing else on the 90x shelf is filed as an hour first and a story second; that pairing is what earned it a class of its own.
-- This register does not blanket an area. It walks up to one person with a story attached, and that person is always from somewhere in the district.
+- This register does not blanket an area. It gives a story to one person at a time, and that person is always from somewhere in the district.
 
 ## Document Information
 

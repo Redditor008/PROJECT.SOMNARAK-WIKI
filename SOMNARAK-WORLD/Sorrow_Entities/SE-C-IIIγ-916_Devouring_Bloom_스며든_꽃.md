@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A giant carnivorous bloom the size of a cart, petals of dense black crystal that snap like a mouth — a mobile plant-beast dragging itself on thick root-legs toward prey. Lead-heavy, it smells of wet stone and rot. |
-| **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
+| **Movement** | Drags itself on thick root-legs at a pace that can be outwalked, and crashes through walls slowly. The spores travel ahead of it and are the reason the breach is dangerous. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
 

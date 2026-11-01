@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A translucent figure, half-flesh and half-light, its mouth open in a scream that produces no sound at all — the loudest silence there is. Bloodless-cold, it smells of ash; the shape of a voice never allowed to be heard. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Leaves the ward at walking pace and goes to the most populated space in the facility — four breaches, four mess halls or handover corridors, and no pursuit of any individual on record. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 

@@ -15,7 +15,7 @@
 | **Element** | Weight |
 | **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — Not a body but a floating, crystallized scream: a heavy, dark shard of solidified sound that drifts on sorrow-currents, visible as a jagged weight of compressed air. It is lead-cold and smells of wet stone; where it passes, the silenced shout presses against the chest. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Drifts on the sorrow-currents and does not steer. The shard is carried, and where it comes to rest is where the district’s undischarged obligation is heaviest. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 

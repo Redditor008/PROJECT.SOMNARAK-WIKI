@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning humanoid whose limbs are woven from rope — true fibre gone to ember — fading in and out of visibility, the rope severed at both ends so it leads to and from nothing. Fever-warm, it smells of cold rain on burning hemp; it reaches as though asking to be tied. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at a traveller's pace along the corridors, the offered end held out to whoever it passes. Nobody is hunted; everybody is asked. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 1 — Initial |
 

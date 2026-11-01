@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A patch of dark flowers that uproot and walk on thin stem-legs — a swarming bloom-creature that returns no matter how often crushed, petals like tiny mouths. Lead-cold, they smell of wet stone. |
-| **Movement** | Mobile — moves as a creature. |
+| **Movement** | Walks out on thin stem-legs toward ground it was previously removed from, releasing spores along the route. Nobody is sought out. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
 

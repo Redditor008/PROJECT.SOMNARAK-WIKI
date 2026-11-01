@@ -44,52 +44,36 @@
 - Transcription is by hand, on slate, and the earlier instruction to the contrary was the worst error this file has carried: there is no instrument that can take it, and the two attempts to use one produced blank plates and cost the holding four months.
 - Extraction is separately authorised and has never been granted. There is no vessel and nothing to extract, and the line is kept because it is asked about every year.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — nothing has ever been timed; the figure previously entered here was an encounter convention and is withdrawn |
-| **Resistance** | 20% against Void pressure; 10% against other pressure types. The working safeguards are silence, names handwritten independently on slate, three paper copies in three listed places, several consenting carriers, and transfer witnessed to confirm nothing was spoken |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 212/212 |
-| **Han Pressure [ATK]** | 2–8 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Speed row withdraws the fight in one line — *nothing has ever been timed; the figure previously entered here was an encounter convention and is withdrawn* — and the Movement row places it nowhere at all: ambient, present wherever in the Old Lament somebody is reaching for a name. The consequences end with the same verdict: *there is nothing to event out of.*
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Echo (II) — Repeats fading |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A fading voice and a partial silhouette that appears only when somebody tries to remember a name on the tip of their tongue. Bloodless-cold, smelling of ash; catch it and the name is gone — the shape of a name that will not come back. |
+| **Perceptible to** | The lapse itself. A worker reaches for a familiar name and cannot retrieve it, and the written record stays correct throughout, which is why the slate and not the memory is the instrument. |
+| **Handling** | Keep the area silent. Write by hand on slate with a second writer present, compare the slates before either leaves, verify the three paper copies, and preserve every disagreement rather than reconciling the carriers into one version. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 212/212 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | Zone B, Old Lament — ambient |
+| **Valid Work Types** | All four. Flerehan is written grief rather than spoken, and the name holds firmer for the rest of the watch; Viderehan gives fragments of the man that rest on his own account and could not have been corroborated by anybody; Ferrehan is holding a name you cannot say and cannot verify; Pugnahan produces literally no data and the row is kept so nobody has to find that out themselves. |
+| **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | The name written, by hand, with a second person present who also writes it; nothing said aloud; the slates compared before either leaves; and the gauge below 25% |
-| **Management** | Keep the area silent; write independently on slate, compare by passing the slates, verify all three paper copies, and preserve every disagreement rather than reconciling the carriers into one version. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Unnaming* [**Debuff**] } | "You try to say your own name — and the word is gone. The name exists, but you cannot reach it." | [A naming lapse opens in the Old Lament; the incomplete silhouette forms at the edge of attention as the target reaches for a familiar name.] | *Target suffers a Void mark; the lapse is answered in writing, not by trying to say the word.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target first reaches for a familiar name in the Old Lament and cannot retrieve it. |
-| { *The Spreading Blank* [**Debuff**] } | "First the name goes — then the face, then the voice — and soon, the proof you existed at all." | [The lapse extends in the recorded order: name, then face, then voice and evidence.] | *Target loses Clarity; their partner checks the independently written identity record and the watch continues silently on slate.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the lapse extends beyond a name to a face or voice, or the target cannot retrieve their own name without reading it. |
-| { *The Erasure Strike* [**Attack**] } | "You say it out loud, to fix it, and it goes out of you between the first syllable and the second, and you are left holding the shape of having known something." | [The spoken name is lost from the speaker.] | *Void damage; the speaker's slate for that watch is void.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When anything is spoken aloud in the area. |
-| { *The Total Unnaming* [**Attack**] } | "Thirty-one disagreements across the slates in one month. Not one carrier had spoken. Every one of them had been certain." | [The monthly slates diverge position by position while every carrier remains certain.] | *Heavy Void erosion across the carriers; no Gauge rise is inferred from the count. The three paper copies are verified and the quarter's closures pulled; the month's series stands exactly as written.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the monthly divergence count rises above twenty. |
-| { *Everyone Is Forgotten* [**Ultimate**] } | "Now no one can remember their own name — and without names, people become voids." | [The modelled transform spreads as a pale tide through the ambient district; names fail first, then faces and voices.] | *All personnel in the affected district suffer Void erosion for three turns; pairs fall back on independently written cards/slates and no name is chased aloud.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches ≥45%. |
+| Event | What the lapse does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Unnaming* [**Register**] } | Opens a lapse and forms the incomplete silhouette at the edge of attention while the worker is reaching for a familiar name, and the word does not arrive. | Answers the lapse in writing and not by trying to say the word; the slate is opened before anybody attempts the name. | There is nothing to recognise and no marker to check — the file says so and means it. What is verified is the slate: the carriers write, the slates are compared, and the count is the holding. |
+| { *The Spreading Blank* [**Exposure**] } | Extends the lapse in the recorded order — name, then face, then voice and evidence — while the written record stays correct all the while. | Has the partner check the independently written identity record, keeps the watch silent, and continues on slate only. | The written record is the whole defence and it is the reason the file distrusts certainty. A Warden who is sure of a name is in exactly the same position as one who is not, and both write before they speak. |
+| { *The Erasure Strike* [**Refusal**] } | Takes the spoken name out of the speaker between the first syllable and the second, so that the worker is left holding the shape of having known something. | Strikes the speaker's slate for the watch, records the loss, and does not ask them to try again. | What is lost is a word and never a body. The row is titled for a strike and describes a syllable vanishing, which is why the response is a voided slate rather than a casualty report. |
+| { *The Total Unnaming* [**Overload**] } | Diverges the monthly slates position by position while every carrier remains certain — thirty-one disagreements in one month, and not one of them had spoken. | Verifies the three paper copies, pulls the quarter's closures, and enters the month's series exactly as written with no gauge rise inferred from the count. | Two disagreements is baseline and the recorded range is zero to thirty-one. The series stands as it stands, because the entire value of this holding's record is that it was never reconciled — and the twenty-six rotated Wardens found entering uncorroborated statements elsewhere are the file's evidence that it does not stay in the room. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team identifies Forgotten Name by there is nothing to recognise and no marker to check. What is verified is the slate: the carriers write, the slates are compared, and the count is the holding. A Warden who is certain of the name is in exactly the same position as one who is not, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** All four Work Types are valid and none is spoken. The reading is the divergence: at the monthly check each Warden formally carrying the name writes it on a slate alone and without conferring, and the slates are compared position by position. Two disagreements is baseline. The recorded range is zero to thirty-one.
-3. **Resolution:** The watch closes only when the name has been written by hand with a second writer present, nothing has been said aloud, the slates have been compared before either writer leaves, the three paper copies check out, and the Gauge is below 25%. Disagreements remain disagreements; suppression is not a route.
+1. **What is confirmed:** the slates opened before anybody attempts a name, the second writer present, and the three paper copies with their listed locations.
+2. **What the watch does:** Flerehan for written grief and Viderehan for the fragments that rest on his own account, with Ferrehan for holding a name that cannot be spoken or verified — and Pugnahan left alone.
+3. **How it closes:** the close is the file's documented condition: **The name written, by hand, with a second person present who also writes it** — nothing said aloud, the slates compared before either leaves, and the gauge below 25%.
 
 ### Consequences
 

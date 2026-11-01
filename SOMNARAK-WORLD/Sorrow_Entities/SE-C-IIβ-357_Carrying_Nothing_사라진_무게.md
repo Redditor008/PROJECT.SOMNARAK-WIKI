@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A humanoid wreathed in slow fire, carrying nothing, yet the air behind its back bends and sags under an invisible weight no one can see. Motionless until approached, then it turns. Fever-hot, it smells of char and old smoke; the unseen burden presses on anyone near. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach only as far as the next stack of sealed records, where it stands exactly as it stands here. It does not pursue. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A burning humanoid figure carrying nothing, though the air around its back bends under an invisible weight. It stands motionless until approached. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on Carrying Nothing neither has ever been assumed. |
+| **Position / movement** | Mobile in breach only as far as the next stack of sealed records, where it stands exactly as it stands here. Posture and distance are logged because on Carrying Nothing neither has ever been assumed. |
 | **Material / signature** | Grudge. Fever-hot, char and old smoke, continuous flame and no residue of any kind. |
 | **Distinctive markers** | The sighted displacement from the two floor marks, the swept and empty floor, and the turn at a half-metre of the same distance every time. |
 | **Identification** | If it is moving before you approach, it is not this holding. Stop and report it. |

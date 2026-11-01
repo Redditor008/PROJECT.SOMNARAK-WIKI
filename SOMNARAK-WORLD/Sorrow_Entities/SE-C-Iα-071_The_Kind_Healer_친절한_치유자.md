@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A gentle humanoid of soft, glowing Han-crystal — not cold but comfort-warm, its surface pliant like skin held over light, its hands warm and faintly luminous. It radiates kindness; the air is salt-damp, smelling of cold rain on old cloth. (Twelve blessings turn it into the Dawn of Mourning.) |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at an unhurried pace toward the injured. It pursues nobody and has never struck anybody. |
 | **Location** | SECTOR-B-02, Zone B — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A humanoid of warm lit crystal, roughly adult height, with hands that glow more strongly than the body. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every The Kind Healer cycle against the previous reading. |
+| **Position / movement** | Mobile in breach at an unhurried pace toward the injured, and it pursues nobody. Recorded at every Kind Healer cycle against the previous reading. |
 | **Material / signature** | Lament. Comfort-warm crystal, cold rain on old cloth, a steady low light, and the shudder that follows every treatment. |
 | **Distinctive markers** | Shudder length in seconds, blessing tally, hand brightness, and the direction it walks when somebody in the room is hurt. |
 | **Identification** | Use existing observations of warm crystal, luminous hands and unhurried movement from behind the rail. An approach toward an apparently uninjured person warns of an undisclosed injury; it is not an invitation to contact. |

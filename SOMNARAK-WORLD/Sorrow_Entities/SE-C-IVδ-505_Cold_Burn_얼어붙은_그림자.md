@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A figure made from frozen shadow — dark, still, cold — whose edges burn crimson the instant no one looks directly at it. Bloodless-cold, it smells of ash; you only ever see it still out of the corner of your eye. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach along its own lattice, continuing its rounds of doors, seals and corners. It has never pursued anybody who kept looking at it. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A figure made from frozen shadow, with edges that burn crimson when someone looks away. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Recorded at every Cold Burn cycle against the previous reading. |
+| **Position / movement** | Mobile in breach along its own lattice, continuing its rounds of doors, seals and corners. Recorded at every Cold Burn cycle against the previous reading. |
 | **Material / signature** | Void. Bloodless-cold, ash; cold enough that the Forge's proximity does not overcome it, and the chamber thermometer is the holding's second instrument. |
 | **Distinctive markers** | The lattice along the wall seams, the chamber temperature, and a figure with no caster. |
 | **Identification** | If you can see its edges burning, you have already looked away. Report it; do not correct it quietly. |

@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A ten-meter feminine figure, warm-fleshed despite her size, her skin dark and damp like a mother who has wept in the rain for years; her arms can stretch the full span of the containment room. Her face is beautiful and warm, her eyes hollow pits that drink the light. She reaches to enfold — the embrace of Soojin (수진), who lost her two children to the Han and will not let another child go. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at the pace of someone searching a street, to the smallest person on the floor and to nobody else. |
 | **Location** | SECTOR-D-01, Zone D — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ten-meter feminine figure, crystal at distance and flesh near to, with a room-wide reach. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. The Smothering Mother file carries the series rather than a single reading. |
+| **Position / movement** | Mobile in breach at the pace of someone searching a street, toward the smallest person on the floor. The Smothering Mother file carries the series rather than a single reading. |
 | **Material / signature** | Grudge. Dark damp surface, hollow light-drinking eyes, 37°C, and a lullaby audible through the door. |
 | **Distinctive markers** | Arm extension against the painted line, interval between reaches, room temperature, and whether the lullaby stops when the door opens. |
 | **Identification** | If the room is cold, this is not her, whatever the door says. |

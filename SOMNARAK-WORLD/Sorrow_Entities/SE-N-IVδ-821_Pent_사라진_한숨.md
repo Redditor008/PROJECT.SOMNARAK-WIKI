@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A place where a sigh should be heard but is not — the air burns with the pressure of exhaustion withheld, never released. Fever-hot, it smells of char; no body, only the held breath of a weary city. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | A place and not a body — the trapped breath fills rooms where exhaustion is being held in, and has no position that could be approached. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 

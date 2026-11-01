@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Non-Organic — A humanoid judge forged entire from black iron — featureless, its face a sealed smooth plate, a crimson scale embedded in its chest where a heart would be. The metal is fever-hot and smells of char; it moves with the weight of a verdict. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at a walking pace to the room where a decision is being taken about somebody who is not in it, where it stands and does nothing else. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 3 — Advanced |
 

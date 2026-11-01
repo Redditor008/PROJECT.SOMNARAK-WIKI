@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A twenty-meter humanoid of true flesh gone dense and dark — thickened, leaden tissue knotted with Han-crystal growths, warm and impossibly heavy. It walks slowly and with care, stepping around buildings and people as if afraid to break them. Its footfalls shake the ground; it smells of wet stone. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach off the tracked route, in deliberate steps, with no direction toward anybody. What it goes through, it goes through because the route no longer exists. |
 | **Location** | Zone D — wanders, semi-contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -119,7 +119,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A twenty-metre humanoid of leaden tissue and crystal, upright, moving at a walking pace well below its stride. |
-| **Position / movement** | Mobile — walks upright; can breach and pursue. Posture and distance are logged because on The Lonely Giant neither has ever been assumed. |
+| **Position / movement** | Mobile in breach off the tracked route, in deliberate steps, with no direction toward anybody. Posture and distance are logged because on The Lonely Giant neither has ever been assumed. |
 | **Material / signature** | Weight. Dark dense tissue, crystal at the joints, warmth at close range, wet stone on the air, and a ground tremor at about forty metres. |
 | **Distinctive markers** | Route length for the day, structures contacted (invariably none), whether it sat, and who sat with it. |
 | **Identification** | Watch it reach an obstacle. If it goes round, this is the holding; nothing else of this mass in the archive bothers. |

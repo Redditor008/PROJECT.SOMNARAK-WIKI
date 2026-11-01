@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Forty-six movement rows that said nothing (2026-11-01)
+
+Twenty-third batch, and the largest single edit of the run by file count — not because anything was decided, but because one sentence had been standing in for an answer.
+
+**The sentence.** `Mobile — walks upright; can breach and pursue.` appeared, word for word, in thirty dossiers. `Mobile — drifts or flows through the area.` appeared in ten more, and `Mobile — moves as a creature (crawls, walks, slithers, or prowls).` in six. Each of those files carries a `## Breach Behavior` section written with real care — *it stands there*, *it goes for skylines and not for people*, *it has never run and has never hidden*, *it pursues nobody and has never struck anybody* — and each of them contradicted the classification row three sections earlier. A reader who did both passes had to decide which of the two documents to believe.
+
+**What replaced it.** Forty-six bespoke rows, every one drawn from the file's own breach record. **Gavel** now says it walks to the room where a decision is being taken about somebody who is not in it and stands there. **The Lonely Giant** goes off the tracked route in deliberate steps with no direction toward anybody. **The Debt Eater** moves by balance rather than by geography and reaches the largest unsettled account before the nearest person. **Covering six more**, the `Position / movement` rows inside the Detailed Appearance tables, which carried the same template sentence a second time.
+
+**Where the file really does hunt, the row now says so** — Somnium takes the most tired person in the corridor, Broken Tear finds whoever carries a sorrow of the same shape, Ephemera takes deliberate steps through whoever the wind has put downwind, The Repeated Survivor loops to where personnel have just been. The difference between those four and the other forty-two is now visible at a glance instead of hidden behind a shared sentence.
+
+**Four conversions.** **Swallow** (`C-IVδ-767`) — its Clash phase reads *there is nothing to strike and nothing that strikes*, and the Speed row agrees. **Sorrow Storm** (`C-Vγ-320`) — *there is no clash under the wall*; the storm has not been roused and has no intent. **Mirror of Rising** (`C-Iα-392`) — occupies one reflective face, has never crossed the room, and the single injury on the file is dated to a worker hitting the glass in Year 4221. **Forgotten Name** (`N-IIα-215`) — the Speed row withdraws the fight outright: *the figure previously entered here was an encounter convention and is withdrawn*.
+
+**One contradiction caught in a trivia bullet.** Once Upon (`O-IIIγ-920`) still said in its Trivia section that the register *walks up to one person with a story attached* — in a file whose Movement row is stationary and whose Appearance says the source is *an hour with a fixed spatial reach, not a narrator's body*. It now gives a story to one person at a time, which is what everything else in the dossier already said.
+
+**The possession queue, closed.** Five files were carried forward as possession candidates. None of them is one, and the reason is the same in each case: possession is a **non-breaching** category, and all five carry `Can breach` with an Escape breach type. Rising Wall, Gavel and Barrier of Nothing walk; Border Tree creeps on its roots; Yggdrasil Wound's halves crawl apart. The evidence test asks for a worker acting under the holding, and what these five describe is a room being altered or a corridor being walked. Animus (`O-Iα-108`) is the wing's possession record — *a voice that stays on its route and takes the warden who answers it* — and it was converted when the category was written.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and forty-one Contact Records.**
+
 ## The last two stationary holdings (2026-11-01)
 
 Twenty-second batch, and the end of a queue. After this one, every non-breaching dossier in the archive whose Movement row says it cannot close distance either carries a Contact Record or carries a written reason above its stat line for keeping the combat table.

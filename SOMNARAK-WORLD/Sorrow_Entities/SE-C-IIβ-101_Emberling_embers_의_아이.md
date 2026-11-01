@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A small child, perhaps five years old, its body woven from true living tissue and slow-glowing embers — warm ash-skin, ember-veins, a heart of coal. It cradles a single ember that never dies. Fever-warm and faintly smoking, it smells of cold rain on dying coals. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at a walk — it does not run, hide or force a door — taking the shortest route to wherever people are and holding the ember up in the open. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
 | **R.D. Comprehension Level** | 1 — Initial |
 

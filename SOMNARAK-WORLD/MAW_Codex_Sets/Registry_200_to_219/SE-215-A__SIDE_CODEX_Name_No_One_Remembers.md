@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | Zone B, Old Lament — ambient |
 | Primary Form | A fading voice and incomplete silhouette appearing at the instant someone almost remembers a name. |
-| Gauge / Han Pressure | 25–40% starting range / Void 2–8 per hit |
+| Gauge / Han Pressure | 212/212; starts 25–40% / Void — no attack pattern; the divergence across independently written slates is the instrument |
 | Movement | Localized to the naming lapse; apparent field movement up to 1.30 m/s during escalation |
 | Comprehension Level | 1 — Initial |
 | M.A.W. Set | The Second Witness |

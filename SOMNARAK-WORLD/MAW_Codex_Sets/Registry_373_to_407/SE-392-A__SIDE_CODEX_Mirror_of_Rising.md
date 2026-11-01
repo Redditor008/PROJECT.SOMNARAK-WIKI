@@ -20,7 +20,7 @@ A lead-cold dream figure rises from a mirror after its reflection appears first.
 |---|---|
 | Coherence / Potency | I / α |
 | Element | Weight |
-| Gauge / Pressure | 25–40% / 3–9 |
+| Gauge / Pressure | 217/217; starts 25–40% / Weight — no attack pattern; the eighteen-hundred rise in metres against the painted scale is the instrument |
 | Observation | 1 |
 | Set | The Nameless Reflection |
 

@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Tale |
 | **Physical Form** | Non-Organic — A figure made of paper and ink that shimmers when spoken to — its body is a manuscript of forgotten tales, pages turning beneath skin that is not skin but vellum. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach only to the desk of the transcriber holding an open tale, and back again once the tale is finished. |
 | **Location** | SECTOR-C-900, contained |
 | **R.D. Comprehension Level** | 1 — Trace |
 

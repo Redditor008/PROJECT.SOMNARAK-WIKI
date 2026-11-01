@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — A voice-shaped absence that moves through the Commons, making all sound vanish in a widening radius. Bloodless-cold, it smells of ash; no body — only the spreading quiet, and the pressure of unsaid things. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Seeps through walls as a voice-shaped absence, widening the silence around itself; the selection is whoever is speaking or has just stopped speaking. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 2 — Basic |
 

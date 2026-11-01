@@ -16,7 +16,7 @@
 | **Element** | Void — the emptying of a self that remembered too much; Weight and Grudge undertones |
 | **Manifestation** | Subject-Body — a body that performs; nobody left inside it |
 | **Physical Form** | Mixed — An R.D. field agent in every visible detail — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing wrong with the body; it is a person-shaped loop, remembering every cycle. Bloodless-cold, it smells of ash; it looks exactly like someone you know. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach on foot through a loop, appearing wherever personnel have just been. |
 | **Location** | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
 | **R.D. Comprehension Level** | 5 — Sovereign-grade monitoring (loop-anomaly) |
 

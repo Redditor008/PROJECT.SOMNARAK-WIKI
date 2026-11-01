@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A burning humanoid clad in fragments of a shattered wall — stone shards fused to a body of fire and flesh, dragging itself along border lines. Fever-hot, it smells of char; a wall that fell, got up, and now walks the edge. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach at a walking pace along the line, shutting each corridor behind it. Nothing in the record has it running or doubling back. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
 

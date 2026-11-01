@@ -44,51 +44,36 @@
 - No breach counter. Tethers are checked on exit by a second person, and the check is logged by name because self-checks were failing.
 - Extraction is authorised separately and never against a work shift, so that nobody is inside the edge for two reasons at once.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45 per cent against Lament pressure and 35 against everything else. There is no body here to strike. The gauge opens at 910 and trips at 90 per cent, and the area only ever shrinks by accident. |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Its own Battle Phases say it in nine words — *there is nothing to strike and nothing that strikes* — and the stat line agrees twice before the reader reaches them: the Speed row reads *N/A — fixed object*, and the Resistance row adds *there is no body here to strike*. The source point has never moved; only the edge has, and it has withdrawn four times.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A place of dimming light under the Alpha Tree — a large shadow spreading across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, and nothing in the room throws it. |
+| **Perceptible to** | Detail going soft at the edges of whatever the worker is looking at; then the worker's own shadow going transparent, and after that a hand that can be seen through. |
+| **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment; the perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone A, Alpha Tree |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the mourners legible in outline — how many, how long ago, roughly who they came for, and never a name; Ferrehan is a full shift held inside the edge without taking ownership of anything in the air, marked by a counsellor afterwards and not by the worker. |
+| **Location** | Zone A, Alpha Tree |
 | **Resolution Condition** | Name the source of the grief and return emotional ownership |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Thinning* [**Debuff**] } | "Your shadow is fading — going transparent — and with it, something essential about you is leaving." | [The Shadow's dissolution removes a part of the target; they feel incomplete.] | *Target suffers -10 Composure; without their shadow, they are less than whole.* **[10 Lament DMG [Lament]]** | When the target notices the fading. |
-| { *The Transparent Self* [**Debuff**] } | "You can see through your own hand now — and the world behind it is clearer than the hand itself." | [The Shadow's fading spreads to the target; they are becoming see-through.] | *Target loses 10 Composure; they are disappearing.* **[10 Lament DMG [Lament]]** | When the fading continues. |
-| { *The Last Edge* [**Attack**] } | "The fading shadow sharpens its final edge — one last, desperate cut before it goes." | [The nearly-gone Shadow strikes with everything it has left.] | *Inflicts Lament pressure and one wound of final darkness.* **[14-22 Lament DMG [Lament]]** | When the Shadow is challenged. |
-| { *The Full Dissolve* [**Attack**] } | "The shadow gives up — and its dissolution releases every secret it ever held." | [The shadow lets go of everything it was holding, and every secret it kept goes out into the room unresolved.] | *A heavy Deep Blue extinction; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Shadow is forced to vanish. |
-| { *The Shadowless World* [**Ultimate**] } | "Now no one has a shadow — and without shadows, no one has depth, or weight, or substance." | [The edge the crew chalked stops being the edge: the room goes on dimming past it, and the chalk is the only thing left standing between the light and the dark.] | *All in range suffer Lament pressure for three turns of being shadowless.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the shadow does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Thinning* [**Register**] } | Takes a part of whoever notices it fading, so that the worker is less than whole and cannot say what left, and the loss leaves no wound behind. | Confirms the holding by the four markers — dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, detail soft at the edges — and chalks the perimeter before anything else. | The markers are the identification because the boundary cannot be measured. No instrument has ever closed this edge and the file stopped pretending otherwise; the chalk band is the register and it is marked by hand every shift. |
+| { *The Transparent Self* [**Exposure**] } | Spreads the fading to the worker: the hand goes see-through and the world behind it reads as clearer than the hand itself. | Keeps the shift short, comes out tethered to the party's own equipment, and takes the chalk band again from outside at the close. | Duration is the whole of this holding's threat, and the file says so in the consequences rather than in the row. What a brief cycle walks off becomes, across a long exposure, the dissolution of the emotional, the physical and the identity — and the ground with them. |
+| { *The Last Edge* [**Refusal**] } | Does not cut. There is nothing in the room with an edge to sharpen and nothing with a hand to hold one; what the row records is the shadow at its furthest extent, and what it costs a worker who has come to the chalk line to challenge it. | Does not strike the shadow, does not step past the chalk, and re-reads the band instead. | The row is titled for a cut and the file's own Clash phase denies one. What a challenger loses is Composure, which is exactly what the debuff rows already said the room takes; nothing arrives at the body. |
+| { *The Shadowless World* [**Overload**] } | Passes the chalked edge and keeps going: the room goes on dimming past the line, and the chalk is the only thing left between the light and the dark. | Withdraws to the last honest band, records the overrun in metres against the previous shift, and does not re-chalk from inside the dimming. | The edge advances slowly and unevenly and has withdrawn four times. That number is the file's whole account of the holding's movement, and it is why every shift reports a distance rather than an assessment — the band is re-marked from outside, or it is not marked at all. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is checked (dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, and detail going soft at the edges of what you are looking at) and Swallow is confirmed against the designation; positions are taken and the cycle is opened.
-2. **Clash:** There is nothing to strike and nothing that strikes. The team marks the edge, works the shift inside the fixed light, and comes out tethered to its own equipment; the encounter is scored on the chalk band and on who the worker turns out to be grieving.
-3. **Resolution:** The cycle closes when the grief has been named at its source and the ownership of it handed back to the person it belongs to, which the shift log records as one attributed line and nothing further. The perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary and the file stopped pretending otherwise.
+1. **What is confirmed:** the four markers, the chalk band as last surveyed, and which worker will carry the grief that is reported and not owned.
+2. **What the watch does:** Viderehan for the mourners in outline and Ferrehan for the shift held inside the edge, with the party tethered, the shift short, and nothing in the air taken ownership of.
+3. **How it closes:** the close is the file's documented condition: **Name the source of the grief and return emotional ownership** — recorded as one attributed line in the shift log and nothing further.
 
 ### Consequences
 

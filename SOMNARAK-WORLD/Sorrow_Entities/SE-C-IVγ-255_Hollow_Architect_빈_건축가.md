@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Mixed — A hollow humanoid architect — a body shaped around an empty interior, like a statue with nothing inside — carrying rolled plans of dark crystal. It builds without rest, but every structure it raises stays unfinished. Lead-cold and damp, it smells of wet stone and old dust. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach until it arrives, and then it keeps building. It has never pursued anybody; the danger is standing in the footprint of what it is raising. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 3 — Advanced |
 

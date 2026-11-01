@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A humanoid in the shape of a saint, but its body is built around an absence — a hollow at the core where a heart should be, the flesh curving inward to frame the nothing. Its hands reach toward nearby people, searching for something to fill the hole. It is bloodless, cold, and smells of ash. |
-| **Movement** | Mobile — walks upright; can breach and pursue. |
+| **Movement** | Mobile in breach toward burden rather than toward people. An unburdened worker can stand in her path unnoticed, which has been verified four times. |
 | **Location** | SECTOR-B-02, Zone B |
 | **R.D. Comprehension Level** | 3 — Advanced |
 

@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Non-Organic — An ethereal trace that wanders through the Commons — a thin red line of heat drawn in the air, a faint disembodied voice travelling along it. Fever-cold, it smells of char; the path of someone still walking, long after they are gone. |
-| **Movement** | Mobile — drifts or flows through the area. |
+| **Movement** | Wanders the Commons on its own route as a thin red line of heat with a voice travelling along it, and does not leave the route to follow anybody. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 1 — Initial |
 
