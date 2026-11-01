@@ -376,7 +376,7 @@ Some sorrows are about hiding grief. Sehnsucht is about hiding it too well — t
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It injures nobody and takes nothing by force; the hazard is a transferred grief with no cause, and the containment hazard is the facility's own inattention.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Viderehan and Ferrehan only. A pool cannot be wept with and has no face to be confronted at; the depth series is read from the bank and the moisture radius walked off afterwards.
 - Do not reach, probe or dig. Do not tell anybody at the site why they are sad. Both prohibitions are absolute and carry the same consequence.
 - Keep the watch continuously manned; absence is the documented deterioration mechanism and is logged as unmanned hours.
 **Observation Notes:**
@@ -389,7 +389,7 @@ Some sorrows are about hiding grief. Sehnsucht is about hiding it too well — t
 
 ### Registry Addendum
 
-**Operational interpretation:** This is a holding that gets worse when nobody is there and better when somebody sits with it and asks nothing. Read the depth series, the moisture radius and the unmanned-hours log as one document: the first is the entity's state, the second is a legible record of how long it was left, and the third is the facility's own conduct. Where the entity does something not described here, record it and leave the contradiction standing.
+**Operational interpretation:** This is a holding that gets worse when nobody is there and better when somebody sits with it and asks nothing. Read the depth series, the moisture radius and the unmanned-hours log as one document: the first is the entity's state, the second is a legible record of how long it was left, and the third is the facility's own conduct. An hour in which the holding did something outside the three series is entered against the hour it happened and not against the cycle, so that the unmanned time stays legible.
 
 **Review requirement:** After any extraction attempt, deep excursion, Sorrow Tide or unusual interaction: re-verify the rod against its benchmark, the depth series, the moisture radius, the unmanned-hours log and the exposure records of the party. Two items are specific to this holding. The prohibition on explanation is re-read aloud to the party at the standoff line on every visit, and the SED objection to the escort commitment is re-read in full at annual review, unaltered.
 ## Warden Record

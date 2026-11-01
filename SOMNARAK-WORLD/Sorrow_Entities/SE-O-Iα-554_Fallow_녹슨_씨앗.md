@@ -417,11 +417,11 @@ Some sorrows mourn barren ground. Fallow mourns the planting — the seed placed
 - It drifts downwind. Intercept downwind and wait; do not bring it to station.
 **Observation Notes:**
 - Dead ground, one seed, one promise to return, and no evidence of bad faith anywhere in the record.
-- See Combat Record for engagement history.
+- The engagement history is wind. It rolls with the wind, has never been seen to change direction, and containment teams intercept downwind rather than pursuing.
 - Two pieces, both losing about a gram a year; count every iron item on the wielder out and back.
 **Cross-References:** The Sorrow Seed, The Spreading Root, Pandora's Jar (closed), the crate of 61 stakes, and the two filed proposals to plant it.
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A traveller who pressed a seed into ruined soil, promised to return, and did not. The community here is a single broken promise rather than a settlement.
 
 ### Registry Addendum
 

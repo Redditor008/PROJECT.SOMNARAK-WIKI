@@ -421,7 +421,7 @@ Families exchanged memories after the records burned, and the commissioning mate
 - **Classification detail:** Chain of Memories is an Object/Place with Fragment (III) — Binding and connecting coherence and Moderate (β) potency.
 - **Field detail:** Weight expression, and the only Weight entity on the Row that does not register on the floor gauges — its load is borne by whoever is remembering, not by the building.
 - **Recognition detail:** Identify it by length and by where the faces stop, not by the crystal. Three objects on Collector's Row are made of the same material and only this one runs off its stand onto the floor.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Record detail:** Collector's Row carries several Weight holdings and the Row's records are filed by case number rather than by name. The full designation and the manifestation are both confirmed at the door, not from memory.
 - **Containment detail:** There is no seal and no door. The Chain is held by a rail, a chalked number and a standing order against speaking names inside it, and that arrangement has held for ten years against an entity that has never once tried to leave. What it does to the corridor it does regardless: the two offices adjacent to the Row report that staff there recall their own childhoods out of order, and have done since before the Chain was catalogued.
 ## Document Information
 

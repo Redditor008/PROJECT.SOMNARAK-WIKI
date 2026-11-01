@@ -367,9 +367,9 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 - Keep a named operator at the board. Log and acknowledge every call, including a call for which no rescue will be attempted.
 - Do not clear the comms room or close the circuit to stop the cry; preserve both the live-call record and the entity interval so one is not discarded as the other.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
+- The formation is a payroll list. Thirty-one workers of the lower cut were entered that morning because the shift had to be paid, and that is the entire and only record of who was below when the cut flooded in under four minutes.
+- The engagement history is measured in intervals: the gap between board calls halves each turn the board goes unanswered and resets on the turn an operator speaks into the channel, whatever they say.
+- Nothing is extracted from this source without a separate authorisation, and the cost of each piece is entered on the equipment file rather than discovered in the field.
 **Cross-References:** The Hollow Echo (costly; not run since Year 4,233), The Sunken Bridge (the one shortening), The Sorrow River (closed), the lower-cut shift list of thirty-one, and the tunnel log's acknowledgement column.
 **Faction Involvement:** SED (D-territory exploration)
 **Originator:** The thirty-one of the lower cut, named in the payroll list reproduced in the Origin section. The archive uses that list and no other, and notes in the folder why a payroll document is the most reliable thing it holds.

@@ -159,7 +159,7 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 | **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
 | **Risk** | The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
 
-**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
+**Operational Rule:** A single-use relic is spent, not stored. The vial is quartz and the forty-two breaths are sealed inside it: it is spent by being broken, and the breaking is the only release they will get.
 
 ### Log and Method
 

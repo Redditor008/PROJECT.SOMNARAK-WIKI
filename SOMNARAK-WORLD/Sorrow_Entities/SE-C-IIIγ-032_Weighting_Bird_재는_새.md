@@ -384,7 +384,7 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the comparisons are perfectly consistent and yield a complete ordering, a comparison is not a finding of fault and can therefore neither be answered nor withdrawn, and the facility has made exactly one use of that — a published comparative placement of itself. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument and are read together: the comparisons are perfectly consistent and yield a complete ordering, a comparison is not a finding of fault and can therefore neither be answered nor withdrawn, and the facility has made exactly one use of that — a published comparative placement of itself. A weighing that disagrees with the record is entered twice — as taken and as the record expected — and the pan is not adjusted in between.
 
 **Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the plate calibration, the rest mass, the consistency of a duplicate pair drawn from the Study, the standing of the succession report's comparative claim, and the status of the access proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Warden Record

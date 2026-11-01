@@ -377,7 +377,7 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the comfort, the permanent scarring, the discharge trial and the facility's position as creditor are one picture, and the last of those is the part the Row asks about. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the comfort, the permanent scarring, the discharge trial and the facility's position as creditor are one picture, and the last of those is the part the Row asks about. Warm ground recorded beyond the distance the file allows is entered at the distance it was found, and the creditor's position is not adjusted to explain it away.
 
 **Review requirement:** Re-verify after any breach, Tide, Ordeal or unusual interaction: gauge, approach temperature, rooting positions, scarred area as a share of the wing, the current route projection, crew rotation records against the clock, and the standing of the purchased book. Floor marks are never repaired and never removed from the plan.
 ## Warden Record

@@ -366,7 +366,7 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 - A name offered or an obstruction; the track lengthens and the Bell tolls before the overlay is drawn.
 **Observation Notes:**
 - A citizen of Old Lament erased from every ledger and every relationship; 1 verified fact survives.
-- See Combat Record for engagement history.
+- The engagement history is pace: a fifth a turn for every turn nobody walks with it, back to baseline on the turn somebody does. Nobody on this file has ever been injured by anything but the obstruction.
 - The older two-piece report leaves its subset unspecified within the listed Weapon, Suit and Stigma set. It reports other people failing to place the wielder and reversal about a month after return; keep the piece identity and comparison record rather than treating the interval as automatic clearance.
 **Cross-References:** The Forgotten Name, The Whispering Gallery (11 fragments), The Orphaned Bell (track-change warning), the facility's weekly returns, and the four working labels left in the log on purpose.
 **Faction Involvement:** None. The station applied twice for records assistance in identifying him and was told both times that there is nothing to search; the applications are kept in the file because they are the only documents in the city that assert he existed.

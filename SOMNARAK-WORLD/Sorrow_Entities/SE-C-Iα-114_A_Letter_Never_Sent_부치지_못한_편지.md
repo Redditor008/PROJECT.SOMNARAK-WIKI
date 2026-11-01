@@ -143,7 +143,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 | **Termination / Return** | The relic is completely consumed by its discharge; what remains is the grey ash specified for this envelope, with no repeat discharge available. |
 | **Risk** | The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement. |
 
-**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
+**Operational Rule:** A single-use relic is spent, not stored. The indigo wax seal is the whole mechanism and the envelope does not reseal: opening it spends the object, produces no replacement copy, and leaves nothing readable in its place.
 
 ### Log and Method
 

@@ -353,14 +353,13 @@ Some sorrows mourn destruction. Ephemera mourns the forgetting — the place tha
 **Threat Assessment:** Low to personnel who stay upwind; severe to the record. The figure's recorded attacks are the smallest part of the risk — 3–10 Lament per hit against 198 HP of gauge — and the cost that matters is the memory it draws out of whoever works it. The fourth failed cycle is the breach; the hazard between now and then is a worker who finishes a shift unable to say what they did in it, and whose account of the settlement is the last copy, and wrong.
 **Containment & Handling Procedures:**
 - What remains is mapped and named and what is gone is left gone. A warden who chases the settlement as it was returns with an account of it, and the account is the wrong one.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Work it upwind and never inside the drift. Escalation is worked from the breach section, which puts the crews out of the figure's path in the order the wind puts them in.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- The account is the loss. A worker who finishes a shift unable to say what they did in it has been drawn on, and the fourth such cycle is the breach.
+- The figure has never selected anybody. Nothing in the record shows it choosing a target, and nothing is to be written as though it had.
+**Cross-References:** The settlement account is attached to the Contact Record, engagement history sits under the Combat Record, and the extraction risk in the M.A.W. Equipment section.
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** The last witnesses of a Desolate settlement that fell. They carried the place until the carrying remade them, so the community and the entity are the same people.
 
 ### Registry Addendum
 

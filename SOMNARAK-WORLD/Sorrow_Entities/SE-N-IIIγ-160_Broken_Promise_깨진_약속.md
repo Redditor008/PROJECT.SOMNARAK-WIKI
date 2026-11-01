@@ -384,7 +384,7 @@ Some sorrows are about debt. Broken Promise is about the betrayal — the promis
 
 ### Registry Addendum
 
-**Operational interpretation:** This file reads whole or not at all: the classification, the 2 valid Work Types, the binding condition, the relic cost and the quarterly management condition are one picture, and no part of it stands alone. What governs is small and hard to look at — a signature that never completes, a standing order that forbids ordinary speech at the end of a shift, and a quarterly requirement the wing has minuted against itself. Where observation contradicts the record, the record is wrong: write the contradiction down rather than normalise it.
+**Operational interpretation:** This file reads whole or not at all: the classification, the 2 valid Work Types, the binding condition, the relic cost and the quarterly management condition are one picture, and no part of it stands alone. What governs is small and hard to look at — a signature that never completes, a standing order that forbids ordinary speech at the end of a shift, and a quarterly requirement the wing has minuted against itself. A quarter that passed without the requirement being minuted is entered as a failure of the wing, in the wing's own hand.
 
 **Review requirement:** Re-verify after any binding, expansion, Tide, Ordeal or unusual interaction: gauge, fracture count against the diagram, residue weight, mount integrity, every undertaking logged in the period, and the standing of each entry in the withdrawal register. The diagram is never reset without authority at Directorate level.
 ## Warden Record

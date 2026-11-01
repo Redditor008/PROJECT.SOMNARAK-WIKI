@@ -280,7 +280,7 @@ The bell at this station is rung for ancestors, and the hour has never been run 
 | **Vellum Man** `C-Iα-900` | Grouped on narration that stops before it is done. That record abandons the tale at thirty minutes with the page marked; here the hour ends mid-sentence and the two transcripts simply stop. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered on each repetition. |
 | **Weighted Silence** `O-IIIγ-924` | Grouped on an hour nobody fills. That record holds quiet with a pressure under it; this one holds two speakers who cannot reach the end of a sentence before the bell. | One joint review entry; the counts diverged at the first mark and neither column was reconciled. | That the divergence is the finding, kept in the review's own figures rather than merged. |
 
-**Interaction procedure:** Compare in the record only, at the quarter's review, with the sealed books and the ledger's warnings re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the sealed books and the ledger's warnings re-read first and the other record's series laid beside them unchanged. The entry lets the divergence stand: the range at which the books part, what rang it, both readings, and what was still tolling once the two were separated.
 
 
 ## 이야기 (Narratio) — The Tale

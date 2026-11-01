@@ -93,7 +93,7 @@
 
 - The failure here is a hand on a root, and it is never defiance. All three were workers who had been sitting with it for an hour and who described the gesture afterward as something you would do to a sleeping animal.
 - Extended exposure carries a cumulative and specific risk: the dream is persuasive, and workers who sit beside it across many cycles begin making arrangements for a life they have been shown rather than one they intend. Identity drift here arrives as plans.
-- The equipment file states what each piece takes and the field record has never contradicted it. The Oak-Blade aches in old wounds, the Plate dulls the reflexes it protects, and the Bracelet makes its wearer difficult to remember — the last of these has been described by three separate counselors as the heaviest cost in the β catalogue.
+- What each piece takes is written on the equipment file, and no field record on this holding has ever argued with it. The Oak-Blade aches in old wounds, the Plate dulls the reflexes it protects, and the Bracelet makes its wearer difficult to remember — the last of these has been described by three separate counselors as the heaviest cost in the β catalogue.
 - If the condition is not met the entity does not retaliate; it wakes, and waking is the whole of the catastrophe. A thing that has been growing in its sleep since the facility was built stands up, and the record is clear that it would walk.
 
 ## Appearance
@@ -421,15 +421,15 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 - The creak interval shortens. Clear the gallery on that alone; twice it has been unnecessary and once it was not.
 **Observation Notes:**
 - Two travellers, one tree, one who came back, and a record that twice insists he never returned to it.
-- See Combat Record for engagement history.
+- The engagement history is a growth cycle: five Resilience drain per cycle while it grows, gone the moment it stops. It has never pursued and there is nothing in the record to suggest it could.
 - Taken by contact from something asleep; the Armoury has said it would not authorise it again, and the pieces are still growing.
 **Cross-References:** The Returning Tree (the slope and two chairs), The Broken Promise, The Forgotten God (no third session), the three dream accounts, and the Zone A structural survey.
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** Two travellers who planted a tree outside the city as a vow to grow old beside it, and the one of them who came back alone. Neither is named in the record, and the survivor never returned to the tree.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the classification, the activation record, the relic profile and the structural survey as one document, because the awkward fact about this holding only appears when they are laid side by side: the entity is load-bearing. It has been growing in its sleep beneath the Alpha Tree for longer than the facility has stood, the Zone A surveys treat it as terrain, and the plan for what happens to the layer above if it ever stands up does not exist in any version that has been approved. That is not a containment failure; it is a dependency nobody chose, acquired one quiet survey at a time by an institution that kept finding nothing wrong. Where observation contradicts the file, the file is wrong — log the deviation, report it, and do not reconcile it by amending the record. On this holding the contradiction worth preserving is the oldest one: a subject classified as able to breach, which has never moved.
+**Operational interpretation:** Read the classification, the activation record, the relic profile and the structural survey as one document, because the awkward fact about this holding only appears when they are laid side by side: the entity is load-bearing. It has been growing in its sleep beneath the Alpha Tree for longer than the facility has stood, the Zone A surveys treat it as terrain, and the plan for what happens to the layer above if it ever stands up does not exist in any version that has been approved. That is not a containment failure; it is a dependency nobody chose, acquired one quiet survey at a time by an institution that kept finding nothing wrong. Log the deviation and report it; do not amend the record to close it. On this holding the contradiction worth preserving is the oldest one: a subject classified as able to breach, which has never moved.
 
 **Review requirement:** Every breach, Sorrow Tide, Ordeal, transformation attempt, and recorded contact with the roots voids the current baseline. Re-verify the gauge, the growth measurements, the exposure log and the condition of the floor above before the watch resumes. Dream reports are reviewed with the counselor and not with the line supervisor, and no part of this review is disciplinary: operators who touched the roots are reporting the only interior view of this entity anyone has, and a review that teaches them to leave it out of the log has closed the single window this holding possesses.
 ## Warden Record

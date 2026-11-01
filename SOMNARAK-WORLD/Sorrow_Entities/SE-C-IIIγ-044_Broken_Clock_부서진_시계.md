@@ -401,7 +401,7 @@ Some sorrows mourn the past. Broken Clock mourns the future that would not come 
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the radius behaviour, the two-person rule and the inside-interval ledger are one picture, and the ledger is the part that concerns the people reading it. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the radius behaviour, the two-person rule and the inside-interval ledger are one picture, and the ledger is the part that concerns the people reading it. An interval that does not match the ledger is left as the ledger has it and noted beside it. The ledger is the part of this file that people actually work from.
 
 **Review requirement:** Re-verify after any Transform event, Tide, Ordeal or unusual interaction: gauge, boundary probe against every chalked line, face series, stop durations, outside-clock discipline, acknowledgments, and each worker's inside-interval total. Earlier chalked lines are never erased.
 ## Warden Record

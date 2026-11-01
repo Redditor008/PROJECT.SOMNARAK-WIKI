@@ -381,7 +381,7 @@ Some sorrows are released. Weeping Statue is a sorrow that was forbidden to rele
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument: the tears are money, money carries no history, and the wing's budget is now tied to how much of it the district produces. Read them together. Where observation contradicts this record, trust the observation and log the discrepancy; preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument: the tears are money, money carries no history, and the wing's budget is now tied to how much of it the district produces. Read them together. A discrepancy between this record and the observation is entered as taken, and the budget line is not adjusted to make it read better.
 
 **Review requirement:** After every incident, expansion, Tide or unusual interaction, re-verify gauge, pool edge against the floor scale, head angle, collection weights against the banked total, visitor counts, and the standing of the yield-linked budget line and the decoupling proposal.
 ## Watch Record

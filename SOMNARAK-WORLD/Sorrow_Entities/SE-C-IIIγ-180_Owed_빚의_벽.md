@@ -395,7 +395,7 @@ Some sorrows are carried. Owed is a sorrow that, carried too long by too many, s
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion behaviour, the diversion arrangement and the highway position are one picture, and the last two are the reason the first three are managed as they are. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion behaviour, the diversion arrangement and the highway position are one picture, and the last two are the reason the first three are managed as they are. A height taken from the wrong side of the wall is entered with the side named. The highway has been diverted twice on the strength of a figure whose side nobody wrote down.
 
 **Review requirement:** Re-verify after any expansion, Tide, Ordeal or unusual interaction: gauge, both end marks, the three measured courses, inscription end, transparent count, diversion condition at both junctions, and the standing of the prohibition order. The commissioning marks are never re-cut.
 ## Warden Record

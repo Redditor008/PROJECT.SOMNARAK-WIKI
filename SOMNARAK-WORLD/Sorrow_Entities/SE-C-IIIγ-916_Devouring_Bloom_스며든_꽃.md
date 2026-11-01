@@ -428,7 +428,7 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 
 **Operational interpretation:** The classification is the frame and this record is the picture, and on this holding the picture is a pair of series: front position against the cut marks, read independently by a Warden and by a tunnel engineer, filed side by side and never reconciled. The counts that govern are 16–22 Han-Energy per successful cycle, an opening gauge of 40% that rises 10% per worker infested, and 9 years of front readings that number only in the few hundreds. Where the record and this file disagree, the record is right and the divergence is kept as evidence rather than corrected.
 
-**Review requirement:** Re-verify after every breach, expansion, transformation attempt or unusual interaction: the front against its cut marks, both series and the divergence between them, the open petal count, floor condition within 2 metres, the gauge, the register of everyone who stood inside the section, and every petal handled and by whom. What was true at the last reading may not be true at this one, and the file is explicit that its own record describes a living sorrow pattern rather than a permanently complete explanation.
+**Review requirement:** Re-verify after every breach, expansion, transformation attempt or unusual interaction: the front against its cut marks, both series and the divergence between them, the open petal count, floor condition within 2 metres, the gauge, the register of everyone who stood inside the section, and every petal handled and by whom. The count that matters is the one taken since the last flower opened, and it is taken rather than recalled.
 ## Warden Record
 
 ### Petals Through the Floor

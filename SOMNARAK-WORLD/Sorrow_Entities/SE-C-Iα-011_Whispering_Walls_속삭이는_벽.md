@@ -377,7 +377,7 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map and not the territory: the SECC code, the gauge thresholds and the M.A.W. notes are instruments for standing in the street, not substitutes for it. What governs is small and old — a wall run on a painted boundary, 140 households inside it, an overlap that answers to acknowledgment and to nothing else, and a plaster that must not be scraped. Where behaviour departs from this file, the departure is worth more than the record it contradicts and is preserved as evidence rather than tidied away.
+**Operational interpretation:** The street is the instrument here and this file is only its reading. The code, the thresholds and the M.A.W. notes are what a warden carries onto the pavement, and the wall does not consult any of them. What governs is small and old — a wall run on a painted boundary, 140 households inside it, an overlap that answers to acknowledgment and to nothing else, and a plaster that must not be scraped. Where behaviour departs from this file, the departure is worth more than the record it contradicts and is preserved as evidence rather than tidied away.
 
 **Review requirement:** Re-verify after every expansion, Tide, or unusual interaction: the boundary against the marked line, the wall runs affected, the occupied-dwelling register, the overlap density, and the acknowledgment log. A rotation that did not acknowledge aloud is recorded as incomplete and is re-walked.
 ## Fabric Record

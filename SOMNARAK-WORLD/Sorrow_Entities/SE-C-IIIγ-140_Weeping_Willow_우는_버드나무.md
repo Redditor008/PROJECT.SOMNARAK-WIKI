@@ -370,7 +370,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the root expansion, the open access and the collection arrangement are one picture, and the last of those is the part the Gardens' trustees ask about. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the root expansion, the open access and the collection arrangement are one picture, and the last of those is the part the Gardens' trustees ask about. A root that moves where the register says it does not is entered on the register on the day it moved, and the trustees hear of it before the drawing is redrawn.
 
 **Review requirement:** Re-verify after any expansion, Tide, Ordeal or unusual interaction: gauge, fall rate, sap flow at the marked cracks, saturated boundary against every dated mark, canopy reach, collection counts for the period, and the standing of the charge raised against the Gardens trust. Earlier boundary marks are never removed.
 ## Warden Record

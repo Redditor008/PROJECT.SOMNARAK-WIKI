@@ -366,7 +366,7 @@ Some sorrows mourn a loss. Rising Wall mourns an asymmetry — the love that one
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the Wall's structural recall of the erased district is accurate and testable, the municipal register is conclusive as to what the district was and cannot be contradicted by evidence however good, and the facility has certified the same dataset reliable for its own works and unverified for a tribunal. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument and are read together: the Wall's structural recall of the erased district is accurate and testable, the municipal register is conclusive as to what the district was and cannot be contradicted by evidence however good, and the facility has certified the same dataset reliable for its own works and unverified for a tribunal. Both certifications are copied into the addendum side by side, and neither is withdrawn when the other is quoted.
 
 **Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the height against the marked face, the clearance measurement, the spotter list, the reconstruction's agreement score against any new physical evidence, and the standing of the deposit proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Apex Record

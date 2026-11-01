@@ -386,7 +386,7 @@ Some sorrows are about debt. Debt-Collector's-Lantern is about the collecting â€
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the radius behaviour, the relic doctrine, and the yield rule are one picture and the last of them changes the meaning of all the others. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the radius behaviour, the relic doctrine, and the yield rule are one picture and the last of them changes the meaning of all the others. A glow that disagrees with the yield rule is written down at the distance it was seen and the rule is left where it is. The lantern has been wrong about the rule before.
 
 **Review requirement:** Re-verify after any expansion, Tide, Ordeal or unusual interaction: gauge, intensity card, radius against the floor mark and against the commissioning mark, mount seals, chalk boundary, and the dimming log for the period. The commissioning mark is never redrawn.
 ## Watch Record

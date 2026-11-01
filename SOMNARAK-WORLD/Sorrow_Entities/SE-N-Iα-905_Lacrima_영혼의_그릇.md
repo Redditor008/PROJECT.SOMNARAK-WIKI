@@ -225,7 +225,7 @@ Nothing escalates at SECTOR-N-905. In sixty-one years the jar has not moved, not
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and colourless at rest, that gathers a fine bead of moisture when its wearer grieves and dries within the shift — the only visible change it has ever shown.
 
 **Resistances:**
 - Lament: 1 (Normal)

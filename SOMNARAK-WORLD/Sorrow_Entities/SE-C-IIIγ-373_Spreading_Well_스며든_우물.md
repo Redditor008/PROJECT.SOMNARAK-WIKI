@@ -389,7 +389,7 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the uncontainable network, the one-directional delivery, the sluice function and the safety case built on it are a single arrangement, and the last of those is what the districts ask about. Where observation contradicts the record, the record is wrong; write the contradiction down rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the uncontainable network, the one-directional delivery, the sluice function and the safety case built on it are a single arrangement, and the last of those is what the districts ask about. If the sluice behaves differently under load than the safety case allows, the safety case is amended and the observation is not, and the amendment carries the day's figures.
 
 **Review requirement:** Re-verify after any sluice run, Tide, Ordeal or unusual interaction: gauge, seep rate, rim sounding, stake line against every dated line, new ends with what stands at each, the notification log for every district reached, and the standing of the sluice entry in the facility safety case. Earlier stake lines are never removed.
 ## Warden Record

@@ -374,7 +374,7 @@ And that is the whole of it — the fish, the stone, the dragon — three files,
 
 **Operational interpretation:** This record is valid only with the full classification above, and only alongside the files of its two halves. The Stormscale Sovereign is not a standalone entity; it is the fused form of two others, and it cannot be understood, contained, or — if it manifests — suppressed, except through them. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck, every cycle, the separation distance between the Soot Fry and the Foam Flood — the single variable that keeps this entity Latent. Any drift toward reunion is a Critical-priority emergency. The R.D. record describes a living potential, not a permanently complete explanation — and the potential is, by every model, existential.
+**Review requirement:** Recheck, every cycle, the separation distance between the Soot Fry and the Foam Flood — the single variable that keeps this entity Latent. Any drift toward reunion is a Critical-priority emergency. The distance is the whole of the containment and the whole of the file; everything else on these pages is the reason it is measured every cycle.
 
 ## Sovereign Chronicle
 

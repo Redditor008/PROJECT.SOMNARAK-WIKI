@@ -93,7 +93,7 @@
 
 - The failure here is a worker who answers the wrong question. Asked where they live, they say where they are from; the root reaches for them within the minute, every time, in all eleven logged instances. The wing considers this the single most reproducible result in the holding's record.
 - Extended contact invites the full manifestation, which at this potency is less dramatic than it is persistent: the root takes hold of the worker rather than the floor, and the hold registers as a slow conviction that the worker does not really live where they live.
-- Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. From this source the charge is made in attachment: wielders find their own address, their own neighbourhood, their own history increasingly difficult to feel strongly about.
+- The equipment file records what each activation takes before anybody picks the piece up. From this source the charge is made in attachment: From this source the charge is made in attachment: wielders find their own address, their own neighbourhood, their own history increasingly difficult to feel strongly about.
 - Without resolution the entity can escape downward through floors. Both recorded breaches ended with it motionless in an unpacked storage room in the sub-levels; they do not establish a roaming circuit or a hunt toward an exit.
 
 ## Appearance
@@ -358,11 +358,11 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 - It breaches downward and stops. Go to the lowest unoccupied storage level and wait.
 **Observation Notes:**
 - The first removal was never recorded, so the ground this holding came from cannot be identified and the file does not pretend otherwise.
-- See Combat Record for engagement history.
+- The engagement history is downward. Both breaches went through floors rather than along corridors and ended in the sub-levels, and the drain is five Resolve a cycle while it is loose.
 - Three pieces, one rotation each, quarters inspected afterward; four inspections failed.
 **Cross-References:** The Spreading Tree, Banyan, The Empty Mask (closed), and the Year 4,234 stallholders' petition.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One family, displaced twice — from the ground they grew out of, and again from the place that was to replace it before it had finished becoming theirs. The second removal is kept in detail and the first hardly at all.
 
 ### Registry Addendum
 

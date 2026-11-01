@@ -405,7 +405,7 @@ A tunnel bridge failed in a Han surge and the survivor took the collapse as thei
 - **Classification detail:** Graded Subject rather than Place because what walks the loop is a man, not the crossing — Echo (II) coherence, Moderate (β) potency, and a nineteen-year record with no change to either.
 - **Field detail:** Weight expression, read not on the gauges but on the roadway it carries — four metres of span-stone across an ordinary man's shoulders, walked at a working pace.
 - **Recognition detail:** The painted lane line across the shoulders, and the drip that leaves no water. Nothing else in the deep tunnels carries either.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Record detail:** The deep tunnels hold more than one Weight structure whose name sounds like a bridge. The designation and the manifestation are read together before work begins, and neither is taken from the other.
 - **Containment detail:** There is no seal. Containment is a closed tunnel, two monitored junctions and a plaque, and in nineteen years that has failed twice — both times discovered by sound in an upper corridor and both times ended by reading the names aloud in a stairwell.
 ## Document Information
 

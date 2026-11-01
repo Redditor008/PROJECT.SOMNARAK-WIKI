@@ -373,7 +373,7 @@ Some sorrows are about freedom lost. Willing Chains is about protection perverte
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the extent series, the link counts and the comfort answers together. The first says the binding only ever grows, the second says nothing in it is fastened, and the third is the only early warning the holding has. The hardest fact in the file is the second: a room full of chains that hold because the entity holds them, in a district that was bound by agreements everybody signed. Where the entity does something not described here, log it and leave the contradiction standing.
+**Operational interpretation:** Read the extent series, the link counts and the comfort answers together. The first says the binding only ever grows, the second says nothing in it is fastened, and the third is the only early warning the holding has. The hardest fact in the file is the second: a room full of chains that hold because the entity holds them, in a district that was bound by agreements everybody signed. A chain that fastens without being asked is recorded as it happened and not as it should have. Nobody has seen one yet, and the file is written so that the first sighting is not lost inside a correction.
 
 **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the extent against the survey line, the link sample, the exposure log and the gauge. Three further items apply here. The comfort answers are reconciled against the withdrawal count. The displacement map and the alternative routes are walked, not read. And the field office's objection to the reported response time is re-read in full, unaltered.
 ## Apex Record

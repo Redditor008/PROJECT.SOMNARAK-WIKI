@@ -145,7 +145,7 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 | **Termination / Return** | The relic is completely consumed by its discharge; the chalk is ground completely into powder to form the boundary, not returned as an intact mineral or metal implement. |
 | **Risk** | The chalk is completely expended; all sheltered operatives forget their own family name for the shift. |
 
-**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
+**Operational Rule:** A single-use relic is spent, not stored. The chalk is ground into the floor to close the circle, and the closing is the discharge: no chalk remains to draw a second, and a closed circle cannot be re-closed.
 
 ### Log and Method
 

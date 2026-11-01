@@ -41,7 +41,7 @@
 - A successful cycle loosens the links and gentles the voice for a while. Nothing is returned by it: the memories stay in the chain, the people they belong to are still scattered or dead, and the next cycle opens on the same roll of recollections in the same order.
 - The listed threshold of 3 is a count and it runs down — each failed or refused cycle takes one from it, and the third brings the entity to zero. The core stat line separately records a gauge activation condition. Keep that reading and the failure count on the sheet; a dial is not a substitute for counting refused or failed cycles.
 - The 12–18 Han-Energy yield is ordinary for the band and the exposure is not. What this holding costs is specific and slow: workers come away holding recollections that are detailed, affectionate, and not theirs, and the condition is not visible in any post-cycle check that asks about distress.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. A piece taken from this source is a link taken out of a chain that is made of other people's shared past, and the equipment file records what each piece keeps of that.
+- A good cycle earns a good cycle; it does not earn a piece of this entity, which is extracted under a separate authorisation. A piece taken from this source is a link taken out of a chain that is made of other people's shared past, and the equipment file records what each piece keeps of that.
 
 ## Combat Record
 ### Core Stat Line
@@ -361,11 +361,11 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 - The order breaking, or the line reaching the outer path; both have ended without intervention.
 **Observation Notes:**
 - Forty-one letters between six people over nine years, each repeating what all of them already knew.
-- See Combat Record for engagement history.
+- The engagement history has no advance in it. Five Composure a cycle while the sequence is broken, and nothing in the record shows the entity coming closer or moving at all.
 - Three M.A.W. pieces; worn past pattern, the shroud stops holding memories off and starts delivering them.
 **Cross-References:** The Chain of Memories (no shared word), The Memory Weaver (four refused insertions), Risus (closed), the forty-one letters, and the Year 4,233 place name.
 **Faction Involvement:** None active. UCD requested transcripts twice on the grounds that the Gardens are Fray-adjacent and was refused both times, the letters and the sequence being held as personal correspondence.
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A group broken up by exile who kept their bond alive by writing their memories to one another. The letters are on file, each addressed to several recipients at once, each repeating what all of them already knew.
 
 ### Registry Addendum
 

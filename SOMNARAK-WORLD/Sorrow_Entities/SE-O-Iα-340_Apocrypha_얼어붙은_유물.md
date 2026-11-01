@@ -371,7 +371,7 @@ Some sorrows mourn a carrier. Apocrypha mourns the unexplained — the object wh
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minor (α). It injures nobody who does not stand in the stillness; the hazard is hypothermia inside a reading and an anger that attaches itself to the wrong person afterwards.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Viderehan and Ferrehan only. The outline is drawn and the site walked; there is nothing here to confront and no face to weep with, which is the whole difficulty of the holding.
 - Nothing is dug, lifted or thawed. No reconstruction of the object is drawn, filed or discussed; the four that exist are sealed.
 - Readings are limited to sixty seconds for hypothermia, and the site is marked and the farewell spoken before the party withdraws.
 **Observation Notes:**
@@ -384,7 +384,7 @@ Some sorrows mourn a carrier. Apocrypha mourns the unexplained — the object wh
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is one line of a kit list that nobody could complete, and it is quieted by meaning rather than by identification. Read the outline series, the site surveys and the effects-office lists together; the last is the one that moves. Where the entity does something not described here, record it and leave the contradiction standing rather than resolving it into a story.
+**Operational interpretation:** This holding is one line of a kit list that nobody could complete, and it is quieted by meaning rather than by identification. Read the outline series, the site surveys and the effects-office lists together; the last is the one that moves. A sighting that fits none of the three is entered as a fourth and is never folded into the nearest one, because the nearest one is always identification and identification is what quiets this holding wrongly.
 
 **Review requirement:** After any relocation, hypothermia case, Sorrow Tide or unusual interaction: re-measure the outline, re-survey the frost, reconcile the effects-office list, and re-read the exposure log. Two items are specific to this record. Any reconstruction found in circulation is withdrawn to the sealed appendix the same day. And the quartermaster's objection to the retention undertaking is re-read in full at annual review, unaltered.
 ## Outline Record

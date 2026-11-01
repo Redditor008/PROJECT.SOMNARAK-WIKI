@@ -371,7 +371,7 @@ Some sorrows are about loss. Cenotaph is about the failed protection — the pro
 **Observation Notes:**
 - The register is the instrument: crossings split solo and shared (406 in the file's quarter, 91 shared), the two bridged points, and the surface state each hour.
 - Gratitude is discouraged in the chamber: the span withdraws from anyone who thanks it.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+**Cross-References:** The crossing register is the file's instrument and is held with the Gardens' routing office; the two bridged points are named in the Contact Record.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** The guardian of the crossing, named in the Keepers' record and not in this file.
 

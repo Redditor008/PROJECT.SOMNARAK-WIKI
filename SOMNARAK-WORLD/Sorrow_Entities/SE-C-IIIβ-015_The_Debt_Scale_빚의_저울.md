@@ -379,7 +379,7 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion behaviour, the relic profile and the aggregate instruction are one picture, and the last of them is what the others are for. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the expansion behaviour, the relic profile and the aggregate instruction are one picture, and the last of them is what the others are for. The comparison is entered as a disagreement and never as a correction: when two parties read the scale differently in the same hour, both readings go on the sheet and the sheet goes upward unchanged.
 
 **Review requirement:** Re-verify after any expansion, Tide, Ordeal or unusual interaction: gauge, dish series, circle against both the current mark and the commissioning mark, plinth seals, the list of households inside the line, and the aggregate most recently supplied. The commissioning mark is never redrawn.
 ## Warden Record

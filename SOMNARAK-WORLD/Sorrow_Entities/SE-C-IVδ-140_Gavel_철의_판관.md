@@ -128,7 +128,7 @@
 - **The Sorrow:** The grief of being measured by rules that refused to understand circumstances.
 - **The Event:** Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.
 - **The People:** Debtors brought before the Collector courts of the Row, who were measured accurately and heard not at all. The Keepers' record carries the case numbers and not the names, which is the same omission the entity was made of and the reason the file prints the numbers in full.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around SECTOR-C-01, Collector's Row — until the Grudge was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **Expanded origin context:** Archive note: the Gavel was made of the measure and not of the woe. The Row still issues its judgments in the same form and at the same speed, and the file prints the case numbers in full for the same reason it prints anything: the numbers are what the court kept, and the names are what it dropped.
 
 ## Behavior
 

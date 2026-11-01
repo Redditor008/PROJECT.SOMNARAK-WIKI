@@ -401,7 +401,7 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 
 **Operational interpretation:** The classification is the frame and this record is the picture, and neither replaces standing at the rail. The facts that govern are these: it finds injuries it was not shown, closes them completely, and keeps what it has taken; acceptance is authorised by name and in writing; and violence produces confusion rather than suppression. Do not normalise anomalies: where behaviour deviates from this file, the deviation is the most important data on the holding, and personnel must preserve the contradiction as evidence rather than silently normalising it.
 
-**Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding re-read the tally and the authorisations together: every acceptance of healing by name and in writing, every refusal recorded, and the rail intact at the moment of contact. What was true yesterday may not be true today; the R.D. record describes a living sorrow pattern rather than a permanently complete explanation.
+**Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding re-read the tally and the authorisations together: every acceptance of healing by name and in writing, every refusal recorded, and the rail intact at the moment of contact. The rail is checked at the moment of contact and at no other time, because a rail checked on the way in has been checked before the thing it protects against.
 ## Care Record
 
 ### Timing the Shudder

@@ -375,7 +375,7 @@ Those who hear both channels feel the specific vertigo of a system working as de
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file carries the holding on its own. The classification, the Work Type responses and the containment-event terms are one picture and are acted on together, with the behaviour, the activation term, the kit risk and the interaction table read alongside them. Where observation contradicts what is written here, the file is what is wrong: the discrepancy is preserved and reported, and the record is allowed to grow around it rather than shrink to fit.
+**Operational interpretation:** No single section of this file carries the holding on its own. The classification, the Work Type responses and the containment-event terms are one picture and are acted on together, with the behaviour, the activation term, the kit risk and the interaction table read alongside them. The behaviour, the activation term, the kit risk and the interaction table are re-read together whenever one of them moves, and the file is allowed to grow rather than made to fit.
 
 **Review requirement:** After any transformation in place or convergence: the tone count and its three-year basis, both unreconciled sheets, each recorder's certainty note, and rotation of anyone the holding has already heard. Confirm no reconciliation was attempted in the room; the desk copy is the only tidy record this file allows.
 ## Watch Record

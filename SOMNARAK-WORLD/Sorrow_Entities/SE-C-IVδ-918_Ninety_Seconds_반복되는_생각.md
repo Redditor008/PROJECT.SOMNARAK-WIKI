@@ -161,7 +161,7 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 ### Escalation Notes
 
 - **Containment priority:** Extract the worker, not the interval: two people remove them from the marked radius immediately and without discussion. Use the agreed content-free exit question; do not argue about the thought.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn for as long as the interval keeps repeating. Breaking the repetition is the only thing that stops it, and nobody inside the interval can break it.
 
 ## M.A.W. Equipment
 
@@ -276,7 +276,7 @@ The chamber has no neighbour and the file has never claimed one. What follows is
 | **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Grouped on loops that close on a person. That record returns a walker to a room; this one returns a thought every ninety seconds, which is the same return on a smaller clock. | One joint review entry; the counts diverged from the first mark and neither column was reconciled. | That the divergence is the finding, kept in the review's own figures rather than merged into one series. |
 | **Endless Shift** `C-IVδ-915` | Grouped on intervals that will not sit still. That record stretches an hour past any hour; this one holds its ninety seconds exactly and the person inside it is what stretches. | 2 quarters of the two series were set side by side and diverged at the first mark. | That the interval has never once varied and the deviation belongs to the worker, entered beside the row each time. |
 
-**Interaction procedure:** Compare in the record only, at the quarter's review, with the pass count and the exit question's record re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the pass count and the exit question's record re-read first and the other record's series laid beside them unchanged. Where the pass counts part, the entry names the second it happened, what was moving in the other record at that second, both counts, and what persisted past the ninety.
 
 
 ## 이야기 (Narratio) — The Tale

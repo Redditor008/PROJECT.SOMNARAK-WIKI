@@ -198,7 +198,7 @@ The Mewgical Girl cannot be safely managed by treating Mimi and Shu Shu as one o
 
 - **Breach type:** Escape on foot, and the file is careful about the word: she is not running from the unit, she is looking for the person the wish was about, and both voices are looking for the same one.
 - **Containment priority:** Address both voices before intervention. Follow the Management row’s conditional suppression authorization; Pugnahan provokes Shu Shu’s bombs and may draw Mimi into protecting the target, so it is not a guaranteed route back to control.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn while the two identities are in conflict. Forcing them apart does not address the gauge; it is the documented failure condition.
 - **Containment priority:** Get the unaddressed away first. The drain falls on whoever she is speaking to rather than on the room, and both voices agree about the choice of person — the disagreement is only ever about what to do with them.
 - **What ends it:** Nothing in the record ends a roam except both voices being answered by the same worker in the same conversation. The two recorded attempts to end one by forcing a single identity are the reason the file says so, and both closed with the body in soot and the drain still climbing.
 
@@ -413,7 +413,7 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 
 **Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity's behavior, dual-persona Work Type response, breach condition, M.A.W. instability, and interaction pattern must be read together. The Mewgical Girl is two identities sharing one vessel; a stable gauge does not prove a stable bond. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck the body-soul bond, persona-control balance, and Sorrow Gauge after every failed synchronization, charge interruption, self-hit, or forced control shift. The Unknown Sorrow Entity registry describes a living, wish-born phenomenon — not a permanently complete classification.
+**Review requirement:** Recheck the body-soul bond, persona-control balance, and Sorrow Gauge after every failed synchronization, charge interruption, self-hit, or forced control shift. Both identities are checked separately and neither is treated as the fault in the other: the misfires, the beams and the self-hits are all persona-conflict findings, and a review that explains them by one half alone has explained nothing.
 
 ## Trivia
 

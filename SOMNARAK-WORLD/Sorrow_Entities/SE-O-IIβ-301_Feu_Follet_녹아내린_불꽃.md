@@ -95,7 +95,7 @@
 
 - The failure here is pleasantness. A worker losing ground does not report pressure; they report a good shift, describe their own grief more smoothly than they did in the corridor, and are identified in debrief rather than in the room.
 - Extended exposure carries a cumulative and deceptive risk. The drift here is not toward panic but toward ease: minute by minute the room feels safer, the figure feels familiar, and the worker's account of their own grief becomes smoother and less accurate. Cognitive Fracture on this holding has been identified in debrief rather than in the room on every occasion so far.
-- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and there is none here: a flame that burns without heat still consumes, and what it consumes is the capacity to be comforted by anything smaller than itself.
+- The equipment file names the price of every piece and the field has not yet found it wrong. Nothing taken from Somnarak has ever been free, and nothing taken from this source is: a flame that burns without heat still consumes, and what it consumes is the capacity to be comforted by anything smaller than itself.
 - If the condition is not met the entity does not pursue anyone. It intensifies where it stands and the zone warps outward around it, which is the Corrupt event on the classification, and the first personnel to notice are usually in adjacent rooms rather than in this one.
 
 ## Appearance
@@ -314,7 +314,7 @@ A flame burns behind your eyes. It shows a hand, a shelter, a moment when fear s
 
 This holding is read against the other records that take their shape from whoever is looking, and the question put to every pairing is whose grief is building the face. A pairing matters here only if the face stops belonging to the observer; everything else is atmosphere and is filed as producing nothing.
 
-**Interaction method:** Baseline each entity alone; without the solo reading an interaction study here is a collection of impressions. The relations on file concern faces, warmth, or things that change according to who is present, so the question to settle is whose grief the figure is drawing on when a second entity is in range — whether the face still belongs to the observer, or has begun to come from somewhere else. Capture range, duration, trigger, gauge delta on both sides, field effect, and post-separation residue. A stable pattern is a hypothesis and not a law: re-verify every cycle, because a Sorrow Tide, an Ordeal or a transformation has reversed settled dynamics in this zone overnight.
+**Interaction method:** Baseline each entity alone; without the solo reading an interaction study here is a collection of impressions. The relations on file concern faces, warmth, or things that change according to who is present, so the question to settle is whose grief the figure is drawing on when a second entity is in range — whether the face still belongs to the observer, or has begun to come from somewhere else. The entry answers it with the face: whose features were showing at the first change, at what range they changed, both gauges, and whether the face went back to the observer once the second was out of range. A stable pattern is a hypothesis and not a law: re-verify every cycle, because a Sorrow Tide, an Ordeal or a transformation has reversed settled dynamics in this zone overnight.
 
 
 ### Entity Interaction Record

@@ -362,14 +362,12 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- The Work Type responses are set out in the Behavior section of this file.
-- Neither half of the answer is optional: the crossing is named and the loss is named, and a promise of reunion ends the session and starts the event.
-- Escalation response is carried under Containment Event Behavior and Activation Behavior.
+- Capture the song rather than the bridge. A session that begins with a promise of reunion ends there and starts the event, and the promise is entered in the singer's own words.
+- Neither half of the answer is optional: the crossing is named and the loss is named. Escalation is worked from the breach section and not from the song, which talks a warden into very little.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- Extraction risk is carried in the M.A.W. Equipment section.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- The rust is the series. The drawings oxidise at a rate the file records, and a change in that rate is the only early sign the crossing is worsening.
+- The failed crossing and the people left behind it are what Viderehan shows. The notes do not name them and neither does the file.
+**Cross-References:** The crossing and the loss are each named in the Behavior section, the oxidation rate is carried in the Combat Record's resistance line, and the extraction risk sits in the M.A.W. Equipment section.
 **Faction Involvement:** SED, on the D-territory works ledger the annual repair is recorded against · UCD, on the Fray-adjacent reach of the Forge District, where the figure walks and does not hold a bay.
 **Originator:** The subscribers of the old crossing, named in the bound volume described in the Origin section. The archive treats the subscription list and the return receipts as one document and does not hold either alone.
 
@@ -377,7 +375,7 @@ Some sorrows mourn a crossing. Corrosion Dream mourns the dream of rebuilding �
 
 **Operational interpretation:** The whole file is a ledger read against a proportion. The figure is estimated in quarters of plate to standing water — a coarse series kept consistently, which the file defends on the ground that a fine one taken irregularly is worth less than a blunt one taken every week. The quantities it answers to are the district's: nine crossing and span repairs proposed in 4238, two completed, one abandoned part-built, six funded and then cancelled with the money returned; a fraction that stood at a quarter in the first third of the year and three quarters by the end of it, each rise following a refund inside the fortnight. Read beside that the facility's own rule, adopted against a recorded objection that has never been withdrawn: one repair attempted every year without regard to likelihood of success, failures published with costs, three of the last five failed, and the fraction not above a half in any year since. The community asked one thing of this archive — that the money raised be recorded as raised — and the published ledger is the nearest thing to granting it that exists. Where the ledger and this section disagree, the ledger is right and the disagreement is preserved.
 
-**Review requirement:** Re-take the standing measurements after any containment event, Tide, Ordeal or joint session and before the next work cycle: the bay, the distance from the old abutment, the plate-to-water proportion in quarters estimated on arrival and on leaving, whether the hands are raised or lowered, and whether singing occurred — entered as a yes or a no and never as a transcript, because a Warden who has crossed a boundary that broke behind them is not asked what was sung. Beside the measurements put the week's works ledger: proposals, completions, abandonments and refunds, with the return dates, since the six returns of 4238 each moved the fraction within the fortnight. Confirm that a works order has been signed at the yard in any week the figure arrived there, that no removal of the drawings has been attempted since the one that took the figure to the records office, and that nothing on the file promises the crossing will be rebuilt. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Re-take the standing measurements after any containment event, Tide, Ordeal or joint session and before the next work cycle: the bay, the distance from the old abutment, the plate-to-water proportion in quarters estimated on arrival and on leaving, whether the hands are raised or lowered, and whether singing occurred — entered as a yes or a no and never as a transcript, because a Warden who has crossed a boundary that broke behind them is not asked what was sung. Beside the measurements put the week's works ledger: proposals, completions, abandonments and refunds, with the return dates, since the six returns of 4238 each moved the fraction within the fortnight. Confirm that a works order has been signed at the yard in any week the figure arrived there, that no removal of the drawings has been attempted since the one that took the figure to the records office, and that nothing on the file promises the crossing will be rebuilt.
 ## Warden Record
 
 ### Heard Only by Some

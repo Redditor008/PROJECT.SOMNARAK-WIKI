@@ -395,7 +395,7 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 
 **Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry, and only at Echo-Core clearance. The entity's loop-aware behavior, staging, restaging, M.A.W. cost, and interaction pattern must be read together. The Repeated Survivor is a paradox the Cycle cannot rewrite — a person who remembered, and was therefore emptied. A stable gauge does not mean the entity has ended; it means the scene has paused. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck the entity's iteration count, staging patterns, restaged variations, and any personnel loop-memory retention after every cycle reset and every "Twist the Plot" event. The Unknown Sorrow Entity registry describes a living, cycle-born phenomenon — not a permanently complete classification.
+**Review requirement:** Recheck the entity's iteration count, staging patterns, restaged variations, and any personnel loop-memory retention after every cycle reset and every "Twist the Plot" event. The iteration count is written down between resets rather than after them, because whoever carries it through a reset is the only reliable witness that the reset happened at all.
 
 ## Trivia
 

@@ -405,7 +405,7 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). Proximity removes the sense of belonging anywhere; mishandling expands the range permanently, and the range has never contracted once widened.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Viderehan and Ferrehan only. There is no face here to confront and nothing that would answer a tear; the junction index is read, the speed series walked, and neither adopted.
 - Accompany, never steer: no door closed ahead of it, no corridor cleared, no destination named within hearing.
 - On expansion, stand the cordon back along its line rather than across it and present an anchor; the drift slows and does not stop.
 **Observation Notes:**
@@ -418,7 +418,7 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is a journey that cannot end, held by an institution that cannot end it. Read the junction index, the speed series and the anchor notes together, and read them for what they do not show: no route repeated, no arrival approached, no measurable progress of any kind in either direction. The work is accompaniment and the discipline is restraint. Where the entity does something not described here, log it and leave the contradiction standing.
+**Operational interpretation:** This holding is a journey that cannot end, held by an institution that cannot end it. Read the junction index, the speed series and the anchor notes together, and read them for what they do not show: no route repeated, no arrival approached, no measurable progress of any kind in either direction. The work is accompaniment and the discipline is restraint. Anything the pair does that the junction index does not contain is added as a route and never as an exception, since every exception this file has allowed has been a claim that the journey was getting somewhere.
 
 **Review requirement:** After any expansion, Sorrow Tide, transformation attempt or unusual interaction: re-verify the junction index, the mapped range, the speed series, the exposure log and the gauge. Three further items apply here. The range is compared with the previous year's and any new corridor is added permanently. The anchor material is confirmed present and in usable condition. And the field office's objection to the accompaniment establishment is re-read in full, unaltered.
 ## Warden Record

@@ -42,7 +42,7 @@
 - A successful cycle clears the surface and settles the crack-song for a shift. It changes nothing in the ice: the faces that drained out of it do not come back, and the next person to look will be read exactly as the last one was.
 - This holding carries no breach counter and needs none. Where no count is listed the Sorrow Gauge percentage is the activation mechanism entire, and the figure here is 45%; a listed count, wherever one appears in the archive, runs down with failed cycles on any role at all — Subject, Object, Place or Relic — and this file simply does not carry one.
 - The 10–14 Han-Energy yield is the lowest band in the wing and the work is rated Low difficulty, which is exactly why this holding over-schedules. The hazard is not in any single cycle; it is in how many times one person has looked.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Taking a piece from this source means taking a shard of the surface, and the shard keeps the property: the Reflection stigma leaves its wearer unable to tell their anger from somebody else's.
+- Extraction from this set is authorised separately and is not a reward for a good cycle. Taking a piece from this source means taking a shard of the surface, and the shard keeps the property: the Reflection stigma leaves its wearer unable to tell their anger from somebody else's.
 
 ## Combat Record
 
@@ -393,15 +393,15 @@ Some sorrows mourn a face. Frozen Mirror mourns the recognition — the faces er
 - A direct gaze is the whole trigger; the plate does not escalate, the viewer does.
 **Observation Notes:**
 - A traveller, an unrecorded number of crossings, the faces going out one at a time with his own last, and no name.
-- See Combat Record for engagement history.
+- The engagement history is an absence: the Mirror has never been engaged with, and what the file records instead is what it takes from whoever works it.
 - Every piece is a shard of the surface and keeps its property; two wielders stood down for certainty without evidence.
 **Cross-References:** The Frozen Veil, The Broken Mirror, The Wrath Flame (no third session authorised), and the sealed viewing series — 212 sheets, three analysis requests refused.
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One traveller who carried a mirror across the Desolate and watched the familiar faces go out of it one at a time, his own last. He is not named, and the record does not say what became of him.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the classification, the activation record and the relic profile as one document, and then read what the holding has quietly become. This entity measures suppressed anger in whoever stands in front of it, accurately, at Comprehension Level 1, for ten to fourteen Han-Energy a cycle. Nothing else in the wing measures that at all. The standing prohibition on using viewing records in any assessment, grievance, posting decision or disciplinary matter is therefore the most load-bearing sentence in this file, and it is a prohibition on something the institution would find extremely useful — which is the only reason it has to be written down. Where observation contradicts the file, the file is wrong: log the deviation, report it, and do not reconcile it by amending the record.
+**Operational interpretation:** Read the classification, the activation record and the relic profile as one document, and then read what the holding has quietly become. This entity measures suppressed anger in whoever stands in front of it, accurately, at Comprehension Level 1, for ten to fourteen Han-Energy a cycle. Nothing else in the wing measures that at all. The standing prohibition on using viewing records in any assessment, grievance, posting decision or disciplinary matter is therefore the most load-bearing sentence in this file, and it is a prohibition on something the institution would find extremely useful — which is the only reason it has to be written down. Log the deviation, report it, and do not reconcile it by amending the record — the prohibition is written down precisely because the institution would find the thing useful.
 
 **Review requirement:** After any transformation, Sorrow Tide, Ordeal, or anomalous viewing, re-verify the gauge, the plate series, the exposure log and the object's position before work resumes. The viewing log is reviewed with the counselor and not with the line supervisor. Any incident between personnel occurring within a shift of a viewing is examined for attribution error before it is examined as conduct — the recorded risk of this entity is precisely that reflected rage is taken for personal intent, and a wing that disciplines first has turned its own instrument into an injustice.
 ## Trivia

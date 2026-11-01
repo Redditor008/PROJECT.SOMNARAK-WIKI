@@ -415,7 +415,7 @@ Some sorrows mourn a home. Floating Tree mourns the rooting — the place that h
 
 **Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour form one picture, and on this holding the picture is a route. The facts that govern are these — the tree drifts root-first 4 to 9 metres up, roots sweeping without contact, it travels with the Han currents, it leaves a shadow that outlasts it, and the condition is to mark the route and never anchor it. When the holding does something this file does not describe, document the gap; the record is a living document and the gap is the next entry.
 
-**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the route log, the shadow line, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle. On this holding the specific question is whether any anchor was set or any root touched; if a parameter has shifted, update the file rather than the memory of it, because the R.D. record here describes a living sorrow pattern and not a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the route log, the shadow line, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle. On this holding the specific question is whether any anchor was set or any root touched; if a parameter has shifted, update the file rather than the memory of it, because the root does not read the record and is not bound by it.
 ## Warden Record
 
 ### Root-First Through the Air

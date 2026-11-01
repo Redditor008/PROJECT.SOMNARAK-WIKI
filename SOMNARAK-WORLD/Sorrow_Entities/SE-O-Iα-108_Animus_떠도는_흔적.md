@@ -41,7 +41,7 @@
 - A successful cycle lets the trace fade from the Commons for a while, which is the only outcome this holding offers and is not a resolution. It returns on its own schedule along a different line, equally angry, and no nearer knowing why.
 - Both readings are live. The listed threshold is 4, a count that runs down one step per failed or refused cycle; the contact record separately sets activation at a Sorrow Gauge of 45%, and the gauge reaching that figure activates the entity whatever the count still stands at. The count is generous and the percentage is low, which is a combination that produces frequent minor activations and almost no warning time.
 - The exposure here is slow and is not measured in gauge points. It is measured in whether a warden has started to believe something about the cause, which the station checks for every quarter and has found eleven times in nine years.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Extraction from a trace this thin is marginal work and the yield is small; what comes out is a length of anger with no object attached, and the pieces look for one.
+- No piece of this trace is paid out for a good cycle; extraction is authorised on its own and minuted separately. Extraction from a trace this thin is marginal work and the yield is small; what comes out is a length of anger with no object attached, and the pieces look for one.
 
 ## Contact Record
 
@@ -81,7 +81,7 @@
 
 - The failure here is an answer. A warden who replies to the voice — even agreeing with it, especially agreeing with it — has given the anger an object, and both recorded instances were followed by the trace walking the same stretch for eleven and nine days respectively.
 - Extended exposure carries a cumulative risk with a specific shape here. Each additional minute increases the worker's need for the anger to make sense, and that need is the thing the holding actually damages. Personnel who stay too long begin constructing a cause, privately and convincingly, and report it afterwards as something they heard.
-- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to let a wrong go unexplained, and the loss is not noticed as a loss.
+- The equipment file states what each piece takes, and on this set the field record has been able to check it more closely than usual. The charge is not a formality: what this source charges is the ability to let a wrong go unexplained, and the loss is not noticed as a loss.
 - Nothing here is fought and nothing is forced. The trace walks its route, stops at the walls and goes out on its own schedule; the damage is done standing still beside it, by a person who could not leave the question open. Every one of the eleven was rotated off the holding rather than reasoned with, and none of the eleven has been recorded as doing harm with the belief they carried.
 
 ## Appearance
@@ -315,7 +315,7 @@ A red line crosses the floor, pauses, and continues. No body follows it. The air
 
 Three relations, all with holdings that kept something past its occasion, and the station measures all three the same way: does the voice get clearer. Clarity is the warning sign here and not the result, and it has risen once.
 
-**Interaction method:** Baseline each entity alone; a trace this faint produces nothing interpretable without a long solo series behind it. The relations on file concern anger, inheritance, or things that persist past their cause, so the question to settle is whether the voice becomes clearer in company — clarity being the warning sign on this holding rather than the result. Capture range, duration, trigger, gauge delta on both sides, field effect, and post-separation residue. A stable pattern is a hypothesis and not a law: re-verify every cycle, because a Sorrow Tide, an Ordeal or a transformation has overturned settled dynamics in the Commons before.
+**Interaction method:** Baseline each entity alone; a trace this faint produces nothing interpretable without a long solo series behind it. The relations on file concern anger, inheritance, or things that persist past their cause, so the question to settle is whether the voice becomes clearer in company — clarity being the warning sign on this holding rather than the result. The entry records whether clarity rose, by how much and at what range, with both gauges at the change. A clearing voice is reported upward the same day and not at the quarter. A stable pattern is a hypothesis and not a law: re-verify every cycle, because a Sorrow Tide, an Ordeal or a transformation has overturned settled dynamics in the Commons before.
 
 
 ### Entity Interaction Record
@@ -371,11 +371,11 @@ Some sorrows mourn a grievance. Animus mourns the lost cause — the anger carri
 - Two pieces; wielders name a wronging colleague and it is a different colleague every rotation.
 **Cross-References:** The Rusted Soul, The Angry Maiden, The Forgotten Soldier (no third session), the lexicon of 61 words, and the sealed file of eleven incompatible beliefs.
 **Faction Involvement:** SED (D-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A line of people who inherited a quarrel and kept it, passing on the anger intact and the reason imperfectly. No individual is identifiable and no counterparty is named anywhere in the record.
 
 ### Registry Addendum
 
-**Operational interpretation:** The suppression condition here is a prohibition rather than an action. Do not supply a false reason; observe and endure until it fades. An archive exists to establish causes, and this is the holding where establishing one is the harm — not because the answer would be wrong, though it would, but because this entity has no object for its anger and a supplied reason gives it one. The wing has twice commissioned historical work on the original quarrel. Both inquiries produced coherent, well-sourced, mutually incompatible accounts, and both were followed by a measurable fortnight of activity at the Commons. The second inquiry's findings were sealed rather than filed, and the minute ordering the seal says that the Directorate had learned something about itself and not about the grievance. Where the entity contradicts this record, trust the entity; preserve the contradiction as evidence rather than normalising it.
+**Operational interpretation:** The suppression condition here is a prohibition rather than an action. Do not supply a false reason; observe and endure until it fades. An archive exists to establish causes, and this is the holding where establishing one is the harm — not because the answer would be wrong, though it would, but because this entity has no object for its anger and a supplied reason gives it one. The wing has twice commissioned historical work on the original quarrel. Both inquiries produced coherent, well-sourced, mutually incompatible accounts, and both were followed by a measurable fortnight of activity at the Commons. The second inquiry's findings were sealed rather than filed, and the minute ordering the seal says that the Directorate had learned something about itself and not about the grievance. Anything the voice says that the sealed minute does not cover is entered beside it, and stays sealed with it.
 
 **Review requirement:** Every containment event, Sorrow Tide or Ordeal invalidates the baseline; re-verify the gauge, the exposure log, the position and the state of the Commons before work resumes. Two further items are required here. Transcripts are checked for interpretation — any sentence describing what the voice meant is struck from the record and noted as struck, with no consequence to the author, because supplying meaning is what a literate person does with an incomplete sentence. And any worker who has formed a settled belief about the cause is rotated off the holding and asked to write the belief down for the sealed file rather than being argued out of it, since arguing has been tried and entrenches it.
 ## Trivia

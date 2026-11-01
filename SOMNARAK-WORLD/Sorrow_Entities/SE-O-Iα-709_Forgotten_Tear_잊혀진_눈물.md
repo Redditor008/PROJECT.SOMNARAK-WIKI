@@ -375,11 +375,11 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 - Touch is the trigger. End the hold at 30 grams or at the first living name, whichever comes first.
 **Observation Notes:**
 - An ordinary death, a mourner who was never identified, and four inconclusive attempts to identify them.
-- See Contact Record for contact history.
+- The contact history is a weight read between opening and closing: eleven to thirty-four grams across 212 cycles, with the closing figure compared to the opening one every time.
 - Two pieces; the bonus is forfeited the moment the bearer calls the grievance their own.
 **Cross-References:** The Frozen Tear, The Rage Statue (suspended), The First Tear (ancestry marked unsupported), the 212-cycle mass series, and the Year 4,226 closing words.
 **Faction Involvement:** None. The holding has never left the vault and no faction has asked for access; the SED and UCD lines were struck in Year 4,233 as clerical carry-over.
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A man whose death was treated as unremarkable by everyone who heard of it. The mourner has never been identified; four attempts are on file, all filed inconclusive, and none quietly adopted as the answer.
 
 ### Registry Addendum
 

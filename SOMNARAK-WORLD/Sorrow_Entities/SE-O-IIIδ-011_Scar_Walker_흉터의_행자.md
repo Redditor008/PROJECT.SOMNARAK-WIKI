@@ -372,14 +372,13 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
 - The salute is operational, not ceremonial: an escort that is not formally dismissed follows visitors out of the sector, and the gate register records who gave the salute and who was still accompanied on the way out.
-- For what happens when a watch goes wrong, the Breach Behavior and Activation Behavior sections carry it.
+- Dismiss the escort at the gate and never on the Scar. Aggression at the Scar is desecration, and nothing a warden says talks the Walker out of it afterwards.
 **Observation Notes:**
-- Formation and the event itself are set out in the Origin section.
-- See Combat Record for engagement history.
-- The extraction risk sits with the M.A.W. Equipment section.
-**Cross-References:** See entity’s Interaction Record and Trivia for connected entities.
+- The gate register is the instrument: every salute, every dismissal and every visitor still accompanied on the way out is entered there.
+- The Walker goes for whoever last stood on the rift. The breach account says so in terms, and the party order on the return is set by it.
+**Cross-References:** The gate register is kept at the sector gate, engagement history sits under the Combat Record, and the extraction risk in the M.A.W. Equipment section.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** Soldiers and citizens of all six factions of the Occlusihan. The entity carries their shared anger rather than any one allegiance.
 
 ### Registry Addendum
 

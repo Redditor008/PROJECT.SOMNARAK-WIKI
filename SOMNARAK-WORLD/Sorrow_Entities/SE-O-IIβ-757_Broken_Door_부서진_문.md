@@ -42,7 +42,7 @@
 - A successful cycle brings the flame down a grade and holds it there for a while. It closes nothing. The door still stands between two halves of a household that was divided without anybody's consent, and no work performed on the frame addresses the division.
 - No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 60%; the absence of a count is a property of the holding and not an omission, and no number may be invented to fill the row.
 - The yield is highest exactly when the holding is least safe, because both follow the flame. A grade-four autumn evening is the best cycle on the ledger and also the state in which three of the four handle incidents occurred; the Gardens office caps autumn bookings at two a week for that reason and has refused every request to raise it.
-- M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. What is taken from this source is a piece of a threshold nobody chose, and the pieces hold that character: they divide things cleanly and without malice, and the division is not reversible by the person who made it.
+- Whatever is taken from this source is taken under its own authorisation and never as payment for a cycle well worked. What is taken from this source is a piece of a threshold nobody chose, and the pieces hold that character: they divide things cleanly and without malice, and the division is not reversible by the person who made it.
 
 ## Contact Record
 
@@ -79,7 +79,7 @@
 
 - The failure here is conversational. A worker who begins talking about somebody who left — their own, usually, not the household in the file — is already inside the failure, and the flame will be a grade higher before they have finished the sentence. The ledger's purpose is to catch this at the first mention.
 - Extended exposure carries a cumulative risk that presents as unfinished business. Each additional minute in front of the opening increases the worker's need to say something to somebody who is not present, and personnel who stay too long leave the Gardens composing conversations they will not have.
-- The equipment file states what each piece takes and the field record has never contradicted it. There is no costless extraction in Somnarak and none here: what this source charges is the ability to part from people easily, and the charge is levied on the wielder's ordinary life rather than on their shifts.
+- Every piece on this set has its cost entered on the equipment file, and the returns have matched it line for line. What this source charges is not optional: what this source charges is the ability to part from people easily, and the charge is levied on the wielder's ordinary life rather than on their shifts.
 - If the condition is not met the entity transforms rather than escaping: the opening widens, the fire climbs the frame without spreading beyond it, and the Gardens on either side of the door begin to read as two separate places to the people standing in them.
 
 ## Appearance
@@ -371,15 +371,15 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 - Escalation is a name, a grade, and a step, in that order and within about forty seconds.
 **Observation Notes:**
 - The origin is a lawful property division signed by seven people, and the settlement is kept in the ledger's front cover.
-- See Contact Record for contact history.
+- The contact history is a flame graded every ten minutes and a hinge angle read against a plumb mark, by wardens standing at the side of the frame and never in front of it.
 - Two boards and a hinge have been cut from the frame; the authorisation has not been renewed and the Armoury recommends it never is.
 **Cross-References:** The Collapsed Door, The Wandering Door and The Echo of Laughter, and the Archive's eleven-page composite of the room.
 **Faction Involvement:** The Echo Gardens office holds the ledger and the flame scale; the Archive holds the room composite and the four contact accounts; the Armoury holds the lapsed cutting authorisation.
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** One household divided by an Echo incident, and the door that stood between its two halves. The property division agreed afterwards is on file: ordinary, fair on its face, and agreed without dispute.
 
 ### Registry Addendum
 
-**Operational interpretation:** The file is a map and the Gardens are the territory, and the management practice on this holding is a small one that personnel find oddly hard to keep. Everybody who leaves the holding says that they are leaving. Aloud, to the person they are handing over to, with the time and the expected return, and nobody slips away at the end of a shift. The practice exists because this sorrow is specifically the anger of being forced apart before goodbye or explanation, and the wing's view — recorded when the practice was adopted and never since challenged — is that a facility which cannot manage an announced departure has no standing to work this entity at all. The difficulty is purely human. Announced leave-taking feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. Each reinstatement is recorded with the lapse that preceded it. Where the entity contradicts this file, trust the entity and preserve the contradiction as evidence rather than normalising it.
+**Operational interpretation:** The file is a map and the Gardens are the territory, and the management practice on this holding is a small one that personnel find oddly hard to keep. Everybody who leaves the holding says that they are leaving. Aloud, to the person they are handing over to, with the time and the expected return, and nobody slips away at the end of a shift. The practice exists because this sorrow is specifically the anger of being forced apart before goodbye or explanation, and the wing's view — recorded when the practice was adopted and never since challenged — is that a facility which cannot manage an announced departure has no standing to work this entity at all. The difficulty is purely human. Announced leave-taking feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. Each reinstatement is recorded with the lapse that preceded it. A discrepancy is preserved as evidence, with the lapse that preceded it, because every reinstatement of this rule so far has come with one.
 
 **Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the flame series, the hinge angle, the exposure log and the position before work resumes. Two further items apply here. The watch record is checked for unannounced departures, and a lapse is logged against the holding rather than the individual, because the practice fails collectively or not at all. And any worker who has spoken a name into the doorway, for whatever reason, is seen by the counselor the same day — the opening gives onto the moment before a break, and a person who has just watched one is owed more than a note in the file.
 ## Watch Record

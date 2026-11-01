@@ -144,7 +144,7 @@ Ferrehan here is worked in heat-resistant leather and nothing else. Show the iro
 | **Termination / Return** | The relic is completely consumed by its discharge; what remains is the inert slag specified for this wedge, not a reusable iron tool. |
 | **Risk** | The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 
-**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
+**Operational Rule:** A single-use relic is spent, not stored. The wedge is spent by the blow that drives it and not by the stone it enters: once the hammer has come down the wedge stays where it was put, and it stays as metal.
 
 ### Log and Method
 

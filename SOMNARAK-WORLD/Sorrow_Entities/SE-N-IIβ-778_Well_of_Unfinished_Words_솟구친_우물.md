@@ -381,12 +381,12 @@ Some sorrows are about losing. This one is about not being heard — mourning th
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). Interrupted testimony raises the retained water level; overflow exposes the border ground to Lament pressure. The fixed shaft does not pursue personnel.
 **Containment & Handling Procedures:**
-- Work Type responses are in the Behavior section; two of the four do not apply to a fixed Place, which is how these records are written and not a gap in this one.
-- Standard containment protocols apply.
+- The work is to let a testimony finish. Nobody interrupts a speaker at the well-head, including a warden on a schedule, and a session that has to be cut is entered as cut with the level re-read after it.
+- The coping mark is read from the border ground and never re-struck to match the water. Two of the four Work Types do not apply to a fixed Place, which is how these records are written.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Contact Record for the level reading and the close.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- The level is the instrument: read against the coping mark at the start and the end of every session, and a rise between the two means somebody was stopped.
+- The shaft has never been entered and nothing has been lowered into it. The file records no attempt and no proposal.
+**Cross-References:** The level series is kept with the Contact Record and the settlement history with the Keepers' border register; the Origin section carries the dispersal the Well was made of.
 **Faction Involvement:** SED, whose border survey holds the only record of the gathering, taken three days after it was broken up.
 **Originator:** The mourners of the Zone E border, counted in the Keepers' record and unnamed in it.
 

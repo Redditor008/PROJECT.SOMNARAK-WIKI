@@ -352,7 +352,7 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 
 ### Registry Addendum
 
-**Operational interpretation:** This file reads whole or not at all, and the parts have to be held together: the suspension, the single effective remedy, the two places that remedy has ever worked, and the title the facility now holds over the ground they stood on. Where observation contradicts the record, the record is wrong — the instruction is to write the contradiction down and leave it standing rather than normalise it.
+**Operational interpretation:** This file reads whole or not at all, and the parts have to be held together: the suspension, the single effective remedy, the two places that remedy has ever worked, and the title the facility now holds over the ground they stood on. A remedy that works where the file says it cannot is entered with the hour and both places named, and the doctrine is left standing until somebody can account for it.
 
 **Review requirement:** Re-verify after any event, Tide, Ordeal or unusual interaction: gauge, rim height against the scale, diameter, depth estimates with estimators named, clearance condition, gantry load tests, and the standing of the mourning points listed in the Warden Record. Height readings are never averaged across Wardens.
 ## Warden Record

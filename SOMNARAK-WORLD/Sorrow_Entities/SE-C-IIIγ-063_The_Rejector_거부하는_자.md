@@ -146,7 +146,7 @@
 
 ### Operational Work Notes
 
-The Rejector is a Subject with Subject-Body manifestation and Void expression, held in SECTOR-C-01 with the other two Debt Triplets. All four Work Types are valid and only one of them does anything: Ferrehan lowers the gauge, and Flerehan, Pugnahan and Viderehan leave it exactly where it was. The Registrum entry naming Viderehan as the primary approach describes what the wing mostly does rather than what works, and is corrected here.
+The Rejector is a Subject with Subject-Body manifestation and Void expression, held in SECTOR-C-01 with the other two Debt Triplets. All four Work Types are valid and only one of them does anything: Ferrehan lowers the gauge, and Flerehan, Pugnahan and Viderehan leave it exactly where it was. The Viderehan-primary entry the Registrum once carried described what the wing mostly does rather than what lowers anything, which is why all four rows are printed in full: three of them are visibly doing nothing.
 
 **Reading the response:** Read it in the silence and in the register. A falling gauge presents as a worker and an entity sitting together with nothing being asked, for a long time, and ends when the worker's own tolerance ends rather than when his does. A rising gauge presents the instant anybody tells him to do something; the rise is immediate, proportionate to how reasonable the instruction was, and does not come back down within the watch.
 ## Breach Behavior

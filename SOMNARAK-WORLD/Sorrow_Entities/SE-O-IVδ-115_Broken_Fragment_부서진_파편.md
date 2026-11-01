@@ -366,7 +366,7 @@ Broken Fragment is Object-Weight not because one approved history can be assigne
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). It attacks nobody and has never pursued anything. The hazard is the bowl — ground that is slowly ceasing to be ground — and a weight that settles on whoever touches the crystal.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only; it is an Object/Place and cannot be wept with or confronted.
+- Viderehan and Ferrehan only. The weight is measured and the bearer is stood with; a Place offers nothing to weep at and nobody to confront.
 - Work from the stable margin outside the deformation radius. No entry into the bowl, no contact, no lifting attempt by any method.
 - Nothing is stabilised, shored or recovered inside the bowl under any circumstances, including the rigging and including people.
 **Observation Notes:**

@@ -438,7 +438,7 @@ The lamp rule requires one more lamp than the crew needs, lit all watch — and 
 - **Classification detail:** Sorrow Tide is an Object/Place with Sovereign (V) — Autonomous and cyclical coherence and Major (γ) potency.
 - **Field detail:** Weight, in all zones, every night between sunset and dawn, measured at nine fixed gauge stations and predicted a year ahead.
 - **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
-- **Record detail:** Similar entities may share names, elements, or locations; the full designation and manifestation must be checked before work begins.
+- **Record detail:** This phenomenon has no single location and appears in every zone, so 'where it is' settles nothing here. The designation and the manifestation are both read before work begins, and neither is inferred from the other.
 - **Containment detail:** There is no containment, no door and no boundary. The city's whole provision against this holding is a printed table and a room with the lights on.
 ## Document Information
 

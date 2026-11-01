@@ -332,7 +332,7 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the body register, the handler log, the allocation figures and the use the facility makes of them are one picture. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the body register, the handler log, the allocation figures and the use the facility makes of them are one picture. A handler whose entry disagrees with the register is entered in the handler log under their own name, and neither document is edited to agree with the other.
 
 **Review requirement:** Re-verify after any retained-tempo case, Tide, Ordeal or unusual interaction: gauge, relic tempo series, handler rates by name, plinth transmission, the condition of the allocation page, and the standing of the disclosure refusal recorded in the Warden Record.
 

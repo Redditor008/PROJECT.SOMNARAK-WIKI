@@ -385,7 +385,7 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 - Touch or a held gaze; only a second person saying the viewer's name and the date ends a viewing.
 **Observation Notes:**
 - Four generations of tunnel crews resting a palm on a cool surface at the end of a shift.
-- See Contact Record for contact history.
+- The contact history is a register of hands. The pane reflects every person who has stood at it, and all four failures on record began with a palm set on the glass.
 - Two pieces from the cracked edge, eleven shards rejected for carrying a hand; wielders file other people's shifts.
 **Cross-References:** The Broken Mirror, The Whispering Walls (eleven names recovered), The Torn Trace (closed), the lower network patrol sheet, and the eleven rejected shards in the Armoury ledger.
 **Faction Involvement:** SED (C-territory exploration)

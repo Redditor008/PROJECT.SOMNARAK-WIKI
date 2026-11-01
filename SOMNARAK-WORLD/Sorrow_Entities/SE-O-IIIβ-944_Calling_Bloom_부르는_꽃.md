@@ -398,7 +398,7 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 
 **Operational interpretation:** This record is valid only with the full classification above. Calling Bloom's behavior, Work Type response, activation and breach condition, M.A.W. risk, and interaction pattern must be read together — she is bait and caught-thing in the same body, and the bloom will always use the voice that works. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it; in this wood, the contradiction is usually where the truth is hiding.
 
-**Review requirement:** Confirm containment status, Sorrow Gauge trend, personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Confirm containment status, Sorrow Gauge trend, personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The Bloom's only act is a call, so what the review confirms is who answered and whether they are still answering.
 
 ## Warden Record
 

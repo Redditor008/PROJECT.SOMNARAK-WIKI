@@ -395,7 +395,7 @@ Some sorrows are about cruelty. Emberling is about absence — the simple absenc
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the ember can tell freely given attention from every substitute for it, the entity is not a child in law and so is owed nothing by anybody, and the facility responded to both findings by removing the sitting from paid time. Where observation contradicts this record, the record is wrong — preserve the discrepancy and let the file grow.
+**Operational interpretation:** The three sections below are one argument and are read together: the ember can tell freely given attention from every substitute for it, the entity is not a child in law and so is owed nothing by anybody, and the facility responded to both findings by removing the sitting from paid time. What the observation shows and the file does not is entered as an addition to the file. Removing a paid sitting from the record has been tried once already and did not make it unpaid.
 
 **Review requirement:** After any breach, Tide, Ordeal or unusual interaction, confirm gauge, brightness against the lamp scale, ember present, grid position, refusal count, the hours logged by volunteers against the hours rostered, and the standing of the presence-allowance proposal.
 ## Watch Record

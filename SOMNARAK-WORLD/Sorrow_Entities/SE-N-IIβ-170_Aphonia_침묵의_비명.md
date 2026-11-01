@@ -189,7 +189,7 @@ Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, all but colourless, that carries whatever was last said to it: held up in a quiet room, the fabric shows a faint line of light where a voice has crossed it, and the line fades over about an hour.
 
 **Resistances:**
 - Lament: 1.2 (Weak)

@@ -159,7 +159,7 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 ### Escalation Notes
 
 - **Containment priority:** No physical suppression or contact. Keep to the marked line on the far side; use Viderehan and Ferrehan without touching the span.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn for as long as the wall's rate is left running. Nothing done to the wall changes the rate, because the gauge is reading the building and the building takes no instruction.
 
 ## M.A.W. Equipment
 

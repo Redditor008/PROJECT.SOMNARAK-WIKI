@@ -373,7 +373,7 @@ Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that ope
 
 **Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour are one picture, and on this holding the picture is a single moving measurement. The figures that govern are the tear's annual record — 11, 19 and 26 millimetres from the crown of the stem — the 4 to 6 centimetres the Sorrow Flower keeps from the split, and the Orphaned Bell's 11 tolls out of 11. When the entity does something this file does not describe, document the gap: the record is a living document and the gap is the next entry.
 
-**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the tear position, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle, re-measuring the tear from the crown of the stem. If any parameter has shifted, update the file rather than the memory of it; the file's own position is that the R.D. record describes a living sorrow pattern rather than a permanently complete explanation.
+**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the tear position, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle, re-measuring the tear from the crown of the stem. If any parameter has shifted, update the file rather than the memory of it; the file's position is that the tear is measured from the crown and never from the last figure, since the stem grows and the tear does not.
 ## Bloom Record
 
 ### What the Tear Position Is Measuring

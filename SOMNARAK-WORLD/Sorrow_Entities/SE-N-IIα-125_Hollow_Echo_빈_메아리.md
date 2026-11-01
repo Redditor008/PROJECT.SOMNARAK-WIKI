@@ -191,7 +191,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and all but colourless, that repeats the wearer's movement a moment after they make it — the echo is visible only at the hem, and only when the wearer has stopped.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)

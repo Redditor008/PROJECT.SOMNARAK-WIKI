@@ -142,7 +142,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 | **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
 | **Risk** | The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
 
-**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
+**Operational Rule:** A single-use relic is spent, not stored. The octagonal tablet breaks once along its score and there is nothing afterwards to break a second time: the halves are brass, the discharge was in the breaking, and neither half will do it again.
 
 ### Log and Method
 

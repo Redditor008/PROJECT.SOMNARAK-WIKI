@@ -367,7 +367,7 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 - The radius grows when files are closed administratively; it shrinks when they are re-opened.
 **Observation Notes:**
 - One mourner of Collector's Row, taken mid-cry in a raid, never recovered and never declared.
-- See Combat Record for engagement history.
+- The engagement history is the opposite of what a file like this usually records: five drain for every attempt to identify or silence the voice, and none at all for the time spent listening to it.
 - Two pieces taken from a sound; wielders stop finishing sentences about anybody who is missing.
 **Cross-References:** The Hollow Echo, The Whispering Walls (two names recovered, two files re-opened), The Debt Collector's Shadow, the Row registry's 61 raid files, and the Year 4,231 decision to stop collecting heard words.
 **Faction Involvement:** UCD hold the Row as Fray-adjacent and have twice asked for the raid files to be concluded as a records-management matter. Both requests are in this file rather than in the registry's, because on this holding a filing decision is an operational act.

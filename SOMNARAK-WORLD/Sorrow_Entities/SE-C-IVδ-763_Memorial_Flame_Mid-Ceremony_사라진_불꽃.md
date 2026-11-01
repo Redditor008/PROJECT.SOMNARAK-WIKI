@@ -378,7 +378,7 @@ Some sorrows mourn the dead. Memorial Flame Mid-Ceremony mourns the unfinished �
 
 ### Registry Addendum
 
-**Operational interpretation:** The whole file turns on one distinction: this vault is a hazard the wing may abate and a funeral the wing may not hold. Read the thermal series, the scene position and the entry register together, and note that the third deliberately records nothing about what happened to the person inside. Every refusal in the file — the flame, the reading, the pairing — is the same refusal in a different form. Where the entity does something not described here, log it and leave the contradiction standing.
+**Operational interpretation:** The whole file turns on one distinction: this vault is a hazard the wing may abate and a funeral the wing may not hold. Read the thermal series, the scene position and the entry register together, and note that the third deliberately records nothing about what happened to the person inside. Every refusal in the file — the flame, the reading, the pairing — is the same refusal in a different form. If the vault does something none of those refusals covers, the refusal is extended to it in writing and signed before the next entry is authorised.
 
 **Review requirement:** After any expansion, Sorrow Tide, transformation attempt or unusual interaction: re-verify the warmth differentials against the budgeted figure, the outline against the floor marks, the scene position, the exposure log and the gauge. Three further items apply here. The order of service is confirmed present, folded and unread. The no-entry day is confirmed on next year's calendar before the review closes. And the research office's objection to that day is re-read in full, unaltered.
 ## Apex Record

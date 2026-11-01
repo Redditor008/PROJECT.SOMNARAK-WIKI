@@ -384,7 +384,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification and the standing WARNING. The three sections below are one argument and are read together: the feeding made the hazard, the practice was lawful because it met the standard of its day, and the finding was classified so that the requisition could be closed without the district being told. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** This record is valid only with the full classification and the standing WARNING. The three sections below are one argument and are read together: the feeding made the hazard, the practice was lawful because it met the standard of its day, and the finding was classified so that the requisition could be closed without the district being told. What the district was not told stays out of the district's copy and in this addendum. The two copies are kept apart rather than reconciled for tidiness.
 
 **Review requirement:** After every breach, expansion or unusual interaction, recheck containment status, gauge trend, the hunger-cycle baseline, the feeding ledger, the separation distance from C-IIIγ-948, and the standing of both the classification order on the withholding trial and the nine other requisition lines it bears on.
 

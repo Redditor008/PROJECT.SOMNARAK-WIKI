@@ -385,9 +385,9 @@ Some sorrows are owned. Frozen Echo is a sorrow that lost its owner — or rathe
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map and not the territory: the SECC code, the gauge thresholds and the M.A.W. notes are tools for standing in the room, not substitutes for it. What governs here is small and heavy — the object holds somebody's last minute, one named handler works it, the clock-holder's call ends the watch, and the weight changes slightly every time a person touches it. Where behaviour deviates from this file, the deviation is the most important thing about the holding, and it is preserved as evidence rather than tidied away.
+**Operational interpretation:** The code, the thresholds and the M.A.W. notes are what a warden carries into the room, and none of them is what the room is. What they are for is getting the handler out with the minute they came in with. What governs here is small and heavy — the object holds somebody's last minute, one named handler works it, the clock-holder's call ends the watch, and the weight changes slightly every time a person touches it. Where behaviour deviates from this file, the deviation is the most important thing about the holding, and it is preserved as evidence rather than tidied away.
 
-**Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline, and on this file the re-verification is by people who were not on the watch: gauge, temperature differential, the imprint count, the handler's own account of the minute they were carrying, and the sleep question asked at the return. The R.D. record describes a living sorrow pattern and not a permanently complete explanation.
+**Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline, and on this file the re-verification is by people who were not on the watch: gauge, temperature differential, the imprint count, the handler's own account of the minute they were carrying, and the sleep question asked at the return.
 ## Warden Record
 
 ### Every Hand

@@ -399,7 +399,7 @@ If I opened up my eyes there'd be no more going back
 
 **Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity's endless play, the unchanged lyrics, the fade-mechanism, and the M.A.W. cost must be read together. The Music Box of Agony is a true sentence about suffering set to a tune; it does not end because the suffering it describes does not end. A stable gauge does not mean the song has stopped — only that no one is currently circling. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck the recitation count, the lyric transcription (against prior files), listener Clarity baselines, and the fade-state of the original occupant after every observation and any acoustic-resonance event. The Unknown Sorrow Entity registry describes a living sorrow pattern — not a permanently complete classification.
+**Review requirement:** Recheck the recitation count, the lyric transcription (against prior files), listener Clarity baselines, and the fade-state of the original occupant after every observation and any acoustic-resonance event. The transcription is checked line by line against the prior files, because a verse altered once is altered in every mouth after.
 
 ## Trivia
 

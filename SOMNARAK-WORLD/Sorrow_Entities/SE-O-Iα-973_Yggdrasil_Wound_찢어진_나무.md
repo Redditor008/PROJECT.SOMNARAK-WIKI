@@ -210,7 +210,7 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Void
 
-**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+**Appearance:** a flowing veil of Void Han-gossamer, near-translucent and almost colourless, with a tear down the left side that has never widened, never been mended and never been explained; the fabric falls differently on either side of it.
 
 The veil's safety doctrine is the source's resolution clause, *ground the worker and permit both memories to remain*: the garment does not resolve a conflict, it holds both sides of one until the wearer can. Worn through a cycle it keeps two copies of the self in step — agreeing with themselves, working alongside themselves, and finding the arrangement unremarkable until somebody else points it out, which is the point at which the armoury withdraws the item and not the wearer.
 

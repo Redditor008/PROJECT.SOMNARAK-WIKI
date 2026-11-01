@@ -373,7 +373,7 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 
 ### Registry Addendum
 
-**Operational interpretation:** This file reads whole or not at all: the classification, the four Work Type responses, the overlap warning, the one-hour listening cap and the identification record are one picture and none of them stands alone. Where observation contradicts the record, the record is wrong — write the contradiction down and leave it standing rather than normalise it.
+**Operational interpretation:** This file reads whole or not at all: the classification, the four Work Type responses, the overlap warning, the one-hour listening cap and the identification record are one picture and none of them stands alone. A listener's account that disagrees with the file goes into the addendum in the listener's own words, and the file is left holding both.
 
 **Review requirement:** Re-verify after any transformation event, Tide, Ordeal or unusual interaction: gauge, acoustic seal, group pattern and overlap state, listening minutes by name, recognitions declared, and the standing of every entry in the sittings register. Listening minutes are totalled across watches and are not reset at the shift boundary.
 ## Warden Record

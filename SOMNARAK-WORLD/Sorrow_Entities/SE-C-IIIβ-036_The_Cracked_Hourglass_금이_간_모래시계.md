@@ -399,7 +399,7 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent â€
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the rate and crack behaviour, the relic cost, and the storage and withdrawal arrangements are one picture, and the last of those changes the meaning of the rest. Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it.
+**Operational interpretation:** This file is read whole or not at all: the classification, the two valid Work Types, the rate and crack behaviour, the relic cost, and the storage and withdrawal arrangements are one picture, and the last of those changes the meaning of the rest. A grain count that does not match the last one is filed with the discrepancy intact, since the count is the only thing on this file that has ever changed without anybody touching it.
 
 **Review requirement:** Re-verify after any Transform event, Tide, Ordeal or unusual interaction: gauge, fall rate, crack against the quarter's figure, container count and labels, storage room seals, exposure minutes by name, and the standing of every application in the examination register. Crack figures are never adjusted to match an expectation.
 ## Warden Record

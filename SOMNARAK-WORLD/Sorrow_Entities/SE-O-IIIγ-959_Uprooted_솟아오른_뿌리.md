@@ -41,7 +41,7 @@
 - A successful cycle loosens the roots and dims the fire for the length of one passage. It does not settle the entity, which has no site to be settled on: the holding is a route, not a cell, and the next foundation line is already surveyed.
 - Activation here is read twice over. The stated threshold of 2 counts down with each failed or refused cycle, and a Sorrow Gauge at or above 75% activates the entity on its own regardless of what the count stands at; not every holding in the archive carries a count at all, and where none is listed the percentage is the only reading there is.
 - The 16–22 Han-Energy yield is modest because the work is mostly walking and recording, and the exposure is correspondingly slow — it accrues over seasons of escort duty rather than in a single cycle. Rotate personnel off the route before they begin describing it as their route.
-- M.A.W. extraction is a separate authorised event and never a bonus attached to a good cycle. The α-grade set drawn from this entity is cheap to field and expensive to carry: the Shield's recorded cost is the sorrow of every place its wearer has left, and that cost does not stop when the harness comes off.
+- Extraction is authorised on its own and is never a bonus attached to a good cycle. The α-grade set drawn from this entity is cheap to field and expensive to carry: the Shield's recorded cost is the sorrow of every place its wearer has left, and that cost does not stop when the harness comes off.
 
 ## Combat Record
 ### Core Stat Line
@@ -368,15 +368,15 @@ Some sorrows mourn a home. Uprooted mourns the rooting — the attempt to belong
 - It stops travelling and begins to rise. Three of the four risings followed a cut tendril.
 **Observation Notes:**
 - Nineteen sites with occupation dates; the intervals shorten the whole way down and the ground got better, not worse.
-- See Combat Record for engagement history.
+- The engagement history consists of four risings in nine years, each costing five Composure a cycle while it rose. Travelling costs nothing and is the state it spends most of its time in.
 - The set is split into three M.A.W. pieces — Weapon, Suit, and Stigma; the cost is a settled conviction that the posting is temporary, and it is visible in the wielder’s room.
 **Cross-References:** The Spreading Root, The Rootless (followed this one's line twice), The Burning Root (dispatch-name hazard), the nineteen-site list, and the Year 4,230 overnight room.
 **Faction Involvement:** SED (Desolate-territory exploration)
-**Originator:** See Origin section — ‘The People’ field.
+**Originator:** A Desolate community that moved again and again because the charged ground would not hold a permanent structure. The intervals between sites grow shorter down the page.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the classification, the Combat Record, the M.A.W. profile and the Warden Record together, and read the commissioning file with them, because the uncomfortable part of this holding is in the commissioning file. The sequence of abandoned sites ends at the ground the facility is built on. Nothing in the record claims the wing is implicated in what formed the entity, and nothing in the record rules it out, and the shortening intervals are noted once and not interpreted. Personnel should know this before they are posted here rather than working it out from the plotted sheet. Where observation contradicts the file, the file is wrong: log the deviation, report it, and do not reconcile it by editing the record — the contradictions on this holding have outlasted every attempt to tidy them, and are the most useful thing in it.
+**Operational interpretation:** Read the classification, the Combat Record, the M.A.W. profile and the Warden Record together, and read the commissioning file with them, because the uncomfortable part of this holding is in the commissioning file. The sequence of abandoned sites ends at the ground the facility is built on. Nothing in the record claims the wing is implicated in what formed the entity, and nothing in the record rules it out, and the shortening intervals are noted once and not interpreted. Personnel should know this before they are posted here rather than working it out from the plotted sheet. The plotted sheet is the record and it is not improved after the fact. Every attempt to tidy this holding has failed in the same direction, and the untidy version is the more useful one.
 
 **Review requirement:** After any breach, blocked passage, structure left standing past dawn, or unusual interaction, re-verify the gauge, the activation count, the exposure log, and the entity's position against the foundation surveys before the route is worked again. Every barricade raised during the event is listed by grid reference with the reason it was necessary. That list is an operational record and not a charge sheet: the teams that raise barricades are usually right to, and a review that discourages them from writing the barricade down has removed the only explanation the next gauge reading will ever have.
 ## Warden Record

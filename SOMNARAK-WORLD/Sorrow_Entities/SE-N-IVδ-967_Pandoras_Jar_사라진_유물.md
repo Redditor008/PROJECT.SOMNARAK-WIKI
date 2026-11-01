@@ -366,11 +366,11 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 **Containment & Handling Procedures:**
 - Take the temperature, bear the heat, and name something that was lost — aloud, with a description, from the facility's own destruction entries. Viderehan and Ferrehan only.
 - Heat is the only instrument that finds it. Read the air temperature at every post before the Work Type is chosen, and carry the name of something the facility actually lost, described aloud, not a sentiment about loss.
-- See Breach Behavior or Activation Behavior for escalation response.
+- Escalation is not a response the wardens choose: the drain climbs by the rule in the breach section and falls back only when the condition that raised it is met.
 **Observation Notes:**
-- See Origin section for formation and event details.
-- See Combat Record for engagement history.
-- See M.A.W. Equipment section for extraction risk.
+- The formation is an absence: a relic taken off a Desolate expedition, a manifest with one line inked out, a customs weight, and a crating receipt. The archive states on its first page that it cannot establish these people existed.
+- The engagement history is a temperature: ten degrees a turn while nobody reads from the register, back to ambient on the turn a destroyed item is described aloud.
+- Nothing is extracted from this source without a separate authorisation, and the cost of each piece is entered on the equipment file rather than discovered in the field.
 **Cross-References:** The Maw (nineteen degrees), The Forgotten Soldier (the only acknowledgement), The Burning Library (one inventory line), the facility's retention schedules, and the forty-one entries described retrospectively.
 **Faction Involvement:** Judexhan hold the δ-grade order. SED route expeditions around the heat and have supplied the only surviving expedition manifest from the relevant season, which lists the party, the ground covered, and — in the column where the finds should be — nothing at all.
 **Originator:** Unestablished, and recorded as unestablished rather than unknown; the difference is that the archive holds the shape of the deletion that removed them. See the Origin section.

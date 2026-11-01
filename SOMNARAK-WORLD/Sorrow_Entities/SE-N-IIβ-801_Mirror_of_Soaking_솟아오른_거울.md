@@ -375,12 +375,12 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Per entity classification. See SECC Classification table for details.
 **Containment & Handling Procedures:**
-- Refer to the Work Type responses in the Behavior section, and note that two of the four are unavailable, which is standard for an Object/Place record and not a gap in the file.
-- Standard containment protocols apply.
+- The session is measured in centimetres: the surface height is read off the floor mark at the start and at the end, and both figures go on the sheet.
+- Nobody works the Mirror holding something in. The surface reddens toward whoever does, and the reading is lost before it is taken. Flerehan and Pugnahan are unavailable to an Object and are not to be improvised.
 **Observation Notes:**
-- See Origin section for formation details.
-- See Contact Record for the height reading and the attribution rule.
-**Cross-References:** See entity’s interaction record and cross-references in the full file.
+- The rise comes out of the floor, not out of anybody's reflection, and it has never reverted inside a session. What recedes between sessions is entered as receding between sessions.
+- No face is named in these notes. The attribution rule is the whole of the discipline on this file.
+**Cross-References:** The height series sits in the Contact Record, the attribution rule in the Observation notes above, and the collection schedules with the Keepers' Row office.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The debtors of Collector's Row collectively; the schedules name them individually and the file does not single one out, because the civility clause applied to all of them equally.
 

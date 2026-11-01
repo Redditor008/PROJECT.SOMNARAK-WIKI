@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Where the file pointed at itself instead of saying the thing (2026-11-01)
+
+Twenty-fifth batch, and the largest of the prose passes: **one hundred and twenty files**, no structural change to any of them.
+
+**The contradiction rule, stated twenty-eight times.** Twenty-eight Registry Addenda ended on some version of *"Where observation contradicts the record, the record is wrong; preserve the contradiction in writing rather than normalising it."* The rule is right and the archive holds it everywhere; saying it at the foot of twenty-eight files made it read like a template rather than a discipline. Each now performs the rule instead of reciting it: the scale's two readings go up unchanged, the sluice's safety case is amended and the observation is not, the gate register is the record of the salute and is kept at the gate.
+
+**Seventeen `Originator:` rows that answered a question with a direction to another section** — *See Origin section — 'The People' field* — are now the people themselves: two travellers and the one who came back alone, thirty-one payroll workers of the lower cut, a man whose death everybody treated as unremarkable.
+
+**Twenty-three `See … section` bullets became the thing they pointed at**: an engagement history that is a temperature rising ten degrees a turn, one that is a handle height of 2.1 metres then 2.6, one that is a flame graded every ten minutes. Six Registrum blocks that were pure scaffold — *Standard containment protocols apply*, *See Contact Record for the close*, *See entity's interaction record and cross-references in the full file* — are now handling instructions a warden can work from.
+
+**Twelve more stock sentences**: five single-use relics that each now describe their own spending; four `Record detail` lines about similar names that each name what actually gets confused on that holding; four veils that were the same veil and are now an echo at the hem, a line of light where a voice crossed, a bead of moisture, a tear that has never widened.
+
+**Three stock closures** — the "no costless extraction" clause, the *activation extracts a real price* line, the *map and not the territory* opener — were replaced in sixteen files with the specific price or the specific map.
+
+**Checks:** `section_logic` 0 findings · `check_stat_bands` PASS · `seam_lint` 100.0% clean · `label_lint` 0 · `timeline_lint` PASS (1,800 files) · `check_links` 0 broken · `breach.py` RE 81/83 · SE 80/179 · OP 34/39 = 195/301.
+
+
 ## The sentences where the file talked about its own drafting (2026-11-01)
 
 Twenty-fourth batch. No dossier changed hands here — this one is all prose, and all of it is the archive explaining itself instead of describing a holding.

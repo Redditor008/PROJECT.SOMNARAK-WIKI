@@ -386,7 +386,7 @@ Some sorrows mourn the dead. This one mourns the unpersoned — citizens struck 
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and are read together: the takings are detectable only against a prior record and the catalogue is therefore a fraction of them, the facility holds the library as an involuntary bailee and owes its owners nothing whatever, and it has used that to cut restitution by three quarters while keeping the ceremony. Where observation contradicts this record, preserve the contradiction rather than normalising it.
+**Operational interpretation:** The three sections below are one argument and are read together: the takings are detectable only against a prior record and the catalogue is therefore a fraction of them, the facility holds the library as an involuntary bailee and owes its owners nothing whatever, and it has used that to cut restitution by three quarters while keeping the ceremony. A face in the web that the register does not account for is entered as found, with the strand it was found on, and the register is not closed until somebody has gone looking.
 
 **Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the zone survey against the plan, the catalogue count, the cohort's detection rate, the published return figure and its denominator, and the standing of the restitution schedule and the tracing-office proposal.
 ## Apex Record

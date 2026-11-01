@@ -380,7 +380,7 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 - A hand on the handle while naming a choice. Clear anybody who speaks a regret within arm's length.
 **Observation Notes:**
 - A lawful nine-day lockdown order, one resident inside it, and a handle that went up on the sixth day.
-- See Contact Record for contact history.
+- The contact history is a handle height: 2.1 metres at the first measurement, 2.6 now, and nobody has ever closed the distance to complete the illustration.
 - The set is split into three M.A.W. pieces — Weapon, Suit, and Stigma. Wielders stop leaving rooms first and call it manners. The check is a doorway tally.
 **Cross-References:** The Collapsed Door, The Wandering Door (destinations fixed for a week), The Exile's Gate (no further pairing authorised), the lockdown order, and the eleven-year handle chart.
 **Faction Involvement:** SED (D-territory exploration)

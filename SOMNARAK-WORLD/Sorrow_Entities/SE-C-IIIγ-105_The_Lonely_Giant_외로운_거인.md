@@ -391,7 +391,7 @@ Some files here are about a belonging taken away. This one is about belonging th
 
 **Operational interpretation:** The classification is the frame and this record is the picture, and neither is a substitute for standing in the tremor line. The facts that govern are these — the figure stands about 20 metres, it places its feet one at a time, the tremor arrives ahead of it, and the condition is to share the space and speak to what it carries rather than to drive it off. Where behaviour deviates from the file, the deviation is the most important data on the holding, and personnel must preserve the contradiction as evidence rather than trying to smooth it.
 
-**Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding re-read the route: where the Giant was left standing, how far the tremor carried that day, and whether anybody tried to force it. What was true yesterday may not be true today; the R.D. record describes a living sorrow pattern and not a permanently complete explanation.
+**Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding re-read the route: where the Giant was left standing, how far the tremor carried that day, and whether anybody tried to force it. A route that was clear last cycle is entered as last cycle's route and walked again before the next shift stands on it.
 ## Warden Record
 
 ### Care

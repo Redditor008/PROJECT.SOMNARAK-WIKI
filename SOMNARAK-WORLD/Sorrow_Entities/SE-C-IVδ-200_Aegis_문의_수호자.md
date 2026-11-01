@@ -361,7 +361,7 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 
 **Operational interpretation:** No single section carries this file: the classification, the Work Type responses and the containment-event protocol are one picture, and the picture is a post nobody relieved. What governs is exact — the register has no column for returning, the ledger has risen at every annual return (760, 834, 910), the weapon stays low unless somebody turns, and Pugnahan is prohibited rather than merely useless. Where behaviour deviates from this file, the deviation is the most important data on the holding, and it is preserved as evidence rather than smoothed over.
 
-**Review requirement:** After any corruption event, Sorrow Tide, Ordeal or interaction, confirm the gauge reading, the Fracture risk and the containment integrity before the next cycle — and at this post also take the ledger figure, the stance, the weapon angle and the challenge log, all four, at handover. Personnel who worked Flerehan get a counsellor's word on the record. The R.D. record describes a living sorrow pattern and not a permanently complete explanation.
+**Review requirement:** After any corruption event, Sorrow Tide, Ordeal or interaction, confirm the gauge reading, the Fracture risk and the containment integrity before the next cycle — and at this post also take the ledger figure, the stance, the weapon angle and the challenge log, all four, at handover. Personnel who worked Flerehan get a counsellor's word on the record.
 ## Apex Record
 
 ### The Weapon Stays Lowered

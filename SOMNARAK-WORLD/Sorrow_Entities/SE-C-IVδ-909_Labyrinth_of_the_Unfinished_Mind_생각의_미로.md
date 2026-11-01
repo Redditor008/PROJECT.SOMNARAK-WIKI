@@ -162,7 +162,7 @@ The Labyrinth is a Place with Place-Mind manifestation and Void expression, held
 ### Escalation Notes
 
 - **Containment priority:** The surface anchor recalls the party on the tended line, which remains a physical recall signal rather than a sound. Keep the entrance controlled, the surface clock running and the stated intention available. Do not improvise force or an unavailable Work Type.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn while anybody inside is standing still. Walking costs nothing; the labyrinth has never reached anybody who kept moving, and the gauge follows that rule rather than the corridor.
 
 ## M.A.W. Equipment
 
@@ -285,7 +285,7 @@ No descent has ever been run with a second holding in play, and none will be: th
 | **Endless Shift** `C-IVδ-915` | Grouped on interiors that hold people past their term. That record keeps a crew past its hour; this one keeps a walker past the room count. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
 | **Ninety Seconds** `C-IVδ-918` | Grouped on loops. That record repeats one thought inside a fixed space; this one repeats a room on every pass, which is the same complaint set in stone. | One joint review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own words rather than smoothed into a shared figure. |
 
-**Interaction procedure:** Compare in the record only, at the quarter's review, with the transcript and the room count re-read first and the other record's series set beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the transcript and the room count re-read first and the other record's series set beside them unchanged. The divergence is the result. The entry gives the range at which the two records part, the trigger that parted them, what each read at that point, and what was still true at the quarter's end. Neither column is corrected toward the other and no chair is found for the disagreement.
 
 
 ## 이야기 (Narratio) — The Tale

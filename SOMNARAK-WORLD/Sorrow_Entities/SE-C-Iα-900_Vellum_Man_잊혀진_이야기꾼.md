@@ -296,7 +296,7 @@ No second holding has ever been set down on this desk while the register's 41 op
 | **Once Told** `O-IVδ-930` | Grouped on narrative that keeps running past its teller. That record is a story still alive after the telling; here the tale is abandoned at the shift's close and picked up by whoever the register books next. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
 | **Allhallow** `O-IIIγ-916` | Grouped on the voices of people who are not present. That record holds the returning dead of one night; this one holds a narrator who tells those lives to a desk and stops when the clock says so. | One review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own figures. |
 
-**Interaction procedure:** Compare in the record only, at the quarter's review, with the register's open tales re-read first and the other record's series laid beside them unchanged. Enter divergence, range, trigger, both readings and what persists; never reconcile the columns.
+**Interaction procedure:** Compare in the record only, at the quarter's review, with the register's open tales re-read first and the other record's series laid beside them unchanged. The entry records where two readings of a tale part, what parted them, what each read, and which version the next teller will be standing in front of. No version is preferred because no version can be checked.
 
 
 ## 이야기 (Narratio) — The Tale

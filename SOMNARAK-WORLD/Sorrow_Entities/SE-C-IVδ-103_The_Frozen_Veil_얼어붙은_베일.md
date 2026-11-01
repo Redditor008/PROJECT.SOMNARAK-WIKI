@@ -141,7 +141,7 @@ The Record marks the entity destroyed and identifies the pre-Dawn logs as earlie
 - **The Sorrow:** The isolation of people who cannot connect, feel warmth, or risk genuine attachment.
 - **The Event:** Generations of suppressed emotion accumulated until distance became a presence that could drain feeling from others.
 - **The People:** Citizens who learned to survive by becoming unreachable.
-- **Expanded origin context:** Archive note: the sorrow did not emerge from nothing. It grew — patient, specific, around SECTOR-A-01, Alpha Tree deep storage — until the Void was dense enough to become a Subject. The sorrow is old. The entity is just its current shape.
+- **Expanded origin context:** Archive note: the bulk of it is in the storage bays and not in the streets it came off. A city's accumulated distance was drawn into a place where distance is already a filing matter, and it has stayed there, dense enough to hold a Subject's shape, because nothing in the bay has ever needed to be near anything.
 
 ## Behavior
 
