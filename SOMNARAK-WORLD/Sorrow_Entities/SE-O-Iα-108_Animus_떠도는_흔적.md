@@ -363,7 +363,7 @@ Some sorrows mourn a grievance. Animus mourns the lost cause — the anger carri
 **Threat Assessment:** Minor, and the file does not dispute it. Nine years, eleven strikes, all to people standing in the line, no fatalities and no lasting injury. The durable cost is to the eleven wardens in the sealed file, who left the posting certain of something nobody can confirm.
 **Containment & Handling Procedures:**
 - Walk beside it in pairs, transcribe, answer nothing. The word count is the reading, not the gauge.
-- Nothing is supplied to the voice — not a name, not a faction, not a reconstruction — and the watch endures until the line thins. The sentence in standing use is the shortest containment measure in the wing: I do not know why you are angry.
+- Nothing is supplied to the voice — not a name, not a faction, not a reconstruction — and the watch endures until the line thins. Sincerity and accuracy make no difference; a reason offered is a reason taken.
 - A word outside the list of 61, a rising count, or the line doubling back on itself.
 **Observation Notes:**
 - A quarrel inherited until the reason was gone, with no counterparty named anywhere in the record.

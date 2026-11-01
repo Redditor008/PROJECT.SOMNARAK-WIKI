@@ -386,7 +386,7 @@ Some sorrows mourn a face. Frozen Mirror mourns the recognition — the faces er
 **Threat Assessment:** Minor, and the grade is correct for the plate and understates the sheet. Eight years, 212 viewings, no injury to anyone who looked away inside four minutes, and nine serious cycles all of which consisted of a worker learning something true about themselves at the wrong speed.
 **Containment & Handling Procedures:**
 - Two Work Types, one act, four-minute limit, square on at one metre.
-- The viewer looks away unprompted and says who they were angry at. If they cannot name anyone the cycle is logged incomplete, and that worker is not rebooked until the next quarter.
+- The viewer looks away unprompted and says who they were angry at. If they cannot name anyone the cycle is logged incomplete, and that worker is not rebooked that month.
 - A direct gaze is the whole trigger; the plate does not escalate, the viewer does.
 **Observation Notes:**
 - A traveller, an unrecorded number of crossings, the faces going out one at a time with his own last, and no name.

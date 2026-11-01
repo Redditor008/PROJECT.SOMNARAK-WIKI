@@ -371,7 +371,7 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Per entity classification. See SECC Classification table and Combat Record for threat details.
 **Containment & Handling Procedures:**
-- The salute is operational, not ceremonial: an escort that has not been formally dismissed follows visitors out of the sector, and dismissal is recorded by name.
+- The salute is operational, not ceremonial: an escort that is not formally dismissed follows visitors out of the sector, and the gate register records who gave the salute and who was still accompanied on the way out.
 - For what happens when a watch goes wrong, the Breach Behavior and Activation Behavior sections carry it.
 **Observation Notes:**
 - Formation and the event itself are set out in the Origin section.

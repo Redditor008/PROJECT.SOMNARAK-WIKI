@@ -354,7 +354,7 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 **Threat Assessment:** Minor and correctly graded. Nine years, nineteen strikes, no fatalities and no lasting injuries; the serious damage on record is a floor section the wing broke itself by walking the holding somewhere it should not have been walked.
 **Containment & Handling Procedures:**
 - The Work Type table is accurate and does not predict the session; the postings in the room do.
-- The anchor is current or the work does not start. The Root is not returned to an old home, and a warden who offers one has moved the holding somewhere it should not be walked.
+- The anchor is current or the work does not start. The Root is not returned to an old home; a warden who offers one is forcing it, and forcing it is the one thing the file forbids.
 - It breaches downward and stops. Go to the lowest unoccupied storage level and wait.
 **Observation Notes:**
 - The first removal was never recorded, so the ground this holding came from cannot be identified and the file does not pretend otherwise.

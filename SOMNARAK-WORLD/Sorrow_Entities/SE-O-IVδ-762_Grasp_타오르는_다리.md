@@ -354,7 +354,7 @@ Some sorrows mourn the dead. Grasp mourns the reaching — the calls across the 
 **Threat Assessment:** Critical (δ). Nine years, 140 watches, one span event, three M.A.W. incidents, nineteen crossing proposals, no fatalities — and the station's own view that the figure has never hurt anybody and has very nearly killed four.
 **Containment & Handling Procedures:**
 - Flerehan softens it, Ferrehan outlasts it, Pugnahan sets the span alight. Forty minutes in earshot is the limit.
-- No promise of rescue is made across the span, by anybody, in any wording. The acknowledgement of one person's limits is the condition, and it is spoken before the watch begins rather than offered to the figure.
+- No promise of rescue is made across the span, by anybody, in any wording. The acknowledgement of one person's limits is the whole condition, and it is a thing the watch settles before it takes the span.
 - It relocates to another gap; eleven positions in nine years, four of them over ground that has been filled in.
 **Observation Notes:**
 - Thirty-one names on the departure roll, twenty-seven claimed, four read anyway every watch.

@@ -357,7 +357,7 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 **Threat Assessment:** Moderate on the schedule and mild in practice. Eleven years, five order-collapses, nine strikes, no fatalities and no lasting injury; the standing cost is eleven recorders who came away remembering somebody they never met.
 **Containment & Handling Procedures:**
 - Two workers, one book, one clock. Transit time and word order are the readings.
-- Each returned memory is put back with its owner named in the book. An unnamed return is how the chain takes a link it was not owed.
+- Each returned memory is put back with its owner named in the book, because the order of the words and the transit time are the readings this holding keeps.
 - The order breaking, or the line reaching the outer path; both have ended without intervention.
 **Observation Notes:**
 - Forty-one letters between six people over nine years, each repeating what all of them already knew.

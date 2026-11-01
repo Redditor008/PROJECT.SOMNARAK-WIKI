@@ -386,7 +386,7 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 **Threat Assessment:** Minor, which is accurate for the object and says nothing about the hold. Nineteen years, 212 cycles, nine over-runs, nine injured hands, no fatalities; and three keepers off the rota for a grievance that was never theirs.
 **Containment & Handling Procedures:**
 - Two workers, one balance. The mass is the reading; the Work Type table is not used here.
-- The closing weight is compared with the opening weight at every handover. Below it, the cycle closed; above it, the holder has over-run and the difference is entered against the reading rather than against the person.
+- The closing weight is compared with the opening weight at every handover. Below it the cycle closed; above it the holder has over-run, and the vault enters the difference as its working record.
 - Touch is the trigger. End the hold at 30 grams or at the first living name, whichever comes first.
 **Observation Notes:**
 - An ordinary death, a mourner who was never identified, and four inconclusive attempts to identify them.
