@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The Appearance template, worked down from nine near-verbatim pairs to none (batch 70)
+
+Batch 69 closed five Appearance twins; this pass took the rest of the pile. Measured on shared six-word windows between records in different sets, the wing opened at **163 couples, nine of them sharing ten or more windows** — records describing the same object twice under two names.
+
+The nine worst were all the same failure: an archetype written once and re-used with the noun changed.
+
+- the Denial Lens wore the Joy Lens's body, and the Denial Veil the Silence Veil's;
+- the Denial Shield wore the Duty Shield's, the Resentment Plate the Duty Plate's, the Burning Plate the Duty Plate's again;
+- the Void Mantle wore the Burden Mantle's, the Burden Maul the Void Maul's, the Crown of Requiem the Witness Requiem's, the Crown of Shroud the Dawn of Shroud's.
+
+Each rewritten piece now carries a material decision of its own: the Void Mantle is fulled until the cloth holds a shape and stops taking the body's under the stored absence; the Burden Maul's head is *drawn wide and hollowed until the striking face reads as a vessel rather than a hammer*; the Silence Veil is a short drape thin enough to read as haze, and it moves only when the wearer does. Where two items genuinely share a family resemblance — the maul with the dish face, the veil of Han thread — the resemblance now survives in one clause and the rest of the garment is described separately.
+
+**Appearance couples: 163 → 112. Pairs at ten or more shared windows: 9 → 0. Pairs at eight or more: 0. Pairs at six or more: 3**, all three of them the maul and veil archetypes noted above.
+
+**What remains at three to five windows** is a common descriptive vocabulary rather than copied prose — *inner lining*, *cool to the touch*, *bound with black cord*, *hangs without a fold*. Those are the wing's materials, not any one item's sentence, and a pass that rewrote them would only invent synonyms.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The stock clauses inside the modern cost field (batch 69)
 
 The 345 cost fields were written one at a time and every one of them is about its own object — but writing them one at a time still let a handful of clause shapes recur, and the recurrence runs *inside* the field rather than across whole fields. A shingle scan of all 345 found **47 pairs sharing a seven-word window between two different sets, eight of them sharing five or more.**
