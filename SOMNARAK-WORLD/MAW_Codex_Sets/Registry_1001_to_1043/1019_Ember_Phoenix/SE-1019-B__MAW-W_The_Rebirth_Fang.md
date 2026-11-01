@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Weapon Record*
 
-The first bearer of The Rebirth Fang encountered this source response: It attacks in a blazing dive. The weapon discharges the immediate hazard only after the team attributed it to Ember Phoenix. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rebirth Fang encountered this source response: It attacks in a blazing dive. The weapon discharges the immediate hazard only after the team attributed it to Ember Phoenix. A wielder fought from the moment they had been killed in and could not arrive any earlier in it, and the Fang’s binding is the incident record of that death.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Ember Phoenix's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the ending arrives before the blow, and the wielder’s injuries are at the depth they were on the day it ended.
 - Terminal state: Ember Phoenix's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Allow the cycle to finish; forced extinguishing causes violent rebirth” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Rebirth Fang encountered this source response: It attack
 
 ## SET RELATIONSHIP
 
-Within *Ember Phoenix — Witnessed Form*, The Rebirth Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Ember Phoenix — Witnessed Form*, The Rebirth Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow struck from a moment the wielder survived past.
 
 ---
 

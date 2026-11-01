@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Stigma Record*
 
-The first Myrmidon's Pendant field bearer encountered this source response: Reveals the betrayal that split its identity. The stigma opens the immediate hazard only after the team attributed it to Myrmidon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Myrmidon's Pendant field bearer encountered this source response: Reveals the betrayal that split its identity. The stigma opens the immediate hazard only after the team attributed it to Myrmidon. A bearer felt a divided loyalty as pain and kept the division attached to the person it was about, and the Pendant’s binding is the note from that session.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Myrmidon's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the divisions arrive attached to people the bearer has never served, and the pain is billed on sight.
 - Terminal state: Myrmidon's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Separate the person from the institution they represent; do not defend the institution” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first Myrmidon's Pendant field bearer encountered this source response: Reve
 
 ## SET RELATIONSHIP
 
-Within *Myrmidon — Witnessed Form*, Myrmidon's Pendant performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Myrmidon — Witnessed Form*, Myrmidon's Pendant performs the stigma role while the other pieces preserve attribution and survival. The Pendant drops out of the set on a division the bearer is shown and does not carry.
 
 ---
 

@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Stigma Record*
 
-The first bearer of The Kindness Stone encountered this source response: Reveals the act that formed the Echo. The stigma contains the immediate hazard only after the team attributed it to Solace. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Kindness Stone encountered this source response: Reveals the act that formed the Echo. The stigma contains the immediate hazard only after the team attributed it to Solace. A bearer carried every kindness refused nearby as a debt they had not incurred, and the Stone’s binding is the list kept across that season.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Solace's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the refusals arrive before they are made, and the bearer is gentle with people who have not asked for anything.
 - Terminal state: Solace's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “No containment required; preserve the conditions that form it” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Kindness Stone encountered this source response: Reveals
 
 ## SET RELATIONSHIP
 
-Within *Solace — Witnessed Form*, The Kindness Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Solace — Witnessed Form*, The Kindness Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set on a kindness the bearer watches be accepted.
 
 ---
 

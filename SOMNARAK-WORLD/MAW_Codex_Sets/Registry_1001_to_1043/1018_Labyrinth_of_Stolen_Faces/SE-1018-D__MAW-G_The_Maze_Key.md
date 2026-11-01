@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Stigma Record*
 
-The first bearer of The Maze Key encountered this source response: Reveals the memory architecture. The stigma uncouples the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Maze Key encountered this source response: Reveals the memory architecture. The stigma uncouples the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. A bearer took a way out that turned into the memory they had been running from, and the Key’s binding is the charge sheet for that turn.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Labyrinth of Stolen Faces's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: every exit reads as the memory before the door is tried, and the bearer stops looking for one.
 - Terminal state: Labyrinth of Stolen Faces's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Maintain a memory anchor and limit exploration time” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Maze Key encountered this source response: Reveals the m
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Key performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Key performs the stigma role while the other pieces preserve attribution and survival. The Key drops out of the set on an exit the bearer takes that is only an exit.
 
 ---
 

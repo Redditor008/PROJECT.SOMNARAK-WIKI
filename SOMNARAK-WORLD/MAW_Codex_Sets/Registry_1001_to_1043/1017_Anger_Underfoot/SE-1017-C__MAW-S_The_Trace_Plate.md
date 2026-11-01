@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Suit Record*
 
-The first bearer of The Trace Plate encountered this source response: Tests whether the worker can walk without adding another mark. The suit isolates the immediate hazard only after the team attributed it to Anger Underfoot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Plate encountered this source response: Tests whether the worker can walk without adding another mark. The suit isolates the immediate hazard only after the team attributed it to Anger Underfoot. A wearer took the long way to a post for no reason they could give, and the Plate’s binding is the route card from that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Anger Underfoot's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pace slows to the first person to walk the ground, and the wearer’s shift does not finish in the time allowed.
 - Terminal state: Anger Underfoot's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Map the trace and stop repeating the grievance” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Trace Plate encountered this source response: Tests whet
 
 ## SET RELATIONSHIP
 
-Within *Anger Underfoot — Witnessed Form*, The Trace Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Anger Underfoot — Witnessed Form*, The Trace Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can walk their own pace; the first post they reach late for no reason, the Plate is out.
 
 ---
 

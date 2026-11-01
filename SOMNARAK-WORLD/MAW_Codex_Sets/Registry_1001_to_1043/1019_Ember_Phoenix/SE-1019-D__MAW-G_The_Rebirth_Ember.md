@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Stigma Record*
 
-The first bearer of The Rebirth Ember encountered this source response: Shows memories from previous cycles. The stigma stays the immediate hazard only after the team attributed it to Ember Phoenix. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rebirth Ember encountered this source response: Shows memories from previous cycles. The stigma stays the immediate hazard only after the team attributed it to Ember Phoenix. A bearer stopped describing the first return after the second and had nowhere to file either, and the Ember’s binding is the debrief with the description missing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Ember Phoenix's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the returns come back without an interval, and the dying is carried into the walk out.
 - Terminal state: Ember Phoenix's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Allow the cycle to finish; forced extinguishing causes violent rebirth” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Rebirth Ember encountered this source response: Shows me
 
 ## SET RELATIONSHIP
 
-Within *Ember Phoenix — Witnessed Form*, The Rebirth Ember performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Ember Phoenix — Witnessed Form*, The Rebirth Ember performs the stigma role while the other pieces preserve attribution and survival. The Ember drops out of the set when the bearer describes a return and is believed.
 
 ---
 

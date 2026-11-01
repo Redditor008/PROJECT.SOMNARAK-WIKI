@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Suit Record*
 
-The first bearer of The Maze Veil encountered this source response: Tests whether the worker can continue without a stable map. The suit severs the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Maze Veil encountered this source response: Tests whether the worker can continue without a stable map. The suit severs the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. A wearer could not be found inside their own mind and came back by following somebody else in, and the Veil’s binding is the witness note from that recovery.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Labyrinth of Stolen Faces's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the walking-toward is the only way back, and the wearer is lost on purpose in rooms with nobody coming.
 - Terminal state: Labyrinth of Stolen Faces's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Maintain a memory anchor and limit exploration time” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Maze Veil encountered this source response: Tests whethe
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can find themselves without a guide; the first time only a guide works, the Veil is out.
 
 ---
 

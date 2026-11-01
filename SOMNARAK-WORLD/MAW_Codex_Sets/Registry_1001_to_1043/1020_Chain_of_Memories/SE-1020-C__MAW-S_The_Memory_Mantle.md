@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Suit Record*
 
-The first bearer of The Memory Mantle encountered this source response: Tests whether the worker can carry shared history. The suit interrupts the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Memory Mantle encountered this source response: Tests whether the worker can carry shared history. The suit interrupts the immediate hazard only after the team attributed it to Chain of Memories. A wearer slept badly for a season and dreamed of other people’s rooms, and the Mantle’s binding is the sleep log from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Chain of Memories's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the fatigue arrives before the memory is handed over, and the wearer is tired of rooms they have not entered.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1020 -->
@@ -43,7 +43,7 @@ The first bearer of The Memory Mantle encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Chain of Memories — Witnessed Form*, The Memory Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Chain of Memories — Witnessed Form*, The Memory Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still carry one memory of their own; the first they hand over by mistake, the Mantle is out.
 
 ---
 

@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Stigma Record*
 
-The first bearer of The Memory Link encountered this source response: Displays the relationships between memories. The stigma marks the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Memory Link encountered this source response: Displays the relationships between memories. The stigma marks the immediate hazard only after the team attributed it to Chain of Memories. A bearer was handed their own memory back with the version that hurt intact, and both parties kept it, and the Link’s binding is the two accounts filed together.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Chain of Memories's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the link runs before the handing over, and the bearer is administered somebody else’s version of a week they lived.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1020 -->
@@ -42,7 +42,7 @@ The first bearer of The Memory Link encountered this source response: Displays t
 
 ## SET RELATIONSHIP
 
-Within *Chain of Memories — Witnessed Form*, The Memory Link performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Chain of Memories — Witnessed Form*, The Memory Link performs the stigma role while the other pieces preserve attribution and survival. The Link drops out of the set when one memory is shared and only one of the two keeps it.
 
 ---
 

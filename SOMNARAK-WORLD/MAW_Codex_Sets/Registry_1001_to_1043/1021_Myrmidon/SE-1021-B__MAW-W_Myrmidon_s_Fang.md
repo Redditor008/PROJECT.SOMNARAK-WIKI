@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Weapon Record*
 
-The first Myrmidon's Fang field bearer encountered this source response: Attacks symbols of authority and perceived representation. The weapon severs the immediate hazard only after the team attributed it to Myrmidon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Myrmidon's Fang field bearer encountered this source response: Attacks symbols of authority and perceived representation. The weapon severs the immediate hazard only after the team attributed it to Myrmidon. A wielder followed a command they had not given and could not say whose it had been, and the Fang’s binding is the order book from that deployment.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Myrmidon's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the commands arrive without an issuer, and the wielder is certain they chose this when the record shows they did not.
 - Terminal state: Myrmidon's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Separate the person from the institution they represent; do not defend the institution” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Myrmidon's Fang field bearer encountered this source response: Attacks
 
 ## SET RELATIONSHIP
 
-Within *Myrmidon — Witnessed Form*, Myrmidon's Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Myrmidon — Witnessed Form*, Myrmidon's Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow its wielder decided to throw.
 
 ---
 

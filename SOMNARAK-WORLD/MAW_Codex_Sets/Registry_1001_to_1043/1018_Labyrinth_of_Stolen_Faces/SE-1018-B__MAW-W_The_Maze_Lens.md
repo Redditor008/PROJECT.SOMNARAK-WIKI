@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Weapon Record*
 
-The first bearer of The Maze Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Maze Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. A wielder opened a corridor they knew from the other end and met somebody in it they had met before, and the Lens’s binding is the walk log from that descent.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Labyrinth of Stolen Faces's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the past fills with corridor, and the wielder cannot say which turns were lived and which were taken.
 - Terminal state: Labyrinth of Stolen Faces's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Maintain a memory anchor and limit exploration time” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Maze Lens encountered this source response: N/A — Obje
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a turn its wielder has never made.
 
 ---
 

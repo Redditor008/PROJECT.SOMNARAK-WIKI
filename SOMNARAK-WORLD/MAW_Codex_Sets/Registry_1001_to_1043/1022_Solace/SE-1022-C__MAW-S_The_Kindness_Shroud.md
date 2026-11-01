@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Suit Record*
 
-The first bearer of The Kindness Shroud encountered this source response: Remains nearby while the worker accepts comfort. The suit stays the immediate hazard only after the team attributed it to Solace. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Kindness Shroud encountered this source response: Remains nearby while the worker accepts comfort. The suit stays the immediate hazard only after the team attributed it to Solace. A wearer came out calm and remembering liking things, with the store empty, and the Shroud’s binding is the review that asked what they had enjoyed since.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Solace's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the warmth leaves the wearer in rooms with nobody in them, and the store is spent on nothing.
 - Terminal state: Solace's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “No containment required; preserve the conditions that form it” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Kindness Shroud encountered this source response: Remain
 
 ## SET RELATIONSHIP
 
-Within *Solace — Witnessed Form*, The Kindness Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Solace — Witnessed Form*, The Kindness Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing still refills the wearer’s store; the first shift top-up they cannot find, the Shroud is out.
 
 ---
 

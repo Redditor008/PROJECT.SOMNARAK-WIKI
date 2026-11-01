@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Myrmidon Source-Trace: Suit Record*
 
-The first Myrmidon's Plate field bearer encountered this source response: Weighs whether the worker can remain without defending the system. The suit uncouples the immediate hazard only after the team attributed it to Myrmidon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Myrmidon's Plate field bearer encountered this source response: Weighs whether the worker can remain without defending the system. The suit uncouples the immediate hazard only after the team attributed it to Myrmidon. A wearer could not tell which loyalty had come first and had picked up no second one in a year, and the Plate’s binding is the oath register from that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Myrmidon's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the first loyalty is taken as the only one, and the wearer refuses obligations that came before it.
 - Terminal state: Myrmidon's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Separate the person from the institution they represent; do not defend the institution” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Myrmidon's Plate field bearer encountered this source response: Weighs
 
 ## SET RELATIONSHIP
 
-Within *Myrmidon — Witnessed Form*, Myrmidon's Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Myrmidon — Witnessed Form*, Myrmidon's Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can name the order of their loyalties; the first they cannot, the Plate is out.
 
 ---
 

@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Stigma Record*
 
-The first bearer of The Trace Mark encountered this source response: Shows the sequence of events that left it. The stigma interrupts the immediate hazard only after the team attributed it to Anger Underfoot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Mark encountered this source response: Shows the sequence of events that left it. The stigma interrupts the immediate hazard only after the team attributed it to Anger Underfoot. A bearer left a route and carried its whole history in their temper, and the Mark’s binding is the note made at that debrief.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Anger Underfoot's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the route’s anger arrives before the route does, and the bearer is already aggrieved at the doorway.
 - Terminal state: Anger Underfoot's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Map the trace and stop repeating the grievance” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Trace Mark encountered this source response: Shows the s
 
 ## SET RELATIONSHIP
 
-Within *Anger Underfoot — Witnessed Form*, The Trace Mark performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Anger Underfoot — Witnessed Form*, The Trace Mark performs the stigma role while the other pieces preserve attribution and survival. The Mark drops out of the set on a route the bearer leaves without taking anything from it.
 
 ---
 

@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 97)
+
+`SE-1017` Trace, `SE-1018` Maze, `SE-1019` Rebirth, `SE-1020` Memory, `SE-1021` Myrmidon, `SE-1022` Kindness — **eighteen records, fifty-four sentences.** The Rebirth Plate keeps resonance only while one new thing can still happen to its wearer, and loses it the first time the plate turns an injury away; the Maze Key drops out on an exit that is only an exit; the Myrmidon's Fang leaves its set on a blow its wielder decided to throw.
+
+**282 of 345 done. 63 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 96)
 
 `SE-1011` Fragment, `SE-1012` Wrath Flame, `SE-1013` Echo, `SE-1014` Iron Verdict, `SE-1015` Promise, `SE-1016` Voice — **eighteen records, fifty-four sentences.** The Echo Veil is the one worth quoting: its cost says the wearer answers to their own name a beat late, and that *"the echo is what people know"*, so its resonance holds while the wearer answers on the first call and is lost the second time the answer goes to the copy. The Iron Verdict loses its set on a blow struck without a judgment behind it; the Voice Lens ends on a sentence its wielder hears after saying it.

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Weapon Record*
 
-The first bearer of The Trace Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Anger Underfoot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Anger Underfoot. A wielder came off a route angry about a crossing they had never made, and the Fang’s binding is the grudge register kept along that path.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Anger Underfoot's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the grudges arrive before the route is walked, and the wielder takes against streets they have only been shown.
 - Terminal state: Anger Underfoot's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Map the trace and stop repeating the grievance” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Trace Fang encountered this source response: N/A — Obj
 
 ## SET RELATIONSHIP
 
-Within *Anger Underfoot — Witnessed Form*, The Trace Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Anger Underfoot — Witnessed Form*, The Trace Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow thrown for a grievance its wielder formed themselves.
 
 ---
 

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Suit Record*
 
-The first bearer of The Rebirth Plate encountered this source response: Tests whether the worker can witness death without demanding resurrection. The suit redirects the immediate hazard only after the team attributed it to Ember Phoenix. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rebirth Plate encountered this source response: Tests whether the worker can witness death without demanding resurrection. The suit redirects the immediate hazard only after the team attributed it to Ember Phoenix. A wearer stopped flinching after the second return and nothing new had happened to the body since the first, and the Plate’s binding is the medical note from that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Ember Phoenix's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the shape they died in becomes the shape they work in, and new injuries are refused at the door.
 - Terminal state: Ember Phoenix's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Allow the cycle to finish; forced extinguishing causes violent rebirth” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Rebirth Plate encountered this source response: Tests wh
 
 ## SET RELATIONSHIP
 
-Within *Ember Phoenix — Witnessed Form*, The Rebirth Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Ember Phoenix — Witnessed Form*, The Rebirth Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one new thing can still happen to the wearer; the first injury the plate turns away, the Plate is out.
 
 ---
 

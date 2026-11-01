@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Weapon Record*
 
-The first bearer of The Kindness Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Solace. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Kindness Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Solace. A wielder handed out comfort all season and received none of it back, and the Requiem’s binding is the ward ledger from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Solace's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the kindness is given before it is asked for, and it comes out of the wielder’s store without a target.
 - Terminal state: Solace's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “No containment required; preserve the conditions that form it” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Kindness Requiem encountered this source response: N/A �
 
 ## SET RELATIONSHIP
 
-Within *Solace — Witnessed Form*, The Kindness Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Solace — Witnessed Form*, The Kindness Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a comfort its wielder was offered and took.
 
 ---
 

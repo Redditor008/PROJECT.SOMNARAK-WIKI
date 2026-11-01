@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Weapon Record*
 
-The first bearer of The Memory Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Chain of Memories. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Memory Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Chain of Memories. A wielder swung a whole life at strangers and could not afterwards say which memories had gone where, and the Maul’s binding is the weigh-in from that muster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Chain of Memories's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the head takes memories before the swing, and the wielder is emptied faster than the weapon fills.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1020 -->
@@ -43,7 +43,7 @@ The first bearer of The Memory Maul encountered this source response: N/A — Ob
 
 ## SET RELATIONSHIP
 
-Within *Chain of Memories — Witnessed Form*, The Memory Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Chain of Memories — Witnessed Form*, The Memory Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that takes no memory from its wielder.
 
 ---
 
