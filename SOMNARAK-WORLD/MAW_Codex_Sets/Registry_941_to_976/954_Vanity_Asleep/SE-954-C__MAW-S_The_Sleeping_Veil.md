@@ -33,12 +33,12 @@ The Sleeping Veil is the suit record of the Vanity Asleep set — γ-grade, Void
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Suit Record*
 
-The first bearer of The Sleeping Veil encountered this source response: Remains asleep while the worker waits for the reflection to appear. The suit witnesses the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sleeping Veil encountered this source response: Remains asleep while the worker waits for the reflection to appear. The suit witnesses the immediate hazard only after the team attributed it to Vanity Asleep. A wearer could not be revised by a season of correction and was reported as unchanged throughout, and the Veil’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Vanity Asleep's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unreachable spreads from correction to company, and the wearer is present and cannot be got at.
 - Terminal state: Vanity Asleep's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it by force; look at the reflected self without turning away” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Sleeping Veil encountered this source response: Remains 
 
 ## SET RELATIONSHIP
 
-Within *Vanity Asleep — Witnessed Form*, The Sleeping Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Vanity Asleep — Witnessed Form*, The Sleeping Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing can still reach the wearer; the first season that cannot, the Veil is out.
 
 ---
 

@@ -32,12 +32,12 @@ The Uprooted Charm is the stigma record of the Uprooted set — tail-slot, besto
 
 ## ITEM-SPECIFIC HISTORY — *The Uprooted Source-Trace: Stigma Record*
 
-The first Uprooted Charm field bearer encountered this source response: Shows the settlements beneath its growth. The stigma stays the immediate hazard only after the team attributed it to Uprooted. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Uprooted Charm field bearer encountered this source response: Shows the settlements beneath its growth. The stigma stays the immediate hazard only after the team attributed it to Uprooted. A bearer unpacked a room and found the belonging had moved with them, and the Charm’s binding is the billet form from that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Uprooted's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the moving begins before the unpacking, and the bearer’s things are never set down at all.
 - Terminal state: Uprooted's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not burn the roots; map and witness their route” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Uprooted Charm field bearer encountered this source response: Shows th
 
 ## SET RELATIONSHIP
 
-Within *Uprooted — Witnessed Form*, Uprooted Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Uprooted — Witnessed Form*, Uprooted Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer stays somewhere long enough to be found there.
 
 ---
 

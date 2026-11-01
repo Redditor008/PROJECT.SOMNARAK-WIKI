@@ -33,12 +33,12 @@ The Fourfold Fang is the weapon record of the The Stormscale Sovereign set — �
 
 ## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Weapon Record*
 
-The first bearer of The Fourfold Fang encountered this source response: It turns the full weather against the source of aggression — the rain, the wind, the weight of the sky; opposition reads to it as the hundred-year flood being blamed on it, which it cannot bear. The weapon severs the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Fourfold Fang encountered this source response: It turns the full weather against the source of aggression — the rain, the wind, the weight of the sky; opposition reads to it as the hundred-year flood being blamed on it, which it cannot bear. The weapon severs the immediate hazard only after the team attributed it to The Stormscale Sovereign. A wielder spent nine days never quite one mood and could not afterwards settle into any of them, and the Fourfold Fang’s binding is the log kept across that stretch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Stormscale Sovereign's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cycling shortens to a shift, then to a conversation, and the wielder answers in whichever sorrow is up.
 - Terminal state: Stormscale Sovereign's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses.” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Fourfold Fang encountered this source response: It turns
 
 ## SET RELATIONSHIP
 
-Within *The Stormscale Sovereign — Witnessed Form*, The Fourfold Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Stormscale Sovereign — Witnessed Form*, The Fourfold Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow thrown from a mood its wielder can name.
 
 ---
 

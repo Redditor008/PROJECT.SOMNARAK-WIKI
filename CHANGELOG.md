@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 93)
+
+`SE-949` Stormscale, `SE-954` Sleeping, `SE-959` Uprooted, `SE-965` Unheard, `SE-967` Relic, `SE-973` Torn — **eighteen records, fifty-four sentences.** The Uprooted set is the cleanest here: every round is fired from where the wielder used to stand, so the Requiem's binding is the billet record of a posting they can no longer return to, and it loses the set on a shot fired from where they are standing now. The Unheard Plate keeps resonance while its wearer can still describe one thing that happened to them, and the Relic Charm drops out the moment something is written down with the bearer still in it.
+
+**210 of 345 done. 135 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 92)
 
 `SE-930` Once Told, `SE-941` Comforting, `SE-944` Murmur, `SE-946` Tarnish, `SE-947` Still Current, `SE-948` Skyward — **eighteen records, fifty-four sentences.** Once Told's Veil keeps resonance only while the wearer still corrects the account of themselves; the Mourner's Film holds while the wearer's own grief is behind the membrane and still findable; the Gilded Shroud needs the wearer to know which wish in the cloth is theirs.

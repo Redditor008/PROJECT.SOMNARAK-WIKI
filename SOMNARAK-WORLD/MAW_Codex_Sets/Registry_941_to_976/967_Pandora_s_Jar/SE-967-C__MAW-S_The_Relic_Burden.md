@@ -33,12 +33,12 @@ The Relic Burden is the suit record of the Pandora's Jar set — δ-grade, Weigh
 
 ## ITEM-SPECIFIC HISTORY — *The Pandora's Jar Source-Trace: Suit Record*
 
-The first bearer of The Relic Burden encountered this source response: Tests the worker beneath increasing heat. The suit stabilizes the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Relic Burden encountered this source response: Tests the worker beneath increasing heat. The suit stabilizes the immediate hazard only after the team attributed it to Pandora's Jar. A wearer took eleven blows in a shift and was stronger at the end than at the start with nothing released, and the Burden’s binding is the weigh-in from that muster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Pandora's Jar's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the force stops waiting for blows and gathers from the standing weight of the room.
 - Terminal state: Pandora's Jar's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Bear the heat and name what was lost” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Relic Burden encountered this source response: Tests the
 
 ## SET RELATIONSHIP
 
-Within *Pandora's Jar — Witnessed Form*, The Relic Burden performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Pandora's Jar — Witnessed Form*, The Relic Burden performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can put one blow down; the first shift nothing is released, the Burden is out.
 
 ---
 

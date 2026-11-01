@@ -32,12 +32,12 @@ The Torn Root is the stigma record of the Yggdrasil Wound set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Yggdrasil Wound Source-Trace: Stigma Record*
 
-The first bearer of The Torn Root encountered this source response: Shows the memory held on each side of the split. The stigma opens the immediate hazard only after the team attributed it to Yggdrasil Wound. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Root encountered this source response: Shows the memory held on each side of the split. The stigma opens the immediate hazard only after the team attributed it to Yggdrasil Wound. A bearer held two contradictions at once and could afterwards retrieve nothing, and the Root’s binding is the note made at that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Yggdrasil Wound's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the held contradictions start taking space from memories the bearer has not made yet.
 - Terminal state: Yggdrasil Wound's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Ground the worker and permit both memories to remain” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Torn Root encountered this source response: Shows the me
 
 ## SET RELATIONSHIP
 
-Within *Yggdrasil Wound — Witnessed Form*, The Torn Root performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Yggdrasil Wound — Witnessed Form*, The Torn Root performs the stigma role while the other pieces preserve attribution and survival. The Root drops out of the set when the bearer lets one contradiction go.
 
 ---
 

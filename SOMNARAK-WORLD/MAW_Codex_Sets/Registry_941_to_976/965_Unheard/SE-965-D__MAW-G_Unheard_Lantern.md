@@ -32,12 +32,12 @@ The Unheard Lantern is the stigma record of the Unheard set — tail-slot, besto
 
 ## ITEM-SPECIFIC HISTORY — *The Unheard Source-Trace: Stigma Record*
 
-The first Unheard Lantern field bearer encountered this source response: Reveals the final words and their erasure. The stigma discharges the immediate hazard only after the team attributed it to Unheard. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unheard Lantern field bearer encountered this source response: Reveals the final words and their erasure. The stigma discharges the immediate hazard only after the team attributed it to Unheard. A bearer knew the ending of a suppressed case and could not say it in the room where it mattered, and the Lantern’s binding is the note written outside the door.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unheard's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the knowledge accumulates past what anybody can carry, and none of it can be given to a second person.
 - Terminal state: Unheard's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not force sound into it; listen and record what remains” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Unheard Lantern field bearer encountered this source response: Reveals
 
 ## SET RELATIONSHIP
 
-Within *Unheard — Witnessed Form*, Unheard Lantern performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unheard — Witnessed Form*, Unheard Lantern performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set when the bearer tells one ending to somebody who was not there.
 
 ---
 

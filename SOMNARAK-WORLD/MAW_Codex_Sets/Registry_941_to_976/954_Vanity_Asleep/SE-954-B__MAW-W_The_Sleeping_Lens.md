@@ -35,12 +35,12 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Weapon Record*
 
-The first bearer of The Sleeping Lens encountered this source response: Its reflection fractures into hostile versions of the worker. The weapon marks the immediate hazard only after the team attributed it to Vanity Asleep. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Sleeping Lens encountered this source response: Its reflection fractures into hostile versions of the worker. The weapon marks the immediate hazard only after the team attributed it to Vanity Asleep. A wielder was found dreaming on their feet at a post and could not say when it had started, and the Sleeping Lens’s binding is the report from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Vanity Asleep's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the alertness goes before the shot rather than after it, and the wielders sleep with their eyes on the target.
 - Terminal state: Vanity Asleep's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it by force; look at the reflected self without turning away” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Sleeping Lens encountered this source response: Its refl
 
 ## SET RELATIONSHIP
 
-Within *Vanity Asleep — Witnessed Form*, The Sleeping Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Vanity Asleep — Witnessed Form*, The Sleeping Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a shot after which its wielder is awake.
 
 ---
 

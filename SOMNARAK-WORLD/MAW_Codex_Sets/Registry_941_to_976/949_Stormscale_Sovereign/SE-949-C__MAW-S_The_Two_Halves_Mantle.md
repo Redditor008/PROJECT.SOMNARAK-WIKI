@@ -33,12 +33,12 @@ The Two Halves Mantle is the suit record of the The Stormscale Sovereign set —
 
 ## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Suit Record*
 
-The first bearer of The Two-Halves Mantle encountered this source response: The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. The suit uncouples the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Two-Halves Mantle encountered this source response: The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. The suit uncouples the immediate hazard only after the team attributed it to The Stormscale Sovereign. A wearer’s own grief was spread thin across a season and never once resolved, and the Mantle’s binding is the review that found it diluted rather than treated.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Stormscale Sovereign's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the spreading reaches grief that was already settled, and old losses go thin again.
 - Terminal state: Stormscale Sovereign's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses.” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Two-Halves Mantle encountered this source response: The 
 
 ## SET RELATIONSHIP
 
-Within *The Stormscale Sovereign — Witnessed Form*, The Two-Halves Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Stormscale Sovereign — Witnessed Form*, The Two-Halves Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one feeling in the wearer is still sharp enough to hurt; the first that has gone thin, the Mantle is out.
 
 ---
 

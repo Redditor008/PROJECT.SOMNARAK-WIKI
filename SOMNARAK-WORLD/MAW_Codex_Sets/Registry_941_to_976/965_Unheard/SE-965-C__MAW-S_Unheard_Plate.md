@@ -33,12 +33,12 @@ The Unheard Plate is the suit record of the Unheard set — α-grade, Grudge-ali
 
 ## ITEM-SPECIFIC HISTORY — *The Unheard Source-Trace: Suit Record*
 
-The first Unheard Plate field bearer encountered this source response: Tests whether the worker can remain inside complete silence. The suit contains the immediate hazard only after the team attributed it to Unheard. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unheard Plate field bearer encountered this source response: Tests whether the worker can remain inside complete silence. The suit contains the immediate hazard only after the team attributed it to Unheard. A wearer came through a fight entirely unhurt and could give no account of any of it, and the Plate’s binding is the blank incident form.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unheard's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the complaint goes before the blow does, and injuries are treated without anybody being told how they happened.
 - Terminal state: Unheard's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not force sound into it; listen and record what remains” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Unheard Plate field bearer encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *Unheard — Witnessed Form*, Unheard Plate performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unheard — Witnessed Form*, Unheard Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still describe one thing that happened to them; the first fight they cannot, the Plate is out.
 
 ---
 

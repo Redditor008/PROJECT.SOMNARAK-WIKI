@@ -35,12 +35,12 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 
 ## ITEM-SPECIFIC HISTORY — *The Yggdrasil Wound Source-Trace: Weapon Record*
 
-The first bearer of The Torn Lens encountered this source response: The tree tears further through the worker's thoughts. The weapon severs the immediate hazard only after the team attributed it to Yggdrasil Wound. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Lens encountered this source response: The tree tears further through the worker's thoughts. The weapon severs the immediate hazard only after the team attributed it to Yggdrasil Wound. A wielder’s history came down to a single room and a locked door in it, and the Censer’s binding is the statement taken at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Yggdrasil Wound's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the one kept memory starts being spent too, and the room loses its furnishings before it loses its door.
 - Terminal state: Yggdrasil Wound's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Ground the worker and permit both memories to remain” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Torn Lens encountered this source response: The tree tea
 
 ## SET RELATIONSHIP
 
-Within *Yggdrasil Wound — Witnessed Form*, The Torn Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Yggdrasil Wound — Witnessed Form*, The Torn Lens performs the weapon role while the other pieces preserve attribution and survival. The Censer leaves the set on an arc that keeps more than the one memory.
 
 ---
 

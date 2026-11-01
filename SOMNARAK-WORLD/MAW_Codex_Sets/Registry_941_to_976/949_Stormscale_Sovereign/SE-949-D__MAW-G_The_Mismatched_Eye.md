@@ -32,12 +32,12 @@ The Mismatched Eye is the stigma record of the The Stormscale Sovereign set — 
 
 ## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Stigma Record*
 
-The first bearer of The Mismatched Eye encountered this source response: Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. The stigma opens the immediate hazard only after the team attributed it to The Stormscale Sovereign. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Mismatched Eye encountered this source response: Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. The stigma opens the immediate hazard only after the team attributed it to The Stormscale Sovereign. A bearer woke not knowing which of two things they were and carried the uncertainty through a whole morning, and the Eye’s binding is the form they signed in it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Stormscale Sovereign's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the dream stops ending at waking, and the bearer is two things through the shift.
 - Terminal state: Stormscale Sovereign's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses.” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Mismatched Eye encountered this source response: Studied
 
 ## SET RELATIONSHIP
 
-Within *The Stormscale Sovereign — Witnessed Form*, The Mismatched Eye performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Stormscale Sovereign — Witnessed Form*, The Mismatched Eye performs the stigma role while the other pieces preserve attribution and survival. The Eye drops out of the set on a morning the bearer knows which one they are before they stand.
 
 ---
 

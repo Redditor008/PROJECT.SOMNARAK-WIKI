@@ -32,12 +32,12 @@ The Relic Charm is the stigma record of the Pandora's Jar set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Pandora's Jar Source-Trace: Stigma Record*
 
-The first bearer of The Relic Charm encountered this source response: Reveals fragments of the missing relic's history. The stigma severs the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Relic Charm encountered this source response: Reveals fragments of the missing relic's history. The stigma severs the immediate hazard only after the team attributed it to Pandora's Jar. A bearer could not be found on three consecutive rolls and then not on the fourth either, and the Charm’s binding is the last entry with their name on it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Pandora's Jar's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the removals reach other people’s accounts, and colleagues cannot say who they were working beside.
 - Terminal state: Pandora's Jar's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Bear the heat and name what was lost” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Relic Charm encountered this source response: Reveals fr
 
 ## SET RELATIONSHIP
 
-Within *Pandora's Jar — Witnessed Form*, The Relic Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Pandora's Jar — Witnessed Form*, The Relic Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when something is written down with the bearer still in it.
 
 ---
 

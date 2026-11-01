@@ -35,12 +35,12 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 ## ITEM-SPECIFIC HISTORY — *The Uprooted Source-Trace: Weapon Record*
 
-The first Uprooted Requiem field bearer encountered this source response: Roots strike outward and structures rise violently. The weapon discharges the immediate hazard only after the team attributed it to Uprooted. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Uprooted Requiem field bearer encountered this source response: Roots strike outward and structures rise violently. The weapon discharges the immediate hazard only after the team attributed it to Uprooted. A wielder fired a round from a place they could no longer return to and found the address gone, and the Requiem’s binding is the billet record from that posting.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Uprooted's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the rounds are fired from addresses the wielder has not held in years, and the shooting goes on into empty ground.
 - Terminal state: Uprooted's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not burn the roots; map and witness their route” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first Uprooted Requiem field bearer encountered this source response: Roots 
 
 ## SET RELATIONSHIP
 
-Within *Uprooted — Witnessed Form*, Uprooted Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Uprooted — Witnessed Form*, Uprooted Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a shot fired from where the wielder is standing now.
 
 ---
 

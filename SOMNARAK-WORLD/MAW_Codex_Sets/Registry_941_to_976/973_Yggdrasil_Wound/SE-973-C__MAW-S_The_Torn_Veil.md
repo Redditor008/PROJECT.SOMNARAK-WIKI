@@ -33,12 +33,12 @@ The Torn Veil is the suit record of the Yggdrasil Wound set — α-grade, Void-a
 
 ## ITEM-SPECIFIC HISTORY — *The Yggdrasil Wound Source-Trace: Suit Record*
 
-The first bearer of The Torn Veil encountered this source response: Tests whether the worker can remain between both memories. The suit uncouples the immediate hazard only after the team attributed it to Yggdrasil Wound. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Torn Veil encountered this source response: Tests whether the worker can remain between both memories. The suit uncouples the immediate hazard only after the team attributed it to Yggdrasil Wound. A wearer gave a coherent account of a life that did not hold together and did not notice the joins, and the Veil’s binding is that account.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Yggdrasil Wound's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the coherence narrows, and the wearer’s recall is excellent within a single memory and absent everywhere else.
 - Terminal state: Yggdrasil Wound's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Ground the worker and permit both memories to remain” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Torn Veil encountered this source response: Tests whethe
 
 ## SET RELATIONSHIP
 
-Within *Yggdrasil Wound — Witnessed Form*, The Torn Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Yggdrasil Wound — Witnessed Form*, The Torn Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can reach one memory outside the kept one; the first they cannot, the Veil is out.
 
 ---
 

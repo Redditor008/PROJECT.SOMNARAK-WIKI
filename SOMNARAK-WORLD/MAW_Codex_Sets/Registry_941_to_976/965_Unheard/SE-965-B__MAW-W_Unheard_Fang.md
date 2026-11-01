@@ -33,12 +33,12 @@ The Unheard Fang is the weapon record of the Unheard set — α-grade, Grudge-al
 
 ## ITEM-SPECIFIC HISTORY — *The Unheard Source-Trace: Weapon Record*
 
-The first Unheard Fang field bearer encountered this source response: The pressure fights back without producing sound. The weapon stays the immediate hazard only after the team attributed it to Unheard. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unheard Fang field bearer encountered this source response: The pressure fights back without producing sound. The weapon stays the immediate hazard only after the team attributed it to Unheard. A wielder shouted an order into a strike and could not afterwards confirm they had made a sound, and the Fang’s binding is the transcript with the shouting missing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unheard's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the voice goes before the strike, and the wielder issues orders they can feel in their throat and nobody hears.
 - Terminal state: Unheard's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not force sound into it; listen and record what remains” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Unheard Fang field bearer encountered this source response: The pressu
 
 ## SET RELATIONSHIP
 
-Within *Unheard — Witnessed Form*, Unheard Fang performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unheard — Witnessed Form*, Unheard Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow after which its wielder has heard their own voice.
 
 ---
 

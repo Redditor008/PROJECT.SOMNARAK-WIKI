@@ -33,12 +33,12 @@ The Uprooted Shield is the suit record of the Uprooted set — α-grade, Lament-
 
 ## ITEM-SPECIFIC HISTORY — *The Uprooted Source-Trace: Suit Record*
 
-The first Uprooted Shield field bearer encountered this source response: Tests whether the worker can bear rootless movement. The suit redirects the immediate hazard only after the team attributed it to Uprooted. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Uprooted Shield field bearer encountered this source response: Tests whether the worker can bear rootless movement. The suit redirects the immediate hazard only after the team attributed it to Uprooted. A wearer was still inside a crisis from four years earlier while the ward had moved on, and the Shield’s binding is the note filed at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Uprooted's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the rooting reaches ordinary days, and the wearer’s worst hour is the one they woke into.
 - Terminal state: Uprooted's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not burn the roots; map and witness their route” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Uprooted Shield field bearer encountered this source response: Tests w
 
 ## SET RELATIONSHIP
 
-Within *Uprooted — Witnessed Form*, Uprooted Shield performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Uprooted — Witnessed Form*, Uprooted Shield performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can get out of one moment; the first crisis they cannot leave, the Shield is out.
 
 ---
 

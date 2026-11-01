@@ -35,12 +35,12 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 ## ITEM-SPECIFIC HISTORY — *The Pandora's Jar Source-Trace: Weapon Record*
 
-The first bearer of The Relic Maul encountered this source response: Burns with retaliatory fury. The weapon opens the immediate hazard only after the team attributed it to Pandora's Jar. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Relic Maul encountered this source response: Burns with retaliatory fury. The weapon opens the immediate hazard only after the team attributed it to Pandora's Jar. A wielder came out of a fight with no memory of having fought it and the Cleaver was still open in their hand, and the Maul’s binding is the incident note from that return.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Pandora's Jar's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the line about the fight is removed before the fight, and the wielder arrives at the field already unable to say why.
 - Terminal state: Pandora's Jar's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Bear the heat and name what was lost” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Relic Maul encountered this source response: Burns with 
 
 ## SET RELATIONSHIP
 
-Within *Pandora's Jar — Witnessed Form*, The Relic Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Pandora's Jar — Witnessed Form*, The Relic Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow its wielder can remember.
 
 ---
 
