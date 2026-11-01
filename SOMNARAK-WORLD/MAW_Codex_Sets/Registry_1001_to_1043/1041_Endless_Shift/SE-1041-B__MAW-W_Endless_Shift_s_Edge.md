@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Weapon Record*
 
-The first Endless Shift's Edge field bearer encountered this source response: N/A The weapon witnesses the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Endless Shift's Edge field bearer encountered this source response: N/A The weapon witnesses the immediate hazard only after the team attributed it to Endless Shift. A wielder came off a shift with their dominant hand worn through and the shift not ended, and the Edge’s binding is the hours sheet from that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Endless Shift's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the hours are added before the blow, and the wielder has worked past their relief before they arrive at it.
 - Terminal state: Endless Shift's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1041 -->
@@ -43,7 +43,7 @@ The first Endless Shift's Edge field bearer encountered this source response: N/
 
 ## SET RELATIONSHIP
 
-Within *Endless Shift — Witnessed Form*, Endless Shift's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Endless Shift — Witnessed Form*, Endless Shift's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which its wielder’s shift ends.
 
 ---
 

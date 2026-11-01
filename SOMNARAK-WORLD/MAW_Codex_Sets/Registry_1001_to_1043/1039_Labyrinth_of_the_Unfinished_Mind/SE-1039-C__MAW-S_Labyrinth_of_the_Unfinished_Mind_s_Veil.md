@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Suit Record*
 
-The first Labyrinth of the Unfinished Mind's Veil field bearer encountered this source response: Keep the party in one room for the full cycle and let the maze rearrange around it; the pressure settles for whoever stays put while the walls move. The suit stabilizes the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Labyrinth of the Unfinished Mind's Veil field bearer encountered this source response: Keep the party in one room for the full cycle and let the maze rearrange around it; the pressure settles for whoever stays put while the walls move. The suit stabilizes the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. A wearer could not be remembered by the team walking beside them and could not remember themselves, and the Veil’s binding is the roll-call from that descent.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Labyrinth of the Unfinished Mind's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the corridors rearrange around the forgetting, and the wearer is lost in a place with only one room in it.
 - Terminal state: Labyrinth of the Unfinished Mind's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1039 -->
@@ -43,7 +43,7 @@ The first Labyrinth of the Unfinished Mind's Veil field bearer encountered this 
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be placed by one person on the team; the first descent where nobody can, the Veil is out.
 
 ---
 

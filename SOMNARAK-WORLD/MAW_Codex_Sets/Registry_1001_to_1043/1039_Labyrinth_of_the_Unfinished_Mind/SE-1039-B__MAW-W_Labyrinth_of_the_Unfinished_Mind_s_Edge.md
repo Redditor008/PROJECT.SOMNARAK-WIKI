@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Weapon Record*
 
-The first Labyrinth of the Unfinished Mind's Edge field bearer encountered this source response: N/A The weapon opens the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Labyrinth of the Unfinished Mind's Edge field bearer encountered this source response: N/A The weapon opens the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. A wielder finished a shift with a headache where an idea had been going and could not hold an intention past the first corridor, and the Edge’s binding is the descent log from that survey.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Labyrinth of the Unfinished Mind's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cut arrives before the strike, and the wielder loses the intention that sent them down the corridor.
 - Terminal state: Labyrinth of the Unfinished Mind's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1039 -->
@@ -43,7 +43,7 @@ The first Labyrinth of the Unfinished Mind's Edge field bearer encountered this 
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown at something its wielder finished thinking about.
 
 ---
 

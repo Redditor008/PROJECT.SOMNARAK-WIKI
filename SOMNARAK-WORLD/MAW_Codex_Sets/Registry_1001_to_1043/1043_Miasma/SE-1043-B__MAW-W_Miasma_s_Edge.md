@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Weapon Record*
 
-The first Miasma's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Miasma's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Miasma. A wielder wept once at the start of a shift without being able to say for whom, and the Edge’s binding is the intake note from the quartermaster who re-seated the piece.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Miasma's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the weeping arrives before the shift does, and the wielder is weeping on the walk in.
 - Terminal state: Miasma's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1043 -->
@@ -43,7 +43,7 @@ The first Miasma's Edge field bearer encountered this source response: N/A The w
 
 ## SET RELATIONSHIP
 
-Within *Miasma — Witnessed Form*, Miasma's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Miasma — Witnessed Form*, Miasma's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a shift its wielder begins dry.
 
 ---
 

@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Stigma Record*
 
-The first Hour the Dead Walk's Token field bearer encountered this source response: Take the two perimeter counts and read the difference; the difference is the instrument, and it is the only thing the hour gives up to an observer. The stigma uncouples the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hour the Dead Walk's Token field bearer encountered this source response: Take the two perimeter counts and read the difference; the difference is the instrument, and it is the only thing the hour gives up to an observer. The stigma uncouples the immediate hazard only after the team attributed it to Hour the Dead Walk. A bearer woke at the same time every night already mourning somebody they had never met, and the Token’s binding is the sleep record from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Hour the Dead Walk's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the mourning arrives before sleep does, and the bearer is grieving at the hour in daylight.
 - Terminal state: Hour the Dead Walk's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1042 -->
@@ -42,7 +42,7 @@ The first Hour the Dead Walk's Token field bearer encountered this source respon
 
 ## SET RELATIONSHIP
 
-Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a night the bearer sleeps through the hour.
 
 ---
 

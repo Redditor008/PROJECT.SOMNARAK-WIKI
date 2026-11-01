@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Suit Record*
 
-The first Endless Shift's Veil field bearer encountered this source response: Work the station for the full shift and leave on the timepiece rather than the log; the pressure settles for a party that ends when the clock does. The suit isolates the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Endless Shift's Veil field bearer encountered this source response: Work the station for the full shift and leave on the timepiece rather than the log; the pressure settles for a party that ends when the clock does. The suit isolates the immediate hazard only after the team attributed it to Endless Shift. A wearer could not tell the end of a task from the start of the next, and the Veil’s binding is the duty board with no completed entries on it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Endless Shift's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the rest stops counting as rest, and the wearer’s sleep is logged as part of the shift.
 - Terminal state: Endless Shift's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1041 -->
@@ -43,7 +43,7 @@ The first Endless Shift's Veil field bearer encountered this source response: Wo
 
 ## SET RELATIONSHIP
 
-Within *Endless Shift — Witnessed Form*, Endless Shift's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Endless Shift — Witnessed Form*, Endless Shift's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can tell one task finished; the first watch they cannot, the Veil is out.
 
 ---
 

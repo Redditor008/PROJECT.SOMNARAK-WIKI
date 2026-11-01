@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Stigma Record*
 
-The first Labyrinth of the Unfinished Mind's Token field bearer encountered this source response: Walk the corridors writing the route as you go; the map is legible afterwards and it does not join up, which is the finding. The stigma severs the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Labyrinth of the Unfinished Mind's Token field bearer encountered this source response: Walk the corridors writing the route as you go; the map is legible afterwards and it does not join up, which is the finding. The stigma severs the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. A bearer knew everybody in the room and could not retrace a single conversation with any of them, and the Token’s binding is the transcript with the routes missing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Labyrinth of the Unfinished Mind's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the words go for longer after each invocation, and the bearer hears their own name returned to them flat.
 - Terminal state: Labyrinth of the Unfinished Mind's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1039 -->
@@ -42,7 +42,7 @@ The first Labyrinth of the Unfinished Mind's Token field bearer encountered this
 
 ## SET RELATIONSHIP
 
-Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer can retrace one conversation.
 
 ---
 

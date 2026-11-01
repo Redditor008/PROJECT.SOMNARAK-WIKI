@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Stigma Record*
 
-The first Wanderer Without a Destination Lantern field bearer encountered this source response: Reveals routes beyond the city. The stigma redirects the immediate hazard only after the team attributed it to Wanderer Without a Destination. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Wanderer Without a Destination Lantern field bearer encountered this source response: Reveals routes beyond the city. The stigma redirects the immediate hazard only after the team attributed it to Wanderer Without a Destination. A bearer walked in the direction of whichever place hurt most and could not say why that one, and the Lantern’s binding is the count kept across those seasons.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Wanderer Without a Destination's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the count arrives before the leaving, and the bearer is walking toward somewhere they have not yet left.
 - Terminal state: Wanderer Without a Destination's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Provide a memory anchor; do not force a destination” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first Wanderer Without a Destination Lantern field bearer encountered this s
 
 ## SET RELATIONSHIP
 
-Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Lantern performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Lantern performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set on a day the bearer chooses a direction the count did not pick.
 
 ---
 

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Weapon Record*
 
-The first Wanderer Without a Destination Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Wanderer Without a Destination. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Wanderer Without a Destination Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Wanderer Without a Destination. A wielder was always almost there for a season and never arrived at any of it, and the Requiem’s binding is the movement log from that posting.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Wanderer Without a Destination's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the destination moves before the blow, and the wielder strikes from further away than the room allows.
 - Terminal state: Wanderer Without a Destination's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Provide a memory anchor; do not force a destination” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Wanderer Without a Destination Requiem field bearer encountered this s
 
 ## SET RELATIONSHIP
 
-Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow thrown at a target the wielder reaches.
 
 ---
 

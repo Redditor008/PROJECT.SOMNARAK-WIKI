@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The stock bullets are gone: 345 of 345 (batch 101)
+
+`SE-1039` Labyrinth of the Unfinished Mind, `SE-1040` Wanderer Without a Destination, `SE-1041` Endless Shift, `SE-1042` Hour the Dead Walk, `SE-1043` Miasma — **the last fifteen records.** These are the 900-range redesignations, the ones filed at registry numbers a thousand apart from their own codes, and every one of them had been carrying the same three sentences since the template was written.
+
+**The programme that opened at batch 77 is closed: 345 records converted, and the three stock sentences are at zero.**
+
+- *Treating the response as the bearer's own story reproduced the source wound and established the present binding rule.* — **0**
+- *\- Escalation: the item repeats the source response outside contact.* — **0**
+- *Full-set resonance ends when the recorded resolution is met.* — **0**
+
+Start: 345 · 345 · 345. End: 0 · 0 · 0. Twenty-five batches, one reading of each set's three cost lines, and every sentence written from what that record already said about itself. The Miasma set is a fair last example: the Edge weeps once at the start of a shift and cannot say for whom, so its set ends on a shift its bearer begins dry; the Token's cold runs half a minute ahead of the thinning, so it drops out when the bearer passes a junction without reaching for it.
+
+**One residue found while checking the zero, and it is the next pass:** a *second* form of the same stock sentence lives in the corrosion prose — *Treating the response as autobiography reproduced the wound and fixed the rule* in **139** records, and the long corrosion sentence that opens with *Treating the response as the bearer's own story…* in **15** more. Different location, same defect, and it is now the only one of its kind left.
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Fifteen records, five sources (batch 100)
 
 `SE-1034` Resting, `SE-1035` Crying, `SE-1036` Ruin, `SE-1037` Well Within, `SE-1038` Echo — **fifteen records, forty-five sentences.** The Resting Burden holds resonance while its wearer can be told one task is finished and believe it; the Ruin Veil keeps its set while the wearer can still see one room as it is; the Echo Plate holds while one thing said to the wearer today can still reach them.

@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Suit Record*
 
-The first Miasma's Veil field bearer encountered this source response: Stay the full shift without shortening it; the pressure settles around a party that keeps to the marked pace. The suit redirects the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Miasma's Veil field bearer encountered this source response: Stay the full shift without shortening it; the pressure settles around a party that keeps to the marked pace. The suit redirects the immediate hazard only after the team attributed it to Miasma. A wearer could not tell a strange grief from the one they had come in with and started asking the cape which was which, and the Veil’s binding is that exchange.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Miasma's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cape is asked before the wearer has a grief of their own to compare it to.
 - Terminal state: Miasma's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1043 -->
@@ -43,7 +43,7 @@ The first Miasma's Veil field bearer encountered this source response: Stay the 
 
 ## SET RELATIONSHIP
 
-Within *Miasma — Witnessed Form*, Miasma's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Miasma — Witnessed Form*, Miasma's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can name one grief as theirs without asking; the first they cannot, the Veil is out.
 
 ---
 

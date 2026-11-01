@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Suit Record*
 
-The first Hour the Dead Walk's Veil field bearer encountered this source response: Hold the perimeter for the full hour without going in to count again; the pressure settles for a party that stays outside until it closes. The suit severs the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hour the Dead Walk's Veil field bearer encountered this source response: Hold the perimeter for the full hour without going in to count again; the pressure settles for a party that stays outside until it closes. The suit severs the immediate hazard only after the team attributed it to Hour the Dead Walk. A wearer kept a seat for somebody and could not say who, and the Veil’s binding is the room plan from that ward.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Hour the Dead Walk's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the living go absent one at a time, and the wearer is company for a room the rest of the team cannot see.
 - Terminal state: Hour the Dead Walk's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1042 -->
@@ -43,7 +43,7 @@ The first Hour the Dead Walk's Veil field bearer encountered this source respons
 
 ## SET RELATIONSHIP
 
-Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one living person in the room is still present to the wearer; the first they are not, the Veil is out.
 
 ---
 

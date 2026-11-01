@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Weapon Record*
 
-The first Hour the Dead Walk's Edge field bearer encountered this source response: N/A The weapon stabilizes the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hour the Dead Walk's Edge field bearer encountered this source response: N/A The weapon stabilizes the immediate hazard only after the team attributed it to Hour the Dead Walk. A wielder heard footsteps keeping pace with theirs and stopping when they stopped, and the Edge’s binding is the patrol log from that hour.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Hour the Dead Walk's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the footsteps arrive before the strike, and the wielder walks faster than the posting requires.
 - Terminal state: Hour the Dead Walk's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1042 -->
@@ -43,7 +43,7 @@ The first Hour the Dead Walk's Edge field bearer encountered this source respons
 
 ## SET RELATIONSHIP
 
-Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which the wielder walks at their own pace.
 
 ---
 

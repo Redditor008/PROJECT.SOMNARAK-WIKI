@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Stigma Record*
 
-The first Endless Shift's Token field bearer encountered this source response: Read the sealed timepiece at the door against the station log; the difference between the two is the reading, and it is the only measurement that survives a shift. The stigma interrupts the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Endless Shift's Token field bearer encountered this source response: Read the sealed timepiece at the door against the station log; the difference between the two is the reading, and it is the only measurement that survives a shift. The stigma interrupts the immediate hazard only after the team attributed it to Endless Shift. A bearer was bent under a list that only ever grew and could not put one completed item down, and the Token’s binding is the task register from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Endless Shift's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the completed items are added back before the next task, and the list is longer at the end of every shift.
 - Terminal state: Endless Shift's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1041 -->
@@ -42,7 +42,7 @@ The first Endless Shift's Token field bearer encountered this source response: R
 
 ## SET RELATIONSHIP
 
-Within *Endless Shift — Witnessed Form*, Endless Shift's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Endless Shift — Witnessed Form*, Endless Shift's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer crosses one thing off and it stays off.
 
 ---
 

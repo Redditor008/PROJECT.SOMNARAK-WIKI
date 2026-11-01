@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Stigma Record*
 
-The first Miasma's Token field bearer encountered this source response: Walk the shift and log the thinning as it comes; the order in which the air gives way is legible, and it is the only reading the hazard offers. The stigma stays the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Miasma's Token field bearer encountered this source response: Walk the shift and log the thinning as it comes; the order in which the air gives way is legible, and it is the only reading the hazard offers. The stigma stays the immediate hazard only after the team attributed it to Miasma. A bearer walked out of a bank early on a cold that came half a minute ahead of the thinning, and the Token’s binding is the log they signed doing it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Miasma's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cold arrives before the junction, and the bearer is out of the bank before anyone has entered it.
 - Terminal state: Miasma's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1043 -->
@@ -42,7 +42,7 @@ The first Miasma's Token field bearer encountered this source response: Walk the
 
 ## SET RELATIONSHIP
 
-Within *Miasma — Witnessed Form*, Miasma's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Miasma — Witnessed Form*, Miasma's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer passes a junction without reaching for it.
 
 ---
 

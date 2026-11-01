@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Suit Record*
 
-The first Wanderer Without a Destination Shroud field bearer encountered this source response: Tests whether the worker can remain with a wanderer. The suit discharges the immediate hazard only after the team attributed it to Wanderer Without a Destination. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Wanderer Without a Destination Shroud field bearer encountered this source response: Tests whether the worker can remain with a wanderer. The suit discharges the immediate hazard only after the team attributed it to Wanderer Without a Destination. A wearer had been everywhere and liked none of it and could not say when that had started, and the Shroud’s binding is the posting record from that year.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Wanderer Without a Destination's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the stops get shorter than the walking between them, and the wearer cannot settle long enough to be briefed.
 - Terminal state: Wanderer Without a Destination's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Provide a memory anchor; do not force a destination” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Wanderer Without a Destination Shroud field bearer encountered this so
 
 ## SET RELATIONSHIP
 
-Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one place still reaches the wearer; the first posting where none does, the Shroud is out.
 
 ---
 
