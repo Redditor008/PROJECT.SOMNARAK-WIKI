@@ -150,6 +150,12 @@ Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 **Reading the response:** Read the seep rate at the rim and the stake line. A falling gauge presents as the seep easing and the channel sound dropping below audibility; a rising one presents as new channel ends, which are permanent. Nothing about the surface or the smell is an indicator and both have misled teams.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels"*.
+
+
+
+
+
 > **This Relic is a designated meltdown-mitigation measure in the facility safety case — load-bearing, not optional**
 > **Everything discharged into it arrives somewhere, including occupied households**
 > **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**

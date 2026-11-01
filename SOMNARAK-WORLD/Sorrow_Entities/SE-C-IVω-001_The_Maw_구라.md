@@ -200,6 +200,12 @@ The Work Type table applies to a district and measures almost nothing. What the 
 **Reading the response:** A falling gauge here means the thousand have been answered, not that they have been satisfied; it rises again by the next quarter. The only reading that has ever stayed down is the one following Year 4,196, when a Director read eleven recovered names aloud at the perimeter. The gauge was eleven points lower for four years.
 ## Expansion Behavior
 
+> **Special activation only — no counter, no gauge.** What sets it off, per the record: *"increase in the city's collective sorrow"*.
+
+
+
+
+
 > **Place → Subject event:** The Maw is a Place-manifestation entity — the district *itself* is the entity. Normally it expands slowly (2.3 cm per cycle). But if the expansion exceeds Zone B's containment perimeter — if the Maw grows beyond the district — it **transforms from a Place entity into a event Subject entity**. In this form, the Maw becomes mobile: the whispering walls detach, the soft ground lifts, the thousand voices coalesce into a single massive figure that walks through the city. This Place→Subject transformation is the rarest and most catastrophic event type in Somnarak — a location becoming a being.
 
 | Field | Detail |

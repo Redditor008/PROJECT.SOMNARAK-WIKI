@@ -150,6 +150,12 @@ Redcage is an Object/Place with Object-Grudge manifestation and Grudge expressio
 **Reading the response:** Read it in the pulse and in the temperature gap. A falling gauge presents as a slower pulse and a narrowing gap between the inner and outer faces; the pressure drops, nothing is resolved, and the dimension stays exactly where it was. A rising gauge presents as argument. The worker begins making a case — a good one, about something real — and the pulse comes up with their voice. Log the deviation and log what the worker was arguing about, because on this holding that has twice been the useful field.
 ## Activation Behavior
 
+> **Special activation — no counter.** Filed trigger: *"touching or attempting to open the cage"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

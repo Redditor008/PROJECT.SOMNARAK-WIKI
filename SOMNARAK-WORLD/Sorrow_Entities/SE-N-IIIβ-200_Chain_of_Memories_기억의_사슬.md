@@ -153,6 +153,12 @@ The table understates one thing and should be read with it in mind: the Chain's 
 **Reading the response:** Read the worker, not the object. The Chain gives three signs and the instruments catch none of them: the worker stops using the first person about their own history; the worker corrects somebody else's recollection with confidence they have no grounds for; and the worker asks, usually at the end of a cycle, whether a named person has been in the room. The third sign has preceded every link added since Year 4,231. Log the sentence verbatim, including the name, because the name is the only forward-looking datum this entity produces.
 ## Activation Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"touching a link while naming its owner"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Trades Recall For Resilience, And The Trade Does Not Reverse On Removal**

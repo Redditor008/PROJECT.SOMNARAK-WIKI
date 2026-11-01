@@ -133,6 +133,8 @@ Apocrypha is an Object/Place with Place-Void manifestation and Void expression, 
 **Reading the response:** A falling reading means the site was marked and the farewell spoken, or that an item of unclaimed property was given a meaning in the effects file. Stability under Viderehan is correct. The reading rises with each object entered as unidentified and left at that, and it has risen during expeditions in which this record was not visited at all.
 ## Activation Behavior
 
+> **Special activation — no counter.** Failure is the activation, and what it produces is another site rather than a breach.
+
 > **This Relic benefits the facility only by being left alone and marked.**
 > **This Relic alters the ground it stands on and nothing else; the frost is the whole of its footprint.**
 > **This Relic is capable of taking heat out of a party in under a minute, and the limit is the only instrument.**

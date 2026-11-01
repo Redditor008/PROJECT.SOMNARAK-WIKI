@@ -150,6 +150,12 @@ The table holds steady and the cards do not. What the Gardens tracks is the prop
 **Reading the response:** A falling gauge means a card was written honestly by somebody who did not have to. It rises when the Gardens issues anything about bearing or demeanour, and it rose eleven points in the quarter the Wardens' dress standard was reissued.
 ## Activation Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"placing it over a face"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Worn over the face this relic makes grief invisible, including to the person having it**

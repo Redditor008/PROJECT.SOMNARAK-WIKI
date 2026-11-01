@@ -144,6 +144,12 @@ The Work Type table applies and tells you almost nothing. The two series that ma
 **Reading the response:** A falling gauge here means a cycle was completed and the transcript sealed, nothing more. It rises when somebody stays past the whisper, and has risen once without anybody present at all — in the week of the Year 4,229 propagation, which began and ended while the vault was empty.
 ## Activation Behavior
 
+> **Special activation only — no counter, no gauge.** The file's own line: *"touch, sustained listening, or unknown conditions"*.
+
+
+
+
+
 > **Worked, never opened**
 > **Holding the channel steadies containment readings facility-wide; it also leaves the channeler certain they know what is behind the door**
 > **An abandoned channel does not close cleanly: residue compounds in the vault and the whisper lengthens for the following quarter**

@@ -142,6 +142,12 @@ The gauge on an object held with three others is close to meaningless and the ho
 **Reading the response:** A good cycle ends with the relic in its tray, two signatures, two grades within a point of each other, and both handlers able to give their own names without pausing. The pause is the finding. It is timed.
 ## Activation Behavior
 
+> **Special activation — no counter.** Read off the file: *"contact"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

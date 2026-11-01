@@ -150,6 +150,12 @@ The two available approaches divide the work between what the span shows and wha
 **Reading the response:** A falling reading under Ferrehan means a worker waited at one end and did not start across on anyone's behalf. Stability under Viderehan is correct. The reading rises on unilateral acts: crossing alone, signing for somebody, settling a debt that was not yours, or assuring one party that the other would have wanted something.
 ## Activation Behavior
 
+> **Special activation — no counter.** The file's own line: *"touching one end while naming the other person"*.
+
+
+
+
+
 > **This Relic makes a distance legible. It does not cross it, shorten it or sign for it.**
 > **This Relic escalates with proxies: every act done for somebody else is a plank.**
 > **One person may carry the entire relationship. It is always the helpful one.**

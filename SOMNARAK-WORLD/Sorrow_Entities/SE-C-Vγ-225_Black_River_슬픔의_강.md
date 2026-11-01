@@ -151,6 +151,12 @@ The table is a description of two standing duties, not a set of levers. Videreha
 **Reading the response:** A falling gauge at a station means the line is down, not that anything has been soothed, and a rising one means the unmourned portion of the city's grief has grown. What the reader reports is the content of the current — somebody's kitchen, somebody's sister, a row that was never settled — and that content is not a symptom and is never corrected by anybody. The one reaction the file treats as an event is a tributary going silent or a sealed vault sounding back, and both are logged against the seal register rather than against the Work Type table.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Read off the file: *"a rise in the unmourned portion of the city's grief"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | A rise in the city's unmourned portion. Mourning completed by someone who knew the dead lowers it; nothing else does. |

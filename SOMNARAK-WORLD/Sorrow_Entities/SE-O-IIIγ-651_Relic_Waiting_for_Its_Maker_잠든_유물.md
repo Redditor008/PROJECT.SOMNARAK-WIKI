@@ -133,6 +133,8 @@ Read the table as a description of what the chamber will do with you rather than
 **Reading the response:** Read it in the walls and in what the team has been saying. A falling gauge presents as settling — the plumb readings holding at the last figure, the cold steadying, the quiet losing its edge of attention. The pressure eases and nothing is answered; the relic is still asleep and still unnamed, and there is no version of this work that ends with somebody understanding what it was for. A rising gauge presents as **intimacy**. The chamber feels confidential. Workers find themselves speaking more freely than they would elsewhere, and what they say is true and unforced and would not have been said in a corridor. The walls move toward secrets rather than toward volume, so a whispered confidence shifts them further than an argument does, and the plumb line will record a conversation the open log does not.
 ## Activation Behavior
 
+> **Special activation — no counter.** The chamber has no switch: attendance is the activation, and the walls lean inward in place.
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Disclosure Beyond the Chamber**

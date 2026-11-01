@@ -151,6 +151,12 @@ The Work Type table holds steady here and the patrol sheet does not. The gauge t
 **Reading the response:** Viderehan is Stable and Ferrehan is Decrease in the Work table; keep those gauge readings separate from photographed hands. A lower gauge does not by itself establish a falling hand count. The file’s hand-count series disagree and need their own comparison, not substitution of a gauge result. Keep walking and logging the shown length even when a viewing leaves the photographed count unchanged.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"touch or direct gaze"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This relic shows a shift that was worked by somebody else, and the viewer will file it as their own unless a second person ends the viewing**

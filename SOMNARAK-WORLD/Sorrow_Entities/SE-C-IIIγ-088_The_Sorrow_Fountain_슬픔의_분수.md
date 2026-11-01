@@ -134,6 +134,12 @@ The Sorrow Fountain is an Object/Place with Place-Lament manifestation and Lamen
 **Reading the response:** Read it in the level and in the flow rate together. A falling gauge presents as a slower, quieter pour and a level that settles; the pressure eases and nothing is resolved, because the basin refills regardless and no cycle has ever altered the entity. A rising gauge presents as volume — the pour thickening, the level climbing against the graduation, the damp pushing out past its chalk mark within the same watch. Record deviations before the next assignment, and record the name of whoever was standing closest.
 ## Activation Behavior
 
+> **Special activation — no counter.** Filed trigger: *"approaching the fountain while suppressing tears or uncompleted mourning"*.
+
+
+
+
+
 > **This Relic calms whoever stands in its mist, without asking.**
 > **This Relic alters the Gardens at walking pace: damp first, moss after, eleven point four metres so far.**
 > **This Relic's cost arrives days later, as flatness, and is charged to the bearer alone.**

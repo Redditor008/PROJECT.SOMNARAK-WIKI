@@ -150,6 +150,12 @@ Viderehan holds the gauge level and shows the worker what the artifact was for, 
 **Reading the response:** The gauge measures one worker's patience for one interval. The gap measures what the certification register has been doing. They are kept in separate columns, they have never moved together, and the standing instruction to supervisors is that a session which lowers the gauge and leaves the gap wider has been worked correctly and is written up as a success without qualification.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"arranging the fragments in their former order"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

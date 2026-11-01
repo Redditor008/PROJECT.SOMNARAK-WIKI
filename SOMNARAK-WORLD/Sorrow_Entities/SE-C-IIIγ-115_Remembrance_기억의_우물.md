@@ -136,6 +136,12 @@ The Work Type table is steady and the number the Archive watches is the level at
 **Reading the response:** A falling gauge means a cycle was worked in pairs with the cover on and the record written at the rim. It rises on solitary attendance, on the backlog, and — four times — on a leaf being issued without any note that it had been.
 ## Activation Behavior
 
+> **Special activation only — no counter, no gauge.** What sets it off, per the record: *"breaking the surface with the bronze probe on its winch line"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic returns what the Archive has not recorded, accurately, to whoever is holding the line**
 > **An abandoned channel vents into the chamber and the level rises by a centimetre that quarter**

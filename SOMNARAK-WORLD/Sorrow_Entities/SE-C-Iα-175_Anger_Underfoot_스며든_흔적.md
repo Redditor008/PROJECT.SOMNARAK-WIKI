@@ -133,6 +133,12 @@ Ferrehan lowers the gauge and Viderehan holds it level. Flerehan and Pugnahan ar
 **Reading the response:** What the gauge reports is one worker's silent circuit. What the edge reports is the way this facility has been answering its complaints. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a session which drops the gauge while returning a longer advance has been worked right and goes into the record as a success with nothing added.
 ## Expansion Behavior
 
+> **Special activation only — no counter, no gauge.** The listed condition: *"a conduct grievance closed without a named respondent"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | A grievance about a person's conduct closed against a department, a post or a rotation rather than against a named respondent. |

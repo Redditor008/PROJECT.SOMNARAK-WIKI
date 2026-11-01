@@ -158,6 +158,12 @@ Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight man
 **Reading the response:** Read the face series against the outside clock and nothing else. A falling gauge presents as stops lengthening and reversals becoming rarer; a rising one presents as the chalked line no longer matching the field, which is checked with the probe rather than assumed. An inside sensation cannot authorise the interval or replace the outside clock and boundary probe. Preserve the worker’s estimate separately for the exposure ledger and medical review.
 ## Activation Behavior
 
+> **Special activation — no counter.** Filed trigger: *"proximity, direct contact, or hostile intent"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

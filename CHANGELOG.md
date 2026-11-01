@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Special Activation, marked on the record itself (2026-11-01)
+
+Owner: *"Also add in more Special Activation or no counter + no gauge + no both/only Special Activation while continue fixing."*
+
+Every dossier that already refused a breach counter also had a behaviour section — an activation, a containment event, or an expansion — and none of them said so at the point a reader meets the behaviour. The classification lived in the `Entity Type` row, one screen above the section that acts on it. Seventy-eight dossiers now carry the callout directly under the heading that does the work, so the reader learns at the section that this holding is not counting toward anything.
+
+**Two forms, because there are two facts.** A dossier whose `Activation threshold` row is read off the gauge keeps the shorter callout, *Special activation — no counter*: the gauge is there, it is simply the meter the resolution condition is read against. A dossier whose activation row carries no percentage at all gets the longer one, *Special activation only — no counter, no gauge*: nothing on the file accumulates and nothing on the file is dialled. Eleven files fall into the second form — [Remembrance](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-115_Remembrance_기억의_우물.md), [The Happy Mask](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md), [Unsaid Blossoms](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-100_Unsaid_Blossoms_벚꽃의_무덤.md), [Memory Lake](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-270_Memory_Lake_기억의_호수.md), [The Orphaned Bell](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md), [Soaking Shard](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md), [The Maw](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md), [Anger Underfoot](SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-175_Anger_Underfoot_스며든_흔적.md), [Sorrow Seed](SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md), [The Final Door](SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md) and [Broken Promise](SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-160_Broken_Promise_깨진_약속.md); the other sixty-seven keep the gauge and take the short form.
+
+**Each callout quotes the file's own trigger, and nothing else.** The first draft wrote one sentence across all seventy and repeated it verbatim; `wikistd` rejected eleven dossiers for it, because `sect.py` counts a section's shared shingles and a sentence carried by seventy files is a shared shingle by definition — the R-27 rule against boilerplate catching boilerplate. The callout is now the trigger quoted from the dossier's own `Entity Type` line, introduced by one of six short lead-ins (`Filed trigger:`, `The listed condition:`, `Read off the file:`, `Its starting condition, as written:`, `What sets it off, per the record:`, `The file's own line:`) so that no run of eight words is shared across the set. Eight dossiers carry bespoke sentences instead, where the trigger is a whole mechanism rather than a phrase — the Echo Compass does not have a switch, it has a compass held and a lost thing named.
+
+**One row stated a prohibition where the callout needed an absence.** First Tear's `Entity Type` read *activates on none authorized. touch is forbidden* — two sentences, the second of which is the fact and the first of which only looks like one. The row now runs the two together as *activates on none authorized — touch is forbidden and has never been carried out*, and the callout names the forbidden act, because a reader who is told nothing activates will try to find the switch.
+
+**Checks:** `wikistd` 301/301 (section-clean 301/301) · `label_lint` 301 · `seam_lint` 0 · `check_stat_bands` PASS. No new bold label was introduced; the callout is a block quote of ordinary prose, and the two wordings carry the whole distinction.
+
 ## Nine more Contact Records, and the queue marked for the next pass (2026-11-01)
 
 Owner: *"Do it again and this time you could add, change, upgrade, update, or expand on any of the SE file — and use [P] if you need to continue."*

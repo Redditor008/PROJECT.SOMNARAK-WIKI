@@ -153,6 +153,12 @@ Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Obje
 **Reading the response:** The gauge measures one watch. The interval measures the claims registry, and on this holding alone the bad direction is downward: a long reading is a good quarter. The two columns are kept apart and have moved together exactly once, in Year 4226, when a technician broke the face. A good watch in a short-interval quarter is written up as a good watch.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"bare contact by a person carrying an unlodged entitlement"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**

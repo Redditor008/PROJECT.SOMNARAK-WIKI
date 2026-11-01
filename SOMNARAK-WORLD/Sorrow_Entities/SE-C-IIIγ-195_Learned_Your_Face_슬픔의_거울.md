@@ -152,6 +152,12 @@ Learned Your Face is an Object/Place with Object-Void manifestation and Void exp
 **Reading the response:** Read it in the surface and in the channeller. A falling gauge presents as the glass dulling and the channeller's account becoming plainer — fewer qualifications, shorter sentences. A rising gauge presents as clarity: the reflection sharpening, acquiring detail the channeller did not expect, and beginning to answer questions nobody asked aloud. Clarity is the escalation on this holding and the watch ends when it starts.
 ## Activation Behavior
 
+> **Special activation — no counter.** Filed trigger: *"direct gaze"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic has Venting History: Two Abandoned Channels on Record**

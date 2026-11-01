@@ -150,6 +150,12 @@ The Debt Scale is a Fragment (III) Object/Place; its potency is Moderate (β), i
 **Reading the response:** Read the dishes and the circle, not the room. A falling gauge presents as the beam settling and holding; a rising one presents as the circle creeping past its mark, which is permanent whatever the gauge does afterwards. Log any deviation before the next cycle, including any reading the Scale offers that nobody asked it for.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"a hand placed on one dish"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

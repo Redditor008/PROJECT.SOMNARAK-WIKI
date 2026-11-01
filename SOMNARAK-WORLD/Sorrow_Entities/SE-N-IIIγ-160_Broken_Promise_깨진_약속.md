@@ -134,6 +134,12 @@ Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Gr
 **Reading the response:** Read it in the fracture count and the residue weight rather than in any sensation. A falling gauge presents as the arrangement slowing and the attempted signature holding its shape longer; a rising one presents as fresh fracture and heavier sweepings. The sensation in the room is an unreliable indicator here and has been wrong in both directions.
 ## Activation Behavior
 
+> **Special activation only — no counter, no gauge.** What sets it off, per the record: *"speaking a promise while touching a shard"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

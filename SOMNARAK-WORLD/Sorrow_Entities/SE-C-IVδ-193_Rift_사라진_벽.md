@@ -149,6 +149,12 @@ The table applies and the measurement is the gap: the distance across the line a
 **Reading the response:** A falling reading means the two former wards were named with their dates and the order that merged them. It rises on mergers elsewhere, on literature describing the district as one community, and on anniversaries of the amalgamation.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"any assertion, in public or in a municipal document, that there was never a division here"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | A public statement that the district was never divided. Nine such statements, nine rises in the following quarter. |

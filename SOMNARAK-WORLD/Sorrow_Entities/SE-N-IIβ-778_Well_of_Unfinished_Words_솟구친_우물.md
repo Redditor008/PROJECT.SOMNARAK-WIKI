@@ -150,6 +150,12 @@
 **Reading the response:** A falling level under Ferrehan means a testimony reached its end without being cut into. A stable level under Viderehan means the grief in the water was read and seen, which is the correct outcome for that approach and is not a failed session. A rising level means somebody interrupted, finished another person's sentence for them, or called time.
 ## Activation Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"leaning over the stone coping and whispering an unsaid confession"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**

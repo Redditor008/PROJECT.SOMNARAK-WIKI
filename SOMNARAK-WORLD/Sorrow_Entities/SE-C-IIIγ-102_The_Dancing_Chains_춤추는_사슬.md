@@ -158,6 +158,12 @@ The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudg
 **Reading the response:** Read it in the period. A falling gauge presents as a longer, heavier figure — the same shape, slower, with the links settling fractionally between repetitions. A rising gauge presents as speed, and speed is the only reading that matters, because the bound worker's own account becomes unreliable at exactly the point it starts to rise: they report feeling capable, efficient and unusually well. Log deviations before the next assignment and log the period, not the impression.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"direct contact or deliberate binding to a worker"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Removes the Bearer's Ability to Call a Halt**

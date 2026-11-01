@@ -166,6 +166,12 @@ Broken Mirror is an Echo (II) Object/Place with Object-Void manifestation and Vo
 **Reading the response:** Read it in the radius and in the worker's account. A falling gauge presents as the radius edge drawing back toward the case; a rising one presents as the edge reaching into the stacks. The worker-side indicator is simpler: a viewer who wants a second session has had enough, and the rule is written that way round deliberately.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"direct gaze or physical contact"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Look into this relic and it will show you the years you asked to have taken out**

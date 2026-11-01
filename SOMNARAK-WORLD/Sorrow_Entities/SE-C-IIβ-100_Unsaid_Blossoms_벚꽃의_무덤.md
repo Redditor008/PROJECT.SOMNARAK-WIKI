@@ -133,6 +133,12 @@ The behavior table is a diagnostic and not a prescription: the classification is
 **Reading the response:** Success is an unrounded count and an unread store. The gauge is not the instrument here and never has been; the fall is, and the fall is set before the counting party arrives. A day lost to a raised voice is lost permanently, and fifty-two years of this series exists because four Wardens in succession would not estimate.
 ## Expansion Behavior
 
+> **Special activation only — no counter, no gauge.** What sets it off, per the record: *"the continuous fall, which is observer-independent"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | None observed in fifty-two annual surveys. The heavy-air boundary is where it was when the markers were set. |

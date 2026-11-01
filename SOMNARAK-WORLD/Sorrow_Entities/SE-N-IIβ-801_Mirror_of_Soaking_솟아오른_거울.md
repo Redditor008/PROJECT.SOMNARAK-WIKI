@@ -150,6 +150,12 @@ The table is a diagnostic, not a prescription, and on this record it is short by
 **Reading the response:** A falling reading under Ferrehan means a worker stood in front of their own anger and neither performed it nor denied having it. Stability under Viderehan is correct. The reading rises when anger in the chamber is explained by reference to the person feeling it — their nerves, their history, their attitude — and this is true regardless of whether the explanation is accurate.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"direct gaze or touching the reflective surface"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Leaves the Wearer Unable to Hear Overreaction as an Explanation**

@@ -153,6 +153,12 @@ Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an
 **Reading the response:** The gauge measures one shift. The run measures the credit office. They are kept in separate columns and have moved together exactly once, in Year 4224, when a surveyor struck a link. A good shift in a bad quarter is written up as a good shift.
 ## Activation Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"a link touched with the bare hand while the debtor's name cut into it is spoken aloud"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

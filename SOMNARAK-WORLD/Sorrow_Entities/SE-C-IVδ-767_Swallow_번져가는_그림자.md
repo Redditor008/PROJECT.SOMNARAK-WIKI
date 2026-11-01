@@ -149,6 +149,12 @@ Read the table above against what Swallow actually is: an Object/Place with Plac
 **Reading the response:** Three things are read together — what the holding did, what happened to the worker, and what the shift actually learned. A fall means the sorrow is being taken up rather than spent, and the source stays where it was, so the calm is custody and not healing. A rise means the work has taken hold of the wound instead of sitting beside it. Anything the file does not describe outranks the file: write it down, log it, and do not begin the next cycle until it is in the record.
 ## Expansion Behavior
 
+> **Special activation — no counter.** The file's own line: *"an unrecognised loss carried to the memorial above with no office willing to record it"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Mourning with nowhere to be recorded — grief carried by someone the schedule of degrees does not recognise. |

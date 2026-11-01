@@ -149,6 +149,11 @@ The two valid rows are one posting seen from two sides. Ferrehan is the attendan
 **Reading the response:** Success is a complete verbatim and an accurate count. The gauge is secondary here and has never moved in response to anything the attending party did; it moves with the length of the night, which is set before anybody arrives. A night recorded in summary is a night lost, and sixty-one years of this series exists because four generations of transcribers refused to summarise.
 ## Expansion Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"midnight, and no other trigger in sixty-one years"*.
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | None observed. The corridor's audible field has not changed in sixty-one measured years and the entries below describe a spread nobody has recorded. |

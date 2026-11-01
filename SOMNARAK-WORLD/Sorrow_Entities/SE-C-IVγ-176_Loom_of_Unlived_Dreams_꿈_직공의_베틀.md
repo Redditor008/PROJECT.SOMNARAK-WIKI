@@ -150,6 +150,12 @@ The row that matters here is the one that looks like the safe option. Viderehan 
 **Reading the response:** A falling gauge means the watch ended at its clock and the worker came back out of the future they were standing in. A stable gauge under Viderehan means the observer was shown the whole of what they were preparing for and is, at the end of it, no further along — the row is a receipt and not a result. A rising gauge is the register's way of saying the frame is being worked without a rotation: it gains whenever somebody stays past the clock, and the gain does not come back the next session. Nothing in the table measures the loom itself, which is not selectable at this level; the four lines measure what the facility did with the time it had.
 ## Activation Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"contact with the weave, or entry to any dream chamber inside the marked radius"*.
+
+
+
+
+
 > **This Relic returns a person's own future to them, which the wing has never learned to bank.**
 > **This Relic alters rooms adjacent to the frame and personnel at close range; four rooms are on record.**
 > **This Relic is capable of holding a worker past the clock, and the holding is argued rather than forced.**

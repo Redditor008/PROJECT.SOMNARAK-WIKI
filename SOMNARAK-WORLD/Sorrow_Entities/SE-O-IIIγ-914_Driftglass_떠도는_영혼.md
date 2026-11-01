@@ -165,6 +165,8 @@ Escalation here is spatial and quiet. Record the junction sequence, the drift he
 
 ## Activation Behavior
 
+> **Special activation — no counter.** There is no counter: mishandling is the trigger, and what widens is the drift rather than a body.
+
 > **This Relic benefits the facility by making a walk into a measurement, and the walk cannot be shortened.**
 > **This Relic alters the operator first: whoever carries it starts reading every road as open and none as theirs.**
 > **This Relic extracts personal resilience in hours, and gives it back as a reluctance to go home.**

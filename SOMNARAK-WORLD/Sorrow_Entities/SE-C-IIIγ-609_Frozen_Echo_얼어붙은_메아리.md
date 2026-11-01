@@ -150,6 +150,12 @@ Frozen Echo is an Object/Place with Object-Weight manifestation and Lament expre
 **Reading the response:** Read it in the field edge and in the handler's grammar. A falling gauge presents as the edge drawing in toward the stakes and the handler describing what they felt in the third person. A rising gauge presents as the edge advancing and the handler slipping into the first person about a life that is not theirs. The pronoun is the reading. It is recorded verbatim for that reason and the handler is not corrected in the room.
 ## Activation Behavior
 
+> **Special activation — no counter.** Filed trigger: *"touch"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

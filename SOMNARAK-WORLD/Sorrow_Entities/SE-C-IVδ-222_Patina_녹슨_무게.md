@@ -134,6 +134,8 @@ A stable gauge does not mean a safe encounter here, and the figure is not the le
 **Reading the response:** Read three things in this order: the vegetation line, which dies back weeks ahead of a mass increase and is the only leading indicator; the subsidence against the monuments, surveyed from the district's own network so the families can check it against a reference the Directorate does not control; and the exit screen, a conversation about something else, with the worker told beforehand that is what it is. The gauge describes the session, and a settled session with the front one marker further out is the ordinary shape of this holding.
 ## Activation Behavior
 
+> **Special activation — no counter.** The file's own condition: *bare contact with the rusted mass itself*, and there is no pedestal to stand off from.
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

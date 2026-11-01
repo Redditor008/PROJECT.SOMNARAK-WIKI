@@ -151,6 +151,12 @@ Memory Rain is an Object/Place with Place-Lament manifestation and Lament expres
 **Reading the response:** Read it in the interval and nowhere else. A good cycle shows up weeks later as a longer gap before the next fall, which is the single measurable effect this holding produces; the volume when it comes is unchanged, and the Gardens are covered to the same depth as always. A worker who reports that the rain felt lighter has reported their own condition, and that is logged separately and taken seriously, but it is not a reading.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Filed trigger: *"memory accumulation beyond the city's capacity"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Memory accumulation beyond the city's capacity. |

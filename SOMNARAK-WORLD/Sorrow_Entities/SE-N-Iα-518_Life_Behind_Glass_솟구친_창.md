@@ -157,6 +157,12 @@ Work Type data is one input among many, and the code and the coherence level dec
 **Reading the response:** Viderehan holds the gauge level, and the reason is worth stating plainly: observation is what this entity already is, so looking at it adds nothing and takes nothing away. The worker sees the world they never entered and the Window is unmoved by being seen. Ferrehan lowers the gauge, because enduring here means continuing to look without crossing — holding the view, acknowledging what is on the other side, and declining both to climb through and to walk away. That is the thing the man at the pane never managed in either direction. A falling gauge means a worker has held that position for a full cycle. A rising gauge usually means someone stopped working and started watching, and the distinction between the two is invisible from across the tunnel; it must be established by asking.
 ## Activation Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"direct line of sight into the pane"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic draws personal resilience out of a bearer across a long use** — the drain is slow, it shows first as stillness, and it is why the post runs on a timed watch with a named relief.

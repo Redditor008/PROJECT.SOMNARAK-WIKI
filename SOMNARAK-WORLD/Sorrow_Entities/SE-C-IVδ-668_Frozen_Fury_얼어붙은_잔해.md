@@ -150,6 +150,12 @@ The table is the whole method, and it is short because the holding is narrow. Fr
 **Reading the response:** A falling reading means the week's paperwork named an agent. Stability under Viderehan is correct. The edges brighten on documents that describe the district as vacated, abandoned, or emptied with nobody doing the emptying, and the two brightest readings on record both followed entries that were, grammatically, entirely proper.
 ## Activation Behavior
 
+> **Special activation — no counter.** Read off the file: *"touch or attempts to move the ruin"*.
+
+
+
+
+
 > **This Relic displays the lives and the injustice attached to the structure. It has never harmed anybody.**
 > **This Relic cannot be moved, thawed or tidied. Custody is not restraint.**
 > **The only measure that has ever lowered its reading is a sentence with a subject in it.**

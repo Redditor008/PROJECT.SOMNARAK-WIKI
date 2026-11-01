@@ -134,6 +134,12 @@ Ferrehan pulls the gauge down; Viderehan holds it flat; Flerehan and Pugnahan do
 Two figures come off this holding, and they are not answering the same question. The gauge reports a single worker across a single session. The arrival delay reports the way this facility has been closing its warnings. Across the whole series the two have never moved in step, and a session that brings the gauge down while the clock shows a long delay is written up as clean and nothing is added.
 ## Activation Behavior
 
+> **Special activation — no counter.** Filed trigger: *"a hand laid on the rim with the words spoken aloud, by one person, that they are listening"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

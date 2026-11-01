@@ -134,6 +134,12 @@ Diagnostic use only: the table sorts which approach settles this instrument and 
 **Reading the response:** The gauge is a response and not a verdict. A fall confirms the approach is doing what the table says it does; it does not make the instrument safe, only quieter, and on a needle that has never settled quieter is not the same as still. A rise means the compass is taking something in rather than letting it out, and the file's caution is that unusual readings precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"contact plus a destination spoken aloud"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**

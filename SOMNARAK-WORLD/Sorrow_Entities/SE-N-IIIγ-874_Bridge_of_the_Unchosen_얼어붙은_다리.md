@@ -134,6 +134,12 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 **Reading the response:** The gauge measures one worker's grammar for the length of one session. The probe measures what the facility has published. They are kept in separate columns and have never moved together, and the standing instruction to supervisors is that a session which lowers the gauge and leaves the frost deeper has been worked correctly and should be written up as a success without qualification.
 ## Activation Behavior
 
+> **Special activation — no counter.** Filed trigger: *"regret focused on an unchosen path"*.
+
+
+
+
+
 > **A finding may state what was done, what was not done, what was available, and what was known at the time.**
 > **It may not state what would have happened had another course been taken.**
 > **You have found a principled reason to stop apologising. — family representative, at the consultation**

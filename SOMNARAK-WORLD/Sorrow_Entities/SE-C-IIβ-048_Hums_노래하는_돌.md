@@ -142,6 +142,12 @@ Read the table with the register open beside it, because the gauge is measuring 
 **Reading the response:** A falling reading means a song has acquired a living carrier — somebody who can sing it without the stone. Stability under Viderehan is correct and is not progress. The reading rises when a song is recorded, transcribed, filed, or performed from a sheet, and the rise is identical whether the filing is careful or careless.
 ## Activation Behavior
 
+> **Special activation — no counter.** Read off the file: *"still air, sufficient sorrow, or deliberate listening"*.
+
+
+
+
+
 > **This Relic returns songs to the district, which is the benefit and cannot be banked.**
 > **This Relic alters the district's register over years rather than the sector over hours.**
 > **This Relic is capable of losing a song permanently through a single untended transfer.**

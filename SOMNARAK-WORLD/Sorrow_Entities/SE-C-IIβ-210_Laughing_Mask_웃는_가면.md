@@ -150,6 +150,12 @@ The Work Type rows are steady and the silences are not. Nine years of them: long
 **Reading the response:** A falling reading means somebody laughed in the bay at something that was actually funny and the mask stopped to listen. It rises on performance, on a cheerful shift log, and on any appearance or demeanour standard issued anywhere in the district.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"wearing the mask or laughing near it"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **Worn, this relic makes the bearer pleasant company; it does not give the pleasantness back**

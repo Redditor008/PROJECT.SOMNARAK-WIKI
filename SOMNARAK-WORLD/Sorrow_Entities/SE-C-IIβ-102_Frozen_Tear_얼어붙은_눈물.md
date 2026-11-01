@@ -150,6 +150,8 @@ Two rows of this table are blank by rule rather than by result, and the two that
 **Reading the response:** The decreasing row here is not a treatment and does not look like one. Sitting inside the field without reaching produces the fall, and what it produces in the sitter is the permission to be distressed without it being read as a failure of composure — the thing the Works Office rules forbid anybody at this Company to offer. A stable gauge under Viderehan is the correct reading and the one the file keeps: the moment itself is a room, a sill, a face that has stopped trying, and it does not move anything. Four readings are taken each watch and three of them have never moved in thirty years — the glow against the night card, the warmth through cloth, the outline against the opening drawing. Only the field edge moves, and where the entity reacts outside this table the reaction is data: preserve it before the next cycle and log it before the next assignment.
 ## Activation Behavior
 
+> **Special activation — no counter.** No trigger is required and none is recorded: being inside the field is the whole of the activation, and nothing need be done at all.
+
 > **This Relic permits grief to be visible inside its radius without consequence. It does not soothe, suppress or treat.**
 > **This Relic is never touched, under any authority. The prohibition is the containment.**
 > **Contact delivers the originator's grief entire. Proximity only surfaces your own.**

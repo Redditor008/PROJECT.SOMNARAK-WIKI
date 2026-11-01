@@ -158,6 +158,12 @@ The Cracked Hourglass is a Fragment (III) Object of Moderate (β) potency, Objec
 **Reading the response:** Read the rate and the crack gauge. A falling gauge presents as the tick lengthening; a rising one presents as the crack gaining on the quarter's figure, which does not come back. The feeling in the vault is a poor indicator and the door-crossing times are a better one.
 ## Activation Behavior
 
+> **Special activation — no counter.** Filed trigger: *"touch or prolonged observation"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

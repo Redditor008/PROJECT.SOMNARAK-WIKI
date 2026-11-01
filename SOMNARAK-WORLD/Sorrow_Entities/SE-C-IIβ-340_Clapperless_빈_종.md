@@ -150,6 +150,12 @@ Ferrehan lowers the gauge and the endurance it tests is precise: the worker stan
 **Reading the response:** The gauge reports one worker across one interval. The radius reports what the inspectorate has put its name to. Those two numbers sit in separate columns and have never moved in step once; supervisors are told that a session which lowers the gauge and leaves the field wider has been worked right and is recorded as a success with no note attached.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"touch while saying, “I am listening.”"*.
+
+
+
+
+
 > **This Relic gives one sealed warning, or one sealed passage. It does not take instruction on which.**
 > **This Relic has never rung, and the containment does not attempt to make it.**
 > **The bearer afterwards cannot sign anything they have not personally checked.**

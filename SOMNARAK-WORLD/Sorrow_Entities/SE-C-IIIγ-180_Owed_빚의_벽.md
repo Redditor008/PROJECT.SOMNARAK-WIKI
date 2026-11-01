@@ -157,6 +157,12 @@ Owed is a Place of Fragment (III) coherence at Major (γ) potency — Place-Weig
 **Reading the response:** Read it in the marks and the transparent count, not in the pressure, which is constant and tells the watch nothing. A falling gauge presents as the page-turning sound slowing; a rising one presents as the inscription's end advancing, which is permanent whatever the gauge does afterwards.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"new debt or unpaid obligation"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | A new obligation anywhere in the city, recorded or unrecorded. The unrecorded ones are the majority, which is why growth does not track the Collector ledgers. |

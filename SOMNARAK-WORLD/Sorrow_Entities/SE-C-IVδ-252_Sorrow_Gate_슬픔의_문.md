@@ -150,6 +150,12 @@ Gauge behaviour here is a property of the vault rather than of any approach. Vid
 **Reading the response:** Stability under both approaches is the correct and only acceptable outcome; nothing here is expected to fall during a session. The reading rises when the whispering is transcribed, when a transcript is circulated, and when a worker says aloud in the vault what they believe the Gate opens onto — the last being the fastest rise recorded.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"touch or sustained listening; no approved method exists"*.
+
+
+
+
+
 > **A relic for measurement only — no piece has ever affected the Gate**
 > **The audible range widens through the vault; the slab itself does not move**
 > **An untended channel vents uncontained Void resonance across SECTOR-A-01**

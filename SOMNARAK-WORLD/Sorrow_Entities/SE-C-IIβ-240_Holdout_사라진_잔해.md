@@ -152,6 +152,12 @@ The Work Type table reads normally and the number the vault keeps is the stone c
 **Reading the response:** A falling reading means somebody said what the building was for, out loud, standing in its outline. It rises on clearance announcements, on proposals for the ground, and on the Alpha Tree's own works schedule.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Filed trigger: *"a properly made decision that nobody affected could speak to"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | A correct demolition carried out without anybody affected being heard. The correctness is not in dispute and makes no difference. |

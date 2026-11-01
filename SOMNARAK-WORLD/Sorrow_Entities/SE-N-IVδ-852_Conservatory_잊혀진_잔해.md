@@ -160,6 +160,12 @@ Read the table as the holding's whole method rather than as a menu. Conservatory
 **Reading the response:** Read it in the temperature and in the survey. A falling gauge presents as cooling — the crystal darkening from red toward black, the margin temperature settling, the mass easing back from the approach. The pressure drops and nothing is recovered; the house is still gone and the outline is still all that is left of it. A rising gauge presents as **fidelity**. The outline looks more like the house, not less: detail sharpens, a room reads as furnished, and an observer standing at the station finds they can see where the table was. That is the warning. This entity's whole grievance is the difference between preserving a thing and copying it, and anything in the radius that begins to resemble the house — including a memory of it — is read by the crystal as the attempt that destroyed it being made a second time.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"attempting to reconstruct the remembered structure"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

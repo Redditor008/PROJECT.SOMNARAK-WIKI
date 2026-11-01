@@ -158,6 +158,12 @@ Forgotten Market Stall is an Object/Place with Object-Void manifestation and Voi
 **Reading the response:** Read it in the stock. A falling gauge presents as thinning — fewer items, plainer ones, labels that describe nothing much. A rising gauge presents as improvement: the table gets better, the labels get more specific, and at the top of the curve a worker will find something on it that is addressed to them in all but name. That is the reading, and it is also the only warning the holding gives. Log the stock at the start and end of every watch, and log what the best item on the table was.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"nightfall in the forgotten market and concentrated nostalgia or grief"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic draws on the buyer's own stock and settles up at the point of sale**

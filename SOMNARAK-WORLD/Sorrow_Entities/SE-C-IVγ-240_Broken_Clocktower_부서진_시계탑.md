@@ -150,6 +150,12 @@ The gauge on a site holding is a shift reading. The figure that is kept is the d
 **Reading the response:** A good watch ends when the facility clock says so, with one instruction given once, the timepiece surrendered unopened, and the drift entered whatever it is. A worker who stayed because it did not feel long enough has failed the watch even if nothing happened.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"manual rotation of the escapement wheel, or an abrupt change in the vault supply"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector Alteration — the field, not the fabric**
 > **This Relic bleeds channel resonance when the pendulum is left untended**

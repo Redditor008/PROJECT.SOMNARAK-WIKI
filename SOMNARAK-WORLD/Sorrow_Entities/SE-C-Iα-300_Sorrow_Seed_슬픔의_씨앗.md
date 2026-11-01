@@ -150,6 +150,12 @@ What the gauge does here has to be read against what the Seed is: an Object/Plac
 **Reading the response:** Success here is a figure that reached the duty office unaltered. The gauge is nearly inert — one movement of seven points in two hundred and sixty years — so it is not the instrument and should not be reported as though it were. What is reported is the crawl, the bearing, the roster, and that roster's untaken-leave balance in days.
 ## Activation Behavior
 
+> **Special activation only — no counter, no gauge.** The listed condition: *"no activation trigger known"*.
+
+
+
+
+
 **Activation Trigger:** None known. The Seed has never been planted and the prohibition on attempting it is unconditional; what the file calls activation is the overnight crawl, which happens whether anybody is present or not.
 
 **Effect:** A measured displacement of 4–31 cm along one bearing, and nothing else. The claim that it would grow into an entity shaped by nearby sorrow is a two-hundred-year-old inference from the split shell, has never been tested, and is retained here only because the prohibition rests on it.

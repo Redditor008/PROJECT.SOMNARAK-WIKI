@@ -133,6 +133,12 @@ Weeping Willow is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 **Reading the response:** Read the fall rate and the night's collection count. A falling gauge presents as the rate easing and the sap slowing at the marked cracks; a rising one presents as the saturated boundary past its mark, which does not come back. The feeling beneath the canopy is not an indicator and has been wrong in both directions.
 ## Expansion Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"new endings left without mourning"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | An ending that nobody attends. The trigger is the absence of a mourner rather than the ending itself, which is the finding the collection count rests on. |

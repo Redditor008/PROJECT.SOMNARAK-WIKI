@@ -150,6 +150,12 @@ The gauge here rises and falls with the shift and explains nothing. The figure t
 **Reading the response:** A good watch ends with an empty working volume, two full signatures, and at least one person having said out loud what they came in carrying. The failure mode is a quiet, courteous watch in which nobody says anything, and the file is explicit that this is the dangerous one.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"material left within the working volume while somebody present is carrying a grievance they have not stated"*.
+
+
+
+
+
 > **This Relic benefits the facility by turning an unstated grievance into finished work, which is the whole of this District's output and none of its record.**
 > **This Relic is capable of altering the district it stands in: the floor holds the heat, the output rises with it, and no figure the Company reads can see both at once.**
 > **This Relic can carry a channel overload, and a conduit released without the working volume cleared vents the shift's whole held heat at once.**

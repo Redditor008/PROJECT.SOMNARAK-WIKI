@@ -150,6 +150,12 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 **Reading the response:** A falling gauge means the vault has been held quiet for its length; it does not mean the grievances were answered or that the holding is smaller. The store is the same size at 0 % as at 45 %, and the card is read the same way on both days. What rises is the grade, and the grade rises against the Discipline Office's return rather than against anything the crew does in the room. When the card and the return disagree, the card is recorded as taken and the return is recorded as late, and both entries stand.
 ## Activation Behavior
 
+> **Special activation — no counter.** The file's own line: *"contact, or anger directed at it on purpose"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

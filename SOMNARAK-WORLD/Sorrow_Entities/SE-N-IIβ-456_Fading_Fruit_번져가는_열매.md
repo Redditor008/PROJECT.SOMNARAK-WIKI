@@ -152,6 +152,8 @@ Ferrehan lowers the gauge and Viderehan holds it level; Flerehan and Pugnahan ar
 **Reading the response:** The gauge measures one worker for one hour. The set count measures how much of what this facility's people earned was taken before they held it. They are kept in separate columns, they have never moved together, and an hour that lowers the gauge in a four-thousand season is written up as a clean hour without qualification.
 ## Expansion Behavior
 
+> **Special activation — no counter.** There is no counter and no switch: the garden's footprint expands and withdraws with the season, in place, and no breach is recorded.
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | A quarter in which earned entitlements are applied to balances before reaching the earner. Taken from the return, not from the garden. |

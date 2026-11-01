@@ -149,6 +149,8 @@ The two valid responses do different work and the difference is the whole method
 **Reading the response:** Viderehan holds the gauge level. Looking at the Tear reveals the small loss that formed it, and the Tear neither resists being seen nor gains anything from it — it was never hidden from sight, only from acknowledgement. Ferrehan lowers the gauge, because endurance here means holding a grief that feels too minor to hold and declining to put it down early. That is the exact act the visitor could not perform. A falling gauge therefore means a worker has managed, for ten turns, not to rank sorrows. A rising gauge almost always traces to a single remark in the log — the word *just*, the word *only*, the phrase *nothing serious* — and the remark should be transcribed verbatim rather than summarised, because the entity is responding to the wording and not to the sentiment.
 ## Activation Behavior
 
+> **Special activation — no counter.** Unworked, it does not escape and does not grow; it flattens further, and neglect is the only way this holding changes.
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Transfers a Grief That Is Not the Bearer's**

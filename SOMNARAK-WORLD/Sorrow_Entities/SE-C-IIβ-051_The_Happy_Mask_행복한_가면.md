@@ -142,6 +142,12 @@ The Happy Mask is an Object/Place — Object-Void manifestation, Void expression
 **Reading the response:** A decrease means a worker sat the full cycle without arranging their face. An increase means the mask was approached by somebody performing composure, which it reads and answers. The tray thermometer is logged at both ends of every cycle and is the only number in the file that has never been disputed.
 ## Activation Behavior
 
+> **Special activation only — no counter, no gauge.** The listed condition: *"direct contact and placement over the face"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

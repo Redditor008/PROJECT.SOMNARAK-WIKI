@@ -150,6 +150,12 @@ Screaming Masonry is a Fragment (III) Object/Place of Major (γ) potency, Object
 **Reading the response:** Read the vibration amplitude and the chest pressure. A falling gauge presents as the stone settling; a rising one presents as amplitude climbing on sensors ahead of the shard's bearing. If the vibration stops entirely while the shard is still in the bay, that is not a success and the section on the quiet applies.
 ## Activation Behavior
 
+> **Special activation — no counter.** The file's own line: *"a new obligation left undischarged within the district"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

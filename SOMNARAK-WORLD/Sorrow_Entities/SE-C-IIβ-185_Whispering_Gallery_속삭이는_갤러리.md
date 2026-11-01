@@ -163,6 +163,12 @@ The table is the Object/Place rule applied to a hall: Flerehan cannot reach it a
 **Reading the response:** Read it on the gauge and in the voice count. A lower carry for a shift is what a work cycle buys here, and the baseline is untouched by it. The baseline itself moves for one thing only — a name restored from a surviving document — and the four steps in sixty years are the whole of it. A session in which a worker answers a voice, or writes down who they believe one to be, is not a reading; it is an entry in the register of the Year 4144 problem.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"registration of an unnamed memorial, anywhere, with no witness recorded to it"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | A new memorial registered anywhere in the city without names on it. |

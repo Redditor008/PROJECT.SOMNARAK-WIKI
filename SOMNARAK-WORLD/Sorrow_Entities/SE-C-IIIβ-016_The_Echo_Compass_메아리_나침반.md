@@ -150,6 +150,12 @@ The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation
 **Reading the response:** Read it in the rate and the first-response range, not in the bearing. A falling gauge presents as the swing slowing and the range drawing in; a rising one presents as acceleration and a range that reaches further than the session before. The bearing itself carries no information about the holding at all — it is about the room, the wing and the district, which is a different matter and is dealt with below.
 ## Activation Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"hold the compass and name a lost thing"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic gives an accurate bearing to something lost, and does not care whether anybody wanted it found**
 > **An abandoned channel leaves the needle turning and the district's own instruments unreliable for a day**

@@ -150,6 +150,12 @@ Viderehan holds the gauge level and moves nothing, which reads as a wasted sessi
 **Reading the response:** Two figures come out of every session and they are not the same measure. The gauge describes the worker's session and falls when the worker has endured the thing as it stands. The plumb reading describes the city's week and falls only when something announced in public has been withdrawn in public. A session can therefore be entirely successful and the plate can still read higher at the end of it than at the start, and that is not a failure of the team and must not be written up as one.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"attempts to complete the abandoned plan"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

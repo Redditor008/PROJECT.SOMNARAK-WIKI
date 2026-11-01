@@ -134,6 +134,12 @@ Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, 
 **Reading the response:** Read it in the radius and the intensity card, never in the feeling of the room, which on this holding is consistently misleading. A falling gauge presents as intensity dropping with the radius unchanged; a rising one presents as the radius creeping past the floor mark, and that movement is permanent whatever the gauge does afterwards.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"carrying the lantern into a debt-bearing area"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Catastrophic Battlefield Alteration**
 > **This Relic is Irrevocably Consumed upon Activation**

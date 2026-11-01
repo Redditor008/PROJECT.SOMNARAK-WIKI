@@ -149,6 +149,12 @@ Sunken Pillar is a Fragment (III) Object/Place with Place-Void manifestation and
 **Reading the response:** Read it in the face and in the worker's language. A falling gauge presents as the absences becoming harder to notice from the survey line; a rising one presents as a worker beginning to speak about the missing generations in the past tense. The second is the earlier signal and is recorded verbatim for that reason.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Its starting condition, as written: *"collective longing for a future that never formed"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Collective longing for a future that did not form; it expands during resettlement surveys and after district planning notices more reliably than at any other time. |

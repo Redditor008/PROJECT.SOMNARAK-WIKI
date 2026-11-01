@@ -149,6 +149,12 @@ Only two Work Types meet the Lake, and both are worked from fixed stations. Vide
 **Reading the response:** Success is a complete set of soundings, an unattributed scene record, and an honest conversation column. The gauge is nearly useless here: it does not precede margin movement and has never predicted a flattening. Silence predicts the flattening, which is why the one subjective field in the paperwork is the one supervisors read.
 ## Expansion Behavior
 
+> **Special activation only — no counter, no gauge.** The file's own line: *"no isolated activation trigger has been established"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | None established. The margin moves both ways and no trigger has ever been isolated for a single month's movement. |

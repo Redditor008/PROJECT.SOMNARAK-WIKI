@@ -150,6 +150,12 @@ Read the gauge only beside the form it was taken in: this holding's response dep
 **Reading the response:** Read the light first and the witnesses second: a falling gauge shows as the inner fire sinking deeper into whatever the object currently is, the heat dropping toward the street's own, and the form settling. The pressure returns unless the cycle is sustained, so what a good watch buys is stabilisation and not an answer. The witnesses are read on purpose — people who stood near the cordon grow uncertain about unrelated things, and the file treats a confident witness as a datum rather than as a witness.
 ## Activation Behavior
 
+> **Special activation — no counter.** Read off the file: *"touch or recognition by someone who remembers it"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use** — the warning is the whole handling note, and the numbers underneath it are measured on the bearer rather than on the object.

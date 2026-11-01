@@ -134,6 +134,12 @@ Soaking Shard is an Object/Place with Object-Void manifestation and Lament expre
 **Reading the response:** A falling gauge presents as a slower seep: the chalked margin advancing less than the last session, the sump filling under its usual rate. Nothing is closed; the fluid returns to rate within a shift or two. A rising gauge presents as a faster one, and the single reliable precursor is mourning in the chamber — a worker's own grief, not the holding's. Log the volume before anything else, because it is the figure that moves first and the only one that moves for a reason.
 ## Activation Behavior
 
+> **Special activation only — no counter, no gauge.** The listed condition: *"touch or tears falling onto the surface"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**

@@ -150,6 +150,12 @@ Cracked Mirror is an Object/Place with Object-Void manifestation and Void expres
 **Reading the response:** A falling gauge presents as the surface settling for a shift — the glass reading as glass, the edge drawing in a little, the quiet losing its weight. Nothing is resolved; the Market still wants flattering mirrors and this one still will not do it. A rising gauge presents as **agreement**: the worker begins to find the reflection fair, then useful, then worth showing somebody else. That is the point at which the session ends, because what follows is a worker trying to bring the glass into a matter it has no business in.
 ## Activation Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"direct gaze"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

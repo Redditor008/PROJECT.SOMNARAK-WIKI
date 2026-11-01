@@ -134,6 +134,12 @@ The Work Type rows are steady and the count is not. Thirty-one tears at first su
 **Reading the response:** A falling count means a death was spoken about that week where an object would have done. Stability under Viderehan is correct and usual. The count rises on each memorial object the Gardens accepts with nothing said over it, and it rose most in the two years the Gardens waived its account book entirely, out of consideration.
 ## Activation Behavior
 
+> **Special activation — no counter.** The file's own line: *"direct touch"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic steadies every containment unit in the sector while somebody holds it, and charges the holder for the service**
 > **An abandoned channel vents across the sector and the anger arrives in other people as their own**

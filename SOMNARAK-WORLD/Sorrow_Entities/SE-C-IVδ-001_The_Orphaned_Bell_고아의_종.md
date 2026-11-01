@@ -144,6 +144,12 @@ The Orphaned Bell is an Object/Place — Lament for its manifestation, Lament fo
 **Reading the response:** A falling gauge presents as fewer soundings over the cycle. The tone never changes and no session has ever produced silence, so a quiet week is a spacing and not a result. A rising gauge presents in the opposite direction — soundings closer together, and the toll beginning to arrive outside the predicted window — and the correct response is to vacate the tower rather than to extend the watch. Log the interval before anything else; it is the only figure here that moves for a reason.
 ## Activation Behavior
 
+> **Special activation only — no counter, no gauge.** What sets it off, per the record: *"midnight, the consolihan anniversary, or concentrated grief concerning missing children"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**

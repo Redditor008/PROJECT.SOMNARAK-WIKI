@@ -157,6 +157,12 @@ Whispering Walls is a Residue (I) Object/Place with Place-Lament manifestation a
 **Reading the response:** Read it in the boundary and in the density of overlap. A falling carry presents as the boundary drawing in along the marked line and the overlap thinning to single voices; a rising one presents as the field reaching a wall run that was quiet last rotation. The site has no gauge of its own that anybody has been able to site.
 ## Expansion Behavior
 
+> **Special activation — no counter.** What sets it off, per the record: *"new sorrow entering the old lament"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | New sorrow entering the district — a death, an eviction, an arrival from a worse place. The correlation with recorded deaths in the district is the strongest in the file. |

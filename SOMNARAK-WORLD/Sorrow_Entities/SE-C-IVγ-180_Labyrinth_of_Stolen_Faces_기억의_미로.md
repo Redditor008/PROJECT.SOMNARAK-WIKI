@@ -133,6 +133,12 @@ Two of the four Work Types apply here and the reason is structural rather than s
 **Reading the response:** A falling reading under Ferrehan means the team kept to the written route while the geometry moved; stability under Viderehan is the correct result and is not a sign that nothing happened. The reading rises whenever somebody navigates by recollection, and it rises identically whether the recollection was accurate or false — the one finding this file has never been able to make personnel accept, and the reason every debrief reads the entrant's account against their record instead of taking it as the route.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Read off the file: *"new forgotten memories entering the maze"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | New forgotten memories entering the Maze. |

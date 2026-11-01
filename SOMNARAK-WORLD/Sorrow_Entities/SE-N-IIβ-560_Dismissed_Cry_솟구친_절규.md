@@ -150,6 +150,12 @@ The two available approaches split the work between what the cry is about and wh
 **Reading the response:** A falling gauge under Ferrehan means the worker stayed with the anger and did not perform it back. A stable gauge under Viderehan means the injustice was shown and seen; stability is the correct outcome and is not a failed session. Rising means somebody in the chamber raised their voice, touched the crystal, or summarised what it was doing as sound.
 ## Activation Behavior
 
+> **Special activation — no counter.** The listed condition: *"touch or vocal aggression nearby"*.
+
+
+
+
+
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
 > **This Relic Extracts Personal Resilience upon Extended Use**

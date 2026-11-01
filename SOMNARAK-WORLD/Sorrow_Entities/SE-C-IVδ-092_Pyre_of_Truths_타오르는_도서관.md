@@ -157,6 +157,12 @@ The behavior table below is a diagnostic and never a prescription: what it estab
 **Reading the response:** Success is counted in pages permitted against the exact wording of the question carried in. Own question, 44 per cent of shelves opened; question somebody set, 12 per cent. A falling average is not the collection shrinking — it is the wing's own curiosity failing under nine thousand four hundred sealed transcripts, and the file says so.
 ## Expansion Behavior
 
+> **Special activation — no counter.** The file's own line: *"an approach that intends to possess, destroy or enumerate the collection"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Hostile intent, an attempt to remove material, or any approach that reads as inventory. |

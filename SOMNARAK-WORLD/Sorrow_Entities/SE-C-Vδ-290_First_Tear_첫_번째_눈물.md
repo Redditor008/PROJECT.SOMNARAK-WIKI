@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-290 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on none authorized. touch is forbidden |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on none authorized — touch is forbidden and has never been carried out |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Sovereign (V) — Autonomous, ancient, singular |
 | **Potency** | Critical (δ) |
@@ -159,6 +159,12 @@ Read the table as a duty roster rather than as a set of levers. Neither approach
 
 **Reading the response:** There is no response to read. The one variation on file follows a gap in the figures themselves — eleven nights in 4106 with no observer, no sheet and no reading — and thirteen decades have produced nothing else. A gauge that holds steady here is not reassurance and the sheet does not treat it as one; the standing posture is that the instrument is what the facility maintains, and the Tear is what it declines to test.
 ## Activation Behavior
+
+> **Special activation — no counter.** What sets it off, per the record: *"touch, which is forbidden and has never been carried out"*.
+
+
+
+
 
 > **No facility benefit is authorized from this Relic**
 > **No operative alteration has been attempted or is permitted**

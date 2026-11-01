@@ -149,6 +149,12 @@ Memorial Flame Mid-Ceremony is an Object/Place with Place-Void manifestation and
 **Reading the response:** A falling gauge presents as a smaller warmth differential and a scene that reads flat rather than attended. Nothing is concluded; the rite is in the same place next entry. A rising gauge presents as the scene acquiring participants — the worker beginning to feel counted among the mourners rather than present at their ceremony — and the entry is ended at that point, because what follows is a person taking on a bereavement that was never theirs to carry.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Filed trigger: *"unfinished memorials and extinguished rituals"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Any unfinished observance nearby, including informal ones. Two expansions have followed a worker's private remembrance in an adjacent corridor. |

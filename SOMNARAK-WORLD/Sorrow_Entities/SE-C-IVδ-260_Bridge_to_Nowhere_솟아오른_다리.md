@@ -149,6 +149,12 @@ Two of the four responses apply, and the reason is structural: there is nothing 
 **Reading the response:** A falling gauge under Ferrehan means a worker crossed and did not arrive — they walked the span, acknowledged it as something that used to be, and came back the way they came. Stability under Viderehan is the correct result and not a failure. The gauge rises when the span is used: as a shortcut, as a route to the far side of the Gardens, as anything with a destination.
 ## Expansion Behavior
 
+> **Special activation — no counter.** Filed trigger: *"collective remembrance of an erased route"*.
+
+
+
+
+
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Collective remembrance of an erased route. |

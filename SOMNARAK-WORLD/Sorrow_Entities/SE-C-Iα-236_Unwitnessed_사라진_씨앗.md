@@ -150,6 +150,12 @@ Ferrehan lowers the gauge and Viderehan holds it level, and both are performed w
 **Reading the response:** What the gauge reports is one worker's 7 days of staying away. What the depth reports is the way this facility has been opening its files. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a cycle which drops the gauge while returning a deeper log has been worked right and goes into the record as a success with no qualification attached.
 ## Activation Behavior
 
+> **Special activation — no counter.** Read off the file: *"a person entered on this facility's registers with no recorded beginning"*.
+
+
+
+
+
 > **This Relic is measured in millimetres, after the fact, by an instrument nobody watched.**
 > **No perimeter effect has ever been instrumented. There is no channel and nothing bleeds.**
 > **Mark the absence; do not excavate or plant into it.**
