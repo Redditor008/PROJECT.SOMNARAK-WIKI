@@ -44,36 +44,53 @@
 - Personnel named in an announcement come off the rotation until the interval has passed, and are told that they have been named, which is the only place in this facility where that rule holds.
 - There is nothing to extract. It has never touched anybody and the distance is maintained by the entity, not by the watch.
 
-## Contact Record
+## Combat Record
+> **Why this file keeps combat actions.** R-36's first test is that the holding cannot close distance, and this one walks: the Movement row says *mobile — walks upright; moves within its own zone and does not pursue*. The record itself then acquits it of every strike — the primary says Harbinger has never made contact and the reach in the mirror is a reflection — but a holding that walks keeps its combat section, and the work here is the numbers rather than the section.
 
-> **Why this file has no combat actions.** The file says it in the row it would otherwise be fought over: *the combat record describes a reflected reach, but the primary says Harbinger has never made contact*, and the note attached to the action reads *this action does not establish a physical wound*. It walks, it keeps its distance, and the reach in the mirror is a reflection.
+### Core Stat Line
+
+> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
+
+| Stat | Value |
+|---|---|
+| **Speed** | 1.80 m/s |
+| **Resistance** | 30% against Weight pressure and 20% against other types — a shadow that takes pressure the way a ledger takes entries |
+| **Activation threshold** | Sorrow Gauge ≥ 60%, or a third announcement left unacted |
+| **Sorrow Gauge [HP]** | 418/418 |
+| **Han Pressure [ATK]** | 7–17 per hit · Weight |
+| **Coherence modifier** | III — affects behavior complexity and response speed |
+| **Potency modifier** | β — affects pressure, durability, and escalation severity |
+
+
+> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A human-shaped shadow cast by nothing, visible only from the corner of the eye or in a reflection, standing behind a subject at a distance the Warden can measure. It walks upright within Collector's Row and does not pursue. |
-| **Perceptible to** | The distance first — metres between the figure and its subject, recorded at every interval — and the closing of it as the warning period narrows. The shadow hand at the throat is a reported image and the figure remains behind the subject. |
-| **Handling** | Tell the subject, in full and to their face, what is pending against them. Force has never moved it and nothing else has. Viderehan gives the balance and where it came from, and never the date, which is the only thing a subject ever asks for. |
-| **Activation threshold** | Transformation / containment event — no breach counter |
-| **Sorrow Gauge [HP]** | 418/418 |
+| **Battle Length** | Medium — 16 turns |
+| **Threat Role** | Standard encounter |
+| **Coherence** | Fragment (III) — Relentless and patient |
+| **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | All four have responses. Flerehan keeps the distance from closing for the cycle; Ferrehan is a full logged shift with it behind the worker; Viderehan gives the balance and its origin; Pugnahan thickens it and shortens the interval, and is not used. |
-| **Location** | Zone C, Collector's Row — ambient |
+| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan. Pugnahan is listed and is not used on this holding. |
+| **Battlefield** | Zone C, Collector's Row — ambient |
 | **Resolution Condition** | Tell the subject, in full and to their face, what is pending against them. Force has never moved it and nothing else has. |
 
-### Contact Events
+### Combat Actions
 
-| Event | What the shadow does | What the watch carries out | Reading |
-|---|---|---|---|
-| { *The Following Dark* [**Register**] } | Records itself in the fixed mirror behind its subject at a distance — and does not touch anyone, which the source record states in as many words. | Takes the mirror reading and the distance at the start of the watch, and confirms the subject by the debt rather than by the shadow. | The gauge has been a poor instrument here for decades and the wing has said so; the figure that is actually read is the distance series. The mirror is the instrument and the shadow is what it measures. |
-| { *The Lengthening Bill* [**Exposure**] } | Closes the interval rather than the distance: announcements that stood at weeks stand at days, and the balance is recorded separately in the Collectors' column. | Records each announcement against the interval it was given, and closes the cycle before a fourth goes unacted on. | Three is the recorded margin and the interval closes before a fourth. That number is the whole of the timing here, and it is why the watch is written as a count of announcements rather than as a duration. |
-| { *The Shadow Hand* [**Refusal**] } | Reaches at the throat in the mirror, and stays where it was while it does it. The combat record's reach is a reflected one; the primary record carries no contact at all. | Does not answer force with force, does not turn around, and does not treat the image as an injury when the throat is untouched. | This row is the reason the file reads oddly in a combat format and reads plainly in this one. A hand that never arrives cannot be blocked, and force has never moved this holding once in the record. |
-| { *Everyone Has a Shadow* [**Overload**] } | Stands behind four subjects at once, as the event record describes — warning intervals shortening across the Row rather than every physical shadow in it changing. | Notifies every followed subject individually, enters each announcement with its interval, and does not have anybody turn around. | The file's own note is that the model generalises a recorded four-subject case to anybody in the room, and that the event record does not. What closes this is four notifications, which is what the record actually describes. |
+| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
+|---|---|---|---|---|
+| { *The Following Dark* [**Debuff**] } | "The mirror shows it behind you, at a distance the Warden can measure." | [The fixed mirror records the human-shaped shadow behind its subject; the source says it does not touch anyone.] | *Target suffers -10 Resolve in the encounter model; the source record documents no physical shadow replacement.* **[10 Weight DMG [Weight]]** | When the target owes a debt. |
+| { *The Lengthening Bill* [**Debuff**] } | "The warning interval closes; the ledger balance is recorded separately." | [The fixed-mirror distance closes as the decision approaches; the balance remains in the adjacent Collectors' column.] | *Target loses 10 Resolve as the warning period narrows; no increased debt amount is recorded.* **[10 Weight DMG [Weight]]** | When an announcement remains unacted on; three is the recorded margin and the interval closes before a fourth. |
+| { *The Shadow Hand* [**Attack**] } | "A reported image of a hand reaches at the throat; the figure itself remains behind the subject." | [The combat record describes a reflected reach, but the primary says Harbinger has never made contact.] | *Modelled Weight pressure; this action does not establish a physical wound.* **[14-22 Weight DMG [Weight]]** | In the combat model, when the target resists payment; no payment-response event is documented. |
+| { *The Full Audit* [**Attack**] } | "The collector's shadow reveals its full ledger — every debt, every interest charge — and it all comes due at once." | [The whole assessment arrives at once, every line of it, and it is read out against the target rather than about them.] | *A heavy Black demand; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the shadow is challenged. |
+| { *Everyone Has a Shadow* [**Ultimate**] } | "The event record placed Harbinger behind four people at once; nobody is to turn around." | [The model generalizes the recorded four-subject transformation to everyone in the room; the event record describes warning intervals shortening across the Row, not every physical shadow changing at once.] | *The three-turn area Weight effect remains a combat model; the event record ends by notifying each followed subject.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | The combat model triggers at 65%; the event record instead describes a third unacted announcement and a shortening warning interval. The trigger mapping is unresolved. |
 
-### Watch Sequence
+### Battle Phases
 
-1. **What is confirmed:** the mirror reading and the distance behind each subject, the balance and where it came from, and the interval each announcement was given.
-2. **What the watch does:** Viderehan for the balance and its origin and Ferrehan for a full logged shift with the figure behind the worker, with Flerehan keeping the distance from closing and force not attempted.
-3. **How it closes:** the close is the file's documented condition: **Tell the subject, in full and to their face, what is pending against them** — force has never moved it and nothing else has.
+1. **Tension:** Fix its position in the fixed mirrors, never by turning to face it: on every attempt on record to look straight at it, the shadow was behind the person who turned. Confirm the approach and take the positions before anything else is tried.
+2. **Clash:** The crew works its Work Types and its kit while the holding answers along the line recorded in its combat table; how the gauge moves decides whether the watch escalates or closes.
+3. **Resolution:** The cycle closes once the debt has been reviewed and acknowledged in full and no force has been used anywhere. The file's condition is registered in the line itself — suppression condition: **review and acknowledge the debt; force cannot remove the Shadow** — the instruction crews pay for most, because every gentler improvisation in this file's history started from wanting the matter settled faster.
 
 ### Consequences
 

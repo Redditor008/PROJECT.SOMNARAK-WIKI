@@ -8,21 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-## Five that the record had already acquitted (2026-11-01)
+## Two that the record had already acquitted (2026-11-01)
 
-Twenty-first batch. The scan that found these looked for the archive's own acquittal language inside files still carrying a combat table, and five of them had written their verdicts so plainly that the conversion was mostly transcription.
+Twenty-first batch, and the smallest of the run. Two conversions, three corrections in the other direction, and a rule read again more strictly than the previous twenty batches had read it.
 
-- **Floating Shard** (`C-IVδ-503`) — *it has never accelerated at anybody's face and never struck first*, and *the shard does not converge on a point and has never moved toward a person*. Every injury in the Forge bay is a mirrored one: harm done under the shard returns to whoever did it.
-- **Harbinger** (`N-IIIβ-155`) — the combat row itself says it: *the combat record describes a reflected reach, but the primary says Harbinger has never made contact*, and the action's own note adds *this action does not establish a physical wound*.
-- **Flotsam** (`C-IIβ-782`) — no position of its own, distributed across objects that are fading from memory. Everyone this holding has harmed was holding an outlined object, and nobody while standing near one.
-- **I Alone Crossed** (`C-IVδ-106`) — *no material falls; the chamber holds no bridge and never has*. What lands at full weight is the conviction that the worker underneath should have caught it, which is a verdict and not a blow.
-- **Dreaming Ruin** (`N-IIIγ-505`) — its attack row opens with *it has never struck at a person*, then describes the thing it actually does: builds across a bearing until a standing wall stops being one.
+**Converted.** **Flotsam** (`C-IIβ-782`) — distributed across the objects it is fading out of, with no position of its own and no pursuit. Everyone this holding has harmed was holding an outlined object, and nobody while standing near one. **I Alone Crossed** (`C-IVδ-106`) — *no material falls; the chamber holds no bridge and never has.* What lands at full weight is the conviction that the worker underneath should have caught it, which is a verdict and not a blow.
 
-**One keeper.** **Unheard** (`C-Iα-965`) is left as a Combat Record. It flows along the record stacks at walking pace and its own Entity Type row says the pressure turns physical — plaster cracks and ears bleed. A holding that moves and injures is not a holding this pass has anything to say about.
+**Three put back.** **Floating Shard** (`C-IVδ-503`), **Harbinger** (`N-IIIβ-155`) and **Dreaming Ruin** (`N-IIIγ-505`) were drafted as conversions and are still Combat Records. Each of the three scores perfectly on R-36's second and third tests — Floating Shard *has never accelerated at anybody's face and never struck first*, Harbinger's own combat row says *the primary says Harbinger has never made contact*, Dreaming Ruin's attack row opens with *it has never struck at a person*. Each fails the first test: all three move. Floating Shard drifts across the bay, Harbinger walks upright, Dreaming Ruin builds at eleven logged points in the Market.
 
-**The narrower test, restated.** After twenty-one batches the line is: nothing that leaves the entity, nothing that arrives at a body, and no distance being closed — with the three exceptions written out above the stat line where they occur. Forty-five non-breaching dossiers still contain acquittal language and a combat table; eleven of them are now keepers with a reason, and the rest are the queue.
+R-36 is explicit that the first test is not negotiable — *an entity that moves, hunts, or aims keeps its Combat Record whatever else is true of it* — and the three now carry the reason above their stat lines instead of a Contact Record. Their side codices went back to their original figures at the same time, because a codex row reading *no attack pattern* over a combat table is the exact defect this pass exists to remove, in miniature.
 
-**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and thirty-eight Contact Records.**
+**The correction is the batch.** Twenty batches checked whether the file denied a blow; this one checked whether the file could close the distance first, and three of five with a perfect denial still failed on the movement row. The queue that remains is stationary by its own description — which is a much shorter list than it looked two hours ago.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `check_links` 0 broken. **One hundred and thirty-five Contact Records; 11 combat keepers carry a rationale blockquote.**
 
 ## Three where the only weapon is a sentence (2026-11-01)
 

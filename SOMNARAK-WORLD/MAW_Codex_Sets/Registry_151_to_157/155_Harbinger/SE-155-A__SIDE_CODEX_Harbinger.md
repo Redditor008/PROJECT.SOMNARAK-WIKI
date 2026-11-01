@@ -26,7 +26,7 @@
 | Element | Weight |
 | Location | Zone C, Collector’s Row — ambient |
 | Form | A human-shaped shadow cast by nothing, seen only from the corner of the eye or in reflection, always behind the debtor who turns to face it. |
-| Gauge / pressure | 418/418; starts 35–50% / Weight — no attack pattern; the mirror distance behind each subject is the instrument |
+| Gauge / pressure | 35–50% / Weight 8–20 |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Known Balance |
 
