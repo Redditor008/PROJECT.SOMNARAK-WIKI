@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The sections that are allowed to look different, and why (2026-11-01)
+
+The section audit now reads Appearance, Behavior, the three record sections, Trivia and the interaction table as well as the classification and the two stat tables. Four shapes came back that look like absences and are not, and each is now a ruled exception rather than a silent gap — the standard says a dossier is only left alone when its own text shows why.
+
+- **Twenty-nine dossiers carry `## Origin` as prose instead of the four labelled fields.** The four fields would restate what the paragraph already says: the Thinking Engine's origin names Seol, her mind outrunning the Mantle, the apparatus she built, and the fact that it kept thinking after she Fractured. A label set over that sentence is a template reading of a paragraph that has already done the work.
+- **Four `### Appearance States` tables carry no `**State change:**` line.** Three of them (Protest No One Remembers, Sleeping Tree, Yggdrasil Wound) carry a `**Transition**` row inside the table that says the same thing in the table's own register — *at the marked perimeter the radius lost its upright proportions and spread flat and low, recovering within the hour* — and the fourth (Broken Mirror) says it in a full paragraph. A state-change line above a table that already has a transition row would be the same fact twice.
+- **The Blessing Giver and Apostle Maker stages write `## Appearance` as named paragraphs** — *the healer learning to reach*, *count before radiance* — because they are documented stages of one chain rather than first encounters. The audit now accepts a prose protocol of two or more named paragraphs, and still catches an Appearance with neither a profile nor a protocol.
+- **The Stormscale Sovereign has no `### Operational Work Notes`** because its own Behavior section opens by saying so: *there is no work loop on this form. Nobody is assigned to the Sovereign, no session is run against it, and no gauge is moved by a work outcome.* The four approaches below that sentence are recorded as a field reaction during a manifestation, not as a work response.
+
+**Every other dossier is checked on twelve points and passes all of them** — 301 files, 0 findings, in the gate from this commit.
+
+**Checks:** `section_logic` 0 findings · `wikistd` 301/301 · `label_lint` 301 · `check_stat_bands` PASS · `check_links` 0 broken · `seam_lint` 0 · `breach` RE 92.8 % / SE 43.0 % / OP 87.2 %, non-breaching **188 / 301**.
+
 ## The last twenty-seven Relic activation blocks, merged field by field (2026-11-01)
 
 The relic duplication pass deleted fifty blocks that were straight copies and merged six that had drifted. Twenty-seven were still standing because the two versions had each kept something the other dropped, and they are now closed.

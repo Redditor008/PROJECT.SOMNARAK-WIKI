@@ -302,6 +302,33 @@ def audit(path):
         if m.group(2) not in ELEMS + ('Dream', 'Fracture', 'Tale'):
             add('maw', '%s piece declares an unknown element %r' % (m.group(1), m.group(2)))
 
+    # ---- 11k. the sections every dossier carries, each read for its own job --
+    sec = {h: body for h, lvl, parent, body in split(t) if lvl == 2}
+    if '## Appearance' in sec:
+        ap = sec['## Appearance']
+        table_form = '### Detailed Appearance Profile' in ap
+        prose_form = len(re.findall(r'^\*\*[^*]+:\*\*', ap, re.M)) >= 2
+        if not (table_form or prose_form):
+            add('appearance', 'Appearance carries neither a protocol line nor a detailed profile')
+        if table_form:
+            rowsn = len([l for l in ap.split('\n') if l.startswith('| **')])
+            if rowsn < 4:
+                add('appearance', 'Detailed Appearance Profile carries only %d rows' % rowsn)
+    if '## Behavior' in sec:
+        if '### Operational Work Notes' not in h3s(t) and not re.search(
+                r'no work loop|nothing to work|is not worked|no session is run', sec['## Behavior'], re.I):
+            add('behavior', 'Behavior carries no ### Operational Work Notes')
+
+    for rec in ('## Warden Record', '## Apex Record', '## Watch Record'):
+        if rec in sec and len(sec[rec].strip()) < 200:
+            add('record', '%s carries under 200 characters' % rec)
+    if '### Entity Interaction Record' in h3s(t):
+        body = [b for h, lvl, parent, b in split(t) if h == '### Entity Interaction Record'][0]
+        if len(re.findall(r'^\|', body, re.M)) < 3:
+            add('interaction', 'Entity Interaction Record carries fewer than two entries')
+    if '## Trivia' in sec and len(sec['## Trivia'].strip()) < 80:
+        add('trivia', 'Trivia carries under 80 characters')
+
     # ---- 12. M.A.W. pieces ---------------------------------------------------
     maw = re.findall(r'^### M\.A\.W\. (Weapon|Suit|Stigma)', t, re.M)
     if maw and len(set(maw)) < 3 and 'M.A.W.' in t:
