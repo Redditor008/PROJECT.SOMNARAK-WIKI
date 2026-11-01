@@ -16,19 +16,19 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Lament  
-**Canonical ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.   <!-- SE-908 -->
-**Binding rule:** the bearer names Unwaking Block's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Ninth Door* — it goes cold at a doorway that was not on the last survey. Four parties have trusted it, and every one of them signed the plan outside.   <!-- SE-908 -->
+**Binding rule:** the bearer names Unwaking Block's event—Not recorded—and accepts this limit: The caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside.
 
 ## Appearance
 
-Unwaking Block's Token is the stigma record of the Unwaking Block set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's dream sorrow, crystallized into wearable form, one window's worth of the district's sleep carried into waking rooms. Binding names Unwaking Block's event — Not recorded, the dream continuing without its dreamer on file — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost arrives at night: the bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present, a lodger from the sleeping street. The source- trace fixed doctrine: the place permits study, its dream pressure becoming legible under sustained observation, and the Token redirects the hazard only after attribution to Unwaking Block. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Unwaking Block's Token is the stigma record of the Unwaking Block set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is *Ninth Door*: it goes cold at a doorway that was not on the last survey. Four parties have trusted it, and every one of them signed the plan outside. Binding names Unwaking Block’s event — Not recorded — and accepts the limit the record sets: the caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside. The bearer goes cold at doorways that are on the plan as often as at doorways that are not. Continued use leaves the last twenty metres trusted to the survey and the rest of the corridor walked by the plan. A party that recorded the door and kept to the plan came out with the route and the names; a party that went back for a sleeper is in the count of 212. The mantle’s printed plan is the oldest one. A bearer who reads it as the way out rather than the way in walks into a doorway that is not on it.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present. Continued use makes Unwaking Block's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer goes cold at doorways that are on the plan as often as at doorways that are not. Continued use leaves the last twenty metres trusted to the survey and the rest of the corridor walked by the plan.
 
 ## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Stigma Record*
 

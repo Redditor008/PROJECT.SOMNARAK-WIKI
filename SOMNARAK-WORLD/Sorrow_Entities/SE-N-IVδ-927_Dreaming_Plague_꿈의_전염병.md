@@ -161,7 +161,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, unpointed on purpose — the piece has no thrust and has been carried to cordons and to funerals and to nothing else.
 
 **Damage:** Void 11–20
 **Speed:** 2 (Normal)
@@ -174,7 +174,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
+**Ability:** *Down Where They Stand* — the struck body lies down rather than falls, and the sleep is the wound. Nobody has been carried clear of it, because the no-carry rule runs from the first second.
 
 **Cost:** The wielder dreams the district’s dream on the night after use — the same streets, the same sky — and wakes on their own in their own bed. It is logged as an exposure, counted in the series, and has never once progressed to a sleep that could not be ended.
 
@@ -194,7 +194,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting against the dream register of sorrow.
+**Ability:** *Not Carried* — the wearer cannot be lifted while the hood is up. Void pressure turns aside into the weave's dead weight, and the cost is that a wearer who goes down stays down until they wake on their own.
 
 **Cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
@@ -204,13 +204,13 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows briefly hot near sorrow.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, kept on the cordon cord rather than on the person, drilled through with the cordon's own awl.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 
-**Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
+**Ability:** *First Sleeper* — it goes cold when the nearest body inside the line has lain down. That is the only warning the cordon gets before the contact rule resumes.
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 

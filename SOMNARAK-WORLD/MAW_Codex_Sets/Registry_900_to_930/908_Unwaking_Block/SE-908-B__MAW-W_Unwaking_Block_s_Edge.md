@@ -17,11 +17,11 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.  
-**Binding rule:** the bearer names Unwaking Block's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Unwaking Block's event—Not recorded—and accepts this limit: The caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside.
 
 ## Appearance
 
-Unwaking Block's Edge is the weapon record of the Unwaking Block set — γ-grade, Lament-aligned, striking at 14–19 Lament in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels lament dream sorrow: the blade does not cut flesh so much as the dream register of the target's grief, the sleep a whole block fell into and never left. Binding names Unwaking Block's event — Not recorded, a district asleep past the reach of its own testimony — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a persistent low-grade headache with each use, the dull ache of being the only thing awake on the street. The source-trace fixed doctrine: the place gave no transcribable field response, and the Edge contains the hazard only after attribution to Unwaking Block. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Unwaking Block's Edge is the weapon record of the Unwaking Block set — γ-grade, Lament-aligned, striking at 14–19 Lament in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability is *Asleep Where They Stand*: the cut does its work on the dream register and leaves the body where it was put. Nothing struck by it has ever woken to fight, and nothing struck by it has needed nursing for the wound. Binding names Unwaking Block’s event — Not recorded — and accepts the limit the record sets: the caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside. The wielder sleeps heavily for two nights after use and wakes normally both times, which is logged on every occasion. Continued use leaves the wielder sleeping in the room they were mapping, and the party walks out without them by the plan. A party that recorded the door and kept to the plan came out with the route and the names; a party that went back for a sleeper is in the count of 212. The mantle’s printed plan is the oldest one. A bearer who reads it as the way out rather than the way in walks into a doorway that is not on it.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Unwaking Block's Edge is the weapon record of the Unwaking Block set — γ-grad
 |---:|---:|---:|---|---:|
 | Lament 14–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Unwaking Block's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder sleeps heavily for two nights after use and wakes normally both times, which is logged on every occasion. Continued use leaves the wielder sleeping in the room they were mapping, and the party walks out without them by the plan.
 
 ## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Weapon Record*
 

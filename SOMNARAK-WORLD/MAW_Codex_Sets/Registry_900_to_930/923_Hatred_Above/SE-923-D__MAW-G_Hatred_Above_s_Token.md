@@ -16,19 +16,19 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Grudge  
-**Canonical ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.   <!-- SE-923 -->
-**Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Step Back* — it goes cold the moment somebody within reach has answered back. That is the only warning the piece gives, and the only one that has ever ended an incident.   <!-- SE-923 -->
+**Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
 
 ## Appearance
 
-Hatred Above's Token is the stigma record of the Hatred Above set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's grudge sorrow, crystallized into wearable form, one clot of the overhead animus carried at eye level where it can finally be examined. Binding names Hatred Above's event — Not recorded, the grievance suspended beyond the reach of its own history — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a whetting: old injuries and old resentments sharpen whenever the stigma is used, the bearer's past quarrels looking up and taking notes. The source-trace fixed doctrine: the hazard permits study, its grudge pressure becoming legible under sustained observation, and the Token stays the hazard only after attribution to Hatred Above. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Hatred Above's Token is the stigma record of the Hatred Above set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is *Step Back*: it goes cold the moment somebody within reach has answered back. That is the only warning the piece gives, and the only one that has ever ended an incident. Binding names Hatred Above’s event — Not recorded — and accepts the limit the record sets: the affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way. The bearer’s first response to contradiction is to step back, and the step is not always available. Continued use moves the step into ordinary conversation, where nobody can see it happen. Attributing the response to the worn worker reproduced the event inside four days; attributing it to the widened edge ended the run of incidents, which is the only test the set has passed. The piece holds the nearest-body rule whether or not the bearer wants it. A bearer who has answered back inside the edge’s reach loses the suit to inspection and does not get it back.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer feels old injuries and old resentments sharpen whenever the stigma is used. Continued use makes Hatred Above's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer’s first response to contradiction is to step back, and the step is not always available. Continued use moves the step into ordinary conversation, where nobody can see it happen.
 
 ## ITEM-SPECIFIC HISTORY — *The Hatred Above Source-Trace: Stigma Record*
 

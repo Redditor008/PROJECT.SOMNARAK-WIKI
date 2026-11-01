@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.   <!-- SE-924 -->
-**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Unwritten* — the strike removes the struck body's written trace before it removes anything else: what they had set down that morning is gone, and what the file calls the wound is the absence of the record.   <!-- SE-924 -->
+**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
 
 ## Appearance
 
-Weighted Silence's Edge is the weapon record of the Weighted Silence set — γ-grade, Void-aligned, striking at 14–20 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void sorrow in its purest register: the blade cuts at absence itself, the pause in a room that everyone hears and no one names. Binding names Weighted Silence's event — Not recorded, a quiet whose cause was swallowed by the quiet — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is emotional numbness toward the Void element with each use, the wielder's own responses going soundless one strike at a time. The source-trace fixed doctrine: the hazard gave no transcribable field response, and the Edge isolates the hazard only after attribution to Weighted Silence. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Weighted Silence's Edge is the weapon record of the Weighted Silence set — γ-grade, Void-aligned, striking at 14–20 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability is *Unwritten*: the strike removes the struck body's written trace before it removes anything else: what they had set down that morning is gone, and what the file calls the wound is the absence of the record. Binding names Weighted Silence’s event — Not recorded — and accepts the limit the record sets: the annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression. The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there. Continued use leaves the wielder talking into rooms that have already answered, and the transcript marked as the wielder’s. The slates came out blank and the relay came out silent; the set’s own record is the first thing the radius takes, so the piece is issued to the survey that measures it. A piece carried inside the radius loses its own written record first. Four have been returned with blank labels and matching survey figures, which is how the armoury learned to number them on the outside.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Weighted Silence's Edge is the weapon record of the Weighted Silence set — γ-
 |---:|---:|---:|---|---:|
 | Void 14–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Weighted Silence's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there. Continued use leaves the wielder talking into rooms that have already answered, and the transcript marked as the wielder’s.
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Weapon Record*
 

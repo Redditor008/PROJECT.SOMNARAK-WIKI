@@ -173,7 +173,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.
+**Ability:** *Unwritten* — the strike removes the struck body's written trace before it removes anything else: what they had set down that morning is gone, and what the file calls the wound is the absence of the record.
 
 **Cost:** The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there.
 
@@ -191,7 +191,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting against the void register of sorrow.
+**Ability:** *Nothing Held* — the wearer's own account survives because the cowl will not hold it, and Void pressure passes through the weave and finds no lodging. Surveyors wear it, and surveyors' figures are the only ones in the radius that have come back.
 
 **Cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
@@ -199,13 +199,13 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+**Appearance:** a marker-token of Void Han-glass, near-translucent and almost colourless, cut to the half-metre survey tolerance and hung on the marker it was cut for.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 
-**Ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
+**Ability:** *Half a Metre* — it goes cold when the radius has passed its marker by more than the tolerance. Containment here is a measurement, and the token is that measurement carried in a pocket.
 
 **Cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma.
 

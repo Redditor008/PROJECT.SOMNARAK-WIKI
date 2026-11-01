@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** Grants resistance to Void damage, protecting against the void register of sorrow.   <!-- SE-924 -->
-**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Nothing Held* — the wearer's own account survives because the cowl will not hold it, and Void pressure passes through the weave and finds no lodging. Surveyors wear it, and surveyors' figures are the only ones in the radius that have come back.   <!-- SE-924 -->
+**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
 
 ## Appearance
 
-Weighted Silence's Veil is the suit record of the Weighted Silence set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against a silence heavy enough to press on the chest. Binding names Weighted Silence's event — Not recorded, the unsaid thing that made the room this quiet — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is transparency: the wearer becomes difficult to remember, even to themselves, while the protection is worn, absorbed into the same hush that shields them. The source-trace fixed doctrine: the hazard recognizes patience, its void pressure settling gradually under sustained presence, and the Veil interrupts the hazard only after attribution to Weighted Silence. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Weighted Silence's Veil is the suit record of the Weighted Silence set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is *Nothing Held*: the wearer's own account survives because the cowl will not hold it, and Void pressure passes through the weave and finds no lodging. Surveyors wear it, and surveyors' figures are the only ones in the radius that have come back. Binding names Weighted Silence’s event — Not recorded — and accepts the limit the record sets: the annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression. The wearer’s account survives because the cowl will not hold it, and they cannot carry a note out for anybody else either. Continued use leaves the wearer unable to carry a figure they have not said aloud. The slates came out blank and the relay came out silent; the set’s own record is the first thing the radius takes, so the piece is issued to the survey that measures it. A piece carried inside the radius loses its own written record first. Four have been returned with blank labels and matching survey figures, which is how the armoury learned to number them on the outside.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Weighted Silence's Veil is the suit record of the Weighted Silence set — γ-gr
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn. Continued use makes Weighted Silence's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer’s account survives because the cowl will not hold it, and they cannot carry a note out for anybody else either. Continued use leaves the wearer unable to carry a figure they have not said aloud.
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Suit Record*
 

@@ -16,19 +16,19 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Void  
-**Canonical ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.   <!-- SE-927 -->
-**Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *First Sleeper* — it goes cold when the nearest body inside the line has lain down. That is the only warning the cordon gets before the contact rule resumes.   <!-- SE-927 -->
+**Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: The sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine.
 
 ## Appearance
 
-Dreaming Plague's Token is the stigma record of the Dreaming Plague set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's dream sorrow, crystallized into wearable form, one inoculating dose of the sleeping sickness worn openly. Binding names Dreaming Plague's event — Not recorded, the infection outliving every chart of its spread — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a brief erasure: the bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma, symptoms flickering through and passing. The source-trace fixed doctrine: the hazard permits study, its dream pressure becoming legible under sustained observation, and the Token witnesses the hazard only after attribution to Dreaming Plague. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Dreaming Plague's Token is the stigma record of the Dreaming Plague set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is *First Sleeper*: it goes cold when the nearest body inside the line has lain down. That is the only warning the cordon gets before the contact rule resumes. Binding names Dreaming Plague’s event — Not recorded — and accepts the limit the record sets: the sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine. The bearer checks the cordon cord whenever it goes cold, which is most nights. Continued use leaves the bearer checking it before the cold, and the cordon walking the line on the bearer’s word alone. Both expansions on file were carried into being by a rescuer, so the no-carry rule is the record’s own finding and not the piece’s preference. A bearer who lifts a sleeper loses the piece to the cordon and the cordon to the count. The coat does not resist the lift; it resists being lifted.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma. Continued use makes Dreaming Plague's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer checks the cordon cord whenever it goes cold, which is most nights. Continued use leaves the bearer checking it before the cold, and the cordon walking the line on the bearer’s word alone.
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Stigma Record*
 

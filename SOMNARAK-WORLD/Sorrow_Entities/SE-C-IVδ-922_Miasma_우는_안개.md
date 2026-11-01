@@ -178,7 +178,7 @@ The pressure cannot be measured at all, which is the operational problem: the ho
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
+**Appearance:** A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
 
 Planted across doorways or narrow corridors, the staff establishes an impenetrable warding barrier that prevents lesser entities from passing. In melee, the keyhead delivers bone-cracking swings.
 
@@ -193,7 +193,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Channels Lament sorrow in each strike — the weapon does not cut flesh so much as cut at the lament register of the target's grief.
+**Ability:** *Held Threshold* — planted across a doorway, the keyhead bars anything that cannot be argued with; swung, it does its work on the lament register and reaches whoever is behind the door as readily as whoever is in front of it. Nothing about the piece can be hurried.
 
 **Cost:** The wielder weeps on the first use of each shift, briefly and without cause, and this is treated as a calibration rather than a side effect — a piece that does not produce it is withdrawn and re-seated at the staging point.
 
@@ -211,7 +211,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting against the lament register of sorrow.
+**Ability:** *Own Face* — the wearer walks a weeping corridor and comes out with their own grief and their own face. The bank's Lament runs off the short cape into the door gap the cape was cut short to keep clear, which is the whole of the design.
 
 **Cost:** The wearer carries Miasma's grief into every quiet moment; small joys feel distant until the suit is removed.
 
@@ -225,7 +225,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 
-**Ability:** A fragment of the entity's lament sorrow, crystallized into wearable form.
+**Ability:** *Mean Dwell* — it goes cold once a bank has thinned past the mean dwell the file records, and that cold is the only signal a spotter has that the run is walkable. It has never been wrong and it has never been early.
 
 **Cost:** The bearer dreams in tears drawn from Miasma's sorrow and wakes with another person's grief still present.
 

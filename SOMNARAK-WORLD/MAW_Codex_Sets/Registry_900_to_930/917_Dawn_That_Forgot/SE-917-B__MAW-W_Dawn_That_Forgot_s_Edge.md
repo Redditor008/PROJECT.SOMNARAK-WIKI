@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.   <!-- SE-917 -->
-**Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *First Hour* — the strike takes the hour after waking rather than the body. The target keeps the day and loses the dawn of it, and cannot afterwards say what they had meant to do before the bell.   <!-- SE-917 -->
+**Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
 
 ## Appearance
 
-Dawn That Forgot's Edge is the weapon record of the Dawn That Forgot set — γ-grade, Void-aligned, striking at 14–25 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void dream sorrow: the blade cuts at the dream register of the target's grief, a morning that arrived without remembering what it was supposed to end. Binding names Dawn That Forgot's event — Not recorded, the sunrise keeping no minutes of its own night — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is emotional numbness toward the Void element with each use, the wielder's feeling bleaching like sky at first light. The source-trace fixed doctrine: the time-manifestation gave no transcribable field response, and the Edge stays the hazard only after attribution to Dawn That Forgot. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Dawn That Forgot's Edge is the weapon record of the Dawn That Forgot set — γ-grade, Void-aligned, striking at 14–25 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability is *First Hour*: the strike takes the hour after waking rather than the body. The target keeps the day and loses the dawn of it, and cannot afterwards say what they had meant to do before the bell. Binding names Dawn That Forgot’s event — Not recorded — and accepts the limit the record sets: the district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens. The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes — and it is counted on the infirmary’s running total. Continued use leaves the lag in place after the piece is set down. The post that held its count through the first dawn and reported the discrepancy kept its street; both widenings followed reports that had been tidied before they were filed. The cloak keeps the wearer’s dawn and returns it without the memory of it. A bearer who tries to reconstruct the missing hour from notes loses the note-taking next.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Dawn That Forgot's Edge is the weapon record of the Dawn That Forgot set — γ-
 |---:|---:|---:|---|---:|
 | Void 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences emotional numbness toward the source entity's element with each use. Continued use makes Dawn That Forgot's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes — and it is counted on the infirmary’s running total. Continued use leaves the lag in place after the piece is set down.
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn That Forgot Source-Trace: Weapon Record*
 

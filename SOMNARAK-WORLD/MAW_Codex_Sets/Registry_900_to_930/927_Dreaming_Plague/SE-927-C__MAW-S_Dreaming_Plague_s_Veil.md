@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Void  
-**Canonical ability:** Grants resistance to Void damage, protecting against the dream register of sorrow.   <!-- SE-927 -->
-**Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Not Carried* — the wearer cannot be lifted while the hood is up. Void pressure turns aside into the weave's dead weight, and the cost is that a wearer who goes down stays down until they wake on their own.   <!-- SE-927 -->
+**Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: The sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine.
 
 ## Appearance
 
-Dreaming Plague's Veil is the suit record of the Dreaming Plague set — δ-grade, Void- aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the dream register of sorrow that passes between sleepers like fever. Binding names Dreaming Plague's event — Not recorded, the outbreak's first dream lost among its copies — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is transparency: the wearer becomes difficult to remember, even to themselves, while the protection is worn, quarantined at the edge of other people's attention. The source-trace fixed doctrine: the hazard recognizes patience, its void pressure settling gradually under sustained presence, and the Veil marks the hazard only after attribution to Dreaming Plague. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Dreaming Plague's Veil is the suit record of the Dreaming Plague set — δ-grade, Void- aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is *Not Carried*: the wearer cannot be lifted while the hood is up. Void pressure turns aside into the weave's dead weight, and the cost is that a wearer who goes down stays down until they wake on their own. Binding names Dreaming Plague’s event — Not recorded — and accepts the limit the record sets: the sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine. The wearer cannot be lifted, and finds they cannot lift either. Continued use leaves the wearer standing over people they are not able to carry out. Both expansions on file were carried into being by a rescuer, so the no-carry rule is the record’s own finding and not the piece’s preference. A bearer who lifts a sleeper loses the piece to the cordon and the cordon to the count. The coat does not resist the lift; it resists being lifted.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Dreaming Plague's Veil is the suit record of the Dreaming Plague set — δ-grad
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn. Continued use makes Dreaming Plague's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer cannot be lifted, and finds they cannot lift either. Continued use leaves the wearer standing over people they are not able to carry out.
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Suit Record*
 

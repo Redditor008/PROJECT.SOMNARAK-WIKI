@@ -174,7 +174,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, with a surveyor's scale chased along the spine in the block's own hand — and not one of the marks agreeing with the current plan.
 
 **Damage:** Lament 14–19
 **Speed:** 2 (Normal)
@@ -187,7 +187,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Channels lament dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
+**Ability:** *Asleep Where They Stand* — the cut does its work on the dream register and leaves the body where it was put. Nothing struck by it has ever woken to fight, and nothing struck by it has needed nursing for the wound.
 
 **Cost:** The wielder sleeps heavily for two nights after use and wakes normally both times. Logged every occasion, never exceeded, and specifically distinguished on the form from the sleep the block itself produces.
 
@@ -205,7 +205,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting against the dream register of sorrow.
+**Ability:** *Way Out* — the wearer cannot lose the door they came in by. The mantle holds the route and the plan together under Lament pressure, and will not hold either past the threshold the plan was signed at.
 
 **Cost:** The wearer carries Unwaking Block's grief into every quiet moment; small joys feel distant until the suit is removed.
 
@@ -213,13 +213,13 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, worn inside the wrist where a mapping hand can feel it without looking.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
 
-**Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
+**Ability:** *Ninth Door* — it goes cold at a doorway that was not on the last survey. Four parties have trusted it, and every one of them signed the plan outside.
 
 **Cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present.
 

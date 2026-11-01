@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Void  
-**Canonical ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.   <!-- SE-927 -->
-**Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Down Where They Stand* — the struck body lies down rather than falls, and the sleep is the wound. Nobody has been carried clear of it, because the no-carry rule runs from the first second.   <!-- SE-927 -->
+**Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: The sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine.
 
 ## Appearance
 
-Dreaming Plague's Edge is the weapon record of the Dreaming Plague set — δ-grade, Void-aligned, striking at 11–20 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void dream sorrow: the blade cuts at the dream register of the target's grief, a contagion that spreads bed to bed through sleep itself, held at critical potency. Binding names Dreaming Plague's event — Not recorded, patient zero asleep beyond interviewing — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a persistent low-grade headache with each use, the first symptom of a sickness the wielder must not let become theirs. The source- trace fixed doctrine: the hazard gave no transcribable field response, and the Edge interrupts the hazard only after attribution to Dreaming Plague. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Dreaming Plague's Edge is the weapon record of the Dreaming Plague set — δ-grade, Void-aligned, striking at 11–20 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability is *Down Where They Stand*: the struck body lies down rather than falls, and the sleep is the wound. Nobody has been carried clear of it, because the no-carry rule runs from the first second. Binding names Dreaming Plague’s event — Not recorded — and accepts the limit the record sets: the sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine. The wielder dreams the district’s dream the night after use — the same streets, the same sky — and wakes on their own, in their own bed, which is logged as an exposure. Continued use leaves the wielder sleeping on the cordon side of the line, where the contact rule resumes without them. Both expansions on file were carried into being by a rescuer, so the no-carry rule is the record’s own finding and not the piece’s preference. A bearer who lifts a sleeper loses the piece to the cordon and the cordon to the count. The coat does not resist the lift; it resists being lifted.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Dreaming Plague's Edge is the weapon record of the Dreaming Plague set — δ-gr
 |---:|---:|---:|---|---:|
 | Void 11–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Dreaming Plague's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder dreams the district’s dream the night after use — the same streets, the same sky — and wakes on their own, in their own bed, which is logged as an exposure. Continued use leaves the wielder sleeping on the cordon side of the line, where the contact rule resumes without them.
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Weapon Record*
 

@@ -160,10 +160,10 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** a single-edged blade of Lament Han-crystal, cool and faintly luminous, with thirty-four tally marks cut into the flat — one for each occurrence, and not one of them annotated.
 
 **Damage:** Lament 14–23 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
+**Ability:** *Not On the List* — the strike does its work on the phantasmal register, and a struck body does not show the wound until the hour has ended. The column never turns for it: in thirty-four occurrences nothing has made it change course.
 **Cost:** The wielder counts things afterwards — chairs, windows, people in a corridor — and arrives at a figure before deciding to. It fades within a week and is noted on the sheet because the counting is the job and the habit is therefore hard to see.
 
 **Edge cost distinction:** The linked Weapon records a persistent low-grade headache with each use. This holding separately records involuntary counting afterward; neither observation is proof of the other. Keep both with the bearer record rather than rewriting the unknown formation event or treating the blade as permission to strike a walker.
@@ -172,22 +172,22 @@ The pressure is not worked; the hour is counted. Observation is the tally itself
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a counting-cloak of Lament Han-silk, cool and faintly luminous, with the tally pockets sewn on the outside so that the Warden never has to look away from the line to use them.
+**Appearance:** a counting-cloak of Lament Han-silk, cool and faintly luminous, with the tally pockets sewn on the outside so the Warden never has to look away from the line, and a third pocket sewn inside for the discrepancy.
 
 **Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** The dead do not fall silent with the room: their grief follows the wearer into quiet moments, and small joys stay remote until the veil comes off.
-**Ability:** Grants resistance to Lament damage, protecting against the phantasmal register of sorrow.
+**Ability:** *Both Counts* — the wearer keeps two counts and cannot lose either to the hour. What the cloak resists is not the Lament but the temptation to make the two figures agree.
 
 ### M.A.W. Stigma — Allhallow's Token
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Lament Han-crystal, cool and faintly luminous, its rim stamped with sixty minute-marks, none of which has ever been reached early.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
+**Ability:** *Sixty* — it goes cold at the hour's end, measured from the first walker, across every occurrence on file. Bearers describe the cold as the most reliable fact in the district.
 *A Token is found at a marker post after an hour in which the two counts came within ten of each other. Three pieces, three close reconciliations; nothing has ever been recovered from an hour the posts disagreed on.*
 
 **Token bearer limit:** The linked Stigma records dreams in tears from the source sorrow and waking with another person's grief. That bearer cost is distinct from finding a token after close tallies, and a source-work bonus does not establish the identity of a face in the column.

@@ -158,32 +158,32 @@ The weight is reported, not measured, and the archive is careful to keep those t
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a single-edged blade of Weight Han-steel, matte and unnaturally heavy, that glows along its edge when readied.
+**Appearance:** a short, blunt Weight Han-steel bar with a watch-hook at the butt and a striking face worn smooth — the kind of piece carried to a room that will not give a reading, and never once sharpened.
 
 **Damage:** Weight 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
+**Ability:** *Sat to the End* — the strike presses the room's pressure back along the line it came by, which buys the watch its last quarter-hour and nothing past it. It does not drive anything out, and it has never been used to try.
 **Cost:** The wielder begins estimating weights. Doorways, colleagues, furniture — a figure in kilograms arrives unbidden and is usually close. It fades within a day of setting the piece down and has never been reported as distressing.
 
 ### M.A.W. Suit — Dead Air's Veil
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a flowing veil of Weight Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Appearance:** a heavy watch-coat of Weight Han-weave, matte and unnaturally heavy at the hem, with the slate pocket sewn inside the lining so the form cannot be read from behind the wearer.
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.3 (Resistant)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** A muted exhaustion builds under the mantle, as if the pressure left by every cut-off voice is resting across the wearer's shoulders.
-**Ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
+**Ability:** *Unwritten* — the wearer's own account survives the room. Weight pressure goes into the coat and comes out as nothing at all, which is why the form is filed blank or not, and why the coat is weighed at the end of every watch.
 
 ### M.A.W. Stigma — Dead Air's Token
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a coin-token of Weight Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance:** a small flat charm of Weight Han-steel, matte and unnaturally heavy, struck from the door furniture of one of the two rooms and numbered on the reverse.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
+**Ability:** *Last Quarter* — it goes cold in the final quarter-hour of a watch, which is the one thing a sitter in that room cannot learn any other way. It does not say whether the form will be blank.
 *A Token is found on the form, weighting the page down, at the end of a watch in which the Warden wrote nothing. Four of the five recovered pieces came from blank watches, and the fifth is annotated as a probable filing error.*
 
 ### M.A.W. Use Notes

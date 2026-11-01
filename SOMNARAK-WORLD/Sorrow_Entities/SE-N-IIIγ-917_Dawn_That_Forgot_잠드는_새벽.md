@@ -161,10 +161,10 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, that quivers when raised.
+**Appearance:** a single-edged blade of Void Han-glass, near-translucent and almost colourless, with a watch-face set into the guard that has no minute hand.
 
 **Damage:** Void 14–25 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.
+**Ability:** *First Hour* — the strike takes the hour after waking rather than the body. The target keeps the day and loses the dawn of it, and cannot afterwards say what they had meant to do before the bell.
 **Cost:** The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes. It is counted as an exposure on the infirmary’s running total, like everything else here.
 
 **Edge exposure account:** The Weapon’s individual cost describes emotional numbness toward Void; this record describes waking slowly for a week. Log the two observations without treating one as proof of the other. A bearer may be lucid and still several seconds behind their eyes. Taking the Edge inside counts even if no strike was made, and neither a quiet blade nor an uneventful watch cancels that entry. The item’s source event remains unrecorded: attribution review must keep that absence instead of borrowing a resident’s dream to complete it.
@@ -178,7 +178,7 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** The wearer becomes difficult to summon in memory, even from inside their own thoughts; the veil offers shelter by making its bearer fade from recollection.
-**Ability:** Grants resistance to Void damage, protecting against the dream register of sorrow.
+**Ability:** *Held Dawn* — the wearer's early hours stay the wearer's while the cloak is on. It survives Void pressure because it has somewhere to put the first hour, and what it costs is that the wearer never remembers spending it.
 
 **Veil handover:** Write and countersign the watch handover before relying on either worker’s recollection of the wearer. Becoming hard to summon in memory is the Suit’s cost, not evidence that the post was unstaffed or that an episode was missed. The sunrise and shutter times remain entries made from outside the line. Return of the cloak and attendance at the infirmary remain separate acts; a countersignature records a handover and does not establish medical fitness. No recollection check creates a place for the confidential cumulative figure on the duty sheet.
 
@@ -186,11 +186,11 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, that grows cool near its source sorrow.
+**Appearance:** a coin-token of Void Han-glass, near-translucent and almost colourless, drilled for a cord and stamped on the rim with the post number of the street it was issued on.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's dream sorrow, crystallized into wearable form.
+**Ability:** *Line Moved* — it goes cold when the boundary has passed the post's own step. The third widening was called on that cold, four hours before the survey found the street.
 **Token lapse:** The individual Stigma records a familiar word or face briefly lost after invocation. Preserve the reported lapse with the occasion of use, separately from the district’s failure to wake; a few seconds on the bearer are not a new shutter time. The source-work bonus makes no claim to shorten an episode, and the six recovered pieces establish six watched episodes rather than a technique for entering the zone. Keep an unrecorded source event unrecorded even when the bearer’s account becomes personal. The infirmary receives the exposure; the facility receives only its fitness judgment.
 
 *A Token is found at the perimeter post after an episode has been watched end to end by one person. Six pieces, six unbroken watches; nothing has ever been recovered from inside the zone.*

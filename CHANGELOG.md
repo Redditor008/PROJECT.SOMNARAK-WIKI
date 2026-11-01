@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eight equipment sets stop being three sentences (2026-11-01)
+
+Eight dossiers carried a M.A.W. set whose three pieces were three template sentences: a weapon that *channels {element} {register} sorrow in each strike*, a suit that *grants resistance to {element} damage*, and a stigma that is *a fragment of the entity's {register} sorrow, crystallized into wearable form*. Between them they described twenty-four pieces and named nothing.
+
+Each piece is now what its own record says it is. Dead Air's Edge presses the room's pressure back along the line it came by to buy the watch its last quarter-hour; Dead Air's Veil is weighed at the end of every watch because the form is filed blank or not. Hatred Above's Edge goes to the closest body and cannot be aimed past it, sixty-three times out of sixty-three. Unwaking Block's Edge leaves the body where it was put — nothing struck by it has ever woken to fight. Dawn That Forgot's Edge takes the hour after waking, not the body. Dreaming Plague's Veil cannot be lifted while the hood is up, which is the no-carry rule worn as a coat. Allhallow's counting-cloak keeps a third pocket inside for the discrepancy. Weighted Silence's Token goes cold when the radius has passed its marker by half a metre. Miasma's Threshold Ward-Staff bars a doorway planted and reaches whoever is behind it swung.
+
+**The codex pages follow.** Twenty-one item records — the six sets with a codex directory plus Miasma's — were regenerated from the dossier rather than left to drift: canonical ability, the set's own containment limit in place of *reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved*, the piece's own cost in place of the retired stock sentences, an item-specific source-trace, and an item-specific corrosion path. Dead Air's page now says what Dead Air's containment actually is — the watch sat to its end and the form filed, blank or not — instead of a gauge instruction the record never gives.
+
+Two generation bugs went with them: *Channels void void sorrow* (Weighted Silence) and *Channels lament lament sorrow* (Miasma), both of which repeated the element where the register belonged.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0 · breach floors unchanged at **192/301**.
+
+
 ## The template, the guide and the conversion now say what the last ten batches did (2026-11-01)
 
 Ten batches of fixes are worth nothing if the next file written puts the defects back. All three standards now carry them.

@@ -16,19 +16,19 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** A fragment of the entity's void sorrow, crystallized into wearable form.   <!-- SE-924 -->
-**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Half a Metre* — it goes cold when the radius has passed its marker by more than the tolerance. Containment here is a measurement, and the token is that measurement carried in a pocket.   <!-- SE-924 -->
+**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
 
 ## Appearance
 
-Weighted Silence's Token is the stigma record of the Weighted Silence set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's void sorrow, crystallized into wearable form, one held breath of the great quiet carried at the temple. Binding names Weighted Silence's event — Not recorded, the hush archived without whatever it refused to say — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a flicker of erasure: the bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma, the silence taking small payments in language. The source-trace fixed doctrine: the hazard permits study, its void pressure becoming legible under sustained observation, and the Token marks the hazard only after attribution to Weighted Silence. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Weighted Silence's Token is the stigma record of the Weighted Silence set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is *Half a Metre*: it goes cold when the radius has passed its marker by more than the tolerance. Containment here is a measurement, and the token is that measurement carried in a pocket. Binding names Weighted Silence’s event — Not recorded — and accepts the limit the record sets: the annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression. The bearer’s cold is a measurement and not a warning, and the survey has twice written the figure down before anyone walked out to see it. Continued use leaves the bearer reporting the radius at the figure they expected. The slates came out blank and the relay came out silent; the set’s own record is the first thing the radius takes, so the piece is issued to the survey that measures it. A piece carried inside the radius loses its own written record first. Four have been returned with blank labels and matching survey figures, which is how the armoury learned to number them on the outside.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma. Continued use makes Weighted Silence's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer’s cold is a measurement and not a warning, and the survey has twice written the figure down before anyone walked out to see it. Continued use leaves the bearer reporting the radius at the figure they expected.
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Stigma Record*
 

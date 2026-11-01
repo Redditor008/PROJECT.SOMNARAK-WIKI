@@ -161,7 +161,7 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a single-edged blade of Grudge Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** a single-edged blade of Grudge Han-iron, dark and warm along the flat, its edge widened at the last hand's width so it takes whatever stands beside the target as readily as the target.
 
 **Damage:** Grudge 11–22
 **Speed:** 2 (Normal)
@@ -173,31 +173,31 @@ The pressure is measured from the sides, at an angle, by instruments that cannot
 **Target Coverage:** 1 selected target
 **Falloff Rule:** None; 100% damage to the selected target only.
 **Damage Application:** Direct Grudge damage; the overhead anomaly’s spread does not add targets to the Edge’s strike.
-**Ability:** Channels Grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
+**Ability:** *Nearest Body* — the strike goes to the closest body and cannot be aimed past it. The bearer's own colleague, standing where colleagues stand, is on the list by geometry and not by intent: sixty-three incidents, sixty-three times the nearest colleague.
 **Cost:** The wielder's own anger arrives without a subject — nine to fourteen seconds into an argument, in a room where nothing has happened — and the blade does not name who it is for.
 
 ### M.A.W. Suit — Hatred Above's Veil
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a flowing veil of Grudge Han-cloth, dark and faintly warm, that tightens near its source element.
+**Appearance:** a flowing veil of Grudge Han-cloth, dark and warm the way a wall is warm after a fire on the far side of it, cut to hang between the wearer's mouth and the room.
 
 The shelter does not remove the bodily record of small insults. Stiffening reflexes and anger reaching the voice before judgement are costs to record, not evidence that a grievance has been established. A worker’s own past and the source of pressure remain separate even when both feel personal.
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 0.3 (Resistant) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Bearer cost:** The suit stores each small insult in the body; the wearer's reflexes grow rigid, and anger reaches the voice before judgment can intervene.
-**Ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.
+**Ability:** *Unanswered* — the wearer's anger finds no reply in the weave. Grudge pressure runs off it unanswered, which is the file's own resolution condition worn as a garment.
 
 ### M.A.W. Stigma — Hatred Above's Token
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance:** a coin-token of Grudge Han-iron, dark and faintly warm, stamped on one face with the number of incidents and on the other with nothing at all.
 
 **Slot:** Head **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity.
-**Ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.
+**Ability:** *Step Back* — it goes cold the moment somebody within reach has answered back. That is the only warning the piece gives, and the only one that has ever ended an incident.
 **Cost:** Old injuries and old resentments sharpen whenever the Token is used.
 
 The source event remains unidentified. Carrying the Token does not supply its missing history or make the nearest colleague responsible for it. First-person ownership of that unknown history is a warning sign; the return review keeps uncertainty rather than completing the account for the bearer.

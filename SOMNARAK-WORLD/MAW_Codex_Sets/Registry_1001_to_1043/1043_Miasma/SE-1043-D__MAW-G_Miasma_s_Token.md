@@ -16,15 +16,15 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Lament  
-**Canonical ability:** A fragment of the entity's lament sorrow, crystallized into wearable form.   <!-- SE-1043 -->
-**Binding rule:** the bearer names Miasma's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Mean Dwell* — it goes cold once a bank has thinned past the mean dwell the file records, and that cold is the only signal a spotter has that the run is walkable. It has never been wrong and it has never been early.   <!-- SE-1043 -->
+**Binding rule:** the bearer names Miasma's event—Not recorded—and accepts this limit: The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer dreams in tears drawn from Miasma's sorrow and wakes with another person's grief still present. Continued use makes Miasma's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer checks the token against a slate cord at every junction and cannot pass one without reaching for it. Continued use puts the cold a half-minute ahead of the thinning, so the bearer walks out early and logs a bank that is still there.
 
 ## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Stigma Record*
 
@@ -36,7 +36,7 @@ The first Miasma's Token field bearer encountered this source response: Permits 
 - Escalation: the item repeats the source response outside contact.
 - Terminal state: Miasma's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1043 -->
+**Failure mode:** violating “The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1043 -->
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Miasma's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Miasma's Token; shutdown preserves the record but does not refund its cost.
 

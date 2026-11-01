@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** Grants resistance to Void damage, protecting against the dream register of sorrow.   <!-- SE-917 -->
-**Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Held Dawn* — the wearer's early hours stay the wearer's while the cloak is on. It survives Void pressure because it has somewhere to put the first hour, and what it costs is that the wearer never remembers spending it.   <!-- SE-917 -->
+**Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
 
 ## Appearance
 
-Dawn That Forgot's Veil is the suit record of the Dawn That Forgot set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the dream register of sorrow a forgetful morning leaves unfinished. Binding names Dawn That Forgot's event — Not recorded, the night unaccounted for by its own daybreak — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is transparency: the wearer becomes difficult to remember, even to themselves, while the protection is worn, fading the way dreams fade at waking. The source-trace fixed doctrine: the manifestation recognizes patience, its void pressure settling gradually under sustained presence, and the Veil contains the hazard only after attribution to Dawn That Forgot. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Dawn That Forgot's Veil is the suit record of the Dawn That Forgot set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is *Held Dawn*: the wearer's early hours stay the wearer's while the cloak is on. It survives Void pressure because it has somewhere to put the first hour, and what it costs is that the wearer never remembers spending it. Binding names Dawn That Forgot’s event — Not recorded — and accepts the limit the record sets: the district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens. The wearer keeps every dawn and cannot afterwards say what they did in it. Continued use leaves the wearer with a week of mornings they have to be told about. The post that held its count through the first dawn and reported the discrepancy kept its street; both widenings followed reports that had been tidied before they were filed. The cloak keeps the wearer’s dawn and returns it without the memory of it. A bearer who tries to reconstruct the missing hour from notes loses the note-taking next.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Dawn That Forgot's Veil is the suit record of the Dawn That Forgot set — γ-gr
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn. Continued use makes Dawn That Forgot's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer keeps every dawn and cannot afterwards say what they did in it. Continued use leaves the wearer with a week of mornings they have to be told about.
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn That Forgot Source-Trace: Suit Record*
 

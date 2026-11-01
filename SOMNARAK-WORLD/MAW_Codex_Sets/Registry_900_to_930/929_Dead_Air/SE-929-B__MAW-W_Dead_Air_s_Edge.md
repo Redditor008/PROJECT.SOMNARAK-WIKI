@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Weight  
-**Canonical ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.   <!-- SE-929 -->
-**Binding rule:** the bearer names Dead Air's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Sat to the End* — the strike presses the room's pressure back along the line it came by, which buys the watch its last quarter-hour and nothing past it. It does not drive anything out, and it has never been used to try.   <!-- SE-929 -->
+**Binding rule:** the bearer names Dead Air's event—Not recorded—and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
 
 ## Appearance
 
-Dead Air's Edge is the weapon record of the Dead Air set — γ-grade, Weight-aligned, striking at 14–25 Weight in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels weight spirit sorrow: the blade cuts at the spirit register of the target's grief, the broadcast silence after a voice that was supposed to keep going. Binding names Dead Air's event — Not recorded, the transmission ending without sign-off — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a persistent low-grade headache with each use, the static of a channel that will not resolve into signal. The source-trace fixed doctrine: the hazard gave no transcribable field response, and the Edge stays the hazard only after attribution to Dead Air. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Dead Air's Edge is the weapon record of the Dead Air set — γ-grade, Weight-aligned, striking at 14–25 Weight in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability is *Sat to the End*: the strike presses the room's pressure back along the line it came by, which buys the watch its last quarter-hour and nothing past it. It does not drive anything out, and it has never been used to try. Binding names Dead Air’s event — Not recorded — and accepts the limit the record sets: the watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here. The wielder begins estimating weights — doorways, colleagues, furniture — and arrives at a figure in kilograms before deciding to. Continued use leaves the estimate running in rooms where nothing needs weighing, and the form records figures the sitter did not count. The hazard gave no transcribable field response, and the Edge stays the hazard only while it is attributed to Dead Air; a bearer who wrote the silence up as their own went into the count. The piece holds the room’s pressure for a quarter-hour and no longer. A bearer who leans on it past that has the form swallowed along with the watch.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Dead Air's Edge is the weapon record of the Dead Air set — γ-grade, Weight-al
 |---:|---:|---:|---|---:|
 | Weight 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Dead Air's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder begins estimating weights — doorways, colleagues, furniture — and arrives at a figure in kilograms before deciding to. Continued use leaves the estimate running in rooms where nothing needs weighing, and the form records figures the sitter did not count.
 
 ## ITEM-SPECIFIC HISTORY — *The Dead Air Source-Trace: Weapon Record*
 

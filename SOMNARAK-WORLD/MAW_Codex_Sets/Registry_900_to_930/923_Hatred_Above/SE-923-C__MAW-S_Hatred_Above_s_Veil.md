@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Grudge  
-**Canonical ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.   <!-- SE-923 -->
-**Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Canonical ability:** *Unanswered* — the wearer's anger finds no reply in the weave. Grudge pressure runs off it unanswered, which is the file's own resolution condition worn as a garment.   <!-- SE-923 -->
+**Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
 
 ## Appearance
 
-Hatred Above's Veil is the suit record of the Hatred Above set — δ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against a resentment that presses down from overhead rather than facing its target. Binding names Hatred Above's event — Not recorded, the hostility older than any of its explanations — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is somatic: the wearer holds every slight in their body, reflexes stiffening, anger arriving before thought, shoulders braced against a sky that disapproves. The source-trace fixed doctrine: the hazard recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil redirects the hazard only after attribution to Hatred Above. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Hatred Above's Veil is the suit record of the Hatred Above set — δ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is *Unanswered*: the wearer's anger finds no reply in the weave. Grudge pressure runs off it unanswered, which is the file's own resolution condition worn as a garment. Binding names Hatred Above’s event — Not recorded — and accepts the limit the record sets: the affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way. The wearer cannot make an answer sound like an answer; everything said in the veil lands as a verdict. Continued use leaves the wearer silent in rooms where silence reads as agreement. Attributing the response to the worn worker reproduced the event inside four days; attributing it to the widened edge ended the run of incidents, which is the only test the set has passed. The piece holds the nearest-body rule whether or not the bearer wants it. A bearer who has answered back inside the edge’s reach loses the suit to inspection and does not get it back.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ Hatred Above's Veil is the suit record of the Hatred Above set — δ-grade, Gru
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.3 (Resistant) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer holds every slight in their body; their reflexes stiffen and anger arrives before thought. Continued use makes Hatred Above's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer cannot make an answer sound like an answer; everything said in the veil lands as a verdict. Continued use leaves the wearer silent in rooms where silence reads as agreement.
 
 ## ITEM-SPECIFIC HISTORY — *The Hatred Above Source-Trace: Suit Record*
 
