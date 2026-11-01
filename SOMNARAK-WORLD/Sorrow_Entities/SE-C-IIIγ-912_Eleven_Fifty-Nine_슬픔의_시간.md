@@ -166,7 +166,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 ### Escalation Notes
 
-- **Containment priority:** There is no containment action. Notify, hold personnel where they are, log the onset by external timepiece, and resume at 0400. Every attempt to work through it has produced worse figures than standing still.
+- **Containment priority:** There is no containment action. Notify, hold personnel where they are, log the onset by external timepiece, and resume at 0400. Every attempt to work through the hour rather than sit it has ended in a worse report than standing still; the two Work Types move the gauge and nothing else on this file.
 - **Sorrow Gauge in the event:** Opens at 50% at 0300 and climbs through the hour. Viderehan and Ferrehan work it back down and the climb resumes behind them, so the reading at 0400 is the same whether the facility acts or does nothing at all. Above 65% the hour runs on, which is the only thing on this file that has ever extended it.
 
 ## M.A.W. Equipment
