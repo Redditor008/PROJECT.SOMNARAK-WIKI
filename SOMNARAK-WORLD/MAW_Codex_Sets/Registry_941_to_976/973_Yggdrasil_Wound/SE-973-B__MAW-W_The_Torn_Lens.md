@@ -31,7 +31,7 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Yggdrasil Wound's source sorrow feel autobiographical.
+**Operational / binding cost:** The Censer swings the one memory the wielder is allowed to keep: each arc spends one of the others. Wielded long, the wielder's history is a single room and a locked door.
 
 ## ITEM-SPECIFIC HISTORY — *The Yggdrasil Wound Source-Trace: Weapon Record*
 

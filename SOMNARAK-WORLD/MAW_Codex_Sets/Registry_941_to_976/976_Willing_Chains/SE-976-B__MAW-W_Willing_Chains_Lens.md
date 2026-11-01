@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Willing Chains Lens is the weapon record of the Willing Chains set — β-grade, Void-aligned, striking at 5–9 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability deals Void damage against the Soul, identity, memory, and sense of self, channeling the Chains' void signature. Binding names the source event — a district was bound by debt and duty until the obligations became a living chain — and accepts the set's limit: do not cut blindly; identify what each chain represents. The cost is quiet attrition: the wielder loses small, nameless memories with each use. The source-trace fixed doctrine: cut carelessly, the chains lash outward and spread faster, obligation multiplying under attack, and the Lens uncouples the hazard only after attribution to Willing Chains. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Willing Chains Lens is the weapon record of the Willing Chains set — β-grade, Void-aligned, striking at 5–9 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability deals Void damage against the Soul, identity, memory, and sense of self, channeling the Chains' void signature. Binding names the source event — a district was bound by debt and duty until the obligations became a living chain — and accepts the set's limit: do not cut blindly; identify what each chain represents. The cost is the bond: every blow drags the wielder into the same hold it strikes at, and a season of it leaves them bound to a dozen districts. The source-trace fixed doctrine: cut carelessly, the chains lash outward and spread faster, obligation multiplying under attack, and the Lens uncouples the hazard only after attribution to Willing Chains. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Willing Chains Lens is the weapon record of the Willing Chains set — β-gr
 |---:|---:|---:|---|---:|
 | Void 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Willing Chains's source sorrow feel autobiographical.
+**Operational / binding cost:** The Lens strikes at whatever holds a person and drags the wielder into the same hold: each blow adds one obligation to them. Wielded long, the wielder is bound to a dozen districts.
 
 ## ITEM-SPECIFIC HISTORY — *The Willing Chains Source-Trace: Weapon Record*
 

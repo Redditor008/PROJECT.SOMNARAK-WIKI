@@ -28,7 +28,7 @@ The Watcher's Petal is the stigma record of the Calling Bloom set — head-slot,
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer sometimes feels watched from just above their own line of sight. Continued use makes Calling Bloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer sometimes feels watched from just above their own line of sight; carried long, they stop trusting that any thought in the room is being thought for the first time.
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Stigma Record*
 

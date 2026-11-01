@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Mourner's Film is the suit record of the Grieving Love set — β-grade, Lament- aligned, resistant to Lament at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a thin, cool membrane of grief-slime that absorbs Lament pressure and shields the wearer's composure, strongest against the very sorrow it is made of. Binding names the source event — Sooah fell into her own cure on the last night of tending Haneul, and the reagent fused her sorrow into her flesh — and accepts the set's limit: do not flee her embrace; sit with her grief until she lets go of her own accord. The cost is quiet clinginess: the wearer cannot let conversations end or leave rooms first. The source-trace fixed doctrine: the worker endured her cold, clinging field without pulling away and she calmed, comforted that someone did not leave, the Film containing the hazard only after attribution to Grieving Love. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Mourner's Film is the suit record of the Grieving Love set — β-grade, Lament- aligned, resistant to Lament at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a thin, cool membrane of grief-slime that absorbs Lament pressure and shields the wearer's composure, strongest against the very sorrow it is made of. Binding names the source event — Sooah fell into her own cure on the last night of tending Haneul, and the reagent fused her sorrow into her flesh — and accepts the set's limit: do not flee her embrace; sit with her grief until she lets go of her own accord. The cost is the filter: what reaches the wearer is passed clean while their own grief stays in the membrane, and a season of wear leaves them dry and everyone near them worse. The source-trace fixed doctrine: the worker endured her cold, clinging field without pulling away and she calmed, comforted that someone did not leave, the Film containing the hazard only after attribution to Grieving Love. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Mourner's Film is the suit record of the Grieving Love set — β-grade, Lam
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1.2 (Weak) | 1 (Normal) | 1.1 (Weak) | 3 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up. Continued use makes Grieving Love's source sorrow feel autobiographical.
+**Operational / binding cost:** The Film filters what reaches the wearer: the ward's grief is drawn into the membrane and the wearer's stays behind it. Worn long, the wearer is dry and everyone near them is worse.
 
 ## ITEM-SPECIFIC HISTORY — *The Grieving Love Source-Trace: Suit Record*
 

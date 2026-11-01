@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Glider's Mantle is the suit record of the Foam Flood set — γ-grade, Lament- aligned, resistant to Lament at 0.3, worn at 28 Sorrow Echoes a deployment — and its canonical ability is a mantle of stone- feathers that absorbs Lament pressure and shields the wearer's composure against the pull of the sky, strongest against the very longing it is made of. Binding names the source event — a traveller slept beside the carving and stepped off the riverbank at dawn, certain he could fly — and accepts the set's limit: do not touch; name the sky it cannot reach, and let the glowing eyes dim. The cost is restlessness on the ground: pacing, climbing, unable to settle. The source- trace fixed doctrine: the worker held beneath the pull of the sky without rising, a grounded thing enduring its own longing, and the Mantle interrupts the hazard only after attribution to The Foam Flood. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Glider's Mantle is the suit record of the Foam Flood set — γ-grade, Lament- aligned, resistant to Lament at 0.3, worn at 28 Sorrow Echoes a deployment — and its canonical ability is a mantle of stone- feathers that absorbs Lament pressure and shields the wearer's composure against the pull of the sky, strongest against the very longing it is made of. Binding names the source event — a traveller slept beside the carving and stepped off the riverbank at dawn, certain he could fly — and accepts the set's limit: do not touch; name the sky it cannot reach, and let the glowing eyes dim. The cost is the altitude: the wearer is calm and slightly airborne, and a season of it leaves them no longer wanting to come down. The source- trace fixed doctrine: the worker held beneath the pull of the sky without rising, a grounded thing enduring its own longing, and the Mantle interrupts the hazard only after attribution to The Foam Flood. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Glider's Mantle is the suit record of the Foam Flood set — γ-grade, Lamen
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1.1 (Weak) | 1 (Normal) | 1.2 (Weak) | 3 / 28 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer grows restless on the ground — pacing, climbing, choosing high rooms — unable to settle. Continued use makes Foam Flood's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle holds composure by holding the wearer above the ground: worn, they are calm and slightly airborne. Worn long, they stop wanting to come down.
 
 ## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Suit Record*
 

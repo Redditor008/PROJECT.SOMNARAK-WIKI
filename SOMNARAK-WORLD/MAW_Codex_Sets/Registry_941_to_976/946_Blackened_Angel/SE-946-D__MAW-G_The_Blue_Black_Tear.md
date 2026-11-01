@@ -28,7 +28,7 @@ The Blue-Black Tear is the stigma record of the Blackened Angel set — hand-slo
 **Slot / Chance:** Hand / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for. Continued use makes Blackened Angel's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer weeps, briefly and without clear reason, whenever someone near them gets exactly what they wished for; carried long, they can no longer tell their own relief from someone else's.
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Stigma Record*
 

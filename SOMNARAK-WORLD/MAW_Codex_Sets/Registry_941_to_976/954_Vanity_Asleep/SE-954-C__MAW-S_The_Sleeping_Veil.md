@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Sleeping Veil is the suit record of the Vanity Asleep set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 35 Sorrow Echoes a deployment — and its canonical ability grants resistance to Void damage, protecting the Soul against exactly the kind of pressure the avoided reflection radiates. Binding names the source event — citizens repeatedly avoided their own reflection after loss until the denied self became a sleeping presence — and accepts the set's limit: do not wake it by force; look at the reflected self without turning away. The cost is faint self-absence: the wearer feels slightly apart from themselves while the Veil is worn. The source-trace fixed doctrine: the presence remained asleep while the worker waited for the reflection to appear, and the Veil witnesses the hazard only after attribution to Vanity Asleep. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Sleeping Veil is the suit record of the Vanity Asleep set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 35 Sorrow Echoes a deployment — and its canonical ability grants resistance to Void damage, protecting the Soul against exactly the kind of pressure the avoided reflection radiates. Binding names the source event — citizens repeatedly avoided their own reflection after loss until the denied self became a sleeping presence — and accepts the set's limit: do not wake it by force; look at the reflected self without turning away. The cost is the reach: nothing in the present can revise the wearer while the Veil is on, and a season of it leaves them unchanging and unreachable. The source-trace fixed doctrine: the presence remained asleep while the worker waited for the reflection to appear, and the Veil witnesses the hazard only after attribution to Vanity Asleep. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Sleeping Veil is the suit record of the Vanity Asleep set — γ-grade, Void
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Vanity Asleep's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil protects identity by putting the wearer under: nothing in the present can reach them to revise them. Worn long, they are unchanging and unreachable.
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Suit Record*
 

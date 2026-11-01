@@ -29,7 +29,7 @@ The Murmur Vine is the weapon record of the Calling Bloom set — β-grade, Lame
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 4 (Long) | AoE / Center 100% → inner zone 70% → outer zone 50%. | 3 / 24 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder is visited, unbidden, by the faces of everyone they failed to comfort. Continued use makes Calling Bloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder is visited, unbidden, by the faces of everyone they failed to comfort; carried long, they begin apologising to people who are still alive and cannot say why.
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Weapon Record*
 

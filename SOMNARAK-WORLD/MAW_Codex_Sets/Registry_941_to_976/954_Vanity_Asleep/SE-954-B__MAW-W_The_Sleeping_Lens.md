@@ -31,7 +31,7 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 |---:|---:|---:|---|---:|
 | Void 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Vanity Asleep's source sorrow feel autobiographical.
+**Operational / binding cost:** The Rifle puts what it hits to sleep without waking it: each shot costs the wielder a little of their own alertness. Used long, the wielder is dreaming on their feet.
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Weapon Record*
 

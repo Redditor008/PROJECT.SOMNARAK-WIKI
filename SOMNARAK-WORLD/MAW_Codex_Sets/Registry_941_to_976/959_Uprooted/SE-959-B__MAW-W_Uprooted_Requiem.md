@@ -31,7 +31,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Uprooted's source sorrow feel autobiographical.
+**Operational / binding cost:** Every shot is fired from where the wielder used to stand: each round costs them a place they can no longer return to. Fired long, the wielder has no address left.
 
 ## ITEM-SPECIFIC HISTORY — *The Uprooted Source-Trace: Weapon Record*
 

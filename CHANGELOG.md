@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The 941–976 set closes
+
+Thirty-six item records in `Registry_941_to_976`, twelve sets, from the apothecary who spent herself drawing the Weeping-wasting out of somebody else to the district that was bound by debt until the obligations became a living chain. The range is clean.
+
+Half of this range had already been written with a hand on it: those records carry a `The cost:` line in the Appearance paragraph that says what the piece actually takes, and ten of them had that line while the statistics field beneath it still carried the shared tail. Where that happened the field was rewritten to *agree* with the paragraph rather than replace it — the Tarnish Plume's wishes coming true in small unwelcome ways, the Mismatched Eye waking uncertain which of two things it is.
+
+The other half took new costs read off the ability: the Comforting Coil dissolves a sorrow using the wielder's own composure as the solvent; the Skyward Spear gives the caster's footing to the sky; the Relic Charm removes one record of the bearer per use until nothing says they exist.
+
+**Left:** 198 records, in `900_to_930` (75) and `1001_to_1043` (123).
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The 863–897 set closes
 
 Twenty-one item records in `Registry_863_to_897`, seven sets: the empty lens, the homecoming tree, the bridge of the unchosen, the frozen tear, the screaming masonry, repose, and welcome haven. The range is now clear of the shared tail.

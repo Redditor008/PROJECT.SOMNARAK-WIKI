@@ -31,7 +31,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Pandora's Jar's source sorrow feel autobiographical.
+**Operational / binding cost:** The Cleaver opens what was sealed and puts the record of it where the wielder cannot reach: each blow removes a line about the fight from the wielder's memory. Wielded long, the wielder has fought many battles and remembers none of them.
 
 ## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Weapon Record*
 

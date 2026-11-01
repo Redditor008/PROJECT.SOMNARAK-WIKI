@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Black Drop is the stigma record of the Soot Fry set — hand-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a drop that grows heavy and warm near a hidden appetite, warning of predators that look smaller than they are. Binding names the source event — the puddle claimed three fishermen in a season, each deceived by the small silhouette above a body the water should not hold — and accepts the set's limit: do not reach in; name the hunger aloud, the thing it cannot remember wanting, and the silhouette stills. The cost is an inexplicable thirst, now and then, that drinking does not quench. The source-trace fixed doctrine: studied calmly, the silhouette held still and the full body could be mapped without a lunge, the eye watching and watching, the Drop staying the hazard only after attribution to The Soot Fry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Black Drop is the stigma record of the Soot Fry set — hand-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a drop that grows heavy and warm near a hidden appetite, warning of predators that look smaller than they are. Binding names the source event — the puddle claimed three fishermen in a season, each deceived by the small silhouette above a body the water should not hold — and accepts the set's limit: do not reach in; name the hunger aloud, the thing it cannot remember wanting, and the silhouette stills. The cost is the appetite: the drop weighs the bearer's hungers along with everyone else's, until they cannot tell a want they have from one they have been shown. The source-trace fixed doctrine: studied calmly, the silhouette held still and the full body could be mapped without a lunge, the eye watching and watching, the Drop staying the hazard only after attribution to The Soot Fry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Hand / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer feels, now and then, an inexplicable thirst that drinking does not quench. Continued use makes Soot Fry's source sorrow feel autobiographical.
+**Operational / binding cost:** The Drop weighs appetite, and it weighs the bearer's along with everyone else's. Carried long, the bearer cannot tell a hunger they have from one they have been shown.
 
 ## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Stigma Record*
 

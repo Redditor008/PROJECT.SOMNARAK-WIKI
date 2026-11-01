@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Torn Veil is the suit record of the Yggdrasil Wound set — α-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 10 Sorrow Echoes a deployment — and its canonical ability grants resistance to Void damage, protecting the Soul against the pull of a memory torn into a tree-shaped absence. Binding names the source event — a tunnel worker lost everyone in a collapse and preserved only one memory, which tore — and accepts the set's limit: ground the worker and permit both memories to remain. The cost is faint self-absence: the wearer feels slightly apart from themselves while the Veil is worn. The source- trace fixed doctrine: the Wound tests whether the worker can remain between both memories, and the Veil uncouples the hazard only after attribution to Yggdrasil Wound. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Torn Veil is the suit record of the Yggdrasil Wound set — α-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 10 Sorrow Echoes a deployment — and its canonical ability grants resistance to Void damage, protecting the Soul against the pull of a memory torn into a tree-shaped absence. Binding names the source event — a tunnel worker lost everyone in a collapse and preserved only one memory, which tore — and accepts the set's limit: ground the worker and permit both memories to remain. The cost is the fitting: the wearer is coherent and incomplete, holding only what fits in one memory, and a season of that leaves them a stranger with good recall. The source- trace fixed doctrine: the Wound tests whether the worker can remain between both memories, and the Veil uncouples the hazard only after attribution to Yggdrasil Wound. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Torn Veil is the suit record of the Yggdrasil Wound set — α-grade, Void-a
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Yggdrasil Wound's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil holds identity together by keeping only what fits in one memory: worn, the wearer is coherent and incomplete. Worn long, the wearer is a stranger with good recall.
 
 ## ITEM-SPECIFIC HISTORY — *The Yggdrasil Wound Source-Trace: Suit Record*
 

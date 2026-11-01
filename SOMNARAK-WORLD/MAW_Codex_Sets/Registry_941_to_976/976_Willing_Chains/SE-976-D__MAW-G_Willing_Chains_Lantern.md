@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Willing Chains Lantern is the stigma record of the Willing Chains set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability reveals invisible bonds and restraints, every debt and duty in a room made visible as links. Binding names the source event — a district was bound by debt and duty until the obligations became a living chain — and accepts the set's limit: do not cut blindly; identify what each chain represents. The cost is empathic: the bearer feels every bond they cannot escape, their own obligations glowing alongside everyone else's. The source-trace fixed doctrine: the Lantern revealed what each chain binds, obligation named link by link instead of severed in ignorance, and it stabilizes the hazard only after attribution to Willing Chains. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Willing Chains Lantern is the stigma record of the Willing Chains set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability reveals invisible bonds and restraints, every debt and duty in a room made visible as links. Binding names the source event — a district was bound by debt and duty until the obligations became a living chain — and accepts the set's limit: do not cut blindly; identify what each chain represents. The cost is the answer: every chain it makes visible feels like the bearer's own, and a season of carrying it leaves them answering every chain in the room. The source-trace fixed doctrine: the Lantern revealed what each chain binds, obligation named link by link instead of severed in ignorance, and it stabilizes the hazard only after attribution to Willing Chains. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wielder feels every bond they cannot escape. Continued use makes Willing Chains's source sorrow feel autobiographical.
+**Operational / binding cost:** The Lantern makes every bond visible, including the bearer's, and every one visible feels like theirs. Carried long, the bearer answers every chain in the room.
 
 ## ITEM-SPECIFIC HISTORY — *The Willing Chains Source-Trace: Stigma Record*
 

@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Tear Pendant is the stigma record of the Grieving Love set — neck-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a suspended tear of grief-slime that warms near unspoken sorrow, warning the bearer when someone nearby is grieving in silence. Binding names the source event — Sooah, exhausted from tending Haneul, fell into the vat and the cure fused her sorrow into her flesh — and accepts the set's limit: do not flee her embrace; sit with her grief until she lets go of her own accord. The cost is overflow: the bearer weeps without cause at odd hours and cannot always say for whom. The source-trace fixed doctrine: studied gently, she grew still and let the worker see the bright pulse of the cure and the name she keeps murmuring, the Pendant discharging the hazard only after attribution to Grieving Love. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Tear Pendant is the stigma record of the Grieving Love set — neck-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a suspended tear of grief-slime that warms near unspoken sorrow, warning the bearer when someone nearby is grieving in silence. Binding names the source event — Sooah, exhausted from tending Haneul, fell into the vat and the cure fused her sorrow into her flesh — and accepts the set's limit: do not flee her embrace; sit with her grief until she lets go of her own accord. The cost is the warming: every grief nobody says aloud makes the pendant warm, and the bearer cannot stop noticing, until they are the only one in the district still awake to it. The source-trace fixed doctrine: studied gently, she grew still and let the worker see the bright pulse of the cure and the name she keeps murmuring, the Pendant discharging the hazard only after attribution to Grieving Love. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Neck / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer weeps without cause at odd hours and cannot always say for whom. Continued use makes Grieving Love's source sorrow feel autobiographical.
+**Operational / binding cost:** The Pendant warms for every grief nobody says aloud, and the bearer takes the warming personally: each unspoken sorrow it finds becomes one they cannot stop noticing. Carried long, the bearer is the only person in the district still awake to it.
 
 ## ITEM-SPECIFIC HISTORY — *The Grieving Love Source-Trace: Stigma Record*
 

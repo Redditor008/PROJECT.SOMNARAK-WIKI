@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Sleeping Reflection is the stigma record of the Vanity Asleep set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability shows a person's hidden exhaustion and emotional wounds, the mirror's honesty finally put to kind use. Binding names the source event — citizens repeatedly avoided their own reflection after loss, and the denied self became a sleeping presence — and accepts the set's limit: do not wake it by force; look at the reflected self without turning away. The cost is projection: the wearer sees pity in every face they meet, the avoided gaze returned from everywhere. The source-trace fixed doctrine: the Reflection revealed a truth the worker had avoided, the stigma administering its own binding lesson, and it isolates the hazard only after attribution to Vanity Asleep. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Sleeping Reflection is the stigma record of the Vanity Asleep set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability shows a person's hidden exhaustion and emotional wounds, the mirror's honesty finally put to kind use. Binding names the source event — citizens repeatedly avoided their own reflection after loss, and the denied self became a sleeping presence — and accepts the set's limit: do not wake it by force; look at the reflected self without turning away. The cost is the knowing: each showing adds one more thing the bearer is now aware of and cannot act on, until they are intimately acquainted with their own depletion and do nothing about it. The source-trace fixed doctrine: the Reflection revealed a truth the worker had avoided, the stigma administering its own binding lesson, and it isolates the hazard only after attribution to Vanity Asleep. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer sees pity in every face they meet. Continued use makes Vanity Asleep's source sorrow feel autobiographical.
+**Operational / binding cost:** The Reflection shows the bearer their exhaustion and keeps it: each showing adds one more thing they know about themselves and cannot act on. Used long, the bearer is intimately acquainted with their own depletion and does nothing with it.
 
 ## ITEM-SPECIFIC HISTORY — *The Vanity Asleep Source-Trace: Stigma Record*
 

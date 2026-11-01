@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Petal Mantle is the suit record of the Calling Bloom set — β-grade, Lament- aligned, resistant to Lament at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a thin membrane of petals that absorbs Lament pressure and shields the wearer's composure, strongest against the very sorrow it is made of. Binding names the source event — Nari chased her brother's voice to the wood's center, found a flower with an eye, touched it, and was gone — and accepts the set's limit: do not answer the voice; name the child, not the brother, and lead her back toward the wood's edge. The cost is quiet clinginess: the wearer cannot let conversations end or leave rooms first. The source-trace fixed doctrine: the worker endured the calling without answering and the child wandered closer, then away, calmed that someone did not run, the Mantle discharging the hazard only after attribution to Calling Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Petal Mantle is the suit record of the Calling Bloom set — β-grade, Lament- aligned, resistant to Lament at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a thin membrane of petals that absorbs Lament pressure and shields the wearer's composure, strongest against the very sorrow it is made of. Binding names the source event — Nari chased her brother's voice to the wood's center, found a flower with an eye, touched it, and was gone — and accepts the set's limit: do not answer the voice; name the child, not the brother, and lead her back toward the wood's edge. The cost is the ears: the present is muffled so the remembered voice can be heard, and a season of wear leaves the wearer answering a voice nobody else can hear. The source-trace fixed doctrine: the worker endured the calling without answering and the child wandered closer, then away, calmed that someone did not run, the Mantle discharging the hazard only after attribution to Calling Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Petal Mantle is the suit record of the Calling Bloom set — β-grade, Lamen
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1.1 (Weak) | 1 (Normal) | 1.2 (Weak) | 3 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up. Continued use makes Calling Bloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle keeps composure by keeping the wearer's ears full: the sounds of the present are muffled so the remembered voice can be heard. Worn long, the wearer answers a voice nobody else can hear.
 
 ## ITEM-SPECIFIC HISTORY — *The Calling Bloom Source-Trace: Suit Record*
 

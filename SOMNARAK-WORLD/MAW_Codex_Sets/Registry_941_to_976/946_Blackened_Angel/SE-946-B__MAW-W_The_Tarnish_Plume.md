@@ -29,7 +29,7 @@ The Tarnish Plume is the weapon record of the Blackened Angel set — γ-grade, 
 |---:|---:|---:|---|---:|
 | Weight 7–12 | 2 (Normal) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 30 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder finds, for days after, that their own wishes come true in small and unwelcome ways. Continued use makes Blackened Angel's source sorrow feel autobiographical.
+**Operational / binding cost:** The wielder finds, for days after, that their own wishes come true in small and unwelcome ways; wielded long, the wishes that come true are the ones they never meant.
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Weapon Record*
 

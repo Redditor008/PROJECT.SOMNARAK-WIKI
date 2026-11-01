@@ -21,14 +21,14 @@
 
 ## Appearance
 
-The Relic Charm is the stigma record of the Pandora's Jar set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Jar's sorrow, the effect mirroring the entity's nature: what was erased insisting, quietly, on being carried. Binding names the source event — a treasured artifact disappeared during a Desolate expedition, and the records of it were later removed — and accepts the set's limit: bear the heat and name what was lost. The cost is a slowing: the bearer moves a little heavier, freight added to every step. The source-trace fixed doctrine: the Charm reveals fragments of the missing relic's history, the deleted record reassembling piece by piece, and it severs the hazard only after attribution to Pandora's Jar. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Relic Charm is the stigma record of the Pandora's Jar set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Jar's sorrow, the effect mirroring the entity's nature: what was erased insisting, quietly, on being carried. Binding names the source event — a treasured artifact disappeared during a Desolate expedition, and the records of it were later removed — and accepts the set's limit: bear the heat and name what was lost. The cost is the name: each use removes one record of the bearer, and a season of carrying it leaves nothing that says they exist. The source-trace fixed doctrine: the Charm reveals fragments of the missing relic's history, the deleted record reassembling piece by piece, and it severs the hazard only after attribution to Pandora's Jar. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer moves a little slower. Continued use makes Pandora's Jar's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm keeps the bearer from being written down: each use removes one record of them. Carried long, there is nothing left that says they exist.
 
 ## ITEM-SPECIFIC HISTORY — *The Pandora s Jar Source-Trace: Stigma Record*
 

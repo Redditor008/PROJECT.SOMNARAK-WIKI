@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The White Scale is the suit record of the Soot Fry set — β-grade, Weight-aligned, resistant to Weight at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a scaled vest that absorbs Weight pressure and shields both resolve and body: the wearer does not drown in the fish's air. Binding names the source event — three fishermen in one season reached for the small silhouette and were pulled under by a body the water should not hold — and accepts the set's limit: do not reach in; name the hunger aloud and the silhouette stills. The cost is stillness: the wearer grows quiet and unwilling to make waves, in conversation, in motion, in mood. The source-trace fixed doctrine: the worker endured the heavy, drowning air at the bank without flinching or reaching, and the fish calmed, the Scale redirecting the hazard only after attribution to The Soot Fry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The White Scale is the suit record of the Soot Fry set — β-grade, Weight-aligned, resistant to Weight at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a scaled vest that absorbs Weight pressure and shields both resolve and body: the wearer does not drown in the fish's air. Binding names the source event — three fishermen in one season reached for the small silhouette and were pulled under by a body the water should not hold — and accepts the set's limit: do not reach in; name the hunger aloud and the silhouette stills. The cost is the receiving: the vest takes the hit and keeps it, until the wearer's body is a riverbed full of what it has been given. The source-trace fixed doctrine: the worker endured the heavy, drowning air at the bank without flinching or reaching, and the fish calmed, the Scale redirecting the hazard only after attribution to The Soot Fry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The White Scale is the suit record of the Soot Fry set — β-grade, Weight-alig
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 1 (Normal) | 1.1 (Weak) | 0.3 (Resistant) | 3 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer grows still and quiet, unwilling to make waves — in conversation, in motion, in mood. Continued use makes Soot Fry's source sorrow feel autobiographical.
+**Operational / binding cost:** The Scale absorbs Weight by becoming the surface it is struck on: worn, the wearer takes the hit and keeps it. Worn long, the wearer's body is a riverbed full of what it has received.
 
 ## ITEM-SPECIFIC HISTORY — *The Soot Fry Source-Trace: Suit Record*
 

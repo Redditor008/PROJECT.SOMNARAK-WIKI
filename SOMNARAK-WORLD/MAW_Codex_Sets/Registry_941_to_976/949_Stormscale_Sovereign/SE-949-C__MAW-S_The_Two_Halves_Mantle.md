@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Two Halves Mantle is the suit record of the The Stormscale Sovereign set — δ-grade, Mixed-element, holding all four sorrows at an even 0.8 Dulled, worn at 44 Sorrow Echoes a deployment — and its canonical ability spreads resistance evenly across every register, the only suit balanced by design. Binding names the Sovereign's event — the fish that ate the dragon-stone caused a hundred-year rain, wished only for it to end, became the Sovereign, called the rain back, and fell again into a small fish, memory sealed, hunger remaining — and accepts the set's limit: no reliable suppression exists — evacuate and prevent reunion. The cost is division: the wearer feels of two minds about everything, the way the Sovereign is never wholly one element. The source-trace fixed doctrine: the worker endured the Fourfold Tide, holding all four sorrows at once as the Sovereign briefly does, and the Mantle uncouples the hazard only after attribution to the Sovereign. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Two Halves Mantle is the suit record of the The Stormscale Sovereign set — δ-grade, Mixed-element, holding all four sorrows at an even 0.8 Dulled, worn at 44 Sorrow Echoes a deployment — and its canonical ability spreads resistance evenly across every register, the only suit balanced by design. Binding names the Sovereign's event — the fish that ate the dragon-stone caused a hundred-year rain, wished only for it to end, became the Sovereign, called the rain back, and fell again into a small fish, memory sealed, hunger remaining — and accepts the set's limit: no reliable suppression exists — evacuate and prevent reunion. The cost is the dilution: nothing is stopped, only halved, and a season of wear spreads the wearer's own grief thin enough that it never resolves. The source-trace fixed doctrine: the worker endured the Fourfold Tide, holding all four sorrows at once as the Sovereign briefly does, and the Mantle uncouples the hazard only after attribution to the Sovereign. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -29,7 +29,7 @@ The Two Halves Mantle is the suit record of the The Stormscale Sovereign set —
 |---:|---:|---:|---:|---:|
 | 0.8 (Warded) | 0.8 (Warded) | 0.8 (Warded) | 0.8 (Warded) | 2 / 44 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element. Continued use makes Stormscale Sovereign's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle spreads what the wearer would resist and halves it everywhere: no feeling is stopped, only diluted. Worn long, the wearer's own grief is spread thin enough that it never resolves.
 
 ## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Suit Record*
 

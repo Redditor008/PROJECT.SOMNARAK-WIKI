@@ -28,7 +28,7 @@ The Mismatched Eye is the stigma record of the The Stormscale Sovereign set — 
 **Slot / Chance:** Head / 2%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer dreams, nightly, of being two things at once — and wakes uncertain, for a moment, which one they are. Continued use makes Stormscale Sovereign's source sorrow feel autobiographical.
+**Operational / binding cost:** The bearer dreams, nightly, of being two things at once and wakes uncertain, for a moment, which one they are; carried long, the uncertainty lasts the whole morning.
 
 ## ITEM-SPECIFIC HISTORY — *The Stormscale Sovereign Source-Trace: Stigma Record*
 
