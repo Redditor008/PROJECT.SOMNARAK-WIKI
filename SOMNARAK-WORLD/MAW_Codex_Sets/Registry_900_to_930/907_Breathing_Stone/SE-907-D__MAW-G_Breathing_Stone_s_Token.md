@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Breathing Stone's Token is the stigma record of the Breathing Stone set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's body sorrow, crystallized into wearable form, a pebble that still rises and falls faintly against the collarbone. Binding names Breathing Stone's event — Not recorded, the breath kept and the breather lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the settling: every load the bearer sets down returns to them by morning, and a season of carrying it leaves them sleeping against the door. The source-trace fixed doctrine: the place permits study, its body pressure becoming legible under sustained observation, and the Token severs the hazard only after attribution to Breathing Stone. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Breathing Stone's Token is the stigma record of the Breathing Stone set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the place's body sorrow, crystallized into wearable form, a pebble that still rises and falls faintly against the collarbone. Binding names Breathing Stone's event — Not recorded, the breath kept and the breather lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the settling: every load the bearer sets down returns to them by morning, and a season of carrying it leaves them sleeping against the door. The source-trace fixed doctrine: the wall reads at thirty-four degrees and nine breaths, and the Token severs the hazard only after attribution to Breathing Stone. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Breathing Stone's Token is the stigma record of the Breathing Stone set — head
 
 ## ITEM-SPECIFIC HISTORY — *The Breathing Stone Source-Trace: Stigma Record*
 
-The first Breathing Stone's Token field bearer encountered this source response: Permits study; the body pressure becomes legible under sustained observation. The stigma severs the immediate hazard only after the team attributed it to Breathing Stone. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Breathing Stone's Token field bearer encountered this source response: Read the wall at thirty-four degrees and count the breaths at nine a minute; 188 cycles is the whole of what the recording holds, and the watch is a count rather than an interpretation. The stigma severs the immediate hazard only after the team attributed it to Breathing Stone. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

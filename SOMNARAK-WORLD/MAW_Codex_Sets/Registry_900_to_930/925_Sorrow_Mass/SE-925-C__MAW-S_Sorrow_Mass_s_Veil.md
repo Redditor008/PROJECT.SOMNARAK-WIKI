@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Sorrow Mass's Veil is the suit record of the Sorrow Mass set — ω-grade, Weight- aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against a Catastrophic accumulation of grief that presses without aiming. Binding names Sorrow Mass's event — Not recorded, the Sovereign hazard being every loss compacted and no loss in particular — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the weight: the wearer is impossible to move and impossible to lift, and a season of it leaves them unable to be got out from under anything. The source-trace fixed doctrine: the hazard recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil uncouples the hazard only after attribution to Sorrow Mass. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Sorrow Mass's Veil is the suit record of the Sorrow Mass set — ω-grade, Weight- aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against a Catastrophic accumulation of grief that presses without aiming. Binding names Sorrow Mass's event — Not recorded, the Sovereign hazard being every loss compacted and no loss in particular — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the weight: the wearer is impossible to move and impossible to lift, and a season of it leaves them unable to be got out from under anything. The source-trace fixed doctrine: it settles around a survey nobody breaks, and the Veil uncouples the hazard only after attribution to Sorrow Mass. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Sorrow Mass's Veil is the suit record of the Sorrow Mass set — ω-grade, Weigh
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Mass Source-Trace: Suit Record*
 
-The first Sorrow Mass's Veil field bearer encountered this source response: Recognizes patience; the weight pressure settles gradually under sustained presence. The suit uncouples the immediate hazard only after the team attributed it to Sorrow Mass. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sorrow Mass's Veil field bearer encountered this source response: Keep the survey line unbroken for the full cycle; the pressure settles around a party that holds the instruments steady, and the mass does not notice either way. The suit uncouples the immediate hazard only after the team attributed it to Sorrow Mass. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

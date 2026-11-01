@@ -141,7 +141,7 @@ The Colossus is not contained. It wanders Zone D and does not attack.
 |---|---|---|
 | **Flerehan** (Tears) | Pauses and attends; has on four occasions offered a tear that set as a rare Echo, each time to a worker who had spoken a name. | Decrease |
 | **Pugnahan** (Confrontation) | Not noticed. It is too large for aggression at human scale to register, and the doctrine forbids the attempt on the ground that it teaches workers the wrong thing. | Stable |
-| **Viderehan** (Observation) | Permits study at any distance and does not alter its behaviour for observers; its tears carry recoverable particulars about the dead. | Stable |
+| **Viderehan** (Observation) | Watch from any distance with the tear line in view; the tears carry recoverable particulars about the dead, and the march does not alter for being looked at. Distance costs nothing here, and the posts closest to it learn the least. | Stable |
 | **Ferrehan** (Endurance) | Steps over a worker who holds position, with care, and lowers the gauge further than anything else on record. | Decrease |
 
 ### Special Behaviors

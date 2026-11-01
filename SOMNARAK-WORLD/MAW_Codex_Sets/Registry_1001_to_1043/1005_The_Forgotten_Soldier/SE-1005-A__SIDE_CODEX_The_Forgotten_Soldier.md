@@ -32,8 +32,8 @@ The Soldier formed from a border soldier — real name erased from the Archive �
 |---|---|
 | Flerehan | Salutes, acknowledging the worker's grief. (Decrease) |
 | Pugnahan | Attacks, forcing acknowledgment through violence. (Increase) |
-| Viderehan | Stands at attention and permits study of his armor and era. (Stable) |
-| Ferrehan | Stands guard over the worker; enduring his presence reduces distress. (Decrease) |
+| Viderehan | It stands at attention and lets the plate be read: heraldry, era, and the order it is still keeping are legible at a glance, and it acknowledges nobody while they are read. (Stable) |
+| Ferrehan | Stand the watch with it and give it no order; the grief settles while nobody relieves it, and the endurance is spent not taking the post. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns

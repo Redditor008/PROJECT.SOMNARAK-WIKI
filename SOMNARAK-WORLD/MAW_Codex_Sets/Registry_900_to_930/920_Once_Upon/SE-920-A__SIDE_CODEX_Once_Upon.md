@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Time at Major (γ) potency, Lament-aligned, tale-manifesting, held at SECTOR-O-920. It expands and does not breach, and no formation event survives in the file.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the tale pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the register page and name the tellers aloud; those two are the instrument, and the story is legible in the register before anybody has heard it told. (Decrease) |
+| Ferrehan | Hold the room for the full telling without interrupting a teller; the pressure settles when the register is closed and the names are read back. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-920 -->

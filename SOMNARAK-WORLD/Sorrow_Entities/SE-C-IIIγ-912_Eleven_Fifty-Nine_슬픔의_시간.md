@@ -128,8 +128,8 @@ What is certain is that the effect is cumulative and that the cumulation is in t
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; under sustained observation the content of the hour becomes legible, and it is the same content for every observer. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the pressure settles for whoever remains in place and does not try to work through it. | Decrease |
+| **Viderehan** (Observation) | Read the hour from two places at once against the same wall clock; the content resolves to one grief held identically by every observer. Corroboration is the finding — a single account is not evidence of anything, and the archive has never accepted one. | Decrease |
+| **Ferrehan** (Endurance) | Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. | Decrease |
 
 ### Operational Work Notes
 

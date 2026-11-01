@@ -128,8 +128,8 @@ What is certain is that the effect is graded rather than uniform, and that the g
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; under sustained observation the reversal becomes legible as a specific undoing with a date, a street and an instrument behind it. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the pressure settles around a worker who holds a reading point for the full twelve hours without leaving it. | Decrease |
+| **Viderehan** (Observation) | Take the fixed readings in sequence at the marked points and compare them; the reversal resolves into a specific undoing with a date, a street and an instrument behind it. No single reading carries it, which is what the twelve-hour series is for. | Decrease |
+| **Ferrehan** (Endurance) | Hold a reading point for the whole twelve hours without leaving it; the pressure settles around the worker who stays, and what the post buys is interval, which is the only currency this holding pays in. | Decrease |
 
 ### Operational Work Notes
 

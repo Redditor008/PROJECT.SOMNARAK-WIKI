@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Residue (I) Object at Minor (α) potency, Void-aligned, spirit-manifesting, held at SECTOR-N-905. The lid gap at the four rim points is the reading, and there is no record of what was put inside it.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the spirit pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the lid gap at the four rim points; the watch yields the volume that has left the vessel since the last reading, and nothing at all about what was in it. (Decrease) |
+| Ferrehan | Hold the station a full cycle without lifting the lid; the pressure settles around a party that leaves the seal alone for the whole of it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-905 -->

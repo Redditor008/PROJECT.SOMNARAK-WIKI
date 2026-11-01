@@ -57,7 +57,7 @@
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
 | **Sorrow Gauge [HP]** | 479/479 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only, and neither requires the text. Viderehan permits study of the object without opening it — line counts, ink distribution, the pattern of blanks across readers; Ferrehan settles the writing rate around a party that completes a full cycle in the cell without disturbing the cover. |
+| **Valid Work Types** | Viderehan and Ferrehan only, and neither requires the text. Viderehan reads the object closed — line counts, ink distribution, the pattern of blanks across readers; Ferrehan settles the writing rate around a party that completes a full cycle in the cell without disturbing the cover. |
 | **Location** | SECTOR-C-906 |
 | **Resolution Condition** | The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up. |
 
@@ -123,8 +123,8 @@ Containment took fourteen hours and has held for thirty-one years without a sing
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study of the object without opening it: line counts, ink distribution, the pattern of blanks across readers. Informative, and it never requires a page to be read. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the writing rate settles around a party that completes a full cycle in the cell without disturbing the cover. | Decrease |
+| **Viderehan** (Observation) | Count and measure it from the outside — line counts, ink distribution, the pattern of blanks across successive readers — and never open it. The whole reading is available closed, and no page has to be read for any part of it. | Decrease |
+| **Ferrehan** (Endurance) | Complete a full cycle in the cell with the cover down and weighted; the writing rate settles, and the endurance is spent leaving the book alone while it fills. | Decrease |
 
 ### Operational Work Notes
 

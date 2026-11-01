@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Stigma Record*
 
-The first Endless Shift's Token field bearer encountered this source response: Permits study; the weight pressure becomes legible under sustained observation. The stigma interrupts the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Endless Shift's Token field bearer encountered this source response: Read the sealed timepiece at the door against the station log; the difference between the two is the reading, and it is the only measurement that survives a shift. The stigma interrupts the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

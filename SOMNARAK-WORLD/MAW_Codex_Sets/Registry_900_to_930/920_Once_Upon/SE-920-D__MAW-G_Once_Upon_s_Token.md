@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Once Upon's Token is the stigma record of the Once Upon set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's tale sorrow, crystallized into wearable form, a first sentence worn as an amulet against all the endings it never reached. Binding names Once Upon's event — Not recorded, the story's origin as untold as its finish — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the moral: the bearer's grief arrives with a lesson attached that they did not write, and a season of it leaves them consoled by something untrue. The source-trace fixed doctrine: the manifestation permits study, its tale pressure becoming legible under sustained observation, and the Token redirects the hazard only after attribution to Once Upon. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Once Upon's Token is the stigma record of the Once Upon set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's tale sorrow, crystallized into wearable form, a first sentence worn as an amulet against all the endings it never reached. Binding names Once Upon's event — Not recorded, the story's origin as untold as its finish — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the moral: the bearer's grief arrives with a lesson attached that they did not write, and a season of it leaves them consoled by something untrue. The source-trace fixed doctrine: the register page and the named tellers read together, and the Token redirects the hazard only after attribution to Once Upon. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Once Upon's Token is the stigma record of the Once Upon set — head-slot, besto
 
 ## ITEM-SPECIFIC HISTORY — *The Once Upon Source-Trace: Stigma Record*
 
-The first Once Upon's Token field bearer encountered this source response: Permits study; the tale pressure becomes legible under sustained observation. The stigma redirects the immediate hazard only after the team attributed it to Once Upon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Once Upon's Token field bearer encountered this source response: Read the register page and name the tellers aloud; those two are the instrument, and the story is legible in the register before anybody has heard it told. The stigma redirects the immediate hazard only after the team attributed it to Once Upon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

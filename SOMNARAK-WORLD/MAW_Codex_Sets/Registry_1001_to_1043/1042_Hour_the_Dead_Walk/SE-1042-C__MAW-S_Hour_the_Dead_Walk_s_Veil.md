@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Suit Record*
 
-The first Hour the Dead Walk's Veil field bearer encountered this source response: Recognizes patience; the lament pressure settles gradually under sustained presence. The suit severs the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hour the Dead Walk's Veil field bearer encountered this source response: Hold the perimeter for the full hour without going in to count again; the pressure settles for a party that stays outside until it closes. The suit severs the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

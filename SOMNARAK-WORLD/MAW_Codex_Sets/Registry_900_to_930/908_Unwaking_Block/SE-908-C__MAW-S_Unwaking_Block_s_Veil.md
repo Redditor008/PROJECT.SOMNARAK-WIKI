@@ -33,7 +33,7 @@ Unwaking Block's Veil is the suit record of the Unwaking Block set — γ-grade,
 
 ## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Suit Record*
 
-The first Unwaking Block's Veil field bearer encountered this source response: Recognizes patience; the lament pressure settles gradually under sustained presence. The suit discharges the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unwaking Block's Veil field bearer encountered this source response: Keep the circuit for the whole sleep period without waking anybody inside it; the pressure settles for the party that stays awake through it. The suit discharges the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

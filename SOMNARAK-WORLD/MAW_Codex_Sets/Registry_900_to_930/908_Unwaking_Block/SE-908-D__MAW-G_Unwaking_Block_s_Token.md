@@ -32,7 +32,7 @@ Unwaking Block's Token is the stigma record of the Unwaking Block set — head-s
 
 ## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Stigma Record*
 
-The first Unwaking Block's Token field bearer encountered this source response: Permits study; the dream pressure becomes legible under sustained observation. The stigma redirects the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unwaking Block's Token field bearer encountered this source response: Walk the block in the sleep hours and record what each door opens onto; the map is legible on the page, and it does not agree with the street plan. The stigma redirects the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

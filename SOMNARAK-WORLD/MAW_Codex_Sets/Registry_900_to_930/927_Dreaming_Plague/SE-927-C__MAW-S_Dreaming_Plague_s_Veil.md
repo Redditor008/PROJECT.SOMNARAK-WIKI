@@ -33,7 +33,7 @@ Dreaming Plague's Veil is the suit record of the Dreaming Plague set — δ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Suit Record*
 
-The first Dreaming Plague's Veil field bearer encountered this source response: Recognizes patience; the void pressure settles gradually under sustained presence. The suit marks the immediate hazard only after the team attributed it to Dreaming Plague. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dreaming Plague's Veil field bearer encountered this source response: Keep the watch through the sleep hours without waking the sleepers; the pressure settles toward the mean, and the night is the endurance. The suit marks the immediate hazard only after the team attributed it to Dreaming Plague. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

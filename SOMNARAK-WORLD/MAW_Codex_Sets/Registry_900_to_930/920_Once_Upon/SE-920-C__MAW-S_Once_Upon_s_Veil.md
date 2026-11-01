@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Once Upon's Veil is the suit record of the Once Upon set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the tale register of sorrow that keeps restarting its own first line. Binding names Once Upon's event — Not recorded, the once-upon kept and the ever-after lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the shape: what happens is a chapter rather than a consequence, and a season of wear leaves the wearer waiting for the part where it turns out all right. The source-trace fixed doctrine: the manifestation recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil discharges the hazard only after attribution to Once Upon. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Once Upon's Veil is the suit record of the Once Upon set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the tale register of sorrow that keeps restarting its own first line. Binding names Once Upon's event — Not recorded, the once-upon kept and the ever-after lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the shape: what happens is a chapter rather than a consequence, and a season of wear leaves the wearer waiting for the part where it turns out all right. The source-trace fixed doctrine: it settles when the register is closed and read back, and the Veil discharges the hazard only after attribution to Once Upon. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Once Upon's Veil is the suit record of the Once Upon set — γ-grade, Lament-al
 
 ## ITEM-SPECIFIC HISTORY — *The Once Upon Source-Trace: Suit Record*
 
-The first Once Upon's Veil field bearer encountered this source response: Recognizes patience; the lament pressure settles gradually under sustained presence. The suit discharges the immediate hazard only after the team attributed it to Once Upon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Once Upon's Veil field bearer encountered this source response: Hold the room for the full telling without interrupting a teller; the pressure settles when the register is closed and the names are read back. The suit discharges the immediate hazard only after the team attributed it to Once Upon. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

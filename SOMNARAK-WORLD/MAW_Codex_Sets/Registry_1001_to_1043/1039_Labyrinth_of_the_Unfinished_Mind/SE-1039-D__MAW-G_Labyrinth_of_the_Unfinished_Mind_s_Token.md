@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Stigma Record*
 
-The first Labyrinth of the Unfinished Mind's Token field bearer encountered this source response: Permits study; the mind pressure becomes legible under sustained observation. The stigma severs the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Labyrinth of the Unfinished Mind's Token field bearer encountered this source response: Walk the corridors writing the route as you go; the map is legible afterwards and it does not join up, which is the finding. The stigma severs the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

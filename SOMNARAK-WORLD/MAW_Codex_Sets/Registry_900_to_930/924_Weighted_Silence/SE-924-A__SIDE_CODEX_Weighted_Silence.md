@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Hazard at Major (γ) potency, Void-aligned, held at SECTOR-O-924. It does not breach, it expands, and its formation is absent from the record.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the void pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the radius against its markers to half a metre; the boundary is the whole of what the watch returns, and it is taken at the markers and nowhere else. (Decrease) |
+| Ferrehan | Hold the marker line without speaking for the full watch; the pressure settles around a party that keeps silent at the edge. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-924 -->

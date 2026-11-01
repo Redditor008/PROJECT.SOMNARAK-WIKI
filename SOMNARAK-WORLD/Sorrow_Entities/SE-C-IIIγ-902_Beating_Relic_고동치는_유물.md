@@ -122,8 +122,8 @@ Beating Relic was forged in the aftermath of the Battle Pits riots. A Warden nam
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; under sustained observation the beat becomes legible as a grievance with a subject, a date and an amount. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the tempo settles while somebody stays in the room without reaching for it. | Decrease |
+| **Viderehan** (Observation) | Read the beat against the gallery clock and let it run; over a sustained watch the rhythm resolves into a grievance with a subject, a date and a sum owed. The handler's own pulse goes out of step before the stone does, which is why the watch is logged on the person. | Decrease |
+| **Ferrehan** (Endurance) | Stay in the room with empty hands for the length of a shift; the tempo settles to the rate of whoever is standing there, and the endurance is spent not reaching for the stone. | Decrease |
 
 ### Operational Work Notes
 

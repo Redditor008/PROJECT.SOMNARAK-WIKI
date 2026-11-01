@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Fissured Skin Stigma is the stigma record of the Cracked Flesh set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's body sorrow, crystallized into wearable form, one shard of the broken surface carried whole. Binding names Cracked Flesh's event — Not recorded, the wound outlasting every account of the blow — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the crack: old injuries and old resentments sharpen together and neither closes while the bearer is standing, and a season of it leaves them sitting whenever they can. The source-trace fixed doctrine: the hazard permits study, its body pressure becoming legible under sustained observation, and the Token interrupts the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Fissured Skin Stigma is the stigma record of the Cracked Flesh set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's body sorrow, crystallized into wearable form, one shard of the broken surface carried whole. Binding names Cracked Flesh's event — Not recorded, the wound outlasting every account of the blow — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the crack: old injuries and old resentments sharpen together and neither closes while the bearer is standing, and a season of it leaves them sitting whenever they can. The source-trace fixed doctrine: the marks read as a figure from above, and the Token interrupts the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ The Fissured Skin Stigma is the stigma record of the Cracked Flesh set — head-
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Stigma Record*
 
-The first The Fissured Skin Stigma field bearer encountered this source response: Permits study; the body pressure becomes legible under sustained observation. The stigma interrupts the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Fissured Skin Stigma field bearer encountered this source response: Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. The stigma interrupts the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

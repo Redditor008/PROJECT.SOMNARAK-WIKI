@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Time at Moderate (β) potency, Weight-aligned, held at SECTOR-O-911. It expands and does not breach; the archive holds a stress record with no beginning attached to it.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the forty-seven-minute interval from the corridor; two loops taken at that reading show the pattern, and the discharge book is the only page that changes between them. (Decrease) |
+| Ferrehan | Hold the corridor for the full interval and sign the book for the day; the pressure settles with the signature, and the second loop is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229. <!-- SE-911 -->

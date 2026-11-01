@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Place at Moderate (β) potency, Weight-aligned and spirit-manifesting, held at SECTOR-N-910, read from the chair count against the hall plan. It does not breach, and no formation record is on file.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the spirit pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Sit the hall through the dusk conversation and count the chairs against the plan; the order in which the forty-four seats empty is the reading, and it follows the precedence the plan records. (Decrease) |
+| Ferrehan | Stay for the whole conversation and let it close by itself; the pressure settles as the last seat empties, and no party on record has hurried it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned. <!-- SE-910 -->

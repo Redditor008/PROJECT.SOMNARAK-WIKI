@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Never Discharged's Token is the stigma record of the Never Discharged set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the source's body sorrow, crystallized into wearable form, an insignia from a service with no end date. Binding names Never Discharged's event — Not recorded, duty outlasting every document that assigned it — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the unanswered call: every hour of rest adds one call to the bearer's shoulders, and a season of carrying it teaches them not to rest. The source-trace fixed doctrine: the source permits study, its body pressure becoming legible under sustained observation, and the Token stays the hazard only after attribution to Never Discharged. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Never Discharged's Token is the stigma record of the Never Discharged set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the source's body sorrow, crystallized into wearable form, an insignia from a service with no end date. Binding names Never Discharged's event — Not recorded, duty outlasting every document that assigned it — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the unanswered call: every hour of rest adds one call to the bearer's shoulders, and a season of carrying it teaches them not to rest. The source-trace fixed doctrine: the forty-seven-minute interval reads from the corridor, and the Token stays the hazard only after attribution to Never Discharged. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Never Discharged's Token is the stigma record of the Never Discharged set — he
 
 ## ITEM-SPECIFIC HISTORY — *The Never Discharged Source-Trace: Stigma Record*
 
-The first Never Discharged's Token field bearer encountered this source response: Permits study; the body pressure becomes legible under sustained observation. The stigma stays the immediate hazard only after the team attributed it to Never Discharged. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Never Discharged's Token field bearer encountered this source response: Read the forty-seven-minute interval from the corridor; two loops taken at that reading show the pattern, and the discharge book is the only page that changes between them. The stigma stays the immediate hazard only after the team attributed it to Never Discharged. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

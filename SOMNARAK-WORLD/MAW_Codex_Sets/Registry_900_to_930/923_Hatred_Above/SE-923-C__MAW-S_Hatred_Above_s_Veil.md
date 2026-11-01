@@ -33,7 +33,7 @@ Hatred Above's Veil is the suit record of the Hatred Above set — δ-grade, Gru
 
 ## ITEM-SPECIFIC HISTORY — *The Hatred Above Source-Trace: Suit Record*
 
-The first Hatred Above's Veil field bearer encountered this source response: Recognizes patience; the grudge pressure settles gradually under sustained presence. The suit redirects the immediate hazard only after the team attributed it to Hatred Above. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hatred Above's Veil field bearer encountered this source response: Stand outside the rectangle for the full watch and answer nothing; the pressure settles for a party that leaves every question unanswered. The suit redirects the immediate hazard only after the team attributed it to Hatred Above. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

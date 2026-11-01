@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Place of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held at SECTOR-C-907. It can breach by transforming, and what the archive has of its formation is the wall at thirty-four degrees and nine breaths a minute.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the wall at thirty-four degrees and count the breaths at nine a minute; 188 cycles is the whole of what the recording holds, and the watch is a count rather than an interpretation. (Decrease) |
+| Ferrehan | Stay the cycle at the wall without breaking the count; the weight settles for the party that keeps position, and the length of the cycle is the stone's to set. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-907 -->

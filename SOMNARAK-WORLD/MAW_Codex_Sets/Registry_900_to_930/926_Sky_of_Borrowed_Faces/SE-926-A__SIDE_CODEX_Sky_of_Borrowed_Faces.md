@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Hazard at Major (γ) potency, Lament-aligned, phantasmal in manifestation, held at SECTOR-O-926. It can breach by transforming, and the archive records the borrowing without any record of who it began with.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the phantasmal pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Count the faces at the perimeter and take the band as it opens; what the sky is borrowing is legible in the count, and whose it was is not. (Decrease) |
+| Ferrehan | Hold the perimeter for the full cycle and stay at the count; the pressure settles around a party that keeps to the tally and nothing else. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-926 -->

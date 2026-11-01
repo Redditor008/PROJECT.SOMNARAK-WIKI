@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Object at Major (γ) potency, Lament-aligned, held at SECTOR-C-904 and working in the mind register. It does not breach: the computation extends into nearby work, and the pressure arrives as a conclusion rather than as a hit.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the mind pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Watch the tray with the figures unread; the print resolves after a sustained watch into a sort by what people will do under load, and the observer's reasoning is the surface it arrives on. (Decrease) |
+| Ferrehan | Stand the chamber a full cycle without touching the tray; the pressure settles as the computation finishes on its own, and the refusal to help is the whole of the work. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-904 -->

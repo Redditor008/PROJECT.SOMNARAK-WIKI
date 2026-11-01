@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The retired work pair is gone from the archive, not just from ten dossiers (batches 66–67)
+
+The ten dossiers carrying *Permits study* / *Recognises patience* were the visible end of it. Opening them showed the same pair sitting in the two places a reader actually meets the source response: **the side-codex work row**, and **the `source response:` sentence quoted in every suit and stigma record of the set** — plus a third copy inside each record's *source-trace fixed doctrine* paragraph, spelled *"the subject recognizes patience, its lament pressure settling gradually under sustained presence."* Counting it honestly: **98 files, 171 lines, 32 entity folders**, and nothing in the ten dossiers explained why the number had stayed at ten for several passes.
+
+**What replaced it.** Every entity now has its own two rows, written from its own instrument or its own resolution clause: Beating Relic's observer reads the beat against the gallery clock; Glass Elsewhere's post is held for the ninety seconds and left on the timer rather than before it; Passing Bell's watch returns the hour and nothing audible, because no instrument has ever registered a sound there; Sorrow Mass's endurance is an unbroken survey line, and the mass does not notice either way. The same two sentences carry through to the suit and stigma records, and the doctrine sentence was rewritten per entity rather than re-cut from one template — **42 doctrine sentences, each naming its own entity's reading.**
+
+**A doubled placeholder fell out of the same pass.** Thirty-one side codices opened `## SUBJECT` with the literal line **"Not recorded Not recorded"** — a placeholder, repeated, standing where the subject description belongs. Each is now a statement derived from that file's own canonical record: class, coherence, potency, element, sector, and what the record does and does not hold. Breathing Stone reads as a Place of Entity (IV) coherence at Critical (δ) with the wall at thirty-four degrees and nine breaths; Sorrow Mass is registered uncontained, *"which is the table's word and not an oversight."* The blank line under each of those lines was eaten by the replacement regex and restored.
+
+`CONTENT_AND_VISUAL_STANDARDS.md` now marks the pair **retired and cleared, 0 left**, and records where it had spread.
+
+**Gate:** `grep -rni "permits study|recogni[sz]es patience" SOMNARAK-WORLD/` returns **0**; `check_links` BROKEN 0. 106 files changed.
+
 ## The last forty-two close the epigraph programme (batch 65)
 
 `SE-1016` Aphonia through `SE-1029` The Kind Healer — the final forty-two, and with them the retired formula is gone from the codex entirely: **`grep -rl "must not mistake memory for permission" SOMNARAK-WORLD/MAW_Codex_Sets` returns 0.** All 345 M.A.W. item records now open on a line that could only have been written for that object.

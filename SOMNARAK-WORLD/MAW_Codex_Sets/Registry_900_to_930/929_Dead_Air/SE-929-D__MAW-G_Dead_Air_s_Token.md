@@ -32,7 +32,7 @@ Dead Air's Token is the stigma record of the Dead Air set — head-slot, bestowe
 
 ## ITEM-SPECIFIC HISTORY — *The Dead Air Source-Trace: Stigma Record*
 
-The first Dead Air's Token field bearer encountered this source response: Permits study; the spirit pressure becomes legible under sustained observation. The stigma discharges the immediate hazard only after the team attributed it to Dead Air. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dead Air's Token field bearer encountered this source response: Walk the rooms and log each one as it empties; the hazard is a fixed pressure that spreads, and the room count is the only instrument it has ever moved. The stigma discharges the immediate hazard only after the team attributed it to Dead Air. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

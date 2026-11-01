@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Time at Moderate (β) potency, Void-aligned, held at SECTOR-O-914. It expands and does not breach, and the formation event is missing from a record whose subject is missing things.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the void pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Complete the roll call at the line and survey the radius; the two together are the reading, and the roll is the only record of who was inside the minute. (Decrease) |
+| Ferrehan | Stay on the line through the full minute without prompting anybody; the pressure settles at the roll call, and the silence until it is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** The minute ends by itself at 1200 and the roll call is completed at the line; the cycle closes when every name on the board has been matched to a person. <!-- SE-914 -->

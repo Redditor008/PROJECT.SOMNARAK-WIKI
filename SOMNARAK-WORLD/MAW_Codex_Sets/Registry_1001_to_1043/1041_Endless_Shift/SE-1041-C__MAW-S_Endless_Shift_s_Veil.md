@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Suit Record*
 
-The first Endless Shift's Veil field bearer encountered this source response: Recognizes patience; the weight pressure settles gradually under sustained presence. The suit isolates the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Endless Shift's Veil field bearer encountered this source response: Work the station for the full shift and leave on the timepiece rather than the log; the pressure settles for a party that ends when the clock does. The suit isolates the immediate hazard only after the team attributed it to Endless Shift. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

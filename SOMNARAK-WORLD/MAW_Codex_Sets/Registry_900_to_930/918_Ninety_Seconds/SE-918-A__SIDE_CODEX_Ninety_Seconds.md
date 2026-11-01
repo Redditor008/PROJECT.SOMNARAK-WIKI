@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Entity (IV) Time at Critical (δ) potency, Void-aligned, mind-manifesting, held at SECTOR-C-918. It can breach by transforming, and how it formed is not recorded.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the mind pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Watch for the first sign and take the band as it opens; the ninety seconds hold the interval exactly, and the interval is the one fixed thing the watch returns. (Decrease) |
+| Ferrehan | Stand the ninety seconds without moving into them; the pressure settles as the interval closes on its own, and the standing is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-918 -->

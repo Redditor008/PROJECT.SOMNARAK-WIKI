@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-C-912 and occurring across the Mantle Commons. It expands only, and while the hour has been timed on every night it has been kept, its first occurrence is not on record.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the lament pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Log the onset minute from two opposite ends of the sector; the two entries agree, the content is one grievance held identically at both, and no single account is the reading. (Decrease) |
+| Ferrehan | Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Notification given, and the hour sat through in place. No response shortens the hour and the drain stops of its own accord at its end. <!-- SE-912 -->

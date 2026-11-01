@@ -33,7 +33,7 @@ Weighted Silence's Veil is the suit record of the Weighted Silence set — γ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Suit Record*
 
-The first Weighted Silence's Veil field bearer encountered this source response: Recognizes patience; the void pressure settles gradually under sustained presence. The suit interrupts the immediate hazard only after the team attributed it to Weighted Silence. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Weighted Silence's Veil field bearer encountered this source response: Hold the marker line without speaking for the full watch; the pressure settles around a party that keeps silent at the edge. The suit interrupts the immediate hazard only after the team attributed it to Weighted Silence. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

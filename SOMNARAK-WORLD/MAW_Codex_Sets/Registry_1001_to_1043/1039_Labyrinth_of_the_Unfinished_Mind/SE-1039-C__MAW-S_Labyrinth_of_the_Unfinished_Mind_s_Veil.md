@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Suit Record*
 
-The first Labyrinth of the Unfinished Mind's Veil field bearer encountered this source response: Recognizes patience; the void pressure settles gradually under sustained presence. The suit stabilizes the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Labyrinth of the Unfinished Mind's Veil field bearer encountered this source response: Keep the party in one room for the full cycle and let the maze rearrange around it; the pressure settles for whoever stays put while the walls move. The suit stabilizes the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

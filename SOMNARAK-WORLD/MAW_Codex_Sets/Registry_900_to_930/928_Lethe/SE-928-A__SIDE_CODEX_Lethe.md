@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Hazard at Major (γ) potency, Void-aligned, mind-manifesting, held at SECTOR-C-928. It can breach by transforming; its stage boundaries fall at reproducible dwell times, and its formation is not among the things it has left legible.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the mind pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Send the operator through to be read inside and set the nominated reader outside to score; the stage boundaries fall at reproducible dwell times, and the two jobs are entered before anybody goes in. (Decrease) |
+| Ferrehan | Complete a full cycle at the marked stations without shortening or extending it; the volume thins around a party that keeps the interval, and the interval is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-928 -->

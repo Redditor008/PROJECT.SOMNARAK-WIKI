@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-O-916; it does not breach, and expands only. The two perimeter counts are the whole of what can be read about it, and the event that formed it is not among them.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the phantasmal pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Take the two perimeter counts and read the difference; the difference is the instrument, and it is the only thing the hour gives up to an observer. (Decrease) |
+| Ferrehan | Hold the perimeter for the full hour without going in to count again; the pressure settles for a party that stays outside until it closes. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-1042 -->

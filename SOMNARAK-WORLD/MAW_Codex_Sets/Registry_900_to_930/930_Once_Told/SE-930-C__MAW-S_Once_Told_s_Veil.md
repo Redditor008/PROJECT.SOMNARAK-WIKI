@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Once Told's Veil is the suit record of the Once Told set — δ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the tale register of sorrow of a story that was never retold. Binding names Once Told's event — Not recorded, the one telling spent and unrecoverable — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the telling: everything the wearer does is already part of a story they cannot edit, and a season of it leaves them waiting to be described. The source-trace fixed doctrine: the hazard recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil witnesses the hazard only after attribution to Once Told. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Once Told's Veil is the suit record of the Once Told set — δ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the tale register of sorrow of a story that was never retold. Binding names Once Told's event — Not recorded, the one telling spent and unrecoverable — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the telling: everything the wearer does is already part of a story they cannot edit, and a season of it leaves them waiting to be described. The source-trace fixed doctrine: it settles around a party that gives it no new telling, and the Veil witnesses the hazard only after attribution to Once Told. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Once Told's Veil is the suit record of the Once Told set — δ-grade, Lament-al
 
 ## ITEM-SPECIFIC HISTORY — *The Once Told Source-Trace: Suit Record*
 
-The first Once Told's Veil field bearer encountered this source response: Recognizes patience; the lament pressure settles gradually under sustained presence. The suit witnesses the immediate hazard only after the team attributed it to Once Told. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Once Told's Veil field bearer encountered this source response: Keep the room for the full cycle and speak nothing worth repeating; the pressure settles around a party that gives it no new telling. The suit witnesses the immediate hazard only after the team attributed it to Once Told. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

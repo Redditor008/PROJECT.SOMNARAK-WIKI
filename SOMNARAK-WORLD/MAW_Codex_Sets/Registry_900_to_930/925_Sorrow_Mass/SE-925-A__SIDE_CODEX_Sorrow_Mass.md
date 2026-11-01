@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Sovereign (V) Hazard at Catastrophic (ω) potency, Weight-aligned, registered at SECTOR-C-925 and uncontained, which is the table's word and not an oversight. It can breach by transforming, and no formation event is on file.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the weight pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the adjacent foundation gauges and keep the deflection survey unbroken; the settlement is legible in the survey, and nothing about the mass is legible from inside the sector. (Decrease) |
+| Ferrehan | Keep the survey line unbroken for the full cycle; the pressure settles around a party that holds the instruments steady, and the mass does not notice either way. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** There is no resolution condition. A site is closed out when the deflection survey reads stable for four consecutive watches; the ledger records no event ended by anything the facility did. <!-- SE-925 -->

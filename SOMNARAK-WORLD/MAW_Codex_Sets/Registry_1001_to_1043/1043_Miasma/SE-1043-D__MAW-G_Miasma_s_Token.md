@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Stigma Record*
 
-The first Miasma's Token field bearer encountered this source response: Permits study; the lament pressure becomes legible under sustained observation. The stigma stays the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Miasma's Token field bearer encountered this source response: Walk the shift and log the thinning as it comes; the order in which the air gives way is legible, and it is the only reading the hazard offers. The stigma stays the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

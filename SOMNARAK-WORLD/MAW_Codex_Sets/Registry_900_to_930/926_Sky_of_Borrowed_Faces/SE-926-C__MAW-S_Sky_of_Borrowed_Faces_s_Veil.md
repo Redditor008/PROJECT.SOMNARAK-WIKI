@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Sky of Borrowed Faces's Veil is the suit record of its set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the phantasmal register of sorrow that looks down wearing familiar features. Binding names Sky of Borrowed Faces's event — Not recorded, the borrowing older than any witness's grief — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the borrowing: the wearer is recognised by everyone and known by none, and a season of wear stops them correcting anybody. The source-trace fixed doctrine: the hazard recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil stays the hazard only after attribution to Sky of Borrowed Faces. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Sky of Borrowed Faces's Veil is the suit record of its set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the phantasmal register of sorrow that looks down wearing familiar features. Binding names Sky of Borrowed Faces's event — Not recorded, the borrowing older than any witness's grief — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the borrowing: the wearer is recognised by everyone and known by none, and a season of wear stops them correcting anybody. The source-trace fixed doctrine: it settles around a party that stays at the tally, and the Veil stays the hazard only after attribution to Sky of Borrowed Faces. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Sky of Borrowed Faces's Veil is the suit record of its set — γ-grade, Lament-
 
 ## ITEM-SPECIFIC HISTORY — *The Sky of Borrowed Faces Source-Trace: Suit Record*
 
-The first Sky of Borrowed Faces's Veil field bearer encountered this source response: Recognizes patience; the lament pressure settles gradually under sustained presence. The suit stays the immediate hazard only after the team attributed it to Sky of Borrowed Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sky of Borrowed Faces's Veil field bearer encountered this source response: Hold the perimeter for the full cycle and stay at the count; the pressure settles around a party that keeps to the tally and nothing else. The suit stays the immediate hazard only after the team attributed it to Sky of Borrowed Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

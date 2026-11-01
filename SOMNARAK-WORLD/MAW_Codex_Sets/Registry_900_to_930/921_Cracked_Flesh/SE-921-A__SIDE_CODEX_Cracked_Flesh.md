@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Hazard at Major (γ) potency, Grudge-aligned, body-manifesting, held at SECTOR-C-921 in Zone B. It can breach by transforming; what cracked first is not recorded.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. (Decrease) |
+| Ferrehan | Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-921 -->

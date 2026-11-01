@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Place at Major (γ) potency, Lament-aligned, dream-manifesting, held at SECTOR-N-908. It reaches the outside only by transforming; what made it is unrecorded.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the dream pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Walk the block in the sleep hours and record what each door opens onto; the map is legible on the page, and it does not agree with the street plan. (Decrease) |
+| Ferrehan | Keep the circuit for the whole sleep period without waking anybody inside it; the pressure settles for the party that stays awake through it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-908 -->

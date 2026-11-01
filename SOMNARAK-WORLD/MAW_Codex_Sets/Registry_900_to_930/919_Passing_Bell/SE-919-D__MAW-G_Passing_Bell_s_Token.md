@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Passing Bell's Token is the stigma record of the Passing Bell set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's spirit sorrow, crystallized into wearable form, one toll of the funeral bell carried where the pulse can answer it. Binding names Passing Bell's event — Not recorded, the mourning kept ringing past every name it rang for — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the reading: every name the bearer has ever been given sounds as though it is being read out for the last time, and a season of it leaves them flinching at their own. The source-trace fixed doctrine: the manifestation permits study, its spirit pressure becoming legible under sustained observation, and the Token severs the hazard only after attribution to Passing Bell. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Passing Bell's Token is the stigma record of the Passing Bell set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's spirit sorrow, crystallized into wearable form, one toll of the funeral bell carried where the pulse can answer it. Binding names Passing Bell's event — Not recorded, the mourning kept ringing past every name it rang for — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the reading: every name the bearer has ever been given sounds as though it is being read out for the last time, and a season of it leaves them flinching at their own. The source-trace fixed doctrine: the hour reads and nothing audible is ever recorded, and the Token severs the hazard only after attribution to Passing Bell. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Passing Bell's Token is the stigma record of the Passing Bell set — head-slot,
 
 ## ITEM-SPECIFIC HISTORY — *The Passing Bell Source-Trace: Stigma Record*
 
-The first Passing Bell's Token field bearer encountered this source response: Permits study; the spirit pressure becomes legible under sustained observation. The stigma severs the immediate hazard only after the team attributed it to Passing Bell. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Passing Bell's Token field bearer encountered this source response: No instrument has ever registered a sound here; the watch returns the hour and the fact of the ring, and nothing that can be written down as a reading. The stigma severs the immediate hazard only after the team attributed it to Passing Bell. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

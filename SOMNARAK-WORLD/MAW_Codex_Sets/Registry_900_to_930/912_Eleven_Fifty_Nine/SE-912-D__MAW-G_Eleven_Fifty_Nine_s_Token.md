@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Eleven Fifty-Nine's Token is the stigma record of the Eleven Fifty-Nine set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's lament sorrow, crystallized into wearable form, one unmoved minute carried against the temple. Binding names Eleven Fifty-Nine's event — Not recorded, the countdown archived without its zero — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the minute: the bearer's sleep is filled with a grief that has one minute left to occur, and a season of it leaves them waking braced for news. The source-trace fixed doctrine: the manifestation permits study, its lament pressure becoming legible under sustained observation, and the Token marks the hazard only after attribution to Eleven Fifty-Nine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Eleven Fifty-Nine's Token is the stigma record of the Eleven Fifty-Nine set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's lament sorrow, crystallized into wearable form, one unmoved minute carried against the temple. Binding names Eleven Fifty-Nine's event — Not recorded, the countdown archived without its zero — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the minute: the bearer's sleep is filled with a grief that has one minute left to occur, and a season of it leaves them waking braced for news. The source-trace fixed doctrine: the onset minute reads the same from both ends of the sector, and the Token marks the hazard only after attribution to Eleven Fifty-Nine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Eleven Fifty-Nine's Token is the stigma record of the Eleven Fifty-Nine set — 
 
 ## ITEM-SPECIFIC HISTORY — *The Eleven Fifty Nine Source-Trace: Stigma Record*
 
-The first Eleven Fifty-Nine's Token field bearer encountered this source response: Permits study; the lament pressure becomes legible under sustained observation. The stigma marks the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Eleven Fifty-Nine's Token field bearer encountered this source response: Log the onset minute from two opposite ends of the sector; the two entries agree, the content is one grievance held identically at both, and no single account is the reading. The stigma marks the immediate hazard only after the team attributed it to Eleven Fifty-Nine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

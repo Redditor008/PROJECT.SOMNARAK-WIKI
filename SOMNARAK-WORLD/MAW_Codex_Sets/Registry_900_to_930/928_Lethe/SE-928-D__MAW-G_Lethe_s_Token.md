@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Lethe's Token is the stigma record of the Lethe set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's mind sorrow, crystallized into wearable form, one drop of the river of forgetting held where it cannot spread. Binding names Lethe's event — Not recorded, the account dissolved in its own subject — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the reason: a familiar word or face returns without the reasons it mattered, and a season of carrying it leaves the bearer knowing everyone and owing none of them anything. The source-trace fixed doctrine: the hazard permits study, its mind pressure becoming legible under sustained observation, and the Token stabilizes the hazard only after attribution to Lethe. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Lethe's Token is the stigma record of the Lethe set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's mind sorrow, crystallized into wearable form, one drop of the river of forgetting held where it cannot spread. Binding names Lethe's event — Not recorded, the account dissolved in its own subject — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the reason: a familiar word or face returns without the reasons it mattered, and a season of carrying it leaves the bearer knowing everyone and owing none of them anything. The source-trace fixed doctrine: the stage boundaries read at reproducible dwell times, and the Token stabilizes the hazard only after attribution to Lethe. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Lethe's Token is the stigma record of the Lethe set — head-slot, bestowed at a
 
 ## ITEM-SPECIFIC HISTORY — *The Lethe Source-Trace: Stigma Record*
 
-The first Lethe's Token field bearer encountered this source response: Permits study; the mind pressure becomes legible under sustained observation. The stigma stabilizes the immediate hazard only after the team attributed it to Lethe. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Lethe's Token field bearer encountered this source response: Send the operator through to be read inside and set the nominated reader outside to score; the stage boundaries fall at reproducible dwell times, and the two jobs are entered before anybody goes in. The stigma stabilizes the immediate hazard only after the team attributed it to Lethe. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

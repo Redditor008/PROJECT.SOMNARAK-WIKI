@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Thinking Engine's Veil is the suit record of the Thinking Engine set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the mind register of sorrow the engine turns over and over. Binding names Thinking Engine's event — Not recorded, the calculation preserved without its first input — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the queue: grief is processed rather than felt and the queue never empties, and a season of wear leaves the wearer able to describe a feeling exactly and not have it. The source-trace fixed doctrine: the object recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil opens the hazard only after attribution to Thinking Engine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Thinking Engine's Veil is the suit record of the Thinking Engine set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the mind register of sorrow the engine turns over and over. Binding names Thinking Engine's event — Not recorded, the calculation preserved without its first input — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the queue: grief is processed rather than felt and the queue never empties, and a season of wear leaves the wearer able to describe a feeling exactly and not have it. The source-trace fixed doctrine: it settles when the computation is left to finish, and the Veil opens the hazard only after attribution to Thinking Engine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Thinking Engine's Veil is the suit record of the Thinking Engine set — γ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Suit Record*
 
-The first Thinking Engine's Veil field bearer encountered this source response: Recognizes patience; the lament pressure settles gradually under sustained presence. The suit opens the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Thinking Engine's Veil field bearer encountered this source response: Stand the chamber a full cycle without touching the tray; the pressure settles as the computation finishes on its own, and the refusal to help is the whole of the work. The suit opens the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

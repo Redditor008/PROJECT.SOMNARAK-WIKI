@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Lethe's Veil is the suit record of the Lethe set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the mind register of sorrow that runs like water over memory. Binding names Lethe's event — Not recorded, the river keeping no log of what it has carried away — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the clearing: the mind clears by forgetting and the forgetting reads as recovery, and a season of wear leaves the wearer calm and unable to account for it. The source-trace fixed doctrine: the hazard recognizes patience, its void pressure settling gradually under sustained presence, and the Veil opens the hazard only after attribution to Lethe. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Lethe's Veil is the suit record of the Lethe set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the mind register of sorrow that runs like water over memory. Binding names Lethe's event — Not recorded, the river keeping no log of what it has carried away — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the clearing: the mind clears by forgetting and the forgetting reads as recovery, and a season of wear leaves the wearer calm and unable to account for it. The source-trace fixed doctrine: it settles around a party that keeps the interval, and the Veil opens the hazard only after attribution to Lethe. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Lethe's Veil is the suit record of the Lethe set — γ-grade, Void-aligned, res
 
 ## ITEM-SPECIFIC HISTORY — *The Lethe Source-Trace: Suit Record*
 
-The first Lethe's Veil field bearer encountered this source response: Recognizes patience; the void pressure settles gradually under sustained presence. The suit opens the immediate hazard only after the team attributed it to Lethe. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Lethe's Veil field bearer encountered this source response: Complete a full cycle at the marked stations without shortening or extending it; the volume thins around a party that keeps the interval, and the interval is the endurance. The suit opens the immediate hazard only after the team attributed it to Lethe. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

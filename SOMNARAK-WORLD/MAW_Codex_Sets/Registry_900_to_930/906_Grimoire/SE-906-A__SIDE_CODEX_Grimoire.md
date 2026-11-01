@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Object at Moderate (β) potency, Grudge-aligned, held at SECTOR-C-906 and manifesting as a tale. It can breach by transforming, and the page count against a weighted cover is taken without any page being read.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the tale pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Count and measure it from outside — lines, ink distribution, blanks across successive readers — and never open it; the whole reading is available closed. (Decrease) |
+| Ferrehan | Complete a full cycle in the cell with the cover down and weighted; the writing rate settles, and the endurance is spent leaving the book alone while it fills. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up. <!-- SE-906 -->

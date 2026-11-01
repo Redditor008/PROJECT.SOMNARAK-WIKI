@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Glass Elsewhere's Veil is the suit record of the Glass Elsewhere set — β-grade, Void- aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the phantasmal register of sorrow that pours off the pane. Binding names Glass Elsewhere's event — Not recorded, an elsewhere with no address — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the glass: the wearer is hard to remember, even by themselves, and the reflection moves on after they stop, so a season of it leaves them checking the surface before speaking. The source-trace fixed doctrine: the object recognizes patience, its void pressure settling gradually under sustained presence, and the Veil marks the hazard only after attribution to Glass Elsewhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Glass Elsewhere's Veil is the suit record of the Glass Elsewhere set — β-grade, Void- aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the phantasmal register of sorrow that pours off the pane. Binding names Glass Elsewhere's event — Not recorded, an elsewhere with no address — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the glass: the wearer is hard to remember, even by themselves, and the reflection moves on after they stop, so a season of it leaves them checking the surface before speaking. The source-trace fixed doctrine: it settles to the timer and not before it, and the Veil marks the hazard only after attribution to Glass Elsewhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Glass Elsewhere's Veil is the suit record of the Glass Elsewhere set — β-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Glass Elsewhere Source-Trace: Suit Record*
 
-The first Glass Elsewhere's Veil field bearer encountered this source response: Recognizes patience; the void pressure settles gradually under sustained presence. The suit marks the immediate hazard only after the team attributed it to Glass Elsewhere. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Glass Elsewhere's Veil field bearer encountered this source response: Hold the post for the full ninety seconds without looking away or naming anybody; the pressure settles to the timer, and the party leaves on it rather than before it. The suit marks the immediate hazard only after the team attributed it to Glass Elsewhere. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

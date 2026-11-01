@@ -32,7 +32,7 @@ Dreaming Plague's Token is the stigma record of the Dreaming Plague set — head
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Stigma Record*
 
-The first Dreaming Plague's Token field bearer encountered this source response: Permits study; the dream pressure becomes legible under sustained observation. The stigma witnesses the immediate hazard only after the team attributed it to Dreaming Plague. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dreaming Plague's Token field bearer encountered this source response: Read the waking time on the clock; the mean is four hours eleven minutes, and the time of waking is the only figure the plague has ever given up. The stigma witnesses the immediate hazard only after the team attributed it to Dreaming Plague. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

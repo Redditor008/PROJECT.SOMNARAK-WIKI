@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Time at Major (γ) potency, Void-aligned and dream-manifesting, held at SECTOR-N-917. It does not breach; it expands, and no formation event was ever entered against it.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the dream pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Time the first shutter and the last from the perimeter post; the gap between them is the reading, and seventy-one minutes across twenty-nine episodes is the whole of it. (Decrease) |
+| Ferrehan | Stay on the post until the district is awake, without calling down to anybody in it; the pressure settles at the opening, and the waiting is the work. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** The district opens its eyes. Mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. <!-- SE-917 -->

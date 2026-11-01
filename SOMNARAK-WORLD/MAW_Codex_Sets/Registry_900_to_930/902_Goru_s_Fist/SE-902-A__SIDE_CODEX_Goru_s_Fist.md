@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Object at Major (γ) potency, Grudge-aligned, held at SECTOR-C-902. It does not breach — it activates — and no record says how the hand came to be stone.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the beat against the gallery clock; over a sustained watch the rhythm resolves into a grievance with a subject, a date and a sum owed. (Decrease) |
+| Ferrehan | Stay in the room with empty hands for the length of a shift; the tempo settles to the rate of whoever is standing there, and the endurance is spent not reaching for the stone. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-902 -->

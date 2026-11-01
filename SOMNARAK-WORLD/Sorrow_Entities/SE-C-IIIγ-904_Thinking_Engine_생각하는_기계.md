@@ -120,8 +120,8 @@ Thinking Engine was built — not born, built — by a Keeper named Seol who cou
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; under sustained observation the output becomes legible as a sorting of people rather than of data. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the pressure settles while somebody stays in the chamber without attempting to read the tray. | Decrease |
+| **Viderehan** (Observation) | Watch the output tray with the figures unread; sustained watching resolves the print into a sort of people by what they will do under load. The observer's reasoning is the surface the pressure arrives on, so the log is kept of what the watcher concluded and not of what the tray said. | Decrease |
+| **Ferrehan** (Endurance) | Stand the chamber for a full cycle and do not touch the tray; the pressure settles as the computation finishes on its own, and what the party spends is the refusal to help it along. | Decrease |
 
 ### Operational Work Notes
 

@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Sky of Borrowed Faces's Token is the stigma record of its set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's phantasmal sorrow, crystallized into wearable form, a shard of overcast that still holds the outline of somebody's someone. Binding names Sky of Borrowed Faces's event — Not recorded, every face in it borrowed and none of them returned — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the feature: the bearer's grief arrives with somebody else's face on it, and a season of it leaves them mourning as a person they have never met. The source-trace fixed doctrine: the hazard permits study, its phantasmal pressure becoming legible under sustained observation, and the Token contains the hazard only after attribution to Sky of Borrowed Faces. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Sky of Borrowed Faces's Token is the stigma record of its set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's phantasmal sorrow, crystallized into wearable form, a shard of overcast that still holds the outline of somebody's someone. Binding names Sky of Borrowed Faces's event — Not recorded, every face in it borrowed and none of them returned — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the feature: the bearer's grief arrives with somebody else's face on it, and a season of it leaves them mourning as a person they have never met. The source-trace fixed doctrine: the face count reads as what is being borrowed, and the Token contains the hazard only after attribution to Sky of Borrowed Faces. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Sky of Borrowed Faces's Token is the stigma record of its set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Sky of Borrowed Faces Source-Trace: Stigma Record*
 
-The first Sky of Borrowed Faces's Token field bearer encountered this source response: Permits study; the phantasmal pressure becomes legible under sustained observation. The stigma contains the immediate hazard only after the team attributed it to Sky of Borrowed Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sky of Borrowed Faces's Token field bearer encountered this source response: Count the faces at the perimeter and take the band as it opens; what the sky is borrowing is legible in the count, and whose it was is not. The stigma contains the immediate hazard only after the team attributed it to Sky of Borrowed Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

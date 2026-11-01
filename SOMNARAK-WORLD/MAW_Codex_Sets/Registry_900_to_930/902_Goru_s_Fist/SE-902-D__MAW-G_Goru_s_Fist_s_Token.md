@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Goru's Fist's Token is the stigma record of the Goru's Fist set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's body sorrow, crystallized into wearable form, a knuckle's worth of grudge carried as an instrument. Binding names Goru's Fist's event — Not recorded, the blow remembered but the provocation lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the clench: old injuries and old resentments sharpen together and neither resolves, and a season of carrying it leaves the bearer greeting people with closed fists. The source-trace fixed doctrine: the object permits study, its body pressure becoming legible under sustained observation, and the Token contains the hazard only after attribution to Goru's Fist. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Goru's Fist's Token is the stigma record of the Goru's Fist set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's body sorrow, crystallized into wearable form, a knuckle's worth of grudge carried as an instrument. Binding names Goru's Fist's event — Not recorded, the blow remembered but the provocation lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the clench: old injuries and old resentments sharpen together and neither resolves, and a season of carrying it leaves the bearer greeting people with closed fists. The source-trace fixed doctrine: the beat reads as a grievance with a date and a sum, and the Token contains the hazard only after attribution to Goru's Fist. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Goru's Fist's Token is the stigma record of the Goru's Fist set — head-slot, b
 
 ## ITEM-SPECIFIC HISTORY — *The Goru s Fist Source-Trace: Stigma Record*
 
-The first Goru's Fist's Token field bearer encountered this source response: Permits study; the body pressure becomes legible under sustained observation. The stigma contains the immediate hazard only after the team attributed it to Goru's Fist. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Goru's Fist's Token field bearer encountered this source response: Read the beat against the gallery clock; over a sustained watch the rhythm resolves into a grievance with a subject, a date and a sum owed. The stigma contains the immediate hazard only after the team attributed it to Goru's Fist. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

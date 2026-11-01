@@ -32,7 +32,7 @@ Weighted Silence's Token is the stigma record of the Weighted Silence set — he
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Stigma Record*
 
-The first Weighted Silence's Token field bearer encountered this source response: Permits study; the void pressure becomes legible under sustained observation. The stigma marks the immediate hazard only after the team attributed it to Weighted Silence. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Weighted Silence's Token field bearer encountered this source response: Read the radius against its markers to half a metre; the boundary is the whole of what the watch returns, and it is taken at the markers and nowhere else. The stigma marks the immediate hazard only after the team attributed it to Weighted Silence. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

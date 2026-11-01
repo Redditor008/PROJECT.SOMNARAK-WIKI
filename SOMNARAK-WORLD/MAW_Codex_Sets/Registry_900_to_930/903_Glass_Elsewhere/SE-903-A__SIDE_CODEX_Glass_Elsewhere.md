@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Object at Moderate (β) potency, Void-aligned and phantasmal in manifestation, held at SECTOR-N-903. The reading is the category of the place taken against the ninety-second clock; the formation event is unrecorded.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the phantasmal pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Take the category of the place inside the ninety seconds and write nothing else; the clock closes the channel before the account can become a face. (Decrease) |
+| Ferrehan | Hold the post for the full ninety seconds without looking away or naming anybody; the pressure settles to the timer, and the party leaves on it rather than before it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. <!-- SE-903 -->

@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Time of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held at SECTOR-C-915 and read from the sealed timepiece against the station log. Nobody recorded the shift beginning.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the weight pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the sealed timepiece at the door against the station log; the difference between the two is the reading, and it is the only measurement that survives a shift. (Decrease) |
+| Ferrehan | Work the station for the full shift and leave on the timepiece rather than the log; the pressure settles for a party that ends when the clock does. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Relief is taken at the door, in person, with both timepieces read aloud. The rostered hour has elapsed on all 611 shifts without varying by a second. <!-- SE-1041 -->

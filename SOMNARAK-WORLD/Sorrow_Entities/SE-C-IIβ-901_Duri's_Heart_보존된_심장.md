@@ -57,7 +57,7 @@
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 448/448 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan permits study, and the darkening series and the beat become legible as a record rather than as behaviour; Ferrehan is patience, and the weight settles around a party that sits the full cycle at the marked distance without shortening it. |
+| **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan reads the darkening series against the beat and returns a record rather than a behaviour; Ferrehan is the sitting, and the weight settles around a party that takes the full cycle at the marked distance without shortening it. |
 | **Location** | SECTOR-C-901, contained |
 | **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. 188 cycles; the pulse has matched in 147 of them and the 41 misses are the file. |
 
@@ -121,8 +121,8 @@ Duri's Heart belonged to a healer named Duri who could not save everyone. In the
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the darkening series and the beat become legible as a record rather than as behaviour. | Decrease |
-| **Ferrehan** (Endurance) | Recognises patience; the weight settles around a party that sits the full cycle at the marked distance without shortening it. | Decrease |
+| **Viderehan** (Observation) | Read the darkening series against the beat from outside the glass; the two together resolve into a record rather than a behaviour, and neither is legible alone. The beat sets the interval, the series carries the content, and the log keeps them in separate columns for that reason. | Decrease |
+| **Ferrehan** (Endurance) | Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. | Decrease |
 
 ### Operational Work Notes
 

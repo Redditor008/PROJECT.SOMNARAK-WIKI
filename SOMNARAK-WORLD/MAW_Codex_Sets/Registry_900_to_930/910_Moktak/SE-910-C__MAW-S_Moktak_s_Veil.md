@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Moktak's Veil is the suit record of the Moktak set — β-grade, Weight-aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the spirit register of sorrow that gathers where the wooden bell once sounded. Binding names Moktak's event — Not recorded, the ceremony remembered by the room and not the record — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the waiting: the wearer can wait through anything and cannot be hurried, and a season of it leaves them unable to be moved to leave. The source-trace fixed doctrine: the place recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil severs the hazard only after attribution to Moktak. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Moktak's Veil is the suit record of the Moktak set — β-grade, Weight-aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the spirit register of sorrow that gathers where the wooden bell once sounded. Binding names Moktak's event — Not recorded, the ceremony remembered by the room and not the record — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the waiting: the wearer can wait through anything and cannot be hurried, and a season of it leaves them unable to be moved to leave. The source-trace fixed doctrine: it settles as the last of the forty-four seats empties, and the Veil severs the hazard only after attribution to Moktak. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Moktak's Veil is the suit record of the Moktak set — β-grade, Weight-aligned,
 
 ## ITEM-SPECIFIC HISTORY — *The Moktak Source-Trace: Suit Record*
 
-The first Moktak's Veil field bearer encountered this source response: Recognizes patience; the weight pressure settles gradually under sustained presence. The suit severs the immediate hazard only after the team attributed it to Moktak. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Moktak's Veil field bearer encountered this source response: Stay for the whole conversation and let it close by itself; the pressure settles as the last seat empties, and no party on record has hurried it. The suit severs the immediate hazard only after the team attributed it to Moktak. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

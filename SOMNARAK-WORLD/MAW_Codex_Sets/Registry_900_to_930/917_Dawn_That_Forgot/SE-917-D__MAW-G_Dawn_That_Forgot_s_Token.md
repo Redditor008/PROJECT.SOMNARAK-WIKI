@@ -32,7 +32,7 @@ Dawn That Forgot's Token is the stigma record of the Dawn That Forgot set — he
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn That Forgot Source-Trace: Stigma Record*
 
-The first Dawn That Forgot's Token field bearer encountered this source response: Permits study; the dream pressure becomes legible under sustained observation. The stigma discharges the immediate hazard only after the team attributed it to Dawn That Forgot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dawn That Forgot's Token field bearer encountered this source response: Time the first shutter and the last from the perimeter post; the gap between them is the reading, and seventy-one minutes across twenty-nine episodes is the whole of it. The stigma discharges the immediate hazard only after the team attributed it to Dawn That Forgot. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

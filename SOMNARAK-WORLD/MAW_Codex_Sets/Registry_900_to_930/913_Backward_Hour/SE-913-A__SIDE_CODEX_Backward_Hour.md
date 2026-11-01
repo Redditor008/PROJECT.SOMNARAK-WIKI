@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Time at Major (γ) potency, Grudge-aligned, held at SECTOR-C-913 and occurring across Zone B. Nothing about it breaches; it widens in rate and in the number of streets, and no account survives of the first reversal.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the grudge pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Take the rate at the fixed points, street by street, and compare the series; the reversal resolves into a specific undoing with a date, a street and an instrument behind it. (Decrease) |
+| Ferrehan | Hold a reading point for the whole twelve hours without leaving it; the pressure settles around the worker who stays, and what the post buys is interval. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. Nothing shortens an occurrence. <!-- SE-913 -->

@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Object at Moderate (β) potency, Weight-aligned, held at SECTOR-C-901 on Floor 5 and read by a beat called aloud from outside the glass. The beat is the only clock it has, and no formation record accompanies it.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the darkening series against the beat from outside the glass; the two together resolve into a record, and neither is legible alone. (Decrease) |
+| Ferrehan | Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-901 -->

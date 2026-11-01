@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Residue (I) Subject at Minor (α) potency, Lament-aligned and tale-shaped, held at SECTOR-C-900. It can breach by transforming, and nothing in the record says how it came to be a tale rather than a person.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | Responds with agitation; empathy is a language it cannot parse. (Stable) |
 | Pugnahan | Stands ground; meets force with equal force. (Stable) |
-| Viderehan | Permits study; the tale pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Watch it work without answering it: over a sustained watch the account it carries becomes legible as a tale with a teller, a loss and a listener, and none of it has to be felt to be read. (Decrease) |
+| Ferrehan | Keep the watch through the whole frame without offering sympathy; the agitation settles while the room stays dry, and the patience spent is the refusal to console. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-900 -->

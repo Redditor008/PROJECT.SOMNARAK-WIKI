@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Grimoire's Veil is the suit record of the Grimoire set — β-grade, Grudge-aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against the tale register of sorrow bound between the covers. Binding names Grimoire's event — Not recorded, an index of resentments with the author's entry torn out — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the ledger: every slight is entered in the body's account in ink that does not fade, and a season of wear leaves the hand steady and the temper untouched. The source-trace fixed doctrine: the object recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil witnesses the hazard only after attribution to Grimoire. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Grimoire's Veil is the suit record of the Grimoire set — β-grade, Grudge-aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against the tale register of sorrow bound between the covers. Binding names Grimoire's event — Not recorded, an index of resentments with the author's entry torn out — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the ledger: every slight is entered in the body's account in ink that does not fade, and a season of wear leaves the hand steady and the temper untouched. The source-trace fixed doctrine: it settles with the cover down and weighted, and the Veil witnesses the hazard only after attribution to Grimoire. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Grimoire's Veil is the suit record of the Grimoire set — β-grade, Grudge-alig
 
 ## ITEM-SPECIFIC HISTORY — *The Grimoire Source-Trace: Suit Record*
 
-The first Grimoire's Veil field bearer encountered this source response: Recognizes patience; the grudge pressure settles gradually under sustained presence. The suit witnesses the immediate hazard only after the team attributed it to Grimoire. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Grimoire's Veil field bearer encountered this source response: Complete a full cycle in the cell with the cover down and weighted; the writing rate settles, and the endurance is spent leaving the book alone while it fills. The suit witnesses the immediate hazard only after the team attributed it to Grimoire. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Entity (IV) Hazard at Critical (δ) potency, Grudge-aligned, held at SECTOR-C-923. It expands and does not breach, and the archive holds no account of the grievance it grew from.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the grudge pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the inward angle from outside the marked rectangle; the angle is the instrument, and what it answers to becomes legible without stepping inside. (Decrease) |
+| Ferrehan | Stand outside the rectangle for the full watch and answer nothing; the pressure settles for a party that leaves every question unanswered. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-923 -->

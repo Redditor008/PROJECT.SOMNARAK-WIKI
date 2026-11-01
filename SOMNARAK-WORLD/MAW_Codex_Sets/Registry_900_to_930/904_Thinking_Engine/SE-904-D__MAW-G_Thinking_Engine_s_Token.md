@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Thinking Engine's Token is the stigma record of the Thinking Engine set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's mind sorrow, crystallized into wearable form, one cooled gear from a machine that grieves in computation. Binding names Thinking Engine's event — Not recorded, the premise missing from its own proof — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the turning: the bearer's grief is worked through at night in order and never resolved, and a season of it leaves them waking having finished thoughts that are not theirs. The source-trace fixed doctrine: the object permits study, its mind pressure becoming legible under sustained observation, and the Token stabilizes the hazard only after attribution to Thinking Engine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Thinking Engine's Token is the stigma record of the Thinking Engine set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the object's mind sorrow, crystallized into wearable form, one cooled gear from a machine that grieves in computation. Binding names Thinking Engine's event — Not recorded, the premise missing from its own proof — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the turning: the bearer's grief is worked through at night in order and never resolved, and a season of it leaves them waking having finished thoughts that are not theirs. The source-trace fixed doctrine: the print reads as a sort of people by what they will do under load, and the Token stabilizes the hazard only after attribution to Thinking Engine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Thinking Engine's Token is the stigma record of the Thinking Engine set — head
 
 ## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Stigma Record*
 
-The first Thinking Engine's Token field bearer encountered this source response: Permits study; the mind pressure becomes legible under sustained observation. The stigma stabilizes the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Thinking Engine's Token field bearer encountered this source response: Watch the tray with the figures unread; the print resolves after a sustained watch into a sort by what people will do under load, and the observer's reasoning is the surface it arrives on. The stigma stabilizes the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

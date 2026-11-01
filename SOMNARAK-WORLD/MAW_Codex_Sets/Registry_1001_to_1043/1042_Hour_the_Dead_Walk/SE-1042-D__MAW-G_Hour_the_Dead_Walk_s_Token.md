@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Stigma Record*
 
-The first Hour the Dead Walk's Token field bearer encountered this source response: Permits study; the phantasmal pressure becomes legible under sustained observation. The stigma uncouples the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hour the Dead Walk's Token field bearer encountered this source response: Take the two perimeter counts and read the difference; the difference is the instrument, and it is the only thing the hour gives up to an observer. The stigma uncouples the immediate hazard only after the team attributed it to Hour the Dead Walk. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

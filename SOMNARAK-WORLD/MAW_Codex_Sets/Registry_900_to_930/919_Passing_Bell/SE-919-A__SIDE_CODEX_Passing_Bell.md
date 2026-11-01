@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Echo (II) Time at Moderate (β) potency, Weight-aligned, spirit-manifesting, held at SECTOR-N-919. It can breach by transforming; the ring is timed and the origin is not.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the spirit pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | No instrument has ever registered a sound here; the watch returns the hour and the fact of the ring, and nothing that can be written down as a reading. (Decrease) |
+| Ferrehan | Keep the post for the full hour without answering it; the pressure settles around a party that lets the hour pass without a reply. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-919 -->

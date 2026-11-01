@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Suit Record*
 
-The first Miasma's Veil field bearer encountered this source response: Recognizes patience; the lament pressure settles gradually under sustained presence. The suit redirects the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Miasma's Veil field bearer encountered this source response: Stay the full shift without shortening it; the pressure settles around a party that keeps to the marked pace. The suit redirects the immediate hazard only after the team attributed it to Miasma. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

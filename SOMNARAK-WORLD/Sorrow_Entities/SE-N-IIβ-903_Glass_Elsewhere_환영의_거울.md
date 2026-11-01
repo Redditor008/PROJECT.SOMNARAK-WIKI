@@ -57,7 +57,7 @@
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 426/426 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan permits study and makes the phantasmal pressure legible under sustained observation; Ferrehan recognises patience, and the void pressure settles gradually under sustained presence. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the category of the place inside the ninety-second clock, and the phantasmal reading is the whole of what it returns; Ferrehan holds the post to the timer, and the void pressure settles to it and not before it. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
 | **Location** | SECTOR-N-903, contained |
 | **Resolution Condition** | The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. |
 

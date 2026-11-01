@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Fragment (III) Hazard at Major (γ) potency, Weight-aligned, spirit-manifesting, held at SECTOR-N-929. It can breach by transforming, and the archive counts its rooms without holding its origin.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the spirit pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Walk the rooms and log each one as it empties; the hazard is a fixed pressure that spreads, and the room count is the only instrument it has ever moved. (Decrease) |
+| Ferrehan | Hold the corridor for the full cycle without opening a room to check it; the pressure settles around a party that leaves the doors as it found them. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-929 -->

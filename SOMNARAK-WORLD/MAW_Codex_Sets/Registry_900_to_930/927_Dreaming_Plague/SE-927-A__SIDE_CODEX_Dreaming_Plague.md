@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Entity (IV) Hazard at Critical (δ) potency, Void-aligned, held at SECTOR-N-927. It expands and does not breach, and no formation event is entered.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the dream pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Read the waking time on the clock; the mean is four hours eleven minutes, and the time of waking is the only figure the plague has ever given up. (Decrease) |
+| Ferrehan | Keep the watch through the sleep hours without waking the sleepers; the pressure settles toward the mean, and the night is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** The sleeper wakes on their own and the cordon is lifted by the person who set it; the account is taken and signed before the district reopens. <!-- SE-927 -->

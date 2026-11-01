@@ -32,7 +32,7 @@ Hatred Above's Token is the stigma record of the Hatred Above set — head-slot,
 
 ## ITEM-SPECIFIC HISTORY — *The Hatred Above Source-Trace: Stigma Record*
 
-The first Hatred Above's Token field bearer encountered this source response: Permits study; the grudge pressure becomes legible under sustained observation. The stigma stays the immediate hazard only after the team attributed it to Hatred Above. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Hatred Above's Token field bearer encountered this source response: Read the inward angle from outside the marked rectangle; the angle is the instrument, and what it answers to becomes legible without stepping inside. The stigma stays the immediate hazard only after the team attributed it to Hatred Above. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

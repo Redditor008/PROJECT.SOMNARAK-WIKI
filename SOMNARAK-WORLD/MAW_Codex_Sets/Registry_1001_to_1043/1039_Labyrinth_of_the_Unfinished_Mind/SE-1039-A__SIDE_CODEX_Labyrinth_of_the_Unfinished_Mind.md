@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Place of Entity (IV) coherence at Critical (δ) potency, Void-aligned and held at SECTOR-C-909, manifesting as a Place-Mind. It reaches the outside only by transforming, and the archive has its measurements without any account of how it formed.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the mind pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Walk the corridors writing the route as you go; the map is legible afterwards and it does not join up, which is the finding. (Decrease) |
+| Ferrehan | Keep the party in one room for the full cycle and let the maze rearrange around it; the pressure settles for whoever stays put while the walls move. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-1039 -->

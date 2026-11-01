@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+An Entity (IV) Hazard at Critical (δ) potency, Lament-aligned, held at SECTOR-O-930. It expands and does not breach, and nothing records the first telling.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the tale pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Time the lag between a spoken word and its arrival; the instrument is the gap, and the gap reads the same in every account taken of it. (Decrease) |
+| Ferrehan | Keep the room for the full cycle and speak nothing worth repeating; the pressure settles around a party that gives it no new telling. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-930 -->

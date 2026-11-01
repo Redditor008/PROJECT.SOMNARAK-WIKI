@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Vellum Man's Token is the stigma record of the Vellum Man set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the subject's tale sorrow, crystallized into wearable form, a leaf of the paper man carried against the skin. Binding names Vellum Man's event — Not recorded, a story the registry admits it does not hold — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the plot: the bearer's dreams are furnished with a grief that has a story and no author, and a season of it leaves them mourning something they cannot name. The source-trace fixed doctrine: the subject permits study, its tale pressure becoming legible under sustained observation, and the Token marks the hazard only after attribution to Vellum Man. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Vellum Man's Token is the stigma record of the Vellum Man set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the subject's tale sorrow, crystallized into wearable form, a leaf of the paper man carried against the skin. Binding names Vellum Man's event — Not recorded, a story the registry admits it does not hold — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is the plot: the bearer's dreams are furnished with a grief that has a story and no author, and a season of it leaves them mourning something they cannot name. The source-trace fixed doctrine: the account reads without anybody having to feel it, and the Token marks the hazard only after attribution to Vellum Man. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -32,7 +32,7 @@ Vellum Man's Token is the stigma record of the Vellum Man set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Vellum Man Source-Trace: Stigma Record*
 
-The first Vellum Man's Token field bearer encountered this source response: Permits study; the tale pressure becomes legible under sustained observation. The stigma marks the immediate hazard only after the team attributed it to Vellum Man. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Vellum Man's Token field bearer encountered this source response: Watch it work without answering it: over a sustained watch the account it carries becomes legible as a tale with a teller, a loss and a listener, and none of it has to be felt to be read. The stigma marks the immediate hazard only after the team attributed it to Vellum Man. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

@@ -14,7 +14,7 @@
 
 ## SUBJECT
 
-Not recorded Not recorded
+A Hazard of Entity (IV) coherence at Critical (δ) potency, Lament-aligned, held at SECTOR-C-922. It expands and does not breach, and its formation event is not in the archive.
 
 | Field | Canonical record |
 |---|---|
@@ -32,8 +32,8 @@ Not recorded Not recorded
 |---|---|
 | Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
 | Pugnahan | N/A (—) |
-| Viderehan | Permits study; the lament pressure becomes legible under sustained observation. (Decrease) |
-| Ferrehan | Recognizes patience; the lament pressure settles gradually under sustained presence. (Decrease) |
+| Viderehan | Walk the shift and log the thinning as it comes; the order in which the air gives way is legible, and it is the only reading the hazard offers. (Decrease) |
+| Ferrehan | Stay the full shift without shortening it; the pressure settles around a party that keeps to the marked pace. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-1043 -->

@@ -33,7 +33,7 @@ Dead Air's Veil is the suit record of the Dead Air set — γ-grade, Weight-alig
 
 ## ITEM-SPECIFIC HISTORY — *The Dead Air Source-Trace: Suit Record*
 
-The first Dead Air's Veil field bearer encountered this source response: Recognizes patience; the weight pressure settles gradually under sustained presence. The suit contains the immediate hazard only after the team attributed it to Dead Air. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dead Air's Veil field bearer encountered this source response: Hold the corridor for the full cycle without opening a room to check it; the pressure settles around a party that leaves the doors as it found them. The suit contains the immediate hazard only after the team attributed it to Dead Air. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 

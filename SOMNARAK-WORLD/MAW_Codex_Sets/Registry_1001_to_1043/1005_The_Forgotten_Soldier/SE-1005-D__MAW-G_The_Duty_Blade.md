@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The The Forgotten Soldier Source-Trace: Stigma Record*
 
-The first The Duty Blade field bearer encountered this source response: Stands at attention and permits study of his armor and era. The stigma interrupts the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Duty Blade field bearer encountered this source response: It stands at attention and lets the plate be read: heraldry, era, and the order it is still keeping are legible at a glance, and it acknowledges nobody while they are read. The stigma interrupts the immediate hazard only after the team attributed it to The Forgotten Soldier. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
