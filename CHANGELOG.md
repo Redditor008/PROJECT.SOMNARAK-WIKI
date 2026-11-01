@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Four hours and an absence (2026-11-01)
+
+Nineteenth batch. Four conversions, two keepers, and one dangling cross-reference caught by the linter for the first time.
+
+- **Allhallow** (`O-IIIγ-916`) — an hour that descends on the Desolate border while people who look like the dead walk the perimeter. They do not speak and they do not stop. The work is a count from two posts, and the injury is recognition: of nineteen logged cases, fourteen believed they had identified a walker, and every one of the fourteen was on the near column.
+- **Once Upon** (`O-IIIγ-920`) — an hour in which the district's forgotten stories become briefly real. Characters walk the streets and do not touch anybody. The gauge falls in proportion to how many tellers are *named aloud*, across all ninety-four hours on file.
+- **Weighted Silence** (`O-IIIγ-924`) — a fifty-metre circle where sound is absent. Nothing is subdued, and the file says so twice; what it takes is the writing, which comes back shorter and flatter the longer the watch runs. Containment is a radius matching its markers to within half a metre.
+- **Tower Erased Overnight** (`O-IIβ-677`) — a tower-shaped absence in Old Lament. One row reads like a blow and is weather: a block of the vanished building appears in mid-air and falls, from a height nothing is holding it at, onto whoever is standing under it. The response is hard cover and a survey, not a challenge.
+
+**The keepers.** **Myrmidon** (`O-IIβ-235`) — two selves in one stationary figure, and the pull lands: a violent spiritual yank, then a further pull that leaves a worker hanging by a thread. **Feu Follet** (`O-IIβ-301`) — a melting flame that never moves, whose `The Wax Whip` is a stream of liquid fire that lashes out and burns and freezes at once.
+
+**A new kind of residue.** `O-IIβ-677` carried a line reading *See Combat Record for engagement history* in its own closing layer, and a second paragraph telling the reader to check the Combat Record before acting. Both survived the splice and `section_logic` caught the first. A sweep of all 114 previously converted files found no others — but the check is now part of the conversion, not something to be discovered afterwards.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `seam_lint` 0 · `timeline_lint` 0 · `label_lint` 0 · `check_links` 0 broken. **One hundred and thirty Contact Records.**
+
 ## Three that never reach, and three that can (2026-11-01)
 
 Eighteenth batch. The queue is thinning and the judgements are getting finer, which is why this one is split.

@@ -44,6 +44,8 @@
 - Extraction of M.A.W. here is its own authorised event and is never attached to a good cycle as a reward. What comes out is a fragment of a comfort that went wrong. The pieces do not all provide warmth: separation, protection and brief emotional comfort have distinct functions and distinct costs, recorded in the equipment file.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The core never moves, and the record says so twice — but `The Wax Whip` is a stream of liquid fire that lashes out and burns and freezes at the same moment, which is a reach and a strike. What travels is the perception of the flame, and what arrives at a worker under provocation is a lash.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

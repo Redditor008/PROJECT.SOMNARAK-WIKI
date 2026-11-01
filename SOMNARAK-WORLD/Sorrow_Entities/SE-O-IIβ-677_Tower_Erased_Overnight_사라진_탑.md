@@ -43,51 +43,36 @@
 - The 12–18 Han-Energy yield is ordinary for the band and the exposure is almost entirely psychological. Nothing here presses on the body. What presses is the sense of having arrived too late to be told something, and it does not announce itself as pressure at all.
 - Extraction from an absence is awkward work with a small, strange yield, and every piece in this set is defined by what is missing from it rather than by what it does. One rotation per wielder, no exceptions.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge. There is nothing present to apply force to and the figures have never been tested; they are carried from the Object/Place schedule and the wing has asked twice for them to be struck. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed at the cleared plot… the absence does not travel*, and the file's own account of its worst event is that the street is untouched. What falls from a structure that is not there is a stone falling, under gravity, from a height that is not occupied — not a thing thrown at anybody.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A cleared plot in Old Lament with a tower-shaped absence standing in it: a shadow on the ground pointing nowhere, a pit deep and square and exactly the building's footprint, and a lean in the adjacent faces that the street has always had. |
+| **Perceptible to** | The shadow first, enormous and dark and pointed at whoever walks into it; then the pit drawing at everything nearby; then the tense — a worker who begins talking about the tower in the present tense has already failed. |
+| **Handling** | Memorialize what vanished and do not rebuild over the absence. Nothing is driven, planted or pegged inside the footprint; the three occasions on record are all surveyor's pegs. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Old Lament — ambient |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the rooms and the people who were removed; Ferrehan is standing in the missing tower's shadow, which the file notes amounts to standing in a street and has stopped pretending otherwise. |
+| **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Memorialize what vanished; do not rebuild over the absence |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Missing Spire* [**Debuff**] } | "The tower is gone — but its shadow, cast on the ground, is still there — enormous, dark, and pointed at you." | [The Tower's phantom shadow marks the target; they feel the absent structure pressing.] | *Target suffers -10 Resilience; the vanished tower is heavy despite not existing.* **[10 Grudge DMG [Grudge]]** | When the target enters the shadow. |
-| { *The Void Foundation* [**Debuff**] } | "Where the tower stood, a pit — deep, square, perfectly tower-shaped — and the pit pulls at everything nearby." | [The Tower's absence creates a void that draws things in.] | *Target loses 10 Resilience; the ground is unstable.* **[10 Grudge DMG [Grudge]]** | When the target approaches the pit. |
-| { *The Phantom Stone* [**Attack**] } | "A stone from the vanished tower materializes mid-air and falls — from a structure that is not there." | [ A block of ghost-tower drops from above.] | *Inflicts Grudge pressure and one crushing wound from a stone that should not exist.* **[14-22 Grudge DMG [Grudge]]** | When the shadow is disturbed. |
-| { *The Full Return* [**Attack**] } | "It is there for the length of a held breath, nineteen floors of it, with the lights on." | [The building returns at full height and full occupancy, occupying the volume everything else has grown around.] | *24–36 Grudge and a 15% Gauge surge to anybody standing inside the footprint; the street is untouched.* **[24-36 Grudge DMG [Grudge]]** | When something is built, driven, or planted inside the footprint. Three occasions, all surveyor's pegs. |
-| { *The Vanished City* [**Ultimate**] } | "Every building on the street leans another degree in, and the gap between them closes to the width of a door." | [The lean the adjacent structures have always had becomes acute and the street becomes impassable.] | *12–20 Grudge per cycle for three cycles to anyone caught between the leaning faces.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, recorded once, during the Year 4,235 Sorrow Tide, with no lasting structural damage to any of the buildings involved. |
+| Event | What the absence does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Missing Spire* [**Register**] } | Casts a shadow on the ground from a structure that is not there, enormous, dark, and pointed at whoever walks into it. | Marks the shadow's edge and reads it against the plot survey before the footprint is entered. | The shadow is the register and it does not move with the sun the way a shadow should. That is the first thing a new observer is asked to check, and the answer has never once been the same two watches running. |
+| { *The Void Foundation* [**Exposure**] } | Opens a pit exactly the tower's shape and pulls at everything near its edge, so that the ground a worker is standing on reads as unstable without any of it moving. | Keeps to the plot's outer edge, and enters no depth reading as fact until it has been taken twice from opposite sides. | The pull is real and the ground is not moving. What the file measures is the discrepancy between the two readings, and a party that takes one reading and acts on it is the failure this row describes. |
+| { *The Phantom Stone* [**Refusal**] } | Materializes a block of the vanished tower in mid-air and lets it fall — from a height nothing is holding it at, onto whoever is standing under it. | Keeps out from under the shadow, wears a hard cover inside the plot, and treats a strike as a falling object: cleared, dressed, and the block's landing point surveyed. | This is the row that reads as a blow and is weather. Nothing lifts the stone and nothing aims it; it appears and it drops, which is why the response is cover and a survey rather than a challenge — and why the stones are never found afterwards. |
+| { *The Full Return* [**Overload**] } | Puts nineteen floors back for the length of a held breath, with the lights on, occupying the volume the street has grown around — and the street is untouched when it goes. | Withdraws to the plot edge, does not enter the returned volume, and records the peg or the build that preceded it. | Three occasions, all surveyor's pegs. The failure here is a decision made in the paperwork rather than a visit, which is why the prohibition is worded against rebuilding and not against looking. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team takes the three marked sighting positions on the street, measures the volume from each, and walks the footprint to confirm nothing new is standing in it. Nobody enters the footprint afterward for the rest of the watch.
-2. **Clash:** Sixteen turns, Viderehan and Ferrehan only, worked from the street line and never from within the footprint. The volume is sighted and recorded; nothing is placed inside it, including instruments on stands, which are set outside the perimeter and read across.
-3. **Resolution:** The list is read and the plot is left empty. There is no other close to a cycle here and no cycle has ever ended any other way; the wing's own description of this holding's management is that it is not management but observance.
+1. **What is confirmed:** the shadow's edge against the plot survey, the two depth readings from opposite sides, and the absence of any peg, drive or planting inside the footprint.
+2. **What the watch does:** Viderehan for the rooms and the people who were removed and Ferrehan for standing in the shadow, with nothing rebuilt over the absence and the tense of every report checked.
+3. **How it closes:** the close is the file's documented condition: **Memorialize what vanished; do not rebuild over the absence** — and a worker who begins speaking of the tower in the present tense has already failed.
 
 ### Consequences
 
@@ -380,7 +365,7 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 - One trigger only: something placed inside the footprint. Remove it, record who authorised it, read the list.
 **Observation Notes:**
 - A lawful demolition schedule with a completed consultation line and an occupancy column filled in from the previous quarter.
-- See Combat Record for engagement history.
+- See Contact Record for the sightings on file; there is no engagement history to see.
 - Three pieces, each missing something; the cost is that wielders stop finishing sentences and a colleague notices first.
 **Cross-References:** The Whispering Walls and The Burning Library (both credited in the memorial list), Pandora's Jar (closed), the Year 4,235 Sorrow Tide reading, and the four lodged development proposals.
 **Faction Involvement:** SED (B-territory exploration)
@@ -388,7 +373,7 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any entry, and then consider what the suppression condition actually commits this facility to. Memorialise what vanished; do not rebuild over the absence. The second half makes the holding a permanent refusal: a cleared plot in a restructured district, serviced by road, surrounded by buildings that are themselves the product of the restructuring, which the wing is required to keep empty for as long as the entity exists. Four development proposals have been lodged over the footprint and all four have been objected to. None of the objectors has been able to state the ground in terms the planning process recognises, and the objections have therefore been sustained on containment authority, which is a blunt instrument and is resented. The first half is no easier. Memorialisation means a list of names and what each of them had not finished saying, and the second column of that list is mostly empty because nobody who could fill it survived the schedule. The wing maintains it anyway. Where the entity contradicts this record, trust the entity and preserve the contradiction.
+**Operational interpretation:** Read this layer against the classification, the Contact Record and the equipment profile before acting on any entry, and then consider what the suppression condition actually commits this facility to. Memorialise what vanished; do not rebuild over the absence. The second half makes the holding a permanent refusal: a cleared plot in a restructured district, serviced by road, surrounded by buildings that are themselves the product of the restructuring, which the wing is required to keep empty for as long as the entity exists. Four development proposals have been lodged over the footprint and all four have been objected to. None of the objectors has been able to state the ground in terms the planning process recognises, and the objections have therefore been sustained on containment authority, which is a blunt instrument and is resented. The first half is no easier. Memorialisation means a list of names and what each of them had not finished saying, and the second column of that list is mostly empty because nobody who could fill it survived the schedule. The wing maintains it anyway. Where the entity contradicts this record, trust the entity and preserve the contradiction.
 
 **Review requirement:** After any activation, Sorrow Tide, Ordeal or unusual interaction, re-verify the gauge, the exposure log, the sighted volume and the state of the adjacent buildings before work resumes. Three further items apply here. The footprint is inspected for new structures, pegs, hoardings or stored material, and anything found is removed and recorded with the name of whoever authorised its placement. The planning register is checked for lodged applications over the site. And the memorial list is read at the perimeter at the close of each cycle, aloud, names and unfinished business together — a practice that takes four minutes, has never been shortened, and is the only part of this holding's procedure that personnel have asked to keep when rotating off.
 ## Watch Record

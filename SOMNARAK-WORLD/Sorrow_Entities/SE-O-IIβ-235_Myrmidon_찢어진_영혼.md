@@ -44,6 +44,8 @@
 - Taking M.A.W. stock is an authorised event of its own and never a reward for a clean cycle. What comes away here is a piece of a loyalty that tore, and the pieces behave the way it did: they serve well, they serve faithfully, and they never name what they serve.
 
 ## Combat Record
+> **Why this file keeps combat actions.** The two selves pull, and the pull lands: the file describes a violent spiritual yank that wrenches the target, and a further pull that leaves them hanging by a thread. Nothing here reaches with a body, but something arrives at a person and takes hold of it, and a file that records a severing is a file with a blow in it.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

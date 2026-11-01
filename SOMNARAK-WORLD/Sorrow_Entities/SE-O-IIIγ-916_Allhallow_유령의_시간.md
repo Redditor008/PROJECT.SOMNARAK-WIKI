@@ -43,51 +43,36 @@
 - Han-Energy comes off the two post-hours and is booked against the exposure those posts carry to earn it.
 - Extraction is done in the interval between hours, never during one and never inside the walked line. The line itself is surveyed and posted; the equipment record names the post number on every entry.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Lament pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
-| **Han Pressure [ATK]** | 17–27 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed border event — the figures walk the perimeter; expansion lengthens their route rather than moving the hour to a new site*, and the file's own instruction is the whole of the method: count, and do not approach. The dead do not speak, do not stop, and have never turned toward the living in thirty-four occurrences.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major phantasmal/time hazard; not a Sovereign classification |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | An hour that descends without warning on the Desolate border, during which people who look like the dead walk the perimeter. They do not speak and they do not stop, and at sixty minutes from the first walker they are gone. |
+| **Perceptible to** | The hour itself and the figures on it; then the pressure, which settles on whoever is standing at the line rather than on whoever the walkers are. The only measurable thing is the count, taken from two posts. |
+| **Handling** | Count, and do not approach. Observation is the tally; endurance is standing the full sixty minutes at a line you may not cross while the dead walk past it. The gauge moves when the counts are reconciled and for nothing that happens to the walkers. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-O-916 |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the phantasmal pressure legible under sustained observation and is the tally itself; Ferrehan is standing the full hour at the line, and the gauge answers to patience rather than to insight. |
+| **Location** | SECTOR-O-916, contained |
 | **Resolution Condition** | The hour ends. It ends at sixty minutes from the first walker, every time, across thirty-four occurrences; the holding is closed out when both counts are in and the difference between them is recorded. Nothing has ever shortened an hour and nothing has ever extended one. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It begins as a whisper in the lament." | [The entity's phantasmal pressure settles over the target.] | *Target feels the weight of lament sorrow.* **[10 Lament DMG [Lament]]** | When the entity first fixes on a target. |
-| { *The Phantasmal Surge* [**Attack**] } | "The sorrow sharpens into something you can feel." | [A concentrated burst of lament phantasmal sorrow.] | *Lament damage strikes the target; the gauge spikes.* **[21 Lament DMG [Lament]]** | When the entity is provoked or denied. |
-| { *The Settling* [**Attack**] } | "All at once, the pressure concentrates." | [The entity focuses its full lament weight on one point.] | *A devastating Lament strike; the target's Sorrow Gauge surges.* **[27 Lament DMG [Lament]]** | When the entity is cornered or starved. |
-| { *The Phantasmal Collapse* [**Ultimate**] } | "The phantasmal breaks — and everything it held comes loose." | [The entity's full lament sorrow unleashed in every direction.] | *All personnel suffer Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the hour does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Settles on the border as the hour opens, and the first walker is the mark from which the sixty minutes are counted. | Posts the two counters at the line on separate cycles, and starts the clock at the first walker rather than at the first report. | The hour has one unit and it is the walk. Nothing anywhere on the record gives it a schedule, which is why the clock starts at a body crossing a line and not at a time of day. |
+| { *The Phantasmal Surge* [**Exposure**] } | Sharpens into something the post can feel, and the pressure is heaviest for the counter who can read faces. | Rotates the near column and the far column on separate cycles, and takes the count from whichever post is fresh. | Of nineteen logged cases, fourteen are Wardens who believed they had identified a walker, and every one of the fourteen was on the near column. The rotation exists because recognition, not proximity, is the injury. |
+| { *The Settling* [**Refusal**] } | Concentrates its whole weight on one point at the line and stays there while the walkers continue past it. | Does not approach, does not speak to a walker and does not attempt contact, and holds the post until the hour closes. | Thirty-four occurrences and not one attempt at contact. The prohibition is among the oldest instructions the wing holds, and the refusal is the observation: a counter who leaves the line stops being able to see what they were sent to count. |
+| { *The Phantasmal Collapse* [**Overload**] } | Lets go of everything it was holding in every direction at once, at the end of the hour, as the walkers vanish. | Takes both counts before the release, reconciles them, and records the difference rather than explaining it. | A veteran counter returns a lower figure than a fresh one for the same hour, every time — which is the file's whole reason for two posts. The difference between the columns is the reading, and it is recorded even when it is zero. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The hour identifies itself — sixty minutes exactly, first walker to last, thirty-four times running, none shorter and none longer. The wing holds no more regular figure, and this posting is built on it. The approach is confirmed and the position is taken before anything else is attempted.
-2. **Clash:** The posts work their tallies with the set drawn only at the line, while the column does what it has done in every hour on record.
-3. **Resolution:** The hour runs out at its sixtieth minute, the last walker is gone, and the border reopens; the two posts turn in their tallies uncompared, and any difference between them is entered as a difference and left standing. The sitting is filed on the documented suppression condition: **Both posts hand in their tallies without conferring, and the difference is written down as a difference**.
+1. **What is confirmed:** the first walker and the clock started from them, the two counter posts on separate rotation, and the line that will not be crossed.
+2. **What the watch does:** Viderehan as the tally and Ferrehan as the full sixty minutes stood at the line, with no approach, no speech and no contact attempted.
+3. **How it closes:** the close is the file's documented condition: **The hour ends** — at sixty minutes from the first walker, every time, with both counts in and the difference between them recorded.
 
 ### Consequences
 

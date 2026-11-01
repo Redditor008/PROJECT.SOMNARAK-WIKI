@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Tale |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-O-920, contained |
-| Gauge / Pressure | 520/520; starts 35–50% / 17–26 per hit · Lament |
+| Gauge / Pressure | 520/520; starts 35–50% / Lament — no attack pattern; the register page and the tellers named aloud are the instrument |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

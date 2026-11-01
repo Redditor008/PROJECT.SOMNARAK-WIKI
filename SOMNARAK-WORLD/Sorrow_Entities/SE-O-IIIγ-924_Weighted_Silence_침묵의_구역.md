@@ -43,51 +43,36 @@
 - Han-Energy comes out of the sighting hours and is entered against the exposure the boundary watch took to earn them.
 - Extraction happens at the line, with the piece drawn outward across it. Twice a piece went the other way: nothing was destroyed and nothing was recovered — the slate inventory taken ninety seconds later simply had one fewer entry.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Void pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 |
-| **Han Pressure [ATK]** | 17–24 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the silence spreads across the district and no transformed body is documented*, and the resolution row states the whole of the containment policy: nothing is subdued, and nothing ever has been. What the circle does to a person is slow their hand.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Major absence/boundary hazard; not a Sovereign classification |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A fifty-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel inside report that the silence has weight, texture and intent, and the file records that report and does not adopt it. |
+| **Perceptible to** | One foot past the boundary, a worker's own voice reaching one ear and not the other; then the writing, which slows in the hand and comes back shorter, flatter and less exact the longer the watch runs. |
+| **Handling** | Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighting closes when the radius matches its markers to within half a metre. |
+| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-O-924 |
+| **Valid Work Types** | Viderehan and Ferrehan only, both run from outside the line. Viderehan is the sighting itself; Ferrehan is standing the full survey in the Desolate's weather. The gauge answers to patience here and never to insight. |
+| **Location** | SECTOR-O-924, contained |
 | **Resolution Condition** | The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre. Containment here is a measurement, not a suppression — nothing is subdued, and the file is explicit that nothing ever has been. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "One foot past the boundary, and your own voice reaches one ear and not the other." | [The absence closes on the side the target is listening with.] | *The target's own voice stops arriving; what is left is the weight of it.* **[10 Void DMG [Void]]** | When a person crosses the line and speaks. |
-| { *The Void Surge* [**Attack**] } | "The quiet turns into a pressure you can feel on the skin." | [Fifty metres of silence folded inward toward one person.] | *The pressure lands and the gauge spikes.* **[21 Void DMG [Void]]** | When the entity is provoked while the chain is being drawn. |
-| { *The Settling* [**Attack**] } | "Without warning the pressure settles on a single point and stays there." | [The entity leans its entire weight on that point.] | *A heavy Void strike; the target's Sorrow Gauge surges.* **[24 Void DMG [Void]]** | When the entity is cornered or the circle is left unattended. |
-| { *The Void Collapse* [**Ultimate**] } | "The silence lets go of everything it had been holding." | [The entire absence released outward at once.] | *Every person inside the line takes Void erosion over the following three turns.* **[23 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the absence does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Closes on the side the worker is listening from, so that one foot past the boundary their own voice arrives in one ear and not the other. | Takes the bearing of the line before anybody steps up to it, and reads the radius against the markers rather than by eye. | The first reading of this holding was so poor that the report was returned with an instruction to write it again, and both versions are filed. The second is the one the containment was built from, and the tolerance of half a metre comes from it. |
+| { *The Void Surge* [**Exposure**] | Folds fifty metres of silence inward toward one person, and the pressure lands on the skin as a weight rather than as a sound. | Stays outside the line for the whole survey, and takes the time of every exit in minutes rather than in what the minutes held. | Composure drops in proportion to the minutes spent past the line, whatever those minutes held. Nine of the eleven logged cases describe exactly one thing afterwards: no way to tell how loudly they had been speaking. |
+| { *The Settling* [**Refusal**] } | Puts the whole weight on a single point without warning and leaves it there, waiting to be answered. There is nothing in the circle that can be answered: the file's instruction is that nothing is subdued here. | Does not press into the circle to find the point, and does not raise a voice to test it — the survey continues from the markers. | Nothing here presses on a worker and nothing lingers in the body. What it takes is the writing, which is why every reading in this file is judged by its exactness and not by its length. |
+| { *The Void Collapse* [**Overload**] } | Lets go of everything the absence had been holding, outward, at once — every person inside the line at the moment of release. | Clears the circle, closes the sighting, and holds the markers until the radius reads back to tolerance at the next survey. | The release is the expansion and the expansion is the only escalation this holding has. The annual sighting is therefore the whole of the work: a radius that matches its markers is a containment, and a radius that does not is the entire warning. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The edge is walked before anything else — it is abrupt, with no gradation, and every account reports the same first test: one foot across, and a person's own voice arrives at one ear and not the other. The table settles the designation, the sighting positions are taken, and only then does the cycle open.
-2. **Clash:** The watch runs its two valid approaches with the set drawn only at the line, while the circle does nothing it has not done for seventeen years.
-3. **Resolution:** The party comes back over the line, counts heads, and lays the slates side by side. Nothing comes out behind them, and the circle has never once been seen to shrink; a sitting ends because the team says it has ended — the line that shows up most often in the responders' own returns. The file closes on the documented suppression condition: **sight the edge from the markers and never send a body past them for a reading**.
+1. **What is confirmed:** the markers and the radius read against them, the sighting tolerance of half a metre, and every exit timed in minutes past the line.
+2. **What the watch does:** Viderehan for the sighting and Ferrehan for the full survey stood in the Desolate's weather, both from outside the line, with nothing pressed into the circle.
+3. **How it closes:** the close is the file's documented condition: **The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre** — containment as a measurement, not a suppression.
 
 ### Consequences
 
