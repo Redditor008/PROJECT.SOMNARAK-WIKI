@@ -43,51 +43,36 @@
 - The exposure risk is not injury. In eleven years this holding has caused no wound of any kind; what it has caused is 61 minutes during which 200 metres of facility contained people who could not have told you their own names.
 - Extraction here requires the Director's signature, which has been given twice. Both pieces were taken from the edge of the radius during the minute itself by a mechanism on a timer, with nobody within 200 metres, and the Armoury has described the procedure as the most expensive way the facility has ever acquired two objects.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Void. The second figure is carried from the schedule and is untestable: there is nothing present to strike, and the only physical object at the epicentre is a chair that has been there since before the holding was recognised. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 496/496 |
-| **Han Pressure [ATK]** | 14–26 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the radius is the thing that moves. Nobody inside it is ever selected, graded or spared — the file calls that the holding's one mercy — and the resistance line says in terms that there is nothing present to strike.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Moderate temporal/identity hazard; not a Sovereign classification |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A timed absence rather than an invisible body. There is no silhouette, voice or skin to describe; during the minute, at the epicentre, there is a chair, and a radius around it that begins at 140 metres and now stands at 200. |
+| **Perceptible to** | The intention first: at 1158 a worker stops being able to say what they were about to do, and the name and face go at 1159. The clocks do not mark the day in advance, and the radius is surveyed at its edge after the occurrence. |
+| **Handling** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 496/496 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-O-914 |
-| **Resolution Condition** | The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person; it has never failed to close, and it has twice taken until 1240. |
+| **Valid Work Types** | Viderehan and Ferrehan only, both performed from the line, which amounts to standing there with the board and the clocks. The table cannot hold the variable that matters, and the file keeps it separately: whether anybody crosses. |
+| **Location** | SECTOR-O-914, contained |
+| **Resolution Condition** | The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "At 1158 you stop being able to say what you were about to do." | [The approach is a one-minute warning and is the only warning there is.] | *10 Void to anyone inside the radius; intention goes first, name and face follow at 1159.* **[10 Void DMG [Void]]** | At 1158 on a day the clocks do not mark in advance. |
-| { *The Void Surge* [**Attack**] } | "Somebody inside says your name to you, and you hear it as a word." | [Being told who you are during the minute does not restore the name and costs the holding's boundary instead.] | *18 Void to the person told, and the radius widens 9–14 metres permanently.* **[18 Void DMG [Void]]** | Four occasions, all of them someone trying to help a colleague. |
-| { *The Settling* [**Attack**] } | "The chair at the epicentre is occupied, and at 1200 nobody comes out of it." | [The one position inside the radius from which the minute does not end on time.] | *26 Void. Recorded once, in Year 4,228; the occupant was recovered at 1207 and could not account for the seven minutes, which no clock recorded as having passed.* **[26 Void DMG [Void]]** | When anybody sits in the chair. Nobody is permitted to. |
-| { *The Void Collapse* [**Ultimate**] } | "The minute does not stop at 1200 and the corridor outside the line begins to forget as well." | [The radius expands through the cordon while the minute is still running.] | *20 Void per cycle for three cycles to everyone in the expanded area.* **[20 Void DMG [Void] (AoE, x3 turns)]** | Above 65%, which has happened once, during the Year 4,231 Sorrow Tide, and lasted four minutes by the clocks and one by every account from inside. |
+| Event | What the minute does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Takes the worker's intention at 1158, so that they cannot say what they were about to do; the name and the face follow at 1159. It is the only warning and it arrives on a day the clocks do not mark in advance. | Puts the roll call on the board before 1158, clocks at the line, and takes the head count rather than an account from anybody who was inside. | The record is the roll call and not the testimony. Fifty-seven of the sixty-one minutes have run without anybody crossing, and the four that did are the whole of the file's failure record. |
+| { *The Void Surge* [**Contagion**] } | Widens the radius by nine to fourteen metres, permanently, whenever somebody inside is told their own name during the minute — told does not restore it and costs the holding its boundary instead. | Forbids naming anybody inside the radius, on four recorded occasions all of them somebody trying to help a colleague, and surveys the edge afterwards rather than during. | Of the sixty metres added since Year 4226, forty-seven were added on the days somebody said a name. The instruction is in the file because the intention behind it was good and the result was a wider radius. |
+| { *The Settling* [**Attachment**] } | Leaves the minute running for the one position at the epicentre — the chair — and the occupant is not out at 1200. Recorded once, in Year 4228; the occupant was recovered at 1207 and could not account for the seven minutes. | Keeps the chair empty at every gauge and records the position as occupied when it is not, so that the next watch reads the plan and not the room. | Nobody is permitted to sit in it. The seven minutes were recorded by no clock, which is why the chair is marked on the plan rather than watched by a person. |
+| { *The Void Collapse* [**Overload**] } | Lets the minute run past 1200 and the radius expand through the cordon while it is still running, so that the corridor outside the line begins to forget as well. | Expands the roll call to the new edge, re-surveys the radius after the occurrence, and enters the added metres as permanent. | Above sixty-five per cent once, during the Year 4231 Sorrow Tide: four minutes by the clocks and one by every account from inside. The clocks hold the close and nothing else on this holding does. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The line is confirmed at 200 metres from the epicentre and walked by two wardens in opposite directions. Everyone who will be near it writes their own name on their forearm in grease pencil before the watch begins. It is a crude measure and it is the one that works.
-2. **Clash:** There is none and the wing has asked for the row to be struck. The team stands at the line and the minute runs. Nobody approaches, nothing is deployed, and the only decision available is whether to go in after somebody, which the standing order forbids.
-3. **Resolution:** 1200, then the roll call. Names off the board, people matched to them, forearms read where a person cannot answer. Median time to complete is nine minutes; the two long ones were both a worker who had sweated the pencil off. It closes against the documented suppression condition: **Names off the board, people matched to them, forearms read where a person cannot answer**.
+1. **What is confirmed:** the roll call on the board before 1158, the radius surveyed at its edge, and the chair marked occupied on the plan.
+2. **What the watch does:** Viderehan for the void pressure and Ferrehan for standing the line, with nobody named aloud inside the radius, nobody crossing at any gauge, and the roll call completed from the line at 1200.
+3. **How it closes:** the close is the file's documented condition: **The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person** — and it has never failed to close, which is the one sentence in this file that is reassuring.
 
 ### Consequences
 

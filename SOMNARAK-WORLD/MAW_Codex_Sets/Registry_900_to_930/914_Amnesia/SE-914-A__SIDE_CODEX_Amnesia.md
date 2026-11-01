@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Void |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void / SECTOR-O-914, contained |
-| Gauge / Pressure | 496/496; starts 35–50% / 14–26 per hit · Void |
+| Gauge / Pressure | 496/496; starts 35–50% / Void — no attack pattern; the roll call completed at the line and the surveyed radius are the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the void pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-914 -->
+**Resolution:** The minute ends by itself at 1200 and the roll call is completed at the line; the cycle closes when every name on the board has been matched to a person. <!-- SE-914 -->
 
 ## WITNESS RECORD — *The Amnesia Source-Trace*
 

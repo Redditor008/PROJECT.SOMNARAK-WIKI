@@ -44,51 +44,36 @@
 - The figures appear only at dusk and resume conversations that ended centuries ago. Work scheduled outside that window records no activity and no gauge movement.
 - Yield is available only during the dusk manifestation, which caps extraction at one cycle per day regardless of staffing.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight pressure; 21% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 410/410 |
-| **Han Pressure [ATK]** | 14–21 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the hall's expansion is counted in chairs rather than in metres. Nobody is selected by it: the first measurable change is recorded at the empty chairs along the north wall, which begin to read as occupied, and the seating follows the plan rather than the people.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Moderate place/spirit hazard; not a Sovereign classification |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A seated hall of forty-or-so stone figures in their groups, a ring of chairs at dusk light that has not moved through the lattice since the hour began, and one chair added to the ring when an interval goes uninterrupted. Expansion is measured in chairs: forty-four becomes fifty-one, then sixty-three, appearing along the corridor outside. |
+| **Perceptible to** | The weight first, arriving at the third exchange rather than at the door, and the gap in the ring turned to face whoever has entered. A worker's own surname may be spoken by one of the back three groups, and the weight redistributes onto that single chair. |
+| **Handling** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 410/410 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-910 |
-| **Resolution Condition** | The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned, not resolved, and reopens unchanged at the next dusk. |
+| **Valid Work Types** | Viderehan and Ferrehan only, and both work by being present without joining in. Viderehan makes the weight legible as a record of a dispute the worker is not party to; Ferrehan is sitting the interval without taking a turn in it. |
+| **Location** | SECTOR-N-910, contained |
+| **Resolution Condition** | The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Seat Offered* [**Debuff**] } | "A chair stands in the circle that was not in the circle when the hour began, and it is turned to face you." | [The hall adds one seat to the ring of forty-one and holds the gap open until it is filled.] | *The worker cannot cross the ring outward while the seat is empty; each refusal costs 10 Weight and one place in the closing order.* **[10 Weight DMG [Weight]]** | On the third exchange after a living person enters the hall. |
-| { *Your Turn in the Conversation* [**Attack**] } | "The hall stops. Forty-one faces hold still in the direction of your chair, waiting for the part of the sentence that belongs to you." | [The exchange passes to the living participant and does not pass on.] | *The worker loses 18 Weight and may take no action for one turn; the silence counts as a spoken turn and is recorded in the log as one.* **[18 Weight DMG [Weight]]** | When a worker speaks aloud inside the hall for any reason. |
-| { *The Household Named* [**Attack**] } | "One of the back three groups says a surname, and it is the surname on your personnel file." | [A household group claims the worker as one of its own and the hall's weight redistributes onto that single chair.] | *21 Weight to the named worker and nothing to anyone else in the room; the figure that named them does not rise at the hour's end.* **[21 Weight DMG [Weight]]** | When a worker's family register matches a household recorded in the seating plan. |
-| { *Dusk Held Open* [**Ultimate**] } | "The light through the lattice has not moved. It is the angle it had an hour ago, and it will be that angle in an hour." | [The interval refuses to close; the conversation begins again from the first exchange without anyone having risen.] | *Every worker inside the hall takes 20 Weight per cycle for three cycles and cannot be extracted until a closing order is completed in full.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | When the hour passes its recorded length by more than four minutes. |
+| Event | What the hall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Seat Offered* [**Register**] } | Adds one chair to the ring and holds the gap open, turned to face whoever has entered, until the third exchange has passed. The chair is added on the north wall and the ring widens outward into whatever room contains it. | Counts the chairs against the hall plan before entering, and enters the count again at the close against the same plan. | The count is the instrument and the room is the reading: an empty chair that reads as occupied is the first measurable change, and it happens before anybody has been reached by anything. |
+| { *Your Turn in the Conversation* [**Attachment**] } | Stops when a worker speaks aloud and holds forty-one faces still in their direction, waiting for the part of the sentence that belongs to them. Silence counts as a spoken turn and is entered in the log as one. | Keeps the party silent through the sitting, and records any turn taken as taken — including the ones the worker did not intend to take. | Nothing approaches and nothing is thrown. What the hall takes is a turn in a conversation the worker is not party to, which is why the whole method is being present without joining in. |
+| { *The Household Named* [**Exposure**] } | Lets one of the back three groups say a surname that matches a worker's family register, and the weight of the hall redistributes onto that single chair. | Checks the family registers of the party against the seating plan before the watch opens, and does not seat anybody whose household is recorded on it. | The figure that named them does not rise at the hour's end. That is the whole of what the file records about it — the weight moved onto one chair and stayed there, and the party is chosen accordingly. |
+| { *Dusk Held Open* [**Overload**] } | Refuses to close the interval: the light through the lattice is at the angle it had an hour ago, the conversation begins again from the first exchange, and nobody has risen. The seating takes in the corridor outside. | Ends the sitting on the precedence order rather than on the clock — the forty-four seats empty in the order on the hall plan — and logs a hall emptied by withdrawal as abandoned rather than closed. | A hall abandoned early is a hall that gained chairs. The close is the precedence order and nothing else, because the order is the only thing in the room that has ever finished. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The Warden on the door counts the chairs against the seating plan before anyone enters, confirms the figure count at forty-one, and fixes the worker's own seat in the outer ring where the closing order reaches it last. Weight pressure is read from the floor gauge at the threshold, not from inside the circle, because the reading inside the circle has never agreed with the one outside it.
-2. **Clash:** There is no clash in the ordinary sense. The worker sits the interval and the conversation proceeds around them; the whole of the engagement consists of not answering, not standing, and not crossing the ring while a seat is open. The only actions available to the team are the two logged by the Watch — attend, or withdraw before the third exchange.
-3. **Resolution:** The last figure rises and the hall returns to being a building. There is nothing to suppress and nothing to escort out; the team records the closing order, confirms the seats against the plan, and locks the door from the outside as the district requires. It closes against the documented suppression condition: **The last figure rises and the hall returns to being a building**.
+1. **What is confirmed:** the chair count against the hall plan, the family registers of everybody entering, and the precedence order the forty-four will empty in.
+2. **What the watch does:** Viderehan for the weight as a record and Ferrehan for the sitting without joining in, with nobody speaking aloud in the hall and no piece carried inside.
+3. **How it closes:** the close is the file's documented condition: **The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan** — and a hall emptied by personnel withdrawing early is logged as abandoned, and the chairs it gained are not lost.
 
 ### Consequences
 

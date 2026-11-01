@@ -43,51 +43,36 @@
 - The risk is bounded by a doorway. Outside it, in nine years, this holding has produced nothing at all; inside it, every single exposure has produced the same injury.
 - Three pieces exist and all three were taken between loops, in the 47-minute window, by a team working to a clock on the wall of the corridor. The Armoury's note records the margin they allowed themselves: eleven minutes, never less.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight. The second figure has no meaning here: the bay contains a moment and not an object, and the overturned table cannot be righted, moved, or touched, which has been attempted twice. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 426/426 |
-| **Han Pressure [ATK]** | 14–21 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the event section says no travelling soldier or transformed anatomy was ever recorded: the contraction extended the active boundary and nothing crossed it. The failure mode is a door opening, and the wing records that every person who opened one gave the same reason.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Moderate temporal/body hazard; not a Sovereign classification |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A body shown within a moment — the soldier, the overturned table, the falling light — held at the same instant in the same bay, on a loop that runs every forty-seven minutes and has not missed in nine years. It is a temporal scene, not a patient, and it is not available for ordinary treatment. |
+| **Perceptible to** | The air going heavy at forty-six minutes and the dust in it stopping; then the scream, which happens in the throat of whoever is inside and in the throats of nobody outside the doorway. Outside the doorway there is nothing at all. |
+| **Handling** | The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the discharge sheet. Two loops watched, the sheet completed, the discharge book signed for the day. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 426/426 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-O-911 |
-| **Resolution Condition** | Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229; nothing in the bay changes when it is signed, and it is signed anyway. |
+| **Valid Work Types** | Viderehan and Ferrehan only, both worked from the corridor. Viderehan makes the body pressure legible under sustained observation; Ferrehan is standing the interval at the line without opening the door, and the roster is built on the finding that the fall comes after the second loop and never after the first. |
+| **Location** | SECTOR-O-911, contained |
+| **Resolution Condition** | Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "At forty-six minutes the air in the bay goes heavy and the dust in it stops moving." | [The minute before the loop, which is the only warning and is reliable.] | *10 Weight to anyone inside; outside the doorway, nothing.* **[10 Weight DMG [Weight]]** | Every 47 minutes, without exception, for nine years. |
-| { *The Body Surge* [**Attack**] } | "The scream happens, and it happens in your own throat." | [Anyone in the bay at the loop experiences the soldier's scream as their own, including the breath before it.] | *18 Weight. All eleven exposed personnel reported afterward that they had screamed; none of them had made a sound.* **[18 Weight DMG [Weight]]** | On the loop, to anybody inside the doorway. |
-| { *The Settling* [**Attack**] } | "Someone stands where the soldier is standing." | [The one position in the bay that is already occupied.] | *21 Weight, and the worker is recovered with a wound they did not have and cannot keep — it closes within the hour and leaves nothing.* **[21 Weight DMG [Weight]]** | Twice. Both workers were medically examined for three days and both were found entirely unharmed. |
-| { *The Body Collapse* [**Ultimate**] } | "The loop runs short — forty-one minutes, then thirty-six — and the corridor begins to be inside it." | [The interval contracts and the bay's boundary advances to the first corridor junction.] | *20 Weight per cycle for three cycles to everyone in the corridor.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once, in Year 4,233; the interval returned to 47 minutes within a day and has held since. |
+| Event | What the loop does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Runs the minute before the loop at forty-six, the air goes heavy and the dust stops moving, and the warning is the only one there is and has never been wrong. | Reads the clock from the corridor, marks the hour of the warning, and confirms the second loop against the sheet before anybody is posted forward. | Six hundred and eleven cycles with the fall after the second loop and never after the first. The roster is built on that and not on the gauge, because the interval is the only thing here that has kept its word. |
+| { *The Body Surge* [**Exposure**] } | Puts the scream in the throat of anyone inside the bay at the loop, breath and all, and all eleven exposed personnel reported afterwards that they had screamed — none of them had made a sound. | Counts heads against the doorway, and records every exposed worker by name for the medical sheet regardless of what they report. | Nothing reaches the corridor. What the loop takes is the difference between the worker's report and the room's account, which is why the sheet is completed by the watch and not by the worker. |
+| { *The Settling* [**Contagion**] } | Puts a worker in the one position in the bay that is already occupied, twice on record; both were recovered with a wound they did not have and could not keep, and both were examined for three days and found entirely unharmed. | Records the position, recovers the worker at the door rather than at the scene, and files the examination whether or not a wound is present. | The wound closes within the hour and leaves nothing. The file keeps both examinations in full, which is what lets it say the harm was in the recovery and not in the body. |
+| { *The Body Collapse* [**Overload**] } | Runs short — forty-one minutes, then thirty-six — and the corridor begins to be inside the loop, holding the bay's boundary at the first junction. | Reads the interval against the forty-seven and closes the corridor on the first short loop rather than on the boundary mark. | Above sixty-five per cent once, in Year 4233; the interval returned to forty-seven within a day and has held since. The short loop is the reading, and the corridor is cleared on the figure rather than on the sight of it. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team checks the corridor clock against the bay's last recorded loop, confirms the door is latched, and takes position at the window. Nobody enters the bay for any reason during a cycle and the door key is held by a second person outside the corridor.
-2. **Clash:** None. The wing has asked twice for the row to be removed. The loop does not respond to anything, cannot be engaged, and has never varied in content: the same scream, the same table, the same light, 611 times.
-3. **Resolution:** The second loop ends, the sheet is completed, and the discharge book is signed. The gauge falls after the second loop and not the first, consistently, which nobody has explained and which the roster is built around. It closes against the documented suppression condition: **The gauge falls after the second loop and not the first**.
+1. **What is confirmed:** the interval against the forty-seven-minute record, the head count on the corridor side of the doorway, and the discharge sheet open before the first loop.
+2. **What the watch does:** Viderehan for the body pressure and Ferrehan for standing the interval at the line, with two loops watched, nobody through the doorway, and the medical sheet completed for everybody who was inside.
+3. **How it closes:** the close is the file's documented condition: **Two loops watched, the sheet completed, and the discharge book signed for the day** — and the book is the close of every cycle, signed whether or not anything in the bay changed.
 
 ### Consequences
 

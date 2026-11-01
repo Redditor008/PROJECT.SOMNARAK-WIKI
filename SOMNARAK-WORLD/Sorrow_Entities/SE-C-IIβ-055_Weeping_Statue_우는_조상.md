@@ -44,51 +44,36 @@
 - Emotional pressure builds in whoever is present long before the gauge registers it, so crews come off on the clock and never on a reading. Three Wardens have asked to stay past the limit; all three were removed from the rotation, which is the rule and is not a sanction.
 - Collection of the hardened tears is a separate authorised task on a separate schedule, performed by the Keepers and never by the crew that worked the cycle. The two records are kept apart deliberately.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | 0 m/s — an artwork; it has never moved and there is no locomotion to state |
-| **Resistance** | 25% against Lament pressure, 15% against other pressure types — read at the pool's edge, since nothing here has ever been struck in anger and Pugnahan's nineteen logged attempts returned no response at all. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 394/394 |
-| **Han Pressure [ATK]** | 9–22 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the event section is steadier still: the statue does not move and has never attempted to, nothing hunts, nothing pursues, and nineteen recorded attempts to address it by force came back with identical outcomes. What it does is weep into a pool, and the pool is the event.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats weeping |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A wept figure on a pedestal at the Echo Gardens with stone tears running down its face and a grey stain spreading from the base. The face is described generically on purpose, because a precise description would be a description of whoever wrote it. |
+| **Perceptible to** | The stain line first, which is measured from the pedestal outward at every watch; then the cold, which arrives in waves over whoever is standing in the spread and finds that person's own grief rather than an imported one. |
+| **Handling** | Share the grief and keep to the clock. The rotation comes off on the clock and never on a reading, no tears are drained or destroyed, and a Warden who asks to stay past the limit is removed from the rotation rather than argued with. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 394/394 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
-| **Battlefield** | SECTOR-D-02, Echo Gardens — contained |
+| **Valid Work Types** | All four are available to a Subject. Flerehan weeps alongside the worker and is the only row the file describes as answered rather than tolerated; Pugnahan has no response of any kind and is logged nineteen times with identical outcomes; Viderehan reads the individual signatures in the tears and relieves the statue of nothing; Ferrehan is staying the full cycle, which slows the flow for some hours afterwards. |
+| **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Share the grief. Do not drain or destroy the tears |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Stone Tears* [**Debuff**] } | "Tears of grey stone run down its face — and they do not stop." | [The Statue weeps; the slow stone-tears pool at the target's feet.] | *Target suffers -10 Composure; the grief is heavy and still.* **[10 Lament DMG [Lament]]** | When the Statue is regarded. |
-| { *The Frozen Mourning* [**Debuff**] } | "Its sorrow is so old it has turned to stone — and now yours begins to harden too." | [The Statue's petrified grief spreads; the target feels themselves slowing.] | *Target loses 10 Composure; their movements stiffen.* **[10 Lament DMG [Lament]]** | When the target stands too long in its shadow. |
-| { *The Heavy Hand* [**Attack**] } | "A stone hand, raised in eternal grief, comes down." | [A slow, massive blow from a fist that has mourned for centuries.] | *Inflicts Lament pressure and one crushing, cold wound.* **[14-22 Lament DMG [Lament]]** | When the Statue is provoked. |
-| { *The Cracking* [**Attack**] } | "The stone cracks — and what comes out of it is what three generations were taught to hold." | [The Statue fractures along a tear track, releasing the grief it was made of.] | *A heavy Deep Blue rupture; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Statue is struck or damaged. |
-| { *The Monument* [**Ultimate**] } | "It plants itself and becomes what it was always going to be: a monument to a grief the city put on the books." | [The Statue settles into permanence and the pool advances outward, taking floor it will not give back.] | *All in range suffer Lament pressure for three turns as grief hardens.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the statue does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Stone Tears* [**Register**] } | Weeps grey stone that pools at the foot of the pedestal and does not stop, and the stain line moves outward between watches rather than during them. | Measures the stain line from the pedestal before anything else and enters it against the previous watch, with the pedestal, stain and designation as the identification. | The face is excluded from the identification on purpose. The stain line is the one reading that does not depend on who is writing it down. |
+| { *The Frozen Mourning* [**Exposure**] } | Sends cold grief over whoever stands in the spread, in waves, and finds each person's own sorrow rather than bringing any of its own; the movement of anybody standing in it stiffens, and the composure goes with it. | Keeps the party on the clock and off the spread, and removes a Warden who asks to stay rather than granting the extra hour. | Pressure builds in the people present well before the gauge registers it, which is why the clock and not the reading is what takes a crew off this holding. |
+| { *The Cracking* [**Refusal**] } | Does not answer force. It cannot be provoked, damaged or addressed by force, and remains where it stands while the pool advances. The one physical attempt recorded against it is in the file beside its nineteen identical outcomes. | Records the attempt against the worker and continues the watch, with the statue left alone and the pool measured rather than pushed back. | The refusal is the still figure: there is no version of this work in which striking it is a step, and the file says so with a count rather than an opinion. |
+| { *The Monument* [**Overload**] } | Settles into permanence at sixty-five per cent and lets the pool advance across floor it will not give back, so that every suppression permanently enlarges the holding. | Closes the spread at the marked line, clears the floor beyond it, and enters the enlarged stain line as the new baseline rather than as a temporary gain. | Nothing is answered and nothing is reclaimed: the pool does not recede after suppression, which is why the file records each escalation as a permanent change in extent. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification is pedestal, stain line and designation, and the face is excluded on purpose: the description on file is generic because a precise one would be a description of whoever wrote it. Measure the stain line first — it is the one figure on this holding that has never gone backwards — then set the approach and take positions at the pool's edge.
-2. **Clash:** Four turns. Personnel sit within the pool's edge and do not speak; the entity continues exactly as before. Nothing in the record describes it responding to a party as a party rather than to the people in it.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: **share the grief, and do not drain or break the tears**. A crew that leaves dry-eyed has not failed; a crew that drains the pool has.
+1. **What is confirmed:** the stain line from the pedestal to the marked floor edge, the rotation clock, and the names of the three Wardens who have asked to stay and been removed.
+2. **What the watch does:** Flerehan to weep alongside it and Ferrehan for staying the full cycle, with Viderehan reading the signatures and nobody attempting Pugnahan, the tears left undrained and the pedestal untouched.
+3. **How it closes:** the close is the file's documented condition: **Share the grief. Do not drain or destroy the tears** — and a watch that ended with the spread drained or the statue struck is entered as an escalation, whatever the gauge read at the close.
 
 ### Consequences
 

@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Place — Non-breaching: expansion only / Place-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-N-910, contained |
-| Gauge / Pressure | 410/410; starts 35–50% / 14–21 per hit · Weight |
+| Gauge / Pressure | 410/410; starts 35–50% / Weight — no attack pattern; the chair count against the hall plan is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-910 -->
+**Resolution:** The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned. <!-- SE-910 -->
 
 ## WITNESS RECORD — *The Moktak Source-Trace*
 

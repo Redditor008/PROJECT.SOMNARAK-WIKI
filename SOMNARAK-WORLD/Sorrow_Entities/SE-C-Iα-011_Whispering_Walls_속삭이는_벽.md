@@ -44,51 +44,36 @@
 - The file keeps no breach counter. The audible field widens instead, and because people live inside it the boundary is walked and marked before every rotation.
 - Residue is taken from the wall face under separate authorisation, never from a party wall, and never from a dwelling that is occupied.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15 per cent against Lament pressure and 5 against anything else — the lowest figures in the register, and they describe a site rather than a creature: nothing here pursues anybody, and what a crew holds against is the willingness to stand in a cold street listening. The gauge opens at 217 and trips at 45 per cent, and the file allows 4 turns in the mapped corridor. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 217/217 |
-| **Han Pressure [ATK]** | 3–9 per hit · Lament |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the expansion section says the site cannot be contained at all: it is managed by listening and by acknowledgement aloud, which is the only intervention ever observed to hold the boundary. There is no object here to strike and no reach to strike from — there is a wall run that whispers.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) — Barely formed, ambient |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A run of old plaster in Old Lament, and murals that continue into districts that do not whisper. The site is identified by the wall run against the boundary map rather than by any shape, because the shape of a whisper is not available to be looked at. |
+| **Perceptible to** | The overlap — hours, densities, the clustering of particular phrases — and, under it, the fact that some of what is said concerns the person hearing it. Children in the district are reported to hear it earlier than adults. |
+| **Handling** | Listen, and acknowledge aloud. Nothing is commanded to stop, no transcript is made of a single voice, and no attempt is made to open the fabric or treat the wall. The site is not contained and is not managed by force of any kind. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 217/217 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Old Lament — ambient, not contained |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan finds the pattern in the overlap without resolving any single voice; Ferrehan is staying inside the overlap while it closes around the worker and becomes a chorus, and it is the only approach that lowers the carry. |
+| **Location** | Zone B, Old Lament |
 | **Resolution Condition** | No physical containment; listening and acknowledgment prevent escalation |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Breath Behind the Plaster* [**Debuff**] } | "The wall exhales — and the breath carries words you almost understand." | [The Walls breathe out whispered fragments; the target catches them.] | *Target suffers -10 Composure; the walls are speaking to them.* **[10 Lament DMG [Lament]]** | When the target leans close. |
-| { *The Spread of Secrets* [**Debuff**] } | "The whispers multiply — wall to wall, room to room — and they are all about you." | [The whispers propagate; the target hears themselves discussed.] | *Target loses 10 Composure; privacy is impossible here.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Deafening Hush* [**Attack**] } | "The whispers stop — and the silence that follows is louder than any scream." | [A wall of oppressive silence strikes the target.] | *Inflicts Lament pressure and one wound of absolute quiet.* **[14-22 Lament DMG [Lament]]** | When the Walls are commanded to stop. |
-| { *The Spoken Aloud* [**Attack**] } | "The walls say the one thing you never wanted anyone to hear — clearly, at volume." | [A confidence the plaster has been holding comes back out of it at speaking volume, in the voice that gave it.] | *A heavy Deep Blue exposure; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Walls are struck. |
-| { *Every Wall Speaks* [**Ultimate**] } | "Now every surface in the building is whispering — and none of them are kind." | [The overlap widens past the marked line until the whole street is in a room full of people talking at once.] | *All in range suffer Lament pressure for three turns of relentless murmuring.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the walls do | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Breath Behind the Plaster* [**Register**] } | Breathe out whispered fragments that are almost understood, and the plaster gives them up to whoever leans close enough to listen. | Marks the wall run against the boundary map, records the hour and the phrase density, and keeps the watch on the pattern rather than on any one sentence. | The site is confirmed by where the murmur runs and not by what it says. A single phrase is not a reading — the overlap is — and that is the whole difference between this work and following one voice. |
+| { *The Spread of Secrets* [**Exposure**] } | Multiplies wall to wall and room to room until the worker hears themselves discussed, and long exposure leaves a worker who can hear the walls in districts that have never whispered. | Keeps the rotation short, records the site's boundary against the marked line, and does not send the same worker back to a wall run they have already heard. | The failure here is answering a particular voice. Three accounts on file describe personnel who spent an entire shift doing nothing else, which is why the watch is a pattern and never a conversation. |
+| { *The Deafening Hush* [**Refusal**] } | Goes silent when it is commanded to stop — and the silence is the louder thing, arriving without any wall having been touched. The site does not answer force; it answers acknowledgement, which is the only intervention recorded to hold the line. | Does not command it. The watch speaks the acknowledgement aloud, and no attempt is made to silence a wall run that is already inside the fabric. | Commanding the walls is the one action the file treats as a mistake in itself. The hush that follows is not compliance and it is not the end of the event; it is the event continuing quietly. |
+| { *Every Wall Speaks* [**Contagion**] } | Widens past the marked line along whatever is structurally connected, until the street is a room full of people talking at once, and the murmur travels on into the next district's fabric. | Re-marks the line at the new wall run, logs the newly affected dwellings and whether each is occupied, and records the trigger on the same sheet. | Reach along the fabric is measured in wall runs and dwellings rather than in metres, and it never crosses a break in the structure. Nothing is answered and nothing is chased; the line is simply redrawn where the murmur now reaches. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** What is checked is the site and not the shape: the wall run against the boundary map, since there is no object here to recognise and the murals continue on into districts that do not whisper. Positions are taken in the mapped corridor, out of earshot of occupied rooms, and the cycle opens from there.
-2. **Clash:** Four turns, worked at night in the mapped corridor, out of earshot of occupied rooms. Nothing is scraped, washed, or replastered at any point.
-3. **Resolution:** The cycle closes with the boundary walked, the murmur answered aloud where there is nobody to hear it, and nothing scraped, washed or replastered at any point. There is no containment to achieve: the boundary is painted on the street, the field crosses it in both directions, and 140 households sleep inside it — which is why the acknowledgment is the procedure and the plaster stays where it is.
+1. **What is confirmed:** the wall run against the boundary map, the hour and the phrase density, and which dwellings inside the new line are occupied.
+2. **What the watch does:** Viderehan for the pattern in the overlap and Ferrehan for staying inside it without answering any single voice, with the acknowledgement spoken aloud and no command given to the plaster.
+3. **How it closes:** the close is the file's documented condition: **No physical containment; listening and acknowledgment prevent escalation** — and a watch that ended with a voice answered or a wall silenced is entered as an escalation, because there is nothing here to contain and nothing to silence.
 
 ### Consequences
 
@@ -447,7 +432,7 @@ The district's ward officer has brought it to every annual review since, and it 
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 217/217, pressure 3 to 9 per hit, resistance at 15 / 5 per cent, threshold 45 per cent, 4 turns, the weapon at 3–6 and 15 Echoes, the shroud at 10, the stone at 5 per cent and +1, 2 conferrals, and 140 households inside the boundary.
+- The register keeps its own figures in numerals for look-up: gauge 217/217, listening pressure 3 to 9 a watch, resistance at 15 / 5 per cent, threshold 45 per cent, the wall run at four metres a season, and the marked line re-surveyed at every watch.
 
 - *Don't forget* is the most frequently recorded utterance on the site, leading the next phrase by 4 to 1 — and the official record keeps the count without the phrase.
 - The walls carry testimony the official record does not hold, and none of it can be used for anything, for the reasons set out in the Fabric Record.

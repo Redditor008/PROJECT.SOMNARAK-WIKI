@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five where the only thing that moves is the extent (2026-11-01)
+
+Fourteenth batch. Every one of these is an extent — a stain line, a wall run, a chair count, a doorway, a surveyed radius — and in each case the file had already said, somewhere other than the combat table, that nothing was coming.
+
+- **Weeping Statue** (`C-IIβ-055`) — *stationary — an artwork*. Its own event section says it in as many words: the statue does not move and has never attempted to, nothing hunts and nothing pursues. Its Pugnahan row had logged nineteen attempts to address it by force with identical outcomes, while the table still carried a stone fist coming down.
+- **Whispering Walls** (`C-Iα-011`) — there is no object here to strike, only a wall run that whispers. The file's own position is that the site *cannot be contained at all* and is managed by listening and by acknowledgement aloud, which is the only intervention ever observed to hold the boundary.
+- **Moktak** (`N-IIβ-910`) — a hall that seats itself. Expansion is counted in chairs rather than in metres, and the first measurable change happens at the empty chairs along the north wall, which begin to read as occupied. Nobody is selected; the seating follows the plan and not the people.
+- **Never Discharged** (`O-IIβ-911`) — a forty-seven-minute loop with a doorway for a boundary. No travelling soldier and no transformed anatomy was ever recorded, and the only failure available at this holding is opening a door.
+- **Amnesia** (`O-IIβ-914`) — a timed absence, not an invisible body: there is no silhouette or voice to describe. The event section had already said there is nothing present to strike, and that nobody inside the radius is ever selected, graded or spared, which the file calls its one mercy.
+
+**The numbers that had to be read rather than moved.** Each conversion kept only what the file already counts: the stain line measured from the pedestal, the wall run measured against the boundary map at four metres a season, forty-four seats emptying in the order of precedence, two loops watched inside a forty-seven-minute interval, and a roll call matched name to person at 1200. Nothing was converted into damage against a target, because in every one of the five there is no target.
+
+**Where the old table was doing real harm.** The Weeping Statue carried a stone hand that comes down when it is provoked, against a Behavior row recording nineteen identical outcomes to exactly that provocation. Never Discharged carried a settled position that leaves a wound the file says closes within the hour and leaves nothing. Those are not flavour differences; they are the record contradicting its own count.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 195/301 non-breaching, every floor met · `seam_lint` 0 · `timeline_lint` 0 · `label_lint` 0 · `check_links` 0 broken. **One hundred and nine Contact Records.**
+
 ## Six that measure rather than meet (2026-11-01)
 
 Thirteenth batch, and the first that leaves the relic shelf entirely. Every one of these is a holding whose event is a reading — a sealed timepiece, a foundation gauge, a shutter time, a set count, a paced frontage, a waking hour — and every one of them was filed with a battle length.

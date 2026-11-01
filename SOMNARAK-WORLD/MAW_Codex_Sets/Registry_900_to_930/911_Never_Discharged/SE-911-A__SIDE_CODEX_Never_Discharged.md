@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-O-911, contained |
-| Gauge / Pressure | 426/426; starts 35–50% / 14–21 per hit · Weight |
+| Gauge / Pressure | 426/426; starts 35–50% / Weight — no attack pattern; the forty-seven-minute interval read from the corridor is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 
@@ -36,7 +36,7 @@ Not recorded Not recorded
 | Ferrehan | Recognizes patience; the weight pressure settles gradually under sustained presence. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-911 -->
+**Resolution:** Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229. <!-- SE-911 -->
 
 ## WITNESS RECORD — *The Never Discharged Source-Trace*
 
