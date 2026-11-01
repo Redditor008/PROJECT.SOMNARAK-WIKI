@@ -33,12 +33,12 @@ Grimoire's Veil is the suit record of the Grimoire set — β-grade, Grudge-alig
 
 ## ITEM-SPECIFIC HISTORY — *The Grimoire Source-Trace: Suit Record*
 
-The first Grimoire's Veil field bearer encountered this source response: Complete a full cycle in the cell with the cover down and weighted; the writing rate settles, and the endurance is spent leaving the book alone while it fills. The suit witnesses the immediate hazard only after the team attributed it to Grimoire. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Grimoire's Veil field bearer encountered this source response: Complete a full cycle in the cell with the cover down and weighted; the writing rate settles, and the endurance is spent leaving the book alone while it fills. The suit witnesses the immediate hazard only after the team attributed it to Grimoire. A wearer signed a form in a steady hand while in a rage they could not put down, and the Veil’s binding is that signature.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grimoire's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the ink stops fading altogether, and the earliest slight reads as fresh as the one entered this morning.
 - Terminal state: Grimoire's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-906 -->
@@ -47,7 +47,7 @@ The first Grimoire's Veil field bearer encountered this source response: Complet
 
 ## SET RELATIONSHIP
 
-Within *Grimoire — Witnessed Form*, Grimoire's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grimoire — Witnessed Form*, Grimoire's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one entry in the ledger can still fade; the first that will not takes the Veil out.
 
 ---
 

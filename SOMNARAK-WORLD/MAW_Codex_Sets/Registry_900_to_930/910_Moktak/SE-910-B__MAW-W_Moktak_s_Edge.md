@@ -33,12 +33,12 @@ Moktak's Edge is the weapon record of the Moktak set — β-grade, Weight-aligne
 
 ## ITEM-SPECIFIC HISTORY — *The Moktak Source-Trace: Weapon Record*
 
-The first Moktak's Edge field bearer encountered this source response: N/A The weapon stabilizes the immediate hazard only after the team attributed it to Moktak. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Moktak's Edge field bearer encountered this source response: N/A The weapon stabilizes the immediate hazard only after the team attributed it to Moktak. A wielder was seen bowing to a chair and could not say what for, and the Edge’s binding is the note written at that doorway.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Moktak's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the bowing arrives with no room to bow in, and the wielder makes themselves small in open street.
 - Terminal state: Moktak's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-910 -->
@@ -47,7 +47,7 @@ The first Moktak's Edge field bearer encountered this source response: N/A The w
 
 ## SET RELATIONSHIP
 
-Within *Moktak — Witnessed Form*, Moktak's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Moktak — Witnessed Form*, Moktak's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown at full height.
 
 ---
 

@@ -32,12 +32,12 @@ Never Discharged's Token is the stigma record of the Never Discharged set — he
 
 ## ITEM-SPECIFIC HISTORY — *The Never Discharged Source-Trace: Stigma Record*
 
-The first Never Discharged's Token field bearer encountered this source response: Read the forty-seven-minute interval from the corridor; two loops taken at that reading show the pattern, and the discharge book is the only page that changes between them. The stigma stays the immediate hazard only after the team attributed it to Never Discharged. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Never Discharged's Token field bearer encountered this source response: Read the forty-seven-minute interval from the corridor; two loops taken at that reading show the pattern, and the discharge book is the only page that changes between them. The stigma stays the immediate hazard only after the team attributed it to Never Discharged. A bearer worked a fortnight without sleep and could not say what the hours were paying off, and the Token’s binding is the rest log with every entry struck out.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Never Discharged's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the calls arrive faster than resting can answer them, and the bearer stops logging rest altogether.
 - Terminal state: Never Discharged's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-911 -->
@@ -46,7 +46,7 @@ The first Never Discharged's Token field bearer encountered this source response
 
 ## SET RELATIONSHIP
 
-Within *Never Discharged — Witnessed Form*, Never Discharged's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Never Discharged — Witnessed Form*, Never Discharged's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on an hour of rest after which the shoulders stay level.
 
 ---
 

@@ -32,12 +32,12 @@ The Dormant Monolith Charm is the stigma record of the Dormant Monolith set — 
 
 ## ITEM-SPECIFIC HISTORY — *The Dormant Monolith Source-Trace: Stigma Record*
 
-The first Dormant Monolith Charm field bearer encountered this source response: Reveals the duties holding the worker in place. The stigma interrupts the immediate hazard only after the team attributed it to Dormant Monolith. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dormant Monolith Charm field bearer encountered this source response: Reveals the duties holding the worker in place. The stigma interrupts the immediate hazard only after the team attributed it to Dormant Monolith. A bearer reported a rested year they could not account for and was believed until the ledger was opened, and the Charm’s binding is that ledger.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dormant Monolith's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the quiet spreads to duties the bearer never postponed, and the year closes with nothing in it at all.
 - Terminal state: Dormant Monolith's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Ground the worker and establish a rotation of duty” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Dormant Monolith Charm field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer picks up a postponed duty and lets it count.
 
 ---
 

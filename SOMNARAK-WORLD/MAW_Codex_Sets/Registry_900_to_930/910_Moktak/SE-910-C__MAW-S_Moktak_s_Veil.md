@@ -33,12 +33,12 @@ Moktak's Veil is the suit record of the Moktak set — β-grade, Weight-aligned,
 
 ## ITEM-SPECIFIC HISTORY — *The Moktak Source-Trace: Suit Record*
 
-The first Moktak's Veil field bearer encountered this source response: Stay for the whole conversation and let it close by itself; the pressure settles as the last seat empties, and no party on record has hurried it. The suit severs the immediate hazard only after the team attributed it to Moktak. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Moktak's Veil field bearer encountered this source response: Stay for the whole conversation and let it close by itself; the pressure settles as the last seat empties, and no party on record has hurried it. The suit severs the immediate hazard only after the team attributed it to Moktak. A wearer sat an interval out past the closing order and was never asked to move, and the Veil’s binding is the closing sheet from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Moktak's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the waiting takes the place of the work, and the wearer is recorded as attending watches that have ended.
 - Terminal state: Moktak's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-910 -->
@@ -47,7 +47,7 @@ The first Moktak's Veil field bearer encountered this source response: Stay for 
 
 ## SET RELATIONSHIP
 
-Within *Moktak — Witnessed Form*, Moktak's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Moktak — Witnessed Form*, Moktak's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be moved to leave; the first interval they cannot takes the Veil out.
 
 ---
 

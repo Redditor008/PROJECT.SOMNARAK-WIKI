@@ -33,12 +33,12 @@ The Dormant Monolith Shield is the suit record of the Dormant Monolith set — �
 
 ## ITEM-SPECIFIC HISTORY — *The Dormant Monolith Source-Trace: Suit Record*
 
-The first Dormant Monolith Shield field bearer encountered this source response: Tests whether the worker can rest beneath responsibility. The suit isolates the immediate hazard only after the team attributed it to Dormant Monolith. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dormant Monolith Shield field bearer encountered this source response: Tests whether the worker can rest beneath responsibility. The suit isolates the immediate hazard only after the team attributed it to Dormant Monolith. A wearer logged three duties as in progress for a month without moving, and the Shield’s binding is that month’s return.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dormant Monolith's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the day lengthens past the relief, and the wearer stands watches that were entered under somebody else’s name.
 - Terminal state: Dormant Monolith's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Ground the worker and establish a rotation of duty” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Dormant Monolith Shield field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Shield performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Shield performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be hurried by a person; the first shift nothing hurries takes the Shield out.
 
 ---
 

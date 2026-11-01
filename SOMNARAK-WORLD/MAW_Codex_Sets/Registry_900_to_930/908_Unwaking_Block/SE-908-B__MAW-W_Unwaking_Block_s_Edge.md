@@ -33,12 +33,12 @@ Unwaking Block's Edge is the weapon record of the Unwaking Block set — γ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Weapon Record*
 
-The first Unwaking Block's Edge field bearer encountered this source response: N/A The weapon contains the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unwaking Block's Edge field bearer encountered this source response: N/A The weapon contains the immediate hazard only after the team attributed it to Unwaking Block. A party walked out without a member still asleep in a surveyed room, and the Edge’s binding is the roll-call from that exit.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unwaking Block's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the sleep begins arriving during the survey rather than after it, and the map is finished by whoever carries it out.
 - Terminal state: Unwaking Block's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-908 -->
@@ -47,7 +47,7 @@ The first Unwaking Block's Edge field bearer encountered this source response: N
 
 ## SET RELATIONSHIP
 
-Within *Unwaking Block — Witnessed Form*, Unwaking Block's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unwaking Block — Witnessed Form*, Unwaking Block's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a survey its wielder walks out of awake.
 
 ---
 

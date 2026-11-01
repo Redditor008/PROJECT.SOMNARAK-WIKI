@@ -33,12 +33,12 @@ Unwaking Block's Veil is the suit record of the Unwaking Block set — γ-grade,
 
 ## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Suit Record*
 
-The first Unwaking Block's Veil field bearer encountered this source response: Keep the circuit for the whole sleep period without waking anybody inside it; the pressure settles for the party that stays awake through it. The suit discharges the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unwaking Block's Veil field bearer encountered this source response: Keep the circuit for the whole sleep period without waking anybody inside it; the pressure settles for the party that stays awake through it. The suit discharges the immediate hazard only after the team attributed it to Unwaking Block. A wearer walked four people out of a collapse and could not say afterwards which turning they had taken, and the Veil’s binding is the debrief sheet with the route drawn on it and nothing written beneath.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unwaking Block's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the account goes before the route does, and the party is walked out by somebody who cannot report it.
 - Terminal state: Unwaking Block's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-908 -->
@@ -47,7 +47,7 @@ The first Unwaking Block's Veil field bearer encountered this source response: K
 
 ## SET RELATIONSHIP
 
-Within *Unwaking Block — Witnessed Form*, Unwaking Block's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unwaking Block — Witnessed Form*, Unwaking Block's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still say one thing about the way out; the first exit with nothing said takes the Veil out.
 
 ---
 

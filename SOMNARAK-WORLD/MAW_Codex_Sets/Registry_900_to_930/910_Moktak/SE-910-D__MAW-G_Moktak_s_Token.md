@@ -32,12 +32,12 @@ Moktak's Token is the stigma record of the Moktak set — head-slot, bestowed at
 
 ## ITEM-SPECIFIC HISTORY — *The Moktak Source-Trace: Stigma Record*
 
-The first Moktak's Token field bearer encountered this source response: Sit the hall through the dusk conversation and count the chairs against the plan; the order in which the forty-four seats empty is the reading, and it follows the precedence the plan records. The stigma uncouples the immediate hazard only after the team attributed it to Moktak. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Moktak's Token field bearer encountered this source response: Sit the hall through the dusk conversation and count the chairs against the plan; the order in which the forty-four seats empty is the reading, and it follows the precedence the plan records. The stigma uncouples the immediate hazard only after the team attributed it to Moktak. A bearer took up a duty they had set down nine years earlier and felt the original weight of it, and the Token’s binding is the handover note from that week.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Moktak's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the duties return without a handover, in the order they were first given.
 - Terminal state: Moktak's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-910 -->
@@ -46,7 +46,7 @@ The first Moktak's Token field bearer encountered this source response: Sit the 
 
 ## SET RELATIONSHIP
 
-Within *Moktak — Witnessed Form*, Moktak's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Moktak — Witnessed Form*, Moktak's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer sets an inherited duty down and it stays down.
 
 ---
 

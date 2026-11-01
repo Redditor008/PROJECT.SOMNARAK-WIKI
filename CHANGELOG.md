@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 88)
+
+`SE-906` Grimoire, `SE-907` Breathing Stone, `SE-908` Unwaking Block, `SE-909` Dormant Monolith, `SE-910` Moktak, `SE-911` Never Discharged — **eighteen records, fifty-four sentences.** The Unwaking Block set is the strongest of the six because its cost lines were already written the b70 way, one use then continued use, and the sentences read straight off them: the Edge loses its set on a survey its wielder walks out of awake; the Veil holds while the wearer can still say one thing about the way out; the Token drops out when the bearer checks a doorway against the wall and not the plan.
+
+**120 of 345 done. 225 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 87)
 
 `SE-900` Vellum Man, `SE-901` Duri's Heart, `SE-902` Goru's Fist, `SE-903` Glass Elsewhere, `SE-904` Thinking Engine, `SE-905` Lacrima — **eighteen records, fifty-four sentences.** The first six Echo-Core sources, which are the ones whose cost lines were already the most specific in the wing, so the sentences come almost straight off them:

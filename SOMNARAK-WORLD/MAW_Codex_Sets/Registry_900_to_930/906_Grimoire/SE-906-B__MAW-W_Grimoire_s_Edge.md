@@ -33,12 +33,12 @@ Grimoire's Edge is the weapon record of the Grimoire set — β-grade, Grudge-al
 
 ## ITEM-SPECIFIC HISTORY — *The Grimoire Source-Trace: Weapon Record*
 
-The first Grimoire's Edge field bearer encountered this source response: N/A The weapon marks the immediate hazard only after the team attributed it to Grimoire. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Grimoire's Edge field bearer encountered this source response: N/A The weapon marks the immediate hazard only after the team attributed it to Grimoire. A wielder read their own account aloud and found a line in it they did not remember giving, in their own hand; the Edge’s binding is that page.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grimoire's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the entries begin arriving before the strikes, and the wielder’s history is written ahead of the event it describes.
 - Terminal state: Grimoire's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-906 -->
@@ -47,7 +47,7 @@ The first Grimoire's Edge field bearer encountered this source response: N/A The
 
 ## SET RELATIONSHIP
 
-Within *Grimoire — Witnessed Form*, Grimoire's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grimoire — Witnessed Form*, Grimoire's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow struck without an entry being made.
 
 ---
 

@@ -33,12 +33,12 @@ Breathing Stone's Veil is the suit record of the Breathing Stone set — δ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Breathing Stone Source-Trace: Suit Record*
 
-The first Breathing Stone's Veil field bearer encountered this source response: Stay the cycle at the wall without breaking the count; the weight settles for the party that keeps position, and the length of the cycle is the stone's to set. The suit stabilizes the immediate hazard only after the team attributed it to Breathing Stone. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Breathing Stone's Veil field bearer encountered this source response: Stay the cycle at the wall without breaking the count; the weight settles for the party that keeps position, and the length of the cycle is the stone's to set. The suit stabilizes the immediate hazard only after the team attributed it to Breathing Stone. A wearer refused relief three times in one watch and was treated standing at the post, and the Veil’s binding is that watch’s log.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Breathing Stone's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the post outlasts the wall, and the wearer is found standing where the line used to run.
 - Terminal state: Breathing Stone's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-907 -->
@@ -47,7 +47,7 @@ The first Breathing Stone's Veil field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Breathing Stone — Witnessed Form*, Breathing Stone's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Breathing Stone — Witnessed Form*, Breathing Stone's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can leave the post to be seen to; the first relief refused outright takes the Veil out.
 
 ---
 

@@ -35,12 +35,12 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 
 ## ITEM-SPECIFIC HISTORY — *The Dormant Monolith Source-Trace: Weapon Record*
 
-The first Dormant Monolith Lens field bearer encountered this source response: It rises through the worker's thoughts. The weapon witnesses the immediate hazard only after the team attributed it to Dormant Monolith. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dormant Monolith Lens field bearer encountered this source response: It rises through the worker's thoughts. The weapon witnesses the immediate hazard only after the team attributed it to Dormant Monolith. A wielder finished a shift with an empty list and could not sit down, and the Edge’s binding is the duty sheet with every entry struck through in another hand.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dormant Monolith's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the list empties before the shift, and the wielder’s obligations are found on people who have never met them.
 - Terminal state: Dormant Monolith's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Ground the worker and establish a rotation of duty” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first Dormant Monolith Lens field bearer encountered this source response: I
 
 ## SET RELATIONSHIP
 
-Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Lens performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Lens performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which one obligation is still the wielder’s own.
 
 ---
 

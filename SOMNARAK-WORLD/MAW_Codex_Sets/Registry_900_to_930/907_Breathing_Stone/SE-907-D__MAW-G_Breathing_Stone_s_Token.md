@@ -32,12 +32,12 @@ Breathing Stone's Token is the stigma record of the Breathing Stone set — head
 
 ## ITEM-SPECIFIC HISTORY — *The Breathing Stone Source-Trace: Stigma Record*
 
-The first Breathing Stone's Token field bearer encountered this source response: Read the wall at thirty-four degrees and count the breaths at nine a minute; 188 cycles is the whole of what the recording holds, and the watch is a count rather than an interpretation. The stigma severs the immediate hazard only after the team attributed it to Breathing Stone. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Breathing Stone's Token field bearer encountered this source response: Read the wall at thirty-four degrees and count the breaths at nine a minute; 188 cycles is the whole of what the recording holds, and the watch is a count rather than an interpretation. The stigma severs the immediate hazard only after the team attributed it to Breathing Stone. A bearer woke with the same three loads they had set down the night before, and the Token’s binding is the morning note from that room.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Breathing Stone's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the loads arrive back before morning, and the bearer sleeps with them already on.
 - Terminal state: Breathing Stone's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-907 -->
@@ -46,7 +46,7 @@ The first Breathing Stone's Token field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Breathing Stone — Witnessed Form*, Breathing Stone's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Breathing Stone — Witnessed Form*, Breathing Stone's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a morning after which one load is still down.
 
 ---
 

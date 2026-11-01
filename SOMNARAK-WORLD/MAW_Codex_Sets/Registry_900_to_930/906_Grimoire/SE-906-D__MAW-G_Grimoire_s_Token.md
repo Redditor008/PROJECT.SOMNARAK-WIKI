@@ -32,12 +32,12 @@ Grimoire's Token is the stigma record of the Grimoire set — head-slot, bestowe
 
 ## ITEM-SPECIFIC HISTORY — *The Grimoire Source-Trace: Stigma Record*
 
-The first Grimoire's Token field bearer encountered this source response: Count and measure it from outside — lines, ink distribution, blanks across successive readers — and never open it; the whole reading is available closed. The stigma isolates the immediate hazard only after the team attributed it to Grimoire. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Grimoire's Token field bearer encountered this source response: Count and measure it from outside — lines, ink distribution, blanks across successive readers — and never open it; the whole reading is available closed. The stigma isolates the immediate hazard only after the team attributed it to Grimoire. A bearer could not say whether the scar or the entry beside it was throbbing, and the Token’s binding is the note made at that examination.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Grimoire's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the entries begin matching scars the bearer does not have.
 - Terminal state: Grimoire's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-906 -->
@@ -46,7 +46,7 @@ The first Grimoire's Token field bearer encountered this source response: Count 
 
 ## SET RELATIONSHIP
 
-Within *Grimoire — Witnessed Form*, Grimoire's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Grimoire — Witnessed Form*, Grimoire's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer can tell the ache from the entry.
 
 ---
 

@@ -33,12 +33,12 @@ Never Discharged's Edge is the weapon record of the Never Discharged set — β-
 
 ## ITEM-SPECIFIC HISTORY — *The Never Discharged Source-Trace: Weapon Record*
 
-The first Never Discharged's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Never Discharged. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Never Discharged's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Never Discharged. A wielder could not hold a pen and could not say whose hand the tremor had belonged to, and the Edge’s binding is the examination note from that morning.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Never Discharged's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the standing-over happens without a table, and the hand shakes in rooms where nobody is being treated.
 - Terminal state: Never Discharged's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-911 -->
@@ -47,7 +47,7 @@ The first Never Discharged's Edge field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Never Discharged — Witnessed Form*, Never Discharged's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Never Discharged — Witnessed Form*, Never Discharged's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which its wielder’s hand is steady.
 
 ---
 

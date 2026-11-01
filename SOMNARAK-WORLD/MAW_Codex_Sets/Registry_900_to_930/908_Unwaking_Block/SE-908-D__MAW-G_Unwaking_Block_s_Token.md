@@ -32,12 +32,12 @@ Unwaking Block's Token is the stigma record of the Unwaking Block set — head-s
 
 ## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Stigma Record*
 
-The first Unwaking Block's Token field bearer encountered this source response: Walk the block in the sleep hours and record what each door opens onto; the map is legible on the page, and it does not agree with the street plan. The stigma redirects the immediate hazard only after the team attributed it to Unwaking Block. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Unwaking Block's Token field bearer encountered this source response: Walk the block in the sleep hours and record what each door opens onto; the map is legible on the page, and it does not agree with the street plan. The stigma redirects the immediate hazard only after the team attributed it to Unwaking Block. A bearer walked twenty metres of corridor by the plan with the plan wrong and did not feel the cold until the far end, and the Token’s binding is the correction filed there.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Unwaking Block's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the plan starts arriving without the survey, and the bearer follows corridors drawn before they were built.
 - Terminal state: Unwaking Block's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-908 -->
@@ -46,7 +46,7 @@ The first Unwaking Block's Token field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Unwaking Block — Witnessed Form*, Unwaking Block's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Unwaking Block — Witnessed Form*, Unwaking Block's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer checks a doorway against the wall rather than against the plan.
 
 ---
 
