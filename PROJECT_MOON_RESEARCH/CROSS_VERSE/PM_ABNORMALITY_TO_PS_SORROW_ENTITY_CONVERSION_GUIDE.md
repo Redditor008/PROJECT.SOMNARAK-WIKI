@@ -480,7 +480,7 @@ The rule for a conversion is mechanical: **write the Ability first, then read it
 
 Two mechanical checks before committing a cost line: `grep` the sentence against `SOMNARAK-WORLD/` and expect **one** hit; and confirm that if the Ability line were deleted, the Cost line could not be written. A cost that survives its own ability's removal is a stock sentence with a new subject.
 
-The same rule governs the item pages' `**Operational / binding cost:**`. It states, in two clauses, what one use takes and what continued use does — and the second clause is where 345 item records once carried the identical tail *Continued use makes {{source}}'s sorrow feel autobiographical*. A tail that appears on every record is not a behaviour; it is a template artefact wearing a warning's clothes. That tail is now at **zero** across the archive, and the two mechanical checks below are what retired it.
+The same rule governs the item pages' `**Operational / binding cost:**`. It states, in two clauses, what one use takes and what continued use does — and the second clause is where 345 item records once carried the identical tail *Continued use makes {{source}}'s sorrow feel autobiographical*. A tail that appears on every record is not a behaviour; it is a template artefact wearing a warning's clothes. That tail is now at **zero** across the archive, and the two mechanical checks above are what retired it.
 
 
 ### VIII.5 How many of a piece exist
