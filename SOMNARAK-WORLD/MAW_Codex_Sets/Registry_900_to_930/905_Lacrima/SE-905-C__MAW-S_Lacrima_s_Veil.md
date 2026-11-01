@@ -33,12 +33,12 @@ Lacrima's Veil is the suit record of the Lacrima set — α-grade, Void-aligned,
 
 ## ITEM-SPECIFIC HISTORY — *The Lacrima Source-Trace: Suit Record*
 
-The first Lacrima's Veil field bearer encountered this source response: Hold the station a full cycle without lifting the lid; the pressure settles around a party that leaves the seal alone for the whole of it. The suit contains the immediate hazard only after the team attributed it to Lacrima. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Lacrima's Veil field bearer encountered this source response: Hold the station a full cycle without lifting the lid; the pressure settles around a party that leaves the seal alone for the whole of it. The suit contains the immediate hazard only after the team attributed it to Lacrima. A wearer came back from a watch faintly absent and put it down to tiredness in their own report, and the Veil’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Lacrima's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the room keeps what leaks, and the wearer is described afterwards in their own words by people who were not there.
 - Terminal state: Lacrima's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-905 -->
@@ -47,7 +47,7 @@ The first Lacrima's Veil field bearer encountered this source response: Hold the
 
 ## SET RELATIONSHIP
 
-Within *Lacrima — Witnessed Form*, Lacrima's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Lacrima — Witnessed Form*, Lacrima's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can tell the tiredness from the leak; the first report that cannot takes the Veil out.
 
 ---
 

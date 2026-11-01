@@ -33,12 +33,12 @@ Duri's Heart's Veil is the suit record of the Duri's Heart set — β-grade, Wei
 
 ## ITEM-SPECIFIC HISTORY — *The Duri's Heart Source-Trace: Suit Record*
 
-The first Duri's Heart's Veil field bearer encountered this source response: Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. The suit uncouples the immediate hazard only after the team attributed it to Duri's Heart. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Duri's Heart's Veil field bearer encountered this source response: Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. The suit uncouples the immediate hazard only after the team attributed it to Duri's Heart. A wearer was carried off a watch still standing, and the Veil’s binding is the note written from the stretcher.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Duri's Heart's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the stillness is logged as rest, and the wearer is returned to duty without having moved at all.
 - Terminal state: Duri's Heart's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-901 -->
@@ -47,7 +47,7 @@ The first Duri's Heart's Veil field bearer encountered this source response: Sit
 
 ## SET RELATIONSHIP
 
-Within *Duri's Heart — Witnessed Form*, Duri's Heart's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Duri's Heart — Witnessed Form*, Duri's Heart's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can tell fatigue from stillness; the first watch where they cannot takes the Veil out.
 
 ---
 

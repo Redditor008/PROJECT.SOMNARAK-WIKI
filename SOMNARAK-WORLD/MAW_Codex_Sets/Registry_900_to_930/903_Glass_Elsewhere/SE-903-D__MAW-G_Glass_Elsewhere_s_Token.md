@@ -32,12 +32,12 @@ Glass Elsewhere's Token is the stigma record of the Glass Elsewhere set — head
 
 ## ITEM-SPECIFIC HISTORY — *The Glass Elsewhere Source-Trace: Stigma Record*
 
-The first Glass Elsewhere's Token field bearer encountered this source response: Take the category of the place inside the ninety seconds and write nothing else; the clock closes the channel before the account can become a face. The stigma witnesses the immediate hazard only after the team attributed it to Glass Elsewhere. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Glass Elsewhere's Token field bearer encountered this source response: Take the category of the place inside the ninety seconds and write nothing else; the clock closes the channel before the account can become a face. The stigma witnesses the immediate hazard only after the team attributed it to Glass Elsewhere. A bearer heard their own name land a beat after the pause that should have carried it, and the Token’s binding is the incident note from that doorway.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Glass Elsewhere's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the lateness spreads to ordinary words, and the bearer answers a question a half-second after it was asked.
 - Terminal state: Glass Elsewhere's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-903 -->
@@ -46,7 +46,7 @@ The first Glass Elsewhere's Token field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Glass Elsewhere — Witnessed Form*, Glass Elsewhere's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Glass Elsewhere — Witnessed Form*, Glass Elsewhere's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set the first time the bearer’s name arrives on time.
 
 ---
 

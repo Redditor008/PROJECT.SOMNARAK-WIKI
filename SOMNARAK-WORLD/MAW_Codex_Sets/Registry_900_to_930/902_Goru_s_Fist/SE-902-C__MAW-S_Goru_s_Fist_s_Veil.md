@@ -33,12 +33,12 @@ Goru's Fist's Veil is the suit record of the Goru's Fist set — γ-grade, Grudg
 
 ## ITEM-SPECIFIC HISTORY — *The Goru's Fist Source-Trace: Suit Record*
 
-The first Goru's Fist's Veil field bearer encountered this source response: Stay in the room with empty hands for the length of a shift; the tempo settles to the rate of whoever is standing there, and the endurance is spent not reaching for the stone. The suit stays the immediate hazard only after the team attributed it to Goru's Fist. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Goru's Fist's Veil field bearer encountered this source response: Stay in the room with empty hands for the length of a shift; the tempo settles to the rate of whoever is standing there, and the endurance is spent not reaching for the stone. The suit stays the immediate hazard only after the team attributed it to Goru's Fist. A wearer was found standing with both arms half-raised in an empty corridor, and the Veil’s binding is the incident note from that hour.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Goru's Fist's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the posture holds through sleep, and the wearer is reported as braced against something that is not in the room.
 - Terminal state: Goru's Fist's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-902 -->
@@ -47,7 +47,7 @@ The first Goru's Fist's Veil field bearer encountered this source response: Stay
 
 ## SET RELATIONSHIP
 
-Within *Goru's Fist — Witnessed Form*, Goru's Fist's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Goru's Fist — Witnessed Form*, Goru's Fist's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can lower their arms when asked; the first corridor where they cannot takes the Veil out.
 
 ---
 

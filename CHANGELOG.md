@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 87)
+
+`SE-900` Vellum Man, `SE-901` Duri's Heart, `SE-902` Goru's Fist, `SE-903` Glass Elsewhere, `SE-904` Thinking Engine, `SE-905` Lacrima — **eighteen records, fifty-four sentences.** The first six Echo-Core sources, which are the ones whose cost lines were already the most specific in the wing, so the sentences come almost straight off them:
+
+- **Vellum Man's Edge** loses its set on a strike thrown for a loss the wielder can still describe in full.
+- **Duri's Heart's Veil** keeps resonance while the wearer can tell fatigue from stillness.
+- **Goru's Fist's Token** drops out when the bearer greets somebody with an open hand.
+- **Glass Elsewhere's Veil** holds while the reflection stops when the wearer stops.
+- **Thinking Engine's Token** leaves on the first night the bearer leaves one thought unfinished.
+- **Lacrima's Veil** needs the wearer to be able to tell the tiredness from the leak.
+
+**102 of 345 done. 243 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The Conversion Guide, part two: two words it was using that the archive does not (batch 86)
 
 Reading the equipment half of the guide against the 852 item records turned up two more traps, both of the same kind — a vocabulary the guide uses and the archive does not read.

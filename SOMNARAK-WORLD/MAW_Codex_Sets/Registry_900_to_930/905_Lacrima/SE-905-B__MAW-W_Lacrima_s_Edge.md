@@ -33,12 +33,12 @@ Lacrima's Edge is the weapon record of the Lacrima set — α-grade, Void-aligne
 
 ## ITEM-SPECIFIC HISTORY — *The Lacrima Source-Trace: Weapon Record*
 
-The first Lacrima's Edge field bearer encountered this source response: N/A The weapon stays the immediate hazard only after the team attributed it to Lacrima. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Lacrima's Edge field bearer encountered this source response: N/A The weapon stays the immediate hazard only after the team attributed it to Lacrima. A wielder watched something sealed leave them and could not name it afterwards, and the Edge’s binding is the note filed at that bench.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Lacrima's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the sealed things leave without a strike, in rooms where nothing was opened.
 - Terminal state: Lacrima's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-905 -->
@@ -47,7 +47,7 @@ The first Lacrima's Edge field bearer encountered this source response: N/A The 
 
 ## SET RELATIONSHIP
 
-Within *Lacrima — Witnessed Form*, Lacrima's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Lacrima — Witnessed Form*, Lacrima's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which its wielder can say what they have been carrying.
 
 ---
 

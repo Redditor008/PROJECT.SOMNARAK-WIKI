@@ -32,12 +32,12 @@ Vellum Man's Token is the stigma record of the Vellum Man set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Vellum Man Source-Trace: Stigma Record*
 
-The first Vellum Man's Token field bearer encountered this source response: Watch it work without answering it: over a sustained watch the account it carries becomes legible as a tale with a teller, a loss and a listener, and none of it has to be felt to be read. The stigma marks the immediate hazard only after the team attributed it to Vellum Man. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Vellum Man's Token field bearer encountered this source response: Watch it work without answering it: over a sustained watch the account it carries becomes legible as a tale with a teller, a loss and a listener, and none of it has to be felt to be read. The stigma marks the immediate hazard only after the team attributed it to Vellum Man. A bearer woke having mourned a story they could not name, and the Token’s binding is the dream record kept from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Vellum Man's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the dreams begin arriving with a plot the bearer can follow, and a name at the end they have never met.
 - Terminal state: Vellum Man's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-900 -->
@@ -46,7 +46,7 @@ The first Vellum Man's Token field bearer encountered this source response: Watc
 
 ## SET RELATIONSHIP
 
-Within *Vellum Man — Witnessed Form*, Vellum Man's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Vellum Man — Witnessed Form*, Vellum Man's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer mourns something they can name.
 
 ---
 

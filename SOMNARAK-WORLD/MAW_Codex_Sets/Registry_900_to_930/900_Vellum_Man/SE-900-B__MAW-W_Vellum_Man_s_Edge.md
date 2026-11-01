@@ -33,12 +33,12 @@ Vellum Man's Edge is the weapon record of the Vellum Man set — α-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Vellum Man Source-Trace: Weapon Record*
 
-The first Vellum Man's Edge field bearer encountered this source response: Stands ground; meets force with equal force. The weapon isolates the immediate hazard only after the team attributed it to Vellum Man. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Vellum Man's Edge field bearer encountered this source response: Stands ground; meets force with equal force. The weapon isolates the immediate hazard only after the team attributed it to Vellum Man. A wielder gave an account of themselves that lost a line mid-sentence and could not find where it had gone, and the Edge’s binding is the transcript with the gap left in it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Vellum Man's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the accounts begin losing their opening lines, and the wielder’s version of a week starts at the second incident.
 - Terminal state: Vellum Man's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-900 -->
@@ -47,7 +47,7 @@ The first Vellum Man's Edge field bearer encountered this source response: Stand
 
 ## SET RELATIONSHIP
 
-Within *Vellum Man — Witnessed Form*, Vellum Man's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Vellum Man — Witnessed Form*, Vellum Man's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a strike thrown for a loss its wielder can still describe in full.
 
 ---
 

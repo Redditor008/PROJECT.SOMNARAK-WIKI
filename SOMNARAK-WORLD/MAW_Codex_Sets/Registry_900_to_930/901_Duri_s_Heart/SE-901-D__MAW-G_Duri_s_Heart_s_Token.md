@@ -32,12 +32,12 @@ Duri's Heart's Token is the stigma record of the Duri's Heart set — head-slot,
 
 ## ITEM-SPECIFIC HISTORY — *The Duri's Heart Source-Trace: Stigma Record*
 
-The first Duri's Heart's Token field bearer encountered this source response: Read the darkening series against the beat from outside the glass; the two together resolve into a record, and neither is legible alone. The stigma opens the immediate hazard only after the team attributed it to Duri's Heart. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Duri's Heart's Token field bearer encountered this source response: Read the darkening series against the beat from outside the glass; the two together resolve into a record, and neither is legible alone. The stigma opens the immediate hazard only after the team attributed it to Duri's Heart. A bearer put a hand to their chest twice in one shift to check whose pulse it was, and the Token’s binding is the note made the second time.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Duri's Heart's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the borrowed pulse arrives with nothing of the bearer’s own behind it, and they count it aloud to be sure.
 - Terminal state: Duri's Heart's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-901 -->
@@ -46,7 +46,7 @@ The first Duri's Heart's Token field bearer encountered this source response: Re
 
 ## SET RELATIONSHIP
 
-Within *Duri's Heart — Witnessed Form*, Duri's Heart's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Duri's Heart — Witnessed Form*, Duri's Heart's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer’s own pulse is the first one they feel on waking.
 
 ---
 

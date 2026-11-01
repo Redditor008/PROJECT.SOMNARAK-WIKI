@@ -32,12 +32,12 @@ Goru's Fist's Token is the stigma record of the Goru's Fist set — head-slot, b
 
 ## ITEM-SPECIFIC HISTORY — *The Goru's Fist Source-Trace: Stigma Record*
 
-The first Goru's Fist's Token field bearer encountered this source response: Read the beat against the gallery clock; over a sustained watch the rhythm resolves into a grievance with a subject, a date and a sum owed. The stigma contains the immediate hazard only after the team attributed it to Goru's Fist. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Goru's Fist's Token field bearer encountered this source response: Read the beat against the gallery clock; over a sustained watch the rhythm resolves into a grievance with a subject, a date and a sum owed. The stigma contains the immediate hazard only after the team attributed it to Goru's Fist. A bearer greeted a colleague with both fists already closed, and the Token’s binding is the note the colleague made afterwards.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Goru's Fist's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the old injuries ache in company, and every greeting is treated as the opening of one.
 - Terminal state: Goru's Fist's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-902 -->
@@ -46,7 +46,7 @@ The first Goru's Fist's Token field bearer encountered this source response: Rea
 
 ## SET RELATIONSHIP
 
-Within *Goru's Fist — Witnessed Form*, Goru's Fist's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Goru's Fist — Witnessed Form*, Goru's Fist's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer greets somebody with an open hand.
 
 ---
 

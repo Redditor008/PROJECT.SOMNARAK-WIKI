@@ -33,12 +33,12 @@ Glass Elsewhere's Edge is the weapon record of the Glass Elsewhere set — β-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Glass Elsewhere Source-Trace: Weapon Record*
 
-The first Glass Elsewhere's Edge field bearer encountered this source response: N/A The weapon interrupts the immediate hazard only after the team attributed it to Glass Elsewhere. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Glass Elsewhere's Edge field bearer encountered this source response: N/A The weapon interrupts the immediate hazard only after the team attributed it to Glass Elsewhere. A wielder struck a target and then placed the room one door along from where it was, and the Edge’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Glass Elsewhere's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the rooms arrive out of order, and the wielder checks a window before answering their name.
 - Terminal state: Glass Elsewhere's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-903 -->
@@ -47,7 +47,7 @@ The first Glass Elsewhere's Edge field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Glass Elsewhere — Witnessed Form*, Glass Elsewhere's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Glass Elsewhere — Witnessed Form*, Glass Elsewhere's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown from the room its wielder is actually standing in.
 
 ---
 

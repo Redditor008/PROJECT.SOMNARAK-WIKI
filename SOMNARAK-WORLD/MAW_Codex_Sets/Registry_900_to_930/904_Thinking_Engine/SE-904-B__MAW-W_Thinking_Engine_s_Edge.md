@@ -33,12 +33,12 @@ Thinking Engine's Edge is the weapon record of the Thinking Engine set — γ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Weapon Record*
 
-The first Thinking Engine's Edge field bearer encountered this source response: N/A The weapon uncouples the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Thinking Engine's Edge field bearer encountered this source response: N/A The weapon uncouples the immediate hazard only after the team attributed it to Thinking Engine. A wielder answered a question nobody had put to them that shift and could not find where the answer had come from, and the Edge’s binding is the transcript of that duty.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Thinking Engine's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unfinished thoughts return as questions put to other people, and the wielder waits for answers they have already given.
 - Terminal state: Thinking Engine's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-904 -->
@@ -47,7 +47,7 @@ The first Thinking Engine's Edge field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Thinking Engine — Witnessed Form*, Thinking Engine's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Thinking Engine — Witnessed Form*, Thinking Engine's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which its wielder finishes the sentence they were in.
 
 ---
 

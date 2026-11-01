@@ -32,12 +32,12 @@ Lacrima's Token is the stigma record of the Lacrima set — head-slot, bestowed 
 
 ## ITEM-SPECIFIC HISTORY — *The Lacrima Source-Trace: Stigma Record*
 
-The first Lacrima's Token field bearer encountered this source response: Read the lid gap at the four rim points; the watch yields the volume that has left the vessel since the last reading, and nothing at all about what was in it. The stigma discharges the immediate hazard only after the team attributed it to Lacrima. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Lacrima's Token field bearer encountered this source response: Read the lid gap at the four rim points; the watch yields the volume that has left the vessel since the last reading, and nothing at all about what was in it. The stigma discharges the immediate hazard only after the team attributed it to Lacrima. A bearer could not say a colleague’s name for four seconds and covered for it, and the Token’s binding is the note the colleague made afterwards.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Lacrima's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the slips begin landing on the bearer’s own name, and they introduce themselves twice in a shift.
 - Terminal state: Lacrima's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-905 -->
@@ -46,7 +46,7 @@ The first Lacrima's Token field bearer encountered this source response: Read th
 
 ## SET RELATIONSHIP
 
-Within *Lacrima — Witnessed Form*, Lacrima's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Lacrima — Witnessed Form*, Lacrima's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set the first time the bearer carries a name through a difficult sentence.
 
 ---
 

@@ -33,12 +33,12 @@ Thinking Engine's Veil is the suit record of the Thinking Engine set — γ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Suit Record*
 
-The first Thinking Engine's Veil field bearer encountered this source response: Stand the chamber a full cycle without touching the tray; the pressure settles as the computation finishes on its own, and the refusal to help is the whole of the work. The suit opens the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Thinking Engine's Veil field bearer encountered this source response: Stand the chamber a full cycle without touching the tray; the pressure settles as the computation finishes on its own, and the refusal to help is the whole of the work. The suit opens the immediate hazard only after the team attributed it to Thinking Engine. A wearer gave an exact account of a feeling in the wrong tense and did not notice, and the Veil’s binding is the minute taken at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Thinking Engine's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the queue starts processing other people’s grief, and the ward’s losses are logged in the same register as its own.
 - Terminal state: Thinking Engine's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-904 -->
@@ -47,7 +47,7 @@ The first Thinking Engine's Veil field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Thinking Engine — Witnessed Form*, Thinking Engine's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Thinking Engine — Witnessed Form*, Thinking Engine's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one feeling in the wearer is still unprocessed; the first empty queue with nothing felt takes the Veil out.
 
 ---
 

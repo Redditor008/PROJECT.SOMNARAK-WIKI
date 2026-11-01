@@ -33,12 +33,12 @@ Vellum Man's Veil is the suit record of the Vellum Man set — α-grade, Lament-
 
 ## ITEM-SPECIFIC HISTORY — *The Vellum Man Source-Trace: Suit Record*
 
-The first Vellum Man's Veil field bearer encountered this source response: Keep the watch through the whole frame without offering sympathy; the agitation settles while the room stays dry, and the patience spent is the refusal to console. The suit interrupts the immediate hazard only after the team attributed it to Vellum Man. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Vellum Man's Veil field bearer encountered this source response: Keep the watch through the whole frame without offering sympathy; the agitation settles while the room stays dry, and the patience spent is the refusal to console. The suit interrupts the immediate hazard only after the team attributed it to Vellum Man. A wearer sat through four accounts of loss without being moved by any of them, and the Veil’s binding is the note taken at the fourth.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Vellum Man's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the immunity moves into the wearer’s own history, and they recite their worst year to a board at the board’s own pace.
 - Terminal state: Vellum Man's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-900 -->
@@ -47,7 +47,7 @@ The first Vellum Man's Veil field bearer encountered this source response: Keep 
 
 ## SET RELATIONSHIP
 
-Within *Vellum Man — Witnessed Form*, Vellum Man's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Vellum Man — Witnessed Form*, Vellum Man's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one account in the room can still move the wearer; the first one that cannot takes the Veil out.
 
 ---
 

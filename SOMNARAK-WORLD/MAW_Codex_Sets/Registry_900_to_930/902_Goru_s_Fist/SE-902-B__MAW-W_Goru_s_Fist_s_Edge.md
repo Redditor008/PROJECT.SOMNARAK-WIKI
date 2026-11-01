@@ -33,12 +33,12 @@ Goru's Fist's Edge is the weapon record of the Goru's Fist set — γ-grade, Gru
 
 ## ITEM-SPECIFIC HISTORY — *The Goru's Fist Source-Trace: Weapon Record*
 
-The first Goru's Fist's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Goru's Fist. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Goru's Fist's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Goru's Fist. A wielder could not open their hand to take a cup and had it lifted for them, and the Edge’s binding dates from that table.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Goru's Fist's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the hand sets before the strike is thrown, and it will not open between bouts at all.
 - Terminal state: Goru's Fist's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-902 -->
@@ -47,7 +47,7 @@ The first Goru's Fist's Edge field bearer encountered this source response: N/A 
 
 ## SET RELATIONSHIP
 
-Within *Goru's Fist — Witnessed Form*, Goru's Fist's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Goru's Fist — Witnessed Form*, Goru's Fist's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown with the hand still open.
 
 ---
 

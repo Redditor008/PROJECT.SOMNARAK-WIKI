@@ -32,12 +32,12 @@ Thinking Engine's Token is the stigma record of the Thinking Engine set — head
 
 ## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Stigma Record*
 
-The first Thinking Engine's Token field bearer encountered this source response: Watch the tray with the figures unread; the print resolves after a sustained watch into a sort by what people will do under load, and the observer's reasoning is the surface it arrives on. The stigma stabilizes the immediate hazard only after the team attributed it to Thinking Engine. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Thinking Engine's Token field bearer encountered this source response: Watch the tray with the figures unread; the print resolves after a sustained watch into a sort by what people will do under load, and the observer's reasoning is the surface it arrives on. The stigma stabilizes the immediate hazard only after the team attributed it to Thinking Engine. A bearer woke having finished a thought that was not theirs and acted on it before breakfast, and the Token’s binding is the night note from that waking.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Thinking Engine's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the overnight work begins producing conclusions, and the bearer carries them into the day as if they had reasoned them.
 - Terminal state: Thinking Engine's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-904 -->
@@ -46,7 +46,7 @@ The first Thinking Engine's Token field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Thinking Engine — Witnessed Form*, Thinking Engine's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Thinking Engine — Witnessed Form*, Thinking Engine's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set the first night the bearer leaves one thought unfinished.
 
 ---
 
