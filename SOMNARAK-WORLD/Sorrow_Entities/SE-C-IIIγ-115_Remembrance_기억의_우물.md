@@ -145,26 +145,17 @@ The Work Type table is steady and the number the Archive watches is the level at
 > **This Relic can Benefit the Facility**
 > **Open channel: this relic returns what the Archive has not recorded, accurately, to whoever is holding the line**
 > **An abandoned channel vents into the chamber and the level rises by a centimetre that quarter**
-
-**Activation Trigger:** Breaking the surface with the bronze probe on its winch line.
-
-**Effect:** Raises recollection belonging to the city rather than to the channeler: layouts, routes, names of streets that have been renamed twice, and the weak point of whatever the facility is presently fighting.
-
-**Duration:** While the winch is held open. The line is held by hand and never cleated, so that letting go closes the channel.
-
-**Risk:** It takes a live memory for every one it gives. The channeler loses recent working knowledge first — briefings, orders, the names of people they were told about that morning.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
-| **Activation** | Breaking the surface with the bronze probe. |
-| **Primary Effect** | City recollection raised to the rim: routes, layouts, old names, and present weaknesses. |
-| **Duration** | While the line is held by hand. It is never cleated. |
+| **Activation** | Breaking the surface with the bronze probe on its winch line. |
+| **Primary Effect** | City recollection raised to the rim — layouts, routes, names of streets that have been renamed twice — belonging to the city rather than to the channeler, and carrying the weak point of whatever the facility is presently fighting. |
+| **Duration** | While the winch is held open and the line held by hand; it is never cleated, so that letting go closes the channel. |
 | **Termination / Return** | The channeller closes the conduit deliberately and the second observer states what the channeller came down for. Releasing it improperly vents across the sector; it has happened once and the Archive spent a fortnight on claims of recovered memory from three floors away. |
-| **Risk** | A live memory taken for each one given, working knowledge first. |
+| **Risk** | A live memory taken for every one given, working knowledge first: briefings, orders, and the names of people the channeler was told about that morning. |
 
 **Operational Rule:** The channel is held by one person who does nothing else, with a second present whose only duty is to call the time. A channel left untended vents into the chamber within a minute.
 

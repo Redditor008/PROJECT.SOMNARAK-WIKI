@@ -159,15 +159,6 @@ Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 > **This Relic is a designated meltdown-mitigation measure in the facility safety case — load-bearing, not optional**
 > **Everything discharged into it arrives somewhere, including occupied households**
 > **This Relic Vents Uncontained Lament Resonance if the Conduit is Released Out of Order**
-
-**Activation Trigger:** Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels.
-
-**Effect:** Localised Sorrow Gauge spikes are taken off the affected unit and distributed along the channel network into the bedrock buffer, which flattens the spike below the meltdown threshold. The measured reduction is real, repeatable, and the only reason the sluices exist.
-
-**Duration:** Continuous while the sluice gate is unsealed and an operator holds the channel; it ends when the gate is closed deliberately and in order.
-
-**Risk:** Prolonged drainage saturates the foundation and the lower floor tiles begin leaking caustic blue Han-liquid. The second risk is not to the facility and is set out in the Warden Record: everything discharged into the network arrives somewhere.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -175,10 +166,10 @@ Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament man
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels. |
-| **Primary Effect** | Takes a localised gauge spike off the affected unit and distributes it along the channel network into the bedrock buffer, flattening the spike below the meltdown threshold. |
-| **Duration** | Continuous while the gate is unsealed and an operator holds the channel. |
+| **Primary Effect** | Takes a localised gauge spike off the affected unit and distributes it along the channel network into the bedrock buffer, which flattens the spike below the meltdown threshold. The reduction is real and repeatable, and it is the only reason the sluices exist. |
+| **Duration** | Continuous while the sluice gate is unsealed and an operator holds the channel; it ends when the gate is closed deliberately and in order. |
 | **Termination / Return** | The channel is closed deliberately by the operator, gate first and conduit second. Releasing the conduit out of order vents uncontained Lament resonance across the sector and has happened twice. |
-| **Risk** | Foundation saturation and caustic blue leakage on the lower floors, plus the delivery of everything discharged to the far end of whichever channels carried it. |
+| **Risk** | Prolonged drainage saturates the foundation and the lower floor tiles begin leaking caustic blue Han-liquid. The second risk is not to the facility and is set out in the Warden Record: everything discharged into the network arrives somewhere. |
 
 **Operational Rule:** The sluice requires an operator on the channel for its whole duration and an unbroken conduit. An untended channel destabilises progressively, and the record of what a given run discharged, and along which channels, must be closed before the operator stands down.
 

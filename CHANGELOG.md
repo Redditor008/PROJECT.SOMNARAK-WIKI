@@ -34,7 +34,9 @@ Every relic was saying the same four things twice. `## Activation Behavior` carr
 
 **One parked contradiction closed.** The Compass ended its Consequences on *whether this is a breach-equivalent spread or an uncontrolled activation remains unresolved*, which is the kind of sentence a dossier is not allowed to leave standing. Nothing leaves the stand: an abandoned channel turns the needle and the district instruments disagree with themselves for a day, and three have been observed agreeing with it. That is an effect of an open channel under the activation-only category, and the field is read by how many instruments in the district now agree. Its Threat Assessment line no longer says the instrument *transforms*.
 
-**Thirty-two relics still differ** between the flat block and the profile, in both directions, and each needs reading rather than deleting. That is the next batch; the queue is unchanged at 52 relics, of which this pass closes the duplication on 52.
+**Four more were merged field by field**, because the two versions had each kept something the other dropped. Foam Flood now says in its own row that the closing is deliberate — lift the hand and name the sky aloud — and that abandoning the channel vents the sector. Sorrow Fountain keeps both readings of its duration: the length of the approach, and a flow nobody switches off that has never stopped through two Sorrow Tides and a drought. Remembrance carries the winch line, the street names renamed twice, and the memory it takes first, *the names of people the channeler was told about that morning*. Spreading Well records that the channel into the bedrock buffer is the only reason the sluices exist, and that the second risk is set out in the Warden Record: everything discharged arrives somewhere.
+
+**Twenty-seven relics still differ** between the flat block and the profile, in both directions, and each needs reading rather than deleting — the next batch on this queue.
 
 **Checks:** `wikistd` 301/301 · `label_lint` 301, 0 violations · `check_stat_bands` PASS · `check_links` 0 broken.
 

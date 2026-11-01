@@ -144,15 +144,6 @@ The two valid Work Types do different things here and the difference matters. Vi
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
 > **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
-
-**Activation Trigger:** A hand laid upon the carving, or bare skin within the longing-field.
-
-**Effect:** The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky.
-
-**Duration:** Contact must be deliberately closed: lift the hand and name the sky aloud. Abandoning the channel does not terminate it safely; the sector vent and prolonged eye-brightness are recorded below.
-
-**Risk:** Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -161,7 +152,7 @@ The two valid Work Types do different things here and the difference matters. Vi
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | A hand laid upon the carving, or bare skin within the longing-field. |
 | **Primary Effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
-| **Duration** | Until the hand is removed and the eyes dim. |
+| **Duration** | Until the hand is removed and the eyes dim, and the ending is chosen: lift the hand and name the sky aloud. Abandoning the channel does not terminate it safely, and the sector vent and the prolonged eye-brightness that follow are recorded below. |
 | **Termination / Return** | The operator closes the channel deliberately, lifts the hand, and names the sky aloud; an abandoned conduit vents Lament across the sector and leaves the eyes at full brightness for eleven to fourteen hours. |
 | **Risk** | Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
 

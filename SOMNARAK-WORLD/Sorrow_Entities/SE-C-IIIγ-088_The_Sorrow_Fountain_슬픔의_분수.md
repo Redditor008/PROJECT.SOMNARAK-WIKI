@@ -143,15 +143,6 @@ The Sorrow Fountain is an Object/Place with Place-Lament manifestation and Lamen
 > **This Relic calms whoever stands in its mist, without asking.**
 > **This Relic alters the Gardens at walking pace: damp first, moss after, eleven point four metres so far.**
 > **This Relic's cost arrives days later, as flatness, and is charged to the bearer alone.**
-
-**Activation Trigger:** Approaching the fountain while suppressing tears or uncompleted mourning.
-
-**Effect:** The mist comes out across the lawns and calms whoever is standing in it, reliably and without consent being asked. No gauge anywhere is stabilized by a percentage; what settles is people, and what it costs them arrives days later.
-
-**Duration:** While the mourner remains at the rim; the Fountain itself has never once stopped, including through two Sorrow Tides and the drought year.
-
-**Risk:** Prolonged exposure deepens the calm into a flattening — agreeable to everything, interested in nothing — which the Gardens' medical office treats as exposure rather than as mood. Nothing is paralyzed and no speed is docked; people simply stop needing to be anywhere.
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
@@ -159,10 +150,10 @@ The Sorrow Fountain is an Object/Place with Place-Lament manifestation and Lamen
 | **Tool Class** | **O-Relic** |
 | **Use Mode** | **Continuous / channeled use** |
 | **Activation** | Approaching the fountain while suppressing tears or uncompleted mourning. |
-| **Primary Effect** | The mist, and the calm it imposes on whoever is inside it — the hazard and the benefit are the same thing and cannot be separated. |
-| **Duration** | For the length of the approach; the flow itself is not switched, channelled or concluded by anybody. |
+| **Primary Effect** | The mist, and the calm it imposes on whoever is inside it — the hazard and the benefit are the same thing and cannot be separated. It comes out across the lawns and calms whoever is standing in it, reliably and without consent being asked; what settles is people and not a gauge, and what it costs them arrives days later. |
+| **Duration** | For the length of the approach, while the mourner remains at the rim. The flow itself is not switched, channelled or concluded by anybody, and the Fountain has never once stopped — including through two Sorrow Tides and the drought year. |
 | **Termination / Return** | The worker leaves the mist and the level is read again at the rim; nothing vents, because nothing was contained. The pool is left standing at the depth it was read at when the watch opened. |
-| **Risk** | The bearer has stopped wanting the effect to end — entered when the second worker sees it, not when the bearer admits it. |
+| **Risk** | The bearer has stopped wanting the effect to end — entered when the second worker sees it, not when the bearer admits it. Prolonged exposure deepens the calm into a flattening, agreeable to everything and interested in nothing, which the Gardens' medical office treats as exposure rather than as mood: nothing is paralysed, no speed is docked, and people simply stop needing to be anywhere. |
 
 **Operational Rule:** There is no channel and no conduit. Work is from the rim, the pool is not drained, decanted or diverted, and both boundaries — damp in chalk, moss separately — are marked before the cycle opens and again when it closes.
 
