@@ -92,9 +92,9 @@ See `SOMNARAK_MAW_CODEX.md` and `MAW_Codex_Sets/Registry_*` for per-entity Weapo
 
 ## V. Authorized Registry
 
-- `Sorrow_Entities/` — 291 dossiers; SECC, Work grids, and per-file Relic flags; indexed by `REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md`.
+- `Sorrow_Entities/` — 291 dossiers; SECC, Work grids, and per-file Relic flags; indexed by `REFERENCE_SOMNARAK_WIKI/REGISTRY/SORROW_ENTITIES_CATALOG.md`.
 - `SOMNARAK_ENTITY_CODEX.md` — dossier structure and Relic-specific N/A handling.
-- `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` — Two-Work-Type enforcement checklist.
+- `TEMPLATES/SE/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` — Two-Work-Type enforcement checklist.
 
 ---
 

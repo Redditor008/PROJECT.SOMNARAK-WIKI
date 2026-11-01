@@ -80,7 +80,7 @@ The 1,196 files are organized chronologically across 42 registry groupings:
 | `Registery_UNK_247_to_903` | UNK Special Series (UNK-247 through UNK-903) | 6 sets |
 | `Registry_1001_to_1043` | Unknown Entity Package (Deferred 1000-series sets) | 43 sets |
 
-*(For master progress tracking and status notes, see [`REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md`](../../REFERENCE_SOMNARAK_WIKI/REGISTRY_MASTER_STATUS.md)).*
+*(For master progress tracking and status notes, see [`REFERENCE_SOMNARAK_WIKI/REGISTRY/REGISTRY_MASTER_STATUS.md`](../../REFERENCE_SOMNARAK_WIKI/REGISTRY/REGISTRY_MASTER_STATUS.md)).*
 
 ---
 

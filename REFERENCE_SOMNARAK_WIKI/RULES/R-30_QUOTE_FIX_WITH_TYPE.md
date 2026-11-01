@@ -20,7 +20,7 @@ allowed to sound the way it does.
 3. **Read-back before the push.** `python3 tools/auditors/quote_audit.py --file <path>` must report the written
    quote, its type, and `no exact duplicate` (a file's own quote is not counted against itself). `--check "<draft>"`
    is still run on the draft first; the read-back is the check on what actually landed.
-4. **The ledger entry is part of the fix.** Regenerate `REFERENCE_SOMNARAK_WIKI/QUOTE_REGISTER_LEDGER.md`
+4. **The ledger entry is part of the fix.** Regenerate `REFERENCE_SOMNARAK_WIKI/REGISTRY/QUOTE_REGISTER_LEDGER.md`
    (`quote_audit.py --ledger …`) in the same commit: the new quote must appear there against the same type.
    A quote fix that leaves the ledger stale is unfinished, exactly as a unit that is not pushed is unfinished (`A0`).
 5. **`R-12` link-both-sides stands** (`R-12`): the record links the fixed dossier *and* the source keeper whose

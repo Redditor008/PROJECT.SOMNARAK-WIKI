@@ -5,7 +5,7 @@ Project Somnarak (NON-WIKI Branch)
 
 Standard library only. Performs structural, encoding, and integrity audits across:
 1. UTF-8 file integrity across all markdown files.
-2. The Macro-Canon Master Codices in SOMNARAK-WORLD/Master_Codices/ and REFERENCE_SOMNARAK_WIKI/.
+2. The Macro-Canon Master Codices in SOMNARAK-WORLD/Master_Codices/ and REFERENCE_SOMNARAK_WIKI/REGISTRY/.
 3. Sorrow Entity dossiers in SOMNARAK-WORLD/Sorrow_Entities/.
 4. M.A.W. quadripartite equipment sets (A/B/C/D) in SOMNARAK-WORLD/MAW_Codex_Sets/.
 5. The Absolvohan serial narrative volumes in SOMNARAK-WORLD/The_Absolvohan/.
@@ -80,7 +80,7 @@ def audit_macro_canon():
             if f.endswith(".md") and f != "README.md":
                 files.append(f)
 
-    dev_files = ["SOMNARAK_DOCUMENT_RULES.md", "SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md", "SOMNARAK_NAME_REGISTRY.md"]
+    dev_files = ["GUIDES/SOMNARAK_DOCUMENT_RULES.md", "REGISTRY/SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md", "REGISTRY/SOMNARAK_NAME_REGISTRY.md"]
     found_dev = [f for f in dev_files if os.path.exists(os.path.join(REF_DIR, f))]
 
     total_canon = len(files) + len(found_dev)

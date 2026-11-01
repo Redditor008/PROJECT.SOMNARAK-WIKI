@@ -23,7 +23,7 @@ The documents are **not deleted and not altered**. They are moved here, whole, w
 
 | File | What it is |
 |---|---|
-| `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` | Expanded story edition: 1-to-1 system and narrative comparison |
+| `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` | Expanded story edition: 1-to-1 system and narrative comparison |
 | `COMPLETE SYSTEM COMPARISON-SOMNARAK vs. Lobotomy Corporation.md` | Owner's laptop original, compact edition |
 | `SOMNARAK_PM_COMPARATIVE_INTEGRITY_AUDIT.md` | Macro-cosmological comparison; verse-divergence audit |
 | `SOMNARAK_LCORP_RD_RISK_PARALLEL.md` | Risk-level and R.D. classification parallel; threat-score arithmetic |

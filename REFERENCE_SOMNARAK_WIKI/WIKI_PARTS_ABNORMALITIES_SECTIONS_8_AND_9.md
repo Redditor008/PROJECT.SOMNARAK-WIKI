@@ -5,7 +5,7 @@
 **Purpose:** Canonical wiki-part index for the two requested Abnormalities subsections, preserved across both mirror domains as “something” citable by future research volumes, templates, and comparative codices.  
 **Source Page:** `Abnormalities` — Lobotomy Corporation Wiki  
 **Whole-Page Companion:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` — whole-page citable with `[[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)]` · `[[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)]` and full TOC Description + Information + Explanation (P.S. mapping)  
-**P.S. Whole-Universe Companion:** `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — native `[[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]` with Description + Information + Explanation for *our* universe
+**P.S. Whole-Universe Companion:** `REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md` — native `[[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")]` with Description + Information + Explanation for *our* universe
 
 ---
 
@@ -91,8 +91,8 @@ The user-requested wiki parts are preserved verbatim as four citable links — t
 **Where to read deeper:**
 
 - Master registry: `PROJECT_MOON_RESEARCH/12_ABNORMALITY_ENCYCLOPEDIA.md` and `13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` — every dossier lists `Classification Code` alongside `Tool Type` and `Capability Badges`.
-- Somnarak analogue: `SOMNARAK-WORLD/Sorrow_Entities/README.md` — **SECC** `SE-[Origin]-[Rank][Potency]-[Number]` (e.g., `SE-C-IIIβ-014`); `TEMPLATES/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` and `TEMPLATES/23_CANONICAL_NAMING_AND_BANNED_STRINGS_TEMPLATE.md`.
-- Comparative matrix: `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` — `ZAYIN→ALEPH` vs `Rank I→V / α→ω`.
+- Somnarak analogue: `SOMNARAK-WORLD/Sorrow_Entities/README.md` — **SECC** `SE-[Origin]-[Rank][Potency]-[Number]` (e.g., `SE-C-IIIβ-014`); `TEMPLATES/SE/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` and `TEMPLATES/FORMAT/23_CANONICAL_NAMING_AND_BANNED_STRINGS_TEMPLATE.md`.
+- Comparative matrix: `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` — `ZAYIN→ALEPH` vs `Rank I→V / α→ω`.
 
 ---
 
@@ -103,7 +103,7 @@ This index is now wired as citable “something” in four places:
 1. **This file** — `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES_SECTIONS_8_AND_9.md` (you are here) — the canonical out-of-universe **section-level** wiki-part index.
 2. **Whole-page companion** — `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_ABNORMALITIES.md` — the **whole-page** SSOT with `[[https://lobotomycorporation.wiki.gg/wiki/Abnormalities](https://lobotomycorporation.wiki.gg/wiki/Abnormalities)]` · `[[https://lobotomycorp.fandom.com/wiki/Abnormalities](https://lobotomycorp.fandom.com/wiki/Abnormalities)]` + full TOC Description + Information + Explanation + P.S. Sorrow Entity mapping — this file links there for page-level context.
 3. **Research volume header** — `PROJECT_MOON_RESEARCH/13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` now opens with a **Wiki Part Reference** box listing all four links and pointing here (and to the whole-page companion).
-4. **Template** — `TEMPLATES/24_WIKI_PART_ABNORMALITY_REFERENCE_TEMPLATE.md` — deep-knowledge-first template for citing any future `Abnormalities#` wiki part across both mirrors with 74-col box law and banned-string discipline.
+4. **Template** — `TEMPLATES/FORMAT/24_WIKI_PART_ABNORMALITY_REFERENCE_TEMPLATE.md` — deep-knowledge-first template for citing any future `Abnormalities#` wiki part across both mirrors with 74-col box law and banned-string discipline.
 
 ---
 

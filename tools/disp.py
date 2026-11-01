@@ -8,7 +8,7 @@
 """
 import io, re, sys
 
-P = "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md"
+P = "REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md"
 CODE = re.compile(r"`?(?:SE-)?([A-Z]-[IVX]+[\u03b1-\u03c9]-\d{2,4}[a-z]?)`?")
 TOTAL = 301  # entity dossiers carrying an SECC code (one Dawn of Mourning since 2026-10-05; 302 before); the 302nd catalogued file is the Regressor log
 

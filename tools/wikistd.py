@@ -87,7 +87,7 @@ def check(path, classified, shared):
 def main(argv):
     g = {}
     exec(open(os.path.join(os.path.dirname(__file__), 'disp.py')).read().split('def main')[0], g)
-    idx = io.open('REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md', encoding='utf-8').read()
+    idx = io.open('REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md', encoding='utf-8').read()
     classified = g['classified_codes'](idx)
     files, per, shared = sect.build()
     rows = {}

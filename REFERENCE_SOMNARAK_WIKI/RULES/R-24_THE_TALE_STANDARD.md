@@ -127,7 +127,7 @@ The dialogue rule banned the profession as a label and over-corrected. A scene a
 
 *"In Somnarak, names are not given. They are earned — through sorrow, through survival, through service."*
 
-That doctrine, the seven laws of an earned title, the six mixed-name patterns and the ten tests that keep a name from sounding manufactured all live in `REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md`. They are not style advice; they are the world's naming grammar, and a story file that violates them has written a name no citizen could carry.
+That doctrine, the seven laws of an earned title, the six mixed-name patterns and the ten tests that keep a name from sounding manufactured all live in `REFERENCE_SOMNARAK_WIKI/REGISTRY/SOMNARAK_NAME_REGISTRY.md`. They are not style advice; they are the world's naming grammar, and a story file that violates them has written a name no citizen could carry.
 
 | System | Source of its words | Never |
 |---|---|---|

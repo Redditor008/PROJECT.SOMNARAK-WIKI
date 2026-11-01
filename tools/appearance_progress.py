@@ -5,7 +5,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-LEDGER = ROOT / 'REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_LEDGER.json'
+LEDGER = ROOT / 'REFERENCE_SOMNARAK_WIKI/REGISTRY/SE_APPEARANCE_LEDGER.json'
 STATUSES = {'pending', 'blocked', 'held', 'changed', 'retained'}
 
 

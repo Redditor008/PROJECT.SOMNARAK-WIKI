@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Ninety-four files find a home (structural)
+
+The repository root had become a corridor with everything piled in it: twenty-four loose files, a flat `TEMPLATES/` of twenty-five numbers whose meaning had to be memorised, and fifty reference documents sitting beside the five that were rules. Two branches of the same subject — the five category definitions and the category templates — lived in a folder of their own, one level away from the twenty-five templates they belong with.
+
+**Templates now branch by category.** `TEMPLATES/SE/` holds the primer and the six entity templates (00–05). `TEMPLATES/SE_CATEGORIES/` holds the five category definitions and their five category templates. `TEMPLATES/SYSTEMS/` holds the twelve world-system templates (06–17). `TEMPLATES/GAME/` holds combat, scenario, boss and squad (18–21). `TEMPLATES/FORMAT/` holds boxes, naming and wiki part (22–24). Each branch has its own index.
+
+**Reference now branches by purpose.** `RULES/` (what is forbidden), `GUIDES/` (how it is written), `REGISTRY/` (what exists and what it is called), `AUDITS/` (what was checked and what it found), `RESEARCH/` (what was compared), and the unchanged `SE_APPEARANCE_REVIEWS/`.
+
+**The root is a door again.** `CANON/` takes the timeline, the owner's rules, the governance and integrity documents and the development handbook. `ARCHIVE/` takes the closed changelog volumes, the two never-merged PR notes, the text-box width test, and `artifacts/` — the session patch and the reference compendium that had been sitting in the root since they were produced.
+
+**Nothing was left pointing at the old paths.** 595 internal links across 94 moved files were rewritten and, where a link had been a sibling reference, restored to the relative form a reader on GitHub expects rather than the root-relative form the link checker also tolerates. Five tools read moved files and were patched — `appearance_progress.py`, `disp.py`, `ladder.py`, `wikistd.py`, `label_lint.py`. `check_links` reports **0 broken across 4,275 links in 2,355 files**.
+
+**Twelve index files** were written so the new branches can be searched rather than browsed, including a root tree rebuilt from the actual directory listing rather than from memory.
+
+**Checks:** `check_links` 0 broken · `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0 · metrics regenerated.
+
+
 ## One label for the price, another for what it takes (2026-11-01)
 
 A dossier's M.A.W. block used `**Cost:**` twice. Once on the stats line, for the twenty-five Sorrow Echoes. Once under the Ability, for the weeping, the missing hour, the memory the piece keeps. Two rows with one label, in the same block, meaning different things — and a reader who wanted to know what a piece actually cost its bearer had to work out which row was which from context.
@@ -2263,7 +2280,7 @@ Five HELD reviews; 40 repairs (28 short / 12 careful; 36,591 → 37,246 words); 
 
 **Unit 1 — Bridge to Nowhere `C-IVδ-260`: HELD.** Six supported repairs (3 short / 3 careful; 7308→7427 words) return combat, field use and the addendum to the length-before-and-after record. Five checks PASS; [evidence](REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B183_01_BRIDGE_TO_NOWHERE.md). Batch 115 already counted the SE-260 set inside the legacy baseline: +0/+0/+0. Completed 1/5; No change 0/2; held 172 / pending 109. Next is Echo of Kindness `C-Iα-240`.
 
-Owner "P" after CLOSED 182 authorizes Batch 183 only, with the Special Activation count answered first: **153 of 301** SEs have no breach counter ([count note](REFERENCE_SOMNARAK_WIKI/SPECIAL_ACTIVATION_SE.md)). Fresh pending-only `LC_ALL=C wc -w` ranking freezes Bridge to Nowhere `C-IVδ-260` (7308), Echo of Kindness `C-Iα-240` (7313), Stranded Between Two Shores `C-IVδ-823` (7315), Cleaved `C-IIβ-775` (7327), Cracked Mirror `C-IIβ-310` (7328); reserves `O-IVδ-851`, `O-Iα-754`, `C-Vδ-010`, `N-IIIγ-447`, `C-IIβ-280` only on ladder extension. Baseline audits PASS.
+Owner "P" after CLOSED 182 authorizes Batch 183 only, with the Special Activation count answered first: **153 of 301** SEs have no breach counter ([count note](REFERENCE_SOMNARAK_WIKI/GUIDES/SPECIAL_ACTIVATION_SE.md)). Fresh pending-only `LC_ALL=C wc -w` ranking freezes Bridge to Nowhere `C-IVδ-260` (7308), Echo of Kindness `C-Iα-240` (7313), Stranded Between Two Shores `C-IVδ-823` (7315), Cleaved `C-IIβ-775` (7327), Cracked Mirror `C-IIβ-310` (7328); reserves `O-IVδ-851`, `O-Iα-754`, `C-Vδ-010`, `N-IIIγ-447`, `C-IIβ-280` only on ladder extension. Baseline audits PASS.
 
 ## Batch 182 — CLOSED, 5 / 5 (2026-10-26)
 
@@ -9610,8 +9627,8 @@ volume, or deleted** — every entry was moved byte-for-byte out of `CHANGELOG.m
 
 | Volume | Bytes | Original lines | Contents |
 |---|---|---|---|
-| [CHANGELOG_VOL_01.md](CHANGELOG_VOL_01.md) | 331,519 | 141–3255 | Batches 58, 57, 56, 55, 54, 53, 54, 51, 50, 49, 48, 47, 46, 45 … |
-| [CHANGELOG_VOL_02.md](CHANGELOG_VOL_02.md) | 339,074 | 3256–5664 | Batches 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11 … |
+| [CHANGELOG_VOL_01.md](ARCHIVE/CHANGELOG_VOL_01.md) | 331,519 | 141–3255 | Batches 58, 57, 56, 55, 54, 53, 54, 51, 50, 49, 48, 47, 46, 45 … |
+| [CHANGELOG_VOL_02.md](ARCHIVE/CHANGELOG_VOL_02.md) | 339,074 | 3256–5664 | Batches 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11 … |
 
 **Volume 01 is the oldest archived work**; the highest number is the most recent.
 

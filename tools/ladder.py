@@ -59,7 +59,7 @@ def dispositions():
     """code -> Positive/Neutral/Negative, read from the Entity Disposition Index."""
     g = {}
     exec(open('tools/disp.py', encoding='utf-8').read().split('def main')[0], g)
-    t = io.open('REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md', encoding='utf-8').read()
+    t = io.open('REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md', encoding='utf-8').read()
     codes = g['classified_codes'](t)
     pos = dict((n, t.find('\n## %s\n' % n)) for n in ('Positive', 'Neutral', 'Negative'))
     end = {'Positive': pos['Neutral'], 'Neutral': pos['Negative'],
@@ -76,7 +76,7 @@ def dispositions():
 def scan():
     g = {}
     exec(open('tools/disp.py', encoding='utf-8').read().split('def main')[0], g)
-    idx = io.open('REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md', encoding='utf-8').read()
+    idx = io.open('REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md', encoding='utf-8').read()
     classified = g['classified_codes'](idx)
     _, _, shared = sect.build()
     disp = dispositions()

@@ -4,7 +4,7 @@
 
 ## Authorization and selection
 
-Owner p after CLOSED 178 authorized Batch 179 only. The batch crossed a recorded session break: unit 1 shipped before it, PR #14 was then closed without merging (see `PR_14_NEVER_MERGED.md`), and units 2–5 continued on the same frozen queue under draft PR #15. Five required and completed. Cumulative No change 0/5, so no 5→7→10 expansion. No Batch 180, merge, artwork or deployment authorized.
+Owner p after CLOSED 178 authorized Batch 179 only. The batch crossed a recorded session break: unit 1 shipped before it, PR #14 was then closed without merging (see `ARCHIVE/PR_14_NEVER_MERGED.md`), and units 2–5 continued on the same frozen queue under draft PR #15. Five required and completed. Cumulative No change 0/5, so no 5→7→10 expansion. No Batch 180, merge, artwork or deployment authorized.
 
 Frozen fresh pending-only LC_ALL=C word-count order, with designation-byte ties: Mourning a Life I Never Lived (7,027), Hollow Tree (7,062), Wilderness Tide (7,063), The Wrath Flame (7,069), Drowned Roots (7,072). These were shortest pending documents, not a ranking of defects. No substitution or expansion.
 

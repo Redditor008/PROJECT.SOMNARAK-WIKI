@@ -140,7 +140,7 @@ def entity_identity(path):
 def catalogued_names():
     """Entity names from the catalog and from dossier filenames on disk."""
     names = set()
-    cat = "REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md"
+    cat = "REFERENCE_SOMNARAK_WIKI/REGISTRY/SORROW_ENTITIES_CATALOG.md"
     if os.path.exists(cat):
         with open(cat, 'r', encoding='utf-8') as fp:
             # Catalog rows are: | `SE-code` | **English Codename** | ... |

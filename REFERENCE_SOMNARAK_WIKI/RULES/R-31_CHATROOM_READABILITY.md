@@ -18,7 +18,7 @@ Chatroom"*). It binds every report: units, batches, audits, closes, answers to q
 ## The rule
 
 0. **Read this rule before doing anything.** Read it at every session open, together with
-   `RULE-TO-FOLLOW.md` and `SESSION_BREAK_PRECAUTION.md`, and read it again before writing any chatroom
+   `CANON/RULE-TO-FOLLOW.md` and `CANON/SESSION_BREAK_PRECAUTION.md`, and read it again before writing any chatroom
    report. It is a must-follow rule, not a style preference.
 
 ### Normal text

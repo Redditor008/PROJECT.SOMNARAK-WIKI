@@ -4,7 +4,7 @@ Welcome to the **Canonical Lore & Reference Source Archive** for **Project Somna
 
 > **Fan-work notice:** Unofficial fan project; not affiliated with or endorsed by Project Moon. Original content is CC BY-NC-SA 4.0 (see [LICENSE](LICENSE)). Comparative research is nominative reference only.
 
-> **Canonical Governance Gateway:** See [`GOVERNANCE.md`](GOVERNANCE.md) for the single entry point governing repository rules, developer handbooks, and operational protocols.
+> **Canonical Governance Gateway:** See [`CANON/GOVERNANCE.md`](CANON/GOVERNANCE.md) for the single entry point governing repository rules, developer handbooks, and operational protocols.
 
 This repository serves as the authoritative, durable database and narrative foundation for the Somnarak universe (~3.42 million words). It houses the pure markdown source corpus for all cosmological frameworks, entity dossiers, equipment registries, specialized operational suites, planetary ecological archives, and departmental records.
 
@@ -17,17 +17,20 @@ The repository is structured into distinct, authoritative functional environment
 | Directory / Artifact | Role | Contents |
 |---|---|---|
 | **`SOMNARAK-WORLD/`** | **100% In-Universe Narrative & Operational Source** | Official containment dossiers, master codices, equipment sets, specialized operational chronicles, and Echo-Core records written entirely from within the Somnarak universe. |
+| **`TEMPLATES/`** | **Out-of-World Authoring Kit — Branched by Category** | Every template the archive generates from, sorted into `SE/` (dossier, side codex, M.A.W. pieces), `SE_CATEGORIES/` (Subject, Non-Subject, I/O/A Relic), `SYSTEMS/` (Ordeal through Mugenhan), `GAME/` (combat engine, scenarios, boss, squad) and `FORMAT/` (boxes, naming, wiki part). |
+| **`CANON/`** | **Root Canon & Governance** | Timeline, binding rules, development handbook, governance, integrity review, system comparison. |
+| **`ARCHIVE/`** | **Superseded Material & Artifacts** | Changelog volumes 01–02, never-merged PR notes, text-box width test, and `artifacts/` (session patch, reference compendium). |
 | **`GAME_BATTLE/`** | **Tactical Combat Operations & Scenario Vault** | Turn-based combat encounters, boss battle mechanics, tactical battle templates, and authoring guides based on the 10-node spatial engine. |
 | **`PROJECT_MOON_RESEARCH/`** | **Encyclopedic Comparative Research Archive** | Comprehensive 16-volume research library and comparative study corpus detailing cosmology, factions, metaphysics, and mechanics. |
 | **`REFERENCE_SOMNARAK_WIKI/`** | **Out-of-Universe Editorial Standards & Technical Audits** | Structural taxonomy, entity catalogs, paired-dossier audits, transfer manifests, weapon personalization ledgers, and multi-agent handoff protocols. |
 | **Root Blueprints (`.svg`)** | **Canonical Master Architectural & Cartographic Blueprints** | Official vector blueprints of the Somnarak Metropolitan Grid (`SOMNARAK_CITY_LAYOUT.svg`) and Facility 01 Cross-Section (`THE_HAND_DR_LAYOUT.svg`). |
-| **Root Governance & Tools** | **Operational Handbooks & Verification Infrastructure** | Authoritative developer handbooks (`DEVELOPMENT.md`, `RULE-TO-FOLLOW.md`, `SESSION_BREAK_PRECAUTION.md`, `CHANGELOG.md`, `TEST_TEXT_BOX_WIDTHS.md`) and automated audit tools (`tools/`). |
+| **Verification Infrastructure** | **Linters, Builders & Gate** | `tools/` — `gate.sh` plus the linters it runs (`section_logic`, `seam_lint`, `label_lint`, `breach`, `check_links`, `text_box_double_checker`, stat bands, metrics parity). |
 
 ---
 
 ## Archive Metrics at a Glance
 
-- **Over 1,902 curated canonical markdown files in SOMNARAK-WORLD (3,038+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
+- **Over 1,902 curated canonical markdown files in SOMNARAK-WORLD (3,048+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
 - **Over 3.42 million words (3,420,000+ words)** of structured, authentic canonical lore
 - **49 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
@@ -52,102 +55,46 @@ The repository is structured into distinct, authoritative functional environment
 ## Master Directory Layout
 
 ```
-PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
-├── README.md                               # This master documentation & navigation guide
-├── DEVELOPMENT.md                          # Handbook for working in the NON-WIKI archive
-├── RULE-TO-FOLLOW.md                       # Owner's binding operating rules (v2: Push-Always doctrine)
-├── UNIVERSAL_FOLLOW_RULE.md                # Portable AI baseline operating rules
-├── SESSION_BREAK_PRECAUTION.md             # Crash-recovery protocol & active work ledger
-├── CHANGELOG.md                            # Complete versioning and batch revision history
-├── SOMNARAK_CITY_LAYOUT.svg                # Master cartographic blueprint: Somnarak Metropolitan Grid
-├── THE_HAND_DR_LAYOUT.svg                  # Master architectural blueprint: Facility 01 Cross-Section
-├── TEST_TEXT_BOX_WIDTHS.md                 # Ergonomic text box width & visual calibration standard (127-128 chars)
+PROJECT.SOMNARAK-WIKI/
+├── README.md                     # Master navigation guide (this file)
+├── CHANGELOG.md                  # Live revision history, newest first
+├── CANONICAL_METRICS.md · .json  # Generated SSOT metrics (tools/generate_canonical_metrics_registry.py)
+├── LICENSE · .gitattributes · .gitignore · .github/
+├── SOMNARAK_CITY_LAYOUT.svg      # Master cartography: the metropolitan grid
+├── THE_HAND_DR_LAYOUT.svg        # Master architecture: Facility 01 cross-section
 │
-├── GAME_BATTLE/                            # Tactical Combat Operations & Scenario Simulation Vault
-│   ├── README.md                           # Master index, GBS mechanics primer & document roadmap
-│   ├── INTRODUCTION_AND_GUIDE.md           # Authoring guide & SOP for all future battle .md files
-│   ├── BATTLE_SCENARIO_TEMPLATE.md         # Production-ready markdown template for combat encounters
-│   ├── CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md # Full 6-turn canonical combat scenario demonstration
-│   ├── SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md # Full 6-turn containment breach suppression on Floor 2
-│   ├── SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md # Full 6-turn UCD undercity sweep vs Fray construct
-│   ├── SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md # Full 6-turn SED deep-karst descent vs Drowned Guardian
-│   ├── SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md # Full 6-turn Drift Throne defense vs Glass Burrower
-│   ├── SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md # Full 6-turn Floor 04 Realization vs Weeping Statue
-│   ├── BOSS_MECHANICS_GRIEVING_COLOSSUS.md # Sovereign Boss Mechanics Folio for SE-C-Vδ-002
-│   ├── BOSS_MECHANICS_WEEPING_MIRROR.md    # Sovereign Boss Mechanics Folio for SE-C-IVδ-195
-│   ├── BOSS_MECHANICS_KING_OF_MENDERS.md   # Syndicate Boss Mechanics Folio for King of Menders
-│   ├── SQUAD_ARCHETYPE_REVERIE_CONTAINMENT.md # 4-Warden Facility 01 Containment Cadre Manual
-│   ├── SQUAD_ARCHETYPE_UCD_PACIFICATION.md    # 4-Breacher UCD Close-Quarters Pacification Cadre Manual
-│   ├── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
-│   └── ECHO_CORE_REALIZATION_SYSTEM.md      # 4-phase departmental trauma battles & resonant catharsis engine
+├── SOMNARAK-WORLD/               # IN-WORLD CANON
+│   ├── Sorrow_Entities/          # 301 dossier files, one per holding
+│   ├── MAW_Codex_Sets/           # Side codices + M.A.W. Weapon/Suit/Stigma pieces, by registry
+│   ├── Pages/                    # Assembled wiki pages
+│   ├── Master_Codices/           # Cosmology · institutions · systems · tales · integrity audits
+│   ├── Ordeals/ · Hope_Transformations/ · Echo_Cores/ · Unknown_Entities/
+│   ├── The_Absolvohan/ · Katabagil/ · Katharcheok/ · Gieok_Jeojangso/ · Jipyeongseondae/
+│   └── Nareumhan/ · Mugenhan_Ecology/ · Story_Cantos/ · Tactical_Combat_Engine/
 │
-├── tools/                                  # Non-wiki developer verification tools & formatters
-│   ├── audit_lore_archive.py               # Standalone Python audit tool (UTF-8, codices, M.A.W., entities)
-│   ├── check_box_symmetry.py               # Strict text box symmetry & border alignment auditor
-│   ├── text_box_double_checker.py          # Dual-engine independent text box & wide-format validator
-│   ├── box_formatter.py                    # Ergonomic ASCII text box generation utility
-│   └── format_rst_box.py                   # ReStructuredText and markdown box alignment formatter
+├── TEMPLATES/                    # OUT-OF-WORLD AUTHORING KIT — branched by category
+│   ├── SE/                       # 00 primer · 01 dossier · 02 side codex · 03/04/05 M.A.W.
+│   ├── SE_CATEGORIES/            # Subject · Non-Subject · I/O/A Relic definitions + category templates
+│   ├── SYSTEMS/                  # 06–17 Ordeal through Mugenhan ecology
+│   ├── GAME/                     # 18–21 combat engine, battle scenarios, boss, squad
+│   └── FORMAT/                   # 22 box/table · 23 naming · 24 wiki part
 │
-├── PROJECT_MOON_RESEARCH/                  # Encyclopedic Project Moon Research Compendium (16 Volumes)
-│   ├── 01_COSMOLOGY_GEOGRAPHY_AND_LAWS.md  # The City, Head, Arbiters, Outskirts, Taboos
-│   ├── 02_THE_TWENTY_SIX_WINGS_AND_SINGULARITIES.md # Wings A–Z, Singularities, Smoke War
-│   ├── 03_SOCIETAL_POWERS_AND_FACTIONS.md  # Fingers, Associations, Syndicates, Workshops
-│   ├── 04_METAPHYSICS_COGNITION_AND_PHENOMENOLOGY.md # The Light, Distortions, E.G.O, Peccatula
-│   ├── 05_CHRONICLED_NARRATIVES_AND_CANON_WORKS.md # LC, LoR, Limbus, Distortion Detective, Leviathan
-│   ├── 06_PARALLEL_WORLDS_AND_MIRROR_TECHNOLOGY.md # Mirror Worlds, Identities, Glass Windows
-│   ├── 07_COMPREHENSIVE_ENCYCLOPEDIC_LEXICON.md # Master terminology & technical concepts
-│   ├── 08_TACTICAL_MECHANICS_AND_ORDEALS.md # Combat systems, clashes, affinities, Ordeals
-│   ├── 09_EGO_EQUIPMENT_WEAPONS_SUITS_AND_GIFTS.md # E.G.O equipment, extraction, risk tiers
-│   ├── 10_FIXER_OFFICES_AND_SPECIALIZED_SYNDICATES.md # Section breakdowns, Colors, Hana, Liu, Shi
-│   ├── 11_LORE_AND_NARRATIVE_DEEP_DIVE.md  # Deep character studies, Carmen, Ayin, Angela, Roland
-│   ├── 12_ABNORMALITY_ENCYCLOPEDIA.md      # Comprehensive abnormality entries (ZAYIN to ALEPH)
-│   └── README.md                           # Research master index & comparative overview
+├── REFERENCE_SOMNARAK_WIKI/      # OUT-OF-WORLD EDITORIAL LAYER — branched by purpose
+│   ├── RULES/                    # R-06 … R-36 binding rules
+│   ├── GUIDES/                   # Quote, structure, standards, activation, M.A.W. frameworks
+│   ├── REGISTRY/                 # Catalogs, disposition index, naming lexicon, ledgers
+│   ├── AUDITS/                   # Audits, progress ledgers, residue registers
+│   ├── RESEARCH/                 # Comparative studies and Project Moon research
+│   └── SE_APPEARANCE_REVIEWS/    # Per-file appearance reviews
 │
-├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,897 files)
-│   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 44 Macro-Canon Master Codices across 5 canonical subfolders
-│   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
-│   │   ├── 02_Institutional_Wings_and_Chronicles/ # 6 Codices: Reverie Directorate, SED, UCD, Won-Hyeong, Memory Archive, Horizon Caravan
-│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 9 Codices: Battle engines, M.A.W., Han Relics, Lumen, Ordeals, Taboo Resonance, workshops
-│   │   ├── 04_Municipal_Society_and_Demographics/ # 10 Codices: Daily life, Council, Collectors, corporations, syndicates, cadres
-│   │   ├── 05_Entities_Tales_and_Fractures/# 7 Codices: Entity taxonomy, linked groups, tales, fractures, relic entities, adversaries, Wound Walkers
-│   │   └── README.md                       # Master codices catalog & thematic index
-│   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
-│   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
-│   ├── Katharcheok/                        # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
-│   ├── Gieok_Jeojangso/                    # 7 Mnemonic Readings & Mnemonic Combat Suite (Memory Archive)
-│   ├── Jipyeongseondae/                    # 6 Trans-Desolate Overland Arcs & Bastion Suite (Horizon Caravan)
-│   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
-│   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
-│   ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Novellas)
-│   ├── Sorrow_Entities/                    # 290 Unique Entity dossiers across Ranks I to V and Grades α to ω
-│   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
-│   ├── MAW_Codex_Sets/                     # 1,166 files: 42 complete quadripartite sets across 42 folders
-│   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
-│   ├── Hope_Transformations/               # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
-│   └── Unknown_Entities/                   # 12 Unknown Entity files: UNK-248 to UNK-903 & Regressor chronicles
+├── PROJECT_MOON_RESEARCH/        # CROSS-VERSE CONVERSION (Project Moon ↔ Project Somnarak)
+│   └── CROSS_VERSE/              # PM → PS conversion guide · PS in L-Corp containment guide
 │
-└── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
-    ├── README.md                           # Overview of the reference standards folder
-    ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
-    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 290 unique Sorrow Entities
-    ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
-    ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the foundational codices
-    ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all reference files
-    ├── CATEGORY_AND_PAGE_PLAN.md           # Information architecture & structural classification
-    ├── CONTENT_AND_VISUAL_STANDARDS.md     # Editorial standards & authentic Somnarak terminology
-    ├── LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md# Branch continuity and deployment policies
-    ├── MASTER_HANDOFF_PROTOCOL.md          # AI session continuity & handoff guidelines
-    ├── MAW_PERSONALIZE_PROGRESS.md         # Detailed M.A.W. equipment visual progress ledger
-    ├── MAW_WEAPON_ARCHETYPES.md            # Comprehensive weapon taxonomy & silhouette archetypes
-    ├── OPERATING_RULES.md                  # Canon integrity & directory rules
-    ├── PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md # Structural comparative research
-    ├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance audit
-    ├── REGISTRY_MASTER_STATUS.md           # M.A.W. Registry completion and archive tracking
-    ├── SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md # Original design document for the sovereign corporations
-    ├── SOMNARAK_DOCUMENT_RULES.md          # Archival classification & authoring rules for entity files
-    ├── SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md # Authoritative list of 55 immutable core entities
-    └── SOMNARAK_NAME_REGISTRY.md           # Authoritative nomenclature & character naming lexicon
+├── GAME_BATTLE/                  # Tactical scenarios, boss folios, squad manuals
+├── CANON/                        # Root canon & governance: timeline, rules, development handbook
+├── ARCHIVE/                      # Superseded volumes, never-merged PR notes, artifacts/
+├── docs/                         # Static site (index.html, game-wiki/)
+└── tools/                        # Linters, builders, gate.sh
 ```
 
 ---
@@ -370,9 +317,9 @@ The repository root houses a dedicated 16-volume encyclopedic research compendiu
 
 ---
 
-## Technical Formatting Standards (Root: `TEST_TEXT_BOX_WIDTHS.md`)
+## Technical Formatting Standards (Root: `ARCHIVE/TEST_TEXT_BOX_WIDTHS.md`)
 
-All operational interfaces, status monitors, and tactical combat logs in the archive adhere to the strict ergonomic specifications defined in `TEST_TEXT_BOX_WIDTHS.md`:
+All operational interfaces, status monitors, and tactical combat logs in the archive adhere to the strict ergonomic specifications defined in `ARCHIVE/TEST_TEXT_BOX_WIDTHS.md`:
 
 1. **The 127–128 Character Golden Ratio Window:**
    - Wide-format ASCII boxes and combat status monitors target an interior width of **127 at least, maximum 128 characters** (`len(line) in [127, 128]`).

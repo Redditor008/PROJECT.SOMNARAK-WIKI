@@ -75,4 +75,4 @@ SE-<SECC Code>_<English Name>_<Korean Name>.md
 ```
 *(Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`)*
 
-> **Note on Catalog Scope:** This directory contains 291 dossier files, each carrying a unique SECC code. The Facility-01 catalog (`REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md`) indexes 284 of them: it excludes the two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`, filed under base code `C-Iα-071`) and five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) pending indexation. No paired file variants exist; every dossier filename is unique.
+> **Note on Catalog Scope:** This directory contains 291 dossier files, each carrying a unique SECC code. The Facility-01 catalog (`REFERENCE_SOMNARAK_WIKI/REGISTRY/SORROW_ENTITIES_CATALOG.md`) indexes 284 of them: it excludes the two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`, filed under base code `C-Iα-071`) and five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) pending indexation. No paired file variants exist; every dossier filename is unique.

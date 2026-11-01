@@ -93,7 +93,7 @@ When the transport runs the other way, HP and Pressure are recovered by invertin
 
 Every conversion crosses where the two universes overlap without matching: **the Well and the Weeping**, two rivers of collective human sorrow at the bottom of two worlds, connected and never the same.
 
-The side-by-side worldbuilding comparison and the six contact geometries a story may declare — touching, same depth, other side, coupled tides, upstream and downstream, the siphon — are registered in `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §2A.
+The side-by-side worldbuilding comparison and the six contact geometries a story may declare — touching, same depth, other side, coupled tides, upstream and downstream, the siphon — are registered in `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §2A.
 
 ### III.3 Designation cross-reference
 
@@ -321,7 +321,7 @@ Qliphoth Meltdowns select their units at random on the day's fixed cadence. Somn
 | **Third Watch** | 제3감시 / *Je-sam Gamsi* | Deep evening surge | Rank IV apex Entities; heavy Composure drain |
 | **Tide Watch** | 만조감시 / *Manjo Gamsi* | Midnight surge from the Core Void | Threatens the blast walls; full mobilisation |
 
-Facility-scale crisis systems convert at this same register and are carried by reference rather than copied here. The coloured **Ordeals** — Dawn, Noon, Dusk, Midnight — read against the Four Watches as tide-borne entity waves, and **Core Suppression** reads as departmental Realization. Both are treated in `COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §9 and §16. An entity-level conversion never needs to import them; a facility-level story declares them from there.
+Facility-scale crisis systems convert at this same register and are carried by reference rather than copied here. The coloured **Ordeals** — Dawn, Noon, Dusk, Midnight — read against the Four Watches as tide-borne entity waves, and **Core Suppression** reads as departmental Realization. Both are treated in `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §9 and §16. An entity-level conversion never needs to import them; a facility-level story declares them from there.
 
 ### VII.3 Breach metamorphosis
 

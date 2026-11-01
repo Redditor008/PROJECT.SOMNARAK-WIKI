@@ -78,4 +78,4 @@
 ## See also
 
 - [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")] — the full in-universe lore archive
-- `REFERENCE_SOMNARAK_WIKI/WIKI_PARTS_SOMNARAK_WORLD.md` — citable universe index
+- `REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md` — citable universe index

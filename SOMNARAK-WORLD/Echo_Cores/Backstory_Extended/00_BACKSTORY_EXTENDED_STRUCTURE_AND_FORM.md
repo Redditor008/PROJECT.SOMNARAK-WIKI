@@ -619,7 +619,7 @@ They may be named or unnamed, and the file decides per person. An unnamed one ta
 
 Eight rules bound them:
 
-1. **Names come from the registry.** Use `REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md`, given name first, and never a name already in use elsewhere in the repository.
+1. **Names come from the registry.** Use `REFERENCE_SOMNARAK_WIKI/REGISTRY/SOMNARAK_NAME_REGISTRY.md`, given name first, and never a name already in use elsewhere in the repository.
 2. **Never name a canon figure who has no name.** Dekan's mother stays *his mother*; file 05's Void entity stays unidentified; the unrecorded dead of file 03 stay dead and nameless. A backstory-only character may be named; a canonical one may not be named on their behalf.
 
    **The inverse binds harder, because it fails silently.** Where a name exists anywhere in the record — in a later codex, in a campaign book, spelled differently by a different author — the file uses it and dates the disagreement. **Withholding a name that the corpus already contains is not caution; it is a false mystery, and the reader clocks it at once.** Filing a conflict costs a HOLD row. Filing an absence that does not exist costs the file its credibility.
@@ -799,7 +799,7 @@ Composite titles are the opposite by design: a bureau can weld a title onto a pe
 
 **Stated by the archive owner, 2026-11-01:** *"Update The Writing Rule Again But Left Out The Somnarak Rule."*
 
-§XII.1e decided what the page calls a speaker. §XII.1f decided how a bureau labels a shared post. Neither said anything about **how a name is made in Somnarak**, which is the actual question behind both, and the corpus already answers it. The answer is in `REFERENCE_SOMNARAK_WIKI/SOMNARAK_NAME_REGISTRY.md` and this section makes it binding on every file.
+§XII.1e decided what the page calls a speaker. §XII.1f decided how a bureau labels a shared post. Neither said anything about **how a name is made in Somnarak**, which is the actual question behind both, and the corpus already answers it. The answer is in `REFERENCE_SOMNARAK_WIKI/REGISTRY/SOMNARAK_NAME_REGISTRY.md` and this section makes it binding on every file.
 
 > **The doctrine.** *"In Somnarak, names are not given. They are earned — through sorrow, through survival, through service."*
 

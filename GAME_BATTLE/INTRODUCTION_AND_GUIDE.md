@@ -189,7 +189,7 @@ Authors and specialists must strictly observe the four quality laws of the Somna
 1. **Monospace ASCII Box Symmetry:**
    - Every ASCII HUD must be enclosed in non-markdown code fences (````text ... ````).
    - Compact boxes must have a width of exactly 71 columns (`+` + 69 `-` + `+`).
-   - Extended wide-format boxes must have a width of exactly 127 or 128 columns per `TEST_TEXT_BOX_WIDTHS.md`.
+   - Extended wide-format boxes must have a width of exactly 127 or 128 columns per `ARCHIVE/TEST_TEXT_BOX_WIDTHS.md`.
    - Every line must start with `+` or `|` and terminate with `+` or `|`. Zero crooked rows.
 2. **Zero Forbidden Formatting Tags:**
    - No raw HTML line-break tags.

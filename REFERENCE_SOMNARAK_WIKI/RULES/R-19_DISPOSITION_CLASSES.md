@@ -31,5 +31,5 @@ entity's existence does to the institution holding it, kept strictly separate fr
 
 ## Where it lives
 
-`REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md`. The index carries its own coverage count and is
+`REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md`. The index carries its own coverage count and is
 never presented as complete while entities remain pending.
