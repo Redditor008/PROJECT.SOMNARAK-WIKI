@@ -158,7 +158,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | In both recorded escapes the paper figure walked to the desk of the transcriber with an open tale, then walked back after it was finished. No independent hunting cloud or transformed body is recorded. |
-| **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
+| **Effect** | The tale tells itself through whoever is holding the record, and it is never the same tale twice. The pressure is in the telling, and the register that keeps it is the only thing that has ever held it still. |
 | **First Target** | Whoever has an open tale in the register. In both breaches it went to that person's desk and stood by it, and in neither case did it do anything else. |
 | **Escalation** | +5 Lament drain per cycle, but the sector's note is that both breaches ended without suppression: the transcriber finished the open tale at their own desk and the entity walked back to SECTOR-C-900 unaccompanied. |
 

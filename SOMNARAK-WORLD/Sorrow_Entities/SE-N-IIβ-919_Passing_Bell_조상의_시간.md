@@ -142,7 +142,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 |---|---|
 | **Breach Type** | Expansion |
 | **Movement** | The entity's spirit influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Weight pressure radiates — the spirit register makes it personal, targeted, unavoidable. |
+| **Effect** | The bell is heard by whoever is going to be affected by it, and by nobody else. The pressure arrives as a certainty that the next passing is for them. |
 | **First Target** | Nobody. The voices speak to each other and have addressed a living person four times in 71 hours, each time after being spoken to first. |
 | **Escalation** | +5 Weight drain per cycle for as long as the hour runs. It does not advance and nothing approaches; the drain is the cost of sitting inside it. |
 

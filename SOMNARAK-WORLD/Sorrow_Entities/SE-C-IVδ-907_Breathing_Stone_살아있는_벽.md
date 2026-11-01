@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-907 [WP]` |
-| **Entity Type** | **Place** — Can breach via Transform |
+| **Entity Type** | **Place** — Can breach via Expansion |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -44,57 +44,43 @@
 - Three ignored conditions escalate it. The body register carries contact, so handlers are screened physically rather than by gauge.
 - Extraction is separately authorised and carries the same exposure as a cycle, because both consist of standing within arm's length of a wall that is breathing.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight. The wall is load-bearing and the figure is a formality; nothing has been attempted against it and the structural office has written that nothing may be. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 30–41 per hit · Weight |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** Its own Battle Phases say it in two words — *Clash: None available* — and the stat line agrees before the reader reaches them: the Speed row reads *N/A — fixed*, and the Resistance row adds that the structural office has written that nothing may be attempted against the span. Four hundred people a day walk past it. Nobody has ever been hurt by it, and the file records no injury of any kind.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A section of corridor wall in Zone C that has become flesh — warm at thirty-four degrees, pale, faintly breathing, with brick showing through the skin like bones through thin cloth and dark Han pulsing beneath. |
+| **Perceptible to** | The warmth first, on a corridor where a wall should be cold; then the regularity — the span breathes at nine a minute and the rate matches no respiration taken from anybody present. |
+| **Handling** | Walk the marked line on the far side and do not stop, do not touch, do not cross. The span carries a permanent exclusion from the maintenance schedule, the structural reference and the three fixed sensor positions are confirmed before entry, and the near side is stood on by nobody at all. |
+| **Activation threshold** | Three ignored conditions. When they pass, the affected surface extends along the fixed wall run; it has never crossed a doorway and has never reached the floor. |
+| **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-907 |
-| **Resolution Condition** | Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the body pressure legible against the wall's own rate; Ferrehan is standing the count from the far side for the full ten minutes without letting the observer's breathing take the wall's rate. |
+| **Location** | SECTOR-C-907 |
+| **Resolution Condition** | Count the wall's rate and the observer's, and log the two series unreconciled |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "The wall you are walking past is breathing, and it has been the whole time." | [The respiration becomes apparent to somebody who has walked the corridor for years.] | *Weight pressure on recognition; every member of the wing has had this once and nobody has had it twice.* **[Weight DMG [Weight]]** | On first recognition, which for most staff is years into their service. |
-| { *The Body Surge* [**Attack**] } | "Your own breathing goes to the wall's rate and will not come back." | [The observer's respiration entrains to the wall's.] | *Weight damage; the two series diverge afterwards and the station's whole measurement problem is which of them is wrong.* **[Weight DMG [Weight]]** | Past about ten minutes on the line. |
-| { *The Settling* [**Attack**] } | "It holds a breath, and so does the corridor, and so do you." | [The respiration pauses and everything in the corridor pauses with it.] | *Heavy Weight damage to anybody present. Nine occurrences; the longest hold was fifty-one seconds and nobody in the corridor breathed for any of it.* **[Weight DMG [Weight]]** | When somebody touches the wall. |
-| { *The Body Collapse* [**Ultimate**] } | "Every wall in the wing takes the rate, and the building is breathing." | [The respiration propagates through the structure.] | *Weight erosion to everyone inside for three cycles.* **[Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,233 structural survey. |
+| Event | What the wall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | Becomes apparent to somebody who has walked the corridor for years: the respiration was always there and the worker has only now noticed it. | Confirms the span by structural reference, the three fixed sensor positions and the four runs of damaged brick, and chalks the walking line on the far side before anything else. | Identification is by the structure and not by the surface. There are four runs of damaged brick on this floor and only one of them is breathing. |
+| { *The Body Surge* [**Exposure**] } | The observer's respiration entrains to the wall's. The two series diverge on the sheet that evening rather than in the corridor. | Starts the timer at the moment of entrainment, leaves at ten minutes whether or not the series reconciled, and reports the observer to occupational health rather than to the gauge. | 147 of 188 cycles show the observer matching the wall at nine a minute. That figure is the finding. No cycle has ever altered the wall's rate. |
+| { *The Settling* [**Refusal**] } | Holds a breath, and the corridor holds it with the span. It is not aimed at anybody; it pauses and the room pauses, and the pause is the whole of the event. | Does not test it by standing closer. Keeps the count running through the pause and records its length in seconds. | Nothing is struck and nothing strikes. The corridor empties during the pause because the instruction says to keep walking, not because anything was driven out of it. |
+| { *The Body Collapse* [**Overload**] } | Every wall in the wing takes the rate and the building begins breathing, while the extension runs along the fixed span and stops at the doorway it has never crossed. | Withdraws past the far side, records the extension in metres along the wall run against the last survey, and attempts neither suppression nor contact. | Five Weight drain per cycle for as long as somebody stands on the near side. Nothing done to the wall changes the rate, because the gauge is reading the building and the building takes no instruction. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The observer stands on the marked line on the far side of the corridor, starts a watch, and counts the wall's respirations for ten minutes without crossing. A second observer counts the first observer's.
-2. **Clash:** None available. The holding is a wall in a corridor that four hundred people a day walk past, and the cycle is two people counting breaths on opposite sides of a painted line.
-3. **Resolution:** Two respiration series, logged separately and not reconciled. 188 cycles; the wall's rate is 9 a minute and has never varied, and the observer's rate matches it in 147 of them. It closes against the documented suppression condition: **Two respiration series, logged separately and not reconciled**.
+1. **What is confirmed:** the structural reference, the three fixed sensor positions, the painted line, and which of the four runs of damaged brick is the one breathing.
+2. **What the watch does:** Viderehan for the body pressure and Ferrehan for the count, two observers on opposite sides of the painted line for ten minutes, with the sensors read at both ends of the watch.
+3. **How it closes:** the close is the file's documented condition — **Count the wall's rate and the observer's** — entered as two respiration series logged separately and never reconciled, with 188 cycles on file and the observer matching in 147 of them.
 
 ### Consequences
 
 - A worker who cannot hold does not panic. They become aware of their own breathing and cannot stop being aware of it, and the awareness persists for hours after they have left the corridor.
-- Prolonged exposure produces no injury of any kind that has ever been recorded, and a small, measurable, durable cost that the occupational-health study below puts at four minutes of sleep latency and three tenths of an intrusive recollection per passage.
-- The Breathing Stone equipment lends the bearer the patience of a thing that has been in one place a very long time, and charges for it in the manner recorded in the equipment section: the bearer stops finding delays unpleasant, including delays that ought to be reported.
+- Prolonged exposure produces no injury of any kind that has ever been recorded, and one small, measurable, durable cost that the occupational-health study puts at four minutes of sleep latency a night for a month.
+- The Breathing Stone equipment lends the bearer the patience of a thing that has been in one place a very long time, and charges for it in the manner recorded in the equipment section: the bearer stops being able to tell the difference between waiting and staying.
+- Unresolved, the extension keeps its slow line along the wall and sets off the escalation entries the dossier already carries. It has never crossed a doorway and the file does not assume that it never will.
 
 ## Appearance
 
@@ -137,8 +123,8 @@ The practical consequence is that nothing here can be screened by gauge. A gauge
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Permits study; the body pressure becomes legible under sustained observation. | Decrease |
-| **Ferrehan** (Endurance) | Recognizes patience; the weight pressure settles gradually under sustained presence. | Decrease |
+| **Viderehan** (Observation) | Makes the body pressure legible against the wall's own rate: what the worker is feeling and what the span is doing, read side by side and never averaged. | Decrease |
+| **Ferrehan** (Endurance) | The count itself is the work — ten minutes on the far side without stopping, and the observer's breathing kept off the wall's rate. | Decrease |
 
 ### Operational Work Notes
 
@@ -152,7 +138,7 @@ Breathing Stone is a Place with Place-Body manifestation and Weight expression, 
 |---|---|
 | **Breach Type** | Expansion |
 | **Movement** | The affected surface extends along the fixed wall run; it has never crossed a doorway or reached the floor. |
-| **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
+| **Effect** | The weight is the building's and it arrives through the corridor: warmth at thirty-four degrees, a rate at nine a minute, and a body that finds itself keeping time with a wall. |
 | **First Target** | Whoever stops. It has never affected anybody walking past at a normal pace, in nineteen years of a corridor used by the whole wing, and the entire containment is the instruction not to stop. |
 | **Escalation** | +5 Weight drain per cycle while somebody stands on the near side. It does not reach the far side of the corridor, which is where the marked line is and why it is there. |
 

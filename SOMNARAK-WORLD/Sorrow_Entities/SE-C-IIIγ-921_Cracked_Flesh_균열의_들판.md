@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-921 [GH]` |
-| **Entity Type** | **Hazard** — Can breach via Transform |
+| **Entity Type** | **Hazard** — Can breach via Expansion |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

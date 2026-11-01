@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-909 [VP]` |
-| **Entity Type** | **Place** — Can breach via Transform |
+| **Entity Type** | **Place** — Can breach via Expansion |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -155,7 +155,7 @@ The Labyrinth is a Place with Place-Mind manifestation and Void expression, held
 |---|---|
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the mind register makes it personal, targeted, unavoidable. |
+| **Effect** | The labyrinth reaches into whoever is thinking hardest and gives them a chart of their own that nobody else can walk. Walking costs nothing; standing still is what the corridors do the work on. |
 | **First Target** | Whoever is thinking hardest. The transcripts make this plain: the entrant who was working something out is the one the thought arrives in, every time, and the anchor — who is doing nothing but listening — has never been affected. |
 | **Escalation** | +5 Void drain per cycle while an entrant is stationary. Walking costs nothing; the labyrinth has never reached anybody who kept moving. |
 

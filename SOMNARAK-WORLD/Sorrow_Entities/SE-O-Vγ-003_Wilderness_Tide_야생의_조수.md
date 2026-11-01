@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Vγ-003 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform independently; surges against the border |
+| **Entity Type** | **Object/Place** — Can breach via Corrupt independently; surges against the border |
 | **Coherence** | V — Sovereign (a force rather than a being) |
 | **Potency** | γ — Major |
 | **Sorrow Category** | Outside Sorrow (외한) |

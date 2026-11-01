@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The wall that was breathing, and four breach types that disagreed with themselves (2026-11-01)
+
+**Breathing Stone `C-IVδ-907` is a Contact Record.** The file had said it in its own words for years and nobody had moved the section header: its Battle Phases read *"Clash: None available — the holding is a wall in a corridor that four hundred people a day walk past, and the cycle is two people counting breaths on opposite sides of a painted line"*, the Speed row read `N/A — fixed`, and no injury of any kind had ever been recorded against it. Nothing about the holding has changed; the sixteen-turn boss encounter has. The 188 cycles on file — wall at nine a minute, observer matching in 147 — are now the Watch Sequence's closing condition, **Count the wall's rate and the observer's, and log the two series unreconciled**, which is what the phases were already describing.
+
+**Four `Entity Type` rows named a breach type their own Breach Behavior contradicted** — `Transform` on three Places/Time and on one Hazard, where the breach section said Expansion, and `Transform` on one Object/Place where it said Corrupt. Each now names the type the file actually breaches by.
+
+**Seven stock `Effect` rows** — *"pressure radiates — the register makes it personal, targeted, unavoidable"* — named the element and the register and nothing else. Each now says what arrives: warmth at thirty-four degrees and a body keeping time with a wall; a bell heard only by whoever it is going to affect; an hour that gives its story to one person and leaves the rest certain they were left out.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `check_stat_bands` PASS · `label_lint` 0 · `timeline_lint` PASS · `check_links` 0 broken · `breach.py` 195/301 unchanged.
+
+
 ## Nine non-breach events that were all the same event (2026-11-01)
 
 Nine Contact Records carried the identical line under `Event type (non-breach)`: *Corrupt — the containment zone warps and spreads.* The nine holdings have nothing else in common. Each now names its own event, and each is indexed to the thing the file already measures: Forgotten Silence widens one step per unsaid thing, Soaking Rope turns the room into the thing being held, Wrath Flame spreads to whatever it reads as disrespect and keeps reading while it is watched, Neverlast is fed by every watch booked in advance and then missed, Relic of a Thousand Owners widens with each new claim.

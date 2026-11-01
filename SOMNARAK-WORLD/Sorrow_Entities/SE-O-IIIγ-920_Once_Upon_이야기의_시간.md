@@ -142,7 +142,7 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 |---|---|
 | **Event Type** | Expansion |
 | **Movement** | The recorded radius remains fixed. The exceptional escalation made registered stories run simultaneously rather than in sequence; it is not evidence of a larger boundary or a travelling source body. |
-| **Effect** | Lament pressure radiates — the tale register makes it personal, targeted, unavoidable. |
+| **Effect** | The hour gives its story to one person at a time and makes it viscerally real. What the others in the radius get is the certainty of having been left out of it. |
 | **First Target** | Whoever is listening. Characters approach people who stop to hear them and ignore people who keep walking, which is the only behaviour in the file that resembles a choice. |
 | **Escalation** | +5 Lament drain per cycle while a worker is inside the radius, rising with the minute rather than with anything the worker does. Past the fiftieth minute the risk changes in kind, not degree. |
 

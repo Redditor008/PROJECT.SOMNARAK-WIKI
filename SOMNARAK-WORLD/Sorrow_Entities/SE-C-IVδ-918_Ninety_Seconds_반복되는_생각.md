@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-918 [VT]` |
-| **Entity Type** | **Time** — Can breach via Transform |
+| **Entity Type** | **Time** — Can breach via Expansion |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -154,7 +154,7 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 |---|---|
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Void pressure radiates — the mind register makes it personal, targeted, unavoidable. |
+| **Effect** | The ninety seconds repeat and the previous pass survives only as a sense of having decided already. Nothing presses and nothing approaches; the interval simply arrives again. |
 | **First Target** | Whoever has something unresolved, which is everybody, and the thought is always theirs — the holding has never supplied content in 211 cycles. |
 | **Escalation** | +5 Void drain per pass. The boundary does not move and nothing comes out of it; the escalation is entirely a count of how many times somebody has gone round. |
 

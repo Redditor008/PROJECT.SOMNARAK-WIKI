@@ -142,7 +142,7 @@ The table says the two available Work Types both reduce the gauge and does not s
 |---|---|
 | **Event Type** | Expansion |
 | **Movement** | Normally bounded by the bay doorway. The recorded contraction temporarily extended the active boundary to the first corridor junction; no travelling soldier or transformed anatomical body is documented. |
-| **Effect** | Weight pressure radiates — the body register makes it personal, targeted, unavoidable. |
+| **Effect** | The weight arrives through the body and is read as tiredness until it is read as something else. Nothing in the room presses; the corridor simply asks more of the muscles than the muscles have. |
 | **First Target** | Anybody inside the doorway, equally. It has never selected between two people in the bay and both occasions with two present produced identical reports. |
 | **Escalation** | +5 Weight drain per cycle within the active loop boundary. The ordinary doorway limit must be read beside the recorded temporary corridor extension; leaving the bay alone cannot be claimed as a universal safe boundary. |
 
