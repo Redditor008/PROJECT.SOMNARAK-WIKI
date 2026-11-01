@@ -19,7 +19,7 @@ The Mirror formed from self-knowledge that people were too exhausted to face. Th
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIγ-954 [VS] |
-| Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / Zone A, Alpha Tree |
 | Gauge / Pressure | 739/739; starts 45–65% / 17–39 per hit · Void |

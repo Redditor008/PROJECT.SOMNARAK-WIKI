@@ -19,7 +19,7 @@ The Fragment formed from a monument broken by accumulated obligation. The burden
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IVδ-115 [WO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / Zone E, Border region |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Weight |

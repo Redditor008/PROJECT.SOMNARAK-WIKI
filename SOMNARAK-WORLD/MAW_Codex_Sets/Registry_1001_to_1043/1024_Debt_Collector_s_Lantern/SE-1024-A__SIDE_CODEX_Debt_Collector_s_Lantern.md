@@ -19,7 +19,7 @@ The Lantern formed from the sorrow of collecting from others. The weight of taki
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIβ-250 [WO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Echo (II) — Repeats glowing / Moderate (β) |
 | Element / Location | Weight / Zone C, Collector's Row — ambient |
 | Gauge / Pressure | 386/386; starts 35–50% · Weight — no attack pattern: fixed to its mount, and what it delivers arrives as a showing rather than a blow (Contact Record, R-36) |

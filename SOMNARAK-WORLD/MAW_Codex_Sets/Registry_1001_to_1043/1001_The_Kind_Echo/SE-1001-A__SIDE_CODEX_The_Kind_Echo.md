@@ -19,7 +19,7 @@ The Kind Echo formed from the collective comfort the city's first settlers gave 
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-000 [LS] |
-| Type / Manifestation | Subject — Can breach; will not attack / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone; will not attack / Subject-Lament |
 | Coherence / Potency | I — Residue (barely formed; a faint, kind emotional imprint) / α — Minor |
 | Element / Location | Lament / SECTOR-D-01, The Forge District — Training Containment Unit |
 | Gauge / Pressure | 50/50; starts 10–20% / 2–5 per hit · Lament |

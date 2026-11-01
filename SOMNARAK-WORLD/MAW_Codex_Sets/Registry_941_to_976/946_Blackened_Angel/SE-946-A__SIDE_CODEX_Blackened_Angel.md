@@ -19,7 +19,7 @@ Blackened Angel was once a pure golden wishing-angel in a city alcove — a smal
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVγ-946 [WO] |
-| Type / Manifestation | Object — Can breach via Transform/activation / Object-Tale |
+| Type / Manifestation | Object — Non-breaching: activation only; /activation / Object-Tale |
 | Coherence / Potency | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt / Major (γ) |
 | Element / Location | Weight / The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site) |
 | Gauge / Pressure | 750/750; starts 55–75% (it begins each cycle already heavy with old wishes) · Weight — no attack pattern: the statue does not move and does not strike; wishes are what it takes (Contact Record, R-36) |

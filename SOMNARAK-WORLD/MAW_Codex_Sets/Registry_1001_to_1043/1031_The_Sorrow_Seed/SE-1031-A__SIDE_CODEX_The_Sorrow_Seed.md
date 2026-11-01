@@ -19,7 +19,7 @@ The Seed formed from concentrated grief waiting for a form. Potential sorrow—t
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-300 [D] |
-| Type / Manifestation | Subject — Can breach / Object-Weight |
+| Type / Manifestation | Subject — Non-breaching: manifestation in place / Object-Weight |
 | Coherence / Potency | Residue (I) — Barely formed, dormant / Minor (α) |
 | Element / Location | Weight / Zone D, Echo Gardens |
 | Gauge / Pressure | 174/174; starts 25–40% / 2–7 per hit · Weight |

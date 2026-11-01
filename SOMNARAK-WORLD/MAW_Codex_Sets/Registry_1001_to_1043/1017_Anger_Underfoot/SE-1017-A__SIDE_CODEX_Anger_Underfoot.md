@@ -19,7 +19,7 @@ The Trace formed from a grievance carried through places rather than people. The
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-175 [GP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: manifestation in place / Place-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge / Zone D, Mantle Commons |
 | Gauge / Pressure | 225/225; starts 25–40% · Grudge — no attack pattern: the trace advances and does not travel, and it has injured nobody in a hundred and ten years (Contact Record, R-36) |

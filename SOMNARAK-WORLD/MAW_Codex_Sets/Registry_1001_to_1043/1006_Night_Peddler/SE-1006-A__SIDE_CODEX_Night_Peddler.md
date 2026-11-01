@@ -19,7 +19,7 @@ The Stall formed from the grief of merchants whose livelihoods vanished as the c
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIα-062 [VO] |
-| Type / Manifestation | Object/Place — Can breach via Transform; appears and disappears / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only; appears and disappears / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats appearing overnight / Minor (α) — Low danger |
 | Element / Location | Void / Zone B, Forgotten Market — mobile manifestation |
 | Gauge / Pressure | 184/184; starts 25–40% / 2–8 per hit · Void |

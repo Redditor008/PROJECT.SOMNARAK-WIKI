@@ -19,7 +19,7 @@ The Ruin formed from a home remembered after it was destroyed. The pain of retur
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIγ-505 [VS] |
-| Type / Manifestation | Subject — Can breach / Subject-Dream |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / Zone C, Mask Market |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Void |

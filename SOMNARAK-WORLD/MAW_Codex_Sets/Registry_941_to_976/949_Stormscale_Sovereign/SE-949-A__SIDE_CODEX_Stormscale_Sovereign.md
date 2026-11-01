@@ -19,7 +19,7 @@ The Stormscale Sovereign is the form the Soot Fry became when it consumed the Fo
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Vδ-949 [MS] |
-| Type / Manifestation | Subject — Can breach; transformation-apex / Subject-Spirit |
+| Type / Manifestation | Subject — Non-breaching: transformation in place; transformation-apex / Subject-Spirit |
 | Coherence / Potency | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself / Critical (δ) |
 | Element / Location | Mixed / Latent — manifests only upon the reunion of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948); currently Unmanifested / Forbidden |
 | Gauge / Pressure | 1000/1000; starts 60–80% / 50–68 per cycle · Mixed |

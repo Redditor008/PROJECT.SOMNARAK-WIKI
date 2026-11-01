@@ -19,7 +19,7 @@ The Echo formed from calls for help that went unanswered. The despair of asking 
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIα-125 [VS] |
-| Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
+| Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats calling out / Minor (α) — Low danger |
 | Element / Location | Void / Zone D, Echo Gardens — ambient |
 | Gauge / Pressure | 201/201; starts 25–40% / 3–10 per hit · Void |

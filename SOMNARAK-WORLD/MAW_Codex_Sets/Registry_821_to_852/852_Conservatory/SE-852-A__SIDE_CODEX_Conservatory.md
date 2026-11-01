@@ -19,7 +19,7 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IVδ-852 [N] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge / Zone C, Mask Market |
 | Gauge / Pressure | 873/873; starts 60–80% / 30–65 per hit · Grudge |

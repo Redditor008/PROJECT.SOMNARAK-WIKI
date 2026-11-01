@@ -19,7 +19,7 @@ The Relic formed from an object lost before its owner could say farewell. The em
 | Field | Canonical record |
 |---|---|
 | Source designation | O-Iα-340 [VP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only. Failure does not produce a breach / Place-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void / The Desolate — mobile |
 | Gauge / Pressure | 198/198; starts 25–40% · Void — no attack pattern: the outline holds an absence, and contact is standing in its cold (Contact Record, R-36) |

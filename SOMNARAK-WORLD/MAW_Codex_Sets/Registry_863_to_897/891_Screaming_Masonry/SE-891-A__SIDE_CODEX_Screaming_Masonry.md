@@ -19,7 +19,7 @@ The Scream formed from obligations that were never fulfilled. The pressure of pr
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIIγ-891 [D] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Weight / Zone B, Old Lament — ambient |
 | Gauge / Pressure | 607/607; starts 45–65% / 14–33 per hit · Weight |

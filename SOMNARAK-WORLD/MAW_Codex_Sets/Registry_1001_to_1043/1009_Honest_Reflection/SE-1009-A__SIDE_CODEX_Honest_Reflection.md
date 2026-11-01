@@ -19,7 +19,7 @@ The Mirror formed from memories that citizens asked the Keepers to seal away. De
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIα-081 [VO] |
-| Type / Manifestation | Object/Place — Can breach via Transform; activation possible / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats showing reflections / Minor (α) — Low danger |
 | Element / Location | Void / SECTOR-A-01, Alpha Tree Archive — contained |
 | Gauge / Pressure | 226/226; starts 25–40% / 3–10 per hit · Void |

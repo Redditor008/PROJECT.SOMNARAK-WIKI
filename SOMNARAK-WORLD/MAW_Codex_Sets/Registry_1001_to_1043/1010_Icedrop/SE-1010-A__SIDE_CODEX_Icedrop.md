@@ -19,7 +19,7 @@ The Tear formed from sorrow too deep to flow. The grief of someone unable to cry
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIβ-102 [LO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Lament |
 | Coherence / Potency | Echo (II) — Repeats melting, never melting / Moderate (β) |
 | Element / Location | Lament / SECTOR-D-02, Echo Gardens |
 | Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |

@@ -19,7 +19,7 @@ The Trace formed from a life broken into disconnected pieces. The weight of surv
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-250 [WS] |
-| Type / Manifestation | Subject — Can breach / Subject-Void |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / Zone D, Mantle Commons |
 | Gauge / Pressure | 846/846; starts 60–80% / 29–64 per hit · Weight |

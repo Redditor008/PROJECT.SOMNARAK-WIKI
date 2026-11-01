@@ -19,7 +19,7 @@ The Well formed from rage buried so deeply that it became an inner landscape. An
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-869 [GS] |
-| Type / Manifestation | Subject — Can breach / Subject-Mind |
+| Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge / The Desolate — mobile |
 | Gauge / Pressure | 800/800; starts 60–80% / 27–59 per hit · Grudge |

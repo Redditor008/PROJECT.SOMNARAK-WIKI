@@ -19,7 +19,7 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIIγ-948 [LO] |
-| Type / Manifestation | Object — Can breach via Transform/activation / Object-Spirit |
+| Type / Manifestation | Object — Non-breaching: activation only; /activation / Object-Spirit |
 | Coherence / Potency | Fragment (III) — Feels everything, and cannot lift from the earth / Major (γ) |
 | Element / Location | Lament / The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | Gauge / Pressure | 600/600; starts 50–70% · Lament — no attack pattern: the flood is standing water, read from outside it and never struck (Contact Record, R-36) |

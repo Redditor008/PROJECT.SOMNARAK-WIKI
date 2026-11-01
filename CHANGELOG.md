@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Forty-three codexes stop contradicting their own dossiers (2026-11-01)
+
+A Side Codex is supposed to be the same record at card size. Forty-three of them still filed their entity under *Can breach* while the dossier they mirror had already been moved to a non-breaching category, which meant a handler could read the card and the file and get opposite answers on the one question that decides whether to run.
+
+**What changed.** Every stale `Type / Manifestation` row now carries the dossier's own category — *Non-breaching: activation only*, *manifestation in place*, *transformation in place*, *corruption of its own zone* — with the codex's own descriptive tail and its manifestation suffix kept where they were. The Maw's row read *Can Transform into Breach Subject entity (Place→Subject breach) when expansion exceeds Zone B containment* and now reads *Place (Special Transform Type) — Non-breaching: manifestation in place; activates on increase in the city's collective sorrow*, which is what the dossier has said since it was written. Flotsam's dossier row was malformed into the bargain — *Non-breaching transformation in place:* with no colon after the category — and is normalised.
+
+**Forty-six codexes still say breach, and should**: those are the dossiers that still breach. The census is now zero disagreements in either direction.
+
+## The Dancing Chains stop being fought (2026-11-01)
+
+`[The Dancing Chains](SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md)` carried a full combat record — a speed line, an attack band, five actions, twelve turns of *clash* — for a pair of chains bolted to a cell floor that have never been recorded at rest. The file argues with itself in its own first action: *nobody is attacked here*.
+
+It is a `## Contact Record` now. The table gives the mode of presence, what a handler perceives, and the handling rule that matters more than any of it: the piece is fitted by a named second person who stays outside the working distance with their hands free, because the bearer cannot remove it, cannot be talked through the removal, and cannot authorise it on their own behalf. The four events are the first link, the rattling — the figure's period shortening while the dancer hears only their own breathing — the refusal, which belongs to the piece and not to the wearer, and the whole coil above 65 per cent, where the anchor loads in Zone B rise and nothing at all leaves the cell.
+
+**Codex synced** (`SE-102-A`): type row to *Non-breaching: activation only*.
+
+**Checks:** `wikistd` 301/301 · `label_lint` 301, 0 violations · `check_stat_bands` PASS · `check_links` 0 broken · `breach` RE 92.8 % / SE 42.7 % / OP 57.5 %, non-breaching **176 / 301**.
+
 ## Relic: the duplicate Duration and Risk block removed (2026-11-01)
 
 Every relic was saying the same four things twice. `## Activation Behavior` carried a flat `**Activation Trigger:** / **Effect:** / **Duration:** / **Risk:**` block, and immediately below it the `### Tool Use Profile` restated all four as table rows, often word for word. A handler reading down the page met the same duration twice and the same burn risk twice, which is how a limit gets ignored.

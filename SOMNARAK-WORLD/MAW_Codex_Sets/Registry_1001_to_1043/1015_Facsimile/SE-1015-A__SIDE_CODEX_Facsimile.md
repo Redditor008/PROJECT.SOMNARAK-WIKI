@@ -19,7 +19,7 @@ The object formed from a promise that was used as a weapon. Betrayal—the grief
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIγ-160 [GO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | Fragment (III) — Bitter and betrayed / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-01, Collector's Row |
 | Gauge / Pressure | 693/693; starts 45–65% / 14–32 per hit · Grudge |

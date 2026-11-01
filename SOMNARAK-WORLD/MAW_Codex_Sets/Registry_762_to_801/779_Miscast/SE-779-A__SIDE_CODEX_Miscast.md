@@ -19,7 +19,7 @@ The Relic formed from an object destroyed before its work was complete. The grie
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-779 [GO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge / Zone D, Forge District |
 | Gauge / Pressure | 181/181; starts 25–40% / 3–10 per hit · Grudge |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-782 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching transformation in place: everything stored in the affected volume becomes heavy and anonymous. Workers can lift the objects and cannot say what any of them are for; the condition does not pursue personnel. |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; everything stored in the affected volume becomes heavy and anonymous, and the condition does not pursue personnel |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |

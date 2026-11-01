@@ -19,7 +19,7 @@ The Mirror formed from rage that could not be spoken safely. The grief of injust
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIβ-801 [GO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats reflecting anger / Moderate (β) |
 | Element / Location | Grudge / Zone C, Collector's Row |
 | Gauge / Pressure | 403/403; starts 35–50% / 9–21 per hit · Grudge |

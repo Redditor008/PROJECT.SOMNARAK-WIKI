@@ -19,7 +19,7 @@ The Bridge formed from crossings interrupted by catastrophe. The grief of journe
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-823 [LS] |
-| Type / Manifestation | Subject — Can breach / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone B, deep tunnels |
 | Gauge / Pressure | 809/809; starts 60–80% / 25–53 per hit · Lament |

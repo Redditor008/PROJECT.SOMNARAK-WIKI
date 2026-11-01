@@ -19,7 +19,7 @@ The entity formed from a city that stopped listening to its own final words. The
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-965 [N] |
-| Type / Manifestation | Subject — Can breach / Subject-Weight |
+| Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge / Zone C, Collector's Row |
 | Gauge / Pressure | 227/227; starts 25–40% / 2–7 per hit · Grudge |

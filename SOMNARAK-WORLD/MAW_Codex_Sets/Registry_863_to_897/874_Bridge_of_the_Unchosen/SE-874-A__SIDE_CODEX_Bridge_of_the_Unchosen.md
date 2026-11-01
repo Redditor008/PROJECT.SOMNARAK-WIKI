@@ -19,7 +19,7 @@ The Bridge formed from a crossing that was never taken. The grief of what could 
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIγ-874 [D] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void / Zone D, Echo Gardens |
 | Gauge / Pressure | 699/699; starts 45–65% · Void — no attack pattern: the span is fixed, voids no shard and has never been struck (Contact Record, R-36) |

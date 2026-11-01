@@ -19,7 +19,7 @@ The Chain formed from memories passed through families and communities. The weig
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIIβ-200 [WO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Fragment (III) — Binding and connecting / Moderate (β) |
 | Element / Location | Weight / SECTOR-C-01, Collector's Row |
 | Gauge / Pressure | 484/484; starts 35–50% / 8–19 per hit · Weight |

@@ -19,7 +19,7 @@ The Well formed from mourning that had no witness. The need to tell a loss and f
 | Field | Canonical record |
 |---|---|
 | Source designation | N-IIβ-778 [LP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Lament |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Place-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Lament / Zone E, Border region |
 | Gauge / Pressure | 436/436; starts 35–50% / 8–19 per hit · Lament |

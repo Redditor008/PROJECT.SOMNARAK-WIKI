@@ -19,7 +19,7 @@ The Chain formed from bonds that became imprisonment. The grief of being held by
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-976 [O] |
-| Type / Manifestation | Subject — Can breach / Subject-Grudge |
+| Type / Manifestation | Subject — Non-breaching: corruption of its own zone / Subject-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / Zone B, Old Lament — ambient |
 | Gauge / Pressure | 855/855; starts 60–80% / 24–53 per hit · Void |

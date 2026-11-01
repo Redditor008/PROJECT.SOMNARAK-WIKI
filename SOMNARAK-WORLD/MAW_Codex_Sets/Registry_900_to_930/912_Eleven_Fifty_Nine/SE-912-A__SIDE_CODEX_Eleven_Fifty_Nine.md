@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIIγ-912 [LT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Lament |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-C-912, contained |
 | Gauge / Pressure | 500/500; starts 35–50% / 17–29 per hit · Lament |

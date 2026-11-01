@@ -19,7 +19,7 @@ The Shadow formed from grief that outlived the person who first carried it. The 
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-767 [LP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: manifestation in place / Place-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone A, Alpha Tree |
 | Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |

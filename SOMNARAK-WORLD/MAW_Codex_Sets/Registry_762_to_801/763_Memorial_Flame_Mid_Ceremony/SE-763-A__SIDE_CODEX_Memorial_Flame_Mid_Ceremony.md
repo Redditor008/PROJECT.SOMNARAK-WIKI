@@ -19,7 +19,7 @@ The Flame formed from a fire extinguished before its owner could grieve. The pai
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVδ-763 [LP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
+| Type / Manifestation | Object/Place — Non-breaching: manifestation in place / Place-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone A, Alpha Tree vault |
 | Gauge / Pressure | 993/993; starts 60–80% / 27–60 per hit · Lament |

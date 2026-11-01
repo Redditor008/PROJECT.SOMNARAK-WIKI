@@ -19,7 +19,7 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 | Field | Canonical record |
 |---|---|
 | Source designation | N-Iα-785 [O] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
+| Type / Manifestation | Object/Place — Non-breaching: activation only. Unworked, it does not escape and does not grow / Object-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone D, Echo Gardens |
 | Gauge / Pressure | 227/227; starts 25–40% / 3–9 per hit · Lament |

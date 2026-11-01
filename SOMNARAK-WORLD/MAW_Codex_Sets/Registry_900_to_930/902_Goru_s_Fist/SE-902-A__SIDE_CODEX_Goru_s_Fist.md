@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIIγ-902 [GO] |
-| Type / Manifestation | Object — Can breach via Transform / Object-Body |
+| Type / Manifestation | Object — Non-breaching: activation only / Object-Body |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-902, contained |
 | Gauge / Pressure | 500/500; starts 35–50% / 17–26 per hit · Grudge |

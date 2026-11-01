@@ -45,51 +45,36 @@
 - Structural pressure is literal here. Anchor points in Zone B are inspected on a fixed schedule, not on suspicion.
 - Extraction is a distinct exposure with its own authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Grudge pressure; 25% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 686/686 |
-| **Han Pressure [ATK]** | 19–43 per hit · Grudge |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The links are fused and grown rather than forged, and have never been recorded at rest; the pair is stationary in SECTOR-B-01 and nothing in the record reaches beyond the body it has closed on. The file says it in its own words: *nobody is attacked here*. What happens after contact happens inside one worker, at a pace they did not choose and cannot set down.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Personality compelled to dance |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | Two dark chains of crystallised rage, links fused and grown rather than forged, cold and ridged like clenched vertebrae, moving continuously in a repeating figure and never once recorded at rest. Fever-hot where they grip. |
+| **Perceptible to** | The repeating figure first, and then how little sound they make — the bound worker's own breathing falling out of step with their feet is the loudest thing in the cell. Contact is warm and almost eager at the wrist, and that is the last reliable sensation the wearer reports. |
+| **Handling** | Worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person who stays outside the working distance with their hands free; the bearer cannot remove the piece, cannot be talked through the removal, and cannot authorise it on their own behalf. Attempting removal alone is a procedural failure whether or not it succeeds. |
+| **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
+| **Sorrow Gauge [HP]** | 686/686 — the containment meter, read on the figure and not on the dancer |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-B-01, Zone B — contained |
+| **Valid Work Types** | Viderehan and Ferrehan only, never by one person. The two-person rule admits no exception for brevity, and both names are written by two different hands. |
+| **Location** | SECTOR-B-01, Zone B — contained |
 | **Resolution Condition** | The pattern is slowed to the logged baseline and the gauge falls below 25%; if a worker is bound at any point, the cycle is over and the only remaining task is removal. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Link* [**Debuff**] } | "One link finds your wrist — and it is warm, almost eager." | [A single chain loops the target; the iron hums with old resentment.] | *Target suffers -10 Resilience; the chain has chosen them.* **[10 Grudge DMG [Grudge]]** | When the Chains begin to move. |
-| { *The Rattling* [**Debuff**] } | "There are only ever the two chains, and they make almost no sound. What the target hears is their own breathing falling out of step with their feet." | [Nothing multiplies and nothing tightens of itself; the figure's period shortens, and the second Warden's watch is the instrument that notices.] | *Target loses 10 Resilience; the compulsion is a rate, not a weight.* **[10 Grudge DMG [Grudge]]** | When the bound worker struggles — struggling being one more kind of movement. |
-| { *The Whip* [**Attack**] } | "Nobody is attacked here. The chains have never bound anybody who did not make contact with them, and they do not lash; the person inside them moves faster than thought and the damage arrives as exhaustion." | [No chain snaps taut. The bound worker's own accelerated movement does the work, which is why the second pair of hands stays outside the figure.] | *Inflicts Grudge pressure; the wound is pace the worker cannot set down.* **[14-22 Grudge DMG [Grudge]]** | After contact — deliberate or otherwise. |
-| { *The Binding* [**Attack**] } | "The first link closes, and the body finds a rhythm it never learned. There is nobody to command it and nothing in it is enraged; the curse is forgotten and the dancing is not." | [The pair closes on whoever touched them. Removal is not a thing the bound worker can do, be talked through, or authorise on their own behalf.] | *A heavy Crimson surge; the target's Sorrow Gauge surges 15% while their own account of their state improves.* **[24-36 Grudge DMG [Grudge]]** | On direct contact or deliberate binding. |
-| { *The Whole Coil* [**Ultimate**] } | "Every chain in the place is the same two chains, still in the cell. What fills the field is the rate: the period shortens past the logged baseline and the anchor loads in Zone B rise with it." | [The escalation is carried by the building rather than by anybody in it — anchor points, mount and floor, never a reach for new wearers.] | *All personnel suffer Grudge pressure for three turns of shortening period.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Chains do | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The First Link* [**Register**] } | One link finds a wrist — warm, almost eager — and the iron hums with old resentment. The chain has chosen the person who touched it, not the person it was aimed at. | Nothing is done for the wearer by the wearer. The second Warden keeps their hands free; a rescue attempted by the bound worker is the one move that ends the cycle early. | There is no targeting here. Every binding on file began with contact somebody made, deliberate or otherwise. |
+| { *The Rattling* [**Exposure**] } | Almost no sound, and what the bound worker hears is their own breathing falling out of step with their feet, because the figure's period has begun to shorten. | The second Warden reads the period aloud against the logged baseline, because the dancer cannot: struggling is one more kind of movement, and it speeds the figure. | The compulsion is a rate, not a weight. Nothing multiplies and nothing tightens of itself; what changes is how fast the pair is moving. |
+| { *The Refusal* [**Refusal**] } | The piece will not come off. Removal is not a thing the bound worker can do, be talked through, or authorise on their own behalf. | A named second person takes it off. The attempt is not negotiated with the wearer and their consent is not the instrument of it. | The failure is procedural rather than moral: the wearer is the subject of the cycle and is no longer a participant in it, so their agreement cannot be the thing that releases them. |
+| { *The Whole Coil* [**Overload**] } | Above 65 per cent the period shortens past the logged baseline, and the anchor loads across Zone B rise with it. Every chain in the place is still the same two chains, still in the cell. | Withdraw the team, move the structural inspection forward, and attempt no removal during the surge. There is no new wearer to reach for and nobody is sent to be one. | The escalation is carried by the building rather than by anybody in it. Nothing spreads out of the cell and nothing gets out of the cell. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team identifies The Dancing Chains by the repeating figure and by the fused, grown links; never by stillness, which it has never exhibited, and never by sound, of which it makes almost none, confirms the approach, and takes position before anything else is attempted.
-2. **Clash:** Twelve turns, Viderehan and Ferrehan only, and never by one person. The two-person rule admits no exception for brevity, both names are written by two different hands, and the second Warden stands outside the working distance throughout so that there is always somebody whose hands are free.
-3. **Resolution:** Containment, management, retreat, or the documented condition: **the pattern is slowed to the logged baseline and the gauge falls below 25%**. If a worker is bound at any point, the cycle is over and the only remaining task is removal.
+1. **What is confirmed:** the repeating figure and the fused, grown links — never stillness, which the pair has never exhibited, and never sound, of which it makes almost none; the logged baseline period; the anchor loads in Zone B; and which two wardens are on the cycle and who is standing outside the working distance.
+2. **What the watch does:** Viderehan and Ferrehan, two names in two different hands, with the second Warden outside the working distance and their hands free throughout. Contact is never used to test the holding: the period is read and called aloud, not felt. If a worker is bound at any point, the cycle is over and the work becomes removal.
+3. **How it closes:** the close is the file's documented suppression condition — **The pattern is slowed to the logged baseline and the gauge falls below 25%; if a worker is bound at any point, the cycle is over and the only remaining task is removal.** Nothing is forced and nothing is coaxed; the figure is read down against a number taken on a day when nothing was bound to it.
 
 ### Consequences
 

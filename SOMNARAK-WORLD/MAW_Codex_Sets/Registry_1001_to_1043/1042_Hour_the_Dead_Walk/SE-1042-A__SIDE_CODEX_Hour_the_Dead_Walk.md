@@ -19,7 +19,7 @@ Not recorded Not recorded
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIγ-916 [LT] |
-| Type / Manifestation | Time — Can breach via Transform / Time-Phantasmal |
+| Type / Manifestation | Time — Non-breaching: expansion only / Time-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-O-916, contained |
 | Gauge / Pressure | 500/500; starts 35–50% / 17–27 per hit · Lament |

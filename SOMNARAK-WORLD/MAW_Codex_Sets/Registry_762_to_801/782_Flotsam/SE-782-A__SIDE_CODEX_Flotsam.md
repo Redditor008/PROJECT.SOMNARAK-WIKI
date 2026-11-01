@@ -19,7 +19,7 @@ The Relic formed from a treasured object becoming meaningless over time. The gri
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IIβ-782 [GS] |
-| Type / Manifestation | Subject — Can breach / Subject-Weight |
+| Type / Manifestation | Subject — Non-breaching: transformation in place / Subject-Weight |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge / Zone B, Old Lament |
 | Gauge / Pressure | 462/462; starts 35–50% / 7–17 per hit · Grudge |

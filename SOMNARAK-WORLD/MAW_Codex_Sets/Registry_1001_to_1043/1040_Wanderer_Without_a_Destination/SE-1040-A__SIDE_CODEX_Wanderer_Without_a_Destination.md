@@ -19,7 +19,7 @@ The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IIIγ-914 [N] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
+| Type / Manifestation | Object/Place — Non-breaching: expansion only. Mishandled, the drift widens across more of the vault network and the range has never afterwards contracted / Object-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / Zone A, Alpha Tree |
 | Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Lament |

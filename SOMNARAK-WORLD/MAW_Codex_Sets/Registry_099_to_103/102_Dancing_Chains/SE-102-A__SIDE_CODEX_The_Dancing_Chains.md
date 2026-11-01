@@ -21,7 +21,7 @@
 |---|---|
 | Entity | The Dancing Chains — 춤추는 사슬 |
 | Sorrow Category | City Sorrow |
-| Type / Manifestation | Object/Place, I-Relic — Object-Grudge |
+| Type / Manifestation | Object/Place, I-Relic — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Grudge |
 | Location | SECTOR-B-01, Zone B |

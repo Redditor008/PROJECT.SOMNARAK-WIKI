@@ -19,7 +19,7 @@ The Shard formed from sorrow that was shaped into an object rather than spoken. 
 | Field | Canonical record |
 |---|---|
 | Source designation | C-Iα-884 [VO] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void / Zone D, Echo Gardens |
 | Gauge / Pressure | 208/208; starts 25–40% · Void — no attack pattern: nothing launches from the shard, and the exposure is the instant it holds and the anger it hands over (Contact Record, R-36) |

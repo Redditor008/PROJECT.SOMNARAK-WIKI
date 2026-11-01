@@ -19,7 +19,7 @@ The Clocktower formed from a moment that could not end. The weight of waiting in
 | Field | Canonical record |
 |---|---|
 | Source designation | C-IVγ-240 [WP] |
-| Type / Manifestation | Object/Place — Can breach via Transform / Place-Weight |
+| Type / Manifestation | Object/Place — Non-breaching: activation only / Place-Weight |
 | Coherence / Potency | Entity (IV) — Self-aware, time-obsessed / Major (γ) |
 | Element / Location | Weight / Zone C, near Collector's Row |
 | Gauge / Pressure | 772/772; starts 45–65% / 14–31 per hit · Weight |
