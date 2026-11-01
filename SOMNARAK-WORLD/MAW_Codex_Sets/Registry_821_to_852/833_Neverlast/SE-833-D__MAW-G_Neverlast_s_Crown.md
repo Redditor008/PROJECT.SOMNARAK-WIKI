@@ -32,12 +32,12 @@ Neverlast’s Crown is the stigma record of Neverlast’s set — tail-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Neverlast Source-Trace: Stigma Record*
 
-The first Neverlast's Crown field bearer encountered this source response: Opens its history to the worker. The stigma discharges the immediate hazard only after the team attributed it to Neverlast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neverlast's Crown field bearer encountered this source response: Opens its history to the worker. The stigma discharges the immediate hazard only after the team attributed it to Neverlast. A bearer could describe every emergency of a thirty-year career and nothing else, and the Crown’s binding is the interview taken at that pension board.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Neverlast's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the ordinary hours stop being recorded at all, and the bearer answers questions about them from other people’s accounts.
 - Terminal state: Neverlast's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Remain with it and acknowledge the abandonment; do not promise a return” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first Neverlast's Crown field bearer encountered this source response: Opens
 
 ## SET RELATIONSHIP
 
-Within *Neverlast — Witnessed Form*, Neverlast's Crown performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Neverlast — Witnessed Form*, Neverlast's Crown performs the stigma role while the other pieces preserve attribution and survival. The Crown drops out of the set when the bearer recalls an ordinary hour in their own words.
 
 ---
 

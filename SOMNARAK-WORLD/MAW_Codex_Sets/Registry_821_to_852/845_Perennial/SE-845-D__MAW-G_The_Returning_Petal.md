@@ -32,12 +32,12 @@ The Returning Petal is the stigma record of Perennial’s set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Stigma Record*
 
-The first bearer of The Returning Petal encountered this source response: Reveals the settlement's cycles of return and loss. The stigma discharges the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Petal encountered this source response: Reveals the settlement's cycles of return and loss. The stigma discharges the immediate hazard only after the team attributed it to Perennial. A bearer named a debt they had only just learned of and answered for it that quarter, and the Petal’s binding is the ledger entry made at that settlement.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Perennial's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the threads begin arriving from people the bearer has met once, in a shop, years ago.
 - Terminal state: Perennial's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge the place's history and do not claim it as unchanged” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Returning Petal encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Perennial — Witnessed Form*, The Returning Petal performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Perennial — Witnessed Form*, The Returning Petal performs the stigma role while the other pieces preserve attribution and survival. The Petal drops out of the set when the bearer lets one thread go uncollected.
 
 ---
 

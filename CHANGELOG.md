@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twelve records, four sources (batch 82)
+
+`SE-833` Neverlast, `SE-844` Ruin, `SE-845` Returning, `SE-851` Promise — **twelve records, thirty-six sentences.** Neverlast's Shroud keeps resonance only while the wearer still takes it off at the end of a watch; the Returning Mantle holds while its wearer still has one intention that requires movement; the Promise Shard drops out the first time the bearer trusts somebody without checking.
+
+**60 of 345 done. 285 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Twelve records, four sources (batch 81)
 
 `SE-796` Sinking Chime-Tower, `SE-801` Rage, `SE-821` Vanished, `SE-823` Crossing — **twelve records, thirty-six sentences.** The Chime-Tower's Requiem holds its set only while its requests get answered *and* finished; the Rage Plate keeps resonance while the wearer's anger can still be got out of it; the Vanished Plate loses the set the first time a wound is filed under *now* instead of *not yet*.

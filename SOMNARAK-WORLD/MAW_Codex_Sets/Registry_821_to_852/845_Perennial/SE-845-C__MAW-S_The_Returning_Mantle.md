@@ -33,12 +33,12 @@ The Returning Mantle is the suit record of Perennial’s set, granting resistanc
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Suit Record*
 
-The first bearer of The Returning Mantle encountered this source response: Tests whether the worker can stand beneath karmic weight. The suit contains the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Mantle encountered this source response: Tests whether the worker can stand beneath karmic weight. The suit contains the immediate hazard only after the team attributed it to Perennial. A wearer arrived at a threshold after their intent had already crossed it and stood in the doorway waiting for their own body, and the Mantle’s binding is the watch log from that evening.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Perennial's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the lag lengthens past a step and into a room, and the wearer’s decisions arrive after the situation that wanted them.
 - Terminal state: Perennial's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge the place's history and do not claim it as unchanged” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Returning Mantle encountered this source response: Tests
 
 ## SET RELATIONSHIP
 
-Within *Perennial — Witnessed Form*, The Returning Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Perennial — Witnessed Form*, The Returning Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still has intentions that require movement; the first watch without one takes the Mantle out.
 
 ---
 

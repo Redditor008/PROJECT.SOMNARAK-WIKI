@@ -35,12 +35,12 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 
 ## ITEM-SPECIFIC HISTORY — *The Neverlast Source-Trace: Weapon Record*
 
-The first Neverlast's Requiem field bearer encountered this source response: Fights back as aggression fuels its sorrow. The weapon stays the immediate hazard only after the team attributed it to Neverlast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neverlast's Requiem field bearer encountered this source response: Fights back as aggression fuels its sorrow. The weapon stays the immediate hazard only after the team attributed it to Neverlast. A wielder reloaded a shot they had already fired, in a room that had emptied, and the Lock-Pistol’s binding is the magazine entry written from that fumble.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Neverlast's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the breath after firing lengthens past the reload, and the wielder keeps firing at a moment that has already closed.
 - Terminal state: Neverlast's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Remain with it and acknowledge the abandonment; do not promise a return” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first Neverlast's Requiem field bearer encountered this source response: Fig
 
 ## SET RELATIONSHIP
 
-Within *Neverlast — Witnessed Form*, Neverlast's Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Neverlast — Witnessed Form*, Neverlast's Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set the moment its wielder fires without reliving the decision to.
 
 ---
 

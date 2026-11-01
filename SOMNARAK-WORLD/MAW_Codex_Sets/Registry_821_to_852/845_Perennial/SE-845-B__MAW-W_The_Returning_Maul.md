@@ -33,12 +33,12 @@ The Returning Maul is the weapon record of Perennial’s set, a Weight instrumen
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Weapon Record*
 
-The first bearer of The Returning Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Perennial. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Returning Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Perennial. A wielder walked out of a season carrying every blow they had landed and could not put one of them down, and the Maul’s binding is the load weighed at that gate.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Perennial's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the load starts arriving before the blow lands, and the shoulder takes the weight of a strike not yet swung.
 - Terminal state: Perennial's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Acknowledge the place's history and do not claim it as unchanged” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Returning Maul encountered this source response: N/A —
 
 ## SET RELATIONSHIP
 
-Within *Perennial — Witnessed Form*, The Returning Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Perennial — Witnessed Form*, The Returning Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow whose weight the wielder sets down afterwards.
 
 ---
 

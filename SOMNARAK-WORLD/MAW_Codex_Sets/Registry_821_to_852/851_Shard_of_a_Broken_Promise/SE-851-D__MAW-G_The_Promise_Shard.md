@@ -32,12 +32,12 @@ The Promise Shard is the stigma record of the Shard of a Broken Promise’s set 
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Stigma Record*
 
-The first bearer of The Promise Shard encountered this source response: Shows the promise and the moment it failed. The stigma stays the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Shard encountered this source response: Shows the promise and the moment it failed. The stigma stays the immediate hazard only after the team attributed it to Shard of a Broken Promise. A bearer checked a promise that had never been broken and could not afterwards take it on trust, and the Shard’s binding is the note made the first time they asked twice.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Shard of a Broken Promise's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the checking moves ahead of the promise, and the bearer asks for the assurance before anybody has offered one.
 - Terminal state: Shard of a Broken Promise's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-851 -->
@@ -46,7 +46,7 @@ The first bearer of The Promise Shard encountered this source response: Shows th
 
 ## SET RELATIONSHIP
 
-Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shard performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set the first time the bearer trusts somebody without checking.
 
 ---
 

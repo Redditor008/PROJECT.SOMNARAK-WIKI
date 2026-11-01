@@ -35,12 +35,12 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 
 ## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Weapon Record*
 
-The first bearer of The Ruin Requiem encountered this source response: The dream shifts into a destructive collapse. The weapon uncouples the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Requiem encountered this source response: The dream shifts into a destructive collapse. The weapon uncouples the immediate hazard only after the team attributed it to Repose. A wielder agreed a target had earned it before the evidence was heard, and the Astral-Disc’s binding is the verdict sheet from that inquest.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Repose's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the agreement arrives with the target in sight, before the wielder knows what they have done.
 - Terminal state: Repose's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; reduce noise and acknowledge the dead” reverses the item’s benefit and raises the source Gauge.  
@@ -49,7 +49,7 @@ The first bearer of The Ruin Requiem encountered this source response: The dream
 
 ## SET RELATIONSHIP
 
-Within *Repose — Witnessed Form*, The Ruin Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Repose — Witnessed Form*, The Ruin Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a strike struck without the wielder’s agreement.
 
 ---
 

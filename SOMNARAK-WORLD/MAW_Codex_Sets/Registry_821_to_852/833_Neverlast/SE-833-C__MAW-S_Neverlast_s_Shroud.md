@@ -33,12 +33,12 @@ Neverlast’s Shroud is the suit record of Neverlast’s set, granting resistanc
 
 ## ITEM-SPECIFIC HISTORY — *The Neverlast Source-Trace: Suit Record*
 
-The first Neverlast's Shroud field bearer encountered this source response: Weighs the worker's resolve and patience. The suit contains the immediate hazard only after the team attributed it to Neverlast. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neverlast's Shroud field bearer encountered this source response: Weighs the worker's resolve and patience. The suit contains the immediate hazard only after the team attributed it to Neverlast. A wearer died in the cloth because taking it off would have arrived all at once, and the Shroud’s binding is the note found with them.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Neverlast's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the stored grief begins arriving in seasons rather than years, and the wearer stops undressing at night.
 - Terminal state: Neverlast's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Remain with it and acknowledge the abandonment; do not promise a return” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first Neverlast's Shroud field bearer encountered this source response: Weig
 
 ## SET RELATIONSHIP
 
-Within *Neverlast — Witnessed Form*, Neverlast's Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Neverlast — Witnessed Form*, Neverlast's Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still takes it off at the end of a watch; the first night it stays on takes the Shroud out.
 
 ---
 

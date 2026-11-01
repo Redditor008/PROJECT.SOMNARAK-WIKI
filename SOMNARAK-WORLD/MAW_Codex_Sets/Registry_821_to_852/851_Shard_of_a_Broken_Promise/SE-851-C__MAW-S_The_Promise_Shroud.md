@@ -33,12 +33,12 @@ The Promise Shroud is the suit record of the Shard of a Broken Promise’s set, 
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Suit Record*
 
-The first bearer of The Promise Shroud encountered this source response: Tests whether the worker can remain without repairing it. The suit redirects the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Shroud encountered this source response: Tests whether the worker can remain without repairing it. The suit redirects the immediate hazard only after the team attributed it to Shard of a Broken Promise. A wearer stopped speaking about next season and was thought, correctly, to have made no plans, and the Shroud’s binding is the note left with the roster clerk.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Shard of a Broken Promise's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the words at the collar arrive before the wearer has given them, and the weight is there for promises not yet made.
 - Terminal state: Shard of a Broken Promise's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-851 -->
@@ -47,7 +47,7 @@ The first bearer of The Promise Shroud encountered this source response: Tests w
 
 ## SET RELATIONSHIP
 
-Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still say what they will do next; the first sentence without a future in it takes the Shroud out.
 
 ---
 

@@ -35,12 +35,12 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 ## ITEM-SPECIFIC HISTORY — *The Shard of a Broken Promise Source-Trace: Weapon Record*
 
-The first bearer of The Promise Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Shard of a Broken Promise. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Promise Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Shard of a Broken Promise. A wielder promised a room they would end something and found the promise had been logged against their name, and the Arbalest’s binding is the entry kept from that day.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Shard of a Broken Promise's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the promises start being made in the past tense, and the Arbalest fires at things the wielder cannot remember binding.
 - Terminal state: Shard of a Broken Promise's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-851 -->
@@ -49,7 +49,7 @@ The first bearer of The Promise Requiem encountered this source response: N/A �
 
 ## SET RELATIONSHIP
 
-Within *Shard of a Broken Promise — Witnessed Form*, The Promise Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Shard of a Broken Promise — Witnessed Form*, The Promise Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a promise the wielder has already kept.
 
 ---
 

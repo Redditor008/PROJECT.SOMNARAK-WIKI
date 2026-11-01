@@ -32,12 +32,12 @@ The Ruin Charm is the stigma record of Repose’s set — tail-slot, bestowed at
 
 ## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Stigma Record*
 
-The first bearer of The Ruin Charm encountered this source response: Reveals the settlement's final day. The stigma stabilizes the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Charm encountered this source response: Reveals the settlement's final day. The stigma stabilizes the immediate hazard only after the team attributed it to Repose. A bearer stopped starting things and reported the quiet as peace to a wholly satisfied board, and the Charm’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Repose's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the quiet spreads to things the bearer was in the middle of, and they describe the interruption as rest.
 - Terminal state: Repose's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; reduce noise and acknowledge the dead” reverses the item’s benefit and raises the source Gauge.  
@@ -46,7 +46,7 @@ The first bearer of The Ruin Charm encountered this source response: Reveals the
 
 ## SET RELATIONSHIP
 
-Within *Repose — Witnessed Form*, The Ruin Charm performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Repose — Witnessed Form*, The Ruin Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer begins something they intend to finish.
 
 ---
 

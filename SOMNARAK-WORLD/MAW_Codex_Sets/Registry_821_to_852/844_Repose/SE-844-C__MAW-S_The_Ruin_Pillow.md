@@ -33,12 +33,12 @@ The Ruin Pillow is the suit record of Repose’s set, and its canonical ability 
 
 ## ITEM-SPECIFIC HISTORY — *The Repose Source-Trace: Suit Record*
 
-The first bearer of The Ruin Pillow encountered this source response: Tests whether the worker can remain near sleeping grief. The suit opens the immediate hazard only after the team attributed it to Repose. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Ruin Pillow encountered this source response: Tests whether the worker can remain near sleeping grief. The suit opens the immediate hazard only after the team attributed it to Repose. A wearer recited a childhood in order and could not say which part had mattered, and the Pillow’s binding is the statement taken at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Repose's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the list begins arriving ready-made, and the wearer reads it back as though checking somebody else’s record.
 - Terminal state: Repose's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; reduce noise and acknowledge the dead” reverses the item’s benefit and raises the source Gauge.  
@@ -47,7 +47,7 @@ The first bearer of The Ruin Pillow encountered this source response: Tests whet
 
 ## SET RELATIONSHIP
 
-Within *Repose — Witnessed Form*, The Ruin Pillow performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Repose — Witnessed Form*, The Ruin Pillow performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still feel one thing in their own past; the first entirely accurate and entirely flat account takes the Pillow out.
 
 ---
 
