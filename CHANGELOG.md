@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The root, finished
+
+Two leftovers from the move: the old `SE_CATEGORIES/` directory (files gone, folder still there) and `EXPANSION_RESEARCH_STORY_AND_BATTLE.md`, which had been in the root since the design phase and belonged with the other canon documents. The empty directory is removed and the file is now `CANON/EXPANSION_RESEARCH_STORY_AND_BATTLE.md`, with its links rewritten.
+
+The repository root now holds sixteen entries: three content trees (`SOMNARAK-WORLD/`, `TEMPLATES/`, `REFERENCE_SOMNARAK_WIKI/`), the cross-verse research tree, `GAME_BATTLE/`, `CANON/`, `ARCHIVE/`, `tools/`, `docs/`, the two SVG blueprints, `README.md`, `CHANGELOG.md`, `LICENSE`, and the generated metrics pair.
+
+**Checks:** `check_links` 0 broken · gate green.
+
+
 ## The rest of the guides, and the counts they were quoting
 
 Four more guides gained the section each was missing: `SOMNARAK_DOCUMENT_RULES` (the three fields that decide a file's shape), `OPERATING_RULES` (*Logic Path, Not Template Path*, and what the gate cannot check), `MAW_WEAPON_ARCHETYPES` (an archetype says what a weapon is, never what it costs), `WIKI_PARTS_SOMNARAK_WORLD` (a page reproduces the dossier's heading, not its category's).

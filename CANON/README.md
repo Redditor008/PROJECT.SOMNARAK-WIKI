@@ -14,5 +14,6 @@ The documents that govern how the archive is written, dated and reviewed, as dis
 | [`DEVELOPMENT.md`](DEVELOPMENT.md) | Handbook for working in this repository: layout, tooling, gates | Onboarding, or when a tool behaves unexpectedly |
 | [`INTEGRITY_AND_LORE_REVIEW.md`](INTEGRITY_AND_LORE_REVIEW.md) | The integrity review: what counts as a defect and how it is judged | Before calling something fixed |
 | [`COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md`](COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md) | Full system-level comparison against Lobotomy Corporation | When calibrating a conversion or a native rule |
+| [`EXPANSION_RESEARCH_STORY_AND_BATTLE.md`](EXPANSION_RESEARCH_STORY_AND_BATTLE.md) | Design research for the story and battle expansion | Planning the game layer |
 
 **Related:** binding rule documents live in [`REFERENCE_SOMNARAK_WIKI/RULES/`](../REFERENCE_SOMNARAK_WIKI/RULES/README.md); templates live in [`TEMPLATES/`](../TEMPLATES/README.md).
