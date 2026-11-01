@@ -73,7 +73,7 @@
 | **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-A-01, Alpha Tree deep vault — sealed |
-| **Resolution Condition** | All interpretive material produced during the session is destroyed under witness and logged, and the Sorrow Gauge falls below 25% |
+| **Resolution Condition** | All interpretive material produced during the session is destroyed under witness and logged, and the gauge is left flat where the vault set it — nothing here is read down, and both valid Work Types are recorded as stable |
 
 ### Combat Actions
 

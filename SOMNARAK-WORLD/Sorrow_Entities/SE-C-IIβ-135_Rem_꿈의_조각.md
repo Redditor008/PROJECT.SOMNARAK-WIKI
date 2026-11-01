@@ -13,7 +13,7 @@
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
-| **Manifestation** | Subject-Dream |
+| **Manifestation** | Object-Dream |
 | **Physical Form** | Non-Organic — A flickering shard of the Dream realm that will not settle — shifting between the shape of a room, a face, and a single warm tear hung in the air. Never quite solid, never quite not; salt-damp, it smells of cold rain and something just below waking. |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | SECTOR-A-01, near Dream Gates |
@@ -106,7 +106,7 @@
 **Identification Profile**
 
 - **Entity Type:** Object/Place
-- **Manifestation:** Subject-Dream
+- **Manifestation:** Object-Dream
 - **Primary marker:** The refusal to hold. Nothing else at the Gates changes its shape three times in a minute and reads as warm each time.
 - **Position / movement:** Hangs where it came loose, about chest height, inside a four-metre drift. It has never left the drift and has never been further than a hand's reach from its first recorded position.
 - **Element signature:** Lament
@@ -196,7 +196,7 @@ The escalation signal on this holding is agreement, not violence. Personnel reco
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Forehead contact, or sleep inside the drift. |
-| **Manifestation** | Subject-Dream |
+| **Manifestation** | Object-Dream |
 | **Primary effect** | Reverie; confusion purged; +20 Composure; no recall. |
 | **Duration / rate** | Length of contact or sleep. Flicker intervals irregular and untimeable across two formal attempts. |
 | **Risk** | Moderate (β) Subject-Dream producing Lament pressure. Reluctance to leave the reverie is the operative hazard; the physical effects are minor and pass. |

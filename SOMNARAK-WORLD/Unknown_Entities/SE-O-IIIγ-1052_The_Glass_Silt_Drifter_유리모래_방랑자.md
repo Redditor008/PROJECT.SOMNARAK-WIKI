@@ -139,15 +139,25 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 **Cost:** The wielder cannot arrive. They reach places and immediately feel they are late for somewhere else, and both wielders have been stood down for walking out of camp at night.
 
-### M.A.W. Armor — The Slag Mantle
+### M.A.W. Suit — The Slag Mantle
 
-**Type:** Armor | **Grade:** γ | **Element:** Weight
+**Type:** Suit | **Grade:** γ | **Element:** Weight
 
 **Appearance:** a shoulder-mantle of layered glass flakes that chimes faintly in wind and does not conduct heat in either direction.
 
 **Ability:** Resistance to thermal friction and silica abrasion; the reason vanguard crews can stand the deck during a pursuit rather than sheltering inside.
 
 **Cost:** The wearer stops noticing distance. Three vanguards have walked a full stage beyond their relief point and reported the stage as short.
+
+### M.A.W. Stigma — The Silt Mark
+
+**Type:** Stigma | **Grade:** γ | **Element:** Weight
+
+**Appearance:** a palm-plate of shell glass cut across the fracture line, worn against the sternum on a copper chain, its face clouded with the silt that was inside the shell when it cooled.
+
+**Ability:** The wearer knows, to the pace, how far they are from wherever they are supposed to be. Not the direction and not the name — only the distance, arriving as a number the way a weight arrives in the hand.
+
+**Cost:** The number never reads zero. Three wearers have turned back inside sight of their own gate, and one has walked a stage in the wrong direction for nine days because the figure was falling.
 
 ### M.A.W. Use Notes
 

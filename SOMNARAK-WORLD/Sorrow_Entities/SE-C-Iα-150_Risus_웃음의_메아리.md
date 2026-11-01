@@ -12,7 +12,7 @@
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
-| **Manifestation** | Subject-Lament |
+| **Manifestation** | Object-Lament |
 | **Physical Form** | Non-Organic — Not a body but a sound — distant laughter that arrives warm and bright, then thins until it is quietly, unbearably sad. Nothing to see; only the laughter and its slow turning to grief. Salt-damp, it smells of cold rain. |
 | **Movement** | Ambient and drifting in the Commons: record where the laughter is loudest, where it thins, and whether that region has moved since the last survey. There is no body or source for a listener to follow. |
 | **Location** | Zone D, Mantle Commons — ambient |
@@ -173,7 +173,7 @@ Escalation here is not a breach event and has no force in it: what spreads is th
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Shared laughter followed by unacknowledged loss. |
-| **Manifestation** | Subject-Lament |
+| **Manifestation** | Object-Lament |
 | **Primary effect** | Personnel hear laughter that does not belong to the present. |
 | **Duration / rate** | Slowly spreads through the Commons. |
 | **Risk** | Minor (α) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |

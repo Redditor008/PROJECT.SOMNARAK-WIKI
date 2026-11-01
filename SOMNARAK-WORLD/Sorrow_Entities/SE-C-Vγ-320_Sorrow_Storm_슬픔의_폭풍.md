@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vγ-320 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; periodic phenomenon |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; it forms over the city and runs the connected Han flows without travelling as a body, reaching every zone within a watch of forming |
 | **Coherence** | Sovereign (V) — Autonomous and destructive |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

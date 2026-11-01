@@ -12,7 +12,7 @@
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
-| **Manifestation** | Place-Grudge |
+| **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A drowned tree-beast dragging itself beneath the Mask Market floor, branch-arms and a weeping face pressing up through the crystal — a submerged creature of waterlogged wood. Salt-damp, it smells of cold rain and depth. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone C, Mask Market |
@@ -105,7 +105,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Grudge
+- **Manifestation:** Subject-Lament
 - **Primary marker:** A tree submerged beneath the floor of the Mask Market, visible through translucent crystal and reflections. Its branches rise into rooms that do not contain it.
 - **Position / movement:** It moves, but only downward and sideways beneath the floor; in thirty years it has not come up through the crystal and the file does not assume it cannot. Record the depth of the root mass against the Market datum and the area of floor it underlies. Keep spread separate from depth: the readings record the mass rising after public readings as well as sinking in unworked quarters. Neither a wider footprint nor a lower gauge alone establishes the depth direction.
 - **Element signature:** Lament
@@ -171,7 +171,7 @@ Escalation is downward growth. Record the depth at eleven points, the entry read
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New grief concealed behind a social mask. |
-| **Manifestation** | Place-Grudge, expressing Lament as in the SECC classification and Tale. |
+| **Manifestation** | Subject-Lament, expressing Lament as in the SECC classification and Tale. |
 | **Primary effect** | Hidden sorrow appears in masks and public performances. |
 | **Duration / rate** | Slow, through floors and reflective surfaces. |
 | **Risk** | Critical (δ), carried for the floor loss and the flood rather than for any pursuit. Eleven years, four metres of floor, no fatalities, and no injury to anybody who stayed above the crystal. |

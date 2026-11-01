@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-677 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the absence takes in more of the street through architectural memory and the lean does not travel |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -94,7 +94,7 @@
 - The failure here is speech. A worker who begins talking about the tower in the present tense has already failed, and the wing's instruction to the second observer is to note the tense and the time and to say nothing about it until the watch is over.
 - Extended contact invites the full manifestation, which here is a sense of the building's presence rather than its return: personnel describe knowing which floor they are standing level with. The effect resolves on leaving the street and leaves behind a precise and false recollection of a staircase.
 - Every M.A.W. activation extracts a real price — recollection, sensation, years — catalogued in the equipment file and paid in the field. From this source the charge is taken in endings: wielders progressively lose the ability to finish a conversation, and report that the other person always seems to leave first.
-- Without resolution the absence transforms and spreads, which is the behaviour on the classification. It does not travel; it takes in more of the street, and the buildings at the new edge begin to lean the way the existing ones already do.
+- Without resolution the absence spreads, which is the behaviour on the classification: it is an expansion and not a transformation. It does not travel; it takes in more of the street, and the buildings at the new edge begin to lean the way the existing ones already do.
 
 ## Appearance
 
@@ -390,7 +390,7 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 
 **Operational interpretation:** Read this layer against the classification, the Combat Record and the equipment profile before acting on any entry, and then consider what the suppression condition actually commits this facility to. Memorialise what vanished; do not rebuild over the absence. The second half makes the holding a permanent refusal: a cleared plot in a restructured district, serviced by road, surrounded by buildings that are themselves the product of the restructuring, which the wing is required to keep empty for as long as the entity exists. Four development proposals have been lodged over the footprint and all four have been objected to. None of the objectors has been able to state the ground in terms the planning process recognises, and the objections have therefore been sustained on containment authority, which is a blunt instrument and is resented. The first half is no easier. Memorialisation means a list of names and what each of them had not finished saying, and the second column of that list is mostly empty because nobody who could fill it survived the schedule. The wing maintains it anyway. Where the entity contradicts this record, trust the entity and preserve the contradiction.
 
-**Review requirement:** After any activation, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the exposure log, the sighted volume and the state of the adjacent buildings before work resumes. Three further items apply here. The footprint is inspected for new structures, pegs, hoardings or stored material, and anything found is removed and recorded with the name of whoever authorised its placement. The planning register is checked for lodged applications over the site. And the memorial list is read at the perimeter at the close of each cycle, aloud, names and unfinished business together — a practice that takes four minutes, has never been shortened, and is the only part of this holding's procedure that personnel have asked to keep when rotating off.
+**Review requirement:** After any activation, Sorrow Tide, Ordeal or unusual interaction, re-verify the gauge, the exposure log, the sighted volume and the state of the adjacent buildings before work resumes. Three further items apply here. The footprint is inspected for new structures, pegs, hoardings or stored material, and anything found is removed and recorded with the name of whoever authorised its placement. The planning register is checked for lodged applications over the site. And the memorial list is read at the perimeter at the close of each cycle, aloud, names and unfinished business together — a practice that takes four minutes, has never been shortened, and is the only part of this holding's procedure that personnel have asked to keep when rotating off.
 ## Watch Record
 
 ### An Absence With Height

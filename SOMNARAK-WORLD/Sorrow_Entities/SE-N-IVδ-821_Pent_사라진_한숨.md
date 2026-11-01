@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-821 [D]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the trapped breath fills Old Lament rooms where exhaustion is being hidden, and no body enters or leaves with it |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -170,7 +170,7 @@ Escalation here is not pressure arriving from outside; it is pressure that stops
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Exhaustion hidden as strength. |
-| **Manifestation** | Subject-Grudge|
+| **Manifestation** | Place-Grudge ||
 | **Primary effect** | Personnel cannot breathe out fully and feel trapped by duty. |
 | **Duration / rate** | Slow through Old Lament buildings. |
 | **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |

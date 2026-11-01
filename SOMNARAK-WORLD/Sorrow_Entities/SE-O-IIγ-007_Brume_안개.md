@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIγ-007 [VP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; mobile expansion phenomenon |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the bank widens about a hundred metres an hour on the Han-flow currents, and what arrives is a softness of ground rather than a body that escapes |
 | **Coherence** | Echo (II) — Repeats a single pattern: blanketing areas |
 | **Potency** | Major (γ) — High danger in the Desolate |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -179,7 +179,7 @@ Brume is an Object/Place with Place-Phantasmal manifestation and Void expression
 
 Expansion here is lateral and quiet. Record the bearing, the timed leading-edge rate between surveyed markers, the ground covered and what was on it, the external clock reading beside every personnel entry, and the point at which the widening stopped. The bank spreads along the flow lines at about a hundred metres an hour and keeps spreading until somebody mourns somebody; there is no other recorded exit.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** establish a safe perimeter, identify whether what is happening is an activation or an expansion, remove nonessential personnel, and apply this condition: The fog dissipates when the sorrow it covers is acknowledged and mourned. Do not fight it physically. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
@@ -409,7 +409,7 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 
 **Operational interpretation:** The classification is the frame and this record is the picture, and neither substitutes for standing at the edge with a watch. The suppression condition is the difficulty. The fog thins when the sorrow it covers is acknowledged and mourned, and the people it is made of left no names — the commissioning file says so outright rather than letting the absence be inferred, and observes that this entity is the only record those wanderers have. So the containment practice is a mourning conducted for strangers, by people who did not know them, with nothing to read out. The wing has no procedure for that and has not written one; what exists instead is a convention, unofficial and universally followed, by which the party at the margin says aloud where the bank came from and what is known of how it formed before any cycle begins. Two commanders have proposed formalising it. Both proposals were withdrawn by their own authors, one of them minuting that an order to grieve would produce compliance and nothing else. Where the entity contradicts this file, trust the entity and log the contradiction.
 
-**Review requirement:** After every expansion, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, recheck the gauge, the exposure log, the bearing and the covered area before work resumes. Two further items are required here. Every logged exposure is checked against the external clock rather than the worker's account, as a matter of routine and without implying anything about the worker. And any member who has been inside the bank twice in a shift is stood down regardless of the recorded durations, because the second entry is the one after which people stop timing themselves.
+**Review requirement:** After every expansion, Sorrow Tide, Ordeal or unusual interaction, recheck the gauge, the exposure log, the bearing and the covered area before work resumes. Two further items are required here. Every logged exposure is checked against the external clock rather than the worker's account, as a matter of routine and without implying anything about the worker. And any member who has been inside the bank twice in a shift is stood down regardless of the recorded durations, because the second entry is the one after which people stop timing themselves.
 ## Watch Record
 
 ### Fog That Is Not Weather

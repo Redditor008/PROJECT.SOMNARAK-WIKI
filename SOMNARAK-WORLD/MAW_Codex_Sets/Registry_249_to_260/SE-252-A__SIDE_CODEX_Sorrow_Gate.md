@@ -49,7 +49,7 @@ Sorrow Gate is bloodless-cold outside and warm within. It smells of ash and whis
 | Viderehan | Whispers reveal fragments of buried truth. | Stable | Record duration and effect; content remains quarantined. |
 | Ferrehan | Remains silent while testing patience. | Stable | End the session without demanding revelation. |
 
-**Resolution:** Maintain the management condition and keep Gauge below 25%; operational doctrine remains **do not open**.  
+**Resolution:** Maintain the management condition, destroy and log the session's interpretive material under witness, and leave the gauge where the vault set it; operational doctrine remains **do not open**.  
 **Activation:** Touch or sustained listening may produce a thirteen-second buried truth and destabilize listener or city.  
 **Escalation:** Forced contact allows Void to reach through a crack; a full opening is treated as catastrophic.
 

@@ -12,7 +12,7 @@
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
-| **Manifestation** | Place-Void |
+| **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A burst seed whose sprout is a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han, dragging itself forward. Lead-cold, it smells of wet stone. |
 | **Movement** | Mobile — drags itself on root-tendrils and flows as it crawls; advance is measured against surveyed pins. |
 | **Location** | Zone A, Alpha Tree vault |
@@ -105,7 +105,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Void
+- **Manifestation:** Subject-Weight
 - **Primary marker:** A seed-shaped place of emptiness through which black Han flows like a river.
 - **Position / movement:** Mobile. It hauls itself along the vault corridor on its tendrils and flows as it hauls; its position is fixed each watch against surveyed iron pins.
 - **Element signature:** Weight
@@ -169,7 +169,7 @@ The escalation here is measured in metres rather than in turns. Record the advan
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | A death in service recorded as nothing but a code and a date. |
-| **Manifestation** | Place-Void — the SECC manifestation; the Subject-Weight entry here was an error of transcription |
+| **Manifestation** | Subject-Weight — the SECC manifestation; the Subject-Weight entry here was an error of transcription |
 | **Primary effect** | Measurable weight gain in the ground, falling off with distance on a stable curve. |
 | **Duration / rate** | Continuous; 3.4 metres per watch and it does not rest. |
 | **Risk** | Major (γ) Subject producing Weight pressure. It plants in personnel rather than striking them, and the planting is not felt at the time. |

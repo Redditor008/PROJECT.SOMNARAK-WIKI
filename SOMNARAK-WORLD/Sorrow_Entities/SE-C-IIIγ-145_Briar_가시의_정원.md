@@ -12,7 +12,7 @@
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
-| **Manifestation** | Place-Grudge |
+| **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A predatory thicket of mobile thorned vines that crawls and lashes like a nest of serpents — a hunting creature of braided crimson creeper that grips and drags. Warm where it bleeds sap, it smells of char and crushed green. |
 | **Movement** | Creeping and surging thorn coils grip what brushes them; reach is surveyed on the memorial ground. In the recorded escape the thicket comes off that ground and tracks motion. |
 | **Location** | SECTOR-D-02, near Echo Gardens |
@@ -105,7 +105,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Grudge
+- **Manifestation:** Subject-Grudge
 - **Primary marker:** A garden of crimson crystal flowers whose stems are covered in thorns. Its paths rearrange around visitors.
 - **Position / movement:** Record the reach on each of the four survey bearings, the distance from the nearest marked path, and whether the thicket has crossed the dedication line since the last measure.
 - **Element signature:** Grudge
@@ -169,7 +169,7 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New injustice or unacknowledged rage. |
-| **Manifestation** | Place-Grudge|
+| **Manifestation** | Subject-Grudge|
 | **Primary effect** | Nearby personnel feel anger beneath their grief. |
 | **Duration / rate** | Slow, through cracks and memorial soil. |
 | **Risk** | Major (γ). Mechanical injury from gripping and dragging, with thorn wounds that find prior injuries, against a pressure that raises anger beneath grief in anybody within the margin. |

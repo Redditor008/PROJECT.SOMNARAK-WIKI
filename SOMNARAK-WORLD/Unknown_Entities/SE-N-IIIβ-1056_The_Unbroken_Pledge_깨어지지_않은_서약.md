@@ -140,15 +140,25 @@ Management: have the bearer say the partner's full name and the pact's three ten
 
 **Cost:** The wielder cannot break a promise. Every spoken undertaking, down to "back in a minute," binds until it is kept, and a wielder who cannot keep one feels the lash take a turn round their own throat. Two wielders have been stood down for it; one had told a comrade he would come back for him.
 
-### M.A.W. Armor — The Quartermaster's Collar
+### M.A.W. Suit — The Quartermaster's Collar
 
-**Type:** Armor | **Grade:** β | **Element:** Void
+**Type:** Suit | **Grade:** β | **Element:** Void
 
 **Appearance:** a stiff standing collar of red silk and copper thread, cut to close at the right shoulder where the cord hangs, and warm along the seam.
 
 **Ability:** The throat cannot be closed from outside. Garrotte, grip and gas slide off it, and the wearer keeps a full voice through the first three turns of any constriction instead of dropping to a rasp.
 
 **Cost:** Everything the wearer eats tastes of tarnished copper for the length of the assignment and four days after. The three wearers on file ate less on each day they wore it, and the one who kept it on for nineteen days lost six kilograms.
+
+### M.A.W. Stigma — The Slack Cord
+
+**Type:** Stigma | **Grade:** β | **Element:** Lament
+
+**Appearance:** the third cord, unworked, kept in the ward safe and issued as a wrist-wrap. Red silk, no copper in it at all, and visibly slack from the grave it came out of.
+
+**Ability:** An undertaking made while wearing it cannot be released by anybody else. No order, no discharge and no death notice absolves the wearer; the cord goes taut only when the thing is done, and the ward checks it at every relief by pulling.
+
+**Cost:** It does not come off the wearer's own hand. The only recorded removal was cut, at the wrist of a man who had been dead four days, and the cord was taut.
 
 ### M.A.W. Use Notes
 

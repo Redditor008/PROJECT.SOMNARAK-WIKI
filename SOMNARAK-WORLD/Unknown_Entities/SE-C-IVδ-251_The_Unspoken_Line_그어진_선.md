@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-251 [VP]` |
-| **Entity Type** | **Object / Place** — A junction that became an entity; can breach via Transform, only widen |
+| **Entity Type** | **Object / Place** — Non-breaching: expansion only; the line widens block by block when both groups are present and silent, and nothing a junction does leaves the junction |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -170,7 +170,7 @@ Escalation here is propagation along existing seams rather than expansion in met
 | Detailed Expansion Record field | R.D. operational detail |
 |---|---|
 | **Trigger** | Expansion is initiated when the entity's recorded agitation, Gauge threshold, or containment condition is reached. Personnel must log the exact event that preceded the expansion. |
-| **Manifestation** | Object / Place — A junction that became an entity; can breach via Transform, only widen · Void. The entity expresses its expansion through the behavior recorded below rather than through a generic attack pattern. |
+| **Manifestation** | Place-Void — a junction that became an entity; the expansion is expressed through the behaviour recorded below rather than through a generic attack pattern. |
 | **Movement / spread** | The line widens block by block when both groups are present and silent. |
 | **Primary effect** | Clarity loss; forgetfulness of neighbors and shared histories; on bad days, district-wide estrangement. |
 | **Escalation** | Exposure continues for: Until a cross-line conversation occurs or both groups withdraw. Each additional turn or work cycle must record personnel position, Sorrow Gauge change, and environmental damage. |

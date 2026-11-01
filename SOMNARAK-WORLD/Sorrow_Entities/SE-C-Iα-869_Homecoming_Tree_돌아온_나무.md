@@ -12,7 +12,7 @@
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
-| **Manifestation** | Place-Lament |
+| **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A walking tree of true living wood that travels on a knot of root-legs, branches reaching and gripping like hands — a wandering plant-creature. Warm, it smells of cold rain and home. |
 | **Movement** | Mobile — uproots and walks on a knot of root-legs between the sites of failed returns, following old paths and foundations. |
 | **Location** | Zone E, Border region |
@@ -105,7 +105,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Lament
+- **Manifestation:** Subject-Lament
 - **Primary marker:** A tree that appears in places where people have returned after long absence. Its roots hum with stored memory.
 - **Position / movement:** Mobile between stops on root-legs. It plants itself where a long-absent person has returned, then follows old paths and foundations to the next failed return; the sighting log, not the registered location alone, says where it stands.
 - **Element signature:** Lament
@@ -169,7 +169,7 @@ The Tree does not escalate the way a holding does; it moves, and each move is tr
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | A person returning to a place after it has changed. |
-| **Manifestation** | Place-Lament|
+| **Manifestation** | Subject-Lament|
 | **Primary effect** | The area hums with memories and makes familiar places feel unreachable. |
 | **Duration / rate** | Slow; roots follow old paths and foundations. |
 | **Risk** | Minor (α). The Tree itself does not pursue, and its 3–9 Lament pressure is light against a rested crew; the hazard is the identification. A worker who takes the recognition for a memory of their own will defend the false home afterward, and the file's cases of that are written up as personnel incidents rather than as exposures. The crews most affected are the ones who grew up outside the Border region, which is the reverse of the pattern this wing usually records. |

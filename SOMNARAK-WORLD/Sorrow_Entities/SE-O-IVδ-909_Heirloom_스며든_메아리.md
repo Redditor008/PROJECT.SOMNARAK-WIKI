@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-909 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the chamber holds its position in the vault while the boundary gains volume through connected memory spaces |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -94,7 +94,7 @@
 - The failure here is repeating something without saying where it came from. It is the most ordinary act in conversation, it is what the entity is made of, and the vault's whole discipline is built on making it difficult for one hour at a time.
 - The effects compound with duration in a way the turn count understates: the first repetition is merely disorienting, and by the twentieth the worker can no longer identify which of the voices in the chamber was originally theirs. Severe cases present as settled, articulate conviction rather than as distress.
 - Each M.A.W. activation debits the wielder beyond what the grade ledger can record. The Zweihander aches in old wounds, the Plate dulls the reflexes it protects, and the Flame burns hostile echoes at the price of its wearer's certainty about which angers were ever theirs to begin with.
-- Without resolution the sorrow does not dissipate and does not escape either — it transforms, which is the breach type on the classification. The chamber stops being a room that echoes and becomes an echo that has a room, and the vault plan is amended rather than the entity contained.
+- Without resolution the sorrow does not dissipate and does not escape either — it expands, which is the event type on the classification. The chamber stops being a room that echoes and becomes an echo that has a room, and the vault plan is amended rather than the entity contained.
 
 ## Appearance
 **Physical Form:** An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats.
@@ -169,7 +169,7 @@ Escalation is measured in centimetres and in doors. The sound spreads through co
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Repetition of anger without examination. |
-| **Manifestation** | Place-Grudge|
+| **Manifestation** | Place-Void ||
 | **Primary effect** | Personnel hear their own anger repeated until it feels alien. |
 | **Duration / rate** | Rapid through connected memory spaces. |
 | **Risk** | Critical (δ), and the grade is for the growth rather than for the strikes. The chamber has never killed anybody; it has taken 1.3 metres of the vault and shows no sign of stopping. |
@@ -387,7 +387,7 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 
 **Operational interpretation:** Treat the record as a starting point and the chamber as the authority, and then notice what the trigger actually indicts. This entity expands on the repetition of anger without examination, it travels through connected memory spaces, and it is held in an archive whose daily business is copying grievances forward into new files. The containment condition — identify the original voice — is therefore a documentation standard before it is a field order: every quoted grievance in this wing carries the name of the first speaker, or it is not quoted. That rule costs the archive something real, because much of what it holds can no longer be attributed, and the honest consequence is that some records cannot be repeated at all. Where observation contradicts the file, trust the chamber and log the discrepancy; do not normalise it, and do not summarise a disputed account into a tidy one — the tidy version is the one that spreads.
 
-**Review requirement:** After any transformation, expansion, Sorrow Tide, Ordeal, or unusual interaction, verify the four pillars — gauge, seal, personnel, position — and add the fifth this holding requires, which is the wall survey. Every repetition logged during the event is reviewed for attribution, and the review asks whether the name was absent or merely omitted. The hearing log goes to the counselor and not to the line supervisor. Where a voice named a serving colleague, that is treated as an output of the entity and not as an allegation, and any wing that reverses those two has reinvented the grievance this entity is made of.
+**Review requirement:** After any expansion, Sorrow Tide, Ordeal or unusual interaction, verify the four pillars — gauge, seal, personnel, position — and add the fifth this holding requires, which is the wall survey. Every repetition logged during the event is reviewed for attribution, and the review asks whether the name was absent or merely omitted. The hearing log goes to the counselor and not to the line supervisor. Where a voice named a serving colleague, that is treated as an output of the entity and not as an allegation, and any wing that reverses those two has reinvented the grievance this entity is made of.
 ## Apex Record
 
 ### The Room That Grows

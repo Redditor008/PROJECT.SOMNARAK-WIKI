@@ -127,7 +127,7 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** Grade γ. Extraction is taken from the resonance crystal the Needle sheds at its base as it bores, never from the needle halo, which has no fixed form to cut. Two pieces have been worked from 61 kg of shed crystal.
+> **Materialized Agony Wear (M.A.W.):** Grade γ. Extraction is taken from the resonance crystal the Needle sheds at its base as it bores, never from the needle halo, which has no fixed form to cut. Three pieces have been worked from 61 kg of shed crystal — the third from the sweepings under the bore, which is where the note is.
 
 ### M.A.W. Weapon — The Inverse Fork
 
@@ -139,15 +139,25 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 **Cost:** The wielder loses the pitch of their own voice. Speech goes flat for hours after use, and singers lose their ear; the one surveyor who carried it through a full season has not held a note since.
 
-### M.A.W. Armor — The Shear Mantle
+### M.A.W. Suit — The Shear Mantle
 
-**Type:** Armor | **Grade:** γ | **Element:** Lament
+**Type:** Suit | **Grade:** γ | **Element:** Lament
 
 **Appearance:** a mantle of overlapping crystal scales no longer than a thumb, each pitched a little differently, that chimes whenever wind crosses it.
 
 **Ability:** The wearer cannot be deafened. Above 40 knots the mantle takes up the counter-phase note by itself, and the pickets have seen needle shards fall a body's length short of a wearer who never opened their mouth.
 
 **Cost:** The mantle never stops. It sounds in every wind, and the wearer cannot hear anything softer than a shout for the length of the assignment and nine days after.
+
+### M.A.W. Stigma — The Held Note
+
+**Type:** Stigma | **Grade:** γ | **Element:** Lament
+
+**Appearance:** a sliver of shed crystal set in a plain copper ring, worn on the little finger of the working hand, sounding a tone a little below hearing whenever it is warm.
+
+**Ability:** The wearer does not lose the thread of a task. Interruption, noise and the Needle's own halo cannot make them drop a count, a line or a stitch, and the two wearers on file finished a tally through a full halt.
+
+**Cost:** The note does not stop. Sleep requires the ring off, the ring requires a second pair of hands, and the one wearer who slept in it has not been able to say what the tone was doing since.
 
 ### M.A.W. Use Notes
 

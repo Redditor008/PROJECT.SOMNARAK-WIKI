@@ -129,7 +129,7 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** Grade ω. No piece has been extracted. The vessel cannot be destroyed, the grade is the codex's own word for forbidden, and the two profiles below are theorized from the script and the ledger mass.
+> **Materialized Agony Wear (M.A.W.):** Grade ω. No piece has been extracted. The vessel cannot be destroyed, the grade is the codex's own word for forbidden, and the three profiles below are theorized from the script and the ledger mass.
 
 ### M.A.W. Weapon — The Foreclosure Seal
 
@@ -141,15 +141,25 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 **Cost:** Theorized: whatever the target owes is copied onto the wielder's left forearm in script and does not fade. The Collector Bureau would read the lines as the wielder's own debt.
 
-### M.A.W. Armor — The Severed Line
+### M.A.W. Suit — The Severed Line
 
-**Type:** Armor | **Grade:** ω | **Element:** Weight
+**Type:** Suit | **Grade:** ω | **Element:** Weight
 
 **Appearance:** Theorized: a long coat of blank vellum, unlined and unstitched, that takes no ink.
 
 **Ability:** Theorized: the wearer's lineage reads as nothing in the vault. No script comes and no weight comes, and the thirty hands pass over the wearer as over an empty chair.
 
 **Cost:** Theorized: the Registry strikes the wearer from their family's ledger on the first day of wear and does not restore the name. The family forgets the wearer, and the wearer is a person without a lineage, which is what the vault already demands of anyone who would look at it directly.
+
+### M.A.W. Stigma — The Line of Account
+
+**Type:** Stigma | **Grade:** ω | **Element:** Weight
+
+**Appearance:** Theorized: a black-scripted band that sits inside the wrist, the writing continuous and never setting, closing on itself so that no line can be said to be the first.
+
+**Ability:** Theorized: the wearer reads what any person owes at a glance — the total, not the item — and cannot be told a figure that is untrue while the band is on.
+
+**Cost:** Theorized: what the wearer reads is entered against the wearer. The bureau has no record of a carrier of this piece, which is the archive's only evidence that one may exist.
 
 ### M.A.W. Use Notes
 

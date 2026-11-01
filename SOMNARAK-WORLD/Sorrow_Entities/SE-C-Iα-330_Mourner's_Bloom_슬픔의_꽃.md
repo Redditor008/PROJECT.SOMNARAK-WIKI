@@ -12,7 +12,7 @@
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
-| **Manifestation** | Object-Lament |
+| **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A flower whose stem has become a sinuous stalk-body, roots coiling like legs, petals opening into a luminous maw — a small creeping predator-creature. Salt-damp, it smells of cold rain. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone D, Echo Gardens |
@@ -105,7 +105,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Object-Lament
+- **Manifestation:** Subject-Lament
 - **Primary marker:** A flower grown into a creature: a sinuous stalk-body on coiling root-legs, dark blue petals warm at the centre, opening into a luminous maw.
 - **Position / movement:** It moves. The roots coil and carry it at a walking pace toward whoever is nearest to grief, and it returns to the bed when nobody is. Record the distance travelled, the direction, and the petal count on the stalk, which is the reading.
 - **Element signature:** Lament
@@ -183,7 +183,7 @@ No two escalations run the same way in the Echo Gardens. The watch writes down f
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Grief expressed near the flower. |
-| **Manifestation** | Object-Lament |
+| **Manifestation** | Subject-Lament |
 | **Primary effect** | Crystallizes one moment of mourning into a petal. |
 | **Duration / rate** | Until the grief is acknowledged and released. |
 | **Risk** | Minor (α) Object-Lament; the moment is taken without consent and can only be released by the person it was taken from. |

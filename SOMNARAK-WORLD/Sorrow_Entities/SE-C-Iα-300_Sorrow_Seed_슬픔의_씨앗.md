@@ -12,7 +12,7 @@
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
-| **Manifestation** | Object-Weight |
+| **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A seed cracked and sending out a thick pulsing tendril — a small mobile root-creature, warm and beating like a heart, dragging itself along one bearing. Lead-warm, it smells of wet stone. |
 | **Movement** | Mobile — drags itself on one tendril, 4–31 cm per night, always along a single bearing. |
 | **Location** | Zone D, Echo Gardens |
@@ -107,7 +107,7 @@ The Seed does not attack in these rows. The bracketed Weight values are the comb
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Object-Weight
+- **Manifestation:** Subject-Weight
 - **Primary marker:** A split dark crystal on bare soil, warm without a source, with a chalked bearing line running from it to the chamber wall.
 - **Position / movement:** It moves. On its single tendril it drags itself between four and thirty-one centimetres in a night, always along one bearing, and the bearing has matched the duty roster holding the facility's largest balance of untaken bereavement leave in two hundred and six of two hundred and twenty-four readings.
 - **Element signature:** Weight
@@ -200,7 +200,7 @@ There is no escalation pattern and the room has stopped pretending to one. There
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | None. The crawl is continuous and observer-independent. |
-| **Manifestation** | Object-Weight — corrected; the earlier Subject-Weight entry contradicted the SECC header |
+| **Manifestation** | Subject-Weight — corrected; the earlier Subject-Weight entry contradicted the SECC header |
 | **Primary effect** | 4–31 cm of travel per night along a bearing that has matched the largest untaken-leave balance in 206 of 224 readings. |
 | **Duration / rate** | Continuous; one interruption on record, eleven days, Year 4229. |
 | **Risk** | Unquantified and stated as unquantified. No injury, no binding, no growth in two hundred and sixty years. |

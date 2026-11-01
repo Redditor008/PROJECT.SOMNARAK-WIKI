@@ -12,7 +12,7 @@
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
-| **Manifestation** | Place-Grudge |
+| **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — Cold, dense shadow without a fixed body, sometimes four-legged, sometimes many-limbed or gathered into a dark corner. The ash smell and bloodless cold accompany changing outlines; the creature-like silhouette does not establish a hunting animal or displaced human body. |
 | **Movement** | Mobile — Circles within an occupied room and relocates through connected shadowed spaces when the room is lost or it is driven out. Creature-like movement belongs to the shadow, not to a fixed structure or a documented solid animal. |
 | **Location** | Zone B, Old Lament |
@@ -104,7 +104,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Grudge
+- **Manifestation:** Subject-Void
 - **Primary marker:** A moving patch of shadow that occupies rooms, alleys, and empty corners of the Old Lament. It has no fixed body.
 - **Position / movement:** It prowls, and what it prowls is wherever it has most recently been allowed to stay. Record the assigned room, the hours it was present in that room, and the number of sightings elsewhere in Old Lament during the same period. The second and third figures move in opposite directions and that relationship is the whole of the file's predictive value.
 - **Element signature:** Void
@@ -176,7 +176,7 @@ Escalation here is a relocation, and it is almost always preceded by an empty ro
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Unhoused grief and unacknowledged departure. |
-| **Manifestation** | Place-Grudge; Void is the recorded element |
+| **Manifestation** | Subject-Void; Void is the recorded element |
 | **Primary effect** | Rooms feel abandoned even when occupied. |
 | **Duration / rate** | Slow, drifting between connected Old Lament spaces. |
 | **Risk** | Moderate (β), carried for the shadow-theft rather than for anything else. Nine years, eleven thefts, all recovered within a day, no fatalities and no permanent injury. |

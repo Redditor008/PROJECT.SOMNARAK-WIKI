@@ -12,7 +12,7 @@
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
-| **Manifestation** | Place-Grudge |
+| **Manifestation** | Subject-Void |
 | **Physical Form** | Mixed — A seed sprouted into a creeping net of dark root-tendrils — a low spreading creature that flows across floors like a starfish of root. Bloodless-cold, it smells of ash. |
 | **Movement** | Mobile — the low net flows across floors on its root-tendrils. Track the edge against the vault markings; the documented reach stays low, rather than walking upright or rising into a stem. |
 | **Location** | Zone A, Alpha Tree vault |
@@ -106,7 +106,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Grudge
+- **Manifestation:** Subject-Void
 - **Primary marker:** A small seed-shaped absence that spreads through the floor as a dark root pattern.
 - **Position / movement:** The root-tendril net spreads and flows across floor surfaces, remaining below ankle height. Record its widest extent and the edge against the vault markings, not a duplicated form label.
 - **Element signature:** Void
@@ -170,7 +170,7 @@ Escalation here is measured in centimetres of floor. The file's own log runs thi
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Collective longing for an unrealized future. |
-| **Manifestation** | Place-Grudge, expressing Void as recorded in the SECC classification, Story Entry and Tale. |
+| **Manifestation** | Subject-Void, expressing Void as recorded in the SECC classification, Story Entry and Tale. |
 | **Primary effect** | Personnel see empty versions of their lives. |
 | **Duration / rate** | Slow through vault floors. |
 | **Risk** | Minor (α) Object/Place producing Void pressure. The exposure effect is specific to this holding and is not a drain: personnel leave with their memories intact and their account of which of their own plans they carried out no longer reliable. |

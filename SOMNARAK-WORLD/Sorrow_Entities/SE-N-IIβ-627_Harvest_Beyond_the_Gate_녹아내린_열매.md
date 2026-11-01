@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-627 [GP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -383,9 +383,9 @@ Some sorrows mourn a home. This one mourns the replanting — the exiles' orchar
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour are one picture, and on this holding the picture is a stretch of ground. The facts that govern are these — the fruit holds a desire somebody abandoned, it melts when it is touched, it draws exiles the way the gate does, and the condition is to let it decay naturally and never promise return. When the entity does something this file does not describe, document the gap: the record is a living document and the gap is the next entry.
+**Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the expansion behaviour are one picture, and on this holding the picture is a stretch of ground. The facts that govern are these — the fruit holds a desire somebody abandoned, it melts when it is touched, it draws exiles the way the gate does, and the condition is to let it decay naturally and never promise return. When the entity does something this file does not describe, document the gap: the record is a living document and the gap is the next entry.
 
-**Review requirement:** Anything out of the ordinary and the file has to be walked again — a breach, a Sorrow Tide, an expansion, an attempt to change what this is, or an interaction nobody has a precedent for. Re-take the gauge, the seal on the ground, the medical state of whoever was on the path, where the frontage now sits, and what the M.A.W. is reading. Then, because this is a Place and not a person: check whether any Fruit was handled, who handled it, and what was promised to anybody within sight of the Gate. Where a figure has moved, correct the file and not anybody's recollection of it. The record here describes ground that is still moving, and it is not a finished account of it.
+**Review requirement:** Anything out of the ordinary and the file has to be walked again — an expansion, a Sorrow Tide, an Ordeal, an attempt to change what this is, or an interaction nobody has a precedent for. Re-take the gauge, the seal on the ground, the medical state of whoever was on the path, where the frontage now sits, and what the M.A.W. is reading. Then, because this is a Place and not a person: check whether any Fruit was handled, who handled it, and what was promised to anybody within sight of the Gate. Where a figure has moved, correct the file and not anybody's recollection of it. The record here describes ground that is still moving, and it is not a finished account of it.
 ## Watch Record
 
 ### Fruit That Melts

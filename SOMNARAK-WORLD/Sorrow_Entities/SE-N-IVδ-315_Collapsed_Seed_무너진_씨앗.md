@@ -12,7 +12,7 @@
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
-| **Manifestation** | Object-Grudge |
+| **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A great split seed erupting a tangle of thick wet shoots — a bulky plant-beast hauling itself on pulsing root-limbs. Salt-cold, it smells of cold rain; it moves though it should be dead. |
 | **Movement** | Mobile — hauls itself on wet root-limbs at 0.4 m/min over bare panel and roots into surfaces it rests against. |
 | **Location** | Zone C, Mask Market |
@@ -105,7 +105,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Object-Grudge
+- **Manifestation:** Subject-Lament
 - **Primary marker:** A split shell of dark crystal leaking blue sap, wrapped in thick wet shoots, pulsing at a measurable rate. The rate is the marker; the shoot mass is not stable enough to identify on.
 - **Position / movement:** Mobile. It hauls itself on root-limbs and roots into whatever it rests against, so position is managed by rotating floor panels rather than fixed by a mark. The earlier description of this entity as stationary was wrong and stood for years against a chamber whose whole floor system exists because it moves.
 - **Element signature:** Lament
@@ -192,7 +192,7 @@ Escalation here is a rate change and nothing else, and the rate changes before a
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Planting or watering the Seed with sorrow. |
-| **Manifestation** | Object-Grudge |
+| **Manifestation** | Subject-Lament |
 | **Primary effect** | Partial manifestation arrested at a consistent point; the form differs every time. |
 | **Duration / rate** | Until lifted clear of rootable medium; onset within seconds, arrest within a minute. |
 | **Risk** | Unidentifiable in the moment and unidentifiable on review; nothing learned transfers to the next occurrence. |

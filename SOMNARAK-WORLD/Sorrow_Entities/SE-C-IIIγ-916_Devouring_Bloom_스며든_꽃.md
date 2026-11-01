@@ -12,7 +12,7 @@
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
-| **Manifestation** | Object-Weight |
+| **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A giant carnivorous bloom the size of a cart, petals of dense black crystal that snap like a mouth — a mobile plant-beast dragging itself on thick root-legs toward prey. Lead-heavy, it smells of wet stone and rot. |
 | **Movement** | Mobile — moves as a creature (crawls, walks, slithers, or prowls). |
 | **Location** | Zone B, deep tunnels |
@@ -107,7 +107,7 @@ Rooting to feed and hauling toward prey are recorded actions of the same bloom. 
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Object-Weight
+- **Manifestation:** Subject-Weight
 - **Primary marker:** A carnivorous bloom the size of a cart, petals of dense black crystal that snap shut, hauling itself on thick root-legs and pushing further petals through the tunnel floors and walls behind it.
 - **Position / movement:** Mobile. It drags toward what it is feeding on and then roots in place; log the root-leg positions against the cut wall marks and the growth front separately, since the two move at different rates.
 - **Element signature:** Weight
@@ -193,7 +193,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New grief deposited without release. |
-| **Manifestation** | Object-Weight |
+| **Manifestation** | Subject-Weight |
 | **Primary effect** | Floors become heavy and passages narrow. |
 | **Duration / rate** | Sustained contact maintains the active effect; interrupted contact does not certify that the channel is cleanly closed or its residue cleared. |
 | **Risk** | Major (γ) Subject producing Weight pressure; the structure takes load it was not built for, and personnel who handle a petal carry the longing out with them. |

@@ -275,7 +275,7 @@ Management: Name the withheld truth without forcing another person to speak. Wor
 **Entry 5 — <Standing Instruction to Observers>**
 Bring something of your own. Observers who enter this chamber carrying nothing unsaid will record nothing, and the entity will withdraw into dream-space rather than meet them; this is not a failure of procedure and is not to be written up as one. What is offered is not collected, filed, or repeated outside the chamber. No observer is required to disclose afterwards what they gave, and no supervisor may ask. The exchange is the work. Anyone who cannot make it should be rostered elsewhere without explanation or prejudice.
 
-**Threat rating:** Per entity classification. See SECC Classification table and Combat Record for threat details.
+**Threat rating:** Per entity classification. See the SECC Classification table and the Contact Record for threat details.
 
 ## 최종 관찰 (Final Observation)
 

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-617 [O]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the boundary thickens along the Gate vicinity with new exile and border mourning, and what becomes harder to cross is the ground, not a route out |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -78,7 +78,7 @@
 - The failure here is a worker who picks up a beam. It is not dramatic and it is not resisted; eleven exposure events are recorded and in nine of them the worker had crossed onto the shelter ground without any memory of deciding to.
 - Long exposure works through the eyes rather than the body. Personnel who spend a full watch in front of the wall begin to find the half-built shelters legible — which room was meant to be which, where the door would have gone — and that legibility is the first stage of wanting to finish one. Report it when it starts, not when it becomes a temptation.
 - The M.A.W. is never costless and its somatic, psychological and mnemonic charges are codified in the equipment file and confirmed in the field. This set bills in belonging: wielders describe a slow conviction that wherever they currently live is temporary, and they are rotated before the conviction reaches the point of acting on it.
-- Without resolution the gauge peaks and the wall transforms rather than breaching outward. It extends along the boundary between the city and the wilderness, new foundations are thrown up at the new end within days, and the Gate road has twice had to be rerouted around the growth.
+- Without resolution the gauge peaks and the wall extends rather than breaking outward. It extends along the boundary between the city and the wilderness, new foundations are thrown up at the new end within days, and the Gate road has twice had to be rerouted around the growth.
 
 ## Appearance
 **Physical Form:** A wall of dark wet crystal near the Exile's Gate. Its surface burns with red light and leaks sorrow like rain.
@@ -153,7 +153,7 @@ Escalation here is length. The wall grows along the Gate's boundary and the surv
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New exile and border mourning. |
-| **Manifestation** | Subject-Grudge|
+| **Manifestation** | Place-Lament ||
 | **Primary effect** | The boundary becomes harder to cross emotionally and physically. |
 | **Duration / rate** | Slow along the Gate vicinity. |
 | **Risk** | Major (γ), and the grade is for the runoff and the growth rather than for any aggression. In nine years the wall has injured four people: one SED detachment that roofed a shelter, and three workers who walked onto the ground and started building. |
@@ -355,7 +355,7 @@ Some sorrows mourn exile. Exiles' Wall mourns the building — the shelters star
 - Growth is the escalation: survey the new end post and record what was said in the preceding hour.
 **Observation Notes:**
 - A Gate register with allocations, vacancy dates, and no instance of anybody being ordered out.
-- See Combat Record for engagement history.
+- See Contact Record for what the wall does to the people who work it.
 - Shed crystal only, never a standing section; both pieces left deliberately unfinished.
 **Cross-References:** The Exile's Gate expulsion log, The Rusted Wall (null), The Vanished Tower (third session refused since Year 4,235), and SED's four destination entries.
 **Faction Involvement:** SED (Desolate-territory exploration)
@@ -365,7 +365,7 @@ Some sorrows mourn exile. Exiles' Wall mourns the building — the shelters star
 
 **Operational interpretation:** The suppression condition has two halves and the second is the one that fails. Acknowledge both departure and destination; do not complete its buildings. The prohibition is manageable, if unpleasant — it asks personnel to stand in front of half-built rooms for twenty turns and leave them half-built. The acknowledgement is not manageable from this holding at all. Departure is in the Gate register and can be stated; destination is in the Desolate territories, and establishing where any of those households actually went requires survey work beyond the city edge that only SED can perform. The wing's destination column is therefore filled at the pace of somebody else's expedition schedule, and has been added to four times in as many years. Each addition has produced a measurable fall in the gauge, which is the clearest result this holding has ever recorded and the one it has least control over. Where the entity contradicts this record, trust the entity and preserve the contradiction.
 
-**Review requirement:** After any activation, Sorrow Tide, Ordeal, transformation attempt or unusual interaction, re-verify the gauge, the exposure log, the surveyed length and the runoff series before work resumes. Three further items apply here. Every new foundation is numbered, plotted and left alone. Any contact with an unfinished structure is recorded against the holding as an exposure event and never against the individual as a lapse, because the urge to finish a shelter is the entity working as designed and disciplining a worker for feeling it would simply stop the reports arriving. And any account of the departures entered into the file is checked against the register before it is relied on — specifically for the absence that defines this holding, which is that nobody was ever ordered out.
+**Review requirement:** After any activation, Sorrow Tide, Ordeal or unusual interaction, re-verify the gauge, the exposure log, the surveyed length and the runoff series before work resumes. Three further items apply here. Every new foundation is numbered, plotted and left alone. Any contact with an unfinished structure is recorded against the holding as an exposure event and never against the individual as a lapse, because the urge to finish a shelter is the entity working as designed and disciplining a worker for feeling it would simply stop the reports arriving. And any account of the departures entered into the file is checked against the register before it is relied on — specifically for the absence that defines this holding, which is that nobody was ever ordered out.
 ## Warden Record
 
 ### Structures It Never Finishes

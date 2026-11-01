@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vγ-260 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Transform; cyclical phenomenon |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the Tide rises nightly over ground it has already covered, peaks before midnight and recedes at dawn — the water line travels and nothing in it does |
 | **Coherence** | Sovereign (V) — Autonomous and cyclical |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |

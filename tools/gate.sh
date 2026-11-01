@@ -57,6 +57,7 @@ check "BROKEN TOTAL: 0"                                  python3 tools/check_lin
 check "[PASS] 0 label or code-tag violations found!"     python3 tools/label_lint.py
 check "OVERALL STAT BANDS: PASS"                         python3 tools/check_stat_bands.py
 check "RESULT: PASSED"                                   python3 tools/text_box_double_checker.py
+check "SECTION LOGIC: PASS"                               python3 tools/section_logic.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

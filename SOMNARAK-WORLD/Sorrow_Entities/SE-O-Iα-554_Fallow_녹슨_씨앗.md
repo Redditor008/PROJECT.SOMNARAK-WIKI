@@ -12,7 +12,7 @@
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
-| **Manifestation** | Object-Grudge |
+| **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A corroded seed cracked into a bristling creature of rusted root-spines and orange creepers, rolling and crawling across the Desolate. Fever-cold, it smells of char and wet iron. |
 | **Movement** | Fallow rolls and crawls, trailing orange creepers. It holds no fixed position and is tracked by the corroded line it leaves. |
 | **Location** | The Desolate — mobile |
@@ -109,7 +109,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Object-Grudge
+- **Manifestation:** Subject-Lament
 - **Primary marker:** A small seed of rusted crystal that leaks blue tears and rolls with the wind across the Desolate.
 - **Position / movement:** Fallow rolls and crawls, trailing orange creepers. It holds no fixed position and is tracked by the corroded line it leaves.
 - **Element signature:** Lament
@@ -189,7 +189,7 @@ Escalation here is measured in square metres and in millimetres and in nothing e
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Planting the Seed in sorrow-rich soil. |
-| **Manifestation** | Object-Lament|
+| **Manifestation** | Subject-Lament ||
 | **Primary effect** | Begins a slow, uncertain growth that may form a new entity. |
 | **Duration / rate** | Indefinite. |
 | **Risk** | The growth may absorb nearby grief and become uncontrollable. |

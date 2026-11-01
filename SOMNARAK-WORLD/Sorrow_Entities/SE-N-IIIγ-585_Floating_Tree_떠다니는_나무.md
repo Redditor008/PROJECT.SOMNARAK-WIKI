@@ -12,7 +12,7 @@
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
-| **Manifestation** | Place-Weight |
+| **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A tree-beast drifting root-first through the air, hanging roots lashing like tentacles — a floating creature of pale wood shedding broken memories. Salt-damp, it smells of cold rain. |
 | **Movement** | Mobile — carried root-first on Han currents, with hanging roots sweeping beneath it; ordinary travel is drift, not walking or pursuit. |
 | **Location** | The Desolate, near The Scar |
@@ -106,7 +106,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Weight
+- **Manifestation:** Subject-Lament
 - **Primary marker:** The roots. Whole, healthy, fully grown, and hanging in air — the file's standing note is that nothing else in the Desolate looks so much like it ought to be planted.
 - **Position / movement:** Drifts root-first on the Han currents, four to nine metres up, roots trailing and never once touching the Desolate. Ordinary travel is not self-propelled. The Returning Tree pairing records station-keeping against the current; that exception is not ordinary pursuit or an anchoring method.
 - **Element signature:** Lament
@@ -180,7 +180,7 @@ The escalation pattern is specific to Floating Tree: it is not a generic breach 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | A new dispersal in the catchment. |
-| **Manifestation** | Place-Weight |
+| **Manifestation** | Subject-Lament |
 | **Primary effect** | Rootlessness inside the shadow; the effect ends at the shadow's edge, which is why the edge is pegged. |
 | **Duration / rate** | Continuous while the shadow covers you. Growth is seasonal and one-directional. |
 | **Risk** | Major (γ) Subject producing Lament pressure. Breach brings it down onto the floor and roots it through personnel in place. |

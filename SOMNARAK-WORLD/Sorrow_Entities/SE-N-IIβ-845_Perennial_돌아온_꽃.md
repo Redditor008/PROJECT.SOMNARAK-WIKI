@@ -12,7 +12,7 @@
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
-| **Manifestation** | Place-Void |
+| **Manifestation** | Subject-Weight |
 | **Physical Form** | Mixed — A patch of dark flowers that uproot and walk on thin stem-legs — a swarming bloom-creature that returns no matter how often crushed, petals like tiny mouths. Lead-cold, they smell of wet stone. |
 | **Movement** | Mobile — moves as a creature. |
 | **Location** | The Desolate — mobile |
@@ -105,7 +105,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Place-Void
+- **Manifestation:** Subject-Weight
 - **Primary marker:** A patch of dark flowers growing from apparently empty ground in the Desolate. The flowers return after being removed.
 - **Position / movement:** Mobile on stem-legs, and the movement is reoccupation rather than pursuit — it walks back to ground it has been removed from. Record where the patch is, where it was at the last survey, and the distance between the two. A Perennial that has not moved has not been disturbed.
 - **Element signature:** Weight
@@ -169,7 +169,7 @@ The escalation here is not driven by the entity and not driven by time; it is dr
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | A person returning to a place they abandoned. |
-| **Manifestation** | Place-Void |
+| **Manifestation** | Subject-Weight |
 | **Primary effect** | Travelers feel the weight of previous choices and returns. |
 | **Duration / rate** | Slow; new flowers appear along old paths. |
 | **Risk** | Moderate (β). The patch injures nobody who leaves it standing, and the 8–20 Weight pressure is the least important figure on this sheet. The hazard is the facility's own habit: told that a site is contained, personnel tidy it, and the file's clearance log is the measurement of that impulse written as three rising readings — nine days and eleven points, six days and fourteen, a fortnight and nineteen. |

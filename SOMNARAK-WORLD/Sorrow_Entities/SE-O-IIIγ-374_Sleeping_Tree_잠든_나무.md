@@ -12,7 +12,7 @@
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
-| **Manifestation** | Object-Weight |
+| **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A vast dormant tree-beast coiled beneath the Alpha Tree, trunk a curled body, roots clenched around a broken promise — unmistakably a sleeping creature, not a plant. Fever-cold, it smells of char; were it to wake, it would walk. |
 | **Movement** | None recorded. It has not shifted position in six years of survey; the file records that were it to wake it would walk on its roots, and that no return from that state has been recorded. |
 | **Location** | Zone A, Alpha Tree |
@@ -104,7 +104,7 @@
 **Identification Profile**
 
 - **Entity Type:** Subject
-- **Manifestation:** Object-Weight
+- **Manifestation:** Subject-Grudge
 - **Primary marker:** A large tree-shaped object sleeping beneath the Alpha Tree. Its roots are wrapped around a broken promise.
 - **Position / movement:** Fixed, coiled, and dormant beneath the Alpha Tree; record the curl of the trunk and the position of the clenched roots, not a bearing — it has no orientation while it sleeps and will have one only once.
 - **Element signature:** Grudge
@@ -204,7 +204,7 @@ Escalation is a change in the creak interval. It shortens before anything else h
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touching the roots while repeating the promise. |
-| **Manifestation** | Object-Weight |
+| **Manifestation** | Subject-Grudge |
 | **Primary effect** | Shows the dream of the life the travelers intended to build. |
 | **Duration / rate** | Until the dream ends. |
 | **Risk** | The worker may attempt to complete someone else's promise. |
