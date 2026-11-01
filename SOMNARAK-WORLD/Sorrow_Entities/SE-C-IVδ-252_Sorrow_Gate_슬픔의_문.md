@@ -45,51 +45,36 @@
 - There is no breach counter. The influenced radius widens through the vault, and its edge is remeasured from the frame at every session.
 - Residue is recovered from the threshold under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 45% against Void, which is the element it presents; 35% against everything else, because a slab with no moving part offers very little to aim at |
-| **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Void |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | δ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and the file's own attack row says nothing closes and nothing is cut, that no crack appears and there is no seam for one to appear in. What the threshold takes is lexical: a worker's next sentence stops where a word should be.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
-| **Coherence** | Entity (IV) — Self-aware, ancient, sealed |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A massive Weight Han-crystal gate without handle, lock or hinges, standing in the Alpha Tree deep vault. Its inner face warms, and the warmth is the only quantity about it that has ever been seen to move. |
+| **Perceptible to** | The whisper first, ambient and not yet addressed; then the warmth off the inner face, the ash smell that leaves in a worker's clothes, and the settled conviction that something on the far side is at a temperature. |
+| **Handling** | Nobody steps inside the frame, nobody speaks the whisper aloud at it, and no rendering of it leaves the vault. Interpretive material is destroyed under witness and logged. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, Alpha Tree deep vault — sealed |
+| **Valid Work Types** | Viderehan and Ferrehan only, and both are recorded as stable. Viderehan returns fragments of the whispering; Ferrehan returns silence; both leave the reading where they found it, which is the only outcome this record accepts. |
+| **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | All interpretive material produced during the session is destroyed under witness and logged, and the gauge is left flat where the vault set it — nothing here is read down, and both valid Work Types are recorded as stable |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Threshold* [**Debuff**] } | "You stand at the gate — and something on the far side takes your measure." | [The frame reads the target; the vault enters that they meant to pass.] | *Target suffers a Void mark; from here the whisper is addressed to them and to nobody else in the chamber.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target comes inside the frame line. |
-| { *The Pull Through* [**Debuff**] } | "Something beyond the gate is calling — and it has a name for you that you have never been told." | [The pull arrives as an almost-word: the sentence the target has no vocabulary for.] | *Target loses clarity and steps toward the frame; the whisper stops being ambient and becomes address.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers past a full thirteen-second interval. |
-| { *The Iron Bar* [**Attack**] } | "The frame closes on whoever is standing in it, and the frame has never once been open." | [Nothing closes and nothing is cut. What the threshold takes is lexical: the worker's next sentence stops where a word should be, and the vault goes quiet around the gap.] | *Inflicts Void damage; what is sheared away is naming — the words for things arrive late or not at all.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target blocks the frame or holds the approach against the cordon. |
-| { *What Waits Beyond* [**Attack**] } | "No crack appears; there is no seam for one to appear in. The inner face warms, and the whisper stops being weather and becomes address." | [The surge crosses no opening. What it costs is the last working assumption here: that an interpretation kept private is harmless.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a rendering of the whisper is spoken aloud at the frame, transcribed, or carried out of the vault. |
-| { *The Gate Opens Wide* [**Ultimate**] } | "The gate swings open" — the sentence every drill in this wing exists to ensure is never spoken as fact. | [The opening is the failure state; the silence the vault has kept for the whole of its history leaves at once.] | *All in range suffer Void erosion for three turns as the kept unknown is spent.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and the cordon has not been cleared. |
+| Event | What the Gate does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Frame* [**Register**] } | It reads whoever comes inside the frame line, and from that point the whisper is addressed to them and to nobody else in the chamber. | The frame line is the mark. The ambient volume is taken at the threshold, and nobody comes inside it to take a better reading. | A flat gauge is expected here and is not the same as a safe session: a worker can hold a stable reading and still leave with the ash smell in their clothes. |
+| { *The Whisper* [**Exposure**] } | The pull arrives as an almost-word — the sentence the worker has no vocabulary for — and the whisper stops being weather and becomes address. | Nothing is rendered into language. A rendering spoken at the frame, transcribed, or carried out of the vault is the trigger for the worst reading on this file. | Composure erodes by the measure of the language the worker believes they have recovered, and the instability goes back into the gauge rather than out of the vault. |
+| { *The Iron Bar* [**Refusal**] } | Nothing closes and nothing is cut. What the threshold takes is lexical: the worker's next sentence stops where a word should be, and the vault goes quiet around the gap. | Nobody blocks the frame or holds the approach against the cordon, and the gap is not filled in afterwards. | The refusal is that an interpretation kept private is still not harmless, which is the last working assumption the vault takes. |
+| { *The Inner Face* [**Overload**] } | Left unresolved the sorrow does not rupture: the inner face stays warm, and the whispering carries further through the Alpha Tree vault than it did. | The temperature is taken and logged, and the other records in the vault are read for behaviour that has altered with it. | Three other records in this vault have changed their behaviour during periods of elevated warmth here, and that is the whole of the archive's case for the classification this Gate carries. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first, and it is made by absence: the vault holds several sealed structures and this is the one with nothing to grip — no handle, no lock, no hinges, no seam — cold to the palm and warm at the frame. Both temperatures are taken before anyone speaks, and nobody repeats aloud what they believe is behind it.
-2. **Clash:** There is nothing to weep with and nothing to confront. Viderehan is worked at a distance and returns fragments of the whispering; Ferrehan is worked by remaining in the vault while the Gate says nothing at all, which it does for most of any session. No approved method of contact exists and the file does not supply one.
-3. **Resolution:** The session closes when every transcript, partial translation and working note produced during it has been destroyed under witness and the destruction entered in the vault log, and the reading falls below 25%. A session whose notes are retained for later study has not closed.
+1. **What is confirmed:** the frame line, the ambient whisper at the threshold, and the temperature of the inner face taken before anything is entered.
+2. **What the watch does:** Viderehan returns fragments of the whisper and Ferrehan returns silence, and neither leaves the reading anywhere but where the vault set it. Nothing spoken at the frame is written down, and whatever is written down is destroyed under witness.
+3. **How it closes:** the close is the file's documented condition: **All interpretive material produced during the session is destroyed under witness and logged, and the gauge is left flat where the vault set it — nothing here is read down, and both valid Work Types are recorded as stable.**
 
 ### Consequences
 

@@ -45,51 +45,36 @@
 - There is no breach counter. The affected radius widens along the border line, and its edge is marked at every session.
 - Residue is recovered from the footings under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 200/200 |
-| **Han Pressure [ATK]** | 3–10 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, with the footing unshifted in sixty years and only the apex moving, and its own attack row says no glob falls and nothing is struck: the site is read, not hit, and nobody has ever been injured here.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A tower-shaped crystal structure that melts upward and has produced no rubble and no debris in sixty years, glowing inside and containing rooms drawn to a specification. It stood at 7.2 degrees off vertical at the last reading, has been as far as 11.4, and has never returned to plumb on its own. |
+| **Perceptible to** | The lean first, read on the cord as a number; then the glow inside, the empty rooms, and the ground beneath a structure that should be shedding and is not. |
+| **Handling** | The reading is taken from outside on the cord and the interior is entered only on the clock; a movement of more than half a degree inside one session ends it. Nothing is reconstructed and nothing is undermined. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 200/200 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone E, Border region |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer the people the rooms were specified for and holds the gauge; Ferrehan tests whether a worker can stand inside an unfinished thing without mentally finishing it, and lowers the gauge. |
+| **Location** | Zone E, Border region |
 | **Resolution Condition** | Preserve the unfinished form; do not reconstruct |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Softening* [**Debuff**] } | "The crystal goes soft toward the sky, and the site underneath it stays clean enough to sit on." | [Nothing enters the crew and nothing falls; the operative inside the rooms begins remembering a finished tower that was never built, with a date for the memory.] | *A Void mark on the operative's statement: a specific, arguable false memory of completion that must be struck from the record by hand.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When an operative stays in the interior rooms past the first hour. |
-| { *The Sagging* [**Debuff**] } | "The tower sags under its own future — not from wind, and not from ruin." | [The apex settles further out along the cord. Nothing is climbed; the instrument is read, and a movement of more than half a degree inside one session ends the session.] | *Clarity goes into composing — the crew begins silently drafting withdrawals for projects that are not theirs, and the drafts are often good.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the reading is taken on a day an undertaking was dropped elsewhere in the city. |
-| { *The Drip* [**Attack**] } | "The mass is un-building itself toward the sky; it has never produced a gram of debris in sixty years." | [No glob falls and nothing is struck — the site is read, not hit. The melt registers only as the cord moving once, slowly, and settling further out.] | *Void erosion of the bearer's commitments: unfinished work starts remembering itself as finished, and has to be disproven from the file.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker mentally completes the drawing while standing in a specified room. |
-| { *The Full Melt* [**Attack**] } | "The lean increases one to three degrees, and holds there, and does not come back." | [The interior opens rooms that follow the abandoned drawing down to the window furniture; nobody undermines anything, and nobody has ever been injured here.] | *A heavy Void surge of 15% against the session: specification-grade rooms for people who never arrived, and a plate that will not decay by time.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When completion of the abandoned plan is attempted, modeled or promised. |
-| { *The Puddle City* [**Ultimate**] } | "Every building softens, sags, and melts — and the city becomes a puddle." | [The Tower's melt spreads to every structure in the field.] | *All in range suffer Void erosion for three turns in the molten city.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Folly does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Cord* [**Register**] } | The apex settles further out along the cord; the footing plate has not shifted in sixty years and is surveyed annually to confirm it. | The lean is read on the cord, entered with the date, and a movement of more than half a degree inside one session ends the session. | The lean answers to the city rather than to the team, and the file says so plainly so that nobody takes a settling apex personally. |
+| { *The Completed Drawing* [**Exposure**] } | Workers who finish the drawing in their heads raise the gauge every time and usually do not notice they have done it; the interior opens rooms that follow the abandoned drawing down to the window furniture. | Ferrehan stands inside an unfinished thing without mentally finishing it, and nobody drafts a withdrawal for a project that is not theirs. | The error is specific and repeatable: the operative remembers being told the tower was finished, with a date, and the memory has to be struck from their statement by hand. |
+| { *The Melt* [**Refusal**] } | No glob falls and nothing is struck. The mass has never produced a gram of debris in sixty years, and the melt registers only as the cord moving once and settling further out. | Nothing is reconstructed and nothing is undermined; the reading is taken and the site is left as it stands. | The refusal is that there is nothing to hit: this structure takes its damage from having a future, not from an attacker. |
+| { *The Unbuilt Rooms* [**Overload**] } | Left unread for a full quarter the lean does not accelerate: it holds, the footing plate corrodes, and the next team has to re-establish the datum before any reading means anything. | The datum is re-established before the reading rather than after a failure, and the interior is cleared at the second hour. | The failure mode here is a broken series rather than an event, which is why the plate is surveyed every year. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The plumb reading is taken before anything else and written at the head of the sheet. No session opens on a figure the previous session did not also record, because what is being read here is the change and not the number.
-2. **Clash:** Work proceeds under Viderehan and Ferrehan while a second operative reads the plumb line against the footing plate every ten minutes. A shift of more than half a degree inside one session ends the session. The work is not what moved it; a movement that fast means something was withdrawn somewhere in the city that morning, and the team's job becomes finding out what.
-3. **Resolution:** The session closes on a second plumb reading, the two figures entered side by side with the hour of each, and the standing condition observed: **Preserve the unfinished form; do not reconstruct**. No one has ever been authorised to true the apex. The two attempts made before that rule existed are described in the Origin section and neither is recommended.
+1. **What is confirmed:** the lean on the cord against the last reading, the condition of the footing plate, and the datum — re-established if the plate has corroded since the last survey.
+2. **What the watch does:** Viderehan shows the observer who the rooms were specified for, and Ferrehan stands in an unfinished thing without finishing it in their head. Nobody reconstructs anything, nobody undermines anything, and the interior is cleared at the second hour.
+3. **How it closes:** the close is the file's documented condition: **Preserve the unfinished form; do not reconstruct** — and a lean that holds is a good reading, not a stalled one.
 
 ### Consequences
 

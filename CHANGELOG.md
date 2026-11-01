@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five relics whose harm was clerical (2026-11-01)
+
+Fifth batch, and the run of them where "damage" turns out to mean paperwork: a fork walk, a logger trace, a frost pattern, a lean on a cord, a register that has to be destroyed rather than corrected.
+
+- **Clapperless** (`C-IIβ-340`) — *stationary — a discrete object*; nine deliberate strikes have left the casting exactly as drawn, and in sixty-four years the bell has not moved, not sounded and not harmed anyone. What is read is the reference fork dying short of its usual distance.
+- **Sorrow Gate** (`C-IVδ-252`) — *stationary — a structure or location*; nothing closes and nothing is cut, and no crack appears because there is no seam for one to appear in. What the threshold takes is lexical.
+- **A Letter Never Sent** (`C-Iα-114`) — *stationary — a discrete object*; the pulse is not a strike and the file says why in six words: *it has nothing to hit with*. Everything it costs is Composure spent standing near paper.
+- **Unwitnessed** (`C-Iα-236`) — *fixed in the Desolate soil*; no husk has ever been recovered, nothing is blown anywhere, and in four hundred years the site has not injured anybody. Disturbance is answered by the trace stopping.
+- **Folly** (`C-Iα-329`) — *stationary — a structure or location*; no glob falls and nothing is struck, and the mass has never produced a gram of debris in sixty years. The reading is the lean.
+
+**Two of these needed a rule kept rather than a table dropped.** The Letter is a single-use discharge relic, so its threshold stays *single-use discharge trigger — consumed upon activation*, and the Contact Events carry the choice the file actually poses: spend the seal deliberately under emergency authorisation, or clear the vault and re-separate the acoustic and kinetic neighbours by three bulkheads. The Gate's Behavior table marks **both** valid Work Types as Stable, which the old combat framing could not express; its field table says so in as many words, and the Contact Record calls a flat gauge the correct outcome rather than a stalled one.
+
+**Prose swept.** The Letter's activation header read *Its Battlefield Effect is Restoration Only* — a phrase used in exactly one file in the archive, and about a piece whose whole purpose is stabilising a squad; it reads *Field Effect* now.
+
+**Side codices.** Four of the five have one, and each `Gauge / Pressure` row lost its per-hit band: *441/441; starts 35–50% / Void — no attack pattern; the fork walk and the width of the quiet are the reading*, and the same form for the Gate, the Unwitnessed and the Folly.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` unchanged. **Twenty-five converted, thirty-two relic `Combat Record`s still to read.**
+
 ## Five relics that read rather than reach (2026-11-01)
 
 Fourth batch. All five are readings first and objects second, and in each case the old combat table had already written the denial in its own bracketed note.

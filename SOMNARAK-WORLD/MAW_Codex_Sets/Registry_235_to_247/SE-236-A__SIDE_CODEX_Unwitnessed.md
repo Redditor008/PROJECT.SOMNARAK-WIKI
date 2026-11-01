@@ -24,7 +24,7 @@
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Lament |
 | Form | A seed-shaped hollow in lifeless soil, ringed by dead black roots; visible only when rain or Han crosses it. |
-| Gauge / Pressure | 25–40% / Lament 3–10 |
+| Gauge / Pressure | 198/198; starts 25–40% / Lament — no attack pattern; the outline survey and the seven-day logger trace are the reading |
 | Observation | 1 — Initial |
 | M.A.W. Set | The First Mark |
 

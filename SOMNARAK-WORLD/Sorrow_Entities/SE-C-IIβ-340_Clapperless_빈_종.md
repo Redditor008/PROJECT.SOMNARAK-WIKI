@@ -45,51 +45,36 @@
 - There is no breach counter. The quiet field widens, and its boundary is confirmed by instrument rather than by ear.
 - Extraction is authorized separately from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure, 15% against every other kind |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 441/441 |
-| **Han Pressure [ATK]** | 9–22 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own line is that in sixty-four years the bell has not moved, not sounded, and not harmed anyone. Nine deliberate strikes have left the casting exactly as drawn, and what is read here is the fork walk rather than the bell.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats not ringing |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A bell identical to the Orphaned Bell and completely silent, hollow and pale, with no clapper in it. It vibrates when somebody listens. In sixty-four years it has not moved from where it stands. |
+| **Perceptible to** | The quiet first — a field where sound goes in and does not come back — then the reference fork dying short of its usual distance, which is how the boundary is found and how wide it is. |
+| **Handling** | The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the plinth. The radius is entered against the inspectorate's name rather than the gauge. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 441/441 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, near the Orphaned Bell |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker a warning that was issued, in order, and did not arrive — the folder holds two hundred of them — and holds level; Ferrehan stands the interval in the quiet without striking anything and without speaking, and lowers the gauge. |
+| **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Empty Toll* [**Debuff**] } | "Nothing swings and nothing tolls — it has never rung. What reaches you is the quiet itself, a field where sound goes in and does not come back." | [The reference fork dies short of its usual distance; the boundary has moved since the last reading.] | *The target takes a Void mark; what they hear stops meaning what it says.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Standing inside the quiet field. |
-| { *The Echoing Emptiness* [**Debuff**] } | "There is no echo to thin out. The corridor you came down was louder than this room, and the difference deepens the longer the interval runs." | [Footsteps shorten. Voices lower at the plinth for no reason anybody can state.] | *The target's clarity goes; the silence under what sound remains is what consumes.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | Held inside the field for the full interval. |
-| { *The Void Peal* [**Attack**] } | "It does not burst and it does not peal. The quiet simply reaches further — somewhere that fortnight a competent person signed for something they did not strike." | [The fork walk comes back three metres longer than the previous reading, which opens a documents search, not a field response.] | *Inflicts Void damage; presence thins where the field has widened.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | On a widening between consecutive readings. |
-| { *The Full Hollow* [**Attack**] } | "The casting does not crack; nine deliberate strikes have left it exactly as drawn. What it holds is still nothing, and the nothing is still enormous." | [A worker decides to strike it properly, with intent, to settle the question. It does not ring. The quarter's series is void.] | *A heavy Void opening; the meter climbs 15% while the bell does nothing at all.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the moment somebody strikes it to settle the question. |
-| { *The Silent Tower* [**Ultimate**] } | "Every bell in the field stays exactly as it was. The field reaches twenty-six metres — the width it stood at in Year 4231, when nine hundred items were cleared on their records in six weeks." | [No event to see and nothing to hear; the escalation happened at an inspector's desk and is entered in metres of silence.] | *Everyone in range takes Void erosion for three turns of standing in the widened quiet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the gauge passes 65%. |
+| Event | What the Clapperless does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Fork Walk* [**Register**] } | It has never rung. What registers is the reference fork dying short of its usual distance, and the quarter's whole series hanging on that number. | The fork is walked at each reading, the distance entered, and the boundary recorded against the inspectorate's name rather than against the gauge. | The gauge reports one worker across one interval and the radius reports what the inspectorate has put its name to; the two have never moved in step once. |
+| { *The Quiet* [**Exposure**] } | Sound goes in and does not come back. Footsteps shorten, voices lower at the plinth for no reason anybody can state, and what consumes is the silence underneath what sound remains. | Ferrehan stands the full interval without striking anything and without speaking, and the interval is timed rather than judged. | A session that lowers the gauge and leaves the field wider has been worked right, and is recorded as such. |
+| { *The Struck Bell* [**Refusal**] } | It does not ring. Nine deliberate strikes in the holding's history have left the casting exactly as drawn, and each attempt widened the field for the rest of the quarter. | The Rule of the Struck Bell is enforced across the inspectorate and every district register; nobody strikes it to settle the question. | The refusal is that a person can be certain and still be wrong: every attempt on record was made by somebody who had read the file. |
+| { *The Widening* [**Overload**] } | The quiet reaches further — twenty-six metres, the width it stood at in Year 4231, when nine hundred items were cleared on their records in six weeks. | A widened walk opens a documents search rather than a field response, and the quarter's series is entered as found rather than rewritten. | The escalation happened at an inspector's desk and is measured in metres of silence, which is why the radius is the column that matters. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification runs first: the quiet-field radius set against the previous reading, never the bell itself. At 6 tenths of a metre the bell is exactly what it is at 26, and 3 early reports describe an unchanged holding on days when the fork walk differed by 11 metres. Both the position and the withdrawal are fixed before the cycle opens.
-2. **Clash:** Viderehan and Ferrehan only. The reading is taken with a reference fork struck at the plinth and carried outward until it stops being audible; the distance is the quiet-field radius. Four point two metres is baseline. The recorded range is six tenths of a metre to twenty-six.
-3. **Resolution:** Second radius, rim-vibration log, and the session closes. No suppression condition is recorded and none is to be invented; the bell has never rung and the containment does not attempt to make it.
+1. **What is confirmed:** the fork distance against the previous reading, the boundary's width in metres, and the inspectorate's name against the quarter's series.
+2. **What the watch does:** Ferrehan stands the interval in the quiet without striking anything or speaking, and Viderehan reads the warning the field did not carry. The fork is walked before anything is entered.
+3. **How it closes:** the close is the file's documented condition: **Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged.**
 
 ### Consequences
 

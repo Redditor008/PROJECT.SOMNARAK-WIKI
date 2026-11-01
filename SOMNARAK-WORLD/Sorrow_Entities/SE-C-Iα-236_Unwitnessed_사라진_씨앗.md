@@ -45,51 +45,36 @@
 - There is no breach counter. Instrumentation is left in place and recovered later, since presence of personnel suppresses the manifestation.
 - Extraction is authorized apart from the work cycle.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure; 5% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 198/198 |
-| **Han Pressure [ATK]** | 3–10 per hit · Lament |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *fixed in the Desolate soil*, with the outline unchanged by more than a finger's width in four hundred years of survey, and its own attack row says no husk has ever been recovered, nothing is blown anywhere, and in four centuries the site has not injured anybody. Disturbance is answered the only way it answers — by stopping.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A seed-shaped absence in the Desolate soil with no physical core, visible only when rain or Han passes over it, and a faint heartbeat under the ground. The outline has not changed by more than a finger's width in four hundred years; the movement is downward and is measured as depth. |
+| **Perceptible to** | The absence when rain crosses it, then the heartbeat, and finally the dial trace — which is the record, and is read seven days after the fact rather than at the site. |
+| **Handling** | Marked and left. Nothing is excavated and nothing is planted into it, no interim reading is taken and no visit is made inside the seven days. The manifestation stops within four seconds of a person arriving, so standing at it destroys the week. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate, near The Scar |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is worked from the recovered log rather than the field and holds level; Ferrehan is seven days away from an instrument that is working, with no interim reading and no visit permitted, and lowers the gauge. |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Mark the absence; do not excavate or plant into it |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Empty Furrow* [**Debuff**] } | "Nobody regards the furrow — the manifestation stops within four seconds of a person arriving, in every recovery on record. What is regarded, seven days later, is a dial trace and a deepest value with a date beside it." | [The ache arrives at the desk, not at the site: a hollow exactly as deep as the fortnight's unwritten beginnings.] | *Target suffers -10 Composure; they mourn a thing that never was, at the distance the record imposes.* **[10 Lament DMG [Lament]]** | On recovery of the logger. |
-| { *The Dead Sprout* [**Debuff**] } | "Nothing almost grew here; that is the distinction the briefing leads with. A thing that grew and failed has a first record. This was never entered, and the soil has refused four plantings since." | [No ghost of potential presses on anybody; what presses is a file whose first date is the day the facility met the person.] | *Target loses 10 Composure; they feel the shape of a life with its first thirty years left off the form.* **[10 Lament DMG [Lament]]** | When the fortnight's intake files are pulled. |
-| { *The Husk* [**Attack**] } | "No husk has ever been recovered, nothing is blown anywhere, and in four hundred years the site has not injured anybody. Disturbance is answered the only way this holding answers: by stopping." | [Arrive inside the week and the trace dies four seconds later; the week is void and the voiding is the whole of the effect.] | *Inflicts Lament pressure with no wound attached; the sharpness is a lost series and a reason recorded without comment.* **[14-22 Lament DMG [Lament]]** | When the site is visited inside its seven days. |
-| { *The Might-Have-Been* [**Attack**] } | "It lays out no tree. What it might have become is the one thing nobody can describe — not the traveller, not three testimonies, not four centuries of instruments — and the file treats any description offered as the failure, not the finding." | [Clarity fails here as the decision to fill the gap: the worker writes down what the beginning probably was, plausibly, and it is reported.] | *A heavy Deep Blue wave; the reading jumps 15% in a week when somebody wrote what they could not stand behind.* **[24-36 Lament DMG [Lament]]** | When the gap is filled in instead of marked. |
-| { *The Field of Nothing* [**Ultimate**] } | "Everything that never grew does not stand up. In nine days of evacuation intake, eleven hundred files opened at the moment the facility met them, and the hollow went to a hand's depth — one hundred and fifty-seven millimetres — in a quarter with no storms at all." | [A needle moves on a dial in an empty stretch of the Desolate. Nobody sees it. That is the whole of the ultimate event.] | *Everyone in range takes Lament pressure for three turns of entering people as beginning at intake.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
+| Event | What the Unwitnessed does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Outline* [**Register**] } | Nothing is there. The outline shows only when rain or Han crosses it, and what the survey measures is the outline and the depth beneath it. | The outline is surveyed and the depth read from the logger only at recovery, seven days later. | The whole record is a series of one number with a date beside it, and the site is never read by standing on it. |
+| { *The Seven Days* [**Exposure**] } | The ache arrives at the desk, not at the site: a hollow exactly as deep as the fortnight's unwritten beginnings. | No interim reading and no visit; the logger is collected at the end of the week by somebody who did not leave it. | Ferrehan here is the longest single endurance cycle in the archive, and it is spent next to a working instrument rather than next to the hollow. |
+| { *The Refusal to Have Been* [**Refusal**] } | Nothing almost grew here, which is the distinction the briefing leads with: a thing that grew and failed has a first record, and this was never entered. The soil has refused four plantings since. | Nothing is planted and nothing is dug. Arriving inside the week voids it, and the voiding is entered without comment. | Arrive inside the week and the trace dies four seconds later. That is the whole of the effect, and it is why the watch stays away. |
+| { *The Gap Filled In* [**Overload**] } | The failure is the decision to fill the gap: a worker writes down what the beginning probably was, and it is always plausible and sometimes nearly right. | Any description offered is treated as the failure rather than the finding, and the report is entered as written rather than argued down. | In nine days of evacuation intake eleven hundred files opened at the moment the facility met them, and the hollow went to a hundred and fifty-seven millimetres in a quarter with no storms at all. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The confirmation here is the logged depth set against the previous recovery, never the outline. At 4 millimetres the hollow looks exactly as it does at 157, and six early reports describe a site that never changed across weeks in which the logger recorded a hand's depth of movement. Position and withdrawal are both settled before the cycle opens.
-2. **Clash:** There is no clash and no team present. The reading is the depth of the hollow below the surveyed ground plane, in millimetres, taken by an unattended dial logger on a fixed tripod and recovered after seven days; the deepest value in the week is the reading. Twenty-three at baseline, four at the floor, one hundred and fifty-seven at the ceiling.
-3. **Resolution:** The cycle ends the way the file's own rule ends it, in containment, retreat or management, or against the documented suppression condition: **Mark the absence; do not excavate or plant into it**.
+1. **What is confirmed:** the outline against the four-hundred-year survey, the depth at the previous recovery, and the date the logger was last changed.
+2. **What the watch does:** Viderehan works from the recovered log and Ferrehan stays away from the instrument for the full seven days. Nobody stands on the hollow, nothing is excavated, and nothing is planted into it.
+3. **How it closes:** the close is the file's documented condition: **Mark the absence; do not excavate or plant into it** — and a week that was disturbed is entered as void rather than as a reading.
 
 ### Consequences
 

@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Void |
 | Form | A massive Weight Han-crystal slab with no handle, lock, or hinges, found already sealed beneath the Alpha Tree. |
-| Gauge / Pressure | 60–80% / Void 29–64 |
+| Gauge / Pressure | 910/910; starts 60–80% / Void — no attack pattern; the inner-face temperature is the reading and a flat gauge is correct |
 | Observation | 3 — Advanced |
 | M.A.W. Set | The Closed Threshold |
 

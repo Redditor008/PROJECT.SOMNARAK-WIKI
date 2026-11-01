@@ -45,50 +45,36 @@
 - Operatives with unaddressed parental grief suffer rapid Composure erosion near it and are excluded from the rotation by screening, not by self-report.
 - Recovery after discharge is separately authorized and is not an outcome of routine work.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — stationary artifact |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types as formal ratings. Working protection is screening and restraint: operatives with unaddressed parental grief are excluded by screening rather than self-report, nobody reads the flap script or writes on the wax, and the seal is broken only on an emergency authorization. |
-| **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 310/310 |
-| **Han Pressure [ATK]** | 6–14 per hit · Lament |
-| **Coherence modifier** | I — minimal complexity |
-| **Potency modifier** | α — low pressure baseline |
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and its own attack row says the pulse is not a strike: the envelope has nothing to hit with. Everything this file records as harm is Composure spent standing near paper, and every graded handling instruction in it is about not spending the seal.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Support / Consumable artifact |
-| **Coherence** | Residue (I) — Unread, preserved plea |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A soot-darkened pulp envelope with an indigo crystal wax seal, lying in Archive Vault 12. The paper trembles faintly, the wax weeps blue condensation and the frost pattern spreads across the seal; none of that moves the envelope off its plinth. |
+| **Perceptible to** | The cold first, and the blue condensation on the wax; then unwritten messages arriving uninvited, and the low acoustic hum the edges give off when the envelope is handled. |
+| **Handling** | Screened hands, an unbroken seal, and the flap never lifted. Nobody reads the brush script on the flap and nobody writes over the wax, which brings instantaneous frostbite; a dropped or jarred envelope stops all handling until the wax is verified against the vault sheet. |
+| **Activation threshold** | Single-use discharge trigger — consumed upon activation |
+| **Sorrow Gauge [HP]** | 310/310 |
 | **Starting Sorrow Gauge** | 20–35% |
-| **Difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-04, Archive Storage Vault |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan monitors frost expansion across the seal without applying pressure and holds; Ferrehan tests whether a worker can stand near an unread farewell without weeping, and lowers the gauge. |
+| **Location** | SECTOR-A-04, Archive Vault 12 — contained |
 | **Resolution Condition** | The letter is safely archived or unsealed for its single-use emergency benediction |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| {{ *The Indigo Seal* [**Debuff**] }} | "The wax softens slightly, weeping blue condensation." | [The envelope trembles faintly; observers feel their own unvoiced remorse before they notice the chill.] | *The operative suffers -5 Composure. Personnel carrying an unaddressed parental grief are stood down from this rotation by screening, not by self-report.* | When an operative carrying an unvoiced apology enters the chamber. |
-| {{ *Faded Address* [**Debuff**] }} | "The ink shifts beneath the wax, spelling out forgotten names." | [The address line blurs under a reading eye; unwritten messages intrude, and the paper accepts no new graphite or ink.] | *The operator loses 5 Composure, and writing over the wax brings instantaneous frostbite. Log creases, wax and frost without lifting the flap or reading the script.* | When an operator reads, or tries to read or write over, the faded brush script on the flap. |
-| {{ *Trembling Seam* [**Attack**] }} | "The paper edges hum at a low acoustic frequency." | [Rough handling draws an acoustic pulse from the envelope, not a strike: it has nothing to hit with.] | *Nearby personnel lose 5 Composure to the pulse. Set it down, verify the seal against the vault sheet, and record who moved it and why.* | When the envelope is handled roughly or moved without authorization. |
-| {{ *Parchment Sigh* [**Attack**] }} | "A breath of stale, century-old air escapes from the fold." | [A jar threatens the one thing that must not happen accidentally: micro-fractures in skin are recorded, and a cracked seal is a wasted discharge.] | *Stop all handling. Verify wax integrity against the vault sheet, log the event, and treat any seal damage as a countdown on the relic's only use.* | When the envelope is dropped or jarred. |
-| {{ *Unread Finality* [**Ultimate**] }} | "The blue wax cracks prematurely under immense psychic strain." | [The wax threatens to go on its own, which is how this relic is lost: spent on an empty vault instead of a panicking squad.] | *The lead must choose at once: spend it deliberately under emergency authorization (Panic cured, +15 Composure in Range Band 3, letter consumed into grey ash) or clear the vault and re-separate the acoustic/kinetic neighbours by three bulkheads. If it vents unchosen, all personnel present take 10 Lament damage and the benediction is wasted.* | When the Sorrow Gauge reaches the ≥70% activation threshold under vibration or acoustic resonance from a neighbouring holding. |
+| Event | What the Letter does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Seal* [**Register**] } | The wax weeps blue condensation, the frost pattern spreads across it, and the envelope trembles; observers feel their own unvoiced remorse before they notice the chill. | Creases, wax, frost and temperature are logged without lifting the flap or reading the script, and the seal is verified against the vault sheet. | Personnel carrying unaddressed parental grief are stood down by screening rather than self-report, which is the one reading this file takes from the person rather than the paper. |
+| { *The Faded Address* [**Exposure**] } | The address line blurs under a reading eye, unwritten messages intrude, and the paper accepts no new graphite or ink. | Nobody reads the brush script on the flap and nobody writes over the wax; the shift is spent on frost, creases and the count, which is clerical work. | The Composure here is spent by reading rather than by proximity, so the instruction is about what the eyes do. |
+| { *The Acoustic Pulse* [**Refusal**] } | Rough handling draws a low pulse from the envelope, and the file says plainly that it is not a strike and has nothing to hit with. | Set it down, verify the seal, and record who moved it and why. Nothing is answered with force and nothing is gripped. | The refusal is the empty hand: everything this holding does to a person is spent out of their own composure and not out of the paper. |
+| { *The Unread Finality* [**Overload**] } | Under vibration or acoustic resonance from a neighbouring holding, the blue wax cracks prematurely — which is how this relic is lost, spent on an empty vault instead of a panicking squad. | The lead chooses at once: spend it deliberately under emergency authorisation, or clear the vault and re-separate the acoustic and kinetic neighbours by three bulkheads. | Failure here is not an explosion but waste. A prematurely fractured seal spends the only discharge on whoever happens to be standing in the vault. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The single-use A-Relic construct is identified, the seal's integrity is verified against the vault sheet, and tactical need is judged before anything is moved. Nothing in Vault 12 is opened to find out what it says.
-2. **Clash:** The team conducts Viderehan and Ferrehan stasis checks only. Yield here is tallied off the vault's own checks rather than harvested live, and sector stability is monitored without moving the envelope.
-3. **Resolution:** The watch ends on the standard containment quotas, or the Relic is spent deliberately to answer an existential breach of the facility — and the file registers a suppression condition: **Step back and log the envelope in silence; break the seal only in an emergency**. The vault staff keep that clause without exception: the letter is read once, at the moment a squad's survival rests on it, and the moment is entered afterwards.
+1. **What is confirmed:** the wax integrity against the vault sheet, the frost pattern across the seal, and the temperature of the vault air, all read without lifting the flap.
+2. **What the watch does:** Viderehan watches the frost spread without applying pressure and Ferrehan stands near the unread farewell without weeping. Nobody reads the script, nobody writes over the wax, and a jar redates the whole countdown.
+3. **How it closes:** the close is the file's documented condition: **The letter is safely archived or unsealed for its single-use emergency benediction** — and if it vents unchosen, the benediction is wasted.
 
 ### Consequences
 
@@ -143,7 +129,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 ## Activation Behavior
 
 > **This Relic Benefits the Facility Once, as Emergency Squad Stabilization**
-> **Its Battlefield Effect is Restoration Only — Panic Cured, Composure Returned, Nothing Altered Beyond That**
+> **Its Field Effect is Restoration Only — Panic Cured, Composure Returned, Nothing Altered Beyond That**
 > **This Relic is Irrevocably Consumed upon Activation**
 ### Tool Use Profile — A-Relic
 
