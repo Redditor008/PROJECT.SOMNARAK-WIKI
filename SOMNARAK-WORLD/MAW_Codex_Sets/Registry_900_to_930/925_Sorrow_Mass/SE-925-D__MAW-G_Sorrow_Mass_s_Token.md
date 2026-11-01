@@ -32,12 +32,12 @@ Sorrow Mass's Token is the stigma record of the Sorrow Mass set — head-slot, b
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Mass Source-Trace: Stigma Record*
 
-The first Sorrow Mass's Token field bearer encountered this source response: Read the adjacent foundation gauges and keep the deflection survey unbroken; the settlement is legible in the survey, and nothing about the mass is legible from inside the sector. The stigma opens the immediate hazard only after the team attributed it to Sorrow Mass. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sorrow Mass's Token field bearer encountered this source response: Read the adjacent foundation gauges and keep the deflection survey unbroken; the settlement is legible in the survey, and nothing about the mass is legible from inside the sector. The stigma opens the immediate hazard only after the team attributed it to Sorrow Mass. A bearer put down a load and found the scales had not changed, and the Token’s binding is the weigh-in from that afternoon.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Sorrow Mass's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the addition applies to everything lifted, including what the bearer lifts to help.
 - Terminal state: Sorrow Mass's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-925 -->
@@ -46,7 +46,7 @@ The first Sorrow Mass's Token field bearer encountered this source response: Rea
 
 ## SET RELATIONSHIP
 
-Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a load that weighs the same coming down as it did going up.
 
 ---
 

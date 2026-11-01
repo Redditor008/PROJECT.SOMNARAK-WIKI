@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 91)
+
+`SE-924` Weighted Silence, `SE-925` Sorrow Mass, `SE-926` Sky of Borrowed Faces, `SE-927` Dreaming Plague, `SE-928` Lethe, `SE-929` Dead Air — **eighteen records, fifty-four sentences.** The two hardest sets in the wing are in this group, because their cost lines are written as procedure rather than as prose: Dead Air says the wielder *"begins estimating weights… and arrives at a figure in kilograms before deciding to"*, so its Edge is bound to a form filled in before anyone asked for the figure, and keeps its set only while the wielder throws a blow without a weight in their head. Lethe's Veil is worse — the cost line says the forgetting *reads as recovery* — so its resonance needs the wearer to name one thing they have forgotten, and its escalation is that the forgetting gets logged as treatment.
+
+**174 of 345 done. 171 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 90)
 
 `SE-918` Ninety Seconds, `SE-919` Passing Bell, `SE-920` Once Upon, `SE-921` Cracked Flesh, `SE-922` Door to Nowhere, `SE-923` Hatred Above — **eighteen records, fifty-four sentences.** The Passing Bell's Veil holds while the wearer's own name still sounds like it belongs to the living; the Door to Nowhere's Shield keeps resonance while the wearer still tries the door for somebody else; the Hatred Above's Token drops out the first time the bearer holds their ground through a contradiction.

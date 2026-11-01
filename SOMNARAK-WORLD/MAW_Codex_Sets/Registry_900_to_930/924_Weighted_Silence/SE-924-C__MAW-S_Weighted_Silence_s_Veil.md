@@ -33,12 +33,12 @@ Weighted Silence's Veil is the suit record of the Weighted Silence set — γ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Suit Record*
 
-The first Weighted Silence's Veil field bearer encountered this source response: Hold the marker line without speaking for the full watch; the pressure settles around a party that keeps silent at the edge. The suit interrupts the immediate hazard only after the team attributed it to Weighted Silence. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Weighted Silence's Veil field bearer encountered this source response: Hold the marker line without speaking for the full watch; the pressure settles around a party that keeps silent at the edge. The suit interrupts the immediate hazard only after the team attributed it to Weighted Silence. A wearer came out of the radius with their own account intact and nothing of anybody else’s, and the Veil’s binding is the debrief that recorded one name.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Weighted Silence's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the cowl stops holding figures as well as notes, and the wearer can only carry what they have said out loud in the room.
 - Terminal state: Weighted Silence's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-924 -->
@@ -47,7 +47,7 @@ The first Weighted Silence's Veil field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Weighted Silence — Witnessed Form*, Weighted Silence's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Weighted Silence — Witnessed Form*, Weighted Silence's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still bring out one thing for somebody else; the first debrief that carries only them, the Veil is out.
 
 ---
 

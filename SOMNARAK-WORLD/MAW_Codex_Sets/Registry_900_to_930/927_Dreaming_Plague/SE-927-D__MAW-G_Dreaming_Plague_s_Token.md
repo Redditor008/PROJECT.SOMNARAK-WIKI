@@ -32,12 +32,12 @@ Dreaming Plague's Token is the stigma record of the Dreaming Plague set — head
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Stigma Record*
 
-The first Dreaming Plague's Token field bearer encountered this source response: Read the waking time on the clock; the mean is four hours eleven minutes, and the time of waking is the only figure the plague has ever given up. The stigma witnesses the immediate hazard only after the team attributed it to Dreaming Plague. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dreaming Plague's Token field bearer encountered this source response: Read the waking time on the clock; the mean is four hours eleven minutes, and the time of waking is the only figure the plague has ever given up. The stigma witnesses the immediate hazard only after the team attributed it to Dreaming Plague. A bearer walked the cordon on their own word before the cold reached it, and the Token’s binding is the patrol sheet signed from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dreaming Plague's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the checking arrives before the cold every time, and the cordon moves on the bearer’s word with nothing behind it.
 - Terminal state: Dreaming Plague's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-927 -->
@@ -46,7 +46,7 @@ The first Dreaming Plague's Token field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a night the bearer sleeps through the cold.
 
 ---
 

@@ -33,12 +33,12 @@ Dead Air's Veil is the suit record of the Dead Air set — γ-grade, Weight-alig
 
 ## ITEM-SPECIFIC HISTORY — *The Dead Air Source-Trace: Suit Record*
 
-The first Dead Air's Veil field bearer encountered this source response: Hold the corridor for the full cycle without opening a room to check it; the pressure settles around a party that leaves the doors as it found them. The suit contains the immediate hazard only after the team attributed it to Dead Air. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dead Air's Veil field bearer encountered this source response: Hold the corridor for the full cycle without opening a room to check it; the pressure settles around a party that leaves the doors as it found them. The suit contains the immediate hazard only after the team attributed it to Dead Air. A wearer’s own account came back thinner every watch while the coat got heavier, and the Veil’s binding is the four watch reports with less in each.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dead Air's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the coat takes the wearer’s account faster than the wearer can give it, and the last report is a signature and a total.
 - Terminal state: Dead Air's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-929 -->
@@ -47,7 +47,7 @@ The first Dead Air's Veil field bearer encountered this source response: Hold th
 
 ## SET RELATIONSHIP
 
-Within *Dead Air — Witnessed Form*, Dead Air's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dead Air — Witnessed Form*, Dead Air's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still say what happened in their own watch; the first report that cannot, the Veil is out.
 
 ---
 

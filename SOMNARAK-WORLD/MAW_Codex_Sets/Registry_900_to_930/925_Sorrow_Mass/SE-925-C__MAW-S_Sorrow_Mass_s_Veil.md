@@ -33,12 +33,12 @@ Sorrow Mass's Veil is the suit record of the Sorrow Mass set — ω-grade, Weigh
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Mass Source-Trace: Suit Record*
 
-The first Sorrow Mass's Veil field bearer encountered this source response: Keep the survey line unbroken for the full cycle; the pressure settles around a party that holds the instruments steady, and the mass does not notice either way. The suit uncouples the immediate hazard only after the team attributed it to Sorrow Mass. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sorrow Mass's Veil field bearer encountered this source response: Keep the survey line unbroken for the full cycle; the pressure settles around a party that holds the instruments steady, and the mass does not notice either way. The suit uncouples the immediate hazard only after the team attributed it to Sorrow Mass. A wearer was pinned under a fall and could not be got out by four people with bars, and the Veil’s binding is the recovery log from that collapse.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Sorrow Mass's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the impossibility reaches the wearer’s own hands, and they cannot lift what they used to carry.
 - Terminal state: Sorrow Mass's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-925 -->
@@ -47,7 +47,7 @@ The first Sorrow Mass's Veil field bearer encountered this source response: Keep
 
 ## SET RELATIONSHIP
 
-Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be moved by somebody else; the first recovery that fails to shift them, the Veil is out.
 
 ---
 

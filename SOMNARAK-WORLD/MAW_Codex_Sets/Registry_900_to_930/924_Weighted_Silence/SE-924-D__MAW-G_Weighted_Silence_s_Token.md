@@ -32,12 +32,12 @@ Weighted Silence's Token is the stigma record of the Weighted Silence set — he
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Stigma Record*
 
-The first Weighted Silence's Token field bearer encountered this source response: Read the radius against its markers to half a metre; the boundary is the whole of what the watch returns, and it is taken at the markers and nowhere else. The stigma marks the immediate hazard only after the team attributed it to Weighted Silence. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Weighted Silence's Token field bearer encountered this source response: Read the radius against its markers to half a metre; the boundary is the whole of what the watch returns, and it is taken at the markers and nowhere else. The stigma marks the immediate hazard only after the team attributed it to Weighted Silence. A bearer reported the radius at the figure the survey had already written down and nobody walked out to check it, and the Token’s binding is that sheet.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Weighted Silence's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the expected figure arrives before the reading, and the bearer is sent out to confirm what the form states.
 - Terminal state: Weighted Silence's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-924 -->
@@ -46,7 +46,7 @@ The first Weighted Silence's Token field bearer encountered this source response
 
 ## SET RELATIONSHIP
 
-Within *Weighted Silence — Witnessed Form*, Weighted Silence's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Weighted Silence — Witnessed Form*, Weighted Silence's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a reading its bearer did not expect.
 
 ---
 

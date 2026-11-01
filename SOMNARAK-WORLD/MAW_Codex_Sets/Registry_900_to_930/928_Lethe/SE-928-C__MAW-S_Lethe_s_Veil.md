@@ -33,12 +33,12 @@ Lethe's Veil is the suit record of the Lethe set — γ-grade, Void-aligned, res
 
 ## ITEM-SPECIFIC HISTORY — *The Lethe Source-Trace: Suit Record*
 
-The first Lethe's Veil field bearer encountered this source response: Complete a full cycle at the marked stations without shortening or extending it; the volume thins around a party that keeps the interval, and the interval is the endurance. The suit opens the immediate hazard only after the team attributed it to Lethe. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Lethe's Veil field bearer encountered this source response: Complete a full cycle at the marked stations without shortening or extending it; the volume thins around a party that keeps the interval, and the interval is the endurance. The suit opens the immediate hazard only after the team attributed it to Lethe. A wearer reported recovery and could not account for the calm in it, and the Veil’s binding is the clearance form from that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Lethe's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the forgetting is logged as treatment, and the wearer is returned to duty for having lost the reason they were off it.
 - Terminal state: Lethe's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-928 -->
@@ -47,7 +47,7 @@ The first Lethe's Veil field bearer encountered this source response: Complete a
 
 ## SET RELATIONSHIP
 
-Within *Lethe — Witnessed Form*, Lethe's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Lethe — Witnessed Form*, Lethe's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can name one thing they have forgotten; the first calm they cannot account for takes the Veil out.
 
 ---
 

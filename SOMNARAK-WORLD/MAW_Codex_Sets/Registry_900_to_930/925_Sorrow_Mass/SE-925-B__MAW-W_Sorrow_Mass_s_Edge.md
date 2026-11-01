@@ -33,12 +33,12 @@ Sorrow Mass's Edge is the weapon record of the Sorrow Mass set — ω-grade, the
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Mass Source-Trace: Weapon Record*
 
-The first Sorrow Mass's Edge field bearer encountered this source response: N/A The weapon severs the immediate hazard only after the team attributed it to Sorrow Mass. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sorrow Mass's Edge field bearer encountered this source response: N/A The weapon severs the immediate hazard only after the team attributed it to Sorrow Mass. A wielder walked as though the floor owed them something and could not put a foot down flat, and the Edge’s binding is the gait recorded at that muster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Sorrow Mass's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the fraction beneath the wielder grows without a blow to account for it, and the floor reads as carrying something.
 - Terminal state: Sorrow Mass's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-925 -->
@@ -47,7 +47,7 @@ The first Sorrow Mass's Edge field bearer encountered this source response: N/A 
 
 ## SET RELATIONSHIP
 
-Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which the wielder’s weight is their own.
 
 ---
 

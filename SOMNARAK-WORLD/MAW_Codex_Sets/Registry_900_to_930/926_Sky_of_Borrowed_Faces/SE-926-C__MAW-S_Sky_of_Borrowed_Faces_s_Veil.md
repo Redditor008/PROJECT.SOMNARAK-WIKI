@@ -33,12 +33,12 @@ Sky of Borrowed Faces's Veil is the suit record of its set — γ-grade, Lament-
 
 ## ITEM-SPECIFIC HISTORY — *The Sky of Borrowed Faces Source-Trace: Suit Record*
 
-The first Sky of Borrowed Faces's Veil field bearer encountered this source response: Hold the perimeter for the full cycle and stay at the count; the pressure settles around a party that keeps to the tally and nothing else. The suit stays the immediate hazard only after the team attributed it to Sky of Borrowed Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sky of Borrowed Faces's Veil field bearer encountered this source response: Hold the perimeter for the full cycle and stay at the count; the pressure settles around a party that keeps to the tally and nothing else. The suit stays the immediate hazard only after the team attributed it to Sky of Borrowed Faces. A wearer was recognised by every person in a ward and known by none of them, and the Veil’s binding is the visitor sheet from that evening.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Sky of Borrowed Faces's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the corrections stop, and the wearer answers to names that were never theirs without breaking stride.
 - Terminal state: Sky of Borrowed Faces's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-926 -->
@@ -47,7 +47,7 @@ The first Sky of Borrowed Faces's Veil field bearer encountered this source resp
 
 ## SET RELATIONSHIP
 
-Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still corrects one person; the first correction they let stand, the Veil is out.
 
 ---
 

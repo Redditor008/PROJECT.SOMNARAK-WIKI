@@ -32,12 +32,12 @@ Sky of Borrowed Faces's Token is the stigma record of its set — head-slot, bes
 
 ## ITEM-SPECIFIC HISTORY — *The Sky of Borrowed Faces Source-Trace: Stigma Record*
 
-The first Sky of Borrowed Faces's Token field bearer encountered this source response: Count the faces at the perimeter and take the band as it opens; what the sky is borrowing is legible in the count, and whose it was is not. The stigma contains the immediate hazard only after the team attributed it to Sky of Borrowed Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sky of Borrowed Faces's Token field bearer encountered this source response: Count the faces at the perimeter and take the band as it opens; what the sky is borrowing is legible in the count, and whose it was is not. The stigma contains the immediate hazard only after the team attributed it to Sky of Borrowed Faces. A bearer woke having mourned as somebody else in a face they were wearing, and the Token’s binding is the dream record from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Sky of Borrowed Faces's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the grief arrives with a household in it the bearer can describe and has never visited.
 - Terminal state: Sky of Borrowed Faces's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-926 -->
@@ -46,7 +46,7 @@ The first Sky of Borrowed Faces's Token field bearer encountered this source res
 
 ## SET RELATIONSHIP
 
-Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a night the bearer dreams in their own face.
 
 ---
 

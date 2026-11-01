@@ -32,12 +32,12 @@ Dead Air's Token is the stigma record of the Dead Air set — head-slot, bestowe
 
 ## ITEM-SPECIFIC HISTORY — *The Dead Air Source-Trace: Stigma Record*
 
-The first Dead Air's Token field bearer encountered this source response: Walk the rooms and log each one as it empties; the hazard is a fixed pressure that spreads, and the room count is the only instrument it has ever moved. The stigma discharges the immediate hazard only after the team attributed it to Dead Air. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dead Air's Token field bearer encountered this source response: Walk the rooms and log each one as it empties; the hazard is a fixed pressure that spreads, and the room count is the only instrument it has ever moved. The stigma discharges the immediate hazard only after the team attributed it to Dead Air. A bearer timed a watch by a cold they could not report in the room and had the timing confirmed afterwards, and the Token’s binding is the note made outside the door.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dead Air's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the timing becomes the record, and the watch is closed on a cold nobody else registered.
 - Terminal state: Dead Air's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-929 -->
@@ -46,7 +46,7 @@ The first Dead Air's Token field bearer encountered this source response: Walk t
 
 ## SET RELATIONSHIP
 
-Within *Dead Air — Witnessed Form*, Dead Air's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dead Air — Witnessed Form*, Dead Air's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer says the quarter-hour out loud in the room it happened in.
 
 ---
 

@@ -33,12 +33,12 @@ Sky of Borrowed Faces's Edge is the weapon record of its set — γ-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Sky of Borrowed Faces Source-Trace: Weapon Record*
 
-The first Sky of Borrowed Faces's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Sky of Borrowed Faces. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Sky of Borrowed Faces's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Sky of Borrowed Faces. A wielder was greeted by the wrong name with complete confidence and did not correct it, and the Edge’s binding is the note the greeter made.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Sky of Borrowed Faces's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the expressions arrive ahead of the blows, and the wielder’s own face is the one nobody asks for.
 - Terminal state: Sky of Borrowed Faces's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-926 -->
@@ -47,7 +47,7 @@ The first Sky of Borrowed Faces's Edge field bearer encountered this source resp
 
 ## SET RELATIONSHIP
 
-Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown wearing an expression the wielder chose.
 
 ---
 

@@ -33,12 +33,12 @@ Lethe's Edge is the weapon record of the Lethe set — γ-grade, Void-aligned, s
 
 ## ITEM-SPECIFIC HISTORY — *The Lethe Source-Trace: Weapon Record*
 
-The first Lethe's Edge field bearer encountered this source response: N/A The weapon uncouples the immediate hazard only after the team attributed it to Lethe. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Lethe's Edge field bearer encountered this source response: N/A The weapon uncouples the immediate hazard only after the team attributed it to Lethe. A wielder was the only one in the room who could not say what had happened in it, and the Edge’s binding is the four accounts written around the gap in theirs.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Lethe's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the gap reaches the strike itself, and the wielder cannot say which target they have already hit.
 - Terminal state: Lethe's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-928 -->
@@ -47,7 +47,7 @@ The first Lethe's Edge field bearer encountered this source response: N/A The we
 
 ## SET RELATIONSHIP
 
-Within *Lethe — Witnessed Form*, Lethe's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Lethe — Witnessed Form*, Lethe's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow its wielder can describe afterwards.
 
 ---
 

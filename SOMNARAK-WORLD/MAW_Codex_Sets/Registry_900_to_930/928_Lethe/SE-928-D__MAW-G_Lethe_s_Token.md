@@ -32,12 +32,12 @@ Lethe's Token is the stigma record of the Lethe set — head-slot, bestowed at a
 
 ## ITEM-SPECIFIC HISTORY — *The Lethe Source-Trace: Stigma Record*
 
-The first Lethe's Token field bearer encountered this source response: Send the operator through to be read inside and set the nominated reader outside to score; the stage boundaries fall at reproducible dwell times, and the two jobs are entered before anybody goes in. The stigma stabilizes the immediate hazard only after the team attributed it to Lethe. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Lethe's Token field bearer encountered this source response: Send the operator through to be read inside and set the nominated reader outside to score; the stage boundaries fall at reproducible dwell times, and the two jobs are entered before anybody goes in. The stigma stabilizes the immediate hazard only after the team attributed it to Lethe. A bearer used a name correctly and could not recall why it had been in their mouth, and the Token’s binding is the note made when they were asked.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Lethe's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the loosening reaches obligations, and the bearer owes nobody anything they can name.
 - Terminal state: Lethe's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-928 -->
@@ -46,7 +46,7 @@ The first Lethe's Token field bearer encountered this source response: Send the 
 
 ## SET RELATIONSHIP
 
-Within *Lethe — Witnessed Form*, Lethe's Token performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Lethe — Witnessed Form*, Lethe's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer remembers why they were holding a name.
 
 ---
 

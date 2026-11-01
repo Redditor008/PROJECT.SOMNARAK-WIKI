@@ -33,12 +33,12 @@ Dreaming Plague's Edge is the weapon record of the Dreaming Plague set — δ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Weapon Record*
 
-The first Dreaming Plague's Edge field bearer encountered this source response: N/A The weapon interrupts the immediate hazard only after the team attributed it to Dreaming Plague. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dreaming Plague's Edge field bearer encountered this source response: N/A The weapon interrupts the immediate hazard only after the team attributed it to Dreaming Plague. A wielder woke on the cordon side of the line in their own bed and could not account for the walk, and the Edge’s binding is the exposure logged that morning.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dreaming Plague's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the district’s dream starts arriving without a use to account for it, and the wielder’s own nights thin out.
 - Terminal state: Dreaming Plague's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-927 -->
@@ -47,7 +47,7 @@ The first Dreaming Plague's Edge field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a night the wielder dreams of the room they are sleeping in.
 
 ---
 

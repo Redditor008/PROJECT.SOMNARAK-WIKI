@@ -33,12 +33,12 @@ Dreaming Plague's Veil is the suit record of the Dreaming Plague set — δ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Suit Record*
 
-The first Dreaming Plague's Veil field bearer encountered this source response: Keep the watch through the sleep hours without waking the sleepers; the pressure settles toward the mean, and the night is the endurance. The suit marks the immediate hazard only after the team attributed it to Dreaming Plague. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Dreaming Plague's Veil field bearer encountered this source response: Keep the watch through the sleep hours without waking the sleepers; the pressure settles toward the mean, and the night is the endurance. The suit marks the immediate hazard only after the team attributed it to Dreaming Plague. A wearer stood over three people they could not lift and had to call for a stretcher party, and the Veil’s binding is the call log from that ward.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Dreaming Plague's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the inability spreads to the wearer’s own gear, and they leave the kit where it fell.
 - Terminal state: Dreaming Plague's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-927 -->
@@ -47,7 +47,7 @@ The first Dreaming Plague's Veil field bearer encountered this source response: 
 
 ## SET RELATIONSHIP
 
-Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still lift one thing that matters; the first watch they cannot, the Veil is out.
 
 ---
 

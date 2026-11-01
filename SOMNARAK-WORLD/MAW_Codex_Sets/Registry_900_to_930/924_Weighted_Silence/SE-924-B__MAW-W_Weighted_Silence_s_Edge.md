@@ -33,12 +33,12 @@ Weighted Silence's Edge is the weapon record of the Weighted Silence set — γ-
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Weapon Record*
 
-The first Weighted Silence's Edge field bearer encountered this source response: N/A The weapon isolates the immediate hazard only after the team attributed it to Weighted Silence. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Weighted Silence's Edge field bearer encountered this source response: N/A The weapon isolates the immediate hazard only after the team attributed it to Weighted Silence. A wielder kept talking into a room that had already answered and did not notice the answer, and the Edge’s binding is the transcript with both sides in it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Weighted Silence's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the talking continues into corridors with somebody in them, and the wielder repeats the check to whoever is listening.
 - Terminal state: Weighted Silence's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-924 -->
@@ -47,7 +47,7 @@ The first Weighted Silence's Edge field bearer encountered this source response:
 
 ## SET RELATIONSHIP
 
-Within *Weighted Silence — Witnessed Form*, Weighted Silence's Edge performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Weighted Silence — Witnessed Form*, Weighted Silence's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown after the answer, not before it.
 
 ---
 
