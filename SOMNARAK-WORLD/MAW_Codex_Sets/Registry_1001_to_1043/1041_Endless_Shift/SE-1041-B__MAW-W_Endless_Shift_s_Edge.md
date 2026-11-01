@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Weight 11–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences chronic fatigue in the dominant hand with each use. Continued use makes Endless Shift's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge keeps the shift running: each blow adds an hour the wielder will work before they sleep. Wielded long, their dominant hand is worn through and the shift has not ended.
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Weapon Record*
 

@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Heirloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The Fang strikes with a grievance that has been in the family longer than the wielder: each blow reopens an old injury at its original depth. Wielded long, the wielder's wounds are older than they are.
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Weapon Record*
 

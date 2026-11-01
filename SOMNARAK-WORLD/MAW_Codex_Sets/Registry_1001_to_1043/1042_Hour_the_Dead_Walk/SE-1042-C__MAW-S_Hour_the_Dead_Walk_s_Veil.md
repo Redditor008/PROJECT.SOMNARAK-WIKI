@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries Hour the Dead Walk's grief into every quiet moment; small joys feel distant until the suit is removed. Continued use makes Hour the Dead Walk's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil holds the wearer inside that hour: while worn, the dead are company and the living are the ones who are absent. Worn long, they keep a seat for somebody and cannot say who.
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Suit Record*
 

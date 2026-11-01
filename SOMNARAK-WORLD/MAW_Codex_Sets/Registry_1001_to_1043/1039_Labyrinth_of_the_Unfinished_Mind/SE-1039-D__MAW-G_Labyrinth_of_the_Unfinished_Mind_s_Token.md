@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer occasionally loses a familiar word or face for a few seconds after invoking the stigma. Continued use makes Labyrinth of the Unfinished Mind's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token lets a familiar word or face go for a few seconds after each invocation and returns it without the route it was found on. Carried long, the bearer knows everyone and cannot retrace a single conversation.
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Stigma Record*
 

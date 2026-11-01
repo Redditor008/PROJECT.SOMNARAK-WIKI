@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue. Continued use makes The Sorrow Seed's source sorrow feel autobiographical.
+**Operational / binding cost:** The Mantle makes the wearer into soil: while worn, everything set down in their presence takes root in them. Worn long, they are carrying a season they did not plant.
 
 ## ITEM-SPECIFIC HISTORY — *The The Sorrow Seed Source-Trace: Suit Record*
 

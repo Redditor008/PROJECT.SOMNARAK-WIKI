@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The user feels every place they have left behind. Continued use makes Wanderer Without a Destination's source sorrow feel autobiographical.
+**Operational / binding cost:** The user feels every place they have left behind, and the Lantern keeps the count: after a season the bearer walks in the direction of whichever one hurts most.
 
 ## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Stigma Record*
 

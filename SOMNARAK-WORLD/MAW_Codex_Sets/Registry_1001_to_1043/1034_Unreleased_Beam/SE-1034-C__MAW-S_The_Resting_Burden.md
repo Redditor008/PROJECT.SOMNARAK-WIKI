@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer cannot recognize when responsibility has ended. Continued use makes Unreleased Beam's source sorrow feel autobiographical.
+**Operational / binding cost:** The Burden lets the wearer hold anything and never tells them when to stop: the moment responsibility ends is the one thing it removes. Worn long, they are still standing under a wall that was rebuilt years ago.
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Suit Record*
 

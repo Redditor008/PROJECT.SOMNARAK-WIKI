@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 
-**Operational / binding cost:** The user loses a present detail from their own home. Continued use makes Dreaming Ruin's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shard reconstructs a room from memory and takes the present detail as payment: each use removes one thing from the bearer's own home — a stair, a window, the colour of a door. Used long, the bearer can rebuild any room and not their own.
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Ruin Source-Trace: Stigma Record*
 

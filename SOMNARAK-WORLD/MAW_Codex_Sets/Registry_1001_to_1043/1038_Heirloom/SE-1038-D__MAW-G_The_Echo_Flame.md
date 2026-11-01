@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The lantern burns away one of the user's own repeated memories. Continued use makes Heirloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The lantern burns away one of the user's own repeated memories for every echo it silences. Kept lit, the bearer's repetitions go first, and with them the things they did every day.
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Stigma Record*
 

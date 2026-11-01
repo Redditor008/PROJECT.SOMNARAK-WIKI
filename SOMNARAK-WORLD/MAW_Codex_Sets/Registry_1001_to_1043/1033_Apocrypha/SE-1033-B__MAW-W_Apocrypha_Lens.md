@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder loses small, nameless memories with each use. Continued use makes Apocrypha's source sorrow feel autobiographical.
+**Operational / binding cost:** The Lens cuts at the version a person gives of themselves: each strike takes a small, nameless detail out of the wielder's own account. Wielded long, they are the only one who cannot say what they believe.
 
 ## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Weapon Record*
 

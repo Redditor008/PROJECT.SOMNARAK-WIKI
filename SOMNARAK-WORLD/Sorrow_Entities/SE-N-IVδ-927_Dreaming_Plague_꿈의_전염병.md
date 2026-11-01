@@ -198,7 +198,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 **Bearer cost:** The wearer becomes difficult to remember, even to themselves, while the protection is worn.
 
-**Veil custody:** The Suit’s individual record also warns that the source sorrow can begin to feel autobiographical. Record that identification separately from the wearer becoming hard to remember; neither makes the wearer a reliable substitute for the written custody chain. The entry requires attribution review before maintenance and witnessed relinquishment without a refund of its cost. Those controls belong at the staging-point return already specified here, not at a handover inside the cordon. The witness requirement supplies no exception to the no-touch rule.
+**Veil custody:** The Suit’s individual record also warns that the wearer cannot be lifted and finds they cannot lift either. Record that identification separately from the wearer becoming hard to remember; neither makes the wearer a reliable substitute for the written custody chain. The entry requires attribution review before maintenance and witnessed relinquishment without a refund of its cost. Those controls belong at the staging-point return already specified here, not at a handover inside the cordon. The witness requirement supplies no exception to the no-touch rule.
 
 ### M.A.W. Stigma — Dreaming Plague's Token
 

@@ -8,6 +8,19 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The last forty-one item costs, and the tail is gone (batch 55)
+
+`1029` through `1042`: the Kind Healer's Shadow, the First Tear, the Sorrow Seed, Mourner's Bloom, Apocrypha, Unreleased Beam, Keen, Dreaming Ruin, Well Within, Heirloom, the Labyrinth of the Unfinished Mind, the Wanderer Without a Destination, Endless Shift, and the Hour the Dead Walk. Forty-one records, and with them the last of the shared tail.
+
+**The sentence is now in zero item records.** It was on all 345 when this sequence began and it is on none now; the only surviving mentions are the places that record its retirement.
+
+Closing the tail exposed a second layer that had been invisible while both copies were identical: six dossiers described their set's costs by quoting the old wording — the Well of Unfinished Words twice in its own `**Bearer cost:**` lines and once in its working interpretation, the Grasp set's binding note, the Miasma's attribution note, the Labyrinth of Stolen Faces' veil review, the Dreaming Plague's custody note, and the Endless Shift's equipment note. Each now describes what its pieces actually charge, so the dossier and the codex agree.
+
+The guides are updated to match: the retired-family table in `CONTENT_AND_VISUAL_STANDARDS` marks the cost entry cleared at 0 and the epigraph as the last of the pair; `SE_QUOTE_GUIDE` records that the cost tail beside its open epigraph family has closed.
+
+**Checks:** `check_links` 0 broken · `seam_lint` 100.0 % · `text_box` PASS.
+
+
 ## The oldest range closes (batch 54)
 
 `918` through `930` — Ninety Seconds, Passing Bell, Once Upon, Cracked Flesh, Door to Nowhere, Sorrow Mass, Sky of Borrowed Faces, Lethe, Once Told. Twenty-seven records. `Registry_900_to_930` is now clear of the shared tail, and with it the last range that restated the old cost inside the Appearance paragraph.

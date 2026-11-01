@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer moves as though carrying an invisible load that grows heavier near unresolved debt. Continued use makes Endless Shift's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token adds the bearer's unfinished work to their shoulders and takes nothing off when a task is completed. Carried long, they are bent under a list that only ever grows.
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Stigma Record*
 

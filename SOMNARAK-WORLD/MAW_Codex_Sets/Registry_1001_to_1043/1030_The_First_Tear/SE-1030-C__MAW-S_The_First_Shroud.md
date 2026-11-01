@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes The First Tear's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud takes the first joy first: worn, the wearer loses the small pleasures before the large ones and does not notice the order. Worn long, they are composed in a way that frightens people who knew them.
 
 ## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Suit Record*
 

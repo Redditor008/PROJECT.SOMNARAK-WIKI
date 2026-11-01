@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Mourner's Bloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The Requiem opens what it strikes the way a bloom opens: each blow hands the target a grief that will not close and takes the wielder's own closing with it. Wielded long, the wielder cannot finish mourning anything.
 
 ## ITEM-SPECIFIC HISTORY — *The Mourner s Bloom Source-Trace: Weapon Record*
 

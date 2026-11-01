@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels progressively heavier; prolonged use ages them slightly. Continued use makes Unreleased Beam's source sorrow feel autobiographical.
+**Operational / binding cost:** The Maul rests its weight on the wielder between swings: each blow returns to them heavier than it left. Wielded long, they can lift less than they could and swing it further.
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Weapon Record*
 

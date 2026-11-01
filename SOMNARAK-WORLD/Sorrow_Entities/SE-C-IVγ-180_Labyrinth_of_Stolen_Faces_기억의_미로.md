@@ -212,7 +212,7 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 
 **Bearer cost:** The wearer goes faintly absent to themselves and reports it as their own history beginning to sound like something they were told. Nobody has described this as frightening at the time; it is the debrief that turns it into a finding.
 
-**Veil review:** The Suit’s individual record warns about the opposite movement as well: the source sorrow begins to feel autobiographical. First-person ownership of the Maze’s event and a source response recurring outside contact are its recorded warning and escalation. Keep those entries distinct from the wearer’s own history sounding second-hand in debrief. Attribution review precedes maintenance; a named witness states title and event while the Veil is relinquished. Resistance does not suspend the outside counselor’s comparison against the wearer’s record.
+**Veil review:** The Suit’s individual record warns about the opposite movement as well: the wearer becomes hard to find inside their own mind and gets back only by following whoever is walking toward them. First-person ownership of the Maze’s event and a source response recurring outside contact are its recorded warning and escalation. Keep those entries distinct from the wearer’s own history sounding second-hand in debrief. Attribution review precedes maintenance; a named witness states title and event while the Veil is relinquished. Resistance does not suspend the outside counselor’s comparison against the wearer’s record.
 
 ### M.A.W. Stigma — The Maze Key
 

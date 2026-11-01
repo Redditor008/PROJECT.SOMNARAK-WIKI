@@ -210,7 +210,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Ability:** Lament damage to the mind rather than the body. The sceptre channels what the Well is holding — sentences that were never completed — and what it opens in a target is the need to say something they have not said.
 
-**Bearer cost:** The wielder carries the Well's unwept grief and may weep involuntarily, usually part-way through saying something else. Continued use makes the source sorrow feel autobiographical.
+**Bearer cost:** The wielder carries the Well's unwept grief and may weep involuntarily, usually part-way through saying something else; carried long, they no longer finish a thought of their own, only the interrupted ones.
 
 ### M.A.W. Suit — The Listening Shroud
 
@@ -230,7 +230,7 @@ The slow-drying cloth marks each session, while its protective role is condition
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies. The shroud is what allows a worker to stand at the coping for a full session and still be able to end it.
 
-**Bearer cost:** The wearer goes numb to small pleasures and may first notice that other people's good news no longer registers. Continued use makes the source sorrow feel autobiographical.
+**Bearer cost:** The wearer goes numb to small pleasures and may first notice that other people's good news no longer registers; carried long, they hear every unfinished sentence in the room and none of their own.
 
 ### M.A.W. Stigma — The Listening Vial
 
@@ -238,7 +238,7 @@ The slow-drying cloth marks each session, while its protective role is condition
 
 **Appearance:** a small vial of Lament Han-crystal, cool to the hand and faintly luminous; it grows cool near the source sorrow it records.
 
-When closed, it brings the preserved testimony to hearing; its cost is a replayed account, and continued use makes the Well's source sorrow feel autobiographical.
+When closed, it brings the preserved testimony to hearing; its cost is a replayed account, and the replayed account keeps the operator's own version from ever being finished.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -246,13 +246,13 @@ When closed, it brings the preserved testimony to hearing; its cost is a replaye
 
 **Ability:** Preserves one spoken testimony without interruption.
 
-**Bearer cost:** The wearer hears the testimony whenever the vial is closed. Continued use makes the source sorrow feel autobiographical.
+**Bearer cost:** The wearer hears the testimony whenever the vial is closed, and after enough closings they can no longer tell which account in the room is theirs.
 
 *No one manufactures the vial. It comes from the Well to a worker who carried a testimony through to its last word without once speaking across it; no worker who ended a session on the clock has ever been given one.*
 
 ### M.A.W. Use Notes
 
-The primary's working interpretation is that the set holds what was said and takes the operator's option of silence, not memory. The linked item records also specify distinct costs that must be tracked separately: the Weapon carries unwept grief and may cause involuntary weeping, the Shroud dulls small pleasures, and the Vial replays testimony when closed. Continued use of each piece makes the Well's source sorrow feel autobiographical.
+The primary's working interpretation is that the set holds what was said and takes the operator's option of silence, not memory. The linked item records also specify distinct costs that must be tracked separately: the Weapon interrupts the wielder's own sentence, the Shroud leaves the wearer hearing every unfinished sentence in the room and none of their own, and the Vial keeps the testimony from the bearer while they keep only the fact of being trusted with it.
 
 Side Codex A names the full-set resonance *Source Kept Distinct*: the Stigma identifies the source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates “Allow testimony to finish; do not drain the Well.” The set cannot heal the dispersal that formed the Well. Before use, the bearer names that event and accepts the limit; violating it reverses the item's benefit and raises the source Gauge. The first recorded corrosion sign is a first-person account of the event; a repeated source response outside contact is escalation, and the terminal state makes the bearer the manifestation's new site.
 

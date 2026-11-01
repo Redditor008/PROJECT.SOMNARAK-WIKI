@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 14–23 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Hour the Dead Walk's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge strikes in the hour the dead walk: each blow leaves the wielder hearing footsteps that keep pace with theirs and stop when they stop. Wielded long, they walk faster than they need to.
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Weapon Record*
 

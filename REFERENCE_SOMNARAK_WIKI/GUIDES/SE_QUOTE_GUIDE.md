@@ -118,4 +118,4 @@ That is a template artefact, not a quote. It survives because it is grammatical,
 
 A quote earns its place when it could only have come from this file: a line of the record's own testimony, a phrase from the event, a sentence in the voice of whoever keeps the ledger and signs it. The tests in this guide apply unchanged — no exact duplicate, inside the word band, register decided — and one more: **cover the item's name and read the line again.** If it still works for any of the other 344 pieces, it is not this piece's quote.
 
-Open family, recorded for the next pass: 345 records, one line.
+Open family, recorded for the next pass: 345 records, one line. (The cost tail beside it on the same 345 records has since been cleared item by item; this epigraph is now the last shared line in the set.)

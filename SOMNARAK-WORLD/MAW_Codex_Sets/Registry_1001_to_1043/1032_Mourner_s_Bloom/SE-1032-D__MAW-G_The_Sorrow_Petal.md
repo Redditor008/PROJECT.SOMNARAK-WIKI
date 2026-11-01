@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer cannot hide sadness. Continued use makes Mourner's Bloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer cannot hide sadness — it shows as beauty on them, and the showing is the price: every grief they would have kept private is now something people compliment.
 
 ## ITEM-SPECIFIC HISTORY — *The Mourner s Bloom Source-Trace: Stigma Record*
 

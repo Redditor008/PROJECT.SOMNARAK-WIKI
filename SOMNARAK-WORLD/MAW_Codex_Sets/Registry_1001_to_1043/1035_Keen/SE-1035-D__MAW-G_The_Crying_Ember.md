@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer hears grief even where no sound exists. Continued use makes Keen's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer hears grief even where no sound exists, and the hearing does not stop at the edge of the room: after a season they answer it in their sleep.
 
 ## ITEM-SPECIFIC HISTORY — *The Keen Source-Trace: Stigma Record*
 

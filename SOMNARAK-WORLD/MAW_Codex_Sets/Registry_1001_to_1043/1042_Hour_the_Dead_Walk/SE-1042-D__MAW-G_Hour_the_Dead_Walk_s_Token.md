@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 
-**Operational / binding cost:** The bearer dreams in tears drawn from Hour the Dead Walk's sorrow and wakes with another person's grief still present. Continued use makes Hour the Dead Walk's source sorrow feel autobiographical.
+**Operational / binding cost:** The Token gives the bearer grief that arrives at the hour and belongs to a person they have never met. Carried long, they wake at the same time every night already mourning.
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Stigma Record*
 

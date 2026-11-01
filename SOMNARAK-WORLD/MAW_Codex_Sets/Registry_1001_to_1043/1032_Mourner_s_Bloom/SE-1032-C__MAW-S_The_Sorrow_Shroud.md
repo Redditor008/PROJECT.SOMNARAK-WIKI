@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Mourner's Bloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud leaves the wearer's grief open to the air: worn, nothing can be put away, and the small ones are the first to go. Worn long, the wearer is beautiful and cannot stop being looked at.
 
 ## ITEM-SPECIFIC HISTORY — *The Mourner s Bloom Source-Trace: Suit Record*
 

@@ -24,7 +24,7 @@
 **Slot / Chance:** Neck / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer weeps in their sleep. Continued use makes The First Tear's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm gives the bearer the first grief as a keepsake: carried, they weep in their sleep on a schedule that is not theirs, and the first tear is always the one that wakes them.
 
 ## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Stigma Record*
 

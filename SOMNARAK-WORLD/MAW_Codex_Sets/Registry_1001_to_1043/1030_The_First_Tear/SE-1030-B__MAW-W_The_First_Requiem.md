@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 5–25 | 5 (Instant) | 5 (Room) | AoE / Center 100% → inner zone 70% → outer zone 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes The First Tear's source sorrow feel autobiographical.
+**Operational / binding cost:** The Requiem strikes with the first grief anyone ever shed: each blow moves the wielder's own tears into the target's account. Wielded long, the wielder is dry-eyed and everyone they have fought is weeping.
 
 ## ITEM-SPECIFIC HISTORY — *The The First Tear Source-Trace: Weapon Record*
 

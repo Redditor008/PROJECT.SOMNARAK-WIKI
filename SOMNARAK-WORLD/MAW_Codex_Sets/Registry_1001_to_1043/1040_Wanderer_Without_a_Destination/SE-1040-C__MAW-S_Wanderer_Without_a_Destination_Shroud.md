@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer becomes numb to minor joys. Continued use makes Wanderer Without a Destination's source sorrow feel autobiographical.
+**Operational / binding cost:** The Shroud takes the small joys at every stop and gives them back nowhere: worn, the wearer cannot settle long enough to notice. Worn long, they have been everywhere and liked none of it.
 
 ## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Suit Record*
 

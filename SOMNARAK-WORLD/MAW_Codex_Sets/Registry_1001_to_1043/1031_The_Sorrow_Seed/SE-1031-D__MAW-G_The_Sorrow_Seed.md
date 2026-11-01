@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** Uncontrolled growth if not tended. Continued use makes The Sorrow Seed's source sorrow feel autobiographical.
+**Operational / binding cost:** Uncontrolled growth if not tended, and it is tended by the bearer: each planting draws the season out of them, so a bearer who stops gardening stops ageing and stops being able to say what they are for.
 
 ## ITEM-SPECIFIC HISTORY — *The The Sorrow Seed Source-Trace: Stigma Record*
 

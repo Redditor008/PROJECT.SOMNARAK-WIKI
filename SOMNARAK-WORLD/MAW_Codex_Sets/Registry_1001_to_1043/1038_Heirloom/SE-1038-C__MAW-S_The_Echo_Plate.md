@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer's reflexes dull, as if armored by resentment. Continued use makes Heirloom's source sorrow feel autobiographical.
+**Operational / binding cost:** The Plate is a family grudge worn as armour: it stops the blow and leaves the wearer slow to forgive anything they have not been told about. Worn long, they inherit quarrels wholesale.
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Suit Record*
 

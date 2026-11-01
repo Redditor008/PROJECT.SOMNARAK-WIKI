@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Dreaming Ruin's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil shows the wearer the ruin under everything: worn, they are protected from Void and cannot stop seeing what the room will look like empty. Worn long, they are faintly absent from a place they have already left.
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Ruin Source-Trace: Suit Record*
 

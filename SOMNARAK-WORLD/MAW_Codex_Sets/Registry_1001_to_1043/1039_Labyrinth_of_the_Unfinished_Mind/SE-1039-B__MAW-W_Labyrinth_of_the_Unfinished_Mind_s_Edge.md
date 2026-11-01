@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Void 11–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder experiences a persistent low-grade headache with each use. Continued use makes Labyrinth of the Unfinished Mind's source sorrow feel autobiographical.
+**Operational / binding cost:** The Edge cuts the thought before it finishes: each strike leaves the wielder with a headache where an idea was going to be. Wielded long, they cannot hold an intention past the first corridor.
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Weapon Record*
 

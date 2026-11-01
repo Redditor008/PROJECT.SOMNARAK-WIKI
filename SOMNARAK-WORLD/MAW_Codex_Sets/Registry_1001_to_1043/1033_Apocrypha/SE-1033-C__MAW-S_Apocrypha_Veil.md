@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer feels faintly absent to themselves. Continued use makes Apocrypha's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil protects identity by removing the record of it: worn, the wearer is faintly absent to themselves and nobody can quote them back. Worn long, they have said everything they believe and no longer know that they did.
 
 ## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Suit Record*
 

@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping. Continued use makes Wanderer Without a Destination's source sorrow feel autobiographical.
+**Operational / binding cost:** The Requiem strikes with the grief of never arriving: each blow makes the wielder's destination further away. Wielded long, they are always almost there.
 
 ## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Weapon Record*
 

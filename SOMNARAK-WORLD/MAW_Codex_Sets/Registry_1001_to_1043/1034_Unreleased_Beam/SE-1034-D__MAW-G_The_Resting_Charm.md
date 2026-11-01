@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The bearer moves a little slower. Continued use makes Unreleased Beam's source sorrow feel autobiographical.
+**Operational / binding cost:** The Charm lends the bearer a beam's patience: they move at the pace of something that has not been released, and it is slower every season.
 
 ## ITEM-SPECIFIC HISTORY — *The Unreleased Beam Source-Trace: Stigma Record*
 

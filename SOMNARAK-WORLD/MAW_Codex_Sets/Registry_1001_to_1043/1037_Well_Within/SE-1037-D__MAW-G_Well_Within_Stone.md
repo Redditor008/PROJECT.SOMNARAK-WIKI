@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer hears anger in every silence. Continued use makes Well Within's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer hears anger in every silence, and the quiet ones are the loudest: after a season they cannot be in a still room without answering somebody.
 
 ## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Stigma Record*
 

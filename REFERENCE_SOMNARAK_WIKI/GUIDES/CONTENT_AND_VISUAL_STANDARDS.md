@@ -237,8 +237,8 @@ A sentence that could sit in forty files has failed, whatever its grammar. The a
 | *Permits study; the … pressure becomes legible under sustained observation.* / *Recognizes patience; the … settles gradually under sustained presence.* | Twenty dossiers, one pair | A Work row written per holding — what a party does, what the endurance is spent on |
 | *a persistent low-grade headache · emotional numbness toward the element · chronic fatigue in the hand · progressively heavier · unwept grief · memory fragmentation* | Six weapon sentences | The Ability, read backwards, per piece |
 | *moves a little slower · temper shortens · weeps in their sleep · forgets a word* | Four stigma sentences shared by forty pieces | The Ability, read backwards, per piece |
-| *Continued use makes {entity}'s source sorrow feel autobiographical.* | 345 item records | One-use price and continued-use price, both this item's |
-| *{Item} remembers {Entity}; the bearer must not mistake memory for permission.* | 345 codex epigraphs — **still open** | A line from the item's own record |
+| *Continued use makes {entity}'s source sorrow feel autobiographical.* | 345 item records — **retired and cleared, 0 left** | One-use price and continued-use price, both this item's |
+| *{Item} remembers {Entity}; the bearer must not mistake memory for permission.* | 345 codex epigraphs — **still open, the last of the pair** | A line from the item's own record |
 | *The file is a map and not the territory.* · *Where the entity does something not described here, log it and leave the contradiction standing.* | Editorial instruction printed inside a record | Delete; the record states what it knows and what it does not |
 | *corrected from*, review dates, *the record has been updated* | Filing notes | Nothing. A record does not annotate its own editing |
 

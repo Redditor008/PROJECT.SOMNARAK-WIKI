@@ -24,7 +24,7 @@
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer absorbs the pain of the healing. Continued use makes The Kind Healer's Shadow's source sorrow feel autobiographical.
+**Operational / binding cost:** The Echo closes a wound by taking the pain into the bearer and filing it as theirs: after enough healing, they cannot tell an injury they were given from one they were born with.
 
 ## ITEM-SPECIFIC HISTORY — *The The Kind Healer s Shadow Source-Trace: Stigma Record*
 

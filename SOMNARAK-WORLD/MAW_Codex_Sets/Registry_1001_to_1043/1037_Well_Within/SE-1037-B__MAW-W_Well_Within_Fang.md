@@ -25,7 +25,7 @@
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
 
-**Operational / binding cost:** The wielder's old wounds ache; prolonged use leaves faint bruising. Continued use makes Well Within's source sorrow feel autobiographical.
+**Operational / binding cost:** The Fang strikes at what a person has been holding down: each blow makes the wielder's old injuries ache where they were deserved. Wielded long, the wielder bruises in the shape of their own withheld anger.
 
 ## ITEM-SPECIFIC HISTORY — *The Well Within Source-Trace: Weapon Record*
 

@@ -215,7 +215,7 @@ The gauge response is only meaningful in context. Calling Bloom is recorded as a
 
 **Bearer cost:** The wearer becomes quietly clingy — unable to let conversations end, unable to leave rooms first, unable to hang up.
 
-**Mantle return:** The individual Suit file warns that continued use makes the source sorrow feel autobiographical. Keep that warning beside the inability to end a conversation: the garment’s cost must not be mistaken for consent to stay another rotation. Attribution review precedes maintenance, and a named witness accompanies relinquishment without refunding the toll. The recorded endurance response is listening without answering; Lament resistance does not turn the mimicked voice into a safe conversation. The observer’s limit call still outranks the wearer’s wish to remain.
+**Mantle return:** The individual Suit file warns that continued use makes the source sorrow arrive as the wearer's own account of their life. Keep that warning beside the inability to end a conversation: the garment’s cost must not be mistaken for consent to stay another rotation. Attribution review precedes maintenance, and a named witness accompanies relinquishment without refunding the toll. The recorded endurance response is listening without answering; Lament resistance does not turn the mimicked voice into a safe conversation. The observer’s limit call still outranks the wearer’s wish to remain.
 
 ### M.A.W. Stigma — The Watcher's Petal
 

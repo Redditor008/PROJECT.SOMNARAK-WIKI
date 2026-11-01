@@ -25,7 +25,7 @@
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
 
-**Operational / binding cost:** The wearer carries a constant low fatigue, as though Endless Shift's burden settles on their shoulders. Continued use makes Endless Shift's source sorrow feel autobiographical.
+**Operational / binding cost:** The Veil puts the wearer on shift permanently: while worn, the work is never finished and rest does not count as rest. Worn long, they cannot tell the end of a task from the start of the next.
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Suit Record*
 

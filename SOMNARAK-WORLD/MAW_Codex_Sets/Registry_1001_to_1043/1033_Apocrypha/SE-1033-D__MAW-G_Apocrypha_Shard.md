@@ -24,7 +24,7 @@
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 
-**Operational / binding cost:** The wearer hears every farewell left unsaid nearby. Continued use makes Apocrypha's source sorrow feel autobiographical.
+**Operational / binding cost:** The wearer hears every farewell left unsaid nearby, and each one is filed as a message they failed to deliver: after a season they are carrying an archive of other people's last words.
 
 ## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Stigma Record*
 
