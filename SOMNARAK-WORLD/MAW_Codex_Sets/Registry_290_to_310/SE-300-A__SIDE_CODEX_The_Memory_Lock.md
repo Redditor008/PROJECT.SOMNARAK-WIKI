@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Void |
 | Form | A massive fused memory-crystal lock sealing a vault with no public entrance, clouded by recollections turning inside. |
-| Gauge / Pressure | 45–65% / Void 14–31 |
+| Gauge / Pressure | 574/574; starts 45–65% / Void — no attack pattern; the plate is read and the seal is never attempted |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Guarded Truth |
 

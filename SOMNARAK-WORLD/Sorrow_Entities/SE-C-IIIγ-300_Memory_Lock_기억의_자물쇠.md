@@ -38,51 +38,36 @@
 | **Recommended response** | Open it only through its registered Work Types; the key it keeps turns for Viderehan and Ferrehan alone. |
 
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35 per cent against Void pressure and 25 against anything else — and on a fixed object these are not resistances so much as an absence of contest: the Lock never acts, so the 574-point gauge opens full and trips at 75 per cent against a bay that simply gets harder. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 574/574 |
-| **Han Pressure [ATK]** | 14–31 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — fused to the vault face and immovable*, and the file's resistance note is blunt about what that means: the Lock never acts, so the gauge opens full and trips against a bay that simply gets harder. Nothing here is aimed and nothing closes a distance; what hardens is the plate under a worker's curiosity.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Protective and secretive |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A massive lock of dark memory-crystal sealing a vault with no public entrance, keyhole sealed, mechanism fused, the clouded recollections inside turning continuously with no observed period. The face is cold and smells of ash; touching it is not the hazard and the file says so. |
+| **Perceptible to** | The turning inside the crystal, visible at the keyhole and at the plate; then the ash and the flat cold; and, in the worker, the beginning of a case for authorised access. |
+| **Handling** | Not opened, not forced, and not instrumented beyond the plate photographs. The key is not touched and the vault is not entered; the five recorded cases are all workers who began offering to help. |
+| **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
+| **Sorrow Gauge [HP]** | 574/574 — the containment meter, read at the plate |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, Alpha Tree deep vault |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the plate and the marks; Ferrehan stands the watch without attempting the seal. The key the Lock keeps turns for those two Work Types and for nothing else. |
+| **Location** | SECTOR-A-01, Alpha Tree deep vault |
 | **Resolution Condition** | The worker stands before the seal, does not attempt to open it, and the gauge falls below 25 per cent of its own accord; nothing is loosened by a good cycle and nothing is meant to be. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Sealed Door* [**Debuff**] } | "A door closes in your mind — and you cannot recall what was behind it." | [The Lock seals a memory away; the target feels the absence.] | *Target suffers a Void mark; something has been taken from recall.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Lock is set. |
-| { *The Lost Key* [**Debuff**] } | "You know there is something behind the door — but the key is gone, and the shape of what is missing haunts you." | [The sealed absence gnaws; the target cannot stop reaching for the gap.] | *Target loses clarity; the forgotten thing presses at the edges.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target senses the gap. |
-| { *The Bolt* [**Attack**] } | "Nothing slams. The mechanism is fused and still, and has been for nine years of photographs; what closes is the listener's sense that the question is theirs to ask." | [No bolt is driven. Force hardens the plate, measurably and irreversibly, and the hardness reading is the impact.] | *Inflicts Void damage; the blow is a hardening increment that never comes back down.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Lock is forced, tested, or speculated about aloud in the chamber. |
-| { *What Was Hidden* [**Attack**] } | "The lock does not break. One sealed memory comes through as a whisper — never the one that was asked for — and everything else stays exactly where the Keepers left it." | [Nothing floods out. What returns all at once is the wanting: the listener leaves building a reasonable case for authorised access, in the identical sequence all five recorded cases took.] | *A heavy Void surge; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a whisper ends and the listener chooses to pursue the rest of it. |
-| { *The Vault Empties* [**Ultimate**] } | "No door opens, because the vault was built without one. The marks climb, the bay pressure climbs with them, and by the stair nobody present can say why they came down to deep storage." | [The vault empties nothing. Escalation here is hardening and rate: twenty-three thousand marks in the log, one column, no content anywhere.] | *All in range suffer Void erosion for three turns of rising whisper rate and hardening plate.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Lock does | What the worker carries out | Reading |
+|---|---|---|---|
+| { *The Plate* [**Register**] } | The plate reads the worker before the worker has decided anything. Nothing is asked for and nothing is refused. | The plate is photographed at the same distance at every session, and the photographs are compared before anybody stands at the seal. | Hardening shows in the plate impressions across sessions, and the rate is the reading the station keeps. |
+| { *The Case for Access* [**Exposure**] } | Prolonged exposure produces obsession with opening the vault, and it presents as diligence: a case built for authorised access, research into the sealing instrument, an offer to help with the engineering assessment. | Any worker who offers to help with the seal is stood down for the cycle and entered in the five-case sequence, which is identical every time. | Every step of the sequence is reasonable, which is why the file counts steps rather than warning signs. |
+| { *The Seal* [**Refusal**] } | It does not open, does not turn, does not answer. The keyhole is sealed, the mechanism is fused, and the key is not in the record's possession to turn. | Nothing is forced and the key is not touched; the watch is worked from the plate and closes on the gauge, not on an attempt. | Nine years of photographs of a face that has not moved; the refusal is the whole of what the object does. |
+| { *The Hardening* [**Overload**] } | Above 75% the marks climb, the bay pressure climbs with them, and by the stair nobody present can say what it is they are missing. | The bay is emptied on the gauge and not on the marks; the plate is photographed on the way out and the count of unresolved marks is entered. | The hardness does not reverse when the curiosity stops, so the overload is read afterwards and never during. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Confirmation rests on the fused keyhole and the clouding that turns slowly behind the plate, and never on the whispering, which is constant and tells an observer nothing they are permitted to use. The marked standing position is taken, the withdrawal is set, and the cycle opens only from there.
-2. **Clash:** 12 turns, Viderehan and Ferrehan only, each whisper marked as it happens with none of its content written anywhere. Nobody speculates aloud in the chamber about what is behind the plate; the prohibition covers the bay, the corridor and the stair alike, and it is enforced by the chamber order rather than by preference.
-3. **Resolution:** The cycle closes on the condition and on nothing else: a worker standing before the seal who does not try to open it, and a gauge that comes down below 25 per cent by itself. A good cycle loosens nothing and is not intended to — the file's idea of success is a shift that leaves the vault exactly as hard as it found it.
+1. **What is confirmed:** the plate photographs against the last set, the marks at the face, and the worker's name against the access register, taken before anybody stands at the seal.
+2. **What the watch does:** Viderehan reads the plate and Ferrehan stands the watch; no cycle attempts the seal, no cycle instruments the keyhole, and every offer of help with the engineering assessment is written down as an exposure rather than accepted as a plan.
+3. **How it closes:** the close is the file's documented suppression condition: **The worker stands before the seal, does not attempt to open it, and the gauge falls below 25 per cent of its own accord** — the gauge is what closes the watch, and the fact that nobody opened anything is what the entry records.
 
 ### Consequences
 
@@ -387,7 +372,7 @@ Some sorrows mourn what was lost. Memory Lock mourns what is known and kept — 
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is one layer of the holding's record, read against the classification, the Combat Record and the equipment profile. What governs is small and strict: a fixed Object-Void holding in the Alpha Tree deep vault, 574 points of gauge that open full and trip at 75 per cent, escalation that hardens rather than spreads, and a condition that is a worker standing still. Where behaviour departs from this file, the departure is the most important thing about the holding and is kept as evidence rather than tidied.
+**Operational interpretation:** This file is one layer of the holding's record, read against the classification, the Contact Record and the equipment profile. What governs is small and strict: a fixed Object-Void holding in the Alpha Tree deep vault, 574 points of gauge that open full and trip at 75 per cent, escalation that hardens rather than spreads, and a condition that is a worker standing still. Where behaviour departs from this file, the departure is the most important thing about the holding and is kept as evidence rather than tidied.
 
 **Review requirement:** Re-verify the gauge, the containment field, the exposure log and the location after any activation, expansion, transformation or anomaly — and re-take the hardness series at the marked point, because on this holding the number moves while it is being read and a stale series is a false one.
 ## Warden Record
@@ -442,7 +427,7 @@ Rescue's objection is minuted at every review and has never been withdrawn. A fa
 
 ## Trivia
 
-- Look-up figures for this file, kept in numerals so the row matches the case sheet: gauge 574/574, pressure 14–31 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 12 turns, and the weapon's 7–12 at 40 Echoes.
+- Look-up figures for this file, kept in numerals so the row matches the case sheet: gauge 574/574, resistance 35 / 25 per cent, threshold 75 per cent, and the weapon's 7–12 at 40 Echoes.
 
 - It has no visible keyhole anywhere on the plate, and the hand goes to the place one would be before the mind objects.
 - What it protects is the decision to conceal as much as the memories themselves: the seal was cut for the choice, and the choice is older than anything standing behind it.

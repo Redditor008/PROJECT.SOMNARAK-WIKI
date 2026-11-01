@@ -45,51 +45,36 @@
 - No breach counter exists. The volume grows every year and its edge is found by instrument, because people inside it do not notice the transition and report the room as normal when asked.
 - Extraction is separately authorised and has been exercised twice, both times for Wardens who had stopped mentioning anything at all in their handover notes.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament. The veil has never been struck, cut or sampled; it is damp cloth in a frame and the quarterly survey measures its edge rather than testing its strength. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 |
-| **Han Pressure [ATK]** | 10–23 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the resistance note beside it is that the veil has never been struck, cut or sampled. Nothing here is aimed and nothing closes a distance: what the Pall does is damp a room's sight of itself four metres past the frame, and the file measures the edge of that field rather than the strength of anything.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats weeping |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A long woven tapestry of crystallised tears on a frame in the Echo Gardens, always damp, clinging to a hand like wet silk, leaving salt traces and the smell of a fresh wound. It has not been worn since the frame was built, and the nine historical wearings are the whole wearing record. |
+| **Perceptible to** | The damp first, four metres past the frame in a corridor where eleven people work and none of them can tell they are standing in it; then the salt, the smell, and a handover note that has got shorter than it was. |
+| **Handling** | Not lifted, not draped and not worn, by anybody, for any reason. The frame is not moved and the edge is measured at the floor marks; the room's account is taken from two workers who are outside the field. |
+| **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
+| **Sorrow Gauge [HP]** | 415/415 — the containment meter, read at the dulled edge |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone D, Echo Gardens |
+| **Valid Work Types** | Viderehan and Ferrehan only. Ferrehan stands beside the frame; Viderehan surveys the dulled edge and reads the room's own account against it. |
+| **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Somebody says, in the room and in their own voice, that they have had a death — without being asked and without saying whose. Nothing else has ever reduced the survey. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Dampening* [**Debuff**] } | "Four metres further out, in a corridor where eleven people work, and none of them can tell they are standing in it." | [Nothing falls over anybody's eyes; the veil has not been worn since the frame was built. Colour and sound dull, and people inside the edge report the room as normal when asked.] | *Target suffers -10 Composure; what is lost first is noticing anything has changed.* **[10 Lament DMG [Lament]]** | When the quarterly edge has crept past a worked corridor unnoticed. |
-| { *The Blurred Sight* [**Debuff**] } | "Past forty minutes they stop reporting how the watch is going and start reporting that it is fine." | [Handover notes shorten; sorrow and surrounding flatten into one politeness, and the second warden is watching for the change of word.] | *Target loses 10 Composure; movement is unaffected, which is how nobody is caught by it.* **[10 Lament DMG [Lament]]** | When a watch beside the frame runs past forty minutes. |
-| { *The Wet Weight* [**Attack**] } | "The failure here is composure. A warden who finishes having shown nothing at all has done the thing the veil is made of." | [It weeps more the longer it is handled; load rises at the frame, grief is taken out of view, and the weight arrives as other people's unexpressed losses, not as a blow.] | *Inflicts Lament pressure as composure completing itself; no suffocation, no wound, and nothing on the register of injuries in the file's life.* **[14-22 Lament DMG [Lament]]** | When the veil is handled past the single gloved touch. |
-| { *The Unseen Blow* [**Attack**] } | "Something lands and nobody in the room saw a hand move, including the person it landed on." | [A strike arrives from behind the obscuring veil with no visible origin.] | *Lament damage; in all eleven recorded strikes the target could not say afterwards what had hit them and did not describe the experience as an attack.* **[Lament DMG [Lament]]** | When the veil is worn over the face. |
-| { *The Shroud* [**Ultimate**] } | "It covers the whole room and every face in it, and everybody carries on as though that were normal." | [The veil extends across the chamber and composure becomes universal and false.] | *Lament erosion to everyone present for three cycles; the Gardens' note is that nobody broke protocol during the one recorded occurrence and that this was the problem.* **[Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,232 inspection. |
+| Event | What the veil does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The Dampening* [**Register**] } | Nothing falls over anybody's eyes. The field extends four metres past the frame and the corridor inside it stops reporting itself. | Measure the edge at the floor marks, and take the room's account with two workers standing outside it, because the ones inside cannot tell they are. | Eleven incidents on file; in none of them could the person describe being inside the field at the time. |
+| { *The Politeness* [**Exposure**] } | Past forty minutes the warden stops reporting how the watch is going and starts reporting that it is fine; the handover notes shorten to match. | The second warden's whole job is to notice the change of word. The watch closes when the notes start losing nouns. | This is the exposure the file calls the veil's real edge: sorrow and surroundings flatten into one politeness, and the person flattening does not feel it. |
+| { *The Refusal* [**Refusal**] } | It is not lifted, not draped and not worn; the frame has not moved and the cloth has never been sampled. | Nothing is put over a face, and no cycle is worked inside the field without a second worker outside it. | Nine wearings in the record, all historical, and the file keeps them as the reason the practice stopped rather than as a technique. |
+| { *The Shroud* [**Overload**] } | The field covers the chamber and composure in it becomes universal and false — every face in the room reporting fine. | Withdraw on the second warden's word rather than on a reading, and enter the chamber only after the edge has gone back to the floor marks. | The quarterly survey has the edge creeping outward by a few millimetres and never receding; the shroud is what the survey projects if the sentence is never said. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The frame is confirmed loaded, the space behind it confirmed empty, and the gloves are checked. Two wardens attend; one touches, one writes. Nobody stands behind the frame at any point.
-2. **Clash:** Viderehan and Ferrehan only, the veil on its frame throughout, one glove per touch and the glove changed each time. The dulled volume is surveyed at the start and end of the watch, because nobody standing inside it can tell that they are.
-3. **Resolution:** One gloved touch, the card written, the card filed unread. 411 cards exist and the clerk who holds them is the only person who has read any of them.
+1. **What is confirmed:** the frame, the floor marks and the width of the damp at the edge, with the two workers' names and the room's roster taken so the account can be gathered from outside the field.
+2. **What the watch does:** Ferrehan beside the frame and Viderehan on the edge, the second warden reading the first one's words rather than the reading. Nothing is lifted, draped or worn, and no watch ends on a report that everything is fine.
+3. **How it closes:** the close is the file's documented suppression condition: **Somebody says, in the room and in their own voice, that they have had a death — without being asked and without saying whose** — and the criterion is the sentence rather than the survey, which moves for the sentence and for nothing else.
 
 ### Consequences
 

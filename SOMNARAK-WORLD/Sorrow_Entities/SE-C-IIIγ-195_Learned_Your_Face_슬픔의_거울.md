@@ -45,51 +45,36 @@
 - There is no breach counter because it does not escape; it extends the distance at which it recognises people. The range is re-measured from the bay marks at every session and has never contracted.
 - Extraction is a separate authorisation and is refused as a matter of course. Moving it requires somebody to face it, and nobody has yet found a way to carry a mirror without looking at it.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Void pressure, 25% against other pressure types — read from the bay marks rather than from contact, since nothing on this holding has ever been struck and the figure is a standing value. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 693/693 |
-| **Han Pressure [ATK]** | 15–34 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the combat table's own bracketed note was already writing the refusal: nothing breaks away, the frame, surface and mounting have never changed, and nothing here has ever been struck. What the mirror does is return a viewer's grief as a face, and the hazard is that the viewer takes the face for a verdict.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) — Reflective and honest |
-| **Primary Pressure** | Identity / memory |
+| **Mode of presence** | A tall mirror of pale-black crystal in a cold dark frame in the Alpha Tree, its surface reflecting not the viewer but their sorrow as a face. It gives back no warmth, it has never reflected the room, and the mounting has not changed in the record. |
+| **Perceptible to** | The reflection first, which is a face and not the viewer's own; then the cold of the glass, the flat mineral smell of it, and the certainty that the grief being shown is one the viewer already had. |
+| **Handling** | Not covered and not turned to the wall — the two attempts on file are why both are prohibited. A watch is worked from one metre, square on, with a second person behind the viewer and out of the glass's line. |
+| **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
+| **Sorrow Gauge [HP]** | 693/693 — the containment meter, read at the learned-face count |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, Alpha Tree |
+| **Valid Work Types** | Viderehan and Ferrehan only. Ferrehan holds the gauge level from behind the viewer and Viderehan reads the face; neither stands in the reflection alone. |
+| **Location** | SECTOR-A-01, Alpha Tree |
 | **Resolution Condition** | The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Reflection* [**Debuff**] } | "It shows you yourself — and the you in the glass is grieving in ways you have not admitted, in a room you have never described to anybody." | [It has never once returned a face the viewer recognised as their own. What the glass gives back is the sorrow itself, given form — exact, whole, and without companionship.] | *The channeller takes Void identity pressure and the face is learned: permanent, entered in the count before the bay is closed, with the reflection's contents never recorded and never asked for. One nominated channeller faces the glass; everybody else works with their back to it.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the nominated channeller opens the channel with a direct gaze. |
-| { *The Cracked Image* [**Debuff**] } | "The reflection fractures — and what it leaves behind is the certainty that this one thing cannot be told to anybody present." | [The Mirror returns the sealed room's own condition rather than its contents. Past about a minute the viewer stops being able to tell their own grief from the one in the glass, and the two do not separate again inside the shift.] | *The channeller loses clarity about which grief is theirs. Clarity is the escalation: when the reflection gains detail the channeller did not supply, the clock-holder calls the close, the call is not discussed in the bay, and the channeller steps off the mark before turning.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a gaze is sustained while the reflection sharpens beyond what the channeller supplied. |
-| { *The Glass Shard* [**Attack**] } | "A sliver breaks away from the frame — and it cuts where the reflection was standing." | [Nothing breaks away: the frame, surface and mounting have never changed, and nothing here has ever been struck. What cuts is an abandoned channel venting uncontained Void resonance across the sector — both recorded vents began when a channeller was relieved rather than when they finished.] | *Heavy Void identity pressure across the bay. Never relieve a channeller mid-session: the channel is closed deliberately by the person who opened it, the bay is cleared of anybody not on a mark, and the range is re-measured before work resumes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a channel is abandoned or its channeller relieved instead of closing it deliberately. |
-| { *The Doppelganger* [**Attack**] } | "The you in the mirror steps out — and it is angrier than you remember being." | [At overload the flow turns back and the grief in the channel starts looking for somewhere to live. Reports describe the reflection separating; its spatial extent and any return to the mounted glass are not established, and no walking body is certified by this row.] | *A heavy Void blow; the channeller's Sorrow Gauge surges 15%. The companion witness names the channeller's present body and the close is called before overload — seeing a sorrow's shape is not permission to declare it solved or to force it shared.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a channel is sustained into the two-minute overload described in the Log and Method. |
-| { *A Thousand You* [**Ultimate**] } | "The mirror shatters into a thousand pieces — and every piece shows somebody who was once alone in a sealed room." | [The glass does not shatter; it has not degraded since containment opened. At venting point the surface gives up what it holds in reflection — every learned face at once, sixty-one and counting, none of them released by being shown.] | *All in range suffer Void identity erosion for three turns. Close the channel deliberately, clear the bay, re-measure the recognition range from the marks, and enter every newly learned face before anybody is debriefed — on marks, counts and times only, never on contents.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥75% activation threshold with a channel open. |
+| Event | What the mirror does | What the viewer carries out | Reading |
+|---|---|---|---|
+| { *The Reflection* [**Register**] } | It returns the viewer's sorrow as a face, in detail the viewer has not admitted and a room they have never described to anybody. It has never returned the room. | The second person confirms the face is not the viewer's own, and the viewer is asked to name the grief before the channel is opened. | The register is the face count. A viewer who names the grief correctly is a reading; one who names a person is a warning. |
+| { *The Long Look* [**Exposure**] } | Past about a minute the viewer stops being able to tell their own grief from the one in the glass, and the two do not separate again inside the shift. | One minute per station, held on the watch clock; the second person stands behind the viewer and calls the turn. | A glance is survivable. The record has no case of a long look that ended with the viewer able to separate the two. |
+| { *The Refusal* [**Refusal**] } | Nothing breaks away and nothing is offered back. The frame, surface and mounting have never changed, and the glass does not answer a question about itself. | It is not covered and not turned; no cloth is hung on the frame and no reading is taken from behind it. | The refusal is the record's own note, written into the combat table before the table was retired: nothing here has ever been struck, and nothing here has ever struck. |
+| { *The Venting* [**Overload**] } | Channeled past its close, the resonance vents outward across the sector and every face present is at risk of being learned at once. | Every channel is closed deliberately, on the mark, before turning; a vented watch is a sector-wide learned-face entry, not a room-wide one. | Three vents on file, and each is filed against the bay's closing entry rather than against a face count, because the count is what a vent takes away. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification is the frame and the bay marks and nothing else — looking at the surface to check is the one method this holding charges for, and it is charged in faces. Confirm the designation, take the recognition range from the marks first, and open the cycle with one channeller nominated and a second person on the clock.
-2. **Clash:** Fourteen turns, worked from the floor marks with the team's backs to the glass and one nominated channeller facing it. Nobody else looks, for any reason, including to confirm what the channeller reports.
-3. **Resolution:** The session closes with containment, management or retreat, or by the file's own suppression condition: **the channel is closed deliberately, the channeller steps off the mark before turning, and the learned-face count is entered before the bay is closed**. Viderehan and Ferrehan only, and no unlisted Work Type is improvised here, because there is nothing for one to act on.
+1. **What is confirmed:** the frame, the one-metre mark on the floor, and the viewer's own account of what they are carrying, taken before the glass is looked at.
+2. **What the watch does:** Viderehan reads the face at one metre with Ferrehan behind the viewer holding the gauge, one minute per station, the turn called aloud by the person who is not being reflected.
+3. **How it closes:** the close is the file's documented suppression condition: **The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed** — the mark is stepped off first and the count is written before the door is shut.
 
 ### Consequences
 
@@ -124,7 +109,7 @@
 
 **Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.
 
-The combat record now observes the same mounted limits: the glass returns sorrow rather than the viewer's face, nothing is struck and nothing shatters, and the only certified movements are a channel opening on a nominated gaze, closing deliberately, or venting when abandoned. What the reflection's faces are — the viewer's own grief given form, a face stopped being thought about, or both under conditions not yet separated — remains uncrosswalked, as do the separating reflection's extent and return, the Tale's accumulated thousands against the register's two hundred and twelve, and the range extensions recorded with the destroyed Frozen Veil. None of those licenses a second body standing in the bay.
+The contact record now observes the same mounted limits: the glass returns sorrow rather than the viewer's face, nothing is struck and nothing shatters, and the only certified movements are a channel opening on a nominated gaze, closing deliberately, or venting when abandoned. What the reflection's faces are — the viewer's own grief given form, a face stopped being thought about, or both under conditions not yet separated — remains uncrosswalked, as do the separating reflection's extent and return, the Tale's accumulated thousands against the register's two hundred and twelve, and the range extensions recorded with the destroyed Frozen Veil. None of those licenses a second body standing in the bay.
 
 ## Origin
 - **Formation:** The Mirror formed from sorrow that people concealed from one another.

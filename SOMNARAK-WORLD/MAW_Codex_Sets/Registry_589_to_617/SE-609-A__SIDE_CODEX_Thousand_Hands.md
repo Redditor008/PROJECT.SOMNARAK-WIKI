@@ -22,7 +22,7 @@ Thousand Hands is an unshaped mass of pale-blue Han-crystal crowded with fossil-
 | Coherence / Potency | III / γ |
 | Element | Lament |
 | Location | The Desolate, near the Scar |
-| Gauge / Pressure | 561/561; starts 45–65% / 14–33 Lament |
+| Gauge / Pressure | 561/561; starts 45–65% / Lament — no attack pattern; the field edge is chalked and measured |
 | Movement / Resistance | Fixed / 35% Lament, 25% other |
 | Activation threshold | Gauge ≥75%; physical touch activates history projection |
 | Observation | 2 — Basic |

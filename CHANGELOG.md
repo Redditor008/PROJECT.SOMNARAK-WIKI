@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five relics that were carrying a fight they do not have (2026-11-01)
+
+The relic queue starts with the objects whose own rows had already written the refusal. Each of these five is fixed in place, has never struck, and has no range or pursuit anywhere on its record; each was nonetheless filed with a `## Combat Record`, a `Han Pressure [ATK]` band, a battle length and a five-row table whose categories included `[**Attack**]` and `[**Ultimate**]`.
+
+- **The Laughing Mask** (`C-IIβ-210`) — *stationary — an artwork*; its own resistance note says there is nothing here anybody has ever wanted to hit, and all eleven incidents begin with somebody being entertaining in the bay. Converted to a Contact Record whose reading is the length of the silence, not a blow.
+- **The Pall** (`C-IIβ-280`) — *stationary — an artwork*; the resistance note says the veil has never been struck, cut or sampled. Its field dampens a room's sight of itself four metres past the frame, and the exposure is a handover note that shortens until a warden is reporting that everything is fine.
+- **Learned Your Face** (`C-IIIγ-195`) — *stationary — a discrete object*; the combat table's own bracketed note already read *nothing breaks away: the frame, surface and mounting have never changed*. What the mirror does is return a viewer's grief as a face.
+- **The Memory Lock** (`C-IIIγ-300`) — *stationary — fused to the vault face and immovable*; its resistance note says the Lock never acts, so the gauge opens full and trips against a bay that only gets harder. Nothing is aimed; what hardens is the plate under a worker's curiosity.
+- **Frozen Echo** (`C-IIIγ-609`) — *stationary — a discrete object of some weight*, and it has never been recorded moving; what expands is the chalked field. Its own *Ice Shard* note already said nothing breaks off and what cuts is a stranger's last minute arriving edgewise.
+
+**The shape each one now carries.** A reason line in the file's own terms; one `| Field | Value |` table keeping Mode of presence, Perceptible to, Handling, Activation threshold, the Sorrow Gauge in its band, Starting Sorrow Gauge, Valid Work Types, Location and the Resolution Condition, with Speed, Han Pressure, Battle Length and Threat Role dropped; `### Contact Events` in place of `### Combat Actions`, with each row drawn from what the file already records happening to a worker — the register, the exposure, the refusal, the overload, the attachment; a `### Watch Sequence` in the three movements, closing on the file's documented condition in the `condition: **…**` form; and `### Consequences` untouched.
+
+**The prose went with the table.** *All eleven strikes* became *all eleven incidents* in the Mask; the Memory Lock's look-up line lost its `pressure 14–31 per hit` and its twelve turns, because there is no longer a band or a turn count to restate; the Frozen Echo's *struck* became what its own weapon row already says happens. One dangling *Combat Record* reference in the Memory Lock's operational interpretation now points at the Contact Record.
+
+**Side codices.** Four of the five have a side codex, and each `Gauge / Pressure` row lost its per-hit band for what the relic actually does — *445/445; starts 35–50% / Void — no attack pattern; the bay's silences are the reading*, and the same form for the Pall, the Memory Lock and the Thousand Hands set.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers (checks 3, 8, 11g and 11h all read the new sections) · `wikistd` R-29 301/301 and R-27 section-clean 301 · `label_lint` 0 · `check_stat_bands` PASS · `check_links` 4161 links / 2345 files, 0 broken · `seam_lint` 0 · `timeline_lint` 1800 files, 0 contradictions · `check_box_symmetry` PASSED · `breach.py` unchanged at 188/301 non-breaching. **Five converted, fifty-two relic `Combat Record`s still to read.**
+
 ## Read it top to bottom: the boilerplate, the doubled words and the broadcast that said the wrong thing (2026-11-01)
 
 The test for this pass was not a checker. It was a reader: somebody opening one dossier and moving down it, who stops when a line does not follow from the line above. Six things made a reader stop.

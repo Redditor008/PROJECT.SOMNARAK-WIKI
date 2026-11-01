@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Lament |
 | Form | A damp tapestry woven from crystallized tears, clinging like wet silk and carrying every face that mourned through it. |
-| Gauge / Pressure | 35–50% / Lament 10–23 |
+| Gauge / Pressure | 415/415; starts 35–50% / Lament — no attack pattern; the field edge is measured at the floor marks |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Shared Mourning |
 

@@ -45,51 +45,36 @@
 - There is no breach counter because it cannot escape. The frozen field expands instead, and its edge is pegged and measured from the same three stakes at every session.
 - Extraction is taken at the field edge under its own authorisation, never by handling the object, and the extraction team is drawn from the handling list so that no new impression is created to obtain energy.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35 per cent against Lament pressure and 25 against anything else, with the file's own note that the object is not what a party resists: the crystal sits still and takes no interest, and what has to be borne is the weight of a life that is not the handler's being carried for the length of the watch. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 561/561 |
-| **Han Pressure [ATK]** | 14–33 per hit · Lament |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object of some weight* and that it has never been recorded moving; what expands is the frozen field, and the field edge is chalked at every session. The combat table's own *Ice Shard* note has the denial in it already: nothing breaks off, the surface carries imprints and no wear, and what cuts is a stranger's last minute arriving edgewise.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A dense pale-blue mass of Han-crystal in the Desolate near The Scar, holding an imprint of every hand that has touched it, each visible like a fossil. Salt-damp, cold, and heavier than its size; the object does not move and the field it keeps is what is marked on the ground. |
+| **Perceptible to** | The cold and the stillness first, then the imprints in the surface, and then a sound that arrives half-frozen and belongs to somebody who is not present. |
+| **Handling** | Handled by named list, in single-use gloves, never past the limit the tool profile sets. The field edge is chalked before the session and measured after it, and nobody holds it bare-handed. |
+| **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
+| **Sorrow Gauge [HP]** | 561/561 — the containment meter, read at the field edge |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | The Desolate, near The Scar |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the imprints and Ferrehan carries the cold; both stand outside the field edge and neither adopts the minute. |
+| **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25% — on Frozen Echo the second follows the first and has never arrived without it. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Still Air* [**Debuff**] } | "The air goes still — and cold — and you can hear your own grief, preserved in the ice." | [The Echo freezes the air; the target's sorrow is caught mid-feeling.] | *Target suffers -10 Composure; their grief is suspended, aching.* **[10 Lament DMG [Lament]]** | When the target enters the cold. |
-| { *The Frostbitten Note* [**Debuff**] } | "A sound, half-frozen, reaches you — and the cold travels with it into your chest." | [A preserved echo carries the cold inward; the target chills from within.] | *Target loses 10 Composure; feeling itself begins to numb.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
-| { *The Ice Shard* [**Attack**] } | "Nothing breaks off. The surface carries imprints and no wear — no scratch, no chip — and what cuts is a stranger's last minute arriving edgewise in the mind." | [No splinter flies. The struck acquire the last minute of somebody else's life and have nowhere to put it, which is the wound.] | *Inflicts Lament pressure; the cut is a borrowed minute, carried for about a week.* **[14-22 Lament DMG [Lament]]** | On handling — the only contact the object has ever answered. |
-| { *The Glacier* [**Attack**] } | "The cold advances — a wall of frozen grief, slow and unstoppable." | [The preserved sorrow moves at a walking pace and does not stop, and everything it passes keeps the temperature afterwards.] | *A heavy Deep Blue advance; the gauge jumps 15 at a stroke.* **[24-36 Lament DMG [Lament]]** | When an imprint is disturbed. |
-| { *The Deep Freeze* [**Ultimate**] } | "Everything goes still — and cold — and nothing will ever move or feel again." | [The whole field is held at the temperature of somebody else's last minute, and nothing in it moves on its own again for 3 turns.] | *Every worker present takes Lament pressure for 3 turns of deep freeze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Echo does | What the handler carries out | Reading |
+|---|---|---|---|
+| { *The Hand* [**Register**] } | A touch leaves an imprint, and the imprint is the record: every hand that has held it is still in the surface, visible as a fossil. | The handler takes it in single-use gloves from the named list and hands it back inside the profile's limit; the surface is photographed at the start and the end of the session. | The imprints are read as a count, and the count is what the station compares across sessions. |
+| { *The Borrowed Minute* [**Exposure**] } | Past a minute the borrowed life starts arriving with its own opinions; past two the boundary goes entirely, and the handler cannot say which grief is theirs. | One minute per contact, held on the watch clock, and the handler is asked whose grief they are carrying before the piece is put down. | Both long exposures on file ended with a handler who could not answer that question, and the file keeps the pair of them as the limit. |
+| { *The Stillness* [**Refusal**] } | If the condition is not met the object does nothing at all: it sits still, takes no interest, and the field edge stays where it was advanced to. | No piece is coaxed, carried past the limit, or held to see whether it will answer. The edge is rechalked and the advanced ground stays advanced. | An object that will not answer is the whole refusal, and the file records it as a reading rather than as a fault. |
+| { *The Adoption* [**Attachment**] } | The handler takes somebody else's last minute home with them; it thins over about a week and never fully clears. | Debrief asks what the handler is still carrying and writes the answer in the first person, which is how adoption is caught. | The failure is adoption: the first sign is a worker using the first person about something that happened to somebody else. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first, and it is read in the imprints and the temperature differential — never by weight alone, which changes slightly every time somebody touches it. The approach is set, the handler is named before the object is, and the clock-holder is given authority to call the set-down at the moment the watch turns; nobody negotiates that call afterwards.
-2. **Clash:** Fourteen turns, worked at the field edge. Only the nominated handler touches it, once, in fresh gloves, with the clock held by somebody else; no turn is repeated by a second person to confirm it.
-3. **Resolution:** The cycle closes when the object has been set down at the clock-holder's call — not before, not after — and the gauge falls below 25 per cent. On this holding a completed cycle costs an imprint, and the file's order of business is to book the cost before it books the result; a watch that ends with the handler still holding the crystal is entered as the crystal having gained, whatever was learned.
+1. **What is confirmed:** the field edge against last session's chalk, the imprints on the surface, and the handler's name on the named list, taken before the piece is lifted.
+2. **What the watch does:** Viderehan reads the imprints from outside the edge and Ferrehan keeps the cold and the clock; one minute per contact, the turn called aloud, the piece put down before anybody answers the question about whose grief it is.
+3. **How it closes:** the close is the file's documented suppression condition: **Viderehan and Ferrehan only, and the gauge below 25%** — and on Frozen Echo the second has never arrived without the first.
 
 ### Consequences
 

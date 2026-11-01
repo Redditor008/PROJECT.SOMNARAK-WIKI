@@ -26,7 +26,7 @@
 | Element | Void |
 | Location | SECTOR-C-01, Mask Market |
 | Primary Form | A bright painted mask with a fixed wide smile, dark wet eyeholes, and continuous laughter. |
-| Gauge / Han Pressure | 35–50% starting range / Void 7–17 per hit |
+| Gauge / Han Pressure | 445/445; starts 35–50% / Void — no attack pattern; the bay’s silences are the reading |
 | Movement | Fixed while unworn; moves only with an activated wearer |
 | Comprehension Level | 2 — Basic |
 | M.A.W. Set | The Empty Ovation |
