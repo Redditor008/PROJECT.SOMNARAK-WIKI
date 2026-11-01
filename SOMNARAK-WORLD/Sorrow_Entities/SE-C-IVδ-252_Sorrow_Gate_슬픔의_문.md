@@ -244,7 +244,7 @@ Thirteen blank notches are cut into its rim as a counting device for a window no
 **Effect:** +3 Composure during source work
 **Ability:** The charm keeps its bearer from being able to repeat the whispering. Bearers can hear it and cannot reproduce it, in speech or in writing, and this is the boon rather than a limitation of the item.
 
-**Cost:** The bearer occasionally forgets a word.
+**Cost:** The bearer hears the whispering and cannot give it back — not in speech, not in writing — so the one thing the watch is asked to report is the one thing the charm will not let them say.
 
 *The charm is not manufactured. The Gate gives one to a worker who heard it clearly and wrote nothing down, and has given none to any member of a translation team.*
 

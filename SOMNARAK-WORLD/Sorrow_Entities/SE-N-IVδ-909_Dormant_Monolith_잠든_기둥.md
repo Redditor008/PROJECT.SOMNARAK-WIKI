@@ -212,7 +212,7 @@ The ward-block at the boss stops whatever arrives at it and stops it in place, w
 
 **Ability:** The charm lets the wearer set a duty down briefly without the sense of having abandoned it. The relief lasts about an hour and is not cumulative.
 
-**Cost:** The bearer occasionally forgets a word.
+**Cost:** The bearer gets one hour of setting a duty down without the sense of having abandoned it, and the hour does not carry over to the next duty or the next day.
 
 *The charm is not manufactured. The Pillar gives one after a cycle that ended with the worker relieved on time, and it has never given one to a worker who stayed.*
 

@@ -236,7 +236,7 @@ The prisms rotate in synchrony, refracting psychic trauma away from the bearer's
 
 **Ability:** Grants a minor boon drawn from the source's own nature — anything the bearer sets down stays exactly where it was left, undisturbed and unfound by anyone else, for as long as the bearer intends to return for it.
 
-**Cost:** The bearer occasionally forgets a word.
+**Cost:** The bearer can leave anything anywhere and be sure of finding it again, which means they never have to decide what they are finished with.
 
 *The Charm is conferred and never issued: it appears after a successful cycle at the chamber's own disposition, on a worker who kept silence in the room for the whole watch, and the file records that pattern without pretending to know why the chamber chooses.*
 

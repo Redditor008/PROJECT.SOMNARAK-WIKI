@@ -235,7 +235,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 **Ability:** Marks a vision as memory, possibility, or unknown — the three categories named by the linked item record.
 
-**Cost:** The bearer occasionally forgets a word.
+**Cost:** The bearer can tell a memory from a possibility and can no longer treat any of their own recollections as simply having happened.
 
 *The Missing Charm is not issued and cannot be requested. It has been conferred 2 times, both to Wardens who reported what they had seen inside the ring in the conditional — *there would be a door here* — and refused, at debrief, to be led into the past tense about it.*
 

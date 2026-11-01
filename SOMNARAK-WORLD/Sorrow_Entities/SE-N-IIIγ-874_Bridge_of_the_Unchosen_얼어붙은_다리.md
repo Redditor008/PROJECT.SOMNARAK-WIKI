@@ -245,7 +245,7 @@ It is a head-slot charm and it reads the decision rather than the life beyond it
 
 **Ability:** The charm goes cold in the hand when the wearer is about to assert something they do not know. It has no other function, it cannot be aimed, and four Wardens have described it as the single most unpleasant object in the wing.
 
-**Cost:** The bearer occasionally forgets a word.
+**Cost:** The bearer feels the cold a half-second before they assert something they do not know, and that half-second has no other use.
 
 *The charm has been granted six times. Each recipient had, in the preceding quarter, withdrawn or rewritten a finding of their own that stated an outcome for a course not taken. The holding records the pattern and has refused, twice, to let it be described as a reward.*
 

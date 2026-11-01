@@ -226,7 +226,7 @@ It is a head-slot stigma, and what it shows is the failed crossing and the peopl
 
 **Ability:** The charm warms when the bearer is within reach of something they have given up on, which is a navigational aid rather than a comfort and is used as one.
 
-**Cost:** The bearer occasionally forgets a word.
+**Cost:** The bearer learns where every abandoned thing in the district is, and the charm warms the same for all of them.
 
 *The stigma is not made anywhere. It goes to a Warden who named the crossing and the loss in one sentence, and it has never once gone to one who told the figure the bridge would be built.*
 

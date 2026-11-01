@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Six Void charms, and the fourth element done (2026-11-01)
+
+The Void Han-glass Stigmas closed the set: six pieces that all cost their bearer *a word, occasionally forgotten*, which is the least visible price in the catalogue and the fourth time the same sentence had been reused for a whole element.
+
+The Missing Charm leaves its bearer unable to treat any of their own recollections as simply having happened. The Unknown's charm will not let the whispering be repeated in speech or in writing, which makes the one thing the watch is asked to report the one thing the piece will not say. The Bridge of the Unchosen Charm gives a half-second of warning before its bearer asserts something they do not know, and nothing else. The Dormant Monolith Charm borrows the guilt out of a duty for an hour that does not carry over. The Relic Waiting for Its Maker's charm means nothing the bearer sets down is ever lost or found by anybody else, so they never have to decide what they have finished with. The Rusted Charm warms the same for every abandoned thing in the district.
+
+That completes all four elements of the Stigma cost line — forty pieces out of a single stock sentence, each now reading only what its own ability supports.
+
+**Checks:** `section_logic` PASS · `seam_lint` 100.0% · `label_lint` 0.
+
+
 ## Eleven Lament charms, and what each one costs its bearer (2026-11-01)
 
 The third element of the same set. Eleven Lament Han-crystal Stigmas all took their price in the same sentence — *The bearer weeps in their sleep* — which is a cost that a reader can neither check nor see happen, and which made three elements of the Stigma catalogue read as one piece with three labels on it.
