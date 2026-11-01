@@ -45,51 +45,36 @@
 - No breach counter applies. The affected radius grows across the Market, and the edge is remeasured from the case at every session.
 - Residue recovery at the frame is separately authorized.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Void pressure, 15% against other pressure types — read from the case; nothing here has ever been measured by striking the glass, and the overlay is the only series that answers. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 478/478 |
-| **Han Pressure [ATK]** | 10–24 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own position note keeps it in its case: never relocated in the life of the record. Its own attack row says no blade leaves the glass and nothing here is struck. What travels is the edge of the influence, and that is remeasured from the case at every session rather than remembered.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats reflecting |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | An ancient mirror in a corroded frame, cracked across its whole surface, standing in a case in the Mask Market. The glass is cracked and the reflection is not, and no other mirror in the Market does that. Forty-seven fracture lines in nineteen tracings, and none of them has lengthened. |
+| **Perceptible to** | The mismatch first — a broken surface returning an unbroken face — then glass that gives back no warmth, the flat smell of ash, and a quiet that most observers describe as attentive. |
+| **Handling** | Neither Work Type does anything to the fractures. Viderehan is worked from the case; Ferrehan is looking without turning away, measured on the clock and ended from outside the session. Nobody touches the glass and nothing is pressed to it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 478/478 — read at the case |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Mask Market |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns the viewer without the presentation and does not move the gauge at all; Ferrehan keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. |
+| **Location** | SECTOR-C-01, Mask Market |
 | **Resolution Condition** | the timekeeper calls the end before the worker begins to agree with the glass |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Distorted Face* [**Debuff**] } | "Your reflection in the cracked glass is wrong — the features are shifted, older, angrier." | [The Mirror distorts the target's self-image through its fractures.] | *Target suffers a Void mark; they do not recognize themselves.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target looks into the Mirror. |
-| { *The Fractured Self* [**Debuff**] } | "Each crack shows a different version of you — and none of them agree on who you are." | [The Mirror's cracks multiply the target's identity.] | *Target loses clarity; they cannot find the real self among the reflections.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target stares at the cracks. |
-| { *The Sharp Edge* [**Attack**] } | "One truth, held up alone, and the edge of it is where it cuts." | [No blade leaves the glass; nothing here is struck. A single unflattering fragment is returned without its context and lands as the whole account.] | *Inflicts Void pressure as partial truth mistaken for the person; no shard moves and the overlay does not change.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the viewer takes one reflection as the only real self. |
-| { *The Shattering Point* [**Attack**] } | "Forty-seven lines, and not one of them has lengthened in nineteen tracings." | [The mirror does not fail structurally; the wave that goes outward is agreement — the worker begins to find the reflection fair, then useful, then worth showing somebody else.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%, and the timekeeper is the one who ends it.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When looking turns to believing. |
-| { *Total Fracture* [**Ultimate**] } | "The glass is still whole in its case. It is the viewer the edge now covers." | [The object does not break; the affected edge widens across the Market and every face inside it is returned without its presentation.] | *All in range suffer Void erosion for three turns inside the widened edge; the fracture count is retaken against the overlay afterwards and has not changed yet.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Mirror does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Mismatch* [**Register**] } | It returns a reflection of the whole face across a surface broken into a hundred pieces, and the fractures do not appear in what comes back. | The pair confirms the object, sets the edge from the case, and only then takes up its marks. Identification is the mismatch and nothing else qualifies. | No other mirror in the Market does this, so the reading needs no measurement — only the confirmation that the glass, and not the frame, is the thing being looked at. |
+| { *The Looking* [**Exposure**] } | The glass returns the viewer without the presentation for as long as they keep looking, and a single unflattering fragment is returned without its context, landing as the whole account. | The second warden times the session and the timekeeper calls the end from outside it. The end is never called by the worker looking. | A falling gauge reads as the surface settling for a shift — glass reading as glass, the edge drawing in, the quiet losing its weight. Nothing is resolved, and nothing is meant to be. |
+| { *The Refusal* [**Refusal**] } | It does not break, does not answer force, and the fracture count is the same afterwards as before. Nothing here has ever been measured by striking the glass. | Nothing is taken from the case and nothing is pressed to it; the count is retaken against the overlay after every session in which the edge moved. | The overlay is the only series that answers. The object's refusal to be argued with is why the reading is administrative rather than physical. |
+| { *The Agreement* [**Overload**] } | Past the call the worker begins to find the reflection fair, then useful, then worth showing to somebody else, and the edge widens from the case across the Market. | The edge is remeasured from the case at every session, never from memory, and a session that inherits a worker part-way to agreeing is entered as such. | The cost of a missed call is measured in metres of Market and in somebody's standing, not in force, and nothing about the object escalates. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification is the mismatch and nothing else qualifies: the glass is cracked across its whole surface and the reflection is not, and no other mirror in the Market does that. The pair confirms the object, sets the edge from the case, and only then takes up its marks.
-2. **Clash:** There is no exchange to manage. The glass shows what it shows for as long as the worker keeps looking, and the only live decision in the session is who calls the end of it.
-3. **Resolution:** There is no suppression condition behind this holding. The session closes on the documented condition — **the timekeeper calls the end before the worker begins to agree with the glass** — the end is called from outside the session and never by the worker looking.
+1. **What is confirmed:** the mismatch at the case, the influence edge measured outward from the case, and the fracture count against the overlay — the count taken before the session and again after it.
+2. **What the watch does:** Viderehan returns the viewer without the presentation and Ferrehan keeps looking without turning away, measured on the clock. The second warden times it and the timekeeper ends it, and neither of them is the person looking.
+3. **How it closes:** the close is the file's documented condition: **the timekeeper calls the end before the worker begins to agree with the glass** — the end called from outside the session and never by the worker looking.
 
 ### Consequences
 
@@ -145,7 +130,7 @@
 
 ### Operational Work Notes
 
-Cracked Mirror is an Object/Place with Object-Void manifestation and Void expression, held in a case in the Mask Market. Viderehan is the whole of the ordinary work; Ferrehan is looking without turning away, measured in turns and ended from outside. Neither does anything to the fractures, which have not moved in the life of the holding.
+Cracked Mirror is an Object/Place with Object-Void manifestation and Void expression, held in a case in the Mask Market. Viderehan is the whole of the ordinary work; Ferrehan is looking without turning away, measured on the clock and ended from outside. Neither does anything to the fractures, which have not moved in the life of the holding.
 
 **Reading the response:** A falling gauge presents as the surface settling for a shift — the glass reading as glass, the edge drawing in a little, the quiet losing its weight. Nothing is resolved; the Market still wants flattering mirrors and this one still will not do it. A rising gauge presents as **agreement**: the worker begins to find the reflection fair, then useful, then worth showing somebody else. That is the point at which the session ends, because what follows is a worker trying to bring the glass into a matter it has no business in.
 ## Activation Behavior

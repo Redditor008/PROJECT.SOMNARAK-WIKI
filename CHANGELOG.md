@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Five relics where the refusal was already written in the record (2026-11-01)
+
+Third batch off the relic queue, and the clearest one yet: four of these five had already put the denial inside their own combat table, and the fifth had it in its resistance note.
+
+- **Forgotten Market Stall** (`C-IIα-062`) — its resistance row says outright that the second figure is arithmetic only, *because nothing on this holding attacks*. The failure is a purchase, and the ledger records what the buyer agreed to pay.
+- **Frozen Tear** (`C-IIβ-102`) — *nothing here has ever been struck, and in the whole record it has never been touched*; the tear is warm, unmoved for thirty years, and the only thing that changes is the field edge.
+- **Cracked Mirror** (`C-IIβ-310`) — *no blade leaves the glass; nothing here is struck*. The fractures have not lengthened in nineteen tracings, and what cuts is a fragment returned without its context.
+- **Beating Relic** (`C-IIIγ-902`) — *incapable of moving itself on the plinth*, carried in a bare hand when authorised. What it does is brief the holder: dates, figures, a district, a sum.
+- **Loom of Unlived Dreams** (`C-IVγ-176`) — its resistance row says the stat line and the attack band were carried *because the encounter sheet requires them*, and that nothing on record has ever struck the loom. The two refusals on file were won by the weave.
+
+**Two files had to keep a rule the old table was hiding.** The Loom's resistance row also carried the operating rule — *working protection is the paint, the clock, the two anchors and the sealed pair, never the worker's own assessment of how they are* — and that sentence moved into the Handling row rather than going out with the band. The Beating Relic's threshold is *3 ignored conditions*, which means nothing on its own, so the field row carries the file's own gloss: the first sign is physical, and nobody has ever reported the emotional change before the physical one.
+
+**Converted in the record's own numbers.** The Stall keeps 184/184 and its 25–40% opening; the Tear keeps 415/415 and 4.1, 5.6 and 7.2 metres; the Mirror keeps 478/478 and forty-seven lines in nineteen tracings; the Relic keeps 500/500 read at the plinth and again in the hand; the Loom keeps 750/750 and 40, 61 and 88 metres on the beam. No figure was invented for a table that no longer has a band to put it in.
+
+**Prose swept with the table.** A *combat benefit* line in the Stall's timed-use row became attention and speed of reading; the same line in the Relic's became the certainty sharpening and the reading quickening; the Mirror's Ferrehan is *measured on the clock* rather than in turns; and the Relic's release reading is taken *at every reading* rather than at every turn.
+
+**Side codices.** One of the five has one — the Cracked Mirror's `Gauge / Pressure` row now reads *478/478; starts 35–50% / Void — no attack pattern; the influence edge and the fracture count are the reading*.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `label_lint` 0 · `check_links` 4161 links, 0 broken · `seam_lint` 0 · `timeline_lint` 0 · `check_box_symmetry` PASSED · `breach.py` unchanged at 188/301. **Fifteen converted, forty-two relic `Combat Record`s still to read.**
+
 ## Five more relics whose own rows already said they do not fight (2026-11-01)
 
 The next batch off the relic queue is the one where the file argues with itself: a movement row that says the object is fixed, and a `## Combat Record` underneath it carrying an attack band and a battle length. All five of these are spent or held rather than aimed, and each was converted on the record's own evidence rather than on how it looks.

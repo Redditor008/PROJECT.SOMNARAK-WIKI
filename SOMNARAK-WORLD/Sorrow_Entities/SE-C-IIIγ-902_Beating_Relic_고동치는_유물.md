@@ -45,51 +45,36 @@
 - Any handler whose own pulse is observed to match the relic is withdrawn at once, is not returned to the rotation that shift, and is checked again at seven days. The check is not discretionary and the reason for it is in the escalation section.
 - Extraction is a separate risk event under its own authorisation and is never scheduled on the same day as a handling.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 500/500 — read at the plinth and again in the hand; the figure tracks the bearer’s pulse rather than the watch. |
-| **Han Pressure [ATK]** | 17–26 on every strike · Grudge, taken off the beat rather than off the blow |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it is incapable of moving itself on the plinth and is carried in a handler's hand when authorised, and the record's own account of the harm is a briefing delivered through the body rather than a blow. The Grudge arrives as a grievance with a subject, a date and an amount.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium, at full duration — 16 turns, timed from first contact with the stone. |
-| **Threat Role** | Major encounter |
-| **Coherence** | Fragment (III) |
-| **Primary Pressure** | Composure |
-| **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened with the stone still on its plinth. |
-| **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-902 |
+| **Mode of presence** | A fist-sized stone of dark amber carved as a clenched hand, threaded with dried veins of Grudge Han-crystal, warm beyond the room and warmer than the hand holding it. It beats through the plinth before anybody touches it, and it has never moved itself off the stone. |
+| **Perceptible to** | The independent beat first, audible through the plinth and through the support, with no hand on it; then the warmth, and under bare contact the veins brightening to crimson. |
+| **Handling** | Carried in the bare hand only. Gloved contact produces nothing and has been tested to the satisfaction of two review boards. It is lifted and returned by a person, and it is returned to the plinth rather than set down. |
+| **Activation threshold** | 3 ignored conditions — the first sign is physical: rate, grip, breath, and nobody has ever reported the emotional change before the physical one |
+| **Sorrow Gauge [HP]** | 500/500 — read at the plinth and again in the hand; the figure tracks the bearer's pulse rather than the watch. |
+| **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened with the stone still on its plinth |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the beat legible as a grievance with a subject, a date and an amount; Ferrehan settles the tempo by staying in the room without reaching for it. Both bring the gauge down. |
+| **Location** | SECTOR-C-902, contained |
 | **Resolution Condition** | Viderehan and Ferrehan through to containment: the gauge brought down by work and never by force, with the stone back on the plinth and the hand opened slowly. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Warmth Before the Hand* [**Debuff**] } | "It is warmer than the room before your hand is anywhere near it." | [The beat climbs the plinth into the table and the floor, and the handler's own pulse answers it.] | *The handler feels Goru's weight settle against the palm.* **[10 Grudge DMG [Grudge]]** | When the handler first takes the stone's attention. |
-| { *The Second Heart* [**Attack**] } | "The tempo stops being a measurement and becomes a case." | [Dates, figures, a district, a sum — the relic is not changing; the handler is being briefed.] | *Grudge damage strikes the handler; the veins brighten to crimson and the gauge spikes.* **[21 Grudge DMG [Grudge]]** | When the handler is provoked or denied. |
-| { *The Clenched Certainty* [**Attack**] } | "Forty years of fury, compressed to amber." | [The full weight of Goru's refusal concentrates on one point, and the handler's rate climbs to meet it rather than the other way round.] | *A devastating Grudge strike; the target's Sorrow Gauge surges.* **[26 Grudge DMG [Grudge]]** | When the handler is cornered or starved. |
-| { *The Open Hand* [**Ultimate**] } | "The stone empties through the hand — what Goru held goes out with it." | [Everything the relic carried comes out in every direction, and nobody in the room is left unbriefed.] | *All personnel suffer Grudge erosion for three turns.* **[23 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Relic does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Independent Beat* [**Register**] } | It beats before anybody touches it, through the plinth, and the rate rises with the handler's anger rather than with their exertion. | The beat is counted by somebody who is not holding the stone, separately from the handler's pulse, and the handler's rate is read aloud by the second warden at every reading. | The tempo is the register, and it is why the handler is measured before the entity is interpreted. |
+| { *The Briefing* [**Exposure**] } | Dates, figures, a district, a sum. The stone is not changing: the handler is being briefed, and forty years of a specific fury arrives as a case rather than as an argument. | Four readings from the plinth on observation and endurance only, and the handler's rate taken again at release. | The exposure is information, which is why it lands without anything being thrown, and why the file treats a settled certainty as the symptom. |
+| { *The Clenched Certainty* [**Refusal**] } | It neither negotiates nor lets go. It lends the bearer Goru's certainty and charges them the ability to let anything go, and the charge is paid in full every time. | Nothing is prised from the stone and nothing is struck. Force raises the tempo rather than ending the cycle, so force is not used. | A handler who cannot hold does not panic: they become certain about a specific unfairness, named and usually accurate, and will not be moved off it for hours. |
+| { *The Open Hand* [**Overload**] } | Past the three ignored conditions everything the stone carried comes out through the hand in every direction, and nobody in the room is left unbriefed. | The stone goes back on the plinth and the hand is opened slowly, with the grievance acknowledged in a form that can be put in front of it. | Long contact leaves a tachycardia that resolves and an anger that does not, directed at a real grievance the handler had previously described as settled. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first — Beating Relic is recognised by the independent beat, audible through the plinth before contact; the warmth exceeding the room; the brightening veins; and the rate rising with the handler's anger rather than with their exertion — then the approach is set and the positions are taken.
-2. **Clash:** Four turns from the plinth, observation and endurance only. Handler rate is read aloud by the second Warden at each turn, and the relic's own tempo is counted separately and by somebody who is not holding it.
-3. **Resolution:** The cycle ends on containment, on management, on withdrawal, or on the condition the bay's standing table carries: the grievance acknowledged in a form that can be put in front of it. Nothing else has ever lowered the tempo for longer than a cycle.
+1. **What is confirmed:** the independent beat through the plinth, the warmth above room temperature, the veining at the grip, and the handler's own rate — the handler measured before the entity is interpreted.
+2. **What the watch does:** Viderehan makes the beat legible as a grievance with a subject, a date and an amount, and Ferrehan stays in the room without reaching for it. The tempo is counted by somebody not holding the stone, and the hand that took it opens slowly when it gives it back.
+3. **How it closes:** the close is the file's documented condition: **Viderehan and Ferrehan through to containment: the gauge brought down by work and never by force, with the stone back on the plinth and the hand opened slowly.**
 
 ### Consequences
 
@@ -168,7 +153,7 @@ Beating Relic is an Object of Fragment (III) coherence — Object-Body manifesta
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The stone warms past the room and the veins brighten; the beat the plinth was transmitting is now in the palm. | The relic is live: +20% melee kinetic force, Grudge resistance, and +10% resistance to Grudge damage while held. |
-| 30 Seconds | The bearer begins receiving the Battle Pits as a sequence of entirely reasonable positions, each one leading to the next, ending where it ended. | Combat benefit holds; mental burden accrues. Action speed and physical focus rise while composure falls. |
+| 30 Seconds | The bearer begins receiving the Battle Pits as a sequence of entirely reasonable positions, each one leading to the next, ending where it ended. | The benefit holds and the burden accrues with it: the certainty sharpens, the reading quickens, and composure falls. |
 | 1 Minute | The bearer's breathing takes the relic's tempo, which is faster than theirs and does not vary. | Past sixty seconds the relic inflicts 5 Grudge damage every fifteen seconds. Watch for cognitive detachment, which presents here as the bearer stopping mid-argument and starting again from the beginning. |
 | 2 Minutes | Held this long, the bearer stops distinguishing Goru's grievance from their own and will argue both as one case. | Past two minutes, or on forced detachment, acute panic follows with the full recorded tachycardia and haemorrhage effect. |
 
@@ -341,7 +326,7 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it produces the legible content.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be attempted as improvisation.
-- Keep the reading on the handler's body throughout: rate against tempo, counted by two people, at every turn and again at release.
+- Keep the reading on the handler's body throughout: rate against tempo, counted by two people, at every reading and again at release.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Object-Body · the Battle Pits riots · the allocation page · the Ward Six successor inquiry
 

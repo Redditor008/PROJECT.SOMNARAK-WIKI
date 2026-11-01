@@ -45,51 +45,37 @@
 - No breach counter. The field widens through the Gardens and its edge is walked and pegged at every session, never estimated from the last figure.
 - Extraction takes material from the field edge under separate authority, and never from the case, the plinth or the tear.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against every other register. Nothing is rated against the field, which delivers no pressure of its own: inside the radius the visitor's own grief surfaces, and contact is the only thing here that transfers grief entire |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 — read on the bench side of the case; the figure has not moved since the record began, and the radius is the number that moves. |
-| **Han Pressure [ATK]** | 10–23 on each strike · Lament — the top of that range is a visitor’s own grief coming up inside the radius, not anything the Tear gives off. |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it is suspended without support in its case and unmoved in the whole record, and the file's own attack row already said it does not sharpen, aim or fly. Nothing here has ever been struck, and in the whole record it has never been touched; what moves is the edge of the field around it.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium, at full duration — 16 turns, timed from the moment the case is opened. |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — the same four readings, taken the same way, for thirty years |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A fist-sized drop of dark blue crystal, lit faintly from inside, suspended in its case with nothing holding it up and warm to a cloth. It has not moved in thirty years. What moves is the field edge, measured at 4.1, 5.6 and 7.2 metres across three annual surveys. |
+| **Perceptible to** | The warmth first, which is the wrong way round and is the whole of the identification — if it is cold, it is not this. Then the steady inner light, best read at night, and cold rain on old cloth. |
+| **Handling** | No contact under any authority. The prohibition is the containment and it has been refused to two Directors who asked. Viderehan is conducted at the case with the opening drawing for reference; Ferrehan is sitting inside the field for the interval. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 415/415 — read on the bench side of the case; the figure has not moved since the record began, and the radius is the number that moves. |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-D-02, Echo Gardens |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the moment itself and moves the gauge not at all; Ferrehan is the sitting, and it is the row that produces the decrease. |
+| **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | No contact under any authority. The 25% figure is where the count lands, not what the watch is aiming at, on every cycle Frozen Tear has logged. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Suspended Drop* [**Debuff**] } | "A tear hangs in the air — frozen mid-fall, never reaching the ground, never finishing its grief." | [The Tear's suspended sorrow presses on the target; they feel the incomplete release.] | *Target suffers -10 Composure; the grief cannot finish.* **[10 Lament DMG [Lament]]** | When the target sees the Tear. |
-| { *The Crystal Memory* [**Debuff**] } | "Inside the frozen tear there is no memory to watch and nothing cold to read — if it is cold, it is not this. What the crystal holds is warm, and what it shows is yours." | [Looking in surfaces the viewer's own unwept grief; the holding produces permission, not pictures.] | *Target loses 10 Composure; the sorrow that surfaces was already theirs.* **[10 Lament DMG [Lament]]** | When the target looks into the Tear. |
-| { *The Ice Needle* [**Attack**] } | "It does not sharpen, aim or fly — nothing here has ever been struck, and in the whole record it has never been touched. The point, if there is one, is in the sitter." | [Duration does the work: a long sitting dissolves first the composure, then the distance between the sitter and the grief.] | *Inflicts Lament pressure, precise as a needle because it is specific to the person it found.* **[14-22 Lament DMG [Lament]]** | When the sitting outlasts the sitter. |
-| { *The Thaw* [**Attack**] } | "The thaw, once — not by warming, which the Gardens have tried across the full range without moving it a degree, but by contact, which is the one thing never authorised here." | [It has never happened under authority; the two unauthorised accounts describe the originator's grief arriving entire, in a volume greater than the crystal.] | *A heavy Deep Blue deluge; the target's Sorrow Gauge surges 15%, and the release is not repeatable within the same watch.* **[24-36 Lament DMG [Lament]]** | On contact — which no authority here has ever granted. |
-| { *The Frozen Rain* [**Ultimate**] } | "Nothing takes a rime and nothing freezes; the crystal is warm and stays warm. What happens is quieter: the field goes out past its pegs, as it did twice while the First Tear was in the sector, to the Gardens wall." | [The edge is no longer where it was pegged; it is walked and re-pegged daily for the duration.] | *All in range suffer Lament pressure for three turns inside the widened permission; the radius is walked and re-pegged before anything else is recorded.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Tear does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Four Readings* [**Register**] } | Radius, glow, warmth, outline: three of the four have never moved, and the fourth is further out every year. | All four are taken each watch and the field edge is walked and pegged physically before either Work Type begins, rather than estimated from last session's figure. | The register is the edge. The crystal is the one reading on this holding that never changes. |
+| { *The Sitting* [**Exposure**] } | Inside the radius the visitor's own unwept grief surfaces. Duration does the work: a short cycle can be stood up from, and a long one dissolves composure, body, identity and finally the room. | Rotation at thirty minutes for wardens on duty — a limit the file sets for the post and expressly not for anybody on the bench. The second warden's read ends the watch. | The hold record carries no session past the limit that ended well, and most wardens describe the posting as the easiest in the wing and the hardest to leave. |
+| { *The Untouched* [**Refusal**] } | It answers nothing. There is no exchange to manage, no bolt to dodge and no blade to turn, and in the whole record the crystal has never been touched. | Nothing is put a hand on it, nothing is leaned against the case, and no request for a sample has been granted. Two have been refused. | The absence of an exchange is the containment: a holding whose entire method is that nobody touches it. |
+| { *The Field Edge* [**Overload**] } | The edge goes out past its pegs and the permission reaches further into the Gardens, as it did twice while the First Tear was in the sector. | The edge is walked and re-pegged before anything else is recorded, and the widened permission is entered rather than carried forward from last year's figure. | What widens is permission, not pressure: nothing in the field delivers grief of its own, it lets the visitor's own through. |
+| { *The Bench* [**Attachment**] } | People come to sit near it and do not touch it, and the file holds the bench inside the field as the reason the holding is visited at all. | Personnel who work the holding are asked afterwards whether they sat, and the file records what they report without treating it as a symptom or a cost. | Workers sit with people longer, ask fewer questions, and several report weeping for the first time in years — a change the file records because it is relevant, not because it is damage. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The markers are checked in a fixed order — the fist-sized tear of dark blue crystal, warm rather than cold, faintly lit, suspended and still, with the smell of cold rain on old cloth — and the designation is confirmed against the opening drawing, which is the oldest document in the folder and the reference the file keeps in preference to a photograph. The field edge is walked and pegged before the cycle opens rather than estimated from last session's figure.
-2. **Clash:** Nobody touches it. Viderehan is conducted at the case with the drawing for reference; Ferrehan is sitting inside the field for the interval without reaching for it. The field edge is walked and marked physically before either begins.
-3. **Resolution:** The watch ends in containment, in management, in retreat, or at the suppression condition entered for the bench: **no contact under any authority, in a watch that leaves the bench unrecorded**. The 25 per cent figure is the consequence of that and never the objective, on every Frozen Tear cycle logged.
+1. **What is confirmed:** the four readings in their fixed order, the field edge against the pegs, and the opening drawing — the oldest document in the folder and the reference the file prefers to a photograph.
+2. **What the watch does:** Viderehan is conducted at the case with the drawing for reference while Ferrehan sits inside the field for the interval. Nothing reaches for the crystal, the edge is marked physically before either begins, and the watch is ended by the second warden's read.
+3. **How it closes:** the close is the file's documented condition: **No contact under any authority** — the 25 per cent figure being where the count lands and never what the watch is aiming at, on every Frozen Tear cycle logged.
 
 ### Consequences
 

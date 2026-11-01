@@ -45,51 +45,36 @@
 - No breach counter applies because the manifestation is mobile. Position at contact is recorded as a bearing from the market gate at every session.
 - Residue from the stall surface is the extraction source, under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 20% against Void pressure; 10% against other pressure types — and the second figure is arithmetic only, because nothing on this holding attacks. The failure here is a purchase, and the ledger records what the buyer agreed to pay. |
-| **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 184/184 |
-| **Han Pressure [ATK]** | 2–8 per hit · Void |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says it does not move while it stands, and is never twice in the same place — the relocation happens between appearances and never during one — and the resistance note says nothing on this holding attacks. The failure here is a purchase, and the ledger records what the buyer agreed to pay.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Short — 10 turns |
-| **Threat Role** | Minor encounter |
-| **Coherence** | Echo (II) — Repeats appearing overnight |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A market stall of ordinary wood, cloth and rusted iron, standing in the abandoned commerce district after dark, lit and trading with nobody behind the table. Its stock varies with every appearance and the height of the table has differed by almost half a metre across the record. It is never twice in the same place; while it stands it does not move. |
+| **Perceptible to** | The labels first — each goods ticket describing a lost life or moment in handwriting the reader half-recognises — then the warm patch the ground keeps after it has gone, and ash on the air. |
+| **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up; a worker who has picked something up puts it down, says so aloud, and is logged as having done it. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 184/184 — the containment meter, read at the table |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Difficulty** | Low · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone B, Forgotten Market — mobile manifestation |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the histories the goods carry and moves the gauge not at all; Ferrehan endures the offers, which is the row that brings it down. |
+| **Location** | Zone B, Forgotten Market — mobile manifestation |
 | **Resolution Condition** | The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up; the gauge at the close must be below 25%. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Empty Stall* [**Debuff**] } | "The stall is open, the wares are set out, and there is no one behind the table and no one who remembers setting it up." | [The abandonment the stall is made of reaches the customer.] | *Target suffers a Void mark; they begin to feel themselves going unremembered.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target comes up to the table. |
-| { *The Worthless Goods* [**Debuff**] } | "Everything on the table is the thing nobody chose — the plain loaves, the mended boots, the purchases nobody remembers making." | [The stall sets out the ordinary goods no one wanted.] | *Target loses clarity; the ordinary things hold their attention.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target browses. |
-| { *The Dust Burst* [**Attack**] } | "Nothing bursts and nothing is handed to you. The dust is on the cloth where it settled years ago, and it stays there; what lifts is the label you are copying." | [No cloud engulfs anybody — aggression ends the encounter by making the stall absent. The wear is slower: a described life, read word for word, that the reader cannot account for afterwards.] | *Inflicts Void damage; not erosion by dust but a small unaccounted absence noticed only when somebody asks.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker turns an item over or takes one up instead of copying its label. |
-| { *The Fire Sale* [**Attack**] } | "The whole inventory does not go at once. It improves, item by item, until the best thing on the table is addressed to whoever is standing at it in all but name." | [The stall cannot be demolished; pressed, it is simply absent and the night is lost. The avalanche is commercial — a rising curve of better goods and more specific labels.] | *A heavy Void pressure; the target's Sorrow Gauge climbs 15% as the argument for one acceptable acquisition completes itself aloud.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | At the top of the stock-improvement curve, when the shift should already have ended. |
-| { *The Abandoned Market* [**Ultimate**] } | "Every pitch in the district is empty — that is not the event, that is the district. The event is one pitch occupied, lit, and trading with nobody behind the table." | [The abandonment spreads nowhere; it was completed years ago, tenancy by tenancy, with no closure order ever issued. What the watch stands in is the one exception to it.] | *All in range take Void erosion for three turns of the occupied pitch in the emptied market.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% and a member of the public is at the table. |
+| Event | What the stall does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Bearing* [**Register**] } | It appears somewhere in the market overnight, and the position is never repeated: the shape differs at every appearance and the stall can only be found by its labels and the warm ground it stands on. | The bearing and distance from the market gate are fixed to the nearest metre before anything else is written, then the frame, then the stock item by item. | The bearing is the one field the file would be useless without, and it is taken fresh at every session rather than from the last entry. |
+| { *The Price* [**Exposure**] | Standing at the table for a long shift turns the goods from tempting to reasonable, and the argument for one acceptable acquisition assembles itself without the worker noticing it being made. | Anyone who has taken an item up puts it down, says so aloud, and is logged; the entry carries no fault and exists so that the count stays honest. | The harm is commercial, not physical: the price is agreed rather than taken, and it is paid in coin, a button, or a small memory the buyer judged unimportant at the time. |
+| { *The Absence* [**Refusal**] } | It does not fight and cannot be demolished: aggression ends the encounter by making the stall absent, the ledger closing on whatever had already been copied. | Force is not used on this holding at all, and no item is taken up to provoke a response. What could not be copied is entered as outstanding. | The refusal is absence. Pushed, the stall is simply not there, and the night is lost rather than won. |
+| { *The Fire Sale* [**Overload**] } | Past the top of the curve the stock improves item by item, and the labels grow more specific until the best thing on the table is addressed to whoever is standing at it in all but name. | The watch ends at the top of the curve and the worker is replaced; the stock is entered as found and the labels as copied, at first light. | The rise reads in the stock rather than in the gauge: fewer and plainer items with labels that describe nothing much mean the cycle is going well. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The stall is identified by the labels and by the warm ground it leaves behind, never by its shape, which differs at every appearance, and never by its position, which is never repeated. The bearing and distance from the market gate are fixed first, to the nearest metre, because that is the one field the file would be useless without; then the frame — trestles, cloth, the height of the table, which has varied by almost half a metre across the record — and then the stock, item by item, with every label copied and nothing turned over.
-2. **Clash:** Viderehan and Ferrehan only, worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is taken up. A worker who has picked an item up puts it down, says so aloud, and is logged as having done it; the entry carries no fault and exists so that the count stays honest.
-3. **Resolution:** The watch ends at first light with the labels copied, the outline chalked, the ground temperature taken at the centre and at four marked points, and nothing taken up. The resolution this file recognises is a night on which no member of the public bought anything: the gauge closes below 25%, the stock is entered as found, and what the stall remembers is left standing where it is.
+1. **What is confirmed:** the bearing and distance from the market gate to the nearest metre, the height of the table, and the ground temperature at the centre and at four marked points, all taken before the stock is read.
+2. **What the watch does:** Viderehan copies labels from the public side of the table and Ferrehan endures the offers for the hours of darkness. Nothing is turned over, nothing is taken up, and anybody who does take something up says so before the entry is closed.
+3. **How it closes:** the close is the file's documented condition: **The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up; the gauge at the close must be below 25%.**
 
 ### Consequences
 
@@ -186,7 +171,7 @@ Forgotten Market Stall is an Object/Place with Object-Void manifestation and Voi
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The stall is already set up when the piece is taken up, and its first movement is the cloth — the fold at the corner lifting, then settling, as though somebody behind the table had just come back. | Equipping the piece manifests the primary effect: impossible goods, with purchased memories experienced as if personally lived, and Void resistance +10% while it is held. |
-| 30 Seconds | The bearer begins reading the labels, and the labels begin describing the bearer's own district — the pitches, the tenancies, the lapses over about four years that the ward's tenancy record lists one by one. | The piece returns combat benefit and begins accumulating mental burden: focus and action speed rise while composure pays for them. |
+| 30 Seconds | The bearer begins reading the labels, and the labels begin describing the bearer's own district — the pitches, the tenancies, the lapses over about four years that the ward's tenancy record lists one by one. | The piece returns its benefit as attention and speed of reading, and begins accumulating mental burden: the faster the labels come, the more composure pays for them. |
 | 1 Minute | The price starts being taken in small change: a memory of a shopfront, the name of a neighbour's child, a coin that was in a pocket yesterday and cannot be accounted for. | Continuous use past sixty seconds inflicts 5 Void damage every fifteen seconds, and the second worker watches for the moment the wielder stops being able to say what has gone. |
 | 2 Minutes | The table turns to business. The stock improves, the labels grow specific, and the wearer begins constructing the argument for one item being an acceptable acquisition — an argument that is always a good one. | Beyond two minutes, or forcing detachment, brings acute panic; the bearer takes the buyer's risk: a memory that never belonged to them, or a small personal memory gone as payment. Both are logged. |
 

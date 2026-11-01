@@ -45,51 +45,36 @@
 - No breach counter. The influenced radius near the Gates widens, and its edge is re-marked from scratch at every session because a carried-over mark has twice been wrong by several metres.
 - Residue is recovered from the frame under separate authorisation, from the beam and never from the weave; the distinction is the painted line and is not discretionary.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 40% against Lament pressure; 30% against other pressure types. The 750/750 stat line and the 18–41 attack band are carried because the encounter sheet requires them; nothing on record has ever struck the loom and the two refusals on file were won by the weave rather than by the frame. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |
-| **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 18–41 per hit · Lament |
-| **Coherence modifier** | IV — affects behavior complexity and response speed |
-| **Potency modifier** | γ — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row gives a stationary device whose internal parts may move, and on this holding the moving part is the weave: nothing on record has ever struck the loom, and the two refusals on file were won by it. The two refusals on file were won by the weave, and what the loom does to a worker is show them, accurately, the life they were preparing for.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 20 turns |
-| **Threat Role** | Major encounter |
-| **Coherence** | Entity (IV) — self-directed, inventive, and accurate about people it has never met |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A loom of pale crystallised Dream-stuff, taller than the chamber's doorway, cold and salt-damp. The shed opens, the shuttle crosses and the beam takes up continuously with no hand on it and no power to the frame, at a rate that has not varied in a century. The frame is fixed and the weave is not. |
+| **Perceptible to** | The shuttle first — the eye follows it before the mind has decided the frame is running — then the finished length on the beam, which is the only number on this holding that changes: 40, then 61, then 88 metres. |
+| **Handling** | Nothing is cut and nothing is stopped by hand. The frame is worked from beyond the painted line, the length is read off the beam and entered whether or not it has moved, and the shuttle's rate is timed over fifty passes rather than followed. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 750/750 — read off the frame at the paint |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, near Dream Gates |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer, in full, what they were preparing for and holds the gauge while doing it; Ferrehan stays inside an unfinished future for the timed interval and brings the gauge down. |
+| **Location** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | The timed rotation ends, the watch closes at the clock, and the gauge falls below 25% — the condition being satisfied by the roster rather than by anything the worker concludes about themselves. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Thread* [**Debuff**] } | "A thread of dreamstuff drifts from the loom — and where it touches your skin, you begin to see things that are not there." | [Contact opens the weave: a room the visitor recognises and has never been in arrives around them.] | *The worker loses Clarity as waking and dreaming blur. Name the current physical anchors aloud, read the clock, and let the sealed pair separate to opposite faces.* **[10 Lament DMG [Lament]]** | When a thread is touched or a Dream Chamber inside the marked radius is entered. |
-| { *The Tightening Weave* [**Debuff**] } | "The loom works faster — and the fabric it produces wraps around your thoughts, threading dream into mind." | [The current room receives a woven detail that should belong only to a dream — a second window, a different street — and the worker's answers shorten.] | *The worker loses Clarity. The witnessed desire is recorded as desire, never as an instruction to act; the duty officer keeps a hand on the rotation.* **[10 Lament DMG [Lament]]** | When the first warning appears: a dream-only detail woven into the current room. |
-| { *The Cut Thread* [**Attack**] } | "A thread snaps — and the severed end whips out, sharp as a blade." | [Interrupted weaving turns the dream into a hostile room around whoever used force.] | *Heavy Lament pressure on the interrupter. Hands off thread and shuttle: close the channel by intent, name both anchors, and withdraw across the paint.* **[14-22 Lament DMG [Lament]]** | When a thread is cut or the shuttle is stopped by force. |
-| { *The Full Tapestry* [**Attack**] } | "The loom releases its completed work — a tapestry of every dream it ever wove, falling over everything." | [An overfed dream stops overlaying the room and replaces it: four physical rooms adjacent to the frame are on record, each restored when the weaving ended.] | *A heavy Deep Blue cascade across the replaced room; the cloth on the beam does not shorten. Clear the adjacent room, hold both anchors, and allow the dream to fade at its source rather than living inside it.* **[24-36 Lament DMG [Lament]]** | When a channel is prolonged past its timed mark and the dream begins replacing current sensory reality. |
-| { *The Woven World* [**Ultimate**] } | "The loom does not stop — it weaves dream into every surface — until the whole field is inside one endless dream." | [The Loom extends its weaving across the entire area, and the fabric it weaves out of the room is accurate: the wing, the Gates, and the future each person in it was preparing for.] | *All in range suffer Lament pressure for three turns inside the woven dream. The pressure does not fall when the weaving ends; it falls when the crew is rotated off the frame, and a response that stays on past its clock powers this action rather than ending it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the 75% activation threshold with exposure carried past the rotation — a function of the stayed-past-the-clock worker, not of anything the loom does. |
+| Event | What the Loom does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Shuttle* [**Register**] } | The shed opens and the shuttle crosses to no hand at a rate that has not varied in a century, and the completed weave is taken up on the beam. | The rate is timed over fifty passes, the finished length is read off the beam, and the painted boundary is checked before the clock is set for anybody. | The length is the register whether or not it has moved, and the file's whole position is that a method producing sealed, repeatable evidence about an unexplained thing is not made worse by the thing staying unexplained. |
+| { *The Accurate Room* [**Exposure**] } | The weave returns a room the visitor recognises and has never been in — a second window, a different street — and then the future they were preparing for, complete, warm and theirs. | Both anchors are named aloud and the clock read; the two sealed accounts are taken from opposite faces of the frame by people who do not confer, and nobody consults their own sense of how they are doing. | What is shown is accurate, which is why an accurate offer is harder to refuse than a false one, and why a settled assessment of "fine, actually" is the symptom rather than the all-clear. |
+| { *The Painted Line* [**Refusal**] } | It does not tire, does not chase and does not strike. Nothing on record has ever struck the loom, and the two refusals it defeated were argued coherently by people who knew exactly where they were. | The line is repainted only on the duty officer's order, and the arguments from outside the paint are entered as the failure mode rather than as the ending. | Withdrawal at the clock is a resolution on this file and is entered without prejudice, which is the one thing about this holding that has to be written down before it happens. |
+| { *The Replacement* [**Overload**] } | Past the rotation the dream stops overlaying the room and replaces it: four physical rooms adjacent to the frame are on record, each restored when the weaving ended, and the pressure falls when the crew is rotated off rather than when the weaving stops. | The rotation runs to the clock and no longer; a response that stays past its clock powers the holding rather than ending it, and a worker who declines to leave is met from outside the paint. | Left unresolved the holding does not raze the sector: it keeps weaving, and the length is longer at the next return. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The marker is checked — a loom of pale crystallised Dream-stuff, cold and salt-damp, the shuttle crossing to no hand, and a painted line on the floor between the frame and the weave — and the frame is confirmed against the designation `C-IVγ-176`. The finished length is read off the beam, the shuttle timed over fifty passes, the radius walked and re-marked, and the clock set before anybody steps past the paint. On this file the clock is the containment, and the preamble is where it is wound.
-2. **Clash:** Ferrehan runs inside the radius for the length of the timed rotation while Viderehan takes the two sealed accounts from opposite faces of the frame. Nobody confers between accounts, and nobody consults their own sense of how they are doing — the whole working instruction on this holding reduces to the clock, the paint, and the seals. The record's own engagement runs twenty turns at 40% resistance; the loom does not tire first.
-3. **Resolution:** The rotation ends at the clock and the watch closes; the gauge falls below 25% and the length is measured and entered whether or not it has moved. Withdrawal at the clock is a resolution on this file, entered without prejudice — two workers in the record declined to leave and were argued with, at length, by people standing outside the paint, and the file treats those arguments as the failure mode rather than the ending.
+1. **What is confirmed:** the finished length on the beam, the shuttle's rate over fifty passes, the condition of the painted boundary, and the clock — the preamble being where the clock is wound, because on this file the clock is the containment.
+2. **What the watch does:** Ferrehan runs inside the radius for the length of the timed rotation while Viderehan takes the two sealed accounts from opposite faces of the frame. Nobody confers between accounts, nobody cuts a thread, and nobody stops the shuttle by hand.
+3. **How it closes:** the close is the file's documented condition: **The timed rotation ends, the watch closes at the clock, and the gauge falls below 25% — the condition being satisfied by the roster rather than by anything the worker concludes about themselves.**
 
 ### Consequences
 
