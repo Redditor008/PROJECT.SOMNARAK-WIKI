@@ -164,13 +164,13 @@ Somnarak's Work Type table (Response + Gauge Change per type) maps directly to L
 | **M.A.W.** (Materialized Agony Wear) | **E.G.O** (Extermination of Geometrical Organ) | Equipment extracted from entities. Somnarak = M.A.W. L Corp = E.G.O. Do not mix terms. |
 | **M.A.W. Weapon** | **E.G.O Weapon** | Somnarak: M.A.W. Weapon. L Corp: E.G.O Weapon. Changes damage type and attack value. |
 | **M.A.W. Suit (Armor)** | **E.G.O Suit** | Somnarak: M.A.W. Suit. L Corp: E.G.O Suit. Changes damage resistances. |
-| **M.A.W. Gift (Accessory)** | **E.G.O Gift** | Somnarak: M.A.W. Gift. L Corp: E.G.O Gift. Passive stat buff, random acquisition. |
-| **M.A.W. Grade: α** | **E.G.O Grade: ZAYIN** | Lowest tier equipment |
+| **M.A.W. Stigma (Accessory)** | **E.G.O Gift** | Somnarak: M.A.W. **Stigma** — the archive's word, and the only one to write on this side. L Corp: E.G.O Gift. Passive buff, bestowed at random on a successful work rather than bought, and filed with `Acquisition Probability` beside a `Maximum Amount` of 1–5. |
+| **M.A.W. Grade: α** | **E.G.O Grade: ZAYIN** | Lowest tier equipment. The grade pairs with a risk level only on the diagonal — the level itself is set by Threat Score (Coherence + Potency), so a δ piece from an ω source grades by the piece, not by the source |
 | **M.A.W. Grade: β** | **E.G.O Grade: TETH** | |
 | **M.A.W. Grade: γ** | **E.G.O Grade: HE** | |
 | **M.A.W. Grade: δ** | **E.G.O Grade: WAW** | |
 | **M.A.W. Grade: ω** | **E.G.O Grade: ALEPH** | Highest tier; forbidden/experimental |
-| **M.A.W. Corrosion** | **E.G.O Corrosion** | Equipment "turns" on the user; entity personality overtakes wearer |
+| **M.A.W. Corrosion** | **E.G.O Corrosion** | Four cumulative stages — Whispers, Bleed, Merge, Takeover — driven by overuse, misuse, neglect or conflict, not by an emptied SP pool. Stage four dominates the mind; it does not fuse the body. A piece that has become part of its bearer is the separate **fused singular M.A.W.** class. |
 
 ---
 

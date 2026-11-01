@@ -8,6 +8,37 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The conversion guide, read against the world instead of against itself (105)
+
+The guide has been corrected four times, and every one of those passes checked it against **its own checklist**. This one checked it against the **archive**: every code against the file that holds it, every number against the table that authors it, every Korean spelling against the canon that files it. The checklist was clean in each of the cases below. The world was not.
+
+**Twelve findings, and the largest is a system the guide had been teaching wrong.**
+
+| What the guide said | What the archive says |
+|---|---|
+| Protocol 02: `C-Iα-071` → `C-IIIγ-071b` *Patient Martyr* → `C-Vω-071c` | → `C-Iβ-071b` *The Blessing Giver* → `C-IIγ-071c` *The Apostle Maker* → `C-Vω-001 [LS]` *Dawn of Mourning*. The number carries the chain; the grades move inside it |
+| Four P = **Pass · Pan · Par · Po**, with Korean glosses | **P1 Passives · P2 Panic · P3 Parry · P4 Posture** — the engine's four pillars, and the tactical template calls them mandatory. The glosses (통과, 판단, 받아침, 방어) name nothing |
+| Works as 관조한 · 인내한 · 통곡한 · 격투한 | 비데레한 · 페레한 · 플레레한 · 푸그나한 — Latin roots welded to Han, with the world's four titles |
+| Speed 1–2 → 2 AP … **7+ → 5 AP** | 2–3 → 2 · 4–5 → 3 · 6–7 → 4. **Four is the ceiling**; a Speed 8 vanguard still files 3–4 |
+| "Tactical speed" and "Han yield" as per-tier columns | Neither is a filed field. A dossier's `Speed` is **metres per second pursuit pace** and awards no AP; yield is written in words, per work |
+| Stagger bar 90–180 / 180–300 … | A threshold, not a band. Where a pool is filed it belongs to a **part** — `Carapace Plating (HP: 1,100 · Stagger: 400)` |
+| Six-turn combat phase = the fight | Six turns is one **macro phase**; encounters run 10 short · 16 standard · 20+ major |
+| Three pieces per source | Three **kinds**, and up to **five copies of each** — the R-37 ceiling, now §VIII.5 |
+| Four elements | Four elements, **Mixed** as a fifth filing, and **Hope** as a fifth damage vector that PM has no counterpart for |
+| Relic log as a four-tier I–IV table | 이야기 보고 — numbered entries unlocking at higher Comprehension, first entry the containment description, last the daily use |
+| R.D. gates, unnamed | **Trace · Basic · Advanced · Deep · Sovereign** |
+| Badges `[Can Benefit the Facility / Operative]` | `[Can Benefit Facility]` · `[Capable of Alteration]` · `[Capable of Instadeath]` |
+
+**What was missing rather than wrong** is now written in: the **1:1 rule** (a dossier's Gauge enters play at its own figure — the tier multipliers belong to the crossing in from L Corp and are never applied twice), the **work-tier structure of the four watches** (three entities per colour spectrum per watch, sixty in the matrix; readings filed in mHb), and the **whole stock law** — §VIII.5 carries the ceiling, the band words, the four decrements, the fusion distinction, the Stigma's two figures, and the field survey.
+
+**Every live "gift" is gone.** Two survived batch 86 in the places nobody re-read: case study X.1's `Thorn Halo (gift, …)` and checklist line 09's *Weapon, suit and gift assigned across the five weight classes*. The checklist line also asserted a weight-class rule §VIII.2 explicitly denies — the five classes are design vocabulary, never a schema row. Both rewritten, and the companion **table**'s `M.A.W. Gift (Accessory)` row now maps **Stigma → E.G.O Gift**, keeping the L-Corp word on the L-Corp side where it belongs.
+
+**Two counts corrected against the files:** keeper notes 27 → **26**, and §X.3's `SE-C-Vω-001 [MS]` → **`[LS]`**, which the same section's own explanation had already been contradicting two paragraphs down.
+
+**Six new checklist lines** close the class of defect this pass found — 26 stock, 27 decrement, 28 Stigma figures, 29 no invented price, 30 speed, 31 work names — so the next reader is asked about the things that were invisible while the old list was passing.
+
+**Gate:** `check_links` 0 broken (4,289 links) · `check_stat_bands` PASS · `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## The corrosion opener, second batch (104)
 
 **Eighteen more, and 121 is now 103.** The sentence is still `Treating the response as autobiography reproduced the wound and fixed the rule.` — it survives here because these records carry a **source-trace doctrine** clause one line above it, and the doctrine is what the replacement is built from: the record already says what the piece does *and* what happens when it is read the wrong way, so the sentence only has to say the reading out loud.

@@ -50,9 +50,9 @@ Early Somnarak material ("Old P.S.") inherited inflated 10,000 HP bars from gene
 
 Every standard contained entity, Ranks I through IV, sits inside a calibrated 150–1,000 HP band. The band exists because the engine around it is small:
 
-- the **10-Node Linear Spatial Grid**, where an operative's Speed buys 2–5 Action Points per round;
-- the **dual-threshold stagger**, with 60% as partial stagger (a limb or a queued attack slot disabled) and 0% as terminal meltdown (full vulnerability);
-- a **six-turn combat phase**, which is the length at which a fight stays tense instead of grinding.
+- the **10-Node Linear Spatial Grid**, where an operative's tactical Speed buys 2–4 Action Points per round (§IV.1);
+- the **dual-threshold stagger**: a body part below **60%** of its own pool ruptures and loses its skills for a turn, while a body whose **Composure** reaches **0** takes the terminal stagger — collapse, no action slots, maximum critical damage on every part. The two thresholds read different pools, and a conversion that applies both to the HP bar has halved the engine;
+- a **six-turn macro phase** — turns 01–05 skirmish, turn 06 is the phase climax, and the phase-end resolution raises ambient Han saturation by 10% and ticks bleed, corrosion and resonance. A fight is not six turns: the battle system lengths encounters at **10 turns short, 16 standard, 20+ major**, and the phase is the unit those lengths are built from.
 
 ### II.2 Sovereign calamity raids — 1,000 to 12,000 HP
 
@@ -69,15 +69,23 @@ Landmasses, oceans and regional climates are **Planetary Geography Features**, n
 
 ## Section III: Statistical conversion matrix
 
-| PM risk level | Threat Score | Diagonal pair (rank / grade) | Sorrow Gauge (HP) | Han Pressure (ATK) | Han yield | Tactical speed | Stagger bar (60% / 0%) |
-|---|---|---|---|---|---|---|---|
-| **ZAYIN** | 2–3 | Rank I — Residue / Grade α — Minor | 150–300 | 06–14 | 08–16 | 1–3 slow | 90–180 / 0 |
-| **TETH** | 4–5 | Rank II — Echo / Grade β — Moderate | 300–500 | 12–22 | 14–22 | 2–4 standard | 180–300 / 0 |
-| **HE** | 6 | Rank III — Fragment / Grade γ — Major | 500–750 | 18–35 | 20–30 | 3–5 swift | 300–450 / 0 |
-| **WAW** | 7–8 | Rank IV — Entity / Grade δ — Critical | 750–1,000 | 30–55 | 28–40 | 4–6 rapid | 450–600 / 0 |
-| **ALEPH** | 9–10 | Rank V — Sovereign / Grade ω — Catastrophic | 1,000–12,000 | 50–80+ | Sovereign / macro | Instant / teleport | Multi-phase |
+| PM risk level | Threat Score | Diagonal pair (rank / grade) | Sorrow Gauge (HP) | Han Pressure (ATK) |
+|---|---|---|---|---|
+| **ZAYIN** | 2–3 | Rank I — Residue / Grade α — Minor | 150–300 | 06–14 |
+| **TETH** | 4–5 | Rank II — Echo / Grade β — Moderate | 300–500 | 12–22 |
+| **HE** | 6 | Rank III — Fragment / Grade γ — Major | 500–750 | 18–35 |
+| **WAW** | 7–8 | Rank IV — Entity / Grade δ — Critical | 750–1,000 | 30–55 |
+| **ALEPH** | 9–10 | Rank V — Sovereign / Grade ω — Catastrophic | 1,000–12,000 | 50–80+ |
 
 **Risk is filed by score, not by the diagonal.** Threat Score is Coherence rank + Potency rank (I/α = 1 … V/ω = 5), and the sum sets the level exactly as the Universal Table's Chapter 4 sets it: 2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH. The pair in each row is the diagonal centroid — the common read, not the only legal one. Most bodies sit off it: *The Maw* is IV + ω = 9 and files ALEPH, and a ω + I body is 6 and files HE. Convert a source risk level by choosing any pair that sums to it, and write the pair down beside the score.
+
+**Two numbers are filed, and only two.** A dossier states `**Sorrow Gauge [HP]**` and `**Han Pressure [ATK]**`, and this table is the band both are checked against — `tools/check_stat_bands.py` takes its floors and ceilings from the rows above, so a conversion that widens a band here has widened the audit. Nothing else on the stat line is a per-tier figure:
+
+- **Speed is not one of them.** A dossier files `| **Speed** | 2.80 m/s |`, which is **pursuit pace** — overland chase speed. Tactical Speed is a separate 2–7 band that buys Action Points (§IV.1), and the two never convert into each other. The Stormscale's 14 m/s is the standing example: it is a chase rating and awards no AP. No mobile Sovereign has ever been encountered in a tactical log; the only Sovereign with an attested tactical Speed is the stationary Final Door at 2.
+- **Yield is not a number.** The Absolvohan files yield in words and per work type — Viderehan produces the steadiest and lowest-risk yield, Pugnahan the highest from volatile holdings at the price of immediate physical risk — and no dossier files a numeric yield anywhere. A conversion that writes one has invented it.
+- **Stagger is a threshold, not a tier band.** The 60% part rupture and the terminal Composure 0 in §II.1 are conditions inside the engine, and no dossier files a stagger figure on its stat line. Where a stagger pool *is* filed, it is filed on a **part** — `Segmented Carapace Plating (HP: 1,100 | Stagger: 400)` on a multi-part boss — because pools belong to the things that can be broken, not to the rank.
+
+**The Gauge does not shrink at the table.** A dossier's Sorrow Gauge converts **1:1** into tactical HP — no scaling, no rank multiplier — so a 720/720 record enters play at 720. The tier multipliers in §III.1 belong to the crossing in from L Corp; applying them a second time on the way to the table is the one arithmetic error this section exists to prevent. A multi-part body splits its total into per-part pools, and the parts — never the pooled total — are the damageable unit.
 
 ### III.1 Reverse arithmetic
 
@@ -142,14 +150,21 @@ Project Moon's abstracted clash slots and dice are replaced by a deterministic g
 
 ### IV.1 Speed to Action Points
 
-Speed does not roll for turn order; it buys the round's budget.
+Speed does not roll for turn order; it buys the round's budget. **One Action Point purchases one die** — attack, defense or maneuver — and unspent AP is lost at the end of the turn.
 
-| Speed | AP | What it covers |
+| Tactical Speed | AP per turn | Attested at this band |
 |---|---:|---|
-| **1–2** | 2 | A move or a single light strike |
-| **3–4** | 3 | Standard pacing: move and strike, or a double guard |
-| **5–6** | 4 | Rapid repositioning and queued heavy skills |
-| **7+** | 5 | Apex pacing: multi-node dashes and finishers |
+| **2–3** | 2 | Stationary barriers, siege engines, the Final Door (Speed 2, stationary) |
+| **4–5** | 3 | Vault wardens (Speed 5), Archive Lead Marjuk (Speed 4) |
+| **6–7** | 4 | Echo-Core field operative Xyan (Speed 7), the Frozen Veil (Speed 6) |
+
+**Four is the ceiling.** The band tops out at 4 AP, and the role table in the battle system reads inside it rather than beside it — a Vanguard Skirmisher at Speed 5–8 files 3 to 4 AP, a Ballast Heavy at 2–4 files 1 to 2. A Speed Band effect such as a time-slip's −1 moves the body one row down for the stated duration; AP already spent is not refunded.
+
+**A dossier's metres per second never enters this table.** Pursuit pace is chase speed over ground, tactical Speed is grid bandwidth, and the crossing between them is not filed anywhere. A conversion that reads 14 m/s as Speed 14 has handed the Stormscale a budget no operative in the archive holds.
+
+### IV.1a Reading a stat line into the engine
+
+A converted body enters play with four numbers: the Gauge it defends, the Pressure it deals, the tactical Speed that sets its AP, and the Range Band its attack reaches. The first two come from the tier table in Section III; the second two are **assigned at conversion and written down**, because neither is derivable from the other and no dossier files them together.
 
 ### IV.2 Range bands and falloff
 
@@ -161,16 +176,22 @@ Speed does not roll for turn order; it buys the round's budget.
 | **4** | 7–8 | Han carbines, precision needles, bows | Needs standoff distance; penalised at Bands 1–2 |
 | **5** | 9–10 | Siege cannon, planetary acoustic projectors | Covers the field; requires stationary firing turns |
 
-### IV.3 The Four P framework
+### IV.3 The Four P-Framework
 
-When an entity attacks, the defender spends AP on one of four reactions.
+The engine stands on four pillars, and a conversion inherits all four whether or not its record names them.
 
-| Reaction | Korean | Effect |
+| Pillar | What it governs | The figure it reads |
 |---|---|---|
-| **Pass** | 통과 / *Tong-gwa*, evasion | Rolls Composure against attack speed; full avoidance and one node backward |
-| **Pan** | 판단 / *Pan-dan*, deflection | Uses weapon balance to redirect 50% of the damage to the nearest empty adjacent node |
-| **Par** | 받아침 / *Bada-chim*, parry | Clashes weapon to strike; if the operative's roll wins, the entity takes +10 Stagger |
-| **Po** | 방어 / *Bang-eo*, absolute guard | Braces behind armour or shield; absorbs by Armor Weight Class and ignores knockback |
+| **P1 — Passives** | Innate biological, mental and M.A.W. traits; a trigger fires automatically when its condition is met | none — the condition is the trigger |
+| **P2 — Panic / Composure** | Psychological resilience against acoustic Han | **Composure pool 0–100**: at **≤25** accuracy, speed and advanced skills degrade; at **0** the body breaks — incapacitated for a turn, every defence dropped, 100% vulnerability |
+| **P3 — Parry / Protection** | Clash resolution when two units target each other in mutual range | **the clash roll**: both roll, higher wins, the margin becomes Posture strain on the loser, ties favour the defender; active cover adds +30% against ranged fire |
+| **P4 — Posture / Poise** | Physical balance and skeletal integrity against kinetic and Weight pressure | **Posture pool 0–100**: at **0** the body is knocked back a node, loses its remaining AP and enters Stagger |
+
+**A converted entity fills all four.** Its passives come from its own record; its Composure is the mind-side reading of its gauge, never its HP; its clash dice are its attack pattern; and its Posture is what a strike through the guard costs it. A conversion that files damage and speed and nothing else has written P3 alone and left three pillars unstated.
+
+**The dice are flat ranges.** Every die rolls as a range — Gash 6–10 rolls six to ten — and the four offense dice (Gash, Bludgeon, Skewer, Burn) meet the three defense dice (Block, Evade, Counter). Block is the shield-wall member of the parry family: wardens Block where unshielded operatives Parry, and the resolution is identical either way.
+
+**The pillars are not a menu of defensive reactions.** An evasion is a defence die, a deflection is a clash lost by a margin, and an absolute guard is Block behind cover. Reading the four P's as four things a defender may choose between loses P1 and P2 entirely, and they are half the engine.
 
 ---
 
@@ -184,6 +205,10 @@ The four PM damage types map onto the four expressions of Han.
 | **WHITE** | Sanity | **Lament** (Deep Blue) | 탄식 / *Tansik* | Cryogenic wailing, spiritual freezing, Composure drain. Inflicts **Numbness** (−1 Speed) and **Acoustic Despair** |
 | **BLACK** | HP and SP | **Weight** (Black) | 무게 / *Muge* | Gravitational burden, unpayable civic debt. Inflicts **Burden Stacks** (higher movement AP cost) and dual attrition |
 | **PALE** | % of max HP | **Void** (Pale White) | 공허 / *Gongheo* | Existential erasure, white silence. Deals true percentage damage (1 unit = 5% max HP) and bypasses physical armour |
+
+**The Element field takes a fifth value the PM table has no source for.** A Somnarak record may file `Mixed` — it cycles all four over time — and the bracket keeps `M` for exactly that case (§III.3). PM files no mixed damage type, so a conversion that ends up Mixed has built it out of the body's own alternation rather than translated it.
+
+**Hope is native-only, and it is not a resistance.** The tactical engine's damage table carries a fifth vector above these four: **Hope** — Dawn-grade ordnance, Sovereign-tier only, whose work is to reset breaking points rather than to deal a type. The entity codex reserves capital **Ω** for Hope Intensity alone, lowercase ω staying Catastrophic Potency, and the fourteen Hope Transformations (HT-001 … HT-014) are a record class of their own. Nothing in PM converts into it: an Abnormality carries no Hope damage, no Hope resistance and no Hope Intensity, so a conversion that writes `PALE → Hope` has handed a transported body a vector its native record never carried. Where a converted record deals Hope, it does so as its own sovereign-grade content, and the PM side of the crossing is simply blank.
 
 **Resistances convert with the body.** A native's damage-resistance multipliers transcribe into the SE's defensive record in element order — RED → Grudge, WHITE → Lament, BLACK → Weight, PALE → Void — with the values verbatim.
 
@@ -199,10 +224,12 @@ Project Moon runs four generic employee actions: Instinct, Insight, Attachment, 
 
 | PM work | Somnarak work | Procedure | Mechanical effect |
 |---|---|---|---|
-| **Insight** | **Viderehan** (관조한 / *Gwanjohan*) | Observe acoustic frequency, barometric waves and crystallisation from behind shields | Low risk, steady Han-Energy, builds **Clarity**, reveals behaviour patterns |
-| **Instinct** | **Ferrehan** (인내한 / *Innaehan*) | Enter the chamber and withstand ambient pressure, heat or gravity without speaking | Moderate physical risk, tests **Resilience**, steadies a swinging Gauge |
-| **Attachment** | **Flerehan** (통곡한 / *Tonggokhan*) | Speak to the entity directly, weep with it, accept part of its unresolved grief | High mental risk, tests **Composure**, drops the Gauge hard, or causes hysteria on failure |
-| **Repression** | **Pugnahan** (격투한 / *Gyeoktuhan*) | Controlled violence: suppression rods and authoritative strikes against expanding mass | High physical risk, tests **Resolve**, stops an imminent breach, raises Grudge |
+| **Insight** | **Viderehan** (비데레한 — Latin *Videre*, to see, + Han) · *The Work of Observation* | Observe acoustic frequency, barometric waves and crystallisation from behind shields | Low risk, steady Han-Energy, builds **Clarity**, reveals behaviour patterns |
+| **Instinct** | **Ferrehan** (페레한 — Latin *Ferre*, to bear, + Han) · *The Work of Endurance* | Enter the chamber and withstand ambient pressure, heat or gravity without speaking | Moderate physical risk, tests **Resilience**, steadies a swinging Gauge |
+| **Attachment** | **Flerehan** (플레레한 — Latin *Flere*, to weep, + Han) · *The Work of Tears* | Speak to the entity directly, weep with it, accept part of its unresolved grief | High mental risk, tests **Composure**, drops the Gauge hard, or causes hysteria on failure |
+| **Repression** | **Pugnahan** (푸그나한 — Latin *Pugna*, to fight, + Han) · *The Work of Confrontation* | Controlled violence: suppression rods and authoritative strikes against expanding mass | High physical risk, tests **Resolve**, stops an imminent breach, raises Grudge |
+
+**The four names are Latin roots welded to Han, not Sino-Korean compounds.** The world spells them 비데레한 · 페레한 · 플레레한 · 푸그나한, and a conversion that writes 관조한 or 격투한 has replaced the name with a translation of it. The work's own four titles — Observation, Endurance, Tears, Confrontation — are the ones the Absolvohan files, and they are the ones to cite beside the transliteration.
 
 ### VI.2 Attributes convert with the work
 
@@ -314,12 +341,16 @@ Full both-direction coverage of every system this guide touches is certified in 
 
 Qliphoth Meltdowns select their units at random on the day's fixed cadence. Somnarak's pressure comes from tidal surges in the Weeping at −2,000 metres.
 
-| Watch | Korean | Surge | Effect |
+| Watch | Korean | Surge | Threat tier |
 |---|---|---|---|
-| **First Watch** | 제1감시 / *Je-il Gamsi* | Morning barometric drop | Murmurs; roaming sorrow sprites condense |
-| **Second Watch** | 제2감시 / *Je-i Gamsi* | Midday tectonic friction | Armoured Fragments solidify; tests the wardens physically |
-| **Third Watch** | 제3감시 / *Je-sam Gamsi* | Deep evening surge | Rank IV apex Entities; heavy Composure drain |
-| **Tide Watch** | 만조감시 / *Manjo Gamsi* | Midnight surge from the Core Void | Threatens the blast walls; full mobilisation |
+| **First Watch** | 제1감시 / *Je-il Gamsi* | Morning barometric drop | Initial scout incursions — small clusters of mobile entities |
+| **Second Watch** | 제2감시 / *Je-i Gamsi* | Midday tectonic friction | Coordinated medium squads; structural damage to floor corridors |
+| **Third Watch** | 제3감시 / *Je-sam Gamsi* | Deep evening surge | Heavy construct invasions; wide-area psychological disruption |
+| **Tide Watch** | 만조감시 / *Manjo Gamsi* | Midnight surge from the Core Void | Cataclysmic apex incursions; facility-wide cell-breach hazards |
+
+**The watch is *when*; the colour is *what*.** Every colour spectrum passes through all four watches, **three entities at each**, and the full matrix runs sixty. A conversion places its entity in a watch by its threat tier and in a colour by the sorrow it carries, and the two placements are separate answers to separate questions — a body is not "a Tide Watch entity" without a colour, and the tide's apex tier is not a rank.
+
+Readings in the world are filed in **mHb** — a barometric sorrow figure, not a percentage — and a converted record that quotes ambient pressure should use the unit the cosmology uses.
 
 Facility-scale crisis systems convert at this same register and are carried by reference rather than copied here. The coloured **Ordeals** — Dawn, Noon, Dusk, Midnight — read against the Four Watches as tide-borne entity waves, and **Core Suppression** reads as departmental Realization. Both are treated in `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md` §9 and §16. An entity-level conversion never needs to import them; a facility-level story declares them from there.
 
@@ -331,7 +362,9 @@ Project Moon keeps an entity's code and form through a breach. Rare Somnarak ape
 
 The state's work rule shifts with the body: while it is a Place, only Viderehan and Ferrehan are valid; once it has gathered, the two-work-type law no longer binds, because the form is a Subject with a mouth and hands. What does not change is the standing response — withdrawal. The record files exactly two moves for the gathered form, *Judgment Claw* and *Judgment Sight*, both secondary and both event-only; a conversion carries those two, invents no third, and does not treat the silhouette as a licence to build a work loop the record never filed. Neither move has been observed used, and the ledger says so.
 
-**Protocol 02 — Sequential phase (the Kind Healer Cycle).** `C-Iα-071 [LS]` *The Kind Healer* → `C-IIIγ-071b [LS]` *The Patient Martyr* → `C-Vω-071c [LS]` *The Apostle Maker*. The code updates as Coherence rank and Potency grade escalate.
+**Protocol 02 — Sequential phase (the Kind Healer Cycle).** `C-Iα-071 [LS]` *The Kind Healer* → `C-Iβ-071b [LS]` *The Blessing Giver* → `C-IIγ-071c [LS]` *The Apostle Maker* → the twelfth blessing, which leaves the chain's number altogether: *The Hand of Hope* on the hope outcome, `C-Vω-001 [LS]` *The Dawn of Mourning* on the unresolved one.
+
+**The number and the suffix carry the chain; the grades move inside it.** Coherence runs I → I → II and Potency α → β → γ, one grade per stage, and the entity is never renumbered as it escalates. A conversion that promotes the Coherence rank at stage two has written a code the registry does not hold — the Blessing Giver files `C-Iβ-071b`, not `C-IIIγ-071b`, and the middle stage's name is the Blessing Giver, whose file is the only one of the three that carries a β.
 
 **Protocol 03 — Binary convergence (the Yin-Yang Dragon).** `C-IIβ-947 [WS]` *The Soot Fry* and `C-IIIγ-948 [LO]` *The Foam Flood* are held apart by standing order; their reunion produces `C-Vδ-949 [MS]` *The Stormscale Sovereign* (음양룡), a flood dragon split black and white down its length, manifest once in the historical record and latent since. The two halves are ordinary holdings and may be worked separately; the dragon is a **Special Abnormality** under §VII.4, filed as the terminus of their line and never as an intake.
 
@@ -389,7 +422,7 @@ The counterpart is the keeper, and it is the harder case, because a file that ke
 
 > **Why this file keeps combat actions.** {{the one thing in this file that can be met, held or withstood, and why dropping the rows would leave a warden without an account of it.}}
 
-Twenty-seven records in the archive carry a keeper note today. Eight of them kept a Combat Record under a non-breaching cell and gave no reason at all; those eight now say why in their own terms — the chains whose body has never moved and which close on a worker where they stand, the room that has no position that could be approached, the flood that has to say what a flood costs somebody standing in it. A keeper note is a reason, never a label, and never *this entity is stationary* on a file whose Movement row already says so.
+Twenty-six records in the archive carry a keeper note today. Eight of them kept a Combat Record under a non-breaching cell and gave no reason at all; those eight now say why in their own terms — the chains whose body has never moved and which close on a worker where they stand, the room that has no position that could be approached, the flood that has to say what a flood costs somebody standing in it. A keeper note is a reason, never a label, and never *this entity is stationary* on a file whose Movement row already says so.
 
 
 ---
@@ -400,11 +433,13 @@ E.G.O extracts from a Sorrow Entity as **Materialized Agony Wear (M.A.W.)**.
 
 ### VIII.1 The triad
 
-Every standard Subject entity extracts three pieces.
+Every standard Subject entity extracts **three kinds of piece** — and the number of kinds is not the number of pieces.
 
 - **Weapon.** A tool with a designated Range Band (1–5) and a primary damage element.
 - **Suit.** Armour carrying resistance percentages across Grudge, Lament, Weight and Void.
 - **Stigma.** A passive accessory grafted to the operative's body or aura, with a tactical trigger. The archive's word is *Stigma* everywhere — the triad is Weapon, Suit, Stigma, and `Gift` is the native term this replaced. Write `Stigma` and no conversion should carry the old word.
+
+**Three kinds; five copies of each.** A source supports up to five Weapons, five Suits and five Stigmas — fifteen pieces in all, whatever its rank — and §VIII.5 sets that rule. A conversion that files "three pieces" as the equipment ceiling has read the set's shape as the Archive's stock.
 
 ### VIII.2 Five material weight classes
 
@@ -422,11 +457,15 @@ Every standard Subject entity extracts three pieces.
 
 PM gear carries static requirements such as Fortitude III or Prudence II. Somnarak's wear may instead carry **Active Composure Load** — but the load is a ledger entry, not a tax on the grade. Each piece files its own SP-pool burden, with amount, form, trigger and duration written on the piece; a Grade δ or ω piece with nothing filed carries `Composure Load: —`. Neither Risk, Potency grade nor material class supplies a default, and several burdens on one bearer stay as separate lines instead of merging into a set-wide figure.
 
-An emptied SP pool is **Panic** — fought, suppressed and recovered like any other. It is not a transformation. **M.A.W. Corrosion** is a separate four-stage track — Whispers, Bleed, Merge, Takeover — driven by cumulative overuse, misuse, neglect or conflict, and it is the only road on which armour and bearer stop being separable. Reaching the last stage is an event with a filed history behind it, never the resting state of whoever simply ran out of Composure.
+An emptied SP pool is **Panic** — fought, suppressed and recovered like any other. It is not a transformation. **M.A.W. Corrosion** is a separate four-stage track — Whispers, Bleed, Merge, Takeover — driven by cumulative overuse, misuse, neglect or conflict. Reaching the last stage is an event with a filed history behind it, never the resting state of whoever simply ran out of Composure.
+
+**Stage four dominates the mind; it does not fuse the body.** A piece that has become part of its bearer is a different class — the **fused singular M.A.W.**, filed as its own armament class with its own record (Director Majin's *Reaper Hungered*, an Ω scythe in the left forearm) — and corrosion is not the road that produces one. Nor does the road end the piece's stock: §VIII.5 counts a dissolved or an inherited piece, never a corroded one.
 
 ### VIII.4 The cost line is the piece's own
 
-Every M.A.W. piece charges its bearer, and the charge is written twice: inside the dossier's embedded block as `**Bearer cost:**`, and on the item page as `**Operational / binding cost:**`. `**Cost:**` on the stats line is the Echo price and nothing else; a Stigma has no price at all, since it is found rather than bought. Both are the same price, and both must be this piece's.
+Every M.A.W. piece charges its bearer, and the charge is written twice: inside the dossier's embedded block as `**Bearer cost:**`, and on the item page as `**Operational / binding cost:**`. `**Cost:**` on the stats line is the Echo price and nothing else; a Stigma has no Echo price at all, since it is bestowed rather than bought, and its record answers `Acquisition Probability` instead. Both are the same price, and both must be this piece's.
+
+**Where the record files no price, the page states the exemption.** `SE-1001` Kind Echo files the toll as *None meaningful*, and that sentence is the record's answer — the piece is not free, its cost is simply not extractable — so the page carries the exemption in those terms. A converter never fills the slot with an invented price to make the table look even; the standing precedent is `C-Iα-000`, written into prose rather than into a number.
 
 The archive converted the whole equipment layer through five stock cost families — *the bearer moves a little slower* (12 Weight stigmas), *the bearer's temper shortens* (11 Grudge), *the bearer weeps in their sleep* (11 Lament), *the bearer occasionally forgets a word* (6 Void), and six weapon sentences doing the same job (*a persistent low-grade headache with each use*, *emotional numbness toward the source entity's element*, *chronic fatigue in the dominant hand*, *progressively heavier; prolonged use ages them slightly*, *the entity's unwept grief*, *mild memory fragmentation*). Forty stigmas shared four sentences between them, which made four whole elements of the catalogue read as one piece with four labels, and made the moment a bearer learns what they have agreed to the least specific moment in the file.
 
@@ -444,6 +483,37 @@ Two mechanical checks before committing a cost line: `grep` the sentence against
 The same rule governs the item pages' `**Operational / binding cost:**`. It states, in two clauses, what one use takes and what continued use does — and the second clause is where 345 item records once carried the identical tail *Continued use makes {{source}}'s sorrow feel autobiographical*. A tail that appears on every record is not a behaviour; it is a template artefact wearing a warning's clothes. That tail is now at **zero** across the archive, and the two mechanical checks below are what retired it.
 
 
+### VIII.5 How many of a piece exist
+
+A record files a `Maximum Amount` between **one and five**, and that figure is the ceiling for that piece from that source.
+
+| Filed figure | Band word | What it means on the floor |
+|---:|---|---|
+| 1 | **Held** | A single piece exists; its issue is an event and its loss ends the line |
+| 2 | **Limited** | Two in the Archive's hands; one spare, and the spare is watched |
+| 3 | **Standard** | A working stock; a team can be equipped without borrowing |
+| 4 | **Stocked** | A comfortable reserve, held against attrition |
+| 5 | **Abundant** | The full ceiling; issued without a case being written |
+
+**The figure is stock, not history.** It is not a lifetime total, not a cap on how many have ever existed, and not a running count of extractions. It falls only when a held piece leaves the Archive's hands, and there are exactly four ways that happens:
+
+1. **Dissolution** — the piece loses coherence and returns to its source.
+2. **Missing** — out of the Archive's hands and unaccountable. A piece merely overdue is not missing.
+3. **Broken** — destroyed. Damage short of destruction is not breakage.
+4. **100% inheritance** — the piece passes wholly to one holder and stops being stock. Two filed forms: *it becomes that agent*, or *it is Echo-Core bound*.
+
+**Fusion is not a fifth event.** A fused piece is still one piece, still counted, still on the record: fusion changes the piece's **state**, not the Archive's **stock**. Majin's *Reaper Hungered* leaves the count because the Echo-Core holds it, not because it is fused. A piece fused into an operative that is not an Echo-Core leaves the count under *becomes that agent*. No piece is retired twice and none is retired for being fused alone.
+
+**Everything else leaves the figure standing** — ordinary issue, a loan between wards, vaulting, a sealed case, wear, damage short of destruction, corrosion short of takeover, and the bearer's death where the piece survives them.
+
+**The band word is fixed to the figure.** A record writing *Limited* beside a four has misfiled the word, and the word is what gets corrected.
+
+**Stigmas file two figures, not one.** `Acquisition Probability` is the **rate of arrival**; `Maximum Amount` is the **size of the holding**. A Stigma is bestowed at random on a successful work and never manufactured, so bestowal raises the count toward the ceiling and the four events lower it. The two numbers answer different questions and neither replaces the other — which is why the 284 Stigma records that file a probability and no maximum were never missing data. They were answering the other question.
+
+**The field, as it stands.** Of 852 item records, **199 state a figure** — Weapon 98, Suit 101, Stigma 0 — and **653 do not**. No record files above five and none files zero, so the ceiling holds in the data as well as in the law. A record with no figure is *not yet counted*, never unlimited: the ceiling is five, the stock is unrecorded, and the record owes the number.
+
+Full law: `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` §I.1 · binding rule [`R-37`](../../REFERENCE_SOMNARAK_WIKI/RULES/R-37_MAW_STOCK_CEILING.md).
+
 ---
 
 ## Section IX: Tool Abnormalities and Relic-Entities
@@ -460,26 +530,47 @@ Every PM Tool Abnormality converts into a **Relic-Entity** under SECC rules.
 
 ### IX.2 Capability badges
 
-Every converted relic carries the canonical badges in its profile:
+Every converted relic carries the canonical badges in its profile, in the archive's own short spellings:
 
-- `[Can Benefit the Facility / Operative]`
-- `[Capable of Employee Alteration / Corruption]`
-- `[Capable of Instadeath / Meltdown]`
+- `[Can Benefit Facility]`
+- `[Capable of Alteration]`
+- `[Capable of Instadeath]`
 
-### IX.3 Progressive log
+The PM encyclopedia's longer expansions — `Can Benefit the Facility`, `Capable of Employee Alteration`, `Facility Buff` — name the same three and are native vocabulary; the Somnarak side records the short form. The badges are **profile annotations, not a table row**: no item template carries a badge field, and a converter who adds one has created a column nothing reads.
 
-Every relic dossier carries a four-tier unlock table.
+### IX.3 Progressive log — 이야기 보고
 
-| Tier | Contents |
+Every relic dossier carries a **Story Log**, and its shape is the same one every Sorrow Entity uses:
+
+> `## 이야기 보고 (Story Log) — Observation Entries`
+> `> Progressive declassified records. Each entry unlocks at a higher Comprehension Level.`
+
+The entries are **numbered**, and each opens with a short name in angle brackets — `**Entry 3 — <The Impartial Measure>**` — rather than a tier letter. The first entry is the containment description, written as a register line would write it: designation, manifestation, element, where it is held, who uses it, and the one property that governs the object. The last entry is **daily use on the row**, and it carries the work response — what Viderehan yields, what Ferrehan costs, and who uses it anyway.
+
+What the four depths below describe is **what a reading should reach**, not four labelled boxes. A log that stops at the containment description has given the reader the register and not the relic.
+
+| Depth | What the reading must reach by the end |
 |---|---|
-| **I** | Physical appearance and storage requirements |
-| **II** | Safe usage duration and the primary positive effect |
-| **III** | Overuse penalties, escalation triggers and backfire risk |
-| **IV** | Master recovery procedure and the origin tale |
+| **1 · Physical** | Appearance and storage requirements |
+| **2 · Use** | Safe usage duration and the primary positive effect |
+| **3 · Cost** | Overuse penalties, escalation triggers and backfire risk |
+| **4 · Closure** | Master recovery procedure and the origin tale |
 
 ### IX.4 Observation Level → R.D. Comprehension
 
 The relic log sits inside a wider rule. A native's Observation Level track converts to the SE dossier's R.D. Comprehension gates along the Universal Table's §IX track, walked in the returning direction and not in reverse order: **basic information first**, then work responses and management methods, then activation and termination behaviour, and the narrative last and whole.
+
+The five gates have names, and a conversion files the name and not just the number:
+
+| Level | Name | Depth |
+|---:|---|---|
+| **1** | **Trace** | Basic identification |
+| **2** | **Basic** | Standard containment record |
+| **3** | **Advanced** | Behavioural patterns documented |
+| **4** | **Deep** | Combat and breach fully mapped |
+| **5** | **Sovereign** | Near-complete — city-scale entities |
+
+A record sitting at Comprehension 4 reads *4 — Deep*, and the pairing is the same one the dossiers file.
 
 Anything the LC record withholds at its filed Observation Level converts as *unwritten*, not as absent. The Comprehension record carries the gate, and the archivist does not research past it on the entity's behalf.
 
@@ -496,7 +587,7 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 - **Profile:** City Sorrow `C-`, Rank I Residue, Grade α Minor, Lament element, Subject-Spirit manifestation.
 - **Durability:** Sorrow Gauge 220/220. Han Pressure 08 Deep Blue.
 - **Work:** Viderehan raises Clarity by 10; Ferrehan is stable; Flerehan takes the Gauge down 25% and heals worker Composure by 15; Pugnahan fails and adds 20 Sorrow Gauge %.
-- **M.A.W.:** *Confessional Habit* (suit, 0.8 Blue / 1.2 Crimson) and *Thorn Halo* (gift, +5 Composure recovery).
+- **M.A.W.:** *Confessional Habit* (Suit, 0.8 Blue / 1.2 Crimson) and *Thorn Halo* (Stigma, +5 Composure recovery).
 
 ### X.2 HE combatant with a spike attack
 
@@ -510,7 +601,7 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 ### X.3 ALEPH Sovereign
 
 - **PM source:** *Apocalypse Bird* (ALEPH).
-- **PS entity:** `SE-C-Vω-001 [MS]` *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*).
+- **PS entity:** `SE-C-Vω-001 [LS]` *Dawn of Mourning* (애도의 새벽 / *Aedo-ui Saebyeok*).
 - **Terminus to terminus.** The source is a Special Abnormality — what the three birds produce — and the conversion is the Kind Healer's. Neither was ever acquired, so neither takes a work loop; §VII.4 governs both, and the pair is the cleanest terminus-to-terminus read in the file.
 - **Profile:** City Sorrow `C-`, Rank V Sovereign, Grade ω Catastrophic, all four elements — Lament, Grudge, Void and Weight — with Lament leading, which is why the bracket reads `[LS]` and not `[MS]`.
 - **Durability:** Sorrow Gauge 12,000/12,000, run as a multi-phase sovereign raid.
@@ -545,14 +636,14 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 | 03b. ALIAS CHECK : LC code kept as alias; X-YY-0### per the SE to      |
 |                   Abnormality overhaul S.II, never renumbered          |
 | 04. DURABILITY   : 150-1,000 HP for Ranks I-IV; 1,000-12,000 HP for    |
-|                   Rank V                                               |
+|                   Rank V, or any lower rank whose score is 9 (II.2)    |
 | 05. GEOGRAPHY    : Planetary landmasses and climates classified as     |
 |                   Geography (N/A)                                      |
 | 06. WORK TYPES   : Inanimate SEs (O, P, T, H) restricted to two works  |
 | 07. PROHIBITION  : Flerehan and Pugnahan strictly N/A on inanimate SEs |
 | 08. SPATIAL      : 10-node grid, Range Bands 1-5, AP budget assigned   |
-| 09. M.A.W.       : Weapon, suit and gift assigned across the five      |
-|                   weight classes                                       |
+| 09. M.A.W.       : Weapon, Suit and Stigma assigned; triad is three    |
+|                   kinds, and the stock ceiling is VIII.5               |
 | 10. RE-QUOTA     : Relic-Entities file as A/O/I Relic, never           |
 |                    Subject; the RE share is counted by tools/breach.py |
 | 11. COUNTER      : Three triggers: [N] numeral to Threshold,           |
@@ -602,5 +693,26 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 |                    would; anything that makes them re-read a number,   |
 |                    or that sounds like an edit rather than a record,   |
 |                    is a defect even where no checker fires             |
++========================================================================+
+```
+
+**Six more, added when the guide was read against the whole archive rather than against its own checklist.** Every one of them was a place where the guide and the world had drifted apart while both stayed internally tidy.
+
+```text
++========================================================================+
+| 26. STOCK CHECK  : Maximum Amount is 1-5, band word fixed to it        |
+|                    - 1 Held · 2 Limited · 3 Standard · 4 Stocked ·     |
+|                    5 Abundant (VIII.5)                                 |
+| 27. DECREMENT    : stock falls only on dissolution, missing, broken    |
+|                    or 100% inheritance - becomes that agent, or is     |
+|                    Echo-Core bound; fusion alone is not a decrement    |
+| 28. STIGMA       : Maximum Amount and Acquisition Probability are      |
+|                    two questions, and neither replaces the other       |
+| 29. NO PRICE     : a no-cost record states the exemption in its own    |
+|                    words (None meaningful); nothing fills the slot     |
+| 30. SPEED        : tactical Speed 2-7 buys 2-4 AP; a dossier's m/s     |
+|                    is pursuit pace and awards none (IV.1)              |
+| 31. WORK NAMES   : Viderehan, Ferrehan, Flerehan, Pugnahan - Latin     |
+|                    root plus Han, never a Sino-Korean translation      |
 +========================================================================+
 ```
