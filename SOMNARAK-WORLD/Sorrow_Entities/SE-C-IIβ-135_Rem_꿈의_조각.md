@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-135 [LO]` |
-| **Entity Type** | **Object/Place** — Can manifest |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; the shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats flickering |
 | **Potency** | Moderate (β) |
@@ -45,51 +45,37 @@
 - No breach counter. Sheets are collected before anybody speaks, because two matching accounts have twice preceded a collapse of the drift.
 - Extraction is separately authorised and is taken from the drift air, never from the shard.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% ward against Lament, 15% against everything else — and at the Gates only the first is ever tested. Nothing here strikes a body; the pressure is Lament or it is nothing, and the second figure stands against a class of harm the shard has never once produced. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 357/357 |
-| **Han Pressure [ATK]** | 9–21 per turn of exposure · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a body or drop of liquid*, and the shard has never been anything else: it hangs at chest height and will not hold a shape. What it does is show, and the showing takes its unfinished parts from whoever is standing in front of it, which is why the whole procedure is about stopping short.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — the same three forms, never the same twice in content |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A flickering shard of Dream that will not settle, shifting between the shape of a room, a face, and a single warm tear hung in the air. Never quite solid and never quite not; salt-damp, and it smells of somewhere the observer has already been. |
+| **Perceptible to** | The showing first, at the drift edge, in whatever the observer has brought with them; and the sheet, which carries the observer's name before it carries anything else. |
+| **Handling** | One Warden at a time, each writing down what they saw before any of them speaks, and every sheet in the tin before any account is compared. A Warden who comes close is stood down for the return, and nobody works out what the showing is toward. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 357/357 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-A-01, near Dream Gates |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the dream's framing through — a plan half laid out, rooms off a corridor that stops — and does not move the gauge; Ferrehan is remaining inside one image while it repeats, which Wardens describe as sitting in somebody else's unfinished afternoon, and it lowers the gauge. |
+| **Location** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | Sheets collected before conferring — the only close a Rem cycle has. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Lucid Edge* [**Debuff**] } | "The fragment pulses — and for a moment, you cannot tell if you are awake or inside someone's broken dream." | [The Fragment destabilizes the target's sense of reality.] | *Target suffers -10 Composure; dream and waking bleed together.* **[10 Lament DMG [Lament]]** | When the target touches the Fragment. |
-| { *The Recurring Loop* [**Debuff**] } | "The same moment repeats — a fragment of a dream, looping — and you cannot wake from it." | [The Fragment traps the target in a dream-loop.] | *Target loses 10 Composure; they cannot distinguish repetition from reality.* **[10 Lament DMG [Lament]]** | When the target lingers. |
-| { *The Nightmare Shard* [**Attack**] } | "The fragment turns dark — and the dream becomes a nightmare, and the nightmare has teeth." | [The Fragment's dark side manifests as a striking horror.] | *Inflicts Lament pressure and one surreal, dream-logic wound.* **[14-22 Lament DMG [Lament]]** | When the Fragment is disturbed. |
-| { *The Full Dream* [**Attack**] } | "The shard stops flickering and starts assembling — a house by water, a table laid, a face at the door — and it is nearly finished when you understand that you are the only thing still missing from it." | [The shard attempts the whole of the dream at once, and the attempt is what the order warns observers off understanding.] | *A heavy Lament surge; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When an observer works out what the showing is toward. |
-| { *Everyone Dreams the Same Dream* [**Ultimate**] } | "The showing comes off the shard entirely and settles on everyone at the drift edge — the same image in every head, which is how the watch knows the cycle is lost." | [The shard sheds its showing across the whole field at once.] | *All in range take Lament pressure for three turns of one shared, unfinished dream.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the shard does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Lucid Edge* [**Register**] } | Pulses, and for a moment the observer cannot tell whether they are awake or inside somebody's broken dream. The shard does not approach; the showing arrives at the drift edge and stops there. | Puts one Warden at the edge at a time, with the tin open, and takes each account in writing before anything is said aloud. | Nothing is touched. The sheet carries the observer's name before it carries anything else, which is why no two accounts are allowed to meet before every one of them is in the tin. |
+| { *The Recurring Loop* [**Exposure**] | Repeats one image — the same moment, looping — and does not let the observer wake out of it while they stay. | Ends the turn at the mark, and does not ask the Warden what they saw inside it until they are outside the edge. | Personnel who remain past their turn lose Clarity quietly. The reverie returns twenty Composure on waking and takes something unmeasured out of the return, and the two Wardens who had to be carried off the drift both said afterwards that they had understood where they were and chosen not to move. |
+| { *The Full Dream* [**Refusal**] } | Starts assembling the whole of what it is toward — a house by water, a table laid, a face at the door — and is nearly finished when the observer understands they are the only thing still missing. It never finishes. | Stops short. The standing order is not to work out what the showing is toward, and a Warden who does is stood down for the return rather than talked through it. | The shard does not complete the dream and has never been recorded completing one. What it will not do is finish, and the order exists because the last part of the assembly is supplied by whoever is standing there. |
+| { *The Supplied Parts* [**Contagion**] } | Past two minutes the showing stops belonging to the shard and starts belonging to the operative, who has begun filling in the unfinished parts themselves without noticing the moment they started. | Ends contact at two minutes, whatever the gauge reads, and enters the turn as closed rather than as interrupted. | This is the failure the whole procedure exists to prevent. Breaking contact by force brings acute panic, then drowsiness, then two points off Movement Speed — so the turn ends on the clock and not on the Warden's word. |
+| { *Everyone Dreams the Same Dream* [**Overload**] } | At sixty-five per cent the showing comes off the shard entirely and settles on everyone at the drift edge: one image in every head, and the watch now knows the cycle is lost. | Closes the sector, collects the sheets that exist, and records the cycle as lost rather than as completed with a shared account. | The same image in every head is the one outcome the tin cannot hold, because the accounts will agree and agreement is the only thing this holding has never produced. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Identification first, and identification is all it ever is. Rem is recognised by the thing at chest height that will not hold a shape — a corridor, a half-known face, one warm tear in the air — and the sheet carries the observer's name before it carries anything else. Nobody works out what the showing is toward; the standing order is to stop short, and a Warden who comes close is stood down for the return.
-2. **Clash:** Viderehan and Ferrehan only, one Warden at a time, each writing down what they saw before any of them speaks. Conferring before the sheets are in is the single disciplinary offence this holding records.
-3. **Resolution:** The cycle closes when every sheet is in the tin, no two accounts agree, and the gauge has fallen below 25% — the only close this holding recognises. Nothing is healed by it: the shard hangs where it hung, the dream keeps its unfinished middle, and the watch writes the return up as a watch that stopped short for another year.
+1. **What is confirmed:** the drift edge marked, the number of Wardens going in and the order they go in, and the tin empty and open before the first of them.
+2. **What the watch does:** Viderehan for the dream's framing and Ferrehan for remaining inside one repeating image, one at a time, each account written before any account is spoken, and every turn ended on the clock.
+3. **How it closes:** the close is the file's documented condition: **Sheets collected before conferring — the only close a Rem cycle has** — and a cycle where two accounts were compared early is entered as lost, because the agreement it produces is the one reading this holding cannot give.
 
 ### Consequences
 

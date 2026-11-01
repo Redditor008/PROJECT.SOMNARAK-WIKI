@@ -45,6 +45,9 @@
 - Extraction is separately authorised and never attached to a good cycle. The pieces are cut from the drift itself, and the Lantern's recorded cost is that its bearer stops recognising the way home.
 
 ## Combat Record
+
+> **Why this file keeps combat actions.** Nothing here is an exchange the crew starts. The Movement row gives a drift that never repeats a route and the work is walking with it — the numbers below are read at the junctions, where the entry is written down before anything is decided, and the only figure that has ever moved is the drift speed itself.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

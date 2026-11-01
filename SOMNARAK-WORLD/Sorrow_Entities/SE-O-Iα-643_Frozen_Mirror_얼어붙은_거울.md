@@ -45,13 +45,16 @@
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. Taking a piece from this source means taking a shard of the surface, and the shard keeps the property: the Reflection stigma leaves its wearer unable to tell their anger from somebody else's.
 
 ## Combat Record
+
+> **Why this file keeps combat actions.** The mirror drifts with the Desolate's cold currents and is not a walking creature, but every action in the table below begins with somebody meeting their own reflection: the record covers what the glass does once a viewer is in front of it, and the instrument is a pre-statement written down before the look.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
+| **Speed** | N/A — no drift rate has ever been measured; it is carried by the Desolate's cold currents rather than walking, and its bearing is recorded separately from viewing duration |
 | **Resistance** | 15% against Grudge. The plate has been struck once, in Year 4,229, by a worker who had looked into it for eleven minutes; the surface took no damage and the crack pattern changed that night. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |

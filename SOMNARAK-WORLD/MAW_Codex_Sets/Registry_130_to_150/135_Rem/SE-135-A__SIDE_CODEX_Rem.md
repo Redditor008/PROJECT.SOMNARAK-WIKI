@@ -26,7 +26,7 @@
 | Element | Lament |
 | Location | SECTOR-A-01, near Dream Gates |
 | Form | A flickering Dream shard shifting between a room, a face, and one warm tear that cannot settle into waking form. |
-| Gauge / pressure | 35–50% / Lament 8–20 |
+| Gauge / pressure | 357/357; starts 35–50% / Lament — no attack pattern; the sheets collected before conferring are the reading, and agreement between accounts is the one result the holding cannot give |
 | Comprehension Level | 2 — Studied |
 | M.A.W. Set | Wake With It |
 

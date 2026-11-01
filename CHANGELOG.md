@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The five that fight, and why each of them keeps its record (2026-11-01)
+
+Eleventh batch closes the relic pass. One file converts; five do not, and this entry is as much about the five — each of them now says, in its own first paragraph, why a combat record is the honest form for it.
+
+- **Rem** (`C-IIβ-135`) — the file called itself *Can manifest* and then ran a table in which the nightmare has teeth. It is now non-breaching manifestation in place, and the Contact Record keeps the only thing the file ever actually describes: a shard at chest height that will not hold a shape, and a showing that fills in its unfinished parts from whoever is standing in front of it. Past two minutes the showing belongs to the operative and not to the shard, which is why the turn ends on the clock.
+- **Screaming Masonry** (`C-IIIγ-891`) stays in combat because it is *mobile — drifts or flows through the area* with no measured drift speed, and its weight comes through the wall it is passing rather than at arm's length.
+- **Broken Whisper** (`O-IIIγ-369`) stays because it floats in the Han currents and does not follow the mapped flow, so standing still is not a way out of its path.
+- **Driftglass** (`O-IIIγ-914`) stays because the work is walking with it: the record is read at the junctions, and the only figure that has ever moved on this file is the drift speed.
+- **Frozen Mirror** (`O-Iα-643`) stays because every action in its table begins with somebody meeting their own reflection — the instrument is a statement of who you are angry at, written down before the look.
+- **The Last Warmth of Forty-Two** (`O-IVδ-515`) stays because the one event it has is a rupture delivered by a hand that throws it. Its phases used to open with *evaluate emergency tactical need* and a line about harvesting ambient Han-Energy; they now open with thermal gloves, the webbing and the heated cradle, which is what the file's own suppression condition asks for.
+
+**Two contradictions out of the same document.** `O-IVδ-515` gave its battlefield as the Deep Glacial Rift and the Maw Perimeter while its classification row puts it in the Frozen Depths Cache, contained — the battlefield now reads the cache. `O-Iα-643` listed its speed as a fixed object while its Movement row had the mirror drifting with the Desolate's cold currents; the speed row now says that no drift rate has ever been measured, and records the bearing instead.
+
+**Where the pass ends.** Seventy-eight of the eighty-three relic dossiers now carry a Contact Record. The five that carry combat records are the five that move or are thrown, and each of them states which of the two it is in the first line under the heading.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `check_links` 0 broken · `label_lint` 0.
+
 ## Five relics that had already said the answer themselves (2026-11-01)
 
 Tenth batch. Every one of these files carried the finding before this pass did — in a clause, in a phase note, or in a line of dialogue that contradicted the table standing over it. The work was mostly to stop the document arguing with itself.

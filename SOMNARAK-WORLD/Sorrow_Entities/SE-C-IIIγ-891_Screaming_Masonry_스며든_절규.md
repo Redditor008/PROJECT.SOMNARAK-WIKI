@@ -46,6 +46,9 @@
 - Residue is recovered from the mortar lines it has passed through, under separate authorisation. The recovery is from the buildings and not from the entity, which has never been touched by anybody.
 
 ## Combat Record
+
+> **Why this file keeps combat actions.** The Movement row says *mobile — drifts or flows through the area*, and no drift speed has ever been measured, so the crew cannot stand out of its way by standing still. Its hits arrive through the wall it is passing through rather than at arm's length, which is why the record is written against pressure at the sternum and wall vibration instead of against a visible approach.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.

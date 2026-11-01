@@ -45,6 +45,9 @@
 - The integrated M.A.W. profiles do not authorize harvesting the expended vial. Its activation record declares the remains inert and forbids extracting them again; the quartz sand and webbing have a memorial destination.
 
 ## Combat Record
+
+> **Why this file keeps a combat record.** The vessel is stationary and has never pursued anything: what it does, it does where it is put. The one event it has is a rupture, and the rupture is delivered by a hand that throws it — so the record below belongs to the throw rather than to the vial, and the resolution condition is the detonation itself.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
@@ -70,7 +73,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
 | **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Sector 09 Deep Glacial Rift / Maw Perimeter |
+| **Battlefield** | SECTOR-O-09, Frozen Depths Cache |
 | **Resolution Condition** | The vial is shattered against target or ground, releasing the collective exhalation in an acoustic blizzard |
 
 ### Combat Actions
@@ -85,9 +88,9 @@
 
 ### Battle Phases
 
-1. **Tension:** Personnel identify the single-use A-Relic construct, verify containment integrity, and evaluate emergency tactical need.
-2. **Clash:** The team conducts Viderehan and Ferrehan to harvest ambient Han-Energy while monitoring sector stability.
-3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Wrap the webbing back around the glass and set it in the heated cradle**. Nothing on this ground is cut, drilled or opened to find out what is inside it, and the 42 voices are not asked for anything they have not offered.
+1. **Tension:** Thermal gloves before the cradle is opened, and the webbing checked before the collar: the vial is carried, not approached, and every handling step is a step somebody has to be wearing the right thing to take. The room is read for who is standing in it, because a rupture at this gauge petrifies the room rather than a target.
+2. **Clash:** The webbing goes back around the glass and the vial goes back into the heated cradle, and the rotation is worked from there. Nothing is cut, drilled or opened to find out what is inside, and the forty-two voices are not asked for anything they have not offered.
+3. **Resolution:** The watch closes in containment, retreat or management, or against the documented suppression condition: **Wrap the webbing back around the glass and set it in the heated cradle** — and where the vial is shattered instead, the shatter is the resolution and the watch records where it landed, on what, and who was standing in the room.
 
 ### Consequences
 

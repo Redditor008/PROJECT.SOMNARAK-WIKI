@@ -45,6 +45,9 @@
 - M.A.W. extraction is a separate authorised event and never a reward attached to a good cycle. The source is a shattered object, so extraction takes a shard of it: every piece in this set is itself a fragment of something interrupted and behaves accordingly. It is the only set in the armoury whose three pieces carry break lines in the inventory, and the armoury keeps them that way rather than smoothing the entries.
 
 ## Combat Record
+
+> **Why this file keeps combat actions.** The Movement row says *floating — drifts in the underground Han currents without reliably following the mapped flow*, and the Speed row says plainly that the drift is not directed locomotion. What the record covers is what the object does when it is already beside the team: fragments arriving faster than they can be written down separately, with the cycle scored against the transcript rather than against the room.
+
 ### Core Stat Line
 
 > **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
