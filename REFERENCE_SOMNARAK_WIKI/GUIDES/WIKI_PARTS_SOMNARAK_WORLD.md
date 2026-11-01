@@ -165,3 +165,11 @@ Verified on `arena/01a0b699-project-somnarak-wiki` — 1,710 files (2026-09-29).
 - Counts SSOT: `CANONICAL_METRICS.json` — 290 SE / 198 M.A.W. sets / 1,208 equipment files / 12 Unknown / 60 Ordeals / 49 Codices / 9 Echo-Cores
 
 *Indexed: Year 4,238 · Dawn Initiative — Reverie Directorate Research Index. Native counterpart to `WIKI_PARTS_ABNORMALITIES.md` — no copied canon text, only comparative form.*
+
+---
+
+## Quoting a dossier's event section
+
+When a wiki part reproduces an entity's failure mode, it reproduces the dossier's own heading, not the category's. The chooser is in [`CATEGORY_AND_PAGE_PLAN.md`](CATEGORY_AND_PAGE_PLAN.md): a Place that widens heads `## Expansion Behavior` on the page for the same reason it does in the dossier, a used relic heads `## Activation Behavior`, and `## Breach Behavior` belongs only to whatever actually walks out.
+
+A page may compress the prose. It may not restore a section the dossier no longer has — that is how the archive's corrections get quietly undone a page at a time.

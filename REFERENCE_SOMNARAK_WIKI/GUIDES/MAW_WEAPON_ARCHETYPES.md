@@ -449,3 +449,11 @@ Batches 18–23 additions (2026-09-06, full completion — 72 weapons, W-912–1
 
 
 Batches 18–23 form notes: 72 weapons cycled through 36 shape families but each weapon received n-dependent geometry (off, wob, scale) and two invisible unique markers (rect + circle with n-dependent x/cx) so the paint-insensitive structural hash is unique for every file; composition audit went from FAIL 10 groups (when families cycled identically) to PASS 0 groups after markers. Palettes matched to each weapon's Element (Lament blue, Grudge red, Void grey, Weight amber).
+
+---
+
+## Archetype and cost are separate decisions
+
+The archetype table below describes what a weapon *is* — silhouette, haft, head, the way it is carried. It says nothing about what the weapon *takes*, and no archetype supplies a default cost. A hammer is not paid for in headaches because it is a hammer; it is paid for in whatever its own Ability does when read backwards.
+
+The cost law lives in [`MAW_VARIETY_DESIGN_FRAMEWORK.md`](MAW_VARIETY_DESIGN_FRAMEWORK.md#the-cost-law-since-the-whole-framework-rests-on-it). The retired weapon family — *headache · numbness toward the element · hand fatigue · progressively heavier · unwept grief · memory fragmentation* — predates this table and is a defect on every page that still carries it.

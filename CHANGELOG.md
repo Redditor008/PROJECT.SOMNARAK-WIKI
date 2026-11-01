@@ -8,6 +8,17 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The rest of the guides, and the counts they were quoting
+
+Four more guides gained the section each was missing: `SOMNARAK_DOCUMENT_RULES` (the three fields that decide a file's shape), `OPERATING_RULES` (*Logic Path, Not Template Path*, and what the gate cannot check), `MAW_WEAPON_ARCHETYPES` (an archetype says what a weapon is, never what it costs), `WIKI_PARTS_SOMNARAK_WORLD` (a page reproduces the dossier's heading, not its category's).
+
+**Stale figures corrected wherever they were quoted as current.** The catalogue has held 301 dossiers since the closure; four templates and three guides were still telling a writer to draw from "the 291 catalog" — the deep-knowledge primer, the naming template, the battle-scenario template, the Unknown Entity template, and the story-reference guide. `RELEARN_FIVE_CATEGORIES` quoted **291 SE / 42 M.A.W. sets**; it now reads **301 / 198**. `CATEGORY_AND_PAGE_PLAN` carried 529, 1,196 and "275 remaining dossiers" from the phase it was written in, and now carries a dated banner saying so, with the current figures beside it.
+
+**Why this matters more than it looks:** a template that says 291 is a template whose whole factual content is a phase behind, and a writer has no way to tell which of its other numbers are still true. The ones that had drifted were the ones nobody re-read after the closure.
+
+**Checks:** `check_links` 0 broken across 4,280 links · `seam_lint` 100.0% · `label_lint` 0.
+
+
 ## Every template and every guide now says what the last season learned
 
 The dossier template was updated first and the other forty were left behind, which is how a standard rots: a writer who opens the category template instead of the dossier template gets the old rules back. This pass moves the rules into every scaffold and every guide.

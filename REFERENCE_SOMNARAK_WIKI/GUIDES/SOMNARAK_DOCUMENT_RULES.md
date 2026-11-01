@@ -171,3 +171,17 @@ Documents are written by R.D. personnel. Use these names:
 — Archive Lead Marjuk, Document Classification Rules
 
 ---
+
+---
+
+## The three fields that decide a file's shape
+
+Before any prose is written, three fields fix the document's skeleton. They are not style choices, and a template cannot make them for you:
+
+1. **`**Entity Type**`** states a verdict — *Can breach via X*, or *Non-breaching: category only; the file's own evidence*. A description in this cell (*Hazard — an affected air volume pools in sublevels*) is not a verdict and cannot be counted.
+2. **The event heading** follows that verdict: `## Breach Behavior` only where the file leaves containment, otherwise Expansion · Activation · Containment Event · Formation · Manifestation, with no `Breach Type` row. `tools/section_logic.py` enforces the pairing.
+3. **The gauge label** (`on breach / on expansion / on formation / in the event / on activation`) follows the heading, and the figure comes from the file's own `**Escalation**` row.
+
+Two further rules sit under those: Work rows are written per holding, never as the retired *Permits study* / *Recognizes patience* pair; and a cost is the ability read backwards, filed as `**Bearer cost:**` for the bearer and `**Cost:**` for the Echo price.
+
+The full retired-prose table is in [`CONTENT_AND_VISUAL_STANDARDS.md`](CONTENT_AND_VISUAL_STANDARDS.md#stock-prose-is-a-defect-even-where-no-checker-fires).

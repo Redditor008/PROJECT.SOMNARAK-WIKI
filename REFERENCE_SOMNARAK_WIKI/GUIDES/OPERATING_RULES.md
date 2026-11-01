@@ -157,3 +157,19 @@ Commit state to git; git is the durable store, the sandbox is a conveyor belt.
 **The single most important line here is RULE 1.** Everything else is housekeeping. Deleting the
 corpus is the one unrecoverable act available to you in this repository, and the branch you were
 told to trust already did it once.
+
+---
+
+## Logic Path, Not Template Path
+
+The templates describe the ordinary case. Where a file's own record contradicts its scaffold, **the record wins and the section changes shape**:
+
+- A holding that cannot fight does not get a Combat Record because the format has rows for one. It gets a Contact Record and a line saying why — *Why this file has no combat actions* — and R-36's three tests decide it.
+- A holding that never leaves containment does not head a breach section, whatever the category template prints.
+- A Place that cannot be spoken to does not get Flerehan or Pugnahan rows with answers in them; the rows stay, N/A, with the reason.
+
+If a fix would remove a section the file needs, the fix is wrong. If it would leave a section the file cannot support, the section is wrong. Check the second case first: it is the one the archive keeps getting wrong.
+
+## The gate is not optional, and it is not the whole check
+
+`bash tools/gate.sh "<message>"` runs the linters, the stat bands, the breach floors, metrics parity, the commit and the push. It cannot run the one check that matters most: read the finished file top to bottom as a stranger. A number that makes the reader stop, a sentence that could sit in any of forty files, and a paragraph that sounds like an edit rather than a record are all defects, and none of them trips a linter.

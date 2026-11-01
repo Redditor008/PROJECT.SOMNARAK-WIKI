@@ -1,5 +1,7 @@
 # Category and page plan
 
+> **Counts updated 2026-11-01.** This plan was written when the catalogue held 529 files; the figures below are current for 301 dossiers and 1,209 M.A.W. records. Live totals are generated in `CANONICAL_METRICS.md`.
+
 **Date:** 2026-08-30  
 **Updated quality floor:** 2026-08-31
 
@@ -38,7 +40,7 @@ LC wiki.gg does not dump the world bible onto Control Team. It uses **category h
 | **The City / Zones** | The City → Districts | `locations/` | zone articles, not cosmology dumps |
 | **Book of Regressor** | Small Stories / Key Page Stories | `lore/the-book-of-regressor.html` | dramaturgy, not an SE dossier |
 
-**Do not create:** 60 separate ordeal HTML files, 529 duplicate SE filenames, or 1,196 M.A.W. registry dumps. Those are source files, not wiki categories.
+**Do not create:** 60 separate ordeal HTML files, 301 duplicate SE filenames, or 1,209 M.A.W. registry files. Those are source files, not wiki categories.
 
 ---
 
@@ -130,9 +132,9 @@ Already mapped in the nested-placement research. Keep:
 
 Already on Echo-Core character pages. Do not paste onto floors.
 
-### `M.A.W. Codex_Set Registry` (1,196 md)
+### `M.A.W. Codex_Set Registry` (1,209 md)
 
-Equipment hub + per-piece pages for the **published** 13 sets. Not a 1,196-page dump.
+Equipment hub + per-piece pages for the **published** 13 sets. Not a 1,209-page dump.
 
 ---
 
@@ -159,7 +161,7 @@ Categories: Ordeals | BLUE | Mechanics
 7. Entity-hub tabs so the new categories are reachable (LC Abnormalities / List pattern).
 8. Search index entries + the single wiki zip.
 
-Not this turn: 275 remaining SE dossiers, 1,196 M.A.W. registry files, splitting Absolvohan/SED/UCD (those already sit on the analog hubs).
+Not this turn: the 301 filed SE dossiers, 1,209 M.A.W. registry files, splitting Absolvohan/SED/UCD (those already sit on the analog hubs).
 
 ---
 
