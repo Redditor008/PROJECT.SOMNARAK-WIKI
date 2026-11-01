@@ -45,51 +45,36 @@
 - Record the range at which the needle first responds. That range has drifted outward in each of the last six years and is the holding's primary escalation signal.
 - It keeps pointing outside the chamber, which makes extraction its own exposure event and is the reason the carrying case is opaque and sealed.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Void. The instrument is brass and glass and has never been tested against anything; the figure is schedule carry-over and the station reads the bearing log instead. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 435/435 |
-| **Han Pressure [ATK]** | 10–23 per hit · Void |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device (internal parts may move)*, and the file's own closing note says nothing leaves the stand and what spreads is the pointing. The needle turns on a plinth; the station logs where it settles, and a bearing followed rather than logged is the failure the file is built around.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Restless and seeking |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A brass and glass bearing instrument on its stand at the Forge District, the card face and the needle visible through the case, the needle turning freely when the case is open. It has never left the stand; the case is opened for a channel of no more than two minutes and closed again. |
+| **Perceptible to** | The swing of the needle first — rate, dwell, and a recurring fourteen-degree hesitation — then the room losing its forward, and the holder unable afterwards to say which way they came in. For about a quarter of an hour, in the recorded cases. |
+| **Handling** | The compass stays on its stand, the case-holder states one lost thing aloud, and a second person reads the bearing aloud and writes it. Nobody holds it who has an open loss of their own, and nothing is followed. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-D-01, Forge District |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the pattern in the swings — rate, dwell, the fourteen-degree hesitation — without ever resolving to a target; Ferrehan tests whether a worker can sit with a bearing and not act on it, and is the only approach that lowers the gauge. |
+| **Location** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Lost Bearing* [**Debuff**] } | "The needle swings to your own loss and the room stops having a forward." | [The compass orients on the holder's grief rather than on the named case.] | *Void pressure; the holder cannot afterwards say which way they came in, for about a quarter of an hour.* **[Void DMG [Void]]** | When the person holding it has an open loss of their own. |
-| { *The Spinning Needle* [**Debuff**] } | "It will not settle, and neither will anybody watching it." | [The needle turns continuously; the case has no bearing.] | *Void pressure to everyone present. Ninety-four of 188 channels end this way and the station logs each as a case with nothing to point at.* **[Void DMG [Void]]** | When the thing named is not lost but destroyed. |
-| { *The Pointing* [**Attack**] } | "It points at somebody in the room." | [The needle fixes on a person rather than a direction.] | *Heavy Void damage to that person; eleven occurrences, and in nine the person had reported the loss being searched for.* **[Void DMG [Void]]** | When the holder names a thing the case-holder lost. |
-| { *The Wrong Way* [**Attack**] } | "It takes you to where the lost things are and they are not glad to be found." | [The bearing is accurate and leads somewhere nobody wanted it to lead.] | *Void damage; four parties have followed a bearing to its end and all four write-ups are sealed at the district's request.* **[Void DMG [Void]]** | When a bearing is followed rather than logged. |
-| { *Every Loss at Once* [**Ultimate**] } | "The needle points to every direction at once and every one of them is a case." | [The combat model describes all open losses in the district registering simultaneously. Side A records Overload separately: three unrelated losses named during one channel.] | *The district-wide Void erosion for three cycles is a modelled effect, not an observed event.* **[Void DMG [Void] (AoE, x3 turns)]** | The combat table places it above 65%, once, in the week the register passed eleven hundred entries. Side A's three-loss trigger is not crosswalked to that threshold. |
+| Event | What the compass does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Lost Bearing* [**Register**] } | Orients on the holder's own grief rather than on the case named aloud, and the room stops having a forward; the holder cannot afterwards say which way they came in. | Opens the channel for no more than two minutes with a second person reading the bearing aloud, and asks at the door whether the holder has an open loss — taken on trust, as the file says. | Two hundredths of the file are the swing pattern, not the answer. The ask at the door is the whole of the control, and the file records that it is answered honestly more often than the station expected. |
+| { *The Spinning Needle* [**Exposure**] } | Turns continuously and gives the case no bearing at all, and pulls the watchers in the same way, so that nobody in the room can say what the needle is doing. | Logs the channel as a case with nothing to point at, closes the case, and ends the session rather than waiting for a settle that has not come. | Ninety-four of a hundred and eighty-eight channels end this way and the station counts every one of them as a completed channel. A spinning needle is a result, not a failure of the watch. |
+| { *The Pointing* [**Refusal**] } | Fixes on a person rather than a direction, in eleven recorded occurrences, and in nine of them the person had reported the loss being searched for. | Reads the bearing aloud, writes it against the case number, and closes the case whether or not the bearing was any use. | The needle points and the watch writes. Nothing is ever taken from the stand, and the eleven occasions are the reason nobody who holds an open loss is allowed to hold the case. |
+| { *Every Loss at Once* [**Overload**] } | Registers every open loss in the district at the same moment, which is modelled in the record and not observed; what side A records is three unrelated losses named during a single channel, in the week the register passed eleven hundred entries. | Abandons the channel, closes the case, and treats the district's own instruments as unreliable for a day afterwards. | Nothing leaves the stand. What spreads is the pointing: an abandoned channel leaves the needle turning and three instruments in the sector observed agreeing with it, which the file reads by counting the instruments rather than the losses. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The compass stays on its stand, the case-holder states one lost thing aloud, and the channel is opened for no more than two minutes. Nobody holds it who has an open loss of their own; that is asked at the door and taken on trust.
-2. **Clash:** Six turns, worked from the stand with the case open and the bearing read aloud by a second person. Nothing is followed, and no turn is taken while the needle is accelerating.
-3. **Resolution:** The bearing is written in the register against the case number, and the case is closed whether or not the bearing was any use. 188 channels and 94 bearings; eleven have been matched to a recovery and the station counts that as a good return.
+1. **What is confirmed:** that the compass is still on its stand and the case is shut, that the holder has no open loss of their own, and the register entry for the case number before the channel opens.
+2. **What the watch does:** Viderehan for the pattern in the swings and Ferrehan for sitting with a bearing without acting on it, with a second person reading the bearing aloud and writing it down as it comes.
+3. **How it closes:** the close is the file's documented condition: **The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which** — and a bearing followed rather than logged is entered against the worker, because following is the failure this holding is built around.
 
 ### Consequences
 

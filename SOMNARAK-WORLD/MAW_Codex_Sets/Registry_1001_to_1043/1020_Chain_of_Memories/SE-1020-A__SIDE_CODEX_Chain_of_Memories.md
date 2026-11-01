@@ -22,7 +22,7 @@ The Chain formed from memories passed through families and communities. The weig
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Fragment (III) — Binding and connecting / Moderate (β) |
 | Element / Location | Weight / SECTOR-C-01, Collector's Row |
-| Gauge / Pressure | 484/484; starts 35–50% / 8–19 per hit · Weight |
+| Gauge / Pressure | 484/484; starts 35–50% / Weight — no attack pattern; the link count is the reading, and the only figure that has ever predicted the hour |
 | Observation | 2 — Basic |
 | Formation event | Families traded memories to preserve history after records were destroyed; the memories crystallized into links. |
 

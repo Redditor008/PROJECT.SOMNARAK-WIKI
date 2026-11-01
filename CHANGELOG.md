@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Six relics read off an instrument nobody is holding (2026-11-01)
+
+Ninth batch, and the first time the instrument has been the only thing in the room: a called count, a link count, a water level, a height, a bearing, a lid gap. Not one of the six has a strike in it, and all six had been filed with a battle length and a threat role.
+
+- **Duri's Heart** (`C-IIβ-901`) — stationary in its cradle and spreading rather than moving, one fixed step of radius per beat. The instrument is four hundred beats called aloud by somebody outside the glass; convergence toward twenty a minute ends the session whatever the gauge reads. The amber is inert on every assay.
+- **Chain of Memories** (`N-IIIβ-200`) — the Chain has never moved itself, and the gauge almost never moves either. Every logged personnel injury at Collector's Row happened in a session where the gauge did not move at all, which is why the link count is the reading and the worker's own account of their childhood is the second one.
+- **Well of Unfinished Words** (`N-IIβ-778`) — a structure; the water level against the coping mark, and it moves only while somebody is speaking. The file already said nothing here can be fought, because the Well has swallowed whatever could be shown to it, and it neither retaliates nor pursues.
+- **Mirror of Soaking** (`N-IIβ-801`) — rises out of the floor and does not advance. Height in centimetres, read at the start and the end, and attribution rather than exposure is what closes it: it has risen during shifts when the chamber was empty, tracking notes made three sectors away.
+- **Echo Compass** (`C-IIIβ-016`) — needle on a stand, case open for two minutes, second person reading the bearing aloud. Nothing leaves the stand; what spreads is the pointing, and 94 settled bearings out of 188 channels is counted as a good return.
+- **Lacrima** (`N-Iα-905`) — re-typed out of the breach census. The warden's log had said it for years: the gap is at three millimetres, the light is in the corridor, nothing is coming out and nothing has ever come out. Its breach block is now an expansion block, and the jar is read at four rim points to a tenth of a millimetre.
+
+**The four words.** Sixty-one years of Lacrima give two independent listeners four agreed words, and none of them is a name. The transcript was never a record of the jar; it is a record of what a listener was certain of, which is why the Contact Record now says so where the old page said the pleading strikes a target.
+
+**Two dangling references and one lost label.** Both the Well and the Mirror had kept a pointer to a Combat Record they no longer carry, and both now point at the reading. Their side codices lost the per-hit bands in the same pass and gained what is actually read.
+
+**Checks:** `section_logic` 0 findings across 301 dossiers · `check_stat_bands` PASS · `breach.py` 190/301 non-breaching with every floor met · `seam_lint` 0 · `timeline_lint` 0 · `label_lint` 0 · `check_links` 0 broken. **Forty-six converted. Eleven relic `Combat Records` left, and eight of them genuinely fight.**
+
 ## Five relics that sink, settle, stand or rise (2026-11-01)
 
 Eighth batch — the last of the queue whose own rows deny an exchange. What is left after this is ten holdings that genuinely carry an attack, four files in the R-36 queue, and the four relic breach claimants.

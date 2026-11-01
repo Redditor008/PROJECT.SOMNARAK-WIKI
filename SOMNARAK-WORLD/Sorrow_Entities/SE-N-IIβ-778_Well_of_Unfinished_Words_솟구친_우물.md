@@ -45,51 +45,36 @@
 - The liquid climbs rather than falls and the surrounding walls lean toward it. Structural survey of the border ground is repeated after every overflow.
 - Yield depends on grief spoken into it since the last extraction, so silent intervals leave nothing to recover and raise the overflow risk at the same time.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 436/436 |
-| **Han Pressure [ATK]** | 8–19 per hit · Lament |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, and the record says in terms that nothing here can be fought because the Well has already swallowed whatever could be shown to it. What rises is the water level against the mark on the coping, and it moves only while somebody is speaking.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Clarity |
+| **Mode of presence** | A stone well-head set in the ground at Zone E with its coping worn smooth and its shaft full to a level that can be read against a mark. The structure does not move; the water does, and only while a person is speaking into it. |
+| **Perceptible to** | The level first, against the mark on the coping; then the cold coming up out of the shaft and the lean of the surrounding walls, which tracks the level and is visible from outside the chamber. The grief in the water is read, not felt, until a worker is close enough to be heard. |
+| **Handling** | The level is established against the mark before anybody speaks, and the session is the listening. Nobody interrupts, nobody finishes another person's sentence, and nobody calls time on a testimony that has not ended. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 436/436 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone E, Border region |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grief embedded in the water and holds the level; Ferrehan requires the worker to remain and listen without interrupting, and a fall under Ferrehan means a testimony reached its own ending. |
+| **Location** | Zone E, Border region |
 | **Resolution Condition** | Allow testimony to finish; do not drain the Well |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Rising Water* [**Debuff**] } | "Water seeps up through the stones — cold, patient, and rising." | [The Well's water climbs; the target feels it at their ankles.] | *Target suffers -10 Composure; the cold is creeping upward.* **[10 Lament DMG [Lament]]** | When the target stands near the Well. |
-| { *The Sodden* [**Debuff**] } | "Soaked through — and the wet is heavier than water should be." | [The water soaks into the target; every movement is weighted with it.] | *Target loses 10 Composure; they move as though wading.* **[10 Lament DMG [Lament]]** | When the water reaches the target's knees. |
-| { *The Cold Splash* [**Attack**] } | "A wave breaks from the well's mouth — older and colder than any rain." | [A surge of well-water strikes, carrying old grief.] | *Inflicts Lament pressure and one soaking, cold wound.* **[14-22 Lament DMG [Lament]]** | When the Well is disturbed. |
-| { *The Overflow* [**Attack**] } | "The well gives up everything it ever held — and it has held a great deal." | [The Well disgorges its full depth in one rush.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Well is struck or overfilled. |
-| { *The Drowned Yard* [**Ultimate**] } | "The water does not stop — and the yard, the street, the district all go under." | [The Well floods the entire field, submerging everything.] | *All personnel suffer Lament pressure for three turns under the water.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Well does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Rising Water* [**Register**] } | Lets the water climb the shaft while a worker stands at the coping, and the cold reaches them at the ankles before anything is said. | Establishes the level against the coping mark before the first word, and notes the lean of the surrounding walls, which is visible from outside. | The level is the instrument. A session begun without it cannot be scored, and the walls outside the chamber are the reading a supervisor can take without entering. |
+| { *The Sodden* [**Exposure**] } | Soaks grief into whoever stays — the wet heavier than water should be, every movement weighted with it. Long contact does not injure the worker; it takes them on as an audience, and extended sessions start speaking into the shaft themselves. | Keeps one worker at the coping for the whole testimony and hands the session to somebody who was not listening if it runs long. | The file is explicit that speaking into the shaft is no failure of discipline: the Well listens well, and being listened to was the whole of what it was made to need. |
+| { *The Overflow* [**Refusal**] } | Gives up everything it has ever held in one rush when it is struck or overfilled — a heavy flood carrying old grief, and the level rises and stays risen. | Does not strike it, does not overfill it, and does not drain it at any gauge short of a sealed room. | The Well does not retaliate and does not pursue. A testimony cut short is held as an unfinished sentence, and the level stays where the interruption left it. |
+| { *The Drowned Yard* [**Overload**] } | Floods the yard, the street and the district when the reading reaches sixty-five per cent, holding all personnel under Lament pressure for three turns. | Clears the yard by head count, closes the chamber, and re-reads the coping mark when the water has gone back down. | The flood is the one event on this holding that is measured after the fact, because nothing in the chamber can be read while it is happening. What it leaves is a level that has never come back down on its own. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Personnel establish the water level against the mark on the coping before anyone speaks, because the level is the reading and a session begun without it cannot be scored. Note also how far the surrounding walls are leaning; the lean tracks the level and is visible from outside the chamber.
-2. **Clash:** Nothing here can be fought; the Well has already swallowed whatever could be shown to it. Viderehan keeps the level steady while the grief in the water is read; Ferrehan brings it down, and asks the worker to remain at the coping until a thing has been said through to the end. The session is the listening.
-3. **Resolution:** The watch closes when the sentence is finished — or by holding, managing or leaving the site, under this well's suppression condition: **Allow testimony to finish; do not drain the Well**.
+1. **What is confirmed:** the water level against the coping mark, the lean of the surrounding walls, and which worker will be at the coping when the speaking starts.
+2. **What the watch does:** Viderehan for the grief in the water and Ferrehan for the listening, with no interruption, no completed sentence and no time called on a testimony that has not ended.
+3. **How it closes:** the close is the file's documented condition: **Allow testimony to finish; do not drain the Well** — and a session that ends any other way carries its risen level into the next one, which is the whole of the Well's response.
 
 ### Consequences
 
@@ -400,7 +385,7 @@ Some sorrows are about losing. This one is about not being heard — mourning th
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
-- See Combat Record for engagement parameters.
+- See Contact Record for the level reading and the close.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED, whose border survey holds the only record of the gathering, taken three days after it was broken up.
 **Originator:** The mourners of the Zone E border, counted in the Keepers' record and unnamed in it.

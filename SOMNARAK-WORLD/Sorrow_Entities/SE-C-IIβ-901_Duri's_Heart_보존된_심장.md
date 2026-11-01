@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-901 [WO]` |
-| **Entity Type** | **Object** — Can breach via Transform |
+| **Entity Type** | **Object** — Non-breaching: expansion only; the Weight radius advances one fixed step per beat while the amber stays in its cradle, and nothing leaves it |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
@@ -45,51 +45,36 @@
 - Handlers' pulses are recorded at the door entering and leaving. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads and whatever the task state.
 - Extraction is separately authorised; it has been sought twice in forty-eight years and granted neither time, and the second refusal is four words long: *it is still beating.*
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 30% against Weight. Nothing has been attempted against the specimen and the amber has never been opened; the figure is schedule carry-over and the station treats the pulse series as the real column. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 448/448 |
-| **Han Pressure [ATK]** | 14–26 per hit · Weight |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the expansion record says plainly that nothing leaves the cradle and the advance can be outwalked. What it does is take the handler's pulse and hold it, and the record is a beat count called by somebody standing outside the glass.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A human heart suspended in dark amber Han-crystal, still beating — slow, wet, unmistakable — warm to the touch and pulsing in time with the organ within. It has not moved from its cradle in forty-eight years; what moves is the Weight radius, in steps. |
+| **Perceptible to** | The beat first, at a rate that has not varied; then the warmth of the amber, and the handler's own pulse arriving at the specimen's rate rather than their own. Neither the handler nor the party can feel it happen. |
+| **Handling** | Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, and the glass never opened. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [HP]** | 448/448 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-901 |
+| **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan permits study, and the darkening series and the beat become legible as a record rather than as behaviour; Ferrehan is patience, and the weight settles around a party that sits the full cycle at the marked distance without shortening it. |
+| **Location** | SECTOR-C-901, contained |
 | **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. 188 cycles; the pulse has matched in 147 of them and the 41 misses are the file. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "Your own pulse finds the specimen's rate and settles on it." | [The handler's heart matches the amber's unvarying beat within the first minute.] | *10 Weight. It has happened to every handler in forty-eight years and nobody has felt it happen.* **[10 Weight DMG [Weight]]** | On approach, every cycle. |
-| { *The Body Surge* [**Attack**] } | "The beat is yours now and it is not going any faster, whatever you are doing." | [The handler's heart holds the specimen's rate through exertion, alarm or injury.] | *18 Weight; the handler cannot raise their own pulse and will not register this as wrong.* **[18 Weight DMG [Weight]]** | When a handler stays past four hundred beats. |
-| { *The Settling* [**Attack**] } | "The specimen stops for one beat and so does everything else in the room." | [A single skipped beat, propagated to every heart present.] | *26 Weight to everybody in the chamber. Recorded nine times; all nine were followed by a fortnight of ordinary readings.* **[26 Weight DMG [Weight]]** | When the glass is touched. |
-| { *The Body Collapse* [**Ultimate**] } | "Every pulse in the wing takes the specimen's rate and holds it." | [The rate propagates beyond the chamber to anybody in the sector.] | *20 Weight per cycle for three cycles to everyone in the wing.* **[20 Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,231 Tide; the infirmary recorded sixty-one identical pulses in one afternoon. |
+| Event | What the Heart does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Weight* [**Register**] } | On approach the handler's heart matches the amber's unvarying beat within the first minute, and nobody has ever felt it happen. | The pulse is taken at the door and the beats are called aloud from outside the glass by somebody who is not the handler. | It has happened to every handler in forty-eight years, which is why the door reading is the record and the sensation is not. |
+| { *The Body Surge* [**Exposure**] } | Past four hundred beats the handler cannot raise their own pulse through exertion, alarm or injury, and does not register this as wrong. | The outside caller keeps the count, because the handler's sense of elapsed time is not the instrument and four hundred beats takes twenty minutes rather than six. | The composure is pleasant and does not recede for days, which is why the file records the description and the dose data beside it, in that order. |
+| { *The Settling* [**Refusal**] } | A single skipped beat is propagated to every heart in the chamber. Recorded nine times, and all nine were followed by a fortnight of ordinary readings. | The glass is not touched and the amber is not opened; extraction has been sought twice in forty-eight years and granted neither time. | The refusal is the glass. Nothing is taken out of it, and the specimen has never left the cradle. |
+| { *The Body Collapse* [**Overload**] } | Above sixty-five per cent every pulse in the wing takes the specimen's rate and holds it — recorded once, in Year 4231, when the infirmary logged sixty-one identical pulses in one afternoon. | The wing is cleared and the count is taken by the caller rather than inferred, and a converged handler is stood down for the day rather than for the shift. | The rate propagates and then withdraws, and the amber is inert on every assay. What is inside it is doing the work. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The handler's pulse is taken and written at the door, the pulse-caller takes position outside the glass, and the count begins. The caller is a second person and never the handler; that rule is the whole of the containment.
-2. **Clash:** Four turns, observation and endurance only, conducted seated at the marked distance with the handler's pulse called aloud at each turn boundary by somebody outside the cell.
-3. **Resolution:** The cycle ends on containment, management, withdrawal, or the documented condition: four hundred beats called, the party out of the cell with the handler's pulse within four beats of their own door reading, and the glass still shut.
+1. **What is confirmed:** the handler's pulse at the door, the beat count called from outside the glass, and the marked distance the party will sit at for the cycle.
+2. **What the watch does:** Viderehan makes the darkening series and the beat legible as a record, Ferrehan sits the cycle without shortening it, and the caller keeps the count aloud. The glass is not opened and the cradle is not touched.
+3. **How it closes:** the close is the file's documented condition: **Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut** — and a cycle that misses is entered as a miss rather than reasoned away.
 
 ### Consequences
 
@@ -143,22 +128,21 @@ Duri's Heart belonged to a healer named Duri who could not save everyone. In the
 
 Duri's Heart is an Object with Object-Body manifestation and Weight expression, held at SECTOR-C-901 on Floor 5. Flerehan and Pugnahan are unavailable to an Object. Both valid Work Types lower the gauge. What distinguishes this holding from every other Weight entity in the wing is that the pressure it applies is pleasant, and the file is built around the consequences of that.
 
-## Breach Behavior
+## Expansion Behavior
 
 > *"Duri's Heart is expanding its reach. The amber remains in its cradle; the Weight radius advances on the beat. Track the people reached, not an escaping organ."*
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — in discrete steps, one per beat. |
-| **Movement** | Nothing leaves the cradle. The affected radius grows by a fixed increment on each beat and holds between beats, so an expansion advances in visible steps of about forty centimetres every three seconds and can be outwalked at any point. |
-| **Effect** | Weight in the body register: a deepening composure, a slowing pulse, and a progressive unwillingness to stop working. Nobody inside the radius has ever reported discomfort, which is the hazard. |
-| **First Target** | Whoever is nearest when the affected radius begins to advance. It does not select: distance determines the order people are reached, while the expansion record describes a fixed step on each beat, not a quickening organ or a chosen victim. |
-| **Escalation** | Weight drain increases by 5 per turn until suppressed. Because the advance is one step per beat and the beat is invariant, the arrival time at any point in the sector can be calculated in advance — the only holding in the wing of which that is true. |
+| **Expansion Trigger** | Three ignored conditions, and nobody inside the advancing edge reports anything when it starts: the first sign is in the handler's pulse and not in the specimen, which is why the specimen is not the thing being watched. |
+| **Expansion Rate** | One fixed increment per beat and a hold between beats — a visible step of about forty centimetres every three seconds, which can be outwalked at any point. Because the beat is invariant, the arrival time at any part of the sector can be calculated in advance, and this is the only holding in the wing of which that is true. |
+| **Expansion Effect** | Weight in the body register: a deepening composure, a slowing pulse, and a progressive unwillingness to stop working. Nobody inside the radius has ever reported discomfort, which is the hazard. |
+| **Containment** | Take the handler's pulse at the door, call the specimen's beats aloud from outside the glass, and take the pulse again on leaving. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. |
 
 ### Escalation Notes
 
 - **Containment priority:** Cool the amber and slow the beat. Shattering the crystal does not end an expansion; it removes the only thing setting its pace, and the one attempt is recorded in full in the Watch Record.
-- **Sorrow Gauge on breach:** Opens at 50% and rises 5% per beat, so the gauge is a clock and the response procedure is written in beats rather than in minutes. It falls 5% for each beat called aloud by somebody outside the glass, which is why the caller exists and why the post is never left empty.
+- **Sorrow Gauge on expansion:** Opens at 50% and climbs for as long as the beats go uncalled, so the gauge is a clock and the response procedure is written in beats rather than in minutes. It falls for each beat called aloud by somebody outside the glass, which is why the caller exists and why the post is never left empty.
 
 ## Activation Behavior
 

@@ -45,51 +45,36 @@
 - There is no breach counter. Personnel do not handle individual links; handling is by the Chain as a whole under standing order.
 - Residue is recovered from the Row floor under separate authorization.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 30% against Weight pressure; 20% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 484/484 |
-| **Han Pressure [ATK]** | 8–19 per hit · Weight |
-| **Coherence modifier** | III — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says the Chain has never moved itself, and the only two occasions it was found rearranged were both after a shift in which the count rose — coiled on its stand, not advanced into the room. What it does is carry what a worker says, and the record's own instruction is to read the worker rather than the object.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Fragment (III) — Binding and connecting |
-| **Primary Pressure** | Resolve |
+| **Mode of presence** | A long chain of small dark links laid along a stand at Collector's Row, one link to a memory, four hundred and nine of them at the last count. It has never moved itself; twice it has been found coiled rather than laid flat, both times after a shift in which the count rose. |
+| **Perceptible to** | The weight of it first, though nothing is being carried; then the drift of a worker's own account of their childhood, and the count, which is the only reading that has ever predicted the hour that follows. Pressure, temperature and gauge have stayed flat across incidents and the count has not. |
+| **Handling** | Counted before anything else and the number written on the board at the door. Nobody names a person aloud in the room, Wardens are instructed to interrupt a worker who begins a sentence with a name, and the Chain is left slack along its stand. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 484/484 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-C-01, Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan displays the relationships between memories and holds the gauge; Ferrehan tests whether the worker can carry shared history, and is the row that lowers it. Neither requires a link to be touched. |
+| **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The Chain lies flat and slack along its whole length, with no link raised and none under tension, and stays that way through two full counts of the links by two different Wardens. The gauge is read afterward and has never been above 25% once the slack condition holds. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The First Link* [**Debuff**] } | "A memory surfaces — and attached to it, another, and another — a chain pulling upward from the deep." | [The Chain lifts memories from the target's past; each one is connected to the next.] | *Target suffers -10 Resolve; the connected memories are heavy.* **[10 Weight DMG [Weight]]** | When the target touches the Chain. |
-| { *The Tangled Past* [**Debuff**] } | "The memories link and cross-link — until your entire past is one knotted, heavy chain." | [The Chain's interconnections grow; the target's history is a burden.] | *Target loses 10 Resolve; every memory drags on every other.* **[10 Weight DMG [Weight]]** | When the target lingers. |
-| { *The Memory Whip* [**Attack**] } | "The chain lashes — and every memory on it strikes at once, each one a separate grief." | [A chain of connected memories strikes as one.] | *Inflicts Weight pressure and one wound of layered recollection.* **[14-22 Weight DMG [Weight]]** | When the Chain is pulled. |
-| { *The Full Unraveling* [**Attack**] } | "Four hundred and nine links open at the same instant, and every face inside them is looking the same direction — at you." | [Severance releases the whole catalogue at once, in no order, into whoever is nearest.] | *24–36 Weight to the cutter and a 15% Gauge surge; the Chain re-forms one link shorter and the lost link never returns.* **[24-36 Weight DMG [Weight]]** | When any link is severed, including by accident. |
-| { *The Chain of Everyone* [**Ultimate**] } | "Everyone in the room is suddenly remembering the same stranger's kitchen, and nobody in the room has ever been there." | [The Chain finds the one memory source two people share and runs a link between them whether they met or not.] | *12–20 Weight per cycle for three cycles to every person in the room; the shared memory is afterward recalled by all of them as their own.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When three or more people stand within the rail at once. |
+| Event | What the Chain does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The First Link* [**Register**] } | Lifts a memory out of a worker's past when the chain is touched, and attaches the next to it, so that the recollection arrives as a chain pulling upward from the deep. | Counts the links before anything else — the count is the only reading that has predicted the hour — and writes the number on the board at the door. | Every logged personnel injury at Collector's Row happened in a session where the gauge did not move at all. What moves is the count and the worker's own account of their childhood, and neither of those appears on the instrument. |
+| { *The Tangled Past* [**Exposure**] } | Links memory to memory until a history is one knotted chain, and every memory drags on every other. A worker who loses the thread answers questions with somebody else's details — a street they never lived on, a sister they do not have — calmly. | Interrupts a worker who begins a sentence with a person's name, and reads the three signs on the worker instead of the gauge: the first person going out of their own history, the confident correction of somebody else's recollection, and the drift in the count. | Resolve is spent in the correction afterwards and not in the moment. Cost accumulates by the link rather than by the minute: three of the four personnel withdrawn from the Row had touched between six and nine links across their service, and the fourth had touched two, both from the faceless end. |
+| { *The Memory Whip* [**Refusal**] } | Answers a pull with every memory on the chain striking at once, each one a separate grief. Nothing leaves the stand to do it and the links do not lengthen across the floor. | Does not pull. The chain is worked slack and never drawn, and a Warden who finds a link raised ends the session rather than lifting it free. | The refusal is the slack: a chain left flat does nothing at all, and the file has never had to describe a case in which it pursued anybody. It lengthens instead — every cycle left with a link raised has been followed by a higher count. |
+| { *The Full Unraveling* [**Overload**] } | Opens four hundred and nine links at the same instant when any link is severed, including by accident, and releases the whole catalogue at once, in no order, into whoever is nearest. The Chain re-forms one link shorter and the lost link never returns. | Keeps cutting instruments out of the room, ends the session on the two-count rule, and records the loss of the link as permanent in the register rather than as damage to be repaired. | A cycle that cannot be counted twice by two Wardens stays sealed until a third count settles it — this has happened eleven times, and on nine of them the higher count was the correct one. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** Count the links before anything else and write the number on the board at the door. The count is the only reading that has ever predicted the hour that follows — pressure, temperature and gauge have all stayed flat across incidents, and the count has not.
-2. **Clash:** There is no exchange to manage. The worker sits the cycle with the Chain slack and does not name anything aloud; the whole of the risk is in what the worker says, not in what the Chain does. Wardens on the rail are instructed to interrupt a worker who begins a sentence with a person's name.
-3. **Resolution:** The Chain is laid flat, counted twice by two Wardens, and left slack. If the two counts disagree the cycle is not closed and the room stays sealed until a third count settles it — this has happened eleven times, and on nine of them the higher count was correct.
+1. **What is confirmed:** the link count taken at the door, the names of the two Wardens who will count it again, and whether anybody present is holding an open loss they have been asked to state aloud.
+2. **What the watch does:** Viderehan for the relationships between memories and Ferrehan for carrying shared history, with the chain slack along its whole length and nobody naming a person in the room.
+3. **How it closes:** the close is the file's documented condition: **The Chain lies flat and slack along its whole length, with no link raised and none under tension, and stays that way through two full counts of the links by two different Wardens** — with the gauge read afterwards, which has never been above twenty-five per cent once the slack condition holds.
 
 ### Consequences
 

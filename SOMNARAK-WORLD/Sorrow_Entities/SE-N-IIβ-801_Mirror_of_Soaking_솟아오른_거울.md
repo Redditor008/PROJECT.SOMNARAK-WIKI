@@ -45,51 +45,36 @@
 - The surface reflects no face, only the anger beneath it, and glows red when approached by a worker suppressing their own. That glow is the assignment screen.
 - Yield is drawn from the reflected anger, so workers who have genuinely resolved their own produce the lowest returns on this row.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference. These values support field use and do not replace the full entity record.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 25% against Grudge pressure; 15% against other pressure types, and the second figure is arithmetic only — this record has never needed to outlast a worker who was standing in front of it doing the file's work. Its losses are written up afterwards. |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 403/403 |
-| **Han Pressure [ATK]** | 9–21 per hit · Grudge |
-| **Coherence modifier** | II — affects behavior complexity and response speed |
-| **Potency modifier** | β — affects pressure, durability, and escalation severity |
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the record says the Mirror does not revert or retaliate. What rises is the surface out of the floor, and the height in centimetres is read at the start and the end of the session.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Standard encounter |
-| **Coherence** | Echo (II) — Repeats reflecting anger |
-| **Primary Pressure** | Resilience |
+| **Mode of presence** | A standing mirror come up out of the floor of the vault at Collector's Row, its surface wet and glowing toward red near anybody holding something in, and giving back no face of its own. It rises and does not advance; the height is the number the station keeps. |
+| **Perceptible to** | The surface before the reflection: red near a worker who is holding something in, and the mark on the wall behind it, which is higher at a close than at a shift's start when the session goes wrong. Then the reflection, which is accurate and is not the worker's own anger's fault. |
+| **Handling** | Worked in front of the surface rather than against it, with the height taken in centimetres before anything is attempted, and the session attributed in writing before the room is left. Nobody works the Mirror alone and the conduct file is read before the height is. |
+| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Sorrow Gauge [HP]** | 403/403 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | Zone C, Collector's Row |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the event that created the anger and holds the reading steady; Ferrehan forces the worker to remain before their own rage without disowning it, and is the row that lowers the gauge. |
+| **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25% |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Wet Reflection* [**Debuff**] } | "Your reflection in the water smiles when you do not." | [The Mirror shows the target a version of themselves warped by old grudge.] | *Target suffers -10 Resilience; the reflection knows their anger.* **[10 Grudge DMG [Grudge]]** | When the target looks into the Mirror. |
-| { *The Dripping Face* [**Debuff**] } | "The face in the water weeps — and the tears are yours, not its." | [The reflection's sorrow seeps outward; the target absorbs it.] | *Target loses 10 Resilience; grief that is not theirs weighs on them.* **[10 Grudge DMG [Grudge]]** | When the target lingers at the surface. |
-| { *The Shattered Surface* [**Attack**] } | "The water breaks — and the hand that reaches up is your own." | [A hand erupts from the mirror-surface, dragging at the target.] | *Inflicts Grudge pressure and one grasping wound.* **[14-22 Grudge DMG [Grudge]]** | When the Mirror is disturbed. |
-| { *The Drowned Self* [**Attack**] } | “It pulls you under — to meet the version of you that sank here long ago.” | [The surface shows the target their own anger at full volume, with the injustice it grew out of underneath it.] | *The reading climbs 15% as the target recognises the fury as theirs; the Mirror does not have to hold anyone — the volume does.* **[24-36 Grudge DMG [Grudge]]** | When the Mirror is struck. |
-| { *A Thousand Wet Faces* [**Ultimate**] } | “Every surface becomes a mirror — and every reflection wants out.” | [Every wet surface on the Row returns a face at once, each one holding a different injustice.] | *All in range take Grudge pressure for three turns among the returned faces.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the Mirror does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Wet Reflection* [**Register**] } | Returns a version of the viewer warped by an old grudge, and the reflection smiles when the worker does not. | Identifies the holding by the surface rather than by the record — it is the one that comes up out of the floor, glows toward red near somebody holding something in, and gives back no face — then takes the height in centimetres before anything is attempted. | Several reflective holdings are catalogued and the record says plainly that the shape is the identification. The height at the start is the reading the whole session is scored against. |
+| { *The Dripping Face* [**Exposure**] } | Weeps through the reflection and lets the sorrow seep outward, so that the worker absorbs a grief that is not theirs and stands before their own fury without knowing what to do with it. | Reads who present is carrying an open conduct note before the session, and takes the height again at the close against the opening figure. | The conduct file has predicted this record more reliably than anything in the room, and the Mirror has risen during shifts when the chamber was empty, tracking notes written three sectors away. Attribution is the mechanism; exposure is not. |
+| { *The Drowned Self* [**Refusal**] } | Shows the worker their own anger at full volume with the injustice underneath it, and does not have to hold anybody — the volume does. The surface reverts to glass when the worker stops looking at it. | Does not strike the surface and does not turn it away. The worker stands before it, and the session is ended from outside once the anger has been named. | The refusal is the Mirror declining to be fought: it stands and it does not revert or retaliate. What it will not do is let anybody leave with the anger still unattributed. |
+| { *A Thousand Wet Faces* [**Overload**] } | Returns a face from every wet surface on the Row at once, each holding a different injustice, for three turns across everyone in range. | Clears the Row by head count, closes the vault, and takes the wall mark as the measure afterwards rather than the account of anybody who was in the room. | Depletion follows the anger that went unspoken, not the encounter. A session that ends with a note describing a worker as difficult has not closed — it has contributed. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The team identifies Mirror of Soaking by the surface rather than by the record. Several reflective holdings are catalogued; this is the one that rises out of the floor, glows toward red near somebody holding something in, and gives back no face. Confirm the designation, take the height in centimetres before anything else is attempted, and note who present is carrying an open conduct note — that field has predicted the reading more reliably than anything in the room.
-2. **Clash:** The team works in front of the surface rather than against it. Viderehan shows the event the anger came from and holds the reading steady; Ferrehan requires the worker to stand before their own fury without disowning it. The height the Mirror has risen to is the instrument, and it is read at the start and the end.
-3. **Resolution:** The session closes when the anger displayed has been attributed in writing to the condition that produced it rather than to the temperament of whoever is carrying it, and the reading falls below 25%. A session that ends with a note describing a worker as difficult has not closed; it has contributed.
+1. **What is confirmed:** the height of the surface in centimetres, the conduct note of anybody present, and the mark on the wall behind it.
+2. **What the watch does:** Viderehan for the event that created the anger and Ferrehan for standing before it without disowning it, with the session attributed in writing to the condition rather than to the person carrying it.
+3. **How it closes:** the close is the file's documented condition: **The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25%** — and where the attribution is not corrected, the Mirror does not revert or retaliate; it stands.
 
 ### Consequences
 
@@ -394,7 +379,7 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 - Standard containment protocols apply.
 **Observation Notes:**
 - See Origin section for formation details.
-- See Combat Record for engagement parameters.
+- See Contact Record for the height reading and the attribution rule.
 **Cross-References:** See entity’s interaction record and cross-references in the full file.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The debtors of Collector's Row collectively; the schedules name them individually and the file does not single one out, because the civility clause applied to all of them equally.

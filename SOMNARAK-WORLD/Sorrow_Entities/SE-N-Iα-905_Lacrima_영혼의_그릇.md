@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-905 [VO]` |
-| **Entity Type** | **Object** — Can breach via Transform |
+| **Entity Type** | **Object** — Non-breaching: expansion only; the lid gap widens and the light and the audible radius reach further along the access corridor, and nothing has ever come out of the jar |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
@@ -45,51 +45,36 @@
 - The lid is never lifted. Nothing has ever come out of the jar; the prohibition exists to protect the reading.
 - Two listeners transcribe independently. Four words in sixty-one years have been agreed by both, and none of them is a name.
 
-## Combat Record
-### Core Stat Line
+## Contact Record
 
-> **R.D. Field Parameters:** Normalized combat values for quick encounter reference.
-
-| Stat | Value |
-|---|---|
-| **Speed** | N/A — fixed |
-| **Resistance** | 25% against Void pressure; 18% against other pressure types |
-| **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 502/502 |
-| **Han Pressure [ATK]** | 11–20 per hit · Void |
-| **Coherence modifier** | I — affects behavior complexity and response speed |
-| **Potency modifier** | α — affects pressure, durability, and escalation severity |
-
-
-
-> **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.
+> **Why this file has no combat actions.** The Movement row says the jar is *fixed on its plinth* and that recorded expansions widen the lid gap and extend the light and the audible radius along the access corridor without moving the jar or releasing a figure from it. The warden's log says the rest: nothing is coming out, and nothing has ever come out.
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Medium — 16 turns |
-| **Threat Role** | Minor encounter — Residue (I), Minor (α), no recorded aggression in sixty-one years |
-| **Coherence** | Residue (I) |
-| **Primary Pressure** | Composure |
+| **Mode of presence** | A small clay jar on a plinth in an access corridor, unremarkable except for the light leaking from under its lid and a voice inside it — barely audible and always pleading, never loud enough to resolve. The lid sits on the rim and does not seat, and the gap does not close for long. |
+| **Perceptible to** | The light at the gap first, then the voice, which everyone in the radius hears as addressed to them personally. The gap is measured, not heard: four rim points, to a tenth of a millimetre, before anybody sits down. |
+| **Handling** | Feelers out before anything else; the gap measured at the four marked points and the mean entered; two listeners seated for the interval; nobody lifts the lid and nobody reaches for it. The lid is re-seated by hand, which takes one person about a minute. |
+| **Activation threshold** | 3 ignored conditions |
+| **Sorrow Gauge [HP]** | 502/502 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
-| **Valid Work Types** | Viderehan and Ferrehan only |
-| **Battlefield** | SECTOR-N-905 |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the pleading legible as pleading, which is not the same as intelligible; Ferrehan lowers the gauge by patience alone, with the worker sitting the interval out and not reaching for the lid. Neither Work Type moves the gap. |
+| **Location** | SECTOR-N-905, contained |
 | **Resolution Condition** | Gauge reduced, lid re-seated by hand, two independent transcripts filed. |
 
-### Combat Actions
+### Contact Events
 
-| Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
-|---|---|---|---|---|
-| { *The Lid’s Whisper* [**Debuff**] } | "The gap is three millimetres, and the voice comes through it as though it were saying your name." | [The pleading reaches the target as personally addressed; the belief settles before the listener can check it.] | *Target believes the plea is theirs and loses 10 Resolve to it.* **[10 Void DMG [Void]]** | When a listener first steps inside the radius. |
-| { *The Widening Gap* [**Attack**] } | "The light in the corridor is longer than it was at the start of the watch." | [The unseated lid widens; the pleading sharpens into pressure.] | *Void pressure strikes the target and the reading climbs.* **[15 Void DMG [Void]]** | When a reading is ignored or the lid is handled. |
-| { *Forty Pages* [**Attack**] } | "It said something. You are certain of it, and you will write down every word." | [Certainty of what was said takes hold of the target and the transcript begins.] | *The target writes at length, the certainty does the damage.* **[20 Void DMG [Void]]** | When the target begins to transcribe. |
-| { *The Unsealed Hour* [**Ultimate**] } | "One minute, one person, by hand — and by then the whole corridor has heard it." | [The gap stands open and the light reaches to the corridor’s end.] | *All personnel suffer Void erosion for three turns, until the lid is re-seated by hand.* **[17 Void DMG [Void] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| Event | What the jar does | What the watch carries out | Reading |
+|---|---|---|---|
+| { *The Lid's Whisper* [**Register**] } | Sends the voice through a gap of three millimetres as though it were saying the listener's name, and the belief that the plea is theirs settles before it can be checked. | Takes four rim readings and the mean to a tenth of a millimetre, seats two listeners rather than one, and hands each of them a separate page. | The gap answers to the retention register and the gauge answers to the session. A session that lowers the gauge and leaves the gap wider has been worked correctly and is written up as a success without qualification. |
+| { *The Widening Gap* [**Exposure**] } | Widens the gap when a reading is ignored or the lid is handled, and the pleading sharpens into pressure while the light in the corridor gets longer than it was at the start of the watch. | Re-measures at the close against the opening mean, and re-seats the lid by hand rather than by tool. | The three recorded expansions were slow and silent and every one of them ended at a re-measurement. The gap is the instrument, and it has never exceeded three point one millimetres. |
+| { *The Unsealed Hour* [**Refusal**] } | Stands open when it is not re-seated, and the light reaches the corridor's end while the voice erodes everyone in it — until one person puts a hand on the lid. | Ends the session, sends for the second listener's transcript, and re-seats the lid by hand. Suppression is not attempted. | The refusal is the lid: it will not be closed by anything but a hand. Physical suppression was refused in Year 4231 because the facility would be breaking the only instrument it has, and the file has not revisited the question. |
+| { *Forty Pages* [**Contagion**] } | Gives the conviction that something was said, and the certainty is what does the damage: the transcript begins and runs long, detailed, and uncorroborated. | Files two independent transcripts and counts only the words both listeners agree on. In sixty-one years that is four words. | None of the four is a name. The transcript is not a record of the jar; it is a record of what a listener was certain of, which is why the two-listener rule is the whole of the method. |
 
-### Battle Phases
+### Watch Sequence
 
-1. **Tension:** The feeler gauges come out before anything else. The lid sits on the rim and does not seat; measure the gap at the four marked points and record the mean to a tenth of a millimetre. Four tenths is baseline. The recorded range is one tenth to three point one.
-2. **Clash:** Viderehan and Ferrehan, from a seated position, for the scheduled interval. Nobody lifts the lid. The prohibition is not a safety measure — the gap has never exceeded three point one millimetres and nothing has ever come out of the jar — it is there because a lifted lid destroys the only reading this holding produces.
-3. **Resolution:** Second measurement, both figures to the desk, and the voice transcribed as far as it is intelligible, which is usually not at all. In sixty-one years four words have been agreed by two listeners independently. They are in the folder. None of them is a name.
+1. **What is confirmed:** the gap at the four marked points and the mean to a tenth of a millimetre, the names of the two listeners, and the previous session's mean for comparison.
+2. **What the watch does:** Viderehan for the pleading made legible and Ferrehan for the interval sat out without reaching for the lid, with both listeners writing separately and neither shown the other's page.
+3. **How it closes:** the close is the file's documented condition: **Gauge reduced, lid re-seated by hand, two independent transcripts filed** — and a session that closed without the two transcripts is entered as an unclosed watch, whatever the gauge did.
 
 ### Consequences
 
@@ -147,22 +132,21 @@
 
 Viderehan lowers the gauge: the pleading becomes legible as pleading, which is not the same as becoming intelligible, and workers consistently report that the distinction is the hardest thing in the file to hold. Ferrehan lowers it too, by patience alone — the worker sits the interval out and does not reach for the lid. Neither Work Type moves the gap. The gap answers to the retention register and the gauge answers to the session, and supervisors are instructed that a session which lowers the gauge and leaves the gap wider has been worked correctly and is written up as a success without qualification.
 
-## Breach Behavior
+## Expansion Behavior
 
 > *"It has not broken free. The gap is at three millimetres and the light is in the corridor. Nothing is coming out. Nothing has ever come out."* — Warden's log, expansion of Year 4230
 
 | Field | Detail |
 |---|---|
-| **Breach Type** | Expansion — the gap widens and the light reaches further. The jar does not move, open, or release anything, and no personnel injury has been recorded at any gap width. |
-| **Movement** | None. The vessel is where it has always been. What expands is the light and the audible radius of the voice, which at three point one millimetres reached the end of the access corridor and no further. |
-| **Effect** | Everyone within the radius hears the pleading and believes, strongly, that it is addressed to them. It is not addressed to anyone; the two-listener rule exists because of this and because of the forty pages of transcripts produced in Year 4230. |
-| **First Target** | No target. There is no recorded instance of this entity selecting, approaching, or harming a person, and earlier editions of this row said otherwise on no evidence at all. |
-| **Escalation** | Void drain +5 a turn while the gap stands open. It closes when the lid is re-seated by hand, which has worked on all three occasions and takes one person about a minute. |
+| **Expansion Trigger** | The lid does not seat. The gap is measured at the four marked points on the rim and entered to a tenth of a millimetre: four tenths is baseline and three point one is the widest ever recorded. No injury has ever announced an expansion, which is why the gauge comes out before anything else does. |
+| **Expansion Rate** | The gap widens, and the light and the audible radius of the voice extend along the access corridor. At three point one millimetres the voice reached the end of the corridor and no further. The three recorded expansions were all slow, all silent, and all ended the same way. |
+| **Expansion Effect** | Everyone within the radius hears the pleading and believes, strongly, that it is addressed to them. It is not addressed to anyone; the two-listener rule exists because of this, and because of the forty pages of transcripts produced in Year 4230. |
+| **Containment** | Re-seat the lid by hand and re-measure at the four rim points; this has worked on all three occasions and takes one person about a minute. Physical suppression was proposed once, in Year 4231, and refused on the ground that the facility would be breaking the only instrument it has. |
 
 ### Escalation Notes
 
 - **Containment priority:** Re-seat the lid by hand and re-measure. Physical suppression has never been required, was proposed once in Year 4231, and was refused on the ground that the facility would be breaking the only instrument it has.
-- **Sorrow Gauge on breach:** Opens at 40% and climbs 10% a turn unattended. On this holding the figure has never been reached in anger: the three recorded expansions were all slow, all silent, and all ended when the gap was re-measured and the lid re-seated by hand.
+- **Sorrow Gauge on expansion:** Opens at 40% and climbs 10% a turn unattended. On this holding the figure has never been reached in anger: the three recorded expansions were all slow, all silent, and all ended when the gap was re-measured and the lid re-seated by hand.
 
 ## Activation Behavior
 
