@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% at intake, read only after the lid gap has been measured at the four rim points |
 | **Han-Energy yield** | 12–18 across a successful cycle, logged against that session’s own rim-gauge mean |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
-| **Activation threshold** | 3 |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α); the jar has never been broken, and the figure is the standard table’s rather than a measured one |

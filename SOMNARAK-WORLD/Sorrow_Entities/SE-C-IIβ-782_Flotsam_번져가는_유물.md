@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, worked across the stored material of Old Lament rather than at a point. A cycle is one full inventory pass of the outlined objects, which at 611 items takes most of a shift. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 3 |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | β (Moderate) — the Fading Fang, Plate and Ember are each graded to the holding; this is the equipment grade, not a second rating or an assigned Relic use class. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |

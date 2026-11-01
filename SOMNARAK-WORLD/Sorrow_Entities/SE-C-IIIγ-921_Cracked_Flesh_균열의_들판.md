@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, measured against ground rather than time: a cycle is one full traverse of the affected field, which at the present extent takes about forty minutes at a walking pace nobody is allowed to break. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | 3 |
+| **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | There is no vessel and no occupant. The hazard is a property of a measured area of ground, and it presents on stone, timber, cloth and skin in exactly the same way. |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |

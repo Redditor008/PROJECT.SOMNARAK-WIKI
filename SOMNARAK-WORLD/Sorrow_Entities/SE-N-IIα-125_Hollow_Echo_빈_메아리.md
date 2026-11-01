@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% at the door, read against the interval rather than against the volume |
 | **Han-Energy yield** | 10–14 in a session, and no session has yet produced the return that would change the figure |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | 4 |
+| **Activation threshold** | 4 ignored conditions |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |

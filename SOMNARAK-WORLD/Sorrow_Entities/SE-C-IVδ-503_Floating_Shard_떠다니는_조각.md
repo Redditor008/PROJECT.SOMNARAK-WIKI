@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle, drawn from the compassion the crystal holds rather than from the bay. The yield has never tracked the cycle's quality, and the two Corrupt events on record produced none at all. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | δ · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |

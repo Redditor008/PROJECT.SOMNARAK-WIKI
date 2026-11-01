@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | High on first contact — 60–80% — because the object has already passed through more hands than the wing can count. |
 | **Han-Energy yield** | Twenty to twenty-eight, earned solely when a cycle runs to its end, and counted from the form records rather than from what the figure reports. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 1 |
+| **Activation threshold** | 1 reading |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | Somewhere between one and ten tons, at the Critical grade. The relic can be destroyed; that was never the same question as whether it can be kept. |

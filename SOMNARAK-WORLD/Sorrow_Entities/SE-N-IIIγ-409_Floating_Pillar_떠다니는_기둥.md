@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | The gap opens somewhere between 45 and 65 per cent wherever it is first noticed. The spread is not looseness in the record: it tracks what the bay has already been asked to carry. |
 | **Han-Energy yield** | Earned in a band — 16 to 22 — and only on a cycle that completes. Where in the band it lands is set by how much of the absence the crew was willing to stand inside. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | 2 |
+| **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | There is no drop to record: the Pillar is a hole where a column should be, and the row is carried only so the table stays whole. |
